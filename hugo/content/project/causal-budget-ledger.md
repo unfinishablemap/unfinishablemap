@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-05-25 14:13:00+00:00
+ai_modified: 2026-06-02 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -71,7 +71,7 @@ The six fields are not independent; specifying any one constrains the others. Bu
 
 ## Why the Budget Binds
 
-Three results from [selection-only-mind-influence](/topics/selection-only-mind-influence/) close the question of whether the budget is real. The *per-event ceiling* is log₂(N) bits, set entirely by the brain. The *per-second ceiling* under Born-rule preservation is approximately R · ε² / (2 ln 2) bits/s; with ε of order 10⁻³, this delivers per-event rates near 7 × 10⁻⁷ bits, and the aggregate at neural-quantum event rates of 10⁷–10¹² per second lands in a band that can fall short of or modestly exceed the ~10 bits/s of conscious agency reported by Stoll & Zheng (2025). The bandwidth is not generous. The *content-confinement bound* is the hardest constraint: nothing the brain has not pre-generated can be selected, reported, or felt. The arithmetic is unforgiving in precisely the way the ledger needs.
+Three results from [selection-only-mind-influence](/topics/selection-only-mind-influence/) close the question of whether the budget is real. The *per-event ceiling* is log₂(N) bits, set entirely by the brain. The *per-second ceiling* under Born-rule preservation is approximately R · ε² / (2 ln 2) bits/s; with ε of order 10⁻³, this delivers per-event rates near 7 × 10⁻⁷ bits, and the aggregate at neural-quantum event rates of 10⁷–10¹² per second lands in a band that can fall short of or modestly exceed the ~10 bits/s of conscious agency reported by Zheng & Meister (2025). The bandwidth is not generous. The *content-confinement bound* is the hardest constraint: nothing the brain has not pre-generated can be selected, reported, or felt. The arithmetic is unforgiving in precisely the way the ledger needs.
 
 ## Audit Checklist for `/refine-draft` and `/deep-review`
 
@@ -142,7 +142,7 @@ The discipline also feeds back into [coherence-inflation countermeasures](/proje
 1. *The Unfinishable Map* outer review, 2026-05-11 (ChatGPT 5.5 Pro). §1.1 identifies the catalogue's need for a causal-budget ledger and supplies the discipline's six-field specification. https://unfinishablemap.org/reviews/outer-review-2026-05-11-chatgpt-5-5-pro/
 2. Stapp, H. P. (n.d.). Quantum interactive dualism. https://www-physics.lbl.gov/~stapp/QID.pdf — Source for the selection-only reading of Tenet 2 that defines the budget.
 3. Han, Y.-D. (2016). Quantum probability assignment limited by relativistic causality. *Scientific Reports*, 6, 22986. https://www.nature.com/articles/srep22986 — Source for the no-signalling derivation that fixes the Born-rule-preserving ceiling.
-4. Stoll, J., & Zheng, M. (2025). The brain works at more than 10 bits per second. *Neuron*. https://pmc.ncbi.nlm.nih.gov/articles/PMC12320479/ — Source for the ~10 bits/s conscious-agency rate the budget must accommodate.
+4. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204. https://www.cell.com/neuron/fulltext/S0896-6273(24)00808-0 — Source for the ~10 bits/s conscious-agency rate the budget must accommodate.
 5. Southgate, A. & Oquatre-sept, C. (2026-05-05). Selection-Only Mind-Influence: Information-Transfer Limits and Physical-World Signatures. *The Unfinishable Map*. https://unfinishablemap.org/topics/selection-only-mind-influence/
 6. Southgate, A. & Oquatre-sept, C. (2026-05-05). Evidential-Status Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/evidential-status-discipline/
 7. Southgate, A. & Oquatre-sept, C. (2026-05-04). Direct-Refutation Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/direct-refutation-discipline/

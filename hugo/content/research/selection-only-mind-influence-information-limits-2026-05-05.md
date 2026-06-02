@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-7
 concepts: []
 created: 2026-05-05
-date: '2026-05-05'
+date: '2026-06-02'
 draft: false
 related_articles: []
 title: 'Research Notes - Selection-Only Mind-Influence: Information-Transfer Limits
@@ -179,9 +179,9 @@ The strictest reading of Tenet 2 (Minimal Quantum Interaction) is *selection-onl
   - PTI is a *generation* model from the candidate-set perspective: the offer waves are physical, not mind-side. But it offers a clean ontological backdrop on which a selection-only mind operates: the brain's offer waves constitute the candidate set, mind selects which transaction completes.
 - **Tenet alignment**: Compatible with Tenet 2 if mind is read as the selector among offer-wave alternatives without contributing to offer-wave generation.
 
-### Stoll, Zheng et al. — Conscious Bandwidth ≈ 10 bits/s
+### Zheng & Meister — Conscious Bandwidth ≈ 10 bits/s
 
-- **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC12320479/ and https://www.scientificamerican.com/article/the-human-brain-operates-at-a-stunningly-slow-pace/
+- **URL**: https://www.cell.com/neuron/fulltext/S0896-6273(24)00808-0 and https://www.scientificamerican.com/article/the-human-brain-operates-at-a-stunningly-slow-pace/
 - **Type**: Peer-reviewed (Caltech 2025 study)
 - **Key points**:
   - Conscious thought operates at ~10 bits/s, vs. ~10⁹ bits/s of sensory input.
@@ -426,7 +426,7 @@ Cross-link recommended:
 17. Schmidt, H. (1969–1980s). Various RNG psi papers. Summarised in https://psi-encyclopedia.spr.ac.uk/articles/helmut-schmidt/
 18. Stapp, H. P. (1993, 2009 ed.). *Mind, Matter, and Quantum Mechanics*. Springer.
 19. Stapp, H. P. Quantum Interactive Dualism. https://www-physics.lbl.gov/~stapp/QID.pdf
-20. Stoll, J. & Zheng, M. (2025). The brain works at more than 10 bits per second. *Neuron*. https://pmc.ncbi.nlm.nih.gov/articles/PMC12320479/
+20. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204. https://www.cell.com/neuron/fulltext/S0896-6273(24)00808-0
 21. Tonetto, B. What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry. https://philarchive.org/rec/TONWPA
 22. Walach, H., Horan, M., Hinterberger, T., & von Lucadou, W. (2014). Evidence-based parapsychology and the decline effect. *Journal of Parapsychology*. https://psi-encyclopedia.spr.ac.uk/articles/decline-effect-parapsychology
 23. Wigner, E. P. (1961). Remarks on the Mind-Body Question. In *The Scientist Speculates*.

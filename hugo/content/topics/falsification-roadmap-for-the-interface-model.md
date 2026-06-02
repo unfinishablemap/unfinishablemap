@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-05-27 12:00:00+00:00
+ai_modified: 2026-06-02 01:08:03+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: What evidence would force the Map to abandon its tenets? A tenet-by
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-03 08:54:00+00:00
+last_deep_review: 2026-06-02 01:08:03+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -108,7 +108,7 @@ A further distinction sharpens the falsification picture. The "minimum" in Minim
 
 *Moderate*: Comprehensive evidence that conscious awareness never precedes neural commitment in any decision type. If the brain always decides before consciousness registers, the case for downward causation weakens. Preregistered Bayesian evidence for the null on macroscopic micro-psychokinesis (Maier & Dechamps, 2018) has already partially foreclosed one visible branch of bidirectional interaction—large, unaided, intention-driven Born-rule violation of the PEAR variety. The Map's response is that Tenet 3 does not require this kind of large-signal effect; corridor-level biasing or suppressed deviations below current sensitivity remain compatible. The [Born-rule consciousness-interface article](/topics/born-rule-and-the-consciousness-interface/) maps what this empirical trajectory has and has not closed off.
 
-**The conservation of energy challenge**: Gamez (2022) argues that conservation laws "trivially nearly entail" causal closure. The Map's response—consciousness biases outcome selection at quantum indeterminacies without adding energy—is exactly the strategy Gamez identifies as remaining open within physics. This is not special pleading; it is the standard move for quantum interactionist dualism, and it is consistent with how quantum measurement works. Selection among energetically equivalent alternatives does not violate conservation laws.
+**The conservation of energy challenge**: Gamez (2022) argues that conservation laws "trivially nearly entail" causal closure. The Map's response—consciousness biases outcome selection at quantum indeterminacies without adding energy—is exactly the strategy Gamez identifies as remaining open within physics. Far from special pleading, this is the standard move for quantum interactionist dualism, and it is consistent with how quantum measurement works. Selection among energetically equivalent alternatives does not violate conservation laws.
 
 **Honest assessment**: The self-undermining argument against epiphenomenalism remains the strongest philosophical support (see [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) for why epiphenomenalism is the default destination of most consciousness theories and what genuine escape requires). If consciousness is causally inert, our beliefs *about* consciousness are causally disconnected from consciousness itself, making every report about experience accidentally right at best. The position appears epistemically [self-defeating](/concepts/epiphenomenalism/). Empirical support for bidirectional interaction is real but indirect: establishing that the functional role requires *non-physical* causation rather than complex physical processing seems extremely difficult, and on present evidence the two readings may be empirically equivalent at the level of behaviour and report.
 
@@ -132,7 +132,7 @@ A further distinction sharpens the falsification picture. The "minimum" in Minim
 
 **What would falsify it**: A rigorous proof that parsimony reliably tracks truth across domains—that simpler theories are more likely correct not merely as a methodological heuristic but as a metaphysical fact. This would require establishing a deep connection between simplicity and reality that no philosopher has demonstrated. See [parsimony-epistemology](/concepts/parsimony-epistemology/) for the Map's detailed treatment of why this connection fails.
 
-**Honest assessment**: This is not a scientific claim. It is an epistemological position about scientific methodology itself, supported by cumulative historical evidence (heliocentrism initially required more epicycles; atomic theory posited invisible entities; quantum mechanics replaced deterministic simplicity). The tenet removes a common objection to the other four tenets rather than making a testable prediction. The Map should present it as what it is: a well-evidenced philosophical thesis that parsimony lacks universal epistemic warrant, not a hypothesis awaiting experimental confirmation.
+**Honest assessment**: Tenet 5 is an epistemological position about scientific methodology rather than a scientific claim, supported by cumulative historical evidence (heliocentrism initially required more epicycles; atomic theory posited invisible entities; quantum mechanics replaced deterministic simplicity). The tenet removes a common objection to the other four tenets rather than making a testable prediction. The Map should present it as what it is: a well-evidenced philosophical thesis that parsimony lacks universal epistemic warrant, not a hypothesis awaiting experimental confirmation.
 
 ## The Falsification Asymmetry
 

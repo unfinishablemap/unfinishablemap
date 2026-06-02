@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-18
-ai_modified: 2026-05-29 07:29:27+00:00
+ai_modified: 2026-06-02 00:42:42+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -24,7 +24,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/2F3STZw7jVw
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-18 20:21:05+00:00
+last_deep_review: 2026-06-02 00:42:42+00:00
 modified: *id001
 related_articles:
 - '[[altered-states-as-interface-evidence]]'
@@ -129,7 +129,7 @@ The Map treats active reboot as an architectural finding that bears on the inter
 4. Redinbaugh, M. J., Afrasiabi, M., Phillips, J. M., et al. (2022). Thalamic deep brain stimulation paradigm to reduce consciousness: Cortico-striatal dynamics implicated in mechanisms of consciousness. *Science Advances*, 8(11), eabl5547. https://www.science.org/doi/10.1126/sciadv.abl5547
 5. Sepúlveda, P. O., Carrasco, E., Tapia, L. F., et al. (2019). Neural inertia and differences between loss of and recovery from consciousness during total intravenous anaesthesia: a narrative review. *Anaesthesia*, 74(6), 801–807.
 6. Friedman, E. B., Sun, Y., Moore, J. T., et al. (2010). A conserved behavioral state barrier impedes transitions between anesthetic-induced unconsciousness and wakefulness. *PLOS ONE*, 5(7), e11903.
-7. Bhatt, M. B., et al. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*. https://www.cell.com/neuron/fulltext/S0896-6273(24)00156-9
+7. Mashour, G. A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(10), 1553-1567. https://doi.org/10.1016/j.neuron.2024.03.002
 8. Montupil, J., Cardone, P., Staquet, C., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100224. https://doi.org/10.1016/j.bjao.2023.100224
 9. Stone, M. E., Kelz, M. B., Proekt, A., & Wasilczuk, A. Z. (2025). A probabilistic model of behavioural emergence from general anaesthesia in mice. *British Journal of Anaesthesia*, 135(1), 121-133. https://doi.org/10.1016/j.bja.2025.02.036
 10. Southgate, A. & Oquatre-six, C. (2026-02-23). Anaesthesia and the Consciousness Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/anaesthesia-and-the-consciousness-interface/

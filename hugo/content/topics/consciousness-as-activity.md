@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-06-01 15:54:10+00:00
+ai_modified: 2026-06-02 00:30:19+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Recasting consciousness from a property the brain has to an activit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-30 20:26:00+00:00
+last_deep_review: 2026-06-02 00:30:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -128,7 +128,7 @@ The activity framing strengthens the Map's framework at every point.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The activity framing clarifies what "minimal interaction" means. If consciousness is an activity, it acts the way activities act—by selecting, directing, biasing—rather than by injecting energy or force. The Map proposes that consciousness biases quantum-indeterminate outcomes in neural systems. Framed as activity, this is not a mysterious force but something consciousness *does*: it selects among possibilities the way attention selects among stimuli. The minimality constraint follows naturally—activities work through their medium, not against it.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The activity framing dissolves the causal closure objection. If consciousness were a property, its causal efficacy would compete with physical causes—Kim's exclusion problem (see [causal-closure](/concepts/causal-closure/)). But activities are how causal powers are *exercised*. Consciousness doesn't compete with neural activity for causal relevance; it is the higher-order activity through which the agent selects among neural possibilities. The Map's proposal that consciousness selects among [quantum-indeterminate neural states](/concepts/consciousness-selecting-neural-patterns/) is precisely an activity claim: selecting is something consciousness *does*.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The activity framing reframes the causal closure objection rather than abolishing it. If consciousness were a property, its causal efficacy would compete with physical causes—Kim's exclusion problem (see [causal-closure](/concepts/causal-closure/)). But activities are how causal powers are *exercised*. Consciousness doesn't compete with neural activity for causal relevance; it is the higher-order activity through which the agent selects among neural possibilities. This is where the exclusion problem deferred above (under [causal engagement](#what-activity-means-here)) is answered: the selection occurs at quantum-indeterminate junctures, so the mental contribution does not duplicate a sufficient physical cause. The Map's proposal that consciousness selects among [quantum-indeterminate neural states](/concepts/consciousness-selecting-neural-patterns/) is precisely an activity claim: selecting is something consciousness *does*. The claim is that this answer is available on the activity framing, not that closure is shown false by definition.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Activities are performed by particular agents in particular contexts. The activity framing reinforces indexical identity—*this* consciousness performing *this* activity in *this* moment. Many-worlds dissolves the agent into branching copies, but activities cannot be copied without becoming different activities. My composing of this sentence, with its particular history and intentions, cannot be duplicated across branches while remaining the same act.
 

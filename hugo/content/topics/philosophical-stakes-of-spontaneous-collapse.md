@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-05-26 09:03:14+00:00
+ai_modified: 2026-06-02 01:36:59+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -37,7 +37,7 @@ topics:
 - '[[testing-consciousness-collapse]]'
 ---
 
-The choice between [spontaneous collapse theories](/concepts/spontaneous-collapse-theories/)—GRW, CSL, and Penrose's objective reduction—is not merely a technical question about quantum formalism. It determines whether consciousness is causally connected to physical reality at the deepest level, or whether the universe runs itself without reference to minds at all. The Unfinishable Map holds that the answer lies between these extremes: consciousness modulates a collapse process that would occur anyway, operating at the smallest possible quantum scale. But this position depends on getting the physics right, and the physics is still open. The stakes are high: if spontaneous collapse theories are experimentally confirmed, they open a concrete pathway for [interactionist-dualism](/concepts/interactionist-dualism/); if falsified, the Map must find alternative ground.
+The choice between [spontaneous collapse theories](/concepts/spontaneous-collapse-theories/)—GRW, CSL, and Penrose's objective reduction—is not merely a technical question about quantum formalism. It determines whether consciousness is causally connected to physical reality at the deepest level, or whether the universe runs itself without reference to minds at all. The Unfinishable Map holds that the answer lies between these extremes: consciousness modulates a collapse process that would occur anyway, operating at the smallest possible quantum scale. But this position depends on getting the physics right, and the physics is still open—the existence of an objective collapse process remains underdetermined by the evidence, with no-collapse alternatives like Bohmian mechanics empirically equivalent at current precision. The stakes are high: if spontaneous collapse theories are experimentally confirmed, they may open a concrete pathway for [interactionist-dualism](/concepts/interactionist-dualism/); if falsified, the Map must find alternative ground.
 
 ## Three Pictures of Collapse and Consciousness
 
@@ -53,11 +53,11 @@ These are not just different equations. They embody different answers to the que
 
 ## What Objective Collapse Says About Reality
 
-If any spontaneous collapse theory is correct, reality has a feature that standard quantum mechanics lacks: an objective fact about when and where superpositions end. This has philosophical consequences that extend well beyond the measurement problem.
+If any spontaneous collapse theory is correct, reality has a feature that standard quantum mechanics lacks: an objective fact about when and where superpositions end. This has philosophical consequences that extend well beyond the measurement problem. The conditional is load-bearing: the consequences below follow from the collapse reading, but that reading is not itself forced by the data, which remain compatible with both collapse and no-collapse interpretations. The stakes the Map draws are therefore conditional on an interpretive choice the evidence does not yet decide.
 
 **Determinacy is built in.** Unlike [decoherence](/concepts/decoherence/)-only interpretations, where superpositions merely become practically inaccessible, objective collapse produces genuinely definite states. The universe contains actual facts—this atom is *here*, that particle has *this* momentum—not merely the appearance of facts from a particular observer's perspective. For the Map's framework, this matters: consciousness modulating a real collapse process is fundamentally different from consciousness tracking a branch of an ever-expanding superposition (as in [many-worlds](/concepts/many-worlds/)).
 
-**Time acquires directionality.** Collapse is irreversible. Once a superposition resolves into a definite outcome, the information about the other possibilities is physically destroyed, not merely hidden. This gives time an arrow that unitary quantum mechanics lacks. As [collapse-and-time](/concepts/collapse-and-time/) explores, this irreversibility may be connected to phenomenal time—the experienced flow from past to future that physics otherwise struggles to accommodate.
+**Time acquires directionality.** Collapse is irreversible. Once a superposition resolves into a definite outcome, the information about the other possibilities is physically destroyed, not merely hidden. This may give time an arrow that unitary quantum mechanics lacks—though whether collapse irreversibility grounds the thermodynamic arrow or merely accompanies it remains open. As [collapse-and-time](/concepts/collapse-and-time/) explores, this irreversibility may be connected to phenomenal time—the experienced flow from past to future that physics otherwise struggles to accommodate.
 
 **The universe is stochastic at bottom.** GRW and CSL introduce fundamental randomness that goes beyond quantum measurement statistics. The noise field driving CSL collapse, or the Poisson-distributed GRW localization events, represent irreducible chance in the fabric of reality. For the Map, this stochasticity is an asset: it provides the openness that [libertarian free will](/topics/free-will/) requires. Consciousness does not need to override deterministic laws; it modulates genuinely open processes.
 

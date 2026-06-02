@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-06-01 00:00:00+00:00
+ai_modified: 2026-06-02 01:12:17+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -29,7 +29,7 @@ description: 'Consciousness is the paradigm case of strong emergence: genuinely 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-11 08:50:00+00:00
+last_deep_review: 2026-06-02 01:12:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -184,7 +184,7 @@ This vocabulary serves comparison rather than canonical self-description: the Ma
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness emerged and what this reveals about emergence
 - [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) — Why consciousness is the singular exception to reductionism's record
 - [reductionism](/concepts/reductionism/) — The three types of reductionism and why consciousness resists each
-- [interactionist-dualism](/concepts/interactionist-dualism/) — the Map's framework as strong emergentism at the quantum opening
+- [interactionist-dualism](/concepts/interactionist-dualism/) — the Map's framework at the quantum opening, adjacent to strong emergentism but bi-aspectual rather than from-below
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Candidate coupling mechanisms for how consciousness interacts with quantum systems
 - [measurement-problem](/concepts/measurement-problem/) — The central puzzle creating logical space for consciousness at quantum indeterminacy
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — Why measurement is philosophically special, not just a physics puzzle

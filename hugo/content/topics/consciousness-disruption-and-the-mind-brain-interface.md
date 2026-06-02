@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-06-01 01:22:27+00:00
+ai_modified: 2026-06-02 00:42:42+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -203,7 +203,7 @@ The Map's [tenets](/tenets/) converge on consciousness disruption as a domain wh
 2. Melloni, L., et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142.
 3. Mashour, G. A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*.
 4. Sarasso, S., et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099-3105.
-5. Hu, B., et al. (2023). Ubiquitin-driven KCC2 degradation in the ventral posteromedial thalamus drives emergence from anesthesia. *Neuron*.
+5. Hu, J.-J., Liu, Y., Yao, H., et al. (2023). Emergence of consciousness from anesthesia through ubiquitin degradation of KCC2 in the ventral posteromedial nucleus of the thalamus. *Nature Neuroscience*, 26, 751-764. https://doi.org/10.1038/s41593-023-01290-y
 6. James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*.
 7. Bergson, H. (1896). *Matter and Memory*.
 8. Huxley, A. (1954). *The Doors of Perception*.

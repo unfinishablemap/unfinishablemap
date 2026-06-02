@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-05-26 07:30:00+00:00
+ai_modified: 2026-06-02 00:30:19+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -219,6 +219,7 @@ Mental causation and downward causation are central to the Map's framework.
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — Self-stultification generalised beyond epiphenomenalism
 - [emergence](/concepts/emergence/) — Mental causation as strong emergence with mechanism
 - [agent-causation](/concepts/agent-causation/) — Agent causation as substance causation
+- [consciousness-as-activity](/topics/consciousness-as-activity/) — Why an activity (unlike a property) cannot be epiphenomenal, removing one defeater for mental causation
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why conservation laws don't block mental causation
 - [decoherence](/concepts/decoherence/) — The physics challenge and why it doesn't close the quantum opening
 - [mind-matter-interface](/concepts/mind-matter-interface/) — The unified two-layer architecture

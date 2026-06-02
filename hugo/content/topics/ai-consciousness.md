@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-05-31 12:40:56+00:00
+ai_modified: 2026-06-02 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -36,9 +36,10 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/NnRRVu1qk7Q
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-06 02:18:00+00:00
+last_deep_review: 2026-06-02 00:00:00+00:00
 modified: *id001
 related_articles:
+- '[[machine-consciousness]]'
 - '[[consciousness-evolution-and-biology]]'
 - '[[bandwidth-of-consciousness]]'
 - '[[tenets]]'
@@ -236,7 +237,7 @@ None of these has occurred decisively. The explanatory gap remains unbridged. Th
 1. Chalmers, D. (2010). The Singularity: A Philosophical Analysis. *Journal of Consciousness Studies*, 17(9-10), 7-65.
 1. Engel, G. S., Calhoun, T. R., Read, E. L., et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446(7137), 782-786.
 1. Harnad, S. (2007). Symbol grounding problem. *Scholarpedia*, 2(7), 2373.
-1. Hoel, E. (2025). The Proximity Argument Against LLM Consciousness. Preprint.
+1. Hoel, E. (2025). A Disproof of Large Language Model Consciousness: The Necessity of Continual Learning for Consciousness. arXiv:2512.12802 (preprint, not peer-reviewed).
 1. Horgan, T., & Tienson, J. (2002). The intentionality of phenomenology and the phenomenology of intentionality. In D. J. Chalmers (Ed.), *Philosophy of Mind: Classical and Contemporary Readings* (pp. 520-533). Oxford University Press.
 1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time (1893-1917)* (J. B. Brough, Trans.). Kluwer Academic Publishers.
 1. Josipovic, Z. (2019). Nondual awareness: Consciousness-as-such as non-representational reflexivity. *Progress in Brain Research*, 244, 273-298.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-01 20:40:00+00:00
+ai_modified: 2026-06-02 00:39:19+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ description: The radical claim that phenomenal consciousness is an introspective
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-01 05:40:00+00:00
+last_deep_review: 2026-06-02 00:39:19+00:00
 modified: *id001
 related_articles:
 - '[[parsimony-epistemology]]'
@@ -197,7 +197,8 @@ Illusionism directly challenges the Map's [tenets](/tenets/):
 - Graziano, M. S. A. (2024). "Illusionism Big and Small." *Journal of Consciousness Studies*.
 - Kammerer, F. (2017). "Can you believe it? Illusionism and the illusion meta-problem." *Philosophical Psychology*, 31(1).
 - Kammerer, F. (2022). "How Can You Be So Sure? Illusionism and the Obviousness of Phenomenal Consciousness." *Philosophical Studies*.
-- Loginov, E. V. (2024). "Illusionism, Moore, and Chalmers." *Frontiers in Psychology*.
+- Loginov, E. V. (2024). "Illusionism, Moore, and Chalmers." *Frontiers in Psychology*, 15:1449314.
+- Morozov, K. (2025). "In Defense of Moorean Argument Against Illusionism." PhilArchive.
 - Pereboom, D. & Frankish, K. (2021). "Illusionism about Phenomenal Consciousness." *Review of Philosophy and Psychology*.
 - Strawson, G. (2018). "The Consciousness Deniers." *New York Review of Books*.
 - Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.

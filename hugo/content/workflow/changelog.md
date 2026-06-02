@@ -1,13 +1,232 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02 00:14:58+00:00
+ai_modified: 2026-06-02 12:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-02'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-02T02:48:56+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/methodological-pluralism.md` (oldest-unreviewed substantive concept page, untouched since 2026-04-28, not in this cycle's ~40 reviewed articles)
+- **Key finding**: converged + complete internally (1700 words, ample headroom); single high-value finding is a MISSING CONNECTION not a missing section — the page never engages machine minds, pluralism's limiting case (only third-person access exists), while `ai-consciousness-typology.md`'s "diagnostic asymmetry" passage is the same thesis from the typology side with no link either direction. Generated 1 P2 refine-draft task (add short subsection + reciprocal cross-links, evidential-discipline-fenced).
+- **Output**: [optimistic-2026-06-02](/reviews/optimistic-2026-06-02/)
+
+## 2026-06-02T02:46:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-binding-problem](/topics/the-binding-problem/)
+- **Word count**: 3352 → ~3364 (+~12, length-neutral; soft_warning at 112% of 3000, under 4000 hard; added one on-topic cross-link + Further Reading entry, no body prose padding)
+- **Critical issues addressed**: 0 (converged article; no factual/attribution/calibration/boundary-substitution/label-leakage defects found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (length-neutral cross-link to [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) — its empirical companion piece, previously unlinked from this taxonomy article — in the Quantum Alternative section + Further Reading)
+- **Diff audit**: diffed against last-review commit; only substantive touch since 2026-05-10 was the 2026-06-01 calibration adoption (5457e4f1d) from the [phenomenal-consciousness](/concepts/phenomenal-consciousness/) hub — pure register tightening (verbs → hedges: "shows"→"suggests", "proves"→"appears", "concedes"→"seems to concede", "identifies"→"perhaps identifies", + underdetermination clause). Confirmed coherent and PRESERVED; not condensed.
+- **Verification**: web-verified Jerath & Beveridge 2019 (Front. Integr. Neurosci. 13, 2 — VERIFIED) and Baars/Franklin/Ramsøy 2013 (Front. Psychol. 4, 200 — VERIFIED); canonical cites (Revonsuo 2006, Treisman 1980, Bayne & Chalmers 2003, Nagel 1971, Mudrik 2014, Stein & Stanford 2008) stable from prior reviews; no fabrication/year-off/stance issues. Reasoning modes — identity theorist=Mode One, functionalist=Mode Two, IIT=Mode Two, eliminativist/MWI/Buddhist=Mode Three; no label leakage. Doctrinal: unity-as-primitive co-fundamental (not from-below emergence), Tenet 1 explanatory-gap exhibit primary; no possibility/probability slippage (tenet-accepting reviewer would not flag); no "This is not X" cliché. Cluster cross-links resolve & reciprocate (quantum-holism 3×, unity-of-consciousness 1×). Distinct-by-design from concepts/binding-problem.md — not merged.
+- **Output**: [deep-review-2026-06-02-the-binding-problem](/reviews/deep-review-2026-06-02-the-binding-problem/)
+
+## 2026-06-02T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [ai-consciousness](/topics/ai-consciousness/)
+- **Word count**: 3856 → 3867 (+11, length-neutral; soft_warning at 129% of 3000, under 4000 hard; +11 is the corrected longer Hoel reference title, no body prose added)
+- **Critical issues addressed**: 1 (fabricated citation title — Hoel 2025 reference read "The Proximity Argument Against LLM Consciousness. Preprint." but web-verify (arXiv:2512.12802) confirms the publication of record is "A Disproof of Large Language Model Consciousness: The Necessity of Continual Learning for Consciousness"; "proximity argument" is an argument within the paper, not its title. Article's own research dossier already had the correct title — divergence between dossier and reference entry. Fixed here AND propagated to concepts/ai-epiphenomenalism.md which carried the same fabricated title)
+- **Medium issues addressed**: 1 (non-reciprocal load-bearing cross-link: machine-consciousness links to ai-consciousness 5× but not reciprocated; added [machine-consciousness](/topics/machine-consciousness/) to related_articles, frontmatter-only / length-neutral)
+- **Enhancements made**: 2 (Hoel title corrected in 2 files; reciprocal machine-consciousness link)
+- **Verification**: web-verified Hoel 2025 (title fabrication caught) and Neven et al. 2024 Entropy 26(6) 460 (verified, stance correct); audited seam-tightening commit 3e88df252 (all 3 calibration moves correct, parallel decoherence/MQI passages now synchronized, no uncalibrated seam left); Duch=Mode Three, functionalism=Mode Two, no label leakage; doctrinal co-fundamental-dualism upheld; no possibility/probability slippage; no "This is not X" cliché; AI-cluster cross-links all resolve live
+- **Engagement modes (editor-internal)**: Duch → Mode Three (framework-boundary marking, honest); functionalism → Mode Two (unsupported foundational move via absent-qualia + proximity); Searle → expositional (no mode obligation)
+- **Output**: [deep-review-2026-06-02-ai-consciousness](/reviews/deep-review-2026-06-02-ai-consciousness/)
+- **Note**: thirteenth review; converged. Only defect was citation-metadata fabrication (recurring AI-authored failure class), not content-stability regression.
+
+## 2026-06-02T02:31:10+00:00 - deep-review
+- **Status**: Success
+- **File**: [coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/)
+- **Word count**: 2924 → 2931 (+7, length-neutral; soft_warning, under hard threshold)
+- **Critical issues addressed**: 1 (stale discipline-count: intro said "one of four named methodological disciplines"; the family has grown to eight per mechanism-costs-cartography's own enumeration — corrected to "now spans eight scales" and surfaced the mechanism-costs-cartography cross-link in the intro body; offset by tightening the retention-test paragraph)
+- **Medium issues addressed**: 0 (length: crossed soft threshold via May own-calibration additions; retention-test-protected, NOT cut; deferred to human if it nears hard threshold)
+- **Enhancements made**: 1 (mechanism-costs-cartography cross-link promoted into intro)
+- **Verification**: internal-reference audit (meta-article cites catalogue history, not external lit) — cited commit 5ea6d0c90 confirmed (2026-05-03 06:59 UTC, matches cited window); epistemic-horizon-void confirmed archived; meta-epistemology word counts consistent (2758 now vs claimed 2731 post-condense); all 15 wikilinks resolve; no label leakage; no cliché; no attribution/calibration/doctrinal issues (methodological article, no consciousness claims)
+- **Verdict**: converged + one staleness correction. Engagement classification N/A (no named opponents)
+- **Output**: [deep-review-2026-06-02-coalesce-condense-apex-stability](/reviews/deep-review-2026-06-02-coalesce-condense-apex-stability/)
+
+## 2026-06-02T02:25:24+00:00 - refine-draft
+- **Status**: Success
+- **File**: [argument-from-reason](/topics/argument-from-reason/)
+- **Original score**: ~8/10 (REMAINDER pass of partially-resolved P1; sibling commit 9e0b2abb fixed 3 items, this pass closes the remaining 3 calibration gaps)
+- **Changes**:
+  - **Item 1 — IBE recast + Reliabilism forward-link (old "would be inexplicable")**: The Nagel/epiphenomenalism paragraph asserted the logical-warrant/belief alignment "would be inexplicable" without consciousness, while the §Reliabilism section elsewhere supplies the rival truth-tracking explanation — the two didn't connect. Recast as an inference to the *best* explanation: the alignment "would call for explanation, and irreducible mental causation is the best available account," explicitly acknowledging the reliabilist rival exists ("a truth-tracking process selected by evolution could, in principle, produce that alignment without phenomenal causation") and forward-linking [](#reliabilism-does-truth-tracking-escape-the-problem) for why it underdelivers. Frames the dualist reading as more economical once the rival is weighed, not as the only possibility.
+  - **Item 2 — candidate-mechanism hedge carried to the quantum-Zeno line (Site Perspective, Bidirectional Interaction)**: The line flatly asserted "consciousness selects among superposed neural states, collapsing indeterminacy." Carried the line-121 "one candidate" hedge: now "offers one candidate for how such causation *might* operate... This is a proposed mechanism rather than an established one—Minimal Quantum Interaction is the Map's working conjecture," and notes the argument's case for mind-to-brain influence "stands independently of whether this particular mechanism is correct."
+  - **Item 3 — Dennettian real-patterns reply at the conceptual→ontological hinge (§Space of Reasons)**: The conceptual-to-ontological irreducibility jump was asserted/offloaded to a cross-link, undischarged against Dennett's real-patterns reply. Added one paragraph acknowledging that reply (Dennett, "Real Patterns," 1991 — intentional/rational patterns can be real-and-physical, predictively indispensable, without a second ontological category) and the Map's response: the relevant patterns must be *causally efficacious as normative*, not merely describable in normative terms, which a real pattern inheriting its causal credentials from its substrate cannot supply (linking forward to the non-reductive-physicalism/Kim treatment).
+  - **Engagement classifications**: Dennett real-patterns — Mode Two (the indispensability-of-vocabulary move does not by itself earn ontological irreducibility; the Map identifies the unearned step and supplies the causal-efficacy requirement). Reliabilist rival (Item 1) — Mode Three at the boundary (rival explanation granted to exist; dualist reading defended as best, not only).
+  - Calibration: all three fixes ADD honest hedging (IBE-not-proof, candidate-not-established, acknowledge-the-rival) per [evidential-status-discipline](/project/evidential-status-discipline/) — the argument pressures naturalism, does not disprove it. DO-NOT-TOUCH passages (AI-objection implementing-vs-grasping lines; PIT "genuinely open" hedge) left intact; their calibrated register was copied outward. No editor-mode labels in prose; length-neutral; no new citations beyond the well-known Dennett 1991.
+- **Published**: yes
+
+## 2026-06-02T02:21:06+00:00 - refine-draft
+- **Status**: Success
+- **File**: [argument-from-reason](/topics/argument-from-reason/)
+- **Original score**: ~8/10 (strong article; targeted P1 upgrade per [pessimistic-2026-06-02-argument-from-reason](/reviews/pessimistic-2026-06-02-argument-from-reason/))
+- **Changes**:
+  - **PRIMARY (P1, Issue 2 — Anscombe-reply upgrade)**: Replaced the boundary-substitution at the old lines 129–131 (which collapsed Anscombe's compatibilism into epiphenomenalism via the causal-closure *tenet*) with an in-framework engagement. Now explicitly NAMES non-reductive physicalism as the live modern opponent the Anscombe lineage matures into — Davidson's anomalous monism ("same event under two descriptions") and Yablo's proportionality (mental as determinable of physical determinate, non-competition). Runs Kim's exclusion argument (*Mind in a Physical World*, 1998) against it in-framework: the supervenient reasons-description inherits its causal completeness from the physical base, so qua-reasons content does no *additional* causal work — converting the bare tenet-appeal into a genuine dilemma the non-reductive physicalist must answer (content-as-content does extra work, abandoning non-competition; or it doesn't, and the rational relevance the argument needs is unsecured).
+  - Calibration (Issue 2 evidential-status): the upgrade EARNS the epiphenomenalist worry rather than assuming it; explicitly states this is "not a decisive disproof," names the non-reductive physicalist's replies (deny Kim's exclusion principle; compatibilist content-causation), and locates the bedrock disagreement at "whether content, as content, can be causally relevant under supervenience." Modal register kept calibrated per [evidential-status-discipline](/project/evidential-status-discipline/).
+  - SECONDARY (Issue 1, permitted): "decisive support for three of the Map's five tenets" → "supports three... conditionally, since its force rests on the phenomenal-intentionality thesis... genuinely open" — aligned the frame to the body's PIT hedge. Opening "one of the strongest cases" RETAINED per review rec.
+  - SECONDARY (Issue 3, doctrinal): added a half-sentence marking that the Map shares Hasker's *conclusion* (irreducible unified subject) but diverges on dependence direction — Hasker is from-below emergent dualism; the Map is bi-aspectual co-fundamental, not emerging *from* the brain.
+  - Style (Language Improvements): recast the "This isn't property dualism smuggled in—it's a transcendental argument" cliché into a direct positive claim.
+  - Citations added (all web-verified 2026-06-02): Davidson 1970 "Mental Events"; Kim 1998 *Mind in a Physical World*; Yablo 1992 "Mental Causation" (Phil Review 101.2).
+- **Engagement classification (editor-internal)**: reply to Anscombe/non-reductive physicalism — UPGRADED from boundary-substitution to Mode Two (unsupported-foundational-move via Kim's exclusion: the "same event under two descriptions" reply helps itself to genuine content-causation the supervenience base does not earn), shading into honest Mode Three at the residue (the bedrock disagreement over content-as-content causal relevance is marked, not dressed as refutation). No mode labels written into article prose; verified clean by grep.
+- **Preserved (DO-NOT-TOUCH per review)**: the AI-objection "implementing vs grasping" passage and the "PIT is contested / genuinely open" hedge — untouched.
+- **Published**: yes
+
+## 2026-06-02T17:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [argument-from-reason](/topics/argument-from-reason/) (no prior dedicated pessimistic review; deep-reviewed 2026-04-16 + 2026-06-01)
+- **Output**: [pessimistic-2026-06-02-argument-from-reason](/reviews/pessimistic-2026-06-02-argument-from-reason/)
+- **Findings**: 1 P1 (partial boundary-substitution in the Anscombe reply — non-reductive-physicalism/exclusion-argument engagement available but substituted by the causal-closure tenet appeal); 3 medium (evidential-status seam between calibrated body and uncalibrated frame/tenet sections; Hasker emergent-dualism imported without bi-aspectual-distinction flag; premise-2 + conceptual→ontological irreducibility asserted vs. Dennettian real-patterns reply). Citations verified clean (Anscombe vs. live record). 2 tasks queued (1 P1, 1 P2).
+
+## 2026-06-02T17:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/)
+- **Selection**: Bucket-b (changed-since-review: last_deep_review 2026-05-06, ai_modified 2026-05-31 prior session). Diffed vs last-review commits first; substantive touch was 604bde4a7 — Claude Constitution cross-review (one "Design honesty" sentence + cross-link). Audit scoped to that new content.
+- **Word count**: 3083 → 3097 body words on disk (+14; one Further Reading line; length-neutral, at 3000 soft / under 4000 hard)
+- **Critical issues addressed**: 0 (none found)
+- **Medium/low issues addressed**: 1 (added Claude Constitution to Further Reading for symmetry; it was already in related_articles + inline)
+- **Citation web-verify (clean)**: Claude Constitution framing verified against publisher of record (anthropic.com; Anthropic published 21–22 Jan 2026; uncertainty-about-consciousness wording, retired-weights "in case" preservation, declining-to-assert-consciousness all faithful). No new References entries; no stance-reversal, fabrication, or work-conflation.
+- **Evidential-status**: PASS. New sentence is a positive exemplar — symmetric slippage-guard declining corroboration of both dualism and functionalism; ethics stays a live precautionary question, not a settled verdict. Tenet-accepting reviewer would not flag.
+- **Engagement (changelog-only)**: Claude Constitution — Mode Three (endorse precautionary method, honestly mark metaphysical divergence, decline evidential upgrade either direction). No boundary-substitution, no label leakage.
+- **Cross-links**: claude-constitution-consciousness-uncertainty resolves + reciprocates; AI-cluster links (ai-consciousness, llm-consciousness, ethics-under-dualism, possibility-probability-slippage) all live.
+- **Output**: [deep-review-2026-06-02-ethics-of-possible-ai-consciousness](/reviews/deep-review-2026-06-02-ethics-of-possible-ai-consciousness/)
+- **Convergence**: 5th review; converged. Single new sentence verified + correctly calibrated.
+
+## 2026-06-02T16:20:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Selection**: Bucket-b (substantive prior-session calibration overhaul never reviewed since 2026-05-19; citation-heavy; not modified/reviewed today). Diffed vs last-review commit 59d11f8dd first.
+- **Word count**: ~5044 → ~5057 (+~13; one re-anchoring clause)
+- **Critical issues addressed**: 0 (none found — prior-session refine work is clean: no misattribution, dropped qualifier, slippage, boundary-substitution, or label leakage)
+- **Medium/low issues addressed**: 1 (orphaned Hagan-Hameroff-Tuszyński 2002 reference re-anchored with its ~10⁻⁵ s decoherence figure, dropped by an earlier condense; length-neutral)
+- **Citation web-verify (clean)**: Torres Alegre 2025 (arXiv:2512.12636), Zhang 2026 (arXiv:2603.06211), Agrawal-Wilson 2025 (arXiv:2511.21355) — titles, authors, and load-bearing claims all match publisher of record; article's qualifiers accurate.
+- **Engagement modes (editor-internal)**: QBism — Mode Three (framework-boundary, explicitly marked); MWI — Mode Three (tenet-load-bearing preference, honestly marked); Hilbert-space primitivist — Mode Three w/ partial Mode-Two, conceded heuristic. No boundary-substitution.
+- **Length**: over topics hard threshold (169% soft) from the article's OWN calibration content → deferred to human length decision (queued P2), NOT auto-condensed (protected calibration discipline).
+- **Output**: [deep-review-2026-06-02-born-rule-and-the-consciousness-interface](/reviews/deep-review-2026-06-02-born-rule-and-the-consciousness-interface/)
+
+## 2026-06-02T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [valence-and-conscious-selection](/topics/valence-and-conscious-selection/)
+- **Task**: topic-concept anchoring-audit calibration fix (Audit Three, [evidential-status-discipline](/project/evidential-status-discipline/), [calibration-audit-triple](/project/calibration-audit-triple/)). Pre-refine: 3 live flags (anchors [consciousness-value-connection](/concepts/consciousness-value-connection/), [control-theoretic-will](/concepts/control-theoretic-will/), [attention-as-interface](/concepts/attention-as-interface/)), all failing hedge_density + strong_assertions. Profile: 3688w, hedge 2.71/kw, strong-assertion 0.81/kw (3 verbs), underdetermination 0.
+- **Diagnosis**: Primary axis was over-assertion. The 3 strong-assertion verbs were all the phrase "shows that" — each on a citation-attribution claim about empirical findings (Panksepp on affective anticipation; Berridge on wanting/liking dissociation; affective-forecasting literature on misprediction). Resolving strong_assertions clears the second failed check on all three anchors at once (≥2-check mechanism), clearing all flags.
+- **Changes**:
+  1. Softened the 3 "shows that" attributions to calibrated, non-marker verbs preserving accuracy: "indicates that" (Panksepp), "finds that" (Berridge), "indicates that" (affective-forecasting). strong_assertion_count 3 → 0.
+  2. Secondary genuine calibration: added one underdetermination marker at the Discriminating Evidence intro ("the fork is...underdetermined by the evidence: no current finding decides between value-blind and value-sensitive selection") — honest given the article's own framing that the fork is unresolved. underdetermination 0 → 1.
+- **Voice/thesis preserved**: central thesis (valence as the Map's PROPOSED mechanism of conscious selection — MQI/Tenet-2/Tenet-3) untouched; no thesis weakening; bi-aspectual co-fundamental dualism intact. No hedge-padding to the anchors' 4.59–5.79/kw outlier bars.
+- **Verification**: re-ran tools.curate.anchoring.evaluate_anchoring → 0 active flags. Length 3688 → 3711w (+23, length-neutral, well under 4000 ceiling).
+- **Published**: yes
+
+## 2026-06-02T01:36:59+00:00 - refine-draft
+- **Status**: Success
+- **File**: [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/)
+- **Task**: topic-concept anchoring-audit calibration fix, anchor [causal-closure](/concepts/causal-closure/) (Audit Three, [evidential-status-discipline](/project/evidential-status-discipline/)). Pre-refine: 1 live flag, failed checks hedge_density (2.14/kw vs anchor 4.57/kw) + underdetermination_markers (0 vs anchor 1).
+- **Diagnosis**: NOT over-assertion (topic strong-assertion density 0.43/kw was already well below anchor 2.44/kw). Genuine gap was under-hedging + missing underdetermination marking on a genuinely-underdetermined topic (collapse-vs-no-collapse, and the various collapse interpretations, are not forced by current evidence).
+- **Changes**:
+  1. Added underdetermination marking at 3 interpretively-contested junctures (genuine, not mechanical): opening (collapse existence "underdetermined by the evidence", Bohmian "empirically equivalent" + "may open"); "What Objective Collapse Says" intro (consequences "compatible with both...interpretations", conditional on a choice "the evidence does not yet decide"); marked that the spontaneous-collapse PHYSICS is distinct from the Map's interpretive use of it.
+  2. Added modest genuine hedge on the collapse-time-arrow claim ("may give time an arrow", "remains open" whether collapse irreversibility grounds vs accompanies the thermodynamic arrow).
+- **Calibration result**: hedge_density 2.14→2.89/kw (modest lift toward ~3, well short of anchor's 4.57 outlier — no hedge-stuffing); underdetermination_markers 0→2; strong_assertions unchanged at 1. `evaluate_anchoring` now returns NO flags (both failed checks cleared).
+- **Preserved**: central thesis (consciousness-modulated collapse), voice, MWI rejection (Tenet 4), MQI/collapse-interface view. Length-neutral (2339→2425 words). Doctrinal: bi-aspectual co-fundamental dualism intact. No "This is not X. It is Y." cliché.
+- **Published**: yes
+
+## 2026-06-02T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [selection-only-mind-influence](/topics/selection-only-mind-influence/)
+- **Word count**: 2750 → 2752 on disk (length-neutral; 92% of 3000 soft; scorer over-counts via frontmatter ISO tokens, disk count authoritative)
+- **Critical issues addressed**: 2 — (1) CITATION DEFECT (wrong-author + stance-reversal + wrong-journal): "Stoll & Zheng (2025), *The brain works at more than 10 bits per second*, *Neuron*" was triply wrong. Web-verify (WebSearch + WebFetch of cited PMC12320479): that paper is Sauerbrei & Pruszynski (2025), *Nature Neuroscience*, a REBUTTAL arguing >10 bits/s (lower bound). The ~10 bits/s figure the article needs is Zheng & Meister (2025), *Neuron* 113(2):192–204 — which is exactly how every OTHER corpus article cites it. Fixed in-text + reference here, in `project/causal-budget-ledger.md` (in-text + ref), and in the seeding research note `research/selection-only-mind-influence-information-limits-2026-05-05.md` (heading + URL + ref). Survived ≥2 prior reviews because intra-corpus cross-check pointed at the same-error research note; only live web-verify caught it. (2) DUPLICATE Further Reading line ([born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) listed twice) — removed.
+- **Medium issues addressed**: 0 applied (Han 2016 → Han & Choi 2016 co-author omission noted, claim attribution correct, left under length-neutral scope)
+- **Citation web-verify**: Zheng & Meister (2025) *Neuron* "Unbearable Slowness of Being" CONFIRMED for ~10 bits/s. Sauerbrei & Pruszynski (2025) *Nature Neuroscience* "more than 10 bits per second" CONFIRMED as separate rebuttal. Han & Choi (2016) *Scientific Reports* 6:22986 CONFIRMED — Born-rule-from-relativistic-causality faithful (co-author Choi dropped in ref, minor).
+- **Integration audit**: ensemble-level-epiphenomenalism orphan-integration (commit 72a7846c2) is substantive + genuinely reciprocal (links back in frontmatter/body/FR/refs). Engagement with ensemble-epiphenomenalism charge: Mode Three (honest boundary-marking — frames as dilemma the strict reading must answer, routes to adjudicating article, no refutation overclaim); no label leakage. No possibility/probability slippage (§102 explicitly disavows corridor-as-evidence). Doctrinal: bi-aspectual interactionist intact, no emergentist self-presentation.
+- **Enhancements made**: 0 (length-neutral; converged article + targeted citation correction)
+- **Output**: [deep-review-2026-06-02-selection-only-mind-influence](/reviews/deep-review-2026-06-02-selection-only-mind-influence/)
+
+## 2026-06-02T01:12:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [emergence](/concepts/emergence/)
+- **Word count**: 2827 → 2827 (length-neutral; 113% of 2500 soft, well below 3500 hard; scorer agrees with disk)
+- **Critical issues addressed**: 0 (tenth review; converged. Doctrinal-consistency check PASS — no from-below "Map = strong emergence" assertion; the intervening pessimistic-fix touch 30f5b7c9e reinforced the comparative register rather than reintroducing slippage)
+- **Medium issues addressed**: 1 (realigned the [interactionist-dualism](/concepts/interactionist-dualism/) Further Reading gloss from "the Map's framework *as* strong emergentism" → "adjacent to strong emergentism but bi-aspectual rather than from-below" — the one residual from-below seam the 2026-05-11 realignment missed)
+- **Enhancements made**: 1 (gloss rewrite)
+- **Citation web-verify**: load-bearing cites verified corpus-consistent + clean — O'Connor & Wong 2005 (*Noûs* 39(4):658–678, web-verified 2026-05-23), Chalmers 2006 quote (exact), Khan/Wiest et al. 2024 (*eNeuro* 11(8); Wiest, M. C. byline correct post Olaf→Michael fix), Broad 1925, Kim 1998. No fabrication / stance-reversal / dropped-qualifier. Psychophysical-laws recalibration (5-mechanisms → developed-attention/intention + valence/qualia/unity unspecified) verified against source.
+- **Output**: [deep-review-2026-06-02-emergence](/reviews/deep-review-2026-06-02-emergence/)
+- **Engagements**: none (positional comparison of traditions, not named-opponent refutation; no boundary-substitution / label-leakage risk)
+
+## 2026-06-02T01:08:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/)
+- **Word count**: 3933 → 3933 (length-neutral; real body count under the 4000 topics hard ceiling — scorer's ~4049w over-count is frontmatter ISO tokens)
+- **Critical issues addressed**: 0 (ninth review; long-converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 (removed two "This is not X. It is Y." LLM-cliché instances per writing-style guide — conservation-of-energy paragraph + Tenet 5 honest assessment; length-neutral, meaning preserved)
+- **Citation web-verification (micro-PK high-risk zone)**: all load-bearing cites in new content verified against publisher of record — Maier–Dechamps–Pflitsch 2018 (Frontiers Psych 9:379, DOI ok, **stance NULL confirmed**, no JSE-smokers mis-cite present), Bösch–Steinkamp–Boller 2006 (Psych Bull 132(4)), Donadi 2021 (Nat Phys 17:74–78, Diósi–Penrose stance ok), arXiv:2512.02838 (real — Horchani levitated-optomechanical blueprint), Kerskens & Pérez 2022 (J Phys Comm 6:105001), Deutsch 1985 (Proc R Soc A 400:97–117). No fabrication / wrong-stance / wrong-paper defects.
+- **Evidential-status**: PASS — Tenet 2 mechanism-family split is calibration-IMPROVING (down-calibrates corridor/trumping rows, prevents traction-export); causal-closure softening adds epistemic humility. No possibility/probability slippage.
+- **Boundary-substitution**: PASS — Gamez/Kleiner/Lakatosian engagements honest; no label leakage.
+- **Cross-links**: all 7 verified live; conversion-disorder reciprocates.
+- **Engagement modes (editor-internal)**: Gamez (conservation-of-energy) — Mode Two (in-framework, opponent's own concession); Kleiner (structural falsification) — Mode Three (honest boundary-marking); Lakatosian critic (Tenet 2) — Mode Three (worry acknowledged, not rebutted).
+- **Output**: [deep-review-2026-06-02-falsification-roadmap-for-the-interface-model](/reviews/deep-review-2026-06-02-falsification-roadmap-for-the-interface-model/)
+
+## 2026-06-02T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) + propagation root [consciousness-anesthesia-filter-theory-2026-03-20](/research/consciousness-anesthesia-filter-theory-2026-03-20/)
+- **Type**: citation-defect fix (compound, web-verified)
+- **Defects fixed**: The "A Transmissive Theory of Brain Function" paper (*NeuroSci* 3(3):32, PMC11523760, DOI 10.3390/neurosci3030032) was mis-cited as "Bhatt, D. P., et al. (2024)". Web-verified true authors **Rouleau, N. & Cimino, N. (2022)** (MDPI + PubMed PMID 39483436). (1) Wrong author Bhatt → Rouleau & Cimino; (2) wrong year 2024 → 2022; (3) source-conclusion mismatch — article body (~line 98) had attributed the "core elements" emergence framing to the transmissive-theory paper, which says nothing about anaesthesia emergence. Web-verified the "core elements" phrasing traces to **Mashour 2024** (*Neuron* 112(10), already cited in the same sentence: "studying emergence from anesthesia might reveal the core elements of consciousness") — folded the clause into the Mashour attribution and dropped the false Bhatt reattribution.
+- **Root fix**: research note body corrected at all three locations (key-sources heading, timeline row — reordered to 2022, references entry) per ai-citation-metadata-unreliable point 20 (fix the note body or it re-propagates). PMC link was already correct, kept. Article reference entry + body both corrected; DOI added.
+- **Scope discipline**: left untouched the legitimate unrelated Bhatt authors (Bhatt MB 2021 eLife, Kalra & Bhatt 2025, Rosseinsky & Bhatt 2022). Honoured [evidential-status-discipline](/project/evidential-status-discipline/); length-neutral; no "This is not X. It is Y." cliché.
+- **Residual flagged (out of scope)**: `research/anaesthetic-recovery-neuroscience-2026-03-26.md` (lines 33/180/211) still mis-attributes the **Mashour 2024 *Neuron*** review to "Bhatt et al. (2024)" — a SEPARATE wrong-author defect from the transmissive-theory one this task addressed (the live-article instance was already fixed in active-reboot ref 7). Research note still carries it; candidate for a follow-on fix.
+- **Published**: yes
+
+## 2026-06-02T00:42:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [active-reboot](/concepts/active-reboot/)
+- **Word count**: 2676 → 2676 (length-neutral; soft_warning, 107% of 2500 concepts soft, under 3500 hard)
+- **Selection**: changed-since-review pick over scorer's meta-concept top candidate. Active-reboot is citation-heavy; the §"Temporal precedence" paragraph was rewritten 2026-05-29 (grew 2179→2676) and never reviewed since. The 2026-05-18 stability verdict does not transfer to that new content.
+- **Citation web-verify (publisher of record)**: 3 recently-corrected load-bearing cites VERIFIED CORRECT — Hu et al. (2023) *Nature Neuroscience* 26:751-764 (10.1038/s41593-023-01290-y), Lewis et al. (2018) *eLife* e33250 (10.7554/eLife.33250), Stone et al. (2025) *BJA* 135:121-133 (10.1016/j.bja.2025.02.036). The 2026-05-29 fixes of all three are accurate.
+- **Critical issues addressed**: 4 corpus-wide citation defects — (1) fabricated co-author "Bharioke, A." on the Mashour 2024 *Neuron* review removed from BODY prose (2 sentences) + ref in `concepts/altered-states-of-consciousness.md` and ref in `apex/identity-across-transformations.md` [web-verified single-author George A. Mashour, *Neuron* 112(10):1553-1567]; a prior 2026-02-25 review had INTRODUCED the fabrication; (2) wrong-initial+wrong-venue "Hu, B. … *Neuron*" → Hu, J.-J. … *Nature Neuroscience* in `topics/consciousness-disruption-and-the-mind-brain-interface.md` AND `topics/memory-system-vulnerability-hierarchies-as-interface-evidence.md`; (3) wrong-author "Bhatt 2024 / neurobiology of consciousness" → Mashour 2024 in `active-reboot` ref 7; (4) issue-number 112(8)→112(10) in `topics/anaesthesia-and-the-consciousness-interface.md`.
+- **Possibility/probability slippage**: NONE. The Temporal Precedence rewrite is anti-slippage — correctly separates the established dissociation result (Onoda/Breyton/Van Maldegem 2025) from the genuine precedence finding (Lewis 2018). §Dualism invokes defeater-removal correctly.
+- **Engagement classification (editor-internal)**: no new named-opponent engagement; §"What active reboot does not establish" is honest Mode-Three boundary-marking. No label leakage.
+- **Files touched**: concepts/active-reboot, concepts/altered-states-of-consciousness, apex/identity-across-transformations, topics/consciousness-disruption-and-the-mind-brain-interface, topics/anaesthesia-and-the-consciousness-interface, topics/memory-system-vulnerability-hierarchies-as-interface-evidence.
+- **Output**: [deep-review-2026-06-02-active-reboot](/reviews/deep-review-2026-06-02-active-reboot/)
+
+## 2026-06-02T00:39:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [illusionism](/concepts/illusionism/)
+- **Word count**: 3486 → 3499 (+13; still soft_warning, 1 word under 3500 concepts hard threshold)
+- **Critical issues addressed**: 0 (no STANCE/attribution/calibration defects found)
+- **Medium issues addressed**: 1 (Morozov (2025) cited in body but missing from References — added verified PhilArchive entry; also completed Loginov (2024) ref with DOI/volume 15:1449314)
+- **Primary task — substantive-touch audit**: CHANGED-SINCE-REVIEW pick. Web-verified the Loginov (2024) STANCE-fix (commit 0a6ed993e) is STABLE — Loginov correctly framed as CRITIC of the anti-illusionism Moorean argument (Frontiers Psych 15:1449314, "cannot refute illusionism"), with the external-world-proof subtlety handled cleanly. Morozov (2025) correctly framed as DEFENDER (PhilArchive MORIDO-20). Frankish correctly PRO-illusionist throughout. Meta-representational-bridge engagement (commit 3fc04dd15) lands correctly.
+- **Engagement classification (editor-internal)**: Frankish — Mode Two (unsupported foundational move: bridge owed by illusionism's own standard) → Mode Three on intrinsic-quality residue (framework boundary, honestly declared). No label leakage in prose.
+- **Length note**: cycle-pick steering reported 3597/over-hard; actual on-disk = 3499, under hard. NOT an over-ceiling article; no human length decision required. Watch for length-neutral discipline going forward.
+- **Output**: [deep-review-2026-06-02-illusionism](/reviews/deep-review-2026-06-02-illusionism/)
+
+## 2026-06-02T00:30:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-as-activity](/topics/consciousness-as-activity/)
+- **Word count**: 2588 → 2588 (≈net-neutral; §129 expansion offset, 86% of 3000 soft)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (calibration seam: §86 softened "dissolves" for mental causation but §129 still said the activity framing "dissolves the causal closure objection" — rewrote §129 to a calibrated, boundary-marking register that cross-references the exclusion problem deferred in §86)
+- **Enhancements made**: 1 reciprocal cross-link (mental-causation-and-downward-causation → consciousness-as-activity; §86 now load-bearingly depends on the concept page but reciprocity was missing)
+- **Diff-scoped** against the 04-30 review commit. Verified the 3 post-04-30 refines landed correctly: "soften dissolves" (e44029ea5) is properly calibrated and not over-hedged; mental-causation calibration (9b908e798) sound; reciprocal-links refine (f0a426234) was incomplete (fixed the load-bearing gap).
+- **Citation web-verify**: Clark 2013 (BBS 36(3) 181-204), Dehaene & Changeux 2011 (Neuron 70(2) 200-227), De Jaegher & Di Paolo 2013 (Front. Hum. Neurosci. 6, 345) all VERIFIED against publisher of record incl. correct cited stance. No defects.
+- **Engagement modes**: causal-closure/Kim exclusion (§129) — Mode Three (framework-boundary marking; honest "answer available on the activity framing, not closure shown false by definition" — no boundary-substitution, no editor-label leakage in prose).
+- **Output**: [deep-review-2026-06-02-consciousness-as-activity](/reviews/deep-review-2026-06-02-consciousness-as-activity/)
+
+## 2026-06-02T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [ai-consciousness-typology](/concepts/ai-consciousness-typology/)
+- **Word count**: 2803 → 2803 (+0, metadata-only verdict)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (third consecutive clean review — converged; no edits to avoid oscillation)
+- **Diff-scoped** against the 05-01 review commit (50ba60d4a). New post-05-01 content = noetic-mode PCT qualifier (line 113, from e86b8874c PCT cross-review) + 2 Further Reading cross-links. Both confirmed substantive and sound.
+- **Citation web-verify**: Schwitzgebel 2025 (arXiv:2510.09858, "AI and Consciousness" ✓ real, characterization fair); Metzinger 2021 (JAIC 8(1):43-66 ✓ — publisher record; the "1(8):1-24" form is a search-engine DOI misparse, NOT a defect); Block 1995 (227-247 ✓ correct, not 287); DeWall/Baumeister/Masicampo 2008 (Conscious. Cogn. 17(3):628-645 ✓ correct form). No fabricated refs/pages/co-authors/stats.
+- **Evidential-status (Discipline 2)**: clean — PCT qualifier is itself a calibration improvement (declines to treat felt-recognition gap as decisive); modal register stays calibrated; typology implies no settled machine-sentience verdict.
+- **Doctrinal (Discipline 3)**: clean — both "emerge" instances legitimate (functionalist-view attribution the Map rejects; Tulving developmental precedence), no from-below emergentist self-presentation.
+- **Reasoning-mode / boundary-substitution (Discipline 4)**: functionalism engagement = honest framework-boundary marking via Dualism tenet + substrate-independence critique; no boundary-substitution, no editor-label leakage (scan clean).
+- **Cross-links**: both new links resolve and reciprocate; all tenet sub-anchors + Witness-Model section anchor valid.
+- **Output**: [deep-review-2026-06-02-ai-consciousness-typology](/reviews/deep-review-2026-06-02-ai-consciousness-typology/)
 
 ## 2026-06-02T00:14:58+00:00 - deep-review
 - **Status**: Success

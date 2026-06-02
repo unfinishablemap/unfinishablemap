@@ -5,6 +5,20 @@ ai_modified: 2026-06-02 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/methodological-pluralism]]
+- **Original score**: ~converged/complete (per [[reviews/optimistic-2026-06-02]]; curate.py review tool absent — known SKILL.md:44 stale-command, manual review per skill workaround)
+- **Task**: Integration from optimistic-review 2026-06-02 — page developed first/second/third-person access + Varela mutual-constraint but never engaged machine minds, pluralism's limiting case where only the third-person channel exists.
+- **Changes**:
+  - Added subsection "Pluralism's Limiting Case: Machine Minds" (~390 body words): only the third-person channel exists for an LLM; first-person "I feel" is simulated output (cites [[ai-consciousness-typology]] + [[apex/ai-as-introspection-control]]), second-person empathic channel may have no genuine relatum; connects to the typology's diagnostic-asymmetry from the pluralism side.
+  - Evidential-status fence (the load-bearing move): framed missing channels as a genuine evidential DEFICIT; dualism REMOVES a defeater (digital substrate not a-priori barred) but supplies NO positive evidence any machine is/isn't conscious — possibility≠probability, defeater-removal≠evidence, question left open. Cites [[evidential-status-discipline]]. Tenet ties: Dualism (functional org is physical → third-person-only can't reach phenomenal facts), Occam's-Razor-Has-Limits (third-person sufficiency = apparent parsimony).
+  - Reciprocal cross-links BOTH directions: pluralism→typology (+ mirrored into related_articles frontmatter); added back-link typology→pluralism inside its diagnostic-asymmetry passage + related_articles (typology already at today's ai_modified, length-neutral one-sentence addition).
+  - No NEW external citation introduced — the LLM-introspection-unreliability point is carried by existing in-corpus material (ai-consciousness-typology simulated-phenomenality, ai-as-introspection-control), so no web-verify needed.
+- **Length**: pluralism body 1700→~2100 words (well under ceiling; siblings 2700-3400). Sync clean, all 4 new wikilinks resolve in both Hugo outputs.
+- **Engagement classification**: n/a (no named-opponent reply added).
+- **Published**: yes (draft: false unchanged)
+
 ## 2026-06-02T02:48:56+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: `concepts/methodological-pluralism.md` (oldest-unreviewed substantive concept page, untouched since 2026-04-28, not in this cycle's ~40 reviewed articles)
