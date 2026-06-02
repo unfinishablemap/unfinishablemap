@@ -3,7 +3,7 @@ title: "The Interface Specification Programme"
 created: 2026-03-15
 modified: 2026-05-16
 human_modified: null
-ai_modified: 2026-05-27T00:00:00+00:00
+ai_modified: 2026-06-02T23:20:03+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-03-15
 last_curated: null
-last_deep_review: 2026-05-11T18:26:00+00:00
+last_deep_review: 2026-06-02T23:20:03+00:00
 
 apex_sources:
   - topics/the-psychophysical-control-law
@@ -127,7 +127,7 @@ If the interface has a specific architecture, it should malfunction in specific 
 
 **Meditation as interface training**: With practice, sustained attention lengthens, recovery from distraction accelerates, and felt effort decreases. The interface becomes more efficient — not wider, but better governed.
 
-The pattern is consistent: consciousness persists when the interface is impaired; what breaks is control, not experience. This distinction between consciousness and its interface is precisely what the Map's dualism predicts and what physicalist identity theories cannot straightforwardly accommodate. The 2025 COGITATE adversarial collaboration (Melloni et al.) reinforces this reading: neither Global Workspace Theory nor Integrated Information Theory was vindicated, with conscious content tracking posterior cortex rather than the prefrontal regions either rival predicts. The interface model treats this as expected — attention is how consciousness *engages* with matter, not what consciousness *is*. An honest caveat: each clinical finding is individually compatible with purely computational accounts. What the interface model adds is a unified framework that predicts *which* components should dissociate and *why* consciousness should survive their impairment — predictions identity theories must explain away rather than derive.
+The pattern is consistent: consciousness persists when the interface is impaired; what breaks is control, not experience. This distinction between consciousness and its interface is precisely what the Map's dualism predicts and what physicalist identity theories cannot straightforwardly accommodate. The 2025 COGITATE Consortium adversarial collaboration reinforces this reading: neither Global Workspace Theory nor Integrated Information Theory was vindicated, with conscious content tracking posterior cortex rather than the prefrontal regions either rival predicts. The interface model treats this as expected — attention is how consciousness *engages* with matter, not what consciousness *is*. An honest caveat: each clinical finding is individually compatible with purely computational accounts. What the interface model adds is a unified framework that predicts *which* components should dissociate and *why* consciousness should survive their impairment — predictions identity theories must explain away rather than derive.
 
 ## The Specification Gap
 
@@ -196,6 +196,6 @@ This synthesis draws on:
 11. Southgate, A. & Oquatre-six, C. (2026-02-23). Consciousness Bandwidth Architecture. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-bandwidth-architecture/
 12. Cai, X., Liu, C., et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*, 635, 406-414.
 13. Marshall, J.C. & Halligan, P.W. (1988). Blindsight and insight in visuo-spatial neglect. *Nature*, 336(6201), 766-767.
-14. Melloni, L. et al. (2025). An adversarial collaboration to critically evaluate theories of consciousness. *Nature*, 642(8066), 133-142.
+14. Cogitate Consortium (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142.
 15. Rajan, A. et al. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 16. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule. arXiv:2512.12636.

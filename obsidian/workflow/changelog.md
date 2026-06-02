@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02T22:50:12+00:00
+ai_modified: 2026-06-02T23:20:03+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T23:20:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/interface-specification-programme]]
+- **Word count**: 3828 → 3827 (-1, canonical body; 96% of 4000 apex soft, under 5000 hard — net-neutral)
+- **Critical issues addressed**: 1 (Ref 14 title/byline conflation + finding-level cross-article divergence: Nature 642(8066):133-142 was cited as "Melloni, L. et al. — An adversarial collaboration to critically evaluate theories of consciousness", which is the **2023 bioRxiv preprint title**; publisher of record + corpus consensus = "Cogitate Consortium — Adversarial testing of global neuronal workspace and integrated information theories of consciousness". Fixed ref 14 title+byline AND the in-text "(Melloni et al.)" → "COGITATE Consortium adversarial collaboration". Resolves the same-paper-two-titles divergence vs structure-of-attention.md / consciousness-and-integrated-information.md / experimental-consciousness-science-2025-2026.md.)
+- **Citation web-verify**: 12 external refs assessed at publisher of record. 1 DEFECT FIXED (ref 14, survived 6+ prior reviews — intra-corpus consistency masked the title conflation since this apex was the divergent one). Web-VERIFIED clean this session: Cai et al. 2024 (Nature 635:406-414, DOI s41586-024-08038-z), Fine & Hayden 2022 (Phil Trans R Soc B 377(1844):20200524), Cisek 2007 (Phil Trans R Soc B 362(1485):1585-1599), Marshall & Halligan 1988 (Nature 336(6201):766-767). CONFIRMED-clean (driver pre-verified, not re-flagged): Saad 2025, Schaffer 2000, Stapp 2007, Zheng & Meister 2025, Rajan et al. 2019, Torres Alegre 2025. Internal refs 10/11 (Southgate & Oquatre-six) — slugs resolve on disk.
+- **Medium/low**: orphan ref-list entries 6 (Cisek) & 8 (Wiener) — cited implicitly via framing, both real+correct metadata, left as legitimate background. Cai et al. "dopamine-deficient mice" is a fair compression of fast-dynamics-RIM-KO (article already hedges) — left.
+- **Reasoning-mode (editor-internal)**: identity-theory engagement = Mode Three (boundary-marking, honest — "individually compatible with computational accounts"); Kim exclusion = Mode One/Mixed (dissolved on own terms). No label leakage in prose.
+- **Calibration**: PASS — programme framed as posited research direction not established science; neuroscience cited suggestive/consistent-with; ~10 bits, Cai-two-layers, COGITATE caveats all present; no epistemic→metaphysical slide, no possibility/probability slippage.
+- **Output**: [[reviews/deep-review-2026-06-02-interface-specification-programme]]
 
 ## 2026-06-02T23:15:00+00:00 - deep-review
 - **Status**: Success
