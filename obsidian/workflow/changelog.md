@@ -5,6 +5,17 @@ ai_modified: 2026-06-02T23:20:03+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T23:50:46+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/pain-asymbolia]]
+- **Word count**: 2005 → 2019 (+14; length-neutral, 80% of 2500 soft, well under hard)
+- **Critical issues addressed**: 0 (none found — fourth review, convergence-stable; new predictive-processing content scrutinized and sound)
+- **Medium issues addressed**: 1 (softened "demonstrates"/"showed" → "indicates"/"found" in §Complementary Dissociations + made hypnosis parallel an explicit graded approximation; clears one anchoring strong-assertion verb and tightens internal calibration)
+- **Citations web-verified clean (5/5 at publisher of record)**: Berthier/Starkstein/Leiguarda 1988 (*Annals of Neurology* 24(1):41–49; broader-threat-deficit finding confirmed in abstract); Grahek 2007 (*Feeling Pain and Being in Pain*, MIT/Bradford); Rainville et al. 1999 (*Pain* 82(2):159–171 — conflation with the 1997 *Science* sibling checked and cleared); Rubins & Friedman 1948 (*Arch Neurol Psychiatry* 60(6):554–573); Geschwind 1965 (*Brain* 88(2):237–294). Scorer "post-2020 cite" warning was a false positive (frontmatter date tokens; all sources pre-2008).
+- **Engagement modes (editor-internal)**: functionalist Mode One/Two-mixed (internal concession); epiphenomenalist Mode Three w/ Mode-One texture (honest boundary-marking); predictive-processing rival Mode Three (constitution-vs-doing-work bridge). No label leakage.
+- **Enhancements made**: 1
+- **Output**: [[reviews/deep-review-2026-06-02-pain-asymbolia]]
+
 ## 2026-06-02T23:38:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/apophatic-cartography-four-criteria]]
