@@ -5,6 +5,14 @@ ai_modified: 2026-06-02 13:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T06:19:46+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/clinical-phenomenology-and-altered-experience]]
+- **Original score**: not re-scored; topic-concept anchoring-audit calibration fix (anchors [[neural-correlates-of-consciousness]], [[phenomenological-evidence]])
+- **Changes**: Anchoring audit flagged 2 live anchors, both failing hedge_density (topic 2.35/kw) + strong_assertions (topic 1 verb vs 0 in both anchors). Load-bearing fix: softened the single strong-assertion verb — line 115 DPD passage "the result demonstrates that these are distinct structural components of consciousness, not a unified block" → "the result indicates that these are distinct structural components of consciousness rather than a unified block, though the materialist can read the same dissociations as modular neural breakdown." This is a genuinely contestable interpretive claim (depersonalization dissociations are physicalism-compatible; the materialist reads them as modular neural breakdown), so the softening is calibrated, not a thesis-weakening. The added "though the materialist can read…" clause also installs a modest underdetermination/contestability marker where the claim previously stood flatly. Resolving strong_assertions clears BOTH flags at once via the ≥2-failed-check mechanism. Also removed an instance of the "not X… but Y" cliché in the same sentence ("not a unified block" → "rather than a unified block").
+- **Verification**: re-ran tools.curate.anchoring.evaluate_anchoring → FLAG COUNT 0 (both flags cleared). Length-neutral (one clause added, voice and central thesis preserved). No "This is not X. It is Y." cliché introduced.
+- **Published**: yes
+
 ## 2026-06-02T06:10:37+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]]
