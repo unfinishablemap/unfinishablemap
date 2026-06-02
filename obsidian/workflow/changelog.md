@@ -5,6 +5,13 @@ ai_modified: 2026-06-02T22:36:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T22:45:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/time-symmetric-selection-mechanism.md` (cycle-slot second target; complements today's deep-review of its forward-in-time sibling). Last deep-review 2026-05-18, not touched this session.
+- **Findings**: High — motivational over-claim: article justified by "dissolves the Libet timing puzzle entirely," but Schurger 2012 deflation (web-verified real) never engaged in body (only a further-reading line); if right, the timing problem dissolves with no quantum machinery, undercutting the article's claimed comparative advantage. Medium — Decoherence Challenge cites the corrected ~10⁻⁶ s Hagan/Hameroff figure without noting it is still ~8 orders short of neural timescales. Medium — phenomenological-fit presented as discriminating evidence the article elsewhere concedes is impossible. Soon 60% + "seven orders of magnitude" both web-verified ACCURATE (no fabricated cites).
+- **Queued**: P2 refine-draft (engage Schurger, soften description, add decoherence caveat, reframe phenomenological fit).
+- **Output**: [[reviews/pessimistic-2026-06-02]] (second-target section)
+
 ## 2026-06-02T22:39:42+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/pupillometry-behavioural-channel]]

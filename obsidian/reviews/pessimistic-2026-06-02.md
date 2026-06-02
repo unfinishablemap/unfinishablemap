@@ -93,3 +93,94 @@ The article handles me better than most — it explicitly logs the dependent-ori
 ## Web-Verification Note
 
 Per session steering (elevated citation-defect rate including fork-introduced errors; do not trust intra-corpus consistency), the citations in the Unsupported-Claims table marked "web-verify" should be checked at the publisher of record during the queued refine pass. Only Beck & Eccles 1992 was verified in this read-only pass (clean).
+
+---
+
+# Pessimistic Review (Cycle-Slot, Second Target)
+
+**Date**: 2026-06-02
+**Content reviewed**: `obsidian/topics/time-symmetric-selection-mechanism.md` (~2200 words, 100% AI, last deep-review 2026-05-18 — 15-day gap; NOT touched this session). Complements today's deep-review of its sibling pathway `forward-in-time-conscious-selection.md`.
+
+## Executive Summary
+
+The article presents one of the Map's two conscious-selection pathways and is internally coherent and tenet-aligned. Its dominant weakness is a **motivational over-claim**: the entire piece is justified by its claimed "distinctive advantage" of *dissolving the Libet timing problem entirely* (stated in the frontmatter description and in the lede), yet the strongest deflationary response to Libet — Schurger, Sitt & Dehaene's 2012 stochastic-accumulator reinterpretation — appears only as a single further-reading line and is never engaged in the body. If Schurger is right, the timing problem the article exists to solve largely dissolves *with no quantum-temporal machinery at all*, which directly undercuts the comparative advantage the article claims over its own sibling pathway. A second issue: the Decoherence Challenge response cites the corrected Hagan/Hameroff figure (~10⁻⁶ s) without noting that even the corrected figure is still ~5–8 orders of magnitude short of the hundreds-of-milliseconds neural timescales the model requires.
+
+## Critiques by Philosopher
+
+### The Eliminative Materialist (Churchland)
+The "phenomenology of decision" section (deliberation-feels-like-weighing, resolution-feels-like-crystallisation) is folk-psychological introspection recruited as physics-confirming evidence. That a decision "feels like" superposition awaiting selection is exactly the kind of intuition neuroscience is in the business of dissolving; treating phenomenological fit as evidential support for an interpretation of QM is the inflation of folk report into metaphysics.
+
+### The Hard-Nosed Physicalist (Dennett)
+The phenomenological-fit argument is non-probative for the additional reason that it is unconstrained: a forward-causal, fully physical account predicts the *same* reports (we'd feel "weighing" and "crystallisation" either way). The article even concedes elsewhere that the interpretations "make identical predictions," which means the phenomenology cannot adjudicate between them. The section should be marked as illustration, not evidence.
+
+### The Quantum Skeptic (Tegmark)
+The Decoherence Challenge response is the weakest link. It cites Hameroff's "seven orders of magnitude" rebuttal but stops at ~10⁻⁶ s — still femto-to-microsecond regime, while the readiness-potential phenomena it must explain unfold over 10²–10³ ms. The gap of ~8–9 orders of magnitude is unmentioned. "Rapid observation events happen faster than decoherence can act" is asserted, not quantified.
+
+### The Many-Worlds Defender (Deutsch)
+Fairly handled — the No-Many-Worlds rejection is tenet-marked rather than dressed as an in-framework refutation. No boundary-substitution defect here.
+
+### The Empiricist (Popper's ghost)
+The "Empirical Access" section is honest that transactional and standard QM make identical predictions, and labels the framework "speculative but not unfalsifiable." This is good practice. The weakness: the proposed signatures (contemplative phenomenology, timing correlations, the Soon 60%-gap) are not signatures of *this* model over forward-in-time selection — they are shared by both pathways, so they cannot confirm the atemporal pathway specifically.
+
+### The Buddhist Philosopher (Nāgārjuna)
+The atemporal-selecting-consciousness is a reified selector outside time — a maximally strong version of the permanent self the Madhyamaka critique targets. Unaddressed here (it is engaged elsewhere in the corpus, so this is a cross-link gap, not a critical issue).
+
+## Critical Issues
+
+### Issue 1: Motivational over-claim — Schurger deflation never engaged (evidential-status defect)
+- **File**: `topics/time-symmetric-selection-mechanism.md`
+- **Location**: Frontmatter `description` ("Dissolves the Libet timing puzzle entirely"); lede ¶ ("dissolves the Libet timing problem entirely rather than requiring macroscopic neural superpositions"); "The Timing Problem" section.
+- **Problem**: The article's claimed comparative advantage over the forward-in-time pathway is that it dissolves the Libet problem. But the most-cited methodological reinterpretation of Libet (Schurger, Sitt & Dehaene 2012, PNAS — *web-verified this pass*) argues the readiness potential is a threshold-crossing on stochastic noise, not the trace of a prior unconscious decision. On that reading the timing problem is substantially deflated *without any quantum-temporal apparatus*. The article must engage this: if Schurger is right, the "distinctive advantage" is an advantage over a problem that may not need solving, weakening the case for the heavier metaphysical commitments the article openly admits it carries.
+- **Severity**: High
+- **Recommendation**: Add a paragraph in "The Timing Problem" (or a new "The Deflationary Alternative" subsection) engaging Schurger 2012 directly: concede that the readiness-potential premise is contested, then argue why a residual timing puzzle (e.g., the Soon et al. multi-second prefrontal predictivity, which Schurger's spontaneous-movement model does not straightforwardly cover) still motivates the framework. Soften the frontmatter description from "Dissolves the Libet timing puzzle entirely" to a claim the body can actually support.
+
+### Issue 2: Decoherence response omits the residual timescale gap (over-claim by omission)
+- **File**: `topics/time-symmetric-selection-mechanism.md`
+- **Location**: "The Decoherence Challenge" ¶ (response 1, "seven orders of magnitude longer than Tegmark's").
+- **Problem**: The "seven orders of magnitude" figure is accurate as a *rebuttal-to-Tegmark* (Hagan, Tuszyński & Hameroff 2002: 10⁻¹³ → ~10⁻⁶ s — *web-verified this pass*), but presenting it as a response to the decoherence objection implies it closes the gap. ~10⁻⁶ s is still vastly shorter than the neural timescales (10²–10³ ms) the selection model operates over. The article leans on response (2) — Zeno sidesteps sustained coherence — to carry the load, but does not flag that response (1) by itself does not.
+- **Severity**: Medium
+- **Recommendation**: Add a clause noting the corrected figure is still many orders short of macroscopic neural timescales, so the argument rests on the Zeno "no sustained coherence required" move, not on the decoherence-time figure. This is the same "seven orders of magnitude" claim flagged in today's first review target — corpus-wide, it is doing more rhetorical work than the physics licenses.
+
+### Issue 3: Phenomenological-fit presented as confirmation, not illustration
+- **File**: `topics/time-symmetric-selection-mechanism.md`
+- **Location**: "Phenomenological Fit" section.
+- **Problem**: Four phenomenological observations are offered as fitting the atemporal model "better than sequential causation," but a forward-causal account predicts identical reports, and the article concedes the interpretations are empirically equivalent. The fit therefore illustrates the model; it does not support it over rivals.
+- **Severity**: Medium (low-Low if reframed)
+- **Recommendation**: Reframe the section opener as illustrative ("the atemporal model can be *rendered* in phenomenological terms" rather than "fits better than sequential causation"), or add one sentence conceding the fit is shared by the forward-in-time pathway and so is non-discriminating.
+
+## Counterarguments to Address
+
+### The timing problem may already be dissolved without quantum machinery
+- **Current content says**: Libet/Soon show neural activity precedes awareness; only time-symmetric (or forward) quantum selection rescues conscious causation.
+- **A critic would argue**: Schurger 2012 dissolves the core inference (readiness potential ≠ prior decision) on entirely classical grounds; the W-time gap is the gap between noise-onset and threshold-crossing, with the commitment far closer to awareness than the classical reading claimed.
+- **Suggested response**: Concede the readiness-potential premise is contested; relocate the residual motivation to the Soon et al. multi-second prefrontal predictivity (which the spontaneous-movement accumulator model does not obviously explain) and to the metaphysical question of conscious causation per se, which survives even if the timing puzzle is deflated.
+
+## Unsupported Claims
+
+| Claim | Location | Needed Support |
+|-------|----------|----------------|
+| "seven orders of magnitude longer than Tegmark's" | Decoherence Challenge ¶ | Web-verified accurate (Hagan/Tuszyński/Hameroff 2002, ~10⁻⁶ s) — but add residual-gap caveat (Issue 2) |
+| "60% prediction accuracy in Soon et al." | Empirical Access ¶ | Web-verified accurate (medial frontopolar/precuneus, ~4 s pre-report) — no change needed |
+| "decisions feel simultaneous with their enactment" / "we don't experience lateness" | Phenomenological Fit | Introspective generalisation asserted as datum; soften or source |
+| Hameroff/Tegmark coherence dispute as live support | Decoherence Challenge ¶ | Note this is a minority position widely contested post-2002; currently framed as a clean standoff |
+
+## Language Improvements
+
+| Current | Issue | Suggested |
+|---------|-------|-----------|
+| "Dissolves the Libet timing puzzle entirely" (frontmatter description) | Over-claim; "entirely" unsupportable given Schurger and the model's own concessions | "Addresses the Libet timing puzzle by locating selection outside temporal sequence" |
+| "dissolves the Libet timing problem entirely rather than requiring…" (lede) | Same over-claim, load-bearing for the comparative advantage | "aims to dissolve the Libet timing problem by…" + Schurger caveat |
+| "fits the phenomenology of decision better than sequential causation" | Asserts discriminating fit the article elsewhere denies is possible | "can be rendered in the phenomenology of decision" |
+| "This provides the physics for atemporal selection." | "provides" overstates; these are contested interpretations | "This supplies a physical framework consistent with atemporal selection." |
+
+## Strengths (Brief)
+
+- The two-pathway framing (this article vs. forward-in-time selection) is honest about its own heavier metaphysical commitments and explicitly flags the trade-off — rare intellectual candour for a speculative mechanism.
+- The "What Selection Is Not" section pre-empts four standard misreadings (changing the past, free choice over any possibility, telekinesis, eliminating randomness) cleanly and correctly.
+- The "modified growing block" reconciliation of time-symmetric physics with real becoming is a genuine piece of constructive metaphysics, not hand-waving.
+- "Empirical Access" is admirably honest that the interpretations make identical predictions and labels the framework speculative-but-not-unfalsifiable — no Popperian boundary-substitution defect.
+- No reasoning-mode editor-label leakage (grep-clean); no `**Evidential status:**` callouts; altered-state-symmetry audit does not trigger (the contemplative-cessation mention is a single item, below the ≥2 supportive-cluster gate, and is used as a proposed empirical signature, not as filter-convergence evidence).
+
+## Web-Verification Note (Second Target)
+
+Three load-bearing empirical claims were web-verified clean this pass: Soon et al. 2008 "60% prediction accuracy" (accurate); Schurger, Sitt & Dehaene 2012 PNAS stochastic-accumulator reinterpretation (real, and the basis of Issue 1); Hagan/Tuszyński/Hameroff 2002 "seven orders of magnitude" (accurate as stated, but see Issue 2 residual-gap caveat). No fabricated citations found in this article.

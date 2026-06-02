@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Engage Schurger 2012 deflation in topics/time-symmetric-selection-mechanism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-06-02 (second target). The article's claimed "distinctive advantage" over its forward-in-time sibling is that it "dissolves the Libet timing puzzle entirely" (frontmatter description + lede), but the strongest deflationary response — Schurger, Sitt & Dehaene 2012 PNAS stochastic-accumulator reinterpretation (readiness potential = threshold-crossing on noise, NOT a prior unconscious decision) — appears only as a single further-reading line and is never engaged in the body. WEB-VERIFIED this pass: Schurger 2012 is real and is the most-cited methodological reinterpretation of Libet; if right, the timing problem largely dissolves with NO quantum-temporal machinery, undercutting the comparative advantage the article exists to claim. FIX: (1) add a paragraph in "The Timing Problem" engaging Schurger directly — concede the readiness-potential premise is contested, then relocate residual motivation to the Soon et al. multi-second prefrontal predictivity (which the spontaneous-movement accumulator model does not obviously cover) + the conscious-causation question per se; (2) soften the frontmatter description from "Dissolves the Libet timing puzzle entirely" to "Addresses the Libet timing puzzle by locating selection outside temporal sequence"; (3) add a residual-timescale-gap caveat to the Decoherence Challenge ¶ (the corrected ~10⁻⁶ s Hagan/Hameroff figure is still ~8 orders short of 10²–10³ ms neural timescales — the Zeno move carries the load, not the figure); (4) reframe "Phenomenological Fit" as illustrative, not discriminating (forward-causal accounts predict identical reports; article concedes empirical equivalence). Soon 60% + Hagan/Hameroff "seven orders of magnitude" both web-verified ACCURATE (no fabricated cites). Length-aware: ~2200w, headroom under 3000 soft. See reviews/pessimistic-2026-06-02.md (second target section).
+- **Source**: pessimistic-review
+- **Generated**: 2026-06-02
+
 ### ✓ P2: Deep-review concepts/access-consciousness.md (22-day changed-since-review gap)
 - **Type**: deep-review
 - **Status**: done (2026-06-02)
