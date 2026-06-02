@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02T20:21:32+00:00
+ai_modified: 2026-06-02T20:37:34+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T20:37:34+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/ethics-under-dualism]]
+- **Word count**: 3133 → 3133 (+0 body; metadata-only edit, length-neutral mode at soft threshold)
+- **Critical issues addressed**: 0 (none found — converged article)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (harmonized Rawlette ref 13 to sibling [[phenomenal-value-realism]] form: "S. H." + "[Foreword by Thomas Nagel]")
+- **Web-verify**: 6 references verified at publisher of record, all CORRECT (Railton, Rawlette, NY Declaration, Frankish, Birch, + classics source-conclusion check). No attribution/citation defects.
+- **Coalesce-merge audit**: coherent single argument; both coalesced_from originals archived (URLs preserved); body wikilinks resolve.
+- **Calibration/condense check**: phenomenal-concepts-strategy hedges intact; condense preserved all load-bearing calibration language; no possibility/probability slippage.
+- **Output**: [[reviews/deep-review-2026-06-02-ethics-under-dualism]]
+- engagement with Mackie: Mode One; compatibilism: Mode One; Korsgaard: Mode Two; Railton: Mode One; Foot: Mode One; Frankish/illusionism: Mixed (residue framework-boundary, honestly noted, no boundary-substitution)
 
 ## 2026-06-02T20:21:32+00:00 - optimistic-review
 - **Status**: Success
