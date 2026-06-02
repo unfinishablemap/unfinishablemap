@@ -57,8 +57,8 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-16
 last_curated: null
-ai_modified: 2026-05-27T21:15:00+00:00
-last_deep_review: 2026-05-04T09:39:00+00:00
+ai_modified: 2026-06-02T09:30:00+00:00
+last_deep_review: 2026-06-02T09:30:00+00:00
 coalesced_from:
   - "/concepts/semantic-phenomenology/"
 ---

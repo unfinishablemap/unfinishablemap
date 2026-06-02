@@ -5,6 +5,17 @@ ai_modified: 2026-06-02T10:15:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T09:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/cognitive-phenomenology]]
+- **Word count**: 3129 → 3129 (no change; verification-only)
+- **Critical issues addressed**: 0 (none found — 11th pass at convergence)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no body edits; preserving a converged article)
+- **Scope**: Audited only changes since the 10th-pass (05-01) review: Duch dossier integration, metarepresentation-threshold integration, apex inbound link, occams-limits anchor fix. Verified Duch 2005/2019 citations against corpus + research dossier (not fabricated); confirmed honest framework-boundary framing of the new Duch engagement (no boundary-substitution, no label leakage); confirmed no possibility/probability slippage in new material; all 34 body wikilinks resolve including the new `^occams-limits` anchor and `metacognition#the-metarepresentation-threshold` heading. Added Duch as bedrock-disagreement entry #7.
+- **Engagement modes**: Duch (substrate-independent computationalism): Mode Three (framework-boundary marking — article holds the open question against Duch, routes structural-cost reply to biological-computationalisms-inadvertent-case-for-dualism, does not claim in-framework refutation). LLM/metarepresentation: evidential restraint, no opponent-refutation claim.
+- **Output**: [[reviews/deep-review-2026-06-02-cognitive-phenomenology]]
+
 ## 2026-06-02T10:00:04+00:00 - condense
 - **Status**: Success
 - **File**: [[topics/comparing-quantum-consciousness-mechanisms]]
