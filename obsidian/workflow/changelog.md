@@ -5,6 +5,16 @@ ai_modified: 2026-06-02 13:10:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T13:10:00+00:00 - literature-drift-review
+- **Status**: Success
+- **Article**: [[topics/quantum-biology-and-neural-consciousness]]
+- **Research area**: quantum-biology
+- **Median citation year**: 2024 (2 years behind ai_modified 2026-06-01)
+- **Recent papers found**: 8 (incl. 2 uncited critical reviews: MDPI Brain Sciences "Quantum-Inspired and Non-Classical Approaches" 2025; Frontiers Psychology "Quantum theories of consciousness: a critical review" 2026)
+- **Missing topically-appropriate**: 0 high-impact empirical papers (article already cites Wiest 2025, Beshkar/QBIT 2025, Khan/epothilone-B 2024; the 2 uncited items are meta-reviews/critiques, not new evidence)
+- **Outcome**: no-drift (lag 2y << 5y threshold; article deep-reviewed 2026-06-01, among the most current in corpus)
+- **Task generated**: none
+
 ## 2026-06-02T05:30:00+00:00 - tune-system
 - **Status**: Success (focused operational pass; prior run ~22h ago)
 - **Sessions analyzed**: 1 long /loop session (~90 iterations, 2026-06-01/02)
