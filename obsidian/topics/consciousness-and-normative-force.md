@@ -4,7 +4,7 @@ description: "Why normative claims grip us: the shared phenomenal architecture o
 created: 2026-02-13
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-05-14T20:42:00+00:00
+ai_modified: 2026-06-02T22:35:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-moral-life]]"
@@ -46,7 +46,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-13
 last_curated:
-last_deep_review: 2026-05-09T23:15:00+00:00
+last_deep_review: 2026-06-02T22:35:00+00:00
 coalesced_from:
   - "/topics/phenomenology-of-normative-experience/"
   - "/topics/consciousness-and-the-grounds-of-normative-authority/"

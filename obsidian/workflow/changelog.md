@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02T22:12:42+00:00
+ai_modified: 2026-06-02T22:35:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T22:35:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-normative-force]]
+- **Selection**: Scorer headline (out-of-body-experiences) excluded — ai_modified TODAY (same-session churn). Chose this for a genuine large review-gap with own-content change post-dating its prior review (ai_modified 05-14 after 05-09 review, then 19d untouched), not over-ceiling, not over-reviewed.
+- **Word count**: 2747 → 2747 (no change; converged article, net-neutral verification-led pass)
+- **Citation web-verify**: Rawlette 2016 (*The Feeling of Value*) — VERIFIED title/author/year + STANCE; Williams 1965 "Ethical Consistency" — VERIFIED venue/vol 39/pp 103-124; Nagel 1979 "The Fragmentation of Value" (*Mortal Questions*, CUP) — VERIFIED + STANCE. Williams 1981, Korsgaard 1996, Hume/Kant/Moore canonical, no defect. No fabricated first-authors, no stance-reversal.
+- **Calibration**: clean — thesis presented as argument; MQI "clear candidate" posited not established; five falsifiers present; no possibility/probability slippage (tenet-accepting reviewer would not flag).
+- **Reasoning-mode**: rationalism Mode 2, contractualism Mode 2, naturalism Mode 2+3, expressivism Mode 3. No label leakage, no boundary-substitution.
+- **Critical issues addressed**: 0 (none found — fourth review, convergence)
+- **Medium issues addressed**: 0 (prior 05-09 hygiene fixes verified still resolved)
+- **Enhancements made**: 0 (editing converged calibration-honest article would be churn)
+- **Output**: [[reviews/deep-review-2026-06-02-consciousness-and-normative-force]]
 
 ## 2026-06-02T22:16:48+00:00 - refine-draft
 - **Status**: Success
