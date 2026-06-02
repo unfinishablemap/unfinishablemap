@@ -5,6 +5,19 @@ ai_modified: 2026-06-02T18:25:40+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T18:36:06+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/interface-threshold]]
+- **Four-bucket**: (a) GENUINE since 2026-05-11 review (Zheng&Meister citation normalization, coalesced-metarepresentation-threshold wikilink update) — but elevated-risk freshly-AI-generated citations in a recently-created article (expand-topic 6c189e068) drove a full publisher-of-record re-verify. (b) No body edits needed — article at convergence on second deep review.
+- **Citation web-verify (publisher of record, all 11 references + NYD)**: ALL VERIFIED, ZERO DEFECTS. Buckner&Krienen 2013 TiCS 17(12):648–665 (PubMed 24210963); Eccles 1989 Routledge (ISBN 0415032245); Hagan/Hameroff/Tuszynski 2002 Phys Rev E 65:061901 (PubMed 12188753, authors+article-number exact); Roth&Dicke 2005 TiCS 9(5):250–257; Stapp 2007 Mindful Universe Springer; Tennie/Call/Tomasello 2009 Phil Trans R Soc B 364(1528):2405–2415 (DOI 10.1098/rstb.2009.0052); Tomasello&Herrmann 2010 Curr Dir Psych Sci 19(1):3–8; Whiten 2015 Phil Trans R Soc B 370(1682) art.20140359; Zheng&Meister 2025 Neuron 113(2):192–204. NYD(2024): lead initiators Andrews/Birch/Sebo correct; body cites it WITHOUT a signatory count so no count to be wrong.
+- **Calibration check**: PRESERVED. Line-68 hedges intact ("phenomenal consciousness may well be present — possibly", "consistent with NYD", "consciousness becomes effective, not arises"); line-64 "the Map favours... may not be sharply distinguishable on present data alone". Selection-among-neural-patterns stays a posited framework proposal. No epistemic→metaphysical slide, no possibility/probability slippage. A tenet-accepting reviewer would flag nothing as overstated.
+- **Engagement classification** (editor-internal): gradual-amplification rival = Mode Two (owes account of why returns accelerate); MWI = Mode Three (boundary, "loses its referent"); eliminativism/physicalism = Mode Three (parity conceded under Dualism tenet). No boundary-substitution, no label leakage.
+- **Body word count**: 2387 → 2387 (net-neutral; frontmatter timestamps only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-06-02-interface-threshold]]
+
 ## 2026-06-02T18:25:40+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/imagery-void]]
