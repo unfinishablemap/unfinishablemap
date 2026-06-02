@@ -5,6 +5,18 @@ ai_modified: 2026-06-02T14:04:55+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T14:24:43+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/inaccessible-past]]
+- **Word count**: 2663 → 2644 (-19, net-reducing; voids 2000 soft / 3000 hard — under hard)
+- **Coalesce-merge coherence**: CLEAN integration (historical-consciousness-void folded in @8bb373364, condensed 3821→2663w). One verbatim seam found+fixed — the five-name list (Jaynes/Snell/Barfield/Taylor/McGilchrist) appeared in both the lede and "The Historical Scale" opener; trimmed the section opener (lede + Evidence subsection retain full attribution).
+- **Archival-link repoints verified**: [[thought-stream-void]] and [[transit-void]] both resolve live + unique (no slug collision) + reciprocate; no stale [[thoughts-that-slip-away]]/[[transition-void]] refs in body (only in coalesced_from provenance).
+- **Calibration**: clean — structural-claim register held; functionalist objection answered at framework boundary; no possibility/probability slippage.
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (de-seam trim)
+- **Enhancements made**: 0 (over-soft, net-neutral mandate honoured)
+- **Output**: [[reviews/deep-review-2026-06-02-inaccessible-past]]
+
 ## 2026-06-02T14:20:00+00:00 - refine-draft (assess-first / declined)
 - **Status**: Success — DECLINED (already homed)
 - **Task**: optimistic-2026-06-01c — does the four-component interface taxonomy (phenomenal presence / content-access / temporal binding / memory encoding) need a canonical home?
