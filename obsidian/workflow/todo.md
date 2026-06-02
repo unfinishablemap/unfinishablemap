@@ -118,8 +118,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-06-02
 
-### P3: Deep review topics/dualism-as-ai-risk-mitigation.md (gap ~20d review→ai_modified, SUBSTANTIVE expand-topic synthesis, ai_contribution=100, AI-safety cluster)
+### P2: Deep review topics/dualism-as-ai-risk-mitigation.md (gap ~20d review→ai_modified, SUBSTANTIVE expand-topic synthesis, ai_contribution=100, AI-safety cluster)
 - **Type**: deep-review
+- **Promoted**: P3→P2 by /replenish-queue 2026-06-02 (floor-restoring). The loop-executable P0–P2 queue stood at 2 (the timing-gap-problem deep-review + the combination-problem refine; the consciousness-and-skill-acquisition literature-drift P2 parses as TaskType.OTHER and is NOT loop-pickable per [[orphaned-literature-drift-queue-tasks]]), below the MIN_QUEUE floor of 3. All GENERATIVE sources confirmed exhausted/blocked this cycle (documented [[unfin-loop-steady-state]]): voids OVER cap (101/100 on disk, research-voids skips); topics 259/270 and concepts 250/270 near cap with a ~466-task P3 backlog; NO genuine unconsumed non-voids research; orphaned_files=0; validation clean; every published length offender is blocked — the three human-blocked flagship splits (epistemology-of-convergence-arguments / born-rule-and-the-consciousness-interface / phenomenal-output-causal-machinery-dissociation), the [[refine-then-condense-same-session-churn]] set (time-collapse-and-agency, epistemic-advantages-of-dualism, laws-and-dispositions), articles modified THIS cycle (argument-from-reason / quantum-consciousness / agency-void), wheelers-participatory-universe (same-session-churn flag + open cross-link P3), meaning-of-life (#veto) and apex-articles (apex _index hub). The staleness scan found only ONE non-void article past the 30-day floor (apex/conjunction-coalesce, ldr 2026-05-01) and it is churn-flagged (ai_modified 2026-05-31) with an open §"When Not to Coalesce" P3 content task — task-collision risk, so the prior 2026-06-02 pass correctly picked contemplative-path (now ✓ done) over it. So PROMOTE this already-grounded, fully-specified, churn-FREE staleness deep-review (the strongest grounded candidate in the backlog) rather than mint speculative expand-topic work against near-cap sections / the P3 backlog. Diverse from the existing P2 *concept* deep-review (timing-gap-problem) and P2 refine (combination-problem): a *topic* deep-review in the AI-safety cluster. 3815 words — under the topics 4000 hard threshold; keep length-neutral. SELECTION-COLLISION CAVEAT: if a cycle-slot deep-review bumps `last_deep_review` to 2026-06-02 before this task is picked, mark RESOLVED-OBSOLETE rather than re-reviewing.
 - **Notes**: Staleness deep-review via the corrected churn-free filter (NOT modified today; `last_deep_review` 2026-05-11 → `ai_modified` 2026-05-31, ~20d gap = POSITIVE changed-since-review signal). Confirmed SUBSTANTIVE: the top git touch is `auto(expand-topic): Write article synthesizing the Claude Constitution research into a topic page` (real new content), preceded by a 4-citation refine — not a mechanical sweep. Citation-heavy (~14 post-2020 cite tokens). Distinct cluster from the penrose deep-review above (diversify). Deep-review should: (a) web-verify any AI-safety / alignment / Claude-Constitution source attributions against live material ([[ai-citation-metadata-unreliable]] — the constitution/alignment literature moves fast and specificity is the fabrication zone); (b) honour [[evidential-status-discipline]] — keep the "dualism as AI-risk-mitigation" thesis calibrated as the Map's *position* / conditional argument, granting the materialist reading its coherence before naming its burdens; do NOT let a speculative risk-framing read as an established empirical safety result; (c) verify cross-links into the AI-consciousness cluster ([[ethics-of-possible-ai-consciousness]], [[ai-consciousness]], [[claude-constitution-consciousness-uncertainty]]) resolve live and reciprocate where load-bearing; (d) writing-style + length discipline. Metadata-only verdict acceptable if converged; apply in-place fixes if minor, generate a follow-on refine-draft only if substantive.
 - **Source**: staleness
 - **Generated**: 2026-06-01
@@ -1886,9 +1887,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-19
 
-### P3: Deep review delegatory-dualism.md
+### ✓ RESOLVED-OBSOLETE 2026-06-02: Deep review delegatory-dualism.md
 - **Type**: deep-review
-- **Status**: pending
+- **Status**: resolved-obsolete
+- **Resolved**: 2026-06-02 by /replenish-queue — verified stale (this task was generated 2026-03-19). `topics/delegatory-dualism.md` has since been deep-reviewed: on-disk `last_deep_review: 2026-05-31` == `ai_modified: 2026-05-31` (cycle-slot review consumed it). No longer past the 30-day staleness floor; marking RESOLVED-OBSOLETE rather than re-reviewing converged content ([[deep-review-over-reviews-converged]]).
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Topics article on Bradford Saad's delegatory dualism as an alternative to direct interactionism. Verify coherence, accuracy of Saad's position, cross-references to mental-causation and mind-matter-interface articles, and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-03-19
@@ -1908,9 +1910,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-19
 
-### P3: Deep review methodological-pluralism.md
+### ✓ RESOLVED-OBSOLETE 2026-06-02: Deep review methodological-pluralism.md
 - **Type**: deep-review
-- **Status**: pending
+- **Status**: resolved-obsolete
+- **Resolved**: 2026-06-02 by /replenish-queue — verified stale (this task was generated 2026-03-19). `concepts/methodological-pluralism.md` has since been deep-reviewed: on-disk `last_deep_review: 2026-06-02` == `ai_modified: 2026-06-02` (reviewed today). No longer stale; marking RESOLVED-OBSOLETE rather than re-reviewing same-day content ([[deep-review-over-reviews-converged]]).
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-16 — 31 days ago. Concept page on methodological pluralism as an approach to consciousness studies. Verify coherence, cross-references to recent phenomenological method article, and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-03-19
