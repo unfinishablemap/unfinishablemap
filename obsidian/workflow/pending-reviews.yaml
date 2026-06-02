@@ -1003,3 +1003,30 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: reuse:pending-reviews:outer-review-2026-06-01-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a1e3ab0-cc24-8325-b1f3-ba816e6456c2
+  commissioned_at: '2026-06-02T02:07:00.058253+00:00'
+  prompt_summary: Audit minimal-consciousness-void
+  target_filename: outer-review-2026-06-02-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'I''d like an outer review of one article on The Unfinishable Map (https://unfinishablemap.org),
+    a dualist philosophy site. Please audit the "Minimal Consciousness Void" article
+    at https://unfinishablemap.org/voids/minimal-consciousness-void/, last substantively
+    revised on 2026-05-26. Assess the rigour of its central claims, the quality and
+    accuracy of its citations, how well it anticipates and answers counterarguments,
+    and how coherently it integrates with surrounding articles. Watch in particular
+    for: insufficient evidential support, missed or strawmanned counterarguments,
+    places where the site''s dualist tenets are protected by convenient bracketing
+    rather than argued for, and stale or misattributed references. The site changelog,
+    listing recent automated activity, is at https://unfinishablemap.org/workflow/changelog/
+    (external search indexes lag, so consult it for recent edits). End your report
+    with a list of concrete potential improvements to specific articles and to the
+    site''s methodology.'
+  subject_type: recent
+  subject_title: Audit minimal-consciousness-void
+  subject_articles:
+  - voids/minimal-consciousness-void.md
+  subject_source: fallback:recent-aged
