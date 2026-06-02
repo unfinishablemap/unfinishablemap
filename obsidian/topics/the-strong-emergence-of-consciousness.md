@@ -4,7 +4,7 @@ description: "The type of emergence you accept constrains what consciousness can
 created: 2026-02-08
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-06-01T21:11:47+00:00
+ai_modified: 2026-06-02T05:55:28+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -175,7 +175,7 @@ Affirming irreducibility is not the same as explaining it. The deeper question �
 - [[mental-causation-and-downward-causation|Mental Causation and Downward Causation]] — How mental states cause physical effects at quantum indeterminacies
 - [[causal-closure]] — The principle strong emergentism must deny
 - [[reductionism]] — The three types and why consciousness resists each
-- [[interactionist-dualism]] — The Map's framework as strong emergentism with mechanism
+- [[interactionist-dualism]] — The Map's framework at the quantum opening, adjacent to strong emergentism but bi-aspectual rather than from-below
 - [[combination-problem]] — Panpsychism's parallel challenge at the same boundary
 - [[psychophysical-laws-bridging-mind-and-matter]] — How mind and matter might be lawfully connected
 - [[evolution-of-consciousness]] — When consciousness emerged and what this reveals

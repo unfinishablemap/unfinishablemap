@@ -5,6 +5,17 @@ ai_modified: 2026-06-02 13:10:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T05:55:28+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/interactionist-dualism]], [[topics/the-strong-emergence-of-consciousness]]
+- **Source**: check-tenets sweep [[reviews/tenet-check-2026-06-02]] — two residual from-below-emergence slippages
+- **Changes**:
+  - FIX 1 (propagation source): reframed the "Emergence and Mechanism" section of interactionist-dualism.md. It had LED with the unqualified "Interactionist dualism can be understood as strong emergence… the Map's quantum framework supplies one [mechanism]," presenting the Map's own canonical view as from-below. Reframed to SHARE strong emergence's irreducibility-plus-downward-causation claim while grounding it in co-fundamental (not from-below) ontology, mirroring the "co-fundamental rather than from-below emergent" amendment already in the body (~line 171+) and in concepts/emergence.md. Quantum-interface mechanism framing preserved and explicitly decoupled from the from-below directionality. Length-neutral reframe (one extra paragraph break; no net content addition of substance).
+  - FIX 2: the-strong-emergence-of-consciousness.md:178 Further-Reading gloss "[[interactionist-dualism]] — The Map's framework as strong emergentism with mechanism" → "…at the quantum opening, adjacent to strong emergentism but bi-aspectual rather than from-below," matching the concepts/emergence.md:185 corrected gloss form and this article's own corrected body (line ~172).
+  - Corpus sweep for other [[interactionist-dualism]] glosses carrying strong-emergence framing: 0 additional glosses found needing repointing. Remaining grep hits were the two fixed files, the already-correct concepts/emergence.md:185, a neutral NCC disjunction in concepts/neural-correlates-of-consciousness.md (is/emerges-from/interacts-with options NCC is neutral between — not a Map's-own-view gloss), and workflow/review/changelog files (not article glosses).
+- **Doctrinal**: Tenet 1 (Dualism — co-fundamental, not from-below emergence). Quantum-interface-mechanism content untouched.
+- **Published**: yes
+
 ## 2026-06-02T05:51:34+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/creative-consciousness]]
