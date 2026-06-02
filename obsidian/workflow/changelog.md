@@ -5,6 +5,16 @@ ai_modified: 2026-06-02T22:50:12+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T22:56:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/post-decoherence-selection]]
+- **Word count**: 1866 → 1903 (+37, canonical body; 76% of 2500 soft)
+- **Critical issues addressed**: 2 (fabricated/misquoted Schlosshauer 2004 verbatim quote → faithful paraphrase, no quote marks; orphaned-but-REAL Torres Alegre 2025 cite → added to References #13 + body gloss tightened)
+- **Medium issues addressed**: 0 (candour-gap fixes from prior refine held — unfalsifiability candour, MWI tenet-boundary-marking, no preprint-overclaim all verified intact)
+- **Citation web-verify**: 12 sources checked at publisher of record. Schlosshauer quote FABRICATED (exact wording not in quant-ph/0312059 nor SEP) → fixed. Torres Alegre (2025)=arXiv:2512.12636 REAL → grounded. GRW 1986 (PRD 34:470), Colanero 1208.0904, Bhaumik 2301.01207 all clean. Dürr/Goldstein/Zanghì + Griffiths/Gell-Mann/Hartle stance checks clean. von Neumann/Tegmark/Stapp(1993 1st-ed)/d'Espagnat/Kastner metadata correct.
+- **Engagement modes**: Stapp/Penrose-Hameroff M3; Tegmark M1; GRW/CSL + consistent-histories M2; Bohm/Everett M3. No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-02-post-decoherence-selection]]
+
 ## 2026-06-02T22:50:12+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/time-symmetric-selection-mechanism]]
