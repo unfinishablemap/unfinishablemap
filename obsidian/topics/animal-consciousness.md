@@ -4,7 +4,7 @@ description: "Do animals have conscious experience? Convergent evidence suggests
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-06-01T17:18:12+00:00
+ai_modified: 2026-06-02T14:04:55+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -52,7 +52,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-14
 last_curated: 2026-05-25T11:43:34+00:00
-last_deep_review: 2026-05-08T07:49:00+00:00
+last_deep_review: 2026-06-02T14:04:55+00:00
 embedded_videos:
   - id: DnI0-3Z9EQE
     url: https://www.youtube-nocookie.com/embed/DnI0-3Z9EQE
@@ -235,13 +235,11 @@ Whitehead's process philosophy proposes experience is fundamental—*actual occa
 1. Becerra, D. et al. (2023). "The Conscious Nematode: Exploring Hallmarks of Minimal Phenomenal Consciousness in Caenorhabditis Elegans." *International Journal of Psychological Research*, 16(2), 87-102.
 1. Bhattacharjee, P. et al. (2023). "On being a Hydra with, and without, a nervous system: what do neurons add?" *Animal Cognition*.
 1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). "Evidence that logical reasoning depends on conscious processing." *Consciousness and Cognition*, 17(3), 628-645.
-1. Cowan, N. (2001). "The magical number 4 in short-term memory: A reconsideration of mental storage capacity." *Behavioral and Brain Sciences*, 24(1), 87-114.
 1. Inoue, S. & Matsuzawa, T. (2007). "Working memory of numerals in chimpanzees." *Current Biology*, 17(23), R1004-R1005.
 1. Yoo, D. A., et al. (2025). "Complete sequencing of ape genomes." *Nature*, 641, 401-418.
 1. Tomasello, M. (2010). "Ape and human cognition: What's the difference?" *Current Directions in Psychological Science*, 19(1), 3-8.
 1. Whiten, A. (2015). "Apes have culture but may not know that they do." *Frontiers in Psychology*, 6, 91.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
-1. Hassin, R. R. (2013). "Yes It Can: On the Functional Abilities of the Human Unconscious." *Perspectives on Psychological Science*, 8(2), 195-207.
 1. Reimers, J. R., McKemmish, L. K., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). "Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness." *Proceedings of the National Academy of Sciences*, 106(11), 4219-4224.
 1. McKemmish, L. K., Reimers, J. R., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). "Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible." *Physical Review E*, 80(2), 021912.
 1. LeDoux, J. (2015). *Anxious: Using the Brain to Understand and Treat Fear and Anxiety*. Viking.

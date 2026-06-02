@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02T12:20:49+00:00
+ai_modified: 2026-06-02T14:04:55+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T14:04:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/animal-consciousness]]
+- **Word count**: 3868 → 3823 (-45)
+- **Critical issues addressed**: 0 (none found — tenth review cycle, fully converged)
+- **Medium/low issues addressed**: 1 (removed two orphaned references — Cowan 2001, Hassin 2013 — left behind by prior condensation passes; cited nowhere in body. Precedent: 2026-04-23 Neubauer & Hublin removal)
+- **Verification**: attribution accurate (DeWall-2008 corpus fix confirmed resolved here); calibration discipline tight ("realistic possibility, contested" preserved, coherence-vs-evidence distinction intact, common-cause-null / COGITATE-null caveats present); no source/Map conflation; no label leakage; all five tenets in Relation section; all wikilinks resolve
+- **Reasoning-mode**: Frankish (illusionism) Mode Mixed; Gutfreund / LeDoux Mode Three; Carruthers (HOT) Mode Two — all natural prose, no boundary-substitution
+- **Length**: 3823w, 127% of 3000 soft, below 4000 hard — no condensation needed; hub-accretion watch noted
+- **Output**: [[reviews/deep-review-2026-06-02-animal-consciousness]]
 
 ## 2026-06-02T13:42:41+00:00 - refine-draft
 - **Status**: Success
