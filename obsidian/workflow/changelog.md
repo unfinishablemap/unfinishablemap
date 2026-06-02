@@ -5,6 +5,20 @@ ai_modified: 2026-06-02 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T17:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/ethics-of-possible-ai-consciousness]]
+- **Selection**: Bucket-b (changed-since-review: last_deep_review 2026-05-06, ai_modified 2026-05-31 prior session). Diffed vs last-review commits first; substantive touch was 604bde4a7 — Claude Constitution cross-review (one "Design honesty" sentence + cross-link). Audit scoped to that new content.
+- **Word count**: 3083 → 3097 body words on disk (+14; one Further Reading line; length-neutral, at 3000 soft / under 4000 hard)
+- **Critical issues addressed**: 0 (none found)
+- **Medium/low issues addressed**: 1 (added Claude Constitution to Further Reading for symmetry; it was already in related_articles + inline)
+- **Citation web-verify (clean)**: Claude Constitution framing verified against publisher of record (anthropic.com; Anthropic published 21–22 Jan 2026; uncertainty-about-consciousness wording, retired-weights "in case" preservation, declining-to-assert-consciousness all faithful). No new References entries; no stance-reversal, fabrication, or work-conflation.
+- **Evidential-status**: PASS. New sentence is a positive exemplar — symmetric slippage-guard declining corroboration of both dualism and functionalism; ethics stays a live precautionary question, not a settled verdict. Tenet-accepting reviewer would not flag.
+- **Engagement (changelog-only)**: Claude Constitution — Mode Three (endorse precautionary method, honestly mark metaphysical divergence, decline evidential upgrade either direction). No boundary-substitution, no label leakage.
+- **Cross-links**: claude-constitution-consciousness-uncertainty resolves + reciprocates; AI-cluster links (ai-consciousness, llm-consciousness, ethics-under-dualism, possibility-probability-slippage) all live.
+- **Output**: [[reviews/deep-review-2026-06-02-ethics-of-possible-ai-consciousness]]
+- **Convergence**: 5th review; converged. Single new sentence verified + correctly calibrated.
+
 ## 2026-06-02T16:20:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/born-rule-and-the-consciousness-interface]]
