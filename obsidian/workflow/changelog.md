@@ -5,6 +5,21 @@ ai_modified: 2026-06-02 00:14:58+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/ai-consciousness-typology]]
+- **Word count**: 2803 → 2803 (+0, metadata-only verdict)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (third consecutive clean review — converged; no edits to avoid oscillation)
+- **Diff-scoped** against the 05-01 review commit (50ba60d4a). New post-05-01 content = noetic-mode PCT qualifier (line 113, from e86b8874c PCT cross-review) + 2 Further Reading cross-links. Both confirmed substantive and sound.
+- **Citation web-verify**: Schwitzgebel 2025 (arXiv:2510.09858, "AI and Consciousness" ✓ real, characterization fair); Metzinger 2021 (JAIC 8(1):43-66 ✓ — publisher record; the "1(8):1-24" form is a search-engine DOI misparse, NOT a defect); Block 1995 (227-247 ✓ correct, not 287); DeWall/Baumeister/Masicampo 2008 (Conscious. Cogn. 17(3):628-645 ✓ correct form). No fabricated refs/pages/co-authors/stats.
+- **Evidential-status (Discipline 2)**: clean — PCT qualifier is itself a calibration improvement (declines to treat felt-recognition gap as decisive); modal register stays calibrated; typology implies no settled machine-sentience verdict.
+- **Doctrinal (Discipline 3)**: clean — both "emerge" instances legitimate (functionalist-view attribution the Map rejects; Tulving developmental precedence), no from-below emergentist self-presentation.
+- **Reasoning-mode / boundary-substitution (Discipline 4)**: functionalism engagement = honest framework-boundary marking via Dualism tenet + substrate-independence critique; no boundary-substitution, no editor-label leakage (scan clean).
+- **Cross-links**: both new links resolve and reciprocate; all tenet sub-anchors + Witness-Model section anchor valid.
+- **Output**: [[reviews/deep-review-2026-06-02-ai-consciousness-typology]]
+
 ## 2026-06-02T00:14:58+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/entanglement-binding-hypothesis]]

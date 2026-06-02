@@ -2,10 +2,10 @@
 title: "AI Consciousness Typology"
 description: "Two complementary lenses for analysing AI consciousness: six logical categories of phenomenality (null, simulated, functional, borrowed, epiphenomenal, alien) crossed with Tulving's anoetic-noetic-autonoetic hierarchy of consciousness modes."
 created: 2026-03-19
-modified: 2026-05-01
+modified: 2026-06-02
 human_modified:
-ai_modified: 2026-05-31T18:30:00+00:00
-last_deep_review: 2026-05-01T06:57:00+00:00
+ai_modified: 2026-06-02T00:00:00+00:00
+last_deep_review: 2026-06-02T00:00:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
