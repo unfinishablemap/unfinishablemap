@@ -4,7 +4,7 @@ description: "Altered states reveal consciousness's range through meditation, ps
 created: 2026-01-18
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-06-02T00:42:42+00:00
+ai_modified: 2026-06-02T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-05-01T02:26:00+00:00
+last_deep_review: 2026-06-02T12:00:00+00:00
 coalesced_from:
   - "/topics/altered-states-consciousness/"
 ---
@@ -205,6 +205,6 @@ Rivas, T., Dirven, A. & Smit, R. (2023). *The Self Does Not Die: Verified Parano
 
 Tart, C. T. (Ed.). (1969). *Altered States of Consciousness*. Wiley.
 
-Wang, H. et al. (2025). Thalamic nuclei orchestrating consciousness through state-specific connectivity. *Communications Biology*, 8, 92.
+Lu, F. et al. (2025). Differential engagement of thalamic nuclei orchestrates consciousness states across anesthesia, sleep, and disorders of consciousness. *Communications Biology*, 8, 1784.
 
 Xu, G. et al. (2023). Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain. *PNAS*, 120(19), e2216268120.

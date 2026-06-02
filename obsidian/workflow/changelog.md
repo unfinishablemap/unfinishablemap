@@ -5,6 +5,17 @@ ai_modified: 2026-06-02 13:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/altered-states-of-consciousness]]
+- **Word count**: 2828 → 2828 (length-neutral; soft_warning 113%)
+- **Mode**: citation web-verify pass on a converged 7th-review article; all 6 post-2020 empirical citations verified against publisher of record (not corpus-vote)
+- **Critical issues addressed**: 1 — fabricated first-author name + fabricated title + fabricated article number on the 2025 thalamic-nuclei paper. Cited "Wang, H. et al. (2025), 'Thalamic nuclei orchestrating consciousness through state-specific connectivity', Comm Biol 8, 92"; ground truth (Crossref 10.1038/s42003-025-09205-2): first author **Lu, F.** (Wang is 2nd author, no "H." initial), title "Differential engagement of thalamic nuclei orchestrates consciousness states across anesthesia, sleep, and disorders of consciousness", article **1784**. Fixed at root across 3 loci: this article, [[concepts/sleep-and-consciousness]] (carried a worse "Wang, H.-R. ... in propofol anesthesia" variant introduced by the 2026-02-01 sleep review's citation "completion"), and research/altered-states-consciousness-2026-01-19.md (a paraphrase mislabelled as a verbatim "Quote" — the seed of the fabricated title).
+- **Verified clean**: Mashour 2024 (sole author, Neuron 112(10) 1553-1567), Xu 2023 (PNAS 120(19) e2216268120, first author Gang Xu), Kral 2022 (Sci Adv 8(20) eabk3316), Rivas et al. 2023 (The Self Does Not Die, IANDS), Kerskens & Pérez López 2022 (JPhysCommun 6(10) 105001 — first author + metadata correct; minor second-author surname-order convention deferred corpus-wide).
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral; no slippage or structural defects found — expected for a converged article)
+- **Output**: [[reviews/deep-review-2026-06-02-altered-states-of-consciousness]]
+
 ## 2026-06-02T06:19:46+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/clinical-phenomenology-and-altered-experience]]
