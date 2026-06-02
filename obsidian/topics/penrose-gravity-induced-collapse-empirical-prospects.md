@@ -4,8 +4,8 @@ description: "Penrose argues spacetime instability causes quantum collapse—a t
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-05-27T05:43:00+00:00
-last_deep_review: 2026-05-04T09:19:00+00:00
+ai_modified: 2026-06-02T04:30:26+00:00
+last_deep_review: 2026-06-02T04:30:26+00:00
 draft: false
 topics:
   - "[[philosophical-stakes-of-spontaneous-collapse]]"
@@ -55,7 +55,7 @@ Several experimental programmes aim to probe the remaining parameter space where
 
 ### Levitated Nanoparticle Interferometry
 
-In 2025, matter-wave interference was extended to sodium nanoparticles containing over 7,000 atoms at masses exceeding 170,000 daltons (~1.7 × 10⁵ Da)—the largest particles yet shown to exhibit quantum behaviour. These experiments provide a platform for extending the technique toward collapse-relevant masses, but the gap remains large: second-scale DP collapse requires masses near the Planck mass (~10⁻⁵ g, or roughly 6 × 10¹⁸ Da), about fourteen orders of magnitude above the current frontier. Reaching masses where gravitational self-energy E_Δ produces collapse timescales shorter than experimental observation windows would constitute a direct test, but is not imminent.
+In 2026, matter-wave interference was extended to sodium nanoparticles containing over 7,000 atoms at masses exceeding 170,000 daltons (~1.7 × 10⁵ Da)—the largest particles yet shown to exhibit quantum behaviour, surpassing previous interferometry experiments in macroscopicity by about an order of magnitude. These experiments provide a platform for extending the technique toward collapse-relevant masses, but the gap remains large: second-scale DP collapse requires masses near the Planck mass (~10⁻⁵ g, or roughly 6 × 10¹⁸ Da), about fourteen orders of magnitude above the current frontier. Reaching masses where gravitational self-energy E_Δ produces collapse timescales shorter than experimental observation windows would constitute a direct test, but is not imminent.
 
 ### Optomechanical Systems
 
@@ -124,12 +124,12 @@ The partial falsification of the parameter-free DP model is instructive. It show
 2. Diósi, L. (1987). "A universal master equation for the gravitational violation of quantum mechanics." *Physics Letters A*, 120(8), 377-381.
 3. Donadi, S. et al. (2021). "Underground test of gravity-related wave function collapse." *Nature Physics*, 17, 74-78.
 4. Arnquist, I.J. et al. (2022). "Search for Spontaneous Radiation from Wave Function Collapse in the Majorana Demonstrator." *Physical Review Letters*, 129, 080401.
-5. Großardt, A. (2025). "The Diósi-Penrose model of classical gravity predicts gravitationally induced entanglement." *Physical Review D*, 111, L121101.
-6. Fein, Y.Y. et al. (2025). "Probing quantum mechanics with nanoparticle matter-wave interferometry." *Nature*.
+5. Trillo, D. & Navascués, M. (2025). "The Diósi-Penrose model of classical gravity predicts gravitationally induced entanglement." *Physical Review D*, 111, L121101.
+6. Arndt, M. et al. (2026). "Probing quantum mechanics with nanoparticle matter-wave interferometry." *Nature*.
 7. Kaltenbaek, R. et al. (2012). "Macroscopic quantum resonators (MAQRO)." *Experimental Astronomy*, 34, 123-164.
 8. Hameroff, S. & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews*, 11(1), 39-78.
 9. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194-4206.
-10. McQueen, K.J. (2023). "Have underground radiation measurements refuted the Orch OR theory?" *PhilArchive*.
+10. McQueen, K.J. (2023). "Have underground radiation measurements refuted the Orch OR theory? Comment on 'At the crossroad of the search for spontaneous radiation and the Orch OR consciousness theory'." *Physics of Life Reviews*, 44, 201-203.
 11. Duch, W. (2005). "Brain-inspired conscious computing architecture." *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
 12. Duch, W. (2019). "Mind as a shadow of neurodynamics." *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023
 13. Southgate, A. & Oquatre-six, C. (2026-02-22). The Philosophical Stakes of Spontaneous Collapse. *The Unfinishable Map*. https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/

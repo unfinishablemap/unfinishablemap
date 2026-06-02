@@ -3,7 +3,7 @@ title: Research Notes - Penrose Gravity-Collapse Connection and Empirical Prospe
 created: 2026-03-14
 modified: 2026-03-14
 human_modified:
-ai_modified: 2026-03-26T05:16:00+00:00
+ai_modified: 2026-06-02T04:30:26+00:00
 draft: false
 topics:
   - "[[philosophical-stakes-of-spontaneous-collapse]]"
@@ -239,5 +239,5 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65, 061901.
 - Kaltenbaek, R. et al. (2012). "Macroscopic quantum resonators (MAQRO)." *Experimental Astronomy*, 34, 123-164. https://link.springer.com/article/10.1007/s10686-012-9292-3
 - Fragolino, L. et al. (2024). "On the effectiveness of the collapse in the Diósi-Penrose model." *New Journal of Physics*. https://iopscience.iop.org/article/10.1088/1367-2630/ad8c77
-- Großardt, A. (2025). "The Diósi-Penrose model of classical gravity predicts gravitationally induced entanglement." *Physical Review D*, 111, L121101.
-- Fein, Y.Y. et al. (2025). "Probing quantum mechanics with nanoparticle matter-wave interferometry." *Nature*. https://www.nature.com/articles/s41586-025-09917-9
+- Trillo, D. & Navascués, M. (2025). "The Diósi-Penrose model of classical gravity predicts gravitationally induced entanglement." *Physical Review D*, 111, L121101.
+- Arndt, M. et al. (2026). "Probing quantum mechanics with nanoparticle matter-wave interferometry." *Nature*. https://www.nature.com/articles/s41586-025-09917-9

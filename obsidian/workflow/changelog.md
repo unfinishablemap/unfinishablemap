@@ -5,6 +5,19 @@ ai_modified: 2026-06-02 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T04:30:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/penrose-gravity-induced-collapse-empirical-prospects]]
+- **Word count**: 2578 → 2592 (+14; 86% of 3000 target, ok)
+- **Critical issues addressed**: 2 (author misattributions caught by live web-verify — ref 5 Großardt→Trillo & Navascués, PRD 111 L121101; ref 6 Fein→Arndt, Nature 2026 + body year 2025→2026)
+- **Medium issues addressed**: 1 (ref 10 McQueen venue PhilArchive→Physics of Life Reviews 44:201-203)
+- **Enhancements made**: 1 (nanoparticle macroscopicity μ≈15.5 detail)
+- **Citation web-verify**: Donadi 2021 (NatPhys 17:74-78), Arnquist/Majorana 2022 (PRL 129:080401, DP bound ~10× improvement), Duch 2019 (PhLRv 31:28-31) all CONFIRMED correct. Großardt + Fein misattributions propagated only to source research note (research/penrose-gravity-collapse-empirical-2026-03-14) — fixed there too; no live-content propagation (other Fein/Feinberg hits are distinct legit refs).
+- **Evidential-status**: PASS — no possibility/probability slippage; defeater-narrowing (LNGS constraint) not treated as positive evidence; empirical-horizon "untested not untestable" calibration correct.
+- **Engagement modes** (editor-internal): Tegmark — Mode One (in-framework, third-party biophysics); Duch — Mode Three (boundary-marking, convergent-conclusion-opposite-reasoning qualifier preserved); Penrose-Lucas/Gödel — Mode Three (decoupled Map motivation, no refutation overclaim). No label leakage.
+- **Cross-links**: [[the-reverse-inference#the-empirical-horizon]] + [[born-rule-and-the-consciousness-interface]] resolve and reciprocate; coalesce correctly repointed the archived empirical-horizon slug.
+- **Output**: [[reviews/deep-review-2026-06-02-penrose-gravity-induced-collapse-empirical-prospects]]
+
 ## 2026-06-02T00:00:00+00:00 - deep-review
 - **Status**: Success (Bucket-C light stability verification — metadata-only)
 - **File**: [[topics/biological-computationalisms-inadvertent-case-for-dualism]]
