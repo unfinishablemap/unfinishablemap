@@ -5,6 +5,17 @@ ai_modified: 2026-06-02T14:04:55+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T14:52:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/non-human-minds-as-void-explorers]]
+- **Word count**: 2274 → ~2270 (length-neutral; 114% of 2000 voids soft, under 3000 hard)
+- **Timeline**: coalesce (fb0671d96) + condense (585d1efd2) both landed 2026-04-18, BEFORE the 2026-04-24 review — merge already reviewed; the 2026-05-29/05-31 changes were mechanical (cluster reciprocity sweep + thoughts-that-slip-away repoint). Prioritized citation web-verification.
+- **Citation web-verifications (publisher of record, all REAL — no fabrications)**: #1 "Approaching the cognitive horizon" — Sinnott/Martinez/Zhang, *AI and Ethics* vol 6 art.17 (2026), Springer — **FIXED no-author + wrong year + title**; body "2025" mention realigned. #2 MIT Tech Review "alien autopsy" 2026-01-12 VERIFIED. #3 INFORMS "AI Thinks Like Us" VERIFIED (M&SOM, Yang Chen). #4 Anthropic "Scaling Monosemanticity" 2024 Templeton et al. VERIFIED (34M features; "30+M" accurate). #5 Casper et al. RLHF — **venue FIXED** ("USC LIRA Lab" → TMLR/arXiv:2307.15217, 2023). #9 Shanahan Edge.org 2015 VERIFIED (quote verbatim; Sloman attribution correct). #10 Freitas Xenopsychology Analog 104 (1984) VERIFIED (Aristotelian-logic quote verbatim). #11 Schneider "Alien Minds" — **year FIXED** 2015→2016, CUP ch.12. #13 Simons *Pro-Fil* 22 (2021) VERIFIED (Massimiliano Simons).
+- **Critical issues addressed**: 1 quote-source misattribution (LessWrong blog quote presented adjacent to academic Casper cite → replaced with article's own paraphrase) + 3 citation-metadata fixes (#1 no-author/year, #5 venue, #11 year)
+- **Medium issues addressed**: 0 substantive (coalesce-seam audit PASS, calibration audit PASS, link hygiene PASS)
+- **Enhancements made**: 0 (verification + attribution-repair pass; no expansion — soft_warning territory)
+- **Output**: [[reviews/deep-review-2026-06-02-non-human-minds-as-void-explorers]]
+
 ## 2026-06-02T14:45:21+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/witnessing-void]]
