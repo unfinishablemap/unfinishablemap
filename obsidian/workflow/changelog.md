@@ -5,6 +5,18 @@ ai_modified: 2026-06-02T08:41:28+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T09:10:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/neural-refresh-rates-and-the-smoothness-problem]]
+- **Original score**: n/a (targeted fix of 3 Medium pessimistic-review 2026-06-02 findings; length-neutral)
+- **Changes**:
+  - FIX 1 (functionalist response): replaced the imported-Map-verdict rejection with an in-problem unsupported-move identification — functionalism identifies felt continuity with the functional role of *registering* continuity without saying why the registering is itself felt; the dissolution stipulates the step the smoothness problem isolates. "Strongest physicalist response" concession preserved. Engagement with the functionalist: Mode Two (unsupported foundational move — the framework helps itself to identifying role with feeling without earning it by its own standards).
+  - FIX 2 (calibration): softened the opening ("processes information in discrete bursts" → "samples the world periodically rather than continuously"; gamma "bind" → "may bind") and narrowed the Locke-inversion target to identity theories locating consciousness at the discrete stage-two crystallisation; replaced "demonstrably discrete substrate" with "where the best evidence places a discrete stage in the substrate."
+  - FIX 3 (illusionism): reframed from question-begging "presupposes a subject taken in" to relocating the explanatory debt — the illusionist owes an account of why the seeming is a *phenomenal* seeming; renaming the explanandum does not dissolve it. Engagement with Frankish/Dennett: Mode Two.
+  - FIX 4 (attribution): mirrored the ~10⁹ bits/s figure's citation from [[bandwidth-of-consciousness]] — Zheng & Meister (2025), *Neuron* 113(2), 192–204 — added inline and to the References list (renumbered trailing entries). No fabrication.
+- **Word count**: 2580 (under 3000 soft ceiling)
+- **Published**: yes
+
 ## 2026-06-02T09:05:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/neural-refresh-rates-and-the-smoothness-problem.md (2467 words; last individual review 2026-03-17, ~2.5mo — genuinely under-reviewed, not a converged-recently churn pick)

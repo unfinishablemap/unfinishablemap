@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Refine topics/neural-refresh-rates-and-the-smoothness-problem.md — close 3 medium engagement/calibration gaps
-- **Type**: refine-draft
-- **File**: obsidian/topics/neural-refresh-rates-and-the-smoothness-problem.md
-- **Notes**: Pessimistic review 2026-06-02 ([[pessimistic-2026-06-02-neural-refresh-rates-and-the-smoothness-problem]]). Three Medium issues, all fixable in 1-3 sentences each, length-neutral. (1) BOUNDARY-SUBSTITUTION in "The Functionalist Response": functionalism is rejected by importing the Map's prior verdict ("the Map rejects functionalism for reasons developed across…") not engaged in-problem — either supply the in-problem unsupported-move identification (functionalism stipulates the functional role of "registering continuity" IS felt continuity without saying why the registering is felt) OR downgrade explicitly to framework-boundary marking. (2) "demonstrably discrete substrate" (Locke section) + "discrete bursts" (opening) OVERSTATE the article's own hedged evidence (gamma "strong form weakened"; two-stage model's stage one is "effectively continuous") — narrow the anti-physicalist inversion's target to identity theories locating consciousness at the discrete stage-two crystallisation. (3) Illusionism rebuttal ("presupposes a subject who is taken in") BEGS THE QUESTION against Frankish/Dennett who deny exactly that — reframe as "relocates the explanatory debt" (the illusionist owes why the seeming is itself a phenomenal seeming) rather than asserting an automatic regress. Also: add inline attribution for the bare "~10⁹ bits/second" figure. PRESERVE the verbatim "not a standalone argument for dualism — a concrete instance of the explanatory gap" calibration framing and the "strongest physicalist response" concession to functionalism. Citations VERIFIED clean (Herzog 2020, VanRullen 2016) — do not re-verify.
-
 ### P2: Deep review apex/contemplative-path.md (~32d since review, ai_contribution=100, well-settled body, contemplative/altered-states cluster)
 - **Type**: cross-review
 - **File**: obsidian/apex/contemplative-path.md
@@ -3782,6 +3777,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-02: Refine topics/neural-refresh-rates-and-the-smoothness-problem.md — close 3 medium engagement/calibration gaps
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-06-02 ([[pessimistic-2026-06-02-neural-refresh-rates-and-the-smoothness-problem]]). Three Medium issues, all fixable in 1-3 sentences each, length-neutral. (1) BOUNDARY-SUBSTITUTION in "The Functionalist Response": functionalism is rejected by importing the Map's prior verdict ("the Map rejects functionalism for reasons developed across…") not engaged in-problem — either supply the in-problem unsupported-move identification (functionalism stipulates the functional role of "registering continuity" IS felt continuity without saying why the registering is felt) OR downgrade explicitly to framework-boundary marking. (2) "demonstrably discrete substrate" (Locke section) + "discrete bursts" (opening) OVERSTATE the article's own hedged evidence (gamma "strong form weakened"; two-stage model's stage one is "effectively continuous") — narrow the anti-physicalist inversion's target to identity theories locating consciousness at the discrete stage-two crystallisation. (3) Illusionism rebuttal ("presupposes a subject who is taken in") BEGS THE QUESTION against Frankish/Dennett who deny exactly that — reframe as "relocates the explanatory debt" (the illusionist owes why the seeming is itself a phenomenal seeming) rather than asserting an automatic regress. Also: add inline attribution for the bare "~10⁹ bits/second" figure. PRESERVE the verbatim "not a standalone argument for dualism — a concrete instance of the explanatory gap" calibration framing and the "strongest physicalist response" concession to functionalism. Citations VERIFIED clean (Herzog 2020, VanRullen 2016) — do not re-verify.
 
 ### ✓ 2026-06-02: Condense arguments/many-worlds-argument.md (3639 words, 146% of target)
 - **Type**: condense
