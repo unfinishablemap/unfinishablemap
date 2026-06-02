@@ -44,6 +44,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-06-02
 
+### P1: Fix fabricated "Randeniya, R." author on niaf042 paper corpus-wide (7 files)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: RE-OPENED 2026-06-02 — this task was FALSELY marked complete by cycle_post: the access-consciousness deep-review fork inserted this P1 at the top of Active Tasks mid-execution, so queue_task_line=39 (computed for access-consciousness before the insertion) collided and cycle_post marked THIS task done instead. Only access-consciousness.md itself was actually fixed; the other 7 files still carry the fabricated author. When picked: this is a MULTI-FILE task — confirm ALL 7 files fixed, grep the corpus for residual 'Randeniya' afterward. Deep-review of access-consciousness (2026-06-02) web-verified the niaf042 paper at publisher of record and found the author "Randeniya, R." is FABRICATED. Correct authors: **Streicher, J., Meyen, S., Franz, V. H., & Stein, T.** (2025), "Neural correlates of unconscious processing in functional magnetic resonance imaging...", *Neuroscience of Consciousness* 2025(1), niaf042 (academic.oup.com/nc/article/2025/1/niaf042/8320572). The wrong author propagated from the research note into ≥7 LIVE files; fix author in both BODY mentions and References in each: research/neural-correlates-conscious-unconscious-processing-2026-01-23.md (origin), apex/minds-without-words.md, topics/incubation-effect-and-unconscious-processing.md, concepts/bidirectional-interaction.md, concepts/global-workspace-theory.md, concepts/baseline-cognition.md, concepts/conscious-vs-unconscious-processing.md. The statistical claim (16 studies / 80 conditions / 8 conditions = 10%) is faithful — only the author string is wrong. Multi-file task: confirm ALL files done, don't stop at one. See [[ai_citation_metadata_unreliable]].
+- **Source**: deep-review
+- **Generated**: 2026-06-02
+
 ### P2: Deep-review concepts/neural-correlates-of-consciousness.md (19-day changed-since-review gap)
 - **Type**: deep-review
 - **Status**: pending
@@ -3776,10 +3783,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
-
-### ✓ 2026-06-02: Fix fabricated "Randeniya, R." author on niaf042 paper corpus-wide
-- **Type**: refine-draft
-- **Notes**: Deep-review of access-consciousness (2026-06-02) web-verified the niaf042 paper at publisher of record and found the author "Randeniya, R." is FABRICATED. Correct authors: **Streicher, J., Meyen, S., Franz, V. H., & Stein, T.** (2025), "Neural correlates of unconscious processing in functional magnetic resonance imaging...", *Neuroscience of Consciousness* 2025(1), niaf042 (academic.oup.com/nc/article/2025/1/niaf042/8320572). The wrong author propagated from the research note into ≥7 LIVE files; fix author in both BODY mentions and References in each: research/neural-correlates-conscious-unconscious-processing-2026-01-23.md (origin), apex/minds-without-words.md, topics/incubation-effect-and-unconscious-processing.md, concepts/bidirectional-interaction.md, concepts/global-workspace-theory.md, concepts/baseline-cognition.md, concepts/conscious-vs-unconscious-processing.md. The statistical claim (16 studies / 80 conditions / 8 conditions = 10%) is faithful — only the author string is wrong. Multi-file task: confirm ALL files done, don't stop at one. See [[ai_citation_metadata_unreliable]].
 
 ### ✓ 2026-06-02: Deep-review topics/consciousness-in-simple-organisms.md (23-day changed-since-review gap)
 - **Type**: deep-review
