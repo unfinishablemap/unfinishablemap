@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot investigate its o
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-05-26T01:49:26+00:00
+ai_modified: 2026-06-02T04:50:10+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,10 @@ related_articles:
   - "[[acquaintance-void]]"
   - "[[sleep-consciousness-void]]"
   - "[[boundary-and-projection]]"
+  - "[[higher-order-theories]]"
+  - "[[global-workspace-theory]]"
+  - "[[illusionism]]"
+  - "[[evidential-status-discipline]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -63,6 +67,20 @@ Integrated Information Theory (IIT) approaches the lower bound from a different 
 This implies consciousness exists on a continuum with no natural lower bound. The minimum is always lower than expected, because the criterion for possessing consciousness (Φ > 0) admits systems of arbitrary simplicity. Whether IIT is correct is debated—some scholars characterise it as unfalsifiable—but its structural implication for the void is clear: if consciousness grades continuously toward zero, there is no clean threshold separating experiencing from non-experiencing systems. The boundary the minimal consciousness void seeks is not merely hidden; it may not be a boundary at all but an asymptotic approach to zero that never arrives.
 
 The Map's [[tenets#^dualism|dualist]] framework deepens this problem. If consciousness is fundamental and irreducible to physical processes, its lower bound is not determined by some physical threshold (a minimum neuron count, a minimum Φ value) but by something about consciousness itself. And consciousness, as the enrichment problem shows, cannot examine what that something is.
+
+## Deflationary Alternatives
+
+The void's central premise—that a sub-introspective conscious minimum exists but lies permanently below examination—is not the only available reading of the introspective failure. Three leading frameworks explain the same failure without positing any consciousness beneath what introspection reaches. The honest situation is that the evidence underdetermines which reading is correct; the void is a contested interpretation of the introspective limit, not a forced consequence of it. Naming the alternatives, and stating precisely where each one's disagreement with the void actually bites, is what keeps the dualist commitment from silently closing a question that remains open.
+
+[[higher-order-theories|Higher-order thought theory]] (Rosenthal; Lau and Rosenthal 2011) reads introspective enrichment not as a veil over a pre-existing minimum but as partly constitutive of consciousness itself: a first-order state is conscious in virtue of being targeted by a suitable higher-order representation. On this reading, demanding a conscious state *below* the enrichment is asking to inspect a state that has not yet been made conscious—there is no minimum hidden beneath introspection because introspective (or pre-introspective higher-order) structure is part of what makes a state experienced at all. The disagreement with the void is sharp but locatable. Higher-order theory and the void agree that introspection adds structure; they disagree on whether anything phenomenal exists below the level the higher-order machinery confers. That precise point—the existence of sub-introspective phenomenality—is where the two part company, and it is exactly the point the introspective evidence cannot settle, since the evidence is the same on both readings.
+
+[[global-workspace-theory|Global workspace theory]] (Dehaene and Naccache 2001; Mashour 2024) locates the lower bound at the threshold of global broadcast. A signal too weak to ignite the workspace is processed but never consciously accessed; the failure to introspect anything below the minimum is, on this account, the failure of sub-threshold signals to be broadcast, not the inaccessibility of a fainter experience. The void's "asymptote toward zero" becomes, in workspace terms, a determinate ignition threshold: below it there is processing without consciousness, not consciousness without report. Engaged on its own broadcast-threshold terms, this is a genuine rival the void must contend with rather than absorb—it predicts the same introspective silence the void does, and locates a floor where the void denies there is one.
+
+[[illusionism|Illusionism]] (Frankish 2016) makes the strongest move: the apparent void is the resolution limit of the brain's self-monitoring—a computational blind spot that introspection reifies into a metaphysical depth. There is no minimal phenomenal experience permanently out of reach because there is no phenomenal experience of the relevant kind to begin with; what looks like an inaccessible floor is the edge of a self-model's representational grain. The Map's disagreement here is not a refutation but a framework boundary, and is named as such. Illusionism denies the very explanandum—the what-it-is-likeness of experience—that the Map takes as given under its [[tenets#^dualism|dualist]] commitment. The two frameworks do not share enough common ground for either to defeat the other on the other's terms; the clash is bedrock, and honesty requires marking it that way rather than presenting the void's premise as having answered illusionism.
+
+The Map reads the introspective limit as the void does—as the signature of a sub-introspective phenomenal floor the instrument of inspection cannot reach—because its dualist commitment makes phenomenal presence prior to and independent of the access machinery that broadcasts or monitors it. But that reading is the Map's, supported by its tenets, not a neutral deduction from the introspective data. The three frameworks accommodate the same data, and the choice among them turns on prior commitments about whether phenomenality can exist below access. The void is a serious but unsettled possibility the dualist framework favours, not an established feature of consciousness the evidence compels.
+
+The distinction sharpens how the void's headline claim should be read. "Permanently beyond examination" carries an epistemic sense—introspection cannot reach the minimum—and a metaphysical one—a determinate minimum exists, fixed and unreachable. The introspective evidence supports the first: looking enriches, so the looked-at floor always lies above the actual one. It does not by itself establish the second, that a determinate sub-introspective minimum exists at all; the higher-order and illusionist readings deny exactly that. The void earns the epistemic claim outright and holds the metaphysical claim as its dualist reading of an underdetermined situation—not as a result the inaccessibility argument delivers on its own.
 
 ## Approaching from the Edge
 
@@ -116,3 +134,7 @@ The minimal consciousness void aligns with the Map's [[tenets]] in several ways.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
 1. Winter, U., et al. (2021). "The Minimal Phenomenal Experience questionnaire (MPE-92M): Towards a phenomenological profile of 'pure awareness' experiences in meditators." *PLOS ONE*, 16(7), e0253694.
 1. Hume, D. (1739). *A Treatise of Human Nature*, Introduction.
+1. Lau, H., & Rosenthal, D. (2011). "Empirical support for higher-order theories of conscious awareness." *Trends in Cognitive Sciences*, 15(8), 365-373.
+1. Dehaene, S., & Naccache, L. (2001). "Towards a cognitive neuroscience of consciousness: Basic evidence and a workspace framework." *Cognition*, 79(1-2), 1-37.
+1. Mashour, G. A. (2024). "Anesthesia and the neurobiology of consciousness." *Neuron*, 112(10), 1553-1567.
+1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.

@@ -1,13 +1,56 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02 12:00:00+00:00
+ai_modified: 2026-06-02 13:10:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-02'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-02T04:42:29+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-02
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-5-pro, claude-opus-4-8, gemini-2-5-pro; all audited voids/minimal-consciousness-void.md)
+- **Clusters**: 6 convergent (3 flagged by all three reviewers: epistemic→metaphysical equivocation, named HOT/GWT/Illusionism deflations, MPE-92M-as-enriched-instrument; 1 all-three IIT-staleness split across two tasks; 2 by-pairs: "unexplorable" downgrade [chatgpt+claude], Schooler paraphrase-as-quote [chatgpt+claude]; plus the 2/3-verified MPE-92M misattribution), 4 singleton (Metzinger ARAS truncation, multidimensionality, methodology process-gap, cessation-n=1/Hume-misapplied), 1 divergent (Gemini's nirodha "category error", self-conceded overstated)
+- **Tasks upgraded**: 5 (P3→P2: 0, P2→P1: 5) — modal-overreach/tenet-smuggling, named deflations, "unexplorable" downgrade, currency+IIT, non-independence+MPE-92M-limitations, and Schooler+IIT-4.0; the already-P1 MPE-92M misattribution recorded as convergent (no further upgrade)
+- **Tasks deduplicated**: 0 (the cycle's tasks were already non-overlapping multi-facet bundles, not per-reviewer duplicates; convergence notes + plural Review files added instead)
+- **Verification caveats propagated to task notes**: Gemini's Anil Seth mis-attribution to the IIT pseudoscience open letter (Seth defended IIT — keep out of article text); Gemini's nirodha "category error" self-conceded as overstated
+- **Output**: [outer-review-synthesis-2026-06-02](/reviews/outer-review-synthesis-2026-06-02/)
+
+## 2026-06-02T13:10:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [outer-review-2026-06-02-gemini-2-5-pro](/reviews/outer-review-2026-06-02-gemini-2-5-pro/)
+- **Subject**: voids/minimal-consciousness-void.md (Gemini leg of the 2026-06-02 three-reviewer triple; siblings ChatGPT 5.5 Pro + Claude Opus 4.8)
+- **Claims verified**: 3 (Metzinger ARAS/tonic-alertness reductive model ✓; IIT 2023 "pseudoscience" open letter, 124 signatories/Fleming et al. ✓; HOT/GWT/Illusionism genuinely unengaged ✓). Disputed: Anil Seth wrongly listed as signatory (he defended IIT); nirodha "category error" overstated (article already brackets cessation as possible zero); MPE-92M contradiction valid but already queued.
+- **High-value findings**: 2 net-new (Metzinger ARAS reductive-explanans truncation; named HOT/GWT/Illusionism deflations unengaged) — both boundary-substitution. 3 convergent with already-queued ChatGPT/Claude tasks (MPE-92M self-report contradiction, IIT controversy, nirodha mechanism) → flagged for /combine-outer-reviews, not re-queued.
+- **Tasks generated**: 2 (P2: 2)
+- **Verdict**: Reject for academic submission (hostile-referee framing); convergent with siblings on boundary-substitution structural weakness.
+
+## 2026-06-02T04:30:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/)
+- **Word count**: 2578 → 2592 (+14; 86% of 3000 target, ok)
+- **Critical issues addressed**: 2 (author misattributions caught by live web-verify — ref 5 Großardt→Trillo & Navascués, PRD 111 L121101; ref 6 Fein→Arndt, Nature 2026 + body year 2025→2026)
+- **Medium issues addressed**: 1 (ref 10 McQueen venue PhilArchive→Physics of Life Reviews 44:201-203)
+- **Enhancements made**: 1 (nanoparticle macroscopicity μ≈15.5 detail)
+- **Citation web-verify**: Donadi 2021 (NatPhys 17:74-78), Arnquist/Majorana 2022 (PRL 129:080401, DP bound ~10× improvement), Duch 2019 (PhLRv 31:28-31) all CONFIRMED correct. Großardt + Fein misattributions propagated only to source research note (research/penrose-gravity-collapse-empirical-2026-03-14) — fixed there too; no live-content propagation (other Fein/Feinberg hits are distinct legit refs).
+- **Evidential-status**: PASS — no possibility/probability slippage; defeater-narrowing (LNGS constraint) not treated as positive evidence; empirical-horizon "untested not untestable" calibration correct.
+- **Engagement modes** (editor-internal): Tegmark — Mode One (in-framework, third-party biophysics); Duch — Mode Three (boundary-marking, convergent-conclusion-opposite-reasoning qualifier preserved); Penrose-Lucas/Gödel — Mode Three (decoupled Map motivation, no refutation overclaim). No label leakage.
+- **Cross-links**: [the-reverse-inference](/topics/the-reverse-inference/#the-empirical-horizon) + [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) resolve and reciprocate; coalesce correctly repointed the archived empirical-horizon slug.
+- **Output**: [deep-review-2026-06-02-penrose-gravity-induced-collapse-empirical-prospects](/reviews/deep-review-2026-06-02-penrose-gravity-induced-collapse-empirical-prospects/)
+
+## 2026-06-02T00:00:00+00:00 - deep-review
+- **Status**: Success (Bucket-C light stability verification — metadata-only)
+- **File**: [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)
+- **Word count**: 2899 → 2899 (no change; 97% of 3000 target, ok)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (confirm-the-fixes-held pass; no re-edit of calibrated content)
+- **Verification**: cycle-388 P1 fixes confirmed present + stable — §92 MQI defeater-removal framing, §96 No-MWI false-premise removal + boundary-marking, §94 Bidirectional double-conditional. Citations (Thagard 2022 Phil Sci 89(1):70-88; Milinkovic & Aru 2026 NBR 181, 106524) still correct; no new citations.
+- **Output**: [deep-review-2026-06-02-biological-computationalisms-inadvertent-case-for-dualism](/reviews/deep-review-2026-06-02-biological-computationalisms-inadvertent-case-for-dualism/)
 
 ## 2026-06-02T04:20:00+00:00 - outer-review
 - **Status**: Success

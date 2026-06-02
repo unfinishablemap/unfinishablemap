@@ -5,6 +5,24 @@ ai_modified: 2026-06-02 13:10:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T04:50:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/minimal-consciousness-void]]
+- **Original score**: N/A (scripts/curate.py review is a stale/nonexistent command per known doc-drift; proceeded on the convergent-P1 task remit)
+- **Task**: Convergent P1 from /combine-outer-reviews 2026-06-02 (3/3 reviewers — ChatGPT, Claude, Gemini). Dominant finding: central premise left unprotected against the dominant in-framework deflationary explanations of the introspective void (HOT, GWT, Illusionism unengaged) — classic boundary-substitution failure.
+- **Changes**:
+  - Added a new "Deflationary Alternatives" section (~750 words) engaging Higher-Order Thought, Global Workspace Theory, and Illusionism as live alternatives the void is underdetermined between, with the precise disagreement point stated for each.
+  - Folded in the tightly-coupled convergent finding (epistemic→metaphysical equivocation / "permanently beyond examination" overreach): closing paragraph splits the epistemic reading (introspection enriches → looked-at floor above actual) from the metaphysical reading (a determinate sub-introspective minimum exists), grants the void the first outright, holds the second as the Map's dualist reading of an underdetermined situation. Per [[evidential-status-discipline]].
+  - Added 4 cross-links (related_articles + inline): [[higher-order-theories]], [[global-workspace-theory]], [[illusionism]], [[evidential-status-discipline]].
+  - Added 4 references: Lau & Rosenthal 2011 TICS 15(8):365-373; Dehaene & Naccache 2001 Cognition 79(1-2):1-37; Mashour 2024 Neuron 112(10):1553-1567; Frankish 2016 JCS 23(11-12):11-39. All reuse pre-verified/established corpus citation forms; no new web import, no fabrication.
+- **Engagement classification** (editor-internal, per [[project/direct-refutation-discipline]]; not in article body):
+  - HOT (Rosenthal; Lau & Rosenthal): Mixed — partly complementary/in-framework (HOT and the void AGREE introspection adds structure) with the disagreement located precisely at the existence of sub-introspective phenomenality; no refutation claimed.
+  - GWT (Dehaene/Naccache; Mashour): Mode Two-adjacent / in-framework — engaged on its own broadcast-threshold terms as a genuine rival positing a determinate ignition floor; the void must contend with it, not absorb it.
+  - Illusionism (Frankish): Mode Three — honest framework-boundary marking; illusionism denies the explanandum (what-it-is-likeness) the Map takes as given under dualism; named as bedrock disagreement, explicitly NOT a refutation.
+- **Constraints honoured**: evidential-status fence (frameworks presented as live alternatives BEFORE stating the Map's reasons; dualist commitment does not silently close the question); no mode-labels in prose (leak-checked; replaced one "live hypothesis" five-tier label with natural prose); no "This is not X. It is Y." cliché; length-modest (1753 → ~2550 words, mid-distribution for voids, well under ceiling); did NOT touch the distinct same-date sibling tasks (MPE-92M misattribution, Schooler de-quote, multidimensionality).
+- **Verification**: sync.py exits 0, all wikilinks resolve; named-opponent prose checked clean of editor vocabulary.
+- **Published**: yes
+
 ## 2026-06-02T04:42:29+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-06-02
