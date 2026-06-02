@@ -4,8 +4,8 @@ description: "Human+AI exploration of why consciousness cannot determine the bou
 created: 2026-04-16
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-05-29T01:01:19+00:00
-last_deep_review: 2026-04-29T07:04:00+00:00
+ai_modified: 2026-06-02T21:25:42+00:00
+last_deep_review: 2026-06-02T21:25:42+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -47,13 +47,13 @@ The predictive construction void is primarily [[three-kinds-of-void|unexplorable
 
 The void arises from four interlocking features of [[predictive-processing|predictive processing]], each independently sufficient to create an epistemic barrier.
 
-**The Markov blanket barrier.** Karl Friston's free-energy principle formalises the boundary between organism and environment as a Markov blanket—a statistical partition through which internal states access external states only indirectly, via sensory and active boundaries. Kirchhoff et al. state the implication directly: "As long as the energetic exchanges across the sensory boundaries are held constant, the agent cannot know whether the world beyond is one way or another" (2018). There is no bypass. Every channel from world to mind passes through prediction machinery.
+**The Markov blanket barrier.** Karl Friston's free-energy principle formalises the boundary between organism and environment as a Markov blanket—a statistical partition through which internal states access external states only indirectly, via sensory and active boundaries. As Kirchhoff et al. (2018) develop the formalism, internal and external states are rendered conditionally independent: each can influence the other only through the sensory and active states that constitute the blanket, so the agent's contact with the world beyond is always mediated rather than direct. There is no bypass. Every channel from world to mind passes through prediction machinery.
 
 **The inspection paradox.** Any attempt to examine whether a given experience is constructed or received must use the same predictive apparatus under investigation. The instrument and the object of measurement are identical. Embedded cognition has no outside vantage from which to audit the apparatus—the limitation is structural, not a contingent shortcoming of current neuroscience. You cannot step outside prediction to audit prediction. Where the inspection still proceeds, it risks [[mutation-void|mutating what it inspects]]: the predictive setting under examination is itself updated by the act of attending to it. The same self-applying-apparatus pattern recurs at other cognitive levels: the [[question-formation-void|question formation void]] (inquiry inherits its inquirer's question-set) and the [[relevance-void|relevance void]] (probing relevance is itself a relevance-determining act).
 
 **The transparency problem.** Successful predictions vanish phenomenologically. When the brain's model matches sensory input, the model disappears from awareness and what remains feels like unmediated contact with the world. Only prediction errors—surprises—register as such. This is [[phenomenal-transparency-opacity-spectrum|phenomenal transparency]] operating at the predictive level: the machinery becomes invisible precisely when it succeeds. Jakob Hohwy captures it: minds are "in the business of inferring the world and selves from behind a sensory veil, while being deeply embedded in bodies and worlds" (2013). The veil is invisible precisely because it works.
 
-**The calibration problem.** Within introspection, no standard is available for separating constructive from receptive contributions to a given experience: any attempted comparison is itself another prediction. The claim is deliberately narrow and specifically first-person—third-person science can still triangulate across observers, modalities, and perturbation protocols, and those triangulations do real work. What is blocked is reading the construction/reception ratio off experience itself. Anil Seth's slogan captures the flavour—"We're all hallucinating all the time, including right now. It's just that when we agree about our hallucinations, we call that reality" (2021). Critics object that "hallucination" stretches the term past useful content; the weaker claim here—that the split is not visible from within, regardless of what we call the visible part—survives that objection.
+**The calibration problem.** Within introspection, no standard is available for separating constructive from receptive contributions to a given experience: any attempted comparison is itself another prediction. The claim is deliberately narrow and specifically first-person—third-person science can still triangulate across observers, modalities, and perturbation protocols, and those triangulations do real work. What is blocked is reading the construction/reception ratio off experience itself. Anil Seth's slogan captures the flavour—"we're all hallucinating all the time; when we agree about our hallucinations, we call it 'reality'" (2021). Critics object that "hallucination" stretches the term past useful content; the weaker claim here—that the split is not visible from within, regardless of what we call the visible part—survives that objection.
 
 ## A Self-Erasing Void
 
@@ -97,7 +97,7 @@ The void described here is conditional. If predictive-processing accounts of per
 
 **Enactivism.** Varela, Thompson, Rosch, and Noë argue that perception is a skilled, world-involving engagement constituted by sensorimotor coupling rather than by inference. Under enactivist accounts the Markov blanket separates nothing that matters phenomenologically; experience is already coupled to its environment rather than inferred from behind a statistical boundary.
 
-**Critiques of the Markov-blanket formalism.** Bruineberg, Kiverstein, and Raja (2022) argue that Friston-style Markov blankets conflate a statistical tool (Pearl blankets, defined over probability distributions) with a claim about actual organismic boundaries: the mathematical structure does not by itself identify any real partition in brains or bodies, and the inference from "there exists a Markov blanket over these variables" to "the organism is epistemically isolated from the world" is illicit. Kirchhoff and colleagues dispute this; the debate is live.
+**Critiques of the Markov-blanket formalism.** Bruineberg, Dołęga, Dewhurst, and Baltieri (2022) argue that Friston-style Markov blankets conflate a statistical tool (Pearl blankets, defined over probability distributions) with a claim about actual organismic boundaries: the mathematical structure does not by itself identify any real partition in brains or bodies, and the inference from "there exists a Markov blanket over these variables" to "the organism is epistemically isolated from the world" is illicit. Kirchhoff and colleagues dispute this; the debate is live.
 
 The Map does not claim independent evidence that predictive processing is correct. The claim is the conditional one: *if* the framework is broadly right, this void is among its structural implications, and dualist metaphysics inherits additional opacity on top of the construction problem. The force of the argument tracks the force of the framework. Under direct-perception or enactivist alternatives, much of this article's analysis would need reconstruction on different foundations—or would not apply at all.
 
@@ -140,7 +140,7 @@ This is a falsifiability risk, not only a feature. Treating first-person opacity
 
 ## References
 
-1. Bruineberg, J., Dotov, D., Fabry, R., Kiverstein, J., & Rietveld, E. (2022). The Emperor's new Markov blankets. *Behavioral and Brain Sciences*, 45, e183.
+1. Bruineberg, J., Dołęga, K., Dewhurst, J., & Baltieri, M. (2022). The Emperor's New Markov Blankets. *Behavioral and Brain Sciences*, 45, e183.
 2. Chemero, A. (2009). *Radical Embodied Cognitive Science*. MIT Press.
 3. Clark, A. (2016). *Surfing Uncertainty: Prediction, Action, and the Embodied Mind*. Oxford University Press.
 4. Friston, K. (2010). The free-energy principle: a unified brain theory? *Nature Reviews Neuroscience*, 11(2), 127–138.

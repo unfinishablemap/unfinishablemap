@@ -9,6 +9,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-02T21:25:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [predictive-construction-void](/voids/predictive-construction-void/)
+- **Word count**: 2477 → 2482 body (+5; length-neutral; far below voids 3000 hard)
+- **Four-bucket**: converged voids article (5th review; only post-04-29 change was a mechanical aspect-perception-void cross-link). Highest-yield axis was citation web-verify at publisher of record — caught 3 CRITICAL defects surviving 4 prior "verified" reviews. (1) FABRICATED verbatim quote attributed to Kirchhoff et al. 2018 ("As long as the energetic exchanges across the sensory boundaries are held constant, the agent cannot know whether the world beyond is one way or another") — NONE of its phrases appear in the source (PMC5805980 full text); removed, replaced with accurate paraphrase, citation retained (substance genuine). (2) In-body Bruineberg attribution "Bruineberg, Kiverstein, and Raja (2022)" — WRONG co-authors; fixed to Bruineberg, Dołęga, Dewhurst & Baltieri. (3) Reference 1 author roster "Dotov, Fabry, Kiverstein, Rietveld" — all WRONG (co-authors from other Bruineberg papers); fixed + title case corrected. Plus 1 medium: Seth 2021 quote wording not the attested form, brought to canonical.
+- **Citation web-verify verdicts**: Kirchhoff 2018 = FABRICATED QUOTE (author list/venue clean; quote not in source) FIXED. Bruineberg 2022 = WRONG AUTHORS ×2 (in-body + ref) FIXED (correct = Bruineberg/Dołęga/Dewhurst/Baltieri, BBS 45 e183). Seth 2021 = WORDING DEFECT fixed (canonical TED/book form). Hohwy 2013 = quote phrasing corroborated as his, CLEAN. Swanson 2016 = CLEAN (Front. Syst. Neurosci. 10:79). Chemero 2009 / Withagen attribution = CLEAN. Friston 2010, Gibson, Noë, Thompson, Rozenblit & Keil = standard, CLEAN. Rockell ref 9 = REAL (Andrew Rockell, PhilArchive ROCPAT-4) but thin (no initial/year); left flagged, NOT completed by invention.
+- **Calibration check**: PASS. Conditionality markers intact ("argument is conditional on the predictive-processing framework being broadly correct"; "Map does not claim independent evidence"; "does not refute dualism"); MQI POSITED not established ("tenet remains on probation"); No-MWI resonance "without entailing it"; no possibility→probability or epistemic→metaphysical slide; no anchoring flag. Citation fixes touched no calibration language.
+- **Reasoning-mode**: Gibsonian/enactivist/Markov-critic alternatives engaged as Mode Three (framework-boundary marking), honestly framed ("force of the argument tracks the force of the framework"); no boundary-substitution, no label leakage.
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 1
+- **Enhancements made**: 0 (converged article; no-new-content pass is correct)
+- **Output**: [deep-review-2026-06-02-predictive-construction-void](/reviews/deep-review-2026-06-02-predictive-construction-void/)
+
 ## 2026-06-02T21:22:01+00:00 - deep-review
 - **Status**: Success
 - **File**: [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/)
