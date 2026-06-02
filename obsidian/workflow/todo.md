@@ -205,13 +205,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-06-01
 - **Notes**: Deferred from [[reviews/deep-review-2026-06-01-time-collapse-and-agency]] (and the 2026-05-31 pessimistic review). Two honesty-strengthening, framework-boundary engagements NOT done in the audit pass because the article is OVER the topics hard ceiling (4607w) and forcing them in would worsen length. (1) Dennett is engaged only as an illusionist; his Stalinesque/Orwellian post-hoc temporal-construction (multiple-drafts) is a frontal rival to "each collapse creates a moment" — add a brief in-prose acknowledgment. (2) Recruiting nirodha-samāpatti as support for a robustly real substance-causal selecting self is in tension with the Madhyamaka reading of cessation as evidence AGAINST a substantial witness — a one-clause concession would strengthen honesty. BOTH are bedrock-boundary (Mode Three), NOT calibration corrections — engage in natural prose, no editor-vocabulary, no overclaim of refutation. STRICTLY LENGTH-NEUTRAL or net-negative: the article is over-ceiling and its calibration hedges are protected; pair any addition with an equivalent trim that does NOT touch the calibration content. If no length-neutral slot exists, decline — these are nice-to-have, not corrections of slippage.
 
-### P2: Dedupe / canonicalise the nature-coupling (architecture-specific epiphenomenalism) distinction
-- **Type**: refine-draft
-- **Status**: pending
-- **Promoted**: P3→P2 by /replenish-queue 2026-06-02 (floor-restoring; see combination-problem task for full rationale). Grounded dedupe task across three named live files (epiphenomenalism.md, the-epiphenomenalist-threat.md, ai-epiphenomenalism.md — all verified to exist); additive/link-only, no new claims, no speculative creation.
-- **Source**: optimistic-review
-- **Notes**: Suggested by [[reviews/optimistic-2026-06-01f]] (Medium Priority). The nature-coupling distinction (consciousness may be intrinsically efficacious yet a given architecture provides no interface through which the capacity operates) appears in compressed form in `concepts/epiphenomenalism.md` §"AI Exception", `topics/the-epiphenomenalist-threat.md` §"Relation to Site Perspective", and `[[ai-epiphenomenalism]]`. Check that `ai-epiphenomenalism.md` is the canonical home and the other two correctly DEFER to it (reference) rather than RE-DERIVE the distinction. Additive/link-only if deferral is already clean; otherwise tighten the two non-canonical mentions to point at the canonical home. Do NOT introduce new claims about machine consciousness — scope is dedupe, not expansion.
-
 ### P2: Reciprocal cross-link — individuation cluster ↔ surprise cluster (shared vertigo phenomenology)
 - **Type**: refine-draft
 - **Status**: pending
@@ -3791,6 +3784,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-02: Dedupe / canonicalise the nature-coupling (architecture-specific epiphenomenalism) distinction
+- **Type**: refine-draft
+- **Notes**: Suggested by [[reviews/optimistic-2026-06-01f]] (Medium Priority). The nature-coupling distinction (consciousness may be intrinsically efficacious yet a given architecture provides no interface through which the capacity operates) appears in compressed form in `concepts/epiphenomenalism.md` §"AI Exception", `topics/the-epiphenomenalist-threat.md` §"Relation to Site Perspective", and `[[ai-epiphenomenalism]]`. Check that `ai-epiphenomenalism.md` is the canonical home and the other two correctly DEFER to it (reference) rather than RE-DERIVE the distinction. Additive/link-only if deferral is already clean; otherwise tighten the two non-canonical mentions to point at the canonical home. Do NOT introduce new claims about machine consciousness — scope is dedupe, not expansion.
 
 ### ✓ 2026-06-02: Project-doc — separate external-source citation audit from internal-coherence review (DOI-first verification + tenet-use guardrail)
 - **Type**: refine-draft
