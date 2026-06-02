@@ -121,6 +121,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-06-02
 
+### P2: Complete proxy-tests ↔ pupillometry back-link (one-directional cross-link gap)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by /optimistic-review 2026-06-02 (see [[reviews/optimistic-2026-06-02]]). CROSS-LINK COMPLETION, length-neutral, NOT new-article creation (cap-safe under near-cap pressure). `topics/cross-species-behavioural-confidence-proxy-tests.md` lists `[[pupillometry-behavioural-channel]]` as a related article, and the parent exhibit `topics/introspection-architecture-independence-scoring.md` pairs the two as the within-biology channel-methodology siblings (autonomic third-person dissociation vs wager/opt-out proxy). But `topics/pupillometry-behavioural-channel.md` has NO mention of the proxy-tests article in its `related_articles` OR body (verified 2026-06-02). The pairing is asymmetric: a reader on pupillometry cannot reach its natural companion. Scope: (a) add `[[topics/cross-species-behavioural-confidence-proxy-tests]]` to pupillometry's `related_articles`; (b) add one body sentence positioning the two as complementary within-biology channel methods; (c) keep length-neutral (pupillometry is 2433 body words, ample headroom — do NOT pad); (d) writing-style, no "This is not X. It is Y." cliché. Do NOT touch evidential-status tier wording in either article (both are calibration-disciplined per [[evidential-status-discipline]] — the proxy-tests article is a model case). The target article (pupillometry) was NOT modified today (`ai_modified: 2026-05-27` ≠ 2026-06-02 → no same-session churn). ASSESS-FIRST: confirm the back-link is still absent before editing ([[stale-expand-tasks-may-be-redundant]]). Tenet alignment: Tenet 1 (Dualism — strengthens the introspection-architecture evidential web without any new evidential claim). See /refine-draft skill.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-02
+
 ### ✓ DEFERRED-TO-HUMAN (2026-06-02): Condense topics/epistemology-of-convergence-arguments.md (6479 words, exceeds 6000 critical threshold)
 - **Type**: condense
 - **Type**: condense
