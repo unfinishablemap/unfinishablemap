@@ -4,7 +4,7 @@ description: "The simplest form of consciousness—bare phenomenal experience wi
 created: 2026-01-31
 modified: 2026-05-21
 human_modified: null
-ai_modified: 2026-05-21T22:15:00+00:00
+ai_modified: 2026-06-02T06:58:29+00:00
 last_deep_review: 2026-05-20T22:42:20+00:00
 draft: false
 topics:
@@ -82,6 +82,12 @@ Where does minimal consciousness begin? This is the [[consciousness-in-simple-or
 **Interface dualism (the Map's view)**: Consciousness interfaces with physical systems rather than emerging from them. The question "where does consciousness begin?" may have no principled answer because it presupposes consciousness is something physical systems generate. The [[universal-coupling-response]] holds that if consciousness is irreducible, it couples with matter wherever appropriate interface conditions exist—no arbitrary threshold, no unexplained selectivity.
 
 **The enrichment problem**: Beyond these ontological options, the threshold problem has a structural epistemological dimension. Any attempt to introspect on minimal consciousness necessarily enriches the experience—attention, metacognition, and memory encoding add structure that moves the experience beyond minimality. The instrument of investigation is made of the very thing it seeks to measure at its minimum. The [[minimal-consciousness-void]] explores this in depth: the accessible minimum and the actual minimum are structurally separated by the cost of observation.
+
+### Is "Minimal" One Dimension or Many?
+
+The "lower bound" and "basement level" metaphors assume a single one-dimensional scale running from zero to richer consciousness. Contemporary work makes that assumption contestable. Bayne, Hohwy and Owen argue that the notion of a *level* of consciousness, as applied to anaesthesia, sleep, and disorders of consciousness, breaks down under scrutiny: global states vary along several independent axes—wakefulness, content, integration, selfhood—rather than along one vertical line (Bayne, Hohwy & Owen 2016). Birch, Schnell and Clayton make the parallel case for animal consciousness, proposing five dimensions of variation—perceptual richness, evaluative richness, integration at a time, integration across time, and self-consciousness—so that each species carries a distinctive *consciousness profile* rather than a rank on a single scale (Birch, Schnell & Clayton 2020).
+
+This is a live position in consciousness science, not a settled result—the levels debate is genuinely contested, with others defending a unified scale. But if minimality is plural, the threshold problem does not dissolve; it multiplies. There would be a minimal wakefulness, a minimal content, a minimal integration, a minimal selfhood, a minimal reportability—and each axis poses the threshold question independently, each resisting a clean boundary between something and nothing. On this reading the Map's case strengthens rather than weakens: not one unexplained edge but several, each marking where the [[explanatory-gap]] reasserts itself. The [[minimal-consciousness-void]] develops what the plural framing does to the void's shape.
 
 ## Metarepresentation and Minimal Consciousness
 
@@ -165,6 +171,8 @@ Honest framing: (4)–(6) are inaccessible by the framework's own commitments, n
 
 1. Andrews, K., Birch, J., Sebo, J., & Sims, T. (2024). "Background to the New York Declaration on Animal Consciousness." New York University.
 1. Bayne, T., & Chalmers, D. J. (2003). "What is the unity of consciousness?" In A. Cleeremans (Ed.), *The Unity of Consciousness*.
+1. Bayne, T., Hohwy, J., & Owen, A. M. (2016). "Are There Levels of Consciousness?" *Trends in Cognitive Sciences*, 20(6), 405-413.
+1. Birch, J., Schnell, A. K., & Clayton, N. S. (2020). "Dimensions of Animal Consciousness." *Trends in Cognitive Sciences*, 24(10), 789-801.
 1. Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
 1. Metzinger, T. (2020). "Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness." *Philosophy and the Mind Sciences*, 1(I), 7.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.

@@ -82,14 +82,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-02
 
-### P2: Develop the multidimensionality of "minimal" across concepts/minimal-consciousness.md and voids/minimal-consciousness-void.md
-- **Type**: refine-draft
-- **File**: obsidian/voids/minimal-consciousness-void.md
-- **Notes**: From outer review 2026-06-02 (ChatGPT 5.5 Pro), findings §1/§3 and improvement items 9, 10. The "lower bound" / "basement level" metaphor implies a single one-dimensional scale, but contemporary work (Bayne/Hohwy/Owen on multidimensional global states; Birch/Schnell/Clayton on animal-consciousness dimensions) separates wakefulness, content, selfhood, integration, valence, access, and reportability — there may be many *minimalities*, not one minimum. This does not dissolve the void; it changes its shape, and arguably STRENGTHENS the Map's case (more axes that each resist a clean threshold). Add a short passage treating "minimal" as potentially plural in BOTH the void article and [[concepts/minimal-consciousness]] (multi-file task — do not drop the concept page; see [[multifile-task-dropped-file]]). Also tighten the cross-link to [[voids/edge-states-and-void-probes]], importing its transcendence-vs-edge-mapping tension so cessation reads as an *ambiguous probe* rather than near-confirmation of an inaccessible lower edge. Web-verify the Bayne/Hohwy/Owen and Birch et al. attributions before citing ([[ai-citation-metadata-unreliable]]); these are NEW citations the reviewer suggested, not existing ones, so do not import them unverified. Honour [[evidential-status-discipline]] — present multidimensionality as a live framing that reshapes the void, not as established fact. Confirm cap headroom on concepts/ before any growth.
-- **Review file**: `reviews/outer-review-2026-06-02-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-02
-
 ### P2: Project-doc — separate external-source citation audit from internal-coherence review (DOI-first verification + tenet-use guardrail)
 - **Type**: refine-draft
 - **File**: obsidian/project/calibration-audit-triple.md
@@ -3810,6 +3802,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-02: Develop the multidimensionality of "minimal" across concepts/minimal-consciousness.md and voids/minimal-consciousness-void.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-02 (ChatGPT 5.5 Pro), findings §1/§3 and improvement items 9, 10. The "lower bound" / "basement level" metaphor implies a single one-dimensional scale, but contemporary work (Bayne/Hohwy/Owen on multidimensional global states; Birch/Schnell/Clayton on animal-consciousness dimensions) separates wakefulness, content, selfhood, integration, valence, access, and reportability — there may be many *minimalities*, not one minimum. This does not dissolve the void; it changes its shape, and arguably STRENGTHENS the Map's case (more axes that each resist a clean threshold). Add a short passage treating "minimal" as potentially plural in BOTH the void article and [[concepts/minimal-consciousness]] (multi-file task — do not drop the concept page; see [[multifile-task-dropped-file]]). Also tighten the cross-link to [[voids/edge-states-and-void-probes]], importing its transcendence-vs-edge-mapping tension so cessation reads as an *ambiguous probe* rather than near-confirmation of an inaccessible lower edge. Web-verify the Bayne/Hohwy/Owen and Birch et al. attributions before citing ([[ai-citation-metadata-unreliable]]); these are NEW citations the reviewer suggested, not existing ones, so do not import them unverified. Honour [[evidential-status-discipline]] — present multidimensionality as a live framing that reshapes the void, not as established fact. Confirm cap headroom on concepts/ before any growth.
 
 ### ✓ 2026-06-02: De-quote/verify Schooler & Schreiber sentence in voids/minimal-consciousness-void.md (SCOPED DOWN — other parts done by consolidation)
 - **Type**: refine-draft
