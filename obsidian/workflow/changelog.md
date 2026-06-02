@@ -5,6 +5,15 @@ ai_modified: 2026-06-02 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T04:05:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [[reviews/outer-review-2026-06-02-chatgpt-5-5-pro]]
+- **Subject**: voids/minimal-consciousness-void.md (recent-aged fallback selection)
+- **Claims verified**: 3 (MPE-92M misattribution CONFIRMED via live PLOS fetch — authors are Gamma & Metzinger, not "Winter et al."; 2024 PLOS correction confirmed; Schooler & Schreiber metadata accurate but quoted sentence is a paraphrase)
+- **High-value findings**: 2 (1 confirmed factual citation error; 1 structural modal-overreach + tenet-bracketing critique). Remainder are calibration/expansion recommendations, not errors.
+- **Tasks generated**: 5 (P1: 1 citation fix; P2: 4 — modal-overreach refine w/ direct-refutation remit, citation-hygiene trio, multidimensionality expansion across void+concept page, methodology project-doc for external-source audit discipline)
+
 ## 2026-06-02T03:34:50+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/zombie-master-argument]]
