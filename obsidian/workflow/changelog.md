@@ -5,6 +5,18 @@ ai_modified: 2026-06-02 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/valence-and-conscious-selection]]
+- **Task**: topic-concept anchoring-audit calibration fix (Audit Three, [[evidential-status-discipline]], [[project/calibration-audit-triple]]). Pre-refine: 3 live flags (anchors [[consciousness-value-connection]], [[control-theoretic-will]], [[attention-as-interface]]), all failing hedge_density + strong_assertions. Profile: 3688w, hedge 2.71/kw, strong-assertion 0.81/kw (3 verbs), underdetermination 0.
+- **Diagnosis**: Primary axis was over-assertion. The 3 strong-assertion verbs were all the phrase "shows that" — each on a citation-attribution claim about empirical findings (Panksepp on affective anticipation; Berridge on wanting/liking dissociation; affective-forecasting literature on misprediction). Resolving strong_assertions clears the second failed check on all three anchors at once (≥2-check mechanism), clearing all flags.
+- **Changes**:
+  1. Softened the 3 "shows that" attributions to calibrated, non-marker verbs preserving accuracy: "indicates that" (Panksepp), "finds that" (Berridge), "indicates that" (affective-forecasting). strong_assertion_count 3 → 0.
+  2. Secondary genuine calibration: added one underdetermination marker at the Discriminating Evidence intro ("the fork is...underdetermined by the evidence: no current finding decides between value-blind and value-sensitive selection") — honest given the article's own framing that the fork is unresolved. underdetermination 0 → 1.
+- **Voice/thesis preserved**: central thesis (valence as the Map's PROPOSED mechanism of conscious selection — MQI/Tenet-2/Tenet-3) untouched; no thesis weakening; bi-aspectual co-fundamental dualism intact. No hedge-padding to the anchors' 4.59–5.79/kw outlier bars.
+- **Verification**: re-ran tools.curate.anchoring.evaluate_anchoring → 0 active flags. Length 3688 → 3711w (+23, length-neutral, well under 4000 ceiling).
+- **Published**: yes
+
 ## 2026-06-02T01:36:59+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/philosophical-stakes-of-spontaneous-collapse]]

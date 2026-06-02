@@ -3,7 +3,7 @@ title: "Valence and the Mechanism of Conscious Selection"
 created: 2026-02-19
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-05-31T00:00:00+00:00
+ai_modified: 2026-06-02T00:00:00+00:00
 draft: false
 description: "Does consciousness select outcomes guided by valence, or is value epiphenomenal to the selection mechanism? A fork forced by the Map's own commitments."
 topics:
@@ -90,7 +90,7 @@ Without a common currency, selection among qualitatively different outcomes woul
 
 Selection requires evaluation *before* the outcome is actualised. Consciousness cannot select the better option by experiencing the result of each and then choosing—that would require multiple actualisations. It must evaluate anticipated outcomes. This implies an anticipatory valence mechanism: consciousness assesses the predicted felt quality of each competing neural pattern and selects accordingly.
 
-The brain already runs such anticipatory models. Anticipatory pleasure (wanting) and anticipatory dread (anxiety) are everyday phenomenology. Panksepp's (1998) work on basic emotional systems shows that affective anticipation is deeply conserved across mammals. Dopaminergic prediction error signals in the reward system track expected valence and update predictions based on outcomes.
+The brain already runs such anticipatory models. Anticipatory pleasure (wanting) and anticipatory dread (anxiety) are everyday phenomenology. Panksepp's (1998) work on basic emotional systems indicates that affective anticipation is deeply conserved across mammals. Dopaminergic prediction error signals in the reward system track expected valence and update predictions based on outcomes.
 
 A formal sketch of the selection law:
 
@@ -156,9 +156,9 @@ This inverts the usual framing. The bandwidth constraint is typically presented 
 
 ### Discriminating Evidence
 
-Cases where felt valence and computational reward signals come apart provide the strongest tests:
+The fork is, as things stand, underdetermined by the evidence: no current finding decides between value-blind and value-sensitive selection. Cases where felt valence and computational reward signals come apart provide the strongest tests for narrowing that gap:
 
-**Wanting without liking.** Berridge's (2009) work shows that dopaminergic "wanting" and hedonic "liking" are neurally dissociable. Addicts intensely want substances they no longer enjoy. If selection is denominated in valence (felt quality), liking—not wanting—should determine which outcome consciousness selects when the two conflict. A reward model denominated in dopaminergic prediction error predicts the opposite.
+**Wanting without liking.** Berridge's (2009) work finds that dopaminergic "wanting" and hedonic "liking" are neurally dissociable. Addicts intensely want substances they no longer enjoy. If selection is denominated in valence (felt quality), liking—not wanting—should determine which outcome consciousness selects when the two conflict. A reward model denominated in dopaminergic prediction error predicts the opposite.
 
 **First-encounter aesthetic preference.** When someone encounters a novel artwork for the first time, no reward history exists. Yet people form immediate evaluative preferences. The valence account predicts that first-encounter preferences reflect direct phenomenal evaluation—consciousness comparing anticipated felt qualities.
 
@@ -184,7 +184,7 @@ The graduated middle path—valence modulating attention, attention driving sele
 
 **The valence-attention boundary.** If valence modulates attention (the conservative strategy), is it truly a selection currency or merely an input to the real currency (attention)? The distinction matters: if valence acts only through attention, the selection law is fundamentally attentional, and valence is upstream infrastructure.
 
-**Anticipated vs experienced valence.** Selection depends on *anticipated* valence—predictions of how outcomes would feel. But Daniel Kahneman's distinction between the experiencing self and the remembering self, along with the literature on affective forecasting errors, shows that humans systematically mispredict how experiences will feel. If selection is based on anticipated valence, and anticipation is unreliable, selection may systematically favour outcomes that feel worse than alternatives. The currency would be real but poorly calibrated.
+**Anticipated vs experienced valence.** Selection depends on *anticipated* valence—predictions of how outcomes would feel. But Daniel Kahneman's distinction between the experiencing self and the remembering self, along with the literature on affective forecasting errors, indicates that humans systematically mispredict how experiences will feel. If selection is based on anticipated valence, and anticipation is unreliable, selection may systematically favour outcomes that feel worse than alternatives. The currency would be real but poorly calibrated.
 
 **Scope of consciousness.** If valence is the selection currency, the currency exists wherever consciousness exists. Determining which systems have valence-based selection requires determining which systems are conscious—a problem the Map acknowledges as unsolved.
 

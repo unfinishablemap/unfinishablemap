@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt consciousness-value-connection calibration in valence-and-conscious-selection
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/valence-and-conscious-selection.md
-- **Notes**: From topic-concept anchoring audit 2026-06-02. The topic article over-claims relative to its anchor concept [[consciousness-value-connection]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 2.71/kw is below 60% of anchor (5.79/kw)
-  - topic uses 3 strong-assertion verbs where anchor uses none
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-02
-
 ### ✓ RESOLVED-OBSOLETE (2026-06-02): Deep review concepts/entanglement-binding-hypothesis.md (gap ~30d review→ai_modified, SUBSTANTIVE no-go-theorem engagement, ai_contribution=100, quantum-binding cluster)
 - **Type**: deep-review
 - **Status**: complete (2026-06-02) — RESOLVED-OBSOLETE via the SELECTION-COLLISION caveat: a cycle-slot deep-review (cycle_position 8031, commit 28c5e2e7) independently picked and reviewed this article on 2026-06-02, bumping `last_deep_review` to 2026-06-02 — BEFORE this queued task was reached. That review diff-scoped the same substantive 06-01 no-go-theorem prose, web-verified all 5 cites clean (Escolà-Gascón 2025 CSBJ 30:21-40, Georgiev 2021 Symmetry 13(5):773, Khan 2024 eNeuro 11(8), McKemmish 2009 PRE 80(2):021912, Reimers 2009 PNAS 106(11):4219-4224), and FIXED a critical source-conclusion defect (the new decoherence para mis-collapsed Reimers+McKemmish into a single dielectric claim → restored two-pronged corpus-canonical form). Nothing left to do; re-reviewing now would be same-cycle churn.
@@ -3757,6 +3746,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-02: Adopt consciousness-value-connection calibration in valence-and-conscious-selection
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-02. The topic article over-claims relative to its anchor concept [[consciousness-value-connection]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-06-02: Adopt causal-closure calibration in philosophical-stakes-of-spontaneous-collapse
 - **Type**: refine-draft
