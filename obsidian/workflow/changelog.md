@@ -5,6 +5,16 @@ ai_modified: 2026-06-02 13:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T07:39:54+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/possibility-probability-slippage]]
+- **Word count**: 2148 → 2148 (+0; metadata-only acceptance, converged)
+- **Critical issues addressed**: 0 (none found — calibration-anchor named-discipline page)
+- **Medium issues addressed**: 0 (1 deferred: one-way cross-link from evidential-status-discipline, sibling-file/low-value, not done to avoid churn)
+- **Enhancements made**: 0
+- **Audit results**: Calibration-anchor deep-review of the named possibility→probability slippage handle (propagates corpus-wide; handled length-neutral, anti-churn). Prior review (2026-05-05) declared stability; a since-then refine added two TRANSFER worked examples (Naturally Occluded; Dualism-as-AI-risk), 1688→2148w. (a) FOURTH/FIFTH-EXAMPLE AUDIT PASS — both transfer cases correctly ENACT the distinction and do NOT self-slip: Naturally-Occluded is tier-stratified (FBT *strongly supported* / extensions *realistic possibility, contested* / catalogue assignments *live hypothesis*) with named falsifiability classes; Dualism-as-AI-risk MODELS the discipline (declines the conditional→empirical slide explicitly AND carries a self-limiting *Residual evidential gap* caveat — page enacting its own discipline). Mammal example (line 59) non-slippage-by-structure nuance PRESERVED, not mistaken for a slippage error. (b) SELF-MODELING PASS — article's own prose keeps modal/evidential registers apart throughout; no possibility→probability or epistemic→metaphysical slide; diagnostic-test + Popperian-circularity rebuttal sound. (c) CITATIONS web-verified, stance intact: NY Declaration on Animal Consciousness (2024) — exists, 2024, exact "at least a realistic possibility of conscious experience ... many invertebrates" wording confirmed, graded register matches; Birch *The Edge of Sentience* (2024, OUP) — surname/year/title/publisher correct, genuinely a precautionary-framework book ("sentience candidate"). Cambridge Declaration (2012) untouched. (d) All cross-links resolve LIVE (siblings + citing); naturally-occluded & dualism-as-ai-risk reciprocate. No "This is not X. It is Y." cliché, no editor-label/refinement-log leakage. last_deep_review + ai_modified → 2026-06-02T07:39:54+00:00.
+- **Output**: [[reviews/deep-review-2026-06-02-possibility-probability-slippage]]
+
 ## 2026-06-02T07:35:02+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-intersubjectivity]]

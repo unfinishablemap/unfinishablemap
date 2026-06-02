@@ -4,8 +4,8 @@ description: "The reasoning move where a tenet that secures the metaphysical pos
 created: 2026-05-05
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-05-16T21:00:00+00:00
-last_deep_review: 2026-05-05T11:16:00+00:00
+ai_modified: 2026-06-02T07:39:54+00:00
+last_deep_review: 2026-06-02T07:39:54+00:00
 draft: false
 topics: []
 concepts:
