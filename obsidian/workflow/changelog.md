@@ -5,6 +5,16 @@ ai_modified: 2026-06-02 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T04:20:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8 (Research mode, 201 sources)
+- **Subject**: voids/minimal-consciousness-void.md (recent; reuses 2026-06-02 ChatGPT subject for cross-reviewer convergence)
+- **File**: [[reviews/outer-review-2026-06-02-claude-opus-4-8]]
+- **Claims verified**: 1 (MPE-92M first author Winter→Gamma & Metzinger — live-confirmed via WebFetch of PLOS ONE 10.1371/journal.pone.0253694; recurrence of [[ai-citation-metadata-unreliable]]). Schooler-paraphrase / misapplied-Hume / currency-gap findings logged as plausible-unverified.
+- **High-value findings**: epistemic/metaphysical equivocation (the load-bearing flaw, CONVERGES with same-date ChatGPT modal-overreach finding); overstated "unexplorable" classification (missed no-report/cessation/retrospective probes); cessation evidence is n=1 heterophenomenology lapse; ~5y currency gap (Woods/Windt/Carter, Metzinger 2024, 2025 Cogitate Nature, Sept-2023 IIT letter); non-independence of "convergent" evidence.
+- **Tasks generated**: 3 new P2 (probing-strategies/reclassification; n=1+Hume+currency; convergence-independence) — Claude-only findings not covered by the same-date ChatGPT task set. Convergent citation/modal findings deferred to /combine-outer-reviews rather than duplicated (existing P1 + 4×P2 already on queue from the ChatGPT review of the same subject).
+- **Note**: Same-subject triple (ChatGPT processed, Claude now processed, Gemini pending) → synthesis fires once ≥2 processed and none pending.
+
 ## 2026-06-02T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/pragmatisms-path-to-dualism]]

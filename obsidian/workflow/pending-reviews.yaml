@@ -1036,9 +1036,9 @@
   prompt_summary: 'Audit minimal-consciousness-void: enrichment argument, citations,
     void classification'
   target_filename: outer-review-2026-06-02-claude-opus-4-8.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-02T04:16:55.990537+00:00'
   failure_reason: null
   prompt_text: "Please conduct a rigorous philosophical and empirical audit of this\
     \ article from The Unfinishable Map: https://unfinishablemap.org/voids/minimal-consciousness-void/\
