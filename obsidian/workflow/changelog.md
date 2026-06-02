@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02T16:33:40+00:00
+ai_modified: 2026-06-02T17:30:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T17:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/duch-neurodynamic-theory-of-mind]]
+- **Word count**: 2437 → 2462 (+25)
+- **Critical issues addressed**: 2 (citation-fidelity)
+  1. Line-87 Claude blog claim: web-verified that Duch's post "Autorefleksja w Claude 3" (wduch.wordpress.com, 2024-03-17) is REAL and the substance faithful, but the post is Polish so the verbatim English quote "genuine self-reflection about its mental states" was a search-extracted paraphrase, not a Duch quote. De-quoted to an attributed paraphrase, discharged the "if verified" hedge, and pointed reference #8 at the specific post (was blog homepage only).
+  2. Wiest 2025 author defect: verified niaf011 is SINGLE-authored by Michael C. Wiest (PubMed 40342554, Oxford Academic). Article wrote "Wiest, M. et al." / "Wiest et al." — corrected to "Wiest, M. C. (2025)" / "Wiest's (2025)". Wrong-author citation class.
+- **Medium issues addressed**: 0 new
+- **Web-verify verdicts**: ALL Duch corpus cites (2005 JMB 26(1-2):1-22; 2019 PoLR 31:28-31 DOI 10.1016/j.plrev.2019.01.023; 2022 SLGR 67(1) DOI 10.2478/slgr-2022-0009; 2017 arXiv:1711.01767; 2018 fingerprints) resolved at publisher of record. All four flagged verbatim quotes faithful to source.
+- **Calibration**: PASS — three-loci articon critique and Wiest "shifts-not-vindicates" hedge preserved; no epistemic→metaphysical slide; de-quote tightens calibration.
+- **Enhancement engagements (editor-internal)**: Duch tenet-level = Mode Three; identity-theoretic + three articon failure points = Mode Two. No boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-02-duch-neurodynamic-theory-of-mind]]
 
 ## 2026-06-02T17:03:58+00:00 - refine-draft
 - **Status**: Success

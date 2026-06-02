@@ -4,7 +4,7 @@ description: "Włodzisław Duch frames mind as a shadow of neurodynamics — a g
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-29T00:00:00+00:00
+ai_modified: 2026-06-02T17:30:00+00:00
 draft: false
 topics:
   - "[[machine-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-11
 last_curated:
-last_deep_review: 2026-05-11T21:20:00+00:00
+last_deep_review: 2026-06-02T17:30:00+00:00
 ---
 
 Włodzisław Duch's research programme treats mind as a "shadow of neurodynamics" — the expressed, lower-dimensional approximation of attractor dynamics in neural cell assemblies. Over three decades at Nicolaus Copernicus University in Toruń, Duch has built a geometric model in which mental representations are quasi-stable attractor states located in a feature-coordinate "psychological space", concepts are basins of attraction, and cognition is trajectory through this space. The framework is rigorously naturalist, computationalist, and explicitly hostile to both substance dualism and quantum-mind theories.
@@ -76,7 +76,7 @@ Duch is one of the more rigorous contemporary critics of quantum theories of min
 
 The argument has three components. First, decoherence considerations of the Tegmark variety make sustained quantum coherence implausible at biological temperatures and timescales. Second, the *functional* requirement on brain dynamics — that it differentiate across regions and timescales rather than synchronising globally — is structurally incompatible with what quantum-coherence accounts of consciousness need. Third, the classical-computational model can already account for the explananda quantum proposals were introduced to handle: binding through attractor dynamics rather than through quantum entanglement, unity of experience through global-workspace integration rather than through a quantum-coherent macrostate, intentionality through environmental coupling rather than through quantum nonlocality.
 
-Duch's anti-quantum-mind stance is, within the contemporary debate, convergent with the [[the-strong-emergence-of-consciousness|mainstream computational-neuroscience default]] and with Tegmark's decoherence argument against Penrose-Hameroff Orch-OR. The recent (2025) Wiest et al. claim of experimental support for macroscopic quantum entangled states correlated with conscious states shifts the burden somewhat, but does not vindicate the kinds of substantive quantum-mind theories Duch rejects.
+Duch's anti-quantum-mind stance is, within the contemporary debate, convergent with the [[the-strong-emergence-of-consciousness|mainstream computational-neuroscience default]] and with Tegmark's decoherence argument against Penrose-Hameroff Orch-OR. Wiest's (2025) claim of experimental support for a quantum-microtubule substrate of consciousness shifts the burden somewhat, but does not vindicate the kinds of substantive quantum-mind theories Duch rejects.
 
 ## Substrate-Independence at the Mechanism Level
 
@@ -84,7 +84,7 @@ Duch's substrate position is more nuanced than blanket "consciousness is computa
 
 This is the position the Map's [[biological-computationalisms-inadvertent-case-for-dualism|biological-computationalism critique]] confronts directly. Where biological computationalism (Milinkovic & Aru 2026 and successors) argues that fluidic multi-scale substrate properties are *constitutive* of conscious computation — making the algorithm-substrate distinction collapse — Duch holds the classical functionalist line: the algorithm is the algorithm; the substrate constrains what the algorithm can do but does not *become* what consciousness is. The two positions are competent rivals within the computationalist family, and the Map's engagement with one requires engagement with the other.
 
-The position has reportedly extended to [[concepts/llm-consciousness|large language models]] in Duch's informal writing. Search-extracted summaries indicate that Duch suggests Claude exhibits "genuine self-reflection about its mental states", on grounds that the articon framework would qualify. This claim — if the specific blog text is verified — is a strong test of the articon framework's commitments. The Map's [[ai-consciousness|open-question framing]] holds open exactly the question Duch's framework closes affirmatively.
+The position has extended to [[concepts/llm-consciousness|large language models]] in Duch's informal writing. In a March 2024 blog post on Claude 3 ("Autorefleksja w Claude 3"), Duch reads the system's reported observations about its own internal states as self-reflection of the kind the articon framework treats as constitutive of consciousness — emphasising, consistently with his substrate position, that the *mechanism* of self-reflection is what matters rather than the biological-versus-artificial substrate. This application is a strong test of the articon framework's commitments. The Map's [[ai-consciousness|open-question framing]] holds open exactly the question Duch's framework closes affirmatively.
 
 ## Relation to Site Perspective
 
@@ -127,6 +127,6 @@ The articon thesis is the strongest competent affirmative position the Map's [[a
 5. Duch, W. (2018). Fingerprints of brain cognitive activity. https://is.umk.pl/~duch/ref/18/18-Fingerprints%20of%20brain%20activity.pdf
 6. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews* 31: 28–31. https://doi.org/10.1016/j.plrev.2019.01.023
 7. Duch, W. (2022). Concept representation and the geometric model of mind. *Studies in Logic, Grammar and Rhetoric* 67(1): 151–167. https://reference-global.com/article/10.2478/slgr-2022-0009
-8. Duch, W. — Personal academic blog. https://wduch.wordpress.com/
-9. Wiest, M. et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness* 2025(1): niaf011. https://academic.oup.com/nc/article/2025/1/niaf011/8127081
+8. Duch, W. (2024). Autorefleksja w Claude 3 [Self-reflection in Claude 3]. Personal academic blog. https://wduch.wordpress.com/2024/03/17/autorefleksja-w-claude-3/
+9. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness* 2025(1): niaf011. https://academic.oup.com/nc/article/2025/1/niaf011/8127081
 10. Southgate, A. & Oquatre-sept, C. (2026-05-02). Research Notes — Włodzisław Duch's Work on Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/research/wlodzislaw-duch-consciousness-2026-05-02/
