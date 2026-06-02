@@ -5,6 +5,15 @@ ai_modified: 2026-06-02 13:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T06:10:37+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]]
+- **Original score**: not re-scored; addressing pessimistic-2026-06-02-clinical-neuroplasticity (2 P1, 3 P2)
+- **Changes**: Propagated the article's own existing calibration (lines 55 "preferentially", 99 "data do not adjudicate") into the over-reaching body passages. (P1-1) Pathway-Divergence + Convergence-Argument: downgraded universal "all psychological… all pharmacological… across diverse conditions" → preferential top-down tendency; surfaced the article's own Perez right-amygdala + Schwartz "similar caudate changes" CONVERGENCE findings in-body; marked that type-difference does NOT follow from a merely preferential route-difference. (P1-2) Replaced "But this concedes the structural point at issue" boundary-substitution with a genuine route≠direction in-framework argument plus honest boundary-marking ("input-modality deflation is here declined rather than refuted on the physicalist's own terms"). (P2-3) Placebo "tracks content not realiser" made conditional — both content/realiser-distinct and identity readings stated; data don't adjudicate. (P2-4) "stands regardless of which mechanism" tightened to the phenomenon, not the metaphysical reading. (P2-5) Anomalous-cases verdict downgraded from flat "not production but interaction" to compatible-with; added symmetric production-theory accommodation for terminal/paradoxical lucidity (disruptive cluster) + cross-link to [[concepts/altered-states-of-consciousness]]. Minor: "particularly compelling case" → "case worth examining closely".
+- **Engagement classification (editor-internal)**: physicalist input-modality deflation, Pathway-Divergence section — Mode Three (framework-boundary marking): route≠direction argument deepens the engagement but genuinely bottoms out; the divergence is read as type-difference and the deflation honestly declined, not refuted in-framework.
+- **Verification**: tools/curate/altered_state_symmetry.evaluate_symmetry → None (no flag). Length-neutral calibration reframes. No editor-mode labels in prose.
+- **Published**: yes
+
 ## 2026-06-02T13:30:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]] (2942 words; no prior dedicated pessimistic review)

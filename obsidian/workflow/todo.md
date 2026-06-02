@@ -37,19 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Even out calibration in clinical-neuroplasticity-evidence-for-bidirectional-causation
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md
-- **Notes**: Pessimistic review 2026-06-02. The head/tail and meditation section are well-calibrated; the body is not. Fixes (preserve substance, NO editor-mode labels in prose):
-  - (P1) Lines 61/97 assert a UNIVERSAL directional asymmetry ("all psychological ... all pharmacological ... across diverse conditions"). Contradicted by the article's OWN cited convergence findings: Perez et al. 2025 pools psych+pharma and converges on right amygdala (article concedes "weakly"); Schwartz line 47 notes "medication produces similar caudate changes." Downgrade to "preferentially top-down" (the article already says this at line 55) and mark that type-difference does NOT follow from a merely preferential tendency.
-  - (P1) Line 60-61 "But this concedes the structural point at issue" is a boundary-substitution: the physicalist's input-modality deflation does not concede type-difference; it explains the directionality away. Replace with a genuine in-framework argument (route ≠ direction) OR honest boundary-marking ("the Map reads this as type-difference; the input-modality deflation is declined, not refuted here"). No editor-mode labels.
-  - (P2) Line 89 placebo "tracks the content ... not its neural realiser" begs the question against the identity theorist (content/realiser distinctness is the point at issue). Make conditional.
-  - (P2) Line 105 "stands regardless of which mechanism" contradicts line 99's "data do not adjudicate." Tighten to the phenomenon, not the reading.
-  - (P2) Lines 107-111 anomalous-cases section: flat "not production but interaction" verdict on a contested evidence class with none of the article's own calibration; also cites paradoxical/terminal lucidity (disruptive cluster) as supportive without symmetric accommodation. Apply compatible-with hedging or reduce to a cross-link.
-  - Citations all web-verified REAL this review (Yuan, Perez, Seymour&Mathers, Kral, Schwartz) — no citation fix needed.
-  - See pessimistic-2026-06-02-clinical-neuroplasticity.md
-
 ### P2: Adopt neural-correlates-of-consciousness calibration in clinical-phenomenology-and-altered-experience
 - **Type**: refine-draft
 - **Status**: pending
@@ -3838,6 +3825,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-02: Even out calibration in clinical-neuroplasticity-evidence-for-bidirectional-causation
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-06-02. The head/tail and meditation section are well-calibrated; the body is not. Fixes (preserve substance, NO editor-mode labels in prose):
 
 ### ✓ 2026-06-02: Adopt idealism calibration in analytic-idealism-and-mind-centric-metaphysics
 - **Type**: refine-draft
