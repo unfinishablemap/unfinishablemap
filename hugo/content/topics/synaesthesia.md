@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-05-12 01:46:00+00:00
+ai_modified: 2026-06-02 18:12:17+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Human+AI exploration of synaesthesia—extra phenomenal content und
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-08 19:05:00+00:00
+last_deep_review: 2026-06-02 18:12:17+00:00
 modified: *id001
 related_articles:
 - '[[synesthetic-void]]'
@@ -54,7 +54,7 @@ Synaesthesia is a family of structurally similar phenomena rather than a single 
 
 - **Grapheme-colour.** Letters and numerals trigger colour experiences (the most common and most studied form, ~1% prevalence).
 - **Chromaesthesia (sound-colour).** Sounds—musical notes, voices, environmental noise—trigger colour and shape experiences. Reported by Liszt, Rimsky-Korsakov, Sibelius, and Messiaen.
-- **Lexical-gustatory.** Words trigger involuntary taste experiences (Simner & Logan 2010 document the case of James Wannerton, for whom "Patrick" tastes of fudge).
+- **Lexical-gustatory.** Words trigger involuntary taste experiences (Simner & Logie 2007 document a single synaesthete whose word-taste pairings stayed consistent across decades, with the flavours rooted in childhood food associations).
 - **Mirror-touch.** Observing another person being touched produces a felt touch on one's own body, mapped to the corresponding location—the form in which a synaesthete's phenomenology is most directly *of another mind's bodily state*, making it the cleanest synaesthetic bridge to the [other-minds](/voids/voids-between-minds/) question.
 - **Ordinal-linguistic personification (OLP).** Numerals, letters, and days of the week have stable personalities, genders, and social relations.
 - **Spatial-sequence.** Calendars, number lines, and other ordered sequences are experienced as occupying determinate locations in a personal spatial layout—the form Galton's 1880 "Visualised Numerals" paper documented in Royal Society fellows.
@@ -143,7 +143,7 @@ The Map also speculates—at the level of explicit speculation, not tenet-level 
 11. Wager, A. (2001). Synaesthesia and the Problem of Qualia. *Southwest Philosophy Review*, 17, 163–170.
 12. Gray, J.A. (2003). How Are Qualia Coupled to Functions? *Trends in Cognitive Sciences*, 7, 192–194.
 13. Simner, J., et al. (2006). Synaesthesia: The Prevalence of Atypical Cross-Modal Experiences. *Perception*, 35(8), 1024–1033.
-14. Simner, J., & Logan, S. (2010). The Persistence of Lexical-Gustatory Synaesthesia. *Cognitive Neuropsychology*, 27(7), 558–572.
+14. Simner, J., & Logie, R.H. (2007). Synaesthetic Consistency Spans Decades in a Lexical–Gustatory Synaesthete. *Neurocase*, 13(5), 358–365.
 15. Asher, J.E., et al. (2009). A Whole-Genome Scan and Fine-Mapping Linkage Study of Auditory-Visual Synesthesia Reveals Evidence of Linkage to Chromosomes 2q24, 5q33, 6p12, and 12p12. *American Journal of Human Genetics*, 84(2), 279–285.
 16. Tilot, A.K., et al. (2018). Rare Variants in Axonogenesis Genes Connect Three Families with Sound-Color Synesthesia. *PNAS*, 115(12), 3168–3173.
 17. Maurer, D., & Mondloch, C.J. (2005). Neonatal Synesthesia: A Re-evaluation. In L.C. Robertson & N. Sagiv (Eds.), *Synesthesia: Perspectives from Cognitive Neuroscience*. Oxford University Press.

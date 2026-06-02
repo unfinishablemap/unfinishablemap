@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-06-01 02:38:05+00:00
+ai_modified: 2026-06-02 20:07:18+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Why cognitive limits are preconditions for meaning, not merely obst
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-25 13:29:00+00:00
+last_deep_review: 2026-06-02 20:07:18+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -26,7 +26,6 @@ related_articles:
 - '[[meta-epistemology-of-limits]]'
 - '[[creative-aesthetic-void]]'
 - '[[voids-between-minds]]'
-- '[[creative-aesthetic-void]]'
 - '[[death-void]]'
 - '[[language-thought-boundary]]'
 - '[[origin-of-consciousness]]'
@@ -71,7 +70,7 @@ Multiple independent traditions arrive at the thesis through different routes, a
 
 The convergences above are all Western. A separate hemisphere reaches the same thesis through meditative phenomenology and soteriological inquiry.
 
-**Nāgārjuna** offers the closest structural cognate. The *Mūlamadhyamakakārikā* (ca. 150–250 CE) identifies emptiness (*śūnyatā*) with dependent origination: nothing has independent inherent existence (*svabhāva*), and that lack is what permits causation, change, and liberation. The two-truths doctrine carries the figure-ground structure with precision: "without relying on conventional truth, the meaning of the ultimate cannot be explained, and without understanding the meaning of the ultimate, *nirvāṇa* is not achieved" (*MMK* 24.10, Garfield trans.). Madhyamaka also anticipates the [self-undermining worry](#the-self-undermining-worry): emptiness must itself be empty.
+**Nāgārjuna** offers the closest structural cognate. The *Mūlamadhyamakakārikā* (ca. 150–250 CE) identifies emptiness (*śūnyatā*) with dependent origination: nothing has independent inherent existence (*svabhāva*), and that lack is what permits causation, change, and liberation. The two-truths doctrine carries the figure-ground structure with precision: "Without a foundation in the conventional truth, / The significance of the ultimate cannot be taught. / Without understanding the significance of the ultimate, / Liberation is not achieved" (*MMK* 24.10, Garfield trans.). Madhyamaka also anticipates the [self-undermining worry](#the-self-undermining-worry): emptiness must itself be empty.
 
 **Nishitani and the Kyoto School** make the thesis an explicit answer to Western nihilism. *Religion and Nothingness* (1961) argues European thought reaches nihilism by conceiving nothingness as pure negation; Mahāyāna *śūnyatā* treats it as the field underlying nihility—overcoming nihilism *through* nihilism. Nishitani's route is meditative realization: *sunyata* "is not possible as a nothingness that is thought but only as a nothingness that is lived." This adds an evidential channel the Western convergence lacks.
 
@@ -149,7 +148,7 @@ The thesis connects to each of the Map's [tenets](/tenets/):
 - [what-voids-reveal](/voids/what-voids-reveal/) — How the shape of limits reveals cognitive architecture
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — Can we determine if cognitive limits are permanent?
-- [death-void](/voids/death-void/), [voids-between-minds](/voids/voids-between-minds/), [creative-aesthetic-void](/voids/creative-aesthetic-void/), [creative-aesthetic-void](/voids/creative-aesthetic-void/), [language-thought-boundary](/voids/language-thought-boundary/), [meaning-void](/voids/meaning-void/), [origin-of-consciousness](/voids/origin-of-consciousness/) — Specific voids treated under the constitutive thesis
+- [death-void](/voids/death-void/), [voids-between-minds](/voids/voids-between-minds/), [creative-aesthetic-void](/voids/creative-aesthetic-void/), [language-thought-boundary](/voids/language-thought-boundary/), [meaning-void](/voids/meaning-void/), [origin-of-consciousness](/voids/origin-of-consciousness/) — Specific voids treated under the constitutive thesis
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Why simplicity fails at cognitive boundaries
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Knowing through unknowing
 - [buddhist-perspectives-on-meaning](/topics/buddhist-perspectives-on-meaning/), [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/), [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) — Eastern engagements with the bearer-of-meaning question

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-05-29 00:00:00+00:00
+ai_modified: 2026-06-02 18:39:02+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ description: The quality of being this particular conscious subject. Pattern-bas
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-15 04:05:00+00:00
+last_deep_review: 2026-06-02 18:39:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -204,12 +204,12 @@ Process haecceitism refines what the Map presupposes: personal identity is not p
 1. Bailey, A., Rasmussen, J., & Van Horn, L. (2011). "No Pairing Problem." *Philosophical Studies*, 154, 349-360.
 1. Black, M. (1952). "The Identity of Indiscernibles." *Mind*, 61(242), 153-164.
 1. Greaves, H. (2007). "Probability in the Everett Interpretation." *Philosophy Compass*, 2(1), 109-128.
-1. Hellie, B. (2012). "Against Egalitarianism." *Analysis*, 73(2), 304-320.
+1. Hellie, B. (2013). "Against Egalitarianism." *Analysis*, 73(2), 304-320.
 1. Lewis, D. (1979). "Attitudes De Dicto and De Se." *Philosophical Review*, 88(4), 513-543.
 1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
 1. Scotus, J. D. *Ordinatio* II, d.3. (c. 1300).
 1. Siderits, M. (2007). *Buddhism as Philosophy*. Hackett.
-1. Stepien, R. K. (2021). "Substantialism, Essentialism, Emptiness: Buddhist Critiques of Ontology." *Journal of Indian Philosophy*, 50, 293-328.
+1. Stepien, R. K. (2021). "Substantialism, Essentialism, Emptiness: Buddhist Critiques of Ontology." *Journal of Indian Philosophy*, 49, 871-893.
 1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
 1. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-05-25 20:53:49+00:00
+ai_modified: 2026-06-02 19:23:10+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Multiple independent arguments converge on dualism from different s
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-10 03:16:00+00:00
+last_deep_review: 2026-06-02 19:23:10+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -200,7 +200,7 @@ The [No Many Worlds tenet](/tenets/#no-many-worlds) connects through the [indexi
 
 1. Barrett, H.C., Bolyanatz, A., Broesch, T., Cohen, E., Froerer, P., Kanovsky, M., Schug, M.G., & Laurence, S. (2021). Intuitive dualism and afterlife beliefs: A cross-cultural study. *Cognitive Science*, 45(6), e12992.
 1. Balog, K. (2012). In defense of the phenomenal concept strategy. *Philosophy and Phenomenological Research*, 84(1), 1-23.
-1. Barlev, M. & Shtulman, A. (2021). Minds, bodies, spirits, and gods: Does widespread cultural belief in spiritual beings entail a universal cognitive bias? *Psychological Review*, 128(6), 1077-1095.
+1. Barlev, M. & Shtulman, A. (2021). Minds, bodies, spirits, and gods: Does widespread belief in disembodied beings imply that we are inherent dualists? *Psychological Review*, 128(6), 1007-1021.
 1. Bloom, P. (2004). *Descartes' Baby: How the Science of Child Development Explains What Makes Us Human*. Basic Books.
 1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
 1. Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32(127), 127-136.

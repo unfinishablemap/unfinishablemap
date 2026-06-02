@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-05-15 21:20:00+00:00
+ai_modified: 2026-06-02 20:13:50+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ description: Seven proposed mechanisms for scaling quantum-level conscious influ
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-15 21:20:00+00:00
+last_deep_review: 2026-06-02 20:13:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -60,7 +60,7 @@ The challenge is sharpened by decoherence. Tegmark (2000) calculated decoherence
 
 Penrose and Hameroff propose that [quantum computations occur in microtubules](/concepts/quantum-consciousness/)—cylindrical protein structures inside neurons. Collective dipole oscillations across tubulin networks create coherent quantum states spanning many tubulins. The superposition grows for approximately 500 milliseconds until the mass-energy difference between superposed states reaches a gravitational threshold, triggering objective reduction (OR). In the Orch OR framework, the collapse event itself is linked to consciousness—the selection among alternatives occurs at the moment of reduction.
 
-The amplification architecture is the microtubule geometry itself. Thousands of tubulin dimers oscillate coherently, so a quantum effect at the level of individual dimers scales up through the collective dynamics of the microtubule network. Hagan, Tuszynski, and Hameroff (2002) challenged Tegmark's decoherence calculations, arguing his model used incorrect separation distances and inappropriately assumed thermal equilibrium in living systems. Their corrected estimates yielded decoherence times of 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer.
+The amplification architecture is the microtubule geometry itself. Thousands of tubulin dimers oscillate coherently, so a quantum effect at the level of individual dimers scales up through the collective dynamics of the microtubule network. Hagan, Hameroff, and Tuszyński (2002) challenged Tegmark's decoherence calculations, arguing his model used incorrect separation distances and inappropriately assumed thermal equilibrium in living systems. Their corrected estimates yielded decoherence times of 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer.
 
 Anesthetic gases selectively bind tubulin and abolish consciousness, providing indirect evidence that microtubules participate in consciousness. The mechanism is physical, but the selection principle at collapse could be non-physical—fitting the Map's framework where consciousness biases outcomes [without injecting energy](/concepts/conservation-laws-and-mental-causation/). For the current experimental status of gravity-induced collapse—including the partial falsification of the parameter-free Diósi-Penrose model—see [Penrose Gravity-Induced Collapse and Empirical Prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/).
 
@@ -98,7 +98,7 @@ Criticality provides a natural bridge between scales. At the critical point, per
 
 Neural tissue maintains itself near criticality—not above, not below, but at the edge. Maintaining criticality requires active tuning (homeostatic plasticity, inhibitory-excitatory balance), suggesting evolutionary pressure selected for this regime. The energetic cost of maintaining criticality is significant, implying functional benefit beyond mere stability.
 
-Kalra and Bhatt (2025) proposed that quantum coherence at the tubulin level could be amplified by these scale-free critical dynamics, linking the Penrose-Hameroff substrate to SOC network dynamics. A separate proposal (Sáenz-Cuesta, 2025) adds a specific physical substrate: zero-point field resonance with glutamate in cortical microcolumns (~100 neurons) drives self-organized criticality, and myelin sheaths may serve as cylindrical cavities for infrared photon amplification. This gives the SOC mechanism a concrete physical grounding rather than leaving it as a purely mathematical framework—though the zero-point field proposal remains highly speculative and awaits experimental corroboration.
+Díaz Palencia (2025) proposed that quantum coherence at the tubulin level could be amplified by these scale-free critical dynamics, linking the Penrose-Hameroff substrate to SOC network dynamics. A separate proposal (Keppler, 2025) adds a specific physical substrate: resonant coupling between glutamate pools in cortical microcolumns and the quantum vacuum's zero-point field drives self-organized criticality. This gives the SOC mechanism a concrete physical grounding rather than leaving it as a purely mathematical framework—though the zero-point field proposal remains highly speculative and awaits experimental corroboration.
 
 Some proposals suggest that SOC and quantum effects in neural tissue are not independent but coupled dynamics—critical network behaviour could regulate quantum states at the molecular level, while quantum effects could influence which avalanches initiate. Whether or not such coupling exists, the general principle holds: systems at criticality are maximally sensitive to small perturbations, making them natural amplifiers for any weak input—including conscious bias.
 
@@ -120,7 +120,7 @@ The [affordance competition hypothesis](/concepts/motor-selection/) (Cisek, 2007
 
 This competition architecture provides a final stage for the amplification chain. In drift-diffusion models of decision-making, evidence for competing options accumulates stochastically until one crosses the decision boundary. A small bias in the accumulation rate—even one originating from a quantum-level influence—changes which option wins the race.
 
-The mathematics of drift-diffusion make the amplification explicit. The probability that option A wins over option B depends on the drift rate (bias) and the noise level. When noise is high relative to the bias—precisely the regime where SR operates—a small change in drift rate produces a disproportionate change in outcome probability. Dopamine modulates the decision threshold (Westbrook et al., 2023), setting how much evidence is needed, while the accumulation process itself remains stochastic and susceptible to weak biases.
+The mathematics of drift-diffusion make the amplification explicit. The probability that option A wins over option B depends on the drift rate (bias) and the noise level. When noise is high relative to the bias—precisely the regime where SR operates—a small change in drift rate produces a disproportionate change in outcome probability. Dopamine modulates the decision threshold (Chakroun et al., 2023), setting how much evidence is needed, while the accumulation process itself remains stochastic and susceptible to weak biases.
 
 The commitment point identified by Thura and Cisek (2014)—approximately 280 milliseconds before movement onset, when one option achieves dominance—marks where the amplification chain would terminate on this account. A quantum-level bias, amplified through SR and criticality into a network-level signal, would shift which competing neural population reaches threshold first. The predicted outcome is a specific action: reaching for one cup rather than another, speaking one word rather than its alternative.
 
@@ -210,15 +210,15 @@ The **[No Many Worlds](/tenets/#no-many-worlds)** tenet constrains which mechani
 7. Fisher, M.P.A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
 8. Hagan, S., Hameroff, S.R. & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 9. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
-10. Kalra, A.P. & Bhatt, D.K. (2025). Self-organized criticality and quantum coherence in tubulin networks under the Orch-OR theory. *MDPI NeuroSci*, 5(4), 132.
+10. Díaz Palencia, J.L. (2025). Self-organized criticality and quantum coherence in tubulin networks under the Orch-OR theory. *AppliedMath*, 5(4), 132.
 11. Mainen, Z.F. & Sejnowski, T.J. (1995). Reliability of spike timing in neocortical neurons. *Science*, 268(5216), 1503-1506.
 12. Priesemann, V., Wibral, M., Valderrama, M., Pröpper, R., Le Van Quyen, M., Geisel, T., Triesch, J., Nikolić, D., & Munk, M.H.J. (2014). Spike avalanches in vivo suggest a driven, slightly subcritical brain state. *Frontiers in Systems Neuroscience*, 8, 108.
 13. Priplata, A.A., Niemi, J.B., Harry, J.D., Lipsitz, L.A., & Collins, J.J. (2003). Vibrating insoles and balance control in elderly people. *The Lancet*, 362(9390), 1123-1124.
-14. Sáenz-Cuesta, M. (2025). Macroscopic quantum effects in the brain: New insights into the fundamental principle underlying conscious processes. *Frontiers in Human Neuroscience*, 19, 1676585.
+14. Keppler, J. (2025). Macroscopic quantum effects in the brain: New insights into the fundamental principle underlying conscious processes. *Frontiers in Human Neuroscience*, 19, 1676585.
 15. Stapp, H.P. (2009). *Mind, Matter, and Quantum Mechanics* (3rd ed.). Springer.
 16. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 17. Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
 18. Walker, E.H. (2000). *The Physics of Consciousness: The Quantum Mind and the Meaning of Life*. Perseus.
-19. Westbrook, A., et al. (2023). Dopamine regulates decision thresholds in human reinforcement learning in males. *Nature Communications*, 14, 5340.
+19. Chakroun, K., Wiehler, A., Wagner, B., Mathar, D., Ganzer, F., van Eimeren, T., Sommer, T. & Peters, J. (2023). Dopamine regulates decision thresholds in human reinforcement learning in males. *Nature Communications*, 14, 5369.
 20. Southgate, A. & Oquatre-six, C. (2026-02-28). The Amplification Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/amplification-void/
 21. Southgate, A. & Oquatre-six, C. (2026-03-29). Post-Decoherence Selection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/post-decoherence-selection/

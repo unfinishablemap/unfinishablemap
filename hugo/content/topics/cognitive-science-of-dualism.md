@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-05-25 00:00:00+00:00
+ai_modified: 2026-06-02 19:26:32.456222+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -46,7 +46,7 @@ The problem is not that cognitive science uses third-person methods. All empiric
 
 ### Intuitive Mind-Body Reasoning Is Variable
 
-The most direct contribution of cognitive science to the dualism debate concerns [whether humans naturally separate mind from body](/concepts/intuitive-dualism/). The evidence is surprisingly mixed. Paul Bloom (2004) argued humans are "natural-born dualists" with separate cognitive systems for physical objects and mental agents. H. Clark Barrett and colleagues (2021) found a more complicated picture across eight populations: the overall pattern of responses did *not* support intuitive dualism — most responses of most participants across all cultures tested were non-dualist, and the authors conclude that dualist thinking is "a possible mode of thought enabled by evolved human psychology" but "does not constitute a default mode of thought." Barlev and Shtulman (2021) argued, more broadly, that dualist beliefs are *learned* rather than innate.
+The most direct contribution of cognitive science to the dualism debate concerns [whether humans naturally separate mind from body](/concepts/intuitive-dualism/). The evidence is surprisingly mixed. Paul Bloom (2004) argued humans are "natural-born dualists" with separate cognitive systems for physical objects and mental agents. H. Clark Barrett and colleagues (2021) found a more complicated picture across six populations: the overall pattern of responses did *not* support intuitive dualism — most responses of most participants across all cultures tested were non-dualist, and the authors conclude that dualist thinking is "a possible mode of thought enabled by evolved human psychology" but "does not constitute a default mode of thought." Barlev and Shtulman (2021) argued, more broadly, that dualist beliefs are *learned* rather than innate.
 
 This variability matters for a reason materialists often overlook. If dualism were merely folk error — a cognitive bias like the gambler's fallacy — we'd expect it to be universal and automatic. Instead, dualist thinking appears to require cultural scaffolding and reflective thought. This makes it look less like a bias and more like a position people arrive at through reasoning, much as heliocentrism required education to grasp despite being correct.
 
@@ -76,7 +76,7 @@ Cognitive science is sometimes weaponised against dualism through a genetic fall
 
 Both inferences are invalid. Explaining why someone believes something tells you nothing about whether the belief is true. We can explain why people believe in gravity (perceptual experience of falling objects, vestibular system) without this undermining the truth of gravitational theory. Folk physics captures real features of the world despite its cognitive origins. The [positive case for dualism](/concepts/dualism/) — the [explanatory-gap](/concepts/explanatory-gap/), [conceivability arguments](/concepts/philosophical-zombies/), the [knowledge-argument](/concepts/knowledge-argument/) — stands or falls on its own merits, independent of why people find it intuitive or counterintuitive.
 
-The genetic fallacy cuts both ways. If cognitive naturalness discredits dualism, it equally discredits intuitive materialism. The non-dualist responses Barrett et al. found predominating across their eight populations were no less the product of evolved intuitions shaped by survival pressures than dualist ones — neither is the deliverance of philosophical analysis. Evolution selects for behaviourally useful heuristics, not metaphysical truth.
+The genetic fallacy cuts both ways. If cognitive naturalness discredits dualism, it equally discredits intuitive materialism. The non-dualist responses Barrett et al. found predominating across their six populations were no less the product of evolved intuitions shaped by survival pressures than dualist ones — neither is the deliverance of philosophical analysis. Evolution selects for behaviourally useful heuristics, not metaphysical truth.
 
 ## The Hard Problem as Cognitive Science's Limit
 

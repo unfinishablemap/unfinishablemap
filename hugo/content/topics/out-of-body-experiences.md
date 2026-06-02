@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-05-11 14:02:23.387583+00:00
+ai_modified: 2026-06-02 19:13:09+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -117,7 +117,7 @@ The [filter model](/concepts/filter-theory/) sits naturally on the self-model-di
 
 OBEs connect to the Map's [tenets](/tenets/) in three ways.
 
-**[Dualism](/tenets/#dualism)**: Self-model dislocation refutes the strong embodiment thesis that conscious experience is constitutively bound to the bodily self-model. This does not establish dualism, but it removes one materialist-friendly constraint and makes room for filter-theoretic readings on which consciousness is not produced by the bodily self-model but is filtered through it.
+**[Dualism](/tenets/#dualism)**: Self-model dislocation tells against the strong embodiment thesis that conscious experience is constitutively bound to the bodily self-model. This does not establish dualism, but it removes one materialist-friendly constraint and makes room for filter-theoretic readings on which consciousness is not produced by the bodily self-model but is filtered through it. Whether the dislocation reflects a genuine consciousness–body interface or only a neural self-model disruption — vestibular and right-TPJ dysfunction of the kind Blanke's stimulation work isolates — is itself underdetermined by the evidence presently available, and the [neural correlates](/concepts/neural-correlates-of-consciousness/) alone cannot settle which reading the dislocation supports.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The intactness of agency and reasoning during OBEs — experiencers think, decide, and remember coherently from the dislocated perspective — is consistent with consciousness retaining its causal role even when its bodily anchor is reconfigured. Strong [epiphenomenalist](/concepts/epiphenomenalism/) readings have to explain why the dislocated self-model continues to support the same kinds of integrated cognition.
 
