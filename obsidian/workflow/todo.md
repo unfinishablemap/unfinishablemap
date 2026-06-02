@@ -37,6 +37,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Name the second-order confidence-accuracy-dissociation move as a labelled subsection (NOT a new page)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-02c (source-attribution-divergence.md). The article's central methodological manoeuvre — grounding a within-species phenomenal-divergence argument in *cohort-level confidence-vs-accuracy dissociation measured third-person* rather than in first-order phenomenal reports, so the argument survives even if introspection is unreliable — recurs implicitly across the cluster (aphantasia, synaesthesia, authorship-of-action-divergence) and at the apex but has no single named home. **Do NOT create a new concept page** (concepts is at 251/270 with churn). Instead fold a short labelled subsection into an existing page — `concepts/phenomenology-vs-function-axis.md` or `concepts/evidential-status-discipline.md` — that other articles can cite by name. Length-neutral; verify reciprocity before adding cross-links. Tenet 5 (Occam's Razor Has Limits): the move is a discipline against the over-simple "direct-readout" model of introspection. Optional only; declining is valid if the corpus already absorbs the function via existing concept prose. See [[reviews/optimistic-2026-06-02c]].
+
 ### P2: Deep review concepts/embodied-cognition.md (gap ~17d review→ai_modified, SUBSTANTIVE structure+calibration fix, ai_contribution=100, embodiment cluster)
 - **Type**: deep-review
 - **Status**: pending
