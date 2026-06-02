@@ -5,6 +5,18 @@ ai_modified: 2026-06-02T12:20:49+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T13:42:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/time-collapse-and-agency]]
+- **Context**: OVER-CEILING PROTECTED article (started 4608w vs 4000w topics hard ceiling; documented human-length-decision / refine-then-condense churn-set; deep-reviewed 2026-06-01, converged). Task allowed adding 2 nice-to-have Mode-Three opponent engagements ONLY if net word count stayed ≤4608. Decision: executed the net-neutral swap.
+- **Engagements added** (both honest framework-boundary marking, NOT claimed refutations):
+  - engagement with Dennett (multiple-drafts / Stalinesque-Orwellian post-hoc temporal construction): Mode Three — the rival rejects "each collapse creates a moment" at its root; disagreement runs to bedrock (whether temporal order is constituted at collapse or assembled after the fact). Acknowledged in the specious-present paragraph as a genuine boundary divergence, explicitly "not as a rival the framework claims to have refuted on its own terms."
+  - engagement with the Madhyamaka reading of nirodha-samāpatti: Mode Three — one-clause concession that recruiting cessation for a substance-causal selecting self "imports a metaphysics the source tradition denies, a tension the framework acknowledges rather than resolves."
+- **Offsetting trims** (verbose NON-calibration prose only): removed the duplicate number-7/number-line analogy (the graph/function analogy survives), the empty "Relevance to the framework:" filler header, and tightened wordy expository prose across the opening framing, Presentism bullets, Atemporal-Selection picture, Decoherence first/second bullets, Illusionist structural-point/selection-remains bullets, Whitehead concrescence/atemporal/haecceity bullets, Avoiding-Contradiction restatement, and Implications-for-Free-Will sourcehood/non-random bullets.
+- **Calibration preserved (untouched)**: the epistemic-vs-metaphysical hedge ("theoretical addition, not a phenomenological entailment"; "preferred on abductive grounds"; "metaphysical hypothesis rather than established fact"); the altered-state symmetry block in full ("not three independent confirmations"/"weight of one pattern, not several"/"symmetric accommodation"/"do not, by convergence, lift those predictions above the production rival"); the falsifier-strength hedges (#4 "strength of this falsifier is limited"/"discriminating power is weaker than convergence-talk suggests", #5 "does not establish that functionally relevant quantum effects survive"); the 100ms–3s methodology range; "remains speculative"; Tegmark "currently looks unfavourable at the neural scale".
+- **Word count**: started 4608 → final 4607 (≤4607 confirmed; net negative).
+- **Published**: yes (draft: false, unchanged)
+
 ## 2026-06-02T13:31:51+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/consciousness-and-social-understanding.md` (single most-recently-modified content file; refine-drafted earlier this cycle but never given an optimistic pass; last_deep_review 2026-05-10 — stalest in the active cluster). Read alongside epistemology-of-other-minds-under-dualism, consciousness-and-intersubjectivity, consciousness-and-collective-phenomena, phenomenology-of-trust, consciousness-and-testimony for cross-link reciprocity.

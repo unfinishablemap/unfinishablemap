@@ -4,7 +4,7 @@ description: "Free will, quantum collapse, and time's arrow interlink. If consci
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-06-01T08:00:00+00:00
+ai_modified: 2026-06-02T13:42:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ last_curated: null
 last_deep_review: 2026-06-01T08:00:00+00:00
 ---
 
-The Unfinishable Map's framework makes interconnected claims about time, quantum collapse, and conscious agency that together form a distinctive metaphysics. Free will operates through quantum selection — retrocausal, atemporal, or [[forward-in-time-conscious-selection|forward-in-time]] — with this article focusing on the retrocausal and atemporal routes because they most tightly couple agency to time's structure. Collapse introduces time's arrow into otherwise time-symmetric physics. Consciousness doesn't merely experience time—it may help constitute temporal structure through its role in collapse. These threads weave together: if consciousness selects among quantum outcomes, and collapse creates temporal asymmetry, then agency and time's direction are fundamentally linked.
+The Unfinishable Map's framework makes interconnected claims about time, quantum collapse, and conscious agency that together form a distinctive metaphysics. Free will operates through quantum selection — retrocausal, atemporal, or [[forward-in-time-conscious-selection|forward-in-time]] — and this article focuses on the retrocausal and atemporal routes because they most tightly couple agency to time's structure. Collapse introduces time's arrow into otherwise time-symmetric physics, and consciousness doesn't merely experience time—it may help constitute temporal structure through its role in collapse. If consciousness selects among quantum outcomes, and collapse creates temporal asymmetry, then agency and time's direction are fundamentally linked.
 
 This consolidation addresses a tension: the Map uses retrocausality to resolve the Libet problem (neural activity preceding conscious awareness) but also treats collapse as introducing irreversibility. How can selection be atemporal if collapse is irreversible? What metaphysics of time does this framework actually imply?
 
@@ -55,21 +55,21 @@ The Map's [[tenets]] make several claims bearing on time:
 
 **[[retrocausality|Retrocausal resolution]]** of the Libet problem proposes that consciousness's selection needn't precede the neural activity it shapes. Time-symmetric quantum mechanics allows backward causation; the "selection" may be atemporal—determining which transaction completes rather than pushing events at a moment.
 
-The Map also explores [[forward-in-time-conscious-selection|forward-in-time alternatives]] (Penrose-Hameroff, Stapp, Chalmers-McQueen), and does not require the retrocausal pathway. This article develops the retrocausal/atemporal route in detail because it most tightly couples agency to time's structure; the alternatives are tracked in the comparative article.
+The Map also explores [[forward-in-time-conscious-selection|forward-in-time alternatives]] (Penrose-Hameroff, Stapp, Chalmers-McQueen) and does not require the retrocausal pathway; those alternatives are tracked in the comparative article.
 
 Together: consciousness selects real collapses that introduce irreversibility, yet this selection operates atemporally. Working through that apparent tension is the task below.
 
 ## Presentism, Eternalism, and the Block Universe
 
-Philosophy of time offers three major positions (developed in [[philosophy-of-time]]): **presentism** (only the present exists; time genuinely flows), **eternalism** (the "block universe"—all times exist equally, flow is illusory, "now" is merely indexical like "here"), and **growing block** (past and present exist but the future doesn't yet; the block grows with the present as its leading edge). The Map's framework sits uncomfortably with all three.
+Philosophy of time offers three major positions (developed in [[philosophy-of-time]]): **presentism** (only the present exists; time genuinely flows), **eternalism** (the "block universe"—all times exist equally, flow is illusory, "now" merely indexical like "here"), and **growing block** (past and present exist but the future doesn't yet, the block growing with the present as its leading edge). The Map's framework sits uncomfortably with all three.
 
-**Against pure presentism**: Retrocausality requires the past to be causally accessible in some sense. If past events are simply gone, backward causation has nothing to influence. The transactional interpretation describes offer waves from the past and confirmation waves from the future meeting in atemporal handshakes. This requires past and future to be "there" in some metaphysical sense.
+**Against pure presentism**: Retrocausality requires the past to be causally accessible; if past events are simply gone, backward causation has nothing to influence. The transactional interpretation, with its offer waves from the past and confirmation waves from the future meeting in atemporal handshakes, requires past and future to be "there" in some metaphysical sense.
 
-**Against pure eternalism**: If all times exist equally and the block is static, collapse seems illusory. Definite outcomes at t₂ were "always" in the block; superpositions at t₁ simply hadn't yet been measured from our perspective. But the Map requires real collapse—genuine transition from possibility to actuality, not mere discovery of pre-existing facts.
+**Against pure eternalism**: If all times exist equally and the block is static, collapse seems illusory—definite outcomes at t₂ were "always" in the block; superpositions at t₁ simply hadn't yet been measured from our perspective. But the Map requires real collapse—genuine transition from possibility to actuality, not mere discovery of pre-existing facts.
 
-**The growing block's promise**: Real collapse could be the mechanism by which the block grows. The present moment is where superpositions resolve into definite facts, adding to the determinate past. This preserves both retrocausal accessibility (the past exists) and genuine temporal becoming (the future doesn't yet).
+**The growing block's promise**: Real collapse could be the mechanism by which the block grows—the present moment being where superpositions resolve into definite facts, adding to the determinate past. This preserves both retrocausal accessibility (the past exists) and genuine temporal becoming (the future doesn't yet).
 
-But this needs refinement. If consciousness's selection is truly atemporal, it doesn't happen *at* the present moment—it determines which moments constitute the present.
+But this needs refinement: if consciousness's selection is truly atemporal, it doesn't happen *at* the present moment—it determines which moments constitute the present.
 
 ## Atemporal Selection and Emergent Time
 
@@ -82,9 +82,9 @@ Apply this to consciousness:
 3. Consciousness participates in determining which transaction completes.
 4. This participation is atemporal—it fixes which correlations hold between past and future, not which event occurs at which moment.
 
-On this picture, consciousness doesn't act *in* time; it acts to *constitute* time's structure. What we experience as temporal flow—the specious present described by James, the [[temporal-consciousness|durée]] analyzed by Bergson—is the phenomenal character of this constitutive activity viewed from within.
+On this picture, consciousness doesn't act *in* time; it acts to *constitute* time's structure. What we experience as temporal flow—James's specious present, Bergson's [[temporal-consciousness|durée]]—is the phenomenal character of this constitutive activity viewed from within.
 
-Time's arrow doesn't precede consciousness; consciousness-involving collapse creates time's arrow. The irreversibility of collapse is why time has a direction. Without collapse, physics is time-symmetric; with it, past and future differ.
+Time's arrow doesn't precede consciousness; consciousness-involving collapse creates it. The irreversibility of collapse is why time has a direction: without collapse, physics is time-symmetric; with it, past and future differ.
 
 ## Reconciling Atemporality with Irreversibility
 
@@ -92,7 +92,7 @@ The tension: if selection is atemporal, how is collapse irreversible?
 
 Resolution: "atemporal" doesn't mean "outside time" as if time were a container. It means time itself is the product. There's no temporal direction to reverse along until after selection occurs—you can't "un-collapse" because un-collapse would require running time backward, but time's direction is what collapse establishes. (A mathematical function can determine which curve appears on a graph without itself being on the graph; consciousness's atemporal selection determines which temporal sequence becomes real without itself being a temporal event.)
 
-This dissolves the apparent paradox. Retrocausality operates within the physics before collapse creates temporal direction. Once direction exists, backward causation isn't reversal but constraint satisfaction—future conditions participating in determining which past becomes actual. After collapse, the selected past is simply the past. The alternatives weren't suppressed; they were never actualized.
+This dissolves the apparent paradox. Retrocausality operates within the physics before collapse creates temporal direction; once direction exists, backward causation isn't reversal but constraint satisfaction—future conditions participating in determining which past becomes actual. After collapse, the selected past is simply the past: the alternatives weren't suppressed, they were never actualized.
 
 ## The Phenomenology of Temporal Agency
 
@@ -100,15 +100,15 @@ If consciousness constitutes time through collapse, what should this feel like? 
 
 **The [[temporal-consciousness|specious present]]**: [[temporal-consciousness|Temporal experience]] has duration—roughly 100 milliseconds to 3 seconds depending on methodology—within which we experience succession as unified. This isn't clock-time (which has durationless instants) but lived time.
 
-The extensionalist/retentionalist debate about the specious present bears directly on the framework: extensionalists (Dainton, Foster) hold that experience is genuinely temporally extended; retentionalists (Husserl, Broad) hold that each instantaneous moment contains the past as intentional content (retention) and anticipates the future (protention). The Map adopts a modified extensionalism: experience is genuinely extended, with the extension constituted through quantum collapse. Each collapse creates a "moment"; the specious present is the experiential horizon within which recent collapses remain unified. This explains both the extended phenomenology (extensionalism) and the retention-like structure (retentionalism)—the echoing of the past in the present reflects retrocausal boundary conditions in the collapse process. The [[temporal-consciousness|temporal phenomenology of quantum selection]] develops this mapping, proposing that retention, primal impression, and protention correspond to collapsed, collapsing, and uncollapsed quantum states.
+The extensionalist/retentionalist debate about the specious present bears directly on the framework: extensionalists (Dainton, Foster) hold that experience is genuinely temporally extended; retentionalists (Husserl, Broad) hold that each instantaneous moment contains the past as intentional content (retention) and anticipates the future (protention). The Map adopts a modified extensionalism: experience is genuinely extended, with the extension constituted through quantum collapse. Each collapse creates a "moment"; the specious present is the experiential horizon within which recent collapses remain unified. Dennett's multiple-drafts model rejects this picture at its root: there is no canonical moment-of-collapse, only parallel content-fixations the brain edits into a post-hoc temporal narrative, so the "moment" is a Stalinesque-or-Orwellian reconstruction rather than a constituted event. The disagreement runs to bedrock—whether temporal order is constituted at collapse or assembled after the fact—and is noted here as a genuine framework-boundary divergence, not as a rival the framework claims to have refuted on its own terms. This explains both the extended phenomenology (extensionalism) and the retention-like structure (retentionalism)—the echoing of the past in the present reflects retrocausal boundary conditions in the collapse process. The [[temporal-consciousness|temporal phenomenology of quantum selection]] develops this mapping, proposing that retention, primal impression, and protention correspond to collapsed, collapsing, and uncollapsed quantum states.
 
 If consciousness is actively constituting temporal structure, the specious present may be the phenomenology of this constitutive activity. The framework proposes that we experience duration *because* we constitute it—though the phenomenology alone does not establish this. That we experience an extended, asymmetric present is equally predicted by an account on which consciousness experiences a duration it does not create; the constitution reading is a theoretical addition, not a phenomenological entailment (this distinction is drawn out under [[#relation-to-site-perspective|Dualism]] below). The variation in duration estimates (100ms-3s) may reflect multiple components—a core perceptual window where collapses unify, embedded in a broader experiential horizon where constraints propagate.
 
 **The sense of possibility narrowing**: We experience the future as open and the past as fixed. This asymmetry is *consistent with* collapse—before measurement, multiple outcomes; after, one—and the phenomenology of agency, feeling that we could do otherwise until we act, may reflect quantum superposition awaiting collapse. The felt asymmetry is evidence that the asymmetry is *experienced*; it does not by itself select between consciousness *constituting* the asymmetry and consciousness *registering* an asymmetry grounded elsewhere (a thermodynamic arrow, or a block universe accessed indexically). The framework reads the asymmetry as constitutive on theoretical grounds developed below, not because the phenomenology forces that reading.
 
-**The [[mental-effort|phenomenology of effort]]**: Sustaining attention feels costly. Stapp's quantum Zeno mechanism proposes that mental effort prolongs neural patterns through repeated observation. This fits: constitutive activity should be effortful; passive experience need not be.
+**The [[mental-effort|phenomenology of effort]]**: Sustaining attention feels costly. Stapp's quantum Zeno mechanism proposes that mental effort prolongs neural patterns through repeated observation—a fit with the prediction that constitutive activity should be effortful where passive experience need not be.
 
-**Bergson's [[temporal-consciousness|durée]]**: Time as qualitatively flowing, with the past permeating the present and the future anticipated. If consciousness doesn't merely observe time but constitutes it, this interpenetrating quality makes sense. Each moment isn't a slice but an activity, colored by what it's selecting among.
+**Bergson's [[temporal-consciousness|durée]]**: Time as qualitatively flowing, the past permeating the present and the future anticipated. If consciousness constitutes time rather than merely observing it, this interpenetrating quality makes sense: each moment is an activity, not a slice, colored by what it's selecting among.
 
 **[[temporal-consciousness-structure-and-agency|Temporal selection]]**: The detailed phenomenology of *when* to act—the felt structure of timing windows, the anticipatory openness of "not yet," the kairos moment of "now," and the irreversible closure of "too late"—provides the agentive face of this temporal constitution. The asymmetry between "not yet" and "too late" tracks the ontological asymmetry this framework predicts: the future is open because collapse has not occurred; the past is settled because it has.
 
@@ -116,11 +116,11 @@ If consciousness is actively constituting temporal structure, the specious prese
 
 ## Avoiding Contradiction in "Selection Across Time"
 
-A careful reader might object: if consciousness selects "across time," doesn't it have to exist across all the times it's selecting among? How can a consciousness at t₃ select outcomes at t₁?
+A careful reader might object: if consciousness selects "across time," must it not exist across all the times it selects among? How can a consciousness at t₃ select outcomes at t₁?
 
-The question presupposes what's being denied. There is no consciousness "at t₃" separate from the temporal structure it helps constitute. Consciousness isn't located at times within a pre-existing temporal framework; it's implicated in why there are times at all—just as the number 7 isn't located at a position on the number line but is part of what constitutes it.
+The question presupposes what's being denied. There is no consciousness "at t₃" separate from the temporal structure it helps constitute. Consciousness isn't located at times within a pre-existing temporal framework; it's implicated in why there are times at all.
 
-This reconciles with experience. We seem to experience moments sequentially because that's what it's like to constitute temporal sequence from within. The "selection" isn't experienced as a choice made from outside time but as the activity of living through time—what Bergson called the creative advance of durée.
+This reconciles with experience. We seem to experience moments sequentially because that's what it's like to constitute temporal sequence from within—the "selection" is the activity of living through time, not a choice made from outside it.
 
 ## The Decoherence Challenge
 
@@ -128,13 +128,13 @@ Any framework involving quantum effects in the brain must address the [[decohere
 
 Three responses bear on the temporal framework:
 
-**First, decoherence doesn't solve the measurement problem.** Decoherence explains why we don't observe macroscopic superpositions—interference effects wash out. But it doesn't explain why we see *definite* outcomes rather than superpositions of us observing different results. The transition from "both possibilities" to "this one outcome" remains unexplained. Consciousness's role as selector survives decoherence—it operates *after* decoherence has selected preferred bases, biasing which of the remaining alternatives becomes actual.
+**First, decoherence doesn't solve the measurement problem.** Decoherence explains why we don't observe macroscopic superpositions—interference effects wash out—but not why we see *definite* outcomes rather than superpositions of us observing different results. That transition from "both possibilities" to "this one outcome" remains unexplained, so consciousness's role as selector survives decoherence: it operates *after* decoherence has selected preferred bases, biasing which of the remaining alternatives becomes actual.
 
-**Second, biological quantum effects demonstrate evolution's capacity.** Avian magnetoreception relies on quantum spin coherence persisting for microseconds in radical-pair chemistry—molecular-scale effects, not neural computation. Enzyme catalysis exploits quantum tunnelling at similarly small scales. These falsify the categorical objection that warm biological systems cannot sustain quantum effects. Whether evolution could optimise such effects at the neural-network scale relevant to decision-making remains speculative.
+**Second, biological quantum effects demonstrate evolution's capacity.** Avian magnetoreception relies on quantum spin coherence persisting for microseconds in radical-pair chemistry, and enzyme catalysis exploits quantum tunnelling—molecular-scale effects, not neural computation, but they falsify the categorical objection that warm biological systems cannot sustain quantum effects. Whether evolution could optimise such effects at the neural-network scale relevant to decision-making remains speculative.
 
 **Third, the quantum Zeno mechanism sidesteps the objection.** Henry Stapp's proposal doesn't require sustained coherence between observations—only rapid repeated observation events. Mental attention acts like repeated measurement, holding desired neural patterns against decoherence. Freezing a superposition this way requires re-measurement on a timescale short compared with the decoherence time, and Tegmark (2000) puts that time at roughly 10⁻¹³–10⁻²⁰ s for neural-scale superpositions—against which no proposed neural process supplies a selection cycle anywhere near fast enough. This shifts the question from "can coherence survive?" to "can selection cycles operate fast enough?"—a question that remains formally open but, on Tegmark's numbers, currently looks unfavourable at the neural scale.
 
-For the temporal framework specifically, the Zeno mechanism strengthens the connection between consciousness and time. Each observation event contributes to temporal structure. The rapid succession of attention acts constitutes the temporal microstructure we experience as flow. Decoherence doesn't block this—it provides the backdrop against which Zeno freezing operates.
+For the temporal framework specifically, the Zeno mechanism strengthens the connection between consciousness and time: each observation event contributes to temporal structure, and the rapid succession of attention acts constitutes the temporal microstructure we experience as flow. Decoherence doesn't block this—it provides the backdrop against which Zeno freezing operates.
 
 ## The Illusionist Challenge
 
@@ -144,31 +144,29 @@ The framework offers three responses:
 
 **The regress problem.** If temporal phenomenology is illusory, the *seeming* to experience time must itself be explained. What is this seeming? Either it involves phenomenal properties (relocating rather than eliminating experience) or it doesn't (raising the question of how non-phenomenal seeming generates universal conviction about temporal flow). Raymond Tallis's observation applies: "Misrepresentation presupposes presentation." The illusion of time must unfold *in* time for some subject—which is exactly what the framework claims consciousness provides.
 
-**The structural point.** Even if consciousness were "merely" an introspective representation (as illusionists claim), the question of how collapse introduces temporal asymmetry remains physical. The arrow of time is independent of whether we correctly interpret our phenomenology. What the framework adds is that consciousness-involving collapse may be *how* the arrow emerges—not that consciousness *seems* to experience an arrow but that its participation in collapse *creates* one. This is a claim about physics, not about the accuracy of phenomenal reports.
+**The structural point.** Even if consciousness were "merely" an introspective representation, the question of how collapse introduces temporal asymmetry remains physical, independent of whether we correctly interpret our phenomenology. The framework adds that consciousness-involving collapse may be *how* the arrow emerges—that its participation in collapse *creates* one. This is a claim about physics, not about the accuracy of phenomenal reports.
 
-**The selection remains.** Illusionism doesn't eliminate the need for selection at quantum indeterminacies. Even if there's no phenomenal consciousness, *something* must determine which outcomes become actual. The Map's framework proposes that whatever performs this selection—call it consciousness, call it information processing, call it what you will—is implicated in temporal structure through its collapse-constitutive role. The phenomenology is evidence for this role, not its only support.
+**The selection remains.** Illusionism doesn't eliminate the need for selection at quantum indeterminacies. Even with no phenomenal consciousness, *something* must determine which outcomes become actual. The framework proposes that whatever performs this selection—call it consciousness, information processing, what you will—is implicated in temporal structure through its collapse-constitutive role. The phenomenology is evidence for this role, not its only support.
 
 ## Process Philosophy Perspective
 
-Alfred North Whitehead's process philosophy offers a complementary framework. For Whitehead, reality consists of "actual occasions"—momentary experiential events that arise, synthesise their causal past ("prehension"), and perish. Each occasion has a *physical pole* (receiving causal influences) and a *mental pole* (introducing novelty through subjective aim). Time is not a pre-existing container but the structure created by their succession—the "creative advance" *is* time's passage.
+Alfred North Whitehead's process philosophy offers a complementary framework. Reality consists of "actual occasions"—momentary experiential events that arise, synthesise their causal past ("prehension") through both a physical pole (receiving influences) and a mental pole (introducing novelty via subjective aim), and perish. Time is not a pre-existing container but the structure created by their succession—the "creative advance" *is* time's passage. Three points connect this to the framework:
 
-**Relevance to the framework:**
+*Collapse as concrescence.* Whitehead's "concrescence"—an occasion achieving definiteness—parallels quantum collapse: before, indeterminate; after, a settled fact available for prehension by successors. If consciousness participates in collapse, it participates in the process by which temporal structure accretes.
 
-*Collapse as concrescence.* Whitehead's "concrescence"—the process by which an occasion achieves definiteness—parallels quantum collapse: before, indeterminate; after, a settled fact available for prehension by successors. If consciousness participates in collapse, it participates in concrescence, the process by which temporal structure accretes.
+*[[atemporal-causation|Atemporal]] selection as creative synthesis.* Each occasion synthesises its inputs from a standpoint that isn't "in" time but constitutes time, its subjective aim guiding synthesis toward particular outcomes—matching the framework's claim that consciousness selects atemporally. Whitehead's occasions are experiential quanta with internal structure rather than durationless instants, resonating with Bergson's [[temporal-consciousness|durée]] and the specious present as constitutive activity.
 
-*[[atemporal-causation|Atemporal]] selection as creative synthesis.* Each actual occasion synthesises its inputs from a standpoint that isn't "in" time but constitutes time; the occasion's subjective aim guides synthesis toward particular outcomes—matching the framework's claim that consciousness selects atemporally. Whitehead's occasions are also experiential quanta with internal structure rather than durationless instants, resonating with Bergson's [[temporal-consciousness|durée]] and the specious present as constitutive activity.
-
-*Haecceity and indexical identity.* Each actual occasion has a [[haecceity]]—a primitive thisness that makes it *this* occasion rather than any other. *This* consciousness making *this* selection creates *this* temporal structure. The particularity cannot be eliminated without losing what selection explains. This is the same [[indexical-identity-quantum-measurement|indexical gap]] that persists across quantum interpretations—why *this* subject experiences *this* outcome—now applied to temporal becoming.
+*Haecceity and indexical identity.* Each occasion has a [[haecceity]]—a primitive thisness making it *this* occasion rather than any other. *This* consciousness making *this* selection creates *this* temporal structure; the particularity cannot be eliminated without losing what selection explains. This is the same [[indexical-identity-quantum-measurement|indexical gap]] that persists across quantum interpretations—why *this* subject experiences *this* outcome—now applied to temporal becoming.
 
 ## Implications for Free Will
 
 This metaphysics strengthens the [[topics/free-will|free will]] position, and deepens [[agent-causation|agent causation's]] philosophical foundations:
 
-**Sourcehood without prior causes**: Agent causation holds that the agent is the ultimate source of action, not prior events. The [[agent-causation#The Metaphysical Foundation: Substance Causation|substance-causation framework]] developed by Lowe provides the metaphysical grounding: substances exercise causal powers directly, and events are what substances *do*. If consciousness constitutes temporal structure, the substance-causal picture gains additional force—there's no temporal chain of prior causes to trace back through because the agent's selection determines what the past is.
+**Sourcehood without prior causes**: Agent causation holds that the agent, not prior events, is the ultimate source of action. The [[agent-causation#The Metaphysical Foundation: Substance Causation|substance-causation framework]] developed by Lowe provides the grounding: substances exercise causal powers directly, and events are what substances *do*. If consciousness constitutes temporal structure, the picture gains force—there's no chain of prior causes to trace back through, because the agent's selection determines what the past is.
 
 **Alternative possibilities**: Free will traditionally requires that we could have done otherwise. In the growing-block picture with consciousness-constituted collapse, alternatives genuinely existed as superposed possibilities before selection—metaphysically open, not hidden or illusory.
 
-**Non-random selection**: Critics argue quantum indeterminacy gives us random will, not free will. But if selection is atemporal and involves consciousness's constraints across time, it's not random—it's the expression of the agent's rational nature determining which temporal pattern becomes actual. The selection reflects what matters to the agent, not arbitrary quantum fluctuation.
+**Non-random selection**: Critics argue quantum indeterminacy gives us random will, not free will. But if selection is atemporal and involves consciousness's constraints across time, it's not random—it expresses the agent's rational nature, reflecting what matters to the agent rather than arbitrary quantum fluctuation.
 
 **Timing problem dissolved**: The Libet objection (neural activity precedes awareness) only matters if selection must temporally precede the neural activity. In atemporal selection, this ordering is part of what's selected, not a constraint on the selection.
 
@@ -176,7 +174,7 @@ This metaphysics strengthens the [[topics/free-will|free will]] position, and de
 
 Meditation traditions offer phenomenological data relevant to this framework. What follows describes contemplative reports and the theoretical interpretation the framework places on them—these are distinct: the reports are first-person data; the interpretation is the framework's hypothesis about what they reveal.
 
-**Cessation states.** Advanced contemplatives report *nirodha-samāpatti*—cessation of perception and feeling—as awareness without temporal flow (not unconsciousness). *Interpretation*: if consciousness constitutes time through collapse involvement, withdrawing from collapse suspends time's passage.
+**Cessation states.** Advanced contemplatives report *nirodha-samāpatti*—cessation of perception and feeling—as awareness without temporal flow (not unconsciousness). *Interpretation*: if consciousness constitutes time through collapse involvement, withdrawing from collapse suspends time's passage. The Madhyamaka reading runs the other way—cessation is taken as evidence *against* any substantial witness—so recruiting it for a substance-causal selecting self imports a metaphysics the source tradition denies, a tension the framework acknowledges rather than resolves.
 
 **Jhāna phenomenology.** Concentrative absorption shows systematic variation in temporal experience—normal flow in first jhāna, increasingly "timeless" quality in higher jhānas. *Report*: progressive dissolution of temporal markers without loss of awareness. *Interpretation*: reduced active selection is consistent with this sequence.
 
