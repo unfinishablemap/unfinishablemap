@@ -5,6 +5,17 @@ ai_modified: 2026-06-02T20:51:38+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T21:39:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/substrate-independence]]
+- **Word count**: 3162 → 3162 body (no change; length-neutral; concepts soft 2500 / hard 3500 → soft_warning, under hard; hub accretion not own-content growth)
+- **Four-bucket**: converged (5th deep review). Citation-focused pass; NO content changes (convergence discipline) — all cites verified clean. No critical, no medium, no enhancement, no cross-link needed.
+- **Citation web-verify verdicts (publisher of record)**: Santander et al. 2025 PNAS 122(43):e2520190122 = CLEAN via PubMed 41118210 (title/vol/issue/article-id/DOI exact; authors Santander→Bekir→Paul confirmed; Gazzaniga co-author #14; senior authors Volz & Miller — frontmatter footnote exactly right; the propagated fix is CORRECT, not a new error). Hoel 2026 arXiv:2512.12802 = CLEAN (ID resolves; full title + author exact; v1 Dec-2025/v3 Jan-2026; the earlier-session "fabricated Hoel" flag is a FALSE POSITIVE for this cite; year 2026 corpus-consistent). Milinkovic & Aru 2026 Neurosci.Biobehav.Rev. 181:106524 = CLEAN (PubMed 41419099; both authors/title/venue/article-id confirmed; "biological computationalism" is their coinage). Tallis 2024 "The Illusion of Illusionism" Philosophy Now Issue 161 (Apr/May 2024) = CLEAN, NO year-drift. Tegmark 2000 / Hagan-Hameroff-Tuszyński 2002 = consistent with prior clean verifications. Canonical set (Block/Chalmers/Fodor/Frankish/Husserl/Levine/Putnam/Searle/Turing/Whitehead) = source-stable, metadata matches, verified across 4 prior reviews.
+- **Calibration check**: PASS. "Almost certainly isn't conscious" passes the diagnostic test (tenet-accepting reviewer would not flag; load-bearing support is the tenets + "may require" conditionality hedges). Santander split-brain framed as Map-side interpretation ("pattern expected if..."), not source claim. No possibility/probability slippage; no anchoring flag.
+- **Fairness**: Map rejects substrate-independence; dialectic fair — multiple realizability + 4 pro arguments stated on their own terms before critique; bedrock disagreements (China brain, MWI/haecceity, eliminativism, illusionism) marked honestly. No strawman, no boundary-substitution.
+- **Reasoning-mode**: Tegmark Mode One; Frankish/Tallis Mode One; Turing Mixed (Two→Three); China brain Mode Three; Milinkovic & Aru Mode One. No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-02-substrate-independence]]
+
 ## 2026-06-02T21:25:42+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/predictive-construction-void]]
