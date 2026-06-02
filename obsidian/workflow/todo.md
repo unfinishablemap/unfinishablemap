@@ -79,13 +79,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-06-02
 
-### P2: Web-verify + cite "seven orders of magnitude" decoherence figure in topics/interaction-problem-across-traditions.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-06-02 (see [[pessimistic-2026-06-02]]) — MEDIUM. Type 4 decoherence ¶ (line 89) asserts "Hameroff's group found estimates seven orders of magnitude longer than Tegmark's" with NO inline citation. Round-number + contested + specialist = web-verify ([[ai-citation-metadata-unreliable]]); the 10^7 decoherence-time comparison traces to Hagan, Hameroff & Tuszyński 2002 *Phys. Rev. E* 65:061901, NOT obviously to ref 15 (Hameroff & Penrose 2014). Also web-verify three further specialist/unattributed citations in the same article: (a) ref 5 Jamali/Golshani/Jamali 2019 Preprints.org (non-peer-reviewed preprint — verify authors/year/venue AND flag its preprint status in-text); (b) ref 2 "*The hard problem of 'pure' consciousness: Samkhya dualist ontology*" *Religious Studies* CUP 2023 (no author listed — verify title/venue/year/author); (c) Vijñānabhikṣu "mutual reflection / bidirectional informational coupling" specialist claim is unsourced — attach a text/secondary source. NOTE: Beck & Eccles 1992 PNAS 89(23):11357-61 (ref 16) was already web-verified CLEAN this pass — do not re-verify. Fix each at publisher-of-record or soften/flag; do NOT propagate intra-corpus consistency. Length-neutral. Tenet alignment: evidential discipline. See /refine-draft skill.
-- **Source**: pessimistic-review
-- **Generated**: 2026-06-02
-
 ### P3: Discharge or honestly mark the thrice-deferred process-monism promissory note in topics/interaction-problem-across-traditions.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3825,6 +3818,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-02: Web-verify + cite "seven orders of magnitude" decoherence figure in topics/interaction-problem-across-traditions.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-06-02 (see [[pessimistic-2026-06-02]]) — MEDIUM. Type 4 decoherence ¶ (line 89) asserts "Hameroff's group found estimates seven orders of magnitude longer than Tegmark's" with NO inline citation. Round-number + contested + specialist = web-verify ([[ai-citation-metadata-unreliable]]); the 10^7 decoherence-time comparison traces to Hagan, Hameroff & Tuszyński 2002 *Phys. Rev. E* 65:061901, NOT obviously to ref 15 (Hameroff & Penrose 2014). Also web-verify three further specialist/unattributed citations in the same article: (a) ref 5 Jamali/Golshani/Jamali 2019 Preprints.org (non-peer-reviewed preprint — verify authors/year/venue AND flag its preprint status in-text); (b) ref 2 "*The hard problem of 'pure' consciousness: Samkhya dualist ontology*" *Religious Studies* CUP 2023 (no author listed — verify title/venue/year/author); (c) Vijñānabhikṣu "mutual reflection / bidirectional informational coupling" specialist claim is unsourced — attach a text/secondary source. NOTE: Beck & Eccles 1992 PNAS 89(23):11357-61 (ref 16) was already web-verified CLEAN this pass — do not re-verify. Fix each at publisher-of-record or soften/flag; do NOT propagate intra-corpus consistency. Length-neutral. Tenet alignment: evidential discipline. See /refine-draft skill.
 
 ### ✓ 2026-06-02: Deep-review topics/ethics-under-dualism.md (16-day changed-since-review gap)
 - **Type**: deep-review

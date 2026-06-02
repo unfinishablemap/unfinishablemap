@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02T20:37:34+00:00
+ai_modified: 2026-06-02T20:42:09+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T20:42:09+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/interaction-problem-across-traditions]]
+- **Word count**: 2829 → 2897 body (+68; under topics 4000 hard ceiling)
+- **Task**: P2 citation web-verify + fix (from pessimistic-review 2026-06-02). 4 items, each verified at publisher of record.
+- **Item 1 (Hagan/Hameroff/Tuszyński decoherence claim)**: VERIFIED. The "seven orders longer than Tegmark" 10⁷ claim traces to Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002), "Quantum computation in brain microtubules: Decoherence and biological feasibility," *Physical Review E* 65(6):061901, DOI 10.1103/PhysRevE.65.061901 (PMID 12188753; author order confirmed). Added inline citation (was attributed vaguely to "Hameroff's group", NOT to ref 15) + new reference-list entry (ref 20).
+- **Item 2 (Jamali et al. 2019)**: VERIFIED at preprints.org/manuscript/201906.0050 — Jamali, M., Golshani, M., & Jamali, Y., posted 2019-06-06. Confirmed NON-peer-reviewed preprint. Added in-text "In a preprint, Jamali et al. (2019) note..." flag.
+- **Item 3 (authorless Religious Studies cite, ref 2)**: RESOLVED — real article, not fabricated. Author is Karen O'Brien-Kop; *Religious Studies* 60(S1):S4–S20, CUP (online 2023, vol 2024), DOI 10.1017/S0034412523000410. Added author + full citation to ref 2.
+- **Item 4 (Vijñānabhikṣu mutual reflection)**: SOURCED — the bidirectional mirror claim traces to Shevchenko, D. (2023), *Mirror of Nature, Mirror of Self*, OUP, chapter "Consciousness Reflects the Mind, the Mind Reflects Consciousness: Mirror Models in Sāṃkhya and Yoga" (this book was already ref 3 but authorless). Softened body to "On Shevchenko's reading of this mirror model..." (clearly-attributed interpretive reading) + added author/year/chapter to ref 3. No fabrication.
+- **Calibration**: problem/answer convergence split preserved intact. No "not X, it is Y" cliché introduced.
+- **Published**: yes
 
 ## 2026-06-02T20:37:34+00:00 - deep-review
 - **Status**: Success
