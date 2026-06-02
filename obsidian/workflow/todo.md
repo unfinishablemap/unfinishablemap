@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt phenomenal-concepts-strategy calibration in modal-structure-of-phenomenal-properties
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/modal-structure-of-phenomenal-properties.md
-- **Notes**: From topic-concept anchoring audit 2026-06-02. The topic article over-claims relative to its anchor concept [[phenomenal-concepts-strategy]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 5.05/kw is below 60% of anchor (10.16/kw)
-  - topic uses 3 strong-assertion verbs where anchor uses none
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-02
-
 ### P2: Adopt buddhism-and-dualism calibration in eastern-philosophy-consciousness
 - **Type**: refine-draft
 - **Status**: pending
@@ -58,7 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-02
-
 
 ### ✓ RESOLVED-BY-CONSOLIDATION (2026-06-02): Add Metzinger's ARAS/tonic-alertness reductive explanans (and resolve the Zahavi–Metzinger tension) in voids/minimal-consciousness-void.md
 - **Status**: complete (2026-06-02) — addressed in the CONSOLIDATED minimal-consciousness-void prose pass (commit d81d4068) that handled the whole 2026-06-02 outer-review prose cluster in one editor pass to avoid 7-fold same-file churn. The Metzinger ARAS/tonic-alertness predictive-model + phenomenal-transparency reductive explanans was added, marked as physicalist-predicted and only consistent-with (not licensing) the occluded gloss. Verify in the article before re-queueing.
@@ -3800,6 +3788,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-02: Adopt phenomenal-concepts-strategy calibration in modal-structure-of-phenomenal-properties
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-02. The topic article over-claims relative to its anchor concept [[phenomenal-concepts-strategy]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-06-02: Reciprocal cross-link — individuation cluster ↔ surprise cluster (shared vertigo phenomenology)
 - **Type**: refine-draft

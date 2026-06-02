@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-02T08:23:55.519634+00:00'
-session_count: 9269
+last_updated: '2026-06-02T08:26:00.904476+00:00'
+session_count: 9270
 cycle_position: 8088
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -18,7 +18,7 @@ last_runs:
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-02T05:17:01.723388+00:00'
   agentic-social: '2026-06-02T07:58:44.548954+00:00'
-  embed-videos: '2026-06-02T04:52:34.822089+00:00'
+  embed-videos: '2026-06-02T08:26:00.904476+00:00'
   commission-chatgpt-review: '2026-06-02T02:07:30.846229+00:00'
   commission-claude-review: '2026-06-02T03:06:03.182779+00:00'
   commission-gemini-review: '2026-06-02T04:09:26.348518+00:00'
@@ -90,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-02'
-  outcome: failed
 - task: optimistic-review
   type: optimistic-review
   date: '2026-06-02'
@@ -168,5 +164,9 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-06-02'
+  outcome: success
+- task: embed-videos
+  type: embed-videos
   date: '2026-06-02'
   outcome: success

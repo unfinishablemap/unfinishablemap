@@ -5,6 +5,20 @@ ai_modified: 2026-06-02 13:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T08:32:09+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/modal-structure-of-phenomenal-properties]]
+- **Type**: topic-concept anchoring-audit calibration fix (assertion-register softening)
+- **Trigger**: evaluate_anchoring flagged against 3 anchors (phenomenal-concepts-strategy, explanatory-gap, conceivability-possibility-inference), all on hedge_density + strong_assertions. Genuine over-claim axis = 3 strong-assertion verbs.
+- **Changes**: Softened the 3 strong-assertion verbs the anchoring module counts, each to match the article's actual ARGUED/SUPPORTED evidential status (central claim unchanged):
+  - Para 1: "not independent evidence that **establishes** it" → "...that would **secure** it on its own"
+  - Kripke's Asymmetry / knowledge-argument: "knowledge argument **shows that**" → "knowledge argument **argues that**"
+  - Relation to Site Perspective / MQI: "Modal structure **establishes** that something beyond physics enters" → "On the Map's framing, modal structure **points to** something beyond physics entering"
+- **No hedge-stuffing**: hedge_density left at ~5.03/kw (NOT padded toward anchors' ~10/kw — over-hedge-into-mush avoided per [[anchoring-audit-sibling-tasks-stale]]). strong_assertion_count 3→0 alone cleared the flag.
+- **Verification**: evaluate_anchoring now returns [] (empty). strong_assertion_count 0, dropping each anchor's failed-check count to 1 (hedge_density only), below the ≥2-of-3 fire threshold.
+- **Word count**: 2384 (was 2376; +8, length-neutral, under soft ceiling)
+- **Published**: yes
+
 ## 2026-06-02T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[topics/surprise-prediction-error-and-consciousness]], [[concepts/categorical-surprise]], [[topics/consciousness-and-the-metaphysics-of-individuation]]
