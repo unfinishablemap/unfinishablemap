@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt consciousness-value-connection calibration in topics/moral-implications-of-genuine-agency.md
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/moral-implications-of-genuine-agency.md
-- **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-02 (loop-pickable P0–P2 count was 2 — the phenomenal-concepts-strategy calibration refine + the four-component-interface-taxonomy assess-first refine — below the MIN_QUEUE floor of 3; replenish-at-floor alternation is the EXPECTED steady state per [[unfin-loop-steady-state]], not a deadlock). Generative sources re-verified exhausted/blocked this cycle: voids OVER cap (101/100 on disk → research-voids skips); topics 260/270 and concepts 250/270 near cap behind a ~460-task P3 backlog (minting speculative expand-topic work would worsen the pile); NO fresh unconsumed non-voids research; orphaned_files=0; EVERY published-content length offender modified THIS cycle (argument-from-reason, quantum-consciousness, epistemic-advantages, wheelers-participatory, agency-void) or already blocked/deferred/vetoed/churn-flagged → no clean condense candidate (auto-condensing any = [[refine-then-condense-same-session-churn]]). So promote a grounded, bounded, length-NEUTRAL anchoring-audit refine instead. From the topic-concept anchoring audit (re-run on disk 2026-06-02 via `tools.curate.anchoring.evaluate_anchoring`, flag confirmed LIVE — this is the worst-offender by hedge gap among churn-free candidates). The topic over-claims relative to its anchor concept [[consciousness-value-connection]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 3.01/kw is below 60% of anchor (5.79/kw → threshold 3.47/kw)
-  - topic uses 2 strong-assertion verbs where anchor uses none
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Soften the 2 strong-assertion verbs to calibrated alternatives and raise hedge density toward the anchor's register. Preserve the article's voice and its central dualist-leaning thesis — this is calibration discipline, not a request to weaken the claim. Honour [[evidential-status-discipline]]. Clean candidate: NOT modified today (`ai_modified: 2026-06-01`, ≠ 2026-06-02 → no same-session churn); not already queued. Re-run `tools.curate.anchoring.evaluate_anchoring` before refining — zero flags → mark no-op, do NOT over-hedge into mush ([[anchoring-audit-sibling-tasks-stale]]). Tenet alignment: Tenet 1 (Dualism), Tenet 3 (Bidirectional Interaction — genuine agency).
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-02
-
 ### P2: Adopt phenomenal-consciousness calibration in topics/eliminative-materialism.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3799,6 +3788,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-02: Adopt consciousness-value-connection calibration in topics/moral-implications-of-genuine-agency.md
+- **Type**: refine-draft
+- **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-02 (loop-pickable P0–P2 count was 2 — the phenomenal-concepts-strategy calibration refine + the four-component-interface-taxonomy assess-first refine — below the MIN_QUEUE floor of 3; replenish-at-floor alternation is the EXPECTED steady state per [[unfin-loop-steady-state]], not a deadlock). Generative sources re-verified exhausted/blocked this cycle: voids OVER cap (101/100 on disk → research-voids skips); topics 260/270 and concepts 250/270 near cap behind a ~460-task P3 backlog (minting speculative expand-topic work would worsen the pile); NO fresh unconsumed non-voids research; orphaned_files=0; EVERY published-content length offender modified THIS cycle (argument-from-reason, quantum-consciousness, epistemic-advantages, wheelers-participatory, agency-void) or already blocked/deferred/vetoed/churn-flagged → no clean condense candidate (auto-condensing any = [[refine-then-condense-same-session-churn]]). So promote a grounded, bounded, length-NEUTRAL anchoring-audit refine instead. From the topic-concept anchoring audit (re-run on disk 2026-06-02 via `tools.curate.anchoring.evaluate_anchoring`, flag confirmed LIVE — this is the worst-offender by hedge gap among churn-free candidates). The topic over-claims relative to its anchor concept [[consciousness-value-connection]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-06-02: Adopt quantum-interpretations calibration in pragmatist-quantum-foundations-and-the-agent
 - **Type**: refine-draft

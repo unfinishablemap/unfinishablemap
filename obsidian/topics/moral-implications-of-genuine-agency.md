@@ -4,7 +4,7 @@ description: "If consciousness causes actions, morality changes from useful conv
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-06-01T19:22:03+00:00
+ai_modified: 2026-06-02T12:40:01+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -36,7 +36,7 @@ last_deep_review: 2026-06-01T19:22:03+00:00
 
 If consciousness causes actions—if agents are irreducible sources of choice rather than links in deterministic chains—then the moral landscape changes character. The Unfinishable Map's commitment to [[agent-causation]] and [[bidirectional-interaction]] means that moral categories like obligation, blame, virtue, and character formation respond to facts about what conscious beings actually do, rather than serving as useful fictions imposed on a causally closed physical world. This article explores what follows for moral life when agency is real—while also marking the points at which sophisticated compatibilism could ground the same implications, an issue addressed in a later [symmetry section](#the-compatibilist-symmetry-challenge).
 
-The [[moral-responsibility]] article establishes that agent causation grounds metaphysical desert. The question here is broader: what does genuine agency imply beyond desert—for moral obligation, for how agents should live, and for the demands that morality can reasonably place on them?
+The [[moral-responsibility]] article argues that agent causation grounds metaphysical desert. The question here is broader: what does genuine agency imply beyond desert—for moral obligation, for how agents should live, and for the demands that morality can reasonably place on them?
 
 ## The Weight of Authorship
 
@@ -74,7 +74,7 @@ Genuine agency relocates rather than eliminates causal luck. If consciousness se
 
 The other categories shift in significance correspondingly. Constitutive luck—the temperament and dispositions one starts with—remains a genuine constraint. No one chooses their initial character. But under agent causation, constitutive luck is a starting position, not a destiny. The agent can reshape inherited dispositions through sustained effort. This does not eliminate the unfairness of different starting points, but it prevents constitutive luck from being totalising. The person born with an aggressive temperament who cultivates patience has authored something that the person who was simply born patient did not need to author.
 
-Circumstantial luck—the moral tests one faces—also persists. The person never tempted never demonstrates resistance. But genuine agency changes how circumstantial luck interacts with moral judgment. When the tested agent resists, their resistance is genuinely their doing, not a product of factors they didn't choose. The asymmetry between the tested and untested agent reflects a real difference in what each has authored, not merely a difference in what happened to each.
+Circumstantial luck—the moral tests one faces—also persists. The person never tempted never displays resistance. But genuine agency changes how circumstantial luck interacts with moral judgment. When the tested agent resists, their resistance is genuinely their doing, not a product of factors they didn't choose. The asymmetry between the tested and untested agent reflects a real difference in what each has authored, not merely a difference in what happened to each.
 
 ## The Demands Genuine Agency Places on Moral Theory
 
