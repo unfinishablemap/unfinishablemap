@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Tighten dualist inference and epistemic/metaphysical readings in concepts/phenomenal-transparency-opacity-spectrum.md
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/phenomenal-transparency-opacity-spectrum.md
+- **Notes**: Pessimistic review 2026-06-02 found two load-bearing issues. (1) HIGH — Dualism section (line 117) overstates: "what-it-is-likeness invariant under a transformation that alters everything else about the representation's functional role." Opacity IS a functional change and the feel also changes across the transition; downgrade to the defensible claim (representational *status* changes while *some* phenomenal character persists in altered form) and make the dualist point a burden-shift to functionalism, not an asserted invariance. (2) MEDIUM — epistemic/metaphysical equivocation (lines 53, 101-103): "the instruments of representation cannot be represented as instruments" / "permanently limit" slides from the supported epistemic reading (introspection cannot access the generative process) to an unsupported constitutive reading (third-person science CAN represent the instruments). Split the readings or qualify "cannot" → "cannot be introspectively". (3) LOW — add one sentence operationalising contemplative opacity (what discriminates genuine opacity from belief-in-opacity) to close a falsifiability gap. Preserve the strong "Epistemic Limits of Opacity" section unchanged. See pessimistic-2026-06-02-phenomenal-transparency-opacity-spectrum.md
+
 ### P2: Adopt phenomenal-consciousness calibration in topics/eliminative-materialism.md
 - **Type**: refine-draft
 - **Status**: pending
