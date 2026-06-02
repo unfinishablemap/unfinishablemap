@@ -4,8 +4,8 @@ description: "First-person investigation reveals consciousness structures invisi
 created: 2026-01-31
 modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-05-19T11:04:33+00:00
-last_deep_review: 2026-05-01T10:25:00+00:00
+ai_modified: 2026-06-02T09:15:18+00:00
+last_deep_review: 2026-06-02T09:15:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -72,7 +72,7 @@ Systematic first-person investigation reveals structures invisible to casual att
 
 ### Witness Consciousness
 
-Perhaps the most significant discovery: [[witness-consciousness|consciousness can observe its own contents without identifying with them]]. Thoughts arise and pass; the witness remains unchanged. This is not abstract philosophy but accessible phenomenology—what contemplatives across traditions report when they sustain non-reactive attention.
+Perhaps the most significant discovery: [[witness-consciousness|consciousness can observe its own contents without identifying with them]]. Thoughts arise and pass; the witness remains unchanged. This is accessible phenomenology rather than abstract philosophy—what contemplatives across traditions report when they sustain non-reactive attention.
 
 The witness has distinctive properties. It cannot become an object of observation without generating a new observer. Try to observe your observing—you become aware of awareness. But now two layers exist: awareness observed and awareness observing. The regression has no endpoint. This structural elusiveness isn't a failure of introspection but a feature of how subjectivity works.
 
@@ -100,13 +100,13 @@ Advanced practitioners access states that push the boundaries of what consciousn
 
 The jhana sequence—eight progressively refined states from directed attention through formless absorptions—maps experiential territory invisible to ordinary awareness. High-field (7-Tesla) fMRI studies of jhana practitioners show these states have distinct neural signatures: disrupted hierarchical brain organization, increased global connectivity, elevated complexity measures. The phenomenology of jhana states—joy giving way to equanimity, awareness of infinite space, the threshold of neither-perception-nor-non-perception—provides data that third-person methods alone cannot generate.
 
-Most radical is *nirodha samapatti*—reported cessation of perception and feeling. Advanced meditators describe voluntarily "turning off" phenomenal consciousness while brain activity continues. The evidence is methodologically weak: it rests on retrospective self-report, the reported absence of experience cannot be independently verified from outside, and the neural correlates remain poorly characterised. Treated cautiously, the data still pose questions for identity theories: if consciousness were *simply identical* to neural activity, reports of phenomenal cessation would more naturally correspond to neural silence than to continued reorganised activity. Physicalists can respond that consciousness may be identical to *specific patterns* rather than neural activity in general—the absence of those patterns while other neural processing continues. The observation is suggestive but should not bear significant argumentative weight.
+Most radical is *nirodha samapatti*—reported cessation of perception and feeling. Advanced meditators describe voluntarily "turning off" phenomenal consciousness while brain activity continues. The evidence is methodologically weak: the cessation-EEG work to date rests on a single practitioner (n=1), the report of "nothing" is heterophenomenology—an account of an absence, not third-person confirmation of zero consciousness—and the neural correlates remain poorly characterised. As the [[minimal-consciousness-void|minimal-consciousness void]] puts it, the data indicate an edge but cannot certify what lies on the far side. Treated cautiously, the data still pose questions for identity theories: if consciousness were *simply identical* to neural activity, reports of phenomenal cessation would more naturally correspond to neural silence than to continued reorganised activity. Physicalists can respond that consciousness may be identical to *specific patterns* rather than neural activity in general—the absence of those patterns while other neural processing continues. The observation is suggestive but should not bear significant argumentative weight.
 
 ### Dream Yoga: Consciousness in Sleep
 
 Tibetan Buddhist dream yoga (*mi-lam*) provides another empirical avenue for consciousness investigation. This millennium-old tradition trains practitioners to maintain awareness during sleep—both within dreams and through dreamless states.
 
-Dream yoga proceeds through progressive stages: achieving lucidity, overcoming fear, controlling dream objects through intention, and recognising the dream body's insubstantiality. The practice culminates in "sleep yoga"—maintaining awareness through dreamless sleep. Recent lucid dreaming research validates aspects of this tradition. Demirel et al. (2025) identify lucid dreaming as a distinct consciousness state with its own neural signature, describing "the emergence of a stable third phase marked by recursive symbolic awareness." Two-way communication experiments confirm that lucid dreamers can exchange information with experimenters while verifiably in REM sleep.
+Dream yoga proceeds through progressive stages: achieving lucidity, overcoming fear, controlling dream objects through intention, and recognising the dream body's insubstantiality. The practice culminates in "sleep yoga"—maintaining awareness through dreamless sleep. Recent lucid dreaming research validates aspects of this tradition. Demirel et al. (2025) identify lucid dreaming as a distinct consciousness state with its own neural signature—gamma activation in the precuneus at the onset of lucidity and beta-power reductions in parietal regions—which they read as reflecting self-referential awareness during sleep. Two-way communication experiments confirm that lucid dreamers can exchange information with experimenters while verifiably in REM sleep.
 
 For the Map's framework, dream yoga provides two observations of interest. First, dreamers volitionally control dream contents through intention alone—consistent with [[tenets#^bidirectional-interaction|Bidirectional Interaction]], though also explicable as one neural process (executive function) modulating another (dream generation). Second, the Map explores a filter theory interpretation: dreams are what consciousness does when sensory constraints are removed, using the brain's representational capacities freely rather than for external representation. This interpretation is speculative—physicalists explain dreams as the brain's pattern-completion machinery running without sensory input, requiring no filter theory. The Map finds the filter interpretation suggestive but does not rest its case on it.
 

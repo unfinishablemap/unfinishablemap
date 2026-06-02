@@ -5,6 +5,15 @@ ai_modified: 2026-06-02T08:41:28+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T09:15:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/contemplative-path]]
+- **Word count**: 3847 → 3887 (+40, apex synthesis; intentional-length, not bloated)
+- **Critical issues addressed**: 1 (fabricated direct quote attributed to Demirel et al. 2025 — web-verified against J. Neurosci. 45(20) e2237242025; the *claim* is accurate but "stable third phase / recursive symbolic awareness" is NOT Demirel's language; dropped quote, kept accurate paraphrase of precuneus-gamma / parietal-beta findings)
+- **Medium issues addressed**: 1 (cessation calibration aligned to [[minimal-consciousness-void]] — named n=1 + heterophenomenology limits, added cross-link)
+- **Enhancements made**: 1 writing-style fix ("This is not X but Y" cliché variant removed); MPE/pure-awareness non-independence audit confirmed no over-claim (apex makes no MPE-92M convergence claim)
+- **Output**: [[reviews/deep-review-2026-06-02-contemplative-path]]
+
 ## 2026-06-02T09:10:47+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/neural-refresh-rates-and-the-smoothness-problem]]
