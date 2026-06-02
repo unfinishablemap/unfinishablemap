@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot investigate its o
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-06-02T05:46:33+00:00
+ai_modified: 2026-06-02T06:30:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -48,7 +48,7 @@ The core structural impossibility has three dimensions:
 
 **Regressive enrichment.** Attempting to examine the simplest experience creates a more complex one: experience-being-examined. Trying to find the minimal version of *that* creates yet another layer. The search generates an infinite regress that moves away from its target with each step. Unlike most philosophical regresses, this one is experientially real—each attempt at simplification produces a detectably richer state.
 
-**Report enrichment.** Any experience that can be reported, described, or silently noted has been processed through cognitive machinery that adds structure. Jonathan Schooler's research on meta-consciousness demonstrates that "beliefs about experience systematically misrepresent first-order experience through detection failures, transformation, and substitution" (Schooler and Schreiber 2004). The truly minimal experience—if it occurs—would leave no trace accessible to report. An experience that cannot be reported, remembered, or examined is epistemically invisible.
+**Report enrichment.** Any experience that can be reported, described, or silently noted has been processed through cognitive machinery that adds structure. Jonathan Schooler's research on meta-consciousness argues that beliefs about experience systematically misrepresent first-order experience through detection failures, transformation, and substitution (Schooler and Schreiber 2004). The truly minimal experience—if it occurs—would leave no trace accessible to report. An experience that cannot be reported, remembered, or examined is epistemically invisible.
 
 These three dimensions converge on a single conclusion: the basement level of consciousness is always one step below what can be observed.
 

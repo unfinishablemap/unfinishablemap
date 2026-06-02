@@ -5,6 +5,14 @@ ai_modified: 2026-06-02 13:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T06:30:38+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/minimal-consciousness-void]]
+- **Mode**: citation-hygiene de-quote (final facet of the 2026-06-02 outer-review cluster; IIT 4.0 scoping + MPE-92M non-independence already landed in commit d81d4068)
+- **Changes**: Schooler & Schreiber 2004 sentence (line 51) — removed quotation marks around a paraphrase dressed as a verbatim quote (quote-discipline defect; both ChatGPT and Claude web-verified JCS 11(7-8):17-39 that the detection/transformation/substitution framework is genuinely theirs but the quoted sentence is a paraphrase). Rendered as honest paraphrase, attribution preserved. Softened "demonstrates" → "argues" per evidential-status (introspection-misrepresentation is their position, not established fact). No confabulated replacement quote.
+- **Length**: neutral (~0 word change)
+- **Published**: yes
+
 ## 2026-06-02T12:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/altered-states-of-consciousness]]
