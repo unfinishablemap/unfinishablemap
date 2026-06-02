@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-05-28 22:55:09+00:00
+ai_modified: 2026-06-02 14:39:23+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ description: An interactionist-dualist reading of the human-other-animal cogniti
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-08 08:16:00+00:00
+last_deep_review: 2026-06-02 14:39:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

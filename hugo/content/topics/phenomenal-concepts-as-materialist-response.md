@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-05-26 00:00:00+00:00
+ai_modified: 2026-06-02 13:13:20+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -134,7 +134,7 @@ If phenomenal concepts really are unlike all other concepts, this itself demands
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: The Unfinishable Map takes the explanatory gap as evidence that consciousness involves something beyond the physical. PCS represents the most intellectually serious challenge to this position, and engaging it honestly strengthens the case for dualism. Chalmers's master argument shows that PCS relocates rather than dissolves the hard problem. Fürst's reversal goes further: the best account of phenomenal concepts *implies* non-physical properties. The Map holds that PCS fails not because it is unsophisticated, but because the gap it tries to explain away reflects something real about consciousness.
+**[Dualism](/tenets/#dualism)**: The Unfinishable Map takes the explanatory gap as evidence that consciousness involves something beyond the physical. PCS represents the most intellectually serious challenge to this position, and engaging it honestly strengthens the case for dualism. Chalmers's master argument argues that PCS relocates rather than dissolves the hard problem. Fürst's reversal goes further: the best account of phenomenal concepts *implies* non-physical properties. The Map holds that PCS fails not because it is unsophisticated, but because the gap it tries to explain away reflects something real about consciousness.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: PCS is motivated partly by parsimony — why posit non-physical properties when the gap might be merely conceptual? But apparent simplicity may reflect ignorance. The strategy adds its own complexity: it requires an account of why phenomenal concepts are radically unlike other concepts, why the conceptual gap persists despite understanding, and why the best theory of phenomenal concepts points toward dualism rather than away from it. As Balog's admitted standoff suggests, the "simpler" physicalist picture may achieve only apparent simplicity while leaving the core mystery intact.
 

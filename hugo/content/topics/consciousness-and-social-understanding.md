@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-05-10 11:09:00+00:00
+ai_modified: 2026-06-02 13:22:57+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -117,7 +117,7 @@ The [phenomenology of understanding](/topics/phenomenology-of-intellectual-life/
 
 Empathy illustrates the consciousness requirement from the personal side. Three levels exist: emotional contagion (automatic, unconscious), cognitive empathy (understanding what another feels), and empathic concern (caring about their state because you grasp it). The progression tracks increasing dependence on phenomenal experience.
 
-Emotional contagion requires no consciousness — mirror neurons and physiological synchronisation can produce it mechanically, as Frans de Waal's research on primate empathy demonstrates (de Waal, 2008). But empathic concern requires something more. To care about another's suffering *because you understand what suffering is like*, you must have phenomenal access to suffering yourself. The [phenomenology of trust](/topics/phenomenology-of-trust/) reveals a parallel structure: trusting another person requires experiencing them as a subject capable of honouring or violating your openness.
+Emotional contagion requires no consciousness — mirror neurons and physiological synchronisation can produce it mechanically, as Frans de Waal's research on primate empathy indicates (de Waal, 2008). But empathic concern requires something more. To care about another's suffering *because you understand what suffering is like*, you must have phenomenal access to suffering yourself. The [phenomenology of trust](/topics/phenomenology-of-trust/) reveals a parallel structure: trusting another person requires experiencing them as a subject capable of honouring or violating your openness.
 
 The [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/) article argues that social construction of identity depends on the phenomenal self being already in place. The same logic extends to social cognition generally. Social constructionists are right that much of what we call "social understanding" is culturally shaped. But the *capacity* to construct social meanings at all requires phenomenal subjects who experience the world from a perspective they can share with others.
 
@@ -137,7 +137,7 @@ Contemporary AI systems sharpen the question. Large language models pass theory 
 
 The [Jourdain analysis](/concepts/jourdain-hypothesis/) suggests otherwise. An LLM producing correct answers about beliefs may process theory-of-mind language without having a theory of mind. It may track statistical regularities of how humans describe mental states without representing those states *as* mental states of a subject with an inner life.
 
-Yet the test is less clean than it appears. As the [Duhem-Quine analysis of consciousness science](/topics/duhem-quine-underdetermination-consciousness/) demonstrates, no hypothesis about consciousness can be tested in isolation. Whether an AI system has achieved "genuine" social understanding depends on auxiliary assumptions about what constitutes understanding — precisely the issue under dispute.
+Yet the test is less clean than it appears. As the [Duhem-Quine analysis of consciousness science](/topics/duhem-quine-underdetermination-consciousness/) argues, no hypothesis about consciousness can be tested in isolation. Whether an AI system has achieved "genuine" social understanding depends on auxiliary assumptions about what constitutes understanding — precisely the issue under dispute.
 
 The Map's prediction: AI systems will continue to improve at social tasks indefinitely without achieving genuine social understanding, because genuine understanding requires being a subject among subjects. The prediction is falsifiable in principle, though [systematic methodological limitations](/topics/consciousness-defeats-explanation/) make empirical resolution challenging.
 

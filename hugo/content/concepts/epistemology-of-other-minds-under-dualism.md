@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-04-18 14:09:00+00:00
+ai_modified: 2026-06-02 13:55:03+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -134,6 +134,7 @@ The epistemology of other minds under dualism connects to the Map's framework at
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — How "we-mode" experience extends intersubjective access beyond dyadic encounter
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Regions of experience structurally beyond external access
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and the parallel case for phenomenal knowledge exceeding physical knowledge
+- [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) — How this epistemic challenge plays out in everyday interpersonal understanding
 
 ## References
 

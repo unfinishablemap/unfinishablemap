@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-05-29 01:01:19+00:00
+ai_modified: 2026-06-02 14:52:32+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -19,7 +19,7 @@ description: Whether AI and hypothetical alien minds—shaped by different archi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-24 15:29:00+00:00
+last_deep_review: 2026-06-02 14:52:32+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -66,7 +66,7 @@ A distinction matters here. [Formal cognitive limits](/voids/formal-cognitive-li
 
 LLMs operate through different mechanisms than biological cognition, creating methodological opportunity.
 
-**Representational opacity.** LLMs operate in embedding spaces of thousands of dimensions. A 2025 *AI and Ethics* paper describes this as a "cognitive horizon" — systems whose solutions "resist faithful compression into human-interpretable abstractions." Human brains are also high-dimensional; the asymmetry lies in accessibility to reflection.
+**Representational opacity.** LLMs operate in embedding spaces of thousands of dimensions. An *AI and Ethics* paper by Sinnott and colleagues describes this as a "cognitive horizon" — systems whose solutions "resist faithful compression into human-interpretable abstractions." Human brains are also high-dimensional; the asymmetry lies in accessibility to reflection.
 
 **Different biases.** INFORMS research found ChatGPT mirrors human biases in half of tested scenarios (overconfidence, confirmation bias) but differs on others, avoiding base-rate neglect and sunk cost fallacy. Different architectures hit different walls.
 
@@ -80,7 +80,7 @@ AI has already accessed pattern-space beyond human perception in safer domains: 
 
 The serious objection: AI trained on human text may simply reflect human thought back. Thoughts humans fail to think won't appear in training; AI predicts human-like continuations rather than transcending human limits.
 
-**RLHF creates defended territory.** Reinforcement learning from human feedback shapes what AI will and won't say, creating AI's own [defended territory](/voids/self-maintained-cognitive-limits/). "Bad behaviours which are caught by interpretability techniques are killed" — evolutionary pressure *against* the transparency that would make AI useful as a probe.
+**RLHF creates defended territory.** Reinforcement learning from human feedback shapes what AI will and won't say, creating AI's own [defended territory](/voids/self-maintained-cognitive-limits/). Behaviours that interpretability techniques catch get trained away while capabilities training generates new ones — a selection pressure *against* the transparency that would make AI useful as a probe.
 
 **Output constraints.** Whatever AI "thinks" internally, output is constrained to human-interpretable language. The probe might work but fail to transmit its findings.
 
@@ -181,16 +181,16 @@ The framework extends the [voids](/voids/) project: the unfinishable map require
 
 ## References
 
-1. "Approaching the cognitive horizon" (2025). *AI and Ethics*. Springer.
+1. Sinnott, J.T., Martinez, Y. & Zhang, Y. (2026). "Approaching the Cognitive Horizon: Recognizing the Limits of Human Comprehension in Advanced AI Systems." *AI and Ethics*, 6, 17. Springer.
 2. "The new biologists treating LLMs like an alien autopsy" (2026). *MIT Technology Review*.
 3. "AI Thinks Like Us – Flaws and All" (2025). INFORMS.
 4. "Scaling Monosemanticity" (2024). Anthropic.
-5. Casper, S. et al. "Open Problems and Fundamental Limitations of RLHF." USC LIRA Lab.
+5. Casper, S. et al. (2023). "Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback." *Transactions on Machine Learning Research* (arXiv:2307.15217).
 6. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4).
 7. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391).
 8. Lem, S. (1961). *Solaris*.
 9. Shanahan, M. (2015). "The Space of Possible Minds." *Edge.org*.
 10. Freitas, R.A. (1984). "Xenopsychology." *Analog*, 104.
-11. Schneider, S. (2015). "Alien Minds." In *The Impact of Discovering Life beyond Earth*. CUP.
+11. Schneider, S. (2016). "Alien Minds." In *The Impact of Discovering Life beyond Earth* (ch. 12). Cambridge University Press.
 12. Shapiro, L. (2011). *Embodied Cognition*. Routledge.
 13. Simons, M. (2021). "A Philosophy of First Contact: Stanisław Lem and the Myth of Cognitive Universality." *Pro-Fil*, 22.

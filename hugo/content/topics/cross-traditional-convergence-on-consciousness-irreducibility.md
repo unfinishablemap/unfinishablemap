@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-05-23 15:35:00+00:00
+ai_modified: 2026-06-02 12:20:49+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -115,7 +115,7 @@ The most striking feature of the pattern is not that traditions agree on irreduc
 | Western analytic | Yes | Debated | Debated | Debated |
 | Kyoto School | Yes | Pre-subjective | Anti-substantialist | Prior to causation |
 
-\*Buddhism's convergence is qualified: *svasaṃvedana* establishes that awareness is self-intimating and not capturable in third-person terms, which parallels the irreducibility finding. But Buddhist philosophy denies the inherent existence (*svabhāva*) that strong irreducibility claims typically presuppose, and the Mādhyamaka tradition rejects *svasaṃvedana* entirely. Buddhism resists physicalist reduction without endorsing the ontological independence that "irreducible" implies in most other traditions listed here.
+\*Buddhism's convergence is qualified: *svasaṃvedana* holds that awareness is self-intimating and not capturable in third-person terms, which parallels the irreducibility finding. But Buddhist philosophy denies the inherent existence (*svabhāva*) that strong irreducibility claims typically presuppose, and the Mādhyamaka tradition rejects *svasaṃvedana* entirely. Buddhism resists physicalist reduction without endorsing the ontological independence that "irreducible" implies in most other traditions listed here.
 
 These traditions do not agree because they share premises—they arrive at irreducibility, or conclusions structurally similar to it, *despite* their premises pulling in different directions. A Buddhist who denies substance and self still finds that awareness cannot be captured in purely third-person terms. A Sāṃkhya philosopher who affirms eternal substance and passive witness still finds irreducibility. An analytic philosopher who brackets all metaphysical commitments and works only with thought experiments still finds irreducibility. Nyāya's realist interactionism, Advaita's monist idealism, [Ibn Sīnā's](/concepts/islamic-sufi-philosophy-of-consciousness/) Aristotelian substance dualism, and Nishida's pre-subjective "pure experience" each bring radically different frameworks—yet each finds the same structural limit when third-person description confronts first-person acquaintance.
 

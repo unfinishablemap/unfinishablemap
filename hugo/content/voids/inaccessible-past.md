@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-05-27 22:30:00+00:00
+ai_modified: 2026-06-02 14:24:43+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ description: Past conscious states are structurally inaccessible at every scale 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-20 11:38:00+00:00
+last_deep_review: 2026-06-02 14:24:43+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -82,7 +82,7 @@ Proust built his work on involuntary memory — the madeleine summoning an entir
 
 ## The Historical Scale
 
-Beyond a single lifetime, the same inaccessibility applies — arguably with greater force. Did ancient humans experience consciousness the way we do? Jaynes, Snell, Barfield, Taylor, and McGilchrist have variously argued that consciousness itself has changed over historical time, not merely our descriptions of it. If any version is correct, past forms of consciousness are permanently inaccessible from within present-day experience. There may have been something it was like to think as a Homeric warrior or a Mesopotamian priest, but knowing what requires deploying the very modern consciousness that replaced it.
+Beyond a single lifetime, the same inaccessibility applies — arguably with greater force. Did ancient humans experience consciousness the way we do? If the historical-change thesis is correct in any version, past forms of consciousness are permanently inaccessible from within present-day experience. There may have been something it was like to think as a Homeric warrior or a Mesopotamian priest, but knowing what requires deploying the very modern consciousness that replaced it.
 
 ### Evidence for Historical Change
 
