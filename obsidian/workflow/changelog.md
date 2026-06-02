@@ -5,6 +5,15 @@ ai_modified: 2026-06-02T08:41:28+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T09:01:13+00:00 - condense
+- **Status**: Success
+- **File**: [[arguments/many-worlds-argument]]
+- **Before**: 3639 words (over 3500 hard ceiling)
+- **After**: 3477 words (under hard ceiling)
+- **Reduction**: 4.5%
+- **Technique**: Tightened verbose exposition only; cut no calibration, hedges, or citations. Main yield from the Branch-Relative Identity Programme section (~6 author-attributed engagements consolidated for concision — all citations and framing kept), plus the Indexical Problem, Process Philosophy, and Cumulative Case prose.
+- **Calibration preserved**: "A Non-Decisive Cost: Ontological Extravagance" section untouched — "non-decisive"/"not a knockdown argument" hedging intact (Tenet 5 discipline). All four arguments (Indexical, Probability, Preferred Basis, Consciousness Not Addressed) and their sub-structure preserved. Tenet-commitment-not-empirical-refutation framing intact ("does not refute on its own terms"; "tenet, not a derived conclusion"; "dispute open inside MWI, not closed by the Map's tenets"). All citation/year-tokens preserved (Saunders, Wallace, Tappenden, Vaidman, Mandolesi, Sebens-Carroll, Wilson, Albert-Loewer, Lockwood, Carroll, Tallis). "What Would Challenge This View?" and "Relation to Site Perspective" sections kept whole.
+
 ## 2026-06-02T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/the-subject-object-distinction-as-philosophical-discovery]] + [[concepts/concession-convergence]]
