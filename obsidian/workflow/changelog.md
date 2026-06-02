@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02T22:10:00+00:00
+ai_modified: 2026-06-02T22:12:42+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T22:12:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-disruption-and-the-mind-brain-interface]]
+- **Task**: Topic-concept anchoring-audit calibration alignment vs anchor [[neural-correlates-of-consciousness]] (live flag, failed_checks=[hedge_density, underdetermination_markers]).
+- **Primary fix**: Added a genuine, substantively-true underdetermination paragraph to the Discrimination Problem section — the NCC disruption evidence (anesthesia, coma, DoC, lesions) is consistent with both the physicalist substrate reading and the Map's dualist interface reading and does not settle which. Quote: *"the question of whether the neural side is the substrate of consciousness or its physical interface is underdetermined by the evidence … A reliable correlate, however precisely mapped, does not adjudicate between identity and mediation."* (2 recognized markers: "underdetermined by the evidence", "does not adjudicate")
+- **Secondary fixes**: Softened three over-assertions where a disruption result read as more decisive than warranted — "CMD shows apparent abolition is misdiagnosis" → "CMD suggests…"; Geschwind "demonstrated" → "indicated" (also drops a strong-assertion marker); CMD responses "—understanding language…" → "responses that appear to involve understanding language…".
+- **Anchoring result**: all axes now clear vs neural-correlates-of-consciousness — underdetermination 0→2, hedge_count 8→9, strong_assertion 0 (already clean). failed_checks 2/3 → 0/3, flag cleared. Re-ran evaluate_anchoring across all 19 anchors: all clear.
+- **Length**: body 3797 → 3920w (under topics hard 4000; 80w to spare). No content removed; no central claim weakened.
+- **Published**: yes (kept draft status as-is)
 
 ## 2026-06-02T22:10:00+00:00 - deep-review
 - **Status**: Success
