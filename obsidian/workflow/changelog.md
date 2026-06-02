@@ -5,6 +5,17 @@ ai_modified: 2026-06-02T22:12:42+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T22:16:48+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/clinical-phenomenology-and-altered-experience]]
+- **Task**: Topic-concept anchoring-audit calibration alignment vs anchor [[neural-correlates-of-consciousness]] (live flag, failed_checks=[hedge_density, underdetermination_markers]; strong_assertion already 0). Sibling of the consciousness-disruption fix, separate article.
+- **Primary fix**: Added a genuine, substantively-true underdetermination passage to the "Interpretation underdetermination" methodological-challenges item — the altered-experience evidence (psychosis, dissociation, depersonalization, psychedelic states) is consistent with both the physicalist substrate reading and the Map's dualist interface reading and does not settle the metaphysics. Quote: *"the metaphysics is underdetermined by the evidence: the altered-experience findings … are consistent with the physicalist reading on which these are alterations in the neural *substrate* of consciousness and with the Map's reading on which they are alterations at the mind-brain *interface*. The clinical evidence does not adjudicate between the two; it constrains which framework is more parsimonious without deciding which is true."* (recognized markers: "underdetermined by the evidence", "does not adjudicate".)
+- **Secondary fixes**: Softened two genuine over-assertions of metaphysical decisiveness — "DPD reveals that normal experience has at least three global features…" → "DPD is consistent with normal experience having…"; "This is precisely what the clinical evidence consistently shows." → "This is consistent with what the clinical evidence consistently displays." No filler hedges added; no central thesis weakened.
+- **Anchoring result**: underdetermination_marker_count 0 → 3; hedge_count unchanged at 8 (hedge_density 2.345 → 2.294 with the longer body). failed_checks 2/3 → 0/3, flag cleared (re-ran evaluate_anchoring; no flags).
+- **Length**: body 3412 → 3487w (under topics hard 4000; ~513w headroom). No content removed.
+- **Original score**: n/a (calibration-targeted refine, not a full quality review)
+- **Published**: yes
+
 ## 2026-06-02T22:12:42+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-disruption-and-the-mind-brain-interface]]
