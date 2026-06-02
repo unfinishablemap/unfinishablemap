@@ -5,6 +5,20 @@ ai_modified: 2026-06-02 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T03:20:52+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/forward-in-time-conscious-selection]]
+- **Word count**: 3746 words on disk — unchanged (metadata-only verdict; 125% of 3000 topics/ soft, under hard 4000; own-content growth within bounds, no length action)
+- **Bucket**: b-own-development — scoped by diff against last-review commit 91862267a to the built comparative ledger (retrocausal vs forward-in-time, commit ab15b25ce) + calibration-softening + two citation fixes. Confirmed genuine own-development, not calibration-import.
+- **Critical issues addressed**: 0 — diff is overwhelmingly calibration-TIGHTENING (sidesteps→may sidestep, established→argued, confirms→points to, does not arise→appears not to arise, directly enacted→enacted-by-construction)
+- **Evidential-status (load-bearing)**: PASS. Diagnostic test applied to every new ledger passage — both forward and retrocausal kept as live candidate mechanisms; forward-preference framed as tenet-derived theoretical virtue, never empirical confirmation. Dualism-tenet passage self-invokes possibility-probability-slippage discipline ("coherent with rather than evidenced by"). defeater-removal ≠ evidence honoured throughout.
+- **Boundary-substitution**: PASS. No-MWI engagement is genuine indexical/counterfactual-exclusion work routing branch-local restatement to framework-boundary register (Mode Three honest); Duch closure honestly boundary-marked. No editor-label leakage; no "This is not X. It is Y." cliché.
+- **Citation web-verify**: Colanero 2012 (arXiv:1208.0904) VERIFIED clean (correctly replaced fabricated Luppi-&-Adlam); Duch 2019 Physics of Life Reviews 31:28-31 DOI verified (NASA/ADS 2019PhLRv..31...28D); ABL/two-state-vector retrocausal cites VERIFIED proponent-stance, no stance-reversal; Kastner transactional correctly characterised.
+- **Engagement modes**: Duch (2005,2019) Mode Three; MWI-defender Mode Three (boundary-marked, not refuted in-framework).
+- **Low (not blocking, pre-existing)**: Ghirardi-Rimini-Weber (ref #6) orphan reference (surname never spelled out in body) — does legitimate GRW backing work for spontaneous-collapse claims; left as-is.
+- **Cross-links**: all new ledger links resolve live (many-worlds-argument, conjunction-coalesce, selection-criterion-problem, forward-in-time-vs-time-symmetric-selection, possibility-probability-slippage, evidential-status-discipline).
+- **Output**: [[reviews/deep-review-2026-06-02-forward-in-time-conscious-selection]]
+
 ## 2026-06-02T03:16:05+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/methodological-pluralism]]
