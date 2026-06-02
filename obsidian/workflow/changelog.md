@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02 00:30:19+00:00
+ai_modified: 2026-06-02 00:39:19+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T00:39:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/illusionism]]
+- **Word count**: 3486 → 3499 (+13; still soft_warning, 1 word under 3500 concepts hard threshold)
+- **Critical issues addressed**: 0 (no STANCE/attribution/calibration defects found)
+- **Medium issues addressed**: 1 (Morozov (2025) cited in body but missing from References — added verified PhilArchive entry; also completed Loginov (2024) ref with DOI/volume 15:1449314)
+- **Primary task — substantive-touch audit**: CHANGED-SINCE-REVIEW pick. Web-verified the Loginov (2024) STANCE-fix (commit 0a6ed993e) is STABLE — Loginov correctly framed as CRITIC of the anti-illusionism Moorean argument (Frontiers Psych 15:1449314, "cannot refute illusionism"), with the external-world-proof subtlety handled cleanly. Morozov (2025) correctly framed as DEFENDER (PhilArchive MORIDO-20). Frankish correctly PRO-illusionist throughout. Meta-representational-bridge engagement (commit 3fc04dd15) lands correctly.
+- **Engagement classification (editor-internal)**: Frankish — Mode Two (unsupported foundational move: bridge owed by illusionism's own standard) → Mode Three on intrinsic-quality residue (framework boundary, honestly declared). No label leakage in prose.
+- **Length note**: cycle-pick steering reported 3597/over-hard; actual on-disk = 3499, under hard. NOT an over-ceiling article; no human length decision required. Watch for length-neutral discipline going forward.
+- **Output**: [[reviews/deep-review-2026-06-02-illusionism]]
 
 ## 2026-06-02T00:30:19+00:00 - deep-review
 - **Status**: Success

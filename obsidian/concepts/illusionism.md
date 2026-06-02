@@ -4,7 +4,7 @@ description: "The radical claim that phenomenal consciousness is an introspectiv
 created: 2026-01-14
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-06-01T20:40:00+00:00
+ai_modified: 2026-06-02T00:39:19+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,7 +45,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-05-01T05:40:00+00:00
+last_deep_review: 2026-06-02T00:39:19+00:00
 ---
 
 Illusionism is the most radical physicalist response to the [[hard-problem-of-consciousness|hard problem]]. Rather than explaining how [[phenomenal-consciousness]] arises from physical processes, illusionists deny that it exists at all. The "what it's like" aspect of experience—the redness of red, the painfulness of pain—is, on this view, an introspective illusion.
@@ -195,7 +195,8 @@ Illusionism directly challenges the Map's [[tenets]]:
 - Graziano, M. S. A. (2024). "Illusionism Big and Small." *Journal of Consciousness Studies*.
 - Kammerer, F. (2017). "Can you believe it? Illusionism and the illusion meta-problem." *Philosophical Psychology*, 31(1).
 - Kammerer, F. (2022). "How Can You Be So Sure? Illusionism and the Obviousness of Phenomenal Consciousness." *Philosophical Studies*.
-- Loginov, E. V. (2024). "Illusionism, Moore, and Chalmers." *Frontiers in Psychology*.
+- Loginov, E. V. (2024). "Illusionism, Moore, and Chalmers." *Frontiers in Psychology*, 15:1449314.
+- Morozov, K. (2025). "In Defense of Moorean Argument Against Illusionism." PhilArchive.
 - Pereboom, D. & Frankish, K. (2021). "Illusionism about Phenomenal Consciousness." *Review of Philosophy and Psychology*.
 - Strawson, G. (2018). "The Consciousness Deniers." *New York Review of Books*.
 - Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
