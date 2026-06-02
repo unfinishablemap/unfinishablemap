@@ -5,6 +5,17 @@ ai_modified: 2026-06-02T19:50:32+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T20:07:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/void-as-ground-of-meaning]]
+- **Four-bucket**: (b) genuine own-content — the changed-since-review diff is the Buddhist/Eastern dossier + contextualist-worry section, the parallels the 2026-04-25 review explicitly deferred as "requires dedicated research." Full web-verify pass on the new dense-citation zone.
+- **Word count (body)**: 2367 → 2370 (+3; verbatim quote replacing paraphrase, offset by frontmatter/FR dedup; length-neutral, soft_warning, well below 3000 hard)
+- **Critical issues addressed**: 1 (MMK 24.10 paraphrase-as-quote attributed to "Garfield trans." → replaced with exact Garfield 1995 wording, verified against 2 independent sources)
+- **Medium issues addressed**: 1 (duplicate [[creative-aesthetic-void]] in related_articles + Further Reading, a coalesce artefact — de-duplicated)
+- **Web-verify (load-bearing)**: Sharf 1995 Numen 42(3):228–283 CORRECT; Katz 1978 pp.22–74 OUP CORRECT; MMK 24.10 Garfield DEFECT→FIXED; Nishitani "nothingness that is lived" quote CORRECT (verbatim); Forman 1990 OUP CORRECT; Stace 1960 Macmillan CORRECT.
+- **Engagement classification (editor-internal)**: contextualist worry (Katz/Sharf) — Mode One, internal-to-opponent rebuttal already present in natural prose, no leakage, no boundary-substitution. *Anātman* tension — Mode Three, framework-boundary honestly marked.
+- **Output**: [[reviews/deep-review-2026-06-02-void-as-ground-of-meaning]]
+
 ## 2026-06-02T20:01:38+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/channel-class-taxonomy]]
