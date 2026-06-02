@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-06-01 22:37:08+00:00
+ai_modified: 2026-06-02 16:22:55+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -60,7 +60,7 @@ The popular account of incubation says: the unconscious mind continues working o
 
 This interpretation faces several difficulties. It is worth stating at the outset that the underlying mechanism of incubation remains genuinely contested — spreading activation, selective forgetting, and fixation release are all live candidates, and the behavioural data may be underdetermined by the evidence as to which dominates. The difficulties below do not adjudicate that internal dispute; they bear on the stronger claim that *unconscious computation* does the creative work.
 
-**The scope of unconscious processing is far more limited than assumed.** A 2025 meta-analysis (Randeniya) reanalyzed 80 experimental conditions from 16 fMRI studies claiming to demonstrate subliminal processing. Only 8 conditions (10%) provided genuine evidence for unconscious processing once methodological issues were addressed. The neuroimaging case for extensive unconscious cognition—long treated as settled—was substantially weaker than believed. If the neural evidence for unconscious integration is this fragile, attributing complex creative problem-solving to unconscious computation requires stronger support than incubation studies alone provide. See [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) for detailed treatment.
+**The scope of unconscious processing is far more limited than assumed.** A 2025 meta-analysis (Streicher et al.) reanalyzed 80 experimental conditions from 16 fMRI studies claiming to demonstrate subliminal processing. Only 8 conditions (10%) provided genuine evidence for unconscious processing once methodological issues were addressed. The neuroimaging case for extensive unconscious cognition—long treated as settled—was substantially weaker than believed. If the neural evidence for unconscious integration is this fragile, attributing complex creative problem-solving to unconscious computation requires stronger support than incubation studies alone provide. See [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) for detailed treatment.
 
 **Incubation effects are inconsistent.** If a powerful unconscious problem-solver were reliably at work during breaks, the incubation effect should be robust and general. Instead, it is modest and task-specific, appearing mainly for associative problems and often failing to replicate for analytic ones. The inconsistency better fits a model where incubation benefits come from fixation release and altered conscious processing upon return, rather than from unconscious computation during the break.
 
@@ -119,7 +119,7 @@ The Map's interpretation of incubation would face difficulty if:
 
 1. **Incubation worked without prior conscious engagement.** If stepping away from a problem encountered only briefly produced the same benefit as stepping away after sustained effort, conscious preparation would be unnecessary. Current evidence: it does not.
 
-2. **Unconscious integration was demonstrated to be extensive.** If complex novel combinations reliably occurred under subliminal conditions, the claimed limits of unconscious processing would be wrong. Current evidence is against this (Zher-Wen & Tsuchiya 2023; Randeniya 2025).
+2. **Unconscious integration was demonstrated to be extensive.** If complex novel combinations reliably occurred under subliminal conditions, the claimed limits of unconscious processing would be wrong. Current evidence is against this (Zher-Wen & Tsuchiya 2023; Streicher et al. 2025).
 
 3. **NREM incubation matched REM.** If dreamless sleep produced the same creative benefits as dreaming, the phenomenal dimension would be dispensable. Current evidence: REM outperforms NREM for creative tasks (Cai et al. 2009).
 
@@ -156,7 +156,7 @@ The Map's interpretation of incubation would face difficulty if:
 1. Konkoly, K. R., et al. (2026). Creative problem-solving after experimentally provoking dreams of unsolved puzzles during REM sleep. *Neuroscience of Consciousness*, 2026(1), niaf067.
 1. Lacaux, C., Andrillon, T., Bastoul, C., et al. (2021). Sleep onset is a creative sweet spot. *Science Advances*, 7(50), eabj5866.
 1. Poincaré, H. (1910). Mathematical creation. *The Monist*, 20(3), 321-335.
-1. Randeniya, R. (2025). Neural correlates of unconscious processing in fMRI. *Neuroscience of Consciousness*, 2025(1), niaf042.
+1. Streicher, J., Meyen, S., Franz, V. H., & Stein, T. (2025). Neural correlates of unconscious processing in fMRI. *Neuroscience of Consciousness*, 2025(1), niaf042.
 1. Sio, U. N., & Ormerod, T. C. (2009). Does incubation enhance problem solving? A meta-analytic review. *Psychological Bulletin*, 135(1), 94-120.
 1. Smith, S. M., & Blankenship, S. E. (1991). Incubation and the persistence of fixation in problem solving. *American Journal of Psychology*, 104(1), 61-87.
 1. Wallas, G. (1926). *The Art of Thought*. Harcourt, Brace.

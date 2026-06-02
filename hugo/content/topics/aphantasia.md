@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-05-13 11:55:32.555137+00:00
+ai_modified: 2026-06-02 16:33:40+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -24,7 +24,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/FjkqqFUeqrk
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-08 16:07:00+00:00
+last_deep_review: 2026-06-02 16:33:40+00:00
 modified: *id001
 related_articles:
 - '[[imagery-void]]'
@@ -99,7 +99,7 @@ This sets up the central wedge. If two minds perform demonstrably the same cogni
 
 Each option is metaphysically loaded. Option 1 makes phenomenal imagery a candidate epiphenomenon at the task level. Option 2 saves [functionalism](/concepts/functionalism/) but at the cost of fine-grained individuation that has to be specified. Option 3 ([introspective unreliability](/concepts/introspection/)) sits with Schwitzgebel's broader claim that introspective knowledge of conscious experience is highly inaccurate, untrustworthy, and faulty (Schwitzgebel 2008) and weakens the evidential value of all imagery reports. Taken to its limit, option 3 dissolves the wedge from a different angle than options 1 and 2: if neither cohort's reports are reliable, then we do not know that the phenomenologies diverge in the way the cohort labels suggest, and the within-species comparison loses its evidential grip. The argument from aphantasia therefore depends on giving introspective reports *some* evidential weight—enough to register the contrast, even if not enough to settle which option is correct.
 
-The [imagery void](/voids/imagery-void/) gives the abstract structural treatment of why this trichotomy cannot be settled from inside the imager's perspective. The 2025 *Mind & Language* exchange between Bence Nanay and Christoph Scholz takes a different route, asking whether aphantasics have *unconscious* imagery: imagery-shaped neural activity that does the cognitive work imagers consciously experience. Nanay (2025) argues the predictive-processing framework supports this reading; Scholz (2025) argues that the unconscious-imagery hypothesis stretches the concept of imagery beyond useful definition. As of 2026, the dispute remains open—a 2026 *Brains Blog* summary of the state of the art described it with characteristic honesty: "we still don't know."
+The [imagery void](/voids/imagery-void/) gives the abstract structural treatment of why this trichotomy cannot be settled from inside the imager's perspective. The 2025 *Mind & Language* exchange between Bence Nanay and Christian Scholz takes a different route, asking whether aphantasics have *unconscious* imagery: imagery-shaped neural activity that does the cognitive work imagers consciously experience. Nanay (2025) argues the predictive-processing framework supports this reading; Scholz (2025) argues that the unconscious-imagery hypothesis stretches the concept of imagery beyond useful definition. As of 2026, the dispute remains open—a 2026 *Brains Blog* summary of the state of the art described it with characteristic honesty: "we still don't know."
 
 ## Why Single-Species Variation Matters
 
@@ -142,8 +142,8 @@ The Map also speculates—at the level of explicit speculation, not tenet-level 
 8. Dance, C. J., Ipser, A., & Simner, J. (2022). The prevalence of aphantasia (imagery weakness) in the general population. *Consciousness and Cognition*, 97, 103243.
 9. Larner, A. (2024). Phantasia, aphantasia, and hyperphantasia: Empirical data and conceptual considerations. *Neuroscience and Biobehavioral Reviews*. https://www.sciencedirect.com/science/article/abs/pii/S0149763424002884
 10. Lennon, P. (2023). Aphantasia and Conscious Thought. In U. Kriegel (ed.), *Oxford Studies in Philosophy of Mind*, Vol. 3. Oxford University Press. https://philarchive.org/archive/LENAAC-3
-11. Nanay, B. (2025). Mental imagery, predictive processing, aphantasia, and the interaction between philosophy and cognitive science. *Mind & Language*. https://onlinelibrary.wiley.com/doi/full/10.1111/mila.12561
-12. Scholz, C. (2025). Mental imagery through the lens of aphantasia. *Mind & Language*. https://onlinelibrary.wiley.com/doi/10.1111/mila.12560
+11. Nanay, B. (2025). Mental imagery, predictive processing, aphantasia, and the interaction between philosophy and cognitive science. *Mind & Language*, 40(3), 333–340. https://onlinelibrary.wiley.com/doi/full/10.1111/mila.12561
+12. Scholz, C. O. (2025). Mental imagery through the lens of aphantasia. *Mind & Language*, 40(3), 317–324. https://onlinelibrary.wiley.com/doi/10.1111/mila.12560
 13. Schwitzgebel, E. (2008). The Unreliability of Naive Introspection. *The Philosophical Review*, 117(2). https://faculty.ucr.edu/~eschwitz/SchwitzPapers/Naive070907.htm
 14. Stanford Encyclopedia of Philosophy. Mental Imagery. https://plato.stanford.edu/entries/mental-imagery/
 15. Southgate, A. & Oquatre-sept, C. (2026-04-28). The Imagery Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/imagery-void/

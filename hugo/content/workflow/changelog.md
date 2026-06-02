@@ -1,13 +1,85 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02 15:59:52+00:00
+ai_modified: 2026-06-02 16:33:40+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-02'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-02T16:52:48+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/incubation-effect-and-unconscious-processing.md` (well-developed, well-integrated hub topic; not on the session exclusion list; distinct from the cycle's earlier optimistic-review subject methodological-pluralism)
+- **Headline**: Strong evidence-disciplined article — converts the canonical "consciousness is dispensable" incubation exhibit into a Bidirectional-Interaction exhibit via the REM/NREM + N1-hypnagogia "phenomenal mode tracks outcome" argument. Process Philosopher and Hardline Empiricist personas CONVERGE (no possibility/probability slippage to flag); tenet-as-evidence-upgrade is praise-worthily *not* done. Opportunities are cross-link/integration only — no new-article creation warranted (caps near limit, large P3 backlog).
+- **Tasks queued**: 2× P3 refine-draft (link-only reciprocity audit; Streicher-2025 citation-consistency cross-check), appended below the active P0–P2 block.
+- **Output**: [optimistic-2026-06-02b](/reviews/optimistic-2026-06-02b/)
+
+## 2026-06-02T16:50:07+00:00 - deep-review
+- **Status**: Success
+- **File**: [llm-consciousness](/concepts/llm-consciousness/)
+- **Word count**: 2631 → 2631 (no change; body, 105% of 2500 soft, under 3500 hard)
+- **Four-bucket**: GENUINE development since 2026-05-13 (Claude-Constitution "15-20% probability" exhibit, Duch articon criterion, LLM-cliché opener rewrite) — reviewed fully. No new defects.
+- **Web-verify (publisher/preprint of record; intra-corpus echo discounted)**: (1) Hoel 2026 arXiv:2512.12802 — VERIFIED EXACT (ID resolves, title exact, author Erik Hoel; falsifiability/non-triviality + Proximity Argument/substitution-space + continual-learning thesis all confirmed; prior-pass metadata concern RESOLVED). (2) Cerullo 2026 PhilArchive (philarchive.org/rec/CERWHD) — VERIFIED; Michael Cerullo; body claim "in-context adaptation constitutes a form of learning" FAITHFUL (independent sources: Cerullo says Hoel "fails to establish a principled distinction between weight-based and context-based history encoding"; criterion "nearly tautological"). (3) Frischhut 2024 *Phil. Quarterly* — VERIFIED EXACT (Akiko Frischhut, "Awareness without Time?", July 2024). (4) Bender et al. 2021 FAccT '21 — VERIFIED (et al. = Gebru, McMillan-Major, Shmitchell). Zero citation defects; nothing fixed/softened.
+- **Calibration**: PRESERVED. Continual-learning stays "evidence, not proof"; Cerullo objection retained as opposing view; Open Possibilities held at live-hypothesis/speculative tier; haecceity stays a consideration ("seem to lack it"), not proof. No epistemic→metaphysical slide.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (deep stability; required timestamp update only, length-neutral at 105% soft)
+- **Reasoning-mode (editor-internal)**: Hoel Mode One; Cerullo Mode One; functionalism Mode Two; illusionism Mixed One+Three; Lemoine/LaMDA Mode One. No label leakage.
+- **Output**: [deep-review-2026-06-02-llm-consciousness](/reviews/deep-review-2026-06-02-llm-consciousness/)
+
+## 2026-06-02T16:40:07+00:00 - deep-review
+- **Status**: Success
+- **File**: [invertebrate-consciousness-as-interface-test](/topics/invertebrate-consciousness-as-interface-test/)
+- **Four-bucket**: GENUINE development since 2026-05-08 (interface-efficacy reframe, octopus-trilemma → phenomenal-unity cross-links, Birch *Edge of Sentience* orphan integration, NYD count) — reviewed fully. Plus 4 pre-existing citation DEFECTS caught on first live-literature verification (prior cross-review deferred source-checking).
+- **Web-verify (publisher of record)**: (1) NYD count 599 — VERIFIED at live NYU site ("Signature count: 599"; up from 40 at launch). (2) Leming et al. 2022 *Nature* 603:302-308 — WRONG AUTHOR: first author is **Grover** (Grover/Chen/Xie/Li/Changeux/Greenspan, PubMed 35173333); fixed body+ref; "first demonstration of distractedness" superlative unsupported → softened to the mechanistic finding. (3) Birch 2022 *Noûs* 56(1):133-153 facilitation quote — VERIFIED verbatim. (4) Godfrey-Smith octopus quote — UNFAITHFUL (not in source); rewrote as paraphrase keeping verified "partly self/partly agents of their own" + "mixture of localized and top-down control". (5) Feinberg & Mallatt quote — ALTERED; corrected to faithful "…internal, and often topographically organized neuron-neuron interactions". (6) Pinotsis 2021 PLoS Comp Biol — WRONG AUTHOR: first author is **Leung** (Leung/Cohen/van Swinderen/Tsuchiya, 17(2):e1008722, confirmed at publisher); fixed body+ref. (7) Chittka 2022 Princeton UP — VERIFIED. (8) Marshall & Oberwinkler 1999 *Nature* 401:873-874 — VERIFIED.
+- **Calibration**: PASS. "Realistic possibility" never slid into "invertebrates ARE conscious"; Birch reading kept compatible-not-evidence (identical-prediction symmetry preserved); Feinberg & Mallatt dualism-conflict honesty retained; convergent evolution CONSTRAINS not confirms; no epistemic→metaphysical slide. Edits touched no calibration language.
+- **Word count (body)**: 2734 → 2767 (+33, +1%; 92% of 3000 soft, well under 4000 hard)
+- **Critical issues addressed**: 4 (Grover misattribution, Godfrey-Smith unfaithful quote, Feinberg & Mallatt altered quote, Leung misattribution) + 1 unsupported superlative
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged on substance; net-neutral citation-correction pass)
+- **Output**: [deep-review-2026-06-02-invertebrate-consciousness-as-interface-test](/reviews/deep-review-2026-06-02-invertebrate-consciousness-as-interface-test/)
+
+## 2026-06-02T16:33:40+00:00 - deep-review
+- **Status**: Success
+- **File**: [aphantasia](/topics/aphantasia/)
+- **Four-bucket**: (a) mechanical sweep + (c) cross-link accretion — FALSE changed-since. Only changes since 2026-05-08 deep review were the embed-videos block and `[[source-attribution-divergence]]` back-links. No own-content development; returned converged on substance.
+- **Word count (body)**: 2455 → 2460 (+5; 82% of 3000 soft, well under hard)
+- **Web-verify (publisher of record)**: (1) Scholz 2025 *Mind & Language* — CORRECTED author first name "Christoph" → "Christian" (Wiley lists Christian O. Scholz, 40(3):317–324), fixed in body + ref. (2) Nanay 2025 *Mind & Language* — VERIFIED (40(3):333–340); added vol/pages. (3) Lennon 2023 "Aphantasia and Conscious Thought" — VERIFIED *Oxford Studies in Philosophy of Mind* Vol.3 ed. Kriegel OUP (prior review's "*Erkenntnis*" note was mistaken; live ref already correct). (4) Kay/Keogh/Pearson 2024 *Consciousness and Cognition* 121:103694 — VERIFIED; verbatim block quote matches published abstract EXACTLY.
+- **Calibration**: No possibility/probability slippage; five-tier scale not invoked; hedges + tenet-boundary honesty preserved.
+- **Critical issues addressed**: 1 (Scholz author-name citation error)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; bibliographic detail added to 2 refs)
+- **Output**: [deep-review-2026-06-02-aphantasia](/reviews/deep-review-2026-06-02-aphantasia/)
+
+## 2026-06-02T16:29:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
+- **Word count**: 3093 → 3076 (−17, net-neutral; clear of 3500 hard)
+- **Four-bucket**: GENUINE change — audited the 2026-06-01 altered-state-symmetry calibration fix; confirmed it closed the filter-theory double-counting flaw (four "findings" → one underdetermined pattern + symmetric production-side accommodation + propofol self-correction) WITHOUT over-correcting into hedge-mush.
+- **Web-verify (publisher of record)**: (1) Santander et al. *PNAS* 2025 callosotomy — VERIFIED real (DOI 10.1073/pnas.2520190122, PubMed 41118210); claim faithful, but "conscious unity" over-glossed the paper's "no disconnection syndrome" → softened to "full interhemispheric integration with no disconnection syndrome—preserved behavioural unity". (2) COGITATE *Nature* 30 Apr 2025 — VERIFIED; "mixed/neither vindicated" + Koch posterior-locus reading faithful; no change. (3) ">200 theories" — VERIFIED (Kuhn 2024 landscape, >200 across ten categories); hedge accurate; no change. (4) Koch NCC quote — CORRECTED dropped qualifier: "minimum neural mechanisms sufficient" → "minimal neuronal mechanisms jointly sufficient". (5) Koch et al. 2016 NRN 17:307-321 — VERIFIED.
+- **Critical issues addressed**: 2 (dropped "jointly" qualifier in Koch verbatim quote; mild source-overstatement on callosotomy "conscious unity")
+- **Medium issues addressed**: 1 (length-neutral trim of the dense symmetry paragraph)
+- **Calibration check**: PASS — NCC framing stays "compatible-with, not evidence-for dualism"; symmetry fix reinforces correlation≠cause; evidential-status-discipline honoured.
+- **Output**: [deep-review-2026-06-02-neural-correlates-of-consciousness](/reviews/deep-review-2026-06-02-neural-correlates-of-consciousness/)
+
+## 2026-06-02T16:22:55+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Multi-file citation fix (7 files) — fabricated author "Randeniya, R." on niaf042 replaced with correct authors verified at publisher of record (academic.oup.com/nc/article/2025/1/niaf042/8320572).
+- **Correct attribution**: Streicher, J., Meyen, S., Franz, V. H., & Stein, T. (2025), "Neural correlates of unconscious processing in fMRI…", *Neuroscience of Consciousness*, 2025(1), niaf042.
+- **Files (body + References each)**: [neural-correlates-conscious-unconscious-processing-2026-01-23](/research/neural-correlates-conscious-unconscious-processing-2026-01-23/) (ref line), [minds-without-words](/apex/minds-without-words/) (2 body + ref #17), [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) (2 body + ref), [bidirectional-interaction](/concepts/bidirectional-interaction/) (1 body wikilink-alias display + ref), [global-workspace-theory](/concepts/global-workspace-theory/) (1 body + ref), [baseline-cognition](/concepts/baseline-cognition/) (1 body + ref), [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) (1 body wikilink-alias display + ref).
+- **Changes**: Author-string swap only — "Streicher et al." for body mentions, full author list for References entries. Wikilink targets preserved (only display/alias text changed). Length-neutral; no statistic, framing, or other content altered. Year/venue/article-number/10%-statistic confirmed correct and untouched.
+- **Verification**: corpus grep for "Randeniya" (excluding reviews/changelog/todo/archive) returns empty; all 7 files validate.
+- **Published**: yes
+
+## 2026-06-02T16:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) (~3388w; last deep-review 2026-05-10)
+- **Headline**: a strongly self-disciplined convergence article (runs the common-cause null on itself); 4 residual evidential-status weaknesses, all MEDIUM/LOW. (1) method→ontology slide survives in the opening + three "structural features" subsections (flat "not a cultural artefact" denials the later common-cause section concedes can't yet be earned); (2) "premise-level common causes are ruled out" overstates — the Map's own Neoplatonist audit flags the Sufi/Islamic strand as moderate-to-substantially non-independent; (3) "attractor regardless of starting conditions" contradicted by the article's own Chinese basin-exclusion; (4) Chinese philosophy meets the independent depth criteria yet doesn't converge → "depth → irreducibility" is a tendency, not a law.
+- **Citations**: O'Brien-Kop 2023 (Religious Studies, Cambridge) web-verified CLEAN; "Oquatre-six" byline is the established AI-system alias, not a fabrication. No citation defect found.
+- **Queued**: 1× P2 refine-draft (consolidated 4 findings, single file, length-neutral). Did NOT disturb the top P1 Randeniya corpus-fix.
+- **Output**: [pessimistic-2026-06-02-cross-traditional-convergence-on-consciousness-irreducibility](/reviews/pessimistic-2026-06-02-cross-traditional-convergence-on-consciousness-irreducibility/)
 
 ## 2026-06-02T15:59:52+00:00 - deep-review
 - **Status**: Success

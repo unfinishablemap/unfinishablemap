@@ -5,6 +5,22 @@ ai_modified: 2026-06-02T16:33:40+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T17:03:58+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/cross-traditional-convergence-on-consciousness-irreducibility]]
+- **Source**: Consolidated calibration refine from pessimistic-review 2026-06-02 (4 MEDIUM/LOW findings + 1 minor). Tightening pass, no retractions.
+- **Changes**:
+  1. Method→ontology slide: opening closer and the three structural-feature closers (Asymmetry, Regress, Gap) softened from flat denials ("not a cultural artefact" / "structural, not cultural" / "genuine logical distinction, not a shared bias") to "weakens *premise-level* common cause; residual introspection-architecture common cause open below," each forward-anchored to the Common-Cause-Null section. No "not X, it is Y" cliché used.
+  2. Independence overstatement: common-cause bullet "premise-level common causes ruled out" → "substantially weakened"; added inline acknowledgment (bullet + post-table note) that the Map's own [[neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels|Neoplatonist audit]] assigns moderate-to-substantial historical-transmission weight to the Islamic (Ibn Sīnā) strand, so that table row overstates isolation; leaned evidential weight onto Advaita (audit's cleanest-isolation case). Audit verdict represented faithfully (verified on disk, not fabricated).
+  3. Attractor metaphor: "regardless of starting conditions" → basin-qualified ("within its basin"; mind-matter-distinguishing frameworks only), reconciling it with the article's own Chinese basin-exclusion.
+  4. Depth criteria: stated plainly that Chinese philosophy meets the article's own independent depth criteria yet does not converge → "depth → irreducibility" is a tendency not a law; relocated the convergence's evidential weight onto number + premise-diversity of converging deep traditions.
+  - Minor: Ubuntu/Akan-*sunsum* "reach the same structural conclusion" sentence softened (no citation in hand; per instructions softened rather than fabricate) and flagged provisional.
+- **Engagement classifications**: n/a (no named-opponent reply changed; mysterianism/eliminativist objections untouched).
+- **Preserved (verified intact)**: §Engaging-the-Common-Cause-Null, §three-independent-routes refusal, Buddhism "Qualified*" footnote, Chinese counter-example, all existing evidential-status hedges.
+- **Body word count**: 3291 → 3655 (calibration qualifications are net-additive; offset by condensing non-protected exposition. Comfortably under 4000 topics hard ceiling).
+- **Validation**: ✓ Valid.
+- **Published**: yes (draft: false retained)
+
 ## 2026-06-02T16:52:48+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/incubation-effect-and-unconscious-processing.md` (well-developed, well-integrated hub topic; not on the session exclusion list; distinct from the cycle's earlier optimistic-review subject methodological-pluralism)

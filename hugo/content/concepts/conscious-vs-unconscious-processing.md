@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-05-26 16:05:09+00:00
+ai_modified: 2026-06-02 16:22:55+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -57,7 +57,7 @@ This consensus is now under serious challenge.
 
 ### The 2025 fMRI Reanalysis
 
-[Randeniya's 2025 meta-analysis](/research/neural-correlates-conscious-unconscious-processing-2026-01-23/) applied rigorous sensitivity comparison methods to 16 fMRI studies across 80 experimental conditions. For a study to demonstrate unconscious processing, it must show both (1) that subjects cannot consciously discriminate the stimulus and (2) that brain activity still contains information about it—with the neural signal exceeding the behavioral discrimination.
+[Streicher et al.'s 2025 meta-analysis](/research/neural-correlates-conscious-unconscious-processing-2026-01-23/) applied rigorous sensitivity comparison methods to 16 fMRI studies across 80 experimental conditions. For a study to demonstrate unconscious processing, it must show both (1) that subjects cannot consciously discriminate the stimulus and (2) that brain activity still contains information about it—with the neural signal exceeding the behavioral discrimination.
 
 Only 8 conditions (10%) provided robust evidence for genuine unconscious processing. The remaining 90% of claimed effects could be attributed to weak conscious perception at threshold, methodological confounds, or criterion contamination (participants' awareness criteria differing from researchers' assumptions).
 
@@ -291,7 +291,7 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 1. Naccache, L., & Marti, S. (2016). Why the P3b is still a plausible correlate of conscious access? A commentary on Silverstein et al., 2015. *Cortex*, 85, 126-128.
 1. Overgaard, M., & Fazekas, P. (2022). The nature of blindsight: Implications for current theories of consciousness. *Neuroscience of Consciousness*, 2022(1), niab043.
 1. Pitts, M. A., Metzler, S., & Hillyard, S. A. (2019). Recurrent processing theory versus global neuronal workspace theory. *Neuroscience of Consciousness*, 2019(1), niz005.
-1. Randeniya, R. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.
+1. Streicher, J., Meyen, S., Franz, V. H., & Stein, T. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
 1. Zher-Wen (2023). Unconscious integration: Current evidence for integrative processing under subliminal conditions. *British Journal of Psychology*, 114(2), 430-456.
