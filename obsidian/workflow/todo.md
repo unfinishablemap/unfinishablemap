@@ -37,6 +37,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Close 2 residual from-below-emergence slippages (interactionist-dualism propagation source + strong-emergence gloss)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/interactionist-dualism.md, obsidian/topics/the-strong-emergence-of-consciousness.md
+- **Notes**: From the check-tenets sweep 2026-06-02 ([[reviews/tenet-check-2026-06-02]]). Two RESIDUAL from-below-emergence slippages survived this session's cluster cleanup (cycles fixing emergence.md / the-strong-emergence body / parsimony-case / argument-from-reason). The Map's view is bi-aspectual CO-FUNDAMENTAL dualism (consciousness + physical structure co-fundamental), NOT from-below strong emergence (consciousness arising out of physical complexity). DO BOTH FILES ([[multifile-task-dropped-file]]):
+  - **(1) PROPAGATION SOURCE — `concepts/interactionist-dualism.md` (canonical concept page), "Emergence and Mechanism" section ~line 159**: currently leads with unqualified "Interactionist dualism can be understood as strong emergence… the Map's quantum framework supplies one [mechanism]" — presents the Map's OWN canonical view as from-below. The later sections (~line 171+) are correctly bi-aspectual, so this is a localized section-level lapse, but it's the SOURCE the stray glosses point at. FIX: reframe so the Map is shown to SHARE strong emergence's irreducibility claim while grounding it in CO-FUNDAMENTAL (not from-below) ontology — mirror the "decisive amendment" already in [[the-strong-emergence-of-consciousness]] body (~line 172, "co-fundamental rather than from-below emergent") and [[concepts/emergence]] (~line 185). Keep the quantum-interface mechanism framing (that's fine), just decouple it from the "consciousness strongly emerges FROM physical organisation" directionality.
+  - **(2) `topics/the-strong-emergence-of-consciousness.md:178`**: a residual Further-Reading gloss "[[interactionist-dualism]] — The Map's framework as strong emergentism with mechanism" contradicts this same article's own corrected body (line 172). One-line fix to match the `concepts/emergence.md:185` corrected gloss form ("adjacent to strong emergentism but bi-aspectual rather than from-below").
+  Honour [[evidential-status-discipline]]. NO editor-mode labels in prose. Length-neutral. Doctrinal: Tenet 1 (Dualism — co-fundamental, not from-below emergence). After fixing, grep the corpus for any OTHER "[[interactionist-dualism]]" gloss carrying the strong-emergence framing (the propagation may have reached more glosses than these 2).
+- **Source**: check-tenets
+- **Generated**: 2026-06-02
+
 ### P2: Adopt idealism calibration in analytic-idealism-and-mind-centric-metaphysics
 - **Type**: refine-draft
 - **Status**: pending
