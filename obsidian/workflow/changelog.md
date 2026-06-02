@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02T15:59:52+00:00
+ai_modified: 2026-06-02T16:33:40+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T16:33:40+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/aphantasia]]
+- **Four-bucket**: (a) mechanical sweep + (c) cross-link accretion — FALSE changed-since. Only changes since 2026-05-08 deep review were the embed-videos block and `[[source-attribution-divergence]]` back-links. No own-content development; returned converged on substance.
+- **Word count (body)**: 2455 → 2460 (+5; 82% of 3000 soft, well under hard)
+- **Web-verify (publisher of record)**: (1) Scholz 2025 *Mind & Language* — CORRECTED author first name "Christoph" → "Christian" (Wiley lists Christian O. Scholz, 40(3):317–324), fixed in body + ref. (2) Nanay 2025 *Mind & Language* — VERIFIED (40(3):333–340); added vol/pages. (3) Lennon 2023 "Aphantasia and Conscious Thought" — VERIFIED *Oxford Studies in Philosophy of Mind* Vol.3 ed. Kriegel OUP (prior review's "*Erkenntnis*" note was mistaken; live ref already correct). (4) Kay/Keogh/Pearson 2024 *Consciousness and Cognition* 121:103694 — VERIFIED; verbatim block quote matches published abstract EXACTLY.
+- **Calibration**: No possibility/probability slippage; five-tier scale not invoked; hedges + tenet-boundary honesty preserved.
+- **Critical issues addressed**: 1 (Scholz author-name citation error)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; bibliographic detail added to 2 refs)
+- **Output**: [[reviews/deep-review-2026-06-02-aphantasia]]
 
 ## 2026-06-02T16:29:19+00:00 - deep-review
 - **Status**: Success
