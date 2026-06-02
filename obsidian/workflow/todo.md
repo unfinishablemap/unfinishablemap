@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt panpsychism calibration in the-hard-problem-in-non-western-philosophy
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/the-hard-problem-in-non-western-philosophy.md
-- **Notes**: From topic-concept anchoring audit 2026-06-02. The topic article over-claims relative to its anchor concept [[panpsychism]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 3.48/kw is below 60% of anchor (6.45/kw)
-  - topic uses 1 strong-assertion verbs where anchor uses none
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-02
-
 ### P2: Adopt libet-experiments calibration in motor-control-quantum-zeno
 - **Type**: refine-draft
 - **Status**: pending
@@ -58,7 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-02
-
 
 ### P2: Deep-review topics/consciousness-in-simple-organisms.md (23-day changed-since-review gap)
 - **Type**: deep-review
@@ -3777,6 +3765,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-02: Adopt panpsychism calibration in the-hard-problem-in-non-western-philosophy
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-02. The topic article over-claims relative to its anchor concept [[panpsychism]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-06-02: Deep-review expansion of contemplative-practice-as-philosophical-evidence with method-level cross-tradition comparison
 - **Type**: refine-draft

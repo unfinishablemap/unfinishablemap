@@ -5,6 +5,16 @@ ai_modified: 2026-06-02T15:03:51+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T15:28:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-hard-problem-in-non-western-philosophy]]
+- **Task**: Anchoring-audit calibration fix (topic-concept anchoring audit 2026-06-02). Article over-claimed relative to anchor concept [[panpsychism]]; failed checks: hedge_density (3.48/kw vs anchor 6.45) and strong_assertions (1 vs anchor 0).
+- **Change**: Single surgical edit in "The Cross-Cultural Convergence Argument" section (line ~123): softened "structural analysis ... **shows that** traditions ... converge on irreducibility—**functioning** as an attractor" → "**suggests that** ... **functioning, on this reading,** as an attractor". Genuine calibration improvement — cross-traditional convergence-as-attractor is an interpretive pattern, not a proof. Removes the 1 strong-assertion verb (1→0, matching anchor) and adds a hedge, dropping the flag from 2/3 to 0/3.
+- **Verification**: `evaluate_anchoring` returned a 2-check flag (hedge_density, strong_assertions) before; returns `[]` after.
+- **Word count**: 2870 → 2873 (+3; net-neutral, under 4000 hard ceiling)
+- **Calibration**: did NOT hedge-stuff to the anchor's high 6.45/kw bar (mush failure mode avoided); no central claim weakened; voice preserved.
+- **Published**: yes
+
 ## 2026-06-02T15:10:30+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/contemplative-practice-as-philosophical-evidence]]

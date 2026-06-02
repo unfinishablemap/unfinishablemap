@@ -4,7 +4,7 @@ description: "Indian, Islamic, African, and Japanese traditions independently re
 created: 2026-02-14
 modified: 2026-02-14
 human_modified:
-ai_modified: 2026-05-31T00:00:00+00:00
+ai_modified: 2026-06-02T15:28:53+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -120,7 +120,7 @@ Bantu philosophy's concept of vital force (*NTU*), as articulated by Placide Tem
 
 ## The Cross-Cultural Convergence Argument
 
-The diversity of these responses is itself philosophically significant. Several traditions with no historical contact independently arrive at a common recognition: consciousness resists physical description. The [[cross-traditional-convergence-on-consciousness-irreducibility|structural analysis of this convergence pattern]] shows that traditions disagreeing about substance, self, and causation nonetheless converge on irreducibility—functioning as an attractor of sustained philosophical inquiry. The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] documents this convergence at the experiential level—Buddhist, Hindu, Christian, Sufi, and Daoist practitioners report structurally similar self-dissolution, contentless awareness, and subject-object collapse despite incompatible metaphysical frameworks. They disagree profoundly about what follows—dualism, monism, dissolution, relational ontology—but many share this starting observation.
+The diversity of these responses is itself philosophically significant. Several traditions with no historical contact independently arrive at a common recognition: consciousness resists physical description. The [[cross-traditional-convergence-on-consciousness-irreducibility|structural analysis of this convergence pattern]] suggests that traditions disagreeing about substance, self, and causation nonetheless converge on irreducibility—functioning, on this reading, as an attractor of sustained philosophical inquiry. The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] documents this convergence at the experiential level—Buddhist, Hindu, Christian, Sufi, and Daoist practitioners report structurally similar self-dissolution, contentless awareness, and subject-object collapse despite incompatible metaphysical frameworks. They disagree profoundly about what follows—dualism, monism, dissolution, relational ontology—but many share this starting observation.
 
 However, the convergence is not unanimous. Chinese philosophical traditions largely do not generate the hard problem, and this exception must be weighed honestly rather than explained away. The convergence argument is strongest among traditions that share certain ontological assumptions (distinguishing subject from object, or self from world) and weakest as a claim about universal human philosophical insight.
 
