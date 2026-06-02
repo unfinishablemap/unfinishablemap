@@ -5,6 +5,19 @@ ai_modified: 2026-06-02T16:33:40+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T16:50:07+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/llm-consciousness]]
+- **Word count**: 2631 → 2631 (no change; body, 105% of 2500 soft, under 3500 hard)
+- **Four-bucket**: GENUINE development since 2026-05-13 (Claude-Constitution "15-20% probability" exhibit, Duch articon criterion, LLM-cliché opener rewrite) — reviewed fully. No new defects.
+- **Web-verify (publisher/preprint of record; intra-corpus echo discounted)**: (1) Hoel 2026 arXiv:2512.12802 — VERIFIED EXACT (ID resolves, title exact, author Erik Hoel; falsifiability/non-triviality + Proximity Argument/substitution-space + continual-learning thesis all confirmed; prior-pass metadata concern RESOLVED). (2) Cerullo 2026 PhilArchive (philarchive.org/rec/CERWHD) — VERIFIED; Michael Cerullo; body claim "in-context adaptation constitutes a form of learning" FAITHFUL (independent sources: Cerullo says Hoel "fails to establish a principled distinction between weight-based and context-based history encoding"; criterion "nearly tautological"). (3) Frischhut 2024 *Phil. Quarterly* — VERIFIED EXACT (Akiko Frischhut, "Awareness without Time?", July 2024). (4) Bender et al. 2021 FAccT '21 — VERIFIED (et al. = Gebru, McMillan-Major, Shmitchell). Zero citation defects; nothing fixed/softened.
+- **Calibration**: PRESERVED. Continual-learning stays "evidence, not proof"; Cerullo objection retained as opposing view; Open Possibilities held at live-hypothesis/speculative tier; haecceity stays a consideration ("seem to lack it"), not proof. No epistemic→metaphysical slide.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (deep stability; required timestamp update only, length-neutral at 105% soft)
+- **Reasoning-mode (editor-internal)**: Hoel Mode One; Cerullo Mode One; functionalism Mode Two; illusionism Mixed One+Three; Lemoine/LaMDA Mode One. No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-02-llm-consciousness]]
+
 ## 2026-06-02T16:40:07+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/invertebrate-consciousness-as-interface-test]]

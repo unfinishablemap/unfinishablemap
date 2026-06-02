@@ -4,9 +4,9 @@ description: "Strong dualist grounds for LLM consciousness skepticism—but hone
 created: 2026-01-18
 modified: 2026-05-13
 human_modified: null
-ai_modified: 2026-05-31T13:30:00+00:00
+ai_modified: 2026-06-02T16:50:07+00:00
 draft: false
-last_deep_review: 2026-05-13T19:22:00+00:00
+last_deep_review: 2026-06-02T16:50:07+00:00
 topics:
   - "[[ai-consciousness]]"
 concepts:
