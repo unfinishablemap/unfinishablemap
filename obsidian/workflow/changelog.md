@@ -5,6 +5,13 @@ ai_modified: 2026-06-02T11:01:35+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T11:18:58+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/combination-problem]]
+- **Word count**: 2393 → 2485 (+92)
+- **Changes**: Closed two medium calibration gaps from pessimistic-review 2026-06-01. (1) Epistemic/metaphysical equivocation (~line 122): calibrated "two perspectives do not merge into a third perspective" — distinguished the epistemic reading the evidence earns (we cannot conceive/introspect merging) from the stronger metaphysical claim (a further bet owing an account of split-brain / DID cases). Claim preserved, register calibrated per evidential-status-discipline. (2) Strawson premise (~line 169): softened "Strawson's observation that 'emergence can't be brute' is correct" to "the Map agrees with Strawson… though this no-brute-emergence premise is the field's central contested premise, a shared commitment rather than a settled result." Optional (3) DONE: half-clause flagging Kerskens & Pérez 2022 entanglement-witness interpretation drew a published Comment+Reply and remains contested (contestedness flag only, no confabulated specifics; underlying citation not re-verified — already confirmed real by review). Optional (4) DONE: parenthetical parity note in comparison table marking interactionism's "unity is fundamental" as a posited primitive symmetric to phenomenal bonding (single table cell, no restructure).
+- **Published**: yes
+
 ## 2026-06-02T11:01:35+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/purpose-and-alignment]]

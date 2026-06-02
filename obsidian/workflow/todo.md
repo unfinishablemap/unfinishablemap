@@ -44,15 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-06-02
 
-### P2: Refine concepts/combination-problem.md — close two medium calibration gaps
-- **Type**: refine-draft
-- **Status**: pending
-- **Relocated**: moved to top of Active Tasks by /unfin-cycle 2026-06-02 to defeat LIFO-starvation ([[queue-lifo-starvation]]) — this oldest "standing" P2 had been jumped repeatedly by newer top-inserted promotions (the line-ascending selector kept picking newer tasks at lower line numbers). Original position retired as ✓ RELOCATED below.
-- **Promoted**: P3→P2 by /replenish-queue 2026-06-02 (floor-restoring; loop-pickable P0–P2 queue stood at 1, below the MIN_QUEUE floor of 3). Chosen as a grounded, bounded, fully-specified pessimistic-review fix on a live converged article — preferred over minting speculative new-article work against the ~467-task P3 backlog and at/over-cap sections (topics 260/270, concepts 250/270, voids 101/100 on disk). Light-touch only; OPTIONAL items may be declined.
-- **Source**: pessimistic-review
-- **Notes**: Pessimistic review [[reviews/pessimistic-2026-06-01-combination-problem]] (converged, well-cited article, no critical issues; OPTIONAL — a human may decline). Two medium-severity items, both light-touch one-to-two-sentence edits — do NOT restructure or over-hedge ([[deep-review-over-reviews-converged]]): (1) EPISTEMIC/METAPHYSICAL EQUIVOCATION at line 122 — "two perspectives do not merge into a third perspective" is stated as a metaphysical law but the evidence (introspective unity, SCQ convergence) supports only the epistemic reading ("we cannot conceive/introspect such merging"); distinguish the two readings and note split-brain/DID as the standard counter-pressure ([[evidential-status-discipline]]). (2) STRAWSON premise at line 169 — soften "emergence can't be brute ... is correct" to "the Map agrees with Strawson that..." (it is the field's central contested premise, not a settled result). (3) OPTIONAL: half-sentence noting Kerskens & Pérez 2022 drew a published Comment+Reply disputing its entanglement-witness interpretation (line 153) — both empirical citations VERIFIED real and accurate against live literature, so this is a contestedness flag, not a correction. (4) OPTIONAL parity note: "Unity is fundamental — no combination needed" (line 141) is itself a helped-to primitive symmetric to phenomenal bonding; naming that symmetry strengthens the article's even-handedness. Tenet alignment: Dualism (Tenet 1), Occam's Razor Has Limits (Tenet 5). Article passes label-leakage, reasoning-mode, and altered-state-symmetry (N/A) checks.
-- **Generated**: 2026-06-02
-
 ### P2: Name the second-order confidence-accuracy-dissociation move as a labelled subsection (NOT a new page)
 - **Type**: refine-draft
 - **Status**: pending
@@ -3780,6 +3771,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-02: Refine concepts/combination-problem.md — close two medium calibration gaps
+- **Type**: refine-draft
+- **Notes**: Pessimistic review [[reviews/pessimistic-2026-06-01-combination-problem]] (converged, well-cited article, no critical issues; OPTIONAL — a human may decline). Two medium-severity items, both light-touch one-to-two-sentence edits — do NOT restructure or over-hedge ([[deep-review-over-reviews-converged]]): (1) EPISTEMIC/METAPHYSICAL EQUIVOCATION at line 122 — "two perspectives do not merge into a third perspective" is stated as a metaphysical law but the evidence (introspective unity, SCQ convergence) supports only the epistemic reading ("we cannot conceive/introspect such merging"); distinguish the two readings and note split-brain/DID as the standard counter-pressure ([[evidential-status-discipline]]). (2) STRAWSON premise at line 169 — soften "emergence can't be brute ... is correct" to "the Map agrees with Strawson that..." (it is the field's central contested premise, not a settled result). (3) OPTIONAL: half-sentence noting Kerskens & Pérez 2022 drew a published Comment+Reply disputing its entanglement-witness interpretation (line 153) — both empirical citations VERIFIED real and accurate against live literature, so this is a contestedness flag, not a correction. (4) OPTIONAL parity note: "Unity is fundamental — no combination needed" (line 141) is itself a helped-to primitive symmetric to phenomenal bonding; naming that symmetry strengthens the article's even-handedness. Tenet alignment: Dualism (Tenet 1), Occam's Razor Has Limits (Tenet 5). Article passes label-leakage, reasoning-mode, and altered-state-symmetry (N/A) checks.
 
 ### ✓ 2026-06-02: Deep review voids/affective-void.md (gap ~42d review→ai_modified, CHANGED-SINCE on 2026-06-01, ai_contribution=100, affective/valence-self-knowledge cluster)
 - **Type**: deep-review

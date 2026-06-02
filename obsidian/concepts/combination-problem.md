@@ -26,7 +26,7 @@ ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-05-18T09:00:00+00:00
-ai_modified: 2026-06-01T16:47:13+00:00
+ai_modified: 2026-06-02T11:18:58+00:00
 ---
 
 The combination problem is the central challenge facing [[panpsychism]]—the view that consciousness is fundamental and ubiquitous. If electrons have micro-experiences, how do billions of them combine into the unified consciousness of a human being? William James called this "the most peculiar puzzle" of the mind-dust theory, and it remains unsolved. The Unfinishable Map's [[interactionist-dualism|interactionist framework]] avoids the problem entirely by denying that matter has micro-experiences in the first place.
@@ -119,7 +119,7 @@ The combination problem is not just a technical difficulty—it threatens panpsy
 
 Panpsychism aimed to avoid the hard problem of consciousness: the seeming impossibility of experience emerging from non-experiential matter. But if the combination problem is equally intractable, panpsychism hasn't made progress. We've traded "how does experience arise from non-experience?" for "how do micro-experiences combine into macro-experience?"
 
-The deeper issue is [[composition-and-consciousness|phenomenal non-compositionality]]: consciousness simply does not compose the way physical properties do. This is why [[consciousness-and-the-metaphysics-of-composition|three independent answers to the Special Composition Question]]—van Inwagen's organicism, Merricks' eliminativism, and McQueen and Tsuchiya's IIT-based approach—all converge on consciousness as the criterion for genuine composition. Two masses combine into a larger mass; two perspectives do not merge into a third perspective. This asymmetry between physical and phenomenal composition may explain why every proposed solution to the combination problem—phenomenal bonding, co-consciousness, combinatorial infusion—remains unsatisfying. They attempt composition where composition may be categorically impossible.
+The deeper issue is [[composition-and-consciousness|phenomenal non-compositionality]]: consciousness simply does not compose the way physical properties do. This is why [[consciousness-and-the-metaphysics-of-composition|three independent answers to the Special Composition Question]]—van Inwagen's organicism, Merricks' eliminativism, and McQueen and Tsuchiya's IIT-based approach—all converge on consciousness as the criterion for genuine composition. Two masses combine into a larger mass; two perspectives do not seem to merge into a third perspective. The evidence here—introspective unity, the convergence of the subject-combination question—earns the epistemic reading: we cannot conceive or introspect such a merging. The stronger, metaphysical reading—that no such merging *can* occur—is a further bet, and one that owes an account of split-brain and dissociative-identity cases, which arguably display subjects dividing or coexisting. This asymmetry between physical and phenomenal composition may explain why every proposed solution to the combination problem—phenomenal bonding, co-consciousness, combinatorial infusion—remains unsatisfying. They attempt composition where composition may be categorically impossible.
 
 Chalmers acknowledges this: "The combination problem is perhaps the hardest problem of panpsychism... It's not clear that panpsychism has an advantage over physicalism here."
 
@@ -138,7 +138,7 @@ Instead of combination, the Map posits *interaction*. Consciousness interfaces w
 | Challenge | Panpsychism | Interactionism |
 |-----------|-------------|----------------|
 | **Core problem** | Combination: how micro-experiences unite | Interaction: how distinct substances causally connect |
-| **Subject unity** | Must explain how many subjects become one | Unity is fundamental—no combination needed |
+| **Subject unity** | Must explain how many subjects become one | Unity is fundamental—no combination needed (itself a posited primitive, symmetric to phenomenal bonding) |
 | **Mechanism** | Phenomenal bonding (proposed, unexplained) | Quantum selection (proposed, unexplained at detail level) |
 | **Type of explanation needed** | Conceptual: what combination even means | Empirical: which quantum states, what coupling |
 
@@ -150,7 +150,7 @@ The difference—if there is one—is in the *type* of problem each faces. The c
 
 Can we test which problem is more tractable? Several lines of evidence bear on the question:
 
-**Quantum coherence measurements**: If consciousness operates at quantum indeterminacies, we should find quantum effects correlated with consciousness in ways that survive decoherence objections. Recent work (Kerskens & Pérez 2022) reports MRI signals suggesting entanglement that tracks waking consciousness. If confirmed, this supports the interactionist mechanism without providing any evidence for how micro-experiences combine. The Map's [[entanglement-binding-hypothesis|entanglement binding hypothesis]] explores quantum holism as the candidate physical structure that could underwrite phenomenal unity without invoking combination of micro-subjects.
+**Quantum coherence measurements**: If consciousness operates at quantum indeterminacies, we should find quantum effects correlated with consciousness in ways that survive decoherence objections. Recent work (Kerskens & Pérez 2022) reports MRI signals suggesting entanglement that tracks waking consciousness, though the entanglement-witness interpretation drew a published Comment and Reply and remains contested. If confirmed, this supports the interactionist mechanism without providing any evidence for how micro-experiences combine. The Map's [[entanglement-binding-hypothesis|entanglement binding hypothesis]] explores quantum holism as the candidate physical structure that could underwrite phenomenal unity without invoking combination of micro-subjects.
 
 **Simple organism studies**: Research on [[minimal-consciousness|C. elegans and Hydra]] tests panpsychist predictions. If [[unity-of-consciousness|phenomenal unity]] requires the combination of micro-experiences, we should see gradients of unity tracking complexity. But the evidence is ambiguous—302-neuron nematodes show integrated information (positive Phi) yet fail behavioral markers of unified consciousness. The combination mechanism, if real, doesn't manifest in observable correlates.
 
@@ -166,7 +166,7 @@ Despite rejecting panpsychism's solution, the Map affirms its core insights:
 
 2. **The hard problem is real**: Consciousness cannot be reduced to structure or function.
 
-3. **Emergence from non-experience is unintelligible**: Strawson's observation that "emergence can't be brute" is correct.
+3. **Emergence from non-experience is unintelligible**: the Map agrees with Strawson that "emergence can't be brute"—though this no-brute-emergence premise is the field's central contested premise, a shared commitment rather than a settled result.
 
 The disagreement is about *how* consciousness is fundamental—as the intrinsic nature of all matter (panpsychism), or as a distinct category that interacts with matter (interactionism).
 
