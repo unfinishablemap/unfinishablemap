@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-02T09:50:56.850543+00:00'
-session_count: 9287
+last_updated: '2026-06-02T09:57:57.223473+00:00'
+session_count: 9288
 cycle_position: 8101
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-02T04:09:26.348518+00:00'
   refine-draft: '2026-06-02T09:12:37.462566+00:00'
   research-topic: '2026-05-31T12:23:53.872190+00:00'
-  replenish-queue: '2026-06-02T09:54:50+00:00'
+  replenish-queue: '2026-06-02T09:57:57.223473+00:00'
   condense: '2026-06-02T09:02:22.526685+00:00'
   expand-topic: '2026-05-31T15:57:07.189731+00:00'
   add-highlight: '2026-06-02T08:03:18.330365+00:00'
@@ -89,25 +89,7 @@ quality:
   low_issues: 3
   orphaned_files: 0
 failed_tasks: {}
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 3
-  needs_replenishment: false
-  last_replenishment: '2026-06-02T09:54:50+00:00'
-  replenishment_source_counts:
-    length_analysis: 2
-  notes: 'Floor-restoring: loop-pickable P0-P2 was 1 (one stale orphaned-by-construction
-    literature-drift P2 relocated to Blocked). Added 2 calibration-preserving condense
-    tasks on clean topics/ hard-warning length offenders (laws-and-dispositions 4215w,
-    comparing-quantum 4004w) + the standing combination-problem refine = 3 pickable P2.
-    Declined new expand-topic tasks: large speculative P3 backlog already present and
-    concepts/topics near caps.'
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-02'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-02'
@@ -182,5 +164,9 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-02'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-02'
   outcome: success

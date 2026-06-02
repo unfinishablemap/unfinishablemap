@@ -5,6 +5,14 @@ ai_modified: 2026-06-02T10:15:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T10:00:04+00:00 - condense
+- **Status**: Success
+- **File**: [[topics/comparing-quantum-consciousness-mechanisms]]
+- **Before**: 4004
+- **After**: 3987
+- **Reduction**: 0.4%
+- **Technique**: Light surgical trim to clear the 4000 topics hard ceiling (first-ever condense of this article). Removed one redundant restatement — the "Emerging NV-centre diamond quantum sensors may provide the first direct in vivo measurements" sentence in the "falsifiability gap" bullet of *What the Comparison Reveals*, which already appears verbatim-in-substance in the Orch OR falsifiability section ("Emerging NV-centre diamond quantum sensors may enable direct in vivo measurement"). All calibration language preserved untouched: compatibility-vs-support distinction, [[evidential-status-discipline]] framing, each mechanism's speculative-status hedges ("each faces serious objections" even-handedness), and all named-author attributions/citations.
+
 ## 2026-06-02T10:15:00+00:00 - deep-review
 - **Status**: Success (converged; metadata-only audit pass — 10th review)
 - **File**: [[concepts/embodied-cognition]]
