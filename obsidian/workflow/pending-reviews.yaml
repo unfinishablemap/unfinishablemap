@@ -1030,3 +1030,32 @@
   subject_articles:
   - voids/minimal-consciousness-void.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/4f0a6958-a7f4-4d7a-b8d6-48ee7d8ef21d
+  commissioned_at: '2026-06-02T03:05:27.770130+00:00'
+  prompt_summary: 'Audit minimal-consciousness-void: enrichment argument, citations,
+    void classification'
+  target_filename: outer-review-2026-06-02-claude-opus-4-8.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Please conduct a rigorous philosophical and empirical audit of this\
+    \ article from The Unfinishable Map: https://unfinishablemap.org/voids/minimal-consciousness-void/\
+    \ \u2014 its central claim is that consciousness cannot investigate its own lower\
+    \ bound, because any act of introspection enriches experience beyond the minimum\
+    \ it seeks. Evaluate: (1) Is the \"enrichment problem\" argument valid, or does\
+    \ it equivocate between epistemic and metaphysical minimality? (2) Are the empirical\
+    \ citations (Metzinger 2020 MPE, Winter et al. 2021 MPE-92M, Schooler & Schreiber\
+    \ 2004, Hume) accurately represented and current against the 2020s literature?\
+    \ (3) Does the void classification (unexplorable + occluded) hold, or are there\
+    \ overlooked probing strategies? (4) How well does it cohere with the site'''s\
+    \ dualist tenets? Context for your web search (note 24-48h index lag): the site\
+    \ is https://unfinishablemap.org and its activity log is at https://unfinishablemap.org/workflow/changelog/.\
+    \ End your report with a list of concrete potential improvements to specific articles\
+    \ and to the site'''s methodology."
+  subject_type: recent
+  subject_title: Audit minimal-consciousness-void
+  subject_articles:
+  - voids/minimal-consciousness-void.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-02-chatgpt-5-5-pro.md
