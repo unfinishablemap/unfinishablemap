@@ -4,7 +4,7 @@ description: "Attention serves as the interface where consciousness influences t
 created: 2026-01-14
 modified: 2026-03-29
 human_modified: null
-ai_modified: 2026-05-28T22:55:09+00:00
+ai_modified: 2026-06-02T18:01:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -64,7 +64,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-05-08T14:06:00+00:00
+last_deep_review: 2026-06-02T18:01:34+00:00
 coalesced_from:
   - "/concepts/attention/"
   - "/concepts/voluntary-attention/"
@@ -156,7 +156,7 @@ Rizzolatti's premotor theory of attention (PMTA) provides striking support: sele
 
 Cisek's affordance competition hypothesis describes the architecture: sensory input specifies multiple potential actions competing within neural populations; decision occurs when one reaches threshold. Thura and Cisek (2014) found that ~280ms before movement onset, the selected target peaks while alternatives are suppressed—matching the ~300ms deployment time of willed attention. If these were independent systems, why share the same timeline?
 
-The [[dopamine-and-the-unified-interface|dopamine system]] illuminates further. A 2024 *Nature* study showed dopamine-deficient mice "can move" but "won't move"—dopamine modulates the *decision threshold*, not motor capacity. This suggests a layered architecture: neural computation generates competing options, dopamine sets threshold sensitivity, and consciousness determines which option crosses threshold.
+The [[dopamine-and-the-unified-interface|dopamine system]] illuminates further. A 2024 *Nature* study showed mice with impaired phasic dopamine release still move spontaneously but lose reward-oriented vigour—dopamine dynamics modulate the *decision threshold*, not raw motor capacity. This suggests a layered architecture: neural computation generates competing options, dopamine sets threshold sensitivity, and consciousness determines which option crosses threshold.
 
 Willed attention and willed action feel like the same effort because they may *be* the same effort—consciousness operating through a single selection mechanism. See [[motor-selection]] for the full treatment.
 
@@ -259,20 +259,20 @@ This bounds what the interface hypothesis can claim. Phenomenal attention biases
 4. Graziano, M.S.A. (2019). *Rethinking Consciousness: A Scientific Theory of Subjective Experience*. W.W. Norton.
 5. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 6. James, W. (1890). *The Principles of Psychology*. Henry Holt.
-7. Kaeser, P.A. et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*.
+7. Kaeser, P.S. et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*, 635(8038), 406-414.
 8. Kahneman, D. (1973). *Attention and Effort*. Prentice-Hall.
 9. Koch, C. & Tsuchiya, N. (2007). Attention and consciousness: two distinct brain processes. *Trends in Cognitive Sciences*, 11(1), 16-22.
 10. McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.
 11. Meister, M. (2024). The physical limits of perception. *PNAS*, 121(14), e2400258121.
-12. Melloni, L. et al. (2025). An adversarial collaboration to critically evaluate theories of consciousness. *Nature*, 642(8066), 133-142.
-13. Michel, M. & Doerig, A. (2025). The Integrated Information Theory needs attention. *Erkenntnis*.
+12. Cogitate Consortium; Ferrante, O. et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142.
+13. López, A. & Montemayor, C. (2025). The Integrated Information Theory needs attention. *Erkenntnis*.
 14. Nadra, J.G. & Mangun, G.R. (2023). Placing willed attention in context: A review of attention and free will. *Frontiers in Cognition*, 2, 1205618.
-15. Nartker, M. et al. (2025). Sensitivity to visual features in inattentional blindness. *eLife*, 14, e97156.
+15. Nartker, M., Firestone, C., Egeth, H., & Phillips, I. (2025). Sensitivity to visual features in inattentional blindness. *eLife*, 13, RP100337.
 16. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 17. Rizzolatti, G., Riggio, L., & Sheliga, B.M. (1994). Space and selective attention. In C. Umiltà & M. Moscovitch (Eds.), *Attention and Performance XV* (pp. 231-265). MIT Press.
 18. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 19. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-20. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*, 159.
+20. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*, 161.
 21. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 22. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
 23. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

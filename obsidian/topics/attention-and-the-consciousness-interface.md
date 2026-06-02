@@ -4,7 +4,7 @@ description: "A comprehensive treatment of attention as consciousness's interfac
 created: 2026-02-01
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-29T15:00:00+00:00
+ai_modified: 2026-06-02T18:09:08.000014+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -219,7 +219,7 @@ The convergence argument identifies *where* consciousness might influence brain 
 
 15. Melloni, L. et al. (2025). An adversarial collaboration to critically evaluate theories of consciousness. *Nature*, 642(8066), 133-142.
 
-16. Nartker, M. et al. (2025). Sensitivity to visual features in inattentional blindness. *eLife*.
+16. Nartker, M., Firestone, C., Egeth, H., & Phillips, I. (2025). Sensitivity to visual features in inattentional blindness. *eLife*, 13, RP100337.
 
 17. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 

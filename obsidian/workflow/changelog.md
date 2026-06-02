@@ -5,6 +5,18 @@ ai_modified: 2026-06-02T17:33:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T18:01:34+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/attention-as-interface]]
+- **Four-bucket**: GENUINE — 9th review, dedicated citation-integrity audit (densest target, 26-entry reference list). Every reference web-verified at publisher of record, not a sample.
+- **Word count**: 3037 → 3034 (−3 body; length-neutral, no expansion; under concepts 3500 hard)
+- **Critical issues addressed**: 4 citation defects — (1) MISATTRIBUTION: "Michel & Doerig" Erkenntnis → actual authors **López & Montemayor** (clean fabricated-author case, arXiv 2406.06143 confirmed); (2) Melloni/COGITATE *Nature*: preprint title + wrong first author → VoR title "Adversarial testing of global neuronal workspace and integrated information theories of consciousness", first author **Ferrante** (Cogitate Consortium corporate); (3) CROSS-CORPUS: Nartker *eLife* "14, e97156" + "et al." → **13, RP100337**, full author list (Nartker, Firestone, Egeth, Phillips) — now matches access-consciousness.md; (4) Tallis *Philosophy Now* issue **159 → 161**.
+- **Medium issues addressed**: 2 — Kaeser ref missing vol/pages → **635(8038):406-414** + initials P.A.→P.S.; body overstatement "dopamine-deficient mice 'can move'/'won't move'" (RIM-knockout impairs *phasic release*, not deficiency; scare-quotes not in paper) → faithful "impaired phasic dopamine release… lose reward-oriented vigour."
+- **Citation web-verify (publisher of record, all 26)**: 4 FIXED above; OK and verified exact: Block, Cisek&Kalaska, Hagan, Koch&Tsuchiya, McGinn, Nadra&Mangun, Rajan, Tegmark, Thura&Cisek, Zheng&Meister (10 bits/s + 100M-fold faithful), Reimers, McKemmish, Graziano. Meister 2024 PNAS paywalled — DOI consistent, distinct from Zheng&Meister, no contrary evidence.
+- **Calibration**: PRESERVED — bandwidth-asymmetry "suggestive/consistent with/remains unknown" hedges intact; COGITATE "neither GWT nor IIT clearly vindicated" calibrated; compatible-not-proof framing throughout; no epistemic→metaphysical slide. No possibility/probability slippage.
+- **Engagement modes** (editor-internal): Graziano Mode Two; Tegmark Mixed(One+Three); illusionism Mode One; MWI Mode Three; functionalist Mixed(One+Two). No boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-02-attention-as-interface]]
+
 ## 2026-06-02T17:47:12+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/epiphenomenalism]]
