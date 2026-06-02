@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02T15:03:51+00:00
+ai_modified: 2026-06-02T15:59:52+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T15:59:52+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/access-consciousness]]
+- **Focus**: 5th review of a converged article; actionable work was the mandated publisher-of-record web-verification of the two recent 2025 specialist cites (fabrication-risk zone).
+- **Four-bucket**: GENUINE-changes bucket reviewed fully (Block-1995 page-range fix + observer-equivocation fix + cross-link retargets since 2026-05-10).
+- **Citation web-verify (3 cites)**: Randeniya niaf042 — **CRITICAL author misattribution**: author "Randeniya, R." is FABRICATED; real authors **Streicher, Meyen, Franz & Stein** (id/volume/journal/stats all correct; surfaced raw "8 of 80 conditions" figure). Nartker 2025 — **CRITICAL title+author+venue errors**: real title "Sensitivity to visual features in inattentional blindness", co-author "Sosa, E." FABRICATED (real: Egeth & Phillips), venue is **eLife** not JEP:HPP. Block 1995 BBS — **VERIFIED 227-247 correct** at Cambridge Core (lead article; the "227-287" mirror is the full unit incl. peer commentary).
+- **Critical issues addressed**: 2 (both fabrication-class citation defects, fixed in body + references)
+- **Medium issues addressed**: 1 (softened GWT "functionally essential, not epiphenomenal" to explicit Map-interpretation framing — calibration)
+- **Enhancements made**: 0
+- **Calibration**: access/phenomenal distinction kept as "the Map reads"; functionalist counter-reading preserved; no epistemic→metaphysical slide; GWT efficacy claim de-overstated.
+- **Word count (body)**: 1991 → 2028 (+37; 81% of 2500 concepts soft threshold)
+- **Follow-up queued**: P1 refine-draft — same fabricated "Randeniya" author propagated to ≥7 live files; corpus-wide fix.
+- **Output**: [[reviews/deep-review-2026-06-02-access-consciousness]]
 
 ## 2026-06-02T15:49:30+00:00 - deep-review
 - **Status**: Success

@@ -4,9 +4,9 @@ description: "Access consciousness makes mental states available for reasoning a
 created: 2026-01-22
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-06-01T13:09:47+00:00
+ai_modified: 2026-06-02T15:59:52+00:00
 draft: false
-last_deep_review: 2026-05-10T01:48:00+00:00
+last_deep_review: 2026-06-02T15:59:52+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
@@ -66,7 +66,7 @@ Block argues A-consciousness and P-consciousness can dissociate in both directio
 
 Blindsight patients have cortical damage causing a blind spot—they report seeing nothing yet can "guess" stimulus properties with above-chance accuracy. This involves *some* information reaching cognitive systems but not full global access.
 
-**Contested interpretations**: Functionalists argue blindsight shows degraded phenomenology matching degraded access—no dissociation to explain, since "access without phenomenology" presupposes phenomenology is something beyond functional access. The Map reads blindsight as minimal or absent P-consciousness despite partial access, supporting the claim that access and phenomenology are distinct. See [[philosophical-zombies]] for whether such dissociation is metaphysically possible. The [[conscious-vs-unconscious-processing|conscious vs unconscious processing]] literature provides complementary evidence: Randeniya's 2025 meta-analysis of 80 experimental conditions across 16 fMRI studies found that only 10% provided genuine evidence for unconscious processing. Separately, Global Workspace Theory identifies three functions that require conscious access—durable maintenance, novel combinations, and spontaneous intentional action—suggesting consciousness is not epiphenomenal but functionally essential. Nartker et al. (2025) add nuance: "inattentionally blind" participants retain residual visual sensitivity to stimuli they deny noticing, blurring the boundary between conscious and unconscious access.
+**Contested interpretations**: Functionalists argue blindsight shows degraded phenomenology matching degraded access—no dissociation to explain, since "access without phenomenology" presupposes phenomenology is something beyond functional access. The Map reads blindsight as minimal or absent P-consciousness despite partial access, supporting the claim that access and phenomenology are distinct. See [[philosophical-zombies]] for whether such dissociation is metaphysically possible. The [[conscious-vs-unconscious-processing|conscious vs unconscious processing]] literature provides complementary evidence: Streicher et al.'s 2025 reanalysis of 80 experimental conditions across 16 fMRI studies found that only 8 conditions (10%) provided genuine evidence for unconscious processing once the sensitivities of the conscious and unconscious measures were directly compared. Separately, Global Workspace Theory identifies three functions for which conscious access appears to play a central role—durable maintenance, novel combinations, and spontaneous intentional action—which the Map reads as evidence that consciousness is functionally efficacious rather than epiphenomenal. Nartker et al. (2025) add nuance: "inattentionally blind" participants retain residual visual sensitivity to stimuli they deny noticing, blurring the boundary between conscious and unconscious access.
 
 ### The Overflow Argument: Phenomenology Without Full Access
 
@@ -150,7 +150,7 @@ This illustrates [[tenets#^occams-limits|the limits of Occam's Razor]]. Physical
 1. Baars, B. J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
 1. Cohen, M. A., & Dennett, D. C. (2011). Consciousness cannot be separated from function. *Trends in Cognitive Sciences*, 15(8), 358-364.
 1. Dehaene, S., & Changeux, J. P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200-227.
-1. Nartker, M., Firestone, C., & Sosa, E. (2025). Inattentional blindness hides residual visual sensitivity. *Journal of Experimental Psychology: Human Perception and Performance*.
-1. Randeniya, R. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.
+1. Nartker, M., Firestone, C., Egeth, H., & Phillips, I. (2025). Sensitivity to visual features in inattentional blindness. *eLife*, 13, RP100337.
+1. Streicher, J., Meyen, S., Franz, V. H., & Stein, T. (2025). Neural correlates of unconscious processing in functional magnetic resonance imaging: does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.
 1. Stanford Encyclopedia of Philosophy. (2024). [Consciousness](https://plato.stanford.edu/entries/consciousness/).
 1. Tegmark, M. (2000). The Problem with the Quantum Mind. *Physical Review E*, 61(4), 4194-4206.
