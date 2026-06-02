@@ -5,6 +5,15 @@ ai_modified: 2026-06-02T19:13:09+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T19:17:26+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/duch-neurodynamic-theory-of-mind]]
+- **Trigger**: anchoring-audit calibration fix (topic-concept anchoring audit 2026-06-02). Anchor [[neural-correlates-of-consciousness]]; article failed 2/3 axes (hedge_density 1.62 vs needed 2.93; underdetermination_markers 0 vs anchor's 1). strong_assertions already clean (0).
+- **Changes**: One surgical edit in the three-loci critique paragraph (Relation to Site Perspective, ~line 101). Added one underdetermination-acknowledgment sentence restating loci 1+3: whether self-discrimination of working-memory states amounts to phenomenal consciousness is "underdetermined by the evidence" the structural-functional facts supply (they fix what the system does, not whether there is something it is like to be it), and the dynamics "do not adjudicate" the question. Two recognized markers in one sentence. No hedge-stuffing (hedge_density gap left LARGE by design — the article's assertive engagement is its voice); cleared the underdetermination axis only, dropping flag 2/3 → below threshold.
+- **Calibration**: PRESERVED — central claim (articon as the foil the open-question framing engages) and the three-loci critique substance untouched; the new sentence is a faithful explicit restatement of the existing argument, not a new claim. No citation added.
+- **Word count**: 2462 → 2510 body (+48; well under topics ceiling).
+- **Verification**: evaluate_anchoring now returns [] (was a 2-axis AnchoringFlag). validate.py: ✓ Valid.
+
 ## 2026-06-02T19:13:09+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/out-of-body-experiences]]
