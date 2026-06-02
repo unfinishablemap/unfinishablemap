@@ -5,6 +5,20 @@ ai_modified: 2026-06-02 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T01:08:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/falsification-roadmap-for-the-interface-model]]
+- **Word count**: 3933 → 3933 (length-neutral; real body count under the 4000 topics hard ceiling — scorer's ~4049w over-count is frontmatter ISO tokens)
+- **Critical issues addressed**: 0 (ninth review; long-converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 (removed two "This is not X. It is Y." LLM-cliché instances per writing-style guide — conservation-of-energy paragraph + Tenet 5 honest assessment; length-neutral, meaning preserved)
+- **Citation web-verification (micro-PK high-risk zone)**: all load-bearing cites in new content verified against publisher of record — Maier–Dechamps–Pflitsch 2018 (Frontiers Psych 9:379, DOI ok, **stance NULL confirmed**, no JSE-smokers mis-cite present), Bösch–Steinkamp–Boller 2006 (Psych Bull 132(4)), Donadi 2021 (Nat Phys 17:74–78, Diósi–Penrose stance ok), arXiv:2512.02838 (real — Horchani levitated-optomechanical blueprint), Kerskens & Pérez 2022 (J Phys Comm 6:105001), Deutsch 1985 (Proc R Soc A 400:97–117). No fabrication / wrong-stance / wrong-paper defects.
+- **Evidential-status**: PASS — Tenet 2 mechanism-family split is calibration-IMPROVING (down-calibrates corridor/trumping rows, prevents traction-export); causal-closure softening adds epistemic humility. No possibility/probability slippage.
+- **Boundary-substitution**: PASS — Gamez/Kleiner/Lakatosian engagements honest; no label leakage.
+- **Cross-links**: all 7 verified live; conversion-disorder reciprocates.
+- **Engagement modes (editor-internal)**: Gamez (conservation-of-energy) — Mode Two (in-framework, opponent's own concession); Kleiner (structural falsification) — Mode Three (honest boundary-marking); Lakatosian critic (Tenet 2) — Mode Three (worry acknowledged, not rebutted).
+- **Output**: [[reviews/deep-review-2026-06-02-falsification-roadmap-for-the-interface-model]]
+
 ## 2026-06-02T12:00:00+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[topics/anaesthesia-and-the-consciousness-interface]] + propagation root [[research/consciousness-anesthesia-filter-theory-2026-03-20]]
