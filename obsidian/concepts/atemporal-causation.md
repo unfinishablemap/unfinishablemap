@@ -4,7 +4,7 @@ description: "Causation outside temporal sequence — consciousness selects whic
 created: 2026-02-14
 modified: 2026-05-10
 human_modified:
-ai_modified: 2026-05-15T04:31:00+00:00
+ai_modified: 2026-06-02T23:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-14
 last_curated:
-last_deep_review: 2026-05-10T15:41:00+00:00
+last_deep_review: 2026-06-02T23:15:00+00:00
 coalesced_from:
   - "/concepts/atemporal-causation/"
   - "/concepts/retrocausal-selection/"
@@ -60,7 +60,7 @@ Three interpretive frameworks within quantum mechanics give atemporal causation 
 
 ### Transaction Selection (Cramer/Kastner)
 
-Cramer's transactional interpretation (1986) models measurement as a "transaction" between emitter and absorber. The offer wave propagates forward; the confirmation wave propagates backward. When they align, the transaction completes, producing a definite outcome. This completion is not an event at a time — collapse "does not happen at any specific point in time, but occurs along the whole transaction" (Cramer, 1986). The transaction determines the correlations between preparation and measurement; the temporal sequence is an output, not an input.
+Cramer's transactional interpretation (1986) models measurement as a "transaction" between emitter and absorber. The offer wave propagates forward; the confirmation wave propagates backward. When they align, the transaction completes, producing a definite outcome. This completion is not an event at a time — on the transactional reading the collapse is atemporal, occurring along the whole transaction rather than at any specific moment (Cramer, 1986). The transaction determines the correlations between preparation and measurement; the temporal sequence is an output, not an input.
 
 Ruth Kastner's possibilist transactional interpretation (PTI, 2012) develops this further, though it remains contested — Tim Maudlin's objection that standard TI fails for certain interaction configurations has not been resolved to everyone's satisfaction. On Kastner's account, offer waves represent real possibilities with genuine ontological status; the transaction actualises one possibility. The "future" providing confirmation waves is a space of potential absorbers, not an already-existing timeline. Actualisation selects which possibility becomes fact.
 
@@ -72,7 +72,7 @@ Aharonov, Bergmann, and Lebowitz (1964) showed that for quantum systems with bot
 
 This makes time-symmetry mathematically explicit, and on the Map's reading, points toward atemporality. The system's description is defined by constraints at both temporal ends. What happens "in between" is determined by these joint boundary conditions — not by forward-running causal sequence alone. Atemporal causation casts consciousness as the source of post-selection conditions in neural systems — determining which future boundary condition applies, and thereby retroactively constraining which outcomes were possible.
 
-Aharonov, Cohen, and Elitzur (2015) show this framework is explicitly compatible with free will: quantum indeterminism masks future states from present access, so backward influence does not entail fatalism.
+Aharonov, Cohen, and Shushi (2015) show this framework is explicitly compatible with free will: quantum indeterminism masks future states from present access, so backward influence does not entail fatalism.
 
 ### Constraint Selection (Wharton/Price)
 
@@ -107,7 +107,7 @@ This aligns with the [[phenomenology-of-choice-and-volition|phenomenology of dec
 
 ### All-or-Nothing Selection
 
-A 2025 experimental result testing the physical significance of Bell nonlocality (Hensen et al., 2025) demonstrated that if retrocausal influences operate, they must operate fully — partial retrocausal bias is excluded. For the Map, this strengthens the selection framing: consciousness fully determines which outcome actualizes among available options rather than slightly biasing probabilities. This connects to the phenomenology of choice — decisions present as definite selections, not probability adjustments.
+A 2025 experimental result testing the physical significance of Bell nonlocality (Vieira, Ramanathan & Cabello, 2025) demonstrated that if retrocausal influences operate, they must operate fully — partial retrocausal bias is excluded. For the Map, this strengthens the selection framing: consciousness fully determines which outcome actualizes among available options rather than slightly biasing probabilities. This connects to the phenomenology of choice — decisions present as definite selections, not probability adjustments.
 
 ### Lorentz Invariance
 
@@ -215,12 +215,12 @@ Atemporal causation connects to each of the Map's tenets:
 ## References
 
 1. Aharonov, Y., Bergmann, P. G., & Lebowitz, J. L. (1964). Time symmetry in the quantum process of measurement. *Physical Review*, 134(6B), B1410.
-2. Aharonov, Y., Cohen, E., & Elitzur, A.C. (2015). Accommodating retrocausality with free will. *arXiv:1512.06689*.
+2. Aharonov, Y., Cohen, E., & Shushi, T. (2015). Accommodating retrocausality with free will. *Quanta*, 5(1), 53-60. *arXiv:1512.06689*.
 3. Adlam, E. (2022). Two roads to retrocausality. *Synthese*, 200, 422.
 4. Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
 5. Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
 6. Price, H. (2012). Does time-symmetry imply retrocausality? *Studies in History and Philosophy of Science Part B*, 43(2), 75-83.
 7. Price, H. & Wharton, K. (2013). Dispelling the quantum spooks. *arXiv:1307.7744*.
 8. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
-9. Hensen, B. et al. (2025). Test of the physical significance of Bell nonlocality. *Nature Communications*. https://doi.org/10.1038/s41467-025-59247-7
+9. Vieira, C., Ramanathan, R., & Cabello, A. (2025). Test of the physical significance of Bell non-locality. *Nature Communications*, 16, 4390. https://doi.org/10.1038/s41467-025-59247-7
 10. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

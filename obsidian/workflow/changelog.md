@@ -5,6 +5,18 @@ ai_modified: 2026-06-02T22:50:12+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T23:15:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/atemporal-causation]]
+- **Word count**: 3470 → 3482 (+12, canonical body; 139% of 2500 soft, under 3500 hard — net-neutral)
+- **Critical issues addressed**: 2 (wrong first author on 2025 Bell-nonlocality cite: "Hensen, B. et al." → actual authors Vieira, Ramanathan & Cabello, Nat Commun 16:4390 — garbled conflation with the famous Hensen 2015 Delft Bell test, DOI/title/claim were correct; fabricated Cramer-1986 verbatim quote "does not happen at any specific point in time…" which is actually Wikipedia's TI description → de-quoted/paraphrased)
+- **Medium issues addressed**: 1 (wrong co-author: Aharonov, Cohen & "Elitzur" 2015 → actual third author Shushi, Quanta 5(1):53-60, arXiv 1512.06689)
+- **Citation web-verify**: 9 sources checked at publisher of record. 3 DEFECTS, all surviving 6 prior "verified" reviews (consistency ≠ accuracy — prior reviews checked intra-corpus only): Vieira/Hensen first-author swap, Cramer fabricated-quote, Aharonov-Shushi/Elitzur co-author. Clean: ABL 1964 (Phys Rev 134 B1410), Adlam 2022 (Synthese 200), Price 2012 (Stud Hist Phil Sci B 43(2):75-83), Cramer 1986 (RMP 58:647), Kastner 2012 (CUP), Schurger 2012 (PNAS).
+- **Calibration**: clean — no possibility/probability slippage; "Removing an Objection Is Not Providing a Mechanism" section + "design constraint rather than a demonstrated result" qualifier preserve evidential restraint; minority-interpretation status flagged.
+- **Engagement modes**: Maudlin M3, Schurger M3, decoherence theorists M3 (carried forward). No label leakage.
+- **Convergence**: prose/argument unchanged (6 prior reviews, last 5 clean); only post-05-10 edit was a causal-consistency-constraint cross-link import. This pass = pure citation-accuracy correction.
+- **Output**: [[reviews/deep-review-2026-06-02-atemporal-causation]]
+
 ## 2026-06-02T22:56:49+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/post-decoherence-selection]]
