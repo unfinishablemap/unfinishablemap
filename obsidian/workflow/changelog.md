@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02T11:01:35+00:00
+ai_modified: 2026-06-02T12:20:49+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T12:20:49+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/cross-traditional-convergence-on-consciousness-irreducibility]]
+- **Task**: topic-concept anchoring-audit calibration fix (1 anchor flagged: Panpsychism; failed checks hedge_density + strong_assertions; article had 1 strong-assertion verb, anchor has 0).
+- **Changes**: Softened the article's single strong-assertion verb to its actual evidential register (no central-claim weakening):
+  - Line 116 (Buddhism table footnote): "*svasaṃvedana* **establishes that** awareness is self-intimating" → "*svasaṃvedana* **holds that** awareness is self-intimating". *svasaṃvedana* is a contested doctrine (Mādhyamaka rejects it, noted in the same footnote), so "holds that" is the honest register; matches the article's own usage at lines 52/78. Cross-traditional convergence is suggestive of irreducibility, not a proof of it (evidential-status-discipline; convergence is a bet, not a deduction).
+- **Hedge-stuffing**: none. Did NOT pad hedge_density toward the anchor's 6.45/kw bar (article at 3.34); softening the single strong-assertion verb alone cleared the flag (strong_assertion_count 1→0 cleared the `strong_assertions` check against Panpsychism's zero-tolerance anchor, dropping failed-check count to 1 — below the ≥2-of-3 fire threshold). Voice preserved; calibration not enervation.
+- **Verification**: `evaluate_anchoring(...)` returns `[]`. No strong-assertion verbs remain. Word count 3388 (net-neutral, over 3000 soft / under 4000 hard — unchanged axis).
+- **Published**: yes
 
 ## 2026-06-02T12:11:45+00:00 - refine-draft
 - **Status**: Success
