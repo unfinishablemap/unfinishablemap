@@ -4,8 +4,8 @@ description: "Ned Block's argument that phenomenal consciousness exceeds cogniti
 created: 2026-01-28
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-06-01T13:09:47+00:00
-last_deep_review: 2026-05-02T14:53:00+00:00
+ai_modified: 2026-06-02T07:18:18+00:00
+last_deep_review: 2026-06-02T07:18:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
