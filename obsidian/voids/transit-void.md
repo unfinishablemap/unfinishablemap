@@ -4,8 +4,8 @@ description: "Consciousness cannot witness its own crossings—neither the onset
 created: 2026-03-05
 modified: 2026-04-27
 human_modified: null
-ai_modified: 2026-06-01T02:38:05+00:00
-last_deep_review: 2026-04-23T19:12:00+00:00
+ai_modified: 2026-06-02T14:31:20+00:00
+last_deep_review: 2026-06-02T14:31:20+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -104,7 +104,7 @@ Merleau-Ponty's *motor intentionality* extends the void beyond deliberate decisi
 
 ## The Functional Necessity of Hiddenness
 
-Metzinger (2013, 2015) argues the void is not merely structural but functionally necessary. Mind-wandering begins with *epistemic agent model collapse*: the subject loses epistemic self-control without noticing. When focused thought resumes, consciousness constructs "an illusory phenomenology of self-causation." Both loss and recovery of mental agency are hidden — and this hiddenness is load-bearing. If we witnessed the stochastic, largely arbitrary process by which thoughts and actions begin, the sense of agency might collapse. This connects the transit void to [[necessary-opacity]]. The dualist reading adds a question: if the retrospective construction is only neural, who is being deceived?
+Metzinger (2013) argues the void is not merely structural but functionally necessary. Mind-wandering begins with *epistemic agent model collapse*: the subject loses epistemic self-control without noticing. When focused thought resumes, consciousness constructs "an illusory phenomenology of self-causation." Both loss and recovery of mental agency are hidden — and this hiddenness is load-bearing. If we witnessed the stochastic, largely arbitrary process by which thoughts and actions begin, the sense of agency might collapse. This connects the transit void to [[necessary-opacity]]. The dualist reading adds a question: if the retrospective construction is only neural, who is being deceived?
 
 ## Retroactive Narration
 
@@ -169,10 +169,7 @@ The transit void sits within a family of related voids. The [[agency-void#the-ve
 11. Maeda, C. "Falling Asleep." *Phenomenology Online*.
 12. Analayo, B. (2003). *Satipatthana: The Direct Path to Realization*. Windhorse Publications.
 13. Schooler, J. W., Smallwood, J., Christoff, K., Handy, T. C., Reichle, E. D., & Sayette, M. A. (2011). Meta-awareness, perceptual decoupling and the wandering mind. *Trends in Cognitive Sciences*, 15(7), 319–326.
-14. Anderson, B. A. (2024). Rethinking distraction. PubMed Central record PMC12270342. https://pmc.ncbi.nlm.nih.gov/articles/PMC12270342/
+14. Anderson, B. A. (2024). Rethinking distraction. *Visual Cognition*, 32(9–10), 959–978.
 15. Escera, C., & Corral, M. J. (2007). Role of mismatch negativity and novelty-P3 in involuntary auditory attention. *Journal of Psychophysiology*, 21(3–4), 251–264.
 16. Pitts, M. A., Padwal, J., Fennelly, D., Martínez, A., & Hillyard, S. A. (2014). Gamma band activity and the P3 reflect post-perceptual processes, not visual awareness. *NeuroImage*, 101, 337–350.
 17. Aru, J., Bachmann, T., Singer, W., & Melloni, L. (2012). Distilling the neural correlates of consciousness. *Neuroscience & Biobehavioral Reviews*, 36(2), 737–746.
-18. James, W. (1890). *The Principles of Psychology*, Ch. 11 ("Attention").
-19. Heidegger, M. (1927/1962). *Being and Time* (trans. Macquarrie & Robinson).
-20. Gunaratana, B. (1991). *Mindfulness in Plain English*. Wisdom Publications.

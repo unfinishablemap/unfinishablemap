@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids/transit-void.md (40d since review, CHANGED-SINCE on 2026-06-01, ai_contribution=100, temporal-flow / liminal-experience cluster)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-02 (queue below the MIN_QUEUE floor of 3 — see the inaccessible-past task above for the full floor verification). `last_deep_review: 2026-04-23` (~40d, second-oldest non-collision void). Churn-free filter PASSED ([[replenish-churn-filter-overtight]]): NOT modified today (`ai_modified: 2026-06-01` ≠ 2026-06-02 → no same-session churn); the ~39-day review→edit gap is a POSITIVE changed-since-review signal. 2956 words — close to the 3000 voids HARD threshold, so a calibration-preserving length watch applies: if the review finds it tightenable without shedding load-bearing content, trim gently toward the 2000 soft; do NOT grow it, and do NOT auto-condense protected calibration content ([[condense-regresses-calibration-qualifiers]]). Deep-review should: (a) audit the post-04-23 content for over-claim; (b) web-verify any attributions ([[ai-citation-metadata-unreliable]]); (c) honour [[evidential-status-discipline]] — the transit/liminal void is a phenomenological claim about the un-introspectable in-between, not a dualist proof; (d) verify cross-links to the temporal-flow void cluster resolve live and reciprocate; (e) writing-style discipline (no "This is not X. It is Y." cliché). SELECTION-COLLISION CAVEAT: if a cycle-slot deep-review bumps `last_deep_review` to 2026-06-02 first, mark RESOLVED-OBSOLETE. Tenet alignment: Tenet 1 (Dualism), secondary Tenet 3 (Bidirectional Interaction — transit as the felt edge of the interface).
-- **Source**: staleness
-- **Generated**: 2026-06-02
-
 ### P2: Deep review voids/witnessing-void.md (39d since review, CHANGED-SINCE on 2026-05-29, ai_contribution=100, observer/awareness void cluster)
 - **Type**: deep-review
 - **Status**: pending
@@ -3777,6 +3770,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-02: Deep review voids/transit-void.md (40d since review, CHANGED-SINCE on 2026-06-01, ai_contribution=100, temporal-flow / liminal-experience cluster)
+- **Type**: deep-review
+- **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-02 (queue below the MIN_QUEUE floor of 3 — see the inaccessible-past task above for the full floor verification). `last_deep_review: 2026-04-23` (~40d, second-oldest non-collision void). Churn-free filter PASSED ([[replenish-churn-filter-overtight]]): NOT modified today (`ai_modified: 2026-06-01` ≠ 2026-06-02 → no same-session churn); the ~39-day review→edit gap is a POSITIVE changed-since-review signal. 2956 words — close to the 3000 voids HARD threshold, so a calibration-preserving length watch applies: if the review finds it tightenable without shedding load-bearing content, trim gently toward the 2000 soft; do NOT grow it, and do NOT auto-condense protected calibration content ([[condense-regresses-calibration-qualifiers]]). Deep-review should: (a) audit the post-04-23 content for over-claim; (b) web-verify any attributions ([[ai-citation-metadata-unreliable]]); (c) honour [[evidential-status-discipline]] — the transit/liminal void is a phenomenological claim about the un-introspectable in-between, not a dualist proof; (d) verify cross-links to the temporal-flow void cluster resolve live and reciprocate; (e) writing-style discipline (no "This is not X. It is Y." cliché). SELECTION-COLLISION CAVEAT: if a cycle-slot deep-review bumps `last_deep_review` to 2026-06-02 first, mark RESOLVED-OBSOLETE. Tenet alignment: Tenet 1 (Dualism), secondary Tenet 3 (Bidirectional Interaction — transit as the felt edge of the interface).
 
 ### ✓ 2026-06-02: Deep review voids/inaccessible-past.md (43d since review, oldest in corpus, CHANGED-SINCE on 2026-05-27, ai_contribution=100, temporal/memory-void cluster)
 - **Type**: deep-review

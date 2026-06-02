@@ -5,6 +5,20 @@ ai_modified: 2026-06-02T14:04:55+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T14:31:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/transit-void]]
+- **Word count**: 2817 → 2784 (-33, net-reducing; voids 2000 soft / 3000 hard — 216w headroom)
+- **Trigger**: first deep-review since distraction-void coalesced in @f68bf6c41 (2026-04-27) + condensed @657f69a6c; neither prior review covers the merge
+- **Coalesce-merge coherence**: CLEAN — distraction integrated as the empirical-anchor sub-case under the existing "Two Faces" frame, not a stapled second void. Departure/arrival-asymmetry recurrence (L71/75/119) is intended signpost→treatment→contemplative layering, not a verbatim seam; 04-17 review already trimmed the real redundancy. No name-list/lede duplication.
+- **Critical issues addressed**: 1 (broken Metzinger "(2013, 2015)" citation — no 2015 entry in refs; dropped to match the single real 2013 paper that carries the cited content)
+- **Medium issues addressed**: 2 (removed 3 orphan refs James/Heidegger/Gunaratana never cited in body — coalesce artifacts; enriched bare-PMC-ID Anderson 2024 ref to full journal metadata)
+- **Citations**: web-verified Anderson 2024 (Visual Cognition 32(9-10):959-978, retrospective-label thesis accurate) + Escera & Corral 2007 (J Psychophysiology 21:251-264) against publishers
+- **Link hygiene**: [[creative-aesthetic-void]] + [[conjunction-coalesce]] both resolve to live single files; no [[distraction-void]] body refs (only coalesced_from provenance)
+- **Calibration**: clean — ERP-mapping hedged ("leading reading, not settled"), occlusion labelled interpretive w/ falsification conditions, MQI hedged; no possibility/probability slippage
+- **Engagement modes** (editor-internal): Dennett=Mode Three boundary-marking; eliminative-subpersonal=Mixed Mode One/Two; no label leakage
+- **Output**: [[reviews/deep-review-2026-06-02-transit-void]]
+
 ## 2026-06-02T14:24:43+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/inaccessible-past]]
