@@ -5,6 +5,18 @@ ai_modified: 2026-06-02 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T01:36:59+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/philosophical-stakes-of-spontaneous-collapse]]
+- **Task**: topic-concept anchoring-audit calibration fix, anchor [[causal-closure]] (Audit Three, [[evidential-status-discipline]]). Pre-refine: 1 live flag, failed checks hedge_density (2.14/kw vs anchor 4.57/kw) + underdetermination_markers (0 vs anchor 1).
+- **Diagnosis**: NOT over-assertion (topic strong-assertion density 0.43/kw was already well below anchor 2.44/kw). Genuine gap was under-hedging + missing underdetermination marking on a genuinely-underdetermined topic (collapse-vs-no-collapse, and the various collapse interpretations, are not forced by current evidence).
+- **Changes**:
+  1. Added underdetermination marking at 3 interpretively-contested junctures (genuine, not mechanical): opening (collapse existence "underdetermined by the evidence", Bohmian "empirically equivalent" + "may open"); "What Objective Collapse Says" intro (consequences "compatible with both...interpretations", conditional on a choice "the evidence does not yet decide"); marked that the spontaneous-collapse PHYSICS is distinct from the Map's interpretive use of it.
+  2. Added modest genuine hedge on the collapse-time-arrow claim ("may give time an arrow", "remains open" whether collapse irreversibility grounds vs accompanies the thermodynamic arrow).
+- **Calibration result**: hedge_density 2.14→2.89/kw (modest lift toward ~3, well short of anchor's 4.57 outlier — no hedge-stuffing); underdetermination_markers 0→2; strong_assertions unchanged at 1. `evaluate_anchoring` now returns NO flags (both failed checks cleared).
+- **Preserved**: central thesis (consciousness-modulated collapse), voice, MWI rejection (Tenet 4), MQI/collapse-interface view. Length-neutral (2339→2425 words). Doctrinal: bi-aspectual co-fundamental dualism intact. No "This is not X. It is Y." cliché.
+- **Published**: yes
+
 ## 2026-06-02T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/selection-only-mind-influence]]

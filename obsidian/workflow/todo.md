@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt causal-closure calibration in philosophical-stakes-of-spontaneous-collapse
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/philosophical-stakes-of-spontaneous-collapse.md
-- **Notes**: From topic-concept anchoring audit 2026-06-02. The topic article over-claims relative to its anchor concept [[causal-closure]]; failed checks: hedge_density, underdetermination_markers.
-  - hedge density 2.14/kw is below 60% of anchor (4.57/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-02
-
 ### P2: Adopt consciousness-value-connection calibration in valence-and-conscious-selection
 - **Type**: refine-draft
 - **Status**: pending
@@ -58,7 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-02
-
 
 ### ✓ RESOLVED-OBSOLETE (2026-06-02): Deep review concepts/entanglement-binding-hypothesis.md (gap ~30d review→ai_modified, SUBSTANTIVE no-go-theorem engagement, ai_contribution=100, quantum-binding cluster)
 - **Type**: deep-review
@@ -3769,6 +3757,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-02: Adopt causal-closure calibration in philosophical-stakes-of-spontaneous-collapse
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-02. The topic article over-claims relative to its anchor concept [[causal-closure]]; failed checks: hedge_density, underdetermination_markers.
 
 ### ✓ 2026-06-02: Deep review topics/selection-only-mind-influence.md (gap ~19d review→ai_modified, SUBSTANTIVE orphan-integration deep-review change, ai_contribution=100, quantum-interface / epiphenomenalism cluster)
 - **Type**: deep-review
