@@ -5,6 +5,17 @@ ai_modified: 2026-06-02 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T02:31:10+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/coalesce-condense-apex-stability]]
+- **Word count**: 2924 → 2931 (+7, length-neutral; soft_warning, under hard threshold)
+- **Critical issues addressed**: 1 (stale discipline-count: intro said "one of four named methodological disciplines"; the family has grown to eight per mechanism-costs-cartography's own enumeration — corrected to "now spans eight scales" and surfaced the mechanism-costs-cartography cross-link in the intro body; offset by tightening the retention-test paragraph)
+- **Medium issues addressed**: 0 (length: crossed soft threshold via May own-calibration additions; retention-test-protected, NOT cut; deferred to human if it nears hard threshold)
+- **Enhancements made**: 1 (mechanism-costs-cartography cross-link promoted into intro)
+- **Verification**: internal-reference audit (meta-article cites catalogue history, not external lit) — cited commit 5ea6d0c90 confirmed (2026-05-03 06:59 UTC, matches cited window); epistemic-horizon-void confirmed archived; meta-epistemology word counts consistent (2758 now vs claimed 2731 post-condense); all 15 wikilinks resolve; no label leakage; no cliché; no attribution/calibration/doctrinal issues (methodological article, no consciousness claims)
+- **Verdict**: converged + one staleness correction. Engagement classification N/A (no named opponents)
+- **Output**: [[reviews/deep-review-2026-06-02-coalesce-condense-apex-stability]]
+
 ## 2026-06-02T02:25:24+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/argument-from-reason]]
