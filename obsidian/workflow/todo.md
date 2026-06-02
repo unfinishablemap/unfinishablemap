@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Reciprocal cross-links for topics/phenomenology-of-musical-understanding.md (temporal-consciousness ↔ music; AI-music tie-in)
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/phenomenology-of-musical-understanding.md
+- **Notes**: Suggested by optimistic review 2026-06-02b ([[optimistic-2026-06-02b]]). Two length-neutral connective fixes; NO new article needed (corpus already holds the matching halves). (1) Reciprocate the heavy durée/specious-present dependency: `concepts/temporal-consciousness.md` does not link back to the music article despite music being the cleanest illustration of "a single experience of succession, not a succession of experiences" — add one sentence + link there, mirror into related_articles. (2) The "genuine AI musical understanding" challenge point (article line 116) is an unlinked thought-experiment; cross-link it to `topics/machine-consciousness.md` / `concepts/ai-consciousness-typology.md` (the understanding-vs-pattern-matching material), framing present-day generative-music systems as the concrete no-temporal-phenomenology case the challenge specifies. Keep it a *defeasibility* note, NOT an evidential claim about machine experience ([[evidential-status-discipline]]). Article is converged and needs no internal rewrite.
+
 ### ✓ RESOLVED-BY-CONSOLIDATION (2026-06-02): Add Metzinger's ARAS/tonic-alertness reductive explanans (and resolve the Zahavi–Metzinger tension) in voids/minimal-consciousness-void.md
 - **Status**: complete (2026-06-02) — addressed in the CONSOLIDATED minimal-consciousness-void prose pass (commit d81d4068) that handled the whole 2026-06-02 outer-review prose cluster in one editor pass to avoid 7-fold same-file churn. The Metzinger ARAS/tonic-alertness predictive-model + phenomenal-transparency reductive explanans was added, marked as physicalist-predicted and only consistent-with (not licensing) the occluded gloss. Verify in the article before re-queueing.
 - **Type**: refine-draft
