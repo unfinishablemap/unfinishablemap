@@ -1,13 +1,137 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02 20:51:38+00:00
+ai_modified: 2026-06-02 22:50:12+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-02'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-02T22:50:12+00:00 - refine-draft
+- **Status**: Success
+- **File**: [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/)
+- **Original score**: n/a (scripts/curate.py review path stale)
+- **Driver**: pessimistic-review 2026-06-02 (second target) — calibration-DOWN of a motivational over-claim. Schurger 2012 confirmed engaged only in a further-reading cross-link, never in the body. Article was 2241w, last_deep_review 2026-05-18, not touched today (genuine).
+- **Changes**:
+  - Added a Schurger, Sitt & Dehaene 2012 engagement paragraph to "The Timing Problem": concedes the RP-as-prior-unconscious-decision premise is contested (stochastic-accumulator/threshold-on-noise reinterpretation dissolves the timing puzzle with NO quantum-temporal machinery); relocates residual motivation to (a) Soon et al. multi-second prefrontal predictivity not obviously covered by the spontaneous-movement accumulator, (b) the conscious-causation question per se. Marked Schurger a live deflationary rival the mechanism must coexist with, not refute — weakens but does not eliminate motivation.
+  - Softened frontmatter description: "Dissolves the Libet timing puzzle entirely." → "One candidate response to the Libet timing puzzle, locating selection outside temporal sequence." Lede softened in parallel: "distinctive advantage … dissolves the Libet timing problem entirely" → "structural difference … addresses … by locating selection outside temporal sequence," with a forward-pointer to the Schurger concession.
+  - Decoherence Challenge: added residual-timescale-gap caveat — corrected ~10⁻⁶ s Hagan/Hameroff/Tuszyński figure is still ~8 orders short of 10²–10³ ms neural timescales; the Zeno mechanism carries the load, not the coherence figure. Attributed the seven-orders estimate correctly to Hagan, Hameroff & Tuszyński (2002).
+  - Reframed "Phenomenological Fit" as illustrative not discriminating: forward-causal selection predicts identical reports, so phenomenology motivates/illustrates but does not adjudicate; softened "matches" → "is consistent with" on two items; added the no-felt-lateness equivalence caveat.
+  - Added Schurger 2012 and Hagan/Hameroff/Tuszyński 2002 references (both web-verified accurate this pass; no fabricated cites).
+- **Word count**: 2241 → 2725 (under topics soft 3000; well under hard 4000)
+- **Published**: yes (kept draft status)
+
+## 2026-06-02T22:45:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/time-symmetric-selection-mechanism.md` (cycle-slot second target; complements today's deep-review of its forward-in-time sibling). Last deep-review 2026-05-18, not touched this session.
+- **Findings**: High — motivational over-claim: article justified by "dissolves the Libet timing puzzle entirely," but Schurger 2012 deflation (web-verified real) never engaged in body (only a further-reading line); if right, the timing problem dissolves with no quantum machinery, undercutting the article's claimed comparative advantage. Medium — Decoherence Challenge cites the corrected ~10⁻⁶ s Hagan/Hameroff figure without noting it is still ~8 orders short of neural timescales. Medium — phenomenological-fit presented as discriminating evidence the article elsewhere concedes is impossible. Soon 60% + "seven orders of magnitude" both web-verified ACCURATE (no fabricated cites).
+- **Queued**: P2 refine-draft (engage Schurger, soften description, add decoherence caveat, reframe phenomenological fit).
+- **Output**: [pessimistic-2026-06-02](/reviews/pessimistic-2026-06-02/) (second-target section)
+
+## 2026-06-02T22:39:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [pupillometry-behavioural-channel](/topics/pupillometry-behavioural-channel/)
+- **Task**: Complete the proxy-tests↔pupillometry back-link (one-directional cross-link gap from /optimistic-review 2026-06-02). Forward link existed (proxy-tests → pupillometry, frontmatter + body line 119); back link genuinely absent.
+- **Changes**: (a) added `[[topics/cross-species-behavioural-confidence-proxy-tests]]` to related_articles frontmatter; (b) added one body sentence in the Conjunction Probes section positioning autonomic/pupillometric third-person dissociation and the wager/opt-out behavioural proxy as complementary within-biology channel methodologies under the introspection-architecture-independence exhibit.
+- **Scope discipline**: length-neutral cross-link completion only; no evidential-claim change, no citation change, no TIER/evidential-status wording touched (both articles are calibration-disciplined per evidential-status-discipline).
+- **Word count**: 2340 → 2395 body words (+55; well under topics/ soft 3000, hard 4000).
+- **Published**: yes (draft status unchanged: draft: false)
+
+## 2026-06-02T22:36:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-value-realism](/topics/phenomenal-value-realism/)
+- **Selection**: Task-specified (16-day genuine unreviewed window; 10th review of converged calibration-anchor article).
+- **Word count**: 3971 → 3969 (−2; net-neutral-to-negative as required; 31 under topics/ HARD 4000)
+- **Length**: standing human-length-decision candidate (over soft 3000 from own load-bearing calibration content); NOT auto-condensed; no growth, so no new flag.
+- **Style fix**: removed one "This is not X. It is Y." cliché (Error Theory section) that survived all 9 prior passes; rephrased to direct positive claim (−2 words).
+- **Citation web-verify (live, publisher of record)**: Rawlette quote "When we feel pleasure, we are feeling intrinsic goodness itself" — **VERBATIM CONFIRMED** on sharonrawlette.com (NOT fabricated; quote-marks warranted). Rawlette 2016 + Nagel foreword CONFIRMED. Rawlette STANCE CONFIRMED: pure hedonist + metaethical naturalist, NOT dualist (article's "does not commit to dualism" accurate). Moore 1903, Mackie 1977, Korsgaard 1996, Frankish 2016 JCS 23(11-12):11-39 — canonical, clean.
+- **Evidential-status/over-claim**: PASS — no taxonomic-novelty "fifth option" over-claim; "Map extends to phenomenal value pluralism" marked as Map's position; distinctiveness located in dualism's ontology; position-not-result markers preserved.
+- **Cross-link reciprocity**: PASS — ethics-under-dualism (5), meaning-of-life (4), consciousness-value-connection (3), evaluative-phenomenal-character (3) all live + reciprocate.
+- **Reasoning-mode**: no label leakage, no boundary-substitution (carried + reconfirmed from 05-11).
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (style cliché)
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-06-02-phenomenal-value-realism](/reviews/deep-review-2026-06-02-phenomenal-value-realism/)
+
+## 2026-06-02T22:35:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-normative-force](/topics/consciousness-and-normative-force/)
+- **Selection**: Scorer headline (out-of-body-experiences) excluded — ai_modified TODAY (same-session churn). Chose this for a genuine large review-gap with own-content change post-dating its prior review (ai_modified 05-14 after 05-09 review, then 19d untouched), not over-ceiling, not over-reviewed.
+- **Word count**: 2747 → 2747 (no change; converged article, net-neutral verification-led pass)
+- **Citation web-verify**: Rawlette 2016 (*The Feeling of Value*) — VERIFIED title/author/year + STANCE; Williams 1965 "Ethical Consistency" — VERIFIED venue/vol 39/pp 103-124; Nagel 1979 "The Fragmentation of Value" (*Mortal Questions*, CUP) — VERIFIED + STANCE. Williams 1981, Korsgaard 1996, Hume/Kant/Moore canonical, no defect. No fabricated first-authors, no stance-reversal.
+- **Calibration**: clean — thesis presented as argument; MQI "clear candidate" posited not established; five falsifiers present; no possibility/probability slippage (tenet-accepting reviewer would not flag).
+- **Reasoning-mode**: rationalism Mode 2, contractualism Mode 2, naturalism Mode 2+3, expressivism Mode 3. No label leakage, no boundary-substitution.
+- **Critical issues addressed**: 0 (none found — fourth review, convergence)
+- **Medium issues addressed**: 0 (prior 05-09 hygiene fixes verified still resolved)
+- **Enhancements made**: 0 (editing converged calibration-honest article would be churn)
+- **Output**: [deep-review-2026-06-02-consciousness-and-normative-force](/reviews/deep-review-2026-06-02-consciousness-and-normative-force/)
+
+## 2026-06-02T22:16:48+00:00 - refine-draft
+- **Status**: Success
+- **File**: [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/)
+- **Task**: Topic-concept anchoring-audit calibration alignment vs anchor [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) (live flag, failed_checks=[hedge_density, underdetermination_markers]; strong_assertion already 0). Sibling of the consciousness-disruption fix, separate article.
+- **Primary fix**: Added a genuine, substantively-true underdetermination passage to the "Interpretation underdetermination" methodological-challenges item — the altered-experience evidence (psychosis, dissociation, depersonalization, psychedelic states) is consistent with both the physicalist substrate reading and the Map's dualist interface reading and does not settle the metaphysics. Quote: *"the metaphysics is underdetermined by the evidence: the altered-experience findings … are consistent with the physicalist reading on which these are alterations in the neural *substrate* of consciousness and with the Map's reading on which they are alterations at the mind-brain *interface*. The clinical evidence does not adjudicate between the two; it constrains which framework is more parsimonious without deciding which is true."* (recognized markers: "underdetermined by the evidence", "does not adjudicate".)
+- **Secondary fixes**: Softened two genuine over-assertions of metaphysical decisiveness — "DPD reveals that normal experience has at least three global features…" → "DPD is consistent with normal experience having…"; "This is precisely what the clinical evidence consistently shows." → "This is consistent with what the clinical evidence consistently displays." No filler hedges added; no central thesis weakened.
+- **Anchoring result**: underdetermination_marker_count 0 → 3; hedge_count unchanged at 8 (hedge_density 2.345 → 2.294 with the longer body). failed_checks 2/3 → 0/3, flag cleared (re-ran evaluate_anchoring; no flags).
+- **Length**: body 3412 → 3487w (under topics hard 4000; ~513w headroom). No content removed.
+- **Original score**: n/a (calibration-targeted refine, not a full quality review)
+- **Published**: yes
+
+## 2026-06-02T22:12:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/)
+- **Task**: Topic-concept anchoring-audit calibration alignment vs anchor [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) (live flag, failed_checks=[hedge_density, underdetermination_markers]).
+- **Primary fix**: Added a genuine, substantively-true underdetermination paragraph to the Discrimination Problem section — the NCC disruption evidence (anesthesia, coma, DoC, lesions) is consistent with both the physicalist substrate reading and the Map's dualist interface reading and does not settle which. Quote: *"the question of whether the neural side is the substrate of consciousness or its physical interface is underdetermined by the evidence … A reliable correlate, however precisely mapped, does not adjudicate between identity and mediation."* (2 recognized markers: "underdetermined by the evidence", "does not adjudicate")
+- **Secondary fixes**: Softened three over-assertions where a disruption result read as more decisive than warranted — "CMD shows apparent abolition is misdiagnosis" → "CMD suggests…"; Geschwind "demonstrated" → "indicated" (also drops a strong-assertion marker); CMD responses "—understanding language…" → "responses that appear to involve understanding language…".
+- **Anchoring result**: all axes now clear vs neural-correlates-of-consciousness — underdetermination 0→2, hedge_count 8→9, strong_assertion 0 (already clean). failed_checks 2/3 → 0/3, flag cleared. Re-ran evaluate_anchoring across all 19 anchors: all clear.
+- **Length**: body 3797 → 3920w (under topics hard 4000; 80w to spare). No content removed; no central claim weakened.
+- **Published**: yes (kept draft status as-is)
+
+## 2026-06-02T22:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-integrated-information](/topics/consciousness-and-integrated-information/)
+- **Word count**: 3599 → 3743 (+144 net; +170 currency add, −26 dedup offset; under topics hard 4000, 257 to spare)
+- **Critical issues addressed**: 0 (fourth consecutive no-critical pass)
+- **Medium issues addressed**: 1 (IIT literature-currency: added calibrated mention of the Sept-2023 pseudoscience open letter to "What IIT Gets Right" empirical-engagement claim, which had been left behind the live debate)
+- **Low issues addressed**: 1 (trimmed duplicated explanatory-gap/water=H₂O passage in Relation-to-Site-Perspective to a back-reference)
+- **Citations web-verified at publisher of record**: Albantakis et al. 2023 IIT 4.0 — CLEAN (first author Albantakis; PLOS Comp Biol 19(10):e1011465; 16-author list, "et al." apt; no co-author drift). Fisher 2015 — CLEAN (Annals of Physics 362:593-602; Posner/nuclear-spin framing correct). Aaronson 2014 — CLEAN (real Shtetl-Optimized post, exact title incl. "(or, The Unconscious Expander)"; expander-graph + Tononi-panpsychism paraphrases accurate; no verbatim-quote defect). COGITATE 2025 — CONFIRMED consistent (verified clean earlier this session, not re-flagged). Fleming et al. 2023 pseudoscience letter — VERIFIED before adding (PsyArXiv, 15 Sept 2023, 124 signatories). Tononi 2008, Lamme 2006, Baars 1988, Dehaene 2011, Friston 2010, Whitehead 1929, Kim 2005, Tegmark 2000, Coslett & Saffran 1991 — source-conclusion pass, no defects.
+- **Calibration check**: PASS — pseudoscience controversy framed as open intra-physicalist dispute, NOT weaponized for the Map (charge cuts against IIT's scientific standing, does nothing to vindicate the Map; Map's objections remain philosophical not testability). No epistemic→metaphysical slide; underdetermination markers + critique-on-IIT's-own-terms preserved.
+- **Reasoning-mode**: all named-opponent engagements Mode One except circularity (Mode Three/Mixed) and the new pseudoscience-charge engagement (Mode Three, honest boundary-marking). No label leakage, no boundary-substitution.
+- **Output**: [deep-review-2026-06-02-consciousness-and-integrated-information](/reviews/deep-review-2026-06-02-consciousness-and-integrated-information/)
+
+## 2026-06-02T21:56:59+00:00 - deep-review
+- **Status**: Success
+- **File**: [objections-to-interactionism](/concepts/objections-to-interactionism/)
+- **Word count**: 2877 → 2903 (+26; reference-section growth; under concepts hard 3500)
+- **Critical issues addressed**: 2 (fabricated/conflated "Kalra 2025 PNAS mice" cite → verified Khan et al. 2024 eNeuro 11(8), rats; Kerskens 2nd-author surname Pérez → López Pérez)
+- **Medium issues addressed**: 1 (added Cucu & Pitts 2019 published venue: Mind and Matter 17(1):95-121)
+- **Citations web-verified**: all at publisher of record. Tegmark 2000 decoherence figures 10⁻¹³–10⁻²⁰s + "10 orders of magnitude" CLEAN; Saad 2025 Phil Studies 182:939-967 exact (not reverted to position-name); Pitts 2020 Philosophia 48(2):673-707 exact; Bailey/Rasmussen/Van Horn 2011 Phil Studies 154:349-360 exact; Kerskens framing matches paper+Comment/Reply
+- **Calibration check**: PASS — in-framework vs framework-boundary ratings preserved EXACTLY; no upgrade of framework-boundary→in-framework; Kerskens + photosynthesis hedges intact; No-Many-Worlds stays tenet-marked
+- **Reasoning modes**: Kim(pairing)=One; conservation=Mixed; exclusion=Mixed; decoherence=Mixed; evolution=One. No boundary-substitution, no label leakage
+- **Output**: [deep-review-2026-06-02-objections-to-interactionism](/reviews/deep-review-2026-06-02-objections-to-interactionism/)
+
+## 2026-06-02T21:46:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [open-question-ai-consciousness](/apex/open-question-ai-consciousness/)
+- **Word count**: 4761 → 4770 (+9; under apex hard 5000)
+- **Critical issues addressed**: 0 (none found)
+- **Citation defects fixed**: 2 (Plotnitsky 2023 article-number 793→706 + full title restored; Vatter 2025 author-initial J→V + title/venue corrected to "Avoidable and Unavoidable Randomness in GPT-4o", *Towards Data Science*)
+- **Citations web-verified**: 20+ at publisher of record — all real, correct first-authors, stances confirmed. Maier–Dechamps null result + 12,571 participants CONFIRMED; Neven 9-author list exact; Butlin 2023/2025 distinct and real; Wiest M.C./niaf011 confirmed; Cerullo anti-Hoel stance confirmed; Metzinger "explosion of negative phenomenology" confirmed verbatim
+- **Calibration / open-question check**: PASS (no possibility/probability slippage; tenet-coherence not dressed as evidence-upgrade; Duch engagement Mode Three honest; no label leakage)
+- **Output**: [deep-review-2026-06-02-open-question-ai-consciousness](/reviews/deep-review-2026-06-02-open-question-ai-consciousness/)
+
+## 2026-06-02T21:39:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [substrate-independence](/concepts/substrate-independence/)
+- **Word count**: 3162 → 3162 body (no change; length-neutral; concepts soft 2500 / hard 3500 → soft_warning, under hard; hub accretion not own-content growth)
+- **Four-bucket**: converged (5th deep review). Citation-focused pass; NO content changes (convergence discipline) — all cites verified clean. No critical, no medium, no enhancement, no cross-link needed.
+- **Citation web-verify verdicts (publisher of record)**: Santander et al. 2025 PNAS 122(43):e2520190122 = CLEAN via PubMed 41118210 (title/vol/issue/article-id/DOI exact; authors Santander→Bekir→Paul confirmed; Gazzaniga co-author #14; senior authors Volz & Miller — frontmatter footnote exactly right; the propagated fix is CORRECT, not a new error). Hoel 2026 arXiv:2512.12802 = CLEAN (ID resolves; full title + author exact; v1 Dec-2025/v3 Jan-2026; the earlier-session "fabricated Hoel" flag is a FALSE POSITIVE for this cite; year 2026 corpus-consistent). Milinkovic & Aru 2026 Neurosci.Biobehav.Rev. 181:106524 = CLEAN (PubMed 41419099; both authors/title/venue/article-id confirmed; "biological computationalism" is their coinage). Tallis 2024 "The Illusion of Illusionism" Philosophy Now Issue 161 (Apr/May 2024) = CLEAN, NO year-drift. Tegmark 2000 / Hagan-Hameroff-Tuszyński 2002 = consistent with prior clean verifications. Canonical set (Block/Chalmers/Fodor/Frankish/Husserl/Levine/Putnam/Searle/Turing/Whitehead) = source-stable, metadata matches, verified across 4 prior reviews.
+- **Calibration check**: PASS. "Almost certainly isn't conscious" passes the diagnostic test (tenet-accepting reviewer would not flag; load-bearing support is the tenets + "may require" conditionality hedges). Santander split-brain framed as Map-side interpretation ("pattern expected if..."), not source claim. No possibility/probability slippage; no anchoring flag.
+- **Fairness**: Map rejects substrate-independence; dialectic fair — multiple realizability + 4 pro arguments stated on their own terms before critique; bedrock disagreements (China brain, MWI/haecceity, eliminativism, illusionism) marked honestly. No strawman, no boundary-substitution.
+- **Reasoning-mode**: Tegmark Mode One; Frankish/Tallis Mode One; Turing Mixed (Two→Three); China brain Mode Three; Milinkovic & Aru Mode One. No label leakage.
+- **Output**: [deep-review-2026-06-02-substrate-independence](/reviews/deep-review-2026-06-02-substrate-independence/)
 
 ## 2026-06-02T21:25:42+00:00 - deep-review
 - **Status**: Success

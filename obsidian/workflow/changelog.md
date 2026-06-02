@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02T22:36:20+00:00
+ai_modified: 2026-06-02T22:50:12+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T22:50:12+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/time-symmetric-selection-mechanism]]
+- **Original score**: n/a (scripts/curate.py review path stale)
+- **Driver**: pessimistic-review 2026-06-02 (second target) — calibration-DOWN of a motivational over-claim. Schurger 2012 confirmed engaged only in a further-reading cross-link, never in the body. Article was 2241w, last_deep_review 2026-05-18, not touched today (genuine).
+- **Changes**:
+  - Added a Schurger, Sitt & Dehaene 2012 engagement paragraph to "The Timing Problem": concedes the RP-as-prior-unconscious-decision premise is contested (stochastic-accumulator/threshold-on-noise reinterpretation dissolves the timing puzzle with NO quantum-temporal machinery); relocates residual motivation to (a) Soon et al. multi-second prefrontal predictivity not obviously covered by the spontaneous-movement accumulator, (b) the conscious-causation question per se. Marked Schurger a live deflationary rival the mechanism must coexist with, not refute — weakens but does not eliminate motivation.
+  - Softened frontmatter description: "Dissolves the Libet timing puzzle entirely." → "One candidate response to the Libet timing puzzle, locating selection outside temporal sequence." Lede softened in parallel: "distinctive advantage … dissolves the Libet timing problem entirely" → "structural difference … addresses … by locating selection outside temporal sequence," with a forward-pointer to the Schurger concession.
+  - Decoherence Challenge: added residual-timescale-gap caveat — corrected ~10⁻⁶ s Hagan/Hameroff/Tuszyński figure is still ~8 orders short of 10²–10³ ms neural timescales; the Zeno mechanism carries the load, not the coherence figure. Attributed the seven-orders estimate correctly to Hagan, Hameroff & Tuszyński (2002).
+  - Reframed "Phenomenological Fit" as illustrative not discriminating: forward-causal selection predicts identical reports, so phenomenology motivates/illustrates but does not adjudicate; softened "matches" → "is consistent with" on two items; added the no-felt-lateness equivalence caveat.
+  - Added Schurger 2012 and Hagan/Hameroff/Tuszyński 2002 references (both web-verified accurate this pass; no fabricated cites).
+- **Word count**: 2241 → 2725 (under topics soft 3000; well under hard 4000)
+- **Published**: yes (kept draft status)
 
 ## 2026-06-02T22:45:00+00:00 - pessimistic-review
 - **Status**: Success

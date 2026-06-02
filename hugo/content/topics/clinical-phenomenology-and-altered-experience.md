@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-04
-ai_modified: 2026-06-02 06:19:46+00:00
+ai_modified: 2026-06-02 22:16:48+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -109,7 +109,7 @@ The philosophical significance is substantial. Our sense of the future as open a
 
 Depersonalization/derealisation disorder (DPD) provides a particularly clean philosophical demonstration. Patients maintain insight—they know their experience is altered—which makes their reports especially reliable as phenomenological data.
 
-DPD reveals that normal experience has at least three global features that can be independently disrupted:
+DPD is consistent with normal experience having at least three global features that can be independently disrupted:
 
 - **Mineness**: the sense that experiences belong to the subject
 - **Actuality**: the sense that the experienced world is real
@@ -135,7 +135,7 @@ Granting this, the Map's disagreement with functionalism is not that it lacks a 
 
 ### What Interface Dualism Predicts
 
-The Unfinishable Map's interface model naturally expects clinical disruptions to take the form of selective channel failures: specific components of the mind-brain interface going offline while others continue operating. This is precisely what the clinical evidence consistently shows. The relationship is one of natural fit rather than risky ex-ante prediction—the interface model did not forecast any specific dissociation that materialism failed to anticipate, and the honest claim is parsimony, not a prediction race: the pattern falls out of the interface picture without added assumptions, whereas the identity theorist must independently posit that modular neural architecture maps cleanly onto modular experience. The [dissociation evidence](/topics/neurological-dissociations-as-interface-architecture/) maps onto specific interface channels: sensory ascending, motor descending, self-model, affective colouring, temporal integration.
+The Unfinishable Map's interface model naturally expects clinical disruptions to take the form of selective channel failures: specific components of the mind-brain interface going offline while others continue operating. This is consistent with what the clinical evidence consistently displays. The relationship is one of natural fit rather than risky ex-ante prediction—the interface model did not forecast any specific dissociation that materialism failed to anticipate, and the honest claim is parsimony, not a prediction race: the pattern falls out of the interface picture without added assumptions, whereas the identity theorist must independently posit that modular neural architecture maps cleanly onto modular experience. The [dissociation evidence](/topics/neurological-dissociations-as-interface-architecture/) maps onto specific interface channels: sensory ascending, motor descending, self-model, affective colouring, temporal integration.
 
 The interface model also leads us to expect that experiential disruption can occur without proportional neural damage—and that neural damage can occur without proportional experiential disruption. Both expectations are borne out clinically.
 
@@ -157,7 +157,7 @@ Clinical phenomenology as philosophical evidence faces legitimate concerns:
 
 **Reliability of patient reports.** Psychiatric patients may struggle to articulate experiential disruptions. Trained phenomenological interviewers use instruments like the EASE that systematically probe specific experiential domains. Cross-validation between patients, and between reports and objective measures, provides constraint.
 
-**Interpretation underdetermination.** The same data can be interpreted through different lenses, and the Map should not overstate the asymmetry here. Neural modularity straightforwardly entails dissociable experiential disruption, so the materialist is not merely accommodating post hoc—a modular brain predicts modular breakdown. The honest difference is one of parsimony: the selective-channel pattern is what the interface model expects without further assumption, whereas the identity theorist must add the independent posit that the brain's functional modules align with the felt components of experience. This is a natural-expectation point, not a claim that the interface model issued falsifiable forecasts the materialist missed.
+**Interpretation underdetermination.** The same data can be interpreted through different lenses, and the Map should not overstate the asymmetry here. Neural modularity straightforwardly entails dissociable experiential disruption, so the materialist is not merely accommodating post hoc—a modular brain predicts modular breakdown. The honest difference is one of parsimony: the selective-channel pattern is what the interface model expects without further assumption, whereas the identity theorist must add the independent posit that the brain's functional modules align with the felt components of experience. This is a natural-expectation point, not a claim that the interface model issued falsifiable forecasts the materialist missed. Pressed to its limit, the metaphysics is underdetermined by the evidence: the altered-experience findings of psychosis, dissociation, depersonalization, and psychedelic states are consistent with the physicalist reading on which these are alterations in the neural *substrate* of consciousness and with the Map's reading on which they are alterations at the mind-brain *interface*. The clinical evidence does not adjudicate between the two; it constrains which framework is more parsimonious without deciding which is true.
 
 **Selection bias.** The remedy is comprehensiveness: consider all major clinical disruption patterns, including those that present difficulties for one's own framework.
 

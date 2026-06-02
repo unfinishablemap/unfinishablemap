@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-05-27 22:10:00+00:00
+ai_modified: 2026-06-02 22:36:20+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ description: Why value lives in conscious experience—not in preferences, socia
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-11 10:05:00+00:00
+last_deep_review: 2026-06-02 22:36:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -105,7 +105,7 @@ This matters urgently for [AI alignment](/topics/purpose-and-alignment/). If we 
 
 Error theorists—most influentially J. L. Mackie in *Ethics: Inventing Right and Wrong* (1977)—hold that all moral claims are false because nothing has objective value. The universe is just matter in motion; "good" and "bad" are projections we impose.
 
-Phenomenal value realism's response is direct: attend to actual suffering. Not the concept of suffering, not a description of neural activation patterns—the experience itself. The claim "this suffering contains nothing bad" is not a bold philosophical thesis. It is a failure to understand what the word "bad" refers to.
+Phenomenal value realism's response is direct: attend to actual suffering. Not the concept of suffering, not a description of neural activation patterns—the experience itself. The claim "this suffering contains nothing bad" is no bold philosophical thesis but a failure to understand what the word "bad" refers to.
 
 Error theory gains its plausibility from considering value abstractly, at a distance. It loses plausibility the moment one considers actual experience.
 

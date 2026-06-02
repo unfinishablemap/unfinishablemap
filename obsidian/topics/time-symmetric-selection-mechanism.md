@@ -1,10 +1,10 @@
 ---
 title: "Time-Symmetric Selection Mechanism"
-description: "Consciousness selects quantum outcomes atemporally via transactional interpretation and TSVF. Dissolves the Libet timing puzzle entirely."
+description: "Consciousness selects quantum outcomes atemporally via transactional interpretation and TSVF. One candidate response to the Libet timing puzzle, locating selection outside temporal sequence."
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-05-18T12:21:34+00:00
+ai_modified: 2026-06-02T22:50:12+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,13 +36,15 @@ last_deep_review: 2026-05-18T12:21:34+00:00
 
 Time-symmetric selection proposes that consciousness determines quantum outcomes not at a moment in time but through [[atemporal-causation|atemporal constraint satisfaction]]. On this view, consciousness participates in determining which correlations hold between past and future—selecting which "transaction" completes—rather than causing collapse at an instant. This resolves the apparent timing problem from [[libet-experiments|Libet experiments]]: neural activity can precede conscious awareness without undermining conscious causation, because the selection isn't located in time at all.
 
-The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] and [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenets require a mechanism for consciousness to influence physical outcomes. Time-symmetric selection is one of two pathways the Map develops. The alternative—[[forward-in-time-conscious-selection|non-retrocausal conscious selection]]—proposes that consciousness acts forward in time, selecting among currently superposed neural states at the moment of collapse. That pathway avoids the transactional interpretation dependency and carries fewer metaphysical commitments. Time-symmetric selection carries greater commitments but offers a distinctive advantage: it dissolves the Libet timing problem entirely rather than requiring macroscopic neural superpositions to persist long enough for forward-in-time selection to operate.
+The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] and [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenets require a mechanism for consciousness to influence physical outcomes. Time-symmetric selection is one of two pathways the Map develops. The alternative—[[forward-in-time-conscious-selection|non-retrocausal conscious selection]]—proposes that consciousness acts forward in time, selecting among currently superposed neural states at the moment of collapse. That pathway avoids the transactional interpretation dependency and carries fewer metaphysical commitments. Time-symmetric selection carries greater commitments but offers a structural difference: it addresses the Libet timing problem by locating selection outside temporal sequence, rather than requiring macroscopic neural superpositions to persist long enough for forward-in-time selection to operate. Whether this counts as an advantage depends on how much work the timing problem still needs—and, as the next section concedes, the strongest deflationary reading of Libet may already do much of that work without any quantum-temporal machinery.
 
 ## The Timing Problem
 
 [[libet-experiments|Benjamin Libet's experiments]] (1983) revealed that neural "readiness potentials" precede conscious awareness of deciding by several hundred milliseconds. Later fMRI studies by Soon et al. (2008) extended this to seconds. If neural activity comes first, how can consciousness be the cause?
 
 The standard interpretation: the brain decides, then informs consciousness—which is therefore epiphenomenal. [[illusionism|Illusionists]] go further, arguing consciousness doesn't really "arrive" at all—the brain constructs the appearance of decision-making post hoc. But both conclusions only follow if causation must flow forward in time. Time-symmetric interpretations of quantum mechanics deny this assumption.
+
+Before pressing that move, honesty requires engaging the strongest deflationary rival, which does not need any time-symmetric machinery. The standard interpretation above takes the readiness potential to be a prior unconscious *decision* that the brain only later reports to consciousness. That premise is contested. Schurger, Sitt and Dehaene (2012) reinterpret the readiness potential as a stochastic accumulator crossing a threshold: spontaneous neural noise drifts until it happens to reach the movement threshold, and the apparent pre-movement ramp is an artefact of averaging trials backward from movement onset. On this reading there is no unconscious decision sitting causally upstream of the conscious one—and the Libet timing puzzle largely dissolves with no quantum, no retrocausality, and no atemporal selection. This is a live and well-supported account, and the present mechanism must coexist with it rather than claim to have refuted it. What the accumulator model does *not* obviously cover relocates the residual motivation: (a) the multi-second prefrontal predictivity reported by Soon et al. (2008) for arbitrary left/right choices is not clearly the same phenomenon as a spontaneous-movement accumulator, and remains under active debate; and (b) the conscious-causation question itself survives intact—even granting that the readiness potential is mere accumulating noise, whether and how consciousness contributes to which outcome the noise resolves to is exactly what a selection mechanism addresses, and is untouched by the accumulator reinterpretation. The Schurger deflation therefore weakens the timing-puzzle motivation for time-symmetric selection without eliminating the conscious-causation motivation that remains the mechanism's real target.
 
 ## Time-Symmetric Physics
 
@@ -103,15 +105,15 @@ This isn't causation running backward. It's causation not running in either dire
 
 ### Phenomenological Fit
 
-The atemporal model fits the phenomenology of decision better than sequential causation:
+The atemporal model coheres with the phenomenology of decision. This fit is illustrative, not discriminating: a forward-causal account of selection predicts the same first-person reports, so phenomenology motivates and illustrates the model without adjudicating between it and its forward-in-time rival. The points below show that the model is phenomenologically natural, not that the phenomenology favours it over competitors.
 
-**Deliberation feels like weighing options**: We experience considering possibilities, not receiving already-made decisions. This matches superposition awaiting selection.
+**Deliberation feels like weighing options**: We experience considering possibilities, not receiving already-made decisions. This is consistent with superposition awaiting selection.
 
-**Resolution feels like crystallisation**: When we decide, one option "becomes real" while others fade. This matches transaction completion actualising one possibility.
+**Resolution feels like crystallisation**: When we decide, one option "becomes real" while others fade. This is consistent with transaction completion actualising one possibility.
 
 **Effort feels like sustained engagement**: Maintaining attention against distraction requires ongoing work. This matches repeated observation in Stapp's Zeno mechanism—selection isn't instantaneous but involves sustained participation.
 
-**We don't experience lateness**: If consciousness causally followed neural activity, we might expect to feel "late"—decisions arriving after something else has already happened. Instead, decisions feel simultaneous with their enactment.
+**We don't experience lateness**: If consciousness causally followed neural activity, we might expect to feel "late"—decisions arriving after something else has already happened. Instead, decisions feel simultaneous with their enactment—though a forward-in-time selection account at the moment of collapse predicts the same absence of felt lateness, so this too illustrates rather than discriminates.
 
 ## Integration with Quantum Zeno
 
@@ -124,7 +126,7 @@ The Zeno mechanism itself is temporally neutral—it describes an observation-ba
 
 ### The Decoherence Challenge
 
-Critics object that quantum effects cannot survive in warm biological systems—[[decoherence]] destroys coherence in femtoseconds, far too fast for neural processes. Three responses apply: (1) Decoherence timescales are disputed, with Hameroff's group obtaining estimates seven orders of magnitude longer than Tegmark's. (2) The Zeno mechanism sidesteps sustained coherence—rapid observation events happen faster than decoherence can act. (3) Biological quantum effects (avian magnetoreception, photosynthetic energy transfer) demonstrate evolution's capacity to exploit coherence. More fundamentally, decoherence doesn't solve the measurement problem—something must still select which outcome becomes actual after decoherence has selected preferred bases. See [[decoherence]] for detailed treatment.
+Critics object that quantum effects cannot survive in warm biological systems—[[decoherence]] destroys coherence in femtoseconds, far too fast for neural processes. Three responses apply: (1) Decoherence timescales are disputed, with Hagan, Hameroff and Tuszyński (2002) obtaining estimates roughly seven orders of magnitude longer than Tegmark's. (2) The Zeno mechanism sidesteps sustained coherence—rapid observation events happen faster than decoherence can act. (3) Biological quantum effects (avian magnetoreception, photosynthetic energy transfer) demonstrate evolution's capacity to exploit coherence. The first response should not be overstated: the corrected figure is still on the order of 10⁻⁶ seconds, which remains roughly eight orders of magnitude short of the 10²–10³ millisecond neural timescales the model needs. The coherence estimate alone does not close the gap; in this framework the load is carried by the Zeno mechanism (response 2), not by the coherence figure itself. More fundamentally, decoherence doesn't solve the measurement problem—something must still select which outcome becomes actual after decoherence has selected preferred bases. See [[decoherence]] for detailed treatment.
 
 ## The Modified Growing Block
 
@@ -227,9 +229,11 @@ Time-symmetric selection connects tightly to the Map's tenets:
 
 1. Aharonov, Y., Bergmann, P. G., & Lebowitz, J. L. (1964). Time symmetry in the quantum process of measurement. *Physical Review*, 134(6B), B1410.
 1. Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
+1. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
 1. Libet, B. et al. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106(3), 623-642.
 1. Price, H. (2012). Does time-symmetry imply retrocausality? *Studies in History and Philosophy of Science Part B*, 43(2), 75-83.
+1. Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *Proceedings of the National Academy of Sciences*, 109(42), E2904-E2913.
 1. Soon, C. S. et al. (2008). Unconscious determinants of free decisions in the human brain. *Nature Neuroscience*, 11(5), 543-545.
 1. Stapp, H. P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Stanford Encyclopedia of Philosophy. "Retrocausality in Quantum Mechanics." https://plato.stanford.edu/entries/qm-retrocausality/

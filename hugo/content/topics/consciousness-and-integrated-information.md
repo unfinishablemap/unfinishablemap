@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-05-25 19:11:15+00:00
+ai_modified: 2026-06-02 22:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ description: IIT identified integration as central to consciousness but erred in
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-11 05:31:00+00:00
+last_deep_review: 2026-06-02 22:10:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -114,6 +114,8 @@ These objections shouldn't obscure IIT's genuine contributions:
 
 **Empirical engagement.** The Templeton adversarial collaboration and COGITATE study represent serious attempts to test IIT empirically. The results have been mixed, but the willingness to submit to empirical adjudication distinguishes IIT from theories that remain safely unfalsifiable.
 
+This last point is now contested. In September 2023 a letter signed by 124 scholars characterised IIT as "pseudoscience," arguing that its core claims are untestable and that its prominence outstrips its empirical support (Fleming et al., 2023). IIT's defenders, and several uninvolved commentators, disputed both the substance and the tone—noting that "unfalsifiable in current practice" is not the same as "pseudoscientific," and that a foundational, hard-to-test theory is not thereby disreputable. The Map takes no side in this intra-physicalist methodological dispute. The pseudoscience charge cuts *against* IIT's scientific standing; it does nothing to vindicate the Map, whose objections to IIT are philosophical (the passivity problem, the unexplained identity) rather than complaints about testability. If anything, the controversy underscores that IIT's central difficulty is conceptual—why integrated information should be conscious at all—rather than merely a matter of unmet experimental predictions.
+
 ## Integration Across Alternative Frameworks
 
 Every major theory of consciousness treats integration as either constitutive or necessary. The disagreement is not about whether integration matters but about *what kind of thing integration is* and *what role it plays*. Four alternative frameworks treat integration as process rather than property, avoiding IIT's passivity problem.
@@ -166,7 +168,7 @@ This reframing explains why binding breaks down in specific neurological conditi
 
 The choice between identity and activity frameworks maps directly onto the Map's [foundational commitments](/tenets/).
 
-**[Dualism](/tenets/#dualism)**: If integration is a physical property (as IIT claims) and consciousness is identical to integration, then consciousness reduces to a physical property—contradicting dualism. If integration is something consciousness *does* through physical systems, dualism is preserved: the physical systems provide the substrate, consciousness provides the integrative act. The consciousness-integration identity also fails to illuminate the [explanatory-gap](/concepts/explanatory-gap/): we cannot see why integrated information should feel like anything, whereas other identities (water = H₂O) satisfy explanatorily because we can trace why water has its properties given molecular structure.
+**[Dualism](/tenets/#dualism)**: If integration is a physical property (as IIT claims) and consciousness is identical to integration, then consciousness reduces to a physical property—contradicting dualism. If integration is something consciousness *does* through physical systems, dualism is preserved: the physical systems provide the substrate, consciousness provides the integrative act. The identity thesis also leaves the [explanatory-gap](/concepts/explanatory-gap/) unilluminated, for the reason given above.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: An identity thesis leaves no room for causal influence—the structure simply *is* what it is. An activity thesis naturally accommodates influence: the act of integration shapes which neural patterns are realised.
 
@@ -199,6 +201,7 @@ The choice between identity and activity frameworks maps directly onto the Map's
 1. Albantakis, L., et al. (2023). Integrated information theory (IIT) 4.0. *PLOS Computational Biology*, 19(10), e1011465.
 1. Aaronson, S. (2014). Why I am not an integrated information theorist (or, the unconscious expander). *Shtetl-Optimized* (blog post).
 1. COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142.
+1. Fleming, S. M., Frith, C., Goodale, M., Lau, H., LeDoux, J. E., Lee, A. L. F., et al. (2023). The Integrated Information Theory of Consciousness as Pseudoscience. *PsyArXiv* (preprint).
 1. Lamme, V. A. F. (2006). Towards a true neural stance on consciousness. *Trends in Cognitive Sciences*, 10(11), 494-501.
 1. Baars, B. J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
 1. Dehaene, S., & Changeux, J.-P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200-227.

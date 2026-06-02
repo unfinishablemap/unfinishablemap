@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-06-02 00:42:42+00:00
+ai_modified: 2026-06-02 22:12:42+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -92,11 +92,11 @@ DoC cases form a [spectrum](/concepts/degrees-of-consciousness/) that no theory 
 
 ## Covert Consciousness: Awareness Without Expression
 
-The discovery of CMD further complicates the materialist picture. Patients meeting clinical criteria for UWS or MCS show, via fMRI or EEG, robust brain responses to commands like "imagine playing tennis"—understanding language, sustaining attention, forming task-relevant neural patterns—yet produce no behavioural output. The 2024 *New England Journal of Medicine* study (Bodien, Claassen, et al.) found CMD in roughly 25% of behaviourally unresponsive patients previously classified as unconscious by standard assessment.
+The discovery of CMD further complicates the materialist picture. Patients meeting clinical criteria for UWS or MCS show, via fMRI or EEG, robust brain responses to commands like "imagine playing tennis"—responses that appear to involve understanding language, sustaining attention, and forming task-relevant neural patterns—yet produce no behavioural output. The 2024 *New England Journal of Medicine* study (Bodien, Claassen, et al.) found CMD in roughly 25% of behaviourally unresponsive patients previously classified as unconscious by standard assessment.
 
 These patients are not unconscious. They are *disconnected*—aware but unable to express that awareness through behaviour. The neural pathways linking consciousness to motor output are damaged, while consciousness itself persists.
 
-This independently undermines the materialist argument. Its logic runs: brain disruption abolishes consciousness, therefore the brain produces it. But CMD shows apparent abolition is frequently misdiagnosis—the consciousness was there all along, invisible to behavioural assessment. If 25% of "unconscious" patients retain awareness, the evidential base for the production argument is systematically contaminated.
+This independently undermines the materialist argument. Its logic runs: brain disruption abolishes consciousness, therefore the brain produces it. But CMD suggests apparent abolition is frequently misdiagnosis—the consciousness was there all along, invisible to behavioural assessment. If 25% of "unconscious" patients retain awareness, the evidential base for the production argument is systematically contaminated.
 
 CMD also reveals something about the architecture of the brain-consciousness relationship. Consciousness continues to *do* things at the experiential level—patients understand language, follow instructions, form memories, sustain attention—even when it cannot act on the body. A materialist might respond that the cortical circuits producing consciousness are intact while only motor output pathways are damaged—production continues, expression does not. This is the same disconnection move the production theorist makes for hemispherectomy and the propofol/ketamine split, and it is available here too; the interface account grants it. What it costs is precision: consciousness is no longer produced by "the brain" in any general sense but by specific cortical networks whose identity must be specified independently of the consciousness they supposedly produce. The more tightly the production claim is restricted to a particular network, the harder it becomes to distinguish from an interface account in which that network *mediates* rather than generates awareness—the two readings converge on the same anatomy and differ only on what the anatomy does.
 
@@ -112,7 +112,7 @@ If neural activity produces consciousness, then similar neural disruption should
 
 ## Brain Damage: Disconnection Rather Than Destruction
 
-Modern [disconnection neuroscience](/concepts/disconnection-neuroscience/) supports reading brain damage as communication disruption rather than faculty destruction. Norman Geschwind's framework demonstrated that higher cognitive functions result from associative connections between brain regions, not isolated modules. Damage to white matter tracts—the connections—often produces more severe deficits than damage to cortical regions themselves.
+Modern [disconnection neuroscience](/concepts/disconnection-neuroscience/) supports reading brain damage as communication disruption rather than faculty destruction. Norman Geschwind's framework indicated that higher cognitive functions result from associative connections between brain regions, not isolated modules. Damage to white matter tracts—the connections—often produces more severe deficits than damage to cortical regions themselves.
 
 Hemispherectomy provides the most dramatic evidence, though it carries a confound that must be granted up front. Patients who have had an entire hemisphere surgically removed retain consciousness despite significant neurological deficits including hemiparesis and visual field cuts. They have personalities, memories, emotional lives, and self-awareness. The naïve expectation—that removing half the cortex should halve or abolish consciousness—is too crude for the production theorist to be saddled with: most hemispherectomies are performed in childhood, when developmental neuroplasticity allows the remaining hemisphere to assume functions the excised one would have served, so the surviving cortex is not "half a brain's worth" of generator but a reorganised whole. The production reading therefore survives this case more comfortably than the simple subtraction argument implies. What the case does establish is weaker but real: cortical *quantity* is a poor predictor of conscious presence, which sits more naturally with an interface that consciousness can route through alternative pathways than with a generator whose output scales with tissue volume—even granting the plasticity rejoinder.
 
@@ -135,6 +135,8 @@ Each theory of consciousness makes predictions about when consciousness should b
 The deepest lesson from DoC cases is the *discrimination problem*: we cannot reliably determine from external observation whether consciousness is present. The 40% misdiagnosis rate for UWS reflects something fundamental—behavioural criteria, the only ones available at the bedside, systematically undercount consciousness, and neuroimaging, which reveals awareness behavioural assessment missed, has its own limited sensitivity.
 
 This follows from a structural feature of consciousness: third-person observation cannot access first-person experience. No behavioural or neural data can *prove* consciousness absent. We can prove presence (when patients respond to commands via neuroimaging) but not absence. This is an epistemological asymmetry, not a claim that all unresponsive patients are conscious—but any complete theory must account for it.
+
+A parallel asymmetry runs through the [neural-correlate](/concepts/neural-correlates-of-consciousness/) evidence itself. The disruption studies surveyed here establish that neural changes track conscious changes with great reliability, but the question of whether the neural side *is* the substrate of consciousness or its physical interface is underdetermined by the evidence. Anesthesia, coma, disorders of consciousness, and lesion data are each consistent with both the physicalist reading (the neural state is identical to the conscious state it correlates with) and the Map's dualist reading (the neural state is the physical end of a mind-brain interface). A reliable correlate, however precisely mapped, does not adjudicate between identity and mediation—which is why the cases below favour the interface reading by coherence rather than compulsion.
 
 ## Memory, Sleep, and the Vanishing of Time
 
