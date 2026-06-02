@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-25 11:42:00+00:00
+ai_modified: 2026-06-02 03:50:06+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -176,6 +176,7 @@ The hard problem remains hard.
 - [metacognition](/concepts/metacognition/) — The metarepresentational distinction HOT may conflate
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The puzzle HOT doesn't solve
 - [global-workspace-theory](/concepts/global-workspace-theory/) — A complementary functionalist theory
+- [integration-as-activity](/concepts/integration-as-activity/) — The Map's rival framing, which faults HOT with the parallel objection that meta-representation leaves the felt character unexplained
 - [self-reference-paradox](/concepts/self-reference-paradox/) — The recursive structure HOT requires
 - [perceptual-reality-monitoring-void](/voids/perceptual-reality-monitoring-void/) — Where Lau's reality monitor demonstrably fails
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — The binding HOT explains representationally

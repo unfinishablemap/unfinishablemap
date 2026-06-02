@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-06-01T05:47:31+00:00
+ai_modified: 2026-06-02T03:55:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,7 +41,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-09
 last_curated: null
-last_deep_review: 2026-04-30T17:17:00+00:00
+last_deep_review: 2026-06-02T03:55:33+00:00
 ---
 
 Several scientific proposals explain how consciousness might interact with physics at the quantum level—scientifically engaged theories, still contested, proposing mechanisms by which consciousness could influence brain activity without violating physical law.
@@ -66,7 +66,7 @@ Orch OR locates quantum effects in microtubules—protein structures inside neur
 
 **Recent evidence** (2024-2025):
 - **2024 epothilone B study**: Microtubule-stabilizing drugs delayed anesthetic unconsciousness, demonstrating microtubule *involvement* in consciousness. But microtubules are structural proteins with many cellular roles—drug effects on consciousness don't by themselves distinguish quantum from classical function.
-- Room-temperature superradiance in tryptophan networks demonstrates quantum collective behavior at body temperature
+- Ultraviolet superradiance in tryptophan mega-networks (Babcock et al. 2024) demonstrates quantum collective behaviour in warm biological architectures, sustained at body temperature rather than requiring cryogenic isolation
 - **Craddock et al. (2017)** *Scientific Reports* 7:9877 (DOI 10.1038/s41598-017-09992-7): molecular-dynamics and quantum-chemistry simulations predict a (613 ± 8) THz collective tubulin oscillation peak that anaesthetics — but not non-anaesthetic structural analogues — disrupt, with disruption magnitude tracking clinical potency. This is a *computational prediction*, not a direct measurement; what is needed is experimental verification, not replication. Wiest (2025) reviews and develops the prediction's implications but reports no new 613 THz data.
 
 These findings form part of a broader [[quantum-biology-and-neural-consciousness|convergence of independent evidence lines]]—biological precedent, pharmacological correlation, direct measurement, and computational modelling—that strengthens the cumulative case even where individual lines remain inconclusive.
@@ -96,7 +96,7 @@ The [[luck-objection|luck objection]]—that quantum indeterminacy is just rando
 
 **Proponent**: Matthew Fisher (physicist, UCSB)
 
-Fisher's 2015 proposal operates at nuclear rather than electronic scales. Phosphorus-31 nuclear spins in Posner molecules (calcium phosphate clusters) could maintain coherence for extended periods—estimates range from ~37 minutes (Player & Hore) to hours or days (Fisher's ~10⁵ seconds)—because nuclear spins couple weakly to their environment.
+Fisher's 2015 proposal operates at nuclear rather than electronic scales. Phosphorus-31 nuclear spins in Posner molecules (calcium phosphate clusters) could maintain coherence for extended periods—estimates range from ~37 minutes (Player & Hore 2018) to hours or days (Fisher's ~10⁵ seconds)—because nuclear spins couple weakly to their environment.
 
 The mechanism: enzymatic reactions create entangled phosphate pairs; these incorporate into separate Posner molecules; when the molecules enter neurons and release calcium, the correlated patterns influence neural activity.
 
@@ -250,6 +250,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 ## References
 
 1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
+1. Babcock, N. S., Montes-Cabrera, G., Oberhofer, K. E., Chergui, M., Celardo, G. L., & Kurian, P. (2024). Ultraviolet superradiance from mega-networks of tryptophan in biological architectures. *The Journal of Physical Chemistry B*, 128(17), 4035-4046.
 1. Baum, E. B. (2004). *What Is Thought?* MIT Press.
 1. Escolà-Gascón, Á. (2025). Evidence of quantum-entangled higher states of consciousness. *Computational and Structural Biotechnology Journal*, 30, 21-40. doi:10.1016/j.csbj.2025.03.001
 1. Fisher, M.P.A. (2015). Quantum cognition. *Annals of Physics*, 362, 593-602.
@@ -259,6 +260,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 1. Kerskens, C. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
 1. Koch, C. & Tsuchiya, N. (2007). Attention and consciousness: Two distinct brain processes. *Trends in Cognitive Sciences*, 11(1), 16-22.
 1. McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98(391), 349-366.
+1. Player, T. C. & Hore, P. J. (2018). Posner qubits: spin dynamics of entangled Ca₉(PO₄)₆ molecules and their role in neural processing. *Journal of the Royal Society Interface*, 15(147), 20180494.
 1. Stapp, H. P. (2007). *Mindful Universe*. Springer.
 1. Tegmark, M. (2000). Quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. Tomaz, A. A., Mattos, R. S., & Barbatti, M. (2025). The quantum measurement problem: A review of recent trends. *Philosophical Magazine*.

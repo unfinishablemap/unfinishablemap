@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-05-29 00:00:00+00:00
+ai_modified: 2026-06-02 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -45,7 +45,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/ltzeYOXCUvY
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-15 00:01:00+00:00
+last_deep_review: 2026-06-02 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -241,9 +241,10 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 1. Libet, B. et al. (1983). Time of conscious intention to act. *Brain*, 106(3), 623-642.
 1. Schurger, A. et al. (2012). Accumulator model for spontaneous neural activity. *PNAS*, 109(42), E2904-E2913.
 1. Desmurget, M. et al. (2009). Movement intention after parietal cortex stimulation. *Science*, 324(5928), 811-813.
-1. Sjöberg, R. L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2274.
+1. Sjöberg, R. L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2269.
 1. Byrne, R. M. J. (2005). *The Rational Imagination: How People Create Alternatives to Reality*. MIT Press.
 1. Suddendorf, T., & Corballis, M. C. (2007). The evolution of foresight. *Behavioral and Brain Sciences*, 30(3), 299-313.
+1. Read, D. W. (2008). Working memory: a cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714.
 1. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
 1. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
 1. Gallagher, S., & Zahavi, D. (2012). *The Phenomenological Mind* (2nd ed.). Routledge.

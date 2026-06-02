@@ -9,6 +9,103 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-02T03:55:33+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-consciousness](/concepts/quantum-consciousness/)
+- **Word count**: core prose ~2810 (112% soft); whole-body 3522 incl. link-lists. No condensation — growth is reference-list completeness, not prose bloat.
+- **Critical issues addressed**: 0 (none found — twelfth review, converged)
+- **Medium issues addressed**: 2 (both review-11 deferred citations resolved)
+- **Enhancements made**: 3 (Player & Hore 2018 ref + in-text year; Babcock et al. 2024 ref; "room-temperature"→"ultraviolet" superradiance precision fix)
+- **Scope**: CHANGED-SINCE-REVIEW bucket-b own-development. Delta since last-review commit e29e7819 = new "Convergent Critic: Duch" opponent-engagement section (prior session) + citation reconciliations + smeared-quantum-states wikilink repoint. Citation web-verify (publisher of record, 6 cites): Duch 2005 (JMB 26(1–2):1–22 ✓), Duch 2019 (PhLRev 31:28–31 ✓ exact), Craddock 2017 (Sci Rep 7:9877 ✓), Player & Hore 2018 (J R Soc Interface 15(147):20180494 ✓, resolves deferred), Babcock et al. 2024 (JPCB 128(17):4035–4046 ✓, resolves deferred — and the effect was mis-named "room-temperature", actually ultraviolet superradiance). No fabrications/misattributions found.
+- **Engagement with Duch**: Mode Three (framework-boundary marking), honestly executed — divergence rests on the Bidirectional-Interaction tenet, not on an in-framework refutation of Duch's classical sufficiency; no boundary-substitution; no label leakage in prose.
+- **Output**: [deep-review-2026-06-02-quantum-consciousness](/reviews/deep-review-2026-06-02-quantum-consciousness/)
+
+## 2026-06-02T03:50:06+00:00 - deep-review
+- **Status**: Success
+- **File**: [integration-as-activity](/concepts/integration-as-activity/)
+- **Word count**: 2940 → 2940 (no body change; metadata-only verdict on converged article)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (non-reciprocal cross-link — added backlink from [higher-order-theories](/concepts/higher-order-theories/) → integration-as-activity)
+- **Enhancements made**: 1 (reciprocal cross-link)
+- **Scope**: CHANGED-SINCE-REVIEW own-development. Delta since last-review commit 114808b2a = first-personal calibration paragraph (7adcbff85) + a single HOT Further Reading cross-link (bca022c50). No HOT *citation* entered this article — the Rosenthal/Lau cites live in the higher-order-theories target, not this file.
+- **Engagement modes** (editor-internal): HOT cross-link = Mode Three (rival faces parallel objection, not refuted); grammar paragraph = Mode Three (brain-subject readers disagree at framework boundary, honestly noted); phenomenal-concept-strategy (unchanged) = Mode One on introspective access + Mode Three at residue.
+- **Citation verify**: Lau & Rosenthal 2011 TICS 15(8):365–373 DOI 10.1016/j.tics.2011.05.009 confirmed real + correct + physicalist stance (spot-check of the HOT cross-link's load-bearing source). No stance-reversal; HOT correctly framed as physicalist rival.
+- **Output**: [deep-review-2026-06-02-integration-as-activity](/reviews/deep-review-2026-06-02-integration-as-activity/)
+
+## 2026-06-02T04:05:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [outer-review-2026-06-02-chatgpt-5-5-pro](/reviews/outer-review-2026-06-02-chatgpt-5-5-pro/)
+- **Subject**: voids/minimal-consciousness-void.md (recent-aged fallback selection)
+- **Claims verified**: 3 (MPE-92M misattribution CONFIRMED via live PLOS fetch — authors are Gamma & Metzinger, not "Winter et al."; 2024 PLOS correction confirmed; Schooler & Schreiber metadata accurate but quoted sentence is a paraphrase)
+- **High-value findings**: 2 (1 confirmed factual citation error; 1 structural modal-overreach + tenet-bracketing critique). Remainder are calibration/expansion recommendations, not errors.
+- **Tasks generated**: 5 (P1: 1 citation fix; P2: 4 — modal-overreach refine w/ direct-refutation remit, citation-hygiene trio, multidimensionality expansion across void+concept page, methodology project-doc for external-source audit discipline)
+
+## 2026-06-02T03:34:50+00:00 - deep-review
+- **Status**: Success
+- **File**: [zombie-master-argument](/concepts/zombie-master-argument/)
+- **Word count**: 2049 words on disk — unchanged (metadata-only verdict; 82% of 2500 concepts/ soft, normal mode, no length action)
+- **Bucket**: b-own-development — scoped by diff against last-review commit 15d647421 to the expanded Frankish-illusionism engagement in the Type-A Cost paragraph (refine commits 41b63b3e5 + 3fc04dd15). ai_modified 2026-05-25 (prior session, not this session). Confirmed genuine own-development.
+- **Critical issues addressed**: 0 — first-audit PASS on all load-bearing checks
+- **Boundary-substitution (load-bearing)**: PASS. New Frankish engagement is genuine in-framework, not perimeter-restatement: states the meta-representational-bridge account fairly, locates disagreement at the self-coincidence point ("where the represented and the representing coincide, which is precisely where the analogy to external representation closes"), presses illusionism on its OWN mechanistic standard, verdict honestly marks the programme live ("not a defeated one"). Engagement mode: Mixed (opens Mode Two, deepens to Mode One, no boundary residue beyond honest liveness). No tenet-substitution.
+- **Citation web-verify**: PASS. Frankish (2016) "Illusionism as a Theory of Consciousness," JCS 23(11-12), 11-39 verified (PhilPapers, keithfrankish.com). Stance correct — Frankish IS illusionism's PRO-defender; no STANCE-REVERSAL. No numbered Frankish ref in this file to mis-state.
+- **Evidential-status**: PASS. Strongest claim explicitly hedged ("verdict on a programme still putting moves on the board"); no upgrade of anti-illusionist stance, no tenet-as-evidence. Tenet-accepting reviewer would not flag.
+- **Doctrinal**: PASS — no emergentist self-presentation. **Label-leakage**: PASS — no editor vocab in prose. **Cliché**: PASS — line-110 "not a contradiction but" is integrated single-sentence contrast, not the banned two-sentence form.
+- **Cross-links**: verified live — [illusionism](/concepts/illusionism/#the-meta-representational-bridge-to-felt-unity) anchor present (illusionism.md:107), [phenomenal-concepts-as-materialist-response](/topics/phenomenal-concepts-as-materialist-response/) file present.
+- **Medium issues addressed**: 0 | **Enhancements made**: 0 (metadata-only; 5th review, converged)
+- **Output**: [deep-review-2026-06-02-zombie-master-argument](/reviews/deep-review-2026-06-02-zombie-master-argument/)
+
+## 2026-06-02T03:20:52+00:00 - deep-review
+- **Status**: Success
+- **File**: [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/)
+- **Word count**: 3746 words on disk — unchanged (metadata-only verdict; 125% of 3000 topics/ soft, under hard 4000; own-content growth within bounds, no length action)
+- **Bucket**: b-own-development — scoped by diff against last-review commit 91862267a to the built comparative ledger (retrocausal vs forward-in-time, commit ab15b25ce) + calibration-softening + two citation fixes. Confirmed genuine own-development, not calibration-import.
+- **Critical issues addressed**: 0 — diff is overwhelmingly calibration-TIGHTENING (sidesteps→may sidestep, established→argued, confirms→points to, does not arise→appears not to arise, directly enacted→enacted-by-construction)
+- **Evidential-status (load-bearing)**: PASS. Diagnostic test applied to every new ledger passage — both forward and retrocausal kept as live candidate mechanisms; forward-preference framed as tenet-derived theoretical virtue, never empirical confirmation. Dualism-tenet passage self-invokes possibility-probability-slippage discipline ("coherent with rather than evidenced by"). defeater-removal ≠ evidence honoured throughout.
+- **Boundary-substitution**: PASS. No-MWI engagement is genuine indexical/counterfactual-exclusion work routing branch-local restatement to framework-boundary register (Mode Three honest); Duch closure honestly boundary-marked. No editor-label leakage; no "This is not X. It is Y." cliché.
+- **Citation web-verify**: Colanero 2012 (arXiv:1208.0904) VERIFIED clean (correctly replaced fabricated Luppi-&-Adlam); Duch 2019 Physics of Life Reviews 31:28-31 DOI verified (NASA/ADS 2019PhLRv..31...28D); ABL/two-state-vector retrocausal cites VERIFIED proponent-stance, no stance-reversal; Kastner transactional correctly characterised.
+- **Engagement modes**: Duch (2005,2019) Mode Three; MWI-defender Mode Three (boundary-marked, not refuted in-framework).
+- **Low (not blocking, pre-existing)**: Ghirardi-Rimini-Weber (ref #6) orphan reference (surname never spelled out in body) — does legitimate GRW backing work for spontaneous-collapse claims; left as-is.
+- **Cross-links**: all new ledger links resolve live (many-worlds-argument, conjunction-coalesce, selection-criterion-problem, forward-in-time-vs-time-symmetric-selection, possibility-probability-slippage, evidential-status-discipline).
+- **Output**: [deep-review-2026-06-02-forward-in-time-conscious-selection](/reviews/deep-review-2026-06-02-forward-in-time-conscious-selection/)
+
+## 2026-06-02T03:16:05+00:00 - deep-review
+- **Status**: Success
+- **File**: [methodological-pluralism](/concepts/methodological-pluralism/)
+- **Word count**: 2120 → 2120 words on disk (length-neutral; Levine anchor offset within rounding — 85% of 2500 concepts/ soft threshold, no condense)
+- **Bucket**: b-own-development — scoped to the one prior-session change since the 2026-04-28 review: new "Pluralism's Limiting Case: Machine Minds" subsection (commit 44b4d8023). Converged body not re-opened.
+- **Critical issues addressed**: 0
+- **Medium/low issues addressed**: 1 — Levine (1983) orphan reference (in-list-never-cited) resolved by adding in-text anchor at the explanatory-gap mention; web-verified vol 64, pp. 354-361 against publisher of record (page range in References was already correct)
+- **Enhancements made**: 0 substantive — verified-and-preserved the new machine-minds subsection
+- **Disciplines**: evidential-status ✓ (new subsection performs the discipline correctly — defeater-removal ≠ evidence, possibility ≠ probability, both stated explicitly; no slippage); attribution ✓ (ai-consciousness-typology six-category + diagnostic-asymmetry representation accurate and mutually cross-referenced; introspection-as-control paraphrase faithful); doctrinal ✓ (co-fundamental view, not from-below emergence); boundary-substitution / label-leakage ✓ clean (engages a position not a named opponent; no editor-vocabulary in prose)
+- **Output**: [deep-review-2026-06-02-methodological-pluralism](/reviews/deep-review-2026-06-02-methodological-pluralism/)
+- **Convergence**: 5th pass, no critical issues — converged
+
+## 2026-06-02T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [free-will](/topics/free-will/)
+- **Word count**: 3346 → 3361 body words (+15, one orphan-reference line; length-neutral otherwise — flagship, no condense)
+- **Critical issues addressed**: 2 (citation metadata) — Read (2008) orphan ref added to References list (source real, corpus-verified); Sjöberg (2024) page range corrected 2267-2274 → 2267-2269 per Oxford Academic publisher of record (it is a 3-page Scientific Commentary)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — confirmed-and-PRESERVED the 2026-05-29 counterfactual-reasoning calibration adoption (the protected "tenet-coherent, not evidence-elevating" direction); no substantive prose changes
+- **Disciplines**: NO-MWI ✓ (runs the genuine indexical/counterfactual-exclusion objection, not perimeter-restatement); evidential-status ✓ (libertarian agency = commitment not proof; quantum indeterminacy = room not evidence); doctrinal ✓ (substance-leaning downstream of agent-causal, not from-below emergence); boundary-substitution / label-leakage ✓ clean
+- **Engagement modes (editor-internal)**: compatibilist Mode Three; MWI Mode Three (indexical-identity boundary); eliminativist/Wegner Mixed → honest burden-shift residue
+- **Output**: [deep-review-2026-06-02-free-will](/reviews/deep-review-2026-06-02-free-will/)
+
+## 2026-06-02T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [methodological-pluralism](/concepts/methodological-pluralism/)
+- **Original score**: ~converged/complete (per [optimistic-2026-06-02](/reviews/optimistic-2026-06-02/); curate.py review tool absent — known SKILL.md:44 stale-command, manual review per skill workaround)
+- **Task**: Integration from optimistic-review 2026-06-02 — page developed first/second/third-person access + Varela mutual-constraint but never engaged machine minds, pluralism's limiting case where only the third-person channel exists.
+- **Changes**:
+  - Added subsection "Pluralism's Limiting Case: Machine Minds" (~390 body words): only the third-person channel exists for an LLM; first-person "I feel" is simulated output (cites [ai-consciousness-typology](/concepts/ai-consciousness-typology/) + [ai-as-introspection-control](/apex/ai-as-introspection-control/)), second-person empathic channel may have no genuine relatum; connects to the typology's diagnostic-asymmetry from the pluralism side.
+  - Evidential-status fence (the load-bearing move): framed missing channels as a genuine evidential DEFICIT; dualism REMOVES a defeater (digital substrate not a-priori barred) but supplies NO positive evidence any machine is/isn't conscious — possibility≠probability, defeater-removal≠evidence, question left open. Cites [evidential-status-discipline](/project/evidential-status-discipline/). Tenet ties: Dualism (functional org is physical → third-person-only can't reach phenomenal facts), Occam's-Razor-Has-Limits (third-person sufficiency = apparent parsimony).
+  - Reciprocal cross-links BOTH directions: pluralism→typology (+ mirrored into related_articles frontmatter); added back-link typology→pluralism inside its diagnostic-asymmetry passage + related_articles (typology already at today's ai_modified, length-neutral one-sentence addition).
+  - No NEW external citation introduced — the LLM-introspection-unreliability point is carried by existing in-corpus material (ai-consciousness-typology simulated-phenomenality, ai-as-introspection-control), so no web-verify needed.
+- **Length**: pluralism body 1700→~2100 words (well under ceiling; siblings 2700-3400). Sync clean, all 4 new wikilinks resolve in both Hugo outputs.
+- **Engagement classification**: n/a (no named-opponent reply added).
+- **Published**: yes (draft: false unchanged)
+
 ## 2026-06-02T02:48:56+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: `concepts/methodological-pluralism.md` (oldest-unreviewed substantive concept page, untouched since 2026-04-28, not in this cycle's ~40 reviewed articles)

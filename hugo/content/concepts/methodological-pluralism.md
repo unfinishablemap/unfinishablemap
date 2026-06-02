@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-12
-ai_modified: 2026-06-02 00:00:00+00:00
+ai_modified: 2026-06-02 03:16:05+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Consciousness research requires multiple methods—first-person, se
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-28 01:12:00+00:00
+last_deep_review: 2026-06-02 03:16:05+00:00
 modified: *id001
 related_articles:
 - '[[objectivity-and-consciousness]]'
@@ -50,7 +50,7 @@ The case for methodological pluralism rests on a structural observation about co
 
 **Second-person access** reveals the intersubjective dimension—how conscious experiences can be communicated, compared, and partially shared through empathic encounter. When a trained meditator describes the dissolution of the subject-object boundary, another meditator can recognize the description; a neuroscientist measuring default mode network activity captures something different about the same event.
 
-These three access modes are not merely different perspectives on the same data. They yield genuinely different kinds of information. The [explanatory-gap](/concepts/explanatory-gap/) persists precisely because third-person methods cannot generate first-person knowledge. Methodological pluralism takes this persistence seriously rather than treating it as a temporary limitation.
+These three access modes are not merely different perspectives on the same data. They yield genuinely different kinds of information. The [explanatory-gap](/concepts/explanatory-gap/)—Levine's (1983) name for the residue materialism leaves when it explains function but not felt quality—persists precisely because third-person methods cannot generate first-person knowledge. Methodological pluralism takes this persistence seriously rather than treating it as a temporary limitation.
 
 ## What Methodological Pluralism Is Not
 
