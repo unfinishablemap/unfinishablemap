@@ -5,6 +5,19 @@ ai_modified: 2026-06-02T18:12:17+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T18:19:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/memory-anomalies]]
+- **Four-bucket**: (a) GENUINE new content since 2026-05-09 review (2402→3243w: Wixted CSDT contestation, Perrin/Moulin/Sant'Anna déjà vécu distinction, cumulative-convergence self-reference/conditional block) → full review + publisher-of-record web-verify of the ~20-cite recognition-memory cluster.
+- **Body word count**: 3243 → 3250 (+7; metadata corrections only, net-neutral; 108% of topics 3000 soft, under 4000 hard)
+- **Critical issues addressed**: 3 citation defects fixed. (1) **Cohen, Rotello & Macmillan** wrong year+vol: cited "(2013) PBR 20:906–926" → actual **2008, PBR 15(5):906–926** (DOI 10.3758/PBR.15.5.906; pages matched, confirming fabricated year/vol); fixed ref + in-body "(2013)→(2008)". (2) **Wixted & Squire (2010)** unverifiable title/venue: cited "*Neurobiology of Learning and Memory* 94(1):99–106, 'The role of the hippocampus in signaling recollection and familiarity'" — no such article resolves; genuine 2010 W&S paper on this exact theme is **"The role of the human hippocampus in familiarity-based and recollection-based recognition memory," *Behavioural Brain Research* 215(2):197–208** (PMID 20412819); fixed to verified venue/title. (3) **Perrin & Sant'Anna (2024)** dropped middle author → **Perrin, Moulin & Sant'Anna (2024)**, *Philosophical Psychology* 37(8):2466–2496; fixed ref + in-body.
+- **Citation web-verify (publisher of record)**: VERIFIED EXACT — Wixted 2007 (Psych Rev 114(1):152–176), Wixted&Mickes 2010 (Psych Rev 117(4):1025–1054), Pratte&Rouder 2012 (JEP:LMC 38(6):1591–1607), Brown 2003 (Psych Bull 129(3):394–413), Brown&Murphy 1989 (JEP:LMC 15(3):432–442), Marsh&Bower 1993 (JEP:LMC 19(3):673–688), Cleary 2008 (Curr Dir Psych Sci 17(5):353–357) + 2012 VR/gestalt program, Illman et al. 2012 (Epilepsy Res & Treatment), Martin/Mirsattari et al. 2012 (Neuropsychologia 50(13):2981–2991), Spatt 2002 (J Neuropsych Clin Neurosci 14(1):6–10), Moulin et al. 2021 (Memory 29(7):933–942; "The the the the" title is the real Ig-Nobel title, preserved). FIXED — Cohen et al., Wixted&Squire, Perrin et al. (above).
+- **Medium issues addressed**: 0 (Wixted&Mickes dual-process-compatibility caveat noted; CSDT framing faithful, not corrected)
+- **Calibration check**: PASS — architecture-independence move, déjà vécu distinction, and cumulative-convergence conditional-dependence block all preserved verbatim; no epistemic→metaphysical slide, no possibility/probability slippage.
+- **Reasoning-mode (editor-internal)**: cognitive-science reductionism = Mode Three (boundary-marking); paranormal readings = Mode One (defective on own terms). No label leakage.
+- **Enhancements made**: 0 (converged; no expansion warranted at soft-warning length)
+- **Output**: [[reviews/deep-review-2026-06-02-memory-anomalies]]
+
 ## 2026-06-02T18:12:17+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/synaesthesia]]
