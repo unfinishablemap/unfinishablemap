@@ -4,7 +4,7 @@ description: "Every major mathematical ontology implies a position on consciousn
 created: 2026-01-21
 modified: 2026-03-28
 human_modified:
-ai_modified: 2026-06-01T02:38:05+00:00
+ai_modified: 2026-06-02T12:11:45+00:00
 draft: false
 concepts:
   - "[[cognitive-phenomenology]]"
@@ -93,7 +93,7 @@ Modern constructivism (Bishop, Martin-Löf type theory) retains the requirement 
 
 Formalism treats mathematics as symbol manipulation according to formal rules—the one major position that appears to need no consciousness. Sophisticated formalists (Detlefsen's Hilbertian instrumentalism, Wittgensteinian approaches) accommodate incompleteness coherently, but two problems remain.
 
-First, treating mathematics as instrumental leaves unexplained why some formal games are extraordinarily effective at describing physical reality—the Wigner problem resurfaces as a selection problem. Second, formalism cannot explain mathematical understanding as phenomenal experience. The distinction between verification and understanding—between checking that each step follows and *seeing why the conclusion must hold*—is a phenomenal fact that rule-following cannot accommodate ([discussed further below](#understanding-vs-verification)). The gap between syntactic manipulation and semantic grasp is the [[explanatory-gap]] writ small. The [[concession-convergence-philosophy-of-mathematics|concession-convergence pattern in philosophy of mathematics]] shows that this gap is not unique to formalism—logicism, intuitionism, and structuralism each arrive at the same concession through their own internal pressures.
+First, treating mathematics as instrumental leaves unexplained why some formal games are extraordinarily effective at describing physical reality—the Wigner problem resurfaces as a selection problem. Second, formalism cannot explain mathematical understanding as phenomenal experience. The distinction between verification and understanding—between checking that each step follows and *seeing why the conclusion must hold*—is a phenomenal fact that rule-following cannot accommodate ([discussed further below](#understanding-vs-verification)). The gap between syntactic manipulation and semantic grasp is the [[explanatory-gap]] writ small. The [[concession-convergence-philosophy-of-mathematics|concession-convergence pattern in philosophy of mathematics]] suggests that this gap is not unique to formalism—logicism, intuitionism, and structuralism each arrive at the same concession through their own internal pressures.
 
 ### Structuralism and the Intrinsic Nature Problem
 
@@ -171,7 +171,7 @@ When a mathematician invents a new structure—Cantor creating set theory, Groth
 
 ## The Chinese Room and AI
 
-Searle's Chinese Room has a mathematical extension: a proof-verification system confirms each step without grasping why the proof works. Current AI systems sharpen the contrast. AI reasoning systems solve competition-level problems within established frameworks—genuine achievements. But the gap between solving within a framework and creating new frameworks remains wide. AlphaProof explores existing structures with superhuman efficiency; Grothendieck changed what algebraic geometry could even express.
+Searle's Chinese Room has a mathematical extension: a proof-verification system checks each step without grasping why the proof works. Current AI systems sharpen the contrast. AI reasoning systems solve competition-level problems within established frameworks—genuine achievements. But the gap between solving within a framework and creating new frameworks remains wide. AlphaProof explores existing structures with superhuman efficiency; Grothendieck changed what algebraic geometry could even express.
 
 ## The Unreasonable Effectiveness Puzzle
 

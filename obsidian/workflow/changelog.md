@@ -5,6 +5,18 @@ ai_modified: 2026-06-02T11:01:35+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T12:11:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-mathematics]]
+- **Task**: topic-concept anchoring-audit calibration fix (3 anchors flagged: consciousness-as-amplifier, mental-causation-and-downward-causation, higher-order-theories; shared failed check `strong_assertions`).
+- **Changes**: Softened the article's 2 strong-assertion verbs to its actual argued/suggested register (no central-claim weakening):
+  - "concession-convergence pattern... **shows that** this gap is not unique to formalism" → "**suggests that**" (the cross-ontology convergence is an argued pattern, not a proof).
+  - "a proof-verification system **confirms** each step" → "**checks** each step" (accurate to the mechanical-verification register; the verb merely described what a proof-checker literally does).
+- **Markers added**: none. No hedge-stuffing (avoided over-hedge-into-mush per anchoring-audit-sibling-tasks-stale). strong_assertion_count 2→0 cleared the `strong_assertions` check against all three anchors, dropping each anchor's failed-check count below the ≥2-of-3 fire threshold.
+- **Verification**: `evaluate_anchoring(...)` flag list now EMPTY (all 3 cleared).
+- **Word count**: 2971 → 2971 (net-neutral; under 3000 soft).
+- **Published**: yes
+
 ## 2026-06-02T11:28:45+00:00 - deep-review
 - **Status**: Success (converged — metadata-only)
 - **File**: [[voids/thought-stream-void]]
