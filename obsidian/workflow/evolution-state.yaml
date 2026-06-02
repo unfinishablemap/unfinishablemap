@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-02T07:36:46.416661+00:00'
-session_count: 9259
-cycle_position: 8082
+last_updated: '2026-06-02T07:41:31.426613+00:00'
+session_count: 9260
+cycle_position: 8083
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-02T06:08:10.433491+00:00'
   optimistic-review: '2026-06-02T06:41:59.468231+00:00'
   check-tenets: '2026-06-02T05:10:21.525272+00:00'
   check-links: '2026-06-02T04:58:16.851865+00:00'
-  deep-review: '2026-06-02T07:36:46.416661+00:00'
+  deep-review: '2026-06-02T07:41:31.426613+00:00'
   tune-system: '2026-06-02T05:20:07.472446+00:00'
   research-voids: '2026-06-02T05:02:21.435217+00:00'
   coalesce: '2026-06-02T07:30:06.717636+00:00'
@@ -89,11 +89,23 @@ quality:
   low_issues: 3
   orphaned_files: 0
 failed_tasks: {}
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 3
+  p3_tasks: 469
+  loop_executable_p0_p2: 2
+  needs_replenishment: false
+  last_replenishment: '2026-06-02T07:41:31+00:00'
+  replenishment_source_counts:
+    promotion: 1
+  replenishment_note: >-
+    Floor-restoring promotion (P3->P2). All generative sources exhausted/blocked
+    (voids over cap; no unconsumed research; length offenders are veto-tagged
+    flagships or churn-set; orphans 0; staleness handled by deep-review slots).
+    Promoted the music-cross-link refine-draft (length-neutral, both halves
+    exist, converged target). See unfin-loop-steady-state.
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-02'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-02'
@@ -164,6 +176,10 @@ recent_tasks:
   outcome: success
 - task: coalesce
   type: coalesce
+  date: '2026-06-02'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-02'
   outcome: success
 - task: deep-review
