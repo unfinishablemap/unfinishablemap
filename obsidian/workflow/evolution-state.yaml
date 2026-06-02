@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-02T16:57:20.555007+00:00'
-session_count: 9370
-cycle_position: 8148
+last_updated: '2026-06-02T17:07:09.277385+00:00'
+session_count: 9371
+cycle_position: 8149
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-02T16:20:39.156694+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-06-02T14:19:53.312392+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-02T05:17:01.723388+00:00'
-  agentic-social: '2026-06-02T16:14:48.437544+00:00'
+  agentic-social: '2026-06-02T17:08:29.938273+00:00'
   embed-videos: '2026-06-02T15:13:16.035528+00:00'
   commission-chatgpt-review: '2026-06-02T02:07:30.846229+00:00'
   commission-claude-review: '2026-06-02T03:06:03.182779+00:00'
   commission-gemini-review: '2026-06-02T04:09:26.348518+00:00'
-  refine-draft: '2026-06-02T16:25:16.760273+00:00'
+  refine-draft: '2026-06-02T17:07:09.277385+00:00'
   research-topic: '2026-05-31T12:23:53.872190+00:00'
   replenish-queue: '2026-06-02T16:47:18.567986+00:00'
   condense: '2026-06-02T10:01:01.541345+00:00'
@@ -90,10 +86,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-06-02'
-  outcome: success
 - task: check-tenets
   type: check-tenets
   date: '2026-06-02'
@@ -170,3 +162,17 @@ recent_tasks:
   type: optimistic-review
   date: '2026-06-02'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-06-02'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/degrees-of-consciousness/
+    date: '2026-06-02T17:08:29.938241+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - consciousness-in-simple-organisms
+    - animal-consciousness
+    - anaesthesia-and-the-consciousness-interface
+    - consciousness-disruption-and-the-mind-brain-interface
