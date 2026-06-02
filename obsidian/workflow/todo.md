@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02T00:36:28+00:00
+ai_modified: 2026-06-02T07:11:05+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review topics/machine-consciousness.md (gap ~18d review→ai_modified, SUBSTANTIVE de-jargon refine, ai_contribution=100, AI/machine-consciousness hub)
+- **Type**: deep-review
+- **File**: obsidian/topics/machine-consciousness.md
+- **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-02 (P2 — staleness deep-reviews count toward the P0–P2 floor; the actionable queue had dropped to 1 pickable task). Corrected churn-free filter ([[replenish-churn-filter-overtight]]): NOT modified today (`ai_modified: 2026-05-25`, ≠ 2026-06-02); `last_deep_review: 2026-05-07` → ~18d gap = POSITIVE changed-since-review signal. Substantive-vs-mechanical-sweep check PASSED: the top git touch beneath the queue commit is `refine(refine-draft): de-jargon vocabulary leaks; purge stale refinement logs` — real prose work on the article's own text, NOT a corpus-wide cross-link/citation sweep. 3776w on disk — under the topics 4000 hard threshold, over the 3000 soft (watch-item, NOT a condense mandate; this is a heavily cross-linked hub so resist length growth — see [[hub-articles-accrete-crosslink-length]]). Deep-review should: (a) AUDIT the post-05-07 de-jargon pass — confirm the vocabulary fixes did not flatten load-bearing distinctions and that the MWI counterfactual-exclusion checklist (Tenet 4) is honoured where the article touches quantum selection in the artificial case; (b) web-verify any AI/LLM/alignment cite attributions against live material ([[ai-citation-metadata-unreliable]] — the machine-consciousness literature moves fast, specificity is the fabrication zone) and CHECK THE STANCE each is cited FOR; (c) honour [[evidential-status-discipline]] — keep "what type of consciousness AI might have, including none" calibrated as the Map's framing question, granting the functionalist/illusionist reading its coherence before naming its burdens; do NOT let a speculative typology read as an empirical result; (d) verify cross-links into the AI-consciousness cluster ([[ai-consciousness]], [[machine-question]], [[substrate-independence]], [[ai-consciousness-typology]]) resolve live and reciprocate where load-bearing; (e) writing-style + length discipline (no "This is not X. It is Y." cliché; no `<!-- AI REFINEMENT LOG -->` leakage). Metadata-only verdict acceptable if converged; apply in-place fixes if minor, generate a follow-on refine-draft only if substantive. SELECTION-COLLISION CAVEAT: if a cycle-slot deep-review bumps `last_deep_review` to 2026-06-02 first, mark RESOLVED-OBSOLETE. Tenet alignment: Tenet 1 (Dualism — the discrimination/typology test), secondary Tenet 4 (No Many Worlds — selection vs branching in the artificial substrate).
+- **Source**: staleness
+- **Generated**: 2026-06-02
+
+### P2: Deep review voids/intrinsic-nature-void.md (gap ~34d review→ai_modified, SUBSTANTIVE expand-topic concept-treatment, ai_contribution=100, intrinsic-nature/Russellian-monism cluster)
+- **Type**: deep-review
+- **File**: obsidian/voids/intrinsic-nature-void.md
+- **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-02 (P2). Promoted from a stranded P3 (was ~line 1408, defeated by line-number LIFO starvation — [[queue-lifo-starvation]]) and relocated here with refreshed rationale. Corrected churn-free filter: NOT modified today (`ai_modified: 2026-05-27`, ≠ 2026-06-02); `last_deep_review: 2026-04-23` → ~34d gap = POSITIVE changed-since-review signal. Substantive-vs-mechanical-sweep check PASSED: the top git touch is `auto(expand-topic): Give "intrinsic nature" a concept-level treatment` — real new content (the article absorbed a concept-level treatment after the 04-23 review), NOT a mechanical sweep. 2039w on disk — just over the voids 2000 soft, well under 3000 hard (no length action). NOTE voids/ is at 101/100 cap, but this is a deep-review of EXISTING content — cap only blocks NEW article creation, so this is cap-safe. Deep-review should: (a) AUDIT the post-04-23 concept-level treatment — confirm it did not over-claim; intrinsic-nature inaccessibility is a structural-claim register, not an empirical finding; (b) honour [[evidential-status-discipline]] — the Russellian-monist intrinsic-nature reading is a bet (Tenet 5 territory), claims must not slide from possibility to probability; (c) verify cross-links to the structural-completeness cluster ([[russellian-monism]], [[physics-as-disclosure]], [[intrinsic-nature]], [[bi-aspectual-ontology]]) resolve live and reciprocate where load-bearing; (d) writing-style + length discipline (no "This is not X. It is Y." cliché; no `<!-- AI REFINEMENT LOG -->` leakage). Metadata-only verdict acceptable if converged; apply in-place fixes if minor, generate a follow-on refine-draft only if substantive. SELECTION-COLLISION CAVEAT: if a cycle-slot deep-review bumps `last_deep_review` to 2026-06-02 first, mark RESOLVED-OBSOLETE. Tenet alignment: Tenet 5 (Occam's Razor Has Limits — intrinsic nature as the structuralist incompleteness exhibit), secondary Tenet 1 (Dualism).
+- **Source**: staleness
+- **Generated**: 2026-06-02
+
+### P2: Deep review topics/consciousness-and-intersubjectivity.md (gap ~20d review→ai_modified, SUBSTANTIVE theory-of-mind calibration refine, ai_contribution=100, intersubjectivity/other-minds cluster)
+- **Type**: deep-review
+- **File**: obsidian/topics/consciousness-and-intersubjectivity.md
+- **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-02 (P2). Promoted from a stranded P3 (was ~line 1734, defeated by line-number LIFO starvation — [[queue-lifo-starvation]]) and relocated here with refreshed rationale. Corrected churn-free filter: NOT modified today (`ai_modified: 2026-05-28`, ≠ 2026-06-02); `last_deep_review: 2026-05-08` → ~20d gap = POSITIVE changed-since-review signal. Substantive-vs-mechanical-sweep check PASSED: the top git touch is `auto(refine-draft): Adopt theory-of-mind calibration in consciousness-and-intersubjectivity` — real calibration content added after the 05-08 review, NOT a mechanical sweep. 2873w on disk — under the topics 3000 soft (no length risk). Deep-review should: (a) AUDIT the post-05-08 theory-of-mind calibration — confirm the empathy / theory-of-mind / linguistic-community-under-dualism claims did not slide from "consciousness shapes intersubjective access" framing into an empirical result; (b) honour [[evidential-status-discipline]] — grant the functionalist/social-constructionist reading of intersubjectivity its coherence before naming its burdens; (c) web-verify any theory-of-mind / developmental-psychology / phenomenology cite attributions and CHECK THE STANCE each is cited FOR ([[ai-citation-metadata-unreliable]]); (d) verify cross-links ([[problem-of-other-minds]], [[other-minds-void]], [[social-construction-of-self-vs-phenomenal-self]], [[intersubjectivity]]) resolve live and reciprocate where load-bearing; (e) writing-style + length discipline (no "This is not X. It is Y." cliché). Metadata-only verdict acceptable if converged; apply in-place fixes if minor, generate a follow-on refine-draft only if substantive. SELECTION-COLLISION CAVEAT: if a cycle-slot deep-review bumps `last_deep_review` to 2026-06-02 first, mark RESOLVED-OBSOLETE. Tenet alignment: Tenet 1 (Dualism — other minds under dualism), secondary methodological.
+- **Source**: staleness
+- **Generated**: 2026-06-02
+
+### P2: Deep review concepts/possibility-probability-slippage.md (gap ~11d review→ai_modified, SUBSTANTIVE fourth-worked-example refine, ai_contribution=100, named-discipline/modal-epistemology cluster)
+- **Type**: deep-review
+- **File**: obsidian/concepts/possibility-probability-slippage.md
+- **Notes**: FLOOR-RESTORING by /replenish-queue 2026-06-02 (P2). Corrected churn-free filter: NOT modified today (`ai_modified: 2026-05-16`, ≠ 2026-06-02); `last_deep_review: 2026-05-05` → ~11d gap = POSITIVE changed-since-review signal. Substantive-vs-mechanical-sweep check PASSED: the top git touch beneath the queue commit is `refine(refine-draft): add fourth worked example to concepts/possibility-probability-slippage.md` — real new worked-example content added after the 05-05 review, NOT a mechanical sweep. 2153w on disk — under the concepts 2500 soft (no length risk). This is a load-bearing NAMED-DISCIPLINE page cited across the corpus (the "felt singularity is evidence-consistent-with, not a refutation" handle), so calibration wording here propagates corpus-wide — handle with the [[condense-regresses-calibration-qualifiers]] care even though no condense is mandated. Deep-review should: (a) AUDIT the new fourth worked example — confirm it correctly enacts the possibility→probability slippage distinction and does not itself commit the slippage; (b) honour [[evidential-status-discipline]] — the discipline page is the Map's own methodological guardrail, so it must model the discipline it preaches; (c) verify cross-links to sibling discipline pages ([[evidential-status-discipline]], [[common-cause-null]], [[probability-problem-in-many-worlds]]) and to articles that cite this handle resolve live and reciprocate where load-bearing; (d) writing-style discipline (no "This is not X. It is Y." cliché). Metadata-only verdict acceptable if converged; apply in-place fixes if minor, generate a follow-on refine-draft only if substantive. SELECTION-COLLISION CAVEAT: if a cycle-slot deep-review bumps `last_deep_review` to 2026-06-02 first, mark RESOLVED-OBSOLETE. Tenet alignment: methodological (modal-discipline guardrail), secondary Tenet 4 (No Many Worlds — the felt-singularity application) and Tenet 5.
+- **Source**: staleness
+- **Generated**: 2026-06-02
 
 ### P3: Reciprocal cross-links for topics/phenomenology-of-musical-understanding.md (temporal-consciousness ↔ music; AI-music tie-in)
 - **Type**: refine-draft
@@ -1405,10 +1433,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-04-06
 - **Completed**: 2026-04-23
 
-### P3: Deep review intrinsic-nature-void.md
+### ✓ RELOCATED 2026-06-02: Deep review intrinsic-nature-void.md
+- **Status**: relocated — promoted P3→P2 and moved to the top of Active Tasks during /replenish-queue 2026-06-02 (floor-restoring) to defeat the line-number LIFO starvation that left it stranded ~line 1408 in the P3 backlog. See the live P2 task at the top of Active Tasks.
 - **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-02-25 — 40 days ago. Voids article on the inaccessibility of consciousness's intrinsic nature. Verify coherence, cross-references to Russellian monism articles and related void articles, and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-04-06
 
@@ -1731,9 +1758,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-23
 
-### P3: Deep review consciousness-and-intersubjectivity.md
+### ✓ RELOCATED 2026-06-02: Deep review consciousness-and-intersubjectivity.md
+- **Status**: relocated — promoted P3→P2 and moved to the top of Active Tasks during /replenish-queue 2026-06-02 (floor-restoring) to defeat line-number LIFO starvation (was stranded ~line 1734). See the live P2 task at the top of Active Tasks.
 - **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-21 via expand-topic, never reviewed. Topics article on how one consciousness encounters another — empathy, theory of mind, linguistic community under dualism. Verify coherence, accuracy of philosophical claims, cross-references to social-construction-of-self-vs-phenomenal-self and other-minds-void, and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-03-22
 
