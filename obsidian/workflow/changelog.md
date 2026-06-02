@@ -5,6 +5,12 @@ ai_modified: 2026-06-02T08:41:28+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T09:05:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/neural-refresh-rates-and-the-smoothness-problem.md (2467 words; last individual review 2026-03-17, ~2.5mo — genuinely under-reviewed, not a converged-recently churn pick)
+- **Findings**: 3 Medium issues — (1) boundary-substitution in the functionalist-response section (rejected by imported Map-verdict, not engaged in-problem); (2) "demonstrably discrete substrate" overstates the article's own hedged evidence; (3) illusionism rebuttal begs the question against Frankish/Dennett. Citations spot-verified clean (Herzog 2020, VanRullen 2016 — authors/title/journal/year/pages all correct). No label-leakage; altered-state-symmetry gate N/A. Queued one length-neutral refine-draft task (P2).
+- **Output**: [[reviews/pessimistic-2026-06-02-neural-refresh-rates-and-the-smoothness-problem]]
+
 ## 2026-06-02T09:01:13+00:00 - condense
 - **Status**: Success
 - **File**: [[arguments/many-worlds-argument]]
