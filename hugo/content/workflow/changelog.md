@@ -1,13 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-01 23:58:00+00:00
+ai_modified: 2026-06-02 00:14:58+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-06-01'
+date: '2026-06-02'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-02T00:14:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/)
+- **Word count**: 2299 → 2350 (+51)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (attribution-accurate rewrite of Reimers/McKemmish characterization)
+- **Diff-scoped** against 2026-05-02 baseline (6137a684): new content = Separability No-Go section (Georgiev 2021), rewritten decoherence paragraph (Reimers/McKemmish 2009), Wiest-2025 sentence, reconciled Escolà-Gascón/Khan metadata.
+- **Citation web-verify (5/5 clean)**: Escolà-Gascón 2025 (CSBJ 30, 21-40 ✓), Georgiev 2021 (Symmetry 13(5) 773 ✓), Khan et al. 2024 (eNeuro 11(8), Khan first-author ✓), McKemmish 2009 (PRE 80(2) 021912 ✓), Reimers 2009 (PNAS 106(11) 4219-4224 ✓). No fabricated refs/pages/co-authors/stats.
+- **Critical fix**: decoherence paragraph mischaracterized Reimers/McKemmish — asserted single-pronged "rest on dielectric properties not empirically established" + "re-derived the recalibration." Web-verify of both papers: Reimers = energetic Fröhlich inaccessibility; McKemmish = irreversible tubulin conformational switching; neither re-derives Hagan's decoherence-time computation. Rewrote to attribute each paper's actual argument + restore corpus-canonical two-pronged conclusion. Sibling files (decoherence.md et al.) already correct, left unchanged.
+- **Reasoning-mode (§2.6)**: engagement with Georgiev separability no-go = Mode One with honest Mode-Three residue; answer derived from Georgiev's own interaction-Hamiltonian analysis, not tenet-incompatibility. No boundary-substitution, no label leakage. Web-verified faithful to source.
+- **Output**: [deep-review-2026-06-02-entanglement-binding-hypothesis](/reviews/deep-review-2026-06-02-entanglement-binding-hypothesis/)
+
+## 2026-06-01T23:30:00+00:00 - refine-draft (absorption: cognitive phenomenology void → two hosts)
+- **Status**: Success
+- **Source (read-only)**: [voids-cognitive-phenomenology-void-2026-05-01](/research/voids-cognitive-phenomenology-void-2026-05-01/)
+- **Host A**: [imagery-void](/voids/imagery-void/) — folded the empirical-architectural/aphantasia face into the existing Function-Phenomenology Face section (woven, not a new section). Connected the host's existing aphantasia material to the cognitive-phenomenology ontology dispute (liberal vs conservative): Lennon's no-sensory-reduction-base evidence reads as liberal leverage but is reinterpretable from either commitment. Per [evidential-status-discipline](/project/evidential-status-discipline/): presented as an OPEN dispute, not resolving it or establishing dualism. 2241 → 2511w (headroom). Added cross-links to [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) + research note.
+- **Host B**: [noetic-feelings-void](/voids/noetic-feelings-void/) — COMPACT fold (near 3000 ceiling): 1 sentence threading the cog-phenom ↔ metacognitive-feelings adjoining seam (Arango-Muñoz 2019) into the Family-of-Noetic-Feelings paragraph; trimmed a now-stale "awaiting absorption" Further-Reading entry to recover words. 2896 → 2926w (net +30, under +60 cap and 3000 ceiling). Added Arango-Muñoz to References + cross-link.
+- **Index**: [voids](/voids/) §Research-Stage Voids — marked the Cognitive Phenomenology Void **Absorbed (2026-06-01)** with per-face host attributions (mirrors effort-void format).
+- **WEB-VERIFY-BEFORE-FOLDING (note is a propagation root)**: Caught and fixed citation defects:
+  - **Lennon (2023) venue was WRONG corpus-wide**: cited as *Erkenntnis* in 6 published files (imagery-void, aphantasia, cognitive-phenomenology-and-the-irreducibility-of-thought, phenomenal-contrast-method, phenomenology-vs-function-axis, apex/phenomenal-variation-within-a-species). Verified actual venue: *Oxford Studies in Philosophy of Mind* Vol. 3 (ed. Kriegel), OUP. Fixed all 6 + the research note.
+  - **Fürst (2019) zombie conclusion OVERSTATED in note**: note framed conceivability as establishing irreducibility; Fürst's actual conclusion is the zombie *fails to settle* the conservatism/liberalism debate. Corrected note body + Approaches section.
+  - **Fürst "Limits of Phenomenal Contrast"**: note References had NO year — verified *JAPA* 3(2), 168–188, **2017**; filled.
+  - **Arango-Muñoz (2019)**: confirmed Santiago Arango-Muñoz, *Mind & Language* 34(2); added venue to note + host B references.
+  - Pitt 2004 / Strawson 1994 / Chudnoff 2015 / Würzburg-Titchener: well-established, light-touch (untouched).
+- **Tenets**: Tenet 1 (Dualism — opacity/ineffability of thinking-as-such), secondary Tenet 5. Doctrinal: bi-aspectual co-fundamental dualism preserved. No "This is not X. It is Y." cliché; no editor-vocabulary leakage.
+- **Published**: yes (research note retained in related_articles per task)
 
 ## 2026-06-01T23:55:00+00:00 - deep-review
 - **Status**: Success
