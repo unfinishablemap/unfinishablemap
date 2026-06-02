@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-06-01 13:15:00+00:00
+ai_modified: 2026-06-02 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ description: Pragmatism—the philosophy that evaluates ideas by practical conse
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-27 02:06:13+00:00
+last_deep_review: 2026-06-02 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -35,6 +35,7 @@ related_articles:
 - '[[epistemic-advantages-of-dualism]]'
 - '[[enactivism-challenge-to-interactionist-dualism]]'
 - '[[pragmatist-quantum-foundations-and-the-agent]]'
+- '[[quantum-measurement-and-subjective-probability]]'
 - '[[consciousness-and-normative-force]]'
 - '[[self-stultification-as-master-argument]]'
 - '[[topics/phenomenal-value-realism]]'
