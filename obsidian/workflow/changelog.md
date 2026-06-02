@@ -5,6 +5,18 @@ ai_modified: 2026-06-02T20:51:38+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T21:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/structure-of-attention]]
+- **Word count**: 2608 → 2608 body (no content change; frontmatter timestamps only)
+- **Four-bucket**: 5th deep review of a converged article; citation-verification-focused. Web-verified all 7 citations at publisher of record. (a) 0 defects — all clean; (b) the prior "just-fixed Rajan" citation confirmed CORRECT (no fabrication introduced).
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Citation web-verify verdicts**: Rajan et al. 2019 (JUST-FIXED) = CLEAN — Oxford Academic, *Cerebral Cortex* 29(7):2832-2843, author list+order exact (Rajan, Siegel, Liu, Bengson, Mangun, Ding), fix landed correctly. COGITATE 2025 = CLEAN — *Nature* 642(8066):133-142, attributed GNW/IIT finding (posterior sufficient, PFC decoding short-lived) matches actual result. Nadra & Mangun 2023 = CLEAN — *Frontiers in Cognition* 2:1205618. Thura & Cisek 2014 = CLEAN — *Neuron* 81(6):1401-1416. Rizzolatti et al. 1987 = CLEAN — *Neuropsychologia* 25(1A):31-40 (the "1A" issue confirmed real, not typo). Koch & Tsuchiya 2007 = CLEAN — *TiCS* 11(1):16-22. Schwartz & Begley 2002 = CLEAN — ReganBooks.
+- **Calibration check**: INTACT, no possibility/probability slippage. Empirical→metaphysical boundary explicit (line 168); willed-attention signatures framed as demanding-explanation not proving-non-physical; Schwartz "mental force"/QZE marked as contested interpretation with sample-size + replication caveats; quantum Zeno hedged at live-hypothesis tier; attention-as-causal-bridge stays posited-not-demonstrated.
+- **Reasoning-mode (editor-only)**: physicalist=Mode 2; Buddhist no-self=Mixed(3+data-persistence); stochastic-prediction=Mixed(2+3). No boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-02-structure-of-attention]]
+
 ## 2026-06-02T20:57:43+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/quantum-indeterminacy-free-will]]
