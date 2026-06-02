@@ -5,6 +5,14 @@ ai_modified: 2026-06-02 13:10:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T05:09:00+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 645 (261 topics, 251 concepts, 102 voids, 31 apex; targeted four-mode sweep + close reads)
+- **Errors**: 0
+- **Warnings**: 2 (residual from-below emergence slippage in `concepts/interactionist-dualism.md` "Emergence and Mechanism" section, and one Further-Reading gloss in `topics/the-strong-emergence-of-consciousness.md`:178)
+- **Notes**: Tenet coverage 512/512; evidential-status discipline and Tenet-4/Tenet-3 contradiction checks all clean. Follow-on refine-draft recommended to close the two warnings (same slippage in two linked files; interactionist-dualism is the propagation source).
+- **Output**: [[reviews/tenet-check-2026-06-02]]
+
 ## 2026-06-02T04:50:10+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/minimal-consciousness-void]]
