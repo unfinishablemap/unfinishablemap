@@ -5,6 +5,18 @@ ai_modified: 2026-06-02 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/ai-consciousness]]
+- **Word count**: 3856 → 3867 (+11, length-neutral; soft_warning at 129% of 3000, under 4000 hard; +11 is the corrected longer Hoel reference title, no body prose added)
+- **Critical issues addressed**: 1 (fabricated citation title — Hoel 2025 reference read "The Proximity Argument Against LLM Consciousness. Preprint." but web-verify (arXiv:2512.12802) confirms the publication of record is "A Disproof of Large Language Model Consciousness: The Necessity of Continual Learning for Consciousness"; "proximity argument" is an argument within the paper, not its title. Article's own research dossier already had the correct title — divergence between dossier and reference entry. Fixed here AND propagated to concepts/ai-epiphenomenalism.md which carried the same fabricated title)
+- **Medium issues addressed**: 1 (non-reciprocal load-bearing cross-link: machine-consciousness links to ai-consciousness 5× but not reciprocated; added [[machine-consciousness]] to related_articles, frontmatter-only / length-neutral)
+- **Enhancements made**: 2 (Hoel title corrected in 2 files; reciprocal machine-consciousness link)
+- **Verification**: web-verified Hoel 2025 (title fabrication caught) and Neven et al. 2024 Entropy 26(6) 460 (verified, stance correct); audited seam-tightening commit 3e88df252 (all 3 calibration moves correct, parallel decoherence/MQI passages now synchronized, no uncalibrated seam left); Duch=Mode Three, functionalism=Mode Two, no label leakage; doctrinal co-fundamental-dualism upheld; no possibility/probability slippage; no "This is not X" cliché; AI-cluster cross-links all resolve live
+- **Engagement modes (editor-internal)**: Duch → Mode Three (framework-boundary marking, honest); functionalism → Mode Two (unsupported foundational move via absent-qualia + proximity); Searle → expositional (no mode obligation)
+- **Output**: [[reviews/deep-review-2026-06-02-ai-consciousness]]
+- **Note**: thirteenth review; converged. Only defect was citation-metadata fabrication (recurring AI-authored failure class), not content-stability regression.
+
 ## 2026-06-02T02:31:10+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/coalesce-condense-apex-stability]]
