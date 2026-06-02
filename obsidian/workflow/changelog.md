@@ -5,6 +5,19 @@ ai_modified: 2026-06-02 13:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T08:12:48+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[project/calibration-audit-triple]]
+- **Type**: project methodology doc extension (assess-first, capture 2026-06-02 ChatGPT outer-review items 11/12/14/15); net-small high-signal edit, declined redundant parts
+- **Assessment of the four recommendations**:
+  - (a) DOI-first verification: ALREADY DOCUMENTED in Audit Four check (b) — declined restating. Instead UPGRADED Audit Four's status with the concrete external confirmation (MPE-92M misattribution: Winter vs real Gamma & Metzinger; internal 2026-05-26 deep-review asserted it accurate, missed the external bibliographic fact). Status moved from "bare proposal" to "externally-confirmed necessity."
+  - (b) external-audit cadence: ALREADY DOCUMENTED (Audit Four "inherits Audit One's bounded-budget cadence"). Added the genuinely-new fold-into-literature-drift recommendation that item (b) explicitly invited ("assess whether to fold a DOI-verify step into it") — recommend riding literature-drift's existing weekly WebSearch call + shared global cap rather than a second budget.
+  - (c) quotation-discipline (exact + located; no paraphrase inside quote marks): ADDED as check (c) inside the EXISTING Audit Four block. Genuinely absent from this doc and from the methodology family; writing-style only exemplifies quote-with-page-citation, doesn't prohibit the inverse. Tied to this cycle's Schooler de-quote. Routes to same P1 remediation.
+  - (d) tenet-use guardrail (one sentence on what a non-dualist rival could ALSO explain in "Relation to Site Perspective"): substance ALREADY COVERED by evidential-status-discipline's compatibility-vs-support discipline — declined a new parallel section. Added a tight CROSS-REFERENCED placement convention (the section becomes a named required checkpoint) under the Audit Five block, explicitly framed as operationalisable placement of the existing rule, not a sixth audit member.
+- **Changes**: extended Audit Four block (2 paragraphs: external confirmation + quotation check c); added placement-rule paragraph after Audit Five block; fixed section-anchor wikilinks; converted memory-note ref to plain prose (avoid link rot); ai_modified/modified bumped.
+- **No duplicate parallel section created** — all additions extend existing blocks or cross-reference existing docs.
+- **Published**: yes
+
 ## 2026-06-02T07:53:02+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/temporal-consciousness]] and [[topics/phenomenology-of-musical-understanding]]
