@@ -5,6 +5,16 @@ ai_modified: 2026-06-02T19:50:32+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T20:13:50+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/amplification-mechanisms-consciousness-physics]]
+- **Four-bucket**: (a) content-stable since 2026-05-15 review (coalesce predated it; only intervening edit was that review's own soften-claim). Value added = first live web-verify of the dense quantum/neuro citation set, which intra-corpus check structurally can't do.
+- **Word count (body)**: 3925 → 3927 (+2; net-neutral — fabricated myelin clause removed offsets Chakroun author-list expansion; under 4000 topics hard ceiling, ~73w headroom)
+- **Critical issues addressed**: 4 (all citation-metadata fabrications, all survived 5 prior reviews)
+- **Web-verify**: Kalra&Bhatt(2025) FABRICATED→real author **Díaz Palencia**, journal **AppliedMath** not NeuroSci (DOI 10.3390/appliedmath5040132); Sáenz-Cuesta(2025) FABRICATED→real author **Keppler** (Front Hum Neurosci 19:1676585) + myelin/IR-cavity claim NOT in paper→removed; Westbrook(2023) FABRICATED→real first author **Chakroun** + art# 5340→**5369** (DOI 10.1038/s41467-023-41130-y); Hagan(2002) in-text order Tuszynski/Hameroff→**Hameroff/Tuszyński** (matches reference + Crossref). 14 other cites Crossref-CORRECT; 43%/280ms/10⁻⁵–10⁻⁴s/Tegmark stats CONFIRMED.
+- **Calibration**: speculative framing preserved (ZPF "highly speculative, awaits corroboration"; Tegmark-vs-Hagan kept LIVE; conditional mood in threshold section); no epistemic→metaphysical slide.
+- **Output**: [[reviews/deep-review-2026-06-02-amplification-mechanisms-consciousness-physics]]
+
 ## 2026-06-02T20:07:18+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/void-as-ground-of-meaning]]
