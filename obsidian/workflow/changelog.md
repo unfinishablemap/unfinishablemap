@@ -5,6 +5,20 @@ ai_modified: 2026-06-02 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T03:34:50+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/zombie-master-argument]]
+- **Word count**: 2049 words on disk — unchanged (metadata-only verdict; 82% of 2500 concepts/ soft, normal mode, no length action)
+- **Bucket**: b-own-development — scoped by diff against last-review commit 15d647421 to the expanded Frankish-illusionism engagement in the Type-A Cost paragraph (refine commits 41b63b3e5 + 3fc04dd15). ai_modified 2026-05-25 (prior session, not this session). Confirmed genuine own-development.
+- **Critical issues addressed**: 0 — first-audit PASS on all load-bearing checks
+- **Boundary-substitution (load-bearing)**: PASS. New Frankish engagement is genuine in-framework, not perimeter-restatement: states the meta-representational-bridge account fairly, locates disagreement at the self-coincidence point ("where the represented and the representing coincide, which is precisely where the analogy to external representation closes"), presses illusionism on its OWN mechanistic standard, verdict honestly marks the programme live ("not a defeated one"). Engagement mode: Mixed (opens Mode Two, deepens to Mode One, no boundary residue beyond honest liveness). No tenet-substitution.
+- **Citation web-verify**: PASS. Frankish (2016) "Illusionism as a Theory of Consciousness," JCS 23(11-12), 11-39 verified (PhilPapers, keithfrankish.com). Stance correct — Frankish IS illusionism's PRO-defender; no STANCE-REVERSAL. No numbered Frankish ref in this file to mis-state.
+- **Evidential-status**: PASS. Strongest claim explicitly hedged ("verdict on a programme still putting moves on the board"); no upgrade of anti-illusionist stance, no tenet-as-evidence. Tenet-accepting reviewer would not flag.
+- **Doctrinal**: PASS — no emergentist self-presentation. **Label-leakage**: PASS — no editor vocab in prose. **Cliché**: PASS — line-110 "not a contradiction but" is integrated single-sentence contrast, not the banned two-sentence form.
+- **Cross-links**: verified live — [[illusionism#The Meta-Representational Bridge to Felt Unity]] anchor present (illusionism.md:107), [[phenomenal-concepts-as-materialist-response]] file present.
+- **Medium issues addressed**: 0 | **Enhancements made**: 0 (metadata-only; 5th review, converged)
+- **Output**: [[reviews/deep-review-2026-06-02-zombie-master-argument]]
+
 ## 2026-06-02T03:20:52+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/forward-in-time-conscious-selection]]
