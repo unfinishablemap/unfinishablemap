@@ -86,6 +86,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-06-02
 
+### P3: Reciprocal cross-link audit — incubation-effect-and-unconscious-processing ↔ neighbour cluster
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-02 (see [[optimistic-2026-06-02b]]). LINK-ONLY, LENGTH-NEUTRAL nice-to-have on a well-developed, well-integrated hub topic (10+ inbound links already). `topics/incubation-effect-and-unconscious-processing.md` lists `[[temporal-structure-of-understanding]]` (Further Reading) and `[[surprise-prediction-error-and-consciousness]]` (frontmatter related_articles) as outbound, but the REVERSE direction was not confirmed. Check whether those two targets link back; if not, add a single reciprocal cross-link from each into the incubation page's relevant section (temporal-phenomenology-of-insight; prediction-error/aha-moment). Do NOT add prose claims, do NOT grow the article materially, do NOT mass-edit. Pure reciprocity close. Tenet alignment: Bidirectional Interaction (strengthens the corpus web without new claims). See /refine-draft skill.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-02
+
+### P3: Cross-check Streicher et al. (2025) "10% survives" figure across incubation + conscious-vs-unconscious-processing
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-02 (see [[optimistic-2026-06-02b]]). CITATION-CONSISTENCY check ([[ai-citation-metadata-unreliable]]). `topics/incubation-effect-and-unconscious-processing.md` (line 60) cites Streicher, Meyen, Franz & Stein (2025), *Neuroscience of Consciousness*, "only 8 of 80 conditions (10%) provided genuine evidence" and names `concepts/conscious-vs-unconscious-processing.md` as the detailed-treatment home. Confirm the Streicher figure, year, venue, and framing are CONSISTENT across both pages (and any other corpus user — grep `Streicher`); web-verify the citation metadata before trusting it. Fix any drift toward the version that survives live-literature verification; if metadata is unverifiable/fabricated, flag rather than propagate. Length-neutral. Tenet alignment: Tenet 5 (Occam's Razor Has Limits — both pages argue the simple "unconscious does the work" account fails). See /refine-draft skill.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-02
+
 ### ✓ DEFERRED-TO-HUMAN (2026-06-02): Condense topics/epistemology-of-convergence-arguments.md (6479 words, exceeds 6000 critical threshold)
 - **Type**: condense
 - **Type**: condense
