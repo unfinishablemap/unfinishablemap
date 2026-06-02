@@ -5,6 +5,18 @@ ai_modified: 2026-06-02 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T03:50:06+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/integration-as-activity]]
+- **Word count**: 2940 → 2940 (no body change; metadata-only verdict on converged article)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (non-reciprocal cross-link — added backlink from [[concepts/higher-order-theories]] → integration-as-activity)
+- **Enhancements made**: 1 (reciprocal cross-link)
+- **Scope**: CHANGED-SINCE-REVIEW own-development. Delta since last-review commit 114808b2a = first-personal calibration paragraph (7adcbff85) + a single HOT Further Reading cross-link (bca022c50). No HOT *citation* entered this article — the Rosenthal/Lau cites live in the higher-order-theories target, not this file.
+- **Engagement modes** (editor-internal): HOT cross-link = Mode Three (rival faces parallel objection, not refuted); grammar paragraph = Mode Three (brain-subject readers disagree at framework boundary, honestly noted); phenomenal-concept-strategy (unchanged) = Mode One on introspective access + Mode Three at residue.
+- **Citation verify**: Lau & Rosenthal 2011 TICS 15(8):365–373 DOI 10.1016/j.tics.2011.05.009 confirmed real + correct + physicalist stance (spot-check of the HOT cross-link's load-bearing source). No stance-reversal; HOT correctly framed as physicalist rival.
+- **Output**: [[reviews/deep-review-2026-06-02-integration-as-activity]]
+
 ## 2026-06-02T04:05:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.5 Pro

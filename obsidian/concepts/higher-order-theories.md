@@ -4,7 +4,7 @@ description: "Mental states become conscious when we become aware of them. HOT e
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-05-25T11:42:00+00:00
+ai_modified: 2026-06-02T03:50:06+00:00
 draft: false
 last_deep_review: 2026-05-17T02:35:33+00:00
 topics:
@@ -174,6 +174,7 @@ The hard problem remains hard.
 - [[metacognition]] — The metarepresentational distinction HOT may conflate
 - [[hard-problem-of-consciousness]] — The puzzle HOT doesn't solve
 - [[global-workspace-theory]] — A complementary functionalist theory
+- [[integration-as-activity]] — The Map's rival framing, which faults HOT with the parallel objection that meta-representation leaves the felt character unexplained
 - [[self-reference-paradox]] — The recursive structure HOT requires
 - [[perceptual-reality-monitoring-void]] — Where Lau's reality monitor demonstrably fails
 - [[unity-of-consciousness]] — The binding HOT explains representationally
