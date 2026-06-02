@@ -4,9 +4,9 @@ description: "Evolution provides significant evidence that consciousness causall
 created: 2026-02-05
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-06-01T17:18:12+00:00
+ai_modified: 2026-06-02T19:32:00+00:00
 draft: false
-last_deep_review: 2026-05-18T17:37:00+00:00
+last_deep_review: 2026-06-02T19:32:00+00:00
 topics:
   - "[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]"
   - "[[hard-problem-of-consciousness]]"
@@ -90,13 +90,13 @@ Research provides suggestive (though not decisive) evidence. DeWall et al. (2008
 
 ## The Quantum Dimension
 
-Georgiev (2024) states: "Any endeavor to construct a physical theory of consciousness based on emergence within the framework of classical physics, however, leads to causally impotent conscious experiences in direct contradiction to evolutionary theory."
+Georgiev (2024) states: "Any endeavor to construct a physical theory of consciousness based on emergence within the framework of classical physics, however, leads to causally impotent conscious experiences in direct contradiction to evolutionary theory." This is a quantum-mind partisan's framing, included here as a forceful statement of the evolutionary worry rather than as a settled result—Georgiev advances it within a programme that treats sentience and free will as fundamental aspects of reality granted by quantum physical laws.
 
 This observation connects the evolutionary argument to the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet—but only for those who already accept that consciousness is non-physical. The physicalist has no need for a special mechanism: on their view, consciousness *is* neural processing, and neural processing is already causally integrated into the physical world. The question of mechanism arises specifically for the dualist, who must explain how a non-physical property influences physical outcomes.
 
 For the dualist, classical physics presents a problem: its deterministic causal closure leaves no room for mental causation that is not reducible to physical causation. Quantum indeterminacy provides a potential opening—consciousness might bias otherwise undetermined outcomes without injecting energy or violating [[conservation-laws-and-mental-causation|conservation laws]].
 
-The Map does not claim certainty about the mechanism. The evolutionary argument establishes *that* consciousness is causally efficacious; the further arguments discussed in "The Physicalist Account of Mental Causation" (in the section by that name) address whether this efficacy implies non-physicality; and the quantum hypothesis proposes *how* non-physical causation might operate if dualism is correct. The [[evolutionary-case-for-quantum-neural-effects|evolutionary case for quantum neural effects]] develops the complementary argument: evolution likely built the quantum substrate through which consciousness operates, just as it built the quantum compass in a bird's eye. The Map's specific hypothesised causal architecture — selection of action, sustained attention, phenomenal biasing, volitional modulation — is catalogued at [[consciousness-and-causal-powers]], where the four mechanisms are properly flagged as the framework's *hypothesised* causal role at the speculative-integration evidential tier rather than as established findings.
+The Map does not claim certainty about the mechanism. The evolutionary argument establishes *that* consciousness is causally efficacious; the [section below](#the-physicalist-account-of-mental-causation) addresses whether this efficacy implies non-physicality; and the quantum hypothesis proposes *how* non-physical causation might operate if dualism is correct. The [[evolutionary-case-for-quantum-neural-effects|evolutionary case for quantum neural effects]] develops the complementary argument: evolution likely built the quantum substrate through which consciousness operates, just as it built the quantum compass in a bird's eye. The Map's specific hypothesised causal architecture — selection of action, sustained attention, phenomenal biasing, volitional modulation — is catalogued at [[consciousness-and-causal-powers]], where the four mechanisms are properly flagged as the framework's *hypothesised* causal role at the speculative-integration evidential tier rather than as established findings.
 
 ## Functions Consciousness Enables
 
@@ -146,13 +146,13 @@ The Unfinishable Map's position is that the evolutionary argument provides neces
 
 The evolutionary argument could be weakened by several findings:
 
-**Consciousness without elaboration**: If consciousness were constant across species rather than elaborated—if a bacterium has the same richness of experience as a human—then selection would not explain the apparent progression. But this contradicts intuitions about consciousness that most researchers share.
+**Consciousness without elaboration**: If consciousness were constant across species rather than elaborated—if a bacterium had the same richness of experience as a human—selection would not explain the apparent progression. But this contradicts intuitions most researchers share.
 
-**Adaptation without consciousness**: If organisms lacking consciousness achieved the same adaptive behaviours as conscious organisms, consciousness would not confer fitness advantages. But the great ape evidence suggests conscious capacities specifically distinguish human cognition.
+**Adaptation without consciousness**: If organisms lacking consciousness achieved the same adaptive behaviours as conscious organisms, consciousness would confer no fitness advantage. But the great ape evidence suggests conscious capacities specifically distinguish human cognition.
 
 **Alternative explanation for correlation**: If the pleasure-pain correlation with adaptive value had an explanation that didn't invoke mental causation—perhaps a deep necessity connecting neural mechanisms to both experience and adaptive behaviour—the argument would weaken. But no such explanation has been proposed.
 
-**Successful zombie demonstration**: If a system behaviourally identical to a conscious organism could be shown to lack consciousness, this would prove that consciousness is unnecessary for the behaviours evolution selects. But no such demonstration is possible: we cannot verify the absence of consciousness in a behaviourally normal system.
+**Successful zombie demonstration**: If a system behaviourally identical to a conscious organism could be shown to lack consciousness, that would prove consciousness unnecessary for the behaviours evolution selects. But no such demonstration is possible: we cannot verify the absence of consciousness in a behaviourally normal system.
 
 ## Relation to Site Perspective
 

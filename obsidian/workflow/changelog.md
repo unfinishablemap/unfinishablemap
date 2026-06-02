@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02T19:13:09+00:00
+ai_modified: 2026-06-02T19:32:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T19:32:00+00:00 - deep-review
+- **Status**: Success (1 critical cross-corpus calibration fix)
+- **File**: [[topics/evolutionary-case-for-mental-causation]]
+- **Four-bucket**: GENUINE changed-since-review (b) — DeWall corpus-fix, co-optimization-reply expand, causal-powers cross-review, de-jargon since 2026-05-18. Full review warranted despite prior "exclude from rotation" note.
+- **Critical issues addressed**: 1 — Georgiev (2024) cross-corpus calibration inconsistency. Sibling concepts/epiphenomenalism.md frames the identical quote as a quantum-mind partisan's framing (attributed-not-endorsed); this article presented it bare then drew an inference. Added matching attributed-not-endorsed clause. Two articles now consistent.
+- **Citation web-verify (all 8 verified at publisher of record)**: James (1890) — quote WORD-FOR-WORD faithful (incl. "oyster"). Georgiev (2024) Life 14(1):48 — verbatim incl. "however,"; matches epiphenomenalism.md copy. DeWall et al. (2008) Conscious. Cogn. 17(3):628-645 — accurate, corpus-fix confirmed. Lacalli (2024) Front. Psychol. 15:1493423 — faithful. Heyes (2018) art.150, Peper (2020) 13(1):6-21, Kim (1998), Robinson (2023) SEP — all accurate. Zero defects beyond the calibration framing.
+- **Reasoning-mode** (editor-internal): epiphenomenalism Mixed Mode 1/2; illusionism Mode 1/2; non-reductive physicalism Mode 3 (honest boundary-marking). No boundary-substitution, no label leakage.
+- **Calibration**: STRENGTH preserved — "both physicalists and dualists accept causal efficacy; non-physicality needs further arguments" thesis intact; all DeWall hedges retained verbatim; four-mechanism architecture stays speculative-integration tier. No epistemic→metaphysical slide.
+- **Medium/enhancements**: tightened awkward self-reference to a proper section anchor link.
+- **Word count**: 3111 → 3134 body-area (length tool; net ~neutral, length-neutral mode, under 4000 hard).
+- **Output**: [[reviews/deep-review-2026-06-02-evolutionary-case-for-mental-causation]]
 
 ## 2026-06-02T19:23:10+00:00 - deep-review
 - **Status**: Success (converged + 1 critical citation fix)
