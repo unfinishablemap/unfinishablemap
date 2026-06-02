@@ -4,7 +4,7 @@ description: "From nematodes to slime molds: where does consciousness begin? The
 created: 2026-01-19
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-06-01T17:18:12+00:00
+ai_modified: 2026-06-02T15:49:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-05-09T00:37:00+00:00
+last_deep_review: 2026-06-02T15:49:30+00:00
 coalesced_from:
   - "/concepts/minimal-consciousness/"
   - "/topics/consciousness-in-simple-organisms/"
@@ -107,7 +107,7 @@ The slime mold case divides researchers sharply:
 
 For the Map's framework, slime molds present a puzzle. If [[quantum-consciousness|quantum effects in neuronal microtubules]] provide the interface for consciousness, organisms lacking neurons shouldn't exhibit cognitive behaviors—yet they do. (Slime molds possess microtubules as cytoskeletal elements; what they lack is the orchestrated neuronal architecture the Penrose–Hameroff hypothesis treats as load-bearing.) This suggests either that quantum neural interfaces are sufficient but not necessary for cognition, or that cognition and consciousness can fully dissociate.
 
-The [[decoherence|decoherence objection]]—that quantum coherence cannot survive in warm biological systems—applies differently across complexity levels. Slime molds may process information through entirely classical biochemical mechanisms while lacking the quantum-coherent structures that, on the Map's view, enable consciousness to interface with matter. This would explain sophisticated cognition without phenomenal experience.
+The [[decoherence|decoherence objection]]—that quantum coherence cannot survive in warm biological systems—applies differently across complexity levels. Slime molds may process information through entirely classical biochemical mechanisms while lacking the quantum-coherent structures that, on the Map's view, enable consciousness to interface with matter—sophisticated cognition without phenomenal experience.
 
 The defensible reading of *Physarum* is that it exhibits sophisticated information processing without phenomenal experience — a clear case where cognition and consciousness can dissociate. Attributing experience to slime molds remains a panpsychist or process-philosophical possibility, not an empirically supported finding; the case sits at *speculative integration* with cognition-without-consciousness as the more parsimonious reading.
 
@@ -278,19 +278,19 @@ The Map rejects MWI partly because it undermines the [[haecceity]]—the irreduc
 
 ## References
 
-1. Andrews, K., & Monsó, S. (2024). New York Declaration on Animal Consciousness. NYU Conference on the Emerging Science of Animal Consciousness.
+1. Andrews, K., Birch, J., & Sebo, J. (2024). New York Declaration on Animal Consciousness. New York University.
 1. Baars, B. J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
-1. Becerra, D., et al. (2023). "The Conscious Nematode: Exploring Hallmarks of Minimal Phenomenal Consciousness in Caenorhabditis Elegans." *International Journal of Psychological Research*, 16(2), 87-102.
+1. Becerra, D., et al. (2023). "The Conscious Nematode: Exploring Hallmarks of Minimal Phenomenal Consciousness in Caenorhabditis Elegans." *International Journal of Psychological Research*, 16(2), 87-104.
 1. Bhattacharjee, P., et al. (2023). "On being a Hydra with, and without, a nervous system: what do neurons add?" *Animal Cognition*.
 1. Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI*. Oxford University Press.
 1. Chittka, L., et al. (2025). "The exploration of consciousness in insects." *Philosophical Transactions of the Royal Society B*.
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
-1. Godfrey-Smith, P. (2024). "Inferring Consciousness in Phylogenetically Distant Organisms." *Journal of Cognitive Neuroscience*, 36(8), 1660-1672.
+1. Godfrey-Smith, P. (2024). "Inferring Consciousness in Phylogenetically Distant Organisms." *Journal of Cognitive Neuroscience*, 36(8), 1660-1666.
 1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). "Evidence that logical reasoning depends on conscious processing." *Consciousness and Cognition*, 17(3), 628-645.
 1. Low, P., et al. (2012). Cambridge Declaration on Consciousness.
 1. McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.
-1. Metzinger, T. (2024). "Minimal Phenomenal Experience: The ARAS-Model Theory." *Neuroscience of Consciousness*.
+1. Metzinger, T. (2020). "Minimal Phenomenal Experience: Meditation, Tonic Alertness, and the Phenomenology of 'Pure' Consciousness." *Philosophy and the Mind Sciences*, 1(I), 7.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
 1. Sims, M. (2024). *Slime Mould and Philosophy*. Cambridge University Press.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.

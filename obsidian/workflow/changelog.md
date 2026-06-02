@@ -5,6 +5,19 @@ ai_modified: 2026-06-02T15:03:51+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T15:49:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-in-simple-organisms]]
+- **Focus**: full publisher-of-record web-verification of every post-2022 specialist citation (high-fabrication-risk zone, 3rd round of citation corrections for this article); calibration preserved; length kept under hard ceiling.
+- **Citation web-verify (8 cites)**: Becerra 2023 (IJPR 16(2)) — VERIFIED, page-range fixed 87-102→**87-104**. Bhattacharjee 2023 (Animal Cognition) — VERIFIED. Chittka 2025 (Phil Trans R Soc B 380:1939) — VERIFIED. Godfrey-Smith 2024 (JOCN 36(8)) — VERIFIED, page-range fixed 1660-1672→**1660-1666**. Metzinger MPE/ARAS — title real but **venue/year metadata fixed**: was "Neuroscience of Consciousness (2024)"; real record is *Philosophy and the Mind Sciences* 1(I), **2020** (2024 Metzinger work is the book *The Elephant and the Blind*). Sims 2024 (CUP) — VERIFIED. Birch 2024 (OUP, exact subtitle) — VERIFIED. NYD — **misattribution fixed**: "Andrews & Monsó" → **Andrews, Birch & Sebo** (Monsó is not an author). Body claim "599 signatories" also VERIFIED on official declaration page.
+- **Critical issues addressed**: 3 citation defects (2 page-range errors + 1 venue/year error) + 1 author misattribution = 4 corrections
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 redundancy trim (decoherence/slime-mold paragraph)
+- **Calibration**: no possibility/probability slippage; evidential-register hedges, per-organism status labels, UAL negative-signal paragraph, Birch precautionary framing all preserved verbatim
+- **Engagement modes (editor-internal)**: Frankish Mode One; MWI Mode Three; McGinn shared-framework; Whitehead alternative-framing — all unchanged, no label leakage
+- **Word count**: 3932 → 3934 (length tool; under topics 4000 hard ceiling — context's 4049 figure reflects a different counter)
+- **Output**: [[reviews/deep-review-2026-06-02-consciousness-in-simple-organisms]]
+
 ## 2026-06-02T15:42:41+00:00 - deep-review
 - **Status**: Success (converged — no body changes)
 - **File**: [[topics/comparative-consciousness-and-interface-differences]]
