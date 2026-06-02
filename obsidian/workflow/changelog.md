@@ -5,6 +5,15 @@ ai_modified: 2026-06-02T22:36:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T22:39:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/pupillometry-behavioural-channel]]
+- **Task**: Complete the proxy-tests↔pupillometry back-link (one-directional cross-link gap from /optimistic-review 2026-06-02). Forward link existed (proxy-tests → pupillometry, frontmatter + body line 119); back link genuinely absent.
+- **Changes**: (a) added `[[topics/cross-species-behavioural-confidence-proxy-tests]]` to related_articles frontmatter; (b) added one body sentence in the Conjunction Probes section positioning autonomic/pupillometric third-person dissociation and the wager/opt-out behavioural proxy as complementary within-biology channel methodologies under the introspection-architecture-independence exhibit.
+- **Scope discipline**: length-neutral cross-link completion only; no evidential-claim change, no citation change, no TIER/evidential-status wording touched (both articles are calibration-disciplined per evidential-status-discipline).
+- **Word count**: 2340 → 2395 body words (+55; well under topics/ soft 3000, hard 4000).
+- **Published**: yes (draft status unchanged: draft: false)
+
 ## 2026-06-02T22:36:20+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenal-value-realism]]

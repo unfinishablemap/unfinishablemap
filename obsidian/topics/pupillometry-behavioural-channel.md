@@ -4,7 +4,7 @@ description: "Human+AI exploration of how pupil-dilation measurements expose the
 created: 2026-05-16
 modified: 2026-05-16
 human_modified:
-ai_modified: 2026-05-27T13:36:21+00:00
+ai_modified: 2026-06-02T22:39:42+00:00
 last_deep_review: 2026-05-16T09:23:00+00:00
 draft: false
 topics:
@@ -23,6 +23,7 @@ related_articles:
   - "[[voids/narrative-void]]"
   - "[[topics/microphenomenological-interview-method]]"
   - "[[topics/introspection-architecture-independence-scoring]]"
+  - "[[topics/cross-species-behavioural-confidence-proxy-tests]]"
   - "[[concepts/introspection]]"
   - "[[concepts/heterophenomenology]]"
   - "[[apex/taxonomy-of-voids]]"
@@ -74,7 +75,7 @@ The third pattern is the one that matters for the channel-level framing. The pup
 
 ## The Methodological Consequence: Conjunction Probes
 
-The strongest methodological reading of the pupillometry literature is that pupillary instrumentation paired with structured verbal report is a *conjunction probe* — a stronger probe than either channel alone. The microphenomenological interview (see [[topics/microphenomenological-interview-method|microphenomenological interview method]]) sharpens the verbal channel by training and structured prompting, raising the assertoric grade of pre-reflective descriptions. Pupillometry sharpens the bodily channel by providing trial-locked autonomic measurement. A conjunction probe deploys both: the verbal channel makes available articulated content the bodily channel does not produce, while the bodily channel registers events the verbal channel cannot reach.
+The strongest methodological reading of the pupillometry literature is that pupillary instrumentation paired with structured verbal report is a *conjunction probe* — a stronger probe than either channel alone. The microphenomenological interview (see [[topics/microphenomenological-interview-method|microphenomenological interview method]]) sharpens the verbal channel by training and structured prompting, raising the assertoric grade of pre-reflective descriptions. Pupillometry sharpens the bodily channel by providing trial-locked autonomic measurement. A conjunction probe deploys both: the verbal channel makes available articulated content the bodily channel does not produce, while the bodily channel registers events the verbal channel cannot reach. The autonomic, third-person dissociation this article studies and the wager- and opt-out behavioural proxies of [[topics/cross-species-behavioural-confidence-proxy-tests|cross-species behavioural-confidence proxy tests]] are complementary within-biology channel methodologies under the same [[topics/introspection-architecture-independence-scoring|introspection-architecture-independence]] exhibit — pupillometry reading an involuntary bodily signature, the proxy tests reading a structured behavioural wager — each probing report-independent registration where the verbal channel cannot reach.
 
 This conjunction matters for several Map arguments. The [[concepts/heterophenomenology|heterophenomenology]] tradition treats verbal reports as data about a "world the subject takes herself to inhabit" without committing to inner referents. Pupillometry data is consumed by heterophenomenology on the same neutral terms — *Dennett's method can ingest a pupillary trace as a behavioural fact about the subject*. But where the heterophenomenologist might claim the verbal report exhausts what can be said, the pupillary data forces a more discriminating treatment: the verbal report and the bodily channel can disagree, and the disagreement is itself evidence about the architecture of report-production rather than about phenomenal facts.
 
