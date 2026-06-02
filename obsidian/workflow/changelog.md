@@ -5,6 +5,16 @@ ai_modified: 2026-06-02T08:41:28+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-02T09:30:18+00:00 - deep-review
+- **Status**: Success (citation web-verification — change-under-review verified clean)
+- **File**: [[concepts/mental-effort]]
+- **Word count**: 2872 → 2872 (net-neutral; citation metadata completion only)
+- **Critical issues addressed**: 0 (citation-reconciliation change verified: Naccache 2005 lesion lateralization web-confirmed left-lesion/right-residual-ACC correct; Sauerbrei & Pruszynski 2025 web-confirmed correct, metadata completed to *Nat Neurosci* 28:1365-1366; Zheng & Meister known-good; no slippage, no misattribution)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 — completed Sauerbrei & Pruszynski 2025 reference with verified live-record volume/pages
+- **Engagement classification**: epiphenomenalism Mode One (selection-pressure, internal to physicalism); Inzlicht/Kurzban process-model Mixed (Mode Two foundational + Mode Three boundary); illusionism Mode One (regress); MWI Mode Three (boundary-marking) — all intact, no boundary-substitution, no label leakage. Line-88 functionalist-absorption discipline and Stapp decoherence objection preserved verbatim.
+- **Output**: [[reviews/deep-review-2026-06-02-mental-effort]]
+
 ## 2026-06-02T09:15:00+00:00 - deep-review
 - **Status**: Success (convergence audit — no critical issues, no content changes)
 - **File**: [[topics/cognitive-phenomenology-and-the-irreducibility-of-thought]]

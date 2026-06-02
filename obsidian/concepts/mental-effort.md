@@ -4,7 +4,7 @@ description: "Why controlling attention feels like work—and what this widely-s
 created: 2026-01-14
 modified: 2026-05-09
 human_modified: null
-ai_modified: 2026-05-29T00:00:00+00:00
+ai_modified: 2026-06-02T09:30:18+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -44,7 +44,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-05-09T04:40:00+00:00
+last_deep_review: 2026-06-02T09:30:18+00:00
 ---
 
 Controlling your attention takes effort. This simple phenomenological fact—that directing the mind feels effortful, that overriding impulses requires work—is real, widely shared, and not a transparent window onto its own machinery. Felt effort genuinely costs something to hold attention on a topic, yet the empirical literature (set out below) shows the felt sense detaching, in several distinct ways, from the operation it ostensibly reports. The Unfinishable Map does not rest its case on effort alone: the dualist reading draws what force it has from cumulative convergence across the broader [[phenomenal-output-causal-machinery-dissociation|phenomenal-output / causal-machinery dissociation cluster]], not from this single datum, and it *constrains* materialist absorption rather than *establishing* dualism (see [[evidential-status-discipline]]).
@@ -184,7 +184,7 @@ If controlling attention genuinely costs something, something must be doing the 
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 1. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
+1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*, 28, 1365-1366.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Westbrook, A., et al. (2020). Dopamine promotes cognitive effort by biasing the benefits versus costs of cognitive work. *Science*, 367(6484), 1362-1366.
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
