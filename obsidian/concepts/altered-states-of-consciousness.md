@@ -4,7 +4,7 @@ description: "Altered states reveal consciousness's range through meditation, ps
 created: 2026-01-18
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-05-14T12:41:00+00:00
+ai_modified: 2026-06-02T00:42:42+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -69,11 +69,11 @@ Several findings support the filter interpretation:
 
 A materialist objection holds that these "insights" are illusory—confabulations that merely *feel* profound without genuine epistemic value. A deeper version notes that psychedelics disrupt the very neural processes required for accurate introspection—how can we trust reports from compromised metacognitive systems? The response: some psychedelic insights prove verifiable (therapeutic breakthroughs, creative solutions), and the expansion hypothesis predicts their *selectivity*—not random confabulation but access to genuinely suppressed information (childhood memories, repressed patterns). Pure confabulation would be random; genuine filter-loosening would be informative. Clinical studies of psilocybin-assisted therapy show lasting improvements in depression and anxiety that correlate with reported mystical-type experiences, suggesting the insights have functional validity beyond subjective impression.
 
-**Identical outputs, divergent experiences.** Different anaesthetics (propofol vs. ketamine) can produce identical behavioural outputs—unresponsiveness, amnesia—while producing radically different conscious experiences. Ketamine preserves vivid experience despite behavioural unresponsiveness; propofol seems to eliminate experience entirely. Mashour and Bharioke (2024) demonstrate this asymmetry through neuroimaging: both agents suppress cortical activity, but through different thalamic pathways with different phenomenal consequences.
+**Identical outputs, divergent experiences.** Different anaesthetics (propofol vs. ketamine) can produce identical behavioural outputs—unresponsiveness, amnesia—while producing radically different conscious experiences. Ketamine preserves vivid experience despite behavioural unresponsiveness; propofol seems to eliminate experience entirely. Mashour (2024) reviews this asymmetry: both agents suppress cortical activity, but through different pathways with different phenomenal consequences.
 
 A sophisticated production theorist would note that propofol and ketamine act on different receptor systems (GABA-A vs. NMDA) and disrupt different neural circuits—so production theory *does* predict different phenomenal outcomes from different mechanisms, even when gross behavioural output converges. The challenge for production accounts is not the bare fact of divergence but its *character*: ketamine produces organised, coherent experience (vivid imagery, out-of-body phenomena, narrative structure) precisely when the neural systems supposedly generating consciousness are severely disrupted. If consciousness is what certain neural circuits produce, profoundly disrupting those circuits should degrade the product—not redirect it into novel coherent forms. Filter theory offers a natural explanation: ketamine reconfigures the interface, blocking some channels while opening others, rather than damaging the generator.
 
-**Information received but not perceived.** Mashour and Bharioke's 2024 *Neuron* review confirms that sensory information reaches the brain during light sedation but is not perceived—what they term "received but not perceived." The signal arrives; something prevents its manifestation in consciousness. This is precisely what filter theory predicts—disruption of interface rather than disruption of consciousness itself.
+**Information received but not perceived.** Mashour's 2024 *Neuron* review notes that sensory information reaches the brain during light sedation but is not perceived—"received but not perceived." The signal arrives; something prevents its manifestation in consciousness. This is precisely what filter theory predicts—disruption of interface rather than disruption of consciousness itself.
 
 ## Specific States and What They Reveal
 
@@ -199,7 +199,7 @@ Kerskens, C. M. & Pérez López, D. (2022). Experimental indications of non-clas
 
 Kral, T. R. A., Davis, K., Korponay, C. et al. (2022). Absence of structural brain changes from mindfulness-based stress reduction: Two combined randomized controlled trials. *Science Advances*, 8(20), eabk3316.
 
-Mashour, G. A. & Bharioke, A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(8).
+Mashour, G. A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(10), 1553-1567.
 
 Rivas, T., Dirven, A. & Smit, R. (2023). *The Self Does Not Die: Verified Paranormal Phenomena from Near-Death Experiences*. IANDS Publications.
 

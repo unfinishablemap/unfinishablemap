@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02 00:39:19+00:00
+ai_modified: 2026-06-02 00:42:42+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T00:42:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/active-reboot]]
+- **Word count**: 2676 → 2676 (length-neutral; soft_warning, 107% of 2500 concepts soft, under 3500 hard)
+- **Selection**: changed-since-review pick over scorer's meta-concept top candidate. Active-reboot is citation-heavy; the §"Temporal precedence" paragraph was rewritten 2026-05-29 (grew 2179→2676) and never reviewed since. The 2026-05-18 stability verdict does not transfer to that new content.
+- **Citation web-verify (publisher of record)**: 3 recently-corrected load-bearing cites VERIFIED CORRECT — Hu et al. (2023) *Nature Neuroscience* 26:751-764 (10.1038/s41593-023-01290-y), Lewis et al. (2018) *eLife* e33250 (10.7554/eLife.33250), Stone et al. (2025) *BJA* 135:121-133 (10.1016/j.bja.2025.02.036). The 2026-05-29 fixes of all three are accurate.
+- **Critical issues addressed**: 4 corpus-wide citation defects — (1) fabricated co-author "Bharioke, A." on the Mashour 2024 *Neuron* review removed from BODY prose (2 sentences) + ref in `concepts/altered-states-of-consciousness.md` and ref in `apex/identity-across-transformations.md` [web-verified single-author George A. Mashour, *Neuron* 112(10):1553-1567]; a prior 2026-02-25 review had INTRODUCED the fabrication; (2) wrong-initial+wrong-venue "Hu, B. … *Neuron*" → Hu, J.-J. … *Nature Neuroscience* in `topics/consciousness-disruption-and-the-mind-brain-interface.md` AND `topics/memory-system-vulnerability-hierarchies-as-interface-evidence.md`; (3) wrong-author "Bhatt 2024 / neurobiology of consciousness" → Mashour 2024 in `active-reboot` ref 7; (4) issue-number 112(8)→112(10) in `topics/anaesthesia-and-the-consciousness-interface.md`.
+- **Possibility/probability slippage**: NONE. The Temporal Precedence rewrite is anti-slippage — correctly separates the established dissociation result (Onoda/Breyton/Van Maldegem 2025) from the genuine precedence finding (Lewis 2018). §Dualism invokes defeater-removal correctly.
+- **Engagement classification (editor-internal)**: no new named-opponent engagement; §"What active reboot does not establish" is honest Mode-Three boundary-marking. No label leakage.
+- **Files touched**: concepts/active-reboot, concepts/altered-states-of-consciousness, apex/identity-across-transformations, topics/consciousness-disruption-and-the-mind-brain-interface, topics/anaesthesia-and-the-consciousness-interface, topics/memory-system-vulnerability-hierarchies-as-interface-evidence.
+- **Output**: [[reviews/deep-review-2026-06-02-active-reboot]]
 
 ## 2026-06-02T00:39:19+00:00 - deep-review
 - **Status**: Success

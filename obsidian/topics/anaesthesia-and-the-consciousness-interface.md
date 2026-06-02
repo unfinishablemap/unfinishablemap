@@ -4,7 +4,7 @@ description: "Anaesthetic pharmacology maps the consciousness-brain interface wi
 created: 2026-02-23
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-06-01T00:00:00+00:00
+ai_modified: 2026-06-02T00:42:42+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -168,7 +168,7 @@ Anaesthetic pharmacology connects to each of the Map's [[tenets]] in concrete wa
 ## References
 
 1. Franks, N. P. (2008). General anaesthesia: from molecular targets to neuronal pathways of sleep and arousal. *Nature Reviews Neuroscience*, 9(5), 370-386.
-1. Mashour, G. A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(8).
+1. Mashour, G. A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(10), 1553-1567.
 1. Casali, A. G., et al. (2013). A theoretically based index of consciousness independent of sensory processing and behavior. *Science Translational Medicine*, 5(198), 198ra105.
 1. Mashour, G. A., et al. (2021). Recovery of consciousness and cognition after general anesthesia in humans. *eLife*, 10, e59525.
 1. Hameroff, S. (2006). The entwined mysteries of anesthesia and consciousness. *Anesthesiology*, 105(2), 400-412.
