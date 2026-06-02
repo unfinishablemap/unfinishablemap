@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Complete process-and-consciousness apex back-link set (cross-link completion — asymmetric gap)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review [[reviews/optimistic-2026-06-02e]]. ASSESS-FIRST: re-confirm each gap by grep before editing (gaps can close from other reviews). The `apex/process-and-consciousness.md` synthesis declares six `apex_sources` and links all six in-body, but only `process-philosophy` and `temporal-consciousness` reciprocate. As of 2026-06-02 the other four DO NOT back-link to the apex: `concepts/panpsychism` (apex links it 4× in-body), `concepts/unity-of-consciousness` (4×), `concepts/combination-problem` (4×), `topics/free-will` (2×). Result: apex has 11 inbound links vs 18 for the comparable sibling `phenomenology-mechanism-bridge` (which is fully reciprocated). FIX is length-neutral + cap-safe: add `[[process-and-consciousness]]` to each source article's `related_articles` block (and optionally one natural in-body "part of the [[process-and-consciousness]] synthesis" reference where it reads cleanly). PRIORITISE the two UNTOUCHED-today files (panpsychism, unity-of-consciousness); `combination-problem` and `topics/free-will` were edited earlier 2026-06-02 — re-verify the gap still stands and avoid same-session churn (related_articles addition only, no body rewrite). Do NOT add/remove any claim; pure connection completion. Watch for archival-link-rot on the slugs. Update `ai_modified` on each edited file.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-02
+
 ### P2: Deep-review concepts/apophatic-cartography-four-criteria.md (15-day changed-since-review gap, voids-methodology concept)
 - **Type**: deep-review
 - **Status**: pending
