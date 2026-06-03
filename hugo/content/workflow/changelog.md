@@ -9,6 +9,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T14:12:36+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ramanujan-and-the-phenomenology-of-mathematical-reception](/topics/ramanujan-and-the-phenomenology-of-mathematical-reception/)
+- **Task**: Anchoring-calibration refine (topic-concept anchoring audit 2026-06-03). Anchor concept [qualia](/concepts/qualia/). Two confirmed-live flags: hedge_density below floor, strong_assertion_density above ceiling.
+- **Before**: 1946w, hedges 7 (3.60/kw, floor 4.93), strong-assertions 5 (2.57/kw, ceiling 1.83), underdetermination 0 — BOTH flags firing.
+- **After**: 1980w, hedges 11 (5.56/kw, clears floor with margin), strong-assertions 3 (1.51/kw, below ceiling), underdetermination 2 — `evaluate_anchoring` returns NO flags.
+- **Changes**: Softened the 2 most over-reaching positive assertions only — "refutes the strongest deflationary reading" → "tells decisively against"; "establishes that the pattern is real" → "gives us good reason to treat the pattern as real". Preserved the deflationary spine (Confabulation Reading: survivorship bias, documented prime-counting/zeta-zeros errors, "on self-report alone the deflationary reading wins") and the negated/disclaimer uses of "proves"/"establishes" untouched. Added 2 underdetermination markers ("compatible with both readings", "underdetermined by the evidence") at the natural both-readings-on-the-table point. Added 4 warranted hedges ("may"/"seems") on genuinely posited/uncertain claims (mechanism-only candidate-production, Map's-reading feels-like, reconstructive-memory parallel, implausibility judgements). No citation claims introduced; Hardy quotes untouched. Length neutral (+34w).
+- **Published**: yes
+
 ## 2026-06-03T13:41:33+00:00 - expand-topic
 - **Status**: Success (RETARGETED topic→concept per assess-first)
 - **Topic**: Phenomenology of *kairos* timing-window structure

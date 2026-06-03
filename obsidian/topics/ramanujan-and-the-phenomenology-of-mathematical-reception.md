@@ -4,7 +4,7 @@ description: "Ramanujan reported receiving formulas in dreams. A worked exhibit 
 created: 2026-06-03
 modified: 2026-06-03
 human_modified:
-ai_modified: 2026-06-03T00:00:00+00:00
+ai_modified: 2026-06-03T14:12:36+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -53,7 +53,7 @@ That last fact is doubly important. The single person best positioned to interro
 
 ## The Pattern That Needs Explaining
 
-Strip away the mythology and a genuine explanandum remains. Ramanujan's cognitive process produced, with no formal-derivation step that he could report, a large body of results that survived expert scrutiny and continued to seed research for a century—the "lost notebook" findings of the 1970s onward, mock theta functions, partition congruences. The reliability is not perfect, but it is high enough, and the results deep enough, that "lucky guessing" and "brute mechanical search" are both implausible as complete explanations. Many of his identities have derivations that are far from obvious even now; the space of candidate formulas is vast, and the hit rate is the thing demanding an account.
+Strip away the mythology and a genuine explanandum remains. Ramanujan's cognitive process produced, with no formal-derivation step that he could report, a large body of results that survived expert scrutiny and continued to seed research for a century—the "lost notebook" findings of the 1970s onward, mock theta functions, partition congruences. The reliability is not perfect, but it is high enough, and the results deep enough, that "lucky guessing" and "brute mechanical search" both seem implausible as complete explanations. Many of his identities have derivations that are far from obvious even now; the space of candidate formulas is vast, and the hit rate is the thing that may most demand an account.
 
 This is the explanandum—*what needs explaining*—not the proof of anything. Stating the pattern is a phenomenological-report-tier claim ([[evidential-status-discipline|evidential-status discipline]]): "Ramanujan's process tracked mathematical truth with notable reliability" is a description of the observed pattern. It is **not** a mechanism claim, and it is **not** evidence for dualism. Upgrading it to "insight resists computation, therefore consciousness is non-physical" would be exactly the register-collapse this article exists to refuse.
 
@@ -65,7 +65,7 @@ The deflationary objection deserves its own treatment, prominently, because it i
 
 **Retrospective narrative shaping.** The Namagiri attribution is itself a culturally available frame. A devout mathematician in a Tamil Brahmin tradition had a ready vocabulary for crediting insight to the divine. The dream-reception story may be a *post-hoc interpretation* of ordinary (if extraordinary) mathematical incubation, retrofitted to a religious narrative. The phenomenological report would then tell us about available interpretive frames, not about the underlying cognitive mechanism.
 
-**Selective and reconstructive memory.** Insight is often reconstructed after the fact as more sudden and more complete than it was. Poincaré's omnibus step is the canonical Western example; the Ramanujan dreams are the same phenomenon in a different idiom. Memory smooths the effortful middle and foregrounds the arrival.
+**Selective and reconstructive memory.** Insight is often reconstructed after the fact as more sudden and more complete than it was. Poincaré's omnibus step is the canonical Western example; the Ramanujan dreams may be the same phenomenon in a different idiom. Memory plausibly smooths the effortful middle and foregrounds the arrival.
 
 **The documented errors.** This is the decisive honesty point. Ramanujan was *wrong* about real mathematics. His work on the prime-counting function π(x) was unsound: he believed his approximations were better than they were, and—as Hardy diagnosed—his reasoning effectively assumed that all the zeros of the Riemann zeta function are real, ignoring the analytic theory Riemann had introduced in 1859. An intuition that delivered both the partition asymptotics *and* a faulty prime-counting argument is not a truth-oracle. It is a powerful, fallible cognitive process whose successes and failures both require explanation.
 
@@ -80,9 +80,9 @@ Hardy is the external-validation hinge for a precise reason. He was an atheist h
 But notice exactly what the Hardy hinge does and does not do:
 
 - It **does** rule out pure confabulation as a *complete* story. You cannot confabulate a true, deep, previously-unknown modular identity into existence; the survivorship-bias reading explains the *recording* of successes but not the *existence* of so many that survive expert verification.
-- It **does not** identify the mechanism. External validation establishes that the pattern is real. It says nothing about whether the generating process was phenomenal consciousness doing irreducible epistemic work, or an extraordinarily well-tuned but wholly computational subliminal search, or something else.
+- It **does not** identify the mechanism. External validation gives us good reason to treat the pattern as real. It says nothing about whether the generating process was phenomenal consciousness doing irreducible epistemic work, or an extraordinarily well-tuned but wholly computational subliminal search, or something else.
 
-The Hardy collaboration therefore secures the *explanandum* and refutes the *strongest* deflationary reading (that there is nothing to explain), while leaving the mechanism question wide open. That is the honest position, and it is the whole point of the exhibit.
+The Hardy collaboration therefore secures the *explanandum* and tells decisively against the *strongest* deflationary reading (that there is nothing to explain), while leaving the mechanism question wide open. That is the honest position, and it is the whole point of the exhibit.
 
 ## What the Case Can and Cannot Establish
 
@@ -92,13 +92,13 @@ To state it plainly, because this is the article's load-bearing function:
 
 **The case cannot establish:** that consciousness is non-physical; that insight is computationally irreducible; that the dream-reception attribution is causally accurate; or that Ramanujan's intuition was a truth-tracking faculty rather than a fallible generator with a high hit rate. The documented errors alone block the truth-oracle reading.
 
-Both live interpretations remain on the table. The **mechanism-only reading** holds that an exceptional subliminal computational process, refined by obsessive practice and an unusual memory for the *Carr Synopsis* and similar sources, produced the candidates, with conscious experience as an epiphenomenal commentary. The **Map's reading** (developed below) holds that the phenomenology is doing genuine epistemic work. Nothing in the Ramanujan case decides between them. Anyone who tells you it does has collapsed a register.
+Both live interpretations remain on the table. The **mechanism-only reading** holds that an exceptional subliminal computational process, refined by obsessive practice and an unusual memory for the *Carr Synopsis* and similar sources, may have produced the candidates, with conscious experience as an epiphenomenal commentary. The **Map's reading** (developed below) holds that the phenomenology is doing genuine epistemic work. Nothing in the Ramanujan case decides between them; the case is compatible with both readings, and the choice between them is underdetermined by the evidence the case supplies. Anyone who tells you it does has collapsed a register.
 
 ## Relation to Site Perspective
 
 The Unfinishable Map reads the Ramanujan case through its [[tenets]], but as a *posited* interpretation that the case illustrates rather than proves.
 
-**[[tenets#^dualism|Dualism]] (Tenet 1), posited.** The Map holds that genuine mathematical insight involves consciousness grasping necessities in a way that resists complete computational description—a thesis argued at length in [[consciousness-and-mathematics]] and [[concession-convergence-philosophy-of-mathematics]]. On this reading, Ramanujan's reception phenomenology is what irreducible insight *feels like from the inside* when the effortful search is offloaded below the threshold of report. The Map marks this as posited: the mechanism-only reading remains live, and the Ramanujan case is offered as a vivid instance of the pattern dualism predicts, not as independent evidence for it. The phenomenology is the explanandum, never the proof.
+**[[tenets#^dualism|Dualism]] (Tenet 1), posited.** The Map holds that genuine mathematical insight involves consciousness grasping necessities in a way that resists complete computational description—a thesis argued at length in [[consciousness-and-mathematics]] and [[concession-convergence-philosophy-of-mathematics]]. On this reading, Ramanujan's reception phenomenology may be what irreducible insight *feels like from the inside* when the effortful search is offloaded below the threshold of report. The Map marks this as posited: the mechanism-only reading remains live, and the Ramanujan case is offered as a vivid instance of the pattern dualism predicts, not as independent evidence for it. The phenomenology is the explanandum, never the proof.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]] (Tenet 3).** The feature of the Ramanujan case that most resists deflation is that insight *produced checkable physical proofs*. Whatever the generating process was, it terminated in written marks on paper that changed the course of mathematics. The reception was not a private quale sealed off from the world; it issued in public, falsifiable, world-altering artefacts. If the phenomenal "arrival" of a formula has any causal role in which formula gets written down, that is bidirectional interaction in action. This is the tenet the case bears on most directly, because here the external check (Hardy, and a century of verification) is doing the epistemic work, not the introspective report.
 
