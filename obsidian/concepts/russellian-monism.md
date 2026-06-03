@@ -4,7 +4,7 @@ description: "Russellian monism claims quiddities ground consciousness, but face
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-05-31T16:55:47+00:00
+ai_modified: 2026-06-03T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -141,7 +141,7 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 
 3. **Russellian physicalism succeeds.** Brown's (2025) "Russellian physicalism" argues that categorical properties grounding physical dispositions are themselves physical, not protomental. If this variant answers the conceivability and knowledge arguments within a physicalist framework, the Map's anti-physicalist motivation weakens.
 
-**Why these conditions remain open:** The combination problem has resisted solution since James's "most peculiar puzzle" in 1890. The decoherence objection is serious but not decisive: recent results are suggestive but indirect—Kerskens & Pérez (2022) report MRI signatures consistent with entangled proton spins, but this finding has been challenged on methodological grounds (Warren 2023) and not independently confirmed, and Khan et al. (2024) supplies circumstantial support that microtubules are anaesthesia-relevant rather than a measurement of quantum robustness at consciousness-relevant scales. These results soften the objection without settling it, and do not establish that the decoherence condition is met or unmet. And Russellian physicalism must still explain why *physical* categorical properties necessitate consciousness when structural properties don't.
+**Why these conditions remain open:** The combination problem has resisted solution since James's "most peculiar puzzle" in 1890. The decoherence objection is serious but not decisive: recent results are suggestive but indirect—Kerskens & López Pérez (2022) report MRI signatures consistent with entangled proton spins, but this finding has been challenged on methodological grounds (Warren 2023) and not independently confirmed, and Khan et al. (2024) supplies circumstantial support that microtubules are anaesthesia-relevant rather than a measurement of quantum robustness at consciousness-relevant scales. These results soften the objection without settling it, and do not establish that the decoherence condition is met or unmet. And Russellian physicalism must still explain why *physical* categorical properties necessitate consciousness when structural properties don't.
 
 ## Further Reading
 
@@ -164,7 +164,7 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 1. Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
 1. Hashemi, A. (2024). How to understand Russellian panpsychism. *Erkenntnis*.
 1. Howell, R.J. (2015). The Russellian monist's problems with mental causation. *The Philosophical Quarterly*, 65(258), 22-39.
-1. Kerskens, C.M. & Pérez, D.L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
+1. Kerskens, C.M. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 1. Kind, A. (2015). Pessimism about Russellian monism. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World* (pp. 401-421). Oxford University Press.
 1. Miller, G. (2018). Can subjects be proper parts of subjects? The de-combination problem. *Ratio*, 31(2), 132-143.
 1. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? In T. Alter & Y. Nagasawa (Eds.), *Russellian Monism*. Oxford University Press.

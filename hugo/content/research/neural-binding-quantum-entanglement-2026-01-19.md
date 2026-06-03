@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-05-28 21:46:49+00:00
+ai_modified: 2026-06-03 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -68,7 +68,7 @@ This research examines the neural binding problem—how distributed brain proces
 - **Tenet alignment**: Strongly supports Minimal Quantum Interaction tenet
 - **Quote**: "Since we don't know of another (i.e., classical) way that anesthetic binding to microtubules would generally reduce brain activity and cause unconsciousness, this finding supports the quantum model of consciousness"
 
-### [Kerskens & Pérez MRI Entanglement Study](https://bigthink.com/hard-science/brain-consciousness-quantum-entanglement/)
+### [Kerskens & López Pérez MRI Entanglement Study](https://bigthink.com/hard-science/brain-consciousness-quantum-entanglement/)
 - **URL**: https://bigthink.com/hard-science/brain-consciousness-quantum-entanglement/
 - **Type**: Novel experimental method (Journal of Physics Communications, 2022; follow-up 2023)
 - **Key points**:
@@ -220,7 +220,7 @@ This research examines the neural binding problem—how distributed brain proces
 | 2000 | Tegmark decoherence calculation | Claimed quantum effects impossible in brain—decoherence times too short |
 | 2002 | Hagan et al. response to Tegmark | Revised estimates 7 orders of magnitude longer; challenged assumptions |
 | 2004 | Tononi Integrated Information Theory | Proposed consciousness = integrated information (Φ) |
-| 2022 | Kerskens & Pérez MRI entanglement | First evidence of entangled brain state correlating with consciousness |
+| 2022 | Kerskens & López Pérez MRI entanglement | First evidence of entangled brain state correlating with consciousness |
 | 2024 | Khan et al. epothilone study | Microtubule-stabilizing drug delays anesthesia—supports quantum model |
 | 2025 | Wiest review in Neuroscience of Consciousness | Comprehensive case that experimental evidence supports Orch OR |
 | 2025 | Twin study quantum entanglement | Entanglement of qubits influenced learning performance (13.5% variance) |
@@ -229,7 +229,7 @@ This research examines the neural binding problem—how distributed brain proces
 
 Based on this research, an article could:
 
-1. **Synthesize the quantum binding case** — the Map's [binding-problem](/concepts/binding-problem/) and [phenomenal unity](/concepts/unity-of-consciousness/) pages already make the quantum argument well. A new article could focus specifically on the *experimental evidence* accumulating since 2022: the Kerskens-Pérez MRI studies, the Wiest epothilone experiments, the twin studies. This would update the empirical support for positions the Map already holds philosophically. Aligns with Minimal Quantum Interaction and Bidirectional Interaction tenets.
+1. **Synthesize the quantum binding case** — the Map's [binding-problem](/concepts/binding-problem/) and [phenomenal unity](/concepts/unity-of-consciousness/) pages already make the quantum argument well. A new article could focus specifically on the *experimental evidence* accumulating since 2022: the Kerskens-López Pérez MRI studies, the Wiest epothilone experiments, the twin studies. This would update the empirical support for positions the Map already holds philosophically. Aligns with Minimal Quantum Interaction and Bidirectional Interaction tenets.
 
 2. **Address classical mechanisms more fully** — While the Map critiques classical mechanisms for failing to explain phenomenal unity, it could develop fuller engagement with thalamocortical resonance (Llinás) specifically. The 40 Hz oscillation research is sophisticated; the Map could acknowledge its explanatory power for *correlation* while maintaining that phenomenal *unity* requires more. This would strengthen the argument by engaging the strongest classical alternative.
 
@@ -247,7 +247,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - **Myelin photon entanglement**: The Shanghai University study suggesting myelin sheath enables photon entanglement is intriguing but preliminary.
 - **Mechanism connecting microtubule quantum states to phenomenal content**: Even if quantum states in microtubules produce unity, what determines *which* contents are unified? The mechanism for content specification is less developed than the mechanism for unity itself.
 - **Why anesthesia disrupts quantum states specifically**: The epothilone study suggests microtubules are targets, but the precise mechanism by which anesthetics disrupt quantum binding (vs. other microtubule functions) is not fully characterized.
-- **Replication of Kerskens-Pérez**: The MRI entanglement findings need independent replication. Warren's critique was not accompanied by alternative explanation but raises methodological questions.
+- **Replication of Kerskens-López Pérez**: The MRI entanglement findings need independent replication. Warren's critique was not accompanied by alternative explanation but raises methodological questions.
 
 ## Citations
 
@@ -256,7 +256,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Frohlich, H. (1968). Long-range coherence and energy storage in biological systems. *International Journal of Quantum Chemistry*, 2, 641-649.
 - Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 - Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11, 39-78.
-- Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
+- Kerskens, C. M. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 - Llinás, R. & Ribary, U. (1993). Coherent 40-Hz oscillation characterizes dream state in humans. *PNAS*, 90(5), 2078-2081.
 - Llinás, R. et al. (1998). The neuronal basis for consciousness. *Philosophical Transactions of the Royal Society B*, 353(1377), 1841-1849.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.

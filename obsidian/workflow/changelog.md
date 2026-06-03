@@ -5,6 +5,18 @@ ai_modified: 2026-06-03T00:20:14+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T00:30:00+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Corpus sweep — normalize Kerskens 2022 second-author surname to canonical "López Pérez" (Spanish compound surname; given name David). Driver web-verified canonical form this cycle against IOPscience + ADS (2022JPhCo...6j5001K) + ResearchGate. Pure citation/metadata fix, length-neutral, multi-file single-pass.
+- **Canonical form installed**: "Kerskens, C. M. & López Pérez, D. (2022)" (refs); "Kerskens and/& López Pérez (2022)" / "Kerskens-López Pérez" (in-text).
+- **Instances fixed**: 31 across 23 files (21 with ai_modified updated; 2 research notes have no ai_modified field).
+- **Bare→compound (drops compound surname)**: most files — "Pérez, D. L." / "Kerskens & Pérez" / "Kerskens and Pérez" / "Kerskens-Pérez" → "López Pérez, D." / "Kerskens & López Pérez" / "Kerskens-López Pérez".
+- **Reversed→correct order (surname backwards)**: [[topics/psychedelics-and-the-filter-model]] (2: line 141, ref 12) and [[concepts/altered-states-of-consciousness]] (2: line 86, ref) — "Pérez López" → "López Pérez".
+- **Files**: topics/{quantum-biology-and-neural-consciousness, decoherence-and-macroscopic-superposition, falsification-roadmap-for-the-interface-model, clinical-evidence-quality-standards-consciousness-research, quantum-holism-and-phenomenal-unity, psychophysical-laws-bridging-mind-and-matter, psychedelics-and-the-filter-model}; concepts/{binding-problem, episodic-memory, integrated-information-theory, combination-problem, quantum-biology-and-neural-mechanisms, quantum-consciousness, russellian-monism, decoherence, entanglement-binding-hypothesis, altered-states-of-consciousness}; apex/process-and-consciousness; research/{neural-binding-quantum-entanglement-2026-01-19, non-retrocausal-conscious-selection-2026-03-07, decoherence-macroscopic-superposition-2026-01-14, born-rule-violation-brain-interface-empirical-status-2026-04-23, quantum-biology-neural-experimental-2026-03-20}.
+- **Left untouched (already correct "López Pérez")**: topics/{brain-internal-born-rule-testing, born-rule-and-the-consciousness-interface}, concepts/objections-to-interactionism (+ the already-correct ref line in born-rule-violation research note). Also left "Lopez Perez et al. 2023" in born-rule-violation note — that is a DIFFERENT 2023 follow-up paper, out of scope. Did not touch first-author initials, Hameroff/Babcock/Wiest, or any other citation.
+- **Final grep verification**: zero bare "Pérez, D. L." and zero reversed "Pérez López" remain in any Kerskens context across topics/concepts/apex/voids/research (60 correct "López Pérez" occurrences now present). Excluded reviews/, changelog.md, workflow/archive/ (immutable records).
+- **Published**: yes
+
 ## 2026-06-03T00:20:14+00:00 - refine-draft
 - **Status**: Success
 - **Task**: niaf011 author-fix propagation (driver follow-on from brain-internal-born-rule-testing deep-review) — citation/metadata-only, length-neutral, multi-file

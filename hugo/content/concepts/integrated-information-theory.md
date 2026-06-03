@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-05-17 15:04:45+00:00
+ai_modified: 2026-06-03 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -179,7 +179,7 @@ The difference: Whitehead's panexperientialism makes experience fundamental to a
 
 IIT doesn't require quantum mechanics. It works at the level of classical information and physical architecture. This neither supports nor contradicts the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet directly—IIT is simply silent on quantum effects.
 
-Some speculate that quantum coherence might be relevant to how integration occurs in biological systems—quantum entanglement provides exactly the kind of holistic, irreducible connections that IIT claims underlie consciousness. A 2022 MRI study by Kerskens & Pérez reported possible entanglement signatures in brain water protons—though this remains preliminary and disputed, it suggests potential links between quantum holism and neural integration. McQueen has proposed hybrid CSL-IIT models where integrated information (Φ) modulates [spontaneous collapse](/concepts/spontaneous-collapse-theories/) parameters—the higher the integration, the stronger the collapse effect. But this isn't part of standard IIT. The theory is designed to work without invoking quantum mysteries, treating consciousness as a feature of classical causal structure.
+Some speculate that quantum coherence might be relevant to how integration occurs in biological systems—quantum entanglement provides exactly the kind of holistic, irreducible connections that IIT claims underlie consciousness. A 2022 MRI study by Kerskens & López Pérez reported possible entanglement signatures in brain water protons—though this remains preliminary and disputed, it suggests potential links between quantum holism and neural integration. McQueen has proposed hybrid CSL-IIT models where integrated information (Φ) modulates [spontaneous collapse](/concepts/spontaneous-collapse-theories/) parameters—the higher the integration, the stronger the collapse effect. But this isn't part of standard IIT. The theory is designed to work without invoking quantum mysteries, treating consciousness as a feature of classical causal structure.
 
 From the Map's perspective, IIT may be incomplete because it ignores quantum mechanics. If consciousness influences physical outcomes via quantum selection (per Bidirectional Interaction), then IIT's identity thesis—consciousness *is* integration but doesn't *do* anything beyond it—leaves no room for causal efficacy. Quantum approaches would give consciousness an independent causal role that IIT's identity thesis does not. But this argument is conditional on the Map's framework being correct; IIT proponents would reject the premise that consciousness needs a causal role separate from the physical processes it is identical to. The disagreement is ultimately about whether identity or interaction better characterises the mind-matter relation.
 
@@ -236,7 +236,7 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 1. Albantakis, L., et al. (2023). Integrated information theory (IIT) 4.0. *PLOS Computational Biology*, 19(10), e1011465.
 1. Aaronson, S. (2014). Why I am not an integrated information theorist (or, the unconscious expander). *Shtetl-Optimized*.
 1. COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
-1. Kerskens, C. M., & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
+1. Kerskens, C. M., & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
 1. McQueen, K. J. (2019). Interpretation-neutral integrated information theory. *Journal of Consciousness Studies*, 26(1-2), 76-106.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-06-02 20:21:32+00:00
+ai_modified: 2026-06-03 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -97,7 +97,7 @@ This is evolution harnessing quantum mechanics for biological function in a warm
 
 ### Microtubule Quantum Effects
 
-Evidence for quantum effects in neural microtubules remains contested. Direct measurements of tryptophan superradiance (Babcock et al., 2024), anaesthetic effects on microtubule quantum oscillations (Wiest, 2025), and MRI signatures potentially indicating macroscopic entanglement (Kerskens & Pérez, 2022) suggest quantum effects may be present in neural tissue. Reimers et al. (2009) and McKemmish et al. (2009) challenge the parameter assumptions in Hagan et al.'s (2002) corrections to Tegmark, finding that the dielectric properties required either lack empirical support or specify regimes microtubules do not occupy in living tissue.
+Evidence for quantum effects in neural microtubules remains contested. Direct measurements of tryptophan superradiance (Babcock et al., 2024), anaesthetic effects on microtubule quantum oscillations (Wiest, 2025), and MRI signatures potentially indicating macroscopic entanglement (Kerskens & López Pérez, 2022) suggest quantum effects may be present in neural tissue. Reimers et al. (2009) and McKemmish et al. (2009) challenge the parameter assumptions in Hagan et al.'s (2002) corrections to Tegmark, finding that the dielectric properties required either lack empirical support or specify regimes microtubules do not occupy in living tissue.
 
 The [decoherence](/concepts/decoherence/) article examines this multi-sided dispute—Tegmark, Hagan, Reimers, and McKemmish—in detail. The empirical question is live rather than settled, and the Map's microtubule-scale interest is tenet-driven rather than empirically forced. The categorical claim that biology *cannot* harness quantum effects is refuted by magnetoreception; whether the brain does so remains open.
 
@@ -165,7 +165,7 @@ The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) ga
 1. Fein, Y.Y. et al. (2019). Quantum superposition of molecules beyond 25 kDa. *Nature Physics*, 15, 1242-1245.
 1. Hackermuller, L. et al. (2004). Decoherence of matter waves by thermal emission of radiation. *Nature*, 427, 711-714.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
-1. Kerskens, C.M., & Pérez, D.L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
+1. Kerskens, C.M., & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
 1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
 1. Schrödinger, E. (1935). Die gegenwärtige Situation in der Quantenmechanik. *Naturwissenschaften*, 23, 807-812.

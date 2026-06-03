@@ -4,7 +4,7 @@ created: 2026-03-20
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
-ai_modified: 2026-03-20T04:07:00+00:00
+ai_modified: 2026-06-03T00:00:00+00:00
 ---
 
 # Research: Quantum Biology in Neural Systems — Latest Experimental Evidence (2025-2026)
@@ -177,7 +177,7 @@ The 2025-2026 period has seen a notable acceleration in experimental and theoret
 | 2000 | Tegmark publishes decoherence calculations | Claims quantum brain effects decohere in 10^-13 to 10^-20 s — widely cited objection |
 | 2002 | Hagan et al. challenge Tegmark's parameters | Revised estimates 7 orders of magnitude longer; Tegmark assumed unrealistic conditions |
 | 2014 | Bandyopadhyay discovers quantum vibrations in microtubules | First experimental evidence of room-temperature quantum effects in microtubules |
-| 2022 | Kerskens & Pérez brain entanglement MRI study | MRI signals resembling heartbeat-evoked potentials suggest entangled proton spins in brain |
+| 2022 | Kerskens & López Pérez brain entanglement MRI study | MRI signals resembling heartbeat-evoked potentials suggest entangled proton spins in brain |
 | 2024 | Babcock et al. superradiant excitonic states | Theoretical demonstration that microtubules support collective quantum states at room temperature |
 | 2025 | Wiest review in Neuroscience of Consciousness | Major synthesis of experimental evidence supporting quantum microtubule consciousness |
 | 2025 | Keppler TRAZE theory (Frontiers) | New theory: consciousness from brain-ZPF resonant coupling |
@@ -203,7 +203,7 @@ Based on this research, an article could:
 
 - **In vivo quantum measurements**: Most microtubule quantum evidence comes from isolated preparations. The critical missing piece is demonstration of quantum coherence in functioning neural tissue. NV-diamond sensors may bridge this gap but no such experiment has been published yet.
 - **Unique predictions**: Quantum consciousness theories still struggle to make predictions that classical neuroscience cannot replicate. The anesthesia-microtubule connection is promising but not yet definitive.
-- **Replication**: The Kerskens & Pérez brain entanglement MRI finding (2022) needs independent replication. The twin entanglement EEG study (2025) requires careful methodological scrutiny.
+- **Replication**: The Kerskens & López Pérez brain entanglement MRI finding (2022) needs independent replication. The twin entanglement EEG study (2025) requires careful methodological scrutiny.
 - **Spintronic evidence**: The QBIT theory's core prediction — that microtubules exhibit spintronic properties — lacks direct experimental confirmation.
 - **TRAZE theory validation**: Keppler's ZPF coupling proposal needs empirical tests distinguishing it from classical phase transition models.
 - **Prebiotic collapse**: None of the 2025-2026 experimental work addresses the prebiotic collapse problem (how quantum indeterminacy was resolved before conscious observers). This remains a theoretical gap.

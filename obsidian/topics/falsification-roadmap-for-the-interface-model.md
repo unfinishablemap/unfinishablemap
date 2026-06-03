@@ -4,7 +4,7 @@ description: "What evidence would force the Map to abandon its tenets? A tenet-b
 created: 2026-04-09
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-06-02T01:08:03+00:00
+ai_modified: 2026-06-03T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -163,7 +163,7 @@ Six experimental programmes bear directly on the tenets:
 
 2. **Collapse-vs-decoherence experiments**: The levitated-optomechanical programme and related proposals. If objective collapse is confirmed, Tenet 4 gains support and MWI loses ground.
 
-3. **Born-rule tests at the brain interface**: No published experiment has directly probed the Born rule inside living neural tissue during a conscious act of selection—yet this is the regime that consciousness-physics-interface proposals target. Entanglement-witness protocols (Kerskens & Pérez, 2022), brain-to-qubit coupling devices (the Nirvanic "Spark of Life" roadmap), and tightened Born-rule precision in adjacent regimes each narrow the space. See [[born-rule-and-the-consciousness-interface]] for which readings of Tenet 2 each programme can and cannot adjudicate, and [[brain-internal-born-rule-testing]] for the mechanism-by-mechanism foreclosure programme — including what *plural-and-convergent* negative evidence would be required to shut the strict corridor reading.
+3. **Born-rule tests at the brain interface**: No published experiment has directly probed the Born rule inside living neural tissue during a conscious act of selection—yet this is the regime that consciousness-physics-interface proposals target. Entanglement-witness protocols (Kerskens & López Pérez, 2022), brain-to-qubit coupling devices (the Nirvanic "Spark of Life" roadmap), and tightened Born-rule precision in adjacent regimes each narrow the space. See [[born-rule-and-the-consciousness-interface]] for which readings of Tenet 2 each programme can and cannot adjudicate, and [[brain-internal-born-rule-testing]] for the mechanism-by-mechanism foreclosure programme — including what *plural-and-convergent* negative evidence would be required to shut the strict corridor reading.
 
 4. **Adversarial collaborations on consciousness**: The IIT-vs-GNWT programme showed partial testability is possible (see [[experimental-consciousness-science-2025-2026]] for the COGITATE results and their implications). Future adversarial collaborations—especially any that test dualist-compatible predictions against physicalist ones—are directly relevant.
 

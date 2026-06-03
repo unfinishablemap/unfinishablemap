@@ -4,7 +4,7 @@ description: "Quantum entanglement may be the only physical mechanism that provi
 created: 2026-03-01
 modified: 2026-03-01
 human_modified:
-ai_modified: 2026-06-02T00:14:58+00:00
+ai_modified: 2026-06-03T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -55,7 +55,7 @@ Several lines of evidence have emerged since 2022, though all remain preliminary
 
 ### MRI Entanglement Signatures
 
-Kerskens and Pérez (2022) developed a novel MRI protocol designed to detect quantum entanglement in the human brain. They observed a signal mimicking heartbeat-evoked potentials that appeared only during waking consciousness—it disappeared when subjects fell asleep. The fidelity of this putative entanglement signal correlated with short-term memory performance.
+Kerskens and López Pérez (2022) developed a novel MRI protocol designed to detect quantum entanglement in the human brain. They observed a signal mimicking heartbeat-evoked potentials that appeared only during waking consciousness—it disappeared when subjects fell asleep. The fidelity of this putative entanglement signal correlated with short-term memory performance.
 
 Warren (2023) challenged the interpretation but offered no alternative classical account of the observed signal. Independent replication has not yet been published.
 
@@ -128,7 +128,7 @@ The entanglement binding hypothesis aligns with several of the Map's [[tenets]].
 3. Georgiev, D. D. (2021). Quantum information in neural systems. *Symmetry*, 13(5), 773. doi:10.3390/sym13050773
 4. Hagan, S., Hameroff, S., & Tuszyński, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 5. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11, 39-78.
-6. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
+6. Kerskens, C. M. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 7. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
 8. Neven, H. et al. (2024). Testing the conjecture that quantum processes create conscious experience. *Entropy*, 26(6), 460.
 9. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.

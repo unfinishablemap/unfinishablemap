@@ -157,7 +157,7 @@ Three major frameworks support different versions of non-retrocausal selection: 
   - Neural processes operate at millisecond timescales — many orders of magnitude slower
   - Decoherence is sufficient to explain classical behavior without collapse
 - **Relation to site tenets**: Challenges the premise of non-retrocausal selection. If no macroscopic superpositions persist, consciousness cannot select among them.
-- **Counter-arguments**: (1) Tegmark's model was based on wrong parameters — corrected estimates are 7 orders of magnitude longer; (2) Biological protection mechanisms (hydrophobic interiors, metabolic pumping) may extend coherence; (3) Recent evidence of macroscopic quantum effects in brain (Kerskens & Pérez 2022, 2025 glutamate coherence domain); (4) Decoherence alone does not solve the measurement problem — selection still requires something.
+- **Counter-arguments**: (1) Tegmark's model was based on wrong parameters — corrected estimates are 7 orders of magnitude longer; (2) Biological protection mechanisms (hydrophobic interiors, metabolic pumping) may extend coherence; (3) Recent evidence of macroscopic quantum effects in brain (Kerskens & López Pérez 2022, 2025 glutamate coherence domain); (4) Decoherence alone does not solve the measurement problem — selection still requires something.
 
 ## Key Debates
 

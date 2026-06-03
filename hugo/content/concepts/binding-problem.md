@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-29 02:30:40+00:00
+ai_modified: 2026-06-03 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -167,7 +167,7 @@ The thalamus receives converging inputs from all sensory modalities and projects
 Experimental work has moved from theoretical possibility toward direct support:
 
 - **Microtubule-anesthesia link (Khan et al., 2024):** Rats treated with a microtubule-stabilizing drug took significantly longer to lose consciousness under anesthesia (Cohen's d = 1.9). The quantum model predicted this; classical pharmacology has not explained why microtubule stabilization specifically delays anesthesia.
-- **Brain entanglement signatures (Kerskens & Pérez, 2022):** MRI signals indicating entanglement correlated with consciousness—present during waking, absent during sleep, tracking working memory performance. Warren (2023) raised methodological concerns; replication is needed.
+- **Brain entanglement signatures (Kerskens & López Pérez, 2022):** MRI signals indicating entanglement correlated with consciousness—present during waking, absent during sleep, tracking working memory performance. Warren (2023) raised methodological concerns; replication is needed.
 - **Decoherence debate:** Tegmark's (2000) claim that neural quantum effects decohere in 10⁻¹³ seconds was challenged by Hagan et al. (2002), who derived 10⁻⁵ to 10⁻⁴ seconds—but Reimers et al. (2009) and McKemmish et al. (2009) contested that recalibration in turn, so the dispute is live rather than settled either way. Biological quantum effects in avian magnetoreception and photosynthesis demonstrate evolution can harness quantum coherence.
 - **Relativistic constraint (Baum, 2024):** Zero-lag gamma synchrony cannot arise classically without violating relativistic causality, pointing toward quantum non-locality.
 
@@ -195,7 +195,7 @@ The quantum binding hypothesis makes specific predictions:
 **The hypothesis would be undermined if:**
 1. Neural activity fully determines binding, ruling out quantum indeterminacy
 2. Classical mechanisms adequately explain zero-lag synchrony across cortical distances
-3. Kerskens-Pérez entanglement findings fail independent replication
+3. Kerskens-López Pérez entanglement findings fail independent replication
 4. Confirmation of Tegmark's original decoherence timescales
 5. Organisms lacking quantum coherence structures demonstrate phenomenal unity equivalent to humans
 
@@ -237,7 +237,7 @@ The binding problem illuminates why the Map's [tenets](/tenets/) take the positi
 1. Bayne, T., & Chalmers, D. (2003). What is the Unity of Consciousness? In A. Cleeremans (Ed.), *The Unity of Consciousness*. Oxford University Press.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of Orch OR. *Physics of Life Reviews*, 11, 39-78.
-1. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
+1. Kerskens, C. M. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
 1. Nagel, T. (1971). Brain bisection and the unity of consciousness. *Synthese*, 22, 396-413.
 1. Santander, T., Bekir, S., Paul, T., et al. (2025). Full interhemispheric integration sustained by a fraction of posterior callosal fibers. *Proceedings of the National Academy of Sciences*, 122(43), e2520190122. doi:10.1073/pnas.2520190122.

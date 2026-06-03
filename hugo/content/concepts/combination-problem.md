@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-06-02 23:34:41+00:00
+ai_modified: 2026-06-03 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -154,7 +154,7 @@ The difference—if there is one—is in the *type* of problem each faces. The c
 
 Can we test which problem is more tractable? Several lines of evidence bear on the question:
 
-**Quantum coherence measurements**: If consciousness operates at quantum indeterminacies, we should find quantum effects correlated with consciousness in ways that survive decoherence objections. Recent work (Kerskens & Pérez 2022) reports MRI signals suggesting entanglement that tracks waking consciousness, though the entanglement-witness interpretation drew a published Comment and Reply and remains contested. If confirmed, this supports the interactionist mechanism without providing any evidence for how micro-experiences combine. The Map's [entanglement binding hypothesis](/concepts/entanglement-binding-hypothesis/) explores quantum holism as the candidate physical structure that could underwrite phenomenal unity without invoking combination of micro-subjects.
+**Quantum coherence measurements**: If consciousness operates at quantum indeterminacies, we should find quantum effects correlated with consciousness in ways that survive decoherence objections. Recent work (Kerskens & López Pérez 2022) reports MRI signals suggesting entanglement that tracks waking consciousness, though the entanglement-witness interpretation drew a published Comment and Reply and remains contested. If confirmed, this supports the interactionist mechanism without providing any evidence for how micro-experiences combine. The Map's [entanglement binding hypothesis](/concepts/entanglement-binding-hypothesis/) explores quantum holism as the candidate physical structure that could underwrite phenomenal unity without invoking combination of micro-subjects.
 
 **Simple organism studies**: Research on [C. elegans and Hydra](/concepts/minimal-consciousness/) tests panpsychist predictions. If [phenomenal unity](/concepts/unity-of-consciousness/) requires the combination of micro-experiences, we should see gradients of unity tracking complexity. But the evidence is ambiguous—302-neuron nematodes show integrated information (positive Phi) yet fail behavioral markers of unified consciousness. The combination mechanism, if real, doesn't manifest in observable correlates.
 
@@ -211,7 +211,7 @@ The combination problem is not an argument *for* the Map's framework, but it sho
 1. Coleman, S. (2014). The Real Combination Problem. *Erkenntnis*, 79, 19-44.
 1. Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
-1. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
+1. Kerskens, C. M. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 1. Miller, G. (2018). Can Subjects Be Proper Parts of Subjects? The De-Combination Problem. *Ratio*, 31(2), 137-154.
 1. Seager, W. (1995). Consciousness, Information and Panpsychism. *Journal of Consciousness Studies*, 2(3), 272-288.
 1. Seager, W. (2010). Panpsychism, Aggregation and Combinatorial Infusion. *Mind and Matter*, 8(2), 167-184.

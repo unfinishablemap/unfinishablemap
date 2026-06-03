@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-06-02T03:55:33+00:00
+ai_modified: 2026-06-03T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -153,7 +153,7 @@ The [[binding-problem|binding problem]] has two components: BP1 asks how feature
 
 Quantum entanglement is different—entangled systems form genuinely unified wholes that cannot be decomposed into separate parts. If consciousness arises from entangled quantum states, phenomenal unity reflects physical unity at the quantum level. The structural match is precise: the entangled whole has properties its parts lack individually, mirroring how experience comes unified rather than assembled from separate quale-atoms.
 
-**Empirical support**: Zero-lag gamma synchrony presents a specific challenge for classical accounts. Gamma oscillations across distant cortical regions (~10 cm apart) synchronize with sub-millisecond precision, but neural transmission takes >5 ms. Baum argues this requires quantum non-locality—classical signal propagation cannot achieve zero-lag synchrony. Additionally, Kerskens-Pérez (2022) reported unusual NMR signals *consistent with* spin entanglement, correlated with consciousness—present during waking, absent during sleep—though the interpretation remains contested. Escolà-Gascón (2025) reported that quantum entanglement in stimuli explained 13.5% of variance in implicit learning, though this single study awaits independent replication. See [[quantum-holism-and-phenomenal-unity|Quantum Holism and Phenomenal Unity]] for detailed treatment.
+**Empirical support**: Zero-lag gamma synchrony presents a specific challenge for classical accounts. Gamma oscillations across distant cortical regions (~10 cm apart) synchronize with sub-millisecond precision, but neural transmission takes >5 ms. Baum argues this requires quantum non-locality—classical signal propagation cannot achieve zero-lag synchrony. Additionally, Kerskens-López Pérez (2022) reported unusual NMR signals *consistent with* spin entanglement, correlated with consciousness—present during waking, absent during sleep—though the interpretation remains contested. Escolà-Gascón (2025) reported that quantum entanglement in stimuli explained 13.5% of variance in implicit learning, though this single study awaits independent replication. See [[quantum-holism-and-phenomenal-unity|Quantum Holism and Phenomenal Unity]] for detailed treatment.
 
 ## The Illusionist Challenge
 
@@ -257,7 +257,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 1. Hagan, S. et al. (2002). Quantum computation in brain microtubules. *Physical Review E*, 65(6), 061901.
 1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe. *Physics of Life Reviews*.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
-1. Kerskens, C. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
+1. Kerskens, C. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
 1. Koch, C. & Tsuchiya, N. (2007). Attention and consciousness: Two distinct brain processes. *Trends in Cognitive Sciences*, 11(1), 16-22.
 1. McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98(391), 349-366.
 1. Player, T. C. & Hore, P. J. (2018). Posner qubits: spin dynamics of entangled Ca₉(PO₄)₆ molecules and their role in neural processing. *Journal of the Royal Society Interface*, 15(147), 20180494.

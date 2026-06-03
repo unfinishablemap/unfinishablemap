@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-06-02 12:00:00+00:00
+ai_modified: 2026-06-03 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -85,7 +85,7 @@ The REBUS model (Relaxed Beliefs Under Psychedelics) proposes that psychedelics 
 
 Neuroimaging reveals a paradox: psychedelics *decrease* within-network connectivity (especially in the [default mode network](/concepts/neural-correlates-of-consciousness/#the-default-mode-network)) while *increasing* between-network connectivity. The brain becomes simultaneously less integrated locally and more integrated globally.
 
-The Penrose-Hameroff Orch OR theory proposes a quantum mechanism: psychedelic molecules bind to microtubules and induce quantum coherence. If consciousness participates in quantum collapse (as the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes), psychedelics might enhance this participation. This hypothesis remains speculative—quantum coherence in warm biological systems faces the [decoherence](/concepts/decoherence/) objection that thermal noise should destroy superpositions almost instantly. However, Kerskens and Pérez López (2022) reported MRI signals they interpret as consistent with quantum entanglement in living human brains, though the result remains contested—critics note the signals may have classical explanations. If confirmed, this would suggest the decoherence problem may be less prohibitive than Tegmark calculated.
+The Penrose-Hameroff Orch OR theory proposes a quantum mechanism: psychedelic molecules bind to microtubules and induce quantum coherence. If consciousness participates in quantum collapse (as the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes), psychedelics might enhance this participation. This hypothesis remains speculative—quantum coherence in warm biological systems faces the [decoherence](/concepts/decoherence/) objection that thermal noise should destroy superpositions almost instantly. However, Kerskens and López Pérez (2022) reported MRI signals they interpret as consistent with quantum entanglement in living human brains, though the result remains contested—critics note the signals may have classical explanations. If confirmed, this would suggest the decoherence problem may be less prohibitive than Tegmark calculated.
 
 ### Flow States
 
@@ -197,7 +197,7 @@ Jiang, H., White, M. P., Greicius, M. D., Waelde, L. C. & Spiegel, D. (2017). Br
 
 Kelly, E. F. et al. (2007). *Irreducible Mind: Toward a Psychology for the 21st Century*. Rowman & Littlefield.
 
-Kerskens, C. M. & Pérez López, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
+Kerskens, C. M. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
 
 Kral, T. R. A., Davis, K., Korponay, C. et al. (2022). Absence of structural brain changes from mindfulness-based stress reduction: Two combined randomized controlled trials. *Science Advances*, 8(20), eabk3316.
 

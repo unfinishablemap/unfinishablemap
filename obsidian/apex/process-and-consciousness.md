@@ -4,7 +4,7 @@ description: "Reality as becoming, not being. Whitehead and Bergson's process fr
 created: 2026-01-31
 modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-05-28T21:46:49+00:00
+ai_modified: 2026-06-03T00:00:00+00:00
 last_deep_review: 2026-05-21T13:11:22+00:00
 draft: false
 topics:
@@ -99,7 +99,7 @@ The Map's commitment to *minimal* interaction finds resonance in Whitehead's acc
 
 Minimal interaction also bears on [[unity-of-consciousness|phenomenal unity]]. Quantum entanglement is the one domain in physics where genuinely non-separable states exist—entangled particles form a whole whose properties cannot be decomposed into individual states. If consciousness interacts with the brain at the quantum level, entanglement provides a physical correlate whose structure mirrors how unified experience resists decomposition into separate parts. Classical coordination relates distinct parts; entanglement produces states that are intrinsically unified. Process philosophy's concrescence—where the occasion synthesises its data into one definite experience—describes metaphysically what entanglement exhibits physically.
 
-Recent empirical work sharpens the picture. Kerskens and Pérez (2022) report MRI signatures suggestive of brain-based entanglement correlating with conscious states; microtubule-stabilising anaesthetics delay loss of consciousness (Khan et al. 2024) in ways that purely classical neural theories struggle to predict. These results don't confirm the entanglement-binding hypothesis, but they make it empirically distinguishable. Interactionism generates testable quantum predictions; the combination problem, by contrast, remains primarily conceptual. Where competing frameworks look philosophically balanced, empirical tractability tilts the scales.
+Recent empirical work sharpens the picture. Kerskens and López Pérez (2022) report MRI signatures suggestive of brain-based entanglement correlating with conscious states; microtubule-stabilising anaesthetics delay loss of consciousness (Khan et al. 2024) in ways that purely classical neural theories struggle to predict. These results don't confirm the entanglement-binding hypothesis, but they make it empirically distinguishable. Interactionism generates testable quantum predictions; the combination problem, by contrast, remains primarily conceptual. Where competing frameworks look philosophically balanced, empirical tractability tilts the scales.
 
 Bergson's duration points to the same structure from the phenomenological side. The creative novelty he attributes to lived time—the way each moment brings something genuinely new—requires an opening in deterministic closure. If the future were fixed by the past, time would be mere rearrangement, not invention. Bergson argued that determinism rests on spatializing time—treating mental states as discrete causes producing discrete effects, like billiard balls. But if mental states interpenetrate in qualitative multiplicity, this model fails. The whole of one's past converges in each moment, not as a sum of separate influences but as an indivisible movement. Freedom—and creative causation—emerges from this convergence.
 

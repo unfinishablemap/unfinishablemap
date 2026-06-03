@@ -4,7 +4,7 @@ description: "Episodic memory is constructive re-experiencing, not data retrieva
 created: 2026-01-17
 modified: 2026-03-28
 human_modified: null
-ai_modified: 2026-05-27T02:30:37+00:00
+ai_modified: 2026-06-03T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -124,7 +124,7 @@ The dual-domain view has deep roots. **Descartes** distinguished corporeal memor
 
 ### The Quantum Interface
 
-The Map's [[tenets#^minimal-quantum-interaction|minimal quantum interaction]] framework suggests a candidate mechanism. If consciousness acts at quantum indeterminacies in neural microtubules, memory traces at the microtubular level could serve as the interface between physical storage and conscious selection. Kerskens and Pérez (2022) detected signals consistent with macroscopic quantum entanglement in living brain tissue, correlated with working memory performance—reviewed by Wiest et al. (2025) as support for microtubular quantum states playing a functional role.
+The Map's [[tenets#^minimal-quantum-interaction|minimal quantum interaction]] framework suggests a candidate mechanism. If consciousness acts at quantum indeterminacies in neural microtubules, memory traces at the microtubular level could serve as the interface between physical storage and conscious selection. Kerskens and López Pérez (2022) detected signals consistent with macroscopic quantum entanglement in living brain tissue, correlated with working memory performance—reviewed by Wiest et al. (2025) as support for microtubular quantum states playing a functional role.
 
 This mechanism is speculative. The dual-domain argument rests on the [[explanatory-gap]] between physical traces and phenomenal recall—an argument that holds regardless of where the interface is located.
 
@@ -208,5 +208,5 @@ Episodic memory supports all five foundational commitments.
 1. Josselyn, S. A. & Tonegawa, S. (2020). Memory engrams: Recalling the past and imagining the future. *Science*, 367(6473), eaaw4325.
 1. Martin, C. B. & Deutscher, M. (1966). Remembering. *Philosophical Review*, 75(2), 161–196.
 1. Kube, T. et al. (2025). Reconsolidation and the goal-directedness of memory retrieval. *Frontiers in Cognition*, 4, 1518743.
-1. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
+1. Kerskens, C. M. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
 1. Wiest, M. C. et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, 2025(1), niaf011.

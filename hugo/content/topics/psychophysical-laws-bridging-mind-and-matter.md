@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-07
-ai_modified: 2026-05-27 00:00:24+00:00
+ai_modified: 2026-06-03 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -163,7 +163,7 @@ John Eccles (1994), with quantum mechanics developed alongside Friedrich Beck, p
 
 **Qualia as basis selection.** Perhaps specific phenomenal qualities correspond to specific measurement bases in quantum collapse—consciousness selects *what question to ask* rather than *which answer to get*. No developed theory, no mechanism, no evidence. Conceptually interesting: it illustrates that coupling might operate at the question level rather than the outcome level.
 
-**Unity as sustained entanglement.** Phenomenal unity might correspond to quantum entanglement rather than classical correlation, with consciousness actively sustaining coherence against decoherence. Kerskens and Pérez (2022) reported possible entanglement signatures correlating with conscious state—preliminary, unreplicated, and methodologically questioned. Correlation, even if confirmed, would not establish that consciousness *causes* entanglement.
+**Unity as sustained entanglement.** Phenomenal unity might correspond to quantum entanglement rather than classical correlation, with consciousness actively sustaining coherence against decoherence. Kerskens and López Pérez (2022) reported possible entanglement signatures correlating with conscious state—preliminary, unreplicated, and methodologically questioned. Correlation, even if confirmed, would not establish that consciousness *causes* entanglement.
 
 ## The Decoherence Challenge
 
@@ -263,6 +263,6 @@ The framework would face serious difficulty if (see also [tenet-falsification-co
 9. Hagan, S., Hameroff, S.R. & Tuszyński, J.A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E* 65(6), 061901.
 10. Schaffer, J. "Naturalistic Dualism and the Problem of the Physical Correlate." http://www.jonathanschaffer.org/dualismcorrelate.pdf
 11. Zheng, J. & Meister, M. (2025). "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" *Neuron* 113(2), 192-204.
-12. Kerskens, C.M. & Pérez, D.L. (2022). "Experimental indications of non-classical brain functions." *Journal of Physics Communications* 6(10).
+12. Kerskens, C.M. & López Pérez, D. (2022). "Experimental indications of non-classical brain functions." *Journal of Physics Communications* 6(10).
 13. Schwartz, J.M. et al. (1996). "Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder." *Archives of General Psychiatry* 53(2), 109-113.
 14. Tononi, G. et al. (2016). "Integrated Information Theory." *Nature Reviews Neuroscience*, 17, 450-461.

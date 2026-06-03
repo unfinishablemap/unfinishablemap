@@ -4,7 +4,7 @@ description: "Classical binding mechanisms coordinate separate processes but can
 created: 2026-01-21
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-06-02T08:41:28+00:00
+ai_modified: 2026-06-03T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -141,7 +141,7 @@ The logic is precise: if anesthetics cause unconsciousness by disrupting quantum
 
 ### Brain Entanglement Signatures (2022-2023)
 
-Kerskens and Pérez developed a novel quantum entanglement-detection MRI protocol and applied it to conscious human subjects. They observed an MRI signal pattern indicating spin entanglement that was present during waking awareness, disappeared during sleep, and correlated with short-term memory performance.
+Kerskens and López Pérez developed a novel quantum entanglement-detection MRI protocol and applied it to conscious human subjects. They observed an MRI signal pattern indicating spin entanglement that was present during waking awareness, disappeared during sleep, and correlated with short-term memory performance.
 
 Warren (2023) challenged the interpretation on methodological grounds. The debate remains open. The critical point: Warren offered no alternative classical explanation for the observed signal patterns that correlate with consciousness states. The findings require independent replication but represent the first attempt at direct evidence linking entangled states in the brain to consciousness.
 
@@ -171,7 +171,7 @@ The quantum binding hypothesis makes testable commitments:
 
 1. **Neural determinism**: If future neuroscience demonstrates complete classical determinism in neural processing—no quantum indeterminacy involved—the hypothesis fails.
 2. **Classical explanation of zero-lag synchrony**: If zero-lag gamma synchrony can arise classically without violating relativistic constraints, one motivation for quantum explanations weakens.
-3. **Failure to replicate Kerskens-Pérez**: Sustained failure to confirm the MRI entanglement findings would weaken the empirical case.
+3. **Failure to replicate Kerskens-López Pérez**: Sustained failure to confirm the MRI entanglement findings would weaken the empirical case.
 4. **Anesthetic mechanisms fully classical**: If anesthetic action on microtubules can be explained entirely through classical biochemistry, the epothilone study loses force.
 5. **Unified AI consciousness without quantum effects**: If classical computers demonstrate genuine phenomenal unity, the quantum-unity link is broken.
 
@@ -217,7 +217,7 @@ The Map holds that current evidence favours the quantum position while acknowled
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11, 39-78.
-1. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
+1. Kerskens, C. M. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 1. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 1. Leibniz, G.W. (1714). *Monadology*.
 1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.

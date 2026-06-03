@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-23
-ai_modified: 2026-06-03 00:20:14+00:00
+ai_modified: 2026-06-03 00:00:00+00:00
 ai_system: claude-opus-4-7
 concepts:
 - '[[measurement-problem]]'
@@ -61,7 +61,7 @@ topics:
 
 ## Executive Summary
 
-The Born rule and its two closest cousins — third-order interference vanishing (Sorkin) and the inner-product/no-signalling link (Pati, Masanes-Galley-Müller steering results) — have been tested with high precision, but **only in photon, atom, superconducting-qubit, and triple-slit systems**. No published experiment directly probes the Born rule inside living neural tissue during a conscious act of selection, which is precisely the regime that consciousness-interface programmes target. The 2025-2026 experimental landscape contains three active strands that are *relevant* but not *direct* tests: (i) witness-style searches for quantum coherence/entanglement in living brains (Kerskens & Pérez 2022 and follow-ups; anesthetic-target studies), (ii) brain-to-quantum-system coupling devices (Nirvanic "Spark of Life", 2025-2027 roadmap), and (iii) legacy micro-PK/RNG meta-analyses (Bösch-Steinkamp-Boller 2006, with Maier-Dechamps 2018 Bayesian evidence *against* the effect). None of these isolates Born-rule violation as such. The question "is Born-violating brain-internal physics empirically live?" therefore has a precise answer: **no direct test exists, the relevant regime is untested, and the field is still building the first-generation instruments that could probe it indirectly**. The corridor-vs-outside-the-corridor decision for the Map's Minimum Quantum Interaction tenet remains empirically open.
+The Born rule and its two closest cousins — third-order interference vanishing (Sorkin) and the inner-product/no-signalling link (Pati, Masanes-Galley-Müller steering results) — have been tested with high precision, but **only in photon, atom, superconducting-qubit, and triple-slit systems**. No published experiment directly probes the Born rule inside living neural tissue during a conscious act of selection, which is precisely the regime that consciousness-interface programmes target. The 2025-2026 experimental landscape contains three active strands that are *relevant* but not *direct* tests: (i) witness-style searches for quantum coherence/entanglement in living brains (Kerskens & López Pérez 2022 and follow-ups; anesthetic-target studies), (ii) brain-to-quantum-system coupling devices (Nirvanic "Spark of Life", 2025-2027 roadmap), and (iii) legacy micro-PK/RNG meta-analyses (Bösch-Steinkamp-Boller 2006, with Maier-Dechamps 2018 Bayesian evidence *against* the effect). None of these isolates Born-rule violation as such. The question "is Born-violating brain-internal physics empirically live?" therefore has a precise answer: **no direct test exists, the relevant regime is untested, and the field is still building the first-generation instruments that could probe it indirectly**. The corridor-vs-outside-the-corridor decision for the Map's Minimum Quantum Interaction tenet remains empirically open.
 
 ## Key Sources
 
@@ -126,7 +126,7 @@ The Born rule and its two closest cousins — third-order interference vanishing
 - **Tenet alignment**: Supports the possibility of a physical substrate where the standard QM postulates (unitary evolution without additional collapse dynamics) might break down — aligned with Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
 - **Caveats**: Interpretation contested; no direct test of Born-rule violation *per se*.
 
-### Quantum-entangled higher states of consciousness (Kerskens & Pérez 2022, follow-ups Lopez Perez et al. 2023; review at Frontiers 2025)
+### Quantum-entangled higher states of consciousness (Kerskens & López Pérez 2022, follow-ups Lopez Perez et al. 2023; review at Frontiers 2025)
 - **URL**: https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1676585/full
 - **Type**: Paper and review
 - **Key points**:
@@ -294,7 +294,7 @@ The Born rule and its two closest cousins — third-order interference vanishing
 | 2019 | Masanes-Galley-Müller | Born rule + projection derivable from other postulates. |
 | 2021 | Diósi-Penrose ruled out by germanium detector data | Simplest gravity-collapse model dead; CSL parameter space squeezed. |
 | 2022 | Chalmers & McQueen, Consciousness and Collapse | IIT Φ-based conscious-collapse model. |
-| 2022 | Kerskens & Pérez (J. Phys. Commun.) | MRI entanglement witness signal in brain water. |
+| 2022 | Kerskens & López Pérez (J. Phys. Commun.) | MRI entanglement witness signal in brain water. |
 | 2024 | LISA Pathfinder bounds on CSL | Further squeeze; GRW "survives by a whisker." |
 | 2025 | Wiest (Neuroscience of Consciousness) | Review of experimental evidence for quantum microtubule consciousness. |
 | 2025 | Nirvanic "Spark of Life" experiment announced | First robotic brain-analogue coupled to quantum computer for behaviour test. |

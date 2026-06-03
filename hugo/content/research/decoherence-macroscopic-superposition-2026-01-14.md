@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-14
-date: '2026-05-27'
+date: '2026-06-03'
 draft: false
 related_articles: []
 title: Research Notes - Decoherence and Macroscopic Superposition
@@ -36,7 +36,7 @@ Decoherence—the loss of quantum coherence through environmental interaction—
 - **Type**: Research paper (Neuroscience of Consciousness)
 - **Key points**:
   - Direct evidence of quantum superradiance from microtubules at room temperature (Babcock et al. 2024)
-  - MRI evidence of macroscopic quantum entanglement in living human brain (Kerskens & Pérez 2022)
+  - MRI evidence of macroscopic quantum entanglement in living human brain (Kerskens & López Pérez 2022)
   - Anesthetics dampen quantum optical effects in microtubules
   - Tegmark assumed thermal equilibrium (inappropriate for living systems)
   - Quantum entanglement provides "irreducible holism" matching consciousness's unified character
@@ -143,7 +143,7 @@ Decoherence—the loss of quantum coherence through environmental interaction—
 | 2000 | Tegmark decoherence calculation | Influential critique claiming femtosecond decoherence |
 | 2002 | Hagan, Tuszynski, Hameroff response | Corrected model gives 7 orders of magnitude longer coherence |
 | 2007 | Engel et al. photosynthesis coherence | First evidence of quantum coherence in warm biology |
-| 2022 | Kerskens & Pérez brain entanglement | MRI evidence of macroscopic quantum effects in living brain |
+| 2022 | Kerskens & López Pérez brain entanglement | MRI evidence of macroscopic quantum effects in living brain |
 | 2024 | Babcock et al. microtubule superradiance | Room-temperature quantum effects in microtubules |
 | 2025 | Hot Schrödinger cat states | Superposition at 60x ground state temperature |
 | 2025 | Nanoparticle matter-wave interference | 7,000+ atom particles in superposition |
@@ -183,7 +183,7 @@ The original todo asked: "Schrödinger's cat was warm and macroscopic yet in a s
 - Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 - Engel, G.S. et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446, 782-786.
 - Stanford Encyclopedia of Philosophy. The Role of Decoherence in Quantum Mechanics. https://plato.stanford.edu/entries/qm-decoherence/
-- Kerskens, C.M. & Pérez, D.L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*.
+- Kerskens, C.M. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*.
 - Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 - Yang, I. et al. (2025). Hot Schrödinger cat states. *Science Advances*, 11, eadr4492.
 - Probing quantum mechanics using nanoparticle Schrödinger cats. (2025). arXiv:2507.21211.

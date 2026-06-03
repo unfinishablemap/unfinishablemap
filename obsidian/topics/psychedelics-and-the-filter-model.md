@@ -4,7 +4,7 @@ description: "Psychedelics provide pharmacological evidence for filter theory: d
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-05-14T14:19:00+00:00
+ai_modified: 2026-06-03T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -138,7 +138,7 @@ Psychedelics illuminate several of the Map's [[tenets]]:
 
 *This appendix sits outside the main argumentative flow. Nothing earlier depends on it.*
 
-The Penrose-Hameroff Orch OR theory proposes that psychedelic molecules bind to microtubules, potentially modulating quantum coherence (Hameroff, 2024). If consciousness participates in quantum collapse—as the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] proposes—psychedelics might affect that participation. Recent experimental signals are sometimes invoked: Kerskens and Pérez López (2022) report MRI signals consistent with quantum-entanglement-like behaviour in living human brains; Babcock et al. (2024) document ultraviolet superradiance in tryptophan mega-networks within tubulin.
+The Penrose-Hameroff Orch OR theory proposes that psychedelic molecules bind to microtubules, potentially modulating quantum coherence (Hameroff, 2024). If consciousness participates in quantum collapse—as the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] proposes—psychedelics might affect that participation. Recent experimental signals are sometimes invoked: Kerskens and López Pérez (2022) report MRI signals consistent with quantum-entanglement-like behaviour in living human brains; Babcock et al. (2024) document ultraviolet superradiance in tryptophan mega-networks within tubulin.
 
 These results are contested rather than settled, and the standard [[decoherence]] objection remains live. The May 2026-05-11 calibration on the Map's quantum-biology coverage recategorised this region from "settled refutation" to "contested, possibility-level"; this article inherits that discipline. The Orch OR psychedelic hypothesis is a long-term mechanism-exploration target rather than a load-bearing component of the filter-theoretic case. The neuroimaging and phenomenology arguments stand or fall on their own terms.
 
@@ -173,7 +173,7 @@ These results are contested rather than settled, and the standard [[decoherence]
 9. Hameroff, S. (2024). Psychedelics, microtubules, and quantum consciousness. In *Consciousness and Quantum Mechanics*. Cambridge University Press.
 10. Huxley, A. (1954). *The Doors of Perception*. Chatto & Windus.
 11. Katz, S. T. (1978). Language, epistemology, and mysticism. In *Mysticism and Philosophical Analysis*. Oxford University Press.
-12. Kerskens, C. M. & Pérez López, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
+12. Kerskens, C. M. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
 13. Lebedev, A. V. et al. (2015). Finding the self by losing the self: Neural correlates of ego-dissolution under psilocybin. *Human Brain Mapping*, 36(8), 3137-3153.
 14. Letheby, C. & Gerrans, P. (2017). Self unbound: Ego dissolution in psychedelic experience. *Neuroscience of Consciousness*, 2017(1), nix016.
 15. Letheby, C. (2021). *Philosophy of Psychedelics*. Oxford University Press.

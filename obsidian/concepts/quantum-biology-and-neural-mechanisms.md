@@ -4,7 +4,7 @@ description: "Established quantum effects in living systems—photosynthesis, ma
 created: 2026-01-16
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-05-23T13:15:00+00:00
+ai_modified: 2026-06-03T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -143,7 +143,7 @@ Baum (2024) formalised this: zero-lag gamma synchrony (40-100 Hz, <1ms precision
 
 ## Experimental Convergence
 
-None of this proves quantum consciousness, and the discipline of "predictions held up" deserves care: microtubule involvement in anaesthesia is consistent with quantum models (Khan et al. 2024, Cohen's d = 1.9) but also accommodates classical microtubule-disruption accounts; measurable entanglement signatures during awareness were claimed (Kerskens & Pérez 2022) but disputed (Warren 2023) and not independently replicated. NV-centre diamond quantum sensors now combine nanoscale spatial with microsecond temporal resolution, enabling single-neuron signal detection that may resolve these disputes empirically. Wiest (2025) argues consciousness arising from quantum entanglement would gain genuine causal power—not [[concepts/epiphenomenalism|epiphenomenal]] but physically efficacious. The [[quantum-biology-and-neural-consciousness|convergence analysis]] examines how these independent lines may collectively shift the burden, while remaining honest that each line accommodates classical explanations.
+None of this proves quantum consciousness, and the discipline of "predictions held up" deserves care: microtubule involvement in anaesthesia is consistent with quantum models (Khan et al. 2024, Cohen's d = 1.9) but also accommodates classical microtubule-disruption accounts; measurable entanglement signatures during awareness were claimed (Kerskens & López Pérez 2022) but disputed (Warren 2023) and not independently replicated. NV-centre diamond quantum sensors now combine nanoscale spatial with microsecond temporal resolution, enabling single-neuron signal detection that may resolve these disputes empirically. Wiest (2025) argues consciousness arising from quantum entanglement would gain genuine causal power—not [[concepts/epiphenomenalism|epiphenomenal]] but physically efficacious. The [[quantum-biology-and-neural-consciousness|convergence analysis]] examines how these independent lines may collectively shift the burden, while remaining honest that each line accommodates classical explanations.
 
 ## The Illusionist Challenge
 
@@ -215,7 +215,7 @@ Quantum biology's relevance is primarily *defensive*: it removes a major objecti
 1. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 
 1. Kalra, A. P., et al. (2023). Anesthetic dampening of quantum optical effects in microtubules. *Anesthesiology*, 139(4), 468-479.
-1. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
+1. Kerskens, C. M. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 1. Mavromatos, N. E., et al. (2025). The quantum-classical complexity of consciousness and orchestrated objective reduction. *Frontiers in Human Neuroscience*, 2025, 1630906.
 1. Khan, S. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
 1. Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*, 147, 43934-43945.
