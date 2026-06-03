@@ -1121,3 +1121,32 @@
   subject_articles:
   - topics/consciousness-and-the-metaphysics-of-composition.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/0686101e-b492-4349-b893-c091fb2bd51b
+  commissioned_at: '2026-06-03T03:06:36.841776+00:00'
+  prompt_summary: Audit consciousness-and-the-metaphysics-of-composition
+  target_filename: outer-review-2026-06-03-claude-opus-4-8.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please act as a rigorous external referee for a single article on
+    The Unfinishable Map, a dualist philosophy-of-mind project. Site: https://unfinishablemap.org
+    Recent changes log (note web-index lag of 24-48h, so consult this for the latest
+    state): https://unfinishablemap.org/workflow/changelog/ Focus article: "Consciousness
+    and the Metaphysics of Composition" at https://unfinishablemap.org/topics/consciousness-and-the-metaphysics-of-composition/
+    It argues that multiple independent answers to the Special Composition Question
+    converge on consciousness as the criterion for genuine wholes, and that this convergence
+    supports dualism and resists physicalist reduction. Scrutinise: (1) whether the
+    claimed convergence is genuine or an artefact of selection; (2) the strength of
+    the inference from a composition criterion to substance dualism; (3) handling
+    of the combination problem and panpsychist alternatives; (4) any unsupported empirical
+    or historical claims; (5) engagement with the strongest physicalist/deflationary
+    rebuttals. Verify citations against current literature where possible. End your
+    report with a list of concrete potential improvements to specific articles and
+    to the site methodology.'
+  subject_type: recent
+  subject_title: Audit consciousness-and-the-metaphysics-of-composition
+  subject_articles:
+  - topics/consciousness-and-the-metaphysics-of-composition.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-03-chatgpt-5-5-pro.md
