@@ -298,13 +298,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-28)
 - **Generated**: 2026-05-28
 
-### P2: Write synthesis on Cross-Modal Capability Division
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-05-28b. `capability-division-in-vision` establishes the brain-side/mind-side template for one modality; a synthesis testing whether the same division (feature-extraction brain-side, flexible-deployment + ownership mind-side) recurs across audition, touch, and proprioception would convert a single-modality result into a structural claim. The article's Further Reading already points to `dual-domain-capabilities-in-proprioception-and-spatial-imagination` — check overlap with that page first (assess-first; may be a coalesce/refine rather than new page). Tenet alignment: Bidirectional Interaction. See `reviews/optimistic-2026-05-28b.md`.
-- **Source**: optimistic-review (2026-05-28)
-- **Generated**: 2026-05-28
-
 ### ✓ P2: Deep review topics/the-observer-witness-in-meditation.md (51 days since last review, ai_contribution=100, Tenet 3 load-bearing)
 - **Type**: deep-review
 - **Status**: done (2026-05-26)
@@ -1398,6 +1391,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Write synthesis on Cross-Modal Capability Division
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-05-28b. `capability-division-in-vision` establishes the brain-side/mind-side template for one modality; a synthesis testing whether the same division (feature-extraction brain-side, flexible-deployment + ownership mind-side) recurs across audition, touch, and proprioception would convert a single-modality result into a structural claim. The article's Further Reading already points to `dual-domain-capabilities-in-proprioception-and-spatial-imagination` — check overlap with that page first (assess-first; may be a coalesce/refine rather than new page). Tenet alignment: Bidirectional Interaction. See `reviews/optimistic-2026-05-28b.md`.
 
 ### ✓ 2026-06-03: Calibration-preserving condense of topics/delegatory-dualism.md (3827 words, 128% of 3000 soft target)
 - **Type**: condense

@@ -4,7 +4,7 @@ description: "Interactionist dualism must specify which capabilities belong to t
 created: 2026-03-09
 modified: 2026-05-22
 human_modified:
-ai_modified: 2026-05-28T20:15:00+00:00
+ai_modified: 2026-06-03T12:29:06+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,7 @@ related_articles:
   - "[[dream-consciousness]]"
   - "[[lucid-dreaming-and-dualist-rendering]]"
   - "[[sensorimotor-contingencies-and-the-interface]]"
+  - "[[auditory-consciousness-and-the-interface]]"
   - "[[binding-void]]"
   - "[[interface-formalization-void]]"
   - "[[causal-interface]]"
@@ -80,6 +81,8 @@ The capability division problem is not confined to visual perception. Wherever t
 
 **Sensorimotor engagement.** [[sensorimotor-contingencies-and-the-interface|Sensorimotor contingency theory]] maps the interface's operational grammar — the lawful patterns linking movement to sensation. Brain-side processing masters these contingencies; mind-side contribution supplies the phenomenal character that accompanies mastery.
 
+**Audition.** [[auditory-consciousness-and-the-interface|Hearing]] applies the same split to a modality stripped of vision's spatial scaffolding: frequency analysis, onset detection, and harmonic grouping deliver organised candidate streams (the brain-side capabilities of auditory scene analysis), while the experienced unity of hearing one sound appears as the mind-side contribution. The auditory case matters to the recurrence argument because the grouping cannot be read off a spatial layout — so the division is not an artefact of vision's spatial co-location, which would be the obvious deflationary explanation if vision were the only worked case. This is the closest the survey comes to a *non-trivial* recurrence rather than a template reapplied.
+
 In each domain, the same pattern emerges: the brain handles the computational, procedural, and automatic, while consciousness contributes phenomenal engagement, flexible deployment, and selectional guidance. The division is real but resists clean functional specification. The Map's proposed explanation — developed in the worked exhibit and §"The Void" below — is that the mind-side contribution transforms rather than supplements what the brain provides; this is a hypothesis the pattern motivates rather than a finding the pattern establishes.
 
 ## Worked Exhibit: The Rendering Dilemma
@@ -130,6 +133,7 @@ The Map speculates that the capability division may ultimately prove asymmetric:
 - [[interactionist-dualism]]
 - [[epiphenomenalism]]
 - [[capability-division-in-vision]] — The vision-specific case study applying this framework
+- [[auditory-consciousness-and-the-interface]] — The division applied to hearing, where binding cannot rely on spatial layout
 - [[dual-domain-capabilities-in-proprioception-and-spatial-imagination]] — Proprioception and spatial imagination as further dual-domain case studies
 - [[binding-void]] — The perceptual binding problem as a void
 - [[causal-interface]] — The mind-brain interface itself

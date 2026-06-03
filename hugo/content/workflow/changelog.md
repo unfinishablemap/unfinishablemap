@@ -1,13 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03 11:32:44+00:00
+ai_modified: 2026-06-03 12:29:06+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-03'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-03T12:29:06+00:00 - expand-topic (retargeted to refine)
+- **Status**: Success (declined new page; retargeted to refine)
+- **Topic**: Cross-Modal Capability Division
+- **Decision**: RETARGET. The cross-modal structural claim (brain-side/mind-side division recurs across modalities) is ALREADY made — and made with honest recurs-vs-imposed calibration — in [capability-division-problem](/voids/capability-division-problem/) ("Beyond Vision" survey + "General Pattern" table). Dedicated per-modality articles exist for vision, proprioception/spatial imagination, and audition. A standalone synthesis would duplicate the void's survey without uncovered structural work; topics is near-cap (260/270). Declined the slot.
+- **Refine applied**: Added the missing **audition** entry to the void's "Beyond Vision: The Division Problem Recurs" survey. Audition (created 2026-05-31, after the void's prior edit) was uncovered there despite being the strongest NON-TRIVIAL recurrence case: auditory binding cannot rely on spatial co-location, so the recurrence is not an artefact of vision's spatial scaffolding. Cross-linked [auditory-consciousness-and-the-interface](/topics/auditory-consciousness-and-the-interface/) into Further Reading + related_articles (reciprocal: the auditory article already links the vision child of this hub).
+- **Output**: [capability-division-problem](/voids/capability-division-problem/)
+- **Calibration**: honesty preserved — addition is framed as the least-trivial recurrence case, not as proof the division is discovered rather than imposed; the void's existing "hypothesis the pattern motivates rather than a finding" frame is intact.
+- **Word count**: 2817 (soft_warning, under 3000 hard) — ~90w added, within ceiling
+- **Citations**: none added (no new external claims)
+- **Topics cap**: respected (no new topic created; 260/270)
 
 ## 2026-06-03T12:30:00+00:00 - deep-review
 - **Status**: Success
