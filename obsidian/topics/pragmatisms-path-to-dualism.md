@@ -4,7 +4,7 @@ description: "Pragmatism—the philosophy that evaluates ideas by practical cons
 created: 2026-03-15
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-06-02T00:00:00+00:00
+ai_modified: 2026-06-03T07:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,6 +34,7 @@ related_articles:
   - "[[self-stultification-as-master-argument]]"
   - "[[topics/phenomenal-value-realism]]"
   - "[[consciousness-and-the-normativity-of-reason]]"
+  - "[[the-agent-shaped-hole]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -185,6 +186,7 @@ The pragmatic path to dualism is distinctive because it does not rely on intuiti
 - [[topics/phenomenal-value-realism]] — Value as constituted by conscious experience
 - [[consciousness-and-the-normativity-of-reason]] — Why the gap between causal and normative "because" requires conscious minds
 - [[evaluative-phenomenal-character]] — Demand-character as intrinsic to experience
+- [[the-agent-shaped-hole]] — The cross-cutting diagnostic this article instantiates: pragmatic evaluation needs an evaluator the materialist reading declines to supply, the same shape QBism and the activity ontology leave elsewhere
 
 ## References
 

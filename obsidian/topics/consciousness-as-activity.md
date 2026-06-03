@@ -4,7 +4,7 @@ description: "Recasting consciousness from a property the brain has to an activi
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-06-02T00:30:19+00:00
+ai_modified: 2026-06-03T07:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,6 +31,7 @@ related_articles:
   - "[[enactivism-challenge-to-interactionist-dualism]]"
   - "[[consciousness-and-agency]]"
   - "[[biological-teleology-and-the-interface-framework]]"
+  - "[[the-agent-shaped-hole]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -146,6 +147,7 @@ The activity framing strengthens the Map's framework at every point.
 - [[enactivism-challenge-to-interactionist-dualism]] — How enactivism challenges and ultimately reinforces the dualist insight
 - [[consciousness-and-agency]] — Apex synthesis connecting consciousness to agency through activity
 - [[hard-problem-of-consciousness]] — The puzzle the activity framing reframes
+- [[the-agent-shaped-hole]] — The cross-cutting diagnostic this article instantiates: the property framing leaves a performer-shaped hole, the same shape QBism and pragmatism leave elsewhere
 
 ## References
 

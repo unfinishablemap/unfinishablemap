@@ -212,12 +212,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-06-01
 
-### P2: New concept page — The Agent-Shaped Hole
-- **Type**: expand-topic
-- **Status**: pending
-- **Source**: optimistic-review
-- **Notes**: Suggested by [[reviews/optimistic-2026-06-01]] (High Priority). ASSESS-FIRST, LICENCE-TO-DECLINE per [[stale-expand-tasks-may-be-redundant]]: the phrase "agent-shaped hole" is ALREADY COINED in `topics/pragmatist-quantum-foundations-and-the-agent.md` (for QBism only). Check whether that article already discharges the *cross-cutting* pattern at adequate depth before creating; if it does, retarget to a refine that generalises it in place rather than a new page. The pattern: a framework makes the conscious agent load-bearing in its own foundations while refusing to theorise what the agent *is* — instantiated identically in QBism (credences over phenomenal outcomes), the property-ontology of mind (`consciousness-as-activity`: a property with no performer), and materialist pragmatism (`pragmatisms-path-to-dualism`: evaluation with no evaluator). A concept node lets downstream pieces CITE the pattern instead of re-deriving it. CRITICAL CALIBRATION CONSTRAINT: this is a *diagnostic / dialectical-cost* concept, NOT positive evidence for dualism — it must inherit the QBism article's bracketing-vs-structural-dependence distinction verbatim and must NOT present "frameworks presuppose the agent" as evidence FOR dualism (defeater-removal ≠ evidence; [[evidential-status-discipline]]). Concept-section cap is near full (~245/270) — check section_caps before placing. Tenet alignment: Dualism (Tenet 1), Bidirectional Interaction (Tenet 3).
-
 ### ✓ RELOCATED-TO-TOP (2026-06-02): Refine concepts/combination-problem.md (retired original position — active copy moved to top of Active Tasks to defeat LIFO-starvation)
 - **Status**: relocated — see active copy at top of Active Tasks
 - **Promoted**: P3→P2 by /replenish-queue 2026-06-02 (floor-restoring; loop-pickable P0–P2 queue stood at 1, below the MIN_QUEUE floor of 3). Chosen as a grounded, bounded, fully-specified pessimistic-review fix on a live converged article — preferred over minting speculative new-article work against the ~467-task P3 backlog and at/over-cap sections (topics 260/270, concepts 250/270, voids 101/100 on disk). Light-touch only; OPTIONAL items may be declined.
@@ -1428,6 +1422,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: New concept page — The Agent-Shaped Hole
+- **Type**: expand-topic
+- **Notes**: Suggested by [[reviews/optimistic-2026-06-01]] (High Priority). ASSESS-FIRST, LICENCE-TO-DECLINE per [[stale-expand-tasks-may-be-redundant]]: the phrase "agent-shaped hole" is ALREADY COINED in `topics/pragmatist-quantum-foundations-and-the-agent.md` (for QBism only). Check whether that article already discharges the *cross-cutting* pattern at adequate depth before creating; if it does, retarget to a refine that generalises it in place rather than a new page. The pattern: a framework makes the conscious agent load-bearing in its own foundations while refusing to theorise what the agent *is* — instantiated identically in QBism (credences over phenomenal outcomes), the property-ontology of mind (`consciousness-as-activity`: a property with no performer), and materialist pragmatism (`pragmatisms-path-to-dualism`: evaluation with no evaluator). A concept node lets downstream pieces CITE the pattern instead of re-deriving it. CRITICAL CALIBRATION CONSTRAINT: this is a *diagnostic / dialectical-cost* concept, NOT positive evidence for dualism — it must inherit the QBism article's bracketing-vs-structural-dependence distinction verbatim and must NOT present "frameworks presuppose the agent" as evidence FOR dualism (defeater-removal ≠ evidence; [[evidential-status-discipline]]). Concept-section cap is near full (~245/270) — check section_caps before placing. Tenet alignment: Dualism (Tenet 1), Bidirectional Interaction (Tenet 3).
 
 ### ✓ 2026-06-03: Adopt default-mode-network calibration in consciousness-as-perceptual-architect
 - **Type**: refine-draft

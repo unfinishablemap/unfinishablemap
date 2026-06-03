@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-06-02 00:00:00+00:00
+ai_modified: 2026-06-03 07:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -40,6 +40,7 @@ related_articles:
 - '[[self-stultification-as-master-argument]]'
 - '[[topics/phenomenal-value-realism]]'
 - '[[consciousness-and-the-normativity-of-reason]]'
+- '[[the-agent-shaped-hole]]'
 title: Pragmatism's Path to Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -188,6 +189,7 @@ The pragmatic path to dualism is distinctive because it does not rely on intuiti
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as constituted by conscious experience
 - [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/) — Why the gap between causal and normative "because" requires conscious minds
 - [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) — Demand-character as intrinsic to experience
+- [the-agent-shaped-hole](/concepts/the-agent-shaped-hole/) — The cross-cutting diagnostic this article instantiates: pragmatic evaluation needs an evaluator the materialist reading declines to supply, the same shape QBism and the activity ontology leave elsewhere
 
 ## References
 

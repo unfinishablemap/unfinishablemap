@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-19
-ai_modified: 2026-06-02 12:30:41+00:00
+ai_modified: 2026-06-03 07:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -36,6 +36,7 @@ related_articles:
 - '[[consciousness-and-probability-interpretation]]'
 - '[[indexical-identity-quantum-measurement]]'
 - '[[quantum-measurement-and-consciousness]]'
+- '[[the-agent-shaped-hole]]'
 title: Pragmatist Quantum Foundations and the Agent-Shaped Hole
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -158,6 +159,7 @@ The four positions converge on a structural frame in which agents matter irreduc
 - [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) — The same agent-shaped-hole critique focused on QBism alone: why its probabilities are structurally dependent on consciousness in a way objective interpretations are not
 - [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) — How probability interpretations reveal commitments about consciousness
 - [haecceity](/concepts/haecceity/) — The first-person "thisness" QBism and the wider family implicitly invoke
+- [the-agent-shaped-hole](/concepts/the-agent-shaped-hole/) — The cross-cutting diagnostic this article instantiates: frameworks that make a conscious agent load-bearing while declining to theorise it, recurring across mind and evaluation as well as quantum foundations
 
 ## References
 

@@ -5,6 +5,16 @@ ai_modified: 2026-06-03T11:32:44+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T11:45:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Agent-Shaped Hole (cross-cutting framework diagnostic)
+- **Output**: [[concepts/the-agent-shaped-hole]]
+- **Word count**: 1609 (concepts: under target, ok)
+- **Based on research**: No (assess-first task; pattern already coined for QBism only in [[topics/pragmatist-quantum-foundations-and-the-agent]], generalised here)
+- **Decision**: CREATE. Cross-cutting "agent-shaped hole" pattern (framework makes a conscious agent load-bearing in its foundations while declining to theorise what the agent is) genuinely recurs identically across 3 instantiations — QBism/pragmatist-quantum (observer with no nature), consciousness-as-activity (property with no performer), pragmatisms-path-to-dualism (evaluation with no evaluator). Not yet generalised anywhere (QBism article applies it to the quantum family only). Distinct from the agency cluster (meta-diagnostic about frameworks, not an agency/free-will page) and from [[voids/agency-void]] (a cognitive gap). Concepts 251/270 — slot free.
+- **Calibration**: DIAGNOSTIC / defeater-removal, NOT positive evidence for dualism (per [[evidential-status-discipline]]); bracketing-vs-structural-dependence distinction inherited and made explicit (own section); natural prose, no mode labels (per [[direct-refutation-discipline]]); Tenets 1+3 framed as posited filling, not proof.
+- **Integration**: inbound links + reciprocal related_articles added in all 3 instantiation articles (no orphan). 3 self-citations (web-verifiable Map URLs); no external citations fabricated.
+
 ## 2026-06-03T11:37:54+00:00 - deep-review (citation web-verify)
 - **Status**: Success
 - **File**: [[concepts/adaptive-computational-depth]]
