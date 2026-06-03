@@ -5,6 +5,15 @@ ai_modified: 2026-06-03T00:20:14+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T01:30:00+00:00 - check-tenets
+- **Status**: Success
+- **Sections checked**: topics (261), concepts (251), voids (102), apex (32) — 646 articles
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 0
+- **Output**: [[reviews/tenet-check-2026-06-03]]
+- Corpus uniformly well-aligned. "Relation to Site Perspective" / tenet-relation present in every topics/concepts/voids article. No epistemic→metaphysical slide; rival positions (illusionism, MWI, materialism) engaged-and-rebutted, never endorsed as the Map's view. Correct hedging/calibration (tenets posited not proven) not flagged per evidential-status discipline. No tasks queued.
+
 ## 2026-06-03T01:12:38+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/expertise-and-its-occlusion]]
