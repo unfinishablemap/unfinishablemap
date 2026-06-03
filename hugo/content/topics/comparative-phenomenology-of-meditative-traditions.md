@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-07
-ai_modified: 2026-05-27 14:06:47+00:00
+ai_modified: 2026-06-03 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -181,7 +181,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet gains 
 
 ### Occam's Razor Has Limits
 
-The divergence zones illustrate [Occam's Razor Has Limits](/tenets/#occams-limits). The "simplest" account of meditative experience—that it is cultural construction, placebo, or relaxation—cannot accommodate the pattern of convergence-with-divergence. The convergence requires explanation beyond cultural transmission; the divergence resists reduction to a single underlying state. Consciousness under contemplative investigation proves more complex than simple accounts predict.
+The divergence zones illustrate [Occam's Razor Has Limits](/tenets/#occams-limits). The "simplest" account of meditative experience—that it is cultural construction, placebo, or relaxation—cannot accommodate the pattern of convergence-with-divergence. The convergence requires explanation beyond cultural transmission; the divergence resists reduction to a single underlying state. Consciousness under contemplative investigation appears more complex than simple accounts predict.
 
 ## Further Reading
 

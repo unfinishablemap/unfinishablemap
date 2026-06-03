@@ -4,7 +4,7 @@ description: "Cross-traditional meditation reports converge on structural featur
 created: 2026-03-07
 modified: 2026-03-07
 human_modified:
-ai_modified: 2026-05-27T14:06:47+00:00
+ai_modified: 2026-06-03T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -178,7 +178,7 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet gains 
 
 ### Occam's Razor Has Limits
 
-The divergence zones illustrate [[tenets#^occams-limits|Occam's Razor Has Limits]]. The "simplest" account of meditative experience—that it is cultural construction, placebo, or relaxation—cannot accommodate the pattern of convergence-with-divergence. The convergence requires explanation beyond cultural transmission; the divergence resists reduction to a single underlying state. Consciousness under contemplative investigation proves more complex than simple accounts predict.
+The divergence zones illustrate [[tenets#^occams-limits|Occam's Razor Has Limits]]. The "simplest" account of meditative experience—that it is cultural construction, placebo, or relaxation—cannot accommodate the pattern of convergence-with-divergence. The convergence requires explanation beyond cultural transmission; the divergence resists reduction to a single underlying state. Consciousness under contemplative investigation appears more complex than simple accounts predict.
 
 ## Further Reading
 

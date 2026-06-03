@@ -9,6 +9,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/)
+- **Original score**: topic-concept anchoring audit (anchor [witness-consciousness](/concepts/witness-consciousness/)); 2 failed checks pre-edit — hedge_density 3.158/kw (<3.171 floor) and strong_assertion_count 1 (anchor 0)
+- **Changes**: Length-neutral single-swap calibration pass (narrow scope, voice preserved, central claim untouched). §Occam's Razor Has Limits: "Consciousness under contemplative investigation **proves** more complex" → "**appears** more complex". The "proves" asserted a contested claim as settled in the article's own voice; "appears" is a calibrated hedge. This single swap cleared strong_assertions 1→0 AND added the missing hedge — no second hedge needed. Post-edit profile: hedge_density 3.473/kw (11 hedges), strong_assertion_count 0. evaluate_anchoring returns [] (both flags cleared). No citations touched; no possibility→probability slippage; no mode labels.
+- **Published**: yes
+
 ## 2026-06-03T21:29:31+00:00 - refine-draft
 - **Status**: Success
 - **File**: [completeness-in-physics-under-dualism](/topics/completeness-in-physics-under-dualism/)
