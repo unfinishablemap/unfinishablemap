@@ -465,14 +465,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-04-15
 
-### P2: Deep review whether-real.md
-- **Type**: deep-review
-- **Status**: obsolete
-- **Notes**: Superseded by 2026-04-23 coalesce — `whether-real.md` is now archived (merged into `meta-epistemology-of-limits.md`). Content review has migrated to the deep-review history of `meta-epistemology-of-limits.md` (most recent: 2026-04-21).
-- **Source**: staleness
-- **Generated**: 2026-04-06
-- **Completed**: 2026-04-23
-
 ### ✓ RELOCATED 2026-06-02: Deep review intrinsic-nature-void.md
 - **Status**: relocated — promoted P3→P2 and moved to the top of Active Tasks during /replenish-queue 2026-06-02 (floor-restoring) to defeat the line-number LIFO starvation that left it stranded ~line 1408 in the P3 backlog. See the live P2 task at the top of Active Tasks.
 - **Type**: deep-review
@@ -1143,6 +1135,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Deep review whether-real.md
+- **Type**: deep-review
+- **Notes**: Superseded by 2026-04-23 coalesce — `whether-real.md` is now archived (merged into `meta-epistemology-of-limits.md`). Content review has migrated to the deep-review history of `meta-epistemology-of-limits.md` (most recent: 2026-04-21).
 
 ### ✓ 2026-06-03: Create concept page for involuntary concession
 - **Type**: expand-topic
