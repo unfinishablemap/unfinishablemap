@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02T23:20:03+00:00
+ai_modified: 2026-06-02T23:58:44+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-02T23:58:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/brain-internal-born-rule-testing]]
+- **Word count (body)**: 3643 → 3645 (+2; length-neutral, 122% of 3000 soft, 355 under hard 4000)
+- **Critical issues addressed**: 3 citation errors fixed — (1) niaf011 misattribution "Babcock, N., Hameroff, S., et al. (2025)" → **Wiest, M. C. (2025)** (web-verified sole author, Wellesley; famous-domain-name substitution; sibling open-question-ai-consciousness was already correct, needs no fix); (2) Schlosshauer "Quantum decoherence" venue "*Physics Reports* 1063: 1–64 (2025)" → **831: 1–57 (2019)** (web-verified ADS/sciepub; body "2004, 2025" → "2004, 2019"; no fabricated quote present); (3) Kerskens 2nd author "Pérez, D. L." → **López Pérez, D.** (Spanish compound surname, web-verified IOPscience, reconciled with objections-to-interactionism). Plus minor: Sorkin endpage 3128 → **3127** (ADS).
+- **Citation could not be verified (flagged)**: Han (2016) ref 5 "Phys Lett A 380:3578-3580" NOT confirmable; the Han no-signaling/Born-rule result IS real (Han & Choi, Sci Rep 6:22986, 2016 / arXiv:1208.2814). Left metadata untouched per never-invent-complete; recommend human confirm-or-repoint.
+- **Citations web-verified clean (10)**: Torres Alegre 2025 arXiv:2512.12636 (E.O. confirmed, not reverted), Maier-Dechamps-Pflitsch 2018 Front Psychol 9:379, Tegmark 2000 PRE 61:4194, Schlosshauer 2004 RMP 76:1267, Arana 2025 PhilArchive ARATCQ-2, Bösch-Steinkamp-Boller 2006 Psych Bull 132:497, Donadi 2021 Nat Phys 17:74, Sinha 2010 Science 329:418, Masanes-Galley-Müller 2019 Nat Comm 10:1361, Sorkin 1994 (page fixed).
+- **Calibration check**: PASS. No possibility/probability slippage; corridor-as-working-hypothesis, empirical-superfluity criterion, preprint flags, PEAR-bounded-toward-null all preserved (citation fixes were metadata-only).
+- **Engagement modes (editor-internal)**: Stapp Mode One (literal-Zeno non-Born-compliant on QM's own terms); Orch-OR/Tegmark Mode Three (dispute boundary-marked); MWI Mode Three (Tenet 4 foundational, disclosed). No label leakage.
+- **Cross-article follow-on flagged**: born-rule-and-the-consciousness-interface.md still carries uncorrected "Kerskens, C. M. & Pérez, D. L." (ref 20 + body) — recommend propagating the López Pérez fix there.
+- **Output**: [[reviews/deep-review-2026-06-02-brain-internal-born-rule-testing]]
 
 ## 2026-06-02T23:50:46+00:00 - deep-review
 - **Status**: Success
