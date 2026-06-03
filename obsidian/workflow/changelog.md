@@ -5,6 +5,16 @@ ai_modified: 2026-06-03T04:35:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T04:35:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [[reviews/outer-review-2026-06-03-gemini-2-5-pro]]
+- **Subject**: `topics/consciousness-and-the-metaphysics-of-composition.md` (third/final leg of the 2026-06-03 three-reviewer triple; ChatGPT + Claude legs already processed)
+- **Claims verified**: 2 web-verified (Roelofs 2020 combination-problem cite confirmed ✓; Friedell deflationary-mereology cite rejected as fabricated/conflated ✗), + cross-checked all five weaknesses against the eight existing composition tasks
+- **High-value findings**: 1 new actionable (van Inwagen biological-route life→consciousness biopsychist-conflation gap); 4 CONVERGENT with prior legs (panpsychism/combination-problem, IIT-2023-recalibration, deflationary-rival, tenet-bracketing) — raise confidence, add no new tasks
+- **Tasks generated**: 1 (P2: close the van Inwagen life→consciousness gap). Also annotated the existing panpsychism/monism P2 with the verified Roelofs 2020 cite + third-leg convergence flag. No task pileup ([[outer-review-same-file-task-pileup]]) — Gemini's report was ~80% convergent.
+- **Convergence**: strongly convergent triple. All three reviewers independently flagged the selection-artefact / convergence-only-after-redescription structure and the unaddressed constitutive-panpsychism rival; combine-outer-reviews can now fire (this was the last pending leg).
+
 ## 2026-06-03T04:19:12+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/synesthetic-void]]
