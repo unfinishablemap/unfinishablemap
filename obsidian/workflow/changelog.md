@@ -5,6 +5,15 @@ ai_modified: 2026-06-03T00:20:14+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T01:36:00+00:00 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: current /loop session (2026-06-02→03) vs prior daily reports
+- **Findings**: 1 cadence (tune-system firing ~daily not monthly), 0 failure, queue healthy (replenish-at-floor steady state), citation-defect review pattern, corpus converged
+- **Tier 1 changes**: 0 applied (findings are Tier-2/3; daily-trigger would oscillate settings)
+- **Tier 2 recommendations**: 2 (mandatory web-verify for recent/specialist cites — HIGHEST VALUE, 3 citation-family resolutions + ~30 defects as evidence; encode citation-family-resolution workflow)
+- **Tier 3 items**: 5 (scorer frontmatter-token over-count; citation-lint pre-filters; stale progress fields + voids cap; tune-system daily-vs-monthly firing; deep-review SKILL.md edit for web-verify)
+- **Output**: [[reviews/system-tune-2026-06-03]]
+
 ## 2026-06-03T01:30:00+00:00 - check-tenets
 - **Status**: Success
 - **Sections checked**: topics (261), concepts (251), voids (102), apex (32) — 646 articles
