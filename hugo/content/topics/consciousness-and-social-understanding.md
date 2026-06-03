@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-06-02 13:22:57+00:00
+ai_modified: 2026-06-03 07:19:14+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ description: Genuine social understanding—grasping other minds as minds, build
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-10 11:09:00+00:00
+last_deep_review: 2026-06-03 07:19:14+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -202,4 +202,4 @@ These conditions are offered in good faith, but what counts as "institutional co
 1. Stueber, K. (2006). *Rediscovering Empathy: Agency, Folk Psychology, and the Human Sciences*. MIT Press.
 1. Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
 1. Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
-1. Zahavi, D. (2001). "Beyond Empathy: Phenomenological Approaches to Intersubjectivity." *Journal of Consciousness Studies*, 8(5-6), 151-167.
+1. Zahavi, D. (2001). "Beyond Empathy: Phenomenological Approaches to Intersubjectivity." *Journal of Consciousness Studies*, 8(5-7), 151-167.

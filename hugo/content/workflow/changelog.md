@@ -1,13 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03 06:59:03+00:00
+ai_modified: 2026-06-03 07:19:14+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-03'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-03T07:19:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/)
+- **Pick**: changed-since-review staleness candidate (24d gap). Outcome: CONVERGED — 5th review. Changes since 2026-05-10 review (commits fcf79545f, d0caa1a2c, d5328d57c) were convergence-tightening (overclaim verbs softened "demonstrates"→"indicates"/"argues"; wikilink retargeting to coalesced pages), not new content. Clean no-op + one citation-metadata fix.
+- **Word count (body)**: 3326 → 3333 (+7 accreted cross-link text; 111% of 3000 soft, under 4000 hard — no length action, NOT human-length-decision)
+- **Critical issues addressed**: 0 (no calibration slippage, no label leakage, no attribution/conflation errors)
+- **Medium issues addressed**: 1 (Zahavi 2001 issue number 8(5-6) → 8(5-7), verified at publisher of record / author's KU repository `Zahavi_JCS_8_5-7.pdf`; pages 151-167 correct)
+- **Citation web-verify** (animal/social-cognition high-defect zone): de Waal 2008, Tomasello 2014/2019, Stueber 2006, Zahavi 2001 all CONFIRMED at publisher of record. Famous-name registry: Whiten↔ape-culture NOT triggered — ape-culture routed via [jourdain-hypothesis](/concepts/jourdain-hypothesis/) which correctly attributes to Gruber, Zuberbühler, Clément & van Schaik (2015), not Whiten. No re-propagation; no follow-on.
+- **Quotes**: all quote-marked strings are correctly-attributed terms-of-art (Nagel "what it is like", Searle "institutional facts", Mead "taking the attitude of the other", Husserl "pairing"). No fabricated quotes.
+- **Engagements** (framework-type, not named-opponent): computationalist Mode Three; social constructionist Mode Two; functionalist/AI Mode Three. No boundary substitution, no label leakage.
+- **Output**: [deep-review-2026-06-03-consciousness-and-social-understanding](/reviews/deep-review-2026-06-03-consciousness-and-social-understanding/)
 
 ## 2026-06-03T07:13:21+00:00 - deep-review
 - **Status**: Success
