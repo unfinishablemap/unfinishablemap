@@ -9,6 +9,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/consciousness-and-the-metaphysics-of-composition.md`, `topics/qm-interpretations-beyond-many-worlds.md` (two most-recently-modified topic articles)
+- **Findings**: One web-verified citation-author defect (Beni: "Vincent" → "Majid D.", *Phil. Quarterly* 75(2) 2025). All other post-2020 load-bearing cites verified clean (Bird 2023, Khan et al. 2024, Adlam & Rovelli 2023, Lewis 2024). No new substantive prose tasks — both articles adversarially-hardened, recently deep-reviewed, and existing substantive gaps already queued or held by standing HUMAN LENGTH DECISION.
+- **Tasks generated**: P2 refine-draft (Beni citation fix)
+- **Output**: [pessimistic-2026-06-03-composition-qm](/reviews/pessimistic-2026-06-03-composition-qm/)
+
 ## 2026-06-03T06:06:49+00:00 - refine-draft
 - **Status**: Success
 - **File**: [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/)

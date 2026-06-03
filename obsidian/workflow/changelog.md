@@ -5,6 +5,12 @@ ai_modified: 2026-06-03T06:06:49+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T06:15:33+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-metaphysics-of-composition]]
+- **Changes**: Mechanical citation-author fix (pessimistic-review 2026-06-03, web-verified vs Oxford Academic academic.oup.com/pq/article/75/2/396 + PhilPapers BENCTC-7). Corrected given name on the 2025 *Phil. Quarterly* thermodynamic-depth paper at two loci: body (line 89, "Vincent Beni" → "Majid D. Beni") and reference 21 (line 171, "Beni, V. (2025)" → "Beni, M. D. (2025)"). Title/venue/volume/year/article-id all already correct. Name-only swap, no prose changes. Wrong form confirmed isolated to this article (no propagation); the correctly-cited Beni 2021 Synthese Markovian-monism reference in the predictive-processing files is the same author for a different paper and was left untouched. Body 3995→3997w (+2 from "Vincent"→"Majid D." at two loci), under 4000 hard ceiling.
+- **Published**: yes
+
 ## 2026-06-03 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/consciousness-and-the-metaphysics-of-composition.md`, `topics/qm-interpretations-beyond-many-worlds.md` (two most-recently-modified topic articles)
