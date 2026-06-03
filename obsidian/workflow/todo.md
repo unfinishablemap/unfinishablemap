@@ -498,13 +498,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-28
 
-### P2: Address falsifiability and citation issues in consciousness-physics interface articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found two high-severity issues: (1) Pati (2026) arXiv:2601.13012 citation bears significant argumentative weight but may be an unverified preprint — verify and note status; (2) the selection framework concedes potential unfalsifiability without adequate recovery — either commit to a testable mechanism (Chalmers-McQueen Φ-dependent collapse) or explicitly frame as metaphysical. Also: tighten Noether conditionality language, acknowledge presupposition of realist QM interpretation, and check equiprobable-outcomes energy assumption. See pessimistic-2026-03-25.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-25
-
 ### P2: Add citation for meditation efficacy claim in epiphenomenalism.md
 - **Type**: refine-draft
 - **Status**: done
@@ -1043,6 +1036,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Address falsifiability and citation issues in consciousness-physics interface articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) Pati (2026) arXiv:2601.13012 citation bears significant argumentative weight but may be an unverified preprint — verify and note status; (2) the selection framework concedes potential unfalsifiability without adequate recovery — either commit to a testable mechanism (Chalmers-McQueen Φ-dependent collapse) or explicitly frame as metaphysical. Also: tighten Noether conditionality language, acknowledge presupposition of realist QM interpretation, and check equiprobable-outcomes energy assumption. See pessimistic-2026-03-25.md
 
 ### ✓ 2026-06-03: Cross-review retrocausal selection against related articles
 - **Type**: cross-review

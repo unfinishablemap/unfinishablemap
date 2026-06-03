@@ -5,6 +5,16 @@ ai_modified: 2026-06-03T21:45:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T18:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/conservation-laws-and-mental-causation]]
+- **Word count**: 2915 → 3110 (+195; concepts soft_warning, under 3500 hard, ~390w headroom)
+- **Issue addressed**: pessimistic-2026-03-25 residual — the equiprobable-outcomes ENERGY assumption (L95 "each with probability 1/3 and identical energy" stipulated identical energy). Added one paragraph generalising the identical-energy illustration to the non-degenerate (different energy-eigenvalue) case: honestly CONCEDES that a single trial biased toward a higher-energy outcome differs in energy from its counterfactual, then locates conservation at the ENSEMBLE level — selection-only coupling holds Born weights fixed (existing Torres Alegre 2025 move), preserving Σ pᵢEᵢ; conservation is statistical/local (existing Pitts 2020), tested at the ensemble not the single trial. Compatibility-grade, not overclaimed ("narrows the claim rather than defeating it"). No new citations (reused Torres Alegre 2025, Pitts 2020).
+- **Noether check (L65–69)**: already in the neutralising register ("conservation arguments cannot resolve the debate"; symmetric dialectic explicitly stated). No overstatement into a positive "conservation supports dualism" argument — left as-is.
+- **Pati citation**: untouched (pre-verified REAL+CORRECT per task note; existing "not yet peer-reviewed" framing correct).
+- **Anchoring**: 2 PRE-EXISTING flags (vs mental-causation-and-downward-causation, explanatory-gap: strong_assertions / hedge_density / underdetermination_markers) — identical before & after this edit (strong_assertion_count=5 both states); my edit was net hedge-positive (4.46→4.50/kw) and added an explicit concession, so it improves not worsens calibration. NOT caused by this refine; flagged for a possible follow-on calibration pass (chasing them here risks over-hedging load-bearing claims).
+- **Published**: yes (draft norms preserved)
+
 ## 2026-06-03T21:59:13+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/evolutionary-case-for-quantum-neural-effects]]

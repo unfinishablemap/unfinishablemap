@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-06-03 15:40:00+00:00
+ai_modified: 2026-06-03 18:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -96,6 +96,8 @@ Standard physics leaves this unspecified — the [measurement-problem](/concepts
 The "selection not injection" framework proposes: consciousness selects among quantum-permitted outcomes without adding energy. All possible outcomes are already present in the wavefunction with their associated energies. When consciousness biases which outcome actualises, it doesn't inject anything new — it determines which of the pre-existing possibilities becomes real.
 
 Consider three superposed neural states A, B, and C, each with probability 1/3 and identical energy. If consciousness biases the outcome toward A, total energy is unchanged — only the identity of the actual outcome differs from what pure chance would produce. No new term in the Dirac equation is required because no new energy or force is introduced. This is precisely why mental causation satisfies [observational-closure](/concepts/observational-closure/): the influence is real but produces no empirically detectable deviation from quantum predictions. The [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) codifies this as the fifth of five mathematical constraints any coupling map must respect: conservation law compatibility. The [causal consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025) supplies the structural reason the Born-statistical bound binds in the first place — under purification, no-signalling forces the Born form for any participant in measurement outcomes, so selection-only coupling preserves both Born statistics and ensemble-level energy conservation by the same derivational move.
+
+The identical-energy case is the simplest illustration, not the general one. In realistic neural systems the superposed states need not be energy eigenstates of the same eigenvalue: outcomes A, B, and C may carry *different* energies, and biasing toward a higher-energy outcome will, on that single trial, yield more energy than the counterfactual chance outcome would have. This residual should be conceded plainly rather than dissolved by stipulation. What the selection framework preserves is not trial-by-trial energy equality but the *ensemble* energy expectation Σ pᵢEᵢ: selection-only coupling holds the Born weights fixed (the Torres Alegre move above), so the Born-weighted distribution of outcomes — and hence its mean energy — is exactly what unbiased quantum mechanics predicts. Conservation, on the article's own reading, is a statistical and local law (Pitts 2020), tested at the ensemble level rather than the single trial. A non-degenerate single-trial energy difference from the counterfactual therefore leaves the empirically tested conservation law intact, because that law was never a claim about the energy of one realised outcome versus its unrealised twin. The concession is real and the locus of conservation is precise; the objection narrows the claim rather than defeating it.
 
 This framework presupposes that only one quantum outcome becomes actual — a position the Map defends through its [rejection of Many-Worlds](/tenets/#no-many-worlds) (Tenet 4). Under the Many-Worlds interpretation, every outcome occurs in a parallel branch and there is nothing to select.
 
