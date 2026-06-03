@@ -498,14 +498,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-28
 
-### P2: Cross-review retrocausal selection against related articles
-- **Type**: cross-review
-- **Status**: superseded
-- **Notes**: New concept page concepts/retrocausal-selection created. Review against retrocausality, consciousness-selecting-neural-patterns, non-retrocausal-conscious-selection-models, time-symmetric-selection-mechanism, collapse-and-time, and libet-experiments for consistency and add inbound links from related articles.
-- **Source**: task_chain
-- **Generated**: 2026-03-25
-- **Superseded**: 2026-03-25 — retrocausal-selection.md was archived (coalesced into atemporal-causation.md). Replaced by P2 cross-review of atemporal-causation.md above.
-
 ### P2: Address falsifiability and citation issues in consciousness-physics interface articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -1051,6 +1043,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Cross-review retrocausal selection against related articles
+- **Type**: cross-review
+- **Notes**: New concept page concepts/retrocausal-selection created. Review against retrocausality, consciousness-selecting-neural-patterns, non-retrocausal-conscious-selection-models, time-symmetric-selection-mechanism, collapse-and-time, and libet-experiments for consistency and add inbound links from related articles.
 
 ### ✓ 2026-06-03: Adopt consciousness-physics-interface-formalism calibration in brain-internal-born-rule-testing
 - **Type**: refine-draft
