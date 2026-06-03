@@ -9,6 +9,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T21:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/)
+- **Word count**: 2211 → 2211 (no change; converged citation-verify no-op)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: all 6 named empirical cites VERIFIED clean against publisher of record — COGITATE Nature 642(8066) 133-142 (DOI 10.1038/s41586-025-08888-1, n=256); biophotons iScience Casey et al. S2589-0042(25)00279-2; split-brain Santander PNAS 122(43) e2520190122; Keppler ZPF Front.Hum.Neurosci. fnhum.2025.1676585; Milinkovic&Aru NBR 181 106524; Bodien NEJM 391(7) 598-608
+- **Cross-article resolution**: confirmed Claassen J IS a Bodien-2024 NEJM co-author (PubMed 39141852) → prior review's deferred "Bodien, Claassen et al." sibling-attribution question resolved (correct, not an error)
+- **Calibration**: clean — compatibility-grade throughout, no possibility→probability slippage, no vindication-grade overreach
+- **Convergence**: 5th review; content converged since 2026-05-29 primary-source pass; bumped last_deep_review only (no ai_modified bump per converged-no-op discipline)
+- **Output**: [deep-review-2026-06-03-experimental-consciousness-science-2025-2026](/reviews/deep-review-2026-06-03-experimental-consciousness-science-2025-2026/)
+
 ## 2026-06-03T21:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [geometric-model-of-mind](/concepts/geometric-model-of-mind/)
