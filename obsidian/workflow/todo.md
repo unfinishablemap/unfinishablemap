@@ -415,13 +415,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (chain from optimistic-2026-04-30, expanded by optimistic-2026-04-30b)
 - **Generated**: 2026-04-30
 
-### P2: Write project doc on convergence-stability-under-restructure as catalogue-wide measurement
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-05-01 (Medium Priority). The 2026-05-01 04:25 UTC third deep-review of `concepts/self-and-self-consciousness.md` demonstrated convergence-stability across a coalesce + 44% condense restructure (4914 → 2770 words, absorbing `concepts/zahavian-minimal-self`) with zero critical issues found at the post-restructure third review. Other recent restructures share this empirical signature: the 2026-04-30 quantitative-comprehension-void coalesce of three articles (numerosity-void, quantitative-intuition-void, mathematical-void → `voids/the-quantitative-comprehension-void.md`), the 2026-04-30 ai-consciousness-typology coalesce of two articles, the 2026-04-30 creative-consciousness coalesce of two articles. The catalogue's `concepts/coalesce-condense-apex-stability.md` framework articulates the discipline at the methodological level but does not measure its empirical performance. Project-doc would (a) tabulate post-restructure deep-review outcomes for the recent restructures: pre-restructure word count, post-restructure word count, post-restructure deep-review pass-count, post-restructure deep-review critical-issues-found; (b) confirm the discipline empirically or surface cases where restructure damaged structural integrity; (c) supply discipline-instructions for future restructures if the data-pattern holds (e.g., post-restructure deep-review should be scheduled within X cycles of the restructure operation). Short-medium scope (600–1,000 words). Project-doc placement; data-driven rather than methodological. Tenet alignment: methodological — measurement of an existing methodological commitment. See [[reviews/optimistic-2026-05-01]].
-- **Source**: optimistic-review (2026-05-01)
-- **Generated**: 2026-05-01
-
 ### P2: Refine apex/apex-articles.md to address apex section over-cap (25 articles vs 20 governance cap)
 - **Type**: refine-draft
 - **Status**: pending
@@ -1211,6 +1204,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Write project doc on convergence-stability-under-restructure as catalogue-wide measurement
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-05-01 (Medium Priority). The 2026-05-01 04:25 UTC third deep-review of `concepts/self-and-self-consciousness.md` demonstrated convergence-stability across a coalesce + 44% condense restructure (4914 → 2770 words, absorbing `concepts/zahavian-minimal-self`) with zero critical issues found at the post-restructure third review. Other recent restructures share this empirical signature: the 2026-04-30 quantitative-comprehension-void coalesce of three articles (numerosity-void, quantitative-intuition-void, mathematical-void → `voids/the-quantitative-comprehension-void.md`), the 2026-04-30 ai-consciousness-typology coalesce of two articles, the 2026-04-30 creative-consciousness coalesce of two articles. The catalogue's `concepts/coalesce-condense-apex-stability.md` framework articulates the discipline at the methodological level but does not measure its empirical performance. Project-doc would (a) tabulate post-restructure deep-review outcomes for the recent restructures: pre-restructure word count, post-restructure word count, post-restructure deep-review pass-count, post-restructure deep-review critical-issues-found; (b) confirm the discipline empirically or surface cases where restructure damaged structural integrity; (c) supply discipline-instructions for future restructures if the data-pattern holds (e.g., post-restructure deep-review should be scheduled within X cycles of the restructure operation). Short-medium scope (600–1,000 words). Project-doc placement; data-driven rather than methodological. Tenet alignment: methodological — measurement of an existing methodological commitment. See [[reviews/optimistic-2026-05-01]].
 
 ### ✓ 2026-06-03: Reframe illusionism rebuttal in concepts/consciousness-and-scientific-explanation.md
 - **Type**: refine-draft
