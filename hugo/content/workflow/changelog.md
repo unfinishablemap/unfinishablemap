@@ -1,13 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03 09:50:00+00:00
+ai_modified: 2026-06-03 11:32:44+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-03'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-03T11:32:44+00:00 - refine-draft (anchoring-audit calibration)
+- **Status**: Success
+- **File**: [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/)
+- **Task**: P2 topic-concept anchoring-audit, anchor [default-mode-network](/concepts/default-mode-network/) (high-hedge anchor, 8.699/kw). Re-ran `evaluate_anchoring` live — SINGLE anchor, 2 failed checks (`hedge_density`, `underdetermination_markers`). strong_assertions NOT flagged (topic 1, anchor 1 — within bounds); left untouched.
+- **Before**: word_count 2772, hedge_count 14 (density 5.051 < 60%-threshold 5.219), underdetermination_marker_count 0, strong_assertion_count 1.
+- **After**: word_count 2842 (+70w, well under 3000 soft / 4000 hard), hedge_count 15 (density 5.278 ≥ 5.219), underdetermination_marker_count 1, strong_assertion_count 1 (unchanged). evaluate_anchoring returns None — both checks clear.
+- **Changes** (2 surgical additions, central perceptual-architect thesis preserved):
+  1. HEDGE (14→15): in-place word-swap on a defeasible posited claim — "outruns what computational description captures" → "appears to outrun what computational description captures" (opening framing of the Map's thesis; "appears" is a warranted hedge on a posited, not demonstrated, inference per [evidential-status-discipline](/project/evidential-status-discipline/)). Not hedge-stuffing — cleared the 60% floor by a hair, did not chase the anchor's 8.70/kw.
+  2. UNDERDETERMINATION (0→1): added a marker at the architect-thesis inference point (close of "Constancy and Learning as Complementary Architecture") — "underdetermined by the data, since the predictive-processing findings are compatible with it but do not force it over a consciousness-free predictive-coding account." Frames the architect reading as one candidate construal among several; preserves the conclusion that the Map advances it as the more illuminating one.
+- **Published**: yes
 
 ## 2026-06-03T11:24:05+00:00 - refine-draft (anchoring-audit calibration)
 - **Status**: Success

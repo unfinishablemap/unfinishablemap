@@ -4,7 +4,7 @@ description: "Consciousness actively shapes perception in two ways: stabilising 
 created: 2026-02-15
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-05-27T19:43:27+00:00
+ai_modified: 2026-06-03T11:32:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -52,7 +52,7 @@ coalesced_from:
 
 Consciousness does not passively receive perception — it architects it. Two complementary phenomena reveal this active role. Perceptual constancy stabilises experience despite radical sensory flux: a white wall looks white under candlelight, fluorescent tubes, and noon sun, though the wavelengths reaching the eye differ enormously. Perceptual learning transforms experience through training: the sommelier tastes minerality where the casual drinker tastes wine, the radiologist sees tumours where the untrained eye sees grey noise. Together, these phenomena demonstrate that consciousness both holds the world steady and restructures what arrives at awareness — roles that resist reduction to computational processing.
 
-The Unfinishable Map argues that both constancy and learning reveal consciousness as something more than a passive recipient of neural outputs. The stability of perceived colour across illumination changes cannot be found in the physical signal itself. The trained radiologist's tumour-perception cannot be explained as mere conceptual overlay on unchanged sensation. In each case, the phenomenal character of experience — what it is *like* to perceive — outruns what computational description captures.
+The Unfinishable Map argues that both constancy and learning reveal consciousness as something more than a passive recipient of neural outputs. The stability of perceived colour across illumination changes cannot be found in the physical signal itself. The trained radiologist's tumour-perception cannot be explained as mere conceptual overlay on unchanged sensation. In each case, the phenomenal character of experience — what it is *like* to perceive — appears to outrun what computational description captures.
 
 ## Perceptual Constancy: Holding the World Steady
 
@@ -132,7 +132,7 @@ Constancy and learning appear opposed — one stabilises, the other transforms �
 
 Both depend on attention. Constancy can be disrupted through attentional redirection (the painter's squint). Learning requires sustained attentional engagement to proceed. Both involve consciousness selecting among available perceptual options — constancy selecting the distal over the proximal, learning selecting previously undetected structure over undifferentiated noise.
 
-And both face the same explanatory gap. Predictive processing frameworks describe the neural mechanics of constancy and learning with impressive precision. They explain *that* the generative model maintains stable priors (constancy) or updates them through training (learning). They do not explain why stable priors feel like seeing a white wall, or why updated models feel like tasting minerality. The phenomenological core — the creation and maintenance of genuinely qualitative experience — remains unexplained by computational description alone.
+And both face the same explanatory gap. Predictive processing frameworks describe the neural mechanics of constancy and learning with impressive precision. They explain *that* the generative model maintains stable priors (constancy) or updates them through training (learning). They do not explain why stable priors feel like seeing a white wall, or why updated models feel like tasting minerality. The phenomenological core — the creation and maintenance of genuinely qualitative experience — remains unexplained by computational description alone. The perceptual-architect reading is, in the end, one candidate interpretation among several: it is underdetermined by the data, since the predictive-processing findings are compatible with it but do not force it over a consciousness-free predictive-coding account that treats the same priors and updates as fully brain-side. The Map advances the architect reading as the more illuminating construal of the gap, not as the only construal the evidence permits.
 
 ## Relation to Site Perspective
 

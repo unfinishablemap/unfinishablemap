@@ -38,17 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt witness-consciousness calibration in quantum-holism-and-phenomenal-unity
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/quantum-holism-and-phenomenal-unity.md
-- **Notes**: From topic-concept anchoring audit 2026-06-03. The topic article over-claims relative to its anchor concept [witness-consciousness](/concepts/witness-consciousness/); failed checks: hedge_density, strong_assertions.
-  - hedge density 3.05/kw is below 60% of anchor (5.29/kw)
-  - topic uses 1 strong-assertion verbs where anchor uses none
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-03
-
 ### P2: Adopt default-mode-network calibration in consciousness-as-perceptual-architect
 - **Type**: refine-draft
 - **Status**: pending
@@ -59,7 +48,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-03
-
 
 ### ✓ P2: Deep-review topics/epistemology-of-convergence-arguments.md (18-day gap; assess condense-eligibility, do NOT blind-condense)
 - **Type**: deep-review
@@ -1452,6 +1440,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Adopt witness-consciousness calibration in quantum-holism-and-phenomenal-unity
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-03. The topic article over-claims relative to its anchor concept [witness-consciousness](/concepts/witness-consciousness/); failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-06-03: New concept page — The De-Combination Problem / Open Individualism
 - **Type**: expand-topic
