@@ -22,7 +22,7 @@ description: 'Two modes of consciousness: active selection through attention and
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-15 16:01:00+00:00
+last_deep_review: 2026-06-03 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
