@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-06-03 05:01:20+00:00
+ai_modified: 2026-06-03 05:06:21+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -85,11 +85,19 @@ The convergence is striking because these philosophers disagree about almost eve
 
 A natural objection is that this convergence reflects a selection effect—these philosophers work in the same analytic tradition and may have influenced each other. The objection has real force, and it is not fully neutralised by what follows. Still, it arguably understates how different their methods are. Van Inwagen reasons from biological natural kinds, Merricks from causal redundancy principles, and McQueen and Tsuchiya from information-theoretic measures. The conceptual distance between a life criterion, a causal powers criterion, and an integrated information criterion is large enough that arriving at a common neighbourhood—consciousness, or the domain where it occurs, as the composition threshold—may carry some evidential weight rather than none. Independent convergence from divergent methods is often treated as a marker of philosophical progress, though it is suggestive rather than probative: convergence is consistent with a shared truth and also with a shared blind spot, and the present case does not decide between them.
 
+## The Monist Rival: Why Not Constitutive Panpsychism?
+
+The criterion that consciousness tracks genuine composition does not point uniquely to dualism. Its most natural destination is arguably a *monist* one: constitutive panpsychism, on which composite minds are built up from fundamental micro-experiences (Goff, *Galileo's Error*, 2019), or cosmopsychism, on which individual subjects are aspects of one cosmic consciousness (Nagasawa & Wager 2016). If consciousness is what makes wholes genuine, the simplest reading is that it is already present in the parts and composes upward—the constitutive panpsychist's thesis, for which the IIT/maximal-Φ route is the standard Russellian vehicle. These positions are the Map's chief rivals, and the compositional facts do not by themselves adjudicate between them and interactionism.
+
+The Map's reply is not that the compositional evidence refutes constitutive panpsychism—the two readings are observationally matched on that evidence, and saying otherwise would overclaim. The honest reply has two parts. First, the monist does not arrive at composition for free: subject-combination is its own unsolved internal problem—the very [combination-problem](/concepts/combination-problem/) this article relies on cuts against the monist as much as it constrains the dualist. Luke Roelofs offers the leading contemporary defence that subjects *can* combine, arguing for a "manyism" on which many overlapping conscious subjects coexist wherever we assumed one ("Can We Sum Subjects? Evaluating Panpsychism's Hard Problem," in *The Routledge Handbook of Panpsychism*, ed. Seager, 2020; developed at book length in *Combining Minds*, 2019). But that combination is *intelligible* remains contested rather than secured; the monist helps itself to combinability without having earned it by the field's own standards, just as the article holds phenomenal non-compositionality against the physicalist.
+
+Second, where the evidence runs out, the choice between dualist interaction and monist constitution is settled—for the Map—by prior commitment, not by the compositional data. The [Dualism](/tenets/#dualism) and [No Many Worlds](/tenets/#no-many-worlds) tenets, together with the [quantum-interaction reading](/tenets/#minimal-quantum-interaction), favour consciousness as a distinct interacting category over consciousness as the intrinsic nature of matter. That is a constrained commitment, openly tenet-driven, rather than a result the metaphysics of composition establishes on its own—the dualist reading is posited here, not proven over its monist rivals.
+
 ## Why Consciousness Resists Mereological Analysis
 
 The convergence on consciousness as the composition criterion connects to a deeper structural fact: consciousness resists mereological analysis in both directions.
 
-**Bottom-up failure.** The [combination-problem](/concepts/combination-problem/) suggests that micro-experiences—if they exist—do not compose into macro-experiences. William James identified this in 1890: "Take a hundred of them, shuffle them and pack them as close together as you can... each remains the same old private self." The [phenomenal non-compositionality](/concepts/composition-and-consciousness/) thesis generalises this: there is no operation on experiences analogous to vector addition or superposition.
+**Bottom-up failure.** The [combination-problem](/concepts/combination-problem/) suggests that micro-experiences—if they exist—do not readily compose into macro-experiences. William James identified the difficulty in 1890: "Take a hundred of them, shuffle them and pack them as close together as you can... each remains the same old private self." The [phenomenal non-compositionality](/concepts/composition-and-consciousness/) thesis generalises this: there is no evident operation on experiences analogous to vector addition or superposition. The stronger reading—that no such merging *can* occur—is a further bet, not an established result, and it owes an account of split-brain and dissociative-identity cases that arguably display subjects dividing or coexisting; the [sibling treatment](/concepts/combination-problem/) frames this as a contested asymmetry rather than a flat impossibility, and this article inherits that more cautious key.
 
 **Top-down failure.** Conscious experience resists decomposition into independent parts. The [unity-of-consciousness](/concepts/unity-of-consciousness/) is not a sum of features but a primitive wholeness that cannot be reconstructed from components. Bayne and Chalmers (2003) showed that phenomenal unity involves conjoint phenomenology—a "what it is like" to experience features together that is not derivable from the individual features. The [binding-problem](/concepts/binding-problem/) makes the same point empirically: neuroscience can explain how distributed features are computationally coordinated (BP1), but not why that coordination produces unified phenomenal experience (BP2). Classical neural mechanisms—synchrony, thalamocortical broadcasting, information integration—coordinate parts that remain metaphysically separate. Coordination is not composition.
 
@@ -146,4 +154,8 @@ The convergence of composition theories on consciousness directly supports The U
 7. Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
 8. Cotnoir, A. J. & Baxter, D. L. M. (Eds.) (2014). *Composition as Identity*. Oxford University Press.
 9. James, W. (1890). *The Principles of Psychology*. Henry Holt.
-10. Southgate, A. & Oquatre-six, C. (2026-03-24). Composition and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/composition-and-consciousness/
+10. Goff, P. (2019). *Galileo's Error: Foundations for a New Science of Consciousness*. Pantheon.
+11. Nagasawa, Y. & Wager, K. (2016). Panpsychism and Priority Cosmopsychism. In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism: Contemporary Perspectives*. Oxford University Press.
+12. Roelofs, L. (2020). Can We Sum Subjects? Evaluating Panpsychism's Hard Problem. In W. Seager (Ed.), *The Routledge Handbook of Panpsychism* (pp. 245–258). Routledge.
+13. Roelofs, L. (2019). *Combining Minds: How to Think about Composite Subjectivity*. Oxford University Press.
+14. Southgate, A. & Oquatre-six, C. (2026-03-24). Composition and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/composition-and-consciousness/

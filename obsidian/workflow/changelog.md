@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03T04:50:28+00:00
+ai_modified: 2026-06-03T05:06:21+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-03T05:06:21+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-metaphysics-of-composition]]
+- **Word count**: 2671 → 3155 (+484; under topics 4000 hard, soft_warning; left headroom for 3 pending composition P1 tasks)
+- **Task**: Add the constitutive-panpsychism/cosmopsychism (monist rival) rebuttal the article lacked — outer-review 2026-06-03, 2/3 convergent (Claude "gravest structural problem" + Gemini #1 weakness; upgraded P1). The consciousness-tracks-composition criterion most naturally yields constitutive panpsychism/cosmopsychism (monist rivals to dualism), which the article neither acknowledged nor properly rebutted.
+- **Web-verify (living-author, high-risk per ai_citation_metadata_unreliable)**: Roelofs cite CONFIRMED — Luke Roelofs (UT Arlington), "Can We Sum Subjects? Evaluating Panpsychism's Hard Problem," in *The Routledge Handbook of Panpsychism*, ed. Seager (2020), pp. 245–258; book-length defence *Combining Minds* (OUP 2019). His actual position VERIFIED as DEFENDING subject-combination via "manyism" (many overlapping subjects coexist where we assumed one) — NOT inverted. Goff *Galileo's Error* (2019) and Nagasawa & Wager (2016, Panpsychism: Contemporary Perspectives) added for the constitutive-panpsychist/cosmopsychist positions.
+- **Engagement classification (editor-internal, per direct-refutation-discipline)**: engagement with the constitutive panpsychist/cosmopsychist — **Mixed (Mode Two + Mode Three)**. Mode Two (unsupported foundational move): the monist helps itself to subject-combinability without earning it by the field's own standards — the combination problem is panpsychism's own unsolved internal problem; Roelofs's manyism is the leading but contested defence, not a secured result. Mode Three (framework-boundary marking): where the evidence runs out, the dualism-vs-monism choice is openly tenet-driven (Dualism + No-MWI + quantum-interaction reading), a constrained commitment, NOT a result the compositional facts establish. Honoured evidential-status-discipline: explicitly states the two readings are observationally matched and the dualist reading is posited, not proven. No mode labels in article body; no refutation claimed.
+- **Changes**:
+  - New "## The Monist Rival: Why Not Constitutive Panpsychism?" section after "## The Convergence" — concedes the criterion most naturally yields monism, then the two-part honest reply (unsupported-move + tenet-boundary).
+  - Softened the bottom-up-failure paragraph (line ~89) to match the sibling [[combination-problem]] article's more cautious key: "do not readily compose," "no evident operation," and an explicit note that the stronger no-merging-CAN-occur reading is a further bet owing split-brain/DID an account — so the focus article's anti-panpsychist move is no longer stronger than its own sibling allows.
+  - Added 4 references (Goff 2019, Nagasawa & Wager 2016, Roelofs 2020, Roelofs 2019).
+- **Coordination note**: deliberately kept the broader convergence-framing recast to the separate pending P1 task; this pass is the panpsychism-specific rival rebuttal only. No double-write of monism material.
+- **Published**: yes
 
 ## 2026-06-03T05:01:20+00:00 - refine-draft
 - **Status**: Success
