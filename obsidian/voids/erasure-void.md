@@ -4,8 +4,8 @@ description: "Consciousness cannot inventory its own deletions. When cognitive c
 created: 2026-04-20
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-05-19T11:04:33+00:00
-last_deep_review: 2026-04-27T09:58:00+00:00
+ai_modified: 2026-06-03T02:49:48+00:00
+last_deep_review: 2026-06-03T02:49:48+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -49,7 +49,7 @@ This asymmetry is structural rather than accidental. To notice that something is
 
 The starkest demonstration of the erasure void comes from clinical anosognosia—the syndrome in which patients with neurological damage sincerely deny their own deficits. A patient with right-hemisphere damage who cannot move the left side of the body may claim to be uninjured. A patient with cortical blindness may report seeing. The denial is not psychological evasion but cognitive: the monitoring system for the lost function has been damaged in the same lesion that caused the loss.
 
-Brie Gertler, examining anosognosia for its philosophical implications, concludes that clinical evidence "reveals that human consciousness has a much more fragmentary character than normally attributed to it." The Cartesian picture of a unified self transparent to itself does not survive contact with these cases. Self-monitoring turns out to be a specific function performed by neural infrastructure that can be selectively destroyed, rather than an inherent feature of being conscious.
+Brie Gertler, examining anosognosia for its philosophical implications, engages the claim that clinical evidence shows "human consciousness has a much more fragmentary character than the one we normally attribute to it." The Cartesian picture of a unified self transparent to itself does not survive contact with these cases. Self-monitoring turns out to be a specific function performed by neural infrastructure that can be selectively destroyed, rather than an inherent feature of being conscious.
 
 Research on Alzheimer's disease distinguishes three forms of metacognitive failure that map onto distinct stages of the void's operation:
 
@@ -126,8 +126,8 @@ The deeper consequence is for personal identity. If significant cognitive capaci
 ## References
 
 1. Gertler, B. (2003). Anosognosia and the Unity of Consciousness. *Philosophical Studies*, 117(1-2), 117-142.
-2. Mazzi, C., et al. (2024). When visual metacognition fails: widespread anosognosia for visual deficits. *Trends in Cognitive Sciences*, 28(11).
-3. Mograbi, D. C., & Morris, R. G. (2018). Examination of the metacognitive errors that contribute to anosognosia in Alzheimer's disease. *Cortex*, 88, 24-37.
+2. Michel, M., Gao, Y., Mazor, M., Kletenik, I., & Rahnev, D. (2024). When visual metacognition fails: widespread anosognosia for visual deficits. *Trends in Cognitive Sciences*, 28(12), 1066-1077.
+3. Morris, R. G., & Mograbi, D. C. (2013). Anosognosia, autobiographical memory and self knowledge in Alzheimer's disease. *Cortex*, 49(6), 1553-1565.
 4. Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121-1134.
 5. Wu, K., & Dunning, D. (2018). Hypocognition: Making sense of the landscape beyond one's conceptual reach. *Review of General Psychology*, 22(1), 25-35.
 6. Bernecker, S., & Michaelian, K. Epistemological Problems of Memory. *Stanford Encyclopedia of Philosophy*.

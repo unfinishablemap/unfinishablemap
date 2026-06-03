@@ -5,6 +5,19 @@ ai_modified: 2026-06-03T01:50:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T02:49:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/erasure-void]]
+- **Word count**: 2160 → 2169 (+9; full author byline added; net-neutral, under 3000 hard)
+- **Selection**: queued (LARGE 22d review-gap; prior touches mechanical). Value axis = citation web-verify + void calibration.
+- **Critical issues addressed**: 3 — (1) Ref #2 misattribution: "Mazzi et al. 2024 TiCS 28(11)" → actual **Michel, Gao, Mazor, Kletenik & Rahnev (2024) TiCS 28(12):1066-1077** (PubMed 39353838); first author Michel not Mazzi. (2) Ref #3 misattribution+metadata: "Mograbi & Morris (2018) Cortex 88:24-37" — that exact title is **Cosentino et al. (2016) Cortex 84:101-110** (PubMed 27750070), every field wrong; replaced with the genuine three-mode-taxonomy source **Morris & Mograbi (2013) Cortex 49(6):1553-1565** (CAM; PubMed 23117055). (3) Gertler quote inexact + stance overstated ("concludes") → exact wording restored + "engages the claim that" (she defends moderate unity, not strong fragmentation).
+- **Citations verified correct (no change)**: Wu & Dunning (2018) RGP 22(1):25-35 ✓; **Kruger & Dunning (1999) JPSP 77(6):1121-1134 — author ORDER correct (Kruger first)** ✓; Gertler title/venue ✓. No verbatim Nietzsche/Ricoeur quotes in body (reference-list only; no fabrication risk).
+- **Cross-article follow-on flagged (NOT edited)**: `voids/self-opacity.md` reportedly cites Kruger-Dunning REVERSED ("Dunning & Kruger") — colloquial-name-order trap; needs an author-order fix. Queue follow-on.
+- **Calibration**: PASS — void stays posited-not-proven; anosognosia/DK/hypocognition evidence supports void STRUCTURE only; no epistemic→metaphysical slide; dualist passage hedged ("does not prove dualism").
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral; at soft warning)
+- **Output**: [[reviews/deep-review-2026-06-03-erasure-void]]
+
 ## 2026-06-03T02:44:01+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/type-token-causation]]
