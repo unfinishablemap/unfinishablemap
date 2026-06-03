@@ -458,13 +458,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-04-16
 
-### P2: Address phenomenology's methodological circularity concern in phenomenology.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-04-15c) found medium-severity issue: the article presents phenomenology's first-person irreducibility claim as a finding, but it is partly built into the methodology — the epoché brackets third-person approaches, then discovers what remains can't be captured by third-person approaches. The strongest cited response (Peng and Hagar 2025) is a single opinion piece. Add a sentence acknowledging critics see the irreducibility claim as question-begging, then explain why phenomenologists disagree. See pessimistic-2026-04-15c.md Issue 3.
-- **Source**: chain (from pessimistic-2026-04-15c)
-- **Generated**: 2026-04-16
-
 ### P2: Address concession-convergence overreach in functionalism.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1171,6 +1164,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Address phenomenology's methodological circularity concern in phenomenology.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-15c) found medium-severity issue: the article presents phenomenology's first-person irreducibility claim as a finding, but it is partly built into the methodology — the epoché brackets third-person approaches, then discovers what remains can't be captured by third-person approaches. The strongest cited response (Peng and Hagar 2025) is a single opinion piece. Add a sentence acknowledging critics see the irreducibility claim as question-begging, then explain why phenomenologists disagree. See pessimistic-2026-04-15c.md Issue 3.
 
 ### ✓ 2026-06-03: Cross-review necessary-opacity.md and predictive-processing-and-dualism.md considering predictive-construction-void insights
 - **Type**: cross-review
