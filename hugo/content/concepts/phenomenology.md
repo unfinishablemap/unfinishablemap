@@ -35,7 +35,7 @@ description: The philosophical method of investigating consciousness through sys
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-13 22:22:00+00:00
+last_deep_review: 2026-06-03 19:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

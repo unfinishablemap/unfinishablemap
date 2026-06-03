@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T20:05:00+00:00 - deep-review
+- **Status**: Success (converged — no changes)
+- **File**: [phenomenology](/concepts/phenomenology/)
+- **Word count**: 2521 → 2521 (no change; soft_warning, length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Long-converged after three deep reviews (2026-01-20, 2026-03-20, 2026-05-13). Only change since the 2026-05-13 convergence was a mechanical Tenet-5 anchor fix ([tenets](/tenets/#occam) → ^occams-limits, commit eb234a5bc) — no substantive body change. Citation web-verify: the one recent/specialist citation, Peng & Hagar (2025) "Why Cognitive Science Needs Phenomenology" (Journal for the Theory of Social Behaviour, DOI 10.1111/jtsb.70016), verified — title verbatim, journal, year, DOI all correct; article's "empirically widespread intuitive dualism / first-person experience as data" framing faithful to source. All other citations canonical, verified in prior review, unchanged. No LLM-cliché re-emergence (grepped "isn't…it's…", "this is not…it is…"; line 53 semicolon-contrast and the "not X but Y" single-sentence forms are style-compliant, not the banned two-sentence construct). No possibility/probability slippage in the MQI/No-MWI paragraphs (both explicitly tenet-coherence-framed with open-question hedges). Named-opponent engagements (Frankish/illusionism Mode One+Three; Dennett/heterophenomenology Mode One) unchanged, no label leakage. Per deep_review_over_reviews_converged: no ai_modified / last_deep_review bump.
+- **Output**: no review file (converged, no edits)
+
 ## 2026-06-03T19:31:30+00:00 - refine-draft
 - **Status**: Success
 - **File**: [meaning-of-life](/topics/meaning-of-life/)
