@@ -4,7 +4,7 @@ description: "How cultural frameworks shape the felt experience of authorship an
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-05-31T00:00:00+00:00
+ai_modified: 2026-06-03T01:40:01+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -51,7 +51,7 @@ Agency is not experienced the same way everywhere. Western philosophical traditi
 
 Eastern traditions often structure the experience differently. In Daoism, the highest form of agency is *wu wei*: action that arises without effortful willing, where the agent and the act are not experientially separated (Slingerland, 2003). The Daoist sage does not experience the deliberation-decision-ownership sequence that Western phenomenology takes as paradigmatic. In [[eastern-philosophy-consciousness|Advaita Vedānta]], the witnessing self (*sākṣin*) observes action without claiming authorship — agency belongs to *prakṛti* (nature), while consciousness watches. Buddhist traditions dissolve the agent further: actions arise from causes and conditions without a permanent self who authors them, yet moral responsibility persists at the conventional level — wholesome and unwholesome intentions condition future experience through karma, even without an ultimate agent who bears the responsibility.
 
-These are not merely philosophical positions. They shape how practitioners actually experience their own actions (Thompson, 2007). [[contemplative-practice-as-philosophical-evidence|Contemplative traditions]] train specific modes of agency experience — meditators report shifts from effortful willing toward a more receptive, witnessing relationship with their own behaviour. Cross-cultural psychology confirms the variation: studies of agency attribution (Markus & Kitayama, 1991) show that individualist cultures emphasise personal control and internal locus of agency, while collectivist cultures distribute agency across relationships, social roles, and situational contexts.
+These are not merely philosophical positions. They shape how practitioners actually experience their own actions (Thompson, 2007). [[contemplative-practice-as-philosophical-evidence|Contemplative traditions]] train specific modes of agency experience — meditators report shifts from effortful willing toward a more receptive, witnessing relationship with their own behaviour. Cross-cultural psychology documents the variation: studies of agency attribution (Markus & Kitayama, 1991) find that individualist cultures tend to emphasise personal control and internal locus of agency, while collectivist cultures tend to distribute agency across relationships, social roles, and situational contexts.
 
 ## Invariants Beneath the Variation
 

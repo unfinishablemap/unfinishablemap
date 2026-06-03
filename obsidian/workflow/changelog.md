@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03T00:20:14+00:00
+ai_modified: 2026-06-03T01:40:01+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-03T01:40:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/cross-cultural-phenomenology-of-agency]]
+- **Trigger**: Topic-concept anchoring-audit calibration flag (anchor [[witness-consciousness]]; failed_checks = hedge_density, strong_assertions)
+- **Changes**: Softened strong-assertion verbs at the Markus & Kitayama (1991) cross-cultural-psychology claim to match what correlational findings license — "confirms the variation" → "documents the variation"; "show that individualist cultures emphasise" → "find that individualist cultures tend to emphasise"; added "tend to" to the parallel collectivist clause. Inherits the anchor's evidential-status discipline (correlational findings stated as correlational). Body scan found no other over-asserting verbs.
+- **Result**: strong_assertion_count 1 → 0; flag cleared (evaluate_anchoring returns []). No hedges added (strong-assertion axis clear alone drops the flag below the ≥2/3 threshold). hedge_count 7 (density 2.91/kw, unchanged).
+- **Length**: 2403w → 2407w (net-neutral verb swaps; soft 3000 / hard 4000, ok)
+- **Published**: yes (kept draft status)
 
 ## 2026-06-03T01:36:00+00:00 - tune-system
 - **Status**: Success
