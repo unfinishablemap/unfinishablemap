@@ -5,6 +5,19 @@ ai_modified: 2026-06-03T00:20:14+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T00:50:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/overdetermination-dissolution-under-selection-only-interactionism]]
+- **Selection**: GENUINE own-content change since last_deep_review 2026-05-14 — the 2026-05-26 refine "Adopt mental-causation-and-downward-causation calibration" (commit 5ee3796b2). Reviewed the adopted calibration for coherence + web-verified all citations at publisher.
+- **Word count (body)**: 2787 → 2791 (+4; 93% of topics 3000 soft, under hard; net-neutral, calibration preserved verbatim)
+- **Critical issues addressed**: 1 — citation author-list error. Ref 7 (Han, srep22986) listed sole-author "Han, Y.-D." but the paper is two-author: verified at Nature + arXiv 1307.2026 as **Han, Y. D. & Choi, T. (2016)**. Fixed (added Choi). Title/venue (*Sci Rep* 6:22986) were already correct.
+- **CROSS-ARTICLE FINDING (NOT edited per scope — needs follow-on)**: sibling `brain-internal-born-rule-testing.md` Ref 5 cites this SAME result with WRONG venue (*Physics Letters A* 380:3578–3580), WRONG title ("On the Born rule and the no-signalling theorem"), AND missing Choi. Should be `Han, Y. D., & Choi, T. (2016). Quantum probability assignment limited by relativistic causality. Scientific Reports, 6, 22986.` Queue a refine-draft for brain-internal.
+- **Citations verified (CONFIRM-DON'T-REVERT, all CLEAN, left as-is)**: Saad 2025 Phil Studies 182(3):939–967 (delegatory stance + "default causal profile" qualifier faithful); Schaffer 2000 J Phil 97(4):165–181 (trumping/sergeant-major faithful); Yablo 1992 Phil Review 101(2):245–280 (proportionality faithful); Maier/Dechamps/Pflitsch 2018 Front. Psychol. 9:379 (PMC5872141 URL + evidence-against-micro-PK finding verified); Kim 2005/1998 (4-premise exclusion framing represents Kim faithfully). No fabricated metadata.
+- **Calibration-preservation check**: PASS. The 2026-05-26 refine moved EVERY claim in the weakening/hedging direction (no over-strengthening): added the line-45 underdetermination/conditional paragraph; "is specifically false" → "may fail" (line 62); added "Removing a defeater is not the same as upgrading the evidence" (line 106); "would be adding" → "would seem to be adding" (line 108). All 5 load-bearing calibration statements intact + coherent. Article remains a model of evidential-status discipline; possibility-probability slippage explicitly named and avoided. No epistemic→metaphysical slide.
+- **Reasoning-mode (editor-internal)**: Kim — Mode One (refine tightened it to earned scope); Yablo — Mode One; hidden-variables/MWI final caveat — Mode Three; Saad/Schaffer — sibling positions, no opponent mode. No label leakage.
+- **Critical issues addressed (count)**: 1 | **Medium**: 0 | **Enhancements**: 0 (converged; calibration refine already did the substantive work — no-op on structural argument is the correct outcome)
+- **Output**: [[reviews/deep-review-2026-06-03-overdetermination-dissolution-under-selection-only-interactionism]]
+
 ## 2026-06-03T00:42:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/microphenomenological-interview-method]]
