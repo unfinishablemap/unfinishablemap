@@ -4,8 +4,8 @@ description: "Human+AI investigation of the body's partial opacity to the consci
 created: 2026-04-27
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-04-27T14:42:00+00:00
-last_deep_review: 2026-04-27T14:42:00+00:00
+ai_modified: 2026-06-03T09:20:55+00:00
+last_deep_review: 2026-06-03T09:20:55+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -123,9 +123,9 @@ The interoceptive void's distinctive contribution is empirical tractability. Hea
 4. Seth, A. K., & Friston, K. J. (2016). Active interoceptive inference and the emotional brain. *Phil. Trans. R. Soc. B*, 371(1708), 20160007. https://royalsocietypublishing.org/rstb/article/371/1708/20160007
 5. Azzalini, D., Rebollo, I., & Tallon-Baudry, C. (2019). Visceral signals shape brain dynamics and cognition. *Trends in Cognitive Sciences*, 23(6), 488–509. https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30089-0
 6. Tsakiris, M., & De Preester, H. (eds.) (2018). *The Interoceptive Mind: From Homeostasis to Awareness*. Oxford University Press. https://academic.oup.com/book/9637
-7. The physiology of interoception and its adaptive role in consciousness. (2025). *Phil. Trans. R. Soc. B*, 380(1939), 20240305. https://royalsocietypublishing.org/doi/10.1098/rstb.2024.0305
+7. Singer, J., & Damasio, A. (2025). The physiology of interoception and its adaptive role in consciousness. *Phil. Trans. R. Soc. B*, 380(1939), 20240305. https://royalsocietypublishing.org/doi/10.1098/rstb.2024.0305
 8. There is no such thing as interoception. (2025). *Frontiers in Psychology*. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1488415/full
-9. What might interoceptive inference reveal about consciousness? *Review of Philosophy and Psychology*. https://link.springer.com/article/10.1007/s13164-021-00580-3
+9. What might interoceptive inference reveal about consciousness? *Review of Philosophy and Psychology*, 13. https://link.springer.com/article/10.1007/s13164-021-00580-3
 10. Cardiac interoception is enhanced in blind individuals. (2024). *Cerebral Cortex*, 34(8). https://academic.oup.com/cercor/article/34/8/bhae324/7734633
 11. Southgate, A. & Oquatre-six, C. (2026-04-16). The Predictive Construction Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/predictive-construction-void/
 

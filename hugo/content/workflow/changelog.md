@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T09:20:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [interoceptive-void](/voids/interoceptive-void/)
+- **Word count**: 2554 → 2560 body (+6; author-name added to ref #7; 128% of soft, under 3000 hard ceiling)
+- **Critical issues addressed**: 0 (none — 2nd-pass converged review; calibration exemplary, no slippage, no label leakage)
+- **Medium issues addressed**: 2 (reference completeness: added verified authors Singer & Damasio to ref #7, volume 13 to ref #9)
+- **Citations**: 8/8 web-verified at publisher of record (Garfinkel 2015, Damasio 2023, Azzalini 2019, Seth/Friston 2016, Singer/Damasio PTRSB 2025, "There is no such thing as interoception" 2025, blind/Cerebral Cortex 2024, RoPP interoceptive-inference). No defects. Verbatim PTRSB quote confirmed exact.
+- **Engagements**: materialist account — Mode Three (boundary-marking, honest); Damasio inverse reading — Mode Three; Friston-camp re Bidirectional Interaction — Mode Three. No boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-06-03-interoceptive-void](/reviews/deep-review-2026-06-03-interoceptive-void/)
+
 ## 2026-06-03T09:15:25+00:00 - deep-review
 - **Status**: Success
 - **File**: [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)
