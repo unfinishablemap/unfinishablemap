@@ -4,7 +4,7 @@ description: "If the Map is right, the mind-matter interface is not merely hard 
 created: 2026-05-25
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-05-27T15:45:00+00:00
+ai_modified: 2026-06-03T00:00:00+00:00
 last_deep_review: 2026-05-25T22:38:07+00:00
 draft: false
 topics:
@@ -28,6 +28,7 @@ related_articles:
   - "[[apex/altered-states-as-interface-evidence]]"
   - "[[memory-system-vulnerability-hierarchies-as-interface-evidence]]"
   - "[[recovery-order-asymmetry-as-interface-evidence]]"
+  - "[[direction-of-interface-change]]"
   - "[[brain-internal-born-rule-testing]]"
   - "[[forward-in-time-conscious-selection]]"
   - "[[selection-criterion-problem]]"
@@ -103,7 +104,7 @@ If the architecture is right about itself, the falsification programme has been 
 
 **Graded channel failure.** The memory hierarchy is the worked exhibit: fixed-order degradation under partial blockade. The ordering is a seam datum because no single measurement of intact memory reveals it—only the sequence of failures does. The seam has a second, sharper face: recovery does *not* simply retrace degradation in reverse. [[recovery-order-asymmetry-as-interface-evidence|Recovery-order asymmetry]] makes the *direction* of interface change load-bearing—the autonoetic channel returns last under rising substrate function (anaesthesia emergence) and first under falling substrate function (terminal lucidity), a divergence a substrate-symmetric production account does not predict from a single direction-blind vulnerability profile, though one willing to add direction-specific mechanisms per case can absorb it. The signature *constrains* production rather than *establishing* the filter reading.
 
-**Direction-of-interface-change.** A signature family that the graded-failure seam contains but does not exhaust. Hysteresis of state transition (induction and emergence thresholds differ), recovery-order reversal across mechanisms, abrupt dissociative reconnection versus gradual onset, and direction-decoupled emergence timing all share the property that no substrate-state-at-a-time description captures them—each demands an explanation sensitive to which way the system is moving. This is the temporal-derivative face of the same architecture the vulnerability hierarchy reads off the substrate-state face, and it is a seam class because the signature is visible only in the asymmetry between two directions, never in either state alone.
+**Direction-of-interface-change.** A [[direction-of-interface-change|signature family]] that the graded-failure seam contains but does not exhaust. Hysteresis of state transition (induction and emergence thresholds differ), recovery-order reversal across mechanisms, abrupt dissociative reconnection versus gradual onset, and direction-decoupled emergence timing all share the property that no substrate-state-at-a-time description captures them—each demands an explanation sensitive to which way the system is moving. The four are not four independent confirmations—they share one upstream architecture, so the [[common-cause-null|common-cause null]] applies in full and the concept node credits them as one view, not four. This is the temporal-derivative face of the same architecture the vulnerability hierarchy reads off the substrate-state face, and it is a seam class because the signature is visible only in the asymmetry between two directions, never in either state alone.
 
 **Patient-population divergence.** [[apex/pharmacological-dissociation-as-evidence|Pharmacological dissociation]] and the neurological and clinical dissociation literatures supply contrasts—same target / opposite outcome, different targets / convergent outcome, same behaviour / different mechanism / different phenomenology—that a normal population averages away. The divergence between populations whose introspective architecture *differs* is load-bearing precisely because it cannot be running through shared neurotypical machinery, which is the structural defence the [[common-cause-null|common-cause null]] demands.
 

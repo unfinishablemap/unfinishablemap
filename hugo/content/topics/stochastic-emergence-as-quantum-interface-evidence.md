@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-05-27 12:30:00+00:00
+ai_modified: 2026-06-03 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -130,6 +130,7 @@ The Map's working position is that emergence-time stochasticity is a genuine and
 - [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — The decoherence debate and the microtubule-substrate question this finding's quantum reading depends on
 - [evidential-status-discipline](/project/evidential-status-discipline/) — The compatibility-vs-support and constrain-vs-establish disciplines governing this treatment
 - [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/) — Where this finding sits in the tenet-by-tenet falsification framework
+- [direction-of-interface-change](/concepts/direction-of-interface-change/) — The signature family this finding's direction-decoupled-timing member belongs to
 
 ## References
 

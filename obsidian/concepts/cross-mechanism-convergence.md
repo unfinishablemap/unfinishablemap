@@ -4,7 +4,7 @@ description: "When mechanism-distinct perturbations produce the same downstream 
 created: 2026-05-19
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-27T12:30:00+00:00
+ai_modified: 2026-06-03T00:00:00+00:00
 last_deep_review: 2026-05-19T09:40:36+00:00
 draft: false
 topics:
@@ -19,6 +19,7 @@ related_articles:
   - "[[pharmacological-dissociation-as-evidence]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
   - "[[discrimination-problem]]"
+  - "[[direction-of-interface-change]]"
   - "[[project/common-cause-null]]"
   - "[[project/coherence-inflation-countermeasures]]"
   - "[[project/calibration-audit-triple]]"
@@ -107,6 +108,7 @@ Indirectly, the pattern serves the Map's central commitment to a structured cons
 - [[project/common-cause-null]] — Sister discipline at the convergence-evaluation grain: convergence-without-substance is the failure mode this discipline guards against
 - [[project/coherence-inflation-countermeasures]] — System-level inflation-resistance the discipline contributes to
 - [[project/calibration-audit-triple]] — Corpus-level audit family that operationalises the convergence-evaluation discipline; altered-state symmetry (Audit Two) is the cross-article enforcement against the convergence-by-accident failure mode this pattern names
+- [[direction-of-interface-change]] — A narrower, orthogonal signature family within this genus: where convergence concerns mechanism-distinct perturbations sharing a downstream ordering, the direction-of-change family concerns the temporal asymmetry of that ordering
 - [[discrimination-problem]] — The structural-asymmetry result at the consciousness-epistemology grain; cross-mechanism convergence is one move that can sometimes break the underdetermination the discrimination problem names
 - [[anaesthesia-and-the-consciousness-interface]] — The empirical anchor article where the pattern appears across multiple subsections
 

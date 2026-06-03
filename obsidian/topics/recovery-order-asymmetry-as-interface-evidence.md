@@ -4,7 +4,7 @@ description: "A human+AI inquiry into why the order in which consciousness degra
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-05-27T15:45:00+00:00
+ai_modified: 2026-06-03T00:00:00+00:00
 last_deep_review: 2026-05-27T14:58:22+00:00
 draft: false
 topics:
@@ -18,6 +18,7 @@ concepts:
   - "[[interface-friction]]"
   - "[[active-reboot]]"
   - "[[cross-mechanism-convergence]]"
+  - "[[direction-of-interface-change]]"
 related_articles:
   - "[[tenets]]"
   - "[[self-concealing-interface]]"
@@ -69,7 +70,7 @@ This onset-versus-recovery asymmetry matters because it decouples the asymmetry 
 
 ## The Catalogue of Direction-of-Interface-Change Signatures
 
-Recovery-order asymmetry is one member of a broader family of signatures in which the *direction* of interface change — not only the substrate state at a moment — is the load-bearing variable. Naming the family makes the evidence type portable across the catalogue's disruption cluster.
+Recovery-order asymmetry is one member of a broader family of signatures in which the *direction* of interface change — not only the substrate state at a moment — is the load-bearing variable. The family has its own concept home at [[direction-of-interface-change|direction-of-interface-change signatures]], where the four members, their non-independence, and their evidential tier are catalogued for portable citation; the catalogue below is its source development.
 
 - **Hysteresis of state transition.** The induction and emergence thresholds differ (neural inertia); the same substrate state yields different conscious outcomes depending on direction of travel.
 - **Recovery-order reversal across mechanisms.** The autonoetic channel returns last on anaesthesia emergence and first in terminal lucidity — the same channel, opposite recovery order, different direction of substrate change.
@@ -108,6 +109,7 @@ The asymmetry is one face of the broader disruption-cluster pattern: channels th
 
 ## Further Reading
 
+- [[direction-of-interface-change]] — The concept home for the four-member signature family this article develops, with the non-independence caution centralised
 - [[memory-system-vulnerability-hierarchies-as-interface-evidence]] — The substrate-state face of the same architecture; names this asymmetry as one signature
 - [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] — The discriminating-test design space the comparison points toward
 - [[anaesthesia-and-the-consciousness-interface]] — Neural inertia, hysteresis, and the stochastic-emergence anchor case

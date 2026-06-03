@@ -4,7 +4,7 @@ description: "A 2025 study found genetically identical mice show anaesthetic-eme
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-05-27T12:30:00+00:00
+ai_modified: 2026-06-03T00:00:00+00:00
 last_deep_review: 2026-05-27T10:54:42+00:00
 draft: false
 topics:
@@ -126,6 +126,7 @@ The Map's working position is that emergence-time stochasticity is a genuine and
 - [[quantum-biology-and-neural-consciousness]] — The decoherence debate and the microtubule-substrate question this finding's quantum reading depends on
 - [[evidential-status-discipline]] — The compatibility-vs-support and constrain-vs-establish disciplines governing this treatment
 - [[falsification-roadmap-for-the-interface-model]] — Where this finding sits in the tenet-by-tenet falsification framework
+- [[direction-of-interface-change]] — The signature family this finding's direction-decoupled-timing member belongs to
 
 ## References
 

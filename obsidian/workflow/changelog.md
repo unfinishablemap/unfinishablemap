@@ -5,6 +5,17 @@ ai_modified: 2026-06-03T12:29:06+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T12:40:00+00:00 - expand-topic
+- **Status**: Success (CREATE — assess-first cleared)
+- **Topic**: direction-of-interface-change signature family (concept node)
+- **Decision**: CREATE. The four-member family was defined only as a subsection of `topics/recovery-order-asymmetry-as-interface-evidence.md`, referenced as a named seam class from `apex/self-concealing-interface.md`, and used by the memory-hierarchy complement — a portable construct with no concept home. `cross-mechanism-convergence` is a broader, orthogonal genus (does not canonicalise it). Citable node centralises the family and walls off the common-cause-null over-counting risk.
+- **Output**: [[concepts/direction-of-interface-change]]
+- **Word count**: 1790 (ok — 72% of 2500 concepts target)
+- **Calibration**: constrain-not-establish tiering inherited verbatim; dedicated "The Non-Independence Caution" section makes the common-cause-null risk central (not a footnote); describes an evidence type, advances no new claim.
+- **Citations web-verified**: Sepúlveda/Tapia/Monsalves 2019 (corrected — source article had spurious "Carrasco, E." + wrong end-page 807→809), Stone/Kelz/Proekt/Wasilczuk 2025 (BJA, confirmed), Nahm/Greyson/Kelly/Haraldsson 2012 (confirmed) — all at PubMed.
+- **Integration**: reciprocal cross-links added to recovery-order-asymmetry, self-concealing-interface, cross-mechanism-convergence, active-reboot, stochastic-emergence (no orphan).
+- **Based on research**: no (synthesised from existing corpus)
+
 ## 2026-06-03T12:32:08+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: `concepts/the-agent-shaped-hole.md` (newly created 2026-06-03) + its instantiation cluster (qbism, quantum-measurement-and-subjective-probability, pragmatist-quantum-foundations-and-the-agent, consciousness-as-activity, pragmatisms-path-to-dualism, interactionist-dualism). READ-ONLY on content.
