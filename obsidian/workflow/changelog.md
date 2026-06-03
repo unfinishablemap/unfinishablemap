@@ -5,6 +5,23 @@ ai_modified: 2026-06-03T08:18:13+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T09:34:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-biology-and-neural-consciousness]]
+- **Task**: P2 citation fix (pessimistic-review 2026-06-03, web-verified) — discriminating Kerskens→Escolà-Gascón fix for the 2025 twin-EEG "higher states of consciousness" study (sole author Á. Escolà-Gascón, *CSBJ* vol 30, doi:10.1016/j.csbj.2025.03.001). NOT a blanket Kerskens sweep.
+- **Citation loci FIXED (wrong-2025 → Escolà-Gascón 2025 CSBJ)**:
+  - topics article L93 body "(Kerskens et al., 2025)" → "(Escolà-Gascón, 2025)"; L145 calibration-table cell author-name only "twin EEG (Kerskens 2025)" → "(Escolà-Gascón 2025)" (calibration content untouched); ref #11 author+venue "Kerskens... *PMC*" → "Escolà-Gascón, Á. ... *CSBJ*, 30".
+  - concepts/quantum-biology-and-neural-mechanisms.md L208 ref VENUE only "*Scientific Reports*, 15, 9219" → "*CSBJ*, 30" (author already correct).
+  - research/born-rule-...-2026-04-23.md L124 heading disentangled: retitled to "Brain-entanglement MRI signatures (Kerskens & López Pérez 2022)" (genuine 2022 study; body was always the 2022 MRI work) + added note that the higher-states twin study is the separate Escolà-Gascón 2025 CSBJ paper.
+  - research/quantum-biology-neural-experimental-2026-03-20.md heading + ref #6 normalised "...(2025) *PMC*" → "Escolà-Gascón, Á. (2025) *CSBJ*, 30".
+- **LEFT as genuine Kerskens & López Pérez 2022 (discriminator applied, NOT swept)**: decoherence-and-macroscopic-superposition:97, born-rule-and-the-consciousness-interface:176, episodic-memory:127, clinical-evidence-quality-standards:131, brain-internal-born-rule-testing:74, testing-consciousness-collapse:83, concepts/quantum-biology:146, concepts/quantum-consciousness:156 (Escolà-Gascón already correct there). research/non-retrocausal:160 "2025 glutamate coherence domain" = Keppler TRAZE/ZPF, genuinely NOT the twin study → left + verified.
+- **2 evidential-status tightenings (topic article, [[evidential-status-discipline]])**: L126 falsification-asymmetry over-claim downgraded to plausibility-not-strict-test language; L99 "structurally necessary" aligned to the article's own calibration-table hedge (raises the prior, not establishes necessity).
+- **Untouched per constraints**: calibration-table calibration content/discount reasoning (only the L145 author name); Duch External Critic section; "controversial"/"one data point" framing.
+- **Length**: body ~3946 → 3993w (soft_warning, under hard ceiling 4000); calibration hedges netted ~+47w, trimmed to stay length-neutral-ish.
+- **Final corpus grep**: zero remaining "Kerskens...2025/higher-states/twin" misattributions (excl. genuine 2022, reviews/changelog, this task).
+- **ai_modified** set on all 5 files touched.
+- **Published**: yes
+
 ## 2026-06-03T09:26:03+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/quantum-biology-and-neural-consciousness]] (4046w; quantum + animal/sleep high-defect citation zone)

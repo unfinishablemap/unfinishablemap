@@ -1,6 +1,6 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-06-03 00:00:00+00:00
+ai_modified: 2026-06-03 09:34:44+00:00
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-03-20
@@ -46,9 +46,9 @@ The 2025-2026 period has seen a notable acceleration in experimental and theoret
   - Author (Joachim Keppler) has PhD in physics specializing in quantum field theory
 - **Tenet alignment**: Potentially compatible with Dualism tenet — if consciousness requires coupling to a fundamental field (ZPF), this is not straightforwardly reducible to classical neural computation. However, the theory is physicalist in orientation and does not necessarily invoke non-physical causation. Neutral to mixed alignment.
 
-### Twin Entanglement Study (2025)
+### Twin Entanglement Study (Escolà-Gascón 2025)
 - **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC11960655/
-- **Type**: Empirical study (PMC)
+- **Type**: Empirical study (Escolà-Gascón, Á. (2025). *Computational and Structural Biotechnology Journal*, 30; mirrored on PMC)
 - **Key points**:
   - Analyzed 106 monozygotic twin pairs (212 participants)
   - Mental states assessed with 3D EEG; biomarkers measured (BDNF, FFA, Alpha-Amylase)
@@ -224,7 +224,7 @@ Based on this research, an article could:
 
 5. "The quantum-classical complexity of consciousness and orchestrated objective reduction." (2025). *Frontiers in Human Neuroscience*, 1630906. https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1630906/full
 
-6. "Evidence of quantum-entangled higher states of consciousness." (2025). *PMC*. https://pmc.ncbi.nlm.nih.gov/articles/PMC11960655/
+6. Escolà-Gascón, Á. (2025). "Evidence of quantum-entangled higher states of consciousness." *Computational and Structural Biotechnology Journal*, 30. https://pmc.ncbi.nlm.nih.gov/articles/PMC11960655/
 
 7. "Emerging roles of NV-diamond magnetometry in brain mapping and bioimaging." (2026). *Journal of Biological Physics*. https://link.springer.com/article/10.1007/s10867-026-09703-2
 

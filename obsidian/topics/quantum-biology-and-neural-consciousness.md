@@ -4,7 +4,7 @@ description: "Six converging evidence lines reshape quantum biology's bearing on
 created: 2026-01-27
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-06-03T00:00:00+00:00
+ai_modified: 2026-06-03T09:34:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -90,13 +90,13 @@ Pharmacological evidence is inherently indirect. Anaesthetics have multiple targ
 
 **Lithium isotope effects.** Fisher's Posner molecule hypothesis predicts that lithium-6 and lithium-7 should differ in their neural effects. In 2025, multi-electrode array experiments confirmed "large and opposite effects on synaptic transmission" from the two isotopes (Fisher et al., 2025)—consistent with nuclear spin influencing neural activity.
 
-**Twin entanglement EEG study.** A 2025 study of 106 monozygotic twin pairs used 3D EEG alongside biomarkers to probe quantum effects on cognition (Kerskens et al., 2025). Qubit entanglement in stimulus configurations explained 13.5% of variance in accuracy. The methodology is controversial—the leap from qubit stimulus configurations to biological quantum entanglement needs significant scrutiny—but it adds another independent data point.
+**Twin entanglement EEG study.** A 2025 study of 106 monozygotic twin pairs used 3D EEG alongside biomarkers to probe quantum effects on cognition (Escolà-Gascón, 2025). Qubit entanglement in stimulus configurations explained 13.5% of variance in accuracy. The methodology is controversial—the leap from qubit stimulus configurations to biological quantum entanglement needs significant scrutiny—but it adds another independent data point.
 
 Most measurements come from isolated preparations or indirect protocols. The critical missing piece: demonstration of quantum coherence in functioning neural tissue under normal physiological conditions.
 
 ## Theoretical Developments (2025-2026)
 
-The empirical acceleration has been matched by theoretical convergence. Multiple independent programmes—active inference, spintronic physics, quantum electrodynamics, zero-point field theory—have concluded that quantum effects are structurally necessary for consciousness rather than optional additions to classical models.
+The empirical acceleration has been matched by theoretical convergence. Multiple independent programmes—active inference, spintronic physics, quantum electrodynamics, zero-point field theory—argue that quantum effects are structurally necessary for consciousness rather than optional additions to classical models. As the [[#the-calibration-table|calibration table]] records, this convergence raises the prior on a quantum interface rather than establishing necessity; each framework's claim stands or falls with its own contested mechanism.
 
 **Active inference meets quantum collapse.** Wiest and Puniani (2025) integrated quantum collapse models with Karl Friston's active inference framework, arguing that classical mechanisms for conscious active inference lack biological plausibility and that its mathematics parallels the path integrals underlying quantum dynamics. If correct, quantum effects become structurally necessary for how organisms engage their environments through prediction and action. The integration also accounts for discrete, non-overlapping perceptual cycles—a feature classical models struggle to explain.
 
@@ -123,7 +123,7 @@ Each line has limitations; the force of the case lies in convergence across inde
 
 These lines are independent—pharmacological evidence does not depend on direct measurements, and biological precedent is established regardless of neural-specific findings. When independent streams converge, the probability of their shared conclusion rises faster than any individual line suggests. The rider, developed in the [[#the-calibration-table|calibration table below]], is that the shared conclusion is "neural quantum function is realistic" rather than "any specific Tenet 2 sub-reading is correspondingly more supported."
 
-The convergence also has directionality. Over the past decade, new evidence has consistently strengthened rather than weakened the realistic-quantum-function case; if neural quantum effects were illusory, accumulating evidence should fragment rather than cohere.
+The convergence also has directionality. Over the past decade, new evidence has consistently strengthened rather than weakened the realistic-quantum-function case; were neural quantum effects illusory, accumulating evidence might be expected to fragment rather than cohere—though this is a plausibility consideration, not a strict test, since coherence among contested findings can also reflect shared methodological assumptions.
 
 ## Why This Matters for Consciousness
 
@@ -142,7 +142,7 @@ The table specifies which Tenet 2 sub-reading each piece of evidence actually be
 | UV superradiance in microtubule tryptophan networks (Babcock 2024) | Load-bearing for Orch OR / Fröhlich-microtubule | Yes; corridor does not depend on microtubule coherence | Orthogonal |
 | Anaesthetic targeting of microtubules; epothilone B delay (Wiest 2025; Khan 2024); 613 THz prediction (Craddock 2017) | Load-bearing for Orch OR–style proposals: anaesthesia tracks microtubule quantum disruption | Anaesthesia engages *some* substrate, compatible with a post-decoherence interface | Orthogonal at the Born-rule layer; at most ancillary substrate evidence |
 | Posner-molecule lithium isotope effects (Fisher 2015, 2025) | Load-bearing for Fisher's nuclear-spin pre-decoherence proposal | Nuclear-spin coherence is one substrate a post-decoherence interface could use | Orthogonal |
-| Kerskens & López Pérez brain-entanglement MRI (2022); Warren 2023 critique; twin EEG (Kerskens 2025) | Load-bearing for any proposal predicting macroscopic neural entanglement, if replications hold | At most; post-decoherence path needs no macroscopic entanglement | Orthogonal; corridor's programme is [[brain-internal-born-rule-testing]] |
+| Kerskens & López Pérez brain-entanglement MRI (2022); Warren 2023 critique; twin EEG (Escolà-Gascón 2025) | Load-bearing for any proposal predicting macroscopic neural entanglement, if replications hold | At most; post-decoherence path needs no macroscopic entanglement | Orthogonal; corridor's programme is [[brain-internal-born-rule-testing]] |
 | Active inference + collapse (Wiest & Puniani 2025); QBIT (Beshkar 2025); microtubule-QED-cavity (Mavromatos 2025); TRAZE (Keppler 2025) | Theoretical load-bearing for the coherence proposal each framework advances | Convergence on "quantum is doing some work" raises the prior on a quantum interface generally | Orthogonal; coherence-mechanism convergence is not the corridor's currency |
 | NV-centre quantum-sensor measurement capability | Will be load-bearing for committed pre-decoherence mechanisms once deployed | Background instrumentation; no bearing on the selection event | Orthogonal; relevant only via [[brain-internal-born-rule-testing]] |
 
@@ -229,7 +229,7 @@ Two structural responses follow. *First*, the Map and Duch *converge* against Pe
 8. Hagan, S., Hameroff, S., & Tuszynski, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 9. Keppler, J. (2025). Macroscopic quantum effects in the brain: new insights into the fundamental principle underlying conscious processes. *Frontiers in Human Neuroscience*, 2025, 1676585.
 10. Kerskens, C. M. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
-11. Kerskens, C. M., et al. (2025). Evidence of quantum-entangled higher states of consciousness. *PMC*.
+11. Escolà-Gascón, Á. (2025). Evidence of quantum-entangled higher states of consciousness. *Computational and Structural Biotechnology Journal*, 30.
 12. Khan, S., et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
 13. Mavromatos, N. E., et al. (2025). The quantum-classical complexity of consciousness and orchestrated objective reduction. *Frontiers in Human Neuroscience*, 2025, 1630906.
 14. Sahu, S., et al. (2013). Multi-level memory-switching properties of a single brain microtubule. *Applied Physics Letters*, 102(12), 123701.

@@ -2,7 +2,7 @@
 title: "Research Notes - Is Born-Rule-Violating Consciousness-Physics Interaction Empirically Live at the Brain Interface?"
 created: 2026-04-23
 modified: 2026-04-23
-ai_modified: 2026-06-03T00:00:00+00:00
+ai_modified: 2026-06-03T09:34:44+00:00
 human_modified:
 draft: false
 ai_contribution: 100
@@ -121,15 +121,15 @@ The Born rule and its two closest cousins — third-order interference vanishing
 - **Tenet alignment**: Supports the possibility of a physical substrate where the standard QM postulates (unitary evolution without additional collapse dynamics) might break down — aligned with Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
 - **Caveats**: Interpretation contested; no direct test of Born-rule violation *per se*.
 
-### Quantum-entangled higher states of consciousness (Kerskens & López Pérez 2022, follow-ups Lopez Perez et al. 2023; review at Frontiers 2025)
-- **URL**: https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1676585/full
-- **Type**: Paper and review
+### Brain-entanglement MRI signatures (Kerskens & López Pérez 2022, follow-ups Lopez Perez et al. 2023)
+- **URL**: https://iopscience.iop.org/article/10.1088/2399-6528/ac94be
+- **Type**: Paper (Journal of Physics Communications, 6, 105001)
 - **Key points**:
   - MRI protocol applied to proton spins in "brain water"; uses entanglement-witness logic adapted from quantum-gravity experiments (if two known quantum systems entangle via an unknown mediator, the mediator must itself be quantum).
   - Detected MRI signals resembling heartbeat evoked potentials that MRI should not normally resolve.
   - Signal correlated with short-term memory performance and with sleep-wake transitions.
 - **Tenet alignment**: Aligns with Tenet 1 (dualism needs a physical interface where non-physical influence can land); suggests macroscopic quantum coherence is present where a Born-rule-violating interface could plausibly operate.
-- **Caveats**: Alternative classical explanations have been proposed but not fully developed; not a test of the Born rule itself.
+- **Caveats**: Alternative classical explanations have been proposed but not fully developed; not a test of the Born rule itself. (The separate 2025 twin-EEG study titled "Evidence of quantum-entangled higher states of consciousness" is sole-authored by Á. Escolà-Gascón, *Computational and Structural Biotechnology Journal*, 30 — distinct from this Kerskens & López Pérez 2022 MRI work; do not conflate.)
 
 ### Macroscopic quantum effects in the brain (Keppler 2025, Frontiers in Human Neuroscience)
 - **URL**: https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1676585/full
