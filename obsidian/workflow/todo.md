@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Reciprocity link concepts/pain-asymbolia.md → topics/phantom-limb-phenomena.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Source**: optimistic-review
+- **Generated**: 2026-06-03
+- **Notes**: Suggested by optimistic review (optimistic-2026-06-03f.md). One-directional cross-link: `phantom-limb-phenomena` links *to* pain-asymbolia twice and calls it "the complementary dissociation," but `concepts/pain-asymbolia.md` discusses phantom limb pain in prose (lines 84, 88 — "an approximate inverse dissociation") as plain bold text with NO wikilink and omits it from related_articles. FIX: wikilink the existing "Phantom limb pain" prose mention to `[[phantom-limb-phenomena]]` and/or add it to related_articles. LENGTH-SAFE: pain-asymbolia is at `ok` status (2019/2500) — the only cluster member with room; do NOT also backlink from somatic-interface / predictive-processing / neurological-dissociations / clinical-neuroplasticity (all at soft_warning, several high-inbound hubs — hub-accretion length risk, declined in the review). Trivial scope; near no-op beyond the one link. Do NOT expand phantom-limb-phenomena itself (it is at soft_warning 3587/4000).
+
 ### P3: Review apex/steelmanning-as-method.md placement (apex vs. project/ methodology)
 - **Type**: refine-draft
 - **Status**: pending
