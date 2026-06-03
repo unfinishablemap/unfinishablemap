@@ -4,7 +4,7 @@ description: "Three classes of pharmacological dissociation—same-target-opposi
 created: 2026-05-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-05-31T11:06:37.123598+00:00
+ai_modified: 2026-06-03T08:48:54+00:00
 last_deep_review: 2026-05-18T22:10:00+00:00
 draft: false
 topics:
@@ -153,7 +153,7 @@ Pharmacological dissociation as an evidence pattern touches each of the Map's [[
 
 **[[tenets#^dualism|Dualism]]**: The dissociation classes constrain identity readings of consciousness without establishing dualism. What they support is the structured interface picture that dualism predicts and that materialism must accommodate by locating consciousness in specific connectivity patterns. The Map's reading is preferred-by-fit, not forced-by-argument; the framework-stage discipline locates this at the live-hypothesis level for the interactionist version of the picture.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Several anaesthetic targets involve conformational changes at scales where thermal noise and quantum uncertainty overlap. The contested Hameroff et al. (2025) delayed-luminescence work on anaesthetic effects in microtubule quantum properties, the stochastic emergence variability in genetically identical organisms (orders-of-magnitude variation under identical conditions), and the structural shape of receptor pharmacology at the molecular boundary are all compatible with quantum-sensitive interface architecture. The compatibility is not entailment, and the framework's specific quantum-bridge commitments remain at the live-hypothesis tier.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Several anaesthetic targets involve conformational changes at scales where thermal noise and quantum uncertainty overlap. The contested Wiest (2025) delayed-luminescence work on anaesthetic effects in microtubule quantum properties, the stochastic emergence variability in genetically identical organisms (orders-of-magnitude variation under identical conditions), and the structural shape of receptor pharmacology at the molecular boundary are all compatible with quantum-sensitive interface architecture. The compatibility is not entailment, and the framework's specific quantum-bridge commitments remain at the live-hypothesis tier.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The active-reboot KCC2 mechanism—the brain's coordinated dismantling of anaesthesia-installed inhibition *before* behavioural responsiveness returns—is consistent with an interface that the neural infrastructure prepares for consciousness to re-engage. The reading is one available interpretation, not the only one; the convergence across four pharmacologically distinct agents on a single active reopening pathway raises the explanatory cost on passive-recovery models.
 

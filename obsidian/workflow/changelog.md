@@ -5,6 +5,16 @@ ai_modified: 2026-06-03T08:18:13+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T08:48:54+00:00 - apex-evolve
+- **Status**: Success
+- **Article**: [[apex/pharmacological-dissociation-as-evidence]]
+- **Mode**: check + targeted maintenance. Assessed all 30 apex; declined the two top staleness scorers (machine-question 4985w = human-length-decision near hard ceiling; altered-states deep-reviewed 2026-06-02 = converged, no-op).
+- **apex_sources integrity**: clean across all 30 apex — zero missing/coalesced source slugs, no repoints needed.
+- **Citation defect fixed**: inherited **niaf011 misattribution** from corpus-wide fix `19ae55437` (2026-06-03). Line 156 "Hameroff et al. (2025) delayed-luminescence work" → **"Wiest (2025)"**. Web-verified at publisher of record (Oxford Academic / PubMed PMID 40342554): niaf011 is single-authored by **Michael C. Wiest** (Wellesley). Per [[ai_citation_metadata_unreliable]]. The two other apex citing niaf011 already carried correct Wiest attribution; this was the only defect.
+- **Length**: length-neutral, 4200 → 4200 words (one author-name swap). Calibration/hedges preserved verbatim.
+- **Changed sources**: 1 (the citation correction); **Word count**: 4200 → 4200
+- **Review**: [[reviews/apex-evolve-2026-06-03-pharmacological-dissociation-as-evidence]]
+
 ## 2026-06-03T08:28:41+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/vagueness-void]]
