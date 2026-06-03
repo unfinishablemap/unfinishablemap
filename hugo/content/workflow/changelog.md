@@ -9,6 +9,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T13:05:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/)
+- **Original score**: topic-concept anchoring audit (anchor [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/)); 2 failed checks pre-edit — strong_assertion_count 3 (anchor 0) and underdetermination_marker_count 0 (anchor 1). hedge_density passed; hedges untouched.
+- **Changes**: Calibration-only, surgical, voice preserved, central corridor claim untouched. Three strong-assertion verb swaps: (1) §"What Current Data Constrains, What It Does Not" — "What the present empirical record **establishes**:" → "**currently supports**:" (negative-side "does not establish" left intact, preserving the established/not-established parallel); (2) §"What Would Make the Corridor Empirically Superfluous" (Refutation-of-related-mechanisms para) — "This criterion **refutes** the *mechanisms*" → "**would refute**" (matches the conditional "A null... would refute" framing already in the para); (3) §Penrose-Hameroff Orch-OR — "If MAQRO **confirms** standard decoherence" → "If MAQRO **indicates** standard decoherence". One underdetermination marker added in §Trumping-Preemption: "Born-rule evidence does not decide between an authoritative-but-Born-silent trumping channel and outright epiphenomenalism" — a genuine concession at the real corridor-vs-epiphenomenalism ambiguity the article already flags (empirical distinguishability by Born data = zero), not boilerplate. No citations touched; no new citations; no possibility→probability slippage; no mode labels. Post-edit: strong_assertion_count 0, underdetermination_marker_count 1, hedge_count 7 (unchanged). evaluate_anchoring returns []. Length 3706w (soft_warning, 294w under 4000 hard).
+- **Published**: yes
+
 ## 2026-06-03T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/)
