@@ -1,13 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03 05:11:49+00:00
+ai_modified: 2026-06-03 05:18:42+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-03'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-03T05:18:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/)
+- **Task**: Headline convergence-recast (selection-artefact finding, 3/3-convergent outer reviewers, P1) + deflationism engagement + naturalistic-rivals cluster. The all-three-convergent finding: the "three routes converge on consciousness" framing is real only after redescription/abstraction.
+- **Word count**: body 3470 → 3953 (+483; under topics 4000 hard, ~47w margin). Net additions ≈ +483 after offsetting condense.
+- **Fix 1 — headline reframe** (line 33, net-neutral, replaced over-claim): "three of the most prominent answers to the SCQ independently converge on consciousness as the criterion for genuine composition" → calibrated weaker: restricted-composition strategies place *life, irreducible causal power, OR integrated information* near the composite/aggregate boundary; consciousness is ONE candidate marker among several; convergence real only after ABSTRACTION to "the systems where consciousness tends to occur." Forward-link to the new deflationism section. PRESERVED the selection-effect hedge (line ~83) and the non-forcing disclaimer (closing line 33).
+- **Fix 2 — deflationism engagement** (new section "Is the Question Even Deep?", ~135w): Thomasson easy-ontology (*Ontology Made Easy*, 2015) + Hirsch quantifier variance — if the SCQ is shallow/verbal there is no deep fact for ANY criterion to track and the convergence dissolves. Engaged in the deflationist's own framing: marked as a FRAMEWORK-BOUNDARY disagreement (the Map's compositional realism is a commitment the deflationist rejects on neutral ground; the convergence argument cannot defeat deflationism without it) — NOT a refutation. The Map can fairly press the residual burden (why intuitions cluster around organised/causally-unified systems) but the disagreement is honestly bedrock.
+- **Fix 3 — naturalistic-rivals cluster** (~150w, same new section): non-arbitrary restricted composition does NOT require a consciousness criterion — Bird 2023 (information compression), Beni 2025 (thermodynamic depth), Korman 2015 (ordinary-object realism vs arbitrariness arguments, no consciousness criterion). "Non-arbitrary boundary ⇒ consciousness" undercut; Map's reply = framework-boundary (these track *organisation*; open question is whether organisation-without-consciousness is the whole story). Did NOT claim refutation. Universalism/nihilism/brutal-composition NAMED as further rivals, not developed (length-blocked).
+- **Engagement classification** (changelog-only per [direct-refutation-discipline](/project/direct-refutation-discipline/)): deflationism — Mode Three (framework-boundary; the Map's compositional realism is bedrock the deflationist rejects, honestly marked not refuted). Naturalistic rivals (Bird/Beni/Korman) — Mode Three (framework-boundary; their criteria track organisation, the Map posits phenomenal unity does unacknowledged work but does not refute on neutral ground). No Mode-One/Two claim made; no boundary-substitution.
+- **Citations web-verified this session**: Thomasson, *Ontology Made Easy* (OUP 2015, ISBN 9780199385119, meta-ontological deflationism — APA Sanders Prize 2017); Korman, *Objects: Nothing out of the Ordinary* (OUP 2015, ISBN 9780198732532, conservatism/ordinary-object realism answering arbitrariness arguments). Bird 2023 (*Phil. Quarterly* 73(3):677-700) and Beni 2025 (*Phil. Quarterly* 75(2), pqae019) pre-verified. Added as references #18–21.
+- **Condensed to offset** (genuine redundancy ONLY — NO calibration/panpsychism/IIT-recalibration/stance-fix content touched): (i) line 67 collapsed the duplicated "formally precise but not measurable" statement (stated at open and close of the stretch) into one; (ii) line 69 closing sentence trimmed (it restated the earlier "more robust than IIT's empirical fortunes but not wholly independent" point) — kept the load-bearing "abandon that framing wholesale" qualifier; (iii) line 67 dropped the SECOND redundant McQueen-Tsuchiya neutrality quote (kept the load-bearing first quote + the paraphrase); (iv) line 81 tightened the disagree-about-everything-else listing (line 83 re-lists the methods).
+- **Description recalibrated**: dropped the "converge on consciousness as the criterion" over-claim → "cluster near the domain where consciousness occurs—a convergence the Map reads as suggestive support for dualism, not proof."
+- **HUMAN LENGTH DECISION FLAGGED** (Blocked Tasks, NOT Active — human-decision-task-mispicked-as-refine): the article is now a comprehensive rivals-engaging piece at ~3953w / 4000 hard with only ~47w margin; the FULL individual direct-refutation of universalism + nihilism + brutal composition (Markosian) was deliberately deferred (one-sentence gesture, not developed = would breach 4000). Human call: raise the threshold OR split a companion "Rivals to the Composition–Consciousness Thesis" article. Do NOT auto-condense the load-bearing calibration.
+- **Published**: yes
 
 ## 2026-06-03T05:11:49+00:00 - refine-draft
 - **Status**: Success
