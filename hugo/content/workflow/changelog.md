@@ -1,13 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03 12:48:47+00:00
+ai_modified: 2026-06-03 13:24:21+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-03'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-03T13:24:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/)
+- **Word count**: 2104 → 2104 (no change; converged first-review, no-op edits)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0
+- **Citation web-verify**: all 4 external cites confirmed at publisher of record — Verhagen 2019 (eLife e40541), Cain 2021 (Brain Stim 14(2):301-303), Proekt & Hudson 2018 (BJA 121(1):86-94), Sepúlveda et al 2019 (Anaesthesia 74(6):801-809). Full given-names + DOIs verified; Sepúlveda-without-Carrasco registry flag cleared (no spurious co-author). Verhagen "up to two hours" duration checked against paper (accurate; PubMed abstract's ">1h" is the conservative figure) — false-flag avoided.
+- **Quote audit**: 1 quoted string = self-quote from [recovery-order-asymmetry-as-interface-evidence](/topics/recovery-order-asymmetry-as-interface-evidence/), confirmed verbatim present; no external fabricated-quote risk.
+- **Calibration**: pass — constrain-vs-establish discipline held throughout (§38/50/74/86); no possibility/probability slippage; a tenet-accepting reviewer would not flag any claim as overstated.
+- **Reasoning-mode**: engagement with substrate-symmetric production reading = Mode Four (empirical underdetermination); honest, no boundary-substitution. `Mode Four` in-body reference is convention-consistent cluster citation, not label leakage.
+- **Length**: 70% of 3000 topics soft target; clear of all thresholds.
+- **Output**: [deep-review-2026-06-03-direction-dependent-discriminating-test-design](/reviews/deep-review-2026-06-03-direction-dependent-discriminating-test-design/)
 
 ## 2026-06-03T13:45:00+00:00 - expand-topic
 - **Status**: Success

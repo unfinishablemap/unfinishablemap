@@ -19,6 +19,7 @@ description: A human+AI design for a reversible-perturbation experiment whose cl
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-06-03 13:24:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

@@ -33,6 +33,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-03
 last_curated:
+last_deep_review: 2026-06-03T13:24:21+00:00
 ---
 
 The [[recovery-order-asymmetry-as-interface-evidence|recovery-order-asymmetry article]] and the [[direction-of-interface-change|direction-of-interface-change concept]] both name, as outstanding future work, a discriminator the existing catalogue has not designed: "a focal perturbation producing a channel ordering one reading predicts and the other forbids," sited specifically on the *direction-of-travel* axis. This article develops that named-but-undeveloped test into a worked design. It is a **proposed experiment, not a result.** Nothing here asserts the discriminator has been run, and nothing here raises the probability that the [[filter-theory|filter reading]] is correct; the [[evidential-status-discipline|evidential-status discipline]] requires that the design be held at the design tier and that its present standing be empirical underdetermination ([[direct-refutation-discipline|Mode Four]]). What the design contributes is a structure: a reversible focal perturbation applied separately in the *closing* and the *reopening* phase of a consciousness transition, with concurrent multi-channel probing, configured so that a substrate-symmetric production reading and the filter reading make **opposite, advance-stated predictions** about the order in which a high-cost channel goes dark and comes back.
