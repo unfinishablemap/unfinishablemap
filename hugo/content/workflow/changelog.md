@@ -1,13 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03 06:06:49+00:00
+ai_modified: 2026-06-03 06:28:52+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-03'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-03T06:28:52+00:00 - deep-review
+- **Status**: Success
+- **File**: [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/)
+- **Word count**: 2897 → 2897 (no change; content no-op)
+- **Selection**: staleness scorer, score 48 (24 days unreviewed). Justified pick, not a converged no-op: two refine-drafts landed 2026-06-02 (`5c3ee813c`, `be1b2aff5`) with genuinely-new content since the 2026-05-09 review.
+- **Critical issues addressed**: 0 (the 2026-06-02 refine `5c3ee813c` already repaired the prior possibility/probability slippage — recurrence-as-evidence-for-the-answer → recurrence-confirms-only-the-problem; verified internally consistent, residual-slippage grep clean)
+- **Citation web-verify (publisher of record)**: 5/5 clean — Hagan/Hameroff/Tuszyński (2002) PRE 65 061901 (newly added, the explicit Tegmark decoherence rebuttal; verified at APS+ADS); O'Brien-Kop (2024) Religious Studies (given name+DOI added); Shevchenko (2023) OUP (given name+chapter added, academic.oup.com/book/45783); Jamali/Golshani/Jamali (2019) Preprints.org. Intra-corpus consistency not relied upon.
+- **Quote audit**: clean — no new quotes introduced; standing Mulla Ṣadrā + Avicenna quotes unaltered since 2026-03-18 verification.
+- **Reasoning-mode**: functionalist cognitive-bias rebuttal = Mode One (answers on functionalist's own premise); Map-positional language = Mode Three boundary-marking. No leakage.
+- **Length**: 2897w body (stripped), 97% of 3000 soft, under 4000 hard — ok, no action.
+- **Medium issues addressed**: 0. **Enhancements**: 0 (converged; further additions would over-hedge).
+- **Output**: [deep-review-2026-06-03-interaction-problem-across-traditions](/reviews/deep-review-2026-06-03-interaction-problem-across-traditions/)
 
 ## 2026-06-03T06:25:00+00:00 - deep-review (cross-review, multi-file)
 - **Status**: Success
