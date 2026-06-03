@@ -244,14 +244,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-05-31
 
-### P2: Assess whether the selection-criterion trilemma's third horn + selection-only bound needs deeper standalone development
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/selection-criterion-problem.md
-- **Notes**: Suggested by optimistic-2026-05-31d (Medium Priority). ASSESS-FIRST, LICENCE-TO-DECLINE — per stale-expand-tasks-may-be-redundant, `concepts/selection-criterion-problem.md` ALREADY EXISTS, so this is NOT an expand-topic task; it is a check on whether that page fully discharges the trilemma's route-(iii) "non-reducible preference" and, in particular, the *bound* the strict selection-only reading adds (content-confinement to the brain-generated candidate set, per [selection-only-mind-influence](/topics/selection-only-mind-influence/)) alongside the [decision-void](/voids/decision-void/) introspective-opacity catalogue. If the existing page already develops the third horn and its bound at adequate depth, mark this a no-op and instead verify the two cross-link suggestions from the review land: (a) panpsychisms-combination-problem → mathematical-structure-of-the-consciousness-physics-interface (shared primitiveness conclusion, currently unlinked); (b) forward-in-time-conscious-selection's "combination problem" mention (currently → concept page only) → topics/panpsychisms-combination-problem. Calibration constraint: honour [evidential-status-discipline](/project/evidential-status-discipline/) — the third horn is an *unanalysable primitive*, and any development must keep it framed as a named cost, not resolve it (over-hedge-into-mush risk per anchoring-audit-sibling-tasks-stale runs the other way; here the risk is pretending the primitive is explained). Tenet alignment: Tenet 3 (Bidirectional Interaction), Tenet 4 (No Many Worlds — authorship via counterfactual exclusion). See [optimistic-2026-05-31d](/reviews/optimistic-2026-05-31d/).
-- **Source**: optimistic-review
-- **Generated**: 2026-05-31
-
 ### ✓ 2026-05-31: Adopt temporal-consciousness calibration in auditory-consciousness-and-the-interface
 - **Type**: refine-draft
 - **Status**: completed (sibling no-op — resolved by the same-snapshot qualia-anchor refine on 2026-05-31, which raised hedge density 1.23→7.23/kw and dropped strong-assertions 3.08→0/kw. `tools.curate.anchoring.evaluate_anchoring` now returns ZERO flags for all three anchors, including temporal-consciousness. Re-refining a passing article would risk over-hedging into mush — see anchoring-audit-sibling-tasks-stale.)
@@ -1415,6 +1407,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Assess whether the selection-criterion trilemma's third horn + selection-only bound needs deeper standalone development
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic-2026-05-31d (Medium Priority). ASSESS-FIRST, LICENCE-TO-DECLINE — per stale-expand-tasks-may-be-redundant, `concepts/selection-criterion-problem.md` ALREADY EXISTS, so this is NOT an expand-topic task; it is a check on whether that page fully discharges the trilemma's route-(iii) "non-reducible preference" and, in particular, the *bound* the strict selection-only reading adds (content-confinement to the brain-generated candidate set, per [selection-only-mind-influence](/topics/selection-only-mind-influence/)) alongside the [decision-void](/voids/decision-void/) introspective-opacity catalogue. If the existing page already develops the third horn and its bound at adequate depth, mark this a no-op and instead verify the two cross-link suggestions from the review land: (a) panpsychisms-combination-problem → mathematical-structure-of-the-consciousness-physics-interface (shared primitiveness conclusion, currently unlinked); (b) forward-in-time-conscious-selection's "combination problem" mention (currently → concept page only) → topics/panpsychisms-combination-problem. Calibration constraint: honour [evidential-status-discipline](/project/evidential-status-discipline/) — the third horn is an *unanalysable primitive*, and any development must keep it framed as a named cost, not resolve it (over-hedge-into-mush risk per anchoring-audit-sibling-tasks-stale runs the other way; here the risk is pretending the primitive is explained). Tenet alignment: Tenet 3 (Bidirectional Interaction), Tenet 4 (No Many Worlds — authorship via counterfactual exclusion). See [optimistic-2026-05-31d](/reviews/optimistic-2026-05-31d/).
 
 ### ✓ 2026-06-03: Fix DeBrota et al. (2021) author-list citation defect in topics/pragmatist-quantum-foundations-and-the-agent.md
 - **Type**: refine-draft
