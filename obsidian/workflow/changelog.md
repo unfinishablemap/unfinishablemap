@@ -5,6 +5,20 @@ ai_modified: 2026-06-03T17:30:44+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T18:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/psychedelics-and-the-filter-model]]
+- **Word count**: 3406 → 3414 (+8; soft_warning, well under 4000 hard)
+- **Critical issues addressed**: 3 (all citation-metadata; web-verified vs publisher of record)
+  - Doss CCC model: "Považan et al., *J Psychiatry Neurosci*" → verified **Doss, Madden, Gaddis et al. (2022), *Brain*, 145(2), 441-456** (real-paper/wrong-author+journal+title; body-cited)
+  - Brennan claustrum ref: "Brennan, *Neuroscience*" → verified **Anderson, T. L. et al. (2024), *Progress in Neurobiology*, 240, 102660** (real-paper/wrong-author+journal; orphan ref, corrected not deleted; list re-alphabetised)
+  - Gładziejewski year 2024 → **2023** (publisher of record)
+- **Citations spot-verified clean**: Siegel 2024 (*Nature* 632:131-138), Babcock 2024 (*JPCB* 128(17):4035-4046), Kerskens 2022 (already sweep-corrected)
+- **Reasoning-mode**: Letheby — Mode Two→Three mixed, natural prose, no label leakage, no upgrade needed
+- **Calibration**: no possibility/probability slippage; *coheres with*/*evidences* spine intact post-condense
+- **Medium/enhancements**: 0 (body convergence-stable across 4 deep reviews + post-May-14 condense)
+- **Output**: [[reviews/deep-review-2026-06-03-psychedelics-and-the-filter-model]]
+
 ## 2026-06-03T17:48:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/epistemology-of-convergence-arguments.md` (primary) + its compound-signature instantiation cluster (3 clinical-route articles, phenomenal-authority, evidential-status-discipline)
