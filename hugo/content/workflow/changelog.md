@@ -9,6 +9,23 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T06:25:00+00:00 - deep-review (cross-review, multi-file)
+- **Status**: Success
+- **Files**: [unity-of-consciousness](/concepts/unity-of-consciousness/), [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/), [composition-and-consciousness](/concepts/composition-and-consciousness/)
+- **Source**: [outer-review-2026-06-03-chatgpt-5-5-pro](/reviews/outer-review-2026-06-03-chatgpt-5-5-pro/) — reconcile phenomenal-parts vocabulary across the composition cluster
+- **Core**: distinguished (A) phenomenal part-whole structure / subsumptive unity from (B) composition out of independently existing subjects (subject-summing); non-compositionality denies B, not A. Resolves the reviewer's "site says both 'experience has parts' and 'experience cannot be composed'" tension.
+- **unity-of-consciousness**: 2353→2485w (+132) — added reciprocal clarifying note; reciprocated bidirectional link to [composition-and-consciousness](/concepts/composition-and-consciousness/) (Further Reading + related_articles). Under 2500 soft.
+- **consciousness-and-the-metaphysics-of-composition**: 3996→4000w (+4) — strictly length-aware swap (no append) sharpening "no such merging" → "no such subject-summing" and naming the operation as subject-summing. At 4000 hard ceiling (verified ≤4000); broader outer-review evidence-base findings deferred to standing human-length-decision.
+- **composition-and-consciousness**: 2373→2343w (−30) — measured de-dup; reframed three-answers section as a primer pointing to the topic article for the full dialectic; preserved Merricks quote, McQueen–Tsuchiya decoupling, tenet material. Coherent standalone primer; no deeper restructuring follow-on flagged.
+- **Engagement modes**: none — no new named-opponent replies introduced; all changes vocabulary-reconciliation.
+- **Output**: [deep-review-2026-06-03-phenomenal-parts-cross-review](/reviews/deep-review-2026-06-03-phenomenal-parts-cross-review/)
+
+## 2026-06-03T06:15:33+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/)
+- **Changes**: Mechanical citation-author fix (pessimistic-review 2026-06-03, web-verified vs Oxford Academic academic.oup.com/pq/article/75/2/396 + PhilPapers BENCTC-7). Corrected given name on the 2025 *Phil. Quarterly* thermodynamic-depth paper at two loci: body (line 89, "Vincent Beni" → "Majid D. Beni") and reference 21 (line 171, "Beni, V. (2025)" → "Beni, M. D. (2025)"). Title/venue/volume/year/article-id all already correct. Name-only swap, no prose changes. Wrong form confirmed isolated to this article (no propagation); the correctly-cited Beni 2021 Synthese Markovian-monism reference in the predictive-processing files is the same author for a different paper and was left untouched. Body 3995→3997w (+2 from "Vincent"→"Majid D." at two loci), under 4000 hard ceiling.
+- **Published**: yes
+
 ## 2026-06-03 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/consciousness-and-the-metaphysics-of-composition.md`, `topics/qm-interpretations-beyond-many-worlds.md` (two most-recently-modified topic articles)

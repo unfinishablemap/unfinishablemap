@@ -5,6 +5,17 @@ ai_modified: 2026-06-03T06:06:49+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T06:25:00+00:00 - deep-review (cross-review, multi-file)
+- **Status**: Success
+- **Files**: [[concepts/unity-of-consciousness]], [[topics/consciousness-and-the-metaphysics-of-composition]], [[concepts/composition-and-consciousness]]
+- **Source**: [[reviews/outer-review-2026-06-03-chatgpt-5-5-pro]] — reconcile phenomenal-parts vocabulary across the composition cluster
+- **Core**: distinguished (A) phenomenal part-whole structure / subsumptive unity from (B) composition out of independently existing subjects (subject-summing); non-compositionality denies B, not A. Resolves the reviewer's "site says both 'experience has parts' and 'experience cannot be composed'" tension.
+- **unity-of-consciousness**: 2353→2485w (+132) — added reciprocal clarifying note; reciprocated bidirectional link to [[composition-and-consciousness]] (Further Reading + related_articles). Under 2500 soft.
+- **consciousness-and-the-metaphysics-of-composition**: 3996→4000w (+4) — strictly length-aware swap (no append) sharpening "no such merging" → "no such subject-summing" and naming the operation as subject-summing. At 4000 hard ceiling (verified ≤4000); broader outer-review evidence-base findings deferred to standing human-length-decision.
+- **composition-and-consciousness**: 2373→2343w (−30) — measured de-dup; reframed three-answers section as a primer pointing to the topic article for the full dialectic; preserved Merricks quote, McQueen–Tsuchiya decoupling, tenet material. Coherent standalone primer; no deeper restructuring follow-on flagged.
+- **Engagement modes**: none — no new named-opponent replies introduced; all changes vocabulary-reconciliation.
+- **Output**: [[reviews/deep-review-2026-06-03-phenomenal-parts-cross-review]]
+
 ## 2026-06-03T06:15:33+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-metaphysics-of-composition]]

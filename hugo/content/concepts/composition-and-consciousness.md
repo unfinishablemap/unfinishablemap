@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-01
-ai_modified: 2026-06-01 06:36:39+00:00
+ai_modified: 2026-06-03 06:25:00+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -57,15 +57,11 @@ Van Inwagen's formulation makes the question precise: "For any xs, is there a y 
 
 ## Consciousness as Composition Criterion
 
-Three independent philosophical programmes arrive at consciousness as the answer to the SCQ, each by a different route.
+This concept page is a primer: it gives the gist of the three answers and the double-role thesis, then points to [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/), which carries the full dialectic—the rival deflationist and naturalistic accounts, the IIT calibration, and the case that the convergence supports dualism.
 
-**Van Inwagen's organicism** restricts composition to cases where the activity of simples constitutes a life. Only living organisms are genuine composites. Consciousness enters indirectly: all conscious beings are organisms, and organisms are the only genuine wholes. Van Inwagen does not draw dualist conclusions, but his restriction implicitly privileges the domain where consciousness occurs.
+Three restricted-composition strategies, selected from a wider field, each place a feature near the boundary where consciousness occurs at the centre of what makes a genuine whole. **Van Inwagen's organicism** restricts composition to cases where the activity of simples constitutes a life; consciousness enters only indirectly, since organisms are the domain where it occurs. **Merricks' eliminativism** keeps only composites with irreducible causal powers, and argues that conscious organisms alone escape elimination because consciousness "does not even globally supervene on microscopic physical properties" (Merricks 2001). **McQueen and Tsuchiya's integrated-information approach** makes composition occur where integrated information (Φ) is maximised—though they explicitly decouple that composition criterion from consciousness itself.
 
-**Merricks' eliminativism** argues that non-conscious composites are causally redundant—every causal power attributed to a baseball is fully explained by its constituent atoms. Conscious organisms escape elimination because consciousness "does not even globally supervene on microscopic physical properties" (Merricks 2001). A person's conscious decision has causal powers that no arrangement of atoms individually possesses. Consciousness is what makes some composites causally real.
-
-**McQueen and Tsuchiya's integrated information approach** proposes that composition occurs when integrated information (Φ) is maximised—when the whole constrains its own past and future states more than its parts do. The measure that purportedly identifies consciousness also determines which physical systems count as genuine wholes. This links the metaphysics of composition directly to the science of consciousness.
-
-The convergence of these independent approaches is striking. They share no common premises, invoke different argumentative strategies, and emerge from different philosophical traditions. Yet each places consciousness at the centre of what makes a genuine composite object. The extended case that this convergence supports dualism is developed in [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/).
+The convergence is striking because these programmes share no common premises and emerge from different traditions, yet each lands in the neighbourhood of consciousness, or the integrated structure associated with it, as central to genuine composition. How much evidential weight that carries—and how the McQueen–Tsuchiya decoupling and the live rival accounts qualify it—is the extended argument of [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/).
 
 ## Why Consciousness Cannot Be Composed
 

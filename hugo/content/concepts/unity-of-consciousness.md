@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-06-02 23:34:41+00:00
+ai_modified: 2026-06-03 06:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -44,6 +44,7 @@ related_articles:
 - '[[quantum-holism-and-phenomenal-unity]]'
 - '[[emergence-void]]'
 - '[[process-and-consciousness]]'
+- '[[composition-and-consciousness]]'
 title: The Unity of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -76,6 +77,8 @@ Phenomenal unity is the core of the unity problem. Bayne and Chalmers (2003) ana
 **Conjoint phenomenology**: When experiences are subsumed, there is a phenomenology of having them together—a "what it is like" to experience seeing-and-hearing simultaneously. Consider tasting wine. Sweetness, acidity, tannin, and aroma are experienced not as four separate qualia that happen to coincide but as one integrated flavour with its own character. The whole is not the sum of its parts.
 
 This makes phenomenal unity a mereological claim: experiences are *parts* of larger experiences (Revonsuo 2006; Tye 2003). The total experience has sub-experiences as parts, but the whole has phenomenal properties no part possesses individually.
+
+Subsumptive unity describes phenomenal part-whole *structure*—an experience having internal articulation, or being subsumed under a larger experience—and that is a different claim from composition out of independently existing subjects. Saying that visual and auditory experience are parts of one encompassing experience does not say that two free-standing subjects, or two independent micro-experiences, were summed to produce it. The [metaphysics of composition](/concepts/composition-and-consciousness/) argues precisely that consciousness is *non-compositional* in the second sense: subjects and experiences do not assemble from independent experiential parts. The two theses are compatible because they concern different relations—structure within one experience versus subject-summing across many—and the encompassing experience here is given as a whole whose parts are abstracted from it, not built up to it.
 
 ### Phenomenal vs Access Unity
 
@@ -164,6 +167,7 @@ The unity of consciousness connects directly to The Unfinishable Map's [foundati
 - [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/) — Comprehensive treatment including constitutional thesis and circularity problem
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Unity at the boundaries of experience
 - [invertebrate-consciousness-as-interface-test](/topics/invertebrate-consciousness-as-interface-test/) — The octopus as the vivid biological test of phenomenal vs access unity
+- [composition-and-consciousness](/concepts/composition-and-consciousness/) — Why phenomenal part-whole structure does not entail subject-summing: the non-compositionality thesis
 
 ## References
 
