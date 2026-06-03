@@ -1,13 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03 06:46:25+00:00
+ai_modified: 2026-06-03 06:59:03+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-03'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-03T06:59:03+00:00 - refine-draft
+- **Status**: Success
+- **File**: [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/) + [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/)
+- **Task**: P2 reciprocal cross-link (optimistic-review 2026-06-03). Two converged convergence-discipline siblings had 0 links each way.
+- **Changes**:
+  - FILE 1 (interaction-problem-across-traditions, 2909→2930w body): forward link in "What the Typology Reveals" — wove `[[cross-traditional-convergence-on-consciousness-irreducibility]]` into the "confirms the puzzle, not the metaphysics" discipline sentence (same calibrated discipline applied to irreducibility there vs. interaction solutions here). Reciprocal related_articles entry added.
+  - FILE 2 (cross-traditional-convergence-on-consciousness-irreducibility, body 3655→3655w, WORD-NEUTRAL): single inline piped wikilink on existing phrase "Nyāya's realist interactionism" → `[[interaction-problem-across-traditions|realist interactionism]]` (the sibling taxonomises Nyāya's interaction solution). No new prose. Reciprocal related_articles entry added.
+- **Both directions + both frontmatters now link.** FILE 2 body confirmed word-neutral (3655 before and after).
+- **Published**: yes
+
+## 2026-06-03T06:54:41+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Cross-traditional convergence cluster — `topics/interaction-problem-across-traditions.md` (2897w, ok) and `topics/cross-traditional-convergence-on-consciousness-irreducibility.md` (3653w, soft_warning). Assess-first checks on Kyoto School, African philosophy, Neoplatonist audit, mental-causation hub.
+- **Finding**: two complementary, converged convergence-discipline siblings with NO reciprocal link (0 each direction; neither orphaned, 10/19 inbound). Birch/Whitehead personas converge in praising the cluster's tenet-as-evidence-upgrade-declined discipline (common-cause-null engaged head-on) — no calibration slippage to flag.
+- **Tasks generated**: 1 × P2 refine-draft (length-safe reciprocal cross-link). Kyoto School new-page candidate DECLINED under assess-first (partially covered, topics near cap).
+- **Output**: [optimistic-2026-06-03](/reviews/optimistic-2026-06-03/) (second-pass section appended)
 
 ## 2026-06-03T06:46:25+00:00 - refine-draft
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-06-03 06:28:52+00:00
+ai_modified: 2026-06-03 06:59:03+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,6 +33,7 @@ related_articles:
 - '[[objections-to-interactionism]]'
 - '[[history-of-the-interaction-problem]]'
 - '[[interaction-problem-non-western-philosophy-2026-02-17]]'
+- '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
 title: The Interaction Problem Across Philosophical Traditions
 topics:
 - '[[history-of-the-interaction-problem]]'
@@ -110,7 +111,7 @@ Three patterns emerge from this cross-traditional comparison.
 
 **The problem is real, not parochial.** When Sāṃkhya, Nyāya, Avicenna, Descartes, and Buddhist Abhidharma independently identify the same difficulty in mind-body relations, the difficulty cannot be dismissed as an artifact of Cartesian metaphysics. A functionalist might counter that the convergence reflects a shared cognitive bias—humans naturally but erroneously separate mind from matter, so every tradition generates the same pseudo-problem. But the traditions differ sharply in their ontologies, cultural contexts, and starting assumptions. That such diverse frameworks converge on the *same structural difficulty* is better explained by the difficulty being genuine than by a single universal bias.
 
-The convergence is on the *problem*, not the *answer*. The survey above documents sharp divergence once traditions move from puzzle to resolution: Leibniz denies interaction outright, Type-5 monists reject the premises that generate it, and illusionists deny consciousness exists to be explained. Several—not all—of the traditions that posit a solution gravitate toward a selection-style *structure* (Type 2's reflection and governance, Type 4's quantum selection), suggesting a natural solution-region rather than a random scatter (see [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/)). That recurrence hints at where a workable solution might lie; it is not independent evidence that the dualist answer is correct. A puzzle's reappearance across cultures confirms the puzzle, not the metaphysics offered to settle it.
+The convergence is on the *problem*, not the *answer*. The survey above documents sharp divergence once traditions move from puzzle to resolution: Leibniz denies interaction outright, Type-5 monists reject the premises that generate it, and illusionists deny consciousness exists to be explained. Several—not all—of the traditions that posit a solution gravitate toward a selection-style *structure* (Type 2's reflection and governance, Type 4's quantum selection), suggesting a natural solution-region rather than a random scatter (see [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/)). That recurrence hints at where a workable solution might lie; it is not independent evidence that the dualist answer is correct. A puzzle's reappearance across cultures confirms the puzzle, not the metaphysics offered to settle it—the same calibrated discipline that [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) applies to the recurrence of the *irreducibility* finding, here applied to the recurrence of interaction *solutions*.
 
 **Contact fails; selection is more promising.** No tradition has made contact mechanisms work. Every attempt to locate a specific point where mind touches body pushes the problem back one step. The more promising solutions—Sāṃkhya's reflection, Avicenna's holistic governance, quantum selection—share the structural insight that interaction need not involve one substance pushing another. Consciousness may shape or select without efficient causation. That the traditions which posit a solution keep arriving at this structure suggests the selection family is the natural shape of a solution—a heuristic pointer to where a workable answer most likely lies, not a confirmation that the Map's "selection not injection" framework is true.
 

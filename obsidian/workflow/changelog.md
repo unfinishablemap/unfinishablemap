@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03T06:46:25+00:00
+ai_modified: 2026-06-03T06:59:03+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-03T06:59:03+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/interaction-problem-across-traditions]] + [[topics/cross-traditional-convergence-on-consciousness-irreducibility]]
+- **Task**: P2 reciprocal cross-link (optimistic-review 2026-06-03). Two converged convergence-discipline siblings had 0 links each way.
+- **Changes**:
+  - FILE 1 (interaction-problem-across-traditions, 2909→2930w body): forward link in "What the Typology Reveals" — wove `[[cross-traditional-convergence-on-consciousness-irreducibility]]` into the "confirms the puzzle, not the metaphysics" discipline sentence (same calibrated discipline applied to irreducibility there vs. interaction solutions here). Reciprocal related_articles entry added.
+  - FILE 2 (cross-traditional-convergence-on-consciousness-irreducibility, body 3655→3655w, WORD-NEUTRAL): single inline piped wikilink on existing phrase "Nyāya's realist interactionism" → `[[interaction-problem-across-traditions|realist interactionism]]` (the sibling taxonomises Nyāya's interaction solution). No new prose. Reciprocal related_articles entry added.
+- **Both directions + both frontmatters now link.** FILE 2 body confirmed word-neutral (3655 before and after).
+- **Published**: yes
 
 ## 2026-06-03T06:54:41+00:00 - optimistic-review
 - **Status**: Success
