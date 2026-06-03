@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-04-23 13:39:00+00:00
+ai_modified: 2026-06-03 17:14:31+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -96,7 +96,7 @@ Discovering these laws is an empirical project. It does not require reducing con
 
 ## The Explanatory Division of Labour
 
-Dualism clarifies rather than obscures the explanatory structure of consciousness research. Under physicalism, every aspect of consciousness must ultimately receive a physical explanation, and the persistent failure to explain phenomenal experience physically counts as a deficiency. Under dualism, the explanatory labour divides cleanly:
+Dualism clarifies rather than obscures the explanatory structure of consciousness research. Under physicalism, every aspect of consciousness must ultimately receive a physical explanation, and the persistent failure to explain phenomenal experience physically counts as a deficiency. Under dualism, the explanatory labour divides into distinct kinds of question:
 
 **Physical science explains** the neural mechanisms of perception, attention, memory, and behaviour — the "easy problems" of consciousness in Chalmers' taxonomy. These explanations are reductive and mechanistic. They are genuine and complete on their own terms.
 
@@ -112,7 +112,7 @@ This division does not mean giving up. It means recognising that different quest
 
 **"Psychophysical laws are just brute correlations."** All fundamental laws are, at bottom, brute. Why does mass curve spacetime? General relativity describes the relationship without explaining *why* it holds. Psychophysical laws would be in the same position — lawful regularities without deeper explanation. This is how fundamental science always terminates.
 
-**"The hard problem is an illusion."** Dennett and the illusionist school (Frankish, 2016) argue that phenomenal consciousness as philosophers conceive it does not exist — that the hard problem dissolves once we stop assuming qualia are what they seem. This article's framework presupposes the hard problem is genuine. The Map's response: the hard problem is not a theoretical posit but a report of what is directly given in experience. Denying it requires explaining away the very data that makes consciousness interesting — a move that shifts rather than solves the explanatory burden, since the [meta-problem](/concepts/meta-problem-of-consciousness/) of why consciousness *seems* hard remains even if the hard problem is declared illusory.
+**"The hard problem is an illusion."** Dennett and the illusionist school (Frankish, 2016) argue that phenomenal consciousness as philosophers conceive it does not exist — that the hard problem dissolves once we stop assuming qualia are what they seem. This article's framework presupposes the hard problem is genuine. The Map's response leads with a debt the illusionist still owes on their own terms: declaring the hard problem illusory does not dissolve the [meta-problem](/concepts/meta-problem-of-consciousness/) of why consciousness *seems* so hard, since the illusionist grants that the seeming exists and must then explain why it is robust enough, and resistant enough to deflation, that even illusionists are obliged to theorise it. The explanatory burden is shifted, not retired. Underlying the Map's confidence that the seeming tracks something real is the dualist's starting intuition that the hard problem is a report of what is directly given in experience rather than a theoretical posit — but that intuition is the starting point, not the load-bearing rebuttal; the rebuttal is that the meta-problem survives the deflation the illusionist proposes.
 
 **"Dualism provides no mechanism."** The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes a candidate mechanism: consciousness biases otherwise indeterminate quantum outcomes in neural systems. Whether this specific proposal is correct, the demand for a mechanism is legitimate and dualism-compatible. The mechanism connects two domains; it need not reduce one to the other.
 

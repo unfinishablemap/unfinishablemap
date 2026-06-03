@@ -9,6 +9,22 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T17:14:31+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-scientific-explanation](/concepts/consciousness-and-scientific-explanation/)
+- **Original score**: mature/converged (surgical fix, no full review)
+- **Changes**: Reframed the "hard problem is an illusion" rebuttal (Objections Considered) per pessimistic-review 2026-06-03. The old reply led with the bare "directly given in experience" claim, which begs the question against Dennett/Frankish (the felt directness of givenness is exactly what they deny). Now LEADS with the explanatory-burden asymmetry the article already half-made: declaring the hard problem illusory does not dissolve the meta-problem; the illusionist grants the seeming exists and still owes an account of why it is robust and deflation-resistant enough that even illusionists must theorise it — engaging the opponent on grounds they accept (Mode One; showing an unpaid debt on their own terms — label not written into body). DEMOTED the "directly given" assertion from load-bearing to a stated starting intuition. Kept the [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) cross-link. Optional polish: "divides cleanly" → "divides into distinct kinds of question".
+- **Length**: 2454w → 2428w (length-neutral, well under 2500 soft threshold)
+- **Untouched**: MQI testability paragraph (~line 59) preserved verbatim with all hedges, per do-not-flatten flag.
+- **Published**: yes
+
+## 2026-06-03T17:09:49+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [consciousness-and-scientific-explanation](/concepts/consciousness-and-scientific-explanation/) (oldest by ai_modified; last pessimistic-reviewed 2026-02-23)
+- **Findings**: 1 medium (illusionism rebuttal restates the disputed premise — begs the question against Dennett/Frankish), rest low-value polish. NO critical issues; NO boundary-substitution; NO label-leakage; testability claims correctly hedged (not over-claims). Citations all canonical+metadata-correct — no web-verify flag. Altered-state symmetry audit N/A (supportive-cluster gate fails).
+- **Tasks written**: 1× P2 refine-draft (top of Active Tasks)
+- **Output**: [pessimistic-2026-06-03-consciousness-and-scientific-explanation](/reviews/pessimistic-2026-06-03-consciousness-and-scientific-explanation/)
+
 ## 2026-06-03T16:55:09+00:00 - deep-review
 - **Status**: Success
 - **File**: [reconsolidation-as-selection-window](/topics/reconsolidation-as-selection-window/)

@@ -5,6 +5,15 @@ ai_modified: 2026-06-03T16:40:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T17:14:31+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/consciousness-and-scientific-explanation]]
+- **Original score**: mature/converged (surgical fix, no full review)
+- **Changes**: Reframed the "hard problem is an illusion" rebuttal (Objections Considered) per pessimistic-review 2026-06-03. The old reply led with the bare "directly given in experience" claim, which begs the question against Dennett/Frankish (the felt directness of givenness is exactly what they deny). Now LEADS with the explanatory-burden asymmetry the article already half-made: declaring the hard problem illusory does not dissolve the meta-problem; the illusionist grants the seeming exists and still owes an account of why it is robust and deflation-resistant enough that even illusionists must theorise it — engaging the opponent on grounds they accept (Mode One; showing an unpaid debt on their own terms — label not written into body). DEMOTED the "directly given" assertion from load-bearing to a stated starting intuition. Kept the [[meta-problem-of-consciousness]] cross-link. Optional polish: "divides cleanly" → "divides into distinct kinds of question".
+- **Length**: 2454w → 2428w (length-neutral, well under 2500 soft threshold)
+- **Untouched**: MQI testability paragraph (~line 59) preserved verbatim with all hedges, per do-not-flatten flag.
+- **Published**: yes
+
 ## 2026-06-03T17:09:49+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[concepts/consciousness-and-scientific-explanation]] (oldest by ai_modified; last pessimistic-reviewed 2026-02-23)
