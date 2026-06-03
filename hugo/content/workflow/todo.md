@@ -38,17 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt intentionality calibration in self-stultification-as-master-argument
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/self-stultification-as-master-argument.md
-- **Notes**: From topic-concept anchoring audit 2026-06-03. The topic article over-claims relative to its anchor concept [intentionality](/concepts/intentionality/); failed checks: hedge_density, strong_assertions.
-  - hedge density 2.64/kw is below 60% of anchor (4.60/kw)
-  - strong-assertion density 1.32/kw exceeds 1.5× anchor (0.58/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-03
-
 ### P2: Deep-review topics/epistemology-of-convergence-arguments.md (18-day gap; assess condense-eligibility, do NOT blind-condense)
 - **Type**: deep-review
 - **Status**: pending
@@ -1524,6 +1513,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Adopt intentionality calibration in self-stultification-as-master-argument
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-03. The topic article over-claims relative to its anchor concept [intentionality](/concepts/intentionality/); failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-06-03: Adopt substance-property-dualism calibration in four-quadrant-dualism-taxonomy
 - **Type**: refine-draft
