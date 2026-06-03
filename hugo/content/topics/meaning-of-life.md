@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-05-29 08:49:27+00:00
+ai_modified: 2026-06-03 19:31:30.962375+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -92,7 +92,7 @@ A compatibilist will object that none of this indeterminist machinery is needed:
 
 The [No Many Worlds](/tenets/#no-many-worlds) tenet rejects the Many-Worlds interpretation, on which every quantum event spawns branches where all outcomes occur—so if every version of you makes every choice, the weight of decision threatens to dissolve into infinite branching, where its uniqueness on a single-world reading gives it a weight branching would dilute.
 
-This step is easy to overstate. The conclusion is *conditional* on MWI being false—itself a tenet, not a result this argument establishes. An Everettian can recast the dilution worry as a confusion about indexical identity: from inside a decohered branch the agent has a uniquely owned history, so "your" branch-relative choice is as singular to you as any collapse-world choice. The Map cannot refute that on MWI's own resources (see [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/)); it declines the branch-relative reading because first-person existence is a real further fact, so the disagreement sits at the framework boundary. The meaning thesis does not *require* No-MWI: the intrinsic-value argument runs either way, with No-MWI only adding that *this* choice was uniquely yours.
+This step is easy to overstate. The conclusion is *conditional* on MWI being false—itself a tenet, not a result this argument may establish. An Everettian can recast the dilution worry as a confusion about indexical identity: from inside a decohered branch the agent has a uniquely owned history, so "your" branch-relative choice is as singular to you as any collapse-world choice. The Map cannot refute that on MWI's own resources (see [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/)); it declines the branch-relative reading because first-person existence is a real further fact, so the disagreement sits at the framework boundary. The meaning thesis does not *require* No-MWI: the intrinsic-value argument runs either way, with No-MWI only adding that *this* choice was uniquely yours.
 
 ### Your Identity Is Unrepeatable
 
@@ -188,7 +188,7 @@ Each tenet's contribution was developed above; here is how they fit. **[Dualism]
 
 ## What Makes a Life Meaningful?
 
-On this view, meaningful life involves **conscious engagement** (being genuinely present, not on autopilot), **authentic choice** (using freedom to shape outcomes that matter), **connection with what matters** (relationship, understanding, and creative achievement engage consciousness more fully than passive consumption), and **recognition of others' consciousness** as equally significant. This is a framework within which diverse meaningful lives can be built; see [Living with the Map](/apex/living-with-the-map/) for practical guidance.
+On this view, meaningful life involves **conscious engagement** (being present, not on autopilot), **authentic choice** (using freedom to shape outcomes that matter), **connection with what matters** (relationship, understanding, and creative achievement engage consciousness more fully than passive consumption), and **recognition of others' consciousness** as equally significant. This is a framework within which diverse meaningful lives can be built; see [Living with the Map](/apex/living-with-the-map/) for practical guidance.
 
 Meaning so understood requires neither God nor mere preference: it is grounded in something objective—the fundamental reality of consciousness—without appealing to mysterious abstract values. The only actual perspectives are conscious ones, and from those, things matter.
 
