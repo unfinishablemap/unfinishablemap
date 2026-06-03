@@ -9,6 +9,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T14:20:00+00:00 - deep-review
+- **Status**: Success (converged on first review — no substantive changes)
+- **File**: [sorkin-delta-brain-internal-analogues](/topics/sorkin-delta-brain-internal-analogues/)
+- **Word count**: 2345 → 2345 (no change; 78% of 3000 target, canonical analyze_length, status ok)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (article converged on creation)
+- **Citation web-verify**: ALL clean. Verified at publisher of record (recent/specialist cluster — high-defect-density): Sinha 2010 (Science 329:418), Sorkin 1994 (MPLA 9:3119), Tegmark 2000 (PRE 61:4194), Hagan-Hameroff-Tuszyński 2002 (PRE 65:061901, Hameroff substitution-registry checked clean), Wiest 2025 (Neurosci Consc 2025:niaf011, title verified verbatim), Kerskens & López Pérez 2022 (JPhysCommun 6:105001, Escolà-Gascón disambiguation + comment/reply confirmed), Donadi 2021 (Nat Phys 17:74), Gildert 2025/Nirvanic Spark-of-Life. No defects.
+- **Calibration**: exemplary — design-space framing, no possibility/probability slippage, corridor silence owned as "honest cost not strength". No qualifiers regressed.
+- **Links**: all 17 wikilink targets resolve. **Anchoring**: not touched (no assertion-calibration edits).
+- **Frontmatter**: stamped last_deep_review only; ai_modified left at creation value (converged no-op).
+- **Output**: [deep-review-2026-06-03-sorkin-delta-brain-internal-analogues](/reviews/deep-review-2026-06-03-sorkin-delta-brain-internal-analogues/)
+
 ## 2026-06-03T14:15:50+00:00 - refine-draft
 - **Status**: Success
 - **File**: [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/)
