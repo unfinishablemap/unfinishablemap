@@ -5,6 +5,19 @@ ai_modified: 2026-06-03T01:50:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T02:37:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/meaning-void]]
+- **Word count**: 2076 → 2081 (+5; net-neutral; voids soft 2000 / hard 3000; 924 under hard)
+- **Critical issues addressed**: 1 (de-quoted unverbatim SEP "Mental Representation" fragment — `"no widely accepted solution"` is NOT verbatim in the live entry; substance supported, quote marks unwarranted; condense-truncation introduced it. Paraphrased.)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral; converged article)
+- **Condense-calibration audit**: PASS — all POSITED-not-proven hedges survived the 3073→2076 condense ("suggestive rather than decisive", "physicalist alternative remains open", "speculative possibility to hold lightly", "do not by themselves prove the void irreducible"). No qualifier regression.
+- **Quote integrity**: condense removed the long verbatim author quotes (Gendlin/Levine/long-SEP); body now paraphrase-bearing. Only residual attributed quote was the unverbatim SEP fragment, now fixed.
+- **Citations web-verified at publisher**: Limanowski & Friston (2018) Frontiers in Psychology 9:643 — VERIFIED (Limanowski real first author, not famous-name swap; DOI/article-id correct); McGinn (1989) Mind 98(391):349-366 — VERIFIED; McGinn "Double Intentionality" (colinmcginn.net) — VERIFIED real piece; Searle (1980) BBS 3:417 — VERIFIED. Remaining canonical group metadata untouched by condense.
+- **Reasoning-mode**: physicalism engagement = Mode Three (boundary-marking), executed honestly; no boundary-substitution; no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-03-meaning-void]]
+
 ## 2026-06-03T02:27:05+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[topics/empirical-phenomena-mental-causation]], [[concepts/bidirectional-interaction]], [[research/clinical-neuroplasticity-bidirectional-causation-2026-03-21]]

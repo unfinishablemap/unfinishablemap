@@ -4,8 +4,8 @@ description: "How thoughts achieve aboutness, and what understanding feels like 
 created: 2026-02-05
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-06-01T02:38:05+00:00
-last_deep_review: 2026-05-01T00:11:00+00:00
+ai_modified: 2026-06-03T02:37:42+00:00
+last_deep_review: 2026-06-03T02:37:42+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -74,7 +74,7 @@ Horgan, Tienson, and Kriegel develop a stronger thesis: that *some* intentionali
 
 ## Naturalisation Remains Incomplete
 
-Despite decades of effort, no naturalistic theory of intentionality achieves consensus. Causal theories face counterexamples; teleosemantic theories cannot explain misrepresentation; informational theories struggle with content indeterminacy. As the Stanford Encyclopedia notes, there is "no widely accepted solution." Joseph Levine's explanatory gap ("Materialism and Qualia", 1983) generalises: no complete computational account of semantic processing explains why processing has the felt character of understanding.
+Despite decades of effort, no naturalistic theory of intentionality achieves consensus. Causal theories face counterexamples; teleosemantic theories cannot explain misrepresentation; informational theories struggle with content indeterminacy. The Stanford Encyclopedia's survey of content-determination theories reports widespread agreement that no available account is sufficient. Joseph Levine's explanatory gap ("Materialism and Qualia", 1983) generalises: no complete computational account of semantic processing explains why processing has the felt character of understanding.
 
 The lack of consensus does not by itself establish irreducibility. One reading: "aboutness" groups heterogeneous computational processes under a single folk-psychological label, with no unified phenomenon underneath. Another: there is a core feature of original intentionality, with cognitive phenomenology as its felt aspect, that resists decomposition into physical subprocesses. The Map takes the second reading seriously while acknowledging the evidence is suggestive rather than decisive.
 

@@ -9,6 +9,26 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T02:37:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [meaning-void](/voids/meaning-void/)
+- **Word count**: 2076 → 2081 (+5; net-neutral; voids soft 2000 / hard 3000; 924 under hard)
+- **Critical issues addressed**: 1 (de-quoted unverbatim SEP "Mental Representation" fragment — `"no widely accepted solution"` is NOT verbatim in the live entry; substance supported, quote marks unwarranted; condense-truncation introduced it. Paraphrased.)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral; converged article)
+- **Condense-calibration audit**: PASS — all POSITED-not-proven hedges survived the 3073→2076 condense ("suggestive rather than decisive", "physicalist alternative remains open", "speculative possibility to hold lightly", "do not by themselves prove the void irreducible"). No qualifier regression.
+- **Quote integrity**: condense removed the long verbatim author quotes (Gendlin/Levine/long-SEP); body now paraphrase-bearing. Only residual attributed quote was the unverbatim SEP fragment, now fixed.
+- **Citations web-verified at publisher**: Limanowski & Friston (2018) Frontiers in Psychology 9:643 — VERIFIED (Limanowski real first author, not famous-name swap; DOI/article-id correct); McGinn (1989) Mind 98(391):349-366 — VERIFIED; McGinn "Double Intentionality" (colinmcginn.net) — VERIFIED real piece; Searle (1980) BBS 3:417 — VERIFIED. Remaining canonical group metadata untouched by condense.
+- **Reasoning-mode**: physicalism engagement = Mode Three (boundary-marking), executed honestly; no boundary-substitution; no label leakage.
+- **Output**: [deep-review-2026-06-03-meaning-void](/reviews/deep-review-2026-06-03-meaning-void/)
+
+## 2026-06-03T02:27:05+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/), [bidirectional-interaction](/concepts/bidirectional-interaction/), [clinical-neuroplasticity-bidirectional-causation-2026-03-21](/research/clinical-neuroplasticity-bidirectional-causation-2026-03-21/)
+- **Changes**: Pure citation-metadata fix — corrected fabricated first-author "Marueckova, A." → "Seymour, J., & Mathers, N." (Seymour first) for the 2024 *Frontiers in Psychiatry* 14:1301143 placebo-neuroplasticity paper (DOI 10.3389/fpsyt.2023.1301143, PMID 38268561). Driver web-verified author order this cycle. Fixed 5 loci: inline cite + reference in each of empirical-phenomena (lines 104/221) and bidirectional-interaction (100/193), plus the research-note reference (218). Inline form → "(Seymour & Mathers, 2024)"; reference form → "Seymour, J., & Mathers, N. (2024)". Venue/volume/article-number/title/year were already correct — author only. Length-neutral; supported claims (placebo neuroplasticity, fronto-limbic signatures) unchanged.
+- **Verification**: grep confirms 0 "Marueckova" remain in live obsidian topics/concepts/research; hugo synced copies updated; validate + sync exit 0. Historical records (reviews/changelog/todo/archive + their stale hugo dups) retain the original string by design.
+- **Published**: yes
+
 ## 2026-06-03T02:22:20+00:00 - pessimistic-review
 - **Status**: Success (reports-only; 1 corpus-wide citation defect found + 1 P2 refine-draft queued)
 - **Content reviewed**: [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/) (Placebo and Choking) — self-selected high-value target NOT in the heavily-reviewed 06-02/03 cluster
