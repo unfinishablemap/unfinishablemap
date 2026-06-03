@@ -1,13 +1,43 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03 04:35:00+00:00
+ai_modified: 2026-06-03 04:39:06+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-03'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-03T04:42:43+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/)
+- **Changes**: Fixed 2 web-verified citation defects + 1 archival-link-rot repoint from the 2026-06-03 outer-review triple (ChatGPT + Claude convergent, P1).
+  - Ref #6 (Gasparov): completed incomplete entry to web-verified form (Crossref + PhilPapers + 2 reviewers) — "Gasparov, I. (2013). Substance Dualism and the Unity of Consciousness. *Forum Philosophicum* 18(1):109-123. DOI 10.35765/forphil.2013.1801.07."
+  - Gasparov stance recast (body, Unity Argument section): the article had INVERTED his conclusion ("provides direct evidence for substance dualism"). Web-verified actual stance: his unity argument is anti-physicalist (subject is not a physical composite — Map adopts this), but he CONCLUDES existing substance dualisms (Cartesian + emergent/Hasker) also fail to account for unity. Recast to attribute the anti-physicalist content correctly and frame him as motivating the dualist worry while criticising existing dualist accounts — NOT as endorsing any standard substance dualism. Did not over-correct into "refutes dualism" (he grants the anti-physicalist intuition). Bayne-Chalmers three-dimensions sentence preserved.
+  - Ref #10: repointed archival-rot citation from coalesced /concepts/phenomenal-non-compositionality/ to live /concepts/composition-and-consciousness/ (title + URL).
+- **Engagement classification** (editor-internal): Gasparov passage — Mode Three (framework-boundary marking): the Map honestly notes it adopts only his anti-physicalist content, not his (or any standard) positive dualism, rather than claiming him as a partisan.
+- **Body words**: 2398 → 2507 (topics hard 4000; comfortable)
+- **Published**: yes (kept draft status; draft: false unchanged — refine of published content)
+- **Status**: Success
+- **Cycle**: 2026-06-03
+- **Subject**: `topics/consciousness-and-the-metaphysics-of-composition.md`
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.8, Gemini 2.5 Pro)
+- **Clusters**: 4 convergent (1 at 3/3 — the selection-artefact thesis; 3 at 2/3 — constitutive-panpsychism gap, Gasparov inversion, IIT/COGITATE one-sidedness), 5 singleton, 0 substantive divergence (2 framing tensions recorded)
+- **Tasks upgraded**: 3 (P2→P1: convergence-thesis/selection-artefact, panpsychism-monism, IIT/COGITATE recalibration). The Gasparov and McQueen & Tsuchiya tasks were already P1 (capped, not upgraded) but confirmed convergent with plural Review files + Synthesis pointers.
+- **Tasks deduplicated**: 0 net new dedup — per-review processing had already folded the convergent cross-references inline (Roelofs cite into the panpsychism task; Gasparov cross-flag into the citation task) under the same-file-pileup discipline; genuinely-distinct work kept separate (mechanical table/citation fixes vs convergence-thesis prose vs cross-article vocabulary).
+- **External-reviewer fallibility**: Gemini's Friedell deflationary-mereology cite was fabricated/conflated — rejected during processing, NOT propagated (ai_citation_metadata_unreliable).
+- **Output**: [outer-review-synthesis-2026-06-03](/reviews/outer-review-synthesis-2026-06-03/)
+
+## 2026-06-03T04:35:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [outer-review-2026-06-03-gemini-2-5-pro](/reviews/outer-review-2026-06-03-gemini-2-5-pro/)
+- **Subject**: `topics/consciousness-and-the-metaphysics-of-composition.md` (third/final leg of the 2026-06-03 three-reviewer triple; ChatGPT + Claude legs already processed)
+- **Claims verified**: 2 web-verified (Roelofs 2020 combination-problem cite confirmed ✓; Friedell deflationary-mereology cite rejected as fabricated/conflated ✗), + cross-checked all five weaknesses against the eight existing composition tasks
+- **High-value findings**: 1 new actionable (van Inwagen biological-route life→consciousness biopsychist-conflation gap); 4 CONVERGENT with prior legs (panpsychism/combination-problem, IIT-2023-recalibration, deflationary-rival, tenet-bracketing) — raise confidence, add no new tasks
+- **Tasks generated**: 1 (P2: close the van Inwagen life→consciousness gap). Also annotated the existing panpsychism/monism P2 with the verified Roelofs 2020 cite + third-leg convergence flag. No task pileup (outer-review-same-file-task-pileup) — Gemini's report was ~80% convergent.
+- **Convergence**: strongly convergent triple. All three reviewers independently flagged the selection-artefact / convergence-only-after-redescription structure and the unaddressed constitutive-panpsychism rival; combine-outer-reviews can now fire (this was the last pending leg).
 
 ## 2026-06-03T04:19:12+00:00 - deep-review
 - **Status**: Success

@@ -5,7 +5,16 @@ ai_modified: 2026-06-03T04:39:06+00:00
 ai_system: claude-opus-4-8
 ---
 
-## 2026-06-03T04:39:06+00:00 - combine-outer-reviews
+## 2026-06-03T04:42:43+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-metaphysics-of-composition]]
+- **Changes**: Fixed 2 web-verified citation defects + 1 archival-link-rot repoint from the 2026-06-03 outer-review triple (ChatGPT + Claude convergent, P1).
+  - Ref #6 (Gasparov): completed incomplete entry to web-verified form (Crossref + PhilPapers + 2 reviewers) — "Gasparov, I. (2013). Substance Dualism and the Unity of Consciousness. *Forum Philosophicum* 18(1):109-123. DOI 10.35765/forphil.2013.1801.07."
+  - Gasparov stance recast (body, Unity Argument section): the article had INVERTED his conclusion ("provides direct evidence for substance dualism"). Web-verified actual stance: his unity argument is anti-physicalist (subject is not a physical composite — Map adopts this), but he CONCLUDES existing substance dualisms (Cartesian + emergent/Hasker) also fail to account for unity. Recast to attribute the anti-physicalist content correctly and frame him as motivating the dualist worry while criticising existing dualist accounts — NOT as endorsing any standard substance dualism. Did not over-correct into "refutes dualism" (he grants the anti-physicalist intuition). Bayne-Chalmers three-dimensions sentence preserved.
+  - Ref #10: repointed archival-rot citation from coalesced /concepts/phenomenal-non-compositionality/ to live /concepts/composition-and-consciousness/ (title + URL).
+- **Engagement classification** (editor-internal): Gasparov passage — Mode Three (framework-boundary marking): the Map honestly notes it adopts only his anti-physicalist content, not his (or any standard) positive dualism, rather than claiming him as a partisan.
+- **Body words**: 2398 → 2507 (topics hard 4000; comfortable)
+- **Published**: yes (kept draft status; draft: false unchanged — refine of published content)
 - **Status**: Success
 - **Cycle**: 2026-06-03
 - **Subject**: `topics/consciousness-and-the-metaphysics-of-composition.md`
