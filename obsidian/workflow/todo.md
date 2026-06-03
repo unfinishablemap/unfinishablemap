@@ -408,13 +408,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-05-11
 
-### P2: Cross-link concession-convergence and common-cause-null against the convergence article's three new structural commitments
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-05-10 (Medium Priority). The convergence argument's line 100 names the methodology version of the common-cause objection ("what look like independent considerations are one observation read many times") and references [[concepts/concession-convergence]] and [[project/common-cause-null]] in its further-reading list. Cross-review should: (a) verify the concession-convergence article's catalogue of physicalist concessions is structurally connected to the convergence argument's *positive* convergence (concession-convergence shows physicalism retreating; convergence-from-arguments shows independent routes converging — together they form a two-sided argument); (b) verify the common-cause-null discipline is operating at the convergence article's three structural commitments — the Cluster 3 binding-problem prong is a successful common-cause-null result (the unity prong's third-person establishability defeats the methodology-version common-cause objection); the type-specificity disanalogy is similarly establishable from the structure of the explananda independently of the convergence argument's conclusion. Short scope (~200–400 words touched across two articles). Tenet alignment: methodological + [[tenets#^dualism|Dualism]]. See [[reviews/optimistic-2026-05-10]].
-- **Source**: optimistic-review
-- **Generated**: 2026-05-10
-
 ### P2: Write topic article on Reconsolidation as Selection-Window
 - **Type**: expand-topic
 - **Status**: pending
@@ -1253,6 +1246,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Cross-link concession-convergence and common-cause-null against the convergence article's three new structural commitments
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic-2026-05-10 (Medium Priority). The convergence argument's line 100 names the methodology version of the common-cause objection ("what look like independent considerations are one observation read many times") and references [[concepts/concession-convergence]] and [[project/common-cause-null]] in its further-reading list. Cross-review should: (a) verify the concession-convergence article's catalogue of physicalist concessions is structurally connected to the convergence argument's *positive* convergence (concession-convergence shows physicalism retreating; convergence-from-arguments shows independent routes converging — together they form a two-sided argument); (b) verify the common-cause-null discipline is operating at the convergence article's three structural commitments — the Cluster 3 binding-problem prong is a successful common-cause-null result (the unity prong's third-person establishability defeats the methodology-version common-cause objection); the type-specificity disanalogy is similarly establishable from the structure of the explananda independently of the convergence argument's conclusion. Short scope (~200–400 words touched across two articles). Tenet alignment: methodological + [[tenets#^dualism|Dualism]]. See [[reviews/optimistic-2026-05-10]].
 
 ### ✓ 2026-06-03: Write topic article on Bidirectional Interaction as Positive Selection Mechanism
 - **Type**: expand-topic
