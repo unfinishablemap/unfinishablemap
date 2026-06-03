@@ -499,13 +499,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-28
 
-### P2: Expand treatment of phenomenal concepts strategy and MWI indexical objection in materialism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the phenomenal concepts strategy (Loar, Papineau, Balog) gets dismissive four-sentence treatment despite being the most sophisticated materialist response. The MWI indexical objection is question-begging—the indexical question arises for every theory, not just MWI. Engage with Saunders/Wallace on personal identity under MWI. See pessimistic-2026-03-28-c.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-28
-
 ### P2: Engage with QBism and expand unfalsifiability discussion in completeness-in-physics-under-dualism.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1073,6 +1066,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Expand treatment of phenomenal concepts strategy and MWI indexical objection in materialism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the phenomenal concepts strategy (Loar, Papineau, Balog) gets dismissive four-sentence treatment despite being the most sophisticated materialist response. The MWI indexical objection is question-begging—the indexical question arises for every theory, not just MWI. Engage with Saunders/Wallace on personal identity under MWI. See pessimistic-2026-03-28-c.md
 
 ### ✓ 2026-06-03: Address phenomenology-as-evidence gap and quantum Zeno overemphasis in consciousness-and-creativity.md
 - **Type**: refine-draft

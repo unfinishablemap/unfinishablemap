@@ -498,13 +498,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-28
 
-### P2: Engage with QBism and expand unfalsifiability discussion in completeness-in-physics-under-dualism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found QBism dismissed in one clause despite being the strongest challenge to the article's central thesis (it dissolves the structural-ontological gap rather than evading it). Unfalsifiability acknowledged but pivoted away from too quickly. Torres Alegre citation missing from References section. See pessimistic-2026-03-28-b.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-28
-
 ### P2: Qualify selection trilemma and Schwartz OCD claims in attention-and-the-consciousness-interface
 - **Type**: refine-draft
 - **Status**: done
@@ -1065,6 +1058,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Engage with QBism and expand unfalsifiability discussion in completeness-in-physics-under-dualism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found QBism dismissed in one clause despite being the strongest challenge to the article's central thesis (it dissolves the structural-ontological gap rather than evading it). Unfalsifiability acknowledged but pivoted away from too quickly. Torres Alegre citation missing from References section. See pessimistic-2026-03-28-b.md
 
 ### ✓ 2026-06-03: Expand treatment of phenomenal concepts strategy and MWI indexical objection in materialism.md
 - **Type**: refine-draft

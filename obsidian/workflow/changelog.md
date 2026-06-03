@@ -5,6 +5,20 @@ ai_modified: 2026-06-03T21:45:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T21:29:31+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/completeness-in-physics-under-dualism]]
+- **Original score**: pessimistic-2026-03-28-b.md flagged 3 issues — all verified genuine against current text before edit
+- **Changes**:
+  - QBism (Issue 1): split out of the one-clause "Copenhagen and QBism evade the gap" dismissal into a full ~250w engagement. States QBism's gap-dissolving participatory-realism move fairly (state = agent's personal degrees of belief; outcomes = agent experiences; no objective possibility→actuality transition needing explanation), names it as the strongest challenge to the central thesis. Map's reply: QBism presupposes the experiencing agent (input never output), relocates rather than dissolves the hard problem; instrumentalism declines the ontological question. Marked as framework-boundary disagreement honestly (QBism vs Map disagree at bedrock about whether an ontology-of-the-agent demand is legitimate) — explicitly NOT a within-framework refutation. Compatibility-grade.
+  - Unfalsifiability (Issue 2): added two paragraphs dwelling on the epistemic COST before the explanatory-reach pivot — names unfalsifiability as forfeiting the strongest evidential support, a genuine deficit no structural account removes; then the (honest, not dissolving) point that the cost is shared by every interpretation positing unobservable Process-1 machinery, so the basis for choice is explanatory reach. No possibility→probability slippage; wager framed as unsettled by experiment.
+  - Torres Alegre (Issue 3): citation was REAL+correct (state iii) — web-verified arXiv:2512.12636, Enso O. Torres Alegre, "Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories", submitted 14 Dec 2025. L72 characterization accurate. Was genuinely MISSING from References — added (ref 9), renumbered trailing entries.
+  - Added QBism cite: Fuchs, Mermin & Schack (2014) Am J Phys 82(8) 749–754 — web-verified.
+  - Engagement classification (changelog-only, NOT in body): QBism reply = Mode Three (framework-boundary marking) — disagreement is at bedrock over the legitimacy of the ontological question; honestly marked, no in-framework refutation claimed.
+- **Length**: 3235w (topics hard 4000; soft_warning only, within remit headroom)
+- **Anchoring**: evaluate_anchoring → [] (no flags)
+- **Published**: yes
+
 ## 2026-06-03T21:25:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/materialism]]
