@@ -4,7 +4,7 @@ description: "How consciousness constitutes temporal structure, how attention re
 created: 2026-01-23
 modified: 2026-04-15
 human_modified: null
-ai_modified: 2026-05-26T21:52:49+00:00
+ai_modified: 2026-06-03T13:41:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -155,7 +155,7 @@ A prepared musician hears the musical phrase differently from a passive listener
 
 ### "Now": The Kairos Moment
 
-The Greeks distinguished *chronos* (quantitative, sequential time) from *kairos* (the opportune moment, the right time for action). The kairos moment arrives with a felt quality of *ripeness*—the moment that was anticipated is now actual, and action flows from readiness into expression.
+The Greeks distinguished *chronos* (quantitative, sequential time) from *kairos* (the opportune moment, the right time for action). The kairos moment arrives with a felt quality of *ripeness*—the moment that was anticipated is now actual, and action flows from readiness into expression. The Map's dedicated [[kairos|treatment of the phenomenology of kairos]] consolidates this structure and gathers the cross-domain exhibits—musical, surgical, conversational, martial—where the same window recurs.
 
 The transition from "not yet" to "now" has the character of a phase transition: qualitatively different on each side. Before the moment, possibilities are held open. At the moment, they collapse into action. This phenomenal collapse—from open anticipation to committed action—mirrors what the Map describes at the quantum level, where [[time-collapse-and-agency|consciousness participates in the transition from superposition to definite outcome]].
 

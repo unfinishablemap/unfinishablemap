@@ -1,13 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03 13:24:21+00:00
+ai_modified: 2026-06-03 13:41:33+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-03'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-03T13:41:33+00:00 - expand-topic
+- **Status**: Success (RETARGETED topic→concept per assess-first)
+- **Topic**: Phenomenology of *kairos* timing-window structure
+- **Output**: [kairos](/concepts/kairos/)
+- **Word count**: 1888 (ok, concepts target 1500-2000)
+- **Decision**: RETARGET to concepts/kairos.md, NOT topics/ create. Three facts invalidated the topic-create default: (1) the task's own sequencing prereq (protention/kairos concept anchors) was UNMET — neither file existed, so this concept page now *satisfies* it; (2) the home topic temporal-consciousness-structure-and-agency was near-ceiling (3849w) and already had a dedicated kairos section — could not host the cross-domain expansion; (3) cap shifted: topics 264/270 (tight) vs concepts 253/270 (headroom). Concept node consolidates the distributed kairos treatment + carries the cross-domain exhibit catalogue (musical/surgical/conversational/martial-zanshin) + the phenomenal-unity claim.
+- **Calibration**: kairos-moment-as-interface-correlate POSITED not proven (Tenet 3), kept in a clearly-separated Relation-to-Site-Perspective section; constrain-vs-establish applied to the choking evidence; functionalist deflation named as a live competitor (evidential-status + direct-refutation disciplines). No editor-vocabulary labels in prose.
+- **Citations**: reused corpus-verified choking scholarship (Beilock & Carr 2001, Baumeister 1984, Masters 1992); kairos/chronos + archery etymology and zanshin web-confirmed (general scholarly knowledge, cited at conceptual not empirical-proof level — Sipiora & Baumlin 2002 for kairos rhetoric).
+- **Reciprocal cross-links**: added [kairos](/concepts/kairos/) back-links in temporal-consciousness-structure-and-agency.md (§Now: The Kairos Moment) and phenomenology-of-anticipation.md (§Agentive Protention) — no orphan. Both still under hard ceiling (3873w / 2734w).
+- **Based on research**: no (assessed against existing distributed coverage)
 
 ## 2026-06-03T11:25:00+00:00 - expand-topic
 - **Status**: Success

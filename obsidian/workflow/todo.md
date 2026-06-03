@@ -395,14 +395,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-05-15
 - **Completed**: 2026-05-18 (resolved 2026-05-19 by /replenish-queue)
 
-### P2: Write topic-tier article on the phenomenology of *kairos* timing-window structure
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review (2026-05-13). `topics/temporal-consciousness-structure-and-agency.md` §"The Structure of Timing Windows" (lines 146–170) introduces the three-phase phenomenology (not-yet / kairos / too-late) but the treatment is compressed within a broader topic article. The kairos-moment phenomenal-unification claim at line 162 is the article's strongest agency-related move and deserves dedicated treatment. The article should treat (a) the not-yet / kairos / too-late phenomenology with phenomenological exhibits beyond the choking-under-pressure case (musical performance; surgical timing; conversational rhythm; martial-arts *zanshin*; the Buddhist *bodhi* moment); (b) the empirical-corroboration pattern (choking under pressure as decompositional disruption of phenomenal-unity); (c) the agency-load-bearing claim that temporal selection reveals features of conscious experience that the simpler option-selection paradigm does not; (d) the tenet-routing through Bidirectional Interaction (kairos-moment as the phenomenological correlate of collapse-event) and Minimal Quantum Interaction (timing-window precision as constraint on the selection mechanism's temporal resolution). Target section: topics/ (~224/250, room available). Estimated scope: 2,500–3,200 words. Tenet alignment: Tenet 3 (Bidirectional Interaction — primary); Tenet 2 (Minimal Quantum Interaction — secondary); Tenet 1 (Dualism). **Sequencing**: ideally after `protention` and `kairos` concept pages land so the topic article can cite both as referential anchors.
-- **Review file**: `reviews/optimistic-2026-05-13.md`
-- **Source**: optimistic-review (2026-05-13)
-- **Generated**: 2026-05-13
-
 ### P2: Write apex synthesis "What Consciousness Adds at the Quantum Interface"
 - **Type**: apex-evolve
 - **Status**: pending
@@ -1347,6 +1339,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Write topic-tier article on the phenomenology of *kairos* timing-window structure
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review (2026-05-13). `topics/temporal-consciousness-structure-and-agency.md` §"The Structure of Timing Windows" (lines 146–170) introduces the three-phase phenomenology (not-yet / kairos / too-late) but the treatment is compressed within a broader topic article. The kairos-moment phenomenal-unification claim at line 162 is the article's strongest agency-related move and deserves dedicated treatment. The article should treat (a) the not-yet / kairos / too-late phenomenology with phenomenological exhibits beyond the choking-under-pressure case (musical performance; surgical timing; conversational rhythm; martial-arts *zanshin*; the Buddhist *bodhi* moment); (b) the empirical-corroboration pattern (choking under pressure as decompositional disruption of phenomenal-unity); (c) the agency-load-bearing claim that temporal selection reveals features of conscious experience that the simpler option-selection paradigm does not; (d) the tenet-routing through Bidirectional Interaction (kairos-moment as the phenomenological correlate of collapse-event) and Minimal Quantum Interaction (timing-window precision as constraint on the selection mechanism's temporal resolution). Target section: topics/ (~224/250, room available). Estimated scope: 2,500–3,200 words. Tenet alignment: Tenet 3 (Bidirectional Interaction — primary); Tenet 2 (Minimal Quantum Interaction — secondary); Tenet 1 (Dualism). **Sequencing**: ideally after `protention` and `kairos` concept pages land so the topic article can cite both as referential anchors.
 
 ### ✓ 2026-06-03: Write topic article "The Nirvanic Brain-Coupled-Qubit Architecture and Its Limits"
 - **Type**: expand-topic

@@ -4,7 +4,7 @@ description: "Protention—the forward-directed structure of present experience�
 created: 2026-02-09
 modified: 2026-02-10
 human_modified:
-ai_modified: 2026-05-19T00:00:00+00:00
+ai_modified: 2026-06-03T13:41:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -106,7 +106,7 @@ This is where the Map's commitment to [[tenets#^bidirectional-interaction|Bidire
 
 A useful distinction within protention itself: ordinary protention is openness *to* the about-to-arrive; **agentive protention** is openness *to act* at the about-to-arrive. The melody-listener and the tennis player both protend the next moment, but their protentional structures differ in kind. The listener's protention configures experience around an anticipated arrival; the player's protention configures experience around an anticipated *response* to that arrival. This active modulation is what the Map's treatment of [[temporal-consciousness-structure-and-agency#"Not Yet": Anticipatory Openness|temporal selection]] calls protention "in its specifically agentive mode."
 
-Agentive protention structures the approach to a *kairos* moment—the opportune time to act. The phenomenology of approach is not neutral waiting but ripening readiness: the felt gradient of "not yet" gathering toward a moment whose rightness will be recognised in the same stroke as the action that meets it. The companion article on [[temporal-consciousness-structure-and-agency#"Now": The Kairos Moment|temporal selection]] develops this further: at the kairos moment, recognition of rightness and the action that consummates it are phenomenally unified—they cannot be decomposed into a judgement followed by an execution without disrupting the timing itself. The agent's readiness during anticipatory openness shapes what the approaching moment feels like, and the moment, when it arrives, completes a structure the protention had already laid down.
+Agentive protention structures the approach to a *kairos* moment—the opportune time to act (the Map's [[kairos|phenomenology of kairos]] develops this window-structure in full). The phenomenology of approach is not neutral waiting but ripening readiness: the felt gradient of "not yet" gathering toward a moment whose rightness will be recognised in the same stroke as the action that meets it. The companion article on [[temporal-consciousness-structure-and-agency#"Now": The Kairos Moment|temporal selection]] develops this further: at the kairos moment, recognition of rightness and the action that consummates it are phenomenally unified—they cannot be decomposed into a judgement followed by an execution without disrupting the timing itself. The agent's readiness during anticipatory openness shapes what the approaching moment feels like, and the moment, when it arrives, completes a structure the protention had already laid down.
 
 Read in both directions: the phenomenology of anticipation supplies the *general* phenomenal structure (protention as constitutive of present experience); temporal selection supplies the *agentive specialisation* (protention configured for action within a timing window). Neither article subsumes the other—they are two perspectives on the same temporal architecture, the receptive and active faces of forward-directed consciousness.
 
