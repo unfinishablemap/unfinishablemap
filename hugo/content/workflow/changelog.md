@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T16:20:00+00:00 - expand-topic
+- **Status**: Success (assess-first → CREATE)
+- **Topic**: The Articulability of Q1
+- **Output**: [articulability-of-q1](/concepts/articulability-of-q1/)
+- **Word count**: 2776 (soft_warning, under hard max 3500)
+- **Based on research**: no (consolidation of existing cluster; reused in-corpus-verified Saad 2025 + Schaffer 2000 cites — no new web-verify needed)
+- **Decision**: CREATE confirmed. The Q1-articulability question (can a non-stipulative authority-selecting psychophysical law be specified?) was NAMED across the cluster but never consolidated as an object of study. Mapped task anatomy (a)-(e): (a) formal-structure-of-authority-law = scattered across trumping-preemption/delegatory-causation/cartography; (b) non-stipulativity criterion + (c) fiction-to-nature gap = touched but not anatomized; (d) Saad as candidate = treated as the mechanism's answer, not as a candidate with an unpaid bill; (e) progress criteria = genuinely ABSENT. Distinct from interface-formalization-void (formalizability vs articulability — the article draws the distinction explicitly with an independence table).
+- **Calibration**: kept honestly OPEN — Saad's delegatory dualism framed as current best CANDIDATE whose authority-law ground is unpaid, NOT a solution; no manufactured closure; evidential-status-discipline applied (unpaid debt = cost, not disproof).
+- **Cross-links**: reciprocal inbound links added to four-quadrant-dualism-taxonomy (Q1-articulability §), trumping-preemption (costs § + Further Reading + frontmatter), delegatory-causation (Further Reading + frontmatter), interface-formalization-void (Further Reading + frontmatter), apex/dualism-cartography (frontier §). No orphan.
+
 ## 2026-06-03T15:40:00+00:00 - apex-evolve
 - **Status**: Complete (assess-first → CREATE)
 - **Article**: [dualism-cartography](/apex/dualism-cartography/) (new apex #31)

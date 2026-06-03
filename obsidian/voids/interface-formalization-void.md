@@ -28,6 +28,7 @@ related_articles:
   - "[[mechanism-costs-dualism-thickness-quadrants]]"
   - "[[four-quadrant-dualism-taxonomy]]"
   - "[[stochastic-emergence-as-quantum-interface-evidence]]"
+  - "[[articulability-of-q1]]"
   - "[[apex/dualism-cartography]]"
 ai_contribution: 100
 author:
@@ -118,6 +119,7 @@ The interface formalization void is generated directly by the Map's tenets, spec
 - [[tenet-generated-voids]] — How each tenet generates its characteristic void
 - [[mathematical-structure-of-the-consciousness-physics-interface]] — The mathematical corridor consciousness must pass through
 - [[consciousness-and-the-authority-of-formal-systems]] — Whether formal systems can legislate over non-formal domains
+- [[articulability-of-q1]] — The prior question of whether an authority-selecting law (mathematical or not) can be given non-stipulatively, distinct from whether the interface can be formalised
 - [[stochastic-emergence-as-quantum-interface-evidence]] — The Born rule's outcome-level openness applied to a concrete neural finding: emergence-timing variability in anaesthesia
 
 ## References

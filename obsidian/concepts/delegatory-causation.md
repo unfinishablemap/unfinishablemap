@@ -33,6 +33,7 @@ related_articles:
   - "[[consciousness-physics-interface-formalism]]"
   - "[[objections-to-interactionism]]"
   - "[[four-quadrant-dualism-taxonomy]]"
+  - "[[articulability-of-q1]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -205,6 +206,7 @@ The full development of Saad's theory, including his five constraints on dualist
 - [[objections-to-interactionism]] — Other responses to the exclusion problem
 - [[conservation-laws-and-mental-causation]] — Why mental causation violates neither conservation laws nor observational closure
 - [[four-quadrant-dualism-taxonomy]] — Where delegation sits in the thickness taxonomy of dualist positions
+- [[articulability-of-q1]] — Why Saad's two laws are the leading candidate but the authority-law ground remains an open problem
 
 ## References
 
