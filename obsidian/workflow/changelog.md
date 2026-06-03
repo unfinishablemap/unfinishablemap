@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03T16:40:00+00:00
+ai_modified: 2026-06-03T17:30:44+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-03T17:30:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/articulability-of-q1]]
+- **Word count**: 2776 → 2772 (-4; soft_warning, 111% of 2500 concept target, under hard)
+- **Citations web-verified**: Saad 2025 (Phil Studies 182(3):939–967, DOI 10.1007/s11098-025-02290-3) EXACT incl. full author name + five-constraints attribution; Schaffer 2000 (J Phil 97(4):165–181) EXACT. No defects. Fresh-create, citation-verified-at-creation → clean (per [[fresh-create-defect-tail]]).
+- **Critical issues addressed**: 1 — line-38 spurious verbatim-quotation framing ("…\"a law-like rule ranks the contending processes\"") reworded to attribute the idea to Schaffer without the false direct-quote marks. Borderline fabricated-direct-quote risk removed; attribution preserved.
+- **Medium issues addressed**: 0 (none warranted)
+- **Calibration**: exemplary — article proactively flags "default causal profile" qualifier as load-bearing; whole piece refuses evidential upgrade (Saad = "best current proposal whose central bill is still outstanding", not solution). No possibility/probability slippage.
+- **Links/anchors**: all 15 wikilink targets resolve; own anchor + trumping-preemption#costs-of-the-template + 5 tenet block-anchors verified.
+- **Output**: [[reviews/deep-review-2026-06-03-articulability-of-q1]]
 
 ## 2026-06-03T17:14:31+00:00 - refine-draft
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Human+AI consolidation of the dualism cluster's sharpest open prob
 created: 2026-06-03
 modified: 2026-06-03
 human_modified:
-ai_modified: 2026-06-03T16:20:00+00:00
+ai_modified: 2026-06-03T17:30:44+00:00
 draft: false
 topics:
   - "[[four-quadrant-dualism-taxonomy]]"
@@ -27,6 +27,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-03
 last_curated:
+last_deep_review: 2026-06-03T17:30:44+00:00
 ---
 
 The articulability of Q1 is the sharpest unresolved problem the Map's dualism-positioning cluster shares: **can a non-stipulative authority-selecting psychophysical law actually be specified?** Q1 — the minimal-mind / minimal-physical quadrant of the [[four-quadrant-dualism-taxonomy|thickness taxonomy]], where the Map's own default reading sits — buys its cheapness by leaving the physical base counterfactually sufficient and the mental side thin. The price is a single debt: an account of what makes a *mental* rule the authoritative cause of an effect a *physical* state would have produced anyway. The [[trumping-preemption|trumping]] template shows the *shape* such a law would have; Bradford Saad's [[delegatory-dualism|delegatory dualism]] is the current best candidate for its *content*. Neither has discharged the debt: the law has not been written down in a form that survives the objection it is built to answer, and whether one *can be* is open. This article consolidates that open problem as an object of study — its formal structure, the non-stipulativity criterion, the fiction-to-nature gap blocking the obvious candidates, the leading proposal, and what progress would look like. It does not claim the problem is solved; the point is to state precisely what remains unpaid.
@@ -35,7 +36,7 @@ This question is distinct from, though adjacent to, the [[interface-formalizatio
 
 ## The Formal Structure of an Authority-Selecting Law
 
-An authority-selecting law is the kind of rule [[trumping-preemption]] isolates: the causal structure in which two processes both run to completion and remain individually sufficient, yet a higher-order rule selects one as *the* cause. The law's job is that selecting — what Schaffer (2000) describes as a mode in which "a law-like rule ranks the contending processes." Stated abstractly, such a law has three parts:
+An authority-selecting law is the kind of rule [[trumping-preemption]] isolates: the causal structure in which two processes both run to completion and remain individually sufficient, yet a higher-order rule selects one as *the* cause. The law's job is that selecting — Schaffer (2000) describes a causal mode in which a law-like rule ranks the contending processes, deciding which counts as *the* cause when both are sufficient. Stated abstractly, such a law has three parts:
 
 1. **Two sufficient candidates.** A physical state P and a conscious experience E each sufficient, on their own terms, for some downstream effect. In the psychophysical case P is the brain state with its *default causal profile* (what it would cause absent any conscious involvement — the qualifier is load-bearing: "default causal profile" is not "causal profile") and E is the experience whose causal profile matches.
 

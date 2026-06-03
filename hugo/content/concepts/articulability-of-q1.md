@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-06-03 16:20:00+00:00
+ai_modified: 2026-06-03 17:30:44+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -19,6 +19,7 @@ description: 'Human+AI consolidation of the dualism cluster''s sharpest open pro
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-06-03 17:30:44+00:00
 modified: *id001
 related_articles:
 - '[[interface-formalization-void]]'
@@ -38,7 +39,7 @@ This question is distinct from, though adjacent to, the [interface formalization
 
 ## The Formal Structure of an Authority-Selecting Law
 
-An authority-selecting law is the kind of rule [trumping-preemption](/concepts/trumping-preemption/) isolates: the causal structure in which two processes both run to completion and remain individually sufficient, yet a higher-order rule selects one as *the* cause. The law's job is that selecting — what Schaffer (2000) describes as a mode in which "a law-like rule ranks the contending processes." Stated abstractly, such a law has three parts:
+An authority-selecting law is the kind of rule [trumping-preemption](/concepts/trumping-preemption/) isolates: the causal structure in which two processes both run to completion and remain individually sufficient, yet a higher-order rule selects one as *the* cause. The law's job is that selecting — Schaffer (2000) describes a causal mode in which a law-like rule ranks the contending processes, deciding which counts as *the* cause when both are sufficient. Stated abstractly, such a law has three parts:
 
 1. **Two sufficient candidates.** A physical state P and a conscious experience E each sufficient, on their own terms, for some downstream effect. In the psychophysical case P is the brain state with its *default causal profile* (what it would cause absent any conscious involvement — the qualifier is load-bearing: "default causal profile" is not "causal profile") and E is the experience whose causal profile matches.
 
