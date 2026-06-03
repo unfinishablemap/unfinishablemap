@@ -541,13 +541,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-21
 
-### P2: Deep review epiphenomenalisms-gravity-well.md
-- **Type**: deep-review
-- **Status**: done
-- **Notes**: File was archived (coalesced into the-epiphenomenalist-threat.md on 2026-03-20). No review needed.
-- **Source**: staleness
-- **Generated**: 2026-03-21
-
 ### P2: Deep review subjective-aim.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1003,6 +996,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Deep review epiphenomenalisms-gravity-well.md
+- **Type**: deep-review
+- **Notes**: File was archived (coalesced into the-epiphenomenalist-threat.md on 2026-03-20). No review needed.
 
 ### ✓ 2026-06-03: Cross-review pragmatism-and-qbism against related articles
 - **Type**: cross-review
