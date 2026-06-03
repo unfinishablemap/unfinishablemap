@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T18:40:00+00:00 - deep-review
+- **Status**: Success (converged — no content changes)
+- **File**: [apophatic-cartography](/voids/apophatic-cartography/)
+- **Word count**: 2796 (140% of 2000 soft, under 3000 hard — no length action)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Outcome**: Long-converged after 4 prior deep reviews (last 2026-04-28). All five commits since are cross-link/wikilink redirects from OTHER articles' reviews (phenomenology-of-the-edge → edge-states-and-void-probes; four-criteria concept-page cross-link), not substantive content change. No new arguments, no calibration drift. Per convergence discipline: no edits, ai_modified NOT bumped, no review-archive churn.
+- **Citation web-verify** (publisher of record): Fine 2018 "Ignorance of Ignorance" *Synthese* 195:4031–4045 ✓ (verbatim "second order ignorance is impossible" quote matches abstract); Priest 2025 "Wittgenstein and the Paradoxes at the Limits of Language" Blog of the APA (2025-04-30) ✓; Rancourt 2025 "The Virtue of Ignorance" *Southern Journal of Philosophy* 63(4):603–618 ✓ (paraphrase accurate). No citation defects.
+- **Calibration**: via-negativa framing intact; "the method does not *prove* dualism" framing intact (line 154). No possibility/probability slippage. Anchoring not touched. New cross-link targets all resolve to live files.
+
 ## 2026-06-03T18:10:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)
