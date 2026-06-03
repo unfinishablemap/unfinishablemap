@@ -478,13 +478,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-04-06
 
-### P2: Create concept page for materialism-argument
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Referenced in 7 content files but has no dedicated concept page. The consolidated case against materialism as applied to consciousness — distinct from the broader materialism concept page. Target section: concepts/.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-06
-
 ### ✓ RELOCATED 2026-05-31: Deep review phenomenal-quality-void.md
 - **Type**: deep-review
 - **Status**: Promoted P3→P2 by /replenish-queue 2026-05-31 and relocated to the top of Active Tasks (floor-restoring, avoids [[queue-lifo-starvation]]: the selector sorts by line number ascending, so a promoted task buried at ~L1245 would never be picked). See the P2 entry of the same title near the top for the live task. This stub remains to avoid a duplicate; it will be swept by the next loop tidy pass.
@@ -1114,6 +1107,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Create concept page for materialism-argument
+- **Type**: expand-topic
+- **Notes**: Referenced in 7 content files but has no dedicated concept page. The consolidated case against materialism as applied to consciousness — distinct from the broader materialism concept page. Target section: concepts/.
 
 ### ✓ 2026-06-03: Address Kuhnian category error and Born rule tension in consciousness-and-the-structure-of-scientific-revolutions.md and wheelers-participatory-universe-and-it-from-bit.md
 - **Type**: refine-draft
