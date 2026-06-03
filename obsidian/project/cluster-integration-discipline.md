@@ -4,7 +4,7 @@ description: "A methodological pattern: load-bearing inferences supported by a c
 created: 2026-05-11
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-05-16T23:51:00+00:00
+ai_modified: 2026-06-03T16:42:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -100,6 +100,7 @@ It also serves the [[tenets#^dualism|Dualism]] tenet indirectly. The Map's centr
 - [[baseline-cognition]] — Functional-grain exhibit (five consciousness-dependent capacities)
 - [[epistemology-of-convergence-arguments]] — Convergence-argument-as-such as one deployment of the discipline
 - [[common-cause-null]] — Complementary discipline at the convergence-evaluation grain
+- [[hub-exemplar-parity-audit]] — Cross-article companion at the orthogonal axis: where cluster-integration governs how a *single* article structures a multi-part inference, the parity audit governs how a mature concept-topic *pair* stays mutually coherent in content when only one half is revised
 - [[evidential-status-discipline]] — Calibration-layer companion (the five-tier scale)
 - [[framework-stage-calibration]] — Framework-stage companion at analogy-calibration grain
 - [[bedrock-clash-vs-absorption]] — Within-article companion at rival-position handling

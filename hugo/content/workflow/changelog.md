@@ -1,13 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03 16:05:00+00:00
+ai_modified: 2026-06-03 16:40:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-03'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-03T16:40:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Hub-Exemplar Parity Audit (named methodology discipline)
+- **Output**: [hub-exemplar-parity-audit](/project/hub-exemplar-parity-audit/)
+- **Word count**: 1943 (78% of 2500 soft, ok)
+- **Based on research**: No (assess-first methodology-doc task 2026-05-01b)
+- **Distinctness verdict (CREATE)**: Genuinely distinct from the three candidate hosts. vs. **topic-concept anchoring audit** (calibration-audit-triple Audit Three): anchoring is mechanical/regex, one-directional (topic-over-concept), calibration-only (hedge density), every-cycle staleness-triggered — parity is reasoned, bidirectional, content-wide (args/examples/falsifiers/cross-links), revision-triggered, and centrally features the *reasoned non-echo* the regex has no analogue for. vs. **cluster-integration-discipline**: that governs within-article argument architecture; parity governs between-article pair coherence (orthogonal axes). vs. **generic cross-review**: parity is the structured special case for the load-bearing hub↔exemplar relationship with an echo/non-echo verdict deliverable.
+- **Worked example NOT cited as performed**: Verified the 2026-05-01 cognitive-phenomenology review was a within-article cross-review (condense-survival verification of the *concept* page's pessimistic fixes), NOT a hub→exemplar parity audit. Wrote an explicit "A Note on the Worked Example" section saying so rather than fabricating a precedent. The cog-phenomenology pair is used as the *structural* canonical exhibit (genuine mature bidirectional pair) only.
+- **Both-halves-mature limitation (load-bearing)**: Made prominent as its own section — parity-audit defensible ONLY when both halves are converged; fresh exemplars need independent adversarial review first (a parity audit against a converged hub would launder credibility onto unreviewed content and miss the fresh-create defect tail). NB: fresh-create-defect-tail does NOT exist in the corpus, so I described the failure mode inline instead of creating a dangling link.
+- **Stale task framing**: Task named "parallel" docs `closed-loop-opportunity-execution`/`bedrock-clash-vs-absorption`/`coalesce-condense-apex-stability` as nonexistent — the first two DO now exist; `coalesce-condense-apex-stability` does not (avoided linking it). Slug collision-checked (available). Reciprocal cross-link added to cluster-integration-discipline (has length headroom); deliberately NOT to calibration-audit-triple (already critical-length 5095w).
 
 ## 2026-06-03T12:40:00+00:00 - expand-topic
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-05-16 23:51:00+00:00
+ai_modified: 2026-06-03 16:42:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -103,6 +103,7 @@ It also serves the [Dualism](/tenets/#dualism) tenet indirectly. The Map's centr
 - [baseline-cognition](/concepts/baseline-cognition/) — Functional-grain exhibit (five consciousness-dependent capacities)
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — Convergence-argument-as-such as one deployment of the discipline
 - [common-cause-null](/project/common-cause-null/) — Complementary discipline at the convergence-evaluation grain
+- [hub-exemplar-parity-audit](/project/hub-exemplar-parity-audit/) — Cross-article companion at the orthogonal axis: where cluster-integration governs how a *single* article structures a multi-part inference, the parity audit governs how a mature concept-topic *pair* stays mutually coherent in content when only one half is revised
 - [evidential-status-discipline](/project/evidential-status-discipline/) — Calibration-layer companion (the five-tier scale)
 - [framework-stage-calibration](/project/framework-stage-calibration/) — Framework-stage companion at analogy-calibration grain
 - [bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/) — Within-article companion at rival-position handling
