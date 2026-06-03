@@ -28,6 +28,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 When do parts form a whole? Van Inwagen, Merricks, and the integrated-information theorists answer that question by very different routes—yet all three land near the boundary where consciousness occurs. The Map reads that convergence as suggestive of dualism, not proof.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2062082884333150408  
 **Link**: [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/)
 
 ---
