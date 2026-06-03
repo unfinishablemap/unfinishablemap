@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03T06:38:35+00:00
+ai_modified: 2026-06-03T06:46:25+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-03T06:46:25+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-metaphysics-of-composition]]
+- **Task**: P2 outer-review finding (Gemini 2.5 Pro, 2026-06-03, Sec 3.1 & weakness #5) — the van Inwagen biological-route biopsychist-conflation gap (the one genuinely-new Gemini finding; rest converged with already-done composition tasks).
+- **Defect fixed**: the biological route treated van Inwagen's organicism as a route to *consciousness*, but his actual criterion is metabolic/homeostatic/teleological *life-unity*; the route relied on an undefended bridge premise that all and only living things are conscious (plants/fungi/microbes are living composites on his view yet not conscious subjects).
+- **Recast (length-neutral, option b)**: organicism section + convergence table cell + convergence prose now state the route reaches *organic/life-unity*; the life→consciousness step is marked as a Map-internal posit ("not earned by van Inwagen's standards") rather than his claim. Brought into line with the accurate hedge already in sibling `concepts/composition-and-consciousness.md`.
+- **Engagement classification (editor-internal)**: van Inwagen — Mode Two / framework-boundary; the article had helped itself to "life = consciousness," a foundational move not earned by van Inwagen's own (materialist) standards, now honestly marked as a Map posit rather than a refutation inside his framework.
+- **Attribution check**: van Inwagen (living author) NOT recruited as a consciousness-criterion or dualism proponent; stated accurately as materialist organicist (life restricts composition, no dualist conclusions). No new citations (Material Beings 1990 already cited).
+- **Length**: body 3996w → 3996w (frontmatter-stripped, analyze_length), HARD ceiling 4000 — net length-neutral, original 4w margin restored. Clawed back from adjacent redundancy ("noted above", over-qualified McQueen/Tsuchiya restatement). Nothing flagged to human-length-decision.
+- **Untouched**: IIT/Merricks convergence calibration, panpsychism, Bayne, deflationism, rivals cluster, tenet-bridge (all prior-cycle findings).
+- **Published**: yes
 
 ## 2026-06-03T06:38:35+00:00 - refine-draft
 - **Status**: Success

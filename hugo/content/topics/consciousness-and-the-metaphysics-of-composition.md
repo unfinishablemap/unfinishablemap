@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-06-03 06:25:00+00:00
+ai_modified: 2026-06-03 06:46:25+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -51,7 +51,7 @@ The SCQ asks: under what conditions do some objects compose a further object? It
 
 Van Inwagen (1990) proposes that composition occurs if and only if the activity of simples constitutes a life. Only living organisms are genuine composite objects. Tables, rocks, and stars do not strictly exist as wholes—only "simples arranged tablewise."
 
-Consciousness enters indirectly: all conscious beings are organisms, and organisms are the only genuine composites. Van Inwagen himself defends a materialist ontology of persons and draws no dualist conclusions from his organicism. But the Map observes that his restriction implicitly privileges the domain where consciousness occurs—life is the criterion, and consciousness is life's most philosophically distinctive product. The convergence is in the destination, not in van Inwagen's reasoning.
+Van Inwagen's criterion is metabolic, homeostatic, teleological life-unity, not phenomenal consciousness; he defends a materialist ontology of persons and draws no dualist conclusions. The route reaches *organic unity*: on his view plants, fungi, and microbes are living composites yet not conscious subjects. The step from life-unity to consciousness is a Map-internal posit—that organic unity is consciousness-involving—not earned by van Inwagen's standards. The convergence is in that posited destination, not his reasoning.
 
 ### Merricks' Consciousness-Based Eliminativism
 
@@ -77,11 +77,11 @@ These three positions arrive at the same destination by different paths:
 
 | Philosopher | Starting Point | Route | Destination |
 |-------------|---------------|-------|-------------|
-| Van Inwagen | What constitutes a life? | Biological criterion | Organisms (conscious beings) are the only composites |
+| Van Inwagen | What constitutes a life? | Biological criterion | Living organisms are the only composites |
 | Merricks | What has irreducible causal powers? | Causal redundancy | Conscious beings alone escape elimination |
 | McQueen & Tsuchiya | What maximises integrated information? | Information integration | Φ-maximisation determines which wholes exist—explicitly decoupled from consciousness |
 
-The convergence is striking because these philosophers disagree about almost everything else: van Inwagen is a materialist organicist, Merricks an eliminativist who denies most physical objects, McQueen and Tsuchiya theorists working within a computational account of consciousness. Yet all three land in the neighbourhood of consciousness, or the integrated structure associated with it, as central to genuine composition—with the qualification, noted above, that McQueen and Tsuchiya deliberately leave the consciousness link open rather than asserting it.
+The convergence is striking because these philosophers disagree about almost everything else: van Inwagen is a materialist organicist, Merricks an eliminativist who denies most physical objects, McQueen and Tsuchiya theorists working within a computational account of consciousness. Yet all three land in the neighbourhood of consciousness, or the integrated structure associated with it, as central to genuine composition—with the qualifications that van Inwagen reaches life-unity and McQueen and Tsuchiya leave the consciousness link open.
 
 A natural objection is that this convergence reflects a selection effect—these philosophers work in the same analytic tradition and may have influenced each other. The objection has real force and is not fully neutralised by what follows. Still, it arguably understates how different their methods are: van Inwagen reasons from biological natural kinds, Merricks from causal redundancy, McQueen and Tsuchiya from information-theoretic measures. The conceptual distance between a life criterion, a causal-powers criterion, and an integrated-information criterion is large enough that arriving at a common neighbourhood may carry some evidential weight rather than none. Such convergence from divergent methods is often treated as a marker of philosophical progress, though it is suggestive rather than probative: it is consistent with a shared truth and equally with a shared blind spot, and the present case does not decide between them.
 
