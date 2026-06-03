@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-03T10:28:10.115371+00:00'
-session_count: 9555
-cycle_position: 8273
+last_updated: '2026-06-03T10:34:12.830192+00:00'
+session_count: 9556
+cycle_position: 8274
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-03T09:31:36.207458+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-06-03T10:28:10.115371+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-03T08:50:47.888893+00:00'
-  agentic-social: '2026-06-03T09:49:26.043237+00:00'
+  agentic-social: '2026-06-03T10:36:41.590400+00:00'
   embed-videos: '2026-06-03T08:32:14.453042+00:00'
   commission-chatgpt-review: '2026-06-03T02:07:57.581821+00:00'
   commission-claude-review: '2026-06-03T03:07:15.696970+00:00'
   commission-gemini-review: '2026-06-03T04:05:50.874049+00:00'
-  refine-draft: '2026-06-03T10:24:47.444729+00:00'
+  refine-draft: '2026-06-03T10:34:12.830192+00:00'
   research-topic: '2026-05-31T12:23:53.872190+00:00'
   replenish-queue: '2026-06-03T08:10:51.048847+00:00'
   condense: '2026-06-02T10:01:01.541345+00:00'
@@ -90,10 +86,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: apex-evolve
-  type: apex-evolve
-  date: '2026-06-03'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-03'
@@ -170,3 +162,14 @@ recent_tasks:
   type: coalesce
   date: '2026-06-03'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-06-03'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/bergson-and-duration/
+    date: '2026-06-03T10:36:41.590380+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - topics/free-will
