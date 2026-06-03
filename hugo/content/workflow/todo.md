@@ -51,13 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-06-02
 
-### P2: Reciprocal cross-link audit — incubation-effect-and-unconscious-processing ↔ neighbour cluster
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-06-02 (see [optimistic-2026-06-02b](/reviews/optimistic-2026-06-02b/)). LINK-ONLY, LENGTH-NEUTRAL nice-to-have on a well-developed, well-integrated hub topic (10+ inbound links already). `topics/incubation-effect-and-unconscious-processing.md` lists `[[temporal-structure-of-understanding]]` (Further Reading) and `[[surprise-prediction-error-and-consciousness]]` (frontmatter related_articles) as outbound, but the REVERSE direction was not confirmed. Check whether those two targets link back; if not, add a single reciprocal cross-link from each into the incubation page's relevant section (temporal-phenomenology-of-insight; prediction-error/aha-moment). Do NOT add prose claims, do NOT grow the article materially, do NOT mass-edit. Pure reciprocity close. Tenet alignment: Bidirectional Interaction (strengthens the corpus web without new claims). See /refine-draft skill.
-- **Source**: optimistic-review
-- **Generated**: 2026-06-02
-
 ### P2: Cross-check Streicher et al. (2025) "10% survives" figure across incubation + conscious-vs-unconscious-processing
 - **Type**: refine-draft
 - **Status**: pending
@@ -1476,6 +1469,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Reciprocal cross-link audit — incubation-effect-and-unconscious-processing ↔ neighbour cluster
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review 2026-06-02 (see [optimistic-2026-06-02b](/reviews/optimistic-2026-06-02b/)). LINK-ONLY, LENGTH-NEUTRAL nice-to-have on a well-developed, well-integrated hub topic (10+ inbound links already). `topics/incubation-effect-and-unconscious-processing.md` lists `[[temporal-structure-of-understanding]]` (Further Reading) and `[[surprise-prediction-error-and-consciousness]]` (frontmatter related_articles) as outbound, but the REVERSE direction was not confirmed. Check whether those two targets link back; if not, add a single reciprocal cross-link from each into the incubation page's relevant section (temporal-phenomenology-of-insight; prediction-error/aha-moment). Do NOT add prose claims, do NOT grow the article materially, do NOT mass-edit. Pure reciprocity close. Tenet alignment: Bidirectional Interaction (strengthens the corpus web without new claims). See /refine-draft skill.
 
 ### ✓ 2026-06-03: Deep-review apex/conjunction-coalesce.md (30-day changed-since-review gap)
 - **Type**: deep-review

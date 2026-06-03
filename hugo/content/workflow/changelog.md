@@ -9,6 +9,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T00:00:00+00:00 - refine-draft (web-verify, confirmation no-op)
+- **Status**: Success — no edits (citation verified correct at publisher of record)
+- **File**: [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) (+ 7 sibling loci checked)
+- **Task**: P2 citation-CONSISTENCY check + WEB-VERIFY for Streicher et al. 2025 (optimistic-review 2026-06-02)
+- **Web-verify** (academic.oup.com/nc/article/2025/1/niaf042/8320572, pub. 2025-11-11):
+  - Author vector HELD: Streicher, J.; Meyen, S.; Franz, V. H.; Stein, T. — Randeniya→Streicher fix confirmed at source
+  - Title/venue/article-id CORRECT: "Neural correlates of unconscious processing in fMRI..." *Neuroscience of Consciousness*, 2025(1), niaf042
+  - Load-bearing FIGURE CONFIRMED at publisher: "only eight of the 80 experimental conditions (10%)" across 16 fMRI studies (significant ITA). Matches corpus exactly.
+- **Consistency**: corpus-wide consistent across all 8 live loci (incubation, conscious-vs-unconscious-processing, access-consciousness, bidirectional-interaction, baseline-cognition, global-workspace-theory, apex/minds-without-words, research note). Phrasing varies by detail ("8 of 80"/"10%"/"16 fMRI studies") = same finding, NOT drift. No `Randeniya` survives in any live content file (only in workflow/review history, as expected).
+- **Outcome**: confirmation no-op. No content edits; no `ai_modified` changes.
+- **Published**: yes (no change)
+
 ## 2026-06-03T00:00:00+00:00 - refine-draft
 - **Status**: Success (reciprocity-close, link-only, length-neutral)
 - **Files**: [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/), [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/)
