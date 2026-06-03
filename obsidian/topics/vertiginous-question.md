@@ -4,7 +4,7 @@ description: "Why, of all conscious beings, am *I* this one? The vertiginous que
 created: 2026-01-26
 modified: 2026-05-31
 human_modified:
-ai_modified: 2026-06-01T06:30:00+00:00
+ai_modified: 2026-06-03T11:09:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -177,7 +177,7 @@ The vertiginous question connects to the Map's [[tenets]] in a distinctive way: 
 
 **[[tenets#^dualism|Dualism]]** — If consciousness is non-physical, what individuates one consciousness from another? Physical objects are individuated by spatiotemporal location, but non-physical subjects lack spatial coordinates. The vertiginous question forces dualism to either posit a non-physical principle of individuation or accept individuation as fundamental and unexplainable. The [[boundary-and-projection]] void addresses the adjacent question: what determines the *extent* of one consciousness, and why are the shifts of that extent invisible from within? The Map's dualism is not naïve substance dualism that merely adds souls to physics. It's a dualism that recognizes consciousness involves both qualitative character ([[qualia]]) and indexical particularity ([[haecceity]]).
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** — The mechanism connecting a specific consciousness to a specific brain requires something that selects *this* consciousness for *this* brain. The vertiginous question and the [[causal-interface|causal interface void]] may be two aspects of the same deeper problem: the question of *which* mind pairs with *which* body. The [[combination-problem]] faces a related difficulty in the opposite direction: how do micro-experiences combine into *this* unified subject?
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** — The mechanism connecting a specific consciousness to a specific brain requires something that selects *this* consciousness for *this* brain. The vertiginous question and the [[causal-interface|causal interface void]] may be two aspects of the same deeper problem: the question of *which* mind pairs with *which* body. The [[combination-problem]] faces a related difficulty in the opposite direction: how do micro-experiences combine into *this* unified subject? And the [[consciousness-and-the-metaphysics-of-individuation#The Combination Problem and Its Reverse|de-combination problem]] (Miller 2018) runs the puzzle the other way again: if reality were one conscious field, what fragments it into discrete subjects like this one? The vertiginous "why am I *this* one?" presupposes the very discreteness the de-combination problem cannot explain.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** — If consciousness interfaces with the brain through quantum selection sites, the question of *which* consciousness makes *which* selections becomes real. The vertiginous question — why am I this consciousness? — connects to which selections constitute my causal history. This remains a philosophical proposal rather than established science, but it illustrates how the Map's framework could ground indexical facts in causal particularity.
 
@@ -189,6 +189,7 @@ The vertiginous question connects to the Map's [[tenets]] in a distinctive way: 
 - [[indexical-knowledge-and-identity]] — Perry's essential indexical, Lewis's Two Gods, and three grades of indexical knowledge
 - [[indexical-identity-quantum-measurement]] — Where indexical identity meets quantum collapse
 - [[consciousness-and-the-metaphysics-of-individuation]] — The synchronic individuation question underlying the vertiginous question
+- [[consciousness-and-the-metaphysics-of-individuation#Three Logical Possibilities|Closed, empty, and open individualism]] — Kolak's trichotomy; open individualism's "one subject appearing as many" is the live option the Map's indexical-identity commitment most resists
 - [[self-opacity]] — The observer that cannot observe itself
 - [[voids-between-minds]] — The privacy of each consciousness
 - [[causal-interface]] — The void at the mind-body junction

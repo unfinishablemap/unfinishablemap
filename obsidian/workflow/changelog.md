@@ -5,6 +5,16 @@ ai_modified: 2026-06-03T09:50:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T11:09:45+00:00 - expand-topic (retargeted to refine)
+- **Status**: Success (retarget, not create)
+- **Topic**: The De-Combination Problem / Open Individualism (proposed new concept page)
+- **Outcome**: RETARGET-TO-REFINE (option b). Assess-first found the de-combination/open-individualism material already covered at adequate depth in [[topics/consciousness-and-the-metaphysics-of-individuation]] — a full "Three Logical Possibilities" section (Kolak's closed/empty/open trichotomy, *tat tvam asi*, Schrödinger) and a "The Combination Problem and Its Reverse" section naming Miller's de-combination problem as the "overlooked twin", with Miller 2018 + Kolak 2004 both already cited. The combination-problem concept and panpsychisms-combination-problem topic also have full Cosmopsychism/de-combination subsections. A standalone concept page would duplicate two existing sections verbatim → near-redundant. The genuine gap was that the dependents linked to the *whole* topic, not to a stable anchor for "open individualism" / "de-combination". Promoted the existing passages to linkable anchors by adding targeted anchored cross-links.
+- **Output**: Anchored cross-links added into [[topics/vertiginous-question]] (Bidirectional-Interaction para + 2 Further Reading anchors → `#The Combination Problem and Its Reverse` and `#Three Logical Possibilities`), [[voids/voids-between-minds]] (intersubjective-void sharing passage → `#Three Logical Possibilities` + reciprocal related_articles entry), and [[topics/consciousness-and-the-ownership-problem]] (Further Reading anchor → `#Three Logical Possibilities`). No new article created.
+- **Calibration**: Open individualism held at LIVE-METAPHYSICAL-OPTION register throughout; every new link frames it as the option the Map's indexical-identity commitment (Tenet 4, No Many Worlds) *resists*, NOT a tenet-friendly resonance ([[evidential-status-discipline]], [[direct-refutation-discipline]]). The "one field appearing as many" framing is never presented as something the Map endorses. Honest framework-boundary tension named.
+- **Citations web-verified**: Miller, G. (2018). "Can Subjects Be Proper Parts of Subjects? The De-Combination Problem." *Ratio* 31(2), 137-154 — confirmed exact via Wiley Online Library (10.1111/rati.12166). Kolak, D. (2004). *I Am You: The Metaphysical Foundations for Global Ethics*. Springer Synthese Library 325 — confirmed. Both already in the corpus References; no fabrication, no new unverified cites introduced.
+- **Caps**: concepts cap respected (no new concept created; 250/270 on disk left unchanged).
+- **Word count**: link-only refinements; all three files remain within their section thresholds.
+
 ## 2026-06-03T09:06:00+00:00 - expand-topic (retargeted to refine)
 - **Status**: Success (retarget, not create)
 - **Topic**: Developmental ontogeny of shared intentionality
