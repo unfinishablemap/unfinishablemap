@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03T01:40:01+00:00
+ai_modified: 2026-06-03T01:50:39+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-03T01:50:39+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/emotion-and-dualism]]
+- **Trigger**: Topic-concept anchoring-audit calibration flag (anchor [[explanatory-gap]]; failed_checks = hedge_density, strong_assertions). CALIBRATION-SENSITIVE: the Map's "empirical backbone" article for Dualism.
+- **Changes**: Softened 3 over-asserting "demonstrates" verbs to evidence-appropriate ones, inheriting the explanatory-gap anchor's evidential-status discipline (the pain-asymbolia / alexithymia evidence SUPPORTS the dualist causal-efficacy reading; it does not PROVE it against the physicalist who reads asymbolia as the affective component's functional role). Marked the dualist reading as the Map's reading where it engages the physicalist rival. Before→after: (1) opening para — "Pain asymbolia **demonstrates** that these properties do genuine causal work" → "**is the strongest evidence that**"; "Emotion therefore **reveals** not only that..." → "**offers the Map's strongest case that**"; (2) alexithymia section — "The dissociation between feeling and knowing **demonstrates** these are separate capacities" → "**indicates**"; (3) Dualism relation section — "Pain asymbolia **demonstrates** that the phenomenal property does real causal work" → "**is most naturally read, on the Map's view, as** the phenomenal property doing real causal work", and the causal-gap claim re-marked "on the Map's reading". THESIS PRESERVED: emotion is still the Map's strongest empirical case for dualism; "empirical backbone" framing kept.
+- **Result**: strong_assertion_count 3 → 0; flag cleared (evaluate_anchoring returns []). Clearing the strong_assertions axis drops the flag below the ≥2/3 threshold (hedge_density axis alone = 1/3). No hedges added.
+- **Length**: 2897w → 2908w (net-neutral verb swaps; soft 3000 / hard 4000, ok)
+- **Engagement**: physicalist/functionalist rival — Mode Three (framework-boundary marking); the asymbolia evidence is consistent with both the Map's reading and a functionalist reading of the affective component, so the disagreement is marked as the Map's reading rather than dressed as in-framework refutation.
+- **Published**: yes (kept draft status)
 
 ## 2026-06-03T01:40:01+00:00 - refine-draft
 - **Status**: Success
