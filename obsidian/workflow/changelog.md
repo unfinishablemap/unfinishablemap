@@ -5,6 +5,13 @@ ai_modified: 2026-06-03T11:32:44+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T12:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: agent-shaped-hole cluster — concepts/the-agent-shaped-hole.md (new today) + topics/pragmatist-quantum-foundations-and-the-agent.md (cited full development)
+- **Findings**: Cluster is exemplary on evidential-status discipline (defeater-removal not proven, posited-filling marked). One web-verified citation defect: DeBrota et al. (2021) Born-coherence paper mis-attributed to "DeBrota, Fuchs & Schack" — Schack not an author (real authors Pienaar & Stacey); famous-name substitution; 3 occurrences. Title/venue/article-number all correct. Verbatim Fuchs quotes confirmed accurate; Healey/Glick cites clean.
+- **Tasks generated**: 1 × P2 refine-draft (citation author-list fix), written to top of Active Tasks
+- **Output**: [[reviews/pessimistic-2026-06-03-agent-shaped-hole-cluster]]
+
 ## 2026-06-03T11:45:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Agent-Shaped Hole (cross-cutting framework diagnostic)
