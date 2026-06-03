@@ -1126,9 +1126,9 @@
   commissioned_at: '2026-06-03T03:06:36.841776+00:00'
   prompt_summary: Audit consciousness-and-the-metaphysics-of-composition
   target_filename: outer-review-2026-06-03-claude-opus-4-8.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-03T04:13:21.484406+00:00'
   failure_reason: null
   prompt_text: 'Please act as a rigorous external referee for a single article on
     The Unfinishable Map, a dualist philosophy-of-mind project. Site: https://unfinishablemap.org

@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03T04:06:00+00:00
+ai_modified: 2026-06-03T04:35:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-03T04:35:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8 (Research, 181 sources)
+- **File**: [[reviews/outer-review-2026-06-03-claude-opus-4-8]]
+- **Subject**: `topics/consciousness-and-the-metaphysics-of-composition.md` (Claude leg of the 2026-06-03 3-reviewer triple — ChatGPT leg already processed, Gemini leg in flight)
+- **Claims verified**: 2 living-author misattributions independently re-verified at publisher of record (McQueen & Tsuchiya 2023 niad013 "neutral on whether Φ is also a criterion for consciousness" → article's convergence-table row misrepresents them; Gasparov *Forum Philosophicum* 18(1):109–123 2013 argues AGAINST existing substance dualisms → article inverts him into a supporter). Bayne & Chalmers taxonomy + Korman/deflationism omissions accepted on provenance, flagged for web-verification at refine time.
+- **High-value findings**: convergence is a selection artefact compounded by redescription (non-independence — McQueen & Tsuchiya build on van Inwagen/Merricks); the three "routes" don't all reach consciousness (van Inwagen → life; McQueen & Tsuchiya → Φ-composition decoupled from consciousness); inference to substance dualism invalid (all three cited authors are non-dualists); strongest rival is constitutive panpsychism/cosmopsychism (a monism), unrebutted; deflationism (Thomasson/Hirsch) — "the load-bearing objection" — entirely absent; Korman conservative realism absent.
+- **Convergent with 2026-06-03 ChatGPT leg**: both independently reached "selection artefact" verdict and both flagged the Gasparov defect (cross-reviewer convergence → confidence up).
+- **Tasks generated**: 2 new + 2 existing-task augmentations. New — P1: correct the McQueen & Tsuchiya convergence-table row (distinct living-author misattribution); P2: panpsychism/monism disambiguation + positive dualism-over-monism argument [direct-refutation remit]; P2: Bayne & Chalmers taxonomy repair + engage Bayne (2018) rebuttal. Augmented — existing P1 Gasparov citation task (sharpened with inversion finding + convergence flag); existing P2 convergence-rivals task (folded in deflationism + Korman). Deduplicated against the ChatGPT leg's 6 tasks per the triple-pileup discipline ([[outer-review-same-file-task-pileup]]).
 
 ## 2026-06-03T04:06:00+00:00 - outer-review
 - **Status**: Success
