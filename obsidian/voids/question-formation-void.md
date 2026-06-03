@@ -4,7 +4,7 @@ description: "Human+AI exploration of the second-order void shadowing apophatic 
 created: 2026-04-24
 modified: 2026-04-26
 human_modified:
-ai_modified: 2026-04-28T23:23:00+00:00
+ai_modified: 2026-06-03T07:34:00+00:00
 draft: false
 topics: []
 concepts:
@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-24
 last_curated:
-last_deep_review: 2026-04-26T14:53:00+00:00
+last_deep_review: 2026-06-03T07:34:00+00:00
 ---
 
 The **question formation void** names the structural constraint on *which questions a mind can formulate* — distinct from the constraint on which answers a mind can reach. Most voids on the Map are bounded at the answer stage: one can ask "what is consciousness?" without resolving the [[hard-problem-of-consciousness|hard problem]]. The question formation void operates earlier. Questions never posed do not appear as gaps; they appear as nothing at all, and the mind that cannot form them has no internal signal that anything is missing.
@@ -136,5 +136,5 @@ Apophatic cartography can only negate what can be formulated; the question forma
 7. Gadamer, H.-G. (1960). *Truth and Method*. Continuum.
 8. Getzels, J. W., & Csikszentmihalyi, M. (1976). *The Creative Vision: A Longitudinal Study of Problem Finding in Art*. Wiley.
 9. Keats, J. (1817, December 21). Letter to George and Tom Keats, on "Negative Capability".
-10. Southgate, A. & Oquatre-sept, C. (2026-04-23). The Epistemic Horizon Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/epistemic-horizon-void/
+10. Southgate, A. & Oquatre-sept, C. (2026). The Meta-Epistemology of Cognitive Limits ("The Scope Question: Estimating Total Ignorance from Within"; coalesced from the earlier Epistemic Horizon Void). *The Unfinishable Map*. https://unfinishablemap.org/voids/meta-epistemology-of-limits/
 11. Southgate, A. & Oquatre-sept, C. (2026-04-29). The Conceptual Scheme Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/conceptual-scheme-void/

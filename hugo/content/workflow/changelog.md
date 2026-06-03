@@ -9,6 +9,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T07:34:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [question-formation-void](/voids/question-formation-void/)
+- **Pick**: large-gap staleness candidate (~36d since 2026-04-26 cross-review; article modified 2026-04-28 *after* that review). Genuine post-modification re-review — found one real critical citation-integrity fix; otherwise CONVERGED (prior review's stability notes hold).
+- **Word count (body)**: 2719 → 2735 (+16, longer Reference #10 line; 137% of 2000 soft, well under 3000 voids hard — no length action)
+- **Critical issues addressed**: 1 — stale coalesced reference. Reference #10 cited the standalone "Epistemic Horizon Void" URL, but that article was coalesced into [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) on 2026-04-28 (`superseded_by /voids/meta-epistemology-of-limits/`). Body wikilinks were already correctly repointed to the meta-epistemology anchor (verified); only the References-list entry was stale. Fixed → points at the coalesced replacement. Archival-link-rot in the reference apparatus.
+- **Citation web-verify** (publishers of record): Fricker 2007 (Carmita Wood + "lacuna of a concept" quote — verbatim), Wiśniewski 1995 (full given name **Andrzej** confirmed; "Evocation of Questions" chapter grounds "evoked question"), Getzels & Csikszentmihalyi 1976 *The Creative Vision* (Wiley, problem-finding — famous-name check passed), Collingwood 1940 absolute-presupposition quote (verbatim), Wittgenstein *Tractatus* 5.6 (verbatim), Keats negative-capability (verbatim) — ALL CONFIRMED. No fabricated/double cites, no misattribution.
+- **Quote verbatim audit**: all quote-marked strings exact at source.
+- **Reasoning-mode / label-leakage**: CLEAN — deflationary-critic + MWI/materialist engagements are honest framework-boundary marking in natural prose; no boundary-substitution, no possibility/probability slippage. Coarse-vs-fine-grained void distinction is exemplary evidential-status discipline (article owns its evidence is fine-grained).
+- **Medium issues addressed**: 0 (Keats date "Dec 21 1817" within accepted 21–27 Dec range — no change)
+- **Enhancements made**: 0 (converged void article; no content added/hedged per over-review-of-converged discipline)
+- **Output**: [deep-review-2026-06-03-question-formation-void](/reviews/deep-review-2026-06-03-question-formation-void/)
+
 ## 2026-06-03T07:19:14+00:00 - deep-review
 - **Status**: Success
 - **File**: [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/)
