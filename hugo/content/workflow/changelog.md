@@ -9,6 +9,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T05:34:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)
+- **Task**: P2 topic-concept anchoring-audit calibration fix. Article over-claimed vs anchor concept [many-worlds](/concepts/many-worlds/) on two axes (strong_assertions, hedge_density). Live fix — re-ran evaluate_anchoring on current on-disk article; both checks fired. Surgical and net-neutral on length; tenet-sensitive (anti-MWI stance per Tenet 4 fully preserved — only epistemic framing calibrated per [evidential-status-discipline](/project/evidential-status-discipline/)).
+- **Fix 1 — strong assertions (verb swap, net-neutral, cleared strong_assertions)**: two strong-assertion verbs present ("shows that" on the indexical-gap-persistence claim; "confirms that" on the interpretation-invariance/Born-rule claim that underwrites the probability-advantage-of-collapse conclusion against MWI). Softened the latter — it presents an analysis's argued result as settled fact in service of the anti-MWI case, the epistemic over-claim of the two. "interpretation-invariance analysis confirms that every framework..." → "...argues that every framework...". Left "shows that" intact (genuine, well-supported cross-interpretation persistence claim). strong_assertion_count 2 → 1.
+- **Fix 2 — hedge density (in-place word swap, cleared hedge_density)**: added 1 warranted hedge on a genuinely defeasible rival-merits claim. "transactional/TSVF... and consciousness-modulated objective collapse theories offer the most promising foundations" → "...may offer the most promising foundations" (which interpretation is most promising is exactly the kind of judgment warranting a hedge; pairs naturally with the existing "speculates"). hedge_count 6 → 7, hedge_density 1.738 → 2.027/kw (threshold 1.841/kw).
+- **Verify**: evaluate_anchoring now returns empty failed_checks list (no flags). before/after — hedge_count 6→7, strong_assertion_count 2→1, word_count 3452→3453 (trivially under topics 4000 hard ceiling).
+- **Preserved verbatim**: central anti-MWI claim and Tenet-4 commitment; all framework-boundary calibration (RQM, MWI strongest-responses, indexical-identity reservation); no new citations, no quote edits, no new sections.
+- **Engagement classification (editor-internal)**: MWI engagement remains Mode Three (framework-boundary) as already framed in body; calibration fix preserves the honest "disagreement at the boundary, not in-framework refutation" framing.
+- **Published**: yes
+
 ## 2026-06-03T05:30:06+00:00 - refine-draft
 - **Status**: Success
 - **File**: [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/)
