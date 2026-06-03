@@ -37,6 +37,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt prospective-memory calibration in consciousness-and-memory
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/consciousness-and-memory.md
+- **Notes**: From topic-concept anchoring audit 2026-06-03. The topic article over-claims relative to its anchor concept [[prospective-memory]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 3.64/kw is below 60% of anchor (8.28/kw)
+  - strong-assertion density 0.52/kw exceeds 1.5× anchor (0.34/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-03
+
+### P2: Adopt panpsychism calibration in the-epiphenomenalist-threat
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/the-epiphenomenalist-threat.md
+- **Notes**: From topic-concept anchoring audit 2026-06-03. The topic article over-claims relative to its anchor concept [[panpsychism]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 3.73/kw is below 60% of anchor (6.42/kw)
+  - topic uses 4 strong-assertion verbs where anchor uses none
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-03
+
+
 ### ✓ P2: Fix impossible date in topics/ramanujan-and-the-phenomenology-of-mathematical-reception.md
 - **Type**: refine-draft
 - **Status**: done (2026-06-03 — fixed inline same-cycle as the pessimistic-review that found it). One-token factual fix: "29 February 1913" (impossible — 1913 not a leap year) → "27 February 1913" (Ramanujan's second letter to Hardy, per Berndt & Rankin, the article's own ref 3). First letter date (16 January 1913) correct. All other cites web-verified CLEAN by the review. Fixed directly rather than spinning a separate refine-draft fork on a single character.  See [[reviews/pessimistic-2026-06-03-ramanujan-and-the-phenomenology-of-mathematical-reception]].
@@ -407,13 +430,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Gap-analysis: *type-specificity* is named as a load-bearing concept at line 160 of `topics/the-convergence-argument-for-dualism.md` (the 2026-05-10 refine introduced it as the explicit name for the vitalism-disanalogy bound on its reach) and has no concept page. Per [[reviews/optimistic-2026-05-10]]'s "New Concept Pages Needed" section, this concept is queued for creation; the existing P3 task at todo.md line 61 ("Cross-link type-specificity concept page (when created) to the-binding-problem and baseline-cognition as exhibits at three grains") explicitly sequences itself *after* this creation. concepts/ at 229/250 = 92% (room available). Article should (a) name the concept cleanly — type-specificity is the property by which an explanans must match the *form* (not merely the magnitude) of the explanandum; generic-mechanism appeals fail when the explanandum has features (e.g. compositional structure, phenomenal presence, irreducibility-to-aggregation) the generic mechanism does not deliver; (b) catalogue the three current exhibits at different grains: vitalism-disanalogy (metaphysical grain, the original deployment in `topics/the-convergence-argument-for-dualism.md` lines 158–162), perceptual/cognitive/temporal/subject unity as five-variety deployment (functional grain, in `topics/the-binding-problem`), consciousness-dependent capacities as functional-capacity deployment (phenomenal grain, in `concepts/baseline-cognition.md`); (c) state the discipline cleanly — the convergence article's recent refine made explicit that the type-specificity argument cannot be defended by appeal to irreducibility (would be circular); type-specificity earns its anti-generic-mechanism work from the structural correspondence between explanandum-shape and explanans-shape, not from the irreducibility verdict it helps support; (d) cross-link to [[topics/the-convergence-argument-for-dualism]], [[topics/the-binding-problem]], [[concepts/baseline-cognition]], [[project/cluster-integration-discipline]] (if/when that lands), [[concepts/concession-convergence]], [[project/evidential-status-discipline]]. Estimated scope: 1,500–2,200 words; concepts/ placement. Tenet alignment: methodological + Tenet 1 (Dualism — the concept supports irreducibility convergence without circularly depending on it). See [[reviews/optimistic-2026-05-10]].
 - **Source**: gap_analysis
 - **Generated**: 2026-05-11
-
-### P2: Write project doc on cross-review-vs-pessimistic-review severity-register distinction
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-05-02 (Medium Priority). The 2026-05-02 06:55 UTC `voids/recognition-void` cross-review found one medium issue (clean integration); the 09:00 UTC pessimistic-review on the *same article* found six issues including two high-severity (Capgras-prosopagnosia double-dissociation over-read; "phenomenologically silent" contradicted by TOT/aha-moments/déjà vu phenomena). The empirical pattern — that cross-review and pessimistic-review surface defects at *different severity registers* on the same content — has now been visible across multiple article pairs (recognition-void 2026-05-02; cognitive-phenomenology 2026-05-01). The pattern is not yet articulated at project-doc level. Project-doc would (a) name the severity-register distinction: cross-review surfaces *integration-fidelity* concerns (does the article reciprocate sibling links? does it match the new article's framing? does it preserve the cluster's reciprocal structure?); pessimistic-review surfaces *content-defensibility* concerns (does the article overclaim? does it import contested causal claims as load-bearing? does it treat contested positions as established? does it engage conflicting phenomenology?); (b) supply the recognition-void worked example (clean cross-review + six-issue pessimistic-review on same article in same day); (c) articulate the discipline (run both review types when an article is being substantively engaged; do not let a clean cross-review preempt a pessimistic-review); (d) note the operating distinction from the four existing methodology disciplines — this is a *review-discipline* note operating at a different level, not a *fifth* methodological discipline; (e) honest limitation: the severity-register distinction is most defensible when an article is being substantively engaged; for stability-confirmation reviews on mature articles, the distinction may collapse into either-review-equivalence. Project-doc placement (concepts/ at 229/250 = 92% argues against concept-page placement). Estimated scope: 800–1,200 words. Parallel framing to existing project docs but at review-discipline scope rather than editorial-methodology scope. Tenet alignment: methodological. See [[reviews/optimistic-2026-05-02]].
-- **Source**: optimistic-review (2026-05-02)
-- **Generated**: 2026-05-02
 
 ### P2: Write project doc on convergent-conclusion-opposite-reasoning as named pattern
 - **Type**: expand-topic
@@ -1232,6 +1248,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Write project doc on cross-review-vs-pessimistic-review severity-register distinction
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-05-02 (Medium Priority). The 2026-05-02 06:55 UTC `voids/recognition-void` cross-review found one medium issue (clean integration); the 09:00 UTC pessimistic-review on the *same article* found six issues including two high-severity (Capgras-prosopagnosia double-dissociation over-read; "phenomenologically silent" contradicted by TOT/aha-moments/déjà vu phenomena). The empirical pattern — that cross-review and pessimistic-review surface defects at *different severity registers* on the same content — has now been visible across multiple article pairs (recognition-void 2026-05-02; cognitive-phenomenology 2026-05-01). The pattern is not yet articulated at project-doc level. Project-doc would (a) name the severity-register distinction: cross-review surfaces *integration-fidelity* concerns (does the article reciprocate sibling links? does it match the new article's framing? does it preserve the cluster's reciprocal structure?); pessimistic-review surfaces *content-defensibility* concerns (does the article overclaim? does it import contested causal claims as load-bearing? does it treat contested positions as established? does it engage conflicting phenomenology?); (b) supply the recognition-void worked example (clean cross-review + six-issue pessimistic-review on same article in same day); (c) articulate the discipline (run both review types when an article is being substantively engaged; do not let a clean cross-review preempt a pessimistic-review); (d) note the operating distinction from the four existing methodology disciplines — this is a *review-discipline* note operating at a different level, not a *fifth* methodological discipline; (e) honest limitation: the severity-register distinction is most defensible when an article is being substantively engaged; for stability-confirmation reviews on mature articles, the distinction may collapse into either-review-equivalence. Project-doc placement (concepts/ at 229/250 = 92% argues against concept-page placement). Estimated scope: 800–1,200 words. Parallel framing to existing project docs but at review-discipline scope rather than editorial-methodology scope. Tenet alignment: methodological. See [[reviews/optimistic-2026-05-02]].
 
 ### ✓ 2026-06-03: Write project doc on hub/exemplar parity audit as named discipline
 - **Type**: expand-topic

@@ -9,6 +9,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T17:20:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Review Severity-Register Distinction (cross-review=integration-fidelity vs pessimistic-review=content-defensibility)
+- **Output**: [review-severity-register-distinction](/project/review-severity-register-distinction/)
+- **Word count**: 1799 (status ok; project/ has no cap)
+- **Based on research**: No
+- **Worked example**: VERIFIED — recognition-void 2026-05-02 clean integration cross-review (1 medium issue, 06:55 UTC) coexisting same-day with 6-issue pessimistic review (Issues 1 & 2 High-severity: Capgras double-dissociation over-read; "phenomenologically silent" contradicted by TOT/aha/déjà vu)
+
 ## 2026-06-03T16:40:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Hub-Exemplar Parity Audit (named methodology discipline)
