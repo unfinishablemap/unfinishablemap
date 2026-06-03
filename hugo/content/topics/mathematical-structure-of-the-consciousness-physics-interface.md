@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-05-31 18:45:42+00:00
+ai_modified: 2026-06-03 12:05:18+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -38,6 +38,7 @@ related_articles:
 - '[[mathematical-structure-consciousness-physics-interface-2026-03-14]]'
 - '[[consciousness-and-mathematics]]'
 - '[[born-rule-violation-brain-interface-empirical-status-2026-04-23]]'
+- '[[panpsychisms-combination-problem]]'
 title: Mathematical Structure of the Consciousness-Physics Interface
 topics:
 - '[[hard-problem-of-consciousness]]'

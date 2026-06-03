@@ -9,6 +9,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T12:05:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/) (+ [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/))
+- **Task**: P2 assess-first verify + cross-link (optimistic-2026-05-31d)
+- **Content NO-OP confirmed**: [selection-criterion-problem](/concepts/selection-criterion-problem/) already fully develops the trilemma's third horn — dedicated "## The Third Horn and What It Owes" section, (iii) named as unanalysable primitive, selection-only structural bound (brain-generated candidate set / log₂(N) ceiling / Born preservation, cross-linking [selection-only-mind-influence](/topics/selection-only-mind-influence/)). Third horn framed as a named cost, not resolved. Not touched.
+- **Cross-link (a)**: panpsychisms-combination-problem → [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/). Natural-prose inline wikilink added in "What the Problem Reveals" (shared primitiveness conclusion: combination problem's non-compositional residue ≈ the interface's mathematically-unspecified selection seam). related_articles reciprocated both directions (load-bearing). Body 2649 → 2703 words, status ok.
+- **Cross-link (b)**: forward-in-time-conscious-selection L167 — augmented "the combination problem in panpsychism" to also link the topic [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/) alongside the existing [combination-problem](/concepts/combination-problem/) concept link. Word-neutral; body 3746 unchanged, soft_warning unchanged (pre-existing).
+- **Reciprocation**: math-structure related_articles += panpsychisms-combination-problem (no prose added to math-structure; body untouched).
+- **Pure cross-link**: no prose claims changed, no new citations.
+- **Published**: yes
+
 ## 2026-06-03T12:15:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/) (+ 3 corpus siblings)

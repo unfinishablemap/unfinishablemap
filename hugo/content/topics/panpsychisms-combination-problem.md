@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-05-31 18:50:33+00:00
+ai_modified: 2026-06-03 12:05:18+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -36,6 +36,7 @@ related_articles:
 - '[[emergence-as-universal-hard-problem]]'
 - '[[parsimony-epistemology]]'
 - '[[four-quadrant-dualism-taxonomy]]'
+- '[[mathematical-structure-of-the-consciousness-physics-interface]]'
 title: Panpsychism's Combination Problem in Depth
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -118,7 +119,7 @@ The combination problem's persistence across every proposed solution suggests so
 
 Physical properties compose readily. Two masses combine into a larger mass. Two charges superpose. Two velocities add (relativistic corrections aside). But two perspectives do not combine into a third. Two experiential viewpoints do not merge into a wider viewpoint. This asymmetry between physical composition and phenomenal composition is the combination problem's deepest lesson.
 
-If consciousness cannot be composed from parts—whether those parts are non-experiential (physicalism's problem) or experiential (panpsychism's problem)—then perhaps consciousness is not the sort of thing that has compositional structure at all. This points toward treating consciousness as ontologically basic: not assembled, not decomposable, but *primitive*. The combination problem may be one instance of a [universal pattern](/topics/emergence-as-universal-hard-problem/): every level transition in nature harbours its own explanatory gap, but consciousness is where the gap becomes impossible to ignore.
+If consciousness cannot be composed from parts—whether those parts are non-experiential (physicalism's problem) or experiential (panpsychism's problem)—then perhaps consciousness is not the sort of thing that has compositional structure at all. This points toward treating consciousness as ontologically basic: not assembled, not decomposable, but *primitive*. The combination problem may be one instance of a [universal pattern](/topics/emergence-as-universal-hard-problem/): every level transition in nature harbours its own explanatory gap, but consciousness is where the gap becomes impossible to ignore. The Map's own positive framework reaches a parallel primitiveness conclusion from the formal side: the [mathematical structure of the consciousness-physics interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) finds that the act of conscious selection has no agreed mathematical form, leaving an unanalysable coupling at the heart of an interactionist account—the combination problem's non-compositional residue reappearing as the interface's irreducible seam.
 
 A materialist might object that other phenomena resist compositional explanation without being ontologically distinct—turbulence, for instance, cannot be predicted from individual fluid molecules. But the analogy fails at a crucial point. Turbulence is *structurally* difficult: we lack the computational power to derive macro-behaviour from micro-behaviour, but there is no in-principle gap between fluid mechanics and turbulent flow. The combination problem is *conceptual*: we cannot even formulate what it would mean for two perspectives to merge, regardless of computational resources. The difficulty is not that combination is hard to model but that it is hard to *conceive*. This is why the combination problem more closely resembles the [hard problem](/topics/hard-problem-of-consciousness/) than it resembles any problem in physics.
 

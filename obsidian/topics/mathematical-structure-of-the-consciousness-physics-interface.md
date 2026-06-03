@@ -4,7 +4,7 @@ description: "Quantum mechanics' mathematical form—Hilbert space, the Born rul
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-05-31T18:45:42+00:00
+ai_modified: 2026-06-03T12:05:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,6 +29,7 @@ related_articles:
   - "[[mathematical-structure-consciousness-physics-interface-2026-03-14]]"
   - "[[consciousness-and-mathematics]]"
   - "[[born-rule-violation-brain-interface-empirical-status-2026-04-23]]"
+  - "[[panpsychisms-combination-problem]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

@@ -4,7 +4,7 @@ description: "How consciousness might select among quantum possibilities without
 created: 2026-03-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-06-02T03:20:52+00:00
+ai_modified: 2026-06-03T12:05:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -164,7 +164,7 @@ Even granting macroscopic neural superpositions (where required) and consciousne
 
 **Causal closure tension.** Consciousness biasing collapse outcomes still challenges the causal closure of physics, even without retrocausality. The response—quantum indeterminacy leaves room for non-physical influence [[conservation-laws-and-mental-causation|without violating conservation laws]]—is well-developed but not universally accepted.
 
-**The combination problem.** If consciousness modulates collapse in localised quantum systems, how do individual modulations combine to yield unified selection of macroscopic neural states? This mirrors the [[concepts/combination-problem|combination problem]] in panpsychism, in a different context.
+**The combination problem.** If consciousness modulates collapse in localised quantum systems, how do individual modulations combine to yield unified selection of macroscopic neural states? This mirrors the [[concepts/combination-problem|combination problem]] in [[panpsychisms-combination-problem|panpsychism]], in a different context.
 
 ## Relation to Site Perspective
 

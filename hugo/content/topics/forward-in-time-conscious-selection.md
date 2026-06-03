@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-30
-ai_modified: 2026-06-02 03:20:52+00:00
+ai_modified: 2026-06-03 12:05:18+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -168,7 +168,7 @@ Even granting macroscopic neural superpositions (where required) and consciousne
 
 **Causal closure tension.** Consciousness biasing collapse outcomes still challenges the causal closure of physics, even without retrocausality. The response—quantum indeterminacy leaves room for non-physical influence [without violating conservation laws](/concepts/conservation-laws-and-mental-causation/)—is well-developed but not universally accepted.
 
-**The combination problem.** If consciousness modulates collapse in localised quantum systems, how do individual modulations combine to yield unified selection of macroscopic neural states? This mirrors the [combination problem](/concepts/combination-problem/) in panpsychism, in a different context.
+**The combination problem.** If consciousness modulates collapse in localised quantum systems, how do individual modulations combine to yield unified selection of macroscopic neural states? This mirrors the [combination problem](/concepts/combination-problem/) in [panpsychism](/topics/panpsychisms-combination-problem/), in a different context.
 
 ## Relation to Site Perspective
 
