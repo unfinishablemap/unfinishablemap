@@ -409,14 +409,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-05-11
 
-### P2: Write topic article on the contentless-awareness / turiya evidence question
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-05-27c (Medium Priority — agency-causation-interface cohort). `topics/essential-vs-contingent-consciousness.md` (created 2026-05-27) gestures at contemplative "witnessed deep sleep" / *turiya* claims and rightly flags that "a felt sense of having witnessed is not, by itself, evidence of veridical witnessing" — but does not develop the evidence question at length. A focused topic article should examine the Metzinger-2020 "minimal phenomenal experience" (MPE) literature and the *turiya* contemplative-report tradition against the five-tier evidential-status scale, treating contentless-awareness-in-dreamless-sleep explicitly as a **live hypothesis** (NOT a realistic-possibility-or-higher upgrade) and naming the structural reason it resists settlement (the reporting apparatus is exactly what is offline in the target state). Must be written to the same Hardline-Empiricist-load-bearing discipline standard as its parent: separate the phenomenological datum (subjects report a contentless-but-vivid mode) from the metaphysical claim (a witness persisted through genuine unconsciousness), and decline any tenet-as-evidence-upgrade. Cross-link to `[[topics/essential-vs-contingent-consciousness]]`, `[[voids/sleep-consciousness-void]]`, `[[concepts/witness-consciousness]]`, `[[concepts/evidential-status-discipline]]`, `[[concepts/minimal-consciousness-void]]`. Target section: topics/ (~250/270, room available but tight — confirm cap headroom at execution; if full, absorb into the parent or into `[[voids/sleep-consciousness-void]]`). Estimated scope: ~2,000–2,800 words. Tenet alignment: Tenet 5 (Occam's Razor Has Limits — careful investigators in two traditions disagree, so parsimony does not settle it), Tenet 1 (Dualism). See [optimistic-2026-05-27c](/reviews/optimistic-2026-05-27c/).
-- **Review file**: `reviews/optimistic-2026-05-27c.md`
-- **Source**: optimistic-review (2026-05-27c)
-- **Generated**: 2026-05-27
-
 ### P2: Cross-review topics/epistemology-of-convergence-arguments.md against the convergence article's three new structural commitments
 - **Type**: cross-review
 - **Status**: pending
@@ -1276,6 +1268,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Write topic article on the contentless-awareness / turiya evidence question
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-05-27c (Medium Priority — agency-causation-interface cohort). `topics/essential-vs-contingent-consciousness.md` (created 2026-05-27) gestures at contemplative "witnessed deep sleep" / *turiya* claims and rightly flags that "a felt sense of having witnessed is not, by itself, evidence of veridical witnessing" — but does not develop the evidence question at length. A focused topic article should examine the Metzinger-2020 "minimal phenomenal experience" (MPE) literature and the *turiya* contemplative-report tradition against the five-tier evidential-status scale, treating contentless-awareness-in-dreamless-sleep explicitly as a **live hypothesis** (NOT a realistic-possibility-or-higher upgrade) and naming the structural reason it resists settlement (the reporting apparatus is exactly what is offline in the target state). Must be written to the same Hardline-Empiricist-load-bearing discipline standard as its parent: separate the phenomenological datum (subjects report a contentless-but-vivid mode) from the metaphysical claim (a witness persisted through genuine unconsciousness), and decline any tenet-as-evidence-upgrade. Cross-link to `[[topics/essential-vs-contingent-consciousness]]`, `[[voids/sleep-consciousness-void]]`, `[[concepts/witness-consciousness]]`, `[[concepts/evidential-status-discipline]]`, `[[concepts/minimal-consciousness-void]]`. Target section: topics/ (~250/270, room available but tight — confirm cap headroom at execution; if full, absorb into the parent or into `[[voids/sleep-consciousness-void]]`). Estimated scope: ~2,000–2,800 words. Tenet alignment: Tenet 5 (Occam's Razor Has Limits — careful investigators in two traditions disagree, so parsimony does not settle it), Tenet 1 (Dualism). See [optimistic-2026-05-27c](/reviews/optimistic-2026-05-27c/).
 
 ### ✓ 2026-06-03: Cross-link type-specificity concept page (when created) to the-binding-problem and baseline-cognition as exhibits at three grains
 - **Type**: cross-review
