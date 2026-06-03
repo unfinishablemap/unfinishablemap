@@ -9,6 +9,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T10:08:00+00:00 - deep-review
+- **Status**: Success (converged-no-op — skipped, no content change)
+- **File**: [the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/)
+- **Verdict**: Converged-no-op, NOT a justified pick. The article was deep-reviewed THIS UTC day (4th pass, 2026-06-03 04:50 UTC, commit a29194122) with the full post-coalescence battery already executed: post-condense calibration audit (two dropped qualifiers restored), citation web-verify of the recent/specialist cites (Li/van Vugt/Colarelli 2018, Resnick 2017, Aflalo & Graziano 2008 — all confirmed at publisher), coalesce-coherence + merge-seam check, link-rot check, quote audit. `ai_modified`==`last_deep_review`==04:50:28Z and the working tree is clean — NOTHING has changed since. Re-reviewing the same article hours later violates "don't review the same document twice in quick succession" / "don't oscillate." Per the candidate algorithm, reviewed-unchanged docs are excluded.
+- **Independent post-coalescence re-verification (corroborates morning pass)**: no duplicate refs from the merge (uniq -d empty); no reference-list URL rot to coalesced slugs; body wikilinks clean (no rot to numerosity/quantitative-intuition/mathematical/scale-void); all three merged-away slugs archived with `archived: true`.
+- **Word count**: 2403 → 2403 (no change; soft_warning, 120% of 2000 voids soft, well under 3000 hard).
+- **Follow-on flagged (out-of-scope, NOT fixed here)**: documented coalesce-stale-hugo-duplicate-urls bug confirmed for this merge — `hugo/content/voids/{numerosity-void,quantitative-intuition-void,mathematical-void}.md` still serve FULL stale un-flagged content (2216/2154/2613 body words, no archive marker in frontmatter) at the original URLs, while the `archive/voids/*` copies correctly carry `archived: true`. Sync-doesn't-delete-on-archive code bug (same class as imagination-and-creativity-void / aesthetic-void / thoughts-that-slip-away); SEO + stale-duplicate issue; code-fix + bulk-cleanup candidate, not a content edit to the merge target.
+- **Output**: No new review file (existing [deep-review-2026-06-03-the-quantitative-comprehension-void](/reviews/deep-review-2026-06-03-the-quantitative-comprehension-void/) stands; convergence indicator says next trigger is substantive modification or new condense, not routine staleness).
+
 ## 2026-06-03T09:55:13+00:00 - deep-review
 - **Status**: Success
 - **File**: [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)
