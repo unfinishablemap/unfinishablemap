@@ -4,8 +4,8 @@ description: "How deep expertise irreversibly transforms conscious experience an
 created: 2026-03-05
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-06-01T02:38:05+00:00
-last_deep_review: 2026-04-27T03:43:00+00:00
+ai_modified: 2026-06-03T01:12:38+00:00
+last_deep_review: 2026-06-03T01:12:38+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -68,7 +68,7 @@ Merleau-Ponty's phenomenology anticipated these findings. His concept of the *in
 
 That consciousness withdraws from automated skill is uncontroversial—the procedural handoff mechanism is [[skill-delegation]], which [[delegatory-causation]] treats as the inverse direction of the Saad mechanism: experience delegating causal work to procedure rather than physical states delegating to experience. The void's distinctive claim is sharper: after this withdrawal, consciousness loses the ability to return without damaging the skill it once built. Preemption becomes structural, and the attempt at re-entry is the lock itself. Reinvestment theory provides the evidence. When anxious experts attempt to consciously control what has become automatic—"reinvesting" explicit knowledge into automated performance—the skill degrades (Masters, 1992). High reinvesters display greater susceptibility to [[empirical-phenomena-mental-causation|choking under pressure]]. The athlete who thinks about their swing misses the ball. The pianist who attends to their fingers stumbles. The expert cyclist who attends to their balance falls.
 
-This goes beyond the gradual fading of an unused capacity. The barrier is *functional*: performance degrades whenever consciousness crosses it. Polanyi captured the structural reason in a single image: "You cannot use your spectacles to scrutinize your spectacles" (Polanyi, 1966). The instruments of tacit knowing cannot simultaneously serve as objects of knowing. Focus on the subsidiary and the integrated meaning dissolves.
+This goes beyond the gradual fading of an unused capacity. The barrier is *functional*: performance degrades whenever consciousness crosses it. Polanyi captured the structural reason in a single image: you cannot use your spectacles to scrutinise your spectacles. The instruments of tacit knowing cannot simultaneously serve as objects of knowing. Focus on the subsidiary and the integrated meaning dissolves.
 
 ## Expertise-Induced Amnesia
 
@@ -161,7 +161,7 @@ It also parallels [[necessary-opacity]] at a structural level. Both voids treat 
 3. Dreyfus, H. L., & Dreyfus, S. E. (1986). *Mind over Machine: The Power of Human Intuition and Expertise in the Era of the Computer*. Free Press.
 4. Dreyfus, H. L. (2002). Intelligence without representation. *Phenomenology and the Cognitive Sciences*, 1, 367-383.
 5. Gobet, F., & Simon, H. A. (1998). Expert chess memory: Revisiting the chunking hypothesis. *Memory*, 6(3), 225-255.
-6. Høffding, S., & Montero, B. G. (2020). Not being there: An analysis of expertise-induced amnesia. *Mind & Language*, 35(4), 521-538.
+6. Høffding, S., & Montero, B. G. (2020). Not being there: An analysis of expertise-induced amnesia. *Mind & Language*, 35(5), 621-640.
 7. Masters, R. S. W. (1992). Knowledge, knerves and know-how: The role of explicit versus implicit knowledge in the breakdown of a complex motor skill under pressure. *British Journal of Psychology*, 83, 343-358.
 8. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge.
 9. Montero, B. G. (2016). *Thought in Action: Expertise and the Conscious Mind*. Oxford University Press.

@@ -5,6 +5,18 @@ ai_modified: 2026-06-03T00:20:14+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T01:12:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/expertise-and-its-occlusion]]
+- **Word count**: 2821 → 2819 (-2; net-neutral, under voids 3000 hard)
+- **Critical issues addressed**: 2 (citation-integrity)
+  - Høffding & Montero (2020) wrong issue/pages: cited 35(4):521-538 → corrected to verified publisher record 35(5):621-640 (Wiley DOI 10.1111/mila.12260).
+  - Polanyi spectacles verbatim quote misattributed to (Polanyi, 1966)/*The Tacit Dimension* — the verbatim sentence is sourced to Polanyi & Prosch (1977), *Meaning*, p. 37. De-quoted to a faithful paraphrase (length-neutral; avoids adding a reference entry under tight budget; image is genuinely Polanyi's). Polanyi (1966) ref entry still valid for "We can know more than we can tell".
+- **Citation web-verify**: all 13 references checked at publisher/canonical records; 11 clean (Chase & Simon 1973, Gobet & Simon 1998 incl. 50–100k estimate, Dreyfus 2002 absorption quote, Dreyfus/Merleau-Ponty athlete paraphrase, Masters 1992 incl. "knerves", Newton 1990 tappers, Nathan & Petrosino 2003, Camerer/Loewenstein/Weber 1989, Polanyi 1966 "know more than tell", Paul 2014, Dreyfus & Dreyfus 1986 / Merleau-Ponty / Montero 2016). No fabrication, no famous-name substitution.
+- **Calibration**: void kept POSITED not proven; no epistemic→metaphysical slide; tenet links framed as the Map's reading. Honest.
+- **Medium issues addressed**: 0 (converged)
+- **Output**: [[reviews/deep-review-2026-06-03-expertise-and-its-occlusion]]
+
 ## 2026-06-03T01:00:35+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[topics/brain-internal-born-rule-testing]], [[topics/selection-only-mind-influence]], [[research/selection-only-mind-influence-information-limits-2026-05-05]], [[project/causal-budget-ledger]]
