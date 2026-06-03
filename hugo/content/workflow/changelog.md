@@ -9,6 +9,28 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T08:53:17+00:00 - refine-draft
+- **Status**: Success
+- **File**: [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/)
+- **Task**: P2 topic-concept anchoring-audit calibration fix vs anchor [substance-property-dualism](/concepts/substance-property-dualism/) (both `hedge_density` and `strong_assertions` fired on a live re-run).
+- **Changes**: surgical calibration-only edits, no taxonomic claim weakened.
+  - Softened the 1 strong-assertion verb: in the [channel-width-third-axis](/topics/channel-width-third-axis/) forward-reference (§Limits of the Thickness Metaphor), "**confirms** that the added coordinate locates Stapp by definition" → "**indicates** that…" (epistemically appropriate: a posited scheme's result, not a proof). `strong_assertion_count` 1 → 0.
+  - Added 2 warranted hedges via in-place word-swaps on genuinely defeasible claims (the taxonomy is a posited organizing scheme, [evidential-status-discipline](/project/evidential-status-discipline/)): Q4 cell — "where the strongest combinations…**live**" → "arguably also where… **may live**"; scope note — monist limit cases "that sit…and illuminate" → "that **arguably** sit…and **may** illuminate". `hedge_count` 18 → 20.
+  - Did NOT hedge-stuff toward the outlier-high anchor (9.826/kw); landed at 6.179/kw, clearing the 60% threshold (5.896) on its own merits.
+- **Before → after**: word_count 3233 → 3237; hedge_count 18 → 20 (5.568 → 6.179/kw); strong_assertion_count 1 → 0.
+- **Verification**: `evaluate_anchoring(...)` returns CLEAR (empty); both prior failed_checks resolved. Citation metadata (Saad 2025 *Phil Studies* 182:939–967; Nida-Rümelin 2010) preserved verbatim. No new citations, no quote edits.
+- **Published**: yes
+
+## 2026-06-03T08:48:54+00:00 - apex-evolve
+- **Status**: Success
+- **Article**: [pharmacological-dissociation-as-evidence](/apex/pharmacological-dissociation-as-evidence/)
+- **Mode**: check + targeted maintenance. Assessed all 30 apex; declined the two top staleness scorers (machine-question 4985w = human-length-decision near hard ceiling; altered-states deep-reviewed 2026-06-02 = converged, no-op).
+- **apex_sources integrity**: clean across all 30 apex — zero missing/coalesced source slugs, no repoints needed.
+- **Citation defect fixed**: inherited **niaf011 misattribution** from corpus-wide fix `19ae55437` (2026-06-03). Line 156 "Hameroff et al. (2025) delayed-luminescence work" → **"Wiest (2025)"**. Web-verified at publisher of record (Oxford Academic / PubMed PMID 40342554): niaf011 is single-authored by **Michael C. Wiest** (Wellesley). Per ai_citation_metadata_unreliable. The two other apex citing niaf011 already carried correct Wiest attribution; this was the only defect.
+- **Length**: length-neutral, 4200 → 4200 words (one author-name swap). Calibration/hedges preserved verbatim.
+- **Changed sources**: 1 (the citation correction); **Word count**: 4200 → 4200
+- **Review**: [apex-evolve-2026-06-03-pharmacological-dissociation-as-evidence](/reviews/apex-evolve-2026-06-03-pharmacological-dissociation-as-evidence/)
+
 ## 2026-06-03T08:28:41+00:00 - deep-review
 - **Status**: Success
 - **File**: [vagueness-void](/voids/vagueness-void/)

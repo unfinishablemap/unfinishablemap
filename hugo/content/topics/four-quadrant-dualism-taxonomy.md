@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-06-02 21:22:01+00:00
+ai_modified: 2026-06-03 08:53:17+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -73,11 +73,11 @@ The thickness axis is orthogonal to the substance/property distinction and to Ch
 
 ### Limits of the Thickness Metaphor {#limits-thickness}
 
-"Thickness" is a family of related but distinguishable measures: *structural richness* (how many layers the side posits beyond the minimum), *causal work* (how much the side contributes to producing effects), *counterfactual role* (which features the effect depends on), and *channel width* (how narrow the interaction interface is). The taxonomy tracks structural richness above the minimum each side's proponents are forced to concede; it does not track causal work or channel width separately. The Stapp illustration in §"Why the Thickness Axis Matters" suggests these dimensions can come apart: Stapp's intervention channel seems minimal, his observer ontology thick, and his quantum ontology also thick — three values across what may be only a two-axis taxonomy. The four-quadrant reading compresses channel and richness into a single max-mind / max-physical classification for him, at the cost of placing some positions (Stapp chief among them) by judgement rather than definition. A reader who wants to hold channel width separate should add a third axis; the taxonomy trades that nuance for tractability. [That deferred third axis is developed separately](/topics/channel-width-third-axis/): it orders the canonical positions by interface narrowness (Saad selection-only, Stapp narrow-channel/thick-endpoints, Cartesian energy-transfer wide, Kastrup off-axis with no channel) and confirms that the added coordinate locates Stapp by definition where this grid alone needed judgement.
+"Thickness" is a family of related but distinguishable measures: *structural richness* (how many layers the side posits beyond the minimum), *causal work* (how much the side contributes to producing effects), *counterfactual role* (which features the effect depends on), and *channel width* (how narrow the interaction interface is). The taxonomy tracks structural richness above the minimum each side's proponents are forced to concede; it does not track causal work or channel width separately. The Stapp illustration in §"Why the Thickness Axis Matters" suggests these dimensions can come apart: Stapp's intervention channel seems minimal, his observer ontology thick, and his quantum ontology also thick — three values across what may be only a two-axis taxonomy. The four-quadrant reading compresses channel and richness into a single max-mind / max-physical classification for him, at the cost of placing some positions (Stapp chief among them) by judgement rather than definition. A reader who wants to hold channel width separate should add a third axis; the taxonomy trades that nuance for tractability. [That deferred third axis is developed separately](/topics/channel-width-third-axis/): it orders the canonical positions by interface narrowness (Saad selection-only, Stapp narrow-channel/thick-endpoints, Cartesian energy-transfer wide, Kastrup off-axis with no channel) and indicates that the added coordinate locates Stapp by definition where this grid alone needed judgement.
 
 ## The Four Quadrants
 
-A scope note before the quadrants: the taxonomy ranges over non-reductive positions on mind–matter, including a few monist limit cases (neutral monism, Berkeleyan idealism, Kastrup's analytic idealism) that sit at the edges of the quadrant structure and illuminate what adjacent dualisms commit to; monist entries are flagged as such and included for contrast, not classification-as-dualism.
+A scope note before the quadrants: the taxonomy ranges over non-reductive positions on mind–matter, including a few monist limit cases (neutral monism, Berkeleyan idealism, Kastrup's analytic idealism) that arguably sit at the edges of the quadrant structure and may illuminate what adjacent dualisms commit to; monist entries are flagged as such and included for contrast, not classification-as-dualism.
 
 ### Quadrant 1: min-mind / min-physical {#q1}
 
@@ -123,7 +123,7 @@ Dualism in Q3 appears unstable: once the mental does all the ontological work, t
 - **Myers–James subliminal mind plus Bohmian hidden-variable physics**: maximal mental layering meets maximal physical structure. A hybrid rarely stated as such, but the components are independently available.
 - **Russellian panpsychism with full scientific realism**: [consciousness as intrinsic nature](/concepts/russellian-monism/) plus all of physics taken at face value (see [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/) for the Map's framing).
 
-Q4 is under-discussed in contemporary analytic philosophy. Its classical inhabitants (Descartes, Aquinas) are often dismissed as pre-modern, and contemporary training favours parsimonious ontologies. The parsimony pressure is not merely sociological: maximum commitments on both sides do carry real explanatory costs that a reader outside the Map's tenet-set can reasonably weigh against the resources Q4 affords. Yet Q4 is also where the strongest combinations of explanatory resources live — rich on both sides, with interaction as a genuine ontological phenomenon rather than a concession. Whether Q4 inhabitants lose on parsimony grounds is a case-by-case question about specific explanatory tasks, not a uniform verdict.
+Q4 is under-discussed in contemporary analytic philosophy. Its classical inhabitants (Descartes, Aquinas) are often dismissed as pre-modern, and contemporary training favours parsimonious ontologies. The parsimony pressure is not merely sociological: maximum commitments on both sides do carry real explanatory costs that a reader outside the Map's tenet-set can reasonably weigh against the resources Q4 affords. Yet Q4 is arguably also where the strongest combinations of explanatory resources may live — rich on both sides, with interaction as a genuine ontological phenomenon rather than a concession. Whether Q4 inhabitants lose on parsimony grounds is a case-by-case question about specific explanatory tasks, not a uniform verdict.
 
 ## Why the Thickness Axis Matters
 
