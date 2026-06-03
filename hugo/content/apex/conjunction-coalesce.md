@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-05-31 12:00:00+00:00
+ai_modified: 2026-06-03 01:58:00+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-05-12 03:35:00+00:00
 apex_sources:
@@ -33,7 +33,7 @@ description: When two voids are conjoined at a structural level, merging them in
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-01 04:10:00+00:00
+last_deep_review: 2026-06-03 01:58:00+00:00
 modified: *id001
 related_articles:
 - '[[apex-articles]]'

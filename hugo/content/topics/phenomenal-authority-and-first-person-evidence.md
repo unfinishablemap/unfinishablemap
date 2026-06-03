@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-06-01 10:46:59+00:00
+ai_modified: 2026-06-03 02:17:53+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -42,7 +42,7 @@ description: First-person reports carry layered epistemic authority — apodicti
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-19 16:28:35+00:00
+last_deep_review: 2026-06-03 02:17:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

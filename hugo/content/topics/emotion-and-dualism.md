@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-05-31 00:00:00+00:00
+ai_modified: 2026-06-03 01:50:39+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -51,7 +51,7 @@ topics:
 - '[[ethics-under-dualism]]'
 ---
 
-Emotional consciousness provides the strongest empirical case for interactionist dualism. The felt badness of pain and the felt goodness of joy are intrinsic phenomenal properties that resist every attempt at functional reduction. Pain asymbolia demonstrates that these properties do genuine causal work: remove the felt quality and motivation collapses, even when all functional machinery remains intact. Emotion therefore reveals not only that phenomenal properties are irreducible but that they are *causally indispensable*—unifying two conclusions that standard arguments for dualism reach only separately. The Unfinishable Map treats this convergence of irreducibility and causal efficacy as the empirical backbone of its dualist framework.
+Emotional consciousness provides the strongest empirical case for interactionist dualism. The felt badness of pain and the felt goodness of joy are intrinsic phenomenal properties that resist every attempt at functional reduction. Pain asymbolia is the strongest evidence that these properties do genuine causal work: remove the felt quality and motivation collapses, even when all functional machinery remains intact. Emotion therefore offers the Map's strongest case that phenomenal properties are not only irreducible but *causally indispensable*—unifying two conclusions that standard arguments for dualism reach only separately. The Unfinishable Map treats this convergence of irreducibility and causal efficacy as the empirical backbone of its dualist framework.
 
 ## Valence: The Irreducible Felt Quality
 
@@ -109,7 +109,7 @@ Emotions feel like the most intimate facts about us, yet we often cannot say wha
 
 Schachter and Singer's classic study (1962) showed participants interpreting identical physiological arousal differently depending on social context—as euphoria or anger—without detecting the mislabelling. Barrett's constructionist theory extends this: emotions are not detected through introspection but *constructed*. The brain generates affect and then categorises it using available concepts and context. The construction is invisible; what arrives in consciousness is the finished product.
 
-Alexithymia—difficulty identifying one's emotions, affecting ~10% of the population—opens this void further. People with alexithymia experience affect (physiological signatures are present) but cannot categorise it. The dissociation between feeling and knowing demonstrates these are separate capacities. Under dualism, this is not merely a failure of introspective machinery. If emotions have irreducible phenomenal character, knowing an emotion requires bridging two distinct domains: the phenomenal (what the emotion feels like) and the conceptual (what category it falls under). The bridge connects ontologically distinct realms, and the difficulty of crossing may be principled rather than practical. Emotional experience overflows its categories—not as a bug but as a feature of the relationship between conceptual thought and phenomenal reality.
+Alexithymia—difficulty identifying one's emotions, affecting ~10% of the population—opens this void further. People with alexithymia experience affect (physiological signatures are present) but cannot categorise it. The dissociation between feeling and knowing indicates these are separate capacities. Under dualism, this is not merely a failure of introspective machinery. If emotions have irreducible phenomenal character, knowing an emotion requires bridging two distinct domains: the phenomenal (what the emotion feels like) and the conceptual (what category it falls under). The bridge connects ontologically distinct realms, and the difficulty of crossing may be principled rather than practical. Emotional experience overflows its categories—not as a bug but as a feature of the relationship between conceptual thought and phenomenal reality.
 
 ## Valence, Moral Status, and Consciousness Boundaries
 
@@ -121,7 +121,7 @@ For [AI consciousness](/topics/ai-consciousness/), this matters critically. Func
 
 ### Dualism
 
-Emotional consciousness provides paradigm cases of irreducible [qualia](/concepts/qualia/). The felt badness of pain cannot be reduced to functional descriptions, neural patterns, or behavioural dispositions. Pain asymbolia demonstrates that the phenomenal property does real causal work—supporting both irreducibility and causal efficacy. The [Dualism tenet](/tenets/#dualism) finds its strongest empirical support here: the argument from emotion does not merely point to an explanatory gap but to a causal gap that only an irreducible phenomenal property fills.
+Emotional consciousness provides paradigm cases of irreducible [qualia](/concepts/qualia/). The felt badness of pain cannot be reduced to functional descriptions, neural patterns, or behavioural dispositions. Pain asymbolia is most naturally read, on the Map's view, as the phenomenal property doing real causal work—supporting both irreducibility and causal efficacy. The [Dualism tenet](/tenets/#dualism) finds its strongest empirical support here: the argument from emotion points beyond an explanatory gap to a causal gap that, on the Map's reading, only an irreducible phenomenal property fills.
 
 ### Bidirectional Interaction
 

@@ -1,10 +1,10 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-03-21 18:25:00+00:00
+ai_modified: 2026-06-03 02:27:05+00:00
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-03-21
-date: '2026-03-21'
+date: '2026-06-03'
 draft: false
 related_articles: []
 title: Research Notes - Clinical Neuroplasticity Evidence for Bidirectional Mental
@@ -219,7 +219,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Marzbani, H., et al. (2022). Neural effects of cognitive behavioral therapy in psychiatric disorders: A systematic review and activation likelihood estimation meta-analysis. *Frontiers in Psychology*, 13, 853804.
 - Ren, Y., et al. (2025). Activation likelihood estimation meta-analysis of the effects of cognitive behavioral therapy on brain activation in the treatment of depression and anxiety disorders. *Depression and Anxiety*, 3557367.
 - Rodríguez-Martín, M. L., et al. (2024). Neurobiological changes induced by mindfulness and meditation: A systematic review. *Biomedicines*, 12(11), 2613.
-- Marueckova, A., et al. (2024). Placebo stimulates neuroplasticity in depression: Implications for clinical practice and research. *Frontiers in Psychiatry*, 14, 1301143.
+- Seymour, J., & Mathers, N. (2024). Placebo stimulates neuroplasticity in depression: Implications for clinical practice and research. *Frontiers in Psychiatry*, 14, 1301143.
 - Carhart-Harris, R. L., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *Proceedings of the National Academy of Sciences*, 109(6), 2138-2143.
 - Kliemann, D., et al. (2019). Intrinsic functional connectivity of the brain in adults with a single cerebral hemisphere. *Cell Reports*, 29(8), 2398-2407.
 - Zeiger, W. A., et al. (2021). Bhatt, D. K., et al. Stable cortical body maps before and after arm amputation. Cited in Manzotti & Moderato (2023).

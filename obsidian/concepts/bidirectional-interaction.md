@@ -4,7 +4,7 @@ description: "Consciousness and matter causally influence each other. This tenet
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-06-02T16:22:55+00:00
+ai_modified: 2026-06-03T02:27:05+00:00
 last_deep_review: 2026-05-26T00:00:00+00:00
 draft: false
 topics:
@@ -97,7 +97,7 @@ The [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neu
 
 **Psychotherapy pathway divergence**: CBT and pharmacotherapy produce comparable clinical outcomes through *different neural pathways*. A 2022 meta-analysis (302 depressed subjects, 18 experiments) found CBT consistently decreases right amygdala activity through top-down cortical-to-limbic modulation, while SSRIs modulate bottom-up through synaptic neurochemistry (Marzbani et al., 2022). This directional asymmetry holds across depression, anxiety, and OCD—suggesting top-down and bottom-up represent genuinely different causal types rather than different descriptions of the same physical process.
 
-**Placebo neuroplasticity**: Belief states with propositional content ("this treatment will help") recruit opioid and dopamine systems and produce specific neuroplastic changes, with different beliefs about different conditions generating different neural signatures (Marueckova et al., 2024). This is a paradigmatic case of [[content-specificity-of-mental-causation|content-specific mental causation]]: meaning determines which physical effect occurs.
+**Placebo neuroplasticity**: Belief states with propositional content ("this treatment will help") recruit opioid and dopamine systems and produce specific neuroplastic changes, with different beliefs about different conditions generating different neural signatures (Seymour & Mathers, 2024). This is a paradigmatic case of [[content-specificity-of-mental-causation|content-specific mental causation]]: meaning determines which physical effect occurs.
 
 The convergence across three independent research programmes is what gives the evidence its philosophical weight. Each stream alone admits physicalist reinterpretation, but the systematic divergence between psychological (top-down) and pharmacological (bottom-up) intervention pathways is difficult to accommodate if mental descriptions are mere redescriptions of physical processes.
 
@@ -190,4 +190,4 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [[inter
 1. Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
 1. Schwartz, J. M. (1998). Neuroanatomical aspects of cognitive-behavioural therapy response in obsessive-compulsive disorder. *British Journal of Psychiatry*, 173(Suppl. 35), 38-44.
 1. Marzbani, H., et al. (2022). Neural effects of cognitive behavioral therapy in psychiatric disorders: A systematic review and activation likelihood estimation meta-analysis. *Frontiers in Psychology*, 13, 853804.
-1. Marueckova, A., et al. (2024). Placebo stimulates neuroplasticity in depression: Implications for clinical practice and research. *Frontiers in Psychiatry*, 14, 1301143.
+1. Seymour, J., & Mathers, N. (2024). Placebo stimulates neuroplasticity in depression: Implications for clinical practice and research. *Frontiers in Psychiatry*, 14, 1301143.

@@ -1,13 +1,118 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03 00:20:14+00:00
+ai_modified: 2026-06-03 01:50:39+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-03'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-03T02:22:20+00:00 - pessimistic-review
+- **Status**: Success (reports-only; 1 corpus-wide citation defect found + 1 P2 refine-draft queued)
+- **Content reviewed**: [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/) (Placebo and Choking) — self-selected high-value target NOT in the heavily-reviewed 06-02/03 cluster
+- **Finding**: WEB-VERIFIED fabricated first-author "Marueckova, A." for Seymour & Mathers (2024) *Frontiers in Psychiatry* 14:1301143; propagated into 3 live files ([empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/), [bidirectional-interaction](/concepts/bidirectional-interaction/), research note). Load-bearing recent cites (Fendel 2025, Benedetti 2003, Hróbjartsson & Gøtzsche 2010) verified CLEAN. Article otherwise well-calibrated — no substantive content findings.
+- **Queued**: P2 refine-draft (corpus-wide author fix), top of Active Tasks
+- **Output**: [pessimistic-2026-06-03](/reviews/pessimistic-2026-06-03/)
+
+## 2026-06-03T02:17:53+00:00 - deep-review
+- **Status**: Success (converged; 7th no-critical pass; full citation web-verify; METADATA-ONLY)
+- **File**: [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
+- **Word count**: 3993 → 3993 (0; body unchanged — net-neutral, sits 7w under topics hard ceiling 4000)
+- **Selection**: GENUINE change since last_deep_review (2026-05-19) — the 2026-06-01 metacognition-calibration refine (hedge_density 3.34→5.26/kw, strong_assertion 0.77→0.25/kw, +2 underdetermination markers; grew 3889→3993). Tenet-3, 26-ref citation-heavy.
+- **Citation web-verify (publisher-level)**: ALL CLEAN.
+  - Berghofer (2019) *EJP* 27(1) DOI 10.1111/ejop.12405 — VERIFIED (Graz; Husserl-as-evidentialist stance accurate). Berghofer (2023) "Demystifying Originary Givenness" *Bull. d'analyse phénoménologique* 19(3):205-219 — VERIFIED (real, recent, correctly attributed).
+  - Brewer et al. (2011) *PNAS* 108(50):20254-20259 DOI 10.1073/pnas.1112029108 — VERIFIED exact; cross-modal-verification use stance-faithful.
+  - Verbatim quotes: Husserl "adequacy and apodicticity of evidence need not go hand in hand" (*Cartesian Meditations* §6) EXACT; Rorty "the mark of the mental" (title; *J.Phil* 67(12):399-424) EXACT. Huemer "pushiness" / Siegel "bad basis" faithful.
+  - Chalmers (2003) "Content and Epistemology of Phenomenal Belief" (Smith & Jokic, OUP, pp.220-272) — VERIFIED stance. Carruthers (2011) *Opacity of Mind* OUP — VERIFIED; process-only confinement accurate. Petitmengin (2006) consistent with this session's prior clean verify.
+  - **Schwitzgebel (2008)** *Phil Review* 117(2):245-273 — VERIFIED exact. Skeptic-fairness check (key for an authority article): PASS — engaged as THE skeptic, layer-3 conceded ("his case strongest"), layer-2 "mixed"; NOT misrepresented as supporting authority.
+- **Calibration check (Tenet-3)**: PASS on all axes. Defeasible-not-infallible (layer 1 "approaches incorrigibility", not infallible; layer 3 "may be no more reliable than third-person inference"). Metacognitive confidence ≠ accuracy preserved (acquaintance/judgement split; confabulation felt-rightness "anti-correlated with accuracy"). No epistemic→metaphysical slide (explicit PC/irreducibility separation). Illusionist bedrock declared underdetermined, not refuted. No possibility/probability slippage.
+- **Reasoning-mode (editor-internal)**: eliminativism/theory-ladenness — Mode Two→Three (unearned referring-case modelling identified, then bedrock declared honestly); Dennett/heterophenomenology — Mode Two (narrowed to the "adequately captures what experience is like" point); Carruthers — Mode One (in-framework). No label leakage.
+- **Anchors**: all resolve (somatic-interface#Channels…, mechanism-costs#q1, heterophenomenology#Heterophenomenology vs. Neurophenomenology, microphenomenological#Confabulation-Resistance Discipline, interface-formalization-void).
+- **Critical issues addressed**: 0 | **Medium**: 0 | **Enhancements**: 0 (converged; deliberately net-neutral at the ceiling)
+- **Length note**: legitimate **human-length-decision candidate** — calibration-saturated at 3993/4000; cannot absorb future expansion without breaching the ceiling or auto-condensing protected calibration prose (a human call). No defect requiring expansion found, so none forced.
+- **Output**: [deep-review-2026-06-03-phenomenal-authority-and-first-person-evidence](/reviews/deep-review-2026-06-03-phenomenal-authority-and-first-person-evidence/)
+
+## 2026-06-03T02:01:01+00:00 - deep-review
+- **Status**: Success (converged — citation-verify verdict, no body edits)
+- **File**: [self-opacity](/voids/self-opacity/)
+- **Selection**: Queued on LARGE review-gap (32d; last_deep_review 2026-04-30). 8th review pass; 7 prior reviews, zero critical issues. Value axes were citation web-verify + calibration (recent touches mechanical).
+- **Citation web-verify (publisher-level)**: ALL CLEAN.
+  - Libet (1985) BBS 8(4):529-566 — VERIFIED. RP ~550ms / conscious awareness ~200ms figures (line 112) match exactly; ~350ms lag. Article reads Libet as process-opacity, not as proving unconscious decision — no over-read, Schurger engagement correctly optional.
+  - Soon et al. (2008) Nat. Neuro. 11(5):543-545 — VERIFIED. Authors Soon/Brass/Heinze/Haynes; "seven seconds" + ~60% accuracy both confirmed (frontopolar/precuneus decoding ~7s before awareness; 60% prediction). Article's conservative "up to seven seconds (~60%)" accurate vs the 7-10s literature range.
+  - Johansson et al. (2005) Science 310(5745):116-119 — VERIFIED. First-author Johansson; venue/pages confirmed; covert-switch / fail-to-notice (≤26% detection) / confabulate finding accurate.
+  - Verbatim quotes: James "seizing a spinning top to catch its motion" (Principles 1890) EXACT; Hume "I never can catch myself at any time without a perception" (Treatise I.IV.6, bundle) EXACT.
+  - Specialist/canonical (Metzinger "transparent self-model"/Being No One; Shoemaker 1968 J.Phil 65(19) immunity-to-error; Wegner priority/consistency/exclusivity; Nisbett & Wilson 1977; Sass & Parnas 2003 Schiz. Bull. 29(3):427-444; Kant/Sartre/Wittgenstein 5.63-5.641/Gödel/Merleau-Ponty) — famous-name + stance all correct, no substitutions.
+- **Calibration check**: PASS. Void stays POSITED not proven (line 70 "the Map proposes"; line 126 "stronger reading"). Empirical evidence deployed for process-OPACITY only; no epistemic→metaphysical slide. Eliminativist engagement (line 132, "limits of observation ≠ evidence of absence"; "the self is not found... for the same reason the eye is not found in the visual field") is a calibrated, internal-to-opponent move — preserved untouched. "What Would Challenge This View" + "Constitutive as Kind, Not as Degree" keep the void falsifiable.
+- **Reasoning-mode (engagement with the eliminativist)**: Mode One/Two — argues the position "stumbles on its own terms" (Hume couldn't make the bundle account work; Metzinger owes an account of *experienced* transparency); internal-to-opponent, not boundary-substitution. No editor-vocabulary label leakage in prose.
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; timestamp-only)
+- **Word count**: 2752 → 2752 body (no change; 248 under voids hard 3000)
+- **Output**: [deep-review-2026-06-03-self-opacity](/reviews/deep-review-2026-06-03-self-opacity/)
+
+## 2026-06-03T01:58:00+00:00 - deep-review
+- **Status**: Success (converged — metadata-only verdict)
+- **File**: [conjunction-coalesce](/apex/conjunction-coalesce/)
+- **Selection**: Self-selected; rejected the scorer's headline pick (interaction-problem-across-traditions, refined TWICE this prior session — same-session churn; scorer mis-read `modified` not `ai_modified`). On-disk re-scan chose this apex: `last_deep_review: 2026-05-01`, genuine own-content addition 2026-05-31 (§"The Seam Test Turned Inward"), 30-day+ unreviewed gap, not touched this session. Discharges open queue task todo.md line 67 (P3: Deep-review apex/conjunction-coalesce.md).
+- **Critical issues addressed**: 0 (none found — 11th review pass, converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no body edits; converged article, length-neutral mode)
+- **Citation web-verify**: Kay, Keogh & Pearson 2024 (aphantasia mental-rotation, line 96) — VERIFIED at publisher (Consciousness and Cognition, doi:10.1016/j.concog.2024.103694, PMID 38657474; authors/year/journal/"slower but accurate" finding all match). Genuine 2026-05-31 addition's mutation-void exhibit cross-checked against source: six classes, scope-bound, and absent-candidate claims all accurate.
+- **Calibration**: No possibility/probability slippage; Dualism connection properly conditionalized and routed to taxonomy-of-voids; underdetermination markers preserved.
+- **Links**: all 27 wikilink targets resolve live (incl. #the-cardinality-floor anchor).
+- **Word count**: 4510 → 4510 (no change; 113% of apex soft, under hard)
+- **Output**: [deep-review-2026-06-03-conjunction-coalesce](/reviews/deep-review-2026-06-03-conjunction-coalesce/)
+
+## 2026-06-03T01:50:39+00:00 - refine-draft
+- **Status**: Success
+- **File**: [emotion-and-dualism](/topics/emotion-and-dualism/)
+- **Trigger**: Topic-concept anchoring-audit calibration flag (anchor [explanatory-gap](/concepts/explanatory-gap/); failed_checks = hedge_density, strong_assertions). CALIBRATION-SENSITIVE: the Map's "empirical backbone" article for Dualism.
+- **Changes**: Softened 3 over-asserting "demonstrates" verbs to evidence-appropriate ones, inheriting the explanatory-gap anchor's evidential-status discipline (the pain-asymbolia / alexithymia evidence SUPPORTS the dualist causal-efficacy reading; it does not PROVE it against the physicalist who reads asymbolia as the affective component's functional role). Marked the dualist reading as the Map's reading where it engages the physicalist rival. Before→after: (1) opening para — "Pain asymbolia **demonstrates** that these properties do genuine causal work" → "**is the strongest evidence that**"; "Emotion therefore **reveals** not only that..." → "**offers the Map's strongest case that**"; (2) alexithymia section — "The dissociation between feeling and knowing **demonstrates** these are separate capacities" → "**indicates**"; (3) Dualism relation section — "Pain asymbolia **demonstrates** that the phenomenal property does real causal work" → "**is most naturally read, on the Map's view, as** the phenomenal property doing real causal work", and the causal-gap claim re-marked "on the Map's reading". THESIS PRESERVED: emotion is still the Map's strongest empirical case for dualism; "empirical backbone" framing kept.
+- **Result**: strong_assertion_count 3 → 0; flag cleared (evaluate_anchoring returns []). Clearing the strong_assertions axis drops the flag below the ≥2/3 threshold (hedge_density axis alone = 1/3). No hedges added.
+- **Length**: 2897w → 2908w (net-neutral verb swaps; soft 3000 / hard 4000, ok)
+- **Engagement**: physicalist/functionalist rival — Mode Three (framework-boundary marking); the asymbolia evidence is consistent with both the Map's reading and a functionalist reading of the affective component, so the disagreement is marked as the Map's reading rather than dressed as in-framework refutation.
+- **Published**: yes (kept draft status)
+
+## 2026-06-03T01:40:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/)
+- **Trigger**: Topic-concept anchoring-audit calibration flag (anchor [witness-consciousness](/concepts/witness-consciousness/); failed_checks = hedge_density, strong_assertions)
+- **Changes**: Softened strong-assertion verbs at the Markus & Kitayama (1991) cross-cultural-psychology claim to match what correlational findings license — "confirms the variation" → "documents the variation"; "show that individualist cultures emphasise" → "find that individualist cultures tend to emphasise"; added "tend to" to the parallel collectivist clause. Inherits the anchor's evidential-status discipline (correlational findings stated as correlational). Body scan found no other over-asserting verbs.
+- **Result**: strong_assertion_count 1 → 0; flag cleared (evaluate_anchoring returns []). No hedges added (strong-assertion axis clear alone drops the flag below the ≥2/3 threshold). hedge_count 7 (density 2.91/kw, unchanged).
+- **Length**: 2403w → 2407w (net-neutral verb swaps; soft 3000 / hard 4000, ok)
+- **Published**: yes (kept draft status)
+
+## 2026-06-03T01:36:00+00:00 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: current /loop session (2026-06-02→03) vs prior daily reports
+- **Findings**: 1 cadence (tune-system firing ~daily not monthly), 0 failure, queue healthy (replenish-at-floor steady state), citation-defect review pattern, corpus converged
+- **Tier 1 changes**: 0 applied (findings are Tier-2/3; daily-trigger would oscillate settings)
+- **Tier 2 recommendations**: 2 (mandatory web-verify for recent/specialist cites — HIGHEST VALUE, 3 citation-family resolutions + ~30 defects as evidence; encode citation-family-resolution workflow)
+- **Tier 3 items**: 5 (scorer frontmatter-token over-count; citation-lint pre-filters; stale progress fields + voids cap; tune-system daily-vs-monthly firing; deep-review SKILL.md edit for web-verify)
+- **Output**: [system-tune-2026-06-03](/reviews/system-tune-2026-06-03/)
+
+## 2026-06-03T01:30:00+00:00 - check-tenets
+- **Status**: Success
+- **Sections checked**: topics (261), concepts (251), voids (102), apex (32) — 646 articles
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 0
+- **Output**: [tenet-check-2026-06-03](/reviews/tenet-check-2026-06-03/)
+- Corpus uniformly well-aligned. "Relation to Site Perspective" / tenet-relation present in every topics/concepts/voids article. No epistemic→metaphysical slide; rival positions (illusionism, MWI, materialism) engaged-and-rebutted, never endorsed as the Map's view. Correct hedging/calibration (tenets posited not proven) not flagged per evidential-status discipline. No tasks queued.
+
+## 2026-06-03T01:12:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [expertise-and-its-occlusion](/voids/expertise-and-its-occlusion/)
+- **Word count**: 2821 → 2819 (-2; net-neutral, under voids 3000 hard)
+- **Critical issues addressed**: 2 (citation-integrity)
+  - Høffding & Montero (2020) wrong issue/pages: cited 35(4):521-538 → corrected to verified publisher record 35(5):621-640 (Wiley DOI 10.1111/mila.12260).
+  - Polanyi spectacles verbatim quote misattributed to (Polanyi, 1966)/*The Tacit Dimension* — the verbatim sentence is sourced to Polanyi & Prosch (1977), *Meaning*, p. 37. De-quoted to a faithful paraphrase (length-neutral; avoids adding a reference entry under tight budget; image is genuinely Polanyi's). Polanyi (1966) ref entry still valid for "We can know more than we can tell".
+- **Citation web-verify**: all 13 references checked at publisher/canonical records; 11 clean (Chase & Simon 1973, Gobet & Simon 1998 incl. 50–100k estimate, Dreyfus 2002 absorption quote, Dreyfus/Merleau-Ponty athlete paraphrase, Masters 1992 incl. "knerves", Newton 1990 tappers, Nathan & Petrosino 2003, Camerer/Loewenstein/Weber 1989, Polanyi 1966 "know more than tell", Paul 2014, Dreyfus & Dreyfus 1986 / Merleau-Ponty / Montero 2016). No fabrication, no famous-name substitution.
+- **Calibration**: void kept POSITED not proven; no epistemic→metaphysical slide; tenet links framed as the Map's reading. Honest.
+- **Medium issues addressed**: 0 (converged)
+- **Output**: [deep-review-2026-06-03-expertise-and-its-occlusion](/reviews/deep-review-2026-06-03-expertise-and-its-occlusion/)
 
 ## 2026-06-03T01:00:35+00:00 - refine-draft
 - **Status**: Success

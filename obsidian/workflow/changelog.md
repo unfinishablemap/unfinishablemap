@@ -5,6 +5,13 @@ ai_modified: 2026-06-03T01:50:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T02:27:05+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/empirical-phenomena-mental-causation]], [[concepts/bidirectional-interaction]], [[research/clinical-neuroplasticity-bidirectional-causation-2026-03-21]]
+- **Changes**: Pure citation-metadata fix — corrected fabricated first-author "Marueckova, A." → "Seymour, J., & Mathers, N." (Seymour first) for the 2024 *Frontiers in Psychiatry* 14:1301143 placebo-neuroplasticity paper (DOI 10.3389/fpsyt.2023.1301143, PMID 38268561). Driver web-verified author order this cycle. Fixed 5 loci: inline cite + reference in each of empirical-phenomena (lines 104/221) and bidirectional-interaction (100/193), plus the research-note reference (218). Inline form → "(Seymour & Mathers, 2024)"; reference form → "Seymour, J., & Mathers, N. (2024)". Venue/volume/article-number/title/year were already correct — author only. Length-neutral; supported claims (placebo neuroplasticity, fronto-limbic signatures) unchanged.
+- **Verification**: grep confirms 0 "Marueckova" remain in live obsidian topics/concepts/research; hugo synced copies updated; validate + sync exit 0. Historical records (reviews/changelog/todo/archive + their stale hugo dups) retain the original string by design.
+- **Published**: yes
+
 ## 2026-06-03T02:22:20+00:00 - pessimistic-review
 - **Status**: Success (reports-only; 1 corpus-wide citation defect found + 1 P2 refine-draft queued)
 - **Content reviewed**: [[topics/empirical-phenomena-mental-causation]] (Placebo and Choking) — self-selected high-value target NOT in the heavily-reviewed 06-02/03 cluster

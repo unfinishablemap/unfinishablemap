@@ -4,7 +4,7 @@ description: "Placebo effects and the choking phenomenon together form a two-sid
 created: 2026-02-02
 modified: 2026-05-10
 human_modified:
-ai_modified: 2026-05-28T00:00:00+00:00
+ai_modified: 2026-06-03T02:27:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -101,7 +101,7 @@ Kaptchuk et al. (2010) showed that patients told they were receiving placebos st
 
 Placebo effects are sometimes dismissed as classical conditioning. As Benedetti et al. (2003) show, conditioning captures part of the picture — the hormonal responses squarely — but not the analgesic and motor effects, where novel verbal instructions select the outcome directly.
 
-More fundamentally, human conditioning involves *expectation* — the conditioned stimulus works because the person expects the unconditioned response. When expectations are explicitly contradicted, conditioned responses diminish faster than in uninformed subjects (Montgomery & Kirsch, 1997). A recent review suggests placebo responses in depression may engage neuroplastic processes rather than purely transient shifts (Marueckova et al., 2024). [[predictive-processing-and-dualism|Predictive processing]] frameworks fit this: expectations function as strong priors shaping physiological prediction errors. Why those priors are accompanied by phenomenal experience returns us to the hard problem.
+More fundamentally, human conditioning involves *expectation* — the conditioned stimulus works because the person expects the unconditioned response. When expectations are explicitly contradicted, conditioned responses diminish faster than in uninformed subjects (Montgomery & Kirsch, 1997). A recent review suggests placebo responses in depression may engage neuroplastic processes rather than purely transient shifts (Seymour & Mathers, 2024). [[predictive-processing-and-dualism|Predictive processing]] frameworks fit this: expectations function as strong priors shaping physiological prediction errors. Why those priors are accompanied by phenomenal experience returns us to the hard problem.
 
 ## The Choking Side: Negative Interference
 
@@ -218,7 +218,7 @@ These phenomena contribute one strand to a [[empirical-evidence-for-consciousnes
 11. Kaptchuk, T.J. et al. (2010). Placebos without deception: A randomized controlled trial in irritable bowel syndrome. *PLoS ONE*, 5(12), e15591.
 12. Levine, J.D., Gordon, N.C., & Fields, H.L. (1978). The mechanism of placebo analgesia. *The Lancet*, 312(8091), 654-657.
 13. Lowe, E. J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
-14. Marueckova, A. et al. (2024). Placebo stimulates neuroplasticity in depression: Implications for clinical practice and research. *Frontiers in Psychiatry*, 14, 1301143.
+14. Seymour, J., & Mathers, N. (2024). Placebo stimulates neuroplasticity in depression: Implications for clinical practice and research. *Frontiers in Psychiatry*, 14, 1301143.
 15. Masters, R. S. W. (1992). Knowledge, knerves and know-how: The role of explicit versus implicit knowledge in the breakdown of a complex motor skill under pressure. *British Journal of Psychology*, 83(3), 343-358.
 16. Merleau-Ponty, M. (1945/1962). *Phenomenology of Perception*. Routledge.
 17. Montgomery, G.H. & Kirsch, I. (1997). Classical conditioning and the placebo effect. *Pain*, 72(1-2), 107-113.
