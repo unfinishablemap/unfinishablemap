@@ -5,6 +5,19 @@ ai_modified: 2026-06-03T06:59:03+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T07:13:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/direction-of-fit]]
+- **Pick**: scorer candidate (score 48, 24d since review). Outcome: CONVERGED — 4th review. Only change since 2026-05-09 review was one mechanical wikilink normalization (commit eed8bd0ee); no substantive content change. Clean no-op per convergence discipline + one mechanical citation correction.
+- **Word count (body)**: 1749 → 1749 (no change; 70% of 2500 soft — no length action)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (citation page-range: Humberstone 1992 *Mind* 101(401) end page 83 → 84, verified at Oxford Academic publisher of record; author/title/journal/vol/issue/start-page all correct)
+- **Citation web-verify**: Humberstone (1992) confirmed at academic.oup.com (pp. 59-84). Anscombe 1957 / Searle 1983 verified in prior reviews. No fabrication/famous-name defects.
+- **Quotes audited**: no quote-marked source strings in body (n/a)
+- **Calibration**: placebo framing ("suggestive"/"contested") intact; no slippage; converged content left un-rehedged
+- **Enhancements made**: 0 (converged; expansion declined)
+- **Output**: [[reviews/deep-review-2026-06-03-direction-of-fit]]
+
 ## 2026-06-03T07:08:33+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/baseline-cognition]]

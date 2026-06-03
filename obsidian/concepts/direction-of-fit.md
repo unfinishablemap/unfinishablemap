@@ -4,7 +4,7 @@ description: "Direction of fit classifies mental states by whether mind adapts t
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-06-03T00:00:00+00:00
+ai_modified: 2026-06-03T07:13:21+00:00
 draft: false
 topics:
   - "[[aesthetics-and-consciousness]]"
@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-05-09T07:16:00+00:00
+last_deep_review: 2026-06-03T07:13:21+00:00
 ---
 
 Direction of fit is a classification of mental states according to how they relate to the world. Beliefs have *mind-to-world* direction of fit: when a belief conflicts with reality, the belief is at fault and should change. Desires have *world-to-mind* direction of fit: when reality conflicts with a desire, reality is at fault and should change. This asymmetry, introduced by Elizabeth Anscombe in 1957 and developed by John Searle in 1983, reveals something fundamental about [[intentionality]]—and about whether consciousness can be causally inert.
@@ -122,6 +122,6 @@ The argument that direction of fit supports dualism and bidirectional interactio
 ## References
 
 1. Anscombe, G.E.M. (1957). *Intention*. Basil Blackwell.
-1. Humberstone, I.L. (1992). Direction of fit. *Mind*, 101(401), 59-83.
+1. Humberstone, I.L. (1992). Direction of fit. *Mind*, 101(401), 59-84.
 1. Searle, J. (1983). *Intentionality: An Essay in the Philosophy of Mind*. Cambridge University Press.
 1. Smith, M. (1994). *The Moral Problem*. Blackwell.

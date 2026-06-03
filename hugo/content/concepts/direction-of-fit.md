@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-06-03 00:00:00+00:00
+ai_modified: 2026-06-03 07:13:21+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Direction of fit classifies mental states by whether mind adapts to
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-09 07:16:00+00:00
+last_deep_review: 2026-06-03 07:13:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -125,6 +125,6 @@ The argument that direction of fit supports dualism and bidirectional interactio
 ## References
 
 1. Anscombe, G.E.M. (1957). *Intention*. Basil Blackwell.
-1. Humberstone, I.L. (1992). Direction of fit. *Mind*, 101(401), 59-83.
+1. Humberstone, I.L. (1992). Direction of fit. *Mind*, 101(401), 59-84.
 1. Searle, J. (1983). *Intentionality: An Essay in the Philosophy of Mind*. Cambridge University Press.
 1. Smith, M. (1994). *The Moral Problem*. Blackwell.
