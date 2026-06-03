@@ -5,6 +5,20 @@ ai_modified: 2026-06-03T16:40:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T16:55:09+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/reconsolidation-as-selection-window]]
+- **Word count**: 2220 → 2220 (no change — converged fresh-create)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citations verified (publisher of record)**: Nader, Schafe & LeDoux 2000 (*Nature* 406:722–726, doi 10.1038/35021052) — real+correct; Sinclair & Barense 2018 (*Learning & Memory* 25(8):369–381, doi 10.1101/lm.046912.117) — real+correct, full given names confirmed. No fabricated/misattributed cites.
+- **Calibration**: exemplary — possibility/probability slippage explicitly avoided throughout; interface reading held below "realistic possibility" as posited venue argument; a tenet-accepting reviewer would not flag overstatement. No edits warranted.
+- **Reasoning mode**: engagement with the fully-physical reading = Mode Three (framework-boundary marking), honest; no boundary-substitution, no label leakage.
+- **Links**: all 8 wikilink targets resolve. Length 74% of 3000 soft target.
+- **Output**: [[reviews/deep-review-2026-06-03-reconsolidation-as-selection-window]]
+- **Note**: never-reviewed fresh create (created today). last_deep_review set; ai_modified NOT bumped (no body edits).
+
 ## 2026-06-03T16:51:47+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/the-epiphenomenalist-threat]]

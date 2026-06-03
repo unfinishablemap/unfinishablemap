@@ -24,6 +24,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-03
 last_curated:
+last_deep_review: 2026-06-03T16:55:09+00:00
 ---
 
 Every time a memory is recalled, the stored trace becomes briefly editable before it restabilises. This is **reconsolidation**: retrieval does not read a memory passively but reopens it, and during a window of several hours the trace can absorb new information, shift emotional valence, or lose detail. The lability is empirically robust—it is one of the better-established facts in the neuroscience of memory. The Map's interest is narrower and explicitly more speculative: this window is the most concrete physical occasion where a [[forward-in-time-conscious-selection|forward-in-time conscious selection]] could enter the reconstruction of a trace. The window is real; that consciousness supplies *directional* input to what happens inside it is the Map's posited reading, not something the lability data establish.

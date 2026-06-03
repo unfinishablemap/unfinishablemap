@@ -16,6 +16,7 @@ description: Memory reconsolidation reopens a stored trace to revision each time
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-06-03 16:55:09+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-memory]]'
