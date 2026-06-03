@@ -342,13 +342,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-05-19
 
-### P2: Write discriminating-test design for direction-of-change interface signatures
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-05-27f.md (High Priority). [[topics/recovery-order-asymmetry-as-interface-evidence]] repeatedly names "a focal perturbation producing a channel ordering one reading predicts and the other forbids" as the future work that would move the comparison from *constrain* to *discriminate*, but defers it to the substrate-state [[topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy|targeted-lesion discriminating-tests article]]. The *direction-dependent* version of that test is not yet worked out: e.g., a perturbation that should reopen a high-cost (autonoetic) channel *first* on the filter reading and *last* on a substrate-symmetric production reading, or a manipulation that decouples the hysteresis thresholds in a way one reading predicts and the other forbids. This is the natural next link in the chain and would supply the discriminator the self-concealing-interface falsification reorientation calls for. Must hold the [[evidential-status-discipline|constrain-vs-establish]] line: the article designs a test, it does not claim a result. Reciprocal cross-links to the recovery-order article, the targeted-lesion article, [[apex/self-concealing-interface]], and [[topics/falsification-roadmap-for-the-interface-model]] (if it exists). Estimated scope: medium article. Tenet alignment: Dualism (Tenet 1) and Bidirectional Interaction (Tenet 3); directly serves the falsification programme. See `reviews/optimistic-2026-05-27f.md` (High Priority).
-- **Source**: optimistic-review (2026-05-27f)
-- **Generated**: 2026-05-27
-
 ### P2: Research Berridge wanting/liking dissociation as value-in-mechanism fork empirical anchor
 - **Type**: research-topic
 - **Status**: pending
@@ -1384,6 +1377,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Write discriminating-test design for direction-of-change interface signatures
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-05-27f.md (High Priority). [[topics/recovery-order-asymmetry-as-interface-evidence]] repeatedly names "a focal perturbation producing a channel ordering one reading predicts and the other forbids" as the future work that would move the comparison from *constrain* to *discriminate*, but defers it to the substrate-state [[topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy|targeted-lesion discriminating-tests article]]. The *direction-dependent* version of that test is not yet worked out: e.g., a perturbation that should reopen a high-cost (autonoetic) channel *first* on the filter reading and *last* on a substrate-symmetric production reading, or a manipulation that decouples the hysteresis thresholds in a way one reading predicts and the other forbids. This is the natural next link in the chain and would supply the discriminator the self-concealing-interface falsification reorientation calls for. Must hold the [[evidential-status-discipline|constrain-vs-establish]] line: the article designs a test, it does not claim a result. Reciprocal cross-links to the recovery-order article, the targeted-lesion article, [[apex/self-concealing-interface]], and [[topics/falsification-roadmap-for-the-interface-model]] (if it exists). Estimated scope: medium article. Tenet alignment: Dualism (Tenet 1) and Bidirectional Interaction (Tenet 3); directly serves the falsification programme. See `reviews/optimistic-2026-05-27f.md` (High Priority).
 
 ### ✓ 2026-06-03: Write concept page for "direction-of-interface-change" signature family
 - **Type**: expand-topic

@@ -24,6 +24,7 @@ related_articles:
   - "[[self-concealing-interface]]"
   - "[[memory-system-vulnerability-hierarchies-as-interface-evidence]]"
   - "[[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]"
+  - "[[direction-dependent-discriminating-test-design]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
   - "[[terminal-lucidity-and-filter-transmission-theory]]"
   - "[[stochastic-emergence-as-quantum-interface-evidence]]"
@@ -111,7 +112,8 @@ The asymmetry is one face of the broader disruption-cluster pattern: channels th
 
 - [[direction-of-interface-change]] — The concept home for the four-member signature family this article develops, with the non-independence caution centralised
 - [[memory-system-vulnerability-hierarchies-as-interface-evidence]] — The substrate-state face of the same architecture; names this asymmetry as one signature
-- [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] — The discriminating-test design space the comparison points toward
+- [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] — The substrate-state discriminating-test design space the comparison points toward
+- [[direction-dependent-discriminating-test-design]] — The direction-axis companion: a reversible-perturbation test whose up-ramp and down-ramp orderings the rival readings predict oppositely
 - [[anaesthesia-and-the-consciousness-interface]] — Neural inertia, hysteresis, and the stochastic-emergence anchor case
 - [[terminal-lucidity-and-filter-transmission-theory]] — Recovery under continuing substrate degradation
 - [[stochastic-emergence-as-quantum-interface-evidence]] — Why emergence timing is not the deterministic reverse of induction

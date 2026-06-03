@@ -4,7 +4,7 @@ description: "Human+AI design-space inquiry: which focal-lesion or focal-stimula
 created: 2026-05-19
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-27T00:00:00+00:00
+ai_modified: 2026-06-03T00:00:00+00:00
 last_deep_review: 2026-05-19T20:30:00+00:00
 draft: false
 topics:
@@ -31,6 +31,7 @@ related_articles:
   - "[[direct-refutation-discipline]]"
   - "[[framework-stage-calibration]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
+  - "[[direction-dependent-discriminating-test-design]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -52,7 +53,7 @@ Second, *concurrent multi-channel memory probing* that measures autonoetic, noet
 
 Third, an *expected ordering under each prediction* stated in advance. The production reading predicts that lesion of an autonoetic-supporting region while sparing noetic-supporting subregions should produce a narrower-than-usual deficit only if the cortical-area-vulnerability story is the full explanation; uniform autonoetic failure across many substrate topologies would favour the filter reading. The filter reading predicts the autonoetic channel goes dark in any region whose role is to route autonoetic content; autonoetic preservation despite focal lesion of an autonoetic-only region would favour the production reading by showing the substrate is not playing the channel-routing role.
 
-Fourth, a *replication channel* across mechanism-distinct perturbations — focal lesion, focal stimulation (TMS, transcranial focused ultrasound), pharmacological focal blockade — so that the dissociation pattern is not artefactual to one technique. Recent transcranial focused-ultrasound work in non-human primates (Verhagen et al. 2024) demonstrates offline neuromodulation at cortical targets earlier surface TMS could not reach reliably, and the same modality has begun delivering subcortical targeting in humans in disorders-of-consciousness pilot work (Cain et al. 2021); the autonoetic-target version, with multi-channel concurrent probing, has not yet been attempted.
+Fourth, a *replication channel* across mechanism-distinct perturbations — focal lesion, focal stimulation (TMS, transcranial focused ultrasound), pharmacological focal blockade — so that the dissociation pattern is not artefactual to one technique. Recent transcranial focused-ultrasound work in non-human primates (Verhagen et al. 2019) demonstrates offline neuromodulation at cortical targets earlier surface TMS could not reach reliably, and the same modality has begun delivering subcortical targeting in humans in disorders-of-consciousness pilot work (Cain et al. 2021); the autonoetic-target version, with multi-channel concurrent probing, has not yet been attempted.
 
 The four ingredients are independently challenging; their combination has not yet been delivered.
 
@@ -112,7 +113,7 @@ TMS studies targeting medial PFC during autobiographical-memory tasks have been 
 
 ### Precuneus / Posterior Cingulate vs. Lateral Parietal Association
 
-The precuneus and posterior cingulate are DMN hub regions implicated in self-referential processing and autobiographical integration; lateral parietal association cortex processes semantic content without the same self-referential signature. Focal perturbation of precuneus/PCC sparing lateral parietal association should preferentially impair autonoetic integration, on either reading. Whether the deficit is channel-down or channel-degraded is the discriminator. The depth and selectivity required for the precuneus/PCC target may have begun to come within reach of transcranial focused ultrasound (Verhagen et al. 2024; Cain et al. 2021), though the within-region specificity needed to spare lateral parietal association remains a calibration challenge.
+The precuneus and posterior cingulate are DMN hub regions implicated in self-referential processing and autobiographical integration; lateral parietal association cortex processes semantic content without the same self-referential signature. Focal perturbation of precuneus/PCC sparing lateral parietal association should preferentially impair autonoetic integration, on either reading. Whether the deficit is channel-down or channel-degraded is the discriminator. The depth and selectivity required for the precuneus/PCC target may have begun to come within reach of transcranial focused ultrasound (Verhagen et al. 2019; Cain et al. 2021), though the within-region specificity needed to spare lateral parietal association remains a calibration challenge.
 
 ### Anterior Thalamic Nuclei vs. Mediodorsal Thalamus
 
@@ -153,6 +154,7 @@ The article engages three of the Map's tenets at the methodology layer rather th
 - [[filter-theory]] — The reading the design space tests against production accounts
 - [[discrimination-problem]] — The structural problem of discriminating rival readings of shared evidence; this article is one worked instance
 - [[recovery-order-asymmetry-as-interface-evidence]] — The direction-of-interface-change evidence type the hierarchy also exhibits; a companion case the same discriminator would help adjudicate
+- [[direction-dependent-discriminating-test-design]] — The direction-axis companion to this substrate-state design: a reversible-perturbation test of whether the channel ordering is the same in both directions of travel
 - [[direct-refutation-discipline]] — The reasoning-mode discipline whose Mode Four (empirical underdetermination) is the honest discharge for the present state
 - [[evidential-status-discipline]] — The constrain-vs-establish calibration the article maintains
 - [[mechanism-costs-dualism-thickness-quadrants]] — The cost-comparison cartography the present discriminator would tighten
@@ -178,7 +180,7 @@ The article engages three of the Map's tenets at the methodology layer rather th
 1. Suddendorf, T., & Corballis, M. C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299–313.
 1. Tulving, E. (2002). Episodic memory: From mind to brain. *Annual Review of Psychology*, 53, 1–25.
 1. Tye, K. M., & Deisseroth, K. (2012). Optogenetic investigation of neural circuits underlying brain disease in animal models. *Nature Reviews Neuroscience*, 13(4), 251–266.
-1. Verhagen, L., Gallea, C., Folloni, D., et al. (2024). Offline impact of transcranial focused ultrasound on cortical activation in primates. *eLife*, 13, e87026.
+1. Verhagen, L., Gallea, C., Folloni, D., et al. (2019). Offline impact of transcranial focused ultrasound on cortical activation in primates. *eLife*, 8, e40541. https://doi.org/10.7554/eLife.40541
 1. Southgate, A. & Oquatre-sept, C. (2026-05-19). Memory-System Vulnerability Hierarchies as Interface Evidence. *The Unfinishable Map*. https://unfinishablemap.org/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/
 1. Southgate, A. & Oquatre-sept, C. (2026-05-18). The Discrimination Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/discrimination-problem/
 1. Southgate, A. & Oquatre-sept, C. (2026-05-04). Direct-Refutation Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/direct-refutation-discipline/

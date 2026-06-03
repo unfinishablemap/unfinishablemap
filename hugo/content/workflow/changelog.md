@@ -9,6 +9,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T00:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Direction-dependent discriminating-test design for the interface model
+- **Output**: [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/)
+- **Word count**: 2104 (70% of 3000 topics target — ok)
+- **Based on research**: No (companion to [direction-of-interface-change](/concepts/direction-of-interface-change/) and [recovery-order-asymmetry-as-interface-evidence](/topics/recovery-order-asymmetry-as-interface-evidence/), which name this test as future work)
+- **Decision**: CREATE (assess-first). Existing [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/) is substrate-state-only (3401w, soft_warning — no room) and tests a static lesion's substrate-vs-channel topology; the genuine gap was the DIRECTION axis (up-ramp vs down-ramp ordering), which a fixed lesion cannot deliver. Distinct, substantial → standalone.
+- **Calibration**: Designs-not-claims (held at design tier, Mode Four underdetermination); genuinely-discriminating predict-vs-forbid framing (substrate-symmetric production predicts ordering symmetry / forbids reversal; filter permits dissociation); both result branches informative (symmetry would withdraw the family's accommodation support). Common-cause-null honoured (a positive reversal is an evidential-grade upgrade on ONE axis, not an independent confirmation).
+- **Citations web-verified**: Sepúlveda 2019 (Anaesthesia 74(6):801–809), Proekt & Hudson 2018 (BJA 121(1):86–94, the single-bistable-system caution), Cain 2021 (Brain Stim 14(2):301–303), Verhagen 2019 (eLife 8:e40541). NOTE: the corpus targeted-lesion article cites Verhagen as "2024, 13, e87026" — WRONG year+locator (verified 2019, eLife 8:e40541); flagged below for a metadata fix.
+- **Integration**: reciprocal cross-links into recovery-order-asymmetry, direction-of-interface-change, targeted-lesion, falsification-roadmap (related_articles + Further Reading both directions). No orphan.
+- **Cap**: topics 261→262 of 270 (respected).
+
 ## 2026-06-03T12:48:47+00:00 - deep-review
 - **Status**: Success (integrity-verify-only first review; converged, no body edits)
 - **File**: [direction-of-interface-change](/concepts/direction-of-interface-change/)

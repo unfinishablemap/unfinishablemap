@@ -17,6 +17,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[recovery-order-asymmetry-as-interface-evidence]]"
+  - "[[direction-dependent-discriminating-test-design]]"
   - "[[memory-system-vulnerability-hierarchies-as-interface-evidence]]"
   - "[[stochastic-emergence-as-quantum-interface-evidence]]"
   - "[[self-concealing-interface]]"
@@ -67,7 +68,7 @@ This caution is not a footnote to the family. It is the reason the family is wor
 
 Each member of the family removes the *simplest* substrate-symmetric production account — the one on which recovery retraces degradation off a single, direction-blind vulnerability profile, because both orderings are read from the same substrate. Asymmetry violates that simplest expectation. What it does not do is rule out production accounts in general. A production reading can recover every signature by adding direction-specific machinery: hysteresis terms for the bistable switch, a dying-process-specific neuromodulatory surge for terminal lucidity, a stochastic distributed-reconstitution model for emergence, a connectivity-gating story for dissociation. Each addition is independently reasonable. The point the family makes is about *additivity*: the assumptions are paid per case and do not derive from a shared substrate profile, because that profile, being direction-blind, predicts symmetry.
 
-The [[filter-theory|filter reading]] appears to derive a direction-sensitive signature from its core architecture — if channels differ in bandwidth and reconstruction cost, which components block or reopen, and in which order, may depend on the direction and cause of the change. But "appears to derive" is a framework-internal judgement the production theorist need not grant, and the advantage is comparative and bounded: it is a point on parsimony grounds at the mechanism-cost layer ([[mechanism-costs-dualism-thickness-quadrants|mechanism-costs cartography]]), not positive evidence that the filter reading is true. A production account willing to pay the per-case cost absorbs every signature in the family. The dispute remains a [[discrimination-problem|discrimination-problem]]-class underdetermination until a focal perturbation produces a channel ordering one reading predicts and the other forbids — the discriminating work [[direct-refutation-discipline|the direct-refutation discipline]] names as still outstanding.
+The [[filter-theory|filter reading]] appears to derive a direction-sensitive signature from its core architecture — if channels differ in bandwidth and reconstruction cost, which components block or reopen, and in which order, may depend on the direction and cause of the change. But "appears to derive" is a framework-internal judgement the production theorist need not grant, and the advantage is comparative and bounded: it is a point on parsimony grounds at the mechanism-cost layer ([[mechanism-costs-dualism-thickness-quadrants|mechanism-costs cartography]]), not positive evidence that the filter reading is true. A production account willing to pay the per-case cost absorbs every signature in the family. The dispute remains a [[discrimination-problem|discrimination-problem]]-class underdetermination until a focal perturbation produces a channel ordering one reading predicts and the other forbids — the discriminating work [[direct-refutation-discipline|the direct-refutation discipline]] names as still outstanding. [[direction-dependent-discriminating-test-design|A worked design for that test on the direction axis]] now exists: a reversible focal perturbation applied in both the closing and reopening phase, configured so the two readings predict opposite channel orderings. It is a proposed experiment, not a result; its existence does not move the dispute, only specifies what would.
 
 ## Relation to Site Perspective
 
@@ -82,6 +83,7 @@ This concept page describes an evidence type; its evidential standing is framewo
 - [[recovery-order-asymmetry-as-interface-evidence]] — Where the family is first developed at topic length, with each member's empirical case
 - [[memory-system-vulnerability-hierarchies-as-interface-evidence]] — The substrate-state face of the same architecture
 - [[stochastic-emergence-as-quantum-interface-evidence]] — Why emergence timing is not the deterministic reverse of induction
+- [[direction-dependent-discriminating-test-design]] — The worked design for the discriminating test the central caution names as the only route to tier-elevation
 - [[self-concealing-interface]] — The synthesis that catalogues direction-of-interface-change as a seam class
 - [[cross-mechanism-convergence]] — The broader evidence-pattern genus this family sits within
 - [[active-reboot]] — The dedicated reopening pathway underlying the hysteresis and recovery-order members

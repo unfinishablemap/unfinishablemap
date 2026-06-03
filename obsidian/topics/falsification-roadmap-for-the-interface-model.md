@@ -37,6 +37,7 @@ related_articles:
   - "[[brain-internal-born-rule-testing]]"
   - "[[framework-stage-calibration]]"
   - "[[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]"
+  - "[[direction-dependent-discriminating-test-design]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -196,6 +197,7 @@ Publishing a falsification roadmap is itself an expression of the [[tenets]].
 - [[born-rule-and-the-consciousness-interface]] — Why the Born rule resists derivation across every interpretation, and the corridor-vs-minimum-outside-corridor-vs-trumping taxonomy of MQI readings
 - [[brain-internal-born-rule-testing]] — Mechanism-specific foreclosure programme for the corridor reading of Tenet 2: Stapp Zeno, Orch-OR, strict selection-only, and trumping-preemption each mapped to their predicted experimental signatures
 - [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] — Worked design-space exhibit of the roadmap's discipline at the memory-hierarchy tier: which focal-lesion or focal-stimulation experiments could discriminate production from filter readings, and why the existing data cannot yet deliver them
+- [[direction-dependent-discriminating-test-design]] — The direction-axis discriminating-test design: a reversible focal perturbation applied in closing and reopening phases, whose channel orderings the rival readings predict oppositely
 - [[conversion-disorder-as-consciousness-side-fault]] — The under-anaesthesia discriminating test as a falsification handle: it separates substrate-intact from substrate-damaged deficits robustly, but its reach into interface-vs-intra-cerebral is exactly where the roadmap's discipline applies
 
 ## References
