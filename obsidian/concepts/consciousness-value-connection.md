@@ -4,7 +4,7 @@ description: "Why consciousness is necessary for value to exist. Without experie
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-05-19T11:04:33+00:00
+ai_modified: 2026-06-03T12:00:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-02
 last_curated:
-last_deep_review: 2026-05-16T06:55:00+00:00
+last_deep_review: 2026-06-03T12:00:00+00:00
 ---
 
 The consciousness-value connection is the claim that consciousness is necessary for value to exist. Without phenomenal experience—without there being something it is like to be something—nothing can possess intrinsic value. A universe of matter in motion, however complex, contains no value unless something *experiences* that universe. Value enters reality only where experience exists.
@@ -131,7 +131,7 @@ This has radical implications. A superintelligent AI that lacks phenomenal consc
 
 The question shifts from "Is it intelligent?" to "Is there something it is like to be it?"
 
-The [[apex/moral-architecture-of-consciousness#Value Lives in Experience|moral architecture apex extends this connection with an indexical-token claim]]: *this* token experience matters, not just experiences-of-this-type. The token-versus-type distinction is what constrains how copies, uploads, and replicas figure in moral accounting—if value attached to experience-types alone, qualitatively identical replicas would multiply value; if value attaches to token experiences, the moral status of any particular token is not redundant with the moral status of qualitatively identical tokens elsewhere. This indexical extension is one of the load-bearing routes by which the consciousness-value connection translates into the apex's broader moral architecture, and it is the route by which the [[tenets#^no-many-worlds|No Many Worlds]] tenet enters value theory in particular (see the next subsection).
+The [[apex/moral-architecture-of-consciousness#Value Lives in Experience|moral architecture apex extends this connection with an indexical-token claim]]: *this* token experience matters, not just experiences-of-this-type. The token-versus-type distinction constrains how copies, uploads, and replicas figure in moral accounting—if value attached to experience-types alone, qualitatively identical replicas would multiply value; if value attaches to token experiences, the moral status of any particular token is not redundant with that of qualitatively identical tokens elsewhere. This is the route by which the [[tenets#^no-many-worlds|No Many Worlds]] tenet enters value theory in particular (see the next subsection).
 
 ### For Meaning
 

@@ -9,6 +9,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-value-connection](/concepts/consciousness-value-connection/)
+- **Word count**: 2593 → 2567 (-26; length-neutral trim of 05-19 apex cross-link paragraph, hub-accretion pattern)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (hub cross-link accretion over soft threshold → length-neutral tighten; residual 67w overage is load-bearing apex-extension content, not a condense candidate)
+- **Enhancements made**: 0
+- **Citation web-verify**: 6 refs. Rawlette 2016 *The Feeling of Value* (CreateSpace, ISBN 9781534768017) live-verified — real author/title/year, attribution + quote accurate, no page-number so not verbatim-fabrication profile → keep. Wolf/Nagel/Metz/Frankish(JCS 23(11-12):11-39)/Chalmers canonical, correctly attributed, no quotes/page-numbers → keep. 3-state: all real+correct, no remediation. Apex anchor `Value Lives in Experience` + token-vs-type claim verified bidirectional → no misattribution.
+- **Calibration**: no possibility/probability slippage; metaethical/tenet-anchored claims, five-tier scale not engaged.
+- **Stability**: 5th consecutive review, no critical issues; firmly converged. Bedrock disagreements (eliminativism/MWI/no-self/unfalsifiability) at framework boundary — not re-flagged.
+- **Output**: [deep-review-2026-06-03-consciousness-value-connection](/reviews/deep-review-2026-06-03-consciousness-value-connection/)
+
 ## 2026-06-03T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [subjective-aim](/concepts/subjective-aim/)

@@ -541,13 +541,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-21
 
-### P2: Deep review subjective-aim.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-17 — 31 days ago. Concept page on Whitehead's subjective aim as a model for teleological causation in consciousness. Verify coherence, cross-references to prehension and process philosophy articles, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-20
-
 ### P2: Deep review elisabeths-contemporaries-and-the-interaction-debate.md
 - **Type**: deep-review
 - **Status**: pending
@@ -996,6 +989,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Deep review subjective-aim.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-17 — 31 days ago. Concept page on Whitehead's subjective aim as a model for teleological causation in consciousness. Verify coherence, cross-references to prehension and process philosophy articles, and tenet alignment.
 
 ### ✓ 2026-06-03: Deep review epiphenomenalisms-gravity-well.md
 - **Type**: deep-review

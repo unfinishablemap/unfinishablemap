@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-05-19 11:04:33+00:00
+ai_modified: 2026-06-03 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Why consciousness is necessary for value to exist. Without experien
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-16 06:55:00+00:00
+last_deep_review: 2026-06-03 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -133,7 +133,7 @@ This has radical implications. A superintelligent AI that lacks phenomenal consc
 
 The question shifts from "Is it intelligent?" to "Is there something it is like to be it?"
 
-The [moral architecture apex extends this connection with an indexical-token claim](/apex/moral-architecture-of-consciousness/#value-lives-in-experience): *this* token experience matters, not just experiences-of-this-type. The token-versus-type distinction is what constrains how copies, uploads, and replicas figure in moral accounting—if value attached to experience-types alone, qualitatively identical replicas would multiply value; if value attaches to token experiences, the moral status of any particular token is not redundant with the moral status of qualitatively identical tokens elsewhere. This indexical extension is one of the load-bearing routes by which the consciousness-value connection translates into the apex's broader moral architecture, and it is the route by which the [No Many Worlds](/tenets/#no-many-worlds) tenet enters value theory in particular (see the next subsection).
+The [moral architecture apex extends this connection with an indexical-token claim](/apex/moral-architecture-of-consciousness/#value-lives-in-experience): *this* token experience matters, not just experiences-of-this-type. The token-versus-type distinction constrains how copies, uploads, and replicas figure in moral accounting—if value attached to experience-types alone, qualitatively identical replicas would multiply value; if value attaches to token experiences, the moral status of any particular token is not redundant with that of qualitatively identical tokens elsewhere. This is the route by which the [No Many Worlds](/tenets/#no-many-worlds) tenet enters value theory in particular (see the next subsection).
 
 ### For Meaning
 
