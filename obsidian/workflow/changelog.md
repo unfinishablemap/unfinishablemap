@@ -5,6 +5,17 @@ ai_modified: 2026-06-03T09:50:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T09:06:00+00:00 - expand-topic (retargeted to refine)
+- **Status**: Success (retarget, not create)
+- **Topic**: Developmental ontogeny of shared intentionality
+- **Outcome**: RETARGET-TO-REFINE. Assess-first found the developmental arc already covered across [[topics/consciousness-and-collective-phenomena]] (dedicated dev-evidence section: 9mo joint → age-3 collective intentionality with dual-level/norm structure), [[topics/consciousness-and-intersubjectivity]], [[concepts/theory-of-mind]], [[concepts/teaching-as-metarepresentation]], [[concepts/cumulative-culture]], [[topics/consciousness-interface-development]]. The named gap was real ONLY for the parent [[topics/consciousness-and-social-understanding]], which asserted shared intentionality emerges via recursive perspective-taking but engaged no developmental arc. Standalone page would be near-redundant; topics near-cap (261/270 on disk, 9 slots). So refined the parent instead.
+- **Output**: Added "## The Developmental Arc of Shared Intentionality" (~289w) to [[topics/consciousness-and-social-understanding]] + reciprocal cross-link from [[topics/consciousness-interface-development]].
+- **Calibration**: developmental data framed as a WINDOW ON WHAT CONSCIOUSNESS ADDS / defeater-removal, NOT evidence over a developmental-behaviourist reading ([[evidential-status-discipline]]). Tenet 1 (Dualism) + Tenet 3 (Bidirectional) connection inherited from parent's existing "Relation to Site Perspective".
+- **Citations web-verified**: Tomasello (2019) *Becoming Human* ontogeny architecture confirmed (joint intentionality ~9mo, collective intentionality ~3yr, "dual-level collaboration", norm-based self-evaluation) at Karger Human Development review of record. Reused parent's already-present Tomasello 2014/2019 refs; introduced no new unverified cites.
+- **Word count**: parent 3333 → 3622 (soft_warning, under 4000 hard); interface-development 3690 → 3730 (under hard).
+- **Integration**: refine on an existing hub → no orphan risk. 4 outbound contextual links into the dev-cluster + 1 reciprocal inbound added.
+- **Based on research**: no
+
 ## 2026-06-03T10:46:28+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/selection-only-channel]]

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-05-28 21:17:26+00:00
+ai_modified: 2026-06-03 09:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -65,7 +65,7 @@ Simultaneously, the frontoparietal attention networks that the Map identifies as
 
 The most consequential development is metarepresentation — the capacity to represent one's own representations as representations. This underpins [theory-of-mind](/concepts/theory-of-mind/): implicit false-belief understanding appears as early as 15 months in looking-time studies, while explicit false-belief passage typically occurs between ages 3-5. The full suite of metarepresentational abilities continues developing well into middle childhood. Before explicit metarepresentation, children have consciousness — they experience the world, form preferences, exhibit emotional responses. But they lack the recursive self-awareness that allows consciousness to take its own operations as explicit objects of attention.
 
-The Map's interface model suggests metarepresentation depends on neural infrastructure — particularly prefrontal cortex maturation and frontoparietal network integration — that develops on a biological timetable. Consciousness does not gain new fundamental capacities during this period. Rather, the interface gains structural complexity in stages, each enabling more sophisticated recursive processing.
+The Map's interface model suggests metarepresentation depends on neural infrastructure — particularly prefrontal cortex maturation and frontoparietal network integration — that develops on a biological timetable. Consciousness does not gain new fundamental capacities during this period. Rather, the interface gains structural complexity in stages, each enabling more sophisticated recursive processing. The same staged emergence underwrites the developmental arc of shared intentionality — joint attention at nine months, collective intentionality by age three — that the Map reads as [a window on what consciousness adds to social cognition](/topics/consciousness-and-social-understanding/#the-developmental-arc-of-shared-intentionality).
 
 This creates a developmental asymmetry with no parallel in most discussions of consciousness. The interface is most plastic when its control affordances are least developed — infants lack the attentional control to deliberately shape their developing interface. By the time the interface supports the sophistication needed to direct its own restructuring, the most plastic periods have closed.
 

@@ -4,7 +4,7 @@ description: "Genuine social understanding—grasping other minds as minds, buil
 created: 2026-02-15
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-06-03T07:19:14+00:00
+ai_modified: 2026-06-03T09:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -119,6 +119,12 @@ Emotional contagion requires no consciousness — mirror neurons and physiologic
 The [[social-construction-of-self-vs-phenomenal-self]] article argues that social construction of identity depends on the phenomenal self being already in place. The same logic extends to social cognition generally. Social constructionists are right that much of what we call "social understanding" is culturally shaped. But the *capacity* to construct social meanings at all requires phenomenal subjects who experience the world from a perspective they can share with others.
 
 George Herbert Mead's account of selfhood through "taking the attitude of the other" presupposes that there is something it is like to take that attitude. [[intersubjectivity]] — the shared space between minds — requires minds that are phenomenally present to each other, not merely causally connected. As Zahavi (2001) argues, empathy and social understanding are not adequately captured by the inference model — where we infer hidden mental states from observed behaviour — but involve a more direct experiential engagement with another subject. If this is right, then [[consciousness-and-collective-phenomena|collective intentionality]] — the capacity for genuinely shared goals and commitments — depends on phenomenal subjects who can participate in shared experiential space. Tomasello (2014, 2019) provides the developmental evidence: shared intentionality — the capacity for joint goals and mutual commitments — emerges through forms of social cognition that involve recursive perspective-taking, not merely behavioural coordination.
+
+## The Developmental Arc of Shared Intentionality
+
+The synchronic argument above — that mature social understanding presupposes a phenomenal subject — has a diachronic counterpart in how shared intentionality unfolds across the first years of life. Tomasello (2019) traces two thresholds: *joint* intentionality emerging around nine months, when infants enter triadic joint attention with a caregiver, and *collective* intentionality emerging around age three, with its "dual-level" structure of shared norms held alongside individual perspectives. By age three, children begin enforcing how a game *should* be played — representing the activity's normative structure as such. The Map reads the nine-month shift not as a private internal upgrade but as the point at which the infant first experiences an object *as jointly attended*, an "as" that marks a phenomenal transformation rather than a richer behavioural correlation. The [[metacognition#the-metarepresentation-threshold|metarepresentation threshold]] crossed later, around the false-belief transition (ages 3-5), then equips this shared field with the recursive embedding that institutional and moral cognition require.
+
+This developmental ordering is offered as a *window on what consciousness adds*, not as evidence that the threshold is purely behavioural. The same milestones are compatible with a developmental-behaviourist reading on which joint attention is sophisticated contingency-tracking and norm-talk is learned scripting. What the data do is remove a defeater: if shared intentionality could be shown to arrive fully formed without any accompanying expansion of phenomenal self-awareness, the Map's coupling of the two would be embarrassed. Instead, the milestones track the same maturation of metarepresentational and self-other capacities that the [[consciousness-interface-development|developing interface]] documents from the neural side. The fuller diachronic treatments appear in [[consciousness-and-collective-phenomena#the-developmental-evidence|collective phenomena]], [[consciousness-and-intersubjectivity#the-developmental-evidence|intersubjectivity]], and [[theory-of-mind#developmental-trajectory|theory of mind]]; the point here is that the arc is what the synchronic argument predicts, not an independent confirmation of it.
 
 ## Why Consciousness Cannot Be Bypassed
 

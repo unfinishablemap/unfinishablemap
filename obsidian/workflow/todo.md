@@ -212,12 +212,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-06-01
 
-### P2: Write topic article on the developmental ontogeny of shared intentionality
-- **Type**: expand-topic
-- **Status**: pending
-- **Source**: optimistic-review
-- **Notes**: Suggested by [[reviews/optimistic-2026-06-02d]] (Medium Priority). ASSESS-FIRST, LICENCE-TO-DECLINE per [[stale-expand-tasks-may-be-redundant]]. `topics/consciousness-and-social-understanding.md` cites Tomasello (2014, 2019) and asserts shared intentionality "emerges through forms of social cognition that involve recursive perspective-taking" but engages no developmental arc (joint attention ~9mo, false-belief ~4yr, the 9-month social-cognitive revolution). A diachronic anchor for the synchronic metarepresentation-threshold argument. FIRST verify no existing page (cumulative-culture, methodology-of-consciousness-research, theory-of-mind, metacognition) already discharges the developmental material at adequate depth; if it nearly does, retarget to a refine. Concepts/topics sections near cap — check section_caps before placing (topics 260/270 on disk). CALIBRATION CONSTRAINT: developmental emergence of phenomenal mindreading is presented as a window on what consciousness adds, NOT as evidence the threshold is purely behavioural; inherit the parent article's defeater-removal-not-evidence discipline ([[evidential-status-discipline]]). Tenet alignment: Dualism (Tenet 1), Bidirectional Interaction (Tenet 3).
-
 ### P2: New concept page — The De-Combination Problem / Open Individualism
 - **Type**: expand-topic
 - **Status**: pending
@@ -1440,6 +1434,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Write topic article on the developmental ontogeny of shared intentionality
+- **Type**: expand-topic
+- **Notes**: Suggested by [[reviews/optimistic-2026-06-02d]] (Medium Priority). ASSESS-FIRST, LICENCE-TO-DECLINE per [[stale-expand-tasks-may-be-redundant]]. `topics/consciousness-and-social-understanding.md` cites Tomasello (2014, 2019) and asserts shared intentionality "emerges through forms of social cognition that involve recursive perspective-taking" but engages no developmental arc (joint attention ~9mo, false-belief ~4yr, the 9-month social-cognitive revolution). A diachronic anchor for the synchronic metarepresentation-threshold argument. FIRST verify no existing page (cumulative-culture, methodology-of-consciousness-research, theory-of-mind, metacognition) already discharges the developmental material at adequate depth; if it nearly does, retarget to a refine. Concepts/topics sections near cap — check section_caps before placing (topics 260/270 on disk). CALIBRATION CONSTRAINT: developmental emergence of phenomenal mindreading is presented as a window on what consciousness adds, NOT as evidence the threshold is purely behavioural; inherit the parent article's defeater-removal-not-evidence discipline ([[evidential-status-discipline]]). Tenet alignment: Dualism (Tenet 1), Bidirectional Interaction (Tenet 3).
 
 ### ✓ 2026-06-03: Deep-review concepts/qualia.md (20-day review gap, foundational concept page)
 - **Type**: deep-review
