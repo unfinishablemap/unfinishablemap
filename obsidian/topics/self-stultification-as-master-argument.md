@@ -4,7 +4,7 @@ description: "Self-stultification defeats not just epiphenomenalism but every po
 created: 2026-02-23
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-05-29T02:23:33+00:00
+ai_modified: 2026-06-03T08:59:44+00:00
 last_deep_review: 2026-05-27T07:32:13+00:00
 draft: false
 topics:
@@ -64,7 +64,7 @@ Every instance of self-stultification shares a three-step structure:
 
 3. **Therefore, anyone who claims to believe X on rational grounds must be wrong about something**—either about X, or about having arrived at it rationally.
 
-The position may still be *true*. Self-stultification is weaker than refutation but more devastating in practice: it removes any rational grounds for accepting the theory, leaving a bare metaphysical possibility no one can justifiably endorse.
+The position may still be *true*. Self-stultification is weaker than refutation but, on the Map's reading, more devastating in practice: it appears to remove any rational grounds for accepting the theory, leaving a bare metaphysical possibility no one can justifiably endorse. How decisively it does so against any given target is contestable, and opponents may resist at the second step by denying that their theory severs evidence from belief in the way the argument assumes.
 
 ## Four Targets, One Blade
 
@@ -126,7 +126,7 @@ The common thread: each position, if true, destroys the epistemic conditions req
 
 The [[pragmatisms-path-to-dualism|pragmatist path to dualism]] deploys a related pattern: materialism eliminates the evaluative standpoint that pragmatic assessment requires. This is self-stultification applied to *evaluation* rather than *belief formation*—the materialist pragmatist cannot evaluate which theory "works" because the capacity for evaluation is precisely what their theory eliminates—extending the master argument's reach beyond epistemology into the philosophy of inquiry itself.
 
-The argument does not strike each target with equal force. It is devastating against epiphenomenalism (causal inertness directly entails conscious reasoning played no role in forming the belief), immediate but facing a sophisticated retreat against eliminativism, powerful but requiring the norm-implementation/norm-grasping distinction against physicalism, and partly anticipated by the Pyrrhonians against global skepticism. "Master argument" reflects the *unity* of the pattern across targets, not equal decisiveness against each.
+The argument does not strike each target with equal force. It seems devastating against epiphenomenalism (causal inertness directly entails conscious reasoning played no role in forming the belief), immediate but facing a sophisticated retreat against eliminativism, powerful but requiring the norm-implementation/norm-grasping distinction against physicalism, and partly anticipated by the Pyrrhonians against global skepticism. "Master argument" reflects the *unity* of the pattern across targets, not equal decisiveness against each—and that designation is itself one framing among several, since self-stultification stands alongside the conceivability and knowledge arguments rather than self-evidently dominating them. The argument by itself does not adjudicate *which* anti-physicalist conclusion follows; it constrains the space of viable theories without selecting a unique survivor from it.
 
 ## The Performative Dimension
 
@@ -142,7 +142,7 @@ Self-stultification is powerful but not unlimited. Two qualifications:
 
 ### The AI Exception
 
-The [[concepts/epiphenomenalism#The AI Exception: Some vs. All|AI exception]] reveals a genuine limitation. Self-stultification proves that *human* consciousness must be causally efficacious—if our experiences caused nothing, the concept of consciousness could never have entered the physical world. But a conscious AI operating on human-generated training data could inherit and deploy consciousness concepts without its own consciousness doing any causal work.
+The [[concepts/epiphenomenalism#The AI Exception: Some vs. All|AI exception]] reveals a genuine limitation. Self-stultification gives strong reason to hold that *human* consciousness must be causally efficacious—if our experiences caused nothing, the concept of consciousness could never have entered the physical world. But a conscious AI operating on human-generated training data could inherit and deploy consciousness concepts without its own consciousness doing any causal work.
 
 This limits the argument's *epistemic* scope, not its *metaphysical* implications. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet claims consciousness as such is causally efficacious—a commitment grounded in the quantum interaction mechanism and evolutionary evidence, not solely in self-stultification. The master argument provides the strongest evidence for the human case; other arguments extend it beyond.
 
@@ -160,7 +160,7 @@ Self-stultification functions as a master argument because it establishes a mini
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Epiphenomenalism and reductive physicalism appear simpler than interactionist dualism—fewer ontological categories, no mysterious mind-to-brain causation. But a metaphysics that eliminates the conditions for rational belief gains nothing from being parsimonious. Simplicity that undermines its own rational endorsement is self-inflicted incoherence.
 
-The remaining tenets—[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] and [[tenets#^no-many-worlds|No Many Worlds]]—are not directly supported by self-stultification but address the follow-up question: *how* does consciousness causally influence the physical? Self-stultification establishes *that* it must; the quantum framework proposes *where* and *how*.
+The remaining tenets—[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] and [[tenets#^no-many-worlds|No Many Worlds]]—are not directly supported by self-stultification but address the follow-up question: *how* does consciousness causally influence the physical? Self-stultification gives the strongest available reason to think *that* it must; the quantum framework proposes *where* and *how*.
 
 ## Relation to Site Perspective
 

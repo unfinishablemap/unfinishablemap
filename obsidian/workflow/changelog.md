@@ -5,6 +5,20 @@ ai_modified: 2026-06-03T08:18:13+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T08:59:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/self-stultification-as-master-argument]]
+- **Task**: P2 topic-concept anchoring-audit calibration (2026-06-03). Queued for the [[intentionality]] anchor; live re-run showed a MULTI-ANCHOR flag against three anchors ([[mental-causation-and-downward-causation]], [[causal-closure]], [[intentionality]]). Resolved in one pass.
+- **Changes**: calibration-only; central self-refutation logic and master-argument thesis preserved.
+  - Softened the 2 strong-assertion verbs that were epistemic OVER-CLAIMS about the argument's force/decisiveness (`strong_assertion_count` 4 → 2): §AI Exception "self-stultification **proves** that *human* consciousness must be causally efficacious" → "**gives strong reason to hold** that…"; §Why This Matters "self-stultification **establishes** *that* it must" → "**gives the strongest available reason to think** *that* it must".
+  - KEPT the 2 genuine logical-structure assertions (NOT defanged to the mental-causation anchor's outlier 0-bar): "it **establishes** a minimum commitment any viable theory of mind must satisfy" (structural constraint claim) and global-skepticism "it **refutes** itself" (a position literally asserting its own falsity — correct self-refutation). `strong_assertion_count` held at 2, density 0.639/kw.
+  - Added 3 warranted hedges on genuinely defeasible claims (`hedge_count` 8 → 11): §Core Pattern — "it **appears** to remove any rational grounds… opponents **may** resist at the second step by denying their theory severs evidence from belief"; §Why the Pattern Repeats — "It **seems** devastating against epiphenomenalism…". In-place, on the argument's contestable applicability to specific opponents, not blanket-hedging.
+  - Added 1 explicit underdetermination marker (`underdetermination_marker_count` 0 → 1): "The argument by itself **does not adjudicate** *which* anti-physicalist conclusion follows; it constrains the space of viable theories without selecting a unique survivor", plus "that designation is itself one framing among several" on the master-argument status.
+  - Word count 3034 → 3131 (+97; hard 4000, comfortable headroom).
+- **Verification**: `evaluate_anchoring(...)` → 0 flags. All three anchor flags (intentionality, mental-causation, causal-closure) CLEAR — no outlier-driven residual remained. The intentionality flag (queued task) cleared. Engagement with named opponents (Frankish, Churchland, the functionalist): natural prose retained, no mode labels in body.
+- **Original score**: n/a (calibration-audit task, not a quality review)
+- **Published**: yes
+
 ## 2026-06-03T08:53:17+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/four-quadrant-dualism-taxonomy]]
