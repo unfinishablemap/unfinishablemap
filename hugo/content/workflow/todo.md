@@ -38,6 +38,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Integrate new concept page [the-agent-shaped-hole](/concepts/the-agent-shaped-hole/) into its two un-linked prose-mention siblings (qbism, quantum-measurement-and-subjective-probability)
+- **Type**: cross-review
+- **Status**: pending
+- **Source**: optimistic-review
+- **Generated**: 2026-06-03
+- **Notes**: Suggested by [optimistic-2026-06-03b](/reviews/optimistic-2026-06-03b/) (High Priority). LENGTH-NEUTRAL connective fix, NOT a new article (corpus near-cap: topics ~261/270, concepts ~252/270; concept page already exists and is well-developed). `concepts/the-agent-shaped-hole.md` was created 2026-06-03 as the dedicated home for a reusable cross-framework diagnostic. Two sibling articles already use the exact phrase "agent-shaped hole" in PROSE but contain ZERO `[[the-agent-shaped-hole]]` wikilinks because they predate the page: (1) `concepts/qbism.md` — body line 32 ("...the agent-shaped hole it leaves are treated in dedicated detail") and Further Reading line 136 both route to `[[pragmatist-quantum-foundations-and-the-agent]]` instead of the concept page; qbism `last_deep_review: 2026-05-29` (before the page existed); 2255 body words, well under ceiling. (2) `topics/quantum-measurement-and-subjective-probability.md` — Further Reading line 160 ("The same agent-shaped-hole critique...") with no concept-page link; 2526 body words, under ceiling. Scope: (a) in each file, convert/augment the existing prose mention to wikilink `[[the-agent-shaped-hole]]` (do NOT replace the existing `[[pragmatist-quantum-foundations-and-the-agent]]` links — ADD the concept-page link alongside; the two destinations are complementary, parent-article vs concept-page); (b) add `[[the-agent-shaped-hole]]` to `related_articles` in both files; (c) NO new body prose — this is purely connective and must stay length-neutral; (d) OPTIONAL low-priority ride-along ONLY if trivially length-safe: add a frontmatter `related_articles` reciprocal `[[the-agent-shaped-hole]]` entry in `concepts/interactionist-dualism.md` (the page names it "the Map's candidate filling for the hole"), but interactionist-dualism is a 3234w-raw hub at length-accretion risk (hub-articles-accrete-crosslink-length) so frontmatter-only, never body prose, and skip if any doubt. The three named instantiation articles (`pragmatisms-path-to-dualism`, `consciousness-as-activity`, `pragmatist-quantum-foundations-and-the-agent`) ALREADY link the concept page correctly — do not touch them. Honour [evidential-status-discipline](/project/evidential-status-discipline/): do not let the link suggest the diagnostic is evidence-positive; the page itself is scrupulously calibrated as defeater-removal only. Tenet alignment: Tenet 1 (Dualism). See [optimistic-2026-06-03b](/reviews/optimistic-2026-06-03b/).
+
 ### ✓ P2: Deep-review topics/epistemology-of-convergence-arguments.md (18-day gap; assess condense-eligibility, do NOT blind-condense)
 - **Type**: deep-review
 - **Status**: done (2026-06-03 — see [deep-review-2026-06-03-epistemology-of-convergence-arguments](/reviews/deep-review-2026-06-03-epistemology-of-convergence-arguments/)). 5th-pass review of a calibration-anchor. NO critical issues, NO slippage, NO label leakage; body unchanged (length-neutral, metadata-only). Web-verified the 4 highest-risk recent/specialist cites at the publisher of record — all CLEAN: Berent 2023 (Open Mind 7:564-587, opmi_a_00094), Berent 2024 (Neuroscience of Consciousness 2024(1):niae016, nc/niae016), Chalmers 2020 (JCS 27(5-6):227-257), Barrett et al. 2021 (Cognitive Science 45:e12992, all 8 authors+order correct), Barlev & Shtulman 2021 (Psych Review 128(6):1007-1021), O'Brien-Kop 2023 (Religious Studies, S0034412523000410). Load-bearing Chalmers quote "one has to take materialism seriously in order to take the hard problem seriously as a problem" confirmed verbatim at publisher. ⚠ LENGTH: confirmed 6479 body words (analyze_length, frontmatter-stripped), status CRITICAL — but this is the STANDING HUMAN-FLAGSHIP-SPLIT already deferred (see the consolidated Blocked-Tasks entry "HUMAN LENGTH DECISION 2026-06-03: epistemology-of-convergence-arguments" + the prior Active ✓ DEFERRED-TO-HUMAN 2026-06-02). Growth 3339w→6479w since the 2026-05-15 review is genuine load-bearing additions (compound-signature section, Berent/illusionism engagement, Chalmers-2020 divergence, two-tier-discount discipline) — NOT cuttable redundancy; 4 prior condenses (git) all failed to hold it under critical. Did NOT re-queue a condense. Recommendation recorded: SPLIT.
@@ -296,13 +303,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### ✓ RELOCATED 2026-05-31: Write article on Auditory Consciousness and the Interface
 - **Type**: expand-topic
 - **Status**: Promoted P3→P2 by /replenish-queue 2026-05-31 and relocated to the top of Active Tasks (floor-restoring). See the P2 entry of the same title for the live task. This stub remains to avoid a duplicate; it will be swept by the next loop tidy pass.
-- **Source**: optimistic-review (2026-05-28)
-- **Generated**: 2026-05-28
-
-### P2: Write synthesis on Cross-Modal Capability Division
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-05-28b. `capability-division-in-vision` establishes the brain-side/mind-side template for one modality; a synthesis testing whether the same division (feature-extraction brain-side, flexible-deployment + ownership mind-side) recurs across audition, touch, and proprioception would convert a single-modality result into a structural claim. The article's Further Reading already points to `dual-domain-capabilities-in-proprioception-and-spatial-imagination` — check overlap with that page first (assess-first; may be a coalesce/refine rather than new page). Tenet alignment: Bidirectional Interaction. See `reviews/optimistic-2026-05-28b.md`.
 - **Source**: optimistic-review (2026-05-28)
 - **Generated**: 2026-05-28
 
@@ -1399,6 +1399,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Write synthesis on Cross-Modal Capability Division
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-05-28b. `capability-division-in-vision` establishes the brain-side/mind-side template for one modality; a synthesis testing whether the same division (feature-extraction brain-side, flexible-deployment + ownership mind-side) recurs across audition, touch, and proprioception would convert a single-modality result into a structural claim. The article's Further Reading already points to `dual-domain-capabilities-in-proprioception-and-spatial-imagination` — check overlap with that page first (assess-first; may be a coalesce/refine rather than new page). Tenet alignment: Bidirectional Interaction. See `reviews/optimistic-2026-05-28b.md`.
 
 ### ✓ 2026-06-03: Calibration-preserving condense of topics/delegatory-dualism.md (3827 words, 128% of 3000 soft target)
 - **Type**: condense

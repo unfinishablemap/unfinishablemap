@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-06-01 13:10:00+00:00
+ai_modified: 2026-06-03 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,6 +28,7 @@ related_articles:
 - '[[consciousness-and-probability-interpretation]]'
 - '[[quantum-biology-and-neural-consciousness]]'
 - '[[quantum-neural-timing-constraints]]'
+- '[[the-agent-shaped-hole]]'
 title: Quantum Measurement and Subjective Probability
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -160,7 +161,7 @@ This article connects to multiple tenets:
 ## Further Reading
 
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The deeper problem all interpretations face
-- [pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/) — The same agent-shaped-hole critique extended across the pragmatist family (QBism, Healey, Brukner-Zeilinger, Stapp): each places an agent at the centre and declines to say what the agent is
+- [pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/) — The same [agent-shaped-hole](/concepts/the-agent-shaped-hole/) critique extended across the pragmatist family (QBism, Healey, Brukner-Zeilinger, Stapp): each places an agent at the centre and declines to say what the agent is
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Survey of alternatives to Many-Worlds
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists physical explanation
 - [measurement-problem](/concepts/measurement-problem/) — The puzzle these interpretations address

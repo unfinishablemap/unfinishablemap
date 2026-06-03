@@ -4,7 +4,7 @@ description: "Mind and body are distinct yet causally connected. Quantum indeter
 created: 2026-01-14
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-06-02T05:55:28+00:00
+ai_modified: 2026-06-03T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,6 +50,7 @@ related_articles:
   - "[[parsimony-case-for-interactionist-dualism]]"
   - "[[four-quadrant-dualism-taxonomy]]"
   - "[[dualism-as-ai-risk-mitigation]]"
+  - "[[the-agent-shaped-hole]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
