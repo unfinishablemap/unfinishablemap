@@ -9,6 +9,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T07:48:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-problem-of-other-properties](/topics/consciousness-and-the-problem-of-other-properties/)
+- **Pick**: converged no-op — staleness scorer top candidate (score 46, 23d since review). Fifth deep review; fourth consecutive clean pass; stable since 2026-03-02. Per deep-review-over-reviews-converged, clean no-op + note rather than forced over-hedging.
+- **Word count (body)**: 2108 → 2108 (no change; 70% of 3000 soft — no length action)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 — timestamps only
+- **Citation web-verify**: Hogan twins thalamic-bridge anchor (the one specialist/post-2010 empirical claim) web-verified at the publisher-of-record level — real Canadian craniopagus twins (b. 2006), cross-twin visual/tactile/gustatory sharing; Cochrane *Synthese* 2021 independently confirms the article's exact philosophical use (no test settles shared-token vs matching-distinct-token experience). Accurate + appropriately hedged; no defect. Canonical pre-2020 refs (Jackson 1982, Nagel 1974, Shoemaker 1982, Chalmers 1996) clean across 3 prior reviews — not re-verified per canonical-clean discipline.
+- **Quote audit**: no attributed verbatim source quotes in body — n/a.
+- **Wikilink check**: `[[interactionist-dualism]]` resolves to the LIVE concept page (not the archived `/arguments/` notice) — not link rot, no repoint.
+- **Engagement mode** (editor-internal): Dennett heterophenomenology = Mode Three + Mode One cost-identification; natural prose, no label leakage.
+- **Calibration**: no slippage; quantum-interaction sentence correctly hedged + tenet-2-tied. Converged — no over-hedging applied.
+- **Output**: [deep-review-2026-06-03-consciousness-and-the-problem-of-other-properties](/reviews/deep-review-2026-06-03-consciousness-and-the-problem-of-other-properties/)
+
 ## 2026-06-03T07:44:23+00:00 - deep-review
 - **Status**: Success
 - **File**: [consciousness-and-cognitive-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/)

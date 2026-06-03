@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-05-10 16:41:00+00:00
+ai_modified: 2026-06-03 07:48:48+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: 'The problem of other minds generalises: if phenomenal properties a
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-10 08:10:00+00:00
+last_deep_review: 2026-06-03 07:48:48+00:00
 modified: *id001
 related_articles:
 - '[[voids-between-minds]]'
