@@ -14,6 +14,7 @@ description: Kairos names the felt structure of the right moment to act—a not-
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-06-03 14:05:00+00:00
 modified: *id001
 related_articles:
 - '[[temporal-consciousness-structure-and-agency]]'
