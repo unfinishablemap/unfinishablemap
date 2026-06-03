@@ -408,13 +408,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-05-11
 
-### P2: Cross-link type-specificity concept page (when created) to the-binding-problem and baseline-cognition as exhibits at three grains
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-05-10b. Yesterday's convergence-argument refine introduced *type-specificity* as a load-bearing concept (line 160 of `topics/the-convergence-argument-for-dualism.md`); per [[reviews/optimistic-2026-05-10]]'s "New Concept Pages Needed" section, that concept page is queued for creation. When created, the concept page should cross-link to both today-reviewed articles as *exhibits at different grains*: vitalism-disanalogy as the original deployment (convergence-argument), perceptual/cognitive/temporal/subject unity as five-variety deployment (the-binding-problem), consciousness-dependent capacities as functional-capacity deployment (baseline-cognition). The cross-link would consolidate the catalogue's emerging *anti-generic-mechanism* discipline into a single referential anchor. **Sequencing**: this task should land *after* the type-specificity concept page itself is created; it is a follow-up cross-review rather than a precondition. Short scope (~150–250 words touched across the three exhibit articles). Tenet alignment: methodological + Tenet 1 (Dualism).
-- **Source**: optimistic-review (2026-05-10b)
-- **Generated**: 2026-05-10
-
 ### P2: Write topic article on the contentless-awareness / turiya evidence question
 - **Type**: expand-topic
 - **Status**: pending
@@ -1282,6 +1275,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Cross-link type-specificity concept page (when created) to the-binding-problem and baseline-cognition as exhibits at three grains
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic review 2026-05-10b. Yesterday's convergence-argument refine introduced *type-specificity* as a load-bearing concept (line 160 of `topics/the-convergence-argument-for-dualism.md`); per [[reviews/optimistic-2026-05-10]]'s "New Concept Pages Needed" section, that concept page is queued for creation. When created, the concept page should cross-link to both today-reviewed articles as *exhibits at different grains*: vitalism-disanalogy as the original deployment (convergence-argument), perceptual/cognitive/temporal/subject unity as five-variety deployment (the-binding-problem), consciousness-dependent capacities as functional-capacity deployment (baseline-cognition). The cross-link would consolidate the catalogue's emerging *anti-generic-mechanism* discipline into a single referential anchor. **Sequencing**: this task should land *after* the type-specificity concept page itself is created; it is a follow-up cross-review rather than a precondition. Short scope (~150–250 words touched across the three exhibit articles). Tenet alignment: methodological + Tenet 1 (Dualism).
 
 ### ✓ 2026-06-03: Engage the indexical-thesis-as-itself-a-tenet challenge in Tenet 4 (Madhyamaka critique)
 - **Type**: refine-draft
