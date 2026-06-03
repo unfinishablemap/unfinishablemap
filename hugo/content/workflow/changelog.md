@@ -9,6 +9,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T08:28:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [vagueness-void](/voids/vagueness-void/)
+- **Pick**: Justified (substantive change since prior review — seam-unification + formal-exception + Sorites Occluded-trace paragraphs from 05-26 refine). Note: `last_deep_review` claimed 2026-05-12 but no such review file exists; real priors are both 2026-04-30.
+- **Critical issue addressed**: 1 — **citation misattribution + fabricated argument**. Paper "Vagueness and zombies: why 'phenomenally conscious' has no borderline cases" (DOI 10.1007/s11098-016-0790-4) attributed to **Tye**; it is by **Jonathan A. Simon** (*Philosophical Studies* 174(8), 2105–2123, 2017 — publisher + author page confirmed). Article also fabricated an "intrinsic-character premise"; Simon's actual argument is zombie-conceivability + Positive Characterization Thesis. Reattributed + argument rewritten in body & References; **root research note corrected** (`research/voids-vagueness-void-2026-04-30.md` "Antony / Tye" header was the source; dated NOTE added) to stop re-propagation. Intra-corpus ratification per ai_citation_metadata_unreliable — only live web-verify caught it.
+- **Citations web-verified (publisher of record)**: Bobzien 2024 (*Erkenntnis* 90(6), 2593–2632, DOI ...00731-1 ✓), Schwitzgebel 2023 (*Phil Studies* 180(12), 3415–3439, DOI ...02042-1 ✓ incl. quadrilemma), Hampton 2007 (*Cognitive Science* 31(3), 355–384 ✓), Taylor, H. 2018 (*Synthese*, DOI ...1783-y ✓). Williamson 1994 canonical clean. No double-cites; defect was isolated to the Simon/Tye swap.
+- **Quotes audited**: Schwitzgebel "are not determinately like anything" could NOT be verbatim-confirmed (TLS/index failure) → softened to unquoted paraphrase (meaning preserved). Psychiatry quotes left as-is (consistent with source).
+- **Length**: length-neutral. Body 2999 → 2998 (Simon fix +~72w offset by trimming redundant Seam/Sorites/Popperian passages; briefly hit hard 3000, returned under). voids/ soft 2000 / hard 3000.
+- **Calibration**: load-bearing hedges + Popperian-honesty framing preserved; no slippage; named-opponent (Simon) engagement in natural prose, honest boundary-marking, no mode labels.
+- **Output**: [deep-review-2026-06-03-vagueness-void](/reviews/deep-review-2026-06-03-vagueness-void/)
+
 ## 2026-06-03T08:18:13+00:00 - deep-review
 - **Status**: Success
 - **File**: [common-knowledge-void](/voids/common-knowledge-void/)

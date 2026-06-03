@@ -39,7 +39,7 @@ last_curated: null
 
 ## Executive Summary
 
-Almost every concept consciousness deploys—"red", "tall", "anger", "conscious", "person"—admits borderline cases where neither application nor refusal is determinately correct. The Sorites paradox shows that no incremental method can locate where such concepts stop applying, and higher-order vagueness shows that the borderline cases themselves have borderline cases, recursively, with no fixed point. Williamson's epistemic theory holds that sharp cut-offs exist but are unknowable due to margin-for-error principles; supervaluationism, fuzzy logic, and contextualism reject sharp cut-offs but inherit their own indeterminacy puzzles. Critically, vagueness applies inward as well as outward: phenomenal concepts (Papineau, Antony), emotion kinds (Taylor), mental disorder categories, and even "is conscious" itself (Schwitzgebel, Tye) admit borderline status. This positions vagueness as a structural void of a distinctive shape: not a frontier we have not yet reached, but an interior fuzz that consciousness cannot dispel from within whatever conceptual apparatus it brings to bear—including the apparatus by which it categorises its own experiences.
+Almost every concept consciousness deploys—"red", "tall", "anger", "conscious", "person"—admits borderline cases where neither application nor refusal is determinately correct. The Sorites paradox shows that no incremental method can locate where such concepts stop applying, and higher-order vagueness shows that the borderline cases themselves have borderline cases, recursively, with no fixed point. Williamson's epistemic theory holds that sharp cut-offs exist but are unknowable due to margin-for-error principles; supervaluationism, fuzzy logic, and contextualism reject sharp cut-offs but inherit their own indeterminacy puzzles. Critically, vagueness applies inward as well as outward: phenomenal concepts (Papineau, Antony), emotion kinds (Taylor), mental disorder categories, and even "is conscious" itself (Schwitzgebel, Simon) admit borderline status. This positions vagueness as a structural void of a distinctive shape: not a frontier we have not yet reached, but an interior fuzz that consciousness cannot dispel from within whatever conceptual apparatus it brings to bear—including the apparatus by which it categorises its own experiences.
 
 ## Key Sources
 
@@ -116,13 +116,13 @@ Almost every concept consciousness deploys—"red", "tall", "anger", "conscious"
 - **Tenet alignment**: Direct hit. The Map's dualism does not entail that consciousness has sharp metaphysical edges; the question is whether the *concept* "conscious" has them. Schwitzgebel's argument is consonant with Occam's-razor-has-limits.
 - **Quote**: borderline conscious states "are not determinately like anything."
 
-### Antony / Tye, "Vagueness and zombies: why 'phenomenally conscious' has no borderline cases"
-- **URL**: https://link.springer.com/article/10.1007/s11098-016-0790-4
+### Simon, J. A. (2017). "Vagueness and Zombies: Why 'Phenomenally Conscious' has No Borderline Cases"
+- **URL**: https://link.springer.com/article/10.1007/s11098-016-0790-4 (*Philosophical Studies* 174(8), 2105–2123)
 - **Type**: Paper
 - **Key points**:
   - Opposing position: argues "phenomenally conscious" is sharp — there cannot be borderline cases.
-  - The intuition: every state is either clearly conscious or clearly not.
-  - Tye's later work on vagueness about consciousness extends this.
+  - Argument rests on the conceivability of zombies plus a Positive Characterization Thesis (every genuine borderline case admits a positive characterization), not on an intrinsic-character premise.
+  - NOTE (2026-06-03 deep-review): this paper is by Jonathan A. Simon, NOT Tye and NOT Antony. Earlier drafts misattributed it to Tye; corrected in vagueness-void.md.
 - **Tenet alignment**: Shows the void is contested even at the meta-level — whether the void is real (consciousness is genuinely vague) or apparent (consciousness is sharp but our concepts are fuzzy) is itself within the void.
 
 ### Taylor, "Emotions, concepts and the indeterminacy of natural kinds"
@@ -169,7 +169,7 @@ This is one of the better-evidenced voids:
 - **Formal**: The Sorites is valid in classical logic; therefore one premise must be false; therefore either there is a sharp cut-off (epistemicism — unknowable) or classical logic must be modified (supervaluationism, fuzzy logic, intuitionism — each generates revenge problems). No theory dissolves the void without paying.
 - **Cognitive-empirical**: Hampton's typicality data, multiple-definitions models, and graded category membership are robust across cultures and tasks. Brain mapping (Haueis 2012) shows the substrate itself has fuzzy boundaries.
 - **Phenomenological**: Borderline cases of emotions, mental disorders, and even consciousness are ubiquitous in clinical and introspective practice.
-- **Philosophical**: The Schwitzgebel/Tye/Antony/Papineau exchanges show that even the question of whether a domain *admits* borderline cases is contested in a way that resists resolution from within.
+- **Philosophical**: The Schwitzgebel/Simon/Antony/Papineau exchanges show that even the question of whether a domain *admits* borderline cases is contested in a way that resists resolution from within.
 
 The void is not "merely difficult terrain" because incremental refinement *generates* the void rather than dissolving it: each new precisification creates new borderlines.
 
@@ -261,7 +261,7 @@ The first angle is recommended. It produces an article structurally parallel to 
 - "A Multiple Definitions Model of Classification Into Fuzzy Categories". *Frontiers in Psychology* (2019). https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00944/full
 - Schwitzgebel, E. "Borderline Consciousness, when it's neither determinately true nor determinately false that experience is present". *Philosophical Studies*. https://link.springer.com/article/10.1007/s11098-023-02042-1
 - Antony, M. V. "Papineau on the vagueness of phenomenal concepts". https://philpapers.org/rec/ANTPOT
-- Tye, M. "Vagueness and zombies: why 'phenomenally conscious' has no borderline cases". *Philosophical Studies*. https://link.springer.com/article/10.1007/s11098-016-0790-4
+- Simon, J. A. (2017). "Vagueness and Zombies: Why 'Phenomenally Conscious' has No Borderline Cases". *Philosophical Studies*, 174(8), 2105–2123. https://link.springer.com/article/10.1007/s11098-016-0790-4
 - Taylor, H. "Emotions, concepts and the indeterminacy of natural kinds". *Synthese*. https://link.springer.com/article/10.1007/s11229-018-1783-y
 - "Vagueness in Psychiatry". https://www.researchgate.net/publication/314858617_Vagueness_in_Psychiatry
 - Gómez-Torrente, M. "Vagueness and Margin for Error Principles". *Philosophy and Phenomenological Research*. https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1933-1592.2002.tb00145.x
