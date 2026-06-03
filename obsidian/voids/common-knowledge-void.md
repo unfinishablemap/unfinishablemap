@@ -4,8 +4,8 @@ description: "Human+AI exploration of the structural impossibility at the heart 
 created: 2026-04-29
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-05-19T11:04:33+00:00
-last_deep_review: 2026-04-30T11:18:00+00:00
+ai_modified: 2026-06-03T08:18:13+00:00
+last_deep_review: 2026-06-03T08:18:13+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"

@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03T07:54:32+00:00
+ai_modified: 2026-06-03T08:18:13+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-03T08:18:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/common-knowledge-void]]
+- **Pick**: 19d staleness gap is a SCORER ARTEFACT, not drift. Only change since 2026-04-30 deep-review = commit b78b8096a (removed AI REFINEMENT LOG sidecar comment) + timestamp bump. No substantive body change → **converged no-op** per [[deep-review-over-reviews-converged]]. 2026-04-30 review already declared convergence + listed 6 bedrock disagreements.
+- **Word count (body)**: 2963 → 2963 (no change; voids/ soft 2000, hard 3000 — 37 words clear of hard; analyze_length frontmatter-stripped, scorer-guard applied)
+- **Critical issues addressed**: 0
+- **Citations web-verified (publisher of record)**: Lederman 2018 (Noûs 52(4), 921-945, DOI 10.1111/nous.12186; given name **Harvey** confirmed ✓), Carruthers 2017 (JCS 24(9-10), 228-252; given name **Peter** confirmed ✓), Clark & Brennan 1991 quote faithful (APA, Perspectives on Socially Shared Cognition ✓). Famous-name registry clean: Aumann↔agreement-theorem(1976)+Halpern-Moses-paradox-naming(1989), Lewis↔Convention(1969), Rubinstein↔email-game(1989), Halpern&Moses↔coordinated-attack(1990 JACM 37(3)), Schiffer↔Meaning(1972), Schelling↔Strategy-of-Conflict(1960). No defects, no double-cites, no corpus propagation.
+- **Quotes audited**: 1 verbatim source quote (Clark & Brennan) faithful + correctly attributed; remaining quote-strings are formal-construct labels / illustrative, no cite required.
+- **Named-opponent engagements (editor-internal)**: Carruthers = Mode Three (boundary, bedrock-declared); Madhyamaka = Mode Two/Three (reply via Map's own operational-fiction commitment); focal-points = Mode One/Two (salience-regress internal to opponent). No label leakage in body, no boundary-substitution.
+- **Calibration**: no possibility/probability slippage — Aumann contrast explicitly tenet-dependent (No-MWI), Dualism demoted to "one input not self-contained proof". Void thesis/apophatic framing un-flattened. Load-bearing hedges intact.
+- **Cross-links**: 2026-05-19 noetic-occlusion additions ([[language-thought-boundary]], [[necessary-opacity]], [[noetic-feelings-void]]) resolve. All wikilinks valid.
+- **Output**: [[reviews/deep-review-2026-06-03-common-knowledge-void]]
+- **Follow-on**: none
 
 ## 2026-06-03T08:00:02+00:00 - deep-review
 - **Status**: Success
