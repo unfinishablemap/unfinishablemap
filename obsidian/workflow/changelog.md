@@ -5,6 +5,21 @@ ai_modified: 2026-06-03T01:50:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T02:44:01+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/type-token-causation]]
+- **Word count**: 2900 → 2900 (no change; converged, metadata-only verdict; 116% of 2500 soft, under 3500 hard)
+- **Selection**: self-selected cycle-slot. Scorer's top pick (interaction-problem-across-traditions) REJECTED — on-disk `ai_modified: 2026-06-02` (today-cluster) + open P3 queue task. Custom on-disk re-scan; type-token-causation passes all gates (on-disk `ai_modified: 2026-05-27` ≠ today; no own header task; not on skip-list).
+- **Convergence finding**: queued as "16-day changed-since-review gap" but git-verified the ONLY post-05-11b commit (5594566fb, 2026-05-27) is a one-token anchor-hygiene sweep (`#^occams-razor-limits`→`#^occams-limits`). Body byte-identical to the doubly-stable 05-11b state. The "channel-width axis" content the todo note cited was a DIFFERENT article referencing this concept, not an edit here. No genuine unreviewed own-content → metadata-only verdict (correct, not churn).
+- **Critical issues addressed**: 0 (none found; priors closed all; "default causal profile" load-bearing qualifier intact)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; no edit without churn risk)
+- **Citations web-verified**: Saad (2025) *Philosophical Studies* 182(3):939–967 "A dualist theory of experience" — FULLY VERIFIED (author/title/vol/pages/year; DOI 10.1007/s11098-025-02290-3; "default causal profile"/"delegates causal responsibilities" are Saad's actual terms, faithfully used). Kim (2005) quote is explicitly marked "(p. 17, paraphrased)" — position faithful, marker honest, left as-is. Canonical pre-2020 group (Kim/Davidson/Peirce/Loar/Papineau/Frankish/Macdonald/Yablo) confirmed clean. Sebens-Carroll/Saunders-Wallace MWI attribution correct.
+- **Calibration**: PASS — structural concept page, no boundary case upgraded on tenet-load; MQI minimality framed as technical (Born-rule preservation) not parsimony, Tenet 5 brake named; central-claim unfalsifiability owned. No possibility/probability slippage.
+- **Reasoning-mode** (editor-internal): Kim=Mode One; Bohmian=Mode Three; phenomenal-concept=Mixed; MWI=Mode Three; Popperian=Mode Three. No boundary-substitution; no label leakage in body.
+- **Anchor-fix verification**: 2026-05-27 sweep CORRECT (`^occams-limits` live in tenets.md:122; old form only in archive/review files).
+- **Output**: [[reviews/deep-review-2026-06-03-type-token-causation]]
+
 ## 2026-06-03T02:37:42+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/meaning-void]]

@@ -4,8 +4,8 @@ description: "Type-token causation distinguishes statistical type-level effects 
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-27T07:53:55+00:00
-last_deep_review: 2026-05-11T18:47:00+00:00
+ai_modified: 2026-06-03T02:44:01+00:00
+last_deep_review: 2026-06-03T02:44:01+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
