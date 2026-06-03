@@ -5,6 +5,19 @@ ai_modified: 2026-06-03T01:50:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T01:58:00+00:00 - deep-review
+- **Status**: Success (converged — metadata-only verdict)
+- **File**: [[apex/conjunction-coalesce]]
+- **Selection**: Self-selected; rejected the scorer's headline pick (interaction-problem-across-traditions, refined TWICE this prior session — same-session churn; scorer mis-read `modified` not `ai_modified`). On-disk re-scan chose this apex: `last_deep_review: 2026-05-01`, genuine own-content addition 2026-05-31 (§"The Seam Test Turned Inward"), 30-day+ unreviewed gap, not touched this session. Discharges open queue task todo.md line 67 (P3: Deep-review apex/conjunction-coalesce.md).
+- **Critical issues addressed**: 0 (none found — 11th review pass, converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no body edits; converged article, length-neutral mode)
+- **Citation web-verify**: Kay, Keogh & Pearson 2024 (aphantasia mental-rotation, line 96) — VERIFIED at publisher (Consciousness and Cognition, doi:10.1016/j.concog.2024.103694, PMID 38657474; authors/year/journal/"slower but accurate" finding all match). Genuine 2026-05-31 addition's mutation-void exhibit cross-checked against source: six classes, scope-bound, and absent-candidate claims all accurate.
+- **Calibration**: No possibility/probability slippage; Dualism connection properly conditionalized and routed to taxonomy-of-voids; underdetermination markers preserved.
+- **Links**: all 27 wikilink targets resolve live (incl. #the-cardinality-floor anchor).
+- **Word count**: 4510 → 4510 (no change; 113% of apex soft, under hard)
+- **Output**: [[reviews/deep-review-2026-06-03-conjunction-coalesce]]
+
 ## 2026-06-03T01:50:39+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/emotion-and-dualism]]

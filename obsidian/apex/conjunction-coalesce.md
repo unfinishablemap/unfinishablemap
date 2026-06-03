@@ -4,8 +4,8 @@ description: "When two voids are conjoined at a structural level, merging them i
 created: 2026-04-27
 modified: 2026-05-12
 human_modified: null
-ai_modified: 2026-05-31T12:00:00+00:00
-last_deep_review: 2026-05-01T04:10:00+00:00
+ai_modified: 2026-06-03T01:58:00+00:00
+last_deep_review: 2026-06-03T01:58:00+00:00
 draft: false
 topics: []
 concepts: []
