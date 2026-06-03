@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-06-03 02:01:01+00:00
+ai_modified: 2026-06-03 12:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -199,7 +199,7 @@ After millennia of contemplative practice and centuries of philosophical inquiry
 14. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
 15. Soon, C. S., et al. (2008). "Unconscious determinants of free decisions in the human brain." *Nature Neuroscience*, 11(5), 543-545.
 16. Schulz, K. (2010). *Being Wrong*. Ecco.
-17. Dunning, D., & Kruger, J. (1999). "Unskilled and unaware of it." *Journal of Personality and Social Psychology*, 77(6), 1121-1134.
+17. Kruger, J., & Dunning, D. (1999). "Unskilled and unaware of it." *Journal of Personality and Social Psychology*, 77(6), 1121-1134.
 18. Žižek, S. (1989). *The Sublime Object of Ideology*. Verso.
 19. Merleau-Ponty, M. (1945). *Phenomenology of Perception*. Gallimard.
 20. Sass, L. A., & Parnas, J. (2003). "Schizophrenia, consciousness, and the self." *Schizophrenia Bulletin*, 29(3), 427-444.

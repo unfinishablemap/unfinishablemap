@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-04-23 12:41:29+00:00
+ai_modified: 2026-06-03 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -278,7 +278,7 @@ Based on this research, a voids article could:
 
 ## Citations
 
-- Dunning, D., & Kruger, J. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121-1134.
+- Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121-1134.
 - Festinger, L. (1957). *A Theory of Cognitive Dissonance*. Stanford University Press.
 - Kounios, J., & Beeman, M. (2014). The cognitive neuroscience of insight. *Annual Review of Psychology*, 65, 71-93.
 - Nisbett, R., & Wilson, T. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231-259.

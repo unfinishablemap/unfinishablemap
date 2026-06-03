@@ -9,6 +9,34 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T02:49:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [erasure-void](/voids/erasure-void/)
+- **Word count**: 2160 → 2169 (+9; full author byline added; net-neutral, under 3000 hard)
+- **Selection**: queued (LARGE 22d review-gap; prior touches mechanical). Value axis = citation web-verify + void calibration.
+- **Critical issues addressed**: 3 — (1) Ref #2 misattribution: "Mazzi et al. 2024 TiCS 28(11)" → actual **Michel, Gao, Mazor, Kletenik & Rahnev (2024) TiCS 28(12):1066-1077** (PubMed 39353838); first author Michel not Mazzi. (2) Ref #3 misattribution+metadata: "Mograbi & Morris (2018) Cortex 88:24-37" — that exact title is **Cosentino et al. (2016) Cortex 84:101-110** (PubMed 27750070), every field wrong; replaced with the genuine three-mode-taxonomy source **Morris & Mograbi (2013) Cortex 49(6):1553-1565** (CAM; PubMed 23117055). (3) Gertler quote inexact + stance overstated ("concludes") → exact wording restored + "engages the claim that" (she defends moderate unity, not strong fragmentation).
+- **Citations verified correct (no change)**: Wu & Dunning (2018) RGP 22(1):25-35 ✓; **Kruger & Dunning (1999) JPSP 77(6):1121-1134 — author ORDER correct (Kruger first)** ✓; Gertler title/venue ✓. No verbatim Nietzsche/Ricoeur quotes in body (reference-list only; no fabrication risk).
+- **Cross-article follow-on flagged (NOT edited)**: `voids/self-opacity.md` reportedly cites Kruger-Dunning REVERSED ("Dunning & Kruger") — colloquial-name-order trap; needs an author-order fix. Queue follow-on.
+- **Calibration**: PASS — void stays posited-not-proven; anosognosia/DK/hypocognition evidence supports void STRUCTURE only; no epistemic→metaphysical slide; dualist passage hedged ("does not prove dualism").
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral; at soft warning)
+- **Output**: [deep-review-2026-06-03-erasure-void](/reviews/deep-review-2026-06-03-erasure-void/)
+
+## 2026-06-03T02:44:01+00:00 - deep-review
+- **Status**: Success
+- **File**: [type-token-causation](/concepts/type-token-causation/)
+- **Word count**: 2900 → 2900 (no change; converged, metadata-only verdict; 116% of 2500 soft, under 3500 hard)
+- **Selection**: self-selected cycle-slot. Scorer's top pick (interaction-problem-across-traditions) REJECTED — on-disk `ai_modified: 2026-06-02` (today-cluster) + open P3 queue task. Custom on-disk re-scan; type-token-causation passes all gates (on-disk `ai_modified: 2026-05-27` ≠ today; no own header task; not on skip-list).
+- **Convergence finding**: queued as "16-day changed-since-review gap" but git-verified the ONLY post-05-11b commit (5594566fb, 2026-05-27) is a one-token anchor-hygiene sweep (`#^occams-razor-limits`→`#^occams-limits`). Body byte-identical to the doubly-stable 05-11b state. The "channel-width axis" content the todo note cited was a DIFFERENT article referencing this concept, not an edit here. No genuine unreviewed own-content → metadata-only verdict (correct, not churn).
+- **Critical issues addressed**: 0 (none found; priors closed all; "default causal profile" load-bearing qualifier intact)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; no edit without churn risk)
+- **Citations web-verified**: Saad (2025) *Philosophical Studies* 182(3):939–967 "A dualist theory of experience" — FULLY VERIFIED (author/title/vol/pages/year; DOI 10.1007/s11098-025-02290-3; "default causal profile"/"delegates causal responsibilities" are Saad's actual terms, faithfully used). Kim (2005) quote is explicitly marked "(p. 17, paraphrased)" — position faithful, marker honest, left as-is. Canonical pre-2020 group (Kim/Davidson/Peirce/Loar/Papineau/Frankish/Macdonald/Yablo) confirmed clean. Sebens-Carroll/Saunders-Wallace MWI attribution correct.
+- **Calibration**: PASS — structural concept page, no boundary case upgraded on tenet-load; MQI minimality framed as technical (Born-rule preservation) not parsimony, Tenet 5 brake named; central-claim unfalsifiability owned. No possibility/probability slippage.
+- **Reasoning-mode** (editor-internal): Kim=Mode One; Bohmian=Mode Three; phenomenal-concept=Mixed; MWI=Mode Three; Popperian=Mode Three. No boundary-substitution; no label leakage in body.
+- **Anchor-fix verification**: 2026-05-27 sweep CORRECT (`^occams-limits` live in tenets.md:122; old form only in archive/review files).
+- **Output**: [deep-review-2026-06-03-type-token-causation](/reviews/deep-review-2026-06-03-type-token-causation/)
+
 ## 2026-06-03T02:37:42+00:00 - deep-review
 - **Status**: Success
 - **File**: [meaning-void](/voids/meaning-void/)
