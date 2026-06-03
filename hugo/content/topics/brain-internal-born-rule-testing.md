@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-06-02 23:58:44+00:00
+ai_modified: 2026-06-03 01:00:35+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -56,7 +56,7 @@ Making the corridor empirically superfluous requires more than a single null res
 
 ## What the Corridor Is
 
-The corridor reading holds that consciousness selects which definite outcome emerges from the post-decoherence mixture without redistributing probability mass over alternatives — single-event selection without ensemble signature. It is the strictest reading of Tenet 2 in the [channel-class taxonomy](/concepts/channel-class-taxonomy/): Class 1, the [selection-only channel](/concepts/selection-only-channel/). The mind sees the prior distribution {p₁, …, p_N} that physics specifies, picks among the alternatives, and long-run frequency converges to the Born distribution exactly. The five-constraint corridor — conservation, no-signalling, second-order interference preservation, decoherence consistency, and Born compliance — is satisfied trivially. The trade-off is severe: by Han's (2016) result on Born-compliant channels under the no-signalling constraint, the per-trial information-theoretic capacity of such channels vanishes asymptotically as the number of trials grows, so the channel cannot transmit ensemble-level information without violating Born statistics.
+The corridor reading holds that consciousness selects which definite outcome emerges from the post-decoherence mixture without redistributing probability mass over alternatives — single-event selection without ensemble signature. It is the strictest reading of Tenet 2 in the [channel-class taxonomy](/concepts/channel-class-taxonomy/): Class 1, the [selection-only channel](/concepts/selection-only-channel/). The mind sees the prior distribution {p₁, …, p_N} that physics specifies, picks among the alternatives, and long-run frequency converges to the Born distribution exactly. The five-constraint corridor — conservation, no-signalling, second-order interference preservation, decoherence consistency, and Born compliance — is satisfied trivially. The trade-off is severe: by Han and Choi's (2016) result on Born-compliant channels under the no-signalling constraint, the per-trial information-theoretic capacity of such channels vanishes asymptotically as the number of trials grows, so the channel cannot transmit ensemble-level information without violating Born statistics.
 
 A reading slightly outside the corridor — *probability-bias* — admits a small per-event deviation ε. Probability-bias channels reweight {pᵢ} to {pᵢ′} subject to Σpᵢ′ = 1. The empirical ceiling from RNG meta-analysis is roughly ε ≈ 10⁻⁴ (Bösch et al. 2006), tightened toward the null at typical scales by preregistered Bayesian work (Maier & Dechamps 2018). The corridor is what survives categorical commitment to no deviation; probability-bias is what survives if the empirical ceiling permits a non-zero ε at sub-RNG-detection levels brain-internally.
 
@@ -171,7 +171,7 @@ The corridor's unfalsifiability is instrument-relative rather than principled. T
 2. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness* 2025(1): niaf011. https://academic.oup.com/nc/article/2025/1/niaf011/8127081
 3. Bösch, H., Steinkamp, F., & Boller, E. (2006). Examining psychokinesis: the interaction of human intention with random number generators — a meta-analysis. *Psychological Bulletin* 132(4): 497–523.
 4. Donadi, S., Piscicchia, K., Curceanu, C., Diósi, L., Laubenstein, M., & Bassi, A. (2021). Underground test of gravity-related wave function collapse. *Nature Physics* 17: 74–78.
-5. Han, Y. D. (2016). On the Born rule and the no-signalling theorem. *Physics Letters A* 380: 3578–3580.
+5. Han, Y. D., & Choi, T. (2016). Quantum probability assignment limited by relativistic causality. *Scientific Reports* 6, 22986. https://www.nature.com/articles/srep22986
 6. Kerskens, C. M., & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications* 6(10): 105001.
 7. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology* 9: 379. doi:10.3389/fpsyg.2018.00379.
 8. Masanes, L., Galley, T. D., & Müller, M. P. (2019). The measurement postulates of quantum mechanics are operationally redundant. *Nature Communications* 10: 1361.

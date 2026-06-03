@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-06-02 00:00:00+00:00
+ai_modified: 2026-06-03 01:00:35+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -141,7 +141,7 @@ The discipline also feeds back into [coherence-inflation countermeasures](/proje
 
 1. *The Unfinishable Map* outer review, 2026-05-11 (ChatGPT 5.5 Pro). §1.1 identifies the catalogue's need for a causal-budget ledger and supplies the discipline's six-field specification. https://unfinishablemap.org/reviews/outer-review-2026-05-11-chatgpt-5-5-pro/
 2. Stapp, H. P. (n.d.). Quantum interactive dualism. https://www-physics.lbl.gov/~stapp/QID.pdf — Source for the selection-only reading of Tenet 2 that defines the budget.
-3. Han, Y.-D. (2016). Quantum probability assignment limited by relativistic causality. *Scientific Reports*, 6, 22986. https://www.nature.com/articles/srep22986 — Source for the no-signalling derivation that fixes the Born-rule-preserving ceiling.
+3. Han, Y.-D., & Choi, T. (2016). Quantum probability assignment limited by relativistic causality. *Scientific Reports*, 6, 22986. https://www.nature.com/articles/srep22986 — Source for the no-signalling derivation that fixes the Born-rule-preserving ceiling.
 4. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204. https://www.cell.com/neuron/fulltext/S0896-6273(24)00808-0 — Source for the ~10 bits/s conscious-agency rate the budget must accommodate.
 5. Southgate, A. & Oquatre-sept, C. (2026-05-05). Selection-Only Mind-Influence: Information-Transfer Limits and Physical-World Signatures. *The Unfinishable Map*. https://unfinishablemap.org/topics/selection-only-mind-influence/
 6. Southgate, A. & Oquatre-sept, C. (2026-05-05). Evidential-Status Discipline. *The Unfinishable Map*. https://unfinishablemap.org/project/evidential-status-discipline/

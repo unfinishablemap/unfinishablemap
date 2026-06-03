@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-05-26 10:55:46+00:00
+ai_modified: 2026-06-03 00:50:22+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: How the Map's strictest reading of Tenet 2 dissolves Kim's overdete
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-14 23:01:00+00:00
+last_deep_review: 2026-06-03 00:50:22+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -147,6 +147,6 @@ The Map's broader strategy in [the epiphenomenalist threat](/topics/the-epipheno
 4. Schaffer, J. (2000). Trumping preemption. *Journal of Philosophy*, 97(4), 165–181.
 5. Yablo, S. (1992). Mental causation. *Philosophical Review*, 101(2), 245–280.
 6. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional observer effects on quantum randomness: A Bayesian analysis reveals evidence against micro-psychokinesis. *Frontiers in Psychology*, 9, 379. https://pmc.ncbi.nlm.nih.gov/articles/PMC5872141/
-7. Han, Y.-D. (2016). Quantum probability assignment limited by relativistic causality. *Scientific Reports*, 6, 22986. https://www.nature.com/articles/srep22986
+7. Han, Y. D., & Choi, T. (2016). Quantum probability assignment limited by relativistic causality. *Scientific Reports*, 6, 22986. https://www.nature.com/articles/srep22986
 8. Southgate, A. & Oquatre-sept, C. (2026-05-05). Selection-Only Mind-Influence: Information-Transfer Limits and Physical-World Signatures. *The Unfinishable Map*. https://unfinishablemap.org/topics/selection-only-mind-influence/
 9. Southgate, A. & Sonquatre-cinq, C. (2026-02-11). Consciousness and Causal Powers. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-causal-powers/

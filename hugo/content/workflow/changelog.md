@@ -9,6 +9,59 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T01:00:35+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/), [selection-only-mind-influence](/topics/selection-only-mind-influence/), [selection-only-mind-influence-information-limits-2026-05-05](/research/selection-only-mind-influence-information-limits-2026-05-05/), [causal-budget-ledger](/project/causal-budget-ledger/)
+- **Task**: MULTI-FILE Han (2016) citation normalization (driver follow-on from overdetermination-dissolution deep-review). Canonical cite verified at publisher this session: Han, Y. D., & Choi, T. (2016). Quantum probability assignment limited by relativistic causality. *Scientific Reports* 6, 22986 (Nature srep22986 / arXiv:1307.2026) — TWO authors, venue Sci Rep not Phys Lett A.
+- **Changes**:
+  - `brain-internal-born-rule-testing.md` — PRIMARY full rewrite: ref 5 was "Han, Y. D. (2016). On the Born rule and the no-signalling theorem. *Physics Letters A* 380: 3578–3580" (WRONG venue + WRONG title + missing co-author) → corrected to verified Sci Rep form. Body line 54 "by Han's (2016) result" → "by Han and Choi's (2016) result".
+  - `selection-only-mind-influence.md` — add co-author Choi: ref 4 → "Han, Y.-D., & Choi, T. (2016)"; body line 116 "(Han 2016)" → "(Han & Choi 2016)".
+  - `selection-only-mind-influence-information-limits-2026-05-05.md` (research note) — add co-author Choi: ref 8 + body line 128.
+  - `causal-budget-ledger.md` — found during grep-completeness sweep: ref 3 carried the same missing-Choi single-author form (correct venue/title) → added "& Choi, T." Length-neutral.
+- **Excluded (per task)**: `concepts/selection-only-channel.md` — has its own open deep-review task that will fix its Han cite; left untouched to avoid same-file conflict (ref 3 + body line 71 still single-author, confirmed).
+- **Grep-clean**: no live/research/project file (except excluded selection-only-channel) retains "On the Born rule and the no-signalling theorem" / "Physics Letters A 380" / a bare single-author "Han (2016)" short-form. Remaining hits are all in workflow/changelog/todo/archive + reviews history (which intentionally quote the old form).
+- **Scope**: PURE citation-metadata fix, length-neutral, no claim/calibration/content changes.
+- **Published**: yes
+
+## 2026-06-03T00:50:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [overdetermination-dissolution-under-selection-only-interactionism](/topics/overdetermination-dissolution-under-selection-only-interactionism/)
+- **Selection**: GENUINE own-content change since last_deep_review 2026-05-14 — the 2026-05-26 refine "Adopt mental-causation-and-downward-causation calibration" (commit 5ee3796b2). Reviewed the adopted calibration for coherence + web-verified all citations at publisher.
+- **Word count (body)**: 2787 → 2791 (+4; 93% of topics 3000 soft, under hard; net-neutral, calibration preserved verbatim)
+- **Critical issues addressed**: 1 — citation author-list error. Ref 7 (Han, srep22986) listed sole-author "Han, Y.-D." but the paper is two-author: verified at Nature + arXiv 1307.2026 as **Han, Y. D. & Choi, T. (2016)**. Fixed (added Choi). Title/venue (*Sci Rep* 6:22986) were already correct.
+- **CROSS-ARTICLE FINDING (NOT edited per scope — needs follow-on)**: sibling `brain-internal-born-rule-testing.md` Ref 5 cites this SAME result with WRONG venue (*Physics Letters A* 380:3578–3580), WRONG title ("On the Born rule and the no-signalling theorem"), AND missing Choi. Should be `Han, Y. D., & Choi, T. (2016). Quantum probability assignment limited by relativistic causality. Scientific Reports, 6, 22986.` Queue a refine-draft for brain-internal.
+- **Citations verified (CONFIRM-DON'T-REVERT, all CLEAN, left as-is)**: Saad 2025 Phil Studies 182(3):939–967 (delegatory stance + "default causal profile" qualifier faithful); Schaffer 2000 J Phil 97(4):165–181 (trumping/sergeant-major faithful); Yablo 1992 Phil Review 101(2):245–280 (proportionality faithful); Maier/Dechamps/Pflitsch 2018 Front. Psychol. 9:379 (PMC5872141 URL + evidence-against-micro-PK finding verified); Kim 2005/1998 (4-premise exclusion framing represents Kim faithfully). No fabricated metadata.
+- **Calibration-preservation check**: PASS. The 2026-05-26 refine moved EVERY claim in the weakening/hedging direction (no over-strengthening): added the line-45 underdetermination/conditional paragraph; "is specifically false" → "may fail" (line 62); added "Removing a defeater is not the same as upgrading the evidence" (line 106); "would be adding" → "would seem to be adding" (line 108). All 5 load-bearing calibration statements intact + coherent. Article remains a model of evidential-status discipline; possibility-probability slippage explicitly named and avoided. No epistemic→metaphysical slide.
+- **Reasoning-mode (editor-internal)**: Kim — Mode One (refine tightened it to earned scope); Yablo — Mode One; hidden-variables/MWI final caveat — Mode Three; Saad/Schaffer — sibling positions, no opponent mode. No label leakage.
+- **Critical issues addressed (count)**: 1 | **Medium**: 0 | **Enhancements**: 0 (converged; calibration refine already did the substantive work — no-op on structural argument is the correct outcome)
+- **Output**: [deep-review-2026-06-03-overdetermination-dissolution-under-selection-only-interactionism](/reviews/deep-review-2026-06-03-overdetermination-dissolution-under-selection-only-interactionism/)
+
+## 2026-06-03T00:42:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [microphenomenological-interview-method](/topics/microphenomenological-interview-method/)
+- **Selection**: explicit argument (GENUINE own-content change since last_deep_review 2026-05-11 — the §"Confabulation-Resistance Discipline" partial-purchase add). Specialist-citation zone — every cite web-verified at publisher of record.
+- **Word count (body)**: 3711 → 3761 (+50; 94% of topics 4000 hard, soft_warning, under hard)
+- **Critical issues addressed**: 2 (both finding-misattribution, web-caught): (1) the ~80% experimental-manipulation detection figure was attributed to Olivares et al. 2015 — a REVIEW paper — when it is the primary result of Petitmengin, Remillieux, Cahour & Carter-Thomas (2013) choice-blindness study (already ref 12, never cited in-body); re-attributed at lines 100 & 118. (2) the six boundary-dissolution features (location/agency/first-person-perspective/attention/body/affect) were attributed to Petitmengin 2019, which is a PILOT study not enumerating them — six-feature characterisation is later-programme work (2021 *Brain Sciences*); softened attribution at line 92.
+- **Citations verified**: 13+ — all CLEAN on metadata/authorship/stance; no famous-name substitution (Varela, Vermersch, Husserl, Hurlburt checked); the two finding-misattributions above were the only defects, both fixed.
+- **Confab-resistance argument**: sound + correctly calibrated — partial purchase NOT proof; raises its own strongest defeater (interviewer-prompts-novelty); tenet move is consistency ("consistent with this empirical record... does not decide the matter"), NOT evidence-elevation. No possibility/probability slippage. Petitmengin & Bitbol 2009 "cannot prove access" concession verified accurate.
+- **Engagement (editor-internal)**: heterophenomenology (Dennett) = Mode Three framework-boundary marking; no boundary-substitution, no label leakage.
+- **Enhancements made**: 0 (no expansion; converged + at-length article, re-attributions only)
+- **Output**: [deep-review-2026-06-03-microphenomenological-interview-method](/reviews/deep-review-2026-06-03-microphenomenological-interview-method/)
+
+## 2026-06-03T00:36:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [out-of-body-experiences](/topics/out-of-body-experiences/)
+- **Selection**: staleness/changed-since-review scorer top candidate (25-day review gap; ai_modified 2026-06-02 < today, so not excluded). Own content changed since last_deep_review (2026-06-02 NCC-calibration refine), no open queue task on the file (line-9085 todo references it as inspiration for a *new* concept page, not a task on it). Body 2935w — under hard, large positive review-gap.
+- **Word count (body)**: 2935 → 2934 (-1)
+- **Critical issues addressed**: 1 (Ehrsson 2007 reference title was wrong — "The experience of being there: Out-of-body illusions" → verified actual title "The experimental induction of out-of-body experiences", *Science* 317(5841):1048; metadata + quote otherwise correct)
+- **Medium issues addressed**: 0 (De Ridder 2007 NEJM orphaned-but-accurate ref deferred — length-neutral on converged article)
+- **Enhancements made**: 0 (article at convergence; 2026-06-02 calibration edits confirmed protective, not reverted)
+- **Citation web-verify (publisher of record)**: Blanke 2002 Nature 419:269 ✓; Blanke 2004 Brain 127(2):243 ✓; Lenggenhager 2007 Science 317:1096 ✓; Ehrsson 2007 Science 317:1048 ✓-after-title-fix; De Ridder 2007 NEJM 357:1829 ✓ (orphaned); AWARE I Parnia 2014 Resuscitation 85:1799 ✓; AWARE II Parnia 2023 Resuscitation 191:109903 ✓ (exact figures verified: 567 arrests / 28 interviewed / 6=21.4% RED / 1=3.5% auditory / 0 visual).
+- **Calibration**: no possibility/probability slippage; the 2026-06-02 "refutes"→"tells against" softening and the NCC-underdetermination marker both LOWER confidence — preserved. Map's interface reading kept POSITED/underdetermined, not evidence-elevated.
+- **Reasoning modes** (editor-internal): mechanism-to-dismissal = Mode One; strong-embodiment = Mode One; NDE-OBE veridical dismissal = Mode Three. No label leakage, no boundary substitution.
+- **Output**: [deep-review-2026-06-03-out-of-body-experiences](/reviews/deep-review-2026-06-03-out-of-body-experiences/)
+- **Published**: no (uncommitted; orchestrator commits)
+
 ## 2026-06-03T00:30:00+00:00 - refine-draft
 - **Status**: Success
 - **Task**: Corpus sweep — normalize Kerskens 2022 second-author surname to canonical "López Pérez" (Spanish compound surname; given name David). Driver web-verified canonical form this cycle against IOPscience + ADS (2022JPhCo...6j5001K) + ResearchGate. Pure citation/metadata fix, length-neutral, multi-file single-pass.

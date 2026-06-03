@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-7
 concepts: []
 created: 2026-05-05
-date: '2026-06-02'
+date: '2026-06-03'
 draft: false
 related_articles: []
 title: 'Research Notes - Selection-Only Mind-Influence: Information-Transfer Limits
@@ -129,7 +129,7 @@ The strictest reading of Tenet 2 (Minimal Quantum Interaction) is *selection-onl
 - **Type**: Foundational theorem / peer-reviewed paper
 - **Key points**:
   - The no-communication theorem prohibits transmission of information faster than light using quantum entanglement.
-  - The Born rule itself can be *derived* from relativistic-causality / no-signalling constraints (Gleason's theorem; Han 2016).
+  - The Born rule itself can be *derived* from relativistic-causality / no-signalling constraints (Gleason's theorem; Han & Choi 2016).
   - Non-Bornian probabilities are *contextual* in a way that licenses non-local signalling channels: violation of the Born rule's higher sum-rules permits superluminal signalling.
   - Implication for selection-only models: any *systematic* per-trial deviation from Born-rule probabilities is directly coupled to relativistic-causality violation. Models that bias outcomes face a steep cost beyond mere statistical detectability.
 - **Tenet alignment**: Strongly constrains Tenet 2. The strictest reading of Minimal Quantum Interaction (no Born-rule deviation) is *required*, not optional, if causality is to be preserved.
@@ -414,7 +414,7 @@ Cross-link recommended:
 5. Collins, R. (n.d.). Modern Physics and the Energy Conservation Objection to Mind-Body Dualism. https://www.newdualism.org/papers/R.Collins/EC-PEC.htm
 6. Georgiev, D. D. & Glazebrook, J. F. (2018). The quantum physics of synaptic communication via the SNARE protein complex. *Progress in Biophysics and Molecular Biology*. https://www.sciencedirect.com/science/article/abs/pii/S0079610717301839
 7. Hameroff, S. & Penrose, R. (1996). Orchestrated reduction of quantum coherence in brain microtubules: A model for consciousness. *Mathematics and Computers in Simulation*, 40(3-4), 453-480.
-8. Han, Y.-D. (2016). Quantum probability assignment limited by relativistic causality. *Scientific Reports*, 6, 22986. https://www.nature.com/articles/srep22986
+8. Han, Y.-D., & Choi, T. (2016). Quantum probability assignment limited by relativistic causality. *Scientific Reports*, 6, 22986. https://www.nature.com/articles/srep22986
 9. Jahn, R. G. & Dunne, B. J. (2007). The PEAR proposition. https://www.researchgate.net/publication/6277301
 10. Kane, R. (2016). On the role of indeterminism in libertarian free will. *Philosophical Explorations*, 19(1), 2-16.
 11. Kastner, R. E. (2012). The Possibilist Transactional Interpretation and Relativity. *Foundations of Physics*, 42, 1094-1113. https://arxiv.org/abs/1204.5227

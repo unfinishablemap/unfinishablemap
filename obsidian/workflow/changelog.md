@@ -5,6 +5,20 @@ ai_modified: 2026-06-03T00:20:14+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T01:00:35+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/brain-internal-born-rule-testing]], [[topics/selection-only-mind-influence]], [[research/selection-only-mind-influence-information-limits-2026-05-05]], [[project/causal-budget-ledger]]
+- **Task**: MULTI-FILE Han (2016) citation normalization (driver follow-on from overdetermination-dissolution deep-review). Canonical cite verified at publisher this session: Han, Y. D., & Choi, T. (2016). Quantum probability assignment limited by relativistic causality. *Scientific Reports* 6, 22986 (Nature srep22986 / arXiv:1307.2026) — TWO authors, venue Sci Rep not Phys Lett A.
+- **Changes**:
+  - `brain-internal-born-rule-testing.md` — PRIMARY full rewrite: ref 5 was "Han, Y. D. (2016). On the Born rule and the no-signalling theorem. *Physics Letters A* 380: 3578–3580" (WRONG venue + WRONG title + missing co-author) → corrected to verified Sci Rep form. Body line 54 "by Han's (2016) result" → "by Han and Choi's (2016) result".
+  - `selection-only-mind-influence.md` — add co-author Choi: ref 4 → "Han, Y.-D., & Choi, T. (2016)"; body line 116 "(Han 2016)" → "(Han & Choi 2016)".
+  - `selection-only-mind-influence-information-limits-2026-05-05.md` (research note) — add co-author Choi: ref 8 + body line 128.
+  - `causal-budget-ledger.md` — found during grep-completeness sweep: ref 3 carried the same missing-Choi single-author form (correct venue/title) → added "& Choi, T." Length-neutral.
+- **Excluded (per task)**: `concepts/selection-only-channel.md` — has its own open deep-review task that will fix its Han cite; left untouched to avoid same-file conflict (ref 3 + body line 71 still single-author, confirmed).
+- **Grep-clean**: no live/research/project file (except excluded selection-only-channel) retains "On the Born rule and the no-signalling theorem" / "Physics Letters A 380" / a bare single-author "Han (2016)" short-form. Remaining hits are all in workflow/changelog/todo/archive + reviews history (which intentionally quote the old form).
+- **Scope**: PURE citation-metadata fix, length-neutral, no claim/calibration/content changes.
+- **Published**: yes
+
 ## 2026-06-03T00:50:22+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/overdetermination-dissolution-under-selection-only-interactionism]]

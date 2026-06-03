@@ -4,7 +4,7 @@ description: "Human–AI exploration of the strictest reading of mind-on-quantum
 created: 2026-05-05
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-06-02T00:00:00+00:00
+ai_modified: 2026-06-03T01:00:35+00:00
 last_deep_review: 2026-06-02T00:00:00+00:00
 draft: false
 topics: []
@@ -113,7 +113,7 @@ The strict reading does not need to take a side on the across-studies pattern. M
 
 The strictest selection-only model is *not* primarily constrained by the energy-conservation objection. As Robin Collins and J. B. Pitts have pointed out (Collins, n.d.; Pitts 2022), quantum correlations show that mind-brain interaction without energy exchange has precedent in current physics, and general relativity's non-localisability of gravitational energy further weakens the energy-conservation objection. Under the strict reading no energy is injected at all; the channel is energetically inert.
 
-The binding constraint is information-theoretic. The Born rule itself can be derived from relativistic-causality / no-signalling considerations (Han 2016), and "violation of higher sum-rules allows for superluminal signalling". Any *systematic* per-trial deviation from Born-rule probabilities is therefore directly coupled to relativistic-causality violation. The strict reading buys compatibility with no-signalling at the price of accepting that no large effect can ever be visible at the ensemble level. That tradeoff is not optional — it follows from the structure of quantum probability.
+The binding constraint is information-theoretic. The Born rule itself can be derived from relativistic-causality / no-signalling considerations (Han & Choi 2016), and "violation of higher sum-rules allows for superluminal signalling". Any *systematic* per-trial deviation from Born-rule probabilities is therefore directly coupled to relativistic-causality violation. The strict reading buys compatibility with no-signalling at the price of accepting that no large effect can ever be visible at the ensemble level. That tradeoff is not optional — it follows from the structure of quantum probability.
 
 This reframes the metaphysical pressure on Tenet 2. The dualist interface does not need to defend itself against energy-conservation objections at the strict reading; it needs to defend itself against the charge that, by preserving Born statistics, it *cannot make a measurable difference at the ensemble level at all*. The article's three limits define exactly where it can — and where it cannot. That charge, pressed as a dilemma about whether ensemble-invisible single-event selection is a genuine channel rather than a hidden idleness, is [[ensemble-level-epiphenomenalism]]: the strict reading's signed-per-trial-rate-toward-zero result is precisely the formal teeth behind the worry.
 
@@ -171,7 +171,7 @@ The Map interprets the empirical situation as follows. The vanishing of detectab
 1. Atmanspacher, H., Römer, H., & Walach, H. (2002). Weak quantum theory: Complementarity and entanglement in physics and beyond. *Foundations of Physics*, 32(3), 379–406.
 2. Bösch, H., Steinkamp, F., & Boller, E. (2006). Examining psychokinesis: The interaction of human intention with random number generators—A meta-analysis. *Psychological Bulletin*, 132(4), 497–523. https://pubmed.ncbi.nlm.nih.gov/16822162/
 3. Collins, R. (n.d.). Modern physics and the energy conservation objection to mind-body dualism. https://www.newdualism.org/papers/R.Collins/EC-PEC.htm
-4. Han, Y.-D. (2016). Quantum probability assignment limited by relativistic causality. *Scientific Reports*, 6, 22986. https://www.nature.com/articles/srep22986
+4. Han, Y.-D., & Choi, T. (2016). Quantum probability assignment limited by relativistic causality. *Scientific Reports*, 6, 22986. https://www.nature.com/articles/srep22986
 5. Jahn, R. G., Mischo, J., Vaitl, D., Dunne, B. J., Bradish, G. J., Dobyns, Y. H., Lettieri, A., Nelson, R. D., Boller, E., Bösch, H., Vaitl, D., & Houtkooper, J. (2000). Mind/machine interaction consortium: PortREG replication experiments. *Journal of Scientific Exploration*, 14(4), 499–555.
 6. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional observer effects on quantum randomness: A Bayesian analysis reveals evidence against micro-psychokinesis. *Frontiers in Psychology*, 9, 379. https://pmc.ncbi.nlm.nih.gov/articles/PMC5872141/
 7. Pitts, J. B. (2022). General relativity, mental causation, and energy conservation. *Erkenntnis*. https://link.springer.com/article/10.1007/s10670-020-00284-7
