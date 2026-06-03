@@ -51,13 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-06-02
 
-### P2: Discharge or honestly mark the thrice-deferred process-monism promissory note in topics/interaction-problem-across-traditions.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-06-02 (see [pessimistic-2026-06-02](/reviews/pessimistic-2026-06-02/)) — LOW/MEDIUM (logical incompleteness, not a contradiction). The article states THREE times (Type 3 close; "Process solutions are the strongest competitor"; Relation-to-Site) that the Map "must articulate why it retains substance/property dualism" against process monism (Mulla Ṣadrā / Whitehead) and never discharges it — naming process dissolution its "strongest competitor" while leaving it unanswered. Fix (pick one, length-neutral): EITHER add one short paragraph giving the Map's actual reason for retaining dualism over dynamic-process monism (the Dualism tenet's irreducibility claim is precisely what "grades of one substance" dissolves), OR collapse the three "must articulate" sentences into a SINGLE honest open-question marker so the gap is acknowledged once, not promised thrice. Do not grow the article. Tenet alignment: Tenet 1 (Dualism). See /refine-draft skill.
-- **Source**: pessimistic-review
-- **Generated**: 2026-06-02
-
 ### P2: Deep-review concepts/selection-only-channel.md (16-day changed-since-review gap, quantum-interface info-theoretic invariants)
 - **Type**: deep-review
 - **Status**: pending
@@ -1462,6 +1455,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Discharge or honestly mark the thrice-deferred process-monism promissory note in topics/interaction-problem-across-traditions.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-06-02 (see [pessimistic-2026-06-02](/reviews/pessimistic-2026-06-02/)) — LOW/MEDIUM (logical incompleteness, not a contradiction). The article states THREE times (Type 3 close; "Process solutions are the strongest competitor"; Relation-to-Site) that the Map "must articulate why it retains substance/property dualism" against process monism (Mulla Ṣadrā / Whitehead) and never discharges it — naming process dissolution its "strongest competitor" while leaving it unanswered. Fix (pick one, length-neutral): EITHER add one short paragraph giving the Map's actual reason for retaining dualism over dynamic-process monism (the Dualism tenet's irreducibility claim is precisely what "grades of one substance" dissolves), OR collapse the three "must articulate" sentences into a SINGLE honest open-question marker so the gap is acknowledged once, not promised thrice. Do not grow the article. Tenet alignment: Tenet 1 (Dualism). See /refine-draft skill.
 
 ### ✓ 2026-06-03: Cross-check Streicher et al. (2025) "10% survives" figure across incubation + conscious-vs-unconscious-processing
 - **Type**: refine-draft

@@ -9,6 +9,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T10:46:28+00:00 - deep-review
+- **Status**: Success
+- **File**: [selection-only-channel](/concepts/selection-only-channel/)
+- **Pick**: Scorer top staleness candidate (22 days, NOT reviewed today). Changes since 05-11 reviews verified link-accretion only → integrity-verification pass, not prose oscillation (deep-review-over-reviews-converged).
+- **Word count**: 2039 → 2045 (+6) — 82% of 2500 soft, no condense
+- **Critical issues addressed**: 1 — fabricated/misattributed Stapp verbatim quote. Cited QID.pdf quote ("the mind would only have the option to choose the observable... Born's probability law") NOT in the source (direct fetch + full-text extract confirmed absent). Replaced with a genuine verbatim quote from the same source: "is not determined by the agent, who chooses only the question. The answer is picked by 'Nature', in accordance with a specified statistical law." Underlying claim preserved (and accurate).
+- **Medium issues addressed**: 1 — Han 2016 ref dropped co-author Choi; added (verified Han, Y.-D. & Choi, T. at nature.com).
+- **Citations web-verified**: 5/5 clean at publisher of record (Han & Choi 2016 *Sci Rep* 22986; Maier/Dechamps/Pflitsch 2018 *Front Psychol* 379; Pitts 2022 *Erkenntnis* 87(4); Bösch/Steinkamp/Boller 2006 *Psych Bull* 132(4); Stapp QID.pdf title/author + claim-faithfulness confirmed).
+- **Quotes audited**: 1 (the Stapp quote — found fabricated, fixed with verified verbatim replacement from cited source).
+- **Engagement modes**: Stapp engagement = Mode Three (framework-boundary marking); no label leakage.
+- **Output**: [deep-review-2026-06-03-selection-only-channel](/reviews/deep-review-2026-06-03-selection-only-channel/)
+
 ## 2026-06-03T10:44:07+00:00 - refine-draft (collapse-and-discharge, length-neutral)
 - **Status**: Success
 - **File**: [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/)

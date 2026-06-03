@@ -4,8 +4,8 @@ description: "Information-channel framing of selection-only mind-influence: per-
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-05-27T15:46:00+00:00
-last_deep_review: 2026-05-11T19:11:00+00:00
+ai_modified: 2026-06-03T10:46:28+00:00
+last_deep_review: 2026-06-03T10:46:28+00:00
 draft: false
 topics:
   - "[[selection-only-mind-influence]]"
@@ -94,7 +94,7 @@ The selection-only channel is distinct from several related channel types it is 
 
 - **Not a probability-bias channel.** A probability-bias channel allows mind to shift the candidate distribution {p_i} away from its physical-side values within an existing candidate set. A selection-only channel preserves the distribution and only realises one outcome at the prescribed rate. Probability-bias channels live in the intermediate reading of Tenet 2; they are a strictly larger class.
 
-- **Not a measurement-basis-choice channel.** Stapp's *Process 1* framework licenses mind to choose *which question* the brain asks of nature — the choice of observable or measurement basis (Stapp n.d.). This is a richer channel that is not strictly selection-only at the outcome level: it modifies the candidate set itself by selecting the basis that defines it. Stapp explicitly limits the *outcome-level* channel to selection-only — "the mind would only have the option to choose the observable, not the option of selecting the measurement result in deviation from the Born's probability law" (Stapp n.d.) — but the basis-choice layer above sits outside the selection-only class strictly construed.
+- **Not a measurement-basis-choice channel.** Stapp's *Process 1* framework licenses mind to choose *which question* the brain asks of nature — the choice of observable or measurement basis (Stapp n.d.). This is a richer channel that is not strictly selection-only at the outcome level: it modifies the candidate set itself by selecting the basis that defines it. Stapp explicitly limits the *outcome-level* channel to selection-only: whether the realised answer is 'Yes' or 'No' "is not determined by the agent, who chooses only the question. The answer is picked by 'Nature', in accordance with a specified statistical law" (Stapp n.d.). The basis-choice layer above sits outside the selection-only class strictly construed.
 
 - **Not an energy-injection channel.** Because selection acts only on already-generated alternatives, no work is done on the physical system in the thermodynamic sense; no momentum is transferred; no quantity that physics tracks as "energy delivered" is moved across the interface. The channel is energetically inert, which is why the energy-conservation objection to mental causation does not apply to it (Collins n.d.; Pitts 2022). The constraint that does bind is information-theoretic, not energetic.
 
@@ -149,7 +149,7 @@ The Map does not commit to the strict selection-only reading as the only viable 
 
 1. Bösch, H., Steinkamp, F., & Boller, E. (2006). Examining psychokinesis: The interaction of human intention with random number generators—A meta-analysis. *Psychological Bulletin*, 132(4), 497–523. https://pubmed.ncbi.nlm.nih.gov/16822162/
 2. Collins, R. (n.d.). Modern physics and the energy conservation objection to mind-body dualism. https://www.newdualism.org/papers/R.Collins/EC-PEC.htm
-3. Han, Y.-D. (2016). Quantum probability assignment limited by relativistic causality. *Scientific Reports*, 6, 22986. https://www.nature.com/articles/srep22986
+3. Han, Y.-D., & Choi, T. (2016). Quantum probability assignment limited by relativistic causality. *Scientific Reports*, 6, 22986. https://www.nature.com/articles/srep22986
 4. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional observer effects on quantum randomness: A Bayesian analysis reveals evidence against micro-psychokinesis. *Frontiers in Psychology*, 9, 379. https://pmc.ncbi.nlm.nih.gov/articles/PMC5872141/
 5. Pitts, J. B. (2022). General relativity, mental causation, and energy conservation. *Erkenntnis*. https://link.springer.com/article/10.1007/s10670-020-00284-7
 6. Shannon, C. E. (1948). A mathematical theory of communication. *Bell System Technical Journal*, 27(3), 379–423.
