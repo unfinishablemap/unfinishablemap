@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-06-02T08:02:24.726514'
+ai_modified: '2026-06-03T08:03:48.716807'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-06-02'
+date: '2026-06-03'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-06-02'
+modified: '2026-06-03'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-06-03: Three Metaphysicians Walk Into Consciousness
+
+When do parts form a whole? Van Inwagen, Merricks, and the integrated-information theorists answer that question by very different routes—yet all three land near the boundary where consciousness occurs. The Map reads that convergence as suggestive of dualism, not proof.
+
+**Type**: new-article  
+**Link**: [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/)
+
+---
+
 ### 2026-06-02: When a Melody Resolves, You Understand Something Wordless
 
 Hearing tension melt into resolution, you grasp something real that no sentence can state. Musical understanding is temporal, aesthetic, and non-propositional all at once—a vivid test case where materialist accounts struggle.
@@ -193,15 +202,6 @@ Hemispatial neglect, Balint syndrome, extinction, ADHD, and OCD: clinical attent
 
 **Type**: new-article  
 **Link**: [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
-
----
-
-### 2026-05-11: Why Five Arguments Can Beat One
-
-When no single argument is decisive, multi-part cases earn their weight through structural correspondence — the cluster's shape tracking the question's shape. New project doc names the discipline behind the Map's strongest exhibits.
-
-**Type**: new-article  
-**Link**: [cluster-integration-discipline](/project/cluster-integration-discipline/)
 
 ---
 
