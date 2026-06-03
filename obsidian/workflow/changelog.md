@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03T05:18:42+00:00
+ai_modified: 2026-06-03T06:06:49+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-03T06:06:49+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-metaphysics-of-composition]]
+- **Task**: P2 outer-review finding (ChatGPT 5.5 Pro, 2026-06-03; review file `reviews/outer-review-2026-06-03-chatgpt-5-5-pro.md` findings 2/3/4). Three linked tenet-bridge over-claim calibrations. Explicitly length-neutral evidential-status work ([[evidential-status-discipline]]); no new citations, no new engagement.
+- **Body word count**: 3988 → 3994 (under topics 4000 hard ceiling; net +6, achieved by clawing back redundancy from the same Relation-to-Site-Perspective paragraphs and the section intro after each recast added words). analyze_length, frontmatter-stripped. Peaked at 4075 mid-edit; trimmed back under ceiling.
+- **(a) No-Many-Worlds (Tenet 4)**: Before — "in a many-worlds framework every possible composition obtains in some branch, trivialising the SCQ." After — recast as an independent Map commitment, not a consequence of the composition argument: an Everettian can still ask the SCQ branch-relative, so MWI complicates actuality and identity "without trivialising mereology"; the tenet adds the separate determinate-single-world claim. Reviewer's branch-relative objection conceded; "trivialising the SCQ" over-claim removed. Now framed as downstream-tenet-commitment, not entailment.
+- **(b) Occam (Tenet 5)**: Before — universalism/nihilism "fail to account for the distinctive metaphysical status of conscious beings." After — acknowledges the rivals CAN redescribe conscious beings in their own terms (distinctive *fusions* / *personwise-arranged simples*), so "the convergence does not by itself refute their simplicity"; the Map's preference is recast as a fifth-tenet commitment (simplicity unreliable with incomplete knowledge), "not a demonstration the rivals fail." Now framed as downstream-tenet-commitment, not refutation.
+- **(c) MQI**: Before — MQI "offers a mechanism for how this 'over and above' manifests." After — "the composition argument does not by itself support quantum interaction"; MQI's proposal labelled "a downstream Map hypothesis, not a result this article secures." Now framed as downstream-hypothesis, not entailment.
+- **Engagement classification (changelog only)**: all three are Mode Two→Three sequences — the recasts decline to claim in-framework refutation of the Everettian/universalist/nihilist rivals and honestly mark the tenet-bridge as a Map-internal commitment. No mode labels in body; natural journal prose; no "This is not X. It is Y." cliché.
+- **Central composition-consciousness thesis unchanged.** Prior-finding content (deflationism, naturalistic-rivals, panpsychism rebuttal, IIT/weak-IIT recalibration, Bayne engagement, stance/taxonomy fixes) untouched. No new citations.
+- **Published**: yes
 
 ## 2026-06-03T05:57:46+00:00 - refine-draft
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Several answers to the Special Composition Question cluster near t
 created: 2026-04-09
 modified: 2026-04-09
 human_modified:
-ai_modified: 2026-06-03T05:57:46+00:00
+ai_modified: 2026-06-03T06:06:49+00:00
 last_deep_review: 2026-05-27T01:37:28+00:00
 draft: false
 topics:
@@ -122,17 +122,17 @@ Hasker's emergent dualism pushes this further. The soul is an emergent substance
 
 ## Relation to Site Perspective
 
-The convergence of composition theories on consciousness lends suggestive support to The Unfinishable Map's framework.
+The convergence of composition theories on consciousness lends suggestive support to several of the Map's tenets.
 
-**Dualism.** If consciousness is the criterion for genuine composition—as the three routes severally suggest—then consciousness occupies a privileged metaphysical position that physicalism struggles to accommodate. The [[tenets#^dualism|Dualism tenet]]'s claim that consciousness is irreducible gains structural support: the very question of which objects exist cannot be answered without reference to consciousness.
+**Dualism.** If consciousness is the criterion for genuine composition—as the three routes severally suggest—then it occupies a privileged position physicalism struggles to accommodate, and the [[tenets#^dualism|Dualism tenet]]'s claim that consciousness is irreducible gains support: which objects exist cannot be answered without reference to it.
 
-**Bidirectional Interaction.** Merricks' argument bears directly on the [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]]. If conscious beings escape causal elimination precisely because consciousness confers irreducible causal powers, then consciousness is not epiphenomenal—it is what makes certain composites causally real. The Map's insistence that consciousness influences the physical world thus aligns with one prominent answer to the SCQ.
+**Bidirectional Interaction.** Merricks' argument bears directly on the [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]]. If conscious beings escape causal elimination because consciousness confers irreducible causal powers, then it is not epiphenomenal—it is what makes certain composites causally real, aligning the Map's insistence that consciousness influences the physical world with one SCQ answer.
 
-**Minimal Quantum Interaction.** If conscious wholes are something over and above their physical parts, the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]]'s proposal—that consciousness biases quantum indeterminacies—offers a mechanism for how this "over and above" manifests causally without its contribution decomposing into those of individual neurons or atoms.
+**Minimal Quantum Interaction.** If conscious wholes are over and above their parts, *how* this manifests causally is left open—the composition argument does not by itself support quantum interaction. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]]'s proposal—consciousness biasing quantum indeterminacies without decomposing into individual neurons' or atoms' contributions—is a downstream Map hypothesis, not a result this article secures.
 
-**No Many Worlds.** If composition depends on consciousness, which objects exist depends on whether genuine conscious subjects are present. The [[tenets#^no-many-worlds|No Many Worlds tenet]]'s rejection of MWI matters here: in a many-worlds framework every possible composition obtains in some branch, trivialising the SCQ. "When do parts form wholes?" has weight only if there is a single definite world in which some collections compose and others do not—which requires [[consciousness-and-the-metaphysics-of-individuation|definite conscious subjects]], not subjects-in-every-branch.
+**No Many Worlds.** The [[tenets#^no-many-worlds|No Many Worlds tenet]]'s rejection of MWI is an independent Map commitment, not a consequence the composition argument secures: an Everettian can still ask the SCQ branch-relative, so MWI complicates actuality and identity without trivialising mereology. The tenet adds the separate claim that the SCQ has determinate weight only in a single definite world—with [[consciousness-and-the-metaphysics-of-individuation|definite conscious subjects]], not subjects-in-every-branch.
 
-**Occam's Razor Has Limits.** Universalism and nihilism appear simpler than restricted composition—one avoids restrictions entirely, the other eliminates composites entirely—yet both fail to account for the distinctive metaphysical status of conscious beings. The [[tenets#^occams-limits|fifth tenet]]'s warning applies: the apparently simpler ontology cannot accommodate the phenomenon multiple independent analyses converge upon as fundamental.
+**Occam's Razor Has Limits.** Universalism and nihilism appear simpler than restricted composition, and each can redescribe conscious beings in its own terms—as distinctive *fusions* or *personwise-arranged simples*—so the convergence does not by itself refute their simplicity. The Map's preference is a [[tenets#^occams-limits|fifth-tenet]] commitment—simplicity is unreliable with incomplete knowledge—not a demonstration the rivals fail: it declines to let the simpler ontology settle a phenomenon several analyses treat as fundamental.
 
 ## Further Reading
 
