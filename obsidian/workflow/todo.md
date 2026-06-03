@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Reframe illusionism rebuttal in concepts/consciousness-and-scientific-explanation.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-06-03 ([[reviews/pessimistic-2026-06-03-consciousness-and-scientific-explanation]]) found ONE medium-value finding; the article is otherwise mature and converged (deep-reviewed 2026-05-31, NO critical issues, NO boundary-substitution, NO label-leakage, citations all canonical+correct — no web-verify needed). The "Objections Considered" reply to "The hard problem is an illusion" (line ~113) currently rebuts illusionism by asserting the hard problem "is not a theoretical posit but a report of what is directly given in experience." That RESTATES the disputed premise — the felt directness of givenness is exactly what Dennett/Frankish deny — so the reply begs the question against the illusionist. FIX (natural prose, no mode labels, [[direct-refutation-discipline]]): lead the rebuttal with the explanatory-burden ASYMMETRY the article already half-makes — the meta-problem does NOT vanish under illusionism; the illusionist still owes an account of why the seeming is so robust and so resistant to deflation that even illusionists must theorise it. Demote the bare "directly given" assertion from load-bearing to supporting. Keep the existing [[meta-problem-of-consciousness]] cross-link. LENGTH: 2454 raw words / well under the concepts threshold — this is a length-neutral reframe of ~2 sentences, do NOT grow the article materially and do NOT touch the (correctly-hedged, do-not-flatten) MQI testability paragraph at line ~59. Honour [[evidential-status-discipline]]. Optional low-value polish if convenient: "divides cleanly" → "divides into distinct kinds of question" (line ~97).
+- **Source**: pessimistic-review
+- **Generated**: 2026-06-03
+
 ### ✓ P2: Fix impossible date in topics/ramanujan-and-the-phenomenology-of-mathematical-reception.md
 - **Type**: refine-draft
 - **Status**: done (2026-06-03 — fixed inline same-cycle as the pessimistic-review that found it). One-token factual fix: "29 February 1913" (impossible — 1913 not a leap year) → "27 February 1913" (Ramanujan's second letter to Hardy, per Berndt & Rankin, the article's own ref 3). First letter date (16 January 1913) correct. All other cites web-verified CLEAN by the review. Fixed directly rather than spinning a separate refine-draft fork on a single character.  See [[reviews/pessimistic-2026-06-03-ramanujan-and-the-phenomenology-of-mathematical-reception]].
