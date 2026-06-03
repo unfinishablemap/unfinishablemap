@@ -4,7 +4,7 @@ description: "Why physicalism fails to explain consciousness. The explanatory ga
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-05-31T19:59:34+00:00
+ai_modified: 2026-06-03T21:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -107,7 +107,7 @@ Physical descriptions of brain states never explain *why* those states feel like
 
 [[knowledge-argument|Mary's Room]]: Mary, a color scientist in a black-and-white room, knows every physical fact about color vision. Yet when she first sees red, she learns something new—what it's *like* to see red. If physical facts were all facts, she couldn't learn anything. But she does. So there are facts beyond physical facts.
 
-Physicalist responses (ability hypothesis, phenomenal concepts strategy) face decisive objections. Jackson himself later rejected the argument due to epiphenomenalism worries—but this actually supports the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet: if consciousness were causally inert, Mary couldn't form beliefs about her new experiences. See [[knowledge-argument]] for detailed treatment.
+Physicalist responses—the ability hypothesis and the phenomenal concepts strategy (engaged under [The Materialist Response](#the-materialist-response) below)—face serious objections the Map judges unmet, though both remain actively defended. Jackson himself later rejected the argument due to epiphenomenalism worries—but this actually supports the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet: if consciousness were causally inert, Mary couldn't form beliefs about her new experiences. See [[knowledge-argument]] for detailed treatment.
 
 ### The Conceivability Arguments
 
@@ -155,9 +155,9 @@ What the Map maintains is that the interaction problem and the hard problem are 
 
 ### "Phenomenal Concepts"
 
-The explanatory gap reflects how we conceptualize experience, not what experience is. We have special phenomenal concepts that don't connect transparently to physical concepts. The gap is in our thinking, not in reality.
+The most sophisticated materialist response to the explanatory gap. The gap reflects how we conceptualize experience, not what experience is: we possess special *phenomenal concepts* that refer to physical-functional states but do not connect transparently to our physical concepts. The gap is in our thinking, not in reality. The strategy has been developed in detail by Brian Loar, who modelled phenomenal concepts as type-demonstratives formed "from one's own case" ('*that* type of sensation'); by David Papineau, who distinguishes thinking of a brain state *materially* from thinking of it *phenomenally* and argues the move from a distinctive phenomenal mode of thought to a distinct non-material reality is invalid; and by Katalin Balog, whose constitutional account holds that a token experience partly *constitutes* the very concept that refers to it, so the concept affords direct acquaintance with its physical referent. On all three accounts, the appearance of a gap is fully predicted by—and compatible with—the underlying state being physical.
 
-Problem: why would we have concepts that so systematically misrepresent a physical phenomenon? If consciousness is physical, why don't we recognize it as such? The conceptual gap points to an ontological gap.
+Problem: the strategy arguably faces a dilemma the Map takes to be unresolved, though defenders would contest its force. Either phenomenal concepts grant a *substantial* grasp of their referent (Balog's acquaintance), in which case the question seems to return of what is grasped—a quality that resists physical characterisation may be re-imported as the content of the concept, so that the gap reappears inside the cognition rather than being explained away. Or phenomenal concepts are *merely* recognitional or demonstrative tags with no special epistemic content, in which case it is unclear why *these* concepts uniquely resist transparent connection to the physical when other demonstrative concepts (of shapes, of physical kinds) do not. The strategy would then need to explain why phenomenal concepts have the structure they do without quietly invoking the phenomenal character whose physicality is at issue. Whether the constitutional account escapes this pressure is exactly what remains contested: the Map holds the dilemma is genuine and unmet, defenders hold the account dissolves it, and the matter is underdetermined by the considerations either side can currently bring to bear. The [[knowledge-argument|knowledge argument]] page develops the Map's response in full.
 
 ### The Mysterian Alternative
 
@@ -183,7 +183,9 @@ Materialism is the Map's primary opponent. Understanding its failure motivates t
 
 The [[epistemological-limits-of-occams-razor|full case against parsimony]] shows that the precondition for applying Occam's Razor—theories of equal explanatory power—is unmet in the consciousness debate, and that scientific parsimony's justifications don't transfer to metaphysical theory choice. Materialism seems simpler because it ignores what it cannot explain.
 
-**No Many Worlds** matters here because the [[concepts/many-worlds|many-worlds interpretation]] of quantum mechanics is often presented as supporting materialism by eliminating the need for consciousness at collapse. If all outcomes occur in branching universes, no selection is needed—and thus no role for consciousness. But this "solution" merely relocates the hard problem: why am I experiencing *this* branch and not another? The indexical question about which branch I find myself in is as mysterious as the original question about why there is experience at all. Materialism gains nothing by trading the hard problem for the indexical problem.
+**No Many Worlds** matters here because the [[concepts/many-worlds|many-worlds interpretation]] of quantum mechanics is often presented as supporting materialism by eliminating the need for consciousness at collapse. If all outcomes occur in branching universes, no selection is needed—and thus no role for consciousness. The Map's objection turns on an indexical question: with all branches equally real, what makes *this* branch the one I experience? It would be question-begging to assert that this question is simply as hard as the hard problem, because a version of it—*why am I this person rather than another?*—arises for every theory, dualism included. The Oxford Everettians (Simon Saunders, David Wallace) meet it head-on: branching, they argue, generates *self-locating uncertainty* that personal-identity theory handles much as ordinary indexical questions are handled, with no need to single out one branch as metaphysically privileged.
+
+The Map's reply is not that this account fails on its own terms, but that it secures self-location only by surrendering what the Map holds to be a fact: that there is a determinate matter of which branch is *mine*. With all successor-experiences equally real and equally me, "which branch I end up in" has no fact to track—self-locating uncertainty is uncertainty about a label, not about a person's actual fate. The [[tenets#^no-many-worlds|No Many Worlds]] tenet treats [[indexical-identity-quantum-measurement|indexical identity]]—the determinate thisness of *this* experiential history—as bedrock rather than derived. That commitment is incompatible with the Everettian dissolution, but not a refutation of it from inside the Everettian framework, and is honestly noted as such. The disagreement sits at the framework boundary the Map stakes out: materialism's MWI route purchases its escape from the hard problem at the cost of the indexical identity the Map takes to be real.
 
 ## What Would Challenge This View?
 
@@ -218,10 +220,14 @@ None currently obtains, and each faces significant challenges. Materialism remai
 1. Churchland, P. M. (1981). "Eliminative Materialism and the Propositional Attitudes." *Journal of Philosophy*, 78(2), 67-90.
 1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown and Company.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Balog, K. (2012). "In Defense of the Phenomenal Concept Strategy." *Philosophy and Phenomenological Research*, 84(1), 1-23.
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
 1. Kim, J. (1989). "The Myth of Nonreductive Materialism." *Proceedings of the APA*, 63, 31-47.
+1. Loar, B. (1990). "Phenomenal States." *Philosophical Perspectives*, 4, 81-108.
+1. Papineau, D. (2002). *Thinking About Consciousness*. Oxford University Press.
 1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83, 435-450.
+1. Saunders, S., Barrett, J., Kent, A., & Wallace, D. (Eds.). (2010). *Many Worlds?: Everett, Quantum Theory, and Reality*. Oxford University Press.
 1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis, and the Misrepresentation of Humanity*. Acumen.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

@@ -5,6 +5,21 @@ ai_modified: 2026-06-03T21:45:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T21:25:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/materialism]]
+- **Original score**: pessimistic-2026-03-28-c.md flagged Issues 4 & 5 (PCS dismissive; MWI indexical question-begging) — both verified currently absent before edit
+- **Changes**:
+  - PCS section rewritten: now names and fairly states Loar (type-demonstratives "from one's own case"), Papineau (material vs. phenomenal modes of thought; invalid move to non-material reality), Balog (constitutional account / token experience as mode of presentation) as the strongest materialist reply, THEN the Map's honest grasp/tags dilemma; framed as live-and-contested, not settled; deferral to [[knowledge-argument]] sharpened.
+  - Knowledge-argument deferral line: "face decisive objections" → "face serious objections the Map judges unmet, though both remain actively defended" (review language-improvement table); added forward-anchor to The Materialist Response.
+  - MWI "No Many Worlds" paragraph rewritten: dropped the question-begging "merely relocates / as mysterious as the original"; now concedes the generic indexical question arises for every theory, engages Saunders/Wallace self-locating-uncertainty + personal-identity-under-branching account on its own terms, then states the Map's actual disagreement (under MWI all branches equally real → no fact about which is *mine*; [[indexical-identity-quantum-measurement|indexical identity]] is [[tenets#^no-many-worlds|No Many Worlds]] bedrock). Marked explicitly as a framework-boundary clash, NOT an in-framework refutation. Connects to Tenet 4.
+- **Engagement classification (editor-internal)**: PCS — Mode Two (the strategy helps itself to phenomenal-concept structure without earning the disambiguation between substantial-grasp and bare-tag readings); residue noted as contested. MWI indexical — Mode Three (framework-boundary: the Everettian self-location account is not refuted on its own terms; the Map declares the indexical-identity disagreement as bedrock honestly).
+- **Citations added + web-verify 3-state**: Loar, "Phenomenal States," *Philosophical Perspectives* 4 (1990), 81-108 → real+correct, keep. Papineau, *Thinking About Consciousness* (OUP 2002) → real+correct, keep (did NOT assert the "quotational" label, which traces to his later work — avoided overstatement). Balog, "In Defense of the Phenomenal Concept Strategy," *Philosophy and Phenomenological Research* 84(1) (2012), 1-23 → real+correct (year/vol/issue/pages verified at publisher), keep. Saunders, Barrett, Kent & Wallace (eds.), *Many Worlds?: Everett, Quantum Theory, and Reality* (OUP 2010) → real+correct, keep. No quotes/pages fabricated.
+- **Boundary honesty**: MWI engagement is compatibility-grade not vindication-grade; no possibility→probability slippage; one question-begging claim was NOT replaced with another (the new text concedes the generic indexical question and locates the disagreement at the bedrock tenet).
+- **Length**: canonical analyze_length 2615w → 3159w (soft_warning; hard 3500; ~341w headroom). Net add larger than ideal but delivers two substantive opponent engagements the review flagged as genuinely absent; trimmed loose prose in the MWI and PCS passages to hold the footprint.
+- **Anchoring**: evaluate_anchoring — my first draft diluted hedge density and added a spurious Idealism flag; softened assertions and added an underdetermination marker in the PCS dilemma → back to 1 flag (Panpsychism only, the pre-existing baseline; hedge density 3.48 ≥ baseline 3.44). Net-neutral-to-better vs. HEAD.
+- **Published**: yes (kept draft:false per existing state; refine-draft norms)
+
 ## 2026-06-03T22:10:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/pupillometry-behavioural-channel]]

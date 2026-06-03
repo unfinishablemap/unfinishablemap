@@ -492,13 +492,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-04-01
 
-### P2: Address phenomenology-as-evidence gap and quantum Zeno overemphasis in consciousness-and-creativity.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the generation-vs-selection argument rests heavily on introspective reports without acknowledging confabulation literature. Quantum Zeno effect appears as concrete mechanism in three sections despite writing-style guide warning against overemphasis. See pessimistic-2026-03-28-b.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-28
-
 ### ✓ 2026-05-26 (resolved-obsolete): Clarify causation/modulation distinction in multi-mind-collapse-problem.md
 - **Type**: refine-draft
 - **Status**: resolved-obsolete
@@ -1080,6 +1073,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Address phenomenology-as-evidence gap and quantum Zeno overemphasis in consciousness-and-creativity.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the generation-vs-selection argument rests heavily on introspective reports without acknowledging confabulation literature. Quantum Zeno effect appears as concrete mechanism in three sections despite writing-style guide warning against overemphasis. See pessimistic-2026-03-28-b.md
 
 ### ✓ 2026-06-03: Deep review consciousness-and-mathematics.md
 - **Type**: deep-review
