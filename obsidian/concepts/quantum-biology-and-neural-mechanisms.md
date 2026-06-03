@@ -4,7 +4,7 @@ description: "Established quantum effects in living systems—photosynthesis, ma
 created: 2026-01-16
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-06-03T09:34:44+00:00
+ai_modified: 2026-06-03T21:59:13+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -117,7 +117,7 @@ These five mechanisms need not operate independently—their combination could e
 
 **1. Radical pair effects in neural cryptochromes**: The radical pair mechanism established in avian magnetoreception may extend to neural tissue. Whether cryptochromes function beyond magnetoreception in cognition remains uncertain.
 
-**2. Ion channel quantum tunneling**: Ions (Na⁺, K⁺, Ca²⁺) may tunnel through closed voltage-gated channels, with tunneling probability depending on particle mass. Qaswal (2022) developed a mathematical model matching pathological phenomena (tinnitus, phantom limb, epilepsy). Evidence remains primarily theoretical.
+**2. Ion channel quantum tunneling**: Ions (Na⁺, K⁺, Ca²⁺) may tunnel through closed voltage-gated channels, with tunneling probability depending on particle mass. Qaswal et al. (2021) developed a mathematical model matching pathological phenomena (tinnitus, phantom limb, epilepsy). Evidence remains primarily theoretical.
 
 **3. Microtubule quantum coherence (Orch OR and QBIT)**: In [[quantum-consciousness|Orch OR]], tubulin superpositions undergo gravity-induced collapse producing conscious moments. The newer QBIT theory proposes spintronic coherence at the axon initial segment. Recent developments: Kalra et al. (2023) found anaesthetics dampen quantum optical effects in microtubules; Khan et al. (2024) showed microtubule-stabiliser epothilone B delays anaesthesia in rats (Cohen's d = 1.9); Wiest (2025) reported experimental support for room-temperature quantum effects and proposed MRI methodology for detecting entangled states.
 
@@ -220,7 +220,7 @@ Quantum biology's relevance is primarily *defensive*: it removes a major objecti
 1. Khan, S. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
 1. Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*, 147, 43934-43945.
 1. McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98(391), 349-366.
-1. Qaswal, A. B. (2022). Mathematical Modeling of Ion Quantum Tunneling Reveals Novel Properties of Voltage-Gated Channels. *Quantum Reports*, 4(1), 10.
+1. Qaswal, A. B., Ababneh, O., Khreesha, L., Al-Ani, A., Suleihat, A., & Abbad, M. (2021). Mathematical Modeling of Ion Quantum Tunneling Reveals Novel Properties of Voltage-Gated Channels and Quantum Aspects of Their Pathophysiology in Excitability-Related Disorders. *Pathophysiology*, 28(1), 116-154.
 1. Ritz, T., et al. (2000). A model for photoreceptor-based magnetoreception in birds. *Biophysical Journal*, 78(2), 707-718.
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.

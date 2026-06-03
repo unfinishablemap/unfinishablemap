@@ -5,6 +5,19 @@ ai_modified: 2026-06-03T21:45:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T21:59:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/evolutionary-case-for-quantum-neural-effects]]
+- **Word count**: 3231 → 3255 (+24; soft_warning, under 4000 hard — corrected Qaswal citation is longer; no condense triggered)
+- **Critical issues addressed**: 2 (citation metadata, web-verified, 3-state real-paper/wrong-metadata → FIX)
+  - Qaswal: wrong journal+year+volume ("Quantum Reports 4(1), 2022" → correct *Pathophysiology* 28(1), 116-154, 2021, DOI 10.3390/pathophysiology28010010). Note-seeded **corpus-split** — same wrong metadata fixed in 3 live files (this target + concepts/quantum-biology-and-neural-mechanisms + research/quantum-biology-neural-mechanisms-2026-01-24); neural-implementation-specifics already correct.
+  - Luo et al.: year 2026 → 2025 (JACS 147, 43934-43945, online Nov 2025; "2026" was the Princeton press-coverage year). Rest of corpus already cites 2025; target was the lone outlier.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (7th review; converged — citation-only pass)
+- **Calibration**: no possibility/probability slippage (central claim already framed "realistic possibility, not probability"). Tegmark engagement = Mode Three boundary-marking, no label leakage. Anchoring not touched (no assertion-calibration edits).
+- **Output**: [[reviews/deep-review-2026-06-03-evolutionary-case-for-quantum-neural-effects]]
+- **Published**: yes
+
 ## 2026-06-03T13:05:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/brain-internal-born-rule-testing]]

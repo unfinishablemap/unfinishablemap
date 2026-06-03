@@ -253,7 +253,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 8. Nature Communications. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. https://www.nature.com/articles/s41467-024-55124-x
 
-9. Qaswal, A. B. (2022). Mathematical Modeling of Ion Quantum Tunneling Reveals Novel Properties of Voltage-Gated Channels. Quantum Reports, 4(1), 10.
+9. Qaswal, A. B., Ababneh, O., Khreesha, L., Al-Ani, A., Suleihat, A., & Abbad, M. (2021). Mathematical Modeling of Ion Quantum Tunneling Reveals Novel Properties of Voltage-Gated Channels and Quantum Aspects of Their Pathophysiology in Excitability-Related Disorders. Pathophysiology, 28(1), 116-154.
 
 10. Stanford Encyclopedia of Philosophy. (2024). Quantum Approaches to Consciousness. https://plato.stanford.edu/entries/qt-consciousness/
 
