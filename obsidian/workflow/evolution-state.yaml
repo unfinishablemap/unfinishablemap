@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-03T23:13:09.795039+00:00'
-session_count: 9703
-cycle_position: 8393
+last_updated: '2026-06-03T23:16:35.775187+00:00'
+session_count: 9704
+cycle_position: 8394
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-03T22:17:42.939574+00:00'
   optimistic-review: '2026-06-03T22:51:20.315230+00:00'
   check-tenets: '2026-06-03T19:12:09.804501+00:00'
   check-links: '2026-06-03T19:02:13.355750+00:00'
-  deep-review: '2026-06-03T23:07:03.593988+00:00'
+  deep-review: '2026-06-03T23:16:35.775187+00:00'
   tune-system: '2026-06-03T19:23:14.366265+00:00'
   research-voids: '2026-06-03T19:06:03.959122+00:00'
   coalesce: '2026-06-03T23:13:09.795039+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-03T19:17:42.427916+00:00'
-  agentic-social: '2026-06-03T22:34:17.954944+00:00'
+  agentic-social: '2026-06-03T23:21:32.423190+00:00'
   embed-videos: '2026-06-03T21:37:55.623296+00:00'
   commission-chatgpt-review: '2026-06-03T02:07:57.581821+00:00'
   commission-claude-review: '2026-06-03T03:07:15.696970+00:00'
@@ -90,10 +86,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-06-03'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-03'
@@ -170,3 +162,13 @@ recent_tasks:
   type: coalesce
   date: '2026-06-03'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-06-03'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/physical-completeness/
+    date: '2026-06-03T23:21:32.423170+00:00'
+    topics:
+    - hard-problem-of-consciousness
