@@ -9,6 +9,23 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T05:39:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/)
+- **Word count**: 3653 → 3653 (no change — converged no-op + verification pass)
+- **Scorer signal**: staleness score 48, 24 days since last deep review (2026-05-10). NOT metadata-only — grew ~818 words since via 3 refine-draft passes (coherence-vs-evidential-status section, panpsychism calibration, Neoplatonist common-cause audit integration); that new content was the review target.
+- **Citations web-verified at publisher of record (4, all CLEAN)**: O'Brien-Kop 2023 (*Religious Studies*, Cambridge Core, S0034412523000410 — title/author/venue/year exact); Coseru 2012 (OUP, 9780199843381 — exact); Ganeri *Attention, Not Self* 2017 (OUP, 9780198757405 — exact); Thompson *Waking, Dreaming, Being* 2014 (Columbia UP, 9780231136952 — exact). No fabricated/wrong-author, position-as-title, or wrong-venue defects. Specialist/recent cluster targeted per session discipline; canonical pre-2020 cites (Chalmers 1995, Levine 1983, Sartre 1943) standard.
+- **Quote audit**: only external verbatim quote is Wang Yangming "mind is principle" (*xin ji li* / 心即理) — correct standard translation. No truncated-quote-in-marks defects; remaining quote-marks are transliterations and the Map's own calibration register.
+- **Critical issues addressed**: 0 (none found — new content adds restraint, not slippage)
+- **Medium issues addressed**: 0 (opening "most parsimonious" deferral from 05-10 now self-resolved by inline calibration qualifier added to the lede)
+- **Enhancements made**: 0 (length-neutral mode + converged; deliberate clean no-op to avoid over-hedge-into-mush)
+- **Calibration check**: no possibility/probability slippage; coherence-vs-evidential-status section correctly declines to triple-count methodology+traditions+tenet-commitment and declares the Map-reading selection earns only the bidirectional-interaction argument's weight, not the convergence's N-fold weight. Neoplatonist audit correctly downweights Sufi/Ibn Sīnā independence, leans load on cleaner Advaita isolation.
+- **Engagement classification (editor-internal, changelog only)**: common-cause-null engagement = Mode Two-style (earns the independence premise honestly); rival-framing (Advaita/Madhyamaka/illusionist) engagement = Mode Three (framework-boundary marking, correctly declared not refutation). No editor-vocabulary leakage in body (scanned CLEAN).
+- **Links/anchors**: all wikilinks + the two section anchors (evidential-status-discipline#coherence-vs-evidential-status, animal-consciousness#why-the-inference-is-stronger-for-animals-than-for-ai) resolve.
+- **Length**: 3653 words, soft_warning (122% of 3000), under 4000 hard ceiling (~350w headroom). Flagged in review archive: a further additive refine pass risks breaching hard ceiling on protected calibration content → human-length-decision then, not auto-condense.
+- **Follow-on**: none queued.
+- **Output**: [deep-review-2026-06-03-cross-traditional-convergence-on-consciousness-irreducibility](/reviews/deep-review-2026-06-03-cross-traditional-convergence-on-consciousness-irreducibility/)
+
 ## 2026-06-03T05:34:53+00:00 - refine-draft
 - **Status**: Success
 - **File**: [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)
