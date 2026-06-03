@@ -444,13 +444,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-04-17
 
-### P2: Deep review agency-verification-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) with no recorded deep review. Voids article on the impossibility of verifying genuine agency from the outside. Verify coherence, accuracy of philosophical claims, cross-references to free-will, phenomenology-of-agency-vs-passivity, and interested-party-void, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-16
-
 ### P2: Cross-review necessary-opacity.md and predictive-processing-and-dualism.md considering predictive-construction-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1185,6 +1178,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Deep review agency-verification-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) with no recorded deep review. Voids article on the impossibility of verifying genuine agency from the outside. Verify coherence, accuracy of philosophical claims, cross-references to free-will, phenomenology-of-agency-vs-passivity, and interested-party-void, and tenet alignment.
 
 ### ✓ 2026-06-03: Address "explanatory gap as intuition vs datum" counterargument across zombies.md, ncc.md, and explanatory-gap.md
 - **Type**: refine-draft
