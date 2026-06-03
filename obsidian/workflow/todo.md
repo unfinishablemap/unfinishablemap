@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Reciprocate compound-signature cross-link from lesion article to convergence-epistemology
+- **Type**: refine-draft
+- **Status**: pending
+- **Source**: optimistic-review
+- **Generated**: 2026-06-03
+- **Notes**: One-directional link gap (grep-verified). `topics/neurological-dissociations-as-interface-architecture.md` names the three-route "compound signature" explicitly in its body (~line 170: "Convergence of three independent perturbation routes... is itself a compound signature") and links to its two sibling routes, but does NOT link to `topics/epistemology-of-convergence-arguments.md` — the meta-article that theorizes the compound-signature form and supplies the load-bearing compatibility-grade-NOT-vindication-grade / architecture-vs-significance discount. The convergence article already cites the lesion article as the lesion route (0 reciprocal hits from lesion→convergence; the two sibling routes anaesthesia + clinical-dissociation already reciprocate with 1 hit each). Scope: add ONE inline link (and a related_articles entry) from the lesion article's compound-signature passage to `[[epistemology-of-convergence-arguments]]`, framing it as the article that bounds how far the compound signature's evidential reach extends (architecture earned, significance not). Length-neutral — do not expand prose. Do NOT create a new "compound signature" concept page: its function is grep-verified already hosted by `project/evidential-status-discipline.md` (7 hits) + the convergence article's own dedicated section; topics ~266/270.
+
 ### P3: Review apex/steelmanning-as-method.md placement (apex vs. project/ methodology)
 - **Type**: refine-draft
 - **Status**: pending
