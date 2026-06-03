@@ -1,13 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03 20:15:00+00:00
+ai_modified: 2026-06-03 21:45:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-03'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-03T21:45:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [atemporal-causation](/concepts/atemporal-causation/)
+- **Word count**: 3482 → 3482 (no change; converged-no-op, 8th review)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Task-premise correction**: queue task (todo.md:494) billed this as "GENUINE FIRST review post-coalesce, never reviewed" — STALE; 7 prior reviews exist, merge confirmed across 03-25 cluster, citation web-verify already done 06-02 (fixed 3 attribution defects)
+- **Citation web-verify**: independently re-confirmed the two 06-02 fixes against publisher of record — Vieira, Ramanathan & Cabello (2025) Nat Commun 16:4390 (authors + all-or-nothing claim match); Aharonov, Cohen & Shushi (2015) Quanta 5(1):53-60 arXiv:1512.06689 (3rd author Shushi confirmed). Cramer de-quote confirmed in place
+- **Merge-preservation**: sound — both sources' key arguments preserved, redundancy already eliminated, structure coherent, cluster integration correct
+- **Calibration**: clean — objection-removal held apart from mechanism-provision throughout; no possibility→probability slippage; compatibility-grade Libet dissolution. Anchoring not touched
+- **Convergence**: 8th review; bumped last_deep_review only (no ai_modified bump per converged-no-op discipline)
+- **Output**: [deep-review-2026-06-03-atemporal-causation](/reviews/deep-review-2026-06-03-atemporal-causation/)
 
 ## 2026-06-03T21:30:00+00:00 - deep-review
 - **Status**: Success
