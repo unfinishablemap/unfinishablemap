@@ -4,7 +4,7 @@ description: "Metacognition and metarepresentation are cognitive tools conscious
 created: 2026-01-18
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-05-29T04:23:52+00:00
+ai_modified: 2026-06-03T07:08:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -115,7 +115,7 @@ Great apes demonstrate Level 1 social metacognition, but Level 3 recursive mindr
 
 ## The Jourdain Hypothesis: Procedural vs. Declarative
 
-The [[jourdain-hypothesis|Jourdain Hypothesis]] (Whiten 2015) captures a crucial distinction: great apes may *have* culture but not *know* they have culture, like Molière's character who discovered he had been speaking prose without knowing it.
+The [[jourdain-hypothesis|Jourdain Hypothesis]] (Gruber et al. 2015) captures a crucial distinction: great apes may *have* culture but not *know* they have culture, like Molière's character who discovered he had been speaking prose without knowing it.
 
 | Type | Definition | Great Apes | Humans |
 |------|------------|------------|--------|
@@ -238,4 +238,4 @@ The Map's framework accommodates both: consciousness provides phenomenal content
 1. Templer, V.L., & Hampton, R.R. (2021). Slow progress with the most widely used animal model. *Animal Behavior and Cognition*, 6(4), 273-287.
 1. Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
 1. Wellman, H.M. (1990). *The Child's Theory of Mind*. MIT Press.
-1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
+1. Gruber, T., Zuberbühler, K., Clément, F., & van Schaik, C. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.

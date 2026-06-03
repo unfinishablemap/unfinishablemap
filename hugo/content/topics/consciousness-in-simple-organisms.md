@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-06-02 15:49:30+00:00
+ai_modified: 2026-06-03 07:08:33+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -298,4 +298,4 @@ The Map rejects MWI partly because it undermines the [haecceity](/concepts/haecc
 1. Sims, M. (2024). *Slime Mould and Philosophy*. Cambridge University Press.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-1. Whiten, A. (2015). "Apes have culture but may not know that they do." *Frontiers in Psychology*, 6, 91.
+1. Gruber, T., Zuberbühler, K., Clément, F., & van Schaik, C. (2015). "Apes have culture but may not know that they do." *Frontiers in Psychology*, 6, 91.

@@ -4,8 +4,8 @@ description: "Baseline cognition is what neural systems achieve without consciou
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-06-02T16:22:55+00:00
-last_deep_review: 2026-05-10T22:01:00+00:00
+ai_modified: 2026-06-03T07:08:33+00:00
+last_deep_review: 2026-06-03T07:08:33+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -69,7 +69,7 @@ Chimpanzees, bonobos, and gorillas show:
 - **Emotional complexity**: Grief responses, consolation behaviours, apparent empathy, play, and individual personality differences.
 - **Problem-solving**: Insight-like behaviour in novel situations, means-ends reasoning, basic planning for immediate goals.
 
-This isn't "mere" instinct—it is flexible, learned, and varies between individuals and populations. Völter et al. (2023) confirmed stable, measurable cognitive traits robust against cognitive load; Miyamoto et al. (2023) showed these abilities develop in response to experience.
+This isn't "mere" instinct—it is flexible, learned, and varies between individuals and populations. Bohn et al. (2023) found that great ape cognition is structured by stable, measurable cognitive abilities that are repeatable over time and predicted by developmental conditions—evidence that these traits are robust individual differences rather than transient performance.
 
 ### Procedural Metacognition
 
@@ -105,7 +105,7 @@ Procedural metacognition ("I feel uncertain" → seek information) is present in
 
 ### The Jourdain Hypothesis
 
-Whiten (2015) proposes that "apes have culture but may not know that they do"—the Jourdain Hypothesis, named after Molière's character who discovers he's been speaking prose all his life without knowing it.
+Gruber et al. (2015) propose that "apes have culture but may not know that they do"—the Jourdain Hypothesis, named after Molière's character who discovers he's been speaking prose all his life without knowing it.
 
 Great apes express cultural traditions—different groups have different tool-use techniques, grooming patterns, vocalisations—but don't represent these as "our way of doing things" subject to deliberate modification and transmission. They behave culturally without culturally representing their behaviour.
 
@@ -220,11 +220,12 @@ The baseline cognition hypothesis could be undermined by:
 
 ## References
 
+1. Bohn, M., Eckert, J., Hanus, D., Lugauer, B., Holtmann, J., & Haun, D.B.M. (2023). Great ape cognition is structured by stable cognitive abilities and predicted by developmental conditions. *Nature Ecology & Evolution*, 7, 927-938.
 1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
 1. De Neys, W. (2012). Bias and conflict: A case for logical intuitions. *Perspectives on Psychological Science*, 7(1), 28-38.
 1. Dehaene, S., & Changeux, J.-P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200-227.
 1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628-645.
-1. Miyamoto, K., et al. (2023). Great ape cognition is structured by stable cognitive abilities and predicted by developmental experience. *Nature Ecology & Evolution*, 7, 1473-1483.
+1. Gruber, T., Zuberbühler, K., Clément, F., & van Schaik, C. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
 1. Mulcahy, N.J., & Call, J. (2006). Apes save tools for future use. *Science*, 312(5776), 1038-1040.
 1. Povinelli, D.J. (2000). *Folk Physics for Apes: The Chimpanzee's Theory of How the World Works*. Oxford University Press.
 1. Streicher, J., Meyen, S., Franz, V. H., & Stein, T. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.
@@ -234,6 +235,4 @@ The baseline cognition hypothesis could be undermined by:
 1. Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
 1. Tomasello, M., Kruger, A.C., & Ratner, H.H. (1993). Cultural learning. *Behavioral and Brain Sciences*, 16(3), 495-511.
 1. Van Hoeck, N., et al. (2015). Cognitive neuroscience of human counterfactual reasoning. *Frontiers in Human Neuroscience*, 9, 420.
-1. Völter, C.J., et al. (2023). Great ape cognition is structured by stable cognitive abilities that are robust against cognitive load. *Nature Scientific Reports*, 13, 3808.
-1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
 1. Whiten, A., et al. (2010). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 365(1558), 2405-2415.

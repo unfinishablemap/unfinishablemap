@@ -9,6 +9,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T07:08:33+00:00 - deep-review
+- **Status**: Success
+- **File**: [baseline-cognition](/concepts/baseline-cognition/)
+- **Pick**: changed-since-review staleness (24d gap, ~18-mention hub). Prior review (2026-05-10, #9) declared convergence; article changed via the cc71c84ef Streicher author fix. Web-verify of recent/specialist citations caught 2 defects nine intra-corpus reviews had ratified.
+- **Word count (body)**: 2615 → 2620 (+5; 105% of 2500 soft, well under 3500 hard — no condense)
+- **Critical issues addressed**: 2 (both citation web-verify defects)
+  1. Two fabricated citations ("Völter 2023 Sci Reports 13:3808" + "Miyamoto 2023 Nat Ecol Evol 7:1473-1483") were both spurious wrappers around ONE real paper → collapsed to **Bohn, M., et al. (2023). *Nature Ecology & Evolution*, 7, 927-938** (verified nature.com/PubMed 37106158); body sentence rewritten to match.
+  2. Jourdain paper misattributed to Whiten → **Gruber, T., Zuberbühler, K., Clément, F., & van Schaik, C. (2015). *Frontiers in Psychology*, 6, 91** (verified Frontiers/PMC4319388). Famous-name substitution.
+- **Corpus follow-through**: fixed the same Whiten→Gruber Jourdain misattribution in 11 live-tree siblings (minds-without-words, teaching-as-metarepresentation, cumulative-culture, metacognition, animal-consciousness, global-workspace-theory, higher-order-theories, consciousness-as-amplifier, epiphenomenalism, concept-of-consciousness-and-social-cognition, consciousness-in-simple-organisms) + 1 research note. Recurring re-propagating defect (also fixed in W22). Preserved the REAL, distinct Whiten 2015 percussion-technology paper (*Phil Trans R Soc B* 370(1682)) in consciousness-and-cognitive-distinctiveness + interface-threshold.
+- **Reasoning modes** (editor-internal): epiphenomenalism = Mode Two; illusionism = Mode Mixed (Two + One). No label leakage; no boundary-substitution.
+- **Calibration**: clean — diagnostic test found no possibility/probability slippage. Quantum hedging + 5-prediction falsifiability preserved.
+- **Output**: [deep-review-2026-06-03-baseline-cognition](/reviews/deep-review-2026-06-03-baseline-cognition/)
+
 ## 2026-06-03T06:59:03+00:00 - refine-draft
 - **Status**: Success
 - **File**: [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/) + [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/)

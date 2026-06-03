@@ -4,7 +4,7 @@ description: "Teaching requires knowing that you know and that others don't. Gre
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-05-26T16:05:09+00:00
+ai_modified: 2026-06-03T07:08:33+00:00
 draft: false
 last_deep_review: 2026-05-26T11:54:20+00:00
 topics:
@@ -229,4 +229,4 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 1. Read, D.W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714.
 1. Thornton, A., & Raihani, N.J. (2008). The evolution of teaching. *Animal Behaviour*, 75(6), 1823-1836.
 1. Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
-1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
+1. Gruber, T., Zuberbühler, K., Clément, F., & van Schaik, C. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.

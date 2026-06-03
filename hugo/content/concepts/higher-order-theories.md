@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-02 03:50:06+00:00
+ai_modified: 2026-06-03 07:08:33+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -54,7 +54,7 @@ D.M. Armstrong and William Lycan proposed that consciousness involves an "inner 
 
 [Recent analysis](/concepts/metacognition/) distinguishes three levels of representation: **first-order** (seeing a tree), **second-order** (believing you see a tree), and **metarepresentation proper** (grasping that your perception *is* a perception, that it could be mistaken).
 
-HOT primarily targets the second level. But this may conflate two phenomena: second-order states might operate procedurally—guiding behaviour without explicit understanding that beliefs are beliefs. The Jourdain Hypothesis (Whiten 2015) supplies evidence. Great apes show sophisticated metacognition—uncertainty monitoring, strategic information-seeking—yet appear to lack metarepresentation; they don't seem to understand that their knowledge *is* knowledge. They may "speak prose without knowing it."
+HOT primarily targets the second level. But this may conflate two phenomena: second-order states might operate procedurally—guiding behaviour without explicit understanding that beliefs are beliefs. The Jourdain Hypothesis (Gruber et al. 2015) supplies evidence. Great apes show sophisticated metacognition—uncertainty monitoring, strategic information-seeking—yet appear to lack metarepresentation; they don't seem to understand that their knowledge *is* knowledge. They may "speak prose without knowing it."
 
 If metarepresentation requires phenomenal consciousness—as the [comparative-cognition evidence](/concepts/metacognition/#the-metarepresentation-threshold) suggests—then HOT has the explanatory order reversed. Rather than higher-order representation *constituting* consciousness, consciousness may be what *enables* genuine metarepresentation. What distinguishes human metacognition isn't just more sophisticated representation but the phenomenal capacity to take mental states as objects.
 
@@ -198,4 +198,4 @@ The hard problem remains hard.
 1. Lycan, W. G. (1996). *Consciousness and Experience*. MIT Press.
 1. Maniscalco, B., & Lau, H. (2012). A signal detection theoretic approach to understanding blindsight. *Philosophical Transactions of the Royal Society B*, 367(1594), 1430-1443.
 1. Rosenthal, D. M. (2005). *Consciousness and Mind*. Oxford University Press.
-1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
+1. Gruber, T., Zuberbühler, K., Clément, F., & van Schaik, C. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.

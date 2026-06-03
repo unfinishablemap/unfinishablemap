@@ -4,7 +4,7 @@ description: "Consciousness amplifies intelligence by enabling flexible deployme
 created: 2026-01-21
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-06-01T17:18:12+00:00
+ai_modified: 2026-06-03T07:08:33+00:00
 last_deep_review: 2026-05-23T13:42:12+00:00
 draft: false
 topics:
@@ -68,7 +68,7 @@ Great apes represent sophisticated [[baseline-cognition]]—what neurons achieve
 
 **Procedural versus declarative metacognition**: Great apes show [[metacognition|metacognitive]] monitoring—recognising uncertainty, seeking information when needed. But this appears *procedural*: feelings of knowing that guide behaviour without explicit representation. Human metacognition is additionally *declarative*: we represent our knowledge *as* knowledge, take beliefs as objects of thought. This [[metacognition#the-metarepresentation-threshold|metarepresentational capacity]] may require phenomenal consciousness.
 
-**The Jourdain Hypothesis**: Great apes have culture but may not *know* they have culture (Whiten 2015). [[cumulative-culture|Cumulative culture]] requires [[metacognition|metarepresentation]]: treating knowledge as knowledge that can be improved and taught. Without this, cultural innovation remains within Tomasello's "zone of latent solutions."
+**The Jourdain Hypothesis**: Great apes have culture but may not *know* they have culture (Gruber et al. 2015). [[cumulative-culture|Cumulative culture]] requires [[metacognition|metarepresentation]]: treating knowledge as knowledge that can be improved and taught. Without this, cultural innovation remains within Tomasello's "zone of latent solutions."
 
 **Logical reasoning requires consciousness**: DeWall et al. (2008) and De Neys & Glumicic (2008) demonstrate that cognitive load disrupting conscious attention impairs logical reasoning; disrupting unconscious processes does not. Explicit rule-following requires conscious manipulation of representations.
 
@@ -217,4 +217,4 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 1. Tomasello, M., Kruger, A.C., & Ratner, H.H. (1993). Cultural learning. *Behavioral and Brain Sciences*, 16(3), 495-511.
 1. Walker, E.H. (2000). *The Physics of Consciousness: The Quantum Mind and the Meaning of Life*. Perseus.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
+1. Gruber, T., Zuberbühler, K., Clément, F., & van Schaik, C. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.

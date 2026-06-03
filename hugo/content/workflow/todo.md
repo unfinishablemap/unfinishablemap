@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Reciprocal cross-link the two convergence siblings (interaction-problem-across-traditions ↔ cross-traditional-convergence-on-consciousness-irreducibility)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-06-03 (second pass). See [optimistic-2026-06-03](/reviews/optimistic-2026-06-03/). The two articles are complementary by design — one taxonomises cross-traditional convergence on the interaction *problem* and its five candidate solution-structures, the other maps convergence on *irreducibility* — and both run the same calibrated convergence-discipline reasoning ("recurrence confirms the puzzle, not the metaphysics"). Neither links to the other (confirmed: 0 links each direction); neither is an orphan (10 and 19 inbound respectively). LENGTH-SAFE: `topics/interaction-problem-across-traditions.md` is 2897w (status ok) — add a forward clause + one `related_articles` entry; `topics/cross-traditional-convergence-on-consciousness-irreducibility.md` is 3653w (soft_warning, under hard 4000) — add the reverse link as a SINGLE inline wikilink in an existing sentence only (do NOT add new prose; keep word-neutral). Natural anchor: the convergence article's prose surveys traditions whose interaction *solutions* the sibling taxonomises, and the typology article's "What the Typology Reveals" section is the same discipline applied to solutions vs irreducibility. Do NOT touch the soft-warning article's word budget beyond the one inline link. Tenets 1 + 5. DISTINCT from the P3 process-monism promissory-note task below on the same article.
-- **Source**: optimistic-review
-- **Generated**: 2026-06-03
-
 ### P2: Deep-review concepts/baseline-cognition.md (24-day changed-since-review gap, load-bearing hub)
 - **Type**: deep-review
 - **Status**: pending
@@ -3847,6 +3840,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Reciprocal cross-link the two convergence siblings (interaction-problem-across-traditions ↔ cross-traditional-convergence-on-consciousness-irreducibility)
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review 2026-06-03 (second pass). See [optimistic-2026-06-03](/reviews/optimistic-2026-06-03/). The two articles are complementary by design — one taxonomises cross-traditional convergence on the interaction *problem* and its five candidate solution-structures, the other maps convergence on *irreducibility* — and both run the same calibrated convergence-discipline reasoning ("recurrence confirms the puzzle, not the metaphysics"). Neither links to the other (confirmed: 0 links each direction); neither is an orphan (10 and 19 inbound respectively). LENGTH-SAFE: `topics/interaction-problem-across-traditions.md` is 2897w (status ok) — add a forward clause + one `related_articles` entry; `topics/cross-traditional-convergence-on-consciousness-irreducibility.md` is 3653w (soft_warning, under hard 4000) — add the reverse link as a SINGLE inline wikilink in an existing sentence only (do NOT add new prose; keep word-neutral). Natural anchor: the convergence article's prose surveys traditions whose interaction *solutions* the sibling taxonomises, and the typology article's "What the Typology Reveals" section is the same discipline applied to solutions vs irreducibility. Do NOT touch the soft-warning article's word budget beyond the one inline link. Tenets 1 + 5. DISTINCT from the P3 process-monism promissory-note task below on the same article.
 
 ### ✓ 2026-06-03: Close the van Inwagen life→consciousness gap on the biological route in consciousness-and-the-metaphysics-of-composition.md
 - **Type**: refine-draft

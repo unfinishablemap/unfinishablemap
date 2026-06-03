@@ -4,7 +4,7 @@ description: "Do animals have conscious experience? Convergent evidence suggests
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-06-02T14:04:55+00:00
+ai_modified: 2026-06-03T07:08:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -130,7 +130,7 @@ Two discriminators (not refutations) mark where the readings diverge. The first 
 
 ## Consciousness and the Human-Ape Intelligence Gap
 
-Great apes are our closest relatives—98-99% identical at single-nucleotide variants, though post-2023 telomere-to-telomere comparisons (Yoo et al. 2025 *Nature*) put total divergence closer to 12-15%. Apes display sophisticated cognition, yet humans uniquely produce [[cumulative-culture|cumulative culture]] involving abstract mathematics and technology. Tomasello (2010) locates the difference not in any single cognitive primitive—apes share most—but in shared intentionality, the capacity for collaborative activity with joint goals; Whiten (2015) adds that apes have culture but do not know they do. Standard neuroscience attributes the gap to architecture (expanded DLPFC, arcuate-fasciculus connectivity), which neither forces nor rules out a dualistic reading.
+Great apes are our closest relatives—98-99% identical at single-nucleotide variants, though post-2023 telomere-to-telomere comparisons (Yoo et al. 2025 *Nature*) put total divergence closer to 12-15%. Apes display sophisticated cognition, yet humans uniquely produce [[cumulative-culture|cumulative culture]] involving abstract mathematics and technology. Tomasello (2010) locates the difference not in any single cognitive primitive—apes share most—but in shared intentionality, the capacity for collaborative activity with joint goals; Gruber et al. (2015) add that apes have culture but do not know they do. Standard neuroscience attributes the gap to architecture (expanded DLPFC, arcuate-fasciculus connectivity), which neither forces nor rules out a dualistic reading.
 
 The Map offers a complementary interpretation. The [[baseline-cognition]] hypothesis proposes great ape cognition represents what neural processing achieves *without* substantial conscious contribution, while human-level cognition requires expanded conscious access (full treatment: [[consciousness-as-amplifier]]). Supporting evidence: working-memory differences (Inoue & Matsuzawa 2007) about *deployment* rather than capacity; apes having culture but not *knowing* they have it; apes passing Level 1 theory of mind but struggling with Level 3 recursive mindreading; contested findings (DeWall et al. 2008) that rule-based reasoning depends on conscious processing.
 
@@ -238,7 +238,7 @@ Whitehead's process philosophy proposes experience is fundamental—*actual occa
 1. Inoue, S. & Matsuzawa, T. (2007). "Working memory of numerals in chimpanzees." *Current Biology*, 17(23), R1004-R1005.
 1. Yoo, D. A., et al. (2025). "Complete sequencing of ape genomes." *Nature*, 641, 401-418.
 1. Tomasello, M. (2010). "Ape and human cognition: What's the difference?" *Current Directions in Psychological Science*, 19(1), 3-8.
-1. Whiten, A. (2015). "Apes have culture but may not know that they do." *Frontiers in Psychology*, 6, 91.
+1. Gruber, T., Zuberbühler, K., Clément, F., & van Schaik, C. (2015). "Apes have culture but may not know that they do." *Frontiers in Psychology*, 6, 91.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Reimers, J. R., McKemmish, L. K., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). "Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness." *Proceedings of the National Academy of Sciences*, 106(11), 4219-4224.
 1. McKemmish, L. K., Reimers, J. R., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). "Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible." *Physical Review E*, 80(2), 021912.

@@ -4,7 +4,7 @@ description: "Cumulative culture requires metarepresentation—representing know
 created: 2026-01-21
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-05-17T14:04:26+00:00
+ai_modified: 2026-06-03T07:08:33+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -67,7 +67,7 @@ Cumulative culture requires treating knowledge *as* knowledge. Consider what too
 
 Each step requires [[metacognition|metarepresentation]]—representing your representations as representations. You must know that you know how to make the tool, recognise this knowledge as potentially improvable, and communicate both the technique and its relationship to prior techniques.
 
-Great apes may lack this metarepresentational capacity. As Whiten (2015) argues, they have culture but may not *know* they have culture—the [[jourdain-hypothesis|Jourdain Hypothesis]], after Molière's character who discovered he'd been speaking prose all his life without knowing it. Apes express cultural traditions without representing these as "our way of doing things" subject to deliberate modification. Cumulative culture is one of the diagnostic capacities that emerges above the [[metacognition#the-metarepresentation-threshold|metarepresentation threshold]]: it requires representing practices *as* practices, not merely executing them.
+Great apes may lack this metarepresentational capacity. As Gruber et al. (2015) argue, they have culture but may not *know* they have culture—the [[jourdain-hypothesis|Jourdain Hypothesis]], after Molière's character who discovered he'd been speaking prose all his life without knowing it. Apes express cultural traditions without representing these as "our way of doing things" subject to deliberate modification. Cumulative culture is one of the diagnostic capacities that emerges above the [[metacognition#the-metarepresentation-threshold|metarepresentation threshold]]: it requires representing practices *as* practices, not merely executing them.
 
 ## The Teaching Asymmetry
 
@@ -227,5 +227,5 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 1. Tomasello, M. (1999). *The Cultural Origins of Human Cognition*. Harvard University Press.
 1. Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
 1. Wellman, H.M., Cross, D., & Watson, J. (2001). Meta-analysis of theory-of-mind development: The truth about false belief. *Child Development*, 72(3), 655-684.
-1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
+1. Gruber, T., Zuberbühler, K., Clément, F., & van Schaik, C. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
 1. Whiten, A., et al. (1999). Cultures in chimpanzees. *Nature*, 399(6737), 682-685.

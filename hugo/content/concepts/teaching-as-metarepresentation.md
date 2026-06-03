@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-05-26 16:05:09+00:00
+ai_modified: 2026-06-03 07:08:33+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -231,4 +231,4 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 1. Read, D.W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714.
 1. Thornton, A., & Raihani, N.J. (2008). The evolution of teaching. *Animal Behaviour*, 75(6), 1823-1836.
 1. Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
-1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
+1. Gruber, T., Zuberbühler, K., Clément, F., & van Schaik, C. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.

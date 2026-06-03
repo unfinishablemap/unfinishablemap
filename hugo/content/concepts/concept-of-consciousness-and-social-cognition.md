@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-06-01 00:00:00+00:00
+ai_modified: 2026-06-03 07:08:33+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -184,4 +184,4 @@ The simpler hypothesis—social cognition is just sophisticated information proc
 1. Premack, D., & Woodruff, G. (1978). Does the chimpanzee have a theory of mind? *Behavioral and Brain Sciences*, 1(4), 515-526.
 1. Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
 1. Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
-1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
+1. Gruber, T., Zuberbühler, K., Clément, F., & van Schaik, C. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.

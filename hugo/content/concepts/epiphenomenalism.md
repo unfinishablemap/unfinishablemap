@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-06-03 00:00:00+00:00
+ai_modified: 2026-06-03 07:08:33+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -232,5 +232,5 @@ The self-stultification problem remains the strongest objection: if epiphenomena
 1. Georgiev, D.D. (2024). "Evolution of Consciousness." *Life*, 14(1), 48.
 1. Cowan, N. (2001). "The magical number 4 in short-term memory: A reconsideration of mental storage capacity." *Behavioral and Brain Sciences*, 24(1), 87-114.
 1. Inoue, S. & Matsuzawa, T. (2007). "Working memory of numerals in chimpanzees." *Current Biology*, 17(23), R1004-R1005.
-1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
+1. Gruber, T., Zuberbühler, K., Clément, F., & van Schaik, C. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
 1. Goyal, M., Singh, S., Sibinga, E. M. S., et al. (2014). Meditation Programs for Psychological Stress and Well-Being. *JAMA Internal Medicine*, 174(3), 357-368.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-06-02 16:22:55+00:00
+ai_modified: 2026-06-03 07:08:33+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-05-19 21:00:00+00:00
 apex_sources:
@@ -99,7 +99,7 @@ The Map offers a complementary interpretation. The hypothesis proposes that grea
 
 **Counterfactual reasoning**: Humans uniquely imagine non-actual states and learn from hypothetical alternatives. The Bischof-Köhler hypothesis proposes that animals cannot act on drive states they do not currently possess.
 
-**Cumulative culture**: Whiten (2015) proposes that "apes have culture but may not know that they do." [Cumulative culture](/concepts/cumulative-culture/) requires metarepresentation — representing the current method as modifiable. Without it, traditions persist within the "zone of latent solutions" but do not systematically accumulate.
+**Cumulative culture**: Gruber et al. (2015) propose that "apes have culture but may not know that they do." [Cumulative culture](/concepts/cumulative-culture/) requires metarepresentation — representing the current method as modifiable. Without it, traditions persist within the "zone of latent solutions" but do not systematically accumulate.
 
 Streicher et al.'s (2025) meta-analysis of 16 fMRI studies found only 10% of claimed unconscious processing effects survived rigorous scrutiny — converging with comparative cognition to show that genuinely unconscious processing is far more limited than previously assumed. The human-ape gap tracks consciousness-dependent capacities at the *type* grain: precisely *these* operations rather than a uniform performance shift, which a generic resource-expansion account cannot deliver. If consciousness were [epiphenomenal](/concepts/epiphenomenalism/), this type-specific correspondence would be unexplained coincidence.
 
@@ -199,6 +199,6 @@ This apex article synthesises:
 17. Streicher, J., Meyen, S., Franz, V. H., & Stein, T. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.
 18. Scheler, M. (1913/1973). *Formalism in Ethics and Non-Formal Ethics of Values*. Northwestern University Press.
 19. Wandrey, M.-M., & Halina, M. (2025). The evolution of animal consciousness. *Philosophy Compass*.
-20. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
+20. Gruber, T., Zuberbühler, K., Clément, F., & van Schaik, C. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
 21. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 22. Yoo, D. A., et al. (2025). Complete sequencing of ape genomes. *Nature*, 641, 401–418.
