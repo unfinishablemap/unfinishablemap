@@ -4,7 +4,7 @@ description: "A tenet may remove a defeater, but it must not upgrade the evidenc
 created: 2026-05-05
 modified: 2026-05-29
 human_modified: null
-ai_modified: 2026-06-03T06:38:35+00:00
+ai_modified: 2026-06-03T15:12:32+00:00
 last_deep_review: 2026-05-10T18:31:00+00:00
 draft: false
 topics: []
@@ -15,6 +15,7 @@ related_articles:
   - "[[bedrock-clash-vs-absorption]]"
   - "[[framework-stage-calibration]]"
   - "[[direct-refutation-discipline]]"
+  - "[[delocalisation-discipline]]"
   - "[[closed-loop-opportunity-execution]]"
   - "[[coalesce-condense-apex-stability]]"
   - "[[coherence-inflation-countermeasures]]"
@@ -352,6 +353,7 @@ Beyond tenet alignment, the discipline complements [[coherence-inflation-counter
 ## Further Reading
 
 - [[apex/steelmanning-as-method]] — the constructive companion to this discipline: where evidential-status discipline says what an article must *not* claim (defeater-removal is not evidence-lift), the method says how an article earns the small residue that remains claimable once the prohibition has done its work — build the strongest unified rival, grant the absorption, isolate the narrow seam, without upgrading the seam's tier
+- [[delocalisation-discipline]] — the affirmative complement at the claim-placement layer: where this discipline says do-not-over-claim (refuse the upgrade, hold the tier), delocalisation says where to relocate the article's load-bearing weight once the over-claim is refused — onto the strongest supported adjacent claim
 - [[direct-refutation-discipline]] — sister discipline at the reasoning-mode level: how the catalogue argues against opponents, surfaced in the same outer-review cluster
 - [[bedrock-clash-vs-absorption]] — sister discipline at the within-article level: rival-position handling when an objection should be preserved as a clash subsection rather than absorbed
 - [[framework-stage-calibration]] — sister discipline at the framework level: how the catalogue characterises its own developmental stage to avoid stage-mismatched analogies

@@ -9,6 +9,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T15:12:32+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Delocalisation discipline (methodology pattern doc)
+- **Output**: [delocalisation-discipline](/project/delocalisation-discipline/)
+- **Word count**: 2730
+- **Based on research**: No (methodology doc; assess-first task)
+- **Verdict**: CREATE. Relocation-of-claim ("relocate the load-bearing claim to the strongest evidentially-supported adjacent claim") is genuinely distinct from the sister disciplines: evidential-status covers tier-labelling + the constrain-vs-establish *refusal* (do-not-over-claim) but not the affirmative re-anchoring step; direct-refutation is opponent-facing; common-cause is discount-of-count not relocation-of-claim. Doc adds: the 3-part move, when-to-deploy, sibling-distinctions made explicit, audit checklist, the over-delocalisation failure-mode warning (relocating into triviality), and 6 verified corpus exhibits (OBE, quantum-biology, IIT-critique, cognitive-distinctiveness, baseline-cognition, psychedelics/filter — each confirmed by reading; binding-problem dropped as falsifiability not relocation). Reciprocal cross-link added to evidential-status-discipline.
+
 ## 2026-06-03T18:05:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [ramanujan-and-the-phenomenology-of-mathematical-reception](/topics/ramanujan-and-the-phenomenology-of-mathematical-reception/)

@@ -402,14 +402,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-05-15
 - **Completed**: 2026-05-18 (resolved 2026-05-19 by /replenish-queue)
 
-### P2: Write topic page `q3-as-coherent-dualism` mapping the under-discussed quadrant
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review (evening — 2026-05-11c). The four-quadrant taxonomy article at lines 100–109 and the mechanism-costs article at lines 88–98 both treat Q3 (max-mind / min-physical) — most Q3 positions in the literature live in their *monist* form (Kastrup, Berkeley) but Q3 *as dualism* is rarely articulated. The Map can map the territory by treating Q3-as-dualism specifically (Myers–James subliminal-mind paired with lean physics; certain Jungian frameworks) and exposing what the cell commits to in mechanism terms (no interface problem in the dualist sense, but an *appearance debt* — explaining why the intrinsic mental side appears as impersonal physical structure; conservation as a description of mental regularities). The article would be cartographically valuable without endorsing the cell, and would surface the structural asymmetry between Q3-as-dualism (rare, unstable) and Q3-as-monism (well-populated, idealist). Cross-link to `[[topics/analytic-idealism-and-mind-centric-metaphysics]]`, `[[topics/four-quadrant-dualism-taxonomy]]`, `[[topics/mechanism-costs-dualism-thickness-quadrants]]`. Estimated scope: 2,400–3,000 words; topics/ placement. Tenet alignment: Tenet 1 (Dualism); cartographic.
-- **Review file**: `reviews/optimistic-2026-05-11c.md`
-- **Source**: optimistic-review (2026-05-11c)
-- **Generated**: 2026-05-11
-
 ### P2: Write project doc on the delocalisation discipline as a named methodology pattern
 - **Type**: expand-topic
 - **Status**: pending
@@ -1306,6 +1298,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Write topic page `q3-as-coherent-dualism` mapping the under-discussed quadrant
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review (evening — 2026-05-11c). The four-quadrant taxonomy article at lines 100–109 and the mechanism-costs article at lines 88–98 both treat Q3 (max-mind / min-physical) — most Q3 positions in the literature live in their *monist* form (Kastrup, Berkeley) but Q3 *as dualism* is rarely articulated. The Map can map the territory by treating Q3-as-dualism specifically (Myers–James subliminal-mind paired with lean physics; certain Jungian frameworks) and exposing what the cell commits to in mechanism terms (no interface problem in the dualist sense, but an *appearance debt* — explaining why the intrinsic mental side appears as impersonal physical structure; conservation as a description of mental regularities). The article would be cartographically valuable without endorsing the cell, and would surface the structural asymmetry between Q3-as-dualism (rare, unstable) and Q3-as-monism (well-populated, idealist). Cross-link to `[[topics/analytic-idealism-and-mind-centric-metaphysics]]`, `[[topics/four-quadrant-dualism-taxonomy]]`, `[[topics/mechanism-costs-dualism-thickness-quadrants]]`. Estimated scope: 2,400–3,000 words; topics/ placement. Tenet alignment: Tenet 1 (Dualism); cartographic.
 
 ### ✓ 2026-06-03: Write concept page `articulability-of-q1` consolidating the live open problem
 - **Type**: expand-topic
