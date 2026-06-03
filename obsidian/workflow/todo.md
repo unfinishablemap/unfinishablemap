@@ -37,6 +37,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Fix Han (2016) citation — wrong venue/title in brain-internal + add co-author Choi corpus-wide
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Driver follow-on from the overdetermination-dissolution deep-review 2026-06-03. The cite is **VERIFIED at publisher** (Nature srep22986 + arXiv:1307.2026): **Han, Y. D., & Choi, T. (2016). "Quantum probability assignment limited by relativistic causality." *Scientific Reports* 6, 22986.** Corpus has it in several forms; normalize to this verified form. TARGETS (driver-grepped):
+  - ⚠ PRIMARY (genuinely WRONG — 3 errors): `topics/brain-internal-born-rule-testing.md` ref 5 currently reads "Han, Y. D. (2016). On the Born rule and the no-signalling theorem. *Physics Letters A* 380: 3578–3580." — WRONG VENUE (Phys Lett A → Sci Rep 6:22986), WRONG TITLE (→ "Quantum probability assignment limited by relativistic causality"), MISSING co-author Choi. (Earlier deep-review flagged this "could not verify"; now resolved.) Rewrite ref 5 to the verified form.
+  - SECONDARY (venue/title right, just MISSING Choin — add "& Choi, T."): `topics/selection-only-mind-influence.md` ref 4; `research/selection-only-mind-influence-information-limits-2026-05-05.md` ref 8.
+  - IN-TEXT: normalize bare "Han (2016)" / "Han 2016" → "Han & Choi (2016)" where it's a citation short-form (brain-internal line 54, selection-only-mind-influence line 116, research-note line 128). (Single-author short-form is wrong for a 2-author paper.)
+  - EXCLUDE `concepts/selection-only-channel.md` (ref 3 also missing Choi, but it has its OWN open deep-review task — its Han cite will be fixed there; do NOT touch it here, avoid same-file conflict).
+  - ALREADY CORRECT (leave): `concepts/channel-class-taxonomy.md` (Han & Choi), `topics/overdetermination-dissolution-under-selection-only-interactionism.md` (fixed this session).
+- PURE citation-metadata fix, length-neutral, no claim/calibration changes. brain-internal is a quantum-PK flagship-adjacent article — citation-fix ONLY. Multi-file completeness ([[multifile-task-dropped-file]]): do every target, report each. Update ai_modified on edited files; validate + sync.
+- **Source**: deep-review-followup
+- **Generated**: 2026-06-03
+
 ### ✓ P2: Deep-review concepts/access-consciousness.md (22-day changed-since-review gap)
 - **Type**: deep-review
 - **Status**: done (2026-06-02)
