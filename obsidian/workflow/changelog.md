@@ -5,6 +5,15 @@ ai_modified: 2026-06-03T16:40:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T16:47:49+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-memory]]
+- **Task**: Anchoring-calibration refine (topic-concept anchoring audit 2026-06-03), anchor [[prospective-memory]]
+- **Before**: hedge 14 (3.64/kw, below 4.97 floor), strong_assertions 2 (0.52/kw, over 0.518 ceiling); 3850w soft_warning
+- **After**: hedge 20 (5.18/kw, clears floor with margin), strong_assertions 1 (0.26/kw, clears ceiling); 3865w (+15, near-flat, under 4000 hard) — both flags now clear
+- **Changes**: Softened the over-reaching strong assertion ("Sleep consolidation demonstrates..." → "appears to show...") on the computational-vs-phenomenal-binding claim, keeping the lucid-dreaming "demonstrates" (more directly empirically grounded). Added 6 warranted hedges to *posited* interface/directional-input claims only (encoding-selection dualist reading, NREM interface-disengagement mechanism, non-physical reconsolidation directional input) — empirical memory mechanisms left assertive per evidential-status discipline. No mode labels; central reconsolidation/reconstruction argument and voice preserved.
+- **Published**: yes
+
 ## 2026-06-03T17:20:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Review Severity-Register Distinction (cross-review=integration-fidelity vs pessimistic-review=content-defensibility)
