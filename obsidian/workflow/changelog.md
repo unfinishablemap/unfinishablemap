@@ -5,6 +5,14 @@ ai_modified: 2026-06-03T15:40:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T15:39:37+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Contentless awareness / turiya evidence question
+- **Output**: [[topics/contentless-awareness-evidence]]
+- **Word count**: 1875
+- **Based on research**: no (general knowledge + web-verified Metzinger 2020 MPE citation at publisher)
+- **Notes**: Metzinger 2020 MPE cite verified at Philosophy and the Mind Sciences 1(I), DOI 10.33735/phimisci.2020.I.46. Live-hypothesis-not-upgrade calibration, offline-reporting structural argument, and datum-vs-claim separation all present. Reciprocal inbound link added from parent [[essential-vs-contingent-consciousness]] (now 2767w, ok). 5 cross-links verified to exist.
+
 ## 2026-06-03T14:05:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/kairos]]

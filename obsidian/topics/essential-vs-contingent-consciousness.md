@@ -4,7 +4,7 @@ description: "Is the non-physical aspect of mind essentially conscious, or only 
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-05-27T14:30:00+00:00
+ai_modified: 2026-06-03T15:39:37+00:00
 draft: false
 topics:
   - "[[indian-philosophy-of-mind]]"
@@ -91,7 +91,7 @@ The dispute looks empirical — surely we could find out whether anything is exp
 | Anaesthesia with no recall | Possible contentless awareness, unremembered | Genuine absence of awareness |
 | Minimal phenomenal experience reports | Bare for-me-ness present, content stripped | Reconstruction by a re-formed self-model |
 
-Each row is a place where awareness-without-memory and absence-of-awareness predict the identical observable. This is the [[sleep-consciousness-void|sleep-consciousness void]] in its sharpest form: the question "where does consciousness go in dreamless sleep?" may be one that no first-person report can answer, because the reporting apparatus is exactly what is offline. Contemplative claims to have "witnessed" deep sleep (the *turiya* tradition) raise the evidential stakes but do not close the gap — a felt sense of having witnessed is not, by itself, evidence of veridical witnessing, the same discipline the Map applies to other revelatory-feeling reports.
+Each row is a place where awareness-without-memory and absence-of-awareness predict the identical observable. This is the [[sleep-consciousness-void|sleep-consciousness void]] in its sharpest form: the question "where does consciousness go in dreamless sleep?" may be one that no first-person report can answer, because the reporting apparatus is exactly what is offline. Contemplative claims to have "witnessed" deep sleep (the *turiya* tradition) raise the evidential stakes but do not close the gap — a felt sense of having witnessed is not, by itself, evidence of veridical witnessing, the same discipline the Map applies to other revelatory-feeling reports. [[contentless-awareness-evidence|What could count as evidence here]] — including Metzinger's minimal-phenomenal-experience program alongside the *turiya* reports — is taken up separately.
 
 ## The Map's Reading
 
