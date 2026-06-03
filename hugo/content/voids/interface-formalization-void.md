@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-05-27 10:30:00+00:00
+ai_modified: 2026-06-03 15:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -33,6 +33,7 @@ related_articles:
 - '[[mechanism-costs-dualism-thickness-quadrants]]'
 - '[[four-quadrant-dualism-taxonomy]]'
 - '[[stochastic-emergence-as-quantum-interface-evidence]]'
+- '[[apex/dualism-cartography]]'
 title: The Interface Formalization Void
 topics:
 - '[[hard-problem-of-consciousness]]'

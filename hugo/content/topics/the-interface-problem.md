@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-01
-ai_modified: 2026-05-28 22:55:09+00:00
+ai_modified: 2026-06-03 15:40:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -52,6 +52,7 @@ related_articles:
 - '[[empirical-phenomena-mental-causation]]'
 - '[[mechanism-costs-dualism-thickness-quadrants]]'
 - '[[consciousness-and-causal-powers]]'
+- '[[apex/dualism-cartography]]'
 title: 'The Interface Problem: Location and Specification'
 topics:
 - '[[hard-problem-of-consciousness]]'

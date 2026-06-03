@@ -3,7 +3,7 @@ title: "The Post-Decoherence Selection Programme"
 created: 2026-03-29
 modified: 2026-05-27
 human_modified: null
-ai_modified: 2026-06-03T09:55:13+00:00
+ai_modified: 2026-06-03T15:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,6 +30,7 @@ related_articles:
   - "[[selection-only-channel]]"
   - "[[selection-only-mind-influence]]"
   - "[[brain-internal-born-rule-testing]]"
+  - "[[dualism-cartography]]"
 
 ai_contribution: 100
 author: null
@@ -171,6 +172,7 @@ The post-decoherence selection programme serves all five tenets while revealing 
 
 - [[interface-specification-programme|The Interface Specification Programme]] — The engineering-level specification of *how* consciousness operates at the neural interface; the present article specifies the physics-level account of *where* in quantum mechanics that interface finds its grounding
 - [[what-consciousness-tells-us-about-physics|What Consciousness Tells Us About Physics]] — The reverse inference from mind to matter; if consciousness participates in post-decoherence selection, quantum mechanics is not incomplete but *partial*—describing the constraint space while omitting the selection principle
+- [[dualism-cartography|Dualism Cartography]] — Maps the dualist positions and their per-cell mechanism costs; this programme is the physics-side companion to the interface frontier that cartography marks as the Map's hardest unpaid debt
 
 ## Source Articles
 

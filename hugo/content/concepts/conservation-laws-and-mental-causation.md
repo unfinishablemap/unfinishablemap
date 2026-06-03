@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-05-27 20:50:24+00:00
+ai_modified: 2026-06-03 15:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -38,6 +38,7 @@ related_articles:
 - '[[mechanism-costs-dualism-thickness-quadrants]]'
 - '[[four-quadrant-dualism-taxonomy]]'
 - '[[causal-consistency-constraint]]'
+- '[[apex/dualism-cartography]]'
 title: Conservation Laws and Mental Causation
 topics:
 - '[[hard-problem-of-consciousness]]'

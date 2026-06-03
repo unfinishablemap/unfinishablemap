@@ -4,7 +4,7 @@ description: "Curated index of the Map's apex articles—synthesis pieces integr
 created: 2026-01-24
 modified: 2026-05-25
 human_modified: 2026-01-24
-ai_modified: 2026-05-27T07:47:13+00:00
+ai_modified: 2026-06-03T15:40:00+00:00
 last_deep_review: 2026-04-27T21:27:00+00:00
 draft: false
 topics: []
@@ -673,6 +673,26 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - apex/phenomenology-mechanism-bridge
 
 **Status**: Created 2026-05-27 (admitted as #30 — suggested by optimistic-2026-05-26f High Priority, which named the "Strongest Materialist Reading" section of [[apex/phenomenal-output-causal-machinery-dissociation]] as a *reusable methodological pattern* — build the strongest unified materialist rival, grant it absorbs the shape, isolate the narrow surviving residue — that the Map performs but had not named or generalised. The apex (a) states the method as four ordered moves (build unified rival → grant absorption → isolate residue → audit convergence count downward), the order load-bearing; (b) uses the dissociation apex's felt-character residue and its seven→five-or-six self-audit as the cleanest worked exhibit; (c) confirmed DISTINCT from the methodology layer it cross-links rather than duplicates — `evidential-status-discipline` supplies the *defensive* prohibitions (constrain-vs-establish, compatibility-vs-support, defeater-removal vs evidence-lift) for which this is the *constructive* companion; `coherence-inflation-countermeasures` Countermeasure 10 (steelman mirror) and Countermeasure 9 (external-benchmark) are the *requirements* this formalises into a positive procedure; `bedrock-clash-vs-absorption` governs how the residue is *installed* once isolated, one level below where the method operates; `common-cause-null`/`per-cluster-independence-scoring`/`mechanism-cost-ledger` are the *screens* the downward audit applies; (d) shows the method recurring across `apex/moral-architecture-of-consciousness` (four-pillar downward audit), `apex/phenomenology-mechanism-bridge` (artifact-of-method rival), `apex/taxonomy-of-voids` (common-cause null on the void count), `concepts/mental-effort`, and `voids/agency-void`; (e) names the theatrical-steelman failure mode (residue silently re-inflated) and the single-rival presupposition as honest limitations; (f) holds the residue at the *framework-boundary* register, refusing to convert "survived the steelman" into a tier-upgrade. Apex register is uncapped (the safest high-priority expansion: topics 248/270, concepts 246/270 have room, voids over cap). 3,501 words. Tenet alignment: Tenet 5 (Occam's Razor Has Limits) primarily — the editorial instrument that keeps the Map's own coherence from being mistaken for evidence; methodologically supports all five by disciplining how evidence is counted. The standing P3 audit task on apex over-cap remains the load-bearing rebalancing pass).
+
+---
+
+### 31. Dualism Cartography
+
+**Slug**: `dualism-cartography`
+
+**Subtitle**: A coordinated map of dualist positions and their per-cell mechanism costs
+
+**Thesis**: A cluster of the Map's articles together forms a coordinated map of dualist positions and the distinct mechanism debts each one owes—a cartography that locates the Map's own region without claiming to adjudicate which position is correct.
+
+**Source articles**:
+- topics/four-quadrant-dualism-taxonomy
+- topics/mechanism-costs-dualism-thickness-quadrants
+- topics/parsimony-case-for-interactionist-dualism
+- topics/the-interface-problem
+- concepts/conservation-laws-and-mental-causation
+- voids/interface-formalization-void
+
+**Status**: Created 2026-06-03 (admitted as #31 — the dualism-thickness-grid cluster had no apex anchor. The two apexes that touch the cluster — `interface-specification-programme` and `what-consciousness-tells-us-about-physics` — each cite only one of the thickness-core articles peripherally and are about the quantum-interface subject, not dualism-positioning; neither walks the kinds-of-dualism → mechanism-debts-per-cell → the-Map's-region → open-work cartography. This apex (a) introduces the thickness grid as the catalogue's organising structure for dualism-positioning; (b) walks four-quadrant-taxonomy → mechanism-costs cell-by-cell (Q1 authority debt, Q2 exclusion debt, Q3 appearance debt, Q4 full bill) → parsimony-within-tenets → the-interface-problem + interface-formalization-void as the cluster's sharpest shared open question; (c) makes the cartographic-not-adjudicative discipline explicit at apex level — the cluster MAPS dualism positions and their mechanism-costs WITHOUT claiming to adjudicate which is correct, marking the Map's own region as a posited commitment (Tenets 1 and 5 load-bearing) rather than a proven conclusion, holding mechanism-debts as costs-to-be-paid rather than disproofs of rival cells per [[evidential-status-discipline]]; (d) cross-links all 6 cluster articles plus `[[apex/interface-specification-programme]]` and `[[apex/post-decoherence-selection-programme]]` as adjacent companions, with reciprocal back-links from all eight. Cites reuse the already-verified cluster citations (Saad 2025, Schaffer 2000, Tegmark 2000, Cucu & Pitts 2019, Chalmers 2003, Huemer 2009, Lycan 2009, Masanes et al. 2019, Zanotti 2021, Zheng & Meister 2025) — no new unverified citations. 3,896 words. Tenet alignment: Tenets 1 (Dualism, posited) and 5 (Occam-has-limits, the cartographic restraint itself) primarily, with 2/3/4 connections drawn. Apex now at #31 within the informal cap; the standing P3 audit task on apex over-cap remains the load-bearing rebalancing pass).
 
 ---
 

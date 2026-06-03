@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-05-27 20:50:24+00:00
+ai_modified: 2026-06-03 15:40:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -24,6 +24,7 @@ last_curated: null
 last_deep_review: 2026-05-19 16:28:35+00:00
 modified: *id001
 related_articles:
+- '[[apex/dualism-cartography]]'
 - '[[four-quadrant-dualism-taxonomy]]'
 - '[[mechanism-costs-cartography]]'
 - '[[dualism]]'

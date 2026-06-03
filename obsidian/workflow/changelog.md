@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03T14:15:50+00:00
+ai_modified: 2026-06-03T15:40:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-03T15:40:00+00:00 - apex-evolve
+- **Status**: Complete (assess-first → CREATE)
+- **Article**: [[apex/dualism-cartography]] (new apex #31)
+- **Decision**: GENUINE create confirmed — the dualism-thickness-grid cluster had no apex anchor. Discriminating check: `interface-specification-programme` and `what-consciousness-tells-us-about-physics` each cite only ONE thickness-core article peripherally and are about the quantum-interface subject, not dualism-positioning; neither walks kinds-of-dualism → mechanism-debts-per-cell → the-Map's-region → open-work.
+- **Structure**: grid (four-quadrant taxonomy) → cost overlay (mechanism-costs cell-by-cell: Q1 authority / Q2 exclusion / Q3 appearance / Q4 full-bill) → parsimony-within-tenets → the Map's region + neighbour drifts → interface-problem + formalization-void as the cluster's shared frontier → cartographic-not-adjudicative synthesis naming the mechanism-costs-cartography genre.
+- **Calibration**: cartographic-not-adjudicative discipline embodied — Map's region marked as posited commitment (Tenets 1+5 load-bearing) not proven conclusion; mechanism-debts as costs-to-be-paid not disproofs of rival cells (per [[evidential-status-discipline]]); parsimony removes a barrier without installing dualism; no direct-refutation mode labels in body.
+- **Word count**: created → 3,896 (canonical `analyze_length`, status ok, under 4000 soft).
+- **Cross-links**: all 6 cluster sources + 2 companion apexes ([[interface-specification-programme]], [[post-decoherence-selection-programme]]); reciprocal back-links added to all 8 — no orphan.
+- **Citations**: no new cites; all reuse already-verified cluster citations.
+- **Review**: [[reviews/apex-evolve-2026-06-03-dualism-cartography]]
 
 ## 2026-06-03T14:35:00+00:00 - pessimistic-review
 - **Status**: Success

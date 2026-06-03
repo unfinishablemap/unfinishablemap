@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-06-01 00:00:00+00:00
+ai_modified: 2026-06-03 15:40:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -32,6 +32,7 @@ related_articles:
 - '[[the-strong-emergence-of-consciousness]]'
 - '[[mechanism-costs-dualism-thickness-quadrants]]'
 - '[[four-quadrant-dualism-taxonomy]]'
+- '[[apex/dualism-cartography]]'
 title: The Parsimony Case for Interactionist Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'

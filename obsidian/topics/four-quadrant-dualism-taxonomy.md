@@ -4,7 +4,7 @@ description: "Two-axis taxonomy sorting dualist positions by how much ontologica
 created: 2026-04-21
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-06-03T08:53:17+00:00
+ai_modified: 2026-06-03T15:40:00+00:00
 draft: false
 topics:
   - dualism
@@ -19,6 +19,7 @@ concepts:
   - idealism
   - trumping-preemption
 related_articles:
+  - "[[apex/dualism-cartography]]"
   - "[[mechanism-costs-dualism-thickness-quadrants]]"
   - "[[channel-width-third-axis]]"
   - "[[mechanism-costs-cartography]]"

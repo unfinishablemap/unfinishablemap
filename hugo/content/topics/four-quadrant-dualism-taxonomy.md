@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-06-03 08:53:17+00:00
+ai_modified: 2026-06-03 15:40:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -22,6 +22,7 @@ last_curated: null
 last_deep_review: 2026-06-02 21:22:01+00:00
 modified: *id001
 related_articles:
+- '[[apex/dualism-cartography]]'
 - '[[mechanism-costs-dualism-thickness-quadrants]]'
 - '[[channel-width-third-axis]]'
 - '[[mechanism-costs-cartography]]'

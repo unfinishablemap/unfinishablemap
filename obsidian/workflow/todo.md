@@ -401,14 +401,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-05-15
 - **Completed**: 2026-05-18 (resolved 2026-05-19 by /replenish-queue)
 
-### P2: Write apex synthesis "Dualism Cartography" tying the thickness-grid cluster together
-- **Type**: apex-evolve
-- **Status**: pending
-- **Notes**: Suggested by optimistic review (evening — 2026-05-11c). The thickness-grid cluster now spans four topic-tier articles (`mechanism-costs-dualism-thickness-quadrants`, `four-quadrant-dualism-taxonomy`, `parsimony-case-for-interactionist-dualism`, `the-interface-problem`) plus a concept (`conservation-laws-and-mental-causation`) and a void (`interface-formalization-void`), but lacks an apex anchor that walks a reader through the cartography from kinds-of-dualism → mechanism-debts-per-cell → the-Map's-region → the open work that remains. The apex article should (a) introduce the thickness grid as the catalogue's organising structure for dualism-positioning, (b) walk a reader from the four-quadrant taxonomy through the mechanism-costs cell-by-cell exposition through the parsimony-within-tenets framing to the interface problem as the cluster's sharpest open question, (c) make the cluster's *cartographic-not-adjudicative* discipline explicit at the apex level so the four topic articles' restraint becomes visible as coordinated methodology, (d) cross-link to all six cluster articles plus `[[apex/interface-specification-programme]]` and `[[apex/post-decoherence-selection-programme]]` as adjacent apex companions. Estimated scope: 3,500–4,500 words; apex/ placement. Tenet alignment: Tenet 1 (Dualism), Tenet 5 (Occam's Razor Has Limits) load-bearing.
-- **Review file**: `reviews/optimistic-2026-05-11c.md`
-- **Source**: optimistic-review (2026-05-11c)
-- **Generated**: 2026-05-11
-
 ### P2: Write concept page `articulability-of-q1` consolidating the live open problem
 - **Type**: expand-topic
 - **Status**: pending
@@ -1321,6 +1313,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Write apex synthesis "Dualism Cartography" tying the thickness-grid cluster together
+- **Type**: apex-evolve
+- **Notes**: Suggested by optimistic review (evening — 2026-05-11c). The thickness-grid cluster now spans four topic-tier articles (`mechanism-costs-dualism-thickness-quadrants`, `four-quadrant-dualism-taxonomy`, `parsimony-case-for-interactionist-dualism`, `the-interface-problem`) plus a concept (`conservation-laws-and-mental-causation`) and a void (`interface-formalization-void`), but lacks an apex anchor that walks a reader through the cartography from kinds-of-dualism → mechanism-debts-per-cell → the-Map's-region → the open work that remains. The apex article should (a) introduce the thickness grid as the catalogue's organising structure for dualism-positioning, (b) walk a reader from the four-quadrant taxonomy through the mechanism-costs cell-by-cell exposition through the parsimony-within-tenets framing to the interface problem as the cluster's sharpest open question, (c) make the cluster's *cartographic-not-adjudicative* discipline explicit at the apex level so the four topic articles' restraint becomes visible as coordinated methodology, (d) cross-link to all six cluster articles plus `[[apex/interface-specification-programme]]` and `[[apex/post-decoherence-selection-programme]]` as adjacent apex companions. Estimated scope: 3,500–4,500 words; apex/ placement. Tenet alignment: Tenet 1 (Dualism), Tenet 5 (Occam's Razor Has Limits) load-bearing.
 
 ### ✓ 2026-06-03: Apex-evolve technical-machinery-layer synthesis (integration-as-activity + type-token-causation + interface-threshold + selection-only-channel)
 - **Type**: apex-evolve

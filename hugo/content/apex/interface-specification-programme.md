@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-06-03 14:30:33+00:00
+ai_modified: 2026-06-03 15:40:00+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-05-16 22:50:54+00:00
 apex_sources:
@@ -49,6 +49,7 @@ related_articles:
 - '[[the-interface-problem]]'
 - '[[mathematical-structure-of-the-consciousness-physics-interface]]'
 - '[[four-quadrant-dualism-taxonomy]]'
+- '[[dualism-cartography]]'
 - '[[framework-stage-calibration]]'
 title: The Interface Specification Programme
 topics:
@@ -175,6 +176,7 @@ The interface specification programme serves all five tenets simultaneously.
 - [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Empirical mapping of the interface through natural and pharmacological perturbation: a complementary approach to the control-theoretic specification developed here
 - [Attention as the Causal Bridge](/apex/attention-as-causal-bridge/) — How attention implements the interface's selection channel, with detailed treatment of bandwidth constraints and quantum biasing
 - [The Phenomenology of Consciousness Doing Work](/apex/phenomenology-of-consciousness-doing-work/) — What the interface *feels like* in operation: the felt texture of effort, selection, and holding as evidence for genuine mental causation
+- [Dualism Cartography](/apex/dualism-cartography/) — Maps the dualist positions and their per-cell mechanism costs; locates this programme as the worked-out development of the interface debt the Map's own region owes
 
 ## Source Articles
 

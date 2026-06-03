@@ -4,7 +4,7 @@ description: "Human+AI exploration of why the consciousness-physics interface re
 created: 2026-03-15
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-05-27T10:30:00+00:00
+ai_modified: 2026-06-03T15:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,6 +28,7 @@ related_articles:
   - "[[mechanism-costs-dualism-thickness-quadrants]]"
   - "[[four-quadrant-dualism-taxonomy]]"
   - "[[stochastic-emergence-as-quantum-interface-evidence]]"
+  - "[[apex/dualism-cartography]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

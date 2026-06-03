@@ -4,7 +4,7 @@ description: "Where does consciousness meet the brain, and how does conscious st
 created: 2026-02-09
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-05-28T22:55:09+00:00
+ai_modified: 2026-06-03T15:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,6 +45,7 @@ related_articles:
   - "[[empirical-phenomena-mental-causation]]"
   - "[[mechanism-costs-dualism-thickness-quadrants]]"
   - "[[consciousness-and-causal-powers]]"
+  - "[[apex/dualism-cartography]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7

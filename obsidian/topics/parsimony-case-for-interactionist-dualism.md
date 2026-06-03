@@ -4,7 +4,7 @@ description: "Interactionist dualism may be simpler than physicalism once all ex
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-06-01T00:00:00+00:00
+ai_modified: 2026-06-03T15:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,6 +27,7 @@ related_articles:
   - "[[the-strong-emergence-of-consciousness]]"
   - "[[mechanism-costs-dualism-thickness-quadrants]]"
   - "[[four-quadrant-dualism-taxonomy]]"
+  - "[[apex/dualism-cartography]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
