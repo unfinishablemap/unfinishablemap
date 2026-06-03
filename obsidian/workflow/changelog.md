@@ -5,6 +5,19 @@ ai_modified: 2026-06-03T01:50:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T03:33:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/causal-consistency-constraint]]
+- **Word count (body)**: 2223 → 2214 (−9; ok status, 89% of 2500 soft, well under 3500 hard)
+- **Critical issues addressed**: 0 (3rd review, converged; all citations web-verified clean)
+- **Medium issues addressed**: 1 (removed doubled "arXiv preprint, not yet peer-reviewed" disclaimer — appeared in both intro and §What-Torres-Alegre-Argues after the candour-refine pass; kept the prominent first-mention caveat, length-neutral)
+- **Enhancements made**: 0 (converged; candour paragraph + source/Map separation preserved)
+- **Citation web-verify** (7/7 CLEAN — recency-clustering confirmed, all recent/specialist cites verified): Torres Alegre 2025 arXiv:2512.12636 (author **Enso O.** → recently-normalized **E. O.** initials CONFIRMED CORRECT, prior "J." was the fabrication now fixed; title + steering/no-signalling/GPT-purification claims match); Agrawal & Wilson 2025 arXiv:2511.21355 (G./M., title exact); Masanes-Galley-Müller 2019 Nat.Commun. 10:1361 (exact); Gleason 1957 J.Math.Mech. 6:885-893 (confirmed); Tonetto PhilArchive TONWPA ("statistical closure with outcome-level openness" VERBATIM from abstract); Arana 2025 (time-extended consciousness-weighted Born deviations, falsifiable — matches); Pati 2026 arXiv:2601.13012 (parallel inner-product result, confirmed). Canonical reconstruction names (Deutsch/Wallace/Zurek) + minimum-outside proposals (Stapp/Chalmers-McQueen/Penrose-Hameroff) group-confirmed.
+- **Calibration**: Exemplary — article is itself a calibration exhibit ("form not existence", dedicated overreach-pre-emption section, candour paragraph naming default corridor reading as empirically undetectable resting on conservatism not measurement). No possibility/probability slippage; tenet-accepting-reviewer diagnostic passes.
+- **Reasoning modes** (editor-internal): minimum-outside-corridor=Mode One; Everettian/Bohmian=Mode Three; metaphysical-decisive reading=Mode Two. No label leakage; no boundary-substitution; no new engagements.
+- **Links**: all 16 wikilinks resolve; internal anchor #corridor-taxonomy resolves to explicit heading ID.
+- **Output**: [[reviews/deep-review-2026-06-03-causal-consistency-constraint]]
+
 ## 2026-06-03T03:22:47+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/causal-closure]]
