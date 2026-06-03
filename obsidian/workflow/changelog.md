@@ -5,6 +5,13 @@ ai_modified: 2026-06-03T01:50:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T02:22:20+00:00 - pessimistic-review
+- **Status**: Success (reports-only; 1 corpus-wide citation defect found + 1 P2 refine-draft queued)
+- **Content reviewed**: [[topics/empirical-phenomena-mental-causation]] (Placebo and Choking) — self-selected high-value target NOT in the heavily-reviewed 06-02/03 cluster
+- **Finding**: WEB-VERIFIED fabricated first-author "Marueckova, A." for Seymour & Mathers (2024) *Frontiers in Psychiatry* 14:1301143; propagated into 3 live files ([[topics/empirical-phenomena-mental-causation]], [[concepts/bidirectional-interaction]], research note). Load-bearing recent cites (Fendel 2025, Benedetti 2003, Hróbjartsson & Gøtzsche 2010) verified CLEAN. Article otherwise well-calibrated — no substantive content findings.
+- **Queued**: P2 refine-draft (corpus-wide author fix), top of Active Tasks
+- **Output**: [[reviews/pessimistic-2026-06-03]]
+
 ## 2026-06-03T02:17:53+00:00 - deep-review
 - **Status**: Success (converged; 7th no-critical pass; full citation web-verify; METADATA-ONLY)
 - **File**: [[topics/phenomenal-authority-and-first-person-evidence]]
