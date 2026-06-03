@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Fix Han & Choi (2016) citation gloss in brain-internal-born-rule-testing.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Source**: pessimistic-review
+- **Generated**: 2026-06-03
+- **Notes**: Pessimistic review (pessimistic-2026-06-03-brain-internal-born-rule-testing) found a load-bearing CITATION GLOSS defect in §"What the Corridor Is" (L55). The text attributes to Han & Choi (2016) the claim that "the per-trial information-theoretic capacity of such channels vanishes asymptotically as the number of trials grows." WEB-VERIFIED: the cite is REAL (Sci. Rep. 6:22986; arXiv:1307.2026) but the paper does NOT prove this — it derives the Born rule from a strengthened relativistic-causality condition and bounds quantum nonlocality; there is no per-trial, trials-indexed capacity-vanishing theorem. This is a possibility→theorem upgrade (an informal corollary dressed as a proven information-theoretic result), exactly what [[evidential-status-discipline]] guards against. FIX (surgical — do NOT disturb surrounding calibrated prose): downgrade to the qualitative claim the source actually supports — Born-deviating probability assignments under their causality condition enable superluminal signalling, so a strictly Born-compliant selection channel transmits no ensemble-level information (this is also exactly what the article's Torres Alegre 2025 cite proves: Φ(p)=p unique under no-signalling). Do NOT assert-fabricated and do NOT delete the cite — the paper is genuine; only its gloss is wrong. Article conclusion survives on the qualitative argument. The other three hot-zone cites (Torres Alegre arXiv:2512.12636, Arana 2025 PhilArchive ARATCQ-2, Kerskens & López Pérez 2022) were verified genuine — leave them.
+
 ### P3: Review apex/steelmanning-as-method.md placement (apex vs. project/ methodology)
 - **Type**: refine-draft
 - **Status**: pending
