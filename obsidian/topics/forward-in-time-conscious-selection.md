@@ -4,7 +4,7 @@ description: "How consciousness might select among quantum possibilities without
 created: 2026-03-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-06-03T12:05:18+00:00
+ai_modified: 2026-06-03T12:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -194,6 +194,7 @@ The Map's position: forward-in-time conscious selection is the more conservative
 - [[testing-consciousness-collapse]] — Experimental approaches to consciousness-collapse theories
 - [[spontaneous-collapse-theories]] — GRW, CSL, and Diósi-Penrose as baseline collapse mechanisms
 - [[empirical-evidence-for-consciousness-selecting]] — Empirical signatures any selection model must accommodate
+- [[reconsolidation-as-selection-window]] — The memory reconsolidation window as the most empirically-anchored venue for post-decoherence selection
 - [[decision-void]] — The introspective opacity of the locus this mechanism would occupy
 
 ## References

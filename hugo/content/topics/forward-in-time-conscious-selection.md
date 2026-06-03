@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-30
-ai_modified: 2026-06-03 12:05:18+00:00
+ai_modified: 2026-06-03 12:40:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -198,6 +198,7 @@ The Map's position: forward-in-time conscious selection is the more conservative
 - [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) — Experimental approaches to consciousness-collapse theories
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and Diósi-Penrose as baseline collapse mechanisms
 - [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/) — Empirical signatures any selection model must accommodate
+- [reconsolidation-as-selection-window](/topics/reconsolidation-as-selection-window/) — The memory reconsolidation window as the most empirically-anchored venue for post-decoherence selection
 - [decision-void](/voids/decision-void/) — The introspective opacity of the locus this mechanism would occupy
 
 ## References

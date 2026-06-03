@@ -4,7 +4,7 @@ description: "What makes you *you* across time? The Map emphasizes indexical ide
 created: 2026-01-08
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-05-29T02:30:40+00:00
+ai_modified: 2026-06-03T12:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -191,6 +191,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 - [[anoetic-noetic-autonoetic-consciousness]] — Mental time travel and the temporal self
 - [[split-brain-consciousness]] — Empirical evidence on consciousness unity and division
 - [[death-and-consciousness]] — What survival after death would require
+- [[reconsolidation-as-selection-window]] — How memory reconsolidation makes the self perpetually self-rewriting
 - [[sleep-consciousness-void]] — The nightly gap and what it means for identity
 - [[voids/anesthesia-void]] — The imposed gap and the three-states taxonomy identity arguments require
 - [[buddhism-and-dualism]] — The *anatta* doctrine and the witness response

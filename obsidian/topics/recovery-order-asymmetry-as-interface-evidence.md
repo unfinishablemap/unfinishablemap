@@ -4,7 +4,7 @@ description: "A human+AI inquiry into why the order in which consciousness degra
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-06-03T00:00:00+00:00
+ai_modified: 2026-06-03T12:40:00+00:00
 last_deep_review: 2026-05-27T14:58:22+00:00
 draft: false
 topics:
@@ -118,6 +118,7 @@ The asymmetry is one face of the broader disruption-cluster pattern: channels th
 - [[terminal-lucidity-and-filter-transmission-theory]] — Recovery under continuing substrate degradation
 - [[stochastic-emergence-as-quantum-interface-evidence]] — Why emergence timing is not the deterministic reverse of induction
 - [[clinical-dissociation-as-systematic-evidence]] — Onset-versus-recovery asymmetry without substrate damage
+- [[reconsolidation-as-selection-window]] — The retrieval-triggered lability window as the most empirically-anchored interface venue in the memory domain
 - [[dissociative-states-as-intact-substrate-interface-evidence]] — The dissociative-amnesia bridge-reconnects pattern: whole-recovery rather than rebuild, on an intact substrate
 - [[anoetic-noetic-autonoetic-consciousness]] — The three-channel framework the asymmetry runs through
 - [[cross-mechanism-convergence]] — The evidence-pattern type this family instantiates

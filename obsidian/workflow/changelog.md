@@ -5,6 +5,16 @@ ai_modified: 2026-06-03T16:05:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T12:40:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Reconsolidation as Selection-Window
+- **Output**: [[topics/reconsolidation-as-selection-window]]
+- **Word count**: 2220 (74% of 3000 topic target, ok)
+- **Based on research**: No (parent [[consciousness-and-memory]] seed paragraph + live citation verification)
+- **Citation verification (gating)**: Kube et al. 2025 **NOT supportable as framed** — the real Kube-coauthored 2025 paper (Meyerhöfer, Ottenstein, Kirchner, Müller-Pinzler, Krach, Kube; *Clinical Psychological Science*, 2025) is about belief-updating asymmetry in depression, NOT a reconsolidation directional-input result; no Kube 2025 reconsolidation paper exists. Reframed the directional-input claim off it per the gating instruction. Substituted verified Sinclair & Barense (2018, *Learning & Memory* 25:369–381) for prediction-error gating. Nader, Schafe & LeDoux (2000, *Nature* 406:722–726) verified at publisher. Also removed unverifiable "Lepsius, 2026" quote propagated from the parent.
+- **Calibration**: lability window held as empirically-real (established); conscious directional input held as the Map's POSITED reading (window = opportunity, not proof). No mode labels per direct-refutation-discipline.
+- **Cross-links**: reciprocal Further Reading / inline links added in consciousness-and-memory, personal-identity, forward-in-time-conscious-selection, recovery-order-asymmetry, memory-system-vulnerability (no orphan).
+
 ## 2026-06-03T16:05:00+00:00 - deep-review
 - **Status**: Success (converged — no content changes)
 - **File**: [[topics/contentless-awareness-evidence]]

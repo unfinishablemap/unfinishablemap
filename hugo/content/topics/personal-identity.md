@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-05-29 02:30:40+00:00
+ai_modified: 2026-06-03 12:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -193,6 +193,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and the temporal self
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Empirical evidence on consciousness unity and division
 - [death-and-consciousness](/topics/death-and-consciousness/) — What survival after death would require
+- [reconsolidation-as-selection-window](/topics/reconsolidation-as-selection-window/) — How memory reconsolidation makes the self perpetually self-rewriting
 - [sleep-consciousness-void](/voids/sleep-consciousness-void/) — The nightly gap and what it means for identity
 - [anesthesia-void](/voids/anesthesia-void/) — The imposed gap and the three-states taxonomy identity arguments require
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — The *anatta* doctrine and the witness response

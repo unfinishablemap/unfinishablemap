@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-06-03 00:00:00+00:00
+ai_modified: 2026-06-03 12:40:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -121,6 +121,7 @@ The asymmetry is one face of the broader disruption-cluster pattern: channels th
 - [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/) — Recovery under continuing substrate degradation
 - [stochastic-emergence-as-quantum-interface-evidence](/topics/stochastic-emergence-as-quantum-interface-evidence/) — Why emergence timing is not the deterministic reverse of induction
 - [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/) — Onset-versus-recovery asymmetry without substrate damage
+- [reconsolidation-as-selection-window](/topics/reconsolidation-as-selection-window/) — The retrieval-triggered lability window as the most empirically-anchored interface venue in the memory domain
 - [dissociative-states-as-intact-substrate-interface-evidence](/topics/dissociative-states-as-intact-substrate-interface-evidence/) — The dissociative-amnesia bridge-reconnects pattern: whole-recovery rather than rebuild, on an intact substrate
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The three-channel framework the asymmetry runs through
 - [cross-mechanism-convergence](/concepts/cross-mechanism-convergence/) — The evidence-pattern type this family instantiates
