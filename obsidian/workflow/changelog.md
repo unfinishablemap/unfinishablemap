@@ -5,6 +5,14 @@ ai_modified: 2026-06-03T08:18:13+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T09:26:03+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/quantum-biology-and-neural-consciousness]] (4046w; quantum + animal/sleep high-defect citation zone)
+- **Citations**: 6 high-risk specialist/recent cites web-verified at publisher of record. 5 CLEAN (Wiest 2025 niaf011, Khan 2024 eNeuro 11(8) d=1.9, Babcock 2024 JPCB 128(17) 4035-4046, Denton 2024 NatComm 15:10823, Fisher 2025 lithium bioRxiv). 1 DEFECT: twin-EEG study misattributed to Kerskens → actually **Escolà-Gascón** (sole author), *CSBJ* vol 30, 2025 (article said venue "PMC"); famous-name substitution from adjacent Kerskens 2022 MRI study. Corpus already had it right in 2 concept files (article regressed); sibling venue defect found in quantum-biology-and-neural-mechanisms.md ("Scientific Reports" → should be CSBJ).
+- **Other findings**: 2 evidential-status over-claims (line 126 falsification-asymmetry; line 99 "structurally necessary" over body vs own calibration table). Calibration table + Duch opponent-engagement section both exemplary; no label leakage; no boundary-substitution.
+- **Tasks generated**: 1 (P2 refine-draft, written to top of Active Tasks)
+- **Output**: [[reviews/pessimistic-2026-06-03-quantum-biology-and-neural-consciousness]]
+
 ## 2026-06-03T09:20:55+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/interoceptive-void]]
