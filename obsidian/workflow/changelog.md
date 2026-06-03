@@ -5,6 +5,21 @@ ai_modified: 2026-06-03T04:35:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T04:19:12+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/synesthetic-void]]
+- **Mode**: Citation web-verification (publisher-level) on a quote-heavy void article (16 quotes) + calibration check
+- **Word count**: 2527 → 2536 (+9, under 3000 hard)
+- **Critical issues addressed**: 4 (all citation defects)
+  - **Rosseinsky & Bhatt 2022 FABRICATED** → real paper is **Lacalli, T.C. (2022), "On the Origins and Evolution of Qualia: An Experience-Space Perspective," *Front. Syst. Neurosci.* 16:945722**. Both verbatim E-space quotes match Lacalli exactly; authors/title/article-ID were invented ("Bhatt" recurs from earlier fabrications this session). Fixed attribution + reference; quotes preserved.
+  - **Wager 1999 wrong metadata** (*Philosophia* 27:571-584) → real is *Philosophical Psychology* 12(3):263-281; first name "Alan"→"Adam"; the second Wager (2001) *Southwest Philosophy Review* entry was unverifiable → removed.
+  - **MacPherson 2007 wrong book** (*Bentornata Realtà*) → *Cartographies of the Mind*, Springer.
+  - **Merabet 2004 claim/citation mismatch**: prose described 90-min tactile-evoked recruitment (a different paper) while citing the 5-day spontaneous-hallucination study; prose realigned to the cited paper.
+- **Verified correct (no change)**: Gray 2003, van Leeuwen 2015, McGinn 1989, Ramachandran & Hirstein 1997, Spector & Maurer 2009, Maurer & Mondloch 2005, Nagel 1974, Bor et al. 2014 (Bor IS real first author, not a Seth swap).
+- **Calibration**: void framed as posited not proven; Bor "trainable" complication honestly engaged; no epistemic→metaphysical slide; no possibility/probability slippage.
+- **Note**: all 4 defects survived 3 prior deep reviews (intra-corpus checks only); confirms [[ai_citation_metadata_unreliable]] — only publisher web-verify catches them.
+- **Output**: [[reviews/deep-review-2026-06-03-synesthetic-void]]
+
 ## 2026-06-03T04:35:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 4.8 (Research, 181 sources)
