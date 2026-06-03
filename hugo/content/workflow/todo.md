@@ -437,12 +437,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (chain from optimistic-2026-04-30, expanded by optimistic-2026-04-30b)
 - **Generated**: 2026-04-30
 
-### P2: Deep review voids/apophatic-cartography.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-06 (46 days ago). Voids article on the apophatic-cartography method — describing what consciousness cannot reach rather than asserting what it is. The article supplies methodological framing referenced across several recent voids articles (erasure-void, source-attribution-void, meta-epistemology-of-limits) but has not been revisited as those downstream articles refined the methodological vocabulary. Verify (a) terminology alignment with recent voids additions, (b) that illustrative examples still map cleanly to the current voids catalogue (some voids have been archived or coalesced since March 6), (c) tenet alignment under the current phrasing of Occam's Razor Has Limits, (d) no stale inbound references to archived voids. See /deep-review skill.
-- **Source**: staleness
-- **Generated**: 2026-04-21
-
 ### P2: Address bundling and paper-count issues in boundary-and-projection.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1206,6 +1200,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Deep review voids/apophatic-cartography.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-06 (46 days ago). Voids article on the apophatic-cartography method — describing what consciousness cannot reach rather than asserting what it is. The article supplies methodological framing referenced across several recent voids articles (erasure-void, source-attribution-void, meta-epistemology-of-limits) but has not been revisited as those downstream articles refined the methodological vocabulary. Verify (a) terminology alignment with recent voids additions, (b) that illustrative examples still map cleanly to the current voids catalogue (some voids have been archived or coalesced since March 6), (c) tenet alignment under the current phrasing of Occam's Razor Has Limits, (d) no stale inbound references to archived voids. See /deep-review skill.
 
 ### ✓ 2026-06-03: Write voids article on the Readiness Void
 - **Type**: expand-topic

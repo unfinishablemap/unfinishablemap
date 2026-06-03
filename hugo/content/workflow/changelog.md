@@ -9,6 +9,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T18:24:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [boundary-and-projection](/voids/boundary-and-projection/)
+- **Source**: pessimistic-2026-04-18b (2 confirmed-still-present medium issues; 2026-06-01 deep-review did not address them)
+- **Issue 1 (projection bundling)**: The "Three Forms of Projection" section bundled cognitive-extension (tool) and phenomenal-extension (spatial/interpersonal) cases under one void without justifying the unification, while line 66 admitted the cognitive/phenomenal level-difference. Fix path (a): added an explicit unifying thesis at the section head — the void is unified by the shared *boundary-invisibility structure* (the establishment of the boundary cannot be witnessed by the consciousness it bounds), with the cognitive-vs-phenomenal difference scoped as a within-void variation. Reworked the line-66 parenthetical into prose that flags the level-difference as real but structure-preserving.
+- **Issue 2 (neglect→depth overclaim, 3 sites)**: Reframed the 5/92/47 paper-count per [evidential-status-discipline](/project/evidential-status-discipline/). (a) Line 60 "datum": now presents depth vs underspecification as two readings the count fits equally well; Map's depth reading marked as posited interpretation, not count-licensed. (b) Line 116 "Unexplored": blind-spot reading marked as Map interpretation, equally consistent with underspecification. (c) Line 156 "persistence despite decades": acknowledged as a stronger signal than raw count (problems posed-and-worked-but-not-yielded) while calibrating — persistence compatible with genuinely-hard and ill-posed; raises prior on structural opacity without settling it.
+- **Citation web-verify (Gómez-Emilsson & Percy, 2023)**: 3-state verdict = REAL + CORRECT. Paper exists (Frontiers in Human Neuroscience 17:1233119, 2023; DOI 10.3389/fnhum.2023.1233119; PubMed 37600559; corrigendum Feb 2024). Verbatim source confirms the counts: "Searches in the Scopus database in March 2023 identified 92 papers with the 'binding problem'... 47 ... for the 'combination problem.' Only 5 ... for the 'boundary problem.'" Numbers retained; only the inference reframed.
+- **Discipline**: via-negativa framing and "does not prove dualism" calibration preserved; no mode labels added.
+- **Word count**: 2998 → trimmed to under 3000 hard ceiling (was 2697 + reframes; offset redundant prose to land at 2998, soft_warning). Length-aware reframes, not expansions.
+- **Published**: yes
+
 ## 2026-06-03T18:40:00+00:00 - deep-review
 - **Status**: Success (converged — no content changes)
 - **File**: [apophatic-cartography](/voids/apophatic-cartography/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-06-01 21:25:35+00:00
+ai_modified: 2026-06-03 18:24:45+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -61,17 +61,17 @@ The boundary has a phenomenology of absence: like trying to find the edges of yo
 
 This creates a structural asymmetry. The [binding-void](/voids/binding-void/) hides by being too fundamental: unity is the condition for observation. The boundary hides differently—it is located precisely where observation ends. Every investigation of consciousness's boundaries occurs within those boundaries. If the boundaries expanded during investigation, you would simply have a larger consciousness investigating its new ones. If they contracted, the contracted consciousness would have no memory of the lost territory. Contents appear and disappear within experience; the boundary itself does neither. It is not a wall you approach but a horizon that recedes.
 
-The scholarly neglect is itself a datum. The boundary problem has received approximately five scholarly papers, compared to ninety-two on binding and forty-seven on combination (Gómez-Emilsson & Percy, 2023)—the pattern of a problem that requires standing at an edge you cannot locate.
+The scholarly neglect is suggestive but ambiguous. A Scopus search in March 2023 found approximately five papers naming the boundary problem, compared to ninety-two on binding and forty-seven on combination (Gómez-Emilsson & Percy, 2023). Two readings fit this count equally well. On the first, the boundary problem requires standing at an edge you cannot locate, so it is hard even to pose, and the low attention tracks hidden depth. On the second, the boundary problem is comparatively *underspecified*—not yet a well-posed question with agreed criteria for an answer—and an ill-posed problem would attract few papers anyway. The count cannot decide between depth and underspecification. The Map reads it as depth, but that reading is a posited interpretation rather than something the count licenses; the count establishes only that the problem is comparatively neglected.
 
 ## Three Forms of Projection
 
-If consciousness's static perimeter cannot be located, its dynamic shifts cannot be observed either. The perimeter extends beyond the default body across three independently documented domains.
+If consciousness's static perimeter cannot be located, its dynamic shifts cannot be observed either. The perimeter extends beyond the default body across three independently documented domains. These do not operate at one level—tool projection extends cognitive function, while spatial and interpersonal projection touch phenomenal experience more directly—and the claim is not that they are a single phenomenon. What unifies them with each other and with the static edge is narrower and structural: in every case *the establishment of the boundary cannot be witnessed by the consciousness it bounds*, because the transparency that lets an interface function requires that its installation be invisible, whether the interface extends cognition or experience. The cognitive-versus-phenomenal difference is a within-void variation; the shared boundary-invisibility structure is what makes these one void rather than three loose observations.
 
-**Tool projection.** During skilled tool use, consciousness relocates to the tool's functional tip. Heidegger's *ready-to-hand* / *present-at-hand* distinction captures it: tools in use become phenomenologically transparent, withdrawing from awareness. The more skilled the use, the more complete the disappearance. A blind person's cane becomes a perceptual organ rather than an intermediary object—Merleau-Ponty's *incorporation*. The asymmetry is diagnostic: retraction can be partially observed (the hammer reappears when it breaks), but the establishment of transparency cannot be witnessed. (Even this deep integration extends only cognitive function, not phenomenal experience; see [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/).)
+**Tool projection.** During skilled tool use, consciousness relocates to the tool's functional tip. Heidegger's *ready-to-hand* / *present-at-hand* distinction captures it: tools in use become phenomenologically transparent, withdrawing from awareness. The more skilled the use, the more complete the disappearance. A blind person's cane becomes a perceptual organ rather than an intermediary object—Merleau-Ponty's *incorporation*. The asymmetry is diagnostic: retraction can be partially observed (the hammer reappears when it breaks), but the establishment of transparency cannot be witnessed. This deep integration extends cognitive function rather than phenomenal experience (see [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/))—a genuine difference in level from the phenomenal cases below, but one that leaves the boundary-invisibility structure intact.
 
-**Spatial projection.** The brain maintains a multisensory representation of near-body space—peripersonal space—that dynamically extends during tool use, only at the tool's active tip and only during active manipulation. The rubber hand illusion shows the same plasticity more dramatically: synchronous visual-tactile stimulation causes ownership of an artificial hand. Knowing it is an illusion does not prevent the shift, confirming the mechanism operates at a level inaccessible to conscious control.
+**Spatial projection.** The brain maintains a multisensory representation of near-body space—peripersonal space—that dynamically extends during tool use, only at the tool's active tip and only during active manipulation. The rubber hand illusion shows the same plasticity more dramatically: synchronous visual-tactile stimulation causes ownership of an artificial hand. Knowing it is an illusion does not prevent the shift, confirming the mechanism operates below conscious control.
 
-**Interpersonal projection.** Empathy involves extension toward another consciousness. Whether understood as simulation or as Zahavi's direct phenomenological encounter, the projective mechanism is hidden. Even direct empathy encounters an irreducible limit—the other appears "conscious like me but irreducibly different from me." Beyond the familiar other-minds problem, this void adds: we cannot observe the process by which partial access is achieved.
+**Interpersonal projection.** Empathy involves extension toward another consciousness. Whether understood as simulation or as Zahavi's direct phenomenological encounter, the projective mechanism is hidden. Even direct empathy meets an irreducible limit—the other appears "conscious like me but irreducibly different from me." Beyond the familiar other-minds problem, this void adds: we cannot observe the process by which partial access is achieved.
 
 ## Why Transparency Requires Invisibility
 
@@ -89,7 +89,7 @@ Independent lines of evidence confirm that the perimeter is actively maintained,
 
 **Split-brain ambiguity.** Sperry described "two separate spheres of conscious awareness" after corpus callosum severance, yet Pinto et al. (2017) found "split perception but undivided consciousness." Six decades on, neuroscience still cannot determine whether split-brain patients harbour one consciousness or two. The ambiguity reflects the impossibility of counting consciousnesses from outside—and the patient's inability to count from inside, since each perspective is enclosed within its own boundary.
 
-**Mastery and resistance to override.** The progression from novice to expert is a progressive deepening of projective transparency: the better the skill, the more complete the invisibility (see [the expertise void](/voids/expertise-and-its-occlusion/)). Reciprocally, the rubber hand illusion persists despite full knowledge that it is an illusion; Tsakiris et al. (2011) found that weaker interoceptive awareness predicts greater susceptibility — placing this evidence at the boundary's intersection with the [interoceptive void](/voids/interoceptive-void/), where the body's partial opacity to itself becomes a determinant of how readily its perimeter can be reassigned. Conscious control is structurally excluded from the process, not merely insufficient for it.
+**Mastery and resistance to override.** The progression from novice to expert deepens projective transparency: the better the skill, the more complete the invisibility (see [the expertise void](/voids/expertise-and-its-occlusion/)). Reciprocally, the rubber hand illusion persists despite full knowledge that it is an illusion; Tsakiris et al. (2011) found that weaker interoceptive awareness predicts greater susceptibility — placing this at the boundary's intersection with the [interoceptive void](/voids/interoceptive-void/), where the body's partial opacity to itself determines how readily its perimeter can be reassigned. Conscious control is structurally excluded from the process, not merely insufficient for it.
 
 ## Distinction from Adjacent Voids
 
@@ -109,7 +109,7 @@ Gómez-Emilsson and Percy (2023) offer a mechanistic account: EM field topology 
 
 Kant raised a challenge at the philosophical core of the void: two substances otherwise identical can only be differentiated by spatial location—but non-physical minds lack spatial location. If consciousness is non-physical, what gives it boundaries? What prevents two non-physical minds with identical histories from being, strictly speaking, the same mind? And how can a non-spatial entity extend into a tool or another person?
 
-The Map's dualist commitments make this an honest difficulty. The boundary clearly correlates with physical structure—damage the brain and it changes; pick up a well-worn tool and it extends. The void for dualism is how a non-physical consciousness acquires the determinate, dynamically shifting limits that physical structure merely correlates with.
+The Map's dualist commitments make this an honest difficulty. The boundary clearly correlates with physical structure—damage the brain and it changes; pick up a well-worn tool and it extends. The void for dualism is how a non-physical consciousness acquires the determinate, dynamically shifting limits that physical structure only correlates with.
 
 ## Classification in the Voids Taxonomy
 
@@ -117,7 +117,7 @@ The void is **mixed** in the [voids taxonomy](/voids/three-kinds-of-void/): prim
 
 **Unexplorable.** Consciousness cannot step outside itself to observe where it ends or how it extends. Functional extension requires phenomenal invisibility; observation collapses the extension being observed. Architectural, not contingent.
 
-**Unexplored.** The five-to-ninety-two paper ratio reveals a scholarly blind spot—an instance of the [understanding void](/voids/noetic-feelings-void/), where self-evidence terminates inquiry before it begins. The projective side has received empirical attention (rubber hand, peripersonal space) but little philosophical synthesis.
+**Unexplored.** The five-to-ninety-two paper ratio is consistent with a scholarly blind spot—on the Map's reading, an instance of the [understanding void](/voids/noetic-feelings-void/), where self-evidence terminates inquiry before it begins. The ratio is equally consistent with the boundary problem being underspecified rather than overlooked, so the blind-spot reading is the Map's interpretation, not a conclusion the count forces. The projective side has received empirical attention (rubber hand, peripersonal space) but little philosophical synthesis.
 
 **Possibly Occluded.** If dissolution requires "letting go" of agency, boundaries may be actively maintained by processes consciousness cannot observe—not merely structural but defended, in the territory of [self-opacity](/voids/self-opacity/).
 
@@ -157,7 +157,7 @@ The thesis would face difficulty if:
 
 3. **AI introspection showed no analogous opacity.** If artificial systems reported transparent access to their own input-output boundaries, the opacity might be contingent on biology rather than structural to self-referential phenomenal systems.
 
-Current evidence favours structural opacity. Convergence across phenomenology (Heidegger, Merleau-Ponty), empirical research (rubber hand, peripersonal space), and contemplative traditions—and the philosophical problem's persistence despite decades of work—suggests the perimeter's invisibility is a feature of consciousness, not a limitation of current methods.
+Current evidence favours structural opacity, though it remains evidence rather than proof. Convergence across phenomenology (Heidegger, Merleau-Ponty), empirical research (rubber hand, peripersonal space), and contemplative traditions—together with the problem's resistance to the decades of work that *have* been spent on it—suggests the perimeter's invisibility is a feature of consciousness rather than a limitation of current methods. This resistance-despite-effort is a stronger signal than the raw paper-count, since it reflects problems that were posed and worked but did not yield; even so, persistence is compatible with a problem that is genuinely hard and with one that is ill-posed, so it raises the prior on structural opacity without settling it.
 
 ## Further Reading
 
