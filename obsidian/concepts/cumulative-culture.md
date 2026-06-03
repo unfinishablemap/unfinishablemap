@@ -4,7 +4,7 @@ description: "Cumulative culture requires metarepresentation—representing know
 created: 2026-01-21
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-06-03T07:08:33+00:00
+ai_modified: 2026-06-03T08:30:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -30,7 +30,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-21
 last_curated: null
-last_deep_review: 2026-05-17T14:04:26+00:00
+last_deep_review: 2026-06-03T08:30:00+00:00
 ---
 
 Cumulative culture is the ratchet effect whereby each generation builds on the innovations of previous generations, producing knowledge and technology that no individual could create alone. Humans alone achieve it. Great apes have culture—tool-use traditions, grooming patterns, food preferences that vary between groups—but their cultural knowledge remains stable across generations rather than accumulating. The Unfinishable Map proposes that cumulative culture requires [[metacognition|metarepresentation]]—representing your knowledge as knowledge, your practices as practices—and that metarepresentation requires phenomenal consciousness. If correct, cumulative culture provides strong evidence for the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet: consciousness doesn't merely accompany human cognition but causally enables our most distinctive achievement.
@@ -48,7 +48,7 @@ Apes possess the first two. They transmit cultural knowledge through emulation a
 
 ## The Zone of Latent Solutions
 
-Tomasello distinguishes two modes of cultural development:
+Tennie, Call, and Tomasello (2009) distinguish two modes of cultural development:
 
 **Zone of latent solutions**: Individuals rediscover techniques within their cognitive repertoire. A chimpanzee figures out that a stick extracts termites; others emulate the behaviour. But the technique doesn't improve over generations—chimpanzees today use essentially the same methods observed decades ago.
 
@@ -131,7 +131,7 @@ The cumulative culture hypothesis generates testable predictions:
 
 ## The Evolutionary Argument
 
-Cumulative culture strengthens the evolutionary argument for conscious causation. If consciousness were [[concepts/epiphenomenalism|epiphenomenal]]—causally inert—cumulative culture should be achievable through neural complexity alone. Great apes, with brains only slightly smaller than early human ancestors, should show at least proto-cumulative culture. They don't.
+Cumulative culture strengthens the evolutionary argument for conscious causation. If consciousness were [[epiphenomenalism|epiphenomenal]]—causally inert—cumulative culture should be achievable through neural complexity alone. Great apes, with brains only slightly smaller than early human ancestors, should show at least proto-cumulative culture. They don't.
 
 The pattern suggests consciousness does causal work. If the metarepresentational hypothesis is correct, consciousness enables the capacity cumulative culture requires. Small changes in conscious capacity may have produced the vast cultural gap between species—a gap the [[consciousness-and-cognitive-distinctiveness|consciousness threshold]] article frames as a phase transition, where consciousness becomes sufficiently integrated with neural architecture to enable qualitatively new operations. The pattern fits more naturally with consciousness contributing causally to cognition than with consciousness merely accompanying it—though epiphenomenalists may attribute the gap to as-yet-unidentified neural differences rather than to consciousness itself.
 

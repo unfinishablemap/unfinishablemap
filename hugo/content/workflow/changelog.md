@@ -9,6 +9,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T20:30:00+00:00 - deep-review
+- **Status**: Success (converged — citation hot-zone audit, 2 minor edits)
+- **File**: [cumulative-culture](/concepts/cumulative-culture/)
+- **Word count**: 3022 → 3026 (+4; soft_warning, under hard threshold)
+- **Citations web-verified**: 6 inline-load-bearing, all real + correct (Gruber 2015, Whiten 1999, Tennie/Call/Tomasello 2009, Dean 2012, Cowan 2001, Wellman 2001). No Whiten/Tomasello/Henrich substitution, no fabrication, no wrong-author defect.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (zone-of-latent-solutions attribution → Tennie/Call/Tomasello 2009; `[[concepts/epiphenomenalism]]` path-link normalized to bare slug)
+- **Enhancements made**: 2
+- **Engagement modes** (editor-internal): Frankish/illusionism Mixed (Mode One/Two), Tomasello/gradualist Mode Two, MWI Mode Three bedrock — unchanged, no label leakage
+- **Output**: [deep-review-2026-06-03-cumulative-culture](/reviews/deep-review-2026-06-03-cumulative-culture/)
+
 ## 2026-06-03T20:05:00+00:00 - deep-review
 - **Status**: Success (converged — no changes)
 - **File**: [phenomenology](/concepts/phenomenology/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-06-03 07:08:33+00:00
+ai_modified: 2026-06-03 08:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Cumulative culture requires metarepresentation—representing knowl
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-17 14:04:26+00:00
+last_deep_review: 2026-06-03 08:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -50,7 +50,7 @@ Apes possess the first two. They transmit cultural knowledge through emulation a
 
 ## The Zone of Latent Solutions
 
-Tomasello distinguishes two modes of cultural development:
+Tennie, Call, and Tomasello (2009) distinguish two modes of cultural development:
 
 **Zone of latent solutions**: Individuals rediscover techniques within their cognitive repertoire. A chimpanzee figures out that a stick extracts termites; others emulate the behaviour. But the technique doesn't improve over generations—chimpanzees today use essentially the same methods observed decades ago.
 
