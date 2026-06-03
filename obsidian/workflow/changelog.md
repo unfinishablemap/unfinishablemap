@@ -5,6 +5,18 @@ ai_modified: 2026-06-03T11:32:44+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T12:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/the-agent-shaped-hole]]
+- **Pick**: justified — scorer top candidate (score 100, never reviewed). First review of an article authored same session (created 2026-06-03T11:45). Not an oscillation no-op: recording a genuine first review.
+- **Word count**: 1609 → 1609 (no change; 64% of 2500 soft target)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 — clean, well-calibrated article; convergence on first authoring
+- **Integrity**: QBism "primitive and irreducible" quote web-verified against SEP/Wikipedia — faithful Fuchs/Schack characterization, not a misattributed specific-paper quote. 3 References all self-cite to genuine Map articles. All 8 Further Reading + frontmatter links resolve ([[interactionist-dualism]] → live concept page, archived arguments-copy superseded, no link-rot). No fabricated/double/orphaned cites.
+- **Calibration**: no possibility/probability slippage — article's own §"What the Diagnostic Does Not Establish" rigorously refuses defeater-removal→evidence-upgrade. Named-opponent engagements Mode Two→Three, honest boundary-marking, no label leakage in prose.
+- **Output**: [[reviews/deep-review-2026-06-03-the-agent-shaped-hole]]
+
 ## 2026-06-03T12:05:18+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/panpsychisms-combination-problem]] (+ [[topics/forward-in-time-conscious-selection]])
