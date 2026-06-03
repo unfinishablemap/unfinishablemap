@@ -9,6 +9,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T13:45:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Ramanujan as a cross-tradition phenomenology-of-reception exhibit
+- **Output**: [ramanujan-and-the-phenomenology-of-mathematical-reception](/topics/ramanujan-and-the-phenomenology-of-mathematical-reception/)
+- **Word count**: 1946
+- **Based on research**: no (web-verified biographical/phenomenology claims against Hardy 1940, Kanigel 1991, Inference Review; confabulation reading held prominent, Hardy as external-validation hinge / explanandum-not-proof, all reception claims at report tier)
+- **Integration**: repointed the consciousness-and-mathematics §Ramanujan stub and comparative-phenomenology bridge-case mention to the standalone; reciprocal cross-links added in both plus incubation-effect and creative-consciousness
+
+## 2026-06-03T13:30:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Berridge wanting/liking dissociation as value-in-mechanism fork empirical anchor
+- **Output**: [berridge-wanting-liking-value-in-mechanism-fork-2026-06-03](/research/berridge-wanting-liking-value-in-mechanism-fork-2026-06-03/)
+- **Sources consulted**: 7 (all citations publisher/PubMed/PMC-verified or triangulated across ≥3 indices; flagged 2 triangulated-not-publisher-read)
+
 ## 2026-06-03T00:00:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Direction-dependent discriminating-test design for the interface model

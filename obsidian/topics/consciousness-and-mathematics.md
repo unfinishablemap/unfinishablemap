@@ -51,6 +51,7 @@ related_articles:
   - "[[epistemic-advantages-of-dualism]]"
   - "[[comparative-phenomenology-of-mathematical-insight]]"
   - "[[concession-convergence-philosophy-of-mathematics]]"
+  - "[[ramanujan-and-the-phenomenology-of-mathematical-reception]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -153,7 +154,7 @@ Mathematicians overwhelmingly describe their work as finding rather than inventi
 
 ### Ramanujan and the Phenomenology of Reception
 
-Srinivasa Ramanujan produced thousands of results of extraordinary depth that he described as received in dreams and visions. Many of his results involved infinite series and continued fractions whose derivations, if any existed, were far from obvious—making brute mechanical search an implausible explanation. Something in his cognitive process tracked mathematical truth with remarkable reliability, and the phenomenology he reported—vision, reception, certainty without formal derivation—suggests this tracking operated through phenomenal consciousness rather than around it.
+Srinivasa Ramanujan produced thousands of results of extraordinary depth that he described as received in dreams and visions. Many involved infinite series and continued fractions whose derivations, if any existed, were far from obvious—making brute mechanical search an implausible explanation. Something in his cognitive process tracked mathematical truth with notable (though imperfect) reliability. Crucially, this is a report of the *pattern to be explained*, not evidence for any particular mechanism: the reception phenomenology on its own cannot decide between a consciousness-doing-epistemic-work reading and a wholly computational subliminal-search reading, and his documented errors (an unsound prime-counting argument) rule out treating his intuition as a truth-oracle. What converts the uncheckable first-person report into a public fact is external validation: Hardy's verification of the formulas. The [[ramanujan-and-the-phenomenology-of-mathematical-reception|standalone treatment of Ramanujan as a worked exhibit in register-separation]] develops the confabulation objection, the Hardy hinge, and exactly what the case can and cannot establish.
 
 ### External Validation
 

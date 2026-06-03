@@ -30,6 +30,7 @@ related_articles:
 - '[[consciousness-and-mathematics]]'
 - '[[surprise-prediction-error-and-consciousness]]'
 - '[[creative-aesthetic-void]]'
+- '[[ramanujan-and-the-phenomenology-of-mathematical-reception]]'
 title: The Incubation Effect and Unconscious Processing
 topics:
 - '[[hard-problem-of-consciousness]]'

@@ -25,6 +25,7 @@ related_articles:
   - "[[consciousness-and-mathematics]]"
   - "[[surprise-prediction-error-and-consciousness]]"
   - "[[creative-aesthetic-void]]"
+  - "[[ramanujan-and-the-phenomenology-of-mathematical-reception]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

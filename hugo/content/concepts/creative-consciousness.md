@@ -42,6 +42,7 @@ related_articles:
 - '[[consciousness-and-skill-acquisition]]'
 - '[[incubation-effect-and-unconscious-processing]]'
 - '[[consciousness-and-cognitive-distinctiveness]]'
+- '[[ramanujan-and-the-phenomenology-of-mathematical-reception]]'
 - '[[phenomenology-of-intellectual-life]]'
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[phenomenology-of-conceptual-frameworks]]'
