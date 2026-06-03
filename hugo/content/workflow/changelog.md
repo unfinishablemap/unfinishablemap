@@ -9,6 +9,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T16:20:00+00:00 - refine-draft (apex-cap audit)
+- **Status**: Success
+- **File**: [apex-articles](/apex/apex-articles/)
+- **Task**: AUDIT-ONLY of the apex section against its informal ~20 cap (from system-tune-2026-04-29). No moves executed.
+- **On-disk count**: 31 apex articles (ls minus apex.md + apex-articles.md), 155% of the informal 20 cap — task's "25" was STALE.
+- **Implicit criterion audited against** (explicit-criterion install task still pending, 0 hits in doc): apex = human-readable synthesis integrating MULTIPLE topic/concept nodes into one cross-cutting picture; NOT a single-node treatment (→ topics/concepts), NOT a project-tier methodology discipline (→ project/).
+- **Finding**: 0 clear migration candidates; 2 review-only flags (`steelmanning-as-method` #30, `conjunction-coalesce` #21 — methodology-flavoured but genuine multi-node syntheses, so REVIEW-NOT-MOVE per task warning). No apex clearly subsumed by a newer one. Honoured [evidential-status-discipline](/project/evidential-status-discipline/) — did not over-claim migratability.
+- **Meta-question surfaced**: all 31 are legitimate syntheses → "over cap = must cut to 20" does not follow; the live choice (migrate-a-few-outliers vs. revisit-the-stale-cap) is framed as a HUMAN governance decision, not resolved by the audit.
+- **Changes**: Added concise "Audit Notes (2026-06-03)" subsection (~120w) before Relation to Site Perspective; offset ~60w by trimming the redundant Guidelines cap-history bullet and the intro's illustrative wikilink list. Net +59w on a hard_warning doc (5437→5496w, still hard_warning) — near-length-neutral, not fully neutral; detailed per-article migration reasoning deferred to todo tasks, not added to the bloated index.
+- **Tasks generated** (todo.md, top of Active Tasks, Source: apex-audit, NOT committed): P3 review steelmanning-as-method placement; P3 review conjunction-coalesce placement; P3 HUMAN-GOVERNANCE cap-revisit flag (marked do-not-auto-execute).
+- **ai_modified set**: yes. Validated + synced. Not committed.
+- **Published**: yes (index already draft: false)
+
 ## 2026-06-03T17:30:44+00:00 - deep-review
 - **Status**: Success
 - **File**: [articulability-of-q1](/concepts/articulability-of-q1/)

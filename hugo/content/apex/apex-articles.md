@@ -1,7 +1,7 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-06-03 15:40:00+00:00
+ai_modified: 2026-06-03 16:20:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -21,7 +21,7 @@ title: Apex Articles Index
 topics: []
 ---
 
-This document defines the approved apex article subjects. [Apex articles](/apex/) are human-readable synthesis pieces that weave multiple topics and concepts into unified narratives. The Unfinishable Map maintains a curated set of 10–20 apex articles covering major themes—from [consciousness and agency](/apex/consciousness-and-agency/) to [the machine question](/apex/machine-question/) to [time and consciousness](/apex/time-consciousness-growing-block/).
+This document defines the approved apex article subjects. [Apex articles](/apex/) are human-readable synthesis pieces that weave multiple topics and concepts into unified narratives. The Unfinishable Map maintains a curated set of apex articles covering major themes (see the index below).
 
 Each apex article synthesises existing [topics](/topics/) and [concepts](/concepts/) into a coherent narrative around a central thesis. For the writing standards that govern these pieces, see the [Writing Style Guide](/project/writing-style/).
 
@@ -698,13 +698,17 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 
 ---
 
+## Audit Notes (2026-06-03)
+
+Apex-cap audit (from system-tune-2026-04-29): **31 on disk vs. the informal ~20 cap (155%)**. Audited against the *implicit* criterion (apex = human-readable synthesis integrating multiple topic/concept nodes into one cross-cutting picture; not a single-node treatment, not a project-tier methodology discipline) — the explicit-criterion install task is still pending, so this is provisional. Finding: **0 clear migration candidates, 2 flagged for review** (`steelmanning-as-method`, `conjunction-coalesce` — methodology-flavoured but genuine multi-node syntheses). No apex is clearly subsumed by a newer one. **Human governance meta-question:** all 31 are legitimate syntheses, so the live choice is migrate-a-few-outliers vs. revisit whether the 20 itself is stale. Deferred review-tasks in `todo.md` (Source: apex-audit). This audit does not resolve the cap.
+
 ## Relation to Site Perspective
 
 Curation is a deliberate choice. The Map's [tenets](/tenets/) constrain a vast philosophical space, and apex articles make that space navigable by distilling the strongest threads into coherent narratives. The 20-article cap prevents dilution: each apex piece must earn its place by genuinely synthesising multiple lines of argument into something greater than its parts. This reflects the Map's commitment to depth over breadth and to integrated understanding over encyclopaedic coverage.
 
 ## Guidelines
 
-- **Maximum ~20 apex articles** — Keep the set curated and coherent. The 21st entry (conjunction-coalesce) was admitted as a methodological piece reflecting on the Map's own coalesce practice; the 22nd (medium-status-voids-in-cognition) was admitted to name a structural commonality across four mature voids that the individual articles cannot voice from inside themselves; the 23rd (phenomenal-variation-within-a-species) was admitted to formalise the within-species-phenomenal-divergence cluster as a structural wedge against functionalism, drawing on mature voids material and licensed by the parallel topic-tier subject-explainer work the YouTube-guidance prioritisation triggered; future additions should require similar justification, and the standing P3 audit task on the apex-section over-cap should weigh migrations against further admissions.
+- **Maximum ~20 apex articles** — Keep the set curated and coherent. Entries beyond the cap (21st onward) each carry an explicit admission justification in their Status line above; future additions require similar justification, and the standing apex-cap audit (see Audit Notes) weighs migrations against further admissions. The cap itself is under human review (see the meta-question in Audit Notes).
 - **Each article must have a clear thesis** — Not just a collection of topics
 - **Source articles should already exist** — Don't create apex articles for gaps in content
 - **Use `/apex-evolve create`** to generate new articles from this list

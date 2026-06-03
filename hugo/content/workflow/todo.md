@@ -38,6 +38,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Review apex/steelmanning-as-method.md placement (apex vs. project/ methodology)
+- **Type**: refine-draft
+- **Status**: pending
+- **Source**: apex-audit
+- **Generated**: 2026-06-03
+- **Notes**: Deferred from the apex-cap audit (apex-articles.md Audit Notes, 2026-06-03; apex at 31 on disk vs. informal ~20 cap). This is a REVIEW task, NOT a move — do NOT migrate or archive without a human decision. `steelmanning-as-method` (#30) is methodology-flavoured (its thesis names a procedural method; sources include 5 project/ discipline files), which superficially suggests project/. BUT it is a genuine human-readable multi-node synthesis: it integrates the discipline files with 3 worked apex exhibits (`phenomenal-output-causal-machinery-dissociation`, `moral-architecture-of-consciousness`, `phenomenology-mechanism-bridge`) into one cross-cutting picture of the Map's constructive method — exactly the apex profile, not a single-node treatment. The audit's conservative finding is REVIEW-NOT-MOVE; most likely outcome is "legitimate apex, retain." Scope: confirm it still reads as cross-cutting synthesis (multiple nodes) rather than a single-discipline writeup that belongs in project/; if it is genuine synthesis, mark retained and record the rationale. Honour [evidential-status-discipline](/project/evidential-status-discipline/) — do not over-claim migratability. Depends on the still-pending "Install explicit apex-placement criterion" task; until that lands the criterion here is implicit (apex = multi-node human-readable synthesis). See apex-articles.md Audit Notes.
+
+### P3: Review apex/conjunction-coalesce.md placement (apex vs. project/ methodology)
+- **Type**: refine-draft
+- **Status**: pending
+- **Source**: apex-audit
+- **Generated**: 2026-06-03
+- **Notes**: Deferred from the apex-cap audit (apex-articles.md Audit Notes, 2026-06-03). REVIEW task, NOT a move — do NOT migrate/archive without a human decision. `conjunction-coalesce` (#21) reflects on the Map's own coalesce practice (methodology flavour) but synthesises 6+ voids articles (`agency-void`, `voids-between-minds`, `erasure-void`, `transit-void`, `thrownness-void`, `temporal-void`) plus `apex/taxonomy-of-voids` into a named, testable practice — a genuine multi-node cross-cutting synthesis, the apex profile. Conservative finding: REVIEW-NOT-MOVE; likely outcome "legitimate apex, retain." Scope: confirm it remains a multi-node synthesis (not a single-discipline writeup belonging in project/); mark retained with rationale if so. Honour [evidential-status-discipline](/project/evidential-status-discipline/). Implicit criterion only until the explicit-criterion install task lands. See apex-articles.md Audit Notes.
+
+### P3: HUMAN GOVERNANCE — revisit the informal ~20 apex cap (apex at 31 / 155%)
+- **Type**: refine-draft
+- **Status**: pending
+- **Source**: apex-audit
+- **Generated**: 2026-06-03
+- **Notes**: Deferred from the apex-cap audit (apex-articles.md Audit Notes, 2026-06-03). META-QUESTION FOR HUMAN DECISION, not auto-resolvable — do NOT auto-condense, migrate, or delete any apex on the strength of this task. The audit found all 31 apex articles are LEGITIMATE multi-node syntheses (0 clear migration candidates; 2 review-only flags handled by sibling tasks above). So "over cap = must cut to 20" does NOT follow. The live governance choice is binary and belongs to the human: (i) migrate/coalesce a few genuine outliers back toward ~20, OR (ii) accept that the corpus now supports more cross-cutting syntheses than 20 and raise/retire the informal cap. This task is a STANDING flag carrying the question; the loop should NOT pick it for execution (mark as Needs-Human if a fork mis-picks it). Related dependency: the still-pending "Install explicit apex-placement criterion" task — installing that criterion would let a future audit re-run against an explicit standard rather than the implicit one used here. See apex-articles.md Audit Notes.
+
 ### ✓ P2: Fix impossible date in topics/ramanujan-and-the-phenomenology-of-mathematical-reception.md
 - **Type**: refine-draft
 - **Status**: done (2026-06-03 — fixed inline same-cycle as the pessimistic-review that found it). One-token factual fix: "29 February 1913" (impossible — 1913 not a leap year) → "27 February 1913" (Ramanujan's second letter to Hardy, per Berndt & Rankin, the article's own ref 3). First letter date (16 January 1913) correct. All other cites web-verified CLEAN by the review. Fixed directly rather than spinning a separate refine-draft fork on a single character.  See [pessimistic-2026-06-03-ramanujan-and-the-phenomenology-of-mathematical-reception](/reviews/pessimistic-2026-06-03-ramanujan-and-the-phenomenology-of-mathematical-reception/).
