@@ -1,13 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03 21:45:00+00:00
+ai_modified: 2026-06-03 22:30:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-03'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-03T22:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phantom-limb-phenomena](/topics/phantom-limb-phenomena/)
+- **Word count**: 3576 → 3576 (citation-metadata fix only; canonical analyze_length, soft_warning 119% of 3000, under 4000 hard)
+- **Critical issues addressed**: 1 (Guémann 2023 wrong DOI `ejp.2049`→`ejp.2035` + paraphrased title corrected to publisher-of-record title; 3-state verdict real-paper/WRONG-metadata→FIX. Vol/issue/pages and in-text gloss were already correct.)
+- **Citation web-verify**: 5 hot-zone new-since-last-review cites checked at publisher of record. Schone 2025 (Nat Neurosci, DOI 02037-7), Makin & Krakauer 2023 (eLife e84716), Rajendram 2022 (BMJ Mil Health 168(2) 173–177), De Ridder/Vanneste/Freeman 2014 (Neurosci Biobehav Rev 44:4–15) all VERIFIED. Only Guémann had a defect.
+- **Calibration**: no possibility/probability slippage. Post-condense content (common-cause-null audit, "redemption within physicalist resources" anchor, somatic-interface-as-imported-commitment para) is the most calibration-disciplined material in the article — explicit "neither interpretation is forced by the phantom evidence alone."
+- **Reasoning-mode (editor-internal)**: neuromatrix Mode Two; predictive-processing Mode Two deepened + Mode Three residue declared; mirror-therapy Mode Three. No label leakage (grep clean).
+- **Convergence**: third deep review; converged. Re-pick was legitimate (ai_modified 2026-05-19 absorbed the full 2026-05-16 carry-over citation backlog, never deep-reviewed).
+- **Output**: [deep-review-2026-06-03-phantom-limb-phenomena](/reviews/deep-review-2026-06-03-phantom-limb-phenomena/)
+
+## 2026-06-03T16:40:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/)
+- **Changes**: Surgical citation-gloss downgrade at §"What the Corridor Is" (L55), acting on pessimistic-2026-06-03 finding. Han & Choi (2016) was credited with a "per-trial information-theoretic capacity vanishes asymptotically as trials grow" theorem the paper does not prove (possibility→theorem upgrade per [evidential-status-discipline](/project/evidential-status-discipline/)). Downgraded to the qualitative claim the source actually supports: Han & Choi derive the Born rule from a strengthened relativistic-causality condition under which Born-deviating probability assignments enable superluminal signalling, so a strictly Born-compliant selection channel transmits no ensemble-level information. Citation retained (paper is genuine — Sci. Rep. 6:22986); only the gloss corrected. Article's conclusion survives on the qualitative no-signalling argument and dovetails with the existing Torres Alegre 2025 (Φ(p)=p unique under no-signalling) cite. Other 3 hot-zone cites (Torres Alegre, Arana 2025, Kerskens & López Pérez 2022) untouched.
+- **Anchoring**: evaluate_anchoring() returns [] post-edit (no strong-assertion verb reintroduced; downgrade lowers assertion strength).
+- **Length**: 3734w (soft_warning, hard 4000); ~length-neutral, within ceiling.
+- **Published**: yes (draft norms preserved; uncommitted)
 
 ## 2026-06-03T22:15:00+00:00 - pessimistic-review
 - **Status**: Success

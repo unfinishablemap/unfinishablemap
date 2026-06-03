@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03T21:45:00+00:00
+ai_modified: 2026-06-03T22:30:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-03T22:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phantom-limb-phenomena]]
+- **Word count**: 3576 → 3576 (citation-metadata fix only; canonical analyze_length, soft_warning 119% of 3000, under 4000 hard)
+- **Critical issues addressed**: 1 (Guémann 2023 wrong DOI `ejp.2049`→`ejp.2035` + paraphrased title corrected to publisher-of-record title; 3-state verdict real-paper/WRONG-metadata→FIX. Vol/issue/pages and in-text gloss were already correct.)
+- **Citation web-verify**: 5 hot-zone new-since-last-review cites checked at publisher of record. Schone 2025 (Nat Neurosci, DOI 02037-7), Makin & Krakauer 2023 (eLife e84716), Rajendram 2022 (BMJ Mil Health 168(2) 173–177), De Ridder/Vanneste/Freeman 2014 (Neurosci Biobehav Rev 44:4–15) all VERIFIED. Only Guémann had a defect.
+- **Calibration**: no possibility/probability slippage. Post-condense content (common-cause-null audit, "redemption within physicalist resources" anchor, somatic-interface-as-imported-commitment para) is the most calibration-disciplined material in the article — explicit "neither interpretation is forced by the phantom evidence alone."
+- **Reasoning-mode (editor-internal)**: neuromatrix Mode Two; predictive-processing Mode Two deepened + Mode Three residue declared; mirror-therapy Mode Three. No label leakage (grep clean).
+- **Convergence**: third deep review; converged. Re-pick was legitimate (ai_modified 2026-05-19 absorbed the full 2026-05-16 carry-over citation backlog, never deep-reviewed).
+- **Output**: [[reviews/deep-review-2026-06-03-phantom-limb-phenomena]]
 
 ## 2026-06-03T16:40:00+00:00 - refine-draft
 - **Status**: Success

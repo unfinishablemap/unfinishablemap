@@ -4,8 +4,8 @@ description: "Phantom limbs reveal that bodily experience is brain-constructed a
 created: 2026-05-08
 modified: 2026-05-16
 human_modified:
-ai_modified: 2026-05-19T14:59:41+00:00
-last_deep_review: 2026-05-16T08:52:00+00:00
+ai_modified: 2026-06-03T22:30:32+00:00
+last_deep_review: 2026-06-03T22:30:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -140,7 +140,7 @@ None would be definitive on its own; each would shift the evidential balance.
 1. Flor, H., Elbert, T., Knecht, S., Wienbruch, C., Pantev, C., Birbaumer, N., Larbig, W. & Taub, E. (1995). Phantom-limb pain as a perceptual correlate of cortical reorganization following arm amputation. *Nature*, 375(6531), 482–484.
 1. Flor, H., Nikolajsen, L. & Jensen, T. S. (2006). Phantom limb pain: A case of maladaptive CNS plasticity? *Nature Reviews Neuroscience*, 7(11), 873–881.
 1. Foell, J., Bekrater-Bodmann, R., Diers, M. & Flor, H. (2014). Mirror therapy for phantom limb pain: Brain changes and the role of body representation. *European Journal of Pain*, 18(5), 729–739.
-1. Guémann, M., Olié, E., Raquin, L., Courtet, P. & Risch, N. (2023). Effect of mirror therapy on phantom limb pain: A systematic review of placebo-controlled randomised controlled trials. *European Journal of Pain*, 27(1), 3–13. https://doi.org/10.1002/ejp.2049
+1. Guémann, M., Olié, E., Raquin, L., Courtet, P. & Risch, N. (2023). Effect of mirror therapy in the treatment of phantom limb pain in amputees: A systematic review of randomized placebo-controlled trials does not find any evidence of efficacy. *European Journal of Pain*, 27(1), 3–13. https://doi.org/10.1002/ejp.2035
 1. Kiverstein, J., Kirchhoff, M. D. & Thacker, M. (2022). An embodied predictive processing theory of pain experience. *Review of Philosophy and Psychology*, 13(4), 973–998. https://doi.org/10.1007/s13164-022-00616-2
 1. Lersch, F., Frickmann, F., Urman, R. D. & Luedi, M. M. (2023). Analgesia for the Bayesian brain: How predictive coding offers insights into the subjective experience of pain. *Current Pain and Headache Reports*, 27(11), 631–638. https://doi.org/10.1007/s11916-023-01122-5
 1. Makin, T. R., Scholz, J., Filippini, N., Henderson Slater, D., Tracey, I. & Johansen-Berg, H. (2013). Phantom pain is associated with preserved structure and function in the former hand area. *Nature Communications*, 4, 1570. https://doi.org/10.1038/ncomms2571
