@@ -9,6 +9,22 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T09:40:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/)
+- **Verdict**: Justified-pick (25-day large-gap staleness) → converged no-op. Citation-integrity audit; no body edits, cosmetic timestamp bump only.
+- **Word count**: 3921 → 3921 (no change; 98% of apex/ 4000 soft, under 5000 hard)
+- **Citations web-verified at publisher of record (7)**: Zeman 2024 (TiCS, DOI .tics.2024.02.007) ✓; Kay/Keogh/Pearson 2024 (Conscious.&Cogn. 121:103694) ✓ + verbatim quote-string confirmed in-paper; Lennon 2023 (Oxford Studies Phil. Mind v3, Kriegel ed., OUP) ✓; van Leeuwen/Singer/Nikolić 2015 (Front. Psychol. 6:1850) ✓; Dawes/Keogh/Andrillon/Pearson 2020 (Sci. Rep. 10:10022) ✓; Gray 2003 (TiCS 7:192-194 — famous-name registry: genuinely Jeffrey A. Gray, not a substitution) ✓; Johansson et al. 2005 (Science 310:116-119) ✓. No defects; not corpus-wide.
+- **apex_sources integrity**: all 15 entries resolve to live files; no archival-rot repoints needed; ref-list URLs (#20-22) live.
+- **Quote audit**: Kay/Keogh/Pearson verbatim string surfaced the same cited paper; no quote-cite mismatch.
+- **Calibration**: evidential-status tiers intact (findings "well established"; joint wedge "speculative-integration"; bidirectional reading "explicitly speculation"); no possibility/probability slippage; no over-hedging added.
+- **Engagement (editor-internal)**: functionalism — Mixed Mode Two + Mode Three; no label leakage in prose.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Follow-on flagged**: recommend longer staleness interval before next deep-review (converged; cf. deep_review_over_reviews_converged)
+- **Output**: [deep-review-2026-06-03-phenomenal-variation-within-a-species](/reviews/deep-review-2026-06-03-phenomenal-variation-within-a-species/)
+
 ## 2026-06-03T09:34:44+00:00 - refine-draft
 - **Status**: Success
 - **File**: [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/)
