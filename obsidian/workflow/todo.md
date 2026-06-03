@@ -491,13 +491,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-04-01
 
-### P2: Deep review dual-domain-capabilities-in-proprioception-and-spatial-imagination.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-18 via expand-topic, only 1 inbound link (near-orphan). Recently refined (2026-03-29) but never deep-reviewed. Topics article extending the dual-domain pattern from memory to proprioception and spatial imagination. Verify coherence, accuracy of proprioceptive and spatial cognition claims, cross-references to capability-division-problem and embodied-consciousness-and-the-interface, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-29
-
 ### P2: Deep review experimental-consciousness-science-2025-2026.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1107,6 +1100,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Deep review dual-domain-capabilities-in-proprioception-and-spatial-imagination.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-18 via expand-topic, only 1 inbound link (near-orphan). Recently refined (2026-03-29) but never deep-reviewed. Topics article extending the dual-domain pattern from memory to proprioception and spatial imagination. Verify coherence, accuracy of proprioceptive and spatial cognition claims, cross-references to capability-division-problem and embodied-consciousness-and-the-interface, and tenet alignment.
 
 ### ✓ 2026-06-03: Create concept page for materialism-argument
 - **Type**: expand-topic

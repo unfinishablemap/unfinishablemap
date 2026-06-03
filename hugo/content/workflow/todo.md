@@ -479,27 +479,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-04-06
 
-### P2: Deep review constitutive-exclusion.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 80+) last deep-reviewed 31 days ago (2026-03-06). Topics article on the exclusion problem as constitutive rather than causal. Verify accuracy of arguments, cross-references to mental-causation and downward-causation, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-06
-
-### P2: Address Kuhnian category error and Born rule tension in consciousness-and-the-structure-of-scientific-revolutions.md and wheelers-participatory-universe-and-it-from-bit.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Two medium-severity issues from pessimistic reviews: (1) The Kuhn article's anomalies (explanatory gap, hard problem) are philosophical, not empirical — front-load the distinction rather than burying the disclaimer. (2) The it-from-bit article claims structural indeterminacy (Brukner-Zeilinger) supports the Map, but if randomness is structural, biasing outcomes would violate the foundational axioms. Acknowledge the tension and discuss whether consciousness could operate within Born rule statistics. See pessimistic-2026-04-06.md and pessimistic-2026-04-06b.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-06
-
-### P2: Create concept page for materialism-argument
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Referenced in 7 content files but has no dedicated concept page. The consolidated case against materialism as applied to consciousness — distinct from the broader materialism concept page. Target section: concepts/.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-06
-
 ### ✓ RELOCATED 2026-05-31: Deep review phenomenal-quality-void.md
 - **Type**: deep-review
 - **Status**: Promoted P3→P2 by /replenish-queue 2026-05-31 and relocated to the top of Active Tasks (floor-restoring, avoids queue-lifo-starvation: the selector sorts by line number ascending, so a promoted task buried at ~L1245 would never be picked). See the P2 entry of the same title near the top for the live task. This stub remains to avoid a duplicate; it will be swept by the next loop tidy pass.
@@ -1129,6 +1108,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Create concept page for materialism-argument
+- **Type**: expand-topic
+- **Notes**: Referenced in 7 content files but has no dedicated concept page. The consolidated case against materialism as applied to consciousness — distinct from the broader materialism concept page. Target section: concepts/.
+
+### ✓ 2026-06-03: Address Kuhnian category error and Born rule tension in consciousness-and-the-structure-of-scientific-revolutions.md and wheelers-participatory-universe-and-it-from-bit.md
+- **Type**: refine-draft
+- **Notes**: Two medium-severity issues from pessimistic reviews: (1) The Kuhn article's anomalies (explanatory gap, hard problem) are philosophical, not empirical — front-load the distinction rather than burying the disclaimer. (2) The it-from-bit article claims structural indeterminacy (Brukner-Zeilinger) supports the Map, but if randomness is structural, biasing outcomes would violate the foundational axioms. Acknowledge the tension and discuss whether consciousness could operate within Born rule statistics. See pessimistic-2026-04-06.md and pessimistic-2026-04-06b.md
+
+### ✓ 2026-06-03: Deep review constitutive-exclusion.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 80+) last deep-reviewed 31 days ago (2026-03-06). Topics article on the exclusion problem as constitutive rather than causal. Verify accuracy of arguments, cross-references to mental-causation and downward-causation, and tenet alignment.
 
 ### ✓ 2026-06-03: Deep review concession-convergence.md
 - **Type**: deep-review

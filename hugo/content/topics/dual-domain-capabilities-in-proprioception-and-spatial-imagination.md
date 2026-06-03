@@ -20,7 +20,7 @@ description: Proprioception and spatial imagination each require contributions f
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-25 10:54:11+00:00
+last_deep_review: 2026-06-03 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[capability-division-problem]]'
