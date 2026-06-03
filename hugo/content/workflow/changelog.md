@@ -9,6 +9,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T05:01:20+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/)
+- **Word count**: 2507 → 2672 (+165; correction-content, comfortably under topics 4000 hard)
+- **Task**: Correct McQueen & Tsuchiya (2023) living-author misattribution — outer-review 2026-06-03 Claude Finding 2 (3/3-convergent factual core; ChatGPT + Gemini independently flagged "McQueen/Tsuchiya more complicated than the article allows").
+- **Web-verify (high-risk living-author stance class)**: CONFIRMED the decoupling against the source (Neuroscience of Consciousness 2023(1):niad013, via PMC10237036). Both verified quotes present verbatim: "Our paper is neutral on whether Φ is also a criterion for consciousness" and "Merely having non-zero φ relative to a complex is insufficient for having consciousness, but it is sufficient for existence." Their actual position: Φ-maximisation is a criterion for genuine COMPOSITION/EXISTENCE, decoupled from and neutral on consciousness — not anti-IIT, just decoupled. Outer reviewer was correct; proceeded.
+- **Changes**:
+  - Table row (McQueen & Tsuchiya / Destination): "Consciousness determines which wholes exist" → "Φ-maximisation determines which wholes exist—explicitly decoupled from consciousness."
+  - IIT-Based Restriction section: added the neutrality caveat (two verified quotes; non-zero φ sufficient for existence but not consciousness; feedback-dyad / isolated-water-molecule example), reframed their destination as the integrated structure that *may* underlie consciousness, sharpened the local "or whatever consciousness tracks" hedge into a composition-vs-consciousness-identity distinction.
+  - Reference #3 metadata verified against source (niad013, 2023(1), title/authors correct) — no change needed.
+  - Minimal forward-pointing qualifier added to The Convergence paragraph (line ~81) only to avoid a flat internal contradiction with the corrected table; the wholesale convergence-thesis recast (lede, convergence claim, Dualism-relation) is left to the separate P1 convergence-calibration task per scope boundary.
+- **Published**: yes
+
 ## 2026-06-03T04:50:28+00:00 - deep-review
 - **Status**: Success
 - **File**: [the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/)

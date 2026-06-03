@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-06-03 04:42:43+00:00
+ai_modified: 2026-06-03 05:01:20+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -65,11 +65,11 @@ The criterion for genuine composition, on Merricks' view, is possession of irred
 
 ### McQueen and Tsuchiya's IIT-Based Restriction
 
-McQueen and Tsuchiya (2023) approach the SCQ from a different direction entirely. They propose Integrated Information Theory (IIT) as the restriction on mereological composition: composition occurs when integrated information (Φ) is maximised—when the whole constrains its past and future states more than its parts do individually.
+McQueen and Tsuchiya (2023) approach the SCQ from a different direction entirely. They propose the integrated information measure of Integrated Information Theory (IIT) as the restriction on mereological composition: composition occurs when integrated information (Φ) is maximised—when the whole constrains its past and future states more than its parts do individually.
 
-This criterion avoids the vagueness problems plaguing other restricted composition proposals. It provides a precise, measurable threshold. And it connects consciousness directly to the most fundamental metaphysical question about which objects exist: the same measure (Φ) that purportedly measures consciousness also determines when genuine wholes exist.
+This criterion avoids the vagueness problems plaguing other restricted composition proposals and provides a precise, measurable threshold. Crucially, though, McQueen and Tsuchiya decouple their composition criterion from consciousness. Φ-maximisation answers the *composition* question—it determines which things exist as genuine wholes—and they are explicitly neutral on whether Φ also serves as the criterion for *consciousness*: "merely having non-zero φ relative to a complex is insufficient for having consciousness, but it is sufficient for existence," and "our paper is neutral on whether Φ is also a criterion for consciousness." On their view a simple feedback dyad or an isolated water molecule can be a genuine composite—a real whole, not a mere aggregate—without being conscious. So their destination is not "consciousness determines which wholes exist" but "the integrated-information structure that *may* underlie consciousness also determines which wholes exist." The connection to consciousness is left open by them, not asserted—which makes this a more cautious neighbour to the other two routes than a quick reading suggests (developed [below](#the-convergence)).
 
-McQueen and Tsuchiya work within IIT's physicalist framework, identifying consciousness with integrated information. IIT's empirical standing is contested—a 2023 open letter from over a hundred researchers argued the theory is untestable in principle, while the 2025 COGITATE adversarial collaboration partially corroborated its posterior-cortex predictions; the dispute remains live. But the structural insight survives this disagreement, because it can be separated from the physicalist commitment: whether or not Φ is the correct empirical measure of consciousness, the proposal that composition tracks consciousness—or whatever consciousness tracks—is what does the metaphysical work here, and it stands or falls independently of IIT's fortunes as a scientific theory of the neural correlates.
+IIT's broader framework does identify consciousness with integrated information, but their composition paper deliberately does not lean on that identification. IIT's empirical standing is in any case contested—a 2023 open letter from over a hundred researchers argued the theory is untestable in principle, while the 2025 COGITATE adversarial collaboration partially corroborated its posterior-cortex predictions; the dispute remains live. The structural insight the Map draws on survives both this disagreement and the authors' own neutrality: whether or not Φ is the correct empirical measure of consciousness, the proposal that composition tracks the integrated structure consciousness is *suspected* to track—rather than transparent physical aggregation—is what does the metaphysical work, and it stands or falls independently of IIT's fortunes as a scientific theory of the neural correlates.
 
 ## The Convergence
 
@@ -79,9 +79,9 @@ These three positions arrive at the same destination by different paths:
 |-------------|---------------|-------|-------------|
 | Van Inwagen | What constitutes a life? | Biological criterion | Organisms (conscious beings) are the only composites |
 | Merricks | What has irreducible causal powers? | Causal redundancy | Conscious beings alone escape elimination |
-| McQueen & Tsuchiya | What maximises integrated information? | Information integration | Consciousness determines which wholes exist |
+| McQueen & Tsuchiya | What maximises integrated information? | Information integration | Φ-maximisation determines which wholes exist—explicitly decoupled from consciousness |
 
-The convergence is striking because these philosophers disagree about almost everything else. Van Inwagen is a materialist who defends organicism. Merricks is an eliminativist who denies the existence of most physical objects. McQueen and Tsuchiya work within a computational theory of consciousness. Yet all three independently conclude that consciousness—or the domain where consciousness occurs—is the criterion for genuine composition.
+The convergence is striking because these philosophers disagree about almost everything else. Van Inwagen is a materialist who defends organicism. Merricks is an eliminativist who denies the existence of most physical objects. McQueen and Tsuchiya work within a computational theory of consciousness. Yet all three independently land on consciousness, or the integrated structure with which consciousness is associated, as central to genuine composition—with the qualification, noted above, that McQueen and Tsuchiya deliberately leave the consciousness link open rather than asserting it.
 
 A natural objection is that this convergence reflects a selection effect—these philosophers work in the same analytic tradition and may have influenced each other. The objection has real force, and it is not fully neutralised by what follows. Still, it arguably understates how different their methods are. Van Inwagen reasons from biological natural kinds, Merricks from causal redundancy principles, and McQueen and Tsuchiya from information-theoretic measures. The conceptual distance between a life criterion, a causal powers criterion, and an integrated information criterion is large enough that arriving at a common neighbourhood—consciousness, or the domain where it occurs, as the composition threshold—may carry some evidential weight rather than none. Independent convergence from divergent methods is often treated as a marker of philosophical progress, though it is suggestive rather than probative: convergence is consistent with a shared truth and also with a shared blind spot, and the present case does not decide between them.
 
