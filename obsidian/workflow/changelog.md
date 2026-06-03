@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03T13:41:33+00:00
+ai_modified: 2026-06-03T14:15:50+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-03T14:15:50+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/direction-dependent-discriminating-test-design]]
+- **Task**: Anchoring-calibration refine (topic-concept anchoring audit 2026-06-03). Anchor concept [[filter-theory]]. Light near-minimal nudge — no over-assertion problem (strong_assertion_density already 0.0). Two small gaps: hedge_density below floor, underdetermination_markers at 0.
+- **Before**: 2104w, hedges 4 (1.90/kw, floor ~2.06), underdetermination 0, strong-assertions 0 — both gap flags firing.
+- **After**: 2134w, hedges 6 (2.81/kw, clears floor with margin, stays well below anchor 3.44), underdetermination 1, strong-assertions 0 — `evaluate_anchoring` returns NO flags.
+- **Changes**: Added 1 genuine underdetermination marker at the opening's "proposed experiment, not a result" point — reframed "present standing be empirical underdetermination" into "until the experiment is performed its discriminating verdict is genuinely underdetermined by the evidence: the design constrains which outcomes would count... but does not presuppose which way they would resolve." This is natural to the article's spine (a test designed but not yet run). Added 2 warranted hedges: "may share one upstream architecture" (the common-cause-null family relationship is a posited not established sharing) and "could replace retrospective... case reports" (the quality upgrade is contingent on the test being run). Discriminating-power claim, the direction-specific-ordering read-out, and the Proekt & Hudson common-cause-null wall-off all left intact. Citations (Verhagen 2019, Proekt & Hudson 2018, Sepúlveda 2019, Cain 2021) untouched; no new citation claims. Length near-neutral (+30w).
+- **Published**: yes
 
 ## 2026-06-03T14:12:36+00:00 - refine-draft
 - **Status**: Success

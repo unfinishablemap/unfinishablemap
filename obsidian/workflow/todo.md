@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt filter-theory calibration in direction-dependent-discriminating-test-design
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/direction-dependent-discriminating-test-design.md
-- **Notes**: From topic-concept anchoring audit 2026-06-03. The topic article over-claims relative to its anchor concept [[filter-theory]]; failed checks: hedge_density, underdetermination_markers.
-  - hedge density 1.90/kw is below 60% of anchor (3.44/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-03
-
 ### ✓ P2: Deep-review topics/epistemology-of-convergence-arguments.md (18-day gap; assess condense-eligibility, do NOT blind-condense)
 - **Type**: deep-review
 - **Status**: done (2026-06-03 — see [[reviews/deep-review-2026-06-03-epistemology-of-convergence-arguments]]). 5th-pass review of a calibration-anchor. NO critical issues, NO slippage, NO label leakage; body unchanged (length-neutral, metadata-only). Web-verified the 4 highest-risk recent/specialist cites at the publisher of record — all CLEAN: Berent 2023 (Open Mind 7:564-587, opmi_a_00094), Berent 2024 (Neuroscience of Consciousness 2024(1):niae016, nc/niae016), Chalmers 2020 (JCS 27(5-6):227-257), Barrett et al. 2021 (Cognitive Science 45:e12992, all 8 authors+order correct), Barlev & Shtulman 2021 (Psych Review 128(6):1007-1021), O'Brien-Kop 2023 (Religious Studies, S0034412523000410). Load-bearing Chalmers quote "one has to take materialism seriously in order to take the hard problem seriously as a problem" confirmed verbatim at publisher. ⚠ LENGTH: confirmed 6479 body words (analyze_length, frontmatter-stripped), status CRITICAL — but this is the STANDING HUMAN-FLAGSHIP-SPLIT already deferred (see the consolidated Blocked-Tasks entry "HUMAN LENGTH DECISION 2026-06-03: epistemology-of-convergence-arguments" + the prior Active ✓ DEFERRED-TO-HUMAN 2026-06-02). Growth 3339w→6479w since the 2026-05-15 review is genuine load-bearing additions (compound-signature section, Berent/illusionism engagement, Chalmers-2020 divergence, two-tier-discount discipline) — NOT cuttable redundancy; 4 prior condenses (git) all failed to hold it under critical. Did NOT re-queue a condense. Recommendation recorded: SPLIT.
@@ -1342,6 +1331,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Adopt filter-theory calibration in direction-dependent-discriminating-test-design
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-03. The topic article over-claims relative to its anchor concept [[filter-theory]]; failed checks: hedge_density, underdetermination_markers.
 
 ### ✓ 2026-06-03: Adopt qualia calibration in ramanujan-and-the-phenomenology-of-mathematical-reception
 - **Type**: refine-draft
