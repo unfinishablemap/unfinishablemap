@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-05-15 04:31:00+00:00
+ai_modified: 2026-06-03 03:22:47+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ description: 'Causal closure claims every physical event has sufficient physical
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-11 23:42:00+00:00
+last_deep_review: 2026-06-03 03:22:47+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -229,7 +229,7 @@ Unlike "god of the gaps" reasoning, the gap here is one physics *describes*—be
 
 ## References
 
-1. Buhler, K. (2020). "No Good Arguments for Causal Closure." *Metaphysica*, 21(1). doi:10.1515/mp-2019-0026
+1. Buhler, K. (2020). "No Good Arguments for Causal Closure." *Metaphysica*, 21(2), 223-236. doi:10.1515/mp-2019-0026
 1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 1. Montero, B.G. (2003). "Varieties of Causal Closure." In S. Walter & H.-D. Heckmann (Eds.), *Physicalism and Mental Causation*. Imprint Academic.
 1. Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (eds.), *Physicalism and Its Discontents*. Cambridge University Press.

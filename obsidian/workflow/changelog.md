@@ -5,6 +5,18 @@ ai_modified: 2026-06-03T01:50:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T03:22:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/causal-closure]]
+- **Word count (body)**: 3285 → 3286 (+1; soft_warning, 214 under hard 3500)
+- **Critical issues addressed**: 1 (Buhler 2020 citation: wrong issue 21(1) → 21(2), added pages 223-236; verified at De Gruyter publisher URL. Author Keith Buhler real, DOI/title/vol/year already correct.)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (11th review; argument-stable since 2026-02-15)
+- **Citation web-verify**: Buhler 2020 (FIXED + anti-closure-arguments stance confirmed: under-supported, not false), Saad 2025 (consistent, not re-flagged), Torres Alegre 2025 arXiv:2512.12636 (title + Born-rule/no-signalling stance confirmed), Montero 2003 (confirmed), Vicente 2006 20(2):149-171 (confirmed exact). No famous-name issues; no invent-completion.
+- **Calibration check**: PASS — denial posited-not-blanket (scoped to quantum indeterminacies / universal-principle), under-supported ≠ false (Buhler passage stays epistemic), quantum-gap claim conditional on collapse + No-MWI, causal-consistency-constraint integration calibrated (Born-rule as structural minimality, not mechanism proof).
+- **Reasoning-mode**: unchanged from 2026-05-11 (body argument unchanged): Kim Mode One, Montero Mode One, Bohmian Mode Two, MWI Mode Three, reliabilists Mode One, epiphenomenalism Mode One. No label leakage, no boundary-substitution.
+- **Output**: [[reviews/deep-review-2026-06-03-causal-closure]]
+
 ## 2026-06-03T12:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/direction-of-fit]] (back-link completion across 6 partner homes)
