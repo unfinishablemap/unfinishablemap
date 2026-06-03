@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03T05:06:21+00:00
+ai_modified: 2026-06-03T05:11:49+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-03T05:11:49+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-metaphysics-of-composition]]
+- **Word count**: 3155 → 3471 (+316; under topics 4000 hard, soft_warning; left headroom for 1 pending composition P1 task — convergence-recast)
+- **Task**: Recalibrate IIT / COGITATE / 2023-open-letter claims — outer-review 2026-06-03, 2/3 convergent (ChatGPT + Gemini both flagged one-sided IIT-empirical-status handling; P1). Calibrated middle: mention the controversy with accurate narrow framing; rejected Gemini's "settled pseudoscience consensus" overstatement.
+- **Fix (a) — Φ "precise threshold"** (was line 67): "provides a precise, measurable threshold" → reworded to "formally precise but not presently computable for realistic biological systems," noting McQueen & Tsuchiya's own concession that exact Φ is infeasible for realistic biological systems, plus the unresolved continuous-systems and implementation (element-carving) problems.
+- **Fix (b) — COGITATE 2025** (was line 69): "partially corroborated its posterior-cortex predictions" → reworded to the MIXED verdict ("neither vindicated nor refuted"): posterior cortex sufficient for content (aligned with one IIT prediction) BUT no sustained posterior synchronization (contradicting IIT's connectivity/hot-zone prediction); both IIT and GNW emerged challenged. Cited *Nature* 642(8066):133-142 (Cogitate Consortium) directly.
+- **Fix (c) — 2023 open letter** (was line 69): "argued the theory is untestable in principle" → reworded to the NARROWER actual charge: ~124 signatories argued existing tests targeted idiosyncratic predictions (not IIT's core) and that the "pseudoscience" label holds only until the theory as a whole is rendered testable. Framed as a contested open letter with IIT defenders disputing it — NOT Gemini's "settled consensus" overstatement.
+- **IIT-independence FALLBACK verdict: OVER-REACHES (softened).** The article's "stands or falls independently of IIT's fortunes" claim over-reached. Per Leung & Tsuchiya's strong-vs-weak-IIT distinction, the Map's structural insight is a WEAK-IIT posit (integrated structure *tracks* consciousness without the strong-IIT identity claim) — so it doesn't need Φ as the correct measure or strong IIT to hold, but it DOES inherit weak IIT's core conjecture that integrated structure is the right thing to track at all. Softened to "most secure on a weak-IIT reading … remaining tied to IIT's framework rather than floating free of it."
+- **Web-verify (per ai_citation_metadata_unreliable)**: all 3 references added were web-verified this pass. (1) Fleming et al. 2023 — PsyArXiv, 15 Sept 2023, 124 signatories, narrow "pseudoscience-until-testable" charge CONFIRMED. (2) Cogitate Consortium 2025 — *Nature* 642(8066):133-142, DOI 10.1038/s41586-025-08888-1, mixed verdict (no sustained posterior synchrony contradicts IIT connectivity prediction) CONFIRMED. (3) Leung & Tsuchiya 2023 — *Neuroscience of Consciousness* 2023(1) niad012, strong/weak-IIT distinction CONFIRMED.
+- **Scope**: did NOT do the broader convergence-thesis recast (separate pending P1). Length-neutral intent honoured (rewordings + 3 citation additions); trimmed the weak-IIT paragraph to stay near-neutral.
+- **Original score**: n/a (targeted outer-review-driven recalibration, not full review)
+- **Changes**: 3 verified recalibrations (Φ-computability, COGITATE mixed verdict, open-letter narrowing) + weak-IIT fallback softening + 3 references
+- **Published**: yes
 
 ## 2026-06-03T05:06:21+00:00 - refine-draft
 - **Status**: Success
