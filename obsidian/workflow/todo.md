@@ -478,13 +478,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-04-06
 
-### P2: Address Kuhnian category error and Born rule tension in consciousness-and-the-structure-of-scientific-revolutions.md and wheelers-participatory-universe-and-it-from-bit.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Two medium-severity issues from pessimistic reviews: (1) The Kuhn article's anomalies (explanatory gap, hard problem) are philosophical, not empirical — front-load the distinction rather than burying the disclaimer. (2) The it-from-bit article claims structural indeterminacy (Brukner-Zeilinger) supports the Map, but if randomness is structural, biasing outcomes would violate the foundational axioms. Acknowledge the tension and discuss whether consciousness could operate within Born rule statistics. See pessimistic-2026-04-06.md and pessimistic-2026-04-06b.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-06
-
 ### P2: Create concept page for materialism-argument
 - **Type**: expand-topic
 - **Status**: pending
@@ -1121,6 +1114,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Address Kuhnian category error and Born rule tension in consciousness-and-the-structure-of-scientific-revolutions.md and wheelers-participatory-universe-and-it-from-bit.md
+- **Type**: refine-draft
+- **Notes**: Two medium-severity issues from pessimistic reviews: (1) The Kuhn article's anomalies (explanatory gap, hard problem) are philosophical, not empirical — front-load the distinction rather than burying the disclaimer. (2) The it-from-bit article claims structural indeterminacy (Brukner-Zeilinger) supports the Map, but if randomness is structural, biasing outcomes would violate the foundational axioms. Acknowledge the tension and discuss whether consciousness could operate within Born rule statistics. See pessimistic-2026-04-06.md and pessimistic-2026-04-06b.md
 
 ### ✓ 2026-06-03: Deep review constitutive-exclusion.md
 - **Type**: deep-review
