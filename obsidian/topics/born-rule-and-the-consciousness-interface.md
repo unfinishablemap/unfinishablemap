@@ -4,7 +4,7 @@ description: "The Born rule resists derivation across every quantum interpretati
 created: 2026-03-15
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-06-02T16:20:00+00:00
+ai_modified: 2026-06-03T00:20:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -173,7 +173,7 @@ A fourth family — no consciousness-physics interaction (Everettian, Bohmian, o
 
 Four strands are alive in 2025-2026; none isolates Born-rule violation as the measured variable. The companion [[brain-internal-born-rule-testing]] catalogues their designs and signatures mechanism by mechanism — this section gives the overview and the calibration-relevant null trends.
 
-**Brain-internal quantum coherence witnesses.** Kerskens-Pérez (2022) applied entanglement-witness MRI logic to brain-water proton spins; Babcock-Hameroff (2025) characterise room-temperature microtubule effects as "direct biophysical evidence of a macroscopic entangled state in the living human brain" — a characterisation resting on the Hagan-Hameroff-Tuszyński (2002) decoherence-time estimate (~10⁻⁵ s, seven orders above Tegmark's), disputed by Tegmark (2000) and successor decoherence calculations, and advanced by a programme with deep prior commitments to the conclusion; Keppler (2025), a preprint, proposes cortical-microcolumn coupling to the zero-point field. A negative outcome would foreclose Penrose-Hameroff and Keppler and weaken (not kill) Born-violating proposals needing a quantum-rich substrate. These witnesses detect coherence, not Born deviation.
+**Brain-internal quantum coherence witnesses.** Kerskens-López Pérez (2022) applied entanglement-witness MRI logic to brain-water proton spins; Wiest (2025) characterises room-temperature microtubule effects as "direct physical evidence of a macroscopic quantum entangled state in the living human brain" — a characterisation resting on the Hagan-Hameroff-Tuszyński (2002) decoherence-time estimate (~10⁻⁵ s, seven orders above Tegmark's), disputed by Tegmark (2000) and successor decoherence calculations, and advanced by a programme with deep prior commitments to the conclusion; Keppler (2025), a preprint, proposes cortical-microcolumn coupling to the zero-point field. A negative outcome would foreclose Penrose-Hameroff and Keppler and weaken (not kill) Born-violating proposals needing a quantum-rich substrate. These witnesses detect coherence, not Born deviation.
 
 **Brain-to-quantum-system coupling.** Nirvanic's "Spark of Life" (Gildert 2025) couples a robot's sensory-action loop to qubits, testing whether a quantum-controlled agent behaves statistically differently from a classical one — the closest operational analogue to a "does consciousness bias quantum outcomes?" test, though panpsychist in framing and lacking a biological brain.
 
@@ -255,7 +255,7 @@ The Map's working position is that the empirical question is genuinely open, pre
 
 4. Araújo, M. (2021). "Why I am unhappy about all derivations of the Born rule (including mine)." *More Quantum*.
 
-5. Babcock, N., Hameroff, S., et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness* 2025(1): niaf011.
+5. Wiest, M.C. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness* 2025(1): niaf011.
 
 6. Born, M. (1926). "Zur Quantenmechanik der Stoßvorgänge." *Zeitschrift für Physik*, 37, 863–867.
 
@@ -285,7 +285,7 @@ The Map's working position is that the empirical question is genuinely open, pre
 
 19. Keppler, J. (2025). Macroscopic quantum effects in the brain. *Frontiers in Human Neuroscience*.
 
-20. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *J. Phys. Commun.*
+20. Kerskens, C. M. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *J. Phys. Commun.*
 
 21. Landsman, K. (2025). "The Born Rule — 100 Years Ago and Today." arXiv:2502.08545.
 

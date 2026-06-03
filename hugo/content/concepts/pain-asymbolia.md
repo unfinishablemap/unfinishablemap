@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-05-31 00:00:00+00:00
+ai_modified: 2026-06-02 23:50:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Pain asymbolia dissociates nociceptive sensation from affective suf
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-18 17:37:00+00:00
+last_deep_review: 2026-06-02 23:50:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -86,7 +86,7 @@ Asymbolia gains additional significance when paired with complementary condition
 
 **Phantom limb pain** presents an approximate inverse dissociation: affective suffering without peripheral tissue damage at the felt location. Patients experience burning, crushing, or stabbing sensations in limbs that no longer exist. The affective-motivational dimension is fully present—phantom pain hurts terribly—even though the nociceptive signalling originates from reorganised central and stump neural activity rather than from the phantom site itself. The dissociation is between felt location and actual tissue state, not between suffering and all physical causation.
 
-**Hypnotic analgesia** demonstrates that top-down conscious processes can preferentially suppress pain's affective dimension while preserving sensory detection. Rainville et al. (1999) showed that hypnotic suggestions targeting unpleasantness modulate anterior cingulate activity while preserving primary somatosensory responses—a pattern resembling asymbolia, though the reduction is typically partial rather than complete.
+**Hypnotic analgesia** indicates that top-down conscious processes can preferentially suppress pain's affective dimension while preserving sensory detection. Rainville et al. (1999) found that hypnotic suggestions targeting unpleasantness modulate anterior cingulate activity while preserving primary somatosensory responses—a pattern resembling asymbolia, though the reduction is typically partial rather than complete, so the parallel is a graded approximation rather than the clean abolition asymbolia displays.
 
 Together, these dissociations show that pain's dimensions can be independently modulated. Nociceptive sensation without suffering (asymbolia). Suffering dissociated from local tissue damage (phantom pain). Preferential suppression of affect by conscious intervention (hypnosis). The phenomenal architecture of pain is not monolithic, and the affective dimension—the one that involves consciousness most directly—is the one that drives behaviour.
 

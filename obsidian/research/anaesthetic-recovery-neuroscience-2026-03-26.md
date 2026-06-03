@@ -4,7 +4,7 @@ created: 2026-03-26
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
-ai_modified: 2026-06-01T00:00:00+00:00
+ai_modified: 2026-06-03T00:20:14+00:00
 ---
 
 # Research: Neuroscience of Anaesthetic Recovery
@@ -100,7 +100,7 @@ Recovery from general anaesthesia is not the mirror image of induction — it fo
   - The selective action of anaesthetics on consciousness (but not other brain functions) is explained by targeting quantum channels specifically
 - **Tenet alignment**: Directly supports minimal quantum interaction — if anaesthetics work by disrupting quantum processes in microtubules, then consciousness depends on those quantum processes, providing a physical locus for mind-matter interaction
 
-### A Quantum Microtubule Substrate of Consciousness (Hameroff et al., 2025)
+### A Quantum Microtubule Substrate of Consciousness (Wiest, 2025)
 - **URL**: https://academic.oup.com/nc/article/2025/1/niaf011/8127081
 - **Type**: Research article (Neuroscience of Consciousness, Oxford Academic)
 - **Key points**:
@@ -179,7 +179,7 @@ Recovery from general anaesthesia is not the mirror image of induction — it fo
 | 2023 | Sanders et al. — nature of consciousness in anaesthesia | Establishes multi-state model (connected, disconnected, unconscious) |
 | 2024 | Mashour (Neuron) — anesthesia and neurobiology of consciousness | Major review connecting anaesthesia to consciousness theories |
 | 2025 | BJA — stochastic vs. deterministic emergence | Mouse data shows emergence is fundamentally stochastic |
-| 2025 | Hameroff et al. — quantum microtubule substrate | Claims experimental validation of quantum consciousness substrate |
+| 2025 | Wiest — quantum microtubule substrate | Claims experimental validation of quantum consciousness substrate |
 
 ## Potential Article Angles
 
@@ -215,7 +215,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 6. (2025). Emergence from general anaesthesia: stochastic or deterministic? *British Journal of Anaesthesia*. https://pmc.ncbi.nlm.nih.gov/articles/PMC12597436/
 7. (2021). Dynamics of recovery from anaesthesia-induced unconsciousness across primate neocortex. https://pmc.ncbi.nlm.nih.gov/articles/PMC7868001/
 8. Craddock TJA, et al. (2015). Anesthetics act in quantum channels in brain microtubules to prevent consciousness. *Current Topics in Medicinal Chemistry*. https://pubmed.ncbi.nlm.nih.gov/25714379/
-9. Hameroff S, et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*. https://academic.oup.com/nc/article/2025/1/niaf011/8127081
+9. Wiest MC. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*. https://academic.oup.com/nc/article/2025/1/niaf011/8127081
 10. Tononi G (2004). An information integration theory of consciousness. *BMC Neuroscience*, 5:42.
 11. Hameroff S, Penrose R (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1):39-78. https://www.sciencedirect.com/science/article/pii/S1571064513001188
 12. Mashour GA (2014). Top-down mechanisms of anesthetic-induced unconsciousness. *Frontiers in Systems Neuroscience*.

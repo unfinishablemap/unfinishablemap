@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-28
-ai_modified: 2026-02-28 02:45:00+00:00
+ai_modified: 2026-06-03 00:20:14+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -74,7 +74,7 @@ If consciousness influences physical outcomes at the quantum level — as the Ma
 - **Tenet alignment**: Directly models bidirectional interaction through quantum Zeno amplification. The mechanism is inherently opaque because it operates through repeated quantum measurements, each individually undetectable
 - **Quote**: "Mental effort, i.e. attention devoted to such intentional acts, can protract the lifetime of the neuronal assemblies that represent the templates for action"
 
-### Hameroff & Penrose — Quantum Microtubule Substrate (2025)
+### Wiest — Quantum Microtubule Substrate (2025)
 - **URL**: https://academic.oup.com/nc/article/2025/1/niaf011/8127081
 - **Type**: Research article (Neuroscience of Consciousness)
 - **Key points**:
@@ -214,7 +214,7 @@ Based on this research, a voids article could:
 1. Sabbadini, S.A. & Vitiello, G. (2023). "A Quantum–Classical Model of Brain Dynamics." *Entropy*, 25(4), 592. https://pmc.ncbi.nlm.nih.gov/articles/PMC10138112/
 2. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194-4206. https://space.mit.edu/home/tegmark/brain.pdf
 3. Stapp, H.P. (2009). "A Model of the Quantum–Classical and Mind–Brain Connections, and the Role of the Quantum Zeno Effect in the Physical Implementation of Conscious Intent." In *Mind, Matter and Quantum Mechanics*, Springer.
-4. Hameroff, S. & Penrose, R. (2025). "A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems." *Neuroscience of Consciousness*, 2025(1). https://academic.oup.com/nc/article/2025/1/niaf011/8127081
+4. Wiest, M.C. (2025). "A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems." *Neuroscience of Consciousness*, 2025(1). https://academic.oup.com/nc/article/2025/1/niaf011/8127081
 5. McDonnell, M.D. & Abbott, D. (2009). "What Is Stochastic Resonance? Definitions, Misconceptions, Debates, and Its Relevance to Biology." *PLOS Computational Biology*. https://pmc.ncbi.nlm.nih.gov/articles/PMC2660436/
 6. Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press.
 7. McFadden, J. & Al-Khalili, J. (2018). "The origins of quantum biology." *Proceedings of the Royal Society A*, 474(2220). https://pmc.ncbi.nlm.nih.gov/articles/PMC6304024/

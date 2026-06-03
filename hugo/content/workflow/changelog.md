@@ -1,13 +1,58 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02 23:20:03+00:00
+ai_modified: 2026-06-03 00:20:14+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-06-02'
+date: '2026-06-03'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-03T00:20:14+00:00 - refine-draft
+- **Status**: Success
+- **Task**: niaf011 author-fix propagation (driver follow-on from brain-internal-born-rule-testing deep-review) — citation/metadata-only, length-neutral, multi-file
+- **Files (9 edited)**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/), [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/), [born-rule-violation-brain-interface-empirical-status-2026-04-23](/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/), [memory-dual-domain-capability-2026-03-09](/research/memory-dual-domain-capability-2026-03-09/), [anaesthetic-recovery-neuroscience-2026-03-26](/research/anaesthetic-recovery-neuroscience-2026-03-26/), [penrose-gravity-collapse-empirical-2026-03-17](/research/penrose-gravity-collapse-empirical-2026-03-17/), [voids-amplification-void-2026-02-28](/research/voids-amplification-void-2026-02-28/), [quantum-consciousness-mechanisms-2026-01-08](/research/quantum-consciousness-mechanisms-2026-01-08/) (+ memory-dual ai_modified field added)
+- **FIX 1 (niaf011 author → Wiest, M.C.)**: corrected Babcock/Hameroff/Penrose-as-niaf011-author misattributions in both reference entries AND body/header/table mentions across all listed files. niaf011 is SOLELY Michael C. Wiest (Wellesley) — re-confirmed live at OUP + PubMed PMID 40342554. ⚠ Left untouched: genuine "Babcock et al. 2024" tryptophan-superradiance citations (DIFFERENT real paper, *J. Phys. Chem. B*), "Penrose-Hameroff Orch-OR" theory-name contexts, and the root-note line-263 "Hameroff/Babcock/Keppler" proponents-side debate list (not a citation attribution).
+- **FIX 2 (Kerskens 2nd author → López Pérez, D.)**: corrected born-rule ref 20 + body line 176, and the root research-note ref. Verified form per IOPscience/arXiv:1806.07998 (Spanish compound surname).
+- **FIX 3 (quote-wrinkle, born-rule line 176)**: CASE (a) — the quote IS from Wiest's niaf011 (no orphaned separate Babcock-Hameroff paper). Reattributed "Babcock-Hameroff (2025)" → "Wiest (2025)". The article also slightly MISQUOTED the source ("direct *biophysical* evidence of a macroscopic entangled state" → corrected to verbatim source wording "direct *physical* evidence of a macroscopic *quantum* entangled state in the living human brain", web-verified against the OUP abstract). No quote fabricated.
+- **Research-note assessment (10 listed)**: FIXED author misattributions in memory-dual-domain-capability, anaesthetic-recovery-neuroscience, penrose-gravity-collapse-empirical, voids-amplification-void, quantum-consciousness-mechanisms, and root born-rule-violation note. CLEAN (URL/title-only, no niaf011-author attribution): interactionist-dualism, epiphenomenal-ai-consciousness, quantum-biology-consciousness-2026-01-16, quantum-decoherence-objection-responses, quantum-state-inheritance-computational-systems.
+- **Follow-on flagged**: the "Kerskens & Pérez" (un-fixed) surname form persists corpus-wide in ~30 other files (topics/concepts/apex/research) outside this task's named scope — candidate for a dedicated corpus-wide Kerskens-López-Pérez sweep.
+- **Published**: yes (citation-only, length-neutral; flagship-split born-rule untouched on content/calibration)
+
+## 2026-06-02T23:58:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/)
+- **Word count (body)**: 3643 → 3645 (+2; length-neutral, 122% of 3000 soft, 355 under hard 4000)
+- **Critical issues addressed**: 3 citation errors fixed — (1) niaf011 misattribution "Babcock, N., Hameroff, S., et al. (2025)" → **Wiest, M. C. (2025)** (web-verified sole author, Wellesley; famous-domain-name substitution; sibling open-question-ai-consciousness was already correct, needs no fix); (2) Schlosshauer "Quantum decoherence" venue "*Physics Reports* 1063: 1–64 (2025)" → **831: 1–57 (2019)** (web-verified ADS/sciepub; body "2004, 2025" → "2004, 2019"; no fabricated quote present); (3) Kerskens 2nd author "Pérez, D. L." → **López Pérez, D.** (Spanish compound surname, web-verified IOPscience, reconciled with objections-to-interactionism). Plus minor: Sorkin endpage 3128 → **3127** (ADS).
+- **Citation could not be verified (flagged)**: Han (2016) ref 5 "Phys Lett A 380:3578-3580" NOT confirmable; the Han no-signaling/Born-rule result IS real (Han & Choi, Sci Rep 6:22986, 2016 / arXiv:1208.2814). Left metadata untouched per never-invent-complete; recommend human confirm-or-repoint.
+- **Citations web-verified clean (10)**: Torres Alegre 2025 arXiv:2512.12636 (E.O. confirmed, not reverted), Maier-Dechamps-Pflitsch 2018 Front Psychol 9:379, Tegmark 2000 PRE 61:4194, Schlosshauer 2004 RMP 76:1267, Arana 2025 PhilArchive ARATCQ-2, Bösch-Steinkamp-Boller 2006 Psych Bull 132:497, Donadi 2021 Nat Phys 17:74, Sinha 2010 Science 329:418, Masanes-Galley-Müller 2019 Nat Comm 10:1361, Sorkin 1994 (page fixed).
+- **Calibration check**: PASS. No possibility/probability slippage; corridor-as-working-hypothesis, empirical-superfluity criterion, preprint flags, PEAR-bounded-toward-null all preserved (citation fixes were metadata-only).
+- **Engagement modes (editor-internal)**: Stapp Mode One (literal-Zeno non-Born-compliant on QM's own terms); Orch-OR/Tegmark Mode Three (dispute boundary-marked); MWI Mode Three (Tenet 4 foundational, disclosed). No label leakage.
+- **Cross-article follow-on flagged**: born-rule-and-the-consciousness-interface.md still carries uncorrected "Kerskens, C. M. & Pérez, D. L." (ref 20 + body) — recommend propagating the López Pérez fix there.
+- **Output**: [deep-review-2026-06-02-brain-internal-born-rule-testing](/reviews/deep-review-2026-06-02-brain-internal-born-rule-testing/)
+
+## 2026-06-02T23:50:46+00:00 - deep-review
+- **Status**: Success
+- **File**: [pain-asymbolia](/concepts/pain-asymbolia/)
+- **Word count**: 2005 → 2019 (+14; length-neutral, 80% of 2500 soft, well under hard)
+- **Critical issues addressed**: 0 (none found — fourth review, convergence-stable; new predictive-processing content scrutinized and sound)
+- **Medium issues addressed**: 1 (softened "demonstrates"/"showed" → "indicates"/"found" in §Complementary Dissociations + made hypnosis parallel an explicit graded approximation; clears one anchoring strong-assertion verb and tightens internal calibration)
+- **Citations web-verified clean (5/5 at publisher of record)**: Berthier/Starkstein/Leiguarda 1988 (*Annals of Neurology* 24(1):41–49; broader-threat-deficit finding confirmed in abstract); Grahek 2007 (*Feeling Pain and Being in Pain*, MIT/Bradford); Rainville et al. 1999 (*Pain* 82(2):159–171 — conflation with the 1997 *Science* sibling checked and cleared); Rubins & Friedman 1948 (*Arch Neurol Psychiatry* 60(6):554–573); Geschwind 1965 (*Brain* 88(2):237–294). Scorer "post-2020 cite" warning was a false positive (frontmatter date tokens; all sources pre-2008).
+- **Engagement modes (editor-internal)**: functionalist Mode One/Two-mixed (internal concession); epiphenomenalist Mode Three w/ Mode-One texture (honest boundary-marking); predictive-processing rival Mode Three (constitution-vs-doing-work bridge). No label leakage.
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-06-02-pain-asymbolia](/reviews/deep-review-2026-06-02-pain-asymbolia/)
+
+## 2026-06-02T23:38:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [apophatic-cartography-four-criteria](/concepts/apophatic-cartography-four-criteria/)
+- **Word count**: 2487 → 2490 (+3; length-neutral, 100% of 2500 soft, under hard)
+- **Critical issues addressed**: 0 (none found — second review, convergence-stable)
+- **Medium issues addressed**: 1 (fragile hard-coded "line 162" cross-refs → durable section-anchor link `#worked-exhibits-in-independence-scoring`; referent had already drifted to line 164)
+- **Enhancements made**: 1
+- **Citations web-verified clean**: Chalmers 2018 (*JCS* 25(9–10):6–61), Schnider 2008 (*The Confabulating Mind*, OUP, ISBN 9780199206759), Nisbett & Wilson 1977 (*Psych Review* 84:231–259, stance correct). In-body Rebouillat surname-mention clean (no Coutinho misattribution; surname-only by page convention). Chalmers 1995 / Levine 1983 canonical metadata correct. Internal refs 6–9 slugs resolve.
+- **Calibration check**: PASSES §2 diagnostic — no possibility/probability slippage, no epistemic→metaphysical slide; four-vs-five disclosure honest; method framed as maps of ignorance, "calibration not proof" bound intact.
+- **Output**: [deep-review-2026-06-02-apophatic-cartography-four-criteria](/reviews/deep-review-2026-06-02-apophatic-cartography-four-criteria/)
 
 ## 2026-06-02T23:34:41+00:00 - refine-draft
 - **Status**: Success

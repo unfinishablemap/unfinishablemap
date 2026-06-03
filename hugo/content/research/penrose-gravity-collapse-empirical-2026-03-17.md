@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-26 05:16:00+00:00
+ai_modified: 2026-06-03 00:20:14+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
@@ -115,7 +115,7 @@ MAQRO-PF was submitted to the UK Space Agency's Frontiers 2035 programme, with a
 
 **Tenet alignment**: The Map should acknowledge Gao's critique when presenting Penrose's argument. Honest engagement with counterarguments strengthens philosophical credibility.
 
-## 6. Hameroff 2025 — New Experimental Claims for Orch OR
+## 6. Wiest 2025 — New Experimental Claims for Orch OR
 
 ### Key Source
 - **URL**: https://academic.oup.com/nc/article/2025/1/niaf011/8127081
@@ -151,7 +151,7 @@ These are minor additions that would not change the article's structure or concl
 - Tagg, J., Reid, W., & Carlin, D. (2024). "Schrödinger's Cheshire Cat: A tabletop experiment to measure the Diósi-Penrose collapse time and demonstrate Objective Reduction (OR)." arXiv:2402.02618.
 - Kaltenbaek, R. et al. (2025). "Macroscopic Quantum Resonators Path Finder (MAQRO-PF) White Paper." arXiv:2512.01777.
 - Gao, S. (2013). "Does gravity induce wavefunction collapse? An examination of Penrose's conjecture." *Studies in History and Philosophy of Modern Physics*, 44(2), 148-151.
-- Hameroff, S. et al. (2025). "A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems." *Neuroscience of Consciousness*, 2025(1), niaf011.
+- Wiest, M.C. (2025). "A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems." *Neuroscience of Consciousness*, 2025(1), niaf011.
 - Adler, S.L. & Vinante, A. (2018). "Colored collapse models from the non-interferometric perspective." *European Physical Journal D*, 72, 195.
 - Toroš, M. & Bassi, A. (2019). "Minimum measurement time: lower bound on the frequency cutoff for collapse models." arXiv:1909.11301.
 - Rovelli, C. & Smolin, L. (1990). "Loop space representation of quantum general relativity." *Nuclear Physics B*, 331(1), 80-152.

@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-02T23:58:44+00:00
+ai_modified: 2026-06-03T00:20:14+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-03T00:20:14+00:00 - refine-draft
+- **Status**: Success
+- **Task**: niaf011 author-fix propagation (driver follow-on from brain-internal-born-rule-testing deep-review) — citation/metadata-only, length-neutral, multi-file
+- **Files (9 edited)**: [[topics/born-rule-and-the-consciousness-interface]], [[topics/anaesthesia-and-the-consciousness-interface]], [[research/born-rule-violation-brain-interface-empirical-status-2026-04-23]], [[research/memory-dual-domain-capability-2026-03-09]], [[research/anaesthetic-recovery-neuroscience-2026-03-26]], [[research/penrose-gravity-collapse-empirical-2026-03-17]], [[research/voids-amplification-void-2026-02-28]], [[research/quantum-consciousness-mechanisms-2026-01-08]] (+ memory-dual ai_modified field added)
+- **FIX 1 (niaf011 author → Wiest, M.C.)**: corrected Babcock/Hameroff/Penrose-as-niaf011-author misattributions in both reference entries AND body/header/table mentions across all listed files. niaf011 is SOLELY Michael C. Wiest (Wellesley) — re-confirmed live at OUP + PubMed PMID 40342554. ⚠ Left untouched: genuine "Babcock et al. 2024" tryptophan-superradiance citations (DIFFERENT real paper, *J. Phys. Chem. B*), "Penrose-Hameroff Orch-OR" theory-name contexts, and the root-note line-263 "Hameroff/Babcock/Keppler" proponents-side debate list (not a citation attribution).
+- **FIX 2 (Kerskens 2nd author → López Pérez, D.)**: corrected born-rule ref 20 + body line 176, and the root research-note ref. Verified form per IOPscience/arXiv:1806.07998 (Spanish compound surname).
+- **FIX 3 (quote-wrinkle, born-rule line 176)**: CASE (a) — the quote IS from Wiest's niaf011 (no orphaned separate Babcock-Hameroff paper). Reattributed "Babcock-Hameroff (2025)" → "Wiest (2025)". The article also slightly MISQUOTED the source ("direct *biophysical* evidence of a macroscopic entangled state" → corrected to verbatim source wording "direct *physical* evidence of a macroscopic *quantum* entangled state in the living human brain", web-verified against the OUP abstract). No quote fabricated.
+- **Research-note assessment (10 listed)**: FIXED author misattributions in memory-dual-domain-capability, anaesthetic-recovery-neuroscience, penrose-gravity-collapse-empirical, voids-amplification-void, quantum-consciousness-mechanisms, and root born-rule-violation note. CLEAN (URL/title-only, no niaf011-author attribution): interactionist-dualism, epiphenomenal-ai-consciousness, quantum-biology-consciousness-2026-01-16, quantum-decoherence-objection-responses, quantum-state-inheritance-computational-systems.
+- **Follow-on flagged**: the "Kerskens & Pérez" (un-fixed) surname form persists corpus-wide in ~30 other files (topics/concepts/apex/research) outside this task's named scope — candidate for a dedicated corpus-wide Kerskens-López-Pérez sweep.
+- **Published**: yes (citation-only, length-neutral; flagship-split born-rule untouched on content/calibration)
 
 ## 2026-06-02T23:58:44+00:00 - deep-review
 - **Status**: Success

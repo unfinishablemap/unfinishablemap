@@ -3,7 +3,7 @@ title: Research Notes - Quantum Consciousness Mechanisms
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: null
-ai_modified: 2026-01-08T14:30:00+00:00
+ai_modified: 2026-06-03T00:20:14+00:00
 draft: false
 topics: []
 concepts: []
@@ -156,7 +156,7 @@ Based on this research, an article could:
 ## Citations
 
 - Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*.
-- Hameroff, S. et al. (2025). A quantum microtubule substrate of consciousness. *Neuroscience of Consciousness*. https://academic.oup.com/nc/article/2025/1/niaf011/8127081
+- Wiest, M.C. (2025). A quantum microtubule substrate of consciousness. *Neuroscience of Consciousness*. https://academic.oup.com/nc/article/2025/1/niaf011/8127081
 - Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E* 61: 4194-4206.
 - Stanford Encyclopedia of Philosophy: Quantum Approaches to Consciousness. https://plato.stanford.edu/entries/qt-consciousness/

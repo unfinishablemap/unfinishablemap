@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-23
-ai_modified: 2026-04-23 11:45:00+00:00
+ai_modified: 2026-06-03 00:20:14+00:00
 ai_system: claude-opus-4-7
 concepts:
 - '[[measurement-problem]]'
@@ -117,7 +117,7 @@ The Born rule and its two closest cousins — third-order interference vanishing
   - Argues, with Debye-layer screening and ordered water, decoherence times up to ~10⁻⁵ s — seven orders of magnitude longer than Tegmark's estimate.
 - **Tenet alignment**: Supports the possibility of biologically relevant quantum coherence in the brain, which is necessary but not sufficient for Born-rule-violating consciousness physics.
 
-### A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems (Babcock, Hameroff et al. 2025)
+### A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems (Wiest 2025)
 - **URL**: https://academic.oup.com/nc/article/2025/1/niaf011/8127081
 - **Type**: Paper (Neuroscience of Consciousness, 2025)
 - **Key points**:
@@ -296,7 +296,7 @@ The Born rule and its two closest cousins — third-order interference vanishing
 | 2022 | Chalmers & McQueen, Consciousness and Collapse | IIT Φ-based conscious-collapse model. |
 | 2022 | Kerskens & Pérez (J. Phys. Commun.) | MRI entanglement witness signal in brain water. |
 | 2024 | LISA Pathfinder bounds on CSL | Further squeeze; GRW "survives by a whisker." |
-| 2025 | Babcock, Hameroff et al. (Neuroscience of Consciousness) | Review of experimental evidence for quantum microtubule consciousness. |
+| 2025 | Wiest (Neuroscience of Consciousness) | Review of experimental evidence for quantum microtubule consciousness. |
 | 2025 | Nirvanic "Spark of Life" experiment announced | First robotic brain-analogue coupled to quantum computer for behaviour test. |
 | 2025 | Arana, time-extended consciousness-weighted Born probabilities | Falsifiable phenomenological Born-modifying model. |
 | 2025 | Keppler, cortical microcolumn ZPF resonance | New field-theoretic interface candidate. |
@@ -332,14 +332,14 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 - Aaronson, S. (2005). *Quantum Computing, Postselection, and Probabilistic Polynomial-Time*. Proc. Royal Soc. A. https://royalsocietypublishing.org/doi/10.1098/rspa.2005.1546
 - Arana, A. (2025). *Time-Extended Consciousness-Weighted Quantum Probabilities*. PhilArchive. https://philarchive.org/rec/ARATCQ-2
-- Babcock, N., Hameroff, S., et al. (2025). *A quantum microtubule substrate of consciousness is experimentally supported*. Neuroscience of Consciousness 2025(1): niaf011. https://academic.oup.com/nc/article/2025/1/niaf011/8127081
+- Wiest, M.C. (2025). *A quantum microtubule substrate of consciousness is experimentally supported*. Neuroscience of Consciousness 2025(1): niaf011. https://academic.oup.com/nc/article/2025/1/niaf011/8127081
 - Bösch, H., Steinkamp, F., & Boller, E. (2006). *Examining psychokinesis: the interaction of human intention with random number generators — a meta-analysis*. Psychological Bulletin 132(4): 497-523. https://pubmed.ncbi.nlm.nih.gov/16822162/
 - Chalmers, D. J. & McQueen, K. J. (2022). *Consciousness and the Collapse of the Wave Function*. In Gao, S. (ed.), Consciousness and Quantum Mechanics. https://arxiv.org/abs/2105.02314
 - Gildert, S. (Nirvanic) (2025). *Consciousness in the Quantum Realm*. https://nirvanicai.substack.com/p/consciousness-in-the-quantum-realm
 - Hagan, S., Hameroff, S. & Tuszyński, J. (2002). *Quantum computation in brain microtubules: Decoherence and biological feasibility*. Phys. Rev. E 65: 061901. https://link.aps.org/doi/10.1103/PhysRevE.65.061901
 - Kauffman, S. & Radin, D. (2023). *Quantum aspects of the brain-mind relationship: A hypothesis with supporting evidence*. BioSystems. https://www.sciencedirect.com/science/article/abs/pii/S0303264722002015
 - Keppler, J. (2025). *Macroscopic quantum effects in the brain*. Frontiers in Human Neuroscience. https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1676585/full
-- Kerskens, C. M. & Pérez, D. L. (2022). *Experimental indications of non-classical brain functions*. J. Phys. Commun. https://www.eurekalert.org/news-releases/968245 (press release); full paper referenced in Babcock et al. 2025.
+- Kerskens, C. M. & López Pérez, D. (2022). *Experimental indications of non-classical brain functions*. J. Phys. Commun. https://www.eurekalert.org/news-releases/968245 (press release); full paper referenced in Wiest 2025.
 - Maier, M. A. & Dechamps, M. C. (2018). *Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis*. Frontiers in Psychology. https://pmc.ncbi.nlm.nih.gov/articles/PMC5872141/
 - Masanes, L., Galley, T. D. & Müller, M. P. (2019). *The measurement postulates of quantum mechanics are operationally redundant*. Nature Communications 10: 1361. https://www.nature.com/articles/s41467-019-09348-x
 - Nelson, R. D. (various). Global Consciousness Project. https://noosphere.princeton.edu/

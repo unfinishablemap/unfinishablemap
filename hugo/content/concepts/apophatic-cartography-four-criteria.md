@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-16
-ai_modified: 2026-05-31 12:00:00+00:00
+ai_modified: 2026-06-02 23:38:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Signature specificity, structured persistence, cross-observer conve
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-16 00:52:00+00:00
+last_deep_review: 2026-06-02 23:38:00+00:00
 modified: *id001
 related_articles:
 - '[[apophatic-cartography]]'
@@ -39,7 +39,7 @@ topics:
 - '[[epistemology-of-convergence-arguments]]'
 ---
 
-Four criteria decide when a cognitive failure earns the label *void* in the Map's catalogue rather than the label *ignorance not yet repaired*: **signature specificity** (the failure has a distinct shape, not generic mystery), **structured persistence** (the shape survives translation across time and across competing frameworks), **cross-observer convergence** (independent observers in independent traditions arrive at the same shape), and **framework independence** (the observation is recorded even when the observer's framework does not predict it). [Apophatic cartography](/voids/apophatic-cartography/) originally listed five criteria with two further indicators; [the taxonomy of voids](/apex/taxonomy-of-voids/) consolidated to the four invoked at line 162 as the catalogue's epistemic backbone, folding *progressive articulation* (finer structure unfolding as inquiry deepens) into structured persistence's temporal face. The [surplus-void retraction](/voids/the-surplus-void/) and [the introspection-architecture sub-cluster scoring](/topics/introspection-architecture-independence-scoring/) are the two worked exhibits that show the criteria functioning as a calibration instrument rather than as a flat stamp of approval.
+Four criteria decide when a cognitive failure earns the label *void* in the Map's catalogue rather than the label *ignorance not yet repaired*: **signature specificity** (the failure has a distinct shape, not generic mystery), **structured persistence** (the shape survives translation across time and across competing frameworks), **cross-observer convergence** (independent observers in independent traditions arrive at the same shape), and **framework independence** (the observation is recorded even when the observer's framework does not predict it). [Apophatic cartography](/voids/apophatic-cartography/) originally listed five criteria with two further indicators; [the taxonomy of voids](/apex/taxonomy-of-voids/) consolidated to the four invoked in its [worked-exhibits scoring](/apex/taxonomy-of-voids/#worked-exhibits-in-independence-scoring) as the catalogue's epistemic backbone, folding *progressive articulation* (finer structure unfolding as inquiry deepens) into structured persistence's temporal face. The [surplus-void retraction](/voids/the-surplus-void/) and [the introspection-architecture sub-cluster scoring](/topics/introspection-architecture-independence-scoring/) are the two worked exhibits that show the criteria functioning as a calibration instrument rather than as a flat stamp of approval.
 
 This page consolidates the four criteria into a single referential anchor. Each criterion is stated cleanly, operationalised against the two worked exhibits, paired with its specific failure mode, and bounded against the temptation to read the criteria as a proof procedure. The criteria are *calibration* instruments — they bound what evidential weight a cluster can claim, not what it has shown.
 
@@ -133,7 +133,7 @@ Disciplined application of the criteria is itself an exercise the reflexive boun
 ## Further Reading
 
 - [apophatic-cartography](/voids/apophatic-cartography/) — the broader methodology this concept anchors; the criteria are introduced there in section "Criteria for Boundary Evidence"
-- [taxonomy-of-voids](/apex/taxonomy-of-voids/) — the canonical home of the criteria's invocation as the catalogue's epistemic backbone (line 162)
+- [taxonomy-of-voids](/apex/taxonomy-of-voids/) — the canonical home of the criteria's invocation as the catalogue's epistemic backbone (the [worked-exhibits scoring](/apex/taxonomy-of-voids/#worked-exhibits-in-independence-scoring) section)
 - [the-surplus-void](/voids/the-surplus-void/) — first worked exhibit; the retraction case that demonstrates the criteria function as a calibration instrument
 - [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/) — second worked exhibit; the partial-retention case with asymmetric framework-independence scoring
 - [common-cause-null](/project/common-cause-null/) — parent discipline supplying the despite-commitments / because-prediction split that operationalises criterion (4)

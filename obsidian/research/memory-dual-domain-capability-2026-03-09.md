@@ -4,6 +4,7 @@ created: 2026-03-09
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
+ai_modified: 2026-06-03T00:20:14+00:00
 ---
 
 # Research: Memory as Dual-Domain Capability
@@ -235,7 +236,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Descartes, René. *Meditations on First Philosophy*. 1641.
 - Fóti, Véronique. "Descartes' Intellectual and Corporeal Memories." In *Descartes' Natural Philosophy*, ed. Stephen Gaukroger et al.
 - Hameroff, Stuart and Roger Penrose. "Consciousness in the Universe: A Review of the 'Orch OR' Theory." *Physics of Life Reviews* 11, no. 1 (2014): 39–78.
-- Hameroff, Stuart et al. "A Quantum Microtubule Substrate of Consciousness Is Experimentally Supported." *Neuroscience of Consciousness* (2025). https://academic.oup.com/nc/article/2025/1/niaf011/8127081
+- Wiest, Michael C. "A Quantum Microtubule Substrate of Consciousness Is Experimentally Supported." *Neuroscience of Consciousness* (2025). https://academic.oup.com/nc/article/2025/1/niaf011/8127081
 - Klein, Julie R. "Memory and the Extension of Thinking in Descartes's Regulae." PhilArchive. https://philarchive.org/archive/KLEMAT-8
 - Martin, C.B. and Max Deutscher. "Remembering." *Philosophical Review* 75, no. 2 (1966): 161–96.
 - Michaelian, Kourken and Sarah K. Robins. "Beyond the Causal Theory?" PhilArchive. https://philarchive.org/archive/MICBTC
