@@ -9,6 +9,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T10:44:07+00:00 - refine-draft (collapse-and-discharge, length-neutral)
+- **Status**: Success
+- **File**: [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/)
+- **Task**: P2 pessimistic-review fix (2026-06-02) — logical incompleteness: the article promised THREE TIMES that the Map "must articulate" why it retains dualism over dynamic-process monism (Ṣadrā/Whitehead) but never discharged it
+- **Fix (collapse-and-discharge)**: stated the Map's actual reason ONCE and removed the two redundant promises
+  - **Discharge site**: "Process solutions are the strongest competitor" (What the Typology Reveals) — replaced "must take seriously" promise with the genuine reason: the Dualism tenet posits irreducibility, and grading consciousness as a modulation of one process (tashkīk / actual occasions) is precisely the move that dissolves that irreducibility
+  - **Trimmed site 1**: Type 3 close — replaced "must articulate" promise with a forward-pointer to the discharge
+  - **Trimmed site 2**: Relation-to-Site-Perspective — converted the open "dynamic dualism could draw on Ṣadrā" musing into a back-reference to the discharged reason
+- **Framework-boundary framing**: per [evidential-status-discipline](/project/evidential-status-discipline/) + [direct-refutation-discipline](/project/direct-refutation-discipline/), stated as a difference in starting axioms (process monism posits gradation; the Map posits irreducibility), close to bedrock — NOT a refutation of process monism, whose internal coherence is named as what makes it the strongest competitor. No mode labels in body.
+- **Anti-process-monist stance preserved**: the Map still retains dualism; the reason is given, not conceded
+- **Preserved recent edits**: cross-link to [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) and the "confirms the puzzle, not the metaphysics" convergence clause both intact
+- **Engagement classification (changelog-only)**: Ṣadrā/Whitehead process monism — Mode Three (framework-boundary); disagreement is at the level of starting axioms, honestly marked as near-bedrock rather than refuted in-framework
+- **Body word count**: 2930 → 2972 (+42; the irreducible cost of stating the actual reason in place of three thin promises; well under 4000 hard ceiling). Two redundant promises removed; net growth is substantive argument, not padding.
+- **Published**: yes
+
 ## 2026-06-03T00:00:00+00:00 - refine-draft (web-verify, confirmation no-op)
 - **Status**: Success — no edits (citation verified correct at publisher of record)
 - **File**: [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) (+ 7 sibling loci checked)

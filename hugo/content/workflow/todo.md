@@ -51,13 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-06-02
 
-### P2: Cross-check Streicher et al. (2025) "10% survives" figure across incubation + conscious-vs-unconscious-processing
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-06-02 (see [optimistic-2026-06-02b](/reviews/optimistic-2026-06-02b/)). CITATION-CONSISTENCY check (ai-citation-metadata-unreliable). `topics/incubation-effect-and-unconscious-processing.md` (line 60) cites Streicher, Meyen, Franz & Stein (2025), *Neuroscience of Consciousness*, "only 8 of 80 conditions (10%) provided genuine evidence" and names `concepts/conscious-vs-unconscious-processing.md` as the detailed-treatment home. Confirm the Streicher figure, year, venue, and framing are CONSISTENT across both pages (and any other corpus user — grep `Streicher`); web-verify the citation metadata before trusting it. Fix any drift toward the version that survives live-literature verification; if metadata is unverifiable/fabricated, flag rather than propagate. Length-neutral. Tenet alignment: Tenet 5 (Occam's Razor Has Limits — both pages argue the simple "unconscious does the work" account fails). See /refine-draft skill.
-- **Source**: optimistic-review
-- **Generated**: 2026-06-02
-
 ### P2: Discharge or honestly mark the thrice-deferred process-monism promissory note in topics/interaction-problem-across-traditions.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1469,6 +1462,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Cross-check Streicher et al. (2025) "10% survives" figure across incubation + conscious-vs-unconscious-processing
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review 2026-06-02 (see [optimistic-2026-06-02b](/reviews/optimistic-2026-06-02b/)). CITATION-CONSISTENCY check (ai-citation-metadata-unreliable). `topics/incubation-effect-and-unconscious-processing.md` (line 60) cites Streicher, Meyen, Franz & Stein (2025), *Neuroscience of Consciousness*, "only 8 of 80 conditions (10%) provided genuine evidence" and names `concepts/conscious-vs-unconscious-processing.md` as the detailed-treatment home. Confirm the Streicher figure, year, venue, and framing are CONSISTENT across both pages (and any other corpus user — grep `Streicher`); web-verify the citation metadata before trusting it. Fix any drift toward the version that survives live-literature verification; if metadata is unverifiable/fabricated, flag rather than propagate. Length-neutral. Tenet alignment: Tenet 5 (Occam's Razor Has Limits — both pages argue the simple "unconscious does the work" account fails). See /refine-draft skill.
 
 ### ✓ 2026-06-03: Reciprocal cross-link audit — incubation-effect-and-unconscious-processing ↔ neighbour cluster
 - **Type**: refine-draft
