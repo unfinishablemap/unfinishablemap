@@ -20,7 +20,7 @@ description: How interactionist dualism defuses the metaproblem's debunking thre
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-25 08:40:35+00:00
+last_deep_review: 2026-06-03 23:51:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

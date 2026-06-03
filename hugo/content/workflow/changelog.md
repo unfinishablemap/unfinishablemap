@@ -1,13 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03 22:30:00+00:00
+ai_modified: 2026-06-03 23:51:43+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-03'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-03T23:51:43+00:00 - deep-review
+- **Status**: Success
+- **File**: [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/)
+- **Word count**: 2185 → 2185 (no change — no-op review, converged 5th pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Review focus**: verify 2026-06-01 "evidence for dualism" overreach recalibration (commit de82a7ab3). VERDICT: SOUND — compatibility-grade, not over-corrected into false modesty, zero residual slippage (grep for vindicat/threat-into-evidence/argument-for: no hits). Defeater-removal framing now load-bearing and consistent across description, opening thesis, line-48 calibration sentence, and Relation-to-Site-Perspective. Internal-dialectic "strengthens case against epiphenomenalism" is a legitimate dualist-variant comparison, not evidential-tier slippage.
+- **Citation web-verify (3-state, all real+correct, no fixes)**: Chalmers 2018 JCS 25(9-10):6-61 ✓; Chalmers 2020 debunking JCS 27(5-6):258-281 ✓ (the metadata the 06-01 commit corrected — fix verified right); Frankish 2019 JCS 26(9-10) ✓; Díaz ~2021 JCS 28(3-4) ✓ (empirical claims match abstract; minor: article renders "Diaz" sans accent, cosmetic). Realizationism quote consistent with debunking paper + research notes, no fabrication.
+- **Reasoning-mode (editor-internal)**: Frankish=Mode Three (honest boundary-marking); illusionism/AST=Mode Two (opponent's own explanatory standard). No label leakage.
+- **Anchoring**: evaluate_anchoring → no flags. **Length**: 2185w (73% of soft), ok.
+- **Frontmatter**: last_deep_review bumped to 2026-06-03; ai_modified left at 2026-06-01 (no content edits).
+- **Output**: [deep-review-2026-06-03-metaproblem-of-consciousness-under-dualism](/reviews/deep-review-2026-06-03-metaproblem-of-consciousness-under-dualism/)
 
 ## 2026-06-03T12:00:00+00:00 - deep-review
 - **Status**: Success

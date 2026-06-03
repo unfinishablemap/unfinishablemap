@@ -37,6 +37,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt consciousness-physics-interface-formalism calibration in born-rule-and-the-consciousness-interface
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/born-rule-and-the-consciousness-interface.md
+- **Notes**: From topic-concept anchoring audit 2026-06-03. The topic article over-claims relative to its anchor concept [[consciousness-physics-interface-formalism]]; failed checks: strong_assertions, underdetermination_markers.
+  - topic uses 2 strong-assertion verbs where anchor uses none
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-03
+
+### P2: Adopt default-mode-network calibration in perceptual-failure-and-the-interface
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/perceptual-failure-and-the-interface.md
+- **Notes**: From topic-concept anchoring audit 2026-06-03. The topic article over-claims relative to its anchor concept [[default-mode-network]]; failed checks: strong_assertions, underdetermination_markers.
+  - strong-assertion density 0.69/kw exceeds 1.5× anchor (0.40/kw)
+  - anchor declares underdetermination (2× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-03
+
+
 ### P3: Reciprocity link concepts/pain-asymbolia.md → topics/phantom-limb-phenomena.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -540,13 +563,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-21
 
-### P2: Deep review metaproblem-of-consciousness-under-dualism.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Topics article on Chalmers' metaproblem through a dualist lens — why we think consciousness is problematic. Verify accuracy of Chalmers' (2018) position, coherence of the dualist response, cross-references to hard-problem-of-consciousness.md and meta-problem-of-consciousness.md, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-20
-
 ### P2: Address inflated empirical claims and illusionism response in quantum mechanism articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -967,6 +983,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Deep review metaproblem-of-consciousness-under-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Topics article on Chalmers' metaproblem through a dualist lens — why we think consciousness is problematic. Verify accuracy of Chalmers' (2018) position, coherence of the dualist response, cross-references to hard-problem-of-consciousness.md and meta-problem-of-consciousness.md, and tenet alignment.
 
 ### ✓ 2026-06-03: Deep review cross-traditional-convergence-on-consciousness-irreducibility.md
 - **Type**: deep-review
