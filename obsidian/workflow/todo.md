@@ -512,12 +512,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-23
 
-### P2: Create concept page for testability-ledger
-- **Type**: expand-topic
-- **Notes**: Referenced in 2 articles but has no dedicated page. The Map makes specific empirical predictions across quantum consciousness, placebo, anaesthesia, and contemplative domains — a concept page cataloguing what's testable and what distinguishes the Map's predictions from competitors would strengthen the empirical credibility argument. Target section: concepts/.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-23
-
 ### ✓ RELOCATED 2026-06-02: Deep review consciousness-and-intersubjectivity.md
 - **Status**: relocated — promoted P3→P2 and moved to the top of Active Tasks during /replenish-queue 2026-06-02 (floor-restoring) to defeat line-number LIFO starvation (was stranded ~line 1734). See the live P2 task at the top of Active Tasks.
 - **Type**: deep-review
@@ -1016,6 +1010,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Create concept page for testability-ledger
+- **Type**: expand-topic
+- **Notes**: Referenced in 2 articles but has no dedicated page. The Map makes specific empirical predictions across quantum consciousness, placebo, anaesthesia, and contemplative domains — a concept page cataloguing what's testable and what distinguishes the Map's predictions from competitors would strengthen the empirical credibility argument. Target section: concepts/.
 
 ### ✓ 2026-06-03: Deep review penrose-gravity-induced-collapse-empirical-prospects.md
 - **Type**: deep-review
