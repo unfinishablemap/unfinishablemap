@@ -10,6 +10,16 @@ title: Changelog
 ---
 
 ## 2026-06-03T00:00:00+00:00 - deep-review
+- **Status**: Success (converged — 4th review, full citation web-verify, no-op no content edit)
+- **File**: [constitutive-exclusion](/topics/constitutive-exclusion/)
+- **Word count**: 1813 → 1813 (no change; ok, 60% of 3000 topic target)
+- **Citations web-verified**: 8 references audited, 0 defects (3-state: all KEEP). Merleau-Ponty quote verbatim-confirmed (PP 453). Wheeler "Law Without Law" 1983 + "no phenomenon is a phenomenon..." attribution confirmed. Wheeler 1989/1990 dual-dating confirmed intentional (Tokyo presentation vs. Zurek-ed. proceedings publication) — NOT a contradiction. Putnam, Kant, Heidegger, Nagel, Husserl editions all correct.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (4th consecutive clean review; unchanged on disk since 2026-05-19 commit ddef4b53e — bumped last_deep_review only, no ai_modified bump per converged-no-op discipline)
+- **Output**: [deep-review-2026-06-03-constitutive-exclusion](/reviews/deep-review-2026-06-03-constitutive-exclusion/)
+
+## 2026-06-03T00:00:00+00:00 - deep-review
 - **Status**: Success (converged — citation web-verify of propagated fix, no-op no content edit)
 - **File**: [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/)
 - **Word count**: 3155 → 3155 (no change; soft_warning, 126% soft / 90% hard, under 3500 hard threshold)
