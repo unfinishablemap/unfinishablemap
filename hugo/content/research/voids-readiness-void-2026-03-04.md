@@ -1,13 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-03-05 01:49:00+00:00
+ai_modified: 2026-06-03 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[phenomenology]]'
 - '[[introspection]]'
 - '[[agent-causation]]'
+consumed_by: '[[transit-void]]'
+consumed_note: 'DECLINED as a standalone article (voids over cap + absorption-over-proliferation).
+  The readiness void is not severable from existing coverage. Coverage map: act-onset/about-to-act
+  inaccessibility + Schurger stochastic threshold + Libet 550ms/200ms gap + Husserl
+  protention + Merleau-Ponty motor ''regions of silence'' → [[transit-void]] (''act
+  onsets'' face, ''The Stochastic Threshold'', ''Husserl''s Temporal Smoothing'',
+  ''The Pre-Reflective Ground''); felt ''feeling of readiness'' / metacognitive readiness
+  signal → [[noetic-feelings-void]]; pre-deliberative staging of the deliberation→commitment
+  snap → [[decision-void]]; motor-intentionality pre-reflective readiness → [[agency-void]]
+  (participation-void face). No non-redundant face remained to absorb.'
 created: 2026-03-04
 date: &id001 2026-03-04
 draft: false
