@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt panpsychism calibration in the-epiphenomenalist-threat
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/the-epiphenomenalist-threat.md
-- **Notes**: From topic-concept anchoring audit 2026-06-03. The topic article over-claims relative to its anchor concept [[panpsychism]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 3.73/kw is below 60% of anchor (6.42/kw)
-  - topic uses 4 strong-assertion verbs where anchor uses none
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-03
-
 ### ✓ P2: Fix impossible date in topics/ramanujan-and-the-phenomenology-of-mathematical-reception.md
 - **Type**: refine-draft
 - **Status**: done (2026-06-03 — fixed inline same-cycle as the pessimistic-review that found it). One-token factual fix: "29 February 1913" (impossible — 1913 not a leap year) → "27 February 1913" (Ramanujan's second letter to Hardy, per Berndt & Rankin, the article's own ref 3). First letter date (16 January 1913) correct. All other cites web-verified CLEAN by the review. Fixed directly rather than spinning a separate refine-draft fork on a single character.  See [[reviews/pessimistic-2026-06-03-ramanujan-and-the-phenomenology-of-mathematical-reception]].
@@ -1236,6 +1225,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Adopt panpsychism calibration in the-epiphenomenalist-threat
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-03. The topic article over-claims relative to its anchor concept [[panpsychism]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-06-03: Adopt prospective-memory calibration in consciousness-and-memory
 - **Type**: refine-draft

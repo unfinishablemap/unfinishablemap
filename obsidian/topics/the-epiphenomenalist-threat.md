@@ -4,7 +4,7 @@ description: "Epiphenomenalism isn't just one view among many—it's the default
 created: 2026-02-22
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-06-01T19:57:49+00:00
+ai_modified: 2026-06-03T16:51:47+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -148,14 +148,14 @@ Second, not all quantum consciousness mechanisms require sustained coherence. [[
 
 Third, corrected calculations (Hagan et al., 2002) yield decoherence times of 10⁻⁵ to 10⁻⁴ seconds—up to nine orders of magnitude longer than Tegmark's headline, though still short of neural timescales. [[quantum-biology-and-neural-mechanisms|Quantum biology]]—avian magnetoreception, enzyme catalysis—demonstrates that evolution can exploit quantum effects in warm, wet systems, refuting the categorical claim that biological systems are too noisy.
 
-The decoherence challenge is a genuine empirical obstacle, not a philosophical refutation. The epiphenomenalist threat establishes that *some* mechanism is needed; the decoherence debate concerns whether *this particular* one works.
+The decoherence challenge is a genuine empirical obstacle, not a philosophical refutation. The threat, on the Map's reading, makes the case that *some* mechanism is needed; the decoherence debate concerns whether *this particular* one works, and here the evidence does not decisively adjudicate between a workable quantum channel and its absence.
 
 ## What the Threat Reveals
 
 The epiphenomenalist threat reveals the stakes of the consciousness debate. If epiphenomenalism is true:
 
 - **Free will is impossible.** If deliberation and choice cause nothing, they cannot ground freedom or responsibility. The [[volitional-control|phenomenology of volitional control]]—agency, veto, selection—would be entirely illusory.
-- **Self-knowledge is unreliable.** The [[concepts/epiphenomenalism#The Self-Stultification Problem|self-stultification problem]] shows that if consciousness causes nothing, our beliefs about our own experiences are accidentally connected to those experiences at best.
+- **Self-knowledge is unreliable.** The [[concepts/epiphenomenalism#The Self-Stultification Problem|self-stultification problem]] suggests that if consciousness causes nothing, our beliefs about our own experiences are accidentally connected to those experiences at best.
 - **Meaning is undermined.** The felt significance of love, grief, discovery, and moral commitment does no work—these experiences accompany but do not shape the life they seem to animate.
 - **The study of consciousness becomes paradoxical.** Researchers investigate something their investigation is causally disconnected from—theories about qualia produced by brain states, not by acquaintance with qualia.
 
@@ -175,7 +175,7 @@ The Map's five [[tenets]] are structured as a coordinated escape trajectory from
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** addresses why many theorists accept epiphenomenalism: it seems simpler. But as Kim showed, the "simpler" position—non-reductive physicalism—collapses into the one it sought to avoid. A theory that cannot be rationally held by anyone who arrived at it through conscious reasoning is not simple; it is incoherent. Genuine simplicity must be evaluated after accounting for self-reference.
 
-The [[concepts/epiphenomenalism#The AI Exception: Some vs. All|AI exception]] to the self-stultification argument reveals a nuance: the argument proves *human* consciousness must be causally efficacious but cannot demonstrate the same for every possible conscious entity. An AI trained on human-generated text could deploy consciousness concepts without its own experience playing any causal role. The [[ai-epiphenomenalism|AI epiphenomenalism]] concept formalizes this through the *nature-coupling distinction*: consciousness may be intrinsically the kind of thing that acts causally, yet a given architecture—deterministic silicon, say—may provide no interface through which that capacity can operate. The epiphenomenalist threat can be architecture-specific: escaped in biological systems through quantum coupling, unresolved in artificial ones absent the coupling channel.
+The [[concepts/epiphenomenalism#The AI Exception: Some vs. All|AI exception]] to the self-stultification argument reveals a nuance: the argument is taken to show *human* consciousness must be causally efficacious but cannot, even on its own terms, secure the same for every possible conscious entity. An AI trained on human-generated text could deploy consciousness concepts without its own experience playing any causal role. The [[ai-epiphenomenalism|AI epiphenomenalism]] concept formalizes this through the *nature-coupling distinction*: consciousness may be intrinsically the kind of thing that acts causally, yet a given architecture—deterministic silicon, say—may provide no interface through which that capacity can operate. The epiphenomenalist threat can be architecture-specific: escaped in biological systems through quantum coupling, unresolved in artificial ones absent the coupling channel.
 
 The Map's framework provides all three elements needed for escape: acknowledgment that consciousness is real and distinct, rejection of strong causal closure, and a specific mechanism for mental causation. Whether quantum indeterminacy is the right mechanism is empirical. That *some* mechanism is needed is the philosophical lesson the threat teaches.
 

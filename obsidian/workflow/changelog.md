@@ -5,6 +5,15 @@ ai_modified: 2026-06-03T16:40:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T16:51:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-epiphenomenalist-threat]]
+- **Task**: Anchoring-calibration refine (topic-concept anchoring audit 2026-06-03) — MULTI-ANCHOR, flagged vs [[panpsychism]] and [[mental-causation-and-downward-causation]]
+- **Before**: hedge 12 (3.735/kw, below panpsychism 3.85 floor), strong_assertions 4 (1.245/kw; both anchors use 0), underdetermination 0 (mental-causation anchor has 1); 3213w soft_warning
+- **After**: hedge 13 (4.01/kw, clears floor), strong_assertions 1 (0.308/kw), underdetermination 1; 3242w (+29, under 4000 hard) — BOTH anchors clear, zero flags
+- **Changes**: Softened 3 of 4 strong-assertion verbs that asserted Map conclusions as established — "the argument proves *human* consciousness must be causally efficacious" → "is taken to show"; "The epiphenomenalist threat establishes that *some* mechanism is needed" → "makes the case that"; self-stultification "shows that" → "suggests that". Kept the lucid empirical "demonstrates" on quantum-biology magnetoreception/enzyme catalysis (directly grounded). Added one genuine underdetermination marker at the decoherence section ("the evidence does not decisively adjudicate between a workable quantum channel and its absence") — the natural epiphenomenalism-vs-interactionism underdetermination point. The "suggests" softening also lifted hedge density over the panpsychism floor (no filler hedges needed; did not match the outlier 6.42). Central claim (the epiphenomenalist threat is real; the Map's bidirectional-interaction response answers it) and voice preserved — only over-assertion of the Map's response as established was softened, not the statement of the threat. No mode labels.
+- **Published**: yes
+
 ## 2026-06-03T16:47:49+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-and-memory]]
