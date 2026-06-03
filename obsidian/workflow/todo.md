@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### ✓ P2: Fix impossible date in topics/ramanujan-and-the-phenomenology-of-mathematical-reception.md
+- **Type**: refine-draft
+- **Status**: done (2026-06-03 — fixed inline same-cycle as the pessimistic-review that found it). One-token factual fix: "29 February 1913" (impossible — 1913 not a leap year) → "27 February 1913" (Ramanujan's second letter to Hardy, per Berndt & Rankin, the article's own ref 3). First letter date (16 January 1913) correct. All other cites web-verified CLEAN by the review. Fixed directly rather than spinning a separate refine-draft fork on a single character.  See [[reviews/pessimistic-2026-06-03-ramanujan-and-the-phenomenology-of-mathematical-reception]].
+- **Source**: pessimistic-review
+- **Generated**: 2026-06-03
+
 ### ✓ P2: Deep-review topics/epistemology-of-convergence-arguments.md (18-day gap; assess condense-eligibility, do NOT blind-condense)
 - **Type**: deep-review
 - **Status**: done (2026-06-03 — see [[reviews/deep-review-2026-06-03-epistemology-of-convergence-arguments]]). 5th-pass review of a calibration-anchor. NO critical issues, NO slippage, NO label leakage; body unchanged (length-neutral, metadata-only). Web-verified the 4 highest-risk recent/specialist cites at the publisher of record — all CLEAN: Berent 2023 (Open Mind 7:564-587, opmi_a_00094), Berent 2024 (Neuroscience of Consciousness 2024(1):niae016, nc/niae016), Chalmers 2020 (JCS 27(5-6):227-257), Barrett et al. 2021 (Cognitive Science 45:e12992, all 8 authors+order correct), Barlev & Shtulman 2021 (Psych Review 128(6):1007-1021), O'Brien-Kop 2023 (Religious Studies, S0034412523000410). Load-bearing Chalmers quote "one has to take materialism seriously in order to take the hard problem seriously as a problem" confirmed verbatim at publisher. ⚠ LENGTH: confirmed 6479 body words (analyze_length, frontmatter-stripped), status CRITICAL — but this is the STANDING HUMAN-FLAGSHIP-SPLIT already deferred (see the consolidated Blocked-Tasks entry "HUMAN LENGTH DECISION 2026-06-03: epistemology-of-convergence-arguments" + the prior Active ✓ DEFERRED-TO-HUMAN 2026-06-02). Growth 3339w→6479w since the 2026-05-15 review is genuine load-bearing additions (compound-signature section, Berent/illusionism engagement, Chalmers-2020 divergence, two-tier-discount discipline) — NOT cuttable redundancy; 4 prior condenses (git) all failed to hold it under critical. Did NOT re-queue a condense. Recommendation recorded: SPLIT.

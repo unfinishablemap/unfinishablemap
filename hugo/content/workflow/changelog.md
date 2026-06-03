@@ -9,6 +9,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T14:35:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [ramanujan-and-the-phenomenology-of-mathematical-reception](/topics/ramanujan-and-the-phenomenology-of-mathematical-reception/) (fresh specialist article, no prior review history)
+- **Findings**: 1 medium citation/factual DEFECT (web-verified) — second Hardy letter dated "29 February 1913", an impossible date (1913 not a leap year); correct is 27 February 1913. All other cites CLEAN at sources of record (Hardy "highest class"/"defeated me completely" quotes, prime-counting π(x) error, Riemann 1859, Namagiri "fable"/"never asked"). No boundary-substitution, no label leakage, no evidential over-claim; altered-state audit N/A. Article is otherwise an exemplary register-separation exhibit.
+- **Tasks**: 1 P2 refine-draft (top of Active Tasks)
+- **Output**: [pessimistic-2026-06-03-ramanujan-and-the-phenomenology-of-mathematical-reception](/reviews/pessimistic-2026-06-03-ramanujan-and-the-phenomenology-of-mathematical-reception/)
+
+## 2026-06-03T14:30:33+00:00 - apex-evolve
+- **Status**: Complete (assess-first → DECLINE create / minor integration UPDATE)
+- **Article**: [interface-specification-programme](/apex/interface-specification-programme/)
+- **Decision**: Machinery-layer synthesis already SERVED — all four proposed constituents (integration-as-activity, type-token-causation, interface-threshold, selection-only-channel mechanism) already woven. Declined creating a new apex (would fragment the curated set). Applied length-neutral cross-link fixes instead.
+- **Woven**: Added a direct [selection-only-channel](/concepts/selection-only-channel/) link + its log₂(N)/Born-preservation/content-confinement invariants to the bandwidth section (apex previously routed only to the dissolution article, never the channel-class concept). Added reciprocal [interface-specification-programme](/apex/interface-specification-programme/) back-link to [integration-as-activity](/concepts/integration-as-activity/) (was one-directional). Added selection-only-channel to apex concepts frontmatter.
+- **Word count**: 3827 → ~3895 (one sentence added; well under apex hard ceiling)
+- **apex_last_synthesis**: unchanged (no apex_source changed; navigability fix, not re-synthesis)
+
 ## 2026-06-03T14:20:00+00:00 - deep-review
 - **Status**: Success (converged on first review — no substantive changes)
 - **File**: [sorkin-delta-brain-internal-analogues](/topics/sorkin-delta-brain-internal-analogues/)

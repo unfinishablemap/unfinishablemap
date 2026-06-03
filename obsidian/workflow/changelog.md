@@ -5,6 +5,13 @@ ai_modified: 2026-06-03T14:15:50+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T14:35:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/ramanujan-and-the-phenomenology-of-mathematical-reception]] (fresh specialist article, no prior review history)
+- **Findings**: 1 medium citation/factual DEFECT (web-verified) — second Hardy letter dated "29 February 1913", an impossible date (1913 not a leap year); correct is 27 February 1913. All other cites CLEAN at sources of record (Hardy "highest class"/"defeated me completely" quotes, prime-counting π(x) error, Riemann 1859, Namagiri "fable"/"never asked"). No boundary-substitution, no label leakage, no evidential over-claim; altered-state audit N/A. Article is otherwise an exemplary register-separation exhibit.
+- **Tasks**: 1 P2 refine-draft (top of Active Tasks)
+- **Output**: [[reviews/pessimistic-2026-06-03-ramanujan-and-the-phenomenology-of-mathematical-reception]]
+
 ## 2026-06-03T14:30:33+00:00 - apex-evolve
 - **Status**: Complete (assess-first → DECLINE create / minor integration UPDATE)
 - **Article**: [[apex/interface-specification-programme]]
