@@ -9,6 +9,23 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T23:03:28+00:00 - deep-review
+- **Status**: Success
+- **File**: [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/)
+- **Word count**: 2493 → 2493 (no change; converged, no-op content review)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: all 5 Western-analytic refs live-verified clean (Dimitrov 2025 PQ 75(2) 428–449; Sosa 2011 Dialogue 50(2) 307–313; Kriegel 2022 Phil Compass 17(12) e12888; Onof 2008 PPR 76(1) 60–85; Rawlette 2016 self-pub). 3-state: all real+correct, no remediation.
+- **Anchoring**: evaluate_anchoring → [] (no flags); no content touched
+- **Note**: 4th review, high stability; last_deep_review bumped, ai_modified NOT bumped (no edits)
+- **Output**: [deep-review-2026-06-03-evaluative-qualia-phenomenal-normativity-across-traditions](/reviews/deep-review-2026-06-03-evaluative-qualia-phenomenal-normativity-across-traditions/)
+
+## 2026-06-03T22:30:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/phantom-limb-phenomena.md` (primary, most-recently-modified file; reciprocity scan across embodiment/pain cluster). Genuine strengths noted (self-administered common-cause-null audit, literature-reversal honesty, tenet-coherent-not-evidence-elevating discipline). 1 length-safe reciprocity task proposed (pain-asymbolia backlink); 4 hub backlinks declined as length-risk; 0 body-expansion (article at soft_warning).
+- **Output**: [optimistic-2026-06-03f](/reviews/optimistic-2026-06-03f/)
+
 ## 2026-06-03T22:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [phantom-limb-phenomena](/topics/phantom-limb-phenomena/)

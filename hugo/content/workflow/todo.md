@@ -38,6 +38,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Reciprocity link concepts/pain-asymbolia.md → topics/phantom-limb-phenomena.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Source**: optimistic-review
+- **Generated**: 2026-06-03
+- **Notes**: Suggested by optimistic review (optimistic-2026-06-03f.md). One-directional cross-link: `phantom-limb-phenomena` links *to* pain-asymbolia twice and calls it "the complementary dissociation," but `concepts/pain-asymbolia.md` discusses phantom limb pain in prose (lines 84, 88 — "an approximate inverse dissociation") as plain bold text with NO wikilink and omits it from related_articles. FIX: wikilink the existing "Phantom limb pain" prose mention to `[[phantom-limb-phenomena]]` and/or add it to related_articles. LENGTH-SAFE: pain-asymbolia is at `ok` status (2019/2500) — the only cluster member with room; do NOT also backlink from somatic-interface / predictive-processing / neurological-dissociations / clinical-neuroplasticity (all at soft_warning, several high-inbound hubs — hub-accretion length risk, declined in the review). Trivial scope; near no-op beyond the one link. Do NOT expand phantom-limb-phenomena itself (it is at soft_warning 3587/4000).
+
 ### P3: Review apex/steelmanning-as-method.md placement (apex vs. project/ methodology)
 - **Type**: refine-draft
 - **Status**: pending
@@ -499,37 +506,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-28
 
-### P2: Address car-analogy and circularity issues in curated-mind.md
-- **Type**: refine-draft
-- **Status**: complete
-- **Notes**: Pessimistic review found two high-severity issues: (1) the self-driving car disanalogy fails — modern AI systems do have upstream modules curating for downstream consumers, so the claimed disanalogy does not hold; (2) the presupposition argument risks circularity — it assumes the recipient is distinct from the process rather than demonstrating it. Also needs citations for empirical claims in Relation to Site Perspective (meditators/rivalry, mirror therapy, perceptual expertise). See pessimistic-2026-03-24.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-24
-- **Completed**: 2026-03-24 (addressed in deep-review-2026-03-24b-curated-mind)
-
-### P2: Deep review curated-mind.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 via expand-topic, never reviewed. Topics article on error correction presupposing consciousness. Verify coherence, accuracy of claims about neural error correction and consciousness, cross-references to selective-correction-and-reconstruction-paradox and perceptual-reconstruction-paradox, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-24
-
-### P2: Deep review penrose-gravity-induced-collapse-empirical-prospects.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 via expand-topic, never reviewed. Topics article on Penrose gravity-collapse predictions and empirical testing prospects (Diósi-Penrose model, MAQRO, Vinante experiments). Verify accuracy of experimental status claims, coherence, cross-references to comparing-quantum-consciousness-mechanisms and consciousness-collapse-experimental-landscape, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-24
-
 ### ✓ PROMOTED P3→P2 2026-05-27: Deep review self-and-self-consciousness.md
 - **Type**: deep-review
 - **Status**: promoted (see the P2 "Deep review concepts/self-and-self-consciousness.md" task in Active Tasks — promoted by /replenish-queue 2026-05-27 as a floor-restoring tenet-load-bearing staleness deep-review). Do not action this entry; action the P2 copy.
 - **Notes**: Coalesced from self-and-consciousness.md + self-consciousness.md and subsequently condensed on 2026-03-23; last deep-reviewed 2026-05-01 (~26 days). Verify the condensed coalesce preserved key arguments from both source articles, eliminated redundancy, and maintains coherent structure. Check cross-references to personal-identity, phenomenology-of-agency-vs-passivity, and social-construction-of-self-vs-phenomenal-self.
 - **Source**: staleness
-- **Generated**: 2026-03-23
-
-### P2: Create concept page for testability-ledger
-- **Type**: expand-topic
-- **Notes**: Referenced in 2 articles but has no dedicated page. The Map makes specific empirical predictions across quantum consciousness, placebo, anaesthesia, and contemplative domains — a concept page cataloguing what's testable and what distinguishes the Map's predictions from competitors would strengthen the empirical credibility argument. Target section: concepts/.
-- **Source**: gap_analysis
 - **Generated**: 2026-03-23
 
 ### ✓ RELOCATED 2026-06-02: Deep review consciousness-and-intersubjectivity.md
@@ -1030,6 +1011,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Create concept page for testability-ledger
+- **Type**: expand-topic
+- **Notes**: Referenced in 2 articles but has no dedicated page. The Map makes specific empirical predictions across quantum consciousness, placebo, anaesthesia, and contemplative domains — a concept page cataloguing what's testable and what distinguishes the Map's predictions from competitors would strengthen the empirical credibility argument. Target section: concepts/.
+
+### ✓ 2026-06-03: Deep review penrose-gravity-induced-collapse-empirical-prospects.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 via expand-topic, never reviewed. Topics article on Penrose gravity-collapse predictions and empirical testing prospects (Diósi-Penrose model, MAQRO, Vinante experiments). Verify accuracy of experimental status claims, coherence, cross-references to comparing-quantum-consciousness-mechanisms and consciousness-collapse-experimental-landscape, and tenet alignment.
+
+### ✓ 2026-06-03: Deep review curated-mind.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 via expand-topic, never reviewed. Topics article on error correction presupposing consciousness. Verify coherence, accuracy of claims about neural error correction and consciousness, cross-references to selective-correction-and-reconstruction-paradox and perceptual-reconstruction-paradox, and tenet alignment.
+
+### ✓ 2026-06-03: Address car-analogy and circularity issues in curated-mind.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) the self-driving car disanalogy fails — modern AI systems do have upstream modules curating for downstream consumers, so the claimed disanalogy does not hold; (2) the presupposition argument risks circularity — it assumes the recipient is distinct from the process rather than demonstrating it. Also needs citations for empirical claims in Relation to Site Perspective (meditators/rivalry, mirror therapy, perceptual expertise). See pessimistic-2026-03-24.md.
 
 ### ✓ 2026-06-03: Add citation for meditation efficacy claim in epiphenomenalism.md
 - **Type**: refine-draft

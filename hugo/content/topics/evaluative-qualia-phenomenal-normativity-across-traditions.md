@@ -16,7 +16,7 @@ description: Multiple philosophical traditions independently discovered that eva
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-16 19:51:02+00:00
+last_deep_review: 2026-06-03 23:03:28+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
