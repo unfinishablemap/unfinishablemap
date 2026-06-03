@@ -5,6 +5,12 @@ ai_modified: 2026-06-03T12:48:47+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T13:30:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Berridge wanting/liking dissociation as value-in-mechanism fork empirical anchor
+- **Output**: [[research/berridge-wanting-liking-value-in-mechanism-fork-2026-06-03]]
+- **Sources consulted**: 7 (all citations publisher/PubMed/PMC-verified or triangulated across ≥3 indices; flagged 2 triangulated-not-publisher-read)
+
 ## 2026-06-03T00:00:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Direction-dependent discriminating-test design for the interface model
