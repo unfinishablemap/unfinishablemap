@@ -498,13 +498,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-28
 
-### P2: Add citation for meditation efficacy claim in epiphenomenalism.md
-- **Type**: refine-draft
-- **Status**: done
-- **Notes**: Pessimistic review found the claim that mindfulness interventions are "substantially more effective" than placebo lacks a direct citation. The contemplative neuroscience section also references a "2025 meta-analysis" on unconscious processing that isn't in the References section. Add specific citations or soften language. See pessimistic-2026-03-24d.md. **Addressed**: meditation claim corrected with Goyal 2014 citation in 2026-03-29 refine-draft. "2025 meta-analysis" reference issue remains for future work.
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-24
-
 ### P2: Address car-analogy and circularity issues in curated-mind.md
 - **Type**: refine-draft
 - **Status**: complete
@@ -1036,6 +1029,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Add citation for meditation efficacy claim in epiphenomenalism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the claim that mindfulness interventions are "substantially more effective" than placebo lacks a direct citation. The contemplative neuroscience section also references a "2025 meta-analysis" on unconscious processing that isn't in the References section. Add specific citations or soften language. See pessimistic-2026-03-24d.md. **Addressed**: meditation claim corrected with Goyal 2014 citation in 2026-03-29 refine-draft. "2025 meta-analysis" reference issue remains for future work.
 
 ### ✓ 2026-06-03: Fix Han & Choi (2016) citation gloss in brain-internal-born-rule-testing.md
 - **Type**: refine-draft
