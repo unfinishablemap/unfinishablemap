@@ -4,7 +4,7 @@ description: "Consciousness operates in gradations during sleep. Memory consolid
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-06-02T12:00:00+00:00
+ai_modified: 2026-06-03T08:00:02+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-05-14T09:40:00+00:00
+last_deep_review: 2026-06-03T08:00:02+00:00
 ---
 
 Sleep reveals that consciousness operates in gradations, not as a binary switch. During NREM slow-wave sleep, consciousness diminishes but rarely vanishes entirely—dreaming can occur in any sleep stage, correlating with reduced slow waves in the posterior cortical "hot zone." During REM, vivid experience returns while metacognition remains suppressed. [[dream-consciousness#Lucid Dreaming: A Distinct State|Lucid dreaming]] restores metacognitive awareness by reactivating prefrontal regions normally quiescent during sleep. Most remarkably, memory consolidation during sleep operates *outside* the consciousness channel entirely—the brain's offline processing bypasses the ~10 bits/second bandwidth limitation of conscious experience, replaying multiple memory traces in parallel. This reveals the consciousness-brain interface as having multiple modes: waking selective attention, sleeping offline processing, and dreaming partial engagement.
@@ -183,7 +183,7 @@ The Map's interpretation would face difficulty if:
 1. Meister, M. et al. (2024). The bandwidth of human thought. Caltech study.
 1. Melloni, L. et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
 1. Siclari, F. et al. (2017). The neural correlates of dreaming. *Nature Neuroscience*, 20, 872-878.
-1. Stickgold, R. et al. (2023). Augmenting hippocampal-prefrontal synchrony during sleep enhances memory consolidation. *Nature Neuroscience*, 26, 2170-2181.
+1. Geva-Sagiv, M., Mankin, E. A. et al. (2023). Augmenting hippocampal–prefrontal neuronal synchrony during sleep enhances memory consolidation in humans. *Nature Neuroscience*, 26, 1100-1110.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Tononi, G. & Cirelli, C. (2014). Sleep and the price of plasticity. *Neuron*, 81(1), 12-34.
 1. Massimini, M. et al. (2005). Breakdown of cortical effective connectivity during sleep. *Science*, 309(5744), 2228-2232.

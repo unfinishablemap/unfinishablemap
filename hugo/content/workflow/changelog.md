@@ -9,6 +9,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T08:00:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [sleep-and-consciousness](/concepts/sleep-and-consciousness/)
+- **Pick**: justified 19d staleness gap. NOT a no-op — surfaced a critical citation defect that survived 5 prior reviews.
+- **Word count (body)**: 2010 → 2016 (+6; 81% of 2500 soft, well under 3500 hard — length-neutral, no hub accretion)
+- **Critical issues addressed**: 1 — famous-name misattribution: References cited "Stickgold, R. et al. (2023)" for the closed-loop memory-consolidation study; publisher (Nat Neurosci, PMC10244181) confirms first author is **Geva-Sagiv, M.** and Stickgold is NOT on the author list. Also wrong pages (2170-2181 → 1100-1110) and dropped title words ("neuronal", "in humans"). Corrected. Body sentence names no author → unchanged. Research note cites same study anonymously → no fix needed (no corpus spread).
+- **Wang→Lu thalamic-cite watch**: fix HELD, no regression, no "Wang, H" residue (article/research/siblings grep-clean). Lu, F. (2025) Comm Biol 8, 1784 publisher-confirmed exact.
+- **Citations web-verified**: Lu 2025 (Comm Biol ✓), Demirel 2025 (J Neurosci 45(20) ✓), Siclari 2017 (Nat Neurosci 20, 872-878 ✓), Geva-Sagiv 2023 (corrected). Tononi&Cirelli 2014, Massimini 2005, Meister 2024, Melloni/COGITATE 2025 consistent/canonical.
+- **Quotes audited**: Tallis "misrepresentation presupposes presentation" verbatim ✓ (Philosophy Now #161).
+- **Calibration**: no possibility/probability slippage; quantum-Zeno Map-labelled, sleep-yoga speculative-tier hedged. Reasoning-mode: illusionism engagement Mixed (Two/One/Three), no boundary-substitution, no label leakage.
+- **Medium issues addressed**: 0 (6th-review convergence)
+- **Output**: [deep-review-2026-06-03-sleep-and-consciousness](/reviews/deep-review-2026-06-03-sleep-and-consciousness/)
+
 ## 2026-06-03T07:54:32+00:00 - deep-review
 - **Status**: Success
 - **File**: [source-attribution-void](/voids/source-attribution-void/)
