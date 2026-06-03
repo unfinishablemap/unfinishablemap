@@ -5,6 +5,16 @@ ai_modified: 2026-06-03T09:50:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T10:18:26+00:00 - deep-review
+- **Status**: Success (converged no-op — integrity-verification-only)
+- **File**: [[concepts/qualia]]
+- **Word count**: 3285 → 3285 (no change; 131% of 2500 concepts soft, under 3500 hard — long-standing converged band)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verdict**: Scorer surfaced it on a "modified since review" flag, but the only change since the 2026-05-12 review (8th deep review, stable) was MECHANICAL — commit 16e18b93b repointed one archival-link-rot wikilink ([[aesthetic-void]] → [[creative-aesthetic-void]]) + cosmetic ai_modified bump. No substantive prose changed. Verified: both repointed/dossier link targets resolve, no residual [[aesthetic-void]], frontmatter valid. Citation audit: Duch (2005) cross-verified against the research dossier (title/year/venue J. Mind & Behavior 26(1–2)/URL philarchive DUCBCC-3 + quoted gloss all match dossier lines 62–68); remaining refs canonical pre-2020 (clean). Calibration intact: C. elegans/slime-mold stay at "we cannot determine"/"may dissociate"; Duch engagement is natural-prose Mode-Three boundary-marking, no label leakage. No content edits — convergence/anti-over-review discipline ([[deep_review_over_reviews_converged]]).
+- **Output**: [[reviews/deep-review-2026-06-03-qualia]]
+
 ## 2026-06-03T09:50:00+00:00 - deep-review
 - **Status**: Success (converged no-op — same-day re-pick)
 - **File**: [[apex/conjunction-coalesce]]
