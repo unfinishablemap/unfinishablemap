@@ -148,3 +148,74 @@ This is the cluster's standout strength and the persona's verdict is decisive. `
 ## New Concept Pages Needed (second pass)
 
 - **None.** Topics near cap; the one defensible candidate (Kyoto School) is partially covered and declined under assess-first. Finding is connective, not generative.
+
+---
+
+# Optimistic Review (third cycle pass) — cognitive-distinctiveness × teaching
+
+**Date**: 2026-06-03
+**Content reviewed**: [topics/consciousness-and-cognitive-distinctiveness.md](/topics/consciousness-and-cognitive-distinctiveness/) (2538w, status ok) as primary; reciprocity scan across [concepts/teaching-as-metarepresentation.md](/concepts/teaching-as-metarepresentation/) (3087w, soft_warning), [concepts/cumulative-culture.md](/concepts/cumulative-culture/) (3022w), [topics/consciousness-and-social-understanding.md](/topics/consciousness-and-social-understanding/) (3333w), [concepts/metacognition.md](/concepts/metacognition/), [concepts/jourdain-hypothesis.md](/concepts/jourdain-hypothesis/). READ-ONLY on content.
+
+## Executive Summary
+
+`topics/consciousness-and-cognitive-distinctiveness` is a strong, fully converged coalesced flagship (intelligence + creative-distinctiveness merged) that invokes the *metarepresentation threshold* as the engine of cumulative culture — yet it never links to `concepts/teaching-as-metarepresentation`, the corpus's dedicated treatment of the single most concrete metarepresentational behaviour (active pedagogy) and the one that most sharply operationalises the ape-human gap the topic article is built on. The link is **absent in both directions**. This is a genuine asymmetric cross-link gap between two complementary articles, not a content deficit. The corpus is near-cap (topics 261/270, concepts 251/270, voids over-cap 102/100) and assess-first applies, so the highest-value optimistic move is **length-neutral reciprocal back-linking**, not a new article. No new-article opportunity is warranted.
+
+## Praise from Sympathetic Philosophers
+
+### The Property Dualist (Chalmers)
+`cognitive-distinctiveness` keeps the explanatory gap load-bearing in its "What Consciousness Contributes" section: meaning-sensitive selection (what a word *means to* a creator — felt resonance) is explicitly identified as the phenomenal property the explanatory gap marks as irreducible, not a functional surrogate. The threshold argument never collapses experience into integration.
+
+### The Quantum Mind Theorist (Stapp)
+The quantum-Zeno selection mechanism is cited at the right register — as a *speculative* mechanism for how attention may stabilise neural outcomes — and is correctly routed to `quantum-biology-and-neural-consciousness` for the empirical load. The minimality framing (operating at indeterminacies without injecting energy) is exactly the Stappian interface picture, kept hypothesis-tagged.
+
+### The Phenomenologist (Nagel)
+Both articles centre the first-person. `cognitive-distinctiveness` invokes Bergsonian durée and "temporal stakes"; `teaching-as-metarepresentation` devotes a whole section to "The Phenomenology of Teaching" (the felt "they don't get it" moment, the effort of finding apt words). The subjective remainder is treated as constitutive, not decorative.
+
+### The Process Philosopher (Whitehead)
+`teaching-as-metarepresentation` has an explicit Process Philosophy section reading teaching as the transmission of experience across actual occasions (causal efficacy, presentational immediacy) — understanding as *evoked, not transferred*. This is process-compatibility doing genuine clarifying work (why AI broadcasting differs from teaching) without being asked to upgrade any evidential claim.
+
+### The Libertarian Free Will Defender (Kane)
+`cognitive-distinctiveness`'s creative-loop and "spontaneous intentional action" framing — initiating action from internal states alone, narrowing genuine possibilities — takes origination at face value; the zombie comparison sharpens it (if phenomenal states bias which possibilities actualise, outputs may diverge).
+
+### The Mysterian (McGinn)
+Both articles carry calibrated "What Would Challenge This View?" sections with concrete, falsifiable defeaters (apes achieving cumulative culture; AI revision tracking "this feels wrong"; teaching before false-belief passage; unconscious teaching in neurological cases). Neither claims to *settle* the metaphysics; both shift a burden. That is the right humility register.
+
+### The Hardline Empiricist (Birch)
+This is the load-bearing persona here because both articles sit on the animal-consciousness boundary (great-ape cognition). **The praise-worthy restraint to name**: neither article slides the ape up the five-tier evidential scale on tenet-load. `cognitive-distinctiveness` frames the ape-human discontinuity as a *selective* gap matching what conscious access would predict — an inference-to-best-explanation, explicitly hedged ("the linkage would be correlational" listed as a live defeater), not a tier-upgrade. `teaching-as-metarepresentation` keeps the Boesch (1991) teaching claim *debated* ("which he interpreted as teaching, though this interpretation remains debated") and reports Inoue-Nakamura & Matsuzawa (1997) as the counterweight — it does not over-read the rare-exceptions (meerkat/orca) cases, calling the contrast "near-absence versus ubiquity" rather than absence-versus-presence. The illusionist challenge is stated at full strength before the Map's reply, and the AI-teaching defeater is left genuinely open ("we cannot straightforwardly demonstrate that a system is non-conscious"). Process-compatibility (Whitehead section) and evidential discipline converge: the process reading is used to *clarify* teaching, never to elevate ape or AI consciousness. Calibration is honest in both. No slippage to flag.
+
+## Content Strengths
+
+### topics/consciousness-and-cognitive-distinctiveness.md
+- **Strongest point**: The "interface threshold" vs "gradual amplification" disjunction, which makes the cluster-of-capabilities-appearing-together prediction explicit and falsifiable, and routes IIT's static-property identity thesis against four "integration-as-activity" frameworks.
+- **Notable quote**: "Language amplifies the threshold's effects but cannot *be* the threshold without circularity."
+- **Why it works**: It pre-empts the strongest rival explanation (language-not-consciousness) by showing the rival presupposes the very capacities it would explain — a clean burden-shift, not a dismissal.
+
+### concepts/teaching-as-metarepresentation.md
+- **Strongest point**: The five-level nested representational stack (first-order knowledge → second-order representation → theory of mind → gap representation → pedagogical action) operationalises "metarepresentation" into something testable against the ape evidence.
+- **Notable quote**: "Chimpanzees *have* skills without knowing they have skills."
+- **Why it works**: The Jourdain framing turns an abstract metarepresentation claim into a vivid, memorable, falsifiable empirical contrast.
+
+## Expansion Opportunities
+
+### High Priority
+
+#### Reciprocal cross-link: consciousness-and-cognitive-distinctiveness ↔ teaching-as-metarepresentation (refine-draft / cross-link, NOT new article)
+- **Builds on**: two converged, complementary articles that share `metacognition`, `cumulative-culture`, `baseline-cognition`, `consciousness-as-amplifier`, and the metarepresentation-threshold apparatus, yet do not link to each other in either direction.
+- **Would address**: `cognitive-distinctiveness`'s "Cumulative culture" and "metarepresentational step exits the zone" passages assert the threshold abstractly; `teaching-as-metarepresentation` *is* the concrete behavioural exhibit of that exact step (active pedagogy as the metarepresentational achievement apes lack). A reader on either should reach the other. The connection is the single most natural missing edge in this cluster.
+- **Estimated scope**: length-neutral and length-SAFE. Forward direction: `cognitive-distinctiveness` is at 2538w / 4000 hard — ample headroom; add one inline `[[teaching-as-metarepresentation]]` clause where cumulative culture / the metarepresentation step is discussed, plus one Further Reading + `related_articles` entry. Reverse direction: `teaching-as-metarepresentation` is at soft_warning (3087w / 3500 hard, ~400w headroom) so NO prose addition there — add only a single Further Reading / `related_articles` wikilink (length-neutral). Do not grow the concept article's body.
+- **Tenet alignment**: Tenets 1 (Dualism) and 3 (Bidirectional Interaction) — both articles are exhibits of consciousness-enabled metarepresentation causally producing the human cognitive/cultural difference.
+
+### Ideas for Later (declined under assess-first, flagged not queued)
+
+- **No new article.** Every adjacent concept the pair invokes (`metacognition`, `cumulative-culture`, `jourdain-hypothesis`, `baseline-cognition`, `consciousness-as-amplifier`, `social-understanding`) already exists as a dedicated page. The cluster is saturated; the only gap is connective.
+
+## Cross-Linking Suggestions
+
+| From | To | Reason |
+|------|-----|--------|
+| `topics/consciousness-and-cognitive-distinctiveness` | `concepts/teaching-as-metarepresentation` | the topic asserts the metarepresentation-threshold-enables-cumulative-culture step abstractly; teaching is its concrete behavioural exhibit (forward link, length-safe, ~4000 headroom) |
+| `concepts/teaching-as-metarepresentation` | `topics/consciousness-and-cognitive-distinctiveness` | teaching's ape-human asymmetry is the paradigm instance of the cognitive-distinctiveness threshold; reverse link as Further Reading / related_articles only (soft_warning — no prose add) |
+
+## New Concept Pages Needed (third pass)
+
+- **None.** Topics 261/270 and concepts 251/270 near cap, voids over-cap. The cluster is fully covered; the finding is connective, not generative.

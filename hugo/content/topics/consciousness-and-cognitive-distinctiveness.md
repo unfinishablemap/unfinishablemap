@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-12
-ai_modified: 2026-06-03 07:44:23+00:00
+ai_modified: 2026-06-03 08:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -62,6 +62,7 @@ related_articles:
 - '[[phenomenology-of-imagination]]'
 - '[[consciousness-and-the-phenomenology-of-translation]]'
 - '[[quantum-biology-and-neural-consciousness]]'
+- '[[teaching-as-metarepresentation]]'
 title: Consciousness and Cognitive Distinctiveness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -86,7 +87,7 @@ Four capacities distinguish human from great ape cognition, each mapping onto wh
 
 **Metacognition.** Great apes show procedural metacognition—uncertainty guides their behaviour—but may lack *declarative* metacognition: representing their knowledge *as* knowledge, taking their beliefs as objects of thought. This transition from implicit monitoring to explicit self-knowledge—the [metarepresentation threshold](/concepts/metacognition/#the-metarepresentation-threshold)—underlies both logical reasoning and transformational creativity.
 
-**Cumulative culture.** Apes have culture but cannot accumulate improvements across generations. Whiten (2015) documents that ape cultural transmission lacks the ratchet effect. Cumulative culture requires recognising one's own knowledge as improvable and transmittable—a metarepresentational capacity inseparable from conscious self-reflection.
+**Cumulative culture.** Apes have culture but cannot accumulate improvements across generations. Whiten (2015) documents that ape cultural transmission lacks the ratchet effect. Cumulative culture requires recognising one's own knowledge as improvable and transmittable—a metarepresentational capacity inseparable from conscious self-reflection. [Teaching](/concepts/teaching-as-metarepresentation/) is the concrete behavioural exhibit of this exact step: great apes rarely teach precisely because they do not represent their own skills as knowledge another lacks, which is why the ratchet never engages.
 
 **Logical reasoning.** DeWall, Baumeister, and Masicampo (2008) found that imposing conscious cognitive load impaired logical reasoning while nonconscious load did not. Nonconscious priming activated logic-relevant associations but failed to improve actual reasoning. Explicit rule-following depends on conscious access.
 
@@ -175,6 +176,7 @@ The consciousness-intelligence-creativity thesis would weaken if:
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence on consciousness-requiring functions
 - [metarepresentation](/concepts/metacognition/) — Representing representations
 - [cumulative-culture](/concepts/cumulative-culture/) — Cultural ratcheting and metarepresentation
+- [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/) — The behavioural exhibit of the metarepresentation step that exits the zone of latent solutions
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — Imagining non-actual states
 - [working-memory](/concepts/working-memory/) — The workspace where combination occurs
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Broadcasting account of conscious access

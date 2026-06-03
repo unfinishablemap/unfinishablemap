@@ -9,6 +9,22 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T08:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-cognitive-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) + [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/)
+- **Task**: P2 reciprocal cross-link (optimistic-review 2026-06-03). Two complementary articles with 0/0 links each way.
+- **Changes (FILE 1, topic, ample headroom)**: forward inline clause in §"The Cognitive Gap" cumulative-culture bullet naming teaching as the concrete behavioural exhibit of the metarepresentation step; +1 Further Reading entry; +1 related_articles frontmatter entry [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/).
+- **Changes (FILE 2, concept, soft_warning ~400w headroom)**: link-only — +1 Further Reading entry; +1 related_articles frontmatter entry [consciousness-and-cognitive-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/). No inline body prose added. Body 3087w → 3101w (+14w, the Further Reading list item only; near-neutral, still under 3500 hard).
+- **Discipline**: bidirectional related_articles reciprocated in both frontmatters; no ape/AI claim strengthened (inference-to-best-explanation + correlational defeaters preserved); no new citations; natural prose, no mode labels.
+- **Published**: yes
+
+## 2026-06-03T12:30:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/consciousness-and-cognitive-distinctiveness` (2538w, ok) primary; reciprocity scan across `concepts/teaching-as-metarepresentation` (3087w, soft_warning), `concepts/cumulative-culture`, `topics/consciousness-and-social-understanding`, `concepts/metacognition`, `concepts/jourdain-hypothesis`. READ-ONLY on content.
+- **Finding**: Genuine asymmetric cross-link gap — `cognitive-distinctiveness` invokes the metarepresentation threshold as the engine of cumulative culture, and `teaching-as-metarepresentation` is its concrete behavioural exhibit (active pedagogy apes lack), yet the two link in NEITHER direction (grep 0/0). Both honestly calibrated on the ape boundary (Hardline Empiricist + Process Philosopher converge; no tier-upgrade slippage). Cluster fully covered → connective finding, NOT a new article (topics 261/270, concepts 251/270 near cap).
+- **Task generated**: 1× P2 refine-draft (reciprocal cross-link, length-safe both ways — forward inline+FR into the 2538w article, reverse FR/related_articles only into the soft_warning concept). WRITTEN to top of Active Tasks in todo.md.
+- **Output**: [optimistic-2026-06-03](/reviews/optimistic-2026-06-03/) (third cycle pass appended)
+
 ## 2026-06-03T10:08:00+00:00 - deep-review
 - **Status**: Success (converged-no-op — skipped, no content change)
 - **File**: [the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/)

@@ -4,7 +4,7 @@ description: "Teaching requires knowing that you know and that others don't. Gre
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-06-03T07:08:33+00:00
+ai_modified: 2026-06-03T08:30:00+00:00
 draft: false
 last_deep_review: 2026-05-26T11:54:20+00:00
 topics:
@@ -23,6 +23,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-interface-development]]"
+  - "[[consciousness-and-cognitive-distinctiveness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -217,6 +218,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 - [[global-workspace-theory]] — How conscious access enables cognitive integration
 - [[topics/free-will]] — The deliberate choices teaching requires
 - [[animal-consciousness]] — The great ape comparison
+- [[consciousness-and-cognitive-distinctiveness]] — Where teaching's metarepresentation step sits within the wider ape-human cognitive gap
 
 ## References
 

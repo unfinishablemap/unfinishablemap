@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-06-03 07:08:33+00:00
+ai_modified: 2026-06-03 08:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,6 +25,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[consciousness-interface-development]]'
+- '[[consciousness-and-cognitive-distinctiveness]]'
 title: Teaching as Metarepresentational Achievement
 topics:
 - '[[animal-consciousness]]'
@@ -219,6 +220,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 - [global-workspace-theory](/concepts/global-workspace-theory/) — How conscious access enables cognitive integration
 - [free-will](/topics/free-will/) — The deliberate choices teaching requires
 - [animal-consciousness](/topics/animal-consciousness/) — The great ape comparison
+- [consciousness-and-cognitive-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) — Where teaching's metarepresentation step sits within the wider ape-human cognitive gap
 
 ## References
 

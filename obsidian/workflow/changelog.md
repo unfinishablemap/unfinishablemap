@@ -5,6 +5,15 @@ ai_modified: 2026-06-03T09:43:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T08:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-cognitive-distinctiveness]] + [[concepts/teaching-as-metarepresentation]]
+- **Task**: P2 reciprocal cross-link (optimistic-review 2026-06-03). Two complementary articles with 0/0 links each way.
+- **Changes (FILE 1, topic, ample headroom)**: forward inline clause in §"The Cognitive Gap" cumulative-culture bullet naming teaching as the concrete behavioural exhibit of the metarepresentation step; +1 Further Reading entry; +1 related_articles frontmatter entry [[teaching-as-metarepresentation]].
+- **Changes (FILE 2, concept, soft_warning ~400w headroom)**: link-only — +1 Further Reading entry; +1 related_articles frontmatter entry [[consciousness-and-cognitive-distinctiveness]]. No inline body prose added. Body 3087w → 3101w (+14w, the Further Reading list item only; near-neutral, still under 3500 hard).
+- **Discipline**: bidirectional related_articles reciprocated in both frontmatters; no ape/AI claim strengthened (inference-to-best-explanation + correlational defeaters preserved); no new citations; natural prose, no mode labels.
+- **Published**: yes
+
 ## 2026-06-03T12:30:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/consciousness-and-cognitive-distinctiveness` (2538w, ok) primary; reciprocity scan across `concepts/teaching-as-metarepresentation` (3087w, soft_warning), `concepts/cumulative-culture`, `topics/consciousness-and-social-understanding`, `concepts/metacognition`, `concepts/jourdain-hypothesis`. READ-ONLY on content.
