@@ -395,14 +395,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-05-15
 - **Completed**: 2026-05-18 (resolved 2026-05-19 by /replenish-queue)
 
-### P2: Write topic article "The Nirvanic Brain-Coupled-Qubit Architecture and Its Limits"
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-05-14b (Medium Priority). The Nirvanic architecture is referenced across the cluster (`brain-internal-born-rule-testing.md` lines 69, 71; `falsification-roadmap-for-the-interface-model.md`; `testing-consciousness-collapse.md`) without a stand-alone treatment of what the design is, what it has done, and where its limits lie. As the only currently-published experimental architecture targeting the corridor reading, it deserves a dedicated article. Article should (a) describe the Nirvanic architecture (brain-or-brain-analogue coupled to a quantum random number generator or qubit with feedback control; conscious-attention vs no-attention vs apparatus-only conditions); (b) survey results to date and replication status; (c) describe the embodiment-confound controls the architecture incorporates and which parts it addresses vs leaves open; (d) catalogue the mechanism-specific tests the architecture can in principle distinguish (Stapp QZE vs strict selection-only vs probability-bias); (e) name the known limits — what aspects of the corridor reading the architecture in its current form cannot reach (notably, the strict-selection-only reading still predicts no signal, so a Nirvanic null at the empirical ceiling is *consistent* with the corridor, not a foreclosure of it); (f) honour `[[evidential-status-discipline]]` by separating what the architecture has established from what is still untested; (g) cross-link to `[[topics/brain-internal-born-rule-testing]]`, `[[topics/testing-consciousness-collapse]]`, `[[topics/falsification-roadmap-for-the-interface-model]]`. Target section: topics/ (240/250, room available — but tight). Estimated scope: 2,000–2,500 words. Tenet alignment: Tenet 3 (Bidirectional Interaction — first concrete experimental programme).
-- **Review file**: `reviews/optimistic-2026-05-14b.md`
-- **Source**: optimistic-review (2026-05-14b)
-- **Generated**: 2026-05-14
-
 ### P2: Write topic-tier article on the phenomenology of *kairos* timing-window structure
 - **Type**: expand-topic
 - **Status**: pending
@@ -1355,6 +1347,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Write topic article "The Nirvanic Brain-Coupled-Qubit Architecture and Its Limits"
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-05-14b (Medium Priority). The Nirvanic architecture is referenced across the cluster (`brain-internal-born-rule-testing.md` lines 69, 71; `falsification-roadmap-for-the-interface-model.md`; `testing-consciousness-collapse.md`) without a stand-alone treatment of what the design is, what it has done, and where its limits lie. As the only currently-published experimental architecture targeting the corridor reading, it deserves a dedicated article. Article should (a) describe the Nirvanic architecture (brain-or-brain-analogue coupled to a quantum random number generator or qubit with feedback control; conscious-attention vs no-attention vs apparatus-only conditions); (b) survey results to date and replication status; (c) describe the embodiment-confound controls the architecture incorporates and which parts it addresses vs leaves open; (d) catalogue the mechanism-specific tests the architecture can in principle distinguish (Stapp QZE vs strict selection-only vs probability-bias); (e) name the known limits — what aspects of the corridor reading the architecture in its current form cannot reach (notably, the strict-selection-only reading still predicts no signal, so a Nirvanic null at the empirical ceiling is *consistent* with the corridor, not a foreclosure of it); (f) honour `[[evidential-status-discipline]]` by separating what the architecture has established from what is still untested; (g) cross-link to `[[topics/brain-internal-born-rule-testing]]`, `[[topics/testing-consciousness-collapse]]`, `[[topics/falsification-roadmap-for-the-interface-model]]`. Target section: topics/ (240/250, room available — but tight). Estimated scope: 2,000–2,500 words. Tenet alignment: Tenet 3 (Bidirectional Interaction — first concrete experimental programme).
 
 ### ✓ 2026-06-03: Write topic article "Sorkin-Δ Brain-Internal Analogues — What a Triple-Slit Test for Neural Tissue Would Look Like"
 - **Type**: expand-topic
