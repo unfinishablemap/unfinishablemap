@@ -5,6 +5,24 @@ ai_modified: 2026-06-03T01:50:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T02:01:01+00:00 - deep-review
+- **Status**: Success (converged — citation-verify verdict, no body edits)
+- **File**: [[voids/self-opacity]]
+- **Selection**: Queued on LARGE review-gap (32d; last_deep_review 2026-04-30). 8th review pass; 7 prior reviews, zero critical issues. Value axes were citation web-verify + calibration (recent touches mechanical).
+- **Citation web-verify (publisher-level)**: ALL CLEAN.
+  - Libet (1985) BBS 8(4):529-566 — VERIFIED. RP ~550ms / conscious awareness ~200ms figures (line 112) match exactly; ~350ms lag. Article reads Libet as process-opacity, not as proving unconscious decision — no over-read, Schurger engagement correctly optional.
+  - Soon et al. (2008) Nat. Neuro. 11(5):543-545 — VERIFIED. Authors Soon/Brass/Heinze/Haynes; "seven seconds" + ~60% accuracy both confirmed (frontopolar/precuneus decoding ~7s before awareness; 60% prediction). Article's conservative "up to seven seconds (~60%)" accurate vs the 7-10s literature range.
+  - Johansson et al. (2005) Science 310(5745):116-119 — VERIFIED. First-author Johansson; venue/pages confirmed; covert-switch / fail-to-notice (≤26% detection) / confabulate finding accurate.
+  - Verbatim quotes: James "seizing a spinning top to catch its motion" (Principles 1890) EXACT; Hume "I never can catch myself at any time without a perception" (Treatise I.IV.6, bundle) EXACT.
+  - Specialist/canonical (Metzinger "transparent self-model"/Being No One; Shoemaker 1968 J.Phil 65(19) immunity-to-error; Wegner priority/consistency/exclusivity; Nisbett & Wilson 1977; Sass & Parnas 2003 Schiz. Bull. 29(3):427-444; Kant/Sartre/Wittgenstein 5.63-5.641/Gödel/Merleau-Ponty) — famous-name + stance all correct, no substitutions.
+- **Calibration check**: PASS. Void stays POSITED not proven (line 70 "the Map proposes"; line 126 "stronger reading"). Empirical evidence deployed for process-OPACITY only; no epistemic→metaphysical slide. Eliminativist engagement (line 132, "limits of observation ≠ evidence of absence"; "the self is not found... for the same reason the eye is not found in the visual field") is a calibrated, internal-to-opponent move — preserved untouched. "What Would Challenge This View" + "Constitutive as Kind, Not as Degree" keep the void falsifiable.
+- **Reasoning-mode (engagement with the eliminativist)**: Mode One/Two — argues the position "stumbles on its own terms" (Hume couldn't make the bundle account work; Metzinger owes an account of *experienced* transparency); internal-to-opponent, not boundary-substitution. No editor-vocabulary label leakage in prose.
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; timestamp-only)
+- **Word count**: 2752 → 2752 body (no change; 248 under voids hard 3000)
+- **Output**: [[reviews/deep-review-2026-06-03-self-opacity]]
+
 ## 2026-06-03T01:58:00+00:00 - deep-review
 - **Status**: Success (converged — metadata-only verdict)
 - **File**: [[apex/conjunction-coalesce]]
