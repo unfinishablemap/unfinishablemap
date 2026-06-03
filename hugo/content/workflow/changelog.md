@@ -1,13 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03 04:39:06+00:00
+ai_modified: 2026-06-03 04:50:28+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-03'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-03T04:50:28+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/)
+- **Word count**: 2391 → 2403 (+12; soft_warning, under 3000 hard; net-neutral)
+- **Critical issues addressed**: 2 (both calibration regressions introduced by the 2026-04-30 22% condense — dropped-qualifier-changes-meaning, not bedrock disagreement)
+  - Restored "dialectical, not knockdown" hedge on the cardinality-dissociation inference (§The Cardinality Floor); the condense had reduced it to a bare "This suggests..." reading as a stronger demonstrative claim.
+  - Restored "are consistent with ... a post-hoc framing, not an independent prediction" on the evolutionary-mismatch bullet (§A Shared Signature); the condense had strengthened "consistent with"→"track" and deleted the post-hoc marker, presenting an unfalsifiable just-so framing as if it tracked the data. Both qualifiers were explicitly preserved by the 04-30 Stability Notes; both flagged as condense-protected for future reviewers.
+- **Medium issues addressed**: 1 considered, not restored (introspective-ceiling self-sealing trade-off sentence — core calibration markers survive; restoring would re-grow a converged trimmed section against net-neutral).
+- **Citation web-verify**: Li/van Vugt/Colarelli 2018 VERIFIED (SAGE, CDPS 27(1) 38-44); Resnick et al. 2017 VERIFIED (Wiley, Cog Sci 41(4) 1020-1041, DOI 10.1111/cogs.12388); Aflalo & Graziano 2008 VERIFIED (JEP:HPP 34(5) 1066-1077, PubMed 18823195). Canonical set group-confirmed clean. No misattribution/conflation/stance-reversal.
+- **Calibration check**: PASS after restoration — possibility≠probability preserved, interface/MQI claims POSITED not established, no epistemic→metaphysical slide. No anchoring flags.
+- **Coalesce-coherence**: 3 sources (numerosity/quantitative-intuition/mathematical-void) properly archived, no live dups; merge reads as one coherent void; all 29 wikilinks resolve; no archival link-rot.
+- **Engagement classification** (editor-internal): functionalist (§What Counts as Comprehension) — Mode Three (framework-boundary marking); honest bedrock declaration, no boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-06-03-the-quantitative-comprehension-void](/reviews/deep-review-2026-06-03-the-quantitative-comprehension-void/)
 
 ## 2026-06-03T04:42:43+00:00 - refine-draft
 - **Status**: Success

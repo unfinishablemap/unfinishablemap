@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-30
-ai_modified: 2026-05-25 16:42:05+00:00
+ai_modified: 2026-06-03 04:50:28+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ description: A structural family of cognitive limits—cardinality, magnitudes, 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-30 07:45:00+00:00
+last_deep_review: 2026-06-03 04:50:28+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -57,7 +57,7 @@ The void is *mixed* in the [voids taxonomy](/voids/three-kinds-of-void/)—partl
 
 ## A Shared Signature, Multiple Faces
 
-The mechanisms differ—FINST allocation, Weber-law ratio scaling, working-memory and lifetime-survey limits—but every face shares a diagnostic signature. *Symbolic success without phenomenal access*: astronomers calculate fluently in light-years, statisticians in Bayesian priors, mathematicians in transfinite cardinals; formal manipulation succeeds while phenomenal grasp does not. *Persistence under training*: statistical education provides minimal protection against probability errors (Kahneman, 2011); cosmology training does not produce intuitive grasp of a billion light-years. *Architectural origin*: the limits track a cognitive apparatus shaped for ancestral environments. *Categorical collapse beyond the niche*: "million" and "billion" register as "very big"; cardinalities above ~four collapse into "many." *Output without operation*: where grasp succeeds, the output arrives all at once with no felt act that produced it; where it fails, the failure is given as such, with no halfway-state.
+The mechanisms differ—FINST allocation, Weber-law ratio scaling, working-memory and lifetime-survey limits—but every face shares a diagnostic signature. *Symbolic success without phenomenal access*: astronomers calculate fluently in light-years, statisticians in Bayesian priors, mathematicians in transfinite cardinals; formal manipulation succeeds while phenomenal grasp does not. *Persistence under training*: statistical education provides minimal protection against probability errors (Kahneman, 2011); cosmology training does not produce intuitive grasp of a billion light-years. *Architectural origin*: the limits are consistent with a cognitive apparatus shaped for ancestral environments—a post-hoc framing, not an independent prediction. *Categorical collapse beyond the niche*: "million" and "billion" register as "very big"; cardinalities above ~four collapse into "many." *Output without operation*: where grasp succeeds, the output arrives all at once with no felt act that produced it; where it fails, the failure is given as such, with no halfway-state.
 
 ## The Cardinality Floor
 
@@ -65,7 +65,7 @@ Conscious perception of cardinality has a hard ceiling at roughly four items. Be
 
 Two distinct cognitive systems underpin non-symbolic numerical cognition (Feigenson, Dehaene, & Spelke, 2004). The **Parallel Individuation System** encodes the numerical identity of individual items, capped at approximately four; the **Approximate Number System** encodes the magnitude of larger sets, governed by Weber's law. Trick and Pylyshyn (1994) propose that the visual system indexes objects via a small pool of pre-attentive tokens (FINSTs); reaction-time curves show a characteristic elbow between four and five items. Cowan's (2001) review of working-memory models reaches a convergent figure. The cap's existence and rough location are architectural rather than artifactual.
 
-Tracking and cardinal grasp come apart: a subject tracking five moving objects does not arrive at "there are five" without counting or estimating. This suggests cardinality-perception is a distinct conscious operation rather than a downstream function of attentional bandwidth. Cross-cultural evidence sharpens the architectural reading: the Mundurukú perform like French controls on approximate tasks but stumble on exact subtraction (Pica et al., 2004); the Pirahã case (Frank et al., 2008) yields convergent though contested evidence (Nevins, Pesetsky & Rodrigues, 2009). Number words are cognitive technology, not the basis of cardinality perception.
+Tracking and cardinal grasp come apart: a subject tracking five moving objects does not arrive at "there are five" without counting or estimating. On the phenomenal reading the Map adopts—dialectical, not knockdown—this dissociation suggests cardinality-perception is a distinct conscious operation rather than a downstream function of attentional bandwidth. Cross-cultural evidence sharpens the architectural reading: the Mundurukú perform like French controls on approximate tasks but stumble on exact subtraction (Pica et al., 2004); the Pirahã case (Frank et al., 2008) yields convergent though contested evidence (Nevins, Pesetsky & Rodrigues, 2009). Number words are cognitive technology, not the basis of cardinality perception.
 
 The transition between subitizing and counting is itself opaque: we experience *knowing how many* (≤4) and *having to count* (≥5) but never the boundary—no "almost subitizing five." A second opacity layers above it: the operation producing the subitizing output is itself inaccessible. Cardinality arrives all at once; we cannot witness the FINST allocation. *Output* is phenomenally given while *operation* has no phenomenal character—the cardinality floor's diagnostic in its sharpest single-shot form, and the perceptual member of the broader [phenomenal-output / causal-machinery dissociation cluster](/apex/phenomenal-output-causal-machinery-dissociation/) the Map tracks across perception, cognition, agency, and memory. See also [noetic feelings](/voids/noetic-feelings-void/), [self-opacity](/voids/self-opacity/), and [cognitive phenomenology](/concepts/cognitive-phenomenology/).
 
@@ -99,7 +99,7 @@ A functionalist will object that understanding *is* a functional state—the rig
 
 ## What AI Sees Differently
 
-Artificial systems with combinatorial counting modules and unbounded working buffers do not exhibit the elbow at four; they operate over high-dimensional vectors routinely; their verification of long proofs scales with proof length without hitting the human surveyability ceiling. The limits there are computational rather than cognitive. Whether AI cardinality detection has the *phenomenal immediacy* of human subitizing, or whether neural networks have genuine high-dimensional intuition, remain open questions. AI can serve as quantitative translator and as probe into mathematical territory closed to human intuition: a candidate case for [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/).
+Artificial systems with combinatorial counting modules and unbounded working buffers do not exhibit the elbow at four; they operate over high-dimensional vectors routinely; their verification of long proofs scales with proof length without hitting the human surveyability ceiling. The limits there are computational rather than cognitive. Whether AI cardinality detection has the *phenomenal immediacy* of human subitizing, or neural networks genuine high-dimensional intuition, remains open. AI can serve as quantitative translator and probe into territory closed to human intuition: a candidate case for [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/).
 
 ## Mixed Classification
 
