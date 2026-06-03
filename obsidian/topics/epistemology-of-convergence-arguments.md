@@ -4,7 +4,7 @@ description: "What makes convergence evidentially significant? Cross-traditional
 created: 2026-02-19
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-06-02T19:25:58.796253+00:00
+ai_modified: 2026-06-03T09:15:25+00:00
 draft: false
 topics:
   - "[[the-convergence-argument-for-dualism]]"
@@ -45,7 +45,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-05-15T11:53:00+00:00
+last_deep_review: 2026-06-03T09:15:25+00:00
 coalesced_from:
   - "/topics/epistemology-of-convergence-arguments/"
   - "/topics/epistemology-of-cross-cultural-philosophical-convergence/"
