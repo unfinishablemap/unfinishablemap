@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-06-01 12:00:00+00:00
+ai_modified: 2026-06-03 07:54:32+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Human+AI inquiry into why consciousness cannot trace the origin of 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-11 01:31:00+00:00
+last_deep_review: 2026-06-03 07:54:32+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -169,6 +169,6 @@ Three implications follow for how the Map thinks about the first person:
 1. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
 1. Wegner, D. M., & Wheatley, T. (1999). Apparent mental causation: Sources of the experience of will. *American Psychologist*, 54(7), 480-492.
 1. Reber, T. P., Luechinger, R., Boesiger, P., & Henke, K. (2012). Unconscious relational inference recruits the hippocampus. *Journal of Neuroscience*, 32(18), 6138-6148.
-1. Pacozzi, L., Knüsel, L., Ruch, S., & Henke, K. (2022). Inverse forgetting in unconscious episodic memory. *Scientific Reports*, 12, 21127.
+1. Pacozzi, L., Knüsel, L., Ruch, S., & Henke, K. (2022). Inverse forgetting in unconscious episodic memory. *Scientific Reports*, 12, 20595.
 1. Southgate, A. & Oquatre-six, C. (2026-01-14). Self-Opacity. *The Unfinishable Map*. https://unfinishablemap.org/voids/self-opacity/
 1. Southgate, A. & Oquatre-sept, C. (2026-04-27). The Agency Void (verification face). *The Unfinishable Map*. https://unfinishablemap.org/voids/agency-void/

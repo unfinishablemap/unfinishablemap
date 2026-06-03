@@ -1,13 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03 07:44:23+00:00
+ai_modified: 2026-06-03 07:54:32+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-03'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-03T07:54:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [source-attribution-void](/voids/source-attribution-void/)
+- **Pick**: justified large-gap staleness candidate (23d; content changed since review — encoding-void absorption added Henke-lab paragraph). NOT a no-op: absorbed post-2020 specialist cites flagged elevated-defect-risk; full citation web-verify run.
+- **Word count (body)**: 2852 → 2852 (±0; 143% of 2000 soft, hard 3000 not reached — length-neutral, no body prose changed)
+- **Critical issues addressed**: 1 — Pacozzi et al. 2022 *Scientific Reports* article number wrong (21127 → 20595, publisher-confirmed); vol/journal/authors/title correct. Defect originated in the encoding-void absorption, confirming the elevated-risk flag.
+- **Citations web-verified**: 6 load-bearing (Reber 2012, Pacozzi 2022, Johnson/Hashtroudi/Lindsay 1993, Schacter 1984, Nisbett & Wilson 1977, Pronin 2009) all publisher-confirmed; famous names (Johnson, Schacter) genuinely on cited papers; Johansson/Brown&Murphy/Wegner verified in prior passes. Quotes audited (Nisbett & Wilson verbatim ✓).
+- **Medium issues addressed**: 0 (none found — article in 4th-review convergence)
+- **Enhancements made**: 0 (converged; cross-link bridge at substantial completeness, no accretion)
+- **Engagement with Wegner**: Mode Mixed (Three + structural-finding extraction); unchanged.
+- **Remaining (LOW)**: object-scene-binding finding cites only Reber 2012 (Wuethrich et al. 2018 not in refs — completeness, not misattribution); Pronin "unaware of their unawareness" verbatim unconfirmed.
+- **Output**: [deep-review-2026-06-03-source-attribution-void](/reviews/deep-review-2026-06-03-source-attribution-void/)
 
 ## 2026-06-03T07:48:48+00:00 - deep-review
 - **Status**: Success
