@@ -1095,3 +1095,29 @@
   subject_articles:
   - voids/minimal-consciousness-void.md
   subject_source: reuse:pending-reviews:outer-review-2026-06-02-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a1f8c3e-d394-8329-ba16-aa8a4ed2e87b
+  commissioned_at: '2026-06-03T02:07:12.460692+00:00'
+  prompt_summary: Audit consciousness-and-the-metaphysics-of-composition
+  target_filename: outer-review-2026-06-03-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Please conduct a rigorous outer review of one article on The Unfinishable\
+    \ Map (https://unfinishablemap.org), a dualist philosophy-of-mind site. Focus\
+    \ on this article: https://unfinishablemap.org/topics/consciousness-and-the-metaphysics-of-composition/\
+    \ \u2014 it was last substantively revised on 2026-05-27. Audit its core claims,\
+    \ the adequacy of its evidence and citations, its coverage of the strongest counterarguments,\
+    \ any tenet-protective bracketing that weakens the argument, and how well it integrates\
+    \ with surrounding articles. Flag stale or misattributed references against the\
+    \ live 2020s literature on mereology, composition, and consciousness. Because\
+    \ web-search indexes lag 24-48h, please consult the site changelog at https://unfinishablemap.org/workflow/changelog/\
+    \ for recent activity, and the site root https://unfinishablemap.org for context.\
+    \ End your report with a list of concrete potential improvements to specific articles\
+    \ and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit consciousness-and-the-metaphysics-of-composition
+  subject_articles:
+  - topics/consciousness-and-the-metaphysics-of-composition.md
+  subject_source: fallback:recent-aged
