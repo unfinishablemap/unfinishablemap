@@ -4,7 +4,7 @@ description: "When adjacent voids share thematic territory but encode distinct f
 created: 2026-05-16
 modified: 2026-05-16
 human_modified: null
-ai_modified: 2026-05-16T23:51:00+00:00
+ai_modified: 2026-06-03T06:38:35+00:00
 last_deep_review: 2026-05-16T23:51:00+00:00
 draft: false
 topics: []
@@ -87,6 +87,18 @@ Two failure modes mirror the conjunction-coalesce failure inventory.
 The first is *forced abandon-coalesce*: refusing mergers reflexively because naming a discipline tends to produce instances of it. The check is the differentiation test in reverse — when the three sub-questions cannot all be answered positively, the discipline does not warrant the rejection and the candidate should fall back to redundancy-coalesce or conjunction-coalesce evaluation. The 2026-05-12 metaphysics-trio rejection is a load-bearing case where the test's third sub-question (framework-independence) is what does the work — the three classical metaphysical problems pre-date the Map by centuries, so the differentiation is not Map-generated.
 
 The second is *abandon-coalesce as procrastination*: deferring difficult merger decisions indefinitely under the cover of differentiation language that does not actually meet the test. The check is the changelog — abandon-coalesce decisions must record which candidates were evaluated and why they were refused, so subsequent passes can audit whether the same candidates are being deferred repeatedly under increasingly thin grounds. The [[coalesce-condense-apex-stability|coalesce-condense-apex-stability triple-discipline]] supplies the procedural infrastructure that makes this audit possible.
+
+## Post-Coalescence Internal-Link Audit
+
+When a merger *is* performed — a redundancy- or conjunction-coalesce, or an `/archive` of a superseded article — the operation owes a final pass that the abandon decision does not: a live-page check for residual references to the merged-away title and slug. The trigger case is the 2026-06-03 ChatGPT 5.5 Pro outer review, which caught a stale "Phenomenal Non-Compositionality" reference still displayed in a sibling article's reference list after the 2026-06-01 coalescence into `composition-and-consciousness`, even though the in-body wikilink had been repointed.
+
+The checklist, applied after every coalesce or archive:
+
+1. **Old title.** Grep the corpus (including `references` blocks and prose, not just `[[wikilinks]]`) for the merged-away article's display title; repoint or remove each hit.
+2. **Old slug / URL.** Grep for the old slug and `unfinishablemap.org/<sec>/<old-slug>/` URLs in reference lists; a repointed in-body link does not guarantee a repointed bibliographic citation.
+3. **Duplicate live page.** Confirm the old `hugo/content/<sec>/<slug>.md` no longer serves full stale content under its original URL.
+
+**Code-fix candidate — flag for the operator, do not attempt here.** Two known automation defects make this audit recurring rather than one-off: the sync pipeline does not delete the old `hugo/content/<sec>/<slug>.md` when an article is archived/coalesced, so the original URL keeps serving a stale duplicate (the *coalesce-stale-hugo-duplicate-urls* defect); and the `/archive` and `/coalesce` skills leave inbound wikilinks pointing at the archive-notice page rather than the live replacement (the *archival-link-rot* defect). Until those are fixed at archive time in code, the checklist above is the manual catch. This document records the methodology; the durable fix is operator/code work, not a content edit.
 
 ## Relation to Site Perspective
 

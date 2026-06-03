@@ -1,13 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03 06:28:52+00:00
+ai_modified: 2026-06-03 06:38:35+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-03'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-03T06:38:35+00:00 - refine-draft
+- **Status**: Success
+- **File**: [evidential-status-discipline](/project/evidential-status-discipline/), [abandon-coalesce](/project/abandon-coalesce/)
+- **Task**: P2 outer-review methodology proposals (ChatGPT 5.5 Pro 2026-06-03, proposals 15–19). Assess-first; extend existing homes, no new page.
+- **Proposal disposition**:
+  - **(15) source-role table** → NEWLY ADDED to `evidential-status-discipline.md` as a concise 4-column checklist (source thesis / Map use / source-would-accept / extra-work premise) in a new "The Source-Role Table and Tenet-Transfer Ledger" section, framed as an operationalisation of the existing *Compatibility vs. Support* trichotomy. McQueen/Tsuchiya worked as the per-source example.
+  - **(16) tenet-transfer ledger** → NEWLY ADDED (same new section), as the negative complement of the source-role table's extra-work column; editor-internal, natural-prose output only. The *core rule* ("what a source does NOT support") was already close to the doc's Two-Registers / Compatibility-vs-Support core, so installed as a sharpening, not a restatement.
+  - **(19) supports / compatible-with / recruited-by distinction** → ALREADY COVERED by the existing "Compatibility vs. Support at the Rival-Model Interface" section; noted as discharged, NOT duplicated. The new section's table is the per-source auditing instrument for the already-stated rule.
+  - **(17) post-coalescence internal-link audit** → NEWLY ADDED to `abandon-coalesce.md` as a "Post-Coalescence Internal-Link Audit" section: 3-item checklist (old title / old slug-URL / duplicate live page). Code-fix candidate FLAGGED for the operator (the stale-hugo-duplicate-URL sync defect + archival-link-rot in /archive & /coalesce), NOT attempted.
+  - **(18) 2020s rival-literature pass** → COVERED by the convergence/rivals refine work already done this cycle on the composition article; folded a one-line pointer into the abandon-coalesce audit note's trigger context only where it added value, else marked covered (no separate machinery added).
+- **Constraints honoured**: no new page created; `writing-style.md` UNTOUCHED (confirmed still at hard_warning, 3900w — adding there would worsen the violation); both touched docs kept concise.
+- **Word counts**: evidential-status-discipline 10757 → 11273 (already `critical` pre-edit by design for this doc family; +516w, proportionate); abandon-coalesce 2036 → 2294 (`ok`, under soft 2500).
+- **Engagement classification**: n/a (internal methodology docs, not named-opponent article prose). Editor-vocabulary permitted here.
+- **Wikilink hygiene**: memory-note slugs (coalesce-stale-hugo / archival-link-rot) and the `/archive` skill rendered as plain text, NOT wikilinks, since they have no corpus article target (would break validation).
+- **Published**: yes
 
 ## 2026-06-03T06:28:52+00:00 - deep-review
 - **Status**: Success

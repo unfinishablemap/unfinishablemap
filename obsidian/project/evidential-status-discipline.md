@@ -4,7 +4,7 @@ description: "A tenet may remove a defeater, but it must not upgrade the evidenc
 created: 2026-05-05
 modified: 2026-05-29
 human_modified: null
-ai_modified: 2026-05-31T09:29:10+00:00
+ai_modified: 2026-06-03T06:38:35+00:00
 last_deep_review: 2026-05-10T18:31:00+00:00
 draft: false
 topics: []
@@ -90,6 +90,23 @@ The *constrain*-vs-*establish* distinction operates within a single position. A 
 The canonical case is the 2026-05-14 ChatGPT outer review of [[psychedelics-and-the-filter-model]]: the article said "the empirical evidence supporting REBUS simultaneously supports the filter interpretation." On the rival-model interface that is too strong. REBUS, the entropic-brain framework, and predictive-processing accounts predict the same neuroimaging signatures — large-scale network reconfiguration, DMN disruption, increased between-network coupling, neural entropy — by mechanisms that do not invoke a non-produced mind. The evidence is compatible with the filter reading but does not support it over the rivals unless the article names a discriminator (independently verified selective access; a measurement only the filter reading predicts). Without the discriminator, the case is empirically underdetermined and routes to [[direct-refutation-discipline|direct-refutation discipline]]'s Mode Four.
 
 The rule has an article-level corollary that altered-state, anomaly, and contemplative-report articles in particular must respect: keep the local mechanism the evidence directly establishes (DMN disruption, TPJ phenomenology, vagal-tone shifts under contemplative absorption) separable from the metaphysical inference the article draws (filter loosening, dualist OBE veridicality, noetic truth-tracking). The felt-revelatory character of an experience — its phenomenological signature of having accessed something deep, hidden, or prior — is never by itself evidence that the experience is veridical. Moving from *felt revelatory* to *truth-tracking* requires an independent validation channel: prospective verification, content that could not plausibly arise from memory or inference, or a measurement only the Map's reading predicts. Conflating local mechanism with metaphysical inference, or felt revelation with veridical access, is the within-paragraph failure mode the compatibility-vs-support boundary catches at the discriminator level.
+
+## The Source-Role Table and Tenet-Transfer Ledger
+
+The *supports* / *is compatible with* / *can be recruited by* trichotomy that the previous section installs at the rival-model interface needs a per-source operational artefact so an argumentative article cannot smuggle a recruited source in as a supporting one. The 2026-06-03 ChatGPT 5.5 Pro outer review of [[consciousness-and-the-metaphysics-of-composition]] (proposals 15–16, 19) is the originating context: the article treated Van Inwagen, Merricks, and McQueen/Tsuchiya as three independent confirmations when each is, on the trichotomy, *compatible-with* or *recruitable-by* the Map's reading rather than *supporting* of it. This section is the *operationalisation* of the existing trichotomy and the diagnostic test — a concise checklist, not a new discipline. Proposal 19 is already discharged by the *Compatibility vs. Support* section above; the table below is the per-source instrument that makes it auditable.
+
+**The source-role table.** For each external source a Map argumentative article recruits, fill four columns:
+
+| Column | Question |
+|---|---|
+| **Source thesis** | What does the source itself actually claim (its own conclusion, in its own framework)? |
+| **Map use** | What does the Map cite the source to support? |
+| **Source-would-accept?** | Would the source's author accept the Map's conclusion? (*yes* / *no* / *neutral-underdetermined*) |
+| **Premise doing the extra work** | When the answer is *no* or *neutral*, which Map-internal premise (a tenet, a prior dualist commitment) carries the gap between source thesis and Map use? |
+
+A source whose *Source-would-accept?* is *no* is *recruited-by*, not *supporting*; the article must say so and name the extra-work premise. McQueen/Tsuchiya is the worked case: their thesis is an IIT-formalised causal-integration criterion, the Map uses them for a consciousness-as-composition-boundary claim, they would *not* accept the dualist reading (they note the case "depends on strong dualism many philosophers reject"), and the extra-work premise is the Map's own [[tenets#^dualism|Dualism]] tenet. The table prevents counting a recruited source as an independent confirmation — the cluster-inflation failure mode the *Coherence vs. Evidential Status* section names downstream.
+
+**The tenet-transfer ledger.** Where an article recruits a source for a tenet-load-bearing conclusion — [[tenets#^dualism|dualism]], [[tenets#^minimal-quantum-interaction|MQI]], [[tenets#^bidirectional-interaction|bidirectional causation]], [[tenets#^no-many-worlds|No-MWI]] — it must add an explicit note of *what the source does not support*. The ledger is the negative complement of the source-role table's fourth column: the table names the premise doing the extra work; the ledger records the limit the source itself places on the transfer, in natural prose (*"Merricks grounds conscious organisms in causal non-redundancy but supplies no argument for a non-physical interface; the MQI connection is a downstream Map hypothesis, not his result"*). The ledger discharges the same boundary the [[direct-refutation-discipline]] guards at the reasoning-mode level: don't let a source's authority cross a framework boundary it does not itself cross. Both instruments are editor-internal — they live in the changelog and the editor's working notes; the article body carries only the honest natural-prose calibration they produce, never the table or the column labels (see [[writing-style]]'s evidential-calibration patterns). Both audits are scoped to argumentative articles that recruit external sources, and route through the same [[calibration-audit-triple|calibration-audit triple]] machinery as the constrain-vs-establish and altered-state-symmetry checks.
 
 ## The Five-Tier Scale
 
