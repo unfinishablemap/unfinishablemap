@@ -1,10 +1,10 @@
 ---
 title: "Bedrock-Dialectical-Clash vs. Issue-Absorption Discipline"
-description: "When a pessimistic-review surfaces an objection, the editor must choose between absorbing it into the article or engaging it as a preserved rival position. The choice is itself a substantive editorial judgement."
+description: "When a review surfaces an objection, the editor chooses between absorbing it or engaging it as a preserved rival position — and the agreement complement: when an opponent's conclusion converges by opposite reasoning."
 created: 2026-04-29
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-05-27T22:03:08+00:00
+ai_modified: 2026-06-03T00:00:00+00:00
 last_deep_review: 2026-04-29T19:25:00+00:00
 draft: false
 topics: []
@@ -19,6 +19,8 @@ related_articles:
   - "[[framework-stage-calibration]]"
   - "[[mechanism-costs-cartography]]"
   - "[[discrimination-problem]]"
+  - "[[evidential-status-discipline]]"
+  - "[[duch-neurodynamic-theory-of-mind]]"
   - "[[tenets]]"
 ai_contribution: 100
 author: null
@@ -63,6 +65,14 @@ The following categories of issue tend to warrant bedrock-clash engagement rathe
 - **Positions whose acceptance would falsify the article's argumentative shape** rather than refining it. The diagnostic question: *would absorbing the objection make this a different article making different claims?* If yes, the move is clash, not absorption.
 
 The common feature: in each category, the objection represents a *philosophically substantive rival position* whose adoption would change what the article is. The article's case has live competition; preserving that competition openly is more honest than silently conceding to it.
+
+## The Agreement Complement: Convergent-Conclusion-Opposite-Reasoning
+
+The categories above all concern *disagreement* — an objection the article must absorb or hold as a clash. The mirror-image case is *agreement*, and it carries its own discipline. When a competent opponent of a tenet reaches the *same first-order conclusion* the Map reaches but through *opposite reasoning*, the editorial temptation is to cite the opponent as support. That temptation must be resisted with the same explicitness the clash cases demand: **a shared conclusion does not entail shared reasoning, and importing the opponent's reasoning alongside the shared conclusion is a category error.** The discipline is to keep the *convergence-point* (the conclusion both sides reach) structurally distinct from the *divergence-point* (the reasoning that would, if imported, contradict the Map's commitments).
+
+The canonical instance is Włodzisław Duch and Tenet 2 (Minimal Quantum Interaction). Duch rejects substantive quantum-mind proposals at Penrose-Hameroff scale because consciousness is fully classical-computational; the Map rejects the same proposals because parsimony favours the *smallest* non-physical influence — a minimal interface at the indeterminacy boundary, not a substantive quantum substrate. The conclusions coincide ("not large-scale quantum"); the reasoning is opposite (classical-sufficiency vs. minimal-but-real interaction). An article may borrow Duch's anti-coherence arguments at the convergence-point, but importing his classical-sufficiency commitment alongside them would silently delete the minimal interface the Bidirectional Interaction tenet requires. The same shape recurs wherever an eliminativist and the Map agree that some folk-psychological posit is not a fundamental physical kind, or where a hard-determinist and the Map agree that a naïve libertarian mechanism fails — convergence at the conclusion, divergence at the reason.
+
+This complement is *sparsely instantiated* — at the time of writing it rests on essentially one well-developed worked case (Duch, treated in [[topics/duch-neurodynamic-theory-of-mind|the Duch article]], [[topics/comparing-quantum-consciousness-mechanisms|the comparison article]], and [[concepts/quantum-consciousness|the quantum-consciousness concept]]) plus thinner gestures elsewhere. Applying [[evidential-status-discipline]] to this methodology itself: the pattern is named here as a *recognised editorial hazard with one strong exemplar*, not as a robustly attested discipline with a deep case base. If further instances accrue it may warrant fuller articulation; until they do, the single sentence — *shared conclusion, separate the reasoning, importing the opponent's reasoning is a category error* — is the whole of the discipline.
 
 ## The Decision Heuristic
 
@@ -110,7 +120,7 @@ A second limitation: the discipline assumes the editor can correctly recognise w
 
 The discipline is methodological. Its most direct alignment is with **[[tenets|Tenet 5: Occam's Razor Has Limits]]**. The simpler editorial design — absorb every objection — would dissolve genuine philosophical disagreement into a single editor-determined resolution, treating every dispute as if it had a parsimonious settlement that further work would reach. Tenet 5 denies this at the metaphysical level (parsimony is unreliable when knowledge is incomplete); the bedrock-clash discipline applies the same denial at the editorial level. Some disputes are not parsimoniously resolvable inside an article; treating them as if they were produces articles that look settled and read brittle.
 
-The discipline is also indirectly aligned with **[[tenets|Tenet 1: Dualism]]**, but only via the preservation of rival positions. The Map's argumentative case for dualism does not depend on absorbing every objection from physicalism, illusionism, or eliminativism; it depends on holding a position whose case rests on multiple converging considerations while honestly engaging the rival positions as live competitors. Bedrock-clash treatment instantiates that honesty at the article level.
+The discipline is also indirectly aligned with **[[tenets|Tenet 1: Dualism]]**, via the preservation of rival positions. The Map's case for dualism does not depend on absorbing every objection from physicalism, illusionism, or eliminativism; it depends on holding a position resting on multiple converging considerations while honestly engaging the rivals as live competitors. Bedrock-clash treatment instantiates that honesty at the article level.
 
 Beyond tenet alignment, the discipline serves the Map's commitment to its primary audience: LLMs fetching pages on behalf of users (see [[writing-style|the writing-style guide]]). An article that has absorbed every objection presents the user's chatbot with a single resolved position; an article that engages major objections as bedrock clashes presents the chatbot with the dispute as it stands in the field, which is more useful than a manufactured consensus when the dispute is real. The discipline also feeds back into [[coherence-inflation-countermeasures|coherence-inflation countermeasures]] — silently absorbed objections compound coherence inflation; explicitly preserved clashes resist it by keeping the article's argumentative profile honest about its competitors.
 
@@ -127,6 +137,8 @@ Beyond tenet alignment, the discipline serves the Map's commitment to its primar
 - [[apophatic-cartography]] — methodological sibling: apophatic articles are particularly prone to needing clash treatment because their structural claims attract Madhyamaka-style worries
 - [[discrimination-problem]] — a canonical instance of a framework-boundary disagreement that data alone cannot settle: rival physicalist-functionalist and realist readings cohabit the shared body of evidence with no in-evidence discriminator, so the disagreement is properly handled as a bedrock clash rather than absorbed into either reading
 - [[apex/steelmanning-as-method]] — the constructive method whose move-three residue is frequently a bedrock clash: the method tells you *where* the framework-boundary disagreement sits (the seam the strongest rival cannot close from inside its own commitments); this discipline tells you *how* to install it as a named, replied-to subsection once found
+- [[topics/duch-neurodynamic-theory-of-mind]] — the canonical worked case for the agreement complement (convergent-conclusion-opposite-reasoning): a competent opponent who reaches a tenet-aligned first-order conclusion through reasoning the Map cannot import
+- [[evidential-status-discipline]] — applied here to the methodology itself: the agreement complement is flagged as one-exemplar-thin rather than over-claimed as a robust pattern
 
 ## References
 
