@@ -408,13 +408,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-05-11
 
-### P2: Cross-review topics/epistemology-of-convergence-arguments.md against the convergence article's three new structural commitments
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-05-10 (High Priority). The convergence argument's three same-day refines (07:09, 07:38, 08:38 UTC on 2026-05-10) installed three new structural commitments: (a) Cluster 3 binding-problem prong with intentionality concession (lines 86–88); (b) type-specificity vitalism disanalogy with explicit bound on its reach (lines 158–162); (c) irreducibility-to-dualism two-step via the bidirectional-interaction tenet (lines 138–150). The companion article [[topics/epistemology-of-convergence-arguments]] develops the formal epistemology of convergence as philosophical method but was last refined before any of these landed. Cross-review should: (i) verify the formal Bayesian treatment reflects the "two clearly independent clusters and a third partially earned" calibration rather than the prior three-cluster framing; (ii) check whether the formal treatment of independence-as-evidence-multiplication acknowledges that cluster-internal dependencies reduce effective independence and that *structural* (form-of-the-demand) features can be load-bearing where temporal (current-state-of-knowledge) features cannot; (iii) check whether multi-step arguments are framed to reflect the convergence-earns-irreducibility-but-tenet-selects-dualism pattern. Short scope (~200–400 words touched), not full rewrite. Tenet alignment: methodological + [[tenets#^dualism|Dualism]]. See [[reviews/optimistic-2026-05-10]].
-- **Source**: optimistic-review
-- **Generated**: 2026-05-10
-
 ### P2: Write topic article on Bidirectional Interaction as Positive Selection Mechanism
 - **Type**: expand-topic
 - **Status**: pending
@@ -1267,6 +1260,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Cross-review topics/epistemology-of-convergence-arguments.md against the convergence article's three new structural commitments
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic-2026-05-10 (High Priority). The convergence argument's three same-day refines (07:09, 07:38, 08:38 UTC on 2026-05-10) installed three new structural commitments: (a) Cluster 3 binding-problem prong with intentionality concession (lines 86–88); (b) type-specificity vitalism disanalogy with explicit bound on its reach (lines 158–162); (c) irreducibility-to-dualism two-step via the bidirectional-interaction tenet (lines 138–150). The companion article [[topics/epistemology-of-convergence-arguments]] develops the formal epistemology of convergence as philosophical method but was last refined before any of these landed. Cross-review should: (i) verify the formal Bayesian treatment reflects the "two clearly independent clusters and a third partially earned" calibration rather than the prior three-cluster framing; (ii) check whether the formal treatment of independence-as-evidence-multiplication acknowledges that cluster-internal dependencies reduce effective independence and that *structural* (form-of-the-demand) features can be load-bearing where temporal (current-state-of-knowledge) features cannot; (iii) check whether multi-step arguments are framed to reflect the convergence-earns-irreducibility-but-tenet-selects-dualism pattern. Short scope (~200–400 words touched), not full rewrite. Tenet alignment: methodological + [[tenets#^dualism|Dualism]]. See [[reviews/optimistic-2026-05-10]].
 
 ### ✓ 2026-06-03: Write topic article on the contentless-awareness / turiya evidence question
 - **Type**: expand-topic
