@@ -4,7 +4,7 @@ description: "Brain activity correlating with conscious experience. Correlation 
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-06-02T16:29:19+00:00
+ai_modified: 2026-06-03T18:31:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -153,7 +153,7 @@ The interactionist should be honest: conditions 1 and 2 are difficult to meet bu
 
 NCC research does not resolve whether consciousness is physical. As argued in the interactionist predictions section, both physicalism and interactionism predict exactly the correlations NCC research discovers—the data alone cannot distinguish the two frameworks.
 
-What NCC research *does* reveal is the [[explanatory-gap]]: correlations multiply, but the connection between neural description and phenomenal character never becomes *transparent*. We can predict that V4 damage eliminates color experience without understanding *why* V4 activity feels like color. This persistent opacity supports [[tenets#^dualism|Dualism]]. If consciousness were identical to neural activity, we would expect the identity to eventually become intelligible.
+What NCC research *does* reveal is the [[explanatory-gap]]: correlations multiply, but the connection between neural description and phenomenal character never becomes *transparent*. We can predict that V4 damage eliminates color experience without understanding *why* V4 activity feels like color. This persistent opacity supports [[tenets#^dualism|Dualism]]—though whether the opacity is a genuine datum or an artefact of how the question is framed is itself contested: the Type-A physicalist denies there was ever a real gap to close, reading the unclosed opacity as a feature of philosophical framing rather than of the world. The Map adopts the datum reading as a posited stance, not a point the physicalist concedes (the [[explanatory-gap]] develops this datum-versus-artefact dispute). If consciousness were identical to neural activity, we would expect the identity to eventually become intelligible.
 
 ### Bidirectional Interaction
 

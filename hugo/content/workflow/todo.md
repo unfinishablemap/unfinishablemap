@@ -437,13 +437,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (chain from optimistic-2026-04-30, expanded by optimistic-2026-04-30b)
 - **Generated**: 2026-04-30
 
-### P2: Address bundling and paper-count issues in boundary-and-projection.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-04-18b flagged two medium-severity issues. (1) The "Three Forms of Projection" section bundles tool projection, peripersonal space, and interpersonal empathy as one void despite the article's own parenthetical admission that the first two concern cognitive rather than phenomenal extension — either argue the unification more carefully or separate. (2) The 5-vs-92 paper count is treated as evidence of hidden depth; the same statistic supports the null hypothesis that the boundary problem is underspecified. Either drop the claim, hedge it, or justify the inference from neglect to depth. See [pessimistic-2026-04-18b](/reviews/pessimistic-2026-04-18b/).
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-18
-
 ### ~~P3: Write article on the fatigue void~~ ✅
 - **Type**: expand-topic
 - **Status**: superseded
@@ -1200,6 +1193,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Address bundling and paper-count issues in boundary-and-projection.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-04-18b flagged two medium-severity issues. (1) The "Three Forms of Projection" section bundles tool projection, peripersonal space, and interpersonal empathy as one void despite the article's own parenthetical admission that the first two concern cognitive rather than phenomenal extension — either argue the unification more carefully or separate. (2) The 5-vs-92 paper count is treated as evidence of hidden depth; the same statistic supports the null hypothesis that the boundary problem is underspecified. Either drop the claim, hedge it, or justify the inference from neglect to depth. See [pessimistic-2026-04-18b](/reviews/pessimistic-2026-04-18b/).
 
 ### ✓ 2026-06-03: Deep review voids/apophatic-cartography.md
 - **Type**: deep-review

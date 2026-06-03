@@ -9,6 +9,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T18:28:23+00:00 - refine-draft
+- **Status**: Success
+- **File**: [philosophical-zombies](/concepts/philosophical-zombies/)
+- **Source**: pessimistic-2026-04-16c (2 flagged; 1 genuine, 1 already-fixed)
+- **Issue 1 (line 59, GENUINE — fixed)**: Original asserted "the persistent failure to close this gap after decades of neuroscience supports the dualist reading" without marking the gap's *status* as itself contested — question-begging against Type-A physicalists who deny the gap was ever a real datum to close. Fix per [evidential-status-discipline](/project/evidential-status-discipline/): added two sentences acknowledging the gap's evidential status is part of what's in dispute (Type-A reads "persistent failure" as an artefact of philosophical framing — reported by those primed to experience it, largely absent from neuroscientific practice — not a genuine explanandum), and framed the Map's datum interpretation as "a posited stance, not a point the physicalist concedes." Length-neutral acknowledgment, not an expansion.
+- **Issue 2 (line ~125, Illusionist Challenge — ALREADY ADEQUATE, no edit)**: Verified. Line 125 already does both required things: hedges as "a stance, not a knockdown proof" AND develops the explanatory-burden-shift argument ("requires a non-circular functional story... and no such story has been supplied"). This is the good non-question-begging form (stance + burden-shift, engaging the illusionist on grounds they accept), already addressed by the 2026-06-01 refine. No residual gap; no edit made.
+- **Discipline**: conceivability→possibility calibration preserved (steps 1-3 of The Argument and the contingent-bridge framing untouched); no question-begging move introduced — the Issue 1 fix *weakens* an over-strong claim rather than adding one; no mode labels in body.
+- **Word count**: 3244w → 3314w body (soft_warning; +70w; under 3500 hard).
+
 ## 2026-06-03T18:24:45+00:00 - refine-draft
 - **Status**: Success
 - **File**: [boundary-and-projection](/voids/boundary-and-projection/)
