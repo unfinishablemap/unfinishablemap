@@ -4,7 +4,7 @@ description: "Ramanujan reported receiving formulas in dreams. A worked exhibit 
 created: 2026-06-03
 modified: 2026-06-03
 human_modified:
-ai_modified: 2026-06-03T14:37:18+00:00
+ai_modified: 2026-06-03T18:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-03
 last_curated:
-last_deep_review:
+last_deep_review: 2026-06-03T18:05:00+00:00
 ---
 
 Srinivasa Ramanujan (1887–1920) reported that mathematical formulas were given to him in dreams and visions, which he attributed to the family goddess Namagiri. He produced thousands of results—infinite series, continued fractions, modular identities—many of extraordinary depth, often without proofs and without any account of derivation that he could supply on request. This makes Ramanujan the most cited concrete case in any argument that mathematical insight resists computational explanation. It also makes him the most dangerous case to cite carelessly, because the anecdotes are heavily mythologised and the phenomenology is exactly the kind of self-report that a deflationary account predicts would be unreliable. This article treats Ramanujan as a *worked exhibit in register-separation discipline*: a demonstration of what a reception phenomenology can and cannot establish, where every claim is held at its proper evidential tier. The Hardy collaboration is the hinge—not because it proves anything about consciousness, but because it externally validates *that there is a pattern of reliability to be explained at all*.
@@ -41,7 +41,7 @@ What is well attested:
 
 - **Ramanujan sincerely reported a reception phenomenology.** When asked how he arrived at his formulas, he gave the Namagiri attribution as a literal account, not a metaphor. This is a report *about his experience*, and as such it is reasonably documented.
 - **His early letters to Hardy (16 January and 27 February 1913) contained formulas without proofs.** Hardy and Littlewood judged that some were profoundly original, some were already known, and "others incorrect as stated."
-- **Hardy assessed the originals as the work of a mathematician of the highest class.** Of the hardest formulas (his (1.10)–(1.12)), Hardy wrote that they "defeated me completely; I had never seen anything in the least like them before. A single look at them is enough to show that they could only be written by a mathematician of the highest class." He added the much-quoted line: "they must be true because, if they were not true, no one would have had the imagination to invent them."
+- **Hardy assessed the originals as the work of a mathematician of the highest class.** Of the hardest formulas (his (1.10)–(1.12)), Hardy wrote that they "defeated me completely; I had never seen anything in the least like them before. A single look at them is enough to show that they could only be written down by a mathematician of the highest class." He added the much-quoted line: "they must be true because, if they were not true, no one would have had the imagination to invent them."
 
 What is *not* securely documented, and should not be propagated:
 

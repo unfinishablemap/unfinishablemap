@@ -9,6 +9,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T18:05:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [ramanujan-and-the-phenomenology-of-mathematical-reception](/topics/ramanujan-and-the-phenomenology-of-mathematical-reception/)
+- **Word count**: 1980 → 1980 (+0; one-word quote restoration only)
+- **Critical issues addressed**: 1 (verbatim-quote variance — Hardy "written by" → "written down by a mathematician of the highest class", restored attested wording)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article converged at creation; a model of register-separation discipline)
+- **Citation web-verify**: Hardy "highest class"/"defeated me completely"/"must be true... imagination to invent them" quotes; 16 Jan & 27 Feb 1913 letter dates; prime-counting π(x) error from ignorance of complex-variable theory / zeta complex zeros (Hardy diagnosis); Hardy-as-atheist "fable" + never-asked-the-source — all confirmed against the literature.
+- **Engagement classification (editor-internal)**: confabulation/deflationary reading — Mode One against the *complete*-confabulation claim (defeated on the opponent's own evidential standards via Hardy third-party verification), Mode Three on the open mechanism residue (honestly declared underdetermined). No label leakage in body.
+- **Length**: 1980w canonical (66% of 3000 soft) — ok.
+- **Output**: [deep-review-2026-06-03-ramanujan-and-the-phenomenology-of-mathematical-reception](/reviews/deep-review-2026-06-03-ramanujan-and-the-phenomenology-of-mathematical-reception/)
+
 ## 2026-06-03T16:20:00+00:00 - expand-topic
 - **Status**: Success (assess-first → CREATE)
 - **Topic**: The Articulability of Q1

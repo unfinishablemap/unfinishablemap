@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-06-03 14:37:18+00:00
+ai_modified: 2026-06-03 18:05:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: 'Ramanujan reported receiving formulas in dreams. A worked exhibit 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-06-03 18:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -44,7 +44,7 @@ What is well attested:
 
 - **Ramanujan sincerely reported a reception phenomenology.** When asked how he arrived at his formulas, he gave the Namagiri attribution as a literal account, not a metaphor. This is a report *about his experience*, and as such it is reasonably documented.
 - **His early letters to Hardy (16 January and 27 February 1913) contained formulas without proofs.** Hardy and Littlewood judged that some were profoundly original, some were already known, and "others incorrect as stated."
-- **Hardy assessed the originals as the work of a mathematician of the highest class.** Of the hardest formulas (his (1.10)–(1.12)), Hardy wrote that they "defeated me completely; I had never seen anything in the least like them before. A single look at them is enough to show that they could only be written by a mathematician of the highest class." He added the much-quoted line: "they must be true because, if they were not true, no one would have had the imagination to invent them."
+- **Hardy assessed the originals as the work of a mathematician of the highest class.** Of the hardest formulas (his (1.10)–(1.12)), Hardy wrote that they "defeated me completely; I had never seen anything in the least like them before. A single look at them is enough to show that they could only be written down by a mathematician of the highest class." He added the much-quoted line: "they must be true because, if they were not true, no one would have had the imagination to invent them."
 
 What is *not* securely documented, and should not be propagated:
 

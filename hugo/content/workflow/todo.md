@@ -402,14 +402,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-05-15
 - **Completed**: 2026-05-18 (resolved 2026-05-19 by /replenish-queue)
 
-### P2: Write concept page `articulability-of-q1` consolidating the live open problem
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review (evening — 2026-05-11c). The four-quadrant taxonomy article at lines 144–146 names *Q1 articulability* (whether a non-stipulative authority-selecting law can be specified at the psychophysical level) as the cluster's sharpest unresolved question; the mechanism-costs article at line 68 cross-links to `[[voids/interface-formalization-void]]` as the burden's home; the existing `[[concepts/trumping-preemption]]` page exposes the structural template Saad's framework deploys but does not consolidate the articulability question into a single referential anchor. A dedicated concept page would consolidate the question and supply (a) the formal structure of an authority-selecting law (what it must specify; what counts as non-stipulative), (b) the fiction-to-nature gap inherited from Schaffer's stipulative cases (Merlin's spell; military rank), (c) Saad's delegatory dualism as the current best candidate, (d) what would constitute progress (specific empirical commitments at the psychophysical level; structural constraints on the law's form), (e) cross-links to `[[concepts/trumping-preemption]]`, `[[concepts/delegatory-causation]]`, `[[topics/delegatory-dualism]]`, `[[topics/four-quadrant-dualism-taxonomy]]`, `[[topics/mechanism-costs-dualism-thickness-quadrants]]`, `[[voids/interface-formalization-void]]`. Estimated scope: 1,800–2,400 words; concepts/ placement (concepts/ at ~230/250 = 92%, room available). Tenet alignment: Tenet 1 (Dualism), Tenet 2 (Minimal Quantum Interaction); methodological.
-- **Review file**: `reviews/optimistic-2026-05-11c.md`
-- **Source**: optimistic-review (2026-05-11c)
-- **Generated**: 2026-05-11
-
 ### P2: Write topic page `q3-as-coherent-dualism` mapping the under-discussed quadrant
 - **Type**: expand-topic
 - **Status**: pending
@@ -1314,6 +1306,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Write concept page `articulability-of-q1` consolidating the live open problem
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review (evening — 2026-05-11c). The four-quadrant taxonomy article at lines 144–146 names *Q1 articulability* (whether a non-stipulative authority-selecting law can be specified at the psychophysical level) as the cluster's sharpest unresolved question; the mechanism-costs article at line 68 cross-links to `[[voids/interface-formalization-void]]` as the burden's home; the existing `[[concepts/trumping-preemption]]` page exposes the structural template Saad's framework deploys but does not consolidate the articulability question into a single referential anchor. A dedicated concept page would consolidate the question and supply (a) the formal structure of an authority-selecting law (what it must specify; what counts as non-stipulative), (b) the fiction-to-nature gap inherited from Schaffer's stipulative cases (Merlin's spell; military rank), (c) Saad's delegatory dualism as the current best candidate, (d) what would constitute progress (specific empirical commitments at the psychophysical level; structural constraints on the law's form), (e) cross-links to `[[concepts/trumping-preemption]]`, `[[concepts/delegatory-causation]]`, `[[topics/delegatory-dualism]]`, `[[topics/four-quadrant-dualism-taxonomy]]`, `[[topics/mechanism-costs-dualism-thickness-quadrants]]`, `[[voids/interface-formalization-void]]`. Estimated scope: 1,800–2,400 words; concepts/ placement (concepts/ at ~230/250 = 92%, room available). Tenet alignment: Tenet 1 (Dualism), Tenet 2 (Minimal Quantum Interaction); methodological.
 
 ### ✓ 2026-06-03: Write apex synthesis "Dualism Cartography" tying the thickness-grid cluster together
 - **Type**: apex-evolve
