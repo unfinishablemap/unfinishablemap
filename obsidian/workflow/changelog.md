@@ -5,6 +5,19 @@ ai_modified: 2026-06-03T01:50:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T03:41:40+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-memory]]
+- **Word count (body)**: 3870 → 3872 (+2; soft_warning, 129% of 3000 soft, 128 under 4000 hard — length-neutral honoured)
+- **Critical issues addressed**: 1 (fabricated/conflated citation: the verbatim Reconsolidation quote was mis-attributed to "Kube et al. (2025), *Frontiers in Cognition* 4:1518743" — but that article-id belongs to an unrelated Hass-Cohen arts-therapies paper; the quote is genuine and traces to **Lepsius (2026), *New Ideas in Psychology* 80:101221** (Crossref DOI 10.1016/j.newideapsych.2025.101221). Fixed in-body + reference #20; quote text unchanged.)
+- **Medium issues addressed**: 0 (7th review; otherwise converged)
+- **Enhancements made**: 0 (citation correction only; no prose/calibration changes)
+- **Citation web-verify** (recency-clustering load-bearing): Geva-Sagiv 2023 *Nat Neurosci* 26(6):1100-1110 CLEAN; Buzsáki 2015 *Hippocampus* 25(10):1073-1188 CLEAN (the 115-page span is the real range, not a typo); Siclari 2017 *Nat Neurosci* 20:872-878 CLEAN (posterior hot-zone paper); Hu 2020 *Psychol Bull* 146(3):218-244 CLEAN (TMR meta-analysis, NREM-specific effect correctly attributed to primary); Cellini & Capuozzo 2018 *Ann NYAS* 1426(1):52-71 CLEAN; Zheng & Meister 2025 *Neuron* 113(2):192-204 CLEAN/consistent; Stokes 2015 consistent. "Kube 2025" = the one defect (fixed → Lepsius 2026).
+- **Calibration**: preserved — dualist/interface reading stays posited; machinery-dissociation integration stays the Map's reading; no epistemic→metaphysical slide; underdetermination markers intact.
+- **Engagement modes** (unchanged, no leakage): encoding-consolidation Mode Two; phenomenological trajectory Mixed (Two+Three); predictive processing Mode Two; CLS Mode One; MWI Mode Three; choking/epiphenomenalism Mode One.
+- **Reasoning-mode/calibration**: no boundary-substitution; no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-03-consciousness-and-memory]]
+
 ## 2026-06-03T03:33:30+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/causal-consistency-constraint]]

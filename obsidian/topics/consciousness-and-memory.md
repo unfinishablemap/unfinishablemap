@@ -4,7 +4,7 @@ description: "Memory is not storage but structured re-experiencing—and the hie
 created: 2026-02-08
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-05-09T05:17:00+00:00
+ai_modified: 2026-06-03T03:41:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -49,7 +49,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-08
 last_curated:
-last_deep_review: 2026-05-09T05:17:00+00:00
+last_deep_review: 2026-06-03T03:41:40+00:00
 coalesced_from:
   - "/topics/consciousness-and-memory/"
   - "/topics/consciousness-and-memory-consolidation/"
@@ -120,7 +120,7 @@ Every act of retrieval destabilises the memory trace. Nader, Schafe, and Le Doux
 
 Reconsolidation is where consciousness and consolidation intersect most directly. Sleep consolidation runs offline, but waking retrieval triggers destabilisation through a conscious act: attention selects which memory to access, working memory holds the recalled content, and the present emotional and cognitive context shapes what the restabilised trace will become.
 
-This creates a cycle: sleep consolidation transforms memories outside consciousness; waking retrieval reopens them to conscious influence; the next round of sleep consolidation processes the modified trace. Each cycle moves the memory further from its original phenomenal character and further toward a version shaped by the subject's evolving self-understanding. Reconsolidation is "a goal-directed activity guided by the need for consonance, alignment, and internal stability" (Kube et al., 2025). Something determines which reconstruction becomes actual. The Map argues this is where [[interactionist-dualism|non-physical consciousness]] contributes: not replacing neural reconsolidation mechanisms but providing the directional input that makes reconstruction purposive rather than merely stochastic.
+This creates a cycle: sleep consolidation transforms memories outside consciousness; waking retrieval reopens them to conscious influence; the next round of sleep consolidation processes the modified trace. Each cycle moves the memory further from its original phenomenal character and further toward a version shaped by the subject's evolving self-understanding. Reconsolidation is "a goal-directed activity guided by the need for consonance, alignment, and internal stability" (Lepsius, 2026). Something determines which reconstruction becomes actual. The Map argues this is where [[interactionist-dualism|non-physical consciousness]] contributes: not replacing neural reconsolidation mechanisms but providing the directional input that makes reconstruction purposive rather than merely stochastic.
 
 For [[personal-identity|personal identity]], reconsolidation means the self is perpetually rewriting its own history. The person you believe yourself to have been is shaped by every act of remembering.
 
@@ -239,5 +239,5 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 1. Nadel, L. & Moscovitch, M. (1997). Memory consolidation, retrograde amnesia and the hippocampal complex. *Current Opinion in Neurobiology*, 7(2), 217–227.
 1. Nader, K., Schafe, G. E. & Le Doux, J. E. (2000). Fear memories require protein synthesis in the amygdala for reconsolidation after retrieval. *Nature*, 406, 722–726.
 1. Winocur, G. & Moscovitch, M. (2011). Memory transformation and systems consolidation. *Journal of the International Neuropsychological Society*, 17(5), 766–780.
-1. Kube, T. et al. (2025). Reconsolidation and the goal-directedness of memory retrieval. *Frontiers in Cognition*, 4, 1518743.
+1. Lepsius, M. (2026). The brain edits the past: Neural systems of memory reconstruction and self-stability. *New Ideas in Psychology*, 80, 101221.
 1. McClelland, J. L., McNaughton, B. L. & O'Reilly, R. C. (1995). Why there are complementary learning systems in the hippocampus and neocortex. *Psychological Review*, 102(3), 419–457.
