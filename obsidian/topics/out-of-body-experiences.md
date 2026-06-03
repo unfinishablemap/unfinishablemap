@@ -4,8 +4,8 @@ description: "Out-of-body experiences are phenomenologically real and causally d
 created: 2026-05-08
 modified: 2026-05-08
 human_modified:
-ai_modified: 2026-06-02T19:13:09+00:00
-last_deep_review: 2026-05-08T21:35:00+00:00
+ai_modified: 2026-06-03T00:36:03+00:00
+last_deep_review: 2026-06-03T00:36:03+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -157,7 +157,7 @@ None of these would be definitive on their own, but each would shift the evident
 1. Blanke, O., Landis, T., Spinelli, L. & Seeck, M. (2004). Out-of-body experience and autoscopy of neurological origin. *Brain*, 127(2), 243–258.
 1. Blanke, O. & Mohr, C. (2005). Out-of-body experience, heautoscopy, and autoscopic hallucination of neurological origin: Implications for neurocognitive mechanisms of corporeal awareness and self-consciousness. *Brain Research Reviews*, 50(1), 184–199.
 1. De Ridder, D., Van Laere, K., Dupont, P., Menovsky, T. & Van de Heyning, P. (2007). Visualizing out-of-body experience in the brain. *New England Journal of Medicine*, 357(18), 1829–1833.
-1. Ehrsson, H. H. (2007). The experience of being there: Out-of-body illusions. *Science*, 317(5841), 1048.
+1. Ehrsson, H. H. (2007). The experimental induction of out-of-body experiences. *Science*, 317(5841), 1048.
 1. Lenggenhager, B., Tadi, T., Metzinger, T. & Blanke, O. (2007). Video ergo sum: Manipulating bodily self-consciousness. *Science*, 317(5841), 1096–1099.
 1. Metzinger, T. (2009). *The Ego Tunnel: The Science of the Mind and the Myth of the Self*. Basic Books.
 1. Parnia, S. et al. (2014). AWARE—AWAreness during REsuscitation—A prospective study. *Resuscitation*, 85(12), 1799–1805.

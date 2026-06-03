@@ -5,6 +5,20 @@ ai_modified: 2026-06-03T00:20:14+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T00:36:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/out-of-body-experiences]]
+- **Selection**: staleness/changed-since-review scorer top candidate (25-day review gap; ai_modified 2026-06-02 < today, so not excluded). Own content changed since last_deep_review (2026-06-02 NCC-calibration refine), no open queue task on the file (line-9085 todo references it as inspiration for a *new* concept page, not a task on it). Body 2935w — under hard, large positive review-gap.
+- **Word count (body)**: 2935 → 2934 (-1)
+- **Critical issues addressed**: 1 (Ehrsson 2007 reference title was wrong — "The experience of being there: Out-of-body illusions" → verified actual title "The experimental induction of out-of-body experiences", *Science* 317(5841):1048; metadata + quote otherwise correct)
+- **Medium issues addressed**: 0 (De Ridder 2007 NEJM orphaned-but-accurate ref deferred — length-neutral on converged article)
+- **Enhancements made**: 0 (article at convergence; 2026-06-02 calibration edits confirmed protective, not reverted)
+- **Citation web-verify (publisher of record)**: Blanke 2002 Nature 419:269 ✓; Blanke 2004 Brain 127(2):243 ✓; Lenggenhager 2007 Science 317:1096 ✓; Ehrsson 2007 Science 317:1048 ✓-after-title-fix; De Ridder 2007 NEJM 357:1829 ✓ (orphaned); AWARE I Parnia 2014 Resuscitation 85:1799 ✓; AWARE II Parnia 2023 Resuscitation 191:109903 ✓ (exact figures verified: 567 arrests / 28 interviewed / 6=21.4% RED / 1=3.5% auditory / 0 visual).
+- **Calibration**: no possibility/probability slippage; the 2026-06-02 "refutes"→"tells against" softening and the NCC-underdetermination marker both LOWER confidence — preserved. Map's interface reading kept POSITED/underdetermined, not evidence-elevated.
+- **Reasoning modes** (editor-internal): mechanism-to-dismissal = Mode One; strong-embodiment = Mode One; NDE-OBE veridical dismissal = Mode Three. No label leakage, no boundary substitution.
+- **Output**: [[reviews/deep-review-2026-06-03-out-of-body-experiences]]
+- **Published**: no (uncommitted; orchestrator commits)
+
 ## 2026-06-03T00:30:00+00:00 - refine-draft
 - **Status**: Success
 - **Task**: Corpus sweep — normalize Kerskens 2022 second-author surname to canonical "López Pérez" (Spanish compound surname; given name David). Driver web-verified canonical form this cycle against IOPscience + ADS (2022JPhCo...6j5001K) + ResearchGate. Pure citation/metadata fix, length-neutral, multi-file single-pass.
