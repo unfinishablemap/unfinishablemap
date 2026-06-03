@@ -9,6 +9,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T20:04:48+00:00 - deep-review
+- **Status**: Success (converged — citation web-verify + calibration confirmation, no-op no content edit)
+- **File**: [concession-convergence](/concepts/concession-convergence/)
+- **Word count**: 3445 → 3445 (no change; soft_warning, under 3500 hard threshold)
+- **Citations web-verified**: 5 load-bearing, all real + correct (3-state: all KEEP). Tononi 2008 (Biol. Bull. 215:216–242), COGITATE 2025 (Nature, s41586-025-08888-1), Brown 2025 (OUP, HOROR), Milinkovic & Aru 2026 (Neurosci. Biobehav. Rev. 181:106524), Frankish 2016 (JCS 23:11–39). No fabrication, no wrong-author defect. Reichenbach/Salmon/Sober live in parent [common-cause-null](/project/common-cause-null/), not this article's References — N/A here.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Calibration confirmed intact**: Map's-reading framing (interpretive-significance = framework-shaped, *realistic possibility contested*) AND common-cause-null independence-scoring (3 upstream layers, 3 discriminating tests, N-fold-overstatement caveat, asymmetric tiers) both present and sound. 2026-06-02 mods were cross-link installs only, not calibration edits — verified via git log.
+- **Engagement modes** (editor-internal): Dennett Mode Two, Frankish Mode Two (discriminator data points, no boundary-substitution); no label leakage
+- **Frontmatter**: last_deep_review bumped 2026-05-26 → 2026-06-03; ai_modified NOT bumped (convergence no-op, over-review-damping discipline)
+- **Output**: [deep-review-2026-06-03-concession-convergence](/reviews/deep-review-2026-06-03-concession-convergence/)
+
+## 2026-06-03T19:53:00+00:00 - pessimistic-review
+- **Status**: Success (no issues — converged article, 2 citations web-verified correct)
+- **Content reviewed**: [status-of-content](/concepts/status-of-content/) (Boghossian's sophisticated self-refutation)
+- **Output**: [pessimistic-2026-06-03-status-of-content](/reviews/pessimistic-2026-06-03-status-of-content/)
+- **Note**: Boghossian 1990 (Phil Review 99:157-184) and Devitt-Rey 1991 (PPQ 72:87-100) both verified correct. `[[intentionality]]` confirmed live (not archive link-rot). No tasks written by design.
+
 ## 2026-06-03T20:30:00+00:00 - deep-review
 - **Status**: Success (converged — citation hot-zone audit, 2 minor edits)
 - **File**: [cumulative-culture](/concepts/cumulative-culture/)
