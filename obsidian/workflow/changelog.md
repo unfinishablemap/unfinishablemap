@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03T07:19:14+00:00
+ai_modified: 2026-06-03T07:44:23+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-03T07:44:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-cognitive-distinctiveness]]
+- **Pick**: justified — changed-since-review staleness (last_deep_review 2026-05-11, ai_modified 2026-06-02; 22d gap). The 2026-06-02 refine re-attributed the DMN/Brain 2024 citation, which web-verification revealed had conflated two papers. Not a converged no-op.
+- **Word count (body)**: 2496 → 2538 (+42; 85% of 3000 soft, well under 4000 topics hard — no length action; not a hub-accretion case)
+- **Critical issues addressed**: 1 — citation misattribution (review-cited-for-wrong-result). One paragraph attributed *two* findings to "Bartoli et al. (2024) *Brain*": (a) DMN causal role — genuinely Bartoli et al. 2024 *Brain* 147(10) 3409-3425 (verified, CORRECT); (b) "neither DMN nor ECN alone predicts creativity / switching predicts creative ability" — actually **Chen, Q., Kenett, Y.N. et al. (2025) *Communications Biology* 8(1):54** (N=2,433, 10 samples), NOT Bartoli. Split the attribution; added Chen 2025 to References. (Lineage: prior review listed this as the famous-name confab "Yeh et al."; 2026-06-02 refine fixed first-author→Bartoli + page range but left the second finding conflated.)
+- **Citation web-verify** (publishers of record): Bartoli et al. 2024 *Brain* 147(10) 3409-3425 (first author Eleonora Bartoli, DOI 10.1093/brain/awae199 — CONFIRMED, causal-role claim matches). Chen et al. 2025 *Comm Biol* 8(1):54 (first author Qunlin Chen — CONFIRMED, switching claim matches). **Whiten 2015** *Phil Trans R Soc B* 370(1682) DOI 10.1098/rstb.2014.0359 — percussion-technology paper GENUINE + correctly attributed; **no Jourdain/Gruber famous-name defect present** (no "apes have culture but may not know it" claim attributed to Whiten here) — discrimination guard satisfied, preserved as-is. Georgiev 2024 *Life* 14(1):48 quote verbatim-audited EXACT.
+- **Quote verbatim audit**: Georgiev quote exact at source.
+- **Calibration**: no slippage. 2026-06-02 quantum-biology hedge ("does not require sustained coherence at neural timescales") *improves* calibration. Map-frame language intact. Reasoning modes unchanged (epiphenomenalism Mode Two; linguistic-primacy Mode One; MWI/zombie Mode Three); no label leakage; no boundary-substitution.
+- **Output**: [[reviews/deep-review-2026-06-03-consciousness-and-cognitive-distinctiveness]]
 
 ## 2026-06-03T07:34:00+00:00 - deep-review
 - **Status**: Success
