@@ -75,3 +75,73 @@ This article touches no minimal-organism / animal-boundary claim and makes **no 
 ## New Concept Pages Needed
 
 - **None.** Corpus is intentionally near-complete (concepts 250/270, topics 260/270, voids over cap). No undefined concept surfaced; the finding is connective, not generative.
+
+---
+
+# Second Pass (06:54 UTC) — Cross-Traditional Convergence Cluster
+
+**Content reviewed**: `topics/interaction-problem-across-traditions.md` (2897w, length ok) and `topics/cross-traditional-convergence-on-consciousness-irreducibility.md` (3653w, soft_warning). Assess-first checks on Kyoto School, African philosophy, Neoplatonist audit, and `cross-cultural-convergence-on-mental-causation` coverage.
+
+## Executive Summary
+
+Two sibling articles in the recently-worked convergence cluster are **complementary by design** — one maps cross-traditional convergence on the interaction *problem* (and its five candidate solution-structures), the other maps convergence on *irreducibility* itself — and both run the same calibrated convergence-discipline reasoning ("the puzzle's recurrence confirms the puzzle, not the metaphysics"). Yet **they do not link to each other** in either direction. Neither is an orphan (10 and 19 inbound links respectively), so this is a pure, length-safe, high-value reciprocal cross-link gap, not a content deficit. No new-article opportunity is warranted: the corpus is converged, topics are near cap (261/270 on disk), and the most natural "gap" candidate (a dedicated Kyoto School / Nishida page) is already partially covered in prose across five articles and is at best a defensible-not-compelling create — declined under assess-first.
+
+## Praise from Sympathetic Philosophers
+
+### The Property Dualist (Chalmers)
+`cross-traditional-convergence` keeps the explanatory gap structurally central via the "Gap Between Structure and Quality" section: no amount of relational specification (neural, *guṇa*, *dharma*) entails intrinsic character. Chalmers' own point, recovered independently from three vocabularies — exactly the cross-method robustness that makes the gap look real rather than parochial.
+
+### The Quantum Mind Theorist (Stapp)
+`interaction-problem-across-traditions` Type 4 cleanly situates Stapp's quantum-Zeno selection alongside Sāṃkhya reflection and Avicennan governance as instances of one structural insight — *selection, not injection*. Stapp would welcome the framing that quantum approaches "ground this selection in the measurement problem" where the non-Western precursors offered only metaphor.
+
+### The Phenomenologist (Nagel)
+The "Asymmetry of Acquaintance" and "Regress of Objectification" sections are pure Nagel: consciousness is self-intimating in a way no physical object is; every attempt to objectify it generates a new objectifying act. The article credits *sākṣātkāra* vs *anumāna*, Husserl, and Sartre with the same finding — first-person centring done comparatively.
+
+### The Process Philosopher (Whitehead)
+`interaction-problem-across-traditions` Type 3 ("Dissolution Through Process") treats Whitehead's actual occasions and Mulla Ṣadrā's substantial motion as the *strongest competitor* to the Map's dualism, not a strawman — and openly invites a "dynamic dualism" that learns from process while keeping irreducibility. Process-philosophical resonance is engaged at full strength and explicitly *not* asked to do evidential work.
+
+### The Libertarian Free Will Defender (Kane)
+Less central to this cluster; the agency thread lives in the sibling mental-causation hub. No Kane-relevant over- or under-claim surfaced.
+
+### The Mysterian (McGinn)
+Both articles model calibrated humility. `cross-traditional-convergence` explicitly states "the convergence does work; it does not do unlimited work," names the circularity risk in its own depth criterion, and confronts the Chinese counter-example as "the strongest exception" rather than burying it. That is McGinn-grade epistemic honesty.
+
+### The Hardline Empiricist (Birch) — load-bearing here
+This is the cluster's standout strength and the persona's verdict is decisive. `cross-traditional-convergence` performs **exactly the tenet-as-evidence-upgrade-that-is-praise-worthily-*not*-done**: it had every structural opportunity to read N converging traditions as N independent confirmations and explicitly declines, engaging the [[common-cause-null]] head-on. It distinguishes premise-level common causes (substantially weakened) from a residual introspection-architecture common cause (acknowledged, not dissolved), and refuses to let framework-coherence inflate the tier — "framework-coherence raises framework-internal weight without raising the tier on the empirical or metaphysical claims." The Neoplatonist-audit discount on the Islamic/Sufi strand is honoured rather than smoothed over (Advaita carries the cleaner isolation case). `interaction-problem-across-traditions` matches this: "A puzzle's reappearance across cultures confirms the puzzle, not the metaphysics offered to settle it" and the explicit Occam's-Razor-Has-Limits guard against treating recurrence as solution-evidence. The Process Philosopher and the Hardline Empiricist **converge** in praising the same passages — by design, that signals the cluster has resolved the possibility/probability tension honestly. No calibration concern to flag; no `refine-draft`-for-slippage task warranted.
+
+## Content Strengths
+
+### topics/interaction-problem-across-traditions.md
+- **Strongest point**: The five-type structural typology (Contact / Non-Contact / Process / Quantum / Monist Avoidance) is genuinely original organising work — it lets Descartes' pineal gland and Nyāya's atomic *manas* be recognised as the *same* answer, and locates the Map in Type 4 while showing it draws Type-2 "selection" resources.
+- **Notable quote**: "Any proposed bridge inherits the gap it was meant to span."
+- **Why it works**: Converged, richly referenced (20 sources spanning IEP/SEP/primary texts), and the "What the Typology Reveals" section is a model of convergence-discipline: it separates warrant-for-the-problem from warrant-for-the-answer cleanly.
+
+### topics/cross-traditional-convergence-on-consciousness-irreducibility.md
+- **Strongest point**: The dynamical-systems "attractor with a basin" framing, with the Chinese counter-example marking *where the basin ends* — a falsifiability-preserving move that most convergence arguments skip.
+- **Notable quote**: "The convergence does work; it does not do unlimited work."
+- **Why it works**: It is the corpus's reference implementation of the common-cause-null discipline applied to a convergence claim; the agreement-despite-disagreement table is an effective LLM-front-loaded summary device.
+
+## Expansion Opportunities
+
+### High Priority
+
+#### Reciprocal cross-link between the two convergence siblings (cross-link / refine-draft, NOT new article)
+- **Builds on**: two converged, well-integrated articles that already share the `cross-cultural-convergence-on-mental-causation` hub.
+- **Would address**: the missing bidirectional link — `interaction-problem-across-traditions`'s "What the Typology Reveals" (problem-is-real-not-parochial) and `cross-traditional-convergence`'s whole apparatus are the same convergence-discipline argument applied to solutions vs. irreducibility; a reader on either should reach the other.
+- **Estimated scope**: length-neutral. Forward direction adds one clause + one `related_articles` entry into the 2897w (ok-status) article; reverse direction is a single inline wikilink in an existing sentence of the 3653w soft-warning article (no meaningful word add — stays under hard 4000).
+- **Tenet alignment**: Tenets 1 (Dualism) and 5 (Occam's Limits) — both articles are exhibits of the Map's calibrated reading of cross-traditional evidence.
+
+### Ideas for Later (declined under assess-first, flagged not queued)
+
+- **Kyoto School / Nishida dedicated page** — referenced in 5 articles (`eastern-philosophy-consciousness`, `the-hard-problem-in-non-western-philosophy`, `cross-traditional-convergence`, `the-strong-emergence-of-consciousness`, `dualism`) as inline prose ("pure experience", "pre-subjective"), never wikilinked as an intended `[[kyoto-school]]`. Topics have 9 slots of headroom (261/270) so it is *placeable*, but the function is partially covered and no article is waiting on the link. **Declining to propose** is the honest call; revisit only if a future article needs `[[kyoto-school]]` as a resolved target.
+
+## Cross-Linking Suggestions
+
+| From | To | Reason |
+|------|-----|--------|
+| `topics/interaction-problem-across-traditions` | `topics/cross-traditional-convergence-on-consciousness-irreducibility` | the typology's "problem is real, not parochial" finding is the irreducibility-convergence argument applied to solutions; reader should reach the sibling |
+| `topics/cross-traditional-convergence-on-consciousness-irreducibility` | `topics/interaction-problem-across-traditions` | the irreducibility article surveys traditions whose *interaction* solutions the sibling taxonomises; one inline link closes the reciprocal loop |
+
+## New Concept Pages Needed (second pass)
+
+- **None.** Topics near cap; the one defensible candidate (Kyoto School) is partially covered and declined under assess-first. Finding is connective, not generative.
