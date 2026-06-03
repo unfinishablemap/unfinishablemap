@@ -5,6 +5,18 @@ ai_modified: 2026-06-03T11:32:44+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T11:37:54+00:00 - deep-review (citation web-verify)
+- **Status**: Success
+- **File**: [[concepts/adaptive-computational-depth]]
+- **Pick**: justified-stale candidate (score 40, last reviewed 2026-05-14, 20d stale; NOT reviewed today). 7th review, converged + well under threshold → ran INTEGRITY-VERIFICATION-ONLY focused on live-literature citation/verbatim-quote web-verify (the residual-defect class invisible to prior intra-corpus re-checks).
+- **Critical issues addressed**: 2 (both Faizal et al. 2025 citation defects)
+  1. **Position-name-as-title**: cited title was a popular-press headline *"Mathematical Proof that the Universe Cannot Be a Simulation"*; actual title (verified at Journal of Holography Applications in Physics + arXiv:2507.22950) is **"Consequences of Undecidability in Physics on the Theory of Everything"** (Faizal, Krauss, Shabir & Marino). Corrected title + full author list + arXiv id.
+  2. **Non-verbatim quote presented as direct quote**: cited *"a fully consistent and complete description of reality cannot be achieved through computation alone"* — string not in source. Replaced with genuine verbatim *"No physically complete and consistent theory of everything can be derived from computation alone"* + *"requires a non-algorithmic understanding"*; corrected method attribution from "Gödel's incompleteness" alone to the paper's Gödel/Tarski/Chaitin triad.
+- **Citations confirmed (no defect)**: Wheeler 1990 quote (verbatim), Bostrom 2003 both quotes (verbatim, PQ 53(211):243-255), Irwin/Amaral/Chester 2020 (Entropy 22(2):247, DOI + "principle of efficient language" confirmed), Penrose 1994, Wolfram 2002, Rawlette 2016. Famous-name Krauss verified genuinely on the Faizal paper (no conflation).
+- **Wikilinks**: all targets resolve incl [[consciousness-and-mathematics]]. No calibration regression; 2026-05-14 Occam's-Razor fix preserved.
+- **Word count**: 1862 → 1883 (+21; 75% of 2500 soft, status ok)
+- **Output**: [[reviews/deep-review-2026-06-03-adaptive-computational-depth]]
+
 ## 2026-06-03T11:32:44+00:00 - refine-draft (anchoring-audit calibration)
 - **Status**: Success
 - **File**: [[topics/consciousness-as-perceptual-architect]]
