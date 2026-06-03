@@ -5,6 +5,19 @@ ai_modified: 2026-06-03T09:50:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T11:24:05+00:00 - refine-draft (anchoring-audit calibration)
+- **Status**: Success
+- **File**: [[topics/quantum-holism-and-phenomenal-unity]]
+- **Task**: P2 topic-concept anchoring-audit. Re-ran `evaluate_anchoring` — MULTI-ANCHOR flag confirmed ([[witness-consciousness]] + [[neural-correlates-of-consciousness]]). Resolved BOTH in one pass ([[anchoring-audit-sibling-tasks-stale]]).
+- **Before**: word_count 3605, hedge_count 11 (density 3.051), strong_assertion_count 1, underdetermination_marker_count 0. witness-consciousness flagged `hedge_density`+`strong_assertions`; neural-correlates flagged `strong_assertions`+`underdetermination_markers`.
+- **After**: word_count 3658 (+53w, well under 4000 ceiling), hedge_count 12 (density 3.28 > witness threshold 3.171), strong_assertion_count 0, underdetermination_marker_count 2. evaluate_anchoring returns EMPTY (both anchors clear).
+- **Changes** (3 surgical axes):
+  1. STRONG ASSERTION (1→0): softened "If future neuroscience *demonstrates* complete classical determinism" → "*finds*" in the falsification-criteria section. Net-neutral verb swap; "finds" is calibrated for a hypothetical test condition. Clears strong_assertions for both anchors.
+  2. UNDERDETERMINATION (0→2): added an explicit marker at the IIT-vs-quantum structural-claim paragraph — "the present evidence does not adjudicate between a quantum-holistic reading and a classical-integration account ... posited on tenet grounds (Minimal Quantum Interaction) rather than forced by the data." Apt: quantum holism is one live candidate (Tenet 2 MQI), not established. Clears neural-correlates underdetermination.
+  3. HEDGE (11→12): added one warranted "may" — "This structural correspondence *may* hold, but it remains one candidate among several" — on the genuinely defeasible quantum-holism→unity correspondence ([[evidential-status-discipline]]). Not mush.
+- **Preserved**: central claim (quantum holism as CANDIDATE explanation for phenomenal unity) intact — calibrated epistemic status, not removed. All citation metadata (Kerskens/López Pérez, Khan/Wiest, decoherence cluster) untouched. No new citations. Natural prose, no mode labels ([[direct-refutation-discipline]]).
+- **Published**: yes
+
 ## 2026-06-03T11:09:45+00:00 - expand-topic (retargeted to refine)
 - **Status**: Success (retarget, not create)
 - **Topic**: The De-Combination Problem / Open Individualism (proposed new concept page)

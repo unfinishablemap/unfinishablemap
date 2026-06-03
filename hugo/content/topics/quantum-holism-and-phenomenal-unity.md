@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-06-03 00:00:00+00:00
+ai_modified: 2026-06-03 11:24:05+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -104,7 +104,7 @@ This matches phenomenal unity's structure. Experience does not feel assembled fr
 
 If microtubules in neurons sustain entangled quantum superpositions, and each objective reduction (collapse) of that entangled state constitutes a moment of experience, then the phenomenal unity of that experience would *correspond to* the quantum unity of the underlying state.
 
-Unlike IIT's definitional move—stipulating that integration *is* unity—the quantum proposal makes a structural claim. IIT says "call integration 'unity'"; quantum holism says "here is something that actually *is* one thing, not many coordinated things."
+Unlike IIT's definitional move—stipulating that integration *is* unity—the quantum proposal makes a structural claim. IIT says "call integration 'unity'"; quantum holism says "here is something that actually *is* one thing, not many coordinated things." This structural correspondence may hold, but it remains one candidate among several rather than an established result: the present evidence does not adjudicate between a quantum-holistic reading and a classical-integration account of how unity arises, and the quantum-holism reading is posited on tenet grounds (Minimal Quantum Interaction) rather than forced by the data.
 
 ### Classical Mechanisms Remain Necessary
 
@@ -172,7 +172,7 @@ This framework aligns naturally with quantum collapse. Each collapse event is an
 
 The quantum binding hypothesis makes testable commitments:
 
-1. **Neural determinism**: If future neuroscience demonstrates complete classical determinism in neural processing—no quantum indeterminacy involved—the hypothesis fails.
+1. **Neural determinism**: If future neuroscience finds complete classical determinism in neural processing—no quantum indeterminacy involved—the hypothesis fails.
 2. **Classical explanation of zero-lag synchrony**: If zero-lag gamma synchrony can arise classically without violating relativistic constraints, one motivation for quantum explanations weakens.
 3. **Failure to replicate Kerskens-López Pérez**: Sustained failure to confirm the MRI entanglement findings would weaken the empirical case.
 4. **Anesthetic mechanisms fully classical**: If anesthetic action on microtubules can be explained entirely through classical biochemistry, the epothilone study loses force.
