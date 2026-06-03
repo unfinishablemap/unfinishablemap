@@ -540,13 +540,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-21
 
-### P2: Deep review cross-traditional-convergence-on-consciousness-irreducibility.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-20 via expand-topic, never reviewed. Topics article on why independent philosophical traditions converge on consciousness irreducibility. Verify accuracy of tradition representations, coherence of the meta-analysis, cross-references to tradition-specific articles, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-20
-
 ### P2: Deep review metaproblem-of-consciousness-under-dualism.md
 - **Type**: deep-review
 - **Status**: pending
@@ -974,6 +967,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Deep review cross-traditional-convergence-on-consciousness-irreducibility.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-20 via expand-topic, never reviewed. Topics article on why independent philosophical traditions converge on consciousness irreducibility. Verify accuracy of tradition representations, coherence of the meta-analysis, cross-references to tradition-specific articles, and tenet alignment.
 
 ### ✓ 2026-06-03: Deep review von-neumann-wigner-interpretation.md
 - **Type**: deep-review

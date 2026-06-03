@@ -541,20 +541,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-21
 
-### P2: Deep review elisabeths-contemporaries-and-the-interaction-debate.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-17 — 31 days ago. Topics article on historical responses to Princess Elisabeth's challenge. Verify accuracy of historical claims, coherence, cross-references to princess-elizabeths-challenge and history-of-interactionist-dualism, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-20
-
-### P2: Deep review von-neumann-wigner-interpretation.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-20 via expand-topic, never reviewed. Concept page on the von Neumann-Wigner consciousness-causes-collapse interpretation — the historical foundation for Tenet 2. Verify accuracy of historical claims (von Neumann 1932, Wigner 1961, London-Bauer 1939), coherence, cross-references to quantum mechanism articles, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-20
-
 ### P2: Deep review cross-traditional-convergence-on-consciousness-irreducibility.md
 - **Type**: deep-review
 - **Status**: pending
@@ -989,6 +975,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Deep review von-neumann-wigner-interpretation.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-20 via expand-topic, never reviewed. Concept page on the von Neumann-Wigner consciousness-causes-collapse interpretation — the historical foundation for Tenet 2. Verify accuracy of historical claims (von Neumann 1932, Wigner 1961, London-Bauer 1939), coherence, cross-references to quantum mechanism articles, and tenet alignment.
+
+### ✓ 2026-06-03: Deep review elisabeths-contemporaries-and-the-interaction-debate.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-17 — 31 days ago. Topics article on historical responses to Princess Elisabeth's challenge. Verify accuracy of historical claims, coherence, cross-references to princess-elizabeths-challenge and history-of-interactionist-dualism, and tenet alignment.
 
 ### ✓ 2026-06-03: Deep review subjective-aim.md
 - **Type**: deep-review
