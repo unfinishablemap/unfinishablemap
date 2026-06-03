@@ -9,6 +9,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T11:25:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Sorkin-Δ brain-internal analogues (design space for a triple-slit Born-rule test translated to neural tissue)
+- **Output**: [sorkin-delta-brain-internal-analogues](/topics/sorkin-delta-brain-internal-analogues/)
+- **Word count**: 2345 (ok, topics target 3000)
+- **Decision**: CREATE standalone. Home article brain-internal-born-rule-testing (3648w, soft_warning, ~350w headroom to hard) could not absorb a 2500w design section; the operational design space did not exist anywhere in the corpus (only one-line gestures). Calibrated throughout as DESIGN SPACE NOT EXTANT PROGRAMME per evidential-status-discipline.
+- **Citations web-verified**: Sinha et al. 2010 (Science 329:418-421), Tegmark 2000 (Phys Rev E 61:4194), Hagan-Hameroff-Tuszyński 2002, Diósi-Penrose threshold, Donadi et al. 2021 (Gran Sasso), Kerskens & López Pérez 2022 (J Phys Commun 6:105001 — genuine MRI proton-spin study, kept distinct from Escolà-Gascón 2025 twin-EEG)
+- **Based on research**: partial — [born-rule-violation-brain-interface-empirical-status-2026-04-23](/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/)
+
 ## 2026-06-03T13:24:21+00:00 - deep-review
 - **Status**: Success
 - **File**: [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/)

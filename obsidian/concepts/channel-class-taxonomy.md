@@ -144,6 +144,7 @@ The Map treats the class hierarchy as a *menu, not a verdict*. Which class is co
 - [[consciousness-bandwidth-architecture]] — Bandwidth implications across classes
 - [[possibility-probability-slippage]] — Why coherence with tenets is not evidence for a class
 - [[brain-internal-born-rule-testing]] — Mechanism-specific signatures for Classes 1–4 and what would foreclose each
+- [[sorkin-delta-brain-internal-analogues]] — What precision a Sorkin-Δ-analogue would need to constrain each channel class
 
 ## References
 

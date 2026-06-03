@@ -4,7 +4,7 @@ description: "The corridor reading of Tenet 2 predicts no Born-statistical signa
 created: 2026-05-14
 modified: 2026-05-15
 human_modified:
-ai_modified: 2026-06-03T01:00:35+00:00
+ai_modified: 2026-06-03T11:25:00+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -37,6 +37,7 @@ related_articles:
   - "[[consciousness-and-causal-powers]]"
   - "[[quantum-biology-and-neural-consciousness]]"
   - "[[stochastic-emergence-as-quantum-interface-evidence]]"
+  - "[[sorkin-delta-brain-internal-analogues]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -71,7 +72,7 @@ A brain-internal Born-rule test would have to specify, at minimum, four things:
 
 **A statistical signature of Born-rule deviation.** Per-trial deviation ε must be estimable at a precision corresponding to the strongest mechanism candidate. For probability-bias channels the empirical ceiling at non-brain scales is ε ≈ 10⁻⁴; brain-internal deviations could be smaller still (Arana 2025's λ-suppressed weighting is explicitly tunable to lie below current sensitivity in non-brain regimes while producing macroscopic effects through cumulative selection). A test must specify both its target precision and its mechanism-conditional sensitivity.
 
-**A brain-internal observable.** Sorkin's triple-slit Δ parameter is the cleanest Born-rule test in optics. Its brain-internal analogue does not yet exist. Candidate observables include entanglement-witness signatures in living brain tissue (Kerskens & López Pérez 2022 used an MRI protocol on proton spins in brain water; Wiest 2025 reviews microtubule-targeted candidates), statistics of decision outcomes in tightly-controlled stimulus protocols where the brain is itself the measurement apparatus, and anomalies in brain-coupled quantum systems (Nirvanic's robotic-brain-analogue-to-qubit feedback architecture is the closest published roadmap). None isolates Born-rule deviation cleanly, but each, with the right design, could constrain it.
+**A brain-internal observable.** Sorkin's triple-slit Δ parameter is the cleanest Born-rule test in optics. Its brain-internal analogue does not yet exist; [[sorkin-delta-brain-internal-analogues|the operational design space for one]] sets out why translating the optical protocol to neural tissue is non-trivial and what precision each candidate observable would need. Candidate observables include entanglement-witness signatures in living brain tissue (Kerskens & López Pérez 2022 used an MRI protocol on proton spins in brain water; Wiest 2025 reviews microtubule-targeted candidates), statistics of decision outcomes in tightly-controlled stimulus protocols where the brain is itself the measurement apparatus, and anomalies in brain-coupled quantum systems (Nirvanic's robotic-brain-analogue-to-qubit feedback architecture is the closest published roadmap). None isolates Born-rule deviation cleanly, but each, with the right design, could constrain it.
 
 **Controls separating physical from conscious confounds.** This is the *confound of embodiment*: every conscious observer is also a physical system, and every physical event that could trigger collapse is present whenever a conscious observer is. Ideal controls compare brain-coupled quantum systems across conscious-attention, unconscious-attention (sleep, anaesthesia), and brain-decoupled apparatus-only conditions. The Nirvanic design is the first published architecture aiming at such controls; the [[anaesthesia-and-the-consciousness-interface|anaesthesia interface]] supplies a natural-experiment alternative that switches off consciousness while preserving most physical brain activity.
 
@@ -159,6 +160,7 @@ The corridor's unfalsifiability is instrument-relative rather than principled. T
 - [[trumping-preemption]]
 - [[delegatory-causation]]
 - [[stochastic-emergence-as-quantum-interface-evidence]] — A behavioural-timing finding that, by the same logic, cannot reach the brain-internal regime this article specifies
+- [[sorkin-delta-brain-internal-analogues]] — The operational design space for the Sorkin-Δ brain-internal observable this article only names
 
 ## References
 

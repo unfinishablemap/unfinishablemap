@@ -247,6 +247,7 @@ If Tier 1 experiments progressively eliminate all collapse models, consciousness
 - [[post-decoherence-selection]] — The conceptual gap where consciousness could act
 - [[methodology-of-consciousness-research]] — Studying subjective phenomena with objective methods
 - [[brain-internal-born-rule-testing]] — Mechanism-by-mechanism foreclosure programme for the corridor reading of Tenet 2 at the brain-internal regime
+- [[sorkin-delta-brain-internal-analogues]] — The design space for a triple-slit Born-rule test translated to neural tissue
 
 ## References
 

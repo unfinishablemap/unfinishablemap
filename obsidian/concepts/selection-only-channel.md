@@ -143,6 +143,7 @@ The Map does not commit to the strict selection-only reading as the only viable 
 - [[interface-specification-programme]]
 - [[possibility-probability-slippage]]
 - [[brain-internal-born-rule-testing]] — What experiments would foreclose the strict selection-only reading of Tenet 2
+- [[sorkin-delta-brain-internal-analogues]] — Why a triple-slit-analogue test is structurally silent against the strict selection-only channel
 - [[channel-width-third-axis]] — Where this channel class sits as the floor of the dualism-taxonomy's channel-width axis
 
 ## References
