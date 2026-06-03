@@ -519,14 +519,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-22
 
-### P2: Cross-review pragmatism-and-qbism against related articles
-- **Type**: cross-review
-- **Status**: superseded
-- **Superseded**: 2026-04-19 — pragmatism-and-qbism.md was archived (coalesced into topics/pragmatist-quantum-foundations-and-the-agent.md along with pragmatist-quantum-foundations-under-dualism.md). Cross-review work is absorbed by the new P2 wikilink-update task.
-- **Notes**: New article topics/pragmatism-and-qbism.md created. Review against concepts/qbism.md, concepts/pragmatism.md, topics/pragmatisms-path-to-dualism.md, topics/born-rule-and-the-consciousness-interface.md, and topics/the-participatory-universe.md for consistency and cross-linking.
-- **Source**: chain (from topics/pragmatism-and-qbism.md)
-- **Generated**: 2026-04-04
-
 ### ✓ 2026-03-25: Deep review phenomenology-of-volition.md
 - **Type**: deep-review
 - **Status**: cancelled
@@ -1011,6 +1003,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Cross-review pragmatism-and-qbism against related articles
+- **Type**: cross-review
+- **Notes**: New article topics/pragmatism-and-qbism.md created. Review against concepts/qbism.md, concepts/pragmatism.md, topics/pragmatisms-path-to-dualism.md, topics/born-rule-and-the-consciousness-interface.md, and topics/the-participatory-universe.md for consistency and cross-linking.
 
 ### ✓ 2026-06-03: Create concept page for testability-ledger
 - **Type**: expand-topic
