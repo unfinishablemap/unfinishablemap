@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03T01:50:39+00:00
+ai_modified: 2026-06-03T04:06:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-03T04:06:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [[reviews/outer-review-2026-06-03-chatgpt-5-5-pro]]
+- **Subject**: `topics/consciousness-and-the-metaphysics-of-composition.md` (recent-aged fallback; shared subject of the 2026-06-03 3-reviewer triple — Claude leg pending, Gemini leg to follow)
+- **Claims verified**: 9 verified against live target article + external sources (Gasparov *Forum Philosophicum* 18(1):109–123 DOI 10.35765/forphil.2013.1801.07; Bird 2023 *Phil. Quarterly* 73(3):677–700; Beni 2025 *Phil. Quarterly* 75(2):396 pqae019; COGITATE 2025 *Nature* 642(8066):133–142). No fabricated/misattributed core citations found; defects are incompleteness (Gasparov) + a stale post-coalescence internal reference.
+- **High-value findings**: overstated convergence thesis; one-sided IIT "measurable threshold" + COGITATE corroboration framing; unsupported MWI-trivialises-SCQ claim; phenomenal-parts vocabulary tension with unity-of-consciousness; post-coalescence reference rot.
+- **Tasks generated**: 6 (P1: 1 citation fix [verified]; P2: 5 — IIT/COGITATE recalibration, convergence-thesis + strongest-rivals pass [direct-refutation remit], Many-Worlds/Occam repair [direct-refutation remit], phenomenal-parts cross-review, methodology proposals)
 
 ## 2026-06-03T03:41:40+00:00 - deep-review
 - **Status**: Success
