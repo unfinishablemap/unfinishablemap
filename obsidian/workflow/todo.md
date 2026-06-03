@@ -444,13 +444,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-04-17
 
-### P2: Cross-review necessary-opacity.md and predictive-processing-and-dualism.md considering predictive-construction-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New voids article voids/predictive-construction-void.md created 2026-04-16 introduces the double-veil problem and the self-erasing nature of the predictive construction void. Review necessary-opacity.md for opportunities to cross-link (the predictive construction void provides a concrete mechanism for necessary opacity). Review predictive-processing-and-dualism.md to ensure consistency on the double-veil framing and add cross-links.
-- **Source**: chain (from voids/predictive-construction-void.md)
-- **Generated**: 2026-04-16
-
 ### ~~P3: Deep review epistemic-self-defeat.md~~ ✅
 - **Type**: deep-review
 - **Status**: superseded
@@ -1178,6 +1171,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Cross-review necessary-opacity.md and predictive-processing-and-dualism.md considering predictive-construction-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/predictive-construction-void.md created 2026-04-16 introduces the double-veil problem and the self-erasing nature of the predictive construction void. Review necessary-opacity.md for opportunities to cross-link (the predictive construction void provides a concrete mechanism for necessary opacity). Review predictive-processing-and-dualism.md to ensure consistency on the double-veil framing and add cross-links.
 
 ### ✓ 2026-06-03: Deep review agency-verification-void.md
 - **Type**: deep-review

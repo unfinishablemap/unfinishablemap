@@ -445,20 +445,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-04-17
 
-### P2: Address "explanatory gap as intuition vs datum" counterargument across zombies.md, ncc.md, and explanatory-gap.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-04-16c) identified a recurring issue across three articles: the Map treats "persistent failure to close the explanatory gap after decades of neuroscience" as support for the dualist reading, but physicalists deny the gap was ever there to close — "persistent failure" is question-begging from their perspective. The gap is reported by philosophers primed to experience it and is largely absent from neuroscientific practice. Add acknowledgment in each article that the gap's status as a datum vs artefact of philosophical framing is itself contested; the Map takes the former view. Also address the "our conviction of phenomenal consciousness is better explained by actual experience than systematic illusion" assertion in zombies.md's Illusionist Challenge section — either develop the argument or hedge as a stance rather than a proof. See pessimistic-2026-04-16c.md Counterarguments section and Unsupported Claims table.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-16
-
-### P2: Deep review agency-verification-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) with no recorded deep review. Voids article on the impossibility of verifying genuine agency from the outside. Verify coherence, accuracy of philosophical claims, cross-references to free-will, phenomenology-of-agency-vs-passivity, and interested-party-void, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-16
-
 ### P2: Cross-review necessary-opacity.md and predictive-processing-and-dualism.md considering predictive-construction-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1193,6 +1179,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Deep review agency-verification-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) with no recorded deep review. Voids article on the impossibility of verifying genuine agency from the outside. Verify coherence, accuracy of philosophical claims, cross-references to free-will, phenomenology-of-agency-vs-passivity, and interested-party-void, and tenet alignment.
+
+### ✓ 2026-06-03: Address "explanatory gap as intuition vs datum" counterargument across zombies.md, ncc.md, and explanatory-gap.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-16c) identified a recurring issue across three articles: the Map treats "persistent failure to close the explanatory gap after decades of neuroscience" as support for the dualist reading, but physicalists deny the gap was ever there to close — "persistent failure" is question-begging from their perspective. The gap is reported by philosophers primed to experience it and is largely absent from neuroscientific practice. Add acknowledgment in each article that the gap's status as a datum vs artefact of philosophical framing is itself contested; the Map takes the former view. Also address the "our conviction of phenomenal consciousness is better explained by actual experience than systematic illusion" assertion in zombies.md's Illusionist Challenge section — either develop the argument or hedge as a stance rather than a proof. See pessimistic-2026-04-16c.md Counterarguments section and Unsupported Claims table.
 
 ### ✓ 2026-06-03: Address bundling and paper-count issues in boundary-and-projection.md
 - **Type**: refine-draft
