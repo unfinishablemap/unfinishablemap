@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03T04:35:00+00:00
+ai_modified: 2026-06-03T04:39:06+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-03T04:39:06+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-03
+- **Subject**: `topics/consciousness-and-the-metaphysics-of-composition.md`
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.8, Gemini 2.5 Pro)
+- **Clusters**: 4 convergent (1 at 3/3 — the selection-artefact thesis; 3 at 2/3 — constitutive-panpsychism gap, Gasparov inversion, IIT/COGITATE one-sidedness), 5 singleton, 0 substantive divergence (2 framing tensions recorded)
+- **Tasks upgraded**: 3 (P2→P1: convergence-thesis/selection-artefact, panpsychism-monism, IIT/COGITATE recalibration). The Gasparov and McQueen & Tsuchiya tasks were already P1 (capped, not upgraded) but confirmed convergent with plural Review files + Synthesis pointers.
+- **Tasks deduplicated**: 0 net new dedup — per-review processing had already folded the convergent cross-references inline (Roelofs cite into the panpsychism task; Gasparov cross-flag into the citation task) under the same-file-pileup discipline; genuinely-distinct work kept separate (mechanical table/citation fixes vs convergence-thesis prose vs cross-article vocabulary).
+- **External-reviewer fallibility**: Gemini's Friedell deflationary-mereology cite was fabricated/conflated — rejected during processing, NOT propagated ([[ai_citation_metadata_unreliable]]).
+- **Output**: [[reviews/outer-review-synthesis-2026-06-03]]
 
 ## 2026-06-03T04:35:00+00:00 - outer-review
 - **Status**: Success
