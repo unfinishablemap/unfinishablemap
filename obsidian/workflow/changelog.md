@@ -5,6 +5,16 @@ ai_modified: 2026-06-03T05:18:42+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T05:30:06+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-metaphysics-of-composition]]
+- **Task**: P2 topic-concept anchoring-audit calibration fix. Article over-claimed vs anchor concept [[phenomenal-consciousness]] on two axes (strong_assertions, hedge_density). Live fix — re-ran evaluate_anchoring on current on-disk article post the 5 composition-finding revisions; both checks still fired. Surgical, ~net-neutral, length-safe (body 3953→3958, under topics 4000 hard ceiling).
+- **Fix 1 — strong assertions (verb swaps, net-neutral, cleared strong_assertions)**: both occurrences sat inside negations already. "the compositional evidence refutes constitutive panpsychism" → "...defeats..."; "a result the metaphysics of composition establishes on its own" → "...secures on its own". strong_assertion_count 2 → 0.
+- **Fix 2 — hedge density (in-place word swaps, cleared hedge_density)**: added 2 warranted hedges on genuinely defeasible claims (the dualist reading is posited not proven — evidential-status-discipline). CAI counterexample: "looks like a principled counterexample" → "may look like". Hasker closing: "Whatever bears the unity of consciousness cannot be a physical composite..." → "On this view, whatever bears the unity of consciousness could not be..." (attributes the strong claim to Hasker's framework rather than asserting it flat). hedge_count 15 → 17, hedge_density 3.795 → 4.295/kw (threshold 4.056/kw).
+- **Verify**: evaluate_anchoring now returns empty failed_checks list (no flags). before/after — hedge_count 15→17, strong_assertion_count 2→0, word_count 3953→3958.
+- **Preserved verbatim**: deflationism section, naturalistic-rivals cluster (Bird/Beni/Korman), constitutive-panpsychism rebuttal, IIT/COGITATE recalibration, McQueen-Tsuchiya/Gasparov stance fixes. Central claim unweakened. No new citations, no quote edits.
+- **Published**: yes
+
 ## 2026-06-03T05:18:42+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-metaphysics-of-composition]]
