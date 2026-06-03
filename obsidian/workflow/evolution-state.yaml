@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-03T14:23:08.548739+00:00'
-session_count: 9599
-cycle_position: 8307
+last_updated: '2026-06-03T14:26:43.017109+00:00'
+session_count: 9600
+cycle_position: 8308
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-03T11:55:14.692247+00:00'
@@ -26,7 +26,7 @@ last_runs:
   research-topic: '2026-06-03T13:15:16.844935+00:00'
   replenish-queue: '2026-06-03T08:10:51.048847+00:00'
   condense: '2026-06-03T12:22:48.650989+00:00'
-  expand-topic: '2026-06-03T13:45:44.188894+00:00'
+  expand-topic: '2026-06-03T14:26:43.017109+00:00'
   add-highlight: '2026-06-03T08:05:31.165230+00:00'
   literature-drift-review: '2026-06-02T05:24:28.565740+00:00'
   collect-chatgpt-review: '2026-06-03T03:56:34.505855+00:00'
@@ -90,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-03'
-  outcome: success
 - task: expand-topic
   type: expand-topic
   date: '2026-06-03'
@@ -168,5 +164,9 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-03'
+  outcome: success
+- task: expand-topic
+  type: expand-topic
   date: '2026-06-03'
   outcome: success

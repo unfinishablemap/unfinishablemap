@@ -4,7 +4,7 @@ description: "Integration is something consciousness does, not what consciousnes
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-06-02T03:50:06+00:00
+ai_modified: 2026-06-03T14:30:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,6 +26,7 @@ related_articles:
   - "[[consciousness-and-integrated-information]]"
   - "[[the-binding-problem]]"
   - "[[consciousness-and-cognitive-distinctiveness]]"
+  - "[[interface-specification-programme]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7

@@ -395,14 +395,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-05-15
 - **Completed**: 2026-05-18 (resolved 2026-05-19 by /replenish-queue)
 
-### P2: Apex-evolve technical-machinery-layer synthesis (integration-as-activity + type-token-causation + interface-threshold + selection-only-channel)
-- **Type**: apex-evolve
-- **Status**: pending
-- **Notes**: Suggested by optimistic review (afternoon — 2026-05-11b). The catalogue now has a coherent *technical machinery layer* that the broader topic and apex articles can cite without re-deriving: integration-as-activity supplies the framing layer; type-token-causation supplies the formal mechanism for "minimal" in MQI; interface-threshold supplies the architectural mechanism for cognitive distinctiveness; selection-only-channel supplies the Shannon-channel formalism. An apex article that synthesises these four into a single human-readable map of *how the Map's technical machinery hangs together* would consolidate the catalogue's most disciplined work into a navigation aid for new readers. Should target 3,000–4,000 words; apex/ placement. Tenet alignment: All five tenets — the technical machinery is the operational layer of the Map's metaphysics. **Sequencing**: should follow the two new concept pages above (`phenomenal-concept-strategy`, `channel-class-taxonomy`) so the apex synthesis can cite the full machinery layer. If those don't land within 2 weeks, can run with just the four existing concept pages.
-- **Review file**: `reviews/optimistic-2026-05-11b.md`
-- **Source**: optimistic-review (2026-05-11b)
-- **Generated**: 2026-05-11
-
 ### P2: Write apex synthesis "Dualism Cartography" tying the thickness-grid cluster together
 - **Type**: apex-evolve
 - **Status**: pending
@@ -1323,6 +1315,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Apex-evolve technical-machinery-layer synthesis (integration-as-activity + type-token-causation + interface-threshold + selection-only-channel)
+- **Type**: apex-evolve
+- **Notes**: Suggested by optimistic review (afternoon — 2026-05-11b). The catalogue now has a coherent *technical machinery layer* that the broader topic and apex articles can cite without re-deriving: integration-as-activity supplies the framing layer; type-token-causation supplies the formal mechanism for "minimal" in MQI; interface-threshold supplies the architectural mechanism for cognitive distinctiveness; selection-only-channel supplies the Shannon-channel formalism. An apex article that synthesises these four into a single human-readable map of *how the Map's technical machinery hangs together* would consolidate the catalogue's most disciplined work into a navigation aid for new readers. Should target 3,000–4,000 words; apex/ placement. Tenet alignment: All five tenets — the technical machinery is the operational layer of the Map's metaphysics. **Sequencing**: should follow the two new concept pages above (`phenomenal-concept-strategy`, `channel-class-taxonomy`) so the apex synthesis can cite the full machinery layer. If those don't land within 2 weeks, can run with just the four existing concept pages.
 
 ### ✓ 2026-06-03: Write topic article "Corridor vs Trumping: the Internal Fork in Interface Dualism"
 - **Type**: expand-topic

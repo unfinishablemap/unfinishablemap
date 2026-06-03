@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-06-02 03:50:06+00:00
+ai_modified: 2026-06-03 14:30:33+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -31,6 +31,7 @@ related_articles:
 - '[[consciousness-and-integrated-information]]'
 - '[[the-binding-problem]]'
 - '[[consciousness-and-cognitive-distinctiveness]]'
+- '[[interface-specification-programme]]'
 title: Integration as Activity
 topics:
 - '[[hard-problem-of-consciousness]]'

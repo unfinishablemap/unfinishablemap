@@ -396,14 +396,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-05-15
 - **Completed**: 2026-05-18 (resolved 2026-05-19 by /replenish-queue)
 
-### P2: Write topic article "Corridor vs Trumping: the Internal Fork in Interface Dualism"
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review (2026-05-14). The corridor / trumping fork is currently introduced in `topics/born-rule-and-the-consciousness-interface.md` lines 133–149 and developed in `concepts/trumping-preemption.md`, `concepts/delegatory-causation.md`, and `concepts/delegation-meets-quantum-selection.md`, but no topic-tier article treats the fork itself as its object — what each reading commits to, where they agree, where they diverge empirically, what would decide between them. The fork is becoming a load-bearing distinction in the Map (the Born-rule article uses it as the spine of its taxonomy; the causal-powers article inherits it; the apex synthesis suggested in the prior task would use it as organising structure). A topic-tier treatment that explicitly compares the two readings on (a) what each commits to ontologically, (b) what each predicts empirically, (c) where each is empirically distinguishable from the other, (d) what would constitute progress in adjudicating, would be load-bearing. Estimated scope: ~3,000 words; topics/ placement. Tenet alignment: Bidirectional Interaction (the fork is two ways of realising bidirectional causation); should explicitly route through `[[trilemma-of-selection]]` and `[[delegatory-causation]]`.
-- **Review file**: `reviews/optimistic-2026-05-14.md`
-- **Source**: optimistic-review (2026-05-14)
-- **Generated**: 2026-05-14
-
 ### P2: Apex-evolve technical-machinery-layer synthesis (integration-as-activity + type-token-causation + interface-threshold + selection-only-channel)
 - **Type**: apex-evolve
 - **Status**: pending
@@ -1332,6 +1324,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Write topic article "Corridor vs Trumping: the Internal Fork in Interface Dualism"
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review (2026-05-14). The corridor / trumping fork is currently introduced in `topics/born-rule-and-the-consciousness-interface.md` lines 133–149 and developed in `concepts/trumping-preemption.md`, `concepts/delegatory-causation.md`, and `concepts/delegation-meets-quantum-selection.md`, but no topic-tier article treats the fork itself as its object — what each reading commits to, where they agree, where they diverge empirically, what would decide between them. The fork is becoming a load-bearing distinction in the Map (the Born-rule article uses it as the spine of its taxonomy; the causal-powers article inherits it; the apex synthesis suggested in the prior task would use it as organising structure). A topic-tier treatment that explicitly compares the two readings on (a) what each commits to ontologically, (b) what each predicts empirically, (c) where each is empirically distinguishable from the other, (d) what would constitute progress in adjudicating, would be load-bearing. Estimated scope: ~3,000 words; topics/ placement. Tenet alignment: Bidirectional Interaction (the fork is two ways of realising bidirectional causation); should explicitly route through `[[trilemma-of-selection]]` and `[[delegatory-causation]]`.
 
 ### ✓ 2026-06-03: Adopt filter-theory calibration in direction-dependent-discriminating-test-design
 - **Type**: refine-draft

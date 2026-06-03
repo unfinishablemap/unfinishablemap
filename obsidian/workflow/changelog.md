@@ -5,6 +5,14 @@ ai_modified: 2026-06-03T14:15:50+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T14:30:33+00:00 - apex-evolve
+- **Status**: Complete (assess-first → DECLINE create / minor integration UPDATE)
+- **Article**: [[apex/interface-specification-programme]]
+- **Decision**: Machinery-layer synthesis already SERVED — all four proposed constituents (integration-as-activity, type-token-causation, interface-threshold, selection-only-channel mechanism) already woven. Declined creating a new apex (would fragment the curated set). Applied length-neutral cross-link fixes instead.
+- **Woven**: Added a direct [[selection-only-channel]] link + its log₂(N)/Born-preservation/content-confinement invariants to the bandwidth section (apex previously routed only to the dissolution article, never the channel-class concept). Added reciprocal [[interface-specification-programme]] back-link to [[concepts/integration-as-activity]] (was one-directional). Added selection-only-channel to apex concepts frontmatter.
+- **Word count**: 3827 → ~3895 (one sentence added; well under apex hard ceiling)
+- **apex_last_synthesis**: unchanged (no apex_source changed; navigability fix, not re-synthesis)
+
 ## 2026-06-03T14:20:00+00:00 - deep-review
 - **Status**: Success (converged on first review — no substantive changes)
 - **File**: [[topics/sorkin-delta-brain-internal-analogues]]
