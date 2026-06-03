@@ -5,6 +5,14 @@ ai_modified: 2026-06-03T21:45:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T16:40:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/brain-internal-born-rule-testing]]
+- **Changes**: Surgical citation-gloss downgrade at §"What the Corridor Is" (L55), acting on pessimistic-2026-06-03 finding. Han & Choi (2016) was credited with a "per-trial information-theoretic capacity vanishes asymptotically as trials grow" theorem the paper does not prove (possibility→theorem upgrade per [[evidential-status-discipline]]). Downgraded to the qualitative claim the source actually supports: Han & Choi derive the Born rule from a strengthened relativistic-causality condition under which Born-deviating probability assignments enable superluminal signalling, so a strictly Born-compliant selection channel transmits no ensemble-level information. Citation retained (paper is genuine — Sci. Rep. 6:22986); only the gloss corrected. Article's conclusion survives on the qualitative no-signalling argument and dovetails with the existing Torres Alegre 2025 (Φ(p)=p unique under no-signalling) cite. Other 3 hot-zone cites (Torres Alegre, Arana 2025, Kerskens & López Pérez 2022) untouched.
+- **Anchoring**: evaluate_anchoring() returns [] post-edit (no strong-assertion verb reintroduced; downgrade lowers assertion strength).
+- **Length**: 3734w (soft_warning, hard 4000); ~length-neutral, within ceiling.
+- **Published**: yes (draft norms preserved; uncommitted)
+
 ## 2026-06-03T22:15:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/brain-internal-born-rule-testing]] (quantum/Born-rule citation hot zone; deep-reviewed 2026-06-02 so heavily calibrated)

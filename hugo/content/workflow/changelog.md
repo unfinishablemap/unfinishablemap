@@ -9,6 +9,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T22:15:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) (quantum/Born-rule citation hot zone; deep-reviewed 2026-06-02 so heavily calibrated)
+- **Findings**: 1 genuine MEDIUM (citation gloss); ~5 standard critiques dismissed as already-addressed (unfalsifiability, corridor=epiphenomenalism, Tegmark decoherence, MWI boundary — all handled in-text)
+- **Genuine finding**: Han & Choi (2016) cite (L55) attributes a "per-trial channel capacity vanishes asymptotically with trials" theorem the paper does NOT prove (web-verified: it derives Born rule from relativistic causality + bounds nonlocality; no trials-indexed capacity result). Possibility→theorem upgrade. Cite is REAL — gloss is the defect; downgrade to the qualitative no-signalling claim, do not de-cite.
+- **Citation verification**: 4 hot-zone cites web-verified GENUINE (Han & Choi 2016 Sci Rep 6:22986, Torres Alegre 2025 arXiv:2512.12636, Arana 2025 PhilArchive ARATCQ-2, Kerskens & López Pérez 2022 JPhysCommun 6:105001). Only Han & Choi's interpretation is defective, not its existence.
+- **Task queued**: P2 refine-draft (top of Active Tasks)
+- **Output**: [pessimistic-2026-06-03-brain-internal-born-rule-testing](/reviews/pessimistic-2026-06-03-brain-internal-born-rule-testing/)
+
 ## 2026-06-03T18:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)
