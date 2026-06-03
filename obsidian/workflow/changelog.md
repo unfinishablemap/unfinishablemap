@@ -5,6 +5,24 @@ ai_modified: 2026-06-03T01:50:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T02:17:53+00:00 - deep-review
+- **Status**: Success (converged; 7th no-critical pass; full citation web-verify; METADATA-ONLY)
+- **File**: [[topics/phenomenal-authority-and-first-person-evidence]]
+- **Word count**: 3993 → 3993 (0; body unchanged — net-neutral, sits 7w under topics hard ceiling 4000)
+- **Selection**: GENUINE change since last_deep_review (2026-05-19) — the 2026-06-01 metacognition-calibration refine (hedge_density 3.34→5.26/kw, strong_assertion 0.77→0.25/kw, +2 underdetermination markers; grew 3889→3993). Tenet-3, 26-ref citation-heavy.
+- **Citation web-verify (publisher-level)**: ALL CLEAN.
+  - Berghofer (2019) *EJP* 27(1) DOI 10.1111/ejop.12405 — VERIFIED (Graz; Husserl-as-evidentialist stance accurate). Berghofer (2023) "Demystifying Originary Givenness" *Bull. d'analyse phénoménologique* 19(3):205-219 — VERIFIED (real, recent, correctly attributed).
+  - Brewer et al. (2011) *PNAS* 108(50):20254-20259 DOI 10.1073/pnas.1112029108 — VERIFIED exact; cross-modal-verification use stance-faithful.
+  - Verbatim quotes: Husserl "adequacy and apodicticity of evidence need not go hand in hand" (*Cartesian Meditations* §6) EXACT; Rorty "the mark of the mental" (title; *J.Phil* 67(12):399-424) EXACT. Huemer "pushiness" / Siegel "bad basis" faithful.
+  - Chalmers (2003) "Content and Epistemology of Phenomenal Belief" (Smith & Jokic, OUP, pp.220-272) — VERIFIED stance. Carruthers (2011) *Opacity of Mind* OUP — VERIFIED; process-only confinement accurate. Petitmengin (2006) consistent with this session's prior clean verify.
+  - **Schwitzgebel (2008)** *Phil Review* 117(2):245-273 — VERIFIED exact. Skeptic-fairness check (key for an authority article): PASS — engaged as THE skeptic, layer-3 conceded ("his case strongest"), layer-2 "mixed"; NOT misrepresented as supporting authority.
+- **Calibration check (Tenet-3)**: PASS on all axes. Defeasible-not-infallible (layer 1 "approaches incorrigibility", not infallible; layer 3 "may be no more reliable than third-person inference"). Metacognitive confidence ≠ accuracy preserved (acquaintance/judgement split; confabulation felt-rightness "anti-correlated with accuracy"). No epistemic→metaphysical slide (explicit PC/irreducibility separation). Illusionist bedrock declared underdetermined, not refuted. No possibility/probability slippage.
+- **Reasoning-mode (editor-internal)**: eliminativism/theory-ladenness — Mode Two→Three (unearned referring-case modelling identified, then bedrock declared honestly); Dennett/heterophenomenology — Mode Two (narrowed to the "adequately captures what experience is like" point); Carruthers — Mode One (in-framework). No label leakage.
+- **Anchors**: all resolve (somatic-interface#Channels…, mechanism-costs#q1, heterophenomenology#Heterophenomenology vs. Neurophenomenology, microphenomenological#Confabulation-Resistance Discipline, interface-formalization-void).
+- **Critical issues addressed**: 0 | **Medium**: 0 | **Enhancements**: 0 (converged; deliberately net-neutral at the ceiling)
+- **Length note**: legitimate **human-length-decision candidate** — calibration-saturated at 3993/4000; cannot absorb future expansion without breaching the ceiling or auto-condensing protected calibration prose (a human call). No defect requiring expansion found, so none forced.
+- **Output**: [[reviews/deep-review-2026-06-03-phenomenal-authority-and-first-person-evidence]]
+
 ## 2026-06-03T02:01:01+00:00 - deep-review
 - **Status**: Success (converged — citation-verify verdict, no body edits)
 - **File**: [[voids/self-opacity]]
