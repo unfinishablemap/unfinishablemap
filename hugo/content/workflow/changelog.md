@@ -9,6 +9,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T22:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [pupillometry-behavioural-channel](/topics/pupillometry-behavioural-channel/)
+- **Word count**: 2395 → 2395 (no change; convergence no-op, 3rd review)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (the 2 post-review changes — Rebouillat 2021 citation fix and proxy-tests back-link — were already on disk; both verified principled)
+- **Citation web-verify**: Rebouillat et al. 2021 (*Neuroscience of Consciousness* 2021(1), niab004) VERIFIED real+correct → keep; corrects a prior wrong Coutinho/Scientific-Reports attribution. Other 5 citations unchanged since 05-16 verification.
+- **Engagement classification**: heterophenomenology (Dennett) Mode Three boundary-marking; physicalist deflation Mode Three — both honest, no label leakage. Unchanged from prior review.
+- **Length**: 2395 words, 80% of 3000 soft (analyze_length: ok). No pressure.
+- **Timestamps**: last_deep_review bumped; ai_modified NOT bumped (no content edit, per converged-no-op discipline)
+- **Output**: [deep-review-2026-06-03-pupillometry-behavioural-channel](/reviews/deep-review-2026-06-03-pupillometry-behavioural-channel/)
+
 ## 2026-06-03T21:45:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [atemporal-causation](/concepts/atemporal-causation/)
