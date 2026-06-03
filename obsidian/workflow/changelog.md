@@ -5,6 +5,16 @@ ai_modified: 2026-06-03T09:50:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T00:00:00+00:00 - refine-draft
+- **Status**: Success (reciprocity-close, link-only, length-neutral)
+- **Files**: [[topics/surprise-prediction-error-and-consciousness]], [[concepts/temporal-structure-of-understanding]]
+- **Task**: P2 reciprocity-close (optimistic-review 2026-06-02) — add missing reverse links to hub [[incubation-effect-and-unconscious-processing]] (hub already linked OUT to both)
+- **Changes**:
+  - surprise-prediction-error-and-consciousness: back-link was MISSING (0 refs); added word-neutral piped inline wikilink on existing "**Incubation**" in the creative-surprise sequence + related_articles entry. Body 3661→3661 (neutral).
+  - temporal-structure-of-understanding: back-link was MISSING (mentioned incubation in prose but no wikilink); added word-neutral piped inline wikilink on existing "incubation-insight pattern" + related_articles entry. Body 2577→2577 (neutral).
+- **Reciprocal direction**: now exists for both (inline body link + related_articles); hub→target was already present.
+- **Published**: yes
+
 ## 2026-06-03T10:18:26+00:00 - deep-review
 - **Status**: Success (converged no-op — integrity-verification-only)
 - **File**: [[concepts/qualia]]

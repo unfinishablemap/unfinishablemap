@@ -4,7 +4,7 @@ description: "The click of comprehension has temporal phenomenology: suddenness,
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-06-01T12:50:51+00:00
+ai_modified: 2026-06-03T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,6 +30,7 @@ related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-mathematics]]"
   - "[[phenomenology-of-intellectual-life]]"
+  - "[[incubation-effect-and-unconscious-processing]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -79,7 +80,7 @@ Bergson's [[temporal-consciousness|durée]]—lived time as interpenetrating flo
 
 ### Incubation and Insight
 
-Sometimes understanding requires stepping away. The problem that resists direct effort yields suddenly after sleep, distraction, or simply waiting. This incubation-insight pattern suggests unconscious processing followed by conscious recognition.
+Sometimes understanding requires stepping away. The problem that resists direct effort yields suddenly after sleep, distraction, or simply waiting. This [[incubation-effect-and-unconscious-processing|incubation-insight pattern]] suggests unconscious processing followed by conscious recognition.
 
 The insight that follows incubation has distinctive phenomenology:
 - **Givenness**: The solution appears as received rather than constructed. Mathematicians speak of ideas "coming to them."

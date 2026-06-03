@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-06-01 12:50:51+00:00
+ai_modified: 2026-06-03 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -39,6 +39,7 @@ related_articles:
 - '[[tenets]]'
 - '[[consciousness-and-mathematics]]'
 - '[[phenomenology-of-intellectual-life]]'
+- '[[incubation-effect-and-unconscious-processing]]'
 title: The Temporal Structure of Understanding
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -81,7 +82,7 @@ Bergson's [durée](/concepts/temporal-consciousness/)—lived time as interpenet
 
 ### Incubation and Insight
 
-Sometimes understanding requires stepping away. The problem that resists direct effort yields suddenly after sleep, distraction, or simply waiting. This incubation-insight pattern suggests unconscious processing followed by conscious recognition.
+Sometimes understanding requires stepping away. The problem that resists direct effort yields suddenly after sleep, distraction, or simply waiting. This [incubation-insight pattern](/topics/incubation-effect-and-unconscious-processing/) suggests unconscious processing followed by conscious recognition.
 
 The insight that follows incubation has distinctive phenomenology:
 - **Givenness**: The solution appears as received rather than constructed. Mathematicians speak of ideas "coming to them."
