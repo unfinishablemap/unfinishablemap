@@ -9,6 +9,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T09:55:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)
+- **Verdict**: Justified-pick (specialist cites added by 2026-05-11 + 2026-05-27 passes never web-verified on this article; apex-evolve contextuality expansion unreviewed on its own terms) — NOT converged-no-op.
+- **Word count**: 4139 → 4178 (+39; two mandatory orphaned-citation reference entries; 104% of apex 4000 soft, under 5000 hard — over-soft margin is load-bearing calibration prose, flagged human-length-decision, not auto-condensed)
+- **Citations web-verified (publisher of record)**: Chalmers & McQueen 2022 (arXiv:2105.02314, OUP/Gao) ✓; Bourget 2004 (JCS 11(12):17-42 + Stapp reply 43-49) ✓; Thura & Cisek 2014 (Neuron 81(6):1401-1416, "280 ms" figure confirmed verbatim) ✓; Hosten & Kwiat 2008 (Science 319:787-790) ✓. **Two ORPHANED body cites grounded**: Spekkens 2005 (Phys Rev A 71:052108, quant-ph/0406166) → added ref 13; Torres Alegre 2025 (arXiv:2512.12636, REAL, faithful gloss) → added ref 14. Reference numbering defect fixed (Map self-cites mis-numbered 13/12 → 15/16). Famous-name registry (Kerskens/Hameroff/Wiest/Babcock): article cites none → no substitution hazard.
+- **apex_sources integrity**: all 5 resolve to LIVE files; no archival rot. Ref URLs live.
+- **Quote audit**: clean — no verbatim-quote attributions; Schlosshauer (line 68) is em-dash paraphrase (sentiment genuinely Schlosshauer's, confirmed 2026-06-02); Stapp "moving my finger" is a paraphrase-label.
+- **Calibration**: clean; no possibility/probability slippage; bias-without-deviation section holds single-event genuineness as live hypothesis + names testability cost squarely; no over-hedging added to converged content.
+- **Critical issues addressed**: 2 (two orphaned specialist cites + reference numbering)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Follow-on flagged**: human length-decision (4178w, over soft / under hard; calibration prose is the over-soft margin).
+- **Output**: [deep-review-2026-06-03-post-decoherence-selection-programme](/reviews/deep-review-2026-06-03-post-decoherence-selection-programme/)
+
 ## 2026-06-03T09:43:57+00:00 - deep-review
 - **Status**: Success
 - **File**: [consciousness-and-mathematics](/topics/consciousness-and-mathematics/)

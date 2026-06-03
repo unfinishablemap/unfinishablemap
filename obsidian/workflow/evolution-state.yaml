@@ -1,5 +1,9 @@
-last_updated: '2026-06-03T09:45:48.654397+00:00'
-session_count: 9546
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-03T09:49:26.043237+00:00'
+session_count: 9547
 cycle_position: 8265
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-06-03T07:28:07.795414+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-03T08:50:47.888893+00:00'
-  agentic-social: '2026-06-03T09:49:08.348208+00:00'
+  agentic-social: '2026-06-03T09:49:26.043237+00:00'
   embed-videos: '2026-06-03T08:32:14.453042+00:00'
   commission-chatgpt-review: '2026-06-03T02:07:57.581821+00:00'
   commission-claude-review: '2026-06-03T03:07:15.696970+00:00'
@@ -86,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-03'
-  outcome: success
 - task: add-highlight
   type: add-highlight
   date: '2026-06-03'
@@ -166,12 +166,7 @@ recent_tasks:
   type: deep-review
   date: '2026-06-03'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/reductionism/
-    date: '2026-06-03T09:49:08.348188+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - reductionism
-    - physicalism
-    - qualia
+- task: agentic-social
+  type: agentic-social
+  date: '2026-06-03'
+  outcome: success
