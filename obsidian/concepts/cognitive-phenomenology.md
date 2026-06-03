@@ -35,6 +35,7 @@ concepts:
   - "[[phenomenology-vs-function-axis]]"
 related_articles:
   - "[[tenets]]"
+  - "[[direction-of-fit]]"
   - "[[cognitive-phenomenology-thinking-experience-2026-01-17]]"
   - "[[pragmatisms-path-to-dualism]]"
   - "[[pragmatism]]"
@@ -57,7 +58,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-16
 last_curated: null
-ai_modified: 2026-06-02T09:30:00+00:00
+ai_modified: 2026-06-03T00:00:00+00:00
 last_deep_review: 2026-06-02T09:30:00+00:00
 coalesced_from:
   - "/concepts/semantic-phenomenology/"
@@ -146,7 +147,7 @@ Pitt argues for both: each distinct thought content has distinctive phenomenal c
 
 ## Phenomenal Intentionality
 
-Cognitive phenomenology connects to the [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality thesis (PIT)]]: genuine [[intentionality]] derives from phenomenal consciousness. If PIT holds and cognitive phenomenology exists, intentionality is irreducible to non-phenomenal facts, and systems without phenomenology lack genuine intentionality—strengthening the [[symbol-grounding-problem|symbol grounding]] argument that LLM "representations" face an unsolvable grounding problem.
+Cognitive phenomenology connects to the [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality thesis (PIT)]]: genuine [[intentionality]] derives from phenomenal consciousness. If PIT holds and cognitive phenomenology exists, intentionality is irreducible to non-phenomenal facts, and systems without phenomenology lack genuine intentionality—strengthening the [[symbol-grounding-problem|symbol grounding]] argument that LLM "representations" face an unsolvable grounding problem. The same dependence carries the normative structure that [[direction-of-fit|direction of fit]] classifies: if the way beliefs *should* track truth and desires *should* guide action is grounded in phenomenal character rather than functional role alone, systems lacking cognitive phenomenology lack genuine direction of fit too.
 
 ## Implications for AI Consciousness
 

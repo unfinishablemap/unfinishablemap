@@ -4,7 +4,7 @@ description: "Direction of fit classifies mental states by whether mind adapts t
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-05-09T07:16:00+00:00
+ai_modified: 2026-06-03T00:00:00+00:00
 draft: false
 topics:
   - "[[aesthetics-and-consciousness]]"
@@ -86,7 +86,7 @@ The double direction of fit in intentions-in-action is particularly telling. Whe
 
 **The biological objection**: Some argue direction of fit reduces to biological function. Beliefs have mind-to-world fit because organisms that form accurate representations survive; desires have world-to-mind fit because organisms that act on motivational states reproduce. On this view, direction of fit is an evolutionary story, not a mark of irreducibility. The Map's response: evolutionary function may explain *why* these structures exist without explaining *what they are*. The normative dimension—that beliefs *should* match reality—is not captured by the historical fact that accurate representation was adaptive.
 
-**The functionalist reduction**: Functionalists can define direction of fit structurally: mind-to-world states are those revised in response to perceptual input; world-to-mind states are those that generate action. No phenomenal consciousness needed. This structural account captures the *relational asymmetry* between beliefs and desires. But it faces the same challenge that [[concepts/functionalism|functionalism]] faces generally: structure without qualitative character may be structure without genuine normativity. A thermostat revises its state in response to temperature (mind-to-world analogue) and activates heating to change the environment (world-to-mind analogue), yet nothing *ought* to be the case for the thermostat. If phenomenal consciousness is what converts structural asymmetry into genuine normative direction, the functional reduction leaves out what matters most.
+**The functionalist reduction**: Functionalists can define direction of fit structurally: mind-to-world states are those revised in response to perceptual input; world-to-mind states are those that generate action. No phenomenal consciousness needed. This structural account captures the *relational asymmetry* between beliefs and desires. But it faces the same challenge that [[functionalism|functionalism]] faces generally: structure without qualitative character may be structure without genuine normativity. A thermostat revises its state in response to temperature (mind-to-world analogue) and activates heating to change the environment (world-to-mind analogue), yet nothing *ought* to be the case for the thermostat. If phenomenal consciousness is what converts structural asymmetry into genuine normative direction, the functional reduction leaves out what matters most.
 
 **The emotion problem**: Emotions complicate the framework. Fear of a bear involves mind-to-world fit (representing the bear as dangerous) and world-to-mind fit (motivating escape). Admiration involves representing something as excellent (mind-to-world) without clear desire to change anything. Undirected anxiety may lack propositional content entirely. These complex cases suggest that direction of fit is a spectrum or multidimensional phenomenon rather than a strict dichotomy.
 

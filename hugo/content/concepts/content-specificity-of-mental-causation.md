@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-05-26 21:46:31+00:00
+ai_modified: 2026-06-03 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,6 +26,7 @@ last_deep_review: 2026-05-26 21:46:31+00:00
 modified: *id001
 related_articles:
 - '[[empirical-phenomena-mental-causation]]'
+- '[[direction-of-fit]]'
 - '[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]'
 - '[[pain-consciousness-and-causal-power]]'
 - '[[tenets]]'
@@ -54,7 +55,7 @@ The strongest physicalist response to content-specificity is functionalism: repr
 
 This response is powerful and should not be dismissed. It explains *that* different beliefs produce different effects and *how* the neural mechanisms work. A system that represents "painkiller" differently from "stimulant" at the neural level will produce different outputs—this follows from basic information processing.
 
-Where functionalism faces pressure is in explaining why these functional roles are accompanied by specific phenomenal experiences. The expectation of pain relief doesn't just activate opioid pathways—it *feels like* expecting pain relief, and that felt quality tracks the content with striking precision. The functionalist maintains that the feeling just *is* the functional role, which is a substantive philosophical thesis. The dualist observes that the direction of explanation—from what the subject *consciously understands* to which physiological cascade unfolds—is exactly what one would predict if phenomenal content were doing causal work.
+Where functionalism faces pressure is in explaining why these functional roles are accompanied by specific phenomenal experiences. The expectation of pain relief doesn't just activate opioid pathways—it *feels like* expecting pain relief, and that felt quality tracks the content with striking precision. The functionalist maintains that the feeling just *is* the functional role, which is a substantive philosophical thesis. The dualist observes that the direction of explanation—from what the subject *consciously understands* to which physiological cascade unfolds—is exactly what one would predict if phenomenal content were doing causal work. This is the [world-to-mind direction of fit](/concepts/direction-of-fit/) made empirically visible: a belief's representational content (mind-to-world) appears to initiate a content-matching world-to-mind cascade in the body.
 
 Content-specificity's philosophical force does not come from refuting functionalism on its own terms. It comes from combining an empirical observation (meaning determines outcome) with the [hard problem](/topics/hard-problem-of-consciousness/) (why is meaning accompanied by phenomenal experience?). If [intentional content](/concepts/intentionality/) is constitutively phenomenal—as [phenomenal intentionality theory](/concepts/intentionality/#phenomenal-intentionality-theory) argues—then the tight mapping between content and outcome is a tight mapping between phenomenal character and physical effect. Functionalism explains the information processing; content-specificity asks why the processing has the qualitative character it does, and why that character tracks the causal profile so precisely.
 

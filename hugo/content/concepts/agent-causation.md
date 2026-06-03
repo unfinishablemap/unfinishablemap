@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-06-01 00:00:00+00:00
+ai_modified: 2026-06-03 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -40,6 +40,7 @@ last_deep_review: 2026-06-01 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[direction-of-fit]]'
 - '[[phenomenology-mechanism-bridge]]'
 - '[[process-and-consciousness]]'
 - '[[consciousness-and-agency]]'
@@ -70,7 +71,7 @@ This article deploys a substance-leaning reading of dualism, and the scope of th
 
 Most causal explanations appeal to events causing events—*transeunt causation* in Chisholm's term. Agent causation (*immanent causation*) differs: the agent, as a persisting substance, directly causes the action. When I decide to raise my hand, *I* caused the raising—the agent is ontologically prior to events, not a mere sum of them.
 
-Event-causal libertarianism holds that free actions are caused by nondeterministic mental events. Critics argue this doesn't deliver genuine authorship: if prior mental events cause my decision, and I didn't choose those events, the causal chain traces back beyond my control. Agent causation answers this as the third horn of the [trilemma-of-selection](/topics/trilemma-of-selection/), which exhausts the options at any indeterminate decision point (determinism, randomness, or mental causation): the agent is an "uncaused cause," and the regress stops at the agent's irreducible capacity to act. Kane's 2024 work now incorporates agent-causal elements, representing convergence between traditions. See [the systematic treatment](/concepts/quantum-indeterminacy-free-will/#event-causal-vs-agent-causal-approaches).
+Event-causal libertarianism holds that free actions are caused by nondeterministic mental events. Critics argue this doesn't deliver genuine authorship: if prior mental events cause my decision, and I didn't choose those events, the causal chain traces back beyond my control. The [world-to-mind direction of fit](/concepts/direction-of-fit/) sharpens what agent causation must preserve here—an intention genuinely aims to make reality conform to its content, a literal directedness event-causal accounts render metaphorical. Agent causation answers this as the third horn of the [trilemma-of-selection](/topics/trilemma-of-selection/), which exhausts the options at any indeterminate decision point (determinism, randomness, or mental causation): the agent is an "uncaused cause," and the regress stops at the agent's irreducible capacity to act. Kane's 2024 work now incorporates agent-causal elements, representing convergence between traditions. See [the systematic treatment](/concepts/quantum-indeterminacy-free-will/#event-causal-vs-agent-causal-approaches).
 
 ## Substance Causation: The Metaphysical Foundation
 

@@ -5,6 +5,21 @@ ai_modified: 2026-06-03T01:50:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/direction-of-fit]] (back-link completion across 6 partner homes)
+- **Task**: connection-completion from [[reviews/optimistic-2026-06-03]] — direction-of-fit had inbound=2 vs rich outbound (linked OUT to 6 causation/intentionality partners 2-3× each with zero reciprocation). Length-neutral, cap-safe, no new pages.
+- **Back-links added (6/6, all genuine gaps, all natural homes found)**:
+  1. `concepts/agent-causation.md` — added world-to-mind-fit clause in the event-vs-agent-causation passage + related_articles
+  2. `concepts/epiphenomenalism.md` — added clause where inertness empties desire/intention of directedness (self-stultification generalization passage) + related_articles
+  3. `concepts/mental-causation-and-downward-causation.md` — added clause in "Agent Causation and Mental Causation" (substance holds not-yet-actual state) + related_articles
+  4. `concepts/content-specificity-of-mental-causation.md` — added clause in functionalist-response section (direction of explanation = world-to-mind fit made visible) + related_articles
+  5. `topics/empirical-phenomena-mental-causation.md` — added clause in placebo "Why Content Matters" (expectation represents not-yet-actual bodily state) + related_articles
+  6. `concepts/cognitive-phenomenology.md` — added clause in "Phenomenal Intentionality" (normative direction-of-fit structure grounded in phenomenal character) + related_articles
+- **Also**: normalized `[[concepts/functionalism|functionalism]]` → `[[functionalism|functionalism]]` in direction-of-fit.md (corpus-standard bare slug; cosmetic, target resolves)
+- **Outcome**: all 6 reported back-linked (none skipped — every optional partner had a load-bearing sentence inviting the link). One clause + one related_articles line per file; no content/claim/calibration change.
+- **Published**: yes
+
 ## 2026-06-03T03:10:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: `concepts/direction-of-fit.md` (primary) + reciprocity scan across its causation/intentionality partners; spot-checked `concepts/carrolls-regress.md` (well-reciprocated, no gap)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-06-03 02:27:05+00:00
+ai_modified: 2026-06-03 12:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -42,6 +42,7 @@ last_deep_review: 2026-05-28 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[direction-of-fit]]'
 - '[[evolutionary-case-for-mental-causation]]'
 - '[[empirical-evidence-for-consciousness-selecting]]'
 - '[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]'
@@ -89,7 +90,7 @@ The philosophically critical feature is [content-specificity](/concepts/content-
 
 Tell someone a pill is a painkiller, and endogenous opioids are released. Benedetti et al. (2003) sharpen where this content-direction holds and where it does not: verbally induced expectations of analgesia/hyperalgesia and of motor improvement/worsening *overrode* a prior conditioning procedure, so for pain and motor performance the conscious content of the instruction selected the direction of the effect. The same study found the opposite for hormonal responses — verbal expectations of raised or lowered growth hormone and cortisol had *no effect on secretion*; the hormonal placebo response was driven by unconscious conditioning (with sumatriptan), which persisted even when contrary verbal suggestions were given. Content-specificity through conscious belief is therefore demonstrated for the analgesic and motor channels, not the hormonal one, and the article's case rests on the former. The [Recognition Void](/voids/recognition-void/) reveals the same principle pathologically: in Capgras delusion, what a face is recognised *as* determines the patient's affective response despite identical perceptual input.
 
-This connects to the [phenomenal intentionality](/concepts/intentionality/#phenomenal-intentionality-theory) thesis: if genuine intentionality requires phenomenal character, the content doing causal work in placebo is phenomenally constituted — the felt quality of expecting pain relief rather than some extensionally equivalent neural description.
+This connects to the [phenomenal intentionality](/concepts/intentionality/#phenomenal-intentionality-theory) thesis: if genuine intentionality requires phenomenal character, the content doing causal work in placebo is phenomenally constituted — the felt quality of expecting pain relief rather than some extensionally equivalent neural description. It also gives the [world-to-mind direction of fit](/concepts/direction-of-fit/) an empirical foothold: the expectation represents a not-yet-actual bodily state (mind-to-world) and the body shifts to match its content (world-to-mind).
 
 The functionalist response is that representational content just *is* functional role: different beliefs activate different prefrontal-subcortical circuits, producing different downstream effects. What this does not obviously explain is *why these functional roles are accompanied by specific conscious experiences* — why expectation of pain relief feels like anything, and why that felt quality tracks content so precisely.
 

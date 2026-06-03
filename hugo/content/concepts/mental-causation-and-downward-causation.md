@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-06-02 12:00:00+00:00
+ai_modified: 2026-06-03 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -47,6 +47,7 @@ last_deep_review: 2026-06-02 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[direction-of-fit]]'
 - '[[phenomenology-mechanism-bridge]]'
 - '[[arguments/epiphenomenalism-argument]]'
 - '[[metaproblem-of-consciousness-under-dualism]]'
@@ -155,7 +156,7 @@ The Map specifies *where* downward causation operates and *why* physical laws ar
 
 ## Agent Causation and Mental Causation
 
-The exclusion argument assumes event causation—events causing events according to laws. [Agent causation](/concepts/agent-causation/) offers a different model: substances (agents) causing events through exercise of causal powers. E.J. Lowe argued all causation is fundamentally [substance causation](/concepts/agent-causation/#the-metaphysical-foundation-substance-causation); the conscious subject causes actions by exercising powers, not as one event producing another. If consciousness is such a substance acting at quantum indeterminacies, the exclusion argument's framework simply doesn't apply. The phenomenology of [mental effort](/concepts/mental-effort/) and [volition](/concepts/phenomenology-of-choice-and-volition/) supports this—effort feels like *doing* something, and willing reveals distinguishable components (initiation, sustained control, effort, veto) each tracking genuine causal engagement. Whitehead's "actual occasions" exercising self-determination complement the model, and the [cross-cultural convergence](/concepts/cross-cultural-convergence-on-mental-causation/) of Indian, African, and Western traditions on causally efficacious consciousness adds further evidential support.
+The exclusion argument assumes event causation—events causing events according to laws. [Agent causation](/concepts/agent-causation/) offers a different model: substances (agents) causing events through exercise of causal powers. E.J. Lowe argued all causation is fundamentally [substance causation](/concepts/agent-causation/#the-metaphysical-foundation-substance-causation); the conscious subject causes actions by exercising powers, not as one event producing another. The [world-to-mind direction of fit](/concepts/direction-of-fit/) of intentions makes vivid what such a substance does: it holds a representation of a not-yet-actual state and brings that state about, a literal directedness the exclusion argument's event-causal framing renders metaphorical. If consciousness is such a substance acting at quantum indeterminacies, the exclusion argument's framework simply doesn't apply. The phenomenology of [mental effort](/concepts/mental-effort/) and [volition](/concepts/phenomenology-of-choice-and-volition/) supports this—effort feels like *doing* something, and willing reveals distinguishable components (initiation, sustained control, effort, veto) each tracking genuine causal engagement. Whitehead's "actual occasions" exercising self-determination complement the model, and the [cross-cultural convergence](/concepts/cross-cultural-convergence-on-mental-causation/) of Indian, African, and Western traditions on causally efficacious consciousness adds further evidential support.
 
 ### The Interface Question
 

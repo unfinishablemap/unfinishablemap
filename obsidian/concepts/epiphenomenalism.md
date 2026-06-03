@@ -4,7 +4,7 @@ description: "Consciousness as causally inert byproduct. Self-stultification pro
 created: 2026-01-09
 modified: 2026-05-15
 human_modified: null
-ai_modified: 2026-06-02T17:47:12+00:00
+ai_modified: 2026-06-03T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,6 +28,7 @@ concepts:
   - "[[llm-consciousness]]"
 related_articles:
   - "[[tenets]]"
+  - "[[direction-of-fit]]"
   - "[[epiphenomenalism-2026-01-08]]"
   - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[ai-epiphenomenalism]]"
@@ -89,7 +90,7 @@ Consider: if epiphenomenalism is true, then your belief in epiphenomenalism was 
 
 Worse: your introspective reports about consciousness are not caused by your conscious experiences. When you say "I'm in pain," the pain doesn't cause the utterance; brain states do. The report is *about* the pain experience, but that experience has no causal connection to the report. Why should the report be accurate? The [[language-and-consciousness|philosophy of language and consciousness]] deepens this: Grice argued that linguistic meaning depends on conscious speaker intention. If consciousness is causally inert, meaningful speech about experience becomes impossible.
 
-The problem generalizes. If epiphenomenalism is true, your reasoning about consciousness doesn't cause your beliefs about it, your experiences don't cause your reports about them, and your conclusion that epiphenomenalism is true is causally disconnected from any mental evidence.
+The problem generalizes. If epiphenomenalism is true, your reasoning about consciousness doesn't cause your beliefs about it, your experiences don't cause your reports about them, and your conclusion that epiphenomenalism is true is causally disconnected from any mental evidence. The same inertness empties desires and intentions of their [[direction-of-fit|world-to-mind direction of fit]]: a desire that does nothing cannot genuinely aim at restructuring the world, so its apparent directedness toward a not-yet-actual state would be illusory.
 
 This makes epiphenomenalism epistemically self-undermining—not logically contradictory, since it could still be true, but impossible to hold rationally. Any evidence you might have for it can only reach your beliefs through causally inert consciousness, which (if epiphenomenalism is true) means it doesn't reach them at all. The [[metaproblem-of-consciousness-under-dualism|metaproblem of consciousness]] provides another angle: the zombie philosopher writes the same papers about the hard problem, making the accuracy of our problem intuitions coincidental—a fatal weakness that interactionism avoids.
 
