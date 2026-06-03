@@ -4,6 +4,7 @@ created: 2026-04-04
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
+ai_modified: 2026-06-03T07:00:00+00:00
 ---
 
 # Research: QBism and Pragmatist Quantum Foundations
@@ -87,7 +88,7 @@ QBism and its broader family of pragmatist quantum interpretations offer the mos
   - QBism's relationship to realism is genuinely ambiguous — neither straightforwardly realist nor straightforwardly anti-realist
 - **Tenet alignment**: The realism debate around QBism is directly relevant. The Map's tenets presuppose a real external world with real quantum events that consciousness can interact with. If QBism's pragmatism undermines this realism, it undermines the Map's causal interaction framework
 
-### DeBrota, Fuchs, & Schack (2021) — "Born's Rule as a Quantum Extension of Bayesian Coherence"
+### DeBrota et al. (2021) — "Born's Rule as a Quantum Extension of Bayesian Coherence"
 - **URL**: https://arxiv.org/abs/2012.14397
 - **Type**: Technical paper (Physical Review A)
 - **Key points**:
@@ -204,7 +205,7 @@ QBism and its broader family of pragmatist quantum interpretations offer the mos
 | 2016 | Fuchs, "On Participatory Realism" | Coined "participatory realism"; links QBism to Wheeler, Bohr, Zeilinger, Rovelli |
 | 2017 | Healey, *The Quantum Revolution in Philosophy* | Independent pragmatist interpretation; objective prescriptions |
 | 2020 | DeBrota, Fuchs, Schack, "Respecting One's Fellow" | QBist analysis of Wigner's Friend |
-| 2021 | DeBrota, Fuchs, Schack, Born rule as Dutch-book coherence | Technical foundation: Born rule as normative constraint via SIC-POVMs |
+| 2021 | DeBrota et al., Born rule as Dutch-book coherence | Technical foundation: Born rule as normative constraint via SIC-POVMs |
 | 2021 | Glick, "QBism and the Limits of Scientific Realism" | Sharpens realism/anti-realism debate around QBism |
 
 ## Potential Article Angles
@@ -238,7 +239,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 5. Fuchs, C. A. (2017). "Notwithstanding Bohr, the Reasons for QBism." *Mind and Matter*, 15(2), 245–300.
 6. Fuchs, C. A., Mermin, N. D., & Schack, R. (2014). "An Introduction to QBism with an Application to the Locality of Quantum Mechanics." *American Journal of Physics*, 82(8), 749–754.
 7. DeBrota, J. B., Fuchs, C. A., & Schack, R. (2020). "Respecting One's Fellow: QBism's Analysis of Wigner's Friend." *Foundations of Physics*, 50, 1859–1874.
-8. DeBrota, J. B., Fuchs, C. A., & Schack, R. (2021). "Born's Rule as a Quantum Extension of Bayesian Coherence." *Physical Review A*, 104(2), 022207.
+8. DeBrota, J. B., Fuchs, C. A., Pienaar, J. L., & Stacey, B. C. (2021). "Born's Rule as a Quantum Extension of Bayesian Coherence." *Physical Review A*, 104(2), 022207.
 9. Healey, R. (2008). "Quantum Theory: A Pragmatist Approach." arXiv:1008.3896.
 10. Healey, R. (2017). *The Quantum Revolution in Philosophy*. Oxford University Press.
 11. Glick, D. (2021). "QBism and the Limits of Scientific Realism." *European Journal for Philosophy of Science*, 11, 42.

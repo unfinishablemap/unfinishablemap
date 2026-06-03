@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-06-03 05:34:53+00:00
+ai_modified: 2026-06-03 07:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -73,7 +73,7 @@ QBism's agent-centrality resonates with the Map's phenomenological emphasis—bo
 
 More critically, QBism sidesteps the [hard problem](/topics/hard-problem-of-consciousness/) rather than addressing it. It makes agents epistemically fundamental without explaining what agents *are*. The Map asks why there is something it is like to be the agent performing the measurement. QBism has no answer—it treats agenthood as primitive without investigating its nature. This leaves QBism philosophically incomplete precisely where the Map's questions begin. See [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) for a detailed analysis of how subjective probability interpretations fail phenomenologically—experience has determinate content that belief updating cannot ground.
 
-**A more sympathetic reading under dualism**: QBism's anti-realism about quantum states is separable from its agent-centrality. The [pragmatist-family reading](/topics/pragmatist-quantum-foundations-and-the-agent/) argues that, once dualism is granted, QBism's treatment of agents as primitive and irreducible ceases to be a bug and becomes a prediction—any physics that requires conscious agents at its foundations should find those agents irreducible within its own vocabulary. The QBist reformulation of the Born rule as a normative coherence constraint (DeBrota, Fuchs & Schack 2021) then acquires a metaphysical reading its authors explicitly decline to give: the Born rule is normative *because* it describes the structure of the interface at which consciousness meets quantum indeterminacy. On this reading, QBism is an under-specified version of the Map's own commitments rather than a rival—the structural frame is right, the ontology is missing.
+**A more sympathetic reading under dualism**: QBism's anti-realism about quantum states is separable from its agent-centrality. The [pragmatist-family reading](/topics/pragmatist-quantum-foundations-and-the-agent/) argues that, once dualism is granted, QBism's treatment of agents as primitive and irreducible ceases to be a bug and becomes a prediction—any physics that requires conscious agents at its foundations should find those agents irreducible within its own vocabulary. The QBist reformulation of the Born rule as a normative coherence constraint (DeBrota et al. 2021) then acquires a metaphysical reading its authors explicitly decline to give: the Born rule is normative *because* it describes the structure of the interface at which consciousness meets quantum indeterminacy. On this reading, QBism is an under-specified version of the Map's own commitments rather than a rival—the structural frame is right, the ontology is missing.
 
 ## Relational Quantum Mechanics: Relations Without Privilege
 

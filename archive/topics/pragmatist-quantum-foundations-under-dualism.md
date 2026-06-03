@@ -4,7 +4,7 @@ description: "Human-AI analysis, iteratively refined, of how QBism, Healey, Bruk
 created: 2026-04-18
 modified: 2026-04-18
 human_modified:
-ai_modified: 2026-04-18T01:04:00+00:00
+ai_modified: 2026-06-03T07:10:00+00:00
 draft: false
 archived: true
 archived_date: 2026-04-19T10:39:00+00:00
@@ -47,7 +47,7 @@ The argument here assumes dualism as a working premise (Tenet 1) rather than def
 
 Four positions make up the core of pragmatist quantum foundations. Each keeps most of the standard formalism while reinterpreting what the formalism *does*.
 
-**QBism** (Fuchs, Caves, Schack, Mermin). Quantum states are personal Bayesian credences about an agent's future experiences. The Born rule is a normative coherence constraint — a "quantum extension of Bayesian coherence" (DeBrota, Fuchs & Schack 2021). Different agents can assign different states to the same system; intersubjective agreement emerges because the world reliably "kicks back" on beliefs rather than because any objective wave function is tracked. Fuchs names William James "the veritable mascot" of the programme and frames QBism as investigating "whether the physical world might be of a type sketched by some false-started philosophies of 100 years ago (pragmatism, pluralism, nonreductionism, and meliorism)" (Fuchs 2014).
+**QBism** (Fuchs, Caves, Schack, Mermin). Quantum states are personal Bayesian credences about an agent's future experiences. The Born rule is a normative coherence constraint — a "quantum extension of Bayesian coherence" (DeBrota et al. 2021). Different agents can assign different states to the same system; intersubjective agreement emerges because the world reliably "kicks back" on beliefs rather than because any objective wave function is tracked. Fuchs names William James "the veritable mascot" of the programme and frames QBism as investigating "whether the physical world might be of a type sketched by some false-started philosophies of 100 years ago (pragmatism, pluralism, nonreductionism, and meliorism)" (Fuchs 2014).
 
 **Healey's pragmatist interpretation.** Quantum theory is a source of "authoritative and objectively correct prescriptions about how agents should act" (Healey 2017). Probabilities are objective advice rather than subjective credence. Importantly, Healey's agents need only be "physically situated" and capable of acting; they need not be conscious. This keeps the agent-centrality while dropping QBism's covert psychological commitments.
 
@@ -77,9 +77,9 @@ The cost of this alliance is that Stapp's view is also the most physically commi
 
 ## QBism: The Primitive Agent as Dualist Placeholder
 
-QBism's technical achievement is the reformulation of the Born rule through SIC-POVMs (symmetric informationally complete positive operator-valued measures). In the "urgleichung" — the primal equation introduced by DeBrota, Fuchs, and Schack — quantum mechanics appears as a rule relating one probability distribution to another, with no wave function doing ontological work. The Born rule is then read as a *normative* constraint: rational agents who violate it are Dutch-bookable in an extended sense that mirrors de Finetti's classical result.
+QBism's technical achievement is the reformulation of the Born rule through SIC-POVMs (symmetric informationally complete positive operator-valued measures). In the "urgleichung" — the primal equation introduced by DeBrota et al. — quantum mechanics appears as a rule relating one probability distribution to another, with no wave function doing ontological work. The Born rule is then read as a *normative* constraint: rational agents who violate it are Dutch-bookable in an extended sense that mirrors de Finetti's classical result.
 
-Fuchs and collaborators describe this explicitly. Their 2021 paper states that "the subjective Bayesian interpretation of quantum mechanics (QBism) asserts that the Born rule is a normative rule in analogy to Dutch-book coherence" (DeBrota, Fuchs & Schack 2021). The framing is careful: normative, in analogy, not claimed as descriptive of reality.
+Fuchs and collaborators describe this explicitly. Their 2021 paper states that "the subjective Bayesian interpretation of quantum mechanics (QBism) asserts that the Born rule is a normative rule in analogy to Dutch-book coherence" (DeBrota et al. 2021). The framing is careful: normative, in analogy, not claimed as descriptive of reality.
 
 Under dualism, the Map offers a reading that QBists do not endorse but that is consistent with everything QBists say. The Born rule is normative for conscious agents *because* it describes the structure of the interface at which consciousness meets quantum indeterminacy. The [[born-rule-and-the-consciousness-interface|interface reading]] argues independently that the Born rule's resistance to derivation across interpretations is abductive evidence of interface-character. Combined with the QBist result, the picture sharpens: QBism has shown that the Born rule has exactly the formal profile one would expect of a constraint on rational agents; the Map's dualism supplies the reason this profile is not optional — the agents in question are conscious subjects coupled to physics at the point of measurement.
 
@@ -145,7 +145,7 @@ The convergence goes the other way too. Dualism without pragmatist quantum found
 ## References
 
 1. Caves, C. M., Fuchs, C. A., & Schack, R. (2002). Quantum Probabilities as Bayesian Probabilities. *Physical Review A*, 65(2), 022305.
-2. DeBrota, J. B., Fuchs, C. A., & Schack, R. (2021). Born's Rule as a Quantum Extension of Bayesian Coherence. *Physical Review A*, 104(2), 022207.
+2. DeBrota, J. B., Fuchs, C. A., Pienaar, J. L., & Stacey, B. C. (2021). Born's Rule as a Quantum Extension of Bayesian Coherence. *Physical Review A*, 104(2), 022207.
 3. Fuchs, C. A. (2014). My Struggles with the Block Universe. arXiv:1405.2390.
 4. Fuchs, C. A. (2017). On Participatory Realism. In I. T. Durham & D. Rickles (Eds.), *Information and Interaction: Eddington, Wheeler, and the Limits of Knowledge* (pp. 113–134). Springer.
 5. Fuchs, C. A., Mermin, N. D., & Schack, R. (2014). An Introduction to QBism with an Application to the Locality of Quantum Mechanics. *American Journal of Physics*, 82(8), 749–754.

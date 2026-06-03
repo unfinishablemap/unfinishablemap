@@ -4,7 +4,7 @@ description: "QBism inherits William James's pragmatism but refuses to explain i
 created: 2026-04-04
 modified: 2026-04-04
 human_modified:
-ai_modified: 2026-04-18T03:40:00+00:00
+ai_modified: 2026-06-03T07:10:00+00:00
 draft: false
 archived: true
 archived_date: 2026-04-19T10:39:00+00:00
@@ -71,7 +71,7 @@ The Map's response: QBism is right that agents are irreducible, and right that p
 
 QBism's technical centrepiece is its treatment of the Born rule. Traditional interpretations take the Born rule as describing objective probabilities — the chance that a measurement will yield a particular outcome. QBism recasts it as a normative coherence constraint: a "quantum extension" of classical Dutch-book coherence. Just as classical Bayesian coherence requires your probabilities to satisfy the axioms of probability theory (on pain of accepting bets you are guaranteed to lose), quantum coherence requires your probabilities to additionally satisfy Born-rule statistics when applied to symmetric informationally complete measurements (SIC-POVMs). The Born rule tells you how to be rationally consistent, not how the world is structured.
 
-DeBrota, Fuchs, and Schack (2021) formalised this through the "urgleichung" — a reformulation of the Born rule using SIC-POVMs that makes quantum mechanics look entirely like a theory relating one probability distribution to another. The aim is to strip quantum mechanics of ontological weight, leaving only normative guidance for agents.
+DeBrota et al. (2021) formalised this through the "urgleichung" — a reformulation of the Born rule using SIC-POVMs that makes quantum mechanics look entirely like a theory relating one probability distribution to another. The aim is to strip quantum mechanics of ontological weight, leaving only normative guidance for agents.
 
 The Map sees a deeper question behind the normative reading. *Why* must rational agents satisfy this particular constraint? Dutch-book arguments show that *consistent* agents must satisfy certain formal requirements, but they do not explain why experience reliably confirms Born statistics rather than some other pattern. If the world constrains agents' expectations so reliably that all agents converge on Born-rule predictions, something in reality is doing the constraining. QBism's response — that this "something" is the world itself, not the wave function — may be distinction without difference.
 
@@ -138,7 +138,7 @@ QBism's pragmatist foundations create a framework that the Map completes.
 2. Fuchs, C. A. (2014). My Struggles with the Block Universe. arXiv:1405.2390.
 3. Fuchs, C. A. (2017). On Participatory Realism. In I. T. Durham & D. Rickles (Eds.), *Information and Interaction: Eddington, Wheeler, and the Limits of Knowledge* (pp. 113–134). Springer.
 4. Fuchs, C. A., Mermin, N. D., & Schack, R. (2014). An Introduction to QBism with an Application to the Locality of Quantum Mechanics. *American Journal of Physics*, 82(8), 749–754.
-5. DeBrota, J. B., Fuchs, C. A., & Schack, R. (2021). Born's Rule as a Quantum Extension of Bayesian Coherence. *Physical Review A*, 104(2), 022207.
+5. DeBrota, J. B., Fuchs, C. A., Pienaar, J. L., & Stacey, B. C. (2021). Born's Rule as a Quantum Extension of Bayesian Coherence. *Physical Review A*, 104(2), 022207.
 6. Healey, R. (2017). *The Quantum Revolution in Philosophy*. Oxford University Press.
 7. Glick, D. (2021). QBism and the Limits of Scientific Realism. *European Journal for Philosophy of Science*, 11, 42.
 8. James, W. (1907). *Pragmatism: A New Name for Some Old Ways of Thinking*. Longmans, Green and Co.

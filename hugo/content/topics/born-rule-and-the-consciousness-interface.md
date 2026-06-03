@@ -83,7 +83,7 @@ The Born rule's resistance to derivation is compatible with at least five readin
 
 - **The Map's interface reading** — the rule governs how consciousness encounters quantum indeterminacy; underivability reflects the framework's silence about the interface's other side.
 - **The Map's trumping-preemption variant** — consciousness is authoritative over trajectories the formalism already describes, putting the Born rule outside the gap analysis.
-- **QBist agent-centred reading** — Born's rule is a normative coherence constraint on agent credences (DeBrota-Fuchs-Schack 2021); an agent-centred theory predicts exactly this underivability, and need not posit a dualist interface.
+- **QBist agent-centred reading** — Born's rule is a normative coherence constraint on agent credences (DeBrota et al. 2021); an agent-centred theory predicts exactly this underivability, and need not posit a dualist interface.
 - **Objective-collapse programmes** — GRW, CSL, Diósi-Penrose calibrate stochastic terms so Born statistics fall out by design.
 - **Modal and hidden-variable readings** — Bohmian mechanics derives the rule from quantum equilibrium (itself measured by |ψ|²); modal interpretations relocate it into the ontology.
 
@@ -117,7 +117,7 @@ Beyond additivity, each derivation presupposes an observer. Decoherence selects 
 
 **Zurek's envariance** (2005) appeals to symmetries of entangled states. Schlosshauer-Fine (2005) showed the auxiliary assumption extending from equal to unequal amplitudes is strong enough to yield the Born rule directly; Máttyus (2023) showed envariance does not necessitate Born's rule for all measurements.
 
-**QBism** (DeBrota-Fuchs-Schack 2021) reframes the Born rule as a normative coherence constraint on agent credences, making the observer central by design; an agent-centred theory predicts that observer-independent derivation will fail, which is what the literature finds. The [pragmatist family](/topics/pragmatist-quantum-foundations-and-the-agent/) reading treats this normativity as the structural surface of a dualist interface QBism declines to posit. The Map's disagreement with QBism is not whether the Born rule presupposes an agent — both agree it does — but what the agent *is*: QBism withholds a non-physical substrate on grounds of minimal ontological commitment; the Map posits one on grounds of cross-corpus tenet-coherence, claiming the substrate independently explains why the normativity has the SIC-geometric (d+1)/−1/d form QBism leaves unexplained. The how-sketch: the (d+1)/−1/d deformation measures the gap between an unperformed reference SIC and the single actualised outcome, and the interface reading already posits a unified experiencer actualising exactly one possibility among d ([phenomenal non-compositionality](/concepts/composition-and-consciousness/)) — so the coefficients' dimension-d non-classicality is the structural trace of d-dimensional indeterminacy meeting a one-outcome locus, where QBism takes the same coefficients as brute coherence on an agent it declines to characterise. That explanation-by-substrate is not an in-framework refutation; the disagreement is framework-boundary, not resolvable from Born-rule data alone.
+**QBism** (DeBrota et al. 2021) reframes the Born rule as a normative coherence constraint on agent credences, making the observer central by design; an agent-centred theory predicts that observer-independent derivation will fail, which is what the literature finds. The [pragmatist family](/topics/pragmatist-quantum-foundations-and-the-agent/) reading treats this normativity as the structural surface of a dualist interface QBism declines to posit. The Map's disagreement with QBism is not whether the Born rule presupposes an agent — both agree it does — but what the agent *is*: QBism withholds a non-physical substrate on grounds of minimal ontological commitment; the Map posits one on grounds of cross-corpus tenet-coherence, claiming the substrate independently explains why the normativity has the SIC-geometric (d+1)/−1/d form QBism leaves unexplained. The how-sketch: the (d+1)/−1/d deformation measures the gap between an unperformed reference SIC and the single actualised outcome, and the interface reading already posits a unified experiencer actualising exactly one possibility among d ([phenomenal non-compositionality](/concepts/composition-and-consciousness/)) — so the coefficients' dimension-d non-classicality is the structural trace of d-dimensional indeterminacy meeting a one-outcome locus, where QBism takes the same coefficients as brute coherence on an agent it declines to characterise. That explanation-by-substrate is not an in-framework refutation; the disagreement is framework-boundary, not resolvable from Born-rule data alone.
 
 **Masanes-Galley-Müller** (2019) derives the Born rule from quantum postulates plus finite-dimensionality, but operational axioms presuppose definite outcomes, relocating observer-dependence without eliminating it.
 
@@ -142,7 +142,7 @@ Every framework either postulates the Born rule, assumes it in disguised form, o
 
 ## Absorbing the Urgleichung
 
-DeBrota, Fuchs, and Schack (2021) reformulate the Born rule as the urgleichung on symmetric informationally complete POVMs:
+DeBrota et al. (2021) reformulate the Born rule as the urgleichung on symmetric informationally complete POVMs:
 
 > Q(D_j) = (d+1) Σ_i P(H_i) P(D_j | H_i) − 1/d
 
@@ -204,7 +204,7 @@ The empirical state cannot adjudicate, since it cannot probe the brain-internal 
 
 ## What This Does Not Establish
 
-Four caveats, read against the *Compatibility vs. Support* section above. First, absence of a derivation is not proof none exists; a century of failed attempts is suggestive but cannot rule out future success. Second, the pattern is equally compatible with the interface reading and the four consciousness-free rivals, and alone adjudicates among none. Third, the corridor reading reinterprets what the rule *means* without changing what it predicts. Fourth, where a rival accommodates underivability through theoretical machinery rather than a non-physical interface, the disagreement is framework-boundary, and the Map's reading earns its place through cross-corpus tenet-coherence rather than Born-rule data. What that tenet-coherence concretely buys, beyond the four consciousness-free rivals, is the one *interface-suggestive* clause the article does name: the substrate's how-sketch for the SIC-geometric (d+1)/−1/d form (§*The Observer in Every Standard Derivation*), which DeBrota-Fuchs-Schack leave as a brute coherence requirement — a payoff held at the suggestive tier, since a Hilbert-space primitivist can decline the meaning, not at the discriminating one.
+Four caveats, read against the *Compatibility vs. Support* section above. First, absence of a derivation is not proof none exists; a century of failed attempts is suggestive but cannot rule out future success. Second, the pattern is equally compatible with the interface reading and the four consciousness-free rivals, and alone adjudicates among none. Third, the corridor reading reinterprets what the rule *means* without changing what it predicts. Fourth, where a rival accommodates underivability through theoretical machinery rather than a non-physical interface, the disagreement is framework-boundary, and the Map's reading earns its place through cross-corpus tenet-coherence rather than Born-rule data. What that tenet-coherence concretely buys, beyond the four consciousness-free rivals, is the one *interface-suggestive* clause the article does name: the substrate's how-sketch for the SIC-geometric (d+1)/−1/d form (§*The Observer in Every Standard Derivation*), which DeBrota et al. leave as a brute coherence requirement — a payoff held at the suggestive tier, since a Hilbert-space primitivist can decline the meaning, not at the discriminating one.
 
 ## What Negative Results Would and Would Not Foreclose
 
@@ -272,7 +272,7 @@ The Map's working position is that the empirical question is genuinely open, pre
 
 10. Cramer, J. G. (1986). "The Transactional Interpretation of Quantum Mechanics." *Reviews of Modern Physics*, 58, 647–687.
 
-11. DeBrota, J. B., Fuchs, C. A. & Schack, R. (2021). "Born's Rule as a Quantum Extension of Bayesian Coherence." *Physical Review A*, 104, 022207.
+11. DeBrota, J. B., Fuchs, C. A., Pienaar, J. L. & Stacey, B. C. (2021). "Born's Rule as a Quantum Extension of Bayesian Coherence." *Physical Review A*, 104, 022207.
 
 12. Dürr, D., Goldstein, S. & Zanghì, N. (1992). "Quantum Equilibrium and the Origin of Absolute Uncertainty." *J. Stat. Phys.*, 67, 843–907.
 

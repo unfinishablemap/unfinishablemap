@@ -9,6 +9,29 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-03T12:15:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/) (+ 3 corpus siblings)
+- **Task**: P2 citation fix (pessimistic-review 2026-06-03) — DeBrota 2021 famous-name substitution, web-verified and corpus-wide
+- **2020-paper verification**: Web-verified DeBrota 2020 "Respecting One's Fellow" (Found. Phys. 50:1859–1874, arXiv:2008.03572, Springer/PhilArchive) — Schack IS a genuine author. All 2020 references PRESERVED (concepts/qbism.md L157, research L207/L241).
+- **2021-paper fix**: DeBrota et al. (2021) "Born's Rule as a Quantum Extension of Bayesian Coherence" *Phys. Rev. A* 104:022207 — verified authors DeBrota, Fuchs, Pienaar & Stacey (arXiv:2012.14397); Schack NOT an author. Fixed 11 loci across 4 files: in-text → "DeBrota et al. (2021)"; ref-list entries → ", Pienaar, J. L., & Stacey, B. C. (2021)".
+  - pragmatist-quantum-foundations-and-the-agent.md: L54, L96, ref #2 (L164)
+  - research/qbism-pragmatist-quantum-foundations-2026-04-04.md: L90 heading, L207 table, ref #8 (L241)
+  - qm-interpretations-beyond-many-worlds.md: L73
+  - born-rule-and-the-consciousness-interface.md: L81, L115, L140, L202, ref #11 (L270)
+- **Beyond the task's named 4 files** (surfaced by post-edit Hugo grep): the same defect lived in 2 ARCHIVED coalesced articles still serving their preserved URLs — fixed for corpus-wide consistency. `archive/topics/pragmatism-and-qbism.md` (in-text L74, ref #5) and `archive/topics/pragmatist-quantum-foundations-under-dualism.md` (in-text L50, L82, L80 "urgleichung introduced by", ref #2). Both superseded_by the live pragmatist article above.
+- **Preserved (genuine same-name refs)**: Caves-Fuchs-Schack 2002; Fuchs-Mermin-Schack 2014; QBism school-naming "(Fuchs, Caves, Schack, Mermin)"; DeBrota-Fuchs-Schack 2020 Wigner's-Friend paper. Discriminating-fix per ai_citation_metadata_unreliable.
+- **Length**: born-rule flagship net length-neutral (in-text "et al." shorter; ref-list +1 author net); remains at pre-existing 5064w hard-warning (human length-decision hold, not introduced here).
+- **Changes**: Pure citation-author fix; no prose claims altered. Healey de-psychologising disjunction tweak skipped (optional; scope/length risk).
+- **Published**: yes
+
+## 2026-06-03T12:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: agent-shaped-hole cluster — concepts/the-agent-shaped-hole.md (new today) + topics/pragmatist-quantum-foundations-and-the-agent.md (cited full development)
+- **Findings**: Cluster is exemplary on evidential-status discipline (defeater-removal not proven, posited-filling marked). One web-verified citation defect: DeBrota et al. (2021) Born-coherence paper mis-attributed to "DeBrota, Fuchs & Schack" — Schack not an author (real authors Pienaar & Stacey); famous-name substitution; 3 occurrences. Title/venue/article-number all correct. Verbatim Fuchs quotes confirmed accurate; Healey/Glick cites clean.
+- **Tasks generated**: 1 × P2 refine-draft (citation author-list fix), written to top of Active Tasks
+- **Output**: [pessimistic-2026-06-03-agent-shaped-hole-cluster](/reviews/pessimistic-2026-06-03-agent-shaped-hole-cluster/)
+
 ## 2026-06-03T11:45:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Agent-Shaped Hole (cross-cutting framework diagnostic)

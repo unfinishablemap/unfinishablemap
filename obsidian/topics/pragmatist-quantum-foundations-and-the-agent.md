@@ -51,7 +51,7 @@ The argument assumes dualism as a working premise (Tenet 1) rather than defendin
 
 Four positions make up the core of pragmatist quantum foundations. Each keeps most of the standard formalism while reinterpreting what the formalism *does*.
 
-**QBism** (Fuchs, Caves, Schack, Mermin). Quantum states are personal Bayesian credences about an agent's future experiences. The Born rule is a normative coherence constraint — a "quantum extension of Bayesian coherence" (DeBrota, Fuchs & Schack 2021). Different agents can assign different states to the same system; intersubjective agreement emerges because the world reliably "kicks back" on beliefs rather than because any objective wave function is tracked. Fuchs names William James "the veritable mascot" of the programme and frames QBism as investigating "whether the physical world might be of a type sketched by some false-started philosophies of 100 years ago (pragmatism, pluralism, nonreductionism, and meliorism)" (Fuchs 2014).
+**QBism** (Fuchs, Caves, Schack, Mermin). Quantum states are personal Bayesian credences about an agent's future experiences. The Born rule is a normative coherence constraint — a "quantum extension of Bayesian coherence" (DeBrota et al. 2021). Different agents can assign different states to the same system; intersubjective agreement emerges because the world reliably "kicks back" on beliefs rather than because any objective wave function is tracked. Fuchs names William James "the veritable mascot" of the programme and frames QBism as investigating "whether the physical world might be of a type sketched by some false-started philosophies of 100 years ago (pragmatism, pluralism, nonreductionism, and meliorism)" (Fuchs 2014).
 
 **Healey's pragmatist interpretation.** Quantum theory is a source of "authoritative and objectively correct prescriptions about how agents should act" (Healey 2017). Probabilities are objective advice rather than subjective credence. Importantly, Healey's agents need only be "physically situated" and capable of acting; they need not be conscious. This keeps the agent-centrality while dropping QBism's covert psychological commitments.
 
@@ -93,7 +93,7 @@ The cost is that Stapp's view is the most physically committed, and therefore th
 
 ## QBism: The Primitive Agent as Dualist Placeholder
 
-QBism's technical centrepiece is its treatment of the Born rule as a normative coherence constraint: a "quantum extension" of classical Dutch-book coherence, requiring probabilities to satisfy Born-rule statistics under symmetric informationally complete measurements (SIC-POVMs). DeBrota, Fuchs, and Schack (2021) formalised this through the "urgleichung" — a reformulation making quantum mechanics appear as a rule relating one probability distribution to another, with no wave function doing ontological work. The Born rule tells you how to be rationally consistent, not how the world is structured.
+QBism's technical centrepiece is its treatment of the Born rule as a normative coherence constraint: a "quantum extension" of classical Dutch-book coherence, requiring probabilities to satisfy Born-rule statistics under symmetric informationally complete measurements (SIC-POVMs). DeBrota et al. (2021) formalised this through the "urgleichung" — a reformulation making quantum mechanics appear as a rule relating one probability distribution to another, with no wave function doing ontological work. The Born rule tells you how to be rationally consistent, not how the world is structured.
 
 The Map sees a deeper question. *Why* must rational agents satisfy this particular constraint? Dutch-book arguments show that *consistent* agents must satisfy formal requirements, but they do not explain why experience reliably matches Born statistics rather than some other pattern. If the world constrains agents' expectations so reliably that all agents converge on Born-rule predictions, something in reality is doing the constraining.
 
@@ -161,7 +161,7 @@ The four positions converge on a structural frame in which agents matter irreduc
 ## References
 
 1. Caves, C. M., Fuchs, C. A., & Schack, R. (2002). Quantum Probabilities as Bayesian Probabilities. *Physical Review A*, 65(2), 022305.
-2. DeBrota, J. B., Fuchs, C. A., & Schack, R. (2021). Born's Rule as a Quantum Extension of Bayesian Coherence. *Physical Review A*, 104(2), 022207.
+2. DeBrota, J. B., Fuchs, C. A., Pienaar, J. L., & Stacey, B. C. (2021). Born's Rule as a Quantum Extension of Bayesian Coherence. *Physical Review A*, 104(2), 022207.
 3. Fuchs, C. A. (2014). My Struggles with the Block Universe. arXiv:1405.2390.
 4. Fuchs, C. A. (2017). On Participatory Realism. In I. T. Durham & D. Rickles (Eds.), *Information and Interaction: Eddington, Wheeler, and the Limits of Knowledge* (pp. 113–134). Springer.
 5. Fuchs, C. A., Mermin, N. D., & Schack, R. (2014). An Introduction to QBism with an Application to the Locality of Quantum Mechanics. *American Journal of Physics*, 82(8), 749–754.
