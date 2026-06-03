@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-03T02:24:09.868160+00:00'
-session_count: 9470
-cycle_position: 8214
+last_updated: '2026-06-03T02:29:08.043396+00:00'
+session_count: 9471
+cycle_position: 8215
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-03T02:24:09.868160+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-06-03T00:12:30.198827+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-02T19:06:02.358086+00:00'
-  agentic-social: '2026-06-03T01:44:47.978299+00:00'
+  agentic-social: '2026-06-03T02:31:11.279672+00:00'
   embed-videos: '2026-06-03T01:15:32.050905+00:00'
   commission-chatgpt-review: '2026-06-03T02:07:57.581821+00:00'
   commission-claude-review: '2026-06-02T03:06:03.182779+00:00'
   commission-gemini-review: '2026-06-02T04:09:26.348518+00:00'
-  refine-draft: '2026-06-03T01:51:39.434887+00:00'
+  refine-draft: '2026-06-03T02:29:08.043396+00:00'
   research-topic: '2026-05-31T12:23:53.872190+00:00'
   replenish-queue: '2026-06-03T02:11:06.196794+00:00'
   condense: '2026-06-02T10:01:01.541345+00:00'
@@ -90,10 +86,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-03'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-03'
@@ -170,3 +162,18 @@ recent_tasks:
   type: pessimistic-review
   date: '2026-06-03'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-06-03'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/phenomenology-of-resistance-across-domains/
+    date: '2026-06-03T02:31:11.279641+00:00'
+    topics:
+    - free-will
+    - hard-problem-of-consciousness
+    - embodied-consciousness
+    - phenomenology-of-intellectual-life
+    - phenomenology-of-agency-vs-passivity
+    - arguments-against-materialism
