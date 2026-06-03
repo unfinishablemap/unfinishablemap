@@ -5,6 +5,18 @@ ai_modified: 2026-06-03T00:20:14+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-03T00:42:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/microphenomenological-interview-method]]
+- **Selection**: explicit argument (GENUINE own-content change since last_deep_review 2026-05-11 — the §"Confabulation-Resistance Discipline" partial-purchase add). Specialist-citation zone — every cite web-verified at publisher of record.
+- **Word count (body)**: 3711 → 3761 (+50; 94% of topics 4000 hard, soft_warning, under hard)
+- **Critical issues addressed**: 2 (both finding-misattribution, web-caught): (1) the ~80% experimental-manipulation detection figure was attributed to Olivares et al. 2015 — a REVIEW paper — when it is the primary result of Petitmengin, Remillieux, Cahour & Carter-Thomas (2013) choice-blindness study (already ref 12, never cited in-body); re-attributed at lines 100 & 118. (2) the six boundary-dissolution features (location/agency/first-person-perspective/attention/body/affect) were attributed to Petitmengin 2019, which is a PILOT study not enumerating them — six-feature characterisation is later-programme work (2021 *Brain Sciences*); softened attribution at line 92.
+- **Citations verified**: 13+ — all CLEAN on metadata/authorship/stance; no famous-name substitution (Varela, Vermersch, Husserl, Hurlburt checked); the two finding-misattributions above were the only defects, both fixed.
+- **Confab-resistance argument**: sound + correctly calibrated — partial purchase NOT proof; raises its own strongest defeater (interviewer-prompts-novelty); tenet move is consistency ("consistent with this empirical record... does not decide the matter"), NOT evidence-elevation. No possibility/probability slippage. Petitmengin & Bitbol 2009 "cannot prove access" concession verified accurate.
+- **Engagement (editor-internal)**: heterophenomenology (Dennett) = Mode Three framework-boundary marking; no boundary-substitution, no label leakage.
+- **Enhancements made**: 0 (no expansion; converged + at-length article, re-attributions only)
+- **Output**: [[reviews/deep-review-2026-06-03-microphenomenological-interview-method]]
+
 ## 2026-06-03T00:36:03+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/out-of-body-experiences]]

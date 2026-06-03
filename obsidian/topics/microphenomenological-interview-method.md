@@ -4,9 +4,9 @@ description: "Claire Petitmengin's disciplined second-person interview procedure
 created: 2026-04-19
 modified: 2026-05-15
 human_modified:
-ai_modified: 2026-05-16T18:00:00+00:00
+ai_modified: 2026-06-03T00:42:00+00:00
 draft: false
-last_deep_review: 2026-05-11T20:57:00+00:00
+last_deep_review: 2026-06-03T00:42:00+00:00
 topics: []
 concepts:
   - "[[phenomenological-evidence]]"
@@ -89,7 +89,7 @@ Prodromes are what matters for the present discussion. They were invisible to ca
 
 This is the strongest extant demonstration that disciplined first-person inquiry can reveal experiential content that (a) the subject genuinely lives through, (b) is clinically actionable, and (c) is otherwise inaccessible. The argument the case carries is methodological rather than metaphysical: trained observation is *ampliative*, yielding content that untrained observation misses.
 
-Other applications follow the same pattern on less clinically dramatic terrain: contemplative research (Petitmengin 2019 on meditation identifies six features of boundary-dissolution experience: sense of location, agency, first-person perspective, attention, body sensations, affective valence); creative-insight research; pain phenomenology; human-computer interaction.
+Other applications follow the same pattern on less clinically dramatic terrain: contemplative research (Petitmengin 2019 applies the method to moment-to-moment meditative experience; later work in the same programme characterises boundary-dissolution along features such as sense of location, agency, first-person perspective, attention, body sensations, and affective valence); creative-insight research; pain phenomenology; human-computer interaction.
 
 ## Documented Limits
 
@@ -97,7 +97,7 @@ The method has real limits, and the microphenomenological community is unusually
 
 **Retrospective reconstruction.** All reports are retrospective. Memory reconstruction and confabulation (heir to Nisbett and Wilson 1977) remain plausible sources of error. Evocation and non-leading structure address but do not eliminate this. The 2021 review "Can we trust the phenomenological interview?" catalogues the objections in detail and finds the method's responses partial.
 
-**Reliability ceiling.** Olivares et al. (2015) found that experimental manipulations were detected in approximately 80% of trials when microphenomenological interview was used — a strong result against the null hypothesis that reports are noise, but well short of perfect detection. The 80% figure is widely cited in the secondary literature; no meta-analytic replication has appeared in the available record.
+**Reliability ceiling.** In Petitmengin, Remillieux, Cahour and Carter-Thomas's (2013) choice-blindness study, subjects helped by an elicitation interview detected that their choice had been manipulated in approximately 80% of trials, against roughly 33% without the interview — a strong result against the null hypothesis that reports are noise, but well short of perfect detection. The figure is widely cited in the secondary literature (it is the headline finding Olivares et al. (2015) review as evidence that disciplined second-person method detects manipulations above chance); no meta-analytic replication has appeared in the available record.
 
 **Intersubjective convergence thresholds.** The claim that generic structures converge across subjects and across analysts is typically made informally. Formal inter-rater reliability statistics on microphenomenological coding are still relatively sparse.
 
@@ -115,7 +115,7 @@ None of these limits is fatal. Together they set the method's ceiling: a substan
 
 The [[voids/confabulation-void|confabulation void]] names a structural feature of self-report distinct from generic unreliability: a sub-personal generator supplies positive content where direct access is missing, and the felt-rightness signal that would distinguish fabrication from veridical access is anti-correlated with accuracy in the conditions that matter most. Casual [[concepts/introspection|introspection]] cannot reach behind this gap by construction. Microphenomenology is the most developed third-party-assisted discipline currently aimed at the boundary. Whether it crosses the boundary or only approximates it from outside is a live question the method itself does not settle.
 
-The case for partial purchase is structural. Confabulation operates most powerfully on the *pre-reflective* and the *transient* — the dimensions where unaided introspection leaves the most filling-in work for the interpreter. Evocation targets exactly this layer: re-anchoring the subject in embodied memory of a singular moment and constraining the interviewer to position-direction prompts restricts the contextual cues from which a confabulated explanation could fluently assemble. Olivares et al.'s (2015) ~80% experimental-manipulation detection figure and the prodrome surfacing of content invisible to casual report are the strongest extant signals that disciplined evocation can raise pre-reflective content into report that casual introspection systematically overlooks. The structural link to the [[voids/source-attribution-void|source-attribution void]] and the [[voids/noetic-feelings-void|noetic-feelings void]] is the same: second-person scaffolding supplies external anchoring on dimensions — origin-of-givenness, position-of-presence, fine-grained noetic register — that the introspector cannot reliably probe alone.
+The case for partial purchase is structural. Confabulation operates most powerfully on the *pre-reflective* and the *transient* — the dimensions where unaided introspection leaves the most filling-in work for the interpreter. Evocation targets exactly this layer: re-anchoring the subject in embodied memory of a singular moment and constraining the interviewer to position-direction prompts restricts the contextual cues from which a confabulated explanation could fluently assemble. Petitmengin et al.'s (2013) ~80% choice-manipulation detection figure (reviewed in Olivares et al. 2015) and the prodrome surfacing of content invisible to casual report are the strongest extant signals that disciplined evocation can raise pre-reflective content into report that casual introspection systematically overlooks. The structural link to the [[voids/source-attribution-void|source-attribution void]] and the [[voids/noetic-feelings-void|noetic-feelings void]] is the same: second-person scaffolding supplies external anchoring on dimensions — origin-of-givenness, position-of-presence, fine-grained noetic register — that the introspector cannot reliably probe alone.
 
 The case against full purchase is conceded by the method's own principals. Petitmengin and Bitbol (2009), responding to the limits-of-method debate, accept that interview reports cannot in principle *prove* access to pre-reflective content — only exhibit the convergence-and-ampliative-yield profile such access would predict. Hurlburt's DES tradition runs the parallel comparison: random-beep sampling and microphenomenology surface partially non-overlapping content with no clean adjudication of residue. Neurophenomenological work (Lutz 2002; Froese, Gould and Seth 2011) treats co-variation of disciplined first-person report with neural-dynamic markers as the operative test, on the principle that mere confabulation should not co-vary with brain signal in the way the prodrome and meditation findings do.
 
