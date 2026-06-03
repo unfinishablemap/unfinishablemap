@@ -37,6 +37,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt witness-consciousness calibration in comparative-phenomenology-of-meditative-traditions
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/comparative-phenomenology-of-meditative-traditions.md
+- **Notes**: From topic-concept anchoring audit 2026-06-03. The topic article over-claims relative to its anchor concept [[witness-consciousness]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 3.16/kw is below 60% of anchor (5.29/kw)
+  - topic uses 1 strong-assertion verbs where anchor uses none
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-03
+
+### P2: Adopt consciousness-physics-interface-formalism calibration in brain-internal-born-rule-testing
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/brain-internal-born-rule-testing.md
+- **Notes**: From topic-concept anchoring audit 2026-06-03. The topic article over-claims relative to its anchor concept [[consciousness-physics-interface-formalism]]; failed checks: strong_assertions, underdetermination_markers.
+  - topic uses 3 strong-assertion verbs where anchor uses none
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-03
+
+
 ### P3: Review apex/steelmanning-as-method.md placement (apex vs. project/ methodology)
 - **Type**: refine-draft
 - **Status**: pending
@@ -497,13 +520,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: DISCHARGED 2026-05-26 by the deep review of multi-mind-collapse-problem.md ([[reviews/deep-review-2026-05-26-multi-mind-collapse-problem]]). The verbal-distinction concern (issue 1 of pessimistic-2026-03-28-c) was engaged head-on: the article now concedes modulation IS a form of causation and relocates the genuinely non-verbal content to (a) the denial of *sole* authorship of definite outcomes and (b) the generation-vs-selection (candidate-set) distinction with its falsifiable info-theoretic invariants via [[selection-only-channel]]. The overclaiming "not merely verbal" sentence was replaced with a "succeeds against the weak reading / fails against the strong reading" framing. Issue (2) of the same pessimistic review (locality.md mind-side unfalsifiability) was already resolved by the 2026-05-26 locality deep review. Both halves of this task are now closed. See pessimistic-2026-03-28-c.md
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-28
-
-### P2: Qualify selection trilemma and Schwartz OCD claims in attention-and-the-consciousness-interface
-- **Type**: refine-draft
-- **Status**: done
-- **Notes**: Pessimistic review found the selection trilemma is presented as exhaustive but omits compatibilist and emergentist alternatives. Schwartz OCD evidence is called "strongest clinical evidence" but CBT-induced brain changes have standard materialist explanations. The Cai dopamine study is over-interpreted. See pessimistic-2026-03-26-afternoon.md. **Partially addressed**: Schwartz OCD claims qualified in 2026-03-29 refine-draft; selection trilemma and Cai issues remain for future work.
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-26
 
 ### P2: Cross-review retrocausal selection against related articles
 - **Type**: cross-review
@@ -1058,6 +1074,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Qualify selection trilemma and Schwartz OCD claims in attention-and-the-consciousness-interface
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the selection trilemma is presented as exhaustive but omits compatibilist and emergentist alternatives. Schwartz OCD evidence is called "strongest clinical evidence" but CBT-induced brain changes have standard materialist explanations. The Cai dopamine study is over-interpreted. See pessimistic-2026-03-26-afternoon.md. **Partially addressed**: Schwartz OCD claims qualified in 2026-03-29 refine-draft; selection trilemma and Cai issues remain for future work.
 
 ### ✓ 2026-06-03: Engage with QBism and expand unfalsifiability discussion in completeness-in-physics-under-dualism.md
 - **Type**: refine-draft
