@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-05-27 20:12:44+00:00
+ai_modified: 2026-06-03 03:33:30+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Torres Alegre's no-signalling result fixes the Born rule's form for
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-15 02:05:00+00:00
+last_deep_review: 2026-06-03 03:33:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -42,7 +42,7 @@ The constraint is *derivational* rather than empirical, and it determines the ru
 
 ## What Torres Alegre Argues
 
-Torres Alegre (2025) — a recent arXiv preprint, not yet peer-reviewed — works within the generalised probabilistic theories (GPT) framework. A GPT specifies a state space, a set of measurement effects, and a probability function mapping state-effect pairs to numbers in [0, 1]. Quantum mechanics is one GPT among many in this framework; classical probability theory is another; counterfactual exotic theories with nonlinear probability functions are admissible candidates.
+Torres Alegre (2025) works within the generalised probabilistic theories (GPT) framework. A GPT specifies a state space, a set of measurement effects, and a probability function mapping state-effect pairs to numbers in [0, 1]. Quantum mechanics is one GPT among many in this framework; classical probability theory is another; counterfactual exotic theories with nonlinear probability functions are admissible candidates.
 
 The theorem assumes two structural conditions on the GPT:
 

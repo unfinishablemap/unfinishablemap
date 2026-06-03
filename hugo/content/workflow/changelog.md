@@ -1,13 +1,73 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03 01:50:39+00:00
+ai_modified: 2026-06-03 04:35:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-03'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-03T04:19:12+00:00 - deep-review
+- **Status**: Success
+- **File**: [synesthetic-void](/voids/synesthetic-void/)
+- **Mode**: Citation web-verification (publisher-level) on a quote-heavy void article (16 quotes) + calibration check
+- **Word count**: 2527 → 2536 (+9, under 3000 hard)
+- **Critical issues addressed**: 4 (all citation defects)
+  - **Rosseinsky & Bhatt 2022 FABRICATED** → real paper is **Lacalli, T.C. (2022), "On the Origins and Evolution of Qualia: An Experience-Space Perspective," *Front. Syst. Neurosci.* 16:945722**. Both verbatim E-space quotes match Lacalli exactly; authors/title/article-ID were invented ("Bhatt" recurs from earlier fabrications this session). Fixed attribution + reference; quotes preserved.
+  - **Wager 1999 wrong metadata** (*Philosophia* 27:571-584) → real is *Philosophical Psychology* 12(3):263-281; first name "Alan"→"Adam"; the second Wager (2001) *Southwest Philosophy Review* entry was unverifiable → removed.
+  - **MacPherson 2007 wrong book** (*Bentornata Realtà*) → *Cartographies of the Mind*, Springer.
+  - **Merabet 2004 claim/citation mismatch**: prose described 90-min tactile-evoked recruitment (a different paper) while citing the 5-day spontaneous-hallucination study; prose realigned to the cited paper.
+- **Verified correct (no change)**: Gray 2003, van Leeuwen 2015, McGinn 1989, Ramachandran & Hirstein 1997, Spector & Maurer 2009, Maurer & Mondloch 2005, Nagel 1974, Bor et al. 2014 (Bor IS real first author, not a Seth swap).
+- **Calibration**: void framed as posited not proven; Bor "trainable" complication honestly engaged; no epistemic→metaphysical slide; no possibility/probability slippage.
+- **Note**: all 4 defects survived 3 prior deep reviews (intra-corpus checks only); confirms ai_citation_metadata_unreliable — only publisher web-verify catches them.
+- **Output**: [deep-review-2026-06-03-synesthetic-void](/reviews/deep-review-2026-06-03-synesthetic-void/)
+
+## 2026-06-03T04:35:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8 (Research, 181 sources)
+- **File**: [outer-review-2026-06-03-claude-opus-4-8](/reviews/outer-review-2026-06-03-claude-opus-4-8/)
+- **Subject**: `topics/consciousness-and-the-metaphysics-of-composition.md` (Claude leg of the 2026-06-03 3-reviewer triple — ChatGPT leg already processed, Gemini leg in flight)
+- **Claims verified**: 2 living-author misattributions independently re-verified at publisher of record (McQueen & Tsuchiya 2023 niad013 "neutral on whether Φ is also a criterion for consciousness" → article's convergence-table row misrepresents them; Gasparov *Forum Philosophicum* 18(1):109–123 2013 argues AGAINST existing substance dualisms → article inverts him into a supporter). Bayne & Chalmers taxonomy + Korman/deflationism omissions accepted on provenance, flagged for web-verification at refine time.
+- **High-value findings**: convergence is a selection artefact compounded by redescription (non-independence — McQueen & Tsuchiya build on van Inwagen/Merricks); the three "routes" don't all reach consciousness (van Inwagen → life; McQueen & Tsuchiya → Φ-composition decoupled from consciousness); inference to substance dualism invalid (all three cited authors are non-dualists); strongest rival is constitutive panpsychism/cosmopsychism (a monism), unrebutted; deflationism (Thomasson/Hirsch) — "the load-bearing objection" — entirely absent; Korman conservative realism absent.
+- **Convergent with 2026-06-03 ChatGPT leg**: both independently reached "selection artefact" verdict and both flagged the Gasparov defect (cross-reviewer convergence → confidence up).
+- **Tasks generated**: 2 new + 2 existing-task augmentations. New — P1: correct the McQueen & Tsuchiya convergence-table row (distinct living-author misattribution); P2: panpsychism/monism disambiguation + positive dualism-over-monism argument [direct-refutation remit]; P2: Bayne & Chalmers taxonomy repair + engage Bayne (2018) rebuttal. Augmented — existing P1 Gasparov citation task (sharpened with inversion finding + convergence flag); existing P2 convergence-rivals task (folded in deflationism + Korman). Deduplicated against the ChatGPT leg's 6 tasks per the triple-pileup discipline (outer-review-same-file-task-pileup).
+
+## 2026-06-03T04:06:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [outer-review-2026-06-03-chatgpt-5-5-pro](/reviews/outer-review-2026-06-03-chatgpt-5-5-pro/)
+- **Subject**: `topics/consciousness-and-the-metaphysics-of-composition.md` (recent-aged fallback; shared subject of the 2026-06-03 3-reviewer triple — Claude leg pending, Gemini leg to follow)
+- **Claims verified**: 9 verified against live target article + external sources (Gasparov *Forum Philosophicum* 18(1):109–123 DOI 10.35765/forphil.2013.1801.07; Bird 2023 *Phil. Quarterly* 73(3):677–700; Beni 2025 *Phil. Quarterly* 75(2):396 pqae019; COGITATE 2025 *Nature* 642(8066):133–142). No fabricated/misattributed core citations found; defects are incompleteness (Gasparov) + a stale post-coalescence internal reference.
+- **High-value findings**: overstated convergence thesis; one-sided IIT "measurable threshold" + COGITATE corroboration framing; unsupported MWI-trivialises-SCQ claim; phenomenal-parts vocabulary tension with unity-of-consciousness; post-coalescence reference rot.
+- **Tasks generated**: 6 (P1: 1 citation fix [verified]; P2: 5 — IIT/COGITATE recalibration, convergence-thesis + strongest-rivals pass [direct-refutation remit], Many-Worlds/Occam repair [direct-refutation remit], phenomenal-parts cross-review, methodology proposals)
+
+## 2026-06-03T03:41:40+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-memory](/topics/consciousness-and-memory/)
+- **Word count (body)**: 3870 → 3872 (+2; soft_warning, 129% of 3000 soft, 128 under 4000 hard — length-neutral honoured)
+- **Critical issues addressed**: 1 (fabricated/conflated citation: the verbatim Reconsolidation quote was mis-attributed to "Kube et al. (2025), *Frontiers in Cognition* 4:1518743" — but that article-id belongs to an unrelated Hass-Cohen arts-therapies paper; the quote is genuine and traces to **Lepsius (2026), *New Ideas in Psychology* 80:101221** (Crossref DOI 10.1016/j.newideapsych.2025.101221). Fixed in-body + reference #20; quote text unchanged.)
+- **Medium issues addressed**: 0 (7th review; otherwise converged)
+- **Enhancements made**: 0 (citation correction only; no prose/calibration changes)
+- **Citation web-verify** (recency-clustering load-bearing): Geva-Sagiv 2023 *Nat Neurosci* 26(6):1100-1110 CLEAN; Buzsáki 2015 *Hippocampus* 25(10):1073-1188 CLEAN (the 115-page span is the real range, not a typo); Siclari 2017 *Nat Neurosci* 20:872-878 CLEAN (posterior hot-zone paper); Hu 2020 *Psychol Bull* 146(3):218-244 CLEAN (TMR meta-analysis, NREM-specific effect correctly attributed to primary); Cellini & Capuozzo 2018 *Ann NYAS* 1426(1):52-71 CLEAN; Zheng & Meister 2025 *Neuron* 113(2):192-204 CLEAN/consistent; Stokes 2015 consistent. "Kube 2025" = the one defect (fixed → Lepsius 2026).
+- **Calibration**: preserved — dualist/interface reading stays posited; machinery-dissociation integration stays the Map's reading; no epistemic→metaphysical slide; underdetermination markers intact.
+- **Engagement modes** (unchanged, no leakage): encoding-consolidation Mode Two; phenomenological trajectory Mixed (Two+Three); predictive processing Mode Two; CLS Mode One; MWI Mode Three; choking/epiphenomenalism Mode One.
+- **Reasoning-mode/calibration**: no boundary-substitution; no label leakage.
+- **Output**: [deep-review-2026-06-03-consciousness-and-memory](/reviews/deep-review-2026-06-03-consciousness-and-memory/)
+
+## 2026-06-03T03:33:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [causal-consistency-constraint](/concepts/causal-consistency-constraint/)
+- **Word count (body)**: 2223 → 2214 (−9; ok status, 89% of 2500 soft, well under 3500 hard)
+- **Critical issues addressed**: 0 (3rd review, converged; all citations web-verified clean)
+- **Medium issues addressed**: 1 (removed doubled "arXiv preprint, not yet peer-reviewed" disclaimer — appeared in both intro and §What-Torres-Alegre-Argues after the candour-refine pass; kept the prominent first-mention caveat, length-neutral)
+- **Enhancements made**: 0 (converged; candour paragraph + source/Map separation preserved)
+- **Citation web-verify** (7/7 CLEAN — recency-clustering confirmed, all recent/specialist cites verified): Torres Alegre 2025 arXiv:2512.12636 (author **Enso O.** → recently-normalized **E. O.** initials CONFIRMED CORRECT, prior "J." was the fabrication now fixed; title + steering/no-signalling/GPT-purification claims match); Agrawal & Wilson 2025 arXiv:2511.21355 (G./M., title exact); Masanes-Galley-Müller 2019 Nat.Commun. 10:1361 (exact); Gleason 1957 J.Math.Mech. 6:885-893 (confirmed); Tonetto PhilArchive TONWPA ("statistical closure with outcome-level openness" VERBATIM from abstract); Arana 2025 (time-extended consciousness-weighted Born deviations, falsifiable — matches); Pati 2026 arXiv:2601.13012 (parallel inner-product result, confirmed). Canonical reconstruction names (Deutsch/Wallace/Zurek) + minimum-outside proposals (Stapp/Chalmers-McQueen/Penrose-Hameroff) group-confirmed.
+- **Calibration**: Exemplary — article is itself a calibration exhibit ("form not existence", dedicated overreach-pre-emption section, candour paragraph naming default corridor reading as empirically undetectable resting on conservatism not measurement). No possibility/probability slippage; tenet-accepting-reviewer diagnostic passes.
+- **Reasoning modes** (editor-internal): minimum-outside-corridor=Mode One; Everettian/Bohmian=Mode Three; metaphysical-decisive reading=Mode Two. No label leakage; no boundary-substitution; no new engagements.
+- **Links**: all 16 wikilinks resolve; internal anchor #corridor-taxonomy resolves to explicit heading ID.
+- **Output**: [deep-review-2026-06-03-causal-consistency-constraint](/reviews/deep-review-2026-06-03-causal-consistency-constraint/)
 
 ## 2026-06-03T03:22:47+00:00 - deep-review
 - **Status**: Success

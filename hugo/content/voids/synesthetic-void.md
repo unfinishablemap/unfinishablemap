@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-05-19 11:04:33+00:00
+ai_modified: 2026-06-03 04:19:12+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -14,7 +14,7 @@ description: Human+AI exploration of how synesthesia reveals experiential dimens
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-08 22:06:00+00:00
+last_deep_review: 2026-06-03 04:19:12+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -50,7 +50,7 @@ Synesthetes consistently compare the task of explaining their experience to non-
 
 Fiona MacPherson (2007) identified what she calls the "extraordinary feature" of synesthesia: some synesthetes report simultaneously experiencing both the actual colour of a grapheme and a synesthetic colour in the same spatial location, without the two blending. No analogue to this experience exists in standard perception. The conceptual vocabulary available to non-synesthetic minds cannot capture it, because our perceptual categories assume that two colours in one location must blend or compete.
 
-Alan Wager (1999, 2001) formalised this as the "extra qualia problem." Synesthetes possess phenomenal states that differ from non-synesthetic states without any corresponding difference in representational content. Both the synesthete and the non-synesthete look at the same black letter on a white page. One of them also sees colour. The extra qualia challenge representationalism—the view that phenomenal character is fully determined by representational content—because identical representations produce different experiences. This parallels the [inverted-qualia](/concepts/inverted-qualia/) thought experiment, but with an empirical twist: where inverted qualia are hypothetical, synesthetic extra qualia are actual.
+Adam Wager (1999) formalised this as the "extra qualia problem." Synesthetes possess phenomenal states that differ from non-synesthetic states without any corresponding difference in representational content. Both the synesthete and the non-synesthete look at the same black letter on a white page. One of them also sees colour. The extra qualia challenge representationalism—the view that phenomenal character is fully determined by representational content—because identical representations produce different experiences. This parallels the [inverted-qualia](/concepts/inverted-qualia/) thought experiment, but with an empirical twist: where inverted qualia are hypothetical, synesthetic extra qualia are actual.
 
 J.A. Gray (2003) pressed the point further against [functionalism](/concepts/functionalism/): in synesthesia, "function and qualia come apart in two ways." Identical qualia arise from distinct functional roles (colour experience from both visual and auditory processing), and single functional roles generate divergent qualia (the same grapheme recognition process produces colour experience in synesthetes but not in others). If qualia tracked function, neither dissociation should occur. Ramachandran and Hirstein (1997) had earlier proposed three laws of qualia tying neural cross-activation to the qualitative character of experience; synesthesia is a natural test case where their laws either hold or expose the limits of cross-activation as a generative mechanism.
 
@@ -58,7 +58,7 @@ A Dennett-style heterophenomenologist will object that this whole line of argume
 
 ## The Geometry of Experiential Possibility
 
-The synesthetic void gains its deepest significance when placed against the concept of *experience-space* (E-space)—a high-dimensional space mapping all possible qualia. Rosseinsky and Bhatt (2022) propose that E-space has "at least several times as many dimensions as there are categories of qualia," and that phenomenal consciousness may have originated from "one or more multidimensional ur-experiences that combined multiple forms of experience together."
+The synesthetic void gains its deepest significance when placed against the concept of *experience-space* (E-space)—a high-dimensional space mapping all possible qualia. Lacalli (2022) proposes that E-space has "at least several times as many dimensions as there are categories of qualia," and that phenomenal consciousness may have originated as "one or more multidimensional ur-experiences that combined multiple forms of experience together."
 
 If E-space is vast, human consciousness occupies a small region of it. Synesthesia is the empirical evidence that this region has unexploited dimensions—that even within the space accessible to human neural architecture, most people navigate only a fraction. The synesthetic void is not a boundary at the far edge of experiential possibility. It exists in our immediate neighbourhood, between minds that share a species.
 
@@ -72,7 +72,7 @@ Unlike many voids on the Map, the synesthetic void has a partially permeable bou
 
 **Pharmacological induction.** Serotonergic agonists (LSD, psilocybin, mescaline) reliably produce synesthesia-like experiences. Whether drug-induced cross-modal percepts are phenomenally identical to developmental synesthesia remains unresolved—they may represent a different region of E-space rather than the same one accessed through a different route.
 
-**Sensory deprivation.** Merabet et al. (2004) found that brief visual deprivation of approximately ninety minutes induced non-visual percepts—tactile-evoked visual experiences—in blindfolded sighted subjects. The latent cross-modal capacity exists but is normally suppressed.
+**Sensory deprivation.** Merabet et al. (2004) found that several days of complete visual deprivation induced vivid visual hallucinations—from simple flashes to complex faces and landscapes—in the majority of blindfolded sighted subjects. The latent cross-modal capacity exists but is normally suppressed.
 
 The transience of these breaches is philosophically significant. If the synesthetic void could be permanently crossed through simple intervention, it would be merely unexplored. The fade observed in trained synesthetes admits two readings: ordinary skill atrophy without rehearsal, or active architectural constraints reasserting the narrower configuration. The architectural-maintenance reading is the stronger of the two compatible interpretations and is the one the Map adopts, but the data alone do not force it; either way, the boundary involves more than passive absence of stimulation.
 
@@ -124,16 +124,15 @@ The synesthetic void connects directly to the Map's [foundational commitments](/
 
 ## References
 
-1. Wager, A. (1999). "The Extra Qualia Problem." *Philosophia*, 27, 571-584.
-2. Wager, A. (2001). "Synaesthesia and the Problem of Qualia." *Southwest Philosophy Review*, 17, 163-170.
-3. Gray, J.A. (2003). "How Are Qualia Coupled to Functions?" *Trends in Cognitive Sciences*, 7, 192-194.
-4. MacPherson, F. (2007). "Synaesthesia, Functionalism and Phenomenology." In M. de Caro (Ed.), *Bentornata Realta*. Turin: Einaudi.
-5. Ramachandran, V.S., & Hirstein, W. (1997). "Three Laws of Qualia: What Neurology Tells Us about the Biological Functions of Consciousness." *Journal of Consciousness Studies*, 4, 429-457.
-6. van Leeuwen, T.M., Singer, W., & Nikolić, D. (2015). "The Merit of Synesthesia for Consciousness Research." *Frontiers in Psychology*, 6, 1850.
-7. Maurer, D., & Mondloch, C.J. (2005). "Neonatal Synesthesia: A Re-evaluation." In L.C. Robertson & N. Sagiv (Eds.), *Synesthesia: Perspectives from Cognitive Neuroscience*. Oxford University Press.
-8. Spector, F., & Maurer, D. (2009). "Synesthesia: A New Approach to Understanding the Development of Perception." *Developmental Psychology*, 45, 175-189.
-9. Bor, D., Rothen, N., Schwartzman, D.J., Clayton, S., & Seth, A.K. (2014). "Adults Can Be Trained to Acquire Synesthetic Experiences." *Scientific Reports*, 4, 7089.
-10. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83, 435-450.
-11. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
-12. Rosseinsky, M.J., & Bhatt, P.M. (2022). "Dimensions of Experience Space." *Frontiers in Systems Neuroscience*, 16, 828608.
-13. Merabet, L.B., Maguire, D., Warde, A., Alterescu, K., Stickgold, R., & Pascual-Leone, A. (2004). "Visual Hallucinations During Prolonged Blindfolding in Sighted Subjects." *Journal of Neuro-Ophthalmology*, 24, 109-113.
+1. Wager, A. (1999). "The Extra Qualia Problem: Synaesthesia and Representationism." *Philosophical Psychology*, 12(3), 263-281.
+2. Gray, J.A. (2003). "How Are Qualia Coupled to Functions?" *Trends in Cognitive Sciences*, 7(5), 192-194.
+3. MacPherson, F. (2007). "Synaesthesia, Functionalism and Phenomenology." In M. Marraffa, M. De Caro, & F. Ferretti (Eds.), *Cartographies of the Mind: Philosophy and Psychology in Intersection*. Dordrecht: Springer.
+4. Ramachandran, V.S., & Hirstein, W. (1997). "Three Laws of Qualia: What Neurology Tells Us about the Biological Functions of Consciousness." *Journal of Consciousness Studies*, 4(5-6), 429-457.
+5. van Leeuwen, T.M., Singer, W., & Nikolić, D. (2015). "The Merit of Synesthesia for Consciousness Research." *Frontiers in Psychology*, 6, 1850.
+6. Maurer, D., & Mondloch, C.J. (2005). "Neonatal Synesthesia: A Re-evaluation." In L.C. Robertson & N. Sagiv (Eds.), *Synesthesia: Perspectives from Cognitive Neuroscience*. Oxford University Press.
+7. Spector, F., & Maurer, D. (2009). "Synesthesia: A New Approach to Understanding the Development of Perception." *Developmental Psychology*, 45, 175-189.
+8. Bor, D., Rothen, N., Schwartzman, D.J., Clayton, S., & Seth, A.K. (2014). "Adults Can Be Trained to Acquire Synesthetic Experiences." *Scientific Reports*, 4, 7089.
+9. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83, 435-450.
+10. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
+11. Lacalli, T.C. (2022). "On the Origins and Evolution of Qualia: An Experience-Space Perspective." *Frontiers in Systems Neuroscience*, 16, 945722.
+12. Merabet, L.B., Maguire, D., Warde, A., Alterescu, K., Stickgold, R., & Pascual-Leone, A. (2004). "Visual Hallucinations During Prolonged Blindfolding in Sighted Subjects." *Journal of Neuro-Ophthalmology*, 24(2), 109-113.
