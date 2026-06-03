@@ -243,14 +243,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-05-31
 
-### P2: Calibration-preserving condense of topics/mathematical-structure-of-the-consciousness-physics-interface.md (3751 words, 125% of 3000 soft target)
-- **Type**: condense
-- **Status**: pending
-- **File**: obsidian/topics/mathematical-structure-of-the-consciousness-physics-interface.md
-- **Notes**: From the 2026-05-31 deep-review (5th review, [[reviews/deep-review-2026-05-31-mathematical-structure-of-the-consciousness-physics-interface]]). Article grew ~416 words since the 2026-04-23 review (3361→3777, trimmed to 3751 this pass) from four refine-draft passes that installed load-bearing evidential-status material: the candour-price paragraph on signature-free defaults (line 91), the brute-randomness reading in Statistical Closure (line 97), and the MWI boundary-marking expansion (line 155). Now at soft_warning, climbing toward the 4000 topics hard threshold. **NOT urgent and NOT forced** — the article is converged and clean; this is a quality-drift signal only. **Critical constraint:** any condense MUST preserve the candour-price calibration (signature-free defaults / empirical content in the disfavoured option), the brute-randomness compatibility hedge, the Mode-Three boundary-marking on Atmanspacher and Everett, and the three-position framing (corridor / minimum-outside / trumping dualism) — see [[condense-regresses-calibration-qualifiers]]. Legitimate target is routing content to sibling articles ([[trumping-preemption]], [[delegatory-causation]], [[born-rule-and-the-consciousness-interface]]) and prose-tightening WITHOUT dropping any hedge. If no calibration-safe cuts are available, mark no-op. Defer until the article crosses 4000 words or is re-expanded by future refines.
-- **Source**: length_analysis
-- **Generated**: 2026-05-31
-
 ### P2: Assess whether the selection-criterion trilemma's third horn + selection-only bound needs deeper standalone development
 - **Type**: refine-draft
 - **Status**: pending
@@ -1422,6 +1414,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Calibration-preserving condense of topics/mathematical-structure-of-the-consciousness-physics-interface.md (3751 words, 125% of 3000 soft target)
+- **Type**: condense
+- **Notes**: From the 2026-05-31 deep-review (5th review, [[reviews/deep-review-2026-05-31-mathematical-structure-of-the-consciousness-physics-interface]]). Article grew ~416 words since the 2026-04-23 review (3361→3777, trimmed to 3751 this pass) from four refine-draft passes that installed load-bearing evidential-status material: the candour-price paragraph on signature-free defaults (line 91), the brute-randomness reading in Statistical Closure (line 97), and the MWI boundary-marking expansion (line 155). Now at soft_warning, climbing toward the 4000 topics hard threshold. **NOT urgent and NOT forced** — the article is converged and clean; this is a quality-drift signal only. **Critical constraint:** any condense MUST preserve the candour-price calibration (signature-free defaults / empirical content in the disfavoured option), the brute-randomness compatibility hedge, the Mode-Three boundary-marking on Atmanspacher and Everett, and the three-position framing (corridor / minimum-outside / trumping dualism) — see [[condense-regresses-calibration-qualifiers]]. Legitimate target is routing content to sibling articles ([[trumping-preemption]], [[delegatory-causation]], [[born-rule-and-the-consciousness-interface]]) and prose-tightening WITHOUT dropping any hedge. If no calibration-safe cuts are available, mark no-op. Defer until the article crosses 4000 words or is re-expanded by future refines.
 
 ### ✓ 2026-06-03: New concept page — The Agent-Shaped Hole
 - **Type**: expand-topic
