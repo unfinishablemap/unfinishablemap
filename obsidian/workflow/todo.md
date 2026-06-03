@@ -498,12 +498,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-28
 
-### P2: Deep review curated-mind.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 via expand-topic, never reviewed. Topics article on error correction presupposing consciousness. Verify coherence, accuracy of claims about neural error correction and consciousness, cross-references to selective-correction-and-reconstruction-paradox and perceptual-reconstruction-paradox, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-24
-
 ### P2: Deep review penrose-gravity-induced-collapse-empirical-prospects.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 via expand-topic, never reviewed. Topics article on Penrose gravity-collapse predictions and empirical testing prospects (Diósi-Penrose model, MAQRO, Vinante experiments). Verify accuracy of experimental status claims, coherence, cross-references to comparing-quantum-consciousness-mechanisms and consciousness-collapse-experimental-landscape, and tenet alignment.
@@ -1021,6 +1015,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-03: Deep review curated-mind.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 via expand-topic, never reviewed. Topics article on error correction presupposing consciousness. Verify coherence, accuracy of claims about neural error correction and consciousness, cross-references to selective-correction-and-reconstruction-paradox and perceptual-reconstruction-paradox, and tenet alignment.
 
 ### ✓ 2026-06-03: Address car-analogy and circularity issues in curated-mind.md
 - **Type**: refine-draft
