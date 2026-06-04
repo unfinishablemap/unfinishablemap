@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04T22:45:00+00:00
+ai_modified: 2026-06-04T23:00:22+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-04T23:00:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/cross-cultural-convergence-on-mental-causation]]
+- **Word count**: 2125 → ~2160 (+~35; ok, well under soft 2500)
+- **Critical issues addressed**: 1 (internal contradiction/calibration slippage: the 2026-05-23 propagation added a coherence-vs-evidential-status section arguing the convergence does NOT independently select interactionist dualism, but "Relation to Site Perspective" still claimed convergence "provides independent support" for the Dualism+Bidirectional-Interaction conjunction — re-scoped line 102 to the narrower shared "mental causation is real" claim with a back-reference to the coherence section)
+- **Medium issues addressed**: 0 (all Barrett/Barlev/Sāṃkhya/Buddhist/contemplative positions remain settled per prior stability notes)
+- **Enhancements made**: 1 (calibration-aligning rewrite; verified all 6 new-section wikilinks + 4 section anchors resolve)
+- **Engagement modes (editor-internal)**: no named-opponent direct-refutation form; the new section scopes mental-causation-affirming alternatives rather than refuting them. No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-04-cross-cultural-convergence-on-mental-causation]]
 
 ## 2026-06-04T13:00:00+00:00 - deep-review
 - **Status**: Success
