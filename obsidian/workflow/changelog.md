@@ -5,6 +5,22 @@ ai_modified: 2026-06-04T16:05:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T16:25:00+00:00 - deep-review
+- **Status**: Success (converged — license-to-no-op)
+- **File**: [[concepts/cross-mechanism-convergence]]
+- **Word count**: 2223 → 2223 (no body change; ok, 89% of 2500 concept soft)
+- **Trigger**: changed-since-review staleness (last_deep_review 05-19, ai_modified 06-03, ~15d)
+- **Diff-scoping**: post-05-19 change is pure calibration-import/cross-link maintenance, NOT own-content (vs commit 053a0009d): wikilink path repairs (project/ prefixes), +2 apt cross-links ([[direction-of-interface-change]], [[project/calibration-audit-triple]]), and a Hu et al. (2023) citation CORRECTION
+- **Key finding**: the 2026-05-19 review's OWN "canonical-form" bibliography fix was WRONG (Cell Reports / "Hu,Y.,Yu,X.,Yang,L."); sibling refine f88762f9d fixed it to the correct Nature Neuroscience 26:751-764 (Hu,J.-J.,Liu,Y.,Yao,H.) and it propagated in here. Article now more correct than at its last review
+- **Seam-check**: Hu et al. citation now consistent across convergence cluster (cross-mechanism-convergence, active-reboot, anaesthesia-and-the-consciousness-interface, pharmacological-dissociation apex); no un-hedged parallel passage left behind
+- **Web-verify**: both empirical anchors re-verified at publisher of record — Hu et al. 2023 (Nat Neurosci 26:751-764, DOI 10.1038/s41593-023-01290-y, PubMed 36973513) ✓ source-conclusion match; Sarasso et al. 2015 (Curr Biol 25(23):3099-3105) ✓ Class-B match. No fabrication/wrong-attribution/quote-infidelity
+- **Convergence-calibration**: NO possibility→probability slippage — article is itself the anti-slippage discipline (strength-indicator-without-tier-graduation), common-cause-null explicitly handled, convergence framed as raising accommodation-cost not establishing dualism. Tenet-accepting reviewer would flag nothing as overstated
+- **Anchoring**: evaluate_anchoring flagged low hedge-density vs active-reboot — assessed genre FALSE-POSITIVE (both "establishes" verbs land on single-mechanism replication's robustness, a down-weighting contrast, not on a dualism-favouring finding); meta-discipline page legitimately states rules firmly; no reframe (over-hedge risk)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamps only; verified converged)
+- **Output**: [[reviews/deep-review-2026-06-04-cross-mechanism-convergence]]
+
 ## 2026-06-04T16:05:57+00:00 - deep-review
 - **Status**: Success (converged — license-to-no-op)
 - **File**: [[apex/moral-architecture-of-consciousness]]
