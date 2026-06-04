@@ -5,6 +5,17 @@ ai_modified: 2026-06-04T09:12:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T09:22:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/combination-problem]]
+- **Word count**: 2486 → 2500 (+14, net-neutral; trimmed a duplicated sentence to offset the added Warren engagement)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (named Warren (2023) + classical-iMQC alternative in the Kerskens caveat — was vague "Comment and Reply"; asymmetric under-engagement vs sibling articles, surfaced by 2026-06-01 Gemini outer review)
+- **Enhancements made**: 1 (added correct Warren 2023 reference entry, 7(3) 038001)
+- **Citations web-verified**: Kerskens & López Pérez 2022 (J.Phys.Comm 6, 105001 — REAL+CORRECT), Khan/Wiest 2024 (eNeuro 11(8) ENEURO.0291-24.2024, DOI 10.1523/ENEURO.0291-24.2024 — REAL+CORRECT), Warren 2023 (J.Phys.Comm 7(3) 038001, DOI 10.1088/2399-6528/acc4a8 — REAL+CORRECT, added). Noted corpus defect: siblings cite Warren as "048001" (wrong) — queued P2 sweep.
+- **Note**: 9th review of a long-converged file; light pass. The 2026-06-02 calibration refine preserved (high quality, not regressed). NOT to be confused with the sibling panpsychisms-combination-problem.md (reviewed 2026-05-31).
+- **Output**: [[reviews/deep-review-2026-06-04-combination-problem]]
+
 ## 2026-06-04T16:45:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/cross-domain-void-comparison]]
