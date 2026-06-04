@@ -4,7 +4,7 @@ description: "Zurek's quantum Darwinism explains classical reality's emergence t
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-05-17T00:05:30+00:00
+ai_modified: 2026-06-04T10:59:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -110,7 +110,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against di
 
 ## Falsifiability
 
-The Map's proposal that consciousness selects among pointer states is constrained in ways that make it empirically disciplined, if not straightforwardly falsifiable in a single experiment. Any reproducible deviation from Born-rule statistics in conscious observation—compared to automated detection under identical conditions—would bear on the proposal. More precisely: if consciousness biases outcome selection, its influence must be statistically invisible at the ensemble level (matching Born-rule predictions), so a confirmed deviation from Born statistics in consciousness-dependent experimental contexts would refute the framework.
+The Map's proposal that consciousness selects among pointer states is constrained in ways that make it empirically disciplined, if not straightforwardly falsifiable in a single experiment. Any reproducible deviation from Born-rule statistics in conscious observation—compared to automated detection under identical conditions—would bear on the proposal. More precisely: if consciousness biases outcome selection, its influence must be statistically invisible at the ensemble level (matching Born-rule predictions), so a confirmed deviation from Born statistics in consciousness-dependent experimental contexts would refute the framework. The asymmetry is the point: the proposal predicts a null ensemble effect, so it is refutable (a deviation kills it) but not symmetrically confirmable, which is why the vacuity worry above and this falsifiability claim are two faces of one fact—the empirical content lives entirely on the refutation side.
 
 Conversely, the proposal would face serious difficulty if the improper/proper mixture distinction were shown to be physically empty—for instance, if a no-go theorem demonstrated that decoherence alone necessarily produces definite outcomes without any interpretive addition. The Map's framework rests on the outcome gap remaining open; closing it by physics alone would remove the locus where consciousness is proposed to act.
 
