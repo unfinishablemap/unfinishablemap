@@ -3,7 +3,7 @@ title: "Phenomenal Output and Causal Machinery"
 created: 2026-05-09
 modified: 2026-06-02
 human_modified: null
-ai_modified: 2026-06-02T05:15:12+00:00
+ai_modified: 2026-06-04T00:00:00+00:00
 last_deep_review: 2026-05-19T14:00:00+00:00
 draft: false
 description: "A structural cluster recurring across perception, cognition, agency, and memory in which phenomenal access reaches outputs but not the operations that produce them — one of the catalogue's most developed instances of the cumulative-convergence argument."
@@ -33,6 +33,7 @@ related_articles:
   - "[[empirical-phenomena-mental-causation]]"
   - "[[evidential-status-discipline]]"
   - "[[common-cause-null]]"
+  - "[[topics/phantom-limb-phenomena]]"
   - "[[medium-status-voids-in-cognition]]"
   - "[[apex/introspection-architecture-void-cluster]]"
   - "[[anoetic-noetic-autonoetic-consciousness]]"

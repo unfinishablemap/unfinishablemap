@@ -5,6 +5,19 @@ ai_modified: 2026-06-04T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T13:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: Common-cause-null in-body-audit cross-review (from [[reviews/optimistic-2026-05-16b]] §1)
+- **Trigger**: [[topics/phantom-limb-phenomena]] §"Common-Cause-Null Audit of the Three Pillars" is the first BODY-LEVEL implementation of the common-cause-null discipline inside a first-order topic article. Installed reciprocal cross-links + audited sibling multi-pillar articles per the per-article plan; honoured [[evidential-status-discipline]] (preserve genuine partial-independence, down-count only real surface-count overstatements).
+- **Changes**:
+  - **(a) PRIMARY [[project/common-cause-null]]**: added `[[topics/phantom-limb-phenomena]]` to related_articles; new "In-body audit of a single article's evidence cluster" paragraph in §catalogue naming phantom-limb as the first first-order topic article to run the discipline in its own body (calibrative not retractive verdict; partial-independence granted, PP absorbs residue); Further Reading bullet. Length 3314w → 3469w (soft_warning, under hard 3500 — doc was already near ceiling; addition kept lean, future condense can trim accreted cross-links).
+  - **(b) [[apex/phenomenal-output-causal-machinery-dissociation]]**: FRONTMATTER-ONLY — added `[[topics/phantom-limb-phenomena]]` to related_articles. NO body edit (apex is 6831w critical, in Blocked Tasks for human split). Word count unchanged at 6831.
+  - **(c) [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]]**: added `[[phantom-limb-phenomena]]` to related_articles; one cross-link clause in §"The Convergence Argument" noting it runs the same in-body down-counting discipline as phantom-limb. DECLINED a new in-body audit — the article already runs the discipline (§Convergence: "removes a defeater without upgrading evidence"); pillars already honestly partial-independent, no manufacture. Length 3238w → 3283w (soft_warning, under hard 4000).
+  - **(d) [[topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination]]**: already linked phantom-limb (no new link needed). Added ONE calibrating clause in §"The General Pattern": down-counts the surface "three independent confirmations" claim (shared upstream = the explanatory gap each dissociation presupposes) while PRESERVING the genuine partial-independence (substrate divergence — the cross-substrate-within-one-organism defence; "worth the weight of one cross-substrate pattern, not three"). Softened "confirming the division is real" → "two further sites where the same division appears". Room existed (status ok). Length 2102w → 2199w (ok).
+- **Verification**: tools.curate.length run before/after each; NONE crosses its hard ceiling; apex unchanged. All `[[phantom-limb-phenomena]]` links resolve (sync clean, no stripped links in edited files). No editor-mode labels in any body; no "This is not X" cliché.
+- **Follow-on**: none queued — (c)/(d) handled in-line within budget; no length-busting audit deferred.
+- **Published**: yes
+
 ## 2026-06-04T12:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: Two-hub reciprocal-backlink repair (from [[reviews/optimistic-2026-06-04c]])

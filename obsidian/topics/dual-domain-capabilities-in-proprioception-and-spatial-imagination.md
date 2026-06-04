@@ -4,7 +4,7 @@ description: "Proprioception and spatial imagination each require contributions 
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-05-25T10:54:11+00:00
+ai_modified: 2026-06-04T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -95,7 +95,7 @@ In each case:
 3. **The phenomenal dimension does functional work** that affects observable behaviour
 4. **The [[explanatory-gap]] persists** between mechanism and experience even after the physical side is well understood
 
-The convergence of this pattern across cognitively distinct domains suggests it reflects something about the *architecture* of mind-body interaction rather than the peculiarities of any single cognitive function. The [[capability-division-problem]] anticipated this: if consciousness and physical processes make distinguishable contributions to cognition, where exactly does the division fall? Proprioception and spatial imagination provide two further data points confirming that the division is real and structurally consistent.
+The convergence of this pattern across cognitively distinct domains suggests it reflects something about the *architecture* of mind-body interaction rather than the peculiarities of any single cognitive function. One qualification keeps the count honest: the three capabilities share a single upstream — the [[explanatory-gap|explanatory gap]] itself, which each dissociation presupposes — so they are not three fully independent confirmations of dual-domain architecture so much as one explanatory-gap pattern recurring across three sites. What the recurrence genuinely adds is *substrate divergence*: memory engrams, proprioceptive receptors, and parietal mental-rotation machinery cannot share capability-specific mechanism, so a deflation that explained away the gap in one would not automatically explain it away in the others. That partial independence is real and worth the weight of one cross-substrate pattern, not three; the [[capability-division-problem]] anticipated the question it bears on: if consciousness and physical processes make distinguishable contributions to cognition, where exactly does the division fall? Proprioception and spatial imagination provide two further sites where the same division appears.
 
 ## Relation to Site Perspective
 

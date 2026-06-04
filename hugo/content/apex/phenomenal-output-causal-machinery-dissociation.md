@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-09
-ai_modified: 2026-06-02 05:15:12+00:00
+ai_modified: 2026-06-04 00:00:00+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-06-02 05:15:12+00:00
 apex_sources:
@@ -64,6 +64,7 @@ related_articles:
 - '[[empirical-phenomena-mental-causation]]'
 - '[[evidential-status-discipline]]'
 - '[[common-cause-null]]'
+- '[[topics/phantom-limb-phenomena]]'
 - '[[medium-status-voids-in-cognition]]'
 - '[[apex/introspection-architecture-void-cluster]]'
 - '[[anoetic-noetic-autonoetic-consciousness]]'

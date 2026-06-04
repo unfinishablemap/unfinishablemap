@@ -4,7 +4,7 @@ description: "Three converging clinical evidence streams—OCD neuroplasticity, 
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-06-02T06:10:37+00:00
+ai_modified: 2026-06-04T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,6 +26,7 @@ related_articles:
   - "[[evolutionary-case-for-mental-causation]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[the-epiphenomenalist-threat]]"
+  - "[[phantom-limb-phenomena]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -96,7 +97,7 @@ The materialist counter-explanation is straightforward: CBT and other psychologi
 
 What makes the remaining convergence worth philosophical attention is a directional tendency—preferential rather than universal: across OCD treatment, psychotherapy neuroimaging, and placebo research, intentional mental activity *preferentially* modulates brain activity top-down (cortex-to-limbic), while pharmacological intervention *preferentially* works bottom-up (synapse-to-cortex). The tendency is genuinely partial, not exceptionless: the article's own cited findings show treatment routes converging on shared structures as well as diverging. The Perez et al. 2025 meta-analysis pools psychological and pharmacological treatments and converges on the right amygdala, and the Schwartz OCD data note that medication produces caudate metabolic changes similar to the cognitive protocol's—both are route *convergence* on a common node, not divergence. So the honest summary is a preferential top-down signature for mental intervention, against a backdrop of substantial shared-target convergence. The Map reads even this preferential signature as compatible with—and suggestive of—genuinely different types of causation, what it terms [[mental-causation-and-downward-causation|strong downward causation]]; but a merely preferential tendency does not license the inference to a type-difference, and the pattern may equally be read as the simpler claim that different physical inputs preferentially take different physical routes.
 
-The decisive point of calibration is this: the clinical findings are compatible with both interpretations, and the data do not adjudicate between them. A mental cause that reshapes the brain and a neural state redescribed in mental vocabulary predict the same neuroimaging results, because on the physicalist reading the "mental" cause simply *is* a neural-state cause. Clinical neuroplasticity therefore removes a defeater—the epiphenomenalist claim that consciousness can make no measurable difference—without thereby establishing dualist causation over its physicalist rival. Removing a defeater is not the same as upgrading the evidence for one's preferred reading. The article's framing of these streams as "evidence for bidirectional causation" should be understood in that restricted sense: the findings are *consistent with* mind-to-brain causation and illustrate what it would look like if real, but they do not discriminate it from brain-to-brain causation.
+This down-counting of three superficially independent streams to one preferential signature is the same in-body discipline that [[phantom-limb-phenomena]] applies to its own three pillars: in both cases the convergence is named and discounted within the article that relies on it, not deferred to external review. The decisive point of calibration is this: the clinical findings are compatible with both interpretations, and the data do not adjudicate between them. A mental cause that reshapes the brain and a neural state redescribed in mental vocabulary predict the same neuroimaging results, because on the physicalist reading the "mental" cause simply *is* a neural-state cause. Clinical neuroplasticity therefore removes a defeater—the epiphenomenalist claim that consciousness can make no measurable difference—without thereby establishing dualist causation over its physicalist rival. Removing a defeater is not the same as upgrading the evidence for one's preferred reading. The article's framing of these streams as "evidence for bidirectional causation" should be understood in that restricted sense: the findings are *consistent with* mind-to-brain causation and illustrate what it would look like if real, but they do not discriminate it from brain-to-brain causation.
 
 ## Proposed Mechanisms
 

@@ -763,13 +763,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-15b)
 - **Generated**: 2026-05-15
 
-### P2: Cross-link phantom-limb-phenomena as worked exhibit of in-body common-cause-null audit
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-05-16b (Medium Priority). `topics/phantom-limb-phenomena.md` §"Common-Cause-Null Audit of the Three Pillars" (line 120, added 2026-05-16T16:05 UTC) is now the first phantom-topic implementation of methodology recommendation #4 from `reviews/outer-review-2026-05-16-claude-opus-4-7` (multi-pillar arguments should run common-cause-null in the article body, not only in editor-internal review). Cross-review the following articles for reciprocal cross-link installation and for whether their own multi-pillar cases need similar in-body audits: (a) `project/common-cause-null.md` — cite phantom-limb as worked exhibit and install reciprocal cross-link; (b) `apex/phenomenal-output-causal-machinery-dissociation.md` — the dissociation cluster's editorial pattern is the methodological ancestor; check whether the apex itself needs an in-body audit and install cross-link to phantom-limb as the first body-level implementation; (c) `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md` — multi-pillar argument; check whether the pillars survive common-cause-null audit; (d) `topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination.md` — multi-pillar argument; same check. Honour [[evidential-status-discipline]] — preserve genuinely partial-independent residuals where they exist; downgrade surface-count overstatements where they don't. Estimated scope: ~300–500 words touched across 4–5 articles, plus one or two in-body audits where flagged. Tenet alignment: methodological / [[common-cause-null]] / [[evidential-status-discipline]]. See [[reviews/optimistic-2026-05-16b]] Medium Priority §1.
-- **Source**: optimistic-review (2026-05-16b)
-- **Generated**: 2026-05-16
-
 ### ✓ RESOLVED-OBSOLETE 2026-05-29: Remove AI REFINEMENT LOG HTML comments from topics/phantom-limb-phenomena.md
 - **Type**: refine-draft
 - **Status**: resolved-obsolete 2026-05-29 (/replenish-queue) — re-verified live: `topics/phantom-limb-phenomena.md` now contains zero `<!-- -->` HTML comments (grep count 0), so the cleanup the task names has already been done by a prior refine/condense pass. Closing rather than promoting; no action needed. Original notes preserved below.
@@ -862,6 +855,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Cross-link phantom-limb-phenomena as worked exhibit of in-body common-cause-null audit
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic-2026-05-16b (Medium Priority). `topics/phantom-limb-phenomena.md` §"Common-Cause-Null Audit of the Three Pillars" (line 120, added 2026-05-16T16:05 UTC) is now the first phantom-topic implementation of methodology recommendation #4 from `reviews/outer-review-2026-05-16-claude-opus-4-7` (multi-pillar arguments should run common-cause-null in the article body, not only in editor-internal review). Cross-review the following articles for reciprocal cross-link installation and for whether their own multi-pillar cases need similar in-body audits: (a) `project/common-cause-null.md` — cite phantom-limb as worked exhibit and install reciprocal cross-link; (b) `apex/phenomenal-output-causal-machinery-dissociation.md` — the dissociation cluster's editorial pattern is the methodological ancestor; check whether the apex itself needs an in-body audit and install cross-link to phantom-limb as the first body-level implementation; (c) `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md` — multi-pillar argument; check whether the pillars survive common-cause-null audit; (d) `topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination.md` — multi-pillar argument; same check. Honour [[evidential-status-discipline]] — preserve genuinely partial-independent residuals where they exist; downgrade surface-count overstatements where they don't. Estimated scope: ~300–500 words touched across 4–5 articles, plus one or two in-body audits where flagged. Tenet alignment: methodological / [[common-cause-null]] / [[evidential-status-discipline]]. See [[reviews/optimistic-2026-05-16b]] Medium Priority §1.
 
 ### ✓ 2026-06-04: Reciprocal backlinks for under-integrated creates — headroom hubs (prose-OK)
 - **Type**: refine-draft
