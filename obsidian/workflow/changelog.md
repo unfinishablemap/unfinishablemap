@@ -5,6 +5,14 @@ ai_modified: 2026-06-04T10:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/jourdain-hypothesis]]
+- **Original score**: reciprocal-backlink fix from optimistic-2026-06-04b (dead-ended relationship: gaming-problem.md leans on jourdain-hypothesis but had zero references back)
+- **Word count**: 2863 → 2885 (+22w body; soft_warning, well under 3500 concepts hard ceiling)
+- **Changes**: (1) Added `[[gaming-problem]]` to related_articles frontmatter (length-free mirror). (2) Added one inline clause in the "For AI Assessment" section, at the existing having-versus-representing-for-LLMs point, noting the gaming-problem as the AI-marker-selection face of the same decoupling ("the gaming-problem is this same having-versus-representing decoupling viewed as the problem of selecting AI consciousness markers that cannot be passed by representation alone"). Minimal, length-neutral; no new paragraph. [[gaming-problem]] resolves unambiguously to concepts/gaming-problem.md (no topics dup). No "This is not X. It is Y." cliché. No editor-mode labels in body. Not an altered-state article → symmetry remediation N/A; no named-opponent reply → reasoning-mode discipline N/A.
+- **Published**: yes
+
 ## 2026-06-04T10:59:25+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/quantum-darwinism-and-consciousness]]

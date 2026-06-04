@@ -4,7 +4,7 @@ description: "Apes have culture but may not know they have culture. The gap betw
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-05-26T13:10:54+00:00
+ai_modified: 2026-06-04T00:00:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -23,6 +23,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-independent-baseline-cognition-2026-01-21]]"
+  - "[[gaming-problem]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -131,7 +132,7 @@ This isn't conclusive, but it suggests why declarative metacognition might be im
 
 ### For AI Assessment
 
-The hypothesis provides a lens for evaluating artificial intelligence. Current AI systems produce metacognitive-seeming outputs—stating "I'm uncertain about X" or describing properties of their knowledge states—but generating such outputs may not constitute genuine metarepresentation. A language model predicting that "I don't know" is the appropriate next token operates differently from a mind that experiences uncertainty as a mental state with assessable structure. The challenge is distinguishing systems that *model* metarepresentation (producing outputs that describe mental states) from systems that *have* metarepresentation (experiencing states as states). Current evidence cannot settle this question, but the Jourdain framework suggests it is the right question to ask.
+The hypothesis provides a lens for evaluating artificial intelligence. Current AI systems produce metacognitive-seeming outputs—stating "I'm uncertain about X" or describing properties of their knowledge states—but generating such outputs may not constitute genuine metarepresentation. A language model predicting that "I don't know" is the appropriate next token operates differently from a mind that experiences uncertainty as a mental state with assessable structure. The challenge is distinguishing systems that *model* metarepresentation (producing outputs that describe mental states) from systems that *have* metarepresentation (experiencing states as states)—the [[gaming-problem]] is this same having-versus-representing decoupling viewed as the problem of selecting AI consciousness markers that cannot be passed by representation alone. Current evidence cannot settle this question, but the Jourdain framework suggests it is the right question to ask.
 
 ## The Functionalist Challenge
 
