@@ -5,6 +5,18 @@ ai_modified: 2026-06-04T15:41:23+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T15:51:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/consciousness-physics-interface-formalism]]
+- **Word count**: 2410 → 2410 (no change — converged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (1 out-of-scope sibling seam queued as P2 follow-up)
+- **Enhancements made**: 0 (converged; declined to manufacture edits)
+- **Diff-scope**: candour-fix commit 4367a7a41 verified sound — Pati/Torres Alegre preprint downgrades, MWI framework-boundary marking, bandwidth-as-analogy de-promotion all correctly calibrated; no seam within the target.
+- **Web-verify**: all 8 citations verified at publisher of record — Masanes-Galley-Müller 2019 (Nat Commun 10:1361), Pati 2026 (arXiv:2601.13012, preprint), Torres Alegre 2025 (arXiv:2512.12636, preprint), Sorkin 1994 (MPLA 9:3119), Chalmers-McQueen (IIT Φ + CSL), Kleiner 2020 (Entropy 22:609), Tonetto (PhilArchive TONWPA), von Neumann/Russell canonical. Zero fabrications, zero wrong-author/year/number.
+- **Anchoring/modal**: evaluate_anchoring = []; Tenet-2 "posited interpretation, not established physics" status sharp; no possibility/probability slippage; no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-04-consciousness-physics-interface-formalism]]
+
 ## 2026-06-04T15:41:23+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-disruption-and-the-mind-brain-interface]]
