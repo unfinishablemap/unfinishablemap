@@ -37,6 +37,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Quantum-biology citation cleanup — Mavromatos misattribution in research notes + trim quantum-biology-and-neural-consciousness under hard
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Follow-on from the 2026-06-04 deep-review of concepts/quantum-biology-and-neural-mechanisms (which web-verified + fixed 2 citation misattributions in the concepts file AND its topics sibling). TWO distinct, both grep-located 2026-06-04 — do BOTH (name all files; [[multi-file-task-dropped-file]]):
+  **(A) Mavromatos / "1630906" wrong-attribution audit (verify-before-fix, [[ai_citation_metadata_unreliable]], [[citation-verify-false-negative]]).** The VERIFIED correct facts: the *Front. Hum. Neurosci.* paper with article id **1630906** ("The quantum-classical complexity of consciousness…") is by **Sergi, Messina et al. — NOT Mavromatos**. The real Mavromatos microtubule-QED-cavity paper is **Mavromatos, Mershin & Nanopoulos (2025), "On the Potential of Microtubules for Scalable Quantum Computation," *Eur. Phys. J. Plus* 140, 1116 (arXiv:2505.20364)**. Files carrying "1630906" or "quantum-classical complexity of consciousness" (grep 2026-06-04): `research/spontaneous-collapse-theories-grw-csl-2026-01-23.md`, `research/attention-motor-planning-quantum-interface-2026-01-23.md`, `research/quantum-biology-neural-experimental-2026-03-20.md`, `research/quantum-decoherence-objection-responses-2026-01-15.md`; plus "Mavromatos" in `research/quantum-state-inheritance-computational-systems-2026-02-10.md`. ⚠ VERIFY EACH IN CONTEXT before editing: if a note correctly cites the 1630906 paper AS Sergi/Messina, LEAVE it; only fix where it is mis-attributed to Mavromatos OR where a Mavromatos microtubule-QED claim points at the wrong (1630906) paper → repoint to EPJ Plus 140:1116. Do NOT touch reviews/changelog/workflow. (concepts + topics live articles already fixed.)
+  **(B) Length: trim topics/quantum-biology-and-neural-consciousness.md back under the 4000 hard ceiling.** It is currently 4015w = hard_warning (15w over) — the deep-review's correct reference-metadata additions (the 2 fixed cites' DOI/vol/pp) tipped it over. NET-NEGATIVE trim ~20w of non-load-bearing prose (do NOT remove the corrected citation metadata or calibration content) to land ≤3995w, preventing a replenish-condense churn ([[refine-then-condense-same-session-churn]]). Run tools.curate.length before/after.
+- **Source**: deep-review follow-on (quantum-biology-and-neural-mechanisms)
+- **Generated**: 2026-06-04
+
 ### P2: Adopt naturally-occluded calibration in cross-domain-void-comparison
 - **Type**: refine-draft
 - **Status**: pending
