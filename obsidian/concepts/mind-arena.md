@@ -4,7 +4,7 @@ description: "The Map's term for the domain of outcomes that pass through minds�
 created: 2026-06-04
 modified: 2026-06-04
 human_modified:
-ai_modified: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-06-04T05:04:31+00:00
 draft: false
 topics: []
 concepts:
@@ -24,6 +24,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-04
 last_curated:
+last_deep_review: 2026-06-04T05:04:31+00:00
 ---
 
 The **mind-arena** is the Map's term for the domain of outcomes that pass through minds—the region of the world where conscious agents are at stake and where, under the Map's tenets, what happens is co-determined by consciousness rather than fixed by physical state alone. It names a *territory*, not a mechanism: the set of outcomes whose realisation routes through a conscious system's [[causal-powers]]. The term earns its keep in alignment arguments, where it marks exactly the domain in which an AI's expected-utility apparatus breaks down. This page defines what the mind-arena contains, distinguishes it from neighbouring Map terms it is easily confused with, and registers its honest status as a posited framework construct.
@@ -38,7 +39,7 @@ Three readings of the term's scope are live, and the dominant usage resolves bet
 - **The two-way causal loop** — consciousness *plus* its [[mind-matter-interface|interface]] with the physical, taken together as the operative system.
 - **The outcome-domain** — the region of *physical-world outcomes* whose consequence-distributions are shaped by that loop.
 
-The canonical usage, anchored in `topics/dualism-as-ai-risk-mitigation.md` (the term's primary home, where it appears across all five sub-arguments), settles on a reading that combines the second and third. The mind-arena is the *domain of outcomes* (third reading) whose determination passes through the *full bidirectional loop* (second reading)—consciousness exercising [[causal-powers]] "that no physical-state description fully captures," with "the influence running both ways." The arena is not consciousness considered apart from its effects, because the load-bearing claim concerns *consequences*: "mind-arena outcomes are not just hard to compute—their consequence-distributions are *uncomputable*." Consequences live in the physical world; they belong to the arena because their generating process includes a non-physical contribution.
+The canonical usage, anchored in `topics/dualism-as-ai-risk-mitigation.md` (the term's primary home, where it appears across all five sub-arguments), settles on a reading that combines the second and third. The mind-arena is the *domain of outcomes* (third reading) whose determination passes through the *full bidirectional loop* (second reading)—consciousness exercising [[causal-powers]] "that no physical-state description fully captures," with "the influence runs both ways." The arena is not consciousness considered apart from its effects, because the load-bearing claim concerns *consequences*: "mind-arena outcomes are not just hard to compute—their consequence-distributions are *uncomputable*." Consequences live in the physical world; they belong to the arena because their generating process includes a non-physical contribution.
 
 This reading keeps every existing use true. When the risk-mitigation article says an AI's plan over humans cannot have "its risk reliably estimated" because "human responses are mediated by the mind-arena," the arena is the domain of those human-implicating outcomes. When it speaks of "mind-arena avoidance" as a dominant AI strategy, the arena is a region the AI can decline to act upon. When [[machine-consciousness]] and [[apex/machine-question]] reference "mind-arena consequences" being "uncomputable rather than merely intractable," they mean consequences of acting in this domain. The outcome-domain reading is what all these uses presuppose.
 
@@ -66,7 +67,7 @@ Its operative property—uncomputability from physical state—inherits from [[c
 
 ## Honest Tenet-Alignment and Evidential Status
 
-The mind-arena is a **posited framework construct, not an established entity** ([[evidential-status-discipline|compatibility-grade]]). Its existence is conditional on the Map's tenets being true; a physicalist owes no such domain, because for the physicalist every outcome is in principle physical-state-computable and the arena collapses to the empty set. The term should never be deployed as if its referent were a discovered region of the world. It is a *consequence* of Dualism-plus-Bidirectional-Interaction, useful precisely for marking where those commitments make a difference.
+The mind-arena is a **posited framework construct, not an established entity**. As a definitional term whose content is fixed by the tenets, it is not itself a claim placed on the Map's [[evidential-status-discipline|five-tier evidential scale]]; its credence tracks the tenets it presupposes rather than any independent evidence. Its existence is conditional on the Map's tenets being true; a physicalist owes no such domain, because for the physicalist every outcome is in principle physical-state-computable and the arena collapses to the empty set. The term should never be deployed as if its referent were a discovered region of the world. It is a *consequence* of Dualism-plus-Bidirectional-Interaction, useful precisely for marking where those commitments make a difference.
 
 Two honest caveats. First, the boundary of the arena is not sharply operationalised: which concrete outcomes "pass through minds" is itself contestable, and the risk-mitigation argument concedes that coercion can route some mind-implicating effects through "manifest physical bottlenecks" that *are* modellable—so the arena's edge is fuzzier than a clean partition suggests. Second, the whole construct shares the empirical exposure of Tenet 2: if mind-matter influence were shown empirically impossible, the mind-arena would have no non-trivial extension. The Map holds the term as load-bearing *infrastructure for its own arguments*, not as a claim that any neutral observer must accept.
 
