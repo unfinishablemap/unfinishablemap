@@ -5,6 +5,13 @@ ai_modified: 2026-06-04T09:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T09:30:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/conversion-disorder-as-consciousness-side-fault.md` (body ~2972w)
+- **Findings**: 1 genuine internal-coherence gap (disconnect metaphor vs. active-generation mechanism now in the imaging section); interface-vs-intra-cerebral calibration already correct; no fabricated citations (Voon 2011, Edwards/Friston 2012, Vuilleumier 2005 web-verified real + correctly attributed)
+- **Tasks written**: 1 × P2 refine-draft (length-neutral reconciliation, ~40w cap)
+- **Output**: [[reviews/pessimistic-2026-06-04-conversion-disorder]]
+
 ## 2026-06-04T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/integrated-information-theory]]
