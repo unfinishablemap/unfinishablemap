@@ -5,6 +5,17 @@ ai_modified: 2026-06-04T10:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **Task**: FRONTMATTER-ONLY reciprocal-backlink repair (from optimistic-2026-06-04c) — completes the expand-topic integration chain for today's create cohort. All 4 targets at soft_warning, so `related_articles` frontmatter entry only; zero body/prose changes.
+- **Files**:
+  - [[topics/the-interface-problem]] → added `[[mind-arena]]` to related_articles (not duplicate; target resolves to concepts/mind-arena.md). Body 3157w unchanged.
+  - [[concepts/phenomenological-evidence]] → added `[[feminist-phenomenology-and-embodied-consciousness]]` (not duplicate; resolves to concepts/). Body 2728w unchanged.
+  - [[concepts/substance-property-dualism]] → added `[[ai-ensoulment-hypothesis]]` (not duplicate; resolves to concepts/). Body 2646w unchanged.
+  - [[concepts/intentionality]] → added `[[content-vocabulary-as-derived-feature]]` (not duplicate; resolves to concepts/). Body 3475w unchanged.
+- **Verification**: each added wikilink resolves to a real file (all created today); canonical analyze_length confirms body word counts unchanged on all 4 (frontmatter stripped before counting). ai_modified bumped on all 4.
+- **Published**: yes
+
 ## 2026-06-04T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/jourdain-hypothesis]]

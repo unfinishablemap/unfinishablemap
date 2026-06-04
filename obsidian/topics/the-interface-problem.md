@@ -4,7 +4,7 @@ description: "Where does consciousness meet the brain, and how does conscious st
 created: 2026-02-09
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-06-04T08:46:20+00:00
+ai_modified: 2026-06-04T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,6 +30,7 @@ concepts:
   - "[[valence]]"
 related_articles:
   - "[[tenets]]"
+  - "[[mind-arena]]"
   - "[[mind-matter-interface]]"
   - "[[the-psychophysical-control-law]]"
   - "[[consciousness-interface-development]]"

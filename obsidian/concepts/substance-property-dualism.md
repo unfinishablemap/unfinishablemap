@@ -4,7 +4,7 @@ description: "Two forms of dualism: separate mental substances versus irreducibl
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-05-27T21:15:00+00:00
+ai_modified: 2026-06-04T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,6 +27,7 @@ concepts:
   - "[[panpsychism]]"
 related_articles:
   - "[[tenets]]"
+  - "[[ai-ensoulment-hypothesis]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101

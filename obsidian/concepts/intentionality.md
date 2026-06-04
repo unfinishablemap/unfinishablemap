@@ -4,7 +4,7 @@ description: "The aboutness of mental states: why thoughts are directed at objec
 created: 2026-01-14
 modified: 2026-03-01
 human_modified: null
-ai_modified: 2026-06-01T00:00:00+00:00
+ai_modified: 2026-06-04T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,6 +27,7 @@ concepts:
   - "[[symbol-grounding-problem]]"
 related_articles:
   - "[[tenets]]"
+  - "[[content-vocabulary-as-derived-feature]]"
   - "[[intentionality-consciousness-2026-01-14]]"
   - "[[metaphysics-of-information-under-dualism]]"
 ai_contribution: 100

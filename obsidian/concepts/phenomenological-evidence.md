@@ -4,7 +4,7 @@ description: "First-person experience reports are genuine evidence for conscious
 created: 2026-02-01
 modified: 2026-04-19
 human_modified:
-ai_modified: 2026-05-16T07:23:00+00:00
+ai_modified: 2026-06-04T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,6 +28,7 @@ concepts:
   - "[[evidential-status-discipline]]"
 related_articles:
   - "[[tenets]]"
+  - "[[feminist-phenomenology-and-embodied-consciousness]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[phenomenology-of-intellectual-life]]"
   - "[[epistemological-limits-occams-razor]]"
