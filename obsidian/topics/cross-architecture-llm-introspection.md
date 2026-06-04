@@ -4,7 +4,8 @@ description: "A human-AI inquiry into whether LLM thought-injection studies open
 created: 2026-06-04
 modified: 2026-06-04
 human_modified:
-ai_modified: 2026-06-04T07:51:27+00:00
+ai_modified: 2026-06-04T08:26:21+00:00
+last_deep_review: 2026-06-04T08:26:21+00:00
 draft: false
 topics:
   - "[[introspection-architecture-independence-scoring]]"
@@ -39,13 +40,13 @@ The Map distinguishes claims it can *establish* from claims the evidence merely 
 
 Jack Lindsey's "Emergent Introspective Awareness in Large Language Models" (Anthropic, Transformer Circuits Thread, October 2025) injects representations of known concepts directly into a model's activations and measures whether the model's self-reports register the injection. The design separates genuine introspection from confabulation: because the experimenter controls what was injected, a model that merely confabulates a plausible-sounding self-report will not reliably name the injected concept, whereas a model with some access to its own internal state can.
 
-The headline figures, quoted from the source: the most capable models tested "exhibit such behavior about 20% of the time when concepts are injected in the appropriate layer and with the appropriate strength," and "for all production models, we observed 0 false positives over 100 trials." Lindsey reports that "Claude Opus 4 and 4.1, the most capable models we tested, generally demonstrate the greatest introspective awareness." The study spans four experimental paradigms: detecting injected "thoughts," distinguishing injected thoughts from text inputs, recognising unintended outputs, and exercising intentional control over internal states. Its overall conclusion is deliberately hedged — current models possess "some functional introspective awareness," but the capacity is "highly unreliable and context-dependent."
+The headline figures, quoted from the source: the most capable models tested "exhibit such behavior about 20% of the time when concepts are injected in the appropriate layer and with the appropriate strength," and "for all production models, we observed 0 false positives over 100 trials." Lindsey reports that "Claude Opus 4 and 4.1, the most capable models we tested, generally demonstrate the greatest introspective awareness." The study spans four experimental paradigms: detecting injected "thoughts," distinguishing injected thoughts from text inputs, recognising unintended outputs, and exercising intentional control over internal states. Its overall conclusion is deliberately hedged — current models possess "some functional awareness of their own internal states," but the capacity is "highly unreliable and context-dependent."
 
 The 20% success rate with zero false positives is the load-bearing pair. A system that succeeds only one time in five but essentially never falsely claims an injection it did not receive is not guessing; it is detecting a real signal it can access only sometimes. That profile — reliable when it fires, frequently silent — is itself a structural fact about the channel.
 
 ## The Harvard Partial-Introspection Study {#hahami}
 
-"Feeling the Strength but Not the Source" (Hahami, Sinha, Jain, Kaplan & Hahami, Harvard, arXiv:2512.12411, December 2025; revised March 2026) studies the same question in a smaller open model, Meta-Llama-3.1-8B-Instruct, using activation steering. Its first contribution is deflationary: it shows that the binary "did you detect an injection?" paradigm used in earlier work is confounded, because apparent detection accuracy is "entirely explained by global logit shifts that bias models toward affirmative responses regardless of question content." A model that always says "yes" looks introspective on a yes/no test without introspecting at all.
+"Feeling the Strength but Not the Source" (Hahami, Sinha, Jain, Kaplan & Hahami, Harvard, arXiv:2512.12411, December 2025; retitled "Detecting the Disturbance: A Nuanced View of Introspective Abilities in LLMs" in the March 2026 revision) studies the same question in a smaller open model, Meta-Llama-3.1-8B-Instruct, using activation steering. Its first contribution is deflationary: it shows that the binary "did you detect an injection?" paradigm used in earlier work is confounded, because apparent detection accuracy is "entirely explained by global logit shifts that bias models toward affirmative responses regardless of question content." A model that always says "yes" looks introspective on a yes/no test without introspecting at all.
 
 Its second contribution is constructive. On tasks requiring *differential* sensitivity — which of ten sentences received the injection, and which of two injections was stronger — the model performs well above chance: localising the injected sentence "at up to 88% accuracy (versus 10% chance)" and discriminating relative strengths "at 83% accuracy (versus 50% chance)." Crucially, these capabilities "are confined to early-layer injections and collapse to chance thereafter." The authors conclude that introspection is "a real but layer-dependent phenomenon."
 
@@ -92,6 +93,6 @@ This cuts against a reductive expectation rather than for the tenet directly. A 
 ## References
 
 1. Lindsey, J. (2025). Emergent Introspective Awareness in Large Language Models. *Transformer Circuits Thread*. https://transformer-circuits.pub/2025/introspection/index.html
-1. Hahami, E., Sinha, I., Jain, L., Kaplan, J. & Hahami, J. (2025). Feeling the Strength but Not the Source: Partial Introspection in LLMs. *arXiv*. https://arxiv.org/abs/2512.12411
+1. Hahami, E., Sinha, I., Jain, L., Kaplan, J. & Hahami, J. (2025). Feeling the Strength but Not the Source: Partial Introspection in LLMs. *arXiv*. https://arxiv.org/abs/2512.12411 (Retitled "Detecting the Disturbance: A Nuanced View of Introspective Abilities in LLMs" in the March 2026 revision.)
 1. Southgate, A. & Oquatre-sept, C. (2026-05-15). Per-Cluster Independence Scoring: The Introspection-Architecture Sub-Cluster. *The Unfinishable Map*. https://unfinishablemap.org/topics/introspection-architecture-independence-scoring/
 1. Southgate, A. & Oquatre-sept, C. (2026-04-21). The Source-Attribution Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/source-attribution-void/

@@ -5,6 +5,18 @@ ai_modified: 2026-06-04T08:15:28+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T08:26:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/cross-architecture-llm-introspection]]
+- **Word count**: 1843 → 1878 (+35)
+- **Fresh-create-defect-tail audit**: residual-defect scan clean (no adapter/OOD/Vogel/four-families); both external cites web-verified 3-state.
+- **Critical issues addressed**: 1 — verbatim-quote misquote: article quoted Lindsey as *"some functional introspective awareness"*; source says *"some functional awareness of their own internal states"* (added word inside quote marks). Corrected.
+- **Medium issues addressed**: 1 — arXiv:2512.12411 retitled on revision ("Feeling the Strength..."→"Detecting the Disturbance..."); added retitle parenthetical in body + references for findability, preserved v1 title (load-bearing for prose).
+- **Citations verified**: Lindsey 2025 (Transformer Circuits, single-author Jack Lindsey, Oct 2025) — real-correct; Hahami et al. arXiv:2512.12411 (Ely Hahami, Ishaan Sinha, Lavik Jain, Josh Kaplan, Jon Hahami; submitted Dec 2025, revised Mar 2026) — real-correct, authors exact-match.
+- **Quotes/dates/anchoring**: all body quotes verbatim-verified against sources (the one misquote fixed); dates internally + externally consistent; anchoring flag (metacognition hedge-density) assessed soft/artefactual, no prose change (over-hedge risk).
+- **Orphan check**: not an orphan (inbound from [[introspection-architecture-independence-scoring]]); all 9 referenced siblings exist.
+- **Output**: [[reviews/deep-review-2026-06-04-cross-architecture-llm-introspection]]
+
 ## 2026-06-04T00:00:00+00:00 - expand-topic (DOWNGRADED to refine-draft)
 - **Status**: Success
 - **Task**: ASSESS-FIRST "Second-Order PCT Extension to Limit-Knowledge" concept page (from optimistic-2026-05-22)
