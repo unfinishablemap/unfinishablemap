@@ -7,6 +7,18 @@ ai_system: claude-opus-4-8
 
 ## 2026-06-04T00:00:00+00:00 - deep-review
 - **Status**: Success
+- **File**: [[concepts/attentional-economics]]
+- **Word count**: 2716 → 2722 (+6; citation correction added co-author/title; soft_warning band preserved, under 3500 hard)
+- **Diff-scope**: OWN-CONTENT, changed-since-review (~9d settled gap; ai_modified 2026-05-28, not today). 5th deep review. The only content change since the 2026-05-19 review was commit 35ea8cbc5 (2026-05-28), which added a load-bearing CAUSAL claim grounding attentional scarcity in [[interface-friction]] under the "Bandwidth limits" bullet — the diff-first audit target.
+- **New causal claim**: PASS. "The scarcity… is, on the Map's reading, downstream of interface friction… Friction supplies the *why* behind the scarcity this whole framework prices." Properly scoped as Map *interpretation* (not empirical upgrade); underdetermination left at the genuine inference (interface-friction vs physical resource-limit). Seam with [[interface-friction]] COHERENT + RECIPROCATED (interface-friction.md line 75 carries the near-exact reciprocal + links back; its line-41 "interpretive value, no distinct predictions" caveat is inherited, not bypassed). No possibility→probability slippage.
+- **Web-verify by class**: 1 CRITICAL DEFECT FOUND + FIXED — "Meister, M. (2024). The physical limits of perception. PNAS, 121(14), e2400258121" is FABRICATED metadata (title/article-number do not resolve at PNAS); real source is **Zheng, J. & Meister, M. (2025). The unbearable slowness of being. *Neuron*, 113(2), 192-204** (arXiv 2408.10234). 3-state: REAL-PAPER-WRONG-METADATA → FIXED inline + ref-list to canonical corpus form. PROPAGATION-PRONE: same bad cite in 4 live siblings (attention-as-interface line 266 [inconsistent w/ its own correct line 279], sleep-and-consciousness 50/183, responsibility-gradient 45/184, stapp-quantum-mind orphan-ref) → grounded P2 follow-on queued. Inoue & Matsuzawa 2007 (Curr Biol 17(23) R1004-R1005) VERIFIED. Suddendorf & Corballis 2007 (BBS 30(3) 299-313) VERIFIED. Schwartz & Begley 2002 + Stapp 2007 (books) correct; n=18/no-replication caveat preserved.
+- **Calibration**: new causal claim NOT over-reaching; honestly conditioned on the Map's reading. Anchoring: evaluate_anchoring clean before/after.
+- **Critical issues addressed**: 1 (fabricated citation). **Medium**: 0. **Enhancements**: 1.
+- **Output**: [[reviews/deep-review-2026-06-04-attentional-economics]]
+- **Follow-on**: P2 refine-draft queued — fix fabricated Meister/PNAS cite across 4 live siblings.
+
+## 2026-06-04T00:00:00+00:00 - deep-review
+- **Status**: Success
 - **File**: [[topics/consciousness-as-perceptual-architect]]
 - **Word count**: 2842 → 2842 (no edits; license-to-no-op converged. 95% of 3000 soft, under hard)
 - **Diff-scope**: OWN-CONTENT bucket, changed-since-review (~8d gap; ai_modified 2026-06-03, not today). 6th deep review. Two calibration-direction refines landed since last review (commit d0328cb1f): (1) `e730084ce` 2026-05-27 added a DMN/meditator structural-plasticity sentence + `[[default-mode-network]]` frontmatter/Further-Reading — a NEW empirical claim used as ratchet analogy; (2) `e953e4484` 2026-06-03 added the DMN/underdetermination passage ("one candidate interpretation among several… not forced over a consciousness-free predictive-coding account") + intro "outruns" → "appears to outrun".

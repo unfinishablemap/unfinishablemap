@@ -4,7 +4,7 @@ description: "Agency is fundamentally the allocation of attention over time. Fre
 created: 2026-01-31
 modified: 2026-01-31
 human_modified:
-ai_modified: 2026-05-28T23:50:08+00:00
+ai_modified: 2026-06-04T00:00:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-31
 last_curated:
-last_deep_review: 2026-05-19T21:30:00+00:00
+last_deep_review: 2026-06-04T00:00:00+00:00
 ---
 
 If consciousness influences the physical world through attention—as The Unfinishable Map's [[attention-as-interface|attention-as-interface hypothesis]] proposes—then agency is fundamentally about how attention gets allocated over time. The deepest unit of will is not the discrete "decision" but the *sustained direction of attention*: what gets stabilised, what gets released, what gets held against competing claims. This is attentional economics—the budgeting and investment of a finite conscious resource that shapes which possibilities become actual.
@@ -45,7 +45,7 @@ Economics studies how agents allocate scarce resources among competing ends. Att
 | Return | Neural pattern stabilisation, neuroplasticity |
 | Opportunity cost | Alternatives that decay while unattended |
 
-The brain processes enormous information flows unconsciously; consciousness receives a tiny fraction—roughly 10 bits per second by recent estimates (Meister 2024). Every moment of attention is therefore an allocation choice: attending here means not attending there; sustaining focus on this means letting that decay. The flip side is [[adaptive-computational-depth|adaptive computational depth]]: reality itself concentrates detail where attention is directed, leaving unattended domains at lower resolution.
+The brain processes enormous information flows unconsciously; consciousness receives a tiny fraction—roughly 10 bits per second by recent estimates (Zheng & Meister 2025). Every moment of attention is therefore an allocation choice: attending here means not attending there; sustaining focus on this means letting that decay. The flip side is [[adaptive-computational-depth|adaptive computational depth]]: reality itself concentrates detail where attention is directed, leaving unattended domains at lower resolution.
 
 This isn't metaphor. The Map's framework gives these economic concepts literal force: consciousness selects among quantum possibilities, and selection operates through attention. The scarcity is genuine (bandwidth cannot be borrowed or expanded at will), the trade-offs are real (attending here means not attending there), and the returns are measurable (sustained attention produces neuroplastic change). How you spend your attentional budget determines which neural patterns actualise.
 
@@ -219,7 +219,7 @@ This connects the abstract commitments of the tenets—dualism, bidirectional in
 ## References
 
 1. Inoue, S. & Matsuzawa, T. (2007). Working memory of numerals in chimpanzees. *Current Biology*, 17(23), R1004-R1005.
-1. Meister, M. (2024). The physical limits of perception. *Proceedings of the National Academy of Sciences*, 121(14), e2400258121.
+1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Suddendorf, T. & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
