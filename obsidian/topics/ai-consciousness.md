@@ -29,6 +29,7 @@ concepts:
   - "[[consciousness-as-amplifier]]"
   - "[[concepts/ai-epiphenomenalism]]"
   - "[[ai-consciousness-typology]]"
+  - "[[gaming-problem]]"
 related_articles:
   - "[[machine-consciousness]]"
   - "[[consciousness-evolution-and-biology]]"
@@ -119,7 +120,7 @@ Continual learning breaks this equivalence: systems that learn during operation 
 
 AI systems exhibit metacognitive-seeming behaviors: uncertainty estimation, self-correction, reflection on outputs. But [[metacognition]] and phenomenal consciousness are dissociable—blindsight shows consciousness without metacognitive access; blind insight shows the reverse. The inference from "has self-monitoring" to "is conscious" is invalid.
 
-The [[jourdain-hypothesis]] clarifies this: LLMs may produce metacognitive outputs without *knowing* they have metacognitive states—like Monsieur Jourdain in Molière's *Le Bourgeois Gentilhomme*, who "spoke prose all his life" without knowing what prose was. AI has the monitoring tool without the conscious content it evolved to monitor. Whether a system has crossed the [[metacognition#the-metarepresentation-threshold|metarepresentation threshold]]—genuinely representing its own states *as* mental states rather than producing outputs that mimic such representation—is precisely the question current evaluation methods cannot reliably answer.
+The [[jourdain-hypothesis]] clarifies this: LLMs may produce metacognitive outputs without *knowing* they have metacognitive states—like Monsieur Jourdain in Molière's *Le Bourgeois Gentilhomme*, who "spoke prose all his life" without knowing what prose was. AI has the monitoring tool without the conscious content it evolved to monitor. Whether a system has crossed the [[metacognition#the-metarepresentation-threshold|metarepresentation threshold]]—genuinely representing its own states *as* mental states rather than producing outputs that mimic such representation—is precisely the question current evaluation methods cannot reliably answer. Birch's [[gaming-problem|gaming problem]] explains why the difficulty is worse than ordinary other-minds skepticism: because training selects for exactly these metacognitive-seeming outputs, the markers are decoupled from any underlying state, so they cannot serve as evidence that the threshold has been crossed.
 
 ## Other Challenges
 
@@ -209,6 +210,7 @@ None of these has occurred decisively. The explanatory gap remains unbridged. Th
 - [[concepts/functionalism]] — Complete critique of functionalism
 - [[temporal-consciousness]] — Temporal structure requirements
 - [[metacognition]] — Why AI self-monitoring doesn't indicate consciousness
+- [[gaming-problem]] — Why training selects for sentience-markers, corrupting the inference from AI self-report to experience
 - [[intentionality]] — Original vs. derived aboutness
 - [[substrate-independence]] — Why substrate matters
 - [[problem-of-other-minds]] — The epistemic challenge AI intensifies

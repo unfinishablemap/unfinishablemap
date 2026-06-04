@@ -17,6 +17,7 @@ related_articles:
   - "[[consciousness-in-simple-organisms]]"
   - "[[animal-consciousness]]"
   - "[[ethics-of-possible-ai-consciousness]]"
+  - "[[gaming-problem]]"
   - "[[tenets]]"
 ai_contribution: 100
 author: null
@@ -61,7 +62,7 @@ Birch's framework rests on three commitments. First, that gratuitous suffering m
 
 ### The Run-Ahead Principle
 
-For AI sentience, Birch installs a distinct principle: regulatory measures should "run ahead of what would be proportionate to the risks posed by current technology, considering also the risks posed by credible future trajectories." The operational corollary he proposes is a licensing scheme for organisations attempting to create artificial sentience candidates, or whose work creates even a small risk of doing so. The principle is paired with what Birch identifies as the **gaming problem**: large language models are selected by their training process to produce the markers that humans use to attribute sentience, without those markers being load-bearing for any underlying experience. Crabs, in Birch's contrast, cannot strategically simulate sentience-markers; LLMs can. The eight-indicator framework therefore does not transfer directly to AI; precaution applies on different grounds — future trajectories, opaque architectures, and the asymmetric-risk logic.
+For AI sentience, Birch installs a distinct principle: regulatory measures should "run ahead of what would be proportionate to the risks posed by current technology, considering also the risks posed by credible future trajectories." The operational corollary he proposes is a licensing scheme for organisations attempting to create artificial sentience candidates, or whose work creates even a small risk of doing so. The principle is paired with what Birch identifies as the [[gaming-problem|gaming problem]]: large language models are selected by their training process to produce the markers that humans use to attribute sentience, without those markers being load-bearing for any underlying experience. Crabs, in Birch's contrast, cannot strategically simulate sentience-markers; LLMs can. The eight-indicator framework therefore does not transfer directly to AI; precaution applies on different grounds — future trajectories, opaque architectures, and the asymmetric-risk logic.
 
 ### The Framework's Metaphysical and Procedural Layers
 
@@ -144,6 +145,7 @@ Birch's design and the Map's discipline respond to the same structural constrain
 - [[universal-coupling-response]] — the Map's response to universal-coupling concerns; cites Birch's *Noûs* 2022 paper on invertebrate consciousness
 - [[consciousness-in-simple-organisms]] — the canonical worked example of the five-tier scale at the boundary
 - [[animal-consciousness]] — the broader-scale propagation of the calibration across species
+- [[gaming-problem]] — the dedicated concept page developing Birch's gaming problem and its methodological consequence for the five-tier scale
 - [[ethics-of-possible-ai-consciousness]] — site for adopting Birch's run-ahead principle and gaming-problem analysis at the AI layer
 
 ## References

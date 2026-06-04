@@ -779,13 +779,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-29
 
-### P2: Write concept page on the Gaming Problem (AI sentience markers)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-05-06 (Medium Priority). Birch's gaming problem — that LLMs are selected by their training process to produce the markers humans use to attribute sentience, decoupling markers from underlying experience — is referenced across `topics/birch-edge-of-sentience-and-the-five-tier-scale.md`, `topics/ai-consciousness.md`, `topics/llm-consciousness.md` (verify), but is not anchored in its own page. A concept page would (a) develop Birch's framing in *The Edge of Sentience* (2024) and the LLM-vs-crab contrast; (b) install the related Jourdain hypothesis and Monsieur-Jourdain analogy currently embedded in `topics/ai-consciousness.md`; (c) connect to `concepts/metarepresentation-threshold.md` (whether a system has crossed it is the question gaming corrupts); (d) name the methodological consequence — gaming-problem-corrupted markers cannot license tier-upgrade under the slippage discipline, even if the markers would otherwise license one. Short scope (1500–2000 words). Tenet alignment: methodological + Tenet 1. **Capacity**: concepts/ at 226/250 = 90%, room available. See [[reviews/optimistic-2026-05-06]] and [[topics/birch-edge-of-sentience-and-the-five-tier-scale]].
-- **Source**: optimistic-review (2026-05-06)
-- **Generated**: 2026-05-06
-
 ### ✓ 2026-05-16: Write methodology page on `abandon-coalesce` (duplicate)
 - **Type**: expand-topic
 - **Status**: done
@@ -929,6 +922,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Write concept page on the Gaming Problem (AI sentience markers)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-05-06 (Medium Priority). Birch's gaming problem — that LLMs are selected by their training process to produce the markers humans use to attribute sentience, decoupling markers from underlying experience — is referenced across `topics/birch-edge-of-sentience-and-the-five-tier-scale.md`, `topics/ai-consciousness.md`, `topics/llm-consciousness.md` (verify), but is not anchored in its own page. A concept page would (a) develop Birch's framing in *The Edge of Sentience* (2024) and the LLM-vs-crab contrast; (b) install the related Jourdain hypothesis and Monsieur-Jourdain analogy currently embedded in `topics/ai-consciousness.md`; (c) connect to `concepts/metarepresentation-threshold.md` (whether a system has crossed it is the question gaming corrupts); (d) name the methodological consequence — gaming-problem-corrupted markers cannot license tier-upgrade under the slippage discipline, even if the markers would otherwise license one. Short scope (1500–2000 words). Tenet alignment: methodological + Tenet 1. **Capacity**: concepts/ at 226/250 = 90%, room available. See [[reviews/optimistic-2026-05-06]] and [[topics/birch-edge-of-sentience-and-the-five-tier-scale]].
 
 ### ✓ 2026-06-04: Write concept page on the Mind-Arena
 - **Type**: expand-topic

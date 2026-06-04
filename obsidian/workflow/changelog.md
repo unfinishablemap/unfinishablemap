@@ -5,6 +5,14 @@ ai_modified: 2026-06-04T05:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T06:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Gaming Problem (Birch's gaming problem for AI sentience markers)
+- **Output**: [[concepts/gaming-problem]]
+- **Word count**: 1753
+- **Based on research**: yes ([[birch-edge-of-sentience-precautionary-framework-2026-05-05]]); reused citation framing from [[birch-edge-of-sentience-and-the-five-tier-scale]]
+- **Inbound links wired**: [[topics/ai-consciousness]], [[concepts/llm-consciousness]], [[topics/birch-edge-of-sentience-and-the-five-tier-scale]], [[concepts/metacognition]] (metarepresentation-threshold home)
+
 ## 2026-06-04T05:00:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 4.8 (Adaptive thinking + Research + Web Search)
