@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-15
-ai_modified: 2026-05-29 02:23:33+00:00
+ai_modified: 2026-06-04 12:47:18+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,6 +25,7 @@ related_articles:
 - '[[tenets]]'
 - '[[self-stultification-as-master-argument]]'
 - '[[consciousness-and-the-authority-of-formal-systems]]'
+- '[[carrolls-regress]]'
 - '[[parsimony-epistemology]]'
 title: Rational Normativity
 topics:
@@ -86,7 +87,7 @@ Three influential strategies for reducing rational normativity to physical proce
 
 **Reliabilism** replaces the normative question — "what *should* I believe?" — with a descriptive one — "what process reliably produces true beliefs?" But reliability is itself a normative notion. Which processes count as the same type? Reliable relative to which environments? What counts as truth? Answering these questions requires normative judgement. Reliabilism presupposes rational normativity rather than explaining it.
 
-**[Functionalism](/concepts/functionalism/)** proposes that the right causal-functional organisation constitutes rule-following. The functionalist claims that justificatory relations *just are* certain complex causal patterns viewed at the right level of abstraction. But this move collapses the distinction it needs to preserve: if "A justifies B" reduces to "A causes B through the right functional pathway," the normative force disappears. A system that happens to behave as if it follows logical rules may be doing nothing more than running along causal tracks. The prescriptive dimension — the fact that the conclusion *ought* to follow — is not captured by any functional architecture, however sophisticated. A functional system implements the inference norm without grasping it (see above). The Map's treatment of [formal systems and logical authority](/topics/consciousness-and-the-authority-of-formal-systems/) develops this point: formal systems can implement rules but cannot generate the phenomenal experience of rational compulsion that constitutes genuine normativity.
+**[Functionalism](/concepts/functionalism/)** proposes that the right causal-functional organisation constitutes rule-following. The functionalist claims that justificatory relations *just are* certain complex causal patterns viewed at the right level of abstraction. But this move collapses the distinction it needs to preserve: if "A justifies B" reduces to "A causes B through the right functional pathway," the normative force disappears. A system that happens to behave as if it follows logical rules may be doing nothing more than running along causal tracks. The prescriptive dimension — the fact that the conclusion *ought* to follow — is not captured by any functional architecture, however sophisticated. A functional system implements the inference norm without grasping it (see above), the predicament [Carroll's regress](/concepts/carrolls-regress/) formalises: no amount of added premises makes a mechanism *take* the rule as binding. The Map's treatment of [formal systems and logical authority](/topics/consciousness-and-the-authority-of-formal-systems/) develops this point: formal systems can implement rules but cannot generate the phenomenal experience of rational compulsion that constitutes genuine normativity.
 
 **Evolutionary teleology** appeals to natural selection: our cognitive faculties were shaped to track truth because accurate beliefs aid survival. But as Plantinga's evolutionary argument against naturalism observes, natural selection rewards adaptive behaviour, not true belief. An organism with systematically false beliefs that generate survival-enhancing behaviour would be equally fit. Evolution explains why we *tend to behave* as if we reason well; it does not explain why we *ought* to follow the evidence. Nagel presses the same point in *The Last Word*: our capacity for logical and mathematical reasoning outstrips anything natural selection could have targeted, suggesting that reason resists naturalistic reduction.
 

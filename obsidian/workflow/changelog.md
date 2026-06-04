@@ -5,6 +5,16 @@ ai_modified: 2026-06-04T13:10:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T12:47:18+00:00 - refine-draft
+- **Status**: Success
+- **Trigger**: Cross-link integration from optimistic-2026-06-04d — [[concepts/carrolls-regress]] advertises itself as a reference target but was near-orphaned (3 inbound); three articles build load-bearing arguments on its machinery without citing it. Multi-file task, all three done (no dropped file).
+- **Files / changes** (all near-length-neutral, one clause max per body edit):
+  - [[topics/consciousness-and-the-authority-of-formal-systems]] (2843→2866w, ok): at the modus-ponens passage ("the machine does not encounter logic's demand") added one clause naming Carroll's regress + inference-void as the canonical treatment — "— the gap [[carrolls-regress|Carroll's regress]] and the [[voids/inference-void|inference void]] treat as canonical, where executing the rule never amounts to being moved by it." + `[[carrolls-regress]]` related_articles entry (was absent).
+  - [[concepts/rational-normativity]] (2062→2080w, ok): at the rule-following/functionalism passage ("implements the inference norm without grasping it") added a see-also clause — "the predicament [[carrolls-regress|Carroll's regress]] formalises: no amount of added premises makes a mechanism *take* the rule as binding." + `[[carrolls-regress]]` related_articles entry (was absent).
+  - [[topics/consciousness-and-the-normativity-of-reason]] (2525w, ok, unchanged): `[[carrolls-regress]]` related_articles entry only, no body edit (was absent).
+- **Verification**: both link targets resolve (carrolls-regress = "Carroll's Regress", voids/inference-void = "The Inference Void"); sync exit 0 with no broken-wikilink strip on these slugs; all three under length thresholds post-edit. Web-integrity/methodological only — no metaphysical claim altered.
+- **Published**: yes
+
 ## 2026-06-04T12:38:42+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/cross-architecture-llm-introspection]]

@@ -4,7 +4,7 @@ description: "Logic compels and mathematics describes with extraordinary precisi
 created: 2026-02-15
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-05-28T00:00:00+00:00
+ai_modified: 2026-06-04T12:47:18+00:00
 last_deep_review: 2026-05-28T00:00:00+00:00
 draft: false
 topics:
@@ -44,6 +44,7 @@ related_articles:
   - "[[formal-cognitive-limits]]"
   - "[[consciousness-and-the-metaphysics-of-laws-and-dispositions]]"
   - "[[self-reference-and-the-limits-of-physical-description]]"
+  - "[[carrolls-regress]]"
   - "[[consciousness-and-the-normativity-of-reason]]"
   - "[[tenets]]"
   - "[[delegatory-causation]]"
@@ -63,7 +64,7 @@ Formal systems — logic and mathematics — possess remarkable authority. Logic
 
 When you grasp that if all mammals are warm-blooded and whales are mammals, then whales are warm-blooded, you do not experience this as one option among many. You experience it as something you *must* accept. Modus ponens does not describe a tendency — it says the conclusion *follows*, and denying it while affirming the premises is not merely unusual but *wrong*.
 
-Where does this wrongness come from? Physical laws describe regularities that hold without compelling anyone to acknowledge them. A rock obeys gravity without recognising that it must. Logical necessity is different. It is experienced from inside — a sense of being *bound*, of having no rational alternative. A computer executes modus ponens without experiencing this compulsion. It transitions between states according to its programming. The output matches what logic demands, but the machine does not encounter logic's demand.
+Where does this wrongness come from? Physical laws describe regularities that hold without compelling anyone to acknowledge them. A rock obeys gravity without recognising that it must. Logical necessity is different. It is experienced from inside — a sense of being *bound*, of having no rational alternative. A computer executes modus ponens without experiencing this compulsion. It transitions between states according to its programming. The output matches what logic demands, but the machine does not encounter logic's demand — the gap [[carrolls-regress|Carroll's regress]] and the [[voids/inference-void|inference void]] treat as canonical, where executing the rule never amounts to being moved by it.
 
 The [[cognitive-phenomenology]] debate asks whether thinking has its own "what it's like." The authority of logic provides a strong case that it does. When you grasp a valid deduction, there is a distinctive phenomenal quality — not the warmth of understanding a narrative but the cold clarity of seeing that *this must be so*. This experience has three features: **modality** (you feel not just that the conclusion is true but that it *must be* true), **impersonality** (the validity holds regardless of who reasons), and **[[phenomenal-transparency-opacity-spectrum|transparency]]** (you do not merely believe the conclusion follows — you *see* that it does).
 

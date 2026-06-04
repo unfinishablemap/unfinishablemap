@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-07
-ai_modified: 2026-05-29 03:55:00+00:00
+ai_modified: 2026-06-04 12:47:18+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -34,6 +34,7 @@ related_articles:
 - '[[evaluative-qualia-phenomenal-normativity-across-traditions]]'
 - '[[parsimony-epistemology]]'
 - '[[the-naturalisation-failure-for-content]]'
+- '[[carrolls-regress]]'
 title: Consciousness and the Normativity of Reason
 topics:
 - '[[argument-from-reason]]'

@@ -4,7 +4,7 @@ description: "Reasoning is normative — it involves rules about what one ought 
 created: 2026-04-07
 modified: 2026-04-07
 human_modified:
-ai_modified: 2026-05-29T03:55:00+00:00
+ai_modified: 2026-06-04T12:47:18+00:00
 draft: false
 topics:
   - "[[argument-from-reason]]"
@@ -31,6 +31,7 @@ related_articles:
   - "[[evaluative-qualia-phenomenal-normativity-across-traditions]]"
   - "[[parsimony-epistemology]]"
   - "[[the-naturalisation-failure-for-content]]"
+  - "[[carrolls-regress]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

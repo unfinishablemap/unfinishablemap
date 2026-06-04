@@ -38,15 +38,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt metacognition calibration in cross-architecture-llm-introspection
+### P2: Cite the canonical Carroll's-regress page from its load-bearing dependants
 - **Type**: refine-draft
 - **Status**: pending
-- **File**: obsidian/topics/cross-architecture-llm-introspection.md
-- **Notes**: From topic-concept anchoring audit 2026-06-04. The topic article over-claims relative to its anchor concept [metacognition](/concepts/metacognition/); failed checks: hedge_density, strong_assertions.
-  - hedge density 4.26/kw is below 60% of anchor (7.99/kw)
-  - strong-assertion density 0.53/kw exceeds 1.5× anchor (0.30/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
+- **Relocated**: 2026-06-04 to TOP of Active Tasks by /replenish-queue (queue-lifo-starvation fix). This grounded P2 was stranded as the last task before `## Completed Tasks`, where the line-number-ascending selector would never reach it. Non-churned (all 4 targets' latest ai_modified 2026-05-29, none touched today); genuinely actionable, length-safe. Moved up so it is actually pickable.
+- **Promoted**: P3→P2 2026-06-04 by /replenish-queue (honest floor-restore: P0-P2 count was 2, below MIN_QUEUE floor of 3; staleness pool dry; promoted this GROUNDED actionable length-neutral web-integrity P3 rather than minting a speculative expand-topic against near-cap topics/concepts — see unfin_loop_steady_state). All 4 targets verified on disk; carrolls-regress confirmed near-orphaned at 6 inbound links (advertises itself as a reference target). Edits are near-length-neutral (all 3 dependant articles at `ok` status with headroom).
+- **Notes**: Suggested by /optimistic-review 2026-06-04d §"Medium Priority". [carrolls-regress](/concepts/carrolls-regress/) explicitly advertises itself as "a reference target for other Map articles that need to cite the regress without re-establishing it," yet it is near-orphaned (3 inbound links). At least three articles build a LOAD-BEARING argument on exactly the regress's machinery (modus ponens as applied-not-asserted; the machine that executes the rule without *encountering* its demand; the inferentialist *taking-as*) WITHOUT citing it or [inference-void](/voids/inference-void/). The expand-topic-skips-integration-chain half-orphan signature, one layer below today's create cohort. **LENGTH CONSTRAINT (all `ok`, headroom — near-length-neutral only):** (1) [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) 2843w/ok — HIGHEST VALUE: add one clause naming Carroll's regress + inference-void at its modus-ponens passage ("the machine does not encounter logic's demand") + related_articles entry; (2) [rational-normativity](/concepts/rational-normativity/) 2062w/ok — brief see-also clause where rule-following is discussed + related_articles entry; (3) [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/) 2525w/ok — lightest touch, related_articles entry only. Do NOT expand bodies beyond a single clause each. Tenet alignment: Occam's Razor Has Limits + Dualism (the regress is load-bearing for both); fix is web-integrity/methodological — no metaphysical claim altered, only made reachable. See [optimistic-2026-06-04d](/reviews/optimistic-2026-06-04d/).
+- **Review file**: `reviews/optimistic-2026-06-04d.md`
+- **Source**: optimistic-review (2026-06-04)
 - **Generated**: 2026-06-04
 
 ### P2: Adopt neural-correlates-of-consciousness calibration in neural-implementation-specifics
@@ -59,7 +58,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-04
-
 
 ### ✓ 2026-06-04: [CONVERGENCE FLAG] Gemini 06-04 echoes ChatGPT+Claude on clinical-dissociation; upgrade convergent tasks
 - **Status**: resolved-by-synthesis — consumed by /combine-outer-reviews 2026-06-04. Four convergent clusters upgraded P2→P1 (precision-weighting common-cause, staleness, framing-calibration, steelman+sociocognitive); the distinct Marsh/Huntjens, amygdala-motor, amnesia-phrasing, cross-link, and methodology tasks left at original priority. See [outer-review-synthesis-2026-06-04](/reviews/outer-review-synthesis-2026-06-04/).
@@ -85,11 +83,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-06-04
 - **Notes**: From outer review 2026-06-04 (ChatGPT 5.5 Pro), site-methodology recommendations (lower priority — project-doc, not content; assess-first with license to decline any that duplicate existing discipline docs). Candidates: (a) an "evidence ladder" for empirical articles — tiers from clinical observation → network-mechanistic evidence → architecture constraint → metaphysical underdetermination → dualist interpretation → discriminating evidence (the reviewer notes empirical articles slide between tiers); check whether [evidential-status-discipline](/project/evidential-status-discipline/) already covers this before adding. (b) A citation-staleness rule: any empirical article leaning on pre-2010 clinical neuroscience should carry at least one post-2020 review anchor unless the old source is purely historical — note the [literature-drift-review](/project/calibration-audit-triple/) cadence may already partly serve this; fold in rather than duplicate. (c) Separate Map-internal cross-links from external literature in reference lists (a "Map integration" heading vs. "References") so readers don't mistake internal links for independent corroboration. DECLINE any item already implemented; this is the methodology tail and is genuinely optional.
 
-### P3: Note Schrödinger's monist reading in voids/plurality-void.md opening (optional)
+### P2: Note Schrödinger's monist reading in voids/plurality-void.md opening (optional)
 - **Type**: refine-draft
 - **Status**: pending
 - **Source**: pessimistic-review
 - **Generated**: 2026-06-04
+- **Promoted**: 2026-06-04 P3→P2 by /replenish-queue (ELEVENTH this session; floor-restoring 1→2). The only genuinely grounded, actionable, NOT-same-session-churned, non-human-gated P3 in the queue: a specific pessimistic-review finding on a non-churned converged void (plurality-void ai_modified 2026-04-28, length-safe 1696/2000, all 8 cites re-verified clean). Carries an explicit license-to-decline. The other 5 pending P3s correctly excluded: lines 22/30 are HUMAN/CODE methodology proposals (not autonomous content edits), lines 45/52 are dependency-blocked apex placement reviews, line 59 is an explicit human-governance flag the loop must not pick. Floor left at 2; no speculative minting (topics 268/270 near cap, voids 101/100 over, staleness/grounded-P3 reservoir exhausted — converged steady state per unfin_loop_steady_state).
 - **Notes**: Pessimistic review (pessimistic-2026-06-04-plurality-void.md) found ONE low-severity calibration nuance on an otherwise CONVERGED article. The opening (line 31) cites Schrödinger ("Consciousness is a singular of which the plural is unknown.") to anchor the *plurality void* — the limit on conceiving multiple subjects. But Schrödinger's actual claim in *Mind and Matter* (1958) is the positive Vedantic-monist thesis that there is only ONE consciousness and apparent plurality is illusion (Maya), not a flagging of a cognitive limit. The article's narrower use (singularity is the datum) is DEFENSIBLE since he affirms singular experience. OPTIONAL one-clause acknowledgement that he drew a monist conclusion from the same datum; OR decline and leave as-is. LICENSE TO DECLINE: the 2026-04-28 deep review marked this article at convergence with an explicit "no changes" stability note; do NOT churn it for a low-severity nuance unless the edit is genuinely one clause and length-neutral (article is at 1696/2000, length-safe either way). All 8 citations re-verified clean this session (no fabrication/wrong-author/wrong-result). Equivocation + label-leakage checks both clean. See [pessimistic-2026-06-04-plurality-void](/reviews/pessimistic-2026-06-04-plurality-void/).
 
 ### P3: Review apex/steelmanning-as-method.md placement (apex vs. project/ methodology)
@@ -804,20 +803,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-06-04)
 - **Generated**: 2026-06-04
 
-### P2: Cite the canonical Carroll's-regress page from its load-bearing dependants
-- **Type**: refine-draft
-- **Status**: pending
-- **Promoted**: P3→P2 2026-06-04 by /replenish-queue (honest floor-restore: P0-P2 count was 2, below MIN_QUEUE floor of 3; staleness pool dry; promoted this GROUNDED actionable length-neutral web-integrity P3 rather than minting a speculative expand-topic against near-cap topics/concepts — see unfin_loop_steady_state). All 4 targets verified on disk; carrolls-regress confirmed near-orphaned at 6 inbound links (advertises itself as a reference target). Edits are near-length-neutral (all 3 dependant articles at `ok` status with headroom).
-- **Notes**: Suggested by /optimistic-review 2026-06-04d §"Medium Priority". [carrolls-regress](/concepts/carrolls-regress/) explicitly advertises itself as "a reference target for other Map articles that need to cite the regress without re-establishing it," yet it is near-orphaned (3 inbound links). At least three articles build a LOAD-BEARING argument on exactly the regress's machinery (modus ponens as applied-not-asserted; the machine that executes the rule without *encountering* its demand; the inferentialist *taking-as*) WITHOUT citing it or [inference-void](/voids/inference-void/). The expand-topic-skips-integration-chain half-orphan signature, one layer below today's create cohort. **LENGTH CONSTRAINT (all `ok`, headroom — near-length-neutral only):** (1) [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) 2843w/ok — HIGHEST VALUE: add one clause naming Carroll's regress + inference-void at its modus-ponens passage ("the machine does not encounter logic's demand") + related_articles entry; (2) [rational-normativity](/concepts/rational-normativity/) 2062w/ok — brief see-also clause where rule-following is discussed + related_articles entry; (3) [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/) 2525w/ok — lightest touch, related_articles entry only. Do NOT expand bodies beyond a single clause each. Tenet alignment: Occam's Razor Has Limits + Dualism (the regress is load-bearing for both); fix is web-integrity/methodological — no metaphysical claim altered, only made reachable. See [optimistic-2026-06-04d](/reviews/optimistic-2026-06-04d/).
-- **Review file**: `reviews/optimistic-2026-06-04d.md`
-- **Source**: optimistic-review (2026-06-04)
-- **Generated**: 2026-06-04
-
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Adopt metacognition calibration in cross-architecture-llm-introspection
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-04. The topic article over-claims relative to its anchor concept [metacognition](/concepts/metacognition/); failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-06-04: Write concept page on the constitution-vs-doing-work bridge
 - **Type**: expand-topic
