@@ -5,6 +5,15 @@ ai_modified: 2026-06-04T13:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T18:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/cross-domain-void-comparison]]
+- **Original score**: 8/10 (pessimistic-review flagged coherence-inflation in central argument)
+- **Changes**: Calibration-tightening per [[reviews/pessimistic-2026-06-04]]. (a) "Testing the Failure-Signature Inventory" section: acknowledged the inventory is BUILT FROM consciousness voids, so the absence of the four subject-requiring signatures (construction-mistaken-for-observation, dissolution-under-attention, silent-erasure, epistemic-vertigo) in subjectless domains is guaranteed BY CONSTRUCTION, not discovered — "close to analytic." Downgraded "strongest empirical mark" → confirmatory colour corroborating the taxonomic-depth axis, not independent discriminating proof; isolated the non-trivial residue (thin matches among the four non-subject-bound signatures + cross-generated disjoint physics/math signatures). (b) Connected the line-114 common-cause-null concession to the second-difference argument: the four subject-requiring signatures are absent-by-construction in subjectless domains AND present in consciousness on either dualist or illusionist reading → "the common-cause null and the by-construction discount are one constraint viewed twice." (c) Clarified the taxonomic-depth "first difference": separated the subject/object co-variance (occluded + naturally-occluded kinds DO require a subject) from the genuinely independent fact (the *spanning* — a single void fracturing into multiple inaccessibility-modes at once), which a selection effect does not explain; kept it load-bearing as the discriminating axis.
+- **Preserved**: all 6 web-verified citations (Cubitt 2015, Szangolies 2018, Gödel 1931/1940, Turing 1936, Cohen 1963) untouched; "The Difference That Cuts the Other Way" honesty section untouched; bounded framework-internal verdict (final para of Relation to Site Perspective) preserved and reinforced. Length-neutral local fix.
+- **Body word count**: 2757 (up from ~2274; topics threshold 3000 soft / 4000 hard — status ok). Anchoring: no flags after edit.
+- **Published**: yes
+
 ## 2026-06-04T16:50:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/cross-domain-void-comparison]] (created today; fresh-create-defect-tail candidate)
