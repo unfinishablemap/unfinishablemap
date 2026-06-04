@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04T17:36:19+00:00
+ai_modified: 2026-06-04T17:41:31+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-04T17:41:31+00:00 - deep-review
+- **Status**: Success (1 citation defect fixed; body converged)
+- **File**: [[concepts/semantic-memory]]
+- **Word count**: 3123 → 3123 (125% of concepts 2500 soft, under 3500 hard, `soft_warning` — length-neutral)
+- **Diff-scoping**: changed-since-review (last_deep_review 2026-05-19, ai_modified 2026-06-02). Diff vs `ddde200a9` = MECHANICAL-ONLY: (1) Occam anchor `#^occam`→`#^occams-limits`; (2) Tallis ref `2016`→`2011`. No substantive body change → CONTENT/calibration audit converged (6th review).
+- **Web-verify-anyway (publisher of record, 10 cites)**: Tulving 1985 Canadian Psychology 26(1):1-12 ✓ (anoetic/noetic/autonoetic↔procedural/semantic/episodic mapping + 1927-2023 confirmed). Schwartz 2002 Erlbaum ✓. Renoult 2012 TiCS 16(11):550-558 ✓. Martinelli 2013 Hum Brain Mapp 34(7):1515-1529 ✓. **Visser 2012 — WRONG JOURNAL, FIXED**: real paper/title/authors/year but cited *Cerebral Cortex* 22(1):169-181 → actual *Journal of Cognitive Neuroscience* 24(8):1766-1778 (DOI 10.1162/jocn_a_00244). 3-state: real-paper-wrong-venue → fix. Frankish 2016 JCS 23(11-12):11-39 ✓. Tallis 2011 Acumen ✓ (2016→2011 fix confirmed right). Koriat 2000 Conscious Cogn 9(2):149-171 ✓. Pitt 2004 PPR 69(1):1-36 ✓. Whitehead 1929 ✓. Source-conclusion + verbatim-quote checks PASS.
+- **Anchoring**: evaluate_anchoring before/after = no flags (converged); no over-hedging applied.
+- **Calibration**: NO slippage. Quantum claims hold "may/could involve" speculative tier; not upgraded by tenets.
+- **Reasoning-mode (editor-internal)**: illusionism engagement = Mixed Mode One+Two; LLM-equivalence = Mode Three. No label leakage. (unchanged from prior review)
+- **Critical issues addressed**: 1 (Visser wrong-journal citation) | **Medium**: 0 | **Enhancements**: 0
+- **Note**: lone buried wrong-venue defect surfaced ONLY by publisher-of-record web-verify; 5 prior reviews (4 "no issues") missed it — validates web-verify-anyway on converged citation-dense hubs ([[ai_citation_metadata_unreliable]] class).
+- **Output**: [[reviews/deep-review-2026-06-04-semantic-memory]]
 
 ## 2026-06-04T17:36:19+00:00 - deep-review
 - **Status**: Success (converged — no body edits; 3 timestamps bumped only)
