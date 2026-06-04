@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04T19:45:45+00:00
+ai_modified: 2026-06-04T19:55:22+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-04T19:55:22+00:00 - deep-review
+- **Status**: Success (confirmed-converged, no body edits)
+- **File**: [[topics/quantum-darwinism-and-consciousness]]
+- **Word count**: 2445 → 2445 (no change; 82% of 3000 soft)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (article at convergence; 5th review)
+- **Scope**: Changed-since-review (ai_modified 06-04 > last_deep_review 05-17, 18d gap). Only intervening change was one falsifiability-asymmetry sentence (commit d88b5146a) — verified honest, calibration-improving, no overclaim.
+- **Web-verify (citation-heavy)**: Zurek 2003 RMP 75:715-775, Zurek 2009 NatPhys 5:181-188, Zurek 2022 Entropy 24(11):1520, Schlosshauer 2004 RMP 76:1267 — all verified live against publishers. d'Espagnat 1976 / Schlosshauer 2007 monographs standard, attribution correct. No fabricated/wrong-author/wrong-venue cites; no propagation seam.
+- **Anchoring**: evaluate_anchoring returns [] (no flags).
+- **Reasoning-modes**: "Why Not Everett?" Mode One+Three; Dualism-tenet vs gaps-critic Mode One; Falsifiability Mode Three — all honest, no boundary-substitution, no label leakage.
+- **Note**: ai_modified deliberately left unbumped (no body change) to avoid cosmetic modified-date churn; only last_deep_review advanced.
+- **Output**: [[reviews/deep-review-2026-06-04-quantum-darwinism-and-consciousness]]
 
 ## 2026-06-04T19:45:45+00:00 - refine-draft
 - **Status**: Success
