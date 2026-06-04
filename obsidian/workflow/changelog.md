@@ -5,6 +5,19 @@ ai_modified: 2026-06-04T09:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T10:15:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/terminal-lucidity-and-filter-transmission-theory]]
+- **Selection**: Topic-concept anchoring audit 2026-06-04 — article failed calibration against THREE anchors at once ([[filter-theory]], [[neural-correlates-of-consciousness]], [[mind-brain-separation]]), all on the same underlying profile: strong_assertion_count=7 (density 2.479/kw) and underdetermination_marker_count=0 (all three anchors have 1). Terminal lucidity rests on a weak evidence base (case reports + retrospective caregiver surveys, no prospective controlled data), so 7 strong-assertion verbs were genuine over-claims.
+- **Strong-assertion verbs found + reframe (before→after)**: (1) Covert-consciousness bullet: "**demonstrates** consciousness persisting" → "is **consistent with** consciousness persisting". (2) Three-predictions lead-in: "three predictions that terminal lucidity **confirms**" → "three predictions that terminal lucidity **fits**". (3) Prediction 2: "Nahm's data **confirms** this" → "Nahm's data **is consistent with** this". (4) Prediction 3: "The Batthyány dataset **confirms**" → "The Batthyány dataset **fits the prediction**". (5) Counter-proposals para: "Where autopsy **confirms** massive structural damage" → "Where autopsy **documents**…". (6) Convergent-evidence para: "what the patient actually **demonstrates**" → "what the patient actually **exhibits**". (7) Same para: "no single member… **establishes** filter theory" → "no single member… **settles the question in favour of** filter theory" (kept the calibrated negation meaning; cleared the verb). strong_assertions 7→0.
+- **Underdetermination marker added (where)**: After the three-predictions list, at the genuine underdetermination point — added a sentence stating the retrospective dataset "**does not adjudicate between** filter/transmission framing and a neurological reading on which residual network reserve, paradoxical disinhibition, or an end-of-life neurochemical surge briefly restores access to spared circuitry." Pattern `does not adjudicate`; underdetermination_markers 0→1.
+- **Over-hedge avoided** ([[anchoring-audit-sibling-tasks-stale]] inverse failure): article was already heavily hedged (hedge_count=20, density 7.082/kw, higher than 2 of 3 anchors). Added ZERO new hedge qualifiers — fix was verb-reframe + one explicit underdetermination marker. Final hedge_count=20 (unchanged); density 6.942 (drop is from the ~57-word denominator increase, not added hedges).
+- **Voice + central claim preserved**: filter/transmission reading remains the thesis, honestly calibrated as SUGGESTIVE/consistent-with rather than establishing. No content cut; the constrain-vs-establish framing the article already carried is now matched by the verb-level calibration.
+- **Length before/after**: 2824w → 2881w (+57w from the underdetermination sentence; well under 3000 soft / 4000 hard).
+- **Anchoring re-run**: `evaluate_anchoring(...)` returns `[]` — ALL THREE anchor flags cleared (strong_assertions + underdetermination_markers on each of filter-theory, neural-correlates-of-consciousness, mind-brain-separation).
+- **Discipline**: no editor-mode labels in body ([[direct-refutation-discipline]]); no "This is not X. It is Y." cliché ([[project/calibration-audit-triple]] Audit Three, [[evidential-status-discipline]]).
+- **Published**: yes
+
 ## 2026-06-04T06:31:42+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/comparing-quantum-consciousness-mechanisms]]
