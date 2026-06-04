@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Add reciprocal link from concepts/possibility-probability-slippage.md → concepts/gaming-problem.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-06-04b. `gaming-problem.md` names slippage as "the specific mechanism by which that slippage would occur for AI," and gaming-problem is the cleanest AI-specific worked instance of the slippage this page warns against; but possibility-probability-slippage.md does not reference gaming-problem. FIX: add `[[gaming-problem]]` to related_articles + one short inline cross-reference at the point where the page indexes concrete instances of the slippage. This page has real headroom (`ok`, 2148w) so the length constraint is looser than the two tasks above, but still keep it surgical. See [[optimistic-2026-06-04b]].
-- **Review file**: `reviews/optimistic-2026-06-04b.md`
-- **Source**: optimistic-review
-- **Generated**: 2026-06-04
-
 ### ✓ 2026-06-04: [CONVERGENCE FLAG] Gemini 06-04 echoes ChatGPT+Claude on clinical-dissociation; upgrade convergent tasks
 - **Status**: resolved-by-synthesis — consumed by /combine-outer-reviews 2026-06-04. Four convergent clusters upgraded P2→P1 (precision-weighting common-cause, staleness, framing-calibration, steelman+sociocognitive); the distinct Marsh/Huntjens, amygdala-motor, amnesia-phrasing, cross-link, and methodology tasks left at original priority. See [[reviews/outer-review-synthesis-2026-06-04]].
 - **Type**: refine-draft
@@ -817,6 +809,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Add reciprocal link from concepts/possibility-probability-slippage.md → concepts/gaming-problem.md
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review 2026-06-04b. `gaming-problem.md` names slippage as "the specific mechanism by which that slippage would occur for AI," and gaming-problem is the cleanest AI-specific worked instance of the slippage this page warns against; but possibility-probability-slippage.md does not reference gaming-problem. FIX: add `[[gaming-problem]]` to related_articles + one short inline cross-reference at the point where the page indexes concrete instances of the slippage. This page has real headroom (`ok`, 2148w) so the length constraint is looser than the two tasks above, but still keep it surgical. See [[optimistic-2026-06-04b]].
 
 ### ✓ 2026-06-04: Add reciprocal link from concepts/ai-epiphenomenalism.md → concepts/gaming-problem.md
 - **Type**: refine-draft

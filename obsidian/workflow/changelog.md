@@ -5,6 +5,13 @@ ai_modified: 2026-06-04T13:10:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T11:42:15+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/possibility-probability-slippage]]
+- **Changes**: Reciprocal-backlink fix from optimistic-2026-06-04b. gaming-problem.md names slippage as "the specific mechanism by which that slippage would occur for AI" and is the cleanest AI-specific worked instance of the slippage this page warns against, but the page had zero references back. Added `[[gaming-problem]]` to related_articles frontmatter (not a duplicate) and one inline sentence at the end of the Worked Examples section (after the dualism-risk AI/alignment propagation case) noting the gaming-problem as the cleanest AI-specific worked instance — training selection decoupling consciousness markers from experience, so treating the markers as evidence upgrades a modal-register possibility into an unearned evidential-register verdict. Surgical, length-neutral. No "This is not X. It is Y." cliché; no editor-mode labels.
+- **Word count**: 2148 → 2197 (+49w; status ok, well under concepts soft 2500)
+- **Published**: yes
+
 ## 2026-06-04T05:40:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/ai-epiphenomenalism]]
