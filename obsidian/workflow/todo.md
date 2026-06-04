@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Note Schrödinger's monist reading in voids/plurality-void.md opening (optional)
+- **Type**: refine-draft
+- **Status**: pending
+- **Source**: pessimistic-review
+- **Generated**: 2026-06-04
+- **Notes**: Pessimistic review (pessimistic-2026-06-04-plurality-void.md) found ONE low-severity calibration nuance on an otherwise CONVERGED article. The opening (line 31) cites Schrödinger ("Consciousness is a singular of which the plural is unknown.") to anchor the *plurality void* — the limit on conceiving multiple subjects. But Schrödinger's actual claim in *Mind and Matter* (1958) is the positive Vedantic-monist thesis that there is only ONE consciousness and apparent plurality is illusion (Maya), not a flagging of a cognitive limit. The article's narrower use (singularity is the datum) is DEFENSIBLE since he affirms singular experience. OPTIONAL one-clause acknowledgement that he drew a monist conclusion from the same datum; OR decline and leave as-is. LICENSE TO DECLINE: the 2026-04-28 deep review marked this article at convergence with an explicit "no changes" stability note; do NOT churn it for a low-severity nuance unless the edit is genuinely one clause and length-neutral (article is at 1696/2000, length-safe either way). All 8 citations re-verified clean this session (no fabrication/wrong-author/wrong-result). Equivocation + label-leakage checks both clean. See [[reviews/pessimistic-2026-06-04-plurality-void]].
+
 ### P3: Reciprocity link concepts/pain-asymbolia.md → topics/phantom-limb-phenomena.md
 - **Type**: refine-draft
 - **Status**: pending
