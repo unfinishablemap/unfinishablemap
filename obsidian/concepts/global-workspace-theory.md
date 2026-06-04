@@ -4,9 +4,9 @@ description: "Global Workspace Theory explains when information becomes consciou
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-06-03T07:08:33+00:00
+ai_modified: 2026-06-04T18:46:57+00:00
 draft: false
-last_deep_review: 2026-05-23T00:00:00+00:00
+last_deep_review: 2026-06-04T18:46:57+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
@@ -127,7 +127,7 @@ Implicit memory operates through local processors without workspace ignition. Se
 
 ### Filter Theory Integration
 
-From the Map's perspective, the workspace may be the neural correlate of the interface between consciousness and memory. Implicit memory shows consciousness can delegate, but the [[implicit-memory#Choking Under Pressure: Evidence for Bidirectional Interaction|choking phenomenon]] proves the interface remains: conscious re-engagement causally disrupts automatized skills. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires this relationship run both ways—consciousness accesses workspace content *and* influences which information achieves ignition. A complete dualist reading treats the workspace as a bidirectional interface that both delivers content to consciousness and receives causal influence from it.
+From the Map's perspective, the workspace may be the neural correlate of the interface between consciousness and memory. Implicit memory shows consciousness can delegate, but the [[implicit-memory#Choking Under Pressure: Evidence for Bidirectional Interaction|choking phenomenon]] indicates the interface remains: conscious re-engagement causally disrupts automatized skills. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires this relationship run both ways—consciousness accesses workspace content *and* influences which information achieves ignition. A complete dualist reading treats the workspace as a bidirectional interface that both delivers content to consciousness and receives causal influence from it.
 
 ## Relation to Site Perspective
 
@@ -185,7 +185,7 @@ A deeper methodological impasse: experiments detect consciousness only through r
 1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
 1. Baddeley, A. (2000). The episodic buffer: a new component of working memory? *Trends in Cognitive Sciences*, 4(11), 417-423.
 1. Block, N. (2007). Consciousness, accessibility, and the mesh between psychology and neuroscience. *Behavioral and Brain Sciences*, 30(5-6), 481-499.
-1. COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
+1. COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142.
 1. Dehaene, S., Kerszberg, M., & Changeux, J. P. (1998). A neuronal model of a global workspace in effortful cognitive tasks. *PNAS*, 95(24), 14529-14534.
 1. Dehaene, S., & Naccache, L. (2001). Towards a cognitive neuroscience of consciousness: basic evidence and a workspace framework. *Cognition*, 79(1-2), 1-37.
 1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628-645.

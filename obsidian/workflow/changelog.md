@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04T18:40:00+00:00
+ai_modified: 2026-06-04T18:46:57+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-04T18:46:57+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/global-workspace-theory]]
+- **Word count**: 2300 → 2300 (length-neutral; 92% of 2500 soft, under hard)
+- **Diff-scope**: changed-since-review (gap 11d; ai_modified 2026-06-03, not today). 6th deep review. Intervening change was a post-05-23-review citation-correction sweep (4 refs rewritten) + Baddeley source/Map-separation fix. Scope = citation re-verification + corpus-wide seam check, not restructuring.
+- **Web-verify by class (publisher 3-state / source-conclusion / author)**: ALL 6 refs web-verified CORRECT. Streicher et al. 2025 (niaf042) — confirmed, prior "Randeniya" author fixed correctly. DeWall et al. 2008 — confirmed incl 17(3),628-645 volume fix (was 17(2) under "Lieberman"). Gruber et al. 2015 — confirmed Jourdain-Hypothesis author, prior "Whiten" fixed correctly. Nartker et al. 2025 eLife RP100337 — confirmed, source-conclusion honest. COGITATE 2025 Nature — confirmed; enriched ref w/ verified 642(8066),133-142. Cowan 2001 BBS 24:87-114 — confirmed. KEY FINDING: the 05-23 review's attribution check was a FALSE CLEAN — it declared 4 now-corrected cites "all correctly attributed"; the later fork fixes were the real corrections ([[ai_citation_metadata_unreliable]] pattern). Re-verify mandate paid off: all 4 fork fixes verified GENUINELY correct this time.
+- **Seam-check (corpus-wide grep)**: BOTH seams CLEAN. niaf042/Streicher across 7 content files — all correct authorship (no surviving Randeniya). Jourdain Hypothesis uniformly = Gruber et al. 2015 across cumulative-culture/baseline-cognition/jourdain-hypothesis; co-located Whiten refs are DIFFERENT real Whiten papers (1999/2010/2015-percussive), not misattribution. No fix needed.
+- **Anchoring**: evaluate_anchoring 1 flag BEFORE (vs NCC anchor: 1 strong-assertion verb + 0 underdetermination markers) → 0 flags AFTER. The flag's strong-assertion verb was "choking phenomenon PROVES the interface remains" (line 130) — a genuine over-claim at an interpretive/contested point. Softened "proves"→"indicates" (fold-into-reframe); cleared the flag. (Underdetermination sub-check was a false-positive: article invokes [[duhem-quine-underdetermination-consciousness]] twice but wikilink form isn't a marker token; resolved jointly once strong-assertion cleared.)
+- **Calibration**: the "proves" softening is the calibration fix; no possibility→probability slippage elsewhere; no tenet-as-evidence-upgrade.
+- **Engagement modes**: no named-opponent refutation prose (Block/Dennett presented as live, debate "empirically open"); no classification needed; no label leakage.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 ("proves"→"indicates" over-claim)
+- **Enhancements made**: 1 (COGITATE ref enriched with verified volume/pages)
+- **Output**: [[reviews/deep-review-2026-06-04-global-workspace-theory]]
 
 ## 2026-06-04T19:10:00+00:00 - deep-review
 - **Status**: Success (CONVERGED — no-op; license-to-no-op exercised, timestamps only)
