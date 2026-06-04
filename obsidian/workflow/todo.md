@@ -44,9 +44,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Review file**: `reviews/optimistic-2026-06-04c.md`
 - **Source**: optimistic-review
 
-### P3: Add reciprocal link from concepts/jourdain-hypothesis.md → concepts/gaming-problem.md
+### P2: Add reciprocal link from concepts/jourdain-hypothesis.md → concepts/gaming-problem.md
 - **Type**: refine-draft
 - **Status**: pending
+- **Promoted**: P3→P2 2026-06-04 by /replenish-queue (honest floor-restore: loop-pickable open P0-P2 in Active Tasks stood at 2 — the constitution-vs-doing-work-bridge expand-topic and the Carroll's-regress refine — below MIN_QUEUE floor of 3; staleness pool DRY (prior 3 staleness deep-reviews apophatic-cartography/inference-void/normative-void all consumed this session). Promoted this GROUNDED, actionable, near-length-neutral web-integrity P3 — the strongest dead-end of the gaming-problem reciprocal cluster (gaming-problem calls the two "two faces of one decoupling" and leans heavily on jourdain-hypothesis, which has ZERO references back) — over minting a speculative expand-topic against near-cap topics(268/270)/concepts(259/270). All targets verified on disk; jourdain-hypothesis confirmed to have no `gaming-problem` references yet. See [[unfin_loop_steady_state]], [[expand-topic-skips-integration-chain]].
 - **Notes**: Suggested by optimistic review 2026-06-04b. `gaming-problem.md` (created 2026-06-04) calls the gaming problem and the Jourdain Hypothesis "two faces of one decoupling" and leans on jourdain-hypothesis heavily, but jourdain-hypothesis.md has **zero** references back (dead-ends the relationship). FIX: add `[[gaming-problem]]` to jourdain-hypothesis `related_articles` frontmatter (free) plus at most ONE short inline `[[gaming-problem]]` reference at the existing point where the article discusses the having-versus-representing distinction applied to LLMs. ⚠ LENGTH CONSTRAINT IS LOAD-BEARING: jourdain-hypothesis is already at `soft_warning` (2863w). Keep the edit near-length-neutral — frontmatter mirror + one clause, NOT a new paragraph. Do not grow the article materially. See [[optimistic-2026-06-04b]].
 - **Review file**: `reviews/optimistic-2026-06-04b.md`
 - **Source**: optimistic-review
