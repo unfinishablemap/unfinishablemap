@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04T05:00:00+00:00
+ai_modified: 2026-06-04T07:00:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-04T07:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/clinical-dissociation-as-systematic-evidence]]
+- **Trigger**: Claude Opus 4.8 outer review 2026-06-04 headline VERIFIED FACTUAL ERROR — Conversion Disorder section framed the descending motor channel as DISCONNECTING/severed (citing Vuilleumier 2005, Brown 2004); the modern FND literature reports the OPPOSITE: *increased* amygdala→SMA coupling and active symptom generation.
+- **Citations web-verified** (3-state discipline, all REAL + correct metadata installed):
+  - Voon V, Brezing C, Gallea C, Ameli R, Roelofs K, LaFrance WC Jr, Hallett M (2010). Emotional stimuli and motor conversion disorder. *Brain* 133(5):1526–36. doi:10.1093/brain/awq054. Confirmed: greater right-amygdala↔right-SMA connectivity, amygdala→SMA Granger direction.
+  - Hassa T, Sebastian A, Liepert J, Weiller C, Schmidt R, Tüscher O (2017). Symptom-specific amygdala hyperactivity modulates motor control network in conversion disorder. *NeuroImage: Clinical* 15:143–150. doi:10.1016/j.nicl.2017.04.004. n=13 functional hemiparesis; increased left-amygdala↔(pre-)SMA + STN connectivity. (Review args' title gloss was inexact; installed the real title.)
+  - Edwards MJ, Adams RA, Brown H, Pareés I, Friston KJ (2012). A Bayesian account of 'hysteria'. *Brain* 135(11):3495–3512. doi:10.1093/brain/aws129. Author order incl Pareés confirmed; aberrant precision-weighting / active-generation mechanism.
+- **Framing fix**: replaced "channel disconnect/severed" with the increased-coupling + Bayesian active-generation account; conceded honestly that the corrected science *strengthens the physicalist rival* (active generation is a clean intra-brain mechanism) and so *narrows* what the conversion window can claim — conversion is now the weakest of the four windows for the bidirectional reading. Preserved the article's two-tier "constrain not establish" calibration. Updated the systematic-pattern table row and the Bidirectional-Interaction tenet paragraph. No editor-mode labels in body.
+- **Length**: 3069w (soft_warning) before → 3202w (soft_warning) after; +133w net for 3 new citations + active-generation account, offset by trimming the intro, convergence, snap-back, and trauma paragraphs. No threshold crossed (stayed in soft_warning band).
+- **Symmetry scanner**: evaluate_symmetry → None (clear).
+- **Siblings checked** (3): `conversion-disorder-as-consciousness-side-fault` already had the CORRECT increased-amygdala-SMA-coupling science (cites the real distinct Voon 2011 *Mov Disord* 26(13):2396–2403 paper) — did NOT carry the disconnect error; added the Edwards 2012 active-generation mechanism + reference as a capstone (2847w→2961w, still ok). `neurological-dissociations-as-interface-architecture` — its "severed channel" language is about actual *lesions* (alien hand/callosotomy), anatomically correct, no error. `dissociative-states-as-intact-substrate-interface-evidence` — memory-channel triple only, no motor-channel content, no error. No follow-on tasks needed.
+- **Published**: yes
 
 ## 2026-06-04T06:30:00+00:00 - optimistic-review
 - **Status**: Success

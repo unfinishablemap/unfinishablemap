@@ -4,7 +4,7 @@ description: "Functional neurological disorder is the cleanest consciousness-sid
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-05-27T15:30:00+00:00
+ai_modified: 2026-06-04T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -69,7 +69,9 @@ Vuilleumier (2005) synthesised the emerging imaging picture across conversion sy
 
 The connectivity-era follow-up sharpens this. Voon, Brezing, Gallea & Hallett (2011) found aberrant activity in the supplementary motor complex and elevated limbic (amygdala) engagement during motor preparation in motor conversion disorder, consistent with abnormal top-down limbic influence on motor planning. Across the 2014–2024 functional-connectivity literature, a reproducible network signature has emerged: increased connectivity between the amygdala and the supplementary motor area, abnormal temporoparietal junction (TPJ) coupling — the TPJ being central to the *sense of agency* — and altered communication between limbic, motor, and self-agency networks. The recurring theme is that conversion motor symptoms involve disrupted *communication* within an intact set of regions, with the disruption concentrated at the junction between limbic/self-agency processing and motor execution.
 
-For the consciousness-side-fault reading, the load-bearing fact is the *intactness with decoupling*: the primary motor and sensory cortices retain their capacity, and what fails is the coupling that would let directed conscious volition recruit them. That is the imaging-level statement of the same thing Hoover's sign shows at the bedside.
+The current mechanistic synthesis, Edwards, Adams, Brown, Pareés & Friston's (2012) Bayesian account of "hysteria," reframes this as *active generation* rather than passive failure: an abnormally precise intermediate-level motor prior is fulfilled by the system, so the symptom is the brain's own confident prediction overriding sensory evidence. The increased amygdala→motor coupling is the affective precision-weighting that installs the prior. This matters for the calibration discipline below: active generation is a clean intra-cerebral mechanism, so the imaging does not by itself favour a consciousness-side channel over a within-brain inhibitory-cum-predictive loop.
+
+For the consciousness-side-fault reading, the load-bearing fact is the *intactness with anomalous control*: the primary motor and sensory cortices retain their capacity, and what fails is the coupling that would let directed conscious volition recruit them. That is the imaging-level statement of the same thing Hoover's sign shows at the bedside.
 
 ## Three Mechanically Distinct Routes, One Architectural Finding
 
@@ -125,6 +127,7 @@ The Map reads conversion disorder as bearing on two tenets, with the evidential 
 1. Brown, R. J. (2004). Psychological mechanisms of medically unexplained symptoms: an integrative conceptual model. *Psychological Bulletin*, 130(5), 793–812. https://doi.org/10.1037/0033-2909.130.5.793
 1. Marshall, J. C., Halligan, P. W., Fink, G. R., Wade, D. T., & Frackowiak, R. S. J. (1997). The functional anatomy of a hysterical paralysis. *Cognition*, 64(1), B1–B8. https://doi.org/10.1016/S0010-0277(97)00020-6
 1. Voon, V., Brezing, C., Gallea, C., & Hallett, M. (2011). Aberrant supplementary motor complex and limbic activity during motor preparation in motor conversion disorder. *Movement Disorders*, 26(13), 2396–2403. https://doi.org/10.1002/mds.23890
+1. Edwards, M. J., Adams, R. A., Brown, H., Pareés, I., & Friston, K. J. (2012). A Bayesian account of 'hysteria'. *Brain*, 135(11), 3495–3512. https://doi.org/10.1093/brain/aws129
 1. Pick, S., Goldstein, L. H., Perez, D. L., & Nicholson, T. R. (2022). Dissociation and its biological and clinical associations in functional neurological disorder: systematic review and meta-analysis. *BJPsych Open*, 9(1), e2. https://doi.org/10.1192/bjo.2022.598
 1. American Psychiatric Association. (2013). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed.). Conversion Disorder (Functional Neurological Symptom Disorder). https://doi.org/10.1176/appi.books.9780890425596
 1. Hu, J.-J., Liu, Y., Yao, H., et al. (2023). Emergence of consciousness from anesthesia through ubiquitin degradation of KCC2 in the ventral posteromedial nucleus of the thalamus. *Nature Neuroscience*, 26, 751–764. https://doi.org/10.1038/s41593-023-01290-y
