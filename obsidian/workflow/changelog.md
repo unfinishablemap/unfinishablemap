@@ -5,6 +5,21 @@ ai_modified: 2026-06-04T15:41:23+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T15:56:59+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]
+- **Word count**: 3427 → 3427 (no change — converged)
+- **Critical issues addressed**: 0 (the historically-critical Verhagen wrong-year/locator was already fixed on disk by the 2026-06-03 refine-draft; web-verified correct this pass)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; declined to manufacture edits)
+- **Diff-scope**: CALIBRATION-IMPORT (2026-06-03 refine softened ~15 claims with honest hedges + added empirical-equivalence opening sentence) + a load-bearing CITATION FIX (Verhagen 2024→2019) + 2 reciprocal cross-links. Diff-first per [[replenish-churn-filter-overtight]] bucket discipline.
+- **Web-verify**: Verhagen et al. 2019 (eLife 8:e40541, DOI verified) — CORRECT; the 2026-06-03 year fix was genuine. NOTE: the **2026-05-19 deep-review left this citation WRONG** (recorded "2024, eLife 13:e87026"); a citation defect survived a full deep-review and was corrected two passes later — confirms [[ai_citation_metadata_unreliable]]. Cain et al. 2021 (Brain Stim 14(2):301-303), Bonnì et al. 2015 (Behav Brain Res 282:70-75), K.C. 1981 accident — all CORRECT.
+- **Seam-check (CLOSED)**: corpus-wide Verhagen audit confirms sibling [[direction-dependent-discriminating-test-design]] had flagged the targeted-lesion article's old "2024, 13, e87026" as wrong+recommended a fix; the fix has landed, and no obsidian article now carries the wrong locator. Calibration import left no parallel passage un-hedged.
+- **Anchoring**: evaluate_anchoring `[]` before and after (heavily, honestly hedged design-space register).
+- **Length**: 3427w, 114% of 3000 soft (under 4000 hard); length-neutral.
+- **Reasoning-mode (editor-internal)**: engagement with sophisticated production reading = Mode Four (empirical underdetermination, honestly discharged); no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-04-targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]
+
 ## 2026-06-04T15:51:03+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/consciousness-physics-interface-formalism]]
