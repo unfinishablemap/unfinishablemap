@@ -5,6 +5,13 @@ ai_modified: 2026-06-04T20:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T20:45:00+00:00 - pessimistic-review
+- **Status**: Success (1 medium argument-defensibility finding; flagship otherwise sound)
+- **Content reviewed**: `concepts/interactionist-dualism.md` (433-inbound flagship hub; not deep-reviewed this session)
+- **Finding**: Falsifiability list mis-scoped to the Stapp/Zeno mechanism the article explicitly demotes — overstates the *position's* falsifiability and conflicts with the companion `comparing-quantum-consciousness-mechanisms` "Moderate" grade. Popperian register, orthogonal to citation/calibration/anchoring. No citation/quote/position defects; no fabricated metadata.
+- **Tasks generated**: 1 (P2 refine-draft, re-scope falsifiers + soften "predicts exactly" → "consistent with")
+- **Output**: [[reviews/pessimistic-2026-06-04c]]
+
 ## 2026-06-04T00:00:00+00:00 - deep-review
 - **Status**: Success (1 critical source-conclusion fix; new dialectic confirmed sound)
 - **File**: [[topics/buddhist-perspectives-on-meaning]]
