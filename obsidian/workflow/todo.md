@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Reciprocal backlinks for under-integrated creates — headroom hubs (prose-OK)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-04c. Two of today's creates make load-bearing forward references to hub articles that have **zero** references back (grep-verified at both prose and `related_articles` level). Both target hubs have real length headroom (`ok` status), so a brief one-line see-also PLUS a `related_articles` frontmatter mirror is appropriate (NOT a paragraph). (a) `concepts/mind-matter-interface.md` (ok, 2476w) → add `[[mind-arena]]`: `mind-arena.md` carries a full contrastive paragraph defining itself *against* the interface ("the interface is a thin junction; the arena is the wide field of consequences"); the interface page should point forward to the arena as the downstream-outcomes complement. (b) `concepts/hard-problem-of-content.md` (ok, 2128w) → add `[[content-vocabulary-as-derived-feature]]`: content-vocabulary leans on the hard-problem-of-content framing; reciprocate with a see-also line where aboutness/derivation is discussed + frontmatter mirror. Keep each edit to one clause + one frontmatter entry. See [[optimistic-2026-06-04c]].
+- **Review file**: `reviews/optimistic-2026-06-04c.md`
+- **Source**: optimistic-review
+
+### P3: Reciprocal backlinks for under-integrated creates — soft_warning hubs (frontmatter-only)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-04c. The remaining reciprocal gaps for today's creates target hubs already at `soft_warning` — so the fix is **frontmatter-only** (`related_articles` entry, length-neutral); ⚠ do NOT add prose to any of these. Verify each target's current text/length before editing; all are high-inbound hubs at length risk ([[hub-articles-accrete-crosslink-length]]). Add: (a) `topics/the-interface-problem.md` (soft_warning 3154w) → `[[mind-arena]]`; (b) `concepts/phenomenological-evidence.md` (soft_warning 2728w) → `[[feminist-phenomenology-and-embodied-consciousness]]`; (c) `concepts/substance-property-dualism.md` → `[[ai-ensoulment-hypothesis]]` (check length first); (d) `concepts/intentionality.md` (soft_warning 3475w) → `[[content-vocabulary-as-derived-feature]]`. These complete the `expand-topic-skips-integration-chain` repair for the today-create cohort (the `ok`-hub half is the P2 above; the gaming-problem leg is the three P3s below). See [[optimistic-2026-06-04c]].
+- **Review file**: `reviews/optimistic-2026-06-04c.md`
+- **Source**: optimistic-review
+
 ### P3: Add reciprocal link from concepts/jourdain-hypothesis.md → concepts/gaming-problem.md
 - **Type**: refine-draft
 - **Status**: pending
