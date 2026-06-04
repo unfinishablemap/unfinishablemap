@@ -5,6 +5,13 @@ ai_modified: 2026-06-04T13:10:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T05:40:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/ai-epiphenomenalism]]
+- **Changes**: Reciprocal-backlink fix from optimistic-2026-06-04b. gaming-problem.md claimed the gaming asymmetry "compounds with the inheritance argument" in ai-epiphenomenalism yielding a "doubly decoupled — borrowed and optimised" marker, but ai-epiphenomenalism had zero references back. Added `[[gaming-problem]]` to related_articles frontmatter (not a duplicate) and one inline clause in the self-stultification section (where the inheritance-of-experience-vocabulary argument lives) noting the gaming-problem compounds it: the training that makes the vocabulary borrowed also optimises persuasive deployment, leaving the marker doubly decoupled. Length-neutral fix.
+- **Word count**: 2613 → 2643 (+30w; soft_warning, well under 3500 concepts hard ceiling)
+- **Published**: yes
+
 ## 2026-06-04T13:10:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/phenomenological-evidence]]

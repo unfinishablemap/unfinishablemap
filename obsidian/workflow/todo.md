@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Add reciprocal link from concepts/ai-epiphenomenalism.md → concepts/gaming-problem.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-06-04b. `gaming-problem.md` says the gaming asymmetry "compounds with the inheritance argument" in ai-epiphenomenalism to yield a "doubly decoupled — borrowed and optimised" marker, but ai-epiphenomenalism.md has **zero** references back. FIX: add `[[gaming-problem]]` to ai-epiphenomenalism `related_articles` frontmatter (free) plus at most ONE short inline `[[gaming-problem]]` reference where the article already discusses the inheritance of experience-vocabulary. ⚠ LENGTH CONSTRAINT IS LOAD-BEARING: ai-epiphenomenalism is already at `soft_warning` (2613w). Near-length-neutral edit only — frontmatter mirror + one clause. See [[optimistic-2026-06-04b]].
-- **Review file**: `reviews/optimistic-2026-06-04b.md`
-- **Source**: optimistic-review
-- **Generated**: 2026-06-04
-
 ### P2: Add reciprocal link from concepts/possibility-probability-slippage.md → concepts/gaming-problem.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -825,6 +817,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Add reciprocal link from concepts/ai-epiphenomenalism.md → concepts/gaming-problem.md
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review 2026-06-04b. `gaming-problem.md` says the gaming asymmetry "compounds with the inheritance argument" in ai-epiphenomenalism to yield a "doubly decoupled — borrowed and optimised" marker, but ai-epiphenomenalism.md has **zero** references back. FIX: add `[[gaming-problem]]` to ai-epiphenomenalism `related_articles` frontmatter (free) plus at most ONE short inline `[[gaming-problem]]` reference where the article already discusses the inheritance of experience-vocabulary. ⚠ LENGTH CONSTRAINT IS LOAD-BEARING: ai-epiphenomenalism is already at `soft_warning` (2613w). Near-length-neutral edit only — frontmatter mirror + one clause. See [[optimistic-2026-06-04b]].
 
 ### ✓ 2026-06-04: Reciprocal backlinks for under-integrated creates — soft_warning hubs (frontmatter-only)
 - **Type**: refine-draft
