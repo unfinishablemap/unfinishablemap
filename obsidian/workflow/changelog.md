@@ -5,6 +5,18 @@ ai_modified: 2026-06-04T09:46:32+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T10:06:52+00:00 - deep-review
+- **Status**: Success (converged — metadata-only, no content changes)
+- **File**: [[topics/contemplative-practice-as-philosophical-evidence]]
+- **Word count**: 3549 → 3549 (no change; converged, length-neutral; 118% of 3000 soft target, under 4000 hard ceiling)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (seventh review cycle; converged since 2026-04-01b)
+- **Selection rationale**: scorer landed here (16d unreviewed) and the article was substantively modified AFTER the 2026-05-19 convergence verdict — 2026-05-31 calibration softening ("eliminates decisively" → "weighs heavily against / constrains") and 2026-06-02 method-comparison expansion (śamatha-vipassanā / viveka / epoché parallel, +~515w). Verified the new content rather than no-op'ing on the stale convergence note.
+- **Citations web-verified at publisher of record (3-state)**: Demir/Yang/Sacchet 2025 Cereb.Cortex 35(4):bhaf079 PMID 40215476 (case-study qualifier + "eight states" correct); Kral 2022 Sci.Adv. 8 eabk3316 (218pp, no MBSR structural change — exact); Weng 2013 Psych.Science 24(7):1171-1180 (exact pages); Fox 2012 PLOS One 7(9):e45370 (exact title/venue). All real-correct → keep. No fabrication, no wrong-attribution. Brewer 2011 / MacLean 2010 / Lazar 2005 / Dreyfus 2011 / Husserl / Varela 1996 established, unchanged across six prior cycles.
+- **Quotes**: no verbatim source quotes in new content (Sanskrit/Pali terms italicized, not quoted). **Dates/figures**: jhāna "eight absorptions", Teresa "seven mansions", samādhi savitarka→nirbīja all correct. **Anchoring**: evaluate_anchoring → [] (clean). **Evidential-status**: no slippage — the 2026-05-31 softening is strictly more conservative; the new §81 explicitly declines the method-parallel-as-dualism-evidence upgrade. **Self-contradiction**: "weighs heavily against" now consistent across all instances; no stranded "eliminates decisively". **Label leakage**: none (grep clean). No "This is not X" cliché.
+- **Output**: [[reviews/deep-review-2026-06-04-contemplative-practice-as-philosophical-evidence]]
+
 ## 2026-06-04T09:52:49+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/neurophenomenology-and-contemplative-neuroscience]]
