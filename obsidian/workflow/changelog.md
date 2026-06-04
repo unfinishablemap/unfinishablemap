@@ -5,6 +5,20 @@ ai_modified: 2026-06-04T16:05:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T16:21:13+00:00 - deep-review
+- **Status**: Success (converged — license-to-no-op)
+- **File**: [[topics/comparative-phenomenology-of-meditative-traditions]]
+- **Word count**: 3167 → 3167 (no body change; 106% of 3000 topic soft, under 4000 hard)
+- **Trigger**: changed-since-review staleness (6th review; last_deep_review 05-19, ai_modified 06-03, ~15d)
+- **Diff-scoping**: new own-content since 5th review = Neoplatonist transmission verdict (Advaita as cleanest-isolation case), Sino-Indian *zuowang*-vipassana flag, three realism-bounding paragraphs (cessation-vs-plenitude + witness-status as divergence-side evidence), stronger heterophenomenology form, deflationist bare-presence-marker rejoinder + Madhyamaka concession; rest is condense/refine tightening
+- **Web-verify (meditation/contemplative-science class, all CORRECT at publisher)**: Laukkonen 2023 (Progress in Brain Research 280:61–87), Varela 1996 (JCS 3(4):330–349), Lutz et al. 2007 (Cambridge Handbook of Consciousness, Zelazo/Moscovitch/Thompson eds.), Katz 1978 (OUP). Source-conclusion check clean — no fMRI/EEG study cited for a finding it doesn't draw. Historical claims verified: Mahayana→China 2nd–4th c. via Silk Road (Lokakṣema c.164–186 CE), Chan/Daoist *wu-wei* synthesis by Tang
+- **Phenomenology-calibration**: tradition-attributions appropriately scoped; Madhyamaka reading attributed to the tradition's own register, not a Western gloss
+- **Calibration/slippage**: NONE — new content runs opposite to slippage (narrows realism to "what traditions agree on", names divergences Pre-Kepler-stage per evidential-status-discipline, scopes Bidirectional Interaction to phenomenological-correlation register)
+- **Reasoning-mode**: deflationist = Mode Three ("framework-boundary disagreement, not in-framework refutation"); Dennett heterophenomenology = Mode Three/Mixed (evidence "does not fully discriminate"); Madhyamaka = Mode Three friendly-rival. Label-leakage scan: clean
+- **Anchoring**: evaluate_anchoring → [] (no flags)
+- **Critical issues addressed**: 0 | **Medium**: 0 | **Enhancements**: 0 (CONVERGED, timestamps only)
+- **Output**: [[reviews/deep-review-2026-06-04-comparative-phenomenology-of-meditative-traditions]]
+
 ## 2026-06-04T16:25:00+00:00 - deep-review
 - **Status**: Success (converged — license-to-no-op)
 - **File**: [[concepts/cross-mechanism-convergence]]
