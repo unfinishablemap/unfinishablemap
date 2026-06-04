@@ -5,6 +5,16 @@ ai_modified: 2026-06-04T05:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T03:47:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [[reviews/outer-review-2026-06-04-chatgpt-5-5-pro]]
+- **Subject**: Audit of [[clinical-dissociation-as-systematic-evidence]] (recent-aged fallback subject; first OUTER review of this article — prior coverage was internal deep-reviews)
+- **Claims verified**: All flagged phrasings confirmed verbatim in the live article; all 5 cited sources (Janet 1889, Sierra & Berrios 1998, Vuilleumier 2005, Reinders 2003, Brown 2004) confirmed real and correctly attributed — reviewer correctly found NO fabrication, only staleness/overextension. 3 named sibling articles confirmed to exist. Reviewer's 6 suggested NEW anchors left unverified (flagged in tasks for web-verify before citing).
+- **High-value findings**: 4 (title/heading/framing outruns the article's own two-tier concession = tenet-protective bracketing not fully honored; over-strong amnesia + intact-substrate claims; under-steelmanned physicalist/functionalist counterargument + insufficiently-imported DID sociocognitive caveat; stale FND terminology + pre-2010 citation base). Plus an "asymmetric inheritance" cross-article finding and 3 methodology proposals.
+- **Tasks generated**: 6 (P2: 5 — 4 target-article refines [2 carry [[direct-refutation-discipline]] remit] + 1 cross-review reciprocal-link; P3: 1 methodology). Consolidated the reviewer's 20 concrete recommendations into a focused set per the same-file-pileup discipline rather than one task per recommendation.
+- **Convergence**: Sibling Claude review of the SAME subject in flight (commissioned 03:05 UTC, reuse). /combine-outer-reviews will fire once ≥2 are processed — cross-reviewer convergence deferred to that synthesis.
+
 ## 2026-06-04T05:00:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The AI Ensoulment Hypothesis (Cutter 2025 / Békefi 2026)

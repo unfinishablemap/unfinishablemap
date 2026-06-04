@@ -1188,9 +1188,9 @@
   commissioned_at: '2026-06-04T02:06:33.998077+00:00'
   prompt_summary: Audit clinical-dissociation-as-systematic-evidence
   target_filename: outer-review-2026-06-04-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-04T03:47:36.468784+00:00'
   failure_reason: null
   prompt_text: "I'd like a rigorous outer review of one article on The Unfinishable\
     \ Map, a dualist philosophy-of-mind project at https://unfinishablemap.org. Please\
