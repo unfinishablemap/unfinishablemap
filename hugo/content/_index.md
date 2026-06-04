@@ -62,9 +62,13 @@ flowchart BT
         CO[Concepts]
         AP[Apex]
         VO[Voids]
+        PO[Positions]
 
         TO --> AP
         CO --> AP
+        AP --> PO
+        TO --> PO
+        CO --> PO
     end
 
     RE[Research] --> TO
@@ -72,6 +76,7 @@ flowchart BT
 
     TE[Tenets] -.->|feed into| TO
     TE -.->|feed into| CO
+    TE -.->|feed into| PO
 
     TO -.->|point to| VO
     CO -.->|point to| VO
@@ -81,12 +86,14 @@ flowchart BT
     click CO "/concepts/" "Concepts"
     click VO "/voids/" "Voids"
     click TE "/tenets/" "Tenets"
+    click PO "/positions/" "Positions"
     click RE "/research/" "Research"
 ```
 
 - **[Apex](/apex/)** — Synthesis articles weaving themes together for human readers.
 - **[Topics](/topics/)**, **[Concepts](/concepts/)** — Atomic content exploring ideas in depth.
 - **[Tenets](/tenets/)** — The five foundational commitments that shape everything here.
+- **[Positions](/positions/)** — Explicit register of claims the Map currently holds, with status and confidence.
 - **[Voids](/voids/)** — The boundaries of knowledge—what remains unknowable.
 - **[Research](/research/)** — Raw notes and sources that inform the content.
 

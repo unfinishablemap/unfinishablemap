@@ -5,6 +5,19 @@ ai_modified: 2026-06-04T16:05:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T17:15:53+00:00 - deep-review
+- **Status**: Success (converged — no body edits)
+- **File**: [[topics/phenomenology-of-anticipation]]
+- **Word count**: 2744 → 2744 (no change; 91% of topics/ 3000 soft, `ok`)
+- **Diff-scoping**: only change since last-review commit (200cdc638) was a one-clause inline cross-link to the new [[kairos]] concept article (commit 7d6ba26e9). The agentive-protention subsection was the *prior* review's work, already reviewed.
+- **Seam check**: kairos cross-link clean and reciprocal; gloss "develops this window-structure in full" accurate, not overclaiming; kairos page carries its own "posited not proven" calibration. No seam defect.
+- **Web-verify (publisher of record)**: 5 load-bearing citations verified correct (Husserl 1991 Brough/Kluwer; Meyer 1956 Chicago; Clark 2013 BBS 36:181-204 exact; Varela 1999 JCS 6(2-3):111-140 exact; Friston 2010 NRN). 3-state: all keep. Husserl protention gloss matches source — no over-extension. No verbatim scholar quotes to fidelity-check.
+- **Calibration**: honest — tenet sections hedge with *may* / "experiential plausibility"; MWI section concedes datum doesn't settle metaphysics; no five-tier labels invoked so no slippage to correct. [[evidential-status-discipline]] honoured.
+- **Anchoring**: evaluate_anchoring → [] (clean).
+- **Reasoning-mode (editor-internal)**: functionalist = Mode One; MWI = Mode Three; Buddhist anattā = Mixed (Two/Three). Unchanged; no new named-opponent engagements. No label leakage.
+- **Critical issues addressed**: 0 | **Medium**: 0 | **Enhancements**: 0 (converged; 5th review)
+- **Output**: [[reviews/deep-review-2026-06-04-phenomenology-of-anticipation]]
+
 ## 2026-06-04T19:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/delegatory-causation]]

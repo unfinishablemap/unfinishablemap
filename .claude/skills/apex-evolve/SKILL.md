@@ -23,6 +23,8 @@ Build and maintain apex articles through creation, evolution, and length managem
 /apex-evolve check
 ```
 
+Apex articles come in two shapes: **synthesis** (the default — weaving sources together into a coherent narrative) and **applied** (decision-oriented — given the positions the Map holds, what follows for a specific real-world context). The shape is recorded in the frontmatter field `apex_type: synthesis | applied` (default `synthesis` if absent) and listed in `obsidian/apex/apex-articles.md`. The 10-step evolution process below applies to both; the **Applied Discipline** section below adds extra requirements for applied apex.
+
 ## Modes
 
 ### Mode 1: `create`
@@ -92,12 +94,20 @@ ai_generated_date: 2026-01-24
 last_curated: null
 
 # Apex-specific fields
+apex_type: synthesis  # or "applied" for decision-oriented apex
 apex_sources:
   - topics/free-will
   - topics/agent-causation
   - concepts/mental-causation
 apex_last_synthesis: 2026-01-24T00:00:00+00:00
 apex_thesis: "One-sentence thesis statement"
+
+# Applied-apex only:
+apex_decision_context: "AI consciousness assessment"  # what real-world domain this informs
+apex_positions_cited:  # the positions the decision turns on; ≥3 required
+  - P-Q1
+  - P-Q2
+  - P-Q9
 ---
 ```
 
@@ -288,3 +298,25 @@ This ensures apex articles stay current without manual tracking.
 - **Condense actively**: Evolution must maintain length discipline; don't let articles grow unbounded
 - **Link extensively**: Apex articles are synthesis—they should link heavily to source articles
 - **Preserve thesis**: Each apex article has a thesis; edits should strengthen it, not dilute it
+
+---
+
+## Applied Discipline (for `apex_type: applied` articles)
+
+Applied apex articles take a decision-relevant context (assessing AI consciousness, clinical-interface ethics, personal philosophy under the Map, etc.) and produce a verdict the Map's framework supports. They are subject to extra discipline beyond synthesis apex:
+
+1. **Cite ≥3 positions**. The `apex_positions_cited` frontmatter field must list at least three position IDs from `obsidian/positions/`. The body should reference them explicitly: "On position P-Q1, the Map holds…" or similar. Without explicit position citation, an applied apex is just an opinion piece.
+
+2. **Surface confidence**. When the article's verdict turns on a position, surface that position's confidence band in-prose, not buried in the frontmatter. A reader should be able to see what the verdict turns on and how confidently. Example: "This verdict depends on P-Q9 (moderate confidence) — were the self-concealing-interface argument to weaken, the implication for AI assessment shifts."
+
+3. **"What this implies for decisions" section**. Required, named exactly that. Two-to-five concrete implications, each stated as a recommendation or evaluation the reader could act on or apply. Not a summary; an output.
+
+4. **Name the decision context**. The `apex_decision_context` frontmatter field is required. The opening paragraph should name the decision context explicitly: "This piece addresses how to assess putative consciousness in current AI systems, given the Map's positions on…"
+
+5. **Honest verdict scope**. Distinguish what the Map's positions actually license from what they merely permit. An applied apex must not over-extend the Map's commitments. If the positions support only a partial verdict, say so; if they leave a decision underdetermined, name the residual uncertainty.
+
+6. **Cascade tagged**. When an applied apex relies on positions whose confidence might shift, note in the body: "If position P-XN is retired or downgraded, this verdict on [aspect] would need re-evaluation." This makes the applied piece self-flagging when positions change.
+
+Applied apex articles are deliberately rare — the goal is 8–15 across the corpus, not 30+. Each one should answer a question a reader would actually ask of the Map.
+
+When creating or evolving an `apex_type: applied` article, run the synthesis 10-step process *and* verify the six points above are satisfied before publishing.

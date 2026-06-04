@@ -35,6 +35,7 @@ class TaskType(Enum):
     COALESCE = "coalesce"
     INTEGRATE_ORPHAN = "integrate-orphan"
     APEX_EVOLVE = "apex-evolve"
+    POSITIONS_EVOLVE = "positions-evolve"
     OTHER = "other"
 
 

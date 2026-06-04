@@ -76,6 +76,7 @@ for w in summary['worst_offenders'][:5]:
 | topics/ | 3000 | 4000 | 6000 |
 | apex/ | 4000 | 5000 | 6500 |
 | voids/ | 2000 | 3000 | 4000 |
+| positions/ | 1500 | 2500 | 4000 |
 
 Report critical and hard warnings. Note soft warnings only if concerning trend.
 

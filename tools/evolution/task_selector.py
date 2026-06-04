@@ -84,6 +84,7 @@ EXECUTABLE_TASK_TYPES = {
     TaskType.CROSS_REVIEW,
     TaskType.INTEGRATE_ORPHAN,
     TaskType.APEX_EVOLVE,
+    TaskType.POSITIONS_EVOLVE,
 }
 
 
@@ -246,6 +247,16 @@ def task_to_skill(task: Task) -> SkillInvocation:
         if task.notes:
             args = f"{args}\n\nTask context:\n{task.notes}"
         return SkillInvocation("apex-evolve", args)
+
+    elif task_type == TaskType.POSITIONS_EVOLVE:
+        # positions-evolve tasks: extract mode + target from title.
+        # Patterns: "positions-evolve add <claim>", "positions-evolve update P-XN",
+        # "positions-evolve retire P-XN", "positions-evolve audit".
+        # Fallback: pass full title + notes as context for the skill to parse.
+        args = task.title
+        if task.notes:
+            args = f"{args}\n\nTask context:\n{task.notes}"
+        return SkillInvocation("positions-evolve", args)
 
     elif task_type == TaskType.OTHER:
         # OTHER is explicitly unsupported - tasks must have a specific type

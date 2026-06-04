@@ -223,7 +223,8 @@ The Map includes scheduled AI automation for content development. All AI-generat
 | `/combine-outer-reviews` | Synthesize all same-date outer reviews into one convergence report; upgrade priority of issues flagged by ≥2 reviewers and deduplicate matching tasks. Fires once per cycle when all entries are resolved and ≥2 are processed. | Yes (creates synthesis file, rewrites todo.md tasks) |
 | `/coalesce` | Combine multiple related articles into one unified piece. Archives originals to preserve URLs. | Yes (creates, archives) |
 | `/archive` | Archive an article while preserving its URL for external links. | Yes (moves to archive) |
-| `/apex-evolve` | Build and maintain apex articles—human-readable synthesis pieces. | Yes (creates, modifies) |
+| `/apex-evolve` | Build and maintain apex articles—human-readable synthesis pieces. Supports `applied` mode for decision-oriented apex (must cite ≥3 positions, must have "What this implies for decisions" section). | Yes (creates, modifies) |
+| `/positions-evolve` | Maintain the positions register at `obsidian/positions/`: add / update / retire / audit explicit claims the Map currently holds. Confidence-banded; retire-don't-delete; audits for contradictions, broken deps, orphan positions. | Yes (creates, modifies positions) |
 | `/agent-commit` | Analyze changes and create a meaningful commit with agent authorship. Internal skill for evolve_loop. | Yes (git only) |
 | `/embed-videos` | Embed published YouTube videos from sibling `../auto_unfin` repo into matching Obsidian articles. Idempotent. Runs every cycle. | Yes (obsidian source) |
 | `/literature-drift-review` | Audit one topic article per run for stale citations against the live 2020s literature. Weekly Tuesday 05:00 UTC. One WebSearch call per run. Audit One of `project/calibration-audit-triple.md`. | Yes (todo.md, state, changelog) |
@@ -263,6 +264,7 @@ Tasks are managed in `obsidian/workflow/todo.md`:
 | `condense` | Reduce article length while preserving value | No |
 | `integrate-orphan` | Add inbound links to orphaned files | No |
 | `apex-evolve` | Create or update apex articles | No |
+| `positions-evolve` | Add / update / retire / audit positions register entries | No |
 
 **Do NOT use `other` as a task type.** The evolution loop cannot execute `other` tasks and will error. Use `refine-draft` as the default for content modifications that don't fit another type.
 

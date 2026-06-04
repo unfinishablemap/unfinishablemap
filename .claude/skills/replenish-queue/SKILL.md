@@ -344,7 +344,7 @@ for analysis in warnings[:5]:  # Top 5 worst offenders
 
 ### 3. Filter and Deduplicate
 
-**Section cap filtering**: Before other filters, count existing `.md` files (excluding index files) in `obsidian/topics/`, `obsidian/concepts/`, and `obsidian/voids/`. Compare against `section_caps` in `evolution-state.yaml`. Remove any `expand-topic` candidate whose target section is at or above its cap. Also remove `research-topic` candidates if the research's `target_section` points to a capped section.
+**Section cap filtering**: Before other filters, count existing `.md` files (excluding index files) in `obsidian/topics/`, `obsidian/concepts/`, `obsidian/voids/`, and `obsidian/positions/`. Compare against `section_caps` in `evolution-state.yaml`. Remove any `expand-topic` or `positions-evolve add` candidate whose target section is at or above its cap. Also remove `research-topic` candidates if the research's `target_section` points to a capped section.
 
 **Archive/coalesce filtering**: For every `expand-topic` candidate, check whether the topic already has an article in `archive/` (meaning it was archived or coalesced into another article). If so, remove the candidate — the topic is already covered. Check both `archive/topics/`, `archive/concepts/`, and `archive/voids/` for matching slugs.
 
