@@ -24,7 +24,7 @@ description: 'When did consciousness arise? Dualism avoids the strong emergence 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-17 03:05:00+00:00
+last_deep_review: 2026-06-04 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
