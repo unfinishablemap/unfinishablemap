@@ -1,6 +1,6 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-05-15 23:32:00+00:00
+ai_modified: 2026-06-04 00:57:14+00:00
 ai_system: claude-opus-4-7
 concepts:
 - '[[introspection]]'
@@ -146,11 +146,11 @@ The [introspection-architecture independence scoring exhibit](/topics/introspect
 - **Key points**:
   - Thought-injection paradigm: steering vectors representing specific concepts injected into the residual stream of Claude models; model asked to detect and identify
   - Claude Opus 4 and 4.1 achieve ~20% introspection rate with 0% false positives
-  - Cross-model-family replication (Vogel 2025, Qwen2.5-Coder-32B)
+  - Cross-model-family replication (Hahami, Jain & Sinha 2025, Qwen2.5-Coder-32B)
   - Introspection adapters (Anthropic 2026) extend to four out-of-distribution model families
-  - Vogel 2025 ("Feeling the Strength but Not the Source: Partial Introspection in LLMs"): LLMs detect the *strength* of injected thoughts but not their *source* — a direct architectural parallel to source-attribution-void
+  - Hahami, Jain & Sinha 2025 ("Feeling the Strength but Not the Source: Partial Introspection in LLMs"): LLMs detect the *strength* of injected thoughts but not their *source* — a direct architectural parallel to source-attribution-void
 - **Tenet alignment**: Neutral, but with deep methodological promise. LLMs do not share a substrate with humans; the cross-architecture parallel is the maximal distance available to current science.
-- **Significance for cluster**: This is the most important finding for the article. The cross-architecture channel via LLMs has properties the cross-species-via-animals channel lacks: (a) LLMs produce self-reports, removing the principled obstacle the topic article names; (b) interpretability gives independent ground truth, allowing direct comparison of report-to-substrate; (c) the architecture is *radically* different from biological introspection — distance an order of magnitude greater than the rodent-primate distance. The Vogel "strength but not source" paper is a *structural parallel to source-attribution-void* derived in silicon, with mechanistic-interpretability ground truth.
+- **Significance for cluster**: This is the most important finding for the article. The cross-architecture channel via LLMs has properties the cross-species-via-animals channel lacks: (a) LLMs produce self-reports, removing the principled obstacle the topic article names; (b) interpretability gives independent ground truth, allowing direct comparison of report-to-substrate; (c) the architecture is *radically* different from biological introspection — distance an order of magnitude greater than the rodent-primate distance. The Hahami et al. "strength but not source" paper is a *structural parallel to source-attribution-void* derived in silicon, with mechanistic-interpretability ground truth.
 
 ### Birch (2024): The Edge of Sentience
 
@@ -191,13 +191,13 @@ The [introspection-architecture independence scoring exhibit](/topics/introspect
 
 ### Position 3: Cross-Architecture-via-LLMs is the Substantive Channel
 
-- **Proponents**: Implicit in Lindsey et al. 2025-26, Vogel 2025, Anthropic interpretability programme
+- **Proponents**: Implicit in Lindsey et al. 2025-26, Hahami, Jain & Sinha 2025, Anthropic interpretability programme
 - **Core claim**: The right cross-architectural test for the introspection-architecture cluster is not non-human animals (whose substrate is too similar to human) but artificial systems with maximally different substrates. LLMs produce reports, allow mechanistic ground-truthing, and show structural parallels (notably the "strength but not source" finding) to the cluster's signatures.
 - **Key arguments**:
   - LLM substrate (transformer residual stream, attention heads) is architecturally remote from biological neural substrate
   - Self-report is available — removing the principled obstacle
   - Interpretability gives independent measurement of internal state, allowing direct test of report-vs-mechanism discrepancy
-  - "Strength but not source" finding (Vogel 2025) is a structural parallel to source-attribution-void produced by a system whose generating framework (transformer next-token prediction) did not predict it — *despite-commitments* by construction
+  - "Strength but not source" finding (Hahami, Jain & Sinha 2025) is a structural parallel to source-attribution-void produced by a system whose generating framework (transformer next-token prediction) did not predict it — *despite-commitments* by construction
 - **Relation to site tenets**: The Map's [ai-consciousness](/topics/ai-consciousness/) and [machine-consciousness](/topics/machine-consciousness/) articles already maintain neutrality about AI consciousness. The cross-architecture-via-LLMs reading does not claim LLMs are conscious; it claims their introspective architecture, whatever its phenomenology, exhibits the cluster's signature, and the architectural distance is the strongest cross-observer triangulation available.
 
 ## Key Debates
@@ -238,7 +238,7 @@ The [introspection-architecture independence scoring exhibit](/topics/introspect
 | 2024 | Birch *The Edge of Sentience* | Precautionary framework acknowledges introspection-unavailability |
 | 2024-25 | Clayton lab scrub-jay revisit | Strengthens corvid episodic-like-memory evidence |
 | 2025 | Lindsey et al. emergent introspective awareness in LLMs | Opens cross-architecture-via-LLMs channel |
-| 2025 | Vogel "Feeling the strength but not the source" | LLM analogue of source-attribution-void |
+| 2025 | Hahami, Jain & Sinha "Feeling the strength but not the source" | LLM analogue of source-attribution-void |
 | 2026 | Anthropic introspection adapters across model families | Extends LLM introspection evidence across architectures |
 
 ## Potential Article Angles
@@ -249,7 +249,7 @@ The article would catalogue Kepecs, Hampton, Smith, Crystal, and Clayton work; s
 
 ### Angle 2: Replacing Cross-Species with Cross-Architecture (via LLMs)
 
-The article would argue that the principled obstacle the topic article names (animals do not produce reports) is fatal for the *despite-commitments via animals* reading, but is *not* fatal for the cross-architecture channel as such — because LLMs both produce reports and have radically distant substrate. The cross-architecture channel via Lindsey 2025-26 and Vogel 2025 would be argued to satisfy the framework-independence and substrate-distance conditions better than cross-species via animals. The article would explicitly *redirect* the channel from biological to artificial systems.
+The article would argue that the principled obstacle the topic article names (animals do not produce reports) is fatal for the *despite-commitments via animals* reading, but is *not* fatal for the cross-architecture channel as such — because LLMs both produce reports and have radically distant substrate. The cross-architecture channel via Lindsey 2025-26 and Hahami, Jain & Sinha 2025 would be argued to satisfy the framework-independence and substrate-distance conditions better than cross-species via animals. The article would explicitly *redirect* the channel from biological to artificial systems.
 
 ### Angle 3: Both Channels are Framework-Shaped (Sceptical Resolution)
 
@@ -268,7 +268,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - **No animal analogue of choice-blindness or moral dumbfounding**: animals cannot produce the kind of report whose generation-without-cause is the confabulation-void signature. The Generation face of confabulation-void is *structurally* untestable in non-verbal animals.
 - **The Le Pelley critique's current empirical status**: I found references to the 2012 critique and 2010s methodological responses but no clean 2020s resolution. A targeted literature search on whether Crystal's improved paradigms have fully closed the associative-learning loophole would refine the despite-commitments scoring.
 - **Carruthers's 2021 paper on model-free metacognition**: only the abstract was visible; the full argument's implications for the cluster's framework-independence score require closer reading.
-- **The Vogel 2025 "strength but not source" paper**: only the abstract reached the search results. Confirming that the structural parallel to source-attribution-void survives close reading is the single most important verification before the article goes to draft.
+- **The Hahami, Jain & Sinha 2025 "strength but not source" paper**: only the abstract reached the search results. Confirming that the structural parallel to source-attribution-void survives close reading is the single most important verification before the article goes to draft.
 - **Whether Anthropic's introspection-adapter work generalises across non-Anthropic-derived architectures**: the abstract mentions four OOD model families but I did not retrieve the full paper. Cross-family generalisation is what licenses the cross-architecture channel claim.
 - **Bayne, Frith & Cleeremans, and related global-workspace / higher-order theory work**: the topic article cites global-workspace theory as part of the framework-independence criterion. A targeted search on whether GWT/HOT predictions about cross-species and cross-architecture introspection have been tested would strengthen the framework-independence scoring.
 
@@ -293,7 +293,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 17. Plotnik, J. M., de Waal, F. B. M. & Reiss, D. (2006). Self-recognition in an Asian elephant. *PNAS* 103(45): 17053-17057.
 18. Smith, J. D., Couchman, J. J. & Beran, M. J. (2014). Animal metacognition: A tale of two comparative psychologies. *Journal of Comparative Psychology* 128(2): 115-131. https://pmc.ncbi.nlm.nih.gov/articles/PMC3929533/
 19. Smith, J. D. et al. (2021). Rats use memory confidence to guide decisions. *Current Biology* 31(20): 4571-4578. https://www.sciencedirect.com/science/article/pii/S0960982221011179
-20. Vogel, T. (2025). Feeling the strength but not the source: Partial introspection in LLMs. *arXiv* 2512.12411. https://arxiv.org/html/2512.12411v1
+20. Hahami, E., Jain, L., & Sinha, I. (2025). Feeling the strength but not the source: Partial introspection in LLMs. *arXiv* 2512.12411. https://arxiv.org/html/2512.12411v1
 
 ## Sources
 

@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix wrong-author misattribution in voids/mood-void.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Source**: pessimistic-review
-- **Generated**: 2026-06-04
-- **Notes**: Pessimistic review (pessimistic-2026-06-04-mood-void.md) web-verified a citation defect. The paper "The Intentional Structure of Moods" (*Philosophers' Imprint* 19:49, 2019) — quoted verbatim at line 40 ("happy glows or somber shadows...") and listed as reference 4 — is by **Uriah Kriegel**, NOT Jonathan Mitchell. The PDF URL in ref 4 resolves to the Kriegel paper; the quote is correctly transcribed. Jonathan Mitchell's 2019 mood paper is a DIFFERENT work ("The Intentionality and Intelligibility of Moods," *Eur. J. Philosophy* 27(1):118-135). 3-STATE: real-paper / WRONG-author → FIX, not delete. FIX (length-neutral): line 40 "Jonathan Mitchell (2019)" → "Uriah Kriegel (2019)"; ref 4 "Mitchell, J. (2019)." → "Kriegel, U. (2019)." Leave title/venue/quote/URL unchanged (all correct for Kriegel). Article is at soft_warning (2437/3000) — do NOT expand; this is a pure swap.
-
 ### P3: Reciprocity link concepts/pain-asymbolia.md → topics/phantom-limb-phenomena.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -556,14 +549,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-20
 - **Completed**: 2026-03-20
 
-### P2: Deep review phenomenal-presence-void.md
-- **Type**: deep-review
-- **Status**: superseded
-- **Notes**: AI-generated content (ai_contribution: 100) created via coalesce on 2026-03-20, never reviewed. Coalesced from reality-feeling-void and the-givenness-void. Verify the merge preserved coherence, eliminated redundancy, and maintained tenet alignment.
-- **Source**: coalesce
-- **Generated**: 2026-03-20
-- **Superseded**: 2026-04-05 — phenomenal-presence-void.md was archived (coalesced into phenomenal-quality-void.md). Replaced by P3 deep review of phenomenal-quality-void.md above.
-
 ### ↑ RELOCATED 2026-06-01: Deep review meta-epistemology-of-limits.md
 - **Relocated** to the top of Active Tasks by /replenish-queue 2026-06-01 so the floor-restoring P2 is not LIFO-starved (the selector sorts by line_number ascending; a P2 buried ~1700 lines down behind ~470 P3s would never be picked — see queue-lifo-starvation). See the live task block at the top of Active Tasks.
 
@@ -954,6 +939,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Deep review phenomenal-presence-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created via coalesce on 2026-03-20, never reviewed. Coalesced from reality-feeling-void and the-givenness-void. Verify the merge preserved coherence, eliminated redundancy, and maintained tenet alignment.
+
+### ✓ 2026-06-04: Fix wrong-author misattribution in voids/mood-void.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (pessimistic-2026-06-04-mood-void.md) web-verified a citation defect. The paper "The Intentional Structure of Moods" (*Philosophers' Imprint* 19:49, 2019) — quoted verbatim at line 40 ("happy glows or somber shadows...") and listed as reference 4 — is by **Uriah Kriegel**, NOT Jonathan Mitchell. The PDF URL in ref 4 resolves to the Kriegel paper; the quote is correctly transcribed. Jonathan Mitchell's 2019 mood paper is a DIFFERENT work ("The Intentionality and Intelligibility of Moods," *Eur. J. Philosophy* 27(1):118-135). 3-STATE: real-paper / WRONG-author → FIX, not delete. FIX (length-neutral): line 40 "Jonathan Mitchell (2019)" → "Uriah Kriegel (2019)"; ref 4 "Mitchell, J. (2019)." → "Kriegel, U. (2019)." Leave title/venue/quote/URL unchanged (all correct for Kriegel). Article is at soft_warning (2437/3000) — do NOT expand; this is a pure swap.
 
 ### ✓ 2026-06-04: Address argumentative gaps in ai-consciousness.md
 - **Type**: refine-draft

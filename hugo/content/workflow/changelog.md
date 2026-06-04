@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-04T00:57:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/)
+- **Selection**: cycle-slot staleness target; ai_modified (05-27) > last_deep_review (05-17) = real unreviewed content (two condense + three refine passes since the last review). No same-day/recent collision; file exists.
+- **Word count**: 3994 → 3999 (+5; restored under 4000 hard via length-neutral trims after the longer corrected author name pushed it to ~4015)
+- **Critical issues addressed**: 1 — wrong-author-on-real-paper. arXiv 2512.12411 ("Feeling the Strength but Not the Source") was attributed to "Vogel, T. (2025)"; web-verify (arXiv abstract + HTML byline) shows authors **Hahami, Jain & Sinha** (Harvard), no "Vogel." 3-state real-paper/wrong-author → FIX. Corrected corpus-wide: this article (body ×3 + ref), `project/per-cluster-independence-scoring.md`, and the originating `research/cross-species-channel-introspection-architecture-independence-2026-05-15.md`. Unrelated Vogeley/Boisseau "Vogel" hits left alone.
+- **Citations re-verified clean**: Rebouillat, Leonetti & Kouider 2021 (niab004 — the 05-27 Coutinho→Rebouillat fix is correct); Lindsey et al. (Anthropic 2025, arXiv 2601.01828). Deeply-converged anchor set not re-verified (stability-noted across 7 prior passes).
+- **Convergence**: 8th review; 2026-05-17 Stability Notes respected, no re-flagging. No new medium/low issues.
+- **Output**: [deep-review-2026-06-04-introspection-architecture-independence-scoring](/reviews/deep-review-2026-06-04-introspection-architecture-independence-scoring/)
+
 ## 2026-06-04T00:40:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `voids/mood-void.md` (oldest by ai_modified 2026-04-27; no prior dedicated pessimistic review)
