@@ -4,7 +4,8 @@ description: "A calibration move developed through human-AI refinement: the cont
 created: 2026-06-04
 modified: 2026-06-04
 human_modified: null
-ai_modified: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-06-04T13:30:00+00:00
+last_deep_review: 2026-06-04T13:30:00+00:00
 draft: false
 topics: []
 concepts:

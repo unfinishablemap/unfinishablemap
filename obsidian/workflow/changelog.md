@@ -5,6 +5,16 @@ ai_modified: 2026-06-04T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T13:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/content-vocabulary-as-derived-feature]]
+- **Word count**: 1840 → 1840 (+0; clean no-op, fresh create audited clean)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (converged at creation; no filler added)
+- **Audit**: fresh-create-defect-tail (citation-REUSING). Web-verified Clark/Friston/Wilkinson 2019 "Bayesing Qualia" JCS 26(9-10):19-33 — REAL, metadata exact. Clark 2016 / Hutto-Myin 2017 / Searle 1992 canonical + match corpus refs. Internal quote to [[predictive-processing]] matches pred-proc.md:106 exactly. Anchoring `[]`. 5 reciprocal inbound links (not orphan). No editor-label leakage, no "not X/it is Y" cliché, no evidential-status slippage (only tier-word is a negative decline-the-upgrade construction). Engagement w/ PP: Mode Two + honest Mode Three residue, label-clean.
+- **Output**: [[reviews/deep-review-2026-06-04-content-vocabulary-as-derived-feature]]
+
 ## 2026-06-04T13:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: Common-cause-null in-body-audit cross-review (from [[reviews/optimistic-2026-05-16b]] §1)
