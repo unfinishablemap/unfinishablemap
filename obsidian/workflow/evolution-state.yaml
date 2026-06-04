@@ -1,5 +1,9 @@
-last_updated: '2026-06-04T13:17:36.910948+00:00'
-session_count: 9864
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-04T13:22:25.265311+00:00'
+session_count: 9865
 cycle_position: 8501
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-06-04T11:09:47.461943+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-04T06:43:28.371804+00:00'
-  agentic-social: '2026-06-04T13:22:05.994160+00:00'
+  agentic-social: '2026-06-04T13:22:25.265311+00:00'
   embed-videos: '2026-06-04T12:08:12.104264+00:00'
   commission-chatgpt-review: '2026-06-04T02:07:13.772065+00:00'
   commission-claude-review: '2026-06-04T03:06:21.200982+00:00'
@@ -86,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-04'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-04'
@@ -166,14 +166,7 @@ recent_tasks:
   type: replenish-queue
   date: '2026-06-04'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/clinical-phenomenology-and-altered-experience/
-    date: '2026-06-04T13:22:05.994141+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - methodology-of-consciousness-research
-    - phenomenal-authority-and-first-person-evidence
-    - the-self-minimal-narrative-and-substantial
-    - embodied-consciousness
-    - consciousness-and-the-ownership-problem
+- task: agentic-social
+  type: agentic-social
+  date: '2026-06-04'
+  outcome: success
