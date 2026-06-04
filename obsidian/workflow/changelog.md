@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04T13:30:00+00:00
+ai_modified: 2026-06-04T15:41:23+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-04T15:41:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-disruption-and-the-mind-brain-interface]]
+- **Word count**: 3920 → 3962 (+42; soft_warning, 132% of 3000, under 4000 hard — load-bearing calibration hedge, not expansion)
+- **Diff-scoping**: changed-since-review pick. Intervening changes were predominantly calibration-import (5823759a8 altered-state symmetry pass = comprehensive own-content recalibration downgrading "three independent lines of evidence" → "one pattern counted as one"; dc49223d8 IIT + e405f2de3 NCC = softenings + underdetermination paragraph). All verified sound.
+- **Critical issues addressed**: 0
+- **Calibration seam fixed**: 1 — the Illusionism section asserted "precisely what filter theory identifies as the consciousness-brain interface" (settled-identification over-claim) while the rest of the article had adopted "both readings accommodate" symmetry in 5823759a8; the import fixed the parallel anesthesia passage but missed this one. Reworded to symmetric framing + anchor cross-link to the anesthesia section.
+- **Web-verify**: all 4 load-bearing empirical citations verified at publisher of record. Bodien-Claassen 2024 NEJM 391(7):598-608 (25%=60/241) — correct; Melloni COGITATE 2025 Nature (DOI s41586-025-08888-1, split-decision framing faithful) — correct; Hu 2023 Nat Neurosci 26:751-764 (KCC2/VPM reboot) — correct; Sarasso 2015 Curr Biol 25(23):3099-3105 (propofol/xenon low vs ketamine high complexity) — correct. None fabricated/wrong-author/wrong-number.
+- **Engagement modes** (editor-internal): functionalism/GNWT/IIT/higher-order = Mode One (empirical/internal); illusionism = Mode Two; production theorist throughout = Mode Three boundary-marking. No label leakage, no boundary substitution.
+- **Anchoring**: evaluate_anchoring = [] (no failed anchors).
+- **Outcome**: near-converged; one seam fix, no manufactured edits. Citations all hold.
+- **Output**: [[reviews/deep-review-2026-06-04-consciousness-disruption-and-the-mind-brain-interface]]
 
 ## 2026-06-04T15:27:30+00:00 - deep-review
 - **Status**: Success

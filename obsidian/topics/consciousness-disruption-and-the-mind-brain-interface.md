@@ -4,7 +4,7 @@ description: "Clinical evidence from anesthesia, coma, and disorders of consciou
 created: 2026-01-15
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-06-02T22:12:42+00:00
+ai_modified: 2026-06-04T15:41:23+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,7 +41,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-30
 last_curated:
-last_deep_review: 2026-05-18T14:20:20+00:00
+last_deep_review: 2026-06-04T15:41:23+00:00
 coalesced_from:
   - "/topics/disorders-of-consciousness-as-test-cases/"
   - "/topics/loss-of-consciousness/"
@@ -148,7 +148,7 @@ Under general anesthesia, time does not merely pass quickly—it vanishes entire
 
 Recovery from anesthesia is not simply the reverse of induction. As drugs clear, the brain actively "reboots" consciousness through dedicated molecular mechanisms—most notably ubiquitin-driven KCC2 downregulation in the ventral posteromedial thalamus (Hu et al., 2023)—rather than passively waiting for pharmacological effects to dissipate. The same emergence pathway operates across pharmacologically distinct agents, so the reopening mechanism is shared even when the closing pathways were not. On a filter reading this is the brain preparing the interface; production models owe an account of why a generator would need a coordinated reboot—though a production theorist can fairly answer that any complex dynamical system needs an active return path to a high-complexity attractor, so this evidence too is accommodated on both readings.
 
-[[illusionism|Illusionists]] argue that the "experiencing subject" is a model the brain maintains rather than a genuine entity—anesthesia disrupts the brain's self-model rather than eliminating consciousness. This objection faces the regress problem: if the appearance of consciousness is an illusion, something must experience that illusion. The propofol/ketamine divergence poses a specific challenge: both drugs disrupt self-modelling, yet produce radically different phenomenologies. Whatever distinguishes propofol's extinction from ketamine's preservation is precisely what filter theory identifies as the consciousness-brain interface.
+[[illusionism|Illusionists]] argue that the "experiencing subject" is a model the brain maintains rather than a genuine entity—anesthesia disrupts the brain's self-model rather than eliminating consciousness. This objection faces the regress problem: if the appearance of consciousness is an illusion, something must experience that illusion. The propofol/ketamine divergence poses a specific challenge: both drugs disrupt self-modelling, yet produce radically different phenomenologies. Whatever distinguishes propofol's extinction from ketamine's preservation is what filter theory reads as a parameter of the consciousness-brain interface—though, as with the [[#Anesthesia: Different Drugs, Different Realities|anesthesia section]] above, a production account can equally locate that distinction in the differing neural circuits the two drugs engage. The divergence sharpens the illusionist's burden without by itself selecting the interface reading.
 
 ## Contemplative Evidence
 
