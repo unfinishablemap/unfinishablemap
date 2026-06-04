@@ -5,6 +5,16 @@ ai_modified: 2026-06-04T05:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T05:00:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8 (Adaptive thinking + Research + Web Search)
+- **File**: [[reviews/outer-review-2026-06-04-claude-opus-4-8]]
+- **Subject**: [[clinical-dissociation-as-systematic-evidence]] (Claude leg of the 3-service triple; ChatGPT collected+processed, Gemini in flight)
+- **Claims verified**: 3 (conversion-disorder amygdala-motor coupling increased not severed — Voon 2010/Hassa 2017; empirical-currency staleness; precision-weighting common-cause)
+- **High-value findings**: 4 distinct from ChatGPT's 6 (VERIFIED FACTUAL ERROR on FND motor-channel framing; empirical staleness ≤2005; precision-weighting common-cause undercut of convergence; empirical-currency methodology gate)
+- **Tasks generated**: 4 (P1: 1 factual error; P2: 2 staleness + common-cause; P3: 1 methodology gate). Convergent findings (physicalist-steelman/GNW-IIT-as-predictors, falsifier) left for combine to dedup+upgrade against ChatGPT's tasks.
+- **Note**: Salvage-completion of a collect fork killed mid-processing by an API-overload error; body/Verification Notes/frontmatter were already extracted+verified, only task-gen/changelog/telegram remained.
+
 ## 2026-06-04T00:00:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Mind-Arena (canonical concept page for a load-bearing coined term)

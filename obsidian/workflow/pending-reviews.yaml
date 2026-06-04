@@ -1215,9 +1215,9 @@
   prompt_summary: Audit clinical-dissociation-as-systematic-evidence (dualist interface
     inference)
   target_filename: outer-review-2026-06-04-claude-opus-4-8.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-04T04:10:34.546687+00:00'
   failure_reason: null
   prompt_text: 'Please conduct a rigorous outer review of one article on The Unfinishable
     Map, a dualist philosophy-of-mind site: "Clinical Dissociation as Systematic Evidence"

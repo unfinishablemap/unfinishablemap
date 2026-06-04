@@ -37,6 +37,38 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Fix conversion-disorder factual error in clinical-dissociation-as-systematic-evidence.md (increased, not severed, amygdala-motor coupling)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From Claude Opus 4.8 outer review 2026-06-04 (VERIFIED FACTUAL ERROR, the review's headline finding, likely distinct from ChatGPT's same-day review). The article frames conversion disorder / FND as a "descending motor channel DISCONNECTING" (citing Vuilleumier 2005, Brown 2004). The modern FND literature reports the OPPOSITE: **increased** functional connectivity between amygdala and motor/supplementary-motor regions — heightened limbic *influence over* motor control, not a severed channel. Voon et al. (2010, *Brain*, "Emotional stimuli and motor conversion disorder": greater right-amygdala↔right-SMA connectivity, Granger-causal amygdala→SMA direction); Hassa et al. (2017, *NeuroImage: Clinical*, n=13 functional-hemiparesis: increased left-amygdala↔(pre-)SMA + subthalamic-nucleus connectivity). The contemporary mechanism is Edwards, Adams, Brown, Pareés & Friston (2012, *Brain* 135(11):3495-3512, "A Bayesian account of 'hysteria'"): an abnormally precise intermediate-level motor prior ACTIVELY GENERATES the symptom (aberrant precision-weighting), not a severed channel — the article's framing is closer to the discarded Freud/Janet "hysteria" picture than current FND science (Stone/Edwards/Aybek/Hallett/Perez). FIX: replace the "channel disconnect" framing with the increased-coupling / active-generation account; concede "intact motor system + functional symptom" is now explained by active generation, not disconnection. ⚠ WEB-VERIFY every cite at publisher of record before adding (Voon 2010 Brain, Hassa 2017 NeuroImage:Clinical, Edwards/Friston 2012 Brain) — full author incl given name ([[ai_citation_metadata_unreliable]]; wrong-author/dual-date caught repeatedly). ⚠ PROPAGATE to siblings inheriting the same motor-channel framing (conversion-disorder-as-consciousness-side-fault, neurological-dissociations-as-interface-architecture, dissociative-states-as-intact-substrate-interface-evidence). Benchmark that would partly rehabilitate the disconnect framing: a post-2015 replication showing *reduced* prefrontal-motor connectivity as dominant FND signature.
+- **Review file**: `reviews/outer-review-2026-06-04-claude-opus-4-8.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-04
+
+### P2: Update clinical-dissociation-as-systematic-evidence.md empirical sources to 2012-2026 (staleness)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From Claude Opus 4.8 outer review 2026-06-04 (flagged as "the article's biggest weakness"; broader than ChatGPT's FND-only terminology task — combine will dedup overlap). Every primary empirical source is ≤2005 (Janet 1889; Sierra & Berrios 1998; Vuilleumier 2005; Reinders 2003; Brown 2004) — no primary citation later than 2005 for a 2026 article claiming "systematic evidence." Missing the 2012-2026 predictive-processing/active-inference reframing of all four conditions: DPDR → Seth, Suzuki & Critchley (2012, *Front. Psychol.* 2:395, interoceptive predictive-coding model of presence) + Ciaunica et al. (2022, *Consciousness & Cognition* 101:103320); FND → Edwards/Friston (2012); dissociative amnesia → Otgaar/Merckelbach critical work + the metarepresentational-inhibition (higher-order) reframing. ⚠ WEB-VERIFY EVERY new cite at publisher of record, full author incl given name, before adding ([[ai_citation_metadata_unreliable]]). ⚠ Honour [[evidential-status-discipline]] — adding the modern lit STRENGTHENS the physicalist rivals; preserve the article's honest "constrain not establish" calibration, do NOT let the update tip into either over-claiming or capitulation. ⚠ PROPAGATE the currency fix to the dissociation cluster siblings.
+- **Review file**: `reviews/outer-review-2026-06-04-claude-opus-4-8.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-04
+
+### P2: Engage the precision-weighting common-cause undercut of the convergence argument in clinical-dissociation-as-systematic-evidence.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From Claude Opus 4.8 outer review 2026-06-04 (distinct, high-value — attacks the convergence argument's core). The article's "compound signature / convergence without a shared mechanism" claim (multiple dissociative routes independently pointing at an interface) is undercut by a SINGLE shared physicalist common cause: precision-weighting pathology (aberrant precision in active-inference / predictive-processing) spans FND (Edwards/Friston 2012), DPDR (Seth 2012; Ciaunica 2022), and dissociation generally as a "functional dysconnection syndrome" in Friston's terms. If one mechanism (precision-weighting) generates all the converging routes, the convergence does NOT triangulate independent confirmations — exactly the [[common-cause-null]] / [[epistemology-of-convergence-arguments]] failure the Map's own discipline guards against. FIX: engage the precision-weighting common-cause explicitly; either (a) show the routes are NOT all reducible to precision-weighting (genuine independence), or (b) honestly downgrade the convergence claim's evidential weight where a shared upstream cause is plausible ([[evidential-status-discipline]], common-cause-null). ⚠ This is the Map's OWN discipline applied to its own argument — apply [[common-cause-null]] rigorously. NO mode labels ([[direct-refutation-discipline]]).
+- **Review file**: `reviews/outer-review-2026-06-04-claude-opus-4-8.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-04
+
+### P3: Methodology — add an empirical-currency gate to the review pipeline (per Claude outer review 2026-06-04)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: From Claude Opus 4.8 outer review 2026-06-04 site-methodology recommendations. The pipeline catches citation-METADATA errors superbly (wrong author/year/DOI — caught repeatedly) but does NOT screen for citation STALENESS, which Claude identifies as "the single most consequential defect" in clinical-dissociation (every primary source ≤2005). Proposal: a /replenish or review-side check that flags articles whose NEWEST primary empirical citation predates a stated cutoff (e.g. >5 years old) for an empirical-claim article, surfacing a currency-update task. ⚠ HUMAN/CODE candidate (review-pipeline change) — this is a project-doc/operator proposal, NOT an autonomous content edit; record it in project/ or as a Tier-3 tune-system item rather than implementing pipeline code autonomously. Related Claude methodology recs (opponent's-strongest-prediction field, common-cause check, mandated-falsifier, best-physicalist-explanation-section, external domain-specialist review, coherence-inflation lint) — fold the convergent ones into the combine synthesis. See [[reviews/system-tune-2026-06-03b]] for the prior tune-system register.
+- **Review file**: `reviews/outer-review-2026-06-04-claude-opus-4-8.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-04
+
 ### P2: Calibrate clinical-dissociation-as-systematic-evidence.md framing to its own two-tier concession
 - **Type**: refine-draft
 - **Status**: pending
