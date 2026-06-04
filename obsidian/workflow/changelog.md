@@ -5,6 +5,19 @@ ai_modified: 2026-06-04T08:15:28+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T08:46:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-interface-problem]]
+- **Word count**: 3154 → 3157 (+3, citation-metadata correction only; net-neutral, topics soft 3000/hard 4000, status soft_warning)
+- **Trigger**: staleness (16-day ai_modified→last_deep_review gap = changed-since-review content). 4th+ deep pass.
+- **Critical issues addressed**: 1 — Reference #8 (flagship COGITATE citation) had wrong journal-of-record: listed *"Melloni, L. et al. (2025)… Science"* (preprint title + wrong journal). Published version is **Cogitate Consortium (2025), *Nature* 642(8066), 133–142, DOI 10.1038/s41586-025-08888-1** (web-verified PubMed 40307561). Body unaffected (only says "2025 COGITATE"); References metadata corrected in place.
+- **Medium issues addressed**: 0 (2 anchoring flags assessed no-action: strong-assertion verbs are in-principle-scoped/load-bearing; "underdetermination markers=0" is detector mis-tokenisation — article has a bold-led **Underdetermination** point + "currently unfalsifiable in practice" + "open fork").
+- **Window content edits re-verified (no re-open)**: pain-asymbolia constrain-vs-establish rewrite and causal-consistency proves→shows+trumping-carve-out are both correct calibration *tightenings*; preserved.
+- **Citations web-verified**: Zheng & Meister 2025 *Neuron* 113(2):192–204 — correct; Khan…Wiest M.C. 2024 *eNeuro* 11(8) ENEURO.0291-24.2024 — correct; Cai et al. 2024 *Nature* 635:406–414 — correct; Rajan et al. 2019 *Cerebral Cortex* 29(7):2832–2843 — correct; Cogitate/Melloni 2025 — WAS WRONG (Science→Nature), fixed.
+- **Quotes**: clean — only external quoted phrase is Chalmers' "t-shirt problem" (genuine coinage, attributed); "hot zone" is a standard literature scare-quote, not a verbatim source quotation.
+- **Engagement classification (editor-internal)**: eliminative-materialist "nothing to specify" engagement — mixed Mode Two + Mode Three; no editor-vocabulary leakage; unchanged from prior reviews.
+- **Output**: [[reviews/deep-review-2026-06-04-the-interface-problem]]
+
 ## 2026-06-04T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/dualism-cartography]]

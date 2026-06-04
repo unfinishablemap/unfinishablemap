@@ -4,7 +4,7 @@ description: "Where does consciousness meet the brain, and how does conscious st
 created: 2026-02-09
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-06-03T15:40:00+00:00
+ai_modified: 2026-06-04T08:46:20+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,7 +51,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-01
 last_curated: null
-last_deep_review: 2026-05-18T17:37:00+00:00
+last_deep_review: 2026-06-04T08:46:20+00:00
 coalesced_from:
   - "/topics/the-interface-location-problem/"
   - "/topics/the-interface-specification-problem/"
@@ -192,7 +192,7 @@ The interface problem is the Map's most significant open challenge. Partial answ
 5. Georgiev, D. (2015). Monte Carlo simulation of quantum Zeno effect in the brain. *International Journal of Modern Physics B*, 29(7), 1550039.
 6. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 7. Litt, A., et al. (2006). Is the brain a quantum computer? *Cognitive Science*, 30(3), 593-603.
-8. Melloni, L. et al. (2025). An adversarial collaboration to critically evaluate theories of consciousness. *Science*.
+8. Cogitate Consortium (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142. https://doi.org/10.1038/s41586-025-08888-1
 9. Penrose, R. & Hameroff, S. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 10. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 11. Rizzolatti, G., et al. (1987). Reorienting attention across the horizontal and vertical meridians. *Neuropsychologia*, 25(1A), 31-40.
