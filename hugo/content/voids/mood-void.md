@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-19
-ai_modified: 2026-06-04 00:30:00+00:00
+ai_modified: 2026-06-04 22:45:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -14,7 +14,7 @@ description: Human+AI exploration of why consciousness cannot witness the affect
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-27 09:44:00+00:00
+last_deep_review: 2026-06-04 22:45:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -125,7 +125,7 @@ Three implications follow, hedged as the Map hedges:
 
 1. **Self-knowledge has a floor.** No introspective regimen can fully close the Mood Void, because mood is among the conditions of the disclosing.
 2. **The unconscious is affective as much as cognitive.** Much of what shapes thought is ambient coloration, not suppressed content.
-3. **The interface may be affective.** If mind influences physical cognition somewhere, the Mood Void is a natural candidate location — and the map's opacity there is what the tenet predicts, not what it would need to explain away.
+3. **The interface may be affective.** If mind influences physical cognition somewhere, the Mood Void is a natural candidate location — and the Map's opacity there is what the tenet predicts, not what it would need to explain away.
 
 ## Further Reading
 

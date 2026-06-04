@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-03 00:00:00+00:00
+ai_modified: 2026-06-04 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -141,7 +141,9 @@ Both share what the Map requires: consciousness biasing otherwise indeterminate 
 
 What does "consciousness biases quantum outcomes" mean? If selection preserves quantum statistics, it appears unfalsifiable. The response: mechanism claims are speculative, but explanatory coherence claims stand independently—the quantum framework shows how mental causation is *possible* without violating conservation.
 
-What would falsify quantum interactionism? (1) Proving quantum indeterminacy is illusory; (2) proving neural computation is purely classical; (3) proving the Zeno effect cannot be triggered by mental effort neurally; (4) proving anesthesia works purely through classical mechanisms. The theory is speculative, not unfalsifiable.
+What would falsify quantum interactionism? Two falsifiers bear on the *position* itself: (1) proving quantum indeterminacy is illusory; (2) proving neural computation is purely classical. Either would close the indeterminacy the position needs. Both are hard, arguably in-principle-only tests, so the position's distinctive empirical content is genuinely difficult to reach — which is the honest face of the falsifiability worry, not a reason to dismiss it.
+
+A further two falsifiers are *mechanism-specific* — they bear on Stapp's Zeno model, a sub-mechanism the Map prefers not to lean on (it ranks post-decoherence selection ahead of Zeno-style mechanisms; see the [preference ordering](/topics/comparing-quantum-consciousness-mechanisms/#preference-ordering)): (3) proving the Zeno effect cannot be triggered by mental effort neurally; (4) proving anaesthesia works purely through classical mechanisms. Refuting either would falsify the Zeno reading while leaving post-decoherence selection — the framing the position actually prefers — untouched. The companion [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) grades the Zeno model's falsifiability "Moderate" and notes the discriminating test is beyond current technology; this article agrees. The position is falsifiable in principle, though its discriminating mechanism-level tests remain beyond current reach. The explanatory-coherence claim — that the quantum framework shows how mental causation is *possible* without violating conservation — stands independently of any of these mechanism-level outcomes.
 
 ## Psychophysical Coupling Mechanisms
 
@@ -201,7 +203,7 @@ This framework avoids classical objections: no energy injection (consciousness s
 
 ### Empirical Compatibility
 
-Interactionism predicts exactly what [NCC research](/concepts/neural-correlates-of-consciousness/) discovers: tight correlations between mental and brain states. The COGITATE adversarial collaboration (Cogitate Consortium, 2025) found that conscious content was decodable from posterior cortex while fully confirming neither of the two leading physicalist-adjacent theories—a result interactionism reads as locating candidate interface regions without vindicating any materialist account of *why* those regions carry experience. NCC findings don't favour materialism—both predict correlations; only interactionism explains why those correlations involve *something it's like*.
+Interactionism is fully consistent with what [NCC research](/concepts/neural-correlates-of-consciousness/) discovers: tight correlations between mental and brain states. The COGITATE adversarial collaboration (Cogitate Consortium, 2025) found that conscious content was decodable from posterior cortex while fully confirming neither of the two leading physicalist-adjacent theories—a result interactionism reads as locating candidate interface regions without vindicating any materialist account of *why* those regions carry experience. This correlation data is shared, non-discriminating evidence—materialism predicts the same correlations—so it does not adjudicate between the two; only interactionism explains why those correlations involve *something it's like*. The position's distinctive empirical content lives in the harder falsifiers above, not in the correlation findings.
 
 ### Evolutionary Compatibility
 

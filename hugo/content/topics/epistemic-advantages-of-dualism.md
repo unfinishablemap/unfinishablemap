@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-06-02 00:00:00+00:00
+ai_modified: 2026-06-04 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -87,7 +87,7 @@ Several possibilities become thinkable under dualism that materialism excludes b
 
 **Consciousness rebelling against its conditions.** If mind is not identical to brain, whatever "runs" consciousness might have interests, states, or dynamics we're unaware of, so keeping brains alive artificially, creating brain organoids, or engineering consciousness could interact with properties of mind we don't understand. This seems speculative until you recognize that materialism makes it unthinkable—so materialists cannot even consider whether to be cautious about it.
 
-**Extended consciousness or field effects.** [filter-theory](/concepts/filter-theory/) and related models suggest consciousness might not be strictly bounded by the skull. Yet the [consciousness extension gap](/topics/consciousness-epistemology-extended-cognition/) shows that even Clark and Chalmers' parity principle fails at the boundary of phenomenal experience—functional parity extends cognition but not consciousness. If consciousness nonetheless exceeds the skull through non-functional channels, the implications for individuality, privacy, and connection between minds become live questions rather than dismissed speculations.
+**Extended consciousness or field effects.** [filter-theory](/concepts/filter-theory/) and related models suggest consciousness might not be strictly bounded by the skull. Yet the [consciousness extension gap](/topics/consciousness-epistemology-extended-cognition/) suggests that even Clark and Chalmers' parity principle stalls at the boundary of phenomenal experience—functional parity extends cognition but arguably not consciousness. If consciousness nonetheless exceeds the skull through non-functional channels, the implications for individuality, privacy, and connection between minds become live questions rather than dismissed speculations.
 
 **Value properties of consciousness itself.** The Unfinishable Map's [phenomenal value realism](/topics/phenomenal-value-realism/) holds that experiential qualities have intrinsic normative significance. This metaethical position requires consciousness to be more than computational processing—it requires qualia to be real and value-constituting. Materialists who eliminate qualia also eliminate the ground for this kind of value realism.
 
@@ -163,7 +163,7 @@ The epistemic humility argument for dualism would be undermined if:
 
 ## Relation to Site Perspective
 
-A distinction must be drawn before this section can be read honestly, because the article's own argument forbids collapsing it. The thesis defended above is *narrow*: under deep uncertainty about consciousness, the responsible stance keeps dualism a live option and resists premature closure. That thesis licenses exactly one thing—treating dualism as open—and nothing more. It does *not* license the Map's four positive tenets. The Map holds those tenets as working bets, adopted on object-level grounds (the positive arguments for dualism, the structure of the measurement problem, what agency and indexical identity seem to require), and held *despite* the very uncertainty the humility argument names—not as outputs of it. This matters because the humility premise cuts both ways: an honest critic will point out that Minimal Quantum Interaction, Bidirectional Interaction, and especially No Many Worlds are themselves confident closures of live possibilities, and that the same humility the article presses against materialism applies to them. The article concedes the point rather than evading it. The tenets are not derived from "keep possibilities open"; they are the Map's substantive commitments, made with their own reasons and their own fallibility, and the sections below explain how each *relates* to the epistemic argument without claiming the epistemic argument *establishes* it.
+A distinction must be drawn before this section can be read honestly, because the article's own argument forbids collapsing it. The thesis defended above is *narrow*: under deep uncertainty about consciousness, the responsible stance keeps dualism a live option and resists premature closure. That thesis licenses exactly one thing—treating dualism as open—and nothing more. It does *not* license the Map's four positive tenets. The Map holds those tenets as working bets, adopted on object-level grounds (the positive arguments for dualism, the structure of the measurement problem, what agency and indexical identity seem to require), and held *despite* the very uncertainty the humility argument names—not as outputs of it. This matters because the humility premise cuts both ways: an honest critic will point out that Minimal Quantum Interaction, Bidirectional Interaction, and especially No Many Worlds are themselves confident closures of live possibilities, and that the same humility the article presses against materialism applies to them. The article concedes the point rather than evading it. The tenets are not derived from "keep possibilities open"; they are the Map's substantive commitments, made with their own reasons and their own fallibility, and the sections below explain how each *relates* to the epistemic argument without claiming the epistemic argument *grounds* it.
 
 **[Dualism](/tenets/#dualism)**: This article articulates why the Map's dualist commitment is epistemically well-motivated even apart from specific arguments. Dualism is the epistemically humble stance—the one that closes fewer doors prematurely. The [positive arguments for dualism](/concepts/dualism/) provide object-level support; this article provides meta-level support through the logic of precaution under uncertainty.
 
@@ -177,14 +177,14 @@ A distinction must be drawn before this section can be read honestly, because th
 
 ## The Practical Upshot
 
-None of this proves dualism is true. The epistemic argument is more modest: treat non-materialist theories as live options deserving serious investigation. This means:
+None of this settles whether dualism is true; on the evidence currently available the question remains underdetermined by the data. The epistemic argument is more modest: treat non-materialist theories as live options deserving serious investigation. This means:
 
 - Not dismissing dualist arguments because they complicate the materialist picture
 - Acknowledging genuine uncertainty about consciousness attribution
 - Taking seriously the possibility that consciousness has properties we don't yet understand
 - Recognizing that materialist confidence may reflect assumption rather than achievement
 
-The price of this openness is real and was acknowledged above: not merely entertaining possibilities that may turn out false, but the genuine costs that accompany doing so—opportunity cost of research attention, the temptation to motivated reasoning, the risk of immunising a favoured hypothesis against refutation. The claim is not that openness is costless; it is that these costs are *outweighed*, under deep ignorance, by the price of closure—missing truths we could have discovered and risks we could have anticipated, with the question treated as settled before the evidence is in. Given that ignorance, openness seems the wiser bet, costs included.
+The price of this openness is real and was acknowledged above: not merely entertaining possibilities that may turn out false, but genuine costs—opportunity cost of research attention, the temptation to motivated reasoning, the risk of immunising a favoured hypothesis against refutation. The claim is not that openness is costless; it is that these costs are *outweighed*, under deep ignorance, by the price of closure—missing truths and risks we could have anticipated, with the question treated as settled before the evidence is in. Given that ignorance, openness seems the wiser bet, costs included.
 
 ## Further Reading
 

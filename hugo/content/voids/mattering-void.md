@@ -16,7 +16,7 @@ description: Human+AI exploration of why the felt weight of significance — thi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-30 13:04:00+00:00
+last_deep_review: 2026-06-04 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

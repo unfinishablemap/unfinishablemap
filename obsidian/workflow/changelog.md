@@ -5,6 +5,16 @@ ai_modified: 2026-06-04T23:00:22+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T23:40:29+00:00 - deep-review (integration)
+- **Status**: Success
+- **File**: [[topics/cross-architecture-llm-introspection]] (integration-focused; content converged this session)
+- **Problem**: near-orphan — only 1 inbound link before this pass
+- **Inbound links added**: 4 (1 → 4 inbound). Reciprocal cross-references from [[voids/source-attribution-void]], [[voids/confabulation-void]], [[concepts/llm-consciousness]] (body + frontmatter, length-neutral) and [[topics/ai-consciousness]] (frontmatter only — at length ceiling)
+- **Word counts (target articles, length-neutral)**: source-attribution-void 2852→2877; confabulation-void 2361→2405; llm-consciousness 2686→2724; ai-consciousness 3943 (unchanged body) — all soft_warning, under hard
+- **Calibration guard**: llm-consciousness mention scoped to *functional* introspection structure, explicitly NOT phenomenal self-report; source article's live-hypothesis calibration mirrored not upgraded in every inbound mention
+- **Verification**: all new wikilinks resolve via sync (exit 0, no strip-warnings); validate.py shows no new invalid files
+- **Output**: [[reviews/deep-review-2026-06-04-cross-architecture-llm-introspection-integration]]
+
 ## 2026-06-04T12:00:00+00:00 - deep-review
 - **Status**: Success (convergence — no critical issues)
 - **File**: [[topics/mechanism-costs-dualism-thickness-quadrants]]

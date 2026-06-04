@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-06-04 18:14:31+00:00
+ai_modified: 2026-06-04 18:20:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,6 +17,7 @@ last_curated: null
 last_deep_review: 2026-06-04 18:14:31+00:00
 modified: *id001
 related_articles:
+- '[[parsimony-epistemology]]'
 - '[[biological-cognitive-closure]]'
 - '[[phenomenal-transparency-opacity-spectrum]]'
 - '[[perceptual-failure-and-the-interface]]'
@@ -89,7 +90,7 @@ Together with the FBT theorem, these results establish that evolved cognitive sy
 
 ## Relation to Site Perspective
 
-The FBT theorem bears most directly on **[Occam's Razor Has Limits](/tenets/#occams-limits)**. If our perceptual and cognitive systems were tuned by evolution for fitness rather than truth, then our intuitions about which explanations are "simpler" or "more parsimonious" are outputs of a fitness-optimised system rather than reliable reports on the structure of reality. The common objection that dualism is less parsimonious than materialism assumes we can judge parsimony accurately. The FBT theorem provides formal grounds to doubt this assumption—not by showing that parsimony judgments are *wrong*, but by showing that the system generating them was shaped by a process indifferent to truth.
+The FBT theorem bears most directly on **[Occam's Razor Has Limits](/tenets/#occams-limits)**. If our perceptual and cognitive systems were tuned by evolution for fitness rather than truth, then our intuitions about which explanations are "simpler" or "more parsimonious" are outputs of a fitness-optimised system rather than reliable reports on the structure of reality. The common objection that dualism is less parsimonious than materialism assumes we can judge parsimony accurately. The FBT theorem provides formal grounds to doubt this assumption—not by showing that parsimony judgments are *wrong*, but by showing that the system generating them was shaped by a process indifferent to truth. This is the evolutionary layer beneath the Map's broader case in [parsimony-epistemology](/concepts/parsimony-epistemology/): where that analysis shows parsimony lacks demonstrated *warrant* in the consciousness domain (no differential predictions, no non-arbitrary priors), FBT supplies an independent reason to distrust the cognitive faculty issuing the simplicity verdict in the first place. The two arguments reinforce each other—one attacks the principle's domain-appropriateness, the other the reliability of the intuition deploying it.
 
 The theorem also connects to **[Dualism](/tenets/#dualism)** through [the evolved cognitive limits framework](/voids/biological-cognitive-closure/). If the brain is an organ shaped by natural selection for physical-world navigation, and if that shaping systematically favoured fitness over truth, then the brain may be precisely the wrong instrument for understanding consciousness—a phenomenon that, if dualism holds, is not a physical-world feature at all. The persistent difficulty of the [hard problem](/topics/hard-problem-of-consciousness/) may reflect not the hardness of the question but the unsuitability of the instrument asking it.
 
@@ -103,6 +104,7 @@ For **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**, the FBT
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — Perceptual failure analysed through Hoffman's interface framework
 - [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/) — What degraded perception reveals about the interface's architecture
 - [The Quantitative Comprehension Void — magnitude and probability face](/voids/the-quantitative-comprehension-void/#the-magnitude-and-probability-domain) — How fitness-tuned cognition distorts both magnitude and probability reasoning: the probability face treats the randomness failures directly relevant to FBT's implications for Bayesian inference
+- [parsimony-epistemology](/concepts/parsimony-epistemology/) — Why Occam's Razor lacks epistemic warrant in the consciousness debate; FBT supplies the evolutionary reason to distrust the simplicity intuition that analysis dismantles on domain-appropriateness grounds
 - [mysterianism](/concepts/mysterianism/) — McGinn's argument that the hard problem reflects cognitive closure
 - [tenets](/tenets/) — The Unfinishable Map's foundational commitments
 

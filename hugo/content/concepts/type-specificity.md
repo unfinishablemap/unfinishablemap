@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-05-25 12:34:27+00:00
+ai_modified: 2026-06-04 20:41:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Type-specificity demands a reductive explanans match the form of it
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-19 20:20:24+00:00
+last_deep_review: 2026-06-04 20:41:00+00:00
 modified: *id001
 related_articles:
 - '[[the-convergence-argument-for-dualism]]'
@@ -86,7 +86,7 @@ The framework's central inference is itself structurally type-specific: the syst
 
 The three preceding sections present the three deployments as *parallel applications* of one discipline. The parallelism is the article's central methodological claim. The temptation that lives next door to it is to count the three deployments as three independent confirmations of the discipline's force — the cluster-coherence move [the evidential-status discipline](/project/evidential-status-discipline/) and the [common-cause null](/project/common-cause-null/) both flag. If the three grains share enough framework-resources, the three-fold count overstates the evidential weight, and the parallelism is framework-internal coherence rather than framework-independent triangulation.
 
-To test this, the four-criterion instrument [the taxonomy of voids](/apex/taxonomy-of-voids/#two-worked-exhibits-in-independence-scoring) applies to its worked exhibits — signature specificity, structured persistence, cross-observer convergence, and framework independence (the [four criteria](/concepts/apophatic-cartography-four-criteria/)) — is portable to the meta-argument level. Where the taxonomy scores *void-clusters*, the same instrument can score *meta-argument deployments* on whether each is genuinely independent of the others. This applies it to the three grains as a third worked exhibit — the first at the meta-argument register, testing whether the framework is portable across argument-types or only handles void-clusters.
+To test this, the four-criterion instrument [the taxonomy of voids](/apex/taxonomy-of-voids/#worked-exhibits-in-independence-scoring) applies to its worked exhibits — signature specificity, structured persistence, cross-observer convergence, and framework independence (the [four criteria](/concepts/apophatic-cartography-four-criteria/)) — is portable to the meta-argument level. Where the taxonomy scores *void-clusters*, the same instrument can score *meta-argument deployments* on whether each is genuinely independent of the others. This applies it to the three grains as a third worked exhibit — the first at the meta-argument register, testing whether the framework is portable across argument-types or only handles void-clusters.
 
 ### Scoring the Three Grains
 
@@ -94,7 +94,7 @@ Each grain is scored on the four criteria plus a fifth diagnostic — *independe
 
 **Vitalism disanalogy** (metaphysical grain, in [the convergence argument](/topics/the-convergence-argument-for-dualism/)): *signature specificity* strong — it operates on the historical pattern of reductive successes and the schematic-versus-determinate distinction, recognised independently of the other grains. *Structured persistence* strong — the placeholder-versus-determinate structure has held since the post-Wöhler debates, and modern articulations (Chalmers's structure-and-function distinction, Levine's explanatory gap, McGinn's structural-versus-contingent distinction) reach it from different starting points. *Cross-observer convergence* moderate — most articulated within Western analytic philosophy; the cross-cultural channel is mostly unbuilt because traditions lacking a vitalism debate reach the disanalogy only by translation. *Framework independence* mixed — the form-of-demand claim is derivable from the explanandum's shape alone (framework-independent at identification), but that the disanalogy *matters* as the load-bearing distinction is a judgement internal to the convergence argument.
 
-**Binding-problem unity grain** (in [the binding problem](/topics/the-binding-problem/)): *signature specificity* strong — it operates on the five-variety taxonomy and the coordination-to-unity gap repeating at each. *Structured persistence* strong on the empirical signature (Treisman 1980, Crick and Koch 1990, Singer 1995–2010, Tononi 2004–present), weaker on the unity-as-explanandum framing, which requires the prior decision that phenomenal unity is the explanandum. *Cross-observer convergence* mixed — strong within cognitive science; contemplative (Abhidharma *manas*, Yogācāra *ālaya-vijñāna*) and cross-species (Mather and Dickel 2017; Klein et al. 2024) channels partially built. *Framework independence* partial — feature-binding deficits are third-person measurable (the framework-independent empirical face), but the move to "phenomenal unity is the demand any theory must address" inherits a Cluster 1 commitment a heterophenomenologist would contest.
+**Binding-problem unity grain** (in [the binding problem](/topics/the-binding-problem/)): *signature specificity* strong — it operates on the five-variety taxonomy and the coordination-to-unity gap repeating at each. *Structured persistence* strong on the empirical signature (Treisman 1980, Crick and Koch 1990, Singer 1995–2010, Tononi 2004–present), weaker on the unity-as-explanandum framing, which requires the prior decision that phenomenal unity is the explanandum. *Cross-observer convergence* mixed — strong within cognitive science; contemplative (Abhidharma *manas*, Yogācāra *ālaya-vijñāna*) and cross-species (Mather and Dickel 2017; Klein and Barron 2016) channels partially built. *Framework independence* partial — feature-binding deficits are third-person measurable (the framework-independent empirical face), but the move to "phenomenal unity is the demand any theory must address" inherits a Cluster 1 commitment a heterophenomenologist would contest.
 
 **Baseline-cognition capacity grain** (in [baseline cognition](/concepts/baseline-cognition/)): *signature specificity* strong — it operates on the human-ape gap and the systematic correspondence between consciousness-dependent capacities and the gap's location. *Structured persistence* strong on the capacities individually (Suddendorf and Corballis, Penn et al., Tomasello, Henrich, Carruthers), moderate on the correspondence framing, which depends on reading the gap as real, systematic, and a natural family rather than a list. *Cross-observer convergence* mixed — moderate within comparative cognition; the cross-species channel is the most contested, since the *lacks*-versus-*has a different version of* line is disputed for apes, corvids, and cephalopods. *Framework independence* mixed — the performance gaps are recorded across theoretical commitments, but the consciousness-dependence-as-gating-criterion framing is framework-internal (alternatives like Carruthers's massive modularity or Heyes's cognitive gadgets reach the same data without it).
 
@@ -141,7 +141,7 @@ The discipline observes the Map's standing constraint against [concession conver
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — Original deployment of type-specificity as the vitalism disanalogy at the metaphysical grain
 - [the-binding-problem](/topics/the-binding-problem/) — Five-variety deployment at the phenomenal-unity grain
 - [baseline-cognition](/concepts/baseline-cognition/) — Capacity-by-capacity deployment at the functional grain
-- [taxonomy-of-voids](/apex/taxonomy-of-voids/) — The two worked exhibits in independence scoring (surplus void retracted, introspection-architecture partially retained) that this article's three-grain scoring parallels at the meta-argument register
+- [taxonomy-of-voids](/apex/taxonomy-of-voids/) — The two void-cluster worked exhibits in independence scoring (surplus void retracted, introspection-architecture partially retained) that this article's three-grain scoring parallels at the meta-argument register
 - [apophatic-cartography-four-criteria](/concepts/apophatic-cartography-four-criteria/) — The four-criterion calibration framework (signature specificity, structured persistence, cross-observer convergence, framework independence) the three-grain scoring applies
 - [common-cause-null](/project/common-cause-null/) — The structural discipline against framework-internal coherence masquerading as framework-independent triangulation
 - [concession-convergence](/concepts/concession-convergence/) — The parallel discipline: whether non-Map theories converge on type-specificity-respecting positions

@@ -4,7 +4,7 @@ description: "Not whether AI is conscious but what type of consciousness it migh
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: null
-ai_modified: 2026-06-02T00:00:00+00:00
+ai_modified: 2026-06-04T23:40:29+00:00
 draft: false
 last_deep_review: 2026-06-02T00:00:00+00:00
 topics:
@@ -47,6 +47,7 @@ related_articles:
   - "[[apex/interface-specification-programme]]"
   - "[[epistemology-of-other-minds-under-dualism]]"
   - "[[structural-varieties-of-consciousness-and-ai-phenomenology]]"
+  - "[[topics/cross-architecture-llm-introspection]]"
   - "[[research/wlodzislaw-duch-consciousness-2026-05-02]]"
   - "[[possibility-probability-slippage]]"
 ai_contribution: 100

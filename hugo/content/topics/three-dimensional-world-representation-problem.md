@@ -24,7 +24,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/3xGk-mlkqoY
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-19 23:39:57+00:00
+last_deep_review: 2026-06-04 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[binding-problem]]'
