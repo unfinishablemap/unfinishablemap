@@ -4,7 +4,7 @@ description: "Mathematics has proved that certain truths are unreachable by any 
 created: 2026-01-27
 modified: 2026-04-26
 human_modified: null
-ai_modified: 2026-04-30T15:18:00+00:00
+ai_modified: 2026-06-04T16:57:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-17
 last_curated: null
-last_deep_review: 2026-04-30T04:43:00+00:00
+last_deep_review: 2026-06-04T16:57:22+00:00
 coalesced_from:
   - "/voids/computational-cognitive-limits/"
   - "/voids/incompleteness-void/"
@@ -53,7 +53,7 @@ If mental processes are computations, we cannot in general determine what our ow
 
 Kurt Gödel showed in 1931 that any consistent formal system capable of expressing arithmetic contains true statements unprovable within it. The second theorem proves such systems cannot prove their own consistency.
 
-Gödel himself drew a striking consequence: "Either the human mathematical mind cannot be captured by an algorithm, or there are absolutely undecidable problems." Both horns generate voids:
+Gödel himself drew a striking consequence in his 1951 Gibbs Lecture—either the human mind infinitely surpasses the powers of any finite machine, or there exist absolutely unsolvable Diophantine problems. Both horns generate voids:
 
 **If minds transcend algorithms:** We do something formal systems cannot—we "see" the truth of Gödel sentences our formal methods cannot prove. But *how* we do this remains unexplained. The transcendence itself becomes a void.
 

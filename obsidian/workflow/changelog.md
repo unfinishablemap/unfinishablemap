@@ -5,6 +5,21 @@ ai_modified: 2026-06-04T16:05:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T16:57:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/formal-cognitive-limits]]
+- **Word count**: 2238 → 2244 (+6; length-neutral, 75% of hard 3000)
+- **Critical issues addressed**: 1 (paraphrase presented as verbatim Gödel quotation)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; periodic re-verification of 35-day-old content)
+- **Diff scoping**: only same-day (04-30 15:18) delta was the vagueness-void "further axis" paragraph + frontmatter entry (clean). Bulk is converged → citation/theorem-gloss/Lucas-Penrose re-verify.
+- **Critical fix**: §Gödel disjunction quoted a PARAPHRASE inside quote marks as Gödel's words ("Either the human mathematical mind cannot be captured by an algorithm, or there are absolutely undecidable problems"). Gödel's actual 1951 Gibbs Lecture: "either the human mind infinitely surpasses the powers of any finite machine, or there exist absolutely unsolvable Diophantine problems" (dropped the **Diophantine** qualifier + paraphrased horn 1). Converted to accurate paraphrase, quote marks removed, attributed to Gibbs Lecture. Survived 3 prior reviews — fresh-eyes verbatim catch.
+- **Web-verify (fabrication-risk surface)**: Chaitin 1982 (IJTP 21, 941-954) ✓, Tymoczko 1979 (J.Phil 76, 57-83) ✓, Feferman 1995 (Psyche 2(7)) ✓ — all correct. Clarke-Doane: vol/pages correct but in-print year is 2013 not 2012 (online-first ambiguity; list-only ref; deferred, not churned). Canonical theorem attributions (Gödel 1931, Turing 1936, Rice 1953, Lucas 1961) cross-checked ✓.
+- **Theorem-gloss accuracy**: halting/Gödel I+II/Rice/Chaitin glosses all mathematically accurate; no over-extension.
+- **Lucas-Penrose calibration**: HONEST — void rests on Gödel's disjunction (holds regardless), NOT on the contested anti-mechanism conclusion; "even if Lucas-Penrose fails" + "minority position" + "indirect support". No possibility→probability slippage; tenet-accepting reviewer would not flag. No over-reach.
+- **Anchoring**: evaluate_anchoring empty before+after; theorems demonstrative (correct), inference-to-mind conditionalized.
+- **Output**: [[reviews/deep-review-2026-06-04-formal-cognitive-limits]]
+
 ## 2026-06-04T16:52:40+00:00 - deep-review
 - **Status**: Success (CONVERGED — no body edits)
 - **File**: [[apex/pharmacological-dissociation-as-evidence]]
