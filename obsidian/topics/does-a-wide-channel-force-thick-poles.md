@@ -4,7 +4,8 @@ description: "A coherence-test of the empty wide-channel/thin-pole region of the
 created: 2026-06-04
 modified: 2026-06-04
 human_modified:
-ai_modified: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-06-04T10:55:51+00:00
+last_deep_review: 2026-06-04T10:55:51+00:00
 draft: false
 topics:
   - dualism
