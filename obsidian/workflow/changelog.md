@@ -5,6 +5,16 @@ ai_modified: 2026-06-04T20:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T00:00:00+00:00 - deep-review
+- **Status**: Success (1 critical source-conclusion fix; new dialectic confirmed sound)
+- **File**: [[topics/buddhist-perspectives-on-meaning]]
+- **Word count**: 2682 → 2711 (+29; 90% of 3000 soft, under hard)
+- **Critical issues addressed**: 1 (Evan Thompson mischaracterized as a convergence/perennialism proponent alongside Forman — web-verify shows he is a convergence *skeptic* who takes contemplative data seriously, *Why I Am Not a Buddhist* 2020; reframed as the cautionary/critical voice)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no manufactured edits)
+- **Scope**: Diff-first on commit febb25385 (refine-draft, 2026-05-27) — despite the "cross-link reciprocity" title the diff is substantive OWN-CONTENT, a rewritten no-self/equanimity dialectic on the grounding *project*. Audited that dialectic: SOUND — faithful to the Buddhist position (upādāna/sankhara-dukkha objection from the tradition's own self-understanding), underdetermination at the genuine inference, Mode-Three framework-boundary marking done correctly in prose, no label leakage, no possibility→probability slippage. Web-verified ALL citations: Siderits 2007 Hackett ✓, Garfield 1995 OUP ✓, Thompson *Mind in Life* 2007 Harvard/Belknap ✓, Forman convergence-attribution ✓ correct, Thompson convergence-attribution ✗ fixed. No fabricated cites, no fake sutta numbers (article cites no numbered suttas), no verbatim quotes to fidelity-check. Defect isolated to this article (grep-confirmed no propagation). Anchoring 0 flags before/after; length under soft.
+- **Output**: [[reviews/deep-review-2026-06-04-buddhist-perspectives-on-meaning]]
+
 ## 2026-06-04T20:30:00+00:00 - deep-review
 - **Status**: Success (confirmed-converged, no body edits)
 - **File**: [[topics/evolution-under-dualism]]

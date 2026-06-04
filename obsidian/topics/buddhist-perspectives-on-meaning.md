@@ -4,7 +4,7 @@ description: "Buddhism diagnoses the craving for permanent significance as itsel
 created: 2026-02-04
 modified: 2026-02-04
 human_modified:
-ai_modified: 2026-05-27T22:10:00+00:00
+ai_modified: 2026-06-04T00:00:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -23,7 +23,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-04
 last_curated:
-last_deep_review: 2026-05-25T23:24:50+00:00
+last_deep_review: 2026-06-04T00:00:00+00:00
 ---
 
 Buddhism offers a distinctive response to the question of meaning—one that neither affirms cosmic purpose nor collapses into nihilism. The Four Noble Truths diagnose the *craving* for permanent significance as itself a source of suffering. Liberation comes not from finding the "right" meaning but from transforming our relationship to experience. For The Unfinishable Map, which grounds meaning in consciousness itself, Buddhism provides both challenge and illumination: it takes consciousness seriously while questioning whether clinging to significance perpetuates the very suffering we seek to resolve.
@@ -144,7 +144,7 @@ The compatibility between Buddhist and Map perspectives rests on claims that cou
 
 1. **If Buddhist no-self necessarily extended to momentary irreducibility.** The compatibility thesis holds that consciousness can be irreducible at each moment while impermanent across moments. If Buddhist analysis required that even momentary consciousness reduces to functional processes, the positions would conflict.
 
-2. **If contemplative evidence proved deeply divergent across traditions.** Buddhist, Hindu, and Christian contemplatives report different phenomenologies—Buddhists find no-self, Advaitins find universal Self, Christians find divine presence. If these differences proved irreconcilable rather than complementary perspectives on the same territory, confidence in any tradition's claims would weaken. Some scholars (notably Robert Forman and, more cautiously, Evan Thompson) argue for more convergence than divergence at deep levels, but the question remains genuinely open.
+2. **If contemplative evidence proved deeply divergent across traditions.** Buddhist, Hindu, and Christian contemplatives report different phenomenologies—Buddhists find no-self, Advaitins find universal Self, Christians find divine presence. If these differences proved irreconcilable rather than complementary perspectives on the same territory, confidence in any tradition's claims would weaken. Robert Forman has argued for a perennialist convergence—a "pure consciousness event" reported across traditions beneath their doctrinal differences—while Evan Thompson, though he takes cross-traditional contemplative data seriously as evidence, is sharply critical of strong convergence claims and of "Buddhist exceptionalism," insisting the differences may be real rather than surface. The question remains genuinely open.
 
 3. **If meaning-claims proved pragmatically necessary.** If humans psychologically require explicit meaning-frameworks to function well—if the Buddhist release-from-craving approach worked only for exceptional practitioners—the view's generalizability would be limited.
 
