@@ -226,6 +226,7 @@ None of these has occurred decisively. The explanatory gap remains unbridged. Th
 - [[epistemology-of-other-minds-under-dualism]] — How dualism transforms the epistemology of other minds
 - [[research/wlodzislaw-duch-consciousness-2026-05-02|Duch research dossier]] — The strongest competent affirmative position the Map's open-question framing must continue to earn against
 - [[possibility-probability-slippage]] — The methodological discipline this article practises in distinguishing tenet-contingent from evidence-supported requirements
+- [[ai-ensoulment-hypothesis]] — Cutter's substance-dualist argument for AI ensoulment and Békefi's rebuttal, with how the Map's interactionist framing relates
 
 ## References
 

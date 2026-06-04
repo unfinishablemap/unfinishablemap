@@ -240,6 +240,7 @@ The convergence across tenets is striking. Each independently gives reason to do
 - [[ai-consciousness-typology]] — Six categories for what AI phenomenal experience could be (from null to alien qualia), crossed with Tulving's hierarchy
 - [[research/wlodzislaw-duch-consciousness-2026-05-02|Duch research dossier]] — The strongest competent defence of substrate-independent machine consciousness (the articon programme); the position upload-skepticism must engage rather than presuppose away
 - [[dualism-as-ai-risk-mitigation]] — Parallel argument from the same metaphysical stack: under interactionist dualism, mind-arena consequences are uncomputable (not merely intractable) for any physical-state-only model, with implications for AI alignment that share structure with this article's substrate-failure argument
+- [[ai-ensoulment-hypothesis]] — Whether an artificial system could host or couple to a mind: Cutter's fitness-to-possess criterion and Békefi's missing-integrity reply
 
 ## References
 

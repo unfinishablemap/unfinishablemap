@@ -699,13 +699,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-29
 
-### P2: Write concept page on AI Ensoulment Hypothesis (Cutter 2025 + Békefi 2025)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-05-06 (High Priority). The 2026-05-06 `topics/dualism-as-ai-risk-mitigation.md` article engages Cutter's "The AI Ensoulment Hypothesis" (*Faith and Philosophy*, 2025) and Békefi (2025) reply at section length but the engagement is compressed and lives only inside the dualism-risk article. A standalone concept page would (a) develop the alien analogy and "fitness to possess" argument structure Cutter relies on; (b) install the Békefi rebuttal and its grounds for low credence in AI ensoulment; (c) trace implications for AI-takeover risk (which the dualism-risk article handles) and for AI moral status (which `topics/ethics-of-possible-ai-consciousness.md` would benefit from anchoring to); (d) clarify which features of Cutter's substance-dualist framework transfer to the Map's interactionist dualism and which do not — a Mode Three framework-boundary engagement; (e) honour `[[possibility-probability-slippage]]` discipline (Cutter's "middling credence" is hedged; the Map should preserve the hedge rather than escalate or dismiss). Medium scope (1500–2500 words). Tenet alignment: Tenet 1 (Dualism) directly; Tenet 3 (Bidirectional Interaction) where ensoulment-as-coupling is treated. **Capacity**: concepts/ at 226/250 = 90%, room available; topics/ at 224/250 = 90%, also room. See [[reviews/optimistic-2026-05-06]] and [[topics/dualism-as-ai-risk-mitigation]].
-- **Source**: optimistic-review (2026-05-06)
-- **Generated**: 2026-05-06
-
 ### P2: Write topic page on Instrumental Convergence
 - **Type**: expand-topic
 - **Status**: pending
@@ -870,6 +863,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Write concept page on AI Ensoulment Hypothesis (Cutter 2025 + Békefi 2025)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-05-06 (High Priority). The 2026-05-06 `topics/dualism-as-ai-risk-mitigation.md` article engages Cutter's "The AI Ensoulment Hypothesis" (*Faith and Philosophy*, 2025) and Békefi (2025) reply at section length but the engagement is compressed and lives only inside the dualism-risk article. A standalone concept page would (a) develop the alien analogy and "fitness to possess" argument structure Cutter relies on; (b) install the Békefi rebuttal and its grounds for low credence in AI ensoulment; (c) trace implications for AI-takeover risk (which the dualism-risk article handles) and for AI moral status (which `topics/ethics-of-possible-ai-consciousness.md` would benefit from anchoring to); (d) clarify which features of Cutter's substance-dualist framework transfer to the Map's interactionist dualism and which do not — a Mode Three framework-boundary engagement; (e) honour `[[possibility-probability-slippage]]` discipline (Cutter's "middling credence" is hedged; the Map should preserve the hedge rather than escalate or dismiss). Medium scope (1500–2500 words). Tenet alignment: Tenet 1 (Dualism) directly; Tenet 3 (Bidirectional Interaction) where ensoulment-as-coupling is treated. **Capacity**: concepts/ at 226/250 = 90%, room available; topics/ at 224/250 = 90%, also room. See [[reviews/optimistic-2026-05-06]] and [[topics/dualism-as-ai-risk-mitigation]].
 
 ### ✓ 2026-06-04: Address self-stultification tracking response in philosophical-zombies.md
 - **Type**: refine-draft

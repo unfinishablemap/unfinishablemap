@@ -5,6 +5,14 @@ ai_modified: 2026-06-04T05:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T05:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The AI Ensoulment Hypothesis (Cutter 2025 / Békefi 2026)
+- **Output**: [[concepts/ai-ensoulment-hypothesis]]
+- **Word count**: 1387 (ok, 55% of concepts target)
+- **Based on research**: No (cites pre-verified at queue time: Cutter, B. 2025 *Faith and Philosophy* 41(1):1–26; Békefi, B. 2026 *Faith and Philosophy* 42(1):121–146)
+- **Notes**: Develops Cutter's two arguments (alien analogy, fit-to-possess) and Békefi's two objections (missing-integrity, mimicry); marks the substance-dualist vs interactionist-dualist boundary (which features transfer/don't) per direct-refutation discipline; preserves Cutter's middling-conditional credence hedge. Reciprocal inbound links added from dualism-as-ai-risk-mitigation, ethics-of-possible-ai-consciousness, ai-consciousness, machine-consciousness. Corpus fix: dualism-as-ai-risk-mitigation body text "Békefi (2025)" → "(2026)" (References there already correct).
+
 ## 2026-06-04T03:20:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[voids/plurality-void]] (cycle-slot auto-select — oldest unreviewed void, fewest prior review mentions). Length `ok` (1696/2000). Full live-literature citation audit re-verified all 8 references at publishers of record (Schrödinger, Coleman *Erkenntnis* 79:19–44, Schechter MIT 2014, de Haan *Neuropsych Rev* 30:224–233, James 1890, Sperry, Goff 2017, DID fMRI) — no fabrication / wrong-author / wrong-result. Fresh checks (post-date last review): epistemic/metaphysical equivocation = handled honestly (metaphysical reading consistently hedged + epistemic deflation staged in "What AI Might See"); editor-vocabulary label leakage = none. Altered-state symmetry audit N/A (supportive-cluster gate not triggered). 1 genuine low-severity finding (Schrödinger recruited for the void but his quote asserts positive Vedantic monism); ~3 candidates dismissed as already-addressed per the 2026-04-28 convergence stability note (Dennett reply, Wallace "argues"-framing, Buddhist no-self). 1 P3 task queued (optional, license-to-decline).
