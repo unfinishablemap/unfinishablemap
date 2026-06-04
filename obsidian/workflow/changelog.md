@@ -5,6 +5,17 @@ ai_modified: 2026-06-04T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/cross-domain-void-comparison]]
+- **Word count**: 2235 → 2251 (+16)
+- **Critical issues addressed**: 0 (none found — fresh-create defect-tail audit clean)
+- **Medium issues addressed**: 1 (calibration softening of two bolded difference-claims, length-neutral)
+- **Enhancements made**: 1
+- **Citations web-verified (3-state, all real+correct)**: Cubitt/Perez-Garcia/Wolf 2015 (Nature 528(7581):207-211, DOI 10.1038/nature16059) + verbatim spectral-gap quote CONFIRMED verbatim; Cohen 1963 (PNAS 50(6):1143-1148, DOI 10.1073/pnas.50.6.1143); Szangolies 2018 (Found. Phys. 48(12):1669-1697, DOI 10.1007/s10701-018-0221-9, Lawvere mechanism attribution accurate); Gödel 1931/1940, Turing 1936 canonical-correct.
+- **Audit**: quotes verbatim; dates sane; anchoring 2 residual flags = detector-anchor artifact (over-hedge would mush); 3 reciprocal inbound links present (not orphan); all 10 outbound wikilinks resolve.
+- **Output**: [[reviews/deep-review-2026-06-04-cross-domain-void-comparison]]
+
 ## 2026-06-04T12:30:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Cross-domain void comparison (physics, mathematics, consciousness)
