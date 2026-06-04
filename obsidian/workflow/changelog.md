@@ -5,6 +5,22 @@ ai_modified: 2026-06-04T00:17:10+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T00:21:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/perceptual-failure-and-the-interface]]
+- **Trigger**: topic-concept anchoring audit 2026-06-03 (re-confirmed live). Multi-anchor flag (default-mode-network + neural-correlates-of-consciousness + consciousness-bandwidth-architecture), single root in topic's own profile: strong_assertion_count=2 (anchors have 0–1), underdetermination_marker_count=0 (anchors have 1–2). hedge_density 6.26 PASSES — no hedges added.
+- **Original score**: n/a (calibration-only audit; not a full quality review)
+- **Changes**: calibration downgrade only, voice preserved.
+  - Strong-assertion #1 (hedged): Hoffman section "The Fitness-Beats-Truth theorem **demonstrates** that..." → "...**argues, within its evolutionary-game model,** that..."; "Perception was never designed..." → "On this account perception was never designed...". Calibrated reporting verb scoped to the theorem's own model; empirical content and cite (Hoffman et al., 2015) unchanged.
+  - Strong-assertion #2 (reframed→underdetermination): Gradation Argument "Research on graded consciousness **confirms** that subjects report experiences as existing on a continuum" → "...**reports** that subjects place their experiences on a continuum". Overgaard et al. 2006 cite unchanged.
+  - 2nd underdetermination marker (added at genuine ambiguity point): new paragraph after the Overgaard sentence conceding the continuum "**does not adjudicate** between the interface reading and its deflationary rivals" — a physicalist can read graded reports as graded *access* without any fundamental property admitting of degrees; "the gradation data are **compatible with either framing**; what they constrain is the *threshold-emergence* picture specifically". Real epistemic concession (gradation CONSTRAINS but does not ESTABLISH interface over rivals), not boilerplate; preserves the section's narrower conclusion.
+  - Markers landed: `does not adjudicate` + `compatible with either framing` = 2 underdetermination markers.
+- **Post-edit anchoring**: evaluate_anchoring() returns [] — all 3 multi-anchor flags cleared. Profile: strong_assertion_count 2→0, underdetermination_marker_count 0→2, hedge_density 6.26→6.06 (no hedge inflation).
+- **No load-bearing calibration touched**: all existing evidential-status/citation-framing, hedges, the central interface claim, and all cites preserved.
+- **Length**: 2876→2969w (canonical analyze_length status `ok`, under soft 3000; +93w for the underdetermination paragraph).
+- **No new citations** (calibration-only). No commit (orchestrator commits).
+- **Published**: yes (draft: false unchanged)
+
 ## 2026-06-04T00:17:10+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/born-rule-and-the-consciousness-interface]]
