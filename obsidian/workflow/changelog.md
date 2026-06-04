@@ -5,6 +5,18 @@ ai_modified: 2026-06-04T18:46:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-intellectual-life]]
+- **Word count**: 3283 → 3283 (no edits; integration-coherence no-op. 109% of 3000 soft, under hard 4000)
+- **Diff-scope**: INTEGRATION bucket, changed-since-review (gap ~13d; ai_modified 2026-05-31, not today). 4th deep review. Two single-sentence inbound integrations landed 2026-05-31: (1) reciprocal cross-link to [[phenomenology-of-intellectual-courage]] in Evidence-and-Compulsion (commit 1c0789062); (2) cross-link to [[quiddity-epiphenomenalism-and-the-contingency-thesis]] in Against-Reduction (commit bc51dbf7d). Scope = integration-coherence + seam + web-verify, not own-content development.
+- **Integration-coherence**: BOTH CLEAN. (a) Accurate representation — courage sentence's "social-epistemic specialisation of this texture" matches the target's own self-characterisation; quiddity sentence's "same worry recurs on a different substrate... threatens grounded quiddities rather than intellectual phenomenology" accurately parallels the contingency-thesis target without conflation. (b) Both targets exist + reciprocate (load-bearing). (c) No seam — both sentences sit naturally in their host paragraphs; no inconsistency or editor-vocabulary leakage introduced.
+- **Web-verify by class**: integrations introduced NO new citations (the Howell 2015 quiddity cite lives in the target, not here). Re-verified the 2 load-bearing empirical anchors at publisher of record: Pitt (2004) PPR 69(1) 1–36 — CORRECT (title/vol/pages verbatim, minimal-pair argument matches); Kounios & Beeman (2014) Annu Rev Psychol 65:71–93 DOI 10.1146/annurev-psych-010213-115154 — CORRECT. No fabrication / wrong-author-year-page / quote drift. Prior review's full attribution table stands (no body change reopened it).
+- **Calibration**: PCT = phenomenological-constitution claims, not graded minimal-organism probability claims → 5-tier scale doesn't load-bear (consistent w/ 2026-05-22). New sentences are structural-relation claims, no possibility→probability slippage. No calibration error.
+- **Anchoring**: evaluate_anchoring NO FLAGS before and after.
+- **Outcome**: CONVERGED — license-to-no-op exercised (re-read + web-verified, no manufactured edits). Updated last_deep_review + ai_modified (UTC). No follow-on tasks.
+- **Output**: [[reviews/deep-review-2026-06-04-phenomenology-of-intellectual-life]]
+
 ## 2026-06-04T18:46:57+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/global-workspace-theory]]

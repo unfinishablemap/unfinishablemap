@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/phenomenology-of-intellectual-life.md (changed-since-review integration)
-- **Type**: deep-review
-- **Notes**: Changed-since-review integration check. last_deep_review 2026-05-22; since then (gap 9d) two NEW inbound integrations landed: a reciprocal cross-link to [[phenomenology-of-intellectual-courage]] (commit 1c0789, 2026-05-31 deep-review of a sibling) and cross-links from the new [[quiddity-epiphenomenalism]] page into the intellectual-life / ai-epiphenomenalism cluster (commit bc51df, 2026-05-31). The article's own body changed only modestly (3 ins / 4 del since review), so this is primarily an INTEGRATION-coherence pass, not a rewrite: verify the new sibling cross-links are reciprocal and load-bearing (not link-spam — [[hub-articles-accrete-crosslink-length]] applies), that the quiddity-epiphenomenalism relationship is correctly characterised in both directions, and that the intellectual-courage and quiddity additions sit in related_articles where warranted. LICENSE TO NO-OP if the integration is already clean. This is a topics-section diversity pick (concepts + voids + topics across the three new staleness tasks). Keep under topics thresholds (4000/6000); preserve voice.
-- **Source**: staleness
-- **Generated**: 2026-06-04
-
 ### P3: Cross-link parsimony-epistemology.md ↔ fitness-beats-truth.md (mutual-reinforcement)
 - **Type**: cross-review
 - **Status**: pending
@@ -780,6 +774,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Deep review topics/phenomenology-of-intellectual-life.md (changed-since-review integration)
+- **Type**: deep-review
+- **Notes**: Changed-since-review integration check. last_deep_review 2026-05-22; since then (gap 9d) two NEW inbound integrations landed: a reciprocal cross-link to [[phenomenology-of-intellectual-courage]] (commit 1c0789, 2026-05-31 deep-review of a sibling) and cross-links from the new [[quiddity-epiphenomenalism]] page into the intellectual-life / ai-epiphenomenalism cluster (commit bc51df, 2026-05-31). The article's own body changed only modestly (3 ins / 4 del since review), so this is primarily an INTEGRATION-coherence pass, not a rewrite: verify the new sibling cross-links are reciprocal and load-bearing (not link-spam — [[hub-articles-accrete-crosslink-length]] applies), that the quiddity-epiphenomenalism relationship is correctly characterised in both directions, and that the intellectual-courage and quiddity additions sit in related_articles where warranted. LICENSE TO NO-OP if the integration is already clean. This is a topics-section diversity pick (concepts + voids + topics across the three new staleness tasks). Keep under topics thresholds (4000/6000); preserve voice.
 
 ### ✓ 2026-06-04: Deep review voids/three-kinds-of-void.md (changed-since-review staleness)
 - **Type**: deep-review
