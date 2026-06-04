@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: cross-domain-void-comparison.md — downgrade the over-claimed "second difference" (signature axis is partly analytic)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-06-04 found a coherence-inflation / question-begging gap in the central argument of [[topics/cross-domain-void-comparison]]. The "second difference" (failure-signature inventory does not transfer to physics/math) is presented as "the strongest empirical mark" (line 94) that consciousness voids are special — but the inventory was BUILT FROM consciousness voids and the article itself concedes (line 92) that four of its eight signatures REQUIRE an introspecting subject, so their absence in subjectless domains is guaranteed by construction, not discovered. The mismatch is close to analytic. The refine should: (a) acknowledge the inventory is built from consciousness voids and the subject-requiring signatures cannot register in subjectless domains by construction → downgrade "strongest empirical mark" to confirmatory colour; (b) connect the line-114 common-cause-null concession back to the second-difference argument; (c) clarify whether the taxonomic-depth "first difference" is genuinely independent of subject/object coincidence or the same fact measured twice (it is the more defensible axis — keep it load-bearing). PRESERVE: all citations (all web-verified correct this session — do NOT re-litigate), the "difference that cuts the other way" honesty section (lines 96-104), and the bounded framework-internal verdict (line 114). The fix is LOCAL to the "Testing the Failure-Signature Inventory" section; it should not weaken the conclusion — it makes the bounded verdict more obviously correct. NOT a length task. See [[reviews/pessimistic-2026-06-04]].
+- **Source**: pessimistic-review
+- **Generated**: 2026-06-04
+
 ### ✓ 2026-06-04: [CONVERGENCE FLAG] Gemini 06-04 echoes ChatGPT+Claude on clinical-dissociation; upgrade convergent tasks
 - **Status**: resolved-by-synthesis — consumed by /combine-outer-reviews 2026-06-04. Four convergent clusters upgraded P2→P1 (precision-weighting common-cause, staleness, framing-calibration, steelman+sociocognitive); the distinct Marsh/Huntjens, amygdala-motor, amnesia-phrasing, cross-link, and methodology tasks left at original priority. See [[reviews/outer-review-synthesis-2026-06-04]].
 - **Type**: refine-draft

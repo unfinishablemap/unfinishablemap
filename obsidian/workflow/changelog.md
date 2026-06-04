@@ -5,6 +5,12 @@ ai_modified: 2026-06-04T13:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T16:50:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/cross-domain-void-comparison]] (created today; fresh-create-defect-tail candidate)
+- **Findings**: Citations all web-verified CLEAN at publisher (Cubitt 2015 Nature 528, Cohen 1963 PNAS 50, Szangolies 2018 Found.Phys 48, Gödel 1931/1940, Turing 1936 — no fabricated, no wrong-metadata). One Medium argumentative finding: the central "second difference" (signature inventory doesn't transfer to physics/math) is partly ANALYTIC not empirical — the inventory is built from consciousness voids and 4/8 signatures require an introspecting subject, so their absence in subjectless domains is guaranteed by construction; "strongest empirical mark" (line 94) overstates it. Coherence-inflation, not a false claim. One P2 refine-draft task generated. Internal consistency with apex strong (reciprocal cross-link already present).
+- **Output**: [[reviews/pessimistic-2026-06-04]]
+
 ## 2026-06-04T13:35:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/neural-implementation-specifics]]
