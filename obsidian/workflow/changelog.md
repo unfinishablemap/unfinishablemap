@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04T09:12:53+00:00
+ai_modified: 2026-06-04T09:46:32+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-04T09:46:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/time-symmetric-selection-mechanism]]
+- **Word count**: 2725 → 2725 (net-neutral; 91% of 3000 soft)
+- **Critical issues addressed**: 1 (quantitative error in the 2026-06-02 Schurger-refine decoherence caveat: "eight orders of magnitude" gap → corrected to "five to six"; 10⁻⁶ s vs 10²–10³ ms is a 5–6 order gap. Argument direction preserved)
+- **Medium issues addressed**: 0
+- **Citations web-verified at publisher of record (3-state)**: all 9 REAL with correct metadata. Schurger/Sitt/Dehaene 2012 PNAS 109(42):E2904–E2913 [NEW content — verified]; Cramer 1986 RMP 58:647; Aharonov/Bergmann/Lebowitz 1964 PhysRev 134:B1410; Kastner 2012 CUP; Libet 1983 Brain 106(3):623–642; Price 2012 SHPMP 43(2):75–83; Soon 2008 Nat. Neurosci. 11(5):543–545; Hagan/Hameroff/Tuszyński 2002 PhysRevE 65:061901 (the "seven orders longer than Tegmark" claim verified); Stapp 2011 *Mindful Universe* Springer. No fabrication/wrong-author/wrong-paper/preprint-drift.
+- **Quotes**: no verbatim source quotes (only scare-quoted terms of art) — no misquote risk. **Dates**: sane. **Anchoring**: evaluate_anchoring → []. **Links**: all targets resolve; not orphan.
+- **Evidential-status**: no slippage; Schurger deflation correctly TEMPERS (not bolsters) timing-puzzle motivation; mechanism stays at speculative/live-hypothesis tier; decoherence caveat de-overstates response (1). Mode classification: illusionism=Mode One, decoherence/Tegmark=Mode Two honest concession, MWI=Mode Three. No label leakage.
+- **Engagement modes**: illusionism Mode One; Tegmark-decoherence Mode Two (concession); MWI Mode Three.
+- **Output**: [[reviews/deep-review-2026-06-04-time-symmetric-selection-mechanism]]
 
 ## 2026-06-04T09:41:00+00:00 - pessimistic-review
 - **Status**: Success
