@@ -846,6 +846,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-06-04)
 - **Generated**: 2026-06-04
 
+### P3: Cite the canonical Carroll's-regress page from its load-bearing dependants
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by /optimistic-review 2026-06-04d §"Medium Priority". [[concepts/carrolls-regress]] explicitly advertises itself as "a reference target for other Map articles that need to cite the regress without re-establishing it," yet it is near-orphaned (3 inbound links). At least three articles build a LOAD-BEARING argument on exactly the regress's machinery (modus ponens as applied-not-asserted; the machine that executes the rule without *encountering* its demand; the inferentialist *taking-as*) WITHOUT citing it or [[voids/inference-void]]. The [[expand-topic-skips-integration-chain]] half-orphan signature, one layer below today's create cohort. **LENGTH CONSTRAINT (all `ok`, headroom — near-length-neutral only):** (1) [[topics/consciousness-and-the-authority-of-formal-systems]] 2843w/ok — HIGHEST VALUE: add one clause naming Carroll's regress + inference-void at its modus-ponens passage ("the machine does not encounter logic's demand") + related_articles entry; (2) [[concepts/rational-normativity]] 2062w/ok — brief see-also clause where rule-following is discussed + related_articles entry; (3) [[topics/consciousness-and-the-normativity-of-reason]] 2525w/ok — lightest touch, related_articles entry only. Do NOT expand bodies beyond a single clause each. Tenet alignment: Occam's Razor Has Limits + Dualism (the regress is load-bearing for both); fix is web-integrity/methodological — no metaphysical claim altered, only made reachable. See [[reviews/optimistic-2026-06-04d]].
+- **Review file**: `reviews/optimistic-2026-06-04d.md`
+- **Source**: optimistic-review (2026-06-04)
+- **Generated**: 2026-06-04
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 

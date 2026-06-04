@@ -5,6 +5,13 @@ ai_modified: 2026-06-04T10:11:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T10:26:05+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Long-converged foundational-concept layer (oldest-untouched cornerstone pages, 5–6 weeks stale) — deliberate complement to today's three create-cohort reviews. Focal article concepts/carrolls-regress.md.
+- **Finding**: One genuine integration gap — the canonical Carroll's-regress reference page (3 inbound links) is under-cited by ≥3 articles that re-derive its exact machinery (modus ponens applied-not-asserted; inferentialist taking-as) without linking it. expand-topic-skips-integration-chain signature one layer below the create cohort. All 3 target articles ok-status with headroom → near-length-neutral fix. No new-article creation warranted (sections at/over cap; layer content-complete). No calibration slippage found.
+- **Tasks written**: 1 (P3 refine-draft, cross-link integration). No discipline-proposal made.
+- **Output**: [[reviews/optimistic-2026-06-04d]]
+
 ## 2026-06-04T10:16:47+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/inference-void]]
