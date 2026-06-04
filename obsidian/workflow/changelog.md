@@ -5,6 +5,23 @@ ai_modified: 2026-06-04T18:40:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T19:10:00+00:00 - deep-review
+- **Status**: Success (CONVERGED — no-op; license-to-no-op exercised, timestamps only)
+- **File**: [[voids/three-kinds-of-void]]
+- **Word count**: 2322 → 2322 (no change; 116% of 2000 soft, under 3000 hard — no human length decision)
+- **Diff-scope**: changed-since-review (~15d gap; ai_modified 2026-05-31, not today). Single intervening content commit 252668c61 (2026-05-31 refine) grafted exactly TWO new paragraphs into "Between the Categories" + added [[self-reference-paradox]] to related_articles. (1) face-by-face worked example using the-quantitative-comprehension-void's three faces; (2) self-reference-paradox weak/strong/middle-gradient → unexplored/unexplorable/occluded structural-mechanism mapping.
+- **Web-verify by class**: NO new external citations introduced by either paragraph — both cite ONLY internal Map articles. Flagged formal-logic-gloss risk (fake Gödel/Tarski/Russell/Priest verbatim) did NOT materialize; self-reference mapping cites no formal sources (lineage stays in the linked source). Article's 3 References (James 1902, McGinn 1989 Mind 98(391):349-366, Nagel 1974 Phil Review 83(4):435-450) unchanged from prior verified reviews, untouched by refine.
+- **Source-conclusion fidelity (load-bearing this pass)**: self-reference mapping FAITHFUL to [[self-reference-paradox]] "Weak and Strong Forms" (weak/strong/irrecoverably-conditioned definitions match verbatim, incl the act-vs-result distinction); worked example FAITHFUL — verbatim-faithful paraphrase of [[the-quantitative-comprehension-void]]'s own "Mixed Classification" line ("cardinality floor principally unexplorable; magnitude-and-probability unexplored w/ unexplorable core; abstract-mathematical ceiling combines both"). All 3 section-anchors resolve.
+- **Calibration**: NO possibility→probability slippage. Both new paragraphs are organizational/taxonomic (classify void *territory*), elevate no empirical claim's tier, use no tenet as evidence-upgrade. "No intuition for trillions" confidence inherited from source's honest calibration. Tenet-accepting reviewer would not flag.
+- **Anchoring**: evaluate_anchoring — NO FLAGS (before; no edits → after identical).
+- **Engagement modes**: no named-opponent counterargument prose; bedrock personas (Churchland/Deutsch/Tegmark/Nagarjuna) raise tenet-boundary objections answered methodologically. No label leakage.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no edits manufactured — prior refine's additions are sound)
+- **Follow-on**: none queued (no cross-article seam/defect found)
+- **ai_contribution**: 80 (mixed/human-touched) preserved — no body edits, human voice untouched
+- **Output**: [[reviews/deep-review-2026-06-04-three-kinds-of-void]]
+
 ## 2026-06-04T18:40:00+00:00 - deep-review
 - **Status**: Success (CONVERGED — no-op; license-to-no-op exercised, timestamps only)
 - **File**: [[concepts/moral-responsibility]]
