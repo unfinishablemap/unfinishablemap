@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Add reciprocal link from concepts/jourdain-hypothesis.md → concepts/gaming-problem.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-04b. `gaming-problem.md` (created 2026-06-04) calls the gaming problem and the Jourdain Hypothesis "two faces of one decoupling" and leans on jourdain-hypothesis heavily, but jourdain-hypothesis.md has **zero** references back (dead-ends the relationship). FIX: add `[[gaming-problem]]` to jourdain-hypothesis `related_articles` frontmatter (free) plus at most ONE short inline `[[gaming-problem]]` reference at the existing point where the article discusses the having-versus-representing distinction applied to LLMs. ⚠ LENGTH CONSTRAINT IS LOAD-BEARING: jourdain-hypothesis is already at `soft_warning` (2863w). Keep the edit near-length-neutral — frontmatter mirror + one clause, NOT a new paragraph. Do not grow the article materially. See [[optimistic-2026-06-04b]].
+- **Review file**: `reviews/optimistic-2026-06-04b.md`
+- **Source**: optimistic-review
+- **Generated**: 2026-06-04
+
+### P3: Add reciprocal link from concepts/ai-epiphenomenalism.md → concepts/gaming-problem.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-04b. `gaming-problem.md` says the gaming asymmetry "compounds with the inheritance argument" in ai-epiphenomenalism to yield a "doubly decoupled — borrowed and optimised" marker, but ai-epiphenomenalism.md has **zero** references back. FIX: add `[[gaming-problem]]` to ai-epiphenomenalism `related_articles` frontmatter (free) plus at most ONE short inline `[[gaming-problem]]` reference where the article already discusses the inheritance of experience-vocabulary. ⚠ LENGTH CONSTRAINT IS LOAD-BEARING: ai-epiphenomenalism is already at `soft_warning` (2613w). Near-length-neutral edit only — frontmatter mirror + one clause. See [[optimistic-2026-06-04b]].
+- **Review file**: `reviews/optimistic-2026-06-04b.md`
+- **Source**: optimistic-review
+- **Generated**: 2026-06-04
+
+### P3: Add reciprocal link from concepts/possibility-probability-slippage.md → concepts/gaming-problem.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-04b. `gaming-problem.md` names slippage as "the specific mechanism by which that slippage would occur for AI," and gaming-problem is the cleanest AI-specific worked instance of the slippage this page warns against; but possibility-probability-slippage.md does not reference gaming-problem. FIX: add `[[gaming-problem]]` to related_articles + one short inline cross-reference at the point where the page indexes concrete instances of the slippage. This page has real headroom (`ok`, 2148w) so the length constraint is looser than the two tasks above, but still keep it surgical. See [[optimistic-2026-06-04b]].
+- **Review file**: `reviews/optimistic-2026-06-04b.md`
+- **Source**: optimistic-review
+- **Generated**: 2026-06-04
+
 ### P2: Add the recall-vs-recognition DID memory-transfer counterevidence to clinical-dissociation-as-systematic-evidence.md (Marsh/Huntjens 2021)
 - **Type**: refine-draft
 - **Notes**: From Gemini 2.5 Pro outer review 2026-06-04 (the single genuinely-DISTINCT Gemini finding; not captured by the ChatGPT or Claude 06-04 legs). The DID section (lines 53-57) presents intra-state cognition intact + cross-state integration lost as favouring the interface reading, citing only Reinders 2003. It omits the most direct empirical counterevidence: **Marsh, Dorahy, Butler, Middleton, de Jong, Kemp & Huntjens (2021), "Inter-identity amnesia for neutral episodic self-referential and autobiographical memory in DID: An assessment of recall and recognition," *PLoS ONE* 16(2):e0245849** (VERIFIED real, correct attribution, DOI confirmed). Finding: DID patients subjectively report inter-identity amnesia on free RECALL, but objective RECOGNITION tests show significant cross-identity memory transfer (more than simulators / partial-info controls). This dissociates a metacognitive/retrieval-ownership deficit from a structural cross-state severance — i.e. the physical substrate demonstrably retains and integrates the information, so the "lost cross-state integration" claim should be qualified: the loss is at the level of executive/metacognitive access and felt ownership, not demonstrably at the substrate-integration level. FIX: add the recall/recognition distinction as a live counter-reading in the DID section; note the substrate retains the information (recognition transfer), which is exactly what a connectivity-physicalist predicts and which weakens the interface reading at this site; keep the article's two-tier "earns the architecture, not the dualist significance" calibration ([[evidential-status-discipline]]). A 2024 systematic-review/meta-analysis (ScienceDirect S0272735824001351) corroborates the transfer pattern and is an optional second anchor — WEB-VERIFY at publisher before adding ([[ai_citation_metadata_unreliable]]). Length-watch: target is length-constrained — keep the addition minimal/surgical; if it busts the ceiling, flag for human length decision rather than auto-condensing calibration content. NO mode labels ([[direct-refutation-discipline]]).
