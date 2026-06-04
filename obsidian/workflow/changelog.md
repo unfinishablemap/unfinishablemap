@@ -5,6 +5,13 @@ ai_modified: 2026-06-04T13:10:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T11:51:43+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/pain-asymbolia]]
+- **Changes**: Reciprocity cross-link fix from optimistic-2026-06-03f. One-directional gap: phantom-limb-phenomena links to pain-asymbolia twice as "the complementary dissociation", but pain-asymbolia discussed phantom limb pain in the Complementary Dissociations section ("**Phantom limb pain** presents an approximate inverse dissociation") as a plain bold mention with no wikilink, and omitted it from related_articles. Converted the existing bold mention to a wikilink `[[phantom-limb-phenomena|Phantom limb pain]]` (no new sentence added) and added `[[phantom-limb-phenomena]]` to related_articles frontmatter. Scope-disciplined per review: did NOT backlink from the other cluster members (somatic-interface, predictive-processing, neurological-dissociations, clinical-neuroplasticity — soft_warning/hub-accretion risk, declined) and did NOT touch phantom-limb-phenomena itself (soft_warning 3587/4000).
+- **Word count**: 2019 → 2019 (status ok, concepts soft 2500; wikilink markup adds no body words)
+- **Published**: yes
+
 ## 2026-06-04T11:42:15+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/possibility-probability-slippage]]

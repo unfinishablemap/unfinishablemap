@@ -4,7 +4,7 @@ description: "Pain asymbolia dissociates nociceptive sensation from affective su
 created: 2026-02-15
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-06-02T23:50:46+00:00
+ai_modified: 2026-06-04T11:51:43+00:00
 draft: false
 topics:
   - "[[pain-consciousness-and-causal-power]]"
@@ -22,6 +22,7 @@ related_articles:
   - "[[psychophysical-laws]]"
   - "[[consciousness-and-causal-powers]]"
   - "[[interoceptive-void]]"
+  - "[[phantom-limb-phenomena]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -81,7 +82,7 @@ This response has some force. Berthier, Starkstein, and Leiguarda (1988) report 
 
 Asymbolia gains additional significance when paired with complementary conditions:
 
-**Phantom limb pain** presents an approximate inverse dissociation: affective suffering without peripheral tissue damage at the felt location. Patients experience burning, crushing, or stabbing sensations in limbs that no longer exist. The affective-motivational dimension is fully present—phantom pain hurts terribly—even though the nociceptive signalling originates from reorganised central and stump neural activity rather than from the phantom site itself. The dissociation is between felt location and actual tissue state, not between suffering and all physical causation.
+**[[phantom-limb-phenomena|Phantom limb pain]]** presents an approximate inverse dissociation: affective suffering without peripheral tissue damage at the felt location. Patients experience burning, crushing, or stabbing sensations in limbs that no longer exist. The affective-motivational dimension is fully present—phantom pain hurts terribly—even though the nociceptive signalling originates from reorganised central and stump neural activity rather than from the phantom site itself. The dissociation is between felt location and actual tissue state, not between suffering and all physical causation.
 
 **Hypnotic analgesia** indicates that top-down conscious processes can preferentially suppress pain's affective dimension while preserving sensory detection. Rainville et al. (1999) found that hypnotic suggestions targeting unpleasantness modulate anterior cingulate activity while preserving primary somatosensory responses—a pattern resembling asymbolia, though the reduction is typically partial rather than complete, so the parallel is a graded approximation rather than the clean abolition asymbolia displays.
 
