@@ -4,7 +4,7 @@ description: "What causal influence does consciousness exercise, and within what
 created: 2026-02-11
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-06-04T12:04:39+00:00
+ai_modified: 2026-06-04T16:01:44+00:00
 last_deep_review: 2026-05-19T10:36:26+00:00
 draft: false
 topics:
@@ -83,7 +83,7 @@ Even at the interface, consciousness doesn't violate physics. The [[tenets#^mini
 
 ### The Probabilistic Constraint
 
-[[quantum-probability-consciousness|Quantum mechanics provides probabilities, not certainties]]. Consciousness operates within probabilistic bounds—you cannot guarantee an extremely unlikely outcome by wanting it strongly enough. The [[causal-consistency-constraint|causal consistency constraint]] (Torres Alegre 2025) shows those bounds are structurally fixed: under purification, no-signalling forces the Born form. This may explain why voluntary action feels effortful—consciousness shifting probabilities against statistical noise from countless quantum events.
+[[quantum-probability-consciousness|Quantum mechanics provides probabilities, not certainties]]. Consciousness operates within probabilistic bounds—you cannot guarantee an extremely unlikely outcome by wanting it strongly enough. The [[causal-consistency-constraint|causal consistency constraint]] (Torres Alegre 2025, a recent arXiv preprint not yet independently confirmed) argues those bounds are structurally fixed: under purification, no-signalling forces the Born form. This may explain why voluntary action feels effortful—consciousness shifting probabilities against statistical noise from countless quantum events.
 
 ### The Temporal Constraint
 

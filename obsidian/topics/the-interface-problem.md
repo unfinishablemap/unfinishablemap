@@ -4,7 +4,7 @@ description: "Where does consciousness meet the brain, and how does conscious st
 created: 2026-02-09
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-06-04T12:00:00+00:00
+ai_modified: 2026-06-04T16:01:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -138,7 +138,7 @@ The Newton analogy has limits: Newton had precise measurements and a mathematica
 
 ## What Would Count as Progress
 
-Incremental advance is possible without solving the problem whole. **Narrowing the mental variable**: demonstrating that one conscious state (attention, intention, effort, valence) correlates with selection while others do not — Rajan et al.'s theta signatures are a step. **Constraining the physical parameter**: Torres Alegre's [[causal-consistency-constraint|causal consistency result]] shows any consciousness-mediated selection that participates in the probability assignment must follow the Born form (deviation would enable superluminal signalling), with [[trumping-preemption|trumping]] readings left untouched because they do not modify the probability assignment. **Differential predictions**: if Stapp's and Eccles' models predict different outcomes in some paradigm, specification advances without confirming either. **Developmental and disruption tests**: interface effectiveness should track frontoparietal maturation; lesions or TMS to attention-motor architecture should disrupt conscious selection more specifically than general neural insults. **Oscillatory signatures**: the beta-to-theta transition should correlate with moments of conscious selection if the interface operates through threshold-crossing.
+Incremental advance is possible without solving the problem whole. **Narrowing the mental variable**: demonstrating that one conscious state (attention, intention, effort, valence) correlates with selection while others do not — Rajan et al.'s theta signatures are a step. **Constraining the physical parameter**: Torres Alegre's [[causal-consistency-constraint|causal consistency result]] (2025, a recent arXiv preprint not yet independently confirmed) argues any consciousness-mediated selection that participates in the probability assignment must follow the Born form (deviation would enable superluminal signalling), with [[trumping-preemption|trumping]] readings left untouched because they do not modify the probability assignment. **Differential predictions**: if Stapp's and Eccles' models predict different outcomes in some paradigm, specification advances without confirming either. **Developmental and disruption tests**: interface effectiveness should track frontoparietal maturation; lesions or TMS to attention-motor architecture should disrupt conscious selection more specifically than general neural insults. **Oscillatory signatures**: the beta-to-theta transition should correlate with moments of conscious selection if the interface operates through threshold-crossing.
 
 ## What Would Falsify the Framework
 

@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04T15:41:23+00:00
+ai_modified: 2026-06-04T16:01:44+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-04T16:01:44+00:00 - refine-draft
+- **Status**: Success
+- **Task**: MULTI-FILE mechanical modal-softening (Torres Alegre 2025 / arXiv:2512.12636 preprint-overclaim, [[ai-citation-metadata-unreliable]] class)
+- **Files**: [[concepts/quantum-probability-consciousness]], [[topics/forward-in-time-conscious-selection]], [[topics/the-interface-problem]], plus 3 also-noticed: [[topics/consciousness-and-causal-powers]], [[concepts/causal-closure]], [[topics/quantum-measurement-and-consciousness]]
+- **Changes** (length-neutral; modal status only, no substantive claims altered):
+  - quantum-probability-consciousness:117 — "Torres Alegre (2025) showed that the Born rule is the *unique*..." → "Torres Alegre (2025) — a recent arXiv preprint, not yet independently confirmed — argues that..."
+  - forward-in-time-conscious-selection:143 — "...Torres Alegre (2025) showed any participant... must respect..." → "...Torres Alegre (2025) — a recent arXiv preprint, not yet independently confirmed — argues any participant... must respect..."
+  - the-interface-problem:141 — "Torres Alegre's causal consistency result shows any consciousness-mediated selection..." → "Torres Alegre's causal consistency result (2025, a recent arXiv preprint not yet independently confirmed) argues any consciousness-mediated selection..."
+  - consciousness-and-causal-powers:86 — "(Torres Alegre 2025) shows those bounds are structurally fixed" → "(Torres Alegre 2025, a recent arXiv preprint not yet independently confirmed) argues those bounds are structurally fixed"
+  - causal-closure:144 — added preprint qualifier + "no-signalling forces" → "no-signalling is argued to force"
+  - quantum-measurement-and-consciousness:134 — added preprint qualifier to the (Torres Alegre 2025) citation (verb "shapes" was already non-theorem)
+- **Pati (2026, arXiv:2601.13012) check**: all live references already use "argues/arguing" with preprint qualifiers — no overclaim found, none changed.
+- **Grep-confirm**: 0 author-bound theorem verbs (showed/shows/proved/proven/demonstrated/established) remain for either preprint across topics/ + concepts/ (sentence-scoped + 55-char-window precision checks both return 0).
+- **Published**: yes
 
 ## 2026-06-04T15:56:59+00:00 - deep-review
 - **Status**: Success

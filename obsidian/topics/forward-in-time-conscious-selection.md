@@ -4,7 +4,7 @@ description: "How consciousness might select among quantum possibilities without
 created: 2026-03-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-06-03T12:40:00+00:00
+ai_modified: 2026-06-04T16:01:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -140,7 +140,7 @@ A more thoroughgoing dissent (Duch 2005, 2019) reads the same decoherence facts 
 
 Five considerations favour forward-in-time over retrocausal selection, varying in strength.
 
-**Minimality (strong).** The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] favours the smallest deviation from standard physics. Forward-in-time selection requires one intervention at one moment; retrocausal selection requires an influence propagating backward through an entire causal history. The [[causal-consistency-constraint|causal consistency constraint]] sharpens what "minimal" means for the post-decoherence variant: selection-only coupling preserves Born statistics by construction, so the relativistic-causality requirement Torres Alegre (2025) showed any participant in measurement outcomes must respect is satisfied without further argument.
+**Minimality (strong).** The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] favours the smallest deviation from standard physics. Forward-in-time selection requires one intervention at one moment; retrocausal selection requires an influence propagating backward through an entire causal history. The [[causal-consistency-constraint|causal consistency constraint]] sharpens what "minimal" means for the post-decoherence variant: selection-only coupling preserves Born statistics by construction, so the relativistic-causality requirement Torres Alegre (2025) — a recent arXiv preprint, not yet independently confirmed — argues any participant in measurement outcomes must respect is satisfied without further argument.
 
 **Phenomenological fit (weak).** Conscious experience presents itself as choosing among present possibilities, but this is non-conclusive: MWI satisfies it (each branch instantiates a choice), and so does epiphenomenalism. At best a tie-breaker.
 

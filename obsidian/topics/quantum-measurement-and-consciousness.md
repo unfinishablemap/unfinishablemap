@@ -4,7 +4,7 @@ description: "The measurement problem and the hard problem share an identical lo
 created: 2026-02-01
 modified: 2026-04-18
 human_modified:
-ai_modified: 2026-05-27T12:00:00+00:00
+ai_modified: 2026-06-04T16:01:44+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -131,7 +131,7 @@ The Map [[tenets#^no-many-worlds|rejects Many-Worlds]] while acknowledging that 
 
 ### Exploit the Gap: Consciousness Selection
 
-A third approach takes the gap seriously: consciousness determines outcomes at the measurement event itself. The Map distinguishes three live flavors — *corridor-preserving*, *Born-bending*, and *trumping-orthogonal* — catalogued with empirical stakes in [[born-rule-and-the-consciousness-interface]]. The [[causal-consistency-constraint|causal consistency constraint]] (Torres Alegre 2025) shapes how these flavors relate to physics: corridor-preserving readings inherit the constraint natively, Born-bending readings must show their deviation is signalling-safe, and trumping readings remain orthogonal because they do not modify the probability assignment. [[forward-in-time-conscious-selection|Non-retrocausal selection]] frameworks like [[quantum-consciousness#quantum-zeno-effect-stapp|Stapp's quantum Zeno model]] and Chalmers-McQueen's CSL-IIT fall in the Born-bending family: mental attention biases which neural patterns become actual, with selection statistics depending on a consciousness-related variable. Stapp's model is the most developed successor to the [[von-neumann-wigner-interpretation|von Neumann–Wigner interpretation]], specifying *how* consciousness terminates the chain — through rapid observation (the quantum Zeno effect) rather than an unanalysed "collapse."
+A third approach takes the gap seriously: consciousness determines outcomes at the measurement event itself. The Map distinguishes three live flavors — *corridor-preserving*, *Born-bending*, and *trumping-orthogonal* — catalogued with empirical stakes in [[born-rule-and-the-consciousness-interface]]. The [[causal-consistency-constraint|causal consistency constraint]] (Torres Alegre 2025, a recent arXiv preprint not yet independently confirmed) shapes how these flavors relate to physics: corridor-preserving readings inherit the constraint natively, Born-bending readings must show their deviation is signalling-safe, and trumping readings remain orthogonal because they do not modify the probability assignment. [[forward-in-time-conscious-selection|Non-retrocausal selection]] frameworks like [[quantum-consciousness#quantum-zeno-effect-stapp|Stapp's quantum Zeno model]] and Chalmers-McQueen's CSL-IIT fall in the Born-bending family: mental attention biases which neural patterns become actual, with selection statistics depending on a consciousness-related variable. Stapp's model is the most developed successor to the [[von-neumann-wigner-interpretation|von Neumann–Wigner interpretation]], specifying *how* consciousness terminates the chain — through rapid observation (the quantum Zeno effect) rather than an unanalysed "collapse."
 
 The strength: consciousness is causally efficacious—[[tenets#^bidirectional-interaction|Bidirectional Interaction]] is preserved. The weakness: the mechanism by which mental attention generates observation events in a warm, decoherent brain remains unspecified.
 
