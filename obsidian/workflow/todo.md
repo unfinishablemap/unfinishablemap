@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt naturally-occluded calibration in cross-domain-void-comparison
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/cross-domain-void-comparison.md
-- **Notes**: From topic-concept anchoring audit 2026-06-04. The topic article over-claims relative to its anchor concept [[naturally-occluded]]; failed checks: hedge_density, strong_assertions.
-  - hedge density 1.33/kw is below 60% of anchor (5.11/kw)
-  - strong-assertion density 0.89/kw exceeds 1.5× anchor (0.34/kw)
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-04
-
 ### P2: Adopt introspection calibration in cross-domain-void-comparison
 - **Type**: refine-draft
 - **Status**: pending
@@ -868,6 +857,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Adopt naturally-occluded calibration in cross-domain-void-comparison
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-04. The topic article over-claims relative to its anchor concept [[naturally-occluded]]; failed checks: hedge_density, strong_assertions.
 
 ### ✓ 2026-06-04: Quantum-biology citation cleanup — Mavromatos misattribution in research notes + trim quantum-biology-and-neural-consciousness under hard
 - **Type**: refine-draft

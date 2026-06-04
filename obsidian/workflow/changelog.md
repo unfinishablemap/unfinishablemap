@@ -5,6 +5,19 @@ ai_modified: 2026-06-04T09:12:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T16:45:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/cross-domain-void-comparison]]
+- **Task**: Topic-concept anchoring audit (2026-06-04) — failed calibration vs both [[concepts/introspection]] and [[concepts/naturally-occluded]] on hedge_density + strong_assertions. Deliberately LIGHT touch (per ⚠ steering): the anchors are heavily-hedged register-outliers; matching their hedge density would mush a tight 2251w comparison. Did NOT chase hedge_density.
+- **Strong-assertion reframes (the audit's real signal — 2 verbs found, 1 reframed)**:
+  - `establishes` → `argues for` ("a structural similarity the Map's own corpus *argues for*"). Calibration-correct: the referenced result (Szangolies/Lawvere unification of Gödel + measurement problem) is a live theoretical proposal of the Map's own corpus, not a settled fact, so "establishes" over-claimed. Genuine underdetermination-adjacent point.
+  - `shows that` (Gödel's first incompleteness theorem "shows that...") — LEFT UNCHANGED. This is a correct report of a proved theorem; weakening it would be calibration-INCORRECT (false hedge). Acceptable that strong_assertion_count lands at 1 not 0.
+- **Underdetermination marker (1 added, at a genuine non-adjudication point)**: appended to the common-cause-null paragraph "The cross-domain difference, real as it is, does not adjudicate between the dualist and illusionist readings of that difference." Lands a recognized `does not adjudicate` marker exactly where the paragraph already argues the comparison doesn't decide dualism-vs-illusionism. Not filler.
+- **No hedges added.** Article is already structurally calibrated (live-hypothesis framing, "constrains not establishes", §2 slippage diagnostic). Hedge_density stays at 1.32/kw — a register difference from the outlier anchors, NOT a failure.
+- **Anchoring re-run** `evaluate_anchoring`: strong_assertion 2→1 (0.89→0.44/kw), underdet 0→1, hedge 3 (unchanged). FLAGS: 2 → 0 (both anchors cleared — strong_assertions now passes both, dropping each anchor below the 2-failed-check active threshold).
+- **Length**: 2251w → 2271w (net +20w, well under 3000 soft). No bloat; live-hypothesis framing + constrains-not-establishes + slippage-diagnostic preserved. No editor-mode labels, no "not X / is Y" cliché.
+- **Published**: yes (kept draft: false)
+
 ## 2026-06-04T09:12:53+00:00 - refine-draft
 - **Status**: Success
 - **Task**: Quantum-biology citation cleanup (follow-on from 2026-06-04 deep-review). Two parts.

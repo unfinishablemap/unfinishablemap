@@ -4,7 +4,7 @@ description: "Physics and mathematics have their own hard limits. Comparing them
 created: 2026-06-04
 modified: 2026-06-04
 human_modified: null
-ai_modified: 2026-06-04T12:00:00+00:00
+ai_modified: 2026-06-04T16:45:00+00:00
 last_deep_review: 2026-06-04T12:00:00+00:00
 draft: false
 topics:
@@ -95,7 +95,7 @@ Crucially, **none** of the physics or mathematics voids exhibits *construction-m
 
 ## The Difference That Cuts the Other Way
 
-Intellectual honesty requires reporting a structural similarity the Map's own corpus establishes, one that *weakens* the independence claim. The taxonomy asserts that physics and mathematics voids "arise independently, from different features of different domains." That assertion is too strong.
+Intellectual honesty requires reporting a structural similarity the Map's own corpus argues for, one that *weakens* the independence claim. The taxonomy asserts that physics and mathematics voids "arise independently, from different features of different domains." That assertion is too strong.
 
 [[self-reference-and-the-limits-of-physical-description|Work the Map itself develops]] argues, following Szangolies' use of Lawvere's fixed-point theorem, that Gödelian incompleteness *and* the quantum measurement problem derive from a *single* category-theoretic mechanism—self-referential obstruction in Cartesian closed categories, which also generates Turing's halting problem, Cantor's diagonal argument, and Tarski's undefinability of truth. On that analysis, the deepest physics void and the deepest mathematics void are *not* independent: they are two faces of one fixed-point structure.
 
@@ -111,7 +111,7 @@ The [[what-voids-reveal|convergence argument]] faces a deflationary objection th
 
 The result is a qualified vindication. Along two measurable axes—taxonomic depth (four kinds vs. near-pure unexplorables) and signature profile (a largely disjoint inventory)—the consciousness cluster behaves *differently* from the physics and mathematics clusters. That difference is what the selection-effect worry predicts should be *absent* if the convergence were merely curatorial. So the comparison shifts weight, modestly, toward the convergence being a real feature rather than an artefact of where the Map looked.
 
-The vindication stays bounded by the [[common-cause-null|common-cause null]]. Showing consciousness voids behave differently from physics and math voids does not establish that they behave differently *because* dualism is true; an illusionist expects exactly the construction-mistaken-for-observation and dissolution-under-attention signatures, since those are what report-machinery errors feel like from inside. The comparison earns *framework-internal* discrimination—the consciousness cluster is not "just where humans fail"—without earning *framework-independent* confirmation of the tenet-package over rivals that also predict a distinctive introspective cluster. The honest verdict matches the apex's own discipline: the cross-domain difference is real and worth stating, but it raises coherence weight rather than supplying the distinguishing test.
+The vindication stays bounded by the [[common-cause-null|common-cause null]]. Showing consciousness voids behave differently from physics and math voids does not establish that they behave differently *because* dualism is true; an illusionist expects exactly the construction-mistaken-for-observation and dissolution-under-attention signatures, since those are what report-machinery errors feel like from inside. The comparison earns *framework-internal* discrimination—the consciousness cluster is not "just where humans fail"—without earning *framework-independent* confirmation of the tenet-package over rivals that also predict a distinctive introspective cluster. The cross-domain difference, real as it is, does not adjudicate between the dualist and illusionist readings of that difference. The honest verdict matches the apex's own discipline: the cross-domain difference is real and worth stating, but it raises coherence weight rather than supplying the distinguishing test.
 
 This connects most directly to the fifth tenet, **[[tenets#^occams-limits|Occam's Razor Has Limits]]**. The simplest deflation—"all hard limits are alike; consciousness is just the current frontier"—turns out to be *false to the structure*. Physics, mathematics, and consciousness voids have measurably different taxonomic depths and failure signatures. A parsimony argument that flattens them into one undifferentiated class of "things humans cannot yet do" sacrifices a real distinction for an apparent simplicity—precisely the failure mode the fifth tenet warns against. The cross-domain comparison is thus a worked instance of Occam's limits: the simpler classification is the less accurate one.
 
