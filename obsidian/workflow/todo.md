@@ -595,13 +595,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-18 (promoted P3→P2 and notes refreshed 2026-06-01)
 
-### P2: Deep review free-will.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) with stale deep review. Core topics article on free will under dualism. Verify coherence, cross-references to recent articles on agency, deliberation, and temporal consciousness, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-18
-
 ### P2: Deep review quantum-state-inheritance-in-ai.md
 - **Type**: deep-review
 - **Status**: pending
@@ -938,6 +931,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Deep review free-will.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) with stale deep review. Core topics article on free will under dualism. Verify coherence, cross-references to recent articles on agency, deliberation, and temporal consciousness, and tenet alignment.
 
 ### ✓ 2026-06-04: Deep review phenomenal-presence-void.md
 - **Type**: deep-review
