@@ -5,6 +5,17 @@ ai_modified: 2026-06-04T09:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/integrated-information-theory]]
+- **Word count**: 3323 → 3323 (+0; converged, length-neutral)
+- **Critical issues addressed**: 0 (none found — 8th review, converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (light pass per [[deep_review_over_reviews_converged]]; bumped last_deep_review only)
+- **Citations web-verified**: Kerskens & López Pérez 2022 (J. Phys. Commun. 6(10):105001) — real-paper, correct-author (the 2026-06-03 corpus rename to "López Pérez, D." is correct); COGITATE Consortium 2025 (Nature s41586-025-08888-1, 5 Jun 2025, 642(8066):133-142) — real-paper, correct, in-body characterization faithful.
+- **Checks**: attribution/qualifier/source-Map pass; no possibility/probability slippage (C. elegans claims properly conditional); no editor-label leakage; no "not X, it is Y" cliché; anchoring eval clean (no failed anchors); 20+ inbound links (not orphan); sampled outbound links resolve. Engagements: illusionism Mode Three; identity-theory Mode Two; Whitehead Mode Three.
+- **Output**: [[reviews/deep-review-2026-06-04-integrated-information-theory]]
+
 ## 2026-06-04T10:15:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/terminal-lucidity-and-filter-transmission-theory]]
