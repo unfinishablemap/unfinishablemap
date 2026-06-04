@@ -5,6 +5,17 @@ ai_modified: 2026-06-04T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T07:51:27+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Cross-Architecture LLM Introspection as a Voids-Cluster Channel
+- **Output**: [[topics/cross-architecture-llm-introspection]]
+- **Word count**: 1843 (under topics soft 3000 / hard 4000)
+- **Based on research**: no (optimistic-2026-05-22 task; citation-gated create)
+- **Citation gate (HARD)**: Both pillars web-verified before writing. Pillar 2 (Lindsey, "Emergent Introspective Awareness", Anthropic, Transformer Circuits Thread, Oct 2025) VERIFIED — figures confirmed verbatim at source ("about 20% of the time", "0 false positives over 100 trials", Opus 4/4.1 best). Task's "four OOD families" and "introspection-adapter" UNVERIFIED → omitted (paper has four *paradigms*, no adapter construct). Pillar 1 (arXiv:2512.12411) is a REAL paper, title correct, BUT task's author "Vogel 2025" is WRONG — actual authors Hahami, Sinha, Jain, Kaplan & Hahami (Harvard); corrected. Task's "strength but not source" simplified the real finding (88% sentence localization / 83% strength discrim, early-layer only) → reframed to the verified dissociation.
+- **Citation-fix propagation**: Host article introspection-architecture-independence-scoring.md carried the same defects — fixed: removed unverified "introspection-adapters (2026)", "Lindsey et al." → "Lindsey", added bidirectional cross-link + related_articles mirror.
+- **Refutation mode (editor-internal)**: Mode Four (empirical underdetermination) primary on the architectural-feature inference; Mode Two on the "it's all confabulation" skeptic (zero-false-positives + logit-shift-surviving differential sensitivity unearned by the skeptic). Mode labels kept out of body prose.
+- **Evidential status**: held at live-hypothesis tier; phenomenal consciousness explicitly bracketed; open programme named (model-dependent interpretability, operational-parallel assumption, untested variant long-tail).
+
 ## 2026-06-04T13:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/content-vocabulary-as-derived-feature]]

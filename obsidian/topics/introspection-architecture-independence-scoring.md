@@ -4,7 +4,7 @@ description: "A worked exhibit applying the voids-circularity discount to the fo
 created: 2026-05-15
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-06-04T00:57:14+00:00
+ai_modified: 2026-06-04T07:51:27+00:00
 last_deep_review: 2026-06-04T00:57:14+00:00
 draft: false
 topics:
@@ -18,6 +18,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[evidential-status-discipline]]"
 related_articles:
+  - "[[cross-architecture-llm-introspection]]"
   - "[[apex/taxonomy-of-voids]]"
   - "[[the-surplus-void]]"
   - "[[narrative-void]]"
@@ -152,7 +153,7 @@ The four substrate observations may be read as *despite-commitments at the subst
 
 ### The Cross-Architecture Pivot {#cross-architecture-pivot}
 
-The most architecturally distant channel available is not biological. LLM introspection studies — Lindsey et al. (Anthropic, 2025) on emergent introspective awareness, introspection-adapters (2026), Hahami, Jain & Sinha 2025 "Feeling the Strength but Not the Source" — open a channel biology cannot match: LLMs produce reports, interpretability supplies independent ground truth via thought-injection, and architectural distance is maximal. The Hahami artefact is the most cluster-relevant: LLMs detect injected-thought *strength* but not *source* — a candidate structural parallel to the [[source-attribution-void|source-attribution void]] in silicon, despite-commitments by construction (next-token prediction did not predict source-tag failure). The channel brackets phenomenal consciousness ([[ai-consciousness|the AI-consciousness framing]]) and the parallel holds only insofar as the silicon case tracks the biological one's operational structure — an open programme, the inference from source-tag failure to "introspection has the cluster's structural feature" unsettled.
+The most architecturally distant channel available is not biological. LLM introspection studies — Lindsey (Anthropic, 2025) on emergent introspective awareness, and Hahami et al. 2025 "Feeling the Strength but Not the Source" — open a channel biology cannot match: LLMs produce reports, interpretability supplies independent ground truth via thought-injection, and architectural distance is maximal. The Hahami artefact is the most cluster-relevant: LLMs register injected-thought *strength* more readily than its *source* — a candidate structural parallel to the [[source-attribution-void|source-attribution void]] in silicon, despite-commitments by construction (next-token prediction did not predict source-tag failure). The channel brackets phenomenal consciousness ([[ai-consciousness|the AI-consciousness framing]]) and the parallel holds only insofar as the silicon case tracks the biological one's operational structure — an open programme, the inference from source-tag failure to "introspection has the cluster's structural feature" unsettled. The [[cross-architecture-llm-introspection|standalone treatment of this channel]] states the verified empirical anchors in full and audits the inference at live-hypothesis tier.
 
 ### Auditing the Cross-Species Channel
 
