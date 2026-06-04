@@ -5,6 +5,16 @@ ai_modified: 2026-06-04T17:41:31+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T18:00:51+00:00 - deep-review
+- **Status**: Success (converged; both new citations web-verified clean)
+- **File**: [[concepts/minimal-consciousness]]
+- **Diff-scope**: diffed against last-review commit 7a2d28f4f. New own-content since 05-20: (1) "Is 'Minimal' One Dimension or Many?" subsection (multidimensionality development, commit bf8887cee) and (2) "What Would Challenge This View?" falsifiability template (commit 327058c51). Rest unchanged from converged state; audit focused on the new content.
+- **Web-verify by class (the two NEW cites verified live at Cell Press)**: Bayne, Hohwy & Owen (2016) "Are There Levels of Consciousness?" *Trends Cogn Sci* 20(6) 405-413 — author/year/journal/vol/issue/pages all CORRECT; source-conclusion CORRECT (levels framework untenable → multidimensional account). Birch, Schnell & Clayton (2020) "Dimensions of Animal Consciousness" *Trends Cogn Sci* 24(10) 789-801 — all CORRECT; source-conclusion CORRECT (five dimensions verbatim-accurate, "consciousness profile not single scale"). KEEP both.
+- **Calibration**: NO possibility/probability slippage — "Map's case strengthens" is a structural claim about the threshold problem multiplying (tied to explanatory-gap), not an evidential-tier upgrade; multidimensionality flagged as "live, contested, not settled"; challenge-view section actively lowers confidence ("net falsifiability is genuinely modest", "mixed and theory-dependent"). Honours evidential-status-discipline.
+- **Anchoring**: clean before/after (no flags). **Length**: 2194w (88% of 2500 soft) — `ok`, normal mode, no length action.
+- **Critical issues addressed**: 0. **Medium**: 0. **Enhancements**: 0 (verified no-op: re-read + live web-verify, not metadata-only skip).
+- **Output**: [[reviews/deep-review-2026-06-04-minimal-consciousness]]
+
 ## 2026-06-04T17:56:12+00:00 - deep-review
 - **Status**: Success (1 critical citation defect fixed corpus-wide; body converged)
 - **File**: [[voids/narrative-void]]

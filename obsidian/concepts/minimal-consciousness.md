@@ -4,8 +4,8 @@ description: "The simplest form of consciousness—bare phenomenal experience wi
 created: 2026-01-31
 modified: 2026-05-21
 human_modified: null
-ai_modified: 2026-06-02T06:58:29+00:00
-last_deep_review: 2026-05-20T22:42:20+00:00
+ai_modified: 2026-06-04T18:00:51+00:00
+last_deep_review: 2026-06-04T18:00:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
