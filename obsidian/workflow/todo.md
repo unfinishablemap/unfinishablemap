@@ -664,13 +664,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-03-15
 
-### P2: Write article on consciousness and the authority of mathematical proof
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Mathematical proof requires grasping *why* a proof works, not merely checking steps. Engages the Lucas-Penrose argument with Putnam's and Feferman's objections. Builds on consciousness-and-the-authority-of-formal-systems, argument-from-reason. See optimistic-2026-03-16-morning.md
-- **Source**: optimistic_review
-- **Generated**: 2026-03-16
-
 ### P2: Write concept page for non-propositional mental causation
 - **Type**: expand-topic
 - **Status**: pending
@@ -898,6 +891,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Write article on consciousness and the authority of mathematical proof
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Mathematical proof requires grasping *why* a proof works, not merely checking steps. Engages the Lucas-Penrose argument with Putnam's and Feferman's objections. Builds on consciousness-and-the-authority-of-formal-systems, argument-from-reason. See optimistic-2026-03-16-morning.md
 
 ### ✓ 2026-06-04: Write article on ritual structure in mental causation
 - **Type**: expand-topic
