@@ -5,6 +5,24 @@ ai_modified: 2026-06-04T16:05:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T16:52:40+00:00 - deep-review
+- **Status**: Success (CONVERGED — no body edits)
+- **File**: [[apex/pharmacological-dissociation-as-evidence]]
+- **Word count**: 4200 → 4200 (no change; license-to-no-op exercised)
+- **Re-review trigger**: changed-since-review staleness (last_deep_review 2026-05-18, ai_modified 2026-06-03). Diff-first audit of the post-review delta.
+- **Diff scoping**: (1) own-content apex-evolve development — compound-signature paragraphs imported from [[topics/epistemology-of-convergence-arguments]] into Class B + Cumulative Convergence, plus conversion-disorder psychogenic-sibling-route material; (2) one calibration import — MQI tenet line `Hameroff et al. (2025)` → `Wiest (2025)`.
+- **Web-verify**: Wiest (2025) niaf011 import CORRECT (single-author Michael C. Wiest, Wellesley; PMID 40342554; corpus-canonical) — Hameroff famous-name substitution correctly removed. Sarasso 2015 (*Curr Biol* 25(23):3099-3105) and Hu 2023 (*Nat Neurosci* 26(5):751-764) match source verified forms; apex carries no body locators → no stale-locator risk. Source-conclusion check PASS (each study reports the claimed dissociation).
+- **Dissociation-calibration**: honest throughout; constrain-not-establish held at every class; common-cause null explicitly pre-empted via compound-signature framing AND correctly discounted to compatibility-grade (architecture earned, dualist significance not). Five-tier placement correct (architecture = realistic-possibility; interactionist reading = live-hypothesis). No possibility→probability slippage.
+- **Seam-check**: compound-signature deep-link anchor resolves; import faithful to source two-tier discount. PASS.
+- **Anchoring**: evaluate_anchoring flagged low hedge density + 5 "strong assertions" — judged FALSE POSITIVE (lexicon mismatch: ~65 calibration tokens vs 4 generic-hedge matches; all 5 "assertions" are the word "establishes" inside constrain-vs-establish contrasts). No edit (would regress correct calibration).
+- **Length**: 4200w soft_warning (105% of 4000 soft, under 5000 hard) → length-neutral; no condense, not a human-length-decision.
+- **Reasoning-mode**: materialism/MWI = Mode Three; simplest-identity = Mode One. No label leakage.
+- **Timestamps**: ai_modified + last_deep_review + apex_last_synthesis all bumped (apex-last-synthesis-drift-artifact prevention).
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-06-04-pharmacological-dissociation-as-evidence]]
+
 ## 2026-06-04T16:46:19+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/capability-division-problem]]

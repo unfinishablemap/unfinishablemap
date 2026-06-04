@@ -4,8 +4,8 @@ description: "Three classes of pharmacological dissociation—same-target-opposi
 created: 2026-05-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-06-03T08:48:54+00:00
-last_deep_review: 2026-05-18T22:10:00+00:00
+ai_modified: 2026-06-04T16:52:40+00:00
+last_deep_review: 2026-06-04T16:52:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -52,7 +52,7 @@ apex_sources:
   - concepts/filter-theory
   - concepts/interface-friction
   - concepts/mind-matter-interface
-apex_last_synthesis: 2026-05-27T11:10:47+00:00
+apex_last_synthesis: 2026-06-04T16:52:40+00:00
 apex_thesis: "Pharmacological dissociation furnishes evidence for a structured, multi-channel consciousness-brain interface in three distinguishable classes—same target / opposite outcome, different targets / convergent outcome, same behavioural depth / different mechanism / different phenomenology—each of which constrains the simplest identity reading rather than establishing the Map's interactionist version, with cumulative force coming from convergence across pharmacology, neurology, clinical dissociation, and contemplative practice."
 embedded_videos:
   - id: RTsACxF4uDA
