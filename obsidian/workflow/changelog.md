@@ -5,6 +5,17 @@ ai_modified: 2026-06-04T07:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T05:12:11+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/clinical-dissociation-as-systematic-evidence]]
+- **Selection**: convergent outer-review synthesis 2026-06-04 (3/3 reviewers), upgraded P2→P1 (highest-value shared finding)
+- **Finding addressed**: precision-weighting common-cause undercut of the convergence argument (Claude leg of [[outer-review-synthesis-2026-06-04]]). All three reviewers fault the missing 2012–2026 predictive-processing engagement; Claude sharpens it into a [[common-cause-null]] objection — one aberrant-precision mechanism may span FND, DPDR, and dissociative amnesia, so the routes do not triangulate independent confirmations.
+- **Integration**: woven a concise common-cause concession into the existing "Systematic Pattern" convergence paragraph (not a new section). Named the precision-weighting candidate explicitly using the cites ALREADY present (Edwards et al. 2012; Seth/Suzuki/Critchley 2012; amnesia retrieval-suppression); applied the honest BLEND — conceded precision-weighting is a real partial common cause that thins the four-fold independence, while arguing the routes are a loose family (retrieval-suppression vs interoceptive-precision vs motor-prior) not one mechanism, and DID's cross-state integration resists the framing. Updated the paragraph's closing "share no mechanism" claim (now false) to a triple-discounted compound-signature reading. Mirrored the concession into the "Why This Favours Dualism" opening and the Dualism tenet paragraph.
+- **Calibration**: presented as a genuine tempering, not a defeated objection; two-tier "constrain not establish / earns architecture, leaves dualist significance separate" framing preserved. No editor-mode labels in body; no "not X, it is Y" cliché (grep-confirmed clean).
+- **Cites**: NO new cites added — reused the precision-weighting anchors already in the article. Gemini's Constant/Clark/Friston 2022 corroboration cite deliberately NOT added (corroboration-only, not web-verified, would cost length). No fabrication.
+- **Length**: 3439w → 3519w (NET +80w for the full common-cause engagement; offset ~140w of added content with redundant-exposition trims across the DPDR, conversion, trauma, DID, and tenet paragraphs). Lands under the 3600 ceiling, marginally over the 3500 ideal. `tools.curate.length` status: soft_warning (hard 4000) — did NOT push toward the hard ceiling, leaving headroom for the 2 remaining queued P1 tasks (framing-calibration, FND-terminology).
+- **Published**: yes
+
 ## 2026-06-04T05:04:31+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/mind-arena]]
