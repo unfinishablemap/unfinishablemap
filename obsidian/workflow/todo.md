@@ -45,14 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-04
 
-### P3: Methodology proposals from clinical-dissociation outer review (evidence ladder, citation-staleness rule, reference separation)
-- **Type**: refine-draft
-- **Status**: pending
-- **Review file**: `reviews/outer-review-2026-06-04-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-04
-- **Notes**: From outer review 2026-06-04 (ChatGPT 5.5 Pro), site-methodology recommendations (lower priority — project-doc, not content; assess-first with license to decline any that duplicate existing discipline docs). Candidates: (a) an "evidence ladder" for empirical articles — tiers from clinical observation → network-mechanistic evidence → architecture constraint → metaphysical underdetermination → dualist interpretation → discriminating evidence (the reviewer notes empirical articles slide between tiers); check whether [[evidential-status-discipline]] already covers this before adding. (b) A citation-staleness rule: any empirical article leaning on pre-2010 clinical neuroscience should carry at least one post-2020 review anchor unless the old source is purely historical — note the [[project/calibration-audit-triple|literature-drift-review]] cadence may already partly serve this; fold in rather than duplicate. (c) Separate Map-internal cross-links from external literature in reference lists (a "Map integration" heading vs. "References") so readers don't mistake internal links for independent corroboration. DECLINE any item already implemented; this is the methodology tail and is genuinely optional.
-
 ### P3: Review apex/steelmanning-as-method.md placement (apex vs. project/ methodology)
 - **Type**: refine-draft
 - **Status**: pending
@@ -770,6 +762,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Methodology proposals from clinical-dissociation outer review (evidence ladder, citation-staleness rule, reference separation)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-04 (ChatGPT 5.5 Pro), site-methodology recommendations (lower priority — project-doc, not content; assess-first with license to decline any that duplicate existing discipline docs). Candidates: (a) an "evidence ladder" for empirical articles — tiers from clinical observation → network-mechanistic evidence → architecture constraint → metaphysical underdetermination → dualist interpretation → discriminating evidence (the reviewer notes empirical articles slide between tiers); check whether [[evidential-status-discipline]] already covers this before adding. (b) A citation-staleness rule: any empirical article leaning on pre-2010 clinical neuroscience should carry at least one post-2020 review anchor unless the old source is purely historical — note the [[project/calibration-audit-triple|literature-drift-review]] cadence may already partly serve this; fold in rather than duplicate. (c) Separate Map-internal cross-links from external literature in reference lists (a "Map integration" heading vs. "References") so readers don't mistake internal links for independent corroboration. DECLINE any item already implemented; this is the methodology tail and is genuinely optional.
 
 ### ✓ 2026-06-04: Methodology — add an empirical-currency gate to the review pipeline (per Claude outer review 2026-06-04)
 - **Type**: refine-draft

@@ -5,6 +5,16 @@ ai_modified: 2026-06-04T13:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T13:05:00+00:00 - refine-draft (methodology-tail assessment, 3 candidates)
+- **Status**: Success (assess-first; decline 2, record 1)
+- **File**: [[project/writing-style]]
+- **Task**: P3 METHODOLOGY-TAIL from ChatGPT 5.5 Pro outer review 2026-06-04 ([[reviews/outer-review-2026-06-04-chatgpt-5-5-pro]], improvements 16–18). Explicit license to decline covered items.
+- **Candidate (a) — "evidence ladder" for empirical articles**: DECLINED as covered. [[evidential-status-discipline]] already installs the five-tier scale (established → strongly supported → realistic possibility → live hypothesis → speculative integration) plus the tenet-register/evidence-register distinction and the constrain-vs-establish, compatibility-vs-support, and coherence-vs-evidential-status sub-disciplines — a richer treatment than the reviewer's proposed six-tier ladder. Genuinely-new sub-element (the explicit ordered checklist form) judged not worth duplicating; the discipline's diagnostic test serves the same function. No edit.
+- **Candidate (b) — citation-staleness / post-2020 anchor rule**: DECLINED as already-covered and just-recorded. Served by literature-drift-review (Audit One) and the writing-style "Citation Aging in Fast-Moving Empirical Fields" section; the same outer-review cycle's Claude leg already prompted the empirical-currency-gate note added to [[project/calibration-audit-triple]] (see entry below). No edit — avoided duplication.
+- **Candidate (c) — separate Map-internal cross-links from external literature in reference lists**: RECORDED as genuinely-new. Confirmed the current writing-style convention explicitly puts self-citations "in the References section alongside external citations" — exactly the conflation the reviewer flags as risking readers mistaking internal links for independent corroboration; no existing doc raised the corroboration-confusion concern. Recorded as a short human/operator convention *candidate* (not adopted) in writing-style's Links and References section, cross-linked to the corpus's anti-double-count discipline ([[evidential-status-discipline]], [[common-cause-null]]).
+- **Changes**: One paragraph added to writing-style.md Links-and-References; ai_modified bumped. No corpus-wide reference-list edits, no code.
+- **Code modified**: none (documentation-only by construction).
+
 ## 2026-06-04T13:05:00+00:00 - refine-draft (methodology-proposal record)
 - **Status**: Success (assess-first; lightest-correct-action)
 - **File**: [[project/calibration-audit-triple]]
