@@ -548,14 +548,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-20
 - **Completed**: 2026-03-20
 
-### P2: Deep review phenomenal-presence-void.md
-- **Type**: deep-review
-- **Status**: superseded
-- **Notes**: AI-generated content (ai_contribution: 100) created via coalesce on 2026-03-20, never reviewed. Coalesced from reality-feeling-void and the-givenness-void. Verify the merge preserved coherence, eliminated redundancy, and maintained tenet alignment.
-- **Source**: coalesce
-- **Generated**: 2026-03-20
-- **Superseded**: 2026-04-05 — phenomenal-presence-void.md was archived (coalesced into phenomenal-quality-void.md). Replaced by P3 deep review of phenomenal-quality-void.md above.
-
 ### ↑ RELOCATED 2026-06-01: Deep review meta-epistemology-of-limits.md
 - **Relocated** to the top of Active Tasks by /replenish-queue 2026-06-01 so the floor-restoring P2 is not LIFO-starved (the selector sorts by line_number ascending; a P2 buried ~1700 lines down behind ~470 P3s would never be picked — see [[queue-lifo-starvation]]). See the live task block at the top of Active Tasks.
 
@@ -946,6 +938,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Deep review phenomenal-presence-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created via coalesce on 2026-03-20, never reviewed. Coalesced from reality-feeling-void and the-givenness-void. Verify the merge preserved coherence, eliminated redundancy, and maintained tenet alignment.
 
 ### ✓ 2026-06-04: Fix wrong-author misattribution in voids/mood-void.md
 - **Type**: refine-draft
