@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04T17:22:19+00:00
+ai_modified: 2026-06-04T17:36:19+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-04T17:36:19+00:00 - deep-review
+- **Status**: Success (converged — no body edits; 3 timestamps bumped only)
+- **File**: [[apex/attention-as-causal-bridge]]
+- **Word count**: 4080 → 4080 (102% of apex 4000 soft, under 5000 hard, `soft_warning` — stable)
+- **Diff-scoping**: changed-since-review (last_deep_review 2026-05-19, ai_modified 2026-06-02). Diff vs `75f94fbe3` revealed MORE than the flagged Zheng & Meister normalization: (1) Z&M 2024→2025 +vol/pages; (2) Wise & Murray→Fine & Hayden author fix; (3) Nartker eLife 14/e97156→13/RP100337 fix; (4) NEW ~340w predictive-processing rival section +2 related links; (5) tenet anchor `#^occams-razor-has-limits`→`#^occams-limits`.
+- **Web-verify (publisher of record, 4 cites)**: Zheng & Meister (2025) *Neuron* 113(2):192-204 ✓ (print Jan 2025; source-conclusion check on 10 bits/s bandwidth gloss — accurate, not over-extended). Fine & Hayden (2022) *Phil Trans R Soc B* 377(1844):20200524 ✓ (Wise & Murray was the wrong author; swap is a genuine fix). Nartker et al. (2025) *eLife* 13:RP100337 ✓ (prior 14/e97156 was wrong). Cai et al. (2024) *Nature* 635:406-414 ✓. New section's Hohwy/Clark/Friston precision-weighting attribution ✓ canonical. 3-state: all keep.
+- **Calibration**: NO slippage. New predictive-processing section is calibration-*strengthening* — concedes rival "compatible with almost everything the evidence directly establishes," declares disagreement "closer to bedrock," invokes [[common-cause-null]]. Load-bearing dualist inference keeps its qualifier ("potentially ontologically distinct"; "constrain rather than establish").
+- **Anchoring**: evaluate_anchoring flagged 2 anchors (hedge_density/strong_assertions) — assessed REGISTER ARTIFACT (apex compresses 8 sources → lower per-kw hedge density). All flagged strong assertions are demonstrated findings (Thura/Cisek, Kahneman, Rizzolatti) where hedging would be dishonest softening, or already-qualified inferences. No edits warranted.
+- **Reasoning-mode (editor-internal)**: predictive-processing engagement = Mixed→Mode Three dominant (mutual-compatibility concession + 2 discriminators + bedrock-residue declaration); AST = Mixed (unchanged). No label leakage (forbidden-vocab grep zero hits).
+- **Apex fields**: bumped `ai_modified` + `last_deep_review` + `apex_last_synthesis` (all 2026-06-04T17:36:19Z) to prevent the [[apex-last-synthesis-drift-artifact]] stale-field bug.
+- **Critical issues addressed**: 0 | **Medium**: 0 | **Enhancements**: 0 (4th review; since-review diff all correct citation hygiene + 1 calibration-exemplary section)
+- **Output**: [[reviews/deep-review-2026-06-04-attention-as-causal-bridge]]
 
 ## 2026-06-04T17:22:19+00:00 - deep-review
 - **Status**: Success (converged — no body edits)
