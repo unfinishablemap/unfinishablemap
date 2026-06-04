@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04T09:46:32+00:00
+ai_modified: 2026-06-04T10:11:54+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-04T10:11:54+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/normative-void]]
+- **Word count**: 2151 → 2180 (+29; expanded reference-note provenance, length-neutral on prose; 109% of 2000 soft, under 3000 hard)
+- **Critical issues addressed**: 1 (citation venue/date error — ref #6 Werner "Moral Perception" cited a nonexistent 2018 SEP entry; corrected to *Philosophy Compass* 15(1) e12640, 2020, with IEP-vs-Werner quote provenance noted. Latent defect that survived 3 prior reviews; only live web-verify caught it)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (source-trail accuracy)
+- **Citations web-verified**: 7 refs — 6 correct (Street, McGinn, Williams, Palazzo et al., Caputo & Scanlon, plus McGinn-URL hedged-low-risk), 1 corrected (Werner). Quotes verbatim-audited, dates sanity-checked, anchoring `[]` clean, all wikilinks resolve.
+- **Selection rationale**: staleness deep-review (36-day gap). Only post-review change was a mechanical wikilink retarget (commit d4491214a) — converged on prose, but live citation web-verify surfaced the Werner defect.
+- **Output**: [[reviews/deep-review-2026-06-04-normative-void]]
 
 ## 2026-06-04T10:06:52+00:00 - deep-review
 - **Status**: Success (converged — metadata-only, no content changes)
