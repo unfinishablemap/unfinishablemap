@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-06-04 00:00:00+00:00
+ai_modified: 2026-06-04 02:12:02+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -19,6 +19,7 @@ description: Feminist phenomenology treats consciousness as embodied and situate
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-06-04 02:12:02+00:00
 modified: *id001
 related_articles:
 - '[[embodied-consciousness]]'
@@ -42,7 +43,7 @@ Feminist phenomenology investigates how consciousness is lived through a body ma
 
 The tradition's foundational move comes from Simone de Beauvoir's *The Second Sex* (1949). Beauvoir reframes the body not as a fixed biological object but as a *situation* — the perspective and instrument through which a person takes up a world that has already assigned meanings to that body. Her analysis turns on a distinction between immanence (being confined to maintenance, repetition, and objecthood) and transcendence (the projection of free activity toward chosen ends), arguing that women have historically been confined to immanence by their social situation rather than their biology.
 
-Crucially, the body-as-situation is not a dualist claim about an immaterial self piloting a physical frame. It is the opposite: the self *is* its embodied engagement with the world, shaped by how that body is positioned socially. Beauvoir's account is existential-phenomenological, drawing on Merleau-Ponty's notion of the body-subject. The famous claim that "one is not born, but rather becomes, woman" locates gender in lived embodiment and social formation, not in a separable mental substance.
+Crucially, the body-as-situation is not a dualist claim about an immaterial self piloting a physical frame. It is the opposite: the self *is* its embodied engagement with the world, shaped by how that body is positioned socially. Beauvoir's account is existential-[phenomenological](/concepts/phenomenology/), drawing on Merleau-Ponty's notion of the body-subject. The famous claim that "one is not born, but rather becomes, woman" locates gender in lived embodiment and social formation, not in a separable mental substance.
 
 ## Gendered Motility: Iris Marion Young
 
@@ -64,7 +65,7 @@ This critique is largely directed at *substance* dualism of the Cartesian *res c
 
 ## Relation to Site Perspective
 
-The Map's dualism is **interface dualism**: consciousness couples to the world *through* the embodied brain, selecting among physically-available quantum outcomes at the [consciousness-matter interface](/concepts/mind-matter-interface/). Consciousness here is not a disembodied res cogitans surveying the body from outside. On the Map's picture, experience is always experience *of* and *through* a particular embodied situation — which is exactly why the body shapes consciousness without producing it. The Map therefore **shares the feminist rejection of disembodied Cartesianism**. The self that feminist phenomenology dismantles is not the self the Map's tenets require.
+The Map's dualism is **interface dualism**: consciousness couples to the world *through* the embodied brain, selecting among physically-available quantum outcomes at the [consciousness-matter interface](/concepts/mind-matter-interface/). Consciousness here is not a disembodied res cogitans surveying the body from outside. On the Map's picture, experience is always experience *of* and *through* a particular embodied situation — which is exactly why the body shapes consciousness without producing it. The Map therefore **shares the feminist rejection of disembodied Cartesianism**. On the Map's own reading of its tenets, the self that feminist phenomenology dismantles is not the self interface dualism requires — though a feminist phenomenologist need not, and mostly would not, grant that the interface picture escapes the critique merely by relocating the coupling to the body.
 
 That shared rejection establishes compatibility, not support. The Map marks the framework boundary honestly, following the [direct-refutation discipline](/project/direct-refutation-discipline/): where feminist philosophy of mind is enactivist or physicalist, it genuinely diverges from the Map and is not refuted by tenet-incompatibility. Young's inhibited intentionality and Ahmed's inherited orientation are offered as features of a *single* embodied process, with no implication of a non-physical selector. A feminist phenomenologist could read every description in this article and remain a thoroughgoing physicalist. The Map does not claim otherwise, and does not recruit these thinkers as allies in its metaphysics.
 

@@ -9,6 +9,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-04T02:12:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [feminist-phenomenology-and-embodied-consciousness](/concepts/feminist-phenomenology-and-embodied-consciousness/)
+- **Word count**: 1352 → 1386 (+34)
+- **Critical issues addressed**: 0 (none found — all 3 external citations web-verified clean on author/title/year/venue/ISBN; Beauvoir verbatim correct for the 2011 Borde/Malovany-Chevallier edition; no label leakage)
+- **Medium issues addressed**: 1 (strengthened the central boundary claim to anticipate the feminist reply that interface dualism may not escape the anti-Cartesian critique merely by relocating coupling to the body; added Map's-own-reading qualifier)
+- **Enhancements made**: 1 cross-link ([phenomenology](/concepts/phenomenology/), frontmatter-declared but body-unlinked)
+- **Engagement classification**: feminist anti-Cartesian critique — Mode Three (framework-boundary marking); honest, no boundary-substitution. "compatibility grade" confirmed established corpus vocabulary, not a label leak.
+- **Anchoring**: hedge-density flag treated as genre false-positive (descriptive tradition-coverage vs metaphysical-claim anchors); one genuine qualifier added, hedge-padding declined to avoid over-hedge-into-mush.
+- **Output**: [deep-review-2026-06-04-feminist-phenomenology-and-embodied-consciousness](/reviews/deep-review-2026-06-04-feminist-phenomenology-and-embodied-consciousness/)
+
 ## 2026-06-04 - expand-topic
 - **Status**: Success
 - **Topic**: Feminist philosophy of mind and consciousness (feminist phenomenology)
