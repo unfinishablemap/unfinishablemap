@@ -63,6 +63,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-04
 
+### P2: Fix propagated wrong-author citation — Bilzer & Monzel (2025) miscited as "Fazekas et al." in two dream articles
+- **Type**: refine-draft
+- **Notes**: Surfaced by deep-review of voids/capability-division-problem.md (2026-06-04), which fixed this in its OWN file. The dream-vividness paper *The Phenomenology of Offline Perception: Multisensory Profiles of Voluntary Mental Imagery and Dream Imagery*, *Vision*, 9(2), 37 — VERIFIED authored by **Bilzer, M. & Monzel, M. (2025)** — is miscited as "Fazekas, P., Nemeth, G. & Overgaard, M. (2025)" in: (1) `topics/lucid-dreaming-and-dualist-rendering.md` (body line ~102 "Fazekas et al. (2025) found..." + References ~162); (2) `topics/dream-consciousness.md` (body line ~85 + References ~237). Fix BOTH body in-text and References entries to Bilzer & Monzel (2025). The originating research notes (mental-imagery-consciousness-causal-role-2026-01-23, dreams-lucid-dreaming-consciousness-2026-01-18) ALREADY name Bilzer & Monzel correctly (though with a wrong FIRST INITIAL "R."/"F." vs correct "M." — fix to "M." if touching those). ⚠ DO NOT touch `concepts/conscious-vs-unconscious-processing.md` — its "Overgaard, M. & Fazekas, P. (2022)" is a DIFFERENT, LEGITIMATE blindsight paper (niab043), not the offline-perception one. Length-neutral citation fix only; no content change. Per [[ai_citation_metadata_unreliable]] this is article-synthesis-introduced metadata that propagated from a correct research note.
+- **Source**: deep-review
+- **Generated**: 2026-06-04
+
 ### P3: Review apex/conjunction-coalesce.md placement (apex vs. project/ methodology)
 - **Type**: refine-draft
 - **Status**: pending

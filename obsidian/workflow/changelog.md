@@ -5,6 +5,20 @@ ai_modified: 2026-06-04T16:05:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T16:46:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/capability-division-problem]]
+- **Word count**: 2817 → 2879 (+62; two References entries added for a citation-completeness fix)
+- **Re-review trigger**: prior review (2026-05-20) certified equilibrium at 1938w and set a reactivation clause; condition (a) "new substantive content" fired — two new sections ("Worked Exhibit: The Rendering Dilemma", "What Would Challenge This View?") added since. Reviewed the new content; old sections remain at the certified equilibrium (no oscillation).
+- **Critical issues addressed**: 1 — **wrong-author citation FIXED**: dream-vividness finding attributed to "Fazekas et al. (2025)" but the paper (*The Phenomenology of Offline Perception*, *Vision*, 9(2), 37) is authored by **Bilzer, M. & Monzel, M. (2025)** (web-verified). Real-paper-wrong-author 3-state → fix (claim is sound, attribution fabricated). Corrected body + References.
+- **Medium issues addressed**: 1 — Bilzer & Monzel and Ffytche (1998) were both cited in body but missing from References; both added (web-verified Ffytche correct: *Nature Neuroscience*, 1(8), 738-742). References renumbered 1–10.
+- **Web-verify**: 2 new citations (Bilzer & Monzel → fix; Ffytche → keep). Prior review already verified Derrien/Fahrenfort/Phillips/Goodale.
+- **Anchoring**: evaluate_anchoring → 0 flags before and after.
+- **Length**: soft_warning (144% of 2000 soft, under 3000 hard) → length-neutral, no condense.
+- **Reasoning-mode**: Worked Exhibit engages production framing as Mode Three (boundary-marking, "coherence not refutation"); honest, no label leakage.
+- **Follow-on queued (P2, Source: deep-review)**: same wrong-author Bilzer/Monzel→Fazekas miscitation propagated to topics/lucid-dreaming-and-dualist-rendering.md and topics/dream-consciousness.md (out of scope here). NOTE: conscious-vs-unconscious-processing.md's Overgaard&Fazekas 2022 is a DIFFERENT legitimate blindsight paper — left untouched.
+- **Output**: [[reviews/deep-review-2026-06-04-capability-division-problem]]
+
 ## 2026-06-04T16:39:09+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-agency-vs-passivity]]
