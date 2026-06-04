@@ -5,6 +5,19 @@ ai_modified: 2026-06-04T20:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T13:45:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/constitution-vs-causal-work]]
+- **Verdict**: Fresh-create defect-tail first pass — 1 critical citation fix
+- **Word count**: 1563 → 1563 (no change; ok, 63% of soft threshold)
+- **Critical issues addressed**: 1 (Saad ref title fabricated/inexact → canonical form, web-verified)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Web-verify**: Clark 2016 + Hohwy 2013 PP books confirmed accurate; Saad 2025 confirmed = "A dualist theory of experience", Phil Studies 182:939-967, DOI 10.1007/s11098-025-02290-3 (article had wrong title)
+- **Anchoring**: under-hedge flag assessed as register-outlier (definitional page), not actioned
+- **Engagement**: predictive-processing rival — Mode Three (boundary-marking), correct; no label leakage
+- **Output**: [[reviews/deep-review-2026-06-04-constitution-vs-causal-work]]
+
 ## 2026-06-04T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/three-dimensional-world-representation-problem]]
