@@ -4,7 +4,7 @@ description: "Anaesthetic pharmacology maps the consciousness-brain interface wi
 created: 2026-02-23
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-06-03T00:20:14+00:00
+ai_modified: 2026-06-04T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -115,7 +115,7 @@ Recovery converges with the four-component interface model. Disconnected conscio
 
 Stone et al. (2025) found genetically identical mice under identical conditions showed emergence times varying by at least two orders of magnitude, with no consistent inter-individual differences — within-animal variability matched between-animal variability. Deterministic pharmacokinetic models failed; a stochastic neuronal-dynamics model fit the distribution. No single brain area controlled emergence — recovery depended on network-level dynamics where individual neuronal noise propagated into macro-level variability. Consciousness reconstitutes through distributed network effects rather than switching on at a single site.
 
-A stochastic model fitting the data establishes that emergence timing is not deterministically fixed by macroscopic pharmacokinetics; it is silent on whether the underlying randomness is classical thermal noise or genuine indeterminacy at the interface. Both readings predict the observed variability, and the study contains no measurement that separates them. The quantum-interface reading — that if consciousness interfaces through quantum-sensitive molecular systems, re-engagement timing could inherit genuine indeterminacy — is a live hypothesis the data do not decide, treated at full resolution in [[stochastic-emergence-as-quantum-interface-evidence]].
+A stochastic model fitting the data indicates that emergence timing is not deterministically fixed by macroscopic pharmacokinetics; it does not adjudicate whether the underlying randomness is classical thermal noise or genuine indeterminacy at the interface. Both readings predict the observed variability, and the study contains no measurement that separates them. The quantum-interface reading — that if consciousness interfaces through quantum-sensitive molecular systems, re-engagement timing could inherit genuine indeterminacy — is a live hypothesis the data do not decide, treated at full resolution in [[stochastic-emergence-as-quantum-interface-evidence]].
 
 ### The Bootstrapping Problem
 

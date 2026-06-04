@@ -38,6 +38,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt neural-correlates-of-consciousness calibration in anaesthesia-and-the-consciousness-interface
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
+- **Notes**: From topic-concept anchoring audit 2026-06-04. The topic article over-claims relative to its anchor concept [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/); failed checks: strong_assertions, underdetermination_markers.
+  - topic uses 1 strong-assertion verbs where anchor uses none
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-04
+
+### P2: Adopt neural-correlates-of-consciousness calibration in neural-refresh-rates-and-the-smoothness-problem
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/neural-refresh-rates-and-the-smoothness-problem.md
+- **Notes**: From topic-concept anchoring audit 2026-06-04. The topic article over-claims relative to its anchor concept [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/); failed checks: strong_assertions, underdetermination_markers.
+  - topic uses 1 strong-assertion verbs where anchor uses none
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-04
+
+
 ### P3: Reciprocity link concepts/pain-asymbolia.md → topics/phantom-limb-phenomena.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -665,34 +688,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-03-15
 
-### P2: Write article on ritual structure in mental causation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Placebo response, contemplative practice, and therapeutic ritual share a common structure: repeated intentional actions with symbolic significance producing measurable physiological change. Unifies currently separate threads in placebo-effect-and-mental-causation, contemplative-epistemology, and contemplative-pathology-and-interface-malfunction. See optimistic-2026-03-16-morning.md
-- **Source**: optimistic_review
-- **Generated**: 2026-03-16
-
-### P2: Write article on consciousness and the authority of mathematical proof
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Mathematical proof requires grasping *why* a proof works, not merely checking steps. Engages the Lucas-Penrose argument with Putnam's and Feferman's objections. Builds on consciousness-and-the-authority-of-formal-systems, argument-from-reason. See optimistic-2026-03-16-morning.md
-- **Source**: optimistic_review
-- **Generated**: 2026-03-16
-
-### P2: Write concept page for non-propositional mental causation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Open-label placebos, motor intention, and emotional regulation all suggest consciousness acts through something other than propositional attitudes. Currently referenced but never defined as a concept. See optimistic-2026-03-16-morning.md
-- **Source**: optimistic_review
-- **Generated**: 2026-03-16
-
-### P2: Write article on binding and measurement as twin manifestations of the unity gap
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The binding problem (unity from neural multiplicity) and measurement problem (definiteness from quantum superposition) share identical logical architecture. The binding problem's "shared structure" section gestures at this but neither article develops the parallel fully. Would be the Map's most ambitious philosophical contribution — showing these are two faces of the same explanatory gap. See optimistic-2026-03-17-morning.md
-- **Source**: optimistic_review
-- **Generated**: 2026-03-17
-
 ### ✅ P3: Write article on consciousness and the philosophy of mathematics
 - **Type**: expand-topic
 - **Status**: superseded
@@ -906,6 +901,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Write article on binding and measurement as twin manifestations of the unity gap
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The binding problem (unity from neural multiplicity) and measurement problem (definiteness from quantum superposition) share identical logical architecture. The binding problem's "shared structure" section gestures at this but neither article develops the parallel fully. Would be the Map's most ambitious philosophical contribution — showing these are two faces of the same explanatory gap. See optimistic-2026-03-17-morning.md
+
+### ✓ 2026-06-04: Write concept page for non-propositional mental causation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Open-label placebos, motor intention, and emotional regulation all suggest consciousness acts through something other than propositional attitudes. Currently referenced but never defined as a concept. See optimistic-2026-03-16-morning.md
+
+### ✓ 2026-06-04: Write article on consciousness and the authority of mathematical proof
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Mathematical proof requires grasping *why* a proof works, not merely checking steps. Engages the Lucas-Penrose argument with Putnam's and Feferman's objections. Builds on consciousness-and-the-authority-of-formal-systems, argument-from-reason. See optimistic-2026-03-16-morning.md
+
+### ✓ 2026-06-04: Write article on ritual structure in mental causation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Placebo response, contemplative practice, and therapeutic ritual share a common structure: repeated intentional actions with symbolic significance producing measurable physiological change. Unifies currently separate threads in placebo-effect-and-mental-causation, contemplative-epistemology, and contemplative-pathology-and-interface-malfunction. See optimistic-2026-03-16-morning.md
 
 ### ✓ 2026-06-04: Write article on consciousness development and ontogeny
 - **Type**: expand-topic

@@ -5,6 +5,15 @@ ai_modified: 2026-06-04T05:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T06:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
+- **Task**: topic-concept anchoring audit calibration (anchor [[concepts/neural-correlates-of-consciousness]])
+- **Changes**: Fold-into-reframe of the single strong-assertion verb at the stochastic-emergence underdetermination point. "A stochastic model fitting the data establishes that emergence timing is not deterministically fixed… it is silent on whether…" → "…indicates that emergence timing is not deterministically fixed… it does not adjudicate whether…". One net-zero edit cleared strong_assertion_count (1→0) and supplied the underdetermination marker (0→1, "does not adjudicate") at a genuine classical-noise-vs-quantum-indeterminacy ambiguity point. Calibration-only; voice and central claim preserved; no citations altered; hedge_density untouched (3.92).
+- **Post-edit anchoring**: evaluate_anchoring returns [] (both failed checks cleared)
+- **Length**: 3827w (net-zero, ≤4000 hard ceiling)
+- **Published**: yes
+
 ## 2026-06-04T02:39:30+00:00 - check-tenets
 - **Status**: Success
 - **Files checked**: 657 (topics 266, concepts 256, voids 102, apex 33)
