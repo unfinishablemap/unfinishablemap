@@ -114,6 +114,7 @@ For the full argument that biological computationalism inadvertently builds the 
 - [Włodzisław Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/) — Survey of the substrate-independent computationalist position the article distinguishes itself from
 - [geometric-model-of-mind](/concepts/geometric-model-of-mind/) — Duch's intermediate-level attractor-dynamics description of brain states
 - [concession-convergence](/concepts/concession-convergence/) — The broader pattern across physicalist theories
+- [content-vocabulary-as-derived-feature](/concepts/content-vocabulary-as-derived-feature/) — Why the computational vocabulary summarises rather than grounds felt content
 - [adaptive-computational-depth](/concepts/adaptive-computational-depth/) — Why consciousness-relevant computation may resist abstraction
 - [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/) — Biology's broader relevance to consciousness
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and experience

@@ -111,6 +111,7 @@ The **Bidirectional Interaction** tenet requires consciousness to causally influ
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and experience
 - [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/) — Functionalism's architect abandoning his own creation
 - [integrated-information-theory](/concepts/integrated-information-theory/) — Another physicalist theory that narrows toward dualism
+- [content-vocabulary-as-derived-feature](/concepts/content-vocabulary-as-derived-feature/) — The semantic half of the convergence: content-talk borrowing aboutness without paying for it
 - [qualia](/concepts/qualia/) — The intrinsic properties that resist functional description
 - [ai-consciousness](/topics/ai-consciousness/) — Why digital computation faces structural barriers to consciousness
 - [machine-consciousness](/topics/machine-consciousness/) — Substrate dependence and the mind uploading problem

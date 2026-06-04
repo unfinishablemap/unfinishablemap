@@ -5,6 +5,15 @@ ai_modified: 2026-06-04T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T12:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: Two-hub reciprocal-backlink repair (from [[reviews/optimistic-2026-06-04c]])
+- **Changes**: Completed `expand-topic-skips-integration-chain` repair for two of today's creates.
+  - [[concepts/mind-matter-interface]]: added one see-also clause ("The interface is a thin junction; the wide field of downstream outcomes flowing from it is the [[mind-arena]]") to "How the Layers Connect" + `[[mind-arena]]` in related_articles. Length 2476w → 2494w (status ok).
+  - [[concepts/hard-problem-of-content]]: added one see-also clause flagging [[content-vocabulary-as-derived-feature]] as the calibrated-weaker companion to the predictive-processing section + frontmatter mirror. Length 2128w → 2165w (status ok).
+- **Verification**: both hubs stay under threshold (ok); both new wikilinks resolve to working hrefs (sync clean).
+- **Published**: yes
+
 ## 2026-06-04T07:28:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Integration tail of today's create cohort — reciprocal-backlink audit of the five non-gaming-problem creates (mind-arena, feminist-phenomenology, ai-ensoulment, content-vocabulary, cross-domain-void-comparison)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-05-28 00:00:00+00:00
+ai_modified: 2026-06-04 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -34,6 +34,7 @@ related_articles:
 - '[[mathematical-structure-of-the-consciousness-physics-interface]]'
 - '[[amplification-mechanisms-consciousness-physics]]'
 - '[[pragmatist-quantum-foundations-and-the-agent]]'
+- '[[mind-arena]]'
 title: 'The Mind-Matter Interface: Unifying Filter Theory and Quantum Selection'
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -83,7 +84,7 @@ Stapp's [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-e
 
 **Downward direction** (consciousness → brain): At quantum indeterminacies, consciousness selects among neural possibilities. This explains [mental causation](/concepts/mental-causation-and-downward-causation/) without violating conservation laws—consciousness doesn't inject energy but shapes what physics leaves undetermined. Bridging the gap from quantum selection to macroscopic neural effects requires [amplification mechanisms](/topics/amplification-mechanisms-consciousness-physics/)—from chaotic sensitivity to self-organized criticality—that scale quantum-level biases through the brain's nonlinear dynamics.
 
-The layers are inseparable in practice. Consciousness both *uses* the interface (selection) and *is constrained by* it (filtering).
+The layers are inseparable in practice. Consciousness both *uses* the interface (selection) and *is constrained by* it (filtering). The interface is a thin junction; the wide field of downstream outcomes flowing from it is the [mind-arena](/concepts/mind-arena/).
 
 ## Why Both Layers Are Needed
 

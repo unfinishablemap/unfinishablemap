@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Reciprocal backlinks for under-integrated creates — headroom hubs (prose-OK)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-06-04c. Two of today's creates make load-bearing forward references to hub articles that have **zero** references back (grep-verified at both prose and `related_articles` level). Both target hubs have real length headroom (`ok` status), so a brief one-line see-also PLUS a `related_articles` frontmatter mirror is appropriate (NOT a paragraph). (a) `concepts/mind-matter-interface.md` (ok, 2476w) → add `[[mind-arena]]`: `mind-arena.md` carries a full contrastive paragraph defining itself *against* the interface ("the interface is a thin junction; the arena is the wide field of consequences"); the interface page should point forward to the arena as the downstream-outcomes complement. (b) `concepts/hard-problem-of-content.md` (ok, 2128w) → add `[[content-vocabulary-as-derived-feature]]`: content-vocabulary leans on the hard-problem-of-content framing; reciprocate with a see-also line where aboutness/derivation is discussed + frontmatter mirror. Keep each edit to one clause + one frontmatter entry. See [[optimistic-2026-06-04c]].
-- **Review file**: `reviews/optimistic-2026-06-04c.md`
-- **Source**: optimistic-review
-
 ### P3: Reciprocal backlinks for under-integrated creates — soft_warning hubs (frontmatter-only)
 - **Type**: refine-draft
 - **Status**: pending
@@ -869,6 +862,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Reciprocal backlinks for under-integrated creates — headroom hubs (prose-OK)
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review 2026-06-04c. Two of today's creates make load-bearing forward references to hub articles that have **zero** references back (grep-verified at both prose and `related_articles` level). Both target hubs have real length headroom (`ok` status), so a brief one-line see-also PLUS a `related_articles` frontmatter mirror is appropriate (NOT a paragraph). (a) `concepts/mind-matter-interface.md` (ok, 2476w) → add `[[mind-arena]]`: `mind-arena.md` carries a full contrastive paragraph defining itself *against* the interface ("the interface is a thin junction; the arena is the wide field of consequences"); the interface page should point forward to the arena as the downstream-outcomes complement. (b) `concepts/hard-problem-of-content.md` (ok, 2128w) → add `[[content-vocabulary-as-derived-feature]]`: content-vocabulary leans on the hard-problem-of-content framing; reciprocate with a see-also line where aboutness/derivation is discussed + frontmatter mirror. Keep each edit to one clause + one frontmatter entry. See [[optimistic-2026-06-04c]].
 
 ### ✓ 2026-06-04: Write concept page on content-vocabulary aboutness as derived feature
 - **Type**: expand-topic

@@ -4,7 +4,7 @@ description: "The argument by Hutto and Myin that no naturalistic theory can exp
 created: 2026-04-27
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-06-01T12:41:38+00:00
+ai_modified: 2026-06-04T00:00:00+00:00
 last_deep_review: 2026-06-01T12:41:38+00:00
 draft: false
 topics:
@@ -23,6 +23,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[hutto-myin-hard-problem-of-content-2026-04-27]]"
+  - "[[content-vocabulary-as-derived-feature]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -60,7 +61,7 @@ The dilemma Hutto and Myin press: emphasise the covariational component of teleo
 
 ## Predictive Processing as a Third Target
 
-More recent representationalist programmes—chiefly the predictive-processing accounts of Andy Clark and others—appear to escape the dilemma by recasting representation as the encoding of generative-model parameters tuned by prediction-error minimisation. In *Evolving Enactivism* (2017) Hutto and Myin argue that these accounts inherit the same chokepoint. Calling a parameter a "representation" because it figures in a model that minimises error does not change the underlying point that what the parameter does is covary with something. The third horn extends rather than escapes the original argument; for the topic-level treatment of all three horns together, see [[the-naturalisation-failure-for-content]].
+More recent representationalist programmes—chiefly the predictive-processing accounts of Andy Clark and others—appear to escape the dilemma by recasting representation as the encoding of generative-model parameters tuned by prediction-error minimisation. In *Evolving Enactivism* (2017) Hutto and Myin argue that these accounts inherit the same chokepoint. Calling a parameter a "representation" because it figures in a model that minimises error does not change the underlying point that what the parameter does is covary with something. The third horn extends rather than escapes the original argument; for the topic-level treatment of all three horns together, see [[the-naturalisation-failure-for-content]]. The Map's [[content-vocabulary-as-derived-feature]] is the calibrated-weaker companion to this section: it holds that predictive-processing content-talk *summarises* the dynamics rather than grounding them, stopping short of Hutto and Myin's universal claim that *no* naturalistic theory can deliver content.
 
 ## The Positive Alternative: Contentless Basic Minds
 

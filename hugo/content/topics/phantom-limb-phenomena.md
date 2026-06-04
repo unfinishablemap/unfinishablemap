@@ -132,6 +132,7 @@ None would be definitive on its own; each would shift the evidential balance.
 - [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) — Lesion evidence for the brain-as-interface picture
 - [filter-theory](/concepts/filter-theory/) — The transmission model
 - [predictive-processing](/concepts/predictive-processing/) — The strongest contemporary materialist competitor
+- [content-vocabulary-as-derived-feature](/concepts/content-vocabulary-as-derived-feature/) — Phantom limbs as the worked exhibit of content-talk presupposing felt aboutness
 - [tenets](/tenets/) — The framework these findings inform
 
 ## References

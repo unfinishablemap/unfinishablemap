@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-06-04 00:00:00+00:00
+ai_modified: 2026-06-04 12:00:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -17,6 +17,7 @@ description: Physics and mathematics have their own hard limits. Comparing them 
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-06-04 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -79,7 +80,7 @@ Physics and mathematics voids sit overwhelmingly in the **unexplorable** kind, a
 
 Consciousness voids, by contrast, distribute across all four kinds and frequently span several at once. The [taxonomy](/apex/taxonomy-of-voids/) notes that a single consciousness void—the quantitative comprehension void, say—can be unexplorable at its cardinality floor, unexplored in its mid-range, and occluded where introspection cannot reach its own operation. The self-knowledge cluster is heavily *occluded* and partly *naturally occluded* (introspective opacity plausibly being adaptively maintained), categories that physics and mathematics voids do not occupy at all.
 
-**First difference:** physics/math voids are taxonomically *flat*—near-pure unexplorables. Consciousness voids are taxonomically *deep*—they populate all four kinds and span them within single voids. A pure selection effect would not predict this asymmetry; if the Map were merely cataloguing "where humans fail," its consciousness voids would cluster in the unexplorable kind too, matching the other domains.
+**First difference:** physics/math voids look taxonomically *flat*—near-pure unexplorables. Consciousness voids look taxonomically *deep*—they appear to populate all four kinds and span them within single voids. A pure selection effect would not obviously predict this asymmetry; if the Map were merely cataloguing "where humans fail," one might expect its consciousness voids to cluster in the unexplorable kind too, matching the other domains.
 
 ## Testing the Failure-Signature Inventory
 
@@ -94,7 +95,7 @@ Physics and mathematics voids match *at most one* signature each, and the matche
 
 Crucially, **none** of the physics or mathematics voids exhibits *construction-mistaken-for-observation*, *dissolution under attention*, *silent erasure*, or *epistemic vertigo*. These four signatures are specific to a knower examining its own cognition—they require an introspecting subject, and physics and mathematics voids have no subject in the loop. The continuum hypothesis does not dissolve when you attend to it; the spectral gap does not silently revise your inventory of yourself downward.
 
-**Second difference:** the failure-signature inventory built from consciousness voids *does not transfer*. Physics and mathematics generate their own signatures (interpretive proliferation, axiomatic underdetermination, explanatory regress, sharp-boundary) that are largely *disjoint* from the consciousness inventory. Two catalogues drawn from "wherever humans currently fail" should share failure modes; these do not. The signature mismatch is the strongest empirical mark that the consciousness cluster is not merely a frontier of current ignorance.
+**Second difference:** the failure-signature inventory built from consciousness voids largely *does not transfer*. Physics and mathematics generate their own signatures (interpretive proliferation, axiomatic underdetermination, explanatory regress, sharp-boundary) that appear largely *disjoint* from the consciousness inventory. Two catalogues drawn from "wherever humans currently fail" might be expected to share failure modes; these mostly do not. The signature mismatch is, on the evidence assembled here, the strongest empirical mark that the consciousness cluster is not merely a frontier of current ignorance.
 
 ## The Difference That Cuts the Other Way
 

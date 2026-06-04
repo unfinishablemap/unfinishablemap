@@ -9,6 +9,34 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-04T07:28:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Integration tail of today's create cohort — reciprocal-backlink audit of the five non-gaming-problem creates (mind-arena, feminist-phenomenology, ai-ensoulment, content-vocabulary, cross-domain-void-comparison)
+- **Finding**: Four creates show the `expand-topic-skips-integration-chain` half-orphan signature — load-bearing forward refs to hubs that don't link back (grep-verified, prose + frontmatter). No new-article creation warranted (sections at/over cap; cohort content-complete).
+- **Tasks added**: 2 (P2 prose-OK reciprocal repair for `ok`-headroom hubs; P3 frontmatter-only repair for soft_warning hubs). No discipline-proposal — none passed the concrete-error test (this is content integration, not meta-documentation).
+- **Output**: [optimistic-2026-06-04c](/reviews/optimistic-2026-06-04c/)
+
+## 2026-06-04T12:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Content-vocabulary as a derived feature (calibration-move anchor)
+- **Output**: [content-vocabulary-as-derived-feature](/concepts/content-vocabulary-as-derived-feature/)
+- **Word count**: 1840 (74% of 2500 soft; under hard)
+- **Based on research**: No (reuses corpus PP/computationalism framing; no new external cites)
+- **Decision**: CREATE — assessed nearest anchors (intentionality = Searle original/derived + PIT; hard-problem-of-content = stronger naturalisation-failure thesis; status-of-content = Boghossian; content-specificity-of-mental-causation = causal individuation) and found none serves the indispensable-yet-derivative / borrowing-without-paying calibration. Move had no shared anchor, only scattered deployments (PP line 106 in full force).
+- **Calibration honoured**: framed as Mode-Two boundary-location (per [direct-refutation-discipline](/project/direct-refutation-discipline/)), NOT a defeater; framework's all-the-way-up reply (aboutness as further derived feature) presented as live; evidential status kept as constraint not win per [evidential-status-discipline](/project/evidential-status-discipline/).
+- **Inbound links wired**: predictive-processing (inline + FR), biological-computationalism (FR), biological-computationalisms-inadvertent-case-for-dualism (FR), phantom-limb-phenomena (FR); mirrored in related_articles.
+
+## 2026-06-04T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [cross-domain-void-comparison](/topics/cross-domain-void-comparison/)
+- **Word count**: 2235 → 2251 (+16)
+- **Critical issues addressed**: 0 (none found — fresh-create defect-tail audit clean)
+- **Medium issues addressed**: 1 (calibration softening of two bolded difference-claims, length-neutral)
+- **Enhancements made**: 1
+- **Citations web-verified (3-state, all real+correct)**: Cubitt/Perez-Garcia/Wolf 2015 (Nature 528(7581):207-211, DOI 10.1038/nature16059) + verbatim spectral-gap quote CONFIRMED verbatim; Cohen 1963 (PNAS 50(6):1143-1148, DOI 10.1073/pnas.50.6.1143); Szangolies 2018 (Found. Phys. 48(12):1669-1697, DOI 10.1007/s10701-018-0221-9, Lawvere mechanism attribution accurate); Gödel 1931/1940, Turing 1936 canonical-correct.
+- **Audit**: quotes verbatim; dates sane; anchoring 2 residual flags = detector-anchor artifact (over-hedge would mush); 3 reciprocal inbound links present (not orphan); all 10 outbound wikilinks resolve.
+- **Output**: [deep-review-2026-06-04-cross-domain-void-comparison](/reviews/deep-review-2026-06-04-cross-domain-void-comparison/)
+
 ## 2026-06-04T12:30:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Cross-domain void comparison (physics, mathematics, consciousness)
