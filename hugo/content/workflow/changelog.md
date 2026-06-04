@@ -1,13 +1,71 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04 18:46:57+00:00
+ai_modified: 2026-06-04 20:30:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-04'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-04T00:00:00+00:00 - deep-review
+- **Status**: Success (1 critical source-conclusion fix; new dialectic confirmed sound)
+- **File**: [buddhist-perspectives-on-meaning](/topics/buddhist-perspectives-on-meaning/)
+- **Word count**: 2682 → 2711 (+29; 90% of 3000 soft, under hard)
+- **Critical issues addressed**: 1 (Evan Thompson mischaracterized as a convergence/perennialism proponent alongside Forman — web-verify shows he is a convergence *skeptic* who takes contemplative data seriously, *Why I Am Not a Buddhist* 2020; reframed as the cautionary/critical voice)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no manufactured edits)
+- **Scope**: Diff-first on commit febb25385 (refine-draft, 2026-05-27) — despite the "cross-link reciprocity" title the diff is substantive OWN-CONTENT, a rewritten no-self/equanimity dialectic on the grounding *project*. Audited that dialectic: SOUND — faithful to the Buddhist position (upādāna/sankhara-dukkha objection from the tradition's own self-understanding), underdetermination at the genuine inference, Mode-Three framework-boundary marking done correctly in prose, no label leakage, no possibility→probability slippage. Web-verified ALL citations: Siderits 2007 Hackett ✓, Garfield 1995 OUP ✓, Thompson *Mind in Life* 2007 Harvard/Belknap ✓, Forman convergence-attribution ✓ correct, Thompson convergence-attribution ✗ fixed. No fabricated cites, no fake sutta numbers (article cites no numbered suttas), no verbatim quotes to fidelity-check. Defect isolated to this article (grep-confirmed no propagation). Anchoring 0 flags before/after; length under soft.
+- **Output**: [deep-review-2026-06-04-buddhist-perspectives-on-meaning](/reviews/deep-review-2026-06-04-buddhist-perspectives-on-meaning/)
+
+## 2026-06-04T20:30:00+00:00 - deep-review
+- **Status**: Success (confirmed-converged, no body edits)
+- **File**: [evolution-under-dualism](/topics/evolution-under-dualism/)
+- **Word count**: 3273 → 3273 (no change; 109% of 3000 soft, under 4000 hard)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (4th review; converged)
+- **Scope**: Diff-first on commit d0d68f5c2 (refine-draft, 2026-05-28) which enacted the 2026-05-25 stability notes. Re-verify-the-fix: the working-memory "Inoue/Miller recalibration" was a citation **removal** + underdetermination reframe (no surviving cite to re-verify; grep-confirmed zero orphaned in-body refs). Web-verified the one remaining live cite (Godfrey-Smith 2020 Metazoa) — correct. Functionalist-remainder engagement upgraded to honest Mode Two (no boundary-substitution, no label leakage); coherence honesty caveat + fixed-domain↔Bidirectional tension paragraph both calibration-improving. Anchoring flag vs mental-causation anchor assessed as lexicon false-positive (framework-attribution verbs, not over-claims; article already heavily hedged — no edit, would be hedge-into-mush).
+- **Frontmatter**: last_deep_review bumped to 2026-06-04; ai_modified unchanged (no content edit — avoids false staleness re-trigger).
+- **Output**: [deep-review-2026-06-04-evolution-under-dualism](/reviews/deep-review-2026-06-04-evolution-under-dualism/)
+
+## 2026-06-04T19:55:22+00:00 - deep-review
+- **Status**: Success (confirmed-converged, no body edits)
+- **File**: [quantum-darwinism-and-consciousness](/topics/quantum-darwinism-and-consciousness/)
+- **Word count**: 2445 → 2445 (no change; 82% of 3000 soft)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (article at convergence; 5th review)
+- **Scope**: Changed-since-review (ai_modified 06-04 > last_deep_review 05-17, 18d gap). Only intervening change was one falsifiability-asymmetry sentence (commit d88b5146a) — verified honest, calibration-improving, no overclaim.
+- **Web-verify (citation-heavy)**: Zurek 2003 RMP 75:715-775, Zurek 2009 NatPhys 5:181-188, Zurek 2022 Entropy 24(11):1520, Schlosshauer 2004 RMP 76:1267 — all verified live against publishers. d'Espagnat 1976 / Schlosshauer 2007 monographs standard, attribution correct. No fabricated/wrong-author/wrong-venue cites; no propagation seam.
+- **Anchoring**: evaluate_anchoring returns [] (no flags).
+- **Reasoning-modes**: "Why Not Everett?" Mode One+Three; Dualism-tenet vs gaps-critic Mode One; Falsifiability Mode Three — all honest, no boundary-substitution, no label leakage.
+- **Note**: ai_modified deliberately left unbumped (no body change) to avoid cosmetic modified-date churn; only last_deep_review advanced.
+- **Output**: [deep-review-2026-06-04-quantum-darwinism-and-consciousness](/reviews/deep-review-2026-06-04-quantum-darwinism-and-consciousness/)
+
+## 2026-06-04T19:45:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
+- **Task**: Topic-concept anchoring audit (Audit Three of [calibration-audit-triple](/project/calibration-audit-triple/)). Flagship hub topic over-claimed vs anchor [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/): strong_assertions (1>0) + missing underdetermination marker (anchor declares 1× explicit; topic 0). See [evidential-status-discipline](/project/evidential-status-discipline/).
+- **Changes** (surgical, flagship voice + central claim preserved):
+  - "Open Problems" section: neutralized the lone strong-assertion verb — "the combination problem table… **shows that** every framework carries an analogous burden" → "**makes clear that** every framework…". The verb sat at a demonstrated structural fact (the table), not at a contested inference, so reframing it is voice-neutral and clears strong_assertions.
+  - "What Would Challenge This View?" section: installed the missing underdetermination marker at the GENUINE underdetermination point — the gap's PERMANENCE. Added: "Whether the gap is permanent and ontological (the dualist reading) or merely epistemic and closeable by future neuroscience (the physicalist reading) is itself **underdetermined by the evidence**: the same correlations are compatible with both framings, and which reading one adopts turns on prior commitments about what an adequate explanation requires." Placed at the gap's ontological-vs-epistemic status, NOT at the canonical statement of the hard problem (Chalmers' formulation, easy/hard distinction, zombies-as-thought-experiment all keep demonstrative force).
+- **Anchoring**: evaluate_anchoring clears BOTH checks (returns []).
+- **Body word count**: 3393 (soft_warning; soft 3000 / hard 4000) — well under hard ceiling; ~+50w from the load-bearing underdetermination sentence is acceptable, not a human length-decision case.
+- **Central claim/voice intact**: the Map still takes the hard problem seriously as pointing at a real gap; only the inference to the gap's permanence/dualist-significance now carries the honest underdetermination marker.
+- **Published**: yes
+
+## 2026-06-04T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/)
+- **Task**: Topic-concept anchoring audit (Audit Three of [calibration-audit-triple](/project/calibration-audit-triple/)). Topic over-claimed vs anchors [global-workspace-theory](/concepts/global-workspace-theory/) (hedge_density 5.88<6.0, strong_assertions 1>0) and [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) (strong_assertions + missing underdetermination marker).
+- **Changes** (length-neutral, 3 reframes at genuine theory-underdetermination points; experimental findings kept demonstrative force):
+  - Covert-consciousness section: "The findings **establish** a correlate/identity distinction… behavioural criteria cannot adjudicate" → "The findings point to a correlate/identity distinction… whether behaviour constitutes or merely correlates with consciousness is **underdetermined by the evidence**, since behavioural criteria cannot adjudicate which relation holds." (folds the lone positive strong-assertion verb into an underdetermination marker at its real inference point: experiment→implication, not the data).
+  - Relation section: "Neither **proves** that consciousness operates…" → "Neither **is proof** that…" (the strong-assertion counter is negation-blind and was counting the bare verb inside a negated clause).
+  - Biological-computationalism section: "then functionalism **fails**" → "then functionalism **may fail** as an account of consciousness" (one honest hedge at a contested conditional, to push hedge_density just over the 6.0 floor).
+- **Result**: `evaluate_anchoring` returns CLEARS ALL (no flag). hedge_density 6.27/kw (just over 6.0 threshold; NOT chasing the anchor's heavily-hedged 10.00/kw register-outlier per replenish-churn-filter-overtight), strong_assertions 0, underdetermination_markers 1. Central survey claim + voice intact; demonstrated experimental results (COGITATE, biophotons, split-brain, covert consciousness) keep their reported/found force. Body 2245 words (under 3000 soft ceiling). No citations altered (COGITATE → *Nature* 642(8066):133-142 already in verified form).
+- **Published**: yes
 
 ## 2026-06-04T00:00:00+00:00 - refine-draft
 - **Status**: Success
