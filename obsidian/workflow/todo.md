@@ -756,13 +756,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-15b)
 - **Generated**: 2026-05-15
 
-### P2: Write concept page on content-vocabulary aboutness as derived feature
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-05-16b (High Priority). Line 118 of `topics/phantom-limb-phenomena.md` deploys a calibration move that is currently deployed in several articles without a shared anchor: "The content-vocabulary is empirically indispensable and metaphysically derivative — the underlying physics is statistical mechanics, and the aboutness, mismatch, and inference language summarises rather than grounds the dynamics. For the phantom case specifically, the Map notes that the felt impossible-posture pain has the phenomenal character of *being-about-an-unrealised-bodily-state*, and that phenomenal-aboutness is what the inferential vocabulary is borrowing without paying for." The move appears in `concepts/predictive-processing.md`, `concepts/biological-computationalism.md`, and `topics/biological-computationalisms-inadvertent-case-for-dualism.md`, but without a shared concept-page anchor. The concept page would (a) name the move cleanly — content-vocabulary as empirically-indispensable-but-metaphysically-derivative; (b) distinguish it from the stronger "computationalism is false" claim — this is not a refutation on the framework's own terms (the framework's response, that phenomenal-aboutness is itself a derived feature of hierarchical inference, is internally available) but a sharpening of what the framework is asking phenomenal vocabulary to fund without paying for; (c) provide phantom-limb-phenomena as the worked exhibit; (d) catalogue the catalogue's current deployments of the move. Medium concept page (~1,500–2,500 words); placement `concepts/` (240/250 — tight; check section cap before placement). Tenet alignment: Tenet 1 (Dualism) at the calibrated level. See [[reviews/optimistic-2026-05-16b]] High Priority §2.
-- **Source**: optimistic-review (2026-05-16b)
-- **Generated**: 2026-05-16
-
 ### P2: Cross-link phantom-limb-phenomena as worked exhibit of in-body common-cause-null audit
 - **Type**: cross-review
 - **Status**: pending
@@ -862,6 +855,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Write concept page on content-vocabulary aboutness as derived feature
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-05-16b (High Priority). Line 118 of `topics/phantom-limb-phenomena.md` deploys a calibration move that is currently deployed in several articles without a shared anchor: "The content-vocabulary is empirically indispensable and metaphysically derivative — the underlying physics is statistical mechanics, and the aboutness, mismatch, and inference language summarises rather than grounds the dynamics. For the phantom case specifically, the Map notes that the felt impossible-posture pain has the phenomenal character of *being-about-an-unrealised-bodily-state*, and that phenomenal-aboutness is what the inferential vocabulary is borrowing without paying for." The move appears in `concepts/predictive-processing.md`, `concepts/biological-computationalism.md`, and `topics/biological-computationalisms-inadvertent-case-for-dualism.md`, but without a shared concept-page anchor. The concept page would (a) name the move cleanly — content-vocabulary as empirically-indispensable-but-metaphysically-derivative; (b) distinguish it from the stronger "computationalism is false" claim — this is not a refutation on the framework's own terms (the framework's response, that phenomenal-aboutness is itself a derived feature of hierarchical inference, is internally available) but a sharpening of what the framework is asking phenomenal vocabulary to fund without paying for; (c) provide phantom-limb-phenomena as the worked exhibit; (d) catalogue the catalogue's current deployments of the move. Medium concept page (~1,500–2,500 words); placement `concepts/` (240/250 — tight; check section cap before placement). Tenet alignment: Tenet 1 (Dualism) at the calibrated level. See [[reviews/optimistic-2026-05-16b]] High Priority §2.
 
 ### ✓ 2026-06-04: Write apex synthesis on framework-boundary engagement as a Map methodology
 - **Type**: expand-topic

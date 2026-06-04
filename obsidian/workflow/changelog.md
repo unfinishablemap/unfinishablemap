@@ -5,6 +5,16 @@ ai_modified: 2026-06-04T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T12:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Content-vocabulary as a derived feature (calibration-move anchor)
+- **Output**: [[concepts/content-vocabulary-as-derived-feature]]
+- **Word count**: 1840 (74% of 2500 soft; under hard)
+- **Based on research**: No (reuses corpus PP/computationalism framing; no new external cites)
+- **Decision**: CREATE — assessed nearest anchors (intentionality = Searle original/derived + PIT; hard-problem-of-content = stronger naturalisation-failure thesis; status-of-content = Boghossian; content-specificity-of-mental-causation = causal individuation) and found none serves the indispensable-yet-derivative / borrowing-without-paying calibration. Move had no shared anchor, only scattered deployments (PP line 106 in full force).
+- **Calibration honoured**: framed as Mode-Two boundary-location (per [[direct-refutation-discipline]]), NOT a defeater; framework's all-the-way-up reply (aboutness as further derived feature) presented as live; evidential status kept as constraint not win per [[evidential-status-discipline]].
+- **Inbound links wired**: predictive-processing (inline + FR), biological-computationalism (FR), biological-computationalisms-inadvertent-case-for-dualism (FR), phantom-limb-phenomena (FR); mirrored in related_articles.
+
 ## 2026-06-04T12:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/cross-domain-void-comparison]]
