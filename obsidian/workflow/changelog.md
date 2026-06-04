@@ -5,6 +5,19 @@ ai_modified: 2026-06-04T07:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T06:15:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/clinical-dissociation-as-systematic-evidence]]
+- **Selection**: convergent outer-review synthesis 2026-06-04 (3/3 reviewers), upgraded P2→P1 — the physicalist-steelman + DID-alternatives cluster (6th edit to this article today; built on existing PP/common-cause/calibration material, did NOT restate it).
+- **Two additions**: (1) **Physicalist steelman** — new paragraph opening "What the Dualist Reading Adds" section, BEFORE the interface reading is pressed: states the strongest reply is a developed functionalist/global-workspace/predictive-processing self-model cluster on which selective disruptions of access/ownership/memory/motor-agency are exactly what the architecture predicts (diagnostic probes, not failure-to-couple). Explicitly notes functional organisation is functionalism's HOME move, not a retreat. (2) **DID sociocognitive caveat** — new paragraph in DID section BEFORE the "single mind, fragmented interface" reading: trauma vs. sociocognitive/fantasy-suggestion (Spanos 1994; Lilienfeld/Lynn/Kihlstrom 1999) vs. transtheoretical/metacognitive (Lynn, Polizzi, Merckelbach, Chiu, Maxwell, van Heugten & Lilienfeld 2022) models; Map does not adjudicate aetiology; selectivity survives either way.
+- **Citation web-verified**: Lynn et al. 2022 confirmed — all 7 authors, *Annual Review of Clinical Psychology* 18:259–289, DOI 10.1146/annurev-clinpsy-081219-102424 (Annual Reviews / PubMed 35226824 / Maastricht CRIS). Added refs #14 (Lynn 2022) and #15 (Lilienfeld et al. 1999).
+- **Epicycle-framing softened**: Occam tenet paragraph rewritten — removed the unfair "physicalism progressively adds complexity / successive theoretical retreats" framing the reviewers faulted; now states functional organisation is functionalism's natural home and the razor is unreliable at adjudicating the ontology-vs-unification trade-off under incomplete knowledge.
+- **Direct-refutation remit**: opponent steelmanned at full strength in natural journal prose, disagreement honestly located at framework boundary ("constrains both readings rather than establishing either"). No mode labels in body (grep-confirmed). No "not X, it is Y" cliché.
+- **Calibration preserved**: two-tier "constrain not establish" framing intact; steelman strengthens the rival and is presented honestly.
+- **Length**: 3553w → 3786w (net +233; HARD 4000, ~214w headroom). Additions ~+416 gross; offset by trimming accumulated cross-edit redundancy in intro, systematic-pattern triple-discount paragraph, DPDR/amnesia/conversion sections, bridge-reading paragraph, and trauma-connection section. Symmetry scanner clears (None); validate ✓.
+- **Length flag**: article sits ~214w under hard ceiling after 6 same-day edits; a future length-decision/condense pass may be warranted as further outer-review tasks land. Did NOT auto-condense.
+- **Published**: yes
+
 ## 2026-06-04T05:26:35+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/clinical-dissociation-as-systematic-evidence]]
