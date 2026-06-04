@@ -43,13 +43,14 @@ ARTICLE_DIRS = [
     Path("obsidian/concepts"),
     Path("obsidian/apex"),
     Path("obsidian/voids"),
+    Path("obsidian/positions"),
 ]
 SITE_URL = "https://unfinishablemap.org"
 CHANGELOG_URL = "https://unfinishablemap.org/workflow/changelog/"
 
 # Section-index files that share the section name; skipped when scanning
 # articles for the recent-aged fallback (they are landing pages).
-_INDEX_FILE_NAMES = {"apex.md", "topics.md", "concepts.md", "voids.md"}
+_INDEX_FILE_NAMES = {"apex.md", "topics.md", "concepts.md", "voids.md", "positions.md"}
 
 _PRIORITY_RE = re.compile(r"^### P([0-3]):\s*(.+)$")
 _DONE_RE = re.compile(r"^### ✓\s+\d{4}-\d{2}-\d{2}:\s*(.+)$")

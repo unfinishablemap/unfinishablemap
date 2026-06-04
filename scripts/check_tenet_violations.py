@@ -275,12 +275,13 @@ def main():
     base_path = Path("/home/andy/unfin/unfinishablemap/obsidian")
     topics_path = base_path / "topics"
     concepts_path = base_path / "concepts"
+    positions_path = base_path / "positions"
 
     all_violations = []
     files_checked = []
 
     # Check all files
-    for directory in [topics_path, concepts_path]:
+    for directory in [topics_path, concepts_path, positions_path]:
         for file_path in directory.glob("*.md"):
             files_checked.append(file_path)
             violations = check_file(file_path)

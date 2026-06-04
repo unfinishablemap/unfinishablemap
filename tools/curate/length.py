@@ -35,6 +35,7 @@ THRESHOLDS: dict[str, tuple[int, int, int]] = {
     "arguments": (2500, 3500, 5000),
     "questions": (2000, 3000, 4000),
     "research": (2500, 3500, 5000),  # Research notes can be detailed
+    "positions": (1500, 2500, 4000),  # Register file: ~8-15 short entries per domain
 }
 
 # Default for sections not explicitly listed

@@ -5,6 +5,12 @@ ai_modified: 2026-06-04T16:05:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T17:08:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/delegatory-causation]] (corpus-wide hub, re-edited today); spot-checks vs [[concepts/epiphenomenalism]], [[concepts/self-stultification]], [[topics/evolutionary-case-for-mental-causation]]
+- **Findings**: 1 genuine load-bearing defect — "logical defect"/"consistency requirement" framing of the self-stultification asymmetry (L132/134/180) contradicts the corpus's own settled position that self-stultification is a WEAKER epistemic defeater, not a logical contradiction. Epistemic↔logical equivocation + internal inconsistency. Queued 1 P2 refine-draft (top of Active). Citations Saad 2025 / Schaffer 2000 / Torres Alegre 2025 / DeWall 2008 all web-verified CORRECT; no quote/empirical/boundary-substitution defects.
+- **Output**: [[reviews/pessimistic-2026-06-04b]]
+
 ## 2026-06-04T16:57:22+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/formal-cognitive-limits]]

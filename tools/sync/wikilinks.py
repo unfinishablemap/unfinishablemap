@@ -34,6 +34,7 @@ SYNC_DIRS = [
     "topics",
     "concepts",
     "papers",
+    "positions",
     "project",
     "tenets",
     "questions",

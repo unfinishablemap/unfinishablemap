@@ -28,6 +28,7 @@ class SectionCaps:
     max_topics: int = 200
     max_concepts: int = 200
     max_voids: int = 100
+    max_positions: int = 80
 
 
 @dataclass
@@ -50,6 +51,7 @@ class Progress:
     arguments_written: int = 0
     questions_written: int = 0
     voids_written: int = 0
+    positions_written: int = 0
     research_notes: int = 0
     reviews_completed: int = 0
     apex_articles: int = 0
@@ -230,6 +232,7 @@ def save_state(state: EvolutionState, path: Path) -> None:
             "max_topics": state.section_caps.max_topics,
             "max_concepts": state.section_caps.max_concepts,
             "max_voids": state.section_caps.max_voids,
+            "max_positions": state.section_caps.max_positions,
         },
         "audit_triple": audit_triple_on_disk,
         "convergence_targets": {
@@ -245,6 +248,7 @@ def save_state(state: EvolutionState, path: Path) -> None:
             "arguments_written": state.progress.arguments_written,
             "questions_written": state.progress.questions_written,
             "voids_written": state.progress.voids_written,
+            "positions_written": state.progress.positions_written,
             "research_notes": state.progress.research_notes,
             "reviews_completed": state.progress.reviews_completed,
             "apex_articles": state.progress.apex_articles,
@@ -277,6 +281,7 @@ SECTION_CAP_MAP: dict[str, str] = {
     "topics": "max_topics",
     "concepts": "max_concepts",
     "voids": "max_voids",
+    "positions": "max_positions",
 }
 
 
