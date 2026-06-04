@@ -5,6 +5,17 @@ ai_modified: 2026-06-04T13:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T13:04:10+00:00 - deep-review
+- **Status**: Success (index hub — taxonomy verified accurate; 2 absorbed entries trimmed; length flagged for human)
+- **File**: [[voids/voids]]
+- **Word count**: 4615 → 4493 (−122)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (compressed two absorbed research-stage entries duplicating host-article detail)
+- **Taxonomy check**: 113/113 wikilink targets LIVE; no archival link-rot; no MISSING/ARCHIVE-ONLY. Three 2026-06-01 absorptions (effort-void→agency-void, cognitive-phenomenology-void→imagery-void + noetic-feelings-void) verified landed in host articles.
+- **Anchoring**: clean (empty flag list)
+- **Length**: 4493w over voids hard threshold (3000) from irreducible navigational catalogue → human length-decision queued in Blocked Tasks, not auto-condensed
+- **Output**: [[reviews/deep-review-2026-06-04-voids]]
+
 ## 2026-06-04T13:30:00+00:00 - deep-review
 - **Status**: Success (converged — no critical/medium issues; near-no-op + full publisher-of-record citation audit)
 - **File**: [[topics/memory-system-vulnerability-hierarchies-as-interface-evidence]]
