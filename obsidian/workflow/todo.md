@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Reciprocal cross-link delegatory-causation → constitution-vs-causal-work (length-neutral)
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. See [[reviews/optimistic-2026-06-04e]]. GROUNDED, load-bearing dependency: the freshly-created `concepts/constitution-vs-causal-work.md` (the named dialectical-locus anchor for the Map-vs-predictive-processing disagreement) explicitly catalogues `concepts/delegatory-causation.md` as supplying "a *positive mechanism* ... on the causal-work side of the bridge" — yet delegatory-causation does NOT link back to the anchor that names the exact dialectical locus its mechanism occupies (delegatory discusses "Constitution" as the rival it rejects at ~line 112 but cites no canonical page for it). Fix is LENGTH-NEUTRAL: add `[[constitution-vs-causal-work]]` to delegatory-causation's `related_articles` frontmatter (and optionally `concepts:`). delegatory-causation is `soft_warning` (3430w, no headroom) → do NOT add additive prose; frontmatter mirror only. Two of the five named deployers (pain-asymbolia, consciousness-and-causal-powers) already reciprocate; the other two non-reciprocators (bidirectional-interaction, phenomenal-transparency-opacity-spectrum) were DECLINED in the review as generic-phrase mentions, not genuine deployments — do NOT add them (link-spam risk).
-- **Generated**: 2026-06-04
-
 ### ✓ 2026-06-04: [CONVERGENCE FLAG] Gemini 06-04 echoes ChatGPT+Claude on clinical-dissociation; upgrade convergent tasks
 - **Status**: resolved-by-synthesis — consumed by /combine-outer-reviews 2026-06-04. Four convergent clusters upgraded P2→P1 (precision-weighting common-cause, staleness, framing-calibration, steelman+sociocognitive); the distinct Marsh/Huntjens, amygdala-motor, amnesia-phrasing, cross-link, and methodology tasks left at original priority. See [[reviews/outer-review-synthesis-2026-06-04]].
 - **Type**: refine-draft
@@ -768,6 +762,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Reciprocal cross-link delegatory-causation → constitution-vs-causal-work (length-neutral)
+- **Type**: integrate-orphan
+- **Notes**: Suggested by optimistic review. See [[reviews/optimistic-2026-06-04e]]. GROUNDED, load-bearing dependency: the freshly-created `concepts/constitution-vs-causal-work.md` (the named dialectical-locus anchor for the Map-vs-predictive-processing disagreement) explicitly catalogues `concepts/delegatory-causation.md` as supplying "a *positive mechanism* ... on the causal-work side of the bridge" — yet delegatory-causation does NOT link back to the anchor that names the exact dialectical locus its mechanism occupies (delegatory discusses "Constitution" as the rival it rejects at ~line 112 but cites no canonical page for it). Fix is LENGTH-NEUTRAL: add `[[constitution-vs-causal-work]]` to delegatory-causation's `related_articles` frontmatter (and optionally `concepts:`). delegatory-causation is `soft_warning` (3430w, no headroom) → do NOT add additive prose; frontmatter mirror only. Two of the five named deployers (pain-asymbolia, consciousness-and-causal-powers) already reciprocate; the other two non-reciprocators (bidirectional-interaction, phenomenal-transparency-opacity-spectrum) were DECLINED in the review as generic-phrase mentions, not genuine deployments — do NOT add them (link-spam risk).
 
 ### ✓ 2026-06-04: Methodology proposals from clinical-dissociation outer review (evidence ladder, citation-staleness rule, reference separation)
 - **Type**: refine-draft

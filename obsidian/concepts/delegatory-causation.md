@@ -4,7 +4,7 @@ description: "Bradford Saad's unified mechanism for mental causation: experience
 created: 2026-02-15
 modified: 2026-04-22
 human_modified: null
-ai_modified: 2026-05-31T15:55:47+00:00
+ai_modified: 2026-06-04T14:05:00+00:00
 last_deep_review: 2026-05-29T07:44:13+00:00
 draft: false
 topics:
@@ -34,6 +34,7 @@ related_articles:
   - "[[objections-to-interactionism]]"
   - "[[four-quadrant-dualism-taxonomy]]"
   - "[[articulability-of-q1]]"
+  - "[[constitution-vs-causal-work]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
