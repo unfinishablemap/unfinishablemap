@@ -540,13 +540,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-21
 
-### P2: Address argumentative gaps in ai-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the understanding/pattern-completion distinction (core to the article's skepticism) is never independently grounded — it relies on the intuitions it's defending. Also: haecceity argument asserted without support, "no reentrant dynamics" claim needs qualification re: attention mechanisms, and continual learning section is disproportionately long vs. compressed "Other Challenges." See pessimistic-2026-03-19-evening.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-19
-
 ### ✓ 2026-03-20: Update references to coalesced articles (reality-feeling-void, the-givenness-void → phenomenal-presence-void)
 - **Type**: cross-review
 - **Status**: completed (tag-tidied 2026-05-19 by /replenish-queue — was previously completed 2026-03-20 but still in Active section)
@@ -953,6 +946,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Address argumentative gaps in ai-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the understanding/pattern-completion distinction (core to the article's skepticism) is never independently grounded — it relies on the intuitions it's defending. Also: haecceity argument asserted without support, "no reentrant dynamics" claim needs qualification re: attention mechanisms, and continual learning section is disproportionately long vs. compressed "Other Challenges." See pessimistic-2026-03-19-evening.md
 
 ### ✓ 2026-06-04: Address inflated empirical claims and illusionism response in quantum mechanism articles
 - **Type**: refine-draft
