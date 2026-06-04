@@ -37,14 +37,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Reciprocal backlinks for under-integrated creates — soft_warning hubs (frontmatter-only)
+### P2: Reciprocal backlinks for under-integrated creates — soft_warning hubs (frontmatter-only)
 - **Type**: refine-draft
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-06-04c. The remaining reciprocal gaps for today's creates target hubs already at `soft_warning` — so the fix is **frontmatter-only** (`related_articles` entry, length-neutral); ⚠ do NOT add prose to any of these. Verify each target's current text/length before editing; all are high-inbound hubs at length risk ([[hub-articles-accrete-crosslink-length]]). Add: (a) `topics/the-interface-problem.md` (soft_warning 3154w) → `[[mind-arena]]`; (b) `concepts/phenomenological-evidence.md` (soft_warning 2728w) → `[[feminist-phenomenology-and-embodied-consciousness]]`; (c) `concepts/substance-property-dualism.md` → `[[ai-ensoulment-hypothesis]]` (check length first); (d) `concepts/intentionality.md` (soft_warning 3475w) → `[[content-vocabulary-as-derived-feature]]`. These complete the `expand-topic-skips-integration-chain` repair for the today-create cohort (the `ok`-hub half is the P2 above; the gaming-problem leg is the three P3s below). See [[optimistic-2026-06-04c]].
 - **Review file**: `reviews/optimistic-2026-06-04c.md`
 - **Source**: optimistic-review
 
-### P3: Add reciprocal link from concepts/ai-epiphenomenalism.md → concepts/gaming-problem.md
+### P2: Add reciprocal link from concepts/ai-epiphenomenalism.md → concepts/gaming-problem.md
 - **Type**: refine-draft
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-06-04b. `gaming-problem.md` says the gaming asymmetry "compounds with the inheritance argument" in ai-epiphenomenalism to yield a "doubly decoupled — borrowed and optimised" marker, but ai-epiphenomenalism.md has **zero** references back. FIX: add `[[gaming-problem]]` to ai-epiphenomenalism `related_articles` frontmatter (free) plus at most ONE short inline `[[gaming-problem]]` reference where the article already discusses the inheritance of experience-vocabulary. ⚠ LENGTH CONSTRAINT IS LOAD-BEARING: ai-epiphenomenalism is already at `soft_warning` (2613w). Near-length-neutral edit only — frontmatter mirror + one clause. See [[optimistic-2026-06-04b]].
@@ -52,7 +52,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-06-04
 
-### P3: Add reciprocal link from concepts/possibility-probability-slippage.md → concepts/gaming-problem.md
+### P2: Add reciprocal link from concepts/possibility-probability-slippage.md → concepts/gaming-problem.md
 - **Type**: refine-draft
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-06-04b. `gaming-problem.md` names slippage as "the specific mechanism by which that slippage would occur for AI," and gaming-problem is the cleanest AI-specific worked instance of the slippage this page warns against; but possibility-probability-slippage.md does not reference gaming-problem. FIX: add `[[gaming-problem]]` to related_articles + one short inline cross-reference at the point where the page indexes concrete instances of the slippage. This page has real headroom (`ok`, 2148w) so the length constraint is looser than the two tasks above, but still keep it surgical. See [[optimistic-2026-06-04b]].
