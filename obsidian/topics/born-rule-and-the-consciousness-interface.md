@@ -4,7 +4,7 @@ description: "The Born rule resists derivation across every quantum interpretati
 created: 2026-03-15
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-06-03T00:20:14+00:00
+ai_modified: 2026-06-04T00:17:10+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -106,7 +106,7 @@ Zhang (2026) — a preprint awaiting independent verification — argues for a s
 
 Beyond additivity, each derivation presupposes an observer. Decoherence selects a preferred basis without selecting a single definite outcome. The transition from "probabilities over outcomes" to "this outcome actually occurred" is the step each derivation presupposes and none explains. Whether this actuality requires phenomenal consciousness is a further question the Map answers affirmatively; the structural point holds independently.
 
-**Gleason's theorem** (1957) proves non-contextual probability measures on Hilbert-space projections must take the Born-rule form — but says nothing about why measurements yield definite outcomes.
+**Gleason's theorem** (1957) implies non-contextual probability measures on Hilbert-space projections must take the Born-rule form — but says nothing about why measurements yield definite outcomes.
 
 **Deutsch-Wallace** (1999, 2010) shows rational Everettian agents must assign Born-rule credences, but the rationality axioms are substantive philosophical claims that critics argue smuggle in the conclusion. Carroll-Sebens (2014) self-locating uncertainty requires the Epistemic Separability Principle — itself a substantive assumption.
 
@@ -223,7 +223,7 @@ All five connections inherit the *Compatibility vs. Support* discipline: the und
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The Born rule gap's interpretation-invariance is compatible with a genuine consciousness-physics boundary, but the cross-framework derivation failure is one motivation among several the Map collects, not decisive support. Treating "the Born rule has held in every test so far" as universal validity is a case where simplicity is unreliable with incomplete knowledge: the tested regimes are a narrow slice. The symmetric restraint applies on the Map's own side — coherence with the interface reading must not silently convert into elevated empirical confidence over the rivals the pattern equally accommodates.
 
-The Map's working position is that the empirical question is genuinely open, present experiments cannot adjudicate it, and honesty requires holding the corridor-vs-minimum-outside-corridor distinction as a live fork. A reader who takes the catalogue's length as evidential weight reads it against its own discipline: the catalogue establishes only that the underivability pattern holds uniformly across frameworks and that the interface reading has a coherent framework-internal home for it — never discrimination over the four consciousness-free rivals that accommodate the pattern equally.
+The Map's working position is that the empirical question is genuinely open, present experiments cannot adjudicate it, and honesty requires holding the corridor-vs-minimum-outside-corridor distinction as a live fork. A reader who takes the catalogue's length as evidential weight reads it against its own discipline: the catalogue shows only that the underivability pattern holds uniformly across frameworks and that the interface reading has a coherent framework-internal home for it — it does not adjudicate among the four consciousness-free rivals accommodating it equally.
 
 ## Further Reading
 

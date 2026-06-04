@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-03T23:51:43+00:00
+ai_modified: 2026-06-04T00:17:10+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-04T00:17:10+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/born-rule-and-the-consciousness-interface]]
+- **Trigger**: topic-concept anchoring audit (over-claims vs anchor [[consciousness-physics-interface-formalism]]); 2 failed checks (strong_assertions, underdetermination_markers); hedge_density PASSES (hedges left untouched)
+- **Changes**: length-neutral calibration downgrade only.
+  - Strong-assertion #1 (reframed→underdetermination): line 226 "the catalogue **establishes** only that... — never discrimination over the four rivals" → "the catalogue **shows** only that... — it **does not adjudicate** among the four consciousness-free rivals accommodating it equally." Clears one strong-assertion verb AND supplies the explicit underdetermination marker (`does not adjudicate`) in one rewrite.
+  - Strong-assertion #2 (hedged): Gleason's-theorem sentence "(1957) **proves** non-contextual probability measures... must take the Born-rule form" → "(1957) **implies** non-contextual probability measures... must take the Born-rule form." Neutral non-marker verb; mathematical content unchanged (theorem still stated as binding).
+- **No load-bearing calibration touched**: Gleason/Born/Sinha empirical scaffolding, constrain-vs-establish framing, per-trial-undiscriminability, structural-unfalsifiability disclosure, QBism/objective-collapse/MWI rival engagement, all hedges — all preserved verbatim.
+- **Post-edit profile**: evaluate_anchoring → [] (both flags cleared). strong_assertion_count 2→0; underdetermination_marker_count 0→1; hedge_count 10 (unchanged); canonical analyze_length 5064→5064 (net-zero, at ceiling).
+- **Published**: yes (draft: false unchanged)
 
 ## 2026-06-03T23:51:43+00:00 - deep-review
 - **Status**: Success
