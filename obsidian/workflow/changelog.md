@@ -5,6 +5,20 @@ ai_modified: 2026-06-04T20:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T20:41:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/type-specificity]]
+- **Verdict**: New 4-criterion scoring survived condense intact + 2 corrective fixes (calibration honest, not gamed)
+- **Word count**: 3185 → 3185 (no change; 127% of soft, under hard 3500 — no condense)
+- **Critical issues addressed**: 2 (Klein "et al. 2024" → real Klein & Barron 2016 wrong-year/author cite; broken `#two-worked-exhibits` anchor + stale "two worked exhibits" count → source retitled to 4 exhibits)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral corrective pass)
+- **Web-verify**: 9 citations live-checked; 1 fixed (real-paper-wrong-year), 8 verified-correct (Mather&Dickel 2017, Treisman 1980, Crick&Koch 1990, Revonsuo 2006, Cowan 2001, Chalmers 1996 + standard comparative-cognition names)
+- **Calibration**: scoring is self-deflating (calibrates framework-independence DOWN to moderate); no possibility→probability slippage; formulation-independence firewalled from cross-tradition independence — honest
+- **Anchoring**: evaluate_anchoring [] before+after
+- **Engagement modes**: no named-opponent body engagements (Mode Three boundary-marking in §scope, unchanged)
+- **Output**: [[reviews/deep-review-2026-06-04-type-specificity]]
+
 ## 2026-06-04T13:45:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/constitution-vs-causal-work]]
