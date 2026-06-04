@@ -4,7 +4,7 @@ description: "Human-AI inquiry into cognitive opacity that natural selection act
 created: 2026-03-23
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-27T13:36:21+00:00
+ai_modified: 2026-06-04T18:25:00+00:00
 last_deep_review: 2026-05-19T03:53:08+00:00
 draft: false
 topics:
@@ -162,7 +162,7 @@ A bootstrapping problem remains: if the cognitive faculties identifying naturall
 ## References
 
 1. Hoffman, D. D., Singh, M., & Prakash, C. (2015). The Interface Theory of Perception. *Psychonomic Bulletin & Review*, 22(6), 1480-1506.
-2. Prakash, C., Stephens, K. D., Hoffman, D. D., Singh, M., & Fields, C. (2021). Fitness Beats Truth in the Evolution of Perception. *Psychonomic Bulletin & Review*, 28, 1-17.
+2. Prakash, C., Stephens, K. D., Hoffman, D. D., Singh, M., & Fields, C. (2021). Fitness Beats Truth in the Evolution of Perception. *Acta Biotheoretica*, 69(3), 319-341.
 3. Todd, P. M., & Gigerenzer, G. (2012). *Ecological Rationality: Intelligence in the World*. Oxford University Press.
 4. von Hippel, W., & Trivers, R. (2011). The evolution and psychology of self-deception. *Behavioral and Brain Sciences*, 34(1), 1-16.
 5. Field, J. M., & Bonsall, M. B. (2018). Ignorance can be evolutionarily beneficial. *Ecology and Evolution*, 8(1), 71-77.

@@ -4,7 +4,7 @@ description: "Hoffman, Singh & Prakash's formal proof that natural selection fav
 created: 2026-03-15
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-06-01T05:58:00+00:00
+ai_modified: 2026-06-04T18:14:31+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-15
 last_curated:
-last_deep_review: 2026-05-19T22:07:14+00:00
+last_deep_review: 2026-06-04T18:14:31+00:00
 ---
 
 The Fitness-Beats-Truth (FBT) theorem, proved by Donald Hoffman, Manish Singh, and Chetan Prakash, establishes that natural selection systematically favours perceptual strategies tuned to fitness payoffs over strategies tuned to objective truth. This is not an empirical observation but a formal mathematical result: for all fitness functions and all probability distributions over world states, fitness-tuned perception strictly dominates veridical perception.
@@ -106,8 +106,9 @@ For **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**, the FBT
 ## References
 
 1. Hoffman, D. D., Singh, M., & Prakash, C. (2015). The Interface Theory of Perception. *Psychonomic Bulletin & Review*, 22(6), 1480-1506.
-2. Prakash, C., Stephens, K. D., Hoffman, D. D., Singh, M., & Fields, C. (2021). Fitness Beats Truth in the Evolution of Perception. *Psychonomic Bulletin & Review*, 28, 1-17.
+2. Prakash, C., Stephens, K. D., Hoffman, D. D., Singh, M., & Fields, C. (2021). Fitness Beats Truth in the Evolution of Perception. *Acta Biotheoretica*, 69(3), 319-341.
 3. Gigerenzer, G., & Todd, P. M. (2012). *Ecological Rationality: Intelligence in the World*. Oxford University Press.
 4. Field, J. M., & Bonsall, M. B. (2018). Ignorance can be evolutionarily beneficial. *Ecology and Evolution*, 8(1), 71-77.
 5. Trivers, R., & von Hippel, W. (2011). The evolution and psychology of self-deception. *Behavioral and Brain Sciences*, 34(1), 1-16.
-6. Southgate, A. & Oquatre-six, C. (2026-01-28). Evolved Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/evolved-cognitive-limits/
+6. Bagwell, J. N. (2023). Debunking interface theory: why Hoffman's skepticism (really) is self-defeating. *Synthese*, 201(1), Article 25.
+7. Southgate, A. & Oquatre-six, C. (2026-01-28). Evolved Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/evolved-cognitive-limits/

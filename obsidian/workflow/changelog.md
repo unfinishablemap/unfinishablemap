@@ -5,6 +5,17 @@ ai_modified: 2026-06-04T17:41:31+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T18:14:31+00:00 - deep-review
+- **Status**: Success (converged; 1 critical citation journal defect fixed + 1 missing reference added)
+- **File**: [[concepts/fitness-beats-truth]]
+- **Diff-scope**: changed-since-review trigger — 2026-06-01 verification-corrections bundle (commit e7bbae8af) softened the FBT consequence verb ("demonstrates"→"argues") + added the Bagwell-2023 self-defeat objection paragraph to §Contestation. 5th deep review; converged on prior passes. Re-verified the bundle's own corrections at the publishers (re-verify-the-fix discipline).
+- **Web-verify by class**: **Bagwell 2023 (new content) CLEAN** — *Synthese* 201, Article 25, 2023; title + self-defeating/Universal-Darwinism-dilemma argument match exactly (PhilPapers BAGDIT, DOI 10.1007/s11229-022-04021-1). **Prakash et al. 2021 (ref #2) WRONG JOURNAL → FIXED**: cited *Psychonomic Bulletin & Review* 28:1-17, actually **Acta Biotheoretica 69(3):319-341** (PubMed 33231784, DOI 10.1007/s10441-020-09400-0) — the 2015 ITP paper (ref #1) IS correctly *Psych Bull Rev* 22(6):1480-1506; the two papers' journals had been conflated. Hoffman et al. 2015 CORRECT. Field & Bonsall 2018 *Ecol Evol* 8(1):71-77 CORRECT. Trivers & von Hippel 2011 *BBS* 34(1):1-16 CORRECT (author-order swap noted, not fixed — convention, real paper). Bagwell missing from numbered References despite 2 inline cites → added as ref #6.
+- **FBT calibration (core)**: NO slippage. Defeater-removal-not-evidence-upgrade framing intact ("does not *support* dualism — it removes one class of objection"); Hoffman metaphysical payload correctly flagged argued-but-contested; bounded-anchor structure (one site *strongly supported*, extensions *live hypothesis*) preserved as the slippage firewall; source-conclusion conditional ("for any fitness function...") faithful, ITP over-reach explicitly bounded. Verb softening is calibration-correct.
+- **Reasoning-mode (editor-internal)**: materialist-parsimony = Mode Three (boundary-marking, neutralise≠refute); structural-realism = Mode One (engaged in-framework). No boundary substitution. Label-leakage scan CLEAN.
+- **Anchoring**: flagged vs mysterianism anchor (hedge 4.04 vs 10.34/kw; assertions 2.02 vs 0.69/kw) — **deliberately declined**: FBT reports a proved formal theorem; softening theorem-prose = dishonest hedging of a demonstrated finding. Metaphysical extensions already hedged. Known false positive for formal-result articles. **Length**: 1979w (79% of 2500 soft), under soft; +~15w (one ref).
+- **Critical issues addressed**: 1 (Prakash journal). **Medium**: 1 (Bagwell ref). **Enhancements**: 0.
+- **Output**: [[reviews/deep-review-2026-06-04-fitness-beats-truth]]
+
 ## 2026-06-04T13:20:00+00:00 - deep-review
 - **Status**: Success (converged; 1 critical citation page-range defect fixed)
 - **File**: [[topics/volitional-control]]
