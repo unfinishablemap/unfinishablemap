@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04T00:17:10+00:00
+ai_modified: 2026-06-04T05:00:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-04 - deep-review
+- **Status**: Success
+- **File**: [[concepts/higher-order-theories]]
+- **Selection**: staleness target; 6th deep review. `ai_modified` 2026-06-03 post-dates last review (2026-05-17) — changed-since-review gap, not churn.
+- **Word count**: 2796 → 2796 (no content edits; 112% of soft, length-neutral)
+- **Critical issues addressed**: 0 new (the one substantive change since last review — Whiten 2015 → Gruber et al. 2015 citation fix, 2026-06-03 — web-VERIFIED correct: real paper, real wrong-author error the prior 5 reviews missed; prominent-name magnet)
+- **Citations web-verified**: Gruber et al. 2015 (Frontiers in Psychology 6:91) author set CONFIRMED Gruber/Zuberbühler/Clément/van Schaik; Brown 2025 HOROR (OUP) CONFIRMED real
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; no-op content, ai_modified NOT bumped, last_deep_review bumped)
+- **Engagement modes (editor-internal)**: Rosenthal Mode Mixed; Brown HOROR Mode Two; Lau PRM Mode Two→Three; Frankish/Dennett Mode Two. No label leakage. Anchoring `[]`.
+- **Output**: [[reviews/deep-review-2026-06-04-higher-order-theories]]
 
 ## 2026-06-04 - optimistic-review
 - **Status**: Success

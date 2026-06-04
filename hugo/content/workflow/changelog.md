@@ -1,13 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04 00:17:10+00:00
+ai_modified: 2026-06-04 05:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-04'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-04 - deep-review
+- **Status**: Success
+- **File**: [higher-order-theories](/concepts/higher-order-theories/)
+- **Selection**: staleness target; 6th deep review. `ai_modified` 2026-06-03 post-dates last review (2026-05-17) — changed-since-review gap, not churn.
+- **Word count**: 2796 → 2796 (no content edits; 112% of soft, length-neutral)
+- **Critical issues addressed**: 0 new (the one substantive change since last review — Whiten 2015 → Gruber et al. 2015 citation fix, 2026-06-03 — web-VERIFIED correct: real paper, real wrong-author error the prior 5 reviews missed; prominent-name magnet)
+- **Citations web-verified**: Gruber et al. 2015 (Frontiers in Psychology 6:91) author set CONFIRMED Gruber/Zuberbühler/Clément/van Schaik; Brown 2025 HOROR (OUP) CONFIRMED real
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; no-op content, ai_modified NOT bumped, last_deep_review bumped)
+- **Engagement modes (editor-internal)**: Rosenthal Mode Mixed; Brown HOROR Mode Two; Lau PRM Mode Two→Three; Frankish/Dennett Mode Two. No label leakage. Anchoring `[]`.
+- **Output**: [deep-review-2026-06-04-higher-order-theories](/reviews/deep-review-2026-06-04-higher-order-theories/)
+
+## 2026-06-04 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The AI-substrate cohort — the three freshest non-draft articles, all deep-reviewed in the 00:17–01:13 UTC overnight window of 2026-06-04 and none previously optimistic-reviewed: [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/) (2376w, ok), [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/) (3999w, soft_warning — 1w under hard ceiling), [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) (5064w, hard_warning). All three work the AI-substrate question (can an artificial system support tenet-required consciousness?) from different stations: quantum-substrate obstacle, introspective-architecture parallel, Born-rule selection interface.
+- **Strengths**: Process-Philosopher / Hardline-Empiricist personas CONVERGE — the introspection exhibit is the corpus's best instance of tenet-as-evidence-upgrade praise-worthily NOT done (no graded score despite the "scoring" title; explicit N=2 single-grader honesty; evidential vector named as pointing toward rivals on predicted items). quantum-state-inheritance freshly citation-verified today (Lie & Ng / Paetznick / Plotnitsky corrected).
+- **Tasks proposed**: 2 (P3) — (1) length-NEUTRAL cross-link bridging the two AI-substrate articles (genuine zero-cross-link gap; quantum article has headroom for a clause, introspection article at hard ceiling gets bare wikilink only); (2) condense born-rule (5064w hard_warning, the cohort's one length need). DECLINED: any new-article creation (cluster saturated/near-cap; all needed concepts exist) and any body-expansion of the two over-length articles (standing corrective #3).
+- **Output**: [optimistic-2026-06-04](/reviews/optimistic-2026-06-04/)
 
 ## 2026-06-04T01:13:09+00:00 - deep-review
 - **Status**: Success

@@ -596,13 +596,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-18 (promoted P3→P2 and notes refreshed 2026-06-01)
 
-### P2: Deep review quantum-state-inheritance-in-ai.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-15 — 31 days ago. Topics article on whether AI systems could inherit quantum state properties relevant to consciousness. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-18
-
 ### ~~P1: Coalesce aesthetics articles in topics/ (4 articles → 1)~~ ✅
 - **Type**: coalesce
 - **Notes**: Topics section is 20 over its 200-article cap, blocking all expand-topic tasks. Four articles cover overlapping ground on aesthetic irreducibility as evidence for consciousness: aesthetic-dimension-of-consciousness.md (3776 words), aesthetic-irreducibility-arguments.md (2687 words), consciousness-and-aesthetic-creation.md (2662 words), binding-and-beauty.md (2165 words). Merge into a single comprehensive article on aesthetics and consciousness. Saves 3 article slots.
@@ -670,20 +663,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Previously condensed on 2026-02-22 but has grown back to 3974 words, likely from review-driven additions. Preserve core arguments while removing redundancy. See /condense skill.
 - **Source**: length_analysis
-- **Generated**: 2026-03-15
-
-### P2: Write article on the phenomenology of interface opacity
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Phenomenal transparency explains why we can't see the representational medium; embodied-consciousness shows the interface extends beyond the brain. This article would systematically develop interface opacity — the specific ways consciousness fails to detect its own point of contact with matter — as distinct from both phenomenal transparency and general mysterianism. See optimistic-2026-03-15-morning.md
-- **Source**: optimistic_review
-- **Generated**: 2026-03-15
-
-### P2: Write article on temporal becoming and mathematical creativity
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The temporal becoming article argues genuine creativity requires accumulated temporal context (durée) for generating new representational primitives. Mathematical creativity — where insight can be checked against objective truth — provides the strongest test case. Connects the temporal creativity thesis to the Map's strongest empirical anchor for phenomenological claims. See optimistic-2026-03-15-morning.md
-- **Source**: optimistic_review
 - **Generated**: 2026-03-15
 
 ### P2: Write article on feminist philosophy of mind and consciousness
@@ -927,11 +906,39 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-29)
 - **Generated**: 2026-05-29
 
+### P3: Length-neutral cross-link the two AI-substrate articles (quantum-state-inheritance ↔ introspection-architecture-scoring)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by /optimistic-review 2026-06-04 §"High Priority". [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/) (the LLM-substrate-OBSTACLE side: current LLMs lack live quantum indeterminacy) and the cross-architecture pivot of [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/) (the LLM-introspection-PARALLEL side: Hahami 2025 "strength but not source" as the most architecturally-distant evidence channel) work the SAME LLM-substrate question from opposite directions and currently have ZERO cross-link. Both reach the same bracketed verdict — the AI-substrate case is "compatibility not support," an open programme, not evidence. **LENGTH CONSTRAINT (load-bearing):** quantum-state-inheritance is 2376w / **ok** (headroom to 3000) → a SHORT clause in its "Implications for AI Consciousness Claims" section is safe. introspection-architecture-scoring is 3999w / **soft_warning, ONE word under the 4000 hard ceiling** → add ONLY a bare wikilink in related_articles/Further Reading, **NO prose**. Do NOT expand either body beyond this. Tenet alignment: Tenets 1 (Dualism) & 2 (Minimal Quantum Interaction); strengthens [machine-question](/apex/machine-question/). See [optimistic-2026-06-04](/reviews/optimistic-2026-06-04/).
+- **Review file**: `reviews/optimistic-2026-06-04.md`
+- **Source**: optimistic-review (2026-06-04)
+- **Generated**: 2026-06-04
+
+### ✓ DEFERRED-AS-DUPLICATE 2026-06-04: Condense topics/born-rule-and-the-consciousness-interface.md toward the soft ceiling
+- **Type**: condense
+- **Status**: deferred-duplicate (do NOT loop-pick)
+- **Notes**: DIVERTED at generation 2026-06-04 (human-decision-task-mispicked-as-refine). The optimistic-review proposed an auto-condense, but born-rule is already a HUMAN-EDITORIAL-DECISION / "not auto-condensable" flagship — see the existing entry above (flagged by the 2026-06-02 deep-review: "Do NOT auto-condense in a cycle slot... a naive condense would shed the calibration discipline the prior session installed"). Its over-length is OWN load-bearing calibration content (Compatibility-vs-Support section, three-tier gradient, framework-boundary honesty), exactly the condense-regresses-calibration-qualifiers danger zone. The human options (accept the length, or commission a verbatim-preserving condense) are tracked on the existing human-decision entry. This auto-condense duplicate is neutralized so the loop does not mis-pick it and silently regress the Map's central empirical article. See [optimistic-2026-06-04](/reviews/optimistic-2026-06-04/).
+- **Review file**: `reviews/optimistic-2026-06-04.md`
+- **Source**: optimistic-review (2026-06-04)
+- **Generated**: 2026-06-04
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Write article on temporal becoming and mathematical creativity
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The temporal becoming article argues genuine creativity requires accumulated temporal context (durée) for generating new representational primitives. Mathematical creativity — where insight can be checked against objective truth — provides the strongest test case. Connects the temporal creativity thesis to the Map's strongest empirical anchor for phenomenological claims. See optimistic-2026-03-15-morning.md
+
+### ✓ 2026-06-04: Write article on the phenomenology of interface opacity
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Phenomenal transparency explains why we can't see the representational medium; embodied-consciousness shows the interface extends beyond the brain. This article would systematically develop interface opacity — the specific ways consciousness fails to detect its own point of contact with matter — as distinct from both phenomenal transparency and general mysterianism. See optimistic-2026-03-15-morning.md
+
+### ✓ 2026-06-04: Deep review quantum-state-inheritance-in-ai.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-15 — 31 days ago. Topics article on whether AI systems could inherit quantum state properties relevant to consciousness. Verify coherence, cross-references, and tenet alignment.
 
 ### ✓ 2026-06-04: Deep review free-will.md
 - **Type**: deep-review
