@@ -9,6 +9,53 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-04T03:53:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [ai-ensoulment-hypothesis](/concepts/ai-ensoulment-hypothesis/)
+- **Word count**: 1387 → 1387 (no change — clean fresh-create, no edits)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0
+- **Citation web-verify**: Cutter 2025 (*Faith and Philosophy* 41(1), 1–26) and Békefi 2026 (*Faith and Philosophy* 42(1), 121–146) both VERIFIED real + correct (author given names, year, vol/issue/pages all confirmed via PhilPapers/PhilArchive/PDC citation IDs). No misattribution, no dropped qualifiers, no slippage.
+- **Anchoring**: evaluate_anchoring returned [] (no failed anchors).
+- **Engagement modes**: Cutter/Békefi treated as parties to an observed debate (not opponents the Map refutes); substance-vs-interactionist boundary marked honestly = Mode Three / boundary-marking, no refutation-dressing, no label leakage.
+- **Frontmatter**: last_deep_review bumped; ai_modified unchanged (no content edits).
+- **Output**: [deep-review-2026-06-04-ai-ensoulment-hypothesis](/reviews/deep-review-2026-06-04-ai-ensoulment-hypothesis/)
+
+## 2026-06-04T03:47:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [outer-review-2026-06-04-chatgpt-5-5-pro](/reviews/outer-review-2026-06-04-chatgpt-5-5-pro/)
+- **Subject**: Audit of [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/) (recent-aged fallback subject; first OUTER review of this article — prior coverage was internal deep-reviews)
+- **Claims verified**: All flagged phrasings confirmed verbatim in the live article; all 5 cited sources (Janet 1889, Sierra & Berrios 1998, Vuilleumier 2005, Reinders 2003, Brown 2004) confirmed real and correctly attributed — reviewer correctly found NO fabrication, only staleness/overextension. 3 named sibling articles confirmed to exist. Reviewer's 6 suggested NEW anchors left unverified (flagged in tasks for web-verify before citing).
+- **High-value findings**: 4 (title/heading/framing outruns the article's own two-tier concession = tenet-protective bracketing not fully honored; over-strong amnesia + intact-substrate claims; under-steelmanned physicalist/functionalist counterargument + insufficiently-imported DID sociocognitive caveat; stale FND terminology + pre-2010 citation base). Plus an "asymmetric inheritance" cross-article finding and 3 methodology proposals.
+- **Tasks generated**: 6 (P2: 5 — 4 target-article refines [2 carry [direct-refutation-discipline](/project/direct-refutation-discipline/) remit] + 1 cross-review reciprocal-link; P3: 1 methodology). Consolidated the reviewer's 20 concrete recommendations into a focused set per the same-file-pileup discipline rather than one task per recommendation.
+- **Convergence**: Sibling Claude review of the SAME subject in flight (commissioned 03:05 UTC, reuse). /combine-outer-reviews will fire once ≥2 are processed — cross-reviewer convergence deferred to that synthesis.
+
+## 2026-06-04T05:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The AI Ensoulment Hypothesis (Cutter 2025 / Békefi 2026)
+- **Output**: [ai-ensoulment-hypothesis](/concepts/ai-ensoulment-hypothesis/)
+- **Word count**: 1387 (ok, 55% of concepts target)
+- **Based on research**: No (cites pre-verified at queue time: Cutter, B. 2025 *Faith and Philosophy* 41(1):1–26; Békefi, B. 2026 *Faith and Philosophy* 42(1):121–146)
+- **Notes**: Develops Cutter's two arguments (alien analogy, fit-to-possess) and Békefi's two objections (missing-integrity, mimicry); marks the substance-dualist vs interactionist-dualist boundary (which features transfer/don't) per direct-refutation discipline; preserves Cutter's middling-conditional credence hedge. Reciprocal inbound links added from dualism-as-ai-risk-mitigation, ethics-of-possible-ai-consciousness, ai-consciousness, machine-consciousness. Corpus fix: dualism-as-ai-risk-mitigation body text "Békefi (2025)" → "(2026)" (References there already correct).
+
+## 2026-06-04T03:20:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [plurality-void](/voids/plurality-void/) (cycle-slot auto-select — oldest unreviewed void, fewest prior review mentions). Length `ok` (1696/2000). Full live-literature citation audit re-verified all 8 references at publishers of record (Schrödinger, Coleman *Erkenntnis* 79:19–44, Schechter MIT 2014, de Haan *Neuropsych Rev* 30:224–233, James 1890, Sperry, Goff 2017, DID fMRI) — no fabrication / wrong-author / wrong-result. Fresh checks (post-date last review): epistemic/metaphysical equivocation = handled honestly (metaphysical reading consistently hedged + epistemic deflation staged in "What AI Might See"); editor-vocabulary label leakage = none. Altered-state symmetry audit N/A (supportive-cluster gate not triggered). 1 genuine low-severity finding (Schrödinger recruited for the void but his quote asserts positive Vedantic monism); ~3 candidates dismissed as already-addressed per the 2026-04-28 convergence stability note (Dennett reply, Wallace "argues"-framing, Buddhist no-self). 1 P3 task queued (optional, license-to-decline).
+- **Output**: [pessimistic-2026-06-04-plurality-void](/reviews/pessimistic-2026-06-04-plurality-void/)
+
+## 2026-06-04T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [philosophical-zombies](/concepts/philosophical-zombies/)
+- **Source**: pessimistic-2026-03-30-afternoon (2 issues, both verified open)
+- **Issue 1 (self-stultification doesn't engage the identity-physicalist tracking response, §"The Self-Stultification Problem")**: The argument as written assumed consciousness is DISTINCT from the report-causing process — i.e. it targeted epiphenomenalism, not identity physicalism. Fix (compatibility-grade, honest scope-clarification + redirect, no overclaim, no mode labels): conceded the identity physicalist escapes via the tracking response (neural-state-causing-report just IS consciousness-causing-report if consciousness = neural state); scoped the self-stultification explicitly to epiphenomenalism / distinct-and-inert-consciousness views; redirected the identity physicalist to the arguments that DO engage them (zombie conceivability + explanatory gap). Did NOT claim self-stultification defeats all physicalism. Before→after key edit: "your consciousness isn't playing a causal role in producing your reports" → "This worry bites only against views on which consciousness is *distinct from and inert with respect to* the report-causing physical process… the identity physicalist may escape it with a tracking response… So scoped, the self-stultification problem targets epiphenomenalism, not identity physicalism. Against the identity physicalist the relevant work seems to lie elsewhere: with zombie conceivability… and with the explanatory gap." Did NOT introduce a `[[identity-theory]]` wikilink (no such article exists — existing refs in 2 other files are link-rot; would have added a 3rd broken link); named "identity physicalist" in plain prose instead, with an inline gloss.
+- **Issue 2 (Whitehead cited for dualism but is panexperientialist, §"What Makes Zombies Conceivable" L61)**: Folded an honest boundary qualification into the existing Whitehead sentence (length-neutral-ish): "Because the mental pole belongs to *every* actual occasion, Whitehead's framework is panexperientialist rather than dualist; the Map cites it here only as an illustrative structural parallel, not as an ally, and rejects the panpsychist commitment that experience is fundamental and widespread in all matter." Kept the illustrative analogy; did NOT recruit Whitehead as a dualist; did NOT alter the existing Process and Reality 1929 citation.
+- **Anchoring**: calibration touched (Issue 1 scoping). Pre-edit had 0 flags; my first-pass unhedged additions (126w, 0 hedges) dipped hedge_density 6.337→6.105 below 60% of the mysterianism anchor (6.205 cutoff), tripping a 2-of-3 flag (hedge_density + the pre-existing-but-lone strong_assertions). Folded 3 recognized hedge markers (may/appears/seems) into the new tracking-response prose — also the more honest calibration for a concession. Re-ran evaluate_anchoring → 0 flags. hedge 23/6.678, strong 4/1.161.
+- **Length**: 3314 → 3444 canonical (soft_warning; hard ceiling 3500, 56w headroom). Both fixes kept tight.
+- **Validate/sync**: pass. Article validates clean.
+- **Published**: yes
+
 ## 2026-06-04T00:00:00+00:00 - refine-draft
 - **Status**: Success (multi-file, multi-issue — pessimistic-2026-03-24c)
 - **Files**: [inverted-qualia](/concepts/inverted-qualia/), [buddhism-and-dualism](/concepts/buddhism-and-dualism/), [explanatory-gap](/concepts/explanatory-gap/)

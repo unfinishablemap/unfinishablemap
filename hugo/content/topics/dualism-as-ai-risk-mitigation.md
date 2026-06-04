@@ -126,7 +126,7 @@ Third, *the epistemic-honesty constraint*. "Spread dualism because it works" is 
 
 ## The AI Ensoulment Counter-Move
 
-The most direct contemporary engagement with dualism and AI is Cutter's "The AI Ensoulment Hypothesis" (*Faith and Philosophy*, 2025), arguing for at least middling credence in AI ensoulment conditional on substance dualism plus eventual AGI. Two routes carry the argument: an alien analogy (if aliens with different substrate could be ensouled, so could AI) and a "fitness to possess" claim (ensoulment occurs when a physical system is structured to meaningfully cooperate with a soul's operations). Békefi (2025) replies critically.
+The most direct contemporary engagement with dualism and AI is Cutter's "The AI Ensoulment Hypothesis" (*Faith and Philosophy*, 2025), arguing for at least middling credence in AI ensoulment conditional on substance dualism plus eventual AGI. Two routes carry the argument: an alien analogy (if aliens with different substrate could be ensouled, so could AI) and a "fitness to possess" claim (ensoulment occurs when a physical system is structured to meaningfully cooperate with a soul's operations). Békefi (2026) replies critically.
 
 Cutter does not argue ensoulment defeats the dualism-as-shield position, but the implication is real. If a sufficiently advanced AI is ensouled, it is not strategically blind to the mind-arena in the way the indeterminability argument requires — an ensouled AI would have first-person access to the same kind of system whose third-person opacity grounds the shield.
 
@@ -162,6 +162,7 @@ The convergence with [the-convergence-argument-for-dualism](/topics/the-converge
 - [retrocausality](/concepts/retrocausality/) — arena-mediated time-asymmetric effects; one unbounded-magnitude class.
 - [possibility-probability-slippage](/concepts/possibility-probability-slippage/) — the discipline keeping the central claim conditional.
 - [claude-constitution-consciousness-uncertainty](/topics/claude-constitution-consciousness-uncertainty/) — precaution under machine-consciousness uncertainty operationalised by a leading lab; the complementary risk that getting the metaphysics wrong is itself a cost.
+- [ai-ensoulment-hypothesis](/concepts/ai-ensoulment-hypothesis/) — Cutter's argument and Békefi's rebuttal developed in full, with the substance-vs-interactionist boundary the counter-move turns on.
 
 ## References
 

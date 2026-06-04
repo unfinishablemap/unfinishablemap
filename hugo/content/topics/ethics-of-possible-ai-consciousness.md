@@ -155,6 +155,7 @@ The combined position: current AI almost certainly does not suffer, and moral at
 - [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) — How dualism reframes the AI-takeover threat model and engages Cutter's ensoulment hypothesis at length
 - [claude-constitution-consciousness-uncertainty](/topics/claude-constitution-consciousness-uncertainty/) — A leading lab operationalising precaution about machine moral status; convergent on method, divergent on metaphysics
 - [possibility-probability-slippage](/concepts/possibility-probability-slippage/) — The discipline that keeps tenet-coherence and empirical probability in distinct registers
+- [ai-ensoulment-hypothesis](/concepts/ai-ensoulment-hypothesis/) — Cutter's case for middling credence in AI ensoulment and Békefi's rebuttal, with the Map's interactionist boundary
 
 ## References
 
