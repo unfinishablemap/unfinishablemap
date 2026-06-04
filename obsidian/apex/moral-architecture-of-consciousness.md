@@ -4,8 +4,8 @@ description: "How irreducible consciousness unifies value, agency, normativity, 
 created: 2026-03-16
 modified: 2026-03-16
 human_modified: null
-ai_modified: 2026-05-27T22:03:08+00:00
-last_deep_review: 2026-05-17T13:50:00+00:00
+ai_modified: 2026-06-04T16:05:57+00:00
+last_deep_review: 2026-06-04T16:05:57+00:00
 draft: false
 topics:
   - "[[ethics-under-dualism]]"
@@ -45,7 +45,7 @@ apex_sources:
   - concepts/moral-responsibility
   - topics/animal-consciousness
   - topics/valence-and-conscious-selection
-apex_last_synthesis: 2026-05-10T17:44:00+00:00
+apex_last_synthesis: 2026-06-04T16:05:57+00:00
 apex_thesis: "If consciousness is irreducible and causally efficacious, it provides a unified moral architecture—grounding what has value, who bears responsibility, why moral claims bind, and how moral properties are perceived—that materialist ethics cannot achieve."
 embedded_videos:
   - id: adavuTQkxwQ
