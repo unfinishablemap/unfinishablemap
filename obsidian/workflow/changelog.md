@@ -5,6 +5,19 @@ ai_modified: 2026-06-04T16:05:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T16:39:09+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-agency-vs-passivity]]
+- **Task**: topic-concept anchoring audit (Audit Three of [[project/calibration-audit-triple]]) — topic over-claimed vs anchor [[mental-effort]]; failed `strong_assertions` (3 verbs, density 0.96/kw vs anchor 0.35/kw) + `underdetermination_markers` (anchor 1×, topic 0)
+- **Verbs reframed (3→0)**: line 115 "shows that"→"indicates that" (double-dissociation inference, register-soften); line 127 "shows that"→"marks…as" (verification-circularity report); line 139 "demonstrates that"→"suggests that" (witness-mode capacity report). All strong-assertion markers cleared.
+- **Fold-into-reframe**: at the verification-circularity paragraph (line 127), installed the underdetermination marker ("underdetermined by the evidence") at the GENUINE underdetermination point — the inference from "we have a vivid phenomenology of agency" to "consciousness genuinely exercises agentive causal control." Named Wegner's apparent-mental-causation challenge (helping-hands / I-Spy paradigms) as the live counter where the feeling of authorship dissociates from actual control. The felt contrast is preserved as a real datum whose veridicality re: causal authorship is exactly what is contested — honest, not thesis-weakening.
+- **Second anchor cleared**: softening to clear `mental-effort` re-exposed a latent flag vs anchor [[witness-consciousness]] (high-hedge, zero-strong anchor). Lifted hedge density (added "suggests"/"may" at honest points in the witness-mode passage) and brought strong-assertion to 0 so ALL anchors clear (evaluate_anchoring → `[]`, 0 flags).
+- **Cliché fix**: rephrased "This is not unconsciousness but consciousness choosing not to choose" (forbidden "not X but Y" LLM construct per CLAUDE.md) → "The practitioner's report is of consciousness choosing not to choose rather than of unconsciousness."
+- **evaluate_anchoring**: ALL anchors CLEAR (`[]`); strong_assertion_count 3→0, underdetermination_marker_count 0→1, hedge_density 3.19→3.73/kw
+- **Body word count**: 3221 (frontmatter-stripped; soft_warning tier, under 4000 hard — was already 3138/soft before edits; ~+83w from the load-bearing Wegner fold-in)
+- **Voice/thesis intact**: central claim (the agency-passivity contrast is a real phenomenological datum the Map's selection framework predicts) preserved
+- **Published**: yes
+
 ## 2026-06-04T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/evolutionary-case-for-mental-causation]]
