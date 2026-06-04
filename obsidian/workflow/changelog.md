@@ -5,6 +5,20 @@ ai_modified: 2026-06-04T18:46:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **Task**: MULTI-FILE fabricated-citation fix (from attentional-economics deep-review 2026-06-04). Class: [[ai_citation_metadata_unreliable]]. Independently web-verified: "Meister, M. (2024). The physical limits of perception. *PNAS*, 121(14), e2400258121" DOES NOT EXIST; real source is Zheng, J. & Meister, M. (2025). The unbearable slowness of being. *Neuron*, 113(2), 192-204.
+- **Canonical replacement form**: "Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204."
+- **Files fixed (5; 1 MORE than the 4 specified — grep surfaced an extra)**:
+  - `concepts/attention-as-interface.md`: DELETED duplicate bad ref (was #11 "Meister, M. (2024)… PNAS") — the correct Zheng & Meister 2025 cite already existed at #24; renumbered ref entries 12→11 through 26→25 to keep the numbered list contiguous. Body uses author-year ("Zheng and Meister (2025)"), not ref-numbers, so no in-text pointer broke.
+  - `concepts/sleep-and-consciousness.md`: inline "Meister (2024)" → "Zheng & Meister (2025)"; ref "Meister, M. et al. (2024). The bandwidth of human thought. Caltech study." → canonical Neuron form.
+  - `topics/responsibility-gradient-from-attentional-capacity.md`: inline "Meister's 2024 analysis of perceptual limits" → "Zheng & Meister's (2025) analysis of conscious throughput"; ref (fabricated PNAS form) → canonical Neuron form.
+  - `concepts/consciousness-selecting-neural-patterns.md` (EXTRA file, not in task spec — found by grep): inline "(Meister, 2024)" → "(Zheng & Meister, 2025)"; ref "Meister, M. et al. (2024). The bandwidth of human thought. *Caltech*." → canonical Neuron form.
+- **stapp-quantum-mind.md**: NO EDIT NEEDED. The pessimistic-2026-05-25 orphan-ref flag is already resolved — both inline (line 89) and ref (line 205) already carry the correct "Zheng & Meister (2025)" Neuron form.
+- **Grep-confirm**: `grep -rniE 'meister.*2024|physical limits of perception|bandwidth of human thought' obsidian/{topics,concepts,voids,apex}` returns 0 matches. All remaining Meister mentions are the canonical Zheng & Meister 2025 Neuron form, Baumeister (a different author), or Meister Eckhart (the mystic).
+- **Length-neutral**: yes; citation-only correction, no other content altered.
+- **Published**: yes
+
 ## 2026-06-04T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/attentional-economics]]

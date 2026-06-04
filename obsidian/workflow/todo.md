@@ -37,12 +37,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix fabricated "Meister 2024 PNAS physical limits of perception" citation corpus-wide
+### P2: Adopt global-workspace-theory calibration in experimental-consciousness-science-2025-2026
 - **Type**: refine-draft
 - **Status**: pending
-- **Notes**: Web-verified during the 2026-06-04 deep-review of [[concepts/attentional-economics]] (now fixed in that file). The reference "Meister, M. (2024). The physical limits of perception. *PNAS*, 121(14), e2400258121" is FABRICATED metadata: the title returns nothing at PNAS, the article number e2400258121 does not resolve, and the actual source for the "~10 bits/second" figure is **Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204** (arXiv 2408.10234; online 2024, Neuron print 2025). The corpus's own canonical form lives in `concepts/attention-as-interface.md` line 279. Real-paper-wrong-everything-else (3-state: FIX, not drop — the Meister author + 10-bits claim are real). LIVE FILES carrying the bad cite (reviews/research/changelog/archive OUT OF SCOPE): (1) `concepts/attention-as-interface.md` line 266 — internally INCONSISTENT, also has the CORRECT cite at line 279 + body uses "Zheng and Meister (2025)"; delete the duplicate bad line 266. (2) `concepts/sleep-and-consciousness.md` line 50 inline "Meister (2024)" + line 183 ref "Meister, M. et al. (2024). The bandwidth of human thought. Caltech study." (also wrong — repoint to Zheng & Meister 2025). (3) `topics/responsibility-gradient-from-attentional-capacity.md` line 45 inline "Meister's 2024 analysis of perceptual limits" + line 184 ref (same fabricated form). (4) `concepts/stapp-quantum-mind.md` — orphan ref already flagged by pessimistic-2026-05-25 (line 3434 task). Per-file: repoint inline mentions to "Zheng & Meister (2025)" and replace the ref-list entry with the canonical Neuron form; preserve length-neutrality. GREP `Meister.*2024\|physical limits of perception` to confirm none missed.
-- **Source**: deep-review
+- **File**: obsidian/topics/experimental-consciousness-science-2025-2026.md
+- **Notes**: From topic-concept anchoring audit 2026-06-04. The topic article over-claims relative to its anchor concept [[global-workspace-theory]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 5.88/kw is below 60% of anchor (10.00/kw)
+  - topic uses 1 strong-assertion verbs where anchor uses none
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-04
+
+### P2: Adopt neural-correlates-of-consciousness calibration in hard-problem-of-consciousness
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/hard-problem-of-consciousness.md
+- **Notes**: From topic-concept anchoring audit 2026-06-04. The topic article over-claims relative to its anchor concept [[neural-correlates-of-consciousness]]; failed checks: strong_assertions, underdetermination_markers.
+  - topic uses 1 strong-assertion verbs where anchor uses none
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-04
+
 
 ### P3: Cross-link parsimony-epistemology.md ↔ fitness-beats-truth.md (mutual-reinforcement)
 - **Type**: cross-review
@@ -781,6 +797,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Fix fabricated "Meister 2024 PNAS physical limits of perception" citation corpus-wide
+- **Type**: refine-draft
+- **Notes**: Web-verified during the 2026-06-04 deep-review of [[concepts/attentional-economics]] (now fixed in that file). The reference "Meister, M. (2024). The physical limits of perception. *PNAS*, 121(14), e2400258121" is FABRICATED metadata: the title returns nothing at PNAS, the article number e2400258121 does not resolve, and the actual source for the "~10 bits/second" figure is **Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204** (arXiv 2408.10234; online 2024, Neuron print 2025). The corpus's own canonical form lives in `concepts/attention-as-interface.md` line 279. Real-paper-wrong-everything-else (3-state: FIX, not drop — the Meister author + 10-bits claim are real). LIVE FILES carrying the bad cite (reviews/research/changelog/archive OUT OF SCOPE): (1) `concepts/attention-as-interface.md` line 266 — internally INCONSISTENT, also has the CORRECT cite at line 279 + body uses "Zheng and Meister (2025)"; delete the duplicate bad line 266. (2) `concepts/sleep-and-consciousness.md` line 50 inline "Meister (2024)" + line 183 ref "Meister, M. et al. (2024). The bandwidth of human thought. Caltech study." (also wrong — repoint to Zheng & Meister 2025). (3) `topics/responsibility-gradient-from-attentional-capacity.md` line 45 inline "Meister's 2024 analysis of perceptual limits" + line 184 ref (same fabricated form). (4) `concepts/stapp-quantum-mind.md` — orphan ref already flagged by pessimistic-2026-05-25 (line 3434 task). Per-file: repoint inline mentions to "Zheng & Meister (2025)" and replace the ref-list entry with the canonical Neuron form; preserve length-neutrality. GREP `Meister.*2024\|physical limits of perception` to confirm none missed.
 
 ### ✓ 2026-06-04: Deep review concepts/attentional-economics.md (changed-since-review staleness)
 - **Type**: deep-review
