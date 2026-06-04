@@ -5,6 +5,11 @@ ai_modified: 2026-06-04T23:00:22+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/near-death-experiences.md` (~2,478 body words; well-aged, no prior dedicated pessimistic review). Empirical spine verified (Van Lommel n=344/62/41; AWARE II 28-of-567; Xu/Borjigin 2023 PNAS gamma). Three medium/low findings: selectivity-argument overreach vs its own caveat; altered-state symmetry-acknowledgment under-named (audit gate passes — disruptive cluster IS engaged, NOT the critical double-counting failure); epistemic→metaphysical drift in the framing claim. No label-leakage or boundary-substitution. Queued one P2 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-06-04d]]
+
 ## 2026-06-04T23:40:29+00:00 - deep-review (integration)
 - **Status**: Success
 - **File**: [[topics/cross-architecture-llm-introspection]] (integration-focused; content converged this session)
