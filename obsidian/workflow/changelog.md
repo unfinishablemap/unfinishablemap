@@ -5,6 +5,16 @@ ai_modified: 2026-06-04T17:41:31+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T17:56:12+00:00 - deep-review
+- **Status**: Success (1 critical citation defect fixed corpus-wide; body converged)
+- **File**: [[voids/narrative-void]]
+- **Diff-scope**: only new own-content since 05-17 review was the "Pre-Selected Material" section (Encoding-Void absorption, commit 7801c0184). Audited that section; rest converged, not re-litigated.
+- **Web-verify by class**: Yang et al. 2024 (*Science* 383(6690), 1478–1483) CORRECT; Ongchoco & Xu 2024 (*J Vision* 24(9)) CORRECT; Radvansky-Zacks 2017 CORRECT (prior-verified). Lindsey recall-gated cite WRONG-AUTHOR: cited "Lindsey, Litwin-Kumar & Gjorgjieva 2024" but PubMed (PMID 39023518)/eLife confirm TWO authors only — Gjorgjieva is the eLife Reviewing Editor, not a co-author. Also wrong volume (14→12) + elocation (e90793→RP90793). Source-conclusion checks all pass; no verbatim-quote issues.
+- **Corpus fix**: corrected the wrong-author in 3 places — narrative-void.md (body + References), voids/voids.md (encoding-void entry), research/voids-encoding-void-2026-05-12.md (reference line). Root cause: the note's 2026-06-01 correction of a prior "Sun et al. 2025" error introduced Gjorgjieva by conflating reviewing-editor with author.
+- **Calibration**: "Pre-Selected Material" closing sentence honours evidential-status discipline (empirical-vs-metaphysical boundary correctly placed); no slippage. **Anchoring**: clean before/after. **Length**: 2298w (115% soft, under hard) — no condense.
+- **Critical issues addressed**: 1. **Medium**: 0. **Enhancements**: 0 (converged; citation-integrity pass).
+- **Output**: [[reviews/deep-review-2026-06-04-narrative-void]]
+
 ## 2026-06-04T17:50:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Tenet-5 / parsimony cluster (parsimony-epistemology, fitness-beats-truth, parsimony-case-for-interactionist-dualism; minimal-consciousness as adjacent check). Cycle-slot, self-selected focus on a converged + capped corpus.
