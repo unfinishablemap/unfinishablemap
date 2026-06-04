@@ -5,6 +5,14 @@ ai_modified: 2026-06-04T23:00:22+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T23:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/epistemic-advantages-of-dualism]]
+- **Trigger**: topic-concept anchoring audit (2026-06-04) — topic over-claimed relative to anchor [[mental-causation-and-downward-causation]]. Failed: strong_assertions (3 strong-assertion verbs where anchor uses none) and underdetermination_markers (anchor 1×, topic 0×).
+- **Changes**: Calibration discipline only, strictly length-neutral (4395→4400 words, still hard_warning, not pushed past where it was). (1) Extended-consciousness para: "shows that even Clark and Chalmers' parity principle fails" → "suggests that even... stalls", "extends cognition but not consciousness" → "but arguably not consciousness". (2) Relation-to-Site intro: "without claiming the epistemic argument *establishes* it" → "*grounds* it" (synonym off the marker list; the verb was already deflationary). (3) Practical Upshot opener: "None of this proves dualism is true" → "None of this settles whether dualism is true; on the evidence currently available the question remains underdetermined by the data" — added the explicit recognized underdetermination marker the anchor carries. Offset the additions by trimming redundancy in the closing cost-ledger paragraph.
+- **Verification**: `tools/curate/anchoring.evaluate_anchoring` now returns 0 flags (strong-assertion count 0; 1 underdetermination marker). `analyze_length` 4400 words, unchanged status. Central claim (epistemic humility favours keeping dualism a live option) and voice preserved — no retraction or weakening of the argument.
+- **Published**: yes
+
 ## 2026-06-04T12:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/pragmatist-quantum-foundations-and-the-agent]]
