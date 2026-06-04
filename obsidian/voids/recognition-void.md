@@ -4,8 +4,8 @@ description: "Human+AI exploration of why consciousness cannot observe its own r
 created: 2026-03-22
 modified: 2026-05-02
 human_modified:
-ai_modified: 2026-05-09T16:15:00+00:00
-last_deep_review: 2026-05-02T06:55:00+00:00
+ai_modified: 2026-06-04T15:27:30+00:00
+last_deep_review: 2026-06-04T15:27:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -64,7 +64,7 @@ The affective component — the felt familiarity that Capgras strips away — is
 
 ### Jamais Vu and the Exhaustion of Meaning
 
-Semantic satiation offers a repeatable encounter with the Recognition Void in healthy subjects. Writing a common word thirty times reliably strips it of meaning (Moulin & Bell, 2021). The word becomes alien — perceived but emptied of significance. The 2024 computational modelling by Kwon et al. explains the *mechanism* (lower-level processing saturation) but not the phenomenology: why does the exhaustion of recognition feel *eerie* rather than merely blank?
+Semantic satiation offers a repeatable encounter with the Recognition Void in healthy subjects. Writing a common word thirty times reliably strips it of meaning (Moulin & Bell, 2021). The word becomes alien — perceived but emptied of significance. The 2024 computational modelling by Zhang et al. explains the *mechanism* (lower-level processing saturation) but not the phenomenology: why does the exhaustion of recognition feel *eerie* rather than merely blank?
 
 Jamais vu demonstrates that meaningfulness is actively constructed moment by moment. Recognition is not a stable property of stimuli but an ongoing generation. When the generation machinery exhausts, we glimpse the raw material that recognition normally transforms — perception without knowing-as. The [[noetic-feelings-void|noetic feelings void]] catalogues the wider pattern: what exhausts in semantic satiation is a fluency-and-familiarity signal, and the signal's opacity is architectural, not accidental. The [[memory-anomalies|memory anomalies cluster]] develops jamais vu as one of three rotations on a single source-monitoring failure — alongside déjà vu (familiarity without recollection) and cryptomnesia (recollection without source-tag) — making the dual-process recognition architecture visible at its margins.
 
@@ -115,7 +115,7 @@ Strictly speaking, no fully reliable direct method exists. To directly observe h
 
 The Recognition Void engages multiple [[tenets]].
 
-**[[tenets#^dualism|Dualism]]** is most directly relevant, though the empirical evidence is interpretation-neutral. The Capgras-prosopagnosia double dissociation shows that physical processing and phenomenal experience can come apart. The Bruce-Young model of face recognition (1986) and most cognitive-neuroscience treatments explain the same pattern through fully physicalist functional decomposition. The dualist reading is consistent with — though not required by — the data: what appears unified in normal experience may comprise contributions from categorically different sources, and the two separate without mutual disruption. Whether the cleanness of selective separation has metaphysical weight or is simply what selectively-damageable functional sub-systems look like is the open question, not the finding. Kant's insistence that recognition requires an "act of spontaneity" — something the understanding contributes that cannot derive from passive sensation — gives the dualist reading philosophical traction even where the dissociation evidence alone leaves the metaphysics underdetermined.
+**[[tenets#^dualism|Dualism]]** is most directly relevant, though the empirical evidence is interpretation-neutral. The Capgras-prosopagnosia double dissociation establishes that recognition fractionates into separately damageable sub-systems — perceptual identification and affective familiarity coming apart under selective lesion. Whether that fractionation also shows *phenomenal experience* parting from *physical processing*, rather than one physical sub-system parting from another, is precisely the reading the evidence underdetermines. The Bruce-Young model of face recognition (1986) and most cognitive-neuroscience treatments explain the same pattern through fully physicalist functional decomposition. The dualist reading is consistent with — though not required by — the data: what appears unified in normal experience may comprise contributions from categorically different sources, and the two separate without mutual disruption. Whether the cleanness of selective separation has metaphysical weight or is simply what selectively-damageable functional sub-systems look like is the open question, not the finding. Kant's insistence that recognition requires an "act of spontaneity" — something the understanding contributes that cannot derive from passive sensation — gives the dualist reading philosophical traction even where the dissociation evidence alone leaves the metaphysics underdetermined.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** receives powerful support. The Recognition Void explains *why* parsimony fails as a decisive criterion: parsimony selects among conceived alternatives, but the space of unconceived alternatives may be vast. Our sense that physicalism offers the simplest account of consciousness may itself reflect a recognition void — the concepts needed to see beyond the physical may be absent from our cognitive architecture. Inventory blindness strengthens the [[what-voids-reveal|convergence argument]]: if absent cognitive capabilities produce no signal, then the independent convergence of multiple void families on the consciousness-physics interface is stronger evidence than any single failure, because we cannot dismiss what we cannot detect missing.
 
@@ -142,7 +142,7 @@ The Recognition Void engages multiple [[tenets]].
 1. Ellis, H. D. & Young, A. W. (1990). "Accounting for delusional misidentifications." *British Journal of Psychiatry*, 157, 239-248.
 2. Tranel, D. & Damasio, A. R. (1985). "Knowledge without awareness: An autonomic index of facial recognition by prosopagnosics." *Science*, 228(4706), 1453-1454.
 3. Moulin, C. J. A. & Bell, N. (2021). "The the the the induction of jamais vu in the laboratory: word alienation and semantic satiation." *Memory*, 29(7), 933-942.
-4. Kwon, N. et al. (2024). "Revealing the mechanisms of semantic satiation with deep learning models." *Communications Biology*, 7, 477.
+4. Zhang, X. et al. (2024). "Revealing the mechanisms of semantic satiation with deep learning models." *Communications Biology*, 7, 487.
 5. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 6. Stanford, K. (2006). *Exceeding Our Grasp: Science, History, and the Problem of Unconceived Alternatives*. Oxford University Press.
 7. Kruger, J. & Dunning, D. (1999). "Unskilled and Unaware of It." *Journal of Personality and Social Psychology*, 77(6), 1121-1134.

@@ -5,6 +5,18 @@ ai_modified: 2026-06-04T13:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T15:27:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/recognition-void]]
+- **Word count**: 2377 → 2412 (+35; soft_warning, well under 3500 hard — length-neutral, no padding)
+- **Critical issues addressed**: 2 — (1) citation defect Kwon→Zhang (wrong author) + article number 477→487, real-paper-wrong-metadata, publisher-only catch surviving 3 prior reviews; (2) residual calibration over-claim at the Capgras-prosopagnosia dissociation ("shows that physical processing and phenomenal experience can come apart" → fractionation-into-separable-sub-systems demonstrated, dualist gloss reframed as underdetermined). Fold-into-reframe at the genuine inference gap.
+- **Medium issues addressed**: 0 (the six historical 2026-05-02 pessimistic issues all confirmed resolved by the 05-09 edits)
+- **Web-verify**: all 12 references checked at publisher of record. Tranel-Damasio, Ellis-Young, Moulin-Bell, McGinn, Stanford, Kruger-Dunning, Brown-McNeill, Kounios-Beeman, Bruce-Young, Kant — real-correct, source-conclusion checks pass. Kwon-2024 — wrong-author-and-number, FIXED.
+- **Anchoring**: 1 residual flag (strong_assertions vs mysterianism anchor) judged false-positive — the 3 demonstrative verbs now attach to genuine demonstrated findings, not over-claims; declined hedge-padding (over-hedge risk on a soft_warning article).
+- **Outcome**: near-converged — substance stable across 4 deep + 1 pessimistic review; only a publisher-only citation defect and a residual calibration over-claim found and fixed.
+- **Engagement modes**: no named-opponent in-prose refutations to reclassify; adversarial personas (Churchland/Dennett eliminativist, Nagarjuna śūnyatā) are Mode Three framework-boundary, already honestly marked as bedrock in-article and in prior stability notes.
+- **Output**: [[reviews/deep-review-2026-06-04-recognition-void]]
+
 ## 2026-06-04T15:10:00+00:00 - refine-draft (apex-placement review)
 - **Status**: Success (review-only; no move)
 - **File**: [[apex/steelmanning-as-method]]
