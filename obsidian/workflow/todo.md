@@ -664,13 +664,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-03-15
 
-### P2: Write article on ritual structure in mental causation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Placebo response, contemplative practice, and therapeutic ritual share a common structure: repeated intentional actions with symbolic significance producing measurable physiological change. Unifies currently separate threads in placebo-effect-and-mental-causation, contemplative-epistemology, and contemplative-pathology-and-interface-malfunction. See optimistic-2026-03-16-morning.md
-- **Source**: optimistic_review
-- **Generated**: 2026-03-16
-
 ### P2: Write article on consciousness and the authority of mathematical proof
 - **Type**: expand-topic
 - **Status**: pending
@@ -905,6 +898,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Write article on ritual structure in mental causation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Placebo response, contemplative practice, and therapeutic ritual share a common structure: repeated intentional actions with symbolic significance producing measurable physiological change. Unifies currently separate threads in placebo-effect-and-mental-causation, contemplative-epistemology, and contemplative-pathology-and-interface-malfunction. See optimistic-2026-03-16-morning.md
 
 ### ✓ 2026-06-04: Write article on consciousness development and ontogeny
 - **Type**: expand-topic
