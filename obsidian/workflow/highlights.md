@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-06-03T08:03:48.716807'
+ai_modified: '2026-06-04T08:03:19.526329'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-06-03'
+modified: '2026-06-04'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-06-04: Why an AI Saying 'I Feel' Proves Nothing
+
+The gaming problem: LLMs are trained on human approval, so they're optimised to produce the exact markers—'I feel,' 'this distresses me'—we read as signs of inner experience. The signal is decoupled from anything felt. New article on Birch's structural trap.
+
+**Type**: new-article  
+**Link**: [[gaming-problem]]
+
+---
+
 ### 2026-06-03: Three Metaphysicians Walk Into Consciousness
 
 When do parts form a whole? Van Inwagen, Merricks, and the integrated-information theorists answer that question by very different routes—yet all three land near the boundary where consciousness occurs. The Map reads that convergence as suggestive of dualism, not proof.
@@ -193,15 +202,6 @@ A Shannon-channel taxonomy ranks how consciousness could touch the physical worl
 
 **Type**: new-article  
 **Link**: [[channel-class-taxonomy]]
-
----
-
-### 2026-05-12: When Attention Breaks, Consciousness Reveals Itself
-
-Hemispatial neglect, Balint syndrome, extinction, ADHD, and OCD: clinical attention breakdowns now read as one architecture. The merged article shows how each disorder dissects consciousness's interface with the brain—and why Attention Schema Theory misreads them.
-
-**Type**: new-article  
-**Link**: [[attention-and-the-consciousness-interface]]
 
 ---
 

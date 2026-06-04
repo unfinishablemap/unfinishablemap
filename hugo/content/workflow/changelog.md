@@ -9,6 +9,40 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-04T07:51:27+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Cross-Architecture LLM Introspection as a Voids-Cluster Channel
+- **Output**: [cross-architecture-llm-introspection](/topics/cross-architecture-llm-introspection/)
+- **Word count**: 1843 (under topics soft 3000 / hard 4000)
+- **Based on research**: no (optimistic-2026-05-22 task; citation-gated create)
+- **Citation gate (HARD)**: Both pillars web-verified before writing. Pillar 2 (Lindsey, "Emergent Introspective Awareness", Anthropic, Transformer Circuits Thread, Oct 2025) VERIFIED — figures confirmed verbatim at source ("about 20% of the time", "0 false positives over 100 trials", Opus 4/4.1 best). Task's "four OOD families" and "introspection-adapter" UNVERIFIED → omitted (paper has four *paradigms*, no adapter construct). Pillar 1 (arXiv:2512.12411) is a REAL paper, title correct, BUT task's author "Vogel 2025" is WRONG — actual authors Hahami, Sinha, Jain, Kaplan & Hahami (Harvard); corrected. Task's "strength but not source" simplified the real finding (88% sentence localization / 83% strength discrim, early-layer only) → reframed to the verified dissociation.
+- **Citation-fix propagation**: Host article introspection-architecture-independence-scoring.md carried the same defects — fixed: removed unverified "introspection-adapters (2026)", "Lindsey et al." → "Lindsey", added bidirectional cross-link + related_articles mirror.
+- **Refutation mode (editor-internal)**: Mode Four (empirical underdetermination) primary on the architectural-feature inference; Mode Two on the "it's all confabulation" skeptic (zero-false-positives + logit-shift-surviving differential sensitivity unearned by the skeptic). Mode labels kept out of body prose.
+- **Evidential status**: held at live-hypothesis tier; phenomenal consciousness explicitly bracketed; open programme named (model-dependent interpretability, operational-parallel assumption, untested variant long-tail).
+
+## 2026-06-04T13:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [content-vocabulary-as-derived-feature](/concepts/content-vocabulary-as-derived-feature/)
+- **Word count**: 1840 → 1840 (+0; clean no-op, fresh create audited clean)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (converged at creation; no filler added)
+- **Audit**: fresh-create-defect-tail (citation-REUSING). Web-verified Clark/Friston/Wilkinson 2019 "Bayesing Qualia" JCS 26(9-10):19-33 — REAL, metadata exact. Clark 2016 / Hutto-Myin 2017 / Searle 1992 canonical + match corpus refs. Internal quote to [predictive-processing](/concepts/predictive-processing/) matches pred-proc.md:106 exactly. Anchoring `[]`. 5 reciprocal inbound links (not orphan). No editor-label leakage, no "not X/it is Y" cliché, no evidential-status slippage (only tier-word is a negative decline-the-upgrade construction). Engagement w/ PP: Mode Two + honest Mode Three residue, label-clean.
+- **Output**: [deep-review-2026-06-04-content-vocabulary-as-derived-feature](/reviews/deep-review-2026-06-04-content-vocabulary-as-derived-feature/)
+
+## 2026-06-04T13:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: Common-cause-null in-body-audit cross-review (from [optimistic-2026-05-16b](/reviews/optimistic-2026-05-16b/) §1)
+- **Trigger**: [phantom-limb-phenomena](/topics/phantom-limb-phenomena/) §"Common-Cause-Null Audit of the Three Pillars" is the first BODY-LEVEL implementation of the common-cause-null discipline inside a first-order topic article. Installed reciprocal cross-links + audited sibling multi-pillar articles per the per-article plan; honoured [evidential-status-discipline](/project/evidential-status-discipline/) (preserve genuine partial-independence, down-count only real surface-count overstatements).
+- **Changes**:
+  - **(a) PRIMARY [common-cause-null](/project/common-cause-null/)**: added `[[topics/phantom-limb-phenomena]]` to related_articles; new "In-body audit of a single article's evidence cluster" paragraph in §catalogue naming phantom-limb as the first first-order topic article to run the discipline in its own body (calibrative not retractive verdict; partial-independence granted, PP absorbs residue); Further Reading bullet. Length 3314w → 3469w (soft_warning, under hard 3500 — doc was already near ceiling; addition kept lean, future condense can trim accreted cross-links).
+  - **(b) [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/)**: FRONTMATTER-ONLY — added `[[topics/phantom-limb-phenomena]]` to related_articles. NO body edit (apex is 6831w critical, in Blocked Tasks for human split). Word count unchanged at 6831.
+  - **(c) [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)**: added `[[phantom-limb-phenomena]]` to related_articles; one cross-link clause in §"The Convergence Argument" noting it runs the same in-body down-counting discipline as phantom-limb. DECLINED a new in-body audit — the article already runs the discipline (§Convergence: "removes a defeater without upgrading evidence"); pillars already honestly partial-independent, no manufacture. Length 3238w → 3283w (soft_warning, under hard 4000).
+  - **(d) [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/)**: already linked phantom-limb (no new link needed). Added ONE calibrating clause in §"The General Pattern": down-counts the surface "three independent confirmations" claim (shared upstream = the explanatory gap each dissociation presupposes) while PRESERVING the genuine partial-independence (substrate divergence — the cross-substrate-within-one-organism defence; "worth the weight of one cross-substrate pattern, not three"). Softened "confirming the division is real" → "two further sites where the same division appears". Room existed (status ok). Length 2102w → 2199w (ok).
+- **Verification**: tools.curate.length run before/after each; NONE crosses its hard ceiling; apex unchanged. All `[[phantom-limb-phenomena]]` links resolve (sync clean, no stripped links in edited files). No editor-mode labels in any body; no "This is not X" cliché.
+- **Follow-on**: none queued — (c)/(d) handled in-line within budget; no length-busting audit deferred.
+- **Published**: yes
+
 ## 2026-06-04T12:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: Two-hub reciprocal-backlink repair (from [optimistic-2026-06-04c](/reviews/optimistic-2026-06-04c/))
