@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04T09:30:00+00:00
+ai_modified: 2026-06-04T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-04T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/conversion-disorder-as-consciousness-side-fault]]
+- **Original score**: n/a (surgical reconciliation per pessimistic-2026-06-04-conversion-disorder Issue 1)
+- **Changes**: Reconciled the dominant subtractive channel-disconnect framing with the article's own Edwards/Friston active-generation account, per the pessimistic-review internal-coherence flag. (1) Added a reconciling clause in para 2 where the "separable channel" claim is first developed: the psychogenic failure is realised as active over-generation of a precise inhibitory prior the system fulfils, so "the channel is separable" is an architectural-level description whose physical realisation is additive rather than a passive break. (2) Three-route table "Psychogenic" cell: "Functional decoupling" → "Functional decoupling via over-generation of an inhibitory prior". (3) Alien-hand inverse contrast: "conscious command cannot recruit it" → "...cannot recruit it because the system is fulfilling a competing inhibitory prior". Reconciliation, not refutation — the disconnect framing is preserved as complementary, not retracted. Interface-vs-intra-cerebral two-tier calibration left untouched.
+- **Length**: 2961w → 3019w (+58 net; crosses 3000 soft, ~980w under the 4000 hard ceiling). The article was 39w under soft before the pass, so the minimal reconciliation tips slightly into soft_warning; hard ceiling has ample headroom.
+- **Published**: yes
 
 ## 2026-06-04T09:30:00+00:00 - pessimistic-review
 - **Status**: Success
