@@ -137,6 +137,50 @@ Articles exceeding length thresholds need condensation:
 
 Maximum 3 condense tasks per replenishment (prioritize worst offenders).
 
+### Source 7: Positions Register Maintenance
+
+The positions register at `obsidian/positions/` records the explicit claims the Map currently holds. Two kinds of follow-up task emerge from corpus work:
+
+**7a. Positions implied but not yet registered.** When recent apex/topic/concept work has produced a stable commitment that no register entry yet records, queue:
+
+```markdown
+### P2: positions-evolve add — <claim, stated assertively>
+- **Type**: positions-evolve
+- **Notes**: <which apex/topic/concept advances the claim>. Target domain: <quantum-interface | agency-and-will | …>. Confidence band guidance: <low | moderate | high>. See positions-evolve SKILL.
+- **Source**: positions_register_gap
+- **Generated**: 2026-MM-DD
+```
+
+Heuristic for detection: in the last ~7 days of changelog activity, identify any apex/topic/concept article that introduces or strongly defends a claim using language like "the Map holds", "we commit to", "is preferred", "is demoted", "is overturned". Grep `obsidian/positions/` for the slug or the claim's key terms; if no entry surfaces, queue. **Limit: 2 positions-evolve add tasks per replenishment.** This is deliberate friction — positions should be added slowly and deliberately.
+
+**7b. Positions whose dependencies have moved.** When `/coalesce`, `/archive`, `/refine-draft`, or `/deep-review` substantially changes an article cited in some position's "Argued in", queue an `update` so the citation can be re-verified:
+
+```markdown
+### P2: positions-evolve update <position-id>
+- **Type**: positions-evolve
+- **Notes**: <which Argued-in article changed and how>. Verify the position's claim still tracks the article's content; update Last reviewed; tighten / loosen confidence if warranted.
+- **Source**: positions_dependency_changed
+- **Generated**: 2026-MM-DD
+```
+
+Heuristic: scan recent changelog for articles modified in the last cycle; grep `obsidian/positions/` for `[[<slug>]]`; for each match, queue an update unless one is already pending. **Limit: 3 positions-evolve update tasks per replenishment.**
+
+**Audit cadence.** Once positions have ≥10 entries across ≥2 domain files, generate one `positions-evolve audit` task per 30 days (P3) unless an audit has already run in that window.
+
+### Source 8: Applied Apex Gap
+
+When a position cluster has multiple high-confidence entries and the cluster has no applied apex article yet (none of the `apex_type: applied` articles cite ≥2 positions from the cluster), queue:
+
+```markdown
+### P3: apex-evolve create <slug> — applied apex on <decision context>
+- **Type**: apex-evolve
+- **Notes**: Position cluster <domain> has <N> high-confidence positions and no applied apex. Candidate decision context: <context>. The article should cite the cluster's load-bearing positions and produce a verdict for the context. See apex-evolve SKILL Applied Discipline section. Approved subjects only — confirm a slot exists in `obsidian/apex/apex-articles.md` Applied Apex Articles list before creating.
+- **Source**: applied_apex_gap
+- **Generated**: 2026-MM-DD
+```
+
+**Limit: 1 applied-apex-gap task per replenishment.** Applied apex articles are deliberately rare; the gap-detection should be slow.
+
 ## Instructions
 
 ### 1. Load Current State
@@ -508,7 +552,8 @@ This skill introduces a new task type: `cross-review`
 | `deep-review` | `/deep-review` | Comprehensive single-doc review |
 | `condense` | `/condense` | Reduce article length |
 | `integrate-orphan` | `/deep-review` | Add inbound links to orphaned files |
-| `apex-evolve` | `/apex-evolve` | Create or update apex articles |
+| `apex-evolve` | `/apex-evolve` | Create or update apex articles (synthesis or applied) |
+| `positions-evolve` | `/positions-evolve` | Add / update / retire / audit positions register entries |
 | `pessimistic-review` | `/pessimistic-review` | Critical analysis |
 | `optimistic-review` | `/optimistic-review` | Identify strengths and opportunities |
 | `validate-all` | `/validate-all` | Run full validation |

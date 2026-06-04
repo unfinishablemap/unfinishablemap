@@ -4,8 +4,8 @@ description: "A survey of QM interpretations—Copenhagen, Bohmian, QBism, relat
 created: 2026-01-23
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-06-03T07:05:00+00:00
-last_deep_review: 2026-05-28T00:00:00+00:00
+ai_modified: 2026-06-04T17:22:19+00:00
+last_deep_review: 2026-06-04T17:22:19+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

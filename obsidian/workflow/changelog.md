@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04T16:05:57+00:00
+ai_modified: 2026-06-04T17:22:19+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-04T17:22:19+00:00 - deep-review
+- **Status**: Success (converged — no body edits)
+- **File**: [[topics/qm-interpretations-beyond-many-worlds]]
+- **Word count**: 3452 → 3452 (no change; 115% of topics/ 3000 soft, under 4000 hard, `soft_warning` — stable across 5 reviews)
+- **Diff-scoping**: changed-since-review re-verify. Two changes since 2026-05-28 review: (1) `88146dc46` flipped inline epothilone-B attribution "Wiest et al."→"Khan et al."; (2) `82d8e02d7` two calibration softenings ("confirms"→"argues", "offer"→"may offer"). Audited the diff, not the whole article.
+- **Web-verify (publisher of record)**: epothilone-B/eNeuro 2024 paper (eNeuro 11(8), ENEURO.0291-24.2024; PubMed 39147581) — first author is **Sana Khan** (Khan, Huang, Timuçin et al.), so "Khan et al." is CORRECT. The 2026-05-28 review's "Wiest correct ✓" was the actual error, fixed by the sweep. 3-state: keep. DeBrota et al. 2021 (inline) re-verified: Phys. Rev. A 104, 022207 — characterisation accurate; no full author list in this file so no author-list defect here. Other 10 externals unchanged since 2026-05-28 live-verify; not re-checked per standing note.
+- **Corpus consistency**: 0 residual "Wiest et al." in live content (all → "Khan et al."); remaining hits are historical workflow archives, correctly untouched.
+- **Calibration**: both softenings are honest improvements under [[evidential-status-discipline]]; no possibility→probability slippage in either direction. Tenet-4 boundary-marking intact.
+- **Anchoring**: evaluate_anchoring → [] (clean). **Validate**: ✓ Valid.
+- **Reasoning-mode (editor-internal)**: MWI/Deutsch-Wallace = Mode Three; QBism = Mode Three (+Mode-Two note); RQM = Mode Three. Unchanged; no label leakage.
+- **Critical issues addressed**: 0 | **Medium**: 0 | **Enhancements**: 0 (converged; 6th review — Khan/Wiest re-verify resolved a latent prior-review verification error, no body change needed)
+- **Output**: [[reviews/deep-review-2026-06-04-qm-interpretations-beyond-many-worlds]]
 
 ## 2026-06-04T17:15:53+00:00 - deep-review
 - **Status**: Success (converged — no body edits)

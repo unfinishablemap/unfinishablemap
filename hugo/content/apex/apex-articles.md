@@ -698,6 +698,55 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 
 ---
 
+## Applied Apex Articles
+
+Applied apex articles are decision-oriented synthesis pieces: given the positions the Map currently holds in `obsidian/positions/`, what follows for a specific real-world context? They differ from the synthesis apex articles above in shape — they cite ≥3 positions, surface those positions' confidence bands, name a decision context, and include a required "What this implies for decisions" section. See the `apex-evolve` SKILL.md Applied Discipline section for the discipline.
+
+Target count: 8–15 applied pieces across the corpus. Each one should answer a question a reader would actually ask of the Map.
+
+### A1. Assessing AI Consciousness Under the Map
+
+**Slug**: `assessing-ai-consciousness-under-the-map`
+**Type**: applied
+**Decision context**: How to evaluate putative consciousness claims for current and near-future AI systems.
+**Status**: Approved 2026-06-04, pending creation
+**Source positions**: P-Q1, P-Q2, P-Q9 (quantum interface); position clusters on consciousness-scope (TBD) and methodology (TBD) once seeded.
+**Source articles**: `apex/open-question-ai-consciousness`, `apex/machine-question`, `apex/what-it-might-be-like-to-be-an-ai`, `apex/self-concealing-interface`, `topics/ai-consciousness-typology`, and others.
+
+### A2. Clinical-Interface Ethics Under Interactionist Dualism
+
+**Slug**: `clinical-interface-ethics-under-interactionist-dualism`
+**Type**: applied
+**Decision context**: How clinicians, researchers, and ethicists should think about interventions that alter the consciousness-brain interface (anaesthesia, psychedelics, deep-brain stimulation, end-of-life care).
+**Status**: Proposed
+**Source positions**: TBD once clinical/methodology position clusters are seeded.
+
+### A3. Personal Philosophy Under the Map
+
+**Slug**: `personal-philosophy-under-the-map`
+**Type**: applied
+**Decision context**: How a reader who provisionally accepts the Map's tenets should think about agency, death, contemplative practice, and meaning.
+**Status**: Proposed
+**Source positions**: TBD.
+
+### A4. Moral Status of Edge Cases
+
+**Slug**: `moral-status-of-edge-cases`
+**Type**: applied
+**Decision context**: How to think about moral status for cases where the Map's framework gives partial verdicts: deep-coma patients, late-stage dementia, sophisticated non-human animals, foetuses, embodied AI.
+**Status**: Proposed
+**Source positions**: TBD.
+
+### A5. Research Programme Decisions Under the Map
+
+**Slug**: `research-programme-decisions-under-the-map`
+**Type**: applied
+**Decision context**: For a working scientist or philosopher who accepts the Map's tenets, what research directions are most warranted by the framework's confidence structure? Which would yield the most decision-relevant evidence?
+**Status**: Proposed
+**Source positions**: TBD.
+
+---
+
 ## Audit Notes (2026-06-03)
 
 Apex-cap audit (from system-tune-2026-04-29): **31 on disk vs. the informal ~20 cap (155%)**. Audited against the *implicit* criterion (apex = human-readable synthesis integrating multiple topic/concept nodes into one cross-cutting picture; not a single-node treatment, not a project-tier methodology discipline) — the explicit-criterion install task is still pending, so this is provisional. Finding: **0 clear migration candidates, 2 flagged for review** (`steelmanning-as-method`, `conjunction-coalesce` — methodology-flavoured but genuine multi-node syntheses). No apex is clearly subsumed by a newer one. **Human governance meta-question:** all 31 are legitimate syntheses, so the live choice is migrate-a-few-outliers vs. revisit whether the 20 itself is stale. Deferred review-tasks in `todo.md` (Source: apex-audit). This audit does not resolve the cap.
