@@ -3,7 +3,7 @@ title: "Volitional Control"
 created: 2026-03-20
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-05-26T11:01:03+00:00
+ai_modified: 2026-06-04T13:20:00+00:00
 draft: false
 description: "The experience of willing tracks real causal architecture, not post-hoc confabulation. Phenomenology and empirical evidence converge against epiphenomenalism."
 topics:
@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-24
 last_curated:
-last_deep_review: 2026-05-18T17:37:00+00:00
+last_deep_review: 2026-06-04T13:20:00+00:00
 coalesced_from:
   - "/topics/phenomenology-of-volitional-control/"
   - "/topics/volitional-control-empirical-evidence/"
@@ -184,7 +184,7 @@ The **[[tenets#^occams-limits|Occam's Razor Has Limits]]** tenet is directly rel
 19. Rajan, A., et al. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 20. Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *Proceedings of the National Academy of Sciences*, 109(42), E2904-E2913.
 21. Schwartz, J. M., et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of OCD. *Archives of General Psychiatry*, 53(2), 109-113.
-22. Sjöberg, R. L. (2024). The readiness potential and the soul: What happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2274.
+22. Sjöberg, R. L. (2024). The readiness potential and the soul: What happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2269.
 23. Voss, M., et al. (2010). Altered awareness of action in schizophrenia: A specific deficit in predicting action consequences. *Brain*, 133(10), 3104-3112.
 24. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
 25. Wolpe, N., et al. (2013). Cues, beliefs, and the sense of agency. *Frontiers in Human Neuroscience*, 7, 734.

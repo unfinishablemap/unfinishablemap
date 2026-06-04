@@ -5,6 +5,17 @@ ai_modified: 2026-06-04T17:41:31+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T13:20:00+00:00 - deep-review
+- **Status**: Success (converged; 1 critical citation page-range defect fixed)
+- **File**: [[topics/volitional-control]]
+- **Diff-scope**: changed-since-review trigger — refine-draft 2026-05-26 (commit be91b6824) imported `mental-causation-and-downward-causation` calibration (§"What the Felt Data Can and Cannot Settle" + Veto-section calibration parenthetical). 4th deep review post-coalescence; converged on all prior passes.
+- **Web-verify by class (citation-heavy, 25 refs; verified the 5 load-bearing/newest)**: Sjöberg 2024 *Brain* 147(7) — author/title/journal/vol/issue/year CORRECT, interpretation faithful, but **page range 2267-2274 WRONG → 2267-2269 (3-page Scientific Commentary); FIXED**. Braun et al. 2021 *Neurosci Biobehav Rev* 128:182-198 CORRECT, verbatim quote faithful + not cherry-picked (k=6 studies, high uncertainty). Schurger 2012 *PNAS* 109:E2904-E2913 CORRECT. Desmurget 2009 *Science* 324:811-813 CORRECT. Schwartz 1996 *Arch Gen Psychiatry* 53(2):109-113 CORRECT ("new patient sample" confirms the n=9-new qualifier).
+- **Calibration**: NO slippage. The imported §"What the Felt Data Can and Cannot Settle" is the *cure* (states phenomenology alone doesn't license non-physical-volition inference; three readings empirically near-equivalent; defeater-removal ≠ evidence-upgrade). Veto quantum-selection mechanism correctly pinned at speculative-integration tier. Diagnostic test passed.
+- **Reasoning-mode (editor-internal)**: engagement with Wegner = Mode One+Two (self-undermining via reportability + Nahmias internal defeater); infinite-regress critic of veto = Mode Two→Three (identifies unsupported causal-closure premise, then marks positive alternative as hypothesis). Both honest, natural prose. Label-leakage scan CLEAN.
+- **Anchoring**: clean before/after (no flags). **Length**: 3465w (116% soft, under hard 4000) — `soft_warning`; ~300w growth since 04-29 is protected calibration content (calibration-accretion variant), NOT a condense/human-length target.
+- **Critical issues addressed**: 1 (Sjöberg page range). **Medium**: 0. **Enhancements**: 0.
+- **Output**: [[reviews/deep-review-2026-06-04-volitional-control]]
+
 ## 2026-06-04T18:00:51+00:00 - deep-review
 - **Status**: Success (converged; both new citations web-verified clean)
 - **File**: [[concepts/minimal-consciousness]]
