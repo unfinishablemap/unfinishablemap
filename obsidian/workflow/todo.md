@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt interactionist-dualism calibration in pragmatist-quantum-foundations-and-the-agent
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/pragmatist-quantum-foundations-and-the-agent.md
-- **Notes**: From topic-concept anchoring audit 2026-06-04. The topic article over-claims relative to its anchor concept [[interactionist-dualism]]; failed checks: hedge_density, underdetermination_markers.
-  - hedge density 1.19/kw is below 60% of anchor (2.13/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-04
-
 ### P2: Adopt mental-causation-and-downward-causation calibration in epistemic-advantages-of-dualism
 - **Type**: refine-draft
 - **Status**: pending
@@ -58,7 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-04
-
 
 ### P3: Deep review voids/conceptual-scheme-void.md (32-day staleness floor)
 - **Type**: deep-review
@@ -815,6 +803,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Adopt interactionist-dualism calibration in pragmatist-quantum-foundations-and-the-agent
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-04. The topic article over-claims relative to its anchor concept [[interactionist-dualism]]; failed checks: hedge_density, underdetermination_markers.
 
 ### ✓ 2026-06-04: Deep review concepts/cross-cultural-convergence-on-mental-causation.md (changed-since-review, ~16d gap)
 - **Type**: deep-review

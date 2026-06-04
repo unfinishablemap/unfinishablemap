@@ -5,6 +5,14 @@ ai_modified: 2026-06-04T23:00:22+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T12:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/pragmatist-quantum-foundations-and-the-agent]]
+- **Trigger**: topic-concept anchoring audit (2026-06-04) — topic under-claimed calibration relative to anchor [[interactionist-dualism]]. Failed: hedge_density (1.19/kw vs anchor 2.13/kw, below 60% threshold) and underdetermination_markers (anchor 1×, topic 0×).
+- **Changes**: Installed evidential-status-discipline calibration inherited from the anchor, length-neutral-ish (+160w, 3357→3517, still soft_warning, well under 4000 hard). (1) QBism corridor-cost para: ensemble-level reading is now "empirically equivalent" to QBism-without-dualism / standard QM and "underdetermined by the data"; flagged the metaphysical-economy claim as itself contestable by a QBist. (2) Primitive-agent response: qualified "a reason" → "a candidate reason", noted the move lands only against the phenomenal reading. (3) Stapp natural-ally claim: added Zeno-caveat cross-ref. (4) Convergences closing: "located the junctures with more precision" → "arguably... with unusual precision"; added that the dualist reading is an interpretive overlay the formalism does not force — "the evidence does not adjudicate", "compatible with both readings". (5) Healey verdict softened ("evidence that it cannot" → "suggestive that it cannot, a boundary-drawing problem Healey would contest").
+- **Verification**: `tools/curate/anchoring.evaluate_anchoring` now returns NO FLAGS (hedge density 1.71/kw ≥ 1.28 threshold; 5 underdetermination markers; strong-assertion count 0). Central claim (pragmatist family's agent-shaped hole is what dualism explains) and voice preserved — only calibration/evidential-status discipline added, no retraction.
+- **Published**: yes
+
 ## 2026-06-04T23:00:22+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/cross-cultural-convergence-on-mental-causation]]
