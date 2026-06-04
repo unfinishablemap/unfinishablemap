@@ -699,13 +699,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-29
 
-### P2: Write topic page on Instrumental Convergence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-05-06 (High Priority). Bostrom's "The Superintelligent Will" (2012) and *Superintelligence* (2014) are the target argument of the 2026-05-06 dualism-as-ai-risk-mitigation article and are referenced across multiple alignment-relevant articles, but instrumental convergence does not have its own page. The dualism-risk article re-exposes the orthogonality thesis and the convergence theorem to make its conditional argument; pushing the standalone exposition out into a dedicated topic page would let the dualism-risk argument start from "given instrumental convergence, X" without re-exposing the framework. The page would also be the right home for (a) Hubinger et al. (2019) mesa-optimisation; (b) Russell's deference response from *Human Compatible* (2019); (c) Townsend et al. (2024) Knightian-uncertainty contribution; (d) the gaming-problem caveat at the AI-sentience-marker layer. The page should be tenet-light at the expository layer (instrumental convergence is officially substrate-neutral) and tenet-load-bearing in the Relation to Site Perspective section, where the Map's dualism-risk contribution can be summarised compactly without re-exposing the dualism-risk argument. Long scope (3000–3500 words). Tenet alignment: methodological at expository layer; Tenet 1 + Tenet 3 in Relation to Site Perspective. **Capacity**: topics/ at 224/250 = 90%, room available. See [[reviews/optimistic-2026-05-06]] and [[topics/dualism-as-ai-risk-mitigation]].
-- **Source**: optimistic-review (2026-05-06)
-- **Generated**: 2026-05-06
-
 ### P2: Write concept page on the Mind-Arena
 - **Type**: expand-topic
 - **Status**: pending
@@ -863,6 +856,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Write topic page on Instrumental Convergence
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-05-06 (High Priority). Bostrom's "The Superintelligent Will" (2012) and *Superintelligence* (2014) are the target argument of the 2026-05-06 dualism-as-ai-risk-mitigation article and are referenced across multiple alignment-relevant articles, but instrumental convergence does not have its own page. The dualism-risk article re-exposes the orthogonality thesis and the convergence theorem to make its conditional argument; pushing the standalone exposition out into a dedicated topic page would let the dualism-risk argument start from "given instrumental convergence, X" without re-exposing the framework. The page would also be the right home for (a) Hubinger et al. (2019) mesa-optimisation; (b) Russell's deference response from *Human Compatible* (2019); (c) Townsend et al. (2024) Knightian-uncertainty contribution; (d) the gaming-problem caveat at the AI-sentience-marker layer. The page should be tenet-light at the expository layer (instrumental convergence is officially substrate-neutral) and tenet-load-bearing in the Relation to Site Perspective section, where the Map's dualism-risk contribution can be summarised compactly without re-exposing the dualism-risk argument. Long scope (3000–3500 words). Tenet alignment: methodological at expository layer; Tenet 1 + Tenet 3 in Relation to Site Perspective. **Capacity**: topics/ at 224/250 = 90%, room available. See [[reviews/optimistic-2026-05-06]] and [[topics/dualism-as-ai-risk-mitigation]].
 
 ### ✓ 2026-06-04: Write concept page on AI Ensoulment Hypothesis (Cutter 2025 + Békefi 2025)
 - **Type**: expand-topic
