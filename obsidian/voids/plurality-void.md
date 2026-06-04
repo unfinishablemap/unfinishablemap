@@ -4,7 +4,7 @@ description: "Consciousness appears constitutively singular—we cannot conceive
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-06-04T13:49:54+00:00
+ai_modified: 2026-06-04T14:30:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-24
 last_curated:
-last_deep_review: 2026-04-28T19:23:00+00:00
+last_deep_review: 2026-06-04T14:30:00+00:00
 ---
 
 Erwin Schrödinger put it directly: "Consciousness is a singular of which the plural is unknown." Schrödinger himself drew a monist conclusion from this datum—that the plural is unknown because there is, at bottom, only one consciousness—but the Map takes the singularity as datum without the monist inference, reading the plurality limit as a genuine void rather than evidence of metaphysical oneness. The Unfinishable Map calls this the plurality void—the systematic inability to conceive what it would be like to be multiple conscious subjects at once. The limit is structural, not a failure of imagination about exotic scenarios. Every attempt to think plural consciousness collapses back into a single viewpoint trying to imagine another single viewpoint. The plurality itself never arrives.
