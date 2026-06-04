@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04T18:46:57+00:00
+ai_modified: 2026-06-04T19:45:45+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-04T19:45:45+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/hard-problem-of-consciousness]]
+- **Task**: Topic-concept anchoring audit (Audit Three of [[project/calibration-audit-triple]]). Flagship hub topic over-claimed vs anchor [[neural-correlates-of-consciousness]]: strong_assertions (1>0) + missing underdetermination marker (anchor declares 1× explicit; topic 0). See [[evidential-status-discipline]].
+- **Changes** (surgical, flagship voice + central claim preserved):
+  - "Open Problems" section: neutralized the lone strong-assertion verb — "the combination problem table… **shows that** every framework carries an analogous burden" → "**makes clear that** every framework…". The verb sat at a demonstrated structural fact (the table), not at a contested inference, so reframing it is voice-neutral and clears strong_assertions.
+  - "What Would Challenge This View?" section: installed the missing underdetermination marker at the GENUINE underdetermination point — the gap's PERMANENCE. Added: "Whether the gap is permanent and ontological (the dualist reading) or merely epistemic and closeable by future neuroscience (the physicalist reading) is itself **underdetermined by the evidence**: the same correlations are compatible with both framings, and which reading one adopts turns on prior commitments about what an adequate explanation requires." Placed at the gap's ontological-vs-epistemic status, NOT at the canonical statement of the hard problem (Chalmers' formulation, easy/hard distinction, zombies-as-thought-experiment all keep demonstrative force).
+- **Anchoring**: evaluate_anchoring clears BOTH checks (returns []).
+- **Body word count**: 3393 (soft_warning; soft 3000 / hard 4000) — well under hard ceiling; ~+50w from the load-bearing underdetermination sentence is acceptable, not a human length-decision case.
+- **Central claim/voice intact**: the Map still takes the hard problem seriously as pointing at a real gap; only the inference to the gap's permanence/dualist-significance now carries the honest underdetermination marker.
+- **Published**: yes
 
 ## 2026-06-04T12:00:00+00:00 - refine-draft
 - **Status**: Success

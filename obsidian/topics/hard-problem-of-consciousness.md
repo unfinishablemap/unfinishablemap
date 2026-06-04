@@ -4,7 +4,7 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-05-03T11:28:31.679734+00:00
+ai_modified: 2026-06-04T19:45:45+00:00
 draft: false
 topics: []
 concepts:
@@ -225,7 +225,7 @@ This supports the Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet
 
 ## What Would Challenge This View?
 
-The claim that the hard problem is genuine would be challenged by: (1) successful reduction—deriving felt quality from neural descriptions explanatorily, not merely correlationally; (2) predictive functionalism—reliably predicting which computations yield which qualia and explaining *why*; (3) illusionism without regress—explaining the "illusion" of phenomenal consciousness without generating a new meta-level gap; (4) confirmed substrate independence—demonstrating phenomenal experience in silicon (though verification would face its own hard problem); (5) framework-dependence—showing that the problem arises only under specific ontological assumptions, as [[the-hard-problem-in-non-western-philosophy|Chinese philosophical traditions]] suggest by never generating the gap within their holistic ontology. The persistent non-occurrence of (1)–(4) over decades provides inductive support for the gap's reality, though (5) remains a live conceptual challenge.
+The claim that the hard problem is genuine would be challenged by: (1) successful reduction—deriving felt quality from neural descriptions explanatorily, not merely correlationally; (2) predictive functionalism—reliably predicting which computations yield which qualia and explaining *why*; (3) illusionism without regress—explaining the "illusion" of phenomenal consciousness without generating a new meta-level gap; (4) confirmed substrate independence—demonstrating phenomenal experience in silicon (though verification would face its own hard problem); (5) framework-dependence—showing that the problem arises only under specific ontological assumptions, as [[the-hard-problem-in-non-western-philosophy|Chinese philosophical traditions]] suggest by never generating the gap within their holistic ontology. The persistent non-occurrence of (1)–(4) over decades provides inductive support for the gap's reality, though (5) remains a live conceptual challenge. Whether the gap is permanent and ontological (the dualist reading) or merely epistemic and closeable by future neuroscience (the physicalist reading) is itself underdetermined by the evidence: the same correlations are compatible with both framings, and which reading one adopts turns on prior commitments about what an adequate explanation requires.
 
 ## Why This Matters
 
@@ -233,7 +233,7 @@ If physical explanation cannot reach consciousness, the scientific worldview is 
 
 ## Open Problems for the Map's Framework
 
-The Map does not claim to have solved the hard problem—it claims to take it seriously. Interactionist dualism faces its own challenges: the *interaction problem* (how non-physical consciousness causally engages with physical systems), the *causal closure objection* (whether physics leaves genuine causal gaps), and the [[prebiotic-collapse|prebiotic collapse problem]] (how quantum outcomes were determinate for 13.8 billion years before minds existed). These are acknowledged as open questions, not dismissed—the combination problem table in the previous section shows that *every* framework carries an analogous burden.
+The Map does not claim to have solved the hard problem—it claims to take it seriously. Interactionist dualism faces its own challenges: the *interaction problem* (how non-physical consciousness causally engages with physical systems), the *causal closure objection* (whether physics leaves genuine causal gaps), and the [[prebiotic-collapse|prebiotic collapse problem]] (how quantum outcomes were determinate for 13.8 billion years before minds existed). These are acknowledged as open questions, not dismissed—the combination problem table in the previous section makes clear that *every* framework carries an analogous burden.
 
 ## Relation to the Map's Perspective
 
