@@ -5,6 +5,16 @@ ai_modified: 2026-06-04T05:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T04:42:22+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-04
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.8, Gemini 2.5 Pro)
+- **Subject**: [[clinical-dissociation-as-systematic-evidence]] (steerable-subject triple — all three audited the same article)
+- **Clusters**: 4 convergent (predictive-processing/precision-weighting common-cause [3-reviewer], empirical staleness, framing-calibration vs two-tier concession, physicalist steelman + DID sociocognitive caveat), 6 singleton (conversion-disorder amygdala-motor factual fix [P1, kept], Marsh/Huntjens recall-vs-recognition, amnesia phrasing, reciprocal cross-links, 2 methodology proposals), 1 tone divergence (Gemini hostile-referee "reject" overshoot — discounted as persona, not signal)
+- **Tasks upgraded**: 4 (all P2→P1; P3→P2: 0)
+- **Tasks deduplicated/consolidated**: convergence-tracking flag resolved-by-synthesis; convergent tasks rewritten with plural `Review files:` + synthesis link; ChatGPT FND-modernization task retained separate (distinct mechanical content); no edit-task siblings deleted (Claude leg had pre-contained the pileup per [[outer-review-same-file-task-pileup]])
+- **Output**: [[reviews/outer-review-synthesis-2026-06-04]]
+
 ## 2026-06-04T06:50:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 2.5 Pro (Deep Research)
