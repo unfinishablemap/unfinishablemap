@@ -5,6 +5,14 @@ ai_modified: 2026-06-04T00:17:10+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T00:40:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `voids/mood-void.md` (oldest by ai_modified 2026-04-27; no prior dedicated pessimistic review)
+- **Findings**: 1 genuine (web-verified citation defect — "The Intentional Structure of Moods," Phil. Imprint 2019, misattributed to Jonathan Mitchell; actual author Uriah Kriegel; verbatim quote + ref 4 affected; 3-state real-paper/wrong-author → FIX-not-delete). 4 standard void-skeptic critiques dismissed as already-addressed (falsifiability, architectural reductionist steelman, mutation-void, calibration). 5 other load-bearing citations web-verified clean (Heidegger/Ratcliffe, Russell 2003, Faul & LaBar mood-congruence, alexithymia PMC, Nisbett-Wilson).
+- **Length state**: soft_warning (2437/3000) — queued fix is length-neutral.
+- **Tasks generated**: 1 (P2 refine-draft, wrong-author swap)
+- **Output**: [[reviews/pessimistic-2026-06-04-mood-void]]
+
 ## 2026-06-04T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[arguments/epiphenomenalism-argument]]
