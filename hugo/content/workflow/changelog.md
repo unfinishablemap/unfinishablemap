@@ -9,6 +9,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-04T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/)
+- **Selection**: 4th deep review; ai_modified (06-01) > last_deep_review (05-17) — real unreviewed content from the 06-01 refine-draft (`c9e61d424`) that calibrated the article to the softened tenets treatment. No same-day/recent collision (no 06-02/03/04 review for this slug).
+- **Word count**: 2800 → 2825 (+25; under hard threshold 3500)
+- **Critical issues addressed**: 1 — internal contradiction: cumulative-case table row for Self-Stultification still carried the pre-06-01 absolutist "cannot be rationally believed" claim the body had explicitly retracted; rewrote to match the bare-correlation/phenomenal-concept calibration.
+- **Medium issues addressed**: 1 — completed References for the 06-01 inline citation cluster (added Loar 1990 + Papineau 2002, both verified against canonical corpus entries; 3-state: real+correct).
+- **Citation web-verify**: decoherence cluster unchanged/verified (05-17); Loar/Papineau/Frankish real+correct. No fabrications.
+- **Anchoring**: re-ran evaluate_anchoring (touched table assertion); 3 flags assessed as genre difference (argument page vs concept-survey anchors), no force-hedge applied.
+- **Engagement modes** (editor-internal): Arg1 Mode One (bare horn) + Mode Three concession (phenomenal-concept relocation); Arg2 Mode Two; Arg3/Arg4 Mode One; illusionism regress Mode One; decoherence Mixed. No boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-06-04-epiphenomenalism-argument](/reviews/deep-review-2026-06-04-epiphenomenalism-argument/)
+
 ## 2026-06-04T00:21:34+00:00 - refine-draft
 - **Status**: Success
 - **File**: [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/)

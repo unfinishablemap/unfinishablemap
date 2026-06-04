@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-06-01 00:00:00+00:00
+ai_modified: 2026-06-04 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -27,7 +27,7 @@ description: Four arguments pressure epiphenomenalism toward self-stultification
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-17 00:00:00+00:00
+last_deep_review: 2026-06-04 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -137,7 +137,7 @@ If consciousness cannot influence even our *attention to* consciousness, introsp
 
 | Argument | What It Shows |
 |----------|---------------|
-| Self-Stultification | Epiphenomenalism cannot be rationally believed on the basis of introspective evidence |
+| Self-Stultification | Bare-correlation epiphenomenalism is hard to hold rationally on introspective evidence; the phenomenal-concept version relocates the dispute |
 | Evolutionary Objection | Epiphenomenalism cannot explain why consciousness exists |
 | Knowledge Argument Reversed | Epiphenomenalism requires unexplained correlation between phenomenal states and behavioral changes |
 | Introspection and Self-Knowledge | Epiphenomenalism makes introspection inexplicable and undermines self-knowledge |
@@ -243,6 +243,8 @@ The arguments against epiphenomenalism directly support the Map's framework:
 - Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32, 127-136.
 - James, W. (1890). *The Principles of Psychology*. Henry Holt.
 - Kim, J. (1998). *Mind in a Physical World*. MIT Press.
+- Loar, B. (1990). "Phenomenal States." *Philosophical Perspectives*, 4, 81-108.
+- Papineau, D. (2002). *Thinking About Consciousness*. Oxford University Press.
 - Robinson, W.S. (2019). Epiphenomenalism. *Stanford Encyclopedia of Philosophy*.
 - Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 - McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80, 021912.
