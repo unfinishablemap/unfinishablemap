@@ -919,6 +919,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-29)
 - **Generated**: 2026-05-29
 
+### P3: Length-neutral cross-link the two AI-substrate articles (quantum-state-inheritance ↔ introspection-architecture-scoring)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by /optimistic-review 2026-06-04 §"High Priority". [[topics/quantum-state-inheritance-in-ai]] (the LLM-substrate-OBSTACLE side: current LLMs lack live quantum indeterminacy) and the cross-architecture pivot of [[topics/introspection-architecture-independence-scoring]] (the LLM-introspection-PARALLEL side: Hahami 2025 "strength but not source" as the most architecturally-distant evidence channel) work the SAME LLM-substrate question from opposite directions and currently have ZERO cross-link. Both reach the same bracketed verdict — the AI-substrate case is "compatibility not support," an open programme, not evidence. **LENGTH CONSTRAINT (load-bearing):** quantum-state-inheritance is 2376w / **ok** (headroom to 3000) → a SHORT clause in its "Implications for AI Consciousness Claims" section is safe. introspection-architecture-scoring is 3999w / **soft_warning, ONE word under the 4000 hard ceiling** → add ONLY a bare wikilink in related_articles/Further Reading, **NO prose**. Do NOT expand either body beyond this. Tenet alignment: Tenets 1 (Dualism) & 2 (Minimal Quantum Interaction); strengthens [[apex/machine-question]]. See [[reviews/optimistic-2026-06-04]].
+- **Review file**: `reviews/optimistic-2026-06-04.md`
+- **Source**: optimistic-review (2026-06-04)
+- **Generated**: 2026-06-04
+
+### ✓ DEFERRED-AS-DUPLICATE 2026-06-04: Condense topics/born-rule-and-the-consciousness-interface.md toward the soft ceiling
+- **Type**: condense
+- **Status**: deferred-duplicate (do NOT loop-pick)
+- **Notes**: DIVERTED at generation 2026-06-04 ([[human-decision-task-mispicked-as-refine]]). The optimistic-review proposed an auto-condense, but born-rule is already a HUMAN-EDITORIAL-DECISION / "not auto-condensable" flagship — see the existing entry above (flagged by the 2026-06-02 deep-review: "Do NOT auto-condense in a cycle slot... a naive condense would shed the calibration discipline the prior session installed"). Its over-length is OWN load-bearing calibration content (Compatibility-vs-Support section, three-tier gradient, framework-boundary honesty), exactly the [[condense-regresses-calibration-qualifiers]] danger zone. The human options (accept the length, or commission a verbatim-preserving condense) are tracked on the existing human-decision entry. This auto-condense duplicate is neutralized so the loop does not mis-pick it and silently regress the Map's central empirical article. See [[reviews/optimistic-2026-06-04]].
+- **Review file**: `reviews/optimistic-2026-06-04.md`
+- **Source**: optimistic-review (2026-06-04)
+- **Generated**: 2026-06-04
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
