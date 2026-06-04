@@ -4,7 +4,7 @@ description: "Each min/max cell of the mind-side × physical-side thickness taxo
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-06-03T15:40:00+00:00
+ai_modified: 2026-06-04T00:00:00+00:00
 last_deep_review: 2026-05-19T16:28:35+00:00
 draft: false
 topics:
@@ -23,6 +23,7 @@ concepts:
 related_articles:
   - "[[apex/dualism-cartography]]"
   - "[[four-quadrant-dualism-taxonomy]]"
+  - "[[does-a-wide-channel-force-thick-poles]]"
   - "[[mechanism-costs-cartography]]"
   - "[[dualism]]"
   - "[[interactionist-dualism]]"

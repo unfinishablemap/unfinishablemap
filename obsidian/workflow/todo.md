@@ -799,14 +799,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-26)
 - **Generated**: 2026-05-26
 
-### P2: Write topic article on the wide-channel / thin-pole vacant cell of the channel-width axis
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by /optimistic-review 2026-05-27e §"High Priority". [[topics/channel-width-third-axis]] §"Where This Axis Points Next" notices that "no canonical position pairs a *wide* channel with *thin* poles" and asks whether that empty region is a contingent literature gap or a structural impossibility ("does a wide channel force at least one pole to thicken?"). This is the channel-width analogue of the two-axis grid's near-empty Q4 — a Map-distinctive structural question not yet anywhere in the corpus. Article should (a) define what a wide-channel / thin-pole position would have to claim (an interface admitting energy-injection or candidate-generation, yet a metaphysically thin mind-pole and/or physical-pole), (b) test whether such a position is coherent or whether a wide channel structurally forces at least one pole to thicken, (c) cross-link [[topics/channel-width-third-axis]], [[topics/four-quadrant-dualism-taxonomy]], [[concepts/selection-only-channel]], [[topics/mechanism-costs-dualism-thickness-quadrants]], (d) keep the cartographic-not-adjudicative discipline explicit and honour [[evidential-status-discipline]] (locating an empty cell is not evidence for or against the Map's position). Estimated scope: 2,000–2,600 words; topics/ (~258/270, room available). Tenet alignment: Tenet 1 (Dualism), Tenet 2 (Minimal Quantum Interaction); cartographic.
-- **Review file**: `reviews/optimistic-2026-05-27e.md`
-- **Source**: optimistic-review (2026-05-27)
-- **Generated**: 2026-05-27
-
 ### ✓ 2026-05-31: Write concept page on training-contamination as a general AI-consciousness-probe confound
 - **Type**: expand-topic
 - **Status**: completed (duplicate of the P2 promoted from optimistic-2026-05-31b; both satisfied by `concepts/training-contamination-confound.md`, created 2026-05-31. This P3's richer spec — exposed-probe catalogue, interpretability discriminators, evidential-status framing — was merged into that page.)
@@ -853,6 +845,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Write topic article on the wide-channel / thin-pole vacant cell of the channel-width axis
+- **Type**: expand-topic
+- **Notes**: Suggested by /optimistic-review 2026-05-27e §"High Priority". [[topics/channel-width-third-axis]] §"Where This Axis Points Next" notices that "no canonical position pairs a *wide* channel with *thin* poles" and asks whether that empty region is a contingent literature gap or a structural impossibility ("does a wide channel force at least one pole to thicken?"). This is the channel-width analogue of the two-axis grid's near-empty Q4 — a Map-distinctive structural question not yet anywhere in the corpus. Article should (a) define what a wide-channel / thin-pole position would have to claim (an interface admitting energy-injection or candidate-generation, yet a metaphysically thin mind-pole and/or physical-pole), (b) test whether such a position is coherent or whether a wide channel structurally forces at least one pole to thicken, (c) cross-link [[topics/channel-width-third-axis]], [[topics/four-quadrant-dualism-taxonomy]], [[concepts/selection-only-channel]], [[topics/mechanism-costs-dualism-thickness-quadrants]], (d) keep the cartographic-not-adjudicative discipline explicit and honour [[evidential-status-discipline]] (locating an empty cell is not evidence for or against the Map's position). Estimated scope: 2,000–2,600 words; topics/ (~258/270, room available). Tenet alignment: Tenet 1 (Dualism), Tenet 2 (Minimal Quantum Interaction); cartographic.
 
 ### ✓ 2026-06-04: Deep-review voids/apophatic-cartography.md (18d changed-since-review gap; oldest review of the staleness set)
 - **Type**: deep-review

@@ -5,6 +5,14 @@ ai_modified: 2026-06-04T10:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T11:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The wide-channel/thin-pole vacant cell of the channel-width axis — coherence-test (contingent gap vs structural impossibility)
+- **Output**: [[topics/does-a-wide-channel-force-thick-poles]]
+- **Word count**: 2625
+- **Based on research**: No (built on existing corpus: channel-width-third-axis §"Where This Axis Points Next" open question, applying mechanism-cost + selection-only-channel-operation machinery)
+- **Verdict**: CREATE (not downgrade). Genuine ~2625w of non-redundant structural analysis: runs the mechanism-cost battery on each wide channel-operation, finds candidate-generation analytically forces the mind-pole and energy-injection forces the physical-pole on conservation-respecting readings → cell mostly structurally forbidden, with one contingent-gap sliver (conservation-denying thin Cartesianism). Cartographic register confirmed (no possibility/probability slippage; structural-impossibility verdict is about the taxonomy's geometry, not which position is true). Cites all REUSED from channel-width-third-axis / four-quadrant / mechanism-costs / selection-only-channel (Saad 2025, Schaffer 2000, Stapp, Cucu & Pitts 2019, Kastrup, Shannon 1948, Tegmark 2000) — no new external cites, none needing web-verification. Bidirectional links added to channel-width-third-axis (inline + related_articles + Further Reading), four-quadrant-dualism-taxonomy (Q4-vacancy contrast inline + related_articles), mechanism-costs-dualism-thickness-quadrants (related_articles), selection-only-channel (Further Reading). Not orphan.
+
 ## 2026-06-04T10:30:00+00:00 - deep-review
 - **Status**: Success (converged — metadata-only)
 - **File**: [[voids/apophatic-cartography]]
