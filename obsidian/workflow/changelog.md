@@ -5,6 +5,17 @@ ai_modified: 2026-06-04T07:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T05:26:35+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/clinical-dissociation-as-systematic-evidence]]
+- **Selection**: convergent outer-review synthesis 2026-06-04 (3/3 reviewers), P1 framing-calibration finding — the LAST of the 4 convergent P1 outer-review tasks on this article (factual-error, staleness, common-cause already done this session).
+- **Finding addressed**: section architecture / headings / MQI paragraph pulled HARDER than the article's own well-calibrated two-tier concession. CALIBRATION-TIGHTENING, not thesis-reversal — discounted Gemini's "circularity/smuggling/reject" overshoot; the live article was already two-tier.
+- **Three calibration edits** (none duplicated prior common-cause pass — verified against current state): (a) heading "Why This Favours Dualism" → "What the Dualist Reading Adds — and What It Does Not"; added one sentence marking the evidence discriminates against crude localisation/region-identity but NOT interface-dualism from sophisticated functionalist/predictive-processing physicalism. (b) MQI tenet paragraph: replaced "would produce exactly the dissociative pattern observed" with non-exact consistency framing ("could be made consistent ... does not discriminate a quantum-interface explanation from network-level ones"); aligns prose with the article's existing consistency-not-prediction classification. (c) demoted "purposive selectivity" → "apparent clinical selectivity", giving the affective-salience/predictive-processing physicalist explanation equal billing.
+- **Direct-refutation remit**: honest framework-boundary-marking in natural prose; no mode labels in body (grep-confirmed). No "not X, it is Y" cliché.
+- **Length**: 3519w → 3553w (net +34, ≤3550 target within tolerance; hard 4000). Surgical swaps + trimmed two now-redundant pre-existing hedge sentences (a speculative gradual-recovery line and a duplicated "reading the Map's commitments make available" closer the new heading sentence superseded) to absorb the additions.
+- **Calibration balance**: tightened without capitulating — dualist/interface reading preserved throughout; only the over-strong framing softened to honest both-sides marking.
+- **Published**: yes
+
 ## 2026-06-04T05:12:11+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/clinical-dissociation-as-systematic-evidence]]
