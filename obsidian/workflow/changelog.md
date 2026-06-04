@@ -5,6 +5,16 @@ ai_modified: 2026-06-04T20:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T18:20:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/parsimony-epistemology]]
+- **Word count**: 2500 → 2493 (-7; absorbed a ~40-word FBT cross-link clause via equivalent length-neutral redundancy trims)
+- **Critical issues addressed**: 0 (none found — 10th review, long-converged; no misattribution, no calibration slippage, no label leakage)
+- **Medium issues addressed**: 2 (missing mutual cross-link to [[fitness-beats-truth]] — the task; length regression after the additive clause)
+- **Enhancements made**: 1 (established mutual-reinforcement cross-link with [[fitness-beats-truth]], previously unlinked in both directions despite strong content relationship: FBT attacks the reliability of the simplicity *intuition*, parsimony-epistemology the warrant of the simplicity *principle*. Integrated as argumentative content on both sides — body prose, Further Reading, and related_articles — not bare links. Length-neutral on parsimony side.)
+- **Engagement modes (editor-internal)**: no named-opponent engagement added; hostile-witness section (Smart/Lycan/Churchland) unchanged, remains Mode One/Two earned from materialists' own concessions.
+- **Output**: [[reviews/deep-review-2026-06-04-parsimony-epistemology]]
+
 ## 2026-06-04T22:00:56+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/aspect-perception-void]]
