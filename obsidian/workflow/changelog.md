@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04T08:15:00+00:00
+ai_modified: 2026-06-04T09:30:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-04T09:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/clinical-dissociation-as-systematic-evidence]]
+- **Selection**: ChatGPT 5.5 Pro outer review 2026-06-04 ([[reviews/outer-review-2026-06-04-chatgpt-5-5-pro]]) — three staleness/overextension fixes. 9th edit to this article today; re-read current state first to verify each item not already done by prior edits.
+- **Item (1) — FND as primary term + rule-in framing**: PARTIALLY pre-done. The amygdala-motor factual-error cycle (e4364cf6) had already installed FND/active-inference content (Edwards/Friston Bayesian prior, Voon 2010, Hassa 2017) — verified present. REMAINING work done: made "functional neurological disorder (FND)" the primary term in the section opening with "*conversion disorder*, the DSM-IV term" marked historical; added a compact positive rule-in clause (Hoover's sign, tremor entrainment) noting FND is no longer a diagnosis of exclusion. Predictive-processing/active-inference account was already fully present — not re-edited.
+- **Item (2) — trauma disorder-by-disorder narrowing**: EDITED (the one genuinely-additive item). Rewrote the blanket "Clinical dissociation is overwhelmingly associated with psychological trauma" sentence into a qualified disorder-by-disorder clause: DID strongly-but-contestedly trauma-linked (sociocognitive contest, Lynn et al. 2022); DPDR + dissociative amnesia more qualified (many DPDR cases lack a clear trigger; amnesia inherits the "stored-but-inaccessible" doubts, Mangiulli 2022); FND weakest — current criteria no longer require an identifiable stressor, field past the Freud–Breuer "hysteria" framing. Tied back to the interface model's load-bearing dependence on the trauma link. The following paragraph was tightened to avoid restating the same channel-protection point.
+- **Item (3) — Reinders n=11 + post-2020 anchor**: EDITED, no new cite. Added a parenthetical to the existing Reinders (2003) citation flagging it as an early-paradigm PET study with only eleven participants, and pointed to Lynn et al. (2022) — ALREADY cited (ref 14) — as the load-bearing post-2020 anchor. Reused, did not add a new cite.
+- **Citations**: NO new cites added. All ChatGPT-suggested cites (Modesti 2022, Bachrach & Huntjens 2025, Dworetzky & Baslet 2025, Lo/Weber 2025) were declined per length pressure + 2025-date fabrication risk ([[ai_citation_metadata_unreliable]]); reused in-article Lynn 2022 + Mangiulli 2022 instead. References list unchanged.
+- **Calibration** ([[evidential-status-discipline]]): item (2) is a softening that makes the dialectic honest without retracting the interface reading; preserved two-tier "constrain not establish" framing; checked against over-hedging-into-mush — qualifications are disorder-specific, not piled. No editor-mode labels in body; no "not X, it's Y" cliché.
+- **Length before/after**: 3843w → 3990w (net +147; under the 4000 hard ceiling but above the ≤3850 target). The additive item (2) is genuinely net-positive content that cannot be fully offset without cutting load-bearing argument; trimmed the trauma follow-on paragraph, the FND-literature restatement, and the rule-in examples to claw back ~17w. **FLAGGED for human length-decision** (see todo P2 below) — did NOT auto-condense calibration content to force it under target, per task instruction.
+- **Published**: yes
 
 ## 2026-06-04T08:15:00+00:00 - refine-draft
 - **Status**: Success
