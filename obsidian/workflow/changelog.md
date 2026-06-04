@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04T17:41:31+00:00
+ai_modified: 2026-06-04T18:40:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-04T18:40:00+00:00 - deep-review
+- **Status**: Success (CONVERGED — no-op; license-to-no-op exercised, timestamps only)
+- **File**: [[concepts/moral-responsibility]]
+- **Word count**: 3168 → 3168 (no change; 127% of 2500 soft, under 3500 hard — no human length decision)
+- **Diff-scope**: changed-since-review (~10d gap). Single intervening content commit 17b854814 (2026-06-01 refine, "reconcile control-section framing seam + hedge luck reply"). Four changes: (1) NEW seam-reconciliation sentence separating control's *nature* (mechanism-neutral) from control's *possibility* (tenet commitment); (2) "identical"→"parallel" selection architecture; (3) "Current evidence shows"→"Ordinary practice suggests" (falsifiability #2); (4) luck-reply hedge "not uncontroversially completed".
+- **Calibration**: NO possibility→probability slippage. New sentence explicitly attributes the possibility-condition to "a tenet commitment rather than a particular mechanism" — honest tenet-coherence labelling, not evidence elevation. Diagnostic test: a tenet-accepting reviewer would not flag it. Both softenings = demonstrated-finding softening (not dishonest hedging); luck hedge marks genuine underdetermination.
+- **Web-verify (publisher of record, all CLEAN — none fabricated, none wrong-author/year/venue)**: Strawson 1962 Proc Brit Acad vol 48 ✓; Frankfurt 1971 J Phil 68:5-20 ✓; Fischer & Ravizza 1998 CUP ✓; Kane 1996 OUP ✓ + verbatim "ultimate creators (or originators) and sustainers" exact match; Pereboom 2001 CUP (hard incompatibilism, source-conclusion faithful) ✓; Chisholm 1964 Lindley Lecture U Kansas ✓; Wolf 1990 OUP ✓; O'Connor 2000 OUP ✓; Soon et al. 2008 Nat Neurosci 11:543-545 ✓ (~60% decoding accuracy faithfully characterized); decoherence cluster McKemmish 2009 Phys Rev E 80:021912 + Reimers 2009 PNAS 106(11):4219-4224 ✓ (re-verified the fae80ebc4 audit). No defects to fix.
+- **Seam-check**: reconciliation CLOSED — lines 67/95/135/151 all express the consistent "Map requires only that some process leave outcomes open" framing; no parallel un-reconciled over-claim.
+- **Reasoning-mode (editor-internal, unchanged — no opponent prose modified)**: mysterious=Mode Two; empirical-detection=Mode Two; compatibilism-sufficient=Mode Three boundary-marking w/ residue clause; Buddhist=Mode One; illusionist regress=Mode Two. No label leakage.
+- **Anchoring**: one flag vs mental-causation anchor (4 strong-assertion verbs) — non-actionable/pre-existing; refine REDUCED strong assertions; the 4 verbs ("proves unworkable" conditional, "establishes what control consists in" definitional, ×2 "quantum biology demonstrates" defensible-empirical) are appropriately used. Folding into hedges = over-hedge-into-mush. Declined.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-06-04-moral-responsibility]]
 
 ## 2026-06-04T18:14:31+00:00 - deep-review
 - **Status**: Success (converged; 1 critical citation journal defect fixed + 1 missing reference added)
