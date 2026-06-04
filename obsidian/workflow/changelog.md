@@ -5,6 +5,17 @@ ai_modified: 2026-06-04T08:15:28+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T00:00:00+00:00 - expand-topic (DOWNGRADED to refine-draft)
+- **Status**: Success
+- **Task**: ASSESS-FIRST "Second-Order PCT Extension to Limit-Knowledge" concept page (from optimistic-2026-05-22)
+- **STEP 0 — "PCT"**: Map-INTERNAL coinage = Phenomenal Constitution Thesis (defined in phenomenology-of-intellectual-life §opening). NOT Powers' Perceptual Control Theory. No external citation — definition-from-usage. No web-verify needed.
+- **Decision**: DOWNGRADE to refine-draft (declined standalone concept). Coherence-inflation verdict: 4 of 5 planned parts already developed elsewhere — (a) constitution-not-evidence claim is verbatim-present in epistemology-of-limit-knowledge §"It may be phenomenally constituted" + §bootstrap "Phenomenal evidence runs in parallel"; (b) the three frustration/satisfaction/no-trace signatures are developed twice (biological-cognitive-closure §"Phenomenology of Biological Closure" + the whole phenomenology-of-cognitive-limit-types article); (d)/(e) are tagging+integration not content. Only genuinely-novel piece is (c) the three-option reliable-presentation structure (~340w), insufficient for a 1500-2500w standalone → thin-concept risk.
+- **What I did instead**: Added §"Second-Order Constitution: Three Open Options" to concepts/epistemology-of-limit-knowledge.md (the article that already owns the extension claim + reliable-presentation question, and had headroom). Developed the three options held OPEN at live-hypothesis tier (phenomenally-constituted-and-reliable / constituted-but-unreliable / accompanied-but-not-constituted), tied the three recognition modes to existing closure-phenomenologies via cross-link (not re-derived). NOT placed in phenomenology-of-intellectual-life: that flagship is already 3283w (109% of soft) — expanding it ~400-600w would breach toward the 4000 hard max (over-ceiling-flagship risk).
+- **Output**: [[concepts/epistemology-of-limit-knowledge]]
+- **Word count**: 2191w (88% of 2500 soft) — ok, +348w net, headroom preserved
+- **Integration**: bidirectional links added (phenomenology-of-cognitive-limit-types, self-maintained-cognitive-limits, inventory-blindness, evidential-status-discipline) + mirrored in related_articles + Further Reading. All 5 new wikilink targets verified to resolve. validate.py ✓ Valid.
+- **Evidential-status**: three options held open, Map-lean stated but competitors preserved (not resolved in Map's favour). No external cites added (no fabrication risk).
+
 ## 2026-06-04T08:15:28+00:00 - refine-draft
 - **Status**: Success
 - **Task**: Corpus-wide citation de-fabrication (Lindsey/Hahami/introspection-adapter), web-verified 3-state metadata
