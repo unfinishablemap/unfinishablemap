@@ -4,8 +4,8 @@ description: "Cognitive limits are doubly informative: their shape reveals archi
 created: 2026-01-16
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-06-04T00:00:00+00:00
-last_deep_review: 2026-04-28T12:00:00+00:00
+ai_modified: 2026-06-04T13:00:00+00:00
+last_deep_review: 2026-06-04T13:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -123,7 +123,7 @@ If the voids were independent puzzles, their convergence on a single boundary wo
 
 Levine—who introduced "explanatory gap"—himself resists the ontological move: the gap reveals a limit on explanatory abilities, not necessarily a gap in nature (Levine 1983). The argument's force depends on the voids being independently identifiable; the [[compound-failure-signatures|topology of cognitive failure]] supports this independence.
 
-Physicalism offers two main responses. The **phenomenal concept strategy** holds that phenomenal concepts have a special epistemic character explaining the gap without an ontological gap. Chalmers argues the strategy cannot explain *why* phenomenal concepts have this nature without presupposing phenomenal properties. **[[illusionism|Illusionism]]** (Frankish 2016) denies phenomenal properties exist at all—but must then explain how a purely physical system generates the persistent, structured sense of phenomenality without it tracking anything real, including the questioning stance and its felt significance.
+Physicalism offers two main responses. The **phenomenal concept strategy** holds that phenomenal concepts have a special epistemic character explaining the gap without an ontological gap. Chalmers argues the strategy cannot explain *why* phenomenal concepts have this nature without presupposing phenomenal properties (Chalmers 2007). **[[illusionism|Illusionism]]** (Frankish 2016) denies phenomenal properties exist at all—but must then explain how a purely physical system generates the persistent, structured sense of phenomenality without it tracking anything real, including the questioning stance and its felt significance.
 
 Three considerations on illusionism specifically. *The regress applies*: to *seem* to hit a cognitive wall, something must experience that seeming; mapping the architecture that produces the illusion still maps the mapper. *Representational closure is still closure*: if certain concepts cannot be constructed from our cognitive primitives, the shape of that failure is informative even granting illusionism. *Illusionism may itself be symptomatic*: denying the phenomenon rather than explaining it might be what cognitive closure looks like from the inside.
 
@@ -205,6 +205,7 @@ After millennia of inquiry, the hard problem remains puzzling. Cross-cultural co
 ## References
 
 1. Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
+1. Chalmers, D. (2007). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press.
 1. Chomsky, N. (2014). "Science, Mind, and Limits of Understanding." https://chomsky.info/201401__/
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Heidegger, M. (1927). *Being and Time*. Trans. Macquarrie & Robinson. Harper & Row.

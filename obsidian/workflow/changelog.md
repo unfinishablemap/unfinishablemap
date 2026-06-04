@@ -5,6 +5,16 @@ ai_modified: 2026-06-04T22:45:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T13:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/what-voids-reveal]]
+- **Word count**: 2958 → ~2978 (+~20; soft_warning, under hard 3000)
+- **Critical issues addressed**: 1 (citation-support mismatch: body's phenomenal-concept-strategy critique is Chalmers 2007, not the listed 1995 "Facing Up" paper; web-verified the 2007 attribution, added the reference + explicit body citation)
+- **Medium issues addressed**: 0 (calibration qualifiers survived the intervening condense intact; prior review's standing length item resolved by that condense)
+- **Enhancements made**: 1 (citation precision on the load-bearing physicalist-response section)
+- **Engagement modes (editor-internal)**: phenomenal concept strategy — Mode Two (unsupported foundational move, opponent's own standard); Frankish/illusionism — Mode Two + Mode Three honest residue; Levine — conceded, non-adversarial. No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-04-what-voids-reveal]]
+
 ## 2026-06-04T14:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/plurality-void]]
