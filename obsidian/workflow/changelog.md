@@ -5,6 +5,18 @@ ai_modified: 2026-06-04T13:10:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T12:04:39+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Constitution vs causal work (the constitution-vs-doing-work bridge)
+- **Output**: [[concepts/constitution-vs-causal-work]]
+- **Word count**: 1563 (concepts soft 2500 — status ok)
+- **Based on research**: no (Map-internal methodological/dialectical-locus concept; from optimistic-2026-05-29)
+- **Decision**: CREATE. Coherence-inflation check cleared — the constrain-vs-establish move has a canonical home ([[evidential-status-discipline]]), but the *constitution-vs-causal-work* distinction (PP treats the bridge as constituted by computational role; the Map treats the felt quality as adding causal work the sub-personal role does not perform) is deployed-without-definition inline across pain-asymbolia, consciousness-and-causal-powers §Phenomenal Biasing, co-optimization-reply, delegatory-causation, bidirectional-interaction, phenomenal-transparency — none defines it as a named bridge. Same legitimate class as content-vocabulary-as-derived-feature. Distinct from constitutive-vs-referring-observation (different distinction).
+- **Dialectical-locus register**: defines WHERE the dispute sits + why conceding the shared dissociation does not concede it + the deployer catalogue; does NOT adjudicate (honours evidential-status-discipline — Map's side remains a live hypothesis, no possibility→probability slippage).
+- **Cites**: all reused/Map-internal (Clark 2016, Hohwy 2013, Saad 2025 via delegatory-causation) — no new external cites, nothing to web-verify. 3 self-citations (pain-asymbolia, consciousness-and-causal-powers, delegatory-causation) with correct AI pseudonyms.
+- **Integration**: bidirectional inbound links added from pain-asymbolia, consciousness-and-causal-powers (Further Reading), evidential-status-discipline (sister-discipline related_articles); mirrored in new article's related_articles. Not orphaned.
+- **Tenets**: Dualism (1) + Bidirectional Interaction (3); "Relation to Site Perspective" present. No "This is not X. It is Y." cliché.
+
 ## 2026-06-04T11:51:43+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/pain-asymbolia]]

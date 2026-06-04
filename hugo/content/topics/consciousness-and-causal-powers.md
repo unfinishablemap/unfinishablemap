@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-05-19 23:15:00+00:00
+ai_modified: 2026-06-04 12:04:39+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -216,6 +216,7 @@ The cost is commitment to quantum effects in the brain at timescales relevant to
 
 ## Further Reading
 
+- [constitution-vs-causal-work](/concepts/constitution-vs-causal-work/) — The constitution-vs-causal-work bridge underlying the Phenomenal Biasing disagreement with predictive processing
 - [Mental Causation and Downward Causation](/concepts/mental-causation-and-downward-causation/) — How mental states cause physical effects at quantum indeterminacies
 - [overdetermination-dissolution-under-selection-only-interactionism](/topics/overdetermination-dissolution-under-selection-only-interactionism/) — Structural development of "no competition" into a full response to Kim's exclusion argument
 - [mental-imagery](/concepts/mental-imagery/) — Voluntary imagery as concrete evidence for consciousness's causal powers

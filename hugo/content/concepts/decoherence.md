@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-03 00:00:00+00:00
+ai_modified: 2026-06-04 09:26:45+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -231,7 +231,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is directly relevan
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401–1416.
-1. Warren, W.S. (2024). Comment on "Experimental indications of non-classical brain functions." *Journal of Physics Communications*, 8, 038001.
+1. Warren, W.S. (2023). Comment on "Experimental indications of non-classical brain functions." *Journal of Physics Communications*, 7(3), 038001.
 1. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 1. Wiest, M. C. et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

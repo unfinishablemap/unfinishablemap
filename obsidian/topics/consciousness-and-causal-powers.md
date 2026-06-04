@@ -4,7 +4,7 @@ description: "What causal influence does consciousness exercise, and within what
 created: 2026-02-11
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-19T23:15:00+00:00
+ai_modified: 2026-06-04T12:04:39+00:00
 last_deep_review: 2026-05-19T10:36:26+00:00
 draft: false
 topics:
@@ -213,6 +213,7 @@ The cost is commitment to quantum effects in the brain at timescales relevant to
 
 ## Further Reading
 
+- [[constitution-vs-causal-work]] — The constitution-vs-causal-work bridge underlying the Phenomenal Biasing disagreement with predictive processing
 - [[mental-causation-and-downward-causation|Mental Causation and Downward Causation]] — How mental states cause physical effects at quantum indeterminacies
 - [[overdetermination-dissolution-under-selection-only-interactionism]] — Structural development of "no competition" into a full response to Kim's exclusion argument
 - [[mental-imagery]] — Voluntary imagery as concrete evidence for consciousness's causal powers

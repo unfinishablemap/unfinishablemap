@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-06-03 15:40:00+00:00
+ai_modified: 2026-06-04 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -25,6 +25,7 @@ related_articles:
 - '[[apex/dualism-cartography]]'
 - '[[mechanism-costs-dualism-thickness-quadrants]]'
 - '[[channel-width-third-axis]]'
+- '[[does-a-wide-channel-force-thick-poles]]'
 - '[[mechanism-costs-cartography]]'
 - '[[dualism]]'
 - '[[interactionist-dualism]]'
@@ -124,7 +125,7 @@ Dualism in Q3 appears unstable: once the mental does all the ontological work, t
 - **Myers–James subliminal mind plus Bohmian hidden-variable physics**: maximal mental layering meets maximal physical structure. A hybrid rarely stated as such, but the components are independently available.
 - **Russellian panpsychism with full scientific realism**: [consciousness as intrinsic nature](/concepts/russellian-monism/) plus all of physics taken at face value (see [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/) for the Map's framing).
 
-Q4 is under-discussed in contemporary analytic philosophy. Its classical inhabitants (Descartes, Aquinas) are often dismissed as pre-modern, and contemporary training favours parsimonious ontologies. The parsimony pressure is not merely sociological: maximum commitments on both sides do carry real explanatory costs that a reader outside the Map's tenet-set can reasonably weigh against the resources Q4 affords. Yet Q4 is arguably also where the strongest combinations of explanatory resources may live — rich on both sides, with interaction as a genuine ontological phenomenon rather than a concession. Whether Q4 inhabitants lose on parsimony grounds is a case-by-case question about specific explanatory tasks, not a uniform verdict.
+Q4 is under-discussed in contemporary analytic philosophy. Its classical inhabitants (Descartes, Aquinas) are often dismissed as pre-modern, and contemporary training favours parsimonious ontologies. This emptiness is *sociological* — the cell is coherent and inhabited, merely disfavoured — which [contrasts with the channel-width axis's own vacant cell](/topics/does-a-wide-channel-force-thick-poles/), where the wide-channel/thin-pole region is mostly empty by structural impossibility rather than by disciplinary preference. The parsimony pressure is not merely sociological: maximum commitments on both sides do carry real explanatory costs that a reader outside the Map's tenet-set can reasonably weigh against the resources Q4 affords. Yet Q4 is arguably also where the strongest combinations of explanatory resources may live — rich on both sides, with interaction as a genuine ontological phenomenon rather than a concession. Whether Q4 inhabitants lose on parsimony grounds is a case-by-case question about specific explanatory tasks, not a uniform verdict.
 
 ## Why the Thickness Axis Matters
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-06-03 15:40:00+00:00
+ai_modified: 2026-06-04 00:00:00+00:00
 ai_system: claude-opus-4-8
 apex_last_synthesis: 2026-06-03 15:40:00+00:00
 apex_sources:
@@ -28,7 +28,7 @@ description: A coordinated map of dualist positions and their per-cell mechanism
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-06-04 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -99,7 +99,7 @@ Three patterns fall out of the overlay. The conservation objection that has driv
 
 The overlay invites a tempting shortcut: Q1 is the cheapest permitted cell, so parsimony selects it, so the Map's position wins on simplicity. The cluster explicitly refuses that shortcut, and the refusal is load-bearing for keeping the whole exercise honest.
 
-The [parsimony reasoning](/topics/parsimony-case-for-interactionist-dualism/) runs in two stages, neither of which converts simplicity into truth. First, *defensively*, parsimony's authority in the consciousness debate was never established. Huemer's survey of four justifications for preferring simpler theories found that none extends naturally to metaphysical disputes lacking differential predictions; the historical record (Mach denying atoms, geocentrism, caloric theory) shows the simpler theory was often the false one; and parsimony's own advocates have qualified the argument—Lycan concedes "there is no evidence against dualism; it only offends parsimony." Second, *dialectically*, even granting the objector that simplicity matters, the verdict does not come out as advertised: physicalism's ontological economy is purchased with explanatory debts (brute emergence, error theory about experience, or in-principle inaccessibility), so once every dimension of simplicity is counted, the razor stops pointing cleanly at physicalism and arguably tilts the other way.
+The [parsimony reasoning](/topics/parsimony-case-for-interactionist-dualism/) runs in two stages, neither of which converts simplicity into truth. First, *defensively*, parsimony's authority in the consciousness debate was never established. Huemer's survey of four justifications for preferring simpler theories found that none extends naturally to metaphysical disputes lacking differential predictions; the historical record (Mach denying atoms, geocentrism, caloric theory) shows the simpler theory was often the false one; and parsimony's own advocates have qualified the argument—Lycan, defending Cartesian interactive dualism, concedes that "there is no evidence against that view; it only offends parsimony." Second, *dialectically*, even granting the objector that simplicity matters, the verdict does not come out as advertised: physicalism's ontological economy is purchased with explanatory debts (brute emergence, error theory about experience, or in-principle inaccessibility), so once every dimension of simplicity is counted, the razor stops pointing cleanly at physicalism and arguably tilts the other way.
 
 The Map does not endorse *simpler-therefore-truer* in either direction. Its fifth tenet—[Occam's Razor Has Limits](/tenets/#occams-limits)—holds that parsimony is not a reliable guide to truth where knowledge is this incomplete, and that the self-binding applies to parsimony arguments *for* dualism exactly as to those *against* it. So when the Map locates itself near Q1, the claim is precise: not "Q1 is the simplest cell, therefore the Map is right," but "the Map pays the *least mechanism cost compatible with its tenets*." Q2 strict would be cheaper on mechanism—but the tenets forbid it. Q1 is cheaper than Q4—and the tenets permit it. Parsimony operates *within* the region the tenets carve out, not as a universal preference for thinness. Read this way, "parsimonious given what we are committed to" replaces "absolutely minimal across both axes," and Q4 inhabitants (Descartes, Stapp, Goff) are not automatic losers—they lose only when a specific explanatory task fails to justify the extra weight.
 

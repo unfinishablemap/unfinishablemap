@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-05-14 20:42:00+00:00
+ai_modified: 2026-06-04 10:11:54+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Human+AI exploration of moral truths beyond our reach—where evolu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-29 06:49:00+00:00
+last_deep_review: 2026-06-04 10:11:54+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -165,5 +165,5 @@ The normative void hypothesis would face pressure if:
 3. McGinn, Colin. "Mysterianism Revisited." https://colinmcginn.net/mysterianism-revisited/
 4. Williams, Bernard. (1981). "Moral Luck." In *Moral Luck: Philosophical Papers 1973-1980*. Cambridge University Press.
 5. Palazzo, Guido et al. (2012). "Ethical Blindness." *Journal of Business Ethics*, 109(3), 323-338.
-6. Werner, Preston. (2018). "Moral Perception." In *The Stanford Encyclopedia of Philosophy*.
+6. Werner, Preston J. (2020). "Moral Perception." *Philosophy Compass*, 15(1), e12640. The Norma/Pathos contrast case is Werner's. The "perceptually lacking such that they cannot pick up on moral properties" formulation follows the *Internet Encyclopedia of Philosophy* entry on Moral Perception (iep.utm.edu/moral-perception/).
 7. Caputo, John D. & Scanlon, Michael J. (2007). *Transcendence and Beyond*. Indiana University Press.

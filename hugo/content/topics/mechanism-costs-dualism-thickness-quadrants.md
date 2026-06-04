@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-06-03 15:40:00+00:00
+ai_modified: 2026-06-04 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -26,6 +26,7 @@ modified: *id001
 related_articles:
 - '[[apex/dualism-cartography]]'
 - '[[four-quadrant-dualism-taxonomy]]'
+- '[[does-a-wide-channel-force-thick-poles]]'
 - '[[mechanism-costs-cartography]]'
 - '[[dualism]]'
 - '[[interactionist-dualism]]'

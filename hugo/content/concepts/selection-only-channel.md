@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-06-03 10:46:28+00:00
+ai_modified: 2026-06-04 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -147,6 +147,7 @@ The Map does not commit to the strict selection-only reading as the only viable 
 - [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) — What experiments would foreclose the strict selection-only reading of Tenet 2
 - [sorkin-delta-brain-internal-analogues](/topics/sorkin-delta-brain-internal-analogues/) — Why a triple-slit-analogue test is structurally silent against the strict selection-only channel
 - [channel-width-third-axis](/topics/channel-width-third-axis/) — Where this channel class sits as the floor of the dualism-taxonomy's channel-width axis
+- [does-a-wide-channel-force-thick-poles](/topics/does-a-wide-channel-force-thick-poles/) — How this channel's operation taxonomy (candidate-generation, energy-injection) shows the wide end of the axis forces pole-thickening
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-05
-ai_modified: 2026-06-03 15:12:32+00:00
+ai_modified: 2026-06-04 12:04:39+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -358,6 +358,7 @@ Beyond tenet alignment, the discipline complements [coherence-inflation counterm
 
 - [steelmanning-as-method](/apex/steelmanning-as-method/) — the constructive companion to this discipline: where evidential-status discipline says what an article must *not* claim (defeater-removal is not evidence-lift), the method says how an article earns the small residue that remains claimable once the prohibition has done its work — build the strongest unified rival, grant the absorption, isolate the narrow seam, without upgrading the seam's tier
 - [delocalisation-discipline](/project/delocalisation-discipline/) — the affirmative complement at the claim-placement layer: where this discipline says do-not-over-claim (refuse the upgrade, hold the tier), delocalisation says where to relocate the article's load-bearing weight once the over-claim is refused — onto the strongest supported adjacent claim
+- [constitution-vs-causal-work](/concepts/constitution-vs-causal-work/) — sister discipline at the dialectical-locus level: where this discipline says do-not-upgrade-the-tier on a shared explanandum, constitution-vs-causal-work names *what the surviving readings disagree about* once the dissociation has been conceded
 - [direct-refutation-discipline](/project/direct-refutation-discipline/) — sister discipline at the reasoning-mode level: how the catalogue argues against opponents, surfaced in the same outer-review cluster
 - [bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/) — sister discipline at the within-article level: rival-position handling when an objection should be preserved as a clash subsection rather than absorbed
 - [framework-stage-calibration](/project/framework-stage-calibration/) — sister discipline at the framework level: how the catalogue characterises its own developmental stage to avoid stage-mismatched analogies

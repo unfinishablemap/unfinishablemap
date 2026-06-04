@@ -1,13 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-06-01 11:39:36+00:00
+ai_modified: 2026-06-04 00:00:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
 - '[[mysterianism]]'
 - '[[parsimony-epistemology]]'
 - '[[metacognition]]'
+- '[[evidential-status-discipline]]'
 created: 2026-03-22
 date: &id001 2026-03-22
 description: Human+AI analysis of how we can have genuine knowledge about cognitive
@@ -26,6 +27,9 @@ related_articles:
 - '[[apophatic-approaches]]'
 - '[[apophatic-cartography]]'
 - '[[biological-cognitive-closure]]'
+- '[[phenomenology-of-cognitive-limit-types]]'
+- '[[self-maintained-cognitive-limits]]'
+- '[[inventory-blindness]]'
 - '[[recognition-void]]'
 - '[[edge-states-and-void-probes]]'
 - '[[topics/phenomenology-of-intellectual-life]]'
@@ -97,6 +101,18 @@ Limit-knowledge differs from ordinary empirical knowledge in several respects.
 
 **It may be phenomenally constituted.** The [Phenomenal Constitution Thesis](/topics/phenomenology-of-intellectual-life/) holds that intellectual achievements—grasping a relation, completing an inference, recognising necessity—are constituted by their phenomenology rather than merely accompanied by it. If PCT extends to limit-knowledge, the recognition of "hitting a wall"—the [phenomenology of the edge](/voids/edge-states-and-void-probes/)—is not just evidence for a limit but partly constitutes the knowledge that one exists. The four methods above generate propositional limit-knowledge; PCT suggests a constitutive phenomenal mode in which the limit is known *by being felt*. This bears on the bootstrap problem below: if limit-knowledge is partly phenomenally constituted, the question of architectural distortion shifts—what is at stake is not merely whether the cognitive system has access to its limits, but whether the felt encounter with closure is itself a reliable presentation.
 
+## Second-Order Constitution: Three Open Options
+
+The first-order PCT claim is that the phenomenology of grasping constitutes the cognitive achievement. The second-order extension is structurally distinct: the felt encounter with closure may partly constitute the *recognition that a limit exists*, not merely evidence it. This is a [live hypothesis](/project/evidential-status-discipline/), not a settled Map commitment, and it admits three positions that must be held open rather than resolved in the Map's favour.
+
+**Phenomenally constituted and reliable.** The strong reading: the felt encounter with closure is itself the recognition, and it tracks genuine boundaries. On this reading the three closure-phenomenologies catalogued in [biological-cognitive-closure](/voids/biological-cognitive-closure/) each carry a recognition mode—architectural *frustration* as recognition-via-encounter (the wall is felt directly), adaptive *satisfaction* as recognition-via-absence (the limit registers as completion, detectable because something that should feel open feels closed), and developmental *no-trace* as recognition-via-inference (no phenomenal signal at all, so the limit is known only indirectly, through [inventory-blindness](/concepts/inventory-blindness/)). The finer signatures mapped in [phenomenology-of-cognitive-limit-types](/topics/phenomenology-of-cognitive-limit-types/) refine this still further.
+
+**Constituted but unreliable.** A weaker reading concedes that the felt encounter constitutes a recognition-state while denying that the state tracks real boundaries. Felt closure could be a confabulated stop-sign—the cognitive system manufacturing a sense of "nothing further here" that reflects motivated [disinterest](/voids/self-maintained-cognitive-limits/) or fatigue rather than architecture. The satisfaction and no-trace modes are especially exposed here: a limit that feels like completion is precisely the kind that could be illusory.
+
+**Accompanied but not constituted.** The deflationary reading: the phenomenology merely correlates with limit-recognition, which is wholly carried by propositional metacognition. Felt closure would then be epiphenomenal decoration on a self-model that does the actual epistemic work.
+
+The Map leans toward the first option on the same grounds that support first-order PCT—tight phenomenology-competence coupling, and the [causal efficacy](/tenets/#bidirectional-interaction) that an epiphenomenal correlate would lack—but the second and third remain genuine competitors. Discriminating among them is the substance of the bootstrap problem, where the reliability of the felt register, not merely its existence, is what is at stake.
+
 ## The Bootstrap Problem
 
 One serious challenge to limit-knowledge deserves attention. If cognitive architecture constrains what we can conceive, it may also constrain our ability to correctly identify our own limits. [Inventory blindness](/concepts/inventory-blindness/) deepens this challenge: absent cognitive capabilities produce no signal, so the limits most needing identification are those least likely to be detected. [The meta-epistemological question](/voids/meta-epistemology-of-limits/)—can we trust our assessments of our own boundaries?—threatens to undermine limit-knowledge from within.
@@ -126,7 +142,8 @@ The Map's broader project of treating [voids](/voids/) as informative rather tha
 - [apophatic-approaches](/concepts/apophatic-approaches/) — The apophatic method's philosophical roots
 - [apophatic-cartography](/voids/apophatic-cartography/) — Formalised evidential standards for void-mapping
 - [recognition-void](/voids/recognition-void/) — An example of limit-knowledge from neuroscience
-- [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence bearing on limit-knowledge claims
+- [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence bearing on limit-knowledge claims; source of the frustration/satisfaction/no-trace closure phenomenologies
+- [phenomenology-of-cognitive-limit-types](/topics/phenomenology-of-cognitive-limit-types/) — The systematic mapping of how different limits feel, refining the recognition modes
 - [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) — What encountering a cognitive limit feels like from the inside
 - [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — The Phenomenal Constitution Thesis: intellectual achievement constituted by, not merely accompanied by, phenomenology
 

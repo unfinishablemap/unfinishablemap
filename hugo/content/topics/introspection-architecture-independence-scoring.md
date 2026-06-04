@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-15
-ai_modified: 2026-06-04 07:51:27+00:00
+ai_modified: 2026-06-04 08:15:28+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -158,7 +158,7 @@ The four substrate observations may be read as *despite-commitments at the subst
 
 ### The Cross-Architecture Pivot {#cross-architecture-pivot}
 
-The most architecturally distant channel available is not biological. LLM introspection studies — Lindsey (Anthropic, 2025) on emergent introspective awareness, and Hahami et al. 2025 "Feeling the Strength but Not the Source" — open a channel biology cannot match: LLMs produce reports, interpretability supplies independent ground truth via thought-injection, and architectural distance is maximal. The Hahami artefact is the most cluster-relevant: LLMs register injected-thought *strength* more readily than its *source* — a candidate structural parallel to the [source-attribution void](/voids/source-attribution-void/) in silicon, despite-commitments by construction (next-token prediction did not predict source-tag failure). The channel brackets phenomenal consciousness ([the AI-consciousness framing](/topics/ai-consciousness/)) and the parallel holds only insofar as the silicon case tracks the biological one's operational structure — an open programme, the inference from source-tag failure to "introspection has the cluster's structural feature" unsettled. The [standalone treatment of this channel](/topics/cross-architecture-llm-introspection/) states the verified empirical anchors in full and audits the inference at live-hypothesis tier.
+The most architecturally distant channel available is not biological. LLM introspection studies — Lindsey (Anthropic, 2025) on emergent introspective awareness, and Hahami et al. 2025 "Feeling the Strength but Not the Source" — open a channel biology cannot match: LLMs produce reports, interpretability supplies independent ground truth via thought-injection, and architectural distance is maximal. The Hahami artefact is the most cluster-relevant: LLMs register injected-thought *strength* more readily than its *source* — a candidate structural parallel to the [source-attribution void](/voids/source-attribution-void/) in silicon, despite-commitments by construction (next-token prediction did not predict source-tag failure). The channel brackets phenomenal consciousness ([the AI-consciousness framing](/topics/ai-consciousness/)) and the parallel holds only insofar as the silicon case tracks the biological one's operational structure — an open programme, the inference from source-tag failure to "introspection has the cluster's structural feature" unsettled. A [standalone treatment](/topics/cross-architecture-llm-introspection/) develops the verified anchors and audits the inference at live-hypothesis tier.
 
 ### Auditing the Cross-Species Channel
 
@@ -239,19 +239,18 @@ Translations across substrates and tradition vocabularies are *interpretive* thr
 23. Kepecs, A. et al. (2020). Behavior- and modality-general representation of confidence in OFC. *Cell* 182(1): 112–126.
 24. Kohda, M. et al. (2019/2023/2025). Mark-test and self-face recognition in cleaner wrasse. *PLOS Biology*; *PNAS*; *Sci Reports*.
 25. Le Pelley, M. E. (2012). Metacognitive monkeys or associative animals? *J Exp Psych: Anim Behav Proc*.
-26. Lindsey, J. et al. (Anthropic, 2025). Emergent introspective awareness in LLMs. anthropic.com/research/introspection
-27. Lindsey, J. et al. (Anthropic, 2026). Introspection adapters. alignment.anthropic.com/2026/introspection-adapters/
-28. Al-Muḥāsibī (9th c.). *Kitāb al-Riʿāya*.
-29. Nisbett, R. E. & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review* 84(3): 231–259.
-30. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness* 2021(1), niab004.
-31. Robertson, D. (2019). *The Philosophy of Cognitive-Behavioural Therapy* (2nd ed.). Routledge.
-32. Schnider, A. (2008). *The Confabulating Mind: How the Brain Creates Reality*. Oxford University Press.
-33. Seneca (1st c. CE). *De Ira*.
-34. Shankara (8th c. CE). *Brahma Sūtra Bhāṣya* — Adhyāsa Bhāṣya.
-35. Smith, J. D. et al. (2021). Rats use memory confidence to guide decisions. *Current Biology* 31(20): 4571–4578.
-36. Sorabji, R. (2000). *Emotion and Peace of Mind*. OUP (Gifford Lectures).
-37. Stewart, C. (2005). Evagrius Ponticus and the eight generic *logismoi*. In Newhauser (ed.), *In the Garden of Evil*.
-38. Hahami, E., Jain, L., & Sinha, I. (2025). Feeling the strength but not the source: Partial introspection in LLMs. *arXiv* 2512.12411.
-39. Wheatley, T. & Haidt, J. (2005). Hypnotic disgust makes moral judgments more severe. *Psychological Science* 16(10): 780–784.
+26. Lindsey, J. (Anthropic, 2025). Emergent introspective awareness in LLMs. anthropic.com/research/introspection
+27. Al-Muḥāsibī (9th c.). *Kitāb al-Riʿāya*.
+28. Nisbett, R. E. & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review* 84(3): 231–259.
+29. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness* 2021(1), niab004.
+30. Robertson, D. (2019). *The Philosophy of Cognitive-Behavioural Therapy* (2nd ed.). Routledge.
+31. Schnider, A. (2008). *The Confabulating Mind: How the Brain Creates Reality*. Oxford University Press.
+32. Seneca (1st c. CE). *De Ira*.
+33. Shankara (8th c. CE). *Brahma Sūtra Bhāṣya* — Adhyāsa Bhāṣya.
+34. Smith, J. D. et al. (2021). Rats use memory confidence to guide decisions. *Current Biology* 31(20): 4571–4578.
+35. Sorabji, R. (2000). *Emotion and Peace of Mind*. OUP (Gifford Lectures).
+36. Stewart, C. (2005). Evagrius Ponticus and the eight generic *logismoi*. In Newhauser (ed.), *In the Garden of Evil*.
+37. Hahami, E., Jain, L., & Sinha, I. (2025). Feeling the strength but not the source: Partial introspection in LLMs. *arXiv* 2512.12411.
+38. Wheatley, T. & Haidt, J. (2005). Hypnotic disgust makes moral judgments more severe. *Psychological Science* 16(10): 780–784.
 
 Map-internal sources cited inline: [The Voids-Circularity Discount](/project/voids-circularity-discount/), [The Common-Cause Null in Convergence Arguments](/project/common-cause-null/), [The Surplus Void](/voids/the-surplus-void/).

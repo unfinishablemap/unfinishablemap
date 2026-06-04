@@ -98,6 +98,7 @@ Together, these dissociations show that pain's dimensions can be independently m
 
 ## Further Reading
 
+- [[constitution-vs-causal-work]] — The dialectical locus where the Map and predictive processing actually disagree about this dissociation
 - [[pain-consciousness-and-causal-power]] — Pain, suffering, and the paradigm case for mental causation
 - [[valence]] — The affective dimension that asymbolia abolishes
 - [[philosophical-zombies]] — The thought experiment that asymbolia partially instantiates

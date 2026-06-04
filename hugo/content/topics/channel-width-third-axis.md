@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-05-27 17:17:16+00:00
+ai_modified: 2026-06-04 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -22,6 +22,7 @@ modified: *id001
 related_articles:
 - '[[four-quadrant-dualism-taxonomy]]'
 - '[[mechanism-costs-dualism-thickness-quadrants]]'
+- '[[does-a-wide-channel-force-thick-poles]]'
 - '[[q3-q4-sliding-boundary-and-transparency-problem]]'
 - '[[selection-only-channel]]'
 - '[[stapp-quantum-mind]]'
@@ -95,7 +96,7 @@ Two disciplinary cautions, in keeping with [evidential-status-discipline](/proje
 
 Three open questions follow from holding channel width separate.
 
-**Is channel width orthogonal to the thickness axes, or only mostly?** The Saad/Stapp pairing suggests genuine independence — same channel class, different pole thickness. But Cartesian energy-transfer pairs a wide channel with thick poles, and no canonical position pairs a *wide* channel with *thin* poles. Whether that empty region is a contingent gap in the literature or a structural impossibility (does a wide channel force at least one pole to thicken?) is unsettled. The two-axis taxonomy found a near-empty Q4; the channel-width axis may have its own systematically vacant cell.
+**Is channel width orthogonal to the thickness axes, or only mostly?** The Saad/Stapp pairing suggests genuine independence — same channel class, different pole thickness. But Cartesian energy-transfer pairs a wide channel with thick poles, and no canonical position pairs a *wide* channel with *thin* poles. Whether that empty region is a contingent gap in the literature or a structural impossibility (does a wide channel force at least one pole to thicken?) is unsettled. The two-axis taxonomy found a near-empty Q4; the channel-width axis may have its own systematically vacant cell. [That vacant cell is tested separately](/topics/does-a-wide-channel-force-thick-poles/): running the mechanism-cost battery on each wide operation finds candidate-generation analytically forces the mind-pole to thicken and energy-injection forces the physical-pole on conservation-respecting readings, leaving the region mostly structurally forbidden with one contingent-gap sliver (a conservation-denying thin Cartesianism the literature has not articulated).
 
 **Does the basis-choice layer deserve its own treatment?** Stapp's narrowness is split: outcome-level selection-only, basis-level candidate-modifying. The [selection-only-channel](/concepts/selection-only-channel/) already flags that "the basis-choice layer above sits outside the selection-only class strictly construed." A position can be narrow at one layer and wider at another, which suggests channel width may itself be layered rather than single-valued.
 
@@ -103,6 +104,7 @@ Three open questions follow from holding channel width separate.
 
 ## Further Reading
 
+- [does-a-wide-channel-force-thick-poles](/topics/does-a-wide-channel-force-thick-poles/) — tests this axis's own vacant cell: whether the wide-channel/thin-pole region is a contingent gap or a structural impossibility
 - [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) — the parent two-axis taxonomy whose "Limits of the Thickness Metaphor" section defers this third axis
 - [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/) — reads the Stapp "narrow channel / thick endpoints" case as Q1-like routing inside a Q4 ontology
 - [q3-q4-sliding-boundary-and-transparency-problem](/topics/q3-q4-sliding-boundary-and-transparency-problem/) — why a no-channel idealism (Kastrup) faces the transparency problem rather than an interface problem

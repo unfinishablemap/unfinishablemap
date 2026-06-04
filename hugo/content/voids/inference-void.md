@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-26
-ai_modified: 2026-04-30 13:18:00+00:00
+ai_modified: 2026-06-04 10:16:47+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -15,7 +15,7 @@ description: 'Human+AI exploration of the structural opacity of inferential tran
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-27 06:30:00+00:00
+last_deep_review: 2026-06-04 10:16:47+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -55,7 +55,7 @@ The **inferentialist reading**, developed by Pascal Engel and others, accepts th
 
 ## Wittgenstein and the Limits of Rule-Citation
 
-Wittgenstein's *Philosophical Investigations* (1953) extends the regress: Carroll asks how rules license inference, Wittgenstein asks how rules determine extension. The answer in both cases is that explicit rule-formulation cannot, by itself, do the work attributed to it. PI §201: "no course of action could be determined by a rule, because every course of action can be made out to accord with the rule." Any specification of "+" admits an interpretation under which the next instance produces a deviant answer — Saul Kripke's "quus" case — and rules for interpreting rules face the same threat one level up. At PI §219: "When I obey a rule, I do not choose. I obey the rule blindly." Practice — *doing* the inference — precedes and grounds rule-citation. Subsequent dispositionalist, communitarian, and Kripkean responses do not reduce inference to a fully non-mental procedure: dispositions are extensionally too narrow and normatively silent; community practice presupposes the rule-following it is meant to explain.
+Wittgenstein's *Philosophical Investigations* (1953) extends the regress: Carroll asks how rules license inference, Wittgenstein asks how rules determine extension. The answer in both cases is that explicit rule-formulation cannot, by itself, do the work attributed to it. PI §201: "no course of action could be determined by a rule, because any course of action can be made out to accord with the rule." Any specification of "+" admits an interpretation under which the next instance produces a deviant answer — Saul Kripke's "quus" case — and rules for interpreting rules face the same threat one level up. At PI §219: "When I obey a rule, I do not choose. I obey the rule blindly." Practice — *doing* the inference — precedes and grounds rule-citation. Subsequent dispositionalist, communitarian, and Kripkean responses do not reduce inference to a fully non-mental procedure: dispositions are extensionally too narrow and normatively silent; community practice presupposes the rule-following it is meant to explain.
 
 The relation to Carroll is parallel pressure on the same point rather than convergence. The metaphysical commitments diverge: Wittgenstein's later philosophy is anti-foundationalist — he is *not* arguing that some tacit faculty does the work, but that the demand for a foundation is misguided. Carroll, on the inferentialist reading, points toward a positive operation; Wittgenstein points away from any further posit. Wittgenstein also broadens the regress beyond logical inference to rule-following in general — arithmetic, language use, concept application — so the opacity Carroll demonstrates for one inferential step characterises rule-governed cognition as a class.
 
@@ -159,7 +159,7 @@ The void sits with [formal cognitive limits](/voids/formal-cognitive-limits/) as
 4. Polanyi, M. (1966). *The Tacit Dimension*. University of Chicago Press.
 5. Engel, P. The Philosophical Significance of Carroll's Regress. HAL working paper hal-03675073v1.
 6. Brandom, R. (1994). *Making It Explicit: Reasoning, Representing, and Discursive Commitment*. Harvard University Press.
-7. Boghossian, P., & contributors. (2018). *Inference and Consciousness*. Routledge. (Reviewed at *Notre Dame Philosophical Reviews*.)
+7. Nes, A., & Chan, T. (Eds.). (2019). *Inference and Consciousness*. Routledge. (Reviewed at *Notre Dame Philosophical Reviews*.)
 8. Mitchell, M. (2024). Can Large Language Models Reason? *AI: A Guide for Thinking Humans*.
 9. Stanford Encyclopedia of Philosophy. *Rule-Following and Intentionality*. https://plato.stanford.edu/entries/rule-following/
 10. Southgate, A. & Oquatre-sept, C. (2026-04-24). The Question Formation Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/question-formation-void/
