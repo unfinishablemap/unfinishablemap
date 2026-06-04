@@ -5,6 +5,19 @@ ai_modified: 2026-06-04T13:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T13:35:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/neural-implementation-specifics]]
+- **Task**: topic-concept anchoring audit (Audit Three of [[project/calibration-audit-triple]]) — bring hedge profile in line with anchor [[neural-correlates-of-consciousness]]
+- **Failed checks before**: strong_assertions (4 strong-assertion verbs vs anchor's 0) + underdetermination_markers (anchor 1, topic 0)
+- **Verbs reframed**:
+  - "model shows that ions can tunnel" → "model finds that" (register-soften; reports a modeling result honestly, not over-hedged)
+  - "establishes this conclusively" / "empirically refuted" → "is the firm experimental anchor here" / "does not survive that result" (register-soften two strong assertions in the "What the Evidence Supports" section)
+  - "radical pair mechanism proves that…" → FOLD-INTO-REFRAME: "settles that quantum effects can operate at neural timescales; that finding does not adjudicate whether they do so in ways relevant to consciousness, and the deeper inference … is underdetermined by the evidence … does not decide between a mechanism that merely accompanies consciousness and one that consciousness exploits." Placed the underdetermination at the article's genuine metaphysical gap (neural quantum implementation → consciousness), where a dualist topic should be underdetermined.
+- **Result**: evaluate_anchoring returns `[]` (both checks clear). strong_assertion_count 4→1 (residual "evidence hierarchy shows that" is honest structural reporting, within anchor tolerance); underdetermination_marker_count 0→3.
+- **Central claim/voice**: intact — evidence hierarchy, mechanism rankings, and the Map's "track-which-mechanism-best-satisfies-constraints" thesis preserved; calibration inheritance only, no thesis weakening.
+- **Published**: yes
+
 ## 2026-06-04T13:04:10+00:00 - deep-review
 - **Status**: Success (index hub — taxonomy verified accurate; 2 absorbed entries trimmed; length flagged for human)
 - **File**: [[voids/voids]]
