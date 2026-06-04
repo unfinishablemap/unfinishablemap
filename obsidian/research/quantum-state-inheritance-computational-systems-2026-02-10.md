@@ -3,7 +3,7 @@ title: Research Notes - Quantum State Inheritance in Computational Systems
 created: 2026-02-10
 modified: 2026-02-10
 human_modified: null
-ai_modified: 2026-02-10T10:42:00+00:00
+ai_modified: 2026-06-04T01:13:09+00:00
 draft: false
 topics:
   - "[[quantum-consciousness]]"
@@ -81,12 +81,12 @@ last_curated: null
 - **Tenet alignment**: Strongly aligns with Dualism (consciousness as irreducible), Bidirectional Interaction (decisions as constitutive, not merely revelatory), and Occam's Razor Has Limits (reality beyond conception cannot be simplified away)
 - **Quote**: "Every quantum phenomenon...is unique: strictly individual and unrepeatable."
 
-### Quantum State Over Time Is Unique (Fullwood & Parzygnat, 2024)
+### Quantum State Over Time Is Unique (Lie & Ng, 2024)
 - **URL**: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033144
 - **Type**: Journal article (Physical Review Research)
 - **Key points**:
   - Standard quantum theory treats space and time asymmetrically—spatial correlations as states, temporal correlations as channels
-  - The Fullwood-Parzygnat formalism proves there is a unique representation of quantum states over time satisfying operational axioms
+  - Lie & Ng propose operational axioms that induce a unique representation of quantum states over time (the earlier Fullwood-Parzygnat axioms did not uniquely fix the state); the unique solution coincides with the Fullwood-Parzygnat construction
   - Enables systematic study of mixed states in temporal settings, crucial for modeling quantum non-Markovianity
   - Reveals new spatiotemporal correlations arising from synchronized propagation under time-reversal symmetry
   - Bridges the gap between spatial and temporal quantum descriptions
@@ -151,7 +151,7 @@ last_curated: null
 - **Relation to site tenets**: Strongly aligns with Dualism (consciousness cannot be copied because it is not merely physical information) and Bidirectional Interaction (decisions constitutively create phenomena rather than passively revealing pre-existing facts). The no-cloning theorem provides a physics-grounded argument for why consciousness might be non-fungible in ways that purely classical information is not.
 
 ### Quantum State Persistence / Temporal Identity
-- **Proponents**: Fullwood and Parzygnat (2024), Fitzsimons, Jones, Vedral (pseudo-density matrix formalism)
+- **Proponents**: Fullwood and Parzygnat (2022, originators of the states-over-time construction), Lie and Ng (2024, uniqueness result), Fitzsimons, Jones, Vedral (pseudo-density matrix formalism)
 - **Core claim**: Quantum states can be formalized "over time" in a unique way that treats temporal and spatial correlations symmetrically. The quantum state over time is unique given natural operational axioms. This provides a rigorous framework for how quantum identity persists across temporal evolution.
 - **Key arguments**: Resolves the asymmetry between spatial and temporal descriptions in quantum theory; uniqueness result constrains possible formalisms; enables study of non-Markovian dynamics and memory effects
 - **Relation to site tenets**: Neutral technically, but the uniqueness of quantum temporal identity resonates with the Map's commitment to indexical identity (No Many Worlds) and provides formal tools for understanding how conscious identity might persist through quantum state evolution.
@@ -204,7 +204,7 @@ last_curated: null
 | 2006 | Stapp publishes "Quantum Interactive Dualism" | Most detailed quantum dualist framework using orthodox QM |
 | 2019 | First experimental tests of quantum Darwinism | Confirms redundant environmental encoding of pointer states |
 | 2023 | Plotnitsky's "The No-Cloning Life" | Extends quantum uniqueness to cognitive/psychological domains |
-| 2024 | Fullwood & Parzygnat prove quantum state over time is unique | Formal uniqueness result for temporal quantum identity |
+| 2024 | Lie & Ng prove quantum state over time is unique | Formal uniqueness result for temporal quantum identity |
 | 2024 | Microsoft demonstrates 800x error improvement with logical qubits | Practical quantum error correction achieved |
 | 2025 | Microtubule-anesthesia experimental evidence | Physical evidence linking quantum states in brain to consciousness |
 | 2025 | Quantum-coherent identity preservation framework (bioRxiv) | Theoretical mechanism for biological quantum identity persistence |
@@ -237,11 +237,11 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 - Barrett, H.C., et al. (2021). Cross-cultural studies on intuitive dualism vs. materialism.
 - Bennett, C.H., et al. (1993). "Teleporting an unknown quantum state via dual classical and Einstein-Podolsky-Rosen channels." *Physical Review Letters*, 70(13), 1895.
-- Fullwood, J. & Parzygnat, A.J. (2024). "Quantum state over time is unique." *Physical Review Research*, 6, 033144. https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033144
+- Lie, S.H. & Ng, N.H.Y. (2024). "Quantum state over time is unique." *Physical Review Research*, 6, 033144. https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033144
 - Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65(6).
 - Lidar, D.A., Chuang, I.L., & Whaley, K.B. (1998). "Decoherence-free subspaces for quantum computation." *Physical Review Letters*, 81(12), 2594.
 - Penrose, R. & Hameroff, S. (1996). "Orchestrated reduction of quantum coherence in brain microtubules: A model for consciousness." *Mathematics and Computers in Simulation*, 40(3-4), 453-480.
-- Plotnitsky, A. (2023). "The No-Cloning Life: Uniqueness and Complementarity in Quantum and Quantum-like Theories." *Entropy*, 25(5), 793. https://pmc.ncbi.nlm.nih.gov/articles/PMC10217492/
+- Plotnitsky, A. (2023). "The No-Cloning Life: Uniqueness and Complementarity in Quantum and Quantum-like Theories." *Entropy*, 25(5), 706. https://pmc.ncbi.nlm.nih.gov/articles/PMC10217492/
 - Stapp, H.P. (2006). "Quantum interactive dualism: An alternative to materialism." *Zygon*, 41(3), 599-616. https://www-physics.lbl.gov/~stapp/QID.pdf
 - Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194.
 - Wootters, W.K. & Zurek, W.H. (1982). "A single quantum cannot be cloned." *Nature*, 299, 802-803.

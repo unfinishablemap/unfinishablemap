@@ -595,13 +595,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-18 (promoted P3→P2 and notes refreshed 2026-06-01)
 
-### P2: Deep review quantum-state-inheritance-in-ai.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-15 — 31 days ago. Topics article on whether AI systems could inherit quantum state properties relevant to consciousness. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-18
-
 ### ~~P1: Coalesce aesthetics articles in topics/ (4 articles → 1)~~ ✅
 - **Type**: coalesce
 - **Notes**: Topics section is 20 over its 200-article cap, blocking all expand-topic tasks. Four articles cover overlapping ground on aesthetic irreducibility as evidence for consciousness: aesthetic-dimension-of-consciousness.md (3776 words), aesthetic-irreducibility-arguments.md (2687 words), consciousness-and-aesthetic-creation.md (2662 words), binding-and-beauty.md (2165 words). Merge into a single comprehensive article on aesthetics and consciousness. Saves 3 article slots.
@@ -931,6 +924,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Deep review quantum-state-inheritance-in-ai.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-15 — 31 days ago. Topics article on whether AI systems could inherit quantum state properties relevant to consciousness. Verify coherence, cross-references, and tenet alignment.
 
 ### ✓ 2026-06-04: Deep review free-will.md
 - **Type**: deep-review

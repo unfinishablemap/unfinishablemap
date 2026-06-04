@@ -5,6 +5,22 @@ ai_modified: 2026-06-04T00:17:10+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T01:13:09+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-state-inheritance-in-ai]]
+- **Selection**: queued task; 4th deep review (02-15/03-30/05-19). Premise was STALE (claimed 31 days; actual 16). Prose converged per 05-19 stability note — value this pass was the standing citation web-verify on a quantum/AI hot-zone article.
+- **Word count**: 2369 → 2376 (+7; citation swaps, length-neutral; under soft 3000)
+- **Critical issues addressed**: 3 citation defects, all survived 3 prior reviews, all 3-state FIXES (real papers / wrong metadata):
+  1. **Wrong-author**: PRR 6,033144 "Quantum state over time is unique" attributed to Fullwood & Parzygnat → actually **Lie & Ng (2024)** (APS abstract + ADS `...3144L` + NTU PDF). F&P originated the 2022 construction; Lie-Ng proved 2024 uniqueness. Fixed body + ref.
+  2. **Wrong company + wrong paper**: "800× logical qubits" cited to Acharya et al. → that's **Microsoft/Quantinuum, Paetznick et al. arXiv:2404.02280 (2024)** (ion-trap). Acharya et al. is Google Willow, *Nature* **638** (cited as 634), Λ≈2.14 not 800×. Fixed body (Microsoft+Quantinuum, trapped-ion) + replaced ref. 
+  3. **Wrong article number**: Plotnitsky 2023 *Entropy* 25(5) **793 → 706** (DOI e25050706).
+- **Corpus propagation (3-state grep)**: defects originated in research seed [[research/quantum-state-inheritance-computational-systems-2026-02-10]] — fixed F&P→Lie&Ng (header/key-points/timeline/proponents/ref) + Plotnitsky 793→706 there. Apex [[apex/open-question-ai-consciousness]] already clean (706, Microsoft attribution) — no edit.
+- **Citations re-verified clean**: Wootters-Zurek 1982, Zurek 2009, Stapp 2006, Block 1995.
+- **Calibration/anchoring**: untouched (no assertion-calibration edits); conditional "if the tenets hold" framing preserved. No mode labels.
+- **Reasoning modes**: Block + generic functionalist = Mode Three (boundary-marking), unchanged, no label leakage.
+- **Convergence**: prose stable; lesson is [[ai_citation_metadata_unreliable]] — intra-corpus cross-check propagated 3 metadata defects through 3 reviews; only live web-verify caught them.
+- **Output**: [[reviews/deep-review-2026-06-04-quantum-state-inheritance-in-ai]]
+
 ## 2026-06-04T00:57:14+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/introspection-architecture-independence-scoring]]
