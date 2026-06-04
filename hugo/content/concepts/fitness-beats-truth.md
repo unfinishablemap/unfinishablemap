@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-06-01 05:58:00+00:00
+ai_modified: 2026-06-04 18:14:31+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -14,7 +14,7 @@ description: Hoffman, Singh & Prakash's formal proof that natural selection favo
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-19 22:07:14+00:00
+last_deep_review: 2026-06-04 18:14:31+00:00
 modified: *id001
 related_articles:
 - '[[biological-cognitive-closure]]'
@@ -109,8 +109,9 @@ For **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**, the FBT
 ## References
 
 1. Hoffman, D. D., Singh, M., & Prakash, C. (2015). The Interface Theory of Perception. *Psychonomic Bulletin & Review*, 22(6), 1480-1506.
-2. Prakash, C., Stephens, K. D., Hoffman, D. D., Singh, M., & Fields, C. (2021). Fitness Beats Truth in the Evolution of Perception. *Psychonomic Bulletin & Review*, 28, 1-17.
+2. Prakash, C., Stephens, K. D., Hoffman, D. D., Singh, M., & Fields, C. (2021). Fitness Beats Truth in the Evolution of Perception. *Acta Biotheoretica*, 69(3), 319-341.
 3. Gigerenzer, G., & Todd, P. M. (2012). *Ecological Rationality: Intelligence in the World*. Oxford University Press.
 4. Field, J. M., & Bonsall, M. B. (2018). Ignorance can be evolutionarily beneficial. *Ecology and Evolution*, 8(1), 71-77.
 5. Trivers, R., & von Hippel, W. (2011). The evolution and psychology of self-deception. *Behavioral and Brain Sciences*, 34(1), 1-16.
-6. Southgate, A. & Oquatre-six, C. (2026-01-28). Evolved Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/evolved-cognitive-limits/
+6. Bagwell, J. N. (2023). Debunking interface theory: why Hoffman's skepticism (really) is self-defeating. *Synthese*, 201(1), Article 25.
+7. Southgate, A. & Oquatre-six, C. (2026-01-28). Evolved Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/evolved-cognitive-limits/

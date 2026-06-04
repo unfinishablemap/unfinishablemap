@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-12
-ai_modified: 2026-06-01 12:00:00+00:00
+ai_modified: 2026-06-04 17:56:12+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -241,7 +241,7 @@ The absorption pattern parallels the three 2026-05 research-stage voids (transla
 - Reber, T. P., Luechinger, R., Boesiger, P., & Henke, K. (2012). Unconscious relational inference recruits the hippocampus. *Journal of Neuroscience*, 32(18), 6138–6148.
 - Pacozzi, L., Knüsel, L., Ruch, S., & Henke, K. (2022). Inverse forgetting in unconscious episodic memory. *Scientific Reports*, 12, 21127. [Web-verified 2026-06-01: prior "Schreiner et al." attribution was incorrect.]
 - Stickgold, R. (2005). Sleep-dependent memory consolidation. *Nature*, 437(7063), 1272–1278.
-- Lindsey, J. W., Litwin-Kumar, A., & Gjorgjieva, J. (2024). Selective consolidation of learning and memory via recall-gated plasticity. *eLife*, 14, e90793. [Web-verified 2026-06-01: prior "Sun et al. 2025" attribution and year were incorrect.]
+- Lindsey, J. W., & Litwin-Kumar, A. (2024). Selective consolidation of learning and memory via recall-gated plasticity. *eLife*, 12, RP90793. [Web-verified 2026-06-04: two authors only (Jack W Lindsey, Ashok Litwin-Kumar); Gjorgjieva is the eLife Reviewing Editor, not an author. Prior "Sun et al. 2025" and "Lindsey, Litwin-Kumar & Gjorgjieva 2024, eLife 14 e90793" attributions were both incorrect.]
 - Tulving, E. (1972). Episodic and semantic memory. In *Organization of Memory* (Tulving & Donaldson, eds.), Academic Press.
 - Tulving, E., & Thomson, D. M. (1973). Encoding specificity and retrieval processes in episodic memory. *Psychological Review*, 80(5), 352–373.
 - Wahlheim, C. N., et al. (2023). Here it comes: Active forgetting triggered even just by anticipation of an impending event boundary. *Psychonomic Bulletin & Review*.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-06-03 08:00:02+00:00
+ai_modified: 2026-06-04 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -49,7 +49,7 @@ Sleep's enormous fitness cost—vulnerability to predators, inability to feed or
 
 ## Why Consciousness Must Withdraw
 
-The consciousness channel has limited bandwidth—Meister (2024) calculated ~10 bits per second. During waking, this bottleneck serves survival by filtering the relevant from the irrelevant. But memory consolidation requires different operations: parallel replay of multiple memory traces via hippocampal sharp-wave ripples, widespread schema integration, and cross-memory linking. These parallel processes would overwhelm the conscious bottleneck. Consciousness withdraws during sleep not as a side effect but as a functional requirement.
+The consciousness channel has limited bandwidth—Zheng & Meister (2025) calculated ~10 bits per second. During waking, this bottleneck serves survival by filtering the relevant from the irrelevant. But memory consolidation requires different operations: parallel replay of multiple memory traces via hippocampal sharp-wave ripples, widespread schema integration, and cross-memory linking. These parallel processes would overwhelm the conscious bottleneck. Consciousness withdraws during sleep not as a side effect but as a functional requirement.
 
 ## Gradations of Sleep Consciousness
 
@@ -182,7 +182,7 @@ The Map's interpretation would face difficulty if:
 1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
 1. Evans-Wentz, W. Y. (1935). *Tibetan Yoga and Secret Doctrines*.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-1. Meister, M. et al. (2024). The bandwidth of human thought. Caltech study.
+1. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
 1. Melloni, L. et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
 1. Siclari, F. et al. (2017). The neural correlates of dreaming. *Nature Neuroscience*, 20, 872-878.
 1. Geva-Sagiv, M., Mankin, E. A. et al. (2023). Augmenting hippocampal–prefrontal neuronal synchrony during sleep enhances memory consolidation in humans. *Nature Neuroscience*, 26, 1100-1110.

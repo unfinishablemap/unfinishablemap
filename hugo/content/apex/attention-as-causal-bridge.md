@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-06-02 18:09:08.000014+00:00
+ai_modified: 2026-06-04 18:15:00+00:00
 ai_system: claude-opus-4-6
-apex_last_synthesis: 2026-05-14 23:55:00+00:00
+apex_last_synthesis: 2026-06-04 17:36:19+00:00
 apex_sources:
 - concepts/attention-as-interface
 - concepts/mental-effort
@@ -29,7 +29,7 @@ description: How does consciousness act on matter? Through attention—a bandwid
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-19 12:00:00+00:00
+last_deep_review: 2026-06-04 17:36:19+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -192,7 +192,7 @@ A second candid limitation concerns falsifiability. Most of the conditions that 
 1. Rizzolatti, G., Riggio, L., & Sheliga, B.M. (1994). Space and selective attention. In C. Umiltà & M. Moscovitch (Eds.), *Attention and Performance XV* (pp. 231-265). MIT Press.
 1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
-1. Sjöberg, R.L. (2024). The readiness potential and the soul. *Brain*, 147(7), 2267-2274.
+1. Sjöberg, R.L. (2024). The readiness potential and the soul. *Brain*, 147(7), 2267-2269.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
 1. Fine, J.M. & Hayden, B.Y. (2022). The whole prefrontal cortex is premotor cortex. *Philosophical Transactions of the Royal Society B*, 377(1844), 20200524.

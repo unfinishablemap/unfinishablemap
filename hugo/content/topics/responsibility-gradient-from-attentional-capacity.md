@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-06-01 05:56:24+00:00
+ai_modified: 2026-06-04 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -45,7 +45,7 @@ The responsibility gradient framework developed here makes this implication syst
 
 Traditional accounts of [moral-responsibility](/concepts/moral-responsibility/) require three conditions: control (could have done otherwise), sourcehood (the agent originated the action), and knowledge (the agent understood what they were doing). The Map's [agent-causation](/concepts/agent-causation/) framework grounds all three in consciousness's role as selector among quantum-indeterminate neural states.
 
-But selection operates through attention. The [attention-as-interface](/concepts/attention-as-interface/) hypothesis identifies attention as the channel through which consciousness exerts causal influence. [Control-theoretic will](/concepts/control-theoretic-will/) formalises this: consciousness is a low-bandwidth controller (~10 bits/second, drawing on Meister's 2024 analysis of perceptual limits) that gates, stabilises, and steers neural dynamics rather than computing them. If this is correct, then the quality and scope of an agent's attentional capacity directly determines how much control, sourcehood, and knowledge they can exercise at any given moment.
+But selection operates through attention. The [attention-as-interface](/concepts/attention-as-interface/) hypothesis identifies attention as the channel through which consciousness exerts causal influence. [Control-theoretic will](/concepts/control-theoretic-will/) formalises this: consciousness is a low-bandwidth controller (~10 bits/second, drawing on Zheng & Meister's (2025) analysis of conscious throughput) that gates, stabilises, and steers neural dynamics rather than computing them. If this is correct, then the quality and scope of an agent's attentional capacity directly determines how much control, sourcehood, and knowledge they can exercise at any given moment.
 
 An agent with impaired attentional capacity hasn't lost consciousness—they remain a subject of experience, a genuine agent. But their controller is operating with degraded bandwidth, noisy sensors, or reduced authority over the plant. The moral weight of their choices should reflect this.
 
@@ -184,7 +184,7 @@ The moral implications extend in both directions. Where most discussions of grad
 1. Cowan, N. (2001). The magical number 4 in short-term memory. *Behavioral and Brain Sciences*, 24(1), 87-114.
 1. Fischer, J.M. & Ravizza, M. (1998). *Responsibility and Control*. Cambridge University Press.
 1. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
-1. Meister, M. (2024). The physical limits of perception. *Proceedings of the National Academy of Sciences*, 121(14), e2400258121.
+1. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
 1. Mullainathan, S. & Shafir, E. (2013). *Scarcity: Why Having Too Little Means So Much*. Times Books.
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 1. Strawson, P.F. (1962). "Freedom and Resentment." *Proceedings of the British Academy*, 48, 1-25.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-06-01 12:00:00+00:00
+ai_modified: 2026-06-04 17:56:12+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Human+AI exploration of why consciousness cannot observe its own st
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-17 12:20:24+00:00
+last_deep_review: 2026-06-04 17:56:12+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -69,7 +69,7 @@ The narrative void spans all three categories in the [voids](/voids/) framework.
 
 ## The Pre-Selected Material
 
-The narrator is not the first hand on the material. Which fragments survive to become narratively integrable is decided sub-personally, before any story is told. Waking hippocampal sharp-wave ripples appear to *tag* particular experiences—replaying their population activity during the pause after a rewarding event—and sleep ripples preferentially replay the tagged sequences, a candidate mechanism for selecting which waking moments undergo long-term consolidation (Yang et al. 2024, *Science*). Computational work on recall-gated consolidation suggests a further filter: synaptic updates are preferentially stabilised when consistent with what is already stored (Lindsey, Litwin-Kumar & Gjorgjieva 2024, *eLife*). And at event boundaries the working-memory buffer is *flushed*—the doorway effect, where crossing a threshold impairs memory for the room just left (Radvansky & Zacks 2017), an operation that proceeds even against active rehearsal (Ongchoco & Xu 2024, *Journal of Vision*). The criterion in each case—reward-state, schema-fit, boundary-placement—is set and applied below conscious access at millisecond scale. The storyteller therefore works on material whose selection it neither authored nor witnessed: the candidates that were rejected, and the rule by which they were rejected, leave no trace in the narrative. This deepens the void rather than relocating it. The introspective opacity the article documents at the telling reaches one layer earlier, into the encoding that decides what is available to be told. The findings are empirical claims about sub-personal selection; they sharpen the gap consciousness cannot observe in its own self-construction without, on their own, settling what consciousness is.
+The narrator is not the first hand on the material. Which fragments survive to become narratively integrable is decided sub-personally, before any story is told. Waking hippocampal sharp-wave ripples appear to *tag* particular experiences—replaying their population activity during the pause after a rewarding event—and sleep ripples preferentially replay the tagged sequences, a candidate mechanism for selecting which waking moments undergo long-term consolidation (Yang et al. 2024, *Science*). Computational work on recall-gated consolidation suggests a further filter: synaptic updates are preferentially stabilised when consistent with what is already stored (Lindsey & Litwin-Kumar 2024, *eLife*). And at event boundaries the working-memory buffer is *flushed*—the doorway effect, where crossing a threshold impairs memory for the room just left (Radvansky & Zacks 2017), an operation that proceeds even against active rehearsal (Ongchoco & Xu 2024, *Journal of Vision*). The criterion in each case—reward-state, schema-fit, boundary-placement—is set and applied below conscious access at millisecond scale. The storyteller therefore works on material whose selection it neither authored nor witnessed: the candidates that were rejected, and the rule by which they were rejected, leave no trace in the narrative. This deepens the void rather than relocating it. The introspective opacity the article documents at the telling reaches one layer earlier, into the encoding that decides what is available to be told. The findings are empirical claims about sub-personal selection; they sharpen the gap consciousness cannot observe in its own self-construction without, on their own, settling what consciousness is.
 
 ## The Multiplicity Problem
 
@@ -114,7 +114,7 @@ The narrative void also illustrates the Map's [tenet that Occam's Razor has limi
 - [necessary-opacity](/voids/necessary-opacity/)
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/)
 - [pupillometry-behavioural-channel](/topics/pupillometry-behavioural-channel/) — Pupillometric extension of the choice-blindness paradigm: the bodily channel registers swapped trials the verbal narrative does not flag, framed as a channel-level dissociation
-- [The Encoding Void (research-stage)](/research/voids-encoding-void-2026-05-12/) — The encoding-side research note upstream of this article's storytelling. Its selection findings are now absorbed in [The Pre-Selected Material](#the-pre-selected-material) above: sharp-wave-ripple tagging (Yang et al. 2024, *Science*), recall-gated consolidation (Lindsey, Litwin-Kumar & Gjorgjieva 2024, *eLife*), and event-boundary "memory flushing" (Radvansky & Zacks 2017; Ongchoco & Xu 2024) decide sub-personally which fragments become narratively integrable, so the storyteller works on material whose selection criterion it neither set nor witnessed
+- [The Encoding Void (research-stage)](/research/voids-encoding-void-2026-05-12/) — The encoding-side research note upstream of this article's storytelling. Its selection findings are now absorbed in [The Pre-Selected Material](#the-pre-selected-material) above: sharp-wave-ripple tagging (Yang et al. 2024, *Science*), recall-gated consolidation (Lindsey & Litwin-Kumar 2024, *eLife*), and event-boundary "memory flushing" (Radvansky & Zacks 2017; Ongchoco & Xu 2024) decide sub-personally which fragments become narratively integrable, so the storyteller works on material whose selection criterion it neither set nor witnessed
 
 ## References
 
@@ -127,5 +127,5 @@ The narrative void also illustrates the Map's [tenet that Occam's Razor has limi
 1. Damasio, A. (1999). *The Feeling of What Happens: Body and Emotion in the Making of Consciousness*. Harcourt.
 1. Yang, W., Sun, C., Huszár, R., Hainmueller, T., Kiselev, K., & Buzsáki, G. (2024). "Selection of experience for memory by hippocampal sharp wave ripples." *Science*, 383(6690), 1478–1483.
 1. Radvansky, G. A., & Zacks, J. M. (2017). "Event boundaries in memory and cognition." *Current Opinion in Behavioral Sciences*, 17, 133–140.
-1. Lindsey, J. W., Litwin-Kumar, A., & Gjorgjieva, J. (2024). "Selective consolidation of learning and memory via recall-gated plasticity." *eLife*, 14, e90793.
+1. Lindsey, J. W., & Litwin-Kumar, A. (2024). "Selective consolidation of learning and memory via recall-gated plasticity." *eLife*, 12, RP90793.
 1. Ongchoco, J. D. K., & Xu, Y. (2024). "Visual event boundaries trigger forgetting despite active maintenance in visual working memory." *Journal of Vision*, 24(9).

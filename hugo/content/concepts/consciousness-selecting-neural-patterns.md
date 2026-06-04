@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-05-27 00:00:00+00:00
+ai_modified: 2026-06-04 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -79,7 +79,7 @@ In Stapp's formulation, the subject poses a question to nature ("Is neural patte
 
 ## The Bandwidth Constraint
 
-Conscious selection faces a severe bottleneck. The [asymmetric bandwidth of consciousness](/concepts/consciousness-bandwidth-architecture/) quantifies the gap: recent research (Meister, 2024) found conscious thought operates at approximately 10 bits per second—five million times slower than unconscious sensory processing (~10⁹ bits/second). This "trickle" reflects evolution's logic: the brain focuses selectively on what matters rather than processing everything at once.
+Conscious selection faces a severe bottleneck. The [asymmetric bandwidth of consciousness](/concepts/consciousness-bandwidth-architecture/) quantifies the gap: recent research (Zheng & Meister, 2025) found conscious thought operates at approximately 10 bits per second—five million times slower than unconscious sensory processing (~10⁹ bits/second). This "trickle" reflects evolution's logic: the brain focuses selectively on what matters rather than processing everything at once.
 
 This explains why selection is policy-level: at ~10 bits/second, consciousness selects "raise arm" not "fire neuron N₂₃₄₅₆." The quantum mechanism implements the selected policy; individual neural events fall out from the chosen pattern. This coarse-grained allocation—detail concentrating where consciousness attends—is what the Map calls [adaptive computational depth](/concepts/adaptive-computational-depth/).
 
@@ -195,7 +195,7 @@ The Map should not claim selection within Born probabilities constitutes a testa
 1. Engel, G. S., Calhoun, T. R., Read, E. L., Ahn, T.-K., Mančal, T., Cheng, Y.-C., Blankenship, R. E., & Fleming, G. R. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446(7137), 782-786.
 1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*.
 1. d'Espagnat, B. (1976). *Conceptual Foundations of Quantum Mechanics* (2nd ed.). Benjamin.
-1. Meister, M. et al. (2024). The bandwidth of human thought. *Caltech*.
+1. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
 1. Schlosshauer, M. (2004). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics*, 76(4), 1267. arXiv:quant-ph/0312059.
 1. Schwartz, J.M. et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of OCD. *Archives of General Psychiatry*, 53(2), 109-113.
 1. Stanford Encyclopedia of Philosophy. Quantum Approaches to Consciousness.

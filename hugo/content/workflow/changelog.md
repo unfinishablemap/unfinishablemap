@@ -1,13 +1,199 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04 16:05:57+00:00
+ai_modified: 2026-06-04 18:46:57+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-04'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-04T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **Task**: MULTI-FILE fabricated-citation fix (from attentional-economics deep-review 2026-06-04). Class: ai_citation_metadata_unreliable. Independently web-verified: "Meister, M. (2024). The physical limits of perception. *PNAS*, 121(14), e2400258121" DOES NOT EXIST; real source is Zheng, J. & Meister, M. (2025). The unbearable slowness of being. *Neuron*, 113(2), 192-204.
+- **Canonical replacement form**: "Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204."
+- **Files fixed (5; 1 MORE than the 4 specified — grep surfaced an extra)**:
+  - `concepts/attention-as-interface.md`: DELETED duplicate bad ref (was #11 "Meister, M. (2024)… PNAS") — the correct Zheng & Meister 2025 cite already existed at #24; renumbered ref entries 12→11 through 26→25 to keep the numbered list contiguous. Body uses author-year ("Zheng and Meister (2025)"), not ref-numbers, so no in-text pointer broke.
+  - `concepts/sleep-and-consciousness.md`: inline "Meister (2024)" → "Zheng & Meister (2025)"; ref "Meister, M. et al. (2024). The bandwidth of human thought. Caltech study." → canonical Neuron form.
+  - `topics/responsibility-gradient-from-attentional-capacity.md`: inline "Meister's 2024 analysis of perceptual limits" → "Zheng & Meister's (2025) analysis of conscious throughput"; ref (fabricated PNAS form) → canonical Neuron form.
+  - `concepts/consciousness-selecting-neural-patterns.md` (EXTRA file, not in task spec — found by grep): inline "(Meister, 2024)" → "(Zheng & Meister, 2025)"; ref "Meister, M. et al. (2024). The bandwidth of human thought. *Caltech*." → canonical Neuron form.
+- **stapp-quantum-mind.md**: NO EDIT NEEDED. The pessimistic-2026-05-25 orphan-ref flag is already resolved — both inline (line 89) and ref (line 205) already carry the correct "Zheng & Meister (2025)" Neuron form.
+- **Grep-confirm**: `grep -rniE 'meister.*2024|physical limits of perception|bandwidth of human thought' obsidian/{topics,concepts,voids,apex}` returns 0 matches. All remaining Meister mentions are the canonical Zheng & Meister 2025 Neuron form, Baumeister (a different author), or Meister Eckhart (the mystic).
+- **Length-neutral**: yes; citation-only correction, no other content altered.
+- **Published**: yes
+
+## 2026-06-04T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [attentional-economics](/concepts/attentional-economics/)
+- **Word count**: 2716 → 2722 (+6; citation correction added co-author/title; soft_warning band preserved, under 3500 hard)
+- **Diff-scope**: OWN-CONTENT, changed-since-review (~9d settled gap; ai_modified 2026-05-28, not today). 5th deep review. The only content change since the 2026-05-19 review was commit 35ea8cbc5 (2026-05-28), which added a load-bearing CAUSAL claim grounding attentional scarcity in [interface-friction](/concepts/interface-friction/) under the "Bandwidth limits" bullet — the diff-first audit target.
+- **New causal claim**: PASS. "The scarcity… is, on the Map's reading, downstream of interface friction… Friction supplies the *why* behind the scarcity this whole framework prices." Properly scoped as Map *interpretation* (not empirical upgrade); underdetermination left at the genuine inference (interface-friction vs physical resource-limit). Seam with [interface-friction](/concepts/interface-friction/) COHERENT + RECIPROCATED (interface-friction.md line 75 carries the near-exact reciprocal + links back; its line-41 "interpretive value, no distinct predictions" caveat is inherited, not bypassed). No possibility→probability slippage.
+- **Web-verify by class**: 1 CRITICAL DEFECT FOUND + FIXED — "Meister, M. (2024). The physical limits of perception. PNAS, 121(14), e2400258121" is FABRICATED metadata (title/article-number do not resolve at PNAS); real source is **Zheng, J. & Meister, M. (2025). The unbearable slowness of being. *Neuron*, 113(2), 192-204** (arXiv 2408.10234). 3-state: REAL-PAPER-WRONG-METADATA → FIXED inline + ref-list to canonical corpus form. PROPAGATION-PRONE: same bad cite in 4 live siblings (attention-as-interface line 266 [inconsistent w/ its own correct line 279], sleep-and-consciousness 50/183, responsibility-gradient 45/184, stapp-quantum-mind orphan-ref) → grounded P2 follow-on queued. Inoue & Matsuzawa 2007 (Curr Biol 17(23) R1004-R1005) VERIFIED. Suddendorf & Corballis 2007 (BBS 30(3) 299-313) VERIFIED. Schwartz & Begley 2002 + Stapp 2007 (books) correct; n=18/no-replication caveat preserved.
+- **Calibration**: new causal claim NOT over-reaching; honestly conditioned on the Map's reading. Anchoring: evaluate_anchoring clean before/after.
+- **Critical issues addressed**: 1 (fabricated citation). **Medium**: 0. **Enhancements**: 1.
+- **Output**: [deep-review-2026-06-04-attentional-economics](/reviews/deep-review-2026-06-04-attentional-economics/)
+- **Follow-on**: P2 refine-draft queued — fix fabricated Meister/PNAS cite across 4 live siblings.
+
+## 2026-06-04T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/)
+- **Word count**: 2842 → 2842 (no edits; license-to-no-op converged. 95% of 3000 soft, under hard)
+- **Diff-scope**: OWN-CONTENT bucket, changed-since-review (~8d gap; ai_modified 2026-06-03, not today). 6th deep review. Two calibration-direction refines landed since last review (commit d0328cb1f): (1) `e730084ce` 2026-05-27 added a DMN/meditator structural-plasticity sentence + `[[default-mode-network]]` frontmatter/Further-Reading — a NEW empirical claim used as ratchet analogy; (2) `e953e4484` 2026-06-03 added the DMN/underdetermination passage ("one candidate interpretation among several… not forced over a consciousness-free predictive-coding account") + intro "outruns" → "appears to outrun".
+- **Web-verify by class (DMN/predictive-coding focus)**: DMN/meditator structural-change claim (new, uncited) — VERIFIED true (multiple neuroimaging studies: structural changes in posterior cingulate/precuneus/TPJ; reduced DMN connectivity in long-term meditators); source-conclusion fidelity sound, deployed honestly as analogy not causation. Ahissar & Hochstein 2004 (TICS 8(10):457-464) CORRECT. Clark 2013 (BBS 36(3):181-204) CORRECT. Land 1977 (Sci Am 237(6):108-128) CORRECT. Goldstone 1994 (JEP:Gen 123(2):178-200) CORRECT. Seitz & Watanabe 2005 (TICS 9(7):329-334) CORRECT. No fabrication / wrong-metadata; no corpus-propagation seam. Remaining stable books/papers verified across 4 prior reviews; new content carried no new citation.
+- **Calibration**: Both new passages pass §2 diagnostic test — NO possibility→probability slippage. Underdetermination passage is correct-direction (defeater-removal, declines evidence-upgrade) and does not over-hedge a demonstrated finding. DMN analogy inherits the Bidirectional-Interaction tenet paragraph's honest "fully describable in brain-side terms… the Map's interpretation, not a measurement that compels it" pinning. Seam-check: intro "appears to outrun" consistent with body.
+- **Anchoring**: evaluate_anchoring clean before/after (no flags).
+- **Engagement modes (editor-internal)**: unchanged from 2026-05-26 — enactivism Mode Two→Three; physicalism Mode Two; parsimony Mode Two. No label leakage.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; timestamps only)
+- **Output**: [deep-review-2026-06-04-consciousness-as-perceptual-architect](/reviews/deep-review-2026-06-04-consciousness-as-perceptual-architect/)
+
+## 2026-06-04T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)
+- **Word count**: 3283 → 3283 (no edits; integration-coherence no-op. 109% of 3000 soft, under hard 4000)
+- **Diff-scope**: INTEGRATION bucket, changed-since-review (gap ~13d; ai_modified 2026-05-31, not today). 4th deep review. Two single-sentence inbound integrations landed 2026-05-31: (1) reciprocal cross-link to [phenomenology-of-intellectual-courage](/topics/phenomenology-of-intellectual-courage/) in Evidence-and-Compulsion (commit 1c0789062); (2) cross-link to [quiddity-epiphenomenalism-and-the-contingency-thesis](/concepts/quiddity-epiphenomenalism-and-the-contingency-thesis/) in Against-Reduction (commit bc51dbf7d). Scope = integration-coherence + seam + web-verify, not own-content development.
+- **Integration-coherence**: BOTH CLEAN. (a) Accurate representation — courage sentence's "social-epistemic specialisation of this texture" matches the target's own self-characterisation; quiddity sentence's "same worry recurs on a different substrate... threatens grounded quiddities rather than intellectual phenomenology" accurately parallels the contingency-thesis target without conflation. (b) Both targets exist + reciprocate (load-bearing). (c) No seam — both sentences sit naturally in their host paragraphs; no inconsistency or editor-vocabulary leakage introduced.
+- **Web-verify by class**: integrations introduced NO new citations (the Howell 2015 quiddity cite lives in the target, not here). Re-verified the 2 load-bearing empirical anchors at publisher of record: Pitt (2004) PPR 69(1) 1–36 — CORRECT (title/vol/pages verbatim, minimal-pair argument matches); Kounios & Beeman (2014) Annu Rev Psychol 65:71–93 DOI 10.1146/annurev-psych-010213-115154 — CORRECT. No fabrication / wrong-author-year-page / quote drift. Prior review's full attribution table stands (no body change reopened it).
+- **Calibration**: PCT = phenomenological-constitution claims, not graded minimal-organism probability claims → 5-tier scale doesn't load-bear (consistent w/ 2026-05-22). New sentences are structural-relation claims, no possibility→probability slippage. No calibration error.
+- **Anchoring**: evaluate_anchoring NO FLAGS before and after.
+- **Outcome**: CONVERGED — license-to-no-op exercised (re-read + web-verified, no manufactured edits). Updated last_deep_review + ai_modified (UTC). No follow-on tasks.
+- **Output**: [deep-review-2026-06-04-phenomenology-of-intellectual-life](/reviews/deep-review-2026-06-04-phenomenology-of-intellectual-life/)
+
+## 2026-06-04T18:46:57+00:00 - deep-review
+- **Status**: Success
+- **File**: [global-workspace-theory](/concepts/global-workspace-theory/)
+- **Word count**: 2300 → 2300 (length-neutral; 92% of 2500 soft, under hard)
+- **Diff-scope**: changed-since-review (gap 11d; ai_modified 2026-06-03, not today). 6th deep review. Intervening change was a post-05-23-review citation-correction sweep (4 refs rewritten) + Baddeley source/Map-separation fix. Scope = citation re-verification + corpus-wide seam check, not restructuring.
+- **Web-verify by class (publisher 3-state / source-conclusion / author)**: ALL 6 refs web-verified CORRECT. Streicher et al. 2025 (niaf042) — confirmed, prior "Randeniya" author fixed correctly. DeWall et al. 2008 — confirmed incl 17(3),628-645 volume fix (was 17(2) under "Lieberman"). Gruber et al. 2015 — confirmed Jourdain-Hypothesis author, prior "Whiten" fixed correctly. Nartker et al. 2025 eLife RP100337 — confirmed, source-conclusion honest. COGITATE 2025 Nature — confirmed; enriched ref w/ verified 642(8066),133-142. Cowan 2001 BBS 24:87-114 — confirmed. KEY FINDING: the 05-23 review's attribution check was a FALSE CLEAN — it declared 4 now-corrected cites "all correctly attributed"; the later fork fixes were the real corrections (ai_citation_metadata_unreliable pattern). Re-verify mandate paid off: all 4 fork fixes verified GENUINELY correct this time.
+- **Seam-check (corpus-wide grep)**: BOTH seams CLEAN. niaf042/Streicher across 7 content files — all correct authorship (no surviving Randeniya). Jourdain Hypothesis uniformly = Gruber et al. 2015 across cumulative-culture/baseline-cognition/jourdain-hypothesis; co-located Whiten refs are DIFFERENT real Whiten papers (1999/2010/2015-percussive), not misattribution. No fix needed.
+- **Anchoring**: evaluate_anchoring 1 flag BEFORE (vs NCC anchor: 1 strong-assertion verb + 0 underdetermination markers) → 0 flags AFTER. The flag's strong-assertion verb was "choking phenomenon PROVES the interface remains" (line 130) — a genuine over-claim at an interpretive/contested point. Softened "proves"→"indicates" (fold-into-reframe); cleared the flag. (Underdetermination sub-check was a false-positive: article invokes [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/) twice but wikilink form isn't a marker token; resolved jointly once strong-assertion cleared.)
+- **Calibration**: the "proves" softening is the calibration fix; no possibility→probability slippage elsewhere; no tenet-as-evidence-upgrade.
+- **Engagement modes**: no named-opponent refutation prose (Block/Dennett presented as live, debate "empirically open"); no classification needed; no label leakage.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 ("proves"→"indicates" over-claim)
+- **Enhancements made**: 1 (COGITATE ref enriched with verified volume/pages)
+- **Output**: [deep-review-2026-06-04-global-workspace-theory](/reviews/deep-review-2026-06-04-global-workspace-theory/)
+
+## 2026-06-04T19:10:00+00:00 - deep-review
+- **Status**: Success (CONVERGED — no-op; license-to-no-op exercised, timestamps only)
+- **File**: [three-kinds-of-void](/voids/three-kinds-of-void/)
+- **Word count**: 2322 → 2322 (no change; 116% of 2000 soft, under 3000 hard — no human length decision)
+- **Diff-scope**: changed-since-review (~15d gap; ai_modified 2026-05-31, not today). Single intervening content commit 252668c61 (2026-05-31 refine) grafted exactly TWO new paragraphs into "Between the Categories" + added [self-reference-paradox](/concepts/self-reference-paradox/) to related_articles. (1) face-by-face worked example using the-quantitative-comprehension-void's three faces; (2) self-reference-paradox weak/strong/middle-gradient → unexplored/unexplorable/occluded structural-mechanism mapping.
+- **Web-verify by class**: NO new external citations introduced by either paragraph — both cite ONLY internal Map articles. Flagged formal-logic-gloss risk (fake Gödel/Tarski/Russell/Priest verbatim) did NOT materialize; self-reference mapping cites no formal sources (lineage stays in the linked source). Article's 3 References (James 1902, McGinn 1989 Mind 98(391):349-366, Nagel 1974 Phil Review 83(4):435-450) unchanged from prior verified reviews, untouched by refine.
+- **Source-conclusion fidelity (load-bearing this pass)**: self-reference mapping FAITHFUL to [self-reference-paradox](/concepts/self-reference-paradox/) "Weak and Strong Forms" (weak/strong/irrecoverably-conditioned definitions match verbatim, incl the act-vs-result distinction); worked example FAITHFUL — verbatim-faithful paraphrase of [the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/)'s own "Mixed Classification" line ("cardinality floor principally unexplorable; magnitude-and-probability unexplored w/ unexplorable core; abstract-mathematical ceiling combines both"). All 3 section-anchors resolve.
+- **Calibration**: NO possibility→probability slippage. Both new paragraphs are organizational/taxonomic (classify void *territory*), elevate no empirical claim's tier, use no tenet as evidence-upgrade. "No intuition for trillions" confidence inherited from source's honest calibration. Tenet-accepting reviewer would not flag.
+- **Anchoring**: evaluate_anchoring — NO FLAGS (before; no edits → after identical).
+- **Engagement modes**: no named-opponent counterargument prose; bedrock personas (Churchland/Deutsch/Tegmark/Nagarjuna) raise tenet-boundary objections answered methodologically. No label leakage.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no edits manufactured — prior refine's additions are sound)
+- **Follow-on**: none queued (no cross-article seam/defect found)
+- **ai_contribution**: 80 (mixed/human-touched) preserved — no body edits, human voice untouched
+- **Output**: [deep-review-2026-06-04-three-kinds-of-void](/reviews/deep-review-2026-06-04-three-kinds-of-void/)
+
+## 2026-06-04T18:40:00+00:00 - deep-review
+- **Status**: Success (CONVERGED — no-op; license-to-no-op exercised, timestamps only)
+- **File**: [moral-responsibility](/concepts/moral-responsibility/)
+- **Word count**: 3168 → 3168 (no change; 127% of 2500 soft, under 3500 hard — no human length decision)
+- **Diff-scope**: changed-since-review (~10d gap). Single intervening content commit 17b854814 (2026-06-01 refine, "reconcile control-section framing seam + hedge luck reply"). Four changes: (1) NEW seam-reconciliation sentence separating control's *nature* (mechanism-neutral) from control's *possibility* (tenet commitment); (2) "identical"→"parallel" selection architecture; (3) "Current evidence shows"→"Ordinary practice suggests" (falsifiability #2); (4) luck-reply hedge "not uncontroversially completed".
+- **Calibration**: NO possibility→probability slippage. New sentence explicitly attributes the possibility-condition to "a tenet commitment rather than a particular mechanism" — honest tenet-coherence labelling, not evidence elevation. Diagnostic test: a tenet-accepting reviewer would not flag it. Both softenings = demonstrated-finding softening (not dishonest hedging); luck hedge marks genuine underdetermination.
+- **Web-verify (publisher of record, all CLEAN — none fabricated, none wrong-author/year/venue)**: Strawson 1962 Proc Brit Acad vol 48 ✓; Frankfurt 1971 J Phil 68:5-20 ✓; Fischer & Ravizza 1998 CUP ✓; Kane 1996 OUP ✓ + verbatim "ultimate creators (or originators) and sustainers" exact match; Pereboom 2001 CUP (hard incompatibilism, source-conclusion faithful) ✓; Chisholm 1964 Lindley Lecture U Kansas ✓; Wolf 1990 OUP ✓; O'Connor 2000 OUP ✓; Soon et al. 2008 Nat Neurosci 11:543-545 ✓ (~60% decoding accuracy faithfully characterized); decoherence cluster McKemmish 2009 Phys Rev E 80:021912 + Reimers 2009 PNAS 106(11):4219-4224 ✓ (re-verified the fae80ebc4 audit). No defects to fix.
+- **Seam-check**: reconciliation CLOSED — lines 67/95/135/151 all express the consistent "Map requires only that some process leave outcomes open" framing; no parallel un-reconciled over-claim.
+- **Reasoning-mode (editor-internal, unchanged — no opponent prose modified)**: mysterious=Mode Two; empirical-detection=Mode Two; compatibilism-sufficient=Mode Three boundary-marking w/ residue clause; Buddhist=Mode One; illusionist regress=Mode Two. No label leakage.
+- **Anchoring**: one flag vs mental-causation anchor (4 strong-assertion verbs) — non-actionable/pre-existing; refine REDUCED strong assertions; the 4 verbs ("proves unworkable" conditional, "establishes what control consists in" definitional, ×2 "quantum biology demonstrates" defensible-empirical) are appropriately used. Folding into hedges = over-hedge-into-mush. Declined.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-06-04-moral-responsibility](/reviews/deep-review-2026-06-04-moral-responsibility/)
+
+## 2026-06-04T18:14:31+00:00 - deep-review
+- **Status**: Success (converged; 1 critical citation journal defect fixed + 1 missing reference added)
+- **File**: [fitness-beats-truth](/concepts/fitness-beats-truth/)
+- **Diff-scope**: changed-since-review trigger — 2026-06-01 verification-corrections bundle (commit e7bbae8af) softened the FBT consequence verb ("demonstrates"→"argues") + added the Bagwell-2023 self-defeat objection paragraph to §Contestation. 5th deep review; converged on prior passes. Re-verified the bundle's own corrections at the publishers (re-verify-the-fix discipline).
+- **Web-verify by class**: **Bagwell 2023 (new content) CLEAN** — *Synthese* 201, Article 25, 2023; title + self-defeating/Universal-Darwinism-dilemma argument match exactly (PhilPapers BAGDIT, DOI 10.1007/s11229-022-04021-1). **Prakash et al. 2021 (ref #2) WRONG JOURNAL → FIXED**: cited *Psychonomic Bulletin & Review* 28:1-17, actually **Acta Biotheoretica 69(3):319-341** (PubMed 33231784, DOI 10.1007/s10441-020-09400-0) — the 2015 ITP paper (ref #1) IS correctly *Psych Bull Rev* 22(6):1480-1506; the two papers' journals had been conflated. Hoffman et al. 2015 CORRECT. Field & Bonsall 2018 *Ecol Evol* 8(1):71-77 CORRECT. Trivers & von Hippel 2011 *BBS* 34(1):1-16 CORRECT (author-order swap noted, not fixed — convention, real paper). Bagwell missing from numbered References despite 2 inline cites → added as ref #6.
+- **FBT calibration (core)**: NO slippage. Defeater-removal-not-evidence-upgrade framing intact ("does not *support* dualism — it removes one class of objection"); Hoffman metaphysical payload correctly flagged argued-but-contested; bounded-anchor structure (one site *strongly supported*, extensions *live hypothesis*) preserved as the slippage firewall; source-conclusion conditional ("for any fitness function...") faithful, ITP over-reach explicitly bounded. Verb softening is calibration-correct.
+- **Reasoning-mode (editor-internal)**: materialist-parsimony = Mode Three (boundary-marking, neutralise≠refute); structural-realism = Mode One (engaged in-framework). No boundary substitution. Label-leakage scan CLEAN.
+- **Anchoring**: flagged vs mysterianism anchor (hedge 4.04 vs 10.34/kw; assertions 2.02 vs 0.69/kw) — **deliberately declined**: FBT reports a proved formal theorem; softening theorem-prose = dishonest hedging of a demonstrated finding. Metaphysical extensions already hedged. Known false positive for formal-result articles. **Length**: 1979w (79% of 2500 soft), under soft; +~15w (one ref).
+- **Critical issues addressed**: 1 (Prakash journal). **Medium**: 1 (Bagwell ref). **Enhancements**: 0.
+- **Output**: [deep-review-2026-06-04-fitness-beats-truth](/reviews/deep-review-2026-06-04-fitness-beats-truth/)
+
+## 2026-06-04T13:20:00+00:00 - deep-review
+- **Status**: Success (converged; 1 critical citation page-range defect fixed)
+- **File**: [volitional-control](/topics/volitional-control/)
+- **Diff-scope**: changed-since-review trigger — refine-draft 2026-05-26 (commit be91b6824) imported `mental-causation-and-downward-causation` calibration (§"What the Felt Data Can and Cannot Settle" + Veto-section calibration parenthetical). 4th deep review post-coalescence; converged on all prior passes.
+- **Web-verify by class (citation-heavy, 25 refs; verified the 5 load-bearing/newest)**: Sjöberg 2024 *Brain* 147(7) — author/title/journal/vol/issue/year CORRECT, interpretation faithful, but **page range 2267-2274 WRONG → 2267-2269 (3-page Scientific Commentary); FIXED**. Braun et al. 2021 *Neurosci Biobehav Rev* 128:182-198 CORRECT, verbatim quote faithful + not cherry-picked (k=6 studies, high uncertainty). Schurger 2012 *PNAS* 109:E2904-E2913 CORRECT. Desmurget 2009 *Science* 324:811-813 CORRECT. Schwartz 1996 *Arch Gen Psychiatry* 53(2):109-113 CORRECT ("new patient sample" confirms the n=9-new qualifier).
+- **Calibration**: NO slippage. The imported §"What the Felt Data Can and Cannot Settle" is the *cure* (states phenomenology alone doesn't license non-physical-volition inference; three readings empirically near-equivalent; defeater-removal ≠ evidence-upgrade). Veto quantum-selection mechanism correctly pinned at speculative-integration tier. Diagnostic test passed.
+- **Reasoning-mode (editor-internal)**: engagement with Wegner = Mode One+Two (self-undermining via reportability + Nahmias internal defeater); infinite-regress critic of veto = Mode Two→Three (identifies unsupported causal-closure premise, then marks positive alternative as hypothesis). Both honest, natural prose. Label-leakage scan CLEAN.
+- **Anchoring**: clean before/after (no flags). **Length**: 3465w (116% soft, under hard 4000) — `soft_warning`; ~300w growth since 04-29 is protected calibration content (calibration-accretion variant), NOT a condense/human-length target.
+- **Critical issues addressed**: 1 (Sjöberg page range). **Medium**: 0. **Enhancements**: 0.
+- **Output**: [deep-review-2026-06-04-volitional-control](/reviews/deep-review-2026-06-04-volitional-control/)
+
+## 2026-06-04T18:00:51+00:00 - deep-review
+- **Status**: Success (converged; both new citations web-verified clean)
+- **File**: [minimal-consciousness](/concepts/minimal-consciousness/)
+- **Diff-scope**: diffed against last-review commit 7a2d28f4f. New own-content since 05-20: (1) "Is 'Minimal' One Dimension or Many?" subsection (multidimensionality development, commit bf8887cee) and (2) "What Would Challenge This View?" falsifiability template (commit 327058c51). Rest unchanged from converged state; audit focused on the new content.
+- **Web-verify by class (the two NEW cites verified live at Cell Press)**: Bayne, Hohwy & Owen (2016) "Are There Levels of Consciousness?" *Trends Cogn Sci* 20(6) 405-413 — author/year/journal/vol/issue/pages all CORRECT; source-conclusion CORRECT (levels framework untenable → multidimensional account). Birch, Schnell & Clayton (2020) "Dimensions of Animal Consciousness" *Trends Cogn Sci* 24(10) 789-801 — all CORRECT; source-conclusion CORRECT (five dimensions verbatim-accurate, "consciousness profile not single scale"). KEEP both.
+- **Calibration**: NO possibility/probability slippage — "Map's case strengthens" is a structural claim about the threshold problem multiplying (tied to explanatory-gap), not an evidential-tier upgrade; multidimensionality flagged as "live, contested, not settled"; challenge-view section actively lowers confidence ("net falsifiability is genuinely modest", "mixed and theory-dependent"). Honours evidential-status-discipline.
+- **Anchoring**: clean before/after (no flags). **Length**: 2194w (88% of 2500 soft) — `ok`, normal mode, no length action.
+- **Critical issues addressed**: 0. **Medium**: 0. **Enhancements**: 0 (verified no-op: re-read + live web-verify, not metadata-only skip).
+- **Output**: [deep-review-2026-06-04-minimal-consciousness](/reviews/deep-review-2026-06-04-minimal-consciousness/)
+
+## 2026-06-04T17:56:12+00:00 - deep-review
+- **Status**: Success (1 critical citation defect fixed corpus-wide; body converged)
+- **File**: [narrative-void](/voids/narrative-void/)
+- **Diff-scope**: only new own-content since 05-17 review was the "Pre-Selected Material" section (Encoding-Void absorption, commit 7801c0184). Audited that section; rest converged, not re-litigated.
+- **Web-verify by class**: Yang et al. 2024 (*Science* 383(6690), 1478–1483) CORRECT; Ongchoco & Xu 2024 (*J Vision* 24(9)) CORRECT; Radvansky-Zacks 2017 CORRECT (prior-verified). Lindsey recall-gated cite WRONG-AUTHOR: cited "Lindsey, Litwin-Kumar & Gjorgjieva 2024" but PubMed (PMID 39023518)/eLife confirm TWO authors only — Gjorgjieva is the eLife Reviewing Editor, not a co-author. Also wrong volume (14→12) + elocation (e90793→RP90793). Source-conclusion checks all pass; no verbatim-quote issues.
+- **Corpus fix**: corrected the wrong-author in 3 places — narrative-void.md (body + References), voids/voids.md (encoding-void entry), research/voids-encoding-void-2026-05-12.md (reference line). Root cause: the note's 2026-06-01 correction of a prior "Sun et al. 2025" error introduced Gjorgjieva by conflating reviewing-editor with author.
+- **Calibration**: "Pre-Selected Material" closing sentence honours evidential-status discipline (empirical-vs-metaphysical boundary correctly placed); no slippage. **Anchoring**: clean before/after. **Length**: 2298w (115% soft, under hard) — no condense.
+- **Critical issues addressed**: 1. **Medium**: 0. **Enhancements**: 0 (converged; citation-integrity pass).
+- **Output**: [deep-review-2026-06-04-narrative-void](/reviews/deep-review-2026-06-04-narrative-void/)
+
+## 2026-06-04T17:50:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Tenet-5 / parsimony cluster (parsimony-epistemology, fitness-beats-truth, parsimony-case-for-interactionist-dualism; minimal-consciousness as adjacent check). Cycle-slot, self-selected focus on a converged + capped corpus.
+- **Finding**: 1 grounded mutual-reinforcement cross-link gap — the parsimony hub (`concepts/parsimony-epistemology.md`) has zero engagement with the Fitness-Beats-Truth theorem despite FBT supplying an independent formal leg for the hub's own intuition-unreliability thesis. Length-neutral P3 cross-review task queued. Deliberately declined the weaker FBT→parsimony-case link (positive-parsimony move, partly cut against by FBT's symmetry objection) to avoid link-spam.
+- **Output**: [optimistic-2026-06-04f](/reviews/optimistic-2026-06-04f/)
+
+## 2026-06-04T17:41:31+00:00 - deep-review
+- **Status**: Success (1 citation defect fixed; body converged)
+- **File**: [semantic-memory](/concepts/semantic-memory/)
+- **Word count**: 3123 → 3123 (125% of concepts 2500 soft, under 3500 hard, `soft_warning` — length-neutral)
+- **Diff-scoping**: changed-since-review (last_deep_review 2026-05-19, ai_modified 2026-06-02). Diff vs `ddde200a9` = MECHANICAL-ONLY: (1) Occam anchor `#^occam`→`#^occams-limits`; (2) Tallis ref `2016`→`2011`. No substantive body change → CONTENT/calibration audit converged (6th review).
+- **Web-verify-anyway (publisher of record, 10 cites)**: Tulving 1985 Canadian Psychology 26(1):1-12 ✓ (anoetic/noetic/autonoetic↔procedural/semantic/episodic mapping + 1927-2023 confirmed). Schwartz 2002 Erlbaum ✓. Renoult 2012 TiCS 16(11):550-558 ✓. Martinelli 2013 Hum Brain Mapp 34(7):1515-1529 ✓. **Visser 2012 — WRONG JOURNAL, FIXED**: real paper/title/authors/year but cited *Cerebral Cortex* 22(1):169-181 → actual *Journal of Cognitive Neuroscience* 24(8):1766-1778 (DOI 10.1162/jocn_a_00244). 3-state: real-paper-wrong-venue → fix. Frankish 2016 JCS 23(11-12):11-39 ✓. Tallis 2011 Acumen ✓ (2016→2011 fix confirmed right). Koriat 2000 Conscious Cogn 9(2):149-171 ✓. Pitt 2004 PPR 69(1):1-36 ✓. Whitehead 1929 ✓. Source-conclusion + verbatim-quote checks PASS.
+- **Anchoring**: evaluate_anchoring before/after = no flags (converged); no over-hedging applied.
+- **Calibration**: NO slippage. Quantum claims hold "may/could involve" speculative tier; not upgraded by tenets.
+- **Reasoning-mode (editor-internal)**: illusionism engagement = Mixed Mode One+Two; LLM-equivalence = Mode Three. No label leakage. (unchanged from prior review)
+- **Critical issues addressed**: 1 (Visser wrong-journal citation) | **Medium**: 0 | **Enhancements**: 0
+- **Note**: lone buried wrong-venue defect surfaced ONLY by publisher-of-record web-verify; 5 prior reviews (4 "no issues") missed it — validates web-verify-anyway on converged citation-dense hubs (ai_citation_metadata_unreliable class).
+- **Output**: [deep-review-2026-06-04-semantic-memory](/reviews/deep-review-2026-06-04-semantic-memory/)
+
+## 2026-06-04T17:36:19+00:00 - deep-review
+- **Status**: Success (converged — no body edits; 3 timestamps bumped only)
+- **File**: [attention-as-causal-bridge](/apex/attention-as-causal-bridge/)
+- **Word count**: 4080 → 4080 (102% of apex 4000 soft, under 5000 hard, `soft_warning` — stable)
+- **Diff-scoping**: changed-since-review (last_deep_review 2026-05-19, ai_modified 2026-06-02). Diff vs `75f94fbe3` revealed MORE than the flagged Zheng & Meister normalization: (1) Z&M 2024→2025 +vol/pages; (2) Wise & Murray→Fine & Hayden author fix; (3) Nartker eLife 14/e97156→13/RP100337 fix; (4) NEW ~340w predictive-processing rival section +2 related links; (5) tenet anchor `#^occams-razor-has-limits`→`#^occams-limits`.
+- **Web-verify (publisher of record, 4 cites)**: Zheng & Meister (2025) *Neuron* 113(2):192-204 ✓ (print Jan 2025; source-conclusion check on 10 bits/s bandwidth gloss — accurate, not over-extended). Fine & Hayden (2022) *Phil Trans R Soc B* 377(1844):20200524 ✓ (Wise & Murray was the wrong author; swap is a genuine fix). Nartker et al. (2025) *eLife* 13:RP100337 ✓ (prior 14/e97156 was wrong). Cai et al. (2024) *Nature* 635:406-414 ✓. New section's Hohwy/Clark/Friston precision-weighting attribution ✓ canonical. 3-state: all keep.
+- **Calibration**: NO slippage. New predictive-processing section is calibration-*strengthening* — concedes rival "compatible with almost everything the evidence directly establishes," declares disagreement "closer to bedrock," invokes [common-cause-null](/project/common-cause-null/). Load-bearing dualist inference keeps its qualifier ("potentially ontologically distinct"; "constrain rather than establish").
+- **Anchoring**: evaluate_anchoring flagged 2 anchors (hedge_density/strong_assertions) — assessed REGISTER ARTIFACT (apex compresses 8 sources → lower per-kw hedge density). All flagged strong assertions are demonstrated findings (Thura/Cisek, Kahneman, Rizzolatti) where hedging would be dishonest softening, or already-qualified inferences. No edits warranted.
+- **Reasoning-mode (editor-internal)**: predictive-processing engagement = Mixed→Mode Three dominant (mutual-compatibility concession + 2 discriminators + bedrock-residue declaration); AST = Mixed (unchanged). No label leakage (forbidden-vocab grep zero hits).
+- **Apex fields**: bumped `ai_modified` + `last_deep_review` + `apex_last_synthesis` (all 2026-06-04T17:36:19Z) to prevent the apex-last-synthesis-drift-artifact stale-field bug.
+- **Critical issues addressed**: 0 | **Medium**: 0 | **Enhancements**: 0 (4th review; since-review diff all correct citation hygiene + 1 calibration-exemplary section)
+- **Output**: [deep-review-2026-06-04-attention-as-causal-bridge](/reviews/deep-review-2026-06-04-attention-as-causal-bridge/)
+
+## 2026-06-04T17:22:19+00:00 - deep-review
+- **Status**: Success (converged — no body edits)
+- **File**: [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)
+- **Word count**: 3452 → 3452 (no change; 115% of topics/ 3000 soft, under 4000 hard, `soft_warning` — stable across 5 reviews)
+- **Diff-scoping**: changed-since-review re-verify. Two changes since 2026-05-28 review: (1) `88146dc46` flipped inline epothilone-B attribution "Wiest et al."→"Khan et al."; (2) `82d8e02d7` two calibration softenings ("confirms"→"argues", "offer"→"may offer"). Audited the diff, not the whole article.
+- **Web-verify (publisher of record)**: epothilone-B/eNeuro 2024 paper (eNeuro 11(8), ENEURO.0291-24.2024; PubMed 39147581) — first author is **Sana Khan** (Khan, Huang, Timuçin et al.), so "Khan et al." is CORRECT. The 2026-05-28 review's "Wiest correct ✓" was the actual error, fixed by the sweep. 3-state: keep. DeBrota et al. 2021 (inline) re-verified: Phys. Rev. A 104, 022207 — characterisation accurate; no full author list in this file so no author-list defect here. Other 10 externals unchanged since 2026-05-28 live-verify; not re-checked per standing note.
+- **Corpus consistency**: 0 residual "Wiest et al." in live content (all → "Khan et al."); remaining hits are historical workflow archives, correctly untouched.
+- **Calibration**: both softenings are honest improvements under [evidential-status-discipline](/project/evidential-status-discipline/); no possibility→probability slippage in either direction. Tenet-4 boundary-marking intact.
+- **Anchoring**: evaluate_anchoring → [] (clean). **Validate**: ✓ Valid.
+- **Reasoning-mode (editor-internal)**: MWI/Deutsch-Wallace = Mode Three; QBism = Mode Three (+Mode-Two note); RQM = Mode Three. Unchanged; no label leakage.
+- **Critical issues addressed**: 0 | **Medium**: 0 | **Enhancements**: 0 (converged; 6th review — Khan/Wiest re-verify resolved a latent prior-review verification error, no body change needed)
+- **Output**: [deep-review-2026-06-04-qm-interpretations-beyond-many-worlds](/reviews/deep-review-2026-06-04-qm-interpretations-beyond-many-worlds/)
 
 ## 2026-06-04T17:15:53+00:00 - deep-review
 - **Status**: Success (converged — no body edits)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-06-02 18:45:52.096654+00:00
+ai_modified: 2026-06-04 17:41:31+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,7 +26,7 @@ description: 'Factual knowledge has its own phenomenology: tip-of-the-tongue fru
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-19 12:01:19+00:00
+last_deep_review: 2026-06-04 17:41:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -213,7 +213,7 @@ The Map adopts a qualified position: noetic consciousness involves genuine pheno
 1. Schwartz, B.L. (2002). *Tip-of-the-Tongue States: Phenomenology, Mechanism, and Lexical Retrieval*. Lawrence Erlbaum.
 1. Renoult, L. et al. (2012). Personal semantics: at the crossroads of semantic and episodic memory. *Trends in Cognitive Sciences*, 16(11), 550-558.
 1. Martinelli, P. et al. (2013). Neural substrates of the self-memory system. *Human Brain Mapping*, 34(7), 1515-1529.
-1. Visser, M. et al. (2012). Both the middle temporal gyrus and the ventral anterior temporal area are crucial for multimodal semantic processing. *Cerebral Cortex*, 22(1), 169-181.
+1. Visser, M. et al. (2012). Both the middle temporal gyrus and the ventral anterior temporal area are crucial for multimodal semantic processing. *Journal of Cognitive Neuroscience*, 24(8), 1766-1778.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
