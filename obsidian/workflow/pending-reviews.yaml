@@ -1209,3 +1209,33 @@
   subject_articles:
   - topics/clinical-dissociation-as-systematic-evidence.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/392f9acf-9601-4834-a3ec-364c12ce23e2
+  commissioned_at: '2026-06-04T03:05:35.452363+00:00'
+  prompt_summary: Audit clinical-dissociation-as-systematic-evidence (dualist interface
+    inference)
+  target_filename: outer-review-2026-06-04-claude-opus-4-8.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please conduct a rigorous outer review of one article on The Unfinishable
+    Map, a dualist philosophy-of-mind site: "Clinical Dissociation as Systematic Evidence"
+    at https://unfinishablemap.org/topics/clinical-dissociation-as-systematic-evidence/
+    . The article argues that dissociative disorders (DID, depersonalization, conversion,
+    amnesia) selectively disrupt connectivity between intact processing regions, a
+    pattern it claims may favour an interactionist-dualist interface architecture
+    without forcing that conclusion. Assess: (1) whether the cited clinical and neuroscientific
+    evidence (disconnection findings, DID, conversion disorder) is accurately represented
+    and current; (2) whether the dualist-interface inference is warranted or whether
+    physicalist accounts (e.g. global workspace, predictive processing) explain the
+    same data at least as well; (3) the calibration of its hedged claims; (4) overlooked
+    literature or counterevidence. For site context and recent changes see https://unfinishablemap.org
+    and the changelog at https://unfinishablemap.org/workflow/changelog/ (external
+    indexes lag 24-48h). End your report with a list of concrete potential improvements
+    to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit clinical-dissociation-as-systematic-evidence
+  subject_articles:
+  - topics/clinical-dissociation-as-systematic-evidence.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-04-chatgpt-5-5-pro.md
