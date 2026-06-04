@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot investigate its o
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-06-02T06:58:29+00:00
+ai_modified: 2026-06-04T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ related_articles:
   - "[[edge-states-and-void-probes]]"
   - "[[acquaintance-void]]"
   - "[[sleep-consciousness-void]]"
+  - "[[contentless-awareness-evidence]]"
   - "[[boundary-and-projection]]"
   - "[[higher-order-theories]]"
   - "[[global-workspace-theory]]"
@@ -44,7 +45,7 @@ In the Map's [[voids]] taxonomy this makes the void **partially probe-able / con
 
 The core structural impossibility has three dimensions:
 
-**Introspective enrichment.** Attending to an experience adds cognitive structure—attention, metacognition, memory encoding—that makes the experience more complex than it was before observation. David Hume registered the general worry in the *Treatise* Introduction: reflection "would so disturb the operation of my natural principles as must render it impossible to form any just conclusion from the phenomenon." Hume's remark concerns introspection's self-disturbance broadly—an early statement of the observer-effect, not a claim about minimal consciousness, which he nowhere discusses. The act of looking at experience from inside changes what is there to see. The [[observation-and-measurement-void]] documents this transformation across all consciousness research; the minimal consciousness void is where the transformation is most devastating, because even a small addition moves the experience away from minimality.
+**Introspective enrichment.** Attending to an experience adds cognitive structure—attention, metacognition, memory encoding—that makes the experience more complex than it was before observation. David Hume registered the general worry in the *Treatise* Introduction: reflection "would so disturb the operation of my natural principles as must render it impossible to form any just conclusion from the phenomenon." His remark concerns introspection's self-disturbance broadly—an early statement of the observer-effect, not a claim about minimal consciousness, which he nowhere discusses. The [[observation-and-measurement-void]] documents this transformation across all consciousness research; the minimal consciousness void is where it is most devastating, because even a small addition moves the experience away from minimality.
 
 **Regressive enrichment.** Attempting to examine the simplest experience creates a more complex one: experience-being-examined. Trying to find the minimal version of *that* creates yet another layer. The search generates an infinite regress that moves away from its target with each step. Unlike most philosophical regresses, this one is experientially real—each attempt at simplification produces a detectably richer state.
 
@@ -58,7 +59,7 @@ Thomas Metzinger's Minimal Phenomenal Experience (MPE) project represents the mo
 
 The result is instructive. What advanced meditators report as "contentless" awareness turns out, on careful analysis, to have a rich phenomenological profile. The subsequent MPE-92M questionnaire identified 92 characteristics organised into a 12-factor model of "pure awareness" phenomenology (Gamma & Metzinger 2021). The search for the minimum kept finding more than nothing.
 
-This does not mean the meditators are wrong. They may be reporting the minimal state accessible to introspection—the lowest floor the observing mind can reach. But the enrichment problem guarantees this floor lies above whatever the actual minimum is. The accessible minimum and the actual minimum are structurally separated by the cost of observation.
+This does not mean the meditators are wrong. They may be reporting the minimal state accessible to introspection—the lowest floor the observing mind can reach. But the enrichment problem guarantees this floor lies above the actual minimum: the two are structurally separated by the cost of observation. The companion question—whether such contentless awareness persists into genuine unconsciousness or merely seems contentless to a reporting mind—is taken up in [[contentless-awareness-evidence|contentless awareness and the evidence question]].
 
 Two caveats keep this evidence honest. First, the convergence is partly non-independent: the MPE-92M questionnaire is built from the same corpus of contemplative reports the project then triangulates against, so the phenomenological "floor" and the questionnaire "profile" are one report-tradition examined twice, not two independent lines. Second, Metzinger (2020) supplies a deflationary reading of why the state *feels* empty: the MPE is the content of a predictive model of tonic alertness, contentless-feeling because of phenomenal *transparency*—the brain has no introspective access to its own arousal-regulation algorithm, so only bare "wakefulness" content appears. The felt emptiness is then what a physicalist would predict, and the void's "occluded/irreducible" gloss is one interpretation of the transparency datum—consistent with it, not licensed by it.
 
