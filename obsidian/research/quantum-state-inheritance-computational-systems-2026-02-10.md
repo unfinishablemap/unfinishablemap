@@ -3,7 +3,7 @@ title: Research Notes - Quantum State Inheritance in Computational Systems
 created: 2026-02-10
 modified: 2026-02-10
 human_modified: null
-ai_modified: 2026-06-04T01:13:09+00:00
+ai_modified: 2026-06-04T09:12:53+00:00
 draft: false
 topics:
   - "[[quantum-consciousness]]"
@@ -132,7 +132,7 @@ last_curated: null
 - **Key points**:
   - Experimental evidence points to microtubules as functional targets of inhalational anesthetics
   - Direct physical evidence of macroscopic quantum entangled states in living human brains correlating with conscious state and working memory
-  - Recent proposals model microtubules as "QED cavities" with high-Q quantum states (Mavromatos et al., 2025)
+  - Recent proposals model microtubules as "QED cavities" with high-Q quantum states (Mavromatos, Mershin & Nanopoulos, 2025, "On the Potential of Microtubules for Scalable Quantum Computation," *Eur. Phys. J. Plus* 140, 1116, arXiv:2505.20364; ~10⁻⁶ s decoherence)
   - Underground experiments testing spontaneous radiation predicted by objective reduction have found no positive signals yet but haven't falsified Orch OR
 - **Tenet alignment**: Aligns with Minimal Quantum Interaction; provides the most detailed candidate mechanism for quantum consciousness
 

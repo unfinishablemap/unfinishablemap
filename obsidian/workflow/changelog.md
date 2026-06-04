@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04T08:54:18+00:00
+ai_modified: 2026-06-04T09:12:53+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-04T09:12:53+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Quantum-biology citation cleanup (follow-on from 2026-06-04 deep-review). Two parts.
+- **Part A — Mavromatos / "1630906" wrong-attribution audit (verify-before-fix, 3-state).** Grepped all 5 research notes carrying "1630906"/"quantum-classical complexity"/"Mavromatos". Finding: NO research note mis-attributes the 1630906 (Sergi/Messina) *Frontiers* paper TO Mavromatos — all 1630906 refs are unattributed URLs/title-only or correctly titled, and all "Mavromatos" mentions are his genuine QED-cavity work.
+  - **LEFT (correct)**: [[research/quantum-decoherence-objection-responses-2026-01-15]] (line 179 — title-only Frontiers link, no author) · [[research/spontaneous-collapse-theories-grw-csl-2026-01-23]] (line 66 — 1630906 URL, unattributed, content accurate) · [[research/attention-motor-planning-quantum-interface-2026-01-23]] (lines 175, 366 — 1630906 URL, unattributed) · quantum-biology-neural-experimental lines 81/111/221 (1630906 unattributed title; Mavromatos listed correctly as Orch-OR proponent; ref #5 correct title, no author).
+  - **FIXED (accuracy-strengthen, attribution unchanged — added the verified specific paper to two correctly-attributed Mavromatos QED-cavity claims)**: [[research/quantum-state-inheritance-computational-systems-2026-02-10]] line 135: "(Mavromatos et al., 2025)" → "(Mavromatos, Mershin & Nanopoulos, 2025, *Eur. Phys. J. Plus* 140, 1116, arXiv:2505.20364; ~10⁻⁶ s decoherence)". · [[research/quantum-biology-neural-experimental-2026-03-20]] line 86: "Mavromatos et al. (2025)" → "Mavromatos, Mershin & Nanopoulos (2025) … *Eur. Phys. J. Plus* 140, 1116, arXiv:2505.20364".
+  - No fabrication found; no wrong-paper repoint needed; reviews/, changelog, workflow/ untouched.
+- **Part B — length trim of sibling [[topics/quantum-biology-and-neural-consciousness]]**: 4015w (hard_warning, 15w over 4000 hard ceiling) → 3995w (under ceiling, soft_warning). Net-negative trim of ~20w of non-load-bearing connective prose across intro, mechanisms, anaesthesia, direct-measurement, theoretical, convergence sections. NO citation metadata, calibration-table content, or evidential-status language removed; the deep-review's corrected Mavromatos ref #13 (EPJ Plus 140:1116) preserved intact. Verified <4000 via tools.curate.length before and after.
+- **Published**: yes (research notes are public content)
 
 ## 2026-06-04T08:54:18+00:00 - deep-review
 - **Status**: Success

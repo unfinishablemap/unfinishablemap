@@ -4,7 +4,7 @@ created: 2026-03-20
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
-ai_modified: 2026-06-03T09:34:44+00:00
+ai_modified: 2026-06-04T09:12:53+00:00
 ---
 
 # Research: Quantum Biology in Neural Systems — Latest Experimental Evidence (2025-2026)
@@ -83,7 +83,7 @@ The 2025-2026 period has seen a notable acceleration in experimental and theoret
 - **Key points**:
   - Proposes Orch OR should be developed within a quantum-classical theoretical framework
   - Aims to make Orch OR more predictive and testable
-  - References Mavromatos et al. (2025) proposing microtubules as "QED cavities" with high-Q quantum states (theoretical)
+  - References Mavromatos, Mershin & Nanopoulos (2025) proposing microtubules as "QED cavities" with high-Q quantum states (theoretical; "On the Potential of Microtubules for Scalable Quantum Computation," *Eur. Phys. J. Plus* 140, 1116, arXiv:2505.20364)
 - **Tenet alignment**: Neutral — focuses on formalization rather than empirical claims.
 
 ### NV-Diamond Magnetometry for Brain Mapping (2026)
