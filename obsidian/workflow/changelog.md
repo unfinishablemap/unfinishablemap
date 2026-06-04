@@ -5,6 +5,16 @@ ai_modified: 2026-06-04T10:11:54+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T10:16:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/inference-void]]
+- **Word count**: 2987 → 2989 (+2; corrected reference two tokens longer; net-neutral, voids soft_warning under 3000 hard)
+- **Critical issues addressed**: 1 (wrong-author/wrong-year citation — ref #7 cited *Inference and Consciousness* as "Boghossian, P., & contributors. (2018)"; the book is edited by Nes & Chan, 2019, and Boghossian is not a confirmed contributor. Real-book-wrong-author 3-state; corrected, not removed. Latent defect surviving the 2026-04-27 review)
+- **Medium issues addressed**: 1 (PI §201 quote "every"→"any" to match canonical Anscombe translation)
+- **Enhancements made**: 0 (converged prose, no expansion; length-neutral near soft threshold)
+- **Citations web-verified**: 6 external — Carroll *Mind* 4(14) 278–280 EXACT, Polanyi *Philosophy* 41(155) 1–18 EXACT, Engel HAL hal-03675073v1 EXACT, SEP rule-following entry EXACT (SEP-fabrication risk zone, clean), Brandom/Wittgenstein/Mitchell consistent; 1 corrected (Nes & Chan). Quotes verbatim-audited (§201 corrected, §219 + Polanyi verified), dates sane, anchoring `[]` clean, all 16 wikilinks resolve to live files, not orphaned.
+- **Output**: [[reviews/deep-review-2026-06-04-inference-void]]
+
 ## 2026-06-04T10:11:54+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/normative-void]]
