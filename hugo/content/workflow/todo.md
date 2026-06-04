@@ -38,17 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt consciousness-physics-interface-formalism calibration in born-rule-and-the-consciousness-interface
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/born-rule-and-the-consciousness-interface.md
-- **Notes**: From topic-concept anchoring audit 2026-06-03. The topic article over-claims relative to its anchor concept [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/); failed checks: strong_assertions, underdetermination_markers.
-  - topic uses 2 strong-assertion verbs where anchor uses none
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-03
-
 ### P2: Adopt default-mode-network calibration in perceptual-failure-and-the-interface
 - **Type**: refine-draft
 - **Status**: pending
@@ -59,7 +48,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-03
-
 
 ### P3: Reciprocity link concepts/pain-asymbolia.md → topics/phantom-limb-phenomena.md
 - **Type**: refine-draft
@@ -984,6 +972,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Adopt consciousness-physics-interface-formalism calibration in born-rule-and-the-consciousness-interface
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-03. The topic article over-claims relative to its anchor concept [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/); failed checks: strong_assertions, underdetermination_markers.
 
 ### ✓ 2026-06-03: Deep review metaproblem-of-consciousness-under-dualism.md
 - **Type**: deep-review
