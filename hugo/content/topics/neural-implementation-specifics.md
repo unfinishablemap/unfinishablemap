@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-05-22 12:00:00+00:00
+ai_modified: 2026-06-04 13:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -92,7 +92,7 @@ Microtubule-based proposals—particularly Penrose and Hameroff's [Orchestrated 
 
 ## Ion Channel Tunneling: Mathematically Sound, Experimentally Untested
 
-Qaswal et al.'s (2021) mathematical model shows that ions (Na⁺, K⁺, Ca²⁺) can tunnel through closed voltage-gated channels. The model predicts that sodium tunnels more readily than potassium (mass-dependent tunneling probability), explaining certain pathological phenomena (tinnitus, phantom limb pain, neuropathic pain).
+Qaswal et al.'s (2021) mathematical model finds that ions (Na⁺, K⁺, Ca²⁺) can tunnel through closed voltage-gated channels. The model predicts that sodium tunnels more readily than potassium (mass-dependent tunneling probability), explaining certain pathological phenomena (tinnitus, phantom limb pain, neuropathic pain).
 
 ### Why It Matters
 
@@ -196,7 +196,7 @@ Mechanisms requiring only discrete quantum events (Zeno, tunneling) face far les
 
 As of early 2026:
 
-**Strongly supported**: Biological systems can exploit quantum effects at neural-relevant timescales. The radical pair mechanism in avian magnetoreception establishes this conclusively. The categorical objection—"brains are too warm for quantum effects"—is empirically refuted.
+**Strongly supported**: Biological systems can exploit quantum effects at neural-relevant timescales. The radical pair mechanism in avian magnetoreception is the firm experimental anchor here. The categorical objection—"brains are too warm for quantum effects"—does not survive that result.
 
 **Moderately supported**: Microtubules show quantum properties relevant to consciousness. Anesthetic correlations and super-radiance demonstrations are suggestive, though causal necessity remains unproven.
 
@@ -220,7 +220,7 @@ Moreover, if [cognitive phenomenology is irreducible](/topics/cognitive-phenomen
 
 **What distinguishes the Map's approach:**
 
-Many discussions of quantum consciousness conflate theoretical possibility with empirical support. By tracking which mechanisms have evidence and what experiments would test them, the Map maintains intellectual honesty about what we know and don't know. The radical pair mechanism proves that quantum effects can operate at neural-relevant timescales; whether they do so in ways relevant to consciousness remains the open question.
+Many discussions of quantum consciousness conflate theoretical possibility with empirical support. By tracking which mechanisms have evidence and what experiments would test them, the Map maintains intellectual honesty about what we know and don't know. The radical pair mechanism settles that quantum effects can operate at neural-relevant timescales; that finding does not adjudicate whether they do so in ways relevant to consciousness, and the deeper inference—from any neural quantum implementation to the consciousness it would underpin—is underdetermined by the evidence the mechanisms supply. This is the gap a dualist position expects to find: locating where quantum indeterminacy lives in neural tissue does not decide between a mechanism that merely accompanies consciousness and one that consciousness exploits.
 
 **Why this matters for [Bidirectional Interaction](/tenets/#bidirectional-interaction):**
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-06-04 12:04:39+00:00
+ai_modified: 2026-06-04 16:01:44+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -86,7 +86,7 @@ Even at the interface, consciousness doesn't violate physics. The [Minimal Quant
 
 ### The Probabilistic Constraint
 
-[Quantum mechanics provides probabilities, not certainties](/concepts/quantum-probability-consciousness/). Consciousness operates within probabilistic bounds—you cannot guarantee an extremely unlikely outcome by wanting it strongly enough. The [causal consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025) shows those bounds are structurally fixed: under purification, no-signalling forces the Born form. This may explain why voluntary action feels effortful—consciousness shifting probabilities against statistical noise from countless quantum events.
+[Quantum mechanics provides probabilities, not certainties](/concepts/quantum-probability-consciousness/). Consciousness operates within probabilistic bounds—you cannot guarantee an extremely unlikely outcome by wanting it strongly enough. The [causal consistency constraint](/concepts/causal-consistency-constraint/) (Torres Alegre 2025, a recent arXiv preprint not yet independently confirmed) argues those bounds are structurally fixed: under purification, no-signalling forces the Born form. This may explain why voluntary action feels effortful—consciousness shifting probabilities against statistical noise from countless quantum events.
 
 ### The Temporal Constraint
 

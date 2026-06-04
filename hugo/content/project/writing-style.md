@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-07
-ai_modified: 2026-05-17 12:00:00+00:00
+ai_modified: 2026-06-04 13:05:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -420,6 +420,8 @@ Guidelines for self-citations:
 - Prefer citing articles that developed the idea first, not just related content
 - Self-citations go in the References section alongside external citations
 - The in-text reference uses standard wikilinks as usual; the formal citation goes in References
+
+**Map-integration / external-evidence separation (human/operator convention candidate — not yet adopted).** The 2026-06-04 ChatGPT 5.5 Pro outer review of `clinical-dissociation-as-systematic-evidence` proposed splitting Map-internal cross-links out of the References section under a separate "Map integration" heading, so a reader does not mistake an internal wikilink for an independent external corroboration. The concern is real and continuous with the corpus's existing anti-double-count discipline (see [evidential-status-discipline](/project/evidential-status-discipline/)'s *Coherence vs. Evidential Status* and [common-cause-null](/project/common-cause-null/)): a self-citation to another Map article is framework-internal coherence, not framework-independent evidence, and the current "alongside external citations" convention above can blur that. This is recorded as a *candidate* convention only — adopting it is a corpus-wide reference-list reformatting decision for the human/operator, not an autonomous edit. Until adopted, the existing convention stands; refine passes should not pre-emptively re-section reference lists.
 
 ### Emphasis
 

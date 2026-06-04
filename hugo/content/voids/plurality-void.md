@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-04-28 19:23:00+00:00
+ai_modified: 2026-06-04 13:49:54+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,7 +31,7 @@ topics:
 - '[[personal-identity]]'
 ---
 
-Erwin Schrödinger put it directly: "Consciousness is a singular of which the plural is unknown." The Unfinishable Map calls this the plurality void—the systematic inability to conceive what it would be like to be multiple conscious subjects at once. The limit is structural, not a failure of imagination about exotic scenarios. Every attempt to think plural consciousness collapses back into a single viewpoint trying to imagine another single viewpoint. The plurality itself never arrives.
+Erwin Schrödinger put it directly: "Consciousness is a singular of which the plural is unknown." Schrödinger himself drew a monist conclusion from this datum—that the plural is unknown because there is, at bottom, only one consciousness—but the Map takes the singularity as datum without the monist inference, reading the plurality limit as a genuine void rather than evidence of metaphysical oneness. The Unfinishable Map calls this the plurality void—the systematic inability to conceive what it would be like to be multiple conscious subjects at once. The limit is structural, not a failure of imagination about exotic scenarios. Every attempt to think plural consciousness collapses back into a single viewpoint trying to imagine another single viewpoint. The plurality itself never arrives.
 
 The void manifests wherever consciousness confronts questions of composition and division: in panpsychism's [combination problem](/concepts/combination-problem/), in split-brain research, in dissociative identity disorder, and in the many-worlds interpretation's demand that consciousness branch. In each case, the same limit appears. We cannot determine how many consciousnesses exist in ambiguous cases, cannot conceive how separate experiences might merge, and cannot even formulate what a genuinely plural first person would mean. The [voids framework](/voids/) classifies this as primarily unexplorable—we may lack the cognitive architecture for plural experience—with an occluded dimension akin to [mysterianism](/concepts/mysterianism/): the singularity of consciousness may be what makes consciousness possible at all, hiding alternatives from introspection by its very structure.
 

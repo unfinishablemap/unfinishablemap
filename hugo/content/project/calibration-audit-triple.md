@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-06-02 08:12:48+00:00
+ai_modified: 2026-06-04 13:05:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts: []
@@ -79,6 +79,8 @@ The literature-drift audit runs on a *long* cadence — default weekly, with one
 ### Implementation
 
 **Status: implemented 2026-05-14.** The skill lives at `.claude/skills/literature-drift-review/SKILL.md`. It drives one literature-drift audit per invocation, fires weekly on Tuesday 05:00 UTC outside the Chrome automation window, and consumes one WebSearch call per run. Output is recorded in `obsidian/workflow/changelog.md` as `literature-drift-review` entries with the target article, the median-year-of-cited-papers result, and the missing-citation list. This produces a longitudinal record from which the audit's own calibration can be checked: if no articles are ever flagged, the threshold is too loose; if every article is flagged, the threshold is too tight. The `flagged_audits / total_audits` ratio over the most recent 30-audit horizon is the falsification trigger.
+
+*Convergent confirmation (2026-06-04, Claude Opus 4.8 outer review of `clinical-dissociation-as-systematic-evidence`; [outer-review-2026-06-04-claude-opus-4-8](/reviews/outer-review-2026-06-04-claude-opus-4-8/) §B.1).* That review independently proposed an "empirical-currency gate" — flag articles whose newest primary empirical citation predates a cutoff (it suggested five years) — after finding the audited article anchored every empirical claim to ≤2005 sources. This is convergent confirmation of Audit One's existing weekly cadence; the gate it describes is the same staleness signal this audit already raises (note its distinctness from the web-verify cadence in [system-tune-2026-06-04](/reviews/system-tune-2026-06-04/) Tier-2 #1–2, which targets citation-metadata *correctness*, not recency). The one genuinely-new element is a **newest-citation-date threshold computed locally on every article** — cheaper than this audit's median-year-plus-WebSearch check and runnable at cycle frequency without an external call, as a fast pre-filter that nominates candidates for the weekly WebSearch pass. Recorded here as a **Tier-3 human/code enhancement candidate** (operator/`tune-system` to wire; not autonomously implemented).
 
 ## Audit Two: Altered-State Symmetry Discipline
 

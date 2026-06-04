@@ -1,7 +1,7 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-06-03 16:20:00+00:00
+ai_modified: 2026-06-04 00:00:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -701,6 +701,10 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 ## Audit Notes (2026-06-03)
 
 Apex-cap audit (from system-tune-2026-04-29): **31 on disk vs. the informal ~20 cap (155%)**. Audited against the *implicit* criterion (apex = human-readable synthesis integrating multiple topic/concept nodes into one cross-cutting picture; not a single-node treatment, not a project-tier methodology discipline) — the explicit-criterion install task is still pending, so this is provisional. Finding: **0 clear migration candidates, 2 flagged for review** (`steelmanning-as-method`, `conjunction-coalesce` — methodology-flavoured but genuine multi-node syntheses). No apex is clearly subsumed by a newer one. **Human governance meta-question:** all 31 are legitimate syntheses, so the live choice is migrate-a-few-outliers vs. revisit whether the 20 itself is stale. Deferred review-tasks in `todo.md` (Source: apex-audit). This audit does not resolve the cap.
+
+### Placement-review resolution (2026-06-04): `steelmanning-as-method` → RETAIN-AS-APEX
+
+Reviewed the flagged article against the implicit criterion (apex = human-readable multi-node synthesis, not a single-discipline methodology writeup). **Confirms the audit's REVIEW-NOT-MOVE finding: retain as legitimate apex.** Evidence — it does genuine multi-node integration, using *distinct apex nodes as worked exhibits* rather than restating one discipline: the primary worked exhibit is `apex/phenomenal-output-causal-machinery-dissociation` (its "Strongest Materialist Reading" section walked move-by-move, incl. the seven→five-or-six downward self-audit); the method is then shown recurring across three further apex nodes (`apex/moral-architecture-of-consciousness` four-pillar unity audit, `apex/phenomenology-mechanism-bridge` artifact-of-method rival, `apex/taxonomy-of-voids` common-cause null on the void count) plus two lower-tier exhibits (`concepts/mental-effort`, `voids/agency-void`). It integrates five `project/` methodology disciplines as scaffolding it explicitly *distinguishes itself from* (not duplicates): evidential-status-discipline (defensive companion), coherence-inflation-countermeasures (CM9/CM10 formalised), bedrock-clash-vs-absorption (one level below), common-cause-null/per-cluster-independence-scoring (the screens), mechanism-cost-ledger (residue-force measure). That cross-cutting "what the Map's strongest syntheses do" picture is the apex profile, not a project-tier writeup. Honouring [evidential-status-discipline](/project/evidential-status-discipline/): this is genuine synthesis plainly, not borderline. **Dependency:** the criterion applied here is *implicit*; the still-pending "Install explicit apex-placement criterion" task should re-confirm against the formalised criterion once it lands. **Did NOT move, migrate, archive, or change draft status — review-only.** The apex-cap governance meta-question above is untouched (separate human decision).
 
 ## Relation to Site Perspective
 

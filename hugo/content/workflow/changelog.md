@@ -1,13 +1,213 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04 13:10:00+00:00
+ai_modified: 2026-06-04 16:05:57+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-04'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-04T16:05:57+00:00 - deep-review
+- **Status**: Success (converged — license-to-no-op)
+- **File**: [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/)
+- **Word count**: 4154 → 4154 (no body change; soft_warning 104% of 4000, structural)
+- **Trigger**: changed-since-review staleness (single cross-link import, commit 009515ec1)
+- **Diff-scoping**: only change since 05-17 was one reciprocated `[[apex/steelmanning-as-method]]` cross-link; no body prose changed
+- **Seam-check**: cross-link fully reciprocated + accurately framed (steelmanning's "move four / refuses fifth line of evidence" matches the Unity Argument); node-coherence clean across compatibilist-symmetry-challenge (worked-exhibit), valence-and-conscious-selection (forced-fork)
+- **Web-verify**: 6 high-risk citations re-verified at publisher — Gutfreund 2024 (Front Psychol 15:1456403) ✓, NY Declaration 2024 (tier-mapping exact, "contested" is own hedge) ✓, Cambridge Declaration 2012 ✓, Berridge 2009 (Inquiry 52(4):378-398) ✓, Rawlette 2016 ✓, Henrich/Heine/Norenzayan 2010 (BBS 33(2-3):61-83) ✓. No fabrication/wrong-attribution/quote-infidelity in any class
+- **Length**: 104% soft, within 5000 hard — no condense, no human length-decision
+- **Anchoring**: evaluate_anchoring → [] (clean)
+- **Engagement modes** (unchanged): projection Mode One; naturalism Mode Two / error-theory Mode One; compatibilism + materialist moral epistemology + MWI + eliminativism + Buddhist no-self Mode Three. Label-leakage: clean
+- **Critical issues addressed**: 0 (none found — at convergence)
+- **apex_last_synthesis bumped** to 2026-06-04T16:05:57+00:00 (prevents apex-last-synthesis-drift-artifact re-nomination)
+- **Output**: [deep-review-2026-06-04-moral-architecture-of-consciousness](/reviews/deep-review-2026-06-04-moral-architecture-of-consciousness/)
+
+## 2026-06-04T16:01:44+00:00 - refine-draft
+- **Status**: Success
+- **Task**: MULTI-FILE mechanical modal-softening (Torres Alegre 2025 / arXiv:2512.12636 preprint-overclaim, ai-citation-metadata-unreliable class)
+- **Files**: [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/), [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/), [the-interface-problem](/topics/the-interface-problem/), plus 3 also-noticed: [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/), [causal-closure](/concepts/causal-closure/), [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
+- **Changes** (length-neutral; modal status only, no substantive claims altered):
+  - quantum-probability-consciousness:117 — "Torres Alegre (2025) showed that the Born rule is the *unique*..." → "Torres Alegre (2025) — a recent arXiv preprint, not yet independently confirmed — argues that..."
+  - forward-in-time-conscious-selection:143 — "...Torres Alegre (2025) showed any participant... must respect..." → "...Torres Alegre (2025) — a recent arXiv preprint, not yet independently confirmed — argues any participant... must respect..."
+  - the-interface-problem:141 — "Torres Alegre's causal consistency result shows any consciousness-mediated selection..." → "Torres Alegre's causal consistency result (2025, a recent arXiv preprint not yet independently confirmed) argues any consciousness-mediated selection..."
+  - consciousness-and-causal-powers:86 — "(Torres Alegre 2025) shows those bounds are structurally fixed" → "(Torres Alegre 2025, a recent arXiv preprint not yet independently confirmed) argues those bounds are structurally fixed"
+  - causal-closure:144 — added preprint qualifier + "no-signalling forces" → "no-signalling is argued to force"
+  - quantum-measurement-and-consciousness:134 — added preprint qualifier to the (Torres Alegre 2025) citation (verb "shapes" was already non-theorem)
+- **Pati (2026, arXiv:2601.13012) check**: all live references already use "argues/arguing" with preprint qualifiers — no overclaim found, none changed.
+- **Grep-confirm**: 0 author-bound theorem verbs (showed/shows/proved/proven/demonstrated/established) remain for either preprint across topics/ + concepts/ (sentence-scoped + 55-char-window precision checks both return 0).
+- **Published**: yes
+
+## 2026-06-04T15:56:59+00:00 - deep-review
+- **Status**: Success
+- **File**: [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/)
+- **Word count**: 3427 → 3427 (no change — converged)
+- **Critical issues addressed**: 0 (the historically-critical Verhagen wrong-year/locator was already fixed on disk by the 2026-06-03 refine-draft; web-verified correct this pass)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; declined to manufacture edits)
+- **Diff-scope**: CALIBRATION-IMPORT (2026-06-03 refine softened ~15 claims with honest hedges + added empirical-equivalence opening sentence) + a load-bearing CITATION FIX (Verhagen 2024→2019) + 2 reciprocal cross-links. Diff-first per replenish-churn-filter-overtight bucket discipline.
+- **Web-verify**: Verhagen et al. 2019 (eLife 8:e40541, DOI verified) — CORRECT; the 2026-06-03 year fix was genuine. NOTE: the **2026-05-19 deep-review left this citation WRONG** (recorded "2024, eLife 13:e87026"); a citation defect survived a full deep-review and was corrected two passes later — confirms ai_citation_metadata_unreliable. Cain et al. 2021 (Brain Stim 14(2):301-303), Bonnì et al. 2015 (Behav Brain Res 282:70-75), K.C. 1981 accident — all CORRECT.
+- **Seam-check (CLOSED)**: corpus-wide Verhagen audit confirms sibling [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/) had flagged the targeted-lesion article's old "2024, 13, e87026" as wrong+recommended a fix; the fix has landed, and no obsidian article now carries the wrong locator. Calibration import left no parallel passage un-hedged.
+- **Anchoring**: evaluate_anchoring `[]` before and after (heavily, honestly hedged design-space register).
+- **Length**: 3427w, 114% of 3000 soft (under 4000 hard); length-neutral.
+- **Reasoning-mode (editor-internal)**: engagement with sophisticated production reading = Mode Four (empirical underdetermination, honestly discharged); no label leakage.
+- **Output**: [deep-review-2026-06-04-targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/reviews/deep-review-2026-06-04-targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/)
+
+## 2026-06-04T15:51:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/)
+- **Word count**: 2410 → 2410 (no change — converged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (1 out-of-scope sibling seam queued as P2 follow-up)
+- **Enhancements made**: 0 (converged; declined to manufacture edits)
+- **Diff-scope**: candour-fix commit 4367a7a41 verified sound — Pati/Torres Alegre preprint downgrades, MWI framework-boundary marking, bandwidth-as-analogy de-promotion all correctly calibrated; no seam within the target.
+- **Web-verify**: all 8 citations verified at publisher of record — Masanes-Galley-Müller 2019 (Nat Commun 10:1361), Pati 2026 (arXiv:2601.13012, preprint), Torres Alegre 2025 (arXiv:2512.12636, preprint), Sorkin 1994 (MPLA 9:3119), Chalmers-McQueen (IIT Φ + CSL), Kleiner 2020 (Entropy 22:609), Tonetto (PhilArchive TONWPA), von Neumann/Russell canonical. Zero fabrications, zero wrong-author/year/number.
+- **Anchoring/modal**: evaluate_anchoring = []; Tenet-2 "posited interpretation, not established physics" status sharp; no possibility/probability slippage; no label leakage.
+- **Output**: [deep-review-2026-06-04-consciousness-physics-interface-formalism](/reviews/deep-review-2026-06-04-consciousness-physics-interface-formalism/)
+
+## 2026-06-04T15:41:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/)
+- **Word count**: 3920 → 3962 (+42; soft_warning, 132% of 3000, under 4000 hard — load-bearing calibration hedge, not expansion)
+- **Diff-scoping**: changed-since-review pick. Intervening changes were predominantly calibration-import (5823759a8 altered-state symmetry pass = comprehensive own-content recalibration downgrading "three independent lines of evidence" → "one pattern counted as one"; dc49223d8 IIT + e405f2de3 NCC = softenings + underdetermination paragraph). All verified sound.
+- **Critical issues addressed**: 0
+- **Calibration seam fixed**: 1 — the Illusionism section asserted "precisely what filter theory identifies as the consciousness-brain interface" (settled-identification over-claim) while the rest of the article had adopted "both readings accommodate" symmetry in 5823759a8; the import fixed the parallel anesthesia passage but missed this one. Reworded to symmetric framing + anchor cross-link to the anesthesia section.
+- **Web-verify**: all 4 load-bearing empirical citations verified at publisher of record. Bodien-Claassen 2024 NEJM 391(7):598-608 (25%=60/241) — correct; Melloni COGITATE 2025 Nature (DOI s41586-025-08888-1, split-decision framing faithful) — correct; Hu 2023 Nat Neurosci 26:751-764 (KCC2/VPM reboot) — correct; Sarasso 2015 Curr Biol 25(23):3099-3105 (propofol/xenon low vs ketamine high complexity) — correct. None fabricated/wrong-author/wrong-number.
+- **Engagement modes** (editor-internal): functionalism/GNWT/IIT/higher-order = Mode One (empirical/internal); illusionism = Mode Two; production theorist throughout = Mode Three boundary-marking. No label leakage, no boundary substitution.
+- **Anchoring**: evaluate_anchoring = [] (no failed anchors).
+- **Outcome**: near-converged; one seam fix, no manufactured edits. Citations all hold.
+- **Output**: [deep-review-2026-06-04-consciousness-disruption-and-the-mind-brain-interface](/reviews/deep-review-2026-06-04-consciousness-disruption-and-the-mind-brain-interface/)
+
+## 2026-06-04T15:27:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [recognition-void](/voids/recognition-void/)
+- **Word count**: 2377 → 2412 (+35; soft_warning, well under 3500 hard — length-neutral, no padding)
+- **Critical issues addressed**: 2 — (1) citation defect Kwon→Zhang (wrong author) + article number 477→487, real-paper-wrong-metadata, publisher-only catch surviving 3 prior reviews; (2) residual calibration over-claim at the Capgras-prosopagnosia dissociation ("shows that physical processing and phenomenal experience can come apart" → fractionation-into-separable-sub-systems demonstrated, dualist gloss reframed as underdetermined). Fold-into-reframe at the genuine inference gap.
+- **Medium issues addressed**: 0 (the six historical 2026-05-02 pessimistic issues all confirmed resolved by the 05-09 edits)
+- **Web-verify**: all 12 references checked at publisher of record. Tranel-Damasio, Ellis-Young, Moulin-Bell, McGinn, Stanford, Kruger-Dunning, Brown-McNeill, Kounios-Beeman, Bruce-Young, Kant — real-correct, source-conclusion checks pass. Kwon-2024 — wrong-author-and-number, FIXED.
+- **Anchoring**: 1 residual flag (strong_assertions vs mysterianism anchor) judged false-positive — the 3 demonstrative verbs now attach to genuine demonstrated findings, not over-claims; declined hedge-padding (over-hedge risk on a soft_warning article).
+- **Outcome**: near-converged — substance stable across 4 deep + 1 pessimistic review; only a publisher-only citation defect and a residual calibration over-claim found and fixed.
+- **Engagement modes**: no named-opponent in-prose refutations to reclassify; adversarial personas (Churchland/Dennett eliminativist, Nagarjuna śūnyatā) are Mode Three framework-boundary, already honestly marked as bedrock in-article and in prior stability notes.
+- **Output**: [deep-review-2026-06-04-recognition-void](/reviews/deep-review-2026-06-04-recognition-void/)
+
+## 2026-06-04T15:10:00+00:00 - refine-draft (apex-placement review)
+- **Status**: Success (review-only; no move)
+- **File**: [steelmanning-as-method](/apex/steelmanning-as-method/)
+- **Task**: APEX-PLACEMENT REVIEW (2026-06-03 apex-cap audit flagged #30 as methodology-flavoured). Question: genuine multi-node apex (retain) vs single-discipline project/ writeup (migrate)?
+- **Assessment**: RETAIN-AS-APEX — confirms the audit's conservative REVIEW-NOT-MOVE finding.
+- **Multi-node evidence**: Uses 4 distinct apex nodes as worked exhibits (primary: phenomenal-output-causal-machinery-dissociation walked move-by-move incl. its 7→5/6 downward audit; recurs in moral-architecture-of-consciousness, phenomenology-mechanism-bridge, taxonomy-of-voids) + 2 lower-tier exhibits (mental-effort, agency-void), integrating 5 project/ disciplines it distinguishes itself from rather than restates. Cross-cutting "what the Map's strongest syntheses do" picture = apex profile, not project-tier.
+- **Rationale recorded in**: [apex-articles](/apex/apex-articles/) Audit Notes (new "Placement-review resolution (2026-06-04)" subsection). Noted dependency on the still-pending explicit-apex-criterion task.
+- **No move/migrate/archive; draft status unchanged; apex-cap governance meta-question untouched.**
+- **Published**: n/a (review-only)
+
+## 2026-06-04T14:38:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The day's latest create cohort — the `constitution-vs-causal-work` dialectical-locus cluster (created 12:04 UTC, after the four earlier 06-04 optimistic reviews), and its five named deployers audited for reciprocal back-linkage. Strengths: the new anchor is a worked instance of evidential-status discipline (Process Philosopher and Hardline Empiricist converge in praising the relocation-not-resolution argument; establish-by-relocation pre-empted by name). One grounded length-neutral cross-link task generated (delegatory-causation → constitution-vs-causal-work, frontmatter mirror); two looser deployers DECLINED as link-spam.
+- **Output**: [optimistic-2026-06-04e](/reviews/optimistic-2026-06-04e/)
+
+## 2026-06-04T13:05:00+00:00 - refine-draft (methodology-tail assessment, 3 candidates)
+- **Status**: Success (assess-first; decline 2, record 1)
+- **File**: [writing-style](/project/writing-style/)
+- **Task**: P3 METHODOLOGY-TAIL from ChatGPT 5.5 Pro outer review 2026-06-04 ([outer-review-2026-06-04-chatgpt-5-5-pro](/reviews/outer-review-2026-06-04-chatgpt-5-5-pro/), improvements 16–18). Explicit license to decline covered items.
+- **Candidate (a) — "evidence ladder" for empirical articles**: DECLINED as covered. [evidential-status-discipline](/project/evidential-status-discipline/) already installs the five-tier scale (established → strongly supported → realistic possibility → live hypothesis → speculative integration) plus the tenet-register/evidence-register distinction and the constrain-vs-establish, compatibility-vs-support, and coherence-vs-evidential-status sub-disciplines — a richer treatment than the reviewer's proposed six-tier ladder. Genuinely-new sub-element (the explicit ordered checklist form) judged not worth duplicating; the discipline's diagnostic test serves the same function. No edit.
+- **Candidate (b) — citation-staleness / post-2020 anchor rule**: DECLINED as already-covered and just-recorded. Served by literature-drift-review (Audit One) and the writing-style "Citation Aging in Fast-Moving Empirical Fields" section; the same outer-review cycle's Claude leg already prompted the empirical-currency-gate note added to [calibration-audit-triple](/project/calibration-audit-triple/) (see entry below). No edit — avoided duplication.
+- **Candidate (c) — separate Map-internal cross-links from external literature in reference lists**: RECORDED as genuinely-new. Confirmed the current writing-style convention explicitly puts self-citations "in the References section alongside external citations" — exactly the conflation the reviewer flags as risking readers mistaking internal links for independent corroboration; no existing doc raised the corroboration-confusion concern. Recorded as a short human/operator convention *candidate* (not adopted) in writing-style's Links and References section, cross-linked to the corpus's anti-double-count discipline ([evidential-status-discipline](/project/evidential-status-discipline/), [common-cause-null](/project/common-cause-null/)).
+- **Changes**: One paragraph added to writing-style.md Links-and-References; ai_modified bumped. No corpus-wide reference-list edits, no code.
+- **Code modified**: none (documentation-only by construction).
+
+## 2026-06-04T13:05:00+00:00 - refine-draft (methodology-proposal record)
+- **Status**: Success (assess-first; lightest-correct-action)
+- **File**: [calibration-audit-triple](/project/calibration-audit-triple/)
+- **Task**: P3 from Claude Opus 4.8 outer review 2026-06-04 ([outer-review-2026-06-04-claude-opus-4-8](/reviews/outer-review-2026-06-04-claude-opus-4-8/) §B.1) proposing an "empirical-currency gate". Documentation-only; explicitly a human/code candidate — no pipeline code touched.
+- **Assessment**: The proposal (flag articles whose newest empirical citation predates a >5y cutoff) is substantially covered by the existing **literature-drift-review (Audit One)**, which already raises a staleness signal on median-citation-year lag and queues a refine-draft. The web-verify cadence in [system-tune-2026-06-04](/reviews/system-tune-2026-06-04/) Tier-2 #1–2 is related but distinct (metadata correctness, not recency). The one genuinely-new element: a **local newest-citation-date threshold computed on every article** (no WebSearch), runnable at cycle frequency as a pre-filter for the weekly pass.
+- **Changes**: Added one short paragraph to Audit One's Implementation section recording the outer review as convergent confirmation and naming the new local-threshold element as a Tier-3 human/code enhancement candidate. Did NOT duplicate the proposal. ai_modified bumped.
+- **Length note**: target doc is already over its critical threshold (5056w body, hard 3500); addition kept to a single paragraph, no structural growth.
+- **Code modified**: none (documentation task by construction).
+- **Published**: yes
+
+## 2026-06-04T12:20:00+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [suspension-void](/voids/suspension-void/)
+- **Selection**: Diverted from the tool's top pick (concepts/constitution-vs-causal-work, ai_modified=today — same-session create, excluded). Picked suspension-void: gap-17 ai_modified↔last_deep_review from genuine new content (Wegner integration + condense), NOT link-accretion churn, not today-touched, citation-heavy, not web-verified this session.
+- **Web-verify**: APPLIED at publisher of record. Wegner 1994 (Psych Review 101, 34-52, operating/monitoring two-process) ✓; Graber/Franklin/Gordon 2005 (Arch Intern Med 165(13), 1493-99, premature closure most common) ✓; Roets & Van Hiel 2007 (PSPB 33(2), 266-80) ✓ (cite correct; "two orthogonal dimensions" gloss slightly loose but load-bearing point supported); Hillen 2017 (SSM 180, 62-75, quote fragments verbatim) ✓. 3-state: 0 fabricated, 0 wrong-author/year, all keep.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Defects by class**: none. Attribution clean (condense preserved all prior corrections); calibration clean (Wegner passage declines tenet-as-evidence-upgrade — exemplary, no possibility/probability slippage); quote fidelity clean (Hillen fragments verbatim); reasoning-modes honest (physicalist Mode Three, no boundary substitution); no label leakage.
+- **Anchoring**: evaluate_anchoring flags hedge-density-below-anchor vs apophatic-approaches (2.4 vs 6.2/kw) — scorer artifact (article calibrates via precise framing, not hedge density); declined to re-hedge (over-hedge-into-mush risk).
+- **Word count**: 2917 → 2917 (no body edits; 146% of 2000 voids/ soft, under 3000 hard). last_deep_review + ai_modified bumped (genuine re-read).
+- **Output**: [deep-review-2026-06-04-suspension-void](/reviews/deep-review-2026-06-04-suspension-void/)
+
+## 2026-06-04T13:49:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [plurality-void](/voids/plurality-void/)
+- **Original score**: CONVERGED (2026-04-28 deep review, "no changes" stability note); pessimistic-2026-06-04-plurality-void flagged ONE low-severity source-calibration nuance.
+- **Changes**: Single-clause source-fidelity edit on the opening (line 31). The article cites Schrödinger's "Consciousness is a singular of which the plural is unknown" to anchor the plurality void (a cognitive limit). Schrödinger's own conclusion from that datum was Vedantic-monist (only one consciousness; plurality is Maya), not a flagging of a cognitive limit. Added one clause distinguishing the datum the Map borrows from the conclusion it declines: "Schrödinger himself drew a monist conclusion from this datum—that the plural is unknown because there is, at bottom, only one consciousness—but the Map takes the singularity as datum without the monist inference, reading the plurality limit as a genuine void rather than evidence of metaphysical oneness." Dualist framing preserved (Map does NOT endorse the monist reading).
+- **Preserved**: all 8 citations untouched (not re-verified this pass per task discipline); converged flow intact; dualist/void framing intact; no wikilinks touched.
+- **Body word count**: 1742 (was 1696; topics/voids length-safe under 2000).
+- **Published**: yes
+
+## 2026-06-04T18:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [cross-domain-void-comparison](/topics/cross-domain-void-comparison/)
+- **Original score**: 8/10 (pessimistic-review flagged coherence-inflation in central argument)
+- **Changes**: Calibration-tightening per [pessimistic-2026-06-04](/reviews/pessimistic-2026-06-04/). (a) "Testing the Failure-Signature Inventory" section: acknowledged the inventory is BUILT FROM consciousness voids, so the absence of the four subject-requiring signatures (construction-mistaken-for-observation, dissolution-under-attention, silent-erasure, epistemic-vertigo) in subjectless domains is guaranteed BY CONSTRUCTION, not discovered — "close to analytic." Downgraded "strongest empirical mark" → confirmatory colour corroborating the taxonomic-depth axis, not independent discriminating proof; isolated the non-trivial residue (thin matches among the four non-subject-bound signatures + cross-generated disjoint physics/math signatures). (b) Connected the line-114 common-cause-null concession to the second-difference argument: the four subject-requiring signatures are absent-by-construction in subjectless domains AND present in consciousness on either dualist or illusionist reading → "the common-cause null and the by-construction discount are one constraint viewed twice." (c) Clarified the taxonomic-depth "first difference": separated the subject/object co-variance (occluded + naturally-occluded kinds DO require a subject) from the genuinely independent fact (the *spanning* — a single void fracturing into multiple inaccessibility-modes at once), which a selection effect does not explain; kept it load-bearing as the discriminating axis.
+- **Preserved**: all 6 web-verified citations (Cubitt 2015, Szangolies 2018, Gödel 1931/1940, Turing 1936, Cohen 1963) untouched; "The Difference That Cuts the Other Way" honesty section untouched; bounded framework-internal verdict (final para of Relation to Site Perspective) preserved and reinforced. Length-neutral local fix.
+- **Body word count**: 2757 (up from ~2274; topics threshold 3000 soft / 4000 hard — status ok). Anchoring: no flags after edit.
+- **Published**: yes
+
+## 2026-06-04T16:50:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [cross-domain-void-comparison](/topics/cross-domain-void-comparison/) (created today; fresh-create-defect-tail candidate)
+- **Findings**: Citations all web-verified CLEAN at publisher (Cubitt 2015 Nature 528, Cohen 1963 PNAS 50, Szangolies 2018 Found.Phys 48, Gödel 1931/1940, Turing 1936 — no fabricated, no wrong-metadata). One Medium argumentative finding: the central "second difference" (signature inventory doesn't transfer to physics/math) is partly ANALYTIC not empirical — the inventory is built from consciousness voids and 4/8 signatures require an introspecting subject, so their absence in subjectless domains is guaranteed by construction; "strongest empirical mark" (line 94) overstates it. Coherence-inflation, not a false claim. One P2 refine-draft task generated. Internal consistency with apex strong (reciprocal cross-link already present).
+- **Output**: [pessimistic-2026-06-04](/reviews/pessimistic-2026-06-04/)
+
+## 2026-06-04T13:35:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [neural-implementation-specifics](/topics/neural-implementation-specifics/)
+- **Task**: topic-concept anchoring audit (Audit Three of [calibration-audit-triple](/project/calibration-audit-triple/)) — bring hedge profile in line with anchor [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
+- **Failed checks before**: strong_assertions (4 strong-assertion verbs vs anchor's 0) + underdetermination_markers (anchor 1, topic 0)
+- **Verbs reframed**:
+  - "model shows that ions can tunnel" → "model finds that" (register-soften; reports a modeling result honestly, not over-hedged)
+  - "establishes this conclusively" / "empirically refuted" → "is the firm experimental anchor here" / "does not survive that result" (register-soften two strong assertions in the "What the Evidence Supports" section)
+  - "radical pair mechanism proves that…" → FOLD-INTO-REFRAME: "settles that quantum effects can operate at neural timescales; that finding does not adjudicate whether they do so in ways relevant to consciousness, and the deeper inference … is underdetermined by the evidence … does not decide between a mechanism that merely accompanies consciousness and one that consciousness exploits." Placed the underdetermination at the article's genuine metaphysical gap (neural quantum implementation → consciousness), where a dualist topic should be underdetermined.
+- **Result**: evaluate_anchoring returns `[]` (both checks clear). strong_assertion_count 4→1 (residual "evidence hierarchy shows that" is honest structural reporting, within anchor tolerance); underdetermination_marker_count 0→3.
+- **Central claim/voice**: intact — evidence hierarchy, mechanism rankings, and the Map's "track-which-mechanism-best-satisfies-constraints" thesis preserved; calibration inheritance only, no thesis weakening.
+- **Published**: yes
+
+## 2026-06-04T13:04:10+00:00 - deep-review
+- **Status**: Success (index hub — taxonomy verified accurate; 2 absorbed entries trimmed; length flagged for human)
+- **File**: [voids](/voids/)
+- **Word count**: 4615 → 4493 (−122)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (compressed two absorbed research-stage entries duplicating host-article detail)
+- **Taxonomy check**: 113/113 wikilink targets LIVE; no archival link-rot; no MISSING/ARCHIVE-ONLY. Three 2026-06-01 absorptions (effort-void→agency-void, cognitive-phenomenology-void→imagery-void + noetic-feelings-void) verified landed in host articles.
+- **Anchoring**: clean (empty flag list)
+- **Length**: 4493w over voids hard threshold (3000) from irreducible navigational catalogue → human length-decision queued in Blocked Tasks, not auto-condensed
+- **Output**: [deep-review-2026-06-04-voids](/reviews/deep-review-2026-06-04-voids/)
+
+## 2026-06-04T13:30:00+00:00 - deep-review
+- **Status**: Success (converged — no critical/medium issues; near-no-op + full publisher-of-record citation audit)
+- **File**: [memory-system-vulnerability-hierarchies-as-interface-evidence](/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/)
+- **Selection**: refined-after-review staleness — reviewed 2026-05-19, then condensed (4091w→) + semantic-memory-calibration refined; genuine changed-since-review content re-vetted. Citation-heavy; ai_modified≠today.
+- **Web-verify**: APPLIED to all 10 empirical citations at the publisher of record (not intra-corpus). ALL CLEAN — Tulving 1985/2002, Wheeler-Stuss-Tulving 1997 (quote verbatim-accurate), Klein 2014, Sarasso 2015 (CB 25(23) 3099–3105, ketamine-vivid-dreams finding accurate), Hu 2023 (Nat Neuro 26 751–764 + DOI exact), Siclari 2017 (Nat Neuro 20 872–878), Nahm-Greyson 2009, Reinders 2003, Lynn 2014, Bodien 2024 (NEJM 391(7) 598–608). No fabrication / wrong-author / wrong-year-volume / wrong-page / wrong-finding. Source-conclusion + verbatim-quote checks pass.
+- **Defects by class**: 0 critical, 0 medium. 1 low (uncited foundational references: Bergson/Huxley/James filter-tradition + Mashour/Reinders/Bodien section-backing) — acceptable foundational-reading pattern, NOT actioned (over-edit risk on converged content).
+- **Calibration**: possibility-probability slippage check passed (diagnostic test: tenet-accepting reviewer would not flag); post-condense verb-softening moved register toward honesty, not over-hedged demonstrated findings; evaluate_anchoring → no flags. No editor-vocabulary / tier-label leakage. Reasoning-mode classifications (Mode One binary-production; Mode Two sophisticated-production + PP-absorption) re-confirmed intact post-condense.
+- **Word count**: 3809 → 3809 (timestamp-only; length-neutral mode, soft_warning, under 4000 hard ceiling)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged — verify-don't-expand)
+- **Output**: [deep-review-2026-06-04-memory-system-vulnerability-hierarchies-as-interface-evidence](/reviews/deep-review-2026-06-04-memory-system-vulnerability-hierarchies-as-interface-evidence/)
+
+## 2026-06-04T12:47:18+00:00 - refine-draft
+- **Status**: Success
+- **Trigger**: Cross-link integration from optimistic-2026-06-04d — [carrolls-regress](/concepts/carrolls-regress/) advertises itself as a reference target but was near-orphaned (3 inbound); three articles build load-bearing arguments on its machinery without citing it. Multi-file task, all three done (no dropped file).
+- **Files / changes** (all near-length-neutral, one clause max per body edit):
+  - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) (2843→2866w, ok): at the modus-ponens passage ("the machine does not encounter logic's demand") added one clause naming Carroll's regress + inference-void as the canonical treatment — "— the gap [Carroll's regress](/concepts/carrolls-regress/) and the [inference void](/voids/inference-void/) treat as canonical, where executing the rule never amounts to being moved by it." + `[[carrolls-regress]]` related_articles entry (was absent).
+  - [rational-normativity](/concepts/rational-normativity/) (2062→2080w, ok): at the rule-following/functionalism passage ("implements the inference norm without grasping it") added a see-also clause — "the predicament [Carroll's regress](/concepts/carrolls-regress/) formalises: no amount of added premises makes a mechanism *take* the rule as binding." + `[[carrolls-regress]]` related_articles entry (was absent).
+  - [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/) (2525w, ok, unchanged): `[[carrolls-regress]]` related_articles entry only, no body edit (was absent).
+- **Verification**: both link targets resolve (carrolls-regress = "Carroll's Regress", voids/inference-void = "The Inference Void"); sync exit 0 with no broken-wikilink strip on these slugs; all three under length thresholds post-edit. Web-integrity/methodological only — no metaphysical claim altered.
+- **Published**: yes
 
 ## 2026-06-04T12:38:42+00:00 - refine-draft
 - **Status**: Success
