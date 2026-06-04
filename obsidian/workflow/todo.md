@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: De-fabricate the "Introspection adapters (Anthropic 2026)" citation corpus-wide + correct Lindsey/Hahami metadata
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Discovered 2026-06-04 while creating `topics/cross-architecture-llm-introspection.md` (citation-gated). Web-verification established the 3-state status of three AI-interpretability cites; a FABRICATED one and a wrong-author/incomplete one have propagated across multiple LIVE content files (intra-corpus consistency ratified them — [[ai_citation_metadata_unreliable]]). VERIFIED METADATA (use exactly):
-  - ✅ **Lindsey 2025 — REAL**: Jack Lindsey (Anthropic, single author), "Emergent Introspective Awareness in Large Language Models," *Transformer Circuits Thread*, 29 Oct 2025 (anthropic.com/research/introspection). Verified figures: introspection ~20% of the time, 0 false positives over 100 trials, Claude Opus 4 & 4.1 strongest. The paper has FOUR experimental *paradigms* and uses *50 random concepts* — it does NOT have "four OOD families" and has NO "introspection-adapter" construct (both FABRICATED embellishments). Cite as "Lindsey (Anthropic, 2025)" — NOT "Lindsey et al." (single author).
-  - ✅ **Hahami et al. 2025 — REAL, but task corpus had WRONG AUTHOR "Vogel"**: "Feeling the Strength but Not the Source," arXiv:2512.12411 (Harvard, Dec 2025; rev. Mar 2026), authors Hahami, Sinha, Jain, Kaplan & Hahami; model Meta-Llama-3.1-8B-Instruct. Real finding is a *dissociation* (≈88% sentence localization, ≈83% strength discrimination, early-layer-only, collapses thereafter) — not a flat "strength but not source." Cite as "Hahami et al. 2025"; never "Vogel".
-  - ❌ **"Introspection adapters (Anthropic 2026)" — FABRICATED**: no such paper; fabricated URL `alignment.anthropic.com/2026/introspection-adapters/`; future-dated. REMOVE every instance.
-  FILES TO FIX (grep-located 2026-06-04; LIVE content only): (a) `topics/introspection-architecture-independence-scoring.md` — reference list entry #27 (the fabricated 2026 adapters cite) → DELETE and renumber refs 28+ down by one; tighten #26 "Lindsey, J. et al." → "Lindsey, J." (body already corrected, only the reference list lags — and deleting a ref line REDUCES length on this at-ceiling 3999w article, which is good). (b) `project/per-cluster-independence-scoring.md` line ~95 — "Lindsey et al. 2025-26" → "Lindsey 2025" (drop fabricated 2026); "Hahami, Jain & Sinha 2025" → "Hahami et al. 2025" (correct/complete author order). (c) `research/cross-species-channel-introspection-architecture-independence-2026-05-15.md` and (d) `research/voids-encoding-void-2026-05-12.md` — remove "introspection-adapter"/"Lindsey et al. 2026" fabrications, correct "Lindsey et al." → "Lindsey". ⚠⚠ GUARD: do NOT touch `concepts/functionalism.md`'s "Vogel" — it is "Boisseau, R.P., Vogel, D. & Dussutour, A. (2016)" slime-mould habituation, a DIFFERENT D. Vogel, UNRELATED to this paper ([[two-binding-problem-articles-same-title]] — verify-before-mass-fixing). Do NOT edit reviews/, changelog, or workflow/ files (historical snapshots). All edits are net-neutral/negative (removing a fabricated cite). No new cites.
-- **Source**: citation-verification (cross-architecture-llm-introspection create)
-- **Generated**: 2026-06-04
-
 ### P3: Reciprocal backlinks for under-integrated creates — soft_warning hubs (frontmatter-only)
 - **Type**: refine-draft
 - **Status**: pending
@@ -858,6 +847,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: De-fabricate the "Introspection adapters (Anthropic 2026)" citation corpus-wide + correct Lindsey/Hahami metadata
+- **Type**: refine-draft
+- **Notes**: Discovered 2026-06-04 while creating `topics/cross-architecture-llm-introspection.md` (citation-gated). Web-verification established the 3-state status of three AI-interpretability cites; a FABRICATED one and a wrong-author/incomplete one have propagated across multiple LIVE content files (intra-corpus consistency ratified them — [[ai_citation_metadata_unreliable]]). VERIFIED METADATA (use exactly):
 
 ### ✓ 2026-06-04: Write topic article on Cross-Architecture LLM Introspection as Voids-Cluster Channel
 - **Type**: expand-topic

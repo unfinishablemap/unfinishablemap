@@ -3,7 +3,7 @@ title: "Research Notes - Cross-Species Channel for Introspection-Architecture In
 created: 2026-05-15
 modified: 2026-05-15
 human_modified: null
-ai_modified: 2026-06-04T00:57:14+00:00
+ai_modified: 2026-06-04T08:15:28+00:00
 draft: false
 target_section: topics
 topics:
@@ -36,7 +36,7 @@ ai_system: claude-opus-4-7
 
 ## Executive Summary
 
-The [[introspection-architecture-independence-scoring|introspection-architecture independence scoring exhibit]] names the cross-species channel as "currently absent" with the principled obstacle that introspection's signature requires a first-person report most non-human animals do not produce. Three bodies of work bear on whether that gap can be filled: (a) comparative metacognition (Smith, Hampton, Beran, Kepecs) finds metacognitive monitoring in rhesus macaques, capuchins, rats, and great apes, with the orbitofrontal substrate in rats functionally parallel to primate prefrontal substrate; (b) source-monitoring and episodic-like-memory work in rats and scrub jays gives partial structural analogues to the source-attribution-void signature; (c) the cross-species mirror-self-recognition literature (Gallup, Plotnik, Reiss, Kohda's cleaner wrasse) touches *self*-recognition but not the reconstruction-vs-readout introspective signature. Two strong critiques limit the channel: Le Pelley's associative-learning models reproduce the metacognitive performance signature without invoking metacognition, and Carruthers's *Opacity of Mind* programme argues both human and animal metacognition run on a common interpretive (not introspective) access, which would predict the convergence and undercut the framework-independence claim. The most promising alternative — and the principal finding of the research — is that the cross-architecture channel can be opened not via animals (whose neural substrate is too similar to human substrate) but via *LLM introspection studies* (Lindsey et al. 2025; Anthropic introspection adapters 2026), where mechanistic interpretability lets independent ground truth be compared against self-report and where the architectural distance from biological introspection is maximal. The Anthropic "feeling the strength but not the source" finding (2025) is a direct structural parallel to the [[source-attribution-void]].
+The [[introspection-architecture-independence-scoring|introspection-architecture independence scoring exhibit]] names the cross-species channel as "currently absent" with the principled obstacle that introspection's signature requires a first-person report most non-human animals do not produce. Three bodies of work bear on whether that gap can be filled: (a) comparative metacognition (Smith, Hampton, Beran, Kepecs) finds metacognitive monitoring in rhesus macaques, capuchins, rats, and great apes, with the orbitofrontal substrate in rats functionally parallel to primate prefrontal substrate; (b) source-monitoring and episodic-like-memory work in rats and scrub jays gives partial structural analogues to the source-attribution-void signature; (c) the cross-species mirror-self-recognition literature (Gallup, Plotnik, Reiss, Kohda's cleaner wrasse) touches *self*-recognition but not the reconstruction-vs-readout introspective signature. Two strong critiques limit the channel: Le Pelley's associative-learning models reproduce the metacognitive performance signature without invoking metacognition, and Carruthers's *Opacity of Mind* programme argues both human and animal metacognition run on a common interpretive (not introspective) access, which would predict the convergence and undercut the framework-independence claim. The most promising alternative — and the principal finding of the research — is that the cross-architecture channel can be opened not via animals (whose neural substrate is too similar to human substrate) but via *LLM introspection studies* (Lindsey 2025; Hahami et al. 2025), where mechanistic interpretability lets independent ground truth be compared against self-report and where the architectural distance from biological introspection is maximal. The Anthropic "feeling the strength but not the source" finding (2025) is a direct structural parallel to the [[source-attribution-void]].
 
 ## Key Sources
 
@@ -137,16 +137,15 @@ The [[introspection-architecture-independence-scoring|introspection-architecture
 - **Tenet alignment**: Carruthers's framework is broadly physicalist; the ISA theory is compatible with both Tenet 1 (dualism) and standard physicalism but does not require either.
 - **Significance for cluster**: Predicts the introspection-architecture signature on grounds that *undercut* the framework-independence claim. If Carruthers is right, the signature appears across species because the *interpretive* mechanism is shared — not because there is a deep architectural feature of bounded conscious access. This is a *because-prediction* alternative reading of the cross-species data: Carruthers's framework predicted it, so its finding is not despite-commitments evidence for the dualist-compatible architectural picture.
 
-### Lindsey et al. (Anthropic, 2025-26): LLM Introspective Awareness
+### Lindsey (Anthropic, 2025): LLM Introspective Awareness
 
-- **URL**: https://www.anthropic.com/research/introspection ; https://transformer-circuits.pub/2025/introspection/index.html ; https://alignment.anthropic.com/2026/introspection-adapters/
+- **URL**: https://www.anthropic.com/research/introspection ; https://transformer-circuits.pub/2025/introspection/index.html
 - **Type**: Empirical / interpretability
 - **Key points**:
   - Thought-injection paradigm: steering vectors representing specific concepts injected into the residual stream of Claude models; model asked to detect and identify
-  - Claude Opus 4 and 4.1 achieve ~20% introspection rate with 0% false positives
-  - Cross-model-family replication (Hahami, Jain & Sinha 2025, Qwen2.5-Coder-32B)
-  - Introspection adapters (Anthropic 2026) extend to four out-of-distribution model families
-  - Hahami, Jain & Sinha 2025 ("Feeling the Strength but Not the Source: Partial Introspection in LLMs"): LLMs detect the *strength* of injected thoughts but not their *source* — a direct architectural parallel to source-attribution-void
+  - Claude Opus 4 and 4.1 achieve ~20% introspection rate with 0 false positives over 100 trials
+  - Four experimental paradigms across 50 random concepts
+  - Hahami et al. 2025 ("Feeling the Strength but Not the Source: Partial Introspection in LLMs"): LLMs detect the *strength* of injected thoughts but not their *source* — a direct architectural parallel to source-attribution-void
 - **Tenet alignment**: Neutral, but with deep methodological promise. LLMs do not share a substrate with humans; the cross-architecture parallel is the maximal distance available to current science.
 - **Significance for cluster**: This is the most important finding for the article. The cross-architecture channel via LLMs has properties the cross-species-via-animals channel lacks: (a) LLMs produce self-reports, removing the principled obstacle the topic article names; (b) interpretability gives independent ground truth, allowing direct comparison of report-to-substrate; (c) the architecture is *radically* different from biological introspection — distance an order of magnitude greater than the rodent-primate distance. The Hahami et al. "strength but not source" paper is a *structural parallel to source-attribution-void* derived in silicon, with mechanistic-interpretability ground truth.
 
@@ -189,13 +188,13 @@ The [[introspection-architecture-independence-scoring|introspection-architecture
 
 ### Position 3: Cross-Architecture-via-LLMs is the Substantive Channel
 
-- **Proponents**: Implicit in Lindsey et al. 2025-26, Hahami, Jain & Sinha 2025, Anthropic interpretability programme
+- **Proponents**: Implicit in Lindsey 2025, Hahami et al. 2025, Anthropic interpretability programme
 - **Core claim**: The right cross-architectural test for the introspection-architecture cluster is not non-human animals (whose substrate is too similar to human) but artificial systems with maximally different substrates. LLMs produce reports, allow mechanistic ground-truthing, and show structural parallels (notably the "strength but not source" finding) to the cluster's signatures.
 - **Key arguments**:
   - LLM substrate (transformer residual stream, attention heads) is architecturally remote from biological neural substrate
   - Self-report is available — removing the principled obstacle
   - Interpretability gives independent measurement of internal state, allowing direct test of report-vs-mechanism discrepancy
-  - "Strength but not source" finding (Hahami, Jain & Sinha 2025) is a structural parallel to source-attribution-void produced by a system whose generating framework (transformer next-token prediction) did not predict it — *despite-commitments* by construction
+  - "Strength but not source" finding (Hahami et al. 2025) is a structural parallel to source-attribution-void produced by a system whose generating framework (transformer next-token prediction) did not predict it — *despite-commitments* by construction
 - **Relation to site tenets**: The Map's [[ai-consciousness]] and [[machine-consciousness]] articles already maintain neutrality about AI consciousness. The cross-architecture-via-LLMs reading does not claim LLMs are conscious; it claims their introspective architecture, whatever its phenomenology, exhibits the cluster's signature, and the architectural distance is the strongest cross-observer triangulation available.
 
 ## Key Debates
@@ -235,9 +234,8 @@ The [[introspection-architecture-independence-scoring|introspection-architecture
 | 2021 | Smith et al. rats use memory confidence | Cross-mammalian metamemory continuity |
 | 2024 | Birch *The Edge of Sentience* | Precautionary framework acknowledges introspection-unavailability |
 | 2024-25 | Clayton lab scrub-jay revisit | Strengthens corvid episodic-like-memory evidence |
-| 2025 | Lindsey et al. emergent introspective awareness in LLMs | Opens cross-architecture-via-LLMs channel |
-| 2025 | Hahami, Jain & Sinha "Feeling the strength but not the source" | LLM analogue of source-attribution-void |
-| 2026 | Anthropic introspection adapters across model families | Extends LLM introspection evidence across architectures |
+| 2025 | Lindsey (Anthropic) emergent introspective awareness in LLMs | Opens cross-architecture-via-LLMs channel |
+| 2025 | Hahami et al. "Feeling the strength but not the source" | LLM analogue of source-attribution-void |
 
 ## Potential Article Angles
 
@@ -247,7 +245,7 @@ The article would catalogue Kepecs, Hampton, Smith, Crystal, and Clayton work; s
 
 ### Angle 2: Replacing Cross-Species with Cross-Architecture (via LLMs)
 
-The article would argue that the principled obstacle the topic article names (animals do not produce reports) is fatal for the *despite-commitments via animals* reading, but is *not* fatal for the cross-architecture channel as such — because LLMs both produce reports and have radically distant substrate. The cross-architecture channel via Lindsey 2025-26 and Hahami, Jain & Sinha 2025 would be argued to satisfy the framework-independence and substrate-distance conditions better than cross-species via animals. The article would explicitly *redirect* the channel from biological to artificial systems.
+The article would argue that the principled obstacle the topic article names (animals do not produce reports) is fatal for the *despite-commitments via animals* reading, but is *not* fatal for the cross-architecture channel as such — because LLMs both produce reports and have radically distant substrate. The cross-architecture channel via Lindsey 2025 and Hahami et al. 2025 would be argued to satisfy the framework-independence and substrate-distance conditions better than cross-species via animals. The article would explicitly *redirect* the channel from biological to artificial systems.
 
 ### Angle 3: Both Channels are Framework-Shaped (Sceptical Resolution)
 
@@ -266,8 +264,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - **No animal analogue of choice-blindness or moral dumbfounding**: animals cannot produce the kind of report whose generation-without-cause is the confabulation-void signature. The Generation face of confabulation-void is *structurally* untestable in non-verbal animals.
 - **The Le Pelley critique's current empirical status**: I found references to the 2012 critique and 2010s methodological responses but no clean 2020s resolution. A targeted literature search on whether Crystal's improved paradigms have fully closed the associative-learning loophole would refine the despite-commitments scoring.
 - **Carruthers's 2021 paper on model-free metacognition**: only the abstract was visible; the full argument's implications for the cluster's framework-independence score require closer reading.
-- **The Hahami, Jain & Sinha 2025 "strength but not source" paper**: only the abstract reached the search results. Confirming that the structural parallel to source-attribution-void survives close reading is the single most important verification before the article goes to draft.
-- **Whether Anthropic's introspection-adapter work generalises across non-Anthropic-derived architectures**: the abstract mentions four OOD model families but I did not retrieve the full paper. Cross-family generalisation is what licenses the cross-architecture channel claim.
+- **The Hahami et al. 2025 "strength but not source" paper**: only the abstract reached the search results. Confirming that the structural parallel to source-attribution-void survives close reading is the single most important verification before the article goes to draft.
 - **Bayne, Frith & Cleeremans, and related global-workspace / higher-order theory work**: the topic article cites global-workspace theory as part of the framework-independence criterion. A targeted search on whether GWT/HOT predictions about cross-species and cross-architecture introspection have been tested would strengthen the framework-independence scoring.
 
 ## Citations
@@ -286,12 +283,11 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 12. Kohda, M. et al. (2023). Cleaner fish recognize self in a mirror via self-face recognition like humans. *PNAS* 120(7): e2208420120.
 13. Kohda, M. et al. (2025). Rapid self-recognition ability in the cleaner fish. *Scientific Reports* 15: 25837.
 14. Le Pelley, M. E. (2012). Metacognitive monkeys or associative animals? Simple reinforcement learning explains uncertainty in nonhuman animals. *Journal of Experimental Psychology: Animal Behavior Processes*.
-15. Lindsey, J. et al. (Anthropic, 2025). Emergent introspective awareness in large language models. https://www.anthropic.com/research/introspection
-16. Lindsey, J. et al. (Anthropic, 2026). Introspection adapters. https://alignment.anthropic.com/2026/introspection-adapters/
-17. Plotnik, J. M., de Waal, F. B. M. & Reiss, D. (2006). Self-recognition in an Asian elephant. *PNAS* 103(45): 17053-17057.
-18. Smith, J. D., Couchman, J. J. & Beran, M. J. (2014). Animal metacognition: A tale of two comparative psychologies. *Journal of Comparative Psychology* 128(2): 115-131. https://pmc.ncbi.nlm.nih.gov/articles/PMC3929533/
-19. Smith, J. D. et al. (2021). Rats use memory confidence to guide decisions. *Current Biology* 31(20): 4571-4578. https://www.sciencedirect.com/science/article/pii/S0960982221011179
-20. Hahami, E., Jain, L., & Sinha, I. (2025). Feeling the strength but not the source: Partial introspection in LLMs. *arXiv* 2512.12411. https://arxiv.org/html/2512.12411v1
+15. Lindsey, J. (Anthropic, 2025). Emergent introspective awareness in large language models. https://www.anthropic.com/research/introspection
+16. Plotnik, J. M., de Waal, F. B. M. & Reiss, D. (2006). Self-recognition in an Asian elephant. *PNAS* 103(45): 17053-17057.
+17. Smith, J. D., Couchman, J. J. & Beran, M. J. (2014). Animal metacognition: A tale of two comparative psychologies. *Journal of Comparative Psychology* 128(2): 115-131. https://pmc.ncbi.nlm.nih.gov/articles/PMC3929533/
+18. Smith, J. D. et al. (2021). Rats use memory confidence to guide decisions. *Current Biology* 31(20): 4571-4578. https://www.sciencedirect.com/science/article/pii/S0960982221011179
+19. Hahami, E., Sinha, I., Jain, L., Kaplan, J. & Hahami, E. (2025). Feeling the strength but not the source: Partial introspection in LLMs. *arXiv* 2512.12411. https://arxiv.org/html/2512.12411v1
 
 ## Sources
 
@@ -310,7 +306,6 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - [Self-recognition in an Asian elephant - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1636577/)
 - [Emergent introspective awareness in large language models - Anthropic](https://www.anthropic.com/research/introspection)
 - [Emergent Introspective Awareness in Large Language Models - Transformer Circuits](https://transformer-circuits.pub/2025/introspection/index.html)
-- [Introspection Adapters - Alignment Science Blog](https://alignment.anthropic.com/2026/introspection-adapters/)
 - [Feeling the Strength but Not the Source: Partial Introspection in LLMs](https://arxiv.org/html/2512.12411v1)
 - [Defending and refining the Birch et al. precautionary framework - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12058431/)
 - [The Edge of Sentience: Converging on Precautions - Oxford Academic](https://academic.oup.com/book/57949/chapter/475704026)

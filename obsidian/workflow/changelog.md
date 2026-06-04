@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04T12:00:00+00:00
+ai_modified: 2026-06-04T08:15:28+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-04T08:15:28+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Corpus-wide citation de-fabrication (Lindsey/Hahami/introspection-adapter), web-verified 3-state metadata
+- **Files**:
+  - [[topics/introspection-architecture-independence-scoring]] — reference list lagged the already-fixed body: deleted fabricated ref #27 ("Lindsey, J. et al. (Anthropic, 2026). Introspection adapters. alignment.anthropic.com/2026/introspection-adapters/"), renumbered 28→27 … 39→38 (contiguous; body uses author-year only, zero `[N]` citations → no breakage), tightened #26 "Lindsey, J. et al." → "Lindsey, J." (single author). Net -1 line; analyze_length 4005w (pre-existing over-ceiling, not addressed — net change negative, no content added).
+  - [[project/per-cluster-independence-scoring]] — "Lindsey et al. 2025-26; Hahami, Jain & Sinha 2025" → "Lindsey 2025; Hahami et al. 2025".
+  - [[research/cross-species-channel-introspection-architecture-independence-2026-05-15]] — removed fabricated "introspection adapters (Anthropic 2026)" everywhere (exec summary, key-source list incl. "four OOD families", timeline-table row, open-questions item, reference #16, Sources link, header); corrected "Lindsey et al." → "Lindsey" and "Hahami, Jain & Sinha" → "Hahami et al." throughout; fixed ref #19 Hahami author list. Verified figures restored (0 false positives over 100 trials, four paradigms / 50 concepts).
+- **Not touched (verified different defect/context)**:
+  - research/voids-encoding-void-2026-05-12.md — its only "Lindsey" is J.W. Lindsey, Litwin-Kumar & Gjorgjieva (recall-gated plasticity, *eLife* 2024), a DIFFERENT, unrelated Lindsey; no AI-introspection / adapter / Vogel fabrication present. Left untouched.
+  - concepts/functionalism.md "Vogel" = Boisseau, R.P., Vogel, D. & Dussutour (2016) slime-mould habituation, a different D. Vogel. Confirmed untouched.
+- **Validation**: validate.py exits 0; functionalism Vogel and voids-encoding Lindsey confirmed unchanged.
+- **Published**: yes (research/project files; topics article body unchanged in argument)
 
 ## 2026-06-04T07:51:27+00:00 - expand-topic
 - **Status**: Success
