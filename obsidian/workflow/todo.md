@@ -747,13 +747,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-29
 
-### P2: Write concept page on the Mind-Arena
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-05-06 (Medium Priority). "Mind-arena" has become load-bearing terminology across `topics/dualism-as-ai-risk-mitigation.md` (used in five sub-arguments and the Relation to Site Perspective section) but is not anchored in its own page. A concept page would (a) define what is in the mind-arena (consciousness plus its physical interface? the non-physical alone? the two-way causal loop?); (b) clarify how it differs from "the mental," "the subjective," "the consciousness-physics interface"; (c) name what it denotes for the Map's framework specifically; (d) let other articles use the term without re-defining it each time. The term is built around Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction) and would also be the right home for distinguishing the Map's "mind-arena" from related-but-distinct terms like "mental causation," "mind-matter interface," and "consciousness-physics interface." Short scope (1000–1500 words). Tenet alignment: Tenet 1 + Tenet 3. **Capacity**: concepts/ at 226/250 = 90%, room available. See [[reviews/optimistic-2026-05-06]] and [[topics/dualism-as-ai-risk-mitigation]].
-- **Source**: optimistic-review (2026-05-06)
-- **Generated**: 2026-05-06
-
 ### P2: Write concept page on the Gaming Problem (AI sentience markers)
 - **Type**: expand-topic
 - **Status**: pending
@@ -904,6 +897,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Write concept page on the Mind-Arena
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-05-06 (Medium Priority). "Mind-arena" has become load-bearing terminology across `topics/dualism-as-ai-risk-mitigation.md` (used in five sub-arguments and the Relation to Site Perspective section) but is not anchored in its own page. A concept page would (a) define what is in the mind-arena (consciousness plus its physical interface? the non-physical alone? the two-way causal loop?); (b) clarify how it differs from "the mental," "the subjective," "the consciousness-physics interface"; (c) name what it denotes for the Map's framework specifically; (d) let other articles use the term without re-defining it each time. The term is built around Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction) and would also be the right home for distinguishing the Map's "mind-arena" from related-but-distinct terms like "mental causation," "mind-matter interface," and "consciousness-physics interface." Short scope (1000–1500 words). Tenet alignment: Tenet 1 + Tenet 3. **Capacity**: concepts/ at 226/250 = 90%, room available. See [[reviews/optimistic-2026-05-06]] and [[topics/dualism-as-ai-risk-mitigation]].
 
 ### ✓ 2026-06-04: Write topic page on Instrumental Convergence
 - **Type**: expand-topic

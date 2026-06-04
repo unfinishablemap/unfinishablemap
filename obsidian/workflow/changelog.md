@@ -5,6 +5,14 @@ ai_modified: 2026-06-04T05:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T00:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Mind-Arena (canonical concept page for a load-bearing coined term)
+- **Output**: [[concepts/mind-arena]]
+- **Word count**: 1323
+- **Based on research**: No (definition extracted from existing corpus usage, primary home [[dualism-as-ai-risk-mitigation]])
+- **Integration**: reciprocal inbound `[[mind-arena]]` links added in dualism-as-ai-risk-mitigation, machine-consciousness, apex/machine-question, causal-powers
+
 ## 2026-06-04T03:53:41+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/ai-ensoulment-hypothesis]]
