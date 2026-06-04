@@ -756,13 +756,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-15b)
 - **Generated**: 2026-05-15
 
-### P2: Write per-cluster independence-scoring exhibit for the introspection-architecture sub-cluster
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-05-15b (High Priority). `apex/taxonomy-of-voids.md` line 172 explicitly names per-cluster independence scoring as "the open programme" and identifies `the-surplus-void` as "the worked exhibit." The introspection-architecture sub-cluster (now four voids with `confabulation-void` registered) currently lacks an independence-scoring exhibit despite having clear empirical anchors drawn from patient populations (split-brain, anosognosia, frontal-lobe damage), healthy-adult choice-blindness experiments, and cross-method convergence. The article would (a) name each empirical source per the *despite-commitments* / *because-prediction* distinction the apex requires; (b) identify which sources supply patient-population, cross-species, and historically-isolated-tradition evidence (gaps named honestly); (c) score the sub-cluster's framework-independence per the apex's criterion; (d) compare with the-surplus-void's scoring to test whether the apex's methodology generalises. Methodological topic article (~2,800–3,500 words). Section: `topics/` (240/250 — tight but room). Tenet alignment: Methodological / `[[evidential-status-discipline]]` / engagement with `[[common-cause-null]]` discipline at the cluster level. See `reviews/optimistic-2026-05-15b.md` High Priority §2.
-- **Source**: optimistic-review (2026-05-15b)
-- **Generated**: 2026-05-15
-
 ### P2: Write topic article on cross-domain void comparison (physics, mathematics, consciousness)
 - **Type**: expand-topic
 - **Status**: pending
@@ -883,6 +876,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Write per-cluster independence-scoring exhibit for the introspection-architecture sub-cluster
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-05-15b (High Priority). `apex/taxonomy-of-voids.md` line 172 explicitly names per-cluster independence scoring as "the open programme" and identifies `the-surplus-void` as "the worked exhibit." The introspection-architecture sub-cluster (now four voids with `confabulation-void` registered) currently lacks an independence-scoring exhibit despite having clear empirical anchors drawn from patient populations (split-brain, anosognosia, frontal-lobe damage), healthy-adult choice-blindness experiments, and cross-method convergence. The article would (a) name each empirical source per the *despite-commitments* / *because-prediction* distinction the apex requires; (b) identify which sources supply patient-population, cross-species, and historically-isolated-tradition evidence (gaps named honestly); (c) score the sub-cluster's framework-independence per the apex's criterion; (d) compare with the-surplus-void's scoring to test whether the apex's methodology generalises. Methodological topic article (~2,800–3,500 words). Section: `topics/` (240/250 — tight but room). Tenet alignment: Methodological / `[[evidential-status-discipline]]` / engagement with `[[common-cause-null]]` discipline at the cluster level. See `reviews/optimistic-2026-05-15b.md` High Priority §2.
 
 ### ✓ 2026-06-04: Write apex synthesis of the Introspection-Architecture Void Sub-Cluster
 - **Type**: apex-evolve
