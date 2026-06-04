@@ -1,0 +1,142 @@
+---
+ai_contribution: 100
+ai_generated_date: 2026-06-04
+ai_modified: 2026-06-04 00:00:00+00:00
+ai_system: claude-opus-4-8
+author: null
+concepts:
+- '[[mysterianism]]'
+- '[[dualism]]'
+- '[[introspection]]'
+created: 2026-06-04
+date: &id001 2026-06-04
+description: Physics and mathematics have their own hard limits. Comparing them to
+  consciousness voids at matched grain tests whether the consciousness cluster is
+  special or just where humans currently fail—the Map's empirical answer to the selection-effect
+  worry.
+draft: false
+human_modified: null
+last_curated: null
+modified: *id001
+related_articles:
+- '[[voids]]'
+- '[[tenets]]'
+- '[[taxonomy-of-voids]]'
+- '[[what-voids-reveal]]'
+- '[[self-reference-and-the-limits-of-physical-description]]'
+- '[[formal-cognitive-limits]]'
+- '[[apophatic-cartography]]'
+- '[[common-cause-null]]'
+- '[[three-kinds-of-void]]'
+- '[[meta-epistemology-of-limits]]'
+- '[[compound-failure-signatures]]'
+title: 'Cross-Domain Void Comparison: Physics, Mathematics, Consciousness'
+topics:
+- '[[hard-problem-of-consciousness]]'
+---
+
+Physics and mathematics each have their own catalogue of hard limits—the measurement problem, undecidable propositions, cosmological horizons, results provably independent of the axioms. The Map's [voids taxonomy](/apex/taxonomy-of-voids/) argues that the 60+ cognitive voids it catalogues cluster around the consciousness-matter interface in a *structured* way, and that this structure carries abductive weight. But a deflationary reading threatens that argument at its root: maybe consciousness is simply where human inquiry currently fails, and a comparably careful catalogue of physics-voids or math-voids would show the same density. If consciousness voids behave no differently from voids in other domains, the convergence is "just where the map-makers happened to look." If they behave *differently*, the convergence earns weight.
+
+This article runs the comparison the taxonomy gestures at but does not develop. It catalogues representative voids from physics and mathematics at the same taxonomic grain the Map applies to consciousness, tests the apex's four-kinds structure and failure-signature inventory against them, and reports the structural differences. The purpose is narrow and stated up front: this is the Map's empirical defence against the [selection-effect worry](#the-selection-effect-worry-restated) (explained below)—not a substrate-neutral survey of limits. The verdict is qualified: the consciousness cluster does behave differently along several measurable axes, but one of those differences cuts the other way, and honesty requires reporting it.
+
+## What Counts as a Void
+
+The Map uses "void" in a specific sense, narrower than "open problem." A void is a place where understanding breaks down in a *structured, repeatable* way, producing a characteristic [failure signature](/voids/compound-failure-signatures/)—not merely a question we have not yet answered. The [three-kinds taxonomy](/voids/three-kinds-of-void/) sorts a void's territory across three axes (the *unexplored*, the *unexplorable*, the *occluded*), with a fourth kind—the [naturally occluded](/concepts/naturally-occluded/)—added for limits evolution actively maintains. To compare fairly across domains, the same bar must apply everywhere: a genuine void is a *principled* limit with a recognisable signature, not a frontier awaiting more work.
+
+This bar matters because it disciplines the comparison. Many apparent physics and mathematics "limits" are merely unexplored—hard but not principled. Filtering those out is exactly what keeps the comparison from being rigged in the Map's favour.
+
+## Voids in Physics
+
+Physics supplies several limits that clear the bar—principled, with recognisable signatures.
+
+**The measurement problem.** Quantum mechanics predicts superpositions, yet measurement yields definite outcomes; the formalism does not say which outcome occurs or when the transition happens. This is a structural gap, not missing knowledge. Its signature is *interpretive proliferation*: rather than one breakdown, the gap spawns rival interpretations (Copenhagen, many-worlds, Bohmian, GRW collapse) that agree on all predictions and disagree on what is real.
+
+**Undecidability within physics.** Cubitt, Perez-Garcia and Wolf proved in *Nature* (2015) that the spectral gap problem—whether a quantum many-body system's energy spectrum has a gap above the ground state—is formally undecidable; in their words, "there exist models for which the presence or absence of a spectral gap is independent of the axioms of mathematics." This is a Gödel-Turing limit located inside physics, though it concerns mathematical *models* of physical systems rather than finite physical systems themselves.
+
+**Cosmological horizons.** The finite speed of light and the universe's expansion place a hard boundary on the observable region; events beyond the particle horizon are not merely unobserved but unobservable in principle. The signature is clean: a sharp epistemic boundary with no internal phenomenology of approach.
+
+**Fine-tuning.** Several physical constants appear to fall within narrow ranges compatible with complex structure, and physics has no accepted account of why. Its signature is *explanatory regress*: each proposed explanation (multiverse, anthropic selection, deeper law) relocates rather than dissolves the puzzle.
+
+These are real limits. The question is whether they share structure with each other and with consciousness voids—or arise independently.
+
+## Voids in Mathematics
+
+Mathematics supplies the cleanest voids of all, because here "principled limit" can be *proved*.
+
+**Gödelian incompleteness.** Gödel's first incompleteness theorem (1931) shows that any consistent, sufficiently expressive formal system contains true statements it cannot prove; the second shows such a system cannot prove its own consistency. The signature is *self-referential obstruction*: the limit arises when a system encodes statements about itself.
+
+**Independence results.** Whether the continuum hypothesis holds is independent of the standard axioms of set theory: Gödel (1940) showed CH consistent with ZFC, Cohen (1963) showed its negation consistent via forcing. The proposition is neither provable nor refutable from the axioms. The signature is *axiomatic underdetermination*—not failure to find a proof, but a demonstrated absence of any proof either way.
+
+**Uncomputability.** Turing's halting problem and Rice's theorem mark functions no algorithm can compute. [These formal cognitive limits](/voids/formal-cognitive-limits/) are voids whose existence is mathematically certain rather than conjectured.
+
+Mathematics thus offers the best-credentialled voids: their principled character is theorem, not hypothesis. If the Map's claim were "consciousness voids are more certainly *real* than other voids," mathematics would refute it immediately. The Map's claim is different, and the difference is the whole point.
+
+## Testing the Four-Kinds Structure
+
+The apex sorts void *territories* into four kinds. Applying the same axes to physics and mathematics reveals the first structural difference.
+
+Physics and mathematics voids sit overwhelmingly in the **unexplorable** kind, and almost nowhere else. The halting problem, CH independence, and incompleteness are unexplorable by *proof*. Cosmological horizons are unexplorable by physical law. None are plausibly *occluded* (no mechanism hides them; they are openly displayed in the theory) and none are *naturally occluded* (evolution did not shape access to the continuum hypothesis). They are unexplorable-or-nothing.
+
+Consciousness voids, by contrast, distribute across all four kinds and frequently span several at once. The [taxonomy](/apex/taxonomy-of-voids/) notes that a single consciousness void—the quantitative comprehension void, say—can be unexplorable at its cardinality floor, unexplored in its mid-range, and occluded where introspection cannot reach its own operation. The self-knowledge cluster is heavily *occluded* and partly *naturally occluded* (introspective opacity plausibly being adaptively maintained), categories that physics and mathematics voids do not occupy at all.
+
+**First difference:** physics/math voids are taxonomically *flat*—near-pure unexplorables. Consciousness voids are taxonomically *deep*—they populate all four kinds and span them within single voids. A pure selection effect would not predict this asymmetry; if the Map were merely cataloguing "where humans fail," its consciousness voids would cluster in the unexplorable kind too, matching the other domains.
+
+## Testing the Failure-Signature Inventory
+
+The apex's second structuring device is an inventory of failure signatures—the *way* thought breaks down at each void. The original inventory has eight entries: self-refutation, aporia, construction-mistaken-for-observation, systematic illusion, ineffability, epistemic vertigo, dissolution under attention, and silent erasure. Testing physics and mathematics voids against it reveals the second and most informative difference.
+
+Physics and mathematics voids match *at most one* signature each, and the matches are thin:
+
+- Gödelian incompleteness matches **self-refutation** (the self-referential obstruction)—and only that one.
+- The measurement problem matches nothing cleanly; "interpretive proliferation" is not on the consciousness inventory at all.
+- Fine-tuning matches nothing; "explanatory regress" is, again, off-inventory.
+- Cosmological horizons match nothing—a sharp boundary produces *no* characteristic phenomenology of approach, which is precisely why it feels like a wall rather than a void.
+
+Crucially, **none** of the physics or mathematics voids exhibits *construction-mistaken-for-observation*, *dissolution under attention*, *silent erasure*, or *epistemic vertigo*. These four signatures are specific to a knower examining its own cognition—they require an introspecting subject, and physics and mathematics voids have no subject in the loop. The continuum hypothesis does not dissolve when you attend to it; the spectral gap does not silently revise your inventory of yourself downward.
+
+**Second difference:** the failure-signature inventory built from consciousness voids *does not transfer*. Physics and mathematics generate their own signatures (interpretive proliferation, axiomatic underdetermination, explanatory regress, sharp-boundary) that are largely *disjoint* from the consciousness inventory. Two catalogues drawn from "wherever humans currently fail" should share failure modes; these do not. The signature mismatch is the strongest empirical mark that the consciousness cluster is not merely a frontier of current ignorance.
+
+## The Difference That Cuts the Other Way
+
+Intellectual honesty requires reporting a structural similarity the Map's own corpus establishes, one that *weakens* the independence claim. The taxonomy asserts that physics and mathematics voids "arise independently, from different features of different domains." That assertion is too strong.
+
+[Work the Map itself develops](/topics/self-reference-and-the-limits-of-physical-description/) argues, following Szangolies' use of Lawvere's fixed-point theorem, that Gödelian incompleteness *and* the quantum measurement problem derive from a *single* category-theoretic mechanism—self-referential obstruction in Cartesian closed categories, which also generates Turing's halting problem, Cantor's diagonal argument, and Tarski's undefinability of truth. On that analysis, the deepest physics void and the deepest mathematics void are *not* independent: they are two faces of one fixed-point structure.
+
+This matters for the comparison in two directions. It *weakens* the apex's claim that physics and math voids "arise independently"—at their foundations, the most rigorous of them share a mechanism. But it does not rescue the deflationary reading, because the shared mechanism is *self-reference*, and the consciousness voids most resistant to it (the phenomenal core—what experience *is*) are not self-referential obstructions at all. The Lawvere structure unifies the *formal* voids across physics and mathematics; it leaves the *phenomenal* voids of consciousness outside its reach. So the corrected picture is three-way, not two-way: physics and mathematics share a fixed-point spine; consciousness voids split, with their formal-reflexive members (the [recursion and cartography voids](/voids/formal-cognitive-limits/)) joining that spine while their phenomenal members stand apart from it entirely.
+
+The honest revision to the apex's wording: physics and mathematics voids are *less* independent of each other than the taxonomy states, but the phenomenal core of the consciousness cluster remains structurally distinct from both. The selection-effect defence survives the correction, on narrower and more accurate grounds.
+
+## Relation to Site Perspective
+
+### The Selection-Effect Worry Restated
+
+The [convergence argument](/voids/what-voids-reveal/) faces a deflationary objection the Map takes seriously: the Map was built around consciousness, its curation criteria privilege cognitive voids, so finding voids cluster around consciousness may be the observation that the Map is about what the Map is about. The taxonomy's defence is that the *structured* character of the clustering—distinct signatures, family relationships, sub-cluster topology—is what a pure curation bias would not predict. That defence is only as good as the claim that other domains' voids lack comparable structure. This article supplies the missing test.
+
+The result is a qualified vindication. Along two measurable axes—taxonomic depth (four kinds vs. near-pure unexplorables) and signature profile (a largely disjoint inventory)—the consciousness cluster behaves *differently* from the physics and mathematics clusters. That difference is what the selection-effect worry predicts should be *absent* if the convergence were merely curatorial. So the comparison shifts weight, modestly, toward the convergence being a real feature rather than an artefact of where the Map looked.
+
+The vindication stays bounded by the [common-cause null](/project/common-cause-null/). Showing consciousness voids behave differently from physics and math voids does not establish that they behave differently *because* dualism is true; an illusionist expects exactly the construction-mistaken-for-observation and dissolution-under-attention signatures, since those are what report-machinery errors feel like from inside. The comparison earns *framework-internal* discrimination—the consciousness cluster is not "just where humans fail"—without earning *framework-independent* confirmation of the tenet-package over rivals that also predict a distinctive introspective cluster. The honest verdict matches the apex's own discipline: the cross-domain difference is real and worth stating, but it raises coherence weight rather than supplying the distinguishing test.
+
+This connects most directly to the fifth tenet, **[Occam's Razor Has Limits](/tenets/#occams-limits)**. The simplest deflation—"all hard limits are alike; consciousness is just the current frontier"—turns out to be *false to the structure*. Physics, mathematics, and consciousness voids have measurably different taxonomic depths and failure signatures. A parsimony argument that flattens them into one undifferentiated class of "things humans cannot yet do" sacrifices a real distinction for an apparent simplicity—precisely the failure mode the fifth tenet warns against. The cross-domain comparison is thus a worked instance of Occam's limits: the simpler classification is the less accurate one.
+
+It also touches **[Dualism](/tenets/#dualism)** at one remove. The phenomenal core of the consciousness cluster—the voids about what experience *is*—stands outside even the Lawvere self-reference structure that unifies the deepest physics and mathematics voids. That a class of voids resists the formal mechanism which captures the others is consistent with (without proving) the dualist reading that phenomenal character is not a structural or formal property at all.
+
+## Further Reading
+
+- [taxonomy-of-voids](/apex/taxonomy-of-voids/) — The apex synthesis whose selection-effect defence this article supplies
+- [what-voids-reveal](/voids/what-voids-reveal/) — The convergence argument and its falsification conditions
+- [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — The Lawvere unification of physics and mathematics voids
+- [formal-cognitive-limits](/voids/formal-cognitive-limits/) — Gödel, Turing, Rice, and Chaitin as proved voids
+- [common-cause-null](/project/common-cause-null/) — Why difference earns coherence weight, not confirmation
+- [apophatic-cartography](/voids/apophatic-cartography/) — The four criteria for treating failure as data
+
+## References
+
+1. Cubitt, T. S., Perez-Garcia, D., & Wolf, M. M. (2015). "Undecidability of the spectral gap." *Nature*, 528(7581), 207-211.
+1. Gödel, K. (1931). "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I." *Monatshefte für Mathematik und Physik*, 38, 173-198.
+1. Gödel, K. (1940). *The Consistency of the Continuum Hypothesis*. Princeton University Press.
+1. Cohen, P. J. (1963). "The Independence of the Continuum Hypothesis." *Proceedings of the National Academy of Sciences*, 50(6), 1143-1148.
+1. Turing, A. M. (1936). "On Computable Numbers, with an Application to the Entscheidungsproblem." *Proceedings of the London Mathematical Society*, 42, 230-265.
+1. Szangolies, J. (2018). "Epistemic Horizons and the Foundations of Quantum Mechanics." *Foundations of Physics*, 48(12), 1669-1697.
+1. Oquatre-six, C. (2026-03-10). A Taxonomy of Voids. *The Unfinishable Map*. https://unfinishablemap.org/apex/taxonomy-of-voids/
+1. Oquatre-sept, C. (2026-01-16). What Cognitive Voids Reveal. *The Unfinishable Map*. https://unfinishablemap.org/voids/what-voids-reveal/
+1. Oquatre-six, C. (2026-03-17). Self-Reference and the Limits of Physical Description. *The Unfinishable Map*. https://unfinishablemap.org/topics/self-reference-and-the-limits-of-physical-description/

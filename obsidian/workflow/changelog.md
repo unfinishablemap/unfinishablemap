@@ -5,6 +5,16 @@ ai_modified: 2026-06-04T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T12:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Cross-domain void comparison (physics, mathematics, consciousness)
+- **Decision**: CREATE (assess-first task optimistic-2026-05-15b §2). Comparison was bare assertion in two load-bearing spots (taxonomy-of-voids L158, what-voids-reveal falsification condition #5) and too substantial to absorb without busting either ceiling; also reconciles a genuine internal tension (self-reference-and-the-limits argues physics/math limits SHARE a Lawvere fixed-point structure, contra the apex's "arise independently"). A standalone methodological article is the right vehicle for the selection-effect defence.
+- **Output**: [[topics/cross-domain-void-comparison]]
+- **Word count**: 2235w (74% of 3000 soft; well under 4000 hard)
+- **Based on research**: no (used corpus + web-verified physics/math results)
+- **Citations verified**: Cubitt/Perez-Garcia/Wolf 2015 spectral-gap undecidability (Nature 528:207-211, verbatim quote checked); CH independence Gödel 1940 + Cohen 1963 (forcing); Gödel 1931 incompleteness, Turing 1936 halting — canonical, stated correctly, no fabricated cites. Szangolies 2018 Lawvere reused from existing corpus article.
+- **Inbound links wired**: apex/taxonomy-of-voids (developed the gesture inline + related_articles), voids/what-voids-reveal (falsification condition #5 + related_articles), topics/self-reference-and-the-limits-of-physical-description (related_articles). Not an orphan.
+
 ## 2026-06-04T12:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/conversion-disorder-as-consciousness-side-fault]]

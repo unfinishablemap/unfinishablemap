@@ -4,7 +4,7 @@ description: "Gödel's incompleteness and the quantum measurement problem share 
 created: 2026-03-17
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-06-01T00:00:00+00:00
+ai_modified: 2026-06-04T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,6 +28,7 @@ related_articles:
   - "[[formal-cognitive-limits]]"
   - "[[philosophical-stakes-of-spontaneous-collapse]]"
   - "[[physics-as-disclosure]]"
+  - "[[cross-domain-void-comparison]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

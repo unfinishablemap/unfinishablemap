@@ -4,7 +4,7 @@ description: "Cognitive limits are doubly informative: their shape reveals archi
 created: 2026-01-16
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-04-30T04:25:00+00:00
+ai_modified: 2026-06-04T00:00:00+00:00
 last_deep_review: 2026-04-28T12:00:00+00:00
 draft: false
 topics:
@@ -44,6 +44,7 @@ related_articles:
   - "[[non-human-minds-as-void-explorers]]"
   - "[[mind-space-void]]"
   - "[[epistemology-of-limit-knowledge]]"
+  - "[[cross-domain-void-comparison]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -179,7 +180,7 @@ For the methodological argument:
 For the evidential argument:
 
 4. **The families dissolve under scrutiny.** If the groupings are artefacts of classificatory choices, convergence is imposed rather than discovered.
-5. **Non-consciousness voids show the same convergence.** If mathematical or cosmological voids also converge on a single boundary with shared boundaries and distinct failure signatures, consciousness would not be special.
+5. **Non-consciousness voids show the same convergence.** If mathematical or cosmological voids also converge on a single boundary with shared boundaries and distinct failure signatures, consciousness would not be special. The [[cross-domain-void-comparison|cross-domain comparison]] runs this test directly: physics and mathematics voids sit overwhelmingly in the single *unexplorable* kind and generate a largely *disjoint* failure-signature inventory, so the condition does not currently obtain—though the comparison also corrects an overstatement, since the deepest physics and math voids share a self-referential spine rather than arising wholly independently.
 6. **Progress closes voids across family lines.** A single breakthrough dissolving voids in multiple families simultaneously would reveal the families as facets of one solvable problem.
 7. **A compelling phenomenal concept strategy emerges** that explains not just individual gaps but the clustering pattern and the vantage-point structure of questioning.
 8. **The vantage-point argument is neutralised** by showing that purely representational systems can generate the felt irreducibility of the questioning stance—and that the generation itself fits within the reductive programme.

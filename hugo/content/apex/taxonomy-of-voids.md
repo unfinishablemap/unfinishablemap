@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-06-01 05:58:00+00:00
+ai_modified: 2026-06-04 00:00:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-06-01 00:18:24+00:00
 apex_sources:
@@ -89,6 +89,7 @@ related_articles:
 - '[[project/medium-status-cluster-independence-scoring]]'
 - '[[evidential-status-discipline]]'
 - '[[apex/steelmanning-as-method]]'
+- '[[topics/cross-domain-void-comparison]]'
 title: A Taxonomy of Voids
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -162,7 +163,7 @@ The specificity matters. If every void produced the same generic failure—vague
 
 ## The Convergence Pattern
 
-The [convergence analysis](/voids/what-voids-reveal/) notes that the most striking feature of the taxonomy is not the individual voids but their distribution. Physics has interpretive difficulties and mathematics foundational limits, but these arise independently, from different features of different domains. Consciousness-related voids behave differently: they organise into five families—phenomenal core, self-knowledge, intersubjectivity, cognitive architecture, framework reflexivity—each sharing structural logic and distinct failure signatures, all converging directionally on the single boundary where first-person reality meets third-person description. (The [recognition void](/voids/recognition-void/) implies this undercounts: absent capacities produce no signal.)
+The [convergence analysis](/voids/what-voids-reveal/) notes that the most striking feature of the taxonomy is not the individual voids but their distribution. Physics has interpretive difficulties and mathematics foundational limits, and the [cross-domain comparison](/topics/cross-domain-void-comparison/) catalogues both at matched grain: it finds those voids sit overwhelmingly in the single *unexplorable* kind with a largely disjoint failure-signature inventory, and—correcting this section's wording—that the deepest physics and math voids are *less* independent of each other than stated (sharing a Lawvere fixed-point spine), while the phenomenal core of the consciousness cluster stands outside even that spine. Consciousness-related voids behave differently: they organise into five families—phenomenal core, self-knowledge, intersubjectivity, cognitive architecture, framework reflexivity—each sharing structural logic and distinct failure signatures, all converging directionally on the single boundary where first-person reality meets third-person description. (The [recognition void](/voids/recognition-void/) implies this undercounts: absent capacities produce no signal.)
 
 A selection-effect worry sits at the heart of this convergence claim. The Map was built around consciousness and its curation criteria privilege cognitive voids, so finding them cluster around consciousness risks being the observation that the Map is about what the Map is about. Some clustering was inevitable. What remains diagnostic is the *structured* character of the clustering—distinct failure signatures, family relationships, specific sub-cluster topology—which a pure curation bias would not predict; three partial exceptions (the [temporal void](/voids/temporal-void/), dream consciousness void, and silence void) sit outside the main structure, evidence the catalogue has not been forced into a single narrative. This weakens the abductive step without eliminating it.
 

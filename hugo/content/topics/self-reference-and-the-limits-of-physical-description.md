@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-06-01 00:00:00+00:00
+ai_modified: 2026-06-04 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -35,6 +35,7 @@ related_articles:
 - '[[formal-cognitive-limits]]'
 - '[[philosophical-stakes-of-spontaneous-collapse]]'
 - '[[physics-as-disclosure]]'
+- '[[cross-domain-void-comparison]]'
 title: Self-Reference and the Limits of Physical Description
 topics:
 - '[[hard-problem-of-consciousness]]'

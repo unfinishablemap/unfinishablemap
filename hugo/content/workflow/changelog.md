@@ -1,13 +1,220 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04 05:00:00+00:00
+ai_modified: 2026-06-04 12:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-04'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-04T12:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Cross-domain void comparison (physics, mathematics, consciousness)
+- **Decision**: CREATE (assess-first task optimistic-2026-05-15b §2). Comparison was bare assertion in two load-bearing spots (taxonomy-of-voids L158, what-voids-reveal falsification condition #5) and too substantial to absorb without busting either ceiling; also reconciles a genuine internal tension (self-reference-and-the-limits argues physics/math limits SHARE a Lawvere fixed-point structure, contra the apex's "arise independently"). A standalone methodological article is the right vehicle for the selection-effect defence.
+- **Output**: [cross-domain-void-comparison](/topics/cross-domain-void-comparison/)
+- **Word count**: 2235w (74% of 3000 soft; well under 4000 hard)
+- **Based on research**: no (used corpus + web-verified physics/math results)
+- **Citations verified**: Cubitt/Perez-Garcia/Wolf 2015 spectral-gap undecidability (Nature 528:207-211, verbatim quote checked); CH independence Gödel 1940 + Cohen 1963 (forcing); Gödel 1931 incompleteness, Turing 1936 halting — canonical, stated correctly, no fabricated cites. Szangolies 2018 Lawvere reused from existing corpus article.
+- **Inbound links wired**: apex/taxonomy-of-voids (developed the gesture inline + related_articles), voids/what-voids-reveal (falsification condition #5 + related_articles), topics/self-reference-and-the-limits-of-physical-description (related_articles). Not an orphan.
+
+## 2026-06-04T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [conversion-disorder-as-consciousness-side-fault](/topics/conversion-disorder-as-consciousness-side-fault/)
+- **Original score**: n/a (surgical reconciliation per pessimistic-2026-06-04-conversion-disorder Issue 1)
+- **Changes**: Reconciled the dominant subtractive channel-disconnect framing with the article's own Edwards/Friston active-generation account, per the pessimistic-review internal-coherence flag. (1) Added a reconciling clause in para 2 where the "separable channel" claim is first developed: the psychogenic failure is realised as active over-generation of a precise inhibitory prior the system fulfils, so "the channel is separable" is an architectural-level description whose physical realisation is additive rather than a passive break. (2) Three-route table "Psychogenic" cell: "Functional decoupling" → "Functional decoupling via over-generation of an inhibitory prior". (3) Alien-hand inverse contrast: "conscious command cannot recruit it" → "...cannot recruit it because the system is fulfilling a competing inhibitory prior". Reconciliation, not refutation — the disconnect framing is preserved as complementary, not retracted. Interface-vs-intra-cerebral two-tier calibration left untouched.
+- **Length**: 2961w → 3019w (+58 net; crosses 3000 soft, ~980w under the 4000 hard ceiling). The article was 39w under soft before the pass, so the minimal reconciliation tips slightly into soft_warning; hard ceiling has ample headroom.
+- **Published**: yes
+
+## 2026-06-04T09:30:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/conversion-disorder-as-consciousness-side-fault.md` (body ~2972w)
+- **Findings**: 1 genuine internal-coherence gap (disconnect metaphor vs. active-generation mechanism now in the imaging section); interface-vs-intra-cerebral calibration already correct; no fabricated citations (Voon 2011, Edwards/Friston 2012, Vuilleumier 2005 web-verified real + correctly attributed)
+- **Tasks written**: 1 × P2 refine-draft (length-neutral reconciliation, ~40w cap)
+- **Output**: [pessimistic-2026-06-04-conversion-disorder](/reviews/pessimistic-2026-06-04-conversion-disorder/)
+
+## 2026-06-04T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [integrated-information-theory](/concepts/integrated-information-theory/)
+- **Word count**: 3323 → 3323 (+0; converged, length-neutral)
+- **Critical issues addressed**: 0 (none found — 8th review, converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (light pass per deep_review_over_reviews_converged; bumped last_deep_review only)
+- **Citations web-verified**: Kerskens & López Pérez 2022 (J. Phys. Commun. 6(10):105001) — real-paper, correct-author (the 2026-06-03 corpus rename to "López Pérez, D." is correct); COGITATE Consortium 2025 (Nature s41586-025-08888-1, 5 Jun 2025, 642(8066):133-142) — real-paper, correct, in-body characterization faithful.
+- **Checks**: attribution/qualifier/source-Map pass; no possibility/probability slippage (C. elegans claims properly conditional); no editor-label leakage; no "not X, it is Y" cliché; anchoring eval clean (no failed anchors); 20+ inbound links (not orphan); sampled outbound links resolve. Engagements: illusionism Mode Three; identity-theory Mode Two; Whitehead Mode Three.
+- **Output**: [deep-review-2026-06-04-integrated-information-theory](/reviews/deep-review-2026-06-04-integrated-information-theory/)
+
+## 2026-06-04T10:15:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/)
+- **Selection**: Topic-concept anchoring audit 2026-06-04 — article failed calibration against THREE anchors at once ([filter-theory](/concepts/filter-theory/), [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/), [mind-brain-separation](/concepts/mind-brain-separation/)), all on the same underlying profile: strong_assertion_count=7 (density 2.479/kw) and underdetermination_marker_count=0 (all three anchors have 1). Terminal lucidity rests on a weak evidence base (case reports + retrospective caregiver surveys, no prospective controlled data), so 7 strong-assertion verbs were genuine over-claims.
+- **Strong-assertion verbs found + reframe (before→after)**: (1) Covert-consciousness bullet: "**demonstrates** consciousness persisting" → "is **consistent with** consciousness persisting". (2) Three-predictions lead-in: "three predictions that terminal lucidity **confirms**" → "three predictions that terminal lucidity **fits**". (3) Prediction 2: "Nahm's data **confirms** this" → "Nahm's data **is consistent with** this". (4) Prediction 3: "The Batthyány dataset **confirms**" → "The Batthyány dataset **fits the prediction**". (5) Counter-proposals para: "Where autopsy **confirms** massive structural damage" → "Where autopsy **documents**…". (6) Convergent-evidence para: "what the patient actually **demonstrates**" → "what the patient actually **exhibits**". (7) Same para: "no single member… **establishes** filter theory" → "no single member… **settles the question in favour of** filter theory" (kept the calibrated negation meaning; cleared the verb). strong_assertions 7→0.
+- **Underdetermination marker added (where)**: After the three-predictions list, at the genuine underdetermination point — added a sentence stating the retrospective dataset "**does not adjudicate between** filter/transmission framing and a neurological reading on which residual network reserve, paradoxical disinhibition, or an end-of-life neurochemical surge briefly restores access to spared circuitry." Pattern `does not adjudicate`; underdetermination_markers 0→1.
+- **Over-hedge avoided** (anchoring-audit-sibling-tasks-stale inverse failure): article was already heavily hedged (hedge_count=20, density 7.082/kw, higher than 2 of 3 anchors). Added ZERO new hedge qualifiers — fix was verb-reframe + one explicit underdetermination marker. Final hedge_count=20 (unchanged); density 6.942 (drop is from the ~57-word denominator increase, not added hedges).
+- **Voice + central claim preserved**: filter/transmission reading remains the thesis, honestly calibrated as SUGGESTIVE/consistent-with rather than establishing. No content cut; the constrain-vs-establish framing the article already carried is now matched by the verb-level calibration.
+- **Length before/after**: 2824w → 2881w (+57w from the underdetermination sentence; well under 3000 soft / 4000 hard).
+- **Anchoring re-run**: `evaluate_anchoring(...)` returns `[]` — ALL THREE anchor flags cleared (strong_assertions + underdetermination_markers on each of filter-theory, neural-correlates-of-consciousness, mind-brain-separation).
+- **Discipline**: no editor-mode labels in body ([direct-refutation-discipline](/project/direct-refutation-discipline/)); no "This is not X. It is Y." cliché ([calibration-audit-triple](/project/calibration-audit-triple/) Audit Three, [evidential-status-discipline](/project/evidential-status-discipline/)).
+- **Published**: yes
+
+## 2026-06-04T06:31:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
+- **Selection**: Topic-concept anchoring audit 2026-06-04 — article over-claimed relative to anchor concept [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/). Two failed checks: strong_assertion_count=1 (anchor=0), underdetermination_marker_count=0 (anchor=1). hedge_density already close (2.508 vs 2.668).
+- **Fix (fold-into-reframe)**: (1) The single flagged strong-assertion verb was "Fisher **demonstrates** biological quantum persistence" in the "What the Comparison Reveals" list — itself an over-claim given the article frames Fisher as "Early stage / no neural Posner molecules directly observed". Reframed to "Fisher **targets** biological quantum persistence" (strong_assertions 1→0). (2) Installed the underdetermination marker at the genuine underdetermination point — the falsifiability gap. "No mechanism currently generates predictions cleanly distinguishing it from classical neuroscience" → "Current evidence **does not adjudicate between these mechanisms**; none generates predictions cleanly distinguishing it from classical neuroscience" (underdetermination_markers 0→1, pattern `does not adjudicate`).
+- **Length before/after**: 3987w → 3987w (NET-ZERO; under 4000 hard ceiling). The underdetermination clause added ~7w; offset by length-neutral trims of filler ("demonstrates"→"targets", "elements from multiple proposals"→"from several", "avoid the timing gap entirely"→"avoid the timing gap", "are now catalogued"→"are catalogued", "feels the way it does"→"feels as it does", "not all of these"→"not all these", "divide sharply into"→"divide into"). No load-bearing argument or calibration content cut.
+- **Calibration** ([evidential-status-discipline](/project/evidential-status-discipline/), [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three): one precise reframe at a genuine comparison underdetermination point, not a hedge-pile (anchoring-audit-sibling-tasks-stale inverse failure avoided). Central comparative claim and preference ordering untouched; voice preserved. No editor-mode labels in body; no "not X, it's Y" cliché.
+- **Anchoring re-run**: `evaluate_anchoring(...)` returns `[]` — both `strong_assertions` and `underdetermination_markers` cleared.
+- **Published**: yes
+
+## 2026-06-04T09:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/)
+- **Selection**: ChatGPT 5.5 Pro outer review 2026-06-04 ([outer-review-2026-06-04-chatgpt-5-5-pro](/reviews/outer-review-2026-06-04-chatgpt-5-5-pro/)) — three staleness/overextension fixes. 9th edit to this article today; re-read current state first to verify each item not already done by prior edits.
+- **Item (1) — FND as primary term + rule-in framing**: PARTIALLY pre-done. The amygdala-motor factual-error cycle (e4364cf6) had already installed FND/active-inference content (Edwards/Friston Bayesian prior, Voon 2010, Hassa 2017) — verified present. REMAINING work done: made "functional neurological disorder (FND)" the primary term in the section opening with "*conversion disorder*, the DSM-IV term" marked historical; added a compact positive rule-in clause (Hoover's sign, tremor entrainment) noting FND is no longer a diagnosis of exclusion. Predictive-processing/active-inference account was already fully present — not re-edited.
+- **Item (2) — trauma disorder-by-disorder narrowing**: EDITED (the one genuinely-additive item). Rewrote the blanket "Clinical dissociation is overwhelmingly associated with psychological trauma" sentence into a qualified disorder-by-disorder clause: DID strongly-but-contestedly trauma-linked (sociocognitive contest, Lynn et al. 2022); DPDR + dissociative amnesia more qualified (many DPDR cases lack a clear trigger; amnesia inherits the "stored-but-inaccessible" doubts, Mangiulli 2022); FND weakest — current criteria no longer require an identifiable stressor, field past the Freud–Breuer "hysteria" framing. Tied back to the interface model's load-bearing dependence on the trauma link. The following paragraph was tightened to avoid restating the same channel-protection point.
+- **Item (3) — Reinders n=11 + post-2020 anchor**: EDITED, no new cite. Added a parenthetical to the existing Reinders (2003) citation flagging it as an early-paradigm PET study with only eleven participants, and pointed to Lynn et al. (2022) — ALREADY cited (ref 14) — as the load-bearing post-2020 anchor. Reused, did not add a new cite.
+- **Citations**: NO new cites added. All ChatGPT-suggested cites (Modesti 2022, Bachrach & Huntjens 2025, Dworetzky & Baslet 2025, Lo/Weber 2025) were declined per length pressure + 2025-date fabrication risk (ai_citation_metadata_unreliable); reused in-article Lynn 2022 + Mangiulli 2022 instead. References list unchanged.
+- **Calibration** ([evidential-status-discipline](/project/evidential-status-discipline/)): item (2) is a softening that makes the dialectic honest without retracting the interface reading; preserved two-tier "constrain not establish" framing; checked against over-hedging-into-mush — qualifications are disorder-specific, not piled. No editor-mode labels in body; no "not X, it's Y" cliché.
+- **Length before/after**: 3843w → 3990w (net +147; under the 4000 hard ceiling but above the ≤3850 target). The additive item (2) is genuinely net-positive content that cannot be fully offset without cutting load-bearing argument; trimmed the trauma follow-on paragraph, the FND-literature restatement, and the rule-in examples to claw back ~17w. **FLAGGED for human length-decision** (see todo P2 below) — did NOT auto-condense calibration content to force it under target, per task instruction.
+- **Published**: yes
+
+## 2026-06-04T08:15:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/)
+- **Selection**: ChatGPT 5.5 Pro outer review 2026-06-04 ([outer-review-2026-06-04-chatgpt-5-5-pro](/reviews/outer-review-2026-06-04-chatgpt-5-5-pro/)) — two empirical-precision calibration fixes. 8th edit to this article today; re-read current state first to confirm each fix still needed.
+- **Fix (1) — amnesia "stored, encoded, retained" over-claim**: STILL NEEDED, edited. The flat assertion "The information was stored, encoded, and retained. It was simply inaccessible to consciousness." preceded the later Mangiulli hedge, asserting the conclusion as fact up front. Reframed to "reversibility does not by itself establish intact storage, accuracy, or non-reconstructive retrieval—memory reconstruction, source-monitoring failure, state-dependent retrieval, and suggestibility remain live alternatives." Also softened "access returning when it restores" → "access recovering when it restores" (drops the implied immediate-and-full return). The pre-existing retrieval-suppression + Mangiulli "claim less than older sources suggested" material (added by earlier cycles today) was preserved; redundant preamble ("The qualification matters:") trimmed to avoid over-hedging.
+- **Fix (2) — "neural substrate remains anatomically intact" smuggles the conclusion**: STILL NEEDED at the opening (line 41); the earlier Marsh/steelman cycles fixed the DID-section substrate-retention wording but left the blunt opening phrase. Reworded "the neural substrate remains anatomically intact while specific aspects of experience go offline" → "no gross destructive lesion is required for specific aspects of experience to go offline—the substrate is undamaged, not unchanged", and folded "functional connectivity, agency, salience, and predictive-control networks" into the following neuroimaging sentence (avoiding duplication). Prevents "intact substrate" from smuggling in "physicalism lacks a substrate-level explanation."
+- **Calibration** ([evidential-status-discipline](/project/evidential-status-discipline/)): both fixes are softenings that make the dialectic honest without retracting the interface reading; preserved two-tier "constrain not establish" framing; checked against over-hedging-into-mush (anchoring-audit-sibling-tasks-stale) — no piled qualifiers, the amnesia section's prior hedging was kept not multiplied. No editor-mode labels in body; no "not X, it's Y" cliché ("undamaged, not unchanged" is a compressed appositive, not the banned construct).
+- **Length before/after**: 3824w → 3843w (net +19; the two calibration additions offset by trims to the amnesia-section preamble, the "stored but inaccessible" picture restatement, the line-41 connectivity duplication, and an "as above" clause). Well under 4000 hard ceiling; within the ≤~3850 acceptable band, net-neutral as mandated.
+- **Original score**: n/a (targeted outer-review fix, not a full review pass)
+- **Published**: yes
+
+## 2026-06-04T07:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/)
+- **Selection**: Gemini 2.5 Pro outer review 2026-06-04 ([outer-review-2026-06-04-gemini-2-5-pro](/reviews/outer-review-2026-06-04-gemini-2-5-pro/)) — the single genuinely-distinct Gemini finding. 7th edit to this article today; length the binding constraint.
+- **Change**: Wove Marsh et al. (2021) PLoS ONE 16(2):e0245849 into the DID section as the CONCRETE EMPIRICAL ANCHOR for the substrate-retention claim already added in commit 89c5f3c9 (net-neutral integration, not append). The recall/recognition dissociation — subjective inter-identity amnesia on free recall but significant cross-identity transfer on objective recognition (more than simulators/controls) — shows the substrate demonstrably retains and integrates the information; "lost cross-state integration" qualified to metacognitive/retrieval-ownership deficit + felt-unity loss, NOT a structural substrate-level severance. Updated DID table row ("Felt cross-state access (substrate retention intact)"). Added reference 16.
+- **Calibration** ([evidential-status-discipline](/project/evidential-status-discipline/)): Marsh WEAKENS the interface reading at the DID site (substrate retains info = physicalist prediction) — presented honestly; preserved the two-tier "earns the architecture, not the dualist significance" framing; the qualification cuts against BOTH readings (no dualist over-claim). No editor-mode labels in body; no "not X, it's Y" cliché.
+- **Citation web-verified**: Marsh, R. J., Dorahy, M. J., Butler, C., Middleton, W., de Jong, P. J., Kemp, S., & Huntjens, R. J. C. (2021), PLoS ONE 16(2):e0245849, DOI 10.1371/journal.pone.0245849 — confirmed real: exact title, all 7 authors, DOI, and finding (recall-amnesia vs recognition-transfer) via PLOS open access + PMC7880432. Skipped the optional 2024 systematic review per task instruction (length pressure).
+- **Length before/after**: 3786w → 3824w (net +38; offset the ~150w Marsh insertion + ref line with redundancy trims across DID aetiology, conversion, steelman, convergence, trauma, and three Relation entries). Under 4000 hard ceiling; 4w over the ≤3820 strong-preference.
+- **FLAG**: Article is at chronic length pressure (7 edits today, now 3824/4000, soft_warning). A future length-decision / calibration-preserving condense pass is warranted — but NOT auto-condensable (calibration-anchor content). Recommend routing to Blocked/human length-decision rather than the auto-condense slot.
+- **Published**: yes (draft: false unchanged)
+
+## 2026-06-04T09:15:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [gaming-problem](/concepts/gaming-problem/)
+- **Selection**: cycle-slot deep-review, staleness scorer (never-reviewed, score 99). Same-day FRESH CREATE → ran fresh-create-defect-tail audit.
+- **Word count**: 1753 → 1827 (+74; length-neutral-ish, well under concepts soft 2500)
+- **Critical issues addressed**: 0 (no misattribution / fabrication / dropped-qualifier / contradiction found)
+- **Medium issues addressed**: 1 — calibration under-hedging (hedge density 2.28→3.83/kw; zero→present underdetermination markers via Birch deep-computational-markers caveat; softened 3 over-strong phrasings)
+- **Verification**: all 4 external cites web-verified real+correct (Birch 2024 OUP Ch.16; Birch et al. 2021 Defra "eight criteria"; Gruber et al. 2015 Front. Psychol. 6:91; Carroll & Birch Mindscape #292 quote verbatim). All 4 internal quotes match source. No future/impossible dates. No editor-label leakage. No "not X, it's Y" cliché. Metarepresentation anchor resolves. Not an orphan (reciprocal links present).
+- **Output**: [deep-review-2026-06-04-gaming-problem](/reviews/deep-review-2026-06-04-gaming-problem/)
+
+## 2026-06-04T06:15:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/)
+- **Selection**: convergent outer-review synthesis 2026-06-04 (3/3 reviewers), upgraded P2→P1 — the physicalist-steelman + DID-alternatives cluster (6th edit to this article today; built on existing PP/common-cause/calibration material, did NOT restate it).
+- **Two additions**: (1) **Physicalist steelman** — new paragraph opening "What the Dualist Reading Adds" section, BEFORE the interface reading is pressed: states the strongest reply is a developed functionalist/global-workspace/predictive-processing self-model cluster on which selective disruptions of access/ownership/memory/motor-agency are exactly what the architecture predicts (diagnostic probes, not failure-to-couple). Explicitly notes functional organisation is functionalism's HOME move, not a retreat. (2) **DID sociocognitive caveat** — new paragraph in DID section BEFORE the "single mind, fragmented interface" reading: trauma vs. sociocognitive/fantasy-suggestion (Spanos 1994; Lilienfeld/Lynn/Kihlstrom 1999) vs. transtheoretical/metacognitive (Lynn, Polizzi, Merckelbach, Chiu, Maxwell, van Heugten & Lilienfeld 2022) models; Map does not adjudicate aetiology; selectivity survives either way.
+- **Citation web-verified**: Lynn et al. 2022 confirmed — all 7 authors, *Annual Review of Clinical Psychology* 18:259–289, DOI 10.1146/annurev-clinpsy-081219-102424 (Annual Reviews / PubMed 35226824 / Maastricht CRIS). Added refs #14 (Lynn 2022) and #15 (Lilienfeld et al. 1999).
+- **Epicycle-framing softened**: Occam tenet paragraph rewritten — removed the unfair "physicalism progressively adds complexity / successive theoretical retreats" framing the reviewers faulted; now states functional organisation is functionalism's natural home and the razor is unreliable at adjudicating the ontology-vs-unification trade-off under incomplete knowledge.
+- **Direct-refutation remit**: opponent steelmanned at full strength in natural journal prose, disagreement honestly located at framework boundary ("constrains both readings rather than establishing either"). No mode labels in body (grep-confirmed). No "not X, it is Y" cliché.
+- **Calibration preserved**: two-tier "constrain not establish" framing intact; steelman strengthens the rival and is presented honestly.
+- **Length**: 3553w → 3786w (net +233; HARD 4000, ~214w headroom). Additions ~+416 gross; offset by trimming accumulated cross-edit redundancy in intro, systematic-pattern triple-discount paragraph, DPDR/amnesia/conversion sections, bridge-reading paragraph, and trauma-connection section. Symmetry scanner clears (None); validate ✓.
+- **Length flag**: article sits ~214w under hard ceiling after 6 same-day edits; a future length-decision/condense pass may be warranted as further outer-review tasks land. Did NOT auto-condense.
+- **Published**: yes
+
+## 2026-06-04T05:26:35+00:00 - refine-draft
+- **Status**: Success
+- **File**: [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/)
+- **Selection**: convergent outer-review synthesis 2026-06-04 (3/3 reviewers), P1 framing-calibration finding — the LAST of the 4 convergent P1 outer-review tasks on this article (factual-error, staleness, common-cause already done this session).
+- **Finding addressed**: section architecture / headings / MQI paragraph pulled HARDER than the article's own well-calibrated two-tier concession. CALIBRATION-TIGHTENING, not thesis-reversal — discounted Gemini's "circularity/smuggling/reject" overshoot; the live article was already two-tier.
+- **Three calibration edits** (none duplicated prior common-cause pass — verified against current state): (a) heading "Why This Favours Dualism" → "What the Dualist Reading Adds — and What It Does Not"; added one sentence marking the evidence discriminates against crude localisation/region-identity but NOT interface-dualism from sophisticated functionalist/predictive-processing physicalism. (b) MQI tenet paragraph: replaced "would produce exactly the dissociative pattern observed" with non-exact consistency framing ("could be made consistent ... does not discriminate a quantum-interface explanation from network-level ones"); aligns prose with the article's existing consistency-not-prediction classification. (c) demoted "purposive selectivity" → "apparent clinical selectivity", giving the affective-salience/predictive-processing physicalist explanation equal billing.
+- **Direct-refutation remit**: honest framework-boundary-marking in natural prose; no mode labels in body (grep-confirmed). No "not X, it is Y" cliché.
+- **Length**: 3519w → 3553w (net +34, ≤3550 target within tolerance; hard 4000). Surgical swaps + trimmed two now-redundant pre-existing hedge sentences (a speculative gradual-recovery line and a duplicated "reading the Map's commitments make available" closer the new heading sentence superseded) to absorb the additions.
+- **Calibration balance**: tightened without capitulating — dualist/interface reading preserved throughout; only the over-strong framing softened to honest both-sides marking.
+- **Published**: yes
+
+## 2026-06-04T05:12:11+00:00 - refine-draft
+- **Status**: Success
+- **File**: [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/)
+- **Selection**: convergent outer-review synthesis 2026-06-04 (3/3 reviewers), upgraded P2→P1 (highest-value shared finding)
+- **Finding addressed**: precision-weighting common-cause undercut of the convergence argument (Claude leg of [outer-review-synthesis-2026-06-04](/reviews/outer-review-synthesis-2026-06-04/)). All three reviewers fault the missing 2012–2026 predictive-processing engagement; Claude sharpens it into a [common-cause-null](/project/common-cause-null/) objection — one aberrant-precision mechanism may span FND, DPDR, and dissociative amnesia, so the routes do not triangulate independent confirmations.
+- **Integration**: woven a concise common-cause concession into the existing "Systematic Pattern" convergence paragraph (not a new section). Named the precision-weighting candidate explicitly using the cites ALREADY present (Edwards et al. 2012; Seth/Suzuki/Critchley 2012; amnesia retrieval-suppression); applied the honest BLEND — conceded precision-weighting is a real partial common cause that thins the four-fold independence, while arguing the routes are a loose family (retrieval-suppression vs interoceptive-precision vs motor-prior) not one mechanism, and DID's cross-state integration resists the framing. Updated the paragraph's closing "share no mechanism" claim (now false) to a triple-discounted compound-signature reading. Mirrored the concession into the "Why This Favours Dualism" opening and the Dualism tenet paragraph.
+- **Calibration**: presented as a genuine tempering, not a defeated objection; two-tier "constrain not establish / earns architecture, leaves dualist significance separate" framing preserved. No editor-mode labels in body; no "not X, it is Y" cliché (grep-confirmed clean).
+- **Cites**: NO new cites added — reused the precision-weighting anchors already in the article. Gemini's Constant/Clark/Friston 2022 corroboration cite deliberately NOT added (corroboration-only, not web-verified, would cost length). No fabrication.
+- **Length**: 3439w → 3519w (NET +80w for the full common-cause engagement; offset ~140w of added content with redundant-exposition trims across the DPDR, conversion, trauma, DID, and tenet paragraphs). Lands under the 3600 ceiling, marginally over the 3500 ideal. `tools.curate.length` status: soft_warning (hard 4000) — did NOT push toward the hard ceiling, leaving headroom for the 2 remaining queued P1 tasks (framing-calibration, FND-terminology).
+- **Published**: yes
+
+## 2026-06-04T05:04:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [mind-arena](/concepts/mind-arena/)
+- **Selection**: staleness/priority scorer (score 100, never reviewed — fresh create 2026-06-04)
+- **Word count**: 1323 → 1358 (+35; under soft 2500, no length-neutral constraint)
+- **Critical issues addressed**: 0 (none found — article scrupulously calibrated as a tenet-conditional definitional construct; physicalist "empty arena" is bedrock, conceded in-body)
+- **Medium issues addressed**: 1 (non-canonical evidential-tier label `compatibility-grade` — not a defined tier in evidential-status-discipline.md; reworded as a definitional construct not placed on the five-tier scale)
+- **Low issues addressed**: 1 (quote-fidelity: "the influence running both ways" → source's verbatim "the influence runs both ways")
+- **Fresh-create audit**: all source quotes verbatim (1 caught/fixed), date-sanity clean, single reference real+resolves (reused corpus framing → short tail), anchoring [] (no flags), C: E × P → P formalism verified, all 11 wikilink targets resolve
+- **Enhancements made**: 0 (converged fresh create; strengths preserved — four-way mechanism/junction/category/domain distinction, empty-arena epiphenomenalism test)
+- **Output**: [deep-review-2026-06-04-mind-arena](/reviews/deep-review-2026-06-04-mind-arena/)
+
+## 2026-06-04T05:00:32+00:00 - refine-draft
+- **Status**: Success
+- **File**: [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/)
+- **Trigger**: Convergent outer reviews 2026-06-04 (3/3), P1 via /combine-outer-reviews — staleness cluster. Scope this pass (post-deconfliction): modernize the two conditions NOT covered by last cycle's FND fix — DPDR and dissociative amnesia. FND/conversion section left untouched (Edwards/Voon/Hassa already installed commit e4364cf6); FND-terminology + DID/Reinders sample-size left for ChatGPT's retained task.
+- **Citations web-verified** (3-state discipline, all REAL + correct metadata):
+  - Seth AK, Suzuki K, Critchley HD (2012). An interoceptive predictive coding model of conscious presence. *Frontiers in Psychology* 2:395. doi:10.3389/fpsyg.2011.00395. VERIFIED (PMC3254200; DOI front-matter year 2011, published Jan 2012, vol 2).
+  - Ciaunica A, Seth A, Limanowski J, Hesp C, Friston KJ (2022). I overthink—Therefore I am not: an active inference account of altered sense of self and agency in depersonalisation disorder. *Consciousness and Cognition* 101:103320. doi:10.1016/j.concog.2022.103320. VERIFIED (PubMed 35490544; all 5 authors confirmed).
+  - Mangiulli I, Otgaar H, Jelicic M, Merckelbach H (2022). A critical review of case studies on dissociative amnesia. *Clinical Psychological Science* 10(2):191–211. doi:10.1177/21677026211018194. VERIFIED (Sage; this is the canonical Otgaar/Merckelbach line on the contested "stored but inaccessible" framing).
+- **Changes**:
+  - DPDR section reframed as interoceptive-precision pathology (Seth/Suzuki/Critchley 2012; Ciaunica 2022) atop the older Sierra & Berrios account; the "precision problem" objection to functionalism now noted as DISSOLVED by the interoceptive-inference account (collapsed interoceptive precision predicts globally-felt loss of mineness) — strengthens the physicalist rival, two-tier "constrain not establish" framing preserved.
+  - "most diagnostic of the intact-substrate cases" → "most phenomenologically revealing ... without thereby being decisive" (addresses the convergent calibration finding that "diagnostic" implies discriminating power the article disclaims).
+  - Dissociative amnesia section: added Mangiulli/Otgaar/Merckelbach 2022 (the "stored but inaccessible" framing is poorly evidenced at the data level), the metarepresentational-inhibition higher-order reframing, and the retrieval-suppression (Anderson/Hanslmayr) parallel that predicts the same reversibility — "must claim less here than the older sources alone suggested."
+  - Table: DPDR connectivity row → "Down-weighted interoceptive precision"; amnesia → "Storage (disputed) / Inhibited-suppressed retrieval".
+  - Janet historical paragraph compressed to partially offset added length.
+- **Length**: 3202w → 3439w (soft_warning; under 3700 target, well under 4000 hard). Net +237: the contested-amnesia + interoceptive material is load-bearing; Janet compression offset part of it.
+- **Siblings checked**: `dissociative-states-as-intact-substrate-interface-evidence.md` already modernized (Lynn 2014, Lynn et al. 2022, Cambridge Depersonalisation Scale measurement lit) — no same-staleness; `concepts/altered-states-of-consciousness.md` already engages predictive-processing (REBUS, Carhart-Harris & Friston 2019) and only mentions DPDR in passing. No follow-on queued.
+- **Published**: yes (draft: false unchanged)
+
+## 2026-06-04T07:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/)
+- **Trigger**: Claude Opus 4.8 outer review 2026-06-04 headline VERIFIED FACTUAL ERROR — Conversion Disorder section framed the descending motor channel as DISCONNECTING/severed (citing Vuilleumier 2005, Brown 2004); the modern FND literature reports the OPPOSITE: *increased* amygdala→SMA coupling and active symptom generation.
+- **Citations web-verified** (3-state discipline, all REAL + correct metadata installed):
+  - Voon V, Brezing C, Gallea C, Ameli R, Roelofs K, LaFrance WC Jr, Hallett M (2010). Emotional stimuli and motor conversion disorder. *Brain* 133(5):1526–36. doi:10.1093/brain/awq054. Confirmed: greater right-amygdala↔right-SMA connectivity, amygdala→SMA Granger direction.
+  - Hassa T, Sebastian A, Liepert J, Weiller C, Schmidt R, Tüscher O (2017). Symptom-specific amygdala hyperactivity modulates motor control network in conversion disorder. *NeuroImage: Clinical* 15:143–150. doi:10.1016/j.nicl.2017.04.004. n=13 functional hemiparesis; increased left-amygdala↔(pre-)SMA + STN connectivity. (Review args' title gloss was inexact; installed the real title.)
+  - Edwards MJ, Adams RA, Brown H, Pareés I, Friston KJ (2012). A Bayesian account of 'hysteria'. *Brain* 135(11):3495–3512. doi:10.1093/brain/aws129. Author order incl Pareés confirmed; aberrant precision-weighting / active-generation mechanism.
+- **Framing fix**: replaced "channel disconnect/severed" with the increased-coupling + Bayesian active-generation account; conceded honestly that the corrected science *strengthens the physicalist rival* (active generation is a clean intra-brain mechanism) and so *narrows* what the conversion window can claim — conversion is now the weakest of the four windows for the bidirectional reading. Preserved the article's two-tier "constrain not establish" calibration. Updated the systematic-pattern table row and the Bidirectional-Interaction tenet paragraph. No editor-mode labels in body.
+- **Length**: 3069w (soft_warning) before → 3202w (soft_warning) after; +133w net for 3 new citations + active-generation account, offset by trimming the intro, convergence, snap-back, and trauma paragraphs. No threshold crossed (stayed in soft_warning band).
+- **Symmetry scanner**: evaluate_symmetry → None (clear).
+- **Siblings checked** (3): `conversion-disorder-as-consciousness-side-fault` already had the CORRECT increased-amygdala-SMA-coupling science (cites the real distinct Voon 2011 *Mov Disord* 26(13):2396–2403 paper) — did NOT carry the disconnect error; added the Edwards 2012 active-generation mechanism + reference as a capstone (2847w→2961w, still ok). `neurological-dissociations-as-interface-architecture` — its "severed channel" language is about actual *lesions* (alien hand/callosotomy), anatomically correct, no error. `dissociative-states-as-intact-substrate-interface-evidence` — memory-channel triple only, no motor-channel content, no error. No follow-on tasks needed.
+- **Published**: yes
+
+## 2026-06-04T06:30:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The evidential-status-discipline cluster — `concepts/gaming-problem.md` (today's create) and `topics/contentless-awareness-evidence.md`, two worked instances of the discipline working the same epistemics-of-markers move from opposite substrate-ends (gamed AI self-report vs. offline sleep-witness apparatus). Process Philosopher and Hardline Empiricist personas converged in praising the same defeater-removal passages — diagnostic that the tension was resolved honestly. No new-article opportunity (concepts 259/270, cluster saturated); found 3 genuine reciprocal cross-link gaps where gaming-problem makes load-bearing forward references that are not reciprocated. No discipline/methodology-doc proposals (none passed the concrete-recurring-error test; bias to content-integration per methodology-doc-proliferation).
+- **Output**: [optimistic-2026-06-04b](/reviews/optimistic-2026-06-04b/)
+
+## 2026-06-04T04:42:22+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-04
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.8, Gemini 2.5 Pro)
+- **Subject**: [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/) (steerable-subject triple — all three audited the same article)
+- **Clusters**: 4 convergent (predictive-processing/precision-weighting common-cause [3-reviewer], empirical staleness, framing-calibration vs two-tier concession, physicalist steelman + DID sociocognitive caveat), 6 singleton (conversion-disorder amygdala-motor factual fix [P1, kept], Marsh/Huntjens recall-vs-recognition, amnesia phrasing, reciprocal cross-links, 2 methodology proposals), 1 tone divergence (Gemini hostile-referee "reject" overshoot — discounted as persona, not signal)
+- **Tasks upgraded**: 4 (all P2→P1; P3→P2: 0)
+- **Tasks deduplicated/consolidated**: convergence-tracking flag resolved-by-synthesis; convergent tasks rewritten with plural `Review files:` + synthesis link; ChatGPT FND-modernization task retained separate (distinct mechanical content); no edit-task siblings deleted (Claude leg had pre-contained the pileup per outer-review-same-file-task-pileup)
+- **Output**: [outer-review-synthesis-2026-06-04](/reviews/outer-review-synthesis-2026-06-04/)
+
+## 2026-06-04T06:50:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [outer-review-2026-06-04-gemini-2-5-pro](/reviews/outer-review-2026-06-04-gemini-2-5-pro/)
+- **Subject**: [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/) (Gemini leg of the 3-service triple; ChatGPT + Claude already collected+processed)
+- **Claims verified**: 3 of 4 distinctive academic anchors confirmed real+correctly-attributed (Marsh/Huntjens 2021 PLoS ONE e0245849; Lynn et al. 2022 Annu Rev Clin Psychol 18:259-289; Seth & Bayne 2022 NRN 23:439-452). W3 Constant/Clark/Friston 2022 + W4 Dodier/Otgaar/Mangiulli 2024 plausible-unverified; Lebois "2026" flagged unreliable (impossible future date).
+- **High-value findings**: 1 genuinely distinct (W1 recall-vs-recognition DID memory-transfer falsifier — substrate retains+integrates info via recognition despite subjective recall amnesia). W2 (sociocognitive/transtheoretical), W3 (predictive-processing/precision-weighting), W4/staleness, W5 (circularity) all CONVERGE with already-queued ChatGPT+Claude 06-04 tasks on the same shared subject (outer-review-same-file-task-pileup).
+- **Tasks generated**: 1 new standalone (P2: Marsh/Huntjens recall-vs-recognition counterevidence) + 1 P2 convergence-flag entry for /combine-outer-reviews to upgrade convergent tasks (no duplicate edit tasks created).
+- **Convergent with 2026-06-04 ChatGPT + Claude**: empirical staleness, sociocognitive omission, predictive-processing/precision-weighting common-cause undercut (now 3-reviewer), tenet-bracketed circularity. Hostile-referee tone overshoots ("catastrophic"/"reckless") vs the article's actual two-tier calibration — noted in Verification Notes.
 
 ## 2026-06-04T06:30:00+00:00 - expand-topic
 - **Status**: Success

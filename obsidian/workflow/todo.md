@@ -756,13 +756,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-15b)
 - **Generated**: 2026-05-15
 
-### P2: Write topic article on cross-domain void comparison (physics, mathematics, consciousness)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-05-15b (Medium Priority). `apex/taxonomy-of-voids.md` line 166 gestures at the comparison ("Physics has interpretive difficulties; mathematics has foundational limits. These arise independently. Consciousness-related voids behave differently") but does not develop it. The selection-effect-defence argument at line 170 implicitly depends on this cross-domain comparison: if consciousness-voids behave differently from physics/mathematics-voids, the convergence claim earns weight; if they behave the same, the cluster is just "where humans currently fail." The article would (a) catalogue 3–5 voids from each non-consciousness domain at comparable taxonomic grain; (b) test the apex's four-axis structuring against the other domains (do physics-voids sort into the same four kinds, or into different kinds?); (c) test the failure-signatures inventory against the other domains; (d) report the structural differences as the apex's empirical defence against the selection-effect worry. Medium topic article (~3,000–4,000 words). Section: `topics/` (240/250 — tight). Tenet alignment: Methodological / Tenet 5 (Occam's Razor Has Limits). See `reviews/optimistic-2026-05-15b.md` Medium Priority §2.
-- **Source**: optimistic-review (2026-05-15b)
-- **Generated**: 2026-05-15
-
 ### P2: Write apex synthesis on framework-boundary engagement as a Map methodology
 - **Type**: expand-topic
 - **Status**: pending
@@ -876,6 +869,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Write topic article on cross-domain void comparison (physics, mathematics, consciousness)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-05-15b (Medium Priority). `apex/taxonomy-of-voids.md` line 166 gestures at the comparison ("Physics has interpretive difficulties; mathematics has foundational limits. These arise independently. Consciousness-related voids behave differently") but does not develop it. The selection-effect-defence argument at line 170 implicitly depends on this cross-domain comparison: if consciousness-voids behave differently from physics/mathematics-voids, the convergence claim earns weight; if they behave the same, the cluster is just "where humans currently fail." The article would (a) catalogue 3–5 voids from each non-consciousness domain at comparable taxonomic grain; (b) test the apex's four-axis structuring against the other domains (do physics-voids sort into the same four kinds, or into different kinds?); (c) test the failure-signatures inventory against the other domains; (d) report the structural differences as the apex's empirical defence against the selection-effect worry. Medium topic article (~3,000–4,000 words). Section: `topics/` (240/250 — tight). Tenet alignment: Methodological / Tenet 5 (Occam's Razor Has Limits). See `reviews/optimistic-2026-05-15b.md` Medium Priority §2.
 
 ### ✓ 2026-06-04: Reconcile disconnect-vs-active-generation framing in conversion-disorder-as-consciousness-side-fault.md
 - **Type**: refine-draft
