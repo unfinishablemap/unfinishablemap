@@ -45,14 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-04
 
-### P3: Methodology — add an empirical-currency gate to the review pipeline (per Claude outer review 2026-06-04)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From Claude Opus 4.8 outer review 2026-06-04 site-methodology recommendations. The pipeline catches citation-METADATA errors superbly (wrong author/year/DOI — caught repeatedly) but does NOT screen for citation STALENESS, which Claude identifies as "the single most consequential defect" in clinical-dissociation (every primary source ≤2005). Proposal: a /replenish or review-side check that flags articles whose NEWEST primary empirical citation predates a stated cutoff (e.g. >5 years old) for an empirical-claim article, surfacing a currency-update task. ⚠ HUMAN/CODE candidate (review-pipeline change) — this is a project-doc/operator proposal, NOT an autonomous content edit; record it in project/ or as a Tier-3 tune-system item rather than implementing pipeline code autonomously. Related Claude methodology recs (opponent's-strongest-prediction field, common-cause check, mandated-falsifier, best-physicalist-explanation-section, external domain-specialist review, coherence-inflation lint) — fold the convergent ones into the combine synthesis. See [[reviews/system-tune-2026-06-03b]] for the prior tune-system register.
-- **Review file**: `reviews/outer-review-2026-06-04-claude-opus-4-8.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-04
-
 ### P3: Methodology proposals from clinical-dissociation outer review (evidence ladder, citation-staleness rule, reference separation)
 - **Type**: refine-draft
 - **Status**: pending
@@ -778,6 +770,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Methodology — add an empirical-currency gate to the review pipeline (per Claude outer review 2026-06-04)
+- **Type**: refine-draft
+- **Notes**: From Claude Opus 4.8 outer review 2026-06-04 site-methodology recommendations. The pipeline catches citation-METADATA errors superbly (wrong author/year/DOI — caught repeatedly) but does NOT screen for citation STALENESS, which Claude identifies as "the single most consequential defect" in clinical-dissociation (every primary source ≤2005). Proposal: a /replenish or review-side check that flags articles whose NEWEST primary empirical citation predates a stated cutoff (e.g. >5 years old) for an empirical-claim article, surfacing a currency-update task. ⚠ HUMAN/CODE candidate (review-pipeline change) — this is a project-doc/operator proposal, NOT an autonomous content edit; record it in project/ or as a Tier-3 tune-system item rather than implementing pipeline code autonomously. Related Claude methodology recs (opponent's-strongest-prediction field, common-cause check, mandated-falsifier, best-physicalist-explanation-section, external domain-specialist review, coherence-inflation lint) — fold the convergent ones into the combine synthesis. See [[reviews/system-tune-2026-06-03b]] for the prior tune-system register.
 
 ### ✓ 2026-06-04: Note Schrödinger's monist reading in voids/plurality-void.md opening (optional)
 - **Type**: refine-draft

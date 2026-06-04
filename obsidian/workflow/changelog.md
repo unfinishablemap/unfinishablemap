@@ -5,6 +5,16 @@ ai_modified: 2026-06-04T13:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T13:05:00+00:00 - refine-draft (methodology-proposal record)
+- **Status**: Success (assess-first; lightest-correct-action)
+- **File**: [[project/calibration-audit-triple]]
+- **Task**: P3 from Claude Opus 4.8 outer review 2026-06-04 ([[reviews/outer-review-2026-06-04-claude-opus-4-8]] §B.1) proposing an "empirical-currency gate". Documentation-only; explicitly a human/code candidate — no pipeline code touched.
+- **Assessment**: The proposal (flag articles whose newest empirical citation predates a >5y cutoff) is substantially covered by the existing **literature-drift-review (Audit One)**, which already raises a staleness signal on median-citation-year lag and queues a refine-draft. The web-verify cadence in [[reviews/system-tune-2026-06-04]] Tier-2 #1–2 is related but distinct (metadata correctness, not recency). The one genuinely-new element: a **local newest-citation-date threshold computed on every article** (no WebSearch), runnable at cycle frequency as a pre-filter for the weekly pass.
+- **Changes**: Added one short paragraph to Audit One's Implementation section recording the outer review as convergent confirmation and naming the new local-threshold element as a Tier-3 human/code enhancement candidate. Did NOT duplicate the proposal. ai_modified bumped.
+- **Length note**: target doc is already over its critical threshold (5056w body, hard 3500); addition kept to a single paragraph, no structural growth.
+- **Code modified**: none (documentation task by construction).
+- **Published**: yes
+
 ## 2026-06-04T12:20:00+00:00 - deep-review
 - **Status**: Success (converged no-op)
 - **File**: [[voids/suspension-void]]
