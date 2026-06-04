@@ -5,6 +5,20 @@ ai_modified: 2026-06-04T20:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T21:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/interactionist-dualism]]
+- **Original score**: n/a (surgical calibration pass on a 433-inbound flagship hub, per pessimistic-2026-06-04c)
+- **Changes**:
+  - Re-scoped the "Selection, Biasing, and Falsifiability" four-falsifier list: #1/#2 (indeterminacy illusory; neural computation classical) now read as *position-level* falsifiers — flagged as the hard, in-principle-only tests; #3/#4 (Zeno not mentally triggerable; anaesthesia classical) now explicitly *mechanism-specific*, bearing on Stapp's Zeno model — a sub-mechanism the Map ranks behind its preferred post-decoherence-selection framing. Refuting #3/#4 leaves the preferred reading untouched.
+  - Aligned the closing register with the sibling [[comparing-quantum-consciousness-mechanisms]] "Falsifiability: Moderate / discriminating test beyond current technology": replaced "speculative, not unfalsifiable" with "falsifiable in principle, though its discriminating mechanism-level tests remain beyond current reach," and added an explicit cross-reference + agreement statement so the two pages no longer disagree.
+  - Preserved (made explicit) the genuine point that the explanatory-coherence claim stands independently of any mechanism-level falsifiability outcome.
+  - Line 202: "Interactionism predicts exactly what NCC research discovers" → "is fully consistent with"; reframed the COGITATE paragraph to state the correlation data is shared, non-discriminating evidence and that the position's distinctive empirical content lives in the harder #1/#2 falsifiers (folds the NCC-side falsifiability tension into this pass — no separate task).
+  - Dualist thesis, cumulative case, and the coherence-independent-of-mechanism point all preserved; no deletions; no "not X but Y" cliché.
+- **Engagement classification**: n/a (no new named-opponent engagement added; this is a calibration/scope re-framing).
+- **Body word count**: 3286w (was 3099w; under the 3500 concepts hard ceiling).
+- **Published**: yes
+
 ## 2026-06-04T20:45:00+00:00 - pessimistic-review
 - **Status**: Success (1 medium argument-defensibility finding; flagship otherwise sound)
 - **Content reviewed**: `concepts/interactionist-dualism.md` (433-inbound flagship hub; not deep-reviewed this session)
