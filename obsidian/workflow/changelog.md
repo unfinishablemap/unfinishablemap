@@ -5,6 +5,18 @@ ai_modified: 2026-06-04T13:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T12:20:00+00:00 - deep-review
+- **Status**: Success (converged no-op)
+- **File**: [[voids/suspension-void]]
+- **Selection**: Diverted from the tool's top pick (concepts/constitution-vs-causal-work, ai_modified=today — same-session create, excluded). Picked suspension-void: gap-17 ai_modified↔last_deep_review from genuine new content (Wegner integration + condense), NOT link-accretion churn, not today-touched, citation-heavy, not web-verified this session.
+- **Web-verify**: APPLIED at publisher of record. Wegner 1994 (Psych Review 101, 34-52, operating/monitoring two-process) ✓; Graber/Franklin/Gordon 2005 (Arch Intern Med 165(13), 1493-99, premature closure most common) ✓; Roets & Van Hiel 2007 (PSPB 33(2), 266-80) ✓ (cite correct; "two orthogonal dimensions" gloss slightly loose but load-bearing point supported); Hillen 2017 (SSM 180, 62-75, quote fragments verbatim) ✓. 3-state: 0 fabricated, 0 wrong-author/year, all keep.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Defects by class**: none. Attribution clean (condense preserved all prior corrections); calibration clean (Wegner passage declines tenet-as-evidence-upgrade — exemplary, no possibility/probability slippage); quote fidelity clean (Hillen fragments verbatim); reasoning-modes honest (physicalist Mode Three, no boundary substitution); no label leakage.
+- **Anchoring**: evaluate_anchoring flags hedge-density-below-anchor vs apophatic-approaches (2.4 vs 6.2/kw) — scorer artifact (article calibrates via precise framing, not hedge density); declined to re-hedge (over-hedge-into-mush risk).
+- **Word count**: 2917 → 2917 (no body edits; 146% of 2000 voids/ soft, under 3000 hard). last_deep_review + ai_modified bumped (genuine re-read).
+- **Output**: [[reviews/deep-review-2026-06-04-suspension-void]]
+
 ## 2026-06-04T13:49:54+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/plurality-void]]
