@@ -5,6 +5,17 @@ ai_modified: 2026-06-04T16:05:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/evolutionary-case-for-mental-causation]]
+- **Task**: topic-concept anchoring audit (Audit Three of [[project/calibration-audit-triple]]) — topic over-claimed vs anchor [[mental-causation-and-downward-causation]]; failed `strong_assertions` (7 strong-assertion verbs, anchor 0) + `underdetermination_markers` (anchor 1×, topic 0)
+- **Verbs reframed (7→0)**: 5× "establishes" + 2× "shows that" register-softened to "makes a strong abductive case / makes the case / makes its strongest case / raises the cost of denying / supports / indicates / suggests" — preserves the genuine abductive-strength voice without dishonest hedging
+- **Fold-into-reframe**: opening "establishes that consciousness causally amplifies" → "makes a strong abductive case…" + installed the underdetermination marker ("underdetermined by the evidence") at the GENUINE underdetermination point — the inference from "consciousness was selected" to "consciousness is causally efficacious," where the byproduct/spandrel rejoinder (selected trait = neural substrate, experience rides along) remains live. The article SHOULD be underdetermined there; the evolutionary case raises the cost of epiphenomenalism, it does not refute it.
+- **evaluate_anchoring**: both checks now CLEAR (`[]`); strong_assertion_count 7→0, underdetermination_marker_count 0→1; hedge_density 6.70→6.89
+- **Voice/thesis intact**: central claim (evolutionary case is a strong abductive consideration for mental causation) preserved; this is calibration inheritance, not thesis-weakening
+- **Body word count**: 3134 → 3195 (frontmatter-stripped; +61 from the one opening fold; under 4000 hard ceiling)
+- **Published**: yes
+
 ## 2026-06-04T16:21:13+00:00 - deep-review
 - **Status**: Success (converged — license-to-no-op)
 - **File**: [[topics/comparative-phenomenology-of-meditative-traditions]]
