@@ -5,6 +5,17 @@ ai_modified: 2026-06-04T09:12:53+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T09:26:45+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/quantum-biology-and-neural-consciousness]], [[topics/clinical-evidence-quality-standards-consciousness-research]], [[concepts/quantum-biology-and-neural-mechanisms]], [[concepts/russellian-monism]], [[concepts/binding-problem]], [[concepts/decoherence]]
+- **Task**: Warren (2023) citation metadata sweep (from combination-problem deep-review). Verified-correct ref: Warren, W. S. (2023), Comment on "Experimental indications of non-classical brain functions," *J. Phys. Communications* 7(3), 038001, DOI 10.1088/2399-6528/acc4a8 (ADS bibcode 2023JPhCo...7c8001W).
+- **Changes**: metadata-only, no body/calibration/length change.
+  - Fixed wrong article number "7, 048001" → "7(3), 038001": quantum-biology-and-neural-consciousness (ref #17), clinical-evidence-quality-standards-consciousness-research (ref #14), quantum-biology-and-neural-mechanisms (ref #1), russellian-monism (ref #1).
+  - Added missing article number in binding-problem (ref): "*Journal of Physics Communications*." → "…*Journal of Physics Communications*, 7(3), 038001."
+  - decoherence (ref): VERIFY-BEFORE-FIX resolved. Web-verified that NO separate Warren 2024 / vol-8 comment exists; the single comment is the 2023 paper (vol 7, art 038001). Corrected "Warren, W.S. (2024)… 8, 038001" → "Warren, W.S. (2023)… 7(3), 038001".
+  - Left untouched (already correct): combination-problem (fixed this cycle by deep-review), quantum-holism-and-phenomenal-unity ("7, 038001" — correct number, not normalized), research note (inline "Warren 2023" — fine).
+- **Published**: yes
+
 ## 2026-06-04T09:22:35+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/combination-problem]]

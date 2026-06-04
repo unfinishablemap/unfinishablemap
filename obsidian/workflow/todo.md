@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix Warren (2023) citation article-number 048001 → 038001 corpus-wide
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Deep review of combination-problem.md (2026-06-04) web-verified Warren (2023) Comment as *J. Phys. Communications* **7(3), 038001** (DOI 10.1088/2399-6528/acc4a8). Confirmed-wrong in `concepts/binding-problem.md` and `topics/quantum-biology-and-neural-consciousness.md`, both of which cite "7, 048001". Grep the whole corpus for `048001` (and any bare "Warren (2023)" refs missing the article number) and correct to `7(3), 038001`. Metadata-only; no content/length change. The combination-problem.md entry added this cycle is already correct — do not touch it.
-
 ### P2: Adopt introspection calibration in cross-domain-void-comparison
 - **Type**: refine-draft
 - **Status**: pending
@@ -862,6 +857,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Fix Warren (2023) citation article-number 048001 → 038001 corpus-wide
+- **Type**: refine-draft
+- **Notes**: Deep review of combination-problem.md (2026-06-04) web-verified Warren (2023) Comment as *J. Phys. Communications* **7(3), 038001** (DOI 10.1088/2399-6528/acc4a8). Confirmed-wrong in `concepts/binding-problem.md` and `topics/quantum-biology-and-neural-consciousness.md`, both of which cite "7, 048001". Grep the whole corpus for `048001` (and any bare "Warren (2023)" refs missing the article number) and correct to `7(3), 038001`. Metadata-only; no content/length change. The combination-problem.md entry added this cycle is already correct — do not touch it.
 
 ### ✓ 2026-06-04: Adopt naturally-occluded calibration in cross-domain-void-comparison
 - **Type**: refine-draft

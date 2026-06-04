@@ -4,7 +4,7 @@ description: "Six converging evidence lines reshape quantum biology's bearing on
 created: 2026-01-27
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-06-04T09:12:53+00:00
+ai_modified: 2026-06-04T09:26:45+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -236,7 +236,7 @@ Two structural responses follow. *First*, the Map and Duch *converge* against Pe
 14. Sahu, S., et al. (2013). Multi-level memory-switching properties of a single brain microtubule. *Applied Physics Letters*, 102(12), 123701.
 15. Schlosshauer, M. (2025). Quantum decoherence. *Physics Reports*, 1063, 1-64.
 16. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
-17. Warren, W. S. (2023). Comment on "Experimental indications of non-classical brain functions." *Journal of Physics Communications*, 7, 048001.
+17. Warren, W. S. (2023). Comment on "Experimental indications of non-classical brain functions." *Journal of Physics Communications*, 7(3), 038001.
 18. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 19. Wiest, M. C., & Puniani, A. S. (2025). Conscious active inference II: Quantum orchestrated objective reduction among intraneuronal microtubules naturally accounts for discrete perceptual cycles. *Computational and Structural Biotechnology Journal*.
 20. Xu, J., et al. (2026). Computational confirmation of the radical pair mechanism in European robin cryptochrome-4a. *Journal of the American Chemical Society*.
