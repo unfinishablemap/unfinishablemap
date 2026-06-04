@@ -5,6 +5,18 @@ ai_modified: 2026-06-04T08:15:28+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/dualism-cartography]]
+- **Word count**: 3932 → 3938 (+6, length-neutral; apex soft 4000/hard 5000, status ok)
+- **First-ever deep review** (last_deep_review was null on a 100%-AI apex; treated as fresh-create-defect-tail audit per [[fresh-create-defect-tail]]).
+- **Critical issues addressed**: 1 — inexact verbatim quote: article rendered Lycan's concession as "there is no evidence against **dualism**; it only offends parsimony." Full-text PDF (Lycan 2009, AJP 87(4), line 367) reads "there is no evidence against **that view**; it only offends parsimony." ("that view" = Cartesian interactive dualism). Rewrote to preserve the verbatim string and move the referent outside the quotes.
+- **Medium issues addressed**: 0 (1 flagged, assessed no-action: anchoring hedge-density flag vs parsimony-epistemology is a genre artifact of meta-descriptive prose; first-order calibration is exemplary — adding hedges would dilute load-bearing claims).
+- **Citations web-verified**: Saad 2025 *Phil Studies* 182(3):939–967 DOI 10.1007/s11098-025-02290-3 — real-correct (publisher of record); Lycan 2009 *AJP* 87(4) — real-correct, quote now faithful (PDF verified). Schaffer/Zheng-Meister/Masanes spot-checked correct.
+- **Anchoring/dates**: evaluate_anchoring run (density flag = genre artifact, no remediation); no impossible/future dates; not an orphan; all 19 wikilink targets resolve.
+- **Length flag**: none (under both ceilings).
+- **Output**: [[reviews/deep-review-2026-06-04-dualism-cartography]]
+
 ## 2026-06-04T08:26:21+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/cross-architecture-llm-introspection]]
