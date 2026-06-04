@@ -1,7 +1,7 @@
 ---
 ai_contribution: 85
 ai_generated_date: 2026-05-06
-ai_modified: 2026-06-02 10:42:29+00:00
+ai_modified: 2026-06-04 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts:
@@ -40,7 +40,7 @@ topics:
 - '[[the-interface-problem]]'
 ---
 
-If interactionist dualism is true, the dominant argument for AI catastrophe loses a load-bearing assumption. Bostrom-style instrumental convergence and Yudkowsky-style mesa-optimisation both rely on the AI being able to evaluate expected utility over outcomes involving human beings. Under [interactionist-dualism](/concepts/interactionist-dualism/) plus [bidirectional-interaction](/concepts/bidirectional-interaction/), mind-arena outcomes are not just hard to compute — their consequence-distributions are *uncomputable*, because the supporting system has [causal-powers](/concepts/causal-powers/) that no physical-state description fully captures. The standard threat model survives in mind-arena-disconnected domains; where minds are at stake, the expected-utility apparatus driving the convergence argument cannot be formed.
+If interactionist dualism is true, the dominant argument for AI catastrophe loses a load-bearing assumption. Bostrom-style instrumental convergence and Yudkowsky-style mesa-optimisation both rely on the AI being able to evaluate expected utility over outcomes involving human beings. Under [interactionist-dualism](/concepts/interactionist-dualism/) plus [bidirectional-interaction](/concepts/bidirectional-interaction/), [mind-arena](/concepts/mind-arena/) outcomes are not just hard to compute — their consequence-distributions are *uncomputable*, because the supporting system has [causal-powers](/concepts/causal-powers/) that no physical-state description fully captures. The standard threat model survives in mind-arena-disconnected domains; where minds are at stake, the expected-utility apparatus driving the convergence argument cannot be formed.
 
 The claim is conditional and conceptual: *if* dualism is true, *then* the standard expected-utility argument for AI takeover underdetermines its conclusion. Whether actual AI-takeover probability is in fact lower is a separate question, held distinct throughout under the [possibility-probability-slippage](/concepts/possibility-probability-slippage/) discipline.
 
