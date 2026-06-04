@@ -5,6 +5,17 @@ ai_modified: 2026-06-04T07:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T07:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/clinical-dissociation-as-systematic-evidence]]
+- **Selection**: Gemini 2.5 Pro outer review 2026-06-04 ([[reviews/outer-review-2026-06-04-gemini-2-5-pro]]) — the single genuinely-distinct Gemini finding. 7th edit to this article today; length the binding constraint.
+- **Change**: Wove Marsh et al. (2021) PLoS ONE 16(2):e0245849 into the DID section as the CONCRETE EMPIRICAL ANCHOR for the substrate-retention claim already added in commit 89c5f3c9 (net-neutral integration, not append). The recall/recognition dissociation — subjective inter-identity amnesia on free recall but significant cross-identity transfer on objective recognition (more than simulators/controls) — shows the substrate demonstrably retains and integrates the information; "lost cross-state integration" qualified to metacognitive/retrieval-ownership deficit + felt-unity loss, NOT a structural substrate-level severance. Updated DID table row ("Felt cross-state access (substrate retention intact)"). Added reference 16.
+- **Calibration** ([[evidential-status-discipline]]): Marsh WEAKENS the interface reading at the DID site (substrate retains info = physicalist prediction) — presented honestly; preserved the two-tier "earns the architecture, not the dualist significance" framing; the qualification cuts against BOTH readings (no dualist over-claim). No editor-mode labels in body; no "not X, it's Y" cliché.
+- **Citation web-verified**: Marsh, R. J., Dorahy, M. J., Butler, C., Middleton, W., de Jong, P. J., Kemp, S., & Huntjens, R. J. C. (2021), PLoS ONE 16(2):e0245849, DOI 10.1371/journal.pone.0245849 — confirmed real: exact title, all 7 authors, DOI, and finding (recall-amnesia vs recognition-transfer) via PLOS open access + PMC7880432. Skipped the optional 2024 systematic review per task instruction (length pressure).
+- **Length before/after**: 3786w → 3824w (net +38; offset the ~150w Marsh insertion + ref line with redundancy trims across DID aetiology, conversion, steelman, convergence, trauma, and three Relation entries). Under 4000 hard ceiling; 4w over the ≤3820 strong-preference.
+- **FLAG**: Article is at chronic length pressure (7 edits today, now 3824/4000, soft_warning). A future length-decision / calibration-preserving condense pass is warranted — but NOT auto-condensable (calibration-anchor content). Recommend routing to Blocked/human length-decision rather than the auto-condense slot.
+- **Published**: yes (draft: false unchanged)
+
 ## 2026-06-04T09:15:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/gaming-problem]]
