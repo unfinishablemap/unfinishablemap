@@ -4,7 +4,7 @@ description: "Discrete neural oscillations at 7-13 Hz clash with smooth consciou
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-06-02T09:10:47+00:00
+ai_modified: 2026-06-04T02:54:03+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -66,7 +66,7 @@ The phenomenological evidence creates a genuine puzzle. If experience is intrins
 
 ## The Introspective Opacity Caveat
 
-Andrew Lee's work on discriminatory grain introduces a complication that applies with equal force to temporal smoothness. Lee demonstrates that introspection cannot determine whether phenomenal experience is genuinely continuous or merely discrete at a grain finer than our discriminatory threshold. We cannot inspect the temporal microstructure of our own experience — the resolution of consciousness is opaque to the consciousness whose resolution it is.
+Andrew Lee's work on discriminatory grain introduces a complication that applies with equal force to temporal smoothness. Lee argues that introspection does not decide between phenomenal experience being genuinely continuous or merely discrete at a grain finer than our discriminatory threshold. We cannot inspect the temporal microstructure of our own experience — the resolution of consciousness is opaque to the consciousness whose resolution it is.
 
 This cuts both ways. The dualist cannot prove from introspection alone that temporal experience is genuinely smooth. But the physicalist cannot rescue identity by claiming temporal experience is "really" periodic either. If experience were discrete at a grain matching neural oscillations, the smoothness problem would dissolve — but Lee shows we have no introspective access to settle the question. The structural puzzle identified by the phenomenological tradition persists precisely because the tool we would need to resolve it — introspective access to temporal phenomenal microstructure — is unavailable.
 

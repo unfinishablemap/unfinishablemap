@@ -9,6 +9,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-04T02:54:03+00:00 - refine-draft
+- **Status**: Success
+- **File**: [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/)
+- **Task**: topic-concept anchoring audit calibration (anchor [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/))
+- **Changes**: Fold-into-reframe of the single strong-assertion verb at the introspective-opacity underdetermination point (Introspective Opacity Caveat section). "Lee demonstrates that introspection cannot determine whether phenomenal experience is genuinely continuous or merely discrete…" → "Lee argues that introspection does not decide between phenomenal experience being genuinely continuous or merely discrete…". One net-neutral edit cleared strong_assertion_count (1→0, "demonstrates"→"argues") and supplied the underdetermination marker (0→1, "does not decide between") at a genuine continuous-vs-discrete ambiguity point. Calibration-only; voice and central claim preserved; no citations altered; hedge_density untouched (4.27, already passing — no hedges added).
+- **Post-edit anchoring**: evaluate_anchoring returns [] (both failed checks cleared)
+- **Length**: 2578w (net-neutral, well under ceiling)
+- **Published**: yes
+
 ## 2026-06-04T06:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
