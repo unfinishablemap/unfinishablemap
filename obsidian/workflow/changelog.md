@@ -5,6 +5,24 @@ ai_modified: 2026-06-04T07:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T05:00:32+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/clinical-dissociation-as-systematic-evidence]]
+- **Trigger**: Convergent outer reviews 2026-06-04 (3/3), P1 via /combine-outer-reviews — staleness cluster. Scope this pass (post-deconfliction): modernize the two conditions NOT covered by last cycle's FND fix — DPDR and dissociative amnesia. FND/conversion section left untouched (Edwards/Voon/Hassa already installed commit e4364cf6); FND-terminology + DID/Reinders sample-size left for ChatGPT's retained task.
+- **Citations web-verified** (3-state discipline, all REAL + correct metadata):
+  - Seth AK, Suzuki K, Critchley HD (2012). An interoceptive predictive coding model of conscious presence. *Frontiers in Psychology* 2:395. doi:10.3389/fpsyg.2011.00395. VERIFIED (PMC3254200; DOI front-matter year 2011, published Jan 2012, vol 2).
+  - Ciaunica A, Seth A, Limanowski J, Hesp C, Friston KJ (2022). I overthink—Therefore I am not: an active inference account of altered sense of self and agency in depersonalisation disorder. *Consciousness and Cognition* 101:103320. doi:10.1016/j.concog.2022.103320. VERIFIED (PubMed 35490544; all 5 authors confirmed).
+  - Mangiulli I, Otgaar H, Jelicic M, Merckelbach H (2022). A critical review of case studies on dissociative amnesia. *Clinical Psychological Science* 10(2):191–211. doi:10.1177/21677026211018194. VERIFIED (Sage; this is the canonical Otgaar/Merckelbach line on the contested "stored but inaccessible" framing).
+- **Changes**:
+  - DPDR section reframed as interoceptive-precision pathology (Seth/Suzuki/Critchley 2012; Ciaunica 2022) atop the older Sierra & Berrios account; the "precision problem" objection to functionalism now noted as DISSOLVED by the interoceptive-inference account (collapsed interoceptive precision predicts globally-felt loss of mineness) — strengthens the physicalist rival, two-tier "constrain not establish" framing preserved.
+  - "most diagnostic of the intact-substrate cases" → "most phenomenologically revealing ... without thereby being decisive" (addresses the convergent calibration finding that "diagnostic" implies discriminating power the article disclaims).
+  - Dissociative amnesia section: added Mangiulli/Otgaar/Merckelbach 2022 (the "stored but inaccessible" framing is poorly evidenced at the data level), the metarepresentational-inhibition higher-order reframing, and the retrieval-suppression (Anderson/Hanslmayr) parallel that predicts the same reversibility — "must claim less here than the older sources alone suggested."
+  - Table: DPDR connectivity row → "Down-weighted interoceptive precision"; amnesia → "Storage (disputed) / Inhibited-suppressed retrieval".
+  - Janet historical paragraph compressed to partially offset added length.
+- **Length**: 3202w → 3439w (soft_warning; under 3700 target, well under 4000 hard). Net +237: the contested-amnesia + interoceptive material is load-bearing; Janet compression offset part of it.
+- **Siblings checked**: `dissociative-states-as-intact-substrate-interface-evidence.md` already modernized (Lynn 2014, Lynn et al. 2022, Cambridge Depersonalisation Scale measurement lit) — no same-staleness; `concepts/altered-states-of-consciousness.md` already engages predictive-processing (REBUS, Carhart-Harris & Friston 2019) and only mentions DPDR in passing. No follow-on queued.
+- **Published**: yes (draft: false unchanged)
+
 ## 2026-06-04T07:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/clinical-dissociation-as-systematic-evidence]]

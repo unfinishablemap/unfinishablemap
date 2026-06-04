@@ -76,15 +76,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-04
 
-### P1: Update clinical-dissociation-as-systematic-evidence.md empirical sources to 2012-2026 (staleness)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: From convergent outer reviews (2026-06-04, 3/3 reviewers): [claude, gemini, chatgpt]. Upgraded P2→P1 by /combine-outer-reviews. Claude calls this "the article's biggest weakness"; Gemini independently faults "systematically ignoring the last half-decade of highly robust ... literature"; ChatGPT (adjacent) calls the citation base "stale, sparse, and overextended ... claims that now need recent review-level anchoring." Every primary empirical source is ≤2005 (Janet 1889; Sierra & Berrios 1998; Vuilleumier 2005; Reinders 2003; Brown 2004) — no primary citation later than 2005 for a 2026 article claiming "systematic evidence." Missing the 2012-2026 predictive-processing/active-inference reframing of all four conditions: DPDR → Seth, Suzuki & Critchley (2012, *Front. Psychol.* 2:395, interoceptive predictive-coding model of presence) + Ciaunica et al. (2022, *Consciousness & Cognition* 101:103320); FND → Edwards/Friston (2012); dissociative amnesia → Otgaar/Merckelbach critical work + the metarepresentational-inhibition (higher-order) reframing. NOTE: ChatGPT's separate "Modernize FND terminology + refresh stale citation base" task (below) is RETAINED — it carries distinct mechanical content (FND-as-primary-term, disorder-by-disorder trauma breakdown, Reinders-n=11 disclosure); coordinate so the two don't double-edit the same lines. ⚠ WEB-VERIFY EVERY new cite at publisher of record, full author incl given name, before adding ([[ai_citation_metadata_unreliable]]). ⚠ Honour [[evidential-status-discipline]] — adding the modern lit STRENGTHENS the physicalist rivals; preserve the article's honest "constrain not establish" calibration, do NOT let the update tip into either over-claiming or capitulation. ⚠ PROPAGATE the currency fix to the dissociation cluster siblings.
-- **Review files**: `reviews/outer-review-2026-06-04-claude-opus-4-8.md`, `reviews/outer-review-2026-06-04-gemini-2-5-pro.md`, `reviews/outer-review-2026-06-04-chatgpt-5-5-pro.md`
-- **Synthesis**: `reviews/outer-review-synthesis-2026-06-04.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-04
-
 ### P1: Engage the precision-weighting common-cause undercut of the convergence argument in clinical-dissociation-as-systematic-evidence.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -957,6 +948,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Update clinical-dissociation-as-systematic-evidence.md empirical sources to 2012-2026 (staleness)
+- **Type**: refine-draft
+- **Notes**: From convergent outer reviews (2026-06-04, 3/3 reviewers): [claude, gemini, chatgpt]. Upgraded P2→P1 by /combine-outer-reviews. Claude calls this "the article's biggest weakness"; Gemini independently faults "systematically ignoring the last half-decade of highly robust ... literature"; ChatGPT (adjacent) calls the citation base "stale, sparse, and overextended ... claims that now need recent review-level anchoring." Every primary empirical source is ≤2005 (Janet 1889; Sierra & Berrios 1998; Vuilleumier 2005; Reinders 2003; Brown 2004) — no primary citation later than 2005 for a 2026 article claiming "systematic evidence." Missing the 2012-2026 predictive-processing/active-inference reframing of all four conditions: DPDR → Seth, Suzuki & Critchley (2012, *Front. Psychol.* 2:395, interoceptive predictive-coding model of presence) + Ciaunica et al. (2022, *Consciousness & Cognition* 101:103320); FND → Edwards/Friston (2012); dissociative amnesia → Otgaar/Merckelbach critical work + the metarepresentational-inhibition (higher-order) reframing. NOTE: ChatGPT's separate "Modernize FND terminology + refresh stale citation base" task (below) is RETAINED — it carries distinct mechanical content (FND-as-primary-term, disorder-by-disorder trauma breakdown, Reinders-n=11 disclosure); coordinate so the two don't double-edit the same lines. ⚠ WEB-VERIFY EVERY new cite at publisher of record, full author incl given name, before adding ([[ai_citation_metadata_unreliable]]). ⚠ Honour [[evidential-status-discipline]] — adding the modern lit STRENGTHENS the physicalist rivals; preserve the article's honest "constrain not establish" calibration, do NOT let the update tip into either over-claiming or capitulation. ⚠ PROPAGATE the currency fix to the dissociation cluster siblings.
 
 ### ✓ 2026-06-04: Fix conversion-disorder factual error in clinical-dissociation-as-systematic-evidence.md (increased, not severed, amygdala-motor coupling)
 - **Type**: refine-draft
