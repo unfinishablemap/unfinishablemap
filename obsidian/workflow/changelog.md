@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04T20:30:00+00:00
+ai_modified: 2026-06-04T22:22:03+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-04T22:22:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/comparing-quantum-consciousness-mechanisms]]
+- **Word count**: 3987 → 3986 (−1 net; added full 45-word Craddock et al. 2017 reference, offset by redundant-prose trims; back under 4000 hard threshold)
+- **Critical issues addressed**: 1 (dangling citation — "Craddock et al. 2017" cited inline since the 2026-05-23 corpus 613 THz sweep but missing from the reference list; full inline-vs-reflist cross-check confirmed it was the only unresolved cite; added web-verified *Scientific Reports* 7:9877, DOI 10.1038/s41598-017-09992-7)
+- **Medium issues addressed**: 0 (new apex-sourced "Preference Ordering" section checked for possibility/probability slippage — clean: ranks methodological *fit* not evidential status, states "preference ordering, not an empirical result," guards both misreadings via the four-layer structure)
+- **Enhancements made**: 1 (length-neutral redundant-prose trims in the preference-ordering intro and Orch OR item; no calibration qualifiers/citation-framing/hedges dropped)
+- **Engagement modes (editor-internal)**: engagement with Duch — Mode Three (framework-boundary marking), unchanged; honest "convergent-conclusion-opposite-reasoning" boundary-marking, no boundary-substitution, no label leakage
+- **Output**: [[reviews/deep-review-2026-06-04-comparing-quantum-consciousness-mechanisms]]
+- **Stability**: 11th review; stable at quality ceiling; the one fix was a mechanical dangling-cite introduced by an external corpus sweep. Recommend exclusion until substantive new content modifies claims.
 
 ## 2026-06-04T18:20:00+00:00 - deep-review
 - **Status**: Success

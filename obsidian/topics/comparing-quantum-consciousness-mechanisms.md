@@ -4,8 +4,8 @@ description: "Head-to-head evaluation of Orch OR, Stapp's Zeno model, Fisher's n
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-06-04T06:31:42+00:00
-last_deep_review: 2026-05-19T00:00:00+00:00
+ai_modified: 2026-06-04T22:22:03+00:00
+last_deep_review: 2026-06-04T22:22:03+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -142,17 +142,17 @@ The Map's relationship to Duch is *convergent-conclusion-opposite-reasoning*: bo
 
 ## What the Comparison Reveals
 
-**The decoherence divide.** Mechanisms divide into those requiring sustained coherence (Orch OR) and those operating through discrete events or modified dynamics (Stapp, Fisher, CSL hybrids). The 2025 QBIT extension partially bridges this — spintronic coherence may be more favourable than Tegmark estimated. [[quantum-darwinism-and-consciousness|Quantum Darwinism]] sharpens the divide: proposals operating on the already-decohered [[#the-post-decoherence-gap|improper mixture]] avoid the [[timing-gap-problem|timing gap]] and hold a structural advantage.
+**The decoherence divide.** Mechanisms divide into those requiring sustained coherence (Orch OR) and those operating through discrete events or modified dynamics (Stapp, Fisher, CSL hybrids). The 2025 QBIT extension partially bridges this — spintronic coherence may be more favourable than Tegmark estimated. [[quantum-darwinism-and-consciousness|Quantum Darwinism]] sharpens the divide: proposals operating on the already-decohered [[#the-post-decoherence-gap|improper mixture]] avoid the [[timing-gap-problem|timing gap]] entirely.
 
 **Phenomenology matters.** Stapp's model uniquely accommodates the effortful character of attention, the willed/automatic distinction, and the temporal grain of experience — though these features also have well-established classical neuroscience explanations. Other proposals explain *that* consciousness plays a causal role without explaining *why* it feels as it does. A complete theory must address both, but phenomenological accommodation carries less evidential weight than novel empirical predictions.
 
-**The falsifiability gap.** Current evidence does not adjudicate between these mechanisms; none generates predictions cleanly distinguishing it from classical neuroscience. Orch OR's shrinking parameter space is genuinely falsifiable; Fisher's lithium isotope and Posner predictions come closest to unique tests. The [[testing-consciousness-collapse|experimental landscape]] is narrowing, and specific divergent predictions between consciousness-collapse and decoherence are catalogued — though the consciousness-specific ones remain untested.
+**The falsifiability gap.** Current evidence does not adjudicate between these mechanisms; none generates predictions cleanly distinguishing it from classical neuroscience. Orch OR's shrinking parameter space is genuinely falsifiable; Fisher's lithium isotope and Posner predictions come closest to unique tests. The [[testing-consciousness-collapse|experimental landscape]] is narrowing, and divergent predictions between consciousness-collapse and decoherence are catalogued — though the consciousness-specific ones remain untested.
 
-**No single mechanism currently addresses all criteria.** Each illuminates different aspects: Stapp explains effort phenomenology; Orch OR connects consciousness to spacetime; Fisher targets biological quantum persistence; CSL hybrids solve the prebiotic problem. The full picture may require elements from several. The [[falsification-roadmap-for-the-interface-model|falsification roadmap]] maps these experimental prospects onto the Map's five tenets, specifying what evidence would require abandoning each commitment.
+**No single mechanism currently addresses all criteria.** Each illuminates a different aspect: Stapp explains effort phenomenology; Orch OR connects consciousness to spacetime; Fisher targets biological quantum persistence; CSL hybrids solve the prebiotic problem. The full picture may require elements from several. The [[falsification-roadmap-for-the-interface-model|falsification roadmap]] maps these experimental prospects onto the Map's five tenets, specifying what evidence would require abandoning each commitment.
 
 ## The Map's Preference Ordering — and Why It Is Not a Commitment {#preference-ordering}
 
-The Map's [[tenets|tenets]] state that it "does not commit to any specific mechanism." That is the right calibration at the level of *truth*: which mechanism is correct remains genuinely open, and the empirical traction needed to decide is not yet available. But not-committing is compatible with *preferring*. The Map can rank these proposals by methodological fit — how cleanly each sits inside the tenet structure and how cheaply it escapes the standing objections — without claiming the ranked-first proposal is the one nature uses. The ranking below is a preference ordering, not an empirical result, and the distinction is load-bearing: a mechanism the Map prefers can still turn out false, and the lower-ranked candidates remain genuine live fallbacks, not discarded options.
+The Map's [[tenets|tenets]] state that it "does not commit to any specific mechanism." That is the right calibration at the level of *truth*: which mechanism is correct remains genuinely open. But not-committing is compatible with *preferring*. The Map can rank these proposals by methodological fit — how cleanly each sits inside the tenet structure — without claiming the ranked-first proposal is the one nature uses. The ranking below is a preference ordering, not an empirical result: a mechanism the Map prefers can still turn out false, and the lower-ranked candidates remain genuine live fallbacks, not discarded options.
 
 The ordering follows directly from the [[#the-post-decoherence-gap|post-decoherence gap]] and the decoherence divide:
 
@@ -160,7 +160,7 @@ The ordering follows directly from the [[#the-post-decoherence-gap|post-decohere
 
 2. **Stapp's quantum Zeno model** and **CSL-IIT hybrids** (co-preferred fallbacks). Both satisfy all five tenets and operate through discrete events or modified dynamics rather than sustained coherence. They rank just below the post-decoherence framing because each carries a specific additional debt the bare post-decoherence move avoids: Stapp's literal-Zeno reading commits to attention-rate-dependent signatures it has not yet exhibited brain-internally, and CSL-IIT's consciousness-modulation component is currently untestable. Where they can be read as implementations *of* post-decoherence selection, the Map treats them as allies rather than rivals.
 
-3. **Orch OR** (live but dispreferred). Penrose-Hameroff's gravitational collapse in microtubules is the most empirically active proposal — growing anaesthetic and superradiance evidence, a shrinking parameter space — but it sits uneasily with [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] (it demands macroscopic coherence and Penrose's proto-conscious OR events imply a panpsychism the Map does not endorse), and it stakes everything on the contested decoherence-timescale dispute. It is dispreferred not because it is refuted but because it pays the highest tenet-fit cost; should its microtubule-coherence evidence consolidate, the ordering would update.
+3. **Orch OR** (live but dispreferred). Penrose-Hameroff's gravitational collapse in microtubules is the most empirically active proposal — growing anaesthetic and superradiance evidence, a shrinking parameter space — but it sits uneasily with [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] and stakes everything on the contested decoherence-timescale dispute. It is dispreferred not because it is refuted but because it pays the highest tenet-fit cost; should its microtubule-coherence evidence consolidate, the ordering would update.
 
 4. **Fisher's nuclear-spin hypothesis** (peripheral). Strong on decoherence resistance and falsifiability, but its minutes-to-hours timescale and undeveloped connection to dualism leave it explaining the wrong grain of experience for the Map's purposes.
 
@@ -203,6 +203,7 @@ The Map's position: *some* quantum consciousness mechanism exists, constrained b
 1. Babcock, N. S., Montes-Cabrera, G., Oberhofer, K. E., Chergui, M., Celardo, G. L., & Kurian, P. (2024). Ultraviolet superradiance from mega-networks of tryptophan in biological architectures. *The Journal of Physical Chemistry B*, 128(17), 4035-4046.
 1. Beshkar, M. (2025). Consciousness and spintronic coherence in microtubules. *Communicative & Integrative Biology*.
 1. Chalmers, D. J. & McQueen, K. J. (2021). Consciousness and the collapse of the wave function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
+1. Craddock, T. J. A., Kurian, P., Preto, J., Sahu, K., Hameroff, S. R., Klobukowski, M., & Tuszynski, J. A. (2017). Anesthetic alterations of collective terahertz oscillations in tubulin correlate with clinical potency: Implications for anesthetic action and post-operative cognitive dysfunction. *Scientific Reports*, 7, 9877. https://doi.org/10.1038/s41598-017-09992-7
 1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
 1. Donadi, S., et al. (2021). Underground test of gravity-related wave function collapse. *Nature Physics*, 17, 74-78.
 1. Fisher, M. P. A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
