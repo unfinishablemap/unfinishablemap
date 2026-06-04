@@ -5,6 +5,16 @@ ai_modified: 2026-06-04T05:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T06:50:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [[reviews/outer-review-2026-06-04-gemini-2-5-pro]]
+- **Subject**: [[clinical-dissociation-as-systematic-evidence]] (Gemini leg of the 3-service triple; ChatGPT + Claude already collected+processed)
+- **Claims verified**: 3 of 4 distinctive academic anchors confirmed real+correctly-attributed (Marsh/Huntjens 2021 PLoS ONE e0245849; Lynn et al. 2022 Annu Rev Clin Psychol 18:259-289; Seth & Bayne 2022 NRN 23:439-452). W3 Constant/Clark/Friston 2022 + W4 Dodier/Otgaar/Mangiulli 2024 plausible-unverified; Lebois "2026" flagged unreliable (impossible future date).
+- **High-value findings**: 1 genuinely distinct (W1 recall-vs-recognition DID memory-transfer falsifier — substrate retains+integrates info via recognition despite subjective recall amnesia). W2 (sociocognitive/transtheoretical), W3 (predictive-processing/precision-weighting), W4/staleness, W5 (circularity) all CONVERGE with already-queued ChatGPT+Claude 06-04 tasks on the same shared subject ([[outer-review-same-file-task-pileup]]).
+- **Tasks generated**: 1 new standalone (P2: Marsh/Huntjens recall-vs-recognition counterevidence) + 1 P2 convergence-flag entry for /combine-outer-reviews to upgrade convergent tasks (no duplicate edit tasks created).
+- **Convergent with 2026-06-04 ChatGPT + Claude**: empirical staleness, sociocognitive omission, predictive-processing/precision-weighting common-cause undercut (now 3-reviewer), tenet-bracketed circularity. Hostile-referee tone overshoots ("catastrophic"/"reckless") vs the article's actual two-tier calibration — noted in Verification Notes.
+
 ## 2026-06-04T06:30:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Gaming Problem (Birch's gaming problem for AI sentience markers)

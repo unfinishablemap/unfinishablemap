@@ -1244,9 +1244,9 @@
   commissioned_at: '2026-06-04T04:06:47.306980+00:00'
   prompt_summary: 'Hostile referee audit: clinical-dissociation-as-systematic-evidence'
   target_filename: outer-review-2026-06-04-gemini-2-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-04T04:37:22.668526+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal (Mind, Synthese, Philosophical Studies) reviewing this article for submission.
