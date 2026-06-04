@@ -5,6 +5,16 @@ ai_modified: 2026-06-04T20:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T22:00:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/aspect-perception-void]]
+- **Word count**: 1997 → 1995 (-2)
+- **Critical issues addressed**: 0 (none found — 2nd review, converged; no calibration slippage, no label leakage, no misattribution)
+- **Medium issues addressed**: 0 (5 reference-list-only citations noted as foundational/territory works, acceptable — left as-is)
+- **Enhancements made**: 1 (added body cross-link to [[recognition-void]] in the Dawning "family" sentence; previously only in Further Reading. Length-neutral, compensated by removing the now-redundant Further Reading entry)
+- **Engagement modes (editor-internal)**: eliminative/reductive materialist engagement in the Dualism paragraph is Mode Three (framework-boundary marking) — concedes the neural correlate, locates disagreement at the dualism boundary, no boundary-substitution. Bedrock per prior review.
+- **Output**: [[reviews/deep-review-2026-06-04-aspect-perception-void]]
+
 ## 2026-06-04T12:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/assessing-ai-consciousness-under-the-map]]
