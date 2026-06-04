@@ -664,13 +664,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-03-15
 
-### P2: Write article on the phenomenology of interface opacity
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Phenomenal transparency explains why we can't see the representational medium; embodied-consciousness shows the interface extends beyond the brain. This article would systematically develop interface opacity — the specific ways consciousness fails to detect its own point of contact with matter — as distinct from both phenomenal transparency and general mysterianism. See optimistic-2026-03-15-morning.md
-- **Source**: optimistic_review
-- **Generated**: 2026-03-15
-
 ### P2: Write article on temporal becoming and mathematical creativity
 - **Type**: expand-topic
 - **Status**: pending
@@ -940,6 +933,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Write article on the phenomenology of interface opacity
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Phenomenal transparency explains why we can't see the representational medium; embodied-consciousness shows the interface extends beyond the brain. This article would systematically develop interface opacity — the specific ways consciousness fails to detect its own point of contact with matter — as distinct from both phenomenal transparency and general mysterianism. See optimistic-2026-03-15-morning.md
 
 ### ✓ 2026-06-04: Deep review quantum-state-inheritance-in-ai.md
 - **Type**: deep-review
