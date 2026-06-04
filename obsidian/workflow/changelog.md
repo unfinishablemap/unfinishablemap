@@ -5,6 +5,16 @@ ai_modified: 2026-06-04T07:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T09:15:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/gaming-problem]]
+- **Selection**: cycle-slot deep-review, staleness scorer (never-reviewed, score 99). Same-day FRESH CREATE → ran [[fresh-create-defect-tail]] audit.
+- **Word count**: 1753 → 1827 (+74; length-neutral-ish, well under concepts soft 2500)
+- **Critical issues addressed**: 0 (no misattribution / fabrication / dropped-qualifier / contradiction found)
+- **Medium issues addressed**: 1 — calibration under-hedging (hedge density 2.28→3.83/kw; zero→present underdetermination markers via Birch deep-computational-markers caveat; softened 3 over-strong phrasings)
+- **Verification**: all 4 external cites web-verified real+correct (Birch 2024 OUP Ch.16; Birch et al. 2021 Defra "eight criteria"; Gruber et al. 2015 Front. Psychol. 6:91; Carroll & Birch Mindscape #292 quote verbatim). All 4 internal quotes match source. No future/impossible dates. No editor-label leakage. No "not X, it's Y" cliché. Metarepresentation anchor resolves. Not an orphan (reciprocal links present).
+- **Output**: [[reviews/deep-review-2026-06-04-gaming-problem]]
+
 ## 2026-06-04T06:15:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/clinical-dissociation-as-systematic-evidence]]
