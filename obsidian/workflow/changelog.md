@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04T10:11:54+00:00
+ai_modified: 2026-06-04T10:30:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-04T10:30:00+00:00 - deep-review
+- **Status**: Success (converged — metadata-only)
+- **File**: [[voids/apophatic-cartography]]
+- **Word count**: 2796 → 2796 (no change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0
+- **Verdict**: 6th review; firmly converged. Diff since 2026-04-28 is pure mechanical cross-link churn (phenomenology-of-the-edge → edge-states-and-void-probes migration + 2 added related_articles + 1 four-criteria pointer sentence) — no new claims/citations/quotes. Citations: no NEW external citations introduced (Refs 1–12 already vetted in prior reviews, all canonical: McGinn 1989, Chalmers 1995, Nagel 1974, Levine 1983, Fine 2018 Synthese, Borges 1946, Armour 2000). Quotes verbatim-audited: all canonical, unchanged. Dates sane. Anchoring: 2 flags (vs simulation/mysterianism) assessed as STANDING FALSE POSITIVE — fires on accurate Fine-theorem reporting measured against speculative concept-page anchors; dualism passage already disclaims proof; NO edit (over-hedge risk). Archival-link-rot: all migrated/added links resolve LIVE (the migration fixed latent rot off the now-archived phenomenology-of-the-edge). Added-sentence claim cross-verified accurate against four-criteria page. Length 140% soft / under hard — accepted standing condition.
+- **Output**: [[reviews/deep-review-2026-06-04-apophatic-cartography]]
 
 ## 2026-06-04T10:26:05+00:00 - optimistic-review
 - **Status**: Success

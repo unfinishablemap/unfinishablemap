@@ -3,7 +3,7 @@ title: "Apophatic Cartography: Method and Its Limits"
 created: 2026-01-10
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-05-16T04:40:00+00:00
+ai_modified: 2026-06-04T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-10
 last_curated: null
-last_deep_review: 2026-04-28T13:53:00+00:00
+last_deep_review: 2026-06-04T00:00:00+00:00
 coalesced_from:
   - "/voids/apophatic-approaches/"
   - "/voids/apophatic-cartography/"
