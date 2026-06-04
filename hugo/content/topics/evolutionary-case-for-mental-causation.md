@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-06-02 19:32:00+00:00
+ai_modified: 2026-06-04 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -37,7 +37,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-If consciousness evolved through natural selection, it must have causal effects on behaviour. A causally inert property—one that changes nothing about how organisms interact with their environment—cannot be selected. This argument, first articulated by William James in 1890, provides significant evidence that consciousness genuinely contributes to intelligence rather than merely accompanying it. The Unfinishable Map holds that this evolutionary argument, combined with evidence from comparative cognition, establishes that consciousness causally amplifies cognitive capacity. The argument is accepted by physicalists and dualists alike—where they disagree is whether causal efficacy implies non-physicality, a question the evolutionary argument alone does not settle.
+If consciousness evolved through natural selection, it must have causal effects on behaviour. A causally inert property—one that changes nothing about how organisms interact with their environment—cannot be selected. This argument, first articulated by William James in 1890, provides significant evidence that consciousness genuinely contributes to intelligence rather than merely accompanying it. The Unfinishable Map holds that this evolutionary argument, combined with evidence from comparative cognition, makes a strong abductive case that consciousness causally amplifies cognitive capacity. The inference from "consciousness was selected" to "consciousness is causally efficacious" is suggestive rather than demonstrative—the move is underdetermined by the evidence, since the byproduct rejoinder (the selected trait is the neural substrate, with experience riding along) remains live. The argument is accepted by physicalists and dualists alike—where they disagree is whether causal efficacy implies non-physicality, a question the evolutionary argument alone does not settle.
 
 The argument matters because it addresses consciousness's causal role directly. We can debate whether introspective reports are reliable, whether logical reasoning truly requires awareness, whether the [amplification](/concepts/consciousness-as-amplifier/) story correctly describes the mechanism. But the evolutionary argument operates at a different level: if consciousness exists because evolution preserved it, evolution must have had something to preserve it *for*.
 
@@ -99,7 +99,7 @@ This observation connects the evolutionary argument to the [Minimal Quantum Inte
 
 For the dualist, classical physics presents a problem: its deterministic causal closure leaves no room for mental causation that is not reducible to physical causation. Quantum indeterminacy provides a potential opening—consciousness might bias otherwise undetermined outcomes without injecting energy or violating [conservation laws](/concepts/conservation-laws-and-mental-causation/).
 
-The Map does not claim certainty about the mechanism. The evolutionary argument establishes *that* consciousness is causally efficacious; the [section below](#the-physicalist-account-of-mental-causation) addresses whether this efficacy implies non-physicality; and the quantum hypothesis proposes *how* non-physical causation might operate if dualism is correct. The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) develops the complementary argument: evolution likely built the quantum substrate through which consciousness operates, just as it built the quantum compass in a bird's eye. The Map's specific hypothesised causal architecture — selection of action, sustained attention, phenomenal biasing, volitional modulation — is catalogued at [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/), where the four mechanisms are properly flagged as the framework's *hypothesised* causal role at the speculative-integration evidential tier rather than as established findings.
+The Map does not claim certainty about the mechanism. The evolutionary argument makes the case *that* consciousness is causally efficacious; the [section below](#the-physicalist-account-of-mental-causation) addresses whether this efficacy implies non-physicality; and the quantum hypothesis proposes *how* non-physical causation might operate if dualism is correct. The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) develops the complementary argument: evolution likely built the quantum substrate through which consciousness operates, just as it built the quantum compass in a bird's eye. The Map's specific hypothesised causal architecture — selection of action, sustained attention, phenomenal biasing, volitional modulation — is catalogued at [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/), where the four mechanisms are properly flagged as the framework's *hypothesised* causal role at the speculative-integration evidential tier rather than as established findings.
 
 ## Functions Consciousness Enables
 
@@ -131,7 +131,7 @@ More directly: if illusionism is true, then the correlation between consciousnes
 
 ## The Physicalist Account of Mental Causation
 
-The evolutionary argument establishes that consciousness is causally efficacious, but this conclusion alone does not establish dualism. Most working philosophers of mind accept mental causation while remaining physicalists. The strongest version of this position—non-reductive physicalism—holds that consciousness is realised by physical processes, described at a higher level of organisation, and genuinely causally effective at that level. On this view, the evolutionary argument is welcome evidence *for* physicalism, not against it.
+The evolutionary argument makes its strongest case for the claim that consciousness is causally efficacious, but this conclusion alone does not establish dualism. Most working philosophers of mind accept mental causation while remaining physicalists. The strongest version of this position—non-reductive physicalism—holds that consciousness is realised by physical processes, described at a higher level of organisation, and genuinely causally effective at that level. On this view, the evolutionary argument is welcome evidence *for* physicalism, not against it.
 
 Non-reductive physicalists argue that mental properties supervene on physical properties without being reducible to them—much as biological properties supervene on chemistry without being "nothing but" chemistry. Consciousness evolved, has causal effects, and is entirely physical. The selection pressures the evolutionary argument identifies are real, and they selected for physical systems that instantiate conscious states. No non-physical ingredient is required.
 
@@ -143,7 +143,7 @@ This is not a fringe objection. It is the default position in contemporary philo
 
 **The causal closure problem**: If physics is causally closed—every physical event has a sufficient physical cause—then mental causation either reduces to physical causation or is overdetermined. The non-reductive physicalist must explain how mental properties can be genuinely causal without overdetermining their physical bases. This remains an active area of debate, with exclusion arguments (Kim, 1998) pressing the physicalist toward either reductionism or epiphenomenalism. The Map's preferred structural response is [causal delegation](/concepts/delegatory-causation/): experiences [preempt](/concepts/delegatory-causation/) the causal contributions of their underlying physical states rather than overdetermining them.
 
-The Unfinishable Map's position is that the evolutionary argument provides necessary but not sufficient grounds for dualism. It establishes the causal efficacy that epiphenomenalism and eliminativism deny. The further step to non-physicality depends on the explanatory gap, conceivability arguments, and the difficulty of reconciling genuine mental causation with causal closure—arguments developed elsewhere in the Map.
+The Unfinishable Map's position is that the evolutionary argument provides necessary but not sufficient grounds for dualism. It raises the cost of denying the causal efficacy that epiphenomenalism and eliminativism reject, without on its own refuting them. The further step to non-physicality depends on the explanatory gap, conceivability arguments, and the difficulty of reconciling genuine mental causation with causal closure—arguments developed elsewhere in the Map.
 
 ## What Would Defeat the Argument?
 
@@ -161,13 +161,13 @@ The evolutionary argument could be weakened by several findings:
 
 The evolutionary argument for mental causation supports multiple Map tenets.
 
-**[Dualism](/tenets/#dualism)**: The evolutionary argument does not directly establish dualism—non-reductive physicalists accept mental causation while denying non-physicality. The argument's contribution to the dualist case is indirect: it establishes causal efficacy, which combines with the [explanatory gap](/concepts/explanatory-gap/) and conceivability arguments to build the cumulative case for non-physical consciousness. Without the evolutionary argument, dualism faces the accusation that consciousness is epiphenomenal and therefore explanatorily idle.
+**[Dualism](/tenets/#dualism)**: The evolutionary argument does not directly establish dualism—non-reductive physicalists accept mental causation while denying non-physicality. The argument's contribution to the dualist case is indirect: it supports causal efficacy, which combines with the [explanatory gap](/concepts/explanatory-gap/) and conceivability arguments to build the cumulative case for non-physical consciousness. Without the evolutionary argument, dualism faces the accusation that consciousness is epiphenomenal and therefore explanatorily idle.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: This tenet claims consciousness causally influences the physical world. The evolutionary argument provides the strongest evidence for this claim. If consciousness evolved, it must have effects; if it has effects, it is not epiphenomenal.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The evolutionary argument shows that consciousness needs a causal mechanism. Quantum indeterminacy provides a candidate location for this mechanism—a point where consciousness can influence outcomes without violating physical laws that exclude mental causation in classical contexts.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The evolutionary argument indicates that consciousness needs a causal mechanism. Quantum indeterminacy provides a candidate location for this mechanism—a point where consciousness can influence outcomes without violating physical laws that exclude mental causation in classical contexts.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Epiphenomenalism appears simpler—one fewer type of causation—but creates explanatory puzzles the interactionist position resolves. The evolutionary argument shows that apparent parsimony can hide explanatory deficits.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Epiphenomenalism appears simpler—one fewer type of causation—but creates explanatory puzzles the interactionist position resolves. The evolutionary argument suggests that apparent parsimony can hide explanatory deficits.
 
 ## Further Reading
 

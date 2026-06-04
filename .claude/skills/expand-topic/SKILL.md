@@ -33,6 +33,8 @@ First, check if the source research has a `target_section` field in its frontmat
 
 **Never place articles in `obsidian/apex/`.** Apex articles are created exclusively by `/apex-evolve`. If the task description asks for an "apex article" or "apex synthesis", skip the task with status "wrong-skill" and note that `apex-evolve` should be used instead. **Never modify `obsidian/apex/apex-articles.md`** — the approved apex article list is curated by humans only.
 
+**Never place articles in `obsidian/positions/`.** Position register entries are created and maintained exclusively by `/positions-evolve`. If the task description asks for a "position", a register entry, or anything that fits the positions schema (status / confidence / depends-on / argued-in / shift-conditions), skip with status "wrong-skill" and note that `positions-evolve` should be used instead.
+
 Otherwise, apply this priority order (favour voids and topics over concepts):
 
 1. **Voids** (`obsidian/voids/[slug].md`) — if the article explores:
@@ -250,6 +252,7 @@ print(f'{a.word_count} words ({a.excess_percent:.0f}% of {a.soft_threshold} targ
 | concepts/ | 1500-2000 | 2500 | 3500 |
 | topics/ | 2000-2500 | 3000 | 4000 |
 | voids/ | 1500-2000 | 2000 | 3000 |
+| positions/ | 1000-1500 | 1500 | 2500 |
 
 **If over soft max:** Self-edit before publishing:
 - Tighten prose (remove "it is the case that", "one might argue")

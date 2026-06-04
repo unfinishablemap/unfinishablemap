@@ -9,6 +9,113 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-04T17:08:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [delegatory-causation](/concepts/delegatory-causation/) (corpus-wide hub, re-edited today); spot-checks vs [epiphenomenalism](/concepts/epiphenomenalism/), [self-stultification](/concepts/self-stultification/), [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/)
+- **Findings**: 1 genuine load-bearing defect — "logical defect"/"consistency requirement" framing of the self-stultification asymmetry (L132/134/180) contradicts the corpus's own settled position that self-stultification is a WEAKER epistemic defeater, not a logical contradiction. Epistemic↔logical equivocation + internal inconsistency. Queued 1 P2 refine-draft (top of Active). Citations Saad 2025 / Schaffer 2000 / Torres Alegre 2025 / DeWall 2008 all web-verified CORRECT; no quote/empirical/boundary-substitution defects.
+- **Output**: [pessimistic-2026-06-04b](/reviews/pessimistic-2026-06-04b/)
+
+## 2026-06-04T16:57:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [formal-cognitive-limits](/voids/formal-cognitive-limits/)
+- **Word count**: 2238 → 2244 (+6; length-neutral, 75% of hard 3000)
+- **Critical issues addressed**: 1 (paraphrase presented as verbatim Gödel quotation)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; periodic re-verification of 35-day-old content)
+- **Diff scoping**: only same-day (04-30 15:18) delta was the vagueness-void "further axis" paragraph + frontmatter entry (clean). Bulk is converged → citation/theorem-gloss/Lucas-Penrose re-verify.
+- **Critical fix**: §Gödel disjunction quoted a PARAPHRASE inside quote marks as Gödel's words ("Either the human mathematical mind cannot be captured by an algorithm, or there are absolutely undecidable problems"). Gödel's actual 1951 Gibbs Lecture: "either the human mind infinitely surpasses the powers of any finite machine, or there exist absolutely unsolvable Diophantine problems" (dropped the **Diophantine** qualifier + paraphrased horn 1). Converted to accurate paraphrase, quote marks removed, attributed to Gibbs Lecture. Survived 3 prior reviews — fresh-eyes verbatim catch.
+- **Web-verify (fabrication-risk surface)**: Chaitin 1982 (IJTP 21, 941-954) ✓, Tymoczko 1979 (J.Phil 76, 57-83) ✓, Feferman 1995 (Psyche 2(7)) ✓ — all correct. Clarke-Doane: vol/pages correct but in-print year is 2013 not 2012 (online-first ambiguity; list-only ref; deferred, not churned). Canonical theorem attributions (Gödel 1931, Turing 1936, Rice 1953, Lucas 1961) cross-checked ✓.
+- **Theorem-gloss accuracy**: halting/Gödel I+II/Rice/Chaitin glosses all mathematically accurate; no over-extension.
+- **Lucas-Penrose calibration**: HONEST — void rests on Gödel's disjunction (holds regardless), NOT on the contested anti-mechanism conclusion; "even if Lucas-Penrose fails" + "minority position" + "indirect support". No possibility→probability slippage; tenet-accepting reviewer would not flag. No over-reach.
+- **Anchoring**: evaluate_anchoring empty before+after; theorems demonstrative (correct), inference-to-mind conditionalized.
+- **Output**: [deep-review-2026-06-04-formal-cognitive-limits](/reviews/deep-review-2026-06-04-formal-cognitive-limits/)
+
+## 2026-06-04T16:52:40+00:00 - deep-review
+- **Status**: Success (CONVERGED — no body edits)
+- **File**: [pharmacological-dissociation-as-evidence](/apex/pharmacological-dissociation-as-evidence/)
+- **Word count**: 4200 → 4200 (no change; license-to-no-op exercised)
+- **Re-review trigger**: changed-since-review staleness (last_deep_review 2026-05-18, ai_modified 2026-06-03). Diff-first audit of the post-review delta.
+- **Diff scoping**: (1) own-content apex-evolve development — compound-signature paragraphs imported from [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) into Class B + Cumulative Convergence, plus conversion-disorder psychogenic-sibling-route material; (2) one calibration import — MQI tenet line `Hameroff et al. (2025)` → `Wiest (2025)`.
+- **Web-verify**: Wiest (2025) niaf011 import CORRECT (single-author Michael C. Wiest, Wellesley; PMID 40342554; corpus-canonical) — Hameroff famous-name substitution correctly removed. Sarasso 2015 (*Curr Biol* 25(23):3099-3105) and Hu 2023 (*Nat Neurosci* 26(5):751-764) match source verified forms; apex carries no body locators → no stale-locator risk. Source-conclusion check PASS (each study reports the claimed dissociation).
+- **Dissociation-calibration**: honest throughout; constrain-not-establish held at every class; common-cause null explicitly pre-empted via compound-signature framing AND correctly discounted to compatibility-grade (architecture earned, dualist significance not). Five-tier placement correct (architecture = realistic-possibility; interactionist reading = live-hypothesis). No possibility→probability slippage.
+- **Seam-check**: compound-signature deep-link anchor resolves; import faithful to source two-tier discount. PASS.
+- **Anchoring**: evaluate_anchoring flagged low hedge density + 5 "strong assertions" — judged FALSE POSITIVE (lexicon mismatch: ~65 calibration tokens vs 4 generic-hedge matches; all 5 "assertions" are the word "establishes" inside constrain-vs-establish contrasts). No edit (would regress correct calibration).
+- **Length**: 4200w soft_warning (105% of 4000 soft, under 5000 hard) → length-neutral; no condense, not a human-length-decision.
+- **Reasoning-mode**: materialism/MWI = Mode Three; simplest-identity = Mode One. No label leakage.
+- **Timestamps**: ai_modified + last_deep_review + apex_last_synthesis all bumped (apex-last-synthesis-drift-artifact prevention).
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-06-04-pharmacological-dissociation-as-evidence](/reviews/deep-review-2026-06-04-pharmacological-dissociation-as-evidence/)
+
+## 2026-06-04T16:46:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [capability-division-problem](/voids/capability-division-problem/)
+- **Word count**: 2817 → 2879 (+62; two References entries added for a citation-completeness fix)
+- **Re-review trigger**: prior review (2026-05-20) certified equilibrium at 1938w and set a reactivation clause; condition (a) "new substantive content" fired — two new sections ("Worked Exhibit: The Rendering Dilemma", "What Would Challenge This View?") added since. Reviewed the new content; old sections remain at the certified equilibrium (no oscillation).
+- **Critical issues addressed**: 1 — **wrong-author citation FIXED**: dream-vividness finding attributed to "Fazekas et al. (2025)" but the paper (*The Phenomenology of Offline Perception*, *Vision*, 9(2), 37) is authored by **Bilzer, M. & Monzel, M. (2025)** (web-verified). Real-paper-wrong-author 3-state → fix (claim is sound, attribution fabricated). Corrected body + References.
+- **Medium issues addressed**: 1 — Bilzer & Monzel and Ffytche (1998) were both cited in body but missing from References; both added (web-verified Ffytche correct: *Nature Neuroscience*, 1(8), 738-742). References renumbered 1–10.
+- **Web-verify**: 2 new citations (Bilzer & Monzel → fix; Ffytche → keep). Prior review already verified Derrien/Fahrenfort/Phillips/Goodale.
+- **Anchoring**: evaluate_anchoring → 0 flags before and after.
+- **Length**: soft_warning (144% of 2000 soft, under 3000 hard) → length-neutral, no condense.
+- **Reasoning-mode**: Worked Exhibit engages production framing as Mode Three (boundary-marking, "coherence not refutation"); honest, no label leakage.
+- **Follow-on queued (P2, Source: deep-review)**: same wrong-author Bilzer/Monzel→Fazekas miscitation propagated to topics/lucid-dreaming-and-dualist-rendering.md and topics/dream-consciousness.md (out of scope here). NOTE: conscious-vs-unconscious-processing.md's Overgaard&Fazekas 2022 is a DIFFERENT legitimate blindsight paper — left untouched.
+- **Output**: [deep-review-2026-06-04-capability-division-problem](/reviews/deep-review-2026-06-04-capability-division-problem/)
+
+## 2026-06-04T16:39:09+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
+- **Task**: topic-concept anchoring audit (Audit Three of [calibration-audit-triple](/project/calibration-audit-triple/)) — topic over-claimed vs anchor [mental-effort](/concepts/mental-effort/); failed `strong_assertions` (3 verbs, density 0.96/kw vs anchor 0.35/kw) + `underdetermination_markers` (anchor 1×, topic 0)
+- **Verbs reframed (3→0)**: line 115 "shows that"→"indicates that" (double-dissociation inference, register-soften); line 127 "shows that"→"marks…as" (verification-circularity report); line 139 "demonstrates that"→"suggests that" (witness-mode capacity report). All strong-assertion markers cleared.
+- **Fold-into-reframe**: at the verification-circularity paragraph (line 127), installed the underdetermination marker ("underdetermined by the evidence") at the GENUINE underdetermination point — the inference from "we have a vivid phenomenology of agency" to "consciousness genuinely exercises agentive causal control." Named Wegner's apparent-mental-causation challenge (helping-hands / I-Spy paradigms) as the live counter where the feeling of authorship dissociates from actual control. The felt contrast is preserved as a real datum whose veridicality re: causal authorship is exactly what is contested — honest, not thesis-weakening.
+- **Second anchor cleared**: softening to clear `mental-effort` re-exposed a latent flag vs anchor [witness-consciousness](/concepts/witness-consciousness/) (high-hedge, zero-strong anchor). Lifted hedge density (added "suggests"/"may" at honest points in the witness-mode passage) and brought strong-assertion to 0 so ALL anchors clear (evaluate_anchoring → `[]`, 0 flags).
+- **Cliché fix**: rephrased "This is not unconsciousness but consciousness choosing not to choose" (forbidden "not X but Y" LLM construct per CLAUDE.md) → "The practitioner's report is of consciousness choosing not to choose rather than of unconsciousness."
+- **evaluate_anchoring**: ALL anchors CLEAR (`[]`); strong_assertion_count 3→0, underdetermination_marker_count 0→1, hedge_density 3.19→3.73/kw
+- **Body word count**: 3221 (frontmatter-stripped; soft_warning tier, under 4000 hard — was already 3138/soft before edits; ~+83w from the load-bearing Wegner fold-in)
+- **Voice/thesis intact**: central claim (the agency-passivity contrast is a real phenomenological datum the Map's selection framework predicts) preserved
+- **Published**: yes
+
+## 2026-06-04T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/)
+- **Task**: topic-concept anchoring audit (Audit Three of [calibration-audit-triple](/project/calibration-audit-triple/)) — topic over-claimed vs anchor [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/); failed `strong_assertions` (7 strong-assertion verbs, anchor 0) + `underdetermination_markers` (anchor 1×, topic 0)
+- **Verbs reframed (7→0)**: 5× "establishes" + 2× "shows that" register-softened to "makes a strong abductive case / makes the case / makes its strongest case / raises the cost of denying / supports / indicates / suggests" — preserves the genuine abductive-strength voice without dishonest hedging
+- **Fold-into-reframe**: opening "establishes that consciousness causally amplifies" → "makes a strong abductive case…" + installed the underdetermination marker ("underdetermined by the evidence") at the GENUINE underdetermination point — the inference from "consciousness was selected" to "consciousness is causally efficacious," where the byproduct/spandrel rejoinder (selected trait = neural substrate, experience rides along) remains live. The article SHOULD be underdetermined there; the evolutionary case raises the cost of epiphenomenalism, it does not refute it.
+- **evaluate_anchoring**: both checks now CLEAR (`[]`); strong_assertion_count 7→0, underdetermination_marker_count 0→1; hedge_density 6.70→6.89
+- **Voice/thesis intact**: central claim (evolutionary case is a strong abductive consideration for mental causation) preserved; this is calibration inheritance, not thesis-weakening
+- **Body word count**: 3134 → 3195 (frontmatter-stripped; +61 from the one opening fold; under 4000 hard ceiling)
+- **Published**: yes
+
+## 2026-06-04T16:21:13+00:00 - deep-review
+- **Status**: Success (converged — license-to-no-op)
+- **File**: [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/)
+- **Word count**: 3167 → 3167 (no body change; 106% of 3000 topic soft, under 4000 hard)
+- **Trigger**: changed-since-review staleness (6th review; last_deep_review 05-19, ai_modified 06-03, ~15d)
+- **Diff-scoping**: new own-content since 5th review = Neoplatonist transmission verdict (Advaita as cleanest-isolation case), Sino-Indian *zuowang*-vipassana flag, three realism-bounding paragraphs (cessation-vs-plenitude + witness-status as divergence-side evidence), stronger heterophenomenology form, deflationist bare-presence-marker rejoinder + Madhyamaka concession; rest is condense/refine tightening
+- **Web-verify (meditation/contemplative-science class, all CORRECT at publisher)**: Laukkonen 2023 (Progress in Brain Research 280:61–87), Varela 1996 (JCS 3(4):330–349), Lutz et al. 2007 (Cambridge Handbook of Consciousness, Zelazo/Moscovitch/Thompson eds.), Katz 1978 (OUP). Source-conclusion check clean — no fMRI/EEG study cited for a finding it doesn't draw. Historical claims verified: Mahayana→China 2nd–4th c. via Silk Road (Lokakṣema c.164–186 CE), Chan/Daoist *wu-wei* synthesis by Tang
+- **Phenomenology-calibration**: tradition-attributions appropriately scoped; Madhyamaka reading attributed to the tradition's own register, not a Western gloss
+- **Calibration/slippage**: NONE — new content runs opposite to slippage (narrows realism to "what traditions agree on", names divergences Pre-Kepler-stage per evidential-status-discipline, scopes Bidirectional Interaction to phenomenological-correlation register)
+- **Reasoning-mode**: deflationist = Mode Three ("framework-boundary disagreement, not in-framework refutation"); Dennett heterophenomenology = Mode Three/Mixed (evidence "does not fully discriminate"); Madhyamaka = Mode Three friendly-rival. Label-leakage scan: clean
+- **Anchoring**: evaluate_anchoring → [] (no flags)
+- **Critical issues addressed**: 0 | **Medium**: 0 | **Enhancements**: 0 (CONVERGED, timestamps only)
+- **Output**: [deep-review-2026-06-04-comparative-phenomenology-of-meditative-traditions](/reviews/deep-review-2026-06-04-comparative-phenomenology-of-meditative-traditions/)
+
+## 2026-06-04T16:25:00+00:00 - deep-review
+- **Status**: Success (converged — license-to-no-op)
+- **File**: [cross-mechanism-convergence](/concepts/cross-mechanism-convergence/)
+- **Word count**: 2223 → 2223 (no body change; ok, 89% of 2500 concept soft)
+- **Trigger**: changed-since-review staleness (last_deep_review 05-19, ai_modified 06-03, ~15d)
+- **Diff-scoping**: post-05-19 change is pure calibration-import/cross-link maintenance, NOT own-content (vs commit 053a0009d): wikilink path repairs (project/ prefixes), +2 apt cross-links ([direction-of-interface-change](/concepts/direction-of-interface-change/), [calibration-audit-triple](/project/calibration-audit-triple/)), and a Hu et al. (2023) citation CORRECTION
+- **Key finding**: the 2026-05-19 review's OWN "canonical-form" bibliography fix was WRONG (Cell Reports / "Hu,Y.,Yu,X.,Yang,L."); sibling refine f88762f9d fixed it to the correct Nature Neuroscience 26:751-764 (Hu,J.-J.,Liu,Y.,Yao,H.) and it propagated in here. Article now more correct than at its last review
+- **Seam-check**: Hu et al. citation now consistent across convergence cluster (cross-mechanism-convergence, active-reboot, anaesthesia-and-the-consciousness-interface, pharmacological-dissociation apex); no un-hedged parallel passage left behind
+- **Web-verify**: both empirical anchors re-verified at publisher of record — Hu et al. 2023 (Nat Neurosci 26:751-764, DOI 10.1038/s41593-023-01290-y, PubMed 36973513) ✓ source-conclusion match; Sarasso et al. 2015 (Curr Biol 25(23):3099-3105) ✓ Class-B match. No fabrication/wrong-attribution/quote-infidelity
+- **Convergence-calibration**: NO possibility→probability slippage — article is itself the anti-slippage discipline (strength-indicator-without-tier-graduation), common-cause-null explicitly handled, convergence framed as raising accommodation-cost not establishing dualism. Tenet-accepting reviewer would flag nothing as overstated
+- **Anchoring**: evaluate_anchoring flagged low hedge-density vs active-reboot — assessed genre FALSE-POSITIVE (both "establishes" verbs land on single-mechanism replication's robustness, a down-weighting contrast, not on a dualism-favouring finding); meta-discipline page legitimately states rules firmly; no reframe (over-hedge risk)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamps only; verified converged)
+- **Output**: [deep-review-2026-06-04-cross-mechanism-convergence](/reviews/deep-review-2026-06-04-cross-mechanism-convergence/)
+
 ## 2026-06-04T16:05:57+00:00 - deep-review
 - **Status**: Success (converged — license-to-no-op)
 - **File**: [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/)

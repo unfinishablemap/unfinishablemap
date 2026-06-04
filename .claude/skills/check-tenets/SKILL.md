@@ -46,6 +46,7 @@ Always read `obsidian/tenets/tenets.md` first to get the latest tenet definition
 For each markdown file in:
 - `obsidian/topics/`
 - `obsidian/concepts/`
+- `obsidian/positions/`
 
 Analyze the content for potential conflicts:
 

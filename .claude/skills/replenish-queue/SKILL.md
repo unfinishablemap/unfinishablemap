@@ -133,6 +133,7 @@ Articles exceeding length thresholds need condensation:
 - topics/: 3000 / 4000 / 6000 words
 - apex/: 4000 / 5000 / 6500 words
 - voids/: 2000 / 3000 / 4000 words
+- positions/: 1500 / 2500 / 4000 words
 
 Maximum 3 condense tasks per replenishment (prioritize worst offenders).
 

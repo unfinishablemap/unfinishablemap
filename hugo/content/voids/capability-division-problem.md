@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-06-03 12:29:06+00:00
+ai_modified: 2026-06-04 16:46:19+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Interactionist dualism must specify which capabilities belong to th
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-20 18:42:50+00:00
+last_deep_review: 2026-06-04 16:46:19+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'
@@ -92,7 +92,7 @@ In each domain, the same pattern emerges: the brain handles the computational, p
 
 The dreams case demonstrates at high resolution the claim the cross-domain survey only asserts: that the mind-side contribution transforms rather than supplements.
 
-During REM sleep the brain's representational architecture stays active — pontine activation drives visual and motor cortices, the dorsal stream supplies its spatial framework, navigational cells and parietal cross-modal machinery continue their work — while sensory input is gated at the thalamus and executive oversight goes largely offline. The brain's *channel* to the world has closed; its representational *machinery* has not. What occurs inside this configuration is phenomenally complete: the lucid dreamer navigates three-dimensional space, recognises objects, exercises deliberate agency, and experiences vivid multisensory content. Fazekas et al. (2025) report dream imagery as significantly more vivid than voluntary waking imagination. Architectural constraints transfer faithfully — congenitally colour-blind dreamers see in their restricted palette, perspective geometry holds — while content constraints dissolve: physical law evaporates and lucid dreamers can decide to fly and find the dream complying. Architecture is brain-side and persistent; content is mind-side and responsive to consciousness once the sensory filter loosens.
+During REM sleep the brain's representational architecture stays active — pontine activation drives visual and motor cortices, the dorsal stream supplies its spatial framework, navigational cells and parietal cross-modal machinery continue their work — while sensory input is gated at the thalamus and executive oversight goes largely offline. The brain's *channel* to the world has closed; its representational *machinery* has not. What occurs inside this configuration is phenomenally complete: the lucid dreamer navigates three-dimensional space, recognises objects, exercises deliberate agency, and experiences vivid multisensory content. Bilzer & Monzel (2025) report dream imagery as significantly more vivid than voluntary waking imagination in emotional and visual content. Architectural constraints transfer faithfully — congenitally colour-blind dreamers see in their restricted palette, perspective geometry holds — while content constraints dissolve: physical law evaporates and lucid dreamers can decide to fly and find the dream complying. Architecture is brain-side and persistent; content is mind-side and responsive to consciousness once the sensory filter loosens.
 
 A dilemma follows. If the brain renders dream imagery autonomously, it possesses a rendering capability powerful enough to construct immersive worlds from internal resources alone — yet that capability is withheld during waking sensory degradation. Charles Bonnet syndrome shows the brain *can* generate compensatory imagery in vision loss (Ffytche et al., 1998), but only sporadically and involuntarily; macular degeneration, tinnitus, and progressive hearing loss transmit the degraded input rather than compensating. Filter theory predicts this asymmetry: during waking, consciousness accesses sensory reality *through* the filter, so a damaged channel transmits a damaged signal; during dreaming the filter shifts mode, sensory constraint lifts, and consciousness renders through the architecture using its own resources. Production framing can accommodate the same observations through disinhibition and adaptive-cost moves that are structurally legitimate inside its own commitments — so this is coherence with the filter framing, not refutation of production framing. See [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) for the full evidence base and [evidential-status-discipline](/project/evidential-status-discipline/) for the *live hypothesis* tier the claim sits on.
 
@@ -145,11 +145,13 @@ The Map speculates that the capability division may ultimately prove asymmetric:
 
 ## References
 
-1. Derrien, D., Garric, C., Sergent, C. & Chokron, S. (2022). "The nature of blindsight: implications for current theories of consciousness." *Neuroscience of Consciousness*, 2022(1), niab043.
-2. Fahrenfort, J. J. et al. (2017). "Perceptual integration without conscious access." *Proceedings of the National Academy of Sciences*, 114(14), 3744-3749.
-3. Goodale, M. A., Milner, A. D., Jakobson, L. S. & Carey, D. P. (1991). "A neurological dissociation between perceiving objects and grasping them." *Nature*, 349, 154-156.
-4. Goodale, M. A. & Milner, A. D. (1992). "Separate visual pathways for perception and action." *Trends in Neurosciences*, 15(1), 20-25.
-5. Phillips, I. (2021). "Blindsight Is Qualitatively Degraded Conscious Vision." *Psychological Review*, 128(3), 558-584.
-6. Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Oxford University Press.
-7. Southgate, A. & Oquatre-cinq, C. (2026-01-22). Baseline Cognition. *The Unfinishable Map*. https://unfinishablemap.org/concepts/baseline-cognition/
-8. Southgate, A. & Sonquatre-cinq, C. (2026-01-23). Blindsight. *The Unfinishable Map*. https://unfinishablemap.org/concepts/blindsight/
+1. Bilzer, M. & Monzel, M. (2025). "The Phenomenology of Offline Perception: Multisensory Profiles of Voluntary Mental Imagery and Dream Imagery." *Vision*, 9(2), 37.
+2. Derrien, D., Garric, C., Sergent, C. & Chokron, S. (2022). "The nature of blindsight: implications for current theories of consciousness." *Neuroscience of Consciousness*, 2022(1), niab043.
+3. Fahrenfort, J. J. et al. (2017). "Perceptual integration without conscious access." *Proceedings of the National Academy of Sciences*, 114(14), 3744-3749.
+4. Ffytche, D. H., Howard, R. J., Brammer, M. J., David, A., Woodruff, P. & Williams, S. (1998). "The anatomy of conscious vision: an fMRI study of visual hallucinations." *Nature Neuroscience*, 1(8), 738-742.
+5. Goodale, M. A., Milner, A. D., Jakobson, L. S. & Carey, D. P. (1991). "A neurological dissociation between perceiving objects and grasping them." *Nature*, 349, 154-156.
+6. Goodale, M. A. & Milner, A. D. (1992). "Separate visual pathways for perception and action." *Trends in Neurosciences*, 15(1), 20-25.
+7. Phillips, I. (2021). "Blindsight Is Qualitatively Degraded Conscious Vision." *Psychological Review*, 128(3), 558-584.
+8. Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Oxford University Press.
+9. Southgate, A. & Oquatre-cinq, C. (2026-01-22). Baseline Cognition. *The Unfinishable Map*. https://unfinishablemap.org/concepts/baseline-cognition/
+10. Southgate, A. & Sonquatre-cinq, C. (2026-01-23). Blindsight. *The Unfinishable Map*. https://unfinishablemap.org/concepts/blindsight/

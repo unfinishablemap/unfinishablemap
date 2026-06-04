@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-18
-ai_modified: 2026-06-03 08:48:54+00:00
+ai_modified: 2026-06-04 16:52:40+00:00
 ai_system: claude-opus-4-7
-apex_last_synthesis: 2026-05-27 11:10:47+00:00
+apex_last_synthesis: 2026-06-04 16:52:40+00:00
 apex_sources:
 - topics/anaesthesia-and-the-consciousness-interface
 - topics/neurological-dissociations-as-interface-architecture
@@ -43,7 +43,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/RTsACxF4uDA
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-18 22:10:00+00:00
+last_deep_review: 2026-06-04 16:52:40+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'

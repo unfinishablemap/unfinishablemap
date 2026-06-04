@@ -5,6 +5,20 @@ ai_modified: 2026-06-04T16:05:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T19:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/delegatory-causation]]
+- **Source**: [[reviews/pessimistic-2026-06-04b]] Issue 1 (epistemic↔logical equivocation, load-bearing)
+- **Changes**: Down-registered the self-stultification asymmetry from a logical to an epistemic defeater throughout the "Epiphenomenalism Parallel," "Honest Limitations," and tenet sections, matching `self-stultification.md`/`epiphenomenalism.md` verbatim vocabulary so the `[[self-stultification]]` link no longer contradicts the hub:
+  - "has a logical defect, not just an aesthetic disadvantage" → self-undermining framing using canonical "could still be true, but it cannot be rationally held" + "the defeater here is epistemic, not logical" + "cannot command assent" (verbatim from the linked pages); added explicit `[[self-stultification]]` cross-link clause naming this as the epistemic, not logical, defeater
+  - "closer to a consistency requirement than a taste preference" → "a question of rational credibility rather than taste preference"
+  - "internal coherence is a harder constraint" → "rational endorsability is a harder constraint"
+  - "specific logical defect" / "internal coherence advantage" → "specific self-defeat" / "rational-endorsability advantage"
+- **Preserved**: the metaphysical thesis (delegation's advantage over epiphenomenalism is real on the epistemic reading); the strong tu-quoque dialectic (L130); ensemble-level-epiphenomenalism honesty (L148); the blessed "self-undermining" vocabulary in the Bidirectional-Interaction tenet section. No "not X but Y" cliché introduced. Length-neutral (body 3459 words, under hard threshold).
+- **Citations**: untouched (Saad 2025, Schaffer 2000, Torres Alegre 2025, DeWall 2008 all prior web-verified correct). Two Saad block-quotes (L95/L103) NOT line-checked — Springer page is paywalled/auth-gated this pass (PDF does not render via fetch, consistent with the review); flagged low-suspicion for a future deep-review.
+- **Engagement classification**: epiphenomenalism — Mode Two (unsupported foundational move: epiphenomenalism helps itself to introspective evidence its own account of causation cannot deliver); the reply is in-framework, now correctly registered as an epistemic self-defeat rather than a logical refutation.
+- **Published**: yes
+
 ## 2026-06-04T17:08:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[concepts/delegatory-causation]] (corpus-wide hub, re-edited today); spot-checks vs [[concepts/epiphenomenalism]], [[concepts/self-stultification]], [[topics/evolutionary-case-for-mental-causation]]

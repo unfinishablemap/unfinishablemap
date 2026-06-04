@@ -56,22 +56,26 @@ summaryLength = 150  # words for auto-summary
     url = "/tenets/"
     weight = 5
   [[menu.main]]
+    name = "Positions"
+    url = "/positions/"
+    weight = 6
+  [[menu.main]]
     name = "Voids"
     url = "/voids/"
-    weight = 6
+    weight = 7
   [[menu.main]]
     name = "Research"
     url = "/research/"
-    weight = 7
+    weight = 8
   [[menu.main]]
     name = "Project"
     url = "/project/"
-    weight = 8
+    weight = 9
   [[menu.main]]
     name = "Workflow"
     url = "/workflow/"
-    weight = 9
+    weight = 10
   [[menu.main]]
     name = "Search"
     url = "/search/"
-    weight = 10
+    weight = 11

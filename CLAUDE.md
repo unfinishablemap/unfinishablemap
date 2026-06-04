@@ -44,6 +44,9 @@ obsidian/           # Primary content source (Obsidian vault)
 ├── apex/           # Synthesis articles (human-readable integrations)
 ├── topics/         # Philosophical topics
 ├── concepts/       # Core concepts
+├── positions/      # Register of claims the Map currently holds (status + confidence)
+├── voids/          # Cognitive dark spaces (unexplored / unexplorable / occluded)
+├── tenets/         # Five foundational commitments
 ├── research/       # AI research notes (public)
 ├── templates/      # Obsidian templates
 ├── project/        # Project documentation
@@ -234,6 +237,7 @@ Maximum article counts per section, configured in `evolution-state.yaml` under `
 | `topics/` | 270 | ~246 |
 | `concepts/` | 270 | ~245 |
 | `voids/` | 100 | ~101 |
+| `positions/` | 80 | seeded 2026-06-04 |
 
 When a section reaches its cap, automation stops creating new articles there and shifts to improving existing content (reviews, condensing, coalescing). Caps are enforced at:
 - `/expand-topic` — refuses to place articles in a full section
@@ -287,7 +291,7 @@ Selection cascade inside `tools/reviews/subjects.select_cycle_subject`:
 1. **Reuse** — if a sibling service has already commissioned for this UTC date, reconstruct the subject from its `pending-reviews.yaml` entry. No queue mutation.
 2. **Queue** — pop the highest-priority topmost open task from `outer-todo.md` (P0 > P1 > P2 > P3, FIFO within tier). Mutation deferred until `mark-consumed` runs after a successful commission.
 3. **Site fallback** — if no review with `subject_type: site` (or legacy `-site-` filename infix) was commissioned in the last 7 days → return a full-site audit subject.
-4. **Recent-aged fallback** — pick the most-recently-modified article from `topics/`, `concepts/`, `apex/`, `voids/` whose `ai_modified` is between (now − 60d) and (now − 7d) and which has not been the focus of an outer review in the last 60 days. The 7-day floor is the SEO indexing buffer (search engines need time to pick up changes); the 60-day windows are tunables in `evolution-state.yaml:outer_review_subject_selection`.
+4. **Recent-aged fallback** — pick the most-recently-modified article from `topics/`, `concepts/`, `apex/`, `voids/`, `positions/` whose `ai_modified` is between (now − 60d) and (now − 7d) and which has not been the focus of an outer review in the last 60 days. The 7-day floor is the SEO indexing buffer (search engines need time to pick up changes); the 60-day windows are tunables in `evolution-state.yaml:outer_review_subject_selection`.
 5. **None** — return `type: "none"`; the commission skill prints `NO_SUBJECT` and exits cleanly.
 
 The subject's metadata (`subject_type`, `subject_title`, `subject_articles`, `subject_source`) flows: commission → `pending-reviews.yaml` entry → collected review file's frontmatter. The synthesis pass and the dedupe query both read `subject_articles` to know which articles a review covered.
