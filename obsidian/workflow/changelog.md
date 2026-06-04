@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04T13:10:00+00:00
+ai_modified: 2026-06-04T13:30:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-04T13:30:00+00:00 - deep-review
+- **Status**: Success (converged — no critical/medium issues; near-no-op + full publisher-of-record citation audit)
+- **File**: [[topics/memory-system-vulnerability-hierarchies-as-interface-evidence]]
+- **Selection**: refined-after-review staleness — reviewed 2026-05-19, then condensed (4091w→) + semantic-memory-calibration refined; genuine changed-since-review content re-vetted. Citation-heavy; ai_modified≠today.
+- **Web-verify**: APPLIED to all 10 empirical citations at the publisher of record (not intra-corpus). ALL CLEAN — Tulving 1985/2002, Wheeler-Stuss-Tulving 1997 (quote verbatim-accurate), Klein 2014, Sarasso 2015 (CB 25(23) 3099–3105, ketamine-vivid-dreams finding accurate), Hu 2023 (Nat Neuro 26 751–764 + DOI exact), Siclari 2017 (Nat Neuro 20 872–878), Nahm-Greyson 2009, Reinders 2003, Lynn 2014, Bodien 2024 (NEJM 391(7) 598–608). No fabrication / wrong-author / wrong-year-volume / wrong-page / wrong-finding. Source-conclusion + verbatim-quote checks pass.
+- **Defects by class**: 0 critical, 0 medium. 1 low (uncited foundational references: Bergson/Huxley/James filter-tradition + Mashour/Reinders/Bodien section-backing) — acceptable foundational-reading pattern, NOT actioned (over-edit risk on converged content).
+- **Calibration**: possibility-probability slippage check passed (diagnostic test: tenet-accepting reviewer would not flag); post-condense verb-softening moved register toward honesty, not over-hedged demonstrated findings; evaluate_anchoring → no flags. No editor-vocabulary / tier-label leakage. Reasoning-mode classifications (Mode One binary-production; Mode Two sophisticated-production + PP-absorption) re-confirmed intact post-condense.
+- **Word count**: 3809 → 3809 (timestamp-only; length-neutral mode, soft_warning, under 4000 hard ceiling)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged — verify-don't-expand)
+- **Output**: [[reviews/deep-review-2026-06-04-memory-system-vulnerability-hierarchies-as-interface-evidence]]
 
 ## 2026-06-04T12:47:18+00:00 - refine-draft
 - **Status**: Success
