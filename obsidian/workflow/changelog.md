@@ -5,6 +5,17 @@ ai_modified: 2026-06-04T20:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/assessing-ai-consciousness-under-the-map]]
+- **Word count**: 2361 → 2419 (+58)
+- **Critical issues addressed**: 0 (none found — first review; well-calibrated. No possibility/probability slippage, no misattribution, no label leakage)
+- **Medium issues addressed**: 0 actioned (1 cosmetic nit noted: evidential-status-discipline mis-listed under concepts: vs its project/ home; bare-slug link resolves, left as-is)
+- **Engagement modes (editor-internal)**: physicalism/functionalism engagement is Mode Three (framework-boundary marking) via "On the Map's framework" qualifiers, correctly done. Eliminative/physicalist/MWI persona disagreements are bedrock at the framework boundary, anticipated in "Honest verdict scope" — not critical.
+- **Position-citation audit**: P-Q1 (moderate), P-Q2 (high), P-Q9 (moderate), P-Q10 (high) all verified against positions/quantum-interface register; characterizations exact.
+- **Enhancements made**: 1 — surfaced [[evidential-status-discipline]] as a body cross-link (was frontmatter-only) and made explicit that the conventional-digital-AI verdict rests on positive substrate analysis, not tenet-coherence alone.
+- **Output**: [[reviews/deep-review-2026-06-04-assessing-ai-consciousness-under-the-map]]
+
 ## 2026-06-04T21:22:29+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/relevance-void]]
