@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04T19:55:22+00:00
+ai_modified: 2026-06-04T20:30:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-04T20:30:00+00:00 - deep-review
+- **Status**: Success (confirmed-converged, no body edits)
+- **File**: [[topics/evolution-under-dualism]]
+- **Word count**: 3273 → 3273 (no change; 109% of 3000 soft, under 4000 hard)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (4th review; converged)
+- **Scope**: Diff-first on commit d0d68f5c2 (refine-draft, 2026-05-28) which enacted the 2026-05-25 stability notes. Re-verify-the-fix: the working-memory "Inoue/Miller recalibration" was a citation **removal** + underdetermination reframe (no surviving cite to re-verify; grep-confirmed zero orphaned in-body refs). Web-verified the one remaining live cite (Godfrey-Smith 2020 Metazoa) — correct. Functionalist-remainder engagement upgraded to honest Mode Two (no boundary-substitution, no label leakage); coherence honesty caveat + fixed-domain↔Bidirectional tension paragraph both calibration-improving. Anchoring flag vs mental-causation anchor assessed as lexicon false-positive (framework-attribution verbs, not over-claims; article already heavily hedged — no edit, would be hedge-into-mush).
+- **Frontmatter**: last_deep_review bumped to 2026-06-04; ai_modified unchanged (no content edit — avoids false staleness re-trigger).
+- **Output**: [[reviews/deep-review-2026-06-04-evolution-under-dualism]]
 
 ## 2026-06-04T19:55:22+00:00 - deep-review
 - **Status**: Success (confirmed-converged, no body edits)
