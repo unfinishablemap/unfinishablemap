@@ -5,6 +5,16 @@ ai_modified: 2026-06-04T09:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T06:31:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/comparing-quantum-consciousness-mechanisms]]
+- **Selection**: Topic-concept anchoring audit 2026-06-04 — article over-claimed relative to anchor concept [[mental-causation-and-downward-causation]]. Two failed checks: strong_assertion_count=1 (anchor=0), underdetermination_marker_count=0 (anchor=1). hedge_density already close (2.508 vs 2.668).
+- **Fix (fold-into-reframe)**: (1) The single flagged strong-assertion verb was "Fisher **demonstrates** biological quantum persistence" in the "What the Comparison Reveals" list — itself an over-claim given the article frames Fisher as "Early stage / no neural Posner molecules directly observed". Reframed to "Fisher **targets** biological quantum persistence" (strong_assertions 1→0). (2) Installed the underdetermination marker at the genuine underdetermination point — the falsifiability gap. "No mechanism currently generates predictions cleanly distinguishing it from classical neuroscience" → "Current evidence **does not adjudicate between these mechanisms**; none generates predictions cleanly distinguishing it from classical neuroscience" (underdetermination_markers 0→1, pattern `does not adjudicate`).
+- **Length before/after**: 3987w → 3987w (NET-ZERO; under 4000 hard ceiling). The underdetermination clause added ~7w; offset by length-neutral trims of filler ("demonstrates"→"targets", "elements from multiple proposals"→"from several", "avoid the timing gap entirely"→"avoid the timing gap", "are now catalogued"→"are catalogued", "feels the way it does"→"feels as it does", "not all of these"→"not all these", "divide sharply into"→"divide into"). No load-bearing argument or calibration content cut.
+- **Calibration** ([[evidential-status-discipline]], [[project/calibration-audit-triple]] Audit Three): one precise reframe at a genuine comparison underdetermination point, not a hedge-pile ([[anchoring-audit-sibling-tasks-stale]] inverse failure avoided). Central comparative claim and preference ordering untouched; voice preserved. No editor-mode labels in body; no "not X, it's Y" cliché.
+- **Anchoring re-run**: `evaluate_anchoring(...)` returns `[]` — both `strong_assertions` and `underdetermination_markers` cleared.
+- **Published**: yes
+
 ## 2026-06-04T09:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/clinical-dissociation-as-systematic-evidence]]
