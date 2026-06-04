@@ -4,8 +4,8 @@ description: "Human+AI exploration of why consciousness cannot witness the affec
 created: 2026-04-19
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-06-04T00:30:00+00:00
-last_deep_review: 2026-04-27T09:44:00+00:00
+ai_modified: 2026-06-04T22:45:00+00:00
+last_deep_review: 2026-06-04T22:45:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -65,7 +65,7 @@ Ordinary experience is closer to the alexithymic end of this spectrum than we ty
 
 The deepest layer is the hardest to see. Even if we could reconstruct a mood's origin and name it correctly, we could not watch the mood shape the cognition that is doing the watching. Mood is part of the medium through which consciousness works — more like the optics of the lens than the scene on the film.
 
-This lines up with what [[self-opacity|self-opacity]] predicts as a general pattern. An observing system that uses a background condition to organise its observations cannot make that condition a clean target of observation without the observation itself being organised by the very thing under examination.
+This lines up with what [[self-opacity]] predicts as a general pattern. An observing system that uses a background condition to organise its observations cannot make that condition a clean target of observation without the observation itself being organised by the very thing under examination.
 
 ## Evidence from Mood Congruence
 
@@ -123,7 +123,7 @@ Three implications follow, hedged as the Map hedges:
 
 1. **Self-knowledge has a floor.** No introspective regimen can fully close the Mood Void, because mood is among the conditions of the disclosing.
 2. **The unconscious is affective as much as cognitive.** Much of what shapes thought is ambient coloration, not suppressed content.
-3. **The interface may be affective.** If mind influences physical cognition somewhere, the Mood Void is a natural candidate location — and the map's opacity there is what the tenet predicts, not what it would need to explain away.
+3. **The interface may be affective.** If mind influences physical cognition somewhere, the Mood Void is a natural candidate location — and the Map's opacity there is what the tenet predicts, not what it would need to explain away.
 
 ## Further Reading
 
