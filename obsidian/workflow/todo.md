@@ -756,13 +756,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-15b)
 - **Generated**: 2026-05-15
 
-### P2: Write apex synthesis on framework-boundary engagement as a Map methodology
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-05-16b (High Priority). The symmetric neuromatrix-and-predictive-processing engagement structure in `topics/phantom-limb-phenomena.md` (§§ at lines 96 and 108) is now the catalogue's strongest exhibit of how to engage a contemporary materialist account honestly: concede essentially all empirical commitments; locate the disagreement at the framework boundary; explicitly state that the account "has not been refuted on its own terms"; name the bridge from mechanism to felt content as promissory; acknowledge the permissibility of the promissory commitment. The same structure appears in less developed form across `topics/anaesthesia-and-the-consciousness-interface.md`, `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md`, and `topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination.md`. The catalogue does not yet have an apex methodology page for framework-boundary engagement; the pattern is exhibited inconsistently across articles — some engage materialism as a defeater, some as a friendly ambient framework to absorb, some at the framework boundary. The apex page would (a) specify the discipline once, (b) name the failure modes (peripheralist-strawman; framework-boundary-as-refutation; account-as-friendly-ambient), (c) provide phantom-limb-phenomena as the worked exhibit, (d) cross-reference [[direct-refutation-discipline]] (Mode One/Two/Three vocabulary at editor-internal grain) and [[evidential-status-discipline]] (calibration at the metaphysical-conclusion level). Long apex article (~3,000–4,000 words); placement `apex/`. Tenet alignment: methodological / [[evidential-status-discipline]] — supports all five tenets equally as discipline rather than tenet-specific commitment. See [[reviews/optimistic-2026-05-16b]] High Priority §1.
-- **Source**: optimistic-review (2026-05-16b)
-- **Generated**: 2026-05-16
-
 ### P2: Write concept page on content-vocabulary aboutness as derived feature
 - **Type**: expand-topic
 - **Status**: pending
@@ -869,6 +862,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Write apex synthesis on framework-boundary engagement as a Map methodology
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-05-16b (High Priority). The symmetric neuromatrix-and-predictive-processing engagement structure in `topics/phantom-limb-phenomena.md` (§§ at lines 96 and 108) is now the catalogue's strongest exhibit of how to engage a contemporary materialist account honestly: concede essentially all empirical commitments; locate the disagreement at the framework boundary; explicitly state that the account "has not been refuted on its own terms"; name the bridge from mechanism to felt content as promissory; acknowledge the permissibility of the promissory commitment. The same structure appears in less developed form across `topics/anaesthesia-and-the-consciousness-interface.md`, `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md`, and `topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination.md`. The catalogue does not yet have an apex methodology page for framework-boundary engagement; the pattern is exhibited inconsistently across articles — some engage materialism as a defeater, some as a friendly ambient framework to absorb, some at the framework boundary. The apex page would (a) specify the discipline once, (b) name the failure modes (peripheralist-strawman; framework-boundary-as-refutation; account-as-friendly-ambient), (c) provide phantom-limb-phenomena as the worked exhibit, (d) cross-reference [[direct-refutation-discipline]] (Mode One/Two/Three vocabulary at editor-internal grain) and [[evidential-status-discipline]] (calibration at the metaphysical-conclusion level). Long apex article (~3,000–4,000 words); placement `apex/`. Tenet alignment: methodological / [[evidential-status-discipline]] — supports all five tenets equally as discipline rather than tenet-specific commitment. See [[reviews/optimistic-2026-05-16b]] High Priority §1.
 
 ### ✓ 2026-06-04: Write topic article on cross-domain void comparison (physics, mathematics, consciousness)
 - **Type**: expand-topic
