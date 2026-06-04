@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix wrong-author misattribution in voids/mood-void.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Source**: pessimistic-review
-- **Generated**: 2026-06-04
-- **Notes**: Pessimistic review (pessimistic-2026-06-04-mood-void.md) web-verified a citation defect. The paper "The Intentional Structure of Moods" (*Philosophers' Imprint* 19:49, 2019) — quoted verbatim at line 40 ("happy glows or somber shadows...") and listed as reference 4 — is by **Uriah Kriegel**, NOT Jonathan Mitchell. The PDF URL in ref 4 resolves to the Kriegel paper; the quote is correctly transcribed. Jonathan Mitchell's 2019 mood paper is a DIFFERENT work ("The Intentionality and Intelligibility of Moods," *Eur. J. Philosophy* 27(1):118-135). 3-STATE: real-paper / WRONG-author → FIX, not delete. FIX (length-neutral): line 40 "Jonathan Mitchell (2019)" → "Uriah Kriegel (2019)"; ref 4 "Mitchell, J. (2019)." → "Kriegel, U. (2019)." Leave title/venue/quote/URL unchanged (all correct for Kriegel). Article is at soft_warning (2437/3000) — do NOT expand; this is a pure swap.
-
 ### P3: Reciprocity link concepts/pain-asymbolia.md → topics/phantom-limb-phenomena.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -953,6 +946,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Fix wrong-author misattribution in voids/mood-void.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (pessimistic-2026-06-04-mood-void.md) web-verified a citation defect. The paper "The Intentional Structure of Moods" (*Philosophers' Imprint* 19:49, 2019) — quoted verbatim at line 40 ("happy glows or somber shadows...") and listed as reference 4 — is by **Uriah Kriegel**, NOT Jonathan Mitchell. The PDF URL in ref 4 resolves to the Kriegel paper; the quote is correctly transcribed. Jonathan Mitchell's 2019 mood paper is a DIFFERENT work ("The Intentionality and Intelligibility of Moods," *Eur. J. Philosophy* 27(1):118-135). 3-STATE: real-paper / WRONG-author → FIX, not delete. FIX (length-neutral): line 40 "Jonathan Mitchell (2019)" → "Uriah Kriegel (2019)"; ref 4 "Mitchell, J. (2019)." → "Kriegel, U. (2019)." Leave title/venue/quote/URL unchanged (all correct for Kriegel). Article is at soft_warning (2437/3000) — do NOT expand; this is a pure swap.
 
 ### ✓ 2026-06-04: Address argumentative gaps in ai-consciousness.md
 - **Type**: refine-draft

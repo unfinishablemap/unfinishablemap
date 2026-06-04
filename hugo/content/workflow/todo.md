@@ -38,6 +38,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Fix wrong-author misattribution in voids/mood-void.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Source**: pessimistic-review
+- **Generated**: 2026-06-04
+- **Notes**: Pessimistic review (pessimistic-2026-06-04-mood-void.md) web-verified a citation defect. The paper "The Intentional Structure of Moods" (*Philosophers' Imprint* 19:49, 2019) — quoted verbatim at line 40 ("happy glows or somber shadows...") and listed as reference 4 — is by **Uriah Kriegel**, NOT Jonathan Mitchell. The PDF URL in ref 4 resolves to the Kriegel paper; the quote is correctly transcribed. Jonathan Mitchell's 2019 mood paper is a DIFFERENT work ("The Intentionality and Intelligibility of Moods," *Eur. J. Philosophy* 27(1):118-135). 3-STATE: real-paper / WRONG-author → FIX, not delete. FIX (length-neutral): line 40 "Jonathan Mitchell (2019)" → "Uriah Kriegel (2019)"; ref 4 "Mitchell, J. (2019)." → "Kriegel, U. (2019)." Leave title/venue/quote/URL unchanged (all correct for Kriegel). Article is at soft_warning (2437/3000) — do NOT expand; this is a pure swap.
+
 ### P3: Reciprocity link concepts/pain-asymbolia.md → topics/phantom-limb-phenomena.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -541,20 +548,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-21
 
-### P2: Address inflated empirical claims and illusionism response in quantum mechanism articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found (1) consciousness-selecting-neural-patterns.md conflates any quantum effect in microtubules with the sustained coherent superpositions the theory requires — mirrors the photosynthesis coherence retraction the site itself documents; (2) all three quantum mechanism articles (filter-theory, consciousness-selecting-neural-patterns, downward-causation) use the same regress argument against illusionism without engaging with Frankish's functional-seeming response; (3) selection within Born rule probabilities creates unfalsifiability that needs explicit treatment. See pessimistic-2026-03-20-c.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-20
-
-### P2: Address argumentative gaps in ai-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the understanding/pattern-completion distinction (core to the article's skepticism) is never independently grounded — it relies on the intuitions it's defending. Also: haecceity argument asserted without support, "no reentrant dynamics" claim needs qualification re: attention mechanisms, and continual learning section is disproportionately long vs. compressed "Other Challenges." See pessimistic-2026-03-19-evening.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-19
-
 ### ✓ 2026-03-20: Update references to coalesced articles (reality-feeling-void, the-givenness-void → phenomenal-presence-void)
 - **Type**: cross-review
 - **Status**: completed (tag-tidied 2026-05-19 by /replenish-queue — was previously completed 2026-03-20 but still in Active section)
@@ -961,6 +954,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Address argumentative gaps in ai-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the understanding/pattern-completion distinction (core to the article's skepticism) is never independently grounded — it relies on the intuitions it's defending. Also: haecceity argument asserted without support, "no reentrant dynamics" claim needs qualification re: attention mechanisms, and continual learning section is disproportionately long vs. compressed "Other Challenges." See pessimistic-2026-03-19-evening.md
+
+### ✓ 2026-06-04: Address inflated empirical claims and illusionism response in quantum mechanism articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found (1) consciousness-selecting-neural-patterns.md conflates any quantum effect in microtubules with the sustained coherent superpositions the theory requires — mirrors the photosynthesis coherence retraction the site itself documents; (2) all three quantum mechanism articles (filter-theory, consciousness-selecting-neural-patterns, downward-causation) use the same regress argument against illusionism without engaging with Frankish's functional-seeming response; (3) selection within Born rule probabilities creates unfalsifiability that needs explicit treatment. See pessimistic-2026-03-20-c.md
 
 ### ✓ 2026-06-04: Adopt default-mode-network calibration in perceptual-failure-and-the-interface
 - **Type**: refine-draft

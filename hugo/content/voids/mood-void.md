@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-19
-ai_modified: 2026-04-27 09:44:00+00:00
+ai_modified: 2026-06-04 00:30:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -39,7 +39,7 @@ The Mood Void has a three-layer structure (explained below): **origin opacity** 
 
 ## Mood as Background, Not Object
 
-Philosophers often separate moods from emotions by intentional structure. Robert Solomon's standard formulation, rehearsed across contemporary emotion theory, holds that emotions are typically about particular objects whereas moods are "about nothing in particular, or sometimes they are about our world as a whole." Jonathan Mitchell (2019), surveying this literature, notes that euphoria, melancholy, and depression "cast happy glows or somber shadows on every object and incident of our experience." Whether moods are genuinely non-intentional or merely diffusely world-directed remains disputed; what is less disputed is that moods do not pick out the way emotions do.
+Philosophers often separate moods from emotions by intentional structure. Robert Solomon's standard formulation, rehearsed across contemporary emotion theory, holds that emotions are typically about particular objects whereas moods are "about nothing in particular, or sometimes they are about our world as a whole." Uriah Kriegel (2019), surveying this literature, notes that euphoria, melancholy, and depression "cast happy glows or somber shadows on every object and incident of our experience." Whether moods are genuinely non-intentional or merely diffusely world-directed remains disputed; what is less disputed is that moods do not pick out the way emotions do.
 
 Martin Heidegger's analysis in *Being and Time*, as reconstructed by Matthew Ratcliffe, treats mood (*Stimmung*) as more than a passing state. Being attuned in some way — *Befindlichkeit*, finding-oneself — is, on Ratcliffe's reading, an existentiale of Dasein: never absent, constitutive of having a world at all. Ratcliffe cites Heidegger: "The mood has already disclosed, in every case, Being-in-the-world as a whole, and makes it possible first of all to direct oneself towards something." Mood, on this reading, precedes and conditions intentional directedness rather than sitting alongside it.
 
@@ -145,7 +145,7 @@ Three implications follow, hedged as the Map hedges:
 1. Heidegger, M. (1927/1962). *Being and Time*, trans. Macquarrie & Robinson. Harper & Row.
 2. Ratcliffe, M. "Why Mood Matters." [PDF](https://philosophyofdepression.wordpress.com/wp-content/uploads/2012/02/heidegger-on-mood23rdsep2010.pdf).
 3. Ratcliffe, M. (2008). *Feelings of Being: Phenomenology, Psychiatry and the Sense of Reality*. Oxford University Press.
-4. Mitchell, J. (2019). "The Intentional Structure of Moods." *Philosophers' Imprint*. [PDF](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/intentional-structure-of-moods.pdf?c=phimp;idno=3521354.0019.049).
+4. Kriegel, U. (2019). "The Intentional Structure of Moods." *Philosophers' Imprint*. [PDF](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/intentional-structure-of-moods.pdf?c=phimp;idno=3521354.0019.049).
 5. Russell, J. A. (2003). "Core affect and the psychological construction of emotion." *Psychological Review*. [PDF](http://ivizlab.sfu.ca/arya/Papers/Others/Emotions/Core_Affect.pdf).
 6. Nisbett, R. E., & Wilson, T. D. (1977). "Telling more than we can know: Verbal reports on mental processes." *Psychological Review*.
 7. Wilson, T. D. (2002). *Strangers to Ourselves: Discovering the Adaptive Unconscious*. Belknap.
