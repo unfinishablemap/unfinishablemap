@@ -4,7 +4,7 @@ description: "Six converging evidence lines reshape quantum biology's bearing on
 created: 2026-01-27
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-06-03T09:34:44+00:00
+ai_modified: 2026-06-04T08:54:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -88,7 +88,7 @@ Pharmacological evidence is inherently indirect. Anaesthetics have multiple targ
 
 **Brain entanglement signatures.** Kerskens and López Pérez (2022) detected MRI signals in conscious subjects consistent with entangled proton spins, which disappeared during sleep and correlated with working memory. Warren (2023) challenged the interpretation; independent replication has not occurred.
 
-**Lithium isotope effects.** Fisher's Posner molecule hypothesis predicts that lithium-6 and lithium-7 should differ in their neural effects. In 2025, multi-electrode array experiments confirmed "large and opposite effects on synaptic transmission" from the two isotopes (Fisher et al., 2025)—consistent with nuclear spin influencing neural activity.
+**Lithium isotope effects.** Fisher's Posner molecule hypothesis predicts that lithium-6 and lithium-7 should differ in their neural effects. In 2025, multi-electrode array experiments confirmed "large and opposite effects on synaptic transmission" from the two isotopes (Esmaeilpour et al., 2025)—consistent with nuclear spin influencing neural activity.
 
 **Twin entanglement EEG study.** A 2025 study of 106 monozygotic twin pairs used 3D EEG alongside biomarkers to probe quantum effects on cognition (Escolà-Gascón, 2025). Qubit entanglement in stimulus configurations explained 13.5% of variance in accuracy. The methodology is controversial—the leap from qubit stimulus configurations to biological quantum entanglement needs significant scrutiny—but it adds another independent data point.
 
@@ -102,7 +102,7 @@ The empirical acceleration has been matched by theoretical convergence. Multiple
 
 **Spintronic coherence (QBIT).** Beshkar's 2025 QBIT theory proposes that intraneuronal structures function as nanoscale spintronic oscillators with memristive properties, localising relevant coherence to the axon initial segment. Spintronic coherence—based on electron spin rather than charge—is inherently more stable at physiological temperatures. If spintronic rather than electronic coherence is what matters, Tegmark's calculation may not apply to the relevant mechanism.
 
-**Microtubules as QED cavities.** Mavromatos et al. (2025) proposed that microtubules may function as quantum electrodynamic cavities sustaining high-Q quantum states. If confirmed, the cavity structure would shield quantum states from the thermal noise that drives decoherence. The proposal is framed within a quantum-classical complexity approach aimed at making Orch OR more predictive and testable.
+**Microtubules as QED cavities.** Mavromatos et al. (2025) proposed that microtubule interiors may function as high-Q quantum electrodynamic cavities sustaining decoherence-resistant entangled states, with estimated decoherence times of order 10⁻⁶ seconds arising from strong dipole interactions between tubulin and ordered interior water. If confirmed, the cavity structure would shield quantum states from the thermal noise that drives decoherence. The proposal remains theoretical.
 
 **Zero-point field resonance (TRAZE).** Keppler's 2025 theory proposes that cortical microcolumns couple to the electromagnetic zero-point field. From the Map's perspective this risks reducing consciousness to an exotic physical process incompatible with the [[tenets#^dualism|Dualism]] tenet, and it does not address the [[hard-problem-of-consciousness|hard problem]].
 
@@ -224,14 +224,14 @@ Two structural responses follow. *First*, the Map and Duch *converge* against Pe
 3. Beshkar, M. (2025). Consciousness and spintronic coherence in microtubules. *Communicative & Integrative Biology*.
 4. Craddock, T. J. A., Kurian, P., Preto, J., Sahu, K., Hameroff, S. R., Klobukowski, M., & Tuszynski, J. A. (2017). Anesthetic alterations of collective terahertz oscillations in tubulin correlate with clinical potency: Implications for anesthetic action and post-operative cognitive dysfunction. *Scientific Reports*, 7, 9877. https://doi.org/10.1038/s41598-017-09992-7
 5. Fisher, M. P. A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
-6. Fisher, M. P. A., et al. (2025). Giant and opposite lithium isotope effects on rat hippocampus synaptic activity revealed by multi-electrode array electrophysiology. *bioRxiv preprint*.
+6. Esmaeilpour, K., Bukhteeva, I., Kendall, B., Gingras, M. J. P., Leonenko, Z., & Mielke, J. G. (2025). Giant and opposite lithium isotope effects on rat hippocampus synaptic activity revealed by multi-electrode array electrophysiology. *bioRxiv preprint*. https://doi.org/10.1101/2025.08.23.671929
 7. Fleming, G. R., et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446, 782-786.
 8. Hagan, S., Hameroff, S., & Tuszynski, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 9. Keppler, J. (2025). Macroscopic quantum effects in the brain: new insights into the fundamental principle underlying conscious processes. *Frontiers in Human Neuroscience*, 2025, 1676585.
 10. Kerskens, C. M. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 11. Escolà-Gascón, Á. (2025). Evidence of quantum-entangled higher states of consciousness. *Computational and Structural Biotechnology Journal*, 30.
 12. Khan, S., et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
-13. Mavromatos, N. E., et al. (2025). The quantum-classical complexity of consciousness and orchestrated objective reduction. *Frontiers in Human Neuroscience*, 2025, 1630906.
+13. Mavromatos, N. E., Mershin, A., & Nanopoulos, D. V. (2025). On the potential of microtubules for scalable quantum computation. *The European Physical Journal Plus*, 140, 1116.
 14. Sahu, S., et al. (2013). Multi-level memory-switching properties of a single brain microtubule. *Applied Physics Letters*, 102(12), 123701.
 15. Schlosshauer, M. (2025). Quantum decoherence. *Physics Reports*, 1063, 1-64.
 16. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.

@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04T08:15:28+00:00
+ai_modified: 2026-06-04T08:54:18+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-04T08:54:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/quantum-biology-and-neural-mechanisms]]
+- **Word count**: 2827 → 2842 (+15, citation author-lists/DOI only; body prose unchanged; concepts soft 2500/hard 3500, soft_warning)
+- **Trigger**: staleness (changed-since-review since 2026-05-11 baseline). Quantum-biology defect zone + active-research → citation verification prioritised; every external cite web-verified at publisher of record.
+- **Critical issues addressed**: 2 citation misattributions (both propagated to sibling [[topics/quantum-biology-and-neural-consciousness]], fixed in both). (1) **Mavromatos 2025** pointed at wrong paper — "quantum-classical complexity..." *Frontiers in Human Neuroscience* 1630906 is by Sergi/Messina et al. (no Mavromatos, no QED cavities). Corrected to actual source: **Mavromatos, Mershin & Nanopoulos (2025), "On the Potential of Microtubules for Scalable Quantum Computation," *Eur. Phys. J. Plus* 140, 1116** (arXiv 2505.20364) — which IS the high-Q QED-cavity / 10⁻⁶ s paper. (2) **Lithium-isotope 2025 paper** attributed to "Fisher, M.P.A. et al." — actual authors **Esmaeilpour, Bukhteeva, Kendall, Gingras, Leonenko & Mielke** (U. Waterloo); Fisher NOT an author (famous-name substitution off his 2015 prediction). Corrected; concepts-file inline "consistent with Fisher's predictions" correct and kept.
+- **Citations web-verified (all CLEAN except the 2 above)**: Denton 2024 NatComm 15:10823 ✓ · Luo 2025 JACS 10.1021/jacs.5c15726 ✓ · Craddock 2017 SciRep 7:9877 (613±8 THz) ✓ · Babcock 2024 JPCB ✓ · Khan 2024 eNeuro 11(8) d=1.9 ✓ · Kalra 2023 Anesthesiology ✓ · Kerskens 2022 JPhysComm 6:105001 (title plural "functions" verified) ✓ · Warren 2023 ✓ · Escolà-Gascón 2025 CSBJ vol 30 pp21-40 ✓ · Fisher 2015 AnnPhys ✓ · Tegmark 2000 / Hagan 2002 (prior).
+- **Medium issues addressed**: 0. Anchoring strong-assertion flag (6 verbs, 0 underdetermination markers vs softer anchors) assessed no-action: the "strong assertions" report *established* effects (demonstrated/navigate/tunnel), appropriately confident; consciousness claims densely hedged (18 hedges, "primarily defensive").
+- **Quotes/dates/labels**: "large and opposite..." matches source; Tallis quote verified; no impossible dates; no label leakage; no "This is not X" cliché.
+- **Evidential-status**: no slippage — quantum-biology kept at "removes-an-objection, not establishes" tier; Craddock 613 THz flagged as computational prediction. Reasoning modes: Tegmark=One, illusionists=Mixed(Two+Three), McGinn=Three; no boundary-substitution.
+- **Output**: [[reviews/deep-review-2026-06-04-quantum-biology-and-neural-mechanisms]]
 
 ## 2026-06-04T08:46:20+00:00 - deep-review
 - **Status**: Success
