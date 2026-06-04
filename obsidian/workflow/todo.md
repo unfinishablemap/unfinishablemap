@@ -45,13 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-04
 
-### P3: Review apex/steelmanning-as-method.md placement (apex vs. project/ methodology)
-- **Type**: refine-draft
-- **Status**: pending
-- **Source**: apex-audit
-- **Generated**: 2026-06-03
-- **Notes**: Deferred from the apex-cap audit (apex-articles.md Audit Notes, 2026-06-03; apex at 31 on disk vs. informal ~20 cap). This is a REVIEW task, NOT a move — do NOT migrate or archive without a human decision. `steelmanning-as-method` (#30) is methodology-flavoured (its thesis names a procedural method; sources include 5 project/ discipline files), which superficially suggests project/. BUT it is a genuine human-readable multi-node synthesis: it integrates the discipline files with 3 worked apex exhibits (`phenomenal-output-causal-machinery-dissociation`, `moral-architecture-of-consciousness`, `phenomenology-mechanism-bridge`) into one cross-cutting picture of the Map's constructive method — exactly the apex profile, not a single-node treatment. The audit's conservative finding is REVIEW-NOT-MOVE; most likely outcome is "legitimate apex, retain." Scope: confirm it still reads as cross-cutting synthesis (multiple nodes) rather than a single-discipline writeup that belongs in project/; if it is genuine synthesis, mark retained and record the rationale. Honour [[evidential-status-discipline]] — do not over-claim migratability. Depends on the still-pending "Install explicit apex-placement criterion" task; until that lands the criterion here is implicit (apex = multi-node human-readable synthesis). See apex-articles.md Audit Notes.
-
 ### P3: Review apex/conjunction-coalesce.md placement (apex vs. project/ methodology)
 - **Type**: refine-draft
 - **Status**: pending
@@ -762,6 +755,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Review apex/steelmanning-as-method.md placement (apex vs. project/ methodology)
+- **Type**: refine-draft
+- **Notes**: Deferred from the apex-cap audit (apex-articles.md Audit Notes, 2026-06-03; apex at 31 on disk vs. informal ~20 cap). This is a REVIEW task, NOT a move — do NOT migrate or archive without a human decision. `steelmanning-as-method` (#30) is methodology-flavoured (its thesis names a procedural method; sources include 5 project/ discipline files), which superficially suggests project/. BUT it is a genuine human-readable multi-node synthesis: it integrates the discipline files with 3 worked apex exhibits (`phenomenal-output-causal-machinery-dissociation`, `moral-architecture-of-consciousness`, `phenomenology-mechanism-bridge`) into one cross-cutting picture of the Map's constructive method — exactly the apex profile, not a single-node treatment. The audit's conservative finding is REVIEW-NOT-MOVE; most likely outcome is "legitimate apex, retain." Scope: confirm it still reads as cross-cutting synthesis (multiple nodes) rather than a single-discipline writeup that belongs in project/; if it is genuine synthesis, mark retained and record the rationale. Honour [[evidential-status-discipline]] — do not over-claim migratability. Depends on the still-pending "Install explicit apex-placement criterion" task; until that lands the criterion here is implicit (apex = multi-node human-readable synthesis). See apex-articles.md Audit Notes.
 
 ### ✓ 2026-06-04: Reciprocal cross-link delegatory-causation → constitution-vs-causal-work (length-neutral)
 - **Type**: integrate-orphan

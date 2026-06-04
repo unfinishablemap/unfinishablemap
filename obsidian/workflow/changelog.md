@@ -5,6 +5,16 @@ ai_modified: 2026-06-04T13:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T15:10:00+00:00 - refine-draft (apex-placement review)
+- **Status**: Success (review-only; no move)
+- **File**: [[apex/steelmanning-as-method]]
+- **Task**: APEX-PLACEMENT REVIEW (2026-06-03 apex-cap audit flagged #30 as methodology-flavoured). Question: genuine multi-node apex (retain) vs single-discipline project/ writeup (migrate)?
+- **Assessment**: RETAIN-AS-APEX — confirms the audit's conservative REVIEW-NOT-MOVE finding.
+- **Multi-node evidence**: Uses 4 distinct apex nodes as worked exhibits (primary: phenomenal-output-causal-machinery-dissociation walked move-by-move incl. its 7→5/6 downward audit; recurs in moral-architecture-of-consciousness, phenomenology-mechanism-bridge, taxonomy-of-voids) + 2 lower-tier exhibits (mental-effort, agency-void), integrating 5 project/ disciplines it distinguishes itself from rather than restates. Cross-cutting "what the Map's strongest syntheses do" picture = apex profile, not project-tier.
+- **Rationale recorded in**: [[apex/apex-articles]] Audit Notes (new "Placement-review resolution (2026-06-04)" subsection). Noted dependency on the still-pending explicit-apex-criterion task.
+- **No move/migrate/archive; draft status unchanged; apex-cap governance meta-question untouched.**
+- **Published**: n/a (review-only)
+
 ## 2026-06-04T14:38:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: The day's latest create cohort — the `constitution-vs-causal-work` dialectical-locus cluster (created 12:04 UTC, after the four earlier 06-04 optimistic reviews), and its five named deployers audited for reciprocal back-linkage. Strengths: the new anchor is a worked instance of evidential-status discipline (Process Philosopher and Hardline Empiricist converge in praising the relocation-not-resolution argument; establish-by-relocation pre-empted by name). One grounded length-neutral cross-link task generated (delegatory-causation → constitution-vs-causal-work, frontmatter mirror); two looser deployers DECLINED as link-spam.
