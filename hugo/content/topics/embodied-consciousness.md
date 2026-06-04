@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-05-27 00:00:00+00:00
+ai_modified: 2026-06-04 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -47,6 +47,7 @@ related_articles:
 - '[[sensorimotor-contingencies-and-the-interface]]'
 - '[[social-construction-of-self-vs-phenomenal-self]]'
 - '[[clinical-phenomenology-and-altered-experience]]'
+- '[[feminist-phenomenology-and-embodied-consciousness]]'
 - '[[neurological-dissociations-as-interface-architecture]]'
 - '[[consciousness-interface-development]]'
 - '[[bandwidth-of-consciousness]]'
@@ -166,6 +167,8 @@ Embodied phenomenology extends beyond solitary experience. Merleau-Ponty argued 
 This pre-inferential bodily empathy complicates both materialism and Cartesian dualism. Against the Cartesian picture, we do not first observe a body and then infer a mind behind it. Against materialism, the *felt resonance*—the way another's pain can make your own body tense—involves phenomenal qualities that exceed the neural mirroring that mirror neurons provide. Mirror neurons explain *how* resonance occurs mechanically. They do not explain *why* observing another's pain produces a felt echo rather than merely triggering motor preparation.
 
 The Map reads intercorporeality as suggestive of consciousness interfacing with bodies through a common structure. Because human bodies share a common form, the interface channels through which one consciousness inhabits its body are structurally similar to those of another. The resonance is not mystical communion; it operates through observable bodily expression. But its phenomenal dimension exceeds what the physical mechanism of mirroring provides.
+
+The shared bodily form is also marked by social situation. [Feminist phenomenology](/concepts/feminist-phenomenology-and-embodied-consciousness/) (Beauvoir, Young, Ahmed) details how comportment, motility, and orientation sediment a body's history into its lived experience—an enrichment of the interface picture that the Map accepts at compatibility grade, while noting that this largely anti-Cartesian tradition does not itself support dualism.
 
 ## Why the Body and Not Rocks
 

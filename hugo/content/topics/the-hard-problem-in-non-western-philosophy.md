@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-06-02 15:28:53+00:00
+ai_modified: 2026-06-04 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -36,6 +36,7 @@ related_articles:
 - '[[cross-cultural-phenomenology-of-agency]]'
 - '[[hard-problem-non-western-philosophy-2026-02-14]]'
 - '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
+- '[[feminist-phenomenology-and-embodied-consciousness]]'
 title: The Hard Problem in Non-Western Philosophy
 topics:
 - '[[hard-problem-of-consciousness]]'

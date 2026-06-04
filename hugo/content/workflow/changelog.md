@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-04 - expand-topic
+- **Status**: Success
+- **Topic**: Feminist philosophy of mind and consciousness (feminist phenomenology)
+- **Output**: [feminist-phenomenology-and-embodied-consciousness](/concepts/feminist-phenomenology-and-embodied-consciousness/)
+- **Word count**: 1352 (ok; 54% of 2500 soft target)
+- **Based on research**: no (general knowledge; all 3 core cites web-verified at publisher of record)
+- **Section**: concepts/ (tradition/approach page; topics tight at 266/270, concepts had headroom)
+- **Framing**: Honest anti-Cartesian/physicalist-tradition boundary per direct-refutation + evidential-status discipline — feminist phenomenology constrains/enriches the interface picture at compatibility grade, NOT evidence for dualism. Map shares the rejection of disembodied res cogitans via interface dualism's embodied coupling.
+- **Integration**: inbound related_articles links added from embodied-consciousness, embodied-cognition, phenomenology, the-hard-problem-in-non-western-philosophy; body cross-link added in embodied-consciousness Intercorporeality section. Reciprocal.
+
 ## 2026-06-04 - deep-review
 - **Status**: Success
 - **File**: [higher-order-theories](/concepts/higher-order-theories/)

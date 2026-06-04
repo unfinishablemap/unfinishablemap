@@ -35,13 +35,14 @@ related_articles:
   - "[[tenets]]"
   - "[[phenomenology-first-person-methods-2026-01-14]]"
   - "[[phenomenal-authority-and-first-person-evidence]]"
+  - "[[feminist-phenomenology-and-embodied-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-06-03T19:38:00+00:00
-ai_modified: 2026-05-27T21:15:00+00:00
+ai_modified: 2026-06-04T00:00:00+00:00
 ---
 
 Phenomenology is the philosophical tradition most committed to first-person investigation of consciousness. Founded by Edmund Husserl and developed by Heidegger, Merleau-Ponty, and Sartre, it provides systematic methods for exploring the structures of experience from within. Its central methodological commitment: consciousness has an intricate architecture accessible through first-person investigation—an architecture that third-person scientific description has not captured and may be structurally unable to capture.

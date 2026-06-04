@@ -4,7 +4,7 @@ description: "Cognition depends on the body and extends into the environment. Th
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-06-02T00:00:00+00:00
+ai_modified: 2026-06-04T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,6 +38,7 @@ related_articles:
   - "[[tacit-integration-void]]"
   - "[[sensorimotor-contingencies-and-the-interface]]"
   - "[[interoceptive-void]]"
+  - "[[feminist-phenomenology-and-embodied-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101

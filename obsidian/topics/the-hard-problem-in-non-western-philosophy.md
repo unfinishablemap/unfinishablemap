@@ -4,7 +4,7 @@ description: "Indian, Islamic, African, and Japanese traditions independently re
 created: 2026-02-14
 modified: 2026-02-14
 human_modified:
-ai_modified: 2026-06-02T15:28:53+00:00
+ai_modified: 2026-06-04T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,6 +32,7 @@ related_articles:
   - "[[cross-cultural-phenomenology-of-agency]]"
   - "[[hard-problem-non-western-philosophy-2026-02-14]]"
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
+  - "[[feminist-phenomenology-and-embodied-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
