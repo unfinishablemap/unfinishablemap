@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-05-27 00:00:00+00:00
+ai_modified: 2026-06-04 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -94,7 +94,7 @@ Inverted qualia dramatically illustrate the [problem-of-other-minds](/concepts/p
 
 **Representationalism.** Qualia are (or supervene on) representational properties. If Invert and Nonvert both accurately perceive that tomatoes are red, their experiences have the same content, hence the same qualia. *Problem:* This conflates what experiences represent with how they represent it—both may accurately represent redness through different qualitative modes.
 
-**The phenomenal concepts strategy.** Phenomenal concepts pick out physical properties through a distinctive cognitive mode; inversion's conceivability reflects this peculiarity, not real possibility. *Problem:* If phenomenal concepts work this differently, this itself requires explanation. The strategy risks explaining too much (making any identity claim vulnerable) or too little (the felt difference from conceiving square circles remains).
+**The phenomenal concepts strategy.** Phenomenal concepts pick out physical properties through a distinctive cognitive mode; inversion's conceivability reflects this peculiarity, not real possibility. This is the natural place to lodge the Kripkean reply that conceivability does not entail possibility—just as water-without-H₂O seems conceivable yet is a-posteriori impossible, inversion might be a conceivable-but-impossible scenario whose appearance of possibility traces to our concepts rather than the modal facts. *Problem:* If phenomenal concepts work this differently, this itself requires explanation. The strategy risks explaining too much (making any identity claim vulnerable) or too little (the felt difference from conceiving square circles remains, since unlike the water case we cannot exhibit the hidden essence that would make inversion impossible).
 
 **Dennett's skepticism.** Dennett (1991) argued that after total adaptation, the inversion would effectively "flip back"—if all dispositions adjust to the new qualia, in what sense have they remained inverted? *Response:* This conflates having qualia with thinking about them. Dennett's argument presupposes his eliminativism—there is no intrinsic qualitative character to adapt away from. If one grants the premise, the argument goes through; if not, it doesn't. The rest of this article is the case for thinking qualia "remain" to be inverted.
 

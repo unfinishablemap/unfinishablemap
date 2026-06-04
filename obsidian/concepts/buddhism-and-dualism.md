@@ -4,7 +4,7 @@ description: "Buddhism rejects permanent self while affirming irreducible consci
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-05-31T21:50:29+00:00
+ai_modified: 2026-06-04T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,7 +51,7 @@ Buddhist no-self targets three specific claims:
 
 Buddhism accepts that consciousness (*vijñāna*) is real—it's one of the five aggregates. Buddhism doesn't say "consciousness is an illusion" (that would be eliminativism, which Buddhism rejects). It says "the permanent self *owning* consciousness is an illusion."
 
-Buddhist contemplative practice constitutes millennia of first-person investigation—what [[phenomenology]] calls attention to experience itself. Meditation involves systematic observation of how thoughts arise and pass, how sensations present themselves, how attention moves. This is phenomenological method in practice, predating Husserl by over two millennia. The rigor of Buddhist introspective training parallels what contemporary research confirms: skilled observers report consciousness more accurately than novices (Fox et al. 2012). Buddhism's claims about consciousness emerge from disciplined investigation, not mere speculation. The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] maps how Buddhist reports converge with those from Hindu, Christian, Sufi, and Daoist practitioners on structural features like self-dissolution and contentless awareness—despite incompatible metaphysical frameworks. This pattern constitutes [[phenomenological-evidence#convergence|convergent phenomenological evidence]]—a distinct evidential category where independent traditions triangulate on the same first-person observations.
+Buddhist contemplative practice constitutes millennia of first-person investigation—what [[phenomenology]] calls attention to experience itself. Meditation involves systematic observation of how thoughts arise and pass, how sensations present themselves, how attention moves. This is phenomenological method in practice, predating Husserl by over two millennia. The rigor of Buddhist introspective training parallels what contemporary research suggests on tested tasks: experienced meditators give more accurate introspective reports of tactile sensitivity during body-scanning meditation, measured against objective thresholds, than novices (Fox et al. 2012). This is narrower than a claim that meditators introspect consciousness as such more accurately, but it counts against the view that introspective skill is untrainable. Buddhism's claims about consciousness emerge from disciplined investigation, not mere speculation. The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] maps how Buddhist reports converge with those from Hindu, Christian, Sufi, and Daoist practitioners on structural features like self-dissolution and contentless awareness—despite incompatible metaphysical frameworks. This pattern constitutes [[phenomenological-evidence#convergence|convergent phenomenological evidence]]—a distinct evidential category where independent traditions triangulate on the same first-person observations.
 
 ## What the Map's Dualism Actually Claims
 

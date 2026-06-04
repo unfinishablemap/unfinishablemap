@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-04T00:00:00+00:00 - refine-draft
+- **Status**: Success (multi-file, multi-issue — pessimistic-2026-03-24c)
+- **Files**: [inverted-qualia](/concepts/inverted-qualia/), [buddhism-and-dualism](/concepts/buddhism-and-dualism/), [explanatory-gap](/concepts/explanatory-gap/)
+- **Issue 1 (inverted-qualia, PRIMARY)**: Conceivability≠possibility gap was already substantively engaged (phenomenal-concepts-strategy, illusionism, "physically unrealised even if conceivable"); the specific Kripkean a-posteriori-necessity move was the only missing piece (not named). Added one brief naming sentence in the phenomenal-concepts-strategy paragraph (water-without-H₂O parallel; noted the disanalogy that we cannot exhibit consciousness's hidden essence). Length permitted (2355→2414, ok).
+- **Issue 2 (buddhism-and-dualism)**: Fox et al. 2012 cite web-verified — REAL + CORRECT metadata (Kieran C.R. Fox; "Meditation Experience Predicts Introspective Accuracy"; PLoS ONE 7(9):e45370). 3-state verdict: real+correct → KEEP citation. But the CLAIM was overstated ("report consciousness more accurately"). Paper measures introspective accuracy on a tactile-sensitivity body-scanning task. Tightened to what the paper supports + explicit narrowing qualifier. Length 2484→2523 (soft_warning, advisory; calibration content protected, hard ceiling 3500 clear).
+- **Issue 3 (explanatory-gap)**: ADDRESSED-ALREADY. Water/H₂O analogy is used to illustrate the structure of satisfying reduction, and the article repeatedly DISanalogizes the consciousness case (L134 noetic-feelings recursive point, L164 "correlation and predictive accuracy don't suffice; what's needed is intelligibility", L136 "persistent dissatisfaction suggests the identity doesn't hold", "What Would Challenge This View" closure conditions). The Map's point that the gap WON'T close like water-H₂O is made explicitly throughout. No edit (would over-engineer a calibrated passage; also at soft_warning 3445).
+- **Anchoring**: re-ran evaluate_anchoring on both touched files (calibration touched) → both CLEAN.
+- **Validate/sync**: pass.
+- **Published**: yes
+
 ## 2026-06-04T00:00:00+00:00 - deep-review
 - **Status**: Success (convergent no-op + citation re-verification)
 - **File**: [evolution-of-consciousness](/concepts/evolution-of-consciousness/)
