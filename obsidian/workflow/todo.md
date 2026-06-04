@@ -37,6 +37,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt mental-causation-and-downward-causation calibration in comparing-quantum-consciousness-mechanisms
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/comparing-quantum-consciousness-mechanisms.md
+- **Notes**: From topic-concept anchoring audit 2026-06-04. The topic article over-claims relative to its anchor concept [[mental-causation-and-downward-causation]]; failed checks: strong_assertions, underdetermination_markers.
+  - topic uses 1 strong-assertion verbs where anchor uses none
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-04
+
+### P2: Adopt mind-brain-separation calibration in terminal-lucidity-and-filter-transmission-theory
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
+- **Notes**: From topic-concept anchoring audit 2026-06-04. The topic article over-claims relative to its anchor concept [[mind-brain-separation]]; failed checks: strong_assertions, underdetermination_markers.
+  - strong-assertion density 2.48/kw exceeds 1.5× anchor (1.40/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-04
+
+
 ### P3: Add reciprocal link from concepts/jourdain-hypothesis.md → concepts/gaming-problem.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -76,14 +99,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Review file**: `reviews/outer-review-2026-06-04-claude-opus-4-8.md`
 - **Source**: outer-review
 - **Generated**: 2026-06-04
-
-### P2: Add reciprocal cross-links from sibling dissociation/convergence articles to clinical-dissociation-as-systematic-evidence.md
-- **Type**: cross-review
-- **Status**: pending
-- **Review file**: `reviews/outer-review-2026-06-04-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-04
-- **Notes**: From outer review 2026-06-04 (ChatGPT 5.5 Pro), the "asymmetric inheritance" finding: the target imports surrounding articles' architecture/ambition but not their limiting conditions. Three small reciprocal additions (verify each target's current text and length status first; all three sibling files exist): (a) in [[dissociative-states-as-intact-substrate-interface-evidence]], a one-line reciprocal note that "intact substrate" means no gross lesion, NOT absence of physically realized dynamic dysfunction, pointing back to the target; (b) in [[conversion-disorder-as-consciousness-side-fault]], a short note that the dissociation article inherits the FND rule-in / no-single-test / intra-cerebral-inhibitory-process caveats; (c) in [[epistemology-of-convergence-arguments]], add clinical dissociation as a worked double-count example — do the lesion / pharmacology / contemplative-pathology / clinical-dissociation routes independently converge on the channel taxonomy, or is the taxonomy partly imposing the shared structure? Keep each addition length-neutral / minimal; several of these articles are hubs at length risk — do NOT expand, just link + one clause. This addresses the cross-article half of the review; the prose-calibration tasks above cover the target article itself.
 
 ### P3: Methodology proposals from clinical-dissociation outer review (evidence ladder, citation-staleness rule, reference separation)
 - **Type**: refine-draft
@@ -898,6 +913,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Add reciprocal cross-links from sibling dissociation/convergence articles to clinical-dissociation-as-systematic-evidence.md
+- **Type**: cross-review
+- **Notes**: From outer review 2026-06-04 (ChatGPT 5.5 Pro), the "asymmetric inheritance" finding: the target imports surrounding articles' architecture/ambition but not their limiting conditions. Three small reciprocal additions (verify each target's current text and length status first; all three sibling files exist): (a) in [[dissociative-states-as-intact-substrate-interface-evidence]], a one-line reciprocal note that "intact substrate" means no gross lesion, NOT absence of physically realized dynamic dysfunction, pointing back to the target; (b) in [[conversion-disorder-as-consciousness-side-fault]], a short note that the dissociation article inherits the FND rule-in / no-single-test / intra-cerebral-inhibitory-process caveats; (c) in [[epistemology-of-convergence-arguments]], add clinical dissociation as a worked double-count example — do the lesion / pharmacology / contemplative-pathology / clinical-dissociation routes independently converge on the channel taxonomy, or is the taxonomy partly imposing the shared structure? Keep each addition length-neutral / minimal; several of these articles are hubs at length risk — do NOT expand, just link + one clause. This addresses the cross-article half of the review; the prose-calibration tasks above cover the target article itself.
 
 ### ✓ 2026-06-04: Modernize FND terminology + refresh stale citation base in clinical-dissociation-as-systematic-evidence.md
 - **Type**: refine-draft
