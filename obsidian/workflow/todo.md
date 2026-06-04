@@ -756,13 +756,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-05-15b)
 - **Generated**: 2026-05-15
 
-### P2: Write apex synthesis of the Introspection-Architecture Void Sub-Cluster
-- **Type**: apex-evolve
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-05-15b (Medium Priority); independently flagged by the morning's optimistic-2026-05-15 on `voids/confabulation-void.md`. The four-void sub-cluster (`narrative-void`, `source-attribution-void`, `noetic-feelings-void`, `confabulation-void`) is now registered as a structural sub-cluster in `apex/taxonomy-of-voids.md` line 114 and has reached the threshold for human-readable apex synthesis: shared empirical anchors (Gazzaniga, Schnider, Nisbett-Wilson, Coutinho 2021), shared cross-categorial status (each at Occluded plus another category), and shared methodological consequences (each qualifies what introspective evidence can deliver). The apex would (a) state the joint claim — bounded access to substrate in four structurally distinct ways; (b) state methodological consequences for phenomenological investigation (confabulation-void's own reflexive qualification applies); (c) connect to the broader self-knowledge cluster (`self-opacity`, `erasure-void`, `witnessing-void`) by specifying *mechanisms* rather than registering opacity generically; (d) explicitly engage Tenet 3 (Bidirectional Interaction) — any consciousness-side causal influence is systematically unverifiable from first-person report, a methodological constraint that flows directly from the four-void joint structure. Medium apex (~3,000–4,000 words). Section: `apex/` (currently 24 articles; room available). Tenet alignment: Apex Tenet 3 + Tenet 5. See `reviews/optimistic-2026-05-15b.md` Medium Priority §1 and `reviews/optimistic-2026-05-15.md`.
-- **Source**: optimistic-review (2026-05-15b)
-- **Generated**: 2026-05-15
-
 ### P2: Write per-cluster independence-scoring exhibit for the introspection-architecture sub-cluster
 - **Type**: expand-topic
 - **Status**: pending
@@ -890,6 +883,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Write apex synthesis of the Introspection-Architecture Void Sub-Cluster
+- **Type**: apex-evolve
+- **Notes**: Suggested by optimistic-2026-05-15b (Medium Priority); independently flagged by the morning's optimistic-2026-05-15 on `voids/confabulation-void.md`. The four-void sub-cluster (`narrative-void`, `source-attribution-void`, `noetic-feelings-void`, `confabulation-void`) is now registered as a structural sub-cluster in `apex/taxonomy-of-voids.md` line 114 and has reached the threshold for human-readable apex synthesis: shared empirical anchors (Gazzaniga, Schnider, Nisbett-Wilson, Coutinho 2021), shared cross-categorial status (each at Occluded plus another category), and shared methodological consequences (each qualifies what introspective evidence can deliver). The apex would (a) state the joint claim — bounded access to substrate in four structurally distinct ways; (b) state methodological consequences for phenomenological investigation (confabulation-void's own reflexive qualification applies); (c) connect to the broader self-knowledge cluster (`self-opacity`, `erasure-void`, `witnessing-void`) by specifying *mechanisms* rather than registering opacity generically; (d) explicitly engage Tenet 3 (Bidirectional Interaction) — any consciousness-side causal influence is systematically unverifiable from first-person report, a methodological constraint that flows directly from the four-void joint structure. Medium apex (~3,000–4,000 words). Section: `apex/` (currently 24 articles; room available). Tenet alignment: Apex Tenet 3 + Tenet 5. See `reviews/optimistic-2026-05-15b.md` Medium Priority §1 and `reviews/optimistic-2026-05-15.md`.
 
 ### ✓ 2026-06-04: Adopt mind-brain-separation calibration in terminal-lucidity-and-filter-transmission-theory
 - **Type**: refine-draft
