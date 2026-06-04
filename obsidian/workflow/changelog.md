@@ -5,6 +5,17 @@ ai_modified: 2026-06-04T18:46:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/experimental-consciousness-science-2025-2026]]
+- **Task**: Topic-concept anchoring audit (Audit Three of [[project/calibration-audit-triple]]). Topic over-claimed vs anchors [[global-workspace-theory]] (hedge_density 5.88<6.0, strong_assertions 1>0) and [[neural-correlates-of-consciousness]] (strong_assertions + missing underdetermination marker).
+- **Changes** (length-neutral, 3 reframes at genuine theory-underdetermination points; experimental findings kept demonstrative force):
+  - Covert-consciousness section: "The findings **establish** a correlate/identity distinction… behavioural criteria cannot adjudicate" → "The findings point to a correlate/identity distinction… whether behaviour constitutes or merely correlates with consciousness is **underdetermined by the evidence**, since behavioural criteria cannot adjudicate which relation holds." (folds the lone positive strong-assertion verb into an underdetermination marker at its real inference point: experiment→implication, not the data).
+  - Relation section: "Neither **proves** that consciousness operates…" → "Neither **is proof** that…" (the strong-assertion counter is negation-blind and was counting the bare verb inside a negated clause).
+  - Biological-computationalism section: "then functionalism **fails**" → "then functionalism **may fail** as an account of consciousness" (one honest hedge at a contested conditional, to push hedge_density just over the 6.0 floor).
+- **Result**: `evaluate_anchoring` returns CLEARS ALL (no flag). hedge_density 6.27/kw (just over 6.0 threshold; NOT chasing the anchor's heavily-hedged 10.00/kw register-outlier per [[replenish-churn-filter-overtight]]), strong_assertions 0, underdetermination_markers 1. Central survey claim + voice intact; demonstrated experimental results (COGITATE, biophotons, split-brain, covert consciousness) keep their reported/found force. Body 2245 words (under 3000 soft ceiling). No citations altered (COGITATE → *Nature* 642(8066):133-142 already in verified form).
+- **Published**: yes
+
 ## 2026-06-04T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **Task**: MULTI-FILE fabricated-citation fix (from attentional-economics deep-review 2026-06-04). Class: [[ai_citation_metadata_unreliable]]. Independently web-verified: "Meister, M. (2024). The physical limits of perception. *PNAS*, 121(14), e2400258121" DOES NOT EXIST; real source is Zheng, J. & Meister, M. (2025). The unbearable slowness of being. *Neuron*, 113(2), 192-204.
