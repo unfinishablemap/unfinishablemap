@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04T07:00:00+00:00
+ai_modified: 2026-06-04T08:15:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-04T08:15:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/clinical-dissociation-as-systematic-evidence]]
+- **Selection**: ChatGPT 5.5 Pro outer review 2026-06-04 ([[reviews/outer-review-2026-06-04-chatgpt-5-5-pro]]) — two empirical-precision calibration fixes. 8th edit to this article today; re-read current state first to confirm each fix still needed.
+- **Fix (1) — amnesia "stored, encoded, retained" over-claim**: STILL NEEDED, edited. The flat assertion "The information was stored, encoded, and retained. It was simply inaccessible to consciousness." preceded the later Mangiulli hedge, asserting the conclusion as fact up front. Reframed to "reversibility does not by itself establish intact storage, accuracy, or non-reconstructive retrieval—memory reconstruction, source-monitoring failure, state-dependent retrieval, and suggestibility remain live alternatives." Also softened "access returning when it restores" → "access recovering when it restores" (drops the implied immediate-and-full return). The pre-existing retrieval-suppression + Mangiulli "claim less than older sources suggested" material (added by earlier cycles today) was preserved; redundant preamble ("The qualification matters:") trimmed to avoid over-hedging.
+- **Fix (2) — "neural substrate remains anatomically intact" smuggles the conclusion**: STILL NEEDED at the opening (line 41); the earlier Marsh/steelman cycles fixed the DID-section substrate-retention wording but left the blunt opening phrase. Reworded "the neural substrate remains anatomically intact while specific aspects of experience go offline" → "no gross destructive lesion is required for specific aspects of experience to go offline—the substrate is undamaged, not unchanged", and folded "functional connectivity, agency, salience, and predictive-control networks" into the following neuroimaging sentence (avoiding duplication). Prevents "intact substrate" from smuggling in "physicalism lacks a substrate-level explanation."
+- **Calibration** ([[evidential-status-discipline]]): both fixes are softenings that make the dialectic honest without retracting the interface reading; preserved two-tier "constrain not establish" framing; checked against over-hedging-into-mush ([[anchoring-audit-sibling-tasks-stale]]) — no piled qualifiers, the amnesia section's prior hedging was kept not multiplied. No editor-mode labels in body; no "not X, it's Y" cliché ("undamaged, not unchanged" is a compressed appositive, not the banned construct).
+- **Length before/after**: 3824w → 3843w (net +19; the two calibration additions offset by trims to the amnesia-section preamble, the "stored but inaccessible" picture restatement, the line-41 connectivity duplication, and an "as above" clause). Well under 4000 hard ceiling; within the ≤~3850 acceptable band, net-neutral as mandated.
+- **Original score**: n/a (targeted outer-review fix, not a full review pass)
+- **Published**: yes
 
 ## 2026-06-04T07:30:00+00:00 - refine-draft
 - **Status**: Success

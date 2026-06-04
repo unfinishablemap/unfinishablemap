@@ -77,14 +77,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-04
 
-### P2: Soften over-strong amnesia and intact-substrate claims in clinical-dissociation-as-systematic-evidence.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Source**: outer-review
-- **Review file**: `reviews/outer-review-2026-06-04-chatgpt-5-5-pro.md`
-- **Generated**: 2026-06-04
-- **Notes**: From outer review 2026-06-04 (ChatGPT 5.5 Pro). Two empirical-precision fixes, verified verbatim in the live article: (1) the amnesia section (lines 71–73) asserts "The information was stored, encoded, and retained" and "access returns immediately and fully" — too strong. Reversibility does not by itself establish intact storage, accuracy, or non-reconstructive retrieval. Reframe toward "Recovery is often reported, sometimes abruptly, but reversibility does not by itself establish intact storage, accuracy, or non-reconstructive retrieval," and acknowledge memory reconstruction / source monitoring / state-dependent retrieval / suggestibility as live alternatives. (2) "the neural substrate remains anatomically intact" (line 41) is too blunt — if the substrate includes dynamic connectivity and predictive control, the substrate is precisely what changed. Reword toward "no gross destructive lesion is required; functional connectivity, agency, salience, and predictive-control networks may be selectively altered." This prevents "intact substrate" from smuggling in the conclusion that physicalism lacks a substrate-level explanation. Both edits are calibration-tightening and should be roughly length-neutral. Honour [[evidential-status-discipline]]; do not over-hedge into mush.
-
 ### P2: Modernize FND terminology + refresh stale citation base in clinical-dissociation-as-systematic-evidence.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -914,6 +906,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-04: Soften over-strong amnesia and intact-substrate claims in clinical-dissociation-as-systematic-evidence.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-04 (ChatGPT 5.5 Pro). Two empirical-precision fixes, verified verbatim in the live article: (1) the amnesia section (lines 71–73) asserts "The information was stored, encoded, and retained" and "access returns immediately and fully" — too strong. Reversibility does not by itself establish intact storage, accuracy, or non-reconstructive retrieval. Reframe toward "Recovery is often reported, sometimes abruptly, but reversibility does not by itself establish intact storage, accuracy, or non-reconstructive retrieval," and acknowledge memory reconstruction / source monitoring / state-dependent retrieval / suggestibility as live alternatives. (2) "the neural substrate remains anatomically intact" (line 41) is too blunt — if the substrate includes dynamic connectivity and predictive control, the substrate is precisely what changed. Reword toward "no gross destructive lesion is required; functional connectivity, agency, salience, and predictive-control networks may be selectively altered." This prevents "intact substrate" from smuggling in the conclusion that physicalism lacks a substrate-level explanation. Both edits are calibration-tightening and should be roughly length-neutral. Honour [[evidential-status-discipline]]; do not over-hedge into mush.
 
 ### ✓ 2026-06-04: Add the recall-vs-recognition DID memory-transfer counterevidence to clinical-dissociation-as-systematic-evidence.md (Marsh/Huntjens 2021)
 - **Type**: refine-draft
