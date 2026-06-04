@@ -5,6 +5,16 @@ ai_modified: 2026-06-04T09:46:32+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T09:52:49+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/neurophenomenology-and-contemplative-neuroscience]]
+- **Word count**: 2941 → 2985 (+44; substantive body net-neutral via offsetting trims; residual is bibliography for a newly-correct citation)
+- **Critical issues addressed**: 2 (both citation-level, surfaced by live publisher web-verify after 6 prior reviews missed them). (1) Wrong-author: "Sezer et al. 2021" grey-matter meta-analysis is actually **Pernet et al. 2021**, *Brain Imaging and Behavior* 15(5):2720-2730 (article had vol 16, pp 1023-1045) — real-paper/wrong-author 3-state; the DOI in-footnote was already Pernet's; figures (25 studies, insula d~0.8) correct. "Sezer,I." is a genuine separate author (NBR 2022), so author-conflation not fabrication. (2) Wrong-study: "Davidson's compassion study, 7 hours → prosocial" reattributed to **Weng et al. 2013**, *Psych. Science* 24(7):1171-1180 (~7h = 2wk×30min); the `[^davidson]` 2008 news note covered long-term monks/10,000+h, no 7h/prosocial result. Added `[^weng]` + ref entry; left the legitimate `[^davidson]` use on the separate compassion-network sentence.
+- **Citations web-verified at publisher of record (3-state)**: Varela 1996 JCS 3(4):330-349 (quoted subtitle verbatim-OK); Kral 2022 Sci.Adv. 8 eabk3316 (218pp, waitlist+active+MBSR, no structural change — exact); Lutz 2004 PNAS 101(46):16369-16373; Demir/Yang/Sacchet 2025 Cereb.Cortex 35(4):bhaf079 (single-practitioner case study, 23,000+h — noted, not a metadata defect); Fox 2012 PLOS One 7(9):e45370; Laukkonen 2023 Prog.Brain Res. 280:61-87; Pernet 2021 (fixed); Weng 2013 (added). No fabrication; 2 wrong-attribution caught+fixed.
+- **Quotes**: only verbatim quote (Varela subtitle) correct; rest terms-of-art. **Dates**: Varela 1946–2001 + all cite years sane. **Anchoring**: one informational hedge-density flag vs over-hedged DMN anchor; article well-hedged in absolute terms (14 hedges) — no action. **Evidential-status**: no slippage; methodology-constrains-eliminativism role kept calibrated, no first-person-validates-dualism move.
+- **Engagement modes** (editor-internal): Dennett/Frankish Mixed (Mode One+Two); Nisbett&Wilson Mode One; materialist-causal-pathway Mode Three. No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-04-neurophenomenology-and-contemplative-neuroscience]]
+
 ## 2026-06-04T09:46:32+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/time-symmetric-selection-mechanism]]

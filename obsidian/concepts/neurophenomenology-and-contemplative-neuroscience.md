@@ -4,7 +4,7 @@ description: "Varela's research program integrating first-person phenomenology w
 created: 2026-01-14
 modified: 2026-03-26
 human_modified: null
-ai_modified: 2026-05-11T03:31:00+00:00
+ai_modified: 2026-06-04T09:52:49+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ author: Andy Southgate
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-05-11T03:31:00+00:00
+last_deep_review: 2026-06-04T09:52:49+00:00
 coalesced_from:
   - "/concepts/neurophenomenology/"
   - "/concepts/contemplative-neuroscience/"
@@ -71,11 +71,11 @@ Applications include epilepsy anticipation, pain phenomenology, creative insight
 
 Long-term meditators show altered brain structure and function:
 
-**Structural changes (under scrutiny)**: Earlier studies reported greater cortical thickness in frontal and temporal areas[^lazar], particularly right anterior ventral insula (meta-analysis of 25 MRI studies, Cohen's d ~ 0.8).[^sezer] However, Kral et al. (2022), testing 218 participants with both waitlist and active controls in *Science Advances*, found no structural brain changes from 8-week MBSR—no changes in grey matter volume, density, or cortical thickness. The earlier positive findings may reflect small samples, lack of active controls, and circular analysis. Cross-sectional differences in long-term practitioners may reflect pre-existing traits rather than practice-induced changes.
+**Structural changes (under scrutiny)**: Earlier studies reported greater cortical thickness in frontal and temporal areas[^lazar], particularly right anterior ventral insula (meta-analysis of 25 MRI studies, Cohen's d ~ 0.8).[^pernet] However, Kral et al. (2022), testing 218 participants with both waitlist and active controls in *Science Advances*, found no structural brain changes from 8-week MBSR—no changes in grey matter volume, density, or cortical thickness. The earlier positive findings may reflect small samples, lack of active controls, and circular analysis. Cross-sectional differences in long-term practitioners may reflect pre-existing traits rather than practice-induced changes.
 
 **Functional connectivity**: Increased connectivity between [[default-mode-network|DMN]], salience network, and central executive network.[^parkinson] Changes persist at baseline resting state, not just during meditation.[^brewer][^muller]
 
-**Dose-response**: Davidson's compassion study found brain changes after just 7 hours of practice that predicted prosocial behaviour.[^davidson] However, 8-week MBSR may produce only functional changes; structural grey matter changes require sustained practice over months to years.[^sezer]
+**Dose-response**: Weng et al. (2013) found that ~7 hours of compassion training (two weeks, 30 min daily) altered neural responses to suffering and increased altruistic behaviour.[^weng] However, 8-week MBSR may produce only functional changes; structural changes require sustained practice over months to years.[^pernet]
 
 The causal pathway matters for the Map's interpretation: conscious intention → deliberate practice → neural change. The *content* of conscious intention appears to matter causally: cultivating compassion produces different *functional* neural changes than sustaining breath attention—a pattern compatible with the Map's claim that [[qualia|phenomenal character]] is not epiphenomenal decoration, though also explicable through standard mechanisms of differential behavioural training.
 
@@ -157,7 +157,7 @@ The materialist responds that "content" just refers to neural structure, not add
 
 ## Clinical Applications
 
-Mindfulness-Based Stress Reduction (MBSR) shows consistent clinical benefits: reduced anxiety, stress, and depression, with improvements maintained for years.[^sharma] The intervention is phenomenological—learning to observe thoughts without identification, cultivate compassionate awareness—yet produces measurable neural and behavioural changes. The clinical success validates integration: the intervention targets phenomenology, the mechanism involves both phenomenology and neuroscience, the outcomes are measurable in both domains.
+Mindfulness-Based Stress Reduction (MBSR) shows consistent clinical benefits: reduced anxiety, stress, and depression, with improvements maintained for years.[^sharma] The intervention is phenomenological—learning to observe thoughts without identification, cultivate compassionate awareness—yet produces measurable neural and behavioural changes. The clinical success validates integration: a phenomenological intervention, a mechanism spanning both domains, outcomes measurable in both.
 
 ## Metaphysical Interpretations
 
@@ -233,19 +233,21 @@ None demonstrated. Fox et al. shows robust training effects; cross-traditional s
 1. Parkinson, T.D. et al. (2022). Mindfulness meditation increases default mode, salience, and central executive network connectivity. *Scientific Reports*, 12, 13219.
 1. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
 1. Sandved Smith, L. et al. (2025). Deep computational neurophenomenology. *Neuroscience of Consciousness*, 2025(1), niae053.
-1. Sezer, I. et al. (2021). Mindfulness related changes in grey matter: a systematic review and meta-analysis. *Brain Imaging and Behavior*, 16, 1023-1045.
+1. Pernet, C.R., Belov, N., Delorme, A., & Zammit, A. (2021). Mindfulness related changes in grey matter: a systematic review and meta-analysis. *Brain Imaging and Behavior*, 15(5), 2720-2730.
 1. Sharma, H. (2015). Mindfulness-based stress reduction: a non-pharmacological approach for chronic illnesses. *Journal of Evidence-Based Complementary & Alternative Medicine*, 20(4), 284-286.
 1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 1. Varela, F. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
+1. Weng, H.Y. et al. (2013). Compassion training alters altruism and neural responses to suffering. *Psychological Science*, 24(7), 1171-1180.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 
 [^lazar]: Lazar, S.W. et al. (2005). Meditation experience is associated with increased cortical thickness. https://pmc.ncbi.nlm.nih.gov/articles/PMC1361002/
-[^sezer]: Sezer, I. et al. (2021). Mindfulness related changes in grey matter. https://link.springer.com/article/10.1007/s11682-021-00453-4
+[^pernet]: Pernet, C.R. et al. (2021). Mindfulness related changes in grey matter. https://link.springer.com/article/10.1007/s11682-021-00453-4
 [^brewer]: Brewer, J.A. et al. (2011). Meditation experience and default mode network. https://www.pnas.org/doi/10.1073/pnas.1112029108
 [^parkinson]: Parkinson, T.D. et al. (2022). Mindfulness meditation network connectivity. https://www.nature.com/articles/s41598-022-17325-6
 [^muller]: Müller, V.I. et al. (2022). Meditation-induced effects on connectivity. https://pmc.ncbi.nlm.nih.gov/articles/PMC9232427/
 [^davidson]: Davidson, R.J. et al. Compassion meditation changes the brain. https://news.wisc.edu/study-shows-compassion-meditation-changes-the-brain/
+[^weng]: Weng, H.Y. et al. (2013). Compassion training alters altruism and neural responses to suffering. *Psychological Science*, 24(7), 1171-1180. https://journals.sagepub.com/doi/abs/10.1177/0956797612469537
 [^garrison]: Garrison, K.A. et al. (2015). Meditation and default mode network. https://pmc.ncbi.nlm.nih.gov/articles/PMC4529365/
 [^dhond]: Dhond, R.P. et al. (2023). Functional connectivity in meditation techniques. https://pmc.ncbi.nlm.nih.gov/articles/PMC10026337/
 [^shamatha]: The Shamatha Project. https://shamathaproject.org/publications
