@@ -5,6 +5,18 @@ ai_modified: 2026-06-04T13:10:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T12:38:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/cross-architecture-llm-introspection]]
+- **Trigger**: topic-concept anchoring audit 2026-06-04 — failed vs anchor [[metacognition]] on strong_assertions (1 verb, 0.53/kw > 1.5× anchor 0.30) + hedge_density (4.26/kw < 60% of anchor 7.99/kw); underdetermination_marker_count=0
+- **Changes (light-touch FOLD-INTO-REFRAME, net-neutral length)**:
+  - Strong-assertion verb "it shows that" (Hahami deflationary finding) → "it finds that" — clears strong_assertions 1→0 without falsely converting a genuinely-demonstrated paper result into uncertainty (the "shows that" reported a real established finding, not an underdetermined inference, so the verb was softened rather than reframed to "leaves open")
+  - Added one recognized underdetermination marker at the genuine open-programme point: "the findings constrain both readings without settling either" → "on present evidence the data does not adjudicate between the deflationary and the structural readings, constraining both without settling either" — adds underdetermination_marker 0→1 at the inference the article already marks unsettled
+  - No filler hedges added (anchor [[metacognition]] at 7.99/kw is a register-outlier; chasing its hedge density would mush the article). hedge_density stayed at register difference 4.24/kw by design.
+- **Before→after**: strong_assertion_count 1→0; underdetermination_marker_count 0→1; wc 1878→1885; both anchoring flags CLEARED (evaluate_anchoring returns None)
+- **Preserved**: live-hypothesis-tier framing + phenomenal-consciousness bracketing the twin deep-reviews praised
+- **Published**: yes
+
 ## 2026-06-04T13:35:00+00:00 - tune-system
 - **Status**: Success (light cycle-trigger re-run; prior run 2026-06-03T19:23 ~17h ago)
 - **Sessions analyzed**: 1 long /loop session (session_count 9759→9853)
