@@ -4,7 +4,7 @@ description: "Consciousness actively shapes perception in two ways: stabilising 
 created: 2026-02-15
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-06-03T11:32:44+00:00
+ai_modified: 2026-06-04T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-11
 last_curated:
-last_deep_review: 2026-05-26T19:52:37+00:00
+last_deep_review: 2026-06-04T00:00:00+00:00
 coalesced_from:
   - "/topics/phenomenology-of-perceptual-constancy/"
   - "/topics/phenomenology-of-perceptual-learning/"

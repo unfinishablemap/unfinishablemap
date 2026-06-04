@@ -5,6 +5,20 @@ ai_modified: 2026-06-04T18:46:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-as-perceptual-architect]]
+- **Word count**: 2842 → 2842 (no edits; license-to-no-op converged. 95% of 3000 soft, under hard)
+- **Diff-scope**: OWN-CONTENT bucket, changed-since-review (~8d gap; ai_modified 2026-06-03, not today). 6th deep review. Two calibration-direction refines landed since last review (commit d0328cb1f): (1) `e730084ce` 2026-05-27 added a DMN/meditator structural-plasticity sentence + `[[default-mode-network]]` frontmatter/Further-Reading — a NEW empirical claim used as ratchet analogy; (2) `e953e4484` 2026-06-03 added the DMN/underdetermination passage ("one candidate interpretation among several… not forced over a consciousness-free predictive-coding account") + intro "outruns" → "appears to outrun".
+- **Web-verify by class (DMN/predictive-coding focus)**: DMN/meditator structural-change claim (new, uncited) — VERIFIED true (multiple neuroimaging studies: structural changes in posterior cingulate/precuneus/TPJ; reduced DMN connectivity in long-term meditators); source-conclusion fidelity sound, deployed honestly as analogy not causation. Ahissar & Hochstein 2004 (TICS 8(10):457-464) CORRECT. Clark 2013 (BBS 36(3):181-204) CORRECT. Land 1977 (Sci Am 237(6):108-128) CORRECT. Goldstone 1994 (JEP:Gen 123(2):178-200) CORRECT. Seitz & Watanabe 2005 (TICS 9(7):329-334) CORRECT. No fabrication / wrong-metadata; no corpus-propagation seam. Remaining stable books/papers verified across 4 prior reviews; new content carried no new citation.
+- **Calibration**: Both new passages pass §2 diagnostic test — NO possibility→probability slippage. Underdetermination passage is correct-direction (defeater-removal, declines evidence-upgrade) and does not over-hedge a demonstrated finding. DMN analogy inherits the Bidirectional-Interaction tenet paragraph's honest "fully describable in brain-side terms… the Map's interpretation, not a measurement that compels it" pinning. Seam-check: intro "appears to outrun" consistent with body.
+- **Anchoring**: evaluate_anchoring clean before/after (no flags).
+- **Engagement modes (editor-internal)**: unchanged from 2026-05-26 — enactivism Mode Two→Three; physicalism Mode Two; parsimony Mode Two. No label leakage.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; timestamps only)
+- **Output**: [[reviews/deep-review-2026-06-04-consciousness-as-perceptual-architect]]
+
 ## 2026-06-04T12:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-intellectual-life]]
