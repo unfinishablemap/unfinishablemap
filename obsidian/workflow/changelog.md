@@ -5,6 +5,16 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T11:45:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/edge-states-and-void-probes]]
+- **Task**: Gemini FDG-PET P2 (outer review 2026-06-05) — 5th task on this file this cycle; the empirical-currency P1 added DMN material but did NOT cover the FDG-PET metabolic counterweight, so this point was distinct.
+- **Change**: Added a ~4-sentence metabolic caveat to the Reducing Valve section. The reduced-DMN-BOLD "filter doing less work → more experience" inference omits the FDG-PET glucose-metabolism literature: the psychedelic state is metabolically *expensive* (global CMRglc increase, frontal-marked "metabolic hyperfrontality"), a direct physicalist counterweight. Caveat argues the filter reading on its own terms (separating *what* the DMN does from *how much* it spends; direct-refutation-discipline) and marks the data as non-discriminating (evidential-status-discipline).
+- **Web-verification**: CITED the qualitative point + the VERIFIED Vollenweider et al. 1997 (*Neuropsychopharmacology* 16(5):357–372, DOI 10.1016/S0893-133X(96)00246-1) "metabolic hyperfrontality" finding (global CMRglc increase, frontomedial ~24%). Did NOT propagate the reviewer's unverified "12.5% global CMRglc under DMT/harmine" figure — traced to a 2025 Research Square *preprint*, not peer-reviewed. New reference added (ref 22).
+- **Length**: STRICTLY length-neutral. 3641 → 3634 body words (net −7) despite the added caveat + new reference, via offsetting condensation of redundancy (evidential-status paragraph, REBAS/REBUS sentences, Metzinger paragraphs, dissolving-insight/NDE descriptive runs, closing recap). Calibration-protected dialectical content preserved. Remains over the voids 3000 hard ceiling (below 4000 critical) — split / human-length-decision candidate per task notes; no substance-deleting condense attempted.
+- **Out of scope / follow-on noted**: `tools/curate/altered_state_symmetry.evaluate_symmetry` flags this file (cites supportive altered-state cluster — psychedelics, NDE, cessation, mystical-experience — with no disruptive cluster: anaesthesia, slow-wave sleep, brain damage, vegetative state, dementia). Verified PRE-EXISTING (present before this edit), NOT introduced here. Symmetric-accommodation remediation requires NEW content and conflicts with this pass's strict length-neutral constraint; left as a separate Audit-Two / human-length-budget follow-on.
+- **Published**: yes
+
 ## 2026-06-05T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/meaning-of-life]]
