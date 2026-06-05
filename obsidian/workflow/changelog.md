@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-05T23:26:43+00:00
+ai_modified: 2026-06-05T23:30:56+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-05T23:30:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/conservation-laws-and-mental-causation]]
+- **Word count**: 3110 → 3162 (+52; net of the post-review refine's +195w "identical-energy" paragraph, rewritten not grown)
+- **Critical issues addressed**: 1 (calibration / internal consistency in the unreviewed refine-added paragraph)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (convergence-damped; targeted only the two post-review deltas)
+- **Delta scrutinised**: (a) apex-evolve added `[[apex/dualism-cartography]]` — verified reciprocating (back-links in topics/concepts/related/body/Further-Reading of dualism-cartography). (b) refine-draft added a ~195w paragraph conceding a non-degenerate single-trial energy residual then claiming ensemble conservation via fixed Born weights — internal tension verging on possibility/probability slippage: the article's own selection-only/corridor reading ([[causal-consistency-constraint]] L71: "no ensemble signature", long-run frequency converges to Born weight) means the per-trial residual cancels exactly and produces NO net ensemble energetic bias, so the paragraph overstated the concession. FIXED length-neutrally: made the per-trial/ensemble relation precise — consciousness redistributes *which trials* yield which outcome without shifting outcome *frequencies*, so per-trial differences cancel rather than accumulate. Candour preserved, calibration corrected.
+- **Citations**: new content cites only Pitts (2020) + Torres Alegre — both publisher-of-record-verified in the 2026-05-27 pass; no new cites, no fresh web-verify obligation.
+- **Engagement (editor-internal)**: Carroll (Standard-Model-completeness) — Mode Two (unsupported foundational move; helps itself to causal closure without earning it). Unchanged, sound, no boundary-substitution, no label leakage.
+- **Length**: 3162w (126% of 2500 soft; below 3500 hard). Length-neutral mode.
+- **Output**: [[reviews/deep-review-2026-06-05-conservation-laws-and-mental-causation]]
 
 ## 2026-06-05T23:26:43+00:00 - deep-review
 - **Status**: Success
