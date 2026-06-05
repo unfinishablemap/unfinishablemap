@@ -4,7 +4,7 @@ description: "Born probabilities describe the consciousness-quantum interface: n
 created: 2026-01-23
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-06-04T16:01:44+00:00
+ai_modified: 2026-06-05T23:35:10+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-27
 last_curated:
-last_deep_review: 2026-05-31T09:45:00+00:00
+last_deep_review: 2026-06-05T23:35:10+00:00
 coalesced_from:
   - "/concepts/quantum-probability-and-consciousness/"
   - "/concepts/subjective-probability-quantum-measurement/"

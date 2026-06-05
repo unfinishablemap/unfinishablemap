@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-05T23:30:56+00:00
+ai_modified: 2026-06-05T23:35:10+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-05T23:35:10+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/quantum-probability-consciousness]]
+- **Word count**: 2746 → 2746 (no content change; metadata-only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Primary verification**: Torres Alegre (2025) web-verified at live arXiv record — STILL an unpublished preprint (arXiv:2512.12636, rev 2026-02-04). The post-review candour edit ("a recent arXiv preprint, not yet independently confirmed" + verb "showed"→"argues") is accurate and current, NOT stale. No fabrication; author/title/claim match abstract. PBR (2012) and Zurek (2003) re-verified at primary source today; remaining quantum citations verified 2026-05-31 (unchanged). No possibility/probability slippage; modal register calibrated. All key wikilinks resolve and reciprocate. 8th review, converged.
+- **Named-opponent modes**: illusionist Mode One; MWI Mode Three; QBism Mode Two; mysterian Mode Three. No label leakage, no boundary-substitution.
+- **Output**: [[reviews/deep-review-2026-06-05-quantum-probability-consciousness]]
 
 ## 2026-06-05T23:30:56+00:00 - deep-review
 - **Status**: Success
