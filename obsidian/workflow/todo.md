@@ -37,13 +37,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/phenomenology-of-recursive-self-awareness.md (changed-since-review staleness, gap ~10d)
-- **Type**: deep-review
+### P2: Adopt qualia calibration in wanting-liking-and-the-value-in-mechanism-fork
+- **Type**: refine-draft
 - **Status**: pending
-- **File**: obsidian/topics/phenomenology-of-recursive-self-awareness.md
-- **Notes**: Floor-restoring P2 minted by /replenish-queue 2026-06-05 (honest on-disk re-scan; genuinely UNqueued high-gap citation-heavy candidate, 14 in-text year-cites + References section). Changed-since-review: ai_modified 2026-06-01, last_deep_review 2026-05-25 (~10d gap); the edit was a 2026-06-01 metacognition-calibration refine that appended unreviewed content. ai_contribution=100. Tenet 1/3 load-bearing (recursive self-modelling and the introspection interface). WEB-VERIFY **every** citation AUTHOR + year + venue against the live record (higher-order-theory, metacognition, self-awareness literature — Rosenthal, Lau, Fleming, Metzinger etc.) before trusting it ([[ai-citation-metadata-unreliable]]). Apply the 3-STATE discipline (fabricated→remove / real-paper-wrong-author→fix author / real-correct→leave); title-search before declaring fabrication ([[citation-verify-false-negative]]). PRESERVE the metacognition / higher-order-theory calibration language a prior refine installed ([[condense-regresses-calibration-qualifiers]]; [[anchoring-audit-sibling-tasks-stale]] — re-check anchoring before adding hedges, the 06-01 refine may already have resolved them; do not over-hedge into mush). No "This is not X. It is Y." cliché.
-- **Source**: staleness
+- **File**: obsidian/topics/wanting-liking-and-the-value-in-mechanism-fork.md
+- **Notes**: From topic-concept anchoring audit 2026-06-05. The topic article over-claims relative to its anchor concept [[qualia]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 1.27/kw is below 60% of anchor (8.22/kw)
+  - strong-assertion density 2.54/kw exceeds 1.5× anchor (1.22/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-05
+
+### P2: Adopt valence calibration in wanting-liking-and-the-value-in-mechanism-fork
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/wanting-liking-and-the-value-in-mechanism-fork.md
+- **Notes**: From topic-concept anchoring audit 2026-06-05. The topic article over-claims relative to its anchor concept [[valence]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 1.27/kw is below 60% of anchor (7.16/kw)
+  - strong-assertion density 2.54/kw exceeds 1.5× anchor (0.72/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-05
+
 
 ### P2: Deep review topics/phenomenal-concepts-as-materialist-response.md (changed-since-review staleness, gap ~10d)
 - **Type**: deep-review
@@ -963,6 +978,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Deep review topics/phenomenology-of-recursive-self-awareness.md (changed-since-review staleness, gap ~10d)
+- **Type**: deep-review
+- **Notes**: Floor-restoring P2 minted by /replenish-queue 2026-06-05 (honest on-disk re-scan; genuinely UNqueued high-gap citation-heavy candidate, 14 in-text year-cites + References section). Changed-since-review: ai_modified 2026-06-01, last_deep_review 2026-05-25 (~10d gap); the edit was a 2026-06-01 metacognition-calibration refine that appended unreviewed content. ai_contribution=100. Tenet 1/3 load-bearing (recursive self-modelling and the introspection interface). WEB-VERIFY **every** citation AUTHOR + year + venue against the live record (higher-order-theory, metacognition, self-awareness literature — Rosenthal, Lau, Fleming, Metzinger etc.) before trusting it ([[ai-citation-metadata-unreliable]]). Apply the 3-STATE discipline (fabricated→remove / real-paper-wrong-author→fix author / real-correct→leave); title-search before declaring fabrication ([[citation-verify-false-negative]]). PRESERVE the metacognition / higher-order-theory calibration language a prior refine installed ([[condense-regresses-calibration-qualifiers]]; [[anchoring-audit-sibling-tasks-stale]] — re-check anchoring before adding hedges, the 06-01 refine may already have resolved them; do not over-hedge into mush). No "This is not X. It is Y." cliché.
 
 ### ✓ 2026-06-05: Deep review topics/history-of-the-interaction-problem.md (changed-since-review staleness, gap ~10d)
 - **Type**: deep-review
