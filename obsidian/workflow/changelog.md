@@ -5,6 +5,18 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T11:53:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/bidirectional-interaction]]
+- **Word count**: 2534 → ~2560 (citation correction re-grounded an unsupported claim to a supportable, hedged one; one prose trim to offset; length-neutral within soft band, well under 3500 hard — calibration NOT sacrificed to a length number per remit)
+- **Critical issues addressed**: 1 (THIRD fabricated-author citation on the clinical-neuroplasticity cluster, survived 5 prior reviews via author+year match: "Marzbani et al. 2022" on Frontiers in Psychology 13:853804 is a chimera — real DOI by Yuan et al. 2022, "Marzbani,H." is an unrelated 2016 neurofeedback author; AND the "302 subjects/18 experiments/right-amygdala/CBT-top-down-vs-SSRI-bottom-up" detail does NOT match the cited paper (actual: 13 studies, ~87 MDD subjects). Corrected author to Yuan et al. and re-grounded the claim; dual-process top-down/bottom-up asymmetry preserved as hedged general-literature point.)
+- **Citation re-verification**: BOTH prior fabricated-author fixes confirmed landed cleanly with no regression — Marueckova→Seymour & Mathers (web-verified Frontiers in Psychiatry 14:1301143) and Randeniya→Streicher et al. (web-verified Neuroscience of Consciousness 2025 niaf042). All other cites web-verified clean: Dehaene/Lau/Kouider 2017 Science 358; Tegmark 2000 PRE 61:4194; Schwartz 1998 BJP Suppl 35; Kim 2005; Stapp 2007. Bidirectional cross-check: no dangling inline cites, no orphan refs.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (citation correction)
+- **Reasoning modes**: illusionism (Frankish/Dennett) Mode Two; Kim exclusion Mode Three; no label leakage
+- **Follow-up**: P1 corpus-wide task queued — same Marzbani→Yuan defect in concepts/mental-effort.md + research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md (propagation source)
+- **Output**: [[reviews/deep-review-2026-06-05-bidirectional-interaction]]
+
 ## 2026-06-05T17:00:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/marginal-organism-scope-of-value-sensitive-selection.md (fresh create, tenet-load-bearing minimal-organism terrain)
