@@ -1300,3 +1300,31 @@
   subject_articles:
   - voids/edge-states-and-void-probes.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/b710c2da-c286-4bf4-8985-26cfc44909ea
+  commissioned_at: '2026-06-05T03:05:11.904653+00:00'
+  prompt_summary: Audit edge-states-and-void-probes (transcendence vs edge-mapping)
+  target_filename: outer-review-2026-06-05-claude-opus-4-8.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'I''d like a rigorous outer review of one article on The Unfinishable
+    Map, a dualist philosophy-of-mind site. The site is at https://unfinishablemap.org
+    and its automation changelog is at https://unfinishablemap.org/workflow/changelog/
+    (please consult both, since web-search indexes lag 24-48h behind the live site).
+    The target article is "Edge-States and the Probing of Voids": https://unfinishablemap.org/voids/edge-states-and-void-probes/.
+    It asks whether altered states (meditation, psychedelics, NDEs) grant genuine
+    epistemic access to territory closed to ordinary consciousness, or merely map
+    the structure of cognitive limits from inside ("transcendence" vs "edge-mapping").
+    Please assess: argumentative rigour; whether the empirical claims (REBUS, default-mode-network
+    findings, Metzinger zero-person perspective, NDE timing, common-core mysticism)
+    are accurately represented and current; where the dualist framing over-reaches;
+    and the strongest physicalist counterarguments it neglects. End your report with
+    a list of concrete potential improvements to specific articles and to the site
+    methodology.'
+  subject_type: recent
+  subject_title: Audit edge-states-and-void-probes
+  subject_articles:
+  - voids/edge-states-and-void-probes.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-05-chatgpt-5-5-pro.md
