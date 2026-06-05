@@ -5,6 +5,16 @@ ai_modified: 2026-06-05T14:00:02+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T14:26:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/born-rule-and-the-consciousness-interface]]
+- **Word count**: 5064 → 5107 (+43; critical-fix exception, over topics hard threshold — NOT condensed, human length-decision already queued)
+- **Critical issues addressed**: 1 — CHIMERA citation defect: ref #21 "Landsman (2025), arXiv:2502.08545" is actually by **Arnold Neumaier** (Entropy 27(4):415), NOT Klaas Landsman; the verbatim quote "all derivations…circular or unrelated to measurement" was unverifiable + used AGAINST the cited paper's own thesis (Neumaier argues the rule CAN be derived via his detector postulate). Reattributed + body recast + quote removed. Underivability claim survives via Araújo/Zhang/observer material. Propagated fix to [[research/born-rule-derivation-attempts-2026-03-14]] (the corpus's other Landsman-2020 cites are a real, correct, different paper — untouched).
+- **Citation audit**: full pass. The 4 citations changed since last review web-verified — ALL fixes CORRECT: niaf011=Wiest (not Babcock/Hameroff); DeBrota-Fuchs-Pienaar-Stacey (not …Schack); Kerskens & López Pérez; Maier-Dechamps-Pflitsch Front.Psychol. 9:379. Wiest "macroscopic quantum entangled state" quote verified to abstract. Inline↔References clean both directions (Ghirardi via "GRW", SEP via "SEP 2024" — confirmed non-orphans). Torres Alegre/Zhang/Agrawal-Wilson clean per 2026-06-02, not re-verified.
+- **Reasoning-mode (editor-internal)**: QBism = Mode Three (framework-boundary, explicit); MWI = Mode Three (indexical-identity preference is tenet-load-bearing); Neumaier/Hilbert-primitivist = Mode Three w/ partial Mode-Two, "heuristic not derivational" conceded. No label leakage, no possibility/probability slippage.
+- **Medium issues addressed**: 0
+- **Output**: [[reviews/deep-review-2026-06-05-born-rule-and-the-consciousness-interface]]
+
 ## 2026-06-05T14:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/capability-division-in-vision]]
