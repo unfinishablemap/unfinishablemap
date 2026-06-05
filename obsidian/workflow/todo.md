@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review concepts/conscious-vs-unconscious-processing.md (changed-since-review staleness, gap ~7d)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/concepts/conscious-vs-unconscious-processing.md
-- **Notes**: Changed-since-review: ai_modified 2026-06-02, last_deep_review 2026-05-26 (~7-day gap), ai_contribution=100. Body changed AFTER its review = unreviewed new content (a large gap is a positive signal, not churn). HIGHEST recency-density of the staleness batch (~23 post-2020 year-tokens) — heavy empirical/cognitive-science citation load. WEB-VERIFY any post-2020 masking / priming / unconscious-processing citations (e.g. subliminal-priming, no-report paradigm, attention-vs-awareness studies) against the live literature; AI citation metadata is unreliable (see [[ai_citation_metadata_unreliable]]). PRESERVE calibration / evidential-status / citation-framing language; do not overstate what masking/priming dissociations establish about phenomenal vs access consciousness.
-- **Source**: staleness
-- **Generated**: 2026-06-05
-
 ### P2: Deep review topics/neurological-dissociations-as-interface-architecture.md (changed-since-review staleness, gap ~6d)
 - **Type**: deep-review
 - **Status**: pending
@@ -994,6 +986,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Deep review concepts/conscious-vs-unconscious-processing.md (changed-since-review staleness, gap ~7d)
+- **Type**: deep-review
+- **Notes**: Changed-since-review: ai_modified 2026-06-02, last_deep_review 2026-05-26 (~7-day gap), ai_contribution=100. Body changed AFTER its review = unreviewed new content (a large gap is a positive signal, not churn). HIGHEST recency-density of the staleness batch (~23 post-2020 year-tokens) — heavy empirical/cognitive-science citation load. WEB-VERIFY any post-2020 masking / priming / unconscious-processing citations (e.g. subliminal-priming, no-report paradigm, attention-vs-awareness studies) against the live literature; AI citation metadata is unreliable (see [[ai_citation_metadata_unreliable]]). PRESERVE calibration / evidential-status / citation-framing language; do not overstate what masking/priming dissociations establish about phenomenal vs access consciousness.
 
 ### ✓ 2026-06-05: Deep review topics/emotion-and-dualism.md (changed-since-review, gap ~6d)
 - **Type**: deep-review

@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-05T21:38:33+00:00
+ai_modified: 2026-06-05T21:48:15+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-05T21:48:15+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/conscious-vs-unconscious-processing]]
+- **Word count**: 3289 → 3290 (+1, length-neutral; 132% of 2500 soft target, under 3500 hard)
+- **Critical issues addressed**: 1 (wrong-author citation: niab043 "The nature of blindsight" was attributed to Overgaard & Fazekas; publisher-of-record verification — Oxford Academic, PubMed 35237447, PMC8884361 — confirms real authors are Derrien, Garric, Sergent & Chokron (2022). Real-paper/wrong-metadata → fixed not deleted; ref-list only, no inline name cite. Survived 6 prior reviews.)
+- **Medium issues addressed**: 0
+- **Enhancements made**: Full author-vector publisher-of-record web-verify of the post-2020 empirical cluster — Streicher et al. 2025 niaf042 CONFIRMED correct (validates the 06-02 corpus fix from fabricated "Randeniya"; the 05-26 review's "Randeniya" verdict was itself the error), Silverstein et al. 2015, Zher-Wen 2023 (single-author), Naccache & Marti 2016, Melloni et al. 2025 all confirmed. Empirical figures + directions (10%/8-of-80, <500ms decay, no-reliable-subliminal-integration) verified against sources.
+- **Reasoning-mode**: physicalist-reading engagement Mode Two→Mode Three (honest); no named-opponent refutation passages; no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-05-conscious-vs-unconscious-processing]]
 
 ## 2026-06-05T21:38:33+00:00 - deep-review
 - **Status**: Success
