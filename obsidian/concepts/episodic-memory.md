@@ -4,7 +4,7 @@ description: "Episodic memory is constructive re-experiencing, not data retrieva
 created: 2026-01-17
 modified: 2026-03-28
 human_modified: null
-ai_modified: 2026-06-03T00:00:00+00:00
+ai_modified: 2026-06-05T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,7 +51,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-05-27T02:30:37+00:00
+last_deep_review: 2026-06-05T00:00:00+00:00
 coalesced_from:
   - "/concepts/autonoetic-consciousness/"
   - "/concepts/constructive-memory/"
@@ -116,7 +116,7 @@ Constructive memory sharpens the [[hard-problem-of-consciousness|hard problem]] 
 
 Memory straddles two domains. Physical traces—synaptic patterns, engram cells, reconsolidation mechanisms—provide the substrate for encoding and storage. Yet the phenomenal character of recall, the selectional guidance during retrieval, and the autonoetic sense of re-experiencing cannot be located in those traces. The Unfinishable Map argues that memory is a **dual-domain capability**: a cognitive function whose full operation requires contributions from both the physical brain and non-physical consciousness, extending the Map's [[capability-division-problem|capability division problem]].
 
-Three features resist explanation in terms of engrams alone. **Autonoesis** is the phenomenal dimension distinguishing remembering from merely knowing—where the [[explanatory-gap]] opens. **Selectional guidance** during retrieval is goal-directed (Kube et al., 2025), but the *setting* of that goal requires purposive direction that physical descriptions of neural activation patterns do not provide—a gap where [[interactionist-dualism|non-physical consciousness]] contributes directional input. **Phenomenal colouring**—the qualitative character distinguishing vivid recall from dry knowledge—has no obvious physical correlate.
+Three features resist explanation in terms of engrams alone. **Autonoesis** is the phenomenal dimension distinguishing remembering from merely knowing—where the [[explanatory-gap]] opens. **Selectional guidance** during retrieval is goal-directed—retrieval serves present concerns rather than merely replaying the strongest trace—but the *setting* of that goal requires purposive direction that physical descriptions of neural activation patterns do not provide—a gap where [[interactionist-dualism|non-physical consciousness]] contributes directional input. The empirical signature is developed, with the interface reading held separate, in [[reconsolidation-as-selection-window]]. **Phenomenal colouring**—the qualitative character distinguishing vivid recall from dry knowledge—has no obvious physical correlate.
 
 ### Historical Precedents
 
@@ -207,6 +207,5 @@ Episodic memory supports all five foundational commitments.
 1. Klein, J. R. (2019). Memory and the extension of thinking in Descartes's *Regulae*. PhilArchive.
 1. Josselyn, S. A. & Tonegawa, S. (2020). Memory engrams: Recalling the past and imagining the future. *Science*, 367(6473), eaaw4325.
 1. Martin, C. B. & Deutscher, M. (1966). Remembering. *Philosophical Review*, 75(2), 161–196.
-1. Kube, T. et al. (2025). Reconsolidation and the goal-directedness of memory retrieval. *Frontiers in Cognition*, 4, 1518743.
 1. Kerskens, C. M. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
 1. Wiest, M. C. et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, 2025(1), niaf011.

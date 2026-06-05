@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-05T14:00:02+00:00
+ai_modified: 2026-06-05T17:00:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-05T17:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/episodic-memory]]
+- **Word count**: 2661 → 2661 (length-neutral; under 3500 hard cap)
+- **Citation audit**: Full live-literature web-verification of ALL 22 references. **1 defect found and fixed.** Schacter & Addis 2007 PTRSB 362(1481):773-786 verified (correctly the theoretical paper, not the empirical Addis/Wong/Schacter — trap a checked); Kerskens & López Pérez 2022 JPhCommun 6(10):105001 verified; Wiest 2025 niaf011 verified; Rosenbaum 2005 Neuropsychologia 43(7):989-1021 verified; Josselyn & Tonegawa 2020 Science 367(6473):eaaw4325 verified. No Einstein/McDaniel cite (trap b n/a).
+- **Critical issue addressed**: 1 — **fabricated/misattributed "Kube et al. (2025), Frontiers in Cognition 4:1518743"** (the DOI/article-id belongs to Hass-Cohen & Clay 2025, an unrelated arts-therapies paper; no author Kube). Unpropagated twin of a defect the sibling [[topics/consciousness-and-memory]] fixed 2026-06-03. Removed inline cite + reference; re-grounded the goal-directedness claim in prose + [[reconsolidation-as-selection-window]] cross-link (corpus-canonical resolution; claim is uncontroversial). Verbatim quote's true home is Lepsius 2026 New Ideas in Psychology 80:101221, verified real; this article paraphrases so carries no Lepsius ref.
+- **Reasoning-mode (editor-internal)**: illusionism/Frankish — Mode One; Type-B physicalism — Mode Two→Three. No label leakage.
+- **Calibration**: quantum-interface passage hedge preserved; no possibility/probability slippage.
+- **Medium issues addressed**: 0
+- **Output**: [[reviews/deep-review-2026-06-05-episodic-memory]]
+- **Note**: 7th review; converged. Sole change is the mandated full-audit citation fix.
 
 ## 2026-06-05T16:30:00+00:00 - deep-review
 - **Status**: Success
