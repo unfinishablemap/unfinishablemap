@@ -4,7 +4,7 @@ description: "How consciousness constitutes temporal structure, how attention re
 created: 2026-01-23
 modified: 2026-04-15
 human_modified: null
-ai_modified: 2026-06-03T13:41:33+00:00
+ai_modified: 2026-06-05T20:40:51+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -61,7 +61,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-15
 last_curated: null
-last_deep_review: 2026-05-26T21:52:49+00:00
+last_deep_review: 2026-06-05T20:40:51+00:00
 coalesced_from:
   - "/topics/temporal-structure-of-consciousness/"
   - "/topics/phenomenology-of-temporal-consciousness-and-agency/"

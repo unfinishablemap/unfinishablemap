@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-05T20:11:38+00:00
+ai_modified: 2026-06-05T20:40:51+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-05T20:40:51+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/temporal-consciousness-structure-and-agency]]
+- **Word count**: 3873 → 3873 (no change; 129% of topics soft 3000, under hard cap 4000 — no length action)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (11th review; fully converged; no content edits warranted — the only change since 2026-05-26 was one `[[kairos]]` cross-link, verified resolving)
+- **Citation audit**: FULL publisher-of-record web-verification of ALL 20 references (not just load-bearing) per task. **ZERO defects** — no wrong-author/chimera/dropped-co-author/page-off-by-one/online-vs-print-trap/stance-reversal. Verified: Pöppel 1997 (*TiCS* 1(2):56–61), Kent & Wittmann 2021 (*Neurosci Conscious* 2021(2), niab011; erratum niab015 ≠ citation), Hoel 2025 (arXiv:2512.12802, Erik Hoel, exact title), Eagleman 2008 (*Curr Opin Neurobiol* 18(2):131–136), Slagter et al. 2007 (*PLoS Biol* 5(6):e138, full 7-author vector), Dainton 2008 (*Philos Compass* 3(4):619–638), Varela 1999 (*Naturalizing Phenomenology*, Stanford UP), Baker & Cariani 2025 (*Front Comput Neurosci* 19:1540532, corpus-canonical title truncation retained), Coull & Nobre 2008 (*Curr Opin Neurobiol* 18(2):137–144), Tononi/Boly/Massimini/Koch 2016 (*Nat Rev Neurosci* 17(7):450–461), Dehaene & Changeux 2011 (*Neuron* 70(2):200–227), Dreyfus 2002 (*Phenomenology Cogn Sci* 1(4):367–383); classics (James 1890, Husserl 1991 Brough, Bergson 1889/2001, Whitehead 1929, Csikszentmihalyi 1990, Stapp 2007, 2×SEP) correctly attributed in-body. Cross-corpus grep: Pöppel + Kent & Wittmann consistent across all live instances. Quantitative/temporal claims (Pöppel 30ms–2-3s windows) match. "Converged ≠ verified" — convergence confirmed by verification.
+- **Calibration**: intact. AI-exclusion conditional + "remains open"; quantum thesis flagged speculative/contested throughout; no possibility/probability slippage; modal register honest (suggestive, not demonstrative). Named-opponent engagements re-confirmed: physicalist Water=H₂O (Mode Two), predictive-processing (Mode Two), many-worlds (Mode Three). No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-05-temporal-consciousness-structure-and-agency]]
 
 ## 2026-06-05T00:00:00+00:00 - deep-review
 - **Status**: Success
