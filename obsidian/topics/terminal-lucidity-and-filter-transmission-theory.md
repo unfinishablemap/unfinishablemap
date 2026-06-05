@@ -4,7 +4,7 @@ description: "Terminal lucidity—cognitive clarity returning despite severe bra
 created: 2026-01-16
 modified: 2026-04-11
 human_modified:
-ai_modified: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-06-05T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review: 2026-05-26T00:00:00+00:00
+last_deep_review: 2026-06-05T00:00:00+00:00
 coalesced_from:
   - "/concepts/terminal-lucidity/"
   - "/topics/terminal-lucidity-and-filter-transmission-theory/"
@@ -60,11 +60,11 @@ Nahm and Greyson's 2012 systematic review identified 83 cases spanning 250 years
 
 ### Modern Systematic Data
 
-Batthyány and Greyson's 2020 study provided the largest systematic modern dataset: 124 detailed case reports drawn from a survey of 900 nursing and medical staff across palliative care, neurological clinics, hospices, and dementia institutions in Austria, Germany, and Switzerland (2013–2019). More than 80% of cases showed complete remission with return of memory, orientation, and responsive verbal ability. The majority of patients died within hours to days after the lucid episode. Caregiver respondents reported witnessing at least one episode at rates between 61% and 100%, suggesting the phenomenon is far more common than its sparse presence in the medical literature would indicate.
+Batthyány and Greyson's 2021 study provided the largest systematic modern dataset: 124 detailed case reports drawn from a survey of 900 nursing and medical staff across palliative care, neurological clinics, hospices, and dementia institutions in Austria, Germany, and Switzerland (2013–2019). More than 80% of cases showed complete remission with return of memory, orientation, and responsive verbal ability. The majority of patients died within hours to days after the lucid episode. Caregiver respondents reported witnessing at least one episode at rates between 61% and 100%, suggesting the phenomenon is far more common than its sparse presence in the medical literature would indicate.
 
 ### Institutional and Public Recognition
 
-The U.S. National Institute on Aging held an expert workshop on paradoxical lucidity in 2018, subsequently funding multidisciplinary research projects. Mashour et al. (2019) proposed that systematic study of paradoxical lucidity could "motivate reconsideration of paradigms of dementia," calling for prospective clinical studies with EEG and biomarker monitoring.
+The U.S. National Institute on Aging held an expert workshop on paradoxical lucidity in 2018, subsequently funding multidisciplinary research projects (Eldadah et al., 2019). Mashour et al. (2019) proposed that systematic study of paradoxical lucidity could "motivate reconsideration of paradigms of dementia," calling for prospective clinical studies with EEG and biomarker monitoring.
 
 In 2025, terminal lucidity entered mainstream intellectual discourse when Charles Murray cited the evidence—including Batthyány's book-length treatment *Threshold* (2023)—as challenging strict materialism in a *Wall Street Journal* exchange with Steven Pinker. Murray compared materialism's current position to "Newtonian physics in 1887"—apparently secure but about to encounter phenomena it cannot accommodate. He acknowledged that terminal lucidity "implies that consciousness can exist independently of the brain" while conceding this remained "a speculative leap." Pinker dismissed the cases as caregiver overinterpretation. The exchange marked a cultural milestone: a major public intellectual treating the evidence seriously rather than relegating it to the margins (Murray, 2025).
 
@@ -74,7 +74,7 @@ Nahm (2022) clarified an important distinction: *paradoxical lucidity* is broade
 
 ## The Logical Structure of the Challenge
 
-The standard materialist framework rests on what Christopher (2022) calls the "loss-of-function lesion premise": brain damage reduces cognition, therefore cognition is brain-generated (see also Mancuso, 2023, for a systematic critique). This inference pattern is supported by extensive neuroscience—lesion studies, pharmacological manipulation, neuroimaging correlations. Terminal lucidity does not deny the general pattern. It exploits an asymmetry the pattern cannot accommodate.
+The standard materialist framework rests on what Christopher (2022) calls the "loss-of-function lesion premise": brain damage reduces cognition, therefore cognition is brain-generated (see also Masi, 2023, for a systematic critique). This inference pattern is supported by extensive neuroscience—lesion studies, pharmacological manipulation, neuroimaging correlations. Terminal lucidity does not deny the general pattern. It exploits an asymmetry the pattern cannot accommodate.
 
 In late-stage Alzheimer's disease, the brain has undergone massive neuronal loss, widespread amyloid plaque accumulation, and neurofibrillary tangle formation throughout the cortex. Cortical atrophy is substantial and irreversible. On a strict production model, these patients lack the neural substrate for complex cognition. Yet Batthyány and Greyson's dataset found that more than 80% showed complete remission—return of memory, orientation, and responsive verbal ability—with the majority dying within hours to days.
 
@@ -143,7 +143,7 @@ Terminal lucidity's evidential force has grown substantially over two decades:
 - **2009–2012**: Nahm coined the term and collected 83 historical cases with Greyson, establishing the phenomenon as a subject for academic study.
 - **2018**: The NIA held an expert workshop and subsequently funded research, legitimising terminal lucidity as a research priority.
 - **2019**: Mashour et al. proposed that systematic study could "motivate reconsideration of paradigms of dementia."
-- **2020**: Batthyány and Greyson's 124-case survey provided the largest modern dataset.
+- **2020–2021**: Batthyány and Greyson's 124-case survey (published 2021) provided the largest modern dataset.
 - **2025**: The Murray–Pinker exchange in the *Wall Street Journal* brought terminal lucidity into mainstream intellectual discourse.
 
 ## Relation to Site Perspective
@@ -170,13 +170,13 @@ Terminal lucidity's evidential force has grown substantially over two decades:
 
 1. Nahm, M., & Greyson, B. (2009). Terminal lucidity in patients with chronic schizophrenia and dementia. *Journal of Nervous and Mental Disease*, 197(12), 942–944.
 2. Nahm, M., Greyson, B., Kelly, E. W., & Haraldsson, E. (2012). Terminal lucidity: A review and a case collection. *Archives of Gerontology and Geriatrics*, 55(1), 138–142.
-3. Batthyány, A., & Greyson, B. (2020). Spontaneous remission of dementia before death: Results from a study on paradoxical lucidity. *Palliative & Supportive Care*.
+3. Batthyány, A., & Greyson, B. (2021). Spontaneous remission of dementia before death: Results from a study on paradoxical lucidity. *Psychology of Consciousness: Theory, Research, and Practice*, 8(1), 1–8.
 4. Mashour, G. A., Frank, L., Batthyány, A., et al. (2019). Paradoxical lucidity: A potential paradigm shift for the neurobiology and treatment of severe dementias. *Alzheimer's & Dementia*, 15(8), 1107–1114.
 5. Eldadah, B. A., et al. (2019). Lucidity in dementia: A perspective from the NIA. *Alzheimer's & Dementia*, 15(8), 1104–1106.
 6. Nahm, M. (2022). Terminal lucidity versus paradoxical lucidity: A terminological clarification. *Alzheimer's & Dementia*, 18(4).
 7. Kelly, E. F., Kelly, E. W., Crabtree, A., Gauld, A., Grosso, M., & Greyson, B. (2007). *Irreducible Mind: Toward a Psychology for the 21st Century*. Rowman & Littlefield.
 8. Christopher, T. (2022). Dualism 101: Terminal lucidity and an explanation. *Journal of Modern Physics*, 13, 1747–1761.
-9. Mancuso, L. (2023). An evidence-based critical review of the mind-brain identity theory. *Frontiers in Psychology*.
+9. Masi, M. (2023). An evidence-based critical review of the mind-brain identity theory. *Frontiers in Psychology*, 14, 1150605.
 10. Murray, C. (2025). Can science reckon with the human soul? *Wall Street Journal*, October 16, 2025.
 11. Bergson, H. (1896/1911). *Matter and Memory*. Swan Sonnenschein.
 12. James, W. (1898). Human immortality: Two supposed objections to the doctrine. Ingersoll Lecture, Harvard University.

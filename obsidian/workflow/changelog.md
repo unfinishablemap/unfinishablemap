@@ -5,6 +5,18 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T13:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/terminal-lucidity-and-filter-transmission-theory]]
+- **Word count**: 2881 → 2894 (+13; citation/attribution corrections only, no condensation, all calibration hedges preserved; ok at 96% of 3000 soft)
+- **Critical issues addressed**: 2 — (1) WRONG-AUTHOR: "Mancuso, L. (2023)" → **Masi, M. (2023)**, *Frontiers in Psychology* 14, 1150605 (DOI 10.3389/fpsyg.2023.1150605; PubMed 37965649; PhilPapers MASAEC-2). Real, correctly-titled paper carrying an incorrect surname — the real-paper-wrong-author defect class. Fixed body + ref 9. (2) WRONG-VENUE+YEAR: Batthyány & Greyson 124-case study cited as *Palliative & Supportive Care* (2020); actual venue **Psychology of Consciousness: Theory, Research, and Practice** 8(1):1–8 (2021), DOI 10.1037/cns0000259. "Palliative Care" likely from a UVA PDF filename. Fixed ref 3 + body "2020 study"→"2021" + Evidential-Trajectory bullet. Both missed by the 2026-05-26 review's internal-only attribution check ("converged ≠ verified").
+- **Medium issues addressed**: 0
+- **Low issues addressed**: 1 (orphan ref Eldadah et al. 2019 given an inline cite at the NIA-workshop sentence — now bidirectionally consistent)
+- **Citation audit (bidirectional + web-verified)**: VERIFIED CLEAN after fixes — Nahm & Greyson 2009/2012 (83 cases/250yr/55 authors/84% within 1wk/43% within 24h corroborated), Mashour 2019 Alz&Dem 15(8):1107–1114, Christopher (Ted Christopher) 2022 JMP 13:1747–1761, Murray 2025 WSJ Oct 16 (Newtonian-1887/Michelson-Morley, speculative-leap concession, Pinker overinterpretation, Batthyány Threshold 2023), Nahm 2022, Kelly et al. 2007, Bergson 1896, James 1898, Myers 1903 (restored prior review, intact), Huxley 1954. No dangling inline cites remain.
+- **Calibration**: No possibility/probability slippage. Constrain-vs-establish discipline explicit throughout; tenet-accepting reviewer would not flag overstatement. Preserved.
+- **Reasoning-mode classification (editor-internal)**: Pinker — Mode Three (boundary-marking, honest); generic materialist — Mode Two (unsupported foundational move, natural prose). No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-05-terminal-lucidity-and-filter-transmission-theory]]
+
 ## 2026-06-05T12:15:29+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/consciousness-as-amplifier]]

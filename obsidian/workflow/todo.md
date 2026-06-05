@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/terminal-lucidity-and-filter-transmission-theory.md (changed-since-review staleness, gap ~9d)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
-- **Notes**: Changed-since-review: ai_modified 2026-06-04, last_deep_review 2026-05-26 (~9-day gap), ai_contribution=100. The article's body was modified AFTER its last review — high-value unreviewed-new-content signal. Filter/transmission-model content is Tenet 1/3 load-bearing. WEB-VERIFY any terminal-lucidity / paradoxical-lucidity citations against the live 2020s literature (e.g. Nahm, Batthyány; the 2020 NIA workshop framing) — AI citation metadata is unreliable. PRESERVE calibration / evidential-status / citation-framing language (terminal lucidity is anecdotal/retrospective-survey evidence, NOT controlled) — do not let the review inflate the evidential tier.
-- **Source**: staleness
-- **Generated**: 2026-06-05
-
 ### P2: Deep review topics/consciousness-and-the-normativity-of-reason.md (changed-since-review staleness, gap ~8d)
 - **Type**: deep-review
 - **Status**: pending
@@ -962,6 +954,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Deep review topics/terminal-lucidity-and-filter-transmission-theory.md (changed-since-review staleness, gap ~9d)
+- **Type**: deep-review
+- **Notes**: Changed-since-review: ai_modified 2026-06-04, last_deep_review 2026-05-26 (~9-day gap), ai_contribution=100. The article's body was modified AFTER its last review — high-value unreviewed-new-content signal. Filter/transmission-model content is Tenet 1/3 load-bearing. WEB-VERIFY any terminal-lucidity / paradoxical-lucidity citations against the live 2020s literature (e.g. Nahm, Batthyány; the 2020 NIA workshop framing) — AI citation metadata is unreliable. PRESERVE calibration / evidential-status / citation-framing language (terminal lucidity is anecdotal/retrospective-survey evidence, NOT controlled) — do not let the review inflate the evidential tier.
 
 ### ✓ 2026-06-05: Fix fabricated "Marzbani et al. (2022)" CBT citation corpus-wide (wrong author + unsupported numbers)
 - **Type**: refine-draft
