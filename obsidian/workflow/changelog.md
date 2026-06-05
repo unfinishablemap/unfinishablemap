@@ -5,6 +5,16 @@ ai_modified: 2026-06-05T20:40:51+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T21:29:25+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/pragmatist-quantum-foundations-and-the-agent]]
+- **Word count**: 3517 → 3517 (0)
+- **Critical issues addressed**: 3 (citation metadata: Glick 2021 article number 42→53; Khrennikov 2016 pages 836–853→836–844; Healey arXiv year 2008→2010)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 prose changes (convergence holds; metadata-only fixes)
+- **Notes**: Fifth deep review, changed-since-review staleness. Quantum-foundations/physics-preprint class — ran full publisher-of-record + arXiv verification of all 15 references (author-vector, venue, volume, page/article number, year). Confirmed the 2026-06-03 DeBrota et al. 2021 four-author fix (DeBrota, Fuchs, Pienaar, Stacey; PRA 104 022207) is correct. Found 3 real-paper-wrong-metadata defects (fix-don't-delete): Glick EJPS 11:53 not 42; Khrennikov FoPh 46:836–844 not 836–853; Healey arXiv:1008.3896 is 2010 not 2008 (no 2008 version; later BJPS 63(4):729–771 2012). Two of three (Glick, Healey) survived four prior reviews because no prior pass web-verified article/page/year metadata — recency-density heuristic for post-2020 quantum cites paid off. Calibration hedges intact, no slippage; engagement modes re-confirmed (Healey Mode Two, QBist anti-realism Mode Three, MWI Mode Three); no label leakage. Length 117% soft, under hard.
+- **Output**: [[reviews/deep-review-2026-06-05-pragmatist-quantum-foundations-and-the-agent]]
+
 ## 2026-06-05T21:22:53+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/attention-as-interface]]
