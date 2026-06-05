@@ -5,6 +5,20 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T07:58:00+00:00 - deep-review
+- **Status**: Success — no critical issues; verification verdict
+- **File**: [[apex/taxonomy-of-voids]]
+- **Word count**: 4469 → 4469 (no change; 112% of 4000 soft, ~530w under 5000 hard)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (only carried-forward cosmetic "over sixty" under-count, left deferred)
+- **Enhancements made**: 0 (stability-confirming pass; frontmatter timestamps only)
+- **Scope**: Changed-since-review (~17d gap) verification of genuinely new content — Void Clustering Audit (origin-class four-way split + rival-framings table), Lawvere fixed-point-spine correction to cross-domain comparison, medium-status non-flatness exhibit, four-criteria propagation. Verified all integrate faithfully.
+- **Citation verification**: Bagwell 2023 *Synthese* 201:25 (FBT self-defeat), Lawvere spine, Trick & Pylyshyn 1994 / Cowan 2001, Gray 2003, Kay/Keogh/Pearson 2024, Halpern–Moses 1990 / Rubinstein 1989 all spot-checked against source articles — faithful.
+- **Discipline checks clean**: four-criteria inline deployment matches canonical apophatic-cartography-four-criteria; no possibility/probability slippage (tier-graduation correctly deferred to distinguishing tests; compatibility-vs-support distinction explicit); rival engagement is Mode Three boundary-marking in natural prose, no boundary-substitution; no label leakage; all spot-checked cross-links resolve live; no "This is not X. It is Y." cliché.
+- **Engagement modes**: rival-framings table (physicalism/illusionism/panpsychism/idealism) — Mode Three (framework-boundary marking; honestly compatible-not-discriminating, no refutation claimed).
+- **Not migrated/archived** (cited by P3 conjunction-coalesce placement task).
+- **Output**: [[reviews/deep-review-2026-06-05-taxonomy-of-voids]]
+
 ## 2026-06-05T12:45:00+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[voids/relevance-void]], [[voids/mattering-void]], [[apex/medium-status-voids-in-cognition]], [[research/voids-mattering-void-2026-02-19]], [[research/voids-relevance-void-2026-03-09]]
