@@ -37,6 +37,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Write article on the valence selection-advantage assay (design/methodology)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. See optimistic-2026-06-05d.md. Operationalise the first falsification condition of topics/marginal-organism-scope-of-value-sensitive-selection.md — how to design an assay discriminating value-sensitive from value-blind selection (defining "equally-salient neutral options"; detecting a selection step among neural patterns). Short, methodology-oriented. Assess-first + license-to-decline: check it isn't already covered before creating.
+
 ### P3: Verify Sauerland, Schell-Leugers & Sagana 2020 citation in topics/authorship-of-action-divergence.md
 - **Type**: refine-draft
 - **Status**: pending
