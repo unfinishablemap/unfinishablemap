@@ -5,6 +5,12 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T12:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/mental-effort]] (+ propagation root [[research/clinical-neuroplasticity-bidirectional-causation-2026-03-21]])
+- **Changes**: Corrected the THIRD fabricated-author citation on the clinical-neuroplasticity cluster (template fix from bidirectional-interaction 2026-06-05). "Marzbani, H. et al. (2022)" on *Frontiers in Psychology* 13:853804 is a chimera — DOI 10.3389/fpsyg.2022.853804 is actually Yuan, S., et al. (2022) (web-verified via Frontiers + PMC9112423); "Marzbani, H." is a real but unrelated author. Corrected author to Yuan et al. in BOTH files (body inline + References entry). DROPPED the unsupported "302 depressed subjects / 18 experiments / right-amygdala decrease / CBT-top-down-vs-SSRI-bottom-up" numbers that do NOT match Yuan et al. (actual: 13 studies, ~87 MDD subjects, prefrontal/precuneus focus). Re-grounded to what Yuan supports ("consistent fronto-limbic activation changes"); kept the genuine top-down/bottom-up dual-process asymmetry but HEDGED it as a working hypothesis from the broader treatment-mechanism literature. Calibration-preserving — no load-bearing thesis weakened. Research note (propagation source) fixed in body bullets + References to seal re-propagation. Archive copy (frozen) left untouched. Updated ai_modified.
+- **Published**: yes
+
 ## 2026-06-05T11:53:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/bidirectional-interaction]]

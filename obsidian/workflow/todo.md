@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Fix fabricated "Marzbani et al. (2022)" CBT citation corpus-wide (wrong author + unsupported numbers)
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/mental-effort.md
-- **Notes**: Flagged + web-verified by /deep-review 2026-06-05 of concepts/bidirectional-interaction.md (already FIXED there). THIRD fabricated-author citation on the clinical-neuroplasticity cluster (siblings of the Marueckova/Randeniya fixes), and it survived 5 prior reviews because author+year matched. The cite "Marzbani, H., et al. (2022). Neural effects of cognitive behavioral therapy in psychiatric disorders... *Frontiers in Psychology*, 13, 853804" is a CHIMERA: (a) WRONG AUTHOR — DOI 10.3389/fpsyg.2022.853804 is by **Yuan, S., Wu, H., Wu, Y., Xu, H., Yu, J., Zhong, Y., Zhang, N., Li, J., Xu, Q., & Wang, C. (2022)**, web-verified via Frontiers + PMC9112423; "Marzbani, H." is a real but UNRELATED author (Marzbani, Marateb & Mansourian 2016 neurofeedback review, *Basic & Clinical Neuroscience* 7(2):143-158). (b) UNSUPPORTED NUMBERS — the claim "302 depressed subjects, 18 experiments, CBT decreases right amygdala via top-down vs SSRI bottom-up" does NOT match Yuan et al. (actual: 13 studies, ~87 MDD subjects, prefrontal/precuneus focus, no right-amygdala / top-down-vs-bottom-up contrast). Fix in TWO files: (1) `obsidian/concepts/mental-effort.md` ~line 106 body + ref ~line 181 — correct author to Yuan et al. (2022) and re-ground the claim (drop "302 subjects"; the genuine top-down/bottom-up dual-process asymmetry IS supportable from the broader treatment-mechanism literature, hedge it). (2) `obsidian/research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md` lines 78-84 + ref 215 — this is the PROPAGATION SOURCE; correct it to stop reinjection. See the calibration-preserving fix already applied in bidirectional-interaction.md as the template. `archive/concepts/mental-causation.md` carries it too (archived, low priority). See [[reviews/deep-review-2026-06-05-bidirectional-interaction]], [[ai-citation-metadata-unreliable]], [[citation-verify-false-negative]] (distinguish wrong-author from fabricated).
-- **Source**: deep-review
-- **Generated**: 2026-06-05
-
 ### P3: Write article on the valence selection-advantage assay (design/methodology)
 - **Type**: expand-topic
 - **Status**: pending
@@ -930,6 +922,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Fix fabricated "Marzbani et al. (2022)" CBT citation corpus-wide (wrong author + unsupported numbers)
+- **Type**: refine-draft
+- **Notes**: Flagged + web-verified by /deep-review 2026-06-05 of concepts/bidirectional-interaction.md (already FIXED there). THIRD fabricated-author citation on the clinical-neuroplasticity cluster (siblings of the Marueckova/Randeniya fixes), and it survived 5 prior reviews because author+year matched. The cite "Marzbani, H., et al. (2022). Neural effects of cognitive behavioral therapy in psychiatric disorders... *Frontiers in Psychology*, 13, 853804" is a CHIMERA: (a) WRONG AUTHOR — DOI 10.3389/fpsyg.2022.853804 is by **Yuan, S., Wu, H., Wu, Y., Xu, H., Yu, J., Zhong, Y., Zhang, N., Li, J., Xu, Q., & Wang, C. (2022)**, web-verified via Frontiers + PMC9112423; "Marzbani, H." is a real but UNRELATED author (Marzbani, Marateb & Mansourian 2016 neurofeedback review, *Basic & Clinical Neuroscience* 7(2):143-158). (b) UNSUPPORTED NUMBERS — the claim "302 depressed subjects, 18 experiments, CBT decreases right amygdala via top-down vs SSRI bottom-up" does NOT match Yuan et al. (actual: 13 studies, ~87 MDD subjects, prefrontal/precuneus focus, no right-amygdala / top-down-vs-bottom-up contrast). Fix in TWO files: (1) `obsidian/concepts/mental-effort.md` ~line 106 body + ref ~line 181 — correct author to Yuan et al. (2022) and re-ground the claim (drop "302 subjects"; the genuine top-down/bottom-up dual-process asymmetry IS supportable from the broader treatment-mechanism literature, hedge it). (2) `obsidian/research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md` lines 78-84 + ref 215 — this is the PROPAGATION SOURCE; correct it to stop reinjection. See the calibration-preserving fix already applied in bidirectional-interaction.md as the template. `archive/concepts/mental-causation.md` carries it too (archived, low priority). See [[reviews/deep-review-2026-06-05-bidirectional-interaction]], [[ai-citation-metadata-unreliable]], [[citation-verify-false-negative]] (distinguish wrong-author from fabricated).
 
 ### ✓ 2026-06-05: Deep review concepts/bidirectional-interaction.md (changed-since-review staleness, gap ~8d)
 - **Type**: deep-review
