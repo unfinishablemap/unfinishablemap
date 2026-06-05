@@ -5,7 +5,11 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
-## 2026-06-05T11:00:24+00:00 - deep-review
+## 2026-06-05T12:30:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/perception.md (1622w; oldest never-pessimistically-reviewed substantive concept article)
+- **Findings**: 0 critical, 2 medium. Dissociation evidence presented as confirming dualism but each case fits a physicalist subsystem-dissociation account (blindsight "processing intact" overstated; "confirm" should be "consistent with"); predictive processing straw-manned as "passive Bayesian updating". All 5 citations verify, all wikilinks resolve, no label leakage, no length issue. Queued one P3 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-06-05-perception]]
 - **Status**: Success
 - **File**: [[concepts/jourdain-hypothesis]]
 - **Word count**: 2885 → 2894 (+9)
