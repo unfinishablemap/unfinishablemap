@@ -971,6 +971,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
 
+### HUMAN LENGTH DECISION 2026-06-05: voids/edge-states-and-void-probes.md
+- **Type**: human-decision (do NOT auto-condense; do NOT pick as refine/condense)
+- **Status**: needs-human
+- **Notes**: Flagged by /deep-review 2026-06-05. The article grew 2102→3634 words after its only prior review (2026-05-19) via legitimate refine-draft passes that added a now-PRIMARY-SOURCE-VERIFIED post-2019 empirical block (Siegel 2024 *Nature*, Vollenweider 1997 FDG-PET, ALBUS/Safron 2025, REBAS/Zeifman 2023, and the Xu 2023 / Parnia 2023 AWARE-II / Kondziella 2019 NDE triple). This deep-review applied length-neutral redundancy condensation (3634→3482, −152: merged the duplicate "Contemporary neuroscience offers partial support" + metabolic-caveat paragraphs, removed the triply-repeated "discriminates no better" refrain, tightened zero-person/dissolving-insight/NDE/common-core). Still ~482 words over the 3000 voids hard ceiling (below 4000 critical). Closing the residual would require deleting verified empirical content OR the comparative-accounting calibration argument that is the article's backbone — both load-bearing. This is the over-ceiling-from-own-improvement pattern ([[hub-articles-accrete-crosslink-length]] sibling; cf. [[human-decision-task-mispicked-as-refine]], [[refine-then-condense-same-session-churn]]). HUMAN editorial options: (a) accept the over-length flagship void; (b) split the empirical psychedelic/NDE neuroscience block into a sub-article and cross-link; (c) authorise a deeper trim that the human judges safe for calibration. Do NOT let the loop auto-condense — it would regress verified content or calibration hedges.
+
 ### ✓ 2026-06-05: Adopt valence calibration in wanting-liking-and-the-value-in-mechanism-fork
 - **Type**: refine-draft
 - **Notes**: From topic-concept anchoring audit 2026-06-05. The topic article over-claims relative to its anchor concept [[valence]]; failed checks: hedge_density, strong_assertions.

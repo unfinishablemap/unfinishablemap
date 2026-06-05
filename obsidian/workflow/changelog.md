@@ -5,6 +5,18 @@ ai_modified: 2026-06-05T21:48:15+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T12:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/edge-states-and-void-probes]]
+- **Word count**: 3634 → 3482 (−152; still +482 over the 3000 voids hard ceiling)
+- **Critical issues addressed**: 0 (citation audit came back fully clean)
+- **Medium issues addressed**: 1 (length — length-neutral redundancy condensation; residual over-ceiling escalated to human length decision)
+- **Enhancements made**: 6 condensation passes (merged duplicate DMN/metabolic paragraphs, removed repeated "discriminates no better" refrain, tightened zero-person / dissolving-insight / NDE / common-core / "What the Edge Reveals" / "Approaches")
+- **Citation audit**: All 8 post-2019 empirical cites (added AFTER the only prior review and never primary-source-verified) web-verified clean — Siegel 2024 *Nature* 632:131-138, Vollenweider 1997 *Neuropsychopharm* 16(5):357-372, ALBUS/Safron 2025 *Neurosci Consc* niae038, REBAS/Zeifman 2023 *Sci Rep* 13:3083, Xu 2023 *PNAS* 120(19):e2216268120, Parnia 2023 AWARE-II *Resuscitation* 191, Kondziella 2019 *PeerJ* e7585 (47% vs 14% direction confirmed), Brewer 2011 *PNAS* 108(50). Gładziejewski 2023 *Rev Phil Psych* 16:175-197 vol/pages confirmed. No fabrication/misattribution/finding-reversal.
+- **Reasoning modes** (editor-internal): materialist-deflation Mode Two; confabulation Mode Two+boundary; Metzinger zero-person Mode Three (honest, refuses to enlist). No label leakage.
+- **Escalation**: residual ~482w over hard ceiling = over-ceiling-from-own-improvement (verified empirical block + load-bearing calibration argument); queued HUMAN LENGTH DECISION in Blocked Tasks, NOT auto-condense.
+- **Output**: [[reviews/deep-review-2026-06-05-edge-states-and-void-probes]]
+
 ## 2026-06-05T22:16:18+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/steelmanning-as-method]]
