@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-05T10:30:00+00:00
+ai_modified: 2026-06-05T12:05:00+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,46 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review topics/terminal-lucidity-and-filter-transmission-theory.md (changed-since-review staleness, gap ~9d)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
+- **Notes**: Changed-since-review: ai_modified 2026-06-04, last_deep_review 2026-05-26 (~9-day gap), ai_contribution=100. The article's body was modified AFTER its last review — high-value unreviewed-new-content signal. Filter/transmission-model content is Tenet 1/3 load-bearing. WEB-VERIFY any terminal-lucidity / paradoxical-lucidity citations against the live 2020s literature (e.g. Nahm, Batthyány; the 2020 NIA workshop framing) — AI citation metadata is unreliable. PRESERVE calibration / evidential-status / citation-framing language (terminal lucidity is anecdotal/retrospective-survey evidence, NOT controlled) — do not let the review inflate the evidential tier.
+- **Source**: staleness
+- **Generated**: 2026-06-05
+
+### P2: Deep review topics/consciousness-and-the-normativity-of-reason.md (changed-since-review staleness, gap ~8d)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/topics/consciousness-and-the-normativity-of-reason.md
+- **Notes**: Changed-since-review: ai_modified 2026-06-04, last_deep_review 2026-05-27 (~8-day gap), ai_contribution=100. Body changed after its last review. Touches reasoning/agency and the Carroll's-regress / rational-normativity cluster (Tenet 3). WEB-VERIFY any philosophy-of-reasons / normativity citations against the live literature; AI citation metadata is unreliable. PRESERVE calibration and evidential-status qualifiers and the tenet-bracketing language; do not strengthen modal claims beyond what the sources support.
+- **Source**: staleness
+- **Generated**: 2026-06-05
+
+### P3: Deep review concepts/substance-property-dualism.md (changed-since-review staleness, gap ~8d)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/concepts/substance-property-dualism.md
+- **Notes**: Changed-since-review: ai_modified 2026-06-04, last_deep_review 2026-05-27 (~8-day gap), ai_contribution=100. Body changed after review. Tenet 1 (Dualism) load-bearing taxonomy hub. WEB-VERIFY any historical/contemporary citations (Descartes scholarship, contemporary property-dualism literature) against the live record. PRESERVE calibration / evidential-status / citation-framing language; do not collapse the substance-vs-property distinction the article maintains.
+- **Source**: staleness
+- **Generated**: 2026-06-05
+
+### P3: Deep review topics/neural-refresh-rates-and-the-smoothness-problem.md (changed-since-review staleness, gap ~8d)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/topics/neural-refresh-rates-and-the-smoothness-problem.md
+- **Notes**: Changed-since-review: ai_modified 2026-06-04, last_deep_review 2026-05-26 (~8-day gap), ai_contribution=100. Body changed after review. Empirical claims (neural sampling/refresh rates, perceptual smoothness, attentional sampling rhythms) carry citation risk — WEB-VERIFY any sampling-rate / discrete-perception citations (e.g. VanRullen, Busch) against the live 2020s literature; AI citation metadata is unreliable. PRESERVE calibration / evidential-status / citation-framing language; keep the speculative framing intact.
+- **Source**: staleness
+- **Generated**: 2026-06-05
+
+### P3: Deep review concepts/ai-epiphenomenalism.md (changed-since-review staleness, gap ~9d)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/concepts/ai-epiphenomenalism.md
+- **Notes**: Changed-since-review: ai_modified 2026-06-04, last_deep_review 2026-05-26 (~9-day gap), ai_contribution=100. Body changed after review. Bears directly on AI-consciousness epistemics (Tenet 1 contrast position). WEB-VERIFY any epiphenomenalism / AI-consciousness citations against the live literature. PRESERVE calibration / evidential-status / citation-framing and the training-contamination confound framing; do not overstate what introspective reports from AI systems can establish.
+- **Source**: staleness
+- **Generated**: 2026-06-05
 
 ### P3: Write article on the valence selection-advantage assay (design/methodology)
 - **Type**: expand-topic
