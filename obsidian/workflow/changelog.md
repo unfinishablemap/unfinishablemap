@@ -5,6 +5,16 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T06:30:00+00:00 - deep-review
+- **Status**: Success (converged — one cosmetic fix)
+- **File**: [[concepts/anti-correlated-metacognitive-signal]]
+- **Word count**: 2617 → 2617 (no change; 105% of concepts soft threshold, well under hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 content; 1 cosmetic
+- **Enhancements made**: 1 (renamed leftover heading anchor `{#coutinho}` → `{#rebouillat}`; heading reads "The Rebouillat 2021 Finding" so the old slug was a confusing mismatch — grep confirmed ZERO inbound links to `#coutinho`, so the rename honours the W22 caveat that the anchor be renamed only when no inbound links break)
+- **Scope**: 2nd deep review (~17d gap). Re-verified citation discipline: the Rebouillat/Leonetti/Kouider (2021) niab004 attribution is CORRECT and corpus-converged (the "Coutinho" form is the disproven legacy attribution, fixed corpus-wide in the W22 sweep). Dijkstra & Fleming (2024) *Journal of Vision* 24(5) and Fleming (2024) *Annual Review of Psychology* 75:149–176 match other corpus files exactly. Calibration diagnostic PASSES — §Discrimination frames its asymmetry-breaker as "calibration-grade rather than absence-proof"; §Relation-to-Site explicitly declines tenet-as-evidence-upgrade and is silent on Tenets 2/4/5 (no possibility/probability slippage). No named-opponent in-framework refutation, so no Mode classification needed; no editor-label leakage. All cross-links resolve. Pessimistic personas surface only bedrock framework-boundary disagreements (eliminativist/Dennettian/Nagarjunan), already absorbed and noted in the prior review. Article is stable.
+- **Output**: [[reviews/deep-review-2026-06-05-anti-correlated-metacognitive-signal]]
+
 ## 2026-06-05T06:18:22+00:00 - deep-review
 - **Status**: Success (no content changes — converged)
 - **File**: [[voids/confabulation-void]]

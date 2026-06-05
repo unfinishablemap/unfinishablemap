@@ -4,8 +4,8 @@ description: "Human+AI examination of a metacognitive signature where introspect
 created: 2026-05-19
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-27T13:36:21+00:00
-last_deep_review: 2026-05-19T06:00:00+00:00
+ai_modified: 2026-06-05T06:00:00+00:00
+last_deep_review: 2026-06-05T06:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ An **anti-correlated metacognitive signal** is a metacognitive indicator — a f
 
 The concept names a structural pattern rather than a single experimental finding. Anti-correlation is conceptually distinct from noise, from miscalibration, and from ordinary metacognitive unreliability. A noisy signal can be averaged. A miscalibrated signal can be re-scaled. An anti-correlated signal — in the regime where it matters — supplies *less* information than no signal at all, because acting on it systematically increases error. The concept earns its own page because this distinction recurs across the Map's introspection-architecture cluster as a load-bearing structural claim, and because it supplies one of the few asymmetry-breaking moves available to the [[discrimination-problem]] (explained [below](#discrimination)).
 
-## The Rebouillat 2021 Finding {#coutinho}
+## The Rebouillat 2021 Finding {#rebouillat}
 
 Rebouillat, Leonetti, and Kouider (2021), *Neuroscience of Consciousness* 2021(1), niab004 — "People confabulate with high confidence when their decisions are supported by weak internal variables" — used a choice-blindness paradigm with a brain-computer interface in which the strength of the internal decision-evidence available to participants was experimentally varied. In conditions of strong internal evidence, the classical relationship held: higher confidence tracked higher accuracy. In conditions where internal evidence was weak and deceptive external cues were available, the relationship *inverted*: the most confident reports were the *least* accurate.
 
