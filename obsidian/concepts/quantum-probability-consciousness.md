@@ -4,7 +4,7 @@ description: "Born probabilities describe the consciousness-quantum interface: n
 created: 2026-01-23
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-06-05T23:35:10+00:00
+ai_modified: 2026-06-05T23:43:47.737918+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,6 +28,7 @@ related_articles:
   - "[[quantum-measurement-subjective-probability-2026-01-23]]"
   - "[[what-consciousness-tells-us-about-physics]]"
   - "[[completeness-in-physics-epr-bell-2026-03-14]]"
+  - "[[selection-only-channel]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
@@ -146,7 +147,7 @@ The interface view does not require sustained coherence. It requires only that c
 
 ## Conservation Laws and Selection
 
-The selection-versus-injection distinction dissolves the [[conservation-laws-and-mental-causation|energy conservation objection]] to mental causation. When consciousness selects among outcomes that quantum mechanics already permits, it doesn't add energy—the possible outcomes are already present in the superposition. The Born rule's probability distribution describes energetically-equivalent possibilities; selecting among them respects conservation laws, aligning with the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet.
+The selection-versus-injection distinction dissolves the [[conservation-laws-and-mental-causation|energy conservation objection]] to mental causation. When consciousness selects among outcomes that quantum mechanics already permits, it doesn't add energy—the possible outcomes are already present in the superposition. The Born rule's probability distribution describes energetically-equivalent possibilities; selecting among them respects conservation laws, aligning with the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet. The [[selection-only-channel]] gives this its information-theoretic form: a pure selector among brain-prepared alternatives is bounded to log₂(N) bits per event and preserves Born statistics across trials.
 
 ## The Illusionist Challenge
 

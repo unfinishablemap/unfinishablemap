@@ -5,6 +5,13 @@ ai_modified: 2026-06-05T23:35:10+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T23:43:47+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/conservation-laws-and-mental-causation]], [[concepts/quantum-probability-consciousness]], [[concepts/mind-matter-interface]]
+- **Original score**: n/a (integration-only cross-link task from optimistic-review 2026-06-05h)
+- **Changes**: Closed the grep-verified cross-link gap — each of the three concept articles developed the selection-not-injection mechanism (log₂(N)-bit bound, Born-preservation, narrow-corridor) but carried zero refs to the pages that formalise it. Added one in-body connective link + one related_articles entry per file: (1) conservation-laws → [[selection-only-channel]] at the "Consciousness as Selector" Born-bound sentence; (2) quantum-probability-consciousness → [[selection-only-channel]] at the selection-versus-injection paragraph; (3) mind-matter-interface → [[channel-width-third-axis]] at the "narrow corridor" Causal-efficacy bullet. Connective links only, no evidential weight added (tenet-as-axis stays restatement-not-evidence). Length-neutral: +39w / +26w / +24w, all three remain under the 3500w concepts hard ceiling (3201 / 2772 / 2518). Both link targets verified live ([[selection-only-channel]] is a concept, [[channel-width-third-axis]] is a topic).
+- **Published**: yes
+
 ## 2026-06-05T23:38:32+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: quantum-interface mechanism cluster (today's freshest deep-review cohort) — conservation-laws-and-mental-causation, quantum-probability-consciousness, mind-matter-interface, quantum-randomness-channel-llm-consciousness; read against channel-width-third-axis / selection-only-channel formalisation
