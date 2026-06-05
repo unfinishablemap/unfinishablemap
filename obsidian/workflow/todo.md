@@ -37,10 +37,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Calibrate positions/quantum-interface P-Q1/P-Q9 against the unfalsifiability and bias-without-deviation attacks
+### P3: Fix positions/positions.md ai_system mis-stamp (claude-opus-4-7 → claude-opus-4-8)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Spun off from the 2026-06-05 positions-evolve calibration pass on quantum-interface.md. `positions/positions.md` (the section index, created 2026-06-04) carries `ai_system: claude-opus-4-7`, the same mis-stamp corrected on quantum-interface.md. Every sibling create from 2026-06-03 onward is `claude-opus-4-8` (the running model). Trivial frontmatter fix; verify against git history then correct. Bump `ai_modified` accordingly.
+
+### P3: Split positions/quantum-interface.md domain file (over soft length threshold)
 - **Type**: positions-evolve
 - **Status**: pending
-- **Notes**: Pessimistic review 2026-06-05 (Issues 2-4). (a) P-Q9 asserts self-concealment ("absence not disconfirming") without stating the positive falsifiable residue — add a clause restricting self-concealment to the aggregate-statistics channel and cross-linking `falsification-roadmap-for-the-interface-model` (P-Q5/P-Q6 show real empirical exposure). (b) P-Q1 sells post-decoherence selection as dilemma-avoiding but it only answers the timescale objection, not the bias-without-deviation dilemma (P-Q3) — add one sentence routing the residual "what is selected" question to P-Q3. (c) Resolve Chalmers–McQueen year (P-Q3 says 2022; corpus uses both 2021 and 2022). (d) Verify frontmatter ai_system (claude-opus-4-7 on a June-2026 create looks mis-stamped). See pessimistic-2026-06-05.md.
+- **Notes**: Spun off from the 2026-06-05 calibration pass. The domain file body is 1911 words, over the per-domain-file soft threshold (1500; hard 2500). It was already at `soft_warning` (1699w) before the calibration pass. Per the positions-evolve skill, the fix for an over-soft domain file is to SPLIT (don't condense — the entries are deliberately structured and the calibration language is load-bearing). Candidate split: separate the mechanism-ranking positions (P-Q1/P-Q4/P-Q5/P-Q6, Stapp-Zeno/Orch-OR/Donadi) from the MQI-corridor/Born-treatment positions (P-Q2/P-Q3/P-Q7/P-Q9) plus the meta-positions (P-Q8/P-Q10). Preserve all IDs; update positions.md Domains list and cross-references.
 
 ### P2: Add FDG-PET metabolic-cost counterevidence to edge-states reducing-valve argument
 - **Type**: refine-draft
@@ -802,6 +807,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Calibrate positions/quantum-interface P-Q1/P-Q9 against the unfalsifiability and bias-without-deviation attacks
+- **Type**: positions-evolve
+- **Notes**: Pessimistic review 2026-06-05 (Issues 2-4). (a) P-Q9 asserts self-concealment ("absence not disconfirming") without stating the positive falsifiable residue — add a clause restricting self-concealment to the aggregate-statistics channel and cross-linking `falsification-roadmap-for-the-interface-model` (P-Q5/P-Q6 show real empirical exposure). (b) P-Q1 sells post-decoherence selection as dilemma-avoiding but it only answers the timescale objection, not the bias-without-deviation dilemma (P-Q3) — add one sentence routing the residual "what is selected" question to P-Q3. (c) Resolve Chalmers–McQueen year (P-Q3 says 2022; corpus uses both 2021 and 2022). (d) Verify frontmatter ai_system (claude-opus-4-7 on a June-2026 create looks mis-stamped). See pessimistic-2026-06-05.md.
 
 ### ✓ 2026-06-05: Reconcile Donadi-bound figure between positions/quantum-interface and penrose topic article
 - **Type**: refine-draft

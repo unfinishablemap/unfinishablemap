@@ -5,6 +5,20 @@ ai_modified: 2026-06-05T09:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T12:00:00+00:00 - positions-evolve (update / calibration)
+- **Status**: Success
+- **Files**: [[positions/quantum-interface]] (P-Q1, P-Q9; frontmatter)
+- **Mode**: update — honesty-calibration pass against pessimistic-2026-06-05 Issues 2–4. No retire, no confidence-band change, no weakening.
+- **Changes**:
+  - **P-Q9 (Issue 2)**: added a clause restricting self-concealment to the *aggregate-statistics channel* only (not a global unfalsifiability shield) and naming the positive falsifiable residue — mechanism-level exposure (P-Q5/P-Q6, the Donadi falsification that did bite) and the falsification roadmap. Added `[[topics/falsification-roadmap-for-the-interface-model]]` to "Argued in" and P-Q5/P-Q6 to "Depends on". Inserted an Updated-2026-06-05 history note; Last reviewed → 2026-06-05.
+  - **P-Q1 (Issue 3)**: added one sentence confining the post-decoherence advantage to the *decoherence-timescale* axis and routing the residual "what is selected / how without deviation" question to P-Q3 (so P-Q1 no longer reads as resolving a dilemma it only relocates). Added "P-Q3 (inherits its open dilemma)" to "Depends on". History note + Last reviewed → 2026-06-05.
+  - **Chalmers–McQueen year (Issue 4c)**: WEB-VERIFIED. P-Q3's "2022" is the canonical *published-version* year (Oxford Academic, Gao ed. *Consciousness and Quantum Mechanics*, online edn 20 Oct 2022). Corpus "2021" datings refer to the arXiv preprint 2105.02314. P-Q3 is correct as written — NO change made. Corpus-wide preprint-vs-published inconsistency exists but is not an error per file; not in scope to mass-fix.
+  - **Frontmatter `ai_system` (Issue 4d)**: corrected `claude-opus-4-7` → `claude-opus-4-8`. Confirmed mis-stamp: every sibling create from 2026-06-03 onward is opus-4-8 (the running model per CLAUDE.md/changelog); a 2026-06-04 create being opus-4-7 is inconsistent. `positions/positions.md` carries the SAME `ai_system: claude-opus-4-7` anomaly (out of scope here — flag for a follow-up correction).
+- **Cascade**: P-Q9 now depends on P-Q5/P-Q6 (both `live`, `high`/`moderate` — healthy). P-Q1 now depends on P-Q3 (`live`, `moderate` — healthy). No downstream re-audit required.
+- **Length note**: body 1699 → 1911 words; already at `soft_warning` (soft 1500) before this pass, still under hard (2500). Per skill guidance the fix for an over-soft domain file is to SPLIT, not condense (condensing would drop the calibration language this pass exists to add). Flagged as a follow-up.
+- **Validated**: ✓ clean.
+- **Published**: yes (draft: false register; live on sync)
+
 ## 2026-06-05T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/penrose-gravity-induced-collapse-empirical-prospects]]
