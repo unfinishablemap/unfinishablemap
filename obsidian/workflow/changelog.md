@@ -5,6 +5,16 @@ ai_modified: 2026-06-05T03:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T04:48:15+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/edge-states-and-void-probes]]
+- **Source**: outer review 2026-06-05 Claude Opus 4.8 (rec A2 — Metzinger co-optation), [[reviews/outer-review-2026-06-05-claude-opus-4-8]]
+- **Changes**: Corrected the co-optation of Metzinger (counterargument absorption per direct-refutation-discipline). (1) Rewrote the *Zero-Person Perspective* section to state Metzinger's naturalistic MPE conclusion explicitly first — pure awareness as the content of a Bayesian tonic-alertness model, brain-dependent; self-eliminativism (*Being No One*); the "E-fallacy" warning against reading metaphysics off phenomenology — then recast the dualist reading *as* a disagreement within his framing rather than support borrowed from it. (2) Honoured evidential-status: stated MPE/zero-person UNDERdetermines dualism (equally a physicalist self-model-offline story, lighter on parsimony); dualist inference held open, not established. (3) De-quoted the uncited "completely open to the possibility of any epistemic state" phrase (Epistemic-openness bullet) to a paraphrase per ai-citation-metadata-unreliable; added a forward-anchor to the section. Added Metzinger 2020 (*Philosophy and the Mind Sciences* 1(I), DOI 10.33735/phimisci.2020.I.46) to References and renumbered.
+- **Engagement classification**: Metzinger: Mode Two (unsupported foundational move re-attributed — the article had borrowed a naturalist's vocabulary for the opposite conclusion; fix invokes Metzinger's own naturalistic commitments to show MPE does not license the dualist inference) shading to Mode Three (the residual dualist reading is declared a framework-boundary possibility, held open not refuted). Underdetermination noted honestly.
+- **Length**: 2119 → 2379 words (soft_warning, under 3000 hard; mechanical, no ballooning). validate ✓.
+- **Scope note**: Distinct from the ChatGPT consolidation task (Metzinger not covered there). Other review recs (cash-out the convergence-cost claim, REBUS/DMN/NDE currency, illusionism, quantum quarantine) left for their own tasks.
+- **Published**: yes
+
 ## 2026-06-05T05:00:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `positions/quantum-interface.md` (P-Q1–P-Q10 quantum-interface positions register; freshest never-reviewed content file, ai_contribution 100). Found a verified cross-article quantitative contradiction on the Donadi 2021 bound (register correct vs primary source; topic article imprecise), a P-Q9 self-concealment/unfalsifiability gap missing its falsifiable-residue clause, P-Q1 inheriting the bias-without-deviation dilemma it claims to sidestep, and Chalmers–McQueen citation-year drift. Two P2 tasks queued (refine-draft topic-article reconcile; positions-evolve calibration pass).

@@ -4,7 +4,7 @@ description: "What consciousness encounters at its cognitive boundaries—ineffa
 created: 2026-01-19
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-29T01:01:19+00:00
+ai_modified: 2026-06-05T04:48:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -62,7 +62,7 @@ Across contemplative traditions, psychedelic research, and philosophical inquiry
 
 **Temporal distortion.** Time stops, stretches, or becomes irrelevant.
 
-**Epistemic openness.** Thomas Metzinger, drawing on hundreds of reports from meditators on "minimal phenomenal experience," describes an "unobstructed epistemic space" where the agent is "completely open to the possibility of any epistemic state."
+**Epistemic openness.** Thomas Metzinger, drawing on hundreds of reports from meditators on "minimal phenomenal experience," describes an unpartitioned epistemic space in which the agent seems open to any epistemic state whatever. Metzinger reads this naturalistically (see [the zero-person perspective below](#the-zero-person-perspective)); the phenomenological feature is reported here independent of that reading.
 
 **Edge-clarity.** Extraordinary clarity arises precisely when conceptual processing has broken down; the failure is experienced as transparent seeing rather than fog.
 
@@ -94,7 +94,9 @@ The Map borrows REBUS's structural insight—ordinary consciousness is constrain
 
 Metzinger's work on minimal phenomenal experience (MPE) introduces the *zero-person perspective*. In ordinary experience there is always a subject; in MPE, awareness continues without the usual subject-object structure—non-conceptual, atemporal, non-egoic, aperspectival. Reports describe it as awareness, often more vivid than ordinary, but without the self who is usually aware.
 
-For the [[tenets#^dualism|dualist]] framework, this matters: if consciousness can operate stripped of all content yet remain aware, it is not identical with its contents or with the self-model normally present. The zero-person perspective may reveal what remains when everything else is subtracted.
+Metzinger himself reads this naturalistically, and the Map should not enlist him as an ally. He advances MPE as a *minimal-model explanation* under explicitly naturalistic assumptions: his central hypothesis is that pure awareness "really is the content of a predictive model, namely, a Bayesian representation of tonic alertness," realised by brain properties that on his account cannot exist without the brain (Metzinger 2020). He is an eliminativist about the self—*Being No One* argues that the conscious self is the transparent content of a brain-built model rather than a real entity—and in *The Elephant and the Blind* he names an "E-fallacy": the error of reading metaphysics directly off phenomenology. The selfless structure of MPE is, on his telling, exactly what a self-model going offline while tonic-alertness representation persists would feel like, and it requires nothing over and above neural processing.
+
+The [[tenets#^dualism|dualist]] reading takes the same phenomenology and asks whether the persisting awareness could be the consciousness Metzinger's model represents rather than the representation itself—that if awareness can remain when all content and the self-model are subtracted, it is at least a live possibility that awareness is not identical with its contents. This is a disagreement *within* Metzinger's framing, not support drawn from it: the zero-person perspective underdetermines the choice. It is equally describable as a Bayesian tonic-alertness model running with its self-partition switched off, and on standard parsimony grounds that physicalist reading carries the lighter commitment. The dualist inference is held open here, not established; against Metzinger's own E-fallacy warning it owes an argument the phenomenology by itself does not supply.
 
 ## The Dissolving-Insight Phenomenon
 
@@ -174,15 +176,16 @@ On this reading, the noetic quality is neither illusory nor evidence of transcen
 ## References
 
 1. Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press.
-2. James, W. (1902). *The Varieties of Religious Experience*. Longmans, Green.
-3. Carhart-Harris, R. & Friston, K. (2019). "REBUS and the Anarchic Brain: Toward a Unified Model of the Brain Action of Psychedelics." *Pharmacological Reviews*.
-4. Gładziejewski, P. (2024). "From Altered States to Metaphysics: The Epistemic Status of Psychedelic-induced Metaphysical Beliefs." *Review of Philosophy and Psychology*.
-5. Sjöstedt-Hughes, P. (2024). "The Bergsonian Metaphysics Behind Huxley's Doors." In *Philosophy and Psychedelics*. Springer.
-6. Stace, W. (1960). *Mysticism and Philosophy*. Macmillan.
-7. Facco, E. et al. (2015). "Epistemological implications of near-death experiences and other non-ordinary mental expressions." *Medical Hypotheses*.
-8. Huxley, A. (1954). *The Doors of Perception*. Chatto & Windus.
-9. Millière, R., et al. (2018). "Psychedelics, Meditation, and Self-Consciousness." *Frontiers in Psychology*, 9, 1475.
-10. Kutnyy, D. (2024). "The Boundaries of Cognitive Closure: Argument for Mysterianism in the Philosophy of Consciousness." PhilArchive.
-11. Kriegel, U. (2003). "The new mysterianism and the thesis of cognitive closure." *Acta Analytica*, 18, 177-191.
-12. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
-13. Katz, S. T. (1978). "Language, Epistemology, and Mysticism." In *Mysticism and Philosophical Analysis*. Oxford University Press.
+2. Metzinger, T. (2020). "Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness." *Philosophy and the Mind Sciences*, 1(I). DOI 10.33735/phimisci.2020.I.46.
+3. James, W. (1902). *The Varieties of Religious Experience*. Longmans, Green.
+4. Carhart-Harris, R. & Friston, K. (2019). "REBUS and the Anarchic Brain: Toward a Unified Model of the Brain Action of Psychedelics." *Pharmacological Reviews*.
+5. Gładziejewski, P. (2024). "From Altered States to Metaphysics: The Epistemic Status of Psychedelic-induced Metaphysical Beliefs." *Review of Philosophy and Psychology*.
+6. Sjöstedt-Hughes, P. (2024). "The Bergsonian Metaphysics Behind Huxley's Doors." In *Philosophy and Psychedelics*. Springer.
+7. Stace, W. (1960). *Mysticism and Philosophy*. Macmillan.
+8. Facco, E. et al. (2015). "Epistemological implications of near-death experiences and other non-ordinary mental expressions." *Medical Hypotheses*.
+9. Huxley, A. (1954). *The Doors of Perception*. Chatto & Windus.
+10. Millière, R., et al. (2018). "Psychedelics, Meditation, and Self-Consciousness." *Frontiers in Psychology*, 9, 1475.
+11. Kutnyy, D. (2024). "The Boundaries of Cognitive Closure: Argument for Mysterianism in the Philosophy of Consciousness." PhilArchive.
+12. Kriegel, U. (2003). "The new mysterianism and the thesis of cognitive closure." *Acta Analytica*, 18, 177-191.
+13. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
+14. Katz, S. T. (1978). "Language, Epistemology, and Mysticism." In *Mysticism and Philosophical Analysis*. Oxford University Press.
