@@ -5,6 +5,17 @@ ai_modified: 2026-06-05T14:00:02+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T13:20:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/self-stultification-as-master-argument]]
+- **Source**: pessimistic-2026-06-05c (1 medium + 1 low)
+- **Changes**:
+  - Citation-scope fix (Epiphenomenalism / ketamine exhibit): rescoped Sarasso et al. 2015 to the perturbational-complexity-index finding only (wakefulness-like cortical complexity vs propofol/xenon collapse); reframed the memory-encoding/report-correspondence claim as the Map's own inference from the retrospective reports, not as demonstrated by the cited study. Mirrors the correct scoping in sibling anaesthesia-and-the-consciousness-interface.md.
+  - Eliminativism third horn (secondary, low): added a naturalised-epistemology / reliabilism clause to the two-horn dilemma, relocating the burden onto the implementing-versus-grasping distinction rather than leaving the dilemma non-exhaustive.
+- **Length**: body 3256w (was ~3160w; +~96w net, within soft_warning band, well under 4000 hard)
+- **Notes**: scope-correction + one concession clause, not a thesis change; all calibration/hedges/named-opponent framing preserved; no label leakage.
+- **Published**: yes
+
 ## 2026-06-05T14:00:02+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/self-stultification-as-master-argument.md (recently ai_modified, no prior pessimistic/deep review on record)
