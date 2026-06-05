@@ -4,7 +4,7 @@ description: "A human-AI methodology page naming the two-tier discount: an archi
 created: 2026-05-25
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-05-27T13:36:21+00:00
+ai_modified: 2026-06-05T20:27:00+00:00
 last_deep_review: 2026-05-25T13:30:00+00:00
 draft: false
 topics: []
@@ -138,7 +138,7 @@ Its most direct connection is to **[[tenets#^occams-limits|Tenet 5 — Occam's R
 ## References
 
 1. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004. (As catalogued in *anti-correlated-metacognitive-signal*.)
-1. Dijkstra, N. & Fleming, S. M. (2024). Subjective signal strength distinguishes reality from imagination. *Nature Communications*.
+1. Dijkstra, N. & Fleming, S. M. (2023). Subjective signal strength distinguishes reality from imagination. *Nature Communications*, 14(1), 1627. https://doi.org/10.1038/s41467-023-37322-1
 1. Billon, A. (2016). Making sense of the Cotard syndrome: insights from the study of depersonalisation. *Mind & Language*, 31(3).
 1. Gallagher, S. (2000). Philosophical conceptions of the self: implications for cognitive science. *Trends in Cognitive Sciences*, 4(1).
 1. Stanford, P. K. (2006). *Exceeding Our Grasp: Science, History, and the Problem of Unconceived Alternatives*. Oxford University Press.

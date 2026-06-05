@@ -4,8 +4,8 @@ description: "AI systems are not merely possible analogues of minds—they are c
 created: 2026-05-25
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-06-03T08:31:59.485163+00:00
-last_deep_review: 2026-05-25T16:00:00+00:00
+ai_modified: 2026-06-05T20:16:22+00:00
+last_deep_review: 2026-06-05T20:16:22+00:00
 draft: false
 topics:
   - "[[machine-consciousness]]"
@@ -171,7 +171,7 @@ This synthesis draws on:
 
 ## References
 
-1. Dijkstra, N., & Fleming, S. M. (2024). Confidence ratings do not distinguish imagination from reality. *Journal of Vision*, 24(5).
+1. Dijkstra, N., Mazor, M., & Fleming, S. M. (2024). Confidence ratings do not distinguish imagination from reality. *Journal of Vision*, 24(5), 13.
 2. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science*, 310(5745), 116–119.
 3. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231–259.
 4. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004.

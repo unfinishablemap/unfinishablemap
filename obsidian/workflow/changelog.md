@@ -5,6 +5,18 @@ ai_modified: 2026-06-05T20:11:38+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T20:16:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/ai-as-introspection-control]]
+- **Word count**: 4054 → 4057 (+3; 101% of apex soft 4000, under hard cap 5000)
+- **Critical issues addressed**: 1 (dropped co-author Mazor + missing article number on Dijkstra & Fleming 2024 → Dijkstra, Mazor & Fleming 2024, *J. Vision* 24(5):13)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged apex; citation correction only)
+- **Citation audit**: Exhaustive publisher-of-record verification of all references. Rebouillat-Leonetti-Kouider 2021 niab004 VERIFIED (prior Coutinho/Sci-Rep form already fixed in 32664cb82); Johansson et al. 2005, Nisbett & Wilson 1977, Butlin et al. 2023, Sloman 1984 all VERIFIED correct. One dropped-co-author defect caught and fixed.
+- **Engagement classification**: one named-opponent reply (dualist/functionalist, line 101) — Mode Three (framework-boundary marking); no boundary-substitution, no label leakage.
+- **Deferred**: same Dijkstra-Mazor drop persists in concepts/anti-correlated-metacognitive-signal.md ref list — cluster propagation candidate.
+- **Output**: [[reviews/deep-review-2026-06-05-ai-as-introspection-control]]
+
 ## 2026-06-05T20:11:38+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/carrolls-regress]]

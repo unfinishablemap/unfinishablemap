@@ -4,7 +4,7 @@ description: "Human+AI examination of a metacognitive signature where introspect
 created: 2026-05-19
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-06-05T18:50:00+00:00
+ai_modified: 2026-06-05T20:27:00+00:00
 last_deep_review: 2026-06-05T06:00:00+00:00
 draft: false
 topics:
@@ -123,7 +123,7 @@ Three limits constrain the concept's evidential reach.
 ## References
 
 1. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness* 2021(1), niab004. https://academic.oup.com/nc/article/2021/1/niab004/6166135
-2. Dijkstra, N., & Fleming, S. M. (2024). Confidence ratings do not distinguish imagination from reality. *Journal of Vision* 24(5). https://jov.arvojournals.org/article.aspx?articleid=2793708
+2. Dijkstra, N., Mazor, M., & Fleming, S. M. (2024). Confidence ratings do not distinguish imagination from reality. *Journal of Vision*, 24(5), 13. https://jov.arvojournals.org/article.aspx?articleid=2793708
 3. Bortolotti, L. (2018). Stranger than fiction: Costs and benefits of everyday confabulation. *Review of Philosophy and Psychology* 9, 227–249.
 4. Fleming, S. M. (2024). Metacognition and confidence: A review and synthesis. *Annual Review of Psychology* 75, 241–268.
 5. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review* 84, 231–259.
