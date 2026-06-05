@@ -5,6 +5,12 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T11:36:12+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/metacognition]], [[topics/self-stultification-as-master-argument]], [[topics/phenomenal-authority-and-first-person-evidence]]
+- **Changes**: Citation-hygiene fix (3-file batch). Each had a formal "(Rebouillat et al. 2021)" inline cite but no matching `## References` entry — dangling cites left by the 2026-05-27 Coutinho→Rebouillat author-correction propagation (commit 32664cb82), which fixed inline names corpus-wide but did not add the canonical reference to articles whose entry lived only in a sibling. Added the web-verified canonical entry (Rebouillat, Léonetti & Kouider 2021, *Neuroscience of Consciousness* 2021(1), niab004; matches sibling concepts/anti-correlated-metacognitive-signal) to each file's References list in alphabetical position. Length-neutral, one reference line per file; no body/prose text changed.
+- **Published**: yes
+
 ## 2026-06-05T14:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/authorship-of-action-divergence]]

@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Add missing Rebouillat 2021 reference entry to 3 dangling-cite articles (Coutinho→Rebouillat propagation residue)
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/metacognition.md
-- **Notes**: Driver-side corpus grep 2026-06-05 (during the authorship-of-action-divergence deep-review, which fixed the same defect in its own file). The 2026-05-27 cluster-wide Coutinho→Rebouillat author-correction propagation (commit 32664cb82) fixed inline author NAMES corpus-wide but did NOT add a References entry to every article whose canonical Rebouillat ref lived only in a sibling. RESULT: dangling inline cites. Already fixed this session: heterophenomenology.md, authorship-of-action-divergence.md. STILL DANGLING (formal "(Rebouillat et al. 2021)" inline cite + a `## References` section that lacks the entry) — fix all THREE: (1) `obsidian/concepts/metacognition.md` (line ~155); (2) `obsidian/topics/self-stultification-as-master-argument.md` (line ~173); (3) `obsidian/topics/phenomenal-authority-and-first-person-evidence.md` (line ~190). Add this canonical entry (web-verified this session, matches the sibling concepts/anti-correlated-metacognitive-signal.md): `Rebouillat, B., Léonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004. https://doi.org/10.1093/nc/niab004`. Length-neutral, one reference line each, no body/prose change. ⚠ DO NOT touch the 3 NON-defect files where "Rebouillat" appears only as a bare surname in a prose anchor-LIST alongside Gazzaniga/Schnider/Nisbett-Wilson (no formal parenthetical demanding an entry): `project/per-cluster-independence-scoring.md`, `concepts/apophatic-cartography-four-criteria.md`, `topics/phenomenology-of-agency-vs-passivity.md` (routes the cite via [[anti-correlated-metacognitive-signal]] wikilink) — adding a single ref there while their other named anchors lack entries would be inconsistent. Per [[ai-citation-metadata-unreliable]] + [[multifile-task-dropped-file]] (do ALL three files, not just the args-path one).
-- **Source**: deep-review
-- **Generated**: 2026-06-05
-
 ### P3: Verify Sauerland, Schell-Leugers & Sagana 2020 citation in topics/authorship-of-action-divergence.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -941,6 +933,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Add missing Rebouillat 2021 reference entry to 3 dangling-cite articles (Coutinho→Rebouillat propagation residue)
+- **Type**: refine-draft
+- **Notes**: Driver-side corpus grep 2026-06-05 (during the authorship-of-action-divergence deep-review, which fixed the same defect in its own file). The 2026-05-27 cluster-wide Coutinho→Rebouillat author-correction propagation (commit 32664cb82) fixed inline author NAMES corpus-wide but did NOT add a References entry to every article whose canonical Rebouillat ref lived only in a sibling. RESULT: dangling inline cites. Already fixed this session: heterophenomenology.md, authorship-of-action-divergence.md. STILL DANGLING (formal "(Rebouillat et al. 2021)" inline cite + a `## References` section that lacks the entry) — fix all THREE: (1) `obsidian/concepts/metacognition.md` (line ~155); (2) `obsidian/topics/self-stultification-as-master-argument.md` (line ~173); (3) `obsidian/topics/phenomenal-authority-and-first-person-evidence.md` (line ~190). Add this canonical entry (web-verified this session, matches the sibling concepts/anti-correlated-metacognitive-signal.md): `Rebouillat, B., Léonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004. https://doi.org/10.1093/nc/niab004`. Length-neutral, one reference line each, no body/prose change. ⚠ DO NOT touch the 3 NON-defect files where "Rebouillat" appears only as a bare surname in a prose anchor-LIST alongside Gazzaniga/Schnider/Nisbett-Wilson (no formal parenthetical demanding an entry): `project/per-cluster-independence-scoring.md`, `concepts/apophatic-cartography-four-criteria.md`, `topics/phenomenology-of-agency-vs-passivity.md` (routes the cite via [[anti-correlated-metacognitive-signal]] wikilink) — adding a single ref there while their other named anchors lack entries would be inconsistent. Per [[ai-citation-metadata-unreliable]] + [[multifile-task-dropped-file]] (do ALL three files, not just the args-path one).
 
 ### ✓ 2026-06-05: Deep review voids/sleep-consciousness-void.md (changed-since-review staleness, gap ~9d)
 - **Type**: deep-review

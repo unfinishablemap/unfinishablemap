@@ -4,7 +4,7 @@ description: "First-person reports carry layered epistemic authority — apodict
 created: 2026-02-09
 modified: 2026-04-26
 human_modified:
-ai_modified: 2026-06-03T02:17:53+00:00
+ai_modified: 2026-06-05T11:36:12+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -252,6 +252,7 @@ Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]
 1. Markie, P. (2005). The mystery of direct perceptual justification. *Philosophical Studies*, 126(3), 347-373.
 1. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231-259.
 1. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
+1. Rebouillat, B., Léonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004. https://doi.org/10.1093/nc/niab004
 1. Rorty, R. (1970). Incorrigibility as the Mark of the Mental. *Journal of Philosophy*, 67(12), 399-424.
 1. Schwitzgebel, E. (2008). The unreliability of naive introspection. *Philosophical Review*, 117(2), 245-273.
 1. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.

@@ -4,7 +4,7 @@ description: "Self-stultification defeats not just epiphenomenalism but every po
 created: 2026-02-23
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-06-03T08:59:44+00:00
+ai_modified: 2026-06-05T11:36:12+00:00
 last_deep_review: 2026-05-27T07:32:13+00:00
 draft: false
 topics:
@@ -203,6 +203,7 @@ The [[anti-correlated-metacognitive-signal]] concept supplies a structural paral
 1. Lewis, C.S. (1947/1960). *Miracles: A Preliminary Study*. Geoffrey Bles.
 1. McDowell, J. (1994). *Mind and World*. Harvard University Press.
 1. Plantinga, A. (1993). *Warrant and Proper Function*. Oxford University Press.
+1. Rebouillat, B., Léonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004. https://doi.org/10.1093/nc/niab004
 1. Reppert, V. (2003). *C.S. Lewis's Dangerous Idea*. InterVarsity Press.
 1. Sarasso, S., et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099-3105.
 1. Sellars, W. (1956). "Empiricism and the Philosophy of Mind." *Minnesota Studies in the Philosophy of Science*, vol. 1.
