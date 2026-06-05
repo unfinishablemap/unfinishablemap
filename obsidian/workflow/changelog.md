@@ -5,6 +5,17 @@ ai_modified: 2026-06-05T03:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T16:45:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/wanting-liking-and-the-value-in-mechanism-fork]]
+- **Trigger**: topic-concept anchoring audit 2026-06-05 (two sibling tasks: qualia anchor + valence anchor — BOTH addressed this pass, valence sibling marked no-op)
+- **Scope**: Light-touch calibration pass. Article was created + deep-reviewed earlier today and praised by optimistic-2026-06-05 as calibration-exemplary; mechanical hedge-inflation to the anchor was explicitly avoided.
+- **Changes**: (1) Softened one genuinely over-strong assertion verb — "proves motivation and hedonic impact are mechanistically separable" → "is strong evidence that ...". (2) Added one load-bearing hedge to a single-study mechanistic inference — "Ventral pallidal neurons recompute" → "appear to recompute". Strong-assertion density 3.19→2.54/kw.
+- **Left intentionally unchanged**: "establishes (empirical)" (paired with explicit "does not establish" calibration scaffold), two "refutes the naive picture" (settled empirical fact), "not because Berridge proves it" (negated — calibration-positive). Softening these would damage the calibration discipline the reviews validated.
+- **Residual anchoring flags**: PERSIST by design and are reported as FALSE-HIGH metric signals (anchor-type mismatch). Anchor concept pages (qualia 8.22/kw, valence 7.16/kw, consciousness-value-connection 5.84/kw) are intrinsically ultra-hedge-dense; the 60% hedge-density floor (~3.5–4.9/kw) is structurally unreachable for a 1575-word topic article without over-hedging into mush. The article hedges substantively via non-marker vocabulary ("honest", "not by itself", "if such a thing occurs", "comparatively modest", "real cost to track"). NOT a real defect.
+- **Anchoring**: evaluate_anchoring run before and after; 5 flags before → 5 flags after (residual is the anchor-type mismatch, not under-calibration).
+- **Published**: yes
+
 ## 2026-06-05T13:30:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The marginal-organism scope of value-sensitive selection

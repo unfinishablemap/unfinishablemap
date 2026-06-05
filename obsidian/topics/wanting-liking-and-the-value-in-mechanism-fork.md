@@ -4,7 +4,7 @@ description: "Berridge's wanting/liking dissociation refutes a single value-curr
 created: 2026-06-05
 modified: 2026-06-05
 human_modified:
-ai_modified: 2026-06-05T13:30:00+00:00
+ai_modified: 2026-06-05T16:45:00+00:00
 last_deep_review: 2026-06-05T12:00:00+00:00
 draft: false
 topics:
@@ -31,7 +31,7 @@ last_curated:
 
 Kent Berridge and colleagues spent three decades showing that reward is not one thing. "Wanting" a reward (the motivational pull toward it) and "liking" it (its felt hedonic impact) have **separable neural substrates** and can be pulled apart experimentally. Dopamine drives wanting; small opioid "hedonic hotspots" in the nucleus accumbens shell and ventral pallidum drive liking. An animal can even be made to "want" a cue it has never "liked." This is settled affective neuroscience.
 
-The Unfinishable Map lays an *interpretive* question over this settled base, the **value-in-mechanism fork** (defined below): when a reward is good or a pain is bad, does that affective value reside in the neural mechanism itself, or in the conscious experience the mechanism is associated with? The honest answer this article defends: the dissociation **constrains** the space of accounts—it refutes any naive "dopamine = pleasure = value" picture and proves motivation and hedonic impact are mechanistically separable—but it does **not** by itself settle the fork. A mechanism-only physicalist reading explains every Berridge finding without remainder. The data sharpen the question; they do not answer it.
+The Unfinishable Map lays an *interpretive* question over this settled base, the **value-in-mechanism fork** (defined below): when a reward is good or a pain is bad, does that affective value reside in the neural mechanism itself, or in the conscious experience the mechanism is associated with? The honest answer this article defends: the dissociation **constrains** the space of accounts—it refutes any naive "dopamine = pleasure = value" picture and is strong evidence that motivation and hedonic impact are mechanistically separable—but it does **not** by itself settle the fork. A mechanism-only physicalist reading explains every Berridge finding without remainder. The data sharpen the question; they do not answer it.
 
 ## The Empirical Dissociation
 
@@ -39,7 +39,7 @@ The core finding is a clean double role for reward. Berridge and Robinson (1998)
 
 The anatomy backs the split. Peciña and Berridge (2005) showed that microinjecting a μ-opioid agonist into a roughly one-cubic-millimetre "hedonic hotspot" in the rostrodorsal medial shell of the nucleus accumbens **doubled** the positive orofacial "liking" reactions to sweetness, while opioid-driven *eating* ("wanting"/consumption) spread across the entire medial shell. The substrate that amplifies pleasure is anatomically distinct from the substrate that amplifies pursuit.
 
-The motivational direction yields the sharpest result. In Tindell, Smith, Berridge and Aldridge (2009)—"wanting what was never liked"—rats given a cue previously paired with intensely salty (normally aversive) taste showed enhanced motivation toward that cue the moment they entered a salt-depleted physiological state, **before ever having experienced concentrated salt as palatable**. Ventral pallidal neurons recompute the cue's incentive salience from current bodily state, not from any stored hedonic memory. "Wanting" can attach to something never "liked."
+The motivational direction yields the sharpest result. In Tindell, Smith, Berridge and Aldridge (2009)—"wanting what was never liked"—rats given a cue previously paired with intensely salty (normally aversive) taste showed enhanced motivation toward that cue the moment they entered a salt-depleted physiological state, **before ever having experienced concentrated salt as palatable**. Ventral pallidal neurons appear to recompute the cue's incentive salience from current bodily state, not from any stored hedonic memory. "Wanting" can attach to something never "liked."
 
 Two further results frame the landscape. Berridge and Robinson (2016) ground the incentive-sensitization theory of addiction on exactly this gap: addictive "wanting" can grow over time while "liking" stays flat or falls—craving without rising pleasure. And Berridge and Kringelbach (2015) draw the distinction this article turns on: they separate the *objective core "liking" reaction* (a measurable neural-behavioural signature) from *subjective conscious pleasure*, treating felt pleasure as a further layer beyond the mechanistic signature.
 
