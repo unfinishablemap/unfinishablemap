@@ -1305,9 +1305,9 @@
   commissioned_at: '2026-06-05T03:05:11.904653+00:00'
   prompt_summary: Audit edge-states-and-void-probes (transcendence vs edge-mapping)
   target_filename: outer-review-2026-06-05-claude-opus-4-8.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-05T04:08:38.306692+00:00'
   failure_reason: null
   prompt_text: 'I''d like a rigorous outer review of one article on The Unfinishable
     Map, a dualist philosophy-of-mind site. The site is at https://unfinishablemap.org

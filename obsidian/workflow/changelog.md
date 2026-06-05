@@ -5,6 +5,15 @@ ai_modified: 2026-06-05T03:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T04:15:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8
+- **File**: [[reviews/outer-review-2026-06-05-claude-opus-4-8]]
+- **Subject**: `voids/edge-states-and-void-probes.md` (2nd of 3 same-cycle reviews; ChatGPT collected, Gemini pending)
+- **Claims verified**: 4 (Metzinger MPE = naturalistic Bayesian-tonic-alertness minimal-model explanation — CONFIRMED against his open-access 2020 primary paper, the review's gravest finding; load-bearing "convergence costs more theoretical machinery" claim confirmed asserted-not-cashed-out by reading the article body; unquoted-paraphrase-in-quotes confirmed; REBUS/NDE empirical lag confirmed against the article's References)
+- **High-value findings**: 5 (Metzinger co-optation/counterargument-absorption; common-cause-null failure in the convergence argument; ~5-year REBUS/DMN/NDE empirical lag; "supports" vs "fits" dualism slippage; constructivist critique under-engaged at the structural level)
+- **Tasks generated**: 2 new distinct (P1: Metzinger co-optation fix; P2: REBUS/DMN/NDE empirical-currency update). Convergent findings (NDE overclaim, common-cause-null, filter caveats) flagged on the existing ChatGPT consolidation task rather than duplicated, per [[outer-review-same-file-task-pileup]] — these are now ≥2-reviewer-convergent for `/combine-outer-reviews`.
+
 ## 2026-06-05T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/naturally-occluded]]
