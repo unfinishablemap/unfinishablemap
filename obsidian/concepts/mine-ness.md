@@ -4,8 +4,8 @@ description: "Mine-ness is the phenomenal mark by which experience presents as b
 created: 2026-05-19
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-25T13:30:00+00:00
-last_deep_review: 2026-05-19T19:00:00+00:00
+ai_modified: 2026-06-05T00:00:00+00:00
+last_deep_review: 2026-06-05T00:00:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-the-ownership-problem]]"
