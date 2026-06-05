@@ -4,7 +4,7 @@ description: "MWI's probability crisis: if all outcomes occur, what grounds prob
 created: 2026-03-04
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-05-31T00:00:00+00:00
+ai_modified: 2026-06-05T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-04
 last_curated:
-last_deep_review: 2026-05-26T17:45:00+00:00
+last_deep_review: 2026-06-05T00:00:00+00:00
 coalesced_from:
   - "/topics/probability-problem-in-many-worlds/"
   - "/topics/decision-theory-cannot-save-many-worlds/"
@@ -130,7 +130,7 @@ Zurek (2003, 2005) proposed deriving the Born rule from environment-assisted inv
 
 Critics including Mohrhoff (2004) and Barnum et al. (2000) argue the derivation assumes from the outset that probabilities attach to quantum states, then merely shows they take the Born-rule form. The crucial step—*why* quantum states relate to probabilities at all—is assumed, not derived. Envariance shows the form probabilities must take *if they exist*, not that probability is meaningful where all outcomes occur.
 
-The proliferation of derivation strategies—decision-theoretic, envariance-based, epistemic—itself suggests a pattern: each recovers the Born rule from different premises, and each faces objections that its premises beg the question. Zhang (2026) argues, in a preprint not yet independently verified, that the leading strategies—Gleason's theorem, Deutsch-Wallace decision theory, Zurek's envariance, and the epistemic and frequentist routes—share one bottleneck: each depends irreducibly on the additivity of orthogonal outcome probabilities, itself a probabilistic postulate, which would make every derivation covertly circular if the analysis holds. From Everett (1957) through Short (2023), the same difficulty has resisted resolution across nearly seven decades. The pattern points the other way from convergence: rather than evidence for the Born rule's derivability, it suggests the rule cannot be derived from MWI's resources without importing it in disguise. The [[born-rule-and-the-consciousness-interface|interpretation-invariance analysis]] finds the same failure across every major framework, suggesting the rule encodes something no purely physical interpretation can generate.
+The proliferation of derivation strategies—decision-theoretic, envariance-based, epistemic—itself suggests a pattern: each recovers the Born rule from different premises, and each faces objections that its premises beg the question. Zhang (2026) argues, in a preprint not yet independently verified, that the leading strategies—Gleason's theorem and Busch's extension of it, Deutsch-Wallace decision theory, Zurek's envariance, and the Finkelstein-Hartle frequency-operator route—share one bottleneck: each depends irreducibly on the additivity of orthogonal outcome probabilities, itself a probabilistic postulate, which would make every derivation covertly circular if the analysis holds. From Everett (1957) through Short (2023), the same difficulty has resisted resolution across nearly seven decades. The pattern points the other way from convergence: rather than evidence for the Born rule's derivability, it suggests the rule cannot be derived from MWI's resources without importing it in disguise. The [[born-rule-and-the-consciousness-interface|interpretation-invariance analysis]] finds the same failure across every major framework, suggesting the rule encodes something no purely physical interpretation can generate.
 
 ## What Would Success Even Look Like?
 
@@ -170,21 +170,23 @@ Kent's observation—that Wallace's axioms are substantive claims, not rational 
 2. Baker, D.J. (2007). Measurement outcomes and probability in Everettian quantum mechanics. *Studies in History and Philosophy of Modern Physics*, 38, 153-169.
 3. Barnum, H., Caves, C.M., Finkelstein, J., Fuchs, C.A. & Schack, R. (2000). Quantum probability from decision theory? *Proceedings of the Royal Society A*, 456, 1175-1182.
 4. Deutsch, D. (1999). Quantum theory of probability and decisions. *Proceedings of the Royal Society A*, 455, 3129-3137.
-5. Friederich, S. & Dawid, R. (2022). Epistemic separability and Everettian branches: a critique of Sebens and Carroll. *British Journal for the Philosophy of Science*, 73(3), 711-736.
-6. Graham, N. (1973). The measurement of relative frequency. In *The Many-Worlds Interpretation of Quantum Mechanics*, Princeton University Press.
-7. Kent, A. (2010). One world versus many: the inadequacy of Everettian accounts of evolution, probability, and scientific confirmation. In Saunders et al. (eds.), *Many Worlds?* OUP.
-8. Lewis, P.J. (2007). Uncertainty and probability for branching selves. *Studies in History and Philosophy of Modern Physics*, 38, 1-14.
-9. Mohrhoff, U. (2004). Probabilities from envariance? *International Journal of Quantum Information*, 2(2), 221-229.
-10. Price, H. (2010). Decisions, decisions, decisions: can Savage salvage Everettian probability? In Saunders et al. (eds.), *Many Worlds?* OUP.
-11. Saunders, S. (2010). Chance in the Everett interpretation. In Saunders et al. (eds.), *Many Worlds?* OUP.
-12. Saunders, S. (2021). Branch-counting in the Everett interpretation of quantum mechanics. *Proceedings of the Royal Society A*, 477, 20210600.
-13. Sebens, C.T. & Carroll, S.M. (2018). Self-locating uncertainty and the origin of probability in Everettian quantum mechanics. *British Journal for the Philosophy of Science*, 69(1), 25-74.
-14. Short, A.J. (2023). Probability in many-worlds theories. *Quantum*, 7, 971.
-15. Vaidman, L. (1998). On schizophrenic experiences of the neutron or why we should believe in the many-worlds interpretation of quantum theory. *International Studies in the Philosophy of Science*, 12(3), 245-261.
-16. Wallace, D. (2003). Everettian rationality: defending Deutsch's approach to probability in the Everett interpretation. *Studies in History and Philosophy of Modern Physics*, 34(3), 415-439.
-17. Wallace, D. (2010). How to prove the Born rule. In Saunders et al. (eds.), *Many Worlds?* OUP.
-18. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
-19. Zurek, W.H. (2003). Decoherence, einselection, and the quantum origins of the classical. *Reviews of Modern Physics*, 75(3), 715-775.
-20. Zurek, W.H. (2005). Probabilities from entanglement, Born's rule from envariance. *Physical Review A*, 71, 052105.
-21. Zhang, J. (2026). Summing to Uncertainty: On the Necessity of Additivity in Deriving the Born Rule. arXiv:2603.06211.
+5. Everett, H. (1957). "Relative state" formulation of quantum mechanics. *Reviews of Modern Physics*, 29(3), 454-462.
+6. Friederich, S. & Dawid, R. (2022). Epistemic separability and Everettian branches: a critique of Sebens and Carroll. *British Journal for the Philosophy of Science*, 73(3), 711-736.
+7. Graham, N. (1973). The measurement of relative frequency. In *The Many-Worlds Interpretation of Quantum Mechanics*, Princeton University Press.
+8. Kent, A. (2010). One world versus many: the inadequacy of Everettian accounts of evolution, probability, and scientific confirmation. In Saunders et al. (eds.), *Many Worlds?* OUP.
+9. Lewis, P.J. (2007). Uncertainty and probability for branching selves. *Studies in History and Philosophy of Modern Physics*, 38, 1-14.
+10. Mohrhoff, U. (2004). Probabilities from envariance? *International Journal of Quantum Information*, 2(2), 221-229.
+11. Price, H. (2010). Decisions, decisions, decisions: can Savage salvage Everettian probability? In Saunders et al. (eds.), *Many Worlds?* OUP.
+12. Saunders, S. (2010). Chance in the Everett interpretation. In Saunders et al. (eds.), *Many Worlds?* OUP.
+13. Saunders, S. (2021). Branch-counting in the Everett interpretation of quantum mechanics. *Proceedings of the Royal Society A*, 477, 20210600.
+14. Sebens, C.T. & Carroll, S.M. (2018). Self-locating uncertainty and the origin of probability in Everettian quantum mechanics. *British Journal for the Philosophy of Science*, 69(1), 25-74.
+15. Short, A.J. (2023). Probability in many-worlds theories. *Quantum*, 7, 971.
+16. Vaidman, L. (1998). On schizophrenic experiences of the neutron or why we should believe in the many-worlds interpretation of quantum theory. *International Studies in the Philosophy of Science*, 12(3), 245-261.
+17. Wallace, D. (2003). Everettian rationality: defending Deutsch's approach to probability in the Everett interpretation. *Studies in History and Philosophy of Modern Physics*, 34(3), 415-438.
+18. Wallace, D. (2007). Quantum probability from subjective likelihood: improving on Deutsch's proof of the probability rule. *Studies in History and Philosophy of Modern Physics*, 38(2), 311-332.
+19. Wallace, D. (2010). How to prove the Born rule. In Saunders et al. (eds.), *Many Worlds?* OUP.
+20. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
+21. Zurek, W.H. (2003). Decoherence, einselection, and the quantum origins of the classical. *Reviews of Modern Physics*, 75(3), 715-775.
+22. Zurek, W.H. (2005). Probabilities from entanglement, Born's rule from envariance. *Physical Review A*, 71, 052105.
+23. Zhang, J. (2026). Summing to Uncertainty: On the Necessity of Additivity in Deriving the Born Rule. arXiv:2603.06211.
 

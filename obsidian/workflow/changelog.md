@@ -5,6 +5,21 @@ ai_modified: 2026-06-05T14:00:02+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T15:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/probability-problem-in-many-worlds]]
+- **Word count**: 3784 → 3831 (+47; two reference lines to close dangling inline cites; under 4000 hard cap)
+- **Critical issues addressed**: 4 (all citation-audit) —
+  (1) **Wallace (2003) page range** `415-439` → **415-438** — the DOCUMENTED sibling-corpus regression (DOI 10.1016/S1355-2198(03)00036-4; verified PhilPapers/ADS/SciRP consensus 415-438).
+  (2) **Zhang (2026) scope overstatement** — body claimed coverage of "epistemic and frequentist routes"; arXiv:2603.06211 abstract verified to cover Gleason, Busch's extension, Deutsch-Wallace, Zurek envariance, Finkelstein-Hartle — NO epistemic/self-locating derivation. Rewritten to the paper's actual five-derivation scope; hedge preserved.
+  (3) **Everett (1957) dangling inline cite** — cited 2× inline, no References entry; added (Rev. Mod. Phys. 29(3), 454-462; verified ADS, real foundational paper).
+  (4) **Wallace (2007) dangling inline cite** — cited inline "(2003, 2007, 2010)", no 2007 entry; added (SHPMP 38(2), 311-332; verified real).
+- **Citation audit**: FULL pass — all 23 references web-verified against publisher of record (author/co-authors/venue/year/volume/pages/stance), not just load-bearing cites. Watch-list (Wallace 2003, Deutsch 1999, Greaves/Saunders/Vaidman/Sebens-Carroll/Zurek) all checked. 3-state de-citation discipline: no fabricated/chimera cite; both dangling cites resolved to REAL papers → added entries, not removed. Inline↔References cross-checked both directions, now clean.
+- **Calibration / reasoning-mode**: re-confirmed clean (unchanged from 2026-05-26). Engagement with Deutsch-Wallace branching indifference = Mode Three (tenet-load-bearing, explicit); Saunders/Sebens-Carroll indexical reply = Mode Three (framework-boundary, explicitly marked). No boundary-substitution, no label leakage, no possibility/probability slippage; parsimony disarmed both directions (Tenet 5).
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; length-neutral mode)
+- **Output**: [[reviews/deep-review-2026-06-05-probability-problem-in-many-worlds]]
+
 ## 2026-06-05T14:26:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/born-rule-and-the-consciousness-interface]]
