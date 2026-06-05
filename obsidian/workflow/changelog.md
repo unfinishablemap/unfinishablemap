@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-05T17:14:57+00:00
+ai_modified: 2026-06-05T19:30:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-05T19:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/phenomenal-output-causal-machinery-dissociation]]
+- **Word count**: 6831 → 6835 (+4, length-neutral)
+- **Type**: Changed-since-review staleness candidate (gap 16d); full citation audit (6th+ review; highest-citation-density genuinely-stale article in corpus, 141 year-mentions). Length-neutral — auto-condense vetoed (human-blocked over-ceiling flagship).
+- **Citation audit**: 10/10 load-bearing recent/quantitative citations web-verified EXACT against publisher of record (Fendel 2025 SMD 0.35/0.39/0.09 ×60 RCTs; Vohs 2021 d=0.06 BF~4:1; Dang 2021 d=0.10; Hagger 2016; De Brigard 2024 379(1913) 20230410; Liu 2020 Sci Rep 15689; Westbrook 2020 Science 367(6484) 1362–1366; Sandved-Smith 2021 niab018; Cleary-Claxton 2018; Seghezzi 2025 QJEP). ZERO defects — converged AND verified.
+- **Critical issues addressed**: 0
+- **Medium/low issues addressed**: 1 (Seghezzi 2025 + Desantis 2012 stance fix: "belief…outcome valence" → "learning…the mere presence of an action" to match verified findings; length-neutral)
+- **Enhancements made**: 0 (at apex-critical ceiling; no additions)
+- **Length decision**: NOT auto-condensed. 6835w over 6500 apex-critical; over-length is a standing BLOCKED human-editorial-decision (SPLIT vs ACCEPT) with condense #veto'd twice. Updated BLOCKED task word figure + noted content now verified-clean.
+- **Engagement modes** (editor-internal): strong-rival = Mode-mixed (foundational-move → in-framework choking-interference/Naccache pressure → framework-boundary felt-character residue, conceded by Lau). No editor-vocabulary leakage. Carry-forward bedrock notes intact.
+- **Output**: [[reviews/deep-review-2026-06-05-phenomenal-output-citation-audit]]
 
 ## 2026-06-05T18:30:00+00:00 - deep-review
 - **Status**: Success
