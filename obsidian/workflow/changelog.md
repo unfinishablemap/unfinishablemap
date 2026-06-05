@@ -5,6 +5,16 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T08:23:36+00:00 - deep-review
+- **Status**: Success — converged; 3 citation-metadata fixes web-verified correct; no critical or medium issues
+- **File**: [[apex/minds-without-words]]
+- **Word count**: 3863 → 3863 (no body change; 97% of apex/ 4000-word soft threshold, status "ok", normal mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: frontmatter timestamps updated (6th deep review; verification-only)
+- **Scope**: Apex synthesis, changed-since-review (~15d). Only changes since 2026-05-21 were three corpus-wide citation corrections — all WEB-VERIFIED CORRECT: (1) niaf042 fMRI paper author Randeniya,R. [fabricated] → Streicher,J./Meyen,S./Franz,V.H./Stein,T. (2025) *Neuroscience of Consciousness* 2025(1); also re-verified its load-bearing "16 fMRI studies / 10% survived" stat against the actual paper (16 studies, 80 conditions, 8/80=10% ITA) — stat survived author correction intact. (2) "Apes have culture..." quote Whiten,A. [misattributed] → Gruber,T./Zuberbühler/Clément/van Schaik (2015) *Frontiers in Psychology* 6:91. (3) NY Declaration count "hundreds" → "599 as of live 2026 count, up from ~40 at launch" — verified (~40 launch→287 mid-2024→~599 May 2026); tier language unchanged/honest. All wikilinks resolve live; no possibility/probability slippage; no "not X, it is Y" cliché. Carries forward 2026-05-21 bedrock-disagreement and calibration-honoured stability notes. Engagement modes unchanged (Gutfreund/LeDoux Mode Three; Carruthers Mode One; epiphenomenalism Mixed). Citation-hygiene note: 2 real defects survived the 2026-05-21 intra-corpus check, caught only by live-web verification.
+- **Output**: [[reviews/deep-review-2026-06-05-minds-without-words]]
+
 ## 2026-06-05T08:13:44+00:00 - deep-review
 - **Status**: Success — converged; citation fix web-verified correct; no critical or medium issues
 - **File**: [[voids/the-silence-void]]

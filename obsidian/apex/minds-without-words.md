@@ -4,8 +4,8 @@ description: "Non-linguistic consciousness from animals to simple organisms. The
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-06-03T07:08:33+00:00
-last_deep_review: 2026-05-21T08:00:00+00:00
+ai_modified: 2026-06-05T08:23:36+00:00
+last_deep_review: 2026-06-05T08:23:36+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
