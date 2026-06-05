@@ -1,10 +1,10 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-05-13 18:51:00+00:00
+ai_modified: 2026-06-05 00:00:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-04-05
-date: '2026-05-13'
+date: '2026-06-05'
 draft: false
 related_articles: []
 title: Research Notes - Consciousness Under Extreme Metabolic Constraint
@@ -59,11 +59,11 @@ The relationship between metabolic supply and consciousness presents a major evi
 - **URL**: https://pubmed.ncbi.nlm.nih.gov/25294128/
 - **Type**: Research article (PubMed)
 - **Key points**:
-  - Vegetative state patients: 38% of normal brain metabolic activity
-  - Minimally conscious patients: 56% of normal activity
-  - Consciousness can be minimally sustained at 42% of healthy metabolic levels
-  - 41% metabolic threshold predicts 94% of patients who recover consciousness within 12 months
-  - FDG-PET correctly classified consciousness state in 85% of cases
+  - Vegetative state (UWS) patients: 42% of normal cortical glucose metabolism (CORRECTED 2026-06-05; was wrongly stated as 38%)
+  - Minimally conscious patients: 55% of normal activity (CORRECTED 2026-06-05; was wrongly stated as 56%)
+  - Diagnosis likelihood crosses from VS/UWS to MCS at a cortical metabolic rate of ~44% of normal; emergence to MCS likely above 45%
+  - NO 12-month recovery-prediction statistic exists in this paper (the previously-stated "41% threshold predicts 94% recovery within 12 months" was FABRICATED — removed 2026-06-05). The paper reports diagnostic classification only.
+  - Cortical metabolism alone classified VS/UWS vs MCS with up to 83% accuracy
 - **Tenet alignment**: Supports interface model — consciousness persists at dramatically reduced metabolic levels, suggesting the brain-consciousness relationship is non-linear. A production model would predict proportional degradation
 - **Quote**: "Consciousness can be minimally sustained with energy use at only 42% of the level that occurs in healthy conscious individuals"
 
@@ -128,7 +128,7 @@ The relationship between metabolic supply and consciousness presents a major evi
 - **Key arguments**: 
   - Cerebral metabolic rate correlates with consciousness level across anesthesia depth
   - Brain injury reducing metabolism causes consciousness loss
-  - Vegetative state shows 38% metabolism; minimally conscious shows 56%
+  - Vegetative state shows ~42% cortical metabolism; minimally conscious shows ~55% (CORRECTED 2026-06-05)
 - **Relation to site tenets**: Directly conflicts with dualism tenet. However, the evidence reveals significant anomalies: non-linear thresholds, agent-specific effects at similar metabolic levels, paradoxical enhancements during metabolic crisis
 
 ### Interface/Filter Model (Dualism-Compatible)
@@ -213,10 +213,10 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 3. Borjigin, J., et al. (2013). Surge of neurophysiological coherence and connectivity in the dying brain. *PNAS*, 110(35). https://www.pnas.org/doi/10.1073/pnas.1308285110
 4. Stender, J., et al. (2014). Quantitative rates of brain glucose metabolism distinguish minimally conscious from vegetative state patients. *Journal of Cerebral Blood Flow & Metabolism*. https://pubmed.ncbi.nlm.nih.gov/25294128/
 5. Carhart-Harris, R. L., et al. (2014). The entropic brain: a theory of conscious states informed by neuroimaging research with psychedelic drugs. *Frontiers in Human Neuroscience*, 8, 20. https://pmc.ncbi.nlm.nih.gov/articles/PMC3909994/
-6. Sanders, R. D., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*. https://pmc.ncbi.nlm.nih.gov/articles/PMC10539891/
-7. Cerri, M., et al. (2017). Consciousness in hibernation and synthetic torpor. *Neuroscience of Consciousness*, 3(1). https://pubmed.ncbi.nlm.nih.gov/29125496/
+6. Montupil, J., Cardone, P., Staquet, C., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100224. https://www.bjaopen.org/article/S2772-6096(23)00103-X/fulltext (NOTE 2026-06-05: previously mis-attributed to "Sanders et al." in this note; the live article correctly cites Montupil et al.)
+7. Cerri, M. (2017). Consciousness in hibernation and synthetic torpor. *Journal of Integrative Neuroscience*, 16(s1), S19–S26. https://pubmed.ncbi.nlm.nih.gov/29125496/ (CORRECTED 2026-06-05: venue was wrongly stated as *Neuroscience of Consciousness*, 3(1))
 8. Solms, M., & Friston, K. (2019). The Hard Problem of Consciousness and the Free Energy Principle. *Frontiers in Psychology*, 9, 2714. https://pmc.ncbi.nlm.nih.gov/articles/PMC6363942/
 9. Griko, Y. (2012). Synthetic Torpor as a Strategy for Survivability of Long Duration Spaceflight. NASA Technical Report. https://smd-cms.nasa.gov/wp-content/uploads/2023/05/194_4ed6e97e79c39f2f69c20b8a5d320550_GRIKOYURI.pdf
 10. Rady, M. Y., & Verheijde, J. L. (2016). Brain scans strongly predict return of consciousness in vegetative patients. *STAT News*. https://www.statnews.com/2016/05/26/brain-scans-consciousness-vegetative/
-11. Hoel, E. (2024). Consciousness and the Dying Brain. *PMC*. https://pmc.ncbi.nlm.nih.gov/articles/PMC11096058/
+11. Mashour, G. A., Lee, U., Pal, D., & Li, D. (2024). Consciousness and the Dying Brain. *Anesthesiology*, 140(6), 1221–1231. https://pmc.ncbi.nlm.nih.gov/articles/PMC11096058/ (CORRECTED 2026-06-05: this paper was wrongly attributed to "Hoel, E." — the author is Mashour et al., and the venue is *Anesthesiology*, not *Neuroscience of Consciousness*)
 12. Martial, C., et al. (2024). The gamma-band activity model of the near-death experience: a critique and a reinterpretation. *PMC*. https://pmc.ncbi.nlm.nih.gov/articles/PMC11375408/

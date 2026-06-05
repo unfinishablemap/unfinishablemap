@@ -1,5 +1,6 @@
 ---
 ai_contribution: 100
+ai_modified: 2026-06-05 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-24
@@ -217,7 +218,7 @@ The quantum selection framework provides explanatory purchase on these puzzles.
 
 ## References
 
-1. Kaeser, P.A., et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*. https://doi.org/10.1038/s41586-024-08038-z
+1. Cai, X., Liu, C. & Kaeser, P.S. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*, 635(8038), 406-414. https://doi.org/10.1038/s41586-024-08038-z
 
 2. Bhatiasevi, H.K., et al. (2025). The learning primacy hypothesis of dopamine: reconsidering dopamine's dual functions. *Frontiers in Cellular Neuroscience*, 10.3389/fncel.2025.1538500.
 

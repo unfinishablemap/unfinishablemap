@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-09
-ai_modified: 2026-06-04 00:00:00+00:00
+ai_modified: 2026-06-05 00:00:00+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-06-02 05:15:12+00:00
 apex_sources:
@@ -46,7 +46,7 @@ description: A structural cluster recurring across perception, cognition, agency
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-19 14:00:00+00:00
+last_deep_review: 2026-06-05 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'
@@ -117,7 +117,7 @@ In real-time cognition and agency, the dissociation extends from perceptual to c
 
 The [noetic-feelings void](/voids/noetic-feelings-void/) generalises across felt epistemic signals — knowing, rightness, familiarity, understanding, coherence, confidence. Koriat established that noetic feelings rest on inferential heuristics — cue-familiarity, accessibility — that operate implicitly. Thompson showed the feeling of rightness is driven by generation fluency rather than correctness, with manipulations of fluency (font legibility, rhyme, perceptual ease) shifting the felt verdict without changing the underlying reasoning. The verdicts gate further cognition — when to stop searching, when to trust, when to engage analytic thought — and the system cannot audit them from inside, because audit requires more feelings of the same kind.
 
-The [agency void](/voids/agency-void/) picks up the same dissociation in the felt sense of causing one's actions — though "sense of agency" is not one construct. The 2022 *Nature Reviews Psychology* review (Wen & Imamizu) distinguishes an *implicit* level (pre-reflective sensorimotor signals; intentional binding, sensory attenuation) from an *explicit* level (reflective judgment), which can move in opposite directions. The output-while-operation-hidden claim is sharpest for the implicit feeling: Howard et al. (2016) showed effort disrupts the implicit sense of agency even as the explicit judgment rises. But the implicit machinery is not uniformly opaque — intentional binding is modulated by belief, postdiction, and outcome valence (Seghezzi et al. 2025; Desantis et al. 2012), so the verdict is opaque about its production while some of its *inputs* are not — the agency case's local version of the caveat the cluster grants for recollection and tip-of-the-tongue below. Wegner's work establishes that the *experience* of willing arises from interpreting thoughts as causes on cues of priority, consistency, and exclusivity — the cues, not the willing, are what the introspector accesses, though his interpretation inverts the cluster's reading (accounted for below). The [suspension void](/voids/suspension-void/) adds *refraining* from selection: the felt act of holding back has phenomenal character whose machinery is hidden the same way.
+The [agency void](/voids/agency-void/) picks up the same dissociation in the felt sense of causing one's actions — though "sense of agency" is not one construct. The 2022 *Nature Reviews Psychology* review (Wen & Imamizu) distinguishes an *implicit* level (pre-reflective sensorimotor signals; intentional binding, sensory attenuation) from an *explicit* level (reflective judgment), which can move in opposite directions. The output-while-operation-hidden claim is sharpest for the implicit feeling: Howard et al. (2016) showed effort disrupts the implicit sense of agency even as the explicit judgment rises. But the implicit machinery is not uniformly opaque — intentional binding is modulated by learning, postdiction, and the mere presence of an action (Seghezzi et al. 2025; Desantis et al. 2012), so the verdict is opaque about its production while some of its *inputs* are not — the agency case's local version of the caveat the cluster grants for recollection and tip-of-the-tongue below. Wegner's work establishes that the *experience* of willing arises from interpreting thoughts as causes on cues of priority, consistency, and exclusivity — the cues, not the willing, are what the introspector accesses, though his interpretation inverts the cluster's reading (accounted for below). The [suspension void](/voids/suspension-void/) adds *refraining* from selection: the felt act of holding back has phenomenal character whose machinery is hidden the same way.
 
 These four — felt-effort, felt-agency, felt-suspension, felt-knowing — sit as one functional family of sub-personally generated signals that gate distinct operations while sharing the same opacity pattern. [self-opacity](/voids/self-opacity/)'s §Introspective Opacity *Process* dimension states the diagnostic generally: consciousness accesses mental contents but not the processes producing them — James's "spinning top," Nisbett and Wilson's confabulation, Johansson's choice-blindness, Libet timing, and Wegner's reconstructive willing all converging. [The introspection-architecture void cluster](/apex/introspection-architecture-void-cluster/) sharpens the shape onto introspection: five mechanisms (narrative, source-attribution, noetic-feelings, confabulation, perceptual-reality-monitoring) delivering reconstructed outputs without the operation — the same architectural fact under two cuts, with the noetic-feelings void at the intersection.
 

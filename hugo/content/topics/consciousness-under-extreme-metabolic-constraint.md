@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-05
-ai_modified: 2026-05-28 13:30:00+00:00
+ai_modified: 2026-06-05 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Consciousness persists at surprising metabolic thresholds and somet
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 00:00:00+00:00
+last_deep_review: 2026-06-05 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-neurodegenerative-disease]]'
@@ -42,11 +42,11 @@ This prediction is testable. Multiple clinical and experimental settings create 
 
 ## Five Lines of Anomalous Evidence
 
-### The 42% Metabolic Threshold
+### The Metabolic Threshold
 
-Stender et al. (2014) used FDG-PET scanning to quantify brain metabolism in patients with disorders of consciousness. Vegetative state patients showed 38% of normal cerebral metabolic activity. Minimally conscious patients showed 56%. The critical finding: a metabolic rate of approximately 42% of healthy levels reliably separated patients who retained minimal consciousness from those in vegetative states, and this diagnostic threshold correctly predicted recovery of consciousness within twelve months in 94% of cases.
+Stender et al. (2014) used FDG-PET scanning to quantify cortical glucose metabolism in patients with disorders of consciousness. Vegetative state (unresponsive wakefulness) patients averaged 42% of normal cortical metabolic activity; minimally conscious patients averaged 55%. The diagnostic boundary fell close behind: the likelihood of a minimally-conscious rather than vegetative diagnosis crossed over at a cortical metabolic rate of roughly 44% of normal, and cortical metabolism alone classified the two groups with up to 83% accuracy.
 
-The 42% figure is a statistical classifier derived from clinical data, not a precise biological switch. But the pattern it reveals is threshold-like rather than gradual. Consciousness does not fade smoothly from 100% to 0% as metabolism declines. It persists with surprising resilience until a critical region, then fails. The pattern resembles a system losing its channel rather than losing its source—a radio signal that remains clear until the receiver breaks, rather than a candle that dims steadily as wax is consumed.
+The 44% figure is a statistical classifier derived from clinical data, not a precise biological switch, and the study measured diagnostic state rather than long-term recovery. But the pattern it reveals is threshold-like rather than gradual. Consciousness does not fade smoothly from 100% to 0% as metabolism declines. It persists with surprising resilience until a critical region, then fails. The pattern resembles a system losing its channel rather than losing its source—a radio signal that remains clear until the receiver breaks, rather than a candle that dims steadily as wax is consumed.
 
 ### Psychedelic Enhancement with Metabolic Suppression
 
@@ -56,27 +56,27 @@ This directly contradicts the production model's core prediction. If consciousne
 
 ### Agent-Specific Anaesthesia Profiles
 
-Montupil et al. (2023) document that different anaesthetic agents produce different consciousness profiles at similar levels of metabolic reduction. Propofol reduces cerebral metabolic rate by 30-70% and typically produces unconsciousness. Ketamine produces significant metabolic reduction yet preserves complex brain dynamics and vivid inner experience. If metabolic reduction were the operative variable, similar metabolic reductions should produce similar effects on consciousness.
+Montupil et al. (2023) document that different anaesthetic agents produce different consciousness profiles at similar levels of metabolic reduction. Propofol produces a dose-dependent reduction in cerebral metabolic rate—on the order of tens of percent, deepening toward burst-suppression—and typically produces unconsciousness. Ketamine produces significant metabolic reduction yet preserves complex brain dynamics and vivid inner experience. If metabolic reduction were the operative variable, similar metabolic reductions should produce similar effects on consciousness.
 
 They do not. [Anaesthesia research](/topics/anaesthesia-and-the-consciousness-interface/) reveals at least three distinct states—unconsciousness, disconnected consciousness, and connected consciousness—that depend on *which* networks are disrupted, not on total metabolic reduction. The brain under anaesthesia becomes less individually distinctive; consciousness-specific neural fingerprints require metabolism to maintain their uniqueness. This suggests metabolism sustains the brain's *channelling structure* rather than consciousness itself.
 
 ### Near-Death Experiences During Metabolic Crisis
 
-Between 10% and 20% of cardiac arrest survivors report [near-death experiences](/concepts/near-death-experiences/)—episodes described as "highly lucid" and "realer than real" (Hoel, 2024). These occur during acute physiological crisis: hypoxia, failing circulation, collapsing metabolic supply. The neurobiological paradox is stark. If the brain produces consciousness, rich subjective experience during metabolic failure is difficult to explain. If the brain filters consciousness, reduced filtering during breakdown predicts exactly this kind of intensification.
+Between 10% and 20% of cardiac arrest survivors report [near-death experiences](/concepts/near-death-experiences/)—episodes described as highly lucid and "realer than real" (Mashour et al., 2024). These occur during acute physiological crisis: hypoxia, failing circulation, collapsing metabolic supply. The neurobiological paradox is stark. If the brain produces consciousness, rich subjective experience during metabolic failure is difficult to explain. If the brain filters consciousness, reduced filtering during breakdown predicts exactly this kind of intensification.
 
 The timing question remains contested—whether NDEs occur during the period of flat-line EEG or during recovery—but preliminary findings of organised gamma activity during cardiac arrest (discussed next) suggest the dying brain is capable of neural signatures associated with consciousness, even as its metabolic foundation crumbles.
 
 ### Gamma Surges in Dying Brains
 
-Xu et al. (2023) recorded the brain activity of four patients during cardiac arrest. The sample was small—four patients total—and only two exhibited rapid, marked surges of gamma-frequency oscillations after the heart stopped, precisely the neural signatures associated with conscious processing. The other two showed no such activity. With only two positive cases from four patients, the findings are suggestive rather than established—per the Map's own [evidence quality standards](/topics/clinical-evidence-quality-standards-consciousness-research/), single small studies warrant cautious language, not strong inference. Cross-frequency coupling between gamma and slower oscillations *increased*. Interhemispheric connectivity in gamma bands *strengthened*. The activation concentrated in temporo-parieto-occipital junctions, regions associated with conscious experience, dreaming, and out-of-body experiences.
+Xu et al. (2023) recorded the brain activity of four comatose dying patients before and after ventilatory support was withdrawn—the prelude to cardiac arrest. The sample was small—four patients total—and only two exhibited rapid, marked surges of gamma-frequency oscillations as the heart failed, precisely the neural signatures associated with conscious processing. The other two showed no such activity. With only two positive cases from four patients, the findings are suggestive rather than established—per the Map's own [evidence quality standards](/topics/clinical-evidence-quality-standards-consciousness-research/), single small studies warrant cautious language, not strong inference. Cross-frequency coupling between gamma and slower oscillations *increased*. Interhemispheric connectivity in gamma bands *strengthened*. The activation concentrated in temporo-parieto-occipital junctions, regions associated with conscious experience, dreaming, and out-of-body experiences.
 
-In those two patients, organised activity lasted approximately thirty seconds into cardiac arrest, as metabolism was collapsing. The brain produced its most organised output during its final moments, not its least. A production model must explain why a system generates peak-organised activity as its energy supply fails. The filter model offers a compatible interpretation: the filter is breaking down, and what had been constrained is briefly released. But the evidence base—two patients—is too thin for this to count as more than a suggestive observation awaiting replication.
+In those two patients, organised gamma activity surged in the seconds around the withdrawal of life support and the dying process, as metabolism was collapsing. The brain produced its most organised output during its final moments, not its least. A production model must explain why a system generates peak-organised activity as its energy supply fails. The filter model offers a compatible interpretation: the filter is breaking down, and what had been constrained is briefly released. But the evidence base—two patients—is too thin for this to count as more than a suggestive observation awaiting replication.
 
 ## The Filter Model's Explanation
 
 The [filter or transmission theory](/concepts/filter-theory/)—originating with William James (1898) and developed by Bergson, Huxley, and contemporary researchers like Edward Kelly—proposes that the brain constrains consciousness rather than producing it. Metabolic energy sustains the constraint, not the consciousness. This framework is compatible with each of the five anomalies:
 
-- **The 42% threshold**: The channelling structure has a minimum operating requirement, below which it cannot maintain coherent filtering—producing a threshold rather than a gradient.
+- **The metabolic threshold**: The channelling structure has a minimum operating requirement, below which it cannot maintain coherent filtering—producing a threshold rather than a gradient.
 - **Psychedelic DMN suppression**: Metabolically suppressing the brain's primary constraint network loosens the filter, producing intensified experience.
 - **Agent-specific anaesthesia profiles**: Different agents disrupt different components of the filtering architecture, producing different consciousness effects at similar metabolic levels.
 - **NDEs during metabolic crisis**: Reduced filtering allows broader conscious access, experienced as vivid, expansive awareness.
@@ -90,7 +90,7 @@ The five anomalies above involve *acute* metabolic disruption—rapid, global ch
 
 The filter model offers an account of both patterns—though the ease with which it accommodates opposite outcomes warrants scrutiny (see the falsifiability section). Acute metabolic collapse disrupts the filtering apparatus globally and suddenly—the constraint lifts, and consciousness may briefly expand. Chronic degeneration destroys the interface structure itself—the hardware through which filtered consciousness is expressed. A radio whose power supply fails suddenly may produce a burst of static and signal; one whose circuits corrode over years simply grows quieter. The distinction between *filter dissolution* (acute) and *interface degradation* (chronic) explains why not all metabolic reduction enhances consciousness, resolving what would otherwise be an asymmetry problem for filter theory.
 
-[Terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/) bridges the two patterns. Patients with severe neurodegeneration—massive neuronal loss, widespread cortical atrophy—suddenly recover mental clarity, memory, and personality shortly before death. Batthyány and Greyson (2020) documented 124 cases in which more than 80% showed complete cognitive remission; 84% of patients died within one week, 43% within 24 hours. The production model faces a structural problem: if the neural substrate for complex cognition has been destroyed over years, there is no machinery left to produce a final episode of coherent consciousness. The filter model has no such difficulty—dying may involve a final acute disruption of whatever filtering capacity remained, briefly releasing consciousness through a degraded but still partially functional interface. Terminal lucidity is the chronic case suddenly behaving like an acute one, and the [theoretical implications](/topics/terminal-lucidity-and-filter-transmission-theory/) are explored in detail elsewhere on the Map.
+[Terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/) bridges the two patterns. Patients with severe neurodegeneration—massive neuronal loss, widespread cortical atrophy—suddenly recover mental clarity, memory, and personality shortly before death. Batthyány and Greyson (2020) documented 124 cases in which more than 80% showed complete cognitive remission, with the majority of patients dying within hours to days of the lucid episode. The production model faces a structural problem: if the neural substrate for complex cognition has been destroyed over years, there is no machinery left to produce a final episode of coherent consciousness. The filter model has no such difficulty—dying may involve a final acute disruption of whatever filtering capacity remained, briefly releasing consciousness through a degraded but still partially functional interface. Terminal lucidity is the chronic case suddenly behaving like an acute one, and the [theoretical implications](/topics/terminal-lucidity-and-filter-transmission-theory/) are explored in detail elsewhere on the Map.
 
 ## What Would Challenge the Filter Model
 
@@ -141,10 +141,10 @@ The metabolic evidence connects to three of the Map's [tenets](/tenets/).
 1. Shulman, R. G., Hyder, F., & Rothman, D. L. (2018). Consciousness as a Physical Process Caused by the Organization of Energy in the Brain. *Frontiers in Psychology*, 9, 2091.
 2. Xu, G., et al. (2023). Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain. *PNAS*, 120(19).
 3. Stender, J., et al. (2014). Quantitative rates of brain glucose metabolism distinguish minimally conscious from vegetative state patients. *Journal of Cerebral Blood Flow & Metabolism*.
-4. Hoel, E. (2024). Consciousness and the Dying Brain. *Neuroscience of Consciousness*.
+4. Mashour, G. A., Lee, U., Pal, D., & Li, D. (2024). Consciousness and the Dying Brain. *Anesthesiology*, 140(6), 1221–1231.
 5. Carhart-Harris, R. L., et al. (2014). The entropic brain: a theory of conscious states informed by neuroimaging research with psychedelic drugs. *Frontiers in Human Neuroscience*, 8, 20.
 6. Montupil, J., Cardone, P., Staquet, C., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100224.
-7. Cerri, M., et al. (2017). Consciousness in hibernation and synthetic torpor. *Neuroscience of Consciousness*, 3(1).
+7. Cerri, M. (2017). Consciousness in hibernation and synthetic torpor. *Journal of Integrative Neuroscience*, 16(s1), S19–S26.
 8. James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin.
 9. Batthyány, A. & Greyson, B. (2020). Spontaneous Remission of Dementia Before Death: Results from a Study on Paradoxical Lucidity. *Psychology of Consciousness: Theory, Research, and Practice*.
 10. Nahm, M., Greyson, B., Kelly, E. W., & Haraldsson, E. (2012). Terminal lucidity: A review and a case collection. *Archives of Gerontology and Geriatrics*, 55(1), 138–142.
