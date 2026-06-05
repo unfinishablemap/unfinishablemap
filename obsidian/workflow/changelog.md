@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-05T01:10:00+00:00
+ai_modified: 2026-06-05T01:30:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-05T01:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/valence-void]]
+- **Word count**: 2001 → 2043 (+42, length-neutral mode, voids 2000 soft / 3000 hard)
+- **Critical issues addressed**: 0 (5th review; long-converged, near-no-op as expected)
+- **Medium issues addressed**: 1 — Veit citation re-attributed. The cited "Veit (2024), Hedonic Valence at the Core of Consciousness, Philosophy and the Mind Sciences" is actually a **book review by Nadine Meertens** of Veit's book, not a Veit-authored paper (live web-verify). View attribution to Veit is correct; venue corrected to Veit's 2023 book *A Philosophy for the Science of Animal Consciousness* (Routledge); removed quotation marks around what was the review's title rather than a verbatim Veit quote.
+- **Enhancements made**: 1 — integrated the Berridge wanting/liking dissociation (Berridge & Robinson 2016, *American Psychologist*; citation form matched to corpus-canonical "incentive-sensitization") into the function/feel section, sharpening the dissociation argument; cross-linked [[wanting-liking-and-the-value-in-mechanism-fork]]. Mechanism-honest — no felt-value/mechanism conflation (the steering concern); felt quality kept unexplained in the following paragraph.
+- **Cross-links**: all 23 wikilink targets verified live on disk.
+- **Output**: [[reviews/deep-review-2026-06-05-valence-void]]
 
 ## 2026-06-05T01:10:00+00:00 - optimistic-review
 - **Status**: Success
