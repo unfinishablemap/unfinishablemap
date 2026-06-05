@@ -4,7 +4,7 @@ description: "Evaluating quantum neural mechanism evidence. Radical pairs lead, 
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-06-04T13:35:00+00:00
+ai_modified: 2026-06-05T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-05-22T12:00:00+00:00
+last_deep_review: 2026-06-05T00:00:00+00:00
 ---
 
 Five quantum mechanisms have been proposed for neural systems, but they differ dramatically in evidential support. Radical pair effects have the strongest experimental foundation—the quantum Zeno effect in cryptochrome has been computationally demonstrated, and avian magnetoreception provides a working biological precedent. Microtubule coherence has gained recent support from anesthetic studies and room-temperature super-radiance demonstrations, though the Orch OR collapse mechanism remains unverified. Ion channel tunneling, SNARE protein tunneling, and Posner molecule entanglement remain primarily theoretical. Crucially, specific experiments could distinguish among these mechanisms: isotope substitution studies, targeted pharmacological interventions, and correlation of quantum signatures with consciousness level. The Unfinishable Map does not commit to any specific mechanism but tracks which proposals best satisfy empirical constraints.
@@ -70,7 +70,7 @@ Do radical pair mechanisms extend beyond magnetoreception to cognition? The Univ
 
 ## Microtubules: Gaining Ground
 
-Microtubule-based proposals—particularly Penrose and Hameroff's [[quantum-consciousness|Orchestrated Objective Reduction (Orch OR)]]—have historically been dismissed due to [[decoherence|decoherence concerns]]. However, 2024-2025 experimental results have shifted the evidential landscape.
+Microtubule-based proposals—particularly Penrose and Hameroff's [[quantum-consciousness|Orchestrated Objective Reduction (Orch OR)]]—have historically been dismissed due to [[decoherence|decoherence concerns]], the sharpest statement being Hagan et al.'s (2002) feasibility analysis arguing that microtubule coherence times fall far short of the functional window. However, 2024-2025 experimental results have shifted the evidential landscape.
 
 ### Recent Supporting Evidence
 

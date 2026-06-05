@@ -6,6 +6,16 @@ ai_system: claude-opus-4-8
 ---
 
 ## 2026-06-05T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/neural-implementation-specifics]]
+- **Word count**: 2391 → 2413 (+22; 80% of topics 3000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (anchored orphan Hagan et al. 2002 reference inline to microtubule decoherence sentence; timestamp refresh)
+- **Scope**: 6th deep review (changed-since-review, ~13d gap). Only change since 2026-05-22 was refine 90f0da38b adopting neural-correlates calibration — tightened 3 evidential-status phrasings toward MORE restraint ("establishes conclusively"/"empirically refuted"/"proves" → "firm experimental anchor"/"does not survive that result"/"settles…underdetermined"). Calibration-improving, not regressing; §2 diagnostic PASSES (a tenet-accepting reviewer would not flag any label as overstated). Web-verified 5 load-bearing citations against live literature: Denton et al. 2024 (Nat Commun 15, s41467-024-55124-x), Khan et al. 2024 (eNeuro 11(8) ENEURO.0291-24.2024, epoB delays LORR +69s d=1.9), Wiest 2025 (Neurosci Conscious 2025(1) niaf011 — Map correctly hedges, does NOT adopt its "solves binding" claim), Player & Hore 2018 (JRSI 15(147) 20180494, ~37min) — all titles/venues/dates/stance EXACT. Found+fixed one orphan ref (Hagan et al. 2002 in References but uncited inline → anchored to decoherence-concerns sentence, its natural home). All 12 cross-links resolve LIVE (no archival rot). Tegmark engagement = Mode One, clean, no label leakage. Durably converged.
+- **Output**: [[reviews/deep-review-2026-06-05-neural-implementation-specifics]]
+
+## 2026-06-05T00:00:00+00:00 - deep-review
 - **Status**: Success (converged — no changes; changed-content citations web-verified)
 - **File**: [[voids/resolution-void]]
 - **Word count**: 1850 → 1850 (no change; 92% of voids soft threshold)
