@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review concepts/reasons-responsiveness.md (changed-since-review staleness, gap ~2d)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/concepts/reasons-responsiveness.md
-- **Notes**: FLOOR-RESTORING + MARGIN-BUILDING by /replenish-queue 2026-06-05. Changed-since-review staleness (churn-free filter): `ai_modified: 2026-05-27` (NOT today, ~9d ago, past the 7-day floor) is ~2 days AFTER `last_deep_review: 2026-05-25`, so AUDIT THE POST-05-25 CONTENT. Attribution-heavy free-will agency anchor (Kane's event-causal libertarianism, Mele's "luck"/"present luck", Pereboom, van Inwagen's rollback/Mind argument, Fischer-Ravizza reasons-responsiveness). (a) WEB-VERIFY ALL ATTRIBUTIONS before trusting them ([[ai-citation-metadata-unreliable]]); check TITLE/venue not just author+year. (b) 3-STATE DE-CITATION discipline (fabricated / real-wrong-author / real-correct); don't false-negative-delete a real paper ([[citation-verify-false-negative]]). (c) PRESERVE calibration/dialectical-role framing ([[evidential-status-discipline]]) — the Map's reply NEUTRALISES the luck objection as a defeater; it does NOT by itself ESTABLISH libertarian agency (defeater-removal ≠ positive evidence). Do NOT let an edit upgrade "the constrained-not-unlimited move answers the objection" into a settled result. (d) Verify cross-links resolve live + reciprocate where load-bearing (esp. [[topics/free-will]], [[concepts/agent-causation]], [[concepts/quantum-indeterminacy-free-will]]). (e) Writing-style + length (2313 words, under concepts thresholds; no "This is not X. It is Y." cliché). SELECTION-COLLISION CAVEAT: if a cycle-slot review bumps `last_deep_review` to 2026-06-05 first, mark RESOLVED-OBSOLETE. Metadata-only verdict acceptable if converged ([[deep-review-over-reviews-converged]]). Tenet alignment: Tenet 3 (Bidirectional Interaction — agent, not chance, as source); secondary Tenet 2 (Minimal Quantum Interaction — indeterminacy-as-luck worry).
-- **Source**: staleness
-- **Generated**: 2026-06-05
-
 ### P2: Deep review concepts/self-stultification.md (changed-since-review staleness, gap ~2d)
 - **Type**: deep-review
 - **Status**: pending
@@ -995,6 +987,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Deep review concepts/reasons-responsiveness.md (changed-since-review staleness, gap ~2d)
+- **Type**: deep-review
+- **Notes**: FLOOR-RESTORING + MARGIN-BUILDING by /replenish-queue 2026-06-05. Changed-since-review staleness (churn-free filter): `ai_modified: 2026-05-27` (NOT today, ~9d ago, past the 7-day floor) is ~2 days AFTER `last_deep_review: 2026-05-25`, so AUDIT THE POST-05-25 CONTENT. Attribution-heavy free-will agency anchor (Kane's event-causal libertarianism, Mele's "luck"/"present luck", Pereboom, van Inwagen's rollback/Mind argument, Fischer-Ravizza reasons-responsiveness). (a) WEB-VERIFY ALL ATTRIBUTIONS before trusting them ([[ai-citation-metadata-unreliable]]); check TITLE/venue not just author+year. (b) 3-STATE DE-CITATION discipline (fabricated / real-wrong-author / real-correct); don't false-negative-delete a real paper ([[citation-verify-false-negative]]). (c) PRESERVE calibration/dialectical-role framing ([[evidential-status-discipline]]) — the Map's reply NEUTRALISES the luck objection as a defeater; it does NOT by itself ESTABLISH libertarian agency (defeater-removal ≠ positive evidence). Do NOT let an edit upgrade "the constrained-not-unlimited move answers the objection" into a settled result. (d) Verify cross-links resolve live + reciprocate where load-bearing (esp. [[topics/free-will]], [[concepts/agent-causation]], [[concepts/quantum-indeterminacy-free-will]]). (e) Writing-style + length (2313 words, under concepts thresholds; no "This is not X. It is Y." cliché). SELECTION-COLLISION CAVEAT: if a cycle-slot review bumps `last_deep_review` to 2026-06-05 first, mark RESOLVED-OBSOLETE. Metadata-only verdict acceptable if converged ([[deep-review-over-reviews-converged]]). Tenet alignment: Tenet 3 (Bidirectional Interaction — agent, not chance, as source); secondary Tenet 2 (Minimal Quantum Interaction — indeterminacy-as-luck worry).
 
 ### ✓ 2026-06-05: Deep review topics/death-and-consciousness.md (changed-since-review staleness, gap ~2d)
 - **Type**: deep-review

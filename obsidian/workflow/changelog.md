@@ -5,6 +5,20 @@ ai_modified: 2026-06-05T19:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T17:38:57+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/reasons-responsiveness]]
+- **Word count**: 2313 → 2313 (no change; 93% of 2500 concept soft threshold; well under 3500 hard cap)
+- **Type**: Mandated full citation audit (6th review; converged through reviews 2-5, "converged ≠ verified")
+- **Citation audit**: web-verified all five citations against publisher of record for metadata AND stance — all CLEAN: Fischer & Ravizza 1998 (Responsibility and Control, CUP; guidance-control compatibilism, moderate reasons-responsiveness); Sellars 1956 (EPM, Minnesota Studies Vol. 1 pp.253-329; "logical space of reasons" §36 quote correct); Goldman 1979 ("What Is Justified Belief?", Pappas ed., Reidel; classic process reliabilism); Wolf 1990 (Freedom Within Reason, OUP; Reason View); Kornblith in-body reliabilism pairing correct. No wrong-author / chimera / dropped-co-author / page-off / number-cross-attribution / source-conclusion mismatch.
+- **Reasoning modes (editor-internal)**: reliabilism Mode Two; naturalising-functionalist Mode Two; LLM/pattern-matching Mode Three; Fischer-Ravizza compatibilist Mode Three. No boundary-substitution, no label leakage.
+- **Calibration**: clean — Compatibilist Symmetry paragraph rests libertarian distinction on tenet-coherence, declines evidential upgrade; tenet-accepting reviewer would not flag overstatement. No possibility/probability slippage.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; only timestamps updated)
+- **Links**: all wikilinks resolve; confirmed `[[consciousness-and-the-normativity-of-reason]]` is a LIVE topics-file link (prior review's "deleted" note was an alias change, not deletion); apex deep-link anchor present.
+- **Output**: [[reviews/deep-review-2026-06-05-reasons-responsiveness]]
+
 ## 2026-06-05T20:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/death-and-consciousness]]

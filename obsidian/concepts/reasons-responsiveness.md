@@ -4,8 +4,8 @@ description: "Reasons-responsiveness is the capacity to track normative relation
 created: 2026-02-01
 modified: 2026-02-01
 human_modified: null
-ai_modified: 2026-05-27T22:21:26+00:00
-last_deep_review: 2026-05-25T12:42:11+00:00
+ai_modified: 2026-06-05T17:38:57+00:00
+last_deep_review: 2026-06-05T17:38:57+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
