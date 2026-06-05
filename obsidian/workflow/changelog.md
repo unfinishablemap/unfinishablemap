@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-05T17:55:14+00:00
+ai_modified: 2026-06-05T20:11:38+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-05T20:11:38+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/carrolls-regress]]
+- **Source review**: [[reviews/pessimistic-2026-06-05e]]
+- **Changes**: Surgical calibration fixes for the two medium structural findings; central thesis preserved, length-honest (body ~1639→~2173 words, well under 2500 soft).
+  - Issue 1 (epistemic/metaphysical equivocation): split the inferentialist reading into its epistemic (articulation/formalisation-limit) and metaphysical (constitutively-non-formal operation) registers in "The Inferentialist Reading"; in the Dualism connection, replaced the silent register-slide with an explicit bridging argument — the metaphysical reading rests on taking-as's *structural* resistance to formalisation (parallel to the tacit-integration void), not on an articulation-limit entailing non-physicality — and stated plainly that the unformalised-but-physical reading stays live (closes the "syntactic fact ≠ cognitive claim" gap).
+  - Issue 2 (Brandom boundary-substitution): converted "social practice is itself a tissue of individual takings" into an honest in-framework argument (the community's conferral of an inferential licence is itself a taking-the-move-as-licensed, so the regress relocates not dissolves — no individualism presupposed), with the individual-first reading explicitly demoted to framework-boundary marking. Engagement with Brandom: Mode One (in-framework, regress recurs on Brandom's own normative-attitude terms) with an honest Mode Three residue flagged as a prior-commitment disagreement.
+  - Language: softened "provably insufficient"/"shown to be incomplete by formal argument" → "insufficient"/"argued…on the inferentialist reading"; scoped the "self-stultifying" charge to the agent-act reading (formal calculus has no cognition to presuppose, so the deflationist restricting the partition to formal systems does not commit it).
+  - Dropped "distinct from but adjacent to" → "adjacent to phenomenal consciousness" (per unsupported-claims note).
+- **Preserved**: up-front honesty ("later moves rest on the inferentialist reading being defensible, not uncontested"), cousins-not-siblings Gödel calibration, citation set unchanged (no new cites). No editor-vocabulary mode labels in body.
+- **Published**: yes
 
 ## 2026-06-05T22:10:00+00:00 - pessimistic-review
 - **Status**: Success
