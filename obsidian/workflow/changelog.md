@@ -5,6 +5,16 @@ ai_modified: 2026-06-05T03:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T04:39:37+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-05
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.8, Gemini 2.5 Pro)
+- **Subject**: edge-states-and-void-probes (steerable-subject triple)
+- **Clusters**: 3 convergent (convergence-cost/common-cause-null; REBUS/DMN/NDE empirical currency; filter-theory caveat inheritance), 5 singleton, 1 divergence (Gemini hostile-referee misreads NDE/Zahavi against the cautious article)
+- **Tasks upgraded**: 2 (P2→P1: edge-states consolidation pass; REBUS/DMN/NDE empirical currency)
+- **Tasks deduplicated**: 0 (filter-theory caveat cluster folded into the consolidation pass; convergence-flag tracking entry resolved-by-synthesis)
+- **Output**: [[reviews/outer-review-synthesis-2026-06-05]]
+
 ## 2026-06-05T05:00:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 2.5 Pro (Deep Research, hostile-referee persona)
