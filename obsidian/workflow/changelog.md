@@ -5,6 +5,12 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T12:30:00+00:00 - pessimistic-review
+- **Status**: Success — one critical/medium citation defect found (web-verified, corpus-propagated)
+- **Content reviewed**: `apex/medium-status-voids-in-cognition.md` (oldest apex by last-commit, never pessimistically reviewed; body ~4364w soft_warning, under apex hard 5000)
+- **Output**: [[reviews/pessimistic-2026-06-05b]]
+- **Notes**: Strong self-aware apex piece; pre-empts most adversarial pressure (explicit falsification section, structural-vs-interpretive convergence hedge, affirming-the-consequent warning). Discipline checks clean: no direct-refutation label leakage (grep-confirmed), altered-state symmetry NOT APPLICABLE (supportive-cluster gate fails — only one supportive item, used as a falsification probe not a confirmation), no epistemic/metaphysical equivocation (dualist reading explicitly held as "additional independent move"), no LLM-cliché, all wikilinks resolve live. KEY FINDING: web-verified wrong-author citation — "Vervaeke, J., Mastropietro, C., & Miscevic, F. (2024)" on the real *Frontiers in Psychology* 15 "Naturalizing relevance realization" paper; actual authors are Jaeger, Riedl, Djedovic, Vervaeke & Walsh (DOI 10.3389/fpsyg.2024.1362658). Real-paper/wrong-author state, NOT fabrication. CROSS-PROPAGATED to 3 live articles (relevance-void, mattering-void, this apex) + 2 public research notes — queued a P2 multi-file refine-draft. Secondary content gap: "attenuation without elimination" claim doesn't engage contemplative-cessation counter-case — queued P3. Two todo tasks added.
+
 ## 2026-06-05T07:39:47+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/machine-question]]

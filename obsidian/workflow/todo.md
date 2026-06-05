@@ -37,6 +37,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Fix wrong-author Vervaeke citation (real paper, wrong authors) across 3 live articles + 2 research notes
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/voids/relevance-void.md
+- **Notes**: Pessimistic review 2026-06-05b found a web-verified wrong-author citation that has cross-propagated. The reference string "Vervaeke, J., Mastropietro, C., & Miscevic, F. (2024). 'Naturalizing relevance realization: why agency and cognition are fundamentally not computational.' *Frontiers in Psychology*, 15." names the WRONG authors. Title/year/journal/volume are all correct and web-verified, but the actual authors are **Jaeger, J., Riedl, A., Djedovic, A., Vervaeke, J., & Walsh, D. (2024)** (Front. Psychol. 15:1362658, DOI 10.3389/fpsyg.2024.1362658). Vervaeke is a co-author, not first author; Mastropietro & Miscevic are NOT authors of this paper. This is the real-paper/wrong-author state (NOT fabrication — do not delete the cite, just fix the author list). Affected LIVE files: `voids/relevance-void.md` (ref 6), `voids/mattering-void.md` (ref 5), `apex/medium-status-voids-in-cognition.md` (ref 8). Also fix the two PUBLIC research notes carrying the same string: `research/voids-mattering-void-2026-02-19.md`, `research/voids-relevance-void-2026-03-09.md`. Keep in-text "Vervaeke and colleagues" phrasings — only the reference-list author string is wrong. MULTI-FILE task: do all 5 files, not just the args-path file ([[multifile_task_dropped_file]]). See pessimistic-2026-06-05b.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-06-05
+
+### P3: Engage contemplative-cessation counter-case in apex/medium-status-voids-in-cognition.md
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/apex/medium-status-voids-in-cognition.md
+- **Notes**: Pessimistic review 2026-06-05b: the load-bearing "attenuation without elimination" generalisation ("consciousness does not continue with the medium fully removed… what the constitutive reading predicts and a capacity-status reading does not") is asserted as exceptionless but never engages the contemplative-cessation / nirodha-samapatti literature, which reports the contrary (contentless states with the medium allegedly removed). Cheap fix: add 1-2 sentences either folding cessation into "outputs-by-deformation" (the cessation report is a post-hoc output, not inspection-while-operating, preserving the asymmetry) OR flagging it as the open empirical question bearing on the constitutive reading; cross-link the relevant corpus cessation article. Secondary (optional): one clarifying sentence on WHY transparent first-person inspection is the privileged test (Dennett's question-begging charge). Length-neutral or near (article at soft_warning 4364w, apex hard 5000 — keep under hard). Preserve all existing hedging. See pessimistic-2026-06-05b.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-06-05
+
 ### P2: Deep review apex/taxonomy-of-voids.md (changed-since-review staleness, gap ~17d)
 - **Type**: deep-review
 - **Status**: pending
