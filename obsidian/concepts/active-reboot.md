@@ -4,7 +4,7 @@ description: "Active reboot names a mechanism class where the brain dismantles a
 created: 2026-05-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-06-03T00:00:00+00:00
+ai_modified: 2026-06-05T12:40:38+00:00
 draft: false
 topics:
   - "[[anaesthesia-and-the-consciousness-interface]]"
@@ -70,7 +70,7 @@ Active reboot is one mechanism among several that operate at consciousness-state
 
 The anaesthetic case is the catalogue's clearest instance because all three structural features are documented in the same body of work.
 
-Mashour et al. (2021) and Bhatt et al. (2021) established the cognitive-recovery sequence: induction is rapid and stereotyped while emergence is protracted and agent-specific; the dorsolateral prefrontal cortex re-engages early; executive function returns before reaction time and simpler sensorimotor tasks. The expected order under any "consciousness building from simple to complex" model is inverted. Redinbaugh et al. (2022) confirmed emergence involves an abrupt shift of neuronal dynamics across neocortex — a discrete state transition more consistent with a threshold being crossed than a generator powering up smoothly.
+Mashour et al. (2021) and Bhatt et al. (2021) established the cognitive-recovery sequence: induction is rapid and stereotyped while emergence is protracted and agent-specific; the dorsolateral prefrontal cortex re-engages early; executive function returns before reaction time and simpler sensorimotor tasks. The expected order under any "consciousness building from simple to complex" model is inverted. Redinbaugh et al. (2020) locate the substrate: deep cortical layers and central-lateral thalamus are most sensitive to changes in consciousness level, and stimulating that loop reinstates wake-like dynamics — the reopening channel is anatomically specific, not a diffuse generator. Lewis et al.'s transient pre-emergence cortical state is the closer evidence that the recovery transition is comparatively discrete rather than a smooth power-up.
 
 Hu et al. (2023) supplied the molecular mechanism. Their finding — ubiquitin-driven KCC2 degradation as the mechanism-shared reopening pathway across propofol, isoflurane, sevoflurane, and ketamine — is the empirical anchor for the active-reboot framing. The authors describe this explicitly as an *active reboot*. The molecular preparation runs through the ventral posteromedial thalamus, with KCC2 downregulation producing the GABA-A-mediated disinhibition that drives emergence.
 
@@ -124,7 +124,7 @@ The Map treats active reboot as an architectural finding that bears on the inter
 1. Hu, J.-J., Liu, Y., Yao, H., et al. (2023). Emergence of consciousness from anesthesia through ubiquitin degradation of KCC2 in the ventral posteromedial nucleus of the thalamus. *Nature Neuroscience*, 26, 751–764. https://doi.org/10.1038/s41593-023-01290-y (KCC2 ubiquitination as mechanism-shared emergence pathway across propofol, isoflurane, sevoflurane, and ketamine.)
 2. Mashour, G. A., Pal, D., & Brown, E. N. (2021). Prefrontal cortex as a key node in arousal circuitry. *Trends in Neurosciences*, 44(11), 909–921.
 3. Bhatt, M. B., Bowen, S., Rossiter, H. E., et al. (2021). Recovery of consciousness and cognition after general anesthesia in humans. *eLife*, 10, e59525. https://elifesciences.org/articles/59525
-4. Redinbaugh, M. J., Afrasiabi, M., Phillips, J. M., et al. (2022). Thalamic deep brain stimulation paradigm to reduce consciousness: Cortico-striatal dynamics implicated in mechanisms of consciousness. *Science Advances*, 8(11), eabl5547. https://www.science.org/doi/10.1126/sciadv.abl5547
+4. Redinbaugh, M. J., Phillips, J. M., Kambi, N. A., et al. (2020). Thalamus modulates consciousness via layer-specific control of cortex. *Neuron*, 106(1), 66–75. https://doi.org/10.1016/j.neuron.2020.01.005
 5. Sepúlveda, P. O., Carrasco, E., Tapia, L. F., et al. (2019). Neural inertia and differences between loss of and recovery from consciousness during total intravenous anaesthesia: a narrative review. *Anaesthesia*, 74(6), 801–807.
 6. Friedman, E. B., Sun, Y., Moore, J. T., et al. (2010). A conserved behavioral state barrier impedes transitions between anesthetic-induced unconsciousness and wakefulness. *PLOS ONE*, 5(7), e11903.
 7. Mashour, G. A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(10), 1553-1567. https://doi.org/10.1016/j.neuron.2024.03.002

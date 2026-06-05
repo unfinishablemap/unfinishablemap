@@ -5,6 +5,16 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T12:40:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
+- **Word count**: 3827 → ~3870 (length-neutral; citation correction +~30w, offset by a same-paragraph redundancy trim; 129% of 3000 soft, under 4000 hard — no condense)
+- **Critical issues addressed**: 1 — **Redinbaugh wrong-year chimera + unsupported-claim attribution**, survived all SIX prior reviews. Article cited "Redinbaugh et al. (2022). Thalamus modulates consciousness via layer-specific control of cortex. *Neuron* 106(1):66-75" — that title/vol/pages is the **2020** Neuron paper (DOI 10.1016/j.neuron.2020.01.005, PMID 32053769); the year was wrong. A *distinct* 2022 Redinbaugh paper exists (DBS to *reduce* consciousness, PLoS Comput Biol 18(7):e1010294, PMID 35816488) — the two were conflated. Worse, the in-body claim attached to it ("emergence involves an abrupt shift of neuronal dynamics across neocortex — a discrete state transition") is supported by **neither** paper (2020 = layer-specific thalamocortical control, not emergence abruptness; 2022 = reducing consciousness, not emergence — both web-verified at source). Fixed: ref → Redinbaugh (2020) + DOI; in-body reattributed to what the 2020 paper actually shows (anatomical specificity of the reopening channel) and moved the discrete-recovery-transition reading onto Lewis et al. (2018), the genuine source already in the reference list. Prior passes' "Redinbaugh 2022 correctly attributed" was intra-corpus consistency only — "converged ≠ verified."
+- **Corpus propagation**: same defect fixed in [[concepts/active-reboot]] (in-body + ref 4, which had pointed at the 2022 DBS paper). grep-confirmed only these two live files cite Redinbaugh.
+- **Citations web-verified correct** (publisher of record, full author/venue/year/vol/claim): Wiest 2025 (confirmed **Michael C.** Wiest, not Olaf — the flagged conflation risk is clean), **Stone et al. 2025** (confirmed PRIMARY paper BJA 135(1):121-133, NOT the Lee editorial 135(1):5-8), Onoda 2025, Breyton 2025, Van Maldegem 2025, Hu 2023 (KCC2/Fbxl4), Lewis 2018, Sarasso 2015, Parnia 2023.
+- **Medium/Low**: Parnia "~40%" blends AWARE-II recall (39.3%) with EEG findings — left as-is (sourced, summary latitude).
+- **Output**: [[reviews/deep-review-2026-06-05-anaesthesia-and-the-consciousness-interface]]
+
 ## 2026-06-05T12:29:42+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-normativity-of-reason]]

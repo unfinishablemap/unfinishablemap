@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/anaesthesia-and-the-consciousness-interface.md (changed-since-review staleness, gap ~7d, citation-heavy clinical/anaesthesia)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
-- **Notes**: Changed-since-review: ai_modified 2026-06-04, last_deep_review 2026-05-28 (~7-day gap), ai_contribution=100, Tenet 1/3 load-bearing. Body changed after review. CITATION-HEAVY clinical/anaesthesia neuroscience with a dense post-2020 empirical layer (Breyton 2025, Onoda 2025, Stone 2025, Wiest 2025, Maldegem 2025, Parnia et al. 2023, Redinbaugh et al. 2022, Mashour 2024, Montupil 2023, Hu 2023, Xu 2023) — exactly the recency cluster where wrong-author / chimera / wrong-venue citation defects hide and evade convergence. WEB-VERIFY ALL citation authors, years, venues, and titles (not just the load-bearing ones) against the live literature; distinguish fabricated / real-paper-wrong-author / real-correct before de-citing (do NOT delete content on a single false-negative — title-search first). Watch for the IIT-recovery overreach previously fixed here. PRESERVE calibration / evidential-status / citation-framing / promissory-bridge language verbatim; do not collapse the "has not been refuted on its own terms" framing-boundary stance.
-- **Source**: staleness
-- **Generated**: 2026-06-05
-
 ### P2: Deep review concepts/consciousness-selecting-neural-patterns.md (changed-since-review staleness, gap ~8d, citation-heavy / Tenet 3)
 - **Type**: deep-review
 - **Status**: pending
@@ -962,6 +954,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Deep review topics/anaesthesia-and-the-consciousness-interface.md (changed-since-review staleness, gap ~7d, citation-heavy clinical/anaesthesia)
+- **Type**: deep-review
+- **Notes**: Changed-since-review: ai_modified 2026-06-04, last_deep_review 2026-05-28 (~7-day gap), ai_contribution=100, Tenet 1/3 load-bearing. Body changed after review. CITATION-HEAVY clinical/anaesthesia neuroscience with a dense post-2020 empirical layer (Breyton 2025, Onoda 2025, Stone 2025, Wiest 2025, Maldegem 2025, Parnia et al. 2023, Redinbaugh et al. 2022, Mashour 2024, Montupil 2023, Hu 2023, Xu 2023) — exactly the recency cluster where wrong-author / chimera / wrong-venue citation defects hide and evade convergence. WEB-VERIFY ALL citation authors, years, venues, and titles (not just the load-bearing ones) against the live literature; distinguish fabricated / real-paper-wrong-author / real-correct before de-citing (do NOT delete content on a single false-negative — title-search first). Watch for the IIT-recovery overreach previously fixed here. PRESERVE calibration / evidential-status / citation-framing / promissory-bridge language verbatim; do not collapse the "has not been refuted on its own terms" framing-boundary stance.
 
 ### ✓ 2026-06-05: Deep review topics/consciousness-and-the-normativity-of-reason.md (changed-since-review staleness, gap ~8d)
 - **Type**: deep-review
