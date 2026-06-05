@@ -273,4 +273,4 @@ Based on this research, a voids article could:
 - Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
 - Heidegger, M. (1927). *Being and Time*. Trans. Macquarrie & Robinson.
 - Wittgenstein, L. (1953). *Philosophical Investigations*. Trans. Anscombe.
-- Sonesson, G. (2020). "Primary Cognitive Categories Are Determined by Their Invariances." *Frontiers in Psychology*, 11, 584017.
+- Gärdenfors, P. (2020). "Primary Cognitive Categories Are Determined by Their Invariances." *Frontiers in Psychology*, 11, 584017.

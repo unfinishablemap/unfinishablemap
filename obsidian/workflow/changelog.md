@@ -5,6 +5,18 @@ ai_modified: 2026-06-05T01:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/conceptual-scheme-void]]
+- **Word count**: 2335 → 2341 (+6; length-neutral, soft_warning, 78% of 3000 hard)
+- **Critical issues addressed**: 2 — both wrong-author citation defects (real paper, wrong author), web-verified:
+  - Ref #13 **Sonesson (2020) → Gärdenfors (2020)**: "Primary Cognitive Categories Are Determined by Their Invariances" (*Frontiers in Psychology* 11:584017) is by Peter Gärdenfors, not Göran Sonesson. Fixed body inline cite + References entry; also fixed the propagated copy in seed note `research/voids-categorial-void-2026-02-15.md`.
+  - Ref #9 **Mellor, S. et al. (2025) → Cogitate Consortium et al. (2025)**: the *Nature* IIT-vs-GNWT adversarial-testing paper is authored by the Cogitate Consortium (corr. Pitts/Mudrik/Melloni; 642(8066), 133–142). "Mellor, S." is a corruption of "Melloni." Body refers to it descriptively (no name) so References-only fix. NB the *correct* D.H. Mellor *Real Time II* (1998) cites in philosophy-of-time articles are a different author — left untouched.
+- **Medium issues addressed**: 0 (converged prose deliberately untouched)
+- **Enhancements made**: 0
+- **Cross-links**: all 28 outbound wikilinks resolve live; no archival link-rot
+- **Output**: [[reviews/deep-review-2026-06-05-conceptual-scheme-void]]
+
 ## 2026-06-05T02:28:50+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/decoherence]]
