@@ -5,6 +5,16 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T13:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/sleep-consciousness-void]]
+- **Word count**: 2691 → 2797 (+106; load-bearing citation corrections only; under voids 3000 hard cap)
+- **Critical issues addressed**: 4 (all citation/attribution, all caught by live web-verification despite the article being prose-converged with two prior clean reviews — "converged ≠ verified"). (1) The "Nothingness Is All There Is" 2022 objectless-awareness-during-sleep study + its "No Scenery/Void" quote was misattributed to Gamma & Metzinger; it is Alcaraz-Sánchez, Demšar, Campillo-Ferrer & Torres-Platas (2022, Frontiers in Psychology 901031) — fixed body + ref, and added the correct Gamma & Metzinger (2021) MPE-92M PLOS ONE paper. (2) Ref "Sharma et al. 2022" yoga-nidra → actual lead author Datta K et al. (Front Neurol 910794). (3) Ref "Panda et al. 2022" self-continuity → actual author Izadifar M (Front Psychol 740542). (4) Ref "Paller 2025" dropped lead author Budson and had wrong pages 67-81 → Budson & Paller 2025, pp. 1957-1972.
+- **Medium issues addressed**: 4 (Alcaraz-Sánchez 2021 surname form + spurious "et al." removed, vol/pages added; De Warren venue Academia.edu → Springer/Phaenomenologica; Demirel title/authors completed; Morley journal "Theory & Psychology"). Bidirectional cross-check clean; refs renumbered 1-18.
+- **Engagement modes**: physicalist Mode Three; Many-Worlds Mode Three; Dennett Mode Three (unchanged from prior review). No label leakage. No calibration slippage; modal/void register preserved.
+- **Enhancements made**: 0 (no argument expansion; prose remains converged)
+- **Output**: [[reviews/deep-review-2026-06-05-sleep-consciousness-void]]
+
 ## 2026-06-05T12:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/perception]]

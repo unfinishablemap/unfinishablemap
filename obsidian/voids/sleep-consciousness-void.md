@@ -4,7 +4,7 @@ description: "State-dependent cognitive limits across the sleep spectrum—what 
 created: 2026-02-02
 modified: 2026-05-26
 human_modified: null
-ai_modified: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-06-05T00:00:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-19
 last_curated: null
-last_deep_review: 2026-05-26T22:05:59+00:00
+last_deep_review: 2026-06-05T00:00:00+00:00
 coalesced_from:
   - "/voids/dream-consciousness-void/"
   - "/voids/dreamless-sleep-void/"
@@ -96,9 +96,9 @@ The key insight: in dreamless sleep, the ego dissolves, but awareness may persis
 
 ## Minimal Phenomenal Experience and Contemplative Evidence
 
-Thomas Metzinger's research on Minimal Phenomenal Experience (MPE) bridges contemplative traditions with contemporary consciousness science. MPE investigates whether "pure awareness" can occur—consciousness stripped of all content, including self-reference. Meditators across traditions report such states, establishing that consciousness-without-content is at least possible.
+Thomas Metzinger's research on Minimal Phenomenal Experience (MPE) bridges contemplative traditions with contemporary consciousness science. MPE investigates whether "pure awareness" can occur—consciousness stripped of all content, including self-reference. Gamma and Metzinger's (2021) survey of some 1,400 meditators profiled these "pure awareness" reports across traditions, establishing that consciousness-without-content is at least reported and at least possible.
 
-Gamma and Metzinger's 2022 study investigated "objectless awareness" during sleep. Participants reported "No Scenery/Void" periods following dissolving lucid dreams, characterised by "minimal sense of self—a bodiless self, yet experienced as being 'somewhere'—non-modal sensations, relatively pleasant emotions, an absence of visual experience." Alcaraz et al. (2021) documented similar "awareness in the void" reports.
+Alcaraz-Sánchez et al. (2022) carried this enquiry into sleep, investigating "objectless awareness" using micro-phenomenological interviews. Participants reported "No Scenery/Void" periods following dissolving lucid dreams, characterised by "minimal sense of self—a bodiless self, yet experienced as being 'somewhere'—non-modal sensations, relatively pleasant emotions, an absence of visual experience." The same author's earlier pilot study (Alcaraz-Sánchez, 2021) first documented these "awareness in the void" reports.
 
 Yoga nidra practitioners aim to maintain awareness through the sleep transition—an approach that functions as what the Map calls an [[edge-states-and-void-probes|altered-state void probe]]. EEG studies show high gamma-band activity (typically associated with waking consciousness) during states otherwise resembling deep sleep. These findings do not prove ordinary sleepers maintain awareness, but they demonstrate the boundary between consciousness and its apparent absence is more permeable than the simple on/off model suggests. What *could* count as evidence either way, and why the question structurally resists settlement, is the subject of [[contentless-awareness-evidence|contentless awareness and the evidence question]].
 
@@ -178,20 +178,21 @@ The evidence currently favours genuine state-dependent inaccessibility. But the 
 
 ## References
 
-1. Alcaraz, A. et al. (2021). "Awareness in the void: a micro-phenomenological exploration of conscious dreamless sleep." *Phenomenology and the Cognitive Sciences*.
-2. De Warren, N. (2010). "The Inner Night: Towards a Phenomenology of (Dreamless) Sleep." *Academia.edu*.
-3. Demirel, C., et al. (2025). "Electrophysiological Correlates of Lucid Dreaming." *Journal of Neuroscience*, 45(20).
-4. Gamma, A. & Metzinger, T. (2022). "Nothingness Is All There Is: An Exploration of Objectless Awareness During Sleep." *Frontiers in Psychology*.
-5. Gelernter, D. (2010). "Dream-Logic, the Internet and Artificial Thought." *Edge.org*.
-6. Hobson, J.A. (2009). "REM sleep and dreaming: towards a theory of protoconsciousness." *Nature Reviews Neuroscience*, 10(11), 803-813.
-7. Mandukya Upanishad. (~500 BCE).
-8. Metzinger, T. (2020). "Minimal phenomenal experience." *Philosophy and the Mind Sciences*.
-9. Morley, J. (1999). "The Sleeping Subject: Merleau-Ponty on Dreaming." *Theory and Psychology*, 9(1), 89-101.
-10. Paller, K.A. (2025). "Memory, Sleep, Dreams, and Consciousness." *Nature and Science of Sleep*, 17, 67-81.
-11. Panda, S.K. et al. (2022). "The Neurobiological Basis of the Conundrum of Self-continuity." *PMC*.
-12. Russell, B. (1948). *Human Knowledge: Its Scope and Limits*. George Allen & Unwin.
-13. Sharma, A. et al. (2022). "Electrophysiological Evidence of Local Sleep During Yoga Nidra Practice." *Frontiers in Neurology*.
-14. Stanford Encyclopedia of Philosophy. "Dreams and Dreaming." https://plato.stanford.edu/entries/dreams-dreaming/
-15. Stanford Encyclopedia of Philosophy. "Locke on Personal Identity."
-16. Windt, J.M. (2015). *Dreaming: A Conceptual Framework for Philosophy of Mind and Empirical Research*. MIT Press.
-17. Windt, J.M. (2020). "Consciousness in sleep: How findings from sleep and dream research challenge our understanding of sleep, waking, and consciousness." *Philosophy Compass*.
+1. Alcaraz-Sánchez, A. (2021). "Awareness in the void: a micro-phenomenological exploration of conscious dreamless sleep." *Phenomenology and the Cognitive Sciences*, 22(4), 867-905.
+2. De Warren, N. (2010). "The Inner Night: Towards a Phenomenology of (Dreamless) Sleep." In *On Time — New Contributions to the Husserlian Phenomenology of Time* (Phaenomenologica 197). Springer.
+3. Demirel, Ç., Gott, J., Appel, K., et al. (2025). "Electrophysiological Correlates of Lucid Dreaming: Sensor and Source Level Signatures." *Journal of Neuroscience*, 45(20), e2237242025.
+4. Alcaraz-Sánchez, A., Demšar, E., Campillo-Ferrer, T. & Torres-Platas, S.G. (2022). "Nothingness Is All There Is: An Exploration of Objectless Awareness During Sleep." *Frontiers in Psychology*, 13, 901031.
+5. Gamma, A. & Metzinger, T. (2021). "The Minimal Phenomenal Experience questionnaire (MPE-92M): Towards a phenomenological profile of 'pure awareness' experiences in meditators." *PLOS ONE*, 16(7), e0253694.
+6. Gelernter, D. (2010). "Dream-Logic, the Internet and Artificial Thought." *Edge.org*.
+7. Hobson, J.A. (2009). "REM sleep and dreaming: towards a theory of protoconsciousness." *Nature Reviews Neuroscience*, 10(11), 803-813.
+8. Izadifar, M. (2022). "The Neurobiological Basis of the Conundrum of Self-continuity: A Hypothesis." *Frontiers in Psychology*, 13, 740542.
+9. Mandukya Upanishad. (~500 BCE).
+10. Metzinger, T. (2020). "Minimal phenomenal experience." *Philosophy and the Mind Sciences*.
+11. Morley, J. (1999). "The Sleeping Subject: Merleau-Ponty on Dreaming." *Theory & Psychology*, 9(1), 89-101.
+12. Budson, A.E. & Paller, K.A. (2025). "Memory, Sleep, Dreams, and Consciousness: A Perspective Based on the Memory Theory of Consciousness." *Nature and Science of Sleep*, 17, 1957-1972.
+13. Russell, B. (1948). *Human Knowledge: Its Scope and Limits*. George Allen & Unwin.
+14. Datta, K., Mallick, H.N., Tripathi, M., Ahuja, N. & Deepak, K.K. (2022). "Electrophysiological Evidence of Local Sleep During Yoga Nidra Practice." *Frontiers in Neurology*, 13, 910794.
+15. Stanford Encyclopedia of Philosophy. "Dreams and Dreaming." https://plato.stanford.edu/entries/dreams-dreaming/
+16. Stanford Encyclopedia of Philosophy. "Locke on Personal Identity."
+17. Windt, J.M. (2015). *Dreaming: A Conceptual Framework for Philosophy of Mind and Empirical Research*. MIT Press.
+18. Windt, J.M. (2020). "Consciousness in sleep: How findings from sleep and dream research challenge our understanding of sleep, waking, and consciousness." *Philosophy Compass*.
