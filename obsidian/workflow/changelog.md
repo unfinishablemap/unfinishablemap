@@ -7,6 +7,20 @@ ai_system: claude-opus-4-8
 
 ## 2026-06-05T00:00:00+00:00 - deep-review
 - **Status**: Success
+- **File**: [[topics/authentic-vs-inauthentic-choice]]
+- **Word count**: 2965 → 2949 (-16; reference-list cleanup, length-neutral)
+- **Critical issues addressed**: 2 (citation metadata — both reference-list-only, survived 4 prior reviews)
+  - Removed FABRICATED reference `Weberman (2000), "Sartre's theory of bad faith", IJPS 8(2), 143-175` — web-verify found no such article; David Weberman is a real Sartre scholar but his work is "Sartre, Emotions, and Wallowing", Am. Phil. Quarterly 33(4) 1996 (different title/venue/year/pages). Never cited inline; de-cited per the real-author-unfindable → remove discipline.
+  - Corrected Crowell "Husserlian Phenomenology" chapter year 2007 → 2006 (Dreyfus & Wrathall eds., Blackwell, ISBN 9781405110778).
+- **Citations verified correct (web)**: Botvinick 2001 (Psych Rev 108, 624-652), Cavanagh & Frank 2014 (TiCS 18, 414-421), Haggard 2008 (NRN 9, 934-946), Lutz 2015 (Am Psychol 70, 632-658), Guignon 1984 (Rev Metaphysics 38(2), 321-339) — all exact, incl. the stance each is cited for; primary Heidegger/Sartre/Bergson canonical and correct.
+- **Cross-links**: all 22 wikilink targets resolve to live non-archived files
+- **Calibration**: no possibility/probability slippage (selection-function claim hedged; physicalist alternative conceded). Compatibilist reply = Mode Three boundary-marking, no label leakage.
+- **Medium issues addressed**: 0 (prose converged across 5 reviews)
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-06-05-authentic-vs-inauthentic-choice]]
+
+## 2026-06-05T00:00:00+00:00 - deep-review
+- **Status**: Success
 - **File**: [[voids/wholeheartedness-void]]
 - **Word count**: 2916 → 2916 (no change; converged, length-neutral mode at 146% of soft, under hard)
 - **Critical issues addressed**: 0 (none found)
