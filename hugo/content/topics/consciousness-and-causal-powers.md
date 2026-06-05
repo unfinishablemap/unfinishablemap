@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-06-04 16:01:44+00:00
+ai_modified: 2026-06-05 04:57:31+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -28,7 +28,7 @@ description: What causal influence does consciousness exercise, and within what 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-19 10:36:26+00:00
+last_deep_review: 2026-06-05 04:57:31+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

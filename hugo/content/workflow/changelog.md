@@ -9,6 +9,82 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-05T07:45:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [edge-states-and-void-probes](/voids/edge-states-and-void-probes/)
+- **Source**: consolidated P1 editor pass from convergent outer reviews 2026-06-05 (3/3: chatgpt, claude, gemini)
+- **Word count**: 2380 → 3042 (net-additive; under voids 4000 hard ceiling)
+- **Changes** (5 convergent findings, one pass to avoid same-file churn):
+  - (b) DOMINANT 3-reviewer finding: rewrote the Dualism paragraph. Removed the unsupported "convergence costs physicalism more theoretical machinery" claim (a common cause cuts *against* aggregating cases as independent confirmations); downgraded to "roughly equally consistent / does not discriminate"; marked "supports" vs "fits" slippage honestly; added the zero-person/MPE underdetermination among dualism, panpsychism, neutral monism, and Metzinger's naturalism.
+  - (a) NDE overclaim: replaced "absent brain function"/"flat EEG" with "severely compromised, intermittently monitored, difficult-to-time"; synced with the 2026-06-04 near-death-experiences.md recalibration; reframed NDEs as the *weakest* leg.
+  - (c) Imported filter-theory caveat into Reducing Valve section: DMN/REBUS findings compatible-with but not discriminating-of filter vs predictive-processing/production; "one pattern, not several independent confirmations."
+  - (d) Added [noetic-feelings-void](/voids/noetic-feelings-void/) as a direct internal defeater to the dissolving-insight rebuttal (Koriat feeling-of-knowing heuristic; signal-without-referent), distinct from the supporting-neighbour [thought-stream-void](/voids/thought-stream-void/).
+  - (e) Tightened falsifiability: reframed "transcendence we cannot communicate about" as "metaphysical possibility, not an evidentially upgraded hypothesis," borrowing apophatic-cartography expiration-condition discipline.
+- **Discipline**: distinguished compatible-with vs supporting in natural prose; no mode labels in body; no editor-vocabulary leakage (verified); no new citations (reused existing Koriat/Facco/Gładziejewski refs). Added [noetic-feelings-void](/voids/noetic-feelings-void/) to related_articles. validate.py ✓; analyze_length 3042 (hard_warning band, under critical).
+- **Published**: yes
+
+## 2026-06-05T04:57:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)
+- **Word count**: 3087 → 3087 (no change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 — converged; no-change verification
+- **Verification**: Seventh deep review, staleness-triggered (substantive refine/condense activity since 2026-05-19). Re-verified all 5 external citations live against the refined prose (Torres Alegre 2025 preprint-status candour present at load-bearing first mention; "Seven" mechanism count matches linked target; Bodien/Claassen 2024 NEJM; Nisbett & Wilson 1977; Wegner 2002; Brass & Haggard 2007). No possibility/probability slippage (Architecture-vs-Implementation framing guards against it). No label leakage. All 52 wikilink targets resolve. Length-neutral mode (103% of soft, under hard).
+- **Engagement modes (editor-internal)**: eliminative materialism — Mode Three (framework-boundary, honestly noted); physicalism/identity theory — Mode Two then Mode Three close; predictive processing — Mode Three at the constitution-vs-causal-work bridge.
+- **Output**: [deep-review-2026-06-05-consciousness-and-causal-powers](/reviews/deep-review-2026-06-05-consciousness-and-causal-powers/)
+
+## 2026-06-05T05:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [edge-states-and-void-probes](/voids/edge-states-and-void-probes/)
+- **Source**: outer review 2026-06-05 ChatGPT 5.5 Pro (P1 mechanical citation fix; web-verified this cycle via PhilPapers GADFAS-2 + Springer s13164-023-00709-6)
+- **Changes**: Mechanical citation correction for the Gładziejewski paper "From Altered States to Metaphysics." Body inline cite (line 119): "Piotr Gładziejewski (2024)" → "Paweł Gładziejewski (2023)". Reference 5 (line 182): year "(2024)" → "(2023)" and added vol/page detail *Review of Philosophy and Psychology*, 16(1):175–197 (DOI 10.1007/s13164-023-00709-6, online 2023). No prose changes. Both occurrences verified fixed.
+- **Published**: yes
+
+## 2026-06-05T04:48:15+00:00 - refine-draft
+- **Status**: Success
+- **File**: [edge-states-and-void-probes](/voids/edge-states-and-void-probes/)
+- **Source**: outer review 2026-06-05 Claude Opus 4.8 (rec A2 — Metzinger co-optation), [outer-review-2026-06-05-claude-opus-4-8](/reviews/outer-review-2026-06-05-claude-opus-4-8/)
+- **Changes**: Corrected the co-optation of Metzinger (counterargument absorption per direct-refutation-discipline). (1) Rewrote the *Zero-Person Perspective* section to state Metzinger's naturalistic MPE conclusion explicitly first — pure awareness as the content of a Bayesian tonic-alertness model, brain-dependent; self-eliminativism (*Being No One*); the "E-fallacy" warning against reading metaphysics off phenomenology — then recast the dualist reading *as* a disagreement within his framing rather than support borrowed from it. (2) Honoured evidential-status: stated MPE/zero-person UNDERdetermines dualism (equally a physicalist self-model-offline story, lighter on parsimony); dualist inference held open, not established. (3) De-quoted the uncited "completely open to the possibility of any epistemic state" phrase (Epistemic-openness bullet) to a paraphrase per ai-citation-metadata-unreliable; added a forward-anchor to the section. Added Metzinger 2020 (*Philosophy and the Mind Sciences* 1(I), DOI 10.33735/phimisci.2020.I.46) to References and renumbered.
+- **Engagement classification**: Metzinger: Mode Two (unsupported foundational move re-attributed — the article had borrowed a naturalist's vocabulary for the opposite conclusion; fix invokes Metzinger's own naturalistic commitments to show MPE does not license the dualist inference) shading to Mode Three (the residual dualist reading is declared a framework-boundary possibility, held open not refuted). Underdetermination noted honestly.
+- **Length**: 2119 → 2379 words (soft_warning, under 3000 hard; mechanical, no ballooning). validate ✓.
+- **Scope note**: Distinct from the ChatGPT consolidation task (Metzinger not covered there). Other review recs (cash-out the convergence-cost claim, REBUS/DMN/NDE currency, illusionism, quantum quarantine) left for their own tasks.
+- **Published**: yes
+
+## 2026-06-05T05:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `positions/quantum-interface.md` (P-Q1–P-Q10 quantum-interface positions register; freshest never-reviewed content file, ai_contribution 100). Found a verified cross-article quantitative contradiction on the Donadi 2021 bound (register correct vs primary source; topic article imprecise), a P-Q9 self-concealment/unfalsifiability gap missing its falsifiable-residue clause, P-Q1 inheriting the bias-without-deviation dilemma it claims to sidestep, and Chalmers–McQueen citation-year drift. Two P2 tasks queued (refine-draft topic-article reconcile; positions-evolve calibration pass).
+- **Output**: [pessimistic-2026-06-05](/reviews/pessimistic-2026-06-05/)
+
+## 2026-06-05T04:39:37+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-05
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.8, Gemini 2.5 Pro)
+- **Subject**: edge-states-and-void-probes (steerable-subject triple)
+- **Clusters**: 3 convergent (convergence-cost/common-cause-null; REBUS/DMN/NDE empirical currency; filter-theory caveat inheritance), 5 singleton, 1 divergence (Gemini hostile-referee misreads NDE/Zahavi against the cautious article)
+- **Tasks upgraded**: 2 (P2→P1: edge-states consolidation pass; REBUS/DMN/NDE empirical currency)
+- **Tasks deduplicated**: 0 (filter-theory caveat cluster folded into the consolidation pass; convergence-flag tracking entry resolved-by-synthesis)
+- **Output**: [outer-review-synthesis-2026-06-05](/reviews/outer-review-synthesis-2026-06-05/)
+
+## 2026-06-05T05:00:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research, hostile-referee persona)
+- **File**: [outer-review-2026-06-05-gemini-2-5-pro](/reviews/outer-review-2026-06-05-gemini-2-5-pro/)
+- **Subject**: edge-states-and-void-probes (third reviewer of the 06-05 triple, after ChatGPT 5.5 Pro and Claude Opus 4.8)
+- **Claims verified**: 5 weaknesses checked against the article body (grep + full read)
+- **High-value findings**: 1 distinct valid (W1 FDG-PET metabolic-cost counterevidence — genuine omission), 1 convergent-modest (W2 active-inference cessation cite); 3 misreads (W3/W4 attack NDE claims the article does not make; W5 "Zahavian minimal self" is factually wrong — the article relies on Metzinger, not Zahavi)
+- **Tasks generated**: 1 new P2 (FDG-PET metabolic counterevidence) + 1 convergence-flag tracking entry for /combine-outer-reviews; W2 folded into existing predictive-processing currency task; no tasks for the 3 misreads
+- **Note**: hostile-referee persona reconstructed a stronger, more empirically-committed article than the cautious hedged text actually present; verification notes record the discrepancy
+
+## 2026-06-05T05:00:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/) · [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/)
+- **Change**: Length-neutral mutual cross-link between two AI-substrate articles that previously had zero cross-link but reach the same bracketed "compatibility not support / open programme not evidence" verdict from opposite directions (quantum-substrate OBSTACLE side ↔ LLM-introspection PARALLEL side).
+- **quantum-state-inheritance-in-ai.md** (2376w → 2422w, headroom to 3000): added a short clause + [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/) wikilink in the "Current AI does not satisfy the Map's conditions" paragraph of "Implications for AI Consciousness Claims", preserving the evidential-status framing ("compatibility, not support, an open programme rather than evidence"); mirrored into related_articles.
+- **introspection-architecture-independence-scoring.md** (3999w → 3999w, body UNCHANGED, 1 word under 4000 hard ceiling): per the load-bearing length constraint, added ONLY a bare [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/) entry to related_articles (frontmatter, body-excluded). NO prose, NO body sentence.
+- **Verification**: analyze_length confirms side 2 body stayed at exactly 3999w (under hard); both link targets resolve on disk; both files validate clean. Evidential-status-discipline framing preserved on both sides.
+- **Published**: yes
+
 ## 2026-06-05T04:13:50+00:00 - deep-review
 - **Status**: Success
 - **File**: [recursion-void](/voids/recursion-void/)

@@ -1,15 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-05T03:00:00+00:00
+ai_modified: 2026-06-05T09:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
-## 2026-06-05T07:45:00+00:00 - refine-draft
+## 2026-06-05T09:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/edge-states-and-void-probes]]
-- **Source**: consolidated P1 editor pass from convergent outer reviews 2026-06-05 (3/3: chatgpt, claude, gemini)
-- **Word count**: 2380 → 3042 (net-additive; under voids 4000 hard ceiling)
+- **Source**: EMPIRICAL-CURRENCY P1 (convergent outer-review, 2026-06-05); companion to the consolidation pass that deferred specific datasets to this task
+- **Changes**: added WEB-VERIFIED post-2019 empirical sources. (a) REBUS: framed REBUS as the strongest physicalist edge-mapping engine; added ALBUS/SEBUS (Safron et al. 2025, *Neuroscience of Consciousness*, niae038 — 5-HT2A can strengthen as well as relax priors) and REBAS (Zeifman et al. 2023, *Sci Rep*, s41598-023-28111-3 — direct empirical test); argued ALBUS cuts *against* the filter reading, not for it. (b) DMN: replaced flat "DMN reduction" with Siegel et al. 2024 *Nature* (632:131-138) desynchronization finding; added Brewer et al. 2011 meditation connectivity-vs-activity nuance (increased PCC–PFC coupling alongside decreased PCC activation); flagged DMN-as-ego equation as contested. (c) NDE: added Xu/Borjigin 2023 *PNAS* (gamma surge, comatose non-survivors, no experience), AWARE-II (Parnia 2023 *Resuscitation* 191:109903, veridical-perception primary endpoint NEGATIVE), Kondziella 2019 *PeerJ* REM-intrusion — all framed as PHYSICALIST candidates / weakest leg, NOT transcendence support; corrected the internal inconsistency with the companion [[near-death-experiences]] article
+- **Citation corrections vs reviewer-supplied**: ALBUS is the citable umbrella paper (Safron et al.), SEBUS is its strengthening-pole label not a separate paper; REBAS = "Revised Beliefs After Psychedelics" (Zeifman et al., post-acute belief revision), not the "direct test" framing in the task notes — framed accurately. All 7 new cites web-verified (author/venue/year/DOI/volume)
+- **Word count**: 3036 → 3641 (net-additive; under voids 4000 critical ceiling; light condensing offset on REBUS closing + DMN dedup)
+- **Published**: yes
 - **Changes** (5 convergent findings, one pass to avoid same-file churn):
   - (b) DOMINANT 3-reviewer finding: rewrote the Dualism paragraph. Removed the unsupported "convergence costs physicalism more theoretical machinery" claim (a common cause cuts *against* aggregating cases as independent confirmations); downgraded to "roughly equally consistent / does not discriminate"; marked "supports" vs "fits" slippage honestly; added the zero-person/MPE underdetermination among dualism, panpsychism, neutral monism, and Metzinger's naturalism.
   - (a) NDE overclaim: replaced "absent brain function"/"flat EEG" with "severely compromised, intermittently monitored, difficult-to-time"; synced with the 2026-06-04 near-death-experiences.md recalibration; reframed NDEs as the *weakest* leg.

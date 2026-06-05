@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-15
-ai_modified: 2026-06-04 08:15:28+00:00
+ai_modified: 2026-06-05 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -27,6 +27,7 @@ last_deep_review: 2026-06-04 00:57:14+00:00
 modified: *id001
 related_articles:
 - '[[cross-architecture-llm-introspection]]'
+- '[[quantum-state-inheritance-in-ai]]'
 - '[[apex/taxonomy-of-voids]]'
 - '[[the-surplus-void]]'
 - '[[narrative-void]]'
