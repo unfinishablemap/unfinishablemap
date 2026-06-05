@@ -5,6 +5,16 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/clinical-evidence-quality-standards-consciousness-research]]
+- **Word count**: 2772 → ~2768 (−4)
+- **Critical issues addressed**: 0 (none found — well-converged, 4th review)
+- **Medium issues addressed**: 1 (removed banned "This is not X. It is Y." cliché at first-person-evidence passage; rephrased to direct positive claim)
+- **Enhancements made**: 0 (article stable; calibration discipline exemplary)
+- **Citation verification**: live web-verify of all recently-changed + high-stakes empirical citations — Warren 2023 (7(3), 038001 ✓ the 048001→038001 sweep was correct), Kerskens & López Pérez 2022 ✓, Kral 2022 (n=218, active controls ✓), Van Dam 2018 ✓, Khan 2024 (eNeuro 11(8) ✓), Goyal 2014 ✓. No misattribution/fabrication; 19 wikilinks resolve. Named-opponent engagement (physicalist, Std #3): Mode Three boundary-marking, honest, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-05-clinical-evidence-quality-standards-consciousness-research]]
+
 ## 2026-06-05T00:00:00+00:00 - condense
 - **Status**: Partial — light prune applied; remains over hard cap (human length-decision candidate)
 - **File**: [[voids/agency-void]]

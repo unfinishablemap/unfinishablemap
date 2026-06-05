@@ -4,7 +4,7 @@ description: "When does clinical and neurological evidence bear on metaphysical 
 created: 2026-04-06
 modified: 2026-04-06
 human_modified:
-ai_modified: 2026-06-04T09:26:45+00:00
+ai_modified: 2026-06-05T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-06
 last_curated:
-last_deep_review: 2026-05-25T20:35:43+00:00
+last_deep_review: 2026-06-05T00:00:00+00:00
 ---
 
 Clinical and neurological evidence is routinely cited in debates about consciousness — Schwartz's OCD neuroplasticity, meditation neuroimaging, placebo effects, dissociation syndromes, anaesthesia studies. Yet consciousness research faces a distinctive methodological problem: the inferential gap between clinical findings and metaphysical conclusions is wider than in ordinary medicine, and standard evidence hierarchies (RCTs, meta-analyses, replication) address only part of the difficulty. The Unfinishable Map holds that clinical evidence can be genuinely probative for questions about consciousness, but only when evaluated against standards that account for both third-person and first-person data, the underdetermination problem, and the asymmetry between functional and structural claims.
@@ -74,7 +74,7 @@ The deepest limitation of standard evidence hierarchies is that they were design
 
 Phenomenological method addresses this gap. Husserl's evidence taxonomy — adequate, apodictic, assertoric, presumptive — provides categories for evaluating first-person evidence with philosophical rigour (Berghofer, 2019). Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] proposes mutual constraints between first-person phenomenological accounts and third-person neuroscience: neither alone is sufficient, but together they address the hard problem pragmatically (Varela, 1996).
 
-The Map holds that first-person evidence is not second-class data awaiting reduction to third-person measurements. It is evidence of a different kind, requiring its own quality standards — as argued in [[phenomenal-authority-and-first-person-evidence|phenomenal authority and first-person evidence]]. Clinical evidence quality assessment must integrate both kinds.
+The Map holds that first-person evidence is evidence of a distinct kind, requiring its own quality standards rather than awaiting reduction to third-person measurements — as argued in [[phenomenal-authority-and-first-person-evidence|phenomenal authority and first-person evidence]]. Clinical evidence quality assessment must integrate both kinds.
 
 ## A Framework for Evaluating Clinical Consciousness Evidence
 
