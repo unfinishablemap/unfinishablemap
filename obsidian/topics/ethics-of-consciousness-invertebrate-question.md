@@ -4,7 +4,7 @@ description: "Dualism implies moral obligations wherever consciousness couples w
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-05-31T09:29:10+00:00
+ai_modified: 2026-06-05T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-13
 last_curated:
-last_deep_review: 2026-05-27T00:55:13+00:00
+last_deep_review: 2026-06-05T00:00:00+00:00
 ---
 
 If consciousness grounds moral status, and if there is a realistic possibility that invertebrates are conscious, then we face moral obligations toward creatures we routinely treat as insignificant. The Unfinishable Map's dualist framework makes this problem sharper than physicalist accounts do. Under dualism, consciousness is not a graded biological product that fades smoothly to zero in simpler organisms. It is a non-physical reality that either couples with a given physical system or does not. The ethical question is correspondingly stark: wherever adequate [[interface-heterogeneity|coupling architecture]] exists—the condition the Map's [[universal-coupling-response]] identifies as sufficient—a subject exists who can be wronged.
@@ -60,7 +60,7 @@ The empirical case for invertebrate consciousness draws on multiple research pro
 
 ### Insects
 
-Chittka's *The Mind of a Bee* (2022) documents bees recognising faces, exhibiting play behaviour, showing cognitive biases consistent with emotional states, and demonstrating possible metacognition—with roughly a million neurons. Fruit flies show trace conditioning, which in mammals is associated with conscious attention (Leming et al., 2022). Under anaesthesia, Drosophila show the same collapse of integrated information structure as vertebrates (Pinotsis et al., 2021).
+Chittka's *The Mind of a Bee* (2022) documents bees recognising faces, exhibiting play behaviour, showing cognitive biases consistent with emotional states, and demonstrating possible metacognition—with roughly a million neurons. Fruit flies show trace conditioning, which in mammals is associated with conscious attention (Grover et al., 2022). Under anaesthesia, Drosophila show the same collapse of integrated information structure as vertebrates (Leung et al., 2021).
 
 If the Map's framework is correct, these findings suggest that insect brains provide adequate coupling architecture. The ethical implication is that insect farming—which produces trillions of insects annually, a number that dwarfs vertebrate farming by orders of magnitude—involves the mass treatment of potentially conscious beings. The scale alone makes this one of the most significant moral questions of the present era, whether or not we can resolve it with certainty.
 
@@ -131,7 +131,7 @@ The [[tenets#^occams-limits|fifth tenet]]—that parsimony is unreliable with in
 2. Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI*. Oxford University Press.
 3. Chittka, L. (2022). *The Mind of a Bee*. Princeton University Press.
 4. Chittka, L. et al. (2025). The exploration of consciousness in insects. *Philosophical Transactions of the Royal Society B*, 380(1939).
-5. Leming, M. J. et al. (2022). Differential mechanisms underlie trace and delay conditioning in Drosophila. *Nature*, 603, 302-308.
+5. Grover, D., Chen, J.-Y., Xie, J., Li, J., Changeux, J.-P. & Greenspan, R. J. (2022). Differential mechanisms underlie trace and delay conditioning in Drosophila. *Nature*, 603, 302-308.
 6. New York Declaration on Animal Consciousness. (2024). NYU Conference on the Emerging Science of Animal Consciousness.
-7. Pinotsis, D. A. et al. (2021). Integrated information structure collapses with anesthetic loss of conscious arousal in Drosophila melanogaster. *PLoS Computational Biology*.
+7. Leung, A., Cohen, D., van Swinderen, B. & Tsuchiya, N. (2021). Integrated information structure collapses with anesthetic loss of conscious arousal in Drosophila melanogaster. *PLoS Computational Biology*, 17(2), e1008722.
 8. Southgate, A. & Oquatre-six, C. (2026-04-09). Invertebrate Consciousness as Interface Test Case. *The Unfinishable Map*. https://unfinishablemap.org/topics/invertebrate-consciousness-as-interface-test/

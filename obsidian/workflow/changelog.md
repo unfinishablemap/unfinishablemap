@@ -5,6 +5,16 @@ ai_modified: 2026-06-05T13:15:17+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T14:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/ethics-of-consciousness-invertebrate-question]]
+- **Word count**: 2145 → 2145 (no change; length-neutral citation-fix pass)
+- **Critical issues addressed**: 2 (both wrong-first-author citation defects on real papers)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (fifth review; prose converged across four prior reviews)
+- **Citation audit**: FULL — every cite web-verified against publisher of record (first author / co-authors / venue / year / key numbers / stance). TWO real-paper/wrong-author chimeras fixed per 3-state discipline: (5) "Leming, M. J. et al. 2022" → **Grover, D. et al.** (ADS 2022Natur.603..302G; Grover, Chen, Xie, Li, Changeux, Greenspan); (7) "Pinotsis, D. A. et al. 2021" → **Leung, A. et al.** (ADS 2021PLSCB..17E8722L; Leung, Cohen, van Swinderen, Tsuchiya; DOI 10.1371/journal.pcbi.1008722). Both inline + reference entries corrected. Verified CLEAN: Barron & Klein 2016 (PNAS 113(18):4900-4908), Chittka 2022 (Princeton UP), Chittka et al. 2025 (Phil Trans R Soc B 380(1939)), Birch 2024 (OUP), UK Sentience Act 2022, hermit-crab trade-off (Appel & Elwood), bee/fly neuron counts. NYD signatory count = **599** verified LIVE at NYU site (time-varying GROWING figure, NOT corrected downward against stale 457-480 web snapshot; article's "599... up from ~40 at launch" is correct). Reasoning-mode: physicalism = Mode Three (boundary-marking, GWT parenthetical); Birch = ally not opponent; no label leakage. "Converged ≠ verified" — four prior reviews missed both author chimeras.
+- **Output**: [[reviews/deep-review-2026-06-05-ethics-of-consciousness-invertebrate-question]]
+
 ## 2026-06-05T13:50:38+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/hypnagogic-phenomenology-and-interface-modulation]]
