@@ -5,6 +5,16 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T07:39:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/machine-question]]
+- **Word count**: 4985 → 4999 (net flat; length-neutral, under 5000 apex hard threshold)
+- **Critical issues addressed**: 1 (missing Rebouillat et al. 2021 reference for the anti-correlated-metacognitive-signal claim — web-verified real, added to References)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (length-neutral prose tightening to offset the reference addition and keep under hard threshold)
+- **Notes**: Sixth deep review; first archived review against the post-condense/post-Butlin-expansion body (last_deep_review read 2026-05-19 but no review FILE existed — a cycle deep-review touched the timestamp without archiving). Web-verified all load-bearing citations in the expanded body: Butlin et al. 2023 (arXiv:2308.08708, Chalmers contributor, "no obvious technical barriers" finding accurate), Butlin et al. 2025 TiCS (DOI 10.1016/j.tics.2025.10.011), Hoel 2026 Disproof (arXiv:2512.12802, continual-learning thesis), Milinkovic & Aru 2026 (NBR 181:106524), Maier–Dechamps 2018 (12,571-participant null). No possibility/probability slippage (indicator framework correctly split strongly-supported-as-science / live-hypothesis-as-criterion; rival-reading section runs discriminator both ways, invokes common-cause-null). Reasoning modes — functionalism: Mode Two; Searle: Mode One (supportive); Duch: Mode Three; Hoel: Mode One; substrate-independent-computationalist rival: Mixed→Mode Three residue, no boundary-substitution. No label leakage, no cliché (grep-confirmed). All cross-links resolve live.
+- **Output**: [[reviews/deep-review-2026-06-05-machine-question]]
+
 ## 2026-06-05T00:30:00+00:00 - deep-review
 - **Status**: Success — confirming convergence pass, no critical issues
 - **File**: [[concepts/disconnection-neuroscience]]
