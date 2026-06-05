@@ -5,6 +5,17 @@ ai_modified: 2026-06-05T21:48:15+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T23:15:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/empirical-phenomena-mental-causation]]
+- **Word count**: 3541 → 3541 (verification-only; 118% of 3000 soft, under 4000 hard, soft_warning)
+- **Critical issues addressed**: 0 (converged; ninth review across placebo-only + coalesced lives)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0. Only change since 2026-05-28 was the Marueckova→Seymour/Mathers first-author fix (ebaaed3ba); this pass confirms that fix correct. No oscillation; bedrock-disagreement list preserved unflagged.
+- **Citation web-verify**: ALL ten high-risk placebo/OLP/choking citations verified against publisher of record — Kaptchuk 2010 (PLoS ONE 5(12):e15591), Fendel 2025 (Sci Rep s41598-025-14895-z; SMD 0.35, self-report 0.39 vs objective 0.09 — numbers+direction match), Hróbjartsson & Gøtzsche 2010 (Cochrane CD003974, pain SMD −0.28), Seymour & Mathers 2024 (Front Psychiatry 10.3389/fpsyt.2023.1301143), Benedetti 2003 (J Neurosci 23(10):4315-4323; analgesic/motor override vs hormonal-conditioning split faithful), Levine 1978 (Lancet 312(8091):654-657), De la Fuente-Fernández 2001 (Science 293(5532):1164-1166), Goebel 2002 (FASEB J 16(14):1869-1873), Beilock & Carr 2001 (JEP:Gen 130(4):701-725), Masters 1992 (Br J Psychol 83(3):343-358). Zero fabricated / wrong-paper / wrong-author defects; 3-state de-citation not triggered. Calibration + label-leakage checks clean.
+- **Engagement modes (editor-internal)**: functionalist Mode Two/Three; epiphenomenalist Mixed (Two→Three); illusionist Mode Three. No label leakage in body.
+- **Output**: [[reviews/deep-review-2026-06-05-empirical-phenomena-mental-causation]]
+
 ## 2026-06-05T22:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/neurological-dissociations-as-interface-architecture]]

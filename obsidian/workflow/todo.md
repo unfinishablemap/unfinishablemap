@@ -37,13 +37,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/empirical-phenomena-mental-causation.md (changed-since-review staleness, gap ~6d)
-- **Type**: deep-review
+### P2: Adopt qualia calibration in wanting-liking-and-the-value-in-mechanism-fork
+- **Type**: refine-draft
 - **Status**: pending
-- **File**: obsidian/topics/empirical-phenomena-mental-causation.md
-- **Notes**: Changed-since-review: ai_modified 2026-06-03, last_deep_review 2026-05-28 (~6-day gap), ai_contribution=100. Body changed after review = unreviewed new content. Placebo + choking-under-pressure empirical claims (~10 post-2020 year-tokens) carry high citation risk. WEB-VERIFY any placebo / open-label-placebo (Kaptchuk et al.) and choking / ironic-process citations against the live literature; AI citation metadata unreliable. PRESERVE calibration / evidential-status / citation-framing language; the placebo and choking phenomena are *suggestive* of mental causation, not decisive (the article's own discipline must hold).
-- **Source**: staleness
+- **File**: obsidian/topics/wanting-liking-and-the-value-in-mechanism-fork.md
+- **Notes**: From topic-concept anchoring audit 2026-06-05. The topic article over-claims relative to its anchor concept [[qualia]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 1.27/kw is below 60% of anchor (8.22/kw)
+  - strong-assertion density 2.54/kw exceeds 1.5× anchor (1.22/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-05
+
+### P2: Adopt valence calibration in wanting-liking-and-the-value-in-mechanism-fork
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/wanting-liking-and-the-value-in-mechanism-fork.md
+- **Notes**: From topic-concept anchoring audit 2026-06-05. The topic article over-claims relative to its anchor concept [[valence]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 1.27/kw is below 60% of anchor (7.16/kw)
+  - strong-assertion density 2.54/kw exceeds 1.5× anchor (0.72/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-05
+
 
 ### P2: Deep review concepts/mind-matter-interface.md (changed-since-review staleness, gap ~7d)
 - **Type**: deep-review
@@ -978,6 +993,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Deep review topics/empirical-phenomena-mental-causation.md (changed-since-review staleness, gap ~6d)
+- **Type**: deep-review
+- **Notes**: Changed-since-review: ai_modified 2026-06-03, last_deep_review 2026-05-28 (~6-day gap), ai_contribution=100. Body changed after review = unreviewed new content. Placebo + choking-under-pressure empirical claims (~10 post-2020 year-tokens) carry high citation risk. WEB-VERIFY any placebo / open-label-placebo (Kaptchuk et al.) and choking / ironic-process citations against the live literature; AI citation metadata unreliable. PRESERVE calibration / evidential-status / citation-framing language; the placebo and choking phenomena are *suggestive* of mental causation, not decisive (the article's own discipline must hold).
 
 ### ✓ 2026-06-05: Deep review topics/neurological-dissociations-as-interface-architecture.md (changed-since-review staleness, gap ~6d)
 - **Type**: deep-review

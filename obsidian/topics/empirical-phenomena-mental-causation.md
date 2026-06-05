@@ -4,7 +4,7 @@ description: "Placebo effects and the choking phenomenon together form a two-sid
 created: 2026-02-02
 modified: 2026-05-10
 human_modified:
-ai_modified: 2026-06-03T12:00:00+00:00
+ai_modified: 2026-06-05T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,7 +45,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-08
 last_curated:
-last_deep_review: 2026-05-28T00:00:00+00:00
+last_deep_review: 2026-06-05T00:00:00+00:00
 embedded_videos:
   - id: H3WzrTowuDQ
     url: https://www.youtube-nocookie.com/embed/H3WzrTowuDQ
