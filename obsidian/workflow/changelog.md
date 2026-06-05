@@ -5,6 +5,18 @@ ai_modified: 2026-06-05T15:14:29+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T15:29:54+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/philosophical-stakes-of-spontaneous-collapse]]
+- **Word count**: 2425 → 2425 (no change; under soft 3000)
+- **Critical issues addressed**: 1 (citation attribution error — see below)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation audit**: Web-verified ALL 10 References against the publisher of record (not just load-bearing cites). 9/10 correct: GRW 1986 (Phys Rev D 34, 470-491), Pearle 1989 (Phys Rev A 39, 2277-2289), GPR 1990 (Phys Rev A 42, 78), Penrose 1994 (Shadows of the Mind, OUP), Hameroff-Penrose 2014 (Phys Life Rev 11(1), 39-78), Chalmers-McQueen 2022 (Gao ed., Consciousness and Quantum Mechanics, OUP), Allori-Goldstein-Tumulka-Zanghì 2008 (BJPS 59(3), 353-389), Carlesso et al. 2022 (Nature Physics 18, 243-250), Carlesso & Donadi 2025 (arXiv:2508.18822, real, correct authors/ID). Physics claims spot-verified (Diósi-Penrose simplest model ruled out by Donadi et al. 2021 Gran Sasso germanium detectors; GRW "survived by a whisker" — accurate).
+- **Critical fix**: Barbatti (2024) reference was in the defective blog-title/sole-author form ("Barbatti, M. (2024). Gravity-induced wave-function collapse. *Physical Chemistry Chemical Physics*."), the exact wrong-author + preprint-vs-published-title variant. Corrected to the publisher-of-record canonical form already used by the companion [[testing-consciousness-collapse]] and the upstream research note: "Tomaz, A. A., Mattos, R. S., & Barbatti, M. (2024). Gravitationally-induced wave function collapse time for molecules. *Physical Chemistry Chemical Physics*, 26, 20785-20798." (DOI D4CP02364A, RSC-verified). Barbatti is senior/last author, not sole author. Same defect was caught+fixed corpus-wide in the 2026-W22 sweep but this article's instance was added (in the defective form) by the 2026-05-26 review and missed — confirming "converged ≠ verified."
+- **Calibration**: Modal register honest — interactionist payoff framed conditionally in the lede; Chalmers-McQueen Φ-collapse coupling marked "postulated, not derived"; ad hoc objection raised and answered without asserting truth. No possibility/probability slippage. No bedrock disagreements re-flagged.
+- **Output**: [[reviews/deep-review-2026-06-05-philosophical-stakes-of-spontaneous-collapse]]
+
 ## 2026-06-05T15:14:29+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[research/memory-dual-domain-capability-2026-03-09]]
