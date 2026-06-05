@@ -4,7 +4,7 @@ description: "A comprehensive treatment of attention as consciousness's interfac
 created: 2026-02-01
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-06-04T18:15:00+00:00
+ai_modified: 2026-06-05T15:09:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,7 +45,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-05-25T00:00:00+00:00
+last_deep_review: 2026-06-05T15:09:15+00:00
 coalesced_from:
   - "/topics/attention-as-selection-interface/"
   - "/topics/attention-consciousness-dissociation/"
@@ -178,10 +178,10 @@ The convergence argument identifies *where* consciousness might influence brain 
 
 - [[attention-as-interface]] — Interface hypothesis stated and developed
 - [[attention-as-causal-bridge]] — Apex synthesis
-- [[motor-selection]], [[structure-of-attention]] — Motor selection and attention types
+- [[motor-selection]], [[structure-of-attention]] — Selection mechanism; attention types
 - [[bandwidth-of-consciousness]] — Inbound/outbound bandwidth asymmetry
 - [[dopamine-and-the-unified-interface]] — Dopamine's dual role
-- [[stapp-quantum-mind]], [[mental-effort]] — Quantum Zeno; phenomenology of effort
+- [[stapp-quantum-mind]], [[mental-effort]] — Quantum Zeno; effort phenomenology
 - [[topics/free-will]], [[attention-schema-theory]] — Timing constraints; Graziano's theory
 - [[neurological-dissociations-as-interface-architecture]] — How damage maps the interface
 - [[voids/attention-and-consciousness]] — Epistemological voids attention creates
@@ -217,7 +217,7 @@ The convergence argument identifies *where* consciousness might influence brain 
 
 14. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
 
-15. Melloni, L. et al. (2025). An adversarial collaboration to critically evaluate theories of consciousness. *Nature*, 642(8066), 133-142.
+15. Melloni, L. et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142.
 
 16. Nartker, M., Firestone, C., Egeth, H., & Phillips, I. (2025). Sensitivity to visual features in inattentional blindness. *eLife*, 13, RP100337.
 

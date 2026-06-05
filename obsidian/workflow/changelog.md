@@ -5,6 +5,18 @@ ai_modified: 2026-06-05T17:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T15:09:15+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/attention-and-the-consciousness-interface]]
+- **Word count**: 3998 → 3999 (length-neutral; soft_warning, 1w under 4000 hard cap)
+- **Citation audit**: Full live-literature web-verification of all post-2020 / changed-since-review cites. Fine & Hayden 2022 PTRSB 377(1844):20200524 verified (the 06-04 swap from Wise & Murray FIXED a prior wrong-author defect); Cai et al. 2024 Nature 635:406-414 verified; Zheng & Meister 2025 Neuron 113(2):192-204 verified; Nartker/Firestone/Egeth/Phillips 2025 eLife 13:RP100337 verified; Sjöberg 2024 Brain 147(7):2267-2269 verified; Kim & Chong 2024 Conscious. Cogn. verified real (missing vol/pages, minor); Kral et al. 2022 Sci Adv 8(20):eabk3316 verified.
+- **Critical issue addressed**: 1 — **Melloni/COGITATE reference carried the 2023 bioRxiv PREPRINT title ("An adversarial collaboration to critically evaluate theories of consciousness") while citing the published Nature 642(8066):133-142 locator.** Real-paper-wrong-metadata. Rewrote ref 15 to the published title "Adversarial testing of global neuronal workspace and integrated information theories of consciousness." Body claim (neither GWT/IIT vindicated; conscious content posterior) verified accurate; body's descriptive "adversarial collaboration" phrasing left as-is.
+- **Reasoning-mode (editor-internal)**: AST/Graziano — Mixed (unsupported-foundational-move + framework-boundary marking); MWI defender — boundary marking; illusionist/eliminativist — bedrock. No label leakage.
+- **Calibration**: all hedges/evidential-status qualifiers preserved; new mutation-void cross-link sentence is correctly framed as an alternative reading, not an upgraded claim. No possibility/probability slippage.
+- **Medium issues addressed**: 0
+- **Output**: [[reviews/deep-review-2026-06-05-attention-and-the-consciousness-interface]]
+- **Note**: 4th deep review; converged. The 06-04 staleness-triggering edits were themselves citation corrections, all verified correct. Sole change is the mandated audit catching the preprint-title metadata defect.
+
 ## 2026-06-05T17:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/episodic-memory]]
