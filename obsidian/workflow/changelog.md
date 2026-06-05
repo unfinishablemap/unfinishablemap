@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-05T20:40:51+00:00
+ai_modified: 2026-06-05T21:33:10+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-05T21:33:10+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-collective-phenomena]]
+- **Word count**: 3611 → 3611 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 prose changes (convergence holds; review of same-day refine-draft)
+- **Output**: [[reviews/deep-review-2026-06-05-consciousness-and-collective-phenomena]]
+- **Notes**: Sixth review. Re-triggered legitimately by 2026-06-05 refine-draft (0293b8169, "dualist-machinery overclaims") — substantive change since the converged fifth review. Focused on the changed material. (1) New IIT exclusion-postulate passage WEB-VERIFIED accurate against IIT 4.0/Tononi literature (only maxima of Φ conscious → aggregates of conscious individuals excluded; within-brain integration dominates) — correctly attributed to IIT itself, no defect. (2) Possibility/probability slippage check PASS and improved: the refine systematically removed overclaims (predicts/proves/strong support → model-relative/consistent-with/does-not-establish/left-standing) across the interface argument, Instructive Asymmetry, and all five tenet paragraphs; great-apes claim re-grounded off tenet-load onto cognitive resources; No-Many-Worlds rewritten as explicit conditional with honest boundary flag. No over-hedge into mush — hedges load-bearing. (3) Citations re-verified: Zahavi 2015 JCS 22(1-2):84-101 web-verified exact; Galton 1907 + canonical philosophy (Searle/Bratman/Tomasello/Schmid/Husserl/Durkheim/Hegel) unchanged-accurate (recency-density heuristic: canonical cluster verifies clean). Engagement modes re-confirmed (functionalist Mode Two, classical-success Mode One, IIT-exclusion Mode One internal-to-IIT, epiphenomenalist Mode Two strengthened, MWI Mode Three); no label leakage, no boundary substitution. Length 3611w (120% soft, under 4000 hard) — length-neutral, no edits. "No critical issues" convergence success; calibration language must be preserved verbatim by future condense.
 
 ## 2026-06-05T21:29:25+00:00 - deep-review
 - **Status**: Success
