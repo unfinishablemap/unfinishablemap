@@ -5,6 +5,15 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T00:00:00+00:00 - condense
+- **Status**: Partial reduction — left over hard cap to protect calibration
+- **File**: [[topics/argument-from-reason]]
+- **Before**: 4636 words (155% of topics 3000 target, over 4000 hard cap)
+- **After**: 4489 words (still over 4000 hard cap)
+- **Reduction**: 3.2% (147 words)
+- **Technique**: Prose-tightening of genuine redundancy only — collapsed restated points (Dennett real-patterns, Kim exclusion qua-content repetition, undercutting-defeater restatement), trimmed verbose phrasings, removed one duplicate example in the generality-problem challenge, removed a duplicate `phenomenology-of-intellectual-life` Further Reading entry and tightened FR glosses. NO argument, counterargument, named-opponent engagement (Dennett/Davidson/Yablo/Kim/Anscombe/McGinn/Reppert/Hasker/Sellars/Plantinga), citation, hedge, or calibration qualifier removed.
+- **Reason left long**: The article carries ten named-opponent engagements, the three-part reliabilism critique, a four-corner naturalism diagnosis, and the calibration/underdetermination layer added by the 2026-06-02 anchoring refine. Verbose-prose surplus was only ~150w; the remaining ~490w to reach the cap is load-bearing argument + calibration content. Reaching 4000 would require dropping the exact content the prior refine added. Anchoring profile confirmed unchanged (0 flags before and after; hedge/marker density preserved). **Human length-decision candidate** — same class as the over-ceiling-flagship backlog.
+
 ## 2026-06-05T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/neural-implementation-specifics]]
