@@ -4,7 +4,7 @@ description: "A 2025 study found genetically identical mice show anaesthetic-eme
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-06-05T21:45:00+00:00
 last_deep_review: 2026-06-05T00:00:00+00:00
 draft: false
 topics:
@@ -134,7 +134,7 @@ The Map's working position is that emergence-time stochasticity is a genuine and
 2. Lee, U. (2025). Emergence from general anaesthesia: stochastic or deterministic? *British Journal of Anaesthesia*, 135(1), 5–8. https://doi.org/10.1016/j.bja.2025.04.002
 3. Hu, J.-J., Liu, Y., Yao, H., et al. (2023). Emergence of consciousness from anesthesia through ubiquitin degradation of KCC2 in the ventral posteromedial nucleus of the thalamus. *Nature Neuroscience*, 26, 751–764. https://doi.org/10.1038/s41593-023-01290-y
 4. Friedman, E. B., Sun, Y., Moore, J. T., et al. (2010). A conserved behavioral state barrier impedes transitions between anesthetic-induced unconsciousness and wakefulness. *PLOS ONE*, 5(7), e11903.
-5. Sepúlveda, P. O., Carrasco, E., Tapia, L. F., et al. (2019). Neural inertia and differences between loss of and recovery from consciousness during total intravenous anaesthesia: a narrative review. *Anaesthesia*, 74(6), 801–807.
+5. Sepúlveda, P. O., Tapia, L. F., & Monsalves, S. (2019). Neural inertia and differences between loss of and recovery from consciousness during total intravenous anaesthesia: a narrative review. *Anaesthesia*, 74(6), 801–809.
 6. Masanes, L., Galley, T. D., & Müller, M. P. (2019). The measurement postulates of quantum mechanics are operationally redundant. *Nature Communications*, 10, 1361. https://doi.org/10.1038/s41467-019-09348-x
 7. (2023 response contesting the operational redundancy of the measurement postulates). arXiv:2307.06191.
 8. Pati, A. K. (2026). No-signalling fixes the Hilbert-space inner product. arXiv:2601.13012.

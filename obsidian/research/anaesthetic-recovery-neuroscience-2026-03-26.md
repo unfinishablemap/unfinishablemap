@@ -4,7 +4,7 @@ created: 2026-03-26
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
-ai_modified: 2026-06-03T00:20:14+00:00
+ai_modified: 2026-06-05T21:45:00+00:00
 ---
 
 # Research: Neuroscience of Anaesthetic Recovery
@@ -210,7 +210,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 1. Bhatt MB, Bowen S, Rossiter HE, et al. (2021). Recovery of consciousness and cognition after general anesthesia in humans. *eLife*, 10:e59525. https://elifesciences.org/articles/59525
 2. Mashour GA (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(10):1553-1567. https://doi.org/10.1016/j.neuron.2024.03.002
 3. Sanders RD, et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*. https://pmc.ncbi.nlm.nih.gov/articles/PMC10539891/
-4. Sepúlveda PO, et al. (2019). Neural inertia and differences between loss of and recovery from consciousness during total intravenous anaesthesia: a narrative review. *Anaesthesia*, 74(6):801-807. https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/10.1111/anae.14609
+4. Sepúlveda PO, Tapia LF, Monsalves S. (2019). Neural inertia and differences between loss of and recovery from consciousness during total intravenous anaesthesia: a narrative review. *Anaesthesia*, 74(6):801-809. https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/10.1111/anae.14609
 5. Friedman EB, et al. (2010). A conserved behavioral state barrier impedes transitions between anesthetic-induced unconsciousness and wakefulness. *PLOS ONE*, 5(7):e11903. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0011903
 6. (2025). Emergence from general anaesthesia: stochastic or deterministic? *British Journal of Anaesthesia*. https://pmc.ncbi.nlm.nih.gov/articles/PMC12597436/
 7. (2021). Dynamics of recovery from anaesthesia-induced unconsciousness across primate neocortex. https://pmc.ncbi.nlm.nih.gov/articles/PMC7868001/

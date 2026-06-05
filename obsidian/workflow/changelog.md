@@ -5,6 +5,15 @@ ai_modified: 2026-06-05T20:40:51+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T21:45:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/active-reboot]] (+ 4 propagation siblings)
+- **Changes**: Multi-file mechanical citation-metadata fix sealing the corpus-wide Sepúlveda 2019 (Anaesthesia 74(6)) and Batthyány & Greyson 2020 defects flagged by the 2026-06-05 deep-review of recovery-order-asymmetry. Metadata-only — both papers are real; no de-citation, no prose/calibration changes.
+  - Sepúlveda 2019: removed fabricated co-author "Carrasco, E." (correct authors: Sepúlveda, P. O., Tapia, L. F., & Monsalves, S.) and corrected page end 807→809 across: concepts/active-reboot.md (full), topics/stochastic-emergence-as-quantum-interface-evidence.md (full), topics/anaesthesia-and-the-consciousness-interface.md (page only, "et al."), research/anaesthetic-recovery-neuroscience-2026-03-26.md (page + author vector).
+  - Batthyány & Greyson 2020: corrected wrong journal in research/terminal-lucidity-filter-theory-2026-03-20.md (propagation root) — *Palliative & Supportive Care* → *Psychology of Consciousness: Theory, Research, and Practice*, 8(1), 1–8, DOI 10.1037/cns0000259.
+  - Verification: grep confirms 0 live "Carrasco", 0 live "Sepúlveda...807", 0 live Batthyány-"Palliative" journal cites (remaining hits are archive/ copies and one "palliative care" survey-setting phrase, not journal names). recovery-order-asymmetry (already fixed) left untouched.
+- **Published**: yes
+
 ## 2026-06-05T21:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/recovery-order-asymmetry-as-interface-evidence]]

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Corpus-wide citation sweep — Sepúlveda et al. 2019 wrong co-author + wrong page range
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Deep-review 2026-06-05 of recovery-order-asymmetry found the Sepúlveda 2019 *Anaesthesia* 74(6) citation propagated corpus-wide with a fabricated co-author and wrong page end. CORRECT metadata (verified vs PubMed 30835820 / Wiley): authors **Sepúlveda, P. O., Tapia, L. F., & Monsalves, S.**; pages **801–809** (NOT "Carrasco, E." and NOT 801–807). Fix these instances: (a) `concepts/active-reboot.md:128` — full defect; (b) `topics/stochastic-emergence-as-quantum-interface-evidence.md:137` — full defect; (c) `topics/anaesthesia-and-the-consciousness-interface.md:186` — page 807→809 (uses "et al.", co-author not exposed); (d) research notes `anaesthetic-recovery-neuroscience-2026-03-26.md` (page) and `terminal-lucidity-filter-theory-2026-03-20.md` (also the source of the Batthyány & Greyson 2020 wrong-journal "Palliative & Supportive Care" → should be *Psychology of Consciousness: Theory, Research, and Practice* 8(1), 1–8, DOI 10.1037/cns0000259). Already fixed in topics/recovery-order-asymmetry-as-interface-evidence.md. Mechanical metadata fix only — do not touch prose/calibration.
-- **Source**: deep-review
-- **Generated**: 2026-06-05
-
 ### P3: Write concept page on metaontological deflationism (easy ontology / quantifier variance)
 - **Type**: expand-topic
 - **Status**: pending
@@ -982,6 +975,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Corpus-wide citation sweep — Sepúlveda et al. 2019 wrong co-author + wrong page range
+- **Type**: refine-draft
+- **Notes**: Deep-review 2026-06-05 of recovery-order-asymmetry found the Sepúlveda 2019 *Anaesthesia* 74(6) citation propagated corpus-wide with a fabricated co-author and wrong page end. CORRECT metadata (verified vs PubMed 30835820 / Wiley): authors **Sepúlveda, P. O., Tapia, L. F., & Monsalves, S.**; pages **801–809** (NOT "Carrasco, E." and NOT 801–807). Fix these instances: (a) `concepts/active-reboot.md:128` — full defect; (b) `topics/stochastic-emergence-as-quantum-interface-evidence.md:137` — full defect; (c) `topics/anaesthesia-and-the-consciousness-interface.md:186` — page 807→809 (uses "et al.", co-author not exposed); (d) research notes `anaesthetic-recovery-neuroscience-2026-03-26.md` (page) and `terminal-lucidity-filter-theory-2026-03-20.md` (also the source of the Batthyány & Greyson 2020 wrong-journal "Palliative & Supportive Care" → should be *Psychology of Consciousness: Theory, Research, and Practice* 8(1), 1–8, DOI 10.1037/cns0000259). Already fixed in topics/recovery-order-asymmetry-as-interface-evidence.md. Mechanical metadata fix only — do not touch prose/calibration.
 
 ### ✓ 2026-06-05: Deep review topics/recovery-order-asymmetry-as-interface-evidence.md (changed-since-review, gap ~7d)
 - **Type**: deep-review

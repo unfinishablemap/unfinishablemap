@@ -4,6 +4,7 @@ created: 2026-03-20
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
+ai_modified: 2026-06-05T21:45:00+00:00
 ---
 
 # Research: Terminal Lucidity — Systematic Evidence for Filter/Transmission Theory
@@ -225,7 +226,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 1. Nahm, M., & Greyson, B. (2009). Terminal lucidity in patients with chronic schizophrenia and dementia. *Journal of Nervous and Mental Disease*, 197(12), 942–944.
 2. Nahm, M., Greyson, B., Kelly, E. W., & Haraldsson, E. (2012). Terminal lucidity: A review and a case collection. *Archives of Gerontology and Geriatrics*, 55(1), 138–142. https://med.virginia.edu/perceptual-studies/wp-content/uploads/sites/360/2016/12/OTH25terminal-lucidity-AGG.pdf
-3. Batthyány, A., & Greyson, B. (2020). Spontaneous remission of dementia before death: Results from a study on paradoxical lucidity. *Palliative & Supportive Care*. https://www.researchgate.net/publication/343929977
+3. Batthyány, A., & Greyson, B. (2020). Spontaneous remission of dementia before death: Results from a study on paradoxical lucidity. *Psychology of Consciousness: Theory, Research, and Practice*, 8(1), 1–8. https://doi.org/10.1037/cns0000259
 4. Mashour, G. A., Frank, L., Batthyány, A., et al. (2019). Paradoxical lucidity: A potential paradigm shift for the neurobiology and treatment of severe dementias. *Alzheimer's & Dementia*, 15(8), 1107–1114. https://pubmed.ncbi.nlm.nih.gov/31229433/
 5. Eldadah, B. A., et al. (2019). Lucidity in dementia: A perspective from the NIA. *Alzheimer's & Dementia*, 15(8), 1104–1106. https://pubmed.ncbi.nlm.nih.gov/31422799/
 6. Nahm, M. (2022). Terminal lucidity versus paradoxical lucidity: A terminological clarification. *Alzheimer's & Dementia*, 18(4). https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.12574
