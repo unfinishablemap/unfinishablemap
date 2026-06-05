@@ -5,6 +5,14 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T00:00:00+00:00 - condense
+- **Status**: Success
+- **File**: [[topics/wheelers-participatory-universe-and-it-from-bit]]
+- **Before**: 4045 words
+- **After**: 3998 words
+- **Reduction**: 1.2%
+- **Technique**: Light hub-accretion prune (article only ~45w over the topics 4000 hard cap; previously condensed twice, regrew from cross-link installs). Tightened verbose connectives ("a different direction entirely" → "direction", "for this reason" delete, "in some sense", "directly", "the entire history" → "its") and de-repeated phrasings across ~16 passages; removed two redundant inline forward/back anchor links (#informational-realism, #qbism-and-participatory-realism) whose sections remain. PRESERVED every calibration qualifier, hedge, evidential-status framing, named opponent (Wheeler/Bohr/Zeilinger/Brukner/Barbour/Dembski/Fuchs/Ismael/Stapp/Tegmark/Wolfram), and all citations; three-branch corridor/minimum-outside-corridor/trumping framing, the 10⁻¹³ s decoherence figure, and the within-trial-signature discriminator all intact. No anchoring flags (evaluate_anchoring clean before and after); validates clean.
+
 ## 2026-06-05T08:58:24+00:00 - condense
 - **Status**: Success
 - **File**: [[concepts/quantum-consciousness]]
