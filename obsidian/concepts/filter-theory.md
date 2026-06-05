@@ -4,7 +4,7 @@ description: "The brain transmits and constrains consciousness rather than produ
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-05-28T23:50:08+00:00
+ai_modified: 2026-06-05T21:08:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -205,7 +205,7 @@ A note on how the evidence above should be weighed. The seven supportive subsect
 
 ## References
 
-1. Batthyány, A. & Greyson, B. (2020). Terminal lucidity: A review and a case collection. *Archives of Gerontology and Geriatrics*, 88, 104016.
+1. Batthyány, A. & Greyson, B. (2020). Spontaneous remission of dementia before death: Results from a study on paradoxical lucidity. *Psychology of Consciousness: Theory, Research, and Practice*, 8(1), 1-8. https://doi.org/10.1037/cns0000259
 1. Bergson, H. (1896). *Matter and Memory*. Trans. N.M. Paul and W.S. Palmer.
 1. Claassen, J., et al. (2019). Detection of brain activation in unresponsive patients with acute brain injury. *New England Journal of Medicine*, 380(26), 2497-2505.
 1. Carhart-Harris, R., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *PNAS*, 109(6), 2138-2143.

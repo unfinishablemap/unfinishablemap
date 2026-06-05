@@ -5,6 +5,12 @@ ai_modified: 2026-06-05T20:40:51+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T21:08:34+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/filter-theory]]
+- **Changes**: Fixed chimera/misattributed citation in References entry 1 (~line 208). The entry borrowed the title "Terminal lucidity: A review and a case collection" (which belongs to Nahm, Greyson, Kelly & Haraldsson 2012, *Arch. Gerontol. Geriatr.* 55(1):138-142 — the 83-cases/250-years review) plus a wrong venue/locator ("88, 104016") onto a "Batthyány & Greyson (2020)" author line. Web-verified both candidate papers. The in-text usage (Terminal Lucidity section, ~line 106) cites only the 124-case caregiver-survey dementia study with >80% remission — that is Batthyány & Greyson's actual 2020 paper. Corrected reference 1 to *Spontaneous remission of dementia before death: Results from a study on paradoxical lucidity*, Psychology of Consciousness: Theory, Research, and Practice, 8(1):1-8, DOI 10.1037/cns0000259. In-text author attribution was already correct (no body change). Nahm 2012 not added — its review is not cited in this article's body. Length-neutral metadata/attribution fix; substantive claim preserved.
+- **Published**: yes
+
 ## 2026-06-05T21:05:28+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/neural-refresh-rates-and-the-smoothness-problem]]
