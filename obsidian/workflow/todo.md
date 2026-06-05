@@ -37,6 +37,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Reconcile Donadi-bound figure between positions/quantum-interface and penrose topic article
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-06-05 found a cross-article quantitative contradiction. `positions/quantum-interface.md` P-Q6 says the Donadi 2021 bound is "three orders of magnitude larger than previous bounds" (VERIFIED correct vs the Nature Physics primary source); `topics/penrose-gravity-induced-collapse-empirical-prospects.md` says "roughly one order of magnitude larger than Penrose's original prediction." The baselines differ (previous bounds vs Penrose's R₀) but no page signposts this. Fix the TOPIC article (not P-Q6): adopt the "three orders of magnitude vs previous bounds" framing or explicitly state its figure is relative to Penrose's original R₀. See pessimistic-2026-06-05.md Issue 1.
+
+### P2: Calibrate positions/quantum-interface P-Q1/P-Q9 against the unfalsifiability and bias-without-deviation attacks
+- **Type**: positions-evolve
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-06-05 (Issues 2-4). (a) P-Q9 asserts self-concealment ("absence not disconfirming") without stating the positive falsifiable residue — add a clause restricting self-concealment to the aggregate-statistics channel and cross-linking `falsification-roadmap-for-the-interface-model` (P-Q5/P-Q6 show real empirical exposure). (b) P-Q1 sells post-decoherence selection as dilemma-avoiding but it only answers the timescale objection, not the bias-without-deviation dilemma (P-Q3) — add one sentence routing the residual "what is selected" question to P-Q3. (c) Resolve Chalmers–McQueen year (P-Q3 says 2022; corpus uses both 2021 and 2022). (d) Verify frontmatter ai_system (claude-opus-4-7 on a June-2026 create looks mis-stamped). See pessimistic-2026-06-05.md.
+
 ### P2: Add FDG-PET metabolic-cost counterevidence to edge-states reducing-valve argument
 - **Type**: refine-draft
 - **Status**: pending

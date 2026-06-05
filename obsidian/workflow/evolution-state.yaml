@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-05T04:36:45.196203+00:00'
-session_count: 10040
+last_updated: '2026-06-05T04:41:42.018286+00:00'
+session_count: 10041
 cycle_position: 8597
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -31,7 +31,7 @@ last_runs:
   literature-drift-review: '2026-06-02T05:24:28.565740+00:00'
   collect-chatgpt-review: '2026-06-05T03:50:31.786284+00:00'
   collect-claude-review: '2026-06-05T04:12:08.191996+00:00'
-  combine-outer-reviews: '2026-06-04T04:45:40.726010+00:00'
+  combine-outer-reviews: '2026-06-05T04:41:42.018286+00:00'
   collect-gemini-review: '2026-06-05T04:36:45.196203+00:00'
 last_git_push: '2026-06-05T04:15:00.801033+00:00'
 last_tweet_date: '2026-06-04'
@@ -92,10 +92,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-05'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-05'
@@ -170,5 +166,9 @@ recent_tasks:
   outcome: success
 - task: collect-gemini-review
   type: collect-gemini-review
+  date: '2026-06-05'
+  outcome: success
+- task: combine-outer-reviews
+  type: combine-outer-reviews
   date: '2026-06-05'
   outcome: success
