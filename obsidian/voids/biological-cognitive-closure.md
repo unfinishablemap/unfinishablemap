@@ -4,7 +4,7 @@ description: "Human cognitive limits have biological origins: evolution selects 
 created: 2026-01-24
 modified: 2026-05-22
 human_modified: null
-ai_modified: 2026-06-04T18:25:00+00:00
+ai_modified: 2026-06-05T08:37:22+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-23
 last_curated: null
-last_deep_review: 2026-05-22T12:11:37+00:00
+last_deep_review: 2026-06-05T08:37:22+00:00
 coalesced_from:
   - "/voids/evolved-cognitive-limits/"
   - "/voids/architecture-of-cognitive-closure/"
