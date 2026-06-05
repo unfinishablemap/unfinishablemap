@@ -5,6 +5,15 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T10:56:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-measurement-and-consciousness]]
+- **Word count**: 3171 → 3219 (+48)
+- **Critical issues addressed**: 0 (no fabricated cites, no physics errors, no slippage; Okon-Sebastián 05-27 fix verified intact)
+- **Medium issues addressed**: 2 (bidirectional citation audit — added References entries for two dangling inline cites: Torres Alegre 2025 arXiv:2512.12636, web-verified author "Enso O. Torres Alegre" + Born-rule/no-signalling stance; Chalmers & McQueen 2022 arXiv:2105.02314, web-verified CSL-IIT stance + book *Consciousness and Quantum Mechanics* ed. Shan Gao)
+- **Enhancements made**: 0 content; full citation audit both directions + web re-verification of Frauchiger-Renner single-world stance and Tomaz/Mattos/Barbatti review. Tenet 4/Tenet 2 framing precise; calibration fully intact. Named-opponent engagements: MWI Mixed→Mode Three; decoherence Mode One; QBism Mode Three. No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-05-quantum-measurement-and-consciousness]]
+
 ## 2026-06-05T10:52:21+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/heterophenomenology]]
