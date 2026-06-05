@@ -4,7 +4,7 @@ description: "Consciousness processes ten bits per second from eleven million av
 created: 2026-02-28
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-05-28T22:55:09+00:00
+ai_modified: 2026-06-05T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-28
 last_curated:
-last_deep_review: 2026-05-18T00:00:00+00:00
+last_deep_review: 2026-06-05T00:00:00+00:00
 ---
 
 Consciousness encounters reality through an extraordinarily narrow aperture. Sensory systems deliver roughly eleven million bits per second to the brain, yet conscious thought processes approximately ten — a compression ratio of one to one million. This is The Unfinishable Map's resolution void: the gap between what the brain handles and what consciousness accesses. The void is not a contingent imperfection awaiting correction through sharper attention or better training. It operates across spatial, temporal, informational, and discriminatory dimensions simultaneously, and at least some of these limits appear architectural rather than incidental. Within the [[voids]] framework, the resolution void is primarily **unexplorable** — consciousness cannot perceive at a finer grain than its own resolution permits — with an **unexplored** dimension in the informational domain where researchers continue mapping the compression mechanisms.

@@ -6,6 +6,16 @@ ai_system: claude-opus-4-8
 ---
 
 ## 2026-06-05T00:00:00+00:00 - deep-review
+- **Status**: Success (converged — no changes; changed-content citations web-verified)
+- **File**: [[voids/resolution-void]]
+- **Word count**: 1850 → 1850 (no change; 92% of voids soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamps only)
+- **Scope**: 3rd deep review (changed-since-review, ~21d gap, ~10d change). Both changes since review 2 (2026-05-18) were from the `5be1c3087` corpus-wide citation-normalization refine (touched only ai_modified, not last_deep_review → no hidden review debt). (1) Zheng & Meister (2024)→(2025): VERIFIED correct — *Neuron* 113(2) print Jan 2025 (online-first Dec 2024); whole corpus now consistent on (2025). (2) Musslick et al. (2016)→Wu et al. (2016) for the 3–4 bits/sec cognitive-control figure: WEB-VERIFIED correct (nature.com/articles/srep34025, PMC5034293; Wu, Dufford, Mackie, Egan & Fan; *Scientific Reports* 6, 34025) — paper genuinely reports ~3–4 bits/sec cognitive-control capacity; a BETTER attribution than the superseded Musslick (graph-theoretic, not a direct measurement). Sellars 1965 / Lee 2023 verbatim quotes unchanged + consistent with grain-mismatch sibling. Both section-anchor deep links into quantitative-comprehension-void (#the-cardinality-floor, #the-magnitude-and-probability-domain) resolve; all cross-links live (no archival rot). Calibration diagnostic PASSES (conditional MQI register, open kṣaṇa question). No named-opponent passages → no label-leakage/boundary-substitution risk. Firmly converged after 3 reviews. (Side-note: research/psychophysical-coupling-problem cites Gershman 2016 for the same 3–4 bits figure — out-of-scope corpus-normalization candidate.)
+- **Output**: [[reviews/deep-review-2026-06-05-resolution-void]]
+
+## 2026-06-05T00:00:00+00:00 - deep-review
 - **Status**: Success (converged — no changes; citations re-verified)
 - **File**: [[concepts/libet-experiments]]
 - **Word count**: 3069 → 3069 (no change; 123% of concepts soft threshold, under hard)
