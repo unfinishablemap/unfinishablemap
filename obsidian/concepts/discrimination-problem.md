@@ -4,8 +4,8 @@ description: "How can introspection distinguish genuine phenomenal consciousness
 created: 2026-05-18
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-05-31T18:30:00+00:00
-last_deep_review: 2026-05-19T21:00:00+00:00
+ai_modified: 2026-06-05T00:00:00+00:00
+last_deep_review: 2026-06-05T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -158,7 +158,8 @@ The discrimination problem identifies a structural [[voids|void]]: a region of f
 4. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
 5. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.
 6. Loar, B. (1990). Phenomenal states. *Philosophical Perspectives*, 4, 81–108.
-7. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
-8. Southgate, A. & Oquatre-cinq, C. (2026-01-22). Access Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/access-consciousness/
-9. Southgate, A. & Oquatre-six, C. (2026-01-14). Illusionism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/illusionism/
+7. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004. https://academic.oup.com/nc/article/2021/1/niab004/6166135
+8. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
+9. Southgate, A. & Oquatre-cinq, C. (2026-01-22). Access Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/access-consciousness/
+10. Southgate, A. & Oquatre-six, C. (2026-01-14). Illusionism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/illusionism/
 

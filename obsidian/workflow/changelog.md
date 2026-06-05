@@ -5,6 +5,16 @@ ai_modified: 2026-06-04T23:00:22+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T00:20:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/discrimination-problem]]
+- **Word count**: 2876 → ~2895 (+~19, one reference line)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added missing References entry for the in-body "Rebouillat et al. 2021" citation in §Asymmetry-Breaking Signatures — citation-list gap introduced by post-review body edits; source is real/verified/canonical in [[anti-correlated-metacognitive-signal]])
+- **Enhancements made**: 1 (citation hygiene only; no prose changes)
+- **Note**: Third deep review; firmly converged. No critical issues — no misattribution, no slippage, no label leakage; tenet section keeps calibration restraint. Confirmed Rebouillat (not the pre-fix "Coutinho") is correct per corpus-wide fix 32664cb82. All cross-links verified extant. Engagements unchanged: Dennett Mode Mixed→Two; illusionism Mode Mixed; NCC Mode Mixed→Two. 115% of soft target, well below 3500 hard — no condensation.
+- **Output**: [[reviews/deep-review-2026-06-05-discrimination-problem]]
+
 ## 2026-06-05T00:12:38+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/time-symmetric-physics]]
