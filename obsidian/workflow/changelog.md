@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-05T12:30:00+00:00
+ai_modified: 2026-06-05T13:15:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-05T13:15:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/consciousness-selecting-neural-patterns]]
+- **Word count**: 2696 → 2696 (+0; one reference-title completion; length-neutral at 108% of 2500 soft, under 3500 hard cap)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 — completed the truncated Wiest 2025 reference title ("…and solves the binding and epiphenomenalism problems")
+- **Exhaustive citation audit (per task brief)**: web-verified ALL 18 citations against publisher of record (first-author surname / co-authors / venue / year / volume / key numbers / stance), not just load-bearing cites. Three-state de-citation discipline. Result: **zero defects — all real-and-correct.** Specifically confirmed: Wiest 2025 = Michael C. Wiest (Wellesley neuroscience), NOT Olaf Wiest the chemist (documented conflation absent); Craddock 2017 = correct Sci Rep 7:9877 with the (613±8) THz figure (NOT the 2015-Current-Topics wrong-paper variant); every post-2020 empirical first-author surname genuine (Khan 2024 eNeuro, Keppler 2025 Front. Hum. Neurosci., Cao 2020 Sci Adv, Zheng & Meister 2025 Neuron). Inline↔References cross-checked both directions: no dangling cites, no orphan refs needing removal. The Khan/Wiest "O."-initial fix from 2026-05-27 holds. "Converged ≠ verified" — 8th review, but first exhaustive (not load-bearing-only) verification; corpus clean.
+- **Calibration**: no possibility/probability slippage; modal register (Map hypothesis, not established) correctly preserved; Falsifiability Dilemma explicitly declines tenet-as-evidence-upgrade. Tenet-accepting reviewer would flag nothing as overstated.
+- **Engagement classification (editor-internal)**: illusionist (Dennett/Frankish) = Mixed (Mode Two unsupported-foundational-move opening → Mode Three honest residue); natural prose; no label leakage (grep-confirmed).
+- **Output**: [[reviews/deep-review-2026-06-05-consciousness-selecting-neural-patterns]]
 
 ## 2026-06-05T12:50:59+00:00 - deep-review
 - **Status**: Success

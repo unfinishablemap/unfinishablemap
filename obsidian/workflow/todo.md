@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review concepts/consciousness-selecting-neural-patterns.md (changed-since-review staleness, gap ~8d, citation-heavy / Tenet 3)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/concepts/consciousness-selecting-neural-patterns.md
-- **Notes**: Changed-since-review: ai_modified 2026-06-04, last_deep_review 2026-05-27 (~8-day gap), ai_contribution=100, Tenet 3 (Bidirectional Interaction) load-bearing. Body changed after review. CITATION-HEAVY with recent empirical / quantum-cognition cites (Keppler 2025, Wiest 2025, Khan et al. 2024, Cao et al. 2020) — recency cluster where wrong-author / chimera citation defects hide. WEB-VERIFY ALL citation authors, years, venues, and titles (not just load-bearing) against the live literature; distinguish fabricated / real-paper-wrong-author / real-correct before de-citing (title-search first; do NOT delete real content on a false negative). PRESERVE calibration / evidential-status / citation-framing language verbatim; do not weaken the selection-mechanism claim's hedging.
-- **Source**: staleness
-- **Generated**: 2026-06-05
-
 ### P3: Deep review concepts/substance-property-dualism.md (changed-since-review staleness, gap ~8d)
 - **Type**: deep-review
 - **Status**: pending
@@ -954,6 +946,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Deep review concepts/consciousness-selecting-neural-patterns.md (changed-since-review staleness, gap ~8d, citation-heavy / Tenet 3)
+- **Type**: deep-review
+- **Notes**: Changed-since-review: ai_modified 2026-06-04, last_deep_review 2026-05-27 (~8-day gap), ai_contribution=100, Tenet 3 (Bidirectional Interaction) load-bearing. Body changed after review. CITATION-HEAVY with recent empirical / quantum-cognition cites (Keppler 2025, Wiest 2025, Khan et al. 2024, Cao et al. 2020) — recency cluster where wrong-author / chimera citation defects hide. WEB-VERIFY ALL citation authors, years, venues, and titles (not just load-bearing) against the live literature; distinguish fabricated / real-paper-wrong-author / real-correct before de-citing (title-search first; do NOT delete real content on a false negative). PRESERVE calibration / evidential-status / citation-framing language verbatim; do not weaken the selection-mechanism claim's hedging.
 
 ### ✓ 2026-06-05: Deep review topics/anaesthesia-and-the-consciousness-interface.md (changed-since-review staleness, gap ~7d, citation-heavy clinical/anaesthesia)
 - **Type**: deep-review
