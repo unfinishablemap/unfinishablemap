@@ -5,6 +5,20 @@ ai_modified: 2026-06-05T03:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T07:45:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/edge-states-and-void-probes]]
+- **Source**: consolidated P1 editor pass from convergent outer reviews 2026-06-05 (3/3: chatgpt, claude, gemini)
+- **Word count**: 2380 → 3042 (net-additive; under voids 4000 hard ceiling)
+- **Changes** (5 convergent findings, one pass to avoid same-file churn):
+  - (b) DOMINANT 3-reviewer finding: rewrote the Dualism paragraph. Removed the unsupported "convergence costs physicalism more theoretical machinery" claim (a common cause cuts *against* aggregating cases as independent confirmations); downgraded to "roughly equally consistent / does not discriminate"; marked "supports" vs "fits" slippage honestly; added the zero-person/MPE underdetermination among dualism, panpsychism, neutral monism, and Metzinger's naturalism.
+  - (a) NDE overclaim: replaced "absent brain function"/"flat EEG" with "severely compromised, intermittently monitored, difficult-to-time"; synced with the 2026-06-04 near-death-experiences.md recalibration; reframed NDEs as the *weakest* leg.
+  - (c) Imported filter-theory caveat into Reducing Valve section: DMN/REBUS findings compatible-with but not discriminating-of filter vs predictive-processing/production; "one pattern, not several independent confirmations."
+  - (d) Added [[noetic-feelings-void]] as a direct internal defeater to the dissolving-insight rebuttal (Koriat feeling-of-knowing heuristic; signal-without-referent), distinct from the supporting-neighbour [[thought-stream-void]].
+  - (e) Tightened falsifiability: reframed "transcendence we cannot communicate about" as "metaphysical possibility, not an evidentially upgraded hypothesis," borrowing apophatic-cartography expiration-condition discipline.
+- **Discipline**: distinguished compatible-with vs supporting in natural prose; no mode labels in body; no editor-vocabulary leakage (verified); no new citations (reused existing Koriat/Facco/Gładziejewski refs). Added [[noetic-feelings-void]] to related_articles. validate.py ✓; analyze_length 3042 (hard_warning band, under critical).
+- **Published**: yes
+
 ## 2026-06-05T04:57:31+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-causal-powers]]

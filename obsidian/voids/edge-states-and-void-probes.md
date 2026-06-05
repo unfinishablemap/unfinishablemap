@@ -4,7 +4,7 @@ description: "What consciousness encounters at its cognitive boundaries—ineffa
 created: 2026-01-19
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-06-05T05:30:00+00:00
+ai_modified: 2026-06-05T07:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ related_articles:
   - "[[tenets]]"
   - "[[apophatic-approaches]]"
   - "[[thought-stream-void]]"
+  - "[[noetic-feelings-void]]"
   - "[[the-quantitative-comprehension-void]]"
   - "[[mind-space-void]]"
   - "[[death-void]]"
@@ -90,6 +91,8 @@ The REBUS framework (Relaxed Beliefs Under Psychedelics; Carhart-Harris and Fris
 
 The Map borrows REBUS's structural insight—ordinary consciousness is constrained rather than baseline—while reinterpreting it: the constraints may operate on consciousness rather than constituting it. If the filter picture is correct, edge-states do not take us beyond consciousness; they reveal what consciousness is like with less reduction.
 
+The evidential caveat from [[filter-theory|filter theory]] applies here. The DMN-reduction and REBUS findings are *compatible* with a filter reading but do not discriminate it from a sophisticated predictive-processing or production account: REBUS is itself a fully physicalist model, and decreased default-mode signal under more intense experience is exactly what a relaxed-priors production story predicts. The neuroimaging, the modelling, and the dose-response curve are facets of one explanatory pattern, not several independent confirmations of the filter. These results remove an objection to the filter picture—ordinary consciousness is constrained, not baseline—without giving it any advantage over the production reading that accommodates the same data by the same machinery.
+
 ## The Zero-Person Perspective
 
 Metzinger's work on minimal phenomenal experience (MPE) introduces the *zero-person perspective*. In ordinary experience there is always a subject; in MPE, awareness continues without the usual subject-object structure—non-conceptual, atemporal, non-egoic, aperspectival. Reports describe it as awareness, often more vivid than ordinary, but without the self who is usually aware.
@@ -106,6 +109,8 @@ One interpretation: these thoughts exist only at the boundary, requiring the edg
 
 The confabulation hypothesis answers that the brain manufactures a sense-of-having-known where no knowing occurred. But confabulation explanations cannot help themselves to the explanandum without specifying the mechanism: which neural state generates the *systematic* failure mode, where the trace of having-grasped persists while the content is permanently irretrievable? Ordinary forgetting fades; tip-of-tongue can be cued; only edge-insights vanish instantly and totally. The asymmetry is what wants explanation.
 
+The stronger internal defeater is not generic confabulation but the [[noetic-feelings-void|noetic-feelings]] account: the *feeling of knowing* is a heuristic signal, not a perception of content. Koriat's work treats noetic feelings as outputs of implicit inferential heuristics—cue-familiarity and accessibility—that present their verdict without their derivation, so the conviction of having grasped something can fire with no graspable content behind it. On this reading the "trace of having-grasped" is exactly the signal-without-referent the noetic-feelings void predicts, and it dissolves instantly because there was never propositional content to retrieve, only a verdict-signal misrepresenting itself as awareness of an object. That explains the asymmetry the confabulation story leaves open: the signal is real and recurrent, the content was never there. So the dissolving-insight phenomenon is genuinely ambiguous between contact with representationally closed territory and a misfiring feeling-of-knowing—and edge-mapping must reckon with this defeater directly, not only with the supporting neighbour [[thought-stream-void|thought-stream void]].
+
 ## Transcendence or Edge-Mapping? What Would Distinguish
 
 The two readings predict different things—partly testable.
@@ -116,15 +121,13 @@ The two readings predict different things—partly testable.
 
 **Intersubjective verification.** Genuine access should enable triangulation—different minds verifying discoveries. Edge-mapping predicts each mind approaches the same limits but shares no territory beyond them.
 
-Evidence is mixed: phenomenological convergence is robust, propositional convergence limited, practical yield therapeutic but not clearly epistemically novel, intersubjective verification elusive. This fits edge-mapping—though it does not rule out transcendence of limits we cannot communicate about. Paweł Gładziejewski (2023) argues psychedelic experiences can be "rationally integrated into one's epistemic life"; edge-mapping does not require deflation, only distinguishing *structural* discovery (cognitive limits have characteristic shape) from speculative *content* discovery (a wider reality lies beyond).
+Evidence is mixed: phenomenological convergence is robust, propositional convergence limited, practical yield therapeutic but not clearly epistemically novel, intersubjective verification elusive. This fits edge-mapping. A residual reply holds that genuine transcendence might be noncommunicable in principle and so leave no propositional or intersubjective trace—but borrowing the expiration-condition discipline of [[apophatic-cartography]], that reply has to be marked honestly: noncommunicable transcendence remains a metaphysical possibility, not an evidentially upgraded hypothesis. It predicts nothing the edge-mapping reading does not, and a claim that survives by predicting no discriminating observation has not earned a probability increment, only a place on the list of things the evidence does not exclude. Paweł Gładziejewski (2023) argues psychedelic experiences can be "rationally integrated into one's epistemic life"; edge-mapping does not require deflation, only distinguishing *structural* discovery (cognitive limits have characteristic shape) from speculative *content* discovery (a wider reality lies beyond).
 
-## Near-Death Experiences as a Special Case
+## Near-Death Experiences as the Weakest Leg
 
-NDEs occur during minimal brain function—sometimes during clinical death with flat EEG. If consciousness requires the brain, NDEs during absent brain function should be impossible. Yet they occur, and their phenomenology converges with other edge-experiences.
+NDEs are reported during severely compromised, intermittently monitored, and difficult-to-time brain function—not, on current evidence, during reliably absent brain function. The recurring "flat EEG" framing overstates the record: cerebral monitoring during cardiac arrest is sparse, absence of scalp-EEG activity does not establish absence of consciousness-relevant neural processing, and the gap between the documented crisis and the later report leaves the experience's actual timing underdetermined. Coherent recall during such states converges phenomenologically with other edge-experiences, but it is the leg of the case that bears the least weight.
 
-Facco et al. (2015) propose reclassifying altered states as "non-ordinary mental expressions"—"altered" implies deviation from a baseline these may exceed. For the [[tenets#^dualism|dualist]] framework, if consciousness operates when the brain is functionally absent, the brain may be an interface rather than a generator.
-
-Caution: precise timing relative to brain function remains hard to establish, and NDE phenomenology may reflect what brains do during physiological crisis rather than what consciousness does independently. NDEs support but do not prove transcendence.
+Facco et al. (2015) propose reclassifying altered states as "non-ordinary mental expressions"—"altered" implies deviation from a baseline these may exceed. For the [[tenets#^dualism|dualist]] framework, *if* consciousness were shown to operate when the brain is genuinely non-functional, the brain would look more like an interface than a generator—but that antecedent is exactly what the timing problem leaves unestablished. The companion treatment in [[near-death-experiences]] reaches the same recalibrated reading: heightened, coherent experience reported during *severe cerebral ischemia* challenges simple production models without establishing experience during *absent* brain function. NDEs are the weakest leg of the edge-state case, not a supporting one—a probe of the boundary, not a crossing of it.
 
 ## The Lower Edge: Minimal Consciousness
 
@@ -154,7 +157,9 @@ On this reading, the noetic quality is neither illusory nor evidence of transcen
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]].** The combined evidence—reducing valve, DMN findings, zero-person perspective, NDE phenomenology, consistent edge-profile—is consistent with consciousness as something over and above neural processing. Physicalism can accommodate any individual finding, but the convergence costs more theoretical machinery on the physicalist side.
+**[[tenets#^dualism|Dualism]].** The combined evidence—reducing valve, DMN findings, zero-person perspective, NDE phenomenology, consistent edge-profile—is consistent with consciousness as something over and above neural processing. It is important to say *consistent with* rather than *support for*, and to resist a tempting overstatement. One might argue that while physicalism accommodates each finding individually, the *convergence* costs it more theoretical machinery. That inference does not go through without a comparative accounting. If a single shared mechanism explains why all these edge-states present the same profile, the convergence cuts *against* aggregating them as independent confirmations, not for it: a common cause is the more parsimonious explanation of a shared signature, and naming one removes the warrant to count the cases separately. To claim a net cost to physicalism, one would have to specify what extra machinery physicalism must add to explain the *convergence itself*—not the individual states—and show it exceeds the dualist ledger of non-physical consciousness *plus* an interface *plus* a filter that mimics production under every disruption. No such comparative accounting is available, and the cruder versions of it run backwards. The honest statement is therefore weaker: the convergence is roughly equally consistent with the dualist and the physicalist readings and does not by itself discriminate between them.
+
+The deeper underdetermination is that the edge-phenomenology does not even isolate dualism among non-physicalist options. The zero-person perspective and minimal phenomenal experience are equally describable under panpsychism (consciousness as ubiquitous and merely de-filtered), neutral monism (the edge revealing a substrate prior to the mental/physical split), or Metzinger's own naturalistic tonic-alertness model. The edge-state data fit dualism; they do not select it. The Map's dualism is carried by its tenets and by arguments made elsewhere, not by treating the convergent phenomenology as evidence that points uniquely its way.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]].** The assumption that ordinary waking consciousness provides the baseline for truth is itself a simplicity assumption. If Bergson and Huxley are right, ordinary consciousness may be reduced rather than optimal. Our explanatory preferences evolved on the savanna, not at the edge of cognitive space.
 
