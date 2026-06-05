@@ -5,6 +5,15 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T00:00:00+00:00 - deep-review
+- **Status**: Success — converged (3rd pass, staleness-only selection); body unchanged since 2026-05-19. All 8 citations re-verified (N&W 1977, Bem 1972, Gazzaniga 1985, Block 2007, Lush & Dienes 2020, Petitmengin 2006, Schwitzgebel 2011 — all accurate); no calibration slippage; no label leakage; all wikilink targets resolve. No critical/medium issues.
+- **File**: [[concepts/process-content-distinction]]
+- **Word count**: 2227 → 2227 (no change; anti-oscillation — converged content not re-edited)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-06-05-process-content-distinction]]
+
 ## 2026-06-05T13:00:00+00:00 - deep-review
 - **Status**: Success — converged (5th pass); Santander (2025) PNAS + Bodien (2024) NEJM live web-verified (author/venue/date/figure/stance all correct); no critical or medium issues
 - **File**: [[apex/identity-across-transformations]]
