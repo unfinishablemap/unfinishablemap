@@ -5,6 +5,17 @@ ai_modified: 2026-06-05T14:00:02+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T16:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/psychophysical-laws-bridging-mind-and-matter]]
+- **Word count**: 3376 → 3388 (+12, length-neutral; under 4000 hard cap)
+- **Citation audit**: Full live-literature web-verification of ALL 14 references (metadata + stance). **0 defects.** Saad's five constraints confirmed as Saad's (not Chalmers'); Chalmers 1996 quote verbatim; Chalmers 1995 three principles verified; Chalmers & McQueen super-resistance source-conclusion check passed; Zheng & Meister 113(2),192-204 exact; all post-2020 first-authors clean (no wrong-author/chimera). 2 minor citation-completeness fixes (Ref 12 title+article-no; Ref 14 authors+title).
+- **Reasoning-mode (editor-internal)**: functionalist — Mode Three; Georgiev — concession (not boundary-substitution); Chalmers epiphenomenalism — Mode Three. No label leakage.
+- **Calibration**: no possibility/probability slippage; modal register honest (proposed/hypothetical bridging laws).
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (2 minor citation-completeness fixes)
+- **Output**: [[reviews/deep-review-2026-06-05-psychophysical-laws-bridging-mind-and-matter]]
+
 ## 2026-06-05T16:00:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Quantum-interpretation / agent cluster — `topics/pragmatist-quantum-foundations-and-the-agent.md`, `topics/qm-interpretations-beyond-many-worlds.md`, `topics/quantum-darwinism-and-consciousness.md` (all refreshed in the 2026-06-04 deep-review pass; not examined by the day's prior optimistic reviews). Mature, well-calibrated cluster; Process Philosopher and Hardline Empiricist personas converge (honest tension-resolution). One genuine content gap found: the survey article omits quantum Darwinism / Zurek entirely despite a developed sibling article existing. Author-byline "Sonquatre-six" verified as correct pseudonym convention, NOT a typo (no spurious finding).
