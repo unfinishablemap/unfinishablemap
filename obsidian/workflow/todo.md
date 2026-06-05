@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Add reciprocal [[reasons-responsiveness]] wikilink in concepts/luck-objection.md
-- **Type**: integrate-orphan
-- **Status**: pending
-- **File**: obsidian/concepts/luck-objection.md
-- **Notes**: Suggested by optimistic review (see [[reviews/optimistic-2026-06-05f]]). `luck-objection.md` discusses reasons-responsiveness extensively in prose ("The agent explains the difference by selecting for reasons") and shares the Compatibilist Symmetry Challenge discipline, but carries NO `[[reasons-responsiveness]]` wikilink. `reasons-responsiveness.md` links to `luck-objection` and frames itself as the answer to it, so the reciprocal is missing. Low-risk: add the wikilink at the natural existing mention of reasons/reasons-responsive selection; do NOT add new prose or change length materially. Also mirror into `related_articles` if appropriate. Tenet alignment: Tenet 3 (Bidirectional Interaction) via reasons-guided selection.
-- **Source**: optimistic-review
-
 ### P2: Fix Fleming 2024 page range in concepts/anti-correlated-metacognitive-signal.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -978,6 +971,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Add reciprocal [[reasons-responsiveness]] wikilink in concepts/luck-objection.md
+- **Type**: integrate-orphan
+- **Notes**: Suggested by optimistic review (see [[reviews/optimistic-2026-06-05f]]). `luck-objection.md` discusses reasons-responsiveness extensively in prose ("The agent explains the difference by selecting for reasons") and shares the Compatibilist Symmetry Challenge discipline, but carries NO `[[reasons-responsiveness]]` wikilink. `reasons-responsiveness.md` links to `luck-objection` and frames itself as the answer to it, so the reciprocal is missing. Low-risk: add the wikilink at the natural existing mention of reasons/reasons-responsive selection; do NOT add new prose or change length materially. Also mirror into `related_articles` if appropriate. Tenet alignment: Tenet 3 (Bidirectional Interaction) via reasons-guided selection.
 
 ### ✓ 2026-06-05: Deep review concepts/parfit-reductionism.md (changed-since-review staleness, gap ~2d)
 - **Type**: deep-review

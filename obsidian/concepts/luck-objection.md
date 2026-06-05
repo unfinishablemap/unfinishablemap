@@ -4,7 +4,7 @@ description: "Why indeterminism seems to threaten free will as much as determini
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-06-01T09:00:00+00:00
+ai_modified: 2026-06-05T18:35:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -29,6 +29,7 @@ concepts:
   - "[[compatibilist-symmetry-challenge]]"
 related_articles:
   - "[[tenets]]"
+  - "[[reasons-responsiveness]]"
   - "[[luck-objection-libertarian-free-will-2026-01-17]]"
 ai_contribution: 100
 author: null
@@ -113,7 +114,7 @@ Consciousness selects based on reasons—the same reasons that make actions inte
 
 Critics might object: what explains why consciousness selected A rather than B? The response combines four elements. The agent's *reasons* provide contrastive explanation that pure chance lacks—A was chosen because the agent had grounds for A. The *phenomenology of effort* distinguishes selection from passive reception; we experience ourselves doing something, and that experience tracks real causal engagement. Agent causation is the terminus of explanation: the regress stops at the agent's exercise of power, just as event-causal explanations ultimately stop at brute laws. And if [[retrocausality|retrocausal]] selection is genuine, the choice doesn't occur at a moment but determines which moments exist—dissolving the temporal framing on which the luck objection depends.
 
-A separate question, which the present article does not answer in the affirmative, is whether libertarian agency is *required* for genuine moral phenomena. Sophisticated reasons-responsive compatibilism (Frankfurt, Fischer and Ravizza, Wolf) plausibly survives the luck objection differently—by locating the work in the reasons-responsive mechanism, the higher-order desires, or the normative competence, all of which can operate under determinism. The Map's libertarian framing is supported by the article's response to luck *given* the Map's tenets, but the moral phenomena alone do not establish it. The [[compatibilist-symmetry-challenge|Compatibilist Symmetry Challenge]] names this discipline at the moral-responsibility tier.
+A separate question, which the present article does not answer in the affirmative, is whether libertarian agency is *required* for genuine moral phenomena. Sophisticated [[reasons-responsiveness|reasons-responsive compatibilism]] (Frankfurt, Fischer and Ravizza, Wolf) plausibly survives the luck objection differently—by locating the work in the reasons-responsive mechanism, the higher-order desires, or the normative competence, all of which can operate under determinism. The Map's libertarian framing is supported by the article's response to luck *given* the Map's tenets, but the moral phenomena alone do not establish it. The [[compatibilist-symmetry-challenge|Compatibilist Symmetry Challenge]] names this discipline at the moral-responsibility tier.
 
 ## What Would Make the Luck Objection Succeed?
 
