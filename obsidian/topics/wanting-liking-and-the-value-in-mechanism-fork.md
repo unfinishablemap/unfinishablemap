@@ -4,7 +4,8 @@ description: "Berridge's wanting/liking dissociation refutes a single value-curr
 created: 2026-06-05
 modified: 2026-06-05
 human_modified:
-ai_modified: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-06-05T12:00:00+00:00
+last_deep_review: 2026-06-05T12:00:00+00:00
 draft: false
 topics:
   - "[[pain-consciousness-and-causal-power]]"
@@ -46,7 +47,7 @@ Two further results frame the landscape. Berridge and Robinson (2016) ground the
 
 All parties accept the dissociation. The dispute is where *value*—affective goodness or badness, the thing that actually matters—resides.
 
-**The mechanism-only reading** holds that affective value just *is* the operation of these reward circuits. The "liking" reactions are the value; conscious pleasure, where it occurs, is identical to or supervenient on a brain state with no further ontological work to do. Its strongest support is precisely that the dissociation is fully explained at the mechanistic level: orofacial "liking" reactions persist in decorticate rats and human infants, suggesting a value-signature that need not invoke rich conscious experience. It is also the more parsimonious option, paying for a single ontology.
+**The mechanism-only reading** holds that affective value just *is* the operation of these reward circuits. The "liking" reactions are the value; conscious pleasure, where it occurs, is identical to or supervenient on a brain state with no further ontological work to do. Its strongest support is precisely that the dissociation is fully explained at the mechanistic level: orofacial "liking" reactions persist in decerebrate rats and anencephalic human infants—subjects lacking a functioning forebrain—suggesting a value-signature that need not invoke rich conscious experience. It is also the more parsimonious option, paying for a single ontology.
 
 **The value-in-experience reading** (the Map's) holds that value exists only *for* an experiencing subject. The mechanistic "liking" reaction is then a correlate, cause, or effect of hedonic value—not the value itself. A "liking" reaction with no accompanying experience, if such a thing occurs, would carry no genuine value, because nothing would *matter* to anything. This is the position developed in [[consciousness-value-connection]] and [[phenomenal-value-realism]].
 
@@ -61,6 +62,8 @@ What it does **not** establish (interpretive): that value resides in experience 
 A trap worth marking explicitly: Berridge is a physicalist affective neuroscientist whose constructs are operational. He is not a dualist and his work is not evidence for dualism. Citing him correctly means crediting him with the *empirical dissociation* and the *objective-versus-conscious distinction*, then doing the interpretive work transparently as the Map's own. The case is open but unsettled.
 
 There is also a live mechanistic rival to keep in view: the reward-prediction-error account associated with Wolfram Schultz reads phasic dopamine as a teaching signal rather than incentive salience. The two mechanistic stories are debated within neuroscience; the value-in-mechanism fork sits *above* that dispute, since both are mechanism-level accounts that the value-in-experience reading would treat as describing correlates rather than the locus of value.
+
+A second pressure comes from the opposite direction. The value-in-experience reading leans on there being a *subject* for whom hedonic value exists, and a no-self critic will ask what that subject amounts to if it is not simply more mechanism. The Map does not need to settle that here: its claim is the comparatively modest one that *whatever* the experiencing locus turns out to be, an unfelt "liking" reaction has no one it is good for, and so carries no value in the sense the fork is about. If a fully impersonal process could nonetheless instantiate genuine value, the value-in-experience reading would lose its motivation—so this is a real cost to track, not a settled point.
 
 ## Relation to Site Perspective
 

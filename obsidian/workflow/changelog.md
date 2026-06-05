@@ -5,6 +5,18 @@ ai_modified: 2026-06-05T01:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/wanting-liking-and-the-value-in-mechanism-fork]]
+- **Word count**: 1437 → 1557 (+120)
+- **Critical issues addressed**: 1 (factual precision — "decorticate rats and human infants" → "decerebrate rats and anencephalic human infants—subjects lacking a functioning forebrain"; live-verified against Berridge hedonic-impact literature; the correction strengthens the steelmanned mechanism-only rival)
+- **Medium issues addressed**: 1 (added a no-self / impersonal-value pressure paragraph, calibrated as a real cost not a victory)
+- **Enhancements made**: 2
+- **Citations verified**: all 5 primary Berridge citations confirmed (authors/title/journal/vol/pages/year/DOI); 2 self-citations match linked articles
+- **Engagement classification**: mechanism-only physicalist reading — Mode Three (framework-boundary marking); article already concedes the dissociation is neutral between readings, no boundary-substitution, no label leakage
+- **Calibration**: no possibility/probability slippage found — article is a calibration exemplar (concedes mechanism-only "explains every finding without remainder"; holds value-in-experience reading as tenet-coherent hypothesis, not finding)
+- **Output**: [[reviews/deep-review-2026-06-05-wanting-liking-and-the-value-in-mechanism-fork]]
+
 ## 2026-06-05T02:00:00+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[topics/lucid-dreaming-and-dualist-rendering]], [[topics/dream-consciousness]]
