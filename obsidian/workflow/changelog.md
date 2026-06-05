@@ -5,6 +5,14 @@ ai_modified: 2026-06-05T22:44:25+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T23:05:01+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/epistemology]]
+- **Original score**: strong hub, calibration-consistency refine (no numeric score from review tool; pessimistic-review found 3 medium issues + 2 secondary)
+- **Changes**: (1) PRIMARY — added a paragraph distinguishing convergence (evidential agreement among arguments with different premises) from parsimony (a prior over ontologies), naming independence as the precondition convergence meets and parsimony cannot, marking the asymmetry as principled not selective. (2a) "each provide independent evidence" → "partially independent"; folded in the shared-intuition objection (knowledge-arg/conceivability/explanatory-gap share the qualitative-omission intuition; argument-from-reason is the distinct leg on rational causation) and deferred detail to [[epistemology-of-convergence-arguments]]. (2b) Split existence-warrant (strongest) from character-warrant (calibrated, fallible per introspective unreliability) in the calibration paragraph. (2c) Added a falsification condition to "stands or falls" (a third-person account predicting first-person report-structure without remainder) + link to [[tenet-falsification-conditions]]. (2d) "demonstrates that this argument fails" → "argues that".
+- **Preserved**: causal-closure-as-stipulation move and two-channels framing untouched (core contributions). No central claims weakened; no "This is not X. It is Y." cliché. Both new wikilink targets verified live.
+- **Published**: yes
+
 ## 2026-06-05T22:59:17+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/epistemology.md (1594w hub; first pessimistic review; last deep-reviewed 2026-05-14)
