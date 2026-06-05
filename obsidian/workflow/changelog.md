@@ -5,6 +5,16 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T09:56:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]]
+- **Word count**: 3283 → 3283 (0) — length-neutral; 109% of 3000 topics soft threshold (under 4000 hard)
+- **Critical issues addressed**: 1 (ref #5 wrong first author: Rodríguez-Martín → Calderone, A.; *Biomedicines* 12(11):2613 2024; fixed in-text + References. DOI/venue/year/title correct, only first-author surname fabricated. Survived the 2026-05-26 + 2026-06-02 passes, which web-verified only the post-2020 directionality-load-bearing cites, not the meditation-history refs.)
+- **Medium issues addressed**: 0 (the five 2026-06-02 pessimistic-review issues — universal "all…all" directional claim, "concedes the point" boundary-substitution, placebo content/realiser question-begging, "stands regardless of mechanism" overreach, uncalibrated anomalous-cases verdict — were all already resolved by commits edcb45752 / 5a3cc8984; verified holding, not re-flagged)
+- **Enhancements made**: 0 (converged article; one citation correction only)
+- **Citation verification**: web-verified this pass — Schwartz 1998 (*Br J Psychiatry* 173 Suppl 35 ✓), Schwartz-Stapp-Beauregard 2005 (*Phil Trans R Soc B* 360(1458):1309-1327 ✓), Lazar 2005 (*NeuroReport* 16(17) ✓), Hölzel 2011 (*Psychiatry Res Neuroimaging* 191(1) ✓), Nahm et al. 2012 (*Arch Gerontol Geriatr* 55(1):138-142 ✓), Calderone 2024 (FIXED). Carried-forward verified: Yuan 2022, Perez 2025, Seymour & Mathers 2024, Kral 2022, Goyal 2014, Van Dam 2018, Schwartz 1996, Manzotti & Moderato 2023. All 21+ wikilinks resolve LIVE (interactionist-dualism → live concepts page; tenets anchor intact). Named-opponent engagements: physicalist Mixed (in-framework route/direction + honest boundary-marking), identity theorist Mode Three, production theorist Mode Three — no label leakage. No "This is not X. It is Y." cliché.
+- **Output**: [[reviews/deep-review-2026-06-05-clinical-neuroplasticity-evidence-for-bidirectional-causation]]
+
 ## 2026-06-05T09:46:35+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/process-and-consciousness]]
