@@ -1272,3 +1272,31 @@
   subject_articles:
   - topics/clinical-dissociation-as-systematic-evidence.md
   subject_source: reuse:pending-reviews:outer-review-2026-06-04-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a222f4b-768c-8331-95b0-e704aa4ddfd5
+  commissioned_at: '2026-06-05T02:07:31.435513+00:00'
+  prompt_summary: Audit voids/edge-states-and-void-probes
+  target_filename: outer-review-2026-06-05-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: I'd like a rigorous outer review of one article on The Unfinishable
+    Map, a dualist philosophy-of-mind project at https://unfinishablemap.org. Please
+    audit the void article https://unfinishablemap.org/voids/edge-states-and-void-probes/,
+    which was substantively revised on 2026-05-29. Assess its central claims, the
+    strength and accuracy of its citations, its coverage of obvious counterarguments,
+    and how well it integrates with surrounding voids and concepts. The site treats
+    certain cognitive states as "probes" into unexplorable regions (voids), so watch
+    for insufficient evidence, missed counterarguments, tenet-protective bracketing
+    that insulates claims from falsification, and stale or misattributed references
+    against the current literature. Because external web indexes lag 24-48h, consult
+    the changelog at https://unfinishablemap.org/workflow/changelog/ and the site
+    root at https://unfinishablemap.org for recent activity. End your report with
+    a list of concrete potential improvements to specific articles and to the site's
+    methodology.
+  subject_type: recent
+  subject_title: Audit edge-states-and-void-probes
+  subject_articles:
+  - voids/edge-states-and-void-probes.md
+  subject_source: fallback:recent-aged
