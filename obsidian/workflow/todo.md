@@ -65,15 +65,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-05
 
-### P1: Fix Gładziejewski misattribution in edge-states-and-void-probes
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/voids/edge-states-and-void-probes.md
-- **Notes**: From outer review 2026-06-05 (ChatGPT 5.5 Pro), verified via web search. The article body (line ~117) and reference 4 cite "Piotr Gładziejewski (2024)". Both fields are WRONG: the author is **Paweł Gładziejewski** and "From Altered States to Metaphysics: The Epistemic Status of Psychedelic-induced Metaphysical Beliefs" was published in *Review of Philosophy and Psychology* (DOI 10.1007/s13164-023-00709-6), online 2023, vol 16(1) pp. 175–197. Change "Piotr" → "Paweł" and "(2024)" → "(2023)" in both the body and the reference list; optionally add vol/page detail to the reference. Verified independently this cycle (PhilPapers GADFAS-2; Springer s13164-023-00709-6) — apply directly, no re-verification needed. Mechanical citation fix; keep it separate from the prose-level edge-states consolidation below ([[ai-citation-metadata-unreliable]]).
-- **Review file**: `reviews/outer-review-2026-06-05-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-05
-
 ### P1: Edge-states-and-void-probes — calibration + counterargument consolidation pass
 - **Type**: refine-draft
 - **Status**: pending
@@ -822,6 +813,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Fix Gładziejewski misattribution in edge-states-and-void-probes
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-05 (ChatGPT 5.5 Pro), verified via web search. The article body (line ~117) and reference 4 cite "Piotr Gładziejewski (2024)". Both fields are WRONG: the author is **Paweł Gładziejewski** and "From Altered States to Metaphysics: The Epistemic Status of Psychedelic-induced Metaphysical Beliefs" was published in *Review of Philosophy and Psychology* (DOI 10.1007/s13164-023-00709-6), online 2023, vol 16(1) pp. 175–197. Change "Piotr" → "Paweł" and "(2024)" → "(2023)" in both the body and the reference list; optionally add vol/page detail to the reference. Verified independently this cycle (PhilPapers GADFAS-2; Springer s13164-023-00709-6) — apply directly, no re-verification needed. Mechanical citation fix; keep it separate from the prose-level edge-states consolidation below ([[ai-citation-metadata-unreliable]]).
 
 ### ✓ 2026-06-05: Fix Metzinger co-optation in edge-states-and-void-probes
 - **Type**: refine-draft

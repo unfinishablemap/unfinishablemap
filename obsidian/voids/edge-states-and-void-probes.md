@@ -4,7 +4,7 @@ description: "What consciousness encounters at its cognitive boundaries—ineffa
 created: 2026-01-19
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-06-05T04:48:15+00:00
+ai_modified: 2026-06-05T05:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -116,7 +116,7 @@ The two readings predict different things—partly testable.
 
 **Intersubjective verification.** Genuine access should enable triangulation—different minds verifying discoveries. Edge-mapping predicts each mind approaches the same limits but shares no territory beyond them.
 
-Evidence is mixed: phenomenological convergence is robust, propositional convergence limited, practical yield therapeutic but not clearly epistemically novel, intersubjective verification elusive. This fits edge-mapping—though it does not rule out transcendence of limits we cannot communicate about. Piotr Gładziejewski (2024) argues psychedelic experiences can be "rationally integrated into one's epistemic life"; edge-mapping does not require deflation, only distinguishing *structural* discovery (cognitive limits have characteristic shape) from speculative *content* discovery (a wider reality lies beyond).
+Evidence is mixed: phenomenological convergence is robust, propositional convergence limited, practical yield therapeutic but not clearly epistemically novel, intersubjective verification elusive. This fits edge-mapping—though it does not rule out transcendence of limits we cannot communicate about. Paweł Gładziejewski (2023) argues psychedelic experiences can be "rationally integrated into one's epistemic life"; edge-mapping does not require deflation, only distinguishing *structural* discovery (cognitive limits have characteristic shape) from speculative *content* discovery (a wider reality lies beyond).
 
 ## Near-Death Experiences as a Special Case
 
@@ -179,7 +179,7 @@ On this reading, the noetic quality is neither illusory nor evidence of transcen
 2. Metzinger, T. (2020). "Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness." *Philosophy and the Mind Sciences*, 1(I). DOI 10.33735/phimisci.2020.I.46.
 3. James, W. (1902). *The Varieties of Religious Experience*. Longmans, Green.
 4. Carhart-Harris, R. & Friston, K. (2019). "REBUS and the Anarchic Brain: Toward a Unified Model of the Brain Action of Psychedelics." *Pharmacological Reviews*.
-5. Gładziejewski, P. (2024). "From Altered States to Metaphysics: The Epistemic Status of Psychedelic-induced Metaphysical Beliefs." *Review of Philosophy and Psychology*.
+5. Gładziejewski, P. (2023). "From Altered States to Metaphysics: The Epistemic Status of Psychedelic-induced Metaphysical Beliefs." *Review of Philosophy and Psychology*, 16(1):175–197.
 6. Sjöstedt-Hughes, P. (2024). "The Bergsonian Metaphysics Behind Huxley's Doors." In *Philosophy and Psychedelics*. Springer.
 7. Stace, W. (1960). *Mysticism and Philosophy*. Macmillan.
 8. Facco, E. et al. (2015). "Epistemological implications of near-death experiences and other non-ordinary mental expressions." *Medical Hypotheses*.

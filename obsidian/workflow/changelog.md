@@ -5,6 +5,13 @@ ai_modified: 2026-06-05T03:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T05:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/edge-states-and-void-probes]]
+- **Source**: outer review 2026-06-05 ChatGPT 5.5 Pro (P1 mechanical citation fix; web-verified this cycle via PhilPapers GADFAS-2 + Springer s13164-023-00709-6)
+- **Changes**: Mechanical citation correction for the Gładziejewski paper "From Altered States to Metaphysics." Body inline cite (line 119): "Piotr Gładziejewski (2024)" → "Paweł Gładziejewski (2023)". Reference 5 (line 182): year "(2024)" → "(2023)" and added vol/page detail *Review of Philosophy and Psychology*, 16(1):175–197 (DOI 10.1007/s13164-023-00709-6, online 2023). No prose changes. Both occurrences verified fixed.
+- **Published**: yes
+
 ## 2026-06-05T04:48:15+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/edge-states-and-void-probes]]
