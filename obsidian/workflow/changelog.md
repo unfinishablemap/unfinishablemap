@@ -5,6 +5,16 @@ ai_modified: 2026-06-05T17:55:14+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T21:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/minimal-consciousness-void]]
+- **Word count**: 2995 → 2993 (length-neutral; +2 reference entries offset by trimming redundant connective prose; under 3000 voids hard cap)
+- **Critical issues addressed**: 1 (dangling citations — Bayne et al. 2016 & Birch et al. 2020 cited in body but missing from References; added by refine commit `bf8887cee` to the *concept* page's refs but not this void's. Both publisher-verified at Cell Press / *TiCS* and added to References)
+- **Citation audit**: EXHAUSTIVE — all 16 citations web-verified at publisher of record (author/co-authors/venue/year/volume/pages/numbers/stance). No wrong-author/chimera/dropped-co-author/page-off-by-one/number/stance-direction defect found; Tsuchiya over/under-estimate DIRECTION and Windt dreamless-sleep STANCE both correct. Only catch was the two dangling refs.
+- **Calibration**: no possibility/probability slippage; minimal consciousness kept hypothetical; IIT scoped as IIT's own contested claim; dualism predicts the void's character (not evidence-upgrade); void/modal register calibrated. No label leakage; HOT/GWT Mode-Three, illusionism marked bedrock.
+- **Length**: voids over cap — length-neutral, no human length decision required. Anchoring: no flags before/after.
+- **Output**: [[reviews/deep-review-2026-06-05-minimal-consciousness-void]]
+
 ## 2026-06-05T20:10:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenal-concepts-as-materialist-response]]
