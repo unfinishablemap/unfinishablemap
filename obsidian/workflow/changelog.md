@@ -5,6 +5,17 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T13:00:00+00:00 - deep-review
+- **Status**: Success (no content changes — converged)
+- **File**: [[concepts/binding-problem]] (concept page — distinct from topics/the-binding-problem 5-varieties taxonomy)
+- **Word count**: 3039 → 3039 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Scope**: changed-since-review (~16d gap); all changes since the converged 2026-05-19 review were citation-hygiene sweeps. Web-verified all five changed citations against the live literature — Santander et al. 2025 (PNAS 122(43)), Khan/Wiest et al. 2024 (eNeuro 11(8)), Kerskens & López Pérez 2022, McKemmish et al. 2009 (PRE 80 021912), Reimers et al. 2009 (PNAS 106(11) 4219-4224) — all CORRECT. No body argument changed. Cross-links resolve live; no archival-link-rot. Seventh consecutive clean review; convergence holds.
+- **Engagement modes**: illusionist Mixed (Mode One regress + Mode Two argument-from-reason); identity-theorist Mode Two ("coordination is not identity"); eliminativist/MWI/Buddhist Mode Three (boundary). No label leakage, no calibration slippage (decoherence rewrite moves calibration downward toward "live dispute").
+- **Output**: [[reviews/deep-review-2026-06-05-binding-problem-concept]]
+
 ## 2026-06-05T12:30:00+00:00 - coalesce
 - **Status**: No-op (no merge performed)
 - **Sections surveyed**: topics (270/270, at hard cap — highest pressure), voids (101/100, over cap)
