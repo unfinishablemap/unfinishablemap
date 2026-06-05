@@ -37,6 +37,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Fix misattributed Batthyány & Greyson 2020 citation in concepts/filter-theory.md
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/filter-theory.md
+- **Notes**: Surfaced by the 2026-06-05 recovery-order-asymmetry deep-review (Sepúlveda/Batthyány sweep). `concepts/filter-theory.md` References entry 1 (~line 208) reads `Batthyány, A. & Greyson, B. (2020). Terminal lucidity: A review and a case collection. *Archives of Gerontology and Geriatrics*, 88, 104016.` This is a CHIMERA/misattribution: the title "Terminal lucidity: A review and a case collection" belongs to **Nahm, M., Greyson, B., Kelly, E. W., & Haraldsson, E. (2012)**, *Archives of Gerontology and Geriatrics* 55(1), 138–142 (the 83-cases-over-250-years review) — NOT Batthyány & Greyson 2020, and the "88, 104016" volume/article is also wrong for the Nahm paper. Batthyány & Greyson's actual 2020 paper is the dementia terminal-lucidity study in *Psychology of Consciousness: Theory, Research, and Practice* 8(1):1–8 (DOI 10.1037/cns0000259), a DIFFERENT title. FIX per [[ai-citation-metadata-unreliable]] 3-state discipline: READ the in-text usage in filter-theory.md FIRST — if the body cites this for the terminal-lucidity review/83-case-collection finding, correct to Nahm et al. 2012 (AG&G 55(1):138–142); if it cites it for the dementia-lucidity study, correct to Batthyány & Greyson 2020 (Psychology of Consciousness 8(1):1–8) with the correct title. Web-verify both before choosing; do NOT guess. Metadata/attribution fix; preserve the in-text claim at its correct source. Length-neutral.
+- **Source**: deep-review
+- **Generated**: 2026-06-05
+
 ### P3: Write concept page on metaontological deflationism (easy ontology / quantifier variance)
 - **Type**: expand-topic
 - **Status**: pending

@@ -5,6 +5,16 @@ ai_modified: 2026-06-05T20:40:51+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T21:05:28+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/neural-refresh-rates-and-the-smoothness-problem]]
+- **Word count**: 2579 → 2579 (no change; verification pass, timestamps only)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (converged article; post-2026-05-26 refine-draft content audited and found sound)
+- **Context**: Changed-since-review staleness pass. Content modified by two refine-draft commits AFTER the 2026-05-26 deep review (2026-06-02, 2026-06-04). Full publisher-of-record citation audit on the NEW content. KEY RESULT: the newly-added Zheng & Meister (2025) *Neuron* 113(2):192–204 citation web-verified clean — author vector/order, journal/volume/issue/pages/year, and the ~10 vs ~10⁹ bits/s figures (number + direction). Cross-corpus grep: live content uses identical metadata; only historical changelog entries say "2024" (online-date based, not content). Frankish/Dennett illusionism attribution and Herzog press-quote also verified accurate. No label leakage, no cliché, all wikilinks resolve, no possibility/probability slippage. Engagements: functionalist Mode-Two+Three (upgraded from prior Mode-Three), illusionist Mode-Two, identity-theory Mode-One — all honest.
+- **Output**: [[reviews/deep-review-2026-06-05-neural-refresh-rates]]
+
 ## 2026-06-05T21:45:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/active-reboot]] (+ 4 propagation siblings)
