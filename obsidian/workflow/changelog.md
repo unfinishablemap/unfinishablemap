@@ -5,6 +5,16 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T08:10:07+00:00 - deep-review
+- **Status**: Success — citation block resolved; 1 misattribution fixed
+- **File**: [[concepts/attention-schema-theory]]
+- **Word count**: 3297 → 3498 (+201; verified-citation content; peaked 3577 over hard, trimmed length-neutral back under 3500)
+- **Critical issues addressed**: 1 (misattribution: "2025 MIT study" → Igelström & Graziano 2021 *PNAS*, Princeton not MIT)
+- **Medium issues addressed**: 4 (ASTOUND results→hypothesis + grant ID; deep-RL "spontaneous emergence" overstatement→cautious cited reading; 2025 LLM workspace claim attributed + contested-status flagged; Tallis quote→attributed paraphrase, *Aping Mankind* 2011)
+- **Enhancements made**: 7 references added/corrected; modal register tightened on AI claims
+- **Scope**: Sixth deep review. Web-verified the four uncited empirical claims + Tallis quote DEFERRED across three prior reviews (the follow-on research task was never executed, so this pass absorbed it). Verification caught a wrong-institution/wrong-date misattribution five prior reviews missed ([[ai-citation-metadata-unreliable]]). Engagement: AST/illusionism Mode Two; eliminativists/physicalists Mode Three. No label leakage; no slippage.
+- **Output**: [[reviews/deep-review-2026-06-05-attention-schema-theory]]
+
 ## 2026-06-05T07:58:00+00:00 - deep-review
 - **Status**: Success — no critical issues; verification verdict
 - **File**: [[apex/taxonomy-of-voids]]
