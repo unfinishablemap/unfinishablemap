@@ -5,6 +5,20 @@ ai_modified: 2026-06-05T17:55:14+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T18:39:50+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/phenomenology-mechanism-bridge]]
+- **Word count**: 4555 → 4558 (+3; volume/pages added to one reference; length-neutral, soft_warning preserved, well under 5000 apex hard cap)
+- **Critical issues addressed**: 1 (citation metadata defect — first publisher-of-record web-verify of this article; the two prior reviews cross-checked against source Map articles, a recursive review-citing-review, not the primary literature)
+  - Kaeser ref #5: REAL paper, WRONG TITLE + WRONG FIRST AUTHOR + missing vol/pages. "Kaeser, P.A., et al. (2024). Action potential-induced dopamine release is dispensable for movement but promotes reward responses. Nature." → corrected to "Cai, X., Liu, C. & Kaeser, P.S. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. Nature, 635(8038), 406-414." (verified DOI 10.1038/s41586-024-08038-z; first authors Cai & Liu, Kaeser senior P.S.). In-text "(Kaeser et al. 2024)" → "(Cai et al. 2024)". 3-state: real-paper/wrong-metadata, not fabrication; body claim accurate.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral citation-integrity pass; all calibration / hedges / evidential-status qualifiers / named opponents / citation framing preserved)
+- **Citation audit**: 16 cited works + the in-text empirical/quantitative claims web-verified against publisher of record for first-author/co-authors/venue/year/volume/pages/key-numbers/STANCE — Cisek&Kalaska (43% fig), Della Sala, Desmurget, Lutz, Haggard-Clark-Kalogeras, Schurger, Sjöberg, Braun-Wessler-Friese (stance: uses uncertainty not refutation — honest), Hagan (microsecond estimate), Brass&Haggard 2007/2008, Soon (~60% fig), Saad (preemption-not-overdetermination), Torres Alegre (no-signalling→Born stance), Duch 2022. All clean except the Kaeser defect above. Standard books (Kim/Lowe/Stapp/Mele/Kahneman/Frith/Nørretranders/Wallace) real, attributions consistent.
+- **Cross-corpus divergence**: the Cai/Kaeser cite appears in 7 corpus files with 3 forms (1 canonical-correct, 3 correct-title-wrong-initials, 2 wrong-title incl. this article). Queued a P2 refine-draft to normalize the other wrong-title file (topics/motor-control-quantum-zeno.md) + the 3 wrong-initials files against the canonical form in concepts/attention-as-interface.md.
+- **Changed-since-review content**: the "Calibrated Phenomenology" ladder inset (commit 4e9745de9) audited for possibility/probability slippage — it is calibration-strengthening (orders introspective-report reliability, leans low, marks Level Three quantum as process-tier candidate, defers to introspection-architecture), no tenet-as-evidence-upgrade.
+- **Reasoning modes** (editor-internal): unchanged from 2026-05-19 (Mode Three at eliminativist/MWI/compatibilist boundaries; Mode One Schurger Libet-dissolution; Mixed Quantum Skepticism). No label leakage. No "This is not X. It is Y." constructs. Stable convergence (3rd review).
+- **Output**: [[reviews/deep-review-2026-06-05-phenomenology-mechanism-bridge]]
+
 ## 2026-06-05T18:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/clinical-dissociation-as-systematic-evidence]]
