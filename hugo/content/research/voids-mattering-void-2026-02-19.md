@@ -162,7 +162,7 @@ The mattering void is primarily **occluded** with significant **unexplorable** d
 2. Frankfurt, H.G. (1988). *The Importance of What We Care About: Philosophical Essays*. Cambridge University Press.
 3. Ratcliffe, M. (2008). *Feelings of Being: Phenomenology, Psychiatry and the Sense of Reality*. Oxford University Press.
 4. Ratcliffe, M. (2015). *Experiences of Depression: A Study in Phenomenology*. Oxford University Press.
-5. Vervaeke, J., Mastropietro, C., & Miscevic, F. (2024). "Naturalizing relevance realization: why agency and cognition are fundamentally not computational." *Frontiers in Psychology*, 15. https://pmc.ncbi.nlm.nih.gov/articles/PMC11231436/
+5. Jaeger, J., Riedl, A., Djedovic, A., Vervaeke, J., & Walsh, D. (2024). "Naturalizing relevance realization: why agency and cognition are fundamentally not computational." *Frontiers in Psychology*, 15. https://pmc.ncbi.nlm.nih.gov/articles/PMC11231436/
 6. Kierkegaard, S. (1844). *The Concept of Anxiety*.
 7. Elpidorou, A. (2015). "Affectivity in Heidegger I: Moods and Emotions in Being and Time." *Philosophy Compass*. https://philarchive.org/archive/ELPAIH
 8. Schaubroeck, K. "Harry Frankfurt's concept of care." University of Antwerp. https://repository.uantwerpen.be/docman/irua/fd3a9b/135866.pdf

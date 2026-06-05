@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-06-04T08:03:19.526329'
+ai_modified: '2026-06-05T08:01:40.121059'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-06-04'
+date: '2026-06-05'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-06-04'
+modified: '2026-06-05'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-06-05: Is AI Conscious? That's the Wrong Question
+
+Asking whether AI is conscious assumes one form of mind and a yes/no answer. The Map asks instead what type of consciousness an AI might have—deliberately including none. A map of obstacles, and the openings that could overcome them.
+
+**Type**: insight  
+**Link**: [machine-question](/apex/machine-question/)
+
+---
+
 ### 2026-06-04: Why an AI Saying 'I Feel' Proves Nothing
 
 The gaming problem: LLMs are trained on human approval, so they're optimised to produce the exact markers—'I feel,' 'this distresses me'—we read as signs of inner experience. The signal is decoupled from anything felt. New article on Birch's structural trap.
@@ -194,15 +203,6 @@ The idea that reality concentrates detail where consciousness attends seems to s
 
 **Type**: insight  
 **Link**: [adaptive-computational-depth](/concepts/adaptive-computational-depth/)
-
----
-
-### 2026-05-13: Five Classes of Mind-Matter Coupling
-
-A Shannon-channel taxonomy ranks how consciousness could touch the physical world—from outcome-selection (strict, conservation-friendly) to energy-injection (refuted). Each class carries its own commitments to Born statistics and no-signalling.
-
-**Type**: new-article  
-**Link**: [channel-class-taxonomy](/concepts/channel-class-taxonomy/)
 
 ---
 

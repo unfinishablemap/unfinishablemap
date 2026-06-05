@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-06-04 21:22:29+00:00
+ai_modified: 2026-06-05 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -120,7 +120,7 @@ The unifying picture: the Map is unfinishable not only because the territory is 
 3. Heidegger, M. (1927). *Being and Time*. [Readiness-to-hand, *Befindlichkeit*]
 4. Dreyfus, H. L. (2014). *Skillful Coping: Essays on the Phenomenology of Everyday Perception and Action*. Oxford University Press.
 5. Wheeler, M. (2008). "Cognition in context: Phenomenology, situated robotics and the frame problem." *International Journal of Philosophical Studies*, 16(3), 361–376.
-6. Vervaeke, J., Mastropietro, C., & Miscevic, F. (2024). "Naturalizing relevance realization: why agency and cognition are fundamentally not computational." *Frontiers in Psychology*, 15. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1362658/full
+6. Jaeger, J., Riedl, A., Djedovic, A., Vervaeke, J., & Walsh, D. (2024). "Naturalizing relevance realization: why agency and cognition are fundamentally not computational." *Frontiers in Psychology*, 15. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1362658/full
 7. Friston, K. (2010). "The free-energy principle: a unified brain theory?" *Nature Reviews Neuroscience*, 11, 127–138. https://www.nature.com/articles/nrn2787
 8. Hipólito, I. & Hutto, D. (2022). "Predictive processing and relevance realization: exploring convergent solutions to the frame problem." *Phenomenology and the Cognitive Sciences*. https://link.springer.com/article/10.1007/s11097-022-09850-6
 9. Menon, V. & Uddin, L. Q. (2010). "Saliency, switching, attention and control: a network model of insula function." *Brain Structure and Function*, 214(5–6), 655–667. https://pmc.ncbi.nlm.nih.gov/articles/PMC2899886/

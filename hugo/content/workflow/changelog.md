@@ -9,6 +9,43 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-05T07:58:00+00:00 - deep-review
+- **Status**: Success — no critical issues; verification verdict
+- **File**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Word count**: 4469 → 4469 (no change; 112% of 4000 soft, ~530w under 5000 hard)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (only carried-forward cosmetic "over sixty" under-count, left deferred)
+- **Enhancements made**: 0 (stability-confirming pass; frontmatter timestamps only)
+- **Scope**: Changed-since-review (~17d gap) verification of genuinely new content — Void Clustering Audit (origin-class four-way split + rival-framings table), Lawvere fixed-point-spine correction to cross-domain comparison, medium-status non-flatness exhibit, four-criteria propagation. Verified all integrate faithfully.
+- **Citation verification**: Bagwell 2023 *Synthese* 201:25 (FBT self-defeat), Lawvere spine, Trick & Pylyshyn 1994 / Cowan 2001, Gray 2003, Kay/Keogh/Pearson 2024, Halpern–Moses 1990 / Rubinstein 1989 all spot-checked against source articles — faithful.
+- **Discipline checks clean**: four-criteria inline deployment matches canonical apophatic-cartography-four-criteria; no possibility/probability slippage (tier-graduation correctly deferred to distinguishing tests; compatibility-vs-support distinction explicit); rival engagement is Mode Three boundary-marking in natural prose, no boundary-substitution; no label leakage; all spot-checked cross-links resolve live; no "This is not X. It is Y." cliché.
+- **Engagement modes**: rival-framings table (physicalism/illusionism/panpsychism/idealism) — Mode Three (framework-boundary marking; honestly compatible-not-discriminating, no refutation claimed).
+- **Not migrated/archived** (cited by P3 conjunction-coalesce placement task).
+- **Output**: [deep-review-2026-06-05-taxonomy-of-voids](/reviews/deep-review-2026-06-05-taxonomy-of-voids/)
+
+## 2026-06-05T12:45:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [relevance-void](/voids/relevance-void/), [mattering-void](/voids/mattering-void/), [medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/), [voids-mattering-void-2026-02-19](/research/voids-mattering-void-2026-02-19/), [voids-relevance-void-2026-03-09](/research/voids-relevance-void-2026-03-09/)
+- **Changes**: Mechanical wrong-author citation fix (web-verified by pessimistic-2026-06-05b). The "Naturalizing relevance realization" (Front. Psychol. 15, 2024, DOI 10.3389/fpsyg.2024.1362658) reference carried the wrong author string "Vervaeke, J., Mastropietro, C., & Miscevic, F." (one note had "Mastropietro, L."). Real-paper/wrong-author state — corrected the reference-list authors to "Jaeger, J., Riedl, A., Djedovic, A., Vervaeke, J., & Walsh, D. (2024)" across all 5 files; citation kept, not deleted. In-text "Vervaeke and colleagues" phrasings left as-is (Vervaeke is a co-author). No other content changes.
+- **Verification**: grep for "Mastropietro"/"Miscevic" → 0 in content dirs; 3 live articles validate clean.
+- **Published**: yes
+
+## 2026-06-05T12:30:00+00:00 - pessimistic-review
+- **Status**: Success — one critical/medium citation defect found (web-verified, corpus-propagated)
+- **Content reviewed**: `apex/medium-status-voids-in-cognition.md` (oldest apex by last-commit, never pessimistically reviewed; body ~4364w soft_warning, under apex hard 5000)
+- **Output**: [pessimistic-2026-06-05b](/reviews/pessimistic-2026-06-05b/)
+- **Notes**: Strong self-aware apex piece; pre-empts most adversarial pressure (explicit falsification section, structural-vs-interpretive convergence hedge, affirming-the-consequent warning). Discipline checks clean: no direct-refutation label leakage (grep-confirmed), altered-state symmetry NOT APPLICABLE (supportive-cluster gate fails — only one supportive item, used as a falsification probe not a confirmation), no epistemic/metaphysical equivocation (dualist reading explicitly held as "additional independent move"), no LLM-cliché, all wikilinks resolve live. KEY FINDING: web-verified wrong-author citation — "Vervaeke, J., Mastropietro, C., & Miscevic, F. (2024)" on the real *Frontiers in Psychology* 15 "Naturalizing relevance realization" paper; actual authors are Jaeger, Riedl, Djedovic, Vervaeke & Walsh (DOI 10.3389/fpsyg.2024.1362658). Real-paper/wrong-author state, NOT fabrication. CROSS-PROPAGATED to 3 live articles (relevance-void, mattering-void, this apex) + 2 public research notes — queued a P2 multi-file refine-draft. Secondary content gap: "attenuation without elimination" claim doesn't engage contemplative-cessation counter-case — queued P3. Two todo tasks added.
+
+## 2026-06-05T07:39:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [machine-question](/apex/machine-question/)
+- **Word count**: 4985 → 4999 (net flat; length-neutral, under 5000 apex hard threshold)
+- **Critical issues addressed**: 1 (missing Rebouillat et al. 2021 reference for the anti-correlated-metacognitive-signal claim — web-verified real, added to References)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (length-neutral prose tightening to offset the reference addition and keep under hard threshold)
+- **Notes**: Sixth deep review; first archived review against the post-condense/post-Butlin-expansion body (last_deep_review read 2026-05-19 but no review FILE existed — a cycle deep-review touched the timestamp without archiving). Web-verified all load-bearing citations in the expanded body: Butlin et al. 2023 (arXiv:2308.08708, Chalmers contributor, "no obvious technical barriers" finding accurate), Butlin et al. 2025 TiCS (DOI 10.1016/j.tics.2025.10.011), Hoel 2026 Disproof (arXiv:2512.12802, continual-learning thesis), Milinkovic & Aru 2026 (NBR 181:106524), Maier–Dechamps 2018 (12,571-participant null). No possibility/probability slippage (indicator framework correctly split strongly-supported-as-science / live-hypothesis-as-criterion; rival-reading section runs discriminator both ways, invokes common-cause-null). Reasoning modes — functionalism: Mode Two; Searle: Mode One (supportive); Duch: Mode Three; Hoel: Mode One; substrate-independent-computationalist rival: Mixed→Mode Three residue, no boundary-substitution. No label leakage, no cliché (grep-confirmed). All cross-links resolve live.
+- **Output**: [deep-review-2026-06-05-machine-question](/reviews/deep-review-2026-06-05-machine-question/)
+
 ## 2026-06-05T00:30:00+00:00 - deep-review
 - **Status**: Success — confirming convergence pass, no critical issues
 - **File**: [disconnection-neuroscience](/concepts/disconnection-neuroscience/)

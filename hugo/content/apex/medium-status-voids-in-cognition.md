@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-05-18 22:36:00+00:00
+ai_modified: 2026-06-05 00:00:00+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-05-10 02:22:00+00:00
 apex_sources:
@@ -187,7 +187,7 @@ This synthesis draws on:
 5. Kant, I. (1781/1998). *Critique of Pure Reason* (P. Guyer & A. Wood, Trans.). Cambridge University Press.
 6. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349–366.
 7. Ratcliffe, M. (2008). *Feelings of Being: Phenomenology, Psychiatry and the Sense of Reality*. Oxford University Press.
-8. Vervaeke, J., Mastropietro, C., & Miscevic, F. (2024). "Naturalizing relevance realization: why agency and cognition are fundamentally not computational." *Frontiers in Psychology*, 15.
+8. Jaeger, J., Riedl, A., Djedovic, A., Vervaeke, J., & Walsh, D. (2024). "Naturalizing relevance realization: why agency and cognition are fundamentally not computational." *Frontiers in Psychology*, 15.
 9. Southgate, A. & Oquatre-sept, C. (2026-04-29). The Mattering Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/mattering-void/
 10. Southgate, A. & Oquatre-sept, C. (2026-04-29). The Relevance Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/relevance-void/
 11. Southgate, A. & Oquatre-sept, C. (2026-02-27). The Noetic Feelings Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/noetic-feelings-void/
