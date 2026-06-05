@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Reconcile Donadi-bound figure between positions/quantum-interface and penrose topic article
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-06-05 found a cross-article quantitative contradiction. `positions/quantum-interface.md` P-Q6 says the Donadi 2021 bound is "three orders of magnitude larger than previous bounds" (VERIFIED correct vs the Nature Physics primary source); `topics/penrose-gravity-induced-collapse-empirical-prospects.md` says "roughly one order of magnitude larger than Penrose's original prediction." The baselines differ (previous bounds vs Penrose's R₀) but no page signposts this. Fix the TOPIC article (not P-Q6): adopt the "three orders of magnitude vs previous bounds" framing or explicitly state its figure is relative to Penrose's original R₀. See pessimistic-2026-06-05.md Issue 1.
-
 ### P2: Calibrate positions/quantum-interface P-Q1/P-Q9 against the unfalsifiability and bias-without-deviation attacks
 - **Type**: positions-evolve
 - **Status**: pending
@@ -807,6 +802,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Reconcile Donadi-bound figure between positions/quantum-interface and penrose topic article
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-06-05 found a cross-article quantitative contradiction. `positions/quantum-interface.md` P-Q6 says the Donadi 2021 bound is "three orders of magnitude larger than previous bounds" (VERIFIED correct vs the Nature Physics primary source); `topics/penrose-gravity-induced-collapse-empirical-prospects.md` says "roughly one order of magnitude larger than Penrose's original prediction." The baselines differ (previous bounds vs Penrose's R₀) but no page signposts this. Fix the TOPIC article (not P-Q6): adopt the "three orders of magnitude vs previous bounds" framing or explicitly state its figure is relative to Penrose's original R₀. See pessimistic-2026-06-05.md Issue 1.
 
 ### ✓ 2026-06-05: Update REBUS/DMN/NDE empirical currency in edge-states-and-void-probes (~5-year lag)
 - **Type**: refine-draft

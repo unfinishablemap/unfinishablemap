@@ -5,6 +5,13 @@ ai_modified: 2026-06-05T09:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/penrose-gravity-induced-collapse-empirical-prospects]]
+- **Original score**: n/a (targeted mechanical fix, not a full review)
+- **Changes**: Resolved cross-article quantitative apparent-contradiction flagged by `pessimistic-2026-06-05.md` Issue 1. The Donadi et al. 2021 R₀ bound is described here as "one order of magnitude larger than Penrose's original prediction" while `positions/quantum-interface.md` P-Q6 says "three orders of magnitude larger than previous bounds" — both correct, different baselines, neither signposted. Made the baseline explicit in this article: kept the "one order of magnitude vs Penrose's original R₀" framing and added the parallel "~three orders of magnitude vs previous experimental bounds" figure, cross-linking the positions register's framing via [[quantum-interface|positions register]]. Mechanical/clarity-only; no calibration weakening. P-Q6 left untouched (correct). Donadi 2021 figures already web-verified; no re-verification. Validated clean; 2638 words (under thresholds).
+- **Published**: yes
+
 ## 2026-06-05T05:12:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/marginal-organism-scope-of-value-sensitive-selection.md` — the day's freshest create (2026-06-05T13:30) and the exact article the earlier `optimistic-2026-06-05.md` review nominated as the natural next piece; read against parent `valence-and-conscious-selection`, sibling `wanting-liking-and-the-value-in-mechanism-fork`, and the boundary-case neighbourhood. No prior 06-05 optimistic review examined this file (it postdated them).

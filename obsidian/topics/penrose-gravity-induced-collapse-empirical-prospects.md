@@ -4,7 +4,7 @@ description: "Penrose argues spacetime instability causes quantum collapse—a t
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-06-02T04:30:26+00:00
+ai_modified: 2026-06-05T00:00:00+00:00
 last_deep_review: 2026-06-02T04:30:26+00:00
 draft: false
 topics:
@@ -41,7 +41,7 @@ The argument is physically motivated in a way that distinguishes it from competi
 
 Lajos Diósi arrived independently at a similar collapse mechanism through a different route—studying how gravitational fluctuations affect quantum dynamics. His mathematical formulation is more explicit than Penrose's heuristic argument, introducing a stochastic framework with a free length parameter R₀ that regularises the gravitational self-energy calculation. Penrose's original version effectively sets R₀ to zero, treating mass distributions as point-like.
 
-This parameter matters because it determines the model's experimental predictions. The DP model predicts that charged particles interacting with the collapse-inducing gravitational perturbation should emit bremsstrahlung X-rays. In 2021, Donadi et al. used high-purity germanium detectors in the Gran Sasso underground laboratory—chosen for its extremely low background radioactivity—to search for this predicted radiation. They found none, setting a lower bound of R₀ ≳ 0.54 × 10⁻¹⁰ m, roughly one order of magnitude larger than Penrose's original prediction. The parameter-free version (R₀ = 0) is ruled out.
+This parameter matters because it determines the model's experimental predictions. The DP model predicts that charged particles interacting with the collapse-inducing gravitational perturbation should emit bremsstrahlung X-rays. In 2021, Donadi et al. used high-purity germanium detectors in the Gran Sasso underground laboratory—chosen for its extremely low background radioactivity—to search for this predicted radiation. They found none, setting a lower bound of R₀ ≳ 0.54 × 10⁻¹⁰ m, roughly one order of magnitude larger than Penrose's original R₀ prediction—and roughly three orders of magnitude larger than the previous experimental bounds (the baseline used in the [[quantum-interface|positions register]]'s framing of this result). The parameter-free version (R₀ = 0) is ruled out.
 
 In 2022, the Majorana Demonstrator experiment at the Sanford Underground Research Facility confirmed and strengthened these exclusions using a larger detector array. As Sandro Donadi observed, "it is always possible to rescue any model"—but the question is whether indefinite modification yields genuine understanding.
 
