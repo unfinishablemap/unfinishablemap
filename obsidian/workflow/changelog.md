@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-05T19:30:00+00:00
+ai_modified: 2026-06-05T17:55:14+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-05T17:55:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/parfit-reductionism]]
+- **Word count**: 1980 → 1980 (+0; verification pass, no body edits)
+- **Critical issues addressed**: 0 (none found — 6th consecutive converged review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation audit**: All 7 references web-verified against publisher of record (Parfit 1984 & 1995, Swinburne 1984, Chisholm 1976, Johnston 2010, Frankish 2016, Wallace 2012) — all metadata accurate AND source-conclusion fidelity confirmed (Parfit reductionism + "what matters ≠ identity" + Relation R "right kind of cause / any cause" faithful; Frankish illusionism faithful). No 3-state de-citation needed.
+- **Tallis-removal verification**: Phantom Tallis 2016 (*Philosophy* 91(3)) removal (commit abc8c6aa5) landed cleanly — no dangling inline ref, no orphan; article correctly cites Frankish 2016 for illusionism. Cross-corpus grep: all 8 originally-affected files now clean, so the stale corpus-cleanup task at todo.md:3784 is resolved.
+- **Reasoning modes** (editor-internal): Parfit/agency Mode Two; Parfit/MWI-convergence Mode Three; Parfit/causal-history Mode Three; illusionism/Frankish Mode Two. No label leakage. No possibility/probability slippage.
+- **Output**: [[reviews/deep-review-2026-06-05-parfit-reductionism]]
 
 ## 2026-06-05T17:50:18+00:00 - deep-review
 - **Status**: Success

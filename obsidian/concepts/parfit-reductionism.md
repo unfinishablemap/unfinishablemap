@@ -4,7 +4,7 @@ description: "Parfit claims identity is just pattern continuity with no further 
 created: 2026-01-17
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-05-29T00:00:00+00:00
+ai_modified: 2026-06-05T17:55:14+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -27,7 +27,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-05-26T19:28:44+00:00
+last_deep_review: 2026-06-05T17:55:14+00:00
 ---
 
 Derek Parfit's reductionism about personal identity holds that identity consists in nothing over and above bodily and psychological continuity. There is no further fact—no separate entity like a soul or ego—that persists through time. What matters for practical purposes isn't identity itself but "Relation R": psychological connectedness and continuity with the right kind of cause.

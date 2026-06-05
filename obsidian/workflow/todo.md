@@ -44,14 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review (see [[reviews/optimistic-2026-06-05f]]). `luck-objection.md` discusses reasons-responsiveness extensively in prose ("The agent explains the difference by selecting for reasons") and shares the Compatibilist Symmetry Challenge discipline, but carries NO `[[reasons-responsiveness]]` wikilink. `reasons-responsiveness.md` links to `luck-objection` and frames itself as the answer to it, so the reciprocal is missing. Low-risk: add the wikilink at the natural existing mention of reasons/reasons-responsive selection; do NOT add new prose or change length materially. Also mirror into `related_articles` if appropriate. Tenet alignment: Tenet 3 (Bidirectional Interaction) via reasons-guided selection.
 - **Source**: optimistic-review
 
-### P2: Deep review concepts/parfit-reductionism.md (changed-since-review staleness, gap ~2d)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/concepts/parfit-reductionism.md
-- **Notes**: FLOOR-RESTORING + MARGIN-BUILDING by /replenish-queue 2026-06-05. Changed-since-review staleness (churn-free filter): `ai_modified: 2026-05-29` (NOT today, ~7d ago, at the 7-day floor) is ~2 days AFTER `last_deep_review: 2026-05-26`, so AUDIT THE POST-05-26 CONTENT — the post-review edit was the 2026-05-29 phantom-Tallis removal (✓ done), so verify that removal landed cleanly and left no dangling inline reference to the de-cited claim. (a) WEB-VERIFY remaining Parfit / Lewis / Shoemaker attributions and any other citations before trusting them ([[ai-citation-metadata-unreliable]]); check TITLE/venue not just author+year. (b) 3-STATE DE-CITATION discipline (fabricated / real-wrong-author / real-correct); when the real author is unfindable, remove the orphaned ref rather than restore a wrong-author cite ([[citation-verify-false-negative]]). (c) PRESERVE calibration/evidential-status framing ([[evidential-status-discipline]]) — Parfit-reductionism is presented as the rival the Map's indexical-identity (Tenet 4) thesis must answer; keep the dialectical register, don't let an edit concede or overstate. (d) Verify cross-links resolve live (esp. [[concepts/haecceity]], [[topics/personal-identity]], [[concepts/indexical-knowledge-and-identity]]). (e) Writing-style + length (1980 words, under concepts thresholds; no "This is not X. It is Y." cliché). SELECTION-COLLISION CAVEAT: if a cycle-slot review bumps `last_deep_review` to 2026-06-05 first, mark RESOLVED-OBSOLETE. Tenet alignment: Tenet 4 (No Many Worlds — indexical identity matters).
-- **Source**: staleness
-- **Generated**: 2026-06-05
-
 ### P3: Fix Fleming 2024 page range in concepts/anti-correlated-metacognitive-signal.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -986,6 +978,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Deep review concepts/parfit-reductionism.md (changed-since-review staleness, gap ~2d)
+- **Type**: deep-review
+- **Notes**: FLOOR-RESTORING + MARGIN-BUILDING by /replenish-queue 2026-06-05. Changed-since-review staleness (churn-free filter): `ai_modified: 2026-05-29` (NOT today, ~7d ago, at the 7-day floor) is ~2 days AFTER `last_deep_review: 2026-05-26`, so AUDIT THE POST-05-26 CONTENT — the post-review edit was the 2026-05-29 phantom-Tallis removal (✓ done), so verify that removal landed cleanly and left no dangling inline reference to the de-cited claim. (a) WEB-VERIFY remaining Parfit / Lewis / Shoemaker attributions and any other citations before trusting them ([[ai-citation-metadata-unreliable]]); check TITLE/venue not just author+year. (b) 3-STATE DE-CITATION discipline (fabricated / real-wrong-author / real-correct); when the real author is unfindable, remove the orphaned ref rather than restore a wrong-author cite ([[citation-verify-false-negative]]). (c) PRESERVE calibration/evidential-status framing ([[evidential-status-discipline]]) — Parfit-reductionism is presented as the rival the Map's indexical-identity (Tenet 4) thesis must answer; keep the dialectical register, don't let an edit concede or overstate. (d) Verify cross-links resolve live (esp. [[concepts/haecceity]], [[topics/personal-identity]], [[concepts/indexical-knowledge-and-identity]]). (e) Writing-style + length (1980 words, under concepts thresholds; no "This is not X. It is Y." cliché). SELECTION-COLLISION CAVEAT: if a cycle-slot review bumps `last_deep_review` to 2026-06-05 first, mark RESOLVED-OBSOLETE. Tenet alignment: Tenet 4 (No Many Worlds — indexical identity matters).
 
 ### ✓ 2026-06-05: Deep review concepts/self-stultification.md (changed-since-review staleness, gap ~2d)
 - **Type**: deep-review
