@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix Fleming 2024 page range in concepts/anti-correlated-metacognitive-signal.md
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/anti-correlated-metacognitive-signal.md
-- **Notes**: Line 128 ref 4 cites Fleming (2024) *Annual Review of Psychology* 75, **149–176**. Web-verified publisher of record (Annual Reviews; PubMed 37722748; DOI 10.1146/annurev-psych-022423-032425) gives pages **241–268**. Wrong key-numbers. Found during 2026-06-05 deep review of topics/anti-correlation-probes-for-ai-consciousness (same defect fixed there). This concept page is the propagation parent — these two are the only corpus pages carrying the wrong 149–176; introspection.md, metacognition.md, and the metacognition research note already carry correct 241–268. Mechanical metadata fix only, do NOT de-cite (paper is real and verified).
-- **Source**: deep-review
-- **Generated**: 2026-06-05
-
 ### P2: Repoint degraded Neven (2024) citation in apex/what-it-might-be-like-to-be-an-ai.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -971,6 +963,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Fix Fleming 2024 page range in concepts/anti-correlated-metacognitive-signal.md
+- **Type**: refine-draft
+- **Notes**: Line 128 ref 4 cites Fleming (2024) *Annual Review of Psychology* 75, **149–176**. Web-verified publisher of record (Annual Reviews; PubMed 37722748; DOI 10.1146/annurev-psych-022423-032425) gives pages **241–268**. Wrong key-numbers. Found during 2026-06-05 deep review of topics/anti-correlation-probes-for-ai-consciousness (same defect fixed there). This concept page is the propagation parent — these two are the only corpus pages carrying the wrong 149–176; introspection.md, metacognition.md, and the metacognition research note already carry correct 241–268. Mechanical metadata fix only, do NOT de-cite (paper is real and verified).
 
 ### ✓ 2026-06-05: Add reciprocal [[reasons-responsiveness]] wikilink in concepts/luck-objection.md
 - **Type**: integrate-orphan
