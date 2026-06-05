@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-05-27 00:00:00+00:00
+ai_modified: 2026-06-05 00:12:38+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Fundamental physics equations work equally well forward and backwar
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-19 00:00:00+00:00
+last_deep_review: 2026-06-05 00:12:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -187,6 +187,7 @@ Time-symmetric physics connects to the Map's [tenets](/tenets/) in several ways:
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces temporal asymmetry
 - [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) — Consciousness selecting through atemporal constraint-satisfaction
 - [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) — The non-retrocausal alternative the Map develops alongside time-symmetric selection
+- [forward-in-time-vs-time-symmetric-selection](/topics/forward-in-time-vs-time-symmetric-selection/) — Side-by-side cost accounting for the two selection routes, without adjudicating between them
 - [post-decoherence-selection](/concepts/post-decoherence-selection/) — Where the forward-in-time route locates the conscious-physical interface
 - [quantum-interpretations](/concepts/quantum-interpretations/) — Survey including transactional and TSVF frameworks
 - [measurement-problem](/concepts/measurement-problem/) — Why collapse remains unexplained

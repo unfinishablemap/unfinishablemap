@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-05-31 23:25:34+00:00
+ai_modified: 2026-06-04 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -29,6 +29,7 @@ last_deep_review: 2026-05-31 23:25:34+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[contentless-awareness-evidence]]'
 - '[[meditation-observer-witness-phenomenon-2026-01-18]]'
 - '[[eastern-philosophy-consciousness]]'
 - '[[edge-states-and-void-probes]]'
@@ -49,7 +50,7 @@ The witness concept suggests consciousness is not identical to its contents. If 
 
 ### Advaita Vedanta: Sakshi
 
-In Advaita Vedanta, the *sakshi* (witness-self) is pure awareness that observes without acting—self-luminous (*svayam-prakasha*), unchanging (*kutastha*), and never an object of observation. Shankara identifies the sakshi with Brahman—pure awareness beyond all mental modification. Bina Gupta characterises the sakshi as "a passive observer... the pure observer who observes without contaminating the observation," finding parallels with Kant's transcendental ego and Husserl's phenomenological residuum, yet noting the Advaita sakshi is "not part of the world" but its "underlying principle." The self-luminous, never-objectifiable sakshi is what carries the Advaita reading of dreamless sleep: it is the witness present throughout the blank that lets "I knew nothing" report a *known* absence rather than a mere gap. That move is the load-bearing premise of the [essential-consciousness thesis](/topics/essential-vs-contingent-consciousness/)—that the non-physical aspect cannot exist unconscious—against the Nyaya view that consciousness is an adventitious quality the self can lack.
+In Advaita Vedanta, the *sakshi* (witness-self) is pure awareness that observes without acting—self-luminous (*svayam-prakasha*), unchanging (*kutastha*), and never an object of observation. Shankara identifies the sakshi with Brahman—pure awareness beyond all mental modification. Bina Gupta characterises the sakshi as "a passive observer... the pure observer who observes without contaminating the observation," finding parallels with Kant's transcendental ego and Husserl's phenomenological residuum, yet noting the Advaita sakshi is "not part of the world" but its "underlying principle." The self-luminous, never-objectifiable sakshi is what carries the Advaita reading of dreamless sleep: it is the witness present throughout the blank that lets "I knew nothing" report a *known* absence rather than a mere gap. That move is the load-bearing premise of the [essential-consciousness thesis](/topics/essential-vs-contingent-consciousness/)—that the non-physical aspect cannot exist unconscious—against the Nyaya view that consciousness is an adventitious quality the self can lack. Whether that "known absence" can actually serve as evidence, given that the reporting apparatus is offline in the very state at issue, is examined in [what could count as evidence for contentless awareness](/topics/contentless-awareness-evidence/).
 
 ### Buddhist Perspectives
 
@@ -104,7 +105,7 @@ The [meditation literature](/concepts/meditation-and-consciousness-modes/) revea
 
 These are modes consciousness *can adopt*, not essential definitions. When consciousness operates as witness: thoughts slow (less feedback to the brain's option-generation), [effort](/concepts/mental-effort/) disappears (no choosing), and the self-narrative quiets (no amplification of "me"-thoughts).
 
-The witness register may also carry a characteristic *affective* signature. [Affective tone divergence across meditative traditions](/topics/affective-tone-divergence-across-meditative-traditions/) reads Buddhist equanimity (*upekkhā*)—neither pleasant nor unpleasant—as the felt tone of selection at its most disengaged, contrasting it with devotional traditions where the interface runs hot on a beloved object. On that reading the flatness of the witness state is the valence-signature of disengaged selection rather than affective poverty—a serious-but-unconfirmed hypothesis, not evidence the witness mode's phenomenology earns from the divergence data.
+The witness register may also carry a characteristic *affective* signature. [Affective tone divergence across meditative traditions](/topics/affective-tone-divergence-across-meditative-traditions/) reads Buddhist equanimity (*upekkhā*)—neither pleasant nor unpleasant—as the felt tone of selection at its most disengaged, contrasting it with devotional traditions where the interface runs hot on a beloved object. On that reading the flatness of the witness state is the valence-signature of disengaged selection rather than affective poverty—a serious-but-unconfirmed hypothesis, not something the divergence data establishes.
 
 The witness mode extends rather than contradicts [Bidirectional Interaction](/tenets/#bidirectional-interaction). The capacity for interaction includes the capacity to suspend interaction.
 

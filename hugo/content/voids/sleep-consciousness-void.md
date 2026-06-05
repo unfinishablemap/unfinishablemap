@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-05-27 22:30:00+00:00
+ai_modified: 2026-06-04 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -28,6 +28,7 @@ related_articles:
 - '[[voids]]'
 - '[[three-kinds-of-void]]'
 - '[[dream-consciousness]]'
+- '[[contentless-awareness-evidence]]'
 - '[[transit-void]]'
 - '[[death-void]]'
 - '[[consciousness-only-territories]]'
@@ -100,9 +101,9 @@ The key insight: in dreamless sleep, the ego dissolves, but awareness may persis
 
 Thomas Metzinger's research on Minimal Phenomenal Experience (MPE) bridges contemplative traditions with contemporary consciousness science. MPE investigates whether "pure awareness" can occur—consciousness stripped of all content, including self-reference. Meditators across traditions report such states, establishing that consciousness-without-content is at least possible.
 
-Gamma and Metzinger's 2022 study investigated "objectless awareness" during sleep. Participants reported "No Scenery/Void" periods following dissolving lucid dreams, characterised by "minimal sense of self—a bodiless self, yet experienced as being 'somewhere'—the presence of non-modal sensations, relatively pleasant emotions, an absence of visual experience." A separate micro-phenomenological study (Alcaraz et al., 2021) documented similar "awareness in the void" reports.
+Gamma and Metzinger's 2022 study investigated "objectless awareness" during sleep. Participants reported "No Scenery/Void" periods following dissolving lucid dreams, characterised by "minimal sense of self—a bodiless self, yet experienced as being 'somewhere'—non-modal sensations, relatively pleasant emotions, an absence of visual experience." Alcaraz et al. (2021) documented similar "awareness in the void" reports.
 
-Yoga nidra practitioners aim to maintain awareness through the sleep transition—an approach that functions as what the Map calls an [altered-state void probe](/voids/edge-states-and-void-probes/). EEG studies show high gamma-band activity (typically associated with waking consciousness) during states otherwise resembling deep sleep. These findings do not prove ordinary sleepers maintain awareness, but they demonstrate the boundary between consciousness and its apparent absence is more permeable than the simple on/off model suggests.
+Yoga nidra practitioners aim to maintain awareness through the sleep transition—an approach that functions as what the Map calls an [altered-state void probe](/voids/edge-states-and-void-probes/). EEG studies show high gamma-band activity (typically associated with waking consciousness) during states otherwise resembling deep sleep. These findings do not prove ordinary sleepers maintain awareness, but they demonstrate the boundary between consciousness and its apparent absence is more permeable than the simple on/off model suggests. What *could* count as evidence either way, and why the question structurally resists settlement, is the subject of [contentless awareness and the evidence question](/topics/contentless-awareness-evidence/).
 
 ## Converging Evidence
 
@@ -169,6 +170,7 @@ The evidence currently favours genuine state-dependent inaccessibility. But the 
 - [dream-consciousness](/topics/dream-consciousness/) — How dreams illuminate the consciousness-brain relationship
 - [transit-void](/voids/transit-void/) — The void at the boundary between conscious states
 - [witness-consciousness](/concepts/witness-consciousness/) — The Vedantic concept of awareness that observes without identifying
+- [contentless-awareness-evidence](/topics/contentless-awareness-evidence/) — What could count as evidence that a witness persists through dreamless sleep
 - [personal-identity](/topics/personal-identity/) — What grounds identity through gaps in consciousness
 - [death-void](/voids/death-void/) — Consciousness cannot represent its own permanent cessation
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What only phenomenal experience can access

@@ -4,10 +4,59 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-06-04 23:00:22+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-06-04'
+date: '2026-06-05'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-05T00:12:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [time-symmetric-physics](/concepts/time-symmetric-physics/)
+- **Word count**: 2123 → 2123 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added Further Reading entry reciprocating the 2026-05-27 body link to forward-in-time-vs-time-symmetric-selection)
+- **Enhancements made**: 1
+- **Note**: Eighth review; firmly converged. Only change since the 2026-05-19 review was one calibration-clean sentence linking the new comparison article (declines to adjudicate). Attribution/calibration/reasoning-mode/label-leakage checks all clean. Engagements: common-sense Mode One; "change the past" Mode One; empiricist Mode Three; decoherence Mode One. 85% of soft threshold, no condensation pressure.
+- **Output**: [deep-review-2026-06-05-time-symmetric-physics](/reviews/deep-review-2026-06-05-time-symmetric-physics/)
+
+## 2026-06-05T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [interface-formalization-void](/voids/interface-formalization-void/)
+- **Word count**: 1925 → 1925 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; third review)
+- **Note**: Re-surfaced on changed-since-review staleness, but all changes since the 2026-05-19 review were cross-link-only additions (stochastic-emergence-as-quantum-interface-evidence, apex/dualism-cartography, articulability-of-q1). No body argument, citation, attribution, or evidential-status claim changed. Attribution/calibration/label-leakage checks clean. Article firmly converged — recommend excluding from review queue on cross-link-only ai_modified bumps.
+- **Output**: [deep-review-2026-06-05-interface-formalization-void](/reviews/deep-review-2026-06-05-interface-formalization-void/)
+
+## 2026-06-04T23:59:48+00:00 - refine-draft
+- **Status**: Success
+- **File**: [near-death-experiences](/concepts/near-death-experiences/)
+- **Source**: pessimistic-2026-06-04d (3 medium/low findings)
+- **Changes**:
+  - (1) Selectivity overreach — intro "remains unexplained" → "remains incompletely explained" and forwarded the recall-bias + unmeasured-physiological caveat so the truncation-resilient intro carries it (was only at line 68).
+  - (2) Symmetry-acknowledgment under-named — added a paragraph in "The Asymmetry Problem" naming the parallel accommodation: the supportive cluster (NDE + terminal lucidity + psychedelic expansion) carries the weight of ONE pattern, not three independent confirmations, and the production theorist has the same functional-vs-structural-suppression move (Mashour, cited approvingly upstream). `altered_state_symmetry.evaluate_symmetry` returns None (gate already passed; this satisfies the acknowledgment markers).
+  - (3) Epistemic→metaphysical drift — Dualism paragraph now states the inference is epistemic ("more complex than current production models") and names the enriched-production escape (gamma surge as live candidate) rather than gliding to "isn't produced by neural activity."
+  - "Filter theory **dissolves** this paradox" → "reframes" (overclaim vs the Asymmetry section).
+  - MQI paragraph downgraded to explicit speculation; named the decoherence tension (dying tissue is MORE decoherent), removed the unmechanized "more fluid as neural constraints dissolve" directional claim.
+- **Preserved**: Asymmetry-Problem honesty, "What Would Challenge This View?" falsifiers, all citations.
+- **Length**: 2478 → 2696 body words (status soft_warning; under 3500 hard ceiling). Growth is the required new symmetry dialectic + epistemic clarifications; trimmed redundancy elsewhere to partially offset.
+- **Published**: yes
+
+## 2026-06-04 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/near-death-experiences.md` (~2,478 body words; well-aged, no prior dedicated pessimistic review). Empirical spine verified (Van Lommel n=344/62/41; AWARE II 28-of-567; Xu/Borjigin 2023 PNAS gamma). Three medium/low findings: selectivity-argument overreach vs its own caveat; altered-state symmetry-acknowledgment under-named (audit gate passes — disruptive cluster IS engaged, NOT the critical double-counting failure); epistemic→metaphysical drift in the framing claim. No label-leakage or boundary-substitution. Queued one P2 refine-draft.
+- **Output**: [pessimistic-2026-06-04d](/reviews/pessimistic-2026-06-04d/)
+
+## 2026-06-04T23:40:29+00:00 - deep-review (integration)
+- **Status**: Success
+- **File**: [cross-architecture-llm-introspection](/topics/cross-architecture-llm-introspection/) (integration-focused; content converged this session)
+- **Problem**: near-orphan — only 1 inbound link before this pass
+- **Inbound links added**: 4 (1 → 4 inbound). Reciprocal cross-references from [source-attribution-void](/voids/source-attribution-void/), [confabulation-void](/voids/confabulation-void/), [llm-consciousness](/concepts/llm-consciousness/) (body + frontmatter, length-neutral) and [ai-consciousness](/topics/ai-consciousness/) (frontmatter only — at length ceiling)
+- **Word counts (target articles, length-neutral)**: source-attribution-void 2852→2877; confabulation-void 2361→2405; llm-consciousness 2686→2724; ai-consciousness 3943 (unchanged body) — all soft_warning, under hard
+- **Calibration guard**: llm-consciousness mention scoped to *functional* introspection structure, explicitly NOT phenomenal self-report; source article's live-hypothesis calibration mirrored not upgraded in every inbound mention
+- **Verification**: all new wikilinks resolve via sync (exit 0, no strip-warnings); validate.py shows no new invalid files
+- **Output**: [deep-review-2026-06-04-cross-architecture-llm-introspection-integration](/reviews/deep-review-2026-06-04-cross-architecture-llm-introspection-integration/)
 
 ## 2026-06-04T12:00:00+00:00 - deep-review
 - **Status**: Success (convergence — no critical issues)
