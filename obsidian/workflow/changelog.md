@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-05T17:00:00+00:00
+ai_modified: 2026-06-05T15:14:29+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-05T15:14:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[research/memory-dual-domain-capability-2026-03-09]]
+- **Scope**: Source-attribution-only fix to the "Memory Reconsolidation" Key Source block (propagation root of the fabricated "Kube et al. 2025, *Frontiers in Cognition* 4, 1518743" citation that reached two now-fixed live articles). Analytical key-points and tenet-alignment prose left untouched.
+- **Changes**:
+  - Replaced the fabricated/misattributed Frontiers `fcogn.2025.1518743` URL (real = Hass-Cohen & Clay 2025 arts-therapies, no author "Kube") with the web-verified true home of the verbatim "goal-directed activity guided by the need for consonance, alignment, and internal stability" quote: "The brain edits the past: Neural systems of memory reconstruction and self-stability," *New Ideas in Psychology* 80 (2025), article 101221, pii S0732118X25000777.
+  - Web-verified the second URL (`pii S0149763425001988`, Neuroscience & Biobehavioral Reviews): could not confirm it supports these reconsolidation key-points (403 on direct fetch; never surfaced in title/quote searches), so dropped it rather than keep an unverifiable supporting cite.
+  - Added an inline source-attribution correction note recording the corrected-away "Kube 2025 / fcogn.2025.1518743" form so it cannot re-seed from this note.
+  - Author name "Lepsius" (flagged in MEMORY as a wrong-author = sociologist d. 2014) was NOT web-confirmable as the real author, so the corrected cite uses the verifiable title + journal + article-number rather than re-asserting a questionable author name.
+- **Verification**: No live "1518743" or "Kube" citation remains; both strings appear only inside the correction note as the corrected-away form.
+- **Published**: yes
 
 ## 2026-06-05T15:09:15+00:00 - deep-review
 - **Status**: Success

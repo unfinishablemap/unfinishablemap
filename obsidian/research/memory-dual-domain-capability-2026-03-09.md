@@ -4,7 +4,7 @@ created: 2026-03-09
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
-ai_modified: 2026-06-03T00:20:14+00:00
+ai_modified: 2026-06-05T15:14:29+00:00
 ---
 
 # Research: Memory as Dual-Domain Capability
@@ -106,15 +106,17 @@ Memory presents a uniquely instructive case for interactionist dualism. While ne
   - Warm quantum coherence has been demonstrated in multiple biological systems
 - **Tenet alignment**: Strongly aligns with Minimal Quantum Interaction and Bidirectional Interaction. If microtubules store quantum-level memory traces, they provide a direct interface between physical storage and conscious selection—exactly the kind of dual-domain architecture the Map's framework predicts
 
-### Memory Reconsolidation (2024-2025 Research)
-- **URL**: https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2025.1518743/full, https://www.sciencedirect.com/science/article/abs/pii/S0149763425001988
-- **Type**: Scientific papers
+### Memory Reconsolidation (2025 Research)
+- **URL**: https://www.sciencedirect.com/science/article/abs/pii/S0732118X25000777
+- **Source**: "The brain edits the past: Neural systems of memory reconstruction and self-stability." *New Ideas in Psychology* 80 (2025), article 101221.
+- **Type**: Scientific paper
 - **Key points**:
   - Memory retrieval destabilizes stored traces, requiring reconsolidation to re-stabilize
   - During reconsolidation, new information can be incorporated—memory is actively edited during recall
   - The prefrontal cortex governs top-down executive control over what is emphasized, suppressed, or restructured
   - Memory is a "goal-directed activity guided by the need for consonance, alignment, and internal stability"
 - **Tenet alignment**: Aligns with Bidirectional Interaction. Reconsolidation shows memory is not passive playback but active construction. Under dualism, consciousness could direct the reconsolidation process—choosing what to emphasise, suppress, or restructure. The "goal-directedness" of memory retrieval points to an agent doing the directing
+- **Source-attribution correction (2026-06-05)**: An earlier form of this block cited the verbatim quote to a fabricated/misattributed "Kube et al. 2025, *Frontiers in Cognition* 4, 1518743" at the URL `frontiersin.org/.../fcogn.2025.1518743/full`. That Frontiers article-number (1518743) is in fact Hass-Cohen & Clay (2025), "Memory reconsolidation: a proposed change mechanism for the arts therapies"—an unrelated arts-therapies paper with no author "Kube." The verbatim quote and the key-points above are correctly sourced to the *New Ideas in Psychology* 80 (2025) paper cited here (web-verified 2026-06-03 and 2026-06-05). The fabricated "Kube 2025 / fcogn.2025.1518743" form has propagated into two now-fixed articles; it is recorded here only as the corrected-away citation so it cannot re-seed from this note. A second URL previously in this block (a Neuroscience & Biobehavioral Reviews `pii S0149763425001988` reference) could not be confirmed to support these reconsolidation key-points and has been dropped.
 
 ### Phenomenology of Remembering
 - **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC7350950/

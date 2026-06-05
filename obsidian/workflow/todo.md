@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Seal the Kube-2025/Frontiers-1518743 fabricated-cite root in research/memory-dual-domain-capability
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/research/memory-dual-domain-capability-2026-03-09.md
-- **Notes**: PROPAGATION ROOT of the fabricated "Kube et al. 2025, Frontiers in Cognition 4, 1518743" reconsolidation citation that appeared in TWO live articles (topics/consciousness-and-memory fixed 2026-06-03; concepts/episodic-memory fixed 2026-06-05). The "Memory Reconsolidation (2024-2025 Research)" source block (~lines 109-117) attaches the verbatim quote "goal-directed activity guided by the need for consonance, alignment, and internal stability" (line ~116) to the WRONG URL https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2025.1518743/full — that Frontiers article-number 1518743 is actually **Hass-Cohen & Clay (2025), "Memory reconsolidation: a proposed change mechanism for the arts therapies"** (unrelated arts-therapies paper, no author "Kube"). The verbatim quote's REAL home is **Lepsius (2026), New Ideas in Psychology 80, 101221** (web-verified genuine during the 2026-06-03 + 2026-06-05 reviews). FIX: in the research note's Memory-Reconsolidation block, replace the wrong Frontiers-1518743 URL with the correct Lepsius (2026) NIP 80:101221 source for the quote; WEB-VERIFY the second URL (sciencedirect S0149763425001988 = Neurosci & Biobehav Reviews, ISSN 0149-7634) — keep it only if it genuinely supports the reconsolidation key-points, else drop. Add a transparent correction note so the fabricated form cannot re-seed. Seals the root so no THIRD memory-science article re-derives the fabricated cite ([[ai-citation-metadata-unreliable]] points 5/12 regression-root discipline; the two prior reviews fixed only the live articles, not this root). Source-attribution fix to a research note — do NOT alter the note's analytical key-points. Grep `1518743\|Kube.*2025` corpus-wide after to confirm zero live+root hits remain (changelog/reviews may retain historical record).
-- **Source**: deep-review
-- **Generated**: 2026-06-05
-
 ### P2: Deep review topics/philosophical-stakes-of-spontaneous-collapse.md (changed-since-review staleness, gap ~7d, citation-heavy quantum)
 - **Type**: deep-review
 - **Status**: pending
@@ -979,6 +971,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Seal the Kube-2025/Frontiers-1518743 fabricated-cite root in research/memory-dual-domain-capability
+- **Type**: refine-draft
+- **Notes**: PROPAGATION ROOT of the fabricated "Kube et al. 2025, Frontiers in Cognition 4, 1518743" reconsolidation citation that appeared in TWO live articles (topics/consciousness-and-memory fixed 2026-06-03; concepts/episodic-memory fixed 2026-06-05). The "Memory Reconsolidation (2024-2025 Research)" source block (~lines 109-117) attaches the verbatim quote "goal-directed activity guided by the need for consonance, alignment, and internal stability" (line ~116) to the WRONG URL https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2025.1518743/full — that Frontiers article-number 1518743 is actually **Hass-Cohen & Clay (2025), "Memory reconsolidation: a proposed change mechanism for the arts therapies"** (unrelated arts-therapies paper, no author "Kube"). The verbatim quote's REAL home is **Lepsius (2026), New Ideas in Psychology 80, 101221** (web-verified genuine during the 2026-06-03 + 2026-06-05 reviews). FIX: in the research note's Memory-Reconsolidation block, replace the wrong Frontiers-1518743 URL with the correct Lepsius (2026) NIP 80:101221 source for the quote; WEB-VERIFY the second URL (sciencedirect S0149763425001988 = Neurosci & Biobehav Reviews, ISSN 0149-7634) — keep it only if it genuinely supports the reconsolidation key-points, else drop. Add a transparent correction note so the fabricated form cannot re-seed. Seals the root so no THIRD memory-science article re-derives the fabricated cite ([[ai-citation-metadata-unreliable]] points 5/12 regression-root discipline; the two prior reviews fixed only the live articles, not this root). Source-attribution fix to a research note — do NOT alter the note's analytical key-points. Grep `1518743\|Kube.*2025` corpus-wide after to confirm zero live+root hits remain (changelog/reviews may retain historical record).
 
 ### ✓ 2026-06-05: Deep review concepts/episodic-memory.md (changed-since-review staleness, gap ~7d, citation-heavy)
 - **Type**: deep-review
