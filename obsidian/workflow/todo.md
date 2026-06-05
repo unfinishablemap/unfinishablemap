@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/history-of-the-interaction-problem.md (changed-since-review staleness, gap ~10d)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/topics/history-of-the-interaction-problem.md
-- **Notes**: Floor-restoring P2 minted by /replenish-queue 2026-06-05 (honest on-disk re-scan: 75 genuine changed-since-review candidates exist; ~14 already queued; this is a genuinely UNqueued high-gap candidate, picked as the single most citation-dense — 36 in-text year-cites, full References section — so the web-verify pass has the most to catch). Changed-since-review: ai_modified 2026-05-27, last_deep_review 2026-05-26 (~10d gap; the modified-since edit was a cross-link bump from the 2026-05-27 conservation-laws deep-review, so the article carries unreviewed accreted content). ai_contribution=100. Tenet 3 (Bidirectional Interaction) / Tenet 1 (Dualism) load-bearing historical survey. WEB-VERIFY **every** historical and contemporary citation AUTHOR + year + venue against the live record before trusting it ([[ai-citation-metadata-unreliable]]; [[craddock-613thz-dangling-cite-sweep]] — 36 cites is a large fabrication/misattribution surface). Apply the 3-STATE discipline for any cite that looks wrong: (a) fabricated → remove; (b) real-paper-wrong-author → fix the author, keep the paper; (c) real-and-correct → leave ([[citation-verify-false-negative]] — do NOT delete a real paper on a single failed search; title-search before declaring fabrication). PRESERVE calibration / evidential-status / citation-framing language ([[condense-regresses-calibration-qualifiers]]); historical attributions (Descartes–Elisabeth correspondence, Leibniz, occasionalism, Princess Elisabeth's objection) must keep their hedges. No "This is not X. It is Y." cliché. Metadata-only verdict acceptable if converged ([[deep-review-over-reviews-converged]]); do not over-hedge.
-- **Source**: staleness
-- **Generated**: 2026-06-05
-
 ### P2: Deep review topics/phenomenology-of-recursive-self-awareness.md (changed-since-review staleness, gap ~10d)
 - **Type**: deep-review
 - **Status**: pending
@@ -971,6 +963,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Deep review topics/history-of-the-interaction-problem.md (changed-since-review staleness, gap ~10d)
+- **Type**: deep-review
+- **Notes**: Floor-restoring P2 minted by /replenish-queue 2026-06-05 (honest on-disk re-scan: 75 genuine changed-since-review candidates exist; ~14 already queued; this is a genuinely UNqueued high-gap candidate, picked as the single most citation-dense — 36 in-text year-cites, full References section — so the web-verify pass has the most to catch). Changed-since-review: ai_modified 2026-05-27, last_deep_review 2026-05-26 (~10d gap; the modified-since edit was a cross-link bump from the 2026-05-27 conservation-laws deep-review, so the article carries unreviewed accreted content). ai_contribution=100. Tenet 3 (Bidirectional Interaction) / Tenet 1 (Dualism) load-bearing historical survey. WEB-VERIFY **every** historical and contemporary citation AUTHOR + year + venue against the live record before trusting it ([[ai-citation-metadata-unreliable]]; [[craddock-613thz-dangling-cite-sweep]] — 36 cites is a large fabrication/misattribution surface). Apply the 3-STATE discipline for any cite that looks wrong: (a) fabricated → remove; (b) real-paper-wrong-author → fix the author, keep the paper; (c) real-and-correct → leave ([[citation-verify-false-negative]] — do NOT delete a real paper on a single failed search; title-search before declaring fabrication). PRESERVE calibration / evidential-status / citation-framing language ([[condense-regresses-calibration-qualifiers]]); historical attributions (Descartes–Elisabeth correspondence, Leibniz, occasionalism, Princess Elisabeth's objection) must keep their hedges. No "This is not X. It is Y." cliché. Metadata-only verdict acceptable if converged ([[deep-review-over-reviews-converged]]); do not over-hedge.
 
 ### ✓ 2026-06-05: Deep review topics/attention-and-the-consciousness-interface.md (changed-since-review staleness, gap ~10d)
 - **Type**: deep-review

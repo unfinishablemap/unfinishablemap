@@ -5,6 +5,18 @@ ai_modified: 2026-06-05T17:55:14+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T19:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/history-of-the-interaction-problem]]
+- **Word count**: 2397 → 2420 (+23)
+- **Audit**: Directed exhaustive citation audit (~30 in-text cites web-verified against publisher of record; source-conclusion fidelity prioritized for all historical figures). All source-conclusion checks PASS (Descartes/Elisabeth/La Forge/Cordemoy/Malebranche/Arnauld/More/Spinoza/Leibniz/Kim). No wrong-author/stance-reversal/source-conflation.
+- **Critical issues addressed**: 0 (no content defects)
+- **Citation metadata fixes**: 3 — (1) Janssen-Lauret 2018 WRONG TITLE (chimera "…Problem of Mind-Body Interaction" → correct "Elisabeth of Bohemia as a Naturalistic Dualist," *Early Modern Women on Metaphysics*, CUP, 171–187; in-text gloss it supports remains valid); (2) Stencil 2023 "5(4)" issue-number artifact → "5, art. 4" (continuous-volume journal); (3) Cucu & Pitts 2019 arXiv-only → published *Mind and Matter* 17(1): 95–121.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 body edits (converged article; avoided oscillation)
+- **Output**: [[reviews/deep-review-2026-06-05-history-of-the-interaction-problem]]
+- **Note**: Janssen-Lauret title error survived two prior "attribution clean" deep reviews — caught only by live TITLE/VENUE verification, not author+year. Logged in review stability notes.
+
 ## 2026-06-05T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/motor-control-quantum-zeno]] (+ 3 sibling files)

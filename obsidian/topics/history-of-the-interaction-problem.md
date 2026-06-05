@@ -4,7 +4,7 @@ description: "From Princess Elisabeth's 1643 challenge through occasionalism, ex
 created: 2026-02-02
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-05-27T20:50:24+00:00
+ai_modified: 2026-06-05T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review: 2026-05-26T00:00:00+00:00
+last_deep_review: 2026-06-05T00:00:00+00:00
 coalesced_from:
   - "/topics/history-of-interactionist-dualism/"
   - "/topics/princess-elizabeths-challenge/"
@@ -163,8 +163,8 @@ A candid acknowledgment: one might object that "consciousness resolves quantum i
 1. Descartes, R. (1641). *Meditations on First Philosophy*.
 1. Descartes, R. (1649). *The Passions of the Soul*.
 1. Shapiro, L. (2007). *The Correspondence between Princess Elisabeth of Bohemia and René Descartes*. University of Chicago Press.
-1. Stencil, E. (2023). "Elisabeth of Bohemia on the Soul." *Journal of Modern Philosophy*, 5(4).
-1. Janssen-Lauret, F. (2018). "Princess Elisabeth of Bohemia and the Problem of Mind-Body Interaction."
+1. Stencil, E. (2023). "Elisabeth of Bohemia on the Soul." *Journal of Modern Philosophy*, 5, art. 4.
+1. Janssen-Lauret, F. (2018). "Elisabeth of Bohemia as a Naturalistic Dualist." In E. Thomas (ed.), *Early Modern Women on Metaphysics*, 171–187. Cambridge University Press.
 1. Malebranche, N. (1674–75). *De la recherche de la vérité*. Trans. T. Lennon & P. Olscamp (1997). Cambridge University Press.
 1. Spinoza, B. (1677). *Ethics, Demonstrated in Geometrical Order*. Trans. E. Curley (1985). Princeton University Press.
 1. Conway, A. (1690). *The Principles of the Most Ancient and Modern Philosophy*. Ed. A. Coudert & T. Corse (1996). Cambridge University Press.
@@ -182,7 +182,7 @@ A candid acknowledgment: one might object that "consciousness resolves quantum i
 1. Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Hameroff, S. & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews* 11(1): 39–78.
-1. Cucu, A. C. & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *arXiv:1909.13643*.
+1. Cucu, A. C. & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *Mind and Matter* 17(1): 95–121.
 1. Pitts, J. B. (2020). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia* 48(2): 673–707.
 1. Ebbersmeyer, S. & Hutton, S. (eds.) (2021). *Elisabeth of Bohemia (1618–1680): A Philosopher in her Historical Context*. Springer.
 1. Broad, C. D. (1925). *The Mind and Its Place in Nature*. Kegan Paul.
