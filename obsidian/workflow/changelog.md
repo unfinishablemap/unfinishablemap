@@ -5,6 +5,13 @@ ai_modified: 2026-06-05T15:14:29+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T19:30:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/consciousness-and-collective-phenomena]] (3359w incl. frontmatter; AI-100, coalesced from 3 predecessors, never dedicated-pessimistic-reviewed; oldest-by-modified substantial topic not in the 06-03/04/05 set)
+- **Findings**: 3 issues, all in the dualist-machinery sections (phenomenology sections strong, preserve). (1) HIGH — epistemic/metaphysical equivocation: interface-argument "groups cannot be conscious" upgrades a model-relative conditional into an unconditional impossibility ([[evidential-status-discipline]]). (2) MEDIUM — circularity in "Instructive Asymmetry": absence of group consciousness "supports Dualism" uses the framework's own interface assumption as evidence; doesn't discriminate vs the null hypothesis. (3) MEDIUM — unfalsifiable "predicts exactly" framing. Plus: No-Many-Worlds para asserts not argues (boundary-substitution risk per [[direct-refutation-discipline]]); IIT dismissed only Map-internally (add IIT's own low-Φ point); ape→"neural-quantum interface" non-sequitur; "too direct to dismiss as correlation" overstates vs epiphenomenalism. Galton 1907 Nature 75:450-451 verified CORRECT. No label leakage; altered-state audit N/A (supportive-cluster gate fails); no cliché.
+- **Queued**: P2 refine-draft (consolidated, surgical — preserves phenomenology)
+- **Output**: [[reviews/pessimistic-2026-06-05d]]
+
 ## 2026-06-05T17:05:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/forward-in-time-conscious-selection]]
