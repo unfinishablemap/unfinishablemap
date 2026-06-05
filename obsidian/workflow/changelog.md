@@ -5,6 +5,17 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T06:18:22+00:00 - deep-review
+- **Status**: Success (no content changes — converged)
+- **File**: [[voids/confabulation-void]]
+- **Word count**: 2405 → 2405 (no change; 120% of voids soft threshold, under hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Scope**: changed-since-review (~16d gap). Changed content since the 2026-05-19 review was (a) a citation propagation fix re-attributing the inverse-correlation anchor Coutinho→Rebouillat and (b) one cross-architecture-llm-introspection cross-link + sentence. WEB-VERIFIED the Rebouillat et al. (2021) citation — title/authors/venue/article-id all CORRECT (*Neuroscience of Consciousness* 2021(1) niab004, DOI 10.1093/nc/niab004); the prior Coutinho/*Scientific Reports* attribution was a wrong-author/wrong-venue defect the fix correctly removed (title+venue verified, not just author+year). New Lindsey thought-injection claim (~20% success / 0 false positives) accurate to source. Choice-blindness "narrowed-but-strengthened" framing verified against live 2025 pupillometry literature. All cross-links resolve LIVE; no archival-link-rot. No conflation with source-attribution-void (deliberate sibling distinctness preserved). No label leakage; materialist engagement Mode Three honestly noted. last_deep_review was set by a genuine deep review (not a coalesce/refine), so no hidden review debt. Converged.
+- **Engagement classification (editor-internal)**: materialism in Relation-to-Site-Perspective — Mode Three (framework-boundary marking), honestly noted; no boundary-substitution.
+- **Output**: [[reviews/deep-review-2026-06-05-confabulation-void]]
+
 ## 2026-06-05T13:00:00+00:00 - deep-review
 - **Status**: Success (no content changes — converged)
 - **File**: [[concepts/binding-problem]] (concept page — distinct from topics/the-binding-problem 5-varieties taxonomy)

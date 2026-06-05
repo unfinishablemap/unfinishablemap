@@ -4,8 +4,8 @@ description: "Human+AI exploration of why consciousness cannot detect when it fa
 created: 2026-05-15
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-06-04T23:40:29+00:00
-last_deep_review: 2026-05-19T20:00:00+00:00
+ai_modified: 2026-06-05T06:18:22+00:00
+last_deep_review: 2026-06-05T06:18:22+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
