@@ -5,6 +5,18 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T12:30:00+00:00 - coalesce
+- **Status**: No-op (no merge performed)
+- **Sections surveyed**: topics (270/270, at hard cap — highest pressure), voids (101/100, over cap)
+- **Decision**: Abandoned per skill guidance. Surveyed the prominent naming-pattern clusters in the most-pressured section and found no strong merge candidates. The apparent clusters are well-differentiated and/or would bust the length ceiling:
+  - `consciousness-and-the-problem-of-{induction,measurement-standards,other-properties}` — three distinct philosophical problems, not redundant.
+  - `consciousness-and-the-metaphysics-of-{composition,individuation,laws-and-dispositions}` — distinct metaphysical questions, all 2700–4300w; merging would lose differentiation and grossly exceed length ceiling.
+  - `{forward-in-time-conscious-selection, forward-in-time-vs-time-symmetric-selection, time-symmetric-selection-mechanism}` — deliberately complementary route-family articles, all ~2800–3900w.
+  - `{comparative-phenomenology-of-meditative-traditions (3262w), affective-tone-divergence-across-meditative-traditions (2666w)}` — parent + intentional child-hypothesis article; combined ~5900w would be unmanageable.
+  - `{cross-architecture-llm-introspection, introspection-architecture-independence-scoring}` — empirical-channel article vs methodological audit exhibit (4138w); different purposes.
+  - Voids affective cluster (`affective-void`, `appetitive-void`, `emotional-epistemology-void`) — intentionally granular distinct cognitive dark-spaces; the voids catalogue depends on fine-grained separation.
+- **Rationale**: Forcing any of these merges would destroy valuable differentiation or produce length-busting articles. Correct action is to decline.
+
 ## 2026-06-05T11:45:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/edge-states-and-void-probes]]
