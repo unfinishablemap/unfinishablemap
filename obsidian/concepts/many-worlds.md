@@ -4,7 +4,7 @@ description: "Why the Map rejects MWI: it raises unanswerable questions about in
 created: 2026-01-19
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-06-01T06:30:00+00:00
+ai_modified: 2026-06-05T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -216,7 +216,7 @@ Alternative interpretations—particularly [[collapse-and-time|time-symmetric]] 
 
 1. Everett, H. (1957). "Relative State" Formulation of Quantum Mechanics. *Reviews of Modern Physics*.
 1. Deutsch, D. (1999). Quantum Theory of Probability and Decisions. *Proceedings of the Royal Society*.
-1. Wallace, D. (2003). Everettian rationality. *Studies in History and Philosophy of Modern Physics*, 34, 415-439.
+1. Wallace, D. (2003). Everettian rationality. *Studies in History and Philosophy of Modern Physics*, 34, 415-438.
 1. Wallace, D. (2012). *The Emergent Multiverse*. Oxford University Press.
 1. Carroll, S. (2019). *Something Deeply Hidden*. Dutton.
 1. Kent, A. (2010). One world versus many: the inadequacy of Everettian accounts of evolution, probability, and scientific confirmation. In Saunders et al., *Many Worlds?*

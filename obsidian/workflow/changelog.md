@@ -5,6 +5,12 @@ ai_modified: 2026-06-05T14:00:02+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T15:30:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[research/probability-decision-theory-against-many-worlds-2026-03-04]], [[concepts/many-worlds]], [[concepts/probability-objections-many-worlds]]
+- **Changes**: Wallace (2003) "Everettian rationality" page-range off-by-one fix `415-439` → `415-438` (end page 438 per DOI 10.1016/S1355-2198(03)00036-4, ADS bibcode 2003SHPMP..34..415W, SciRP). Length-neutral, citation-only; no body prose or other citations touched. Fixes the research-note ROOT to prevent re-propagation. The sibling topics/ source was fixed in the 15:10 deep-review pass.
+- **Published**: yes
+
 ## 2026-06-05T15:10:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/probability-problem-in-many-worlds]]

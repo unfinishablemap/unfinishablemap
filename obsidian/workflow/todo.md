@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix Wallace (2003) page-range off-by-one (415-439 → 415-438) corpus-wide
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/research/probability-decision-theory-against-many-worlds-2026-03-04.md
-- **Notes**: WEB-VERIFIED 2026-06-05 (during the probability-problem-in-many-worlds deep-review): Wallace, D. (2003), "Everettian rationality: defending Deutsch's approach to probability in the Everett interpretation," *Studies in History and Philosophy of Modern Physics* 34(3) — the correct end page is **438**, NOT 439 (confirmed vs DOI 10.1016/S1355-2198(03)00036-4, ADS bibcode 2003SHPMP..34..415W, SciRP). The "415-439" form is an END-PAGE OFF-BY-ONE introduced by a 2026-03-05 "fix" (which corrected the start page from a prior 87-105 error but got the end page wrong) and never fully corrected. The deep-review fixed it in `topics/probability-problem-in-many-worlds.md`; the off-by-one PERSISTS in THREE more live files (regression-root residue per [[ai-citation-metadata-unreliable]] point 12): (1) `obsidian/research/probability-decision-theory-against-many-worlds-2026-03-04.md` line ~247 — the RESEARCH-NOTE ROOT, fix FIRST or it re-propagates; (2) `obsidian/concepts/many-worlds.md` line ~219; (3) `obsidian/concepts/probability-objections-many-worlds.md` line ~121. Mechanical length-neutral fix: change "415-439"→"415-438" (and "415–439"→"415–438" if en-dash) in each References entry. Do NOT change anything else. Grep `415-439\|415–439` corpus-wide after to confirm zero live hits remain (reviews/changelog entries may legitimately retain the old form as historical record). Per [[multifile-task-dropped-file]] do ALL three files.
-- **Source**: deep-review
-- **Generated**: 2026-06-05
-
 ### P2: Deep review topics/psychophysical-laws-bridging-mind-and-matter.md (changed-since-review staleness, gap ~7d, citation-heavy)
 - **Type**: deep-review
 - **Status**: pending
@@ -986,6 +978,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Fix Wallace (2003) page-range off-by-one (415-439 → 415-438) corpus-wide
+- **Type**: refine-draft
+- **Notes**: WEB-VERIFIED 2026-06-05 (during the probability-problem-in-many-worlds deep-review): Wallace, D. (2003), "Everettian rationality: defending Deutsch's approach to probability in the Everett interpretation," *Studies in History and Philosophy of Modern Physics* 34(3) — the correct end page is **438**, NOT 439 (confirmed vs DOI 10.1016/S1355-2198(03)00036-4, ADS bibcode 2003SHPMP..34..415W, SciRP). The "415-439" form is an END-PAGE OFF-BY-ONE introduced by a 2026-03-05 "fix" (which corrected the start page from a prior 87-105 error but got the end page wrong) and never fully corrected. The deep-review fixed it in `topics/probability-problem-in-many-worlds.md`; the off-by-one PERSISTS in THREE more live files (regression-root residue per [[ai-citation-metadata-unreliable]] point 12): (1) `obsidian/research/probability-decision-theory-against-many-worlds-2026-03-04.md` line ~247 — the RESEARCH-NOTE ROOT, fix FIRST or it re-propagates; (2) `obsidian/concepts/many-worlds.md` line ~219; (3) `obsidian/concepts/probability-objections-many-worlds.md` line ~121. Mechanical length-neutral fix: change "415-439"→"415-438" (and "415–439"→"415–438" if en-dash) in each References entry. Do NOT change anything else. Grep `415-439\|415–439` corpus-wide after to confirm zero live hits remain (reviews/changelog entries may legitimately retain the old form as historical record). Per [[multifile-task-dropped-file]] do ALL three files.
 
 ### ✓ 2026-06-05: Deep review topics/probability-problem-in-many-worlds.md (changed-since-review staleness, gap ~5d, citation-heavy)
 - **Type**: deep-review
