@@ -4,7 +4,7 @@ description: "Human and AI exploration of perception as consciousness encounteri
 created: 2026-03-23
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-04-28T17:52:00+00:00
+ai_modified: 2026-06-05T00:00:00+00:00
 last_deep_review: 2026-06-01T09:09:37+00:00
 draft: false
 topics:
@@ -64,19 +64,19 @@ Indirect realism holds that perception is mediated by mental representations. Co
 
 The Unfinishable Map's position draws on [[filter-theory|filter theory]]: the brain does not produce consciousness but constrains and transmits it. Under this model, perception is consciousness encountering reality through a neural [[mind-matter-interface|interface]] that shapes what appears without generating the appearing itself. The brain filters, organises, and formats sensory information; consciousness receives and renders the result as phenomenal experience.
 
-This differs from both standard direct and indirect realism. It shares with direct realism the conviction that perception is genuine contact with reality — not hallucination or mere representation. It shares with indirect realism the recognition that neural processing mediates what reaches consciousness. The distinctive claim is that the mediating structure is an *interface* between two ontologically distinct domains, not a computational process occurring entirely within one.
+This differs from both standard direct and indirect realism. It shares with direct realism the conviction that perception is genuine contact with reality — not hallucination or mere representation. It shares with indirect realism the recognition that neural processing mediates what reaches consciousness. The distinctive claim is that the mediating structure is an *interface* between two ontologically distinct domains, not a computational process occurring entirely within one. To avoid collapsing into a redescription of sophisticated indirect realism, the model owes a discriminating prediction: it forecasts that voluntary contributions to perception (deliberate biasing of a bistable switch, attentional reshaping of a constancy) cannot be fully recovered from the brain's prior model alone, whereas predictive-processing realism predicts they can. That is where the two views can in principle come apart.
 
 ## Evidence From Dissociations
 
 The strongest evidence that perception involves something beyond neural processing comes from cases where processing and experience come apart.
 
-**[[blindsight]]** patients with damage to primary visual cortex can discriminate visual stimuli — locating objects, detecting motion — while sincerely reporting no visual experience (Weiskrantz, 1986). The information processing is intact; phenomenal experience is absent or drastically degraded. If perception were identical to processing, this dissociation should not occur.
+**[[blindsight]]** patients with damage to primary visual cortex can discriminate visual stimuli — locating objects, detecting motion — while sincerely reporting no visual experience (Weiskrantz, 1986). Spatial-discrimination processing is largely preserved while phenomenal experience is absent or drastically degraded. A physicalist who distinguishes access-processing from phenomenal-processing can accommodate this as a dissociation between two neural subsystems; what the case establishes directly is that experience tracks a *specific* processing signature, not gross stimulus reception.
 
 **Inattentional blindness** — failing to notice a gorilla walking through a basketball game — shows that retinal processing can be complete while conscious perception is absent (Simons & Chabris, 1999), though debates over [[phenomenal-overflow]] complicate the interpretation: viewers may experience more than they can simultaneously report, leaving open whether the gorilla was unseen or merely uncatalogued. Conversely, **lucid dreaming** demonstrates vivid perceptual experience largely decoupled from external sensory input. Processing without experience and experience without external sensory input establish that these are separable capabilities.
 
 **[[perceptual-degradation-and-the-interface|Perceptual degradation]]** reveals the interface from a different angle. When perception fails — through blur, neural damage, or pharmacological disruption — novel phenomenal properties emerge (the texture of haziness, the softness of degraded vision) that belong to the experiencing subject, not to external objects. The pattern of failure exhibits four signatures — graceful degradation, priority preservation, compensatory generation, and the anaesthesia dissociation — that collectively point toward a bandwidth-limited transmission channel connecting consciousness and the brain rather than an identity between them.
 
-**Bistable percepts** like the Necker cube add a third dimension: the same physical stimulus supports multiple perceptual interpretations, and consciousness alternates between them in ways that voluntary [[attention-as-interface|attention]] can bias. Here consciousness participates in determining *which* perception occurs — a phenomenon that [[predictive-processing]] frameworks struggle to explain without granting consciousness a role beyond passive Bayesian updating.
+**Bistable percepts** like the Necker cube add a third dimension: the same physical stimulus supports multiple perceptual interpretations, and consciousness alternates between them in ways that voluntary [[attention-as-interface|attention]] can bias. [[predictive-processing]] accounts (Hohwy, Clark) explain the spontaneous switching well, through precision-weighting and active inference — the system resolving high model-uncertainty by sampling alternative hypotheses. Active inference is not passive, so the residual disagreement is narrower than it first appears: it concerns *voluntary* top-down biasing of which interpretation holds, where consciousness participates in determining *which* perception occurs in a way that may exceed what priors alone supply.
 
 ## Perception and the Binding Problem
 
@@ -94,7 +94,7 @@ The contrast between perceptual and non-perceptual consciousness is equally info
 
 Perception is where the Map's [[tenets]] find their most concrete application.
 
-**[[tenets#^dualism|Dualism]]** predicts that perceptual experience and perceptual processing are separable — and blindsight, inattentional blindness, and lucid dreaming confirm this. The qualitative richness of perception — the felt character of colours, sounds, and textures — resists reduction to neural description, providing the most accessible evidence that consciousness involves something beyond the physical.
+**[[tenets#^dualism|Dualism]]** predicts that perceptual experience and perceptual processing are separable — and blindsight, inattentional blindness, and lucid dreaming are consistent with this, though they do not by themselves select dualism over a physicalist account that distinguishes access-processing from phenomenal-processing. The qualitative richness of perception — the felt character of colours, sounds, and textures — resists reduction to neural description, providing the most accessible evidence that consciousness involves something beyond the physical.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** holds that consciousness causally contributes to perception rather than passively receiving it. Attentional selection, bistable percept resolution, and the maintenance of perceptual constancies all suggest that consciousness shapes what is perceived. The [[capability-division-problem|capability division framework]] separates brain-side contributions (feature extraction, spatial mapping) from mind-side contributions (phenomenal rendering, experiential unity, perceptual ownership).
 

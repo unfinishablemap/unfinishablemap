@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address dissociation-argument overreach in concepts/perception.md
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/perception.md
-- **Notes**: Pessimistic review 2026-06-05 found the dissociation evidence (blindsight, inattentional blindness, lucid dreaming) is presented as confirming dualism when each case is comfortably explained by a physicalist access/phenomenal-processing-subsystem distinction. Three concrete fixes, all light: (1) blindsight "The information processing is intact" is factually overstated for V1-lesion blindsight — soften to "spatial-discrimination processing is largely preserved"; (2) Relation to Site Perspective says dissociations "confirm" dualism's separability prediction — downgrade "confirm" to "are consistent with" / "are predicted by", since the data don't *select* dualism over subsystem-dissociation physicalism; (3) bistable-percepts paragraph straw-mans predictive processing as "passive Bayesian updating" — active inference is the opposite of passive; acknowledge the active-inference reply and relocate the genuine disagreement to *voluntary* top-down biasing. Optional: add one sentence stating what the interface model predicts that sophisticated indirect realism / PP does not (the Popperian discriminating-prediction gap). Preserve the honest phenomenal-overflow hedge already in the inattentional-blindness paragraph. See pessimistic-2026-06-05-perception.md. No citation defects found (all 5 refs verify); no length concern (1622w).
-- **Source**: pessimistic-review
-- **Generated**: 2026-06-05
-
 ### P2: Deep review voids/sleep-consciousness-void.md (changed-since-review staleness, gap ~9d)
 - **Type**: deep-review
 - **Status**: pending
@@ -901,6 +893,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Address dissociation-argument overreach in concepts/perception.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-06-05 found the dissociation evidence (blindsight, inattentional blindness, lucid dreaming) is presented as confirming dualism when each case is comfortably explained by a physicalist access/phenomenal-processing-subsystem distinction. Three concrete fixes, all light: (1) blindsight "The information processing is intact" is factually overstated for V1-lesion blindsight — soften to "spatial-discrimination processing is largely preserved"; (2) Relation to Site Perspective says dissociations "confirm" dualism's separability prediction — downgrade "confirm" to "are consistent with" / "are predicted by", since the data don't *select* dualism over subsystem-dissociation physicalism; (3) bistable-percepts paragraph straw-mans predictive processing as "passive Bayesian updating" — active inference is the opposite of passive; acknowledge the active-inference reply and relocate the genuine disagreement to *voluntary* top-down biasing. Optional: add one sentence stating what the interface model predicts that sophisticated indirect realism / PP does not (the Popperian discriminating-prediction gap). Preserve the honest phenomenal-overflow hedge already in the inattentional-blindness paragraph. See pessimistic-2026-06-05-perception.md. No citation defects found (all 5 refs verify); no length concern (1622w).
 
 ### ✓ 2026-06-05: Deep review concepts/jourdain-hypothesis.md (changed-since-review staleness, gap ~9d)
 - **Type**: deep-review

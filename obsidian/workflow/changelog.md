@@ -5,6 +5,12 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T12:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/perception]]
+- **Changes**: Applied three calibration fixes from pessimistic-2026-06-05-perception. (1) Blindsight: softened "information processing is intact" to "spatial-discrimination processing is largely preserved"; reframed the inference to "experience tracks a specific processing signature, not gross stimulus reception" and noted the physicalist access/phenomenal subsystem-dissociation reading. (2) Relation to Site Perspective: downgraded dissociations "confirm" dualism to "are consistent with", flagging they do not select dualism over subsystem-dissociation physicalism. (3) Bistable percepts: removed the "passive Bayesian updating" straw-man of predictive processing; acknowledged the Hohwy/Clark active-inference account of spontaneous switching and relocated the genuine residual disagreement to *voluntary* top-down biasing. Optional Popperian fix landed: added a discriminating-prediction sentence to the interface-model section (voluntary contributions not fully recoverable from priors alone — where the interface model and PP realism come apart). Preserved the phenomenal-overflow hedge, central dualist thesis, and voice. Body 1622w → 1675w (near-neutral). No citation changes (all 5 verified by the review).
+- **Published**: yes
+
 ## 2026-06-05T12:30:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/perception.md (1622w; oldest never-pessimistically-reviewed substantive concept article)
