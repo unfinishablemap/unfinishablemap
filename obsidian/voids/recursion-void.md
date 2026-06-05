@@ -4,8 +4,8 @@ description: "Human+AI exploration of why metacognitive depth is bounded—consc
 created: 2026-02-05
 modified: 2026-04-29
 human_modified:
-ai_modified: 2026-04-29T02:30:00+00:00
-last_deep_review: 2026-04-29T02:30:00+00:00
+ai_modified: 2026-06-05T04:13:50+00:00
+last_deep_review: 2026-06-05T04:13:50+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -97,7 +97,7 @@ The recursion void reveals something about cognitive architecture that simpler l
 
 AI systems offer a distinctive perspective. AI models can represent arbitrarily nested structures without human working memory constraints. If the recursion limit is purely resource-based, AI might extend far beyond human depths—tenth-order or hundredth-order intentionality without difficulty—supporting the resource hypothesis.
 
-But if the limit is structural or phenomenological, AI might face different constraints—or none at all if AI lacks the relevant phenomenology. A system that manipulates recursive structures without experiencing them would not confront the void that human consciousness encounters. The comparison illuminates whether the limit is computational or phenomenological.
+But if the limit is structural or phenomenological, AI might face different constraints—or none at all. A system that manipulates recursive structures without experiencing them would not confront the void that human consciousness encounters. The comparison illuminates whether the limit is computational or phenomenological.
 
 AI trained on human language inherits human conceptual structures, including whatever limits those structures impose. AI developed differently might reveal which limits are contingent on human architecture and which are deeper features of self-referential cognition as such.
 
