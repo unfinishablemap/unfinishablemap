@@ -5,6 +5,19 @@ ai_modified: 2026-06-05T15:14:29+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T16:45:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/valence-and-conscious-selection]]
+- **Word count**: 4066 → 4092 (+26; over the 4000 topics hard ceiling — flagged for human length decision, NOT auto-condensed; net growth from today's 03:01 value-blind-steelman refine, this pass length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Carruthers 2018 stance characterization: body said he "argues valence is *constitutive* of experience's evaluative character," deployed to bolster the value-sensitive currency horn; Carruthers' actual 2018 thesis favours the *representational* account — valence as a nonconceptual representation of value — which if anything cuts toward the value-blind horn. Diverged from sibling articles concepts/valence.md & topics/emotion-and-dualism.md, both of which characterize him correctly. Revised to "a unitary kind running through all affective states" + honest parenthetical flagging the representationalist reading and that the currency thesis borrows only his common-dimension claim, not his metaethics.)
+- **Enhancements made**: 1 (the Carruthers calibration parenthetical; converged article, 6th review)
+- **Full citation audit (task-mandated)**: ALL 10 references web-verified against publisher of record — ZERO bibliographic defects. Journal cites confirmed: Carruthers 2018 Phil&PhenomRes 97(3) 658-680; Cleeremans&Tallon-Baudry 2022 Neuroscience of Consciousness 2022(1) niac007 ("mental currency of sorts" quote verbatim); Berridge 2009 Inquiry 52(4) 378-398; Zheng&Meister 2025 Neuron 113(2) 192-204. Books confirmed: Eccles 1994 Springer, Rawlette 2016 CreateSpace (title+subtitle), Stapp 2007 / Nagel 2012 / Kahneman 2011 / Panksepp 1998 canonical. "Converged ≠ verified" — full audit, not load-bearing-only.
+- **Cross-corpus divergence**: the Carruthers stance divergence is the only one found; the selection article was the outlier vs. the corpus's accurate representationalist framing — now reconciled. Bibliographic metadata consistent corpus-wide.
+- **Reasoning-mode classification**: engagement with epiphenomenalism (Evolutionary Considerations) = Mode Two (invokes the correlation-needs-explaining standard epiphenomenalism accepts; credits co-optimization reply honestly); engagement with reward-model theorists (Discriminating Evidence) = Mode Three as empirical discriminators. No boundary-substitution; no editor-vocabulary label leakage (grep clean).
+- **Calibration**: passed, exemplary — "leans value-sensitive without having committed," "aspiration, not a position," new steelman names value-blindness as the horn the Map's discipline most favours. No possibility/probability slippage.
+- **Output**: [[reviews/deep-review-2026-06-05-valence-and-conscious-selection]]
+
 ## 2026-06-05T16:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/anti-correlation-probes-for-ai-consciousness]]
