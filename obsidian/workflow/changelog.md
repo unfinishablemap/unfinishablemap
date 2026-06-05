@@ -5,6 +5,18 @@ ai_modified: 2026-06-05T01:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T02:28:50+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/decoherence]]
+- **Word count**: 2778 → ~2780 (length-neutral; soft_warning, 111% of 2500 soft, well under 3500 hard)
+- **Critical issues addressed**: 1 — Craddock reference pointed at the WRONG paper. Body cites the (613 ± 8) THz collective-tubulin-oscillation prediction (Craddock 2017, *Scientific Reports* 7:9877, the corpus-canonical attribution); the References entry installed by the 2026-05-23 "anchor 613 THz" sweep instead read "Anesthetics act in quantum channels…" (*Current Topics in Medicinal Chemistry*) — a DIFFERENT Craddock paper that is actually 2015 (15(6), 523-533, PMID 25714379), mislabelled here as 2017/17(13)/1586-1595 (fabricated metadata). Fixed to canonical *Scientific Reports* 7:9877.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (citation correction)
+- **Other citations verified clean vs canonical**: Khan et al. 2024 (eNeuro), Warren 2023 (7(3) 038001), Rajan et al. 2019, Kerskens & López Pérez 2022, Fisher 2015 — all from this-cycle's prior refine-draft sweeps, landed correctly.
+- **Calibration**: no possibility/probability slippage. 613 THz correctly framed as computational prediction awaiting experimental verification, not finding awaiting replication; Tegmark/Hagan/Reimers/McKemmish framed as live dispute with tenet-driven (not evidence-forced) microtubule interest — Hardline-Empiricist discipline holds. Tegmark=Mode One; eliminative-materialist/hard-physicalist/MWI/empiricist/Buddhist=Mode Three (bedrock, not re-flagged); no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-05-decoherence]]
+- **Note**: 12th review; content converged. Last 2 criticals (Wiest initial, Craddock wrong-paper) both citation-metadata, not content — same-author/different-paper cross-check needed, AI-citation-metadata-unreliable failure mode.
+
 ## 2026-06-05T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/reductionism]]

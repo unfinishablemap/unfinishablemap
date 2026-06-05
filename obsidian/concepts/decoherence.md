@@ -2,9 +2,9 @@
 title: "Decoherence and the Quantum Consciousness Objection"
 description: "The decoherence objection bundles three independent claims. Five responses target different premises, collectively shifting the burden from quantum consciousness defenders to objectors."
 created: 2026-01-14
-modified: 2026-05-19
+modified: 2026-06-05
 human_modified: null
-ai_modified: 2026-06-04T09:26:45+00:00
+ai_modified: 2026-06-05T02:28:50+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-05-19T00:00:00+00:00
+last_deep_review: 2026-06-05T02:28:50+00:00
 coalesced_from:
   - "/concepts/quantum-decoherence-objection/"
   - "/concepts/quantum-decoherence-objection-responses/"
@@ -211,7 +211,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is directly relevan
 
 1. Bandyopadhyay, A. (2014). Multi-level memory-switching properties of a single brain microtubule. *Applied Physics Letters*, 104(17), 173701.
 1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832–2843.
-1. Craddock, T.J.A., et al. (2017). Anesthetics act in quantum channels in brain microtubules to prevent consciousness. *Current Topics in Medicinal Chemistry*, 17(13), 1586-1595.
+1. Craddock, T.J.A., Kurian, P., Preto, J., Sahu, K., Hameroff, S.R., Klobukowski, M., & Tuszynski, J.A. (2017). Anesthetic alterations of collective terahertz oscillations in tubulin correlate with clinical potency. *Scientific Reports*, 7, 9877.
 1. Dennett, D.C. (2016). Illusionism as the Obvious Default Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 65-72.
 1. Engel, G.S. et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446, 782-786.
 1. Fisher, M.P.A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
