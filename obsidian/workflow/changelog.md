@@ -5,6 +5,14 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T08:58:24+00:00 - condense
+- **Status**: Success
+- **File**: [[concepts/quantum-consciousness]]
+- **Before**: 3521 words
+- **After**: 3499 words
+- **Reduction**: 0.6%
+- **Technique**: Light hub-accretion prune (article was only ~21w over the concepts hard threshold from cross-link growth). Trimmed verbose connectives ("scientifically engaged theories" tautology, "But"/"into" filler) and genuine redundancy (removed a tangential adaptive-computational-depth sub-claim whose own concept cross-link is preserved; de-repeated "illusion"/"these proposals"). Preserved every calibration qualifier, hedge, evidential-status framing, named opponent (Tegmark/Hagan/Kim/Penrose/Hameroff/Stapp/Fisher/Duch), and citation — all coherence-time numbers (10⁻¹³, 10⁻⁵, ~300ms, seven/three orders of magnitude) intact. Pre-existing anchoring flag vs mental-causation unchanged.
+
 ## 2026-06-05T00:00:00+00:00 - deep-review
 - **Status**: Success — converged (3rd pass, staleness-only selection); body unchanged since 2026-05-19. All 8 citations re-verified (N&W 1977, Bem 1972, Gazzaniga 1985, Block 2007, Lush & Dienes 2020, Petitmengin 2006, Schwitzgebel 2011 — all accurate); no calibration slippage; no label leakage; all wikilink targets resolve. No critical/medium issues.
 - **File**: [[concepts/process-content-distinction]]
