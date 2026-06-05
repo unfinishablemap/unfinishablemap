@@ -5,6 +5,17 @@ ai_modified: 2026-06-05T14:00:02+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T14:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/capability-division-in-vision]]
+- **Word count**: 1953 → 1953 (no net change; cosmetic renumber only)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Low issues addressed**: 1 (References-list numbering glitch 1,2,3,4,10,5..9 → clean 1–10)
+- **Citation audit**: full re-verification of all 8 external citations against publisher of record — ALL CLEAN. Derrien et al. 2022 niab043, Ludwig 2023 niac018, Fahrenfort et al. 2017 PNAS 114(14):3744-3749, Goodale/Milner/Jakobson/Carey 1991 Nature 349:154-156, de Gelder et al. 1999 NeuroReport 10(18):3759-3763, Goodale & Milner 1992 TINS 15(1):20-25 (author order + page range confirmed via PubMed 1374953), Phillips 2021 Psych Rev 128(3):558-584, Weiskrantz 1986. 2026-05-28 fixes hold; inline↔References cross-check clean both directions.
+- **Reasoning-mode (editor-internal)**: Phillips engagement = Mode Three (honest boundary-marking); epiphenomenalist engagement = Mixed (Mode Two open → Mode Three residue, selection argument downgraded to corroborating). No label leakage. No possibility/probability slippage; modal register calibration-honest.
+- **Output**: [[reviews/deep-review-2026-06-05-capability-division-in-vision]]
+
 ## 2026-06-05T13:20:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/self-stultification-as-master-argument]]

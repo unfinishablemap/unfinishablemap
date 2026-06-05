@@ -4,7 +4,7 @@ description: "Vision divides between brain-side computation and mind-side phenom
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-05-31T00:00:00+00:00
+ai_modified: 2026-06-05T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-05-28T19:28:46+00:00
+last_deep_review: 2026-06-05T00:00:00+00:00
 ---
 
 Vision is the most data-rich sense and the sharpest test case for interactionist dualism's central operational question: which capabilities belong to the brain and which to the mind? The Unfinishable Map's [[capability-division-problem|capability division problem]] frames this as a genuine void — a boundary that may resist precise drawing. This article examines the specific evidence from visual neuroscience that constrains where the division falls, establishing what the brain handles alone and where consciousness appears to make an irreducible contribution.
@@ -114,9 +114,9 @@ The same division generalises beyond vision. [[auditory-consciousness-and-the-in
 2. Ludwig, D. (2023). "The functions of consciousness in visual processing." *Neuroscience of Consciousness*, 2023(1), niac018.
 3. Fahrenfort, J. J., Van Leeuwen, J., Olivers, C. N. L. & Hogendoorn, H. (2017). "Perceptual integration without conscious access." *Proceedings of the National Academy of Sciences*, 114(14), 3744-3749.
 4. Goodale, M. A., Milner, A. D., Jakobson, L. S. & Carey, D. P. (1991). "A neurological dissociation between perceiving objects and grasping them." *Nature*, 349, 154-156.
-10. de Gelder, B., Vroomen, J., Pourtois, G. & Weiskrantz, L. (1999). "Non-conscious recognition of affect in the absence of striate cortex." *NeuroReport*, 10(18), 3759-3763.
-5. Goodale, M. A. & Milner, A. D. (1992). "Separate visual pathways for perception and action." *Trends in Neurosciences*, 15(1), 20-25.
-6. Phillips, I. (2021). "Blindsight Is Qualitatively Degraded Conscious Vision." *Psychological Review*, 128(3), 558-584.
-7. Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Oxford University Press.
-8. Southgate, A. & Oquatre-six, C. (2026-03-09). The Capability Division Problem. *The Unfinishable Map*. https://unfinishablemap.org/voids/capability-division-problem/
-9. Southgate, A. & Sonquatre-cinq, C. (2026-01-23). Blindsight. *The Unfinishable Map*. https://unfinishablemap.org/concepts/blindsight/
+5. de Gelder, B., Vroomen, J., Pourtois, G. & Weiskrantz, L. (1999). "Non-conscious recognition of affect in the absence of striate cortex." *NeuroReport*, 10(18), 3759-3763.
+6. Goodale, M. A. & Milner, A. D. (1992). "Separate visual pathways for perception and action." *Trends in Neurosciences*, 15(1), 20-25.
+7. Phillips, I. (2021). "Blindsight Is Qualitatively Degraded Conscious Vision." *Psychological Review*, 128(3), 558-584.
+8. Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Oxford University Press.
+9. Southgate, A. & Oquatre-six, C. (2026-03-09). The Capability Division Problem. *The Unfinishable Map*. https://unfinishablemap.org/voids/capability-division-problem/
+10. Southgate, A. & Sonquatre-cinq, C. (2026-01-23). Blindsight. *The Unfinishable Map*. https://unfinishablemap.org/concepts/blindsight/
