@@ -5,6 +5,15 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T00:00:00+00:00 - condense
+- **Status**: Partial — light prune applied; remains over hard cap (human length-decision candidate)
+- **File**: [[voids/agency-void]]
+- **Before**: 3258 words (hard_warning, 258 over the voids 3000 hard cap)
+- **After**: 3171 words (still hard_warning, 171 over)
+- **Reduction**: 2.7% (87 words)
+- **Technique**: Length-neutral redundancy prune — tightened verbose connectives and restatements, condensed two over-long *research-stage / cap-deferred* Further Reading annotations (effort-void, participation-void). PRESERVED every citation (all 29 references intact), calibration hedge ("constrain without establishing," "conjectural," De Brigard "contested"), named-opponent engagement (Wegner, Kim, Velmans, Metzinger, Schurger, Naccache, Hagger, Kurzban), and tenet connections. Anchoring evaluate: 0 flags before and after. validate: ✓ Valid.
+- **Why not under cap**: The remaining body is uniformly dense — every paragraph carries a citation, named opponent, calibration qualifier, or load-bearing cross-link. There is no remaining ~170-word redundancy block removable without cutting calibrated substance. Per the condense brief's STOP instruction, flagging for a human length decision rather than forcing a destructive condense on a calibration-bearing voids article. Note: frontmatter `related_articles` is already large (29 entries); mirroring more inbound links there would not reduce the body-stripped word count.
+
 ## 2026-06-05T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/mine-ness]]
