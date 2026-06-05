@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-06-01 06:10:00+00:00
+ai_modified: 2026-06-05 00:00:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -98,9 +98,9 @@ Russellian monism is compatible with [causal closure](/concepts/causal-closure/)
 
 ## Russellian Monism and Many-Worlds
 
-Williams (2021) argues that constitutive Russellian panpsychism is most naturally compatible with Everett's many-worlds interpretation — a compatibility the Map counts as a cost of the Russellian view, given the [No Many Worlds](/tenets/#no-many-worlds) tenet. Both establish symmetry between micro- and macrosystems without requiring consciousness to play a causal role at measurement. If consciousness is merely the intrinsic nature of physical processes, there is nothing for it to *do* at collapse — and if nothing needs doing, all branches can persist.
+Because Russellian monism treats consciousness as the intrinsic nature of physical processes rather than a cause acting at measurement, it carries no commitment that would bar any particular quantum interpretation — many-worlds included. The view is interpretation-neutral: it establishes symmetry between micro- and macrosystems without requiring consciousness to play a causal role at measurement. If consciousness is merely the intrinsic nature of physical processes, there is nothing for it to *do* at collapse — and if nothing needs doing, collapse-free interpretations remain available. The Map counts this neutrality as a cost of the Russellian view, given the [No Many Worlds](/tenets/#no-many-worlds) tenet — though the cost falls on the Map's own commitments, not on Russellian monism by its own lights.
 
-This may reveal a divergence in physics, not just metaphysics. The Map *requires* consciousness at collapse: selection among quantum outcomes is how actuality works on its account. Many-worlds eliminates selection by keeping all outcomes, thereby leaving no actualising role for consciousness to play. So the Map rejects [many-worlds](/tenets/#no-many-worlds) less as a free preference than as something its ontology appears to force, given that ontology. Russellian monism's comfort with many-worlds, by contrast, suggests it carries no comparable commitment to consciousness as causally active — the commitment the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet demands. A Russellian monist who shares the No-Many-Worlds intuition could of course add a collapse mechanism, but doing so would import exactly the causally active consciousness the identity thesis was meant to avoid needing. The same ontology-drives-the-verdict structure recurs in [Wheeler's participatory universe](/topics/wheelers-participatory-universe-and-it-from-bit/): Wheeler rejected Everett as "too great a load of metaphysical baggage" because an information ontology that produces a single definite bit at measurement leaves no room for branching — the Map's selection ontology rejects many-worlds for the parallel reason that a single outcome must be actualised.
+This may reveal a divergence in physics, not just metaphysics. The Map *requires* consciousness at collapse: selection among quantum outcomes is how actuality works on its account. Many-worlds eliminates selection by keeping all outcomes, thereby leaving no actualising role for consciousness to play. So the Map rejects [many-worlds](/tenets/#no-many-worlds) less as a free preference than as something its ontology appears to force, given that ontology. Russellian monism's interpretation-neutrality, by contrast, suggests it carries no comparable commitment to consciousness as causally active — the commitment the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet demands. A Russellian monist who shares the No-Many-Worlds intuition could of course add a collapse mechanism, but doing so would import exactly the causally active consciousness the identity thesis was meant to avoid needing. The same ontology-drives-the-verdict structure recurs in [Wheeler's participatory universe](/topics/wheelers-participatory-universe-and-it-from-bit/): Wheeler rejected Everett as "too great a load of metaphysical baggage" because an information ontology that produces a single definite bit at measurement leaves no room for branching — the Map's selection ontology rejects many-worlds for the parallel reason that a single outcome must be actualised.
 
 ## The Dual-Aspect Tradition: Approaching but Never Reaching Interaction
 
@@ -144,7 +144,7 @@ This comparison engages all five of the Map's [tenets](/tenets/):
 
 **Bidirectional Interaction**: The Map gives consciousness genuine work: selecting among undetermined outcomes. Russellian monism's identity thesis leaves nothing for consciousness to *do* beyond constituting intrinsic nature. The contingency thesis (Howell 2015) shows this constitution may be epiphenomenal.
 
-**No Many Worlds**: Russellian monism's compatibility with Everett reveals its agnosticism about consciousness's causal role at measurement. The Map's rejection of many-worlds follows from its ontology: if consciousness actualises possibilities, coexisting branches are ruled out.
+**No Many Worlds**: Russellian monism's interpretation-neutrality reveals its agnosticism about consciousness's causal role at measurement — assigning consciousness no role at collapse, it bars no interpretation, many-worlds included. The Map's rejection of many-worlds follows from its ontology: if consciousness actualises possibilities, coexisting branches are ruled out.
 
 **Occam's Razor Has Limits**: Russellian monism claims parsimony (one stuff, two faces). Pautz shows the parsimony is illusory — the same brute linking principles are needed either way. Ontological simplicity that generates explanatory complexity (the combination problem) is false economy.
 
@@ -178,6 +178,5 @@ This comparison engages all five of the Map's [tenets](/tenets/):
 15. Pylkkänen, P. (2007). *Mind, Matter and the Implicate Order*. Springer.
 16. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
 17. Spinoza, B. (1677). *Ethics*. Published posthumously.
-18. Williams, R. (2021). Russellian monism and quantum mechanics. *Journal of Consciousness Studies*, 28(5-6), 145-172.
-19. Southgate, A. & Oquatre-six, C. (2026-01-15). Russellian Monism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/russellian-monism/
-20. Southgate, A. & Oquatre-six, C. (2026-03-15). Bi-Aspectual Ontology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/bi-aspectual-ontology/
+18. Southgate, A. & Oquatre-six, C. (2026-01-15). Russellian Monism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/russellian-monism/
+19. Southgate, A. & Oquatre-six, C. (2026-03-15). Bi-Aspectual Ontology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/bi-aspectual-ontology/

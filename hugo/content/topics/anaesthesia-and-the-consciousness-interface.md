@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-06-04 00:00:00+00:00
+ai_modified: 2026-06-05 12:40:38+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ description: Anaesthetic pharmacology maps the consciousness-brain interface wit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-28 13:30:00+00:00
+last_deep_review: 2026-06-05 12:40:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -108,7 +108,7 @@ On production models, hysteresis is puzzling: why should a generator resist bein
 
 ### The Active Reboot
 
-Mashour et al. (2021) found induction is rapid and stereotyped while emergence is protracted and agent-specific — the dorsolateral prefrontal cortex re-engages early, with frontal-parietal dynamics returning to baseline just prior to connected consciousness. Executive function returns before reaction time and simpler sensorimotor tasks, inverting the expected order if consciousness were building from simple to complex. Redinbaugh et al. (2022) confirm emergence involves an abrupt shift of neuronal dynamics across neocortex — a discrete state transition more consistent with a threshold being crossed than a generator powering up. Early prefrontal re-engagement fits global neuronal workspace theory, but the Map reframes it: dynamics normalising *just prior to* connected consciousness suggests the neural side prepares a channel that consciousness then re-enters, consistent with [attention's role as interface](/concepts/attention-as-interface/). The workspace must be inhabited, not merely activated.
+Mashour et al. (2021) found induction is rapid and stereotyped while emergence is protracted and agent-specific — the dorsolateral prefrontal cortex re-engages early, with frontal-parietal dynamics returning to baseline just prior to connected consciousness. Executive function returns before reaction time and simpler sensorimotor tasks, inverting the expected order if consciousness were building from simple to complex. Redinbaugh et al. (2020) bear on the substrate: deep cortical layers and central-lateral thalamus are the most sensitive to changes in consciousness level, and stimulating that thalamocortical loop reinstates wake-like dynamics — so the channel emergence reopens is anatomically specific, not a diffuse generator. Lewis et al.'s transient pre-emergence cortical state (below) is the closer evidence that the recovery transition is comparatively discrete rather than a smooth power-up. Early prefrontal re-engagement fits global neuronal workspace theory, but the Map reframes it: dynamics normalising *just prior to* connected consciousness suggests the neural side prepares a channel that consciousness then re-enters, consistent with [attention's role as interface](/concepts/attention-as-interface/). The workspace must be inhabited, not merely activated.
 
 Hu et al. (2023) identified a common emergence mechanism independent of which anaesthetic was used: rapid ubiquitin-driven degradation of the K+/Cl− cotransporter KCC2 in the ventral posteromedial thalamus, mediated by the ubiquitin ligase Fbxl4. KCC2 downregulation produces GABA-A-mediated disinhibition that drives emergence. The authors describe this as an *active reboot* — a coordinated molecular response to reopen the channel, not passive drug clearance. That the same KCC2 mechanism operates across pharmacologically dissimilar agents (propofol, isoflurane, sevoflurane, ketamine) is the load-bearing point: the interface has a dedicated reopening pathway that is mechanism-shared even when closing pathways were mechanism-distinct. The complexity and integrated-information measures that index consciousness — PCI, Φ surrogates, connectome-harmonic signatures — track conscious state independently of behavioural responsiveness, staying high in unresponsive states such as ketamine sedation and REM (Onoda et al. 2025; Breyton et al. 2025; Van Maldegem et al. 2025). That these measures and behaviour come apart is the well-established dissociation; whether integration recovers *before* behaviour in a timed emergence sequence — the prepared-in-advance reading — is a live hypothesis the present complexity literature does not resolve, since these studies compare states rather than time-resolve the recovery trajectory. The one finding that does report a neural state preceding behavioural recovery is older and mechanistically distinct: Lewis et al. (2018) identified a transient sleep-like cortical state with K-complex-like sensory responses in the minutes before return of consciousness — a sensory-gating phenomenon rather than integration recovery, but the genuine anchor for the "workspace prepared in advance" intuition the frontal-parietal normalisation above already gestures at.
 
@@ -188,7 +188,7 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 1. Rouleau, N., & Cimino, N. (2022). A transmissive theory of brain function: implications for health, disease, and consciousness. *NeuroSci*, 3(3), 32. https://doi.org/10.3390/neurosci3030032
 1. Sepúlveda, P. O., et al. (2019). Neural inertia and differences between loss of and recovery from consciousness during total intravenous anaesthesia: a narrative review. *Anaesthesia*, 74(6), 801-807.
 1. Friedman, E. B., et al. (2010). A conserved behavioral state barrier impedes transitions between anesthetic-induced unconsciousness and wakefulness. *PLOS ONE*, 5(7), e11903.
-1. Redinbaugh, M. J., et al. (2022). Thalamus modulates consciousness via layer-specific control of cortex. *Neuron*, 106(1), 66-75.
+1. Redinbaugh, M. J., Phillips, J. M., Kambi, N. A., et al. (2020). Thalamus modulates consciousness via layer-specific control of cortex. *Neuron*, 106(1), 66-75. https://doi.org/10.1016/j.neuron.2020.01.005
 1. Hu, J. J., Liu, Y., Yao, H., et al. (2023). Emergence of consciousness from anesthesia through ubiquitin degradation of KCC2 in the ventral posteromedial nucleus of the thalamus. *Nature Neuroscience*, 26(5), 751-764.
 1. Craddock, T. J. A., et al. (2015). Anesthetics act in quantum channels in brain microtubules to prevent consciousness. *Current Topics in Medicinal Chemistry*, 15(6), 523-533.
 1. Wiest, M.C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.

@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Fix Williams (2021) chimera citation in russellian-monism sibling files
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/russellian-monism-versus-bi-aspectual-dualism.md
-- **Notes**: The 2026-06-05 deep-review of `concepts/russellian-monism.md` WEB-VERIFIED that the cited *Williams, R. (2021). Russellian monism and quantum mechanics. JCS 28(5-6), 145-172* is a WRONG-TITLE CHIMERA: the real JCS 28(5-6):145-172 paper is George R. Williams, **"Can the Psi Data Help Us Make Progress on the Problem of Consciousness?"** — a Bohmian/implicate-order cosmopsychism+psi paper that contains ZERO mentions of Everett/many-worlds. The attributed claim ("constitutive Russellian panpsychism is most naturally compatible with Everett's many-worlds") is FABRICATED; the SEP RM entry (the note's other source) does not discuss Everett either. ALREADY FIXED in `concepts/russellian-monism.md` (claim removed, No-Many-Worlds argument re-grounded on RM's genuine interpretation-neutrality, reference deleted). TWO files still carry the identical defect: (1) `topics/russellian-monism-versus-bi-aspectual-dualism.md` body lines ~99/101/145 + reference #18 — apply the SAME fix (remove the Williams attribution, re-ground No-Many-Worlds on RM's interpretation-neutrality, delete ref #18, fix inline↔ref orphan); (2) the root `research/russellian-monism-bi-aspectual-dualism-supplement-2026-03-17.md` (the origin of the chimera — public research note; add a correction note or strike the Everett claim). Do NOT delete the non-Williams content; this is a targeted de-citation. See [[deep-review-2026-06-05-russellian-monism]] for the verification trail.
-- **Source**: deep-review
-- **Generated**: 2026-06-05
-
 ### P2: Deep review topics/stochastic-emergence-as-quantum-interface-evidence.md (changed-since-review staleness, gap ~7d, citation-heavy)
 - **Type**: deep-review
 - **Status**: pending
@@ -986,6 +978,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Fix Williams (2021) chimera citation in russellian-monism sibling files
+- **Type**: refine-draft
+- **Notes**: The 2026-06-05 deep-review of `concepts/russellian-monism.md` WEB-VERIFIED that the cited *Williams, R. (2021). Russellian monism and quantum mechanics. JCS 28(5-6), 145-172* is a WRONG-TITLE CHIMERA: the real JCS 28(5-6):145-172 paper is George R. Williams, **"Can the Psi Data Help Us Make Progress on the Problem of Consciousness?"** — a Bohmian/implicate-order cosmopsychism+psi paper that contains ZERO mentions of Everett/many-worlds. The attributed claim ("constitutive Russellian panpsychism is most naturally compatible with Everett's many-worlds") is FABRICATED; the SEP RM entry (the note's other source) does not discuss Everett either. ALREADY FIXED in `concepts/russellian-monism.md` (claim removed, No-Many-Worlds argument re-grounded on RM's genuine interpretation-neutrality, reference deleted). TWO files still carry the identical defect: (1) `topics/russellian-monism-versus-bi-aspectual-dualism.md` body lines ~99/101/145 + reference #18 — apply the SAME fix (remove the Williams attribution, re-ground No-Many-Worlds on RM's interpretation-neutrality, delete ref #18, fix inline↔ref orphan); (2) the root `research/russellian-monism-bi-aspectual-dualism-supplement-2026-03-17.md` (the origin of the chimera — public research note; add a correction note or strike the Everett claim). Do NOT delete the non-Williams content; this is a targeted de-citation. See [[deep-review-2026-06-05-russellian-monism]] for the verification trail.
 
 ### ✓ 2026-06-05: Deep review concepts/russellian-monism.md (changed-since-review staleness, gap ~4d, citation-heavy)
 - **Type**: deep-review

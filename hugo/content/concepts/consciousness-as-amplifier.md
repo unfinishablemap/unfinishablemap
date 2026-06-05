@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-06-03 07:08:33+00:00
+ai_modified: 2026-06-05 12:15:29+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -34,7 +34,7 @@ description: Consciousness amplifies intelligence by enabling flexible deploymen
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-23 13:42:12+00:00
+last_deep_review: 2026-06-05 12:15:29+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -101,7 +101,7 @@ William James argued in 1890 that consciousness must be causally efficacious to 
 
 If consciousness were [epiphenomenal](/concepts/epiphenomenalism/), then human-level intelligence should be achievable through neural complexity alone, and great apes should show no systematic gap in consciousness-dependent capacities. Neither prediction holds. Great apes are sophisticated within the baseline but limited precisely where consciousness appears required—logical reasoning, metarepresentation, cumulative culture, counterfactual thinking. The gap tracks consciousness-dependent capacities systematically.
 
-The epiphenomenalist response—that neural systems causing both consciousness and adaptive behaviour are selected together—becomes implausible once phenomenal consciousness is ontologically separate from its neural correlates. As Doerig et al. (2024) argue in *Neuroscience of Consciousness*: "Any endeavor to construct a physical theory of consciousness based on emergence within the framework of classical physics leads to causally impotent conscious experiences in direct contradiction to evolutionary theory."
+The epiphenomenalist response—that neural systems causing both consciousness and adaptive behaviour are selected together—becomes implausible once phenomenal consciousness is ontologically separate from its neural correlates. As Georgiev (2024) argues in *Life*: "Any endeavor to construct a physical theory of consciousness based on emergence within the framework of classical physics, however, leads to causally impotent conscious experiences in direct contradiction to evolutionary theory."
 
 ## The Illusionist Challenge
 
@@ -203,9 +203,9 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 1. De Neys, W., & Glumicic, T. (2008). Conflict monitoring in dual process theories of thinking. *Cognition*, 106(3), 1248-1299.
 1. Dehaene, S. (2014). *Consciousness and the Brain*. Viking Press.
-1. Doerig, A., Schurger, A., & Herzog, M.H. (2024). The function(s) of consciousness: an evolutionary perspective. *Neuroscience of Consciousness*, 2024(1), niae031.
 1. Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Georgiev, D.D. (2024). Evolution of consciousness. *Life*, 14(1), 48.
 1. Hagan, S., Hameroff, S.R. & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 1. Inoue, S. & Matsuzawa, T. (2007). Working memory of numerals in chimpanzees. *Current Biology*, 17(23), R1004-R1005.

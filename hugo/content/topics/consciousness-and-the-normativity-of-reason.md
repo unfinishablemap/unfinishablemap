@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-07
-ai_modified: 2026-06-04 12:47:18+00:00
+ai_modified: 2026-06-05 12:29:42+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Reasoning is normative — it involves rules about what one ought t
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-27 00:00:00+00:00
+last_deep_review: 2026-06-05 12:29:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -133,7 +133,8 @@ The normativity of reason is the test case for whether physicalism can account f
 4. Reppert, V. *C.S. Lewis's Dangerous Idea: In Defense of the Argument from Reason*. IVP Academic, 2003.
 5. Sellars, W. "Empiricism and the Philosophy of Mind." In *Minnesota Studies in the Philosophy of Science*, vol. 1, edited by H. Feigl and M. Scriven, 253–329. University of Minnesota Press, 1956.
 6. Menuge, A. "The Ontological Argument from Reason." PhilPapers.
-7. Crane, T. et al. "The Five Marks of the Mental." *Frontiers in Psychology* 8 (2017).
+7. Pernu, T.K. "The Five Marks of the Mental." *Frontiers in Psychology* 8 (2017): 1084.
 8. Plantinga, A. *Warrant and Proper Function*. Oxford University Press, 1993.
-9. Southgate, A. & Sonquatre-cinq, C. (2026-01-23). The Argument from Reason. *The Unfinishable Map*. https://unfinishablemap.org/topics/argument-from-reason/
-10. Southgate, A. & Oquatre-six, C. (2026-02-13). Consciousness and Normative Force. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-normative-force/
+9. Carrier, R. "The Argument from Reason." richardcarrier.info.
+10. Southgate, A. & Sonquatre-cinq, C. (2026-01-23). The Argument from Reason. *The Unfinishable Map*. https://unfinishablemap.org/topics/argument-from-reason/
+11. Southgate, A. & Oquatre-six, C. (2026-02-13). Consciousness and Normative Force. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-normative-force/

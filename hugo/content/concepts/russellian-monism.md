@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-06-04 09:26:45+00:00
+ai_modified: 2026-06-05 13:15:17+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -26,7 +26,7 @@ description: Russellian monism claims quiddities ground consciousness, but faces
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-31 08:49:44+00:00
+last_deep_review: 2026-06-05 13:15:17+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -42,7 +42,7 @@ topics:
 
 Russellian monism holds that physics describes only the relational structure of matter—what things do to each other—leaving their [intrinsic nature](/concepts/intrinsic-nature/) unexplained. These intrinsic properties, called *quiddities*, allegedly account for consciousness. The view attempts a middle path: avoiding [physicalism's](/concepts/materialism/) hard problem (by denying that structure alone determines experience) while avoiding [dualism's](/concepts/interactionist-dualism/) interaction problem (by integrating consciousness into physical causation). Yet the combination problem—how micro-level quiddities constitute unified conscious experience—remains unsolved. And the middle path itself is increasingly contested: Pautz (2017) and Cutter (2019) argue it is illusory, Kind (2015) argues it collapses into physicalism or dualism, and the programme has fragmented into incompatible variants—panpsychist, panprotopsychist, cosmopsychist (Goff 2017), physicalist (Brown 2025), and dual-aspect (Hashemi 2024)—that share only the structuralist premise.
 
-The Unfinishable Map shares Russellian monism's insight that physics is silent on intrinsic nature. But the Map's explicit [dualist](/tenets/#dualism) framework—particularly its [bi-aspectual ontology](/concepts/bi-aspectual-ontology/) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) mechanism—provides cleaner solutions than monism's attempt to dissolve the mind-body distinction. And Russellian monism is most naturally compatible with many-worlds (Williams 2021)—a compatibility the Map counts as a cost of the Russellian view, given the [No Many Worlds](/tenets/#no-many-worlds) tenet. On that anti-MWI commitment the divergence is real: the Map requires consciousness to do causal work at quantum measurement, which Russellian monism does not.
+The Unfinishable Map shares Russellian monism's insight that physics is silent on intrinsic nature. But the Map's explicit [dualist](/tenets/#dualism) framework—particularly its [bi-aspectual ontology](/concepts/bi-aspectual-ontology/) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) mechanism—provides cleaner solutions than monism's attempt to dissolve the mind-body distinction. Because Russellian monism does not require consciousness to do causal work at quantum measurement, it stays neutral across quantum interpretations—including many-worlds. The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet makes that neutrality a point of divergence: the Map requires consciousness to act at measurement, so on its own commitments it cannot remain agnostic where Russellian monism can.
 
 ## The Core Insight: Physics Is Structural
 
@@ -130,7 +130,7 @@ Despite these criticisms, Russellian monism captures important insights the Map 
 
 **Bidirectional Interaction**: the Map holds that consciousness causally influences the physical world. Russellian monism claims quiddities "play indispensable roles in physical causation," but this remains schematic. The Map's framework specifies *how*: selection among quantum superpositions.
 
-**No Many Worlds**: Russellian monism's neutrality on quantum interpretations reveals a deeper issue. Williams (2021) argues that constitutive Russellian panpsychism is *most naturally compatible* with Everett's many-worlds interpretation, since both establish symmetry between micro- and macrosystems without requiring consciousness to play a causal role at measurement. If Russellian monism is most naturally compatible with many-worlds, this marks a divergence the Map counts as a cost of the Russellian view—on the Map's own [No Many Worlds](/tenets/#no-many-worlds) commitment. The Map *requires* consciousness at collapse—selection among quantum outcomes—which on that commitment *requires* rejecting many-worlds. On the Map's anti-MWI premise, then, the frameworks part company on physics, not only consciousness. The Map's rejection of [Many Worlds](/tenets/#no-many-worlds) follows from its ontology: if consciousness actualises possibilities, multiple coexisting branches are ruled out.
+**No Many Worlds**: Russellian monism's neutrality on quantum interpretations reveals a deeper issue. Because the view treats consciousness as the intrinsic nature of physical processes rather than a cause acting at measurement, it carries no commitment that would bar any particular interpretation—many-worlds included. There is nothing consciousness must *do* at collapse, so collapse-free interpretations remain available. The Map's [No Many Worlds](/tenets/#no-many-worlds) commitment turns that very neutrality into a divergence: the Map *requires* consciousness at collapse—selection among quantum outcomes—which on its own commitments *requires* rejecting many-worlds. On the Map's premise, then, the frameworks part company on physics, not only consciousness. The Map's rejection of [Many Worlds](/tenets/#no-many-worlds) follows from its ontology: if consciousness actualises possibilities, multiple coexisting branches are ruled out.
 
 **Occam's Razor Has Limits**: Both agree apparent simplicity is unreliable. The Map applies this more consistently: if physicalism's simplicity is illusory, so may be monism's. The combination problem demonstrates that parsimony in ontology (one kind of stuff) can generate complexity in explanation (how quiddities constitute unified consciousness). The [tenet](/tenets/#occams-limits) warns against this trade-off.
 
@@ -162,7 +162,7 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 
 1. Brown, C.D. (2025). How Russellian physicalism helps solve the mind-body problem. *Philosophia*, 53(3), 995-1007.
 1. Chalmers, D.J. (2013). Panpsychism and panprotopsychism. *The Amherst Lecture in Philosophy*, 8, 1-35. Reprinted in T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World: Perspectives on Russellian Monism* (2015), Oxford University Press.
-1. Cutter, B. (2019). Against the middle ground: Why Russellian monism is unstable. *Analytic Philosophy*, 60(2), 109-130.
+1. Cutter, B. (2019). Against the middle ground: Why Russellian monism is unstable. *Analytic Philosophy*, 60(2), 109-129.
 1. Eddington, A. (1928). *The Nature of the Physical World*. Cambridge University Press.
 1. Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
 1. Hashemi, A. (2024). How to understand Russellian panpsychism. *Erkenntnis*.
@@ -174,6 +174,5 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 1. Pautz, A. (2019). A dilemma for Russellian monists about consciousness. *Philosophical Studies*, 176, 2921-2946.
 1. Robinson, W.S. (2018). Russellian monism and epiphenomenalism. *Pacific Philosophical Quarterly*, 99(S1), 100-117.
 1. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
-1. Warren, W.S. (2023). Comment on "Experimental indications of non-classical brain functions." *Journal of Physics Communications*, 7(3), 038001.
+1. Warren, W.S. (2023). Comment on: "Experimental indications of non-classical brain function." *Journal of Physics Communications*, 7(3), 038001.
 1. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
-1. Williams, R. (2021). Russellian monism and quantum mechanics. *Journal of Consciousness Studies*, 28(5-6), 145-172.

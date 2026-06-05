@@ -5,6 +5,16 @@ ai_modified: 2026-06-05T13:15:17+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/russellian-monism-versus-bi-aspectual-dualism]] + [[research/russellian-monism-bi-aspectual-dualism-supplement-2026-03-17]]
+- **Changes**: Propagation fix for the Williams (2021) wrong-title chimera caught by the 2026-06-05 deep-review of [[concepts/russellian-monism]] (see [[deep-review-2026-06-05-russellian-monism]]). The cited "Williams, R. (2021). Russellian monism and quantum mechanics. JCS 28(5-6):145-172" is actually George R. Williams, "Can the Psi Data Help Us Make Progress on the Problem of Consciousness?" — a Bohmian/implicate-order cosmopsychism+psi paper with ZERO Everett/many-worlds content. The attributed claim ("constitutive Russellian panpsychism most naturally compatible with Everett's many-worlds") is FABRICATED.
+  - **Topic file**: removed the Williams attribution + fabricated Everett claim from the "Russellian Monism and Many-Worlds" section (was body ~line 99); re-grounded the No-Many-Worlds point on RM's genuine *interpretation-neutrality* (consciousness has no causal role at measurement ⇒ it bars no interpretation, many-worlds included), calibrated as a cost on the Map's OWN commitments, not positive evidence. Followed the concept-article template. Also corrected two downstream phrasings ("comfort with many-worlds"→"interpretation-neutrality"; "compatibility with Everett" in the No-Many-Worlds tenet section). Deleted reference #18 (Williams) and renumbered #19→#18, #20→#19; verified no inline↔reference orphan/dangling (body uses author-year, not [#] markers). Voice/hedges/named-opponent framing preserved.
+  - **Research note (root)**: struck the fabricated Everett-compatibility claim at every occurrence (the "Russellian Monism and Everett's Interpretation" key-source block, the "Does RM Imply Many-Worlds?" key-debate, the timeline row, article-angle #2, the remaining-gaps note) and deleted the Williams citation from the Citations list; added a transparent inline correction note so the defect cannot silently re-propagate. The legitimate search-query log (records what was actually searched) left intact.
+- **Verification**: `grep` confirms no live Williams-2021-JCS content refs remain in either file (only the transparent correction-note text in the research note); `validate.py` + `sync.py` clean.
+- **ai_modified updated**: topic file → 2026-06-05; research note → 2026-06-05.
+- **Published**: yes (topic file already `draft: false`; research note is a public note)
+
 ## 2026-06-05T13:15:17+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/russellian-monism]]

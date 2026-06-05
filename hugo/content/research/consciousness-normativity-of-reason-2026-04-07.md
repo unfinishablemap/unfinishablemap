@@ -4,7 +4,7 @@ ai_generated_date: 2026-04-07
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-04-07
-date: '2026-04-07'
+date: '2026-06-05'
 draft: false
 related_articles: []
 title: Research Notes - Consciousness and the Normativity of Reason
@@ -80,7 +80,7 @@ The normativity of reason—the fact that beliefs and inferences can be *right* 
   - Consciousness is not reducible to the physical based on both neuroscience and philosophical analysis
 - **Tenet alignment**: Strongly aligns with Dualism—reasoning requires non-physical unity. Also supports No Many Worlds (the unity of the self matters)
 
-### The Five Marks of the Mental — Tim Crane / Frontiers in Psychology (2017)
+### The Five Marks of the Mental — Tuomas K. Pernu / Frontiers in Psychology (2017)
 - **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC5500963/
 - **Type**: Journal article
 - **Key points**:
@@ -229,7 +229,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 ## Citations
 
 - Carrier, Richard. "Critical Review of Victor Reppert's Defense of the Argument from Reason." Internet Infidels. https://infidels.org/library/modern/richard-carrier-reppert/
-- Crane, Tim et al. "The Five Marks of the Mental." *Frontiers in Psychology* 8 (2017). https://pmc.ncbi.nlm.nih.gov/articles/PMC5500963/
+- Pernu, Tuomas K. "The Five Marks of the Mental." *Frontiers in Psychology* 8 (2017): 1084. https://pmc.ncbi.nlm.nih.gov/articles/PMC5500963/
 - Hasker, William. *The Emergent Self.* Cornell University Press, 1999. https://philpapers.org/rec/HASTES
 - Lewis, C.S. *Miracles: A Preliminary Study.* Geoffrey Bles, 1947; 2nd ed. 1960.
 - Menuge, Angus. "The Ontological Argument from Reason." PhilPapers. https://philpapers.org/rec/MENTOA
