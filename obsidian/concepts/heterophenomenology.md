@@ -4,8 +4,8 @@ description: "Dennett's third-person method for studying consciousness. Its offi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-05-27T13:36:21+00:00
-last_deep_review: 2026-05-19T16:28:35+00:00
+ai_modified: 2026-06-05T10:52:21+00:00
+last_deep_review: 2026-06-05T10:52:21+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -172,5 +172,7 @@ Dennett, D. (1991). *Consciousness Explained*. Little, Brown and Company.
 Dennett, D. (2003). "Who's on First? Heterophenomenology Explained." *Journal of Consciousness Studies*, 10(9-10), 19-30.
 
 Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
+
+Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). "People confabulate with high confidence when their decisions are supported by weak internal variables." *Neuroscience of Consciousness*, 2021(1), niab004.
 
 Varela, F. (1996). "Neurophenomenology: A Methodological Remedy for the Hard Problem." *Journal of Consciousness Studies*, 3(4), 330-349.

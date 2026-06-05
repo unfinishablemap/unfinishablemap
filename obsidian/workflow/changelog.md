@@ -5,6 +5,15 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T10:52:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/heterophenomenology]]
+- **Word count**: 2836 → 2864 (+28)
+- **Critical issues addressed**: 1 (dangling Rebouillat et al. 2021 inline citation — added missing References entry; web-verified author/venue/year/stance against Neuroscience of Consciousness 2021(1) niab004, PMID 33747547)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (changed-since-review content already well-calibrated; no slippage, no label leakage; engagement with Dennett: Mixed Mode One / Mode Three; engagement with Frankish/Graziano: Mode Three)
+- **Output**: [[reviews/deep-review-2026-06-05-heterophenomenology]]
+
 ## 2026-06-05T10:15:00+00:00 - tune-system
 - **Status**: Success (no Tier-1 changes — too-soon re-fire)
 - **Sessions analyzed**: prior run <24h ago (2026-06-04T12:30); 6-cycle trigger fired inside the 30-day monthly cadence
