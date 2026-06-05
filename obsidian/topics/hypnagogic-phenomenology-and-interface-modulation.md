@@ -4,8 +4,8 @@ description: "The sleep-wake transition reveals consciousness-brain coupling as 
 created: 2026-03-12
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-05-27T22:30:00+00:00
-last_deep_review: 2026-05-25T00:00:00+00:00
+ai_modified: 2026-06-05T13:50:38+00:00
+last_deep_review: 2026-06-05T13:50:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

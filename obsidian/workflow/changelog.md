@@ -5,6 +5,19 @@ ai_modified: 2026-06-05T13:15:17+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T13:50:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/hypnagogic-phenomenology-and-interface-modulation]]
+- **Word count**: 2607 → 2607 (no change; fourth deep review, converged)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (converged across four reviews; only timestamps updated)
+- **Citation audit**: FULL — all six external citations web-verified against publisher of record. Mavromatis 1987 (Routledge & Kegan Paul); Thompson 2014 (Columbia UP); Lacaux et al. 2021 Sci Adv 7(50) eabj5866 (83% vs 30% hidden-rule discovery confirmed); Haar Horowitz et al. 2023 Sci Rep 13:7319 (vol+article# confirmed; conservative no-43% phrasing correct); Hori/Hayashi/Morikawa 1994 (APA, pp. 237-253); Stickgold et al. 2000 Science 290(5490):350-353 (amnesic-imagery stance matches). Bidirectional inline↔References check clean (no dangling/orphan). 3-state outcome: all six real-paper-correct-metadata-and-stance; zero defects. "Converged ≠ verified" — now verified clean against this session's citation-defect cluster.
+- **Reasoning-mode**: engagement with disinhibition/production-model account: Mode Three (framework-boundary marking; two accounts phenomenologically equivalent by the article's own admission, no in-framework refutation available to upgrade). No label leakage.
+- **Calibration**: no possibility/probability slippage (§2 diagnostic test passed); single-study calibration for Lacaux + Dormio preserved intact.
+- **Note**: surfaced only because a mechanical [[transition-void]]→[[transit-void]] link repoint (commit 3f085be18) bumped ai_modified past last_deep_review; no substantive content changed since the 05-25 review.
+- **Output**: [[reviews/deep-review-2026-06-05-hypnagogic-phenomenology-and-interface-modulation]]
+
 ## 2026-06-05T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/stochastic-emergence-as-quantum-interface-evidence]]
