@@ -4,7 +4,7 @@ description: "Attention serves as the interface where consciousness influences t
 created: 2026-01-14
 modified: 2026-03-29
 human_modified: null
-ai_modified: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-06-05T21:22:53+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -64,7 +64,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-06-02T18:01:34+00:00
+last_deep_review: 2026-06-05T21:22:53+00:00
 coalesced_from:
   - "/concepts/attention/"
   - "/concepts/voluntary-attention/"
