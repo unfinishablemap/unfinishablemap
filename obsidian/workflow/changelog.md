@@ -5,6 +5,19 @@ ai_modified: 2026-06-05T15:14:29+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T15:59:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-in-smeared-quantum-states]]
+- **Word count**: 2637 → 2669 (+32; under topics soft 3000 / hard 4000 — no length decision needed)
+- **Critical issues addressed**: 1 (calibration slippage in Penrose-Hameroff §: flat "has strengthened the empirical basis" + "disrupt quantum activities" overstated the 2025 anaesthetic-microtubule evidence and was internally inconsistent with two parallel passages already hedged "suggestive not decisive / vibrational modes not sustained coherence" — recalibrated to match)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (calibration parallelism fix)
+- **Koch→Neven regression check (task-mandated)**: HELD in this article — no fabricated "Quantum approaches…/Allen Institute" form; ref is canonical Neven et al. (2024) Entropy 26(6):460. Cross-corpus divergence found: apex/what-it-might-be-like-to-be-an-ai.md:188 still carries a degraded Neven cite (wrong title, "Preprint", truncated authors) the 2026-05-27 propagation missed → queued P3 repoint.
+- **Citation audit**: FULL live web-verify ("converged ≠ verified"). Re-verified exact against publishers of record: Neven 2024 (Entropy 26(6):460, DOI 10.3390/e26060460), Bong 2020 (Nature Physics 16:1199, title exact), Wiest 2025 (Neuro. of Consciousness 2025(1) niaf011, DOI 10.1093/nc/niaf011), Wiest & Puniani 2025 (CSBJ DOI 10.1016/j.csbj.2025.09.016), Beshkar 2025 (Comm. Integr. Biol. DOI 10.1080/19420889.2025.2576334, AIS-localisation matches), Stapp "interactive dualism similar to Descartes" quote genuine. Remaining cites carried verified-exact from 2026-05-27 (body unchanged). ZERO fabricated/chimera/wrong-author. No label leakage.
+- **Coalesce review-debt**: the change since last review was a coalesce (merged consciousness-in-non-collapsed-quantum-states, added Wigner's Friend §) that bumped last_deep_review WITHOUT reviewing merged prose; the line-78 slippage was the residue. Scrutinised the merged Wigner's Friend § (honestly conditional, no change) and re-audited calibration parallelism.
+- **Engagement modes (editor-internal)**: Dennett (definiteness premise) Mode Three boundary-marking; Tegmark decoherence Mixed. Honest.
+- **Output**: [[reviews/deep-review-2026-06-05-consciousness-in-smeared-quantum-states]]
+
 ## 2026-06-05T15:53:56+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/what-consciousness-tells-us-about-physics]]
