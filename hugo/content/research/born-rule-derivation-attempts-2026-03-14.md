@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-14
-ai_modified: 2026-03-19 19:12:00+00:00
+ai_modified: 2026-06-05 14:26:16+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -112,10 +112,10 @@ The Born rule — the postulate that measurement probabilities equal the squared
 - All five depend on the additivity assumption (probabilities of orthogonal outcomes sum to one), which cannot be derived from non-contextuality and normalization alone
 - **Quote**: "Additivity cannot be derived from two other commonly used non-probabilistic additional assumptions, non-contextuality and normalization"
 
-### Key Meta-Assessment: Araújo (2021) and Landsman (2025)
+### Key Meta-Assessment: Araújo (2021) and Neumaier (2025)
 
 - Araújo ([blog post](https://mateusaraujo.info/2021/03/12/why-i-am-unhappy-about-all-derivations-of-the-born-rule-including-mine/)): No existing derivation is satisfactory. A good derivation must use non-probabilistic postulates or postulates better motivated than the Born rule itself.
-- Landsman (2025, [arXiv](https://arxiv.org/abs/2502.08545)): "No generally accepted derivation of the Born rule has been given to date… all derivations found in the literature are either circular or unrelated to measurement."
+- Neumaier (2025, [arXiv](https://arxiv.org/abs/2502.08545)): the standard derivations are "usually circular" because they presuppose the notion of measurement — though Neumaier argues his own detector-response postulate avoids the circularity by defining measurement operationally first. NOTE: this paper is by Arnold Neumaier, NOT Klaas Landsman (an earlier draft misattributed it); the verbatim "circular or unrelated to measurement" formulation was not verifiable to a Landsman publication and has been removed.
 
 ## Key Debates
 
@@ -155,7 +155,7 @@ Follow `obsidian/project/writing-style.md` for named-anchor summaries, backgroun
 - Carroll, S. M. & Sebens, C. T. (2014). "Many Worlds, the Born Rule, and Self-Locating Uncertainty." arXiv:1405.7907.
 - Deutsch, D. (1999). "Quantum Theory of Probability and Decisions." Proceedings of the Royal Society A 455, 3129–3137.
 - Gleason, A. M. (1957). "Measures on the Closed Subspaces of a Hilbert Space." Journal of Mathematics and Mechanics 6, 885–893.
-- Landsman, K. (2025). "The Born Rule — 100 Years Ago and Today." arXiv:2502.08545.
+- Neumaier, A. (2025). "The Born Rule — 100 Years Ago and Today." Entropy 27(4): 415. arXiv:2502.08545.
 - Masanes, L., Galley, T. D. & Müller, M. P. (2019). "The measurement postulates of quantum mechanics are operationally redundant." Nature Physics 15, 1174–1177. arXiv:1811.11060.
 - Máttyus, E. (2023). "Environment-Assisted Invariance Does Not Necessitate Born's Rule for Quantum Measurement." Entropy 25(3), 435.
 - Saunders, S. (2004). "Derivation of the Born Rule from Operational Assumptions." Proceedings of the Royal Society A 460, 1771–1788.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-06-04 00:17:10+00:00
+ai_modified: 2026-06-05 14:26:16+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ description: 'The Born rule resists derivation across every quantum interpretati
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 16:20:00+00:00
+last_deep_review: 2026-06-05 14:26:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -103,7 +103,7 @@ Every precision test of the Born rule has run in regimes unlike brain tissue. Si
 
 ## A Century of Circular Derivations
 
-Born introduced the probability interpretation in 1926 as a pragmatic guess — what Araújo (2021) calls "wire and bubble gum." Landsman's 2025 centenary review concludes that "all derivations found in the literature are either circular or unrelated to measurement."
+Born introduced the probability interpretation in 1926 as a pragmatic guess — what Araújo (2021) calls "wire and bubble gum." Neumaier's 2025 centenary review judges the standard derivations "usually circular" because they presuppose the notion of measurement they set out to ground — though Neumaier dissents from the underivability reading, arguing his own detector-response postulate derives the rule once measurement is defined operationally first, a move the consciousness-free rivals can read as relocating the observer rather than eliminating it.
 
 Zhang (2026) — a preprint awaiting independent verification — argues for a structural bottleneck. Analysing Gleason's theorem, Busch's POVM extension, Deutsch-Wallace decision theory, Zurek's envariance, and Finkelstein-Hartle frequentism, Zhang's claim is that every one depends on additivity: the assumption that probabilities of orthogonal outcomes sum, itself a probabilistic postulate underivable from non-contextuality and normalisation alone. If the analysis holds, every derivation assumes probability to derive probability — a single-source structural claim the literature has not yet stress-tested.
 
@@ -292,7 +292,7 @@ The Map's working position is that the empirical question is genuinely open, pre
 
 20. Kerskens, C. M. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *J. Phys. Commun.*
 
-21. Landsman, K. (2025). "The Born Rule — 100 Years Ago and Today." arXiv:2502.08545.
+21. Neumaier, A. (2025). "The Born Rule — 100 Years Ago and Today." *Entropy* 27(4): 415. arXiv:2502.08545.
 
 22. Maier, M. A., Dechamps, M. C., & Pflitsch, M. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology* 9, 379. doi:10.3389/fpsyg.2018.00379.
 

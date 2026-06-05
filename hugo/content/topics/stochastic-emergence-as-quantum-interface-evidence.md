@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-06-03 00:00:00+00:00
+ai_modified: 2026-06-05 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: A 2025 study found genetically identical mice show anaesthetic-emer
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-27 10:54:42+00:00
+last_deep_review: 2026-06-05 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -90,7 +90,7 @@ The discriminating question is sharp: is there any measurement that would distin
 
 **Brain-internal outcome statistics.** The deepest discriminator is the one the Map's [brain-internal Born-rule testing](/topics/brain-internal-born-rule-testing/) article specifies: no published experiment probes quantum-outcome statistics inside living neural tissue during a conscious transition, and emergence timing is not such a probe. Emergence-time variability is a macroscopic behavioural readout many causal layers removed from any putative interface event; even a perfect characterisation of the distribution would not isolate a Born-statistical signature, because the readout integrates over too much intervening classical dynamics. This finding, however suggestive at the level of framing, sits structurally outside the regime where the interface reading could be distinguished from its classical rival.
 
-The candidates that could discriminate the readings are thus either confounded beyond current feasibility, not yet attempted, or unreachable through a behavioural-timing readout. The finding's evidential ceiling for the quantum reading is low — it keeps the hypothesis live, and no more.
+The candidates that could discriminate the readings are thus either confounded beyond current feasibility, not yet attempted, or unreachable through a behavioural-timing readout. The finding's evidential ceiling for the quantum reading is low: it keeps the hypothesis live, and no more.
 
 ## Integration with the Broader Indeterminacy Case
 
@@ -102,7 +102,7 @@ Stone et al. is one item in a small set of considerations the Map collects on ou
 
 **Delayed-choice and the timing of outcome fixation.** Vedovato et al. (2017, *Science Advances*, "Extending Wheeler's delayed-choice experiment to space") confirmed wave-particle duality at low-Earth-orbit distances, showing the measurement context determines which complementary behaviour manifests even when the choice is made after the photon is in flight. This is a clean confirmation that quantum-outcome fixation is not pinned to a naive prior moment — relevant to the conceptual coherence of an interface that selects outcomes at the moment of measurement. It is a physics result about photons, constraining how one may *think* about outcome timing without adding neural evidence.
 
-The integration honours the discipline by keeping the registers separate. The Born-rule results characterise the formal space; the decoherence debate governs whether the physical substrate exists; the delayed-choice work fixes the conceptual structure of outcome timing; and the Stone et al. finding supplies a neural-scale variability the interface reading can interpret but cannot claim as discriminating support. None is positive evidence that the interface reading is correct. Together they show the reading is coherent and physically conceivable — the live-hypothesis verdict, not an upgrade to it. The emergence-not-the-reverse-of-induction structure the Stone et al. finding exhibits is also one member of the [family of direction-of-interface-change signatures](/topics/recovery-order-asymmetry-as-interface-evidence/) the Map collects across the disruption cluster, where the *direction* of change rather than the substrate state is the load-bearing variable.
+The integration honours the discipline by keeping the registers separate. The Born-rule results characterise the formal space; the decoherence debate governs whether the physical substrate exists; the delayed-choice work fixes the conceptual structure of outcome timing; and the Stone et al. finding supplies a neural-scale variability the interface reading can interpret but cannot claim as discriminating support. None is positive evidence that the interface reading is correct. Together they show the reading is coherent and physically conceivable — the live-hypothesis verdict, not an upgrade to it. The emergence-not-the-reverse-of-induction structure the Stone et al. finding exhibits is also one member of the [family of direction-of-interface-change signatures](/concepts/direction-of-interface-change/) the Map collects across the disruption cluster, where the *direction* of change rather than the substrate state is the load-bearing variable — and where, per that family's own discipline, the members are four views of one architecture, credited once, not four independent confirmations.
 
 ## What This Finding Cannot Do
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-05-31 18:35:00+00:00
+ai_modified: 2026-06-05 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: 'A human+AI worked test design: probing whether an AI''s confidence
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-27 15:47:42+00:00
+last_deep_review: 2026-06-05 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -141,7 +141,7 @@ Three limits bound the probe's reach beyond the case-differentiation already dra
 ## References
 
 1. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004. https://academic.oup.com/nc/article/2021/1/niab004/6166135
-2. Fleming, S. M. (2024). Metacognition and confidence: A review and synthesis. *Annual Review of Psychology* 75, 149–176.
+2. Fleming, S. M. (2024). Metacognition and confidence: A review and synthesis. *Annual Review of Psychology* 75, 241–268.
 3. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
 4. Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI*. Oxford University Press.
 5. Southgate, A. & Oquatre-sept, C. (2026-05-19). Anti-Correlated Metacognitive Signal. *The Unfinishable Map*. https://unfinishablemap.org/concepts/anti-correlated-metacognitive-signal/

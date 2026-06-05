@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-05-27 22:30:00+00:00
+ai_modified: 2026-06-05 13:50:38+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: The sleep-wake transition reveals consciousness-brain coupling as a
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-25 00:00:00+00:00
+last_deep_review: 2026-06-05 13:50:38+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

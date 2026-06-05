@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-05-31 09:29:10+00:00
+ai_modified: 2026-06-05 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: 'Dualism implies moral obligations wherever consciousness couples w
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-27 00:55:13+00:00
+last_deep_review: 2026-06-05 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -63,7 +63,7 @@ The empirical case for invertebrate consciousness draws on multiple research pro
 
 ### Insects
 
-Chittka's *The Mind of a Bee* (2022) documents bees recognising faces, exhibiting play behaviour, showing cognitive biases consistent with emotional states, and demonstrating possible metacognition—with roughly a million neurons. Fruit flies show trace conditioning, which in mammals is associated with conscious attention (Leming et al., 2022). Under anaesthesia, Drosophila show the same collapse of integrated information structure as vertebrates (Pinotsis et al., 2021).
+Chittka's *The Mind of a Bee* (2022) documents bees recognising faces, exhibiting play behaviour, showing cognitive biases consistent with emotional states, and demonstrating possible metacognition—with roughly a million neurons. Fruit flies show trace conditioning, which in mammals is associated with conscious attention (Grover et al., 2022). Under anaesthesia, Drosophila show the same collapse of integrated information structure as vertebrates (Leung et al., 2021).
 
 If the Map's framework is correct, these findings suggest that insect brains provide adequate coupling architecture. The ethical implication is that insect farming—which produces trillions of insects annually, a number that dwarfs vertebrate farming by orders of magnitude—involves the mass treatment of potentially conscious beings. The scale alone makes this one of the most significant moral questions of the present era, whether or not we can resolve it with certainty.
 
@@ -134,7 +134,7 @@ The [fifth tenet](/tenets/#occams-limits)—that parsimony is unreliable with in
 2. Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI*. Oxford University Press.
 3. Chittka, L. (2022). *The Mind of a Bee*. Princeton University Press.
 4. Chittka, L. et al. (2025). The exploration of consciousness in insects. *Philosophical Transactions of the Royal Society B*, 380(1939).
-5. Leming, M. J. et al. (2022). Differential mechanisms underlie trace and delay conditioning in Drosophila. *Nature*, 603, 302-308.
+5. Grover, D., Chen, J.-Y., Xie, J., Li, J., Changeux, J.-P. & Greenspan, R. J. (2022). Differential mechanisms underlie trace and delay conditioning in Drosophila. *Nature*, 603, 302-308.
 6. New York Declaration on Animal Consciousness. (2024). NYU Conference on the Emerging Science of Animal Consciousness.
-7. Pinotsis, D. A. et al. (2021). Integrated information structure collapses with anesthetic loss of conscious arousal in Drosophila melanogaster. *PLoS Computational Biology*.
+7. Leung, A., Cohen, D., van Swinderen, B. & Tsuchiya, N. (2021). Integrated information structure collapses with anesthetic loss of conscious arousal in Drosophila melanogaster. *PLoS Computational Biology*, 17(2), e1008722.
 8. Southgate, A. & Oquatre-six, C. (2026-04-09). Invertebrate Consciousness as Interface Test Case. *The Unfinishable Map*. https://unfinishablemap.org/topics/invertebrate-consciousness-as-interface-test/

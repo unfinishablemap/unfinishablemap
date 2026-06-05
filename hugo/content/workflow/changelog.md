@@ -1,13 +1,253 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-05 13:15:17+00:00
+ai_modified: 2026-06-05 15:14:29+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-05'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-05T16:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [anti-correlation-probes-for-ai-consciousness](/topics/anti-correlation-probes-for-ai-consciousness/)
+- **Word count**: 2748 → 2748 (no content change; under topics soft 3000 / hard 4000)
+- **Critical issues addressed**: 1 (Fleming 2024 ref 2 wrong page range 149–176 → web-verified 241–268 per Annual Reviews / PubMed 37722748 / DOI 10.1146/annurev-psych-022423-032425; calibration defect, wrong key-numbers against publisher of record)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article at convergence; 2nd review)
+- **Full citation audit (task-mandated)**: VERIFIED against publisher of record — Rebouillat/Leonetti/Kouider 2021 niab004 Neuroscience of Consciousness 2021(1) (canonical author "Leonetti" unaccented; no Coutinho/Sci-Rep fabrication); Schwitzgebel 2011 Perplexities MIT Press; Birch 2024 Edge of Sentience OUP (title+subtitle exact); Fleming page range was the sole defect. Refs 5–6 internal Map self-refs.
+- **Cross-corpus divergence**: the wrong Fleming 149–176 also sits in the parent concept concepts/anti-correlated-metacognitive-signal.md:128 → queued P3 fix. introspection.md / metacognition.md / metacognition research note already correct (241–268). Accent divergence "Léonetti" in discrimination-problem.md & confabulation-void.md noted (less-canonical, not queued).
+- **Reasoning-mode classification**: N/A (methodological design piece, no named-opponent reply); no label leakage (grep clean).
+- **Output**: [deep-review-2026-06-05-anti-correlation-probes-for-ai-consciousness](/reviews/deep-review-2026-06-05-anti-correlation-probes-for-ai-consciousness/)
+
+## 2026-06-05T15:59:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/)
+- **Word count**: 2637 → 2669 (+32; under topics soft 3000 / hard 4000 — no length decision needed)
+- **Critical issues addressed**: 1 (calibration slippage in Penrose-Hameroff §: flat "has strengthened the empirical basis" + "disrupt quantum activities" overstated the 2025 anaesthetic-microtubule evidence and was internally inconsistent with two parallel passages already hedged "suggestive not decisive / vibrational modes not sustained coherence" — recalibrated to match)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (calibration parallelism fix)
+- **Koch→Neven regression check (task-mandated)**: HELD in this article — no fabricated "Quantum approaches…/Allen Institute" form; ref is canonical Neven et al. (2024) Entropy 26(6):460. Cross-corpus divergence found: apex/what-it-might-be-like-to-be-an-ai.md:188 still carries a degraded Neven cite (wrong title, "Preprint", truncated authors) the 2026-05-27 propagation missed → queued P3 repoint.
+- **Citation audit**: FULL live web-verify ("converged ≠ verified"). Re-verified exact against publishers of record: Neven 2024 (Entropy 26(6):460, DOI 10.3390/e26060460), Bong 2020 (Nature Physics 16:1199, title exact), Wiest 2025 (Neuro. of Consciousness 2025(1) niaf011, DOI 10.1093/nc/niaf011), Wiest & Puniani 2025 (CSBJ DOI 10.1016/j.csbj.2025.09.016), Beshkar 2025 (Comm. Integr. Biol. DOI 10.1080/19420889.2025.2576334, AIS-localisation matches), Stapp "interactive dualism similar to Descartes" quote genuine. Remaining cites carried verified-exact from 2026-05-27 (body unchanged). ZERO fabricated/chimera/wrong-author. No label leakage.
+- **Coalesce review-debt**: the change since last review was a coalesce (merged consciousness-in-non-collapsed-quantum-states, added Wigner's Friend §) that bumped last_deep_review WITHOUT reviewing merged prose; the line-78 slippage was the residue. Scrutinised the merged Wigner's Friend § (honestly conditional, no change) and re-audited calibration parallelism.
+- **Engagement modes (editor-internal)**: Dennett (definiteness premise) Mode Three boundary-marking; Tegmark decoherence Mixed. Honest.
+- **Output**: [deep-review-2026-06-05-consciousness-in-smeared-quantum-states](/reviews/deep-review-2026-06-05-consciousness-in-smeared-quantum-states/)
+
+## 2026-06-05T15:53:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/)
+- **Word count**: 4692 → 4692 (length-neutral; soft_warning at 117% of apex soft 4000, under hard 5000 — load-bearing Triple Screen content NOT cut)
+- **Critical issues addressed**: 0 (convergence result — exhaustive citation audit + calibration found zero defects)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (4th deep review; converged. Only frontmatter timestamps updated)
+- **Regression check**: 3 previously-fixed citation defects (Saad 2025, Buhler 2020, Denton 2024) ALL HELD — no regression through the 2026-06-01 apex-evolve growth.
+- **Citation audit**: FULL live web-verification per task directive ("converged ≠ verified", apex prone to defect accretion). Newly verified clean this pass: Tomaz/Mattos/Barbatti (arXiv:2502.19278, exact), Torres Alegre (arXiv:2512.12636, exact, author Enso O. Torres Alegre PUC Chile, correctly labelled preprint), Duch 2019 (Phys Life Rev 31:28-31 DOI plrev.2019.01.023) + Duch 1996 (Comput Phys Commun, title/venue correct). Pre-2020 canonical re-confirmed from 2026-05-29. ZERO new defects.
+- **Calibration**: all consciousness→physics inferences pass the tenet-accepting-reviewer test (no possibility/probability slippage); cryptochrome/Denton passage stays calibrated (microsecond not neural-timescale, "does not vindicate Stapp"); Triple Screen is admission-not-defence with [evidential-status-discipline](/project/evidential-status-discipline/). Duch engagement Mode Three (framework-boundary, honest); no label leakage.
+- **Length**: flagged for human editorial decision (accumulated apex-evolve growth; triple-screen is load-bearing, NOT auto-condensable).
+- **Output**: [deep-review-2026-06-05-what-consciousness-tells-us-about-physics](/reviews/deep-review-2026-06-05-what-consciousness-tells-us-about-physics/)
+
+## 2026-06-05T15:40:59+00:00 - deep-review
+- **Status**: Success
+- **File**: [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/)
+- **Word count**: 3487 → 3487 (length-neutral; soft_warning, under topics hard 4000 — calibration content from 2026-06-02 refines preserved)
+- **Critical issues addressed**: 1 (citation dropped co-author: Vissia et al. 2022 BJPsych Open 8(3) e82 — inserted André Aleman between Nijenhuis and Veltman; verified against PubMed/publisher author order)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged since 2026-05-25; the 2026-06-02 calibration refines only strengthened evidential discipline)
+- **Citation audit**: FULL live web-verification per task directive ("converged ≠ verified"; prior reviews did intra-corpus only). All 9 journal cites checked against publisher of record — 8 correct (Sass&Parnas 2003 29(3)427-444; Fuchs 2005 PPP 12(2)95-107; Parnas&Henriksen 2014 HRP 22(5)251-265; Maung 2019 MHCP 22(1)59-69; Parnas et al 2011 World Psychiatry 10(3)200-204 full 6-author; Nelson/Thompson/Yung 2012 SchizBull 38(6)1277-1287; Reinders et al 2014 PsychiatryResNeuroimaging 223(3)236-243; Raballo et al 2025 SchizBull 51(5)1187-1192), 1 dropped-co-author FIXED. Cross-corpus grep "Vissia" → no other live file affected. Book classics not re-litigated. No possibility/probability slippage (article says evidence "does not adjudicate"); functionalism engagement Mode Two→Three, no label leakage.
+- **Output**: [deep-review-2026-06-05-clinical-phenomenology-and-altered-experience](/reviews/deep-review-2026-06-05-clinical-phenomenology-and-altered-experience/)
+
+## 2026-06-05T15:35:07+00:00 - deep-review
+- **Status**: Success
+- **File**: [introspection-architecture-void-cluster](/apex/introspection-architecture-void-cluster/)
+- **Word count**: 3884 → 3884 (no net change; under apex soft 4000 / hard 5000; length-neutral, citation hygiene only)
+- **Critical issues addressed**: 3 (citation-integrity defects: Billon 2024 wrong issue 55(2)→55(1) 3–30; Segal & Fusella 1970 dangling inline cite with no References entry → entry added; Dijkstra & Fleming 2024 dropped co-author Mazor → corrected to Dijkstra, Mazor & Fleming, 24(5):13)
+- **Medium issues addressed**: 2 (removed 2 orphan References never cited inline — Aru/Suzuki/Larkum 2020 and Bortolotti 2018; renumbered list. Cosmetic: Rebouillat "Leonetti"→"Léonetti")
+- **Enhancements made**: 0 (article argument at stability since 2026-05-18 pass)
+- **Citation audit**: EXHAUSTIVE per task directive. Web-verified Billon (Wiley DOI 10.1111/meta.12666 / HAL), Dijkstra-Mazor-Fleming (ARVO JOV / PMC11146086), Schnider 2003 (nrn1179, exact), Segal & Fusella 1970, Aru-Suzuki-Larkum 2020 (TiCS 24(10):814-825). Rebouillat 2021 confirmed niab004 (Coutinho/Sci-Rep fabricated form fully purged: 0 grep matches). Inline↔References cross-checked both directions. Calibration discipline (compatibility-not-evidence, architecture-vs-significance two-tier discount) intact — no possibility/probability slippage. No label leakage; Dennett=Mixed Mode One+Three, predictive-processing=Mode Three.
+- **Cross-corpus divergence noted**: apex/machine-question.md ref 254 has Rebouillat "niab003" typo (should be niab004) → P2 follow-up queued.
+- **Output**: [deep-review-2026-06-05-introspection-architecture-void-cluster](/reviews/deep-review-2026-06-05-introspection-architecture-void-cluster/)
+
+## 2026-06-05T15:29:54+00:00 - deep-review
+- **Status**: Success
+- **File**: [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/)
+- **Word count**: 2425 → 2425 (no change; under soft 3000)
+- **Critical issues addressed**: 1 (citation attribution error — see below)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation audit**: Web-verified ALL 10 References against the publisher of record (not just load-bearing cites). 9/10 correct: GRW 1986 (Phys Rev D 34, 470-491), Pearle 1989 (Phys Rev A 39, 2277-2289), GPR 1990 (Phys Rev A 42, 78), Penrose 1994 (Shadows of the Mind, OUP), Hameroff-Penrose 2014 (Phys Life Rev 11(1), 39-78), Chalmers-McQueen 2022 (Gao ed., Consciousness and Quantum Mechanics, OUP), Allori-Goldstein-Tumulka-Zanghì 2008 (BJPS 59(3), 353-389), Carlesso et al. 2022 (Nature Physics 18, 243-250), Carlesso & Donadi 2025 (arXiv:2508.18822, real, correct authors/ID). Physics claims spot-verified (Diósi-Penrose simplest model ruled out by Donadi et al. 2021 Gran Sasso germanium detectors; GRW "survived by a whisker" — accurate).
+- **Critical fix**: Barbatti (2024) reference was in the defective blog-title/sole-author form ("Barbatti, M. (2024). Gravity-induced wave-function collapse. *Physical Chemistry Chemical Physics*."), the exact wrong-author + preprint-vs-published-title variant. Corrected to the publisher-of-record canonical form already used by the companion [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) and the upstream research note: "Tomaz, A. A., Mattos, R. S., & Barbatti, M. (2024). Gravitationally-induced wave function collapse time for molecules. *Physical Chemistry Chemical Physics*, 26, 20785-20798." (DOI D4CP02364A, RSC-verified). Barbatti is senior/last author, not sole author. Same defect was caught+fixed corpus-wide in the 2026-W22 sweep but this article's instance was added (in the defective form) by the 2026-05-26 review and missed — confirming "converged ≠ verified."
+- **Calibration**: Modal register honest — interactionist payoff framed conditionally in the lede; Chalmers-McQueen Φ-collapse coupling marked "postulated, not derived"; ad hoc objection raised and answered without asserting truth. No possibility/probability slippage. No bedrock disagreements re-flagged.
+- **Output**: [deep-review-2026-06-05-philosophical-stakes-of-spontaneous-collapse](/reviews/deep-review-2026-06-05-philosophical-stakes-of-spontaneous-collapse/)
+
+## 2026-06-05T15:14:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [memory-dual-domain-capability-2026-03-09](/research/memory-dual-domain-capability-2026-03-09/)
+- **Scope**: Source-attribution-only fix to the "Memory Reconsolidation" Key Source block (propagation root of the fabricated "Kube et al. 2025, *Frontiers in Cognition* 4, 1518743" citation that reached two now-fixed live articles). Analytical key-points and tenet-alignment prose left untouched.
+- **Changes**:
+  - Replaced the fabricated/misattributed Frontiers `fcogn.2025.1518743` URL (real = Hass-Cohen & Clay 2025 arts-therapies, no author "Kube") with the web-verified true home of the verbatim "goal-directed activity guided by the need for consonance, alignment, and internal stability" quote: "The brain edits the past: Neural systems of memory reconstruction and self-stability," *New Ideas in Psychology* 80 (2025), article 101221, pii S0732118X25000777.
+  - Web-verified the second URL (`pii S0149763425001988`, Neuroscience & Biobehavioral Reviews): could not confirm it supports these reconsolidation key-points (403 on direct fetch; never surfaced in title/quote searches), so dropped it rather than keep an unverifiable supporting cite.
+  - Added an inline source-attribution correction note recording the corrected-away "Kube 2025 / fcogn.2025.1518743" form so it cannot re-seed from this note.
+  - Author name "Lepsius" (flagged in MEMORY as a wrong-author = sociologist d. 2014) was NOT web-confirmable as the real author, so the corrected cite uses the verifiable title + journal + article-number rather than re-asserting a questionable author name.
+- **Verification**: No live "1518743" or "Kube" citation remains; both strings appear only inside the correction note as the corrected-away form.
+- **Published**: yes
+
+## 2026-06-05T15:09:15+00:00 - deep-review
+- **Status**: Success
+- **File**: [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
+- **Word count**: 3998 → 3999 (length-neutral; soft_warning, 1w under 4000 hard cap)
+- **Citation audit**: Full live-literature web-verification of all post-2020 / changed-since-review cites. Fine & Hayden 2022 PTRSB 377(1844):20200524 verified (the 06-04 swap from Wise & Murray FIXED a prior wrong-author defect); Cai et al. 2024 Nature 635:406-414 verified; Zheng & Meister 2025 Neuron 113(2):192-204 verified; Nartker/Firestone/Egeth/Phillips 2025 eLife 13:RP100337 verified; Sjöberg 2024 Brain 147(7):2267-2269 verified; Kim & Chong 2024 Conscious. Cogn. verified real (missing vol/pages, minor); Kral et al. 2022 Sci Adv 8(20):eabk3316 verified.
+- **Critical issue addressed**: 1 — **Melloni/COGITATE reference carried the 2023 bioRxiv PREPRINT title ("An adversarial collaboration to critically evaluate theories of consciousness") while citing the published Nature 642(8066):133-142 locator.** Real-paper-wrong-metadata. Rewrote ref 15 to the published title "Adversarial testing of global neuronal workspace and integrated information theories of consciousness." Body claim (neither GWT/IIT vindicated; conscious content posterior) verified accurate; body's descriptive "adversarial collaboration" phrasing left as-is.
+- **Reasoning-mode (editor-internal)**: AST/Graziano — Mixed (unsupported-foundational-move + framework-boundary marking); MWI defender — boundary marking; illusionist/eliminativist — bedrock. No label leakage.
+- **Calibration**: all hedges/evidential-status qualifiers preserved; new mutation-void cross-link sentence is correctly framed as an alternative reading, not an upgraded claim. No possibility/probability slippage.
+- **Medium issues addressed**: 0
+- **Output**: [deep-review-2026-06-05-attention-and-the-consciousness-interface](/reviews/deep-review-2026-06-05-attention-and-the-consciousness-interface/)
+- **Note**: 4th deep review; converged. The 06-04 staleness-triggering edits were themselves citation corrections, all verified correct. Sole change is the mandated audit catching the preprint-title metadata defect.
+
+## 2026-06-05T17:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [episodic-memory](/concepts/episodic-memory/)
+- **Word count**: 2661 → 2661 (length-neutral; under 3500 hard cap)
+- **Citation audit**: Full live-literature web-verification of ALL 22 references. **1 defect found and fixed.** Schacter & Addis 2007 PTRSB 362(1481):773-786 verified (correctly the theoretical paper, not the empirical Addis/Wong/Schacter — trap a checked); Kerskens & López Pérez 2022 JPhCommun 6(10):105001 verified; Wiest 2025 niaf011 verified; Rosenbaum 2005 Neuropsychologia 43(7):989-1021 verified; Josselyn & Tonegawa 2020 Science 367(6473):eaaw4325 verified. No Einstein/McDaniel cite (trap b n/a).
+- **Critical issue addressed**: 1 — **fabricated/misattributed "Kube et al. (2025), Frontiers in Cognition 4:1518743"** (the DOI/article-id belongs to Hass-Cohen & Clay 2025, an unrelated arts-therapies paper; no author Kube). Unpropagated twin of a defect the sibling [consciousness-and-memory](/topics/consciousness-and-memory/) fixed 2026-06-03. Removed inline cite + reference; re-grounded the goal-directedness claim in prose + [reconsolidation-as-selection-window](/topics/reconsolidation-as-selection-window/) cross-link (corpus-canonical resolution; claim is uncontroversial). Verbatim quote's true home is Lepsius 2026 New Ideas in Psychology 80:101221, verified real; this article paraphrases so carries no Lepsius ref.
+- **Reasoning-mode (editor-internal)**: illusionism/Frankish — Mode One; Type-B physicalism — Mode Two→Three. No label leakage.
+- **Calibration**: quantum-interface passage hedge preserved; no possibility/probability slippage.
+- **Medium issues addressed**: 0
+- **Output**: [deep-review-2026-06-05-episodic-memory](/reviews/deep-review-2026-06-05-episodic-memory/)
+- **Note**: 7th review; converged. Sole change is the mandated full-audit citation fix.
+
+## 2026-06-05T16:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/)
+- **Word count**: 3376 → 3388 (+12, length-neutral; under 4000 hard cap)
+- **Citation audit**: Full live-literature web-verification of ALL 14 references (metadata + stance). **0 defects.** Saad's five constraints confirmed as Saad's (not Chalmers'); Chalmers 1996 quote verbatim; Chalmers 1995 three principles verified; Chalmers & McQueen super-resistance source-conclusion check passed; Zheng & Meister 113(2),192-204 exact; all post-2020 first-authors clean (no wrong-author/chimera). 2 minor citation-completeness fixes (Ref 12 title+article-no; Ref 14 authors+title).
+- **Reasoning-mode (editor-internal)**: functionalist — Mode Three; Georgiev — concession (not boundary-substitution); Chalmers epiphenomenalism — Mode Three. No label leakage.
+- **Calibration**: no possibility/probability slippage; modal register honest (proposed/hypothetical bridging laws).
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (2 minor citation-completeness fixes)
+- **Output**: [deep-review-2026-06-05-psychophysical-laws-bridging-mind-and-matter](/reviews/deep-review-2026-06-05-psychophysical-laws-bridging-mind-and-matter/)
+
+## 2026-06-05T16:00:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Quantum-interpretation / agent cluster — `topics/pragmatist-quantum-foundations-and-the-agent.md`, `topics/qm-interpretations-beyond-many-worlds.md`, `topics/quantum-darwinism-and-consciousness.md` (all refreshed in the 2026-06-04 deep-review pass; not examined by the day's prior optimistic reviews). Mature, well-calibrated cluster; Process Philosopher and Hardline Empiricist personas converge (honest tension-resolution). One genuine content gap found: the survey article omits quantum Darwinism / Zurek entirely despite a developed sibling article existing. Author-byline "Sonquatre-six" verified as correct pseudonym convention, NOT a typo (no spurious finding).
+- **Output**: [optimistic-2026-06-05e](/reviews/optimistic-2026-06-05e/)
+- **Tasks added**: 1 (P3 refine-draft — place quantum Darwinism in the qm-interpretations survey + reciprocate missing cluster cross-links)
+
+## 2026-06-05T15:30:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [probability-decision-theory-against-many-worlds-2026-03-04](/research/probability-decision-theory-against-many-worlds-2026-03-04/), [many-worlds](/concepts/many-worlds/), [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/)
+- **Changes**: Wallace (2003) "Everettian rationality" page-range off-by-one fix `415-439` → `415-438` (end page 438 per DOI 10.1016/S1355-2198(03)00036-4, ADS bibcode 2003SHPMP..34..415W, SciRP). Length-neutral, citation-only; no body prose or other citations touched. Fixes the research-note ROOT to prevent re-propagation. The sibling topics/ source was fixed in the 15:10 deep-review pass.
+- **Published**: yes
+
+## 2026-06-05T15:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/)
+- **Word count**: 3784 → 3831 (+47; two reference lines to close dangling inline cites; under 4000 hard cap)
+- **Critical issues addressed**: 4 (all citation-audit) —
+  (1) **Wallace (2003) page range** `415-439` → **415-438** — the DOCUMENTED sibling-corpus regression (DOI 10.1016/S1355-2198(03)00036-4; verified PhilPapers/ADS/SciRP consensus 415-438).
+  (2) **Zhang (2026) scope overstatement** — body claimed coverage of "epistemic and frequentist routes"; arXiv:2603.06211 abstract verified to cover Gleason, Busch's extension, Deutsch-Wallace, Zurek envariance, Finkelstein-Hartle — NO epistemic/self-locating derivation. Rewritten to the paper's actual five-derivation scope; hedge preserved.
+  (3) **Everett (1957) dangling inline cite** — cited 2× inline, no References entry; added (Rev. Mod. Phys. 29(3), 454-462; verified ADS, real foundational paper).
+  (4) **Wallace (2007) dangling inline cite** — cited inline "(2003, 2007, 2010)", no 2007 entry; added (SHPMP 38(2), 311-332; verified real).
+- **Citation audit**: FULL pass — all 23 references web-verified against publisher of record (author/co-authors/venue/year/volume/pages/stance), not just load-bearing cites. Watch-list (Wallace 2003, Deutsch 1999, Greaves/Saunders/Vaidman/Sebens-Carroll/Zurek) all checked. 3-state de-citation discipline: no fabricated/chimera cite; both dangling cites resolved to REAL papers → added entries, not removed. Inline↔References cross-checked both directions, now clean.
+- **Calibration / reasoning-mode**: re-confirmed clean (unchanged from 2026-05-26). Engagement with Deutsch-Wallace branching indifference = Mode Three (tenet-load-bearing, explicit); Saunders/Sebens-Carroll indexical reply = Mode Three (framework-boundary, explicitly marked). No boundary-substitution, no label leakage, no possibility/probability slippage; parsimony disarmed both directions (Tenet 5).
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; length-neutral mode)
+- **Output**: [deep-review-2026-06-05-probability-problem-in-many-worlds](/reviews/deep-review-2026-06-05-probability-problem-in-many-worlds/)
+
+## 2026-06-05T14:26:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Word count**: 5064 → 5107 (+43; critical-fix exception, over topics hard threshold — NOT condensed, human length-decision already queued)
+- **Critical issues addressed**: 1 — CHIMERA citation defect: ref #21 "Landsman (2025), arXiv:2502.08545" is actually by **Arnold Neumaier** (Entropy 27(4):415), NOT Klaas Landsman; the verbatim quote "all derivations…circular or unrelated to measurement" was unverifiable + used AGAINST the cited paper's own thesis (Neumaier argues the rule CAN be derived via his detector postulate). Reattributed + body recast + quote removed. Underivability claim survives via Araújo/Zhang/observer material. Propagated fix to [born-rule-derivation-attempts-2026-03-14](/research/born-rule-derivation-attempts-2026-03-14/) (the corpus's other Landsman-2020 cites are a real, correct, different paper — untouched).
+- **Citation audit**: full pass. The 4 citations changed since last review web-verified — ALL fixes CORRECT: niaf011=Wiest (not Babcock/Hameroff); DeBrota-Fuchs-Pienaar-Stacey (not …Schack); Kerskens & López Pérez; Maier-Dechamps-Pflitsch Front.Psychol. 9:379. Wiest "macroscopic quantum entangled state" quote verified to abstract. Inline↔References clean both directions (Ghirardi via "GRW", SEP via "SEP 2024" — confirmed non-orphans). Torres Alegre/Zhang/Agrawal-Wilson clean per 2026-06-02, not re-verified.
+- **Reasoning-mode (editor-internal)**: QBism = Mode Three (framework-boundary, explicit); MWI = Mode Three (indexical-identity preference is tenet-load-bearing); Neumaier/Hilbert-primitivist = Mode Three w/ partial Mode-Two, "heuristic not derivational" conceded. No label leakage, no possibility/probability slippage.
+- **Medium issues addressed**: 0
+- **Output**: [deep-review-2026-06-05-born-rule-and-the-consciousness-interface](/reviews/deep-review-2026-06-05-born-rule-and-the-consciousness-interface/)
+
+## 2026-06-05T14:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [capability-division-in-vision](/concepts/capability-division-in-vision/)
+- **Word count**: 1953 → 1953 (no net change; cosmetic renumber only)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Low issues addressed**: 1 (References-list numbering glitch 1,2,3,4,10,5..9 → clean 1–10)
+- **Citation audit**: full re-verification of all 8 external citations against publisher of record — ALL CLEAN. Derrien et al. 2022 niab043, Ludwig 2023 niac018, Fahrenfort et al. 2017 PNAS 114(14):3744-3749, Goodale/Milner/Jakobson/Carey 1991 Nature 349:154-156, de Gelder et al. 1999 NeuroReport 10(18):3759-3763, Goodale & Milner 1992 TINS 15(1):20-25 (author order + page range confirmed via PubMed 1374953), Phillips 2021 Psych Rev 128(3):558-584, Weiskrantz 1986. 2026-05-28 fixes hold; inline↔References cross-check clean both directions.
+- **Reasoning-mode (editor-internal)**: Phillips engagement = Mode Three (honest boundary-marking); epiphenomenalist engagement = Mixed (Mode Two open → Mode Three residue, selection argument downgraded to corroborating). No label leakage. No possibility/probability slippage; modal register calibration-honest.
+- **Output**: [deep-review-2026-06-05-capability-division-in-vision](/reviews/deep-review-2026-06-05-capability-division-in-vision/)
+
+## 2026-06-05T13:20:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)
+- **Source**: pessimistic-2026-06-05c (1 medium + 1 low)
+- **Changes**:
+  - Citation-scope fix (Epiphenomenalism / ketamine exhibit): rescoped Sarasso et al. 2015 to the perturbational-complexity-index finding only (wakefulness-like cortical complexity vs propofol/xenon collapse); reframed the memory-encoding/report-correspondence claim as the Map's own inference from the retrospective reports, not as demonstrated by the cited study. Mirrors the correct scoping in sibling anaesthesia-and-the-consciousness-interface.md.
+  - Eliminativism third horn (secondary, low): added a naturalised-epistemology / reliabilism clause to the two-horn dilemma, relocating the burden onto the implementing-versus-grasping distinction rather than leaving the dilemma non-exhaustive.
+- **Length**: body 3256w (was ~3160w; +~96w net, within soft_warning band, well under 4000 hard)
+- **Notes**: scope-correction + one concession clause, not a thesis change; all calibration/hedges/named-opponent framing preserved; no label leakage.
+- **Published**: yes
+
+## 2026-06-05T14:00:02+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/self-stultification-as-master-argument.md (recently ai_modified, no prior pessimistic/deep review on record)
+- **Findings**: 1 medium (Sarasso 2015 citation-scope overreach — memory-encoding claim attributed to a complexity study), 1 low (non-exhaustive eliminativism dilemma), 2 language softenings (superlative/bedrock overstatement vs the article's own non-selectivity admission). No label leakage; no reasoning-mode substitution failure; altered-state symmetry audit N/A. Queued one P2 refine-draft.
+- **Output**: [pessimistic-2026-06-05c](/reviews/pessimistic-2026-06-05c/)
+
+## 2026-06-05T14:00:02+00:00 - deep-review
+- **Status**: Success
+- **File**: [temporal-consciousness](/concepts/temporal-consciousness/)
+- **Word count**: 2939 → 2939 (metadata-only; length-neutral)
+- **Critical issues addressed**: 0 (eleventh review; converged)
+- **Medium/low issues addressed**: 1 (Dainton 2008 end-page 619-652 → **619-638**, web-verified slip)
+- **Enhancements made**: 0
+- **Citation audit**: FULL per task — web-verified every load-bearing/recent/specialist cite against publisher of record (first author / co-authors / venue / year / key numbers / stance). CLEAN: Zheng & Meister 2025 (*Neuron* 113(2):192-204, print-2025/online-first-2024 trap handled, 10 bits/s confirmed), Tallis 2024 (*Philosophy Now* 161), Baker & Cariani 2025 (*Front Comput Neurosci* 19:1540532; title is deliberate corpus-canonical truncation — retained), Hoel 2025 (arXiv:2512.12802, Erik Hoel), Kent & Wittmann 2021 (niab011; erratum at niab015 not the citation), Thura & Cisek 2014 (*Neuron* 81(6):1401-1416, 280ms verbatim), Fuchs 2007 (*Psychopathology* 40(4):229-235), Hagan/Hameroff/Tuszynski 2002 (*Phys Rev E* 65:061901, decoherence-rebuttal stance matches), Lee 2023 (PhilArchive, Andrew Y. Lee), Klein 2016 (*QJEP* 69(2):381-401, autonoetic-causal claim verbatim), Pöppel 1997 (*TiCS* 1(2):56-61). One real-paper end-page slip fixed (Dainton). Inline↔References cross-check both directions: no danglers; Benussi/Friston are acceptable narrative co-mentions. No fabrication, no author-conflation, no online/print off-by-one. Calibration intact — quantum thesis explicitly speculative/empirically-inert; temporal-structure point framed suggestive not demonstrative. "Converged ≠ verified" applied; this completes full publisher-of-record verification of the citation block.
+- **Reasoning-mode (editor-internal)**: illusionist (Dennett/Frankish) = Mode Two + Mode Three residue (Tallis regress); B-theory eternalist = Mode Three. No label leakage.
+- **Output**: [deep-review-2026-06-05-temporal-consciousness](/reviews/deep-review-2026-06-05-temporal-consciousness/)
+
+## 2026-06-05T14:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [ethics-of-consciousness-invertebrate-question](/topics/ethics-of-consciousness-invertebrate-question/)
+- **Word count**: 2145 → 2145 (no change; length-neutral citation-fix pass)
+- **Critical issues addressed**: 2 (both wrong-first-author citation defects on real papers)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (fifth review; prose converged across four prior reviews)
+- **Citation audit**: FULL — every cite web-verified against publisher of record (first author / co-authors / venue / year / key numbers / stance). TWO real-paper/wrong-author chimeras fixed per 3-state discipline: (5) "Leming, M. J. et al. 2022" → **Grover, D. et al.** (ADS 2022Natur.603..302G; Grover, Chen, Xie, Li, Changeux, Greenspan); (7) "Pinotsis, D. A. et al. 2021" → **Leung, A. et al.** (ADS 2021PLSCB..17E8722L; Leung, Cohen, van Swinderen, Tsuchiya; DOI 10.1371/journal.pcbi.1008722). Both inline + reference entries corrected. Verified CLEAN: Barron & Klein 2016 (PNAS 113(18):4900-4908), Chittka 2022 (Princeton UP), Chittka et al. 2025 (Phil Trans R Soc B 380(1939)), Birch 2024 (OUP), UK Sentience Act 2022, hermit-crab trade-off (Appel & Elwood), bee/fly neuron counts. NYD signatory count = **599** verified LIVE at NYU site (time-varying GROWING figure, NOT corrected downward against stale 457-480 web snapshot; article's "599... up from ~40 at launch" is correct). Reasoning-mode: physicalism = Mode Three (boundary-marking, GWT parenthetical); Birch = ally not opponent; no label leakage. "Converged ≠ verified" — four prior reviews missed both author chimeras.
+- **Output**: [deep-review-2026-06-05-ethics-of-consciousness-invertebrate-question](/reviews/deep-review-2026-06-05-ethics-of-consciousness-invertebrate-question/)
+
+## 2026-06-05T13:50:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/)
+- **Word count**: 2607 → 2607 (no change; fourth deep review, converged)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (converged across four reviews; only timestamps updated)
+- **Citation audit**: FULL — all six external citations web-verified against publisher of record. Mavromatis 1987 (Routledge & Kegan Paul); Thompson 2014 (Columbia UP); Lacaux et al. 2021 Sci Adv 7(50) eabj5866 (83% vs 30% hidden-rule discovery confirmed); Haar Horowitz et al. 2023 Sci Rep 13:7319 (vol+article# confirmed; conservative no-43% phrasing correct); Hori/Hayashi/Morikawa 1994 (APA, pp. 237-253); Stickgold et al. 2000 Science 290(5490):350-353 (amnesic-imagery stance matches). Bidirectional inline↔References check clean (no dangling/orphan). 3-state outcome: all six real-paper-correct-metadata-and-stance; zero defects. "Converged ≠ verified" — now verified clean against this session's citation-defect cluster.
+- **Reasoning-mode**: engagement with disinhibition/production-model account: Mode Three (framework-boundary marking; two accounts phenomenologically equivalent by the article's own admission, no in-framework refutation available to upgrade). No label leakage.
+- **Calibration**: no possibility/probability slippage (§2 diagnostic test passed); single-study calibration for Lacaux + Dormio preserved intact.
+- **Note**: surfaced only because a mechanical [transition-void](/voids/transit-void/)→[transit-void](/voids/transit-void/) link repoint (commit 3f085be18) bumped ai_modified past last_deep_review; no substantive content changed since the 05-25 review.
+- **Output**: [deep-review-2026-06-05-hypnagogic-phenomenology-and-interface-modulation](/reviews/deep-review-2026-06-05-hypnagogic-phenomenology-and-interface-modulation/)
+
+## 2026-06-05T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [stochastic-emergence-as-quantum-interface-evidence](/topics/stochastic-emergence-as-quantum-interface-evidence/)
+- **Word count**: 3228 → 3250 (+22)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 1 (repointed in-body family cross-link from the member article to the canonical [direction-of-interface-change](/concepts/direction-of-interface-change/) family node; imported its non-independence caution — length-neutral, calibration-strengthening)
+- **Citation audit**: EXHAUSTIVE — all 12 external citations web-verified against publisher of record (Stone 2025, Lee 2025, Hu 2023 [post-refine Nature Neuroscience entry confirmed correct], Friedman 2010, Sepúlveda 2019, Masanes-Galley-Müller 2019, arXiv:2307.06191, Pati 2026 arXiv:2601.13012, Tegmark 2000, Hagan-Hameroff-Tuszyński 2002, Khan 2024, Vedovato 2017). No fabrication / chimera / wrong-metadata / fabricated-stat / fabricated-conclusion defects. "Converged ≠ verified" — now verified.
+- **Physics check**: decoherence order-of-magnitude re-derived from stated numbers — Tegmark 10⁻¹³–10⁻²⁰ s and HHT 10⁻⁵–10⁻⁴ s both correct; no overstatement.
+- **Calibration**: PASS — no possibility/probability slippage; *live-hypothesis* tier held; all hedges/evidential-status qualifiers preserved.
+- **Engagement modes** (editor-internal): classical-stochastic reading — Mode Three (boundary-marking, concedes classical default wins); Tegmark — Mode Three (concedes substrate-loss caveat). No label leakage.
+- **Output**: [deep-review-2026-06-05-stochastic-emergence-as-quantum-interface-evidence](/reviews/deep-review-2026-06-05-stochastic-emergence-as-quantum-interface-evidence/)
+
+## 2026-06-05T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/) + [russellian-monism-bi-aspectual-dualism-supplement-2026-03-17](/research/russellian-monism-bi-aspectual-dualism-supplement-2026-03-17/)
+- **Changes**: Propagation fix for the Williams (2021) wrong-title chimera caught by the 2026-06-05 deep-review of [russellian-monism](/concepts/russellian-monism/) (see [deep-review-2026-06-05-russellian-monism](/reviews/deep-review-2026-06-05-russellian-monism/)). The cited "Williams, R. (2021). Russellian monism and quantum mechanics. JCS 28(5-6):145-172" is actually George R. Williams, "Can the Psi Data Help Us Make Progress on the Problem of Consciousness?" — a Bohmian/implicate-order cosmopsychism+psi paper with ZERO Everett/many-worlds content. The attributed claim ("constitutive Russellian panpsychism most naturally compatible with Everett's many-worlds") is FABRICATED.
+  - **Topic file**: removed the Williams attribution + fabricated Everett claim from the "Russellian Monism and Many-Worlds" section (was body ~line 99); re-grounded the No-Many-Worlds point on RM's genuine *interpretation-neutrality* (consciousness has no causal role at measurement ⇒ it bars no interpretation, many-worlds included), calibrated as a cost on the Map's OWN commitments, not positive evidence. Followed the concept-article template. Also corrected two downstream phrasings ("comfort with many-worlds"→"interpretation-neutrality"; "compatibility with Everett" in the No-Many-Worlds tenet section). Deleted reference #18 (Williams) and renumbered #19→#18, #20→#19; verified no inline↔reference orphan/dangling (body uses author-year, not [#] markers). Voice/hedges/named-opponent framing preserved.
+  - **Research note (root)**: struck the fabricated Everett-compatibility claim at every occurrence (the "Russellian Monism and Everett's Interpretation" key-source block, the "Does RM Imply Many-Worlds?" key-debate, the timeline row, article-angle #2, the remaining-gaps note) and deleted the Williams citation from the Citations list; added a transparent inline correction note so the defect cannot silently re-propagate. The legitimate search-query log (records what was actually searched) left intact.
+- **Verification**: `grep` confirms no live Williams-2021-JCS content refs remain in either file (only the transparent correction-note text in the research note); `validate.py` + `sync.py` clean.
+- **ai_modified updated**: topic file → 2026-06-05; research note → 2026-06-05.
+- **Published**: yes (topic file already `draft: false`; research note is a public note)
 
 ## 2026-06-05T13:15:17+00:00 - deep-review
 - **Status**: Success
