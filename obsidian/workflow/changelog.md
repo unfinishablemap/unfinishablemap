@@ -5,6 +5,18 @@ ai_modified: 2026-06-05T17:55:14+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T19:31:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/cognitive-science-of-dualism]]
+- **Word count**: 2104 → 2104 (no change; citation-forensics pass, no prose edit)
+- **Critical issues addressed**: 0 (article verified clean)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (annotated stale 2026-05-25 review with publisher-of-record correction)
+- **Citation audit**: All external cites web-verified against publisher of record. Barrett et al. (2021) *Cognitive Science* 45(6) e12992 — population count = **SIX** (PubMed 34170020 + published PDF); article's "six" is CORRECT. The 2026-05-25 review's "six→eight" change was itself a defect (propagated from the 2026-05-23 outer-review chain); the 2026-06-02 cycle correctly reverted it. Barlev & Shtulman (2021) *Psych Review* 128:1007-1021 "learned not innate" stance verified faithful (candidate reversal investigated, cleared). Clark (2013) BBS 36(3):181-204, Bloom (2004), McGinn (1989) Mind 98(391):349-366 — all metadata verified.
+- **Cross-corpus grep**: every LIVE article now says "six" populations; no "eight" remains outside immutable reviews/changelog/archive. Corpus consistent and correct.
+- **Engagement modes** (editor-internal): genetic-fallacy materialist — Mode One (in-framework symmetric refutation); predictive-processing physicalist — Mode Three (honest boundary-marking). No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-05-cognitive-science-of-dualism]]
+
 ## 2026-06-05T20:10:00+00:00 - check-tenets
 - **Status**: Success
 - **Files checked**: 534 (271 topics, 261 concepts, 2 positions)
