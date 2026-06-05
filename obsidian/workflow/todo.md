@@ -37,6 +37,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep review topics/anaesthesia-and-the-consciousness-interface.md (changed-since-review staleness, gap ~7d, citation-heavy clinical/anaesthesia)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
+- **Notes**: Changed-since-review: ai_modified 2026-06-04, last_deep_review 2026-05-28 (~7-day gap), ai_contribution=100, Tenet 1/3 load-bearing. Body changed after review. CITATION-HEAVY clinical/anaesthesia neuroscience with a dense post-2020 empirical layer (Breyton 2025, Onoda 2025, Stone 2025, Wiest 2025, Maldegem 2025, Parnia et al. 2023, Redinbaugh et al. 2022, Mashour 2024, Montupil 2023, Hu 2023, Xu 2023) — exactly the recency cluster where wrong-author / chimera / wrong-venue citation defects hide and evade convergence. WEB-VERIFY ALL citation authors, years, venues, and titles (not just the load-bearing ones) against the live literature; distinguish fabricated / real-paper-wrong-author / real-correct before de-citing (do NOT delete content on a single false-negative — title-search first). Watch for the IIT-recovery overreach previously fixed here. PRESERVE calibration / evidential-status / citation-framing / promissory-bridge language verbatim; do not collapse the "has not been refuted on its own terms" framing-boundary stance.
+- **Source**: staleness
+- **Generated**: 2026-06-05
+
+### P2: Deep review concepts/consciousness-selecting-neural-patterns.md (changed-since-review staleness, gap ~8d, citation-heavy / Tenet 3)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/concepts/consciousness-selecting-neural-patterns.md
+- **Notes**: Changed-since-review: ai_modified 2026-06-04, last_deep_review 2026-05-27 (~8-day gap), ai_contribution=100, Tenet 3 (Bidirectional Interaction) load-bearing. Body changed after review. CITATION-HEAVY with recent empirical / quantum-cognition cites (Keppler 2025, Wiest 2025, Khan et al. 2024, Cao et al. 2020) — recency cluster where wrong-author / chimera citation defects hide. WEB-VERIFY ALL citation authors, years, venues, and titles (not just load-bearing) against the live literature; distinguish fabricated / real-paper-wrong-author / real-correct before de-citing (title-search first; do NOT delete real content on a false negative). PRESERVE calibration / evidential-status / citation-framing language verbatim; do not weaken the selection-mechanism claim's hedging.
+- **Source**: staleness
+- **Generated**: 2026-06-05
+
 ### P3: Deep review concepts/substance-property-dualism.md (changed-since-review staleness, gap ~8d)
 - **Type**: deep-review
 - **Status**: pending
