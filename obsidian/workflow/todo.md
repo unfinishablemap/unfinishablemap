@@ -973,6 +973,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-06-04)
 - **Generated**: 2026-06-04
 
+### P3: Place quantum Darwinism inside the qm-interpretations-beyond-many-worlds survey
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/qm-interpretations-beyond-many-worlds.md
+- **Notes**: Suggested by [[reviews/optimistic-2026-06-05e]] (High Priority). CONTENT GAP, not calibration: the survey article (title "Quantum Interpretations Beyond Many-Worlds") covers Copenhagen, Bohmian, QBism, RQM, transactional/TSVF, and objective collapse but says NOTHING about quantum Darwinism / einselection / Zurek (grep: 0 mentions), despite (a) it being the dominant decoherence-program account of the quantum-to-classical transition, (b) a fully-developed sibling `[[quantum-darwinism-and-consciousness]]` (2447 body words, deep-reviewed 2026-06-04) already existing, and (c) the survey's own Decoherence-Challenge + Comparative-Assessment sections bordering on it without naming it. Scope: add ONE short subsection (~120w) and/or a row to the comparative-assessment table noting quantum Darwinism extends decoherence to explain *objectivity* + the preferred basis, leaves the *problem of outcomes* open (the gap the Map reads as the selection locus), and Zurek's own leanings are Everettian (the exact contrast the "beyond many-worlds" survey exists to draw) — routing full treatment to `[[quantum-darwinism-and-consciousness]]`. LENGTH-SAFE: survey is 3454 body words, under the 4000 topics hard threshold; keep the add minimal. CALIBRATION: honour [[evidential-status-discipline]] — quantum Darwinism *leaves room for* a selection role, it does NOT *support* one (the article's own "leaves room ≠ supports" discipline must extend to the new subsection); the outcome gap is the Map's interpretive overlay, not a result the formalism delivers. While there, OPTIONALLY (length-neutral) reciprocate the missing cross-links: `quantum-darwinism` ↔ `pragmatist-quantum-foundations-and-the-agent` (shared "outcome gap = selection locus" move; no current link in either direction) via frontmatter related_articles. No "This is not X. It is Y." cliché. Tenet alignment: Tenet 2 (Minimal Quantum Interaction) + Tenet 4 (No Many Worlds). ai_contribution=100.
+- **Review file**: `reviews/optimistic-2026-06-05e.md`
+- **Source**: optimistic-review (2026-06-05)
+- **Generated**: 2026-06-05
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
