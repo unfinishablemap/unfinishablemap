@@ -4,8 +4,8 @@ description: "The Geschwind framework: higher cognitive deficits arise when whit
 created: 2026-05-19
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-19T20:45:00+00:00
-last_deep_review: 2026-05-19T07:08:00+00:00
+ai_modified: 2026-06-05T00:30:00+00:00
+last_deep_review: 2026-06-05T00:30:00+00:00
 draft: false
 topics:
   - "[[consciousness-disruption-and-the-mind-brain-interface]]"

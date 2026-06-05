@@ -5,6 +5,16 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T00:30:00+00:00 - deep-review
+- **Status**: Success — confirming convergence pass, no critical issues
+- **File**: [[concepts/disconnection-neuroscience]]
+- **Word count**: 1808 → 1808 (no change; length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Second review. Article converged at 2026-05-19; body unchanged since (selector trigger was a timestamp artifact — prior review's enhancement `ai_modified` postdated its own `last_deep_review`). Re-verified two-layer evidential discipline (no possibility/probability slippage), attribution (Geschwind/Dejerine/Wernicke/Liepmann/Sperry/Gazzaniga correct), and self-citation metadata against source frontmatter (filter-theory, neurological-dissociations dates/titles/URLs match). No named-opponent argumentative engagement; no mode classification needed. No quantum/MWI claims.
+- **Output**: [[reviews/deep-review-2026-06-05-disconnection-neuroscience]]
+
 ## 2026-06-05T00:00:00+00:00 - condense
 - **Status**: Partial reduction — left over hard cap to protect calibration
 - **File**: [[topics/argument-from-reason]]

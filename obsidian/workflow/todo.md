@@ -37,6 +37,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Reciprocal cross-links — noetic-feelings-void and minimal-consciousness to edge-states
+- **Type**: cross-review
+- **Status**: pending
+- **File**: obsidian/voids/noetic-feelings-void.md
+- **Notes**: From outer review 2026-06-05 (ChatGPT 5.5 Pro), improvement items 9 and 13 (multi-file — do NOT drop either page, see [[multifile-task-dropped-file]]). (1) [[noetic-feelings-void]]: add a reciprocal link to [[edge-states-and-void-probes]] noting psychedelic/mystical noesis and dissolving insight as high-salience cases of heuristic felt-knowing — the noetic-feelings machinery is what tests edge-insight claims. (2) [[concepts/minimal-consciousness]]: add a reusable caution block on analogizing human content-stripped (MPE) awareness to simple-organism experience, which the edge-states "nematode from below / MPE from above" comparison can then cite in-line rather than only via Further Reading. Both are length-neutral cross-link installs; confirm the edge-states refine (P2 above) lands first so the reciprocal targets exist. Honour [[evidential-status-discipline]].
+- **Review file**: `reviews/outer-review-2026-06-05-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-05
+
 ### P2: Deep review apex/machine-question.md (changed-since-review staleness, gap ~16d)
 - **Type**: deep-review
 - **Status**: pending
@@ -115,15 +124,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: refine-draft
 - **Notes**: The Gemini 2.5 Pro 06-05 hostile-referee review audits the SAME subject (edge-states-and-void-probes) as the already-queued ChatGPT and Claude 06-05 tasks. Per [[outer-review-same-file-task-pileup]], do NOT duplicate. Convergence/disposition of its five weaknesses (full detail in the review file's Verification Notes): (W1 FDG-PET hypermetabolism) the ONE distinct valid finding — split into the standalone P2 above; partially converges with the Claude "DMN desynchronization" empirical-currency item but adds the metabolic-cost angle neither sibling raised. (W2 Laukkonen & Slagter 2021 active-inference cessation) modest valid addition; CONVERGES with the Claude/ChatGPT predictive-processing currency items — fold the cessation-specific cite there if web-verified, don't mint a separate task. (W3 Xu et al. 2023 gamma surge, W4 AWARE II veridical-perception) — Gemini attacks NDE claims the article DOES NOT MAKE (it cites only Facco 2015 and is explicitly hedged); these are reviewer hallucinations of a stronger article. NOTE the existing Claude empirical-currency task ALREADY proposes adding Xu/Borjigin PNAS 2023 + AWARE-II to resolve an internal inconsistency with [[near-death-experiences]] — so if the NDE section IS expanded, Gemini's negative-result framing (AWARE-II veridical-perception failure was negative; gamma surge was in comatose, non-cardiac-arrest patients with no evidence of experience) is the correct calibration to apply, captured in the review file. (W5 Zahavian minimal self) FACTUALLY WRONG about this article — "Zahavi" appears nowhere; the article relies on Metzinger's MPE/zero-person framework (the exact corrective the reviewer recommends), already covered by the existing Claude P1 Metzinger-co-optation task. No task. Net: 1 distinct valid (W1, queued), 1 convergent-modest (W2, fold in), 3 misreads (no tasks).
 - **Review file**: `reviews/outer-review-2026-06-05-gemini-2-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-05
-
-### P2: Reciprocal cross-links — noetic-feelings-void and minimal-consciousness to edge-states
-- **Type**: cross-review
-- **Status**: pending
-- **File**: obsidian/voids/noetic-feelings-void.md
-- **Notes**: From outer review 2026-06-05 (ChatGPT 5.5 Pro), improvement items 9 and 13 (multi-file — do NOT drop either page, see [[multifile-task-dropped-file]]). (1) [[noetic-feelings-void]]: add a reciprocal link to [[edge-states-and-void-probes]] noting psychedelic/mystical noesis and dissolving insight as high-salience cases of heuristic felt-knowing — the noetic-feelings machinery is what tests edge-insight claims. (2) [[concepts/minimal-consciousness]]: add a reusable caution block on analogizing human content-stripped (MPE) awareness to simple-organism experience, which the edge-states "nematode from below / MPE from above" comparison can then cite in-line rather than only via Further Reading. Both are length-neutral cross-link installs; confirm the edge-states refine (P2 above) lands first so the reciprocal targets exist. Honour [[evidential-status-discipline]].
-- **Review file**: `reviews/outer-review-2026-06-05-chatgpt-5-5-pro.md`
 - **Source**: outer-review
 - **Generated**: 2026-06-05
 
