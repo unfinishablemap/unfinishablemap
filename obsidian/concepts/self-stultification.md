@@ -4,8 +4,8 @@ description: "A position is self-stultifying—epistemically self-defeating—wh
 created: 2026-02-02
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-05-29T03:55:00+00:00
-last_deep_review: 2026-05-27T07:59:37+00:00
+ai_modified: 2026-06-05T17:50:18+00:00
+last_deep_review: 2026-06-05T17:50:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

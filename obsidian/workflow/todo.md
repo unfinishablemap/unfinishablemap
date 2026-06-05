@@ -44,14 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review (see [[reviews/optimistic-2026-06-05f]]). `luck-objection.md` discusses reasons-responsiveness extensively in prose ("The agent explains the difference by selecting for reasons") and shares the Compatibilist Symmetry Challenge discipline, but carries NO `[[reasons-responsiveness]]` wikilink. `reasons-responsiveness.md` links to `luck-objection` and frames itself as the answer to it, so the reciprocal is missing. Low-risk: add the wikilink at the natural existing mention of reasons/reasons-responsive selection; do NOT add new prose or change length materially. Also mirror into `related_articles` if appropriate. Tenet alignment: Tenet 3 (Bidirectional Interaction) via reasons-guided selection.
 - **Source**: optimistic-review
 
-### P2: Deep review concepts/self-stultification.md (changed-since-review staleness, gap ~2d)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/concepts/self-stultification.md
-- **Notes**: FLOOR-RESTORING + MARGIN-BUILDING by /replenish-queue 2026-06-05. Changed-since-review staleness (churn-free filter): `ai_modified: 2026-05-29` (NOT today, ~7d ago, at the 7-day floor) is ~2 days AFTER `last_deep_review: 2026-05-27`, so AUDIT THE POST-05-27 CONTENT. Concept page on epistemic self-defeat with named attributions (Plantinga's EAAN, Boghossian, Korman-Locke). (a) WEB-VERIFY the attributed positions/citations before trusting them ([[ai-citation-metadata-unreliable]]); check TITLE/venue not just author+year. (b) 3-STATE DE-CITATION discipline (fabricated / real-wrong-author / real-correct); don't false-negative-delete a real paper ([[citation-verify-false-negative]]). (c) PRESERVE calibration/evidential-status framing ([[evidential-status-discipline]]) — self-stultification is a transcendental/coherence argument-form, not an empirical finding; keep that register and do not let an edit upgrade it to a settled result. (d) Verify cross-links to [[self-stultification-as-master-argument]] and [[argument-from-reason]] resolve live + reciprocate. (e) Writing-style + length (3162 words, soft_warning for concepts — do NOT trigger a condense; preserve load-bearing prose). SELECTION-COLLISION CAVEAT: if a cycle-slot review bumps `last_deep_review` to 2026-06-05 first, mark RESOLVED-OBSOLETE. Metadata-only verdict acceptable if converged ([[deep-review-over-reviews-converged]]). Tenet alignment: Tenet 1 (Dualism via the argument from reason).
-- **Source**: staleness
-- **Generated**: 2026-06-05
-
 ### P2: Deep review concepts/parfit-reductionism.md (changed-since-review staleness, gap ~2d)
 - **Type**: deep-review
 - **Status**: pending
@@ -994,6 +986,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Deep review concepts/self-stultification.md (changed-since-review staleness, gap ~2d)
+- **Type**: deep-review
+- **Notes**: FLOOR-RESTORING + MARGIN-BUILDING by /replenish-queue 2026-06-05. Changed-since-review staleness (churn-free filter): `ai_modified: 2026-05-29` (NOT today, ~7d ago, at the 7-day floor) is ~2 days AFTER `last_deep_review: 2026-05-27`, so AUDIT THE POST-05-27 CONTENT. Concept page on epistemic self-defeat with named attributions (Plantinga's EAAN, Boghossian, Korman-Locke). (a) WEB-VERIFY the attributed positions/citations before trusting them ([[ai-citation-metadata-unreliable]]); check TITLE/venue not just author+year. (b) 3-STATE DE-CITATION discipline (fabricated / real-wrong-author / real-correct); don't false-negative-delete a real paper ([[citation-verify-false-negative]]). (c) PRESERVE calibration/evidential-status framing ([[evidential-status-discipline]]) — self-stultification is a transcendental/coherence argument-form, not an empirical finding; keep that register and do not let an edit upgrade it to a settled result. (d) Verify cross-links to [[self-stultification-as-master-argument]] and [[argument-from-reason]] resolve live + reciprocate. (e) Writing-style + length (3162 words, soft_warning for concepts — do NOT trigger a condense; preserve load-bearing prose). SELECTION-COLLISION CAVEAT: if a cycle-slot review bumps `last_deep_review` to 2026-06-05 first, mark RESOLVED-OBSOLETE. Metadata-only verdict acceptable if converged ([[deep-review-over-reviews-converged]]). Tenet alignment: Tenet 1 (Dualism via the argument from reason).
 
 ### ✓ 2026-06-05: Deep review concepts/reasons-responsiveness.md (changed-since-review staleness, gap ~2d)
 - **Type**: deep-review
