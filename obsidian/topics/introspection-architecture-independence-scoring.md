@@ -4,7 +4,7 @@ description: "A worked exhibit applying the voids-circularity discount to the fo
 created: 2026-05-15
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-06-04T08:15:28+00:00
+ai_modified: 2026-06-05T00:00:00+00:00
 last_deep_review: 2026-06-04T00:57:14+00:00
 draft: false
 topics:
@@ -19,6 +19,7 @@ concepts:
   - "[[evidential-status-discipline]]"
 related_articles:
   - "[[cross-architecture-llm-introspection]]"
+  - "[[quantum-state-inheritance-in-ai]]"
   - "[[apex/taxonomy-of-voids]]"
   - "[[the-surplus-void]]"
   - "[[narrative-void]]"

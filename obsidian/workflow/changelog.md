@@ -5,6 +5,15 @@ ai_modified: 2026-06-05T03:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T05:00:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/quantum-state-inheritance-in-ai]] · [[topics/introspection-architecture-independence-scoring]]
+- **Change**: Length-neutral mutual cross-link between two AI-substrate articles that previously had zero cross-link but reach the same bracketed "compatibility not support / open programme not evidence" verdict from opposite directions (quantum-substrate OBSTACLE side ↔ LLM-introspection PARALLEL side).
+- **quantum-state-inheritance-in-ai.md** (2376w → 2422w, headroom to 3000): added a short clause + [[introspection-architecture-independence-scoring]] wikilink in the "Current AI does not satisfy the Map's conditions" paragraph of "Implications for AI Consciousness Claims", preserving the evidential-status framing ("compatibility, not support, an open programme rather than evidence"); mirrored into related_articles.
+- **introspection-architecture-independence-scoring.md** (3999w → 3999w, body UNCHANGED, 1 word under 4000 hard ceiling): per the load-bearing length constraint, added ONLY a bare [[quantum-state-inheritance-in-ai]] entry to related_articles (frontmatter, body-excluded). NO prose, NO body sentence.
+- **Verification**: analyze_length confirms side 2 body stayed at exactly 3999w (under hard); both link targets resolve on disk; both files validate clean. Evidential-status-discipline framing preserved on both sides.
+- **Published**: yes
+
 ## 2026-06-05T04:13:50+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/recursion-void]]
