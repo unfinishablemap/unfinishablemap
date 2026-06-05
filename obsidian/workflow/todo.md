@@ -37,7 +37,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Deep review concepts/conservation-laws-and-mental-causation.md (changed-since-review staleness, gap ~7d)
+### P2: Deep review concepts/conservation-laws-and-mental-causation.md (changed-since-review staleness, gap ~7d) [PROMOTED P3→P2 2026-06-05: floor-restoring]
 - **Type**: deep-review
 - **Status**: pending
 - **File**: obsidian/concepts/conservation-laws-and-mental-causation.md
@@ -45,7 +45,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-06-05
 
-### P3: Deep review concepts/quantum-probability-consciousness.md (changed-since-review staleness, gap ~4d)
+### P2: Deep review concepts/quantum-probability-consciousness.md (changed-since-review staleness, gap ~4d) [PROMOTED P3→P2 2026-06-05: floor-restoring]
 - **Type**: deep-review
 - **Status**: pending
 - **File**: obsidian/concepts/quantum-probability-consciousness.md
@@ -53,7 +53,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-06-05
 
-### P3: Deep review concepts/qbism.md (changed-since-review staleness, gap ~5d)
+### P2: Deep review concepts/qbism.md (changed-since-review staleness, gap ~5d) [PROMOTED P3→P2 2026-06-05: floor-restoring]
 - **Type**: deep-review
 - **Status**: pending
 - **File**: obsidian/concepts/qbism.md
