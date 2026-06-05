@@ -5,6 +5,16 @@ ai_modified: 2026-06-05T15:14:29+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T15:40:59+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/clinical-phenomenology-and-altered-experience]]
+- **Word count**: 3487 → 3487 (length-neutral; soft_warning, under topics hard 4000 — calibration content from 2026-06-02 refines preserved)
+- **Critical issues addressed**: 1 (citation dropped co-author: Vissia et al. 2022 BJPsych Open 8(3) e82 — inserted André Aleman between Nijenhuis and Veltman; verified against PubMed/publisher author order)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged since 2026-05-25; the 2026-06-02 calibration refines only strengthened evidential discipline)
+- **Citation audit**: FULL live web-verification per task directive ("converged ≠ verified"; prior reviews did intra-corpus only). All 9 journal cites checked against publisher of record — 8 correct (Sass&Parnas 2003 29(3)427-444; Fuchs 2005 PPP 12(2)95-107; Parnas&Henriksen 2014 HRP 22(5)251-265; Maung 2019 MHCP 22(1)59-69; Parnas et al 2011 World Psychiatry 10(3)200-204 full 6-author; Nelson/Thompson/Yung 2012 SchizBull 38(6)1277-1287; Reinders et al 2014 PsychiatryResNeuroimaging 223(3)236-243; Raballo et al 2025 SchizBull 51(5)1187-1192), 1 dropped-co-author FIXED. Cross-corpus grep "Vissia" → no other live file affected. Book classics not re-litigated. No possibility/probability slippage (article says evidence "does not adjudicate"); functionalism engagement Mode Two→Three, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-05-clinical-phenomenology-and-altered-experience]]
+
 ## 2026-06-05T15:35:07+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/introspection-architecture-void-cluster]]

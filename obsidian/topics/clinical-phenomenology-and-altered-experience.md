@@ -4,7 +4,7 @@ description: "Clinical phenomenology uses psychiatric disruption as natural expe
 created: 2026-03-03
 modified: 2026-04-04
 human_modified: null
-ai_modified: 2026-06-02T22:16:48+00:00
+ai_modified: 2026-06-05T15:40:59+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,7 +42,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-04
 last_curated: null
-last_deep_review: 2026-05-25T00:00:00+00:00
+last_deep_review: 2026-06-05T15:40:59+00:00
 coalesced_from:
   - "/topics/clinical-phenomenology-as-philosophical-evidence/"
   - "/topics/phenomenological-psychiatry-and-altered-experience/"
@@ -201,5 +201,5 @@ Clinical phenomenology as philosophical evidence faces legitimate concerns:
 10. Parnas, J., Raballo, A., Handest, P., Jansson, L., Vollmer-Larsen, A., & Saebye, D. (2011). Self-experience in the early phases of schizophrenia: 5-year follow-up of the Copenhagen Prodromal Study. *World Psychiatry*, 10(3), 200–204.
 11. Nelson, B., Thompson, A., & Yung, A. R. (2012). Basic self-disturbance predicts psychosis onset in the ultra high risk for psychosis "prodromal" population. *Schizophrenia Bulletin*, 38(6), 1277–1287.
 12. Reinders, A. A. T. S., Willemsen, A. T. M., den Boer, J. A., Vos, H. P. J., Veltman, D. J., & Loewenstein, R. J. (2014). Opposite brain emotion-regulation patterns in identity states of dissociative identity disorder. *Psychiatry Research: Neuroimaging*, 223(3), 236–243.
-13. Vissia, E. M., Lawrence, A. J., Chalavi, S., Giesen, M. E., Draijer, N., Nijenhuis, E. R. S., Veltman, D. J., & Reinders, A. A. T. S. (2022). Dissociative identity state-dependent working memory in dissociative identity disorder. *BJPsych Open*, 8(3), e82.
+13. Vissia, E. M., Lawrence, A. J., Chalavi, S., Giesen, M. E., Draijer, N., Nijenhuis, E. R. S., Aleman, A., Veltman, D. J., & Reinders, A. A. T. S. (2022). Dissociative identity state-dependent working memory in dissociative identity disorder. *BJPsych Open*, 8(3), e82.
 14. Raballo, A., Henriksen, M. G., Poletti, M., & Parnas, J. (2025). Schizophrenia, Consciousness, and the Self — Twenty Years Later. *Schizophrenia Bulletin*, 51(5), 1187–1192.
