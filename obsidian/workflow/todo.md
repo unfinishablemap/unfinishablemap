@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review concepts/mind-matter-interface.md (changed-since-review staleness, gap ~7d)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/concepts/mind-matter-interface.md
-- **Notes**: Changed-since-review: ai_modified 2026-06-04, last_deep_review 2026-05-28 (~7-day gap), ai_contribution=100. Body changed after review = unreviewed new content. Tenet 2 (Minimal Quantum Interaction) + Tenet 3 (Bidirectional Interaction) load-bearing hub unifying filter theory and quantum selection (~9 post-2020 year-tokens). WEB-VERIFY any quantum-foundations / decoherence / filter-theory citations (incl. any post-2020 quantum-biology preprints — preprint claims are provisional) against the live record. PRESERVE the "leaves room for ≠ supports" calibration; keep the filter-theory ↔ quantum-selection unification framed as the Map's interpretive overlay, not a delivered result.
-- **Source**: staleness
-- **Generated**: 2026-06-05
-
 ### P2: Deep review topics/channel-width-third-axis.md (changed-since-review staleness, gap ~8d)
 - **Type**: deep-review
 - **Status**: pending
@@ -970,6 +962,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Deep review concepts/mind-matter-interface.md (changed-since-review staleness, gap ~7d)
+- **Type**: deep-review
+- **Notes**: Changed-since-review: ai_modified 2026-06-04, last_deep_review 2026-05-28 (~7-day gap), ai_contribution=100. Body changed after review = unreviewed new content. Tenet 2 (Minimal Quantum Interaction) + Tenet 3 (Bidirectional Interaction) load-bearing hub unifying filter theory and quantum selection (~9 post-2020 year-tokens). WEB-VERIFY any quantum-foundations / decoherence / filter-theory citations (incl. any post-2020 quantum-biology preprints — preprint claims are provisional) against the live record. PRESERVE the "leaves room for ≠ supports" calibration; keep the filter-theory ↔ quantum-selection unification framed as the Map's interpretive overlay, not a delivered result.
 
 ### HUMAN LENGTH DECISION 2026-06-05: voids/edge-states-and-void-probes.md
 - **Type**: human-decision (do NOT auto-condense; do NOT pick as refine/condense)
