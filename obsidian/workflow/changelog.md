@@ -5,6 +5,18 @@ ai_modified: 2026-06-05T21:48:15+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T22:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/neurological-dissociations-as-interface-architecture]]
+- **Word count**: 3046 → 3046 (length-neutral; 102% of 3000 soft target, soft_warning)
+- **Critical issues addressed**: 0 (converged no-op; fifth deep review, stable since 2026-04-17)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0. Only change since last review (commit 7ebfba694) was a sound cross-link to [[epistemology-of-convergence-arguments]] + a calibration-strengthening sentence (downgrades the dualist inference to compatibility-grade); required no correction.
+- **Citation web-verify**: Santander et al. 2025 PNAS 122(43) e2520190122 RE-VERIFIED publisher-of-record (PNAS + PubMed PMID 41118210) — title/authors/year/DOI correct, "1 cm splenium preserves full interhemispheric integration" claim faithful (number + direction). Remaining citations stable with documented PMIDs from 2026-05-28 audit; one-search budget spent on the highest-currency 2025 claim.
+- **Reasoning-mode**: Against-Identity-Theory engages naive identity Mode One (own-terms refutation) then functionalist boundary Mode Three (honest); epiphenomenalism concedes "logically available" (honest, not boundary-substitution). No label leakage (grep-confirmed).
+- **COORDINATION FLAG (deferred, NOT fixed)**: Article line 109 carries the backwards FND/motor-channel framing — "Conversion disorder **disconnects the same descending motor channel** through purely psychogenic functional decoupling." This is the BACKWARDS framing the line-1847 propagation task (2026-06-04 Claude Opus 4.8 outer review; FND = increased amygdala↔(pre-)SMA connectivity + aberrant precision-weighting, NOT a severed channel) will correct across siblings. CONFIRMED this file belongs on the line-1847 list; left unrewritten to avoid same-file churn.
+- **Output**: [[reviews/deep-review-2026-06-05-neurological-dissociations-as-interface-architecture]]
+
 ## 2026-06-05T21:48:15+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/conscious-vs-unconscious-processing]]
