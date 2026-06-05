@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Repoint degraded Neven (2024) citation in apex/what-it-might-be-like-to-be-an-ai.md
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/apex/what-it-might-be-like-to-be-an-ai.md
-- **Notes**: Line 188 carries a degraded form of the Neven et al. (2024) citation: "Neven, H., Koch, C., Read, P., & Zalcman, A. (2024). 'Testing Quantum Approaches to Consciousness.' Preprint." — wrong title, "Preprint" instead of journal, truncated/reordered author list. Found during 2026-06-05 deep review of consciousness-in-smeared-quantum-states. The 2026-05-27 Koch→Neven propagation pass fixed open-question-ai-consciousness, the research note, and non-collapsed but MISSED this apex. Repoint to the canonical web-verified form: Neven, H., Zalcman, A., Read, P., Kosik, K.S., van der Molen, T., Bouwmeester, D., Bodnia, E., Turin, L. & Koch, C. (2024). Testing the conjecture that quantum processes create conscious experience. *Entropy*, 26(6), 460. (DOI 10.3390/e26060460). Verified-correct, do NOT de-cite — metadata fix only.
-- **Source**: deep-review
-- **Generated**: 2026-06-05
-
 ### P3: Deep review concepts/substance-property-dualism.md (changed-since-review staleness, gap ~8d)
 - **Type**: deep-review
 - **Status**: pending
@@ -963,6 +955,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Repoint degraded Neven (2024) citation in apex/what-it-might-be-like-to-be-an-ai.md
+- **Type**: refine-draft
+- **Notes**: Line 188 carries a degraded form of the Neven et al. (2024) citation: "Neven, H., Koch, C., Read, P., & Zalcman, A. (2024). 'Testing Quantum Approaches to Consciousness.' Preprint." — wrong title, "Preprint" instead of journal, truncated/reordered author list. Found during 2026-06-05 deep review of consciousness-in-smeared-quantum-states. The 2026-05-27 Koch→Neven propagation pass fixed open-question-ai-consciousness, the research note, and non-collapsed but MISSED this apex. Repoint to the canonical web-verified form: Neven, H., Zalcman, A., Read, P., Kosik, K.S., van der Molen, T., Bouwmeester, D., Bodnia, E., Turin, L. & Koch, C. (2024). Testing the conjecture that quantum processes create conscious experience. *Entropy*, 26(6), 460. (DOI 10.3390/e26060460). Verified-correct, do NOT de-cite — metadata fix only.
 
 ### ✓ 2026-06-05: Fix Fleming 2024 page range in concepts/anti-correlated-metacognitive-signal.md
 - **Type**: refine-draft

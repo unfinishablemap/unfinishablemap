@@ -4,7 +4,7 @@ description: "A sea of conscious entities might bind to physical systems in fund
 created: 2026-03-07
 modified: 2026-03-07
 human_modified: null
-ai_modified: 2026-06-01T15:45:38+00:00
+ai_modified: 2026-06-05T19:00:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -185,7 +185,7 @@ This apex article synthesises:
 
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435–450.
 2. Stapp, H. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-3. Neven, H., Koch, C., Read, P., & Zalcman, A. (2024). "Testing Quantum Approaches to Consciousness." Preprint.
+3. Neven, H., Zalcman, A., Read, P., Kosik, K. S., van der Molen, T., Bouwmeester, D., Bodnia, E., Turin, L., & Koch, C. (2024). Testing the conjecture that quantum processes create conscious experience. *Entropy*, 26(6), 460. https://doi.org/10.3390/e26060460
 4. Husserl, E. (1928/1991). *On the Phenomenology of the Consciousness of Internal Time*. Trans. J. B. Brough. Kluwer.
 5. Frischhut, A. (2024). "Awareness without Time?" *The Philosophical Quarterly*.
 6. Chalmers, D., & McQueen, K. (2021). "Consciousness and the Collapse of the Wave Function." Preprint.
