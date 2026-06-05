@@ -5,6 +5,20 @@ ai_modified: 2026-06-04T23:00:22+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-04T23:59:48+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/near-death-experiences]]
+- **Source**: pessimistic-2026-06-04d (3 medium/low findings)
+- **Changes**:
+  - (1) Selectivity overreach — intro "remains unexplained" → "remains incompletely explained" and forwarded the recall-bias + unmeasured-physiological caveat so the truncation-resilient intro carries it (was only at line 68).
+  - (2) Symmetry-acknowledgment under-named — added a paragraph in "The Asymmetry Problem" naming the parallel accommodation: the supportive cluster (NDE + terminal lucidity + psychedelic expansion) carries the weight of ONE pattern, not three independent confirmations, and the production theorist has the same functional-vs-structural-suppression move (Mashour, cited approvingly upstream). `altered_state_symmetry.evaluate_symmetry` returns None (gate already passed; this satisfies the acknowledgment markers).
+  - (3) Epistemic→metaphysical drift — Dualism paragraph now states the inference is epistemic ("more complex than current production models") and names the enriched-production escape (gamma surge as live candidate) rather than gliding to "isn't produced by neural activity."
+  - "Filter theory **dissolves** this paradox" → "reframes" (overclaim vs the Asymmetry section).
+  - MQI paragraph downgraded to explicit speculation; named the decoherence tension (dying tissue is MORE decoherent), removed the unmechanized "more fluid as neural constraints dissolve" directional claim.
+- **Preserved**: Asymmetry-Problem honesty, "What Would Challenge This View?" falsifiers, all citations.
+- **Length**: 2478 → 2696 body words (status soft_warning; under 3500 hard ceiling). Growth is the required new symmetry dialectic + epistemic clarifications; trimmed redundancy elsewhere to partially offset.
+- **Published**: yes
+
 ## 2026-06-04 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `concepts/near-death-experiences.md` (~2,478 body words; well-aged, no prior dedicated pessimistic review). Empirical spine verified (Van Lommel n=344/62/41; AWARE II 28-of-567; Xu/Borjigin 2023 PNAS gamma). Three medium/low findings: selectivity-argument overreach vs its own caveat; altered-state symmetry-acknowledgment under-named (audit gate passes — disruptive cluster IS engaged, NOT the critical double-counting failure); epistemic→metaphysical drift in the framing claim. No label-leakage or boundary-substitution. Queued one P2 refine-draft.
