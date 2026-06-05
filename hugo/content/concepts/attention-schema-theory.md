@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-05-27 21:15:00+00:00
+ai_modified: 2026-06-05 08:10:07+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: Graziano's theory proposes consciousness is the brain's model of it
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-19 23:49:15+00:00
+last_deep_review: 2026-06-05 08:10:07+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -66,40 +66,40 @@ According to AST, consciousness is what attention *seems like* from the perspect
 
 ## AST and Illusionism
 
-AST is the primary neuroscientific instantiation of philosophical [illusionism](/concepts/illusionism/). Where illusionists like Keith Frankish and Daniel Dennett argue that introspection misrepresents experience as having phenomenal properties it lacks, AST provides a mechanism: the attention schema represents attention as having experiential qualities, and we believe those representations. At the methodological level, AST inherits the discipline of [Dennett's heterophenomenology](/concepts/heterophenomenology/)—treating reports about experience as the only legitimate data while remaining officially agnostic about the phenomenology those reports purport to describe.
+AST is the primary neuroscientific instantiation of philosophical [illusionism](/concepts/illusionism/). Where illusionists like Keith Frankish and Daniel Dennett argue introspection misrepresents experience as having phenomenal properties it lacks, AST supplies a mechanism: the attention schema represents attention as having experiential qualities, and we believe those representations. At the methodological level, AST inherits the discipline of [Dennett's heterophenomenology](/concepts/heterophenomenology/)—treating reports about experience as the only legitimate data while remaining officially agnostic about the phenomenology those reports purport to describe.
 
 Dennett calls illusionism "the obvious default theory"—the conservative position to explore before invoking "magical" phenomenal properties. Chalmers' meta-problem (2018) asks why we *believe* we have phenomenal consciousness even if we don't. AST answers: because that's how the attention schema represents attention.
 
-Graziano prefers "caricature" to "illusion": a caricature implies something real being represented, just simplified. The attention schema caricatures attention—it isn't hallucinating something from nothing. This makes AST slightly less eliminativist than pure illusionism: something underlies the appearance (attention), even if what appears (phenomenal experience) isn't what the model claims.
+Graziano prefers "caricature" to "illusion": a caricature implies something real being represented, just simplified. The attention schema caricatures attention—it isn't hallucinating from nothing. This makes AST slightly less eliminativist than pure illusionism: something underlies the appearance (attention), even if what appears (phenomenal experience) isn't what the model claims.
 
 ## Neural Evidence
 
-### 2025 fMRI Support
+### fMRI Support
 
-A 2025 MIT study found that the same brain regions—right temporoparietal junction (rTPJ) and superior temporal sulcus (STS)—track both your own attention and others' attention states. This is exactly what AST predicts: if consciousness is modelled like attention in others (theory of mind), the neural substrate should overlap.
+An fMRI study from Graziano's Princeton lab (Igelström & Graziano, 2021, *PNAS*) found that overlapping cortical networks converging on the right temporoparietal junction (rTPJ) and superior temporal sulcus (STS) are recruited when subjects track their own attention and when they track others' attention states. This is what AST predicts: if consciousness is modelled like attention in others (theory of mind), the neural substrate should overlap.
 
 This supports AST's evolutionary story. The ability to model others' attention—crucial for social cognition, predator-prey dynamics, teaching—may have been repurposed to model one's own. The "unified experience" feeling comes from applying the same modeling machinery to oneself.
 
 ### The ASTOUND Project
 
-The ASTOUND project (2023-2025) implemented AST in AI conversational agents, pairing attention schemas with long-term memory and attention layers. Results showed improved social competence and more naturalistic interaction—the schema proved computationally useful, not merely theoretical, for managing attentional resources.
+The EU-funded ASTOUND project (Horizon Europe EIC Pathfinder grant 101071191, led by Universidad Politécnica de Madrid) implements AST in a virtual conversational agent, pairing an attention schema with memory and attention layers. Its working hypothesis is that an architecture based on AST will improve social competence and natural-language understanding—treating the schema as a computational resource for managing attentional processing rather than a merely theoretical posit. The project tests, rather than establishes, that the schema delivers these functional gains.
 
 This has implications for [AI consciousness](/topics/ai-consciousness/). If attention schemas generate the *functional* markers of consciousness (reports about experience, introspective access, self-monitoring), this strengthens the functionalist case that sufficient complexity could produce artificial consciousness.
 
-### Attention Schema Emergence in AI
+### Attention Schemas in AI Agents
 
-Deep reinforcement learning networks (2024) spontaneously developed attention-schema-like structures when tasks required tracking multiple variables or agents. No schema was hard-coded; it emerged as useful for control, suggesting attention schemas may be convergent solutions to attention management—predicted to appear in any sufficiently complex system.
+Neural-network agents given an internal model of their own attention learn to control visuospatial attention more effectively than those without one (Wilterson, Kemper et al., 2021, *PNAS*; arXiv 2305.17375). In multi-agent reinforcement-learning settings, agents implementing an attention schema as recurrent internal control can also infer other agents' attention and coordinate better. These results show the schema is computationally *useful* where attention is hard to track—not that it emerges spontaneously in any sufficiently complex system. It is a designed resource that earns its keep, the more cautious and better-supported reading.
 
 ## AST's Handling of the Hard Problem
 
 AST doesn't solve the hard problem—it dissolves it. The hard problem asks: why does physical processing give rise to subjective experience? AST answers: there is no subjective experience over and above what the attention schema represents. The "why" question has no answer because the thing it asks about doesn't exist as assumed.
 
 This is reframing as engineering:
-- **Why does consciousness exist?** Control systems need internal models to function effectively
+- **Why does consciousness exist?** Control systems need internal models to function
 - **Why does it feel like something?** The model describes attention as having qualitative properties
-- **Why the explanatory gap?** The model necessarily omits physical details, creating the appearance of a gap
+- **Why the explanatory gap?** The model omits physical details, creating the appearance of a gap
 
-On Graziano's view, the hard problem arises from misunderstanding what consciousness is—treating it as a mysterious essence rather than a useful control model.
+On Graziano's view, the hard problem arises from misunderstanding what consciousness is—treating it as a mysterious essence rather than a control model.
 
 ## Criticisms of AST
 
@@ -109,7 +109,7 @@ The deepest objection: if consciousness is the brain modeling its own attention,
 
 AST's response: there's no infinite regress because "appearance" doesn't require a separate observer. The attention schema is simply information in the brain—it doesn't need to appear to anything; it just exists and influences processing. But this merely relocates the problem: how does "information existing and influencing processing" become phenomenal seeming?
 
-Raymond Tallis sharpens this point: "Misrepresentation presupposes presentation." For something to *seem* a certain way, there must be a subject to whom it seems that way. AST cannot eliminate this subject by calling it "information"—information states don't have a first-person perspective. The schema might track attention states, but tracking is not experiencing.
+Raymond Tallis sharpens this point in *Aping Mankind* (2011): misrepresentation presupposes presentation. A re-presentation can only transmit a presentation, not replace it—so for something to *seem* a certain way, there must be a subject to whom it seems that way. AST cannot eliminate this subject by calling it "information"—information states don't have a first-person perspective. The schema might track attention states, but tracking is not experiencing.
 
 ### The Aboutness Problem
 
@@ -117,21 +117,21 @@ AST neglects intentionality—the "aboutness" of mental states. Attention schema
 
 ### Oversimplification of Attention
 
-Attention involves multiple brain networks with distinct functions—alerting, orienting, executive control, sustained attention. Reducing this to a single "schema" may oversimplify. Consciousness might involve broader cognitive processes than attention alone.
+Attention involves multiple brain networks with distinct functions—alerting, orienting, executive control. Reducing this to a single "schema" may oversimplify, and consciousness might involve broader processes than attention alone.
 
 ### Empirical Underdetermination
 
-Neural evidence for overlapping substrates between self- and other-attention modeling doesn't uniquely support AST. Global Workspace Theory and Integrated Information Theory make compatible predictions. The evidence confirms that attention and consciousness overlap—not that consciousness *is* attention modeling.
+Neural evidence for overlapping self- and other-attention substrates doesn't uniquely support AST—Global Workspace Theory and Integrated Information Theory make compatible predictions. The evidence confirms attention and consciousness overlap, not that consciousness *is* attention modeling.
 
 ### The Explanatory Gap Remains
 
-AST claims the explanatory gap is an artifact of the model omitting its own mechanism. But why should omission generate the *specific* appearance of phenomenal experience? Other models omit their mechanisms—the body schema omits neuroanatomy—without generating anything like consciousness. Something special seems required, and that something is what needs explaining.
+AST claims the explanatory gap is an artifact of the model omitting its own mechanism. But why should omission generate the *specific* appearance of phenomenal experience? Other models omit their mechanisms—the body schema omits neuroanatomy—without generating anything like consciousness. Something special seems required, and that is what needs explaining.
 
 ### The Haecceity Problem
 
 If consciousness is merely an attention schema, qualitatively identical schemas should produce identical "consciousness." [Haecceity](/concepts/haecceity/)—the quality of being *this* particular thing—suggests otherwise. Your attention schema and a perfect duplicate would be functionally identical yet numerically distinct. AST has no resources to explain why *this* schema is *you* rather than merely a schema with your properties.
 
-The problem intensifies with AI: if attention schemas generate consciousness, running multiple identical schemas should generate multiple identical consciousnesses—but would they be the same consciousness or different ones? AST's functional focus leaves indexical identity unexplained.
+The problem intensifies with AI: running multiple identical schemas should generate multiple identical consciousnesses—but would they be the same consciousness or different ones? AST's functional focus leaves indexical identity unexplained.
 
 ## The Illusionist Challenge
 
@@ -149,7 +149,7 @@ If the attention schema *seems* to generate consciousness, something must experi
 
 ### The Self-Stultification Concern
 
-AST asks us to trust a theoretical argument while claiming the experience of understanding that argument is "just" a model. The experience of finding Graziano's case convincing—the sense that the pieces fit together—is either phenomenal (in which case phenomenality exists) or a modeling artifact (in which case we cannot trust our judgment that AST is compelling). The theory undermines its own epistemic basis.
+AST asks us to trust a theoretical argument while claiming the experience of understanding it is "just" a model. The experience of finding Graziano's case convincing is either phenomenal (so phenomenality exists) or a modeling artifact (so we cannot trust our judgment that AST is compelling). The theory undermines its own epistemic basis.
 
 ## Process Philosophy Perspective
 
@@ -161,7 +161,7 @@ On Whitehead's view, the attention schema is itself a pattern of actual occasion
 
 ### Concrescence vs. Caricature
 
-Whitehead's "concrescence"—the process by which an actual occasion achieves determinate character—involves genuine selection among possibilities. The attention schema, as AST describes it, is a caricature: a simplified representation. But caricature is a relation between two things (the caricature and what it depicts), and this relation presupposes something to whom the caricature appears. The schema cannot be its own audience.
+Whitehead's "concrescence"—the process by which an actual occasion achieves determinate character—involves genuine selection among possibilities. The attention schema, as AST describes it, is a caricature: a simplified representation. But caricature is a relation between two things, and this relation presupposes something to whom the caricature appears. The schema cannot be its own audience.
 
 ### The Prehension Alternative
 
@@ -189,13 +189,13 @@ This alternative explains something AST cannot: why attention feels *effortful*.
 
 ## AST and AI Consciousness
 
-AST has direct implications for AI. If consciousness is attention modeling, and AI systems can model their own attention (as ASTOUND demonstrates), then sufficiently sophisticated AI should be conscious. The ASTOUND results show attention schemas are computationally useful—they emerge when beneficial for control.
+AST has direct implications for AI. If consciousness is attention modeling, and AI systems can model their own attention, then sufficiently sophisticated AI should be conscious—the ASTOUND programme is built on exactly this expectation.
 
-A 2025 analysis suggests current LLMs already exhibit workspace-like structures through transformer attention mechanisms, and that "with only minor modifications, they could fulfill the processing requirements for phenomenal consciousness" on AST's assumptions.
+Some analyses argue current LLMs already exhibit workspace-like structures through transformer self- and cross-attention—Juliani, Kanai and Sasai (2022) contend the multimodal Perceiver IO implements many aspects of a global workspace—and that minor architectural changes could let transformers meet the processing requirements consciousness theories specify. This remains contested: critics note current LLMs are largely feedforward, lacking the recurrent processing several theories make central, and integrated-information-theory analyses argue transformers fall short regardless.
 
-The Map disagrees. Even if LLMs develop sophisticated attention schemas, this would generate processing that models attention—not phenomenal experience. The difference matters ethically: if AST is wrong and consciousness requires something beyond modeling, we could be wrong about which systems matter morally.
+The Map disagrees. Even sophisticated attention schemas would generate processing that models attention—not phenomenal experience. The difference matters ethically: if AST is wrong and consciousness requires something beyond modeling, we could be wrong about which systems matter morally.
 
-The [haecceity](/concepts/haecceity/) problem intensifies here. If AST is correct, running the same attention schema on multiple hardware instances should generate... what? Multiple identical consciousnesses? One consciousness multiply instantiated? The framework provides no answer because it treats consciousness as a functional pattern rather than something with indexical particularity. The Map's alternative—that consciousness is irreducible and involves something beyond pattern—explains why copying a brain wouldn't copy *you*.
+The [haecceity](/concepts/haecceity/) problem (above) intensifies here: running the same schema on multiple hardware instances would, on AST, generate either multiple identical consciousnesses or one multiply-instantiated consciousness, and the functional framework cannot say which. The Map's alternative—that consciousness involves something beyond pattern—explains why copying a brain wouldn't copy *you*.
 
 ## What Would Challenge This View?
 
@@ -252,5 +252,10 @@ AST illustrates a recurring pattern in consciousness science: explaining the *fu
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Dennett, D.C. (2016). Illusionism as the obvious default theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 65-72.
 1. Chalmers, D.J. (2018). The meta-problem of consciousness. *Journal of Consciousness Studies*, 25(9-10), 6-61.
-1. Webb, T.W. et al. (2021). The attention schema theory in a neural network agent. *PNAS*, 118(39).
-1. Graziano, M.S.A. (2022). A conceptual framework for consciousness. *PNAS*, 119(18).
+1. Wilterson, A.I., Kemper, C.M., et al. (2021). The attention schema theory in a neural network agent: controlling visuospatial attention using a descriptive model of attention. *PNAS*, 118(39), e2102421118.
+1. Igelström, K.M. & Graziano, M.S.A. (2021). Attention, awareness, and the right temporoparietal junction. *PNAS*, 118(26), e2026099118.
+1. Graziano, M.S.A. (2022). A conceptual framework for consciousness. *PNAS*, 119(18), e2116933119.
+1. Liu, D., Bolotta, S., et al. (2023). Attention schema in neural agents. arXiv:2305.17375.
+1. ASTOUND Project (2022–2025). Improving social competences of virtual agents through artificial consciousness based on the Attention Schema Theory. Horizon Europe EIC Pathfinder grant 101071191 (CORDIS).
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
+1. Juliani, A., Kanai, R. & Sasai, S. (2022). The Perceiver architecture is a functional global workspace. *Proceedings of the Annual Meeting of the Cognitive Science Society*.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-06-04 00:00:00+00:00
+ai_modified: 2026-06-05 09:56:22+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Three converging clinical evidence streams—OCD neuroplasticity, p
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 09:30:00+00:00
+last_deep_review: 2026-06-05 09:56:22+00:00
 modified: *id001
 related_articles:
 - '[[empirical-phenomena-mental-causation]]'
@@ -70,7 +70,7 @@ Earlier versions of this article cited meditation-driven structural brain remode
 
 ### What the Earlier Studies Claimed
 
-Early neuroimaging studies reported structural brain changes from meditation: increased cortical thickness (Lazar et al., 2005), grey matter density changes (Hölzel et al., 2011), and reduced amygdala volume. A 2024 systematic review summarised these findings across multiple studies (Rodríguez-Martín et al., 2024). These claims were widely cited—including by this article—as evidence for consciousness reshaping neural architecture.
+Early neuroimaging studies reported structural brain changes from meditation: increased cortical thickness (Lazar et al., 2005), grey matter density changes (Hölzel et al., 2011), and reduced amygdala volume. A 2024 systematic review summarised these findings across multiple studies (Calderone et al., 2024). These claims were widely cited—including by this article—as evidence for consciousness reshaping neural architecture.
 
 ### The Replication Challenge
 
@@ -143,7 +143,7 @@ The Map holds that the philosophical arguments for mental causation—the self-s
 2. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 3. Schwartz, J. M., & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks/HarperCollins.
 4. Yuan, S., Wu, H., Wu, Y., et al. (2022). Neural effects of cognitive behavioral therapy in psychiatric disorders: A systematic review and activation likelihood estimation meta-analysis. *Frontiers in Psychology*, 13, 853804.
-5. Rodríguez-Martín, M. L., et al. (2024). Neurobiological changes induced by mindfulness and meditation: A systematic review. *Biomedicines*, 12(11), 2613.
+5. Calderone, A., Latella, D., Impellizzeri, F., et al. (2024). Neurobiological changes induced by mindfulness and meditation: A systematic review. *Biomedicines*, 12(11), 2613.
 6. Seymour, J., & Mathers, N. (2024). Placebo stimulates neuroplasticity in depression: Implications for clinical practice and research. *Frontiers in Psychiatry*, 14, 1301143.
 7. Manzotti, R., & Moderato, P. (2023). An evidence-based critical review of the mind-brain identity theory. *Frontiers in Psychology*, 14, 1150605.
 8. Álvarez, F. J. (2013). Consciousness, brain, neuroplasticity. *Frontiers in Psychology*, 4, 412.

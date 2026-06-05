@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-06-03 00:00:00+00:00
+ai_modified: 2026-06-05 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -46,15 +46,15 @@ topics:
 - '[[topics/free-will]]'
 ---
 
-Several scientific proposals explain how consciousness might interact with physics at the quantum level—scientifically engaged theories, still contested, proposing mechanisms by which consciousness could influence brain activity without violating physical law.
+Several scientific proposals explain how consciousness might interact with physics at the quantum level—still contested, proposing mechanisms for consciousness to influence brain activity without violating physical law.
 
-The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet aligns with these approaches: consciousness operates at quantum indeterminacies, biasing undetermined outcomes without injecting energy. The Map favours [non-retrocausal conscious selection](/topics/forward-in-time-conscious-selection/) — forward-in-time frameworks that avoid the metaphysical costs of backward causation. For how these mechanisms fit into the Map's broader research programme, see [Comparing Quantum Consciousness Mechanisms](/topics/comparing-quantum-consciousness-mechanisms/).
+The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet aligns with these approaches: consciousness operates at quantum indeterminacies, biasing undetermined outcomes without injecting energy. The Map favours [non-retrocausal conscious selection](/topics/forward-in-time-conscious-selection/) — forward-in-time frameworks that avoid the metaphysical costs of backward causation. For how these mechanisms fit the Map's broader research programme, see [Comparing Quantum Consciousness Mechanisms](/topics/comparing-quantum-consciousness-mechanisms/).
 
 **Map position vs. headline reading.** Several mechanisms below were originally formulated under a "consciousness causes collapse" headline (most directly the [von Neumann–Wigner lineage](/concepts/von-neumann-wigner-interpretation/)). The Map's thesis is weaker: collapse occurs universally whether or not anyone is conscious—[objective-collapse mechanisms](/concepts/spontaneous-collapse-theories/) supply the baseline—and consciousness *modulates* statistics within those events at its own neural interface. The mechanisms here are evaluated as candidate *modulation* mechanisms, not as causes of collapse-as-such. This distinction dissolves the [prebiotic](/concepts/prebiotic-collapse/) and [multi-observer](/concepts/multi-mind-collapse-problem/) problems without surrendering causal efficacy.
 
 ## The Quantum Opening
 
-The quantum opening addresses [mental causation](/concepts/mental-causation-and-downward-causation/). Kim's exclusion argument concludes that if physical events have sufficient physical causes, mental causes are excluded. But quantum mechanics provides an alternative.
+The quantum opening addresses [mental causation](/concepts/mental-causation-and-downward-causation/). Kim's exclusion argument concludes that if physical events have sufficient physical causes, mental causes are excluded. Quantum mechanics provides an alternative.
 
 The [measurement problem](/concepts/measurement-problem/) asks: what causes superposition collapse? Physics leaves this open—"Decoherence does not tell how and why only one of these outcomes is measured" (Tomaz et al. 2025). At quantum indeterminacies, [causal closure](/concepts/causal-closure/) fails: physical causes are necessary but not sufficient. **An important caveat**: this gap may be epistemic rather than ontological—future physics could close it without invoking consciousness. Interpretations like QBism and relational quantum mechanics dissolve the measurement problem without Many Worlds. The Map's position is that collapse is a real physical event requiring a selector, but this is a philosophical commitment, not a settled result. If consciousness determines which outcome occurs, it causes physical events without competing with physical causes. The [structural parallel between the measurement problem and the hard problem](/topics/quantum-measurement-and-consciousness/)—both concerning where first-person facts enter third-person descriptions—suggests these are not separate puzzles but two faces of the mind-matter interface. A further constraint sharpens the point: consciousness appears constitutively definite—unable to enter the indeterminate states that characterise superposition. This [definiteness constraint](/topics/consciousness-in-smeared-quantum-states/) means the selector never follows the brain into indeterminacy, operating from experiential definiteness while resolving the brain's superposed possibilities.
 
@@ -108,7 +108,7 @@ This offers a route around the decoherence challenge through nuclear spin isolat
 
 ## Protective Mechanisms for Quantum Coherence
 
-The decoherence objection assumed biological systems are too warm and wet for quantum effects. Proposed protective mechanisms challenge this: hydrophobic microtubule interiors, metabolic energy pumping (Fröhlich coherence), nuclear spin isolation, and ordered cytoplasm structure. Hagan et al.'s theoretical estimates extend coherence times from Tegmark's 10⁻¹³ seconds to 10⁻⁵ seconds (seven orders of magnitude), though these assume near-perfect thermal shielding—an assumption most condensed matter physicists regard as optimistic—and 10⁻⁵ seconds remains three orders of magnitude shorter than ~300ms neural decisions.
+The decoherence objection assumed biological systems are too warm and wet for quantum effects. Proposed protective mechanisms challenge this: hydrophobic microtubule interiors, metabolic energy pumping (Fröhlich coherence), nuclear spin isolation, and ordered cytoplasm structure. Hagan et al.'s theoretical estimates extend coherence times from Tegmark's 10⁻¹³ seconds to 10⁻⁵ seconds (seven orders of magnitude), though these assume near-perfect thermal shielding—an assumption most condensed matter physicists regard as optimistic—and 10⁻⁵ seconds still falls three orders of magnitude short of ~300ms neural decisions.
 
 ## The Decoherence Challenge
 
@@ -130,20 +130,20 @@ This is a separate challenge. Even granting that the measurement problem leaves 
 
 ## What These Theories Share
 
-Despite differences, these theories share several commitments (though none is empirically established):
+Despite differences, these theories share several commitments (none yet empirically established):
 
 1. **Consciousness plays a physical role**—it biases which outcomes occur within the Born distribution rather than causing collapse from outside physics
 2. **The interface is at quantum indeterminacies**—where physics is genuinely undetermined
 3. **No energy violation**—consciousness shapes outcomes without adding energy (see [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/))
 4. **Many Worlds is rejected**—collapse is real, outcomes genuinely selected
 
-All are compatible with [adaptive computational depth](/concepts/adaptive-computational-depth/)—the principle that reality need not maintain maximum detail everywhere, concentrating determination where consciousness attends. The allocator's non-computability resolves the regress any computational allocation mechanism would face.
+All are compatible with [adaptive computational depth](/concepts/adaptive-computational-depth/)—the principle that reality need not maintain maximum detail everywhere, concentrating determination where consciousness attends.
 
-The theories differ in [coupling mode](/concepts/coupling-modes/): Orch OR implies probability control (collapse at mass threshold), Stapp emphasizes basis and timing control (Process 1 and Zeno effect), Fisher's mechanism operates through entanglement structure. This diversity raises the question of [interface-heterogeneity](/concepts/interface-heterogeneity/)—whether different organisms might exploit different quantum mechanisms for consciousness-matter coupling. All face the [amplification problem](/voids/amplification-void/): the chain from quantum-scale nudge to macroscopic neural effect passes through regimes where chaotic dynamics make the pathway structurally untraceable.
+The theories differ in [coupling mode](/concepts/coupling-modes/): Orch OR implies probability control (collapse at mass threshold), Stapp emphasizes basis and timing control (Process 1 and Zeno effect), Fisher's mechanism operates through entanglement structure. This diversity raises the question of [interface-heterogeneity](/concepts/interface-heterogeneity/)—whether different organisms might exploit different mechanisms for consciousness-matter coupling. All face the [amplification problem](/voids/amplification-void/): the chain from quantum-scale nudge to macroscopic neural effect passes through regimes where chaotic dynamics make the pathway structurally untraceable.
 
 ## The Prebiotic and Multi-Mind Problems
 
-Two objections arise: What caused collapse before conscious observers existed? And whose consciousness counts when multiple observers are involved?
+Two objections arise: what caused collapse before conscious observers existed, and whose consciousness counts when multiple observers are involved?
 
 The [prebiotic collapse](/concepts/prebiotic-collapse/) problem distinguishes two timelines. The *cosmological* timeline spans 13.8 billion years before any minds—star formation, chemical evolution, early Earth. The *phylogenetic* timeline concerns when consciousness emerged in biological evolution. Objective reduction handles the cosmological question; consciousness-collapse interfacing addresses the phylogenetic one.
 
@@ -159,15 +159,13 @@ Quantum entanglement is different—entangled systems form genuinely unified who
 
 ## The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/) claims consciousness is illusion—but the regress problem poses a serious challenge: if consciousness is an illusion, there must be something it *seems like* to have the illusion. The seeming is phenomenal. Moreover, even if qualia were illusions, the quantum selection problem persists—*something* must select among outcomes where physics leaves them undetermined.
+[Illusionism](/concepts/illusionism/) claims consciousness is illusion—but the regress problem poses a serious challenge: there must be something it *seems like* to have the illusion, and the seeming is itself phenomenal. Moreover, even if qualia were illusions, the quantum selection problem persists—*something* must select among outcomes where physics leaves them undetermined.
 
 ## Distinguishing from "Quantum Woo"
 
 **Serious proposals** make specific testable predictions, respect conservation laws, engage with mainstream physics, and acknowledge empirical challenges.
 
-**"Quantum woo"** uses "quantum" as a magic word, claims consciousness affects macroscopic objects at will, ignores decoherence, and makes unfalsifiable claims.
-
-These proposals are contested but engage real physics.
+**"Quantum woo"** uses "quantum" as a magic word, claims consciousness affects macroscopic objects at will, ignores decoherence, and makes unfalsifiable claims. These proposals are contested but engage real physics.
 
 ## A Convergent Critic: Duch's Classical-Computational Alternative
 

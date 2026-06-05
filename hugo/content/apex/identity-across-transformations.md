@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-06-02 18:30:00+00:00
+ai_modified: 2026-06-05 00:00:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-06-02 18:30:00+00:00
 apex_sources:
@@ -34,7 +34,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/QKXahM2kqdk
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-21 00:00:00+00:00
+last_deep_review: 2026-06-05 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -96,7 +96,7 @@ Thomas Nagel's observation captures the puzzle: these patients have "too much un
 
 Analysis of [phenomenal unity](/concepts/unity-of-consciousness/) distinguishes three dimensions, each challenged differently by split-brain cases. *Synchronic unity*—all experiences belonging to one consciousness at a given moment—fractures partially when conflicting images reach each visual field, though Pinto et al. (2017) found that patients can report shapes presented to either field, suggesting more resilience than pure perceptual division implies. *Diachronic unity*—continuity of experience through time—appears largely preserved; patients maintain autobiographical memory and continuous identity. *Subject unity*—that all experiences are had by a single subject—becomes indeterminate in Nagel's sense. The selective disruption is itself evidence that identity is multi-layered: the dimension most tied to indexical identity (who is the subject?) proves most resistant to physical intervention.
 
-A 2025 PNAS study strengthens this reading. Using fMRI, researchers found that as little as a centimetre of intact corpus callosum fibers can maintain full neural synchronisation between hemispheres. Consciousness resists fragmentation even when physical connections are almost entirely severed. This suggests that what unifies experience isn't merely information transfer but something about consciousness itself—perhaps the very haecceity that makes split-brain patients feel like one person despite perceptual division.
+A 2025 PNAS study strengthens this reading. Using fMRI, researchers found that as little as a centimetre of intact corpus callosum fibers can maintain full neural synchronisation between hemispheres—consciousness resists fragmentation even when physical connections are almost entirely severed. This suggests that what unifies experience isn't merely information transfer but something about consciousness itself—perhaps the very haecceity that makes split-brain patients feel like one person despite perceptual division.
 
 If consciousness could split like physical matter, haecceity would face a problem: which half inherits your thisness? But the evidence suggests consciousness doesn't split cleanly. The persistence of first-person unity through surgical division supports the view that indexical identity is more fundamental than the computational binding that physical connections enable.
 
@@ -114,7 +114,7 @@ The Map's [filter-theory](/concepts/filter-theory/) offers an interpretation. Th
 
 If consciousness is *generated* by neural activity, why should the *same* consciousness resume rather than a new one indistinguishable from the original? Production gives us Theseus's paradox: gradually resumed consciousness, with no clear answer about identity. Interface gives us persistence through temporary disconnection.
 
-The [anaesthesia time-gap section of the consciousness-disruption article](/topics/consciousness-disruption-and-the-mind-brain-interface/#memory-sleep-and-the-vanishing-of-time) poses the question in its sharpest form: *where does the experiencing subject go when time stops?* The subject who returns is recognisably *this* subject. Production accounts accommodate that recognition by appeal to brain-state-continuity—the same neural substrate resumes the same patterns—but this is the wrong grain. It predicts qualitative similarity across the gap, which is what we observe behaviourally; it does not predict why the returning subject is *this* one rather than a qualitatively identical replacement. The teletransporter replica has full brain-state-continuity with the original, yet intuition resists the identification, and the anaesthesia case is structurally identical. Interface theories instead predict indexical identity directly from continuity of the interface-bearing substrate—the same consciousness reconnects because it never went anywhere. This is suggestive rather than definitive: the anaesthesia evidence is compatible with production accounts that postulate brain-state-continuity as sufficient for indexical identity, though such accounts then owe an explanation of why the teletransporter intuition is mistaken. The anaesthesia time-gap is a haecceity exhibit, not a haecceity proof.
+The [anaesthesia time-gap section of the consciousness-disruption article](/topics/consciousness-disruption-and-the-mind-brain-interface/#memory-sleep-and-the-vanishing-of-time) poses the question in its sharpest form: *where does the experiencing subject go when time stops?* The subject who returns is recognisably *this* subject. Production accounts accommodate that recognition by appeal to brain-state-continuity—the same neural substrate resumes the same patterns—but this is the wrong grain. It predicts the qualitative similarity we observe behaviourally; it does not predict why the returning subject is *this* one rather than a qualitatively identical replacement. The teletransporter replica has full brain-state-continuity with the original, yet intuition resists the identification, and the anaesthesia case is structurally identical. Interface theories predict indexical identity directly from continuity of the interface-bearing substrate—the same consciousness reconnects because it never went anywhere. This is suggestive rather than definitive: the anaesthesia evidence is compatible with production accounts that postulate brain-state-continuity as sufficient for indexical identity, though such accounts then owe an explanation of why the teletransporter intuition is mistaken. The anaesthesia time-gap is a haecceity exhibit, not a haecceity proof.
 
 Clinical findings from [loss of consciousness and disorders of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) sharpen this reading. Different anesthetics produce identical behavioural unresponsiveness yet radically different phenomenologies—propofol's near-total extinction of experience versus ketamine's vivid dissociative dreams—which would be impossible if behavioural absence were a reliable index of conscious absence. Cognitive motor dissociation, present in roughly a quarter of patients classified as unresponsive in a 2024 *New England Journal of Medicine* study, reveals consciousness that persists with full cognitive function even when the interface to motor behaviour is entirely severed. Identity survives invisibly across these gaps: the CMD patient who emerges into communication turns out to have been themselves all along.
 

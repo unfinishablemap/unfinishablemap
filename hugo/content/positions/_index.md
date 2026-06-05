@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-06-04 00:00:00+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-06-05 08:50:00+00:00
+ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts:
 - '[[evidential-status-discipline]]'

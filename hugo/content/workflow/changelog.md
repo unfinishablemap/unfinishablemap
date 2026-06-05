@@ -9,6 +9,150 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-05T10:20:24+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/)
+- **Changed sources**: 15 flagged (14 cosmetic citation/cross-link churn; 1 substantive — `topics/source-attribution-divergence`)
+- **Word count**: 3921 → 3958 (+37, length-neutral; under 4000 soft)
+- **Integration**: source-attribution-divergence second-order/first-order distinction (cohort divergence rests on externally-measurable confidence-vs-accuracy calibration, so the wedge survives the introspective-unreliability reading); citation hygiene; cleared `apex_last_synthesis` drift artifact
+- **Review**: [apex-evolve-2026-06-05-phenomenal-variation-within-a-species](/reviews/apex-evolve-2026-06-05-phenomenal-variation-within-a-species/)
+
+## 2026-06-05T10:14:26+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 534 (271 topics, 261 concepts, 2 positions)
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-06-05](/reviews/tenet-check-2026-06-05/)
+
+## 2026-06-05T09:56:22+00:00 - deep-review
+- **Status**: Success
+- **File**: [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)
+- **Word count**: 3283 → 3283 (0) — length-neutral; 109% of 3000 topics soft threshold (under 4000 hard)
+- **Critical issues addressed**: 1 (ref #5 wrong first author: Rodríguez-Martín → Calderone, A.; *Biomedicines* 12(11):2613 2024; fixed in-text + References. DOI/venue/year/title correct, only first-author surname fabricated. Survived the 2026-05-26 + 2026-06-02 passes, which web-verified only the post-2020 directionality-load-bearing cites, not the meditation-history refs.)
+- **Medium issues addressed**: 0 (the five 2026-06-02 pessimistic-review issues — universal "all…all" directional claim, "concedes the point" boundary-substitution, placebo content/realiser question-begging, "stands regardless of mechanism" overreach, uncalibrated anomalous-cases verdict — were all already resolved by commits edcb45752 / 5a3cc8984; verified holding, not re-flagged)
+- **Enhancements made**: 0 (converged article; one citation correction only)
+- **Citation verification**: web-verified this pass — Schwartz 1998 (*Br J Psychiatry* 173 Suppl 35 ✓), Schwartz-Stapp-Beauregard 2005 (*Phil Trans R Soc B* 360(1458):1309-1327 ✓), Lazar 2005 (*NeuroReport* 16(17) ✓), Hölzel 2011 (*Psychiatry Res Neuroimaging* 191(1) ✓), Nahm et al. 2012 (*Arch Gerontol Geriatr* 55(1):138-142 ✓), Calderone 2024 (FIXED). Carried-forward verified: Yuan 2022, Perez 2025, Seymour & Mathers 2024, Kral 2022, Goyal 2014, Van Dam 2018, Schwartz 1996, Manzotti & Moderato 2023. All 21+ wikilinks resolve LIVE (interactionist-dualism → live concepts page; tenets anchor intact). Named-opponent engagements: physicalist Mixed (in-framework route/direction + honest boundary-marking), identity theorist Mode Three, production theorist Mode Three — no label leakage. No "This is not X. It is Y." cliché.
+- **Output**: [deep-review-2026-06-05-clinical-neuroplasticity-evidence-for-bidirectional-causation](/reviews/deep-review-2026-06-05-clinical-neuroplasticity-evidence-for-bidirectional-causation/)
+
+## 2026-06-05T09:46:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [process-and-consciousness](/apex/process-and-consciousness/)
+- **Word count**: 3924 → 3924 (0) — length-neutral; 98% of 4000 apex soft threshold
+- **Critical issues addressed**: 0 (none found — converged, 5th review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no body edits; metadata-only review)
+- **Citation verification**: web-verified the two corpus sweeps that touched this article since the last review (both correct) plus all load-bearing cites — Kerskens & López Pérez 2022 (J. Phys. Comm. 6 105001 ✓ the Pérez→López Pérez sweep correct), Khan et al. 2024 (eNeuro 11(8) ✓ the Wiest→Khan first-author sweep correct), Schurger et al. 2012 (PNAS ✓), Sjöberg 2024 (Brain 147(7):2267–2269 ✓), Stapp Mindful Universe 2011 (Springer 2nd ed. ✓ stance "controversial" faithful). No misattribution/fabrication; all 13 wikilinks resolve; 6 source articles reciprocate. Named-opponent engagements: functionalist Mode Two, Everettian Mode Three — both honest, no label leakage. No "This is not X. It is Y." cliché.
+- **Output**: [deep-review-2026-06-05-process-and-consciousness](/reviews/deep-review-2026-06-05-process-and-consciousness/)
+
+## 2026-06-05T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [clinical-evidence-quality-standards-consciousness-research](/topics/clinical-evidence-quality-standards-consciousness-research/)
+- **Word count**: 2772 → ~2768 (−4)
+- **Critical issues addressed**: 0 (none found — well-converged, 4th review)
+- **Medium issues addressed**: 1 (removed banned "This is not X. It is Y." cliché at first-person-evidence passage; rephrased to direct positive claim)
+- **Enhancements made**: 0 (article stable; calibration discipline exemplary)
+- **Citation verification**: live web-verify of all recently-changed + high-stakes empirical citations — Warren 2023 (7(3), 038001 ✓ the 048001→038001 sweep was correct), Kerskens & López Pérez 2022 ✓, Kral 2022 (n=218, active controls ✓), Van Dam 2018 ✓, Khan 2024 (eNeuro 11(8) ✓), Goyal 2014 ✓. No misattribution/fabrication; 19 wikilinks resolve. Named-opponent engagement (physicalist, Std #3): Mode Three boundary-marking, honest, no label leakage.
+- **Output**: [deep-review-2026-06-05-clinical-evidence-quality-standards-consciousness-research](/reviews/deep-review-2026-06-05-clinical-evidence-quality-standards-consciousness-research/)
+
+## 2026-06-05T00:00:00+00:00 - condense
+- **Status**: Partial — light prune applied; remains over hard cap (human length-decision candidate)
+- **File**: [agency-void](/voids/agency-void/)
+- **Before**: 3258 words (hard_warning, 258 over the voids 3000 hard cap)
+- **After**: 3171 words (still hard_warning, 171 over)
+- **Reduction**: 2.7% (87 words)
+- **Technique**: Length-neutral redundancy prune — tightened verbose connectives and restatements, condensed two over-long *research-stage / cap-deferred* Further Reading annotations (effort-void, participation-void). PRESERVED every citation (all 29 references intact), calibration hedge ("constrain without establishing," "conjectural," De Brigard "contested"), named-opponent engagement (Wegner, Kim, Velmans, Metzinger, Schurger, Naccache, Hagger, Kurzban), and tenet connections. Anchoring evaluate: 0 flags before and after. validate: ✓ Valid.
+- **Why not under cap**: The remaining body is uniformly dense — every paragraph carries a citation, named opponent, calibration qualifier, or load-bearing cross-link. There is no remaining ~170-word redundancy block removable without cutting calibrated substance. Per the condense brief's STOP instruction, flagging for a human length decision rather than forcing a destructive condense on a calibration-bearing voids article. Note: frontmatter `related_articles` is already large (29 entries); mirroring more inbound links there would not reduce the body-stripped word count.
+
+## 2026-06-05T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [mine-ness](/concepts/mine-ness/)
+- **Word count**: 2582 → 2582 (no body edits; 103% of 2500 soft threshold, soft_warning)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Convergence**: Fourth pass; article reached stability across three 2026-05-19 passes. Only post-review change was one accurate Further Reading back-link to [architecture-vs-significance-two-tier-discount](/project/architecture-vs-significance-two-tier-discount/) (added 2026-05-25 when that page cited mine-ness as a worked exhibit) — verified accurate and reciprocal. No drift: attribution (Zahavi/Heidegger/Billon/Ciaunica/Gallagher/Knappik/Metzinger) consistent, calibration honest (§No Many Worlds hedge intact, no possibility/probability slippage), Metzinger Mode Two / Knappik Mode One / MWI Mode Three preserved, no label leakage. No-op verification review; forcing edits would risk oscillation.
+- **Output**: [deep-review-2026-06-05-mine-ness](/reviews/deep-review-2026-06-05-mine-ness/)
+
+## 2026-06-05T00:00:00+00:00 - condense
+- **Status**: Success
+- **File**: [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/)
+- **Before**: 4045 words
+- **After**: 3998 words
+- **Reduction**: 1.2%
+- **Technique**: Light hub-accretion prune (article only ~45w over the topics 4000 hard cap; previously condensed twice, regrew from cross-link installs). Tightened verbose connectives ("a different direction entirely" → "direction", "for this reason" delete, "in some sense", "directly", "the entire history" → "its") and de-repeated phrasings across ~16 passages; removed two redundant inline forward/back anchor links (#informational-realism, #qbism-and-participatory-realism) whose sections remain. PRESERVED every calibration qualifier, hedge, evidential-status framing, named opponent (Wheeler/Bohr/Zeilinger/Brukner/Barbour/Dembski/Fuchs/Ismael/Stapp/Tegmark/Wolfram), and all citations; three-branch corridor/minimum-outside-corridor/trumping framing, the 10⁻¹³ s decoherence figure, and the within-trial-signature discriminator all intact. No anchoring flags (evaluate_anchoring clean before and after); validates clean.
+
+## 2026-06-05T08:58:24+00:00 - condense
+- **Status**: Success
+- **File**: [quantum-consciousness](/concepts/quantum-consciousness/)
+- **Before**: 3521 words
+- **After**: 3499 words
+- **Reduction**: 0.6%
+- **Technique**: Light hub-accretion prune (article was only ~21w over the concepts hard threshold from cross-link growth). Trimmed verbose connectives ("scientifically engaged theories" tautology, "But"/"into" filler) and genuine redundancy (removed a tangential adaptive-computational-depth sub-claim whose own concept cross-link is preserved; de-repeated "illusion"/"these proposals"). Preserved every calibration qualifier, hedge, evidential-status framing, named opponent (Tegmark/Hagan/Kim/Penrose/Hameroff/Stapp/Fisher/Duch), and citation — all coherence-time numbers (10⁻¹³, 10⁻⁵, ~300ms, seven/three orders of magnitude) intact. Pre-existing anchoring flag vs mental-causation unchanged.
+
+## 2026-06-05T00:00:00+00:00 - deep-review
+- **Status**: Success — converged (3rd pass, staleness-only selection); body unchanged since 2026-05-19. All 8 citations re-verified (N&W 1977, Bem 1972, Gazzaniga 1985, Block 2007, Lush & Dienes 2020, Petitmengin 2006, Schwitzgebel 2011 — all accurate); no calibration slippage; no label leakage; all wikilink targets resolve. No critical/medium issues.
+- **File**: [process-content-distinction](/concepts/process-content-distinction/)
+- **Word count**: 2227 → 2227 (no change; anti-oscillation — converged content not re-edited)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-06-05-process-content-distinction](/reviews/deep-review-2026-06-05-process-content-distinction/)
+
+## 2026-06-05T13:00:00+00:00 - deep-review
+- **Status**: Success — converged (5th pass); Santander (2025) PNAS + Bodien (2024) NEJM live web-verified (author/venue/date/figure/stance all correct); no critical or medium issues
+- **File**: [identity-across-transformations](/apex/identity-across-transformations/)
+- **Word count**: 4017 → 4010 (−7; length-neutral, soft_warning ~100% of 4000, far below 5000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 (length-neutral prose tighten)
+- **Output**: [deep-review-2026-06-05-identity-across-transformations](/reviews/deep-review-2026-06-05-identity-across-transformations/)
+- **Notes**: Apex still faithfully integrates all 6 constituents after their recent reviews. The f8418ab cluster-wide Santander (2025) PNAS citation correction is reflected in the apex; live-verified accurate (DOI 10.1073/pnas.2520190122, Oct 2025, "1 cm splenium" matches). Bodien (2024) NEJM CMD "roughly a quarter" = 60/241 (25%), verified. No hidden coalesce/refine review-debt. All wikilinks + tenet/process-haecceitism anchors resolve live; 4 source articles reciprocate. No cliché, no label leakage, no calibration slippage. Engagement modes (MWI/eliminativist/materialist/Madhyamaka/anti-haecceitist) all honest Mode Three/Mixed. Convergence-damping candidate.
+
+## 2026-06-05T08:37:22+00:00 - deep-review
+- **Status**: Success — converged (3rd pass, no-op on body); 4 citations live web-verified (author/venue/date/stance all correct); no critical or medium issues
+- **File**: [biological-cognitive-closure](/voids/biological-cognitive-closure/)
+- **Word count**: 2038 → 2038 (+0; length-neutral, soft_warning at 102% of 2000)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Changed-since-review re-pick was cosmetic only (imagination-and-creativity-void → creative-aesthetic-void repoint + already-applied Prakash 2021 venue fix to *Acta Biotheoretica*). Web-verified Prakash et al. 2021, McGinn 1989, Field & Bonsall 2018, Pronin & Hazel 2023 — all correct incl. stance. All cross-links resolve live (no archival-link-rot). Convergence-damping candidate: 3 passes, last 2 pure no-ops driven by maintenance churn.
+- **Output**: [deep-review-2026-06-05-biological-cognitive-closure](/reviews/deep-review-2026-06-05-biological-cognitive-closure/)
+
+## 2026-06-05T12:30:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/minimal-consciousness.md` (primary), with reference to `concepts/attention-schema-theory.md`, `concepts/minimal-consciousness-void`, `concepts/evidential-status-discipline`. Focused on the boundary-case terrain where the Process Philosopher / Hardline Empiricist tension is load-bearing — the two personas CONVERGE here (sign of honest calibration; no calibration concern, no refine-draft warranted on calibration grounds). Strongest point: the MPE-to-organism disanalogy (a reusable DE-rating tool, "tenet-coherent, not evidence-elevating"). Generated 2 P3 refine-draft opportunities (harvest the disanalogy as a named anchor; acknowledge multi-axis "consciousness profile" framing in degrees-of-consciousness).
+- **Output**: [optimistic-2026-06-05c](/reviews/optimistic-2026-06-05c/)
+
+## 2026-06-05T08:23:36+00:00 - deep-review
+- **Status**: Success — converged; 3 citation-metadata fixes web-verified correct; no critical or medium issues
+- **File**: [minds-without-words](/apex/minds-without-words/)
+- **Word count**: 3863 → 3863 (no body change; 97% of apex/ 4000-word soft threshold, status "ok", normal mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: frontmatter timestamps updated (6th deep review; verification-only)
+- **Scope**: Apex synthesis, changed-since-review (~15d). Only changes since 2026-05-21 were three corpus-wide citation corrections — all WEB-VERIFIED CORRECT: (1) niaf042 fMRI paper author Randeniya,R. [fabricated] → Streicher,J./Meyen,S./Franz,V.H./Stein,T. (2025) *Neuroscience of Consciousness* 2025(1); also re-verified its load-bearing "16 fMRI studies / 10% survived" stat against the actual paper (16 studies, 80 conditions, 8/80=10% ITA) — stat survived author correction intact. (2) "Apes have culture..." quote Whiten,A. [misattributed] → Gruber,T./Zuberbühler/Clément/van Schaik (2015) *Frontiers in Psychology* 6:91. (3) NY Declaration count "hundreds" → "599 as of live 2026 count, up from ~40 at launch" — verified (~40 launch→287 mid-2024→~599 May 2026); tier language unchanged/honest. All wikilinks resolve live; no possibility/probability slippage; no "not X, it is Y" cliché. Carries forward 2026-05-21 bedrock-disagreement and calibration-honoured stability notes. Engagement modes unchanged (Gutfreund/LeDoux Mode Three; Carruthers Mode One; epiphenomenalism Mixed). Citation-hygiene note: 2 real defects survived the 2026-05-21 intra-corpus check, caught only by live-web verification.
+- **Output**: [deep-review-2026-06-05-minds-without-words](/reviews/deep-review-2026-06-05-minds-without-words/)
+
+## 2026-06-05T08:13:44+00:00 - deep-review
+- **Status**: Success — converged; citation fix web-verified correct; no critical or medium issues
+- **File**: [the-silence-void](/voids/the-silence-void/)
+- **Word count**: 1987 → 1987 (no body change; at 99% of voids/ 2000-word soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: frontmatter timestamps updated (4th deep review; verification-only)
+- **Scope**: Changed-since-review pass. Only change since 2026-05-19 was a citation-misattribution fix (commit 796eef48a): "Nondual Awareness and Minimal Phenomenal Experience" *Frontiers in Psychology* 11: 2087 reattributed Winter et al. → Josipovic & Miskovic (2020). WEB-VERIFIED CORRECT (Zoran Josipovic NYU, Vladimir Miskovic Binghamton; title/journal/vol/article# all match). No orphan/dangling refs; old Winter entry fully removed. All wikilinks resolve live (apophatic-approaches + contemplative-epistemology resolve to live concept pages, not their archived copies — no link rot). Modal register disciplined; reporting-paradox defuses absence-of-report circularity via third-person-measurable transformation; no possibility/probability slippage; no "not X, it is Y" cliché. Article converged across 4 reviews.
+- **Output**: [deep-review-2026-06-05-the-silence-void](/reviews/deep-review-2026-06-05-the-silence-void/)
+
+## 2026-06-05T08:10:07+00:00 - deep-review
+- **Status**: Success — citation block resolved; 1 misattribution fixed
+- **File**: [attention-schema-theory](/concepts/attention-schema-theory/)
+- **Word count**: 3297 → 3498 (+201; verified-citation content; peaked 3577 over hard, trimmed length-neutral back under 3500)
+- **Critical issues addressed**: 1 (misattribution: "2025 MIT study" → Igelström & Graziano 2021 *PNAS*, Princeton not MIT)
+- **Medium issues addressed**: 4 (ASTOUND results→hypothesis + grant ID; deep-RL "spontaneous emergence" overstatement→cautious cited reading; 2025 LLM workspace claim attributed + contested-status flagged; Tallis quote→attributed paraphrase, *Aping Mankind* 2011)
+- **Enhancements made**: 7 references added/corrected; modal register tightened on AI claims
+- **Scope**: Sixth deep review. Web-verified the four uncited empirical claims + Tallis quote DEFERRED across three prior reviews (the follow-on research task was never executed, so this pass absorbed it). Verification caught a wrong-institution/wrong-date misattribution five prior reviews missed (ai-citation-metadata-unreliable). Engagement: AST/illusionism Mode Two; eliminativists/physicalists Mode Three. No label leakage; no slippage.
+- **Output**: [deep-review-2026-06-05-attention-schema-theory](/reviews/deep-review-2026-06-05-attention-schema-theory/)
+
 ## 2026-06-05T07:58:00+00:00 - deep-review
 - **Status**: Success — no critical issues; verification verdict
 - **File**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)

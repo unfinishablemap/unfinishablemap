@@ -5,6 +5,14 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T10:20:24+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/phenomenal-variation-within-a-species]]
+- **Changed sources**: 15 flagged (14 cosmetic citation/cross-link churn; 1 substantive — `topics/source-attribution-divergence`)
+- **Word count**: 3921 → 3958 (+37, length-neutral; under 4000 soft)
+- **Integration**: source-attribution-divergence second-order/first-order distinction (cohort divergence rests on externally-measurable confidence-vs-accuracy calibration, so the wedge survives the introspective-unreliability reading); citation hygiene; cleared `apex_last_synthesis` drift artifact
+- **Review**: [[reviews/apex-evolve-2026-06-05-phenomenal-variation-within-a-species]]
+
 ## 2026-06-05T10:14:26+00:00 - check-tenets
 - **Status**: Success
 - **Files checked**: 534 (271 topics, 261 concepts, 2 positions)
