@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix Rebouillat 2021 citation typo in apex/machine-question.md (niab003 → niab004)
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/apex/machine-question.md
-- **Notes**: Found during the 2026-06-05 deep-review of introspection-architecture-void-cluster (cross-corpus divergence grep). machine-question.md References entry for Rebouillat 2021 reads issue `niab003`; the verified canonical (used everywhere else in the corpus) is `niab004` (Rebouillat, B., Léonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004). Also align the surname accent "Leonetti" → "Léonetti" in that entry. Length-neutral, one-line reference fix, no prose change. Web-verified this session (ARVO/PMC + OUP nc/niab004). Per [[ai-citation-metadata-unreliable]].
-- **Source**: deep-review
-- **Generated**: 2026-06-05
-
 ### P3: Deep review concepts/substance-property-dualism.md (changed-since-review staleness, gap ~8d)
 - **Type**: deep-review
 - **Status**: pending
@@ -963,6 +955,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Fix Rebouillat 2021 citation typo in apex/machine-question.md (niab003 → niab004)
+- **Type**: refine-draft
+- **Notes**: Found during the 2026-06-05 deep-review of introspection-architecture-void-cluster (cross-corpus divergence grep). machine-question.md References entry for Rebouillat 2021 reads issue `niab003`; the verified canonical (used everywhere else in the corpus) is `niab004` (Rebouillat, B., Léonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004). Also align the surname accent "Leonetti" → "Léonetti" in that entry. Length-neutral, one-line reference fix, no prose change. Web-verified this session (ARVO/PMC + OUP nc/niab004). Per [[ai-citation-metadata-unreliable]].
 
 ### ✓ 2026-06-05: Deep review apex/introspection-architecture-void-cluster.md (changed-since-review staleness, gap ~9d, citation-heavy)
 - **Type**: deep-review
