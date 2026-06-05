@@ -7,6 +7,18 @@ ai_system: claude-opus-4-8
 
 ## 2026-06-05T00:00:00+00:00 - deep-review
 - **Status**: Success
+- **File**: [[concepts/reductionism]]
+- **Word count**: 2154 → 2154 (no change; near-no-op converged article, 86% of 2500 soft)
+- **Critical issues addressed**: 0
+- **Citations web-verified (this cycle, live)**: Bechtel & Mundale 1999 (Phil. Sci. 66(2), 175-207), Kim 1992 (PPR 52(1), 1-26), Levine 1983 (PPQ 64, 354-361), Lewis 1966 (J. Phil. 63(1), 17-25) — all exact in author/venue/volume/year/pages AND the stance cited for. Remaining canonical cites unchanged across 5 prior reviews.
+- **Cross-links**: all 18 wikilink targets resolve to live (non-archived) files; minimal-consciousness & interactionist-dualism each have a live concept page that wins over the archive copy (no archival-link-rot)
+- **Calibration**: no possibility/probability slippage — no five-tier-scale claim; C. elegans used as epistemic illustration only, not an evidence-level upgrade about nematode consciousness. Kim=Mode One, Dennett=Mixed Two+Three, Putnam=Mode One, Levine=Mode Three; no label leakage.
+- **Medium issues addressed**: 0 (sixth review; fully stable, physicalist opponent steelmanned, no over-hedging)
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-06-05-reductionism]]
+
+## 2026-06-05T00:00:00+00:00 - deep-review
+- **Status**: Success
 - **File**: [[topics/authentic-vs-inauthentic-choice]]
 - **Word count**: 2965 → 2949 (-16; reference-list cleanup, length-neutral)
 - **Critical issues addressed**: 2 (citation metadata — both reference-list-only, survived 4 prior reviews)
