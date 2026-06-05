@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-05T02:00:00+00:00
+ai_modified: 2026-06-05T03:00:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-05T03:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/valence-and-conscious-selection]]
+- **Task**: Thicken the value-blind / mechanism-only steelman in the value-in-mechanism fork cluster (optimistic-2026-06-05 High-Priority opportunity; Tenet-5 / evidential-status discipline — steelman the horn the Map does NOT hold).
+- **Changes**:
+  - ASSESS-FIRST verdict: the cluster develops the value-SENSITIVE horn richly and the value-BLIND horn thinly, confirming the optimistic review's "strawman by attrition" concern. The natural home for the value-blind *selection* horn is valence-and-conscious-selection (not the wanting-liking fork, whose mechanism-only horn was deep-reviewed earlier today and is already adequate — left as a deliberate near-no-op per task note + review verdict).
+  - Added a new "### The Positive Case for Value-Blindness" subsection (between "What Value-Blind Selection Preserves" and "The Problem") giving the rejected horn its strongest independent statement on three pillars: (1) parsimony + Minimal Quantum Interaction (one coupling vs two; value-blindness is the *more minimal* dualism), (2) mechanism-availability (attentional channel has a worked physical implementation — Stapp/Eccles — valence has none), (3) explanatory sufficiency (valence can inform attention as a sensor without entering the selection law). Closes by noting the Map does NOT hold it but would be *forced* to if mechanism-availability and parsimony were the only arbiters — keeping the calibrated register (steelmanning ≠ upgrading the value-blind reading to the Map's position).
+  - Fixed an LLM-cliché "This is not full epiphenomenalism" construct → "The tension stops short of full epiphenomenalism" (CLAUDE.md forbidden pattern).
+  - LENGTH DISCIPLINE: article was at 3737w (263w headroom) and the steelman pushed it over the 4000 hard ceiling, so the addition was balanced by length-neutral tightening of the over-developed value-sensitive passages ("What 'Currency' Means" 3→2 dense paras, Bandwidth, Evolutionary, Why-Not-Attention-Alone, Map's-Current-Lean, Anticipated-vs-experienced). Final: 3997w, soft_warning, UNDER hard ceiling. validate.py clean.
+- **Published**: yes
 
 ## 2026-06-05T00:00:00+00:00 - refine-draft
 - **Status**: Success
