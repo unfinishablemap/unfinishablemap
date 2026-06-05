@@ -4,7 +4,7 @@ description: "Consciousness flows through time in the specious present—Bergson
 created: 2026-01-14
 modified: 2026-03-15
 human_modified: null
-ai_modified: 2026-06-02T07:53:02+00:00
+ai_modified: 2026-06-05T14:00:02+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -77,7 +77,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-05-29T07:40:19+00:00
+last_deep_review: 2026-06-05T14:00:02+00:00
 coalesced_from:
   - "/concepts/temporal-consciousness/"
   - "/concepts/specious-present/"
@@ -225,7 +225,7 @@ Temporal consciousness connects to all five tenets:
 1. Bergson, H. (1896/1988). *Matter and Memory*. Zone Books.
 1. Bergson, H. (1907/1998). *Creative Evolution*. Dover.
 1. Clay, E.R. (1882). *The Alternative*.
-1. Dainton, B. (2008). "The Experience of Time and Change." *Philosophy Compass*, 3(4), 619-652.
+1. Dainton, B. (2008). "The Experience of Time and Change." *Philosophy Compass*, 3(4), 619-638.
 1. Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Hagan, S., Hameroff, S.R., & Tuszynski, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
