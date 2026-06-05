@@ -5,6 +5,16 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T00:00:00+00:00 - deep-review
+- **Status**: Success (converged — no changes; citations re-verified)
+- **File**: [[concepts/libet-experiments]]
+- **Word count**: 3069 → 3069 (no change; 123% of concepts soft threshold, under hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamps only)
+- **Scope**: 7th deep review (changed-since-review, Tenet 3). Only change since review 6 (2026-05-21) was a citation page-range edit applied during a `volitional-control` cross-link cascade cycle (commit 6cc4e4354): Sjöberg (2024) `2267-2274` → `2267-2269`. Web-verified that edit is a CORRECTION — live citation is *Brain* 147(7) pp. 2267–2269 (DOI 10.1093/brain/awae180), and Sjöberg's stance ("futility of the debate"; "completely irrelevant") is faithfully represented. Also web-verified the two other multi-paper-author load-bearing citations the scope flagged: Soon et al. (2008) *Nat Neurosci* 11(5) 543–545 (✓, incl. "10 s" + ~60% claims) and Schurger et al. (2012) *PNAS* 109(42) E2904–E2913 (✓, incl. page range, accumulator model, "takes the sting out" quote, no dualist overclaim of the stochastic reinterpretation). Calibration diagnostic PASSES (no five-tier scale, no tenet-as-evidence-upgrade; falsifiability section labels position "empirical territory"). Named-opponent engagements: Dennett Mode One, standard-interpretation Mode Two, MWI Mode Three — no label leakage, no boundary substitution. All 7 scope-flagged cross-links resolve live (no archival rot). No hidden review debt. Article fully stable across ~4.5 months.
+- **Output**: [[reviews/deep-review-2026-06-05-libet-experiments]]
+
 ## 2026-06-05T06:30:00+00:00 - deep-review
 - **Status**: Success (converged — one cosmetic fix)
 - **File**: [[concepts/anti-correlated-metacognitive-signal]]
