@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-05T15:14:29+00:00
+ai_modified: 2026-06-05T17:14:57+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-05T17:14:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-collective-phenomena]]
+- **Source**: pessimistic-2026-06-05d (surgical calibration fixes; phenomenology sections preserved verbatim; central dualist thesis preserved)
+- **Changes**:
+  - HIGH (1) interface argument — downgraded "Without a physical interface, the Map's framework provides no mechanism for group consciousness" to model-relative "the Map's framework predicts that groups are not conscious," explicitly flagged as a model-relative consequence, not an independence impossibility proof. Same fix to the "specific reason groups cannot be conscious" line in Relation to Site Perspective.
+  - MEDIUM (2) "Instructive Asymmetry" circularity — reframed so the asymmetry illustrates the framework rather than serving as independent evidence; noted the null hypothesis predicts the same observation. In Relation to Site Perspective, "supports this" → "is consistent with this and does not embarrass it," with explicit note that a physicalist locating consciousness in individual brains predicts the same absence.
+  - MEDIUM (3) unfalsifiable framing — "predicts exactly the phenomenological structure observed" → "is consistent with — and economically accommodates —"; added what would disconfirm (a group-level phenomenal subject, or a physically realised channel).
+  - (a) No-Many-Worlds para — engagement with the MWI theorist classified Mode Three (framework-boundary): made the claim explicitly conditional (if normativity needs a single actual outcome), noted the MWI theorist can deny the antecedent via branch-relative normativity, and flagged the residue as a boundary disagreement honestly noted, not a refutation.
+  - (b) IIT — added IIT's own exclusion-postulate point (only local maxima of Φ are conscious → aggregates of conscious individuals are not further conscious). Web-verified the Tononi/Koch exclusion-postulate / low-Φ-for-aggregates claim before asserting.
+  - (c) ape clause — cut the "specific neural-quantum interfaces" non-sequitur (Tomasello evidence is silent on quantum substrates); replaced with "cognitive resources mere social intelligence does not supply."
+  - (d) epiphenomenalism — "too direct and too pervasive to dismiss as correlation" → "difficult to dismiss as mere correlation, though it falls short of proof"; added the Map's reply on why the correlate-only story owes a content-tracking account without reintroducing comprehension.
+- **Preserved**: Galton 1907 Nature 75:450-451 cite untouched (verified correct). All phenomenology sections (Zahavi/Schmid/Tomasello/effervescence) verbatim.
+- **Length**: 3611w body (soft_warning; under 4000 hard). Net +~376w from calibration content; trimmed two heaviest additions to stay well under hard ceiling.
+- **Published**: yes
 
 ## 2026-06-05T19:30:00+00:00 - pessimistic-review
 - **Status**: Success
