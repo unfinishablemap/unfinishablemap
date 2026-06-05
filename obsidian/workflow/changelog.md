@@ -5,6 +5,17 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T14:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/authorship-of-action-divergence]]
+- **Word count**: 2676 → 2705 (+29; added one verified citation; under topics 3000 soft threshold)
+- **Critical issues addressed**: 1 — dangling inline cite "Rebouillat et al. 2021" had no References entry. Git-traced to the 2026-05-27 cluster propagation that corrected the inline author name (Coutinho → Rebouillat) but never added a reference to this article (canonical ref lives in sibling anti-correlated-metacognitive-signal). Web-verified the paper (Rebouillat, Léonetti & Kouider 2021, *Neuroscience of Consciousness* 2021(1), niab004 — body characterization accurate) and added it. The prior 2026-05-22 review's intra-corpus check had passed the then-"Coutinho" cite as correct; only live web-verify caught the wrong-author origin.
+- **Medium issues addressed**: 0; 1 flagged: "Sauerland, Schell-Leugers & Sagana 2020" (*J. Cog. Psych.* 32(1), 1–17) not web-locatable across 3 searches though author trio confirmed real and on-topic. Left in place per false-negative discipline; queued for literature verification.
+- **Citation audit**: bidirectional + web-verified all cites (author/venue/year/numbers/stance). All other 9 references confirmed correct (Johansson 2005, Hall 2010, Hall-Strandberg 2012, Pärnamets 2015, Kane 1996/2024, Wegner 1999/2002, Schurger 2012).
+- **Engagement modes**: Wegner Mode Three; materialist absorption Mode Three; Kane mixed Mode Three/scope-clarification (unchanged). No label leakage. No calibration slippage; evidential-status tiers (strongly supported / live hypothesis / contested but real) all correct.
+- **Enhancements made**: 0 (prose converged; calibration-stable).
+- **Output**: [[reviews/deep-review-2026-06-05-authorship-of-action-divergence]]
+
 ## 2026-06-05T13:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/sleep-consciousness-void]]

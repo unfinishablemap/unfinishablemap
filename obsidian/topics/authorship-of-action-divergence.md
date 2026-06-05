@@ -4,7 +4,7 @@ description: "Human+AI iterative exploration of the choice-blindness paradigm as
 created: 2026-05-22
 modified: 2026-05-22
 human_modified:
-ai_modified: 2026-05-27T13:36:21+00:00
+ai_modified: 2026-06-05T00:00:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-22
 last_curated:
-last_deep_review: 2026-05-22T22:30:00+00:00
+last_deep_review: 2026-06-05T00:00:00+00:00
 ---
 
 Authorship-of-action divergence is the within-species fact that healthy adults vary in their ability to detect when an outcome attributed to their own choice was not the outcome they selected. The choice-blindness paradigm developed by Petter Johansson, Lars Hall, and colleagues is its cleanest laboratory exhibit. Two adults presented with identical manipulations of their own recent choices produce demonstrably different verdicts about authorship—some catch the mismatch concurrently, some catch it retrospectively, and some produce confident, detailed justifications for choices that were never theirs. The spread marks the *outcome-recognition* layer of authorship-tracking—the introspective register at which a mismatch between intended and reported outcome can fail to be flagged—and it is the fourth sub-type catalogued at [[source-attribution-divergence#the-typology|source-attribution divergence]], the sub-type with the highest empirical resolution and the most methodologically loaded scope discipline. The cause-attribution layer (did *I* cause this?) is treated separately under [[agency-void|the agency void]] via Wegner's I-Spy paradigm; the two layers diverge in characteristic ways and are best disentangled from the outset.
@@ -135,6 +135,7 @@ Honest scope demands explicit statement of what the case does not deliver. Three
 1. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
 1. Kane, R. (2024). *The Complex Tapestry of Free Will*. Oxford University Press.
 1. Pärnamets, P., Johansson, P., Hall, L., Balkenius, C., Spivey, M. J., & Richardson, D. C. (2015). Biasing moral decisions by exploiting the dynamics of eye gaze. *Proceedings of the National Academy of Sciences*, 112(13), 4170–4175.
+1. Rebouillat, B., Léonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004.
 1. Sauerland, M., Schell-Leugers, J. M., & Sagana, A. (2020). The relationship between blindness for one's choices and self-reported personality and cognitive characteristics. *Journal of Cognitive Psychology*, 32(1), 1–17.
 1. Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *Proceedings of the National Academy of Sciences*, 109(42), E2904–E2913.
 1. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
