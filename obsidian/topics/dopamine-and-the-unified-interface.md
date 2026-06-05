@@ -232,6 +232,7 @@ What dopamine research provides is a candidate locus and a constraint: whatever 
 - [[volitional-control]] — Why the willed/automatic dissociation matters for dualism
 - [[consciousness-and-skill-acquisition]] — When dopamine-prepared selection meets no resistance
 - [[valence-and-conscious-selection]] — Whether the selection consciousness performs is guided by felt value (engages with Berridge's wanting/liking distinction)
+- [[wanting-liking-and-the-value-in-mechanism-fork]] — Whether Berridge's wanting/liking dissociation locates affective value in the mechanism or in the experience
 
 ## References
 

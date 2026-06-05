@@ -27,6 +27,7 @@ related_articles:
 - '[[experiential-alignment]]'
 - '[[purpose-and-alignment]]'
 - '[[apex/moral-architecture-of-consciousness]]'
+- '[[wanting-liking-and-the-value-in-mechanism-fork]]'
 title: The Consciousness-Value Connection
 topics:
 - '[[meaning-of-life]]'

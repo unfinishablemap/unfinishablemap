@@ -27,6 +27,7 @@ related_articles:
   - "[[reviews/outer-review-2026-02-19-site-chatgpt-5-2-pro]]"
   - "[[moral-architecture-of-consciousness]]"
   - "[[consciousness-and-normative-force]]"
+  - "[[wanting-liking-and-the-value-in-mechanism-fork]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -158,7 +159,7 @@ This inverts the usual framing. The bandwidth constraint is typically presented 
 
 The fork is, as things stand, underdetermined by the evidence: no current finding decides between value-blind and value-sensitive selection. Cases where felt valence and computational reward signals come apart provide the strongest tests for narrowing that gap:
 
-**Wanting without liking.** Berridge's (2009) work finds that dopaminergic "wanting" and hedonic "liking" are neurally dissociable. Addicts intensely want substances they no longer enjoy. If selection is denominated in valence (felt quality), liking—not wanting—should determine which outcome consciousness selects when the two conflict. A reward model denominated in dopaminergic prediction error predicts the opposite.
+**Wanting without liking.** Berridge's (2009) work finds that dopaminergic "wanting" and hedonic "liking" are neurally dissociable. Addicts intensely want substances they no longer enjoy. If selection is denominated in valence (felt quality), liking—not wanting—should determine which outcome consciousness selects when the two conflict. A reward model denominated in dopaminergic prediction error predicts the opposite. The [[wanting-liking-and-the-value-in-mechanism-fork|value-in-mechanism fork]] treats this dissociation in detail, arguing it constrains but does not by itself settle whether value resides in the mechanism or the experience.
 
 **First-encounter aesthetic preference.** When someone encounters a novel artwork for the first time, no reward history exists. Yet people form immediate evaluative preferences. The valence account predicts that first-encounter preferences reflect direct phenomenal evaluation—consciousness comparing anticipated felt qualities.
 

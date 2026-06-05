@@ -9,6 +9,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-05T00:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The value-in-mechanism fork (Berridge wanting/liking dissociation)
+- **Output**: [wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/)
+- **Word count**: 1437 (48% of 3000 topics target — ok)
+- **Based on research**: yes — [berridge-wanting-liking-value-in-mechanism-fork-2026-06-03](/research/berridge-wanting-liking-value-in-mechanism-fork-2026-06-03/)
+- **Note**: Calibration-disciplined: empirical dissociation framed as constrain-not-establish (refutes naive single-currency dopamine=pleasure=value; does NOT prove value-in-experience reading; Berridge cited as physicalist supplying the dissociation, NOT enlisted as a dualist). Tenet 3 engaged with explicit falsification conditions for value-sensitive-selection. Cited title corrected to "incentive-sensitization theory of addiction" per research note. Integration chain built: inbound links added FROM apex/moral-architecture-of-consciousness (§Value in the Mechanism), topics/valence-and-conscious-selection (body + related), topics/dopamine-and-the-unified-interface (Further Reading), concepts/consciousness-value-connection (related); research note related_articles set to new slug. All 12 wikilink targets verified extant; validate clean. topics count 268→269/270.
+
+## 2026-06-05T00:20:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [discrimination-problem](/concepts/discrimination-problem/)
+- **Word count**: 2876 → ~2895 (+~19, one reference line)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added missing References entry for the in-body "Rebouillat et al. 2021" citation in §Asymmetry-Breaking Signatures — citation-list gap introduced by post-review body edits; source is real/verified/canonical in [anti-correlated-metacognitive-signal](/concepts/anti-correlated-metacognitive-signal/))
+- **Enhancements made**: 1 (citation hygiene only; no prose changes)
+- **Note**: Third deep review; firmly converged. No critical issues — no misattribution, no slippage, no label leakage; tenet section keeps calibration restraint. Confirmed Rebouillat (not the pre-fix "Coutinho") is correct per corpus-wide fix 32664cb82. All cross-links verified extant. Engagements unchanged: Dennett Mode Mixed→Two; illusionism Mode Mixed; NCC Mode Mixed→Two. 115% of soft target, well below 3500 hard — no condensation.
+- **Output**: [deep-review-2026-06-05-discrimination-problem](/reviews/deep-review-2026-06-05-discrimination-problem/)
+
 ## 2026-06-05T00:12:38+00:00 - deep-review
 - **Status**: Success
 - **File**: [time-symmetric-physics](/concepts/time-symmetric-physics/)

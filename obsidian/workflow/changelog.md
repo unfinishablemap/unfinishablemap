@@ -5,6 +5,14 @@ ai_modified: 2026-06-04T23:00:22+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T00:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The value-in-mechanism fork (Berridge wanting/liking dissociation)
+- **Output**: [[topics/wanting-liking-and-the-value-in-mechanism-fork]]
+- **Word count**: 1437 (48% of 3000 topics target — ok)
+- **Based on research**: yes — [[research/berridge-wanting-liking-value-in-mechanism-fork-2026-06-03]]
+- **Note**: Calibration-disciplined: empirical dissociation framed as constrain-not-establish (refutes naive single-currency dopamine=pleasure=value; does NOT prove value-in-experience reading; Berridge cited as physicalist supplying the dissociation, NOT enlisted as a dualist). Tenet 3 engaged with explicit falsification conditions for value-sensitive-selection. Cited title corrected to "incentive-sensitization theory of addiction" per research note. Integration chain built: inbound links added FROM apex/moral-architecture-of-consciousness (§Value in the Mechanism), topics/valence-and-conscious-selection (body + related), topics/dopamine-and-the-unified-interface (Further Reading), concepts/consciousness-value-connection (related); research note related_articles set to new slug. All 12 wikilink targets verified extant; validate clean. topics count 268→269/270.
+
 ## 2026-06-05T00:20:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/discrimination-problem]]

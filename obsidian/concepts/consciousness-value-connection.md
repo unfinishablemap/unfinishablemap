@@ -23,6 +23,7 @@ related_articles:
   - "[[experiential-alignment]]"
   - "[[purpose-and-alignment]]"
   - "[[apex/moral-architecture-of-consciousness]]"
+  - "[[wanting-liking-and-the-value-in-mechanism-fork]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101

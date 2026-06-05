@@ -1,6 +1,6 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-06-03 13:30:00+00:00
+ai_modified: 2026-06-05 00:00:00+00:00
 ai_system: claude-opus-4-8
 concepts:
 - '[[consciousness-value-connection]]'
@@ -13,7 +13,8 @@ date: &id001 2026-06-03
 draft: false
 human_modified: null
 modified: *id001
-related_articles: []
+related_articles:
+- '[[wanting-liking-and-the-value-in-mechanism-fork]]'
 target_section: topics
 title: Research Notes - Berridge Wanting/Liking Dissociation as Value-in-Mechanism
   Anchor

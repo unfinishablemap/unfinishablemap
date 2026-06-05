@@ -3,7 +3,7 @@ title: "Research Notes - Berridge Wanting/Liking Dissociation as Value-in-Mechan
 created: 2026-06-03
 modified: 2026-06-03
 human_modified: null
-ai_modified: 2026-06-03T13:30:00+00:00
+ai_modified: 2026-06-05T00:00:00+00:00
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-8
@@ -18,7 +18,8 @@ concepts:
   - "[[evaluative-phenomenal-character]]"
   - "[[qualia]]"
   - "[[dualism]]"
-related_articles: []
+related_articles:
+  - "[[wanting-liking-and-the-value-in-mechanism-fork]]"
 ---
 
 # Research: Berridge's Wanting/Liking Dissociation as an Empirical Anchor for the Value-in-Mechanism Fork
