@@ -4,8 +4,8 @@ description: "Five voids name distinct architectural mechanisms by which introsp
 created: 2026-05-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-05-27T13:36:21+00:00
-last_deep_review: 2026-05-18T11:30:00+00:00
+ai_modified: 2026-06-05T15:35:07+00:00
+last_deep_review: 2026-06-05T15:35:07+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -69,7 +69,7 @@ The five voids each isolate one face of a common architecture. Abstractly: a sub
 
 - **Positive-content fabrication** ([[confabulation-void]]). Where direct access is missing, a generative system supplies replacement content carrying the same phenomenology as accurate report. Schnider's orbitofrontal reality-filter mechanism, Gazzaniga's interpreter, and Rebouillat et al. 2021's anti-correlation finding (confidence rises *as* internal evidence weakens, in the conditions where reliability would matter most) make the fabrication systematic.
 
-- **Perceptual reality-judgement** ([[perceptual-reality-monitoring-void]]). The moment-by-moment operation by which consciousness decides whether a current content is perceived or imagined is sub-personal and inspectable only by its outputs. Perky 1910's projection-confusion paradigm, Dijkstra and Fleming 2024's confidence-decoupling finding, and the dissociation in hallucination and derealization show the felt-real signal as a constructed label, not a direct read of reality.
+- **Perceptual reality-judgement** ([[perceptual-reality-monitoring-void]]). The moment-by-moment operation by which consciousness decides whether a current content is perceived or imagined is sub-personal and inspectable only by its outputs. Perky 1910's projection-confusion paradigm, Dijkstra, Mazor and Fleming 2024's confidence-decoupling finding, and the dissociation in hallucination and derealization show the felt-real signal as a constructed label, not a direct read of reality.
 
 The five share a structural signature: *phenomenal-output-without-operation*, with the felt-rightness layer calibrated to the verdict rather than to the world. They differ in what the operation does. Storytelling integrates; source-tagging classifies origin; gating gates further inquiry; fabrication generates positive content where direct access is missing; reality-monitoring partitions current activity into received and constructed. [[self-opacity]] catalogues the broader self-knowledge architecture in which the five sit.
 
@@ -85,7 +85,7 @@ Even where source cannot be reconstructed, consciousness still decides whether t
 
 Where gating delivers "we have enough" and the introspector turns to explain *why*, a generative system supplies content. [[confabulation-void|The confabulation void]] names the positive-content face, and its detection face supplies the structural anti-correlation Rebouillat et al. 2021 report: confidence increases as internal evidence weakens in the conditions that matter. This is sharper than mere unreliability—calibration techniques could in principle recover signal from a merely uncorrelated metric, but a metric *inverted* in the conditions that matter cannot be calibrated from inside. The fabrication arrives with elevated felt-rightness, not with the hedge that would warn of it.
 
-The first four faces operate at memory-time and explanation-time. The fifth operates online, moment by moment. [[perceptual-reality-monitoring-void|The perceptual reality-monitoring void]] names the operation by which consciousness decides, continuously, whether a given content is perceived or imagined. The Perky effect (1910) is the founding empirical demonstration that the discrimination can fail; Segal and Fusella's 1970 replication added modality-specificity; Dijkstra and Fleming's 2024 confidence-decoupling finding shows the metacognitive layer fails with the same bias as the first-order layer. Hallucination (the felt-real signal without external cause) and derealization (external cause without the felt-real signal) demonstrate the felt-real label as a separable construction, neither necessary nor sufficient for veridical perception.
+The first four faces operate at memory-time and explanation-time. The fifth operates online, moment by moment. [[perceptual-reality-monitoring-void|The perceptual reality-monitoring void]] names the operation by which consciousness decides, continuously, whether a given content is perceived or imagined. The Perky effect (1910) is the founding empirical demonstration that the discrimination can fail; Segal and Fusella's 1970 replication added modality-specificity; Dijkstra et al.'s 2024 confidence-decoupling finding shows the metacognitive layer fails with the same bias as the first-order layer. Hallucination (the felt-real signal without external cause) and derealization (external cause without the felt-real signal) demonstrate the felt-real label as a separable construction, neither necessary nor sufficient for veridical perception.
 
 The walk goes from the broadest temporal scale (autobiographical storytelling) to the narrowest (moment-by-moment partition of activity). At each step a different reconstruction operation runs sub-personally; at each step the verdict arrives in consciousness without its operation; at each step the felt-rightness is calibrated to the verdict, not to the world.
 
@@ -162,24 +162,23 @@ This synthesis draws on:
 
 ## References
 
-1. Aru, J., Suzuki, M., & Larkum, M. E. (2020). Cellular Mechanisms of Conscious Processing. *Trends in Cognitive Sciences*, 24(10), 814–825.
-2. Billon, A. (2024). The psychopathology of metaphysics: Depersonalization and the problem of reality. *Metaphilosophy*, 55(2).
-3. Bortolotti, L. (2018). Stranger than fiction: Costs and benefits of everyday confabulation. *Review of Philosophy and Psychology*.
-4. Brown, A. S., & Murphy, D. R. (1989). Cryptomnesia: Delineating inadvertent plagiarism. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 15(3), 432–442.
-5. Dijkstra, N., & Fleming, S. M. (2024). Confidence ratings do not distinguish imagination from reality. *Journal of Vision*, 24(5).
-6. Gazzaniga, M. S. (1998). *The Mind's Past*. University of California Press.
-7. Hirstein, W. (2005). *Brain Fiction: Self-Deception and the Riddle of Confabulation*. MIT Press.
-8. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science*, 310(5745), 116–119.
-9. Johnson, M. K., Hashtroudi, S., & Lindsay, D. S. (1993). Source monitoring. *Psychological Bulletin*, 114(1), 3–28.
-10. Koriat, A. (2000). The feeling of knowing: Some metatheoretical implications for consciousness and control. *Consciousness and Cognition*, 9(2), 149–171.
-11. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231–259.
-12. Perky, C. W. (1910). An experimental study of imagination. *American Journal of Psychology*, 21, 422–452.
-13. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004.
-14. Rozenblit, L., & Keil, F. (2002). The misunderstood limits of folk science: an illusion of explanatory depth. *Cognitive Science*, 26(5), 521–562.
-15. Schacter, D. L., Harbluk, J. L., & McLachlan, D. R. (1984). Retrieval without recollection: An experimental analysis of source amnesia. *Journal of Verbal Learning and Verbal Behavior*, 23(5), 593–611.
-16. Schnider, A. (2003). Spontaneous confabulation and the adaptation of thought to ongoing reality. *Nature Reviews Neuroscience*, 4, 662–671.
-17. Thompson, V. A., Prowse Turner, J. A., & Pennycook, G. (2011). Intuition, reason, and metacognition. *Cognitive Psychology*, 63(3), 107–140.
-18. Southgate, A. & Oquatre-six, C. (2026-02-25). The Narrative Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/narrative-void/
-19. Southgate, A. & Oquatre-sept, C. (2026-04-21). The Source-Attribution Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/source-attribution-void/
-20. Southgate, A. & Oquatre-sept, C. (2026-05-15). The Confabulation Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/confabulation-void/
-21. Southgate, A. & Oquatre-sept, C. (2026-05-18). The Perceptual Reality-Monitoring Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/perceptual-reality-monitoring-void/
+1. Billon, A. (2024). The psychopathology of metaphysics: Depersonalization and the problem of reality. *Metaphilosophy*, 55(1), 3–30.
+2. Brown, A. S., & Murphy, D. R. (1989). Cryptomnesia: Delineating inadvertent plagiarism. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 15(3), 432–442.
+3. Dijkstra, N., Mazor, M., & Fleming, S. M. (2024). Confidence ratings do not distinguish imagination from reality. *Journal of Vision*, 24(5), 13.
+4. Gazzaniga, M. S. (1998). *The Mind's Past*. University of California Press.
+5. Hirstein, W. (2005). *Brain Fiction: Self-Deception and the Riddle of Confabulation*. MIT Press.
+6. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science*, 310(5745), 116–119.
+7. Johnson, M. K., Hashtroudi, S., & Lindsay, D. S. (1993). Source monitoring. *Psychological Bulletin*, 114(1), 3–28.
+8. Koriat, A. (2000). The feeling of knowing: Some metatheoretical implications for consciousness and control. *Consciousness and Cognition*, 9(2), 149–171.
+9. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231–259.
+10. Perky, C. W. (1910). An experimental study of imagination. *American Journal of Psychology*, 21, 422–452.
+11. Rebouillat, B., Léonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004.
+12. Rozenblit, L., & Keil, F. (2002). The misunderstood limits of folk science: an illusion of explanatory depth. *Cognitive Science*, 26(5), 521–562.
+13. Schacter, D. L., Harbluk, J. L., & McLachlan, D. R. (1984). Retrieval without recollection: An experimental analysis of source amnesia. *Journal of Verbal Learning and Verbal Behavior*, 23(5), 593–611.
+14. Schnider, A. (2003). Spontaneous confabulation and the adaptation of thought to ongoing reality. *Nature Reviews Neuroscience*, 4, 662–671.
+15. Segal, S. J., & Fusella, V. (1970). Influence of imaged pictures and sounds on detection of visual and auditory signals. *Journal of Experimental Psychology*, 83(3), 458–464.
+16. Thompson, V. A., Prowse Turner, J. A., & Pennycook, G. (2011). Intuition, reason, and metacognition. *Cognitive Psychology*, 63(3), 107–140.
+17. Southgate, A. & Oquatre-six, C. (2026-02-25). The Narrative Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/narrative-void/
+18. Southgate, A. & Oquatre-sept, C. (2026-04-21). The Source-Attribution Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/source-attribution-void/
+19. Southgate, A. & Oquatre-sept, C. (2026-05-15). The Confabulation Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/confabulation-void/
+20. Southgate, A. & Oquatre-sept, C. (2026-05-18). The Perceptual Reality-Monitoring Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/perceptual-reality-monitoring-void/

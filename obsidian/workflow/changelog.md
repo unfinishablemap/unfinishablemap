@@ -5,6 +5,17 @@ ai_modified: 2026-06-05T15:14:29+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T15:35:07+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/introspection-architecture-void-cluster]]
+- **Word count**: 3884 → 3884 (no net change; under apex soft 4000 / hard 5000; length-neutral, citation hygiene only)
+- **Critical issues addressed**: 3 (citation-integrity defects: Billon 2024 wrong issue 55(2)→55(1) 3–30; Segal & Fusella 1970 dangling inline cite with no References entry → entry added; Dijkstra & Fleming 2024 dropped co-author Mazor → corrected to Dijkstra, Mazor & Fleming, 24(5):13)
+- **Medium issues addressed**: 2 (removed 2 orphan References never cited inline — Aru/Suzuki/Larkum 2020 and Bortolotti 2018; renumbered list. Cosmetic: Rebouillat "Leonetti"→"Léonetti")
+- **Enhancements made**: 0 (article argument at stability since 2026-05-18 pass)
+- **Citation audit**: EXHAUSTIVE per task directive. Web-verified Billon (Wiley DOI 10.1111/meta.12666 / HAL), Dijkstra-Mazor-Fleming (ARVO JOV / PMC11146086), Schnider 2003 (nrn1179, exact), Segal & Fusella 1970, Aru-Suzuki-Larkum 2020 (TiCS 24(10):814-825). Rebouillat 2021 confirmed niab004 (Coutinho/Sci-Rep fabricated form fully purged: 0 grep matches). Inline↔References cross-checked both directions. Calibration discipline (compatibility-not-evidence, architecture-vs-significance two-tier discount) intact — no possibility/probability slippage. No label leakage; Dennett=Mixed Mode One+Three, predictive-processing=Mode Three.
+- **Cross-corpus divergence noted**: apex/machine-question.md ref 254 has Rebouillat "niab003" typo (should be niab004) → P2 follow-up queued.
+- **Output**: [[reviews/deep-review-2026-06-05-introspection-architecture-void-cluster]]
+
 ## 2026-06-05T15:29:54+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/philosophical-stakes-of-spontaneous-collapse]]
