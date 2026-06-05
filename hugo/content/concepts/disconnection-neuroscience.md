@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-05-19 20:45:00+00:00
+ai_modified: 2026-06-05 00:30:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: 'The Geschwind framework: higher cognitive deficits arise when whit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-19 07:08:00+00:00
+last_deep_review: 2026-06-05 00:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

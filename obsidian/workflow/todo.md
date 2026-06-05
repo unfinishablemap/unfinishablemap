@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Reciprocal cross-links — noetic-feelings-void and minimal-consciousness to edge-states
-- **Type**: cross-review
-- **Status**: pending
-- **File**: obsidian/voids/noetic-feelings-void.md
-- **Notes**: From outer review 2026-06-05 (ChatGPT 5.5 Pro), improvement items 9 and 13 (multi-file — do NOT drop either page, see [[multifile-task-dropped-file]]). (1) [[noetic-feelings-void]]: add a reciprocal link to [[edge-states-and-void-probes]] noting psychedelic/mystical noesis and dissolving insight as high-salience cases of heuristic felt-knowing — the noetic-feelings machinery is what tests edge-insight claims. (2) [[concepts/minimal-consciousness]]: add a reusable caution block on analogizing human content-stripped (MPE) awareness to simple-organism experience, which the edge-states "nematode from below / MPE from above" comparison can then cite in-line rather than only via Further Reading. Both are length-neutral cross-link installs; confirm the edge-states refine (P2 above) lands first so the reciprocal targets exist. Honour [[evidential-status-discipline]].
-- **Review file**: `reviews/outer-review-2026-06-05-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-05
-
 ### P2: Deep review apex/machine-question.md (changed-since-review staleness, gap ~16d)
 - **Type**: deep-review
 - **Status**: pending
@@ -860,6 +851,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Reciprocal cross-links — noetic-feelings-void and minimal-consciousness to edge-states
+- **Type**: cross-review
+- **Notes**: From outer review 2026-06-05 (ChatGPT 5.5 Pro), improvement items 9 and 13 (multi-file — do NOT drop either page, see [[multifile-task-dropped-file]]). (1) [[noetic-feelings-void]]: add a reciprocal link to [[edge-states-and-void-probes]] noting psychedelic/mystical noesis and dissolving insight as high-salience cases of heuristic felt-knowing — the noetic-feelings machinery is what tests edge-insight claims. (2) [[concepts/minimal-consciousness]]: add a reusable caution block on analogizing human content-stripped (MPE) awareness to simple-organism experience, which the edge-states "nematode from below / MPE from above" comparison can then cite in-line rather than only via Further Reading. Both are length-neutral cross-link installs; confirm the edge-states refine (P2 above) lands first so the reciprocal targets exist. Honour [[evidential-status-discipline]].
 
 ### ✓ 2026-06-05: Adopt valence calibration in wanting-liking-and-the-value-in-mechanism-fork
 - **Type**: refine-draft

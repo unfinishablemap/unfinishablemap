@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-06-05 00:00:00+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-06-05 12:00:00+00:00
+ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts:
 - '[[post-decoherence-selection]]'
@@ -43,11 +43,12 @@ These positions cover what the Map currently holds about the mechanism by which 
 
 - **Status**: live
 - **Confidence**: moderate
-- **Asserts**: Among the live mechanism proposals for how consciousness might influence quantum outcomes in neural systems, the post-decoherence selection family is currently the Map's preferred candidate. It is preferred because it sidesteps the warm-wet decoherence-timescale objection that Tegmark and others have pressed against pre-decoherence proposals (Stapp-Zeno, Orch-OR): selection acts on already-decohered branch-outcomes rather than on coherent neural superpositions. The preference is held as a working stance rather than a settled result; no worked toy model of the mechanism currently exists (see P-Q10).
-- **Depends on**: Tenets 2 and 3; [post-decoherence-selection](/concepts/post-decoherence-selection/); the decoherence-timescale argument
+- **Asserts**: Among the live mechanism proposals for how consciousness might influence quantum outcomes in neural systems, the post-decoherence selection family is currently the Map's preferred candidate. It is preferred because it sidesteps the warm-wet decoherence-timescale objection that Tegmark and others have pressed against pre-decoherence proposals (Stapp-Zeno, Orch-OR): selection acts on already-decohered branch-outcomes rather than on coherent neural superpositions. This advantage is confined to the *decoherence-timescale* axis; it does not address the bias-without-deviation dilemma — the residual question of *what* is actually selected once outcomes are Born-fixed, and *how* without deviating from those weights — which is relocated rather than resolved by moving after decoherence and is tracked as its own live challenge in P-Q3. The preference is held as a working stance rather than a settled result; no worked toy model of the mechanism currently exists (see P-Q10).
+- **Depends on**: Tenets 2 and 3; [post-decoherence-selection](/concepts/post-decoherence-selection/); the decoherence-timescale argument; P-Q3 (inherits its open dilemma)
 - **Argued in**: [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/), [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/), [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
 - **Would shift if**: a working coherence-time calculation supporting pre-decoherence proposals in neural tissue lands; or post-decoherence selection turns out to require a mechanism (e.g., a retrocausal or final-boundary structure) that itself faces fatal physical objections; or a fourth mechanism class emerges that handles the decoherence problem with fewer commitments.
-- **Last reviewed**: 2026-06-04
+- **Updated 2026-06-05**: calibration pass (pessimistic-2026-06-05) — clarified the decoherence-timescale advantage does not discharge the bias-without-deviation dilemma; routed that residual to P-Q3. No confidence change.
+- **Last reviewed**: 2026-06-05
 
 ## P-Q2: The default reading of MQI preserves Born statistics exactly
 
@@ -123,11 +124,12 @@ These positions cover what the Map currently holds about the mechanism by which 
 
 - **Status**: live
 - **Confidence**: moderate
-- **Asserts**: Given the Map's tenets — minimal interaction, Born-statistics preservation, no detectable signal in aggregate — the interface is structurally selected to leave only indirect traces. This is a framework-internal architectural claim, not an empirical result, and does not raise the probability that the tenets are correct. Its value is that it predicts the pattern of evidence the framework should and should not produce: the absence of a direct neural quantum-interface signature is what the framework predicts, so its absence is not disconfirming; the presence of one would be surprising.
-- **Depends on**: Tenets 2 and 3; P-Q2; P-Q7
-- **Argued in**: [self-concealing-interface](/apex/self-concealing-interface/)
+- **Asserts**: Given the Map's tenets — minimal interaction, Born-statistics preservation, no detectable signal in aggregate — the interface is structurally selected to leave only indirect traces. This is a framework-internal architectural claim, not an empirical result, and does not raise the probability that the tenets are correct. Its value is that it predicts the pattern of evidence the framework should and should not produce: the absence of a direct neural quantum-interface signature is what the framework predicts, so its absence is not disconfirming; the presence of one would be surprising. Self-concealment is local to the *aggregate-statistics channel* only — it is not a global unfalsifiability shield. The framework retains real empirical exposure at the mechanism level (P-Q5, P-Q6: the Donadi falsification of parameter-free Diósi-Penrose is a live constraint that did bite) and through the falsification roadmap (see [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/)). So the residue the framework still risks is positive and named: a coherence-time result, a microtubule-signature result, or a mechanism-level test can disconfirm specific positions in this register even though the aggregate-statistics channel is, by construction, silent.
+- **Depends on**: Tenets 2 and 3; P-Q2; P-Q7; P-Q5; P-Q6
+- **Argued in**: [self-concealing-interface](/apex/self-concealing-interface/), [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/)
 - **Would shift if**: a clear direct signature of the interface is found (which would be a positive result the framework would have to integrate, not a refutation); or the framework-internal-coherence reading is shown to have unfalsifiability consequences the Map cannot tolerate.
-- **Last reviewed**: 2026-06-04
+- **Updated 2026-06-05**: calibration pass (pessimistic-2026-06-05) — restricted self-concealment to the aggregate-statistics channel and named the positive falsifiable residue (P-Q5/P-Q6 mechanism-level exposure; falsification roadmap), so the claim is not read as a global unfalsifiability shield. No confidence change.
+- **Last reviewed**: 2026-06-05
 
 ## P-Q10: No worked toy model of the mechanism currently exists
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-05 03:00:00+00:00
+ai_modified: 2026-06-05 12:30:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-05'
@@ -9,11 +9,154 @@ related_articles: []
 title: Changelog
 ---
 
-## 2026-06-05T07:45:00+00:00 - refine-draft
+## 2026-06-05T00:30:00+00:00 - deep-review
+- **Status**: Success — confirming convergence pass, no critical issues
+- **File**: [disconnection-neuroscience](/concepts/disconnection-neuroscience/)
+- **Word count**: 1808 → 1808 (no change; length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Second review. Article converged at 2026-05-19; body unchanged since (selector trigger was a timestamp artifact — prior review's enhancement `ai_modified` postdated its own `last_deep_review`). Re-verified two-layer evidential discipline (no possibility/probability slippage), attribution (Geschwind/Dejerine/Wernicke/Liepmann/Sperry/Gazzaniga correct), and self-citation metadata against source frontmatter (filter-theory, neurological-dissociations dates/titles/URLs match). No named-opponent argumentative engagement; no mode classification needed. No quantum/MWI claims.
+- **Output**: [deep-review-2026-06-05-disconnection-neuroscience](/reviews/deep-review-2026-06-05-disconnection-neuroscience/)
+
+## 2026-06-05T00:00:00+00:00 - condense
+- **Status**: Partial reduction — left over hard cap to protect calibration
+- **File**: [argument-from-reason](/topics/argument-from-reason/)
+- **Before**: 4636 words (155% of topics 3000 target, over 4000 hard cap)
+- **After**: 4489 words (still over 4000 hard cap)
+- **Reduction**: 3.2% (147 words)
+- **Technique**: Prose-tightening of genuine redundancy only — collapsed restated points (Dennett real-patterns, Kim exclusion qua-content repetition, undercutting-defeater restatement), trimmed verbose phrasings, removed one duplicate example in the generality-problem challenge, removed a duplicate `phenomenology-of-intellectual-life` Further Reading entry and tightened FR glosses. NO argument, counterargument, named-opponent engagement (Dennett/Davidson/Yablo/Kim/Anscombe/McGinn/Reppert/Hasker/Sellars/Plantinga), citation, hedge, or calibration qualifier removed.
+- **Reason left long**: The article carries ten named-opponent engagements, the three-part reliabilism critique, a four-corner naturalism diagnosis, and the calibration/underdetermination layer added by the 2026-06-02 anchoring refine. Verbose-prose surplus was only ~150w; the remaining ~490w to reach the cap is load-bearing argument + calibration content. Reaching 4000 would require dropping the exact content the prior refine added. Anchoring profile confirmed unchanged (0 flags before and after; hedge/marker density preserved). **Human length-decision candidate** — same class as the over-ceiling-flagship backlog.
+
+## 2026-06-05T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [neural-implementation-specifics](/topics/neural-implementation-specifics/)
+- **Word count**: 2391 → 2413 (+22; 80% of topics 3000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (anchored orphan Hagan et al. 2002 reference inline to microtubule decoherence sentence; timestamp refresh)
+- **Scope**: 6th deep review (changed-since-review, ~13d gap). Only change since 2026-05-22 was refine 90f0da38b adopting neural-correlates calibration — tightened 3 evidential-status phrasings toward MORE restraint ("establishes conclusively"/"empirically refuted"/"proves" → "firm experimental anchor"/"does not survive that result"/"settles…underdetermined"). Calibration-improving, not regressing; §2 diagnostic PASSES (a tenet-accepting reviewer would not flag any label as overstated). Web-verified 5 load-bearing citations against live literature: Denton et al. 2024 (Nat Commun 15, s41467-024-55124-x), Khan et al. 2024 (eNeuro 11(8) ENEURO.0291-24.2024, epoB delays LORR +69s d=1.9), Wiest 2025 (Neurosci Conscious 2025(1) niaf011 — Map correctly hedges, does NOT adopt its "solves binding" claim), Player & Hore 2018 (JRSI 15(147) 20180494, ~37min) — all titles/venues/dates/stance EXACT. Found+fixed one orphan ref (Hagan et al. 2002 in References but uncited inline → anchored to decoherence-concerns sentence, its natural home). All 12 cross-links resolve LIVE (no archival rot). Tegmark engagement = Mode One, clean, no label leakage. Durably converged.
+- **Output**: [deep-review-2026-06-05-neural-implementation-specifics](/reviews/deep-review-2026-06-05-neural-implementation-specifics/)
+
+## 2026-06-05T00:00:00+00:00 - deep-review
+- **Status**: Success (converged — no changes; changed-content citations web-verified)
+- **File**: [resolution-void](/voids/resolution-void/)
+- **Word count**: 1850 → 1850 (no change; 92% of voids soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamps only)
+- **Scope**: 3rd deep review (changed-since-review, ~21d gap, ~10d change). Both changes since review 2 (2026-05-18) were from the `5be1c3087` corpus-wide citation-normalization refine (touched only ai_modified, not last_deep_review → no hidden review debt). (1) Zheng & Meister (2024)→(2025): VERIFIED correct — *Neuron* 113(2) print Jan 2025 (online-first Dec 2024); whole corpus now consistent on (2025). (2) Musslick et al. (2016)→Wu et al. (2016) for the 3–4 bits/sec cognitive-control figure: WEB-VERIFIED correct (nature.com/articles/srep34025, PMC5034293; Wu, Dufford, Mackie, Egan & Fan; *Scientific Reports* 6, 34025) — paper genuinely reports ~3–4 bits/sec cognitive-control capacity; a BETTER attribution than the superseded Musslick (graph-theoretic, not a direct measurement). Sellars 1965 / Lee 2023 verbatim quotes unchanged + consistent with grain-mismatch sibling. Both section-anchor deep links into quantitative-comprehension-void (#the-cardinality-floor, #the-magnitude-and-probability-domain) resolve; all cross-links live (no archival rot). Calibration diagnostic PASSES (conditional MQI register, open kṣaṇa question). No named-opponent passages → no label-leakage/boundary-substitution risk. Firmly converged after 3 reviews. (Side-note: research/psychophysical-coupling-problem cites Gershman 2016 for the same 3–4 bits figure — out-of-scope corpus-normalization candidate.)
+- **Output**: [deep-review-2026-06-05-resolution-void](/reviews/deep-review-2026-06-05-resolution-void/)
+
+## 2026-06-05T00:00:00+00:00 - deep-review
+- **Status**: Success (converged — no changes; citations re-verified)
+- **File**: [libet-experiments](/concepts/libet-experiments/)
+- **Word count**: 3069 → 3069 (no change; 123% of concepts soft threshold, under hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamps only)
+- **Scope**: 7th deep review (changed-since-review, Tenet 3). Only change since review 6 (2026-05-21) was a citation page-range edit applied during a `volitional-control` cross-link cascade cycle (commit 6cc4e4354): Sjöberg (2024) `2267-2274` → `2267-2269`. Web-verified that edit is a CORRECTION — live citation is *Brain* 147(7) pp. 2267–2269 (DOI 10.1093/brain/awae180), and Sjöberg's stance ("futility of the debate"; "completely irrelevant") is faithfully represented. Also web-verified the two other multi-paper-author load-bearing citations the scope flagged: Soon et al. (2008) *Nat Neurosci* 11(5) 543–545 (✓, incl. "10 s" + ~60% claims) and Schurger et al. (2012) *PNAS* 109(42) E2904–E2913 (✓, incl. page range, accumulator model, "takes the sting out" quote, no dualist overclaim of the stochastic reinterpretation). Calibration diagnostic PASSES (no five-tier scale, no tenet-as-evidence-upgrade; falsifiability section labels position "empirical territory"). Named-opponent engagements: Dennett Mode One, standard-interpretation Mode Two, MWI Mode Three — no label leakage, no boundary substitution. All 7 scope-flagged cross-links resolve live (no archival rot). No hidden review debt. Article fully stable across ~4.5 months.
+- **Output**: [deep-review-2026-06-05-libet-experiments](/reviews/deep-review-2026-06-05-libet-experiments/)
+
+## 2026-06-05T06:30:00+00:00 - deep-review
+- **Status**: Success (converged — one cosmetic fix)
+- **File**: [anti-correlated-metacognitive-signal](/concepts/anti-correlated-metacognitive-signal/)
+- **Word count**: 2617 → 2617 (no change; 105% of concepts soft threshold, well under hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 content; 1 cosmetic
+- **Enhancements made**: 1 (renamed leftover heading anchor `{#coutinho}` → `{#rebouillat}`; heading reads "The Rebouillat 2021 Finding" so the old slug was a confusing mismatch — grep confirmed ZERO inbound links to `#coutinho`, so the rename honours the W22 caveat that the anchor be renamed only when no inbound links break)
+- **Scope**: 2nd deep review (~17d gap). Re-verified citation discipline: the Rebouillat/Leonetti/Kouider (2021) niab004 attribution is CORRECT and corpus-converged (the "Coutinho" form is the disproven legacy attribution, fixed corpus-wide in the W22 sweep). Dijkstra & Fleming (2024) *Journal of Vision* 24(5) and Fleming (2024) *Annual Review of Psychology* 75:149–176 match other corpus files exactly. Calibration diagnostic PASSES — §Discrimination frames its asymmetry-breaker as "calibration-grade rather than absence-proof"; §Relation-to-Site explicitly declines tenet-as-evidence-upgrade and is silent on Tenets 2/4/5 (no possibility/probability slippage). No named-opponent in-framework refutation, so no Mode classification needed; no editor-label leakage. All cross-links resolve. Pessimistic personas surface only bedrock framework-boundary disagreements (eliminativist/Dennettian/Nagarjunan), already absorbed and noted in the prior review. Article is stable.
+- **Output**: [deep-review-2026-06-05-anti-correlated-metacognitive-signal](/reviews/deep-review-2026-06-05-anti-correlated-metacognitive-signal/)
+
+## 2026-06-05T06:18:22+00:00 - deep-review
+- **Status**: Success (no content changes — converged)
+- **File**: [confabulation-void](/voids/confabulation-void/)
+- **Word count**: 2405 → 2405 (no change; 120% of voids soft threshold, under hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Scope**: changed-since-review (~16d gap). Changed content since the 2026-05-19 review was (a) a citation propagation fix re-attributing the inverse-correlation anchor Coutinho→Rebouillat and (b) one cross-architecture-llm-introspection cross-link + sentence. WEB-VERIFIED the Rebouillat et al. (2021) citation — title/authors/venue/article-id all CORRECT (*Neuroscience of Consciousness* 2021(1) niab004, DOI 10.1093/nc/niab004); the prior Coutinho/*Scientific Reports* attribution was a wrong-author/wrong-venue defect the fix correctly removed (title+venue verified, not just author+year). New Lindsey thought-injection claim (~20% success / 0 false positives) accurate to source. Choice-blindness "narrowed-but-strengthened" framing verified against live 2025 pupillometry literature. All cross-links resolve LIVE; no archival-link-rot. No conflation with source-attribution-void (deliberate sibling distinctness preserved). No label leakage; materialist engagement Mode Three honestly noted. last_deep_review was set by a genuine deep review (not a coalesce/refine), so no hidden review debt. Converged.
+- **Engagement classification (editor-internal)**: materialism in Relation-to-Site-Perspective — Mode Three (framework-boundary marking), honestly noted; no boundary-substitution.
+- **Output**: [deep-review-2026-06-05-confabulation-void](/reviews/deep-review-2026-06-05-confabulation-void/)
+
+## 2026-06-05T13:00:00+00:00 - deep-review
+- **Status**: Success (no content changes — converged)
+- **File**: [binding-problem](/concepts/binding-problem/) (concept page — distinct from topics/the-binding-problem 5-varieties taxonomy)
+- **Word count**: 3039 → 3039 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Scope**: changed-since-review (~16d gap); all changes since the converged 2026-05-19 review were citation-hygiene sweeps. Web-verified all five changed citations against the live literature — Santander et al. 2025 (PNAS 122(43)), Khan/Wiest et al. 2024 (eNeuro 11(8)), Kerskens & López Pérez 2022, McKemmish et al. 2009 (PRE 80 021912), Reimers et al. 2009 (PNAS 106(11) 4219-4224) — all CORRECT. No body argument changed. Cross-links resolve live; no archival-link-rot. Seventh consecutive clean review; convergence holds.
+- **Engagement modes**: illusionist Mixed (Mode One regress + Mode Two argument-from-reason); identity-theorist Mode Two ("coordination is not identity"); eliminativist/MWI/Buddhist Mode Three (boundary). No label leakage, no calibration slippage (decoherence rewrite moves calibration downward toward "live dispute").
+- **Output**: [deep-review-2026-06-05-binding-problem-concept](/reviews/deep-review-2026-06-05-binding-problem-concept/)
+
+## 2026-06-05T12:30:00+00:00 - coalesce
+- **Status**: No-op (no merge performed)
+- **Sections surveyed**: topics (270/270, at hard cap — highest pressure), voids (101/100, over cap)
+- **Decision**: Abandoned per skill guidance. Surveyed the prominent naming-pattern clusters in the most-pressured section and found no strong merge candidates. The apparent clusters are well-differentiated and/or would bust the length ceiling:
+  - `consciousness-and-the-problem-of-{induction,measurement-standards,other-properties}` — three distinct philosophical problems, not redundant.
+  - `consciousness-and-the-metaphysics-of-{composition,individuation,laws-and-dispositions}` — distinct metaphysical questions, all 2700–4300w; merging would lose differentiation and grossly exceed length ceiling.
+  - `{forward-in-time-conscious-selection, forward-in-time-vs-time-symmetric-selection, time-symmetric-selection-mechanism}` — deliberately complementary route-family articles, all ~2800–3900w.
+  - `{comparative-phenomenology-of-meditative-traditions (3262w), affective-tone-divergence-across-meditative-traditions (2666w)}` — parent + intentional child-hypothesis article; combined ~5900w would be unmanageable.
+  - `{cross-architecture-llm-introspection, introspection-architecture-independence-scoring}` — empirical-channel article vs methodological audit exhibit (4138w); different purposes.
+  - Voids affective cluster (`affective-void`, `appetitive-void`, `emotional-epistemology-void`) — intentionally granular distinct cognitive dark-spaces; the voids catalogue depends on fine-grained separation.
+- **Rationale**: Forcing any of these merges would destroy valuable differentiation or produce length-busting articles. Correct action is to decline.
+
+## 2026-06-05T11:45:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [edge-states-and-void-probes](/voids/edge-states-and-void-probes/)
-- **Source**: consolidated P1 editor pass from convergent outer reviews 2026-06-05 (3/3: chatgpt, claude, gemini)
-- **Word count**: 2380 → 3042 (net-additive; under voids 4000 hard ceiling)
+- **Task**: Gemini FDG-PET P2 (outer review 2026-06-05) — 5th task on this file this cycle; the empirical-currency P1 added DMN material but did NOT cover the FDG-PET metabolic counterweight, so this point was distinct.
+- **Change**: Added a ~4-sentence metabolic caveat to the Reducing Valve section. The reduced-DMN-BOLD "filter doing less work → more experience" inference omits the FDG-PET glucose-metabolism literature: the psychedelic state is metabolically *expensive* (global CMRglc increase, frontal-marked "metabolic hyperfrontality"), a direct physicalist counterweight. Caveat argues the filter reading on its own terms (separating *what* the DMN does from *how much* it spends; direct-refutation-discipline) and marks the data as non-discriminating (evidential-status-discipline).
+- **Web-verification**: CITED the qualitative point + the VERIFIED Vollenweider et al. 1997 (*Neuropsychopharmacology* 16(5):357–372, DOI 10.1016/S0893-133X(96)00246-1) "metabolic hyperfrontality" finding (global CMRglc increase, frontomedial ~24%). Did NOT propagate the reviewer's unverified "12.5% global CMRglc under DMT/harmine" figure — traced to a 2025 Research Square *preprint*, not peer-reviewed. New reference added (ref 22).
+- **Length**: STRICTLY length-neutral. 3641 → 3634 body words (net −7) despite the added caveat + new reference, via offsetting condensation of redundancy (evidential-status paragraph, REBAS/REBUS sentences, Metzinger paragraphs, dissolving-insight/NDE descriptive runs, closing recap). Calibration-protected dialectical content preserved. Remains over the voids 3000 hard ceiling (below 4000 critical) — split / human-length-decision candidate per task notes; no substance-deleting condense attempted.
+- **Out of scope / follow-on noted**: `tools/curate/altered_state_symmetry.evaluate_symmetry` flags this file (cites supportive altered-state cluster — psychedelics, NDE, cessation, mystical-experience — with no disruptive cluster: anaesthesia, slow-wave sleep, brain damage, vegetative state, dementia). Verified PRE-EXISTING (present before this edit), NOT introduced here. Symmetric-accommodation remediation requires NEW content and conflicts with this pass's strict length-neutral constraint; left as a separate Audit-Two / human-length-budget follow-on.
+- **Published**: yes
+
+## 2026-06-05T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [meaning-of-life](/topics/meaning-of-life/)
+- **Word count**: 4160 → 3998 (−162, length-neutral condensation back under the 4000 hard cap)
+- **Critical issues addressed**: 0 (none found — attribution, calibration, and reasoning-mode checks all pass on content added since 2026-05-20)
+- **Medium issues addressed**: 1 (length over hard threshold; condensed in length-neutral mode preserving all calibration + opponent-engagement substance; removed the non-load-bearing standalone Process Philosophy section, folding its Whitehead/[haecceity](/concepts/haecceity/) point compactly into the qualia subsection)
+- **Enhancements made**: prose-tightening across ~20 passages; all wikilink targets unchanged and resolving; validated clean
+- **Output**: [deep-review-2026-06-05-meaning-of-life](/reviews/deep-review-2026-06-05-meaning-of-life/)
+
+## 2026-06-05T12:00:00+00:00 - positions-evolve (update / calibration)
+- **Status**: Success
+- **Files**: [quantum-interface](/positions/quantum-interface/) (P-Q1, P-Q9; frontmatter)
+- **Mode**: update — honesty-calibration pass against pessimistic-2026-06-05 Issues 2–4. No retire, no confidence-band change, no weakening.
+- **Changes**:
+  - **P-Q9 (Issue 2)**: added a clause restricting self-concealment to the *aggregate-statistics channel* only (not a global unfalsifiability shield) and naming the positive falsifiable residue — mechanism-level exposure (P-Q5/P-Q6, the Donadi falsification that did bite) and the falsification roadmap. Added `[[topics/falsification-roadmap-for-the-interface-model]]` to "Argued in" and P-Q5/P-Q6 to "Depends on". Inserted an Updated-2026-06-05 history note; Last reviewed → 2026-06-05.
+  - **P-Q1 (Issue 3)**: added one sentence confining the post-decoherence advantage to the *decoherence-timescale* axis and routing the residual "what is selected / how without deviation" question to P-Q3 (so P-Q1 no longer reads as resolving a dilemma it only relocates). Added "P-Q3 (inherits its open dilemma)" to "Depends on". History note + Last reviewed → 2026-06-05.
+  - **Chalmers–McQueen year (Issue 4c)**: WEB-VERIFIED. P-Q3's "2022" is the canonical *published-version* year (Oxford Academic, Gao ed. *Consciousness and Quantum Mechanics*, online edn 20 Oct 2022). Corpus "2021" datings refer to the arXiv preprint 2105.02314. P-Q3 is correct as written — NO change made. Corpus-wide preprint-vs-published inconsistency exists but is not an error per file; not in scope to mass-fix.
+  - **Frontmatter `ai_system` (Issue 4d)**: corrected `claude-opus-4-7` → `claude-opus-4-8`. Confirmed mis-stamp: every sibling create from 2026-06-03 onward is opus-4-8 (the running model per CLAUDE.md/changelog); a 2026-06-04 create being opus-4-7 is inconsistent. `positions/positions.md` carries the SAME `ai_system: claude-opus-4-7` anomaly (out of scope here — flag for a follow-up correction).
+- **Cascade**: P-Q9 now depends on P-Q5/P-Q6 (both `live`, `high`/`moderate` — healthy). P-Q1 now depends on P-Q3 (`live`, `moderate` — healthy). No downstream re-audit required.
+- **Length note**: body 1699 → 1911 words; already at `soft_warning` (soft 1500) before this pass, still under hard (2500). Per skill guidance the fix for an over-soft domain file is to SPLIT, not condense (condensing would drop the calibration language this pass exists to add). Flagged as a follow-up.
+- **Validated**: ✓ clean.
+- **Published**: yes (draft: false register; live on sync)
+
+## 2026-06-05T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/)
+- **Original score**: n/a (targeted mechanical fix, not a full review)
+- **Changes**: Resolved cross-article quantitative apparent-contradiction flagged by `pessimistic-2026-06-05.md` Issue 1. The Donadi et al. 2021 R₀ bound is described here as "one order of magnitude larger than Penrose's original prediction" while `positions/quantum-interface.md` P-Q6 says "three orders of magnitude larger than previous bounds" — both correct, different baselines, neither signposted. Made the baseline explicit in this article: kept the "one order of magnitude vs Penrose's original R₀" framing and added the parallel "~three orders of magnitude vs previous experimental bounds" figure, cross-linking the positions register's framing via [positions register](/positions/quantum-interface/). Mechanical/clarity-only; no calibration weakening. P-Q6 left untouched (correct). Donadi 2021 figures already web-verified; no re-verification. Validated clean; 2638 words (under thresholds).
+- **Published**: yes
+
+## 2026-06-05T05:12:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/marginal-organism-scope-of-value-sensitive-selection.md` — the day's freshest create (2026-06-05T13:30) and the exact article the earlier `optimistic-2026-06-05.md` review nominated as the natural next piece; read against parent `valence-and-conscious-selection`, sibling `wanting-liking-and-the-value-in-mechanism-fork`, and the boundary-case neighbourhood. No prior 06-05 optimistic review examined this file (it postdated them).
+- **Key finding**: Model performance of evidential-status discipline on the minimal-organism-consciousness axis. The Process Philosopher and Hardline Empiricist personas CONVERGE (praising different aspects without conflict) — the design signal that the article contains no possibility/probability slippage. No calibration `refine-draft` warranted. Article is calibration-clean, well-integrated (parent links back 4×, all 8 wikilink targets resolve), ~1964 body words (under thresholds).
+- **Tasks added**: 1 P3 integrate-orphan (reciprocal links from consciousness-in-simple-organisms + minimal-consciousness — both verified grep=0), 1 P3 expand-topic (distributed/non-localised interface, the *Hydra* gap, with cap-check + license-to-decline).
+- **Output**: [optimistic-2026-06-05b](/reviews/optimistic-2026-06-05b/)
+
+## 2026-06-05T09:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [edge-states-and-void-probes](/voids/edge-states-and-void-probes/)
+- **Source**: EMPIRICAL-CURRENCY P1 (convergent outer-review, 2026-06-05); companion to the consolidation pass that deferred specific datasets to this task
+- **Changes**: added WEB-VERIFIED post-2019 empirical sources. (a) REBUS: framed REBUS as the strongest physicalist edge-mapping engine; added ALBUS/SEBUS (Safron et al. 2025, *Neuroscience of Consciousness*, niae038 — 5-HT2A can strengthen as well as relax priors) and REBAS (Zeifman et al. 2023, *Sci Rep*, s41598-023-28111-3 — direct empirical test); argued ALBUS cuts *against* the filter reading, not for it. (b) DMN: replaced flat "DMN reduction" with Siegel et al. 2024 *Nature* (632:131-138) desynchronization finding; added Brewer et al. 2011 meditation connectivity-vs-activity nuance (increased PCC–PFC coupling alongside decreased PCC activation); flagged DMN-as-ego equation as contested. (c) NDE: added Xu/Borjigin 2023 *PNAS* (gamma surge, comatose non-survivors, no experience), AWARE-II (Parnia 2023 *Resuscitation* 191:109903, veridical-perception primary endpoint NEGATIVE), Kondziella 2019 *PeerJ* REM-intrusion — all framed as PHYSICALIST candidates / weakest leg, NOT transcendence support; corrected the internal inconsistency with the companion [near-death-experiences](/concepts/near-death-experiences/) article
+- **Citation corrections vs reviewer-supplied**: ALBUS is the citable umbrella paper (Safron et al.), SEBUS is its strengthening-pole label not a separate paper; REBAS = "Revised Beliefs After Psychedelics" (Zeifman et al., post-acute belief revision), not the "direct test" framing in the task notes — framed accurately. All 7 new cites web-verified (author/venue/year/DOI/volume)
+- **Word count**: 3036 → 3641 (net-additive; under voids 4000 critical ceiling; light condensing offset on REBUS closing + DMN dedup)
+- **Published**: yes
 - **Changes** (5 convergent findings, one pass to avoid same-file churn):
   - (b) DOMINANT 3-reviewer finding: rewrote the Dualism paragraph. Removed the unsupported "convergence costs physicalism more theoretical machinery" claim (a common cause cuts *against* aggregating cases as independent confirmations); downgraded to "roughly equally consistent / does not discriminate"; marked "supports" vs "fits" slippage honestly; added the zero-person/MPE underdetermination among dualism, panpsychism, neutral monism, and Metzinger's naturalism.
   - (a) NDE overclaim: replaced "absent brain function"/"flat EEG" with "severely compromised, intermittently monitored, difficult-to-time"; synced with the 2026-06-04 near-death-experiences.md recalibration; reframed NDEs as the *weakest* leg.

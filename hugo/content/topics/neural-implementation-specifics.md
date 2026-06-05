@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-06-04 13:35:00+00:00
+ai_modified: 2026-06-05 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Evaluating quantum neural mechanism evidence. Radical pairs lead, m
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-22 12:00:00+00:00
+last_deep_review: 2026-06-05 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -72,7 +72,7 @@ Do radical pair mechanisms extend beyond magnetoreception to cognition? The Univ
 
 ## Microtubules: Gaining Ground
 
-Microtubule-based proposals—particularly Penrose and Hameroff's [Orchestrated Objective Reduction (Orch OR)](/concepts/quantum-consciousness/)—have historically been dismissed due to [decoherence concerns](/concepts/decoherence/). However, 2024-2025 experimental results have shifted the evidential landscape.
+Microtubule-based proposals—particularly Penrose and Hameroff's [Orchestrated Objective Reduction (Orch OR)](/concepts/quantum-consciousness/)—have historically been dismissed due to [decoherence concerns](/concepts/decoherence/), the sharpest statement being Hagan et al.'s (2002) feasibility analysis arguing that microtubule coherence times fall far short of the functional window. However, 2024-2025 experimental results have shifted the evidential landscape.
 
 ### Recent Supporting Evidence
 

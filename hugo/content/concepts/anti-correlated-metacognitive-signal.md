@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-05-27 13:36:21+00:00
+ai_modified: 2026-06-05 06:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Human+AI examination of a metacognitive signature where introspecti
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-19 06:00:00+00:00
+last_deep_review: 2026-06-05 06:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -47,7 +47,7 @@ An **anti-correlated metacognitive signal** is a metacognitive indicator — a f
 
 The concept names a structural pattern rather than a single experimental finding. Anti-correlation is conceptually distinct from noise, from miscalibration, and from ordinary metacognitive unreliability. A noisy signal can be averaged. A miscalibrated signal can be re-scaled. An anti-correlated signal — in the regime where it matters — supplies *less* information than no signal at all, because acting on it systematically increases error. The concept earns its own page because this distinction recurs across the Map's introspection-architecture cluster as a load-bearing structural claim, and because it supplies one of the few asymmetry-breaking moves available to the [discrimination-problem](/concepts/discrimination-problem/) (explained [below](#discrimination)).
 
-## The Rebouillat 2021 Finding {#coutinho}
+## The Rebouillat 2021 Finding {#rebouillat}
 
 Rebouillat, Leonetti, and Kouider (2021), *Neuroscience of Consciousness* 2021(1), niab004 — "People confabulate with high confidence when their decisions are supported by weak internal variables" — used a choice-blindness paradigm with a brain-computer interface in which the strength of the internal decision-evidence available to participants was experimentally varied. In conditions of strong internal evidence, the classical relationship held: higher confidence tracked higher accuracy. In conditions where internal evidence was weak and deceptive external cues were available, the relationship *inverted*: the most confident reports were the *least* accurate.
 

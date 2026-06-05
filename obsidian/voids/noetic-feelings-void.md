@@ -4,7 +4,7 @@ description: "The felt signals that gate cognition from inside—knowing, rightn
 created: 2026-02-27
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-06-02T15:03:51+00:00
+ai_modified: 2026-06-05T07:33:45+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -28,6 +28,7 @@ related_articles:
   - "[[source-attribution-void]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[thought-stream-void]]"
+  - "[[edge-states-and-void-probes]]"
   - "[[apophatic-cartography]]"
   - "[[apophatic-cartography-four-criteria]]"
   - "[[three-kinds-of-void]]"
@@ -110,7 +111,7 @@ The void has three structural features.
 
 **Authority without audit.** The feelings gate further cognition: when to stop searching, when to trust, when to engage analytic thought. The system cannot audit them from inside, because audit requires more feelings of the same kind. The feeling of obviousness is the purest case: by presenting nothing to investigate, it prevents the investigation that would detect its own fluency-driven origin.
 
-**Dissociable fallibility.** Déjà vu fires familiarity without memory; jamais vu withholds recognition for familiar material; false confidence resists argument. These dissociations show noetic feelings are signals rather than perceptions, and that consciousness cannot tell from inside when a signal has fired spuriously. Déjà vu research even documents a second-order illusion: a feeling of *prediction* that tracks no actual predictive capacity. The [[memory-anomalies|memory anomalies cluster]] treats this trio (déjà vu, jamais vu, cryptomnesia) as three rotations on the same source-monitoring failure.
+**Dissociable fallibility.** Déjà vu fires familiarity without memory; jamais vu withholds recognition for familiar material; false confidence resists argument. These dissociations show noetic feelings are signals rather than perceptions, and that consciousness cannot tell from inside when a signal has fired spuriously. Déjà vu research even documents a second-order illusion: a feeling of *prediction* that tracks no actual predictive capacity. The [[memory-anomalies|memory anomalies cluster]] treats this trio (déjà vu, jamais vu, cryptomnesia) as three rotations on the same source-monitoring failure. Psychedelic and mystical noesis and the dissolving insight of meditative edge-states are high-salience cases of the same heuristic felt-knowing: a feeling of having-grasped that can fire with no graspable content behind it, which is exactly why the noetic-feelings machinery is what *tests* whether [[edge-states-and-void-probes|edge-state probes]] grant genuine epistemic access or only the compelling phenomenology of access.
 
 Compounded, these features yield the void: the signals that gate cognition are precisely the signals consciousness cannot audit without their help.
 
