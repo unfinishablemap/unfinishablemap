@@ -5,6 +5,20 @@ ai_modified: 2026-06-05T15:14:29+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T18:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/agent-causation]]
+- **Word count**: 3290 → 3290 (no content edits; below 3500 concepts hard cap, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (article strongly converged; 7th deep review)
+- **Enhancements made**: 0 (timestamp-only outcome; the value this pass was the citation audit)
+- **Full citation audit (task-mandated)**: EVERY citation web-verified at publisher of record — ZERO defects. Empirical: Rajan et al. 2019 (6-author list incl. Siegel & Liu CONFIRMED) Cereb Cortex 29(7) 2832-2843; Nadra&Mangun 2023 Front Cognition 2:1205618; Sjöberg 2024 Brain 147(7) 2267-2269; Schurger/Sitt/Dehaene 2012 PNAS 109(42) E2904-E2913; Desmurget 2009 Science 324(5928) 811-813. Philosophy: Lowe 2001 Grazer Phil Studien 61:1-20 (stance confirmed), Lowe 2008, Chisholm 1964 Lindley Lecture, O'Connor 2000, Jacobs&O'Connor 2013, Kane 2024, Hausman 1984 — all confirmed. "Converged ≠ verified" — full live audit, not load-bearing-only.
+- **Source-conclusion fidelity**: Kane 2024 "incorporates agent-causal elements / convergence" FAITHFUL (Kane explicitly says his view is "both event-causal AND agent-causal"); Sjöberg 2024 "doesn't impair voluntary action" FAITHFUL shorthand (resection impairs execution not will). L-creativity→Hausman previously-verified, not re-flagged.
+- **Cross-corpus divergence**: none — citation metadata identical across motor-selection, libet-experiments, attention-as-interface, quantum-indeterminacy-free-will, decoherence, etc.
+- **Reasoning-mode classification**: Kim exclusion = Mode Two; Mele luck = Mode One; MWI defender = Mode Three. No boundary-substitution; no label leakage (grep clean).
+- **Calibration**: passed — modal register honest (contested libertarian option, not established); five-anchor case keeps anchor-independence; no possibility/probability slippage. Only body change since 6th review = the 2026-06-03 direction-of-fit cross-link (clean).
+- **Output**: [[reviews/deep-review-2026-06-05-agent-causation]]
+
 ## 2026-06-05T16:45:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/valence-and-conscious-selection]]
