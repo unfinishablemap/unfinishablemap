@@ -4,7 +4,7 @@ description: "Emotional consciousness provides the strongest empirical case for 
 created: 2026-01-19
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-06-03T01:50:39+00:00
+ai_modified: 2026-06-05T21:38:33+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-05-28T20:58:39+00:00
+last_deep_review: 2026-06-05T21:38:33+00:00
 coalesced_from:
   - "/topics/emotional-consciousness/"
   - "/topics/emotion-as-evidence-for-dualism/"
@@ -68,9 +68,9 @@ Pain asymbolia cases reveal which account is correct. Patients with damage to sp
 
 ## The Pain Asymbolia Argument
 
-Pain asymbolia does more than settle the hedonic-evaluativist debate. It provides direct empirical evidence for dualism by demonstrating the causal indispensability of phenomenal properties.
+Pain asymbolia does more than settle the hedonic-evaluativist debate. On the Map's reading it provides the strongest empirical case for dualism, by indicating the causal indispensability of phenomenal properties.
 
-The dissociation is philosophically devastating for functionalism. The representation exists—patients accurately represent tissue damage. The functional machinery operates—nociceptive signals reach the brain, defensive circuits are intact. The felt quality is absent—despite intact representation and intact functionality, the intrinsic badness is gone. And motivation collapses—without the felt quality, patients do not care enough to act.
+The dissociation presses hard against functionalism. The representation exists—patients accurately represent tissue damage. The functional machinery operates—nociceptive signals reach the brain, defensive circuits are intact. The felt quality is absent—despite intact representation and intact functionality, the intrinsic badness is gone. And motivation collapses—without the felt quality, patients do not care enough to act.
 
 Standard arguments for dualism—the conceivability argument, the knowledge argument, the explanatory gap—establish that phenomenal properties are not *reducible* to physical properties. A common materialist response accepts irreducibility while denying causal relevance: perhaps phenomenal properties are [[concepts/epiphenomenalism|epiphenomenal]], riding atop physical processes without influencing them. Emotion blocks this retreat. When the felt badness is present, avoidance is robust. When absent—despite identical functional pain processing—motivation deteriorates. The phenomenal property makes a causal difference.
 

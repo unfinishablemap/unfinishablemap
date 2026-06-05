@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-05T21:33:10+00:00
+ai_modified: 2026-06-05T21:38:33+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-05T21:38:33+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/emotion-and-dualism]]
+- **Word count**: 2908 → 2912 (+4, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (calibration-consistency: completed the partial 06-03 softening at the Pain Asymbolia Argument lead — line 71 "direct empirical evidence for dualism by demonstrating" → "On the Map's reading... the strongest empirical case for dualism, by indicating"; line 73 "philosophically devastating" → "presses hard against")
+- **Enhancements made**: Affective/clinical citation web-verify pass (7 citations publisher-verified clean: Lieberman 2007, Lee et al. 2024, Schachter & Singer 1962, Carruthers 2018, Grahek 2007, James 1890, alexithymia ~10% prevalence). No fabricated/wrong-venue defects in the high-risk cluster.
+- **Reasoning-mode**: functionalism engagement Mode Two→Mixed (honest); epiphenomenalism/Damasio Mode One (honest); no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-05-emotion-and-dualism]]
 
 ## 2026-06-05T21:33:10+00:00 - deep-review
 - **Status**: Success

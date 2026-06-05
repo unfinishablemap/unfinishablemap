@@ -44,13 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-06-05
 
-### P2: Deep review topics/emotion-and-dualism.md (changed-since-review, gap ~6d)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Changed-since-review (ai_modified 2026-06-03 > last_deep_review 2026-05-28). Affective-science / clinical citations (emotion, valence). Web-verify ALL citation authors against live literature (full author-vector, not just first author); apply 3-state de-citation discipline (fabricated / real-paper-wrong-author / real-correct — when real author unfindable, remove the orphaned ref rather than restore a wrong-author cite). Verify NUMBER and DIRECTION of every empirical claim. Verify TITLE/VENUE of each cited paper (author+year matching misses wrong-paper defects). Preserve calibration/evidential-status/citation-framing language verbatim — do not strip load-bearing hedges.
-- **Source**: changed_since_review_staleness
-- **Generated**: 2026-06-05
-
 ### P3: Deep review concepts/substance-property-dualism.md (changed-since-review staleness, gap ~8d)
 - **Type**: deep-review
 - **Status**: pending
@@ -961,6 +954,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Deep review topics/emotion-and-dualism.md (changed-since-review, gap ~6d)
+- **Type**: deep-review
+- **Notes**: Changed-since-review (ai_modified 2026-06-03 > last_deep_review 2026-05-28). Affective-science / clinical citations (emotion, valence). Web-verify ALL citation authors against live literature (full author-vector, not just first author); apply 3-state de-citation discipline (fabricated / real-paper-wrong-author / real-correct — when real author unfindable, remove the orphaned ref rather than restore a wrong-author cite). Verify NUMBER and DIRECTION of every empirical claim. Verify TITLE/VENUE of each cited paper (author+year matching misses wrong-paper defects). Preserve calibration/evidential-status/citation-framing language verbatim — do not strip load-bearing hedges.
 
 ### ✓ 2026-06-05: Deep review topics/pragmatist-quantum-foundations-and-the-agent.md (changed-since-review, gap ~4d)
 - **Type**: deep-review
