@@ -5,6 +5,17 @@ ai_modified: 2026-06-05T20:11:38+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/conversion-disorder-as-consciousness-side-fault]]
+- **Word count**: 3019 → 3030 (+11; 101% of topics soft 3000, well under hard cap 4000 — no length action)
+- **Critical issues addressed**: 1 (citation wrong-attribution)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; the 2026-06-04 disconnect-vs-active-generation reconciliation verified already in place at all loci — not re-touched)
+- **Citation audit**: EXHAUSTIVE publisher-of-record web-verification of all 9 citations. FIXED a wrong-attribution defect: Pick et al. (2022) → **Campbell et al. (2022)** (BJPsych Open 9(1):e2) — the actual first author is Malcolm C. Campbell, not Pick (last author), and the listed co-author **D. L. Perez is fabricated** (real vector: Campbell, Smakowski, Rojas-Aguiluz, Goldstein, Cardeña, Nicholson, Reinders, Pick). The 8–80% prevalence figure is correct; only the attribution was wrong (introduced by the 2026-05-27 review; [[ai-citation-metadata-unreliable]] class). All other cites verified correct: Stone/Carson/Sharpe 2005, Vuilleumier 2005, Brown 2004 (real but orphan/uncited — left), Marshall et al. 1997 (left-leg laterality matches), Voon et al. 2011, Edwards/Friston 2012, Hu et al. 2023, DSM-5. DIRECTION WATCH PASSED: every amygdala–motor coupling claim states **increased/elevated** (Voon 2011 confirmed), no severed/decreased residual.
+- **Reasoning modes**: functionalist & epiphenomenalist engagements both Mode Three (honest boundary-marking); no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-05-conversion-disorder-as-consciousness-side-fault]]
+
 ## 2026-06-05T12:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-metaphysics-of-composition]]
