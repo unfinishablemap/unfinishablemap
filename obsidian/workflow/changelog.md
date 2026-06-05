@@ -5,6 +5,16 @@ ai_modified: 2026-06-05T03:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/naturally-occluded]]
+- **Word count**: 2935 → 2947 (+12; length-neutral, soft_warning)
+- **Critical issues addressed**: 3 (count mismatch "Four"→"Five" results introduced by 2026-05-19 coalesce; Trivers single-author attribution regression restored to "von Hippel and Trivers"; FBT "strictly dominate" overstatement + lead/body inconsistency corrected to weak-dominance "at least as well as… generically drive to extinction")
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (mature article; corrections only)
+- **Notes**: Rancourt 2025 citation (coalesce-added) web-verified accurate. `last_deep_review` had been bumped by the 2026-05-19 coalesce without the merged adaptive-cognitive-limits content being reviewed; this pass reviewed that content and found 3 defects (one a regression of a prior-review fix).
+- **Output**: [[reviews/deep-review-2026-06-05-naturally-occluded]]
+
 ## 2026-06-05T03:55:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.5 Pro
