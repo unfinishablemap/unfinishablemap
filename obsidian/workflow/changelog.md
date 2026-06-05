@@ -5,6 +5,16 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T12:15:29+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/consciousness-as-amplifier]]
+- **Word count**: 2648 → 2648 (citation attribution swap, word-neutral; soft_warning at 106% of 2500, well under 3500 hard — no condensation, calibration untouched)
+- **Critical issues addressed**: 1 (WRONG-PAPER misattribution that survived all 6 prior reviews via intra-corpus author+year matching). The evolutionary-impotence quotation ("Any endeavor to construct a physical theory of consciousness based on emergence within the framework of classical physics... leads to causally impotent conscious experiences in direct contradiction to evolutionary theory") was attributed to "Doerig, A., Schurger, A., & Herzog, M.H. (2024), *Neuroscience of Consciousness*, 2024(1), niae031." Web-verified: the QUOTE is verbatim from **Georgiev, D.D. (2024). Evolution of consciousness. *Life*, 14(1), 48** (MDPI, PMC10817314); the cited Doerig "niae031" is a real but UNRELATED article (Filimonov et al. on auditory-awareness ERPs) — classic AI-citation chimera (right journal-ish, real authors who work on consciousness, wrong paper). Fixed inline attribution + References entry; restored the dropped "however," to match Georgiev's wording; moved the ref to its alphabetical slot. Doerig is correctly cited elsewhere in the corpus (Herzog, Drissi-Daoudi & Doerig 2020 TiCS "time slices" — left intact); the misattribution was isolated to this one file.
+- **Medium issues addressed**: 0
+- **Citation audit (bidirectional + web-verified STANCE)**: All load-bearing cites web-verified clean — DeWall, Baumeister & Masicampo 2008 Conscious. Cogn. 17(3):628-645 PMID 18226923 (the June-1 corpus fix from "Lieberman" confirmed correct, stance correct); Inoue & Matsuzawa 2007 Curr. Biol. 17:R1004-R1005 (note: later replications (Cook & Wilson 2010; Silberberg & Kearns 2009) show trained humans match the chimp "9-numeral" feat — article's framing as WM-estimate variance is accurate, not overstated, left as-is); De Neys & Glumicic 2008 Cognition 106(3) (page-range ambiguous across databases 1248- vs 1284-1299; left as-is, not load-bearing); Gruber, Zuberbühler, Clément & van Schaik 2015 Front. Psychol. 6:91 (Jourdain Hypothesis — correct; prior review's "Whiten 2015" note was a review-internal slip, article body always said Gruber); Frankish 2016 JCS 23(11-12):11-39 (correct). No dangling inline cites; orphan background refs (Baars, Chalmers, Dehaene, Hagan, Tegmark, Walker, Whitehead, Miller, Tomasello-1993) are intentional further-reading entries, not defects.
+- **Reasoning-mode classification (editor-internal)**: engagement with Frankish (illusionism): Mixed (Mode One empirical asymmetry + Mode Two regress/unsupported-phenomenal-vocabulary) — unchanged, honest. Dennett heterophenomenology: Mode Three (Three Senses disambiguation). MWI: Mode Three (conditional framing, bedrock). Eliminative materialism: bedrock. No label leakage in body.
+- **Output**: [[reviews/deep-review-2026-06-05-consciousness-as-amplifier]]
+
 ## 2026-06-05T12:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/mental-effort]] (+ propagation root [[research/clinical-neuroplasticity-bidirectional-causation-2026-03-21]])
