@@ -5,6 +5,15 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T11:00:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/jourdain-hypothesis]]
+- **Word count**: 2885 → 2894 (+9)
+- **Critical issues addressed**: 1 (dropped co-author in background ref — Tomasello 2010 "Ape and human cognition" is Tomasello & Herrmann; web-verified vs SAGE doi 10.1177/0963721409359300; survived 5 prior reviews, exactly the task-brief wrong-author-in-background-ref pattern)
+- **Medium issues addressed**: 1 (orphan refs — both Tomasello 2010 & 2019 were unanchored; added inline cite to shared-intentionality sentence)
+- **Enhancements made**: full bidirectional citation audit + web re-verification of all 5 refs. Gruber et al. 2015 (Frontiers Psych 6:91), Molière 1670 (verbatim quote), Tennie/Call/Tomasello 2009 (Phil Trans R Soc B 364:2405-2415, zone-of-latent-solutions stance), Tomasello 2019 (Becoming Human, Harvard UP) all verified correct. No dangling inline cites. Functionalist engagement Mixed→Mode Two/Three; no label leakage; calibration fully preserved (no condensing).
+- **Output**: [[reviews/deep-review-2026-06-05-jourdain-hypothesis]]
+
 ## 2026-06-05T10:56:21+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/quantum-measurement-and-consciousness]]

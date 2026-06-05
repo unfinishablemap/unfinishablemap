@@ -4,7 +4,7 @@ description: "Apes have culture but may not know they have culture. The gap betw
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-06-05T11:00:24+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -29,7 +29,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
 last_curated: null
-last_deep_review: 2026-05-26T13:10:54+00:00
+last_deep_review: 2026-06-05T11:00:24+00:00
 ---
 
 Apes have culture but may not know they have culture. This is the Jourdain Hypothesis, named after Monsieur Jourdain in Molière's *Le Bourgeois Gentilhomme*, who discovers to his astonishment that he has been speaking prose all his life. The hypothesis, articulated by Gruber, Zuberbühler, Clément and van Schaik (2015), captures a crucial distinction: having mental states versus representing oneself as having them. Great apes possess cultural traditions—tool-use techniques, grooming patterns, food preferences that vary between groups—but may not represent these as "our way of doing things" subject to deliberate evaluation and modification.
@@ -88,7 +88,7 @@ Metarepresentation requires holding a mental state and a representation of that 
 
 ### Shared Intentionality
 
-Tomasello's concept of shared intentionality illuminates the transition. Joint attention—knowing that you're both attending, knowing that the other knows—involves the infinite recursion of common knowledge: "I know you know I know..." This recursive mutual awareness characterises human social coordination and is conspicuously limited in great apes. Genuine joint attention requires representing your own attention state, the other's attention state, and the relationship between them—*knowing* you're attending jointly, not merely attending in parallel.
+Tomasello's concept of shared intentionality (Tomasello & Herrmann 2010; Tomasello 2019) illuminates the transition. Joint attention—knowing that you're both attending, knowing that the other knows—involves the infinite recursion of common knowledge: "I know you know I know..." This recursive mutual awareness characterises human social coordination and is conspicuously limited in great apes. Genuine joint attention requires representing your own attention state, the other's attention state, and the relationship between them—*knowing* you're attending jointly, not merely attending in parallel.
 
 ### The Empathy Gradient
 
@@ -202,5 +202,5 @@ The simpler hypothesis—that all metacognition is really procedural, that the a
 1. Gruber, T., Zuberbühler, K., Clément, F. & van Schaik, C. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
 1. Molière (1670). *Le Bourgeois Gentilhomme*.
 1. Tennie, C., Call, J. & Tomasello, M. (2009). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 364(1528), 2405-2415.
-1. Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
+1. Tomasello, M. & Herrmann, E. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
 1. Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
