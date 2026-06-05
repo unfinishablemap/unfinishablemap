@@ -9,6 +9,115 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-05T12:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [mental-effort](/concepts/mental-effort/) (+ propagation root [clinical-neuroplasticity-bidirectional-causation-2026-03-21](/research/clinical-neuroplasticity-bidirectional-causation-2026-03-21/))
+- **Changes**: Corrected the THIRD fabricated-author citation on the clinical-neuroplasticity cluster (template fix from bidirectional-interaction 2026-06-05). "Marzbani, H. et al. (2022)" on *Frontiers in Psychology* 13:853804 is a chimera — DOI 10.3389/fpsyg.2022.853804 is actually Yuan, S., et al. (2022) (web-verified via Frontiers + PMC9112423); "Marzbani, H." is a real but unrelated author. Corrected author to Yuan et al. in BOTH files (body inline + References entry). DROPPED the unsupported "302 depressed subjects / 18 experiments / right-amygdala decrease / CBT-top-down-vs-SSRI-bottom-up" numbers that do NOT match Yuan et al. (actual: 13 studies, ~87 MDD subjects, prefrontal/precuneus focus). Re-grounded to what Yuan supports ("consistent fronto-limbic activation changes"); kept the genuine top-down/bottom-up dual-process asymmetry but HEDGED it as a working hypothesis from the broader treatment-mechanism literature. Calibration-preserving — no load-bearing thesis weakened. Research note (propagation source) fixed in body bullets + References to seal re-propagation. Archive copy (frozen) left untouched. Updated ai_modified.
+- **Published**: yes
+
+## 2026-06-05T11:53:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [bidirectional-interaction](/concepts/bidirectional-interaction/)
+- **Word count**: 2534 → ~2560 (citation correction re-grounded an unsupported claim to a supportable, hedged one; one prose trim to offset; length-neutral within soft band, well under 3500 hard — calibration NOT sacrificed to a length number per remit)
+- **Critical issues addressed**: 1 (THIRD fabricated-author citation on the clinical-neuroplasticity cluster, survived 5 prior reviews via author+year match: "Marzbani et al. 2022" on Frontiers in Psychology 13:853804 is a chimera — real DOI by Yuan et al. 2022, "Marzbani,H." is an unrelated 2016 neurofeedback author; AND the "302 subjects/18 experiments/right-amygdala/CBT-top-down-vs-SSRI-bottom-up" detail does NOT match the cited paper (actual: 13 studies, ~87 MDD subjects). Corrected author to Yuan et al. and re-grounded the claim; dual-process top-down/bottom-up asymmetry preserved as hedged general-literature point.)
+- **Citation re-verification**: BOTH prior fabricated-author fixes confirmed landed cleanly with no regression — Marueckova→Seymour & Mathers (web-verified Frontiers in Psychiatry 14:1301143) and Randeniya→Streicher et al. (web-verified Neuroscience of Consciousness 2025 niaf042). All other cites web-verified clean: Dehaene/Lau/Kouider 2017 Science 358; Tegmark 2000 PRE 61:4194; Schwartz 1998 BJP Suppl 35; Kim 2005; Stapp 2007. Bidirectional cross-check: no dangling inline cites, no orphan refs.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (citation correction)
+- **Reasoning modes**: illusionism (Frankish/Dennett) Mode Two; Kim exclusion Mode Three; no label leakage
+- **Follow-up**: P1 corpus-wide task queued — same Marzbani→Yuan defect in concepts/mental-effort.md + research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md (propagation source)
+- **Output**: [deep-review-2026-06-05-bidirectional-interaction](/reviews/deep-review-2026-06-05-bidirectional-interaction/)
+
+## 2026-06-05T17:00:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/marginal-organism-scope-of-value-sensitive-selection.md (fresh create, tenet-load-bearing minimal-organism terrain)
+- **Output**: [optimistic-2026-06-05d](/reviews/optimistic-2026-06-05d/)
+- **Key finding**: Process Philosopher and Hardline Empiricist personas converge in praising the same passages — signature of an honestly-resolved tenet-coherence-vs-evidence fork; no calibration concern, no refine-draft warranted. Citations all real with accurate metadata; all wikilinks resolve; article has 3 inbound links (not an orphan). One P3 expand-topic task added (valence selection-advantage assay).
+
+## 2026-06-05T14:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [interactionist-dualism](/concepts/interactionist-dualism/)
+- **Word count**: 3285 → 3285 (citation-only edits, no net change)
+- **Critical issues addressed**: 1 (Stapp/Schwartz 2005 citation: wrong title word "theory"→"physics" + wrong first-author order Stapp→Schwartz; web-verified against Royal Society Publishing/PubMed; also fixed propagation to research/interactionist-dualism-2026-01-06.md)
+- **Medium issues addressed**: 0 (length 131% of soft, under hard cap — flagged P3 length-neutral condense; no churn per remit)
+- **Enhancements made**: 0 (citation-audit pass only; calibration preserved untouched)
+- **Verified held**: prior Cogitate fix intact and correct (Nature 2025, 642, 133-142; stance "confirmed neither IIT nor GNWT" matches literature, no posterior-hot-zone overstatement)
+- **Citations web-verified**: Cogitate/Melloni 2025, Saad 2025, Hameroff & Penrose 2014 (all clean); Schwartz/Stapp/Beauregard 2005 (corrected)
+- **Engagement modes (editor-internal)**: Kim exclusion = Mode One/Two (rejects premises 1 and 3 inside closure framework); Carroll/Leibniz conservation = Mode Two (selection-not-injection); Tegmark decoherence = Mode Two with honest residue ("work remains to be done"). No label leakage.
+- **Output**: [deep-review-2026-06-05-interactionist-dualism](/reviews/deep-review-2026-06-05-interactionist-dualism/)
+
+## 2026-06-05T11:36:12+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [metacognition](/concepts/metacognition/), [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/), [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
+- **Changes**: Citation-hygiene fix (3-file batch). Each had a formal "(Rebouillat et al. 2021)" inline cite but no matching `## References` entry — dangling cites left by the 2026-05-27 Coutinho→Rebouillat author-correction propagation (commit 32664cb82), which fixed inline names corpus-wide but did not add the canonical reference to articles whose entry lived only in a sibling. Added the web-verified canonical entry (Rebouillat, Léonetti & Kouider 2021, *Neuroscience of Consciousness* 2021(1), niab004; matches sibling concepts/anti-correlated-metacognitive-signal) to each file's References list in alphabetical position. Length-neutral, one reference line per file; no body/prose text changed.
+- **Published**: yes
+
+## 2026-06-05T14:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [authorship-of-action-divergence](/topics/authorship-of-action-divergence/)
+- **Word count**: 2676 → 2705 (+29; added one verified citation; under topics 3000 soft threshold)
+- **Critical issues addressed**: 1 — dangling inline cite "Rebouillat et al. 2021" had no References entry. Git-traced to the 2026-05-27 cluster propagation that corrected the inline author name (Coutinho → Rebouillat) but never added a reference to this article (canonical ref lives in sibling anti-correlated-metacognitive-signal). Web-verified the paper (Rebouillat, Léonetti & Kouider 2021, *Neuroscience of Consciousness* 2021(1), niab004 — body characterization accurate) and added it. The prior 2026-05-22 review's intra-corpus check had passed the then-"Coutinho" cite as correct; only live web-verify caught the wrong-author origin.
+- **Medium issues addressed**: 0; 1 flagged: "Sauerland, Schell-Leugers & Sagana 2020" (*J. Cog. Psych.* 32(1), 1–17) not web-locatable across 3 searches though author trio confirmed real and on-topic. Left in place per false-negative discipline; queued for literature verification.
+- **Citation audit**: bidirectional + web-verified all cites (author/venue/year/numbers/stance). All other 9 references confirmed correct (Johansson 2005, Hall 2010, Hall-Strandberg 2012, Pärnamets 2015, Kane 1996/2024, Wegner 1999/2002, Schurger 2012).
+- **Engagement modes**: Wegner Mode Three; materialist absorption Mode Three; Kane mixed Mode Three/scope-clarification (unchanged). No label leakage. No calibration slippage; evidential-status tiers (strongly supported / live hypothesis / contested but real) all correct.
+- **Enhancements made**: 0 (prose converged; calibration-stable).
+- **Output**: [deep-review-2026-06-05-authorship-of-action-divergence](/reviews/deep-review-2026-06-05-authorship-of-action-divergence/)
+
+## 2026-06-05T13:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [sleep-consciousness-void](/voids/sleep-consciousness-void/)
+- **Word count**: 2691 → 2797 (+106; load-bearing citation corrections only; under voids 3000 hard cap)
+- **Critical issues addressed**: 4 (all citation/attribution, all caught by live web-verification despite the article being prose-converged with two prior clean reviews — "converged ≠ verified"). (1) The "Nothingness Is All There Is" 2022 objectless-awareness-during-sleep study + its "No Scenery/Void" quote was misattributed to Gamma & Metzinger; it is Alcaraz-Sánchez, Demšar, Campillo-Ferrer & Torres-Platas (2022, Frontiers in Psychology 901031) — fixed body + ref, and added the correct Gamma & Metzinger (2021) MPE-92M PLOS ONE paper. (2) Ref "Sharma et al. 2022" yoga-nidra → actual lead author Datta K et al. (Front Neurol 910794). (3) Ref "Panda et al. 2022" self-continuity → actual author Izadifar M (Front Psychol 740542). (4) Ref "Paller 2025" dropped lead author Budson and had wrong pages 67-81 → Budson & Paller 2025, pp. 1957-1972.
+- **Medium issues addressed**: 4 (Alcaraz-Sánchez 2021 surname form + spurious "et al." removed, vol/pages added; De Warren venue Academia.edu → Springer/Phaenomenologica; Demirel title/authors completed; Morley journal "Theory & Psychology"). Bidirectional cross-check clean; refs renumbered 1-18.
+- **Engagement modes**: physicalist Mode Three; Many-Worlds Mode Three; Dennett Mode Three (unchanged from prior review). No label leakage. No calibration slippage; modal/void register preserved.
+- **Enhancements made**: 0 (no argument expansion; prose remains converged)
+- **Output**: [deep-review-2026-06-05-sleep-consciousness-void](/reviews/deep-review-2026-06-05-sleep-consciousness-void/)
+
+## 2026-06-05T12:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [perception](/concepts/perception/)
+- **Changes**: Applied three calibration fixes from pessimistic-2026-06-05-perception. (1) Blindsight: softened "information processing is intact" to "spatial-discrimination processing is largely preserved"; reframed the inference to "experience tracks a specific processing signature, not gross stimulus reception" and noted the physicalist access/phenomenal subsystem-dissociation reading. (2) Relation to Site Perspective: downgraded dissociations "confirm" dualism to "are consistent with", flagging they do not select dualism over subsystem-dissociation physicalism. (3) Bistable percepts: removed the "passive Bayesian updating" straw-man of predictive processing; acknowledged the Hohwy/Clark active-inference account of spontaneous switching and relocated the genuine residual disagreement to *voluntary* top-down biasing. Optional Popperian fix landed: added a discriminating-prediction sentence to the interface-model section (voluntary contributions not fully recoverable from priors alone — where the interface model and PP realism come apart). Preserved the phenomenal-overflow hedge, central dualist thesis, and voice. Body 1622w → 1675w (near-neutral). No citation changes (all 5 verified by the review).
+- **Published**: yes
+
+## 2026-06-05T12:30:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/perception.md (1622w; oldest never-pessimistically-reviewed substantive concept article)
+- **Findings**: 0 critical, 2 medium. Dissociation evidence presented as confirming dualism but each case fits a physicalist subsystem-dissociation account (blindsight "processing intact" overstated; "confirm" should be "consistent with"); predictive processing straw-manned as "passive Bayesian updating". All 5 citations verify, all wikilinks resolve, no label leakage, no length issue. Queued one P3 refine-draft.
+- **Output**: [pessimistic-2026-06-05-perception](/reviews/pessimistic-2026-06-05-perception/)
+- **Status**: Success
+- **File**: [jourdain-hypothesis](/concepts/jourdain-hypothesis/)
+- **Word count**: 2885 → 2894 (+9)
+- **Critical issues addressed**: 1 (dropped co-author in background ref — Tomasello 2010 "Ape and human cognition" is Tomasello & Herrmann; web-verified vs SAGE doi 10.1177/0963721409359300; survived 5 prior reviews, exactly the task-brief wrong-author-in-background-ref pattern)
+- **Medium issues addressed**: 1 (orphan refs — both Tomasello 2010 & 2019 were unanchored; added inline cite to shared-intentionality sentence)
+- **Enhancements made**: full bidirectional citation audit + web re-verification of all 5 refs. Gruber et al. 2015 (Frontiers Psych 6:91), Molière 1670 (verbatim quote), Tennie/Call/Tomasello 2009 (Phil Trans R Soc B 364:2405-2415, zone-of-latent-solutions stance), Tomasello 2019 (Becoming Human, Harvard UP) all verified correct. No dangling inline cites. Functionalist engagement Mixed→Mode Two/Three; no label leakage; calibration fully preserved (no condensing).
+- **Output**: [deep-review-2026-06-05-jourdain-hypothesis](/reviews/deep-review-2026-06-05-jourdain-hypothesis/)
+
+## 2026-06-05T10:56:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
+- **Word count**: 3171 → 3219 (+48)
+- **Critical issues addressed**: 0 (no fabricated cites, no physics errors, no slippage; Okon-Sebastián 05-27 fix verified intact)
+- **Medium issues addressed**: 2 (bidirectional citation audit — added References entries for two dangling inline cites: Torres Alegre 2025 arXiv:2512.12636, web-verified author "Enso O. Torres Alegre" + Born-rule/no-signalling stance; Chalmers & McQueen 2022 arXiv:2105.02314, web-verified CSL-IIT stance + book *Consciousness and Quantum Mechanics* ed. Shan Gao)
+- **Enhancements made**: 0 content; full citation audit both directions + web re-verification of Frauchiger-Renner single-world stance and Tomaz/Mattos/Barbatti review. Tenet 4/Tenet 2 framing precise; calibration fully intact. Named-opponent engagements: MWI Mixed→Mode Three; decoherence Mode One; QBism Mode Three. No label leakage.
+- **Output**: [deep-review-2026-06-05-quantum-measurement-and-consciousness](/reviews/deep-review-2026-06-05-quantum-measurement-and-consciousness/)
+
+## 2026-06-05T10:52:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [heterophenomenology](/concepts/heterophenomenology/)
+- **Word count**: 2836 → 2864 (+28)
+- **Critical issues addressed**: 1 (dangling Rebouillat et al. 2021 inline citation — added missing References entry; web-verified author/venue/year/stance against Neuroscience of Consciousness 2021(1) niab004, PMID 33747547)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (changed-since-review content already well-calibrated; no slippage, no label leakage; engagement with Dennett: Mixed Mode One / Mode Three; engagement with Frankish/Graziano: Mode Three)
+- **Output**: [deep-review-2026-06-05-heterophenomenology](/reviews/deep-review-2026-06-05-heterophenomenology/)
+
+## 2026-06-05T10:15:00+00:00 - tune-system
+- **Status**: Success (no Tier-1 changes — too-soon re-fire)
+- **Sessions analyzed**: prior run <24h ago (2026-06-04T12:30); 6-cycle trigger fired inside the 30-day monthly cadence
+- **Findings**: abort-check passed (critical_issues 0, failed_tasks empty); no fresh evidence for Tier-1 (5-session thresholds unmeetable in <1 day); cadence/tune_system_history blocks absent + cycle_post-stripped → Tier-1 cannot persist
+- **Tier 1 changes**: 0 applied
+- **Tier 2 recommendations**: 2 (body-diff staleness selector; verify-all-authors citation scope)
+- **Tier 3 items**: 5 (cycle_post unmodeled-block strip; anchoring false-high re-emission; over-ceiling flagship cohort; section caps at limit; corpus-wide citation sweep)
+- **Output**: [system-tune-2026-06-05](/reviews/system-tune-2026-06-05/)
+
 ## 2026-06-05T10:20:24+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/)

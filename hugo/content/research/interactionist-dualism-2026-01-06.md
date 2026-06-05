@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-01-06 20:45:00+00:00
+ai_modified: 2026-06-05 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts: []
@@ -250,7 +250,7 @@ Based on this research, articles could explore:
 - Stapp, H. P. (1999). Attention, Intention, and Will in Quantum Physics. *Journal of Consciousness Studies*, 6(8-9), 143-164.
 - Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 - Stapp, H. P. (2008). A model of the quantum-classical and mind-brain connections, and of the role of the quantum Zeno effect in the physical implementation of conscious intent. https://arxiv.org/abs/0803.1633
-- Stapp, H. P., Schwartz, J. M., & Beauregard, M. (2005). Quantum theory in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
+- Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 - 2025 paper on quantum microtubule substrate: https://academic.oup.com/nc/article/2025/1/niaf011/8127081
 
 ### Encyclopedia Articles

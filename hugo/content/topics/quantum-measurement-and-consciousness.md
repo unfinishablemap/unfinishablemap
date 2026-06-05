@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-06-04 16:01:44+00:00
+ai_modified: 2026-06-05 10:56:21+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ description: 'The measurement problem and the hard problem share an identical lo
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-27 12:00:00+00:00
+last_deep_review: 2026-06-05 10:56:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -218,6 +218,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 1. Bohr, N. (1935). "Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?" *Physical Review* 48, 696-702.
 1. Chalmers, D.J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies* 2(3), 200-219.
 1. Chalmers, D.J. (1996). *The Conscious Mind*. Oxford University Press.
+1. Chalmers, D.J. & McQueen, K.J. (2022). "Consciousness and the Collapse of the Wave Function." In *Consciousness and Quantum Mechanics*, ed. Shan Gao. Oxford University Press. arXiv:2105.02314 (2021).
 1. Frauchiger, D. & Renner, R. (2018). "Quantum theory cannot consistently describe the use of itself." *Nature Communications*, 9(1), 3711.
 1. Ghirardi, G.C., Rimini, A., Weber, T. (1986). "Unified dynamics for microscopic and macroscopic systems." *Physical Review D*.
 1. Kremnizer, K., & Ranchin, A. (2015). Integrated information-induced quantum collapse. *Foundations of Physics*, 45(8), 889-899.
@@ -226,6 +227,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 1. Sebens, C.T. & Carroll, S.M. (2018). "Self-Locating Uncertainty and the Origin of Probability in Everettian Quantum Mechanics." *British Journal for the Philosophy of Science*, 69(1), 25-74.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tomaz, A.A., Mattos, R.S., Barbatti, M. (2025). "The Quantum Measurement Problem: A Review of Recent Trends." arXiv:2502.19278.
+1. Torres Alegre, E.O. (2025). "Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories." arXiv:2512.12636.
 1. Von Neumann, J. (1932). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
 1. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory According to the Everett Interpretation*. Oxford University Press.
 1. Wheeler, J.A. (1983). "Law Without Law." In *Quantum Theory and Measurement*, eds. Wheeler and Zurek. Princeton University Press.

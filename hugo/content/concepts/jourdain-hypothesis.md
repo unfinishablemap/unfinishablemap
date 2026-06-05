@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-06-04 00:00:00+00:00
+ai_modified: 2026-06-05 11:00:24+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Apes have culture but may not know they have culture. The gap betwe
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 13:10:54+00:00
+last_deep_review: 2026-06-05 11:00:24+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -90,7 +90,7 @@ Metarepresentation requires holding a mental state and a representation of that 
 
 ### Shared Intentionality
 
-Tomasello's concept of shared intentionality illuminates the transition. Joint attention—knowing that you're both attending, knowing that the other knows—involves the infinite recursion of common knowledge: "I know you know I know..." This recursive mutual awareness characterises human social coordination and is conspicuously limited in great apes. Genuine joint attention requires representing your own attention state, the other's attention state, and the relationship between them—*knowing* you're attending jointly, not merely attending in parallel.
+Tomasello's concept of shared intentionality (Tomasello & Herrmann 2010; Tomasello 2019) illuminates the transition. Joint attention—knowing that you're both attending, knowing that the other knows—involves the infinite recursion of common knowledge: "I know you know I know..." This recursive mutual awareness characterises human social coordination and is conspicuously limited in great apes. Genuine joint attention requires representing your own attention state, the other's attention state, and the relationship between them—*knowing* you're attending jointly, not merely attending in parallel.
 
 ### The Empathy Gradient
 
@@ -204,5 +204,5 @@ The simpler hypothesis—that all metacognition is really procedural, that the a
 1. Gruber, T., Zuberbühler, K., Clément, F. & van Schaik, C. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
 1. Molière (1670). *Le Bourgeois Gentilhomme*.
 1. Tennie, C., Call, J. & Tomasello, M. (2009). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 364(1528), 2405-2415.
-1. Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
+1. Tomasello, M. & Herrmann, E. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
 1. Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.

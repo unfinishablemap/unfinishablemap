@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-05-27 13:36:21+00:00
+ai_modified: 2026-06-05 10:52:21+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Dennett's third-person method for studying consciousness. Its offic
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-19 16:28:35+00:00
+last_deep_review: 2026-06-05 10:52:21+00:00
 modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'
@@ -174,5 +174,7 @@ Dennett, D. (1991). *Consciousness Explained*. Little, Brown and Company.
 Dennett, D. (2003). "Who's on First? Heterophenomenology Explained." *Journal of Consciousness Studies*, 10(9-10), 19-30.
 
 Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
+
+Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). "People confabulate with high confidence when their decisions are supported by weak internal variables." *Neuroscience of Consciousness*, 2021(1), niab004.
 
 Varela, F. (1996). "Neurophenomenology: A Methodological Remedy for the Hard Problem." *Journal of Consciousness Studies*, 3(4), 330-349.

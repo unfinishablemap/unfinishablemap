@@ -4,7 +4,7 @@ ai_modified: 2026-06-03 02:27:05+00:00
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-03-21
-date: '2026-06-03'
+date: '2026-06-05'
 draft: false
 related_articles: []
 title: Research Notes - Clinical Neuroplasticity Evidence for Bidirectional Mental
@@ -82,11 +82,9 @@ Clinical neuroplasticity research provides substantial empirical support for bid
 - **URL**: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.853804/full
 - **Type**: Systematic reviews and meta-analyses
 - **Key points**:
-  - CBT produces measurable changes in fronto-limbic circuitry: cingulate cortex, prefrontal cortex, amygdala-hippocampal complex
-  - Meta-analysis (302 depressed subjects, 18 experiments): right amygdala activity consistently decreases with treatment
-  - Anxiety treatment meta-analysis: decreased activation in insula, anterior cingulate cortex, and dorsolateral prefrontal cortex
-  - CBT and pharmacotherapy produce comparable outcomes but through *different neural pathways* — CBT modulates top-down (cortical → limbic), medication modulates bottom-up (neurochemical → cortical)
-  - This pathway divergence is philosophically significant: if mental and physical causation were identical, they should converge on the same neural route
+  - CBT produces measurable changes in fronto-limbic circuitry following purely psychological treatment (activation-likelihood-estimation meta-analysis, Yuan et al., 2022)
+  - The broader treatment-mechanism literature characterises CBT and pharmacotherapy as producing comparable outcomes through *different neural pathways* — CBT acting top-down on prefrontal regulatory circuits, medication acting bottom-up on limbic targets — though this dual-process asymmetry remains a working hypothesis rather than a settled finding
+  - If robust, this pathway divergence is philosophically significant: if mental and physical causation were identical, they should converge on the same neural route
 - **Tenet alignment**: Strong support for Tenet 3. The distinct causal pathways for psychological vs. pharmacological intervention suggest genuinely different types of causation.
 
 ### Neurobiological Changes from Mindfulness and Meditation (2024)
@@ -216,7 +214,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Beauregard, M., & O'Leary, D. (2007). *The Spiritual Brain: A Neuroscientist's Case for the Existence of the Soul*. HarperOne.
 - Álvarez, F. J. (2013). Consciousness, brain, neuroplasticity. *Frontiers in Psychology*, 4, 412.
 - Manzotti, R., & Moderato, P. (2023). An evidence-based critical review of the mind-brain identity theory. *Frontiers in Psychology*, 14, 1150605.
-- Marzbani, H., et al. (2022). Neural effects of cognitive behavioral therapy in psychiatric disorders: A systematic review and activation likelihood estimation meta-analysis. *Frontiers in Psychology*, 13, 853804.
+- Yuan, S., Wu, H., Wu, Y., Xu, H., Yu, J., Zhong, Y., Zhang, N., Li, J., Xu, Q., & Wang, C. (2022). Neural effects of cognitive behavioral therapy in psychiatric disorders: A systematic review and activation likelihood estimation meta-analysis. *Frontiers in Psychology*, 13, 853804.
 - Ren, Y., et al. (2025). Activation likelihood estimation meta-analysis of the effects of cognitive behavioral therapy on brain activation in the treatment of depression and anxiety disorders. *Depression and Anxiety*, 3557367.
 - Rodríguez-Martín, M. L., et al. (2024). Neurobiological changes induced by mindfulness and meditation: A systematic review. *Biomedicines*, 12(11), 2613.
 - Seymour, J., & Mathers, N. (2024). Placebo stimulates neuroplasticity in depression: Implications for clinical practice and research. *Frontiers in Psychiatry*, 14, 1301143.

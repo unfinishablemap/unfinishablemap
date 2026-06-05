@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-02 09:30:18+00:00
+ai_modified: 2026-06-05 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -105,7 +105,7 @@ The Inzlicht and Kurzban process models provide the serious non-epiphenomenalist
 
 [Neuroplasticity research](/concepts/neuroplasticity/) offers suggestive empirical support — convergent across psychotherapy, contemplative practice, and clinical case studies — though the evidence admits materialist reinterpretation.
 
-CBT meta-analyses show measurable neural changes through top-down pathways distinct from pharmacological treatment. A meta-analysis of 302 depressed subjects found consistent amygdala decreases following CBT (Marzbani et al., 2022); anxiety treatment shows decreased insula, anterior cingulate, and dorsolateral prefrontal activation. Effortful cognitive reappraisal engages prefrontal regulatory circuits that modulate subcortical processing — see [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) for the full pathway-divergence argument.
+CBT produces measurable neural changes following purely psychological treatment. An activation-likelihood-estimation meta-analysis found consistent fronto-limbic activation changes after CBT across psychiatric disorders (Yuan et al., 2022). The broader treatment-mechanism literature characterises this as a dual-process asymmetry — psychological therapies acting primarily top-down on prefrontal regulatory circuits, antidepressants more directly bottom-up on limbic targets — though this divergence remains a working hypothesis rather than a settled finding. Effortful cognitive reappraisal engages prefrontal regulatory circuits that modulate subcortical processing — see [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) for the full pathway-divergence argument.
 
 Contemplative neuroscience extends the pattern: long-term meditators show functional brain differences (altered activation, gamma synchrony) tracking practice. Earlier structural claims (cortical thickness) have been weakened by Kral et al. (2022) — a well-powered replication (N=218) with active controls found no structural changes from MBSR. Lutz et al. (2008) document how expertise reshapes the phenomenology: novices require active redirection, while experts maintain stability with diminished effort and finer-grained awareness of effortful/effortless transitions.
 
@@ -180,7 +180,7 @@ If controlling attention genuinely costs something, something must be doing the 
 1. Kahneman, D. (1973). *Attention and Effort*. Prentice-Hall.
 1. Kurzban, R., Duckworth, A., Kable, J.W., & Myers, J. (2013). An opportunity cost model of subjective effort and task performance. *Behavioral and Brain Sciences*, 36(6), 661-679.
 1. Lutz, A., Slagter, H.A., Dunne, J.D. & Davidson, R.J. (2008). Attention regulation and monitoring in meditation. *Trends in Cognitive Sciences*, 12(4), 163-169.
-1. Marzbani, H. et al. (2022). Meta-analysis of neuroimaging studies of CBT for depression. [Cited via clinical neuroplasticity evidence article.]
+1. Yuan, S., Wu, H., Wu, Y., Xu, H., Yu, J., Zhong, Y., Zhang, N., Li, J., Xu, Q., & Wang, C. (2022). Neural effects of cognitive behavioral therapy in psychiatric disorders: A systematic review and activation likelihood estimation meta-analysis. *Frontiers in Psychology*, 13, 853804.
 1. Naccache, L., Dehaene, S., Cohen, L., Habert, M.-O., Guichart-Gomez, E., Galanaud, D., & Willer, J.-C. (2005). Effortless control: Executive attention and conscious feeling of mental effort are dissociable. *Neuropsychologia*, 43(9), 1318-1328.
 1. Schwartz, J.M., Stoessel, P.W., Baxter, L.R., Martin, K.M. & Phelps, M.E. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109-113.
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
