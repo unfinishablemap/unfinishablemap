@@ -4,7 +4,7 @@ description: "Fundamental physics equations work equally well forward and backwa
 created: 2026-02-01
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-05-27T00:00:00+00:00
+ai_modified: 2026-06-05T00:12:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-05-19T00:00:00+00:00
+last_deep_review: 2026-06-05T00:12:38+00:00
 ---
 
 Time-symmetric physics refers to the property of fundamental physical laws working equally well when run backward in time. The Schrödinger equation, Maxwell's equations, and general relativity are all time-reversal invariant—given any solution, reversing the direction of time produces another valid solution. This symmetry has profound implications: if fundamental physics doesn't distinguish past from future, the apparent "arrow of time" we experience must emerge from something other than basic physical law.
@@ -184,6 +184,7 @@ Time-symmetric physics connects to the Map's [[tenets]] in several ways:
 - [[collapse-and-time]] — How collapse introduces temporal asymmetry
 - [[time-symmetric-selection-mechanism]] — Consciousness selecting through atemporal constraint-satisfaction
 - [[forward-in-time-conscious-selection]] — The non-retrocausal alternative the Map develops alongside time-symmetric selection
+- [[forward-in-time-vs-time-symmetric-selection]] — Side-by-side cost accounting for the two selection routes, without adjudicating between them
 - [[post-decoherence-selection]] — Where the forward-in-time route locates the conscious-physical interface
 - [[quantum-interpretations]] — Survey including transactional and TSVF frameworks
 - [[measurement-problem]] — Why collapse remains unexplained

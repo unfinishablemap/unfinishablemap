@@ -5,6 +5,16 @@ ai_modified: 2026-06-04T23:00:22+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T00:12:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/time-symmetric-physics]]
+- **Word count**: 2123 → 2123 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added Further Reading entry reciprocating the 2026-05-27 body link to forward-in-time-vs-time-symmetric-selection)
+- **Enhancements made**: 1
+- **Note**: Eighth review; firmly converged. Only change since the 2026-05-19 review was one calibration-clean sentence linking the new comparison article (declines to adjudicate). Attribution/calibration/reasoning-mode/label-leakage checks all clean. Engagements: common-sense Mode One; "change the past" Mode One; empiricist Mode Three; decoherence Mode One. 85% of soft threshold, no condensation pressure.
+- **Output**: [[reviews/deep-review-2026-06-05-time-symmetric-physics]]
+
 ## 2026-06-05T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/interface-formalization-void]]
