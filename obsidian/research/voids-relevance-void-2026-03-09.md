@@ -171,7 +171,7 @@ Based on this research, a voids article could:
 ## Citations
 
 1. Shanahan, M. "The Frame Problem." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/frame-problem/
-2. Vervaeke, J., Mastropietro, L., & Miscevic, F. (2024). "Naturalizing relevance realization: why agency and cognition are fundamentally not computational." *Frontiers in Psychology*. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1362658/full
+2. Jaeger, J., Riedl, A., Djedovic, A., Vervaeke, J., & Walsh, D. (2024). "Naturalizing relevance realization: why agency and cognition are fundamentally not computational." *Frontiers in Psychology*. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1362658/full
 3. Dreyfus, H. L. (2014). *Skillful Coping: Essays on the Phenomenology of Everyday Perception and Action*. Oxford University Press.
 4. Friston, K. (2010). "The free-energy principle: a unified brain theory?" *Nature Reviews Neuroscience*, 11, 127–138. https://www.nature.com/articles/nrn2787
 5. Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press.

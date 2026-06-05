@@ -5,6 +5,13 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T12:45:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[voids/relevance-void]], [[voids/mattering-void]], [[apex/medium-status-voids-in-cognition]], [[research/voids-mattering-void-2026-02-19]], [[research/voids-relevance-void-2026-03-09]]
+- **Changes**: Mechanical wrong-author citation fix (web-verified by pessimistic-2026-06-05b). The "Naturalizing relevance realization" (Front. Psychol. 15, 2024, DOI 10.3389/fpsyg.2024.1362658) reference carried the wrong author string "Vervaeke, J., Mastropietro, C., & Miscevic, F." (one note had "Mastropietro, L."). Real-paper/wrong-author state — corrected the reference-list authors to "Jaeger, J., Riedl, A., Djedovic, A., Vervaeke, J., & Walsh, D. (2024)" across all 5 files; citation kept, not deleted. In-text "Vervaeke and colleagues" phrasings left as-is (Vervaeke is a co-author). No other content changes.
+- **Verification**: grep for "Mastropietro"/"Miscevic" → 0 in content dirs; 3 live articles validate clean.
+- **Published**: yes
+
 ## 2026-06-05T12:30:00+00:00 - pessimistic-review
 - **Status**: Success — one critical/medium citation defect found (web-verified, corpus-propagated)
 - **Content reviewed**: `apex/medium-status-voids-in-cognition.md` (oldest apex by last-commit, never pessimistically reviewed; body ~4364w soft_warning, under apex hard 5000)
