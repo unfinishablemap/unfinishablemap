@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-05T13:15:00+00:00
+ai_modified: 2026-06-05T13:15:17+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-05T13:15:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/russellian-monism]]
+- **Word count**: 2698 → 2679 (-19; length-neutral, 107% of 2500 soft, under 3500 hard cap)
+- **Critical issues addressed**: 1 — **Williams (2021) wrong-title chimera + fabricated source-conclusion.** Web-verify (IngentaConnect / PhilArchive OA PDF / PhilPapers) established the cited "Williams, R. (2021). Russellian monism and quantum mechanics. JCS 28(5-6):145-172" is actually George R. Williams, **"Can the Psi Data Help Us Make Progress on the Problem of Consciousness?"** — a Bohmian implicate-order cosmopsychism+psi paper with ZERO mentions of Everett/many-worlds. The attributed load-bearing claim ("constitutive Russellian panpsychism most naturally compatible with Everett's many-worlds") is FABRICATED; the SEP RM entry (the source note's other cited source) also doesn't discuss Everett. Removed the attribution + citation; re-grounded the No-Many-Worlds divergence on RM's genuine interpretation-neutrality (no causal role at measurement ⇒ no bar to any interpretation), calibrated as a cost on the Map's OWN commitments, not positive evidence. Caught only by exhaustive web-verify — survived 7 prior reviews because the chimera had propagated and was intra-corpus-consistent ([[ai_citation_metadata_unreliable]]).
+- **Medium issues addressed**: 2 — Warren (2023) title fidelity ("brain functions"→"brain function", + colon, per IOP DOI acc4a8; article number 038001 confirmed); Cutter (2019) page range 109-130→109-129.
+- **Exhaustive citation audit (per task brief)**: web-verified against publisher of record — Kerskens & López Pérez 2022 (2nd-author sweep correct), Howell 2015 (year sweep correct), Khan/Wiest 2024, Brown C.D. 2025 (≠ R. Brown, disambiguation held), Hashemi 2024, Cutter 2019, Pautz 2019, Robinson 2018 all real-and-correct. Inline↔References both directions clean after Williams removal (no dangling, no orphan).
+- **Calibration**: rival-not-strawman framing preserved; no possibility/probability slippage; No-Many-Worlds engagement now MORE honest (no overclaimed authority). Mode-Three (Pautz parity) + Mode-Two (Howell/Robinson contingency) engagements honest; no label leakage.
+- **Corpus propagation**: chimera also in `topics/russellian-monism-versus-bi-aspectual-dualism.md` + root research note `research/...-supplement-2026-03-17.md` — NOT fixed here; queued as P1 refine-draft task.
+- **Output**: [[reviews/deep-review-2026-06-05-russellian-monism]]
 
 ## 2026-06-05T13:15:00+00:00 - deep-review
 - **Status**: Success
