@@ -5,6 +5,22 @@ ai_modified: 2026-06-05T17:14:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T18:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-under-extreme-metabolic-constraint]]
+- **Word count**: 2574 → 2627 (+53)
+- **Type**: Full citation audit (5th review; first to web-verify every citation against publisher of record). "Converged ≠ verified" confirmed — 6 critical citation defects survived 4 prior prose/calibration reviews.
+- **Critical issues addressed**: 6
+  - Stender 2014: wrong metabolic %s (38%→42% VS, 56%→55% MCS); "42% threshold" was the VS mean not the ~44% crossover; FABRICATED "94% recovery within 12 months" statistic removed (paper has no recovery-prediction data, reports ~83% classification accuracy).
+  - "Hoel 2024" MISATTRIBUTION → actual paper is Mashour et al. 2024, *Anesthesiology* 140(6):1221-1231 (not Hoel, not *Neuroscience of Consciousness*).
+  - Cerri 2017 venue: *Neuroscience of Consciousness* 3(1) → *Journal of Integrative Neuroscience* 16(s1):S19-S26.
+  - Batthyány & Greyson 2020 death-timing: "84%/week, 43%/24h" were Nahm-2012 figures cross-attributed; replaced with verified "majority within hours to days."
+  - Xu 2023 clinical setting: "during cardiac arrest" → comatose dying patients before/after ventilatory withdrawal; "thirty seconds" duration softened.
+- **Medium issues addressed**: 1 (propofol "30-70%" CMR reduction → defensible "tens of percent" — 70% upper bound unsupported; carried over unfixed from 2026-05-26 review).
+- **Cross-corpus**: root errors corrected in research note [[research/consciousness-extreme-metabolic-constraint-2026-04-05]] (also mis-attributes anaesthesia paper to "Sanders"); sibling [[topics/terminal-lucidity-and-filter-transmission-theory]] verified CORRECT (84%/43% rightly attributed to Nahm) — left unchanged.
+- **Engagement classification (editor-internal)**: production model — Mode Two with honest Mixed boundary-marking; no label leakage. Modal/filter calibration honest (no possibility/probability slippage); the defects were plain factual-citation errors, a distinct failure class.
+- **Output**: [[reviews/deep-review-2026-06-05-consciousness-under-extreme-metabolic-constraint]]
+
 ## 2026-06-05T17:14:57+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-and-collective-phenomena]]
