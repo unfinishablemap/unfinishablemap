@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix Cai/Kaeser (2024) citation metadata corpus-wide (wrong-title + wrong-initials variants)
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/motor-control-quantum-zeno.md
-- **Notes**: Discovered by the 2026-06-05 deep-review citation audit of [[apex/phenomenology-mechanism-bridge]] (now fixed there). The Nature 2024 dopamine paper is cited in 7 corpus locations with divergent metadata. CANONICAL CORRECT FORM (already present in concepts/attention-as-interface.md): `Cai, X., Liu, C. & Kaeser, P.S. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. Nature, 635(8038), 406-414. https://doi.org/10.1038/s41586-024-08038-z`. Web-verified against Nature DOI 10.1038/s41586-024-08038-z: title is "Dopamine dynamics are dispensable for movement but promote reward responses" (NOT "Action potential-induced dopamine release is dispensable..."); first authors Cai, X. & Liu, C.; Kaeser is senior author with initials P.S. (NOT P.A.). (1) PRIMARY FIX — topics/motor-control-quantum-zeno.md:149 has the WRONG-TITLE variant; correct it (and the in-text author if it cites "Kaeser et al."). (2) SAME-SWEEP — three files have correct title but wrong initials (P.A.→P.S.): research/dopamine-attention-motor-quantum-interface-2026-01-24.md, concepts/motor-selection.md, topics/dopamine-and-the-unified-interface.md. (3) concepts/attention-as-interface.md is already canonical — do not touch. The underlying scientific claim (fast dopamine dispensable for movement, supports reward) is accurate everywhere; this is metadata-only. Mechanical citation fix, length-neutral.
-- **Source**: deep-review
-- **Generated**: 2026-06-05
-
 ### P3: Deep review concepts/substance-property-dualism.md (changed-since-review staleness, gap ~8d)
 - **Type**: deep-review
 - **Status**: pending
@@ -963,6 +955,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Fix Cai/Kaeser (2024) citation metadata corpus-wide (wrong-title + wrong-initials variants)
+- **Type**: refine-draft
+- **Notes**: Discovered by the 2026-06-05 deep-review citation audit of [[apex/phenomenology-mechanism-bridge]] (now fixed there). The Nature 2024 dopamine paper is cited in 7 corpus locations with divergent metadata. CANONICAL CORRECT FORM (already present in concepts/attention-as-interface.md): `Cai, X., Liu, C. & Kaeser, P.S. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. Nature, 635(8038), 406-414. https://doi.org/10.1038/s41586-024-08038-z`. Web-verified against Nature DOI 10.1038/s41586-024-08038-z: title is "Dopamine dynamics are dispensable for movement but promote reward responses" (NOT "Action potential-induced dopamine release is dispensable..."); first authors Cai, X. & Liu, C.; Kaeser is senior author with initials P.S. (NOT P.A.). (1) PRIMARY FIX — topics/motor-control-quantum-zeno.md:149 has the WRONG-TITLE variant; correct it (and the in-text author if it cites "Kaeser et al."). (2) SAME-SWEEP — three files have correct title but wrong initials (P.A.→P.S.): research/dopamine-attention-motor-quantum-interface-2026-01-24.md, concepts/motor-selection.md, topics/dopamine-and-the-unified-interface.md. (3) concepts/attention-as-interface.md is already canonical — do not touch. The underlying scientific claim (fast dopamine dispensable for movement, supports reward) is accurate everywhere; this is metadata-only. Mechanical citation fix, length-neutral.
 
 ### ✓ 2026-06-05: Repoint degraded Neven (2024) citation in apex/what-it-might-be-like-to-be-an-ai.md
 - **Type**: refine-draft

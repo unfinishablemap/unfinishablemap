@@ -5,6 +5,17 @@ ai_modified: 2026-06-05T17:55:14+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/motor-control-quantum-zeno]] (+ 3 sibling files)
+- **Changes**: Corpus-normalized the Nature 2024 dopamine paper citation to its web-verified canonical form (DOI 10.1038/s41586-024-08038-z): `Cai, X., Liu, C. & Kaeser, P.S. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. Nature, 635(8038), 406-414.` Mechanical metadata-only fix across 4 files — paper is real, scientific claim unchanged, no de-citation.
+  - `topics/motor-control-quantum-zeno.md` line 149: fixed WRONG-TITLE ("Action potential-induced dopamine release...") + wrong-author/initials ("Kaeser, P.A., et al.") variant. No in-text "Kaeser et al." cite existed to repoint.
+  - `research/dopamine-attention-motor-quantum-interface-2026-01-24.md` line 217: fixed author/initials (correct title); left line-34 key-point and line-39 quote untouched (content/quote, out of metadata scope). Added missing `ai_modified` field.
+  - `concepts/motor-selection.md` line 251: fixed "Kaeser, P.A., et al." → canonical.
+  - `topics/dopamine-and-the-unified-interface.md` line 239: fixed "Kaeser, P.A., et al." → canonical.
+- **Not touched**: `concepts/attention-as-interface.md` (already canonical, per task).
+- **Published**: yes
+
 ## 2026-06-05T18:39:50+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/phenomenology-mechanism-bridge]]
