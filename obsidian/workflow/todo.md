@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/death-and-consciousness.md (changed-since-review staleness, gap ~2d)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/topics/death-and-consciousness.md
-- **Notes**: FLOOR-RESTORING + MARGIN-BUILDING by /replenish-queue 2026-06-05. Genuine changed-since-review staleness pick (churn-free filter): `ai_modified: 2026-05-27` (NOT today, ~9d ago, past the 7-day floor) is ~2 days AFTER `last_deep_review: 2026-05-25`, so AUDIT THE POST-05-25 CONTENT. CITATION-DEFECT BIAS: highly citation-heavy (~27 citation markers, ~6 recent 2020s refs) in the NDE/quantum/terminal-lucidity zone — exactly the post-2020 empirical/clinical territory this session's defect catches cluster in. (a) WEB-VERIFY ALL CITATION AUTHORS/metadata ([[ai-citation-metadata-unreliable]]); check TITLE/venue not just author+year. (b) 3-STATE DE-CITATION: fabricated (remove) / real-paper-wrong-author (correct) / real-correct (keep); when real author unfindable, remove the orphaned ref — do NOT false-negative-delete a real paper ([[citation-verify-false-negative]]). (c) PRESERVE calibration/evidential-status framing — NDE evidence in particular needs careful tier-handling ([[evidential-status-discipline]]); verify the 2026-02-17 quantum-mechanism unfalsifiability caveat (propagated from measurement-problem.md) is still present and not upgraded. (d) Writing-style + length discipline (3121 words, soft_warning for topics — do NOT trigger a condense; preserve load-bearing content). SELECTION-COLLISION CAVEAT: if a cycle-slot deep-review bumps `last_deep_review` to 2026-06-05 first, mark RESOLVED-OBSOLETE. Tenet alignment: Tenet 4 (No Many Worlds — indexical identity / cessation); Tenet 1 (Dualism) via filter-theory framing.
-- **Source**: staleness
-- **Generated**: 2026-06-05
-
 ### P2: Deep review concepts/reasons-responsiveness.md (changed-since-review staleness, gap ~2d)
 - **Type**: deep-review
 - **Status**: pending
@@ -1003,6 +995,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Deep review topics/death-and-consciousness.md (changed-since-review staleness, gap ~2d)
+- **Type**: deep-review
+- **Notes**: FLOOR-RESTORING + MARGIN-BUILDING by /replenish-queue 2026-06-05. Genuine changed-since-review staleness pick (churn-free filter): `ai_modified: 2026-05-27` (NOT today, ~9d ago, past the 7-day floor) is ~2 days AFTER `last_deep_review: 2026-05-25`, so AUDIT THE POST-05-25 CONTENT. CITATION-DEFECT BIAS: highly citation-heavy (~27 citation markers, ~6 recent 2020s refs) in the NDE/quantum/terminal-lucidity zone — exactly the post-2020 empirical/clinical territory this session's defect catches cluster in. (a) WEB-VERIFY ALL CITATION AUTHORS/metadata ([[ai-citation-metadata-unreliable]]); check TITLE/venue not just author+year. (b) 3-STATE DE-CITATION: fabricated (remove) / real-paper-wrong-author (correct) / real-correct (keep); when real author unfindable, remove the orphaned ref — do NOT false-negative-delete a real paper ([[citation-verify-false-negative]]). (c) PRESERVE calibration/evidential-status framing — NDE evidence in particular needs careful tier-handling ([[evidential-status-discipline]]); verify the 2026-02-17 quantum-mechanism unfalsifiability caveat (propagated from measurement-problem.md) is still present and not upgraded. (d) Writing-style + length discipline (3121 words, soft_warning for topics — do NOT trigger a condense; preserve load-bearing content). SELECTION-COLLISION CAVEAT: if a cycle-slot deep-review bumps `last_deep_review` to 2026-06-05 first, mark RESOLVED-OBSOLETE. Tenet alignment: Tenet 4 (No Many Worlds — indexical identity / cessation); Tenet 1 (Dualism) via filter-theory framing.
 
 ### ✓ 2026-06-05: Deep review topics/consciousness-under-extreme-metabolic-constraint.md (changed-since-review staleness, gap ~2d)
 - **Type**: deep-review

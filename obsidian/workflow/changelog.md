@@ -5,6 +5,18 @@ ai_modified: 2026-06-05T19:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T20:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/death-and-consciousness]]
+- **Word count**: 3121 → 3179 (+58, length-neutral; under 4000 hard cap; growth from load-bearing calibration corrections, not expansion)
+- **Type**: Mandated exhaustive citation audit, high-fabrication NDE/dying-brain zone (7th review; prior reviews re-confirmed an old verification rather than re-checking primaries — "converged ≠ verified")
+- **Citation audit**: web-verified every quantitative/load-bearing citation against publisher of record. ACCURATE: Van Lommel 2001 (18%, Lancet 358:2039-45); Nahm/Greyson/Kelly/Haraldsson 2012 (83 cases/250 yrs, AGG 55(1):138-42); Reimers et al. 2009 (PNAS 106(11):4219-24 — correctly PNAS not PhysRevE); Hagan/Hameroff/Tuszynski 2002 (PhysRevE 65:061901, ~7 orders attributed to Hameroff's group not as fact); Mashour 2019; AWARE 2014. Nahm "84%/43%" stats are from his 2009 JNMD paper and are NOT in the article — no Batthyány cross-attribution defect (unlike metabolic sibling).
+- **Critical issues addressed**: 2 — (1) AWARE II number/stance cross-attribution: "39% had recalled experiences of death" → corrected to ~40% recalled some perception of consciousness / ~20% RED (39.3% was the broad-consciousness bucket = 11/28, wrongly pinned to the stronger RED claim); (2) Xu/Borjigin 2023 conflation: clarified four COMATOSE ventilator-withdrawal patients who did NOT survive to report experience — gamma surge is a neural signal, not confirmed phenomenology (NOT cardiac-arrest-with-experience cohort)
+- **Medium issues addressed**: 1 — Osis & Haraldsson "over 1,000 cases" → "over 1,000 doctors and nurses surveyed" (the figure counts professionals, not patient cases)
+- **Cross-corpus check**: sibling articles already correctly pinned 39% to "conscious awareness" (NDE concept line 39, filter-theory line 102, both with small-self-selected-sample caveat) — only death-and-consciousness had drifted to the wrong "recalled experiences of death" pin; fix brings it into line. No further repoints needed.
+- **Engagement modes (editor-internal)**: Everettian — Mode Three (stable); Parfit — Mode Three/bedrock; illusionists — Mode Two. No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-05-death-and-consciousness]]
+
 ## 2026-06-05T19:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/phenomenal-output-causal-machinery-dissociation]]

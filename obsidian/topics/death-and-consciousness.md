@@ -4,7 +4,7 @@ description: "Does consciousness survive bodily death? Dualism keeps the questio
 created: 2026-01-14
 modified: 2026-03-11
 human_modified: null
-ai_modified: 2026-05-27T07:22:00+00:00
+ai_modified: 2026-06-05T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-05-25T17:09:15+00:00
+last_deep_review: 2026-06-05T00:00:00+00:00
 coalesced_from:
   - "/topics/death-and-consciousness/"
   - "/topics/death-phenomenology-beyond-ndes/"
@@ -90,13 +90,13 @@ This sharpens the Map's rejection of Parfit. The extended self isn't a pattern t
 
 ### Near-Death Experiences
 
-[[near-death-experiences|Near-death experiences]] (NDEs) feature out-of-body perception, life review, and profound mental clarity during brain compromise. Van Lommel et al. (2001) found 18% of cardiac arrest survivors reported NDEs; Parnia's AWARE studies (2014; 2023) found increasing evidence of conscious awareness during arrest, with AWARE II reporting 39% of survivors had recalled experiences of death. Xu et al. (2023) found gamma wave surges in dying brains—heightened neural organisation during apparent shutdown. Materialist explanations exist but none fully accounts for why failing neural function sometimes produces *heightened* consciousness. See [[near-death-experiences]] for detailed treatment.
+[[near-death-experiences|Near-death experiences]] (NDEs) feature out-of-body perception, life review, and profound mental clarity during brain compromise. Van Lommel et al. (2001) found 18% of cardiac arrest survivors reported NDEs; Parnia's AWARE studies (2014; 2023) found suggestive evidence of conscious awareness during arrest, with AWARE II reporting that around 40% of interviewed survivors recalled some perception of consciousness and roughly 20% described features consistent with a "recalled experience of death." Xu et al. (2023) recorded surges of gamma-band connectivity in four comatose patients during withdrawal of ventilatory support—heightened neural coupling in regions associated with conscious processing, though these patients did not survive to report any experience, so the surge is a neural signal rather than confirmed phenomenology. Materialist explanations exist but none fully accounts for why failing neural function sometimes coincides with reports of *heightened* consciousness. See [[near-death-experiences]] for detailed treatment.
 
 ### Deathbed Visions
 
 Deathbed visions (DBVs) occur in dying patients who remain conscious and lucid—unlike NDEs, brains are functioning, not shut down. Patients report seeing deceased relatives or unknown figures alongside the physical room, with coherent interaction and calm rather than distress (Kerr et al., 2014; Fenwick & Fenwick, 2008).
 
-Osis and Haraldsson's cross-cultural study (1977) compared over 1,000 cases from the United States and India. Despite vast cultural differences, both populations predominantly saw deceased rather than living persons—including individuals the patient did not know had died. This cross-cultural convergence resists hallucinatory explanation: if DBVs were projections of expectation, the content should vary with cultural context rather than converging on deceased persons.
+Osis and Haraldsson's cross-cultural study (1977) drew on survey responses from over 1,000 doctors and nurses in the United States and India reporting deathbed observations. Despite vast cultural differences, both populations predominantly saw deceased rather than living persons—including individuals the patient did not know had died. This cross-cultural convergence resists hallucinatory explanation: if DBVs were projections of expectation, the content should vary with cultural context rather than converging on deceased persons.
 
 ### Terminal Lucidity
 
