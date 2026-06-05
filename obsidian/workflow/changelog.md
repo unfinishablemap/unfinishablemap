@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-05T01:30:00+00:00
+ai_modified: 2026-06-05T02:00:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-05T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[positions/quantum-interface]]
+- **Task**: Cross-link P-Q3 (bias-without-deviation dilemma) to the corpus's sharpest route-by-route treatment (optimistic-2026-06-04g).
+- **Changes**:
+  - P-Q3 "Argued in" line now cites [[concepts/ensemble-level-epiphenomenalism]] as the sharpest route-by-route statement of the corridor-channel-vs-idleness question (trumping route + minimum-outside-the-corridor route, each rated honestly). PRESERVED the honest "does not resolve the dilemma / deeper engagement pending, tracked in outer-review queue" framing per evidential-status-discipline — cross-link, not an upgrade.
+  - Reciprocal: ensemble-level-epiphenomenalism opening paragraph now mentions it is logged as position P-Q3 in [[positions/quantum-interface]], "held open rather than resolved."
+  - Verified link target concepts/ensemble-level-epiphenomenalism.md exists on disk before editing.
+- **Length**: length-neutral (one phrase per file).
+- **Published**: yes
 
 ## 2026-06-05T00:00:00+00:00 - deep-review
 - **Status**: Success
