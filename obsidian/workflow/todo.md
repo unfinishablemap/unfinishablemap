@@ -37,14 +37,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Add reciprocal [[reasons-responsiveness]] wikilink in concepts/luck-objection.md
+### P2: Add reciprocal [[reasons-responsiveness]] wikilink in concepts/luck-objection.md
 - **Type**: integrate-orphan
 - **Status**: pending
 - **File**: obsidian/concepts/luck-objection.md
 - **Notes**: Suggested by optimistic review (see [[reviews/optimistic-2026-06-05f]]). `luck-objection.md` discusses reasons-responsiveness extensively in prose ("The agent explains the difference by selecting for reasons") and shares the Compatibilist Symmetry Challenge discipline, but carries NO `[[reasons-responsiveness]]` wikilink. `reasons-responsiveness.md` links to `luck-objection` and frames itself as the answer to it, so the reciprocal is missing. Low-risk: add the wikilink at the natural existing mention of reasons/reasons-responsive selection; do NOT add new prose or change length materially. Also mirror into `related_articles` if appropriate. Tenet alignment: Tenet 3 (Bidirectional Interaction) via reasons-guided selection.
 - **Source**: optimistic-review
 
-### P3: Fix Fleming 2024 page range in concepts/anti-correlated-metacognitive-signal.md
+### P2: Fix Fleming 2024 page range in concepts/anti-correlated-metacognitive-signal.md
 - **Type**: refine-draft
 - **Status**: pending
 - **File**: obsidian/concepts/anti-correlated-metacognitive-signal.md
@@ -52,7 +52,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: deep-review
 - **Generated**: 2026-06-05
 
-### P3: Repoint degraded Neven (2024) citation in apex/what-it-might-be-like-to-be-an-ai.md
+### P2: Repoint degraded Neven (2024) citation in apex/what-it-might-be-like-to-be-an-ai.md
 - **Type**: refine-draft
 - **Status**: pending
 - **File**: obsidian/apex/what-it-might-be-like-to-be-an-ai.md
@@ -964,7 +964,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-06-04)
 - **Generated**: 2026-06-04
 
-### P3: Place quantum Darwinism inside the qm-interpretations-beyond-many-worlds survey
+### P2: Place quantum Darwinism inside the qm-interpretations-beyond-many-worlds survey
 - **Type**: refine-draft
 - **Status**: pending
 - **File**: obsidian/topics/qm-interpretations-beyond-many-worlds.md
