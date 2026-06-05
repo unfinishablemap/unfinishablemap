@@ -5,6 +5,19 @@ ai_modified: 2026-06-05T15:14:29+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T15:53:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/what-consciousness-tells-us-about-physics]]
+- **Word count**: 4692 → 4692 (length-neutral; soft_warning at 117% of apex soft 4000, under hard 5000 — load-bearing Triple Screen content NOT cut)
+- **Critical issues addressed**: 0 (convergence result — exhaustive citation audit + calibration found zero defects)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (4th deep review; converged. Only frontmatter timestamps updated)
+- **Regression check**: 3 previously-fixed citation defects (Saad 2025, Buhler 2020, Denton 2024) ALL HELD — no regression through the 2026-06-01 apex-evolve growth.
+- **Citation audit**: FULL live web-verification per task directive ("converged ≠ verified", apex prone to defect accretion). Newly verified clean this pass: Tomaz/Mattos/Barbatti (arXiv:2502.19278, exact), Torres Alegre (arXiv:2512.12636, exact, author Enso O. Torres Alegre PUC Chile, correctly labelled preprint), Duch 2019 (Phys Life Rev 31:28-31 DOI plrev.2019.01.023) + Duch 1996 (Comput Phys Commun, title/venue correct). Pre-2020 canonical re-confirmed from 2026-05-29. ZERO new defects.
+- **Calibration**: all consciousness→physics inferences pass the tenet-accepting-reviewer test (no possibility/probability slippage); cryptochrome/Denton passage stays calibrated (microsecond not neural-timescale, "does not vindicate Stapp"); Triple Screen is admission-not-defence with [[evidential-status-discipline]]. Duch engagement Mode Three (framework-boundary, honest); no label leakage.
+- **Length**: flagged for human editorial decision (accumulated apex-evolve growth; triple-screen is load-bearing, NOT auto-condensable).
+- **Output**: [[reviews/deep-review-2026-06-05-what-consciousness-tells-us-about-physics]]
+
 ## 2026-06-05T15:40:59+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/clinical-phenomenology-and-altered-experience]]
