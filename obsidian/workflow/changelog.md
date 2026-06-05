@@ -5,6 +5,17 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T12:29:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-normativity-of-reason]]
+- **Word count**: 2525 → ~2530 (citation fixes + one added reference; no condensation; ok at 84% of 3000 soft)
+- **Critical issues addressed**: 1 — WRONG-AUTHOR in a background ref: ref 7 *"The Five Marks of the Mental," Frontiers in Psychology 8 (2017)* attributed to **"Crane, T. et al."**; the paper is single-authored by **Tuomas K. Pernu** (8:1084, DOI 10.3389/fpsyg.2017.01084). "et al." also wrong (sole author). Title/venue/year were correct — a wrong-author chimera in the background reference list that **survived five prior passes** because earlier passes only web-checked load-bearing cites, not the background list ("converged ≠ verified"). Fixed body ref + propagated fix to the seeding research note `research/consciousness-normativity-of-reason-2026-04-07.md` (its URL PMC5500963 is in fact the Pernu paper). Same defect class as yesterday's terminal-lucidity Masi/Mancuso fix below.
+- **Medium issues addressed**: 0
+- **Low issues addressed**: 1 — dangling inline cite: Carrier's wheel/emergence analogy discussed substantively in body but had no References entry (5th pass verified the attribution at richardcarrier.info but never added a ref). Added as ref 9; resequenced refs.
+- **Citation audit (bidirectional + web-verified, full remit)**: every reference web-verified, not just load-bearing. VERIFIED CLEAN after fixes — Lewis *Miracles* 2nd ed. 1960; Nagel *The Last Word* 1997 & *Mind and Cosmos* 2012; Reppert 2003; Sellars EPM 1956 (verbatim quote re-confirmed exact); Menuge "Ontological Argument from Reason" (Angus Menuge, PhilPapers / Philosophia Christi 13(1) 2011); Plantinga *Warrant and Proper Function* 1993; Carrier richardcarrier.info; both self-cite co-author bylines verified against target articles' ai_system (Sonquatre-cinq=sonnet-4-5, Oquatre-six=opus-4-6). Orphan refs (Nagel *Mind and Cosmos*, Reppert, Menuge) retained as Further-Reading bibliography.
+- **Reasoning-mode classification (editor-internal)**: reliabilism Mode Two + boundary-marking; functionalism Mode Two + Three; evolution/Plantinga in-framework, contested-flagged; Carrier rebuttal + honest residue. No boundary-substitution, no label leakage. Calibration intact (no possibility/probability slippage; 5th-pass "unbridgeable gap" hedge preserved). No content/calibration edits needed.
+- **Output**: [[reviews/deep-review-2026-06-05-consciousness-and-the-normativity-of-reason]]
+
 ## 2026-06-05T13:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/terminal-lucidity-and-filter-transmission-theory]]

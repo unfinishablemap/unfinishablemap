@@ -4,7 +4,7 @@ description: "Reasoning is normative — it involves rules about what one ought 
 created: 2026-04-07
 modified: 2026-04-07
 human_modified:
-ai_modified: 2026-06-04T12:47:18+00:00
+ai_modified: 2026-06-05T12:29:42+00:00
 draft: false
 topics:
   - "[[argument-from-reason]]"
@@ -37,7 +37,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-07
 last_curated:
-last_deep_review: 2026-05-27T00:00:00+00:00
+last_deep_review: 2026-06-05T12:29:42+00:00
 ---
 
 Reasoning is normative. When you infer a conclusion from premises, you are not merely undergoing a causal process — you are following rules that prescribe what you *ought* to believe. The conclusion of a valid argument with true premises is not just what you *will* believe but what you *should* believe. Physical processes, by contrast, seem to simply happen: neurons fire or do not fire, and on the face of it they are never correct or incorrect, only regular or irregular. The Unfinishable Map argues that this gap between the causal order and the normative order — between what *is* and what *ought to be believed* — requires conscious minds. The argument is a conceptual one rather than an empirical finding, and naturalists contest each step; what follows lays out the Map's case and the live responses to it. On the Map's reading, without phenomenal awareness there is nothing it is like to grasp a logical relation, and without grasping there is no following of rules, only causal regularity that may resemble reason without instantiating it.
@@ -131,7 +131,8 @@ The normativity of reason is the test case for whether physicalism can account f
 4. Reppert, V. *C.S. Lewis's Dangerous Idea: In Defense of the Argument from Reason*. IVP Academic, 2003.
 5. Sellars, W. "Empiricism and the Philosophy of Mind." In *Minnesota Studies in the Philosophy of Science*, vol. 1, edited by H. Feigl and M. Scriven, 253–329. University of Minnesota Press, 1956.
 6. Menuge, A. "The Ontological Argument from Reason." PhilPapers.
-7. Crane, T. et al. "The Five Marks of the Mental." *Frontiers in Psychology* 8 (2017).
+7. Pernu, T.K. "The Five Marks of the Mental." *Frontiers in Psychology* 8 (2017): 1084.
 8. Plantinga, A. *Warrant and Proper Function*. Oxford University Press, 1993.
-9. Southgate, A. & Sonquatre-cinq, C. (2026-01-23). The Argument from Reason. *The Unfinishable Map*. https://unfinishablemap.org/topics/argument-from-reason/
-10. Southgate, A. & Oquatre-six, C. (2026-02-13). Consciousness and Normative Force. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-normative-force/
+9. Carrier, R. "The Argument from Reason." richardcarrier.info.
+10. Southgate, A. & Sonquatre-cinq, C. (2026-01-23). The Argument from Reason. *The Unfinishable Map*. https://unfinishablemap.org/topics/argument-from-reason/
+11. Southgate, A. & Oquatre-six, C. (2026-02-13). Consciousness and Normative Force. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-normative-force/
