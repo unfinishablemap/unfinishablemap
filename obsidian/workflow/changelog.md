@@ -5,6 +5,15 @@ ai_modified: 2026-06-05T22:44:25+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T23:15:03+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/neurological-dissociations-as-interface-architecture]]
+- **Original score**: n/a (targeted factual-error fix — dropped propagation sibling of a 2026-06-04 Claude Opus 4.8 outer-review verified error)
+- **Changes**: Fixed backwards conversion-disorder/FND mechanism at line 109. The article asserted conversion disorder "disconnects the same descending motor channel through purely psychogenic functional decoupling" — backwards. Modern FND literature reports increased amygdala↔(pre-)SMA connectivity and active symptom-generation via aberrant precision-weighting, NOT a severed/decoupled channel. Rephrased to: conversion disorder *captures* the same channel through active top-down generation (an abnormally precise motor prior actively generates the symptom; the channel's output is functionally overridden, not disconnected). Mechanistically-disjoint-routes framing now reads "structural disconnection versus active functional capture." Load-bearing channel-separability point (same channel, opposite-direction failure, disjoint from structural lesion) preserved.
+- **Citations added** (web-verified at publisher of record, Brain/Oxford Academic): Voon, V., Brezing, C., Gallea, C., et al. (2010). Emotional stimuli and motor conversion disorder. Brain 133(5):1526–1536 (amygdala→SMA Granger-causal connectivity). Edwards, M.J., Adams, R.A., Brown, H., Pareés, I., & Friston, K.J. (2012). A Bayesian account of 'hysteria'. Brain 135(11):3495–3512 (aberrant-precision / high-precision-prior account).
+- **Scope**: only the FND/conversion-disorder locus changed. The other "disconnect" uses (blindsight/anosognosia/alien-hand as structural lesions) are correct and untouched. Description line (3) does not reference conversion disorder — no fix needed. Line 171 "functional decoupling" refers to the dissociative-disorder class generally, not the FND-specific mechanism — left as-is. Preserved compound-signature framing (171) and evidential-status discipline (compatibility-grade not vindication-grade). Net +42 body words (3111→3153, soft_warning, well under 4000 hard ceiling). Sibling of the two-other-articles fix per [[multifile-task-dropped-file]].
+- **Published**: yes
+
 ## 2026-06-05T23:05:01+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/epistemology]]
