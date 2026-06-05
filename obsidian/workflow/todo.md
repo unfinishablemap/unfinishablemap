@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Write concept page on metaontological deflationism (easy ontology / quantifier variance)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (optimistic-2026-06-05g). Develop Thomasson's easy ontology and Hirsch's quantifier variance as the load-bearing rival to ALL restricted-composition arguments the Map runs. The Map's best non-question-begging reply (deflationist still owes why intuitions cluster around organised/causally-unified systems) is currently a single sentence in consciousness-and-the-metaphysics-of-composition.md and deserves its own citable page. Tenet alignment: Occam's-Razor-Has-Limits. Check concepts/ cap before placing. Cross-link from composition articles.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-05
+
 ### P2: Deep review topics/recovery-order-asymmetry-as-interface-evidence.md (changed-since-review, gap ~7d)
 - **Type**: deep-review
 - **Status**: pending
