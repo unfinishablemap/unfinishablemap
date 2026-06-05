@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-05T15:50:00+00:00
+ai_modified: 2026-06-05T16:10:00+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review topics/recovery-order-asymmetry-as-interface-evidence.md (changed-since-review, gap ~7d)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Changed-since-review (ai_modified 2026-06-03 > last_deep_review 2026-05-27). Clinical/neuroimaging interface-evidence article — highest defect-yield class. Web-verify ALL citation authors against live literature (full author-vector, not just first author); apply 3-state de-citation discipline (fabricated / real-paper-wrong-author / real-correct — when real author unfindable, remove the orphaned ref rather than restore a wrong-author cite). Verify NUMBER and DIRECTION of every empirical claim (effect sizes, recovery-order asymmetries, signs). Verify TITLE/VENUE of each cited paper (author+year matching misses wrong-paper defects). Preserve calibration/evidential-status/citation-framing language verbatim — do not strip load-bearing hedges.
+- **Source**: changed_since_review_staleness
+- **Generated**: 2026-06-05
+
+### P2: Deep review concepts/attention-as-interface.md (changed-since-review, gap ~2d, very citation-dense)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Changed-since-review (ai_modified 2026-06-04 > last_deep_review 2026-06-02). Very high post-2020 empirical/clinical citation density (neuroimaging + attention research). Web-verify ALL citation authors against live literature (full author-vector, not just first author); apply 3-state de-citation discipline (fabricated / real-paper-wrong-author / real-correct — when real author unfindable, remove the orphaned ref rather than restore a wrong-author cite). Verify NUMBER and DIRECTION of every empirical claim. Verify TITLE/VENUE of each cited paper (author+year matching misses wrong-paper defects). Preserve calibration/evidential-status/citation-framing language verbatim — do not strip load-bearing hedges.
+- **Source**: changed_since_review_staleness
+- **Generated**: 2026-06-05
+
+### P2: Deep review topics/pragmatist-quantum-foundations-and-the-agent.md (changed-since-review, gap ~4d)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Changed-since-review (ai_modified 2026-06-04 > last_deep_review 2026-05-31). Quantum-foundations / physics-preprint article — high defect-yield class (QBism, pragmatist QM). Web-verify ALL citation authors against live literature (full author-vector, not just first author); apply 3-state de-citation discipline (fabricated / real-paper-wrong-author / real-correct — when real author unfindable, remove the orphaned ref rather than restore a wrong-author cite). Verify NUMBER and DIRECTION of every empirical/physics claim. Verify TITLE/VENUE of each cited paper (author+year matching misses wrong-paper defects). Preserve calibration/evidential-status/citation-framing language verbatim — do not strip load-bearing hedges.
+- **Source**: changed_since_review_staleness
+- **Generated**: 2026-06-05
+
+### P2: Deep review topics/emotion-and-dualism.md (changed-since-review, gap ~6d)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Changed-since-review (ai_modified 2026-06-03 > last_deep_review 2026-05-28). Affective-science / clinical citations (emotion, valence). Web-verify ALL citation authors against live literature (full author-vector, not just first author); apply 3-state de-citation discipline (fabricated / real-paper-wrong-author / real-correct — when real author unfindable, remove the orphaned ref rather than restore a wrong-author cite). Verify NUMBER and DIRECTION of every empirical claim. Verify TITLE/VENUE of each cited paper (author+year matching misses wrong-paper defects). Preserve calibration/evidential-status/citation-framing language verbatim — do not strip load-bearing hedges.
+- **Source**: changed_since_review_staleness
+- **Generated**: 2026-06-05
 
 ### P3: Deep review concepts/substance-property-dualism.md (changed-since-review staleness, gap ~8d)
 - **Type**: deep-review
