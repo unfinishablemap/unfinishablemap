@@ -5,6 +5,17 @@ ai_modified: 2026-06-05T23:55:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T23:55:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/testing-consciousness-collapse]]
+- **Word count**: 3718 → 3770 (+52)
+- **Critical issues addressed**: 0 (citation cluster re-verified independently against publishers of record — all clean; the 2026-05-26 Steane/Neven/Barbatti corrections hold up)
+- **Medium issues addressed**: 1 — stale empirical currency: macromolecule interferometry record (Fein et al. 2019, ~25,000 amu) superseded by Pedalino et al. (2026, *Nature* 649, 866–870), sodium nanoparticles >7,000 atoms above ~170,000 amu, ~1 order-of-magnitude macroscopicity gain. Verified date/vol/pages/authors/mass directly. Updated body + landscape table + added References entry 20; surrounding prose tightened to stay near-length-neutral. The 10⁹–10¹¹ amu gap to direct CSL testing preserved.
+- **Enhancements made**: 1 (Tier 1 interferometry picture now reflects 2026 state of the art)
+- **Reasoning-mode (editor-internal)**: Tegmark engagement Mode One→in-framework; Deutsch-Wallace Born-rule Mode One. Label-leakage scan clean. Calibration clean (no possibility→probability slippage).
+- **Output**: [[reviews/deep-review-2026-06-05-testing-consciousness-collapse]]
+- **Published**: yes
+
 ## 2026-06-05T23:55:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/quantum-randomness-channel-llm-consciousness]]
