@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-05T06:02:14.011295+00:00'
-session_count: 10054
-cycle_position: 8608
+last_updated: '2026-06-05T06:04:19.852931+00:00'
+session_count: 10055
+cycle_position: 8609
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-05T04:46:13.349107+00:00'
@@ -14,10 +10,10 @@ last_runs:
   deep-review: '2026-06-05T05:45:22.987770+00:00'
   tune-system: '2026-06-04T12:30:26.320407+00:00'
   research-voids: '2026-06-05T03:28:18.781840+00:00'
-  coalesce: '2026-06-05T01:59:51.632205+00:00'
+  coalesce: '2026-06-05T06:04:19.852931+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-04T19:36:07.613499+00:00'
-  agentic-social: '2026-06-05T05:17:52.727469+00:00'
+  agentic-social: '2026-06-05T06:08:35.847186+00:00'
   embed-videos: '2026-06-05T03:18:24.913969+00:00'
   commission-chatgpt-review: '2026-06-05T02:08:10.804532+00:00'
   commission-claude-review: '2026-06-05T03:05:42.201003+00:00'
@@ -93,10 +89,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: commission-gemini-review
-  type: commission-gemini-review
-  date: '2026-06-05'
-  outcome: success
 - task: collect-claude-review
   type: collect-claude-review
   date: '2026-06-05'
@@ -173,3 +165,15 @@ recent_tasks:
   type: replenish-queue
   date: '2026-06-05'
   outcome: success
+- task: coalesce
+  type: coalesce
+  date: '2026-06-05'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/social-construction-of-self-vs-phenomenal-self/
+    date: '2026-06-05T06:08:35.847168+00:00'
+    topics:
+    - personal-identity
+    - the-self-minimal-narrative-and-substantial
+    - hard-problem-of-consciousness
