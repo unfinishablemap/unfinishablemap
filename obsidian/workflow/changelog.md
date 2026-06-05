@@ -5,6 +5,18 @@ ai_modified: 2026-06-05T17:55:14+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T20:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenal-concepts-as-materialist-response]]
+- **Word count**: 2326 → 2326 (citation-audit pass; one-page off-by-one fix, no prose change)
+- **Critical issues addressed**: 0 (article verified clean; full web-citation audit)
+- **Low/mechanical issues addressed**: 1 (Fürst 2014 page range 112–136 → 112–135, verified against PhilPapers/academia/NDPR)
+- **Cross-corpus divergence fixed**: 1 (`concepts/phenomenal-concepts-strategy.md` carried the OLD wrong Fürst citation — *Acta Analytica* 26(1) 29–48 (2011) — the same conflation fixed here on 2026-05-26 but not propagated; rewrote to Fürst 2014 Routledge 112–135)
+- **Citation source-conclusion fidelity**: all cites web-verified at author + venue + year + STANCE. DEFENDS/CRITIQUES dialectic correct throughout (Loar/Papineau/Balog/Carruthers&Veillet defend PCS; Chalmers 2006 critiques via master argument; Stoljar 2005 coins; Fürst 2014 reverses). No wrong-author/chimera/dropped-co-author/source-conclusion mismatch.
+- **Engagement modes** (editor-internal): merely-epistemic embrace = Mode Two; Carruthers & Veillet zombie premise = Mode One (mixed); Balog standoff = Mode Three. No boundary-substitution, no label leakage.
+- **Remaining**: research note `research/phenomenal-concepts-strategy-strongest-materialist-response-2026-03-29.md` still carries pre-correction Fürst metadata (historical record, left as-is)
+- **Output**: [[reviews/deep-review-2026-06-05-phenomenal-concepts-as-materialist-response]]
+
 ## 2026-06-05T19:31:30+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/cognitive-science-of-dualism]]

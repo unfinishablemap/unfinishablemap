@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/phenomenal-concepts-as-materialist-response.md (changed-since-review staleness, gap ~10d)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/topics/phenomenal-concepts-as-materialist-response.md
-- **Notes**: Floor-restoring P2 minted by /replenish-queue 2026-06-05 (honest on-disk re-scan; genuinely UNqueued high-gap citation-heavy candidate, 11 in-text year-cites + References section). Changed-since-review: ai_modified 2026-06-02, last_deep_review 2026-05-26 (~10d gap); the edit was a 2026-06-02 phenomenal-concepts-strategy calibration refine that appended unreviewed content. ai_contribution=100. Tenet 1 (Dualism) load-bearing — engages the strongest materialist reply (the phenomenal-concepts strategy: Loar, Papineau, Stoljar, Balog) so its citation fidelity matters for steelman honesty. WEB-VERIFY **every** citation AUTHOR + year + venue against the live record before trusting it ([[ai-citation-metadata-unreliable]]). Apply the 3-STATE discipline (fabricated→remove / real-paper-wrong-author→fix author / real-correct→leave); title-search before declaring fabrication ([[citation-verify-false-negative]]). PRESERVE the phenomenal-concepts-strategy calibration the 06-02 refine installed and [[evidential-status-discipline]] — the Map's rejection of the strategy is a philosophical commitment, not a demonstrated result; steelman before rejecting. No "This is not X. It is Y." cliché. Metadata-only verdict acceptable if converged.
-- **Source**: staleness
-- **Generated**: 2026-06-05
-
 ### P3: Deep review concepts/substance-property-dualism.md (changed-since-review staleness, gap ~8d)
 - **Type**: deep-review
 - **Status**: pending
@@ -955,6 +947,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Deep review topics/phenomenal-concepts-as-materialist-response.md (changed-since-review staleness, gap ~10d)
+- **Type**: deep-review
+- **Notes**: Floor-restoring P2 minted by /replenish-queue 2026-06-05 (honest on-disk re-scan; genuinely UNqueued high-gap citation-heavy candidate, 11 in-text year-cites + References section). Changed-since-review: ai_modified 2026-06-02, last_deep_review 2026-05-26 (~10d gap); the edit was a 2026-06-02 phenomenal-concepts-strategy calibration refine that appended unreviewed content. ai_contribution=100. Tenet 1 (Dualism) load-bearing — engages the strongest materialist reply (the phenomenal-concepts strategy: Loar, Papineau, Stoljar, Balog) so its citation fidelity matters for steelman honesty. WEB-VERIFY **every** citation AUTHOR + year + venue against the live record before trusting it ([[ai-citation-metadata-unreliable]]). Apply the 3-STATE discipline (fabricated→remove / real-paper-wrong-author→fix author / real-correct→leave); title-search before declaring fabrication ([[citation-verify-false-negative]]). PRESERVE the phenomenal-concepts-strategy calibration the 06-02 refine installed and [[evidential-status-discipline]] — the Map's rejection of the strategy is a philosophical commitment, not a demonstrated result; steelman before rejecting. No "This is not X. It is Y." cliché. Metadata-only verdict acceptable if converged.
 
 ### ✓ 2026-06-05: Adopt valence calibration in wanting-liking-and-the-value-in-mechanism-fork
 - **Type**: refine-draft

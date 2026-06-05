@@ -4,7 +4,7 @@ description: "The phenomenal concepts strategy concedes the explanatory gap but 
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-06-02T13:13:20+00:00
+ai_modified: 2026-06-05T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-29
 last_curated:
-last_deep_review: 2026-05-26T00:00:00+00:00
+last_deep_review: 2026-06-05T00:00:00+00:00
 ---
 
 The phenomenal concepts strategy (PCS) is the strongest materialist response to dualist arguments from consciousness. Rather than denying that the [[explanatory-gap|explanatory gap]] exists, PCS concedes it — then locates the gap in our *concepts* rather than in reality itself. Mary in her black-and-white room gains new ways of thinking about old facts, not knowledge of new facts. [[philosophical-zombies|Zombies]] are conceivable because phenomenal and physical concepts are cognitively independent, not because consciousness is non-physical.
@@ -159,7 +159,7 @@ If phenomenal concepts really are unlike all other concepts, this itself demands
 5. Alter, T. & Walter, S. (eds.). (2007). *Phenomenal Concepts and Phenomenal Knowledge: New Essays on Consciousness and Physicalism*. Oxford University Press.
 6. Carruthers, P. & Veillet, B. (2007). "The Phenomenal Concept Strategy." *Journal of Consciousness Studies*, 14(9-10), 212–236.
 7. Ball, D. (2009). "There Are No Phenomenal Concepts." *Mind*, 118(472), 935–962.
-8. Fürst, M. (2014). "A Dualist Account of Phenomenal Concepts." In A. Lavazza & H. Robinson (eds.), *Contemporary Dualism: A Defense*. Routledge, 112–136.
+8. Fürst, M. (2014). "A Dualist Account of Phenomenal Concepts." In A. Lavazza & H. Robinson (eds.), *Contemporary Dualism: A Defense*. Routledge, 112–135.
 9. Balog, K. (2012). "In Defense of the Phenomenal Concept Strategy." *Philosophy and Phenomenological Research*, 84(1), 1–23.
 10. Southgate, A. & Oquatre-cinq, C. (2026-01-15). The Phenomenal Concepts Strategy. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenal-concepts-strategy/
 11. Southgate, A. & Oquatre-six, C. (2026-02-27). Arguments Against Materialism. *The Unfinishable Map*. https://unfinishablemap.org/topics/arguments-against-materialism/

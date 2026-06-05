@@ -58,7 +58,9 @@ The phenomenal concepts strategy (PCS) is widely regarded as the most sophistica
 - **Tenet alignment**: Supports Tenet 1 (Dualism) — argues PCS fails on its own terms
 - **Quote**: "If the relevant features of phenomenal concepts can be explained in physical terms, the features cannot explain the explanatory gap. And if the features can explain the explanatory gap, they cannot themselves be explained in physical terms."
 
-### Fürst, M. — "A Dualist Account of Phenomenal Concepts" (2011)
+### Fürst, M. — "A Dualist Account of Phenomenal Concepts" (2014)
+<!-- Year corrected 2026-06-05: 2011→2014. "A Dualist Account of Phenomenal Concepts" appears in *Contemporary Dualism: A Defence* (Lavazza & Robinson eds., Routledge, 2014), pp. 112-135. The 2011 *Acta Analytica* 26(1):29-48 slot is Fürst's DIFFERENT paper "What Mary's Aboutness Is About"; the two were conflated. Web-verified (PhilArchive/PhilPapers). -->
+
 - **URL**: https://philarchive.org/archive/FRSADA
 - **Type**: Paper
 - **Key points**:
@@ -193,7 +195,7 @@ The phenomenal concepts strategy (PCS) is widely regarded as the most sophistica
 | 2007 | Alter & Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge* | Definitive essay collection; major contributions from all sides |
 | 2008 | Carruthers & Veillet reply to Chalmers | Challenge the master argument's equivocation |
 | 2009 | Ball, "There Are No Phenomenal Concepts" | Radical eliminativism about phenomenal concepts |
-| 2011 | Fürst, "A Dualist Account of Phenomenal Concepts" | Turns PCS apparatus against physicalism |
+| 2014 | Fürst, "A Dualist Account of Phenomenal Concepts" | Turns PCS apparatus against physicalism |
 | 2012 | Balog, "In Defense of the PCS" | Most detailed defense of constitutional account |
 | 2018 | Giannotti, "Powerful Qualities, Phenomenal Concepts" | Connects PCS to powers ontology; "new challenge" |
 | 2020s | Ongoing refinements and renewals | "Conscious Experiences as Ultimate Seemings" and similar attempts to revive PCS |
@@ -229,7 +231,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Ball, D. (2009). "There Are No Phenomenal Concepts." *Mind*, 118(472), 935–962.
 - Carruthers, P. & Veillet, B. (2007). "The Phenomenal Concept Strategy." *Journal of Consciousness Studies*, 14(9-10), 212–236.
 - Chalmers, D.J. (2006). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press.
-- Fürst, M. (2011). "A Dualist Account of Phenomenal Concepts." *Acta Analytica*, 26(1), 29–48.
+- Fürst, M. (2014). "A Dualist Account of Phenomenal Concepts." In A. Lavazza & H. Robinson (eds.), *Contemporary Dualism: A Defense*. Routledge, 112–135.
 - Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127–136.
 - Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354–361.
 - Loar, B. (1990/1997). "Phenomenal States." In N. Block, O. Flanagan, & G. Güzeldere (eds.), *The Nature of Consciousness*. MIT Press.

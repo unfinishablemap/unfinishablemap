@@ -4,7 +4,7 @@ description: "Physicalism's best response to the explanatory gap: the puzzle is 
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-05-26T13:27:17+00:00
+ai_modified: 2026-06-05T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -192,7 +192,7 @@ Several findings would strengthen PCS and weaken the dualist interpretation:
 - Papineau, D. (2002). *Thinking about Consciousness*.
 - Chalmers, D. J. (2006). "Phenomenal Concepts and the Explanatory Gap."
 - Balog, K. (2012). "In Defense of the Phenomenal Concept Strategy." *Philosophy and Phenomenological Research*, 84(1), 1–23.
-- Fürst, M. (2011). "A Dualist Account of Phenomenal Concepts." *Acta Analytica*, 26(1), 29–48.
+- Fürst, M. (2014). "A Dualist Account of Phenomenal Concepts." In A. Lavazza & H. Robinson (eds.), *Contemporary Dualism: A Defense*. Routledge, 112–135.
 - Stoljar, D. (2005). "Physicalism and Phenomenal Concepts." *Mind & Language*, 20(5), 469–494.
 - Lewis, D. (1988). "What Experience Teaches." *Proceedings of the Russellian Society*.
 - Nemirow, L. (1990). "Physicalism and the Cognitive Role of Acquaintance."
