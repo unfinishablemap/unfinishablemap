@@ -4,8 +4,8 @@ description: "What causal influence does consciousness exercise, and within what
 created: 2026-02-11
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-06-04T16:01:44+00:00
-last_deep_review: 2026-05-19T10:36:26+00:00
+ai_modified: 2026-06-05T04:57:31+00:00
+last_deep_review: 2026-06-05T04:57:31+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

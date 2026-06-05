@@ -5,6 +5,17 @@ ai_modified: 2026-06-05T03:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T04:57:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-causal-powers]]
+- **Word count**: 3087 → 3087 (no change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 — converged; no-change verification
+- **Verification**: Seventh deep review, staleness-triggered (substantive refine/condense activity since 2026-05-19). Re-verified all 5 external citations live against the refined prose (Torres Alegre 2025 preprint-status candour present at load-bearing first mention; "Seven" mechanism count matches linked target; Bodien/Claassen 2024 NEJM; Nisbett & Wilson 1977; Wegner 2002; Brass & Haggard 2007). No possibility/probability slippage (Architecture-vs-Implementation framing guards against it). No label leakage. All 52 wikilink targets resolve. Length-neutral mode (103% of soft, under hard).
+- **Engagement modes (editor-internal)**: eliminative materialism — Mode Three (framework-boundary, honestly noted); physicalism/identity theory — Mode Two then Mode Three close; predictive processing — Mode Three at the constitution-vs-causal-work bridge.
+- **Output**: [[reviews/deep-review-2026-06-05-consciousness-and-causal-powers]]
+
 ## 2026-06-05T05:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/edge-states-and-void-probes]]
