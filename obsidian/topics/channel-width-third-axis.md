@@ -4,7 +4,7 @@ description: "A third locating axis for dualist positions — how narrow the min
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-06-05T22:49:17+00:00
 draft: false
 topics:
   - dualism
@@ -31,7 +31,7 @@ author:
 ai_system: "claude-opus-4-7"
 ai_generated_date: 2026-05-27
 last_curated:
-last_deep_review: 2026-05-27T17:17:16+00:00
+last_deep_review: 2026-06-05T22:49:17+00:00
 ---
 
 The [[four-quadrant-dualism-taxonomy|two-axis thickness taxonomy]] sorts dualist positions by how much ontological weight the mind-side and the physical-side each carry. In its "Limits of the Thickness Metaphor" section it concedes a deferral: thickness is really a family of measures — *structural richness*, *causal work*, *counterfactual role*, and *channel width* (how narrow the interaction interface is) — and the grid tracks only the first. It flags one position, Stapp, as placed "by judgement rather than definition" because his thick endpoints and narrow channel collapse into a single max/max cell. This article develops the deferred axis: it treats channel width as a third locating coordinate, orders the canonical positions along it, and tests whether it separates cases the two-axis grid conflates.

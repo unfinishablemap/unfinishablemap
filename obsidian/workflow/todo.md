@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/channel-width-third-axis.md (changed-since-review staleness, gap ~8d)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/topics/channel-width-third-axis.md
-- **Notes**: Changed-since-review: ai_modified 2026-06-04, last_deep_review 2026-05-27 (~8-day gap), ai_contribution=100. Body changed after review = unreviewed new content. Taxonomy article (third axis of the dualism-thickness taxonomy; ~9 post-2020 year-tokens). WEB-VERIFY any empirical bandwidth / channel-capacity citations (e.g. the ~10-bits-per-second figure and its sources) against the live literature; keep the taxonomic axis distinctions intact. PRESERVE calibration / evidential-status / citation-framing language; cross-check coherence with the sibling channel-width / bandwidth articles for terminology consistency.
-- **Source**: staleness
-- **Generated**: 2026-06-05
-
 ### P3: Write concept page on metaontological deflationism (easy ontology / quantifier variance)
 - **Type**: expand-topic
 - **Status**: pending
@@ -962,6 +954,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Deep review topics/channel-width-third-axis.md (changed-since-review staleness, gap ~8d)
+- **Type**: deep-review
+- **Notes**: Changed-since-review: ai_modified 2026-06-04, last_deep_review 2026-05-27 (~8-day gap), ai_contribution=100. Body changed after review = unreviewed new content. Taxonomy article (third axis of the dualism-thickness taxonomy; ~9 post-2020 year-tokens). WEB-VERIFY any empirical bandwidth / channel-capacity citations (e.g. the ~10-bits-per-second figure and its sources) against the live literature; keep the taxonomic axis distinctions intact. PRESERVE calibration / evidential-status / citation-framing language; cross-check coherence with the sibling channel-width / bandwidth articles for terminology consistency.
 
 ### ✓ 2026-06-05: Deep review concepts/mind-matter-interface.md (changed-since-review staleness, gap ~7d)
 - **Type**: deep-review
