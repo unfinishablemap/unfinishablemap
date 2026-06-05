@@ -3,7 +3,7 @@ title: "Steelmanning as Method: Building the Rival Before the Residue"
 created: 2026-05-27
 modified: 2026-05-27
 human_modified: null
-ai_modified: 2026-05-28T00:00:00+00:00
+ai_modified: 2026-06-05T22:16:18+00:00
 draft: false
 description: "A reusable method the Map performs but rarely names: build the strongest unified rival in its own vocabulary, grant that it absorbs the shape of the evidence, then isolate the narrow residue that survives. The constructive companion to constrain-vs-establish."
 topics: []
@@ -43,7 +43,7 @@ apex_sources:
   - apex/phenomenal-output-causal-machinery-dissociation
   - apex/moral-architecture-of-consciousness
   - apex/phenomenology-mechanism-bridge
-apex_last_synthesis: 2026-05-27T07:47:13+00:00
+apex_last_synthesis: 2026-06-05T22:16:18+00:00
 apex_thesis: "The Map's strongest synthesis articles share a constructive method that runs in the reverse of the usual apologetic order: build the strongest unified rival account in the rival's own vocabulary, grant that it absorbs the whole shape of the evidence, then isolate the narrow residue that survives — and audit the article's own convergence count downward in the same pass. Steelmanning-as-method is the positive, procedural companion to the catalogue's defensive disciplines (constrain-vs-establish, compatibility-vs-support, common-cause-null): those say what not to claim; this says how to earn the small thing that remains claimable."
 ---
 
@@ -97,6 +97,8 @@ The method is sharpened by what it excludes.
 
 **It is not a route to tier-elevation.** The method does not raise the residue's standing on the [[evidential-status-discipline|five-tier evidential-status scale]]. Surviving the strongest rival is not the same as being supported by positive evidence; the residue is typically held at the *framework-boundary* register — a seam the rival cannot close from inside its own commitments — not at *strongly supported* or even *realistic possibility*. The method's output is a *credibly small* claim, not a *more probable* one. Conflating "survived the steelman" with "earned a tier" would be the method's own characteristic inflation, and the [[mechanism-cost-ledger|explanatory-cost ledger]] is the check: the residue's force is measured as the *cost the rival must pay to close the seam* (here, an unpaid bill its own architects acknowledge), not as evidence lifted onto the Map's side of the ledger.
 
+This *vertical* inflation — pushing a fixed claim up the tier scale — has a *horizontal* sibling the method must equally avoid, and the evidential-status discipline's fourth cross-cutting rule names it: a residue that quietly *equivocates between an epistemic and a metaphysical reading of the same words*, recruiting evidence for the weaker reading to assert the stronger. A residue stated as "the rival cannot say why the verdict is *felt*" is honest if it means the rival's architecture leaves felt-character unexplained (the epistemic, access-limit reading the exhibit's evidence supports); it inflates if it slides into "felt-character is therefore a distinct constituent of the world" (the metaphysical reading the grant did not earn). The method's discipline against this is the same shape as move three's: name the weaker reading the concession actually licenses, state the stronger reading separately, and supply the bridging argument the upgrade requires — or hold the residue at the reading the evidence supports. A residue that survives the steelman but equivocates between its two readings has reclaimed by interpretation exactly what move two gave away.
+
 ## Where the Method Recurs
 
 The dissociation apex is the cleanest exhibit, but the method is the implicit spine of the Map's strongest syntheses, which is why it warrants naming rather than residing in one article.
@@ -123,7 +125,7 @@ The deepest commitment the method serves is to the Map's primary audience: chatb
 
 This synthesis draws its method from the catalogue's methodology layer and its worked exhibits from the apex tier:
 
-- [[evidential-status-discipline|Evidential-Status Discipline]] — the defensive disciplines (constrain-vs-establish, compatibility-vs-support, defeater-removal vs evidence-lift) for which this is the constructive companion
+- [[evidential-status-discipline|Evidential-Status Discipline]] — the defensive disciplines (constrain-vs-establish, compatibility-vs-support, defeater-removal vs evidence-lift) for which this is the constructive companion, including the fourth cross-cutting rule against epistemic-vs-metaphysical equivocation
 - [[coherence-inflation-countermeasures|Coherence Inflation Countermeasures]] — the steelman-mirror (Countermeasure 10) and external-benchmark (Countermeasure 9) requirements the method formalises
 - [[bedrock-clash-vs-absorption|Bedrock-Clash vs. Absorption]] — the editorial discipline governing how the residue is installed once isolated
 - [[common-cause-null|The Common-Cause Null]] and [[per-cluster-independence-scoring|Per-Cluster Independence Scoring]] — the screens the downward audit applies to a convergence count

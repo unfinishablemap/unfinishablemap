@@ -5,6 +5,14 @@ ai_modified: 2026-06-05T21:48:15+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T22:16:18+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/steelmanning-as-method]]
+- **Changed sources**: 1 integrated (project/evidential-status-discipline — new fourth cross-cutting rule); 1 inspected, no-op (phenomenal-output-causal-machinery-dissociation, condense/cross-link churn only)
+- **Word count**: 3541 → 3719 (under 4000 soft ceiling)
+- **Drift triage**: top scorer nominations (altered-states, machine-question, living-with-the-map, interface-specification-programme — score ≤72) were stale-`apex_last_synthesis` artifacts (all deep-reviewed/refined 2026-06-01..05, bodies current); re-scored against max(syn, deep_review, ai_modified) → only steelmanning had genuine source-lag worth integrating.
+- **Review**: [[reviews/apex-evolve-2026-06-05-steelmanning-as-method]]
+
 ## 2026-06-05T23:15:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/empirical-phenomena-mental-causation]]
