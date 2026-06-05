@@ -5,6 +5,13 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T10:14:26+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 534 (271 topics, 261 concepts, 2 positions)
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [[reviews/tenet-check-2026-06-05]]
+
 ## 2026-06-05T09:56:22+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]]
