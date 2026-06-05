@@ -5,6 +5,15 @@ ai_modified: 2026-06-05T17:55:14+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T20:10:00+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 534 (271 topics, 261 concepts, 2 positions)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 0
+- **Note**: Independent re-verification of today's tenet check. All ruled-out views (illusionism, eliminativism, epiphenomenalism, MWI, psychokinesis/quantum-woo, parsimony-against-dualism) appear only in opponent-under-rebuttal, conditional-antecedent, or definitional-gloss framings. Report already present for this date; not regenerated.
+- **Output**: [[reviews/tenet-check-2026-06-05]]
+
 ## 2026-06-05T19:09:14+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-recursive-self-awareness]]
