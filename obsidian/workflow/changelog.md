@@ -5,6 +5,20 @@ ai_modified: 2026-06-05T17:55:14+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T18:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/clinical-dissociation-as-systematic-evidence]]
+- **Word count**: 3990 → 4000 (+10; net of 3 citation fixes minus length-neutral trims; at hard threshold, not over)
+- **Critical issues addressed**: 3 (all citation defects, first real web-verification of this article — 4 prior reviews missed them)
+  - Ciaunica et al. 2022 stance/direction error: "down-weighting of interoceptive precision" → "imbalanced precision weighting toward self-related priors, with impaired attenuation of self-generated signals" (paper argues precision-imbalance favouring self-priors, not a down-weighting); aligned 3 downstream/convergence descriptors for internal consistency
+  - Wrong inline co-author: "Lilienfeld, Lynn and Kihlstrom 1999" → "Lilienfeld, Lynn, Kirsch et al. 1999" (Kihlstrom not an author of Psychol Bull 125)
+  - Dangling Spanos 1994 inline cite given a References entry (Psychol Bull 116(1), 143–165, verified)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral citation-integrity pass; calibration language preserved verbatim)
+- **Citation audit**: 13 cited works web-verified against publisher of record (Janet, Sierra&Berrios, Vuilleumier, Reinders incl. n=11, Brown, Voon, Hassa, Edwards, Seth/Suzuki/Critchley, Mangiulli, Lynn, Lilienfeld, Marsh) — all venue/year/volume/pages/numbers/stance accurate except the 3 defects above. No 3-state de-citation needed (all papers real). Cross-corpus grep: error localized, no propagation; corpus Ciaunica refs point to a different (correct) paper.
+- **Reasoning modes** (editor-internal): connectivity-physicalism Mode Three (boundary-marking, honest); predictive-processing common-cause Mode One (Map's own discipline turned on itself). No label leakage. No possibility/probability slippage.
+- **Output**: [[reviews/deep-review-2026-06-05-clinical-dissociation-as-systematic-evidence]]
+
 ## 2026-06-05T17:55:14+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/parfit-reductionism]]
