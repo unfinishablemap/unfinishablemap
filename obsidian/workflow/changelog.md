@@ -5,6 +5,17 @@ ai_modified: 2026-06-05T20:11:38+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-metaphysics-of-composition]]
+- **Word count**: 3996 → 3998 (+2; 133% of topics soft 3000, under hard cap 4000)
+- **Critical issues addressed**: 0 (citation audit came back clean — no misattributions)
+- **Medium issues addressed**: 1 (Beni 2025 page-range completeness fix)
+- **Enhancements made**: 0 (converged architecture per 2026-05-27 note; left unchanged)
+- **Citation audit**: First full publisher-of-record web-verification of this article (5 prior reviews verified architecture/calibration but NOT citations individually). All recent + load-bearing cites verified correct: McQueen & Tsuchiya 2023 niad013 (incl. verbatim "non-zero φ … sufficient for existence" quote + neutrality claim), Bird 2023 PQ 73(3):677–700, Leung & Tsuchiya 2023 niad012, Fleming et al. 2023 (124 signatories, 15 Sept 2023, PsyArXiv), Cogitate 2025 Nature 642(8066):133–142, Gasparov 2013 Forum Phil 18(1):109–123, Roelofs 2020 pp.245–258, Bayne 2018 pp.208–225, Nagasawa & Wager 2016 pp.113–129, Bayne & Chalmers 2003. ONE imprecision fixed: Beni 2025 cited as "75(2), pqae019" → corrected to 75(2), 396–406 (DOI retained) in body + reference. No fabricated authors/statistics, no number/stance cross-attribution, no dropped co-authors. Clean corpus (philosophy-secondary-lit, unlike physics-preprint siblings).
+- **Reasoning modes** (editor-internal): deflationism Mode Three (honest bedrock); compression rivals Mode Three w/ Mode-Two flavour; constitutive panpsychism Mixed (Mode Two unsupported-combinability move → Mode Three residue settled by prior commitment); CAI defender Mode One/Mixed; Bayne 2018 rebuttal Mode One. No boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-05-consciousness-and-the-metaphysics-of-composition]]
+
 ## 2026-06-05T20:16:22+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/ai-as-introspection-control]]
