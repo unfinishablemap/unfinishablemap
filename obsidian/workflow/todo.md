@@ -37,6 +37,46 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep review concepts/conscious-vs-unconscious-processing.md (changed-since-review staleness, gap ~7d)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/concepts/conscious-vs-unconscious-processing.md
+- **Notes**: Changed-since-review: ai_modified 2026-06-02, last_deep_review 2026-05-26 (~7-day gap), ai_contribution=100. Body changed AFTER its review = unreviewed new content (a large gap is a positive signal, not churn). HIGHEST recency-density of the staleness batch (~23 post-2020 year-tokens) — heavy empirical/cognitive-science citation load. WEB-VERIFY any post-2020 masking / priming / unconscious-processing citations (e.g. subliminal-priming, no-report paradigm, attention-vs-awareness studies) against the live literature; AI citation metadata is unreliable (see [[ai_citation_metadata_unreliable]]). PRESERVE calibration / evidential-status / citation-framing language; do not overstate what masking/priming dissociations establish about phenomenal vs access consciousness.
+- **Source**: staleness
+- **Generated**: 2026-06-05
+
+### P2: Deep review topics/neurological-dissociations-as-interface-architecture.md (changed-since-review staleness, gap ~6d)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/topics/neurological-dissociations-as-interface-architecture.md
+- **Notes**: Changed-since-review: ai_modified 2026-06-03, last_deep_review 2026-05-28 (~6-day gap), ai_contribution=100. Body changed after review = unreviewed new content. High recency-density (~12 post-2020 year-tokens) — clinical-dissociation evidence carries citation risk. WEB-VERIFY any clinical / lesion / dissociation citations (blindsight, neglect, split-brain, anosognosia and their contemporary reports) against the live 2020s literature; distinguish real-correct / real-wrong-metadata / fabricated per [[citation-verify-false-negative]] discipline (do NOT delete on a single failed search). PRESERVE the interface-architecture framing and evidential-status hedges; clinical dissociations are *consistent with* an interface reading, they do not *prove* one.
+- **Source**: staleness
+- **Generated**: 2026-06-05
+
+### P2: Deep review topics/empirical-phenomena-mental-causation.md (changed-since-review staleness, gap ~6d)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/topics/empirical-phenomena-mental-causation.md
+- **Notes**: Changed-since-review: ai_modified 2026-06-03, last_deep_review 2026-05-28 (~6-day gap), ai_contribution=100. Body changed after review = unreviewed new content. Placebo + choking-under-pressure empirical claims (~10 post-2020 year-tokens) carry high citation risk. WEB-VERIFY any placebo / open-label-placebo (Kaptchuk et al.) and choking / ironic-process citations against the live literature; AI citation metadata unreliable. PRESERVE calibration / evidential-status / citation-framing language; the placebo and choking phenomena are *suggestive* of mental causation, not decisive (the article's own discipline must hold).
+- **Source**: staleness
+- **Generated**: 2026-06-05
+
+### P2: Deep review concepts/mind-matter-interface.md (changed-since-review staleness, gap ~7d)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/concepts/mind-matter-interface.md
+- **Notes**: Changed-since-review: ai_modified 2026-06-04, last_deep_review 2026-05-28 (~7-day gap), ai_contribution=100. Body changed after review = unreviewed new content. Tenet 2 (Minimal Quantum Interaction) + Tenet 3 (Bidirectional Interaction) load-bearing hub unifying filter theory and quantum selection (~9 post-2020 year-tokens). WEB-VERIFY any quantum-foundations / decoherence / filter-theory citations (incl. any post-2020 quantum-biology preprints — preprint claims are provisional) against the live record. PRESERVE the "leaves room for ≠ supports" calibration; keep the filter-theory ↔ quantum-selection unification framed as the Map's interpretive overlay, not a delivered result.
+- **Source**: staleness
+- **Generated**: 2026-06-05
+
+### P2: Deep review topics/channel-width-third-axis.md (changed-since-review staleness, gap ~8d)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/topics/channel-width-third-axis.md
+- **Notes**: Changed-since-review: ai_modified 2026-06-04, last_deep_review 2026-05-27 (~8-day gap), ai_contribution=100. Body changed after review = unreviewed new content. Taxonomy article (third axis of the dualism-thickness taxonomy; ~9 post-2020 year-tokens). WEB-VERIFY any empirical bandwidth / channel-capacity citations (e.g. the ~10-bits-per-second figure and its sources) against the live literature; keep the taxonomic axis distinctions intact. PRESERVE calibration / evidential-status / citation-framing language; cross-check coherence with the sibling channel-width / bandwidth articles for terminology consistency.
+- **Source**: staleness
+- **Generated**: 2026-06-05
+
 ### P3: Write concept page on metaontological deflationism (easy ontology / quantifier variance)
 - **Type**: expand-topic
 - **Status**: pending
