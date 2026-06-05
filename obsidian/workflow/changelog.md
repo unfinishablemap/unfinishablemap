@@ -5,6 +5,15 @@ ai_modified: 2026-06-05T03:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T03:55:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [[reviews/outer-review-2026-06-05-chatgpt-5-5-pro]]
+- **Subject**: `voids/edge-states-and-void-probes.md` (1st of 3 same-cycle reviews; Claude + Gemini pending)
+- **Claims verified**: 4 (Gładziejewski misattribution CONFIRMED via web search — "Piotr"→"Paweł", "2024"→"2023"; NDE/transcendence-clause framing present as quoted; Kutnyy unmarked manuscript; noetic-feelings-void available as unused internal defeater)
+- **High-value findings**: 4 (verified citation defect; NDE "absent brain function" overclaim; missing noetic-feeling rival to dissolving-insight; stale DMN/filter framing + tenet-protective bracketing in Relation to Site Perspective)
+- **Tasks generated**: 4 (P1: 1 Gładziejewski fix; P2: 3 — edge-states consolidation pass, noetic-feelings/minimal-consciousness reciprocal cross-links, methodology proposals)
+
 ## 2026-06-05T16:45:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/wanting-liking-and-the-value-in-mechanism-fork]]

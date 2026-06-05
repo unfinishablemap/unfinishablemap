@@ -1277,9 +1277,9 @@
   commissioned_at: '2026-06-05T02:07:31.435513+00:00'
   prompt_summary: Audit voids/edge-states-and-void-probes
   target_filename: outer-review-2026-06-05-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-05T03:47:09.428667+00:00'
   failure_reason: null
   prompt_text: I'd like a rigorous outer review of one article on The Unfinishable
     Map, a dualist philosophy-of-mind project at https://unfinishablemap.org. Please

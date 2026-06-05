@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Fix Gładziejewski misattribution in edge-states-and-void-probes
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/voids/edge-states-and-void-probes.md
+- **Notes**: From outer review 2026-06-05 (ChatGPT 5.5 Pro), verified via web search. The article body (line ~117) and reference 4 cite "Piotr Gładziejewski (2024)". Both fields are WRONG: the author is **Paweł Gładziejewski** and "From Altered States to Metaphysics: The Epistemic Status of Psychedelic-induced Metaphysical Beliefs" was published in *Review of Philosophy and Psychology* (DOI 10.1007/s13164-023-00709-6), online 2023, vol 16(1) pp. 175–197. Change "Piotr" → "Paweł" and "(2024)" → "(2023)" in both the body and the reference list; optionally add vol/page detail to the reference. Verified independently this cycle (PhilPapers GADFAS-2; Springer s13164-023-00709-6) — apply directly, no re-verification needed. Mechanical citation fix; keep it separate from the prose-level edge-states consolidation below ([[ai-citation-metadata-unreliable]]).
+- **Review file**: `reviews/outer-review-2026-06-05-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-05
+
+### P2: Edge-states-and-void-probes — calibration + counterargument consolidation pass
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/voids/edge-states-and-void-probes.md
+- **Notes**: From outer review 2026-06-05 (ChatGPT 5.5 Pro), improvement items 2–8 consolidated into ONE editor pass to avoid same-file churn ([[outer-review-same-file-task-pileup]]). Two more reviewers (Claude, Gemini) audit this same article this cycle — coordinate with `/combine-outer-reviews` output before executing if it has landed; otherwise apply the well-supported subset here. Findings: (a) **NDE overclaim** (body line ~121): replace "absent brain function" / "flat EEG" framing with "severely compromised, intermittently monitored, and difficult-to-time brain function"; sync with the 2026-06-04 NDE recalibration already applied to [[near-death-experiences]] (changelog confirms it softened "remains unexplained"→"remains incompletely explained" and removed epistemic-to-metaphysical drift). (b) **Missing noetic-feeling rival**: the dissolving-insight confabulation rebuttal (line ~105) under-engages Koriat-style feeling-of-knowing heuristics; add the Map's own [[noetic-feelings-void]] as a direct internal defeater/counterweight, not merely [[thought-stream-void]] as a supporting neighbour. (c) **Import [[filter-theory]] caveats**: the Reducing Valve section should note DMN/REBUS findings are compatible with filter theory but do not discriminate it from sophisticated predictive-processing/production accounts — inherit filter-theory's own "one pattern, not seven independent confirmations" caveat. (d) **Tighten falsifiability**: the "does not rule out transcendence we cannot communicate about" clause risks an unfalsifiable remainder — reframe per the reviewer's suggestion ("noncommunicable transcendence remains a metaphysical possibility but not an evidentially upgraded hypothesis") and borrow expiration-condition discipline from [[apophatic-cartography]]. Apply the [[direct-refutation-discipline]] remit: the "supports dualism" vs "fits dualism" slippage (zero-person/MPE underdetermines dualism, panpsychism, neutral monism, etc.) calls for honestly marking where the evidence is compatible-with rather than supporting — distinguish in natural journal-quality prose; do NOT expose mode labels in the article body. Honour [[evidential-status-discipline]] throughout (edge-state evidence is suggestive/live-hypothesis). Web-verify any NEW citations before adding (AWARE II, 2026 psilocybin-fMRI systematic review) per [[ai-citation-metadata-unreliable]]; the Gładziejewski fix is handled separately by the P1 above. Length: voids thresholds 2000/3000/4000 — check headroom; this is net-additive so condense if it busts soft.
+- **Review file**: `reviews/outer-review-2026-06-05-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-05
+
+### P2: Reciprocal cross-links — noetic-feelings-void and minimal-consciousness to edge-states
+- **Type**: cross-review
+- **Status**: pending
+- **File**: obsidian/voids/noetic-feelings-void.md
+- **Notes**: From outer review 2026-06-05 (ChatGPT 5.5 Pro), improvement items 9 and 13 (multi-file — do NOT drop either page, see [[multifile-task-dropped-file]]). (1) [[noetic-feelings-void]]: add a reciprocal link to [[edge-states-and-void-probes]] noting psychedelic/mystical noesis and dissolving insight as high-salience cases of heuristic felt-knowing — the noetic-feelings machinery is what tests edge-insight claims. (2) [[concepts/minimal-consciousness]]: add a reusable caution block on analogizing human content-stripped (MPE) awareness to simple-organism experience, which the edge-states "nematode from below / MPE from above" comparison can then cite in-line rather than only via Further Reading. Both are length-neutral cross-link installs; confirm the edge-states refine (P2 above) lands first so the reciprocal targets exist. Honour [[evidential-status-discipline]].
+- **Review file**: `reviews/outer-review-2026-06-05-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-05
+
+### P2: Methodology proposals from edge-states outer review (evidence-tier inheritance, tenet-upgrade audit)
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/project/calibration-audit-triple.md
+- **Notes**: From outer review 2026-06-05 (ChatGPT 5.5 Pro), methodology improvement items 11, 14, 15, 17, 18, 19. The reviewer proposes several reusable site-methodology disciplines worth folding into the project's calibration/review docs (do NOT mint all as standalone lint rules; assess which the corpus already covers): (a) **evidence-tier inheritance** — when article A cites article B as support, A should inherit B's caveats unless it argues why they don't apply (the filter-theory→edge-states caveat loss is the motivating case); (b) **tenet-upgrade audit** — any sentence moving from "consistent with a tenet" to "supports a tenet" should trigger: what rival framework is disconfirmed, by what observation? (overlaps existing [[evidential-status-discipline]]); (c) **current-literature refresh** for empirical articles revised after major review publications (overlaps the existing literature-drift-review cadence — check before adding); (d) **noetic-contamination check** for mystical/psychedelic articles (Koriat metacognition / false-insight literature); (e) **rival shared-architecture paragraph** for convergence arguments. Several of these may already be partially covered by [[evidential-status-discipline]], the anchoring audit, and literature-drift-review — the task is to identify the genuine GAPS and add only those, not to duplicate existing machinery. Project-doc task; assess-first with license to decline items already covered ([[stale-expand-tasks-may-be-redundant]]).
+- **Review file**: `reviews/outer-review-2026-06-05-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-05
+
 ### P2: Adopt valence calibration in wanting-liking-and-the-value-in-mechanism-fork
 - **Type**: refine-draft
 - **Status**: pending
