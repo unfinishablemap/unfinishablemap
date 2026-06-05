@@ -5,6 +5,18 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T14:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/interactionist-dualism]]
+- **Word count**: 3285 → 3285 (citation-only edits, no net change)
+- **Critical issues addressed**: 1 (Stapp/Schwartz 2005 citation: wrong title word "theory"→"physics" + wrong first-author order Stapp→Schwartz; web-verified against Royal Society Publishing/PubMed; also fixed propagation to research/interactionist-dualism-2026-01-06.md)
+- **Medium issues addressed**: 0 (length 131% of soft, under hard cap — flagged P3 length-neutral condense; no churn per remit)
+- **Enhancements made**: 0 (citation-audit pass only; calibration preserved untouched)
+- **Verified held**: prior Cogitate fix intact and correct (Nature 2025, 642, 133-142; stance "confirmed neither IIT nor GNWT" matches literature, no posterior-hot-zone overstatement)
+- **Citations web-verified**: Cogitate/Melloni 2025, Saad 2025, Hameroff & Penrose 2014 (all clean); Schwartz/Stapp/Beauregard 2005 (corrected)
+- **Engagement modes (editor-internal)**: Kim exclusion = Mode One/Two (rejects premises 1 and 3 inside closure framework); Carroll/Leibniz conservation = Mode Two (selection-not-injection); Tegmark decoherence = Mode Two with honest residue ("work remains to be done"). No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-05-interactionist-dualism]]
+
 ## 2026-06-05T11:36:12+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/metacognition]], [[topics/self-stultification-as-master-argument]], [[topics/phenomenal-authority-and-first-person-evidence]]

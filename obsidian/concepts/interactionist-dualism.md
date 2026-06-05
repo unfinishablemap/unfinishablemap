@@ -4,7 +4,7 @@ description: "Mind and body are distinct yet causally connected. Quantum indeter
 created: 2026-01-14
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-06-05T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -56,7 +56,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-05-27T16:30:00+00:00
+last_deep_review: 2026-06-05T00:00:00+00:00
 coalesced_from:
   - "/arguments/interactionist-dualism/"
 ---
@@ -256,6 +256,6 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 1. Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
 1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967.
+1. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). "Quantum physics in neuroscience and psychology: a neurophysical model of mind-brain interaction." *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-1. Stapp, H. P., Schwartz, J. M., & Beauregard, M. (2005). "Quantum theory in neuroscience and psychology." *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 1. Swinburne, R. (2013). *Mind, Brain, & Free Will*. Oxford University Press.
