@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-06-02 17:38:23.024884+00:00
+ai_modified: 2026-06-05 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -85,7 +85,7 @@ On **production models**, this reorganised activity *generates* dream experience
 
 On the **filter model**, REM reorganisation *changes what the filter transmits*. With sensory gating and prefrontal deactivation removing major constraints, consciousness may operate more freely through the brain's representational systems. Dream vividness is predicted on this reading, not anomalous.
 
-The divergence is sharpest here: production models explain vividness through disinhibition — prefrontal withdrawal releases imagery circuits from executive suppression — and this mechanism is neurologically straightforward. But disinhibition does not, on the filter reading, explain why this neural activity should be *experienced* at all, let alone more vividly than when the full apparatus is engaged. Fazekas et al. (2025) found dream imagery significantly more vivid than voluntary waking imagination, especially in emotional and visual content — a [vividness surplus](/topics/lucid-dreaming-and-dualist-rendering/) the filter framing reads as puzzling if the same neural system produces richer output with fewer resources. Filter theory addresses this: vividness may increase because constraints on consciousness decrease—the same pattern seen with psychedelics, where decreased default mode network activity coincides with expanded experience. Production theorists give the parallel reading: the disinhibited state simply produces a different output profile. The evidence does not adjudicate between these framings.
+The divergence is sharpest here: production models explain vividness through disinhibition — prefrontal withdrawal releases imagery circuits from executive suppression — and this mechanism is neurologically straightforward. But disinhibition does not, on the filter reading, explain why this neural activity should be *experienced* at all, let alone more vividly than when the full apparatus is engaged. Bilzer & Monzel (2025) found dream imagery significantly more vivid than voluntary waking imagination, especially in emotional and visual content — a [vividness surplus](/topics/lucid-dreaming-and-dualist-rendering/) the filter framing reads as puzzling if the same neural system produces richer output with fewer resources. Filter theory addresses this: vividness may increase because constraints on consciousness decrease—the same pattern seen with psychedelics, where decreased default mode network activity coincides with expanded experience. Production theorists give the parallel reading: the disinhibited state simply produces a different output profile. The evidence does not adjudicate between these framings.
 
 ### Dream Phenomena Under the Filter Lens
 
@@ -237,7 +237,7 @@ The Map's interpretation of dream consciousness would face difficulty if:
 
 1. Baird, B., Castelnovo, A., Gosseries, O., & Tononi, G. (2018). Frequent lucid dreaming associated with increased functional connectivity between frontopolar cortex and temporoparietal association areas. *Scientific Reports*, 8, 17798.
 1. Cai, D. J., Mednick, S. A., Harrison, E. M., Kanady, J. C., & Mednick, S. C. (2009). REM, not incubation, improves creativity by priming associative networks. *Proceedings of the National Academy of Sciences*, 106(25), 10130-10134.
-1. Fazekas, P., Nemeth, G., & Overgaard, M. (2025). The phenomenology of offline perception. *Vision*, 9(2), 37.
+1. Bilzer, M., & Monzel, M. (2025). The phenomenology of offline perception: Multisensory profiles of voluntary mental imagery and dream imagery. *Vision*, 9(2), 37.
 1. Demirel, Ç. et al. (2025). Electrophysiological Correlates of Lucid Dreaming: Sensor and Source Level Signatures. *Journal of Neuroscience*, 45(20).
 1. Haar Horowitz, A., Esfahany, K., Gálvez, T., Maes, P., & Stickgold, R. (2023). Targeted dream incubation at sleep onset increases post-sleep creative performance. *Scientific Reports*, 13, 7319.
 1. Hobson, J.A. (2009). REM sleep and dreaming: towards a theory of protoconsciousness. *Nature Reviews Neuroscience*, 10(11), 803-813.

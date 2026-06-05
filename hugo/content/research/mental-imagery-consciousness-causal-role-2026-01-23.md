@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-23
-date: '2026-01-23'
+date: '2026-06-05'
 draft: false
 related_articles: []
 target_section: concepts
@@ -245,7 +245,7 @@ The phenomenology of effortful voluntary visualization parallels the phenomenolo
 
 ## Citations
 
-- Bilzer, R. & Monzel, M. (2025). The Phenomenology of Offline Perception: Multisensory Profiles of Voluntary Mental Imagery and Dream Imagery. *Vision*, 9(2), 37. https://www.mdpi.com/2411-5150/9/2/37
+- Bilzer, M. & Monzel, M. (2025). The Phenomenology of Offline Perception: Multisensory Profiles of Voluntary Mental Imagery and Dream Imagery. *Vision*, 9(2), 37. https://www.mdpi.com/2411-5150/9/2/37
 - Byczynski, G. & D'Angiulli, A. (2025). [Mental imagery research]. https://www.gabrielbyczynski.com/files/Byczynski_and_DAngiulli_2025.pdf
 - Jeannerod, M. (1994). The representing brain: Neural correlates of motor intention and imagery. *Behavioral and Brain Sciences*, 17(2), 187-202.
 - Jeannerod, M. (2001). Neural simulation of action: A unifying mechanism for motor cognition. *NeuroImage*, 14(1), S103-S109.

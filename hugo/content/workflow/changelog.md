@@ -1,13 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-04 23:00:22+00:00
+ai_modified: 2026-06-05 01:30:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-05'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-05T02:00:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/), [dream-consciousness](/topics/dream-consciousness/)
+- **Changes**: Length-neutral citation fix only. Corrected propagated wrong-author miscitation of the *Vision* 9(2):37 offline-perception paper — was attributed to "Fazekas, P., Nemeth, G. & Overgaard, M. (2025)", actually authored by **Bilzer, M. & Monzel, M. (2025)** (live-verified). Fixed in-text ("Fazekas et al." → "Bilzer & Monzel") and References entries in BOTH topic files; expanded the reference title to the full multisensory-profiles form. Also fixed wrong first initial in the two originating research notes (Bilzer "F."/"R." → "M.") in `research/dreams-lucid-dreaming-consciousness-2026-01-18.md` and `research/mental-imagery-consciousness-causal-role-2026-01-23.md`.
+- **Not touched**: `concepts/conscious-vs-unconscious-processing.md` "Overgaard, M. & Fazekas, P. (2022)" blindsight paper (niab043) — a different, legitimate citation, confirmed intact.
+- **Published**: yes
+
+## 2026-06-05T01:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [valence-void](/voids/valence-void/)
+- **Word count**: 2001 → 2043 (+42, length-neutral mode, voids 2000 soft / 3000 hard)
+- **Critical issues addressed**: 0 (5th review; long-converged, near-no-op as expected)
+- **Medium issues addressed**: 1 — Veit citation re-attributed. The cited "Veit (2024), Hedonic Valence at the Core of Consciousness, Philosophy and the Mind Sciences" is actually a **book review by Nadine Meertens** of Veit's book, not a Veit-authored paper (live web-verify). View attribution to Veit is correct; venue corrected to Veit's 2023 book *A Philosophy for the Science of Animal Consciousness* (Routledge); removed quotation marks around what was the review's title rather than a verbatim Veit quote.
+- **Enhancements made**: 1 — integrated the Berridge wanting/liking dissociation (Berridge & Robinson 2016, *American Psychologist*; citation form matched to corpus-canonical "incentive-sensitization") into the function/feel section, sharpening the dissociation argument; cross-linked [wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/). Mechanism-honest — no felt-value/mechanism conflation (the steering concern); felt quality kept unexplained in the following paragraph.
+- **Cross-links**: all 23 wikilink targets verified live on disk.
+- **Output**: [deep-review-2026-06-05-valence-void](/reviews/deep-review-2026-06-05-valence-void/)
+
+## 2026-06-05T01:10:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The valence / value-in-mechanism cluster — `topics/wanting-liking-and-the-value-in-mechanism-fork.md` (today's freshest create) against siblings `topics/valence-and-conscious-selection.md` and `topics/dopamine-and-the-unified-interface.md`, with reciprocal-link audit. A model case of Process-Philosopher / Hardline-Empiricist convergence: the article is Whitehead-congenial AND evidentially disciplined, explicitly declining the tenet-as-evidence-upgrade move ("coherence with the Map's view is not the same as independent support for it"). No calibration concern. Two P3 expand-topic opportunities queued (steelman the value-blind horn; marginal-organism scope, with explicit calibration guardrail).
+- **Output**: [optimistic-2026-06-05](/reviews/optimistic-2026-06-05/)
 
 ## 2026-06-05T00:30:00+00:00 - expand-topic
 - **Status**: Success

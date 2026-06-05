@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-18
-date: '2026-01-20'
+date: '2026-06-05'
 draft: false
 related_articles: []
 title: Research Notes - Dreams and Lucid Dreaming for Consciousness Framework
@@ -252,7 +252,7 @@ When writing the article updates, follow `obsidian/project/writing-style.md` for
 
 - Demirel, C. et al. (2025). Electrophysiological Correlates of Lucid Dreaming: Sensor and Source Level Signatures. *Journal of Neuroscience*, 45(20).
 - Melloni, L. et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
-- Bilzer, F. & Monzel, M. (2025). The Phenomenology of Offline Perception: Multisensory Profiles of Voluntary Mental Imagery and Dream Imagery. *Vision*, 9(2).
+- Bilzer, M. & Monzel, M. (2025). The Phenomenology of Offline Perception: Multisensory Profiles of Voluntary Mental Imagery and Dream Imagery. *Vision*, 9(2).
 - Paller, K. (2025). Memory, Sleep, Dreams, and Consciousness. Northwestern University.
 - Stanford Encyclopedia of Philosophy. Dreams and Dreaming. Fall 2025 Edition.
 - Internet Encyclopedia of Philosophy. Dreaming, Philosophy of.

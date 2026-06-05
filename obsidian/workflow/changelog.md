@@ -5,6 +5,13 @@ ai_modified: 2026-06-05T01:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T02:00:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/lucid-dreaming-and-dualist-rendering]], [[topics/dream-consciousness]]
+- **Changes**: Length-neutral citation fix only. Corrected propagated wrong-author miscitation of the *Vision* 9(2):37 offline-perception paper — was attributed to "Fazekas, P., Nemeth, G. & Overgaard, M. (2025)", actually authored by **Bilzer, M. & Monzel, M. (2025)** (live-verified). Fixed in-text ("Fazekas et al." → "Bilzer & Monzel") and References entries in BOTH topic files; expanded the reference title to the full multisensory-profiles form. Also fixed wrong first initial in the two originating research notes (Bilzer "F."/"R." → "M.") in `research/dreams-lucid-dreaming-consciousness-2026-01-18.md` and `research/mental-imagery-consciousness-causal-role-2026-01-23.md`.
+- **Not touched**: `concepts/conscious-vs-unconscious-processing.md` "Overgaard, M. & Fazekas, P. (2022)" blindsight paper (niab043) — a different, legitimate citation, confirmed intact.
+- **Published**: yes
+
 ## 2026-06-05T01:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/valence-void]]

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-06-02 17:38:23.024884+00:00
+ai_modified: 2026-06-05 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -102,7 +102,7 @@ Notably, lucid dream control is imperfect. Many lucid dreamers achieve awareness
 
 ### The Vividness Surplus
 
-Dream experience is often more emotionally vivid and perceptually immersive than waking experience, despite operating with reduced neural resources. Fazekas et al. (2025) found that dream imagery is significantly more vivid than voluntary waking imagination, especially in emotional and visual content. If both are brain-generated, the vividness gap is puzzling — the same system, with fewer resources available during sleep, produces richer output.
+Dream experience is often more emotionally vivid and perceptually immersive than waking experience, despite operating with reduced neural resources. Bilzer & Monzel (2025) found that dream imagery is significantly more vivid than voluntary waking imagination, especially in emotional and visual content. If both are brain-generated, the vividness gap is puzzling — the same system, with fewer resources available during sleep, produces richer output.
 
 Production models explain the surplus through disinhibition: with prefrontal executive control offline, sensory cortices activate without top-down suppression. This is neurologically plausible but phenomenologically unsatisfying. Disinhibition explains why neural activity *increases* in sensory cortices during REM, not why increased activity in a sleeping brain produces experience that is *qualitatively richer* than what the fully engaged waking brain achieves through deliberate imagination.
 
@@ -162,7 +162,7 @@ The Konkoly et al. (2026) study adds further pressure. In a small but suggestive
 
 1. Baird, B., Castelnovo, A., Gosseries, O., & Tononi, G. (2018). Frequent lucid dreaming associated with increased functional connectivity between frontopolar cortex and temporoparietal association areas. *Scientific Reports*, 8, 17798.
 1. Baird, B., Mota-Rolim, S. A., & Dresler, M. (2019). The cognitive neuroscience of lucid dreaming. *Neuroscience & Biobehavioral Reviews*, 100, 305-323.
-1. Fazekas, P., Nemeth, G., & Overgaard, M. (2025). The phenomenology of offline perception. *Vision*, 9(2), 37.
+1. Bilzer, M., & Monzel, M. (2025). The phenomenology of offline perception: Multisensory profiles of voluntary mental imagery and dream imagery. *Vision*, 9(2), 37.
 1. Hobson, J. A. (2009). REM sleep and dreaming: towards a theory of protoconsciousness. *Nature Reviews Neuroscience*, 10(11), 803-813.
 1. Konkoly, K. R., Appel, K., Chabani, E., et al. (2021). Real-time dialogue between experimenters and dreamers during REM sleep. *Current Biology*, 31(7), 1417-1427.
 1. Konkoly, K. R., et al. (2026). Creative problem-solving after experimentally provoking dreams of unsolved puzzles during REM sleep. *Neuroscience of Consciousness*, 2026(1), niaf067.
