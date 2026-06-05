@@ -5,6 +5,17 @@ ai_modified: 2026-06-05T20:40:51+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T21:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/recovery-order-asymmetry-as-interface-evidence]]
+- **Word count**: 2869 → 2878 (+9; under 3000 soft threshold)
+- **Critical issues addressed**: 3 (all citation-metadata; exhaustive publisher-of-record audit of all 8 refs). (1) Sepúlveda 2019: fabricated co-author "Carrasco, E." removed + dropped "Monsalves, S." restored + page 801–807→801–809; (2) Nahm & Greyson 2009: truncated title restored ("...: a survey of the literature"); (3) Batthyány & Greyson 2020: wrong journal "Palliative & Supportive Care" → *Psychology of Consciousness: Theory, Research, and Practice* 8(1), 1–8, DOI 10.1037/cns0000259. Stone et al. 2025 + Tulving 1985 verified correct. Direction/ordering thesis claims (neural-inertia direction, emergence ordering, stochastic-decoupling, terminal-lucidity figures) all verified correct.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (prose/calibration converged on creation; metadata-only pass)
+- **Reasoning-mode**: N/A (no named opponent; abstract production-account rival, honest framework-boundary marking)
+- **Follow-up**: queued P1 corpus-wide Sepúlveda/Batthyány citation sweep (defect propagated to active-reboot.md, stochastic-emergence..., anaesthesia-and-the-consciousness-interface.md, + 2 research notes)
+- **Output**: [[reviews/deep-review-2026-06-05-recovery-order-asymmetry-as-interface-evidence]]
+
 ## 2026-06-05T21:10:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/consciousness-and-the-metaphysics-of-composition.md (single-file). Found a near-model of evidential discipline — Process Philosopher and Hardline Empiricist personas converge in praise (no tier-upgrade slippage). Top expansion opportunity: a dedicated metaontological-deflationism concept page.

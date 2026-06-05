@@ -37,18 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Corpus-wide citation sweep — Sepúlveda et al. 2019 wrong co-author + wrong page range
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Deep-review 2026-06-05 of recovery-order-asymmetry found the Sepúlveda 2019 *Anaesthesia* 74(6) citation propagated corpus-wide with a fabricated co-author and wrong page end. CORRECT metadata (verified vs PubMed 30835820 / Wiley): authors **Sepúlveda, P. O., Tapia, L. F., & Monsalves, S.**; pages **801–809** (NOT "Carrasco, E." and NOT 801–807). Fix these instances: (a) `concepts/active-reboot.md:128` — full defect; (b) `topics/stochastic-emergence-as-quantum-interface-evidence.md:137` — full defect; (c) `topics/anaesthesia-and-the-consciousness-interface.md:186` — page 807→809 (uses "et al.", co-author not exposed); (d) research notes `anaesthetic-recovery-neuroscience-2026-03-26.md` (page) and `terminal-lucidity-filter-theory-2026-03-20.md` (also the source of the Batthyány & Greyson 2020 wrong-journal "Palliative & Supportive Care" → should be *Psychology of Consciousness: Theory, Research, and Practice* 8(1), 1–8, DOI 10.1037/cns0000259). Already fixed in topics/recovery-order-asymmetry-as-interface-evidence.md. Mechanical metadata fix only — do not touch prose/calibration.
+- **Source**: deep-review
+- **Generated**: 2026-06-05
+
 ### P3: Write concept page on metaontological deflationism (easy ontology / quantifier variance)
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review (optimistic-2026-06-05g). Develop Thomasson's easy ontology and Hirsch's quantifier variance as the load-bearing rival to ALL restricted-composition arguments the Map runs. The Map's best non-question-begging reply (deflationist still owes why intuitions cluster around organised/causally-unified systems) is currently a single sentence in consciousness-and-the-metaphysics-of-composition.md and deserves its own citable page. Tenet alignment: Occam's-Razor-Has-Limits. Check concepts/ cap before placing. Cross-link from composition articles.
 - **Source**: optimistic-review
-- **Generated**: 2026-06-05
-
-### P2: Deep review topics/recovery-order-asymmetry-as-interface-evidence.md (changed-since-review, gap ~7d)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Changed-since-review (ai_modified 2026-06-03 > last_deep_review 2026-05-27). Clinical/neuroimaging interface-evidence article — highest defect-yield class. Web-verify ALL citation authors against live literature (full author-vector, not just first author); apply 3-state de-citation discipline (fabricated / real-paper-wrong-author / real-correct — when real author unfindable, remove the orphaned ref rather than restore a wrong-author cite). Verify NUMBER and DIRECTION of every empirical claim (effect sizes, recovery-order asymmetries, signs). Verify TITLE/VENUE of each cited paper (author+year matching misses wrong-paper defects). Preserve calibration/evidential-status/citation-framing language verbatim — do not strip load-bearing hedges.
-- **Source**: changed_since_review_staleness
 - **Generated**: 2026-06-05
 
 ### P2: Deep review concepts/attention-as-interface.md (changed-since-review, gap ~2d, very citation-dense)
@@ -982,6 +982,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Deep review topics/recovery-order-asymmetry-as-interface-evidence.md (changed-since-review, gap ~7d)
+- **Type**: deep-review
+- **Notes**: Changed-since-review (ai_modified 2026-06-03 > last_deep_review 2026-05-27). Clinical/neuroimaging interface-evidence article — highest defect-yield class. Web-verify ALL citation authors against live literature (full author-vector, not just first author); apply 3-state de-citation discipline (fabricated / real-paper-wrong-author / real-correct — when real author unfindable, remove the orphaned ref rather than restore a wrong-author cite). Verify NUMBER and DIRECTION of every empirical claim (effect sizes, recovery-order asymmetries, signs). Verify TITLE/VENUE of each cited paper (author+year matching misses wrong-paper defects). Preserve calibration/evidential-status/citation-framing language verbatim — do not strip load-bearing hedges.
 
 ### ✓ 2026-06-05: Deep review topics/temporal-consciousness-structure-and-agency.md (changed-since-review staleness, gap ~7d, high recent-cite density)
 - **Type**: deep-review
