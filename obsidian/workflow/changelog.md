@@ -5,6 +5,16 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T09:46:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/process-and-consciousness]]
+- **Word count**: 3924 → 3924 (0) — length-neutral; 98% of 4000 apex soft threshold
+- **Critical issues addressed**: 0 (none found — converged, 5th review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no body edits; metadata-only review)
+- **Citation verification**: web-verified the two corpus sweeps that touched this article since the last review (both correct) plus all load-bearing cites — Kerskens & López Pérez 2022 (J. Phys. Comm. 6 105001 ✓ the Pérez→López Pérez sweep correct), Khan et al. 2024 (eNeuro 11(8) ✓ the Wiest→Khan first-author sweep correct), Schurger et al. 2012 (PNAS ✓), Sjöberg 2024 (Brain 147(7):2267–2269 ✓), Stapp Mindful Universe 2011 (Springer 2nd ed. ✓ stance "controversial" faithful). No misattribution/fabrication; all 13 wikilinks resolve; 6 source articles reciprocate. Named-opponent engagements: functionalist Mode Two, Everettian Mode Three — both honest, no label leakage. No "This is not X. It is Y." cliché.
+- **Output**: [[reviews/deep-review-2026-06-05-process-and-consciousness]]
+
 ## 2026-06-05T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/clinical-evidence-quality-standards-consciousness-research]]

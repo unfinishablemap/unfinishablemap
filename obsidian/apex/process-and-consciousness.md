@@ -4,8 +4,8 @@ description: "Reality as becoming, not being. Whitehead and Bergson's process fr
 created: 2026-01-31
 modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-06-03T00:00:00+00:00
-last_deep_review: 2026-05-21T13:11:22+00:00
+ai_modified: 2026-06-05T09:46:35+00:00
+last_deep_review: 2026-06-05T09:46:35+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
