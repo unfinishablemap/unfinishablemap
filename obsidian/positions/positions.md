@@ -4,7 +4,7 @@ description: "The Map's explicit, maintained register of positions it currently 
 created: 2026-06-04
 modified: 2026-06-04
 human_modified: 2026-06-04
-ai_modified: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-06-05T08:50:00+00:00
 draft: false
 topics: []
 concepts:
@@ -16,7 +16,7 @@ related_articles:
   - "[[project/calibration-audit-triple]]"
 ai_contribution: 100
 author: Andy Southgate
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-04
 last_curated: 2026-06-04
 ---
