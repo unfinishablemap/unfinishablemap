@@ -5,6 +5,18 @@ ai_modified: 2026-06-05T15:14:29+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T16:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/anti-correlation-probes-for-ai-consciousness]]
+- **Word count**: 2748 → 2748 (no content change; under topics soft 3000 / hard 4000)
+- **Critical issues addressed**: 1 (Fleming 2024 ref 2 wrong page range 149–176 → web-verified 241–268 per Annual Reviews / PubMed 37722748 / DOI 10.1146/annurev-psych-022423-032425; calibration defect, wrong key-numbers against publisher of record)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article at convergence; 2nd review)
+- **Full citation audit (task-mandated)**: VERIFIED against publisher of record — Rebouillat/Leonetti/Kouider 2021 niab004 Neuroscience of Consciousness 2021(1) (canonical author "Leonetti" unaccented; no Coutinho/Sci-Rep fabrication); Schwitzgebel 2011 Perplexities MIT Press; Birch 2024 Edge of Sentience OUP (title+subtitle exact); Fleming page range was the sole defect. Refs 5–6 internal Map self-refs.
+- **Cross-corpus divergence**: the wrong Fleming 149–176 also sits in the parent concept concepts/anti-correlated-metacognitive-signal.md:128 → queued P3 fix. introspection.md / metacognition.md / metacognition research note already correct (241–268). Accent divergence "Léonetti" in discrimination-problem.md & confabulation-void.md noted (less-canonical, not queued).
+- **Reasoning-mode classification**: N/A (methodological design piece, no named-opponent reply); no label leakage (grep clean).
+- **Output**: [[reviews/deep-review-2026-06-05-anti-correlation-probes-for-ai-consciousness]]
+
 ## 2026-06-05T15:59:17+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-in-smeared-quantum-states]]
