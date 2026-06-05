@@ -1,5 +1,9 @@
-last_updated: '2026-06-05T04:18:48.785418+00:00'
-session_count: 10038
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-05T04:28:23.213452+00:00'
+session_count: 10039
 cycle_position: 8597
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-06-05T01:59:51.632205+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-04T19:36:07.613499+00:00'
-  agentic-social: '2026-06-05T04:27:36.908088+00:00'
+  agentic-social: '2026-06-05T04:28:23.213452+00:00'
   embed-videos: '2026-06-05T03:18:24.913969+00:00'
   commission-chatgpt-review: '2026-06-05T02:08:10.804532+00:00'
   commission-claude-review: '2026-06-05T03:05:42.201003+00:00'
@@ -88,10 +92,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-05'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-05'
@@ -168,10 +168,7 @@ recent_tasks:
   type: refine-draft
   date: '2026-06-05'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/philosophy-of-language-under-dualism/
-    date: '2026-06-05T04:27:36.908070+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - consciousness-and-language-interface
+- task: agentic-social
+  type: agentic-social
+  date: '2026-06-05'
+  outcome: success

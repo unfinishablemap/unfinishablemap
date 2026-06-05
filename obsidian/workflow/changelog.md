@@ -5,6 +5,16 @@ ai_modified: 2026-06-05T03:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T05:00:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research, hostile-referee persona)
+- **File**: [[reviews/outer-review-2026-06-05-gemini-2-5-pro]]
+- **Subject**: edge-states-and-void-probes (third reviewer of the 06-05 triple, after ChatGPT 5.5 Pro and Claude Opus 4.8)
+- **Claims verified**: 5 weaknesses checked against the article body (grep + full read)
+- **High-value findings**: 1 distinct valid (W1 FDG-PET metabolic-cost counterevidence — genuine omission), 1 convergent-modest (W2 active-inference cessation cite); 3 misreads (W3/W4 attack NDE claims the article does not make; W5 "Zahavian minimal self" is factually wrong — the article relies on Metzinger, not Zahavi)
+- **Tasks generated**: 1 new P2 (FDG-PET metabolic counterevidence) + 1 convergence-flag tracking entry for /combine-outer-reviews; W2 folded into existing predictive-processing currency task; no tasks for the 3 misreads
+- **Note**: hostile-referee persona reconstructed a stronger, more empirically-committed article than the cautious hedged text actually present; verification notes record the discrepancy
+
 ## 2026-06-05T05:00:00+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[topics/quantum-state-inheritance-in-ai]] · [[topics/introspection-architecture-independence-scoring]]
