@@ -177,6 +177,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-06-05
 - **Notes**: Suggested by optimistic review (see [[reviews/optimistic-2026-06-05b]]). Develops the gap `marginal-organism-scope-of-value-sensitive-selection` flags but leaves open: whether conscious selection requires a CENTRAL locus for option-comparison or can run on a diffuse nerve net (the *Hydra* case — "the Map's interface operates in a radically distributed way the framework has not specified"). Builds on `concepts/universal-coupling-response.md`. Assess-first with license-to-decline: if the honest conclusion is that distributed-interface specifiability is structurally unreachable, a VOID may be the right home rather than a topic — but voids/ is at/over cap (~101/100), so check cap before placing. Tenet alignment: Bidirectional Interaction (where and how distributed the causal interface can be). Medium scope.
 
+### P3: Promote the MPE-to-organism disanalogy to a reusable named pattern (or named anchor)
+- **Type**: refine-draft
+- **Status**: pending
+- **Source**: optimistic-review
+- **Generated**: 2026-06-05
+- **Notes**: Suggested by optimistic review (see [[reviews/optimistic-2026-06-05c]]). The three-part disanalogy at `concepts/minimal-consciousness.md` line 61 (subtractive-vs-never-had-it; metarepresented-report-as-enriched-reconstruction; felt-similarity-as-heuristic) is a general-purpose DE-RATING tool — it blocks the human-MPE-to-simple-organism inference and explicitly marks its own evidential weight as zero ("tenet-coherent, not evidence-elevating"). It is currently buried inline in one article but is cited/relevant in `edge-states-and-void-probes`, `witness-consciousness`, `contentless-awareness`, `infant-consciousness`, `animal-consciousness`. Assess-first with license-to-decline: prefer a STABLE NAMED ANCHOR in minimal-consciousness (so other articles can deep-link the move) over a new concept page — concepts/ is near cap (~245/270) but a refine adding an anchor + reciprocal cross-links creates no new page. Do NOT let the harvest weaken the de-rating framing. Tenet alignment: Occam's Razor Has Limits (evidential-status discipline; this is a claim-DE-rating tool, never a tier-upgrade engine). Short scope.
+
+### P3: Acknowledge multi-axis "consciousness profile" alternative in degrees-of-consciousness
+- **Type**: refine-draft
+- **Status**: pending
+- **Source**: optimistic-review
+- **Generated**: 2026-06-05
+- **Notes**: Suggested by optimistic review (see [[reviews/optimistic-2026-06-05c]]). `concepts/minimal-consciousness.md` ("Is 'Minimal' One Dimension or Many?", line 91) develops the Bayne/Hohwy/Owen (2016) and Birch/Schnell/Clayton (2020) multi-axis framing — minimality may be plural (wakefulness, content, integration, selfhood, reportability), so the threshold problem "does not dissolve; it multiplies." `concepts/degrees-of-consciousness.md` leans on single-scale degree language and should ACKNOWLEDGE the multi-axis alternative + cite back. Assess-first: this is a refine of the EXISTING degrees page (NOT a new concept page); honour the article's own "live position, not a settled result" hedge for the levels debate. Add reciprocal cross-link. Tenet alignment: Occam's Razor Has Limits (single-scale parsimony as the artefact to resist). Short-to-medium scope.
+
 ### ✓ P2: Fix impossible date in topics/ramanujan-and-the-phenomenology-of-mathematical-reception.md
 - **Type**: refine-draft
 - **Status**: done (2026-06-03 — fixed inline same-cycle as the pessimistic-review that found it). One-token factual fix: "29 February 1913" (impossible — 1913 not a leap year) → "27 February 1913" (Ramanujan's second letter to Hardy, per Berndt & Rankin, the article's own ref 3). First letter date (16 January 1913) correct. All other cites web-verified CLEAN by the review. Fixed directly rather than spinning a separate refine-draft fork on a single character.  See [[reviews/pessimistic-2026-06-03-ramanujan-and-the-phenomenology-of-mathematical-reception]].
