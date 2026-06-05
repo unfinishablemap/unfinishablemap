@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-05-02 12:54:00+00:00
+ai_modified: 2026-06-05 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -20,7 +20,7 @@ description: Every mind operates with a finite system of categories and inferent
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-02 12:54:00+00:00
+last_deep_review: 2026-06-05 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -94,7 +94,7 @@ Each candidate is offered as *a place the void might lie*, not a proven instance
 
 **Other minds and the view from nowhere.** Nagel (1974) argued we cannot form the concept of *what it is like to be a bat* because it would require acquaintance with phenomenal features human cognition cannot host — a candidate categorial limit, not a missing concept. Nagel (1986) extended this to the view from nowhere: a category representing reality apart from any perspective.
 
-**Experience structured by apparatus we do not possess.** Our categories of *space*, *object*, and *action* are built from the invariance structure of human perception (Sonesson, 2020). A being with radically different sensors or embodiment might operate with categorial shapes our apparatus cannot instantiate — testable rather than settled, per [non-human minds as void-explorers](/voids/non-human-minds-as-void-explorers/).
+**Experience structured by apparatus we do not possess.** Our categories of *space*, *object*, and *action* are built from the invariance structure of human perception (Gärdenfors, 2020). A being with radically different sensors or embodiment might operate with categorial shapes our apparatus cannot instantiate — testable rather than settled, per [non-human minds as void-explorers](/voids/non-human-minds-as-void-explorers/).
 
 ## Evidence and the Departure from Kant
 
@@ -154,9 +154,9 @@ The Map is unfinishable not merely because the territory is vast, but because ev
 6. Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
 7. Langton, R. (1998). *Kantian Humility: Our Ignorance of Things in Themselves*. Oxford University Press.
 8. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349–366.
-9. Mellor, S., et al. (2025). "Adversarial testing of global neuronal workspace and integrated information theories of consciousness." *Nature*.
+9. Cogitate Consortium, Ferrante, O., Gorska-Klimowska, U., et al. (2025). "Adversarial testing of global neuronal workspace and integrated information theories of consciousness." *Nature*, 642(8066), 133–142.
 10. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435–450.
 11. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
 12. Sellars, W. (1956). "Empiricism and the Philosophy of Mind." In *Minnesota Studies in the Philosophy of Science* (Vol. 1, pp. 253–329). University of Minnesota Press.
-13. Sonesson, G. (2020). "Primary cognitive categories are determined by their invariances." *Frontiers in Psychology*, 11, 584017.
+13. Gärdenfors, P. (2020). "Primary cognitive categories are determined by their invariances." *Frontiers in Psychology*, 11, 584017.
 14. Strawson, P. F. (1959). *Individuals: An Essay in Descriptive Metaphysics*. Methuen.

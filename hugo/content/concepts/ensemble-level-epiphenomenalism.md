@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-05-27 10:16:46+00:00
+ai_modified: 2026-06-05 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -28,7 +28,7 @@ topics:
 - '[[selection-only-mind-influence]]'
 ---
 
-**Ensemble-level epiphenomenalism** is the worry that the Map's most conservative reading of its quantum-interface tenet — *corridor dualism* — may purchase its empirical safety at the price of the very causal efficacy it was meant to secure. The corridor reading posits that consciousness selects which outcome actualises at a single quantum measurement, but constrains that selection so that, averaged over many events, the outcomes still obey the Born rule |⟨φ|ψ⟩|² exactly. No statistical signature appears in any long run. The objection: if conscious selection leaves *no* trace at the ensemble level, in what sense is it doing causal work rather than merely riding along on a distribution physics already fixed? The companion article [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) names this "arguably the Map's sharpest open question." This page states the worry cleanly, distinguishes it from classical epiphenomenalism, lays out the two escape routes (the **trumping route** and the **minimum-outside-the-corridor route**, both explained below), and rates each honestly against the Map's [evidential-status discipline](/project/evidential-status-discipline/).
+**Ensemble-level epiphenomenalism** is the worry that the Map's most conservative reading of its quantum-interface tenet — *corridor dualism* — may purchase its empirical safety at the price of the very causal efficacy it was meant to secure. The corridor reading posits that consciousness selects which outcome actualises at a single quantum measurement, but constrains that selection so that, averaged over many events, the outcomes still obey the Born rule |⟨φ|ψ⟩|² exactly. No statistical signature appears in any long run. The objection: if conscious selection leaves *no* trace at the ensemble level, in what sense is it doing causal work rather than merely riding along on a distribution physics already fixed? The companion article [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) names this "arguably the Map's sharpest open question," and the positions register logs it as position P-Q3 in [quantum-interface](/positions/quantum-interface/) — the strongest live challenge to the default mechanism, held open rather than resolved. This page states the worry cleanly, distinguishes it from classical epiphenomenalism, lays out the two escape routes (the **trumping route** and the **minimum-outside-the-corridor route**, both explained below), and rates each honestly against the Map's [evidential-status discipline](/project/evidential-status-discipline/).
 
 ## The Worry Stated Precisely
 

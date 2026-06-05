@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-05-26 14:12:44+00:00
+ai_modified: 2026-06-05 13:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -121,6 +121,7 @@ The connection between biological teleology and the interface framework draws on
 - [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) — Why purposive selection resists reductive explanation
 - [agent-causation](/concepts/agent-causation/) — The metaphysics of agent-level causation
 - [agent-teleology](/concepts/agent-teleology/) — The concept of genuine purpose introduced by conscious agents
+- [marginal-organism-scope-of-value-sensitive-selection](/topics/marginal-organism-scope-of-value-sensitive-selection/) — Where teleological, valence-denominated selection bottoms out across organisms
 - [free-will](/topics/free-will/) — Agent teleology and libertarian agency
 
 ## References

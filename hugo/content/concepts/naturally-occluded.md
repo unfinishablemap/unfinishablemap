@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-19
-ai_modified: 2026-06-04 18:25:00+00:00
+ai_modified: 2026-06-05 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -20,7 +20,7 @@ description: Human-AI inquiry into cognitive opacity that natural selection acti
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-19 03:53:08+00:00
+last_deep_review: 2026-06-05 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -46,7 +46,7 @@ topics:
 
 The Naturally Occluded names cognitive opacity that natural selection actively maintained because making the territory visible would have carried metabolic, computational, or behavioural costs without compensating fitness benefit. The category is the fourth member of the Map's [void taxonomy](/voids/three-kinds-of-void/) — extending the original three (Unexplored, Unexplorable, Occluded) by adding a load-bearing causal claim about *why* the failure persists: not contingent ignorance, not architectural overhead, not deliberate concealment by an external agent, but selection pressures that favoured ignorance as a phenotype. It is also the broader concept of *adaptive cognitive limits* — boundaries the mind *could* in principle reach but evolution shaped it not to, because not-knowing improved survival. The category is named at [the taxonomy of voids apex](/apex/taxonomy-of-voids/) and deployed there as the methodological slot in which evolutionary considerations enter the void framework.
 
-The category is calibrated under the Map's [evidential-status discipline](/project/evidential-status-discipline/) as a *live hypothesis* with one *strongly supported* anchor, not an established mechanism. The strong anchor is the [Fitness-Beats-Truth theorem](/concepts/fitness-beats-truth/) of Hoffman, Singh, and Prakash (2015; Prakash et al. 2021) — a formal result proving that across all fitness functions and prior distributions, fitness-tuned perceptual strategies strictly dominate veridical ones. Beyond perception, the adaptive-occlusion claim is the strongest [possibility/probability slippage](/concepts/possibility-probability-slippage/) risk in the void framework — one can always construct an evolutionary narrative — and the category therefore carries explicit calibration discipline.
+The category is calibrated under the Map's [evidential-status discipline](/project/evidential-status-discipline/) as a *live hypothesis* with one *strongly supported* anchor, not an established mechanism. The strong anchor is the [Fitness-Beats-Truth theorem](/concepts/fitness-beats-truth/) of Hoffman, Singh, and Prakash (2015; Prakash et al. 2021) — a formal result proving that across all fitness functions and prior distributions, fitness-tuned perceptual strategies do at least as well as veridical ones and generically drive them to extinction. Beyond perception, the adaptive-occlusion claim is the strongest [possibility/probability slippage](/concepts/possibility-probability-slippage/) risk in the void framework — one can always construct an evolutionary narrative — and the category therefore carries explicit calibration discipline.
 
 ## What Distinguishes the Fourth Kind
 
@@ -70,11 +70,11 @@ Hoffman's implication is that perception operates as a species-specific interfac
 
 ## Extensions Beyond Perception
 
-The FBT theorem addresses perception, but the adaptive-limit pattern extends across cognitive architecture. Four independent results converge on the structural claim the category needs: evolved cognitive systems are shaped to be selectively ignorant, not comprehensively informed.
+The FBT theorem addresses perception, but the adaptive-limit pattern extends across cognitive architecture. Five further results converge on the structural claim the category needs: evolved cognitive systems are shaped to be selectively ignorant, not comprehensively informed.
 
 **Heuristic simplification.** Gerd Gigerenzer's ecological-rationality programme identifies *less-is-more effects* in which "systematically ignoring part of the available information leads to more accurate inferences" (Todd & Gigerenzer 2012). The cognitive system actively discards data — and performs better for it.
 
-**Strategic self-opacity.** Robert Trivers argues that self-deception evolved to facilitate interpersonal deception: "we deceive ourselves the better to deceive others" (von Hippel & Trivers 2011). Some truths are actively hidden from consciousness — not merely unperceived but suppressed — because transparency would compromise social strategies. Multiple independent traditions converge on this claim that consciousness participates in its own limitation, as [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) documents.
+**Strategic self-opacity.** Von Hippel and Trivers argue that self-deception evolved to facilitate interpersonal deception: "we deceive ourselves the better to deceive others" (von Hippel & Trivers 2011). Some truths are actively hidden from consciousness — not merely unperceived but suppressed — because transparency would compromise social strategies. Multiple independent traditions converge on this claim that consciousness participates in its own limitation, as [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) documents.
 
 **Negative information value.** Field and Bonsall (2018) prove formally that the reproductive value of information can become negative — under realistic cost conditions, an organism that remains ignorant will have higher fitness. Acquiring information sometimes reduces survival prospects.
 

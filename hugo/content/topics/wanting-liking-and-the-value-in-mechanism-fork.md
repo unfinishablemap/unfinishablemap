@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-05
-ai_modified: 2026-06-05 00:00:00+00:00
+ai_modified: 2026-06-05 16:45:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -18,6 +18,7 @@ description: Berridge's wanting/liking dissociation refutes a single value-curre
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-06-05 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -33,7 +34,7 @@ topics:
 
 Kent Berridge and colleagues spent three decades showing that reward is not one thing. "Wanting" a reward (the motivational pull toward it) and "liking" it (its felt hedonic impact) have **separable neural substrates** and can be pulled apart experimentally. Dopamine drives wanting; small opioid "hedonic hotspots" in the nucleus accumbens shell and ventral pallidum drive liking. An animal can even be made to "want" a cue it has never "liked." This is settled affective neuroscience.
 
-The Unfinishable Map lays an *interpretive* question over this settled base, the **value-in-mechanism fork** (defined below): when a reward is good or a pain is bad, does that affective value reside in the neural mechanism itself, or in the conscious experience the mechanism is associated with? The honest answer this article defends: the dissociation **constrains** the space of accounts—it refutes any naive "dopamine = pleasure = value" picture and proves motivation and hedonic impact are mechanistically separable—but it does **not** by itself settle the fork. A mechanism-only physicalist reading explains every Berridge finding without remainder. The data sharpen the question; they do not answer it.
+The Unfinishable Map lays an *interpretive* question over this settled base, the **value-in-mechanism fork** (defined below): when a reward is good or a pain is bad, does that affective value reside in the neural mechanism itself, or in the conscious experience the mechanism is associated with? The honest answer this article defends: the dissociation **constrains** the space of accounts—it refutes any naive "dopamine = pleasure = value" picture and is strong evidence that motivation and hedonic impact are mechanistically separable—but it does **not** by itself settle the fork. A mechanism-only physicalist reading explains every Berridge finding without remainder. The data sharpen the question; they do not answer it.
 
 ## The Empirical Dissociation
 
@@ -41,7 +42,7 @@ The core finding is a clean double role for reward. Berridge and Robinson (1998)
 
 The anatomy backs the split. Peciña and Berridge (2005) showed that microinjecting a μ-opioid agonist into a roughly one-cubic-millimetre "hedonic hotspot" in the rostrodorsal medial shell of the nucleus accumbens **doubled** the positive orofacial "liking" reactions to sweetness, while opioid-driven *eating* ("wanting"/consumption) spread across the entire medial shell. The substrate that amplifies pleasure is anatomically distinct from the substrate that amplifies pursuit.
 
-The motivational direction yields the sharpest result. In Tindell, Smith, Berridge and Aldridge (2009)—"wanting what was never liked"—rats given a cue previously paired with intensely salty (normally aversive) taste showed enhanced motivation toward that cue the moment they entered a salt-depleted physiological state, **before ever having experienced concentrated salt as palatable**. Ventral pallidal neurons recompute the cue's incentive salience from current bodily state, not from any stored hedonic memory. "Wanting" can attach to something never "liked."
+The motivational direction yields the sharpest result. In Tindell, Smith, Berridge and Aldridge (2009)—"wanting what was never liked"—rats given a cue previously paired with intensely salty (normally aversive) taste showed enhanced motivation toward that cue the moment they entered a salt-depleted physiological state, **before ever having experienced concentrated salt as palatable**. Ventral pallidal neurons appear to recompute the cue's incentive salience from current bodily state, not from any stored hedonic memory. "Wanting" can attach to something never "liked."
 
 Two further results frame the landscape. Berridge and Robinson (2016) ground the incentive-sensitization theory of addiction on exactly this gap: addictive "wanting" can grow over time while "liking" stays flat or falls—craving without rising pleasure. And Berridge and Kringelbach (2015) draw the distinction this article turns on: they separate the *objective core "liking" reaction* (a measurable neural-behavioural signature) from *subjective conscious pleasure*, treating felt pleasure as a further layer beyond the mechanistic signature.
 
@@ -49,7 +50,7 @@ Two further results frame the landscape. Berridge and Robinson (2016) ground the
 
 All parties accept the dissociation. The dispute is where *value*—affective goodness or badness, the thing that actually matters—resides.
 
-**The mechanism-only reading** holds that affective value just *is* the operation of these reward circuits. The "liking" reactions are the value; conscious pleasure, where it occurs, is identical to or supervenient on a brain state with no further ontological work to do. Its strongest support is precisely that the dissociation is fully explained at the mechanistic level: orofacial "liking" reactions persist in decorticate rats and human infants, suggesting a value-signature that need not invoke rich conscious experience. It is also the more parsimonious option, paying for a single ontology.
+**The mechanism-only reading** holds that affective value just *is* the operation of these reward circuits. The "liking" reactions are the value; conscious pleasure, where it occurs, is identical to or supervenient on a brain state with no further ontological work to do. Its strongest support is precisely that the dissociation is fully explained at the mechanistic level: orofacial "liking" reactions persist in decerebrate rats and anencephalic human infants—subjects lacking a functioning forebrain—suggesting a value-signature that need not invoke rich conscious experience. It is also the more parsimonious option, paying for a single ontology.
 
 **The value-in-experience reading** (the Map's) holds that value exists only *for* an experiencing subject. The mechanistic "liking" reaction is then a correlate, cause, or effect of hedonic value—not the value itself. A "liking" reaction with no accompanying experience, if such a thing occurs, would carry no genuine value, because nothing would *matter* to anything. This is the position developed in [consciousness-value-connection](/concepts/consciousness-value-connection/) and [phenomenal-value-realism](/topics/phenomenal-value-realism/).
 
@@ -64,6 +65,8 @@ What it does **not** establish (interpretive): that value resides in experience 
 A trap worth marking explicitly: Berridge is a physicalist affective neuroscientist whose constructs are operational. He is not a dualist and his work is not evidence for dualism. Citing him correctly means crediting him with the *empirical dissociation* and the *objective-versus-conscious distinction*, then doing the interpretive work transparently as the Map's own. The case is open but unsettled.
 
 There is also a live mechanistic rival to keep in view: the reward-prediction-error account associated with Wolfram Schultz reads phasic dopamine as a teaching signal rather than incentive salience. The two mechanistic stories are debated within neuroscience; the value-in-mechanism fork sits *above* that dispute, since both are mechanism-level accounts that the value-in-experience reading would treat as describing correlates rather than the locus of value.
+
+A second pressure comes from the opposite direction. The value-in-experience reading leans on there being a *subject* for whom hedonic value exists, and a no-self critic will ask what that subject amounts to if it is not simply more mechanism. The Map does not need to settle that here: its claim is the comparatively modest one that *whatever* the experiencing locus turns out to be, an unfelt "liking" reaction has no one it is good for, and so carries no value in the sense the fork is about. If a fully impersonal process could nonetheless instantiate genuine value, the value-in-experience reading would lose its motivation—so this is a real cost to track, not a settled point.
 
 ## Relation to Site Perspective
 
@@ -86,6 +89,7 @@ The Map holds the value-in-experience reading because of its prior commitments i
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/)
 - [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/)
 - [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/)
+- [marginal-organism-scope-of-value-sensitive-selection](/topics/marginal-organism-scope-of-value-sensitive-selection/) — How far down the tree of life value-sensitive selection reaches
 
 ## References
 

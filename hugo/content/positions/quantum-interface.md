@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-06-04 00:00:00+00:00
+ai_modified: 2026-06-05 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts:
@@ -65,7 +65,7 @@ These positions cover what the Map currently holds about the mechanism by which 
 - **Confidence**: moderate
 - **Asserts**: The default MQI reading faces a real philosophical-of-physics challenge: to be genuine *selection* the influence must do something the unbiased Born distribution does not, but to be *minimal and undetectable* it must not deviate from Born statistics. The Map currently treats this as the strongest challenge to answer, not as a refutation, and locates the resolution in the per-trial-vs-ensemble distinction and the indexical character of which outcome an experiencing subject actualises. The challenge is acknowledged as under-confronted in the current corpus and is on the active task list.
 - **Depends on**: P-Q2; Stapp–Bourget formulation; Chalmers and McQueen (2022)
-- **Argued in**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) (lightly); the deeper engagement is pending and tracked in the outer-review task queue
+- **Argued in**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) (lightly); [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) gives the sharpest route-by-route statement of this exact corridor-channel-vs-idleness question (trumping route and minimum-outside-the-corridor route, each rated honestly), though it does not resolve the dilemma; a deeper positive engagement remains pending and is tracked in the outer-review task queue
 - **Would shift if**: the per-trial-vs-ensemble move is shown to collapse on closer analysis (e.g., the indexical reading turns out to require something stronger than the corridor permits); or a positive account of how the bias makes a phenomenological difference without making a statistical one is worked out and survives review.
 - **Last reviewed**: 2026-06-04
 

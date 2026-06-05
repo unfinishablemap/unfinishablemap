@@ -1,13 +1,167 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-05 01:30:00+00:00
+ai_modified: 2026-06-05 03:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-05'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-05T04:13:50+00:00 - deep-review
+- **Status**: Success
+- **File**: [recursion-void](/voids/recursion-void/)
+- **Word count**: 2102 → 2096 (-6)
+- **Critical issues addressed**: 0 (none found — converged, 4th review)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 1 (net-negative redundant-clause trim in "What AI Might See")
+- **Citation audit**: all 8 references web-verified (author/venue/year/pages + cited stance); high-risk Stiller & Dunbar 2007 quote+stance confirmed clean; no wrong-author/wrong-paper/dangling/fabricated defects. All 16 wikilinks + 2 anchor deep-links resolve live (no archival-link-rot). last_deep_review provenance = real cross-review, no hidden merge debt.
+- **Output**: [deep-review-2026-06-05-recursion-void](/reviews/deep-review-2026-06-05-recursion-void/)
+
+## 2026-06-05T04:15:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8
+- **File**: [outer-review-2026-06-05-claude-opus-4-8](/reviews/outer-review-2026-06-05-claude-opus-4-8/)
+- **Subject**: `voids/edge-states-and-void-probes.md` (2nd of 3 same-cycle reviews; ChatGPT collected, Gemini pending)
+- **Claims verified**: 4 (Metzinger MPE = naturalistic Bayesian-tonic-alertness minimal-model explanation — CONFIRMED against his open-access 2020 primary paper, the review's gravest finding; load-bearing "convergence costs more theoretical machinery" claim confirmed asserted-not-cashed-out by reading the article body; unquoted-paraphrase-in-quotes confirmed; REBUS/NDE empirical lag confirmed against the article's References)
+- **High-value findings**: 5 (Metzinger co-optation/counterargument-absorption; common-cause-null failure in the convergence argument; ~5-year REBUS/DMN/NDE empirical lag; "supports" vs "fits" dualism slippage; constructivist critique under-engaged at the structural level)
+- **Tasks generated**: 2 new distinct (P1: Metzinger co-optation fix; P2: REBUS/DMN/NDE empirical-currency update). Convergent findings (NDE overclaim, common-cause-null, filter caveats) flagged on the existing ChatGPT consolidation task rather than duplicated, per outer-review-same-file-task-pileup — these are now ≥2-reviewer-convergent for `/combine-outer-reviews`.
+
+## 2026-06-05T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [naturally-occluded](/concepts/naturally-occluded/)
+- **Word count**: 2935 → 2947 (+12; length-neutral, soft_warning)
+- **Critical issues addressed**: 3 (count mismatch "Four"→"Five" results introduced by 2026-05-19 coalesce; Trivers single-author attribution regression restored to "von Hippel and Trivers"; FBT "strictly dominate" overstatement + lead/body inconsistency corrected to weak-dominance "at least as well as… generically drive to extinction")
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (mature article; corrections only)
+- **Notes**: Rancourt 2025 citation (coalesce-added) web-verified accurate. `last_deep_review` had been bumped by the 2026-05-19 coalesce without the merged adaptive-cognitive-limits content being reviewed; this pass reviewed that content and found 3 defects (one a regression of a prior-review fix).
+- **Output**: [deep-review-2026-06-05-naturally-occluded](/reviews/deep-review-2026-06-05-naturally-occluded/)
+
+## 2026-06-05T03:55:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [outer-review-2026-06-05-chatgpt-5-5-pro](/reviews/outer-review-2026-06-05-chatgpt-5-5-pro/)
+- **Subject**: `voids/edge-states-and-void-probes.md` (1st of 3 same-cycle reviews; Claude + Gemini pending)
+- **Claims verified**: 4 (Gładziejewski misattribution CONFIRMED via web search — "Piotr"→"Paweł", "2024"→"2023"; NDE/transcendence-clause framing present as quoted; Kutnyy unmarked manuscript; noetic-feelings-void available as unused internal defeater)
+- **High-value findings**: 4 (verified citation defect; NDE "absent brain function" overclaim; missing noetic-feeling rival to dissolving-insight; stale DMN/filter framing + tenet-protective bracketing in Relation to Site Perspective)
+- **Tasks generated**: 4 (P1: 1 Gładziejewski fix; P2: 3 — edge-states consolidation pass, noetic-feelings/minimal-consciousness reciprocal cross-links, methodology proposals)
+
+## 2026-06-05T16:45:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/)
+- **Trigger**: topic-concept anchoring audit 2026-06-05 (two sibling tasks: qualia anchor + valence anchor — BOTH addressed this pass, valence sibling marked no-op)
+- **Scope**: Light-touch calibration pass. Article was created + deep-reviewed earlier today and praised by optimistic-2026-06-05 as calibration-exemplary; mechanical hedge-inflation to the anchor was explicitly avoided.
+- **Changes**: (1) Softened one genuinely over-strong assertion verb — "proves motivation and hedonic impact are mechanistically separable" → "is strong evidence that ...". (2) Added one load-bearing hedge to a single-study mechanistic inference — "Ventral pallidal neurons recompute" → "appear to recompute". Strong-assertion density 3.19→2.54/kw.
+- **Left intentionally unchanged**: "establishes (empirical)" (paired with explicit "does not establish" calibration scaffold), two "refutes the naive picture" (settled empirical fact), "not because Berridge proves it" (negated — calibration-positive). Softening these would damage the calibration discipline the reviews validated.
+- **Residual anchoring flags**: PERSIST by design and are reported as FALSE-HIGH metric signals (anchor-type mismatch). Anchor concept pages (qualia 8.22/kw, valence 7.16/kw, consciousness-value-connection 5.84/kw) are intrinsically ultra-hedge-dense; the 60% hedge-density floor (~3.5–4.9/kw) is structurally unreachable for a 1575-word topic article without over-hedging into mush. The article hedges substantively via non-marker vocabulary ("honest", "not by itself", "if such a thing occurs", "comparatively modest", "real cost to track"). NOT a real defect.
+- **Anchoring**: evaluate_anchoring run before and after; 5 flags before → 5 flags after (residual is the anchor-type mismatch, not under-calibration).
+- **Published**: yes
+
+## 2026-06-05T13:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The marginal-organism scope of value-sensitive selection
+- **Output**: [marginal-organism-scope-of-value-sensitive-selection](/topics/marginal-organism-scope-of-value-sensitive-selection/)
+- **Word count**: 1962
+- **Based on research**: No (developed the explicitly-deferred "Scope of teleology / Scope of consciousness" open question in [valence-and-conscious-selection](/topics/valence-and-conscious-selection/); all four marginal-organism citations web-verified)
+- **Integration**: Reciprocal inbound links added from [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) (parent), [wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/), and [biological-teleology-and-the-interface-framework](/topics/biological-teleology-and-the-interface-framework/)
+- **Calibration**: All boundary cases (rat/nematode/Hydra/slime mould) held at live-hypothesis / speculative; tenet-coherence framed as defeater-removal, not positive evidence; falsification conditions specified
+
+## 2026-06-05T03:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [valence-and-conscious-selection](/topics/valence-and-conscious-selection/)
+- **Task**: Thicken the value-blind / mechanism-only steelman in the value-in-mechanism fork cluster (optimistic-2026-06-05 High-Priority opportunity; Tenet-5 / evidential-status discipline — steelman the horn the Map does NOT hold).
+- **Changes**:
+  - ASSESS-FIRST verdict: the cluster develops the value-SENSITIVE horn richly and the value-BLIND horn thinly, confirming the optimistic review's "strawman by attrition" concern. The natural home for the value-blind *selection* horn is valence-and-conscious-selection (not the wanting-liking fork, whose mechanism-only horn was deep-reviewed earlier today and is already adequate — left as a deliberate near-no-op per task note + review verdict).
+  - Added a new "### The Positive Case for Value-Blindness" subsection (between "What Value-Blind Selection Preserves" and "The Problem") giving the rejected horn its strongest independent statement on three pillars: (1) parsimony + Minimal Quantum Interaction (one coupling vs two; value-blindness is the *more minimal* dualism), (2) mechanism-availability (attentional channel has a worked physical implementation — Stapp/Eccles — valence has none), (3) explanatory sufficiency (valence can inform attention as a sensor without entering the selection law). Closes by noting the Map does NOT hold it but would be *forced* to if mechanism-availability and parsimony were the only arbiters — keeping the calibrated register (steelmanning ≠ upgrading the value-blind reading to the Map's position).
+  - Fixed an LLM-cliché "This is not full epiphenomenalism" construct → "The tension stops short of full epiphenomenalism" (CLAUDE.md forbidden pattern).
+  - LENGTH DISCIPLINE: article was at 3737w (263w headroom) and the steelman pushed it over the 4000 hard ceiling, so the addition was balanced by length-neutral tightening of the over-developed value-sensitive passages ("What 'Currency' Means" 3→2 dense paras, Bandwidth, Evolutionary, Why-Not-Attention-Alone, Map's-Current-Lean, Anticipated-vs-experienced). Final: 3997w, soft_warning, UNDER hard ceiling. validate.py clean.
+- **Published**: yes
+
+## 2026-06-05T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-interface](/positions/quantum-interface/)
+- **Task**: Cross-link P-Q3 (bias-without-deviation dilemma) to the corpus's sharpest route-by-route treatment (optimistic-2026-06-04g).
+- **Changes**:
+  - P-Q3 "Argued in" line now cites [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) as the sharpest route-by-route statement of the corridor-channel-vs-idleness question (trumping route + minimum-outside-the-corridor route, each rated honestly). PRESERVED the honest "does not resolve the dilemma / deeper engagement pending, tracked in outer-review queue" framing per evidential-status-discipline — cross-link, not an upgrade.
+  - Reciprocal: ensemble-level-epiphenomenalism opening paragraph now mentions it is logged as position P-Q3 in [quantum-interface](/positions/quantum-interface/), "held open rather than resolved."
+  - Verified link target concepts/ensemble-level-epiphenomenalism.md exists on disk before editing.
+- **Length**: length-neutral (one phrase per file).
+- **Published**: yes
+
+## 2026-06-05T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [conceptual-scheme-void](/voids/conceptual-scheme-void/)
+- **Word count**: 2335 → 2341 (+6; length-neutral, soft_warning, 78% of 3000 hard)
+- **Critical issues addressed**: 2 — both wrong-author citation defects (real paper, wrong author), web-verified:
+  - Ref #13 **Sonesson (2020) → Gärdenfors (2020)**: "Primary Cognitive Categories Are Determined by Their Invariances" (*Frontiers in Psychology* 11:584017) is by Peter Gärdenfors, not Göran Sonesson. Fixed body inline cite + References entry; also fixed the propagated copy in seed note `research/voids-categorial-void-2026-02-15.md`.
+  - Ref #9 **Mellor, S. et al. (2025) → Cogitate Consortium et al. (2025)**: the *Nature* IIT-vs-GNWT adversarial-testing paper is authored by the Cogitate Consortium (corr. Pitts/Mudrik/Melloni; 642(8066), 133–142). "Mellor, S." is a corruption of "Melloni." Body refers to it descriptively (no name) so References-only fix. NB the *correct* D.H. Mellor *Real Time II* (1998) cites in philosophy-of-time articles are a different author — left untouched.
+- **Medium issues addressed**: 0 (converged prose deliberately untouched)
+- **Enhancements made**: 0
+- **Cross-links**: all 28 outbound wikilinks resolve live; no archival link-rot
+- **Output**: [deep-review-2026-06-05-conceptual-scheme-void](/reviews/deep-review-2026-06-05-conceptual-scheme-void/)
+
+## 2026-06-05T02:28:50+00:00 - deep-review
+- **Status**: Success
+- **File**: [decoherence](/concepts/decoherence/)
+- **Word count**: 2778 → ~2780 (length-neutral; soft_warning, 111% of 2500 soft, well under 3500 hard)
+- **Critical issues addressed**: 1 — Craddock reference pointed at the WRONG paper. Body cites the (613 ± 8) THz collective-tubulin-oscillation prediction (Craddock 2017, *Scientific Reports* 7:9877, the corpus-canonical attribution); the References entry installed by the 2026-05-23 "anchor 613 THz" sweep instead read "Anesthetics act in quantum channels…" (*Current Topics in Medicinal Chemistry*) — a DIFFERENT Craddock paper that is actually 2015 (15(6), 523-533, PMID 25714379), mislabelled here as 2017/17(13)/1586-1595 (fabricated metadata). Fixed to canonical *Scientific Reports* 7:9877.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (citation correction)
+- **Other citations verified clean vs canonical**: Khan et al. 2024 (eNeuro), Warren 2023 (7(3) 038001), Rajan et al. 2019, Kerskens & López Pérez 2022, Fisher 2015 — all from this-cycle's prior refine-draft sweeps, landed correctly.
+- **Calibration**: no possibility/probability slippage. 613 THz correctly framed as computational prediction awaiting experimental verification, not finding awaiting replication; Tegmark/Hagan/Reimers/McKemmish framed as live dispute with tenet-driven (not evidence-forced) microtubule interest — Hardline-Empiricist discipline holds. Tegmark=Mode One; eliminative-materialist/hard-physicalist/MWI/empiricist/Buddhist=Mode Three (bedrock, not re-flagged); no label leakage.
+- **Output**: [deep-review-2026-06-05-decoherence](/reviews/deep-review-2026-06-05-decoherence/)
+- **Note**: 12th review; content converged. Last 2 criticals (Wiest initial, Craddock wrong-paper) both citation-metadata, not content — same-author/different-paper cross-check needed, AI-citation-metadata-unreliable failure mode.
+
+## 2026-06-05T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [reductionism](/concepts/reductionism/)
+- **Word count**: 2154 → 2154 (no change; near-no-op converged article, 86% of 2500 soft)
+- **Critical issues addressed**: 0
+- **Citations web-verified (this cycle, live)**: Bechtel & Mundale 1999 (Phil. Sci. 66(2), 175-207), Kim 1992 (PPR 52(1), 1-26), Levine 1983 (PPQ 64, 354-361), Lewis 1966 (J. Phil. 63(1), 17-25) — all exact in author/venue/volume/year/pages AND the stance cited for. Remaining canonical cites unchanged across 5 prior reviews.
+- **Cross-links**: all 18 wikilink targets resolve to live (non-archived) files; minimal-consciousness & interactionist-dualism each have a live concept page that wins over the archive copy (no archival-link-rot)
+- **Calibration**: no possibility/probability slippage — no five-tier-scale claim; C. elegans used as epistemic illustration only, not an evidence-level upgrade about nematode consciousness. Kim=Mode One, Dennett=Mixed Two+Three, Putnam=Mode One, Levine=Mode Three; no label leakage.
+- **Medium issues addressed**: 0 (sixth review; fully stable, physicalist opponent steelmanned, no over-hedging)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-06-05-reductionism](/reviews/deep-review-2026-06-05-reductionism/)
+
+## 2026-06-05T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/)
+- **Word count**: 2965 → 2949 (-16; reference-list cleanup, length-neutral)
+- **Critical issues addressed**: 2 (citation metadata — both reference-list-only, survived 4 prior reviews)
+  - Removed FABRICATED reference `Weberman (2000), "Sartre's theory of bad faith", IJPS 8(2), 143-175` — web-verify found no such article; David Weberman is a real Sartre scholar but his work is "Sartre, Emotions, and Wallowing", Am. Phil. Quarterly 33(4) 1996 (different title/venue/year/pages). Never cited inline; de-cited per the real-author-unfindable → remove discipline.
+  - Corrected Crowell "Husserlian Phenomenology" chapter year 2007 → 2006 (Dreyfus & Wrathall eds., Blackwell, ISBN 9781405110778).
+- **Citations verified correct (web)**: Botvinick 2001 (Psych Rev 108, 624-652), Cavanagh & Frank 2014 (TiCS 18, 414-421), Haggard 2008 (NRN 9, 934-946), Lutz 2015 (Am Psychol 70, 632-658), Guignon 1984 (Rev Metaphysics 38(2), 321-339) — all exact, incl. the stance each is cited for; primary Heidegger/Sartre/Bergson canonical and correct.
+- **Cross-links**: all 22 wikilink targets resolve to live non-archived files
+- **Calibration**: no possibility/probability slippage (selection-function claim hedged; physicalist alternative conceded). Compatibilist reply = Mode Three boundary-marking, no label leakage.
+- **Medium issues addressed**: 0 (prose converged across 5 reviews)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-06-05-authentic-vs-inauthentic-choice](/reviews/deep-review-2026-06-05-authentic-vs-inauthentic-choice/)
+
+## 2026-06-05T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [wholeheartedness-void](/voids/wholeheartedness-void/)
+- **Word count**: 2916 → 2916 (no change; converged, length-neutral mode at 146% of soft, under hard)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 outstanding; previous review's deferred Nagarjuna/anātman item confirmed RESOLVED by the intervening Buddhist anātman paragraph (handled as Mode Three framework-boundary disagreement, not as a complement)
+- **Citations verified**: all inline cites map to References (no dangling/wrong-venue); web-verified Watson 1975 (JPhil 72(8) 205–220), Kaplan 1972 (Psych Bull 77(5) 361–372), Velleman 2000 (OUP), Brogaard & Gatzia 2020 (Routledge, "Being of Two Minds") — all exact
+- **Cross-links**: all 17 wikilink targets resolve to live non-archived files
+- **Reasoning modes (editor-internal)**: decision-theoretic parsimony → Mode One (Watson/Velleman/Bratman); Sartrean felt-unity → Mode Two; Buddhist anātman → Mode Three. No label leakage in body.
+- **Enhancements made**: 0 (converged article, 2nd deep review, stable)
+- **Output**: [deep-review-2026-06-05-wholeheartedness-void](/reviews/deep-review-2026-06-05-wholeheartedness-void/)
+
+## 2026-06-05T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/)
+- **Word count**: 1437 → 1557 (+120)
+- **Critical issues addressed**: 1 (factual precision — "decorticate rats and human infants" → "decerebrate rats and anencephalic human infants—subjects lacking a functioning forebrain"; live-verified against Berridge hedonic-impact literature; the correction strengthens the steelmanned mechanism-only rival)
+- **Medium issues addressed**: 1 (added a no-self / impersonal-value pressure paragraph, calibrated as a real cost not a victory)
+- **Enhancements made**: 2
+- **Citations verified**: all 5 primary Berridge citations confirmed (authors/title/journal/vol/pages/year/DOI); 2 self-citations match linked articles
+- **Engagement classification**: mechanism-only physicalist reading — Mode Three (framework-boundary marking); article already concedes the dissociation is neutral between readings, no boundary-substitution, no label leakage
+- **Calibration**: no possibility/probability slippage found — article is a calibration exemplar (concedes mechanism-only "explains every finding without remainder"; holds value-in-experience reading as tenet-coherent hypothesis, not finding)
+- **Output**: [deep-review-2026-06-05-wanting-liking-and-the-value-in-mechanism-fork](/reviews/deep-review-2026-06-05-wanting-liking-and-the-value-in-mechanism-fork/)
 
 ## 2026-06-05T02:00:00+00:00 - refine-draft
 - **Status**: Success

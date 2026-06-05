@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-06-02 00:00:00+00:00
+ai_modified: 2026-06-05 13:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,6 +33,7 @@ related_articles:
 - '[[moral-architecture-of-consciousness]]'
 - '[[consciousness-and-normative-force]]'
 - '[[wanting-liking-and-the-value-in-mechanism-fork]]'
+- '[[marginal-organism-scope-of-value-sensitive-selection]]'
 title: Valence and the Mechanism of Conscious Selection
 topics:
 - '[[topics/free-will]]'
@@ -65,15 +66,27 @@ On this view, selection operates through attention and intention as *content-neu
 
 ### What Value-Blind Selection Preserves
 
-Value-blind selection preserves a clean separation between the *mechanism* of consciousness (how it acts on the brain) and the *content* of consciousness (what it experiences, including valence). This mirrors the distinction in control theory between the controller's actuator channel and its sensor channel. The sensor provides feedback—including valenced feedback—but the actuator operates through a separate channel that need not encode value directly.
+Value-blind selection preserves a clean separation between the *mechanism* of consciousness (how it acts on the brain) and the *content* of consciousness (what it experiences, including valence). This mirrors the control-theoretic distinction between the controller's actuator channel and its sensor channel. The sensor provides feedback—including valenced feedback—but the actuator operates through a separate channel that need not encode value directly.
 
-Stapp's quantum Zeno model offers one illustration. Attention increases the observation rate on a neural subsystem, stabilising it via the Zeno effect. The mechanism is attention intensity → observation frequency → pattern stability. Valence need play no role: you attend to what you attend to, and the physics does the rest. Whether what you attend to feels good or bad is a fact about the feedback channel, not the control signal.
+Stapp's quantum Zeno model illustrates the point. Attention increases the observation rate on a neural subsystem, stabilising it via the Zeno effect: attention intensity → observation frequency → pattern stability. Valence need play no role; whether what you attend to feels good or bad is a fact about the feedback channel, not the control signal.
+
+### The Positive Case for Value-Blindness
+
+The horn deserves its strongest statement, not merely its weakest objection: a fork resolved by attrition rather than argument would violate the Map's [evidential-status-discipline](/project/evidential-status-discipline/), and on several independent counts this is the horn the Map's own discipline most favours. Three considerations push toward it.
+
+First, **parsimony and minimal interaction**. Value-blind selection needs exactly one mental-to-physical coupling: attention (with intention and effort as its modes) maps to observation rate. Value-sensitive selection needs a *second* coupling—some law by which felt valence enters the physics—that the [psychophysical-laws](/concepts/psychophysical-laws/) framework admits it cannot yet specify. By [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction), the account influencing physics through the fewest mental variables is the one to beat, and value-blindness is the *more minimal* dualism. A fork that ignored this would let the Map's preferences outrun its tenets.
+
+Second, **mechanism availability**. The attentional channel has a worked physical implementation (Stapp's observation-rate model; Eccles's synaptic exocytosis bias); valence has none. An account whose single coupling is already specified is, on the Map's own standards, in better evidential standing than one whose extra coupling is a promissory note—regardless of which feels more congenial to the value-realist intuition.
+
+Third, **explanatory sufficiency**. Nothing in the phenomenology of choice *requires* valence to be a selector rather than a sensor. Anticipated valence can be a vivid input to attention—a felt salience that draws observation—without itself entering the selection law. On this reading the felt goodness of an option is real and even action-guiding, yet it guides by *informing* a value-neutral steering channel rather than by *being* the steering. The value-realist keeps felt value as genuinely mattering; what they give up is only the further claim that mattering must be wired directly into the physics of collapse.
+
+So stated, the value-blind horn is a disciplined position rather than a deflationary concession: it honours dualism, satisfies minimal interaction, rests on the only coupling with a mechanism, and leaves valence fully real as content. The Map does not hold it—but it is the horn the Map would be *forced* to hold if mechanism-availability and parsimony were the only arbiters, which is exactly why the case against it must be argued, not assumed.
 
 ### The Problem: Value Becomes Epiphenomenal to Selection
 
 If valence is real and causally inert in selection, the Map faces an internal tension. It holds that consciousness does genuine causal work ([Bidirectional Interaction](/tenets/#bidirectional-interaction)) and that value is phenomenal ([phenomenal-value-realism](/topics/phenomenal-value-realism/)). But if the causal work is done by attention—a value-neutral pointer—while value sits in the feedback channel doing no selective work, then the *value* dimension of consciousness is along for the ride.
 
-This is not full epiphenomenalism. Consciousness remains causally efficacious through attention. But the specifically *evaluative* dimension of consciousness—the dimension the Map claims grounds all value—becomes causally idle in the one mechanism the Map assigns to consciousness. The Map would be saying: consciousness matters because it acts, and value matters because it is felt, but value doesn't matter *in the way consciousness acts*.
+The tension stops short of full epiphenomenalism: consciousness remains causally efficacious through attention. But the specifically *evaluative* dimension of consciousness—the dimension the Map claims grounds all value—becomes causally idle in the one mechanism the Map assigns to consciousness. The Map would be saying: consciousness matters because it acts, and value matters because it is felt, but value doesn't matter *in the way consciousness acts*.
 
 The [pain asymbolia evidence](/concepts/valence/#valence-does-causal-work) complicates this further. Patients with intact sensory pain processing but absent felt badness behave differently—they don't avoid painful stimuli with normal urgency. If valence is causally inert in selection, this evidence must be explained through a different pathway (perhaps valence modulates attention intensity rather than selection directly). But that would make valence causally relevant to selection after all—pushing toward the other horn.
 
@@ -83,11 +96,9 @@ On this view, valence directly shapes which outcomes consciousness selects. If c
 
 ### What "Currency" Means
 
-A currency is a common measure that enables comparison between otherwise incommensurable goods. Money converts the value of bread, labour, and land into a single dimension. Cleeremans and Tallon-Baudry (2022) suggest that phenomenal experience might act as "a mental currency of sorts," enabling conscious agents to compare vastly different experiences in a common subject-centred space—the warmth of sunlight against the satisfaction of solving a problem, the sting of rejection against the ache of a toothache.
+A currency is a common measure enabling comparison between otherwise incommensurable goods, as money converts bread, labour, and land into a single dimension. Cleeremans and Tallon-Baudry (2022) suggest that phenomenal experience might act as "a mental currency of sorts," letting conscious agents weigh vastly different experiences in a common subject-centred space—the warmth of sunlight against the satisfaction of solving a problem, the sting of rejection against the ache of a toothache.
 
-Individual experiences differ in every qualitative respect—colour, sound, texture, emotion—but they share the valence dimension. As Carruthers (2018) argues, valence is not a mere accompaniment to experience but constitutive of its evaluative character. Every conscious state carries some degree of felt goodness or badness. This universal dimension makes selection *commensurable*: consciousness can compare outcomes that differ in kind because they share a metric that differs only in degree.
-
-Without a common currency, selection among qualitatively different outcomes would be impossible. How does consciousness choose between attending to a visual pattern and a motor plan? Not by comparing colours with movements—these are incommensurable. But if each anticipated outcome carries a valence signature—a felt sense of how it would be to actualise that pattern—then comparison becomes possible. The brain presents options; valence denominates them; consciousness selects.
+Individual experiences differ in every qualitative respect—colour, sound, texture, emotion—but share the valence dimension. As Carruthers (2018) argues, valence is constitutive of experience's evaluative character rather than a mere accompaniment: every conscious state carries some degree of felt goodness or badness. This universal dimension makes selection *commensurable*—consciousness can compare outcomes that differ in kind because they share a metric that differs only in degree. How does consciousness choose between attending to a visual pattern and a motor plan? Not by comparing colours with movements, but because each anticipated outcome carries a valence signature—a felt sense of how it would be to actualise that pattern. The brain presents options; valence denominates them; consciousness selects.
 
 ### The Anticipatory Valence Mechanism
 
@@ -107,17 +118,17 @@ The [attention-as-interface](/concepts/attention-as-interface/) framework propos
 
 Attention without valence is directionless. Attention specifies *where* consciousness acts—which neural patterns receive observation. But it doesn't specify *why* one target rather than another. "Consciousness attends to pattern A rather than pattern B" raises the question: on what basis? If the answer is "whatever attention happens to land on," selection is arbitrary. If the answer is "prior attention directed current attention," we face an infinite regress—something must ground the initial direction.
 
-Valence provides that grounding. Consciousness attends to pattern A because the anticipated valence of actualising A exceeds that of B. Attention is the *channel* of selection; valence is the *criterion*. The two are complementary: valence decides; attention executes. The [normative force](/topics/consciousness-and-normative-force/) analysis suggests a deeper connection: the *demand-character* of phenomenal experience — the felt grip that makes some outcomes call for pursuit and others for avoidance — may be precisely the mechanism through which valence guides selection. Normative force is what gives valence its selective bite, transforming a felt quality into a basis for action.
+Valence provides that grounding. Consciousness attends to pattern A because the anticipated valence of actualising A exceeds that of B: attention is the *channel* of selection, valence the *criterion*—valence decides, attention executes. The [normative force](/topics/consciousness-and-normative-force/) analysis suggests a deeper connection: the *demand-character* of phenomenal experience—the felt grip that makes some outcomes call for pursuit and others for avoidance—may be precisely what gives valence its selective bite, transforming a felt quality into a basis for action.
 
-Pain asymbolia illustrates the point. Patients with intact attentional mechanisms but absent felt badness do not avoid painful stimuli with normal urgency. The attention channel works—they can direct observation toward the pain. What is missing is the valence signal that would make avoidance the preferred outcome. The selection mechanism has lost its currency.
+Pain asymbolia illustrates the point. Patients with intact attentional mechanisms but absent felt badness do not avoid painful stimuli with normal urgency: the attention channel works, but the valence signal that would make avoidance the preferred outcome is missing—the selection mechanism has lost its currency. (The value-blind horn replies that this only shows valence informs attention, not that it enters the selection law.)
 
 ### From Currency to Teleology
 
 If valence functions as the selection currency, the Map's physics becomes locally teleological within conscious brains. Outcomes are selected *because of how they would feel*—because anticipated experience evaluates them as good or bad. This is teleology in a precise sense: explanation by what something is *for* rather than by what caused it.
 
-The scope is constrained. Teleology operates only where consciousness acts—in brains, at quantum indeterminacies, through the attentional channel. Most physical events have no teleological character. But where consciousness interfaces with neural dynamics, [agent-teleology](/concepts/agent-teleology/) is genuine: the agent selects outcomes for reasons, and those reasons bottom out in felt value.
+The scope is constrained: teleology operates only where consciousness acts—in brains, at quantum indeterminacies, through the attentional channel—while most physical events have no teleological character. But where consciousness interfaces with neural dynamics, [agent-teleology](/concepts/agent-teleology/) is genuine: the agent selects outcomes for reasons, and those reasons bottom out in felt value.
 
-This strengthens [phenomenal-value-realism](/topics/phenomenal-value-realism/) considerably. If valence not only constitutes value (a metaphysical claim) but also participates in selection (a causal claim), then value is doubly non-epiphenomenal: it is real as experienced *and* efficacious as selector. The consciousness-value connection becomes not just that consciousness is necessary for value to exist, but that value is necessary for consciousness to function as it does.
+This strengthens [phenomenal-value-realism](/topics/phenomenal-value-realism/) considerably. If valence not only constitutes value (a metaphysical claim) but also participates in selection (a causal claim), then value is doubly non-epiphenomenal—real as experienced *and* efficacious as selector—and the consciousness-value connection becomes not just that consciousness is necessary for value, but that value is necessary for consciousness to function as it does.
 
 ### The Problems with Value-Sensitive Selection
 
@@ -125,7 +136,7 @@ This strengthens [phenomenal-value-realism](/topics/phenomenal-value-realism/) c
 
 **The anticipation problem.** Value-sensitive selection requires consciousness to assess the valence of *anticipated* outcomes before selecting them. But if the prediction itself is a neural process, the selection-relevant valence is a prediction of phenomenal quality, not phenomenal quality itself. Does predicted valence have the same metaphysical status as experienced valence?
 
-**Scope of teleology.** If selection is value-sensitive in conscious brains, what about marginal cases? Does a rat's pain avoidance reflect value-sensitive selection? Where the Map draws the consciousness boundary, it also draws the teleology boundary—and that boundary remains unclear.
+**Scope of teleology.** If selection is value-sensitive in conscious brains, what about marginal cases? Does a rat's pain avoidance reflect value-sensitive selection? Where the Map draws the consciousness boundary, it also draws the teleology boundary—and that boundary remains unclear. The [marginal-organism scope analysis](/topics/marginal-organism-scope-of-value-sensitive-selection/) develops this directly down a ladder of cases (rat, nematode, *Hydra*, slime mould), concluding the boundary cannot currently be located and the tenets cannot locate it.
 
 ## A Possible Middle Path
 
@@ -139,9 +150,9 @@ The cost: if valence operates only through attention, then the selection law its
 
 ## The Bandwidth Consideration
 
-Conscious processing operates at approximately 10 bits per second—sharply limiting selection to coarse-grained choices. A common valence currency is compatible with this constraint: instead of evaluating outcomes along multiple incommensurable dimensions, consciousness evaluates along one. Ten bits per second is enough to compare a handful of options on a single dimension.
+Conscious processing operates at approximately 10 bits per second—sharply limiting selection to coarse-grained choices. A common valence currency is compatible with this constraint: instead of evaluating outcomes along multiple incommensurable dimensions, consciousness evaluates along one, and ten bits per second is enough to compare a handful of options on a single dimension.
 
-This inverts the usual framing. The bandwidth constraint is typically presented as a limitation—consciousness can do so little per second. But if selection operates through a valence currency, low bandwidth is adequate because the evaluative work has already been done. The brain's unconscious processing compresses complex situations into anticipatory valence signals. Consciousness then selects among these compressed evaluations, not among the raw possibilities.
+This inverts the usual framing. The bandwidth constraint is typically read as a pure limitation, but if selection runs through a valence currency, low bandwidth is *adequate* because the evaluative work has already been done: unconscious processing compresses complex situations into anticipatory valence signals, and consciousness selects among these compressed evaluations rather than the raw possibilities.
 
 ## Testability Hooks
 
@@ -169,15 +180,13 @@ The fork is, as things stand, underdetermined by the evidence: no current findin
 
 ## Evolutionary Considerations
 
-If valence is the selection currency, natural selection shaped the currency's denominations. Pain correlates with tissue damage, pleasure with survival-promoting activities, fear with genuine threats—because organisms whose valence aligned with biological fitness outcompeted those whose valence was miscalibrated.
+If valence is the selection currency, natural selection shaped its denominations: pain correlates with tissue damage, pleasure with survival-promoting activities, fear with genuine threats, because organisms whose valence aligned with biological fitness outcompeted those whose valence was miscalibrated.
 
-This addresses a puzzle that epiphenomenalism cannot. If valence were causally inert, the tight correlation between what feels bad and what threatens survival would be a cosmic coincidence. The sophisticated epiphenomenalist's best answer is the [co-optimization reply](/topics/co-optimization-reply-to-the-correlation-problem/)—that selection co-produces aligned valence and behaviour from one optimized system—which survives the dissociation evidence but pays for its parsimony with an unexplained psychophysical necessity. But if valence drives selection—if organisms act differently because of how things feel—then evolution can shape valence directly. The felt badness of burning is bad for the organism *and* motivates avoidance *because* valence enters the selection law.
-
-The universality of valence across conscious experience—every experience carries some hedonic tone—is what makes it functional as a general-purpose selection metric. A currency restricted to specific modalities would leave consciousness without a basis for choosing among qualitatively different outcomes.
+This addresses a puzzle that epiphenomenalism cannot. If valence were causally inert, the tight correlation between what feels bad and what threatens survival would be a cosmic coincidence. The sophisticated epiphenomenalist's best answer is the [co-optimization reply](/topics/co-optimization-reply-to-the-correlation-problem/)—that selection co-produces aligned valence and behaviour from one optimized system—which survives the dissociation evidence but pays for its parsimony with an unexplained psychophysical necessity. If valence instead drives selection, evolution can shape it directly: the felt badness of burning is bad for the organism *and* motivates avoidance *because* valence enters the selection law. And because every experience carries some hedonic tone, valence is available as a general-purpose metric where a modality-restricted currency would leave consciousness no basis for choosing among qualitatively different outcomes.
 
 ## The Map's Current Lean
 
-The Map's existing content leans value-sensitive without having committed. The [valence](/concepts/valence/) article states: "if consciousness biases neural outcomes, valence may provide the criterion for selection." The [agent-teleology](/concepts/agent-teleology/) article affirms that conscious beings act *for reasons*, implying value-directed action. The [control-theoretic-will](/concepts/control-theoretic-will/) article lists "values" in the controller's setpoint.
+The Map's existing content leans value-sensitive without having committed. The [valence](/concepts/valence/) article states that "if consciousness biases neural outcomes, valence may provide the criterion for selection"; [agent-teleology](/concepts/agent-teleology/) affirms that conscious beings act *for reasons*; [control-theoretic-will](/concepts/control-theoretic-will/) lists "values" in the controller's setpoint.
 
 But the [psychophysical-laws](/concepts/psychophysical-laws/) article develops only attention and intention as mechanisms with physical implementations (Stapp, Eccles). Valence is listed as a candidate but acknowledged as undeveloped. The mechanism gap is real: leaning value-sensitive without a mechanism is an aspiration, not a position.
 
@@ -187,9 +196,9 @@ The graduated middle path—valence modulating attention, attention driving sele
 
 **The valence-attention boundary.** If valence modulates attention (the conservative strategy), is it truly a selection currency or merely an input to the real currency (attention)? The distinction matters: if valence acts only through attention, the selection law is fundamentally attentional, and valence is upstream infrastructure.
 
-**Anticipated vs experienced valence.** Selection depends on *anticipated* valence—predictions of how outcomes would feel. But Daniel Kahneman's distinction between the experiencing self and the remembering self, along with the literature on affective forecasting errors, indicates that humans systematically mispredict how experiences will feel. If selection is based on anticipated valence, and anticipation is unreliable, selection may systematically favour outcomes that feel worse than alternatives. The currency would be real but poorly calibrated.
+**Anticipated vs experienced valence.** Selection depends on *anticipated* valence—predictions of how outcomes would feel. But Kahneman's experiencing-self/remembering-self distinction and the affective-forecasting literature show that humans systematically mispredict how experiences will feel. If selection runs on anticipated valence and anticipation is unreliable, selection may favour outcomes that feel worse than alternatives: the currency would be real but poorly calibrated.
 
-**Scope of consciousness.** If valence is the selection currency, the currency exists wherever consciousness exists. Determining which systems have valence-based selection requires determining which systems are conscious—a problem the Map acknowledges as unsolved.
+**Scope of consciousness.** If valence is the selection currency, the currency exists wherever consciousness exists. Determining which systems have valence-based selection requires determining which systems are conscious—a problem the Map acknowledges as unsolved. The [marginal-organism scope analysis](/topics/marginal-organism-scope-of-value-sensitive-selection/) argues the two boundaries can come apart: an organism could be minimally conscious yet still select value-blindly.
 
 **Negative valence and avoidance.** A complete selection law must specify whether positive and negative valence are symmetric in their selection influence or whether one is primary. Asymmetric models (where pain avoidance is stronger than pleasure seeking) would have different empirical signatures than symmetric ones.
 
@@ -222,6 +231,7 @@ This fork is structurally forced by the Map's own commitments, and resolving it 
 - [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/) — The ~10 bits/second constraint on conscious selection
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — The demand-character of experience as the mechanism through which valence grips and guides
 - [selection-criterion-problem](/concepts/selection-criterion-problem/) — The open problem this article supplies a candidate answer to: valence as the criterion by which consciousness ranks candidates
+- [marginal-organism-scope-of-value-sensitive-selection](/topics/marginal-organism-scope-of-value-sensitive-selection/) — How far down the tree of life value-sensitive selection reaches: the deferred scope question developed
 - [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) — Apex synthesis: the value-sensitivity question within a unified moral framework
 
 ## References
