@@ -5,6 +5,12 @@ ai_modified: 2026-06-05T17:55:14+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T22:10:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/carrolls-regress.md` (aged concept page, `ai_modified` 2026-04-28, never pessimistically reviewed under its name; named-opponent engagement with Brandom/Wittgenstein/Engel)
+- **Findings**: 2 medium structural issues — (1) epistemic/metaphysical equivocation in the inferentialist reading (articulation-limit slid to constitutively-non-formal mental operation, which the Dualism link requires); (2) boundary-substitution in the Brandom paragraph (reply presupposes individual-first priority Brandom denies). Citations clean (Carroll/Polanyi web-verified exact; Gödel-36-years correct); no label leakage; length fine. Queued one P2 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-06-05e]]
+
 ## 2026-06-05T21:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/minimal-consciousness-void]]
