@@ -5,6 +5,16 @@ ai_modified: 2026-06-05T12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T12:50:59+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-biology-and-neural-consciousness]]
+- **Word count**: 3995 → 4002 (+7; full citation web-verify pass; net of 3 citation-integrity edits and 3 offsetting redundancy trims; calibration fully preserved; 2w over 4000 hard cap — flagged human length-decision, NOT condensed)
+- **Critical issues addressed**: 2 — (A) **Schlosshauer (2025) wrong year+volume on a real paper** (3-state = real-paper-wrong-metadata). No 2025 *Physics Reports* vol 1063 Schlosshauer review exists; canonical decoherence review is **2019, *Physics Reports* 831, 1-57** (already correct in [[topics/quantum-holism-and-phenomenal-unity]] + [[topics/brain-internal-born-rule-testing]]). Fixed inline + ref to 2019/831/1-57; replaced the unconfirmable verbatim quote with a paraphrase of Schlosshauer's documented "problem of outcomes." **Corpus propagation**: identical wrong "Schlosshauer 2025/1063" metadata + verbatim quote in [[topics/empirical-evidence-for-consciousness-selecting]] — fixed there too (inline + ref + de-quoted). grep-confirmed no residual. (B) **"Fisher 2015, 2025" dangling cite** in the calibration table — no Fisher 2025 exists; the 2025 lithium-isotope experiment is **Esmaeilpour et al. (2025)** (body attributes it correctly; only the table conflated). Fixed to "Fisher 2015; Esmaeilpour 2025."
+- **Medium issues addressed**: 1 — **Fleming (2007) orphan ref** (in References, no inline cite); added inline cite at the photosynthesis claim.
+- **Citations web-verified genuine + correctly attributed** (first-author/co-authors/venue/year/key-numbers/stance): Warren 2023 (JPhCo 7(3) 038001), Escolà-Gascón 2025 (CSBJ 30, 21-40; 13.5% variance figure confirmed the paper's own), Mavromatos/Mershin/Nanopoulos 2025 (EPJ Plus 140, 1116), Esmaeilpour 2025 (bioRxiv; 6-author), Khan 2024 (eNeuro 11(8), d=1.9), Wiest 2025 (NoC 2025(1) niaf011), Wiest & Puniani 2025 (CSBJ), Beshkar 2025 (Comm. Integr. Biol.), Keppler 2025 (Front. Hum. Neurosci. 1676585), Fisher 2015 (Ann. Phys. 362), Xu 2026 (real JACS cryptochrome-4a paper). "Converged ≠ verified": prior 06-01 pass verified 5 cites; this pass verified the remaining ~15 and caught 2 defects it had not tested.
+- **Engagement classification (editor-internal)**: Duch external-critic = Mixed (Mode One internal-to-Duch + Mode Three boundary-marking); honestly formed; no boundary-substitution; no label leakage. Calibration table + evidential-status discipline exemplary, untouched.
+- **Output**: [[reviews/deep-review-2026-06-05-quantum-biology-and-neural-consciousness]]
+
 ## 2026-06-05T12:40:38+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/anaesthesia-and-the-consciousness-interface]]

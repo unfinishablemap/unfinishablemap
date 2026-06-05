@@ -4,7 +4,7 @@ description: "Six converging evidence lines reshape quantum biology's bearing on
 created: 2026-01-27
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-06-04T09:26:45+00:00
+ai_modified: 2026-06-05T12:50:59+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review: 2026-06-01T23:24:29+00:00
+last_deep_review: 2026-06-05T12:50:59+00:00
 coalesced_from:
   - "/topics/quantum-biology-and-the-consciousness-debate/"
   - "/topics/quantum-biology-evidence-in-neural-systems/"
@@ -54,9 +54,9 @@ The assumption proved false. Nature had already solved the decoherence problem m
 
 **Avian magnetoreception** exploits quantum spin entanglement in cryptochrome proteins to detect Earth's magnetic field, with radical pairs maintaining coherence for microseconds. A 2024 *Nature Communications* study showed the [[stapp-quantum-mind|quantum Zeno effect]]—repeated observation stabilising quantum states—enables this magnetosensitivity (Denton et al., 2024; computational confirmation, Xu et al., 2026). The same mechanism Stapp proposes for consciousness-brain interaction has a confirmed biological precedent.
 
-**Enzyme catalysis** relies on quantum tunnelling, accelerating reactions by factors of 10¹² to 10¹⁷ (confirmed by kinetic isotope effects). **Photosynthetic energy transfer** exploits quantum coherence for near-perfect efficiency, though coherence times are shorter than claimed.
+**Enzyme catalysis** relies on quantum tunnelling, accelerating reactions by factors of 10¹² to 10¹⁷ (confirmed by kinetic isotope effects). **Photosynthetic energy transfer** exploits quantum coherence (Fleming et al., 2007), though coherence times are shorter than once claimed.
 
-The categorical objection has weakened: selection has propagated biochemical variants whose dynamics involve quantum effects in non-neural tissue, so warm biological environments are not categorically inhospitable to quantum function. This does not establish that neural systems specifically sustain coherence at consciousness-relevant scales—cryptochrome radical pairs are a highly specific molecular architecture, and the precedent supplies plausibility rather than licence for neural-microtubule coherence. The [[evolutionary-case-for-quantum-neural-effects|evolutionary case]] develops the why-might-they-do-this question, but it argues from realistic possibility, not actuality, and its bridging premise (that neural problems genuinely demand quantum solutions) is itself contested. The mechanism question stays open.
+The categorical objection has weakened: selection has propagated biochemical variants whose dynamics involve quantum effects in non-neural tissue, so warm biology is not categorically inhospitable to quantum function. This does not establish that neural systems specifically sustain coherence at consciousness-relevant scales—cryptochrome radical pairs are a specific architecture, and the precedent supplies plausibility rather than licence for neural coherence. The [[evolutionary-case-for-quantum-neural-effects|evolutionary case]] develops the why-might-they-do-this question, but it argues from realistic possibility, not actuality, and its bridging premise (that neural problems genuinely demand quantum solutions) is itself contested. The mechanism question stays open.
 
 ## Candidate Neural Mechanisms
 
@@ -142,7 +142,7 @@ The table specifies which Tenet 2 sub-reading each piece of evidence actually be
 | Enzyme tunnelling and photosynthetic coherence | Background precedent for any pre-decoherence proposal; not load-bearing for a specific neural mechanism | Yes | Orthogonal |
 | UV superradiance in microtubule tryptophan networks (Babcock 2024) | Load-bearing for Orch OR / Fröhlich-microtubule | Yes; corridor does not depend on microtubule coherence | Orthogonal |
 | Anaesthetic targeting of microtubules; epothilone B delay (Wiest 2025; Khan 2024); 613 THz prediction (Craddock 2017) | Load-bearing for Orch OR–style proposals: anaesthesia tracks microtubule quantum disruption | Anaesthesia engages *some* substrate, compatible with a post-decoherence interface | Orthogonal at the Born-rule layer; at most ancillary substrate evidence |
-| Posner-molecule lithium isotope effects (Fisher 2015, 2025) | Load-bearing for Fisher's nuclear-spin pre-decoherence proposal | Nuclear-spin coherence is one substrate a post-decoherence interface could use | Orthogonal |
+| Posner-molecule lithium isotope effects (Fisher 2015; Esmaeilpour 2025) | Load-bearing for Fisher's nuclear-spin pre-decoherence proposal | Nuclear-spin coherence is one substrate a post-decoherence interface could use | Orthogonal |
 | Kerskens & López Pérez brain-entanglement MRI (2022); Warren 2023 critique; twin EEG (Escolà-Gascón 2025) | Load-bearing for any proposal predicting macroscopic neural entanglement, if replications hold | At most; post-decoherence path needs no macroscopic entanglement | Orthogonal; corridor's programme is [[brain-internal-born-rule-testing]] |
 | Active inference + collapse (Wiest & Puniani 2025); QBIT (Beshkar 2025); microtubule-QED-cavity (Mavromatos 2025); TRAZE (Keppler 2025) | Theoretical load-bearing for the coherence proposal each framework advances | Convergence on "quantum is doing some work" raises the prior on a quantum interface generally | Orthogonal; coherence-mechanism convergence is not the corridor's currency |
 | NV-centre quantum-sensor measurement capability | Will be load-bearing for committed pre-decoherence mechanisms once deployed | Background instrumentation; no bearing on the selection event | Orthogonal; relevant only via [[brain-internal-born-rule-testing]] |
@@ -174,7 +174,7 @@ Tegmark's femtosecond estimate targeted ion superpositions in open neural membra
 - Radical pair systems: Microsecond coherence demonstrated experimentally—but in cryptochrome, not neural tissue, in a molecularly specific architecture.
 - QBIT theory: Axon initial segment provides structural protection; spintronic coherence may evade the original calculation entirely.
 
-Across these proposals, estimates span roughly 10⁻¹³ to 10⁻⁴ seconds depending on disputed parameters, leaving a gap between even 100 microseconds and the ~300 milliseconds of neural decisions. But this gap matters only for candidates requiring *pre-decoherence* coherence at neural scales (Orch OR, Fröhlich-microtubule lines). [[apex/post-decoherence-selection-programme|Post-decoherence-selection]] proposals locate the consciousness-relevant event *after* decoherence completes—in which definite outcome emerges from the classical mixture—and do not depend on sustained coherence. As Schlosshauer (2025) notes: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes." The role for consciousness at measurement stays conceptually open regardless of coherence timescales, and that openness is what Tenet 2 commits to.
+Across these proposals, estimates span roughly 10⁻¹³ to 10⁻⁴ seconds depending on disputed parameters, leaving a gap between even 100 microseconds and the ~300 milliseconds of neural decisions. But this gap matters only for candidates requiring *pre-decoherence* coherence at neural scales (Orch OR, Fröhlich-microtubule lines). [[apex/post-decoherence-selection-programme|Post-decoherence-selection]] proposals locate the consciousness-relevant event *after* decoherence completes—in which definite outcome emerges from the classical mixture—and do not depend on sustained coherence. As Schlosshauer's authoritative 2019 review notes, after decoherence selects preferred bases and suppresses interference, the system remains in a mixture of outcomes; it does not say why only one is measured. The role for consciousness at measurement stays conceptually open regardless of coherence timescales, and that openness is what Tenet 2 commits to.
 
 ## Relation to Site Perspective
 
@@ -234,7 +234,7 @@ Two structural responses follow. *First*, the Map and Duch *converge* against Pe
 12. Khan, S., et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
 13. Mavromatos, N. E., Mershin, A., & Nanopoulos, D. V. (2025). On the potential of microtubules for scalable quantum computation. *The European Physical Journal Plus*, 140, 1116.
 14. Sahu, S., et al. (2013). Multi-level memory-switching properties of a single brain microtubule. *Applied Physics Letters*, 102(12), 123701.
-15. Schlosshauer, M. (2025). Quantum decoherence. *Physics Reports*, 1063, 1-64.
+15. Schlosshauer, M. (2019). Quantum decoherence. *Physics Reports*, 831, 1-57.
 16. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 17. Warren, W. S. (2023). Comment on "Experimental indications of non-classical brain functions." *Journal of Physics Communications*, 7(3), 038001.
 18. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.

@@ -4,7 +4,7 @@ description: "Multiple independent empirical lines—evolutionary, cognitive, ne
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-06-01T17:18:12+00:00
+ai_modified: 2026-06-05T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -94,7 +94,7 @@ The most recent and technically specific evidence addresses whether the physical
 
 **Microtubule quantum effects.** Tegmark's 2000 calculation estimated decoherence in neural microtubules at ~10⁻¹³ seconds. Hagan, Hameroff, and Tuszynski (2002) challenged his assumptions about model parameters, revising estimates to 10⁻⁵ to 10⁻⁴ seconds—eight to nine orders of magnitude longer. That revision is a contested counter-calculation rather than a settled rebuttal: Reimers et al. (2009) and McKemmish et al. (2009) argue its parameter assumptions are not empirically established for living tissue, so the [[decoherence|decoherence-timescale dispute]] remains live. Craddock et al. (2017) used molecular-dynamics and quantum-chemistry simulations to predict a (613 ± 8) THz collective tubulin oscillation peak that anaesthetics — but not non-anaesthetic structural analogues — disrupt, with disruption magnitude tracking clinical potency; Wiest (2025) reviews this computational prediction and develops its implications. The 613 THz peak is a computationally predicted signature that has yet to be measured directly. Microtubule-stabilising drugs (epothilone B) delayed anaesthetic-induced unconsciousness in rats (Khan et al. 2024), the experimental complement to Craddock's spectroscopic prediction.
 
-**The measurement problem.** Even where decoherence operates rapidly, it does not resolve the [[measurement-problem]]. As Schlosshauer's 2025 review states: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Something must determine definite outcomes. Physics identifies probabilities without explaining why particular outcomes actualise. Consciousness remains a candidate for what completes this picture.
+**The measurement problem.** Even where decoherence operates rapidly, it does not resolve the [[measurement-problem]]. As Schlosshauer's authoritative 2019 review emphasises, after decoherence selects preferred bases and suppresses interference, the system remains in a mixture of possible outcomes; decoherence does not tell how or why only one of these outcomes is measured. Something must determine definite outcomes. Physics identifies probabilities without explaining why particular outcomes actualise. Consciousness remains a candidate for what completes this picture.
 
 The quantum-biological line supports the following claims:
 
@@ -174,7 +174,7 @@ The empirical convergence supports all five of the Map's [[tenets]]:
 1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
 1. Rajan, A., et al. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
-1. Schlosshauer, M. (2025). Quantum decoherence. *Physics Reports*, 1063, 1-64.
+1. Schlosshauer, M. (2019). Quantum decoherence. *Physics Reports*, 831, 1-57.
 1. Schwartz, J.M., et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of OCD. *Archives of General Psychiatry*, 53(2), 109-113.
 1. Sjöberg, R.L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2269.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
