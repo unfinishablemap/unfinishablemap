@@ -4,7 +4,7 @@ description: "How the Map's interface framework transforms biological teleology 
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-05-26T14:12:44+00:00
+ai_modified: 2026-06-05T13:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -117,6 +117,7 @@ The connection between biological teleology and the interface framework draws on
 - [[reductionism-and-consciousness]] — Why purposive selection resists reductive explanation
 - [[agent-causation]] — The metaphysics of agent-level causation
 - [[agent-teleology]] — The concept of genuine purpose introduced by conscious agents
+- [[marginal-organism-scope-of-value-sensitive-selection]] — Where teleological, valence-denominated selection bottoms out across organisms
 - [[topics/free-will]] — Agent teleology and libertarian agency
 
 ## References

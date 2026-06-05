@@ -4,7 +4,7 @@ description: "Berridge's wanting/liking dissociation refutes a single value-curr
 created: 2026-06-05
 modified: 2026-06-05
 human_modified:
-ai_modified: 2026-06-05T12:00:00+00:00
+ai_modified: 2026-06-05T13:30:00+00:00
 last_deep_review: 2026-06-05T12:00:00+00:00
 draft: false
 topics:
@@ -86,6 +86,7 @@ The Map holds the value-in-experience reading because of its prior commitments i
 - [[phenomenal-value-realism]]
 - [[evaluative-phenomenal-character]]
 - [[moral-architecture-of-consciousness]]
+- [[marginal-organism-scope-of-value-sensitive-selection]] — How far down the tree of life value-sensitive selection reaches
 
 ## References
 

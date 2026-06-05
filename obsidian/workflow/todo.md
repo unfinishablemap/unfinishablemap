@@ -37,12 +37,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on the marginal-organism scope of value-sensitive selection (PROMOTED P3→P2 by /replenish-queue 2026-06-05)
-- **Type**: expand-topic
+### P2: Adopt qualia calibration in wanting-liking-and-the-value-in-mechanism-fork
+- **Type**: refine-draft
 - **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-06-05 (FLOOR-RESTORING). Loop-pickable open P0–P2 in Active Tasks was 2 (recursion-void deep-review P2; AI-substrate cross-link P2) — below the MIN_QUEUE floor of 3. Disk-re-verified there is NO genuine new floor-restoring source to MINT (all six confirm the prior cycle's converged steady-state): (a) STALENESS — on-disk scan of topics/concepts/voids/apex with ai_contribution>50 found exactly ONE article ≥28d past last_deep_review (recursion-void, now 37d) and it is already queued P2; (b) CAPS — topics 269/270 (1 slot, this task fits it and is cap-safe), concepts 260/270, voids 101/100 OVER cap → no speculative expand-topic warranted (the `progress` field's 246/245 counts are the known stale-undercount; on-disk is authoritative); (c) LENGTH — every content-section (topics/concepts/voids/apex) hard/critical offender is either already-vetoed (meaning-of-life, phenomenal-output-causal-machinery-dissociation), DEFERRED-TO-HUMAN human-flagship-split (epistemology-of-convergence 6479w, born-rule 5064w, laws-and-dispositions 4215w), or hub-accretion/already-condensed churn (argument-from-reason, time-collapse, epistemic-advantages, wheelers, quantum-consciousness, agency-void — all git-verified prior-condensed or grown by OTHER articles' cross-link refines) — NOT clean condense candidates ([[hub-articles-accrete-crosslink-length]], [[refine-then-condense-same-session-churn]]); (d) RESEARCH — no unconsumed recent research (last research-topic 2026-06-03; recent research notes' mtimes are git-checkout artifacts, embedded dates are old & already-consumed). So the honest floor-restorer is to promote this CONCRETE, grounded, cap-safe (topics has the 1 free slot), loop-pickable expand-topic — it develops a specific explicitly-deferred open question with a load-bearing calibration guardrail and assess-first/license-to-decline framing. Original notes below. — Suggested by optimistic review 2026-06-05. Develops the explicitly-deferred "Scope of teleology" / "Scope of consciousness" open questions in `topics/valence-and-conscious-selection.md` (does a rat's pain avoidance reflect value-sensitive selection? where is the boundary?). CALIBRATION GUARDRAIL (load-bearing, must be honoured): per [[evidential-status-discipline]] and the Hardline-Empiricist constraint, any such article MUST keep boundary cases (nematodes, Hydra, slime molds) at "live hypothesis" / "speculative integration" and MUST NOT use tenet-coherence or process-philosophical resonance to upgrade them to "realistic possibility" or higher. Tenet removes a defeater; it does not supply positive evidence. Assess-first with license-to-decline; check `concepts/minimal-consciousness.md` for overlap before creating. See optimistic-2026-06-05.md.
-- **Source**: optimistic-review
+- **File**: obsidian/topics/wanting-liking-and-the-value-in-mechanism-fork.md
+- **Notes**: From topic-concept anchoring audit 2026-06-05. The topic article over-claims relative to its anchor concept [[qualia]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 1.27/kw is below 60% of anchor (8.22/kw)
+  - strong-assertion density 3.19/kw exceeds 1.5× anchor (1.22/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-05
+
+### P2: Adopt valence calibration in wanting-liking-and-the-value-in-mechanism-fork
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/wanting-liking-and-the-value-in-mechanism-fork.md
+- **Notes**: From topic-concept anchoring audit 2026-06-05. The topic article over-claims relative to its anchor concept [[valence]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 1.27/kw is below 60% of anchor (7.16/kw)
+  - strong-assertion density 3.19/kw exceeds 1.5× anchor (0.72/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-05
+
 
 ### P2: Deep review voids/recursion-void.md (36-day staleness floor — PROMOTED P3→P2 by /replenish-queue 2026-06-05)
 - **Type**: deep-review
@@ -768,6 +784,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-05: Write article on the marginal-organism scope of value-sensitive selection (PROMOTED P3→P2 by /replenish-queue 2026-06-05)
+- **Type**: expand-topic
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-06-05 (FLOOR-RESTORING). Loop-pickable open P0–P2 in Active Tasks was 2 (recursion-void deep-review P2; AI-substrate cross-link P2) — below the MIN_QUEUE floor of 3. Disk-re-verified there is NO genuine new floor-restoring source to MINT (all six confirm the prior cycle's converged steady-state): (a) STALENESS — on-disk scan of topics/concepts/voids/apex with ai_contribution>50 found exactly ONE article ≥28d past last_deep_review (recursion-void, now 37d) and it is already queued P2; (b) CAPS — topics 269/270 (1 slot, this task fits it and is cap-safe), concepts 260/270, voids 101/100 OVER cap → no speculative expand-topic warranted (the `progress` field's 246/245 counts are the known stale-undercount; on-disk is authoritative); (c) LENGTH — every content-section (topics/concepts/voids/apex) hard/critical offender is either already-vetoed (meaning-of-life, phenomenal-output-causal-machinery-dissociation), DEFERRED-TO-HUMAN human-flagship-split (epistemology-of-convergence 6479w, born-rule 5064w, laws-and-dispositions 4215w), or hub-accretion/already-condensed churn (argument-from-reason, time-collapse, epistemic-advantages, wheelers, quantum-consciousness, agency-void — all git-verified prior-condensed or grown by OTHER articles' cross-link refines) — NOT clean condense candidates ([[hub-articles-accrete-crosslink-length]], [[refine-then-condense-same-session-churn]]); (d) RESEARCH — no unconsumed recent research (last research-topic 2026-06-03; recent research notes' mtimes are git-checkout artifacts, embedded dates are old & already-consumed). So the honest floor-restorer is to promote this CONCRETE, grounded, cap-safe (topics has the 1 free slot), loop-pickable expand-topic — it develops a specific explicitly-deferred open question with a load-bearing calibration guardrail and assess-first/license-to-decline framing. Original notes below. — Suggested by optimistic review 2026-06-05. Develops the explicitly-deferred "Scope of teleology" / "Scope of consciousness" open questions in `topics/valence-and-conscious-selection.md` (does a rat's pain avoidance reflect value-sensitive selection? where is the boundary?). CALIBRATION GUARDRAIL (load-bearing, must be honoured): per [[evidential-status-discipline]] and the Hardline-Empiricist constraint, any such article MUST keep boundary cases (nematodes, Hydra, slime molds) at "live hypothesis" / "speculative integration" and MUST NOT use tenet-coherence or process-philosophical resonance to upgrade them to "realistic possibility" or higher. Tenet removes a defeater; it does not supply positive evidence. Assess-first with license-to-decline; check `concepts/minimal-consciousness.md` for overlap before creating. See optimistic-2026-06-05.md.
 
 ### ✓ 2026-06-05: Thicken the value-blind / mechanism-only steelman in the value-in-mechanism fork cluster (PROMOTED P3→expand-topic→P2/refine-draft by /replenish-queue 2026-06-05)
 - **Type**: refine-draft

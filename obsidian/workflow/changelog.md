@@ -5,6 +5,15 @@ ai_modified: 2026-06-05T03:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-05T13:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The marginal-organism scope of value-sensitive selection
+- **Output**: [[topics/marginal-organism-scope-of-value-sensitive-selection]]
+- **Word count**: 1962
+- **Based on research**: No (developed the explicitly-deferred "Scope of teleology / Scope of consciousness" open question in [[topics/valence-and-conscious-selection]]; all four marginal-organism citations web-verified)
+- **Integration**: Reciprocal inbound links added from [[topics/valence-and-conscious-selection]] (parent), [[topics/wanting-liking-and-the-value-in-mechanism-fork]], and [[topics/biological-teleology-and-the-interface-framework]]
+- **Calibration**: All boundary cases (rat/nematode/Hydra/slime mould) held at live-hypothesis / speculative; tenet-coherence framed as defeater-removal, not positive evidence; falsification conditions specified
+
 ## 2026-06-05T03:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/valence-and-conscious-selection]]

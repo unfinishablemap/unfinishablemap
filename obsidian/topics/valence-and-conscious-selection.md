@@ -3,7 +3,7 @@ title: "Valence and the Mechanism of Conscious Selection"
 created: 2026-02-19
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-06-05T03:00:35+00:00
+ai_modified: 2026-06-05T13:30:00+00:00
 draft: false
 description: "Does consciousness select outcomes guided by valence, or is value epiphenomenal to the selection mechanism? A fork forced by the Map's own commitments."
 topics:
@@ -28,6 +28,7 @@ related_articles:
   - "[[moral-architecture-of-consciousness]]"
   - "[[consciousness-and-normative-force]]"
   - "[[wanting-liking-and-the-value-in-mechanism-fork]]"
+  - "[[marginal-organism-scope-of-value-sensitive-selection]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -133,7 +134,7 @@ This strengthens [[topics/phenomenal-value-realism]] considerably. If valence no
 
 **The anticipation problem.** Value-sensitive selection requires consciousness to assess the valence of *anticipated* outcomes before selecting them. But if the prediction itself is a neural process, the selection-relevant valence is a prediction of phenomenal quality, not phenomenal quality itself. Does predicted valence have the same metaphysical status as experienced valence?
 
-**Scope of teleology.** If selection is value-sensitive in conscious brains, what about marginal cases? Does a rat's pain avoidance reflect value-sensitive selection? Where the Map draws the consciousness boundary, it also draws the teleology boundary—and that boundary remains unclear.
+**Scope of teleology.** If selection is value-sensitive in conscious brains, what about marginal cases? Does a rat's pain avoidance reflect value-sensitive selection? Where the Map draws the consciousness boundary, it also draws the teleology boundary—and that boundary remains unclear. The [[marginal-organism-scope-of-value-sensitive-selection|marginal-organism scope analysis]] develops this directly down a ladder of cases (rat, nematode, *Hydra*, slime mould), concluding the boundary cannot currently be located and the tenets cannot locate it.
 
 ## A Possible Middle Path
 
@@ -195,7 +196,7 @@ The graduated middle path—valence modulating attention, attention driving sele
 
 **Anticipated vs experienced valence.** Selection depends on *anticipated* valence—predictions of how outcomes would feel. But Kahneman's experiencing-self/remembering-self distinction and the affective-forecasting literature show that humans systematically mispredict how experiences will feel. If selection runs on anticipated valence and anticipation is unreliable, selection may favour outcomes that feel worse than alternatives: the currency would be real but poorly calibrated.
 
-**Scope of consciousness.** If valence is the selection currency, the currency exists wherever consciousness exists. Determining which systems have valence-based selection requires determining which systems are conscious—a problem the Map acknowledges as unsolved.
+**Scope of consciousness.** If valence is the selection currency, the currency exists wherever consciousness exists. Determining which systems have valence-based selection requires determining which systems are conscious—a problem the Map acknowledges as unsolved. The [[marginal-organism-scope-of-value-sensitive-selection|marginal-organism scope analysis]] argues the two boundaries can come apart: an organism could be minimally conscious yet still select value-blindly.
 
 **Negative valence and avoidance.** A complete selection law must specify whether positive and negative valence are symmetric in their selection influence or whether one is primary. Asymmetric models (where pain avoidance is stronger than pleasure seeking) would have different empirical signatures than symmetric ones.
 
@@ -228,6 +229,7 @@ This fork is structurally forced by the Map's own commitments, and resolving it 
 - [[consciousness-bandwidth-architecture]] — The ~10 bits/second constraint on conscious selection
 - [[consciousness-and-normative-force]] — The demand-character of experience as the mechanism through which valence grips and guides
 - [[selection-criterion-problem]] — The open problem this article supplies a candidate answer to: valence as the criterion by which consciousness ranks candidates
+- [[marginal-organism-scope-of-value-sensitive-selection]] — How far down the tree of life value-sensitive selection reaches: the deferred scope question developed
 - [[moral-architecture-of-consciousness]] — Apex synthesis: the value-sensitivity question within a unified moral framework
 
 ## References
