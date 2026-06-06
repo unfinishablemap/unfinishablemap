@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-05-27 23:20:49+00:00
+ai_modified: 2026-06-06 00:30:18+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: The measurement problem is not a deficiency in quantum mechanics bu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 00:00:00+00:00
+last_deep_review: 2026-06-06 00:30:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -74,7 +74,7 @@ Decoherence is sometimes presented as a solution to the measurement problem. It 
 
 [decoherence](/concepts/decoherence/) explains why macroscopic superpositions vanish. Through interaction with the environment, quantum coherence leaks away on timescales of 10⁻³⁰ seconds or less for everyday objects. Decoherence selects the *basis* — which observables become definite — and explains why we never see cats in superposition. This is a genuine and substantial physical achievement.
 
-What decoherence does not explain is why *this particular* outcome occurs. As Tomaz et al. note: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured" (2025).
+What decoherence does not explain is why *this particular* outcome occurs. As Tomaz et al. note: "After the basis is chosen and quantum superpositions are suppressed, the system still remains on a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured" (2025).
 
 This is precisely what the disclosure reading predicts. Decoherence handles everything physics *can* handle — basis selection, suppression of interference, emergence of classicality. It stops precisely where structural description ends and the question of actuality begins. The clean division — decoherence does all the structural work, and the residual mystery is entirely about which outcome becomes actual — supports the claim that the boundary is between *kinds* of explanation, not a gap within a single kind.
 

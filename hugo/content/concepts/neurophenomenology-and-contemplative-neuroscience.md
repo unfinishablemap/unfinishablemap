@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-04 09:52:49+00:00
+ai_modified: 2026-06-06 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 coalesced_from:
@@ -39,6 +39,7 @@ related_articles:
 - '[[bidirectional-interaction]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[methodology-of-consciousness-research]]'
+- '[[affective-tone-divergence-across-meditative-traditions]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[neurophenomenology-meditation-studies-2026-01-14]]'
 - '[[contemplative-neuroscience-meditation-2026-01-23]]'
@@ -104,7 +105,7 @@ These are trainable skills. Willed attention (self-directed focus) activates dis
 
 ### The Meditation Modes Distinction
 
-[Two distinct modes](/concepts/meditation-and-consciousness-modes/) emerge from research: focused attention (active, effortful concentration) and open monitoring (receptive, non-directive awareness). Each has distinct phenomenology and distinct neural implementation. The meditator can shift between modes through conscious intention—this shift has neural signature, demonstrating voluntary control over binding configuration.
+[Two distinct modes](/concepts/meditation-and-consciousness-modes/) emerge from research: focused attention (active, effortful concentration) and open monitoring (receptive, non-directive awareness). Each has distinct phenomenology and distinct neural implementation. The meditator can shift between modes through conscious intention—this shift has neural signature, demonstrating voluntary control over binding configuration. This mode-shift data is the empirical record that [affective-tone-divergence-across-meditative-traditions](/topics/affective-tone-divergence-across-meditative-traditions/) draws on for its testable prediction that a single practitioner traversing the engagement registers should also traverse the affective range as a function of which mode they enter.
 
 ### Compassion and Emotional Neuroplasticity
 

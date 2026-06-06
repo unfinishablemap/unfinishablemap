@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-06-01 13:09:47+00:00
+ai_modified: 2026-06-06 00:00:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -28,7 +28,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/iK6spQgUXBQ
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-27 03:53:06+00:00
+last_deep_review: 2026-06-06 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[baseline-cognition]]'

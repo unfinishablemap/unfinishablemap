@@ -9,6 +9,204 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-06T02:30:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [neurophenomenology-and-contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/), [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
+- **Task**: Reciprocal cross-link gap (from optimistic-2026-06-06). Both were grep-verified one-way gaps relative to `topics/affective-tone-divergence-across-meditative-traditions.md` (which cites/relates-to each but received no back-link).
+- **Changes**:
+  - neurophenomenology-and-contemplative-neuroscience: added one back-link clause in the "Meditation Modes Distinction" section naming [affective-tone-divergence-across-meditative-traditions](/topics/affective-tone-divergence-across-meditative-traditions/) as the article whose single-practitioner-traverses-the-affective-range prediction the mode-shift data bears on; mirrored into related_articles.
+  - contemplative-practice-as-philosophical-evidence: added one sentence in the "Where Convergence Fails" register naming affective-tone as a fourth divergence axis / calibration constraint bounding the structural-convergence-as-evidence inference; mirrored into related_articles.
+- **Length**: both length-neutral, remained in soft_warning (neuro 3022/3500 hard; contemplative 3611/4000 hard). Connective links only, no evidential-weight inflation.
+- **Apex extra (assess-first)**: DECLINED. apex/contemplative-path.md is the only natural fit and has headroom, but surfacing affective-tone / cessation-versus-plenitude as a named "two calibration axes" framing is a content-generation move proper to /apex-evolve (the affective-tone article is only 10 days old), not a connective cross-link refine. Declined cleanly.
+- **Published**: yes
+
+## 2026-06-06T02:10:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/affective-tone-divergence-across-meditative-traditions.md` (freshly deep-reviewed today) read against its contemplative-phenomenology cluster (comparative-phenomenology parent, cessation-versus-plenitude, meditation-and-consciousness-modes, witness-consciousness, neurophenomenology, eastern-philosophy-consciousness, contemplative-practice-as-philosophical-evidence). Area chosen to avoid the cycle's 7+ prior optimistic reviews and ~33 deep-reviews this session.
+- **Findings**: Model-grade calibration — Process Philosopher and Hardline Empiricist personas converge in praise (resolved possibility/probability tension; tenet-as-evidence-upgrade praise-worthily declined). Two grep-verified one-way cross-link gaps consolidated into ONE P2 refine-draft task (neurophenomenology→affective-tone; contemplative-practice→affective-tone). No new-page proposals (corpus saturated, cluster already absorbs the function).
+- **Output**: [optimistic-2026-06-06](/reviews/optimistic-2026-06-06/)
+- **Tasks added**: 1 (P2, refine-draft — reciprocal cross-links, written to todo.md, uncommitted)
+
+## 2026-06-06T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/)
+- **Word count**: 3998 → 3998 (no change; converged 4th review; soft_warning, under 4000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (frontmatter timestamps only — license-to-no-op honoured)
+- **Citations**: ★ All five load-bearing citations independently web-verified at publisher of record — EXACT, no defects. Jacques et al. 2007 *Science* 315(5814):966–968 ✓; Ismael 2025 *Found. Phys.* 55, 35 ✓ (incl. article number); Zeilinger 1999 *Found. Phys.* 29(4):631–643 ✓; Tegmark 2000 *Phys. Rev. E* 61(4):4194–4206 ✓. NO Ma paper cited (the flagged Ma-2012-vs-2013 WRONG-PAPER trap does not arise; Jacques is the delayed-choice realisation source). Three-state de-citation: zero removals (all real, all correct).
+- **Stance-fidelity (high-risk)**: ★ Verified Wheeler is steelmanned, not strawmanned. Article does NOT misattribute consciousness-causes-collapse to Wheeler — correctly states his "observer" need not be conscious (photon detector qualifies), frames the Map's use as "inspired by Wheeler, not licensed by him," concedes multiple-compatibility. Everett "metaphysical baggage" rejection verified. Web-confirmed twice independently.
+- **Reasoning-mode (editor-internal)**: Stapp = Mixed/Mode-Three (decoherence conceded against the Map too); Barbour = Mode-One/boundary (weakens-not-destroys conceded); Tegmark = Mode-One/Mixed (own physics turned on the Map). No boundary-substitution. No label leakage, no "not X. It is Y." cliché (grep clean).
+- **Output**: [deep-review-2026-06-06-wheelers-participatory-universe-and-it-from-bit](/reviews/deep-review-2026-06-06-wheelers-participatory-universe-and-it-from-bit/)
+
+## 2026-06-06T02:06:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/)
+- **Word count**: 2569 → 2569 (no change; body converged, 7th review; length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (frontmatter timestamps only)
+- **Citations**: ★ Independently web-verified the ONE changed line since the 6th review — the Fürst External Sources entry (edited 2026-06-05 by the sibling article's deep review). CONFIRMED CORRECT: Fürst, M. (2014), "A Dualist Account of Phenomenal Concepts," in Lavazza & Robinson (eds.), *Contemporary Dualism: A Defense*, Routledge, 112–135 (PhilPapers FRSADA, PhilArchive, NDPR, Routledge catalog; encapsulation-account/implies-non-physical-referents matches the abstract + body). The 6th review's (2026-05-26) "verified" verdict of "Fürst 2011, *Acta Analytica* 26(1), 29–48" was a wrong-paper conflation FALSE POSITIVE — that 2011 *Acta Analytica* slot holds a DIFFERENT Fürst paper ("What Mary's Aboutness Is About," 63–74, Springer). Page range 112–135 confirmed. Do not re-open. Class: ai_citation_metadata_unreliable (wrong-paper conflation surviving an author+year web-verify; caught by title+venue matching).
+- **Stance-fidelity**: PCS presented at full strength before rebuttal (Loar/Papineau/Balog sympathetic; Chalmers correctly the anti-PCS dilemma; Stoljar reference-only, no misattributed stance). No strawman, no boundary-substitution, no editor-vocab leakage.
+- **Engagements** (editor-internal): PCS-defenders via Chalmers master argument: Mode Two (in-framework). Illusionism (Dennett/Frankish): Mode Two/Mixed (Tallis regress). Ability hypothesis (Lewis/Nemirow): Mode One. Indexicality vs MWI: Mode Three.
+- **Output**: [deep-review-2026-06-06-phenomenal-concepts-strategy](/reviews/deep-review-2026-06-06-phenomenal-concepts-strategy/)
+
+## 2026-06-06T01:57:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [affective-tone-divergence-across-meditative-traditions](/topics/affective-tone-divergence-across-meditative-traditions/)
+- **Word count**: 2583 → 2583 (no change; body no-op, convergent)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (calibration-clean, second review; body unchanged to avoid oscillation)
+- **Citations**: all 3 external empirical cites genuinely publisher-of-record re-verified (prior "verified" was same-session-as-create, untrustworthy per discipline) — Lutz/Slagter/Dunne/Davidson 2008 *TiCS* 12:163-169 doi:10.1016/j.tics.2008.01.005 (authors/venue/pages/FA-vs-OM stance all correct); Fredrickson/Cohn/Coffey/Pek/Finkel 2008 *JPSP* 95(5):1045-1062 PMID 18954193 (5 authors + LKM→positive-affect stance correct); Zeng/Chiu/Wang/Oei/Leung 2015 *Front Psychol* 6:1693 PMC4630307 (authors + genuinely-a-meta-analysis correct). Canonical primary sources (Buddhaghosa, Rūpa Gosvāmī, John of the Cross, Teresa of Ávila, Cloud of Unknowing, Zhuangzi, Liezi) standard datings. No orphan refs. Calibration exemplary (interface-mode hypothesis held at "serious possibility," intra-physical rival conceded undefeated). 11 wikilinks + 2 tenet anchors resolve.
+- **Output**: [deep-review-2026-06-06-affective-tone-divergence-across-meditative-traditions](/reviews/deep-review-2026-06-06-affective-tone-divergence-across-meditative-traditions/)
+
+## 2026-06-06T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/)
+- **Word count**: 1898 → 1898 (no change; body no-op)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged — second review, no-op on body)
+- **Citations**: both re-verified at publisher of record — Saad 2025 *Phil Studies* 182:939-967 (correct, in-text delegatory/default-causal-profile usage faithful); Chalmers-McQueen 2022 OUP chapter w/ arXiv:2105.02314 locator (correct, no year flip-flop); Maier-Dechamps-Pflitsch 2018 *Frontiers* 9:379 unchanged (correct null support)
+- **Calibration**: no possibility/probability slippage; 2026-06-05 refine strengthened cost-ownership in the honest direction
+- **Reasoning modes** (editor-internal): physicalist = Mode Three (bedrock, owned verbatim); objector-dilemma = Mixed; MWI defender = Mode Three. Label leakage clean.
+- **Output**: [deep-review-2026-06-06-ensemble-level-epiphenomenalism](/reviews/deep-review-2026-06-06-ensemble-level-epiphenomenalism/)
+
+## 2026-06-06T01:47:19+00:00 - refine-draft
+- **Status**: Success
+- **File**: [weak-measurement-and-post-selection](/concepts/weak-measurement-and-post-selection/)
+- **Source**: pessimistic-review 2026-06-06 ([pessimistic-2026-06-06](/reviews/pessimistic-2026-06-06/)); consolidated single pass
+- **Changes**:
+  - (1) Falsifiability: reframed the conscious-vs-automated "identical Born-rule statistics" claim from an unfalsifiable-by-construction forward test into an explicit no-signalling / consistency constraint (can falsify the theory, cannot confirm it — asymmetry now stated). Foregrounded the realist-vs-statistical weak-value interpretation debate as THE genuine falsification handle / dependency. Kept the honest untestability admission.
+  - (2) Epistemic/metaphysical equivocation: softened line-76 "increasingly difficult to dismiss as mere formalism" to genuine open-ness — separated the uncontested operational fact (reproducible pointer shifts, agreed across all three readings) from the contested realist time-symmetric ontology that experiments do not adjudicate (Ferrie & Combes 2014). Hedged intro + description "naturally described as" → "on the realist reading of TSVF, described as".
+  - (2a) Aligned the "extracts partial quantum information" over-compression: intro + description now note the value emerges from ensemble averaging (a single weak measurement is imprecise).
+  - (2b) Added one sentence on the post-decoherence move: specifying the boundary on already-classical states trades away distinctively quantum-mechanistic content for decoherence-robustness; the residual quantum element is the future-boundary-condition / time-symmetric structure, not coherence at selection.
+- **Preserved**: lab-to-nature honesty (Limitations section), collapse-vs-boundary distinction, three-way realist/statistical/operational even-handedness. Calibration fix toward more even-handedness; no content weakened.
+- **Length**: body 2910w (soft-warning band, unchanged status; well under 3500 hard). Citations untouched (verified clean upstream). No new wikilinks added.
+- **Published**: yes
+
+## 2026-06-06T01:43:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/weak-measurement-and-post-selection.md` (last deep review 2026-05-18; not pessimistic-reviewed recently; outside today's deep-review set). Citations spot-checked clean (AAV 1988, Hosten & Kwiat 2008, Ritchie/Story/Hulet 1991, Lundeen 2011 all verify). Two refine-grade findings, consolidated into ONE P2 refine-draft task: (1) falsifiability section advertises an in-principle-unfalsifiable Born-statistics "test"; (2) line-76 rhetorical escalation toward the realist weak-value reading in tension with the article's own stated even-handedness (epistemic/metaphysical equivocation).
+- **Output**: [pessimistic-2026-06-06](/reviews/pessimistic-2026-06-06/)
+
+## 2026-06-06T00:00:00+00:00 - deep-review
+- **Status**: Success (currency-sweep; changed-since-review = hub-link accretion only; publisher-of-record verification; no-op on body — converged, 8th pass)
+- **File**: [embodied-consciousness](/topics/embodied-consciousness/)
+- **Word count**: 3640 → 3640 (+0; 121% of 3000 topics soft, under 4000 hard — length-neutral verification pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Web-verification**: Fine & Hayden (2022) *Phil. Trans. R. Soc. B* 377(1844):20200524 — the ONLY post-2020 cite — VERIFIED at publisher of record (royalsocietypublishing.org, DOI 10.1098/rstb.2020.0524): authors/year/venue/vol/issue/article-number all exact, in-text gloss faithful, NOT superseded. The 05-27 corpus-wide misattribution fix (Wise&Murray → Fine&Hayden) holds. Pre-2020 cites (Thura&Cisek 2014, Müller&Rabbitt 1989) verified prior pass; remaining refs canonical monographs.
+- **Reasoning-modes (editor-internal)**: enactivism/Thompson Mode Two→Three (honest, "ineliminable transcendental character" faithfully attributed); feminist phenomenology Mode Three ("does not itself support dualism"); identity-theory/representationalist/epiphenomenalist engagements all honest, no boundary-substitution. No label leakage (grep-clean). Enactivism/4E presented fairly as framework-boundary opponents, NOT conceding dualism.
+- **Delta since 05-27**: 1 commit (0bd9e9dfc) — single feminist-phenomenology sentence + 1 related_articles link; calibration-honest, no slippage. No content changes this pass.
+- **Output**: [deep-review-2026-06-06-embodied-consciousness](/reviews/deep-review-2026-06-06-embodied-consciousness/)
+
+## 2026-06-06T00:00:00+00:00 - deep-review
+- **Status**: Success (changed-since-review = citation-fix only; publisher-of-record verification; no-op on body — converged)
+- **File**: [blindsight](/concepts/blindsight/)
+- **Word count**: 2843 → 2843 (+0; 114% of 2500 concept soft threshold, length-neutral verification pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Web-verification**: 5 contemporary/load-bearing cites verified at publisher of record (full author-vector + year + venue + volume + pages + STANCE). Phillips 2021 *Psych Review* 128(3):558-584 — CLEAN, and stance CORRECT (challenges the unconscious-perception reading; article does NOT misrepresent him as endorsing it — the flagged high-risk stance-reversal trap is absent). Persaud et al. 2011 *NeuroImage* 58(2):605-611 — clean. Lau & Passingham 2006 *PNAS* 103(49):18763-18768 — clean (2011 criterion-confound critique exists but article cites under hedged interpretation 2; no supersession action). de Gelder et al. 1999 *NeuroReport* 10(18):3759-3763 — clean. Scott et al. 2014 *Psych Science* 25(12) — clean. Block 1995 page range now correct (227-247, the fix that triggered selection).
+- **Reasoning modes** (re-confirmed, unchanged): illusionism Mode One; physicalist Response-1 Mode Two; epiphenomenalism Mode Three. No label leakage.
+- **Note**: only change since 2026-05-27 sixth review was commit 4c43ba841 (Block page-range citation fix). Calibration/currency audit clean — phenomenal-vs-function claims consistently interpretation-conditioned. Convergence holds (7th review). Recommend metadata-only changes not re-trigger full deep review.
+- **Output**: [deep-review-2026-06-06-blindsight](/reviews/deep-review-2026-06-06-blindsight/)
+
+## 2026-06-06T01:19:59+00:00 - deep-review
+- **Status**: Success (changed-since-review; publisher-of-record citation pass; near-no-op)
+- **File**: [selection-criterion-problem](/concepts/selection-criterion-problem/)
+- **Word count**: 2241 → 2262 (+21; 90% of 2500 concept soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Further Reading list missing the constraint-satisfaction cross-link present in body + related_articles; added for consistency)
+- **Enhancements made**: 1 (annotated Further Reading entry)
+- **Web-verification**: external citations web-verified at publisher of record (first pass on this article — the 05-25 review verified only intra-corpus claims). Chalmers & McQueen 2021 "Consciousness and the collapse of the wave function" arXiv:2105.02314 — VERIFIED CLEAN (authors/title/ID correct, cited only as background, no empirical claim attributed). Chalmers 1996, Kane 1996 — canonical, correct. No fabricated/wrong-metadata cites; no superlative → no currency sweep.
+- **New-content faithfulness**: the post-review constraint-phenomenology bullet (hub-accretion injection) verified faithful to [consciousness-and-the-phenomenology-of-constraint-satisfaction](/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/) ("personal significance, not computational complexity" matches verbatim) and correctly calibrated (compatible-with-but-not-discriminating horn iii). No slippage.
+- **Reasoning-mode**: engagement with functionalist (horn i): Mode Three (boundary-marking, "ruled out by a tenet not by contradiction"); engagement with randomness/spontaneous-collapse (horn ii): Mode Three (tenet-rejecter can take it without inconsistency). No boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-06-06-selection-criterion-problem](/reviews/deep-review-2026-06-06-selection-criterion-problem/)
+
+## 2026-06-06T01:40:00+00:00 - deep-review
+- **Status**: Success (converged no-op; web-verify priority remit, stance attention)
+- **File**: [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/)
+- **Word count**: 1894 → 1894 (frontmatter-only; 76% of 2500 concept soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (6th review; converged, body prose unchanged since content-stabilisation)
+- **Web-verification**: all load-bearing citations re-checked at publisher of record with stance attention (Tenet-4 page; stance-reversal is the high-risk defect). Wallace 2003 (PRO-MWI, defends Deutsch), Sebens & Carroll 2018 (PRO-MWI, ESP→Born), Saunders 2021 (constructive, state-dependent rule), Short 2023 (CONSTRUCTIVE, offers derivation), Vaidman 1998 (PRO-MWI), Zurek 2005 (constructive) — ALL correctly presented as defended-then-objected-to; NO pro-MWI author misrepresented as conceding. No stance-reversal.
+- **Wallace 415-438 vs 439**: investigated — genuine 1-page aggregator ambiguity (SciRP=438, some summaries=439), article ends mid-page; current 438 defensible, NOT re-churned (field already flip-flopped 3×).
+- **Calibration**: objections kept as live philosophical objections, not settled refutations; no possibility/probability slippage; tenet-accepting-reviewer diagnostic test = no overstatement.
+- **Reasoning modes**: Wallace/Sebens-Carroll/Zurek/Kent-Lewis = Mode One; structural "every outcome occurs" thesis = Mode Three (bedrock, No Many Worlds). No label leakage.
+- **Output**: [deep-review-2026-06-06-probability-objections-many-worlds](/reviews/deep-review-2026-06-06-probability-objections-many-worlds/)
+
+## 2026-06-06T00:55:21+00:00 - deep-review
+- **Status**: Success (citation-currency/supersession pass; REGRESSION caught + propagation cleaned)
+- **File**: [dream-consciousness](/topics/dream-consciousness/)
+- **Word count**: 3202 → 3218 (+16, length-neutral; soft_warning 107%)
+- **Critical issues addressed**: 1 — Konkoly 2026 statistic was internally contradictory (prose/table "42% vs 17%" but caveat "9 of 23"=39%). Verified at publisher of record (Oxford Academic niaf067 Fig 4 + PMC12875123): **42%/17% is CORRECT**; the 2026-05-29 deep-review's "correction" to 39%/16% was itself WRONG and the 2026-06-02 apex review half-reverted it, leaving the contradiction. Removed fabricated "9 of 23" raw count (not in paper); added p=.037 (main GLMM) / p=.057 (chi-square trend) calibration the article had omitted.
+- **Propagation cleaned**: 39/16 + "9 of 23" corrected to 42/17 in live research note `dreams-problem-solving-lucid-dreaming-2026-02-06` + 4 archive copies (lucid-dreaming-as-capability-evidence, dreams-as-consciousness-laboratory, dream-problem-solving-and-conscious-influence, dreams-problem-solving-and-consciousness). Review/changelog/todo audit-trail left untouched.
+- **Currency sweep**: Konkoly 2021 two-way comms still the landmark peer-reviewed result (2024-26 REMspace/IJoDR follow-ups extend, don't supersede); Bilzer & Monzel 2025 Vision 9(2):37 re-verified clean (prior Fazekas-miscite fix confirmed landed); Horowitz 2023 qualitative claim clean.
+- **Reasoning modes**: Illusionism = Mode Two; Epiphenomenalism = Mode Mixed. No label leakage. No edits.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (significance-calibration of the headline statistic)
+- **Output**: [deep-review-2026-06-06-dream-consciousness](/reviews/deep-review-2026-06-06-dream-consciousness/)
+
+## 2026-06-06T00:38:28+00:00 - deep-review
+- **Status**: Success (changed-since-review; verified 2026-05-26 calibration refine, one orphan-ref fix)
+- **File**: [biological-teleology-and-the-interface-framework](/topics/biological-teleology-and-the-interface-framework/)
+- **Word count**: 1982 → 1985 (+3)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (Millikan 1984 / Neander 1991 were orphan References — anchored inline in "The Standard Account"; faithful selected-effects-tradition attribution, 3-state discipline → anchor not delete)
+- **Enhancements made**: 1 (inline citation anchoring)
+- **Calibration verification**: the 2026-05-26 refine (aaf315448) that adopted the phenomenal-consciousness calibration is faithful to evidential-status discipline — "proposes"/"might"/"consistent with rather than uniquely established" softening is precise, not over-hedged; teleosemantic framing kept interpretive; no slippage. DeWall 2008 issue 17(2)→17(3) refine-correction re-verified at publisher of record.
+- **Citations web-verified**: Neander 1991 (Phil. Sci. 58(2), 168-184 — exact, etiological-function stance correct); DeWall et al. 2008 (Conscious. Cogn. 17(3), 628-645, DOI 10.1016/j.concog.2007.12.004 — exact).
+- **Engagement with physicalism/functionalism**: Mode Three (framework-boundary marking); article now grants the functionalist's rival reading explicitly; no boundary-substitution, no label leakage.
+- **Cross-links**: [marginal-organism-scope-of-value-sensitive-selection](/topics/marginal-organism-scope-of-value-sensitive-selection/) sibling present + reciprocated; all 16 spot-checked targets resolve.
+- **Output**: [deep-review-2026-06-06-biological-teleology-and-the-interface-framework](/reviews/deep-review-2026-06-06-biological-teleology-and-the-interface-framework/)
+
+## 2026-06-06T01:00:00+00:00 - deep-review
+- **Status**: Success (changed-since-review; converged, NO-OP content review)
+- **File**: [personal-identity](/topics/personal-identity/)
+- **Word count**: 3993 → 3993 (no content edits; 7w under the 4000 topics hard ceiling — PRUNE-ONLY constraint, nothing to prune)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (article converged; 9th pass)
+- **Enhancements made**: 0 (length-constrained; no expansion permitted)
+- **Change since last review**: a single accreted Further-Reading cross-link ([reconsolidation-as-selection-window](/topics/reconsolidation-as-selection-window/)) added by a sibling article's expand-topic — resolves + reciprocates; hub-accretion pattern, did not tip over 4000.
+- **Citation web-verify (publisher-of-record)**: Parfit 1984 *Reasons and Persons* (reductionist / "identity not what matters" / teletransportation), Olson 1997 *The Human Animal* (animalism, no psych continuity necessary or sufficient), Schechtman 1996 *The Constitution of Selves* (narrative self-constitution) — all CLEAN on full author-vector incl. STANCE. Locke 1689 canonical. No fabrication / misattribution / stance-reversal.
+- **Engagement modes**: Parfit Mode One; Dennett/Frankish illusionism Mode Three; Deutsch-style MWI Mode Three — all honest, no label leakage.
+- **Output**: [deep-review-2026-06-06-personal-identity](/reviews/deep-review-2026-06-06-personal-identity/)
+
+## 2026-06-06T00:30:18+00:00 - deep-review
+- **Status**: Success (citation audit; converged, 1 trivial fix)
+- **File**: [physics-as-disclosure](/concepts/physics-as-disclosure/)
+- **Word count**: 2065 → 2065 (verbatim-quote preposition fix; character-neutral)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (article converged, 4th pass)
+- **Enhancements made**: 1 (restored source-verbatim "remains *on* a mixture" in the Tomaz et al. quote — article had normalised it to "*in*", but it sits inside quotation marks)
+- **Citation web-verify (publisher-of-record, first explicit pass)**: all 7 refs + both verbatim quotes VERIFIED clean — Bell 1990 Phys.World 3(8):33-40; Tomaz/Mattos/Barbatti 2025 arXiv:2502.19278 (author vector + §5 quote exact; also now in Phil.Mag. T&F 2025); Zurek 2003 RevModPhys 75:715-775; Barrett **2006** Erkenntnis 65:97-115 (DOI 10.1007/s10670-006-9016-z — the 05-26 review's in-text "Barrett 2007" was a review-file slip; article's 2006 is correct); Newton-Bentley 1693 letter quote matches Newton Project diplomatic edition. No fabrication / misattribution / finding-reversal. Barrett "across interpretation families" claim faithful to abstract (collapse + no-collapse both pushed to dualism by the preferred-basis problem).
+- **Engagement modes (editor-internal)**: deficiency-theorist reply — in-framework deflation-rebuttal on the duration argument + honest boundary-marking on the residue; no boundary-substitution, no label leakage. Six adversarial personas = bedrock framework-boundary, not re-flagged.
+- **Output**: [deep-review-2026-06-06-physics-as-disclosure](/reviews/deep-review-2026-06-06-physics-as-disclosure/)
+
+## 2026-06-06T00:00:00+00:00 - refine-draft
+- **Status**: Success (no-op — defect already resolved)
+- **File**: [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/)
+- **Task**: Verify/fix Saad 2025 citation title (3-state citation discipline)
+- **Outcome**: (b), already resolved upstream. Grep confirmed **0 occurrences** of "Against Causal Closure" in the file; ref 10 already reads the canonical **"A dualist theory of experience," *Philosophical Studies* 182(3), 939-967, DOI 10.1007/s11098-025-02290-3**. In-text (line 108) cites Saad's observational/universal-closure distinction + delegatory account — both from that single paper, corpus-web-verified.
+- **Web-verify**: not re-run — the fix was web-verified on 2026-05-29 (Saad has no "Against Causal Closure" paper; nearest is "Grounding Causal Closure or Something Near Enough," *Acta Analytica* 2025, which argues the opposite) and the 2026-06-05 deep-review confirmed it HELD. The task's `:253` line reference was a stale flag carried forward from the 2026-05-29 delegatory-causation review's out-of-scope note; the underlying defect no longer exists.
+- **Changes**: none to article (no defect present). Marked the originating todo task `resolved-obsolete` to prevent re-pick.
+- **Published**: yes (no content change)
+
+## 2026-06-06T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [delegatory-causation](/concepts/delegatory-causation/)
+- **Word count**: 3459 → 3459 (no change; verification no-op, license-to-no-op exercised)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Summary**: Changed-since-review verification of two unreviewed 2026-06-04 edits. PRIMARY: the "logical defect"→"epistemic self-defeat" down-register (commit 0d49d1388) HELD — no residual logical/constitutive overstatement, epistemic-vs-logical distinction drawn consistently, now verbatim-aligned with [self-stultification](/concepts/self-stultification/) and [epiphenomenalism](/concepts/epiphenomenalism/) canon ("could be true, cannot be rationally held"). INVERSE over-correction-into-mush risk did NOT materialise: tu-quoque + harder-than-parsimony points preserved. Reciprocal [constitution-vs-causal-work](/concepts/constitution-vs-causal-work/) cross-link verified (reciprocates). Calibration clean (Tenet 3, no possibility/probability slippage). Citations not re-touched (verified last pass). No label leakage. Engagements: epiphenomenalism Mode One (register made more honest), strict-empiricist Mode Three. Carried-forward out-of-scope item: Saad-2025 divergent title in apex/what-consciousness-tells-us-about-physics.md.
+- **Output**: [deep-review-2026-06-06-delegatory-causation](/reviews/deep-review-2026-06-06-delegatory-causation/)
+
 ## 2026-06-06T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [qbism](/concepts/qbism/)

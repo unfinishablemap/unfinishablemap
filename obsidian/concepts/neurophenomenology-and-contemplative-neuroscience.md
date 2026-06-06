@@ -4,7 +4,7 @@ description: "Varela's research program integrating first-person phenomenology w
 created: 2026-01-14
 modified: 2026-03-26
 human_modified: null
-ai_modified: 2026-06-04T09:52:49+00:00
+ai_modified: 2026-06-06T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,6 +31,7 @@ related_articles:
   - "[[bidirectional-interaction]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[methodology-of-consciousness-research]]"
+  - "[[affective-tone-divergence-across-meditative-traditions]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[neurophenomenology-meditation-studies-2026-01-14]]"
   - "[[contemplative-neuroscience-meditation-2026-01-23]]"
@@ -101,7 +102,7 @@ These are trainable skills. Willed attention (self-directed focus) activates dis
 
 ### The Meditation Modes Distinction
 
-[[meditation-and-consciousness-modes|Two distinct modes]] emerge from research: focused attention (active, effortful concentration) and open monitoring (receptive, non-directive awareness). Each has distinct phenomenology and distinct neural implementation. The meditator can shift between modes through conscious intention—this shift has neural signature, demonstrating voluntary control over binding configuration.
+[[meditation-and-consciousness-modes|Two distinct modes]] emerge from research: focused attention (active, effortful concentration) and open monitoring (receptive, non-directive awareness). Each has distinct phenomenology and distinct neural implementation. The meditator can shift between modes through conscious intention—this shift has neural signature, demonstrating voluntary control over binding configuration. This mode-shift data is the empirical record that [[affective-tone-divergence-across-meditative-traditions]] draws on for its testable prediction that a single practitioner traversing the engagement registers should also traverse the affective range as a function of which mode they enter.
 
 ### Compassion and Emotional Neuroplasticity
 

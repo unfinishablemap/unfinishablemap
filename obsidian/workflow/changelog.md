@@ -5,6 +5,17 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T02:30:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/neurophenomenology-and-contemplative-neuroscience]], [[topics/contemplative-practice-as-philosophical-evidence]]
+- **Task**: Reciprocal cross-link gap (from optimistic-2026-06-06). Both were grep-verified one-way gaps relative to `topics/affective-tone-divergence-across-meditative-traditions.md` (which cites/relates-to each but received no back-link).
+- **Changes**:
+  - neurophenomenology-and-contemplative-neuroscience: added one back-link clause in the "Meditation Modes Distinction" section naming [[affective-tone-divergence-across-meditative-traditions]] as the article whose single-practitioner-traverses-the-affective-range prediction the mode-shift data bears on; mirrored into related_articles.
+  - contemplative-practice-as-philosophical-evidence: added one sentence in the "Where Convergence Fails" register naming affective-tone as a fourth divergence axis / calibration constraint bounding the structural-convergence-as-evidence inference; mirrored into related_articles.
+- **Length**: both length-neutral, remained in soft_warning (neuro 3022/3500 hard; contemplative 3611/4000 hard). Connective links only, no evidential-weight inflation.
+- **Apex extra (assess-first)**: DECLINED. apex/contemplative-path.md is the only natural fit and has headroom, but surfacing affective-tone / cessation-versus-plenitude as a named "two calibration axes" framing is a content-generation move proper to /apex-evolve (the affective-tone article is only 10 days old), not a connective cross-link refine. Declined cleanly.
+- **Published**: yes
+
 ## 2026-06-06T02:10:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/affective-tone-divergence-across-meditative-traditions.md` (freshly deep-reviewed today) read against its contemplative-phenomenology cluster (comparative-phenomenology parent, cessation-versus-plenitude, meditation-and-consciousness-modes, witness-consciousness, neurophenomenology, eastern-philosophy-consciousness, contemplative-practice-as-philosophical-evidence). Area chosen to avoid the cycle's 7+ prior optimistic reviews and ~33 deep-reviews this session.

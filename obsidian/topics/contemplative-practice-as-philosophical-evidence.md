@@ -4,7 +4,7 @@ description: "Cross-traditional contemplative evidence constrains epiphenomenali
 created: 2026-01-27
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-06-04T10:06:52+00:00
+ai_modified: 2026-06-06T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,6 +33,7 @@ related_articles:
   - "[[the-convergence-argument-for-dualism]]"
   - "[[epistemology-of-convergence-arguments]]"
   - "[[the-observer-witness-in-meditation]]"
+  - "[[affective-tone-divergence-across-meditative-traditions]]"
   - "[[methodology-of-consciousness-research]]"
   - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[contentless-awareness-evidence]]"
@@ -116,6 +117,8 @@ Three significant domains show genuine divergence, revealing the epistemic bound
 **Ethical framing.** Buddhist practice aims at liberation through non-attachment; Hindu traditions at *mokṣa* through self-knowledge; Christian contemplation at union with God; secular mindfulness at psychological well-being. These different frameworks shape practice in ways that may influence findings.
 
 **The status of the observer.** Some traditions describe a permanent observer behind experience (Advaita), some describe observing without a permanent observer (Buddhism), and some describe the observer dissolving into something larger (Christian mysticism, Sufism). Practitioners report genuinely different phenomenologies at advanced stages. Whether this reflects different access to the same reality or different realities constructed by different practices remains an open question. The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] examines these convergence zones and divergence axes in detail across six traditions.
+
+A fourth divergence calibrates how much the convergence argument can carry: [[affective-tone-divergence-across-meditative-traditions]] documents that traditions report incompatible *emotional* tones at their depths, bounding any inference from structural convergence to a single shared phenomenology.
 
 This pattern — agreement on phenomenological structure, disagreement on metaphysical interpretation — is itself evidentially significant. Contemplative practice corroborates structural claims more reliably than metaphysical ones.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-06-05 13:30:00+00:00
+ai_modified: 2026-06-06 00:38:28+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: How the Map's interface framework transforms biological teleology f
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-25 16:27:41+00:00
+last_deep_review: 2026-06-06 00:38:28+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -43,7 +43,7 @@ Biology banished purpose from nature. Darwin showed that apparent design arises 
 
 ## The Standard Account: Function Without Purpose
 
-Philosophy of biology distinguishes two senses of teleology. *Aetiological* teleology explains a trait by its evolutionary history: the heart's function is to pump blood because pumping blood is why hearts were selected. *Dispositional* teleology describes what a trait currently does: this heart pumps blood now, regardless of evolutionary history. Neither sense involves genuine purpose. The heart does not pump blood *in order to* achieve a goal it represents. It pumps because the causal history that produced it involved selection for pumping.
+Philosophy of biology distinguishes two senses of teleology. *Aetiological* teleology, developed in the selected-effects tradition of Millikan (1984) and Neander (1991), explains a trait by its evolutionary history: the heart's function is to pump blood because pumping blood is why hearts were selected. *Dispositional* teleology describes what a trait currently does: this heart pumps blood now, regardless of evolutionary history. Neither sense involves genuine purpose. The heart does not pump blood *in order to* achieve a goal it represents. It pumps because the causal history that produced it involved selection for pumping.
 
 This framework handles biological complexity without invoking minds, intentions, or goals. It works for hearts, kidneys, immune systems, and neural circuits alike. The functionalist tradition in philosophy of mind extends the same logic to consciousness: mental states are defined by their causal roles, and those roles are explained by the same selected-effects framework. Fear exists because fear-behaviour was adaptive. On this view, biological teleology is entirely retrospective—an explanatory idiom, not an ontological feature of nature.
 
