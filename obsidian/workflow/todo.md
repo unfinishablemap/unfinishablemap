@@ -37,6 +37,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Add reciprocal cross-links into the affective-tone-divergence contemplative cluster
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/neurophenomenology-and-contemplative-neuroscience.md; obsidian/topics/contemplative-practice-as-philosophical-evidence.md
+- **Notes**: From optimistic-2026-06-06. Two grep-verified one-way cross-link gaps around `topics/affective-tone-divergence-across-meditative-traditions.md` (freshly deep-reviewed 2026-06-06). (1) `concepts/neurophenomenology-and-contemplative-neuroscience.md` is CITED by affective-tone as the empirical-record source for style-specific affective profiles but does NOT link back — add a back-link naming affective-tone divergence as the phenomenological prediction the article's focused-attention/open-monitoring mode-shift data bear on (genuine mutual reinforcement: the neuro article already says "the meditator can shift between modes through conscious intention — this shift has neural signature", which is exactly the record the "single practitioner traverses the affective range" prediction would test). (2) `topics/contemplative-practice-as-philosophical-evidence.md` does NOT link to affective-tone, yet affective-tone is a named calibration constraint bounding the cross-traditional convergence-as-evidence argument — add a one-line link in the "what the convergence can/can't carry" register (see eastern-philosophy-consciousness.md:109 for the established pairing with cessation-versus-plenitude). Keep both additions to a sentence each; mirror into related_articles where a slot exists. NOT link-spam — both are real bidirectional relevance. Lower-confidence optional extra (assess-first, license to decline): consider whether an apex page touching contemplative evidence should surface the affective-tone / cessation-versus-plenitude PAIR as the two calibration axes — do not force if no apex naturally fits.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-06
+
 ### P2: Deep review topics/self-stultification-as-master-argument.md (changed-since-review staleness, gap ~9d)
 - **Type**: deep-review
 - **Status**: pending
