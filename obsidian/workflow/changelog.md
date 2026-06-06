@@ -5,6 +5,16 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T03:32:54+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/content-specificity-of-mental-causation]]
+- **Word count**: 1799 → 1799 (timestamps only; 72% of 2500 soft, normal mode)
+- **Critical issues addressed**: 0 (none found — 6th consecutive clean review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; license-to-no-op honoured)
+- **Key checks**: (1) Changed-since-review delta (commit eed8bd0ee, 2026-06-03) was a benign reciprocal `[[direction-of-fit]]` cross-link addition — verified faithful, target live, back-link reciprocated, no new empirical content. (2) Full publisher-of-record citation sweep: De-la-Fuente-Fernández 2001 (Science 293:1164-1166, striatal dopamine release — CLEAN), Beilock & Carr 2001 (JEP:Gen 130:701-725, self-focus degrades, dual-task doesn't — CLEAN), Kaptchuk 2010 (PLoS ONE 5:e15591, open-label IBS — CLEAN, matches sibling), Pollo 2001 (Pain 93:77-84, expectation-strength→graded analgesia — CLEAN); Benedetti channel-qualifier preserved. No fabrication/wrong-paper/orphan; no post-2020 supersession. (3) Calibration honest — content-causation kept as the Map's interpretive reading, not proof; no possibility/probability slippage. (4) Functionalist engagement Mode Mixed (Two→Three), no label leakage. (5) All cross-links + tenet/PIT anchors resolve.
+- **Output**: [[reviews/deep-review-2026-06-06-content-specificity-of-mental-causation]]
+
 ## 2026-06-06T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-authority-of-formal-systems]]

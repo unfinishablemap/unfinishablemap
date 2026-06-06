@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review concepts/content-specificity-of-mental-causation.md (changed-since-review, gap ~8d)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Changed-since-review (ai_modified 2026-06-03 AFTER last_deep_review 2026-05-26; 8d gap = unreviewed new content). Largest-gap concept this cycle, contrib=100. ⚠ CURRENCY-SWEEP: article rests on a dense CLINICAL/EMPIRICAL record (placebo/nocebo analgesia, De-la-Fuente-Fernández 2001 Parkinson's dopamine-release, Kaptchuk 2010 open-label placebo, Beilock & Carr 2001 choking). Verify each clinical citation against the publisher of record (watch WRONG-PAPER conflations + ORPHAN refs — De-la-Fuente-Fernández et-al "2001 Science 293:1164" and Kaptchuk PLoS ONE 5(12):e15591 are exactly the kind that drift). Check the post-2020 record hasn't superseded any empirical claim. Diversifies away from this session's quantum/contemplative clusters.
-- **Source**: staleness
-- **Generated**: 2026-06-06
-
 ### P2: Deep review concepts/teaching-as-metarepresentation.md (changed-since-review, gap ~8d)
 - **Type**: deep-review
 - **Status**: pending
@@ -975,6 +968,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-06: Deep review concepts/content-specificity-of-mental-causation.md (changed-since-review, gap ~8d)
+- **Type**: deep-review
+- **Notes**: Changed-since-review (ai_modified 2026-06-03 AFTER last_deep_review 2026-05-26; 8d gap = unreviewed new content). Largest-gap concept this cycle, contrib=100. ⚠ CURRENCY-SWEEP: article rests on a dense CLINICAL/EMPIRICAL record (placebo/nocebo analgesia, De-la-Fuente-Fernández 2001 Parkinson's dopamine-release, Kaptchuk 2010 open-label placebo, Beilock & Carr 2001 choking). Verify each clinical citation against the publisher of record (watch WRONG-PAPER conflations + ORPHAN refs — De-la-Fuente-Fernández et-al "2001 Science 293:1164" and Kaptchuk PLoS ONE 5(12):e15591 are exactly the kind that drift). Check the post-2020 record hasn't superseded any empirical claim. Diversifies away from this session's quantum/contemplative clusters.
 
 ### ✓ 2026-06-06: Deep review topics/consciousness-and-the-authority-of-formal-systems.md (changed-since-review staleness, gap ~7d)
 - **Type**: deep-review
