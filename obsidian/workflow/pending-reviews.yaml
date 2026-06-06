@@ -1389,3 +1389,31 @@
   subject_articles:
   - voids/mapping-mind-space.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/acec28fc-9480-4568-8615-817e9e993c2c
+  commissioned_at: '2026-06-06T03:05:07.827524+00:00'
+  prompt_summary: Audit voids/mapping-mind-space (mind-space surveyability + dimensionality)
+  target_filename: outer-review-2026-06-06-claude-opus-4-8.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "I'm seeking a rigorous outer review of one article from The Unfinishable\
+    \ Map, a dualist philosophy-of-mind project (consciousness fundamental and irreducible).\
+    \ Please audit \"Mapping Mind-Space\": https://unfinishablemap.org/voids/mapping-mind-space/\n\
+    \nThe article argues consciousness cannot survey the geometry of \"mind-space\"\
+    \ from within \u2014 it can neither locate itself among possible minds nor introspect\
+    \ the dimensions along which experience varies. It draws on Shanahan, Nagel, McGinn,\
+    \ Abbott Flatland, Sjostedt-Hughes, Lacalli, Arsiwalla and Verschure, Carr, and\
+    \ others. Please assess: (1) the soundness of the core \"unsurveyable from within\"\
+    \ argument and its recursive \"dimensionality\" claim; (2) whether the cited authors\
+    \ are represented accurately and citations are real; (3) unsupported leaps or\
+    \ overstated convergence; (4) the strongest objections a critic would raise. Project\
+    \ context and recent changes: https://unfinishablemap.org and https://unfinishablemap.org/workflow/changelog/\n\
+    \nEnd your report with a list of concrete potential improvements to specific articles\
+    \ and to the site methodology."
+  subject_type: recent
+  subject_title: Audit mapping-mind-space
+  subject_articles:
+  - voids/mapping-mind-space.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-06-chatgpt-5-5-pro.md
