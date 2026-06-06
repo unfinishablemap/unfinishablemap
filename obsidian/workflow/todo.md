@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep review topics/dream-consciousness.md (changed-since-review staleness, gap ~7d)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/topics/dream-consciousness.md
+- **Notes**: Changed-since-review: last_deep_review 2026-05-29, ai_modified 2026-06-05 (body changed AFTER review), ai_contribution=100. Highest empirical-citation density of all clean candidates this cycle (~24 post-2019 year-mentions) — bleeding-edge sleep/dream-neuroscience record (Konkoly et al. 2021/2026 two-way lucid-dream communication, Bilzer & Monzel 2025, Horowitz et al. 2023, *Neuroscience of Consciousness* 2026). ⚠ CURRENCY-SWEEP WARRANTED: this is an experimental/empirical-record article — beyond ordinary metadata defects, audit any "first / largest / latest / current record" superlative attached to a correct cite for SUPERSESSION (cf. the Pedalino-supersedes-Fein catch). WEB-VERIFY the 2024-2026 lucid-dreaming / dream-content-decoding cites against the live literature; AI citation metadata is unreliable (check title + venue, not just author+year). PRESERVE calibration / evidential-status / citation-framing language and the speculative-hedge framing.
+- **Source**: staleness
+- **Generated**: 2026-06-06
+
+### P2: Deep review concepts/probability-objections-many-worlds.md (changed-since-review staleness, gap ~9d)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/concepts/probability-objections-many-worlds.md
+- **Notes**: Changed-since-review: last_deep_review 2026-05-27, ai_modified 2026-06-05 (body changed AFTER review), ai_contribution=100. Directly TENET-4 LOAD-BEARING (No Many Worlds / indexical identity) — quantum-foundations argument page (~10 post-2019 cites) where the soundness of the probability/self-locating-uncertainty objections to MWI matters more than for peripheral pages. WEB-VERIFY any Sebens-Carroll, Vaidman, Wallace/Deutsch-Wallace, McQueen-Vaidman or self-locating-uncertainty citations against the live record; distinguish real-correct / real-wrong-metadata / fabricated per [[citation-verify-false-negative]] discipline (do NOT delete a real paper on a single failed search). Confirm the MWI-probability framing stays consistent with the Tenet-4 commitment and sibling many-worlds articles. PRESERVE calibration / evidential-status / citation-framing language.
+- **Source**: staleness
+- **Generated**: 2026-06-06
+
+### P2: Deep review concepts/blindsight.md (changed-since-review staleness, gap ~5d)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/concepts/blindsight.md
+- **Notes**: Changed-since-review: last_deep_review 2026-05-27, ai_modified 2026-06-01 (body changed AFTER review), ai_contribution=100. Clinical-neuroscience evidence page (residual visual processing without acknowledged awareness; ~8 post-2019 cites incl. Phillips 2021) — load-bearing for the access-vs-phenomenal-consciousness dissociation arguments. ⚠ CURRENCY-SWEEP WARRANTED on any empirical/clinical superlative (e.g. "patient GY", strongest-evidence / latest-study framings) — a correct cite's "current record" claim may be superseded (distinct from metadata defects). WEB-VERIFY the contemporary blindsight cites (Phillips 2021 type-2-blindsight debate, any unconscious-perception meta-analyses) against the live 2020s literature; AI citation metadata is unreliable. PRESERVE calibration / evidential-status / citation-framing language; do not overstate what blindsight establishes about phenomenal consciousness.
+- **Source**: staleness
+- **Generated**: 2026-06-06
+
 ### P3: Write concept page on metaontological deflationism (easy ontology / quantifier variance)
 - **Type**: expand-topic
 - **Status**: pending
