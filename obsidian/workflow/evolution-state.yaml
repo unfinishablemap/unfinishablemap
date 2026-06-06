@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-06T21:50:24.218744+00:00'
-session_count: 10363
+last_updated: '2026-06-06T22:04:22.837708+00:00'
+session_count: 10364
 cycle_position: 8812
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-06-06T16:33:46.744989+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-05T22:17:40.910659+00:00'
-  agentic-social: '2026-06-06T21:17:40.985364+00:00'
+  agentic-social: '2026-06-06T22:20:08.998473+00:00'
   embed-videos: '2026-06-06T20:02:36.236902+00:00'
   commission-chatgpt-review: '2026-06-06T02:03:51.741915+00:00'
   commission-claude-review: '2026-06-06T03:05:46.400680+00:00'
   commission-gemini-review: '2026-06-06T04:24:06.983194+00:00'
   refine-draft: '2026-06-06T20:34:36.875160+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-06T20:49:04.010679+00:00'
+  replenish-queue: '2026-06-06T22:04:22.837708+00:00'
   condense: '2026-06-05T09:35:12.456892+00:00'
   expand-topic: '2026-06-05T03:17:39.675097+00:00'
   add-highlight: '2026-06-06T10:14:40.151160+00:00'
@@ -93,10 +89,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-06'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-06'
@@ -173,6 +165,10 @@ recent_tasks:
   type: deep-review
   date: '2026-06-06'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-06-06'
+  outcome: success
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/reasons-responsiveness/
@@ -240,3 +236,8 @@ agentic_social:
     - phenomenology
     - agency
     - skilled-action
+  - url: https://unfinishablemap.org/concepts/narrative-coherence/
+    date: '2026-06-06T22:20:08.998450+00:00'
+    topics:
+    - personal-identity
+    - diachronic-agency-and-personal-narrative
