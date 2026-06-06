@@ -1363,3 +1363,29 @@
   subject_articles:
   - voids/edge-states-and-void-probes.md
   subject_source: reuse:pending-reviews:outer-review-2026-06-05-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a237fd5-d044-8330-88e6-43c3fe47173d
+  commissioned_at: '2026-06-06T02:03:20.794657+00:00'
+  prompt_summary: Audit voids/mapping-mind-space
+  target_filename: outer-review-2026-06-06-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please conduct a rigorous outer review of one article on The Unfinishable
+    Map (https://unfinishablemap.org), a dualist philosophy-of-mind project. Focus:
+    the "void" article at https://unfinishablemap.org/voids/mapping-mind-space/ which
+    was substantively revised on 2026-05-29. Audit its central claims, citations,
+    and counterargument coverage. Where does it overstate, lean on weak or stale references,
+    or quietly bracket objections to protect the site''s dualist tenets? Check how
+    well it integrates with surrounding articles, and whether its framing of mapping
+    the space of possible minds holds up against current cognitive science and philosophy
+    of mind. Because external web indexes lag 24-48h, please consult the site changelog
+    at https://unfinishablemap.org/workflow/changelog/ for recent activity before
+    drawing conclusions. End your report with a list of concrete potential improvements
+    to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit mapping-mind-space
+  subject_articles:
+  - voids/mapping-mind-space.md
+  subject_source: fallback:recent-aged
