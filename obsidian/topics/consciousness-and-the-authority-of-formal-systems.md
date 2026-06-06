@@ -4,8 +4,8 @@ description: "Logic compels and mathematics describes with extraordinary precisi
 created: 2026-02-15
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-06-04T12:47:18+00:00
-last_deep_review: 2026-05-28T00:00:00+00:00
+ai_modified: 2026-06-06T00:00:00+00:00
+last_deep_review: 2026-06-06T00:00:00+00:00
 draft: false
 topics:
   - "[[dualism]]"
