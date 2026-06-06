@@ -9,6 +9,99 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-06T14:17:22+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/non-temporal-consciousness.md` (changed-since-review, modified today; last deep-review 2026-05-14) read against its temporal-consciousness cluster (temporal-consciousness-structure-and-agency, consciousness-and-the-ontology-of-temporal-becoming, temporal-consciousness, witness-consciousness, phenomenology-of-anticipation, phenomenology-of-returning-attention, post-decoherence-selection-programme). Area chosen to avoid the cycle's 8+ prior optimistic reviews and this session's deep-reviewed articles.
+- **Findings**: Article is a model of evidential restraint — Process Philosopher and Hardline Empiricist personas CONVERGE (no tenet-as-evidence-upgrade slippage; explicitly declines five-traditions-as-five-tests, firewalls negative phenomenological claim from positive substance-subject inference, grants rivals parallel accommodation, `[Speculative]`-tags the strong constitutive identification). No calibration concern. Confirmed `[[phenomenology-of-anticipation]]`/`[[phenomenology-of-returning-attention]]` resolve to `topics/` files (no broken link). One P3 verify-first reciprocity/citation-consistency audit queued.
+- **Output**: [optimistic-2026-06-06b](/reviews/optimistic-2026-06-06b/)
+
+## 2026-06-06T13:58:03+00:00 - refine-draft
+- **Status**: Success
+- **File**: [mapping-mind-space](/voids/mapping-mind-space/)
+- **Changes**: Cross-review import from the 2026-06-06 ChatGPT 5.5 Pro outer review — installed in-framework engagement for objections the article had bracketed as bedrock, per [direct-refutation-discipline](/project/direct-refutation-discipline/). Four findings landed as terse clauses leaning on existing wikilinks (LINK carries depth, body stays short): (1) **HIGHEST-VALUE — structural-mapping-without-phenomenal-possession**: added a paragraph in "What Would Challenge This View" naming the functionalist/representationalist in-framework reply (grant the bat-acquaintance limit, deny it blocks *relational* mapping), with Fleming & Shea's quality-space proposal made precise (each experience a point in a similarity-space recoverable from neural activations). Engagement classification: Mode Two opening (the framework helps itself to relational chartability as if it reached the phenomenal manifold) sequenced into Mode Three boundary-marking (the acquaintance-with-unoccupied-position residue is honestly noted, not refuted in-framework). CITATION VERIFIED at publisher of record before import — Fleming, S.M. & Shea, N. (2024), *Trends in Cognitive Sciences*, 28(10), 896–906, PMID 39025769 (NOT pre-accepted from the review); added as reference 19. (2) qualified the "two give a bearing" line in "What AI Might Reveal" with the [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) caveats (human-text inheritance, RLHF shaping, ungrounded outputs → "second point" may reflect the first). (4) imported the [three-kinds-of-void](/voids/three-kinds-of-void/) materialist-progress reply (once-unthinkable problems became tractable; "unexplorable" marks present structure, not prophecy) into the taxonomy-placement paragraph. (5) made the psychedelic evidence explicitly consistent-but-not-discriminating, noting [filter-theory](/concepts/filter-theory/) itself treats such reports that way (no overstatement beyond what filter-theory allows). Finding (3) (Dennett heterophenomenology / synesthetic-void symmetry) DEFERRED — already one click away via the existing [synesthetic-void](/voids/synesthetic-void/) link, and adding it would have busted the hard ceiling. No "This is not X. It is Y." cliché; honoured [evidential-status-discipline](/project/evidential-status-discipline/). Did NOT re-touch prior passes (Sloman/Shanahan, McGinn co-optation, Carr, tenet-conditional, unbridged-convergence).
+- **Length**: LENGTH-NEGATIVE discipline against the voids 3000-word HARD ceiling. Started 2932w; clawed back every imported word by tightening slack across ~20 sites (programme paragraph, Carr/Schwitzgebel/McGinn paragraphs, edge-phenomenology bullets, tenet paragraphs, quote elisions). Final **2998 words — UNDER hard (soft_warning)**, confirmed via `tools.curate.length.analyze_length` (frontmatter-stripped body). Net +66w for four findings.
+- **Published**: yes
+
+## 2026-06-06T13:33:58+00:00 - refine-draft
+- **Status**: Success
+- **File**: [calibration-audit-triple](/project/calibration-audit-triple/)
+- **Changes**: Recorded two methodology proposals from the 2026-06-06 Claude Opus 4.8 outer review of mapping-mind-space (items B-1, B-8) as proposed audit members. ASSESS-FIRST confirmed both are genuine gaps not already covered by [evidential-status-discipline](/project/evidential-status-discipline/). (1) **Origin-attribution check (d)** added to the existing citation-integrity sweep (Audit Four) — a "who originated this concept/phrase" verification that the metadata-correctness checks (a)-(c) structurally miss (Shanahan-vs-Sloman: cited work verified clean, conceptual priority wrong). (2) **Co-optation gate (Audit Six)** — pre-citation gate keyed to a maintained naturalist roster, catching stance-INVERSION (enlisting a non-dualist author toward a dualist conclusion they reject). Explicitly distinguished from the existing source-role table's *Source-would-accept?* column (evidential-weight axis) — the gate is an orthogonal accuracy/misrepresentation move. CONSOLIDATED the convergent ChatGPT sibling "source-role labels" proposal: its register-tagging half folded in as the source-role table's existing function, its stance-inversion half captured by the new gate, rather than minting a parallel rule. Renamed section heading "Two Proposed Members" → "Proposed Members". Added 2026-06-06 Claude review to related_articles.
+- **Published**: yes (project methodology doc; writing-style article rules N/A. Length status critical is pre-existing — this is an accumulating editorial reference, not a corpus article; addition kept tight at ~570w.)
+
+## 2026-06-06T13:18:01+00:00 - deep-review
+- **Status**: Success
+- **File**: [one-structure-three-vocabularies](/topics/one-structure-three-vocabularies/)
+- **Word count**: 2009 → 2009 (no change)
+- **Critical issues addressed**: 0 (none found; prior critical fix from 2026-05-26 confirmed intact)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (only change since last review was a cosmetic Further Reading cross-link; convergence-damping no-op pass)
+- **Citation web-verify (§2.4)**: 3 external cites verified at publisher of record, all real-correct — Saad 2025 Phil Studies 182(3):939-967 (Springer), Zheng & Meister 2025 Neuron 113(2):192-204 (Cell), Schultze-Kraft 2016 PNAS 113(4):1080-1085 (PNAS). Closes the publisher-of-record gap the first review left (it verified intra-corpus only). No fabrications, no metadata errors, no orphans, no superlative claims to currency-check.
+- **Output**: [deep-review-2026-06-06-one-structure-three-vocabularies](/reviews/deep-review-2026-06-06-one-structure-three-vocabularies/)
+
+## 2026-06-06T12:49:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [non-temporal-consciousness](/topics/non-temporal-consciousness/)
+- **Source**: Pessimistic review 2026-06-06b (medium + 2 minor). LIGHT-TOUCH, length-neutral per task scope (body 3346→3515w, under hard 4000; status remains soft_warning).
+- **Original score**: no numeric score (review found no critical issues; one medium convergence/symmetry gap + two minor items)
+- **Changes**:
+  - (a) Convergence double-counting at close of "Meditative Evidence": added a sentence noting the cross-tradition cluster (Jhāna, rigpa, kenshō, Advaita witness, apophasis) carries the evidential weight of ONE recurring pattern — alert awareness reportable without temporal markers — not five independent confirmations.
+  - (b) Parallel-accommodation framing in fragmentation section: added a paragraph noting a production/identity theorist has a structurally parallel accommodation move for the propofol/anaesthesia and split-brain data (redundant integration; global production threshold), so those cases CONSTRAIN both framings (ruling out clean division) rather than CONFIRMING the interface reading over its rival. Article now clears tools/curate/altered_state_symmetry.evaluate_symmetry (returns None).
+  - (c) Dangling attribution fix (minor): removed unverifiable "Lopez's layered alternative" — the 2025 *Philosophical Studies* layered-unity paper is real (DOI 10.1007/s11098-025-02339-3 confirmed, ref 18) but its author could not be verified at any accessible source (Springer auth-walled; secondary sources do not name the author), so the prose name was a 3-state "real-paper-wrong/unverifiable-author" case → de-named in prose, kept the author-less title-only reference. Did NOT fabricate an author.
+- **Not done** (out of light-touch scope; review's minor language items left for a future pass to avoid over-editing): "strongest counterpoint"→"direct counterpoint" (line 73) and "the most elegant route"→hedge (line 122); line 61 oscillation-continuity hedge.
+- **Published**: yes
+
+## 2026-06-06T12:35:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [mapping-mind-space](/voids/mapping-mind-space/)
+- **Source**: convergent outer reviews 2026-06-06 (chatgpt/claude/gemini), P1 via /combine-outer-reviews. PRIMARY structural pass per outer-review-same-file-task-pileup (co-optation, Carr/literature, counterargument-import remain distinct passes).
+- **Changes**: Four converged structural fixes consolidated into one editor pass.
+  - (a) Tenet-protective overstatement (3/3): rewrote "Dualism makes the void real" / "physical methods alone cannot survey it" as tenet-CONDITIONAL — the epistemic limit arises under physicalism/functionalism/representationalism too; the dualism-specific ontological claim is an *if*-then conditional on the tenets, framework-boundary disagreement, not a result the evidence forces on a reductionist. Mode classification (editor-internal): Mode Two — unsupported-foundational-move / tenet-perimeter; downgraded boundary-substitution to honest framework-boundary marking, no mode labels in body.
+  - (b) Acquaintance/knowledge conflation (2/3): "cannot know those dimensions exist" → "may lack any first-person acquaintance with them"; added that the limit is on acquaintance not inference (hidden dimensions probed indirectly via psychophysics, neural decoding, comparative ethology).
+  - (c) Overbroad dismissal (2/3): "Current evidence meets none of these" → graded ledger (no evidence touches the acquaintance gap; some evidence supports partial structural mapping but no novel phenomenal dimension discovered).
+  - (d) Unbridged convergence (3/3): retitled "Convergent Arguments…" → "Arguments for Missing Dimensions" and reframed per [evidential-status-discipline](/project/evidential-status-discipline/) — neural/phenomenal/functional/physical lines posit DIFFERENT dimensional kinds, no bridge argument, partial frameworks not one cumulative thesis.
+- **Length**: 2708 → 2932 words (soft_warning, under 3000 hard ceiling). Fixes carry irreducible new content; trimmed untouched slack to stay length-band-neutral and away from the ceiling. Did NOT touch the two prior-session passes (Sloman/Shanahan + McGinn co-optation framing; Carr 2021 / 2016-2026 literature).
+- **Verification**: altered_state_symmetry.evaluate_symmetry → None; no "This is not X. It is Y." cliché; no reasoning-mode label leakage in body.
+- **Published**: yes
+
+## 2026-06-06T12:17:53+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/non-temporal-consciousness.md` (3346 words; no focused pessimistic/deep review since 2026-05-14 creation)
+- **Findings**: 1 medium (altered-state symmetry / convergence double-counting — disruptive cluster cited but no parallel-accommodation framing; cross-tradition recurrence counted as multiple confirmations), 2 minor language superlatives, 1 dangling Lopez attribution + author-less ref 18. No critical issues, no reasoning-mode label leakage, no epistemic/metaphysical equivocation. Queued one P2 refine-draft.
+- **Output**: [pessimistic-2026-06-06b](/reviews/pessimistic-2026-06-06b/)
+
+## 2026-06-06T11:48:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [mapping-mind-space](/voids/mapping-mind-space/)
+- **Source**: convergent outer reviews 2026-06-06 (2/3: chatgpt, claude), upgraded P2→P1 by combine-outer-reviews. Claude Findings 5 + 8, verified this cycle (Carr Nova 2021 chapter; Birch 2020 five dimensions). Gemini's leg excluded (false wholesale-omission charge).
+- **Changes**:
+  - (a) Carr citation + source-tier (mechanical): updated References entry 10 from "Carr, B. (2015) ... PhilArchive" to the published form Carr (2021), "Making Space and Time for Consciousness in Physics," ch. 7 in *Perspectives on Consciousness*, ed. P. Dennison, pp. 319–350, Nova Science Publishers (same essay, not a different/weaker source). In the Higher-dimensional-physics bullet, flagged Carr's Society-for-Psychical-Research / parapsychology-adjacent standing so the line is no longer presented as a peer of the neuroscience citations.
+  - (b) Empirical-staleness remediation: added a paragraph to "What Would Challenge This View" engaging (not just listing) the 2016–2026 externally-measurable mind-space mapping literature — Bayne/Hohwy/Owen (TiCS 2016), Birch/Schnell/Clayton five dimensions (TiCS 2020), Butlin/Long et al. (arXiv 2023). Made the framework-boundary reply in natural prose: these axes are functional/behavioural proxies the dualism tenet reads as evidence *about* consciousness, mapping the access interface not the phenomenal manifold (cross-linked to the Flatland section). Added References entries 16–18.
+- **Engagement classification** (editor-internal, not in body): live mapping literature — Mode Three (framework-boundary: the measurement programmes do real interface work; the dimensional void in the phenomenal manifold is honestly noted as the Map's dualist residue, not a refutation within the programme's own terms).
+- **Length**: 2342 → 2708 words (under 3000 hard ceiling; voids soft_warning preserved).
+- **Published**: yes
+
+## 2026-06-06T11:32:17+00:00 - refine-draft
+- **Status**: Success
+- **File**: [mapping-mind-space](/voids/mapping-mind-space/)
+- **Source**: convergent outer reviews 2026-06-06 (3/3: chatgpt, claude, gemini), upgraded P2→P1 by combine-outer-reviews. Claude Findings 2–4 (verified: Sloman origin + Birch/Carr confirmed by live web-search).
+- **Changes**:
+  - (a) Origin-misattribution fix (Claude singleton, mechanical): re-credited the "space of possible minds" to its originator Aaron Sloman ("The Structure of the Space of Possible Minds," 1984), with Murray Shanahan (2010) as development. Added Sloman 1984 as References entry 1; renumbered remaining entries 2–15.
+  - (b) Co-optation remediation (3/3 convergent): in natural journal-quality prose, marked the anti-dualist commitments of the three enlisted naturalists so their epistemic-limit arguments are cited honestly without presenting them as tilting toward the dualist/high-dimensional destination. Shanahan/Sloman framed naturalistically (Map's dualist inference flagged as the Map's). Nagel's epistemic limit separated from the Map's stronger physical-methods-cannot-survey inference. McGinn marked "naturalistic but not constructive," explicitly rejects dualism. Schwitzgebel's crazyism marked as symmetric (credence in dualism not much above even odds), not pro-dualist.
+- **Engagement classifications** (editor-internal, not in body): Sloman/Shanahan — Mode Three (framework-boundary: Map's dualist reading honestly marked as not theirs). Nagel — Mode Three (epistemic limit cited; physical-closure inference owned by the Map). McGinn — Mode Three (closure thesis cited for the predicament; his naturalism noted, not refuted). Schwitzgebel — Mode Three (weirdness thesis borrowed; his symmetric crazyism noted honestly).
+- **Word count**: ~2222 → 2342 body (+~120; soft_warning, under hard 3000). Length-neutral-ish; load-bearing hedges preserved; no "This is not X. It is Y." cliché; mode labels kept out of body.
+- **Published**: yes
+
+## 2026-06-06T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [weak-measurement-and-post-selection](/concepts/weak-measurement-and-post-selection/)
+- **Word count**: 2910 → 2910 (+0)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found; prior calibration drift resolved + further hardened by same-day refine e6df70be)
+- **Enhancements made**: 0 (same-day refine pre-empted calibration work; length-neutral, no churn)
+- **Citation web-verify**: 4 load-bearing cites re-verified at publisher of record (AAV 1988, Ferrie & Combes 2014, Hosten & Kwiat 2008, Lundeen et al. 2011) — all real-correct; remaining 5 carried from 2026-05-18 ledger (References block untouched)
+- **Convergence**: Third review; article stable. No named-opponent engagements; no editor-vocabulary leakage.
+- **Output**: [deep-review-2026-06-06-weak-measurement-and-post-selection](/reviews/deep-review-2026-06-06-weak-measurement-and-post-selection/)
+
 ## 2026-06-06T07:42:36+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-06-06
