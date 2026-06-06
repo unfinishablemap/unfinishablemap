@@ -1368,9 +1368,9 @@
   commissioned_at: '2026-06-06T02:03:20.794657+00:00'
   prompt_summary: Audit voids/mapping-mind-space
   target_filename: outer-review-2026-06-06-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-06T03:42:10.492726+00:00'
   failure_reason: null
   prompt_text: 'Please conduct a rigorous outer review of one article on The Unfinishable
     Map (https://unfinishablemap.org), a dualist philosophy-of-mind project. Focus:

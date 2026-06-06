@@ -5,6 +5,16 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T03:42:29+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [[reviews/outer-review-2026-06-06-chatgpt-5-5-pro]]
+- **Subject**: [[voids/mapping-mind-space]] (recent-aged fallback; revised 2026-05-29)
+- **Claims verified**: 6 (tenet-protective "Dualism makes the void real" asymmetry, verbatim "Current evidence meets none of these", unbridged dimension-type convergence, verbatim "cannot know those dimensions exist", verbatim "no telescope exists", changelog-corroborated synesthetic-void Lacalli/Rosseinsky fabrication in the nearby citation cluster)
+- **High-value findings**: 4 (epistemic→metaphysical slide / tenet-protective overstatement; acquaintance-vs-knowledge conflation; overbroad challenge-dismissal; unbridged convergence across heterogeneous dimension types)
+- **Tasks generated**: 3 (P2: calibration refine-draft carrying the [[direct-refutation-discipline]] remit; P2: counterargument/sibling-caveat import cross-review; P2: methodology proposals — consolidated with the 2026-06-05 edge-states methodology task to avoid duplication)
+- **Convergence**: tenet-perimeter / boundary-substitution structural critique surfaces again (3 prior outer reviewers converged on this pattern)
+
 ## 2026-06-06T03:32:54+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/content-specificity-of-mental-causation]]
