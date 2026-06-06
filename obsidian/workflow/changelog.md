@@ -5,6 +5,19 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T01:40:00+00:00 - deep-review
+- **Status**: Success (converged no-op; web-verify priority remit, stance attention)
+- **File**: [[concepts/probability-objections-many-worlds]]
+- **Word count**: 1894 → 1894 (frontmatter-only; 76% of 2500 concept soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (6th review; converged, body prose unchanged since content-stabilisation)
+- **Web-verification**: all load-bearing citations re-checked at publisher of record with stance attention (Tenet-4 page; stance-reversal is the high-risk defect). Wallace 2003 (PRO-MWI, defends Deutsch), Sebens & Carroll 2018 (PRO-MWI, ESP→Born), Saunders 2021 (constructive, state-dependent rule), Short 2023 (CONSTRUCTIVE, offers derivation), Vaidman 1998 (PRO-MWI), Zurek 2005 (constructive) — ALL correctly presented as defended-then-objected-to; NO pro-MWI author misrepresented as conceding. No stance-reversal.
+- **Wallace 415-438 vs 439**: investigated — genuine 1-page aggregator ambiguity (SciRP=438, some summaries=439), article ends mid-page; current 438 defensible, NOT re-churned (field already flip-flopped 3×).
+- **Calibration**: objections kept as live philosophical objections, not settled refutations; no possibility/probability slippage; tenet-accepting-reviewer diagnostic test = no overstatement.
+- **Reasoning modes**: Wallace/Sebens-Carroll/Zurek/Kent-Lewis = Mode One; structural "every outcome occurs" thesis = Mode Three (bedrock, No Many Worlds). No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-06-probability-objections-many-worlds]]
+
 ## 2026-06-06T00:55:21+00:00 - deep-review
 - **Status**: Success (citation-currency/supersession pass; REGRESSION caught + propagation cleaned)
 - **File**: [[topics/dream-consciousness]]
