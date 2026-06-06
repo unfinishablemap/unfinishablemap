@@ -5,6 +5,18 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T12:49:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/non-temporal-consciousness]]
+- **Source**: Pessimistic review 2026-06-06b (medium + 2 minor). LIGHT-TOUCH, length-neutral per task scope (body 3346→3515w, under hard 4000; status remains soft_warning).
+- **Original score**: no numeric score (review found no critical issues; one medium convergence/symmetry gap + two minor items)
+- **Changes**:
+  - (a) Convergence double-counting at close of "Meditative Evidence": added a sentence noting the cross-tradition cluster (Jhāna, rigpa, kenshō, Advaita witness, apophasis) carries the evidential weight of ONE recurring pattern — alert awareness reportable without temporal markers — not five independent confirmations.
+  - (b) Parallel-accommodation framing in fragmentation section: added a paragraph noting a production/identity theorist has a structurally parallel accommodation move for the propofol/anaesthesia and split-brain data (redundant integration; global production threshold), so those cases CONSTRAIN both framings (ruling out clean division) rather than CONFIRMING the interface reading over its rival. Article now clears tools/curate/altered_state_symmetry.evaluate_symmetry (returns None).
+  - (c) Dangling attribution fix (minor): removed unverifiable "Lopez's layered alternative" — the 2025 *Philosophical Studies* layered-unity paper is real (DOI 10.1007/s11098-025-02339-3 confirmed, ref 18) but its author could not be verified at any accessible source (Springer auth-walled; secondary sources do not name the author), so the prose name was a 3-state "real-paper-wrong/unverifiable-author" case → de-named in prose, kept the author-less title-only reference. Did NOT fabricate an author.
+- **Not done** (out of light-touch scope; review's minor language items left for a future pass to avoid over-editing): "strongest counterpoint"→"direct counterpoint" (line 73) and "the most elegant route"→hedge (line 122); line 61 oscillation-continuity hedge.
+- **Published**: yes
+
 ## 2026-06-06T12:35:53+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/mapping-mind-space]]
