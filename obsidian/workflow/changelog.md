@@ -5,6 +5,13 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T14:34:14+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[project/calibration-audit-triple]]
+- **Original score**: n/a (methodology project doc — assess-first, license to decline overlaps)
+- **Changes**: Consolidated the genuine residue of TWO pending methodology tasks (2026-06-06 mapping-mind-space ChatGPT review items b/c/d + the sibling 2026-06-05 edge-states ChatGPT task's evidence-tier-inheritance / tenet-upgrade proposals) into ONE tight paragraph appended after the existing tenet-use-guardrail para — NOT new sections (doc already CRITICAL length, +331w only). Item (a) source-role labels NOT re-minted (already folded into Audit Six para last cycle, per task UPDATE). Recorded: (i) **dimension-type convergence bar** as a named sub-check of Audit Two (cross-*type* sharpening of the same-*kind* anti-double-counting move + [[concepts/cross-mechanism-convergence]]) — the mapping-mind-space "Convergent Arguments for Missing Dimensions" section (neural/phenomenal/morphospace/physical, verified in the review's Verification Notes) is the canonical case; GENUINE RESIDUE not previously explicit. (ii) **evidence-tier / caveat inheritance** folded together with the 2026-06-06 "integration table for crowded clusters" recommendation as one proposed cross-article check homed on Audit Three's article-vs-anchor structure (anchor = cited article, inherited property = caveat set). (iii) **tenet-protection check** + **tenet-upgrade audit** closed as ALREADY-COVERED (the line-175 tenet-use guardrail + [[evidential-status-discipline]]'s defeater-removal/constrain-vs-establish family) — no new mint, per CONSOLIDATE-don't-duplicate instruction. Lower-value items (publisher-of-record verify, citation-defect propagation sweep, changelog discoverability) noted as covered by existing practice/known bugs, not re-minted. Added the chatgpt review to related_articles for link reciprocity. This single addition discharges BOTH the line-48 and line-218 pending todo tasks.
+- **Published**: yes
+
 ## 2026-06-06T14:17:22+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/non-temporal-consciousness.md` (changed-since-review, modified today; last deep-review 2026-05-14) read against its temporal-consciousness cluster (temporal-consciousness-structure-and-agency, consciousness-and-the-ontology-of-temporal-becoming, temporal-consciousness, witness-consciousness, phenomenology-of-anticipation, phenomenology-of-returning-attention, post-decoherence-selection-programme). Area chosen to avoid the cycle's 8+ prior optimistic reviews and this session's deep-reviewed articles.
