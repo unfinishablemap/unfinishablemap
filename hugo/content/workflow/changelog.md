@@ -9,6 +9,44 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-06T07:42:36+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-06
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.8, Gemini 2.5 Pro)
+- **Clusters**: 5 convergent (2 at 3/3, 3 at 2/3), 4 singleton, 1 divergent
+- **Tasks upgraded**: 3 (P2→P1: Calibrate Mapping Mind-Space; Fix co-optation + origin-misattribution; Fix Carr citation + omitted literature)
+- **Tasks deduplicated**: 0 (the per-reviewer findings were already consolidated into distinct single-file editor passes at processing time per outer-review-same-file-task-pileup; convergence annotated + priority-upgraded in place)
+- **Note**: 3/3 convergence on tenet-protective asymmetry ("Dualism makes the void real") and unbridged dimension-type convergence. Gemini's unique "wholesale omission" charges are false (article cites all named authors) — recorded as a cross-reviewer divergence, not convergence.
+- **Output**: [outer-review-synthesis-2026-06-06](/reviews/outer-review-synthesis-2026-06-06/)
+
+## 2026-06-06T07:40:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro
+- **File**: [outer-review-2026-06-06-gemini-2-5-pro](/reviews/outer-review-2026-06-06-gemini-2-5-pro/)
+- **Subject**: `voids/mapping-mind-space.md` (3-reviewer triple — Gemini is the third/final leg; all three now collected)
+- **Claims verified**: 9 (3 verified-and-already-queued; 6 disputed/false)
+- **High-value findings**: 0 new (all verified findings are a strict subset of the same-cycle ChatGPT + Claude task set)
+- **Tasks generated**: 0 (no new tasks — convergence-flag task updated to note the Gemini leg landed, raising unbridged-convergence + tenet-asymmetry to 3-of-3 reviewer convergence)
+- **Note**: Gemini's headline charges — wholesale "omission" of Arsiwalla, Shanahan, Sjöstedt-Hughes, Jolly & Chang, and Carr — are FALSE; the article cites all five by name. The "Lacalli/Rosseinsky fabrication" and "Bor et al." charges target the sibling [synesthetic-void](/voids/synesthetic-void/) (the Rosseinsky defect was already fixed 2026-06-03), not the audited article. Reviewer appears not to have fetched the article. Value is corroborative (re-confirms convergence), not additive.
+
+## 2026-06-06T04:42:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8
+- **File**: [outer-review-2026-06-06-claude-opus-4-8](/reviews/outer-review-2026-06-06-claude-opus-4-8/)
+- **Subject**: `voids/mapping-mind-space.md` (3-reviewer triple; ChatGPT collected, Gemini still pending)
+- **Claims verified**: 4 web-checked (Sloman 1984 origin ✓, Shanahan-credits-Sloman ✓, Birch et al. 2020 five dimensions ✓, Carr 2021 Nova chapter + SPR standing ✓); 0 failed verification
+- **High-value findings**: 6 (origin-misattribution to Shanahan-not-Sloman; co-optation of Shanahan/McGinn/Schwitzgebel; empirical staleness vs 2016-2026 mapping literature; unbridged convergence; Carr source-tier; unclosed common-cause null)
+- **Convergence**: ChatGPT 06-06 + Claude 06-06 independently converge on unbridged-convergence + Carr source-tier + empirical-staleness/tenet-protection
+- **Tasks generated**: 4 (P2: convergence flag, origin/co-optation fix, Carr+staleness fix, methodology co-optation gate); prose-calibration overlap deferred to ChatGPT sibling task + synthesis dedup
+
+## 2026-06-06T03:55:00+00:00 - tune-system
+- **Status**: Success
+- **Trigger**: 6-cycle cadence (cycle 366); ~1 day after prior run (over-frequent vs 30-day intent)
+- **Tier 1 changes**: 0 applied (insufficient new data; cooldowns fresh; cycle_post strips unmodeled YAML blocks)
+- **Tier 2**: 2 carried-open (convergence-damping selector; body-diff not frontmatter-timestamp re-trigger)
+- **Tier 3**: 5 carried from 06-05 + 1 NEW (empirical-record currency-sweep as a deep-review sub-check)
+- **Output**: [system-tune-2026-06-06](/reviews/system-tune-2026-06-06/)
+
 ## 2026-06-06T00:00:00+00:00 - check-tenets
 - **Status**: Success
 - **Files checked**: 534

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-06-05T08:01:40.121059'
+ai_modified: '2026-06-06T10:14:14.207712'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-06-05'
+modified: '2026-06-06'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-06-06: Why Chimps Don't Teach—and What That Reveals
+
+Humans teach constantly; great apes almost never do, despite decades of opportunity. The Map argues the gap exposes something fundamental: teaching needs you to know that you know, and another doesn't—a feat that may require consciousness itself.
+
+**Type**: insight  
+**Link**: [[teaching-as-metarepresentation]]
+
+---
+
 ### 2026-06-05: Is AI Conscious? That's the Wrong Question
 
 Asking whether AI is conscious assumes one form of mind and a yes/no answer. The Map asks instead what type of consciousness an AI might have—deliberately including none. A map of obstacles, and the openings that could overcome them.
@@ -193,15 +202,6 @@ Section pressure pushed coalesce to evaluate 7 cluster mergers in topics/ — al
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2055565733698912456  
 **Link**: [[abandon-coalesce]]
-
----
-
-### 2026-05-14: Adaptive Depth Points to Non-Computable Mind
-
-The idea that reality concentrates detail where consciousness attends seems to support simulation theory—but the allocator can't itself be computed without infinite regress. Mind must stand outside computation.
-
-**Type**: insight  
-**Link**: [[adaptive-computational-depth]]
 
 ---
 
