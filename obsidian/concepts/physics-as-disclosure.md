@@ -4,7 +4,7 @@ description: "The measurement problem is not a deficiency in quantum mechanics b
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-05-27T23:20:49+00:00
+ai_modified: 2026-06-06T00:30:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-03-15
 last_curated:
-last_deep_review: 2026-05-26T00:00:00+00:00
+last_deep_review: 2026-06-06T00:30:18+00:00
 ---
 
 The Unfinishable Map reads the [[measurement-problem|measurement problem]] as a *disclosure* rather than a deficiency. Physics is not broken at quantum measurement — it is correctly reaching the boundary where its structural descriptions end and something else begins. The theory works perfectly within its domain. What it cannot do is describe the transition from possibility to actuality, because actuality belongs to a different aspect of reality: [[bi-aspectual-ontology|consciousness]]. The measurement problem discloses this boundary the way a complete map discloses that the territory extends beyond its edges — not by failing, but by faithfully representing everything within its scope and thereby revealing where that scope ends.
@@ -71,7 +71,7 @@ Decoherence is sometimes presented as a solution to the measurement problem. It 
 
 [[decoherence]] explains why macroscopic superpositions vanish. Through interaction with the environment, quantum coherence leaks away on timescales of 10⁻³⁰ seconds or less for everyday objects. Decoherence selects the *basis* — which observables become definite — and explains why we never see cats in superposition. This is a genuine and substantial physical achievement.
 
-What decoherence does not explain is why *this particular* outcome occurs. As Tomaz et al. note: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured" (2025).
+What decoherence does not explain is why *this particular* outcome occurs. As Tomaz et al. note: "After the basis is chosen and quantum superpositions are suppressed, the system still remains on a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured" (2025).
 
 This is precisely what the disclosure reading predicts. Decoherence handles everything physics *can* handle — basis selection, suppression of interference, emergence of classicality. It stops precisely where structural description ends and the question of actuality begins. The clean division — decoherence does all the structural work, and the residual mystery is entirely about which outcome becomes actual — supports the claim that the boundary is between *kinds* of explanation, not a gap within a single kind.
 

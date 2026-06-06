@@ -5,6 +5,17 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T00:30:18+00:00 - deep-review
+- **Status**: Success (citation audit; converged, 1 trivial fix)
+- **File**: [[concepts/physics-as-disclosure]]
+- **Word count**: 2065 → 2065 (verbatim-quote preposition fix; character-neutral)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (article converged, 4th pass)
+- **Enhancements made**: 1 (restored source-verbatim "remains *on* a mixture" in the Tomaz et al. quote — article had normalised it to "*in*", but it sits inside quotation marks)
+- **Citation web-verify (publisher-of-record, first explicit pass)**: all 7 refs + both verbatim quotes VERIFIED clean — Bell 1990 Phys.World 3(8):33-40; Tomaz/Mattos/Barbatti 2025 arXiv:2502.19278 (author vector + §5 quote exact; also now in Phil.Mag. T&F 2025); Zurek 2003 RevModPhys 75:715-775; Barrett **2006** Erkenntnis 65:97-115 (DOI 10.1007/s10670-006-9016-z — the 05-26 review's in-text "Barrett 2007" was a review-file slip; article's 2006 is correct); Newton-Bentley 1693 letter quote matches Newton Project diplomatic edition. No fabrication / misattribution / finding-reversal. Barrett "across interpretation families" claim faithful to abstract (collapse + no-collapse both pushed to dualism by the preferred-basis problem).
+- **Engagement modes (editor-internal)**: deficiency-theorist reply — in-framework deflation-rebuttal on the duration argument + honest boundary-marking on the residue; no boundary-substitution, no label leakage. Six adversarial personas = bedrock framework-boundary, not re-flagged.
+- **Output**: [[reviews/deep-review-2026-06-06-physics-as-disclosure]]
+
 ## 2026-06-06T00:00:00+00:00 - refine-draft
 - **Status**: Success (no-op — defect already resolved)
 - **File**: [[apex/what-consciousness-tells-us-about-physics]]
