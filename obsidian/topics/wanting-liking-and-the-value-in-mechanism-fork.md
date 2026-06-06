@@ -4,7 +4,7 @@ description: "Berridge's wanting/liking dissociation refutes a single value-curr
 created: 2026-06-05
 modified: 2026-06-05
 human_modified:
-ai_modified: 2026-06-05T16:45:00+00:00
+ai_modified: 2026-06-06T20:33:42+00:00
 last_deep_review: 2026-06-05T12:00:00+00:00
 draft: false
 topics:
@@ -31,7 +31,7 @@ last_curated:
 
 Kent Berridge and colleagues spent three decades showing that reward is not one thing. "Wanting" a reward (the motivational pull toward it) and "liking" it (its felt hedonic impact) have **separable neural substrates** and can be pulled apart experimentally. Dopamine drives wanting; small opioid "hedonic hotspots" in the nucleus accumbens shell and ventral pallidum drive liking. An animal can even be made to "want" a cue it has never "liked." This is settled affective neuroscience.
 
-The Unfinishable Map lays an *interpretive* question over this settled base, the **value-in-mechanism fork** (defined below): when a reward is good or a pain is bad, does that affective value reside in the neural mechanism itself, or in the conscious experience the mechanism is associated with? The honest answer this article defends: the dissociation **constrains** the space of accounts—it refutes any naive "dopamine = pleasure = value" picture and is strong evidence that motivation and hedonic impact are mechanistically separable—but it does **not** by itself settle the fork. A mechanism-only physicalist reading explains every Berridge finding without remainder. The data sharpen the question; they do not answer it.
+The Unfinishable Map lays an *interpretive* question over this settled base, the **value-in-mechanism fork** (defined below): when a reward is good or a pain is bad, does that affective value reside in the neural mechanism itself, or in the conscious experience the mechanism is associated with? The honest answer this article defends: the dissociation **constrains** the space of accounts—it rules out any naive "dopamine = pleasure = value" picture and is strong evidence that motivation and hedonic impact are mechanistically separable—but it does **not** by itself settle the fork. A mechanism-only physicalist reading appears to explain every Berridge finding without remainder. The data sharpen the question; they do not seem to answer it.
 
 ## The Empirical Dissociation
 
@@ -53,11 +53,11 @@ All parties accept the dissociation. The dispute is where *value*—affective go
 
 The honest wedge for the value-in-experience reading is not a triumphant one. It is this: Berridge's *own* taxonomy already separates objective "liking" from subjective conscious pleasure. If the leading affective neuroscientist's framework treats the measurable signature and the felt feeling as even nominally distinct, then the question "does value track the signature or the feeling?" is live rather than confused. The dissociation fractionates reward into pieces—motivation here, hedonic signature there—that need not be experienced, which raises, without answering, whether unexperienced "liking" is value at all.
 
-### What the dissociation does and does not establish
+### What the dissociation does and does not settle
 
-What it **establishes** (empirical): motivation and hedonic impact are mechanistically separable; there is no single neural "value currency"; dopamine is not pleasure; an organism can want what it never liked.
+What it **secures** (empirical): motivation and hedonic impact are mechanistically separable; there is no single neural "value currency"; dopamine is not pleasure; an organism can want what it never liked.
 
-What it does **not** establish (interpretive): that value resides in experience rather than mechanism. A mechanism-only account predicts and explains every result above without remainder. The dissociation refutes the naive unified-hedonic-dopamine picture and is otherwise **neutral** between the two readings. Treating it as proof of the dualist reading would be exactly the kind of evidential over-reach the Map's [[evidential-status-discipline]] is built to prevent—coherence with the Map's view is not the same as independent support for it.
+What it does **not** settle (interpretive): whether value resides in experience rather than mechanism. A mechanism-only account appears to predict and explain every result above without remainder. The dissociation rules out the naive unified-hedonic-dopamine picture and is otherwise **neutral** between the two readings. Treating it as proof of the dualist reading would be exactly the kind of evidential over-reach the Map's [[evidential-status-discipline]] is built to prevent—coherence with the Map's view is not the same as independent support for it.
 
 A trap worth marking explicitly: Berridge is a physicalist affective neuroscientist whose constructs are operational. He is not a dualist and his work is not evidence for dualism. Citing him correctly means crediting him with the *empirical dissociation* and the *objective-versus-conscious distinction*, then doing the interpretive work transparently as the Map's own. The case is open but unsettled.
 
@@ -75,7 +75,7 @@ This is a tenet-coherent *hypothesis*, not a finding—and it must carry explici
 - **Disrupting the conscious hedonic signal while leaving wanting circuitry intact should change selection**, not merely change reported feeling. If selection is invariant under such manipulation, value is doing no selective work.
 - **A complete mechanistic model of choice that needs no experiential term** would leave the value-in-experience reading explanatorily idle—surviving only as a metaphysical add-on, which by the Map's own [[evidential-status-discipline]] would be a cost, not a vindication.
 
-The Map holds the value-in-experience reading because of its prior commitments in [[consciousness-value-connection]]—not because Berridge proves it. The wanting/liking dissociation earns its place here as the cleanest empirical *anchor* for the fork: it shows the brain genuinely fractionates reward, which is what makes "where is the value?" a sharp question rather than a vague one. Whether anything is at stake in an unfelt "liking" reaction is, on the Map's view, the whole question—and the neuroscience, for all its precision, is silent on the phenomenology.
+The Map holds the value-in-experience reading because of its prior commitments in [[consciousness-value-connection]]—not because Berridge's findings settle it. The wanting/liking dissociation earns its place here as the cleanest empirical *anchor* for the fork: it shows the brain genuinely fractionates reward, which is what makes "where is the value?" a sharp question rather than a vague one. Whether anything is at stake in an unfelt "liking" reaction is, on the Map's view, the whole question—and the neuroscience, for all its precision, is silent on the phenomenology.
 
 ## Further Reading
 

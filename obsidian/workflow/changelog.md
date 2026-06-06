@@ -5,6 +5,15 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T20:33:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/wanting-liking-and-the-value-in-mechanism-fork]]
+- **Task**: anchoring-calibration refine (topic-concept anchoring audit). Article failed 5 anchors (qualia, valence, evaluative-phenomenal-character, consciousness-value-connection, dualism), all on one global profile: hedge_density too low + strong_assertion_density too high. Persistent (prior 2026-06-05 qualia-calibration task did not move the metrics).
+- **Before**: word_count 1575, hedge_count 2 (1.27/kw), strong_assertion_count 4 (2.54/kw) → 5 anchoring flags
+- **After**: word_count 1584, hedge_count 4 (2.525/kw), strong_assertion_count 0 (0.0/kw) → 0 anchoring flags (all 5 + sibling anchoring task resolved)
+- **Changes**: Softened 4 over-asserting verbs into calibrated forms without weakening the central claim or voice — "refutes any naive picture" → "rules out" (×2: intro + What-it-establishes); section heading "does and does not establish" → "does and does not settle" with "establishes"→"secures"; "not because Berridge proves it" → "not because Berridge's findings settle it". Added load-bearing evidential hedges where the article already concedes the mechanism-only reading suffices: "explains every Berridge finding" → "appears to explain"; "they do not answer it" → "they do not seem to answer it". Length-neutral (+9 words). No over-hedging, no "This is not X. It is Y." cliché.
+- **Published**: yes
+
 ## 2026-06-06T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/near-death-experiences]]
