@@ -5,6 +5,16 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T03:20:00+00:00 - deep-review
+- **Status**: Success (no-op; converged)
+- **File**: [[apex/steelmanning-as-method]]
+- **Word count**: 3725 → 3725 (0; converged, no edits warranted)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0
+- **Verification**: Changed-since-review (ai_modified 06-05 > last review 05-28). Single delta isolated via `git show 3d62919f3`: one new paragraph integrating the evidential-status discipline's new FOURTH cross-cutting rule (epistemic-vs-metaphysical equivocation / horizontal-vs-vertical inflation) + a one-clause Source-Articles update. Verified the new paragraph FAITHFUL to project/evidential-status-discipline §"Epistemic Reading ≠ Metaphysical Reading" (horizontal/vertical distinction, equivocation definition, fix-shape triad all match in substance), GROUNDED in the article's own felt-character exhibit (cross-checked dissociation apex: its residue is stated in the access-limit/epistemic form the paragraph cites), and CALIBRATED (anti-inflation, no tier-elevation). Self-referential scrutiny passed: all worked-steelman rivals (dissociation apex reconstruction, coherence-inflation Countermeasures 2/9/10, moral-architecture Unity Argument, taxonomy-of-voids common-cause null) represented faithfully and at full strength — no strawmanning. No editor-vocabulary leakage, no banned cliché, no slippage. Length 93% of soft (4000), status ok. No reasoning-mode engagements warranting classification. Note: source doc's "Three Cross-Cutting Rules" header is stale (now four) — flagged as optional housekeeping on that file, not this article.
+- **Output**: [[reviews/deep-review-2026-06-06-steelmanning-as-method]]
+
 ## 2026-06-06T02:40:32+00:00 - deep-review
 - **Status**: Success (no-op; converged)
 - **File**: [[topics/experimental-consciousness-science-2025-2026]]

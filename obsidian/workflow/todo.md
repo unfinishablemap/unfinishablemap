@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review apex/steelmanning-as-method.md (changed-since-review staleness, gap ~8d)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/apex/steelmanning-as-method.md
-- **Notes**: Changed-since-review: ai_modified 2026-06-05, last_deep_review 2026-05-28 (~8d gap), ai_contribution=100. Body changed after review. Apex synthesis (recency-density priority per replenish args) on the Map's adversarial method — "build the rival before the residue". Self-referential meta-article: its own argument quality is load-bearing for the method it advocates, so scrutinise for the very strawmanning it warns against. ⚠ STANCE-FIDELITY: verify any named rival frameworks it cites as worked steelman examples are represented faithfully and current. Check it still coheres with the post-2026-05-28 corpus (recent outer-review convergence work, positions register). PRESERVE calibration / evidential-status / citation-framing language; do not let a condense pass strip the method's load-bearing qualifiers.
-- **Source**: staleness
-- **Generated**: 2026-06-06
-
 ### P3: Write concept page on metaontological deflationism (easy ontology / quantifier variance)
 - **Type**: expand-topic
 - **Status**: pending
@@ -962,6 +954,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-06: Deep review apex/steelmanning-as-method.md (changed-since-review staleness, gap ~8d)
+- **Type**: deep-review
+- **Notes**: Changed-since-review: ai_modified 2026-06-05, last_deep_review 2026-05-28 (~8d gap), ai_contribution=100. Body changed after review. Apex synthesis (recency-density priority per replenish args) on the Map's adversarial method — "build the rival before the residue". Self-referential meta-article: its own argument quality is load-bearing for the method it advocates, so scrutinise for the very strawmanning it warns against. ⚠ STANCE-FIDELITY: verify any named rival frameworks it cites as worked steelman examples are represented faithfully and current. Check it still coheres with the post-2026-05-28 corpus (recent outer-review convergence work, positions register). PRESERVE calibration / evidential-status / citation-framing language; do not let a condense pass strip the method's load-bearing qualifiers.
 
 ### ✓ 2026-06-06: Deep review topics/self-stultification-as-master-argument.md (changed-since-review staleness, gap ~9d)
 - **Type**: deep-review

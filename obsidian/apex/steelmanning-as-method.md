@@ -3,7 +3,7 @@ title: "Steelmanning as Method: Building the Rival Before the Residue"
 created: 2026-05-27
 modified: 2026-05-27
 human_modified: null
-ai_modified: 2026-06-05T22:16:18+00:00
+ai_modified: 2026-06-06T00:00:00+00:00
 draft: false
 description: "A reusable method the Map performs but rarely names: build the strongest unified rival in its own vocabulary, grant that it absorbs the shape of the evidence, then isolate the narrow residue that survives. The constructive companion to constrain-vs-establish."
 topics: []
@@ -32,7 +32,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-27
 last_curated: null
-last_deep_review: 2026-05-28T00:00:00+00:00
+last_deep_review: 2026-06-06T00:00:00+00:00
 
 apex_sources:
   - project/evidential-status-discipline
