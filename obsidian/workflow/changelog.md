@@ -5,6 +5,11 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T01:43:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/weak-measurement-and-post-selection.md` (last deep review 2026-05-18; not pessimistic-reviewed recently; outside today's deep-review set). Citations spot-checked clean (AAV 1988, Hosten & Kwiat 2008, Ritchie/Story/Hulet 1991, Lundeen 2011 all verify). Two refine-grade findings, consolidated into ONE P2 refine-draft task: (1) falsifiability section advertises an in-principle-unfalsifiable Born-statistics "test"; (2) line-76 rhetorical escalation toward the realist weak-value reading in tension with the article's own stated even-handedness (epistemic/metaphysical equivocation).
+- **Output**: [[reviews/pessimistic-2026-06-06]]
+
 ## 2026-06-06T00:00:00+00:00 - deep-review
 - **Status**: Success (currency-sweep; changed-since-review = hub-link accretion only; publisher-of-record verification; no-op on body — converged, 8th pass)
 - **File**: [[topics/embodied-consciousness]]

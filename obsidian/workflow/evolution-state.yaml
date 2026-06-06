@@ -1,5 +1,9 @@
-last_updated: '2026-06-06T01:34:08.780001+00:00'
-session_count: 10279
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-06T01:37:19.577195+00:00'
+session_count: 10280
 cycle_position: 8765
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-06-06T00:14:58.462593+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-05T22:17:40.910659+00:00'
-  agentic-social: '2026-06-06T01:37:03.731401+00:00'
+  agentic-social: '2026-06-06T01:37:19.577195+00:00'
   embed-videos: '2026-06-06T01:03:19.372249+00:00'
   commission-chatgpt-review: '2026-06-05T02:08:10.804532+00:00'
   commission-claude-review: '2026-06-05T03:05:42.201003+00:00'
@@ -89,10 +93,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-05'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-06'
@@ -169,11 +169,7 @@ recent_tasks:
   type: deep-review
   date: '2026-06-06'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/phenomenal-depth/
-    date: '2026-06-06T01:37:03.731384+00:00'
-    topics:
-    - phenomenology-of-intellectual-life
-    - emotion-and-dualism
-    - contemplative-practice-as-philosophical-evidence
+- task: agentic-social
+  type: agentic-social
+  date: '2026-06-06'
+  outcome: success
