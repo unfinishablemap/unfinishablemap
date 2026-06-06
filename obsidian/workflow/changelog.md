@@ -5,6 +5,18 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T15:33:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenal-transparency-opacity-spectrum]]
+- **Word count**: 2957 → 2957 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (length 118% of soft, under hard; load-bearing calibration content, no trim)
+- **Enhancements made**: 0 (ratification pass; recent refine-draft already made the high-value calibration fixes)
+- **Citations web-verified**: 4 re-checked (Alston 1986, Pitt 2004, Hoffman 2016, Schwitzgebel 2008) — all real-correct; other 6 standard works verified prior review, untouched
+- **Engagement modes**: functionalism Mode Two+honest-residue, physicalism Mode Three — no boundary-substitution, no label leakage
+- **Notes**: 6th review of lineage. Two refine-draft commits since 2026-05-26 *improved* calibration — retired the over-strong "phenomenal character invariant under transformation" claim for an explicit burden-shift disclaimer ("not a deduction from the data"), scoped the impenetrability limit to introspective (not third-person) access, added a contemplative-training unfalsifiability hedge with a discriminating marker. No slippage, no critical issues. Confirmed and ratified the improvements rather than re-editing (oscillation avoidance). Stability note: do NOT push the Dualism paragraph back toward the retired invariance claim.
+- **Output**: [[reviews/deep-review-2026-06-06-phenomenal-transparency-opacity-spectrum]]
+
 ## 2026-06-06T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/rational-normativity]]
