@@ -9,6 +9,81 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-06T22:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [self-concealing-interface](/apex/self-concealing-interface/)
+- **Word count**: 3335 → 3317 (-18)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (calibration-guardrail article; expansion declined)
+- **Critical fix**: internal seam-class count inconsistency introduced by apex-evolve 2026-05-27. The article frames its seam taxonomy as **five** classes in five places (description, apex_thesis, intro, "five kinds of seam", common-cause-null caution) but apex-evolve had inserted Direction-of-interface-change as a standalone **sixth** peer seam-class. Demoted it to a sub-face of Graded-channel-failure — the placement both source articles dictate ("the graded-failure seam *contains but does not exhaust*"). All direction-of-change content and the wikilink preserved; body now has exactly five seam classes, matching every framing statement.
+- **Citation verify**: apex carries zero inline cites of its own (defers to source articles via wikilinks); §2.4 satisfied. Load-bearing recovery-order empirical anchors live in [recovery-order-asymmetry-as-interface-evidence](/topics/recovery-order-asymmetry-as-interface-evidence/), publisher-verified in its 2026-06-05 deep review.
+- **Engagement modes**: unchanged (two Map-internal voices — sceptic Mode One/Mixed, believer Mode Three concession); no label leakage.
+- **Output**: [deep-review-2026-06-06-self-concealing-interface](/reviews/deep-review-2026-06-06-self-concealing-interface/)
+
+## 2026-06-06T21:32:52+00:00 - deep-review
+- **Status**: Success (no-op convergence confirmation)
+- **File**: [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/)
+- **Word count**: 3495 → 3495 (0, frontmatter-only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; 140% of concepts soft threshold, length-neutral)
+- **Convergence note**: Re-qualified for review only because two cosmetic cross-link installs since the thorough 2026-05-26 deep review bumped `ai_modified` (the no-op-pass pattern convergence-damping targets). Git-confirmed body unchanged since 2026-05-26; that review verified all recent cites from primary sources and fixed the Wu et al. 2016 attribution. Citation layer not re-litigated. Single superlative ("measured to date") appropriately hedged — no currency defect. Interactionist-prediction passage re-scrutinised for possibility→probability slippage: within-framework retrodictive fit, bounded by "asymmetry alone does not decide between them" — no calibration error. New cross-link targets (`neural-refresh-rates`, `quantum-neural-timing-constraints`) resolve and are integrated. Watch the 3500 hard ceiling under continued cross-link accretion.
+- **Output**: [deep-review-2026-06-06-consciousness-bandwidth-architecture](/reviews/deep-review-2026-06-06-consciousness-bandwidth-architecture/)
+
+## 2026-06-06T21:04:05+00:00 - deep-review
+- **Status**: Success
+- **File**: [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/)
+- **Word count**: 2643 → 2642 (-1, length-neutral)
+- **Critical issues addressed**: 1 (wrong-author citation — "Hameroff, S. et al. 2025" → "Wiest, M. C. 2025"; the *Neuroscience of Consciousness* niaf011 microtubule paper is single-authored by Michael C. Wiest, verified Oxford Academic + PubMed; Hameroff is cited inside it but is not an author. Canonical form already used in [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/); deviant variant isolated to this article. Survived 3 prior reviews because only publisher-of-record verify catches wrong-author.)
+- **Medium issues addressed**: 1 (Hoel 2025 arXiv:2512.12802 mischaracterized as a biological-"proximity argument"; corrected to its actual title-named thesis — necessity of continual learning, which frozen-weight LLMs lack. Length-neutral reword.)
+- **Enhancements made**: 0 (at 106% of concept soft threshold; corrective edits only)
+- **Citation ledger**: Wiest 2025 — real-wrong-metadata (fixed); Hoel 2025 — real-correct metadata / argument-mischaracterized (fixed); Butlin et al. 2023 — real-correct (uncited background ref, left); Schwitzgebel/Metzinger/Long/Jackson/Block — verified prior, unchanged.
+- **Reasoning modes** (editor-internal): Schwitzgebel Mode Two; Metzinger Mode Three/mixed; functionalist Mode Three. No boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-06-06-ai-epiphenomenalism](/reviews/deep-review-2026-06-06-ai-epiphenomenalism/)
+
+## 2026-06-06T20:33:42+00:00 - refine-draft
+- **Status**: Success
+- **File**: [wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/)
+- **Task**: anchoring-calibration refine (topic-concept anchoring audit). Article failed 5 anchors (qualia, valence, evaluative-phenomenal-character, consciousness-value-connection, dualism), all on one global profile: hedge_density too low + strong_assertion_density too high. Persistent (prior 2026-06-05 qualia-calibration task did not move the metrics).
+- **Before**: word_count 1575, hedge_count 2 (1.27/kw), strong_assertion_count 4 (2.54/kw) → 5 anchoring flags
+- **After**: word_count 1584, hedge_count 4 (2.525/kw), strong_assertion_count 0 (0.0/kw) → 0 anchoring flags (all 5 + sibling anchoring task resolved)
+- **Changes**: Softened 4 over-asserting verbs into calibrated forms without weakening the central claim or voice — "refutes any naive picture" → "rules out" (×2: intro + What-it-establishes); section heading "does and does not establish" → "does and does not settle" with "establishes"→"secures"; "not because Berridge proves it" → "not because Berridge's findings settle it". Added load-bearing evidential hedges where the article already concedes the mechanism-only reading suffices: "explains every Berridge finding" → "appears to explain"; "they do not answer it" → "they do not seem to answer it". Length-neutral (+9 words). No over-hedging, no "This is not X. It is Y." cliché.
+- **Published**: yes
+
+## 2026-06-06T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [near-death-experiences](/concepts/near-death-experiences/)
+- **Word count**: 2696 → 2696 (frontmatter-only; 108% of 2500 soft, under 3500 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — seventh pass, fully converged. Confirmed the 2026-06-04 refine-draft's calibration improvements (epistemic-vs-metaphysical split in Dualism section; anti-tenet decoherence argument in MQI section; new one-pattern-not-three symmetry concession in Asymmetry Problem). All changed passages pass the §2 diagnostic test (tenet-accepting reviewer would not flag overstatement). §2.4 citations not re-verified — References byte-identical to the 2026-05-26 full primary-source audit (zero defects), no new bibliographic content. Engagement with the illusionist: Mode Two + boundary-marking, unchanged, no label leakage.
+- **Output**: [deep-review-2026-06-06-near-death-experiences](/reviews/deep-review-2026-06-06-near-death-experiences/)
+
+## 2026-06-06T19:34:46+00:00 - deep-review
+- **Status**: Success
+- **File**: [what-it-might-be-like-to-be-an-ai](/apex/what-it-might-be-like-to-be-an-ai/)
+- **Word count**: 4212 → 4277 (+65; soft_warning, well under 5000 apex hard threshold)
+- **Critical issues addressed**: 1 (orphan References — Block 1978 and Chalmers & McQueen 2021 had no inline anchor; both web-verified real-correct and re-anchored inline rather than deleted)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 inline citation anchors (Block, Chalmers & McQueen); length-offset tightening of Butlin paragraph + Wiest/Beshkar caveat
+- **§2.4 web-verify**: full publisher-of-record ledger run on all 12 references (new/changed since 2026-05-21: Neven 2024 repointed, Wiest 2025, Beshkar 2025, Butlin 2023/2025, Claude Constitution passage). All real-correct — no fabricated/wrong-metadata/wrong-paper cites. The only defect was orphan-direction cross-reference (entry without inline anchor), now fixed.
+- **Currency sweep**: 1 "so far" match, appropriately scoped; no superseded superlatives.
+- **Engagement classification** (editor-internal): Butlin et al. = Mode Three (framework-boundary marking, honest, no boundary-substitution). Self-stultification / illusionists / Cerullo = Mode One; standard-arguments = Mode Three (all unchanged).
+- **Calibration**: no possibility/probability slippage; new Claude Constitution passage exemplary (declares model self-report non-diagnostic). "none" preserved as most-likely for current systems.
+- **Output**: [deep-review-2026-06-06-what-it-might-be-like-to-be-an-ai](/reviews/deep-review-2026-06-06-what-it-might-be-like-to-be-an-ai/)
+
+## 2026-06-06T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/)
+- **Word count**: 2684 → 2684 (no content change; timestamp-only frontmatter update)
+- **Critical issues addressed**: 0 (sixth pass; convergence-confirmation no-op)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (deliberate no-op — converged article re-selected on cross-link ai_modified bumps, not substantive change)
+- **Post-change verification**: git-traced all 3 changes since the clean 2026-05-26 review — (1) 2026-05-31 mysterianism-calibration refine *softened* modal force (cannot introduce slippage), (2) 2026-06-01 one cross-link paragraph to [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/), (3) 2026-06-04 one related_articles bump. Zero citation/References/quote/attribution change → 2026-05-26 web-verified ledger stands (no per-cite re-verify; would be churn at 11 days on unchanged base). New cross-link paragraph verified faithful to target's thesis; all new wikilinks resolve.
+- **Reasoning-mode**: unchanged (no opponent prose modified); Chalmers/Aaronson Mode One→Three, Hawking Mode One; no label leakage.
+- **Output**: [deep-review-2026-06-06-self-reference-and-the-limits-of-physical-description](/reviews/deep-review-2026-06-06-self-reference-and-the-limits-of-physical-description/)
+
 ## 2026-06-06T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/)

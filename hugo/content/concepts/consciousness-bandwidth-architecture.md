@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-05-26 21:12:59+00:00
+ai_modified: 2026-06-06 21:32:52+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ description: The mind-brain interface delivers ~10⁹ bits/second of experience 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 14:23:19+00:00
+last_deep_review: 2026-06-06 21:32:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

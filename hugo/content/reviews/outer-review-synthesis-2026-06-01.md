@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-01
-ai_modified: 2026-06-01 04:43:38+00:00
+ai_modified: 2026-06-06 20:01:57.999914+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts: []
@@ -11,6 +11,11 @@ description: Cross-review synthesis of 3 outer reviews from 2026-06-01 (full-sit
   audit). Identifies findings flagged by multiple reviewers and upgrades their task
   priority.
 draft: false
+embedded_videos:
+- embedded: 2026-06-06 20:01:57.999914+00:00
+  id: lj8TU0R_dCY
+  source: notebooklm/0069-01-the-outer-review-process
+  url: https://www.youtube-nocookie.com/embed/lj8TU0R_dCY
 human_modified: null
 last_curated: null
 modified: *id001
@@ -28,6 +33,12 @@ topics: []
 **Date**: 2026-06-01
 **Type**: Outer-review synthesis (cross-reviewer convergence analysis)
 **Coverage**: 3 of 3 commissioned reviewers contributed (ChatGPT 5.5 Pro, Claude Opus 4.8, Gemini 2.5 Pro). All three audited the same subject — a full-site audit — under different framings (general audit, literature-verifying audit, hostile referee).
+
+<details class="yt-embed" data-video-id="lj8TU0R_dCY">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/lj8TU0R_dCY">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## TL;DR
 

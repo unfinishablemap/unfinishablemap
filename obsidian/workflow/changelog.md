@@ -5,6 +5,18 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T22:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/self-concealing-interface]]
+- **Word count**: 3335 → 3317 (-18)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (calibration-guardrail article; expansion declined)
+- **Critical fix**: internal seam-class count inconsistency introduced by apex-evolve 2026-05-27. The article frames its seam taxonomy as **five** classes in five places (description, apex_thesis, intro, "five kinds of seam", common-cause-null caution) but apex-evolve had inserted Direction-of-interface-change as a standalone **sixth** peer seam-class. Demoted it to a sub-face of Graded-channel-failure — the placement both source articles dictate ("the graded-failure seam *contains but does not exhaust*"). All direction-of-change content and the wikilink preserved; body now has exactly five seam classes, matching every framing statement.
+- **Citation verify**: apex carries zero inline cites of its own (defers to source articles via wikilinks); §2.4 satisfied. Load-bearing recovery-order empirical anchors live in [[topics/recovery-order-asymmetry-as-interface-evidence]], publisher-verified in its 2026-06-05 deep review.
+- **Engagement modes**: unchanged (two Map-internal voices — sceptic Mode One/Mixed, believer Mode Three concession); no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-06-self-concealing-interface]]
+
 ## 2026-06-06T21:32:52+00:00 - deep-review
 - **Status**: Success (no-op convergence confirmation)
 - **File**: [[concepts/consciousness-bandwidth-architecture]]
