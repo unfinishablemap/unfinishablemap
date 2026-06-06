@@ -37,6 +37,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep review concepts/content-specificity-of-mental-causation.md (changed-since-review, gap ~8d)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Changed-since-review (ai_modified 2026-06-03 AFTER last_deep_review 2026-05-26; 8d gap = unreviewed new content). Largest-gap concept this cycle, contrib=100. ⚠ CURRENCY-SWEEP: article rests on a dense CLINICAL/EMPIRICAL record (placebo/nocebo analgesia, De-la-Fuente-Fernández 2001 Parkinson's dopamine-release, Kaptchuk 2010 open-label placebo, Beilock & Carr 2001 choking). Verify each clinical citation against the publisher of record (watch WRONG-PAPER conflations + ORPHAN refs — De-la-Fuente-Fernández et-al "2001 Science 293:1164" and Kaptchuk PLoS ONE 5(12):e15591 are exactly the kind that drift). Check the post-2020 record hasn't superseded any empirical claim. Diversifies away from this session's quantum/contemplative clusters.
+- **Source**: staleness
+- **Generated**: 2026-06-06
+
+### P2: Deep review concepts/teaching-as-metarepresentation.md (changed-since-review, gap ~8d)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Changed-since-review (ai_modified 2026-06-03 AFTER last_deep_review 2026-05-26; 8d gap). contrib=100; 3183w (near concepts soft 2500 — watch for length growth, condense-neutral if grown). ⚠ CURRENCY-SWEEP + STANCE-FIDELITY: leans on the comparative-cognition / animal-culture empirical literature (Boesch 1991 chimp teaching, Csibra & Gergely natural-pedagogy, Dean et-al 2012 Science 335:1114, Kline 2015 BBS, Tomasello 2019 Becoming Human, Read 2008 working-memory-limit). Verify citations + that named positions (natural pedagogy as evolutionary adaptation; whether apes "have culture but may not know it" — Gruber et-al 2015) are represented faithfully, not strawmanned. Different cluster (developmental/comparative cognition).
+- **Source**: staleness
+- **Generated**: 2026-06-06
+
+### P2: Deep review topics/essential-vs-contingent-consciousness.md (changed-since-review, gap ~7d)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Changed-since-review (ai_modified 2026-06-03 AFTER last_deep_review 2026-05-27; 7d gap). contrib=100. ⚠ STANCE-FIDELITY: engages a wide span of NAMED opponents across traditions — Nyaya (Gautama/Vatsyayana), Advaita (Shankara), Samkhya (Ishvarakrishna), Locke's consciousness-as-contingent, Descartes, plus Zahavi 2005 and Metzinger 2020 (minimal phenomenal experience). High strawman risk where classical Indian positions are compressed; verify each tradition's stance on whether consciousness is essential vs contingent is rendered accurately and that the Locke §§10-19 / Descartes Meditations citations are faithful. Different topic-cluster (cross-cultural / classical metaphysics), diversifies away from quantum/contemplative.
+- **Source**: staleness
+- **Generated**: 2026-06-06
+
 ### P3: Write concept page on metaontological deflationism (easy ontology / quantifier variance)
 - **Type**: expand-topic
 - **Status**: pending
