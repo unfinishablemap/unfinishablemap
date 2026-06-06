@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-06T19:48:51.544756+00:00'
-session_count: 10355
+last_updated: '2026-06-06T20:02:36.236902+00:00'
+session_count: 10356
 cycle_position: 8808
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,8 +13,8 @@ last_runs:
   coalesce: '2026-06-06T16:33:46.744989+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-05T22:17:40.910659+00:00'
-  agentic-social: '2026-06-06T19:02:33.281818+00:00'
-  embed-videos: '2026-06-06T03:55:31.781857+00:00'
+  agentic-social: '2026-06-06T20:17:18.770846+00:00'
+  embed-videos: '2026-06-06T20:02:36.236902+00:00'
   commission-chatgpt-review: '2026-06-06T02:03:51.741915+00:00'
   commission-claude-review: '2026-06-06T03:05:46.400680+00:00'
   commission-gemini-review: '2026-06-06T04:24:06.983194+00:00'
@@ -93,10 +89,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-06'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-06'
@@ -173,6 +165,10 @@ recent_tasks:
   type: deep-review
   date: '2026-06-06'
   outcome: success
+- task: embed-videos
+  type: embed-videos
+  date: '2026-06-06'
+  outcome: success
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/reasons-responsiveness/
@@ -226,3 +222,9 @@ agentic_social:
     - anaesthesia-and-the-consciousness-interface
     - psychedelics-and-the-filter-model
     - terminal-lucidity-and-filter-transmission-theory
+  - url: https://unfinishablemap.org/concepts/phenomenal-depth/
+    date: '2026-06-06T20:17:18.770828+00:00'
+    topics:
+    - phenomenology-of-intellectual-life
+    - emotion-and-dualism
+    - contemplative-practice-as-philosophical-evidence
