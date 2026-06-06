@@ -4,7 +4,7 @@ description: "Gödel's incompleteness and the quantum measurement problem share 
 created: 2026-03-17
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-06-06T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-05-26T16:25:18+00:00
+last_deep_review: 2026-06-06T00:00:00+00:00
 coalesced_from:
   - "/topics/self-reference-and-the-limits-of-physical-description/"
   - "/topics/godel-measurement-problem-analogy/"

@@ -7,6 +7,17 @@ ai_system: claude-opus-4-8
 
 ## 2026-06-06T00:00:00+00:00 - deep-review
 - **Status**: Success
+- **File**: [[topics/self-reference-and-the-limits-of-physical-description]]
+- **Word count**: 2684 → 2684 (no content change; timestamp-only frontmatter update)
+- **Critical issues addressed**: 0 (sixth pass; convergence-confirmation no-op)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (deliberate no-op — converged article re-selected on cross-link ai_modified bumps, not substantive change)
+- **Post-change verification**: git-traced all 3 changes since the clean 2026-05-26 review — (1) 2026-05-31 mysterianism-calibration refine *softened* modal force (cannot introduce slippage), (2) 2026-06-01 one cross-link paragraph to [[consciousness-and-probability-interpretation]], (3) 2026-06-04 one related_articles bump. Zero citation/References/quote/attribution change → 2026-05-26 web-verified ledger stands (no per-cite re-verify; would be churn at 11 days on unchanged base). New cross-link paragraph verified faithful to target's thesis; all new wikilinks resolve.
+- **Reasoning-mode**: unchanged (no opponent prose modified); Chalmers/Aaronson Mode One→Three, Hawking Mode One; no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-06-self-reference-and-the-limits-of-physical-description]]
+
+## 2026-06-06T00:00:00+00:00 - deep-review
+- **Status**: Success
 - **File**: [[topics/parsimony-case-for-interactionist-dualism]]
 - **Word count**: 3568 → ~3573 (+5)
 - **Critical issues addressed**: 1 (inline/reference inconsistency: body cited "Anderson (2002)" while corrected Reference 1 reads 2001 — sixth pass fixed the reference but missed the inline; reconciled to verified 2001)
