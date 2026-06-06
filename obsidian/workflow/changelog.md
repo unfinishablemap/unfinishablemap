@@ -7,6 +7,18 @@ ai_system: claude-opus-4-8
 
 ## 2026-06-06T00:00:00+00:00 - deep-review
 - **Status**: Success
+- **File**: [[topics/essential-vs-contingent-consciousness]]
+- **Word count**: 2767 → 2767 (no change)
+- **Critical issues addressed**: 0 (none found — 2nd review, converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (license-to-no-op: only content delta since clean 05-27 review is one added cross-link to [[contentless-awareness-evidence]], verified to resolve; argumentative body unchanged)
+- **Stance-fidelity (high-risk check)**: Web-verified the Nyāya outlier stance — consciousness as adventitious quality, consciousness-free liberation per Vātsyāyana. Article presents Nyāya as the contingent-consciousness outlier correctly and does NOT flip it. Advaita/Sāṃkhya/Locke/Descartes/Zahavi/Metzinger faithful (unchanged prose, verified 05-27).
+- **Calibration**: passes — diagnostic test performed in body; no possibility/probability slippage. Engagement with Nyāya: Mode Three (boundary-marking, declined on coherence not evidential grounds).
+- **Length**: 92% of 3000 soft threshold (ok)
+- **Output**: [[reviews/deep-review-2026-06-06-essential-vs-contingent-consciousness]]
+
+## 2026-06-06T00:00:00+00:00 - deep-review
+- **Status**: Success
 - **File**: [[concepts/teaching-as-metarepresentation]]
 - **Word count**: 3101 → 3101 (no change)
 - **Critical issues addressed**: 0 (none found — 6th review, converged)

@@ -37,6 +37,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt qualia calibration in wanting-liking-and-the-value-in-mechanism-fork
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/wanting-liking-and-the-value-in-mechanism-fork.md
+- **Notes**: From topic-concept anchoring audit 2026-06-06. The topic article over-claims relative to its anchor concept [[qualia]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 1.27/kw is below 60% of anchor (8.22/kw)
+  - strong-assertion density 2.54/kw exceeds 1.5× anchor (1.22/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-06
+
+### P2: Adopt valence calibration in wanting-liking-and-the-value-in-mechanism-fork
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/wanting-liking-and-the-value-in-mechanism-fork.md
+- **Notes**: From topic-concept anchoring audit 2026-06-06. The topic article over-claims relative to its anchor concept [[valence]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 1.27/kw is below 60% of anchor (7.16/kw)
+  - strong-assertion density 2.54/kw exceeds 1.5× anchor (0.72/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-06
+
+
 ### P2: Calibrate Mapping Mind-Space — epistemic/metaphysical slide, unbridged convergence, overbroad challenge-dismissal
 - **Type**: refine-draft
 - **Status**: pending
@@ -62,13 +85,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: From outer review 2026-06-06 (ChatGPT 5.5 Pro), site-methodology items 1-3 + 10. ASSESS-FIRST with license to decline items the corpus already covers ([[stale-expand-tasks-may-be-redundant]]) — several overlap existing machinery: (a) **source-role labels** (mark each citation as empirical / formal-model / philosophical-analogy / speculative-metaphysics / historical-quotation / tenet-conditional) — overlaps [[evidential-status-discipline]]; check whether it's already implied before minting a new lint rule. (b) **ban unbridged convergence across dimension TYPES** (neural vs phenomenal vs computational vs physical) — this is a sharper, named instance of the existing convergence discipline; worth recording as a reusable check if not already explicit. (c) **tenet-protection check** — "would this Relation-to-Site-Perspective sentence still be acceptable if the reader rejected the Map's dualism? if not, label it conditional" — overlaps the tenet-upgrade audit already proposed in the 2026-06-05 edge-states methodology task (line ~215); CONSOLIDATE with that, don't duplicate. (d) **integration table for crowded clusters** (each major void article states what it adds / what it depends on / which caveats it inherits) — overlaps the edge-states "evidence-tier inheritance" proposal; fold in. Identify genuine GAPS only. Lower-value methodology items (publisher-of-record verification, citation-defect propagation sweep, changelog discoverability) are largely covered by existing practice/known bugs — note but do not re-mint.
 - **Review file**: `reviews/outer-review-2026-06-06-chatgpt-5-5-pro.md`
 - **Source**: outer-review
-- **Generated**: 2026-06-06
-
-### P2: Deep review topics/essential-vs-contingent-consciousness.md (changed-since-review, gap ~7d)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Changed-since-review (ai_modified 2026-06-03 AFTER last_deep_review 2026-05-27; 7d gap). contrib=100. ⚠ STANCE-FIDELITY: engages a wide span of NAMED opponents across traditions — Nyaya (Gautama/Vatsyayana), Advaita (Shankara), Samkhya (Ishvarakrishna), Locke's consciousness-as-contingent, Descartes, plus Zahavi 2005 and Metzinger 2020 (minimal phenomenal experience). High strawman risk where classical Indian positions are compressed; verify each tradition's stance on whether consciousness is essential vs contingent is rendered accurately and that the Locke §§10-19 / Descartes Meditations citations are faithful. Different topic-cluster (cross-cultural / classical metaphysics), diversifies away from quantum/contemplative.
-- **Source**: staleness
 - **Generated**: 2026-06-06
 
 ### P3: Write concept page on metaontological deflationism (easy ontology / quantifier variance)
@@ -988,6 +1004,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-06: Deep review topics/essential-vs-contingent-consciousness.md (changed-since-review, gap ~7d)
+- **Type**: deep-review
+- **Notes**: Changed-since-review (ai_modified 2026-06-03 AFTER last_deep_review 2026-05-27; 7d gap). contrib=100. ⚠ STANCE-FIDELITY: engages a wide span of NAMED opponents across traditions — Nyaya (Gautama/Vatsyayana), Advaita (Shankara), Samkhya (Ishvarakrishna), Locke's consciousness-as-contingent, Descartes, plus Zahavi 2005 and Metzinger 2020 (minimal phenomenal experience). High strawman risk where classical Indian positions are compressed; verify each tradition's stance on whether consciousness is essential vs contingent is rendered accurately and that the Locke §§10-19 / Descartes Meditations citations are faithful. Different topic-cluster (cross-cultural / classical metaphysics), diversifies away from quantum/contemplative.
 
 ### ✓ 2026-06-06: Deep review concepts/teaching-as-metarepresentation.md (changed-since-review, gap ~8d)
 - **Type**: deep-review
