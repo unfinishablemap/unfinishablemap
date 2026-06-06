@@ -5,6 +5,20 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T23:36:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-memory-and-the-self]]
+- **Task**: Web-verify 6 `pending human verification` citations flagged by pessimistic-2026-06-06c (3-state discipline)
+- **Verdicts**:
+  - **Klein 2012** ("The self and its brain", *Social Cognition* 30(4):474–518) — CORRECT. Marker stripped.
+  - **Klein 2014** ("Sameness and the self...", *Frontiers in Psychology* 5:29) — CORRECT. Marker stripped.
+  - **Robins 2016** ("Misremembering", *Philosophical Psychology* 29(3):432–447) — CORRECT. Marker stripped.
+  - **Tippett, Prebble & Addis 2018** — real-paper-WRONG-TITLE. Real title "The Persistence of **the Self over Time** in Mild Cognitive Impairment and Alzheimer's Disease" (Frontiers in Psychology 9:94, PubMed 29515473). Title corrected, marker stripped.
+  - **Gentry 2021** — real-paper-WRONG-TITLE (sourced from a 2026-05-10 outer review, not the literature). Real paper: Hunter Gentry, "Special Attention to the Self: a Mechanistic Model of Patient RB's Lost Feeling of Ownership", *Review of Philosophy and Psychology* 14:57–85. Cited title "A self-attentional account of mineness deficits in DID and depersonalization" is fabricated. Corrected author initial (B.→H.), title, vol/pages; adjusted the inline use at the Integrated-source-monitoring steelman so the source-monitoring framework is attributed to Johnson/Hashtroudi/Lindsay 1993 and Gentry's self-attentional feeling-of-ownership model is described accurately rather than folded into source-monitoring theory.
+  - **Dings 2022** (LOAD-BEARING) — FABRICATED metadata AND unsupported attribution. No paper "Dings (2022). On for-me-ness, mineness, and personal identity. *Phenomenology and the Cognitive Sciences*" exists. The only real 2022 Dings paper (Dings & McCarroll, "The Complex Phenomenology of Episodic Memory", *J. Consciousness Studies* 29(11–12):29–55) is about felt connectedness / qualitative identity and explicitly sets aside numerical identity and for-me-ness — it does NOT support either claim attributed to "Dings (2022)" at lines 126 & 130. Removed Dings from the for-me-ness-too-thin argument and from the branching-streams clause; the argument still stands on Lane (2012), Guillot (2017), and Howell & Thompson (2017), all verified-relevant. Removed the reference entry.
+- **Body length**: 3192 → 3170 words (length-neutral, soft-warning, under 4000 hard ceiling)
+- **Published**: yes (draft:false preserved)
+
 ## 2026-06-06T23:02:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/phenomenology-of-memory-and-the-self.md` (oldest 0-pessimistic-mention non-index article; last_deep_review 2026-05-16)

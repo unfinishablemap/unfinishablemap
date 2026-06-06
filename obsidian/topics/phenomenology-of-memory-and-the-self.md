@@ -4,7 +4,7 @@ description: "Remembering is not retrieving stored data but re-inhabiting a pers
 created: 2026-02-13
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-05-16T07:23:00+00:00
+ai_modified: 2026-06-06T23:36:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -123,11 +123,11 @@ What Proustian memory reveals is the *aspiration* built into the memory-self rel
 
 ## Mineness: synchronic feature or diachronic identity-ground?
 
-The earlier sections move from synchronic mineness—for-me-ness built into each present experience—to diachronic claims about a self that persists *through* remembering. Lane (2012), Guillot (2017), Howell and Thompson (2017), and Dings (2022) argue from inside the phenomenological tradition that for-me-ness is too thin to ground numerical identity across experiences. Each of yesterday's experiences was for-someone; each of today's is for-someone; nothing in the synchronic feature alone tells us the someone is the same.
+The earlier sections move from synchronic mineness—for-me-ness built into each present experience—to diachronic claims about a self that persists *through* remembering. Lane (2012), Guillot (2017), and Howell and Thompson (2017) argue from inside the phenomenological tradition that for-me-ness is too thin to ground numerical identity across experiences. Each of yesterday's experiences was for-someone; each of today's is for-someone; nothing in the synchronic feature alone tells us the someone is the same.
 
 The weak claim—every experience is given in the first-person mode—is Zahavian. The strong claim—the same numerically identical subject has all of *these* experiences and not others—is a metaphysical thesis the phenomenology underdetermines. The No-Many-Worlds inference requires the strong claim: bare for-me-ness is satisfied trivially across Everettian branches; the objection bites only if there is a fact about which for-someone is *me*.
 
-The bridging work is done by an auxiliary commitment: [[haecceity]] applied to the conscious subject—the "deep further fact" Parfit denied. Phenomenology delivers the explanandum; haecceity supplies the identity-grounding fact. Howell and Thompson defend minimal-self mineness while rejecting any deeper-fact commitment; Dings reads for-me-ness as compatible with branching streams. The disagreement sits at the framework boundary.
+The bridging work is done by an auxiliary commitment: [[haecceity]] applied to the conscious subject—the "deep further fact" Parfit denied. Phenomenology delivers the explanandum; haecceity supplies the identity-grounding fact. Howell and Thompson defend minimal-self mineness while rejecting any deeper-fact commitment, leaving for-me-ness compatible with branching streams. The disagreement sits at the framework boundary.
 
 Klein and Nichols's (2012) dissociation has the same architecture. The dualist reading takes mineness as a phenomenal feature severable from informational retrieval; the modular-tag physicalist reading posits distinct networks for hippocampal retrieval and medial-prefrontal self-referential tagging. Both predict the dissociation; neither is forced by it. For the modular hypothesis to be complete, it must specify what it is for the tagging network's output to *feel like* mine—the hard problem in self-tagging form.
 
@@ -135,7 +135,7 @@ Klein and Nichols's (2012) dissociation has the same architecture. The dualist r
 
 The three load-bearing inferences—pastness as irreducible, mineness as a separable phenomenal feature, and the No-Many-Worlds inference—each face a strong contemporary alternative. [[coherence-inflation-countermeasures|Countering coherence inflation]] requires recording the residues honestly.
 
-**Integrated source-monitoring.** Source-monitoring theory (Johnson, Hashtroudi & Lindsay 1993; Gentry 2021) posits a multi-channel attribution system integrating perceptual detail, contextual binding, affective tone, cognitive operations, fluency, and inferential evaluation, weighted by self-relevance and confidence. On the strong version, the felt character of remembering *is* what such a system feels like from the inside. Reply: source-monitoring identifies the mechanism; whether mechanism-identification suffices for *why mechanism-output is experienced at all* is the [[hard-problem-of-consciousness|hard problem]] relocated one tier up, not dissolved.
+**Integrated source-monitoring.** Source-monitoring theory (Johnson, Hashtroudi & Lindsay 1993) posits a multi-channel attribution system integrating perceptual detail, contextual binding, affective tone, cognitive operations, fluency, and inferential evaluation, weighted by self-relevance and confidence. Gentry (2021) extends the family with a self-attentional model on which the felt ownership of a recollection tracks self-bias salience in broadcasting episodic content to the global workspace. On the strong version, the felt character of remembering *is* what such a system feels like from the inside. Reply: source-monitoring identifies the mechanism; whether mechanism-identification suffices for *why mechanism-output is experienced at all* is the [[hard-problem-of-consciousness|hard problem]] relocated one tier up, not dissolved.
 
 **Everettian branch-local mineness.** On the Vaidman-line reading of [[many-worlds|Many-Worlds]], each decohered branch contains observers with determinate memories of a unique past *within that branch*. Both ontologies predict identical first-person reports. Reply: the No-Many-Worlds inference does not run through memory phenomenology alone but through the auxiliary [[haecceity]] commitment above. The disagreement is at the framework boundary.
 
@@ -192,16 +192,15 @@ The conclusions stand only inside the Map's auxiliary commitments: hard-problem 
 1. Lane, T. (2012). Toward an explanatory framework for mental ownership. *Phenomenology and the Cognitive Sciences*, 11(2), 251–286.
 1. Guillot, M. (2017). I me mine: On a confusion concerning the subjective character of experience. *Review of Philosophy and Psychology*, 8(1), 23–53.
 1. Howell, R. J., & Thompson, B. (2017). Phenomenally mine: In search of the subjective character of consciousness. *Review of Philosophy and Psychology*, 8(1), 103–127.
-1. Dings, R. (2022). On for-me-ness, mineness, and personal identity. *Phenomenology and the Cognitive Sciences*. [citation pending human verification]
 1. Rosenbaum, R. S., Köhler, S., Schacter, D. L., Moscovitch, M., Westmacott, R., Black, S. E., Gao, F., & Tulving, E. (2005). The case of K.C.: Contributions of a memory-impaired person to memory theory. *Neuropsychologia*, 43(7), 989–1021.
-1. Tippett, L. J., Prebble, S. C., & Addis, D. R. (2018). The persistence of identity through time in mild cognitive impairment and Alzheimer's disease. *Frontiers in Psychology*, 9, 94. [citation details pending human verification]
-1. Klein, S. B. (2012). The self and its brain. *Social Cognition*, 30(4), 474–518. [citation pending human verification]
-1. Klein, S. B. (2014). Sameness and the self: Philosophical and psychological considerations. *Frontiers in Psychology*, 5, 29. [citation pending human verification]
+1. Tippett, L. J., Prebble, S. C., & Addis, D. R. (2018). The persistence of the self over time in mild cognitive impairment and Alzheimer's disease. *Frontiers in Psychology*, 9, 94.
+1. Klein, S. B. (2012). The self and its brain. *Social Cognition*, 30(4), 474–518.
+1. Klein, S. B. (2014). Sameness and the self: Philosophical and psychological considerations. *Frontiers in Psychology*, 5, 29.
 1. Bernecker, S. (2010). *Memory: A Philosophical Study*. Oxford University Press.
 1. McCarroll, C. J. (2018). *Remembering from the Outside: Personal Memory and the Perspectival Mind*. Oxford University Press.
-1. Robins, S. K. (2016). Misremembering. *Philosophical Psychology*, 29(3), 432–447. [citation pending human verification]
+1. Robins, S. K. (2016). Misremembering. *Philosophical Psychology*, 29(3), 432–447.
 1. Johnson, M. K., Hashtroudi, S., & Lindsay, D. S. (1993). Source monitoring. *Psychological Bulletin*, 114(1), 3–28.
-1. Gentry, B. (2021). A self-attentional account of mineness deficits in dissociative identity disorder and depersonalization. *Review of Philosophy and Psychology*. [citation details pending human verification — cited in 2026-05-10 ChatGPT 5.5 Pro outer review]
+1. Gentry, H. (2021). Special attention to the self: A mechanistic model of patient RB's lost feeling of ownership. *Review of Philosophy and Psychology*, 14, 57–85.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.
 
 
