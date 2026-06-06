@@ -37,7 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: [CONVERGENCE FLAG] Gemini+Claude+ChatGPT 06-06 converge on mapping-mind-space (unbridged convergence + Carr source-tier + tenet-asymmetry)
+### P2: Install altered-state symmetry framing in non-temporal-consciousness
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-06-06b. Supportive cluster cited heavily (Jhana, Nirodha Samapatti, witness consciousness, Advaita, Zen kenshō, Christian apophasis — cross-tradition "structural recurrence" line 67). Disruptive cluster IS cited (propofol/Lewis 2012/Mashour 2012, split-brain) but only as support for the interface reading; no parallel-accommodation framing. Two fixes, both light-touch: (a) at close of "Meditative Evidence" (~line 67) note the cross-tradition cluster carries the evidential weight of ONE pattern, not five independent confirmations; (b) in fragmentation section (~line 91) note a production/identity theorist has the SAME accommodation move for anaesthesia/split-brain, so those cases constrain rather than confirm. Also (minor): line 93 names "Lopez's layered alternative" with NO Lopez entry in References (dangling attribution) and ref 18 (2025 layered-unity model) is author-less — verify author/DOI. Preserve the article's evidential-status discipline; do NOT over-hedge. See pessimistic-2026-06-06b.md
+
+
 - **Type**: cross-review
 - **Status**: pending
 - **File**: obsidian/voids/mapping-mind-space.md
