@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review concepts/blindsight.md (changed-since-review staleness, gap ~5d)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/concepts/blindsight.md
-- **Notes**: Changed-since-review: last_deep_review 2026-05-27, ai_modified 2026-06-01 (body changed AFTER review), ai_contribution=100. Clinical-neuroscience evidence page (residual visual processing without acknowledged awareness; ~8 post-2019 cites incl. Phillips 2021) — load-bearing for the access-vs-phenomenal-consciousness dissociation arguments. ⚠ CURRENCY-SWEEP WARRANTED on any empirical/clinical superlative (e.g. "patient GY", strongest-evidence / latest-study framings) — a correct cite's "current record" claim may be superseded (distinct from metadata defects). WEB-VERIFY the contemporary blindsight cites (Phillips 2021 type-2-blindsight debate, any unconscious-perception meta-analyses) against the live 2020s literature; AI citation metadata is unreliable. PRESERVE calibration / evidential-status / citation-framing language; do not overstate what blindsight establishes about phenomenal consciousness.
-- **Source**: staleness
-- **Generated**: 2026-06-06
-
 ### P3: Write concept page on metaontological deflationism (easy ontology / quantifier variance)
 - **Type**: expand-topic
 - **Status**: pending
@@ -962,6 +954,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-06: Deep review concepts/blindsight.md (changed-since-review staleness, gap ~5d)
+- **Type**: deep-review
+- **Notes**: Changed-since-review: last_deep_review 2026-05-27, ai_modified 2026-06-01 (body changed AFTER review), ai_contribution=100. Clinical-neuroscience evidence page (residual visual processing without acknowledged awareness; ~8 post-2019 cites incl. Phillips 2021) — load-bearing for the access-vs-phenomenal-consciousness dissociation arguments. ⚠ CURRENCY-SWEEP WARRANTED on any empirical/clinical superlative (e.g. "patient GY", strongest-evidence / latest-study framings) — a correct cite's "current record" claim may be superseded (distinct from metadata defects). WEB-VERIFY the contemporary blindsight cites (Phillips 2021 type-2-blindsight debate, any unconscious-perception meta-analyses) against the live 2020s literature; AI citation metadata is unreliable. PRESERVE calibration / evidential-status / citation-framing language; do not overstate what blindsight establishes about phenomenal consciousness.
 
 ### ✓ 2026-06-06: Adopt valence calibration in wanting-liking-and-the-value-in-mechanism-fork
 - **Type**: refine-draft

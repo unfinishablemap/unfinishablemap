@@ -5,6 +5,18 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T00:00:00+00:00 - deep-review
+- **Status**: Success (changed-since-review = citation-fix only; publisher-of-record verification; no-op on body — converged)
+- **File**: [[concepts/blindsight]]
+- **Word count**: 2843 → 2843 (+0; 114% of 2500 concept soft threshold, length-neutral verification pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Web-verification**: 5 contemporary/load-bearing cites verified at publisher of record (full author-vector + year + venue + volume + pages + STANCE). Phillips 2021 *Psych Review* 128(3):558-584 — CLEAN, and stance CORRECT (challenges the unconscious-perception reading; article does NOT misrepresent him as endorsing it — the flagged high-risk stance-reversal trap is absent). Persaud et al. 2011 *NeuroImage* 58(2):605-611 — clean. Lau & Passingham 2006 *PNAS* 103(49):18763-18768 — clean (2011 criterion-confound critique exists but article cites under hedged interpretation 2; no supersession action). de Gelder et al. 1999 *NeuroReport* 10(18):3759-3763 — clean. Scott et al. 2014 *Psych Science* 25(12) — clean. Block 1995 page range now correct (227-247, the fix that triggered selection).
+- **Reasoning modes** (re-confirmed, unchanged): illusionism Mode One; physicalist Response-1 Mode Two; epiphenomenalism Mode Three. No label leakage.
+- **Note**: only change since 2026-05-27 sixth review was commit 4c43ba841 (Block page-range citation fix). Calibration/currency audit clean — phenomenal-vs-function claims consistently interpretation-conditioned. Convergence holds (7th review). Recommend metadata-only changes not re-trigger full deep review.
+- **Output**: [[reviews/deep-review-2026-06-06-blindsight]]
+
 ## 2026-06-06T01:19:59+00:00 - deep-review
 - **Status**: Success (changed-since-review; publisher-of-record citation pass; near-no-op)
 - **File**: [[concepts/selection-criterion-problem]]
