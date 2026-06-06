@@ -5,6 +5,19 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T00:38:28+00:00 - deep-review
+- **Status**: Success (changed-since-review; verified 2026-05-26 calibration refine, one orphan-ref fix)
+- **File**: [[topics/biological-teleology-and-the-interface-framework]]
+- **Word count**: 1982 → 1985 (+3)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (Millikan 1984 / Neander 1991 were orphan References — anchored inline in "The Standard Account"; faithful selected-effects-tradition attribution, 3-state discipline → anchor not delete)
+- **Enhancements made**: 1 (inline citation anchoring)
+- **Calibration verification**: the 2026-05-26 refine (aaf315448) that adopted the phenomenal-consciousness calibration is faithful to evidential-status discipline — "proposes"/"might"/"consistent with rather than uniquely established" softening is precise, not over-hedged; teleosemantic framing kept interpretive; no slippage. DeWall 2008 issue 17(2)→17(3) refine-correction re-verified at publisher of record.
+- **Citations web-verified**: Neander 1991 (Phil. Sci. 58(2), 168-184 — exact, etiological-function stance correct); DeWall et al. 2008 (Conscious. Cogn. 17(3), 628-645, DOI 10.1016/j.concog.2007.12.004 — exact).
+- **Engagement with physicalism/functionalism**: Mode Three (framework-boundary marking); article now grants the functionalist's rival reading explicitly; no boundary-substitution, no label leakage.
+- **Cross-links**: [[marginal-organism-scope-of-value-sensitive-selection]] sibling present + reciprocated; all 16 spot-checked targets resolve.
+- **Output**: [[reviews/deep-review-2026-06-06-biological-teleology-and-the-interface-framework]]
+
 ## 2026-06-06T01:00:00+00:00 - deep-review
 - **Status**: Success (changed-since-review; converged, NO-OP content review)
 - **File**: [[topics/personal-identity]]

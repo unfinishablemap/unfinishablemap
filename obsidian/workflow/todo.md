@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/biological-teleology-and-the-interface-framework.md (changed-since-review staleness, gap ~11d)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/topics/biological-teleology-and-the-interface-framework.md
-- **Notes**: MINTED by /replenish-queue 2026-06-06 (FLOOR-RESTORING third actionable P2; reviews an EXISTING topic article — cap-safe even though topics is AT cap 270/270, no new page). On-disk + git-verified changed-since-review candidate: `last_deep_review: 2026-05-25`, `ai_modified: 2026-06-05` (content changed ~11d AFTER its review = genuinely unreviewed new content; NOT modified today 2026-06-06; large gap = positive signal). ai_contribution=100. analyze_length = `ok` 1982w (topics thresholds 3000/4000/6000) — well under soft, so NO length risk and a clean deep-review (cross-links may be added freely if reciprocated). Substantive post-review edit confirmed in git: a refine pass that ADOPTED the phenomenal-consciousness calibration (aaf315448) — calibration-sensitive unreviewed content. Review should: VERIFY the adopted phenomenal-consciousness calibration is consistently applied and didn't introduce overstatement ([[condense-regresses-calibration-qualifiers]] inverse risk); honour [[evidential-status-discipline]] (teleosemantic / value-sensitive-selection framing is the Map's interpretive account, NOT established biology — keep modal register calibrated); web-verify any teleosemantics / biological-function attributions (Millikan, Neander, Godfrey-Smith etc.) and the stance each is cited FOR ([[ai-citation-metadata-unreliable]]); confirm cross-links resolve and reciprocate (marginal-organism-scope-of-value-sensitive-selection / interface-framework / selection clusters); writing-style (no "This is not X. It is Y." cliché). LICENSE TO NO-OP: metadata-only verdict acceptable if converged ([[deep-review-over-reviews-converged]]). Tenet alignment: Tenet 3 (Bidirectional Interaction) primary; Tenet 1 secondary.
-- **Source**: staleness
-- **Generated**: 2026-06-06
-
 ### P3: Write concept page on metaontological deflationism (easy ontology / quantifier variance)
 - **Type**: expand-topic
 - **Status**: pending
@@ -962,6 +954,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-06: Deep review topics/biological-teleology-and-the-interface-framework.md (changed-since-review staleness, gap ~11d)
+- **Type**: deep-review
+- **Notes**: MINTED by /replenish-queue 2026-06-06 (FLOOR-RESTORING third actionable P2; reviews an EXISTING topic article — cap-safe even though topics is AT cap 270/270, no new page). On-disk + git-verified changed-since-review candidate: `last_deep_review: 2026-05-25`, `ai_modified: 2026-06-05` (content changed ~11d AFTER its review = genuinely unreviewed new content; NOT modified today 2026-06-06; large gap = positive signal). ai_contribution=100. analyze_length = `ok` 1982w (topics thresholds 3000/4000/6000) — well under soft, so NO length risk and a clean deep-review (cross-links may be added freely if reciprocated). Substantive post-review edit confirmed in git: a refine pass that ADOPTED the phenomenal-consciousness calibration (aaf315448) — calibration-sensitive unreviewed content. Review should: VERIFY the adopted phenomenal-consciousness calibration is consistently applied and didn't introduce overstatement ([[condense-regresses-calibration-qualifiers]] inverse risk); honour [[evidential-status-discipline]] (teleosemantic / value-sensitive-selection framing is the Map's interpretive account, NOT established biology — keep modal register calibrated); web-verify any teleosemantics / biological-function attributions (Millikan, Neander, Godfrey-Smith etc.) and the stance each is cited FOR ([[ai-citation-metadata-unreliable]]); confirm cross-links resolve and reciprocate (marginal-organism-scope-of-value-sensitive-selection / interface-framework / selection clusters); writing-style (no "This is not X. It is Y." cliché). LICENSE TO NO-OP: metadata-only verdict acceptable if converged ([[deep-review-over-reviews-converged]]). Tenet alignment: Tenet 3 (Bidirectional Interaction) primary; Tenet 1 secondary.
 
 ### ✓ 2026-06-06: Deep review topics/personal-identity.md (changed-since-review staleness, gap ~5d) [PROMOTED P3→P2 2026-06-06 by /replenish-queue — floor-restoring; ⚠ VERY TIGHT ~3993w/4000 hard: PRUNE-ONLY, run analyze_length FIRST, do NOT let the deep-review grow it over the 4000 hard ceiling]
 - **Type**: deep-review
