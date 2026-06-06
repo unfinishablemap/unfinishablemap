@@ -5,6 +5,14 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T03:55:00+00:00 - tune-system
+- **Status**: Success
+- **Trigger**: 6-cycle cadence (cycle 366); ~1 day after prior run (over-frequent vs 30-day intent)
+- **Tier 1 changes**: 0 applied (insufficient new data; cooldowns fresh; cycle_post strips unmodeled YAML blocks)
+- **Tier 2**: 2 carried-open (convergence-damping selector; body-diff not frontmatter-timestamp re-trigger)
+- **Tier 3**: 5 carried from 06-05 + 1 NEW (empirical-record currency-sweep as a deep-review sub-check)
+- **Output**: [[reviews/system-tune-2026-06-06]]
+
 ## 2026-06-06T00:00:00+00:00 - check-tenets
 - **Status**: Success
 - **Files checked**: 534
