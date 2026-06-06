@@ -95,14 +95,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-06-05
 
-### P2: Deep review concepts/ai-epiphenomenalism.md (changed-since-review staleness, gap ~9d)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/concepts/ai-epiphenomenalism.md
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-06-06 (floor-restoring at saturation; topics 270/270, voids 101/100, concepts 260/270; no unconsumed research). GROUNDEDNESS-VERIFIED: post-review git diff (bf30151e9→HEAD) added genuinely NEW content, NOT cross-link/frontmatter churn. CITATION-BEARING (top-ranked): the Hoel 2025 reference was rewritten from a vague "Working paper" to a specific title + "arXiv:2512.12802 (preprint, not peer-reviewed)" — WEB-VERIFY this arXiv ID, title, and 2025 date against the live record (the recurring AI-citation-metadata-unreliable / inline-year-vs-References-contradiction risk lives exactly here). Also new prose: the [[anti-correlation-probes-for-ai-consciousness]] architectural-test paragraph (a proposed test design, NOT a delivered result — keep that framing) and the [[gaming-problem]] doubly-decoupled-marker passage; verify both reciprocate inbound. Changed-since-review: ai_modified 2026-06-04, last_deep_review 2026-05-26 (~9-day gap), ai_contribution=100. Bears directly on AI-consciousness epistemics (Tenet 1 contrast position). WEB-VERIFY any epiphenomenalism / AI-consciousness citations against the live literature. PRESERVE calibration / evidential-status / citation-framing and the training-contamination confound framing; do not overstate what introspective reports from AI systems can establish.
-- **Source**: staleness
-- **Generated**: 2026-06-05
-
 ### P3: Write article on the valence selection-advantage assay (design/methodology)
 - **Type**: expand-topic
 - **Status**: pending
@@ -949,6 +941,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-06: Deep review concepts/ai-epiphenomenalism.md (changed-since-review staleness, gap ~9d)
+- **Type**: deep-review
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-06-06 (floor-restoring at saturation; topics 270/270, voids 101/100, concepts 260/270; no unconsumed research). GROUNDEDNESS-VERIFIED: post-review git diff (bf30151e9→HEAD) added genuinely NEW content, NOT cross-link/frontmatter churn. CITATION-BEARING (top-ranked): the Hoel 2025 reference was rewritten from a vague "Working paper" to a specific title + "arXiv:2512.12802 (preprint, not peer-reviewed)" — WEB-VERIFY this arXiv ID, title, and 2025 date against the live record (the recurring AI-citation-metadata-unreliable / inline-year-vs-References-contradiction risk lives exactly here). Also new prose: the [[anti-correlation-probes-for-ai-consciousness]] architectural-test paragraph (a proposed test design, NOT a delivered result — keep that framing) and the [[gaming-problem]] doubly-decoupled-marker passage; verify both reciprocate inbound. Changed-since-review: ai_modified 2026-06-04, last_deep_review 2026-05-26 (~9-day gap), ai_contribution=100. Bears directly on AI-consciousness epistemics (Tenet 1 contrast position). WEB-VERIFY any epiphenomenalism / AI-consciousness citations against the live literature. PRESERVE calibration / evidential-status / citation-framing and the training-contamination confound framing; do not overstate what introspective reports from AI systems can establish.
 
 ### ✓ 2026-06-06: Adopt qualia calibration in wanting-liking-and-the-value-in-mechanism-fork
 - **Type**: refine-draft

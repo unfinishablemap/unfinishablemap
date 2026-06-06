@@ -5,6 +5,17 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T21:04:05+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/ai-epiphenomenalism]]
+- **Word count**: 2643 → 2642 (-1, length-neutral)
+- **Critical issues addressed**: 1 (wrong-author citation — "Hameroff, S. et al. 2025" → "Wiest, M. C. 2025"; the *Neuroscience of Consciousness* niaf011 microtubule paper is single-authored by Michael C. Wiest, verified Oxford Academic + PubMed; Hameroff is cited inside it but is not an author. Canonical form already used in [[topics/quantum-holism-and-phenomenal-unity]]; deviant variant isolated to this article. Survived 3 prior reviews because only publisher-of-record verify catches wrong-author.)
+- **Medium issues addressed**: 1 (Hoel 2025 arXiv:2512.12802 mischaracterized as a biological-"proximity argument"; corrected to its actual title-named thesis — necessity of continual learning, which frozen-weight LLMs lack. Length-neutral reword.)
+- **Enhancements made**: 0 (at 106% of concept soft threshold; corrective edits only)
+- **Citation ledger**: Wiest 2025 — real-wrong-metadata (fixed); Hoel 2025 — real-correct metadata / argument-mischaracterized (fixed); Butlin et al. 2023 — real-correct (uncited background ref, left); Schwitzgebel/Metzinger/Long/Jackson/Block — verified prior, unchanged.
+- **Reasoning modes** (editor-internal): Schwitzgebel Mode Two; Metzinger Mode Three/mixed; functionalist Mode Three. No boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-06-ai-epiphenomenalism]]
+
 ## 2026-06-06T20:33:42+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/wanting-liking-and-the-value-in-mechanism-fork]]
