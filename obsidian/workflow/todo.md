@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: [CONVERGENCE FLAG] Claude 06-06 echoes ChatGPT 06-06 on mapping-mind-space (unbridged convergence + Carr source-tier + empirical staleness)
+- **Type**: cross-review
+- **Status**: pending
+- **File**: obsidian/voids/mapping-mind-space.md
+- **Notes**: Informational convergence marker, NOT a separate edit task (the edits live in the tasks below + the ChatGPT-generated calibration task at "Calibrate Mapping Mind-Space"). Two same-date outer reviewers (ChatGPT 5.5 Pro + Claude Opus 4.8) independently converged on THREE structural findings about `voids/mapping-mind-space.md`: (1) **unbridged convergence** — the "Convergent Arguments for Missing Dimensions" section treats neural / phenomenal / functional / physical dimension-TYPES as independent converging lines with no bridge argument (both reviewers; matches corpus-wide [[evidential-status-discipline]] "ban unbridged convergence"). (2) **Carr (and Sjöstedt-Hughes) source-tier** — speculative / parapsychology-adjacent sources presented in the same evidential register as neuroscience (both reviewers). (3) **empirical staleness / tenet-protective bracketing** — the article omits the live 2016-2026 externally-measurable mind-space mapping literature and brackets objections to protect dualism (both reviewers). When `/combine-outer-reviews` fires for 2026-06-06, UPGRADE these convergent findings and DEDUPLICATE against the ChatGPT calibration task + the Claude tasks below (do not run the same edit twice — consolidate into ONE editor pass per [[outer-review-same-file-task-pileup]]). A Gemini 06-06 review of the same subject is still pending; expect a third leg.
+- **Review file**: `reviews/outer-review-2026-06-06-claude-opus-4-8.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-06
+
+### P2: Fix conceptual origin-misattribution + co-optation of naturalist authors in Mapping Mind-Space
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/voids/mapping-mind-space.md
+- **Notes**: From outer review 2026-06-06 (Claude Opus 4.8), Findings 2-4 — VERIFIED in the review's Verification Notes (Sloman origin + Birch/Carr confirmed by live web-search this cycle). Distinct from the ChatGPT "Calibrate" task (that one is the prose epistemic/metaphysical-slide pass; this one is author-attribution accuracy). (a) **Origin-misattribution (mechanical, high-confidence)**: body line 46 credits "Murray Shanahan's 'space of possible minds'." The phrase + research program originate with **Aaron Sloman, "The Structure of the Space of Possible Minds," in *The Mind and the Machine: Philosophical Aspects of AI*, ed. S. Torrance (Ellis Horwood, 1984), pp. 35-42** — Shanahan himself credits Sloman. Re-credit Sloman (1984) as originator with Shanahan (2010) as development; ADD Sloman to the References list. (b) **Co-optation of Shanahan/McGinn/Schwitzgebel** — the article enlists three naturalists toward a dualist reading they reject. Apply the [[direct-refutation-discipline]] remit: where naturalist authors are cited for their epistemic-limit arguments, mark in natural journal-quality prose that their own frameworks are anti-dualist (Shanahan: Wittgensteinian/anti-metaphysical; McGinn: "naturalistic but not constructive," rejects dualism; Schwitzgebel: crazyist symmetry, credence in dualism "not much above 50%") — cite the epistemic limit honestly but do not present these authors as tilting toward the dualist/high-dimensional destination. Keep mode labels OUT of the article body (editor-internal; note in the refine changelog per [[writing-style]]). Length-neutral; preserve load-bearing hedges; no "This is not X. It is Y." cliché.
+- **Review file**: `reviews/outer-review-2026-06-06-claude-opus-4-8.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-06
+
+### P2: Fix Carr citation + engage omitted 2016-2026 mind-space mapping literature in Mapping Mind-Space
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/voids/mapping-mind-space.md
+- **Notes**: From outer review 2026-06-06 (Claude Opus 4.8), Findings 5 + 8 — VERIFIED this cycle (Carr Nova 2021 chapter, Birch 2020 five dimensions confirmed by web-search). Two parts. (a) **Carr citation + source-tier (mechanical)**: References entry 9 "Carr, B. (2015) ... PhilArchive" — the canonical published form is **Carr (2021), "Making Space and Time for Consciousness in Physics," Ch. 7 in *Perspectives on Consciousness*, ed. P. Dennison (Nova Science Publishers), pp. 319-350**. NOTE for the editor: the PhilArchive and Nova versions are the SAME essay (the Claude reviewer slightly overstated by implying PhilArchive is a "weaker variant" — Verification Notes corrects this), so update to the published citation but do not treat it as a different source. Also flag Carr's SPR / parapsychology-adjacent standing so the "higher-dimensional physics" line is not presented as a peer of the neuroscience citations. (b) **Empirical staleness**: the article's thesis anchors are Nagel 1974 / McGinn 1989 / Shanahan 2010 and it omits the live externally-measurable mind-space mapping literature that is the direct counter-thesis. Add and ENGAGE (don't just list) the strongest of: Bayne/Hohwy/Owen "Are There Levels of Consciousness?" (TiCS 2016); Birch/Schnell/Clayton "Dimensions of Animal Consciousness" (TiCS 24(10):789-801, 2020 — five dimensions, "consciousness profile"); Butlin/Long et al. "Consciousness in AI" (arXiv 2308.08708 / TiCS 2026); Hernández-Orallo *The Measure of All Minds* (2017); Yampolskiy "The Universe of Minds" (2014, builds on Sloman). The article CAN reply that these measure functional/behavioural proxies not phenomenal mind-space (per the dualism tenet) — but it must MAKE that argument rather than omit the literature (apply [[direct-refutation-discipline]]: the framework-boundary reply in natural prose). VERIFY each citation at the publisher of record before insertion ([[ai_citation_metadata_unreliable]]). Watch the soft length threshold (voids article) — engage selectively, don't bloat.
+- **Review file**: `reviews/outer-review-2026-06-06-claude-opus-4-8.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-06
+
+### P2: Methodology — co-optation gate + origin-attribution check from Claude mapping-mind-space review
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/project/calibration-audit-triple.md
+- **Notes**: From outer review 2026-06-06 (Claude Opus 4.8), methodology items B-1 and B-8. ASSESS-FIRST with license to decline overlap ([[stale-expand-tasks-may-be-redundant]]); CONSOLIDATE with the sibling ChatGPT methodology task ("Methodology proposals from mapping-mind-space outer review") rather than minting parallel rules — both land in calibration-audit-triple.md and overlap heavily. Two distinct Claude proposals worth recording IF not already implied: (a) **Co-optation gate** — before any non-dualist author (Shanahan, McGinn, Nagel, Schwitzgebel, Dennett, Metzinger, etc.) is cited in support of a Map conclusion, require a verified one-line statement of that author's ACTUAL position + an explicit check the article is not inverting it (keyed to a maintained "naturalist roster"). This article would have failed it 3×. Sharper than the ChatGPT "source-role labels" proposal (which tags evidential register, not stance-inversion) — record as a complementary check. (b) **Extend citation-verification to origin-attribution** — the existing bibliographic web-verify caught no metadata defects here but MISSED the conceptual origin error (crediting Shanahan not Sloman); add a "who originated this concept/phrase" check to the verification pass. Genuine gaps only; don't re-mint what [[evidential-status-discipline]] already covers.
+- **Review file**: `reviews/outer-review-2026-06-06-claude-opus-4-8.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-06
+
 ### P2: Adopt qualia calibration in wanting-liking-and-the-value-in-mechanism-fork
 - **Type**: refine-draft
 - **Status**: pending

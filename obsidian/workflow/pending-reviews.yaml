@@ -1394,9 +1394,9 @@
   commissioned_at: '2026-06-06T03:05:07.827524+00:00'
   prompt_summary: Audit voids/mapping-mind-space (mind-space surveyability + dimensionality)
   target_filename: outer-review-2026-06-06-claude-opus-4-8.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-06T04:31:11.970580+00:00'
   failure_reason: null
   prompt_text: "I'm seeking a rigorous outer review of one article from The Unfinishable\
     \ Map, a dualist philosophy-of-mind project (consciousness fundamental and irreducible).\
