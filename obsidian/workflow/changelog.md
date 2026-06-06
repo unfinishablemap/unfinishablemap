@@ -5,6 +5,17 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/weak-measurement-and-post-selection]]
+- **Word count**: 2910 → 2910 (+0)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found; prior calibration drift resolved + further hardened by same-day refine e6df70be)
+- **Enhancements made**: 0 (same-day refine pre-empted calibration work; length-neutral, no churn)
+- **Citation web-verify**: 4 load-bearing cites re-verified at publisher of record (AAV 1988, Ferrie & Combes 2014, Hosten & Kwiat 2008, Lundeen et al. 2011) — all real-correct; remaining 5 carried from 2026-05-18 ledger (References block untouched)
+- **Convergence**: Third review; article stable. No named-opponent engagements; no editor-vocabulary leakage.
+- **Output**: [[reviews/deep-review-2026-06-06-weak-measurement-and-post-selection]]
+
 ## 2026-06-06T07:42:36+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-06-06
