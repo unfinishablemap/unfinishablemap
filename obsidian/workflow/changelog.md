@@ -5,6 +5,18 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T00:55:21+00:00 - deep-review
+- **Status**: Success (citation-currency/supersession pass; REGRESSION caught + propagation cleaned)
+- **File**: [[topics/dream-consciousness]]
+- **Word count**: 3202 → 3218 (+16, length-neutral; soft_warning 107%)
+- **Critical issues addressed**: 1 — Konkoly 2026 statistic was internally contradictory (prose/table "42% vs 17%" but caveat "9 of 23"=39%). Verified at publisher of record (Oxford Academic niaf067 Fig 4 + PMC12875123): **42%/17% is CORRECT**; the 2026-05-29 deep-review's "correction" to 39%/16% was itself WRONG and the 2026-06-02 apex review half-reverted it, leaving the contradiction. Removed fabricated "9 of 23" raw count (not in paper); added p=.037 (main GLMM) / p=.057 (chi-square trend) calibration the article had omitted.
+- **Propagation cleaned**: 39/16 + "9 of 23" corrected to 42/17 in live research note `dreams-problem-solving-lucid-dreaming-2026-02-06` + 4 archive copies (lucid-dreaming-as-capability-evidence, dreams-as-consciousness-laboratory, dream-problem-solving-and-conscious-influence, dreams-problem-solving-and-consciousness). Review/changelog/todo audit-trail left untouched.
+- **Currency sweep**: Konkoly 2021 two-way comms still the landmark peer-reviewed result (2024-26 REMspace/IJoDR follow-ups extend, don't supersede); Bilzer & Monzel 2025 Vision 9(2):37 re-verified clean (prior Fazekas-miscite fix confirmed landed); Horowitz 2023 qualitative claim clean.
+- **Reasoning modes**: Illusionism = Mode Two; Epiphenomenalism = Mode Mixed. No label leakage. No edits.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (significance-calibration of the headline statistic)
+- **Output**: [[reviews/deep-review-2026-06-06-dream-consciousness]]
+
 ## 2026-06-06T00:38:28+00:00 - deep-review
 - **Status**: Success (changed-since-review; verified 2026-05-26 calibration refine, one orphan-ref fix)
 - **File**: [[topics/biological-teleology-and-the-interface-framework]]

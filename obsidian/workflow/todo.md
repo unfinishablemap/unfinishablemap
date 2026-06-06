@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/dream-consciousness.md (changed-since-review staleness, gap ~7d)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/topics/dream-consciousness.md
-- **Notes**: Changed-since-review: last_deep_review 2026-05-29, ai_modified 2026-06-05 (body changed AFTER review), ai_contribution=100. Highest empirical-citation density of all clean candidates this cycle (~24 post-2019 year-mentions) — bleeding-edge sleep/dream-neuroscience record (Konkoly et al. 2021/2026 two-way lucid-dream communication, Bilzer & Monzel 2025, Horowitz et al. 2023, *Neuroscience of Consciousness* 2026). ⚠ CURRENCY-SWEEP WARRANTED: this is an experimental/empirical-record article — beyond ordinary metadata defects, audit any "first / largest / latest / current record" superlative attached to a correct cite for SUPERSESSION (cf. the Pedalino-supersedes-Fein catch). WEB-VERIFY the 2024-2026 lucid-dreaming / dream-content-decoding cites against the live literature; AI citation metadata is unreliable (check title + venue, not just author+year). PRESERVE calibration / evidential-status / citation-framing language and the speculative-hedge framing.
-- **Source**: staleness
-- **Generated**: 2026-06-06
-
 ### P2: Deep review concepts/probability-objections-many-worlds.md (changed-since-review staleness, gap ~9d)
 - **Type**: deep-review
 - **Status**: pending
@@ -978,6 +970,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-06: Deep review topics/dream-consciousness.md (changed-since-review staleness, gap ~7d)
+- **Type**: deep-review
+- **Notes**: Changed-since-review: last_deep_review 2026-05-29, ai_modified 2026-06-05 (body changed AFTER review), ai_contribution=100. Highest empirical-citation density of all clean candidates this cycle (~24 post-2019 year-mentions) — bleeding-edge sleep/dream-neuroscience record (Konkoly et al. 2021/2026 two-way lucid-dream communication, Bilzer & Monzel 2025, Horowitz et al. 2023, *Neuroscience of Consciousness* 2026). ⚠ CURRENCY-SWEEP WARRANTED: this is an experimental/empirical-record article — beyond ordinary metadata defects, audit any "first / largest / latest / current record" superlative attached to a correct cite for SUPERSESSION (cf. the Pedalino-supersedes-Fein catch). WEB-VERIFY the 2024-2026 lucid-dreaming / dream-content-decoding cites against the live literature; AI citation metadata is unreliable (check title + venue, not just author+year). PRESERVE calibration / evidential-status / citation-framing language and the speculative-hedge framing.
 
 ### ✓ 2026-06-06: Deep review topics/biological-teleology-and-the-interface-framework.md (changed-since-review staleness, gap ~11d)
 - **Type**: deep-review

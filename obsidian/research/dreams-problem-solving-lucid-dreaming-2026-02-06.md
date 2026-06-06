@@ -35,7 +35,7 @@ Dreams occupy a unique position in the philosophy of consciousness: they are con
 ### Konkoly et al. (2026) — Dream incubation and problem-solving
 - **URL**: https://academic.oup.com/nc/article/2026/1/niaf067/8456489
 - 20 participants; soundtracks for unsolved puzzles played during REM (targeted memory reactivation)
-- puzzles incorporated into dreams solved 39% vs. 16% for non-incorporated (9 of 23 incorporated puzzles solved)
+- puzzles incorporated into dreams solved 42% vs. 17% for non-incorporated (significant in main regression model, p = .037; non-significant trend p = .057 in simpler chi-square)
 - Cues influenced non-lucid dreams—lucidity not required for the effect
 - **Tenet relevance**: Supports Bidirectional Interaction—dream consciousness actively solves problems, not merely replaying memories
 

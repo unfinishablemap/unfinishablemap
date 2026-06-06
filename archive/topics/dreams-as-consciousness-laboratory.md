@@ -71,7 +71,7 @@ Konkoly et al. (2021) extended signal verification into genuine dialogue. Across
 
 ### Targeted Memory Reactivation
 
-The Konkoly et al. (2026) study introduced a method for experimentally influencing dream content. When puzzle-associated soundtracks were played during REM sleep, dreamers who incorporated those puzzles into their dreams solved them at more than double the rate of non-incorporated puzzles (39% versus 16%). Though the sample was small (N=20), pre-selected for lucid dreaming ability, and awaits replication, the study provides preliminary causal evidence that dream incorporation improves problem-solving—not through memory consolidation alone, but through active cognitive processing within the dream.
+The Konkoly et al. (2026) study introduced a method for experimentally influencing dream content. When puzzle-associated soundtracks were played during REM sleep, dreamers who incorporated those puzzles into their dreams solved them at more than double the rate of non-incorporated puzzles (42% versus 17%). Though the sample was small (N=20), pre-selected for lucid dreaming ability, and awaits replication, the study provides preliminary causal evidence that dream incorporation improves problem-solving—not through memory consolidation alone, but through active cognitive processing within the dream.
 
 ### Sleep-Onset Incubation
 

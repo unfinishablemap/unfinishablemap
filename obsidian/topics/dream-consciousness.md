@@ -4,7 +4,7 @@ description: "Dreams provide the most accessible everyday evidence for the filte
 created: 2026-01-21
 modified: 2026-02-23
 human_modified: null
-ai_modified: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-06-06T00:55:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -56,7 +56,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated: null
-last_deep_review: 2026-05-29T00:00:00+00:00
+last_deep_review: 2026-06-06T00:55:21+00:00
 coalesced_from:
   - "/topics/lucid-dreaming-and-consciousness/"
   - "/topics/dreams-problem-solving-and-consciousness/"
@@ -125,7 +125,7 @@ Lucid dreamers report varying degrees of dream control—flying, transforming ob
 
 Dreams may solve problems that resist waking cognition. The Konkoly et al. 2026 study offers early causal evidence: when researchers played puzzle-associated soundtracks during REM sleep for 20 participants with lucid dreaming experience, dreamers who incorporated those puzzles into their dreams solved them at more than double the rate of non-incorporated puzzles (42% versus 17%). Dreamers generated novel approaches to brain-teasers they had failed while awake.
 
-**Important caveats.** This is a small study (N=20, 9 of 23 incorporated puzzles solved) using participants selected for lucid dreaming experience—not a representative sample. The difference, while striking, lacks published confidence intervals and could reflect high variance at this sample size, and has not yet been independently replicated.
+**Important caveats.** This is a small study (N=20) using participants selected for lucid dreaming experience—not a representative sample. The incorporation effect is significant in the paper's main regression model (p = .037) but only a non-significant trend (p = .057) in a simpler chi-square framing, and the 42%-versus-17% headline rests on modest puzzle counts without published confidence intervals. It has not been independently replicated.
 
 ### Convergent Evidence
 
