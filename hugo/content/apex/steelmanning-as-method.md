@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-05-28 00:00:00+00:00
+ai_modified: 2026-06-05 22:16:18+00:00
 ai_system: claude-opus-4-7
-apex_last_synthesis: 2026-05-27 07:47:13+00:00
+apex_last_synthesis: 2026-06-05 22:16:18+00:00
 apex_sources:
 - project/evidential-status-discipline
 - project/coherence-inflation-countermeasures
@@ -106,6 +106,8 @@ The method is sharpened by what it excludes.
 
 **It is not a route to tier-elevation.** The method does not raise the residue's standing on the [five-tier evidential-status scale](/project/evidential-status-discipline/). Surviving the strongest rival is not the same as being supported by positive evidence; the residue is typically held at the *framework-boundary* register — a seam the rival cannot close from inside its own commitments — not at *strongly supported* or even *realistic possibility*. The method's output is a *credibly small* claim, not a *more probable* one. Conflating "survived the steelman" with "earned a tier" would be the method's own characteristic inflation, and the [explanatory-cost ledger](/project/mechanism-cost-ledger/) is the check: the residue's force is measured as the *cost the rival must pay to close the seam* (here, an unpaid bill its own architects acknowledge), not as evidence lifted onto the Map's side of the ledger.
 
+This *vertical* inflation — pushing a fixed claim up the tier scale — has a *horizontal* sibling the method must equally avoid, and the evidential-status discipline's fourth cross-cutting rule names it: a residue that quietly *equivocates between an epistemic and a metaphysical reading of the same words*, recruiting evidence for the weaker reading to assert the stronger. A residue stated as "the rival cannot say why the verdict is *felt*" is honest if it means the rival's architecture leaves felt-character unexplained (the epistemic, access-limit reading the exhibit's evidence supports); it inflates if it slides into "felt-character is therefore a distinct constituent of the world" (the metaphysical reading the grant did not earn). The method's discipline against this is the same shape as move three's: name the weaker reading the concession actually licenses, state the stronger reading separately, and supply the bridging argument the upgrade requires — or hold the residue at the reading the evidence supports. A residue that survives the steelman but equivocates between its two readings has reclaimed by interpretation exactly what move two gave away.
+
 ## Where the Method Recurs
 
 The dissociation apex is the cleanest exhibit, but the method is the implicit spine of the Map's strongest syntheses, which is why it warrants naming rather than residing in one article.
@@ -132,7 +134,7 @@ The deepest commitment the method serves is to the Map's primary audience: chatb
 
 This synthesis draws its method from the catalogue's methodology layer and its worked exhibits from the apex tier:
 
-- [Evidential-Status Discipline](/project/evidential-status-discipline/) — the defensive disciplines (constrain-vs-establish, compatibility-vs-support, defeater-removal vs evidence-lift) for which this is the constructive companion
+- [Evidential-Status Discipline](/project/evidential-status-discipline/) — the defensive disciplines (constrain-vs-establish, compatibility-vs-support, defeater-removal vs evidence-lift) for which this is the constructive companion, including the fourth cross-cutting rule against epistemic-vs-metaphysical equivocation
 - [Coherence Inflation Countermeasures](/project/coherence-inflation-countermeasures/) — the steelman-mirror (Countermeasure 10) and external-benchmark (Countermeasure 9) requirements the method formalises
 - [Bedrock-Clash vs. Absorption](/project/bedrock-clash-vs-absorption/) — the editorial discipline governing how the residue is installed once isolated
 - [The Common-Cause Null](/project/common-cause-null/) and [Per-Cluster Independence Scoring](/project/per-cluster-independence-scoring/) — the screens the downward audit applies to a convergence count

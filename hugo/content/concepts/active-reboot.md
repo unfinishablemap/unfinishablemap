@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-18
-ai_modified: 2026-06-05 12:40:38+00:00
+ai_modified: 2026-06-05 21:45:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -128,7 +128,7 @@ The Map treats active reboot as an architectural finding that bears on the inter
 2. Mashour, G. A., Pal, D., & Brown, E. N. (2021). Prefrontal cortex as a key node in arousal circuitry. *Trends in Neurosciences*, 44(11), 909–921.
 3. Bhatt, M. B., Bowen, S., Rossiter, H. E., et al. (2021). Recovery of consciousness and cognition after general anesthesia in humans. *eLife*, 10, e59525. https://elifesciences.org/articles/59525
 4. Redinbaugh, M. J., Phillips, J. M., Kambi, N. A., et al. (2020). Thalamus modulates consciousness via layer-specific control of cortex. *Neuron*, 106(1), 66–75. https://doi.org/10.1016/j.neuron.2020.01.005
-5. Sepúlveda, P. O., Carrasco, E., Tapia, L. F., et al. (2019). Neural inertia and differences between loss of and recovery from consciousness during total intravenous anaesthesia: a narrative review. *Anaesthesia*, 74(6), 801–807.
+5. Sepúlveda, P. O., Tapia, L. F., & Monsalves, S. (2019). Neural inertia and differences between loss of and recovery from consciousness during total intravenous anaesthesia: a narrative review. *Anaesthesia*, 74(6), 801–809.
 6. Friedman, E. B., Sun, Y., Moore, J. T., et al. (2010). A conserved behavioral state barrier impedes transitions between anesthetic-induced unconsciousness and wakefulness. *PLOS ONE*, 5(7), e11903.
 7. Mashour, G. A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(10), 1553-1567. https://doi.org/10.1016/j.neuron.2024.03.002
 8. Montupil, J., Cardone, P., Staquet, C., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100224. https://doi.org/10.1016/j.bjao.2023.100224

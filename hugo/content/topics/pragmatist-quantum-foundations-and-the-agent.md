@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-19
-ai_modified: 2026-06-04 12:30:00+00:00
+ai_modified: 2026-06-05 21:29:25+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ description: QBism, Healey, Brukner-Zeilinger, and Stapp all place an agent at t
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-31 19:34:14+00:00
+last_deep_review: 2026-06-05 21:29:25+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -168,11 +168,11 @@ The four positions converge on a structural frame in which agents matter irreduc
 3. Fuchs, C. A. (2014). My Struggles with the Block Universe. arXiv:1405.2390.
 4. Fuchs, C. A. (2017). On Participatory Realism. In I. T. Durham & D. Rickles (Eds.), *Information and Interaction: Eddington, Wheeler, and the Limits of Knowledge* (pp. 113–134). Springer.
 5. Fuchs, C. A., Mermin, N. D., & Schack, R. (2014). An Introduction to QBism with an Application to the Locality of Quantum Mechanics. *American Journal of Physics*, 82(8), 749–754.
-6. Glick, D. (2021). QBism and the Limits of Scientific Realism. *European Journal for Philosophy of Science*, 11, 42.
-7. Healey, R. (2008). Quantum Theory: A Pragmatist Approach. arXiv:1008.3896.
+6. Glick, D. (2021). QBism and the Limits of Scientific Realism. *European Journal for Philosophy of Science*, 11, 53.
+7. Healey, R. (2010). Quantum Theory: A Pragmatist Approach. arXiv:1008.3896.
 8. Healey, R. (2017). *The Quantum Revolution in Philosophy*. Oxford University Press.
 9. James, W. (1907). *Pragmatism: A New Name for Some Old Ways of Thinking*. Longmans, Green and Co.
-10. Khrennikov, A. (2016). Reflections on Zeilinger–Brukner Information Interpretation of Quantum Mechanics. *Foundations of Physics*, 46, 836–853.
+10. Khrennikov, A. (2016). Reflections on Zeilinger–Brukner Information Interpretation of Quantum Mechanics. *Foundations of Physics*, 46, 836–844.
 11. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 12. Saunders, S. (2010). Chance in the Everett Interpretation. In S. Saunders, J. Barrett, A. Kent, & D. Wallace (Eds.), *Many Worlds? Everett, Quantum Theory, and Reality* (pp. 181–205). Oxford University Press.
 13. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory According to the Everett Interpretation*. Oxford University Press.

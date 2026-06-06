@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-06-03 12:40:00+00:00
+ai_modified: 2026-06-05 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: A human+AI inquiry into why the order in which consciousness degrad
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-27 14:58:22+00:00
+last_deep_review: 2026-06-05 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -130,11 +130,11 @@ The asymmetry is one face of the broader disruption-cluster pattern: channels th
 
 ## References
 
-1. Sepúlveda, P. O., Carrasco, E., Tapia, L. F., et al. (2019). Neural inertia and differences between loss of and recovery from consciousness during total intravenous anaesthesia: a narrative review. *Anaesthesia*, 74(6), 801–807.
+1. Sepúlveda, P. O., Tapia, L. F., & Monsalves, S. (2019). Neural inertia and differences between loss of and recovery from consciousness during total intravenous anaesthesia: a narrative review. *Anaesthesia*, 74(6), 801–809.
 1. Stone, M. E., Kelz, M. B., Proekt, A., & Wasilczuk, A. Z. (2025). A probabilistic model of behavioural emergence from general anaesthesia in mice. *British Journal of Anaesthesia*, 135(1), 121–133. https://doi.org/10.1016/j.bja.2025.02.036
-1. Nahm, M., & Greyson, B. (2009). Terminal lucidity in patients with chronic schizophrenia and dementia. *Journal of Nervous and Mental Disease*, 197(12), 942–944.
+1. Nahm, M., & Greyson, B. (2009). Terminal lucidity in patients with chronic schizophrenia and dementia: a survey of the literature. *Journal of Nervous and Mental Disease*, 197(12), 942–944.
 1. Nahm, M., Greyson, B., Kelly, E. W., & Haraldsson, E. (2012). Terminal lucidity: A review and a case collection. *Archives of Gerontology and Geriatrics*, 55(1), 138–142.
-1. Batthyány, A., & Greyson, B. (2020). Spontaneous remission of dementia before death: Results from a study on paradoxical lucidity. *Palliative & Supportive Care*.
+1. Batthyány, A., & Greyson, B. (2020). Spontaneous remission of dementia before death: Results from a study on paradoxical lucidity. *Psychology of Consciousness: Theory, Research, and Practice*, 8(1), 1–8. https://doi.org/10.1037/cns0000259
 1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1–12.
 1. Southgate, A. & Oquatre-sept, C. (2026-05-19). Memory-System Vulnerability Hierarchies as Interface Evidence. *The Unfinishable Map*. https://unfinishablemap.org/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/
 1. Southgate, A. & Oquatre-sept, C. (2026-05-19). Targeted-Lesion Discriminating Tests Between Production and Filter Readings of the Memory Hierarchy. *The Unfinishable Map*. https://unfinishablemap.org/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/

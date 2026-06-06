@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-06-03 17:53:05+00:00
+ai_modified: 2026-06-05 23:15:03+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/cSU9xQDKiW4
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-28 00:00:00+00:00
+last_deep_review: 2026-06-05 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -109,7 +109,7 @@ What this maps: a descending channel from conscious intention to motor execution
 
 This inverts blindsight's logic. Blindsight: processing without experience. Alien hand: action without intention. Together they define the bidirectional interface—ascending channels carry content to consciousness; descending channels carry commands from consciousness. Either direction can fail independently.
 
-Alien hand syndrome also has a non-structural mirror image. [Conversion disorder](/topics/conversion-disorder-as-consciousness-side-fault/) disconnects the same descending motor channel through purely psychogenic functional decoupling—no lesion required—and produces the inverse presentation: conscious selection without action, where alien hand shows action without conscious selection. The two cases isolate the same channel from opposite directions and through mechanistically disjoint routes (structural damage versus functional decoupling), which is what makes the channel's separability a finding rather than an artefact of any single lesion.
+Alien hand syndrome also has a non-structural mirror image. [Conversion disorder](/topics/conversion-disorder-as-consciousness-side-fault/) captures the same descending motor channel through active top-down generation rather than structural damage—no lesion required—and produces the inverse presentation: conscious selection without executed action, where alien hand shows action without conscious selection. The functional-neurological mechanism is an abnormally precise motor prior that actively generates the symptom—not a severed pathway: imaging shows increased amygdala-to-supplementary-motor-area connectivity (Voon et al., 2010), and the Bayesian account treats the symptom as inference dominated by a high-precision prior overriding sensory and volitional input (Edwards et al., 2012). The channel's *output* is functionally overridden, not disconnected. The two cases isolate the same channel from opposite directions and through mechanistically disjoint routes (structural disconnection versus active functional capture), which is what makes the channel's separability a finding rather than an artefact of any single lesion.
 
 The alien hand also illuminates [motor selection](/concepts/motor-selection/). The Map's framework proposes that consciousness selects among competing motor plans. Alien hand syndrome shows what happens when that selection mechanism is bypassed: the brain's default dynamics—affordance competition resolved by neural threshold-crossing—produce action without conscious governance. The "decisions" the alien hand makes are precisely the kind of stochastically resolved competitions that the Map claims consciousness normally arbitrates.
 
@@ -233,5 +233,7 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 1. Norretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
 1. Nagel, T. (1971). Brain Bisection and the Unity of Consciousness. *Synthese*, 22(3-4), 396–413.
 1. Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Oxford University Press.
+1. Voon, V., Brezing, C., Gallea, C., et al. (2010). Emotional stimuli and motor conversion disorder. *Brain*, 133(5), 1526–1536. doi:10.1093/brain/awq054.
+1. Edwards, M. J., Adams, R. A., Brown, H., Pareés, I., & Friston, K. J. (2012). A Bayesian account of 'hysteria'. *Brain*, 135(11), 3495–3512. doi:10.1093/brain/aws129.
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). Interface Friction. *The Unfinishable Map*. https://unfinishablemap.org/concepts/interface-friction/
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). Pain Asymbolia. *The Unfinishable Map*. https://unfinishablemap.org/concepts/pain-asymbolia/

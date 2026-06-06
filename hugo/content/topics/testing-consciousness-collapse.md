@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-05-27 06:10:00+00:00
+ai_modified: 2026-06-05 23:55:35+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ description: Can experiments distinguish consciousness-driven collapse from deco
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 15:12:26+00:00
+last_deep_review: 2026-06-05 23:55:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -82,7 +82,7 @@ An ideal experiment would compare a quantum system measured by a conscious obser
 
 **Gran Sasso (2022):** Curceanu and colleagues searched for spontaneous radiation predicted by the Diósi-Penrose collapse model. The result was negative: the simplest gravity-related collapse models are "highly implausible." Barbatti (2024) applied atomistic Diósi-Penrose calculations to molecular and biological systems, opening additional experimental channels.
 
-**Macromolecule interferometry:** The current record (Fein et al., 2019) stands at ~25,000 amu. Direct CSL testing requires superpositions at 10⁹–10¹¹ amu. The proposed MAQRO space mission would probe this regime — persistent superposition would largely exclude CSL, while mass-dependent breakdown would support the physical framework consciousness-collapse requires.
+**Macromolecule and nanoparticle interferometry:** The molecular-beam record (Fein et al., 2019, ~25,000 amu) was overtaken by Pedalino et al. (2026), who interfered sodium nanoparticles above ~170,000 amu (into the megadalton regime), advancing demonstrated macroscopicity by about an order of magnitude. Direct CSL testing still requires 10⁹–10¹¹ amu. The proposed MAQRO space mission would probe that regime — persistent superposition would largely exclude CSL, while mass-dependent breakdown would support the physical framework consciousness-collapse requires.
 
 **Brain-interface programmes:** A parallel landscape targets the brain-internal regime — Kerskens' MRI entanglement-witness protocol (2022), Babcock-Hameroff microtubule evidence (2025), the Nirvanic quantum-agent device (2025), and Maier-Dechamps's (2018) preregistered RNG null. [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) catalogues these and the corridor/minimum-outside-corridor/trumping taxonomy; [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) specifies the mechanism-specific experimental signatures (Stapp Zeno, Orch-OR, strict selection-only, trumping-preemption) and what *convergent* negative evidence would foreclose the strict corridor reading.
 
@@ -190,7 +190,7 @@ The most promising strategy uses *shielded systems* — cases where collapse mod
 |------|------|--------|--------------------|
 | Gran Sasso (2022) | 1 | Completed | Simplest Diósi-Penrose models |
 | Atomistic D-P calculations (2024) | 1 | Published | Molecular/biological collapse times |
-| Macromolecule interferometry (25,000 amu record) | 1 | Ongoing | Lower bound on CSL collapse rate |
+| Nanoparticle interferometry (~170,000 amu record, 2026) | 1 | Ongoing | Lower bound on CSL collapse rate |
 | Levitated nanoparticle blueprint (2025) | 1 | Proposed | Could distinguish CSL from environmental decoherence |
 | Anomalous Brownian heating (GRW/CSL) | 1 | Bounds tightening | Constrains collapse rate parameters |
 | Proper vs improper mixture test | 1 | Conceptual | Would confirm or deny real collapse |
@@ -274,3 +274,4 @@ If Tier 1 experiments progressively eliminate all collapse models, consciousness
 17. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer.* Springer.
 18. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61, 4194–4206.
 19. Albantakis, L., Barbosa, L., Findlay, G., Grasso, M. & Tononi, G. (2023). "Integrated information theory (IIT) 4.0: Formulating the properties of phenomenal existence in physical terms." *PLOS Computational Biology*, 19(10), e1011465.
+20. Pedalino, S., Ramírez-Galindo, B.E., Ferstl, R., Hornberger, K., Arndt, M. & Gerlich, S. (2026). "Probing quantum mechanics with nanoparticle matter-wave interferometry." *Nature*, 649, 866–870.

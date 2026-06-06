@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-04 00:00:00+00:00
+ai_modified: 2026-06-05 21:22:53+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -51,7 +51,7 @@ description: Attention serves as the interface where consciousness influences th
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 18:01:34+00:00
+last_deep_review: 2026-06-05 21:22:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

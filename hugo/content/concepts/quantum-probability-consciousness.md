@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-06-04 16:01:44+00:00
+ai_modified: 2026-06-05 23:43:47.737918+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -29,13 +29,14 @@ description: 'Born probabilities describe the consciousness-quantum interface: n
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-31 09:45:00+00:00
+last_deep_review: 2026-06-05 23:35:10+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[quantum-measurement-subjective-probability-2026-01-23]]'
 - '[[what-consciousness-tells-us-about-physics]]'
 - '[[completeness-in-physics-epr-bell-2026-03-14]]'
+- '[[selection-only-channel]]'
 title: Quantum Probability and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -149,7 +150,7 @@ The interface view does not require sustained coherence. It requires only that c
 
 ## Conservation Laws and Selection
 
-The selection-versus-injection distinction dissolves the [energy conservation objection](/concepts/conservation-laws-and-mental-causation/) to mental causation. When consciousness selects among outcomes that quantum mechanics already permits, it doesn't add energy—the possible outcomes are already present in the superposition. The Born rule's probability distribution describes energetically-equivalent possibilities; selecting among them respects conservation laws, aligning with the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet.
+The selection-versus-injection distinction dissolves the [energy conservation objection](/concepts/conservation-laws-and-mental-causation/) to mental causation. When consciousness selects among outcomes that quantum mechanics already permits, it doesn't add energy—the possible outcomes are already present in the superposition. The Born rule's probability distribution describes energetically-equivalent possibilities; selecting among them respects conservation laws, aligning with the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. The [selection-only-channel](/concepts/selection-only-channel/) gives this its information-theoretic form: a pure selector among brain-prepared alternatives is bounded to log₂(N) bits per event and preserves Born statistics across trials.
 
 ## The Illusionist Challenge
 

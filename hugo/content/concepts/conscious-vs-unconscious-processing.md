@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-06-02 16:22:55+00:00
+ai_modified: 2026-06-05 21:48:15+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ description: 'Consciousness enables specific functions unconscious processing ca
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 12:11:38+00:00
+last_deep_review: 2026-06-05 21:48:15+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -282,6 +282,7 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 1. Dehaene, S., & Naccache, L. (2001). Towards a cognitive neuroscience of consciousness. *Cognition*, 79(1-2), 1-37.
 1. Dehaene, S., Changeux, J.-P., Naccache, L., Sackur, J., & Sergent, C. (2006). Conscious, preconscious, and subliminal processing: A testable taxonomy. *Trends in Cognitive Sciences*, 10(5), 204-211.
 1. Dehaene, S., Lau, H., & Kouider, S. (2017). What is consciousness, and could machines have it? *Science*, 358(6362), 486-492.
+1. Derrien, D., Garric, C., Sergent, C., & Chokron, S. (2022). The nature of blindsight: Implications for current theories of consciousness. *Neuroscience of Consciousness*, 2022(1), niab043.
 1. Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: Progress and problems. *Nature Reviews Neuroscience*, 17, 307-321.
 1. Kouider, S., & Dehaene, S. (2007). Levels of processing during non-conscious perception. *Philosophical Transactions of the Royal Society B*, 362(1481), 857-875.
 1. Silverstein, B. H., Snodgrass, M., Shevrin, H., & Kushwaha, R. (2015). P3b, consciousness, and complex unconscious processing. *Cortex*, 73, 216-227.
@@ -289,7 +290,6 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 1. Lieberman, M. D. (2007). Social cognitive neuroscience: A review of core processes. *Annual Review of Psychology*, 58, 259-289.
 1. Melloni, L., et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142.
 1. Naccache, L., & Marti, S. (2016). Why the P3b is still a plausible correlate of conscious access? A commentary on Silverstein et al., 2015. *Cortex*, 85, 126-128.
-1. Overgaard, M., & Fazekas, P. (2022). The nature of blindsight: Implications for current theories of consciousness. *Neuroscience of Consciousness*, 2022(1), niab043.
 1. Pitts, M. A., Metzler, S., & Hillyard, S. A. (2019). Recurrent processing theory versus global neuronal workspace theory. *Neuroscience of Consciousness*, 2019(1), niz005.
 1. Streicher, J., Meyen, S., Franz, V. H., & Stein, T. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.

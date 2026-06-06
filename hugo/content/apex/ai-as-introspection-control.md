@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-25
-ai_modified: 2026-06-03 08:31:59.485163+00:00
+ai_modified: 2026-06-05 20:16:22+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-05-27 14:00:00+00:00
 apex_sources:
@@ -38,7 +38,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/IqGtnt0-gz0
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-25 16:00:00+00:00
+last_deep_review: 2026-06-05 20:16:22+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'
@@ -177,7 +177,7 @@ This synthesis draws on:
 
 ## References
 
-1. Dijkstra, N., & Fleming, S. M. (2024). Confidence ratings do not distinguish imagination from reality. *Journal of Vision*, 24(5).
+1. Dijkstra, N., Mazor, M., & Fleming, S. M. (2024). Confidence ratings do not distinguish imagination from reality. *Journal of Vision*, 24(5), 13.
 2. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science*, 310(5745), 116–119.
 3. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231–259.
 4. Rebouillat, B., Leonetti, J. M., & Kouider, S. (2021). People confabulate with high confidence when their decisions are supported by weak internal variables. *Neuroscience of Consciousness*, 2021(1), niab004.
