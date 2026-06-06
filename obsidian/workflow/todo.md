@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep review topics/wheelers-participatory-universe-and-it-from-bit.md (changed-since-review staleness, gap ~5d)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/topics/wheelers-participatory-universe-and-it-from-bit.md
+- **Notes**: Changed-since-review: ai_modified 2026-06-05, last_deep_review 2026-05-31 (~5d gap), ai_contribution=100. Body changed after review. Highest empirical/quantum-foundations density in the eligible pool (it-from-bit, delayed-choice, quantum-eraser, Wheeler primary sources). ⚠ STANCE-FIDELITY: article engages Wheeler's participatory-realism / "it from bit" as a named rival to the Map's dualist-interface reading — verify Wheeler is steelmanned, not strawmanned, and that the Map's divergence (consciousness-as-selector vs. observer-as-information-creator) is stated fairly. ⚠ CURRENCY-SWEEP any experimental claims (delayed-choice / quantum-eraser results, Ma et al., recent loophole-free tests) against the live 2020s record; watch for ORPHAN REFS and WRONG-PAPER conflations (same-author multi-paper — check title+venue, not just author+year). Tenet 2/4 load-bearing. PRESERVE calibration / evidential-status / citation-framing language.
+- **Source**: staleness
+- **Generated**: 2026-06-06
+
+### P2: Deep review topics/self-stultification-as-master-argument.md (changed-since-review staleness, gap ~9d)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/topics/self-stultification-as-master-argument.md
+- **Notes**: Changed-since-review: ai_modified 2026-06-05, last_deep_review 2026-05-27 (~9d gap — largest verified non-index gap in the eligible pool), ai_contribution=100. Body changed after review. Argument-from-reason / epistemic-self-defeat cluster; load-bearing master-argument page that several articles (epistemic-self-defeat, argument-from-reason) cross-reference. ⚠ STANCE-FIDELITY: engages named opponents (Plantinga, Boghossian, Korman-Locke, and reductionist/eliminativist targets) — verify each attributed position is faithful and the self-defeat structure is not overstated into a knock-down claim the Map doesn't actually hold. Web-verify any attributed citations against the live record (author/title/venue). PRESERVE calibration / evidential-status / citation-framing language.
+- **Source**: staleness
+- **Generated**: 2026-06-06
+
+### P2: Deep review apex/steelmanning-as-method.md (changed-since-review staleness, gap ~8d)
+- **Type**: deep-review
+- **Status**: pending
+- **File**: obsidian/apex/steelmanning-as-method.md
+- **Notes**: Changed-since-review: ai_modified 2026-06-05, last_deep_review 2026-05-28 (~8d gap), ai_contribution=100. Body changed after review. Apex synthesis (recency-density priority per replenish args) on the Map's adversarial method — "build the rival before the residue". Self-referential meta-article: its own argument quality is load-bearing for the method it advocates, so scrutinise for the very strawmanning it warns against. ⚠ STANCE-FIDELITY: verify any named rival frameworks it cites as worked steelman examples are represented faithfully and current. Check it still coheres with the post-2026-05-28 corpus (recent outer-review convergence work, positions register). PRESERVE calibration / evidential-status / citation-framing language; do not let a condense pass strip the method's load-bearing qualifiers.
+- **Source**: staleness
+- **Generated**: 2026-06-06
+
 ### P3: Write concept page on metaontological deflationism (easy ontology / quantifier variance)
 - **Type**: expand-topic
 - **Status**: pending
