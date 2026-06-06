@@ -5,6 +5,16 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T03:08:27+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/analytic-idealism-and-mind-centric-metaphysics]]
+- **Word count**: ~2173 → ~2173 (length-neutral; under 3000 soft)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (tightened a muddy clarifying sentence introduced by the 06-02 refine into a concrete idealist-rejoinder)
+- **Verification**: Fifth deep review. Trigger was unreviewed refine delta 960f8d707 (2026-06-02 "Adopt idealism calibration") — both its edits DOWNGRADE confidence (explicit underdetermination; "not empirically defeated"), the opposite of possibility/probability slippage; calibration improved, no slippage. Kastrup stance web-verified faithful (mind-at-large sole primitive / dissociated DID-alters / matter-as-extrinsic-appearance; NO conflation with Berkeleyan idealism or constitutive panpsychism — separate sections, no strawman). Citations web-verified: Kastrup 2019 *Idea of the World*; Shani 2015 *Philosophical Papers* 44(3):389-437 (title/venue/pagination/decombination-framing exact); Goff 2017. All 12 wikilinks + 4 tenets#^ anchors + related research note resolve. §2 diagnostic: tenet-accepting reviewer would flag nothing as overstated. Kastrup engagement Mixed (unsupported-move opening → boundary-marking); panpsychism Mode One; no label leakage. Converged.
+- **Output**: [[reviews/deep-review-2026-06-06-analytic-idealism-and-mind-centric-metaphysics]]
+
 ## 2026-06-06T04:10:00+00:00 - deep-review
 - **Status**: Success (no-op; converged, citation-verified)
 - **File**: [[topics/motor-control-quantum-zeno]]
