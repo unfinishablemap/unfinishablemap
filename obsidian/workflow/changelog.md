@@ -5,6 +5,18 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T01:19:59+00:00 - deep-review
+- **Status**: Success (changed-since-review; publisher-of-record citation pass; near-no-op)
+- **File**: [[concepts/selection-criterion-problem]]
+- **Word count**: 2241 → 2262 (+21; 90% of 2500 concept soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Further Reading list missing the constraint-satisfaction cross-link present in body + related_articles; added for consistency)
+- **Enhancements made**: 1 (annotated Further Reading entry)
+- **Web-verification**: external citations web-verified at publisher of record (first pass on this article — the 05-25 review verified only intra-corpus claims). Chalmers & McQueen 2021 "Consciousness and the collapse of the wave function" arXiv:2105.02314 — VERIFIED CLEAN (authors/title/ID correct, cited only as background, no empirical claim attributed). Chalmers 1996, Kane 1996 — canonical, correct. No fabricated/wrong-metadata cites; no superlative → no currency sweep.
+- **New-content faithfulness**: the post-review constraint-phenomenology bullet (hub-accretion injection) verified faithful to [[topics/consciousness-and-the-phenomenology-of-constraint-satisfaction]] ("personal significance, not computational complexity" matches verbatim) and correctly calibrated (compatible-with-but-not-discriminating horn iii). No slippage.
+- **Reasoning-mode**: engagement with functionalist (horn i): Mode Three (boundary-marking, "ruled out by a tenet not by contradiction"); engagement with randomness/spontaneous-collapse (horn ii): Mode Three (tenet-rejecter can take it without inconsistency). No boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-06-selection-criterion-problem]]
+
 ## 2026-06-06T01:40:00+00:00 - deep-review
 - **Status**: Success (converged no-op; web-verify priority remit, stance attention)
 - **File**: [[concepts/probability-objections-many-worlds]]

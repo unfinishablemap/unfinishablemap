@@ -4,8 +4,8 @@ description: "What makes one candidate outcome preferable to consciousness? A hu
 created: 2026-05-25
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-06-01T00:00:00+00:00
-last_deep_review: 2026-05-25T11:24:36+00:00
+ai_modified: 2026-06-06T01:19:59+00:00
+last_deep_review: 2026-06-06T01:19:59+00:00
 draft: false
 topics:
   - "[[forward-in-time-conscious-selection]]"
@@ -103,6 +103,7 @@ The Map's contribution here is not a solution but a clean statement of the debt,
 - [[valence-and-conscious-selection]] — The leading candidate for the criterion's content
 - [[evaluative-phenomenal-character]] — The family of phenomenal properties the criterion would be irreducible to
 - [[decision-void]] — Why the criterion is hidden from the subject whose criterion it is
+- [[consciousness-and-the-phenomenology-of-constraint-satisfaction]] — The first-person gloss on the criterion: felt narrowing, tension, and rightness, tracking personal significance rather than computational complexity
 - [[attention-as-causal-bridge]] — Where the primitive does implicit work in the attention cluster
 - [[evidential-status-discipline]] — Why the criterion is held at open-problem rather than supported status
 
