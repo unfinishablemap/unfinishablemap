@@ -5,6 +5,17 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T11:48:29+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/mapping-mind-space]]
+- **Source**: convergent outer reviews 2026-06-06 (2/3: chatgpt, claude), upgraded P2→P1 by combine-outer-reviews. Claude Findings 5 + 8, verified this cycle (Carr Nova 2021 chapter; Birch 2020 five dimensions). Gemini's leg excluded (false wholesale-omission charge).
+- **Changes**:
+  - (a) Carr citation + source-tier (mechanical): updated References entry 10 from "Carr, B. (2015) ... PhilArchive" to the published form Carr (2021), "Making Space and Time for Consciousness in Physics," ch. 7 in *Perspectives on Consciousness*, ed. P. Dennison, pp. 319–350, Nova Science Publishers (same essay, not a different/weaker source). In the Higher-dimensional-physics bullet, flagged Carr's Society-for-Psychical-Research / parapsychology-adjacent standing so the line is no longer presented as a peer of the neuroscience citations.
+  - (b) Empirical-staleness remediation: added a paragraph to "What Would Challenge This View" engaging (not just listing) the 2016–2026 externally-measurable mind-space mapping literature — Bayne/Hohwy/Owen (TiCS 2016), Birch/Schnell/Clayton five dimensions (TiCS 2020), Butlin/Long et al. (arXiv 2023). Made the framework-boundary reply in natural prose: these axes are functional/behavioural proxies the dualism tenet reads as evidence *about* consciousness, mapping the access interface not the phenomenal manifold (cross-linked to the Flatland section). Added References entries 16–18.
+- **Engagement classification** (editor-internal, not in body): live mapping literature — Mode Three (framework-boundary: the measurement programmes do real interface work; the dimensional void in the phenomenal manifold is honestly noted as the Map's dualist residue, not a refutation within the programme's own terms).
+- **Length**: 2342 → 2708 words (under 3000 hard ceiling; voids soft_warning preserved).
+- **Published**: yes
+
 ## 2026-06-06T11:32:17+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/mapping-mind-space]]

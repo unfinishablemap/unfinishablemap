@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot survey the geomet
 created: 2026-02-25
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-06-06T11:32:17+00:00
+ai_modified: 2026-06-06T11:48:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -73,7 +73,7 @@ Several independent theoretical lines converge on the possibility that phenomena
 
 **Morphospace frameworks.** Arsiwalla and Verschure propose a "morphospace of consciousness" along axes of autonomic, computational, and social complexity. Under dualism it is almost certainly incomplete: if consciousness is not reducible to functional properties, the relevant dimensions may be entirely non-physical. External measurement maps only what it can reach.
 
-**Higher-dimensional physics.** Bernard Carr proposes a five-dimensional model where a mental-time dimension produces "a hierarchy of levels of consciousness." If resolving the hard problem requires expanding beyond 3+1 spacetime, consciousness may inhabit dimensions physical science does not describe.
+**Higher-dimensional physics.** Bernard Carr proposes a five-dimensional model where a mental-time dimension produces "a hierarchy of levels of consciousness." If resolving the hard problem requires expanding beyond 3+1 spacetime, consciousness may inhabit dimensions physical science does not describe. This line sits in a different evidential register from the neuroscience above: Carr works within the parapsychology-adjacent tradition of the Society for Psychical Research, and the proposal is a speculative metaphysics of physics rather than a result with the empirical standing of the high-dimensional neural dynamics or comparative-qualia work. It is cited here as a possibility worth marking, not as a peer of the measured findings.
 
 ## Dimensional Ignorance
 
@@ -119,6 +119,8 @@ The void would be weakened if: (1) a method emerged for surveying mind-space fro
 
 Current evidence meets none of these. Every survey proceeds from within a particular mind. Introspective training refines along known dimensions rather than discovering new ones. AI outputs either redescribe human reports or diverge in ways that cannot be evaluated without assuming a framework.
 
+A live research programme presses the first challenge hardest. Since the mid-2010s a body of work has treated mind-space as externally mappable. Bayne, Hohwy and Owen argue that "levels of consciousness" should give way to a multidimensional characterisation of conscious states (*Trends in Cognitive Sciences*, 2016). Birch, Schnell and Clayton propose five dimensions of animal consciousness — perceptual richness, evaluative richness, integration at a time, integration across time, and self-consciousness — yielding a measurable "profile" that varies independently across species (*Trends in Cognitive Sciences*, 2020). Butlin, Long and colleagues derive indicator properties for machine consciousness from neuroscientific theories and apply them to AI systems (2023). These frameworks do real work, and the void is not a wholesale prohibition on measurement. But the reply lies at the framework boundary, and is honestly noted as such rather than as a refutation within the programme's own terms: each axis is operationalised through functional or behavioural proxies — discrimination, integration, report, flexible control — that the dualism of the Map's [[tenets]] reads as evidence *about* consciousness rather than the phenomenal dimensions themselves. A profile locating a creature on perceptual-richness and integration axes maps the access structure consciousness filters through, not the phenomenal geometry the [[#The Flatland Structure|Flatland structure]] above concerns. The two programmes coexist: externally-measurable profiling charts the interface, while the dimensional void remains in the phenomenal manifold the interface does not exhaust.
+
 ## Further Reading
 
 - [[voids]] — Framework for investigating cognitive limits
@@ -142,9 +144,12 @@ Current evidence meets none of these. Every survey proceeds from within a partic
 7. Jolly, E. & Chang, L.J. (2019). "The Flatland Fallacy: Moving Beyond Low-Dimensional Thinking." *Topics in Cognitive Science*, 11(2), 433–454.
 8. Lacalli, T. (2022). "On the Origins and Evolution of Qualia: An Experience-Space Perspective." *Frontiers in Systems Neuroscience*, 16, 945722.
 9. Arsiwalla, X.D. & Verschure, P.F.M.J. (2023). "The Morphospace of Consciousness: Three Kinds of Complexity for Minds and Machines." *NeuroSci*, 4(2), 9.
-10. Carr, B. (2015). "Making Space and Time for Consciousness in Physics." *PhilArchive*.
+10. Carr, B. (2021). "Making Space and Time for Consciousness in Physics." In *Perspectives on Consciousness*, ed. P. Dennison, ch. 7, pp. 319–350. Nova Science Publishers.
 11. Schwitzgebel, E. (2024). *The Weirdness of the World*. Princeton University Press.
 12. James, W. (1902). *The Varieties of Religious Experience*. Longmans, Green.
 13. Lewis, D. (1979). "Attitudes De Dicto and De Se." *The Philosophical Review*, 88(4), 513–543.
 14. Bostrom, N. (2002). *Anthropic Bias: Observation Selection Effects in Science and Philosophy*. Routledge.
 15. Perry, J. (1979). "The Problem of the Essential Indexical." *Noûs*, 13(1), 3–21.
+16. Bayne, T., Hohwy, J. & Owen, A.M. (2016). "Are There Levels of Consciousness?" *Trends in Cognitive Sciences*, 20(6), 405–413.
+17. Birch, J., Schnell, A.K. & Clayton, N.S. (2020). "Dimensions of Animal Consciousness." *Trends in Cognitive Sciences*, 24(10), 789–801.
+18. Butlin, P., Long, R., et al. (2023). "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness." arXiv:2308.08708.
