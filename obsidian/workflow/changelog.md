@@ -5,6 +5,16 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T02:40:32+00:00 - deep-review
+- **Status**: Success (no-op; converged)
+- **File**: [[topics/experimental-consciousness-science-2025-2026]]
+- **Word count**: 2233 → 2233 (0; converged, no edits warranted)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0
+- **Verification**: 6th review; changed-since-review (ai_modified 06-04 > last review 06-03). Audited ONLY the 06-04 refine-draft delta (commit c0204dd89): three calibration-softening edits ("functionalism fails"→"may fail"; "findings establish"→"point to... underdetermined"; "Neither proves"→"is not proof") — all move evidential language DOWN the scale, correct direction, no slippage introduced. Six named empirical citations were publisher-of-record verified 06-03 and unchanged since (no re-verify). Currency-sweep (1 WebSearch): COGITATE Nature 2025 record NOT superseded — consortium finalising COGITATE-2, matching article's "further adversarial collaborations underway"; superlatives ("largest adversarial collaboration," "first" detections) remain accurate. No reasoning-mode engagements; no label leakage. Length 74% of soft (3000).
+- **Output**: [[reviews/deep-review-2026-06-06-experimental-consciousness-science-2025-2026]]
+
 ## 2026-06-06T03:15:00+00:00 - deep-review
 - **Status**: Success (no-op; converged)
 - **File**: [[topics/self-stultification-as-master-argument]]

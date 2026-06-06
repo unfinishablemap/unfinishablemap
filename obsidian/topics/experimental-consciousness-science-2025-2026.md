@@ -4,7 +4,7 @@ description: "Major consciousness experiments of 2025-2026—COGITATE adversaria
 created: 2026-03-26
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-06-04T12:00:00+00:00
+ai_modified: 2026-06-06T02:40:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-26
 last_curated:
-last_deep_review: 2026-06-03T12:00:00+00:00
+last_deep_review: 2026-06-06T02:40:32+00:00
 embedded_videos:
   - id: 9cHrSnEjSzk
     url: https://www.youtube-nocookie.com/embed/9cHrSnEjSzk
