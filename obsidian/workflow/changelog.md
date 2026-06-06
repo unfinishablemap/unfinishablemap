@@ -5,6 +5,19 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T12:35:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/mapping-mind-space]]
+- **Source**: convergent outer reviews 2026-06-06 (chatgpt/claude/gemini), P1 via /combine-outer-reviews. PRIMARY structural pass per [[outer-review-same-file-task-pileup]] (co-optation, Carr/literature, counterargument-import remain distinct passes).
+- **Changes**: Four converged structural fixes consolidated into one editor pass.
+  - (a) Tenet-protective overstatement (3/3): rewrote "Dualism makes the void real" / "physical methods alone cannot survey it" as tenet-CONDITIONAL — the epistemic limit arises under physicalism/functionalism/representationalism too; the dualism-specific ontological claim is an *if*-then conditional on the tenets, framework-boundary disagreement, not a result the evidence forces on a reductionist. Mode classification (editor-internal): Mode Two — unsupported-foundational-move / tenet-perimeter; downgraded boundary-substitution to honest framework-boundary marking, no mode labels in body.
+  - (b) Acquaintance/knowledge conflation (2/3): "cannot know those dimensions exist" → "may lack any first-person acquaintance with them"; added that the limit is on acquaintance not inference (hidden dimensions probed indirectly via psychophysics, neural decoding, comparative ethology).
+  - (c) Overbroad dismissal (2/3): "Current evidence meets none of these" → graded ledger (no evidence touches the acquaintance gap; some evidence supports partial structural mapping but no novel phenomenal dimension discovered).
+  - (d) Unbridged convergence (3/3): retitled "Convergent Arguments…" → "Arguments for Missing Dimensions" and reframed per [[evidential-status-discipline]] — neural/phenomenal/functional/physical lines posit DIFFERENT dimensional kinds, no bridge argument, partial frameworks not one cumulative thesis.
+- **Length**: 2708 → 2932 words (soft_warning, under 3000 hard ceiling). Fixes carry irreducible new content; trimmed untouched slack to stay length-band-neutral and away from the ceiling. Did NOT touch the two prior-session passes (Sloman/Shanahan + McGinn co-optation framing; Carr 2021 / 2016-2026 literature).
+- **Verification**: altered_state_symmetry.evaluate_symmetry → None; no "This is not X. It is Y." cliché; no reasoning-mode label leakage in body.
+- **Published**: yes
+
 ## 2026-06-06T12:17:53+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/non-temporal-consciousness.md` (3346 words; no focused pessimistic/deep review since 2026-05-14 creation)
