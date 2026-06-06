@@ -18,6 +18,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import re
 import subprocess
 import sys
 from datetime import datetime, timedelta, timezone
@@ -120,14 +121,64 @@ def _save_pending_triggers(triggers: list[str]) -> None:
     PENDING_TRIGGERS_PATH.write_text(json.dumps(triggers), encoding="utf-8")
 
 
+# Negation prefixes that, when they immediately precede a sentinel token,
+# indicate the note is *reporting absence* rather than *firing* the sentinel.
+# Without this guard, a SUCCESS note saying "No LOGIN_REQUIRED encountered"
+# triggers a false 24h backoff (memory: [[cycle-post-note-sentinel-substring-trap]]).
+_NEGATION_PREFIX_RE = re.compile(
+    r"\b(?:no|not|without|never|absent|skipped|free\s+of|"
+    r"clear\s+of|cleared|ok[: ]+|none|negative\s+for|"
+    r"didn['']t\s+(?:hit|trigger|fire)|did\s+not\s+(?:hit|trigger|fire))\s+$",
+    re.IGNORECASE,
+)
+
+# Negation suffixes that follow the sentinel within a short window —
+# "SENTINEL not seen", "SENTINEL never fired", etc.
+_NEGATION_SUFFIX_RE = re.compile(
+    r"^\s*(?:not\s+(?:seen|encountered|hit|fired|triggered|present)|"
+    r"never\s+(?:fired|hit|seen|triggered)|"
+    r"didn['']t\s+(?:fire|hit|trigger))\b",
+    re.IGNORECASE,
+)
+
+
+def _sentinel_fires(note: str, sentinel: str) -> bool:
+    """Word-boundary search for ``sentinel`` in ``note``, ignoring occurrences
+    surrounded by a negation phrase on either side.
+
+    Examples:
+        _sentinel_fires("CHROME_UNAVAILABLE: chrome did not start", "CHROME_UNAVAILABLE")  → True
+        _sentinel_fires("No LOGIN_REQUIRED encountered", "LOGIN_REQUIRED")  → False
+        _sentinel_fires("SUSPENSION_DETECTED not seen", "SUSPENSION_DETECTED")  → False
+        _sentinel_fires("SUSPENSION_DETECTED — backing off", "SUSPENSION_DETECTED") → True
+
+    The match is case-insensitive (sentinels conventionally emitted in upper
+    case but free-form notes vary).
+    """
+    pattern = re.compile(rf"\b{re.escape(sentinel)}\b", re.IGNORECASE)
+    for match in pattern.finditer(note):
+        preceding = note[: match.start()]
+        following = note[match.end() : match.end() + 30]
+        # Only consider the tail of the preceding text (last ~30 chars) so
+        # we don't pick up a "no" that's a whole sentence away.
+        tail = preceding[-30:]
+        if _NEGATION_PREFIX_RE.search(tail):
+            continue
+        if _NEGATION_SUFFIX_RE.match(following):
+            continue
+        return True
+    return False
+
+
 def _detect_sentinels(note: str) -> tuple[bool, bool, bool]:
     """Return (suspension_detected, login_required, chrome_unavailable) flags
-    from a free-form note."""
-    n = note.lower()
+    from a free-form note. Uses word-boundary matching with negation-prefix
+    guards so notes reporting *absence* (e.g. "No LOGIN_REQUIRED") don't
+    trigger a false backoff."""
     return (
-        "suspension_detected" in n,
-        "login_required" in n,
-        "chrome_unavailable" in n,
+        _sentinel_fires(note, "SUSPENSION_DETECTED"),
+        _sentinel_fires(note, "LOGIN_REQUIRED"),
+        _sentinel_fires(note, "CHROME_UNAVAILABLE"),
     )
 
 

@@ -1,5 +1,9 @@
-last_updated: '2026-06-06T10:14:40.151160+00:00'
-session_count: 10318
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-06T10:22:07.748161+00:00'
+session_count: 10319
 cycle_position: 8786
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-06-06T02:54:28.871802+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-05T22:17:40.910659+00:00'
-  agentic-social: '2026-06-06T10:21:55.142751+00:00'
+  agentic-social: '2026-06-06T10:22:07.748161+00:00'
   embed-videos: '2026-06-06T03:55:31.781857+00:00'
   commission-chatgpt-review: '2026-06-06T02:03:51.741915+00:00'
   commission-claude-review: '2026-06-06T03:05:46.400680+00:00'
@@ -73,15 +77,15 @@ convergence_targets:
   max_critical_issues: 0
   max_medium_issues: 3
 progress:
-  topics_written: 246
-  concepts_written: 245
-  arguments_written: 4
-  questions_written: 1
+  topics_written: 270
+  concepts_written: 260
+  arguments_written: 5
+  questions_written: 0
   voids_written: 101
-  positions_written: 0
-  research_notes: 391
-  reviews_completed: 542
-  apex_articles: 29
+  positions_written: 1
+  research_notes: 394
+  reviews_completed: 5172
+  apex_articles: 33
 quality:
   critical_issues: 0
   medium_issues: 10
@@ -89,10 +93,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-06'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-06'
@@ -169,11 +169,7 @@ recent_tasks:
   type: add-highlight
   date: '2026-06-06'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/minimal-consciousness/
-    date: '2026-06-06T10:21:55.142732+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - consciousness-in-simple-organisms
-    - animal-consciousness
+- task: agentic-social
+  type: agentic-social
+  date: '2026-06-06'
+  outcome: success

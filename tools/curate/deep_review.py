@@ -11,6 +11,22 @@ from typing import Optional
 
 import frontmatter
 
+# Convergence-damping parameters. Tune-system reports (06-04 → 06-06) flagged
+# that the selector was re-picking already-converged articles 6–10 times for
+# metadata-only no-ops, because a cosmetic cross-link install elsewhere bumps
+# `ai_modified` without changing the body. These constants discount articles
+# that have already been deep-reviewed many times.
+#
+# - PRIOR_REVIEW_DAMP: each prior deep-review file divides the urgency score
+#   by `(1 + k * count)`. k=0.3 → 3 priors halve the score, 5 priors quarter
+#   it, 10 priors give it a tenth.
+# - MIN_REREVIEW_DAYS: if the article has 3+ prior reviews AND was reviewed
+#   within this window, skip it entirely. A cosmetic cross-link bump should
+#   not re-trigger a full deep-review pass within two weeks of a thorough one.
+PRIOR_REVIEW_DAMP = 0.3
+MIN_REREVIEW_DAYS = 14
+CONVERGENCE_REVIEW_FLOOR = 3
+
 
 @dataclass
 class ReviewCandidate:
@@ -71,10 +87,30 @@ def _get_latest_modified(metadata: dict) -> Optional[datetime]:
     return max(valid) if valid else None
 
 
+def _count_prior_reviews(reviews_dir: Optional[Path], slug: str) -> int:
+    """Count prior deep-review files for a given article slug.
+
+    Reviews are saved as ``deep-review-YYYY-MM-DD-{slug}.md``. Counting them
+    gives a cheap convergence signal — the more an article has been reviewed,
+    the more confident we can be that a fresh review on cosmetic churn alone
+    will produce a no-op.
+    """
+    if reviews_dir is None or not reviews_dir.is_dir():
+        return 0
+    # Suffix-match on the slug so we tolerate the dated prefix.
+    suffix = f"-{slug}.md"
+    return sum(
+        1
+        for p in reviews_dir.glob("deep-review-*.md")
+        if p.name.endswith(suffix)
+    )
+
+
 def _evaluate_file(
     file_path: Path,
     now: datetime,
     exclude_drafts: bool,
+    reviews_dir: Optional[Path] = None,
 ) -> Optional[ReviewCandidate]:
     """
     Evaluate a single file for review candidacy.
@@ -130,6 +166,20 @@ def _evaluate_file(
             # Content unchanged since review - no need to review
             return None
 
+    # Convergence damping: articles that already have many prior reviews are
+    # likely to no-op on cosmetic cross-link churn. Damp the score by review
+    # count, and skip outright if the article was thoroughly re-reviewed
+    # within the last fortnight.
+    prior_reviews = _count_prior_reviews(reviews_dir, file_path.stem)
+    if (
+        prior_reviews >= CONVERGENCE_REVIEW_FLOOR
+        and last_deep_review is not None
+        and days_since_review < MIN_REREVIEW_DAYS
+    ):
+        return None
+    if prior_reviews > 0:
+        score /= 1.0 + PRIOR_REVIEW_DAMP * prior_reviews
+
     return ReviewCandidate(
         path=file_path,
         title=title,
@@ -161,6 +211,11 @@ def get_review_candidates(
     now = datetime.now(timezone.utc)
     candidates: list[ReviewCandidate] = []
 
+    # Reviews live alongside the content sections under the obsidian root.
+    reviews_dir = content_dir / "reviews"
+    if not reviews_dir.is_dir():
+        reviews_dir = None  # type: ignore[assignment]
+
     for content_type in content_types:
         type_dir = content_dir / content_type
         if not type_dir.exists():
@@ -175,7 +230,7 @@ def get_review_candidates(
             if md_file.name.endswith(".refinement-log.md"):
                 continue
 
-            candidate = _evaluate_file(md_file, now, exclude_drafts)
+            candidate = _evaluate_file(md_file, now, exclude_drafts, reviews_dir)
             if candidate:
                 candidates.append(candidate)
 

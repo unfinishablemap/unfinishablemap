@@ -4,7 +4,11 @@ The cycle is a fixed sequence of task types that repeats indefinitely.
 Speed is controlled by --interval; the cycle ensures consistent task ratios.
 """
 
-from typing import Optional
+from datetime import datetime, timedelta, timezone
+from typing import TYPE_CHECKING, Optional
+
+if TYPE_CHECKING:
+    from .state import EvolutionState
 
 # The main task cycle - 24 slots that repeat
 # "queue" = pick from P0-P2 todo queue
@@ -48,6 +52,58 @@ CYCLE_TRIGGERS: dict[str, int] = {
     "apex-evolve": 4,      # Every 4 cycles (96 sessions)
     "tune-system": 6,      # Every 6 cycles (144 sessions)
 }
+
+# Per-skill wall-clock minimum age before a cycle-trigger may re-fire it,
+# regardless of the cycle-count math above. At fast `--interval` the cycle
+# trigger fires far more often than some skills are designed for. tune-system's
+# SKILL.md mandates a monthly cadence — without this gate it was running daily
+# (9 reports in 9 days, each declining to apply Tier-1 changes). Minutes are
+# the unit so a future skill can request a sub-hour gate if needed.
+#
+# Skills NOT listed here are not gated and fire purely on the cycle-count
+# schedule above.
+TRIGGER_MIN_AGE_HOURS: dict[str, float] = {
+    # tune-system: monthly cadence per SKILL.md; the every-6-cycles trigger
+    # otherwise fires it ~daily at fast --interval.
+    "tune-system": 30 * 24,
+}
+
+
+def filter_triggers_by_min_age(
+    triggers: list[str],
+    state: "EvolutionState",
+    now: Optional[datetime] = None,
+) -> tuple[list[str], list[str]]:
+    """Apply per-skill wall-clock min-age gates to a cycle-trigger list.
+
+    Returns ``(allowed, gated)`` — ``allowed`` is the subset that may run
+    this iteration; ``gated`` is the subset suppressed by their per-skill
+    minimum age. Caller is responsible for logging gated skills.
+    """
+    if now is None:
+        now = datetime.now(timezone.utc)
+    if now.tzinfo is None:
+        now = now.replace(tzinfo=timezone.utc)
+
+    allowed: list[str] = []
+    gated: list[str] = []
+    for skill in triggers:
+        min_age_hours = TRIGGER_MIN_AGE_HOURS.get(skill)
+        if min_age_hours is None:
+            allowed.append(skill)
+            continue
+        last_run = state.last_runs.get(skill)
+        if last_run is None:
+            allowed.append(skill)
+            continue
+        if last_run.tzinfo is None:
+            last_run = last_run.replace(tzinfo=timezone.utc)
+        age = now - last_run
+        if age >= timedelta(hours=min_age_hours):
+            allowed.append(skill)
+        else:
+            gated.append(skill)
+    return allowed, gated
 
 
 def get_cycle_task(position: int) -> str:

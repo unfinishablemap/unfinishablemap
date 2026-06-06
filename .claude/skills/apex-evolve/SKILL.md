@@ -64,7 +64,7 @@ Report which apex articles need evolution.
 
 **Process**:
 1. Read all apex articles and their `apex_sources` frontmatter
-2. For each source, check its `modified` date against the apex article's `apex_last_synthesis`
+2. For each source, check its `modified` date against the apex article's effective baseline `max(apex_last_synthesis, last_deep_review)` (see Step 1 for why — `/deep-review` updates `last_deep_review` but not `apex_last_synthesis`, so the bare-field check over-reports drift)
 3. Report articles with stale sources, ordered by priority
 
 **Output**: List of articles needing attention with staleness scores
@@ -119,14 +119,17 @@ apex_positions_cited:  # the positions the decision turns on; ≥3 required
 
 If article specified, use it. Otherwise, auto-select:
 1. Read all apex articles in `obsidian/apex/`
-2. For each, calculate staleness score:
-   - Count sources modified after `apex_last_synthesis`
-   - Score = days_stale × changed_source_count
-3. Select highest-scoring article
+2. For each, compute the **effective synthesis baseline**:
+   `baseline = max(apex_last_synthesis, last_deep_review)`
+   This is the fix for the stale-`apex_last_synthesis` drift bug — `/deep-review` touches an apex's body and updates `last_deep_review` but does **not** update `apex_last_synthesis`, so a naïve scorer keeps re-nominating apex articles whose content has already absorbed every source change via the deep-review. Using the max of the two timestamps treats a recent deep-review as a successful synthesis for staleness purposes.
+3. Calculate staleness score:
+   - Count sources modified after `baseline`
+   - Score = days_since_baseline × changed_source_count
+4. Select highest-scoring article. If the top candidate's `baseline` is within the last 7 days, declare a no-op (the work is already done) and exit cleanly without picking a target.
 
 ### Step 2: Identify Changed Sources
 
-Compare each source's `modified` date to `apex_last_synthesis`. List all changed sources.
+Compare each source's `modified` date to the effective baseline `max(apex_last_synthesis, last_deep_review)`. List all changed sources. (Same fix as Step 1 — guards against the stale-`apex_last_synthesis` drift artifact where a recent deep-review already absorbed the source updates.)
 
 ### Step 3: Read Changed Sources
 

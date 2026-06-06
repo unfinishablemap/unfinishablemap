@@ -10,7 +10,14 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
 
-from tools.todo.processor import Task, TaskType, complete_task, get_next_task, parse_tasks
+from tools.todo.processor import (
+    WALLCLOCK_ONLY_TASK_TYPES,
+    Task,
+    TaskType,
+    complete_task,
+    get_next_task,
+    parse_tasks,
+)
 
 log = logging.getLogger(__name__)
 
@@ -54,6 +61,11 @@ def count_p0_p2_tasks(
 
     P3 tasks don't count toward queue health - they require human promotion.
 
+    Wall-clock-only task types (e.g. literature-drift-review) are also
+    excluded — they're recognised so they parse cleanly, but they never
+    execute from the queue and a fake-pending instance would otherwise
+    inflate queue depth and suppress replenishment.
+
     Args:
         content: The todo.md content
         skip_types: Optional set of TaskTypes to exclude from count.
@@ -65,6 +77,7 @@ def count_p0_p2_tasks(
         1
         for t in parsed["active"]
         if t.priority <= 2
+        and t.task_type not in WALLCLOCK_ONLY_TASK_TYPES
         and (not skip_types or t.task_type not in skip_types)
     )
 
@@ -121,6 +134,22 @@ def select_queue_task(
         for t in parsed["active"]
         if t.status == TaskStatus.PENDING and not t.blocked_by
     ]
+
+    # Surface wall-clock-only tasks that have somehow ended up in the queue —
+    # they can't execute here so they're skipped, but a human/operator should
+    # know they're orphaned (run the skill manually or remove the task).
+    wallclock_orphans = [
+        t for t in pending if t.task_type in WALLCLOCK_ONLY_TASK_TYPES
+    ]
+    for orphan in wallclock_orphans:
+        log.warning(
+            "Wall-clock-only task in queue cannot execute via cycle dispatcher: "
+            "P%d %s (type=%s). The queue selector will skip it; either run the "
+            "skill manually with the named target or remove the queue entry.",
+            orphan.priority,
+            orphan.title,
+            orphan.task_type.value,
+        )
 
     if not pending:
         return None

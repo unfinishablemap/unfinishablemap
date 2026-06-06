@@ -180,17 +180,38 @@ def save_state(state: EvolutionState, path: Path) -> None:
 
     Re-reads audit_triple from disk before writing to preserve any
     concurrent updates made by skills (literature-drift-review writes
-    its rotation/telemetry directly to this file).
+    its rotation/telemetry directly to this file). Also recomputes
+    ``progress.*_written`` counts from disk — nothing else maintains
+    those fields and they drift badly otherwise (tune-system 06-03/06-04/06-05
+    flagged this; on-disk vs state-field gap of ~25 articles by 06-06).
+
+    Preserves any top-level YAML keys not present in the modeled schema
+    (``MODELED_TOP_LEVEL_KEYS``). Without this, tune-system's own Tier-1
+    self-edits (``cadences``, ``tune_system_history``, etc.) silently
+    vanish on the next save, blocking the self-tuning loop from
+    persisting any of its findings. See [[cycle-post-strips-unmodeled-yaml-blocks]]
+    for the recurring failure mode this addresses.
     """
-    # Refresh audit_triple from disk to avoid clobbering skill writes.
+    # Refresh audit_triple from disk to avoid clobbering skill writes, and
+    # snapshot any unmodeled top-level keys so they survive the round-trip.
     audit_triple_on_disk = state.audit_triple
+    preserved_extras: dict[str, object] = {}
     if path.exists():
         try:
             with open(path, encoding="utf-8") as f:
                 disk_data = yaml.safe_load(f) or {}
             audit_triple_on_disk = disk_data.get("audit_triple", state.audit_triple)
+            preserved_extras = {
+                k: v
+                for k, v in disk_data.items()
+                if k not in MODELED_TOP_LEVEL_KEYS
+            }
         except Exception as e:
-            log.warning(f"Could not re-read audit_triple from {path}: {e}")
+            log.warning(f"Could not re-read existing state from {path}: {e}")
+
+    # Recompute progress counts from disk (no code path updates these
+    # incrementally, so they're stale otherwise).
+    recompute_progress_from_disk(state.progress)
 
     # Convert last_runs to serializable format
     last_runs = {}
@@ -263,6 +284,15 @@ def save_state(state: EvolutionState, path: Path) -> None:
         "recent_tasks": recent_tasks,
     }
 
+    # Merge any preserved top-level keys not modeled here (cadences,
+    # tune_system_history, queue_status, ...) so future schema extensions
+    # from skills survive the round-trip. Modeled keys always win on
+    # collision (defence in depth — preserved_extras should never overlap
+    # by construction, but the explicit ordering documents the intent).
+    for k, v in preserved_extras.items():
+        if k not in data:
+            data[k] = v
+
     # Write with header comment
     header = """# Evolution State
 # Machine-readable tracking for the automatic site evolution system
@@ -275,6 +305,28 @@ def save_state(state: EvolutionState, path: Path) -> None:
 
 
 OBSIDIAN_ROOT = Path(__file__).parent.parent.parent / "obsidian"
+
+# Top-level YAML keys this module knows how to model (every key written by
+# ``save_state``'s ``data`` dict). Used by ``save_state`` to preserve any
+# *un*modeled top-level keys round-trip — without that, tune-system's own
+# Tier-1 self-edits (``cadences``, ``tune_system_history``, etc.) silently
+# vanish on next save. Keep in sync with the ``data = {...}`` literal.
+MODELED_TOP_LEVEL_KEYS: frozenset[str] = frozenset({
+    "last_updated",
+    "session_count",
+    "cycle_position",
+    "last_runs",
+    "last_git_push",
+    "last_tweet_date",
+    "content_stats",
+    "section_caps",
+    "audit_triple",
+    "convergence_targets",
+    "progress",
+    "quality",
+    "failed_tasks",
+    "recent_tasks",
+})
 
 # Map section directory names to their cap field names
 SECTION_CAP_MAP: dict[str, str] = {
@@ -307,6 +359,30 @@ def count_section_files(section: str) -> int:
             continue
         count += 1
     return count
+
+
+def recompute_progress_from_disk(progress: Progress) -> None:
+    """Recompute progress counts from on-disk content.
+
+    Mutates `progress` in place. No code path increments these fields
+    when content is created — they're recorded here so cap enforcement,
+    convergence scoring, and tune-system reporting see the truth.
+
+    Mapping:
+        topics/concepts/voids/positions/arguments/questions/apex →
+            count_section_files (excludes <section>.md and _index.md)
+        research_notes → all .md files under obsidian/research/
+        reviews_completed → all .md files under obsidian/reviews/
+    """
+    progress.topics_written = count_section_files("topics")
+    progress.concepts_written = count_section_files("concepts")
+    progress.voids_written = count_section_files("voids")
+    progress.positions_written = count_section_files("positions")
+    progress.arguments_written = count_section_files("arguments")
+    progress.questions_written = count_section_files("questions")
+    progress.apex_articles = count_section_files("apex")
+    progress.research_notes = count_section_files("research")
+    progress.reviews_completed = count_section_files("reviews")
 
 
 def check_section_caps(caps: SectionCaps) -> dict[str, tuple[int, int, bool]]:

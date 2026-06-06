@@ -25,6 +25,16 @@ If a specific filepath is provided as argument, use it (subject to active-resear
 
 Otherwise, read `obsidian/workflow/evolution-state.yaml` to get the `audit_triple.literature_drift.active_research_sections` list and the `recently_audited` list. Select the topic article matching one of the active-research-area patterns with the *oldest* `ai_modified` timestamp that has **not** been audited in the last 30 days.
 
+**Tie-break by superlative-claim density.** When several candidates have similar staleness, prefer the one carrying the most "current record / first to demonstrate / largest / to date" claims — those are the highest-risk articles for empirical-record currency drift (a *correct* citation whose record claim has been superseded). Use the helper:
+
+```bash
+uv run python -c "
+from pathlib import Path
+from tools.curate.empirical_currency import find_superlative_claims
+print(len(find_superlative_claims(Path('[filepath]'))))
+"
+```
+
 ```bash
 uv run python -c "
 import yaml
@@ -82,10 +92,11 @@ For each result, capture: title, authors (first author + et al.), year, journal,
 
 ### 4. Compute Drift Signal
 
-A drift signal is **raised** when both of the following hold:
+A drift signal is **raised** when **any** of the following hold:
 
 1. The median citation year is more than `median_year_lag_threshold` years (default 5) behind `ai_modified` year.
 2. At least `missing_citation_threshold` (default 2) of the WebSearch results are *topically appropriate* — they engage the article's central evidential frame — *and* are not cited in the article (check by author surname + year grep against the article body).
+3. **Empirical-record currency drift.** The article contains a superlative claim ("current record / largest / first to demonstrate / to date") whose referenced result has been superseded by a newer published result that the WebSearch surfaces. This is a distinct defect class from staleness — the cite may be faithful, but the world moved (see `[[empirical-record-currency-drift]]`). Use `find_superlative_claims` from Step 1 to locate the exact passages; if any flagged superlative's underlying result is no longer the current record, raise the drift signal even when checks 1 and 2 are clean.
 
 Thresholds are configurable in `evolution-state.yaml:audit_triple.literature_drift.{median_year_lag_threshold, missing_citation_threshold}`.
 

@@ -9,7 +9,16 @@ from typing import Optional
 
 
 class TaskStatus(Enum):
-    """Task status values."""
+    """Task status values.
+
+    DONE/SUPERSEDED/RESOLVED_OBSOLETE are operator-set "closed in place"
+    markers used when a task in the Active section has been resolved
+    by a sibling task or made obsolete by upstream work but hasn't yet
+    been moved to the Completed section. They must be recognised so
+    ``get_next_task`` doesn't re-pick them — without that, the parser
+    silently downgrades the unknown value to PENDING and the task gets
+    re-selected indefinitely. See [[inline-status-done-header-still-selectable]].
+    """
 
     PENDING = "pending"
     IN_PROGRESS = "in-progress"
@@ -17,6 +26,9 @@ class TaskStatus(Enum):
     FAILED = "failed"
     COMPLETED = "completed"
     VETOED = "vetoed"
+    DONE = "done"
+    SUPERSEDED = "superseded"
+    RESOLVED_OBSOLETE = "resolved-obsolete"
 
 
 class TaskType(Enum):
@@ -36,7 +48,22 @@ class TaskType(Enum):
     INTEGRATE_ORPHAN = "integrate-orphan"
     APEX_EVOLVE = "apex-evolve"
     POSITIONS_EVOLVE = "positions-evolve"
+    # Wall-clock-only types. These are recognised so a queued instance doesn't
+    # silently parse to OTHER and inflate the queue depth — but they are
+    # *never* executed via the queue. The wall-clock trigger in
+    # evolve_loop.py auto-selects its own target and runs the skill there.
+    # See [[orphaned-literature-drift-queue-tasks]].
+    LITERATURE_DRIFT_REVIEW = "literature-drift-review"
     OTHER = "other"
+
+
+# Task types that are recognised by the parser but only ever execute via a
+# wall-clock trigger (not from the queue). count_p0_p2_tasks subtracts them
+# so a queued instance doesn't make the queue look healthier than it is, and
+# select_queue_task skips them with a warning.
+WALLCLOCK_ONLY_TASK_TYPES: set[TaskType] = {
+    TaskType.LITERATURE_DRIFT_REVIEW,
+}
 
 
 @dataclass

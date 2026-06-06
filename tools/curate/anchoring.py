@@ -78,6 +78,22 @@ DEFAULT_STRONG_ASSERTION_RATIO: float = 1.5  # topic's strong-assertion
                                              # 1.5× anchor's
 DEFAULT_MIN_WORD_COUNT: int = 400  # skip articles too short for the ratios
                                    # to be meaningful
+# Absolute ceiling on the hedge-density floor a topic must clear. Ultra-dense
+# anchor concept pages (qualia ~8.2/kw, valence ~7.2/kw) would otherwise force
+# a 60%-of-anchor floor of ~4.4–4.9/kw — mathematically unreachable for a
+# calibrated topic without over-hedging into mush. tune-system 2026-06-05
+# documented `wanting-liking-and-the-value-in-mechanism-fork` re-drawing the
+# same hedge_density refine task ~10× in one session, each closed as no-op.
+# 3.0/kw is the empirical "calibrated topic" upper band; capping there keeps
+# the audit catching genuinely under-hedged articles without rebroadcasting
+# unsatisfiable demands.
+HEDGE_DENSITY_FLOOR_CAP: float = 3.0
+# Absolute small allowance for strong-assertion density when the anchor has
+# zero. Topic articles legitimately use "demonstrates" / "establishes" /
+# "shows" when reporting settled empirical findings; a small absolute floor
+# prevents the audit penalising 1–2 such uses in an otherwise calibrated
+# topic. Per tune-system 2026-06-05 Audit-Three false-high analysis.
+STRONG_ASSERTION_ABSOLUTE_ALLOWANCE: float = 0.5
 
 # Wikilink resolution: ``[[slug]]`` and ``[[slug|display]]`` patterns. The
 # anchoring audit only needs the slug.
@@ -264,27 +280,37 @@ def evaluate_anchoring(
         notes: list[str] = []
 
         # Check 1: hedge density. Topic's hedge density should be at least
-        # ``hedge_density_ratio`` × anchor's. If anchor has near-zero hedge
-        # density the ratio is meaningless — skip the check in that case.
+        # ``hedge_density_ratio`` × anchor's, capped at HEDGE_DENSITY_FLOOR_CAP
+        # to avoid unsatisfiable demands from ultra-dense concept-page anchors.
+        # If anchor has near-zero hedge density the ratio is meaningless — skip.
         if anchor_profile.hedge_density >= 1.0:
-            min_topic_density = anchor_profile.hedge_density * hedge_density_ratio
+            min_topic_density = min(
+                anchor_profile.hedge_density * hedge_density_ratio,
+                HEDGE_DENSITY_FLOOR_CAP,
+            )
             if topic_profile.hedge_density < min_topic_density:
                 failed.append("hedge_density")
                 notes.append(
                     f"hedge density {topic_profile.hedge_density:.2f}/kw is "
-                    f"below {hedge_density_ratio:.0%} of anchor "
-                    f"({anchor_profile.hedge_density:.2f}/kw)"
+                    f"below {min_topic_density:.2f}/kw (target = "
+                    f"{hedge_density_ratio:.0%} of anchor "
+                    f"{anchor_profile.hedge_density:.2f}/kw, capped at "
+                    f"{HEDGE_DENSITY_FLOOR_CAP:.1f}/kw)"
                 )
 
         # Check 2: strong-assertion density. Topic should not exceed
         # ``strong_assertion_ratio`` × anchor's. If anchor has zero strong
-        # assertions and topic has any, that's a flag.
+        # assertions, allow a small absolute floor before flagging — topic
+        # articles legitimately use strong-assertion verbs when reporting
+        # settled empirical findings.
         if anchor_profile.strong_assertion_density == 0:
-            if topic_profile.strong_assertion_density > 0:
+            if topic_profile.strong_assertion_density > STRONG_ASSERTION_ABSOLUTE_ALLOWANCE:
                 failed.append("strong_assertions")
                 notes.append(
                     f"topic uses {topic_profile.strong_assertion_count} "
-                    f"strong-assertion verbs where anchor uses none"
+                    f"strong-assertion verbs ({topic_profile.strong_assertion_density:.2f}"
+                    f"/kw) where anchor uses none; absolute allowance is "
+                    f"{STRONG_ASSERTION_ABSOLUTE_ALLOWANCE:.1f}/kw"
                 )
         else:
             max_topic_density = (

@@ -31,6 +31,7 @@ The tool ranks candidates by:
 - Never reviewed (highest priority): base score 100 + days since modification
 - Modified since last review: days unreviewed * 2
 - Reviewed and unchanged: excluded (no review needed)
+- **Convergence damping**: each prior `deep-review-*-{slug}.md` review file divides the score by `(1 + 0.3 × count)`. Articles with 3+ prior reviews reviewed within the last 14 days are excluded entirely (a cosmetic cross-link bump should not re-trigger a fresh deep-review pass within two weeks of a thorough one).
 
 If no candidates are found, log to changelog and exit successfully.
 
@@ -114,6 +115,66 @@ The 2026-05-03 outer review by ChatGPT 5 Pro identified this distinction as the 
 **Counterarguments needing response** — Note these separately
 
 **Unsupported claims** — Flag factual claims without support
+
+### 2.4 Publisher-of-Record Citation Web-Verify (Mandatory for Citation-Bearing Articles)
+
+**This is the corpus's highest-yield single defect channel.** Tune-system 2026-06-03/06-04/06-05 documented ~24 distinct citation/empirical defects per session caught only here — wrong-author, wrong-paper, wrong-year, wrong-venue, fabricated, family-resolution errors that survived 5–12+ prior "verified" reviews because intra-corpus consistency *ratifies* them. The web-verify pass catches them; intra-corpus cross-check does not.
+
+**Trigger** — run the web-verify pass when the article matches any of:
+- Carries inline citations of the form `Author et al. YYYY` (any number of cites)
+- Has a References / Bibliography / Further Reading section with bibliographic entries
+- Cites empirical results, experiments, or quantitative findings
+- The body or References block was modified since the last deep-review (so a cosmetic-cross-link no-op pass on a stable References list can skip)
+
+**Skip only when** the article is pure conceptual analysis with zero bibliographic citations.
+
+#### Procedure
+
+For every inline cite `Author et al. YYYY` and every References entry:
+
+1. **WebSearch the publisher of record** (not Google Scholar abstracts, not aggregators that cache stale metadata). Acceptable verification sources:
+   - Journal websites (DOI landing pages, publisher PDFs)
+   - PubMed / arXiv for the canonical version
+   - Publisher catalog pages for book chapters
+   - For SEP / IEP / philosophy reference works: the live entry at the canonical URL
+
+2. **Verify the full citation tuple** — author surname(s), year, title, venue, volume/issue/pages (or DOI/arXiv ID).
+
+3. **Classify each cite into one of three states** (per `[[citation-verify-false-negative]]` discipline):
+   - **real-correct** — the citation is faithful; do nothing.
+   - **real-wrong-metadata** — the paper exists but the article has an error (wrong author, wrong year, wrong venue, wrong page range, wrong volume, missing co-author, etc.). Fix the metadata in place — do NOT delete the cite.
+   - **fabricated / unfindable** — no paper matching this metadata exists at any publisher across 3 independent searches with different keyword combinations. Before declaring fabrication, verify the claimed *result* is also unfindable (not just the metadata). If genuinely fabricated, remove the cite and the body claim it supports — or restore the claim with a different real citation if one is available.
+
+   **Common false-negative trap**: an `Author, FirstName et al. YYYY` cite may be the same person with first/middle order swapped (e.g. `Pérez López, D.` cited as `Pérez, D.L.`), or a compound surname split — search by *result* keywords, not author surname alone, before declaring fabrication. See [[ai_citation_metadata_unreliable]].
+
+4. **Empirical-record currency sweep** — for any cite that claims a *superlative* ("current record", "largest", "latest", "first to demonstrate", "to date"), additionally verify against the live 2020s literature that the superlative still holds. A correct cite whose empirical claim has been superseded is its own defect class (see `[[empirical-record-currency-drift]]`). Flag superseded superlatives even if the cite itself is faithful — the claim needs to be re-scoped to "as of YYYY" or replaced with the newer record.
+
+   To locate the exact passages to check, run the helper:
+
+   ```bash
+   uv run python -c "
+   from pathlib import Path
+   from tools.curate.empirical_currency import find_superlative_claims
+   for c in find_superlative_claims(Path('[filepath]')):
+       print(f'L{c.line_number}: \"{c.matched_phrase}\" — {c.context}')
+   "
+   ```
+
+   Each line returned is a candidate for web-verification. Empty output means no superlative claims detected; you can skip this sub-step.
+
+5. **Cross-reference inline ↔ References** — every inline `Author YYYY` must have a References entry; every References entry must be cited inline (or removed). Orphans in either direction are critical issues.
+
+6. **Family resolution** — when the same paper is cited with inconsistent metadata across the corpus (the article you're reviewing plus its `related_articles`), do not silently mint a new variant. Web-verify once at the publisher of record, then grep the corpus and propagate the canonical form across every file — record this as a sub-finding in the review archive.
+
+#### What to record
+
+In the review archive's Pessimistic / Critical Issues section, list each web-verified cite with its verified state. Format:
+
+```
+- Author YYYY (Title) — state: real-correct | real-wrong-metadata (was X, corrected to Y) | fabricated (removed) | currency-superseded (superlative claim updated to "as of YYYY")
+```
+
+This per-cite ledger lets future reviews see what was checked and avoids re-litigating the same cites. A review that simply says "citations verified" without the ledger is treated as having skipped this step.
 
 ### 2.5 Attribution Accuracy Check (Required for Source-Based Articles)
 
@@ -382,6 +443,7 @@ the git commit after this skill returns. For manual invocations, run
 - **Don't treat *bedrock* philosophical disagreement as "critical"** — The adversarial personas are *designed* to disagree with dualist content from outside the Map's framework. "MWI defender finds this unsatisfying" is not a critical issue; it's an expected philosophical standoff at the framework boundary
 - **DO treat possibility/probability slippage as critical** — Calibration errors that *look* like philosophical disagreements are correctable inside the Map's own framework, and the diagnostic test (would a tenet-accepting reviewer still flag the claim as overstated?) separates bedrock disagreement from slippage. See the "Distinguishing bedrock disagreement from calibration error" guidance in §2 above. Do not let the "philosophical disagreement is expected" rule shield slippage from corrective signal
 - **Don't oscillate** — If you find yourself wanting to expand something a previous review trimmed (or vice versa), that's a signal the article has reached stability, not that it needs more changes
+- **Don't skip the §2.4 publisher-of-record web-verify pass on citation-bearing articles** — intra-corpus consistency *ratifies* wrong citations rather than catching them; only the live publisher does. A review of a citation-heavy article that says "citations verified" without a per-cite ledger in the review archive is treated as having skipped this step. See `[[ai_citation_metadata_unreliable]]`, `[[citation-verify-false-negative]]`, `[[empirical-record-currency-drift]]`
 
 ### Attribution Errors to Catch
 
@@ -407,7 +469,11 @@ The candidate selection algorithm prioritizes:
 3. **Reviewed, unchanged** (excluded)
    - Documents where content hasn't changed since last review are skipped
 
-This ensures new content gets reviewed first, then modified content, while avoiding redundant reviews.
+4. **Convergence damping** (applied after the above)
+   - Final score divided by `(1 + 0.3 × prior_review_count)`. A 3-prior-review article gets ~0.5× the raw score; a 5-prior-review article gets ~0.4×; a 10-prior-review article gets ~0.25×.
+   - Articles with ≥3 prior reviews AND `last_deep_review` within the last 14 days are excluded outright. This guards against the corpus-wide pattern where a cosmetic cross-link install in another article bumps `ai_modified` and re-qualifies a converged article for review, producing a no-op pass.
+
+This ensures new content gets reviewed first, then modified content, while damping multi-reviewed converged articles and avoiding redundant reviews.
 
 ## Important
 

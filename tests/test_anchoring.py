@@ -9,6 +9,8 @@ import pytest
 
 from tools.curate.anchoring import (
     DEFAULT_HEDGE_DENSITY_RATIO,
+    HEDGE_DENSITY_FLOOR_CAP,
+    STRONG_ASSERTION_ABSOLUTE_ALLOWANCE,
     AnchoringFlag,
     CalibrationProfile,
     compute_profile,
@@ -249,6 +251,77 @@ def test_evaluates_against_multiple_anchors(tmp_path: Path) -> None:
     )
     flags = evaluate_anchoring(topic, tmp_path)
     assert {f.anchor_concept_path.stem for f in flags} == {"anchor-a", "anchor-b"}
+
+
+def test_ultra_dense_anchor_does_not_force_unreachable_floor(tmp_path: Path) -> None:
+    """An ultra-dense anchor (hedge density ≫ HEDGE_DENSITY_FLOOR_CAP / ratio)
+    must not produce a floor that's mathematically unreachable. The cap
+    catches the wanting-liking false-high case (qualia anchor 8.2/kw forcing
+    a 4.9/kw floor)."""
+    # Build a body with high hedge density (~10/kw — ultra-dense, like a
+    # concept-page anchor). 600 words of body with many hedge markers.
+    ultra_dense_body = (
+        "Padding sentence with neutral content. " * 60
+        + " The hypothesis may be true. The evidence could support it. "
+          "Perhaps the reading appears compatible. It seems suggestive. "
+          "Perhaps it might. It could. It may. Possibly. " * 8
+    )
+    _make_article(tmp_path, "concepts", "ultra-dense-anchor", body=ultra_dense_body)
+    anchor_profile = compute_profile(tmp_path / "concepts" / "ultra-dense-anchor.md")
+    assert anchor_profile is not None
+    # Sanity: the anchor really is ultra-dense.
+    assert anchor_profile.hedge_density >= HEDGE_DENSITY_FLOOR_CAP / DEFAULT_HEDGE_DENSITY_RATIO
+
+    # Topic at HEDGE_DENSITY_FLOOR_CAP exactly should clear the check;
+    # without the cap a 0.6 × 10/kw = 6.0/kw floor would flag it.
+    calibrated_topic_body = (
+        "Padding sentence with neutral content. " * 60
+        + " The result may hold. Perhaps it could. It seems so. " * 5
+    )
+    topic = _make_article(
+        tmp_path,
+        "topics",
+        "calibrated-against-ultra-dense",
+        body=calibrated_topic_body,
+        concepts=["ultra-dense-anchor"],
+    )
+    topic_profile = compute_profile(topic)
+    assert topic_profile is not None
+    # Topic density must be at or above the cap for this test to be meaningful.
+    assert topic_profile.hedge_density >= HEDGE_DENSITY_FLOOR_CAP
+
+    flags = evaluate_anchoring(topic, tmp_path)
+    hedge_flags = [f for f in flags if "hedge_density" in f.failed_checks]
+    assert hedge_flags == [], (
+        "Topic at-or-above the absolute hedge-density cap must not be "
+        "flagged even when the anchor is ultra-dense"
+    )
+
+
+def test_strong_assertion_absolute_allowance_when_anchor_has_none(tmp_path: Path) -> None:
+    """A topic with a single strong-assertion verb against an anchor that has
+    none must not trigger the strong-assertion check — the absolute allowance
+    accommodates legitimate empirical-reporting verbs."""
+    # Anchor with zero strong assertions.
+    _make_article(tmp_path, "concepts", "calm-anchor", body=HEDGED_BODY)
+    # Topic uses one "demonstrates" against a ~2500-word body, so its
+    # strong-assertion density (~0.4/kw) falls under the 0.5/kw allowance.
+    topic_body = HEDGED_BODY + HEDGED_BODY + " The experiment demonstrates the effect."
+    topic = _make_article(
+        tmp_path,
+        "topics",
+        "occasional-empirical-reporter",
+        body=topic_body,
+        concepts=["calm-anchor"],
+    )
+    topic_profile = compute_profile(topic)
+    assert topic_profile is not None
+    assert 0 < topic_profile.strong_assertion_density <= STRONG_ASSERTION_ABSOLUTE_ALLOWANCE
+
+    flags = evaluate_anchoring(topic, tmp_path)
+    # The topic may still fire on other checks; only assert no strong-assertion flag.
+    for f in flags:
+        assert "strong_assertions" not in f.failed_checks
 
 
 def test_threshold_is_tunable(tmp_path: Path) -> None:

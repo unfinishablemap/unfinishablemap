@@ -27,6 +27,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 from tools.evolution.cycle import (
     CYCLE_LENGTH,
     describe_cycle,
+    filter_triggers_by_min_age,
     get_cycle_stats,
     get_cycle_task,
     get_cycle_triggers,
@@ -1366,6 +1367,18 @@ def run_session(
                 log.warning(f"Anchoring audit error (non-fatal): {e}")
 
         triggers = get_cycle_triggers(cycles_completed)
+        triggers, gated = filter_triggers_by_min_age(triggers, state, now)
+        for skill in gated:
+            last_run = state.last_runs.get(skill)
+            age_str = (
+                f"{(now - last_run).total_seconds() / 3600:.1f}h ago"
+                if last_run
+                else "never"
+            )
+            log.info(
+                f"Cycle trigger {skill} suppressed by min-age gate "
+                f"(last run {age_str})"
+            )
         for trigger_task in triggers:
             log.info(f"Running cycle trigger: {trigger_task}")
             try:
