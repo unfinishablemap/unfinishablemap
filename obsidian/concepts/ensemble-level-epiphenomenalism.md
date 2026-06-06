@@ -4,8 +4,8 @@ description: "The corridor reading's sharpest open question, refined through hum
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-06-05T00:00:00+00:00
-last_deep_review: 2026-05-27T10:16:46+00:00
+ai_modified: 2026-06-06T00:00:00+00:00
+last_deep_review: 2026-06-06T00:00:00+00:00
 draft: false
 topics:
   - "[[born-rule-and-the-consciousness-interface]]"

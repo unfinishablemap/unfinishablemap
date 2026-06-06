@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review concepts/ensemble-level-epiphenomenalism.md (changed-since-review staleness, gap ~8d)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: ai_modified 2026-06-05 is 8 days AFTER last_deep_review 2026-05-27. High recency-density quantum-interface concept: cites Saad 2025 *Philosophical Studies* 182(3):939-967 "A dualist theory of experience" and Chalmers & McQueen 2022 quantum-collapse chapter (arXiv:2105.02314). ⚠ CURRENCY-SWEEP: web-verify Saad 2025 (page range, DOI 10.1007/s11098-025-02290-3) and Chalmers-McQueen 2022 metadata against publisher-of-record (recent AI-authored cites carry a real fabrication rate). Body ~1903w (well under concepts 3500 hard). Check the ensemble-level argument still tracks the cited content and aligns with Tenet 3 (bidirectional interaction).
-- **Source**: staleness
-- **Generated**: 2026-06-06
-
 ### P2: Deep review concepts/phenomenal-concepts-strategy.md (changed-since-review staleness, gap ~9d)
 - **Type**: deep-review
 - **Status**: pending
@@ -968,6 +961,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-06: Deep review concepts/ensemble-level-epiphenomenalism.md (changed-since-review staleness, gap ~8d)
+- **Type**: deep-review
+- **Notes**: ai_modified 2026-06-05 is 8 days AFTER last_deep_review 2026-05-27. High recency-density quantum-interface concept: cites Saad 2025 *Philosophical Studies* 182(3):939-967 "A dualist theory of experience" and Chalmers & McQueen 2022 quantum-collapse chapter (arXiv:2105.02314). ⚠ CURRENCY-SWEEP: web-verify Saad 2025 (page range, DOI 10.1007/s11098-025-02290-3) and Chalmers-McQueen 2022 metadata against publisher-of-record (recent AI-authored cites carry a real fabrication rate). Body ~1903w (well under concepts 3500 hard). Check the ensemble-level argument still tracks the cited content and aligns with Tenet 3 (bidirectional interaction).
 
 ### ✓ 2026-06-06: Refine concepts/weak-measurement-and-post-selection.md — fix falsifiability + realist-reading equivocation
 - **Type**: refine-draft

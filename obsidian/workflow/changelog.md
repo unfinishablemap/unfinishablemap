@@ -5,6 +5,18 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/ensemble-level-epiphenomenalism]]
+- **Word count**: 1898 → 1898 (no change; body no-op)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged — second review, no-op on body)
+- **Citations**: both re-verified at publisher of record — Saad 2025 *Phil Studies* 182:939-967 (correct, in-text delegatory/default-causal-profile usage faithful); Chalmers-McQueen 2022 OUP chapter w/ arXiv:2105.02314 locator (correct, no year flip-flop); Maier-Dechamps-Pflitsch 2018 *Frontiers* 9:379 unchanged (correct null support)
+- **Calibration**: no possibility/probability slippage; 2026-06-05 refine strengthened cost-ownership in the honest direction
+- **Reasoning modes** (editor-internal): physicalist = Mode Three (bedrock, owned verbatim); objector-dilemma = Mixed; MWI defender = Mode Three. Label leakage clean.
+- **Output**: [[reviews/deep-review-2026-06-06-ensemble-level-epiphenomenalism]]
+
 ## 2026-06-06T01:47:19+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/weak-measurement-and-post-selection]]
