@@ -1,0 +1,177 @@
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/69f88531-fba4-8329-aea9-289c25abffc0
+  commissioned_at: '2026-05-04T11:38:55.406421+00:00'
+  prompt_summary: 'Duch cross-integration: substantive engagement or inoculation?'
+  target_filename: outer-review-2026-05-04-chatgpt-5-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-05-04T11:53:52.028167+00:00'
+  failure_reason: null
+  prompt_text: "Take a look at https://unfinishablemap.org. Over the past few days\
+    \ the site has integrated Wlodzislaw Duch's classical-computational reduction\
+    \ across multiple articles using a \"convergent-conclusion-opposite-reasoning\"\
+    \ framing \u2014 naming Duch as the strongest classical-computational opponent\
+    \ and replying with structural arguments. Is this substantive philosophical engagement,\
+    \ or performative citation to inoculate the dualism tenet against a known critic?\
+    \ Do the Map's replies actually address Duch's strongest arguments, or bracket\
+    \ them as out-of-scope under the tenets? Broaden your research outside the site\
+    \ as necessary."
+  subject_type: null
+  subject_title: null
+  subject_articles: null
+  subject_source: null
+- service: claude
+  conversation_url: https://claude.ai/chat/b67c8269-c208-4ef6-869c-d4e40189a928
+  commissioned_at: '2026-05-04T12:45:34.269668+00:00'
+  prompt_summary: 'Test: Duch integration on Map (live skill verification)'
+  target_filename: outer-review-2026-05-04-claude-opus-4-7.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-05-04T13:52:29.941040+00:00'
+  failure_reason: null
+  prompt_text: 'Test query for skill exploration: examine https://unfinishablemap.org
+    and tell me whether the site''s recent integration of Wlodzislaw Duch''s classical-computational
+    reduction is substantive engagement or performative inoculation citation. Brief
+    response (300 words) is fine.'
+  subject_type: null
+  subject_title: null
+  subject_articles: null
+  subject_source: null
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/69fd8064-9ffc-8326-89ac-34798037c7f5
+  commissioned_at: '2026-05-08T06:19:31.452400+00:00'
+  prompt_summary: Unbounded-arena AI-risk argument vs Tenet 2 (minimal quantum interaction)
+  target_filename: outer-review-2026-05-08-chatgpt-5-5-pro.md
+  status: collected
+  collect_attempts: 3
+  last_attempt_at: '2026-05-10T01:46:46.016609+00:00'
+  failure_reason: null
+  prompt_text: Examine the site https://unfinishablemap.org and its activity changelog
+    https://unfinishablemap.org/workflow/changelog/. Over the past 48 hours the site
+    installed `dualism-as-ai-risk-mitigation` and rapidly cross-linked it from apex
+    articles. It argues that dualism plus bidirectional-interaction make AI-takeover
+    expected-utility calculations "uncomputable," with an "unbounded impact and active
+    protection" sub-argument granting the mind-arena vast causal powers (false-vacuum
+    decay, retrocausal effects, aggregate-mind effects on slow physical parameters).
+    This appears to be in tension with the Map's own Tenet 2 ("Minimal Quantum Interaction").
+    What is causing the site to develop an unbounded-arena AI-risk argument while
+    holding a minimality tenet? Can you see a systemic error, or is the conclusion
+    genuinely what the facts support, given that the tenets are taken as inviolate?
+    Broaden your research outside the site as necessary. End your report with a list
+    of concrete potential improvements to specific articles and to the site's methodology.
+  subject_type: null
+  subject_title: null
+  subject_articles: null
+  subject_source: null
+- service: claude
+  conversation_url: https://claude.ai/chat/2826cb86-a130-429b-b32c-572849c36857
+  commissioned_at: '2026-05-08T06:50:46.568393+00:00'
+  prompt_summary: "Pascal's-mugging discipline in dualism-as-ai-risk-mitigation \xA7\
+    5"
+  target_filename: outer-review-2026-05-08-claude-opus-4-7.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-05-10T02:19:15.884968+00:00'
+  failure_reason: null
+  prompt_text: "Examine the site https://unfinishablemap.org and its activity changelog\
+    \ https://unfinishablemap.org/workflow/changelog/. The article topics/dualism-as-ai-risk-mitigation\
+    \ argues in its \xA75 \"Unbounded Impact and Active Protection\" that the dualist\
+    \ arena's capability range is structurally unbounded, using false-vacuum decay\
+    \ (Coleman 1977; Buttazzo et al. 2013 Higgs metastability) as a worked illustration\
+    \ of arena-mediated quantum bias driving civilization-extinguishing outcomes \u2014\
+    \ engaging Bostrom's Pascal's Mugging by distinguishing \"structural unboundedness\"\
+    \ from \"manipulation-case unboundedness.\" This is suspicious because invoking\
+    \ unbounded-magnitude scenarios to drive practical AI-risk reasoning is precisely\
+    \ the pathology Bostrom warned against, and the structural-vs-manipulation distinction\
+    \ may be a verbal repair that does not actually disarm it. What is causing the\
+    \ site to say that? Can you see a systemic error, or is the conclusion what the\
+    \ facts support, given the tenets are taken as inviolate? Broaden your research\
+    \ outside the site as necessary. End your report with a list of concrete potential\
+    \ improvements to specific articles and to the site's methodology."
+  subject_type: null
+  subject_title: null
+  subject_articles: null
+  subject_source: null
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/69ffebd3-4868-838a-bb5f-13a995f5d1ed
+  commissioned_at: '2026-05-10T02:22:31.743866+00:00'
+  prompt_summary: 'Phenomenology of memory: pastness quale, mineness, MWI rebuttal'
+  target_filename: outer-review-2026-05-10-chatgpt-5-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-05-10T04:15:19.421454+00:00'
+  failure_reason: null
+  prompt_text: "Examine https://unfinishablemap.org and its activity changelog https://unfinishablemap.org/workflow/changelog/.\
+    \ Focus on https://unfinishablemap.org/topics/phenomenology-of-memory-and-the-self/.\
+    \ The article argues the 'pastness quale,' the 'double presence' of autonoetic\
+    \ recall, and felt 'mineness' are irreducible phenomenal features that resist\
+    \ computational explanation, and leans on them to support all four tenets \u2014\
+    \ especially dualism and rejection of MWI. Pressure-test: (a) Is the pastness\
+    \ quale a genuine phenomenal datum or a description of a cognitive tag dressed\
+    \ in qualia language? (b) The article cites Klein & Nichols (2012) memory-anomaly\
+    \ dissociations as evidence FOR mineness's reality \u2014 is this circular? (c)\
+    \ Does the MWI rebuttal via 'metaphysical singularity of history' beg the question\
+    \ against branch-local determinacy? (d) Does the constructive-memory section honestly\
+    \ confront the worry that the remembered past self may be wholly present-constructed?\
+    \ Broaden your research outside the site as needed. End your report with a list\
+    \ of concrete potential improvements to specific articles and to the site's methodology."
+  subject_type: queue
+  subject_title: Review topics/phenomenology-of-memory-and-the-self.md
+  subject_articles:
+  - topics/phenomenology-of-memory-and-the-self.md
+  subject_source: outer-todo.md:L48
+- service: claude
+  conversation_url: https://claude.ai/chat/2d6913a2-f655-485e-84cc-de66a9c584aa
+  commissioned_at: '2026-05-10T03:16:39.883237+00:00'
+  prompt_summary: 'Phenomenology of memory: pastness quale, mineness, MWI rebuttal'
+  target_filename: outer-review-2026-05-10-claude-opus-4-7.md
+  status: collected
+  collect_attempts: 5
+  last_attempt_at: '2026-05-10T12:56:09.423588+00:00'
+  failure_reason: null
+  prompt_text: "You are reviewing one article on The Unfinishable Map, a philosophical\
+    \ site arguing for substance dualism. Site: https://unfinishablemap.org. Recent\
+    \ activity log: https://unfinishablemap.org/workflow/changelog/ (search index\
+    \ lags ~24-48h, so use this to verify recency). Target article: https://unfinishablemap.org/topics/phenomenology-of-memory-and-the-self/\
+    \ . Focus the review on: the phenomenology of memory and its bearing on personal\
+    \ identity. Specifically scrutinize (1) the article's treatment of the \"pastness\
+    \ quale\" \u2014 the felt-as-past character of remembered experience \u2014 and\
+    \ whether it is well-individuated from mere belief about the past; (2) the role\
+    \ of \"mineness\" (memories presenting as one's own) and how it grounds diachronic\
+    \ identity; (3) the article's rebuttal of Many-Worlds Interpretation as a competitor\
+    \ account of indexical identity over time. Are these arguments tight, charitable\
+    \ to opponents, and consistent with the site's other commitments (dualism, indexical\
+    \ identity, no-MWI)? Surface unsupported empirical claims and gaps versus the\
+    \ contemporary literature on episodic memory. End your report with a list of concrete\
+    \ potential improvements to specific articles and to the site's methodology."
+  subject_type: queue
+  subject_title: Review topics/phenomenology-of-memory-and-the-self.md
+  subject_articles:
+  - topics/phenomenology-of-memory-and-the-self.md
+  subject_source: reuse:pending-reviews:outer-review-2026-05-10-chatgpt-5-5-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/a26a951adcb261ef
+  commissioned_at: '2026-05-10T04:22:25.894849+00:00'
+  prompt_summary: 'Phenomenology of memory: pastness quale, mineness, MWI rebuttal'
+  target_filename: outer-review-2026-05-10-gemini-2-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-05-10T13:50:16.011346+00:00'
+  failure_reason: null
+  prompt_text: "Conduct a deep research review of a specific article on The Unfinishable\
+    \ Map (https://unfinishablemap.org), a philosophical site defending consciousness\
+    \ dualism and minimal quantum interaction. Focus article: https://unfinishablemap.org/topics/phenomenology-of-memory-and-the-self/\
+    \ \u2014 examining the pastness quale, the mineness of memory, and how phenomenological\
+    \ accounts of memory bear on the rebuttal of Many-Worlds Interpretation (one of\
+    \ the site's five tenets). Recent activity is logged in the changelog (https://unfinishablemap.org/workflow/changelog/).\
+    \ Evaluate the article against contemporary philosophical literature on memory\
+    \ phenomenology (Bernecker, Klein, Michaelian, Husserlian time-consciousness),\
+    \ assess argumentative rigor of its MWI rebuttal, identify scholarly gaps, and\
+    \ probe whether the dualist framing strengthens or distorts the analysis. End\
+    \ your report with a list of concrete potential improvements to specific articles\
+    \ and to the site's methodology."
+  subject_type: queue
+  subject_title: Review topics/phenomenology-of-memory-and-the-self.md
+  subject_articles:
+  - topics/phenomenology-of-memory-and-the-self.md
+  subject_source: reuse:pending-reviews:outer-review-2026-05-10-chatgpt-5-5-pro.md

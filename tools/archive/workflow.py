@@ -1,10 +1,12 @@
-"""Archive workflow files (changelog, completed tasks) into weekly files."""
+"""Archive workflow files (changelog, completed tasks, pending reviews) into weekly files."""
 
 import re
 from datetime import date, datetime, timezone
 from pathlib import Path
 
 import frontmatter
+
+from tools.reviews.pending import PendingReview, load_pending, save_pending
 
 
 def get_iso_week(d: date) -> str:
@@ -290,5 +292,85 @@ def archive_completed_tasks(
         )
         post.content = new_content
         todo_path.write_text(frontmatter.dumps(post), encoding="utf-8")
+
+    return archived_counts
+
+
+def archive_pending_reviews(
+    pending_path: Path,
+    archive_dir: Path,
+    keep_weeks: int = 1,
+    dry_run: bool = False,
+) -> dict[str, int]:
+    """
+    Move old resolved outer-review entries to weekly archive YAML files.
+
+    Unlike the changelog/completed-tasks archives (markdown sections), the
+    pending-reviews file is a YAML list, so archive files are written as YAML
+    lists too (reusing save_pending) and remain machine-readable.
+
+    In-flight entries (status == "pending") are NEVER archived regardless of
+    age — they are still actively polled by find_ready/find_abandoned. Only
+    terminal entries (collected/failed/abandoned) older than keep_weeks are
+    moved. The live consumers (subject reuse, site-stale check, combine quorum)
+    only read the current cycle's entries plus pending ones, so keep_weeks=1
+    leaves a comfortable margin.
+
+    Args:
+        pending_path: Path to pending-reviews.yaml
+        archive_dir: Directory for archive files
+        keep_weeks: Number of recent weeks to keep in the main file
+        dry_run: If True, don't write files
+
+    Returns:
+        Dict mapping ISO week strings to number of entries archived
+    """
+    reviews = load_pending(pending_path)
+    if not reviews:
+        return {}
+
+    current_week = get_current_iso_week()
+    current_week_start = _week_start_date(current_week)
+    entries_by_week: dict[str, list[PendingReview]] = {}
+    entries_to_keep: list[PendingReview] = []
+
+    for review in reviews:
+        # Never archive in-flight work, no matter how old.
+        if review.status == "pending":
+            entries_to_keep.append(review)
+            continue
+
+        entry_week = get_iso_week(review.commissioned_at.date())
+        weeks_ago = (current_week_start - _week_start_date(entry_week)).days // 7
+
+        if weeks_ago < keep_weeks:
+            entries_to_keep.append(review)
+        else:
+            entries_by_week.setdefault(entry_week, []).append(review)
+
+    archived_counts: dict[str, int] = {}
+    if not dry_run:
+        archive_dir.mkdir(parents=True, exist_ok=True)
+
+    for iso_week, entries in sorted(entries_by_week.items()):
+        archive_file = archive_dir / f"pending-reviews-{iso_week}.yaml"
+        archived_counts[iso_week] = len(entries)
+
+        if dry_run:
+            continue
+
+        # Merge with any existing archive file, de-duplicating by target
+        # filename so re-runs are idempotent. Chronological order.
+        merged: dict[str, PendingReview] = {
+            r.target_filename: r for r in load_pending(archive_file)
+        }
+        for r in entries:
+            merged[r.target_filename] = r
+        ordered = sorted(merged.values(), key=lambda r: r.commissioned_at)
+        save_pending(ordered, archive_file)
+
+    # Rewrite main file with kept entries.
+    if not dry_run and entries_by_week:
+        save_pending(entries_to_keep, pending_path)
 
     return archived_counts

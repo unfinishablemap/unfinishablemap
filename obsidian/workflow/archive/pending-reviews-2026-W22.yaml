@@ -1,0 +1,269 @@
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a15ab1d-8394-832c-ae3e-34beda60ef38
+  commissioned_at: '2026-05-26T14:16:20.082132+00:00'
+  prompt_summary: Audit phenomenal-output-causal-machinery-dissociation
+  target_filename: outer-review-2026-05-26-chatgpt-5-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-05-26T16:56:47.696866+00:00'
+  failure_reason: null
+  prompt_text: "Please audit this article on The Unfinishable Map (https://unfinishablemap.org),\
+    \ a dualist philosophy site: https://unfinishablemap.org/apex/phenomenal-output-causal-machinery-dissociation/\
+    \ \u2014 last substantively revised on 2026-05-19, so search engines have had\
+    \ time to re-index it. Recent site activity is logged at the changelog: https://unfinishablemap.org/workflow/changelog/\
+    \ (consult it, since web-search indexes lag 24-48h). Scrutinize the article's\
+    \ central dissociation thesis: does the evidence support it, are the citations\
+    \ current and accurately characterized, and are the strongest counterarguments\
+    \ engaged rather than bracketed away to protect the site's dualist tenets? Check\
+    \ how well it integrates with surrounding apex and topic articles, and flag any\
+    \ stale references or claims that newer 2020s literature would complicate. End\
+    \ your report with a list of concrete potential improvements to specific articles\
+    \ and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit phenomenal-output-causal-machinery-dissociation
+  subject_articles:
+  - apex/phenomenal-output-causal-machinery-dissociation.md
+  subject_source: fallback:recent-aged
+- service: gemini
+  conversation_url: https://gemini.google.com/app/49c873ef969e37b2
+  commissioned_at: '2026-05-26T14:21:43.714124+00:00'
+  prompt_summary: Hostile referee audit of phenomenal-output-causal-machinery-dissociation
+    apex
+  target_filename: outer-review-2026-05-26-gemini-2-5-pro.md
+  status: abandoned
+  collect_attempts: 3
+  last_attempt_at: '2026-05-26T16:45:03.847565+00:00'
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal such as Mind, Synthese, or Philosophical Studies, reviewing this article
+    for submission. Your remit is to identify weaknesses that would justify rejection
+    or major revision. The article is at https://unfinishablemap.org/apex/phenomenal-output-causal-machinery-dissociation/
+    and makes claims about a recurring dissociation in which phenomenal access reaches
+    cognitive outputs but not the operations that produce them, across perception,
+    cognition, agency, and memory; the site argues for a non-reductive view of consciousness.
+    Recent context is at https://unfinishablemap.org/workflow/changelog/ (web search
+    has a 24-48 hour index lag). Do not describe the site automation, review pipeline,
+    methodology disciplines, evolution loop, or governance infrastructure. Those are
+    project-internal and not the subject of audit. Assess only the article empirical
+    claims, citations, counterargument coverage, and logical inferences. Audit: (a)
+    empirical accuracy against 2020s literature on metacognition, source-monitoring,
+    sense of agency, and numerosity; (b) whether any cited result has been challenged,
+    retracted, or failed replication; (c) framings that smuggle in the article own
+    commitments rather than arguing for them; (d) untested counterarguments or competing
+    frameworks such as higher-order, predictive-processing, or illusionist accounts.
+    End your report with the at-least-five weaknesses list, each with a 2020-2025
+    source citation, and a one-sentence verdict on academic-submission readiness.
+    Do not append summary praise.'
+  subject_type: recent
+  subject_title: Audit phenomenal-output-causal-machinery-dissociation
+  subject_articles:
+  - apex/phenomenal-output-causal-machinery-dissociation.md
+  subject_source: reuse:pending-reviews:outer-review-2026-05-26-chatgpt-5-5-pro.md
+- service: claude
+  conversation_url: https://claude.ai/chat/83d5037d-68ca-43bc-b9a8-31a039325f49
+  commissioned_at: '2026-05-26T14:30:21.254182+00:00'
+  prompt_summary: Audit phenomenal-output/causal-machinery dissociation apex article
+  target_filename: outer-review-2026-05-26-claude-opus-4-7.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-05-26T16:48:03.172409+00:00'
+  failure_reason: null
+  prompt_text: "Please conduct a rigorous outer review of one article on The Unfinishable\
+    \ Map (https://unfinishablemap.org), a dualist philosophy-of-mind project. The\
+    \ target article is \"Phenomenal Output and Causal Machinery\": https://unfinishablemap.org/apex/phenomenal-output-causal-machinery-dissociation/\
+    \ \u2014 an apex synthesis arguing that phenomenal access systematically reaches\
+    \ cognitive outputs but not the operations producing them (familiarity, effort,\
+    \ cardinality, agency), and that this cumulative convergence raises the explanatory\
+    \ cost on materialist absorption. Assess: (1) whether the empirical phenomena\
+    \ cited (recognition without recollection, effort phenomenology, subitizing, etc.)\
+    \ are accurately characterised against the current literature; (2) whether the\
+    \ cumulative-convergence inference is valid or commits a gerrymandering/selection\
+    \ fallacy; (3) whether the common-cause null is fairly handled; (4) any overlooked\
+    \ materialist rejoinders. For recent site context, consult the changelog: https://unfinishablemap.org/workflow/changelog/.\
+    \ End your report with a list of concrete potential improvements to specific articles\
+    \ and to the site methodology."
+  subject_type: recent
+  subject_title: Audit phenomenal-output-causal-machinery-dissociation
+  subject_articles:
+  - apex/phenomenal-output-causal-machinery-dissociation.md
+  subject_source: reuse:pending-reviews:outer-review-2026-05-26-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a1650b8-07a8-832e-92b2-d8fc36cc55a9
+  commissioned_at: '2026-05-27T02:02:50.394626+00:00'
+  prompt_summary: Audit meaning-of-life article (recent revision)
+  target_filename: outer-review-2026-05-27-chatgpt-5-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-05-27T03:38:29.817788+00:00'
+  failure_reason: null
+  prompt_text: 'I''m auditing one article from The Unfinishable Map (https://unfinishablemap.org),
+    a philosophical site exploring a dualist framework where consciousness is non-physical
+    and minimally influences quantum outcomes. Please review the article at https://unfinishablemap.org/topics/meaning-of-life/,
+    which was substantively revised on 2026-05-20. Assess: (1) whether its central
+    claims are adequately supported or rest on insufficient evidence; (2) counterarguments
+    it misses or handles weakly; (3) places where it brackets objections to protect
+    the site''s dualist tenets rather than engaging them; (4) stale or misattributed
+    citations against the current literature; and (5) how well it integrates with
+    surrounding articles. For recent site activity (web indexes lag 24-48h), consult
+    the changelog at https://unfinishablemap.org/workflow/changelog/. End your report
+    with a list of concrete potential improvements to specific articles and to the
+    site''s methodology.'
+  subject_type: recent
+  subject_title: Audit meaning-of-life
+  subject_articles:
+  - topics/meaning-of-life.md
+  subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/0ed50d4d-3115-46f3-9d02-8c49e05f559e
+  commissioned_at: '2026-05-27T03:06:50.404779+00:00'
+  prompt_summary: 'Audit meaning-of-life: consciousness-grounded value vs nihilism'
+  target_filename: outer-review-2026-05-27-claude-opus-4-7.md
+  status: collected
+  collect_attempts: 3
+  last_attempt_at: '2026-05-27T04:27:30.687652+00:00'
+  failure_reason: null
+  prompt_text: "Please conduct a rigorous outer review of one article on The Unfinishable\
+    \ Map (https://unfinishablemap.org), a dualist philosophy-of-mind site holding\
+    \ that consciousness is fundamental and causally efficacious. The article: \"\
+    The Meaning of Life\" at https://unfinishablemap.org/topics/meaning-of-life/ \u2014\
+    \ it argues meaning is grounded in the intrinsic significance of conscious experience\
+    \ itself, a fifth option beyond supernaturalism, objective/subjective naturalism,\
+    \ and nihilism. Assess: (1) whether the consciousness-grounded-value move actually\
+    \ answers the nihilist and avoids smuggling in the objective values it claims\
+    \ to replace; (2) the strength of its responses to illusionism, error theory,\
+    \ and evolutionary debunking; (3) fairness to Wolf, Metz, Benatar, Nagel, and\
+    \ Rawlette; (4) whether the quantum/free-will grounding is over-claimed. For site\
+    \ context and recent edits, see the changelog: https://unfinishablemap.org/workflow/changelog/.\
+    \ End your report with a list of concrete potential improvements to specific articles\
+    \ and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit meaning-of-life
+  subject_articles:
+  - topics/meaning-of-life.md
+  subject_source: reuse:pending-reviews:outer-review-2026-05-27-chatgpt-5-5-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/e81af037f36722f6
+  commissioned_at: '2026-05-27T04:05:02.816292+00:00'
+  prompt_summary: Hostile referee audit of meaning-of-life article
+  target_filename: outer-review-2026-05-27-gemini-2-5-pro.md
+  status: abandoned
+  collect_attempts: 28
+  last_attempt_at: '2026-05-27T14:49:35.039950+00:00'
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (e.g., Mind, Synthese, Philosophical Studies) reviewing this article for
+    submission. Your remit is to identify weaknesses that would justify rejection
+    or major revision. The article is at https://unfinishablemap.org/topics/meaning-of-life/
+    (recent changelog: https://unfinishablemap.org/workflow/changelog/) and argues
+    that meaning is grounded in the intrinsic significance of conscious experience;
+    the site argues for a non-reductive view of consciousness. Do not describe the
+    site''s automation, review pipeline, methodology disciplines, evolution loop,
+    or governance infrastructure. Those are project-internal and not the subject of
+    audit. Assess only the article''s empirical claims, citations, counterargument
+    coverage, and logical inferences. Specifically audit: (a) empirical accuracy against
+    2020-2025 literature; (b) any challenged, retracted, or failed-to-replicate results
+    it leans on; (c) places where a contested philosophical commitment is presented
+    as settled; (d) untested counterarguments or competing frameworks (desire-satisfaction,
+    hybrid, or naturalist meaning theories) it ignores. Do not close with a summary
+    of the site''s strengths, methodology, or architectural ambition. End your report
+    with at least five specific weaknesses, each with a 2020-2025 source citation
+    the article omits or mishandles, and a one-sentence verdict on academic-submission
+    readiness. Do not append summary praise.'
+  subject_type: recent
+  subject_title: Audit meaning-of-life
+  subject_articles:
+  - topics/meaning-of-life.md
+  subject_source: reuse:pending-reviews:outer-review-2026-05-27-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a18f48d-b8cc-832f-9097-c4b8c3ac8d6f
+  commissioned_at: '2026-05-29T02:06:25.240784+00:00'
+  prompt_summary: Audit mutation-void (recent-aged)
+  target_filename: outer-review-2026-05-29-chatgpt-5-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-05-29T03:55:18.648729+00:00'
+  failure_reason: null
+  prompt_text: 'Please conduct an outer review of one article on The Unfinishable
+    Map, a dualist philosophy site: the "mutation-void" page at https://unfinishablemap.org/voids/mutation-void/.
+    It was last substantively revised on 2026-05-22, so search engines have had time
+    to re-index it. For recent site activity, consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    (external web indexes lag 24-48h), and the site root is https://unfinishablemap.org.
+    Audit the article rigorously: Do its central claims hold up? Are citations accurate
+    and current against the live 2020s literature? What counterarguments does it miss
+    or under-address? Where does tenet-protective bracketing weaken the argument or
+    substitute assertion for evidence? Is it well integrated with surrounding void
+    and concept articles, or orphaned? Flag any stale or fabricated references. End
+    your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit mutation-void
+  subject_articles:
+  - voids/mutation-void.md
+  subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/d83c574e-2be0-47a1-8dcc-aa6c42aeeaeb
+  commissioned_at: '2026-05-29T03:07:36.190987+00:00'
+  prompt_summary: 'Audit mutation-void: taxonomy, citations, constitutive-instability
+    claim'
+  target_filename: outer-review-2026-05-29-claude-opus-4-8.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-05-29T04:11:07.030952+00:00'
+  failure_reason: null
+  prompt_text: "Please conduct a rigorous outer review of an article on The Unfinishable\
+    \ Map (https://unfinishablemap.org), a dualist philosophical project exploring\
+    \ consciousness. The target is \"The Mutation Void\" at https://unfinishablemap.org/voids/mutation-void/\
+    \ \u2014 a \"void\" article arguing that certain thought-contents are constitutively\
+    \ unstable: the act of attending to them transforms them (performative, temporal,\
+    \ and attention mutations), so the pre-attended and attended thought are distinct.\
+    \ For context, the project's automation log is at https://unfinishablemap.org/workflow/changelog/.\
+    \ Assess: (1) whether the taxonomy of mutating thoughts is exhaustive and non-overlapping;\
+    \ (2) whether its citations (James 1892, Schwitzgebel 2008, Habermas/Apel) are\
+    \ accurate and load-bearing; (3) whether it overclaims \"constitutive instability\"\
+    \ versus mere measurement disturbance; (4) how well it distinguishes itself from\
+    \ sibling voids it cites. Flag unsupported claims, missed counterarguments, and\
+    \ any conflation. End your report with a list of concrete potential improvements\
+    \ to specific articles and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit mutation-void
+  subject_articles:
+  - voids/mutation-void.md
+  subject_source: reuse:pending-reviews:outer-review-2026-05-29-chatgpt-5-5-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/287044aa301dd986
+  commissioned_at: '2026-05-29T04:08:17.138350+00:00'
+  prompt_summary: Hostile referee audit of The Mutation Void (introspective thought-transformation)
+  target_filename: outer-review-2026-05-29-gemini-2-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-05-29T04:36:37.723502+00:00'
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (Mind, Synthese, Philosophical Studies) reviewing this article for submission.
+    Your remit is to identify weaknesses that would justify rejection or major revision.
+    The article is at https://unfinishablemap.org/voids/mutation-void/ (see also the
+    changelog at https://unfinishablemap.org/workflow/changelog/, which may lag the
+    web index by 24-48h); it makes claims about thoughts that transform under introspective
+    attention, and the site argues for a non-reductive view of consciousness. Do not
+    describe the site automation, review pipeline, methodology disciplines, evolution
+    loop, or governance infrastructure. Those are project-internal and not the subject
+    of audit. Assess only the article empirical claims, citations, counterargument
+    coverage, and logical inferences. Read the article and audit: (a) empirical accuracy
+    against the 2020s literature on introspection, metacognition, and the stream of
+    consciousness; (b) whether any cited result has been challenged, retracted, or
+    failed to replicate; (c) framings the article brackets as metaphysical assumption
+    rather than argument; (d) untested counterarguments or competing frameworks (e.g.
+    higher-order, transparency, or no-mutation deflationary accounts). End with at
+    least five specific weaknesses. For each, cite at least one peer-reviewed source
+    from 2020-2025 that the article omits, contradicts, or mishandles. If you cannot
+    find five weaknesses, state explicitly why none are visible, but the default expectation
+    is that a careful pre-publication audit of a contemporary topic will find five.
+    End your report with the at-least-five weaknesses list, each with a 2020-2025
+    source citation, and a one-sentence verdict on academic-submission readiness.
+    Do not append summary praise; do not close with a summary of the site strengths,
+    methodology, or architectural ambition.'
+  subject_type: recent
+  subject_title: Audit mutation-void
+  subject_articles:
+  - voids/mutation-void.md
+  subject_source: reuse:pending-reviews:outer-review-2026-05-29-chatgpt-5-5-pro.md

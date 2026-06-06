@@ -1,0 +1,105 @@
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a0fbc03-ed34-8330-be36-bb45e108496a
+  commissioned_at: '2026-05-22T02:16:09.996416+00:00'
+  prompt_summary: 'Full-site audit: novel insights, structure, tenets, contradictions'
+  target_filename: outer-review-2026-05-22-chatgpt-5-5-pro.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-05-22T05:18:22.224846+00:00'
+  failure_reason: null
+  prompt_text: "Please conduct a fresh outer review of The Unfinishable Map (https://unfinishablemap.org)\
+    \ as a whole site, treating it as a single connected work rather than a list of\
+    \ articles.\n\nBefore forming conclusions, consult the activity changelog at https://unfinishablemap.org/workflow/changelog/\
+    \ \u2014 web-search indices lag the site by 24\u201348 hours, so the changelog\
+    \ is the most reliable view of what has been added or revised in the last week.\n\
+    \nI want you to focus on four things:\n\n1. Novel insights or inferences the site\
+    \ has NOT yet stated explicitly but that follow from its existing material (especially\
+    \ across the topics/, concepts/, apex/, and voids/ clusters).\n2. Structural weaknesses:\
+    \ thin sections, undefended load-bearing claims, missing inbound links, drift\
+    \ between related articles.\n3. Tenet coherence: where does the site stray from,\
+    \ or fail to defend, its five tenets (dualism; minimal quantum interaction; bidirectional\
+    \ interaction; rejection of MWI; limits of Occam's razor)?\n4. Cross-cluster contradictions\
+    \ where two clusters appear to assume incompatible things.\n\nEnd your report\
+    \ with a list of concrete potential improvements to specific articles and to the\
+    \ site's methodology."
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: fallback:site-stale-7d
+- service: claude
+  conversation_url: https://claude.ai/chat/19cfb8b8-86f4-466b-95df-4debd6777729
+  commissioned_at: '2026-05-22T03:13:33.549350+00:00'
+  prompt_summary: 'Full-site audit: novelty, structure, tenets, contradictions'
+  target_filename: outer-review-2026-05-22-claude-opus-4-7.md
+  status: collected
+  collect_attempts: 0
+  last_attempt_at: '2026-05-23T00:13:13.962605+00:00'
+  failure_reason: null
+  prompt_text: "Conduct a full-site audit of The Unfinishable Map at https://unfinishablemap.org.\
+    \ The Map is a philosophical project building a coherent worldview about consciousness,\
+    \ meaning, and what it is to be human, organized around five tenets (dualism;\
+    \ minimal quantum interaction; bidirectional consciousness-physical interaction;\
+    \ rejection of Many Worlds; bounded Occam's Razor). Recent automated activity\
+    \ is logged at https://unfinishablemap.org/workflow/changelog/ \u2014 consult\
+    \ it for what has been added or revised lately.\n\nEvaluate: (1) novel insights\
+    \ and original contributions versus standard philosophy-of-mind literature; (2)\
+    \ structural coherence \u2014 do topics, concepts, voids, and apex articles cohere\
+    \ into a unified worldview, or are there fragmentations and orphans? (3) tenet\
+    \ alignment \u2014 does the published content actually support the five tenets,\
+    \ and are there places where it contradicts itself? (4) internal contradictions\
+    \ and unresolved tensions between articles.\n\nEnd your report with a list of\
+    \ concrete potential improvements to specific articles and to the site's methodology."
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: reuse:pending-reviews:outer-review-2026-05-22-chatgpt-5-5-pro.md
+- service: claude
+  conversation_url: https://claude.ai/chat/0aba21a8-1bdf-456b-9c68-93f7f42fd929
+  commissioned_at: '2026-05-23T03:15:58.175764+00:00'
+  prompt_summary: Audit epistemology-of-convergence-arguments
+  target_filename: outer-review-2026-05-23-claude-opus-4-7.md
+  status: collected
+  collect_attempts: 2
+  last_attempt_at: '2026-05-24T00:14:16.213334+00:00'
+  failure_reason: null
+  prompt_text: 'Please conduct a focused outer review of this article on The Unfinishable
+    Map: https://unfinishablemap.org/topics/epistemology-of-convergence-arguments/
+
+
+    It was last substantively modified about a week ago (so search engines have had
+    time to re-index, but external citation databases may lag 24-48 hours). The site
+    root is https://unfinishablemap.org and the changelog is at https://unfinishablemap.org/workflow/changelog/
+    in case you need context on recent edits.
+
+
+    The Map is a dualist-leaning philosophical site with five tenets: dualism, minimal
+    quantum interaction, bidirectional interaction, no many-worlds, and Occam''s razor
+    has limits. I am particularly interested in:
+
+
+    1. Quality of the convergence-argument epistemology: where are the claims under-supported,
+    over-claimed, or insulated from counterargument by tenet-protective bracketing?
+
+    2. Citation health: are references current to the 2020s literature, or have they
+    drifted? Any missed canonical sources?
+
+    3. Counterargument coverage: which serious objections (e.g. from naturalist or
+    many-worlds defenders) are missing or strawmanned?
+
+    4. Integration: how well does this piece connect to its neighbours (consciousness,
+    quantum interpretations, the tenets themselves)? Use Web Search and Research liberally.
+
+
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.
+
+
+    NOTE: due to a UI quirk during submission, only the first paragraph (with the
+    article URL) was sent as the initial message. Claude proceeded to research without
+    clarifying questions. The criteria above and the changelog URL are recorded here
+    for the synthesis pass.'
+  subject_type: recent
+  subject_title: Audit epistemology-of-convergence-arguments
+  subject_articles:
+  - topics/epistemology-of-convergence-arguments.md
+  subject_source: fallback:recent-aged

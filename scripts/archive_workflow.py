@@ -10,7 +10,11 @@ from rich.table import Table
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from tools.archive.workflow import archive_changelog, archive_completed_tasks
+from tools.archive.workflow import (
+    archive_changelog,
+    archive_completed_tasks,
+    archive_pending_reviews,
+)
 
 console = Console()
 
@@ -77,6 +81,27 @@ def main(keep_weeks: int, dry_run: bool) -> None:
             console.print("No completed tasks to archive.\n")
     else:
         console.print(f"[red]Todo file not found: {todo_path}[/red]\n")
+
+    # Archive pending reviews
+    console.print("[bold]Archiving resolved outer-review entries...[/bold]")
+    pending_path = WORKFLOW_DIR / "pending-reviews.yaml"
+    if pending_path.exists():
+        reviews_archived = archive_pending_reviews(
+            pending_path, ARCHIVE_DIR, keep_weeks=keep_weeks, dry_run=dry_run
+        )
+        if reviews_archived:
+            table = Table(title="Pending-Review Archives")
+            table.add_column("Week", style="cyan")
+            table.add_column("Entries", style="green", justify="right")
+            for week, count in sorted(reviews_archived.items()):
+                table.add_row(week, str(count))
+            console.print(table)
+            total = sum(reviews_archived.values())
+            console.print(f"Total resolved reviews to archive: {total}\n")
+        else:
+            console.print("No resolved reviews to archive.\n")
+    else:
+        console.print(f"[red]Pending reviews not found: {pending_path}[/red]\n")
 
     if dry_run:
         console.print("[yellow]DRY RUN complete - run without --dry-run to apply[/yellow]")
