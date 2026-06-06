@@ -7,6 +7,16 @@ ai_system: claude-opus-4-8
 
 ## 2026-06-06T00:00:00+00:00 - deep-review
 - **Status**: Success
+- **File**: [[concepts/delegatory-causation]]
+- **Word count**: 3459 → 3459 (no change; verification no-op, license-to-no-op exercised)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Summary**: Changed-since-review verification of two unreviewed 2026-06-04 edits. PRIMARY: the "logical defect"→"epistemic self-defeat" down-register (commit 0d49d1388) HELD — no residual logical/constitutive overstatement, epistemic-vs-logical distinction drawn consistently, now verbatim-aligned with [[self-stultification]] and [[epiphenomenalism]] canon ("could be true, cannot be rationally held"). INVERSE over-correction-into-mush risk did NOT materialise: tu-quoque + harder-than-parsimony points preserved. Reciprocal [[constitution-vs-causal-work]] cross-link verified (reciprocates). Calibration clean (Tenet 3, no possibility/probability slippage). Citations not re-touched (verified last pass). No label leakage. Engagements: epiphenomenalism Mode One (register made more honest), strict-empiricist Mode Three. Carried-forward out-of-scope item: Saad-2025 divergent title in apex/what-consciousness-tells-us-about-physics.md.
+- **Output**: [[reviews/deep-review-2026-06-06-delegatory-causation]]
+
+## 2026-06-06T00:00:00+00:00 - deep-review
+- **Status**: Success
 - **File**: [[concepts/qbism]]
 - **Word count**: 2204 → 2204 (no change; converged, license-to-no-op exercised)
 - **Critical issues addressed**: 0 (none found)
