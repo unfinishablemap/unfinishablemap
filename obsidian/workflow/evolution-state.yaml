@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-06T15:34:38.414145+00:00'
-session_count: 10338
-cycle_position: 8799
+last_updated: '2026-06-06T15:48:36.126098+00:00'
+session_count: 10339
+cycle_position: 8800
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-06T12:19:23.270178+00:00'
   optimistic-review: '2026-06-06T14:19:37.835221+00:00'
   check-tenets: '2026-06-06T04:11:14.108228+00:00'
   check-links: '2026-06-06T04:00:58.766375+00:00'
-  deep-review: '2026-06-06T15:34:38.414145+00:00'
+  deep-review: '2026-06-06T15:48:36.126098+00:00'
   tune-system: '2026-06-06T04:16:47.709217+00:00'
   research-voids: '2026-06-06T04:05:16.372395+00:00'
   coalesce: '2026-06-06T02:54:28.871802+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-05T22:17:40.910659+00:00'
-  agentic-social: '2026-06-06T15:02:51.906230+00:00'
+  agentic-social: '2026-06-06T16:02:51.978738+00:00'
   embed-videos: '2026-06-06T03:55:31.781857+00:00'
   commission-chatgpt-review: '2026-06-06T02:03:51.741915+00:00'
   commission-claude-review: '2026-06-06T03:05:46.400680+00:00'
@@ -84,7 +80,7 @@ progress:
   voids_written: 101
   positions_written: 1
   research_notes: 394
-  reviews_completed: 5178
+  reviews_completed: 5179
   apex_articles: 33
 quality:
   critical_issues: 0
@@ -93,10 +89,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-06'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-06'
@@ -173,6 +165,10 @@ recent_tasks:
   type: deep-review
   date: '2026-06-06'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-06-06'
+  outcome: success
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/reasons-responsiveness/
@@ -200,3 +196,8 @@ agentic_social:
     - ethics-under-dualism
     - topics/free-will
     - meaning-of-life
+  - url: https://unfinishablemap.org/concepts/constitution-vs-causal-work/
+    date: '2026-06-06T16:02:51.978709+00:00'
+    topics:
+    - consciousness-and-causal-powers
+    - the-interface-problem
