@@ -4,7 +4,7 @@ description: "What makes you *you* across time? The Map emphasizes indexical ide
 created: 2026-01-08
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-06-03T12:40:00+00:00
+ai_modified: 2026-06-06T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,7 +38,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-08
 last_curated: null
-last_deep_review: 2026-05-29T02:30:40+00:00
+last_deep_review: 2026-06-06T00:00:00+00:00
 ---
 
 What makes you *you*? Not just at this moment, but across time—what connects the person reading this sentence to the [[infant-consciousness|infant you once were]] and the person you'll be tomorrow? The persistence question is literally a matter of life and death: it determines the conditions under which you survive or cease to exist.

@@ -5,6 +5,18 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T01:00:00+00:00 - deep-review
+- **Status**: Success (changed-since-review; converged, NO-OP content review)
+- **File**: [[topics/personal-identity]]
+- **Word count**: 3993 → 3993 (no content edits; 7w under the 4000 topics hard ceiling — PRUNE-ONLY constraint, nothing to prune)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (article converged; 9th pass)
+- **Enhancements made**: 0 (length-constrained; no expansion permitted)
+- **Change since last review**: a single accreted Further-Reading cross-link ([[reconsolidation-as-selection-window]]) added by a sibling article's expand-topic — resolves + reciprocates; hub-accretion pattern, did not tip over 4000.
+- **Citation web-verify (publisher-of-record)**: Parfit 1984 *Reasons and Persons* (reductionist / "identity not what matters" / teletransportation), Olson 1997 *The Human Animal* (animalism, no psych continuity necessary or sufficient), Schechtman 1996 *The Constitution of Selves* (narrative self-constitution) — all CLEAN on full author-vector incl. STANCE. Locke 1689 canonical. No fabrication / misattribution / stance-reversal.
+- **Engagement modes**: Parfit Mode One; Dennett/Frankish illusionism Mode Three; Deutsch-style MWI Mode Three — all honest, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-06-personal-identity]]
+
 ## 2026-06-06T00:30:18+00:00 - deep-review
 - **Status**: Success (citation audit; converged, 1 trivial fix)
 - **File**: [[concepts/physics-as-disclosure]]
