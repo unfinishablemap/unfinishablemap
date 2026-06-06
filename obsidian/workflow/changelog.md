@@ -5,6 +5,15 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T00:00:00+00:00 - refine-draft
+- **Status**: Success (no-op — defect already resolved)
+- **File**: [[apex/what-consciousness-tells-us-about-physics]]
+- **Task**: Verify/fix Saad 2025 citation title (3-state citation discipline)
+- **Outcome**: (b), already resolved upstream. Grep confirmed **0 occurrences** of "Against Causal Closure" in the file; ref 10 already reads the canonical **"A dualist theory of experience," *Philosophical Studies* 182(3), 939-967, DOI 10.1007/s11098-025-02290-3**. In-text (line 108) cites Saad's observational/universal-closure distinction + delegatory account — both from that single paper, corpus-web-verified.
+- **Web-verify**: not re-run — the fix was web-verified on 2026-05-29 (Saad has no "Against Causal Closure" paper; nearest is "Grounding Causal Closure or Something Near Enough," *Acta Analytica* 2025, which argues the opposite) and the 2026-06-05 deep-review confirmed it HELD. The task's `:253` line reference was a stale flag carried forward from the 2026-05-29 delegatory-causation review's out-of-scope note; the underlying defect no longer exists.
+- **Changes**: none to article (no defect present). Marked the originating todo task `resolved-obsolete` to prevent re-pick.
+- **Published**: yes (no content change)
+
 ## 2026-06-06T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/delegatory-causation]]
