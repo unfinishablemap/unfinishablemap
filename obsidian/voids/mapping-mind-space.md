@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot survey the geomet
 created: 2026-02-25
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-05-29T12:00:00+00:00
+ai_modified: 2026-06-06T11:32:17+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,9 +43,9 @@ The void is primarily unexplorable in the [[three-kinds-of-void|voids taxonomy]]
 
 ## The Space We Cannot Survey
 
-Murray Shanahan's "space of possible minds" encompasses biological minds, extraterrestrial intelligence, artificial minds, and forms of consciousness that are possible but have never existed. He urges a shift from investigating *the* mind to mapping *the space*.
+The "space of possible minds" originates with Aaron Sloman, whose 1984 essay urged a shift from investigating *the* mind to mapping *the space* of minds — biological, artificial, extraterrestrial, and merely possible. Murray Shanahan develops the programme, encompassing the same range, including forms of consciousness that are possible but have never existed. Both authors frame the project naturalistically rather than as evidence for a non-physical ontology; the dimensional and epistemic limits drawn out below are the Map's reading of the difficulty their programme faces, not theirs.
 
-The ambition is sound; the execution faces a fundamental obstacle. Any survey must be conducted from within a particular mind. Thomas Nagel's bat argument makes the point: we cannot form adequate conceptions of what it is like to be a creature that shares our biology. "There is no reason to suppose," he concluded, "that [bat experience] is subjectively like anything we can experience or imagine." If true for bats, it is overwhelmingly true for minds with alien sensory modalities or structures built around principles we lack concepts for.
+The ambition is sound; the execution faces a fundamental obstacle. Any survey must be conducted from within a particular mind. Thomas Nagel's bat argument makes the point: we cannot form adequate conceptions of what it is like to be a creature that shares our biology. "There is no reason to suppose," he concluded, "that [bat experience] is subjectively like anything we can experience or imagine." If true for bats, it is overwhelmingly true for minds with alien sensory modalities or structures built around principles we lack concepts for. Nagel presses an epistemic limit on cross-subjective imagination; the inference that physical methods alone cannot in principle survey mind-space is the Map's, drawn from the dualism of its tenets rather than from Nagel's own naturalism.
 
 ## Location Without Coordinates
 
@@ -61,7 +61,7 @@ The dimensionality facet operates one level deeper than location. Most cognitive
 
 Edwin Abbott's *Flatland* illustrates the structure. A Flatlander confined to two dimensions does not merely fail to see three-dimensional objects; it cannot formulate the concept of depth. The question "what lies above?" is unaskable. A Flatlander can be *told* about depth and manipulate formal descriptions of cubes, but cannot *conceive* depth as a dimension of its experience. Mathematical understanding does not close the phenomenal gap.
 
-Colin McGinn's [[mysterianism|cognitive closure]] argument formalises the predicament: a mind is closed with respect to a property if its concept-forming procedures cannot extend to grasping it. The mind-body solution may "lie in dimensions of reality our cognitive architecture cannot access." Peter Sjöstedt-Hughes extends this dimensionally: perceptual space is a slice of a higher-dimensional manifold, and the brain acts as "an inhibiting filtering interface rather than as a producer of mind." Our phenomenal experience is a cross-section — faithful within its plane, missing everything orthogonal.
+Colin McGinn's [[mysterianism|cognitive closure]] argument formalises the predicament: a mind is closed with respect to a property if its concept-forming procedures cannot extend to grasping it. The mind-body solution may "lie in dimensions of reality our cognitive architecture cannot access." McGinn's own position is "naturalistic but not constructive" — he holds that the link between mind and brain is fully natural and explicitly rejects dualism, taking the closure to be a limit on human concept-formation rather than evidence for a non-physical domain. The Map cites his closure thesis for the epistemic predicament it names, not as endorsement of its dualist destination. Peter Sjöstedt-Hughes extends the dimensional reading further: perceptual space is a slice of a higher-dimensional manifold, and the brain acts as "an inhibiting filtering interface rather than as a producer of mind." Our phenomenal experience is a cross-section — faithful within its plane, missing everything orthogonal.
 
 ## Convergent Arguments for Missing Dimensions
 
@@ -105,7 +105,7 @@ The void connects to all five of the Map's [[tenets]].
 
 **[[tenets#^dualism|Dualism]]** makes the void real. Under reductionism, mind-space is a subset of physical possibility-space, surveyable in principle by mapping brain configurations. Under dualism, mind-space is its own ontological domain — potentially as vast as physical reality — whose dimensional structure need not match spacetime. Physical methods alone cannot survey it.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** finds pure expression here. The assumption that human consciousness is typical — a form of cognitive parsimony — may be as misleading as the geocentric assumption. Eric Schwitzgebel argues that "the truth — whatever it is — is weird." If phenomenal reality is high-dimensional, parsimony would systematically steer us wrong — and a dimensionally limited mind would feel exactly the confidence it does.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** finds pure expression here. The assumption that human consciousness is typical — a form of cognitive parsimony — may be as misleading as the geocentric assumption. Eric Schwitzgebel argues that "the truth — whatever it is — is weird." His "crazyism" is symmetrical, not pro-dualist: he holds that every metaphysics of mind is in some respect bizarre, and rates his own credence in dualism not much above even odds. The Map borrows his weirdness thesis to discipline parsimony, not to enlist him toward dualism — he would resist that destination as readily as he resists materialism. If phenomenal reality is high-dimensional, parsimony would systematically steer us wrong — and a dimensionally limited mind would feel exactly the confidence it does.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** gains context. If consciousness operates in higher-dimensional phenomenal space but interfaces through quantum indeterminacies, the "minimal" may reflect the narrowness of the dimensional bottleneck — vast phenomenal reality squeezing influence through the aperture where quantum outcomes remain undetermined. Most of what consciousness *is* may have no physical signature.
 
@@ -133,17 +133,18 @@ Current evidence meets none of these. Every survey proceeds from within a partic
 
 ## References
 
-1. Shanahan, M. (2010). *Embodiment and the Inner Life: Cognition and Consciousness in the Space of Possible Minds*. Oxford University Press.
-2. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435–450.
-3. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349–366.
-4. Abbott, E.A. (1884). *Flatland: A Romance of Many Dimensions*. Seeley & Co.
-5. Sjöstedt-Hughes, P. (2021). "Deeper than Depth: N-Dimensional Space and Sentience." In *Modes of Sentience*. Psychedelic Press.
-6. Jolly, E. & Chang, L.J. (2019). "The Flatland Fallacy: Moving Beyond Low-Dimensional Thinking." *Topics in Cognitive Science*, 11(2), 433–454.
-7. Lacalli, T. (2022). "On the Origins and Evolution of Qualia: An Experience-Space Perspective." *Frontiers in Systems Neuroscience*, 16, 945722.
-8. Arsiwalla, X.D. & Verschure, P.F.M.J. (2023). "The Morphospace of Consciousness: Three Kinds of Complexity for Minds and Machines." *NeuroSci*, 4(2), 9.
-9. Carr, B. (2015). "Making Space and Time for Consciousness in Physics." *PhilArchive*.
-10. Schwitzgebel, E. (2024). *The Weirdness of the World*. Princeton University Press.
-11. James, W. (1902). *The Varieties of Religious Experience*. Longmans, Green.
-12. Lewis, D. (1979). "Attitudes De Dicto and De Se." *The Philosophical Review*, 88(4), 513–543.
-13. Bostrom, N. (2002). *Anthropic Bias: Observation Selection Effects in Science and Philosophy*. Routledge.
-14. Perry, J. (1979). "The Problem of the Essential Indexical." *Noûs*, 13(1), 3–21.
+1. Sloman, A. (1984). "The Structure of the Space of Possible Minds." In *The Mind and the Machine: Philosophical Aspects of Artificial Intelligence*, ed. S. Torrance, pp. 35–42. Ellis Horwood.
+2. Shanahan, M. (2010). *Embodiment and the Inner Life: Cognition and Consciousness in the Space of Possible Minds*. Oxford University Press.
+3. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435–450.
+4. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349–366.
+5. Abbott, E.A. (1884). *Flatland: A Romance of Many Dimensions*. Seeley & Co.
+6. Sjöstedt-Hughes, P. (2021). "Deeper than Depth: N-Dimensional Space and Sentience." In *Modes of Sentience*. Psychedelic Press.
+7. Jolly, E. & Chang, L.J. (2019). "The Flatland Fallacy: Moving Beyond Low-Dimensional Thinking." *Topics in Cognitive Science*, 11(2), 433–454.
+8. Lacalli, T. (2022). "On the Origins and Evolution of Qualia: An Experience-Space Perspective." *Frontiers in Systems Neuroscience*, 16, 945722.
+9. Arsiwalla, X.D. & Verschure, P.F.M.J. (2023). "The Morphospace of Consciousness: Three Kinds of Complexity for Minds and Machines." *NeuroSci*, 4(2), 9.
+10. Carr, B. (2015). "Making Space and Time for Consciousness in Physics." *PhilArchive*.
+11. Schwitzgebel, E. (2024). *The Weirdness of the World*. Princeton University Press.
+12. James, W. (1902). *The Varieties of Religious Experience*. Longmans, Green.
+13. Lewis, D. (1979). "Attitudes De Dicto and De Se." *The Philosophical Review*, 88(4), 513–543.
+14. Bostrom, N. (2002). *Anthropic Bias: Observation Selection Effects in Science and Philosophy*. Routledge.
+15. Perry, J. (1979). "The Problem of the Essential Indexical." *Noûs*, 13(1), 3–21.

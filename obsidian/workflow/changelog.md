@@ -5,6 +5,17 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T11:32:17+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/mapping-mind-space]]
+- **Source**: convergent outer reviews 2026-06-06 (3/3: chatgpt, claude, gemini), upgraded P2→P1 by combine-outer-reviews. Claude Findings 2–4 (verified: Sloman origin + Birch/Carr confirmed by live web-search).
+- **Changes**:
+  - (a) Origin-misattribution fix (Claude singleton, mechanical): re-credited the "space of possible minds" to its originator Aaron Sloman ("The Structure of the Space of Possible Minds," 1984), with Murray Shanahan (2010) as development. Added Sloman 1984 as References entry 1; renumbered remaining entries 2–15.
+  - (b) Co-optation remediation (3/3 convergent): in natural journal-quality prose, marked the anti-dualist commitments of the three enlisted naturalists so their epistemic-limit arguments are cited honestly without presenting them as tilting toward the dualist/high-dimensional destination. Shanahan/Sloman framed naturalistically (Map's dualist inference flagged as the Map's). Nagel's epistemic limit separated from the Map's stronger physical-methods-cannot-survey inference. McGinn marked "naturalistic but not constructive," explicitly rejects dualism. Schwitzgebel's crazyism marked as symmetric (credence in dualism not much above even odds), not pro-dualist.
+- **Engagement classifications** (editor-internal, not in body): Sloman/Shanahan — Mode Three (framework-boundary: Map's dualist reading honestly marked as not theirs). Nagel — Mode Three (epistemic limit cited; physical-closure inference owned by the Map). McGinn — Mode Three (closure thesis cited for the predicament; his naturalism noted, not refuted). Schwitzgebel — Mode Three (weirdness thesis borrowed; his symmetric crazyism noted honestly).
+- **Word count**: ~2222 → 2342 body (+~120; soft_warning, under hard 3000). Length-neutral-ish; load-bearing hedges preserved; no "This is not X. It is Y." cliché; mode labels kept out of body.
+- **Published**: yes
+
 ## 2026-06-06T12:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/weak-measurement-and-post-selection]]
