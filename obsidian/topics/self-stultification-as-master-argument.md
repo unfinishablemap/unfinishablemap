@@ -4,8 +4,8 @@ description: "Self-stultification defeats not just epiphenomenalism but every po
 created: 2026-02-23
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-06-05T13:20:00+00:00
-last_deep_review: 2026-05-27T07:32:13+00:00
+ai_modified: 2026-06-06T00:00:00+00:00
+last_deep_review: 2026-06-06T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

@@ -5,6 +5,17 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T03:15:00+00:00 - deep-review
+- **Status**: Success (no-op; converged)
+- **File**: [[topics/self-stultification-as-master-argument]]
+- **Word count**: 3255 → 3255 (0; converged, no edits warranted)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0
+- **Verification**: 10th review. Central calibration check PASS — self-stultification framed as epistemic self-defeat ("could still be true, cannot be rationally held"), matching [[concepts/self-stultification]] + [[concepts/epiphenomenalism]]:95 canon; no logical/constitutive overstatement, no possibility/probability slippage. Attributions all accurate (Lewis/Anscombe/Plantinga/Reppert/Huxley/James/Churchland/Frankish/Sellars/McDowell). Coutinho→Rebouillat 2021 correction confirmed landed. Live web-verify (1 WebSearch): Sarasso et al. 2015 confirmed *Current Biology* 25(23):3099-3105; PCI claim + source/Map separation faithful. No label leakage. Boghossian / Korman & Locke not present in article (no attribution to verify).
+- **Reasoning modes**: functionalist Mode Two→One; Frankish Mode One; Churchland-eliminativism Mode One (+reliabilist third horn). All natural prose.
+- **Output**: [[reviews/deep-review-2026-06-06-self-stultification-as-master-argument]]
+
 ## 2026-06-06T02:30:00+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/neurophenomenology-and-contemplative-neuroscience]], [[topics/contemplative-practice-as-philosophical-evidence]]
