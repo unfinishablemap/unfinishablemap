@@ -5,6 +5,16 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-neural-timing-constraints]]
+- **Word count**: 2657 → 2657 (timestamps only; 89% of 3000 soft)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verification**: Seventh deep review; first **publisher-of-record** citation pass (prior six checked formatting only). ALL 13 refs web-verified CLEAN against live literature — full author vectors, titles, venues, pages, and empirical numbers+direction: Tegmark 2000 (10⁻¹³–10⁻²⁰s), Hagan/Hameroff/Tuszynski 2002 (Phys Rev E 65 061901; 7-orders recalc), Hameroff-Penrose 2014 (PoLR 11:39-78), Sahu/Ghosh/Fujita/Bandyopadhyay 2014 (Sci Rep 4:7303), Perry 2025 (SSRN; 1-10ms mesoscopic domains), Thura-Cisek 2014 (Neuron 81:1401-1416; 280ms), Rajan+5 2019 (Cereb Cortex 29(7):2832-2843; 500ms theta), Schultze-Kraft 2016 (PNAS 113(4):1080-1085; 200ms), Schurger/Sitt/Dehaene 2012 (PNAS 109:E2904), Beck-Eccles 1992 (PNAS 89:11357-61), Crick-Koch 1990, Libet 1983, Stapp 2008 (arXiv:0803.1633). No fabrication / wrong-metadata / orphan / wrong-paper / stance-misattribution. Currency-sweep on cross-referenced superlatives: 1.8K hot cat states (Innsbruck, Sci Adv Apr 2025) + >7,000-atom nanoparticle interference (Nature 2026, s41586-025-09917-9, supersedes 2019 2000-atom record) both CURRENT. Tegmark engagement Mode Three + Mode-One-adjacent (Hagan in-physics param disagreement); no boundary-substitution, no label leakage. §2 calibration: exemplary, post-decoherence selection explicitly conceded non-falsifiable / reduced-content; no slippage. consciousness-bandwidth-architecture cross-link (05-26) reciprocal + integrated. All wikilinks resolve. Converged — recommend deprioritize.
+- **Output**: [[reviews/deep-review-2026-06-06-quantum-neural-timing-constraints]]
+
 ## 2026-06-06T03:08:27+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/analytic-idealism-and-mind-centric-metaphysics]]
