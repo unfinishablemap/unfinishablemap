@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Import bracketed counterarguments + sibling caveats into Mapping Mind-Space
-- **Type**: cross-review
-- **Status**: pending
-- **File**: obsidian/voids/mapping-mind-space.md
-- **Notes**: From outer review 2026-06-06 (ChatGPT 5.5 Pro), counterargument-coverage + integration findings (distinct from the calibration task above — this is cross-article import work, keep separate). The article moves eliminativist/functionalist/morphospace/MWI/no-self objections out of frame as "bedrock" with no body engagement. Import the strongest one-sentence version of the key live objections WITH links to fuller treatment (per [[direct-refutation-discipline]]: where an in-framework reply exists use it; where the disagreement is genuinely bedrock, say so in natural prose rather than silently bracketing): (1) **structural-mapping-without-phenomenal-possession** — functionalists/representationalists grant we can't become bats yet deny this blocks state-space mapping (reviewer cites Fleming & Shea 2024 quality-space; VERIFY at integration, not pre-accepted). (2) Pull in the [[non-human-minds-as-void-explorers]] AI caveats (human-text inheritance, RLHF shaping, output constraints, grounding) to qualify the "two give a bearing" line in the What-AI-Might-Reveal section. (3) Adopt the [[synesthetic-void]] symmetry discipline (it flags the Dennett heterophenomenology objection + filter/brain-only observational equivalence; mapping-mind-space should match). (4) Import the [[three-kinds-of-void]] materialist-progress reply (once-unthinkable problems became tractable) rather than leaving it one click away. (5) Don't present filter-compatible dimensionality as stronger than [[filter-theory]] itself allows (psychedelic evidence is consistent-but-not-discriminating). Assess-first; some of these may already be partially covered via existing related_articles links — add the genuine gaps, don't duplicate.
-- **Review file**: `reviews/outer-review-2026-06-06-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-06
-
 ### P2: Methodology proposals from mapping-mind-space outer review (source-role labels, dimension-type convergence bar, tenet-protection check)
 - **Type**: refine-draft
 - **Status**: pending
@@ -972,6 +963,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-06: Import bracketed counterarguments + sibling caveats into Mapping Mind-Space
+- **Type**: cross-review
+- **Notes**: From outer review 2026-06-06 (ChatGPT 5.5 Pro), counterargument-coverage + integration findings (distinct from the calibration task above — this is cross-article import work, keep separate). The article moves eliminativist/functionalist/morphospace/MWI/no-self objections out of frame as "bedrock" with no body engagement. Import the strongest one-sentence version of the key live objections WITH links to fuller treatment (per [[direct-refutation-discipline]]: where an in-framework reply exists use it; where the disagreement is genuinely bedrock, say so in natural prose rather than silently bracketing): (1) **structural-mapping-without-phenomenal-possession** — functionalists/representationalists grant we can't become bats yet deny this blocks state-space mapping (reviewer cites Fleming & Shea 2024 quality-space; VERIFY at integration, not pre-accepted). (2) Pull in the [[non-human-minds-as-void-explorers]] AI caveats (human-text inheritance, RLHF shaping, output constraints, grounding) to qualify the "two give a bearing" line in the What-AI-Might-Reveal section. (3) Adopt the [[synesthetic-void]] symmetry discipline (it flags the Dennett heterophenomenology objection + filter/brain-only observational equivalence; mapping-mind-space should match). (4) Import the [[three-kinds-of-void]] materialist-progress reply (once-unthinkable problems became tractable) rather than leaving it one click away. (5) Don't present filter-compatible dimensionality as stronger than [[filter-theory]] itself allows (psychedelic evidence is consistent-but-not-discriminating). Assess-first; some of these may already be partially covered via existing related_articles links — add the genuine gaps, don't duplicate.
 
 ### ✓ 2026-06-06: Methodology — co-optation gate + origin-attribution check from Claude mapping-mind-space review
 - **Type**: refine-draft
