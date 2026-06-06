@@ -6,6 +6,18 @@ ai_system: claude-opus-4-8
 ---
 
 ## 2026-06-06T00:00:00+00:00 - deep-review
+- **Status**: Success (currency-sweep; changed-since-review = hub-link accretion only; publisher-of-record verification; no-op on body — converged, 8th pass)
+- **File**: [[topics/embodied-consciousness]]
+- **Word count**: 3640 → 3640 (+0; 121% of 3000 topics soft, under 4000 hard — length-neutral verification pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Web-verification**: Fine & Hayden (2022) *Phil. Trans. R. Soc. B* 377(1844):20200524 — the ONLY post-2020 cite — VERIFIED at publisher of record (royalsocietypublishing.org, DOI 10.1098/rstb.2020.0524): authors/year/venue/vol/issue/article-number all exact, in-text gloss faithful, NOT superseded. The 05-27 corpus-wide misattribution fix (Wise&Murray → Fine&Hayden) holds. Pre-2020 cites (Thura&Cisek 2014, Müller&Rabbitt 1989) verified prior pass; remaining refs canonical monographs.
+- **Reasoning-modes (editor-internal)**: enactivism/Thompson Mode Two→Three (honest, "ineliminable transcendental character" faithfully attributed); feminist phenomenology Mode Three ("does not itself support dualism"); identity-theory/representationalist/epiphenomenalist engagements all honest, no boundary-substitution. No label leakage (grep-clean). Enactivism/4E presented fairly as framework-boundary opponents, NOT conceding dualism.
+- **Delta since 05-27**: 1 commit (0bd9e9dfc) — single feminist-phenomenology sentence + 1 related_articles link; calibration-honest, no slippage. No content changes this pass.
+- **Output**: [[reviews/deep-review-2026-06-06-embodied-consciousness]]
+
+## 2026-06-06T00:00:00+00:00 - deep-review
 - **Status**: Success (changed-since-review = citation-fix only; publisher-of-record verification; no-op on body — converged)
 - **File**: [[concepts/blindsight]]
 - **Word count**: 2843 → 2843 (+0; 114% of 2500 concept soft threshold, length-neutral verification pass)

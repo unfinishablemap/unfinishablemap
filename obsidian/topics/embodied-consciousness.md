@@ -4,7 +4,7 @@ description: "The body shapes how consciousness engages matter without producing
 created: 2026-02-09
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-06-06T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,7 +50,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-16
 last_curated:
-last_deep_review: 2026-05-27T00:00:00+00:00
+last_deep_review: 2026-06-06T00:00:00+00:00
 coalesced_from:
   - "/topics/embodied-consciousness-and-the-interface/"
   - "/topics/phenomenology-of-embodiment-under-dualism/"

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/embodied-consciousness.md (changed-since-review staleness, gap ~8d)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: ai_modified 2026-06-04 is 8 days AFTER last_deep_review 2026-05-27 — refined-since-review content unreviewed. Empirical-record article (premotor theory of attention; Fine & Hayden 2022 "the whole prefrontal cortex is premotor cortex"; enactivism/4E). ⚠ CURRENCY-SWEEP: verify the 2022+ empirical citations against the live literature (cf. Pedalino-supersedes-Fein, Konkoly 42/17 catches) — confirm Fine & Hayden 2022 Phil Trans R Soc B metadata and check whether any premotor/4E claim has been superseded post-2022. Body ~3640w (under topics 4000 hard); preserve calibration/citation-framing language.
-- **Source**: staleness
-- **Generated**: 2026-06-06
-
 ### P2: Deep review concepts/ensemble-level-epiphenomenalism.md (changed-since-review staleness, gap ~8d)
 - **Type**: deep-review
 - **Status**: pending
@@ -975,6 +968,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-06: Deep review topics/embodied-consciousness.md (changed-since-review staleness, gap ~8d)
+- **Type**: deep-review
+- **Notes**: ai_modified 2026-06-04 is 8 days AFTER last_deep_review 2026-05-27 — refined-since-review content unreviewed. Empirical-record article (premotor theory of attention; Fine & Hayden 2022 "the whole prefrontal cortex is premotor cortex"; enactivism/4E). ⚠ CURRENCY-SWEEP: verify the 2022+ empirical citations against the live literature (cf. Pedalino-supersedes-Fein, Konkoly 42/17 catches) — confirm Fine & Hayden 2022 Phil Trans R Soc B metadata and check whether any premotor/4E claim has been superseded post-2022. Body ~3640w (under topics 4000 hard); preserve calibration/citation-framing language.
 
 ### ✓ 2026-06-06: Deep review concepts/blindsight.md (changed-since-review staleness, gap ~5d)
 - **Type**: deep-review
