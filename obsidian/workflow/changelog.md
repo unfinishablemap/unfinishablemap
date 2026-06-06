@@ -5,6 +5,18 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T22:35:08+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/phenomenology-of-consciousness-doing-work]]
+- **Word count**: 4275 → 4276 (+1, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **§2.4 web-verify**: 7 citations new since 2026-05-18 review all publisher-of-record verified real-correct (Bodien 2024 NEJM CMD, Hagger 2016, Naccache 2005, Kurzban 2013, Inzlicht 2021, Westbrook 2020, Lutz 2008); inline↔References complete both directions, no orphans; no superseded superlatives
+- **Medium fix**: intro triple misassigned the autonomic-coupling correlate (effort evidence) to the holding feature after the ego-depletion-debunk edit removed "deplete with duration"; reworded line 58 to attach each correlate to its correct feature
+- **Engagement classification** (editor-internal): CMD section = Mode One (clean); synthesis paragraph re non-reductive physicalism = Mode Three (honest boundary-marking); no label leakage
+- **Output**: [[reviews/deep-review-2026-06-06-phenomenology-of-consciousness-doing-work]]
+
 ## 2026-06-06T22:10:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/self-concealing-interface]]
