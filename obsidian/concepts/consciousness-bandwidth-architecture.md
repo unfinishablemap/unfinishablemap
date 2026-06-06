@@ -4,9 +4,9 @@ description: "The mind-brain interface delivers ~10⁹ bits/second of experience
 created: 2026-02-23
 modified: 2026-05-26
 human_modified: null
-ai_modified: 2026-05-26T21:12:59+00:00
+ai_modified: 2026-06-06T21:32:52+00:00
 draft: false
-last_deep_review: 2026-05-26T14:23:19+00:00
+last_deep_review: 2026-06-06T21:32:52+00:00
 topics:
   - "[[bandwidth-of-consciousness]]"
   - "[[hard-problem-of-consciousness]]"
