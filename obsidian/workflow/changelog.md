@@ -5,6 +5,18 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T02:06:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenal-concepts-strategy]]
+- **Word count**: 2569 → 2569 (no change; body converged, 7th review; length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (frontmatter timestamps only)
+- **Citations**: ★ Independently web-verified the ONE changed line since the 6th review — the Fürst External Sources entry (edited 2026-06-05 by the sibling article's deep review). CONFIRMED CORRECT: Fürst, M. (2014), "A Dualist Account of Phenomenal Concepts," in Lavazza & Robinson (eds.), *Contemporary Dualism: A Defense*, Routledge, 112–135 (PhilPapers FRSADA, PhilArchive, NDPR, Routledge catalog; encapsulation-account/implies-non-physical-referents matches the abstract + body). The 6th review's (2026-05-26) "verified" verdict of "Fürst 2011, *Acta Analytica* 26(1), 29–48" was a wrong-paper conflation FALSE POSITIVE — that 2011 *Acta Analytica* slot holds a DIFFERENT Fürst paper ("What Mary's Aboutness Is About," 63–74, Springer). Page range 112–135 confirmed. Do not re-open. Class: ai_citation_metadata_unreliable (wrong-paper conflation surviving an author+year web-verify; caught by title+venue matching).
+- **Stance-fidelity**: PCS presented at full strength before rebuttal (Loar/Papineau/Balog sympathetic; Chalmers correctly the anti-PCS dilemma; Stoljar reference-only, no misattributed stance). No strawman, no boundary-substitution, no editor-vocab leakage.
+- **Engagements** (editor-internal): PCS-defenders via Chalmers master argument: Mode Two (in-framework). Illusionism (Dennett/Frankish): Mode Two/Mixed (Tallis regress). Ability hypothesis (Lewis/Nemirow): Mode One. Indexicality vs MWI: Mode Three.
+- **Output**: [[reviews/deep-review-2026-06-06-phenomenal-concepts-strategy]]
+
 ## 2026-06-06T01:57:17+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/affective-tone-divergence-across-meditative-traditions]]
