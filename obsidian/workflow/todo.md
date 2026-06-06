@@ -37,6 +37,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Reciprocity / citation-consistency audit across the temporal-consciousness cluster
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/non-temporal-consciousness.md
+- **Notes**: Suggested by optimistic review (optimistic-2026-06-06b). VERIFY-FIRST, not a content expansion. (1) non-temporal-consciousness defers "develops this at length" to consciousness-and-the-ontology-of-temporal-becoming — confirm the becoming article links back. (2) The Libet-dissolution claim is asserted from the non-temporal side via a Further Reading link to topics/free-will; check free-will carries a matching inbound pointer (grep before adding — link may already exist). (3) Consistency-check the eternalist-lineage citations (Putnam/Mellor/Price/Barbour/Petkov) are not duplicated divergently across the two temporal articles. (4) concepts/temporal-consciousness (Bergson durée) is the natural inbound for the "durée is the output, absolute flow the source" synthesis. Likely near-no-op; do NOT add length to an already-mature article — mirror links into related_articles rather than prose. Tenet alignment: Dualism (irreducibility Premise 1), Occam's-Razor-Has-Limits.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-06
+
 ### P2: Methodology proposals from mapping-mind-space outer review (source-role labels, dimension-type convergence bar, tenet-protection check)
 - **Type**: refine-draft
 - **Status**: pending
