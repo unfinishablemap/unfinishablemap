@@ -5,6 +5,19 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T01:47:19+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/weak-measurement-and-post-selection]]
+- **Source**: pessimistic-review 2026-06-06 ([[reviews/pessimistic-2026-06-06]]); consolidated single pass
+- **Changes**:
+  - (1) Falsifiability: reframed the conscious-vs-automated "identical Born-rule statistics" claim from an unfalsifiable-by-construction forward test into an explicit no-signalling / consistency constraint (can falsify the theory, cannot confirm it — asymmetry now stated). Foregrounded the realist-vs-statistical weak-value interpretation debate as THE genuine falsification handle / dependency. Kept the honest untestability admission.
+  - (2) Epistemic/metaphysical equivocation: softened line-76 "increasingly difficult to dismiss as mere formalism" to genuine open-ness — separated the uncontested operational fact (reproducible pointer shifts, agreed across all three readings) from the contested realist time-symmetric ontology that experiments do not adjudicate (Ferrie & Combes 2014). Hedged intro + description "naturally described as" → "on the realist reading of TSVF, described as".
+  - (2a) Aligned the "extracts partial quantum information" over-compression: intro + description now note the value emerges from ensemble averaging (a single weak measurement is imprecise).
+  - (2b) Added one sentence on the post-decoherence move: specifying the boundary on already-classical states trades away distinctively quantum-mechanistic content for decoherence-robustness; the residual quantum element is the future-boundary-condition / time-symmetric structure, not coherence at selection.
+- **Preserved**: lab-to-nature honesty (Limitations section), collapse-vs-boundary distinction, three-way realist/statistical/operational even-handedness. Calibration fix toward more even-handedness; no content weakened.
+- **Length**: body 2910w (soft-warning band, unchanged status; well under 3500 hard). Citations untouched (verified clean upstream). No new wikilinks added.
+- **Published**: yes
+
 ## 2026-06-06T01:43:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `concepts/weak-measurement-and-post-selection.md` (last deep review 2026-05-18; not pessimistic-reviewed recently; outside today's deep-review set). Citations spot-checked clean (AAV 1988, Hosten & Kwiat 2008, Ritchie/Story/Hulet 1991, Lundeen 2011 all verify). Two refine-grade findings, consolidated into ONE P2 refine-draft task: (1) falsifiability section advertises an in-principle-unfalsifiable Born-statistics "test"; (2) line-76 rhetorical escalation toward the realist weak-value reading in tension with the article's own stated even-handedness (epistemic/metaphysical equivocation).
