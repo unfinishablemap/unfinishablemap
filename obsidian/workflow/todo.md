@@ -64,13 +64,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-06
 
-### P2: Deep review concepts/teaching-as-metarepresentation.md (changed-since-review, gap ~8d)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Changed-since-review (ai_modified 2026-06-03 AFTER last_deep_review 2026-05-26; 8d gap). contrib=100; 3183w (near concepts soft 2500 — watch for length growth, condense-neutral if grown). ⚠ CURRENCY-SWEEP + STANCE-FIDELITY: leans on the comparative-cognition / animal-culture empirical literature (Boesch 1991 chimp teaching, Csibra & Gergely natural-pedagogy, Dean et-al 2012 Science 335:1114, Kline 2015 BBS, Tomasello 2019 Becoming Human, Read 2008 working-memory-limit). Verify citations + that named positions (natural pedagogy as evolutionary adaptation; whether apes "have culture but may not know it" — Gruber et-al 2015) are represented faithfully, not strawmanned. Different cluster (developmental/comparative cognition).
-- **Source**: staleness
-- **Generated**: 2026-06-06
-
 ### P2: Deep review topics/essential-vs-contingent-consciousness.md (changed-since-review, gap ~7d)
 - **Type**: deep-review
 - **Status**: pending
@@ -995,6 +988,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-06: Deep review concepts/teaching-as-metarepresentation.md (changed-since-review, gap ~8d)
+- **Type**: deep-review
+- **Notes**: Changed-since-review (ai_modified 2026-06-03 AFTER last_deep_review 2026-05-26; 8d gap). contrib=100; 3183w (near concepts soft 2500 — watch for length growth, condense-neutral if grown). ⚠ CURRENCY-SWEEP + STANCE-FIDELITY: leans on the comparative-cognition / animal-culture empirical literature (Boesch 1991 chimp teaching, Csibra & Gergely natural-pedagogy, Dean et-al 2012 Science 335:1114, Kline 2015 BBS, Tomasello 2019 Becoming Human, Read 2008 working-memory-limit). Verify citations + that named positions (natural pedagogy as evolutionary adaptation; whether apes "have culture but may not know it" — Gruber et-al 2015) are represented faithfully, not strawmanned. Different cluster (developmental/comparative cognition).
 
 ### ✓ 2026-06-06: Deep review concepts/content-specificity-of-mental-causation.md (changed-since-review, gap ~8d)
 - **Type**: deep-review

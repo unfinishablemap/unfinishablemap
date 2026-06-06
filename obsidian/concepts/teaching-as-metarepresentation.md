@@ -4,9 +4,9 @@ description: "Teaching requires knowing that you know and that others don't. Gre
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-06-03T08:30:00+00:00
+ai_modified: 2026-06-06T00:00:00+00:00
 draft: false
-last_deep_review: 2026-05-26T11:54:20+00:00
+last_deep_review: 2026-06-06T00:00:00+00:00
 topics:
   - "[[animal-consciousness]]"
   - "[[ai-consciousness]]"
