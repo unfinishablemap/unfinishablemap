@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-06-03 15:40:00+00:00
+ai_modified: 2026-06-06 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Interactionist dualism may be simpler than physicalism once all exp
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 12:00:00+00:00
+last_deep_review: 2026-06-06 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -124,7 +124,7 @@ Dualism's "one claim" fans out once made specific, just as physicalism's does. C
 
 ## The Idealism Symmetry
 
-Anderson (2002) adds a structural observation: even if ontological parsimony could adjudicate the mind-body problem, it would not uniquely favour physicalism. [Idealism](/concepts/idealism/) — the view that reality is fundamentally mental — posits a single substance type and is therefore equally parsimonious by the ontological measure.
+Anderson (2001) adds a structural observation: even if ontological parsimony could adjudicate the mind-body problem, it would not uniquely favour physicalism. [Idealism](/concepts/idealism/) — the view that reality is fundamentally mental — posits a single substance type and is therefore equally parsimonious by the ontological measure.
 
 If the razor cuts against dualism for positing two substances, it cuts equally against physicalism in favour of idealism. The fact that physicalists never draw this conclusion reveals that ontological parsimony is not actually doing the work they attribute to it. Something else — naturalistic bias, institutional momentum, or implicit materialism — is driving the preference. The razor is invoked selectively, which is no longer principled reasoning but rhetorical deployment.
 
@@ -162,7 +162,7 @@ The Map speculates that the standard parsimony argument persists not because of 
 4. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.
 5. Hubbard, J. (1995). Parsimony and the Mind. Senior thesis, Macalester College.
 6. Huemer, M. (2009). When Is Parsimony a Virtue? *The Philosophical Quarterly*, 59(235), 216–236.
-7. Koksvik, O. In Defence of Interactionism. New Dualism Archive.
+7. Koksvik, O. (2006). In Defence of Interactionism. MA thesis, Monash University. New Dualism Archive.
 8. Lycan, W. G. (2009). Giving Dualism its Due. *Australasian Journal of Philosophy*, 87(4), 551–563.
 9. Masi, M. (2023). When Occam's Razor Cuts Too Deep. *PhilArchive*.
 10. Smart, J. J. C. (1959). Sensations and Brain Processes. *Philosophical Review*, 68(2), 141–156.

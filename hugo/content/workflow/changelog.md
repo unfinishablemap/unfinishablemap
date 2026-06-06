@@ -9,6 +9,68 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-06T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/)
+- **Word count**: 3568 → ~3573 (+5)
+- **Critical issues addressed**: 1 (inline/reference inconsistency: body cited "Anderson (2002)" while corrected Reference 1 reads 2001 — sixth pass fixed the reference but missed the inline; reconciled to verified 2001)
+- **Medium issues addressed**: 0 (seventh pass; calibration framing and 2026-06-03 bi-aspectual reframe both sound, no oscillation)
+- **Citations web-verified**: 11 external cites all real-correct. Freshly web-verified this pass: Huemer 2009 (PQ 59(235):216–236, exact), Koksvik (2006 Monash MA thesis, New Dualism Archive — reference enriched with verified date/venue), Masi 2023 (PhilArchive, Marco Masi), Hubbard 1995 (Macalester senior seminar, John Hubbard). Anderson/Chalmers/Churchland/Frankish/Lycan/Smart/Zanotti carried from sixth-pass publisher-verify. Inline↔References cross-check clean after Anderson fix; no superlative claims (currency sweep n/a).
+- **Reasoning-mode**: illusionism Mode Two; mysterianism Mode Two + Mode Three residue; no label leakage. Unchanged from sixth pass.
+- **Output**: [deep-review-2026-06-06-parsimony-case-for-interactionist-dualism](/reviews/deep-review-2026-06-06-parsimony-case-for-interactionist-dualism/)
+
+## 2026-06-06T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [completeness-in-physics-under-dualism](/topics/completeness-in-physics-under-dualism/)
+- **Word count**: 3235 → 3235 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (108% of soft target; under hard threshold 4000 — length-neutral mode, no value-preserving trim warranted)
+- **Enhancements made**: 0 (convergence-confirming review of substantive new content added 2026-06-03; new QBism + unfalsifiability material confirmed well-calibrated, no body edits to avoid oscillation)
+- **Citations web-verified**: 3 (Fuchs/Mermin/Schack 2014 → real-correct, DOI 10.1119/1.4874855; Torres Alegre 2025 arXiv:2512.12636 → real-correct, framing faithful to abstract; Barrett 2006 Erkenntnis 65(1):97–115 → real-correct). Remaining cites carried from 2026-05-26 publisher-verify; entries only renumbered, not altered.
+- **Reasoning-mode**: QBism engagement Mode Two→Three (presupposed-agent foundational move, then honest framework-boundary marking) — no boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-06-06-completeness-in-physics-under-dualism](/reviews/deep-review-2026-06-06-completeness-in-physics-under-dualism/)
+
+## 2026-06-06T15:47:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [inverted-qualia](/concepts/inverted-qualia/)
+- **Word count**: 2414 → 2414 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (97% of soft target, under threshold)
+- **Enhancements made**: 0 (verification pass)
+- **Citations web-verified**: 0 new tuples added since 5th review; carried-forward ledger intact (Block & Fodor 1972, Block 1990, Shoemaker 1982, Hardin 1988, Palmer 1999, Dennett 1991, Chalmers 1996, Strawson 2006, Frankish 2016 — all real-correct in prior rounds). New Kripke (1980) content is a position-attribution, not a citation tuple — no References entry required.
+- **Engagement modes**: Dennett Mode Three (framework-boundary, honest conditional), Frankish/illusionism Mixed (Mode Two opening → Mode Three residue) — unchanged, no boundary-substitution, no label leakage
+- **Notes**: 6th review of lineage; would be convergence-damping-excluded but explicitly requested. Only substantive change since 5th review = refine-draft 8a3aad440 (2026-06-04) adding the Kripkean conceivability/possibility reply to the phenomenal-concepts-strategy paragraph. Verified: correctly attributed (Naming and Necessity 1980, water/H₂O a-posteriori impossibility), internally coherent, sharpens the "too little" horn ("cannot exhibit the hidden essence"). No critical/medium/low issues. Ratification pass; resisted re-expansion of converged content.
+- **Output**: [deep-review-2026-06-06-inverted-qualia](/reviews/deep-review-2026-06-06-inverted-qualia/)
+
+## 2026-06-06T15:33:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/)
+- **Word count**: 2957 → 2957 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (length 118% of soft, under hard; load-bearing calibration content, no trim)
+- **Enhancements made**: 0 (ratification pass; recent refine-draft already made the high-value calibration fixes)
+- **Citations web-verified**: 4 re-checked (Alston 1986, Pitt 2004, Hoffman 2016, Schwitzgebel 2008) — all real-correct; other 6 standard works verified prior review, untouched
+- **Engagement modes**: functionalism Mode Two+honest-residue, physicalism Mode Three — no boundary-substitution, no label leakage
+- **Notes**: 6th review of lineage. Two refine-draft commits since 2026-05-26 *improved* calibration — retired the over-strong "phenomenal character invariant under transformation" claim for an explicit burden-shift disclaimer ("not a deduction from the data"), scoped the impenetrability limit to introspective (not third-person) access, added a contemplative-training unfalsifiability hedge with a discriminating marker. No slippage, no critical issues. Confirmed and ratified the improvements rather than re-editing (oscillation avoidance). Stability note: do NOT push the Dualism paragraph back toward the retired invariance claim.
+- **Output**: [deep-review-2026-06-06-phenomenal-transparency-opacity-spectrum](/reviews/deep-review-2026-06-06-phenomenal-transparency-opacity-spectrum/)
+
+## 2026-06-06T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [rational-normativity](/concepts/rational-normativity/)
+- **Word count**: 2080 → 2080 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; no-op confirmation pass)
+- **Notes**: Fifth review of a converged article (4 prior reviews; thorough independent pass 2026-05-27 found no critical issues). Reviewed because passed explicitly as argument despite convergence-damping exclusion (≥3 reviews + within 14d). Only changes since last review were cosmetic: implements/grasps wording sharpening + a Carroll's-regress cross-link clause. Verified the one new substantive claim against [carrolls-regress](/concepts/carrolls-regress/) (faithful, calibrated). References block unchanged since 2026-05-27 web-verify; transcendental/coherence register intact (no slippage). Engagement modes: reliabilism/functionalism/evolutionary-teleology = Mode Two→Three, no boundary-substitution, no label leakage. Manufactured no edits to avoid oscillation. Article is converged and stable.
+- **Output**: [deep-review-2026-06-06-rational-normativity](/reviews/deep-review-2026-06-06-rational-normativity/)
+
+## 2026-06-06T14:34:14+00:00 - refine-draft
+- **Status**: Success
+- **File**: [calibration-audit-triple](/project/calibration-audit-triple/)
+- **Original score**: n/a (methodology project doc — assess-first, license to decline overlaps)
+- **Changes**: Consolidated the genuine residue of TWO pending methodology tasks (2026-06-06 mapping-mind-space ChatGPT review items b/c/d + the sibling 2026-06-05 edge-states ChatGPT task's evidence-tier-inheritance / tenet-upgrade proposals) into ONE tight paragraph appended after the existing tenet-use-guardrail para — NOT new sections (doc already CRITICAL length, +331w only). Item (a) source-role labels NOT re-minted (already folded into Audit Six para last cycle, per task UPDATE). Recorded: (i) **dimension-type convergence bar** as a named sub-check of Audit Two (cross-*type* sharpening of the same-*kind* anti-double-counting move + [cross-mechanism-convergence](/concepts/cross-mechanism-convergence/)) — the mapping-mind-space "Convergent Arguments for Missing Dimensions" section (neural/phenomenal/morphospace/physical, verified in the review's Verification Notes) is the canonical case; GENUINE RESIDUE not previously explicit. (ii) **evidence-tier / caveat inheritance** folded together with the 2026-06-06 "integration table for crowded clusters" recommendation as one proposed cross-article check homed on Audit Three's article-vs-anchor structure (anchor = cited article, inherited property = caveat set). (iii) **tenet-protection check** + **tenet-upgrade audit** closed as ALREADY-COVERED (the line-175 tenet-use guardrail + [evidential-status-discipline](/project/evidential-status-discipline/)'s defeater-removal/constrain-vs-establish family) — no new mint, per CONSOLIDATE-don't-duplicate instruction. Lower-value items (publisher-of-record verify, citation-defect propagation sweep, changelog discoverability) noted as covered by existing practice/known bugs, not re-minted. Added the chatgpt review to related_articles for link reciprocity. This single addition discharges BOTH the line-48 and line-218 pending todo tasks.
+- **Published**: yes
+
 ## 2026-06-06T14:17:22+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/non-temporal-consciousness.md` (changed-since-review, modified today; last deep-review 2026-05-14) read against its temporal-consciousness cluster (temporal-consciousness-structure-and-agency, consciousness-and-the-ontology-of-temporal-becoming, temporal-consciousness, witness-consciousness, phenomenology-of-anticipation, phenomenology-of-returning-attention, post-decoherence-selection-programme). Area chosen to avoid the cycle's 8+ prior optimistic reviews and this session's deep-reviewed articles.
