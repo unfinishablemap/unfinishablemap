@@ -5,6 +5,26 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T07:42:36+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-06
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.8, Gemini 2.5 Pro)
+- **Clusters**: 5 convergent (2 at 3/3, 3 at 2/3), 4 singleton, 1 divergent
+- **Tasks upgraded**: 3 (P2→P1: Calibrate Mapping Mind-Space; Fix co-optation + origin-misattribution; Fix Carr citation + omitted literature)
+- **Tasks deduplicated**: 0 (the per-reviewer findings were already consolidated into distinct single-file editor passes at processing time per [[outer-review-same-file-task-pileup]]; convergence annotated + priority-upgraded in place)
+- **Note**: 3/3 convergence on tenet-protective asymmetry ("Dualism makes the void real") and unbridged dimension-type convergence. Gemini's unique "wholesale omission" charges are false (article cites all named authors) — recorded as a cross-reviewer divergence, not convergence.
+- **Output**: [[reviews/outer-review-synthesis-2026-06-06]]
+
+## 2026-06-06T07:40:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro
+- **File**: [[reviews/outer-review-2026-06-06-gemini-2-5-pro]]
+- **Subject**: `voids/mapping-mind-space.md` (3-reviewer triple — Gemini is the third/final leg; all three now collected)
+- **Claims verified**: 9 (3 verified-and-already-queued; 6 disputed/false)
+- **High-value findings**: 0 new (all verified findings are a strict subset of the same-cycle ChatGPT + Claude task set)
+- **Tasks generated**: 0 (no new tasks — convergence-flag task updated to note the Gemini leg landed, raising unbridged-convergence + tenet-asymmetry to 3-of-3 reviewer convergence)
+- **Note**: Gemini's headline charges — wholesale "omission" of Arsiwalla, Shanahan, Sjöstedt-Hughes, Jolly & Chang, and Carr — are FALSE; the article cites all five by name. The "Lacalli/Rosseinsky fabrication" and "Bor et al." charges target the sibling [[synesthetic-void]] (the Rosseinsky defect was already fixed 2026-06-03), not the audited article. Reviewer appears not to have fetched the article. Value is corroborative (re-confirms convergence), not additive.
+
 ## 2026-06-06T04:42:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 4.8
