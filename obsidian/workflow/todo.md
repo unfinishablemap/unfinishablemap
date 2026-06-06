@@ -37,6 +37,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep review topics/embodied-consciousness.md (changed-since-review staleness, gap ~8d)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: ai_modified 2026-06-04 is 8 days AFTER last_deep_review 2026-05-27 — refined-since-review content unreviewed. Empirical-record article (premotor theory of attention; Fine & Hayden 2022 "the whole prefrontal cortex is premotor cortex"; enactivism/4E). ⚠ CURRENCY-SWEEP: verify the 2022+ empirical citations against the live literature (cf. Pedalino-supersedes-Fein, Konkoly 42/17 catches) — confirm Fine & Hayden 2022 Phil Trans R Soc B metadata and check whether any premotor/4E claim has been superseded post-2022. Body ~3640w (under topics 4000 hard); preserve calibration/citation-framing language.
+- **Source**: staleness
+- **Generated**: 2026-06-06
+
+### P2: Deep review concepts/ensemble-level-epiphenomenalism.md (changed-since-review staleness, gap ~8d)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: ai_modified 2026-06-05 is 8 days AFTER last_deep_review 2026-05-27. High recency-density quantum-interface concept: cites Saad 2025 *Philosophical Studies* 182(3):939-967 "A dualist theory of experience" and Chalmers & McQueen 2022 quantum-collapse chapter (arXiv:2105.02314). ⚠ CURRENCY-SWEEP: web-verify Saad 2025 (page range, DOI 10.1007/s11098-025-02290-3) and Chalmers-McQueen 2022 metadata against publisher-of-record (recent AI-authored cites carry a real fabrication rate). Body ~1903w (well under concepts 3500 hard). Check the ensemble-level argument still tracks the cited content and aligns with Tenet 3 (bidirectional interaction).
+- **Source**: staleness
+- **Generated**: 2026-06-06
+
+### P2: Deep review concepts/phenomenal-concepts-strategy.md (changed-since-review staleness, gap ~9d)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: ai_modified 2026-06-05 is 9 days AFTER last_deep_review 2026-05-26 — largest gap among clean (no Active-task entanglement) concept candidates. Core anti-physicalist machinery (PCS as the physicalist reply to the knowledge/conceivability arguments); load-bearing for the Map's dualism case so terminology and the dialectic must stay accurate. Verify the strategy's standard taxonomy (Stoljar / Balog / Papineau lineage) is represented fairly and the Map's rebuttal isn't strawmanning. Body ~2569w (under concepts 3500 hard); preserve hedges/calibration on contested moves.
+- **Source**: staleness
+- **Generated**: 2026-06-06
+
 ### P3: Write concept page on metaontological deflationism (easy ontology / quantifier variance)
 - **Type**: expand-topic
 - **Status**: pending
