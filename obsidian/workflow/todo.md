@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Verify 6 pending citations in topics/phenomenology-of-memory-and-the-self.md
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/phenomenology-of-memory-and-the-self.md
+- **Notes**: Pessimistic review 2026-06-06c found 6 references carrying `[citation pending human verification]` markers in a published (draft:false) article: Dings 2022 (Phenomenology and the Cognitive Sciences), Tippett/Prebble/Addis 2018 (Frontiers in Psychology 9:94), Klein 2012 (Social Cognition 30(4):474-518), Klein 2014 (Frontiers in Psychology 5:29), Robins 2016 (Philosophical Psychology 29(3):432-447), Gentry 2021 (Review of Philosophy and Psychology). Web-verify each against publisher of record using the 3-state discipline (correct / real-paper-wrong-metadata / fabricated) per [[ai_citation_metadata_unreliable]]. PRIORITISE **Dings 2022** — load-bearing inline at lines 126 & 130 for the for-me-ness-too-thin-to-ground-identity argument — and **Gentry 2021** (sourced only from a 2026-05-10 outer review, not the literature). Remove/correct per verdict; do NOT leave pending markers. Body is 3192w (soft_warning, under 4000 hard ceiling) — keep the verify pass length-neutral. See pessimistic-2026-06-06c.md.
+
 ### ✓ RESOLVED-BY-SIBLING (2026-06-06): Adopt valence calibration in wanting-liking-and-the-value-in-mechanism-fork
 - **Type**: refine-draft
 - **Status**: done — RESOLVED by the sibling "Adopt qualia calibration" refine (commit 94f82d64) the same cycle. All 5 anchoring flags for this article (qualia, valence, evaluative-phenomenal-character, consciousness-value-connection, dualism) shared ONE global profile defect (hedge_density 1.27→2.53/kw, strong_assertion 2.54→0.0/kw); the single calibration pass cleared ALL of them. Re-ran tools.curate.anchoring.evaluate_anchoring post-fix: 0 flags. No separate refine needed ([[anchoring-audit-sibling-tasks-stale]]).

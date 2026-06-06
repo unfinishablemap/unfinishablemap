@@ -5,6 +5,12 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T23:02:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/phenomenology-of-memory-and-the-self.md` (oldest 0-pessimistic-mention non-index article; last_deep_review 2026-05-16)
+- **Findings**: 1 medium (6 `pending human verification` citations in a published article, Dings 2022 load-bearing), 1 low-medium (unanswered anatta/no-self objection to the self-constitution thesis). Discipline checks (label-leakage, reasoning-mode, altered-state symmetry) all pass; opponent-handling (MWI, illusionism) honestly framework-boundary-marked. Queued 1 P2 refine-draft for the citation verification.
+- **Output**: [[reviews/pessimistic-2026-06-06c]]
+
 ## 2026-06-06T22:35:08+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/phenomenology-of-consciousness-doing-work]]
