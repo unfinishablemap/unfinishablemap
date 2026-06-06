@@ -4,8 +4,8 @@ description: "Contemplative traditions report incompatible emotional tones at th
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-05-27T14:06:47+00:00
-last_deep_review: 2026-05-27T00:00:00+00:00
+ai_modified: 2026-06-06T01:57:17+00:00
+last_deep_review: 2026-06-06T01:57:17+00:00
 draft: false
 topics:
   - "[[comparative-phenomenology-of-meditative-traditions]]"
