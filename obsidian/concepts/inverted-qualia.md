@@ -4,7 +4,7 @@ description: "What if your red looks like my green? Functionally identical being
 created: 2026-01-15
 modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-06-06T15:47:35+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-05-27T00:00:00+00:00
+last_deep_review: 2026-06-06T15:47:35+00:00
 ---
 
 The inverted spectrum thought experiment asks: what if your experience of red is qualitatively identical to my experience of green? Two people might perceive the same objects, respond identically to color tests, and agree on all color terms—yet experience the world in systematically different ways. Where you see a warm red sunset, I might see something that, were you to experience it, you'd call a cool green glow.

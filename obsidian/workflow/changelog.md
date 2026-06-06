@@ -5,6 +5,18 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T15:47:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/inverted-qualia]]
+- **Word count**: 2414 → 2414 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (97% of soft target, under threshold)
+- **Enhancements made**: 0 (verification pass)
+- **Citations web-verified**: 0 new tuples added since 5th review; carried-forward ledger intact (Block & Fodor 1972, Block 1990, Shoemaker 1982, Hardin 1988, Palmer 1999, Dennett 1991, Chalmers 1996, Strawson 2006, Frankish 2016 — all real-correct in prior rounds). New Kripke (1980) content is a position-attribution, not a citation tuple — no References entry required.
+- **Engagement modes**: Dennett Mode Three (framework-boundary, honest conditional), Frankish/illusionism Mixed (Mode Two opening → Mode Three residue) — unchanged, no boundary-substitution, no label leakage
+- **Notes**: 6th review of lineage; would be convergence-damping-excluded but explicitly requested. Only substantive change since 5th review = refine-draft 8a3aad440 (2026-06-04) adding the Kripkean conceivability/possibility reply to the phenomenal-concepts-strategy paragraph. Verified: correctly attributed (Naming and Necessity 1980, water/H₂O a-posteriori impossibility), internally coherent, sharpens the "too little" horn ("cannot exhibit the hidden essence"). No critical/medium/low issues. Ratification pass; resisted re-expansion of converged content.
+- **Output**: [[reviews/deep-review-2026-06-06-inverted-qualia]]
+
 ## 2026-06-06T15:33:18+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/phenomenal-transparency-opacity-spectrum]]
