@@ -5,6 +5,12 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T13:33:58+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[project/calibration-audit-triple]]
+- **Changes**: Recorded two methodology proposals from the 2026-06-06 Claude Opus 4.8 outer review of mapping-mind-space (items B-1, B-8) as proposed audit members. ASSESS-FIRST confirmed both are genuine gaps not already covered by [[evidential-status-discipline]]. (1) **Origin-attribution check (d)** added to the existing citation-integrity sweep (Audit Four) — a "who originated this concept/phrase" verification that the metadata-correctness checks (a)-(c) structurally miss (Shanahan-vs-Sloman: cited work verified clean, conceptual priority wrong). (2) **Co-optation gate (Audit Six)** — pre-citation gate keyed to a maintained naturalist roster, catching stance-INVERSION (enlisting a non-dualist author toward a dualist conclusion they reject). Explicitly distinguished from the existing source-role table's *Source-would-accept?* column (evidential-weight axis) — the gate is an orthogonal accuracy/misrepresentation move. CONSOLIDATED the convergent ChatGPT sibling "source-role labels" proposal: its register-tagging half folded in as the source-role table's existing function, its stance-inversion half captured by the new gate, rather than minting a parallel rule. Renamed section heading "Two Proposed Members" → "Proposed Members". Added 2026-06-06 Claude review to related_articles.
+- **Published**: yes (project methodology doc; writing-style article rules N/A. Length status critical is pre-existing — this is an accumulating editorial reference, not a corpus article; addition kept tight at ~570w.)
+
 ## 2026-06-06T13:18:01+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/one-structure-three-vocabularies]]
