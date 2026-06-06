@@ -5,6 +5,19 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T19:34:46+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/what-it-might-be-like-to-be-an-ai]]
+- **Word count**: 4212 → 4277 (+65; soft_warning, well under 5000 apex hard threshold)
+- **Critical issues addressed**: 1 (orphan References — Block 1978 and Chalmers & McQueen 2021 had no inline anchor; both web-verified real-correct and re-anchored inline rather than deleted)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 inline citation anchors (Block, Chalmers & McQueen); length-offset tightening of Butlin paragraph + Wiest/Beshkar caveat
+- **§2.4 web-verify**: full publisher-of-record ledger run on all 12 references (new/changed since 2026-05-21: Neven 2024 repointed, Wiest 2025, Beshkar 2025, Butlin 2023/2025, Claude Constitution passage). All real-correct — no fabricated/wrong-metadata/wrong-paper cites. The only defect was orphan-direction cross-reference (entry without inline anchor), now fixed.
+- **Currency sweep**: 1 "so far" match, appropriately scoped; no superseded superlatives.
+- **Engagement classification** (editor-internal): Butlin et al. = Mode Three (framework-boundary marking, honest, no boundary-substitution). Self-stultification / illusionists / Cerullo = Mode One; standard-arguments = Mode Three (all unchanged).
+- **Calibration**: no possibility/probability slippage; new Claude Constitution passage exemplary (declares model self-report non-diagnostic). "none" preserved as most-likely for current systems.
+- **Output**: [[reviews/deep-review-2026-06-06-what-it-might-be-like-to-be-an-ai]]
+
 ## 2026-06-06T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/self-reference-and-the-limits-of-physical-description]]
