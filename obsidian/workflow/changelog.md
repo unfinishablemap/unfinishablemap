@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-05T23:55:00+00:00
+ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-06T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/qbism]]
+- **Word count**: 2204 → 2204 (no change; converged, license-to-no-op exercised)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0
+- **Citation pass**: All 5 external citations RE-VERIFIED clean at publisher of record this pass (Fuchs/Mermin/Schack 2014 AJP 82(8) 749-754; Fuchs 2017 Mind&Matter 15(2) 245-300; Fuchs 2017 "On Participatory Realism" Durham&Rickles pp.113-134 Springer; Caves/Fuchs/Schack 2002 PRA 65 022305; DeBrota/Fuchs/Schack 2020 Found.Phys. 50 1859-1874). Full author-vector + initials + year + venue + vol/pages + stance all match. No de-citation, no propagation fix.
+- **Cross-review integration**: verified the post-review [[the-agent-shaped-hole]] integration (commit 126535ec1) is faithful (genuinely load-bearing — agent-shaped-hole is the diagnostic qbism's Agent Problem instantiates) and reciprocates two-way.
+- **Reasoning-mode (editor-internal)**: QBism/Fuchs agent-presupposition = Mode Two (unsupported foundational move, honest); MWI-defender indexical = Mode Three (framework-boundary, honest). Label-leakage scan clean. Calibration clean (QBism held as neighbour view, not evidence-for-dualism; no possibility→probability slippage).
+- **Trigger**: Changed-since-review (ai_modified 2026-06-03 > last_deep_review 2026-05-29). Tenth review; body stable.
+- **Output**: [[reviews/deep-review-2026-06-06-qbism]]
 
 ## 2026-06-05T23:55:35+00:00 - deep-review
 - **Status**: Success
