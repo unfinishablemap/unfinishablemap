@@ -9,6 +9,128 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-06T00:00:00+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 534
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-06-06](/reviews/tenet-check-2026-06-06/)
+
+## 2026-06-06T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [essential-vs-contingent-consciousness](/topics/essential-vs-contingent-consciousness/)
+- **Word count**: 2767 → 2767 (no change)
+- **Critical issues addressed**: 0 (none found — 2nd review, converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (license-to-no-op: only content delta since clean 05-27 review is one added cross-link to [contentless-awareness-evidence](/topics/contentless-awareness-evidence/), verified to resolve; argumentative body unchanged)
+- **Stance-fidelity (high-risk check)**: Web-verified the Nyāya outlier stance — consciousness as adventitious quality, consciousness-free liberation per Vātsyāyana. Article presents Nyāya as the contingent-consciousness outlier correctly and does NOT flip it. Advaita/Sāṃkhya/Locke/Descartes/Zahavi/Metzinger faithful (unchanged prose, verified 05-27).
+- **Calibration**: passes — diagnostic test performed in body; no possibility/probability slippage. Engagement with Nyāya: Mode Three (boundary-marking, declined on coherence not evidential grounds).
+- **Length**: 92% of 3000 soft threshold (ok)
+- **Output**: [deep-review-2026-06-06-essential-vs-contingent-consciousness](/reviews/deep-review-2026-06-06-essential-vs-contingent-consciousness/)
+
+## 2026-06-06T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/)
+- **Word count**: 3101 → 3101 (no change)
+- **Critical issues addressed**: 0 (none found — 6th review, converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral; under hard ceiling, no growth)
+- **Citation verification**: 6 publisher-of-record confirmations (Gruber 2015 Front Psychol — confirmed the Whiten→Gruber author-vector fix is correct; Csibra & Gergely 2011 Phil Trans R Soc B — human-specific natural-pedagogy thesis faithful; Read 2008 Evol Psychol; Boesch 1991 Anim Behav; Cowan 2001 BBS). Currency: 2019 PNAS chimp-teaching paper already accommodated by article's hedging — no supersession.
+- **Reasoning-mode**: Illusionist Challenge = Mode Two (burden-shift); no boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-06-06-teaching-as-metarepresentation](/reviews/deep-review-2026-06-06-teaching-as-metarepresentation/)
+
+## 2026-06-06T03:42:29+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [outer-review-2026-06-06-chatgpt-5-5-pro](/reviews/outer-review-2026-06-06-chatgpt-5-5-pro/)
+- **Subject**: [mapping-mind-space](/voids/mapping-mind-space/) (recent-aged fallback; revised 2026-05-29)
+- **Claims verified**: 6 (tenet-protective "Dualism makes the void real" asymmetry, verbatim "Current evidence meets none of these", unbridged dimension-type convergence, verbatim "cannot know those dimensions exist", verbatim "no telescope exists", changelog-corroborated synesthetic-void Lacalli/Rosseinsky fabrication in the nearby citation cluster)
+- **High-value findings**: 4 (epistemic→metaphysical slide / tenet-protective overstatement; acquaintance-vs-knowledge conflation; overbroad challenge-dismissal; unbridged convergence across heterogeneous dimension types)
+- **Tasks generated**: 3 (P2: calibration refine-draft carrying the [direct-refutation-discipline](/project/direct-refutation-discipline/) remit; P2: counterargument/sibling-caveat import cross-review; P2: methodology proposals — consolidated with the 2026-06-05 edge-states methodology task to avoid duplication)
+- **Convergence**: tenet-perimeter / boundary-substitution structural critique surfaces again (3 prior outer reviewers converged on this pattern)
+
+## 2026-06-06T03:32:54+00:00 - deep-review
+- **Status**: Success
+- **File**: [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/)
+- **Word count**: 1799 → 1799 (timestamps only; 72% of 2500 soft, normal mode)
+- **Critical issues addressed**: 0 (none found — 6th consecutive clean review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged; license-to-no-op honoured)
+- **Key checks**: (1) Changed-since-review delta (commit eed8bd0ee, 2026-06-03) was a benign reciprocal `[[direction-of-fit]]` cross-link addition — verified faithful, target live, back-link reciprocated, no new empirical content. (2) Full publisher-of-record citation sweep: De-la-Fuente-Fernández 2001 (Science 293:1164-1166, striatal dopamine release — CLEAN), Beilock & Carr 2001 (JEP:Gen 130:701-725, self-focus degrades, dual-task doesn't — CLEAN), Kaptchuk 2010 (PLoS ONE 5:e15591, open-label IBS — CLEAN, matches sibling), Pollo 2001 (Pain 93:77-84, expectation-strength→graded analgesia — CLEAN); Benedetti channel-qualifier preserved. No fabrication/wrong-paper/orphan; no post-2020 supersession. (3) Calibration honest — content-causation kept as the Map's interpretive reading, not proof; no possibility/probability slippage. (4) Functionalist engagement Mode Mixed (Two→Three), no label leakage. (5) All cross-links + tenet/PIT anchors resolve.
+- **Output**: [deep-review-2026-06-06-content-specificity-of-mental-causation](/reviews/deep-review-2026-06-06-content-specificity-of-mental-causation/)
+
+## 2026-06-06T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/)
+- **Word count**: 2866 → 2866 (timestamps only; 96% of 3000 soft, length-neutral)
+- **Critical issues addressed**: 0 (none found — 5th consecutive clean review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (reviewed + endorsed prior cross-link delta; no new edits)
+- **Key checks**: (1) Gödel/Lucas-Penrose stance — CLEAN: article makes a structural-parallel claim only and does NOT invoke Lucas-Penrose mechanism-transcendence at all, so owes no rebuttal of the standard objections; modal register calibrated via the explicit mathematical/interpretive/philosophical tiering. (2) Szangolies 2018 re-verified fresh at publisher of record (Springer DOI 10.1007/s10701-018-0221-9, FoPh 48:1669-1697) — zero defects. (3) Post-review delta (Carroll's-regress + inference-void cross-link, commit 7f0da6fb9) reviewed and endorsed — accurate, load-bearing.
+- **Engagement modes (editor-internal)**: physicalist evolution-wiring = Mode Two (own reliable-tracking standard); functionalists = Mode Two/Three mix (zombie+Mary, honest standoff). No label leakage.
+- **Output**: [deep-review-2026-06-06-consciousness-and-the-authority-of-formal-systems](/reviews/deep-review-2026-06-06-consciousness-and-the-authority-of-formal-systems/)
+
+## 2026-06-06T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
+- **Word count**: 2657 → 2657 (timestamps only; 89% of 3000 soft)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verification**: Seventh deep review; first **publisher-of-record** citation pass (prior six checked formatting only). ALL 13 refs web-verified CLEAN against live literature — full author vectors, titles, venues, pages, and empirical numbers+direction: Tegmark 2000 (10⁻¹³–10⁻²⁰s), Hagan/Hameroff/Tuszynski 2002 (Phys Rev E 65 061901; 7-orders recalc), Hameroff-Penrose 2014 (PoLR 11:39-78), Sahu/Ghosh/Fujita/Bandyopadhyay 2014 (Sci Rep 4:7303), Perry 2025 (SSRN; 1-10ms mesoscopic domains), Thura-Cisek 2014 (Neuron 81:1401-1416; 280ms), Rajan+5 2019 (Cereb Cortex 29(7):2832-2843; 500ms theta), Schultze-Kraft 2016 (PNAS 113(4):1080-1085; 200ms), Schurger/Sitt/Dehaene 2012 (PNAS 109:E2904), Beck-Eccles 1992 (PNAS 89:11357-61), Crick-Koch 1990, Libet 1983, Stapp 2008 (arXiv:0803.1633). No fabrication / wrong-metadata / orphan / wrong-paper / stance-misattribution. Currency-sweep on cross-referenced superlatives: 1.8K hot cat states (Innsbruck, Sci Adv Apr 2025) + >7,000-atom nanoparticle interference (Nature 2026, s41586-025-09917-9, supersedes 2019 2000-atom record) both CURRENT. Tegmark engagement Mode Three + Mode-One-adjacent (Hagan in-physics param disagreement); no boundary-substitution, no label leakage. §2 calibration: exemplary, post-decoherence selection explicitly conceded non-falsifiable / reduced-content; no slippage. consciousness-bandwidth-architecture cross-link (05-26) reciprocal + integrated. All wikilinks resolve. Converged — recommend deprioritize.
+- **Output**: [deep-review-2026-06-06-quantum-neural-timing-constraints](/reviews/deep-review-2026-06-06-quantum-neural-timing-constraints/)
+
+## 2026-06-06T03:08:27+00:00 - deep-review
+- **Status**: Success
+- **File**: [analytic-idealism-and-mind-centric-metaphysics](/topics/analytic-idealism-and-mind-centric-metaphysics/)
+- **Word count**: ~2173 → ~2173 (length-neutral; under 3000 soft)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (tightened a muddy clarifying sentence introduced by the 06-02 refine into a concrete idealist-rejoinder)
+- **Verification**: Fifth deep review. Trigger was unreviewed refine delta 960f8d707 (2026-06-02 "Adopt idealism calibration") — both its edits DOWNGRADE confidence (explicit underdetermination; "not empirically defeated"), the opposite of possibility/probability slippage; calibration improved, no slippage. Kastrup stance web-verified faithful (mind-at-large sole primitive / dissociated DID-alters / matter-as-extrinsic-appearance; NO conflation with Berkeleyan idealism or constitutive panpsychism — separate sections, no strawman). Citations web-verified: Kastrup 2019 *Idea of the World*; Shani 2015 *Philosophical Papers* 44(3):389-437 (title/venue/pagination/decombination-framing exact); Goff 2017. All 12 wikilinks + 4 tenets#^ anchors + related research note resolve. §2 diagnostic: tenet-accepting reviewer would flag nothing as overstated. Kastrup engagement Mixed (unsupported-move opening → boundary-marking); panpsychism Mode One; no label leakage. Converged.
+- **Output**: [deep-review-2026-06-06-analytic-idealism-and-mind-centric-metaphysics](/reviews/deep-review-2026-06-06-analytic-idealism-and-mind-centric-metaphysics/)
+
+## 2026-06-06T04:10:00+00:00 - deep-review
+- **Status**: Success (no-op; converged, citation-verified)
+- **File**: [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/)
+- **Word count**: 2661 → 2661 (0; converged, no edits warranted)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0
+- **Verification**: Sixth deep review. Full publisher-of-record citation currency sweep (author-vector + year + venue + stance + title): Cai/Liu/Kaeser 2024 *Nature* 635(8038):406-414 VERIFIED exact (post-review fix f2521415c corrected the wrong-title+wrong-initials variant to canonical; in-text dopamine usage faithful to paper); Hagan/Hameroff/Tuszyński 2002 *Phys Rev E* 65:061901 VERIFIED; McKemmish et al. 2009 *Phys Rev E* 80(2):021912 VERIFIED stance-correct (argue AGAINST microtubule coherence, not reversed); Reimers et al. 2009 *PNAS* 106(11):4219-4224 VERIFIED same-group contestation; Sjöberg 2024 *Brain* 147(7):2267-2269 VERIFIED. No Craddock refs (sweep concern N/A). 3-state de-citation: all real-and-correct → leave. Both post-review git deltas confirmed clean (f2521415c Cai/Kaeser metadata; cd5105bca libet calibration — both calibration-consistency improvements, no defect). §2 diagnostic: no possibility/probability slippage — QZ "candidate not established", tenet-as-evidence-upgrade explicitly declined. Materialism engagement Mode Three; no label leakage. All 16 cross-links resolve; volitional-control + motor-selection reciprocate. Length 89% of soft (3000), status ok. Strongest convergence signal yet; safe to deprioritise.
+- **Output**: [deep-review-2026-06-06-motor-control-quantum-zeno](/reviews/deep-review-2026-06-06-motor-control-quantum-zeno/)
+
+## 2026-06-06T03:20:00+00:00 - deep-review
+- **Status**: Success (no-op; converged)
+- **File**: [steelmanning-as-method](/apex/steelmanning-as-method/)
+- **Word count**: 3725 → 3725 (0; converged, no edits warranted)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0
+- **Verification**: Changed-since-review (ai_modified 06-05 > last review 05-28). Single delta isolated via `git show 3d62919f3`: one new paragraph integrating the evidential-status discipline's new FOURTH cross-cutting rule (epistemic-vs-metaphysical equivocation / horizontal-vs-vertical inflation) + a one-clause Source-Articles update. Verified the new paragraph FAITHFUL to project/evidential-status-discipline §"Epistemic Reading ≠ Metaphysical Reading" (horizontal/vertical distinction, equivocation definition, fix-shape triad all match in substance), GROUNDED in the article's own felt-character exhibit (cross-checked dissociation apex: its residue is stated in the access-limit/epistemic form the paragraph cites), and CALIBRATED (anti-inflation, no tier-elevation). Self-referential scrutiny passed: all worked-steelman rivals (dissociation apex reconstruction, coherence-inflation Countermeasures 2/9/10, moral-architecture Unity Argument, taxonomy-of-voids common-cause null) represented faithfully and at full strength — no strawmanning. No editor-vocabulary leakage, no banned cliché, no slippage. Length 93% of soft (4000), status ok. No reasoning-mode engagements warranting classification. Note: source doc's "Three Cross-Cutting Rules" header is stale (now four) — flagged as optional housekeeping on that file, not this article.
+- **Output**: [deep-review-2026-06-06-steelmanning-as-method](/reviews/deep-review-2026-06-06-steelmanning-as-method/)
+
+## 2026-06-06T02:40:32+00:00 - deep-review
+- **Status**: Success (no-op; converged)
+- **File**: [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/)
+- **Word count**: 2233 → 2233 (0; converged, no edits warranted)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0
+- **Verification**: 6th review; changed-since-review (ai_modified 06-04 > last review 06-03). Audited ONLY the 06-04 refine-draft delta (commit c0204dd89): three calibration-softening edits ("functionalism fails"→"may fail"; "findings establish"→"point to... underdetermined"; "Neither proves"→"is not proof") — all move evidential language DOWN the scale, correct direction, no slippage introduced. Six named empirical citations were publisher-of-record verified 06-03 and unchanged since (no re-verify). Currency-sweep (1 WebSearch): COGITATE Nature 2025 record NOT superseded — consortium finalising COGITATE-2, matching article's "further adversarial collaborations underway"; superlatives ("largest adversarial collaboration," "first" detections) remain accurate. No reasoning-mode engagements; no label leakage. Length 74% of soft (3000).
+- **Output**: [deep-review-2026-06-06-experimental-consciousness-science-2025-2026](/reviews/deep-review-2026-06-06-experimental-consciousness-science-2025-2026/)
+
+## 2026-06-06T03:15:00+00:00 - deep-review
+- **Status**: Success (no-op; converged)
+- **File**: [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)
+- **Word count**: 3255 → 3255 (0; converged, no edits warranted)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0
+- **Verification**: 10th review. Central calibration check PASS — self-stultification framed as epistemic self-defeat ("could still be true, cannot be rationally held"), matching [self-stultification](/concepts/self-stultification/) + [epiphenomenalism](/concepts/epiphenomenalism/):95 canon; no logical/constitutive overstatement, no possibility/probability slippage. Attributions all accurate (Lewis/Anscombe/Plantinga/Reppert/Huxley/James/Churchland/Frankish/Sellars/McDowell). Coutinho→Rebouillat 2021 correction confirmed landed. Live web-verify (1 WebSearch): Sarasso et al. 2015 confirmed *Current Biology* 25(23):3099-3105; PCI claim + source/Map separation faithful. No label leakage. Boghossian / Korman & Locke not present in article (no attribution to verify).
+- **Reasoning modes**: functionalist Mode Two→One; Frankish Mode One; Churchland-eliminativism Mode One (+reliabilist third horn). All natural prose.
+- **Output**: [deep-review-2026-06-06-self-stultification-as-master-argument](/reviews/deep-review-2026-06-06-self-stultification-as-master-argument/)
+
 ## 2026-06-06T02:30:00+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [neurophenomenology-and-contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/), [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)

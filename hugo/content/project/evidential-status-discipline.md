@@ -142,7 +142,7 @@ The test is decisive because it separates two failure modes that look superficia
 
 The test makes the discipline operational. The `/deep-review` skill applies it explicitly when classifying findings: claims flagged as "tenet-coherent but evidentially over-claimed" are critical; claims flagged as "rejected from outside the tenets" are not. The asymmetry was the gap the previous "persona disagrees → not critical" rule left open: it shielded calibration errors by treating them as bedrock disagreements.
 
-## Three Cross-Cutting Rules
+## Four Cross-Cutting Rules
 
 The diagnostic test catches the failure mode at the level of organism-level evidence-grade labelling. Four further rules extend the discipline to specific cross-cutting axes the catalogue has been pulled toward conflating: experience to irreducibility, dissociation evidence to metaphysical primitiveness, tenet-derived disagreement with MWI to phenomenological refutation of MWI, and — the rule added below — a single claim that *equivocates between an epistemic and a metaphysical reading of the same words*, using evidence for the weaker reading to assert the stronger one.
 
