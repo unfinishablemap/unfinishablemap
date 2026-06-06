@@ -5,6 +5,15 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/near-death-experiences]]
+- **Word count**: 2696 → 2696 (frontmatter-only; 108% of 2500 soft, under 3500 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — seventh pass, fully converged. Confirmed the 2026-06-04 refine-draft's calibration improvements (epistemic-vs-metaphysical split in Dualism section; anti-tenet decoherence argument in MQI section; new one-pattern-not-three symmetry concession in Asymmetry Problem). All changed passages pass the §2 diagnostic test (tenet-accepting reviewer would not flag overstatement). §2.4 citations not re-verified — References byte-identical to the 2026-05-26 full primary-source audit (zero defects), no new bibliographic content. Engagement with the illusionist: Mode Two + boundary-marking, unchanged, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-06-near-death-experiences]]
+
 ## 2026-06-06T19:34:46+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/what-it-might-be-like-to-be-an-ai]]
