@@ -5,6 +5,18 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-06T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/wheelers-participatory-universe-and-it-from-bit]]
+- **Word count**: 3998 → 3998 (no change; converged 4th review; soft_warning, under 4000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (frontmatter timestamps only — license-to-no-op honoured)
+- **Citations**: ★ All five load-bearing citations independently web-verified at publisher of record — EXACT, no defects. Jacques et al. 2007 *Science* 315(5814):966–968 ✓; Ismael 2025 *Found. Phys.* 55, 35 ✓ (incl. article number); Zeilinger 1999 *Found. Phys.* 29(4):631–643 ✓; Tegmark 2000 *Phys. Rev. E* 61(4):4194–4206 ✓. NO Ma paper cited (the flagged Ma-2012-vs-2013 WRONG-PAPER trap does not arise; Jacques is the delayed-choice realisation source). Three-state de-citation: zero removals (all real, all correct).
+- **Stance-fidelity (high-risk)**: ★ Verified Wheeler is steelmanned, not strawmanned. Article does NOT misattribute consciousness-causes-collapse to Wheeler — correctly states his "observer" need not be conscious (photon detector qualifies), frames the Map's use as "inspired by Wheeler, not licensed by him," concedes multiple-compatibility. Everett "metaphysical baggage" rejection verified. Web-confirmed twice independently.
+- **Reasoning-mode (editor-internal)**: Stapp = Mixed/Mode-Three (decoherence conceded against the Map too); Barbour = Mode-One/boundary (weakens-not-destroys conceded); Tegmark = Mode-One/Mixed (own physics turned on the Map). No boundary-substitution. No label leakage, no "not X. It is Y." cliché (grep clean).
+- **Output**: [[reviews/deep-review-2026-06-06-wheelers-participatory-universe-and-it-from-bit]]
+
 ## 2026-06-06T02:06:38+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/phenomenal-concepts-strategy]]

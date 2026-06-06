@@ -4,8 +4,8 @@ description: "Wheeler's twin theses — that observers constitute reality throug
 created: 2026-02-22
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-06-05T00:00:00+00:00
-last_deep_review: 2026-05-31T21:17:57+00:00
+ai_modified: 2026-06-06T00:00:00+00:00
+last_deep_review: 2026-06-06T00:00:00+00:00
 draft: false
 topics:
   - "[[quantum-measurement-and-subjective-probability]]"

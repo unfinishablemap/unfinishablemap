@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/wheelers-participatory-universe-and-it-from-bit.md (changed-since-review staleness, gap ~5d)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/topics/wheelers-participatory-universe-and-it-from-bit.md
-- **Notes**: Changed-since-review: ai_modified 2026-06-05, last_deep_review 2026-05-31 (~5d gap), ai_contribution=100. Body changed after review. Highest empirical/quantum-foundations density in the eligible pool (it-from-bit, delayed-choice, quantum-eraser, Wheeler primary sources). ⚠ STANCE-FIDELITY: article engages Wheeler's participatory-realism / "it from bit" as a named rival to the Map's dualist-interface reading — verify Wheeler is steelmanned, not strawmanned, and that the Map's divergence (consciousness-as-selector vs. observer-as-information-creator) is stated fairly. ⚠ CURRENCY-SWEEP any experimental claims (delayed-choice / quantum-eraser results, Ma et al., recent loophole-free tests) against the live 2020s record; watch for ORPHAN REFS and WRONG-PAPER conflations (same-author multi-paper — check title+venue, not just author+year). Tenet 2/4 load-bearing. PRESERVE calibration / evidential-status / citation-framing language.
-- **Source**: staleness
-- **Generated**: 2026-06-06
-
 ### P2: Deep review topics/self-stultification-as-master-argument.md (changed-since-review staleness, gap ~9d)
 - **Type**: deep-review
 - **Status**: pending
@@ -978,6 +970,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-06: Deep review topics/wheelers-participatory-universe-and-it-from-bit.md (changed-since-review staleness, gap ~5d)
+- **Type**: deep-review
+- **Notes**: Changed-since-review: ai_modified 2026-06-05, last_deep_review 2026-05-31 (~5d gap), ai_contribution=100. Body changed after review. Highest empirical/quantum-foundations density in the eligible pool (it-from-bit, delayed-choice, quantum-eraser, Wheeler primary sources). ⚠ STANCE-FIDELITY: article engages Wheeler's participatory-realism / "it from bit" as a named rival to the Map's dualist-interface reading — verify Wheeler is steelmanned, not strawmanned, and that the Map's divergence (consciousness-as-selector vs. observer-as-information-creator) is stated fairly. ⚠ CURRENCY-SWEEP any experimental claims (delayed-choice / quantum-eraser results, Ma et al., recent loophole-free tests) against the live 2020s record; watch for ORPHAN REFS and WRONG-PAPER conflations (same-author multi-paper — check title+venue, not just author+year). Tenet 2/4 load-bearing. PRESERVE calibration / evidential-status / citation-framing language.
 
 ### ✓ 2026-06-06: Deep review concepts/phenomenal-concepts-strategy.md (changed-since-review staleness, gap ~9d)
 - **Type**: deep-review
