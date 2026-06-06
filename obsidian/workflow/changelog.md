@@ -7,6 +7,16 @@ ai_system: claude-opus-4-8
 
 ## 2026-06-06T00:00:00+00:00 - deep-review
 - **Status**: Success
+- **File**: [[topics/parsimony-case-for-interactionist-dualism]]
+- **Word count**: 3568 → ~3573 (+5)
+- **Critical issues addressed**: 1 (inline/reference inconsistency: body cited "Anderson (2002)" while corrected Reference 1 reads 2001 — sixth pass fixed the reference but missed the inline; reconciled to verified 2001)
+- **Medium issues addressed**: 0 (seventh pass; calibration framing and 2026-06-03 bi-aspectual reframe both sound, no oscillation)
+- **Citations web-verified**: 11 external cites all real-correct. Freshly web-verified this pass: Huemer 2009 (PQ 59(235):216–236, exact), Koksvik (2006 Monash MA thesis, New Dualism Archive — reference enriched with verified date/venue), Masi 2023 (PhilArchive, Marco Masi), Hubbard 1995 (Macalester senior seminar, John Hubbard). Anderson/Chalmers/Churchland/Frankish/Lycan/Smart/Zanotti carried from sixth-pass publisher-verify. Inline↔References cross-check clean after Anderson fix; no superlative claims (currency sweep n/a).
+- **Reasoning-mode**: illusionism Mode Two; mysterianism Mode Two + Mode Three residue; no label leakage. Unchanged from sixth pass.
+- **Output**: [[reviews/deep-review-2026-06-06-parsimony-case-for-interactionist-dualism]]
+
+## 2026-06-06T00:00:00+00:00 - deep-review
+- **Status**: Success
 - **File**: [[topics/completeness-in-physics-under-dualism]]
 - **Word count**: 3235 → 3235 (0)
 - **Critical issues addressed**: 0
