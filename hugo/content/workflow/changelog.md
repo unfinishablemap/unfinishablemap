@@ -9,6 +9,42 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-07T18:30:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The composition/individuation cluster (most recently modified on disk) — topics/consciousness-and-the-metaphysics-of-composition, topics/consciousness-and-the-metaphysics-of-individuation, and the two concept pages created today: concepts/information-compression-composition, concepts/metaontological-deflationism.
+- **Output**: [optimistic-2026-06-07](/reviews/optimistic-2026-06-07/)
+- **Note**: Standout strength is evidential-status discipline — every article had the structural opportunity to upgrade the convergence above "suggestive" on tenet-load and explicitly declined each time ("tenet-coherent, not evidence-elevating"); Process-Philosopher resonance and Hardline-Empiricist discipline converge, no calibration concern. Three P3 tasks queued: apex synthesis (mereology-of-mind), brutal-composition concept page (Markosian; concepts 263/270), three reciprocal cross-links. Topics at cap (270/270) so no new topic suggested.
+
+## 2026-06-07T18:10:00+00:00 - deep-review
+- **Status**: Success (convergence-damping no-op confirmation)
+- **File**: [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/)
+- **Word count**: 2579 → 2579 (no body change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Eighth deep review of the topics article; squarely in the outright-exclusion band (≥3 prior reviews + last_deep_review 2026-06-05, 2 days ago). Reached only via explicit file argument. Git status since last review = CLEAN; last commit on the file is the 2026-06-05 review cycle itself (42f48c9e9). Content byte-identical to the 2026-06-05 review, which applied a full publisher-of-record citation audit (Zheng & Meister 2025 *Neuron* 113(2):192–204 verified; Frankish/Dennett illusionism attribution verified; Herzog/VanRullen/Crick&Koch/Lee/Locke/Sellars verified in 05-26/05-29), reasoning-mode classification (functionalist Mode Two+Three, illusionist Mode Two, identity-theory Mode One — no boundary-substitution, no label leakage), and a calibration check (no possibility/probability slippage; article explicitly declines smoothness-as-independent-dualism-evidence). Re-verified those verdicts still hold against current text: all inline↔References cross-refs matched, no editor-vocabulary leakage in prose, length 2579w (86% of soft 3000) ok. §2.4 web-verify NOT re-spent (References unchanged since the 06-05 full per-cite ledger). No frontmatter timestamp bump — content unchanged, so re-bumping ai_modified/last_deep_review would falsely re-qualify a converged page for staleness selection. No new review-archive file (would duplicate 06-05 verbatim). See [deep-review-2026-06-05-neural-refresh-rates](/reviews/deep-review-2026-06-05-neural-refresh-rates/).
+
+## 2026-06-07T17:32:37+00:00 - deep-review
+- **Status**: Success (convergence-damping no-op confirmation)
+- **File**: [substance-property-dualism](/concepts/substance-property-dualism/)
+- **Word count**: 2646 → 2646 (no body change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Seventh deep review; in the outright-exclusion band (6 prior reviews, last 2026-05-27). Reached only via explicit file argument. Git diff since last review = frontmatter only: `ai_modified` bump, reciprocal `[[ai-ensoulment-hypothesis]]` backlink (verified reciprocal), stale-anchor fix `^occam`→`^occams-limits` (verified valid in tenets.md). No body content changed; Xu et al. "computational support" convention anchor intact. §2.4 web-verify skipped (References unchanged since last review's full per-cite ledger). Refreshed `last_deep_review` to restore correct damping.
+- **Output**: [deep-review-2026-06-07-substance-property-dualism](/reviews/deep-review-2026-06-07-substance-property-dualism/)
+
+## 2026-06-07T16:34:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [information-compression-composition](/concepts/information-compression-composition/)
+- **Word count**: 1478 → 1492 (+14)
+- **Critical issues addressed**: 1 (orphan reference — Van Inwagen *Material Beings* listed but uncited; resolved by adding inline SCQ provenance)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 1 (van Inwagen SCQ attribution)
+- **Citation web-verify (§2.4)**: Bird 2023 (PQ 73(3):677–700, DOI 10.1093/pq/pqad034) — real-correct, verbatim ICP quote confirmed against Cambridge Apollo full text; Beni 2025 (PQ 75(2):396–406, DOI 10.1093/pq/pqae019) — real-correct, "shipstars"/functional-integration/collective-entropy confirmed against advance-article PDF. No fabricated/wrong-metadata cites, no superlative-currency issues.
+- **Reasoning-mode**: engagement with compressionist (Bird/Beni) — Mode Three (framework-boundary marking), natural prose, no label leakage. Calibration clean (no possibility/probability slippage; declines tenet-as-evidence-upgrade).
+- **Output**: [deep-review-2026-06-07-information-compression-composition](/reviews/deep-review-2026-06-07-information-compression-composition/)
+
 ## 2026-06-07T17:10:00+00:00 - cross-review
 - **Status**: Success
 - **Task**: Cluster integration verify for new [information-compression-composition](/concepts/information-compression-composition/)

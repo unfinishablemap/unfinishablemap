@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-07
-ai_modified: 2026-06-07 16:45:00+00:00
+ai_modified: 2026-06-07 16:34:56+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -17,6 +17,7 @@ description: Bird's answer to the Special Composition Question—parts compose w
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-06-07 16:34:56+00:00
 modified: *id001
 related_articles:
 - '[[composition-and-consciousness]]'
@@ -28,7 +29,7 @@ topics:
 - '[[consciousness-and-the-metaphysics-of-composition]]'
 ---
 
-Information-compression composition is Alexander Bird's answer to the Special Composition Question (SCQ): some objects compose a whole when, and because, treating them as a single object lets you compress the description of the world. It is the leading *non-conscious* answer to the question of when parts form wholes—and so it is the chief in-framework rival to The Unfinishable Map's own proposal that consciousness, or the integrated structure associated with it, marks genuine composition (developed in [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/)). This page presents Bird's thesis at full strength, adds Majid Beni's thermodynamic-depth constraint on it, and then gives the Map's calibrated reply. That reply is deliberately modest: whether organisation-without-consciousness can be the *whole* story is precisely the open question, and the Map declines to settle it by assertion. Following the Map's [discipline on evidential status](/project/evidential-status-discipline/), the compression answer is treated as a serious rival to out-explain, not a position to defeat by stipulation.
+Information-compression composition is Alexander Bird's answer to the Special Composition Question (SCQ)—Peter van Inwagen's question (*Material Beings*, 1990) of when some objects compose a further object: some objects compose a whole when, and because, treating them as a single object lets you compress the description of the world. It is the leading *non-conscious* answer to the question of when parts form wholes—and so it is the chief in-framework rival to The Unfinishable Map's own proposal that consciousness, or the integrated structure associated with it, marks genuine composition (developed in [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/)). This page presents Bird's thesis at full strength, adds Majid Beni's thermodynamic-depth constraint on it, and then gives the Map's calibrated reply. That reply is deliberately modest: whether organisation-without-consciousness can be the *whole* story is precisely the open question, and the Map declines to settle it by assertion. Following the Map's [discipline on evidential status](/project/evidential-status-discipline/), the compression answer is treated as a serious rival to out-explain, not a position to defeat by stipulation.
 
 ## Bird's Thesis: Composition as Compression
 
