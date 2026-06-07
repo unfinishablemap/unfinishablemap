@@ -563,3 +563,30 @@
   subject_articles:
   - topics/duhem-quine-underdetermination-consciousness.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/79a24a72-3d2a-4d3f-8742-8fb8fcaf2059
+  commissioned_at: '2026-06-07T03:04:54.713028+00:00'
+  prompt_summary: Audit Duhem-Quine underdetermination in consciousness science
+  target_filename: outer-review-2026-06-07-claude-opus-4-8.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please conduct a rigorous outer review of one article on The Unfinishable
+    Map (https://unfinishablemap.org), a dualist philosophy-of-mind site: "Duhem-Quine
+    Underdetermination in Consciousness Science" at https://unfinishablemap.org/topics/duhem-quine-underdetermination-consciousness/.
+    The site has a recent changelog at https://unfinishablemap.org/workflow/changelog/
+    (note: external search indexes lag 24-48h, so consult these URLs directly rather
+    than relying on cached search results). Assess: (1) whether the Duhem-Quine and
+    underdetermination claims are philosophically accurate and fairly represent the
+    literature; (2) whether the argument that underdetermination runs deeper in consciousness
+    science is sound or overstated; (3) citation accuracy and any fabricated or misattributed
+    references; (4) internal consistency with the site''s five tenets (dualism, minimal
+    quantum interaction, bidirectional interaction, no-many-worlds, limits of Occam''s
+    razor); (5) logical gaps or unsupported leaps. End your report with a list of
+    concrete potential improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit duhem-quine-underdetermination-consciousness
+  subject_articles:
+  - topics/duhem-quine-underdetermination-consciousness.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-07-chatgpt-5-5-pro.md
