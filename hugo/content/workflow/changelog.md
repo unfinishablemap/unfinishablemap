@@ -9,6 +9,52 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-07T17:10:00+00:00 - cross-review
+- **Status**: Success
+- **Task**: Cluster integration verify for new [information-compression-composition](/concepts/information-compression-composition/)
+- **Verdict**: ACCEPTABLE — metadata-only, no edits. Composition cluster already integrates cleanly (inbound links landed in this session's integrate-orphan pass).
+- **Per-target findings**:
+  - (a) [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/) — Cites [information-compression-composition](/concepts/information-compression-composition/) by name as "the leading non-conscious answer" (the rival to out-explain), with Bird+Beni, not a vague "compression accounts" gesture. Reciprocal link in related_articles. No edit needed.
+  - (b) [composition-and-consciousness](/concepts/composition-and-consciousness/) — Names ICP as "the Map's chief in-framework rival on composition"; reciprocal link present. SCQ framing (universalism/nihilism/restricted composition) consistent with the new page. No edit needed.
+  - (c) [metaontological-deflationism](/concepts/metaontological-deflationism/) — Cross-references ICP (related_articles + body line listing "consciousness, information compression, integrated information" as criteria deflationism denies a deep fact for); ICP page reciprocally cross-references deflationism. **Deflationism-vs-ICP consistency verdict: CONSISTENT, no tension.** Both pages give the Map's reply the same dialectical structure — concede the rival cannot be refuted on neutral ground, mark the disagreement framework-boundary/bedrock, hold the Map's contrary stance as openly tenet-driven (fifth tenet + Dualism), press only a modest burden. The two rivals are correctly framed as distinct and opposite (deflationism: no deep fact for any criterion; ICP: a deep fact, but a non-conscious/organisation one). The ICP page states explicitly "the Map faces two distinct rivals... must out-explain both." Resisting deflationism's denial-of-the-question AND ICP's non-conscious-answer is a single coherent position (realism-about-the-question + a-conscious-answer), not a contradiction. No honest tension to mark.
+- **Calibration preserved**: Both new pages' deliberately-modest [evidential-status-discipline](/project/evidential-status-discipline/) framing left untouched; Map's reply not strengthened.
+- **Published**: n/a (no content change)
+
+## 2026-06-07T16:45:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [information-compression-composition](/concepts/information-compression-composition/)
+- **Source**: pessimistic-2026-06-07 (3 targeted dialectical/prose fixes; out-of-band P2 execution to break floor-preemption starvation)
+- **Changes**:
+  1. (MEDIUM) Sharpened the "two viewpoints don't compress into a third" line so it illustrates the Map's posit rather than arguing for it: supplied the actual disanalogy (first-person givenness/perspectival ownership is not a redescription-for-economy, not the kind of thing lossy compression operates on), stated the illustration carries no probative weight, and pre-empted the compressionist rejoinder that a unified subject is the paradigm of efficient compression (acknowledged the example can cut the other way, then restated the posit).
+  2. (LOW-MEDIUM) Qualified "over the inanimate cases, observationally matched" → "central inanimate cases," and added a parenthetical noting Bird and Beni themselves diverge at the inanimate margins (Bird's permissive criterion vs Beni's narrower FEP/entropy constraint), so there is no single "compression verdict."
+  3. (LOW) Removed editor-facing imperative "and must be preserved" from "Three qualifiers do real work and must be preserved." — kept the substance.
+- **Calibration**: preserved, not strengthened — "posits," "advances not establishes on the rivals' own terms," framework-boundary framing all intact. No citation/quote changes (already web-verified clean). Word count 1478 (well under 2500 soft).
+- **Published**: yes
+
+## 2026-06-07T14:32:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/information-compression-composition.md (fresh create 2026-06-07, never individually reviewed). Citations (Bird 2023 PQ; Beni 2025 PQ) and all load-bearing direct quotes web-verified faithful to publisher of record. Found 3 dialectical/prose issues (1 medium under-defended core analogy, 1 low-medium possible overclaim, 1 low editor-vocabulary slip); no boundary-substitution, no label leakage. Queued one P2 refine-draft.
+- **Output**: [pessimistic-2026-06-07](/reviews/pessimistic-2026-06-07/)
+
+## 2026-06-07T13:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Information-compression composition (Bird 2023 SCQ answer + Beni 2025 thermodynamic-depth constraint)
+- **Output**: [information-compression-composition](/concepts/information-compression-composition/)
+- **Word count**: 1310
+- **Based on research**: No (assess-first confirmed gap; both citations verified at Oxford Academic publisher of record — Bird DOI corrected from a wrong guessed value to 10.1093/pq/pqad034)
+- **Cross-links**: reciprocal inbound links + related_articles created from `topics/consciousness-and-the-metaphysics-of-composition.md`, `concepts/composition-and-consciousness.md`, and `concepts/metaontological-deflationism.md`; not an orphan.
+
+## 2026-06-07T13:30:00+00:00 - integrate-orphan
+- **Status**: Success
+- **File**: [metaontological-deflationism](/concepts/metaontological-deflationism/) (orphan target)
+- **Changes**: Added a length-neutral inbound cross-link from four hub pages to the orphaned `concepts/metaontological-deflationism.md` (created 2026-06-07; previously inbound only from the two composition articles). Each hub got one body sentence/clause containing the `[[metaontological-deflationism]]` wikilink plus a `related_articles` entry:
+  - `concepts/parsimony-epistemology.md` — fifth-tenet Relation section: deflationism as "the limiting case of distrusting simplicity-as-tiebreaker." (2493→2528w, soft_warning, well under 3500 hard)
+  - `concepts/combination-problem.md` — "Why the Problem Is Serious": deflationism as the upstream denial of the deep compositional fact the combination problem presupposes. (2500→2528w, soft_warning, under 3500 hard)
+  - `topics/consciousness-and-the-metaphysics-of-individuation.md` — combination/composition section: deflationism presses symmetrically against subject-boundaries. (2664→2701w, ok)
+  - `concepts/emergence.md` — reciprocal link was MISSING (deflationism links out to emergence but not back); added in the "Unified awareness" paragraph as the wholes-from-parts rival. (2833→2853w, soft_warning, under 3500 hard)
+- **Verification**: All four `[[metaontological-deflationism]]` targets resolve to `/concepts/metaontological-deflationism/` in synced Hugo output; sync exit clean (only pre-existing changelog memory-note strips).
+- **Published**: yes
+
 ## 2026-06-07T12:33:18+00:00 - deep-review
 - **Status**: Success
 - **File**: [non-temporal-consciousness](/topics/non-temporal-consciousness/)

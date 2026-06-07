@@ -21,13 +21,14 @@ modified: *id001
 related_articles:
 - '[[composition-and-consciousness]]'
 - '[[consciousness-and-the-metaphysics-of-composition]]'
+- '[[information-compression-composition]]'
 - '[[tenets]]'
 title: Metaontological Deflationism
 topics:
 - '[[consciousness-and-the-metaphysics-of-composition]]'
 ---
 
-Metaontological deflationism is the view that the hard, philosophical version of existence disputes—whether numbers, tables, mereological sums, or fusions *really* exist—is shallow, confused, or merely verbal, rather than a substantive question with a fact to track. It is the most important rival to the restricted-composition arguments The Unfinishable Map runs, because it does not contest any particular criterion for when parts compose a whole; it denies that there is a deep compositional fact for *any* criterion—consciousness, information compression, integrated information—to be right or wrong about. If deflationism holds, the Map's convergence argument (that several composition theories cluster around the domain where consciousness occurs) dissolves into an artefact of how disputants regiment the word "object." This article presents the position fairly, then gives the Map's best reply—a reply framed as a standing burden the deflationist owes, not a refutation, in keeping with the Map's [discipline of not overclaiming](/concepts/parsimony-epistemology/).
+Metaontological deflationism is the view that the hard, philosophical version of existence disputes—whether numbers, tables, mereological sums, or fusions *really* exist—is shallow, confused, or merely verbal, rather than a substantive question with a fact to track. It is the most important rival to the restricted-composition arguments The Unfinishable Map runs, because it does not contest any particular criterion for when parts compose a whole; it denies that there is a deep compositional fact for *any* criterion—consciousness, [information compression](/concepts/information-compression-composition/), integrated information—to be right or wrong about. If deflationism holds, the Map's convergence argument (that several composition theories cluster around the domain where consciousness occurs) dissolves into an artefact of how disputants regiment the word "object." This article presents the position fairly, then gives the Map's best reply—a reply framed as a standing burden the deflationist owes, not a refutation, in keeping with the Map's [discipline of not overclaiming](/concepts/parsimony-epistemology/).
 
 Two strands carry the weight: Amie Thomasson's *easy ontology* and Eli Hirsch's *quantifier variance*. They reach deflationary conclusions by different routes and are worth keeping distinct.
 
