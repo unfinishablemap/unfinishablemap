@@ -55,15 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-07
 
-### P2: Replace asserted evidential parity with "physicalism not compelled" + de-leak Davidson co-optation (duhem-quine article)
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/duhem-quine-underdetermination-consciousness.md
-- **Notes**: From outer review 2026-06-07 (Claude Opus 4.8). Two precise, distinct edits. (a) **Parity overstatement** — the line "Neither programme can claim evidential supremacy" (currently ~line 112) asserts PARITY, a stronger conclusion than underdetermination delivers. Underdetermination shows physicalism is not *compelled*; it does not establish that the two programmes are evidentially equal (Laudan & Leplin: empirically equivalent theories can differ in evidential support). Replace the parity claim with the weaker, defensible "underdetermination shows physicalism is not forced," and elsewhere close the epistemic→metaphysical slide (insert and exclude the intervening non-dualist alternatives — type-B physicalism, Russellian monism — wherever the text moves from "physical description does not entail phenomenal experience" to "dualism"). (b) **Davidson co-optation** — the framework-dependence / "lossy translation" passage recruits Davidson as if he supported incommensurable schemes; Davidson argued the opposite (the very idea of incommensurable conceptual schemes is unintelligible — "On the Very Idea of a Conceptual Scheme," 1974). Either drop the Davidson framing or mark the disagreement honestly; do not present a dualism-favorable "lossy translation" reading as Davidson's view. Mark dualism-favorable conclusions in the "neutral" theoretical-virtues/framework-dependence passages as tenet-driven interpretations, not analysis outputs. Preserve calibration language; length-neutral.
-- **Review file**: `reviews/outer-review-2026-06-07-claude-opus-4-8.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-07
-
 ### P2: Sync COGITATE framing across IIT / GWT / NCC / convergence-arguments articles
 - **Type**: cross-review
 - **Status**: pending
@@ -969,6 +960,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-07: Replace asserted evidential parity with "physicalism not compelled" + de-leak Davidson co-optation (duhem-quine article)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-07 (Claude Opus 4.8). Two precise, distinct edits. (a) **Parity overstatement** — the line "Neither programme can claim evidential supremacy" (currently ~line 112) asserts PARITY, a stronger conclusion than underdetermination delivers. Underdetermination shows physicalism is not *compelled*; it does not establish that the two programmes are evidentially equal (Laudan & Leplin: empirically equivalent theories can differ in evidential support). Replace the parity claim with the weaker, defensible "underdetermination shows physicalism is not forced," and elsewhere close the epistemic→metaphysical slide (insert and exclude the intervening non-dualist alternatives — type-B physicalism, Russellian monism — wherever the text moves from "physical description does not entail phenomenal experience" to "dualism"). (b) **Davidson co-optation** — the framework-dependence / "lossy translation" passage recruits Davidson as if he supported incommensurable schemes; Davidson argued the opposite (the very idea of incommensurable conceptual schemes is unintelligible — "On the Very Idea of a Conceptual Scheme," 1974). Either drop the Davidson framing or mark the disagreement honestly; do not present a dualism-favorable "lossy translation" reading as Davidson's view. Mark dualism-favorable conclusions in the "neutral" theoretical-virtues/framework-dependence passages as tenet-driven interpretations, not analysis outputs. Preserve calibration language; length-neutral.
 
 ### ✓ 2026-06-07: Engage the IIT "pseudoscience" dispute with calibration (duhem-quine + IIT articles)
 - **Type**: refine-draft

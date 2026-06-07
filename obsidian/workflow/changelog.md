@@ -5,6 +5,17 @@ ai_modified: 2026-06-07T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-07T08:42:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/duhem-quine-underdetermination-consciousness]]
+- **Source**: outer review 2026-06-07 (Claude Opus 4.8) — length-neutral corrections at 3998/4000 hard ceiling
+- **Word count**: 3998 → 3999 (net ~+1; held at/under 4000 hard ceiling via offsetting trims)
+- **Part (a) parity overstatement**: ALREADY DONE by prior passes (8faed5cc tempered the parity line; 188f0e90 added the empirical≠evidential-equivalence caution). Verified: no "evidential supremacy"/equal-footing assertion remains; line 122 already carries the corrected "neither programme can be *eliminated* — not equal evidential footing" claim with the Laudan-Leplin caveat. Residual epistemic→metaphysical slide in the convergence paragraph CLOSED: inserted-and-excluded the intervening non-dualist options (type-B physicalism, Russellian monism) so the convergence conclusion is attributed to the non-entailment thesis, not slid straight to dualism.
+- **Part (b) Davidson co-optation**: FIXED via honest-disagreement (not dropped). The passage previously claimed Davidson's incommensurability challenge "is met by" the lossy-translation distinction — co-opting him. Now states Davidson's actual 1974 position (the very idea of incommensurable schemes is unintelligible; we couldn't recognise a scheme unless we could largely translate it), then makes the Map's point explicitly as a disagreement with him (claim weaker than full incommensurability, but resists his inference that translatability is therefore lossless — partial meaning-degrading translation is the middle case his all-or-nothing dichotomy excludes). Davidson 1974 cite preserved; References entry #14 retained (not orphaned).
+- **Length recovery**: offset the added honest-disagreement + insert-and-exclude words via redundancy trims in the symmetry paragraph (cut a closing sentence restating the paragraph's opening), the final caution paragraph (cut a duplicate progressiveness sentence + merged the roadmap pointer), and the false-fluency lead-in.
+- **No mode labels in body; no "This is not X. It is Y." cliché; calibration/hedge language preserved.**
+- **Published**: yes
+
 ## 2026-06-07T07:48:18+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-memory-and-the-self]]
