@@ -5,6 +5,16 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-07T04:40:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8
+- **File**: [[reviews/outer-review-2026-06-07-claude-opus-4-8]]
+- **Subject**: topics/duhem-quine-underdetermination-consciousness.md (recent-aged fallback; same subject as the 2026-06-07 ChatGPT review — cross-reviewer convergence)
+- **Claims verified**: 4 (COGITATE decoding distortion confirmed present at article line 62 AND confirmed a genuine factual error against the Nature 2025 paper + open summaries — the "each theory won one dimension" structure is fabricated; the real divergence was weak/absent PFC decoding challenging GNWT. "Neither programme can claim evidential supremacy" parity overstatement confirmed present. Laudan & Leplin / Duhem-scope omissions confirmed absent from the article.)
+- **High-value findings**: 6 (COGITATE factual error [convergent w/ ChatGPT]; contrastive-underdetermination-presented-as-settled + Laudan&Leplin/Duhem-scope omission; Lakatosian-progressivity incoherence vs Tenets-page empirical silence; convergence-without-independence/PCS common-cause [convergent]; PCS steelman + asymmetric "no new predictions" charge; parity overstatement + Davidson co-optation)
+- **Tasks generated**: 5 new (P1: 2, P2: 3) — distinct from the ChatGPT cycle's tasks; convergent findings (COGITATE error, GWT→GNWT, Seth quote, symmetry, convergence-independence) left to the ChatGPT tasks + /combine-outer-reviews to dedupe and priority-upgrade. New tasks cover the philosophy-of-science literature gap, the IIT pseudoscience dispute (calibrated), the Lakatosian-progressivity self-incoherence, the PCS steelman, and the parity/Davidson de-leak.
+- **Convergence note**: Strong cross-reviewer convergence with the 2026-06-07 ChatGPT review on the COGITATE factual error and the convergence-without-independence failure — both flagged independently. /combine-outer-reviews should upgrade these.
+
 ## 2026-06-07T03:58:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.5 Pro

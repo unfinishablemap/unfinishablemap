@@ -64,6 +64,51 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-07
 
+### P1: Acknowledge contested status of contrastive underdetermination + Duhem's scope restriction (duhem-quine article)
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/duhem-quine-underdetermination-consciousness.md
+- **Notes**: From outer review 2026-06-07 (Claude Opus 4.8). CONVERGES with the ChatGPT scope-creep finding but adds a distinct philosophy-of-science-literature gap the ChatGPT tasks do not cover. The article presents contrastive/empirical-equivalence underdetermination as a settled result; it is the contested form. Add (length-permitting, coordinate with the calibration ceiling): (a) cite Laudan & Leplin (1991), "Empirical Equivalence and Underdetermination," *Journal of Philosophy* 88(9):449–472 — their point that empirically equivalent theories can still differ in evidential support is load-bearing against the article's later "neither programme can claim evidential supremacy" parity move; WEB-VERIFY the citation before inserting. (b) Note Laudan's "Demystifying Underdetermination" and that Quine himself later downgraded underdetermination to "not much more than a conjecture." (c) Add one sentence acknowledging Duhem explicitly confined confirmation holism to physics (excluding physiology, certain chemistry, logic/mathematics) — and address why that does not defeat the "deeper in consciousness science" thesis rather than leaving the omission looking evasive. Apply [[evidential-status-discipline]]: scope every downstream use of "underdetermination" to the form actually licensed (holist is secure; contrastive is contested). Preserve calibration/hedge language; enforce the length ceiling. May share a pass with the consolidated P1 ChatGPT refine if length permits.
+- **Review file**: `reviews/outer-review-2026-06-07-claude-opus-4-8.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-07
+
+### P2: Engage the IIT "pseudoscience" dispute with calibration (duhem-quine + IIT articles)
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/duhem-quine-underdetermination-consciousness.md
+- **Notes**: From outer review 2026-06-07 (Claude Opus 4.8). The article's Lakatosian framing presents IIT as an unproblematic "progressive research programme" while omitting that a vocal segment of the field has charged it with unfalsifiability — the precise degeneration charge the article's own framework is built to assess. Add a brief, CALIBRATED engagement (do NOT overstate the dispute): note the 15 Sept 2023 open letter "The Integrated Information Theory of Consciousness as Pseudoscience" (PsyArXiv, ~124 signatories incl. Dennett, LeDoux, Baars) and the 10 March 2025 *Nature Neuroscience* commentary "What Makes a Theory of Consciousness Unscientific?", AND report the calibration the reviewer flags both ways — an anonymized survey of consciousness-paper authors found only ~8% of 60 respondents "fully" agreed with the pseudoscience label (a vocal minority, not field consensus). WEB-VERIFY the letter/commentary/survey figures before inserting. The point is to engage the degeneration charge head-on, not to endorse it. Length-neutral if possible; enforce ceiling. Mirror a one-line cross-link into the [[integrated-information-theory]] article if not already present.
+- **Review file**: `reviews/outer-review-2026-06-07-claude-opus-4-8.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-07
+
+### P1: Confront the Lakatosian-progressivity incoherence in the duhem-quine article's "Relation to Site Perspective"
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/duhem-quine-underdetermination-consciousness.md
+- **Notes**: From outer review 2026-06-07 (Claude Opus 4.8). DISTINCT internal-consistency finding not covered by the ChatGPT tasks. The article claims the Map's dualist programme is Lakatos-progressive (will generate "novel, confirmed predictions"), but a Lakatosian programme is progressive only if its hard core's mechanism yields novel confirmed predictions — and the Tenets page concedes that the preferred mechanism (post-decoherence selection) is constructed to leave aggregate Born statistics undisturbed, i.e. is empirically silent / "undetectable by aggregate Born-statistics tests," a consistency claim rather than a novel-prediction claim with its falsifier "well beyond current experimental reach." A programme whose load-bearing mechanism forfeits the Lakatosian currency (novel confirmed predictions) cannot coherently claim the Lakatosian honour (progressive). Apply the [[direct-refutation-discipline]] remit: this is the Map's own self-application, so the honest reply mode is to mark the framework-boundary honestly in natural journal-quality prose — EITHER (a) specify a genuinely novel, in-principle-confirmable prediction the dualist programme makes (cross-link [[falsification-roadmap-for-the-interface-model]] if it supplies one), OR (b) concede the programme cannot currently claim Lakatosian progressivity and is presently held on non-evidential ("chosen hard core") grounds, and that "underdetermination cuts both ways" extends to the Map's own optimism that its programme is the progressive one (the "proves too much" point). Do NOT expose mode labels in the article body; record the classification in the changelog entry only. Cross-check the Tenets page wording before asserting the mechanism is empirically silent (verify it still says this). Preserve calibration language; enforce the length ceiling.
+- **Review file**: `reviews/outer-review-2026-06-07-claude-opus-4-8.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-07
+
+### P2: Steelman the phenomenal-concepts strategy + symmetrize the "no new predictions" charge (duhem-quine article)
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/duhem-quine-underdetermination-consciousness.md
+- **Notes**: From outer review 2026-06-07 (Claude Opus 4.8). Extends the ChatGPT consolidated-refine's PCS item (53(f)) with two distinct requirements. (a) The article presents Chalmers' 2007 "master argument" as decisive against PCS; add the published replies — Balog (2012) and Carruthers & Veillet — and report the mainstream verdict that the master-argument exchange is a STALEMATE, not a dualist win. (b) The article charges PCS with "primarily accommodating existing intuitions rather than predicting new phenomena," but by the Map's own admission the dualist quantum mechanism also predicts no detectable new phenomena — so either drop the "no new predictions" charge against PCS or apply it symmetrically to the Map's own mechanism. Apply [[direct-refutation-discipline]]: PCS is a standing physicalist strategy, not a post-failure auxiliary patch; engage whether it is explanatorily progressive in natural journal-quality prose; do not expose mode labels. WEB-VERIFY the Carruthers & Veillet reply citation before inserting. Coordinate with the ChatGPT P1 consolidated refine and the calibration ceiling — may be folded into that pass if length permits, else a follow-on.
+- **Review file**: `reviews/outer-review-2026-06-07-claude-opus-4-8.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-07
+
+### P2: Replace asserted evidential parity with "physicalism not compelled" + de-leak Davidson co-optation (duhem-quine article)
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/duhem-quine-underdetermination-consciousness.md
+- **Notes**: From outer review 2026-06-07 (Claude Opus 4.8). Two precise, distinct edits. (a) **Parity overstatement** — the line "Neither programme can claim evidential supremacy" (currently ~line 112) asserts PARITY, a stronger conclusion than underdetermination delivers. Underdetermination shows physicalism is not *compelled*; it does not establish that the two programmes are evidentially equal (Laudan & Leplin: empirically equivalent theories can differ in evidential support). Replace the parity claim with the weaker, defensible "underdetermination shows physicalism is not forced," and elsewhere close the epistemic→metaphysical slide (insert and exclude the intervening non-dualist alternatives — type-B physicalism, Russellian monism — wherever the text moves from "physical description does not entail phenomenal experience" to "dualism"). (b) **Davidson co-optation** — the framework-dependence / "lossy translation" passage recruits Davidson as if he supported incommensurable schemes; Davidson argued the opposite (the very idea of incommensurable conceptual schemes is unintelligible — "On the Very Idea of a Conceptual Scheme," 1974). Either drop the Davidson framing or mark the disagreement honestly; do not present a dualism-favorable "lossy translation" reading as Davidson's view. Mark dualism-favorable conclusions in the "neutral" theoretical-virtues/framework-dependence passages as tenet-driven interpretations, not analysis outputs. Preserve calibration language; length-neutral.
+- **Review file**: `reviews/outer-review-2026-06-07-claude-opus-4-8.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-07
+
 ### P2: Sync COGITATE framing across IIT / GWT / NCC / convergence-arguments articles
 - **Type**: cross-review
 - **Status**: pending
