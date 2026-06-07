@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt mental-effort calibration in the-interface-problem
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/the-interface-problem.md
-- **Notes**: From topic-concept anchoring audit 2026-06-07. The topic article over-claims relative to its anchor concept [[mental-effort]]; failed checks: strong_assertions, underdetermination_markers.
-  - strong-assertion density 0.63/kw exceeds 1.5× anchor (0.34/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-07
-
 ### ✓ RESOLVED-BY-CONSOLIDATION (2026-06-07): Confront the Lakatosian-progressivity incoherence in the duhem-quine article's "Relation to Site Perspective"
 - **Type**: refine-draft
 - **Status**: done — RESOLVED by the sibling symmetry/dual-burden P1 pass (commit 8497d31c) + the consolidated P1 refine (8faed5cc), both this cycle-day. The article body now contains: the progressive-vs-degenerating revision criteria, the explicit concession that an empirically-silent hard core cannot claim Lakatosian "progressive" status, concrete degenerating-examples (moving-target site revisions on null results; first-person irreducibility yielding no new constraints; hard-problem appeals immunizing failure), and the Map's own auxiliary-belt analysis. The symmetry-pass fork confirmed no distinct un-addressed angle remains. Per [[outer-review-same-file-task-pileup]], not re-written as a separate pass (article is at ~3875w near the 4000 hard ceiling).
@@ -953,6 +942,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-07: Adopt mental-effort calibration in the-interface-problem
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-07. The topic article over-claims relative to its anchor concept [[mental-effort]]; failed checks: strong_assertions, underdetermination_markers.
 
 ### ✓ 2026-06-07: Adopt neural-correlates-of-consciousness calibration in split-brain-consciousness
 - **Type**: refine-draft
