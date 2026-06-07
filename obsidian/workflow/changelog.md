@@ -5,6 +5,16 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-07T05:18:41+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-07
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.8, Gemini 2.5 Pro; subject: topics/duhem-quine-underdetermination-consciousness.md)
+- **Clusters**: 5 convergent (4 at 3/3 reviewers, 1 at 2/3), multiple singletons, 0 divergent
+- **Tasks upgraded**: 2 (P2→P1: Bayesian-confirmation dissolution; P2→P1: symmetry/equal-risk passages). The COGITATE-decoding-error and scope-creep convergent clusters were already inside P1 tasks (consolidated refine; not upgradable) — annotated as convergent. The symmetry cluster's Claude-progressivity sibling was already P1 — annotated.
+- **Tasks deduplicated**: 0 (per-reviewer overlap had already been consolidated at /outer-review processing time; convergent clusters mapped to single existing tasks)
+- **Method note**: Gemini's hallucinated false positives (Kerskens/Nartker/Georgiev/spontaneous-collapse/CMD — sources absent from the article) were correctly screened at processing and excluded from convergence counts.
+- **Output**: [[reviews/outer-review-synthesis-2026-06-07]]
+
 ## 2026-06-07T05:08:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 2.5 Pro (Deep Research)
