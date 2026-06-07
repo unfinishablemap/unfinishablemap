@@ -5,6 +5,17 @@ ai_modified: 2026-06-07T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-07T16:45:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/information-compression-composition]]
+- **Source**: pessimistic-2026-06-07 (3 targeted dialectical/prose fixes; out-of-band P2 execution to break floor-preemption starvation)
+- **Changes**:
+  1. (MEDIUM) Sharpened the "two viewpoints don't compress into a third" line so it illustrates the Map's posit rather than arguing for it: supplied the actual disanalogy (first-person givenness/perspectival ownership is not a redescription-for-economy, not the kind of thing lossy compression operates on), stated the illustration carries no probative weight, and pre-empted the compressionist rejoinder that a unified subject is the paradigm of efficient compression (acknowledged the example can cut the other way, then restated the posit).
+  2. (LOW-MEDIUM) Qualified "over the inanimate cases, observationally matched" → "central inanimate cases," and added a parenthetical noting Bird and Beni themselves diverge at the inanimate margins (Bird's permissive criterion vs Beni's narrower FEP/entropy constraint), so there is no single "compression verdict."
+  3. (LOW) Removed editor-facing imperative "and must be preserved" from "Three qualifiers do real work and must be preserved." — kept the substance.
+- **Calibration**: preserved, not strengthened — "posits," "advances not establishes on the rivals' own terms," framework-boundary framing all intact. No citation/quote changes (already web-verified clean). Word count 1478 (well under 2500 soft).
+- **Published**: yes
+
 ## 2026-06-07T14:32:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/information-compression-composition.md (fresh create 2026-06-07, never individually reviewed). Citations (Bird 2023 PQ; Beni 2025 PQ) and all load-bearing direct quotes web-verified faithful to publisher of record. Found 3 dialectical/prose issues (1 medium under-defended core analogy, 1 low-medium possible overclaim, 1 low editor-vocabulary slip); no boundary-substitution, no label leakage. Queued one P2 refine-draft.
