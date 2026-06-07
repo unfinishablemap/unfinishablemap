@@ -5,6 +5,14 @@ ai_modified: 2026-06-07T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-07T13:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Information-compression composition (Bird 2023 SCQ answer + Beni 2025 thermodynamic-depth constraint)
+- **Output**: [[concepts/information-compression-composition]]
+- **Word count**: 1310
+- **Based on research**: No (assess-first confirmed gap; both citations verified at Oxford Academic publisher of record — Bird DOI corrected from a wrong guessed value to 10.1093/pq/pqad034)
+- **Cross-links**: reciprocal inbound links + related_articles created from `topics/consciousness-and-the-metaphysics-of-composition.md`, `concepts/composition-and-consciousness.md`, and `concepts/metaontological-deflationism.md`; not an orphan.
+
 ## 2026-06-07T13:30:00+00:00 - integrate-orphan
 - **Status**: Success
 - **File**: [[concepts/metaontological-deflationism]] (orphan target)
