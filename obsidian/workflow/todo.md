@@ -127,6 +127,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-07
 
+### P2: Engage the Bayesian-confirmation dissolution of underdetermination (duhem-quine article)
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/duhem-quine-underdetermination-consciousness.md
+- **Notes**: From outer review 2026-06-07 (Gemini 2.5 Pro), CONVERGENT with the same-cycle ChatGPT ("Bayesian/model-comparison objection — evidence still shifts posterior probabilities among models") and Claude (model-comparison) reviews — three reviewers independently flag that the article engages Quine/Duhem/Lakatos/Stanford but never the modern Bayesian-confirmation reply to underdetermination. The article's logical-compatibility framing ("if both theories are consistent with evidence E, E cannot adjudicate") is the deductive formulation; the standing objection is that probabilistic confirmation dissolves logical underdetermination via prior + likelihood asymmetries — a theory that *predicts* E from its core is confirmed over one that only *accommodates* E post hoc, and parsimony penalties (BIC / free-energy / model comparison) punish unconstrained auxiliary machinery. Add a ~150–250w passage that (i) states the Bayesian-dissolution objection at full strength (cite Corcoran, A.W., Hohwy, J. & Friston, K.J. (2023), "Accelerating scientific progress through Bayesian adversarial collaboration," *Neuron* 111(22):3505–3516 — ⚠ WEB-VERIFY at publisher of record before inserting, [[ai-citation-metadata-unreliable]]); (ii) answers it without overclaiming — the Map's honest reply is that Bayesian confirmation reweights *within* a shared likelihood framework but the dualist/physicalist split is partly a disagreement about what the *explanandum* is (phenomenal residue vs. functional report), so priors over the metaphysical hypotheses are themselves theory-laden and not obviously dominated by likelihood; concede that Bayesian methods DO compress empirical (neural-implementation-level) underdetermination even if they do not settle the metaphysical level. Apply the [[direct-refutation-discipline]] remit: this is an in-framework engagement at the empirical level shading into a framework-boundary disagreement at the metaphysical level — mark which is which in natural prose, do not expose mode labels in the body. NOTE: do NOT duplicate the COGITATE-precision or symmetry/dual-burden tasks above — this is the distinct philosophy-of-confirmation gap. Preserve calibration/hedge language (calibration-anchor article); enforce the length ceiling — if the article is already near the topics hard threshold, coordinate with the consolidated P1 refine or land as a deferred follow-on. See `reviews/outer-review-2026-06-07-gemini-2-5-pro.md` Verification Notes.
+- **Review file**: `reviews/outer-review-2026-06-07-gemini-2-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-07
+
 ### P2: Integrate the new metaontological-deflationism page (add inbound cross-links)
 - **Type**: integrate-orphan
 - **Status**: pending

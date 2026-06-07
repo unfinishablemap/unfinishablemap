@@ -5,6 +5,16 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-07T05:08:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [[reviews/outer-review-2026-06-07-gemini-2-5-pro]]
+- **Subject**: topics/duhem-quine-underdetermination-consciousness.md (recent; same subject as the 2026-06-07 ChatGPT + Claude reviews — completes the 3-reviewer triple)
+- **Claims verified**: 6 (COGITATE cite accurate: Nature 642(8066):133-142, DOI 10.1038/s41586-025-08888-1, confirmed via Nature/PubMed. CRITICAL VERIFICATION RESULT: 4 of the review's 5 "rejection" weaknesses attack sources the article does NOT contain — Kerskens 2022, Nartker 2024, Georgiev 2024, the Bayne/Hohwy/Randeniya tripartite-taxonomy attribution, and a spontaneous-collapse section with quoted edit-logs are all ABSENT from the article body and its 14-item reference list. The reviewer audited a hallucinated composite of "the site," not the supplied article URL.)
+- **High-value findings**: 3 actionable (after stripping the false positives): (1) COGITATE pre-registration / adversarial-collaboration methodology point — the "mixed results" framing understates how much the experiment constrained both theories [CONVERGENT w/ ChatGPT + Claude]; (2) symmetry / "the interface predicts nothing" dual-burden charge — the article concedes symmetry but does not surface the falsification-roadmap commitments where the underdetermination claim is first made [CONVERGENT w/ ChatGPT auxiliary-belt + Claude Lakatosian-progressivity]; (3) Bayesian-confirmation dissolution of underdetermination (Corcoran/Hohwy/Friston 2023) is unaddressed [CONVERGENT — ChatGPT + Claude both raise model-comparison].
+- **Tasks generated**: 1 new (P2) — the Bayesian-confirmation-dissolution engagement, the one convergent finding with no existing dedicated task. The COGITATE-precision and symmetry/dual-burden findings are already covered by the ChatGPT/Claude tasks (lines 49/58/85/94) and left for /combine-outer-reviews to dedupe + priority-upgrade. Did NOT generate tasks for the 4 hallucinated-source weaknesses.
+- **Convergence note**: Completes a 3-reviewer triple on this subject. STRONG convergence on (a) COGITATE empirical framing and (b) the Bayesian/model-comparison gap — all three reviewers flag both. /combine-outer-reviews should upgrade the Bayesian task and the COGITATE-precision task. CAUTION for synthesis: Gemini's false-positive rate is high (hallucinated 4 of 5 weaknesses); do NOT let its fabricated Kerskens/Nartker/Georgiev/collapse findings inflate any convergence count.
+
 ## 2026-06-07T04:40:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 4.8
