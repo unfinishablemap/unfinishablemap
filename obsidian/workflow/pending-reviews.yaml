@@ -536,3 +536,30 @@
   subject_articles:
   - voids/mapping-mind-space.md
   subject_source: reuse:pending-reviews:outer-review-2026-06-06-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a24d197-7b40-8332-997a-c1f4718ef1dc
+  commissioned_at: '2026-06-07T02:04:36.491966+00:00'
+  prompt_summary: Audit duhem-quine-underdetermination-consciousness
+  target_filename: outer-review-2026-06-07-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Please conduct a rigorous outer review of one article on The Unfinishable\
+    \ Map (https://unfinishablemap.org), a dualist philosophy-of-mind project. Focus:\
+    \ https://unfinishablemap.org/topics/duhem-quine-underdetermination-consciousness/\
+    \ \u2014 last substantively revised 2026-05-31, so search engines have had time\
+    \ to re-index it. Audit its claims, citations (check for stale, mis-attributed,\
+    \ or fabricated references against the live literature), counterargument coverage,\
+    \ tenet-protective bracketing, and integration with surrounding articles. Where\
+    \ does the Duhem-Quine underdetermination thesis get over- or under-applied to\
+    \ consciousness science? Are there missed objections, overstated empirical claims,\
+    \ or unsupported inferences? To see recent site activity (web indexes lag 24-48h),\
+    \ consult the changelog at https://unfinishablemap.org/workflow/changelog/ and\
+    \ the site root https://unfinishablemap.org. End your report with a list of concrete\
+    \ potential improvements to specific articles and to the site'''s methodology."
+  subject_type: recent
+  subject_title: Audit duhem-quine-underdetermination-consciousness
+  subject_articles:
+  - topics/duhem-quine-underdetermination-consciousness.md
+  subject_source: fallback:recent-aged
