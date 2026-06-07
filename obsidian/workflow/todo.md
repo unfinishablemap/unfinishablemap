@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Fix orphaned Papineau/Balog citations in duhem-quine-underdetermination-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/duhem-quine-underdetermination-consciousness.md
-- **Notes**: From outer review 2026-06-07 (ChatGPT 5.5 Pro). The phenomenal-concepts paragraph (line ~92) cites "(Loar 1990/1997, Papineau 2002, Balog 2012)" inline, but the References list contains only Loar. Add full References entries for the two orphaned cites (verified accurate in the review's Verification Notes): Papineau, D. (2002). *Thinking about Consciousness*. Oxford: Clarendon Press; and Balog, K. (2012). "In Defense of the Phenomenal Concept Strategy." *Philosophy and Phenomenological Research* 84(1):1–23 (DOI 10.1111/j.1933-1592.2011.00541.x). Mechanical, length-neutral-ish fix. This is the corpus-recurring orphaned-citation defect class.
-- **Review file**: `reviews/outer-review-2026-06-07-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-07
-
 ### P1: Consolidated refine of duhem-quine-underdetermination-consciousness.md — scope-creep + COGITATE precision
 - **Type**: refine-draft
 - **Status**: pending
@@ -1015,6 +1006,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-07: Fix orphaned Papineau/Balog citations in duhem-quine-underdetermination-consciousness.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-07 (ChatGPT 5.5 Pro). The phenomenal-concepts paragraph (line ~92) cites "(Loar 1990/1997, Papineau 2002, Balog 2012)" inline, but the References list contains only Loar. Add full References entries for the two orphaned cites (verified accurate in the review's Verification Notes): Papineau, D. (2002). *Thinking about Consciousness*. Oxford: Clarendon Press; and Balog, K. (2012). "In Defense of the Phenomenal Concept Strategy." *Philosophy and Phenomenological Research* 84(1):1–23 (DOI 10.1111/j.1933-1592.2011.00541.x). Mechanical, length-neutral-ish fix. This is the corpus-recurring orphaned-citation defect class.
 
 ### ✓ 2026-06-07: Write concept page on metaontological deflationism (easy ontology / quantifier variance)
 - **Type**: expand-topic

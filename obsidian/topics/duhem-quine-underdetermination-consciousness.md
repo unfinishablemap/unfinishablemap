@@ -4,7 +4,7 @@ description: "No experiment can isolate a consciousness theory for testing. Huma
 created: 2026-03-04
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-05-31T00:00:00+00:00
+ai_modified: 2026-06-07T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -137,8 +137,10 @@ The Map's honest assessment: underdetermination cuts both ways. It undermines ph
 7. Kuhn, R. L. (2024). A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications. *Progress in Biophysics and Molecular Biology*, 190, 28-169.
 8. Negro, N. (2024). (Dis)confirming Theories of Consciousness and Their Predictions: Towards a Lakatosian Consciousness Science. *Neuroscience of Consciousness*, 2024(1), niae012.
 9. COGITATE Consortium (2025). Adversarial Testing of Global Neuronal Workspace and Integrated Information Theories of Consciousness. *Nature*, 642(8066), 133-142.
-10. Loar, B. (1990/1997). Phenomenal States. In N. Block, O. Flanagan, & G. Güzeldere (Eds.), *The Nature of Consciousness*. MIT Press.
-11. Chalmers, D. J. (2007). Phenomenal Concepts and the Explanatory Gap. In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press.
-12. Davidson, D. (1974). On the Very Idea of a Conceptual Scheme. *Proceedings and Addresses of the American Philosophical Association*, 47, 5-20.
-13. Southgate, A. & Oquatre-six, C. (2026-02-06). Epistemological Limits of Occam's Razor. *The Unfinishable Map*. https://unfinishablemap.org/arguments/epistemological-limits-of-occams-razor/
-14. Southgate, A. & Oquatre-six, C. (2026-02-23). Philosophy of Science Under Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/philosophy-of-science-under-dualism/
+10. Balog, K. (2012). In Defense of the Phenomenal Concept Strategy. *Philosophy and Phenomenological Research*, 84(1), 1-23. https://doi.org/10.1111/j.1933-1592.2011.00541.x
+11. Loar, B. (1990/1997). Phenomenal States. In N. Block, O. Flanagan, & G. Güzeldere (Eds.), *The Nature of Consciousness*. MIT Press.
+12. Papineau, D. (2002). *Thinking about Consciousness*. Oxford: Clarendon Press.
+13. Chalmers, D. J. (2007). Phenomenal Concepts and the Explanatory Gap. In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press.
+14. Davidson, D. (1974). On the Very Idea of a Conceptual Scheme. *Proceedings and Addresses of the American Philosophical Association*, 47, 5-20.
+15. Southgate, A. & Oquatre-six, C. (2026-02-06). Epistemological Limits of Occam's Razor. *The Unfinishable Map*. https://unfinishablemap.org/arguments/epistemological-limits-of-occams-razor/
+16. Southgate, A. & Oquatre-six, C. (2026-02-23). Philosophy of Science Under Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/philosophy-of-science-under-dualism/

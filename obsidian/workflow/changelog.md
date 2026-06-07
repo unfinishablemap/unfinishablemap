@@ -5,6 +5,12 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-07T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/duhem-quine-underdetermination-consciousness]]
+- **Changes**: Mechanical orphaned-citation fix from outer review 2026-06-07 (ChatGPT 5.5 Pro). The phenomenal-concepts paragraph cites "(Loar 1990/1997, Papineau 2002, Balog 2012)" but References listed only Loar. Added two References entries (Balog 2012 PPR 84(1):1-23 with DOI; Papineau 2002 *Thinking about Consciousness*) in alphabetical position within the phenomenal-concepts cluster, renumbered subsequent entries (11-16). All three inline cites now resolve to References both directions. No other content touched — separate duhem-quine findings (COGITATE error, scope-creep, symmetry, Bayesian-dissolution) are separate queued tasks.
+- **Published**: yes
+
 ## 2026-06-07T05:18:41+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-06-07
