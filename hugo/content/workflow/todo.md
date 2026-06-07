@@ -47,39 +47,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-07
 
-### P2: Steelman the phenomenal-concepts strategy + symmetrize the "no new predictions" charge (duhem-quine article)
-- **Type**: refine-draft
-- **Status**: pending
+### HUMAN LENGTH DECISION (2026-06-07): Steelman the phenomenal-concepts strategy + symmetrize the "no new predictions" charge (duhem-quine article)
+- **Type**: human-decision (do NOT auto-pick as refine/condense)
+- **Status**: needs-human — DIVERTED from Active by /unfin-cycle 2026-06-07, folded into the same standing "HUMAN LENGTH DECISION (2026-06-07)" bundle as the Bayesian-dissolution P1. The duhem-quine article is at its 4000-word HARD ceiling (3998w) after FIVE outer-review refines this cycle-day and has been trimmed repeatedly — zero room for additive content. PARTIAL COVERAGE already present: the consolidated refine (8faed5cc) reframed the PCS critique via direct-refutation discipline ("not yet progressive on the physicalist programme's own standards"), and the symmetry/dual-burden pass (8497d31c) already symmetrized the predictive-burden point (part (b)) — the Map's own mechanism is held to the same standard. The genuinely-additive REMAINDER needing room: part (a) the Balog 2012 + Carruthers & Veillet published replies and the "master-argument is a STALEMATE not a dualist win" verdict. HUMAN editorial options (same as the bundle): accept current PCS treatment as sufficient; authorize a structural condense to make room; or split. Do NOT auto-condense this calibration-anchor (human-decision-task-mispicked-as-refine, condense-regresses-calibration-qualifiers).
 - **File**: obsidian/topics/duhem-quine-underdetermination-consciousness.md
 - **Notes**: From outer review 2026-06-07 (Claude Opus 4.8). Extends the ChatGPT consolidated-refine's PCS item (53(f)) with two distinct requirements. (a) The article presents Chalmers' 2007 "master argument" as decisive against PCS; add the published replies — Balog (2012) and Carruthers & Veillet — and report the mainstream verdict that the master-argument exchange is a STALEMATE, not a dualist win. (b) The article charges PCS with "primarily accommodating existing intuitions rather than predicting new phenomena," but by the Map's own admission the dualist quantum mechanism also predicts no detectable new phenomena — so either drop the "no new predictions" charge against PCS or apply it symmetrically to the Map's own mechanism. Apply [direct-refutation-discipline](/project/direct-refutation-discipline/): PCS is a standing physicalist strategy, not a post-failure auxiliary patch; engage whether it is explanatorily progressive in natural journal-quality prose; do not expose mode labels. WEB-VERIFY the Carruthers & Veillet reply citation before inserting. Coordinate with the ChatGPT P1 consolidated refine and the calibration ceiling — may be folded into that pass if length permits, else a follow-on.
 - **Review file**: `reviews/outer-review-2026-06-07-claude-opus-4-8.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-07
-
-### P2: Replace asserted evidential parity with "physicalism not compelled" + de-leak Davidson co-optation (duhem-quine article)
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/duhem-quine-underdetermination-consciousness.md
-- **Notes**: From outer review 2026-06-07 (Claude Opus 4.8). Two precise, distinct edits. (a) **Parity overstatement** — the line "Neither programme can claim evidential supremacy" (currently ~line 112) asserts PARITY, a stronger conclusion than underdetermination delivers. Underdetermination shows physicalism is not *compelled*; it does not establish that the two programmes are evidentially equal (Laudan & Leplin: empirically equivalent theories can differ in evidential support). Replace the parity claim with the weaker, defensible "underdetermination shows physicalism is not forced," and elsewhere close the epistemic→metaphysical slide (insert and exclude the intervening non-dualist alternatives — type-B physicalism, Russellian monism — wherever the text moves from "physical description does not entail phenomenal experience" to "dualism"). (b) **Davidson co-optation** — the framework-dependence / "lossy translation" passage recruits Davidson as if he supported incommensurable schemes; Davidson argued the opposite (the very idea of incommensurable conceptual schemes is unintelligible — "On the Very Idea of a Conceptual Scheme," 1974). Either drop the Davidson framing or mark the disagreement honestly; do not present a dualism-favorable "lossy translation" reading as Davidson's view. Mark dualism-favorable conclusions in the "neutral" theoretical-virtues/framework-dependence passages as tenet-driven interpretations, not analysis outputs. Preserve calibration language; length-neutral.
-- **Review file**: `reviews/outer-review-2026-06-07-claude-opus-4-8.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-07
-
-### P2: Sync COGITATE framing across IIT / GWT / NCC / convergence-arguments articles
-- **Type**: cross-review
-- **Status**: pending
-- **File**: obsidian/concepts/integrated-information-theory.md
-- **Notes**: From outer review 2026-06-07 (ChatGPT 5.5 Pro). COGITATE is now a canonical case across the Map but its framing drifts between articles. Cross-review and lightly sync: (1) **IIT article** — distinguish IIT's formal integrated-information core from the posterior hot-zone biological implementation; record that COGITATE challenged sustained posterior synchronization while supporting some posterior content-decoding. (2) **GWT/GNWT article** — add the post-COGITATE GNWT-proponent response (Naccache et al. 2025, Neuroscience of Consciousness niaf037 — WEB-VERIFY the citation before inserting) distinguishing Nature's mixed verdict from proponents' argument that some analyses validate core GNWT. (3) **NCC article** — add a report-dependence taxonomy (direct report / post-trial report / behavioral proxy / no-report paradigm / clinical marker / theory-laden classification) to prevent "every NCC study presupposes first-person report" overstatements. (4) **convergence-arguments article** — add an independence audit flagging that Nagel/Jackson/Kripke/Chalmers lines may share modal-intuitive or phenomenal-conceptual premises. Keep each edit length-neutral; one canonical COGITATE summary is the goal.
-- **Review file**: `reviews/outer-review-2026-06-07-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-07
-
-### P2: Methodology proposal — canonical COGITATE data card + orphan-citation check
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/project/project.md
-- **Notes**: From outer review 2026-06-07 (ChatGPT 5.5 Pro). Two cross-article QA proposals worth recording as project methodology: (1) a **canonical empirical data card** for COGITATE (citation metadata, study design, preregistration status, sample sizes, exact tested predictions, result summary, theory-proponent responses, last-verified date) that articles reference rather than re-summarizing independently — prevents the cross-article drift this review found; (2) an **automated orphan-citation check** (every inline author-year cite maps to a References entry and vice versa) — the Papineau/Balog defect is mechanically detectable. Capture as a methodology note / consider a lightweight validate.py check; this is a project-doc task, not an article rewrite.
-- **Review file**: `reviews/outer-review-2026-06-07-chatgpt-5-5-pro.md`
 - **Source**: outer-review
 - **Generated**: 2026-06-07
 
@@ -970,6 +943,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-07: Adopt mental-effort calibration in the-interface-problem
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-07. The topic article over-claims relative to its anchor concept [mental-effort](/concepts/mental-effort/); failed checks: strong_assertions, underdetermination_markers.
+
+### ✓ 2026-06-07: Adopt neural-correlates-of-consciousness calibration in split-brain-consciousness
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-07. The topic article over-claims relative to its anchor concept [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/); failed checks: strong_assertions, underdetermination_markers.
+
+### ✓ 2026-06-07: Methodology proposal — canonical COGITATE data card + orphan-citation check
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-07 (ChatGPT 5.5 Pro). Two cross-article QA proposals worth recording as project methodology: (1) a **canonical empirical data card** for COGITATE (citation metadata, study design, preregistration status, sample sizes, exact tested predictions, result summary, theory-proponent responses, last-verified date) that articles reference rather than re-summarizing independently — prevents the cross-article drift this review found; (2) an **automated orphan-citation check** (every inline author-year cite maps to a References entry and vice versa) — the Papineau/Balog defect is mechanically detectable. Capture as a methodology note / consider a lightweight validate.py check; this is a project-doc task, not an article rewrite.
+
+### ✓ 2026-06-07: Sync COGITATE framing across IIT / GWT / NCC / convergence-arguments articles
+- **Type**: cross-review
+- **Notes**: From outer review 2026-06-07 (ChatGPT 5.5 Pro). COGITATE is now a canonical case across the Map but its framing drifts between articles. Cross-review and lightly sync: (1) **IIT article** — distinguish IIT's formal integrated-information core from the posterior hot-zone biological implementation; record that COGITATE challenged sustained posterior synchronization while supporting some posterior content-decoding. (2) **GWT/GNWT article** — add the post-COGITATE GNWT-proponent response (Naccache et al. 2025, Neuroscience of Consciousness niaf037 — WEB-VERIFY the citation before inserting) distinguishing Nature's mixed verdict from proponents' argument that some analyses validate core GNWT. (3) **NCC article** — add a report-dependence taxonomy (direct report / post-trial report / behavioral proxy / no-report paradigm / clinical marker / theory-laden classification) to prevent "every NCC study presupposes first-person report" overstatements. (4) **convergence-arguments article** — add an independence audit flagging that Nagel/Jackson/Kripke/Chalmers lines may share modal-intuitive or phenomenal-conceptual premises. Keep each edit length-neutral; one canonical COGITATE summary is the goal.
+
+### ✓ 2026-06-07: Replace asserted evidential parity with "physicalism not compelled" + de-leak Davidson co-optation (duhem-quine article)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-07 (Claude Opus 4.8). Two precise, distinct edits. (a) **Parity overstatement** — the line "Neither programme can claim evidential supremacy" (currently ~line 112) asserts PARITY, a stronger conclusion than underdetermination delivers. Underdetermination shows physicalism is not *compelled*; it does not establish that the two programmes are evidentially equal (Laudan & Leplin: empirically equivalent theories can differ in evidential support). Replace the parity claim with the weaker, defensible "underdetermination shows physicalism is not forced," and elsewhere close the epistemic→metaphysical slide (insert and exclude the intervening non-dualist alternatives — type-B physicalism, Russellian monism — wherever the text moves from "physical description does not entail phenomenal experience" to "dualism"). (b) **Davidson co-optation** — the framework-dependence / "lossy translation" passage recruits Davidson as if he supported incommensurable schemes; Davidson argued the opposite (the very idea of incommensurable conceptual schemes is unintelligible — "On the Very Idea of a Conceptual Scheme," 1974). Either drop the Davidson framing or mark the disagreement honestly; do not present a dualism-favorable "lossy translation" reading as Davidson's view. Mark dualism-favorable conclusions in the "neutral" theoretical-virtues/framework-dependence passages as tenet-driven interpretations, not analysis outputs. Preserve calibration language; length-neutral.
 
 ### ✓ 2026-06-07: Engage the IIT "pseudoscience" dispute with calibration (duhem-quine + IIT articles)
 - **Type**: refine-draft

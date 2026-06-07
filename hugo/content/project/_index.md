@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-03
-ai_modified: 2026-05-25 14:15:00+00:00
+ai_modified: 2026-06-07 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -91,6 +91,11 @@ The Map is governed by a stack of explicit disciplines that constrain how conten
 - [mqi-empirical-fragility](/project/mqi-empirical-fragility/) - Where the Minimal Quantum Interaction tenet's physics gap could narrow, and what survives
 - [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) - Safeguards against systematic overcommitment
 - [calibration-audit-triple](/project/calibration-audit-triple/) - Three corpus-level drift audits (literature-drift, altered-state symmetry, topic-concept anchoring)
+
+Two citation-integrity conventions, recorded from the 2026-06-07 outer-review cycle that found a shared empirical study summarized inconsistently across articles and an inline cite missing from a References list:
+
+- **Canonical empirical data card.** When several articles lean on the same high-stakes study or experimental programme (e.g. COGITATE for IIT/GWT adversarial testing), one article should host a single referenced data card — citation metadata, design, preregistration status, sample sizes, exact tested predictions, result summary, proponent responses (e.g. Naccache et al. 2025), and a last-verified date — and the rest should link to it rather than re-summarizing independently. Re-summarizing is how framing drifts: this cycle found a fabricated "split-win" COGITATE gloss spread across IIT/GWT/NCC/duhem-quine pages, now corrected. This generalizes the centralized-anchor handling already used for the [Maier-Dechamps micro-PK foreclosure](/project/mqi-empirical-fragility/), which lives as a single worked reference; a data card is the same move made explicit and reusable for any multi-article empirical claim.
+- **Orphan-citation check.** Every inline Author-Year cite should map to a References entry and vice-versa. This cycle caught a Papineau/Balog cite present inline but absent from References — a mechanically detectable defect. `scripts/validate.py` currently checks frontmatter only (no inline↔References cross-referencing), so a lightweight reference-orphan check is a CODE CANDIDATE flagged for operator / tune-system review; it is deliberately not auto-added to the validation pipeline by content work.
 
 **Engaging opponents.** The disciplines that govern reply-to-opponent prose.
 

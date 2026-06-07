@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-04 18:46:57+00:00
+ai_modified: 2026-06-07 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -77,9 +77,13 @@ The debate remains empirically open. Nartker et al. (2025) found that "inattenti
 
 ## The COGITATE Experiment
 
-The April 2025 COGITATE study was a seven-year adversarial collaboration where GWT and [IIT](/concepts/integrated-information-theory/) proponents jointly designed experiments to test their theories. GNW's predicted "ignition" when stimuli disappeared was not observed, and prefrontal cortex showed limited representation compared to what full global broadcast predicts.
+The 2025 COGITATE study (published in *Nature*) was a seven-year adversarial collaboration where GWT and [IIT](/concepts/integrated-information-theory/) proponents jointly designed experiments to test their theories. GNW's predicted "ignition" when stimuli disappeared was not observed, and prefrontal cortex showed limited representation of conscious content compared to what full global broadcast predicts. Stimulus orientation, in particular, decoded largely from posterior cortex with limited or absent prefrontal decoding—a result that strains the workspace prediction that consciously represented features are broadcast to and decodable from prefrontal areas.
 
 Neither theory emerged unscathed. The theories proved "too different in assumptions and explanatory goals" for direct adjudication—a concrete instance of [Duhem-Quine underdetermination](/topics/duhem-quine-underdetermination-consciousness/). This outcome is consistent with the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet, though incomplete physicalist theories do not by themselves vindicate dualism. The hard problem persists because empirical constraints remain weak enough to sustain multiple incompatible accounts.
+
+### The Proponents' Response
+
+Nature's own verdict was mixed, but GNW proponents read the same data more favourably. Naccache, Sergent, Dehaene, and colleagues (2025) argue that several COGITATE analyses validated core GNWT predictions—transient brain-wide activation within the predicted 200–800 ms window after stimulus onset, with prefrontal synchronisation to sensory areas, occurring regardless of stimulus duration or task relevance. They contend that the absent offset-ignition was never a core prediction: such activation is expected only when subjects consciously attend to a stimulus's *offset*, a condition the no-report task design did not create. And they attribute the weak prefrontal decoding to methodology rather than to absent broadcast, noting that decoding from prefrontal cortex is intrinsically harder because it lacks the columnar organisation that makes posterior decoding tractable. On their reading COGITATE could not even test GNWT's central claim—the conscious/non-conscious processing distinction. This proponent rejoinder is itself a textbook auxiliary-revision move, and whether it is progressive or merely protective is exactly the question Duhem-Quine leaves open.
 
 ### Implications for Consciousness Localization
 
@@ -190,6 +194,7 @@ A deeper methodological impasse: experiments detect consciousness only through r
 1. COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142.
 1. Dehaene, S., Kerszberg, M., & Changeux, J. P. (1998). A neuronal model of a global workspace in effortful cognitive tasks. *PNAS*, 95(24), 14529-14534.
 1. Dehaene, S., & Naccache, L. (2001). Towards a cognitive neuroscience of consciousness: basic evidence and a workspace framework. *Cognition*, 79(1-2), 1-37.
+1. Naccache, L., Sergent, C., Dehaene, S., Wang, X.-J., Farisco, M., & Changeux, J.-P. (2025). GNW theoretical framework and the "adversarial testing of global neuronal workspace and integrated information theories of consciousness". *Neuroscience of Consciousness*, 2025(1), niaf037.
 1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628-645.
 1. Nartker, M., Firestone, C., Egeth, H., & Phillips, I. (2025). Sensitivity to visual features in inattentional blindness. *eLife*, 13, RP100337.
 1. Streicher, J., Meyen, S., Franz, V. H., & Stein, T. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.

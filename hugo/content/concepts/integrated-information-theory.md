@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-06-07 00:00:00+00:00
+ai_modified: 2026-06-07 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -132,14 +132,14 @@ A major empirical test, funded by the Templeton Foundation and involving 250 sub
 
 ### The COGITATE Experiment (2025)
 
-The April 2025 COGITATE study represents a more rigorous test: a seven-year adversarial collaboration where IIT and [GNWT](/concepts/global-workspace-theory/) proponents jointly designed experiments to test their theories. Both camps agreed in advance what results would challenge their respective theories.
+The 2025 COGITATE study (published in *Nature*) represents a more rigorous test: a seven-year adversarial collaboration where IIT and [GNWT](/concepts/global-workspace-theory/) proponents jointly designed experiments to test their theories. Crucially, what COGITATE tested was IIT's *biological-implementation* prediction—a posterior hot zone with sustained synchronisation—not the formal integrated-information core, which remains open to auxiliary revision.
 
 **IIT predictions challenged:**
-- The study found a "lack of sustained synchronization within posterior cortex"—contradicting IIT's claims about connectivity patterns during conscious perception
-- The predicted integration signatures in posterior cortical regions were not consistently observed
-- While posterior cortex remained important (as IIT predicts), the specific connectivity patterns IIT requires were missing
+- The study found a "lack of sustained synchronization within posterior cortex"—contradicting IIT's prediction of sustained integration signatures during conscious perception
+- Stimulus *orientation* decoded largely from posterior cortex with limited or absent prefrontal decoding—which supports some posterior content-decoding but does not vindicate the sustained-synchronisation prediction
+- Stimulus *category* decoded in **both** posterior and prefrontal cortex (posterior stronger), and prefrontal category information sat uneasily against IIT's confinement of conscious content to a posterior hot zone
 
-**Neither theory emerged unscathed.** The researchers concluded: "It was clear that no single experiment would decisively refute either theory"—the theories proved "too different in assumptions and explanatory goals" for direct adjudication. This outcome exemplifies the [Duhem-Quine underdetermination](/topics/duhem-quine-underdetermination-consciousness/) that afflicts consciousness science: rival theories accommodate the same data by revising different auxiliary assumptions, and no experiment can force convergence.
+**Neither theory emerged unscathed.** No single experiment would decisively refute either—the theories proved "too different in assumptions and explanatory goals" for direct adjudication. This exemplifies the [Duhem-Quine underdetermination](/topics/duhem-quine-underdetermination-consciousness/) that afflicts consciousness science: rival theories accommodate the same data by revising different auxiliary assumptions. The honest reading is graded constraint, not a clean win for either theory—each decoding dimension strained one programme's auxiliary belt more than the other's.
 
 This outcome matters for two reasons. First, it demonstrates that IIT's mathematical elegance doesn't translate straightforwardly into testable predictions—the theory remains difficult to falsify even when proponents design the tests. Second, it supports the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet: neither leading physicalist theory of consciousness fully captures the phenomena. The hard problem persists not because we lack clever theories but because consciousness resists reduction to any single physical measure, whether integration (IIT) or broadcast (GNWT).
 

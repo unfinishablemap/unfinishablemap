@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-06-03 16:40:00+00:00
+ai_modified: 2026-06-07 10:01:54.266533+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -22,6 +22,11 @@ description: 'The corridor reading of Tenet 2 predicts no Born-statistical signa
   of brain-internal observables, mechanism-specific signatures, and theoretical work
   on the definite-outcome problem.'
 draft: false
+embedded_videos:
+- embedded: 2026-06-07 10:01:54.266533+00:00
+  id: oU_ajnp1cVM
+  source: notebooklm/0070-01-brain-internal-born-rule-testing
+  url: https://www.youtube-nocookie.com/embed/oU_ajnp1cVM
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-02 23:58:44+00:00
@@ -54,6 +59,12 @@ topics:
 The Map's corridor reading of [Tenet 2](/tenets/#minimal-quantum-interaction) — consciousness selects which Born-distributed outcome actualises but does not bend the distribution — is the only reading of Minimal Quantum Interaction that is invisible to ensemble Born-rule tests by construction. That invisibility looks unfalsifiable, and answering the look is this article's job. The Born rule has been tested to roughly 10⁻² in photon triple-slit experiments (Sinha et al. 2010), tightened by subsequent atomic and high-energy work, and derived from causally consistent steering in generalised probabilistic theories (Torres Alegre 2025, arXiv preprint). No published experiment yet probes the rule inside living neural tissue during an act of conscious selection. The corridor reading occupies this gap.
 
 Making the corridor empirically superfluous requires more than a single null result — a coordinated programme of brain-internal observables sensitive at the level a viable selection channel could matter, controls separating physical from conscious confounds, and convergent precision across multiple mechanism candidates. This article catalogues that programme, maps each consciousness-physics proposal — Stapp's quantum Zeno, Penrose-Hameroff Orch-OR, the strict selection-only channel, the trumping-preemption reading — to its predicted experimental signature, and specifies what kinds of evidence would compel retreat from the corridor as the Map's working hypothesis.
+
+<details class="yt-embed" data-video-id="oU_ajnp1cVM">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/oU_ajnp1cVM">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## What the Corridor Is
 
