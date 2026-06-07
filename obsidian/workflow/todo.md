@@ -55,15 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-07
 
-### P2: Sync COGITATE framing across IIT / GWT / NCC / convergence-arguments articles
-- **Type**: cross-review
-- **Status**: pending
-- **File**: obsidian/concepts/integrated-information-theory.md
-- **Notes**: From outer review 2026-06-07 (ChatGPT 5.5 Pro). COGITATE is now a canonical case across the Map but its framing drifts between articles. Cross-review and lightly sync: (1) **IIT article** — distinguish IIT's formal integrated-information core from the posterior hot-zone biological implementation; record that COGITATE challenged sustained posterior synchronization while supporting some posterior content-decoding. (2) **GWT/GNWT article** — add the post-COGITATE GNWT-proponent response (Naccache et al. 2025, Neuroscience of Consciousness niaf037 — WEB-VERIFY the citation before inserting) distinguishing Nature's mixed verdict from proponents' argument that some analyses validate core GNWT. (3) **NCC article** — add a report-dependence taxonomy (direct report / post-trial report / behavioral proxy / no-report paradigm / clinical marker / theory-laden classification) to prevent "every NCC study presupposes first-person report" overstatements. (4) **convergence-arguments article** — add an independence audit flagging that Nagel/Jackson/Kripke/Chalmers lines may share modal-intuitive or phenomenal-conceptual premises. Keep each edit length-neutral; one canonical COGITATE summary is the goal.
-- **Review file**: `reviews/outer-review-2026-06-07-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-07
-
 ### P2: Methodology proposal — canonical COGITATE data card + orphan-citation check
 - **Type**: refine-draft
 - **Status**: pending
@@ -960,6 +951,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-07: Sync COGITATE framing across IIT / GWT / NCC / convergence-arguments articles
+- **Type**: cross-review
+- **Notes**: From outer review 2026-06-07 (ChatGPT 5.5 Pro). COGITATE is now a canonical case across the Map but its framing drifts between articles. Cross-review and lightly sync: (1) **IIT article** — distinguish IIT's formal integrated-information core from the posterior hot-zone biological implementation; record that COGITATE challenged sustained posterior synchronization while supporting some posterior content-decoding. (2) **GWT/GNWT article** — add the post-COGITATE GNWT-proponent response (Naccache et al. 2025, Neuroscience of Consciousness niaf037 — WEB-VERIFY the citation before inserting) distinguishing Nature's mixed verdict from proponents' argument that some analyses validate core GNWT. (3) **NCC article** — add a report-dependence taxonomy (direct report / post-trial report / behavioral proxy / no-report paradigm / clinical marker / theory-laden classification) to prevent "every NCC study presupposes first-person report" overstatements. (4) **convergence-arguments article** — add an independence audit flagging that Nagel/Jackson/Kripke/Chalmers lines may share modal-intuitive or phenomenal-conceptual premises. Keep each edit length-neutral; one canonical COGITATE summary is the goal.
 
 ### ✓ 2026-06-07: Replace asserted evidential parity with "physicalism not compelled" + de-leak Davidson co-optation (duhem-quine article)
 - **Type**: refine-draft

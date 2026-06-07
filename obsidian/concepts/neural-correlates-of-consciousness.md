@@ -4,7 +4,7 @@ description: "Brain activity correlating with conscious experience. Correlation 
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-06-03T18:31:32+00:00
+ai_modified: 2026-06-07T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -175,7 +175,20 @@ Surveys of the field count theories of consciousness in the low hundreds—recen
 
 NCC research marks a genuine advance in consciousness science, yielding detailed knowledge of which brain regions correlate with conscious experience and powerful methods for testing theories.
 
-Yet NCC cannot cross a certain boundary. It can map correlations with increasing precision but cannot tell us what consciousness *is*, why it exists, or how—if at all—it relates to the physical world beyond correlation. The [[observation-and-measurement-void]] illuminates this limitation: five independent routes to measuring consciousness all fail for structural rather than technical reasons, and the [[consciousness-and-the-problem-of-measurement-standards|measurement standards problem]] shows why physical measurement cannot be constructed for phenomenal quantities. NCC research operates entirely within the proxy layer. As the [[cognitive-science-of-dualism]] article argues, every NCC study presupposes first-person report as irreducible data—the experimenter trusts the subject's testimony about what they experience, smuggling in a first-person element the methodology cannot itself explain.
+Yet NCC cannot cross a certain boundary. It can map correlations with increasing precision but cannot tell us what consciousness *is*, why it exists, or how—if at all—it relates to the physical world beyond correlation. The [[observation-and-measurement-void]] illuminates this limitation: five independent routes to measuring consciousness all fail for structural rather than technical reasons, and the [[consciousness-and-the-problem-of-measurement-standards|measurement standards problem]] shows why physical measurement cannot be constructed for phenomenal quantities. NCC research operates entirely within the proxy layer.
+
+### How NCC Studies Depend on Report
+
+The claim that NCC research presupposes a first-person element is best stated precisely, because the dependence is graded rather than uniform. NCC paradigms ground their consciousness-attributions in different ways, and only the first leans directly on concurrent verbal report:
+
+- **Direct report**: the subject reports the contents of experience as they occur (button-press during a binocular-rivalry switch).
+- **Post-trial report**: the subject reports retrospectively, after the neural measurement window (Sperling-style partial-report).
+- **Behavioural proxy**: discrimination or detection performance stands in for awareness without explicit introspective report.
+- **No-report paradigm**: optokinetic nystagmus or pupillometry infers conscious content with no report at all—designed precisely to subtract the neural footprint of reporting from that of having the experience.
+- **Clinical marker**: command-following or perturbational complexity (the PCI) indexes consciousness in patients who cannot report (covert-consciousness work).
+- **Theory-laden classification**: a model (IIT's Φ, ignition) classifies a state as conscious independent of any behavioural access.
+
+The honest generalisation is therefore not that *every* NCC study presupposes concurrent first-person report, but that the validation chain for these proxies ultimately traces back to report in the paradigms where report is available—the no-report and clinical paradigms calibrate against report-based cases and inherit their first-person grounding indirectly. As the [[cognitive-science-of-dualism]] article argues, the experimenter trusts subjects' testimony at some link in this chain, smuggling in a first-person element the methodology cannot itself explain. Locating *which* link makes the dependence auditable rather than rhetorical.
 
 These remain philosophical questions. The Map holds that consciousness is irreducible, that it interacts bidirectionally with physics, and that this interaction occurs at quantum indeterminacies. NCC findings are compatible with this framework and equally with materialism. The hard problem, the explanatory gap, and the metaphysics of mind-brain relations remain exactly where they were—though we now know better where in the brain to investigate them.
 

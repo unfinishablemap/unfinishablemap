@@ -5,6 +5,17 @@ ai_modified: 2026-06-07T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-07T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/integrated-information-theory]], [[concepts/global-workspace-theory]], [[concepts/neural-correlates-of-consciousness]]
+- **Source**: outer review 2026-06-07 (ChatGPT) — multi-file cross-article COGITATE-framing sync; propagate the corrected, web-verified COGITATE result (category decodes in BOTH posterior+PFC; orientation largely posterior/absent-PFC, challenging GNWT; NO clean split-win) and bundled per-article improvements. Each edit length-neutral / within headroom.
+- **(1) IIT (length-critical, ~86w headroom)**: Rewrote the COGITATE section to distinguish IIT's formal integrated-information core from its posterior-hot-zone *biological-implementation* prediction; recorded that COGITATE challenged sustained posterior synchronisation while some posterior content-decoding survived (orientation), and that PFC category information sits uneasily against posterior-hot-zone confinement. Removed any "each theory won one decoding dimension" split-win implication; framed as graded constraint. Final word count **3462/3500** (was 3414; under hard ceiling).
+- **(2) GWT**: Added orientation/posterior detail to the COGITATE section, then added a new "The Proponents' Response" subsection presenting Naccache et al. 2025 — they argue several COGITATE analyses validated core GNWT (transient brain-wide activation 200–800 ms, prefrontal–sensory synchronisation, duration/task-independent), that offset-ignition was never a core prediction (only with attended offset; absent in no-report design), and that weak PFC decoding is methodological (PFC lacks columnar organisation), distinct from Nature's mixed verdict. Flagged the rejoinder as a Duhem-Quine auxiliary-revision move. Added Naccache 2025 reference. Final word count **2538/3500**.
+- **(3) NCC**: Added a "How NCC Studies Depend on Report" subsection with a report-dependence taxonomy (direct report / post-trial report / behavioural proxy / no-report paradigm / clinical marker / theory-laden classification); softened the prior overstatement that "every NCC study presupposes first-person report" to the auditable claim that the proxy validation chain traces back to report where report is available. Final word count **3353/3500**.
+- **WEB-VERIFY (Naccache 2025)**: VERIFIED at publisher of record. Naccache, L., Sergent, C., Dehaene, S., Wang, X.-J., Farisco, M., & Changeux, J.-P. (2025). "GNW theoretical framework and the 'adversarial testing of global neuronal workspace and integrated information theories of consciousness'." *Neuroscience of Consciousness*, 2025(1), niaf037. DOI 10.1093/nc/niaf037 (Oxford Academic, pub. 9 Oct 2025). Authors and the validates-core-GNWT / offset-not-core / PFC-decoding-is-harder arguments confirmed against the article.
+- **(4) convergence independence audit — DEFERRED**: The only matching target is `topics/epistemology-of-convergence-arguments` (the named `concepts/convergence-arguments` does not exist), which is the known over-ceiling flagship (6479/4000, critical; DIVERTED-TO-HUMAN). Per task instructions, deferred — not added. Follow-on: needs a human length decision before the independence audit (Nagel/Jackson/Kripke/Chalmers shared modal/phenomenal-conceptual premises) can be installed.
+- **Published**: yes
+
 ## 2026-06-07T08:42:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/duhem-quine-underdetermination-consciousness]]
