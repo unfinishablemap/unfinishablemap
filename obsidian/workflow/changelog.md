@@ -5,6 +5,17 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-07T00:00:00+00:00 - refine-draft (methodology, assess-first)
+- **Status**: Success
+- **File**: [[project/calibration-audit-triple]]
+- **Task**: Assess outer-review-2026-06-05-chatgpt-5-5-pro methodology items (c)/(d)/(e) for genuine gaps; record only what is uncovered. Items (a)/(b) already discharged 2026-06-06 — not re-added.
+- **Findings**:
+  - **(c) current-literature refresh (review item 17)** — DECLINED as duplicate. Audit One (literature-drift-review) already raises the staleness signal; the *revised-after-major-publication* selection heuristic is a candidate-selection refinement of that audit, not a new member, and the newest-citation-date local pre-filter is already recorded under Audit One (line 81). Closed as already-disciplined.
+  - **(d) noetic-contamination check (review item 18)** — DECLINED as covered. The principle is the evidential-status-discipline noetic-veridicality gate (felt revelation ≠ truth-tracking) backed by noetic-feelings-void's Koriat / false-insight machinery; the remedy for a failing article is to cite that as a named rival, not to mint a new audit. Closed as already-disciplined.
+  - **(e) shared-architecture rival paragraph (review item 19)** — GENUINE narrow gap; recorded. Existing convergence guards (Audit Two anti-double-counting, cross-mechanism convergence-by-accident, the 2026-06-06 dimension-type bridge) forbid counting the *same* move N times but do NOT require naming the *human-shared-architecture rival* (shared receptors/attention/training/instruments/set-setting) that predicts the same multi-source convergence without void contact. Added as item (iv) — **Shared-architecture rival bar** — to the existing "Two cross-reviewer additions" paragraph (now three additions), a /tune-system promotion candidate alongside (i)/(ii). No new section (doc at CRITICAL ~6.2k words).
+- **Changes**: extended the line-178 cross-reviewer-additions paragraph with item (iv) + a one-clause close on items 17/18; added review file to related_articles; bumped ai_modified. No commit (per task).
+- **Published**: yes (draft: false project doc)
+
 ## 2026-06-06T23:36:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-memory-and-the-self]]
