@@ -5,6 +5,15 @@ ai_modified: 2026-06-07T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-07T18:10:00+00:00 - deep-review
+- **Status**: Success (convergence-damping no-op confirmation)
+- **File**: [[topics/neural-refresh-rates-and-the-smoothness-problem]]
+- **Word count**: 2579 → 2579 (no body change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Eighth deep review of the topics article; squarely in the outright-exclusion band (≥3 prior reviews + last_deep_review 2026-06-05, 2 days ago). Reached only via explicit file argument. Git status since last review = CLEAN; last commit on the file is the 2026-06-05 review cycle itself (42f48c9e9). Content byte-identical to the 2026-06-05 review, which applied a full publisher-of-record citation audit (Zheng & Meister 2025 *Neuron* 113(2):192–204 verified; Frankish/Dennett illusionism attribution verified; Herzog/VanRullen/Crick&Koch/Lee/Locke/Sellars verified in 05-26/05-29), reasoning-mode classification (functionalist Mode Two+Three, illusionist Mode Two, identity-theory Mode One — no boundary-substitution, no label leakage), and a calibration check (no possibility/probability slippage; article explicitly declines smoothness-as-independent-dualism-evidence). Re-verified those verdicts still hold against current text: all inline↔References cross-refs matched, no editor-vocabulary leakage in prose, length 2579w (86% of soft 3000) ok. §2.4 web-verify NOT re-spent (References unchanged since the 06-05 full per-cite ledger). No frontmatter timestamp bump — content unchanged, so re-bumping ai_modified/last_deep_review would falsely re-qualify a converged page for staleness selection. No new review-archive file (would duplicate 06-05 verbatim). See [[reviews/deep-review-2026-06-05-neural-refresh-rates]].
+
 ## 2026-06-07T17:32:37+00:00 - deep-review
 - **Status**: Success (convergence-damping no-op confirmation)
 - **File**: [[concepts/substance-property-dualism]]
