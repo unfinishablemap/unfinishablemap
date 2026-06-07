@@ -5,6 +5,22 @@ ai_modified: 2026-06-07T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-07T14:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/duhem-quine-underdetermination-consciousness]]
+- **Task**: SYMMETRY/DUAL-BURDEN P1 (3/3 convergent, outer-review-synthesis-2026-06-07), sibling of Claude P1 "Lakatosian-progressivity incoherence"
+- **Word count**: 3702 → 3875 (canonical analyze_length), under 4000 hard ceiling
+- **Already present from consolidated P1 refine (commit 8faed5cc), NOT duplicated**:
+  - (a) "What would be degenerating for the Map?" — concrete degenerating examples (moving-target site changes, irreducibility claims yielding no constraints, hard-problem immunisation) already in "Relation to Site Perspective" para and final assessment para
+  - (b) "Duhem-Quine does not license indefinite quantum retreat" — already present verbatim ("does not license indefinite retreat") in the symmetry-applied-to-own-hard-core para
+  - Map's auxiliary-belt analysis, progressive-vs-degenerating criteria, empirically-silent hard core cannot claim "progressive", falsification-roadmap surfacing
+- **Gaps added this pass (only the two genuinely missing items)**:
+  - (c) Theory-ladenness of first-person evidence threatens dualist/introspective methods too — added symmetric clause to "Theory-ladenness of first-person reports" (Map cannot exempt its own introspective evidential base from the circle it diagnoses)
+  - (d) Unconceived-alternatives risk applied to the Map's OWN physicalism-vs-dualism taxonomy — added paragraph to Stanford section naming neutral/Russellian monism, panpsychism, illusionism as positions the binary framing elides; dualist hard core is one live option among several
+- **Discipline**: no mode labels in body; no "This is not X. It is Y." cliché; calibration/hedge language preserved
+- **Sibling-task status**: Lakatosian-progressivity sibling is now SUBSTANTIALLY COVERED — the progressive/degenerating criteria, the empirically-silent-hard-core-cannot-claim-progressive concession, and concrete degenerating examples are all present in the body. No distinct un-addressed angle remains; safe to mark the sibling resolved-by-consolidation.
+- **Published**: yes
+
 ## 2026-06-07T12:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/metaontological-deflationism]]

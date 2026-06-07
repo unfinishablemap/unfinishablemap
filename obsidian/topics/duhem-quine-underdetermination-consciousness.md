@@ -4,7 +4,7 @@ description: "No experiment can isolate a consciousness theory for testing. Huma
 created: 2026-03-04
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-06-07T12:00:00+00:00
+ai_modified: 2026-06-07T14:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,7 +51,7 @@ This creates a layered underdetermination:
 
 1. **Theory-ladenness of neural data.** What counts as a "neural correlate of consciousness" depends on which theory defines the relevant contrast. IIT looks for integrated information in posterior cortex; GWT looks for global broadcast to prefrontal areas. The same brain scan appears to support different claims depending on which theoretical lens interprets it. This is an instance of the broader [[phenomenology-of-conceptual-frameworks|framework dependence]] that pervades consciousness research—frameworks do not merely organise evidence but determine what counts as evidence.
 
-2. **Theory-ladenness of first-person reports.** Introspective reports are not raw data—they are shaped by training, context, and theoretical expectations, as the Map's [[phenomenal-authority-and-first-person-evidence|epistemology of first-person evidence]] develops in detail. The collapse of 19th-century introspectionist psychology, when rival schools could not agree on what subjects experienced under controlled conditions, illustrates this problem historically. That same article examines how first-person data can nonetheless gain evidential standing—but the underdetermination at this level remains severe because the standards for admitting such data are themselves theory-laden.
+2. **Theory-ladenness of first-person reports.** Introspective reports are not raw data—they are shaped by training, context, and theoretical expectations, as the Map's [[phenomenal-authority-and-first-person-evidence|epistemology of first-person evidence]] develops in detail. The collapse of 19th-century introspectionist psychology, when rival schools could not agree on what subjects experienced under controlled conditions, illustrates this problem historically. That same article examines how first-person data can nonetheless gain evidential standing—but the underdetermination at this level remains severe because the standards for admitting such data are themselves theory-laden. This theory-ladenness cuts symmetrically: it constrains the Map's own introspective and dualist methods exactly as much as it constrains physicalist appeals to report. A dualism that leans on first-person evidence inherits the same burden it presses against physicalism—its introspective data are no more theory-neutral than the neural data, and the Map cannot exempt its own evidential base from the circle it has just diagnosed.
 
 3. **The methodological circle in [[neural-correlates-of-consciousness|NCC research]].** Every study of neural correlates presupposes first-person report as irreducible data—the experimenter trusts the subject's testimony about what they experience, smuggling in a first-person element the methodology cannot itself explain. The evidential base for all NCC-related theories is thus underdetermined by methodology at a second-order level: the data themselves depend on assumptions about the reliability and nature of conscious reports.
 
@@ -80,6 +80,8 @@ This has a direct consequence for the debate between physicalism and dualism. Ph
 Kyle Stanford's "unconceived alternatives" argument adds a further dimension. Historically, scientists have repeatedly failed to conceive of all theoretically distinct possibilities consistent with available evidence. Newtonian mechanics seemed uniquely supported by data until relativity and quantum mechanics revealed alternatives no one had imagined. Stanford argues this pattern suggests present theories may well be underdetermined by future alternatives we have not yet conceived.
 
 Applied to consciousness science—where Robert Lawrence Kuhn's landscape survey (2024) catalogued several hundred distinct theories—the problem is acute. The sheer proliferation of frameworks suggests the field has not converged, and if Stanford is right, theories not yet formulated might fit the evidence equally well. The current menu of options, extensive as it is, may be incomplete.
+
+This risk applies with full force to the Map's own framing. The article has so far run the contest as physicalism against dualism, but that binary is itself a taxonomy that unconceived alternatives may undercut. Neutral monism and its Russellian variant, panpsychism, and illusionism are already-conceived positions that do not sit cleanly on either side of the divide—and Stanford's lesson is that the genuinely decisive alternative may be one no current programme, the Map's included, has yet formulated. Treating the choice as binary would be the same eliminative over-confidence the Map criticises elsewhere; the dualist hard core is one live option among several, not the residue left when physicalism is set aside.
 
 ## Kuhn's Values and Theory Choice
 
