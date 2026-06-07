@@ -4,9 +4,9 @@ description: "Can consciousness exist outside time? Husserl's absolute flow, med
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-06-06T12:49:29+00:00
+ai_modified: 2026-06-07T12:33:18+00:00
 draft: false
-last_deep_review: 2026-05-14T03:54:00+00:00
+last_deep_review: 2026-06-07T12:33:18+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[temporal-consciousness-structure-and-agency]]"
