@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-19
-ai_modified: 2026-06-05 21:29:25+00:00
+ai_modified: 2026-06-07 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -37,6 +37,7 @@ related_articles:
 - '[[indexical-identity-quantum-measurement]]'
 - '[[quantum-measurement-and-consciousness]]'
 - '[[the-agent-shaped-hole]]'
+- '[[quantum-darwinism-and-consciousness]]'
 title: Pragmatist Quantum Foundations and the Agent-Shaped Hole
 topics:
 - '[[hard-problem-of-consciousness]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-06-04 10:59:25+00:00
+ai_modified: 2026-06-07 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,6 +31,7 @@ related_articles:
 - '[[weak-measurement-and-post-selection]]'
 - '[[comparing-quantum-consciousness-mechanisms]]'
 - '[[post-decoherence-selection-programme]]'
+- '[[pragmatist-quantum-foundations-and-the-agent]]'
 title: Quantum Darwinism and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'

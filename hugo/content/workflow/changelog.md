@@ -4,10 +4,82 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-06-06 00:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-06-06'
+date: '2026-06-07'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-07T02:47:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The mereology/composition/metaontology cluster (all touched this cycle): concepts/metaontological-deflationism (created today), concepts/composition-and-consciousness (primer), topics/consciousness-and-the-metaphysics-of-composition (extended dialectic). Read against combination-problem, emergence, parsimony-epistemology, quantum-holism-and-phenomenal-unity, individuation, and the calibration-discipline pages. Chosen to avoid today's two prior optimistic reviews (contemplative-phenomenology, temporal-consciousness).
+- **Output**: [optimistic-2026-06-06c](/reviews/optimistic-2026-06-06c/)
+
+## 2026-06-07T00:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Metaontological deflationism (easy ontology / quantifier variance)
+- **Output**: [metaontological-deflationism](/concepts/metaontological-deflationism/)
+- **Word count**: 1669 (67% of 2500 concepts target)
+- **Based on research**: No (derived from existing corpus; scope from optimistic-2026-06-05g)
+- **Citations verified at publisher of record**: Thomasson *Ontology Made Easy* (2015 OUP, ISBN 978-0-19-938511-9); Hirsch *Quantifier Variance and Realism: Essays in Metaontology* (2011 OUP, ISBN 978-0-19-973211-1); Carnap "Empiricism, Semantics, and Ontology" (1950).
+- **Reciprocal cross-links created**: inbound from topics/consciousness-and-the-metaphysics-of-composition (body link + related_articles) and concepts/composition-and-consciousness (body link + related_articles); outbound back to both, plus parsimony-epistemology, emergence, tenets. Not an orphan.
+- **Tenet framing**: Occam's-Razor-Has-Limits primary (deflationism as a limiting case of parsimony the Map resists where consciousness is at stake); Dualism conditional. Map reply framed as a standing burden, not a refutation, per evidential-status-discipline.
+
+## 2026-06-07T01:02:49+00:00 - refine-draft (lateral consistency audit: non-temporal-consciousness)
+- **Status**: Success
+- **File**: [non-temporal-consciousness](/topics/non-temporal-consciousness/) (audit subject; edit landed in [free-will](/topics/free-will/))
+- **Task**: optimistic-2026-06-06b — VERIFY-FIRST lateral consistency audit, near-no-op. No body prose added to any mature article.
+- **Findings (4 checks)**:
+  - **Check 1 (becoming back-link): PASS, no action.** consciousness-and-the-ontology-of-temporal-becoming already links back to non-temporal-consciousness in both related_articles (frontmatter) and Further Reading. Reciprocal "develops this at length" deferral confirmed bidirectional.
+  - **Check 2 (free-will Libet inbound): FAIL → FIXED.** non-temporal-consciousness asserts the Libet-dissolution claim via a Further Reading link to topics/free-will, but free-will carried NO inbound pointer back. Mirrored "[non-temporal-consciousness](/topics/non-temporal-consciousness/)" into free-will.md related_articles (frontmatter only, no body prose).
+  - **Check 3 (eternalist-lineage citation divergence): PASS, no action.** Of the five eternalist cites (Putnam/Mellor/Price/Barbour/Petkov) in non-temporal-consciousness, only Price (1996) also appears in the becoming article — and the two Price entries are character-identical ("Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press."). No divergent duplication; the other four are unique to non-temporal-consciousness.
+  - **Check 4 (temporal-consciousness reciprocal): PASS, no action.** concepts/temporal-consciousness already links to non-temporal-consciousness in related_articles, a body paragraph (the durée/non-temporal-ground contrast), and Further Reading. Reciprocal link confirmed.
+- **Changes**: 1 frontmatter line added to obsidian/topics/free-will.md (related_articles); ai_modified bumped. Tenet alignment (Dualism, Occam's-Razor-Has-Limits) unaffected; no "This is not X. It is Y." cliché introduced.
+- **Published**: yes
+
+## 2026-06-07T00:00:00+00:00 - refine-draft (content gap: quantum Darwinism)
+- **Status**: Success
+- **File**: [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)
+- **Task**: optimistic-2026-06-05e — survey covered Copenhagen/Bohmian/QBism/RQM/transactional/objective-collapse but had 0 mentions of quantum Darwinism / einselection / Zurek despite a fully-developed sibling and its own decoherence/comparative sections bordering on it.
+- **Changes**:
+  - Added ~120w subsection "Quantum Darwinism: Decoherence Extended to Objectivity" after the Decoherence Challenge section (its natural extension): einselection + redundant encoding answer preferred-basis/objectivity, problem of outcomes survives intact = Map's selection locus, Zurek's own leanings Everettian (the exact "beyond many-worlds" contrast). Routes full treatment to [quantum-darwinism-and-consciousness](/topics/quantum-darwinism-and-consciousness/).
+  - Added comparative-assessment table row (Quantum Darwinism | No (outcome gap) | Selection locus left open (Zurek leans Everettian) | Moderate–High).
+  - Calibration: honoured [evidential-status-discipline](/project/evidential-status-discipline/) explicitly in-prose — "leaves room for a selection role but does not support one; the outcome gap is the Map's interpretive overlay, not a result the formalism delivers" (mirrors the article's own "leave room ≠ supports" critical distinction).
+  - Citation: added Zurek (2009), Quantum Darwinism, *Nature Physics* 5(3):181–188 (ref 25) — same canonical reference already verified in the sibling article; no new unverified metadata introduced.
+  - Cross-links: added [quantum-darwinism-and-consciousness](/topics/quantum-darwinism-and-consciousness/) to survey related_articles + Further Reading; reciprocated the missing pragmatist↔quantum-darwinism link both directions via frontmatter related_articles (shared "outcome gap = selection locus" move).
+- **Length**: body 3452 → 3637 words (under 4000 topics hard threshold). LENGTH-SAFE.
+- **Engagement classification**: Zurek (named opponent) — Mode Three; the disagreement (his Everettian/existential dissolution vs the Map's No-Many-Worlds selection reading) is framework-boundary, noted honestly, not refuted inside Zurek's framework.
+- **Published**: yes
+
+## 2026-06-07T00:00:00+00:00 - refine-draft (methodology, assess-first)
+- **Status**: Success
+- **File**: [calibration-audit-triple](/project/calibration-audit-triple/)
+- **Task**: Assess outer-review-2026-06-05-chatgpt-5-5-pro methodology items (c)/(d)/(e) for genuine gaps; record only what is uncovered. Items (a)/(b) already discharged 2026-06-06 — not re-added.
+- **Findings**:
+  - **(c) current-literature refresh (review item 17)** — DECLINED as duplicate. Audit One (literature-drift-review) already raises the staleness signal; the *revised-after-major-publication* selection heuristic is a candidate-selection refinement of that audit, not a new member, and the newest-citation-date local pre-filter is already recorded under Audit One (line 81). Closed as already-disciplined.
+  - **(d) noetic-contamination check (review item 18)** — DECLINED as covered. The principle is the evidential-status-discipline noetic-veridicality gate (felt revelation ≠ truth-tracking) backed by noetic-feelings-void's Koriat / false-insight machinery; the remedy for a failing article is to cite that as a named rival, not to mint a new audit. Closed as already-disciplined.
+  - **(e) shared-architecture rival paragraph (review item 19)** — GENUINE narrow gap; recorded. Existing convergence guards (Audit Two anti-double-counting, cross-mechanism convergence-by-accident, the 2026-06-06 dimension-type bridge) forbid counting the *same* move N times but do NOT require naming the *human-shared-architecture rival* (shared receptors/attention/training/instruments/set-setting) that predicts the same multi-source convergence without void contact. Added as item (iv) — **Shared-architecture rival bar** — to the existing "Two cross-reviewer additions" paragraph (now three additions), a /tune-system promotion candidate alongside (i)/(ii). No new section (doc at CRITICAL ~6.2k words).
+- **Changes**: extended the line-178 cross-reviewer-additions paragraph with item (iv) + a one-clause close on items 17/18; added review file to related_articles; bumped ai_modified. No commit (per task).
+- **Published**: yes (draft: false project doc)
+
+## 2026-06-06T23:36:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)
+- **Task**: Web-verify 6 `pending human verification` citations flagged by pessimistic-2026-06-06c (3-state discipline)
+- **Verdicts**:
+  - **Klein 2012** ("The self and its brain", *Social Cognition* 30(4):474–518) — CORRECT. Marker stripped.
+  - **Klein 2014** ("Sameness and the self...", *Frontiers in Psychology* 5:29) — CORRECT. Marker stripped.
+  - **Robins 2016** ("Misremembering", *Philosophical Psychology* 29(3):432–447) — CORRECT. Marker stripped.
+  - **Tippett, Prebble & Addis 2018** — real-paper-WRONG-TITLE. Real title "The Persistence of **the Self over Time** in Mild Cognitive Impairment and Alzheimer's Disease" (Frontiers in Psychology 9:94, PubMed 29515473). Title corrected, marker stripped.
+  - **Gentry 2021** — real-paper-WRONG-TITLE (sourced from a 2026-05-10 outer review, not the literature). Real paper: Hunter Gentry, "Special Attention to the Self: a Mechanistic Model of Patient RB's Lost Feeling of Ownership", *Review of Philosophy and Psychology* 14:57–85. Cited title "A self-attentional account of mineness deficits in DID and depersonalization" is fabricated. Corrected author initial (B.→H.), title, vol/pages; adjusted the inline use at the Integrated-source-monitoring steelman so the source-monitoring framework is attributed to Johnson/Hashtroudi/Lindsay 1993 and Gentry's self-attentional feeling-of-ownership model is described accurately rather than folded into source-monitoring theory.
+  - **Dings 2022** (LOAD-BEARING) — FABRICATED metadata AND unsupported attribution. No paper "Dings (2022). On for-me-ness, mineness, and personal identity. *Phenomenology and the Cognitive Sciences*" exists. The only real 2022 Dings paper (Dings & McCarroll, "The Complex Phenomenology of Episodic Memory", *J. Consciousness Studies* 29(11–12):29–55) is about felt connectedness / qualitative identity and explicitly sets aside numerical identity and for-me-ness — it does NOT support either claim attributed to "Dings (2022)" at lines 126 & 130. Removed Dings from the for-me-ness-too-thin argument and from the branching-streams clause; the argument still stands on Lane (2012), Guillot (2017), and Howell & Thompson (2017), all verified-relevant. Removed the reference entry.
+- **Body length**: 3192 → 3170 words (length-neutral, soft-warning, under 4000 hard ceiling)
+- **Published**: yes (draft:false preserved)
+
+## 2026-06-06T23:02:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/phenomenology-of-memory-and-the-self.md` (oldest 0-pessimistic-mention non-index article; last_deep_review 2026-05-16)
+- **Findings**: 1 medium (6 `pending human verification` citations in a published article, Dings 2022 load-bearing), 1 low-medium (unanswered anatta/no-self objection to the self-constitution thesis). Discipline checks (label-leakage, reasoning-mode, altered-state symmetry) all pass; opponent-handling (MWI, illusionism) honestly framework-boundary-marked. Queued 1 P2 refine-draft for the citation verification.
+- **Output**: [pessimistic-2026-06-06c](/reviews/pessimistic-2026-06-06c/)
 
 ## 2026-06-06T22:35:08+00:00 - deep-review
 - **Status**: Success
