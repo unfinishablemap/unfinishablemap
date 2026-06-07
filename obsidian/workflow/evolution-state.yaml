@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-07T01:51:23.844815+00:00'
-session_count: 10380
+last_updated: '2026-06-07T02:05:12.858602+00:00'
+session_count: 10381
 cycle_position: 8819
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,9 +13,9 @@ last_runs:
   coalesce: '2026-06-06T16:33:46.744989+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-05T22:17:40.910659+00:00'
-  agentic-social: '2026-06-07T01:18:28.594019+00:00'
+  agentic-social: '2026-06-07T02:17:27.207251+00:00'
   embed-videos: '2026-06-06T20:02:36.236902+00:00'
-  commission-chatgpt-review: '2026-06-06T02:03:51.741915+00:00'
+  commission-chatgpt-review: '2026-06-07T02:05:12.858602+00:00'
   commission-claude-review: '2026-06-06T03:05:46.400680+00:00'
   commission-gemini-review: '2026-06-06T04:24:06.983194+00:00'
   refine-draft: '2026-06-07T01:03:31.521823+00:00'
@@ -93,10 +89,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-06'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-06'
@@ -171,6 +163,10 @@ recent_tasks:
   outcome: success
 - task: expand-topic
   type: expand-topic
+  date: '2026-06-07'
+  outcome: success
+- task: commission-chatgpt-review
+  type: commission-chatgpt-review
   date: '2026-06-07'
   outcome: success
 agentic_social:
@@ -265,3 +261,11 @@ agentic_social:
     - affective-tone-divergence-across-meditative-traditions
     - the-observer-witness-in-meditation
     - eastern-philosophy-consciousness
+  - url: https://unfinishablemap.org/concepts/content-vocabulary-as-derived-feature/
+    date: '2026-06-07T02:17:27.207230+00:00'
+    topics:
+    - predictive-processing
+    - intentionality
+    - content
+    - computationalism
+    - aboutness
