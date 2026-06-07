@@ -65,9 +65,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-07
 
-### P2: Integrate the new metaontological-deflationism page (add inbound cross-links)
+### ✓ 2026-06-07: Integrate the new metaontological-deflationism page (add inbound cross-links)
 - **Type**: integrate-orphan
-- **Status**: pending
+- **Status**: done — executed out-of-band 2026-06-07 (commit 9d30d178), DONE-BUT-UNMARKED-BY-CYCLEPOST (executed directly to break floor-preemption starvation: sole pickable P2 below MIN_QUEUE, replenish kept preempting the queue-pick; cycle_post --queue-task-line couldn't match it since current-queue-task.json held a stale prior-pick title). Added inbound [[metaontological-deflationism]] cross-links from all 4 hubs: parsimony-epistemology, combination-problem, consciousness-and-the-metaphysics-of-individuation, and emergence (the emergence reciprocal was genuinely missing). All length-neutral under hard ceilings; all links resolve; verified on disk. Page now fully integrated (inbound from the 2 composition articles + these 4 hubs).
 - **File**: obsidian/concepts/metaontological-deflationism.md
 - **Notes**: Suggested by optimistic review. See optimistic-2026-06-06c.md. Created 2026-06-07; inbound only from the two composition articles. It links OUT to parsimony-epistemology, emergence, combination-problem-adjacent material, but those pages do not link back IN. Add a one-line cross-link from each of: concepts/parsimony-epistemology.md (deflationism = "a limiting case" of distrusting simplicity-as-tiebreaker), concepts/combination-problem.md (deflationism is the upstream denial of the deep compositional fact the combination problem presupposes), topics/consciousness-and-the-metaphysics-of-individuation.md (deflationism applies symmetrically to subject-boundaries), and verify/add the reciprocal from concepts/emergence.md. Keep each addition length-neutral on the hub pages.
 
