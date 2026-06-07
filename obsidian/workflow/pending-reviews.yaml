@@ -590,3 +590,38 @@
   subject_articles:
   - topics/duhem-quine-underdetermination-consciousness.md
   subject_source: reuse:pending-reviews:outer-review-2026-06-07-chatgpt-5-5-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/d7c55b6f9773d65e
+  commissioned_at: '2026-06-07T04:06:09.709460+00:00'
+  prompt_summary: 'Hostile referee audit: duhem-quine-underdetermination-consciousness'
+  target_filename: outer-review-2026-06-07-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (e.g., Mind, Synthese, Philosophical Studies) reviewing an article for
+    submission. Your remit is to identify weaknesses that would justify rejection
+    or major revision. The article is at https://unfinishablemap.org/topics/duhem-quine-underdetermination-consciousness/
+    and makes claims about underdetermination in consciousness science; the site argues
+    for a non-reductive view of consciousness. Recent edits are logged at https://unfinishablemap.org/workflow/changelog/
+    (web index lag is 24-48h). Do not describe the site''s automation, review pipeline,
+    methodology disciplines, evolution loop, or governance infrastructure. Those are
+    project-internal and not the subject of audit. Assess only the article''s empirical
+    claims, citations, counterargument coverage, and logical inferences. Do not list
+    the site''s tenets, and do not frame the article as a useful testbed for dualism;
+    discover its commitments by reading it. Audit four dimensions: (a) empirical accuracy
+    against the 2020s literature, especially the 2025 COGITATE IIT-vs-GWT adversarial
+    collaboration; (b) challenged, retracted, or failed-to-replicate results it relies
+    on; (c) places where a claim is bracketed by a tenet rather than argued; (d) untested
+    counterarguments or competing frameworks (e.g., that better experiments or theory
+    could dissolve the underdetermination). End your report with at least five specific
+    weaknesses, each with at least one peer-reviewed 2020-2025 source the article
+    omits, contradicts, or mishandles, and a one-sentence verdict on academic-submission
+    readiness. If you cannot find five, state explicitly why. Do not append summary
+    praise about the site''s strengths, methodology, or architecture.'
+  subject_type: recent
+  subject_title: Audit duhem-quine-underdetermination-consciousness
+  subject_articles:
+  - topics/duhem-quine-underdetermination-consciousness.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-07-chatgpt-5-5-pro.md
