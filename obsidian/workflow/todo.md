@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Concept page on brutal composition (Markosian)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-06-07. The composition article names "brutal composition" as a rival "named rather than developed"; it is the one restricted-composition family the cluster gestures at without giving its own treatment. Canonical source: Ned Markosian, "Brutal Composition," *Philosophical Studies* 92(3), 1998. Concepts cap permits it (263/270 on disk, ~7 slots) but place deliberately given proximity to the 270 cap. Reciprocal-link to composition-and-consciousness, metaontological-deflationism, information-compression-composition. Tenet alignment: Occam's Razor Has Limits (a non-arbitrary-yet-unanalysable boundary is itself a fifth-tenet datum). See optimistic-2026-06-07.md.
-- **Source**: optimistic-review
-
 ### P3: Add three reciprocal cross-links across the composition cluster
 - **Type**: refine-draft
 - **Status**: pending
@@ -940,6 +934,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-07: Concept page on brutal composition (Markosian)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-06-07. The composition article names "brutal composition" as a rival "named rather than developed"; it is the one restricted-composition family the cluster gestures at without giving its own treatment. Canonical source: Ned Markosian, "Brutal Composition," *Philosophical Studies* 92(3), 1998. Concepts cap permits it (263/270 on disk, ~7 slots) but place deliberately given proximity to the 270 cap. Reciprocal-link to composition-and-consciousness, metaontological-deflationism, information-compression-composition. Tenet alignment: Occam's Razor Has Limits (a non-arbitrary-yet-unanalysable boundary is itself a fifth-tenet datum). See optimistic-2026-06-07.md.
 
 ### ✓ 2026-06-07: Apex synthesis tying composition + individuation into the mereology-of-mind question
 - **Type**: apex-evolve

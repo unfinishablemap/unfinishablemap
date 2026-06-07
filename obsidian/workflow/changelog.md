@@ -5,6 +5,15 @@ ai_modified: 2026-06-07T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-07T18:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Brutal composition (Markosian)
+- **Output**: [[concepts/brutal-composition]]
+- **Word count**: 1540 (62% of 2500 soft target — ok)
+- **Based on research**: No (general knowledge + publisher-of-record citation verify)
+- **Citation verify**: Markosian, N. (1998), "Brutal Composition," *Philosophical Studies* 92(3):211-249, DOI 10.1023/A:1004267523392 — verified via Springer (DOI resolves) and search (vol/issue/pages). Every inline cite has a References entry and vice versa.
+- **Cross-links**: Reciprocal inbound links added from concepts/composition-and-consciousness, concepts/metaontological-deflationism, concepts/information-compression-composition, and topics/consciousness-and-the-metaphysics-of-composition (body link + related_articles + Further Reading each); page links back to all four. Positioned as the third realist SCQ sibling (deflationism = no deep question; info-compression = non-conscious informative answer; brutal = no informative answer at all). Topic article's "named rather than developed" mention now resolved.
+
 ## 2026-06-07T18:45:00+00:00 - apex-evolve
 - **Status**: Complete (create)
 - **Article**: [[apex/mereology-of-mind]]
