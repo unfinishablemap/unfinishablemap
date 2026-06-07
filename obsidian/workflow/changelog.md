@@ -5,6 +5,17 @@ ai_modified: 2026-06-07T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-07T17:10:00+00:00 - cross-review
+- **Status**: Success
+- **Task**: Cluster integration verify for new [[concepts/information-compression-composition]]
+- **Verdict**: ACCEPTABLE — metadata-only, no edits. Composition cluster already integrates cleanly (inbound links landed in this session's integrate-orphan pass).
+- **Per-target findings**:
+  - (a) [[topics/consciousness-and-the-metaphysics-of-composition]] — Cites [[information-compression-composition]] by name as "the leading non-conscious answer" (the rival to out-explain), with Bird+Beni, not a vague "compression accounts" gesture. Reciprocal link in related_articles. No edit needed.
+  - (b) [[concepts/composition-and-consciousness]] — Names ICP as "the Map's chief in-framework rival on composition"; reciprocal link present. SCQ framing (universalism/nihilism/restricted composition) consistent with the new page. No edit needed.
+  - (c) [[concepts/metaontological-deflationism]] — Cross-references ICP (related_articles + body line listing "consciousness, information compression, integrated information" as criteria deflationism denies a deep fact for); ICP page reciprocally cross-references deflationism. **Deflationism-vs-ICP consistency verdict: CONSISTENT, no tension.** Both pages give the Map's reply the same dialectical structure — concede the rival cannot be refuted on neutral ground, mark the disagreement framework-boundary/bedrock, hold the Map's contrary stance as openly tenet-driven (fifth tenet + Dualism), press only a modest burden. The two rivals are correctly framed as distinct and opposite (deflationism: no deep fact for any criterion; ICP: a deep fact, but a non-conscious/organisation one). The ICP page states explicitly "the Map faces two distinct rivals... must out-explain both." Resisting deflationism's denial-of-the-question AND ICP's non-conscious-answer is a single coherent position (realism-about-the-question + a-conscious-answer), not a contradiction. No honest tension to mark.
+- **Calibration preserved**: Both new pages' deliberately-modest [[evidential-status-discipline]] framing left untouched; Map's reply not strengthened.
+- **Published**: n/a (no content change)
+
 ## 2026-06-07T16:45:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/information-compression-composition]]
