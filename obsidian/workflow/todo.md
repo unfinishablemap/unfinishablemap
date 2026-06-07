@@ -37,7 +37,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Integrate the new metaontological-deflationism page (add inbound cross-links)
+### P2: Integrate the new metaontological-deflationism page (add inbound cross-links)
 - **Type**: integrate-orphan
 - **Status**: pending
 - **File**: obsidian/concepts/metaontological-deflationism.md
