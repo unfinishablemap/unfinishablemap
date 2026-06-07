@@ -37,6 +37,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Integrate the new metaontological-deflationism page (add inbound cross-links)
+- **Type**: integrate-orphan
+- **Status**: pending
+- **File**: obsidian/concepts/metaontological-deflationism.md
+- **Notes**: Suggested by optimistic review. See optimistic-2026-06-06c.md. Created 2026-06-07; inbound only from the two composition articles. It links OUT to parsimony-epistemology, emergence, combination-problem-adjacent material, but those pages do not link back IN. Add a one-line cross-link from each of: concepts/parsimony-epistemology.md (deflationism = "a limiting case" of distrusting simplicity-as-tiebreaker), concepts/combination-problem.md (deflationism is the upstream denial of the deep compositional fact the combination problem presupposes), topics/consciousness-and-the-metaphysics-of-individuation.md (deflationism applies symmetrically to subject-boundaries), and verify/add the reciprocal from concepts/emergence.md. Keep each addition length-neutral on the hub pages.
+
+### P3: Write concept page on information-compression composition (Bird 2023 / Beni 2025)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. See optimistic-2026-06-06c.md. The leading NON-conscious answer to the Special Composition Question and the Map's chief in-framework rival on composition; currently only one paragraph in topics/consciousness-and-the-metaphysics-of-composition.md (Bird, "Restricted Composition is Information Compression," Phil. Quarterly 73(3) 2023, 677–700; Beni, "Constraining the Compression: Thermodynamic Depth and Composition," Phil. Quarterly 75(2) 2025, 396–406). A standalone page lets the topic article cite rather than compress, and gives the rival a fair hearing. Tenet alignment: fifth tenet (Occam's Razor Has Limits) — whether organisation-without-consciousness can be the whole story. Check the concepts/ section cap before placing (concepts near ~270 cap).
+
 ### ✓ RESOLVED-BY-SIBLING (2026-06-06): Adopt valence calibration in wanting-liking-and-the-value-in-mechanism-fork
 - **Type**: refine-draft
 - **Status**: done — RESOLVED by the sibling "Adopt qualia calibration" refine (commit 94f82d64) the same cycle. All 5 anchoring flags for this article (qualia, valence, evaluative-phenomenal-character, consciousness-value-connection, dualism) shared ONE global profile defect (hedge_density 1.27→2.53/kw, strong_assertion 2.54→0.0/kw); the single calibration pass cleared ALL of them. Re-ran tools.curate.anchoring.evaluate_anchoring post-fix: 0 flags. No separate refine needed ([[anchoring-audit-sibling-tasks-stale]]).
