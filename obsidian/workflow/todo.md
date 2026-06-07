@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Acknowledge contested status of contrastive underdetermination + Duhem's scope restriction (duhem-quine article)
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/duhem-quine-underdetermination-consciousness.md
-- **Notes**: From outer review 2026-06-07 (Claude Opus 4.8). CONVERGES with the ChatGPT scope-creep finding but adds a distinct philosophy-of-science-literature gap the ChatGPT tasks do not cover. The article presents contrastive/empirical-equivalence underdetermination as a settled result; it is the contested form. Add (length-permitting, coordinate with the calibration ceiling): (a) cite Laudan & Leplin (1991), "Empirical Equivalence and Underdetermination," *Journal of Philosophy* 88(9):449–472 — their point that empirically equivalent theories can still differ in evidential support is load-bearing against the article's later "neither programme can claim evidential supremacy" parity move; WEB-VERIFY the citation before inserting. (b) Note Laudan's "Demystifying Underdetermination" and that Quine himself later downgraded underdetermination to "not much more than a conjecture." (c) Add one sentence acknowledging Duhem explicitly confined confirmation holism to physics (excluding physiology, certain chemistry, logic/mathematics) — and address why that does not defeat the "deeper in consciousness science" thesis rather than leaving the omission looking evasive. Apply [[evidential-status-discipline]]: scope every downstream use of "underdetermination" to the form actually licensed (holist is secure; contrastive is contested). Preserve calibration/hedge language; enforce the length ceiling. May share a pass with the consolidated P1 ChatGPT refine if length permits.
-- **Review file**: `reviews/outer-review-2026-06-07-claude-opus-4-8.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-07
-
 ### P2: Engage the IIT "pseudoscience" dispute with calibration (duhem-quine + IIT articles)
 - **Type**: refine-draft
 - **Status**: pending
@@ -987,6 +978,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-07: Acknowledge contested status of contrastive underdetermination + Duhem's scope restriction (duhem-quine article)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-07 (Claude Opus 4.8). CONVERGES with the ChatGPT scope-creep finding but adds a distinct philosophy-of-science-literature gap the ChatGPT tasks do not cover. The article presents contrastive/empirical-equivalence underdetermination as a settled result; it is the contested form. Add (length-permitting, coordinate with the calibration ceiling): (a) cite Laudan & Leplin (1991), "Empirical Equivalence and Underdetermination," *Journal of Philosophy* 88(9):449–472 — their point that empirically equivalent theories can still differ in evidential support is load-bearing against the article's later "neither programme can claim evidential supremacy" parity move; WEB-VERIFY the citation before inserting. (b) Note Laudan's "Demystifying Underdetermination" and that Quine himself later downgraded underdetermination to "not much more than a conjecture." (c) Add one sentence acknowledging Duhem explicitly confined confirmation holism to physics (excluding physiology, certain chemistry, logic/mathematics) — and address why that does not defeat the "deeper in consciousness science" thesis rather than leaving the omission looking evasive. Apply [[evidential-status-discipline]]: scope every downstream use of "underdetermination" to the form actually licensed (holist is secure; contrastive is contested). Preserve calibration/hedge language; enforce the length ceiling. May share a pass with the consolidated P1 ChatGPT refine if length permits.
 
 ### ✓ 2026-06-07: Add symmetry/equal-risk passages to duhem-quine article (apply Duhem-Quine to the Map's own hard core)
 - **Type**: refine-draft

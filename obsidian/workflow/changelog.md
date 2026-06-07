@@ -5,6 +5,17 @@ ai_modified: 2026-06-07T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-07T07:21:09+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/duhem-quine-underdetermination-consciousness]]
+- **Task**: Claude Opus 4.8 outer review 2026-06-07 — contested contrastive/empirical-equivalence underdetermination gap
+- **Load-bearing fix (a)**: Scoped the two forms of underdetermination explicitly — holist form is secure (logic of testing, undisputed); contrastive/empirical-equivalence form is contested. Cited **Laudan & Leplin (1991), "Empirical Equivalence and Underdetermination," J. Phil. 88(9):449-472** (web-verified at publisher of record, PDC jphil_1991_0088_0009_0449_0472 — accurate). Their data-equivalence vs. evidential-support distinction directly counters the article's parity move. Propagated the scoping to the three downstream sites that previously treated the contrastive form as settled: the holist/contrastive intro, the COGITATE "textbook case of contrastive underdetermination" claim (now "apparent case... 'admits interpretation under both' is weaker than 'supports both equally'"), and the "equal evidential footing" caution in Relation to Site Perspective (now notes empirical equivalence ≠ evidential equivalence; programmes can draw indirect support through shared auxiliaries).
+- **Deferred (b)/(c)**: Laudan "Demystifying Underdetermination" + Quine's "conjecture" downgrade, and the Duhem-confined-to-physics sentence — DEFERRED for length. Article was at 3875w/4000 hard ceiling; the (a) fix + clawback landed at 3998w. No room for (b)/(c) without gutting calibration content.
+- **Clawback**: trimmed ~60w of non-calibration slack (Duhem-Quine exposition, COGITATE decoding paragraph, Stanford section, phenomenal-concepts, Seth quote attribution) to absorb the additions. Preserved all calibration/hedge/symmetry language.
+- **Final body word count**: 3998 / 4000 hard (tools.curate.length confirmed, status soft_warning) — UNDER ceiling.
+- **Ceiling note**: This is the 4th refine on this article. It is now effectively at its 4000 ceiling. The deferred (b)/(c) items AND the separately-queued Bayesian-dissolution P1 should be folded into a single consolidation pass or flagged as a HUMAN LENGTH-DECISION — this is a calibration-anchor; do not auto-condense load-bearing content.
+- **Published**: yes
+
 ## 2026-06-07T06:48:00+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [[topics/clinical-dissociation-as-systematic-evidence]], [[topics/dissociative-states-as-intact-substrate-interface-evidence]]
