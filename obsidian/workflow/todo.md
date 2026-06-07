@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address pessimistic-review findings in concepts/information-compression-composition.md
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/information-compression-composition.md
+- **Notes**: Pessimistic review 2026-06-07 (citations + all load-bearing quotes web-verified CLEAN; no boundary-substitution; no label leakage — these are dialectical/prose findings, not factual). Three targeted, length-neutral fixes; PRESERVE the article's deliberately-modest calibration and its honest framework-boundary framing (do NOT strengthen the Map's reply beyond what the parent articles license; over-hedge risk). (1) MEDIUM, line ~58: the load-bearing "two experiential viewpoints do not compress into a third the way two grains' trajectories compress into a pebble's" is an intuition-pump analogy delivered where it reads as in-framework work. Either supply the actual disanalogy (first-person givenness / perspectival ownership is not a redescription-for-economy) OR sharpen the existing posit-flag so the analogy reads as illustrating the Map's posit, not as evidence for it. A compressionist would say a unified subject is the paradigm of efficient compression, so the example can cut the other way — pre-empt that. (2) LOW-MEDIUM, line ~60: "observationally matched over the inanimate cases" overclaims — Bird and Beni themselves diverge on the inanimate boundary (Bird counts every compressible plurality; Beni's FEP/entropy criterion is narrower), so there is no single "compression answer" with one matched verdict. Qualify to "central inanimate cases" or note the intra-rival divergence. (3) LOW, line ~38: drop the editor-facing imperative "and must be preserved" from "Three qualifiers do real work and must be preserved." — keep the substance, remove the instruction-to-editor register slip. See pessimistic-2026-06-07.md.
+- **Source**: pessimistic-review
+
 ### P3: Cross-review the composition cluster considering concepts/information-compression-composition.md insights
 - **Type**: cross-review
 - **Status**: pending
