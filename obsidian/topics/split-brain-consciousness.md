@@ -4,7 +4,7 @@ description: "Split-brain surgery, anaesthesia, and dissociation each fracture c
 created: 2026-01-14
 modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-05-26T16:30:00+00:00
+ai_modified: 2026-06-07T11:18:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -65,6 +65,8 @@ In the 1960s, Roger Sperry and Michael Gazzaniga studied corpus callosotomy pati
 
 Sperry concluded these patients had "two separate spheres of conscious awareness... running in parallel in the same cranium, each with its own sensations, perceptions, cognitive processes, learning experiences, memories." This picture of consciousness literally splitting captured the imagination. Recent research suggests it is incomplete.
 
+A point worth stating plainly at the outset: the classic disconnection findings are underdetermined by the evidence. The behavioural dissociations are compatible with either reading — two genuinely separate streams of consciousness, or a single consciousness whose capacity for inter-hemispheric *access and report* has been disrupted. Sperry's report-based experiments cannot adjudicate between a divided experiencer and a unified experiencer whose left hemisphere simply cannot speak for what the right one perceives. The interpretation that gets read off the data is not forced by the data; it is supplied by the framework one brings to it.
+
 ## The Resilience of Unity
 
 An October 2025 PNAS study (Santander et al.) from UC Santa Barbara complicates the classic picture. Using fMRI on callosotomy patients, researchers found that a fraction of intact posterior corpus callosum fibers can sustain full interhemispheric integration. As senior author Michael Miller noted: "The corpus callosum consists of about 250 million axons, but you need only a small bundle of them to have full synchrony." In one patient, networks had rerouted across a small remaining ribbon of callosum — undermining the assumption that tightly synchronized brain areas must be directly connected.
@@ -107,7 +109,7 @@ The [[clinical-dissociation-as-systematic-evidence|clinical dissociation article
 
 ## The Interface Argument
 
-What demonstrably fragments across all three cases is a physical system: callosal connectivity, cortical phase coupling, or trauma-disrupted memorial systems. The behavioural evidence establishes that the *expression* of consciousness is disrupted — not that the [[phenomenal-consciousness|phenomenal]] subject has divided.
+What demonstrably fragments across all three cases is a physical system: callosal connectivity, cortical phase coupling, or trauma-disrupted memorial systems. The behavioural evidence reaches only as far as the *expression* of consciousness being disrupted — not that the [[phenomenal-consciousness|phenomenal]] subject has divided.
 
 The interface argument makes this distinction explicit. Consciousness interacts with the physical world through the brain. When the interface fragments, output fragments — but the signal source need not have divided. A damaged receiver produces garbled output without the broadcast signal having changed.
 
@@ -129,11 +131,11 @@ The **duality intuition** says a split-brain patient has two minds, each with it
 
 If consciousness exhibits partial division, what individuates subjects over time? The [[consciousness-and-the-metaphysics-of-individuation|individuation question]] becomes acute, and the [[vertiginous-question]] intensifies when division creates ambiguity about which continuation is "me." Standard answers struggle: **psychological continuity** assumes continuous streams — which stream? **Biological continuity** identifies the person with the body — but the brain is divided. **Non-physical persistence** faces its own puzzle — which hemisphere "gets" the soul?
 
-[[haecceity]] — the non-qualitative property of being *this* particular subject — becomes relevant. If what makes you *you* is not reducible to qualitative features, both hemispheres may share the *same* haecceity in some attenuated sense, explaining why patients feel like one person despite perceptual division. The apex [[identity-across-transformations]] develops this: the dimension of unity most tied to indexical identity proves most resistant to physical intervention.
+[[haecceity]] — the non-qualitative property of being *this* particular subject — becomes relevant. If what makes you *you* is not reducible to qualitative features, both hemispheres may share the *same* haecceity in some attenuated sense, explaining why patients feel like one person despite perceptual division. The apex [[identity-across-transformations]] develops this: the dimension of unity most tied to indexical identity appears most resistant to physical intervention.
 
 ## What the Fragmentation Evidence Shows
 
-### Neither Proves Nor Refutes Dualism
+### The Evidence Settles Neither Side
 
 A common assumption holds that split-brain cases support materialism by showing consciousness depends entirely on brain structure. This moves too fast. Both dualists and materialists predict that altering the brain alters consciousness — the question is whether consciousness *reduces* to brain states.
 

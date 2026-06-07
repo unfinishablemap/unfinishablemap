@@ -5,6 +5,17 @@ ai_modified: 2026-06-07T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-07T11:18:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/split-brain-consciousness]]
+- **Trigger**: anchoring-calibration (topic-concept anchoring audit). Topic failed its anchor [[neural-correlates-of-consciousness]] on `strong_assertions` (4 verbs, 1.31/kw vs anchor's 0; allowance 0.5/kw) and `underdetermination_markers` (anchor 1×, topic 0).
+- **Changes**:
+  - Softened 4 strong-assertion verbs that overstated what the split-brain evidence supports: "establishes that the *expression*…" → "reaches only as far as the *expression*…" (interface section); "proves most resistant" → "appears most resistant" (haecceity section); header "Neither Proves Nor Refutes Dualism" → "The Evidence Settles Neither Side" (cleared both "proves" and "refutes").
+  - Added explicit underdetermination acknowledgment after Sperry's two-streams conclusion: the classic disconnection findings are underdetermined by the evidence — compatible with either a divided experiencer or a unified experiencer with disrupted inter-hemispheric access/report; the interpretation is supplied by the framework, not forced by the data ([[evidential-status-discipline]]). No new citations required (used existing Sperry/Pinto framing).
+- **Calibration result**: strong_assertion density 1.31 → 0.0/kw; underdetermination markers 0 → 2. `evaluate_anchoring` now returns no flags. Central filter/interface claim and voice preserved (not weakened).
+- **Length**: 3063 → 3161 body words (soft_warning, under 4000 hard ceiling; +98 for the load-bearing underdetermination paragraph). No human length-decision needed.
+- **Published**: yes
+
 ## 2026-06-07T13:00:00+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/medium-status-voids-in-cognition]]
