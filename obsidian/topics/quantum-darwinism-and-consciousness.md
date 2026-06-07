@@ -4,7 +4,7 @@ description: "Zurek's quantum Darwinism explains classical reality's emergence t
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-06-04T10:59:25+00:00
+ai_modified: 2026-06-07T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,6 +26,7 @@ related_articles:
   - "[[weak-measurement-and-post-selection]]"
   - "[[comparing-quantum-consciousness-mechanisms]]"
   - "[[post-decoherence-selection-programme]]"
+  - "[[pragmatist-quantum-foundations-and-the-agent]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

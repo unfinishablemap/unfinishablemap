@@ -5,6 +5,20 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-07T00:00:00+00:00 - refine-draft (content gap: quantum Darwinism)
+- **Status**: Success
+- **File**: [[topics/qm-interpretations-beyond-many-worlds]]
+- **Task**: optimistic-2026-06-05e — survey covered Copenhagen/Bohmian/QBism/RQM/transactional/objective-collapse but had 0 mentions of quantum Darwinism / einselection / Zurek despite a fully-developed sibling and its own decoherence/comparative sections bordering on it.
+- **Changes**:
+  - Added ~120w subsection "Quantum Darwinism: Decoherence Extended to Objectivity" after the Decoherence Challenge section (its natural extension): einselection + redundant encoding answer preferred-basis/objectivity, problem of outcomes survives intact = Map's selection locus, Zurek's own leanings Everettian (the exact "beyond many-worlds" contrast). Routes full treatment to [[quantum-darwinism-and-consciousness]].
+  - Added comparative-assessment table row (Quantum Darwinism | No (outcome gap) | Selection locus left open (Zurek leans Everettian) | Moderate–High).
+  - Calibration: honoured [[evidential-status-discipline]] explicitly in-prose — "leaves room for a selection role but does not support one; the outcome gap is the Map's interpretive overlay, not a result the formalism delivers" (mirrors the article's own "leave room ≠ supports" critical distinction).
+  - Citation: added Zurek (2009), Quantum Darwinism, *Nature Physics* 5(3):181–188 (ref 25) — same canonical reference already verified in the sibling article; no new unverified metadata introduced.
+  - Cross-links: added [[quantum-darwinism-and-consciousness]] to survey related_articles + Further Reading; reciprocated the missing pragmatist↔quantum-darwinism link both directions via frontmatter related_articles (shared "outcome gap = selection locus" move).
+- **Length**: body 3452 → 3637 words (under 4000 topics hard threshold). LENGTH-SAFE.
+- **Engagement classification**: Zurek (named opponent) — Mode Three; the disagreement (his Everettian/existential dissolution vs the Map's No-Many-Worlds selection reading) is framework-boundary, noted honestly, not refuted inside Zurek's framework.
+- **Published**: yes
+
 ## 2026-06-07T00:00:00+00:00 - refine-draft (methodology, assess-first)
 - **Status**: Success
 - **File**: [[project/calibration-audit-triple]]

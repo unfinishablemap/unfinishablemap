@@ -4,7 +4,7 @@ description: "QBism, Healey, Brukner-Zeilinger, and Stapp all place an agent at 
 created: 2026-04-04
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-06-05T21:29:25+00:00
+ai_modified: 2026-06-07T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,6 +32,7 @@ related_articles:
   - "[[indexical-identity-quantum-measurement]]"
   - "[[quantum-measurement-and-consciousness]]"
   - "[[the-agent-shaped-hole]]"
+  - "[[quantum-darwinism-and-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7

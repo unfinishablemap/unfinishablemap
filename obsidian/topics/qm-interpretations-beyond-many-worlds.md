@@ -4,7 +4,7 @@ description: "A survey of QM interpretations—Copenhagen, Bohmian, QBism, relat
 created: 2026-01-23
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-06-04T17:22:19+00:00
+ai_modified: 2026-06-07T00:00:00+00:00
 last_deep_review: 2026-06-04T17:22:19+00:00
 draft: false
 topics:
@@ -33,6 +33,7 @@ related_articles:
   - "[[indexical-identity-quantum-measurement]]"
   - "[[what-consciousness-tells-us-about-physics]]"
   - "[[pragmatist-quantum-foundations-and-the-agent]]"
+  - "[[quantum-darwinism-and-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -112,6 +113,10 @@ Any interpretation that assigns consciousness a role in quantum mechanics must a
 
 This challenge cuts across interpretations. It applies to von Neumann-Wigner consciousness-causes-collapse, to Stapp's quantum Zeno approach, and to consciousness-modulated CSL. The Map does not dismiss it. However, Hagan et al. (2002) argued that Tegmark's model oversimplified the relevant neural structures, and the 2024 epothilone B study by Khan et al. showed that microtubule-stabilising drugs delay anaesthetic-induced unconsciousness—indirect evidence that quantum effects at biological sites may be more robust than Tegmark's estimate assumed. The decoherence objection remains serious but not decisive.
 
+## Quantum Darwinism: Decoherence Extended to Objectivity
+
+Zurek's quantum Darwinism is the most developed account of the quantum-to-classical transition and the natural extension of the decoherence challenge above. *Einselection* destroys all but the environmentally robust pointer states; redundant encoding then copies pointer-state information into many environmental fragments, so independent observers agree on what they find (Zurek 2009). This answers the preferred-basis problem and explains classical objectivity—but the *problem of outcomes* survives intact. The formalism yields a Born-weighted mixture of pointer states without determining which obtains. The Map reads this residual gap as the selection locus, while honouring the discipline above: quantum Darwinism *leaves room for* a selection role but does not *support* one, and the outcome gap is the Map's interpretive overlay, not a result the formalism delivers. Tellingly, Zurek's own leanings are Everettian—the exact contrast this survey exists to draw. Full treatment: [[quantum-darwinism-and-consciousness]].
+
 ## Comparative Assessment
 
 | Interpretation | Collapse? | Consciousness Role | Map Compatibility |
@@ -123,6 +128,7 @@ This challenge cuts across interpretations. It applies to von Neumann-Wigner con
 | Transactional/TSVF | Via transaction | Atemporal selection | High |
 | GRW/CSL | Physical process | None (standard) / Modulation (variants) | Moderate–High |
 | Penrose OR | Gravitational | Constituted by collapse | Moderate |
+| Quantum Darwinism | No (outcome gap) | Selection locus left open (Zurek leans Everettian) | Moderate–High |
 
 The pattern is clear. Interpretations that eliminate the observer entirely (Bohmian) or treat observation as purely epistemic (QBism) leave the Map's questions unanswered. Interpretations that preserve real collapse and allow consciousness a role—whether as cause, selector, or modulator—provide the framework the Map needs.
 
@@ -158,6 +164,7 @@ No interpretation is proven. The Map does not claim to know which is correct. Wh
 - [[retrocausality]]
 - [[atemporal-causation]] — Causation outside temporal sequence
 - [[process-philosophy]] — How actual occasions relate to quantum becoming
+- [[quantum-darwinism-and-consciousness]] — Zurek's einselection and the outcome gap as selection locus
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-quantum interaction
 - [[indexical-identity-quantum-measurement]] — Why the indexical gap persists across all interpretations
 - [[hard-problem-of-consciousness]] — Why consciousness is the explanatory target
@@ -189,3 +196,4 @@ No interpretation is proven. The Map does not claim to know which is correct. Wh
 22. Sebens, C. T., & Carroll, S. M. (2018). Self-locating uncertainty and the origin of probability in Everettian quantum mechanics. *British Journal for the Philosophy of Science*, 69(1), 25–74.
 23. Lewis, P. J. (2007). Uncertainty and probability for branching selves. *Studies in History and Philosophy of Modern Physics*, 38, 1–14.
 24. Friederich, S., & Dawid, R. (2022). Epistemic separability and Everettian branches: a critique of Sebens and Carroll. *British Journal for the Philosophy of Science*, 73(3), 711–736.
+25. Zurek, W. H. (2009). Quantum Darwinism. *Nature Physics*, 5(3), 181–188.
