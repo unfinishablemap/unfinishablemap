@@ -5,6 +5,17 @@ ai_modified: 2026-06-07T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-07T19:45:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/brutal-composition]]
+- **Word count**: 1540 → 1632 (+92)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (softened "fifth-tenet evidence" → "fifth-tenet illustration" with explicit "not empirical confirmation" clarifier — possibility/probability calibration)
+- **Enhancements made**: 1 (added Markosian's own Eiffel Tower / Giza pyramid concrete examples)
+- **Citation web-verify**: Markosian 1998 (Phil Studies 92(3):211–249, DOI 10.1023/A:1004267523392) — real-correct; Van Inwagen 1990 (Material Beings, Cornell UP, Ch.2 SCQ) — real-correct. No superlative claims.
+- **Reasoning mode**: engagement with Markosian — Mode Two/Three mixed (in-framework burden + honest residue); no boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-07-brutal-composition]]
+
 ## 2026-06-07T18:30:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Brutal composition (Markosian)
