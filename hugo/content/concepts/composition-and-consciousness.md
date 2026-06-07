@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-01
-ai_modified: 2026-06-07 00:00:00+00:00
+ai_modified: 2026-06-07 17:35:00+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -35,6 +35,7 @@ related_articles:
 - '[[information-compression-composition]]'
 - '[[consciousness-and-the-metaphysics-of-individuation]]'
 - '[[born-rule-and-the-consciousness-interface]]'
+- '[[mereology-of-mind]]'
 - '[[consciousness-metaphysics-of-composition-2026-04-05]]'
 title: Composition and Consciousness
 topics:

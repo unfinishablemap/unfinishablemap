@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-06-07 00:00:00+00:00
+ai_modified: 2026-06-07 17:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,6 +28,7 @@ related_articles:
 - '[[quantum-holism-and-phenomenal-unity]]'
 - '[[metaontological-deflationism]]'
 - '[[information-compression-composition]]'
+- '[[mereology-of-mind]]'
 - '[[consciousness-metaphysics-of-composition-2026-04-05]]'
 title: Consciousness and the Metaphysics of Composition
 topics:
@@ -150,6 +151,7 @@ The convergence of composition theories on consciousness lends suggestive suppor
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's alternative to compositional accounts
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap that composition theories reveal
 - [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — The complementary question: what draws boundaries around conscious subjects
+- [mereology-of-mind](/apex/mereology-of-mind/) — The synthesis joining composition and individuation through the de-combination hinge
 
 ## References
 

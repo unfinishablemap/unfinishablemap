@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-07
-ai_modified: 2026-06-07 16:34:56+00:00
+ai_modified: 2026-06-07 17:35:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -23,6 +23,7 @@ related_articles:
 - '[[composition-and-consciousness]]'
 - '[[consciousness-and-the-metaphysics-of-composition]]'
 - '[[metaontological-deflationism]]'
+- '[[mereology-of-mind]]'
 - '[[tenets]]'
 title: Information-Compression Composition
 topics:

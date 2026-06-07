@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-06-07 13:30:00+00:00
+ai_modified: 2026-06-07 17:35:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -37,6 +37,7 @@ related_articles:
 - '[[surprise-prediction-error-and-consciousness]]'
 - '[[categorical-surprise]]'
 - '[[metaontological-deflationism]]'
+- '[[mereology-of-mind]]'
 title: Consciousness and the Metaphysics of Individuation
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -153,6 +154,7 @@ The individuation question connects to all five of the Map's [tenets](/tenets/),
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The indexical gap at quantum measurement: why *this* consciousness experiences *this* outcome
 - [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — What makes experience belong to a subject
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Why parsimony bias may systematically favour simpler individuation accounts
+- [mereology-of-mind](/apex/mereology-of-mind/) — The synthesis joining individuation to composition through the de-combination hinge
 
 ## References
 

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Apex synthesis tying composition + individuation into the mereology-of-mind question
-- **Type**: apex-evolve
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-06-07. The composition/individuation cluster (topics/consciousness-and-the-metaphysics-of-composition, topics/consciousness-and-the-metaphysics-of-individuation, concepts/composition-and-consciousness, concepts/information-compression-composition, concepts/metaontological-deflationism, combination-problem) is mature and tightly cross-linked but lacks a single human-readable synthesis joining "what makes a whole?" (composition) and "what bounds a subject?" (individuation). The de-combination problem (Miller 2018, *Ratio* 31(2):137-154) is the natural hinge. Apex (does NOT consume topics cap, which is at 270/270 on disk). PRESERVE the cluster's exemplary calibration — tenet commitments break ties only where evidence runs out ("tenet-coherent, not evidence-elevating"); do NOT upgrade the convergence above "suggestive". See optimistic-2026-06-07.md.
-- **Source**: optimistic-review
-
 ### P3: Concept page on brutal composition (Markosian)
 - **Type**: expand-topic
 - **Status**: pending
@@ -946,6 +940,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-07: Apex synthesis tying composition + individuation into the mereology-of-mind question
+- **Type**: apex-evolve
+- **Notes**: Suggested by optimistic review 2026-06-07. The composition/individuation cluster (topics/consciousness-and-the-metaphysics-of-composition, topics/consciousness-and-the-metaphysics-of-individuation, concepts/composition-and-consciousness, concepts/information-compression-composition, concepts/metaontological-deflationism, combination-problem) is mature and tightly cross-linked but lacks a single human-readable synthesis joining "what makes a whole?" (composition) and "what bounds a subject?" (individuation). The de-combination problem (Miller 2018, *Ratio* 31(2):137-154) is the natural hinge. Apex (does NOT consume topics cap, which is at 270/270 on disk). PRESERVE the cluster's exemplary calibration — tenet commitments break ties only where evidence runs out ("tenet-coherent, not evidence-elevating"); do NOT upgrade the convergence above "suggestive". See optimistic-2026-06-07.md.
 
 ### ✓ 2026-06-07: Deep review topics/neural-refresh-rates-and-the-smoothness-problem.md (changed-since-review staleness, gap ~8d)
 - **Type**: deep-review

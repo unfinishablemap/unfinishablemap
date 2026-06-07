@@ -4,7 +4,7 @@ description: "Bird's answer to the Special Composition Question—parts compose 
 created: 2026-06-07
 modified: 2026-06-07
 human_modified:
-ai_modified: 2026-06-07T16:34:56+00:00
+ai_modified: 2026-06-07T17:35:00+00:00
 last_deep_review: 2026-06-07T16:34:56+00:00
 draft: false
 topics:
@@ -18,6 +18,7 @@ related_articles:
   - "[[composition-and-consciousness]]"
   - "[[consciousness-and-the-metaphysics-of-composition]]"
   - "[[metaontological-deflationism]]"
+  - "[[mereology-of-mind]]"
   - "[[tenets]]"
 ai_contribution: 100
 author:

@@ -4,7 +4,7 @@ description: "Several answers to the Special Composition Question cluster near t
 created: 2026-04-09
 modified: 2026-04-09
 human_modified:
-ai_modified: 2026-06-07T00:00:00+00:00
+ai_modified: 2026-06-07T17:35:00+00:00
 last_deep_review: 2026-06-05T12:00:00+00:00
 draft: false
 topics:
@@ -24,6 +24,7 @@ related_articles:
   - "[[quantum-holism-and-phenomenal-unity]]"
   - "[[metaontological-deflationism]]"
   - "[[information-compression-composition]]"
+  - "[[mereology-of-mind]]"
   - "[[consciousness-metaphysics-of-composition-2026-04-05]]"
 ai_contribution: 100
 author:
@@ -147,6 +148,7 @@ The convergence of composition theories on consciousness lends suggestive suppor
 - [[interactionist-dualism]] — The Map's alternative to compositional accounts
 - [[hard-problem-of-consciousness]] — The explanatory gap that composition theories reveal
 - [[consciousness-and-the-metaphysics-of-individuation]] — The complementary question: what draws boundaries around conscious subjects
+- [[mereology-of-mind]] — The synthesis joining composition and individuation through the de-combination hinge
 
 ## References
 

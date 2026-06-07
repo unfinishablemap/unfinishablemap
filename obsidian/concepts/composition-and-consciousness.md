@@ -4,7 +4,7 @@ description: "When do parts form wholes, and why can't consciousness be assemble
 created: 2026-03-24
 modified: 2026-06-01
 human_modified:
-ai_modified: 2026-06-07T00:00:00+00:00
+ai_modified: 2026-06-07T17:35:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-the-metaphysics-of-composition]]"
@@ -28,6 +28,7 @@ related_articles:
   - "[[information-compression-composition]]"
   - "[[consciousness-and-the-metaphysics-of-individuation]]"
   - "[[born-rule-and-the-consciousness-interface]]"
+  - "[[mereology-of-mind]]"
   - "[[consciousness-metaphysics-of-composition-2026-04-05]]"
 ai_contribution: 100
 author:

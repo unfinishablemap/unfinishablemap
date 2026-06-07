@@ -4,7 +4,7 @@ description: "Curated index of the Map's apex articles—synthesis pieces integr
 created: 2026-01-24
 modified: 2026-05-25
 human_modified: 2026-01-24
-ai_modified: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-06-07T17:35:00+00:00
 last_deep_review: 2026-04-27T21:27:00+00:00
 draft: false
 topics: []
@@ -693,6 +693,26 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - voids/interface-formalization-void
 
 **Status**: Created 2026-06-03 (admitted as #31 — the dualism-thickness-grid cluster had no apex anchor. The two apexes that touch the cluster — `interface-specification-programme` and `what-consciousness-tells-us-about-physics` — each cite only one of the thickness-core articles peripherally and are about the quantum-interface subject, not dualism-positioning; neither walks the kinds-of-dualism → mechanism-debts-per-cell → the-Map's-region → open-work cartography. This apex (a) introduces the thickness grid as the catalogue's organising structure for dualism-positioning; (b) walks four-quadrant-taxonomy → mechanism-costs cell-by-cell (Q1 authority debt, Q2 exclusion debt, Q3 appearance debt, Q4 full bill) → parsimony-within-tenets → the-interface-problem + interface-formalization-void as the cluster's sharpest shared open question; (c) makes the cartographic-not-adjudicative discipline explicit at apex level — the cluster MAPS dualism positions and their mechanism-costs WITHOUT claiming to adjudicate which is correct, marking the Map's own region as a posited commitment (Tenets 1 and 5 load-bearing) rather than a proven conclusion, holding mechanism-debts as costs-to-be-paid rather than disproofs of rival cells per [[evidential-status-discipline]]; (d) cross-links all 6 cluster articles plus `[[apex/interface-specification-programme]]` and `[[apex/post-decoherence-selection-programme]]` as adjacent companions, with reciprocal back-links from all eight. Cites reuse the already-verified cluster citations (Saad 2025, Schaffer 2000, Tegmark 2000, Cucu & Pitts 2019, Chalmers 2003, Huemer 2009, Lycan 2009, Masanes et al. 2019, Zanotti 2021, Zheng & Meister 2025) — no new unverified citations. 3,896 words. Tenet alignment: Tenets 1 (Dualism, posited) and 5 (Occam-has-limits, the cartographic restraint itself) primarily, with 2/3/4 connections drawn. Apex now at #31 within the informal cap; the standing P3 audit task on apex over-cap remains the load-bearing rebalancing pass).
+
+---
+
+### 32. The Mereology of Mind
+
+**Slug**: `mereology-of-mind`
+
+**Subtitle**: Composition, individuation, and the de-combination hinge that joins them
+
+**Thesis**: Composition (what makes a whole?) and individuation (what bounds a subject?) are two faces of a single mereological question that consciousness answers in a way physical mereology cannot, with the de-combination problem (Miller 2018) as the hinge that shows the upward and downward questions are answered by the same missing subject-part principle.
+
+**Source articles**:
+- topics/consciousness-and-the-metaphysics-of-composition
+- topics/consciousness-and-the-metaphysics-of-individuation
+- concepts/composition-and-consciousness
+- concepts/information-compression-composition
+- concepts/metaontological-deflationism
+- concepts/combination-problem
+
+**Status**: Created 2026-06-07 (admitted as #32 — suggested by optimistic-review 2026-06-07. The composition/individuation cluster (two mature topic-tier articles plus four concept-tier members, all deep-reviewed within the last few days and tightly cross-linked) had no apex synthesis home: no existing apex references the cluster, and the two closest candidates by subject — `process-and-consciousness` (about process philosophy, citing combination-problem only peripherally) and `identity-across-transformations` (diachronic personal identity, not synchronic mereology) — neither walks the composition↔individuation joint. ASSESS-FIRST resolved CREATE-NEW: the cluster is large and genuinely lacks a synthesis home, apex does not consume the topics/concepts caps, and the de-combination problem supplies a non-obvious structural hinge (combination and de-combination are the same subject-part impossibility run in opposite directions — Miller's own point) that none of the source articles states at apex grain. Citations all reuse the cluster's already-verified set (van Inwagen 1990, Merricks 2001, McQueen & Tsuchiya 2023, Bird 2023, Beni 2025, Coleman 2014, James 1890, Chalmers 2017, Bayne & Chalmers 2003, Kolak 2004, Nida-Rümelin 2010, Hare 2009, Pinto et al. 2017, Schechter 2018, Thomasson 2015); the one load-bearing citation re-verified at publisher of record is Miller, G. (2018), "Can Subjects Be Proper Parts of Subjects? The De-Combination Problem," *Ratio* 31(2):137-154, DOI 10.1111/rati.12166 — Wiley Online Library confirms volume/issue/pages and that Miller's primary target is cosmopsychist de-combination, framed accurately in the body (not generic open individualism). Preserves the cluster's exemplary calibration: convergence held at *suggestive* not probative; deflationism recorded as honestly bedrock, not refuted; the dualist-vs-panpsychist tie explicitly tenet-broken (No Many Worlds + Minimal Quantum Interaction), tenet-coherent not evidence-elevating. Reciprocal cross-links added to all six source articles. 2,739 words. Tenet alignment: Tenet 1 (Dualism — irreducibility grounded in non-compositional structure) and Tenet 5 (Occam-has-limits) primarily, with 2/3/4 connections drawn. Apex now at #32 within the informal cap; the standing P3 audit task on apex over-cap remains the load-bearing rebalancing pass).
 
 ---
 

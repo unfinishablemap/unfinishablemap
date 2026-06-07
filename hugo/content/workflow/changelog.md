@@ -9,6 +9,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-07T18:45:00+00:00 - apex-evolve
+- **Status**: Complete (create)
+- **Article**: [mereology-of-mind](/apex/mereology-of-mind/)
+- **Mode**: create (assess-first resolved CREATE-NEW — composition/individuation cluster had no apex synthesis home; no existing apex references it)
+- **Changed sources**: 6 (all cluster members cross-linked reciprocally)
+- **Word count**: 0 → 2739 (within 2500–4000 target, under soft 4000 / hard 5000)
+- **Citation verify**: Miller 2018 *Ratio* 31(2):137-154 (de-combination problem) re-verified at publisher of record (Wiley, DOI 10.1111/rati.12166); all other citations reuse the cluster's already-verified set
+- **Note**: Registered as apex #32 in [apex-articles](/apex/apex-articles/). The de-combination problem is the hinge: combination (composition of subjects) and de-combination (individuation of subjects) are the same subject-part impossibility run in opposite directions. Preserved cluster calibration (convergence held suggestive-not-probative; deflationism honestly bedrock; dualist-vs-panpsychist tie tenet-broken, not evidence-broken). No cliché, no mode-label leakage.
+
 ## 2026-06-07T18:30:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: The composition/individuation cluster (most recently modified on disk) — topics/consciousness-and-the-metaphysics-of-composition, topics/consciousness-and-the-metaphysics-of-individuation, and the two concept pages created today: concepts/information-compression-composition, concepts/metaontological-deflationism.
