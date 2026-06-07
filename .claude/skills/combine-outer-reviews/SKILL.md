@@ -195,6 +195,8 @@ echo "<summary text>" | uv run python -m tools.notify.telegram
 
 The helper is a no-op when Telegram credentials aren't configured — fail-safe.
 
+**⚠ Live channel — no smoke-test mode.** Any invocation without `--dry-run` publishes to the operator's chat. Do **not** probe the pipeline with `echo "test"` / `echo "ping"` / `--text "ping"` — those payloads will be delivered verbatim. If you want to verify the pipe or preview the rendered message before sending, run the exact same command with `--dry-run` appended — it prints the payload and length, then exits 0 without sending. Only the final invocation (the real summary, no `--dry-run`) should hit the network.
+
 ### 10. Do Not Commit
 
 Leave file changes uncommitted on disk. The orchestrator (`cycle_post.py`

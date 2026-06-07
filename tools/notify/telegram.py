@@ -308,15 +308,29 @@ def _cli_main() -> int:
     """python -m tools.notify.telegram --text 'message'
 
     Reads text from --text or stdin if --text is omitted.
+    Use --dry-run to preview the payload (no send, exits 0).
     """
     import argparse
 
     ap = argparse.ArgumentParser(
-        description="Send a one-shot informational message to the project's Telegram chat."
+        description=(
+            "Send a one-shot informational message to the project's Telegram chat. "
+            "ANY invocation without --dry-run publishes to the live chat — there is no "
+            "smoke-test mode. To verify the pipeline, use --dry-run."
+        )
     )
     ap.add_argument(
         "--text",
         help="Message text. If omitted, read from stdin.",
+    )
+    ap.add_argument(
+        "--dry-run",
+        action="store_true",
+        help=(
+            "Print the payload and its length to stdout, then exit 0 without sending. "
+            "Use this to verify the pipeline / preview a message instead of running with "
+            "a literal 'ping' or 'test' payload (which would publish to the live chat)."
+        ),
     )
     args = ap.parse_args()
 
@@ -325,6 +339,13 @@ def _cli_main() -> int:
     if not text:
         print("No text to send (empty input).", file=sys.stderr)
         return 2
+
+    if args.dry_run:
+        print(f"[telegram --dry-run] would send {len(text)} chars; not sent.")
+        print("--- payload begin ---")
+        print(text)
+        print("--- payload end ---")
+        return 0
 
     ok = send_message_now(text)
     if not ok:
