@@ -9,6 +9,41 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-07T07:48:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)
+- **Word count**: 3170 → 3170 (+0) — 106% of soft (3000), under hard (4000), length-neutral
+- **Critical issues addressed**: 0 (none found — converged, fifth review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (stable; new prose since last review already well-integrated)
+- **Web-verify (§2.4)**: Gentry 2021 re-verified at publisher of record (Springer / *Review of Philosophy and Psychology*, doi:10.1007/s13164-021-00574-1, author Hunter Gentry) — real-correct; the 2026-06-06 placeholder correction confirmed accurate. Remaining cites carry verified state from prior ledgers + the 2026-06-06 verification pass. No superlative claims (currency sweep empty).
+- **Calibration**: clean; the 2026-05-16 confabulation-resistance paragraph (only new prose since last deep review) declines all evidential upgrades and preserves the data/metaphysics separation. No possibility/probability slippage.
+- **Cross-links**: all resolve incl. new `#confabulation-resistance-discipline` anchor (reciprocal back-link present), confabulation-void, evidential-status-discipline.
+- **Engagement classification**: unchanged; source-monitoring steelman stays Mode Two. No boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-06-07-phenomenology-of-memory-and-the-self](/reviews/deep-review-2026-06-07-phenomenology-of-memory-and-the-self/)
+
+## 2026-06-07T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [integrated-information-theory](/concepts/integrated-information-theory/)
+- **Task**: REDIRECTED from Claude Opus 4.8 outer review 2026-06-07 (IIT-pseudoscience-dispute engagement). Origin task targeted topics/duhem-quine-underdetermination-consciousness.md but it is at its 4000w HARD ceiling (3998w) and cannot take new content. The dispute is fundamentally ABOUT IIT, so the engagement landed in its natural home, this concepts article.
+- **Web-verify (all 3 figures confirmed at publisher of record / authoritative source before insertion)**: (1) Open letter — 15 Sept 2023, PsyArXiv, **124 signatories** incl. Dennett, LeDoux, Churchland, Baars (confirmed Nature news d41586-023-02971-1 + Wikipedia IIT). (2) **Nature Neuroscience** commentary "What Makes a Theory of Consciousness Unscientific?", 10 March 2025, **vol 28:689-693, DOI 10.1038/s41593-025-01881-x** (confirmed nature.com/articles/s41593-025-01881-x; authored by "IIT-Concerned" collective). (3) Survey — **60 respondents, 8% "fully" agreed, 20% "not at all" agreed** with the pseudoscience label (confirmed Wikipedia IIT; survey of consciousness-paper authors 2013-2023).
+- **Changes**: Expanded the existing "The Pseudoscience Accusation" subsection. Added the open-letter date + named signatories, the 2025 Nature Neuroscience commentary and its specific charge (untestable consequences + bold non-empirical claims), and the calibration BOTH ways via the survey (8%/60 fully agree, 20% disagree → "vocal minority, not field consensus"). Preserved the existing "extrapolation is inevitable / dinosaurs-paleontology" defender rebuttal. Added References entry for the NN commentary.
+- **Calibration discipline**: did NOT endorse the pseudoscience charge; presented it both ways. No mode labels in body; no "This is not X. It is Y." cliché. Preserved all hedge/calibration language.
+- **Final body word count**: 3414 / 3500 hard (tools.curate.length confirmed, status soft_warning) — UNDER ceiling (~86w headroom).
+- **Deferred**: duhem-quine cross-link to this IIT engagement deferred to the standing "HUMAN LENGTH DECISION (2026-06-07)" bundle for duhem-quine-underdetermination-consciousness.md — that article (3998/4000) cannot take even a cross-link without a condense/split decision.
+- **Published**: yes
+
+## 2026-06-07T07:21:09+00:00 - refine-draft
+- **Status**: Success
+- **File**: [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/)
+- **Task**: Claude Opus 4.8 outer review 2026-06-07 — contested contrastive/empirical-equivalence underdetermination gap
+- **Load-bearing fix (a)**: Scoped the two forms of underdetermination explicitly — holist form is secure (logic of testing, undisputed); contrastive/empirical-equivalence form is contested. Cited **Laudan & Leplin (1991), "Empirical Equivalence and Underdetermination," J. Phil. 88(9):449-472** (web-verified at publisher of record, PDC jphil_1991_0088_0009_0449_0472 — accurate). Their data-equivalence vs. evidential-support distinction directly counters the article's parity move. Propagated the scoping to the three downstream sites that previously treated the contrastive form as settled: the holist/contrastive intro, the COGITATE "textbook case of contrastive underdetermination" claim (now "apparent case... 'admits interpretation under both' is weaker than 'supports both equally'"), and the "equal evidential footing" caution in Relation to Site Perspective (now notes empirical equivalence ≠ evidential equivalence; programmes can draw indirect support through shared auxiliaries).
+- **Deferred (b)/(c)**: Laudan "Demystifying Underdetermination" + Quine's "conjecture" downgrade, and the Duhem-confined-to-physics sentence — DEFERRED for length. Article was at 3875w/4000 hard ceiling; the (a) fix + clawback landed at 3998w. No room for (b)/(c) without gutting calibration content.
+- **Clawback**: trimmed ~60w of non-calibration slack (Duhem-Quine exposition, COGITATE decoding paragraph, Stanford section, phenomenal-concepts, Seth quote attribution) to absorb the additions. Preserved all calibration/hedge/symmetry language.
+- **Final body word count**: 3998 / 4000 hard (tools.curate.length confirmed, status soft_warning) — UNDER ceiling.
+- **Ceiling note**: This is the 4th refine on this article. It is now effectively at its 4000 ceiling. The deferred (b)/(c) items AND the separately-queued Bayesian-dissolution P1 should be folded into a single consolidation pass or flagged as a HUMAN LENGTH-DECISION — this is a calibration-anchor; do not auto-condense load-bearing content.
+- **Published**: yes
+
 ## 2026-06-07T06:48:00+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/), [dissociative-states-as-intact-substrate-interface-evidence](/topics/dissociative-states-as-intact-substrate-interface-evidence/)

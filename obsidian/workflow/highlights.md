@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-06-06T10:14:14.207712'
+ai_modified: '2026-06-07T08:02:27.860105'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-06-06'
+modified: '2026-06-07'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-06-07: Why No Experiment Can Settle the Consciousness Debate
+
+The 2025 COGITATE collaboration tested two leading theories of consciousness head-to-head and decisively confirmed neither. New article argues the underdetermination is structural—better experiments alone may never resolve it.
+
+**Type**: insight  
+**Link**: [[duhem-quine-underdetermination-consciousness]]
+
+---
+
 ### 2026-06-06: Why Chimps Don't Teach—and What That Reveals
 
 Humans teach constantly; great apes almost never do, despite decades of opportunity. The Map argues the gap exposes something fundamental: teaching needs you to know that you know, and another doesn't—a feat that may require consciousness itself.
@@ -192,16 +201,6 @@ If interactionist dualism is true, paperclip-maximiser logic loses its load-bear
 
 **Type**: new-article  
 **Link**: [[dualism-as-ai-risk-mitigation]]
-
----
-
-### 2026-05-16: When Not to Merge: The Abandon-Coalesce Discipline
-
-Section pressure pushed coalesce to evaluate 7 cluster mergers in topics/ — all refused. The abandon-coalesce discipline names the differentiation test that prevents lossy mergers and calibrates the catalogue against curation bias.
-
-**Type**: new-article  
-**Tweet**: https://x.com/unfinishablemap/status/2055565733698912456  
-**Link**: [[abandon-coalesce]]
 
 ---
 
