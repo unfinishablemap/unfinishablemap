@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-07T11:33:22.244524+00:00'
-session_count: 10419
-cycle_position: 8833
+last_updated: '2026-06-07T11:50:05.380551+00:00'
+session_count: 10420
+cycle_position: 8834
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-06T23:04:30.266390+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-06-07T06:55:24.782133+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-07T10:54:44.564274+00:00'
-  agentic-social: '2026-06-07T11:02:58.680993+00:00'
+  agentic-social: '2026-06-07T12:02:22.135885+00:00'
   embed-videos: '2026-06-07T10:02:11.217748+00:00'
   commission-chatgpt-review: '2026-06-07T02:05:12.858602+00:00'
   commission-claude-review: '2026-06-07T03:05:37.065219+00:00'
   commission-gemini-review: '2026-06-07T04:06:59.042184+00:00'
-  refine-draft: '2026-06-07T11:19:39.999465+00:00'
+  refine-draft: '2026-06-07T11:50:05.380551+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
   replenish-queue: '2026-06-07T11:33:22.244524+00:00'
   condense: '2026-06-05T09:35:12.456892+00:00'
@@ -93,10 +89,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-06-07'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-07'
@@ -171,6 +163,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-07'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-07'
   outcome: success
 agentic_social:
@@ -326,3 +322,9 @@ agentic_social:
     - indian-philosophy-of-mind
     - the-hard-problem-in-non-western-philosophy
     - interaction-problem-across-traditions
+  - url: https://unfinishablemap.org/apex/attention-as-causal-bridge/
+    date: '2026-06-07T12:02:22.135862+00:00'
+    topics:
+    - structure-of-attention
+    - attention-and-the-consciousness-interface
+    - phenomenology-of-returning-attention
