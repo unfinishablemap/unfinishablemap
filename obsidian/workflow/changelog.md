@@ -5,6 +5,15 @@ ai_modified: 2026-06-07T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-07T13:00:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/medium-status-voids-in-cognition]]
+- **Changed sources**: 7 (all apex_sources touched since the 2026-05-18 baseline; load-bearing new source is the post-baseline `voids/tacit-integration-void`)
+- **Changes**: Integrated the tacit-integration void (Polanyi's from-to bearing relation) as a sixth converging tradition ("Five Traditions" → "Six Traditions"); named the noetic-feelings void's *verdictive* face and tacit-integration's *integrative* face as paired members of the medium-status family (mirroring the sources' newly-installed framing); promoted tacit-integration to the strongest fifth-member candidate in the inflation-criterion section (destructive-analysis = sub-condition two in pure form). Added Polanyi 1958/1966 references; `[[tacit-integration-void]]` to related_articles + Source Articles. Confirmed the corrected Jaeger et al. (2024) Vervaeke citation already correct in the apex — no defect. Condensed 7 passages to hold length discipline.
+- **Word count**: 4372 → 4506 (soft_warning, under the 5000 apex hard threshold; +134 net for a sixth-tradition synthesis after offsetting condensation)
+- **Review**: [[reviews/apex-evolve-2026-06-07-medium-status-voids-in-cognition]]
+- **Published**: yes
+
 ## 2026-06-07T12:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[project/project]]
