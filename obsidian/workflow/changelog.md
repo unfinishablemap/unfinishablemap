@@ -5,6 +5,13 @@ ai_modified: 2026-06-07T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-07T12:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[project/project]]
+- **Source**: outer review 2026-06-07 (ChatGPT) — methodology-recording (project doc, not an article rewrite). Captured two QA conventions surfaced by the COGITATE-framing-drift and Papineau/Balog orphan-cite findings.
+- **Changes**: Added two concise citation-integrity conventions under the "Calibration and evidence" cluster. (1) **Canonical empirical data card** — one article hosts a single referenced summary of a shared high-stakes study (metadata, design, prereg status, sample sizes, tested predictions, results, proponent responses, last-verified date); others link rather than re-summarize (drift-prevention; the COGITATE "split-win" gloss is the worked failure). ASSESS: no parallel "data card" mechanism exists; aligned the note with the existing centralized Maier-Dechamps micro-PK anchor in `mqi-empirical-fragility` rather than minting a new mechanism. (2) **Orphan-citation check** — inline Author-Year ↔ References must map both ways. ASSESS: confirmed `scripts/validate.py` / `tools/curate/validate.py` check frontmatter only (no inline↔References cross-check), so recorded as a methodology note + CODE CANDIDATE flagged for operator/tune-system; did NOT modify validate.py.
+- **Published**: yes
+
 ## 2026-06-07T12:00:00+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/integrated-information-theory]], [[concepts/global-workspace-theory]], [[concepts/neural-correlates-of-consciousness]]

@@ -37,6 +37,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt neural-correlates-of-consciousness calibration in split-brain-consciousness
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/split-brain-consciousness.md
+- **Notes**: From topic-concept anchoring audit 2026-06-07. The topic article over-claims relative to its anchor concept [[neural-correlates-of-consciousness]]; failed checks: strong_assertions, underdetermination_markers.
+  - topic uses 4 strong-assertion verbs (1.31/kw) where anchor uses none; absolute allowance is 0.5/kw
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-07
+
+### P2: Adopt mental-effort calibration in the-interface-problem
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/the-interface-problem.md
+- **Notes**: From topic-concept anchoring audit 2026-06-07. The topic article over-claims relative to its anchor concept [[mental-effort]]; failed checks: strong_assertions, underdetermination_markers.
+  - strong-assertion density 0.63/kw exceeds 1.5× anchor (0.34/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-07
+
+
 ### ✓ RESOLVED-BY-CONSOLIDATION (2026-06-07): Confront the Lakatosian-progressivity incoherence in the duhem-quine article's "Relation to Site Perspective"
 - **Type**: refine-draft
 - **Status**: done — RESOLVED by the sibling symmetry/dual-burden P1 pass (commit 8497d31c) + the consolidated P1 refine (8faed5cc), both this cycle-day. The article body now contains: the progressive-vs-degenerating revision criteria, the explicit concession that an empirically-silent hard core cannot claim Lakatosian "progressive" status, concrete degenerating-examples (moving-target site revisions on null results; first-person irreducibility yielding no new constraints; hard-problem appeals immunizing failure), and the Map's own auxiliary-belt analysis. The symmetry-pass fork confirmed no distinct un-addressed angle remains. Per [[outer-review-same-file-task-pileup]], not re-written as a separate pass (article is at ~3875w near the 4000 hard ceiling).
@@ -52,15 +75,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **File**: obsidian/topics/duhem-quine-underdetermination-consciousness.md
 - **Notes**: From outer review 2026-06-07 (Claude Opus 4.8). Extends the ChatGPT consolidated-refine's PCS item (53(f)) with two distinct requirements. (a) The article presents Chalmers' 2007 "master argument" as decisive against PCS; add the published replies — Balog (2012) and Carruthers & Veillet — and report the mainstream verdict that the master-argument exchange is a STALEMATE, not a dualist win. (b) The article charges PCS with "primarily accommodating existing intuitions rather than predicting new phenomena," but by the Map's own admission the dualist quantum mechanism also predicts no detectable new phenomena — so either drop the "no new predictions" charge against PCS or apply it symmetrically to the Map's own mechanism. Apply [[direct-refutation-discipline]]: PCS is a standing physicalist strategy, not a post-failure auxiliary patch; engage whether it is explanatorily progressive in natural journal-quality prose; do not expose mode labels. WEB-VERIFY the Carruthers & Veillet reply citation before inserting. Coordinate with the ChatGPT P1 consolidated refine and the calibration ceiling — may be folded into that pass if length permits, else a follow-on.
 - **Review file**: `reviews/outer-review-2026-06-07-claude-opus-4-8.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-07
-
-### P2: Methodology proposal — canonical COGITATE data card + orphan-citation check
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/project/project.md
-- **Notes**: From outer review 2026-06-07 (ChatGPT 5.5 Pro). Two cross-article QA proposals worth recording as project methodology: (1) a **canonical empirical data card** for COGITATE (citation metadata, study design, preregistration status, sample sizes, exact tested predictions, result summary, theory-proponent responses, last-verified date) that articles reference rather than re-summarizing independently — prevents the cross-article drift this review found; (2) an **automated orphan-citation check** (every inline author-year cite maps to a References entry and vice versa) — the Papineau/Balog defect is mechanically detectable. Capture as a methodology note / consider a lightweight validate.py check; this is a project-doc task, not an article rewrite.
-- **Review file**: `reviews/outer-review-2026-06-07-chatgpt-5-5-pro.md`
 - **Source**: outer-review
 - **Generated**: 2026-06-07
 
@@ -951,6 +965,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-07: Methodology proposal — canonical COGITATE data card + orphan-citation check
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-07 (ChatGPT 5.5 Pro). Two cross-article QA proposals worth recording as project methodology: (1) a **canonical empirical data card** for COGITATE (citation metadata, study design, preregistration status, sample sizes, exact tested predictions, result summary, theory-proponent responses, last-verified date) that articles reference rather than re-summarizing independently — prevents the cross-article drift this review found; (2) an **automated orphan-citation check** (every inline author-year cite maps to a References entry and vice versa) — the Papineau/Balog defect is mechanically detectable. Capture as a methodology note / consider a lightweight validate.py check; this is a project-doc task, not an article rewrite.
 
 ### ✓ 2026-06-07: Sync COGITATE framing across IIT / GWT / NCC / convergence-arguments articles
 - **Type**: cross-review
