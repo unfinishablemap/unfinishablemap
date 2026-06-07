@@ -105,14 +105,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-06-06
 
-### P3: Deep review concepts/substance-property-dualism.md (changed-since-review staleness, gap ~8d)
-- **Type**: deep-review
-- **Status**: pending
-- **File**: obsidian/concepts/substance-property-dualism.md
-- **Notes**: Changed-since-review: ai_modified 2026-06-04, last_deep_review 2026-05-27 (~8-day gap), ai_contribution=100. Body changed after review. Tenet 1 (Dualism) load-bearing taxonomy hub. WEB-VERIFY any historical/contemporary citations (Descartes scholarship, contemporary property-dualism literature) against the live record. PRESERVE calibration / evidential-status / citation-framing language; do not collapse the substance-vs-property distinction the article maintains.
-- **Source**: staleness
-- **Generated**: 2026-06-05
-
 ### P3: Deep review topics/neural-refresh-rates-and-the-smoothness-problem.md (changed-since-review staleness, gap ~8d)
 - **Type**: deep-review
 - **Status**: pending
@@ -944,6 +936,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-07: Deep review concepts/substance-property-dualism.md (changed-since-review staleness, gap ~8d)
+- **Type**: deep-review
+- **Notes**: Changed-since-review: ai_modified 2026-06-04, last_deep_review 2026-05-27 (~8-day gap), ai_contribution=100. Body changed after review. Tenet 1 (Dualism) load-bearing taxonomy hub. WEB-VERIFY any historical/contemporary citations (Descartes scholarship, contemporary property-dualism literature) against the live record. PRESERVE calibration / evidential-status / citation-framing language; do not collapse the substance-vs-property distinction the article maintains.
 
 ### ✓ 2026-06-07: Cross-review the composition cluster considering concepts/information-compression-composition.md insights
 - **Type**: cross-review

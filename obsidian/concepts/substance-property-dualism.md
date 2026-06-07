@@ -4,7 +4,7 @@ description: "Two forms of dualism: separate mental substances versus irreducibl
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-06-04T12:00:00+00:00
+ai_modified: 2026-06-07T17:32:37+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-05-27T00:00:00+00:00
+last_deep_review: 2026-06-07T17:32:37+00:00
 ---
 
 Dualism comes in two main varieties. Substance dualism holds that mind and body are different *kinds of thing*—distinct substances. Property dualism holds that mental properties are genuinely different from physical properties, without positing separate substances. Both reject [[concepts/materialism|materialism's]] claim that everything is ultimately physical, but disagree about the underlying metaphysical structure.
