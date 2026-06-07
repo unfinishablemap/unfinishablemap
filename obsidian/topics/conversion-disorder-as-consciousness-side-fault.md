@@ -26,7 +26,6 @@ related_articles:
   - "[[epistemology-of-convergence-arguments]]"
   - "[[pharmacological-dissociation-as-evidence]]"
   - "[[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]"
-  - "[[dissociative-states-as-intact-substrate-interface-evidence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -117,7 +116,6 @@ The Map reads conversion disorder as bearing on two tenets, with the evidential 
 - [[epistemology-of-convergence-arguments]] — Why the three-route compound signature earns the architecture but not the significance
 - [[falsification-roadmap-for-the-interface-model]] — Where the under-anaesthesia discriminator sits among the Map's falsification handles
 - [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] — Design space for tests that would discriminate interface from intra-cerebral readings
-- [[dissociative-states-as-intact-substrate-interface-evidence]] — The memory-channel counterpart: amnesia, DID, and depersonalisation as the same intact-substrate selectivity on the ascending side
 - [[motor-selection]] — The descending channel and how consciousness arbitrates competing motor plans
 
 ## References

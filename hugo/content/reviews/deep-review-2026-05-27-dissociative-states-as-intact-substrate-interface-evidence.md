@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-05-27
-**Article**: [Dissociative States as Intact-Substrate Interface Evidence](/topics/dissociative-states-as-intact-substrate-interface-evidence/)
+**Article**: [Dissociative States as Intact-Substrate Interface Evidence](/topics/clinical-dissociation-as-systematic-evidence/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

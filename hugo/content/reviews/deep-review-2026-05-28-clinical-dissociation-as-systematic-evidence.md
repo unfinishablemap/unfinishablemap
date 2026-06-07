@@ -20,7 +20,7 @@ topics: []
 **Article**: [Clinical Dissociation as Systematic Evidence](/topics/clinical-dissociation-as-systematic-evidence/)
 **Previous review**: [2026-04-17](/reviews/deep-review-2026-04-17-clinical-dissociation-as-systematic-evidence/)
 
-This is the fourth deep review. The 2026-04-17 review declared the article stable, but substantive changes have landed since: the GWT-calibration refine (commit e9cc1cdc7) and two new sibling articles ([conversion-disorder-as-consciousness-side-fault](/topics/conversion-disorder-as-consciousness-side-fault/), [dissociative-states-as-intact-substrate-interface-evidence](/topics/dissociative-states-as-intact-substrate-interface-evidence/)) that the article now cross-links and the convergence paragraph now coordinates with via [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)'s compound-signature framing. The new content warranted a fresh pass focused on the two-tier (architecture vs. significance) calibration.
+This is the fourth deep review. The 2026-04-17 review declared the article stable, but substantive changes have landed since: the GWT-calibration refine (commit e9cc1cdc7) and two new sibling articles ([conversion-disorder-as-consciousness-side-fault](/topics/conversion-disorder-as-consciousness-side-fault/), [dissociative-states-as-intact-substrate-interface-evidence](/topics/clinical-dissociation-as-systematic-evidence/)) that the article now cross-links and the convergence paragraph now coordinates with via [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)'s compound-signature framing. The new content warranted a fresh pass focused on the two-tier (architecture vs. significance) calibration.
 
 ## Pessimistic Analysis Summary
 

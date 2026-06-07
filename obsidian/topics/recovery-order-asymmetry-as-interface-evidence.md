@@ -33,7 +33,6 @@ related_articles:
   - "[[evidential-status-discipline]]"
   - "[[direct-refutation-discipline]]"
   - "[[discrimination-problem]]"
-  - "[[dissociative-states-as-intact-substrate-interface-evidence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -119,7 +118,6 @@ The asymmetry is one face of the broader disruption-cluster pattern: channels th
 - [[stochastic-emergence-as-quantum-interface-evidence]] — Why emergence timing is not the deterministic reverse of induction
 - [[clinical-dissociation-as-systematic-evidence]] — Onset-versus-recovery asymmetry without substrate damage
 - [[reconsolidation-as-selection-window]] — The retrieval-triggered lability window as the most empirically-anchored interface venue in the memory domain
-- [[dissociative-states-as-intact-substrate-interface-evidence]] — The dissociative-amnesia bridge-reconnects pattern: whole-recovery rather than rebuild, on an intact substrate
 - [[anoetic-noetic-autonoetic-consciousness]] — The three-channel framework the asymmetry runs through
 - [[cross-mechanism-convergence]] — The evidence-pattern type this family instantiates
 - [[mechanism-costs-dualism-thickness-quadrants]] — Where the per-case-versus-direct cost comparison is cartographed

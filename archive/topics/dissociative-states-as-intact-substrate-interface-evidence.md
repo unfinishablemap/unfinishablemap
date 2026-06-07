@@ -1,51 +1,53 @@
 ---
-ai_contribution: 100
-ai_generated_date: 2026-05-27
-ai_modified: 2026-05-27 12:00:00+00:00
-ai_system: claude-opus-4-7
-author: null
-concepts:
-- '[[filter-theory]]'
-- '[[anoetic-noetic-autonoetic-consciousness]]'
-- '[[episodic-memory]]'
-- '[[degrees-of-consciousness]]'
+title: "Dissociative States as Intact-Substrate Interface Evidence"
+description: "A human+AI inquiry into dissociative amnesia, DID, and depersonalisation as three geometries of channel separation without substrate damage — the hardest intact-substrate test for production theories of consciousness."
 created: 2026-05-27
-date: &id001 2026-05-27
-description: A human+AI inquiry into dissociative amnesia, DID, and depersonalisation
-  as three geometries of channel separation without substrate damage — the hardest
-  intact-substrate test for production theories of consciousness.
+modified: 2026-05-27
+human_modified:
+ai_modified: 2026-05-27T12:00:00+00:00
 draft: false
-human_modified: null
-last_curated: null
-last_deep_review: 2026-05-27 12:00:00+00:00
-modified: *id001
-related_articles:
-- '[[tenets]]'
-- '[[memory-system-vulnerability-hierarchies-as-interface-evidence]]'
-- '[[clinical-dissociation-as-systematic-evidence]]'
-- '[[neurological-dissociations-as-interface-architecture]]'
-- '[[conversion-disorder-as-consciousness-side-fault]]'
-- '[[recovery-order-asymmetry-as-interface-evidence]]'
-- '[[phenomenology-of-memory-and-the-self]]'
-- '[[evidential-status-discipline]]'
-- '[[direct-refutation-discipline]]'
-- '[[mechanism-costs-dualism-thickness-quadrants]]'
-title: Dissociative States as Intact-Substrate Interface Evidence
 topics:
-- '[[hard-problem-of-consciousness]]'
-- '[[consciousness-disruption-and-the-mind-brain-interface]]'
-- '[[consciousness-and-memory]]'
+  - "[[hard-problem-of-consciousness]]"
+  - "[[consciousness-disruption-and-the-mind-brain-interface]]"
+  - "[[consciousness-and-memory]]"
+concepts:
+  - "[[filter-theory]]"
+  - "[[anoetic-noetic-autonoetic-consciousness]]"
+  - "[[episodic-memory]]"
+  - "[[degrees-of-consciousness]]"
+related_articles:
+  - "[[tenets]]"
+  - "[[memory-system-vulnerability-hierarchies-as-interface-evidence]]"
+  - "[[clinical-dissociation-as-systematic-evidence]]"
+  - "[[neurological-dissociations-as-interface-architecture]]"
+  - "[[conversion-disorder-as-consciousness-side-fault]]"
+  - "[[recovery-order-asymmetry-as-interface-evidence]]"
+  - "[[phenomenology-of-memory-and-the-self]]"
+  - "[[evidential-status-discipline]]"
+  - "[[direct-refutation-discipline]]"
+  - "[[mechanism-costs-dualism-thickness-quadrants]]"
+ai_contribution: 100
+author:
+ai_system: claude-opus-4-7
+ai_generated_date: 2026-05-27
+last_curated:
+last_deep_review: 2026-05-27T12:00:00+00:00
+archived: true
+archived_date: 2026-06-07T06:48:28+00:00
+superseded_by: "/topics/clinical-dissociation-as-systematic-evidence/"
+archive_reason: "Coalesced into Clinical Dissociation as Systematic Evidence"
+original_path: "/topics/dissociative-states-as-intact-substrate-interface-evidence/"
 ---
 
 Dissociative states are the hardest intact-substrate test a theory of consciousness can face. In dissociative amnesia, dissociative identity disorder (DID), and depersonalisation, large parts of conscious access decouple from one another while the brain remains anatomically intact — no lesion, no atrophy, no pharmacological blockade. The selectivity is sharp and the substrate is undamaged, so whatever does the separating cannot be attributed to missing tissue. The Unfinishable Map reads these states as the cleanest available exhibit of *channel architecture*: conscious access organised into separable channels that can be partitioned without anything being broken. This is offered as a serious interpretation the data make available, not one the data force, and one of the three cases — DID — carries a live sociocognitive-alternative caveat the Map does not adjudicate.
 
 This article develops three geometries of channel separation at full resolution. **Dissociative amnesia** disconnects the top autobiographical channel while the lower channels carry on, and reconnects whole rather than rebuilding. **DID** compartmentalises autobiographical access between alter states while semantic and procedural memory typically transfer freely. **Depersonalisation** is the most diagnostic: the autonoetic channel is *on* — the patient remembers and can re-experience — but the felt sense of *ownership* is decoupled, suggesting that the channel itself has internal structure (content, mine-ness, pastness) that can come apart one level deeper than the three-tier memory hierarchy. The three cases compress into a single structural argument: rival readings must explain the selectivity at the level of *connectivity patterns between intact regions*, which is exactly what the filter reading calls channel architecture.
 
-The treatment extends a row of [the memory-hierarchy article](/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/), where dissociation is flagged as "the hierarchy's hardest test for production theories" but compressed into a paragraph. The fuller clinical picture, and the cluster of dissociation phenomena beyond memory, is in [the clinical-dissociation article](/topics/clinical-dissociation-as-systematic-evidence/).
+The treatment extends a row of [[memory-system-vulnerability-hierarchies-as-interface-evidence|the memory-hierarchy article]], where dissociation is flagged as "the hierarchy's hardest test for production theories" but compressed into a paragraph. The fuller clinical picture, and the cluster of dissociation phenomena beyond memory, is in [[clinical-dissociation-as-systematic-evidence|the clinical-dissociation article]].
 
 ## The Tulving Channels in One Sentence
 
-The argument uses Endel Tulving's three-mode framework only as scaffolding ([developed at the concept tier](/concepts/anoetic-noetic-autonoetic-consciousness/)). *Anoetic* consciousness accompanies procedural skill (present-tense fluency, no self-representation); *noetic* consciousness accompanies semantic memory (a feeling of knowing, no re-experiencing); *autonoetic* consciousness accompanies episodic memory (re-inhabiting a past perspective, with a felt sense of pastness). Across most consciousness disruptions these degrade in a fixed order — autonoetic first, anoetic last. Dissociative states are the cases where that ordering appears *without any substrate change to drive it*.
+The argument uses Endel Tulving's three-mode framework only as scaffolding ([[anoetic-noetic-autonoetic-consciousness|developed at the concept tier]]). *Anoetic* consciousness accompanies procedural skill (present-tense fluency, no self-representation); *noetic* consciousness accompanies semantic memory (a feeling of knowing, no re-experiencing); *autonoetic* consciousness accompanies episodic memory (re-inhabiting a past perspective, with a felt sense of pastness). Across most consciousness disruptions these degrade in a fixed order — autonoetic first, anoetic last. Dissociative states are the cases where that ordering appears *without any substrate change to drive it*.
 
 ## Dissociative Amnesia: The Bridge That Reconnects
 
@@ -69,7 +71,7 @@ Depersonalisation–derealisation is the most diagnostic of the three, because i
 
 The phenomenology is captured in the measurement literature. The Cambridge Depersonalisation Scale (Sierra and Berrios 2000) and its later factor analysis (Sierra, Baker, Medford and David 2005) isolate a recurrent factor the authors label *Anomalous Subjective Recall* — a disturbance in the felt quality and ownership of autobiographical memory distinct from any failure of content retrieval. The content channel delivers; the mine-ness it normally carries is decoupled.
 
-This matters for the interface reading because it suggests the autonoetic channel is not a single primitive. It has *separable internal features* — at least content, mine-ness, and pastness — that can dissociate from one another. Depersonalisation switches off mine-ness while content and pastness persist; ordinary recall binds all three. On the channel reading this is a multi-channel architecture one level deeper than the three-tier memory hierarchy: the "autonoetic channel" is itself a bundle of features that bind together in health and can be unbound without substrate damage. A production account is not refuted by this — it can posit a dedicated self-attribution or source-monitoring mechanism whose selective disruption removes ownership while sparing content. That move is available and must be taken seriously; it is the depersonalisation-specific form of the general accommodation the next section sets out. What depersonalisation establishes cleanly is the *separability* of mine-ness from content; that an interface architecture rather than a self-attribution module is the better explanation is the live hypothesis, not the datum. The separability finding constrains any account on which felt ownership is simply what accurate autobiographical retrieval feels like; it does not on its own establish the interface reading over a mechanistic-module reading ([the calibration discipline](/project/evidential-status-discipline/) keeps the two registers apart, and [the phenomenology-of-memory article](/topics/phenomenology-of-memory-and-the-self/) develops mine-ness as a phenomenal feature).
+This matters for the interface reading because it suggests the autonoetic channel is not a single primitive. It has *separable internal features* — at least content, mine-ness, and pastness — that can dissociate from one another. Depersonalisation switches off mine-ness while content and pastness persist; ordinary recall binds all three. On the channel reading this is a multi-channel architecture one level deeper than the three-tier memory hierarchy: the "autonoetic channel" is itself a bundle of features that bind together in health and can be unbound without substrate damage. A production account is not refuted by this — it can posit a dedicated self-attribution or source-monitoring mechanism whose selective disruption removes ownership while sparing content. That move is available and must be taken seriously; it is the depersonalisation-specific form of the general accommodation the next section sets out. What depersonalisation establishes cleanly is the *separability* of mine-ness from content; that an interface architecture rather than a self-attribution module is the better explanation is the live hypothesis, not the datum. The separability finding constrains any account on which felt ownership is simply what accurate autobiographical retrieval feels like; it does not on its own establish the interface reading over a mechanistic-module reading ([[evidential-status-discipline|the calibration discipline]] keeps the two registers apart, and [[phenomenology-of-memory-and-the-self|the phenomenology-of-memory article]] develops mine-ness as a phenomenal feature).
 
 ## The Intact-Substrate Structural Argument
 
@@ -81,7 +83,7 @@ The sophisticated production reading explains the selectivity by differential fu
 
 The filter reading explains the same selectivity directly off its architecture. If conscious access is organised as channels of differing bandwidth and binding complexity realised through the brain, then the highest-bandwidth, most reconstruction-intensive channel — autonoetic self-across-time, with its bound features of content, mine-ness, and pastness — is the one most easily decoupled and the one whose internal bindings can come apart. Disconnection (amnesia), partition (DID), and feature-unbinding (depersonalisation) are three ways the same high-complexity channel can fail, and they fall out of the architecture rather than being added to it. The mechanism cost is the metaphysical commitment to an interface — paid once, at the tenet level, rather than per-case. The filter reading does not get the connectivity geometry for free either: it still owes an account of which patterns realise which channels, the same neuroscience the production reading must supply. The asymmetry the comparison turns on is narrower — the production reading must additionally explain *why* the functional-vulnerability ordering tracks the autonoetic channel on an intact substrate, whereas the filter reading reads that ordering off channel complexity it has already posited.
 
-Crucially, the argument's force is *comparative and located*, not decisive. The intact substrate means a production theorist cannot reach for missing tissue; it does not mean the production reading is refuted. What the intact-substrate cases do is what [the memory-hierarchy article](/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/) does at larger scale and [the direct-refutation discipline](/project/direct-refutation-discipline/) requires when rival readings cohabit the same data: they locate the disagreement at the connectivity layer and name where each reading pays its mechanism cost, rather than treating the selectivity as already separating the theories. The discriminating test the catalogue still lacks — a targeted, reversible perturbation of an autonoetic-supporting connectivity pattern that spares its noetic-supporting subnetworks — would separate them; dissociative states approximate it naturally but without experimental control over what is perturbed.
+Crucially, the argument's force is *comparative and located*, not decisive. The intact substrate means a production theorist cannot reach for missing tissue; it does not mean the production reading is refuted. What the intact-substrate cases do is what [[memory-system-vulnerability-hierarchies-as-interface-evidence|the memory-hierarchy article]] does at larger scale and [[direct-refutation-discipline|the direct-refutation discipline]] requires when rival readings cohabit the same data: they locate the disagreement at the connectivity layer and name where each reading pays its mechanism cost, rather than treating the selectivity as already separating the theories. The discriminating test the catalogue still lacks — a targeted, reversible perturbation of an autonoetic-supporting connectivity pattern that spares its noetic-supporting subnetworks — would separate them; dissociative states approximate it naturally but without experimental control over what is perturbed.
 
 ## Evidential Calibration
 
@@ -89,7 +91,7 @@ Three calibration lines hold here, in descending order of how robust the underly
 
 The **intact-substrate dissociation findings are robust**. That dissociative amnesia spares semantic and procedural memory while severing autobiographical access, that DID patients show differentiable self-related access patterns on one intact brain, and that depersonalisation decouples felt ownership from retrievable content — these are well-supported clinical observations, not contested interpretations. The phenomena are real and the selectivity is channel-shaped.
 
-The **interface/filter reading of those findings is the live hypothesis**. The architecture is what the dissociations establish; the interface interpretation of that architecture is what they make available without settling. A sophisticated production reading absorbs every finding here by positing differential network vulnerability and a self-attribution mechanism; what it cannot do is treat the intact-substrate selectivity as a free lunch, because the connectivity-level explanation it must give is exactly the explanandum the filter reading derives from architecture. The comparison comes due across the cumulative pattern — amnesia, compartmentalisation, depersonalisation, and the wider [dissociation cluster](/topics/clinical-dissociation-as-systematic-evidence/) — not at any single case.
+The **interface/filter reading of those findings is the live hypothesis**. The architecture is what the dissociations establish; the interface interpretation of that architecture is what they make available without settling. A sophisticated production reading absorbs every finding here by positing differential network vulnerability and a self-attribution mechanism; what it cannot do is treat the intact-substrate selectivity as a free lunch, because the connectivity-level explanation it must give is exactly the explanandum the filter reading derives from architecture. The comparison comes due across the cumulative pattern — amnesia, compartmentalisation, depersonalisation, and the wider [[clinical-dissociation-as-systematic-evidence|dissociation cluster]] — not at any single case.
 
 **DID specifically carries the sociocognitive caveat.** Among the three, DID is the contested exhibit. The compartmentalisation pattern is real; whether it arises from trauma-driven splitting or from socially mediated role-enactment is unresolved (Lynn et al. 2014; Lynn et al. 2022). The channel reading rests on the selectivity, which holds under either aetiology — but the article does not present DID as a settled interface exhibit, and a reader should weigh it as the weakest of the three on that axis.
 
@@ -97,26 +99,26 @@ The **interface/filter reading of those findings is the live hypothesis**. The a
 
 Two of the Map's tenets do load-bearing work here.
 
-**[Dualism](/tenets/#dualism)** (Tenet 1) is engaged because intact-substrate selectivity is the case a substrate-emergent reading finds hardest to absorb without extra commitments. When tissue is missing, a production theory has a natural handle — damaged structure, degraded function. When nothing is missing and access still partitions cleanly along the autonoetic channel, the production reading must locate the explanation in connectivity patterns between intact regions, which is precisely the channel architecture the filter reading posits. The dualist reading is not more parsimonious — an interface is not simple — but it pays its mechanism cost upfront at the tenet level rather than per-case at the accommodation level.
+**[[tenets#^dualism|Dualism]]** (Tenet 1) is engaged because intact-substrate selectivity is the case a substrate-emergent reading finds hardest to absorb without extra commitments. When tissue is missing, a production theory has a natural handle — damaged structure, degraded function. When nothing is missing and access still partitions cleanly along the autonoetic channel, the production reading must locate the explanation in connectivity patterns between intact regions, which is precisely the channel architecture the filter reading posits. The dualist reading is not more parsimonious — an interface is not simple — but it pays its mechanism cost upfront at the tenet level rather than per-case at the accommodation level.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** (Tenet 3) is engaged because the channel that decouples in all three cases is the one the conscious subject most actively *performs* — autobiographical self-construction, the binding of content to ownership, the placing of an episode as mine and past. If consciousness merely received a finished stream from the brain, the most fragile element would be the input-richest one, not the one requiring the most active self-directed integration. That the autonoetic channel — high-engagement in both directions — is the one that disconnects, partitions, and unbinds is what a bidirectional interface predicts: the most actively maintained channel is the most expensive to hold together and the first to come apart when the interface is perturbed.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** (Tenet 3) is engaged because the channel that decouples in all three cases is the one the conscious subject most actively *performs* — autobiographical self-construction, the binding of content to ownership, the placing of an episode as mine and past. If consciousness merely received a finished stream from the brain, the most fragile element would be the input-richest one, not the one requiring the most active self-directed integration. That the autonoetic channel — high-engagement in both directions — is the one that disconnects, partitions, and unbinds is what a bidirectional interface predicts: the most actively maintained channel is the most expensive to hold together and the first to come apart when the interface is perturbed.
 
-The case is one face of a broader pattern the catalogue documents across [recovery-order asymmetry](/topics/recovery-order-asymmetry-as-interface-evidence/), [conversion disorder](/topics/conversion-disorder-as-consciousness-side-fault/), and the [structural-lesion dissociations](/topics/neurological-dissociations-as-interface-architecture/). No single case carries the argument; the convergence does, and dissociative states are the corner of it where the substrate stays whole.
+The case is one face of a broader pattern the catalogue documents across [[recovery-order-asymmetry-as-interface-evidence|recovery-order asymmetry]], [[conversion-disorder-as-consciousness-side-fault|conversion disorder]], and the [[neurological-dissociations-as-interface-architecture|structural-lesion dissociations]]. No single case carries the argument; the convergence does, and dissociative states are the corner of it where the substrate stays whole.
 
 ## Further Reading
 
-- [memory-system-vulnerability-hierarchies-as-interface-evidence](/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/) — The parent article; dissociation is the intact-substrate row developed here
-- [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/) — The fuller dissociation cluster beyond memory
-- [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) — The structural-lesion counterpart where substrate *is* damaged
-- [conversion-disorder-as-consciousness-side-fault](/topics/conversion-disorder-as-consciousness-side-fault/) — The motor/sensory analogue of intact-substrate selectivity
-- [recovery-order-asymmetry-as-interface-evidence](/topics/recovery-order-asymmetry-as-interface-evidence/) — The direction-of-change signature the channel reading predicts
-- [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/) — Mine-ness, pastness, double-presence as the autonoetic channel's internal structure
-- [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Tulving's three modes at the concept tier
-- [filter-theory](/concepts/filter-theory/) — The framework the channel reading instantiates
-- [degrees-of-consciousness](/concepts/degrees-of-consciousness/) — The graded-not-binary picture channel architecture implements
-- [evidential-status-discipline](/project/evidential-status-discipline/) — The calibration discipline this article honours
-- [direct-refutation-discipline](/project/direct-refutation-discipline/) — The discipline behind locating rather than over-claiming the disagreement
-- [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/) — The production-vs-filter cost cartography
+- [[memory-system-vulnerability-hierarchies-as-interface-evidence]] — The parent article; dissociation is the intact-substrate row developed here
+- [[clinical-dissociation-as-systematic-evidence]] — The fuller dissociation cluster beyond memory
+- [[neurological-dissociations-as-interface-architecture]] — The structural-lesion counterpart where substrate *is* damaged
+- [[conversion-disorder-as-consciousness-side-fault]] — The motor/sensory analogue of intact-substrate selectivity
+- [[recovery-order-asymmetry-as-interface-evidence]] — The direction-of-change signature the channel reading predicts
+- [[phenomenology-of-memory-and-the-self]] — Mine-ness, pastness, double-presence as the autonoetic channel's internal structure
+- [[anoetic-noetic-autonoetic-consciousness]] — Tulving's three modes at the concept tier
+- [[filter-theory]] — The framework the channel reading instantiates
+- [[degrees-of-consciousness]] — The graded-not-binary picture channel architecture implements
+- [[evidential-status-discipline]] — The calibration discipline this article honours
+- [[direct-refutation-discipline]] — The discipline behind locating rather than over-claiming the disagreement
+- [[mechanism-costs-dualism-thickness-quadrants]] — The production-vs-filter cost cartography
 
 ## References
 

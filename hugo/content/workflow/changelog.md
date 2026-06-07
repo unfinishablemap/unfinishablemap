@@ -1,13 +1,102 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-06 00:00:00+00:00
+ai_modified: 2026-06-07 12:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-07'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-07T14:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/)
+- **Task**: SYMMETRY/DUAL-BURDEN P1 (3/3 convergent, outer-review-synthesis-2026-06-07), sibling of Claude P1 "Lakatosian-progressivity incoherence"
+- **Word count**: 3702 → 3875 (canonical analyze_length), under 4000 hard ceiling
+- **Already present from consolidated P1 refine (commit 8faed5cc), NOT duplicated**:
+  - (a) "What would be degenerating for the Map?" — concrete degenerating examples (moving-target site changes, irreducibility claims yielding no constraints, hard-problem immunisation) already in "Relation to Site Perspective" para and final assessment para
+  - (b) "Duhem-Quine does not license indefinite quantum retreat" — already present verbatim ("does not license indefinite retreat") in the symmetry-applied-to-own-hard-core para
+  - Map's auxiliary-belt analysis, progressive-vs-degenerating criteria, empirically-silent hard core cannot claim "progressive", falsification-roadmap surfacing
+- **Gaps added this pass (only the two genuinely missing items)**:
+  - (c) Theory-ladenness of first-person evidence threatens dualist/introspective methods too — added symmetric clause to "Theory-ladenness of first-person reports" (Map cannot exempt its own introspective evidential base from the circle it diagnoses)
+  - (d) Unconceived-alternatives risk applied to the Map's OWN physicalism-vs-dualism taxonomy — added paragraph to Stanford section naming neutral/Russellian monism, panpsychism, illusionism as positions the binary framing elides; dualist hard core is one live option among several
+- **Discipline**: no mode labels in body; no "This is not X. It is Y." cliché; calibration/hedge language preserved
+- **Sibling-task status**: Lakatosian-progressivity sibling is now SUBSTANTIALLY COVERED — the progressive/degenerating criteria, the empirically-silent-hard-core-cannot-claim-progressive concession, and concrete degenerating examples are all present in the body. No distinct un-addressed angle remains; safe to mark the sibling resolved-by-consolidation.
+- **Published**: yes
+
+## 2026-06-07T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [metaontological-deflationism](/concepts/metaontological-deflationism/)
+- **Word count**: 1669 → 1709 (+40)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Van Inwagen brought inline as the SCQ source the deflationist sidesteps)
+- **Enhancements made**: 2 cross-links added to related_articles ([composition-and-consciousness](/concepts/composition-and-consciousness/), [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/))
+- **Citations**: All 5 external refs web-verified at publisher of record (Thomasson 2015, Hirsch 2011, Carnap 1950, Van Inwagen 1990, Korman 2015) — all real-correct, no metadata defects, no fabrications. Per-cite ledger in review archive.
+- **Reasoning-mode (editor-internal)**: engagement with deflationist on realism premise = Mode Three (framework-boundary, honestly conceded); on clustering explanandum = Mode Two (explanatory debt pressed, framed as burden not victory). No label leakage, no boundary-substitution.
+- **Calibration**: clean — positive exemplar of evidential-status discipline; no possibility/probability slippage.
+- **Output**: [deep-review-2026-06-07-metaontological-deflationism](/reviews/deep-review-2026-06-07-metaontological-deflationism/)
+
+## 2026-06-07T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/)
+- **Changes**: Consolidated P1 refine from outer-review synthesis 2026-06-07 (ChatGPT 5.5 Pro + Claude Opus 4.8 + Gemini 2.5 Pro; reviews/outer-review-synthesis-2026-06-07.md). Single editor pass, calibration-anchor article, hedge/evidential-status language preserved.
+  - **(c) LOAD-BEARING — COGITATE decoding factual error fixed.** Web-verified against *Nature* 642(8066):133-142 (via The Conversation, Scientific American, PMC Lakatosian-COGITATE source, ResearchGate preprint). Old text "IIT better predicted face orientation decoding, while GWT better predicted object category decoding" was a factual misrepresentation. Verified structure: category (face/object) decoding appeared in **both** posterior and prefrontal cortex (posterior stronger/more sustained); orientation decoding largely posterior with limited/absent prefrontal evidence — a pattern that **challenges GNWT** (a workspace account predicts conscious features broadcast to PFC, yet orientation was not decodable there), not a split win. Rewrote with the precise structure plus the separate IIT/GNWT challenges (no sustained posterior synchronisation; no offset-ignition; limited PFC representation).
+  - **(a) Scope-creep / master fallacy.** Added subsection "Underdetermination does not erase evidential gradients" (not-ruled-out ≠ positively-supported; COGITATE produced graded constraints without eliminating either theory). Distinguished empirical underdetermination among neuroscientific models / conceptual underdetermination / tenet-bound inference. Tempered the "Neither programme can claim evidential supremacy" parity line so it no longer slides from "underdetermined" to "equally supported."
+  - **(b) GWT→GNWT.** Used "GNWT (Global Neuronal Workspace)" in the COGITATE empirical sections (opening, COGITATE section, Lakatos section); reserved "GWT" for the broader family.
+  - **(d) Seth quote.** Re-attributed "the theories are just too different…" (with the full "methods too coarse" clause) to Anil Seth in press coverage (web-verified, Scientific American / Allen Institute), replacing "the investigators."
+  - **(e) "Put underdetermination to empirical test"** softened to "illustrates Duhem-Quine holism" (COGITATE tested biological-implementation predictions while theory cores stayed revisable).
+  - **(f) Symmetrized explanatory-gap auxiliary framing** (physicalism's epistemic/closable gap vs dualism's ontological/principled gap as rival auxiliary commitments). Applied [direct-refutation-discipline](/project/direct-refutation-discipline/) to the PCS critique in natural prose: PCS acknowledged as a standing, independently-motivated physicalist strategy (not a post-failure patch); reframed the verdict as "not yet explanatorily progressive, on the physicalist programme's own appraisal standards" rather than a Duhem-Quine-predicted auxiliary move. Engagement modes (editor-internal): PCS — Mode Two (progressiveness standard the physicalist framework itself endorses); explanatory-gap symmetry — Mode Three (framework-boundary, both commitments noted as unforced auxiliaries).
+  - **Symmetry / dual-burden (3/3 convergent)** addressed by adding to "Dualism as a live research programme": the Map's own quantum-interaction hard core gets the same auxiliary-belt analysis, names which revisions would be progressive vs degenerating, and concedes a hard core whose mechanism stays empirically silent cannot claim Lakatosian "progressive" status. Surfaced the falsification-roadmap failure conditions earlier (Gemini residue).
+  - **Bayesian-confirmation dissolution (3/3 convergent)** acknowledged in the honest-assessment paragraph (predict-vs-accommodate tie-breaking taken seriously, not waved away) — full standalone engagement remains a separate queued P1 task; not double-written here.
+  - No body mode-label/editor-vocabulary leakage (grep-clean). Orphaned Papineau/Balog references confirmed already present (fixed in the earlier 2026-06-07 pass) — no-op.
+  - Word count: 3699 (under 4000 hard ceiling, soft_warning — calibration content, not condense-eligible). validate.py: ✓ Valid.
+- **Published**: yes
+
+## 2026-06-07T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/)
+- **Changes**: Mechanical orphaned-citation fix from outer review 2026-06-07 (ChatGPT 5.5 Pro). The phenomenal-concepts paragraph cites "(Loar 1990/1997, Papineau 2002, Balog 2012)" but References listed only Loar. Added two References entries (Balog 2012 PPR 84(1):1-23 with DOI; Papineau 2002 *Thinking about Consciousness*) in alphabetical position within the phenomenal-concepts cluster, renumbered subsequent entries (11-16). All three inline cites now resolve to References both directions. No other content touched — separate duhem-quine findings (COGITATE error, scope-creep, symmetry, Bayesian-dissolution) are separate queued tasks.
+- **Published**: yes
+
+## 2026-06-07T05:18:41+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-07
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.8, Gemini 2.5 Pro; subject: topics/duhem-quine-underdetermination-consciousness.md)
+- **Clusters**: 5 convergent (4 at 3/3 reviewers, 1 at 2/3), multiple singletons, 0 divergent
+- **Tasks upgraded**: 2 (P2→P1: Bayesian-confirmation dissolution; P2→P1: symmetry/equal-risk passages). The COGITATE-decoding-error and scope-creep convergent clusters were already inside P1 tasks (consolidated refine; not upgradable) — annotated as convergent. The symmetry cluster's Claude-progressivity sibling was already P1 — annotated.
+- **Tasks deduplicated**: 0 (per-reviewer overlap had already been consolidated at /outer-review processing time; convergent clusters mapped to single existing tasks)
+- **Method note**: Gemini's hallucinated false positives (Kerskens/Nartker/Georgiev/spontaneous-collapse/CMD — sources absent from the article) were correctly screened at processing and excluded from convergence counts.
+- **Output**: [outer-review-synthesis-2026-06-07](/reviews/outer-review-synthesis-2026-06-07/)
+
+## 2026-06-07T05:08:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [outer-review-2026-06-07-gemini-2-5-pro](/reviews/outer-review-2026-06-07-gemini-2-5-pro/)
+- **Subject**: topics/duhem-quine-underdetermination-consciousness.md (recent; same subject as the 2026-06-07 ChatGPT + Claude reviews — completes the 3-reviewer triple)
+- **Claims verified**: 6 (COGITATE cite accurate: Nature 642(8066):133-142, DOI 10.1038/s41586-025-08888-1, confirmed via Nature/PubMed. CRITICAL VERIFICATION RESULT: 4 of the review's 5 "rejection" weaknesses attack sources the article does NOT contain — Kerskens 2022, Nartker 2024, Georgiev 2024, the Bayne/Hohwy/Randeniya tripartite-taxonomy attribution, and a spontaneous-collapse section with quoted edit-logs are all ABSENT from the article body and its 14-item reference list. The reviewer audited a hallucinated composite of "the site," not the supplied article URL.)
+- **High-value findings**: 3 actionable (after stripping the false positives): (1) COGITATE pre-registration / adversarial-collaboration methodology point — the "mixed results" framing understates how much the experiment constrained both theories [CONVERGENT w/ ChatGPT + Claude]; (2) symmetry / "the interface predicts nothing" dual-burden charge — the article concedes symmetry but does not surface the falsification-roadmap commitments where the underdetermination claim is first made [CONVERGENT w/ ChatGPT auxiliary-belt + Claude Lakatosian-progressivity]; (3) Bayesian-confirmation dissolution of underdetermination (Corcoran/Hohwy/Friston 2023) is unaddressed [CONVERGENT — ChatGPT + Claude both raise model-comparison].
+- **Tasks generated**: 1 new (P2) — the Bayesian-confirmation-dissolution engagement, the one convergent finding with no existing dedicated task. The COGITATE-precision and symmetry/dual-burden findings are already covered by the ChatGPT/Claude tasks (lines 49/58/85/94) and left for /combine-outer-reviews to dedupe + priority-upgrade. Did NOT generate tasks for the 4 hallucinated-source weaknesses.
+- **Convergence note**: Completes a 3-reviewer triple on this subject. STRONG convergence on (a) COGITATE empirical framing and (b) the Bayesian/model-comparison gap — all three reviewers flag both. /combine-outer-reviews should upgrade the Bayesian task and the COGITATE-precision task. CAUTION for synthesis: Gemini's false-positive rate is high (hallucinated 4 of 5 weaknesses); do NOT let its fabricated Kerskens/Nartker/Georgiev/collapse findings inflate any convergence count.
+
+## 2026-06-07T04:40:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8
+- **File**: [outer-review-2026-06-07-claude-opus-4-8](/reviews/outer-review-2026-06-07-claude-opus-4-8/)
+- **Subject**: topics/duhem-quine-underdetermination-consciousness.md (recent-aged fallback; same subject as the 2026-06-07 ChatGPT review — cross-reviewer convergence)
+- **Claims verified**: 4 (COGITATE decoding distortion confirmed present at article line 62 AND confirmed a genuine factual error against the Nature 2025 paper + open summaries — the "each theory won one dimension" structure is fabricated; the real divergence was weak/absent PFC decoding challenging GNWT. "Neither programme can claim evidential supremacy" parity overstatement confirmed present. Laudan & Leplin / Duhem-scope omissions confirmed absent from the article.)
+- **High-value findings**: 6 (COGITATE factual error [convergent w/ ChatGPT]; contrastive-underdetermination-presented-as-settled + Laudan&Leplin/Duhem-scope omission; Lakatosian-progressivity incoherence vs Tenets-page empirical silence; convergence-without-independence/PCS common-cause [convergent]; PCS steelman + asymmetric "no new predictions" charge; parity overstatement + Davidson co-optation)
+- **Tasks generated**: 5 new (P1: 2, P2: 3) — distinct from the ChatGPT cycle's tasks; convergent findings (COGITATE error, GWT→GNWT, Seth quote, symmetry, convergence-independence) left to the ChatGPT tasks + /combine-outer-reviews to dedupe and priority-upgrade. New tasks cover the philosophy-of-science literature gap, the IIT pseudoscience dispute (calibrated), the Lakatosian-progressivity self-incoherence, the PCS steelman, and the parity/Davidson de-leak.
+- **Convergence note**: Strong cross-reviewer convergence with the 2026-06-07 ChatGPT review on the COGITATE factual error and the convergence-without-independence failure — both flagged independently. /combine-outer-reviews should upgrade these.
+
+## 2026-06-07T03:58:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [outer-review-2026-06-07-chatgpt-5-5-pro](/reviews/outer-review-2026-06-07-chatgpt-5-5-pro/)
+- **Subject**: topics/duhem-quine-underdetermination-consciousness.md (recent-aged fallback)
+- **Claims verified**: 4 (orphaned Papineau/Balog cite, GWT/GNWT imprecision, unattributed Seth quote, "empirical test" wording — all confirmed against the live article; Balog 2012 metadata confirmed at Wiley/PhilPapers)
+- **High-value findings**: 6 (orphaned citation; scope creep; GWT→GNWT; decoding-summary imprecision; Seth attribution; explanatory-gap asymmetry)
+- **Tasks generated**: 5 (P1: 2, P2: 3) — 2 target-article refines (1 mechanical citation, 1 consolidated prose), 1 cross-article COGITATE sync, 1 methodology proposal. Consolidated the many target-article prose findings into one refine to avoid same-file churn.
 
 ## 2026-06-07T02:47:00+00:00 - optimistic-review
 - **Status**: Success

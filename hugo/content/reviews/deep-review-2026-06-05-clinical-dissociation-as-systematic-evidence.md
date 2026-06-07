@@ -49,7 +49,7 @@ Fifth deep review. Scope by directive: a **full live-literature citation audit**
 
 ### Cross-corpus divergence grep
 - "down-weighting of interoceptive precision" phrasing was **localized to this article**; no propagation. The Ciaunica references elsewhere in the corpus (mine-ness, ownership-void, necessary-opacity) cite a *different* Ciaunica paper (Ciaunica, Charlton & Farmer, "When the Window Cracks", 2020/2021, *Phenomenology and the Cognitive Sciences*) — correct and unaffected.
-- The "eleven participants" Reinders numeric claim lives only here; sibling [dissociative-states-as-intact-substrate-interface-evidence](/topics/dissociative-states-as-intact-substrate-interface-evidence/) cites Reinders without a sample-size figure, so no inconsistency.
+- The "eleven participants" Reinders numeric claim lives only here; sibling [dissociative-states-as-intact-substrate-interface-evidence](/topics/clinical-dissociation-as-systematic-evidence/) cites Reinders without a sample-size figure, so no inconsistency.
 
 ### Calibration check (load-bearing)
 No possibility/probability slippage, no source/Map conflation, no tenet-as-evidence-upgrade. The two-tier compound-signature spine (architecture earned / dualist significance deferred) is intact and matches [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/). A tenet-accepting reviewer would not flag any claim as overstated. Preserved verbatim.
