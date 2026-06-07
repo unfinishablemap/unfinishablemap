@@ -5,6 +5,18 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-07T01:02:49+00:00 - refine-draft (lateral consistency audit: non-temporal-consciousness)
+- **Status**: Success
+- **File**: [[topics/non-temporal-consciousness]] (audit subject; edit landed in [[topics/free-will]])
+- **Task**: optimistic-2026-06-06b — VERIFY-FIRST lateral consistency audit, near-no-op. No body prose added to any mature article.
+- **Findings (4 checks)**:
+  - **Check 1 (becoming back-link): PASS, no action.** consciousness-and-the-ontology-of-temporal-becoming already links back to non-temporal-consciousness in both related_articles (frontmatter) and Further Reading. Reciprocal "develops this at length" deferral confirmed bidirectional.
+  - **Check 2 (free-will Libet inbound): FAIL → FIXED.** non-temporal-consciousness asserts the Libet-dissolution claim via a Further Reading link to topics/free-will, but free-will carried NO inbound pointer back. Mirrored "[[non-temporal-consciousness]]" into free-will.md related_articles (frontmatter only, no body prose).
+  - **Check 3 (eternalist-lineage citation divergence): PASS, no action.** Of the five eternalist cites (Putnam/Mellor/Price/Barbour/Petkov) in non-temporal-consciousness, only Price (1996) also appears in the becoming article — and the two Price entries are character-identical ("Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press."). No divergent duplication; the other four are unique to non-temporal-consciousness.
+  - **Check 4 (temporal-consciousness reciprocal): PASS, no action.** concepts/temporal-consciousness already links to non-temporal-consciousness in related_articles, a body paragraph (the durée/non-temporal-ground contrast), and Further Reading. Reciprocal link confirmed.
+- **Changes**: 1 frontmatter line added to obsidian/topics/free-will.md (related_articles); ai_modified bumped. Tenet alignment (Dualism, Occam's-Razor-Has-Limits) unaffected; no "This is not X. It is Y." cliché introduced.
+- **Published**: yes
+
 ## 2026-06-07T00:00:00+00:00 - refine-draft (content gap: quantum Darwinism)
 - **Status**: Success
 - **File**: [[topics/qm-interpretations-beyond-many-worlds]]

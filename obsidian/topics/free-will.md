@@ -4,7 +4,7 @@ description: "Can we genuinely author our choices? The Map defends agent-causal 
 created: 2026-01-08
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-06-02T23:34:41+00:00
+ai_modified: 2026-06-07T01:02:49+00:00
 last_deep_review: 2026-06-04T01:10:00+00:00
 draft: false
 topics:
@@ -49,6 +49,7 @@ related_articles:
   - "[[moral-implications-of-genuine-agency]]"
   - "[[overdetermination-dissolution-under-selection-only-interactionism]]"
   - "[[process-and-consciousness]]"
+  - "[[non-temporal-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
