@@ -5,6 +5,17 @@ ai_modified: 2026-06-07T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-07T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/integrated-information-theory]]
+- **Task**: REDIRECTED from Claude Opus 4.8 outer review 2026-06-07 (IIT-pseudoscience-dispute engagement). Origin task targeted topics/duhem-quine-underdetermination-consciousness.md but it is at its 4000w HARD ceiling (3998w) and cannot take new content. The dispute is fundamentally ABOUT IIT, so the engagement landed in its natural home, this concepts article.
+- **Web-verify (all 3 figures confirmed at publisher of record / authoritative source before insertion)**: (1) Open letter — 15 Sept 2023, PsyArXiv, **124 signatories** incl. Dennett, LeDoux, Churchland, Baars (confirmed Nature news d41586-023-02971-1 + Wikipedia IIT). (2) **Nature Neuroscience** commentary "What Makes a Theory of Consciousness Unscientific?", 10 March 2025, **vol 28:689-693, DOI 10.1038/s41593-025-01881-x** (confirmed nature.com/articles/s41593-025-01881-x; authored by "IIT-Concerned" collective). (3) Survey — **60 respondents, 8% "fully" agreed, 20% "not at all" agreed** with the pseudoscience label (confirmed Wikipedia IIT; survey of consciousness-paper authors 2013-2023).
+- **Changes**: Expanded the existing "The Pseudoscience Accusation" subsection. Added the open-letter date + named signatories, the 2025 Nature Neuroscience commentary and its specific charge (untestable consequences + bold non-empirical claims), and the calibration BOTH ways via the survey (8%/60 fully agree, 20% disagree → "vocal minority, not field consensus"). Preserved the existing "extrapolation is inevitable / dinosaurs-paleontology" defender rebuttal. Added References entry for the NN commentary.
+- **Calibration discipline**: did NOT endorse the pseudoscience charge; presented it both ways. No mode labels in body; no "This is not X. It is Y." cliché. Preserved all hedge/calibration language.
+- **Final body word count**: 3414 / 3500 hard (tools.curate.length confirmed, status soft_warning) — UNDER ceiling (~86w headroom).
+- **Deferred**: duhem-quine cross-link to this IIT engagement deferred to the standing "HUMAN LENGTH DECISION (2026-06-07)" bundle for duhem-quine-underdetermination-consciousness.md — that article (3998/4000) cannot take even a cross-link without a condense/split decision.
+- **Published**: yes
+
 ## 2026-06-07T07:21:09+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/duhem-quine-underdetermination-consciousness]]

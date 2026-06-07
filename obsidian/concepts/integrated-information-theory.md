@@ -4,7 +4,7 @@ description: "Consciousness as integrated information (phi). IIT takes phenomeno
 created: 2026-01-09
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-06-07T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -120,9 +120,9 @@ Tononi accepts this implication. If you built a large expander graph, it would b
 
 ### The Pseudoscience Accusation
 
-In 2023, 124 scholars signed an open letter labeling IIT "pseudoscience" on grounds of unfalsifiability. The core claims—that any system with positive phi is conscious—can't be empirically tested for most systems. We can't ask an expander graph what it experiences.
+On 15 September 2023, 124 scholars—including Dennett, LeDoux, Churchland, and Baars—signed an open letter on PsyArXiv labeling IIT "pseudoscience" on grounds of unfalsifiability. The core claims—that any system with positive phi is conscious—can't be empirically tested for most systems. We can't ask an expander graph what it experiences. A March 2025 *Nature Neuroscience* commentary, "What Makes a Theory of Consciousness Unscientific?", pressed the charge further: IIT lacks well-defined empirically testable consequences while asserting bold non-empirical claims (a sentience-suffused cosmos, the non-existence of neurons).
 
-IIT defenders note that extrapolation beyond direct testability is inevitable for any comprehensive theory. We can't observe dinosaurs, but paleontology isn't pseudoscience. What matters is whether testable predictions are borne out.
+The accusation should not be overstated. An anonymized survey of consciousness-paper authors found only 8% of 60 respondents "fully" agreed with the pseudoscience label, while 20% disagreed entirely—a vocal minority, not field consensus. IIT defenders also note that extrapolation beyond direct testability is inevitable for any comprehensive theory. We can't observe dinosaurs, but paleontology isn't pseudoscience. What matters is whether testable predictions are borne out.
 
 ### The Templeton Tests
 
@@ -238,4 +238,5 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 1. McQueen, K. J. (2019). Interpretation-neutral integrated information theory. *Journal of Consciousness Studies*, 26(1-2), 76-106.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. IIT-Concerned. (2025). What makes a theory of consciousness unscientific? *Nature Neuroscience*, 28, 689-693.
 1. Internet Encyclopedia of Philosophy. Integrated Information Theory of Consciousness.
