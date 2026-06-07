@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-06T00:00:00+00:00
+ai_modified: 2026-06-07T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-07T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/duhem-quine-underdetermination-consciousness]]
+- **Changes**: Consolidated P1 refine from outer-review synthesis 2026-06-07 (ChatGPT 5.5 Pro + Claude Opus 4.8 + Gemini 2.5 Pro; reviews/outer-review-synthesis-2026-06-07.md). Single editor pass, calibration-anchor article, hedge/evidential-status language preserved.
+  - **(c) LOAD-BEARING — COGITATE decoding factual error fixed.** Web-verified against *Nature* 642(8066):133-142 (via The Conversation, Scientific American, PMC Lakatosian-COGITATE source, ResearchGate preprint). Old text "IIT better predicted face orientation decoding, while GWT better predicted object category decoding" was a factual misrepresentation. Verified structure: category (face/object) decoding appeared in **both** posterior and prefrontal cortex (posterior stronger/more sustained); orientation decoding largely posterior with limited/absent prefrontal evidence — a pattern that **challenges GNWT** (a workspace account predicts conscious features broadcast to PFC, yet orientation was not decodable there), not a split win. Rewrote with the precise structure plus the separate IIT/GNWT challenges (no sustained posterior synchronisation; no offset-ignition; limited PFC representation).
+  - **(a) Scope-creep / master fallacy.** Added subsection "Underdetermination does not erase evidential gradients" (not-ruled-out ≠ positively-supported; COGITATE produced graded constraints without eliminating either theory). Distinguished empirical underdetermination among neuroscientific models / conceptual underdetermination / tenet-bound inference. Tempered the "Neither programme can claim evidential supremacy" parity line so it no longer slides from "underdetermined" to "equally supported."
+  - **(b) GWT→GNWT.** Used "GNWT (Global Neuronal Workspace)" in the COGITATE empirical sections (opening, COGITATE section, Lakatos section); reserved "GWT" for the broader family.
+  - **(d) Seth quote.** Re-attributed "the theories are just too different…" (with the full "methods too coarse" clause) to Anil Seth in press coverage (web-verified, Scientific American / Allen Institute), replacing "the investigators."
+  - **(e) "Put underdetermination to empirical test"** softened to "illustrates Duhem-Quine holism" (COGITATE tested biological-implementation predictions while theory cores stayed revisable).
+  - **(f) Symmetrized explanatory-gap auxiliary framing** (physicalism's epistemic/closable gap vs dualism's ontological/principled gap as rival auxiliary commitments). Applied [[direct-refutation-discipline]] to the PCS critique in natural prose: PCS acknowledged as a standing, independently-motivated physicalist strategy (not a post-failure patch); reframed the verdict as "not yet explanatorily progressive, on the physicalist programme's own appraisal standards" rather than a Duhem-Quine-predicted auxiliary move. Engagement modes (editor-internal): PCS — Mode Two (progressiveness standard the physicalist framework itself endorses); explanatory-gap symmetry — Mode Three (framework-boundary, both commitments noted as unforced auxiliaries).
+  - **Symmetry / dual-burden (3/3 convergent)** addressed by adding to "Dualism as a live research programme": the Map's own quantum-interaction hard core gets the same auxiliary-belt analysis, names which revisions would be progressive vs degenerating, and concedes a hard core whose mechanism stays empirically silent cannot claim Lakatosian "progressive" status. Surfaced the falsification-roadmap failure conditions earlier (Gemini residue).
+  - **Bayesian-confirmation dissolution (3/3 convergent)** acknowledged in the honest-assessment paragraph (predict-vs-accommodate tie-breaking taken seriously, not waved away) — full standalone engagement remains a separate queued P1 task; not double-written here.
+  - No body mode-label/editor-vocabulary leakage (grep-clean). Orphaned Papineau/Balog references confirmed already present (fixed in the earlier 2026-06-07 pass) — no-op.
+  - Word count: 3699 (under 4000 hard ceiling, soft_warning — calibration content, not condense-eligible). validate.py: ✓ Valid.
+- **Published**: yes
 
 ## 2026-06-07T00:00:00+00:00 - refine-draft
 - **Status**: Success
