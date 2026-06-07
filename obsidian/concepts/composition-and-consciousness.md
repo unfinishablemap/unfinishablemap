@@ -4,7 +4,7 @@ description: "When do parts form wholes, and why can't consciousness be assemble
 created: 2026-03-24
 modified: 2026-06-01
 human_modified:
-ai_modified: 2026-06-03T06:25:00+00:00
+ai_modified: 2026-06-07T00:00:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-the-metaphysics-of-composition]]"
@@ -24,6 +24,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[the-binding-problem]]"
+  - "[[metaontological-deflationism]]"
   - "[[consciousness-and-the-metaphysics-of-individuation]]"
   - "[[born-rule-and-the-consciousness-interface]]"
   - "[[consciousness-metaphysics-of-composition-2026-04-05]]"
@@ -54,7 +55,7 @@ Van Inwagen's formulation makes the question precise: "For any xs, is there a y 
 
 ## Consciousness as Composition Criterion
 
-This concept page is a primer: it gives the gist of the three answers and the double-role thesis, then points to [[consciousness-and-the-metaphysics-of-composition]], which carries the full dialectic—the rival deflationist and naturalistic accounts, the IIT calibration, and the case that the convergence supports dualism.
+This concept page is a primer: it gives the gist of the three answers and the double-role thesis, then points to [[consciousness-and-the-metaphysics-of-composition]], which carries the full dialectic—the rival deflationist and naturalistic accounts, the IIT calibration, and the case that the convergence supports dualism. The [[metaontological-deflationism|deflationist rival]]—easy ontology and quantifier variance—gets its own dedicated treatment, since it denies there is a deep compositional fact for any criterion to track.
 
 Three restricted-composition strategies, selected from a wider field, each place a feature near the boundary where consciousness occurs at the centre of what makes a genuine whole. **Van Inwagen's organicism** restricts composition to cases where the activity of simples constitutes a life; consciousness enters only indirectly, since organisms are the domain where it occurs. **Merricks' eliminativism** keeps only composites with irreducible causal powers, and argues that conscious organisms alone escape elimination because consciousness "does not even globally supervene on microscopic physical properties" (Merricks 2001). **McQueen and Tsuchiya's integrated-information approach** makes composition occur where integrated information (Φ) is maximised—though they explicitly decouple that composition criterion from consciousness itself.
 

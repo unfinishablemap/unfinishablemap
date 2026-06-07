@@ -5,6 +5,16 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-07T00:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Metaontological deflationism (easy ontology / quantifier variance)
+- **Output**: [[concepts/metaontological-deflationism]]
+- **Word count**: 1669 (67% of 2500 concepts target)
+- **Based on research**: No (derived from existing corpus; scope from optimistic-2026-06-05g)
+- **Citations verified at publisher of record**: Thomasson *Ontology Made Easy* (2015 OUP, ISBN 978-0-19-938511-9); Hirsch *Quantifier Variance and Realism: Essays in Metaontology* (2011 OUP, ISBN 978-0-19-973211-1); Carnap "Empiricism, Semantics, and Ontology" (1950).
+- **Reciprocal cross-links created**: inbound from topics/consciousness-and-the-metaphysics-of-composition (body link + related_articles) and concepts/composition-and-consciousness (body link + related_articles); outbound back to both, plus parsimony-epistemology, emergence, tenets. Not an orphan.
+- **Tenet framing**: Occam's-Razor-Has-Limits primary (deflationism as a limiting case of parsimony the Map resists where consciousness is at stake); Dualism conditional. Map reply framed as a standing burden, not a refutation, per evidential-status-discipline.
+
 ## 2026-06-07T01:02:49+00:00 - refine-draft (lateral consistency audit: non-temporal-consciousness)
 - **Status**: Success
 - **File**: [[topics/non-temporal-consciousness]] (audit subject; edit landed in [[topics/free-will]])

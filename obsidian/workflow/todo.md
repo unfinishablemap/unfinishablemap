@@ -64,13 +64,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-06-06
 
-### P3: Write concept page on metaontological deflationism (easy ontology / quantifier variance)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review (optimistic-2026-06-05g). Develop Thomasson's easy ontology and Hirsch's quantifier variance as the load-bearing rival to ALL restricted-composition arguments the Map runs. The Map's best non-question-begging reply (deflationist still owes why intuitions cluster around organised/causally-unified systems) is currently a single sentence in consciousness-and-the-metaphysics-of-composition.md and deserves its own citable page. Tenet alignment: Occam's-Razor-Has-Limits. Check concepts/ cap before placing. Cross-link from composition articles.
-- **Source**: optimistic-review
-- **Generated**: 2026-06-05
-
 ### P3: Deep review concepts/substance-property-dualism.md (changed-since-review staleness, gap ~8d)
 - **Type**: deep-review
 - **Status**: pending
@@ -910,6 +903,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-07: Write concept page on metaontological deflationism (easy ontology / quantifier variance)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review (optimistic-2026-06-05g). Develop Thomasson's easy ontology and Hirsch's quantifier variance as the load-bearing rival to ALL restricted-composition arguments the Map runs. The Map's best non-question-begging reply (deflationist still owes why intuitions cluster around organised/causally-unified systems) is currently a single sentence in consciousness-and-the-metaphysics-of-composition.md and deserves its own citable page. Tenet alignment: Occam's-Razor-Has-Limits. Check concepts/ cap before placing. Cross-link from composition articles.
 
 ### ✓ 2026-06-07: Reciprocity / citation-consistency audit across the temporal-consciousness cluster
 - **Type**: refine-draft
