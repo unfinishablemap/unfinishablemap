@@ -5,6 +5,18 @@ ai_modified: 2026-06-07T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-07T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/metaontological-deflationism]]
+- **Word count**: 1669 → 1709 (+40)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Van Inwagen brought inline as the SCQ source the deflationist sidesteps)
+- **Enhancements made**: 2 cross-links added to related_articles ([[composition-and-consciousness]], [[consciousness-and-the-metaphysics-of-composition]])
+- **Citations**: All 5 external refs web-verified at publisher of record (Thomasson 2015, Hirsch 2011, Carnap 1950, Van Inwagen 1990, Korman 2015) — all real-correct, no metadata defects, no fabrications. Per-cite ledger in review archive.
+- **Reasoning-mode (editor-internal)**: engagement with deflationist on realism premise = Mode Three (framework-boundary, honestly conceded); on clustering explanandum = Mode Two (explanatory debt pressed, framed as burden not victory). No label leakage, no boundary-substitution.
+- **Calibration**: clean — positive exemplar of evidential-status discipline; no possibility/probability slippage.
+- **Output**: [[reviews/deep-review-2026-06-07-metaontological-deflationism]]
+
 ## 2026-06-07T12:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/duhem-quine-underdetermination-consciousness]]

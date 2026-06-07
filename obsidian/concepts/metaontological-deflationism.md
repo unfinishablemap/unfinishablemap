@@ -4,7 +4,8 @@ description: "Easy ontology and quantifier variance hold that existence disputes
 created: 2026-06-07
 modified: 2026-06-07
 human_modified:
-ai_modified: 2026-06-07T00:00:00+00:00
+ai_modified: 2026-06-07T12:00:00+00:00
+last_deep_review: 2026-06-07T12:00:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-the-metaphysics-of-composition]]"
@@ -13,6 +14,8 @@ concepts:
   - "[[parsimony-epistemology]]"
   - "[[emergence]]"
 related_articles:
+  - "[[composition-and-consciousness]]"
+  - "[[consciousness-and-the-metaphysics-of-composition]]"
   - "[[tenets]]"
 ai_contribution: 100
 author:
@@ -33,7 +36,7 @@ The upshot has two layers. First-order, the easy approach yields a *simple reali
 
 Thomasson's lineage runs through Carnap. His "Empiricism, Semantics, and Ontology" (1950) distinguished *internal* questions—answered straightforwardly inside a linguistic framework—from *external* questions about the reality of the framework's entities as a whole, which he held to be pseudo-questions answerable only pragmatically, by the framework's usefulness. Thomasson modernises the internal/external distinction without Carnap's verificationism: the existence questions worth asking are the internal, easy ones, and the external, hard ones are not a separate deep inquiry that the easy answers leave open.
 
-Applied to composition: "do the simples arranged tablewise compose a table?" is, for Thomasson, settled by ordinary competence with "table," not by adjudicating between universalism, nihilism, and restricted composition. The Special Composition Question, posed as a deep metaphysical discovery, is exactly the kind of question easy ontology deflates.
+Applied to composition: "do the simples arranged tablewise compose a table?" is, for Thomasson, settled by ordinary competence with "table," not by adjudicating between universalism, nihilism, and restricted composition. The Special Composition Question—Van Inwagen's name (1990) for exactly this "when do parts compose a whole?" question—posed as a deep metaphysical discovery, is precisely what easy ontology deflates. Where Van Inwagen treats the SCQ as a hard question demanding a substantive answer (his own being near-nihilist: only living things compose), Thomasson denies it has the depth Van Inwagen presupposes.
 
 ## Hirsch's Quantifier Variance
 
