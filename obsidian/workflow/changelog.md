@@ -5,6 +5,19 @@ ai_modified: 2026-06-07T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-07T07:48:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-memory-and-the-self]]
+- **Word count**: 3170 → 3170 (+0) — 106% of soft (3000), under hard (4000), length-neutral
+- **Critical issues addressed**: 0 (none found — converged, fifth review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (stable; new prose since last review already well-integrated)
+- **Web-verify (§2.4)**: Gentry 2021 re-verified at publisher of record (Springer / *Review of Philosophy and Psychology*, doi:10.1007/s13164-021-00574-1, author Hunter Gentry) — real-correct; the 2026-06-06 placeholder correction confirmed accurate. Remaining cites carry verified state from prior ledgers + the 2026-06-06 verification pass. No superlative claims (currency sweep empty).
+- **Calibration**: clean; the 2026-05-16 confabulation-resistance paragraph (only new prose since last deep review) declines all evidential upgrades and preserves the data/metaphysics separation. No possibility/probability slippage.
+- **Cross-links**: all resolve incl. new `#confabulation-resistance-discipline` anchor (reciprocal back-link present), confabulation-void, evidential-status-discipline.
+- **Engagement classification**: unchanged; source-monitoring steelman stays Mode Two. No boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-07-phenomenology-of-memory-and-the-self]]
+
 ## 2026-06-07T12:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/integrated-information-theory]]
