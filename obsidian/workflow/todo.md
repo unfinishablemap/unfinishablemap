@@ -37,6 +37,51 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Fix orphaned Papineau/Balog citations in duhem-quine-underdetermination-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/duhem-quine-underdetermination-consciousness.md
+- **Notes**: From outer review 2026-06-07 (ChatGPT 5.5 Pro). The phenomenal-concepts paragraph (line ~92) cites "(Loar 1990/1997, Papineau 2002, Balog 2012)" inline, but the References list contains only Loar. Add full References entries for the two orphaned cites (verified accurate in the review's Verification Notes): Papineau, D. (2002). *Thinking about Consciousness*. Oxford: Clarendon Press; and Balog, K. (2012). "In Defense of the Phenomenal Concept Strategy." *Philosophy and Phenomenological Research* 84(1):1–23 (DOI 10.1111/j.1933-1592.2011.00541.x). Mechanical, length-neutral-ish fix. This is the corpus-recurring orphaned-citation defect class.
+- **Review file**: `reviews/outer-review-2026-06-07-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-07
+
+### P1: Consolidated refine of duhem-quine-underdetermination-consciousness.md — scope-creep + COGITATE precision
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/duhem-quine-underdetermination-consciousness.md
+- **Notes**: From outer review 2026-06-07 (ChatGPT 5.5 Pro). CONSOLIDATE these coherent prose findings into ONE editor pass (do not split into churning per-finding tasks): (a) **Scope creep** — separate empirical underdetermination among neuroscientific models from conceptual/metaphysical underdetermination and the Map's tenet-bound inference; add a short passage ("underdetermination does not erase evidential gradients") noting COGITATE produced graded constraints even without eliminating either theory. (b) **GWT→GNWT** — use "GNWT (Global Neuronal Workspace)" in the COGITATE empirical section (lines 38/62/70); reserve "GWT" for the broader family. (c) **Decoding summary (line 62)** — replace "IIT better predicted face orientation decoding, while GWT better predicted object category decoding" with a precise sentence: category decoding appeared in both posterior and prefrontal regions (posterior stronger/more sustained), orientation decoding largely posterior with limited/absent PFC evidence. WEB-VERIFY against Nature 642:133-142 before rewriting. (d) **Seth quote (line 64)** — attribute the "theories are just too different…" quote to its actual source (Anil Seth, press coverage) or paraphrase the Nature abstract; do not leave it as "the investigators." (e) **"Put underdetermination to empirical test" (line 62)** — soften to "illustrates Duhem-Quine holism" (COGITATE tested biological-implementation predictions while cores stayed revisable). (f) **Symmetrize the explanatory-gap auxiliary framing** — present physicalism's "gap is epistemic/closable" and dualism's "gap is ontological/principled" as rival auxiliary commitments. Apply the [[direct-refutation-discipline]] remit where the PCS critique is softened: acknowledge PCS is a standing physicalist strategy (not a post-failure patch) and ask whether it is explanatorily progressive, in natural journal-quality prose — do not expose mode labels in the article body. Preserve calibration/hedge language (this is a calibration-anchor article); enforce the length ceiling.
+- **Review file**: `reviews/outer-review-2026-06-07-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-07
+
+### P2: Add symmetry/equal-risk passages to duhem-quine article (apply Duhem-Quine to the Map's own hard core)
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/duhem-quine-underdetermination-consciousness.md
+- **Notes**: From outer review 2026-06-07 (ChatGPT 5.5 Pro). The article admits underdetermination "cuts both ways" but does not run the symmetry test on the Map's own commitments. Add: (a) a "What would be degenerating for the Map?" subsection (e.g. repeated null results for quantum-sensitive neural signatures followed only by moving-target site revisions; first-person irreducibility claims that never generate new constraints; hard-problem appeals used to immunize every empirical failure); (b) one sentence in the quantum-interface passage stating Duhem-Quine does not license indefinite quantum retreat; (c) note that first-person evidence's theory-ladenness threatens dualist/introspective methods too, not only physicalism; (d) apply unconceived-alternatives risk to the Map's own physicalism-vs-dualism taxonomy (neutral/Russellian monism, panpsychism, illusionism, etc.). May be done in the same pass as the consolidated P1 refine if length permits; otherwise a follow-on. Watch the length ceiling — coordinate with the calibration constraint.
+- **Review file**: `reviews/outer-review-2026-06-07-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-07
+
+### P2: Sync COGITATE framing across IIT / GWT / NCC / convergence-arguments articles
+- **Type**: cross-review
+- **Status**: pending
+- **File**: obsidian/concepts/integrated-information-theory.md
+- **Notes**: From outer review 2026-06-07 (ChatGPT 5.5 Pro). COGITATE is now a canonical case across the Map but its framing drifts between articles. Cross-review and lightly sync: (1) **IIT article** — distinguish IIT's formal integrated-information core from the posterior hot-zone biological implementation; record that COGITATE challenged sustained posterior synchronization while supporting some posterior content-decoding. (2) **GWT/GNWT article** — add the post-COGITATE GNWT-proponent response (Naccache et al. 2025, Neuroscience of Consciousness niaf037 — WEB-VERIFY the citation before inserting) distinguishing Nature's mixed verdict from proponents' argument that some analyses validate core GNWT. (3) **NCC article** — add a report-dependence taxonomy (direct report / post-trial report / behavioral proxy / no-report paradigm / clinical marker / theory-laden classification) to prevent "every NCC study presupposes first-person report" overstatements. (4) **convergence-arguments article** — add an independence audit flagging that Nagel/Jackson/Kripke/Chalmers lines may share modal-intuitive or phenomenal-conceptual premises. Keep each edit length-neutral; one canonical COGITATE summary is the goal.
+- **Review file**: `reviews/outer-review-2026-06-07-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-07
+
+### P2: Methodology proposal — canonical COGITATE data card + orphan-citation check
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/project/project.md
+- **Notes**: From outer review 2026-06-07 (ChatGPT 5.5 Pro). Two cross-article QA proposals worth recording as project methodology: (1) a **canonical empirical data card** for COGITATE (citation metadata, study design, preregistration status, sample sizes, exact tested predictions, result summary, theory-proponent responses, last-verified date) that articles reference rather than re-summarizing independently — prevents the cross-article drift this review found; (2) an **automated orphan-citation check** (every inline author-year cite maps to a References entry and vice versa) — the Papineau/Balog defect is mechanically detectable. Capture as a methodology note / consider a lightweight validate.py check; this is a project-doc task, not an article rewrite.
+- **Review file**: `reviews/outer-review-2026-06-07-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-07
+
 ### P2: Integrate the new metaontological-deflationism page (add inbound cross-links)
 - **Type**: integrate-orphan
 - **Status**: pending

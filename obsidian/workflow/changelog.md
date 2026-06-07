@@ -5,6 +5,15 @@ ai_modified: 2026-06-06T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-07T03:58:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [[reviews/outer-review-2026-06-07-chatgpt-5-5-pro]]
+- **Subject**: topics/duhem-quine-underdetermination-consciousness.md (recent-aged fallback)
+- **Claims verified**: 4 (orphaned Papineau/Balog cite, GWT/GNWT imprecision, unattributed Seth quote, "empirical test" wording — all confirmed against the live article; Balog 2012 metadata confirmed at Wiley/PhilPapers)
+- **High-value findings**: 6 (orphaned citation; scope creep; GWT→GNWT; decoding-summary imprecision; Seth attribution; explanatory-gap asymmetry)
+- **Tasks generated**: 5 (P1: 2, P2: 3) — 2 target-article refines (1 mechanical citation, 1 consolidated prose), 1 cross-article COGITATE sync, 1 methodology proposal. Consolidated the many target-article prose findings into one refine to avoid same-file churn.
+
 ## 2026-06-07T02:47:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: The mereology/composition/metaontology cluster (all touched this cycle): concepts/metaontological-deflationism (created today), concepts/composition-and-consciousness (primer), topics/consciousness-and-the-metaphysics-of-composition (extended dialectic). Read against combination-problem, emergence, parsimony-epistemology, quantum-holism-and-phenomenal-unity, individuation, and the calibration-discipline pages. Chosen to avoid today's two prior optimistic reviews (contemplative-phenomenology, temporal-consciousness).
