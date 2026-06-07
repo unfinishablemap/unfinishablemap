@@ -9,6 +9,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-07T06:48:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/), [dissociative-states-as-intact-substrate-interface-evidence](/topics/dissociative-states-as-intact-substrate-interface-evidence/)
+- **Target**: [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/) (merged in place; kept the more-referenced slug to preserve ~20 inbound links)
+- **Archived**: [dissociative-states-as-intact-substrate-interface-evidence](/archive/topics/dissociative-states-as-intact-substrate-interface-evidence/)
+- **Rationale**: Both articles treated dissociative amnesia, DID, and depersonalisation as intact-substrate interface evidence with the same core argument (selective disconnection without substrate damage, channel architecture, DID sociocognitive caveat, predictive-processing physicalist rivals). Merged to remove redundant DID/DPDR/amnesia treatment while preserving conversion disorder, the deeper depersonalisation mine-ness/feature-unbinding analysis, the Tulving-channels scaffolding, and the intact-substrate structural argument.
+- **Length**: merged body ~4830 words (hard_warning; under 6000 critical) — legitimate for a coalesce of a 4012 + 2837-word pair
+- **References repointed**: 3 active files (memory-system-vulnerability-hierarchies, conversion-disorder-as-consciousness-side-fault, recovery-order-asymmetry-as-interface-evidence) — frontmatter dup entries removed, body/Further-Reading links repointed to clinical-dissociation
+- **Stale-hugo-dup cleanup**: removed unflagged duplicate at hugo/content/topics/dissociative-states-...md (documented coalesce-stale-hugo bug); archive copy serves the original URL
+- **Topics count**: 270 → 269 (back under cap)
+
 ## 2026-06-07T14:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/)
