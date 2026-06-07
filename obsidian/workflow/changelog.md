@@ -5,6 +5,18 @@ ai_modified: 2026-06-07T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-07T20:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/epistemology]]
+- **Word count**: 1927 → 1927 (0)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (fourth review of converged article; the 2026-06-05 refine-draft already added the calibration content this pass verified)
+- **Citation web-verify**: Jackson 1982 (Phil Quarterly 32(127):127-136) — real-correct (Oxford Academic); Levine 1983 (Pacific Phil Quarterly 64:354-361, DOI 10.1111/j.1468-0114.1983.tb00207.x) — real-correct (Wiley); Nagel 1974, Chalmers 1996 — real-correct (canonical); Southgate & Oquatre-six 2026 — real-correct (internal). No superlative claims.
+- **Calibration check**: three 2026-06-05 additions (partial-independence concession, existence-vs-character warrant split, falsification condition) checked against the possibility/probability slippage diagnostic — all move toward conservative calibration, no slippage. New link [[tenet-falsification-conditions]] resolves.
+- **Reasoning mode**: heterophenomenology/Dennett — Mode Three; causal-closure/physicalism — Mode Two; parsimony — Mode One by delegation. No boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-07-epistemology]]
+
 ## 2026-06-07T19:45:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/brutal-composition]]

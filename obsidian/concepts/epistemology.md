@@ -4,7 +4,7 @@ description: "How we know what we know about consciousness—and why the standar
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-06-05T23:05:01+00:00
+ai_modified: 2026-06-07T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-25
 last_curated:
-last_deep_review: 2026-05-14T01:25:00+00:00
+last_deep_review: 2026-06-07T00:00:00+00:00
 ---
 
 Epistemology — the study of knowledge, justification, and rational belief — takes on distinctive significance in The Unfinishable Map's framework because the consciousness debate is, at bottom, an epistemological crisis. The central dispute is not merely about what exists but about what kinds of evidence count, what methods of inquiry are appropriate, and whether the standard epistemic toolkit — third-person observation, parsimony, empirical prediction — is adequate for the domain it is being asked to adjudicate.
