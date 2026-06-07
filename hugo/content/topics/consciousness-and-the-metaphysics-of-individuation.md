@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-06-02 08:23:23+00:00
+ai_modified: 2026-06-07 13:30:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -36,6 +36,7 @@ related_articles:
 - '[[panpsychisms-combination-problem]]'
 - '[[surprise-prediction-error-and-consciousness]]'
 - '[[categorical-surprise]]'
+- '[[metaontological-deflationism]]'
 title: Consciousness and the Metaphysics of Individuation
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -73,7 +74,7 @@ That these three positions remain live options after nearly three millennia of i
 
 Panpsychism—the view that consciousness is fundamental and ubiquitous—faces the [combination problem](/concepts/combination-problem/): how do micro-conscious entities combine into macro-conscious subjects like us? David Chalmers identifies *subject-summing* as the hardest form: we can conceive micro-subjects existing without any macro-consciousness emerging. The gap between micro-experience and unified subjecthood resists any compositional principle (see [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/) for a fuller treatment of why this gap may be panpsychism's most serious vulnerability).
 
-The Map rejects panpsychism but inherits a related puzzle. If consciousness interfaces with the physical through [minimal quantum interaction](/tenets/#minimal-quantum-interaction), and if collapse events occur throughout the nervous system, what unifies these into a single subject's experience rather than a swarm of disconnected micro-collapses? The [metaphysics of composition](/topics/consciousness-and-the-metaphysics-of-composition/)—where van Inwagen, Merricks, and McQueen and Tsuchiya independently converge on consciousness as the criterion for genuine wholes—sharpens this: if consciousness is what makes composites real, something must individuate which composite *this* consciousness constitutes. The [unity of consciousness](/concepts/unity-of-consciousness/)—the fact that your visual field, bodily sensations, and inner monologue belong to one phenomenal field—requires some principle of integration that physical connectivity alone does not explain. (Split-brain cases demonstrate this: severing the main physical connection does not cleanly sever the subject.)
+The Map rejects panpsychism but inherits a related puzzle. If consciousness interfaces with the physical through [minimal quantum interaction](/tenets/#minimal-quantum-interaction), and if collapse events occur throughout the nervous system, what unifies these into a single subject's experience rather than a swarm of disconnected micro-collapses? The [metaphysics of composition](/topics/consciousness-and-the-metaphysics-of-composition/)—where van Inwagen, Merricks, and McQueen and Tsuchiya independently converge on consciousness as the criterion for genuine wholes—sharpens this: if consciousness is what makes composites real, something must individuate which composite *this* consciousness constitutes. [Metaontological deflationism](/concepts/metaontological-deflationism/) presses here symmetrically: the same challenge it raises against a deep compositional fact applies to subject-boundaries—whether there is a determinate fact about how consciousness divides into discrete subjects, or only alternative ways of regimenting "subject." The [unity of consciousness](/concepts/unity-of-consciousness/)—the fact that your visual field, bodily sensations, and inner monologue belong to one phenomenal field—requires some principle of integration that physical connectivity alone does not explain. (Split-brain cases demonstrate this: severing the main physical connection does not cleanly sever the subject.)
 
 There is also a *de-combination problem* running in the opposite direction. If reality were fundamentally one conscious field (as open individualism suggests), what fragments it into discrete subjects? Gregory Miller calls this the overlooked twin of the combination problem. Both problems converge on the same gap: we lack any principle that explains how consciousness divides into units.
 

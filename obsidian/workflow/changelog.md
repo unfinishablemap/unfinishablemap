@@ -5,6 +5,17 @@ ai_modified: 2026-06-07T12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-07T13:30:00+00:00 - integrate-orphan
+- **Status**: Success
+- **File**: [[concepts/metaontological-deflationism]] (orphan target)
+- **Changes**: Added a length-neutral inbound cross-link from four hub pages to the orphaned `concepts/metaontological-deflationism.md` (created 2026-06-07; previously inbound only from the two composition articles). Each hub got one body sentence/clause containing the `[[metaontological-deflationism]]` wikilink plus a `related_articles` entry:
+  - `concepts/parsimony-epistemology.md` — fifth-tenet Relation section: deflationism as "the limiting case of distrusting simplicity-as-tiebreaker." (2493→2528w, soft_warning, well under 3500 hard)
+  - `concepts/combination-problem.md` — "Why the Problem Is Serious": deflationism as the upstream denial of the deep compositional fact the combination problem presupposes. (2500→2528w, soft_warning, under 3500 hard)
+  - `topics/consciousness-and-the-metaphysics-of-individuation.md` — combination/composition section: deflationism presses symmetrically against subject-boundaries. (2664→2701w, ok)
+  - `concepts/emergence.md` — reciprocal link was MISSING (deflationism links out to emergence but not back); added in the "Unified awareness" paragraph as the wholes-from-parts rival. (2833→2853w, soft_warning, under 3500 hard)
+- **Verification**: All four `[[metaontological-deflationism]]` targets resolve to `/concepts/metaontological-deflationism/` in synced Hugo output; sync exit clean (only pre-existing changelog memory-note strips).
+- **Published**: yes
+
 ## 2026-06-07T12:33:18+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/non-temporal-consciousness]]

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-06-04 18:20:00+00:00
+ai_modified: 2026-06-07 13:30:00+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -39,6 +39,7 @@ related_articles:
 - '[[consciousness-and-the-normativity-of-reason]]'
 - '[[fitness-beats-truth]]'
 - '[[limits-of-parsimony-consciousness-2026-03-20]]'
+- '[[metaontological-deflationism]]'
 title: Parsimony Epistemology
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -160,7 +161,7 @@ Each condition is an active research programme. The argument is conditional on t
 
 ## Relation to Site Perspective
 
-The Map's fifth tenet — [Occam's Razor Has Limits](/tenets/#occams-limits) — is grounded directly in parsimony epistemology. The tenet does not reject parsimony wholesale; it identifies the conditions under which parsimony loses epistemic force and argues that the consciousness debate satisfies them.
+The Map's fifth tenet — [Occam's Razor Has Limits](/tenets/#occams-limits) — is grounded directly in parsimony epistemology. The tenet does not reject parsimony wholesale; it identifies the conditions under which parsimony loses epistemic force and argues that the consciousness debate satisfies them. [Metaontological deflationism](/concepts/metaontological-deflationism/) is the limiting case of distrusting simplicity-as-tiebreaker — dissolving the existence dispute as shallow rather than merely preferring the leaner ontology — a move the fifth tenet resists where consciousness is at stake.
 
 The most common objection to [interactionist-dualism](/concepts/interactionist-dualism/) is parsimony-based: physicalism posits fewer substance types, therefore prefer it. That argument requires three assumptions — that ontological parsimony is the relevant dimension, that the theories explain consciousness equally well, and that scientific parsimony transfers to metaphysical theory choice — each of which fails under scrutiny, and each of which has been conceded in part by materialists themselves.
 

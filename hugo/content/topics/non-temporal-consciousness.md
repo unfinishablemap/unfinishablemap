@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-06-06 12:49:29+00:00
+ai_modified: 2026-06-07 12:33:18+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Can consciousness exist outside time? Husserl's absolute flow, medi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-14 03:54:00+00:00
+last_deep_review: 2026-06-07 12:33:18+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

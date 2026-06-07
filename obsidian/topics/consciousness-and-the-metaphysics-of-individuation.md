@@ -4,7 +4,7 @@ description: "Why does consciousness come in discrete subjects? The individuatio
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-06-02T08:23:23+00:00
+ai_modified: 2026-06-07T13:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,6 +33,7 @@ related_articles:
   - "[[panpsychisms-combination-problem]]"
   - "[[surprise-prediction-error-and-consciousness]]"
   - "[[categorical-surprise]]"
+  - "[[metaontological-deflationism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -71,7 +72,7 @@ That these three positions remain live options after nearly three millennia of i
 
 Panpsychism—the view that consciousness is fundamental and ubiquitous—faces the [[combination-problem|combination problem]]: how do micro-conscious entities combine into macro-conscious subjects like us? David Chalmers identifies *subject-summing* as the hardest form: we can conceive micro-subjects existing without any macro-consciousness emerging. The gap between micro-experience and unified subjecthood resists any compositional principle (see [[panpsychisms-combination-problem]] for a fuller treatment of why this gap may be panpsychism's most serious vulnerability).
 
-The Map rejects panpsychism but inherits a related puzzle. If consciousness interfaces with the physical through [[tenets#^minimal-quantum-interaction|minimal quantum interaction]], and if collapse events occur throughout the nervous system, what unifies these into a single subject's experience rather than a swarm of disconnected micro-collapses? The [[consciousness-and-the-metaphysics-of-composition|metaphysics of composition]]—where van Inwagen, Merricks, and McQueen and Tsuchiya independently converge on consciousness as the criterion for genuine wholes—sharpens this: if consciousness is what makes composites real, something must individuate which composite *this* consciousness constitutes. The [[unity-of-consciousness|unity of consciousness]]—the fact that your visual field, bodily sensations, and inner monologue belong to one phenomenal field—requires some principle of integration that physical connectivity alone does not explain. (Split-brain cases demonstrate this: severing the main physical connection does not cleanly sever the subject.)
+The Map rejects panpsychism but inherits a related puzzle. If consciousness interfaces with the physical through [[tenets#^minimal-quantum-interaction|minimal quantum interaction]], and if collapse events occur throughout the nervous system, what unifies these into a single subject's experience rather than a swarm of disconnected micro-collapses? The [[consciousness-and-the-metaphysics-of-composition|metaphysics of composition]]—where van Inwagen, Merricks, and McQueen and Tsuchiya independently converge on consciousness as the criterion for genuine wholes—sharpens this: if consciousness is what makes composites real, something must individuate which composite *this* consciousness constitutes. [[metaontological-deflationism|Metaontological deflationism]] presses here symmetrically: the same challenge it raises against a deep compositional fact applies to subject-boundaries—whether there is a determinate fact about how consciousness divides into discrete subjects, or only alternative ways of regimenting "subject." The [[unity-of-consciousness|unity of consciousness]]—the fact that your visual field, bodily sensations, and inner monologue belong to one phenomenal field—requires some principle of integration that physical connectivity alone does not explain. (Split-brain cases demonstrate this: severing the main physical connection does not cleanly sever the subject.)
 
 There is also a *de-combination problem* running in the opposite direction. If reality were fundamentally one conscious field (as open individualism suggests), what fragments it into discrete subjects? Gregory Miller calls this the overlooked twin of the combination problem. Both problems converge on the same gap: we lack any principle that explains how consciousness divides into units.
 

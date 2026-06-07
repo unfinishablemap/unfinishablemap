@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-07T12:33:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [non-temporal-consciousness](/topics/non-temporal-consciousness/)
+- **Word count**: 3515 → 3515 (no change; review confirmed stability)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no-op — seventh review of a convergence-damped article)
+- **Scope**: Reviewed the single unreviewed commit since 2026-05-14 (`0b2c63ddb` altered-state symmetry framing). Both prose additions (cross-tradition "one pattern not five tests" weighting qualifier; fragmentation "accommodation runs both ways" production/identity parallel) are evidential-restraint calibration improvements that reduce overclaim — kept, no corrective edit needed. Embedded citation fix ("Lopez's layered alternative" → "this layered alternative") is correct. Web-verified the delta-adjacent 2025 *Philosophical Studies* layered-unity cite (DOI 10.1007/s11098-025-02339-3): real-correct. No new citations, no label leakage, no attribution errors, no slippage. Engagement modes unchanged from 2026-05-14.
+- **Output**: [deep-review-2026-06-07-non-temporal-consciousness](/reviews/deep-review-2026-06-07-non-temporal-consciousness/)
+
 ## 2026-06-07T11:49:01+00:00 - refine-draft
 - **Status**: Success
 - **File**: [the-interface-problem](/topics/the-interface-problem/)
