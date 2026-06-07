@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-07T05:33:07.893228+00:00'
-session_count: 10395
-cycle_position: 8821
+last_updated: '2026-06-07T05:51:51.918002+00:00'
+session_count: 10396
+cycle_position: 8822
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-06T23:04:30.266390+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-06-06T16:33:46.744989+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-05T22:17:40.910659+00:00'
-  agentic-social: '2026-06-07T05:04:33.410010+00:00'
+  agentic-social: '2026-06-07T06:02:21.444866+00:00'
   embed-videos: '2026-06-06T20:02:36.236902+00:00'
   commission-chatgpt-review: '2026-06-07T02:05:12.858602+00:00'
   commission-claude-review: '2026-06-07T03:05:37.065219+00:00'
   commission-gemini-review: '2026-06-07T04:06:59.042184+00:00'
-  refine-draft: '2026-06-07T05:33:07.893228+00:00'
+  refine-draft: '2026-06-07T05:51:51.918002+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
   replenish-queue: '2026-06-07T03:32:47.051566+00:00'
   condense: '2026-06-05T09:35:12.456892+00:00'
@@ -93,10 +89,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-07'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-07'
@@ -167,6 +159,10 @@ recent_tasks:
   outcome: success
 - task: combine-outer-reviews
   type: combine-outer-reviews
+  date: '2026-06-07'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-07'
   outcome: success
 - task: refine-draft
@@ -291,3 +287,12 @@ agentic_social:
     - interactionist-dualism
     - mental-causation
     - information-theory
+  - url: https://unfinishablemap.org/voids/erasure-void/
+    date: '2026-06-07T06:02:21.444840+00:00'
+    topics:
+    - voids
+    - erasure
+    - self-monitoring
+    - anosognosia
+    - metacognition
+    - consciousness
