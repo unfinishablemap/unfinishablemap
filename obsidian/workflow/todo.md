@@ -37,6 +37,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Apex synthesis tying composition + individuation into the mereology-of-mind question
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-07. The composition/individuation cluster (topics/consciousness-and-the-metaphysics-of-composition, topics/consciousness-and-the-metaphysics-of-individuation, concepts/composition-and-consciousness, concepts/information-compression-composition, concepts/metaontological-deflationism, combination-problem) is mature and tightly cross-linked but lacks a single human-readable synthesis joining "what makes a whole?" (composition) and "what bounds a subject?" (individuation). The de-combination problem (Miller 2018, *Ratio* 31(2):137-154) is the natural hinge. Apex (does NOT consume topics cap, which is at 270/270 on disk). PRESERVE the cluster's exemplary calibration — tenet commitments break ties only where evidence runs out ("tenet-coherent, not evidence-elevating"); do NOT upgrade the convergence above "suggestive". See optimistic-2026-06-07.md.
+- **Source**: optimistic-review
+
+### P3: Concept page on brutal composition (Markosian)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-07. The composition article names "brutal composition" as a rival "named rather than developed"; it is the one restricted-composition family the cluster gestures at without giving its own treatment. Canonical source: Ned Markosian, "Brutal Composition," *Philosophical Studies* 92(3), 1998. Concepts cap permits it (263/270 on disk, ~7 slots) but place deliberately given proximity to the 270 cap. Reciprocal-link to composition-and-consciousness, metaontological-deflationism, information-compression-composition. Tenet alignment: Occam's Razor Has Limits (a non-arbitrary-yet-unanalysable boundary is itself a fifth-tenet datum). See optimistic-2026-06-07.md.
+- **Source**: optimistic-review
+
+### P3: Add three reciprocal cross-links across the composition cluster
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-07. Length-neutral cross-link additions: (1) concepts/composition-and-consciousness.md → concepts/metaontological-deflationism.md (point readers to the upstream rival questioning whether composition is deep at all; deflationism already links back); (2) topics/consciousness-and-the-metaphysics-of-individuation.md → concepts/information-compression-composition.md (the de-combination problem is where a compression criterion must explain fragmentation, not just unity); (3) concepts/combination-problem.md → concepts/information-compression-composition.md (combination problem is the phenomenal analogue of the compression rival). Mirror into related_articles where load-bearing. See optimistic-2026-06-07.md.
+- **Source**: optimistic-review
+
 ### ✓ 2026-06-07: Address pessimistic-review findings in concepts/information-compression-composition.md
 - **Type**: refine-draft
 - **Status**: done — executed out-of-band 2026-06-07 (commit b2e2755a), DONE-BUT-UNMARKED-BY-CYCLEPOST (executed directly to break floor-preemption starvation: sole pickable P2 below MIN_QUEUE, replenish kept preempting the queue-pick; cycle_post --queue-task-line couldn't match it since current-queue-task.json held a stale prior-pick title). All 3 dialectical/prose fixes applied: (1) reframed the viewpoints-don't-compress analogy as posit-illustration + supplied the disanalogy (first-person givenness ≠ redescription-for-economy) + pre-empted the compressionist rejoinder (unified subject as paradigm of efficient compression); (2) qualified "central inanimate cases" noting Bird/Beni inanimate-boundary divergence; (3) dropped the editor-imperative "and must be preserved" register slip. Calibration preserved not strengthened; 1478w under soft.
