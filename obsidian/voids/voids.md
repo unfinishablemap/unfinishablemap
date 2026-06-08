@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-05-15
 human_modified: 2026-01-08
-ai_modified: 2026-06-04T17:56:12+00:00
+ai_modified: 2026-06-08T14:02:49+00:00
 draft: false
 last_deep_review: 2026-06-04T13:04:10+00:00
 topics: []
@@ -48,6 +48,8 @@ This section explores those voids: the dark spaces on our map where the terrain 
 - **The Unexplored** — places we haven't looked yet. Voids of ignorance that represent opportunity.
 - **The Unexplorable** — darkness that *cannot* be illuminated by minds like ours. [[mysterianism|Cognitive closure]].
 - **The Occluded** — thoughts that might be blocked *on purpose*, whether by simulation architects or reality itself.
+
+A note on two axes, to forestall a common conflation. The catalogue uses *two orthogonal* classifications. This **territory axis** — the three kinds above — classifies *where* a void sits: what kind of territory it is. A separate **reason axis** — the four-kinds typology developed in [[apex/taxonomy-of-voids|Taxonomy of Voids]] (architectural, adaptive, naturally occluded, deliberately occluded) — classifies *why* the territory is dark. The two are independent: a single void carries both a territory classification and a reason classification at once. The wording is the trap—the territory-axis *Occluded* and the reason-axis *naturally occluded* are different categories, not the same one, and there is no "fourth kind" of the territory trichotomy. See [[apex/taxonomy-of-voids|the apex]] for how the two axes interlock.
 
 ## Why Voids Matter
 

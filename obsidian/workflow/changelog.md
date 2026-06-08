@@ -5,6 +5,15 @@ ai_modified: 2026-06-08 14:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-08T14:02:49+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/voids]]
+- **Source**: ChatGPT 5.5 Pro outer review 2026-06-08 §2.4 (P2 reader-clarity)
+- **Changes**: Added a short two-axis disambiguation note after the "Three Kinds of Void" section. Names the **territory axis** (three kinds: unexplored / unexplorable / occluded — classifies *where* a void sits) vs the **reason axis** (four kinds: architectural / adaptive / naturally occluded / deliberately occluded — classifies *why* it is dark); states they are orthogonal (a single void carries both classifications); flags the "occluded"/"naturally occluded" wording overlap as the conflation to avoid; pointer to [[apex/taxonomy-of-voids]].
+- **Reviewer claim adjudication**: the reviewer's "mismatch/contradiction" framing is FALSE — the two taxonomies are orthogonal axes (apex line 107/129 say so), not a contradiction, and there is no missing "fourth kind" of the trichotomy. Did NOT manufacture a fourth territory-kind (doing so would *be* the misreading). Genuine residual = reader-clarity only; the words overlap and are easy to conflate. Did not restructure either taxonomy; preserved all content + routing.
+- **Word count**: 4493 → 4611 body words (+118; short length-neutral add to the index hub)
+- **Published**: yes
+
 ## 2026-06-08T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/co-optimization-reply-to-the-correlation-problem]]
