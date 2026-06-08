@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-08T11:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/)
+- **Task**: P2 competing-explanation strengthening from Gemini 2.5 Pro outer review 2026-06-08 (Weakness 8.2 / §3) — the Khan et al. (2024) epothilone B result was presented as supporting quantum microtubule coherence while omitting a parsimonious classical pathway.
+- **Changes**: Integrated the classical receptor-trafficking alternative directly into the epothilone B paragraph (Pharmacological Evidence section). Microtubules are the KIF5/GABARAP-dependent transport highways for GABA_A receptor delivery to the membrane, and isoflurane acts primarily on GABA_A receptors — so a microtubule-stabilising drug can alter receptor density/turnover at the synapse and delay anaesthetic onset with no quantum coherence required. Applied evidential-status / competing-explanation discipline: stated the behavioural data is consistent with BOTH the quantum and the classical reading, so Khan et al. does not uniquely support the quantum-microtubule interpretation (NOT a concession that the quantum reading is false). Added wikilink to [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/). No new section. All existing calibration/evidential-status language preserved.
+- **Web-verify outcome (MANDATORY fabrication guard)**: BOTH reviewer-offered rival-mechanism cites FAILED verification, so NEITHER was written into the article. (a) "Wang et al. 2020" with the claimed isoflurane/GABA_A-trafficking finding does NOT verify at publisher-of-record — only a Wang 2015 review on kinesin neuroreceptor trafficking exists (different paper, different claim). (b) "Liang et al. 2026" does NOT verify at all — confirmed the flagged fabrication risk. The classical pathway was therefore framed from ESTABLISHED, uncontroversial GABA_A-trafficking biology (microtubule/KIF5/GABARAP-dependent receptor transport — verified via PMC6589839 GABA-A trafficking review; isoflurane's primary GABA_A action) WITHOUT any specific unverifiable cite.
+- **Length**: net-neutral as mandated. Before 3999 words (1 under topics hard ceiling 4000, recently length-watched); after 3999 (soft_warning, under ceiling). The GABA_A integration (~50 net words) was offset by tightening redundancy across the intro, candidate-mechanisms, anaesthetic-oscillation, Wiest, brain-entanglement/Warren, twin-EEG, why-this-matters, convergence, decoherence-uncertainty, and measurement-technology passages. No new paragraph/section added; no calibration/evidential-status language cut.
+- **Original score**: not separately scored (targeted outer-review-driven competing-explanation strengthening, not a full quality re-review)
+- **Published**: yes
+
 ## 2026-06-08T09:38:43+00:00 - refine-draft
 - **Status**: Success
 - **File**: [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/)

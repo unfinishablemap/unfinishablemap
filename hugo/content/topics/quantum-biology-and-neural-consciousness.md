@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-06-08 09:38:43+00:00
+ai_modified: 2026-06-08 11:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -45,7 +45,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Quantum biology has shifted the burden of proof in consciousness debates. For decades, critics dismissed quantum approaches with a categorical objection: biological systems are too warm, wet, and noisy for quantum effects. The Unfinishable Map now tracks a different landscape. Established quantum effects in non-neural biology have collapsed the categorical objection; multiple candidate mechanisms for neural quantum effects have been identified; and converging evidence from pharmacology, direct measurement, and computational modelling points toward quantum function in neural tissue. In 2025-2026 the field shifted from theoretical speculation toward testable science. The remaining questions are whether neural systems specifically exploit quantum effects, and whether consciousness plays a role at the quantum interface.
+Quantum biology has shifted the burden of proof in consciousness debates. For decades, critics dismissed quantum approaches with a categorical objection: biological systems are too warm, wet, and noisy for quantum effects. The Map now tracks a different landscape. Established quantum effects in non-neural biology have collapsed that objection; multiple candidate mechanisms for neural quantum effects have been identified; and converging evidence from pharmacology, direct measurement, and computational modelling points toward quantum function in neural tissue. In 2025-2026 the field shifted from speculation toward testable science. The open questions are whether neural systems specifically exploit quantum effects, and whether consciousness plays a role at the quantum interface.
 
 The evidence surveyed below is not a uniform support pillar for the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. Tenet 2 admits at least three sub-readings that differ sharply in what they need from neural quantum biology: *pre-decoherence-coherence mechanisms* (Orch OR, Fröhlich-microtubule, Stapp Zeno, Fisher Posner) stand or fall with the evidence catalogued here; the *post-decoherence-selection programme*, the Map's central path (see [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)), is merely supplemented by it; the *strict corridor* reading catalogued in [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) is unmoved either way. The [calibration table below](#the-calibration-table) slots each piece of evidence into the row where it actually bears weight, so the page is not read as a unified Tenet 2 pillar.
 
@@ -59,7 +59,7 @@ The assumption proved false. Nature had already solved the decoherence problem m
 
 **Enzyme catalysis** relies on quantum tunnelling, accelerating reactions by factors of 10¹² to 10¹⁷ (confirmed by kinetic isotope effects). **Photosynthetic energy transfer** exploits quantum coherence (Fleming et al., 2007), though coherence times are shorter than once claimed.
 
-The categorical objection has weakened: selection has propagated biochemical variants whose dynamics involve quantum effects in non-neural tissue, so warm biology is not categorically inhospitable to quantum function. This does not establish that neural systems sustain coherence at consciousness-relevant scales—cryptochrome radical pairs are a specific architecture, and the precedent supplies plausibility rather than licence for neural coherence. The [evolutionary case](/topics/evolutionary-case-for-quantum-neural-effects/) develops the why-might-they-do-this question, but it argues from realistic possibility, not actuality, and its bridging premise (that neural problems genuinely demand quantum solutions) is itself contested. The mechanism question stays open.
+The categorical objection has weakened: selection has propagated biochemical variants whose dynamics involve quantum effects in non-neural tissue, so warm biology is not categorically inhospitable to quantum function. This does not establish that neural systems sustain coherence at consciousness-relevant scales—cryptochrome radical pairs are a specific architecture, and the precedent supplies plausibility, not licence, for neural coherence. The [evolutionary case](/topics/evolutionary-case-for-quantum-neural-effects/) develops the why-might-they-do-this question, but argues from realistic possibility, not actuality, and its bridging premise (that neural problems genuinely demand quantum solutions) is itself contested. The mechanism question stays open.
 
 ## Candidate Neural Mechanisms
 
@@ -71,17 +71,17 @@ Five distinct [quantum mechanisms](/concepts/quantum-biology-and-neural-mechanis
 4. **Synaptic tunnelling** (Beck-Eccles-Georgiev) identifies quantum effects in transmitter release.
 5. **Posner molecule entanglement** (Fisher) proposes phosphorus nuclear spins as qubits with potentially hour-long coherence.
 
-These vary in evidential support—from well-established radical pair biology to highly theoretical Posner molecules—but multiple independent pathways exist, and the assumption of purely classical brain computation is no longer unchallenged. See [amplification mechanisms](/topics/amplification-mechanisms-consciousness-physics/) for how these might scale to macroscopic neural outcomes.
+These vary in evidential support—from well-established radical pair biology to highly theoretical Posner molecules—but multiple independent pathways exist, and the assumption of purely classical brain computation is no longer secure. See [amplification mechanisms](/topics/amplification-mechanisms-consciousness-physics/) for how these might scale to macroscopic neural outcomes.
 
 ## Pharmacological Evidence: Anaesthesia and Quantum Disruption
 
 The strongest current evidence linking quantum effects to consciousness comes from anaesthetic studies.
 
-**Anaesthetic targeting of microtubules.** Wiest's 2025 review marshals evidence that inhalational anaesthetics functionally target intraneuronal microtubules, disrupting quantum activities in consciousness-relevant proteins while leaving others unaffected (Wiest, 2025). He argues this aligns with quantum consciousness predictions, that microtubule-network entanglement could supply a substrate for the [binding problem](/concepts/binding-problem/), and that quantum-embedded consciousness makes itself causally efficacious rather than epiphenomenal.
+**Anaesthetic targeting of microtubules.** Wiest's 2025 review marshals evidence that inhalational anaesthetics functionally target intraneuronal microtubules, disrupting quantum activities in consciousness-relevant proteins while leaving others unaffected. He argues this aligns with quantum consciousness predictions, that microtubule-network entanglement could supply a substrate for the [binding problem](/concepts/binding-problem/), and that quantum-embedded consciousness is causally efficacious rather than epiphenomenal.
 
-**The epothilone B experiment.** Khan et al. (2024) found that rats given epothilone B—a microtubule-stabilising drug—took over a minute longer to lose consciousness under anaesthesia (Cohen's d = 1.9). If microtubule quantum states were irrelevant to consciousness, stabilising microtubules should not affect anaesthetic onset. Quantum models predicted this.
+**The epothilone B experiment.** Khan et al. (2024) found that rats given epothilone B—a microtubule-stabilising drug—took over a minute longer to lose consciousness under anaesthesia (Cohen's d = 1.9), as quantum models predicted. But the data also admits a parsimonious classical reading: microtubules are the transport highways for [GABA_A receptor](/topics/anaesthesia-and-the-consciousness-interface/) trafficking (KIF5/GABARAP-dependent delivery to the membrane), and isoflurane acts primarily on GABA_A receptors—so stabilising the cytoskeleton can alter receptor density at the synapse, delaying onset with no quantum coherence required. The finding is consistent with both readings rather than uniquely supporting the quantum-microtubule one.
 
-**Anaesthetic-oscillation correlation (computational).** Craddock et al. (2017) used molecular-dynamics and quantum-chemistry simulations to predict that anaesthetics—but not non-anaesthetic structural analogues—disrupt a (613 ± 8) THz collective tubulin oscillation peak, with disruption magnitude tracking clinical potency. This matches Fröhlich coherence predictions. It is a computational prediction, not a spectroscopic measurement; the next step is an experiment observing the predicted peak and its anaesthetic-dependent disruption.
+**Anaesthetic-oscillation correlation (computational).** Craddock et al. (2017) used molecular-dynamics and quantum-chemistry simulations to predict that anaesthetics—but not non-anaesthetic structural analogues—disrupt a (613 ± 8) THz collective tubulin oscillation peak, with disruption magnitude tracking clinical potency, matching Fröhlich coherence predictions. It is a computational prediction, not a spectroscopic measurement; the next step is an experiment observing the predicted peak and its anaesthetic-dependent disruption.
 
 Pharmacological evidence is inherently indirect. Anaesthetics have multiple targets, so the correlation does not exclude classical explanations.
 
@@ -89,14 +89,14 @@ Pharmacological evidence is inherently indirect. Anaesthetics have multiple targ
 
 **Room-temperature quantum effects in microtubules.** Babcock et al. (2024) demonstrated ultraviolet superradiance—a collective quantum phenomenon—in tubulin tryptophan networks at physiological temperatures.
 
-**Brain entanglement signatures.** Kerskens and López Pérez (2022) detected MRI signals in conscious subjects consistent with entangled proton spins, which disappeared during sleep and correlated with working memory. Warren (2023) challenged the interpretation, arguing the signal could arise from intermolecular zero- and multiple-quantum coherences (iZQC/iMQC) produced by ordinary classical magnetic-dipole couplings among water protons rather than genuine entanglement—though he supplied no classical account of why the signal tracks sleep versus waking, which the original authors disputed in reply. The dispute is unresolved and independent replication has not occurred.
+**Brain entanglement signatures.** Kerskens and López Pérez (2022) detected MRI signals in conscious subjects consistent with entangled proton spins, which disappeared during sleep and correlated with working memory. Warren (2023) countered that the signal could arise from intermolecular zero- and multiple-quantum coherences (iZQC/iMQC) produced by ordinary classical magnetic-dipole couplings among water protons rather than genuine entanglement—though he supplied no classical account of why the signal tracks sleep versus waking. The dispute is unresolved and unreplicated.
 
 
-**Lithium isotope effects.** Fisher's Posner molecule hypothesis predicts that lithium-6 and lithium-7 should differ in their neural effects. In 2025, multi-electrode array experiments confirmed "large and opposite effects on synaptic transmission" from the two isotopes (Esmaeilpour et al., 2025)—consistent with nuclear spin influencing neural activity.
+**Lithium isotope effects.** Fisher's Posner molecule hypothesis predicts that lithium-6 and lithium-7 should differ in their neural effects. In 2025, multi-electrode array experiments reported "large and opposite effects on synaptic transmission" from the two isotopes (Esmaeilpour et al., 2025, preprint)—consistent with nuclear spin influencing neural activity.
 
-**Twin entanglement EEG study.** A 2025 study of 106 monozygotic twin pairs used 3D EEG alongside biomarkers to probe quantum effects on cognition (Escolà-Gascón, 2025). Qubit entanglement in stimulus configurations explained 13.5% of variance in accuracy. The methodology is controversial—the leap from qubit stimulus configurations to biological quantum entanglement needs significant scrutiny.
+**Twin entanglement EEG study.** A 2025 study of 106 monozygotic twin pairs used 3D EEG alongside biomarkers to probe quantum effects on cognition (Escolà-Gascón, 2025). Qubit entanglement in stimulus configurations explained 13.5% of variance in accuracy. The methodology is controversial—the leap from qubit stimulus configurations to biological quantum entanglement needs scrutiny.
 
-Most measurements come from isolated preparations or indirect protocols. The critical missing piece: quantum coherence demonstrated in functioning neural tissue under normal conditions.
+Most measurements come from isolated preparations or indirect protocols. The critical missing piece: quantum coherence demonstrated in functioning neural tissue in vivo.
 
 ## Theoretical Developments (2025-2026)
 
@@ -110,7 +110,7 @@ The empirical acceleration has been matched by theoretical convergence. Multiple
 
 **Zero-point field resonance (TRAZE).** Keppler's 2025 theory proposes that cortical microcolumns couple to the electromagnetic zero-point field. From the Map's perspective this risks reducing consciousness to an exotic physical process incompatible with the [Dualism](/tenets/#dualism) tenet, and it does not address the [hard problem](/topics/hard-problem-of-consciousness/).
 
-**Measurement technology.** NV-centre diamond quantum sensors now combine nanoscale and microsecond resolution, surpassing fMRI, EEG, and MEG; nanopillar arrays enable single-neuron readout. This could supply the direct measurement capability the field has lacked, resolving disputes empirically rather than by competing calculations.
+**Measurement technology.** NV-centre diamond quantum sensors now combine nanoscale and microsecond resolution, surpassing fMRI, EEG, and MEG; nanopillar arrays enable single-neuron readout. This could supply the direct-measurement capability the field has lacked, resolving disputes empirically rather than by competing calculations.
 
 ## The Convergence Structure
 
@@ -125,15 +125,15 @@ Each line has limitations; the force of the case lies in convergence across inde
 | Computational | Quantum dynamics improve neural models | That the brain actually uses them |
 | Theoretical | Independent frameworks converge on quantum necessity | That any specific framework is correct |
 
-These lines are independent—pharmacological evidence does not depend on direct measurements, and biological precedent holds regardless of neural-specific findings—so their shared conclusion rises faster than any individual line suggests. The rider, developed in the [calibration table below](#the-calibration-table), is that the shared conclusion is "neural quantum function is realistic" rather than "any specific Tenet 2 sub-reading is correspondingly more supported."
+These lines are independent—pharmacological evidence does not depend on direct measurements, and biological precedent holds regardless of neural-specific findings—so their shared conclusion rises faster than any individual line suggests. The rider, developed in the [calibration table below](#the-calibration-table), is that this shared conclusion is "neural quantum function is realistic," not "any specific Tenet 2 sub-reading is correspondingly more supported."
 
-The convergence also has directionality. Over the past decade, new evidence has consistently strengthened rather than weakened the realistic-quantum-function case; were neural quantum effects illusory, accumulating evidence might be expected to fragment rather than cohere—though this is a plausibility consideration, not a strict test, since coherence among contested findings can also reflect shared methodological assumptions.
+The convergence also has directionality: over the past decade, new evidence has consistently strengthened rather than weakened the realistic-quantum-function case. This is a plausibility consideration, not a strict test—coherence among contested findings can also reflect shared methodological assumptions.
 
 ## Why This Matters for Consciousness
 
-The connection runs through the [measurement-problem](/concepts/measurement-problem/). Physics provides probabilities but is silent on what determines which outcome becomes actual. The Map's position: consciousness is a candidate. Where physics leaves outcomes genuinely undetermined, consciousness might bias selection without violating [conservation laws](/concepts/conservation-laws-and-mental-causation/)—acting as [non-retrocausal conscious selection](/topics/forward-in-time-conscious-selection/), the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. The Map's most developed account is [the post-decoherence selection programme](/apex/post-decoherence-selection-programme/), where consciousness biases which outcome emerges from the classical mixture *after* decoherence completes—a route not requiring sustained coherence at neural timescales. This is the substrate side of the [integration-as-activity](/topics/consciousness-and-integrated-information/#integration-as-selective-activity) view: integration is something consciousness *does*, not a property *identical to* it.
+The connection runs through the [measurement-problem](/concepts/measurement-problem/). Physics provides probabilities but is silent on what determines which outcome becomes actual. The Map's position: consciousness is a candidate. Where physics leaves outcomes genuinely undetermined, consciousness might bias selection without violating [conservation laws](/concepts/conservation-laws-and-mental-causation/)—[non-retrocausal conscious selection](/topics/forward-in-time-conscious-selection/), the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. The Map's most developed account is [the post-decoherence selection programme](/apex/post-decoherence-selection-programme/), where consciousness biases which outcome emerges from the classical mixture *after* decoherence completes—a route not requiring sustained coherence at neural timescales. This is the substrate side of the [integration-as-activity](/topics/consciousness-and-integrated-information/#integration-as-selective-activity) view: integration is something consciousness *does*, not a property *identical to* it.
 
-Quantum biology bears on the substrate question, but unevenly across Tenet 2's three sub-readings—load-bearing for pre-decoherence-coherence mechanisms, a plausibility supplement for the post-decoherence path, largely orthogonal to the strict corridor. The next section installs the cross-cluster discipline this asymmetry requires: a sub-reading-by-sub-reading allocation, not a single pillar.
+Quantum biology bears on the substrate question unevenly across Tenet 2's three sub-readings—load-bearing for pre-decoherence-coherence mechanisms, a plausibility supplement for the post-decoherence path, largely orthogonal to the strict corridor. The next section installs the cross-cluster discipline this asymmetry requires: a sub-reading-by-sub-reading allocation, not a single pillar.
 
 ## The Calibration Table
 
@@ -158,7 +158,7 @@ Two readings the table prevents. *First*, treating the cluster as multiple indep
 - Quantum effects operate in warm, wet biology
 - Selection has propagated specific molecular architectures (cryptochromes, certain enzymes, photosystems) whose dynamics exploit quantum effects
 - Multiple candidate mechanisms exist for neural quantum effects
-- Decoherence is not categorically prohibitive (though a serious constraint, addressed differently by sustained-coherence and discrete-event mechanisms)
+- Decoherence is not categorically prohibitive (a serious constraint, addressed differently by sustained-coherence and discrete-event mechanisms)
 - At least six independent evidence lines converge on neural quantum relevance
 
 **Uncertain:**
