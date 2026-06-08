@@ -37,6 +37,70 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Refine Tenet 3's mechanism wording to match the post-decoherence-selection calibration (tenets.md)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-08 (ChatGPT 5.5 Pro). VERIFIED: `tenets.md` line 88 ("Definition") still says the mechanism is "consciousness selects among superposed neural states, collapsing quantum indeterminacy in the brain" — language that implies the Map's preferred path requires sustained coherent neural superpositions. But the same page (lines 68-78, 102) now extensively foregrounds post-decoherence selection as the strongest endorsed path, precisely to sidestep the coherence-survival requirement. So this is a localized wording drift in one older sentence, NOT a page-wide problem — a targeted edit, not a rewrite. Fix: revise the Definition sentence so it does not commit the Map to pre-decoherence coherence as the mechanism; distinguish pre-decoherence collapse, post-decoherence outcome selection, and the Process-1/context-selection alternative (the page already discusses all three downstream — make the Definition consistent with them). PRESERVE the broad scope of the tenet and all calibration language; this is a calibration-anchor page, keep it length-neutral. Cross-link [[apex/post-decoherence-selection-programme]] which the page already references.
+- **Review file**: `reviews/outer-review-2026-06-08-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-08
+
+### P2: Seed new position-register domains (positions/)
+- **Type**: positions-evolve
+- **Notes**: From outer review 2026-06-08 (ChatGPT 5.5 Pro). VERIFIED: only `positions/quantum-interface.md` exists besides the index, while the positions index itself names future domains. The reviewer recommends seeding at least: consciousness-scope, agency-and-will, voids-as-evidence, methodology-and-calibration, and applied-verdicts. The structural finding (§2.2): quantum-interface claims are visibly calibrated while AI, animal consciousness, voids-as-evidence, moral edge cases, clinical ethics, and methodology are still governed mostly by prose — the calibration machinery is unevenly distributed. Invoke /positions-evolve with assess-first license: seed the domains whose corpus support already exists (each position must cite the articles arguing it, per the positions-evolve discipline); do NOT manufacture positions the corpus has not yet earned. Start with the best-supported (agency-and-will, voids-as-evidence) rather than seeding all five mechanically.
+- **Review file**: `reviews/outer-review-2026-06-08-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-08
+
+### P2: Resolve apex cap governance — apex count (34 on disk) far exceeds the ~20 guideline (apex/apex-articles.md)
+- **Type**: apex-evolve
+- **Notes**: From outer review 2026-06-08 (ChatGPT 5.5 Pro). VERIFIED: 34 apex articles on disk (excluding the index), including Mereology of Mind — the reviewer's ~31/32 count understates it; the structural point is stronger than stated. The ~20 guideline in the apex index is now badly out of step with reality, and the apex layer risks becoming a second topic index rather than a curated synthesis tier. This is a governance/meta decision rather than a content edit. Options the reviewer offers: retire the ~20 cap; convert it into a soft "synthesis threshold"; or split apex into tiers (core / cluster / methodology / applied). Apex tiering also interacts with the section_caps in evolution-state.yaml. Recommend invoking /apex-evolve to update the apex index's governance section to reflect the real count and a defensible policy; flag for human decision if a structural tier-split is warranted (this borders on a system/operator call).
+- **Review file**: `reviews/outer-review-2026-06-08-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-08
+
+### P2: Clarify the two voids taxonomies (territory-trichotomy vs reason-typology) on the voids index
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-08 (ChatGPT 5.5 Pro), §2.4. The reviewer alleged a "mismatch" — voids index says "Three Kinds of Void" while (it claimed) the concepts index calls "Naturally Occluded" a fourth member. PARTIALLY DISPUTED on verification: `concepts.md` makes no such statement, and the taxonomy-of-voids apex (line 107) EXPLICITLY notes the two axes are orthogonal — the three-kinds trichotomy (unexplored / unexplorable / occluded) classifies a void's *territory*, while the four-kinds typology (architectural / adaptive / naturally occluded / deliberately occluded) classifies the *reason* for darkness. So there is no contradiction. BUT there is a genuine reader-clarity risk: two taxonomies using overlapping words ("occluded" / "naturally occluded") are easy to conflate. Fix is a short clarifying note at the top of voids.md (and/or a one-line pointer in the taxonomy apex) distinguishing the territory-axis from the reason-axis. Length-neutral; do NOT manufacture a "fourth kind" of the trichotomy — that would be the misreading.
+- **Review file**: `reviews/outer-review-2026-06-08-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-08
+
+### P2: Add a "bare phenomenality vs bidirectionally coupled consciousness" distinction box to the AI cluster (apex/machine-question.md, topics/ai-consciousness.md)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-08 (ChatGPT 5.5 Pro), §3.4 + §4.2. The tenet-dependency matrix says the machine-consciousness row requires bare dualism only (it should NOT import interactionism, agent-causal subjecthood, MQI, post-decoherence selection, or No-MWI as background), yet the Machine Question and related AI articles argue current AI probably lacks the relevant consciousness using bidirectional coupling, quantum-interface requirements, and structured quantum selection. The resolution is NOT to weaken either claim but to make the two-level structure explicit: (1) "bare AI phenomenality under irreducibility" (the matrix row) vs (2) "Map-preferred bidirectionally coupled AI consciousness" (where the heavier machinery applies). Without this, summaries can compress to a flat "AI is not conscious," which contradicts the Open Question apex's openness to epiphenomenal/borrowed/alien phenomenality. Apply the [[direct-refutation-discipline]] remit: distinguish what the bare-dualism row licenses from what the full tenet-package licenses, in natural journal-quality prose; do not expose mode labels in the body. Add a canonical distinction box (bare phenomenality / bidirectionally coupled / report-grounded / inherited-discourse consciousness). Keep both articles under their length ceilings.
+- **Review file**: `reviews/outer-review-2026-06-08-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-08
+
+### P2: Add a title-note to the parsimony-case article guarding against an apparent Tenet 5 violation (topics/parsimony-case-for-interactionist-dualism.md)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-08 (ChatGPT 5.5 Pro), §3.3. VERIFIED the article exists. Tenet 5 binds the Map symmetrically — parsimony cannot decide for OR against a framework under incomplete knowledge — and the Dualism Cartography apex correctly frames the dualism-thickness grid as cartographic, not adjudicative. The residual risk is presentation-level: the TITLE "The Parsimony Case for Interactionist Dualism" can read as if parsimony is being used to argue FOR dualism, which would violate Tenet 5. Fix: add a near-top framing note distinguishing "parsimony cannot settle truth" from "mechanism-cost cartography can compare debts" — i.e. this is a mechanism-cost comparison inside the Map's commitments, not an argument that parsimony proves dualism. Apply [[direct-refutation-discipline]] (name the framework-boundary honestly). Verify the article body is already calibrated before editing (the title may be the only issue); length-neutral.
+- **Review file**: `reviews/outer-review-2026-06-08-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-08
+
+### P2: Make the voids index's absorbed/folded statuses explicit and reader-visible (voids/voids.md)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-08 (ChatGPT 5.5 Pro), §2.5. The voids index records several absorbed/folded entries in prose (Effort → Agency Void; Cognitive Phenomenology → Imagery/Noetic Feelings; Insight → Noetic Feelings & Decision; Encoding → adjacent memory/narrative), but they can still read like active siblings. The fine-grained void discovery that is the catalogue's strength now creates redundancy pressure. Fix: surface a clear status vocabulary (active / folded / absorbed / cognate / superseded / historical) on the voids index so readers can tell live voids from merged ones. Length-neutral reorganization of existing prose into a status-tagged list; do NOT delete the absorbed entries (preserve their discoverability and any inbound links). NOTE: a machine-readable frontmatter version of this (status + folded_into fields) is the separate methodology task below — this task is the reader-facing index fix only.
+- **Review file**: `reviews/outer-review-2026-06-08-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-08
+
+### P2: Strengthen the void-independence framing on evidence-bearing void articles (voids as evidence vs self-sampled artefact)
+- **Type**: cross-review
+- **Notes**: From outer review 2026-06-08 (ChatGPT 5.5 Pro), §1.4 + §4.1 (the reviewer's flagged "most important voids-cluster tension"). The taxonomy apex argues that the convergence of 60+ voids around the consciousness-physics interface is evidence for dualism, while the voids index itself concedes that if voids are generated by the framework's own list commitments, the clustering may be a sampling artefact. The index-level caveat exists, but the reviewer's point is that the framework-independent vs dualism-specific distinction should do FALSIFIABILITY work on every evidence-bearing void article, not only at the index. Cross-review the major evidence-bearing void articles ([[what-voids-reveal]], [[taxonomy-of-voids]], the cluster apexes) to confirm each carries a visible "is this void framework-independent or framework-generated?" framing. This OVERLAPS heavily with existing voids-evidence calibration work and the proposed voids-as-evidence position domain (task above) — assess what is already present before adding; expect a near-no-op on articles already carrying the caveat. Preserve calibration language.
+- **Review file**: `reviews/outer-review-2026-06-08-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-08
+
+### P2: Make absorbed/folded/superseded status machine-readable in frontmatter (methodology — project doc)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-08 (ChatGPT 5.5 Pro), methodology improvement 4. The site records absorptions/foldings in prose but they are not machine-readable. The reviewer proposes a frontmatter convention exposing e.g. `status: active | folded | absorbed | superseded | historical` and `folded_into:` targets for voids, concepts, and topics. This is a SCHEMA/methodology proposal, not a content edit — it touches the frontmatter schema (documented in CLAUDE.md and enforced by tools/curate validation) and the sync converter. Treat as a project-doc proposal: capture it in the appropriate project/ methodology doc for human/operator decision rather than unilaterally changing the schema. Cross-reference [[coalesce-stale-hugo-duplicate-urls]] / archival-link-rot — a machine-readable status field would also help the known stale-hugo-duplicate problem. Flag for human/operator: schema changes need a coordinated code + validation + sync update, not a doc-only edit.
+- **Review file**: `reviews/outer-review-2026-06-08-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-08
+
+
 ### ✓ 2026-06-07: Address pessimistic-review findings in concepts/information-compression-composition.md
 - **Type**: refine-draft
 - **Status**: done — executed out-of-band 2026-06-07 (commit b2e2755a), DONE-BUT-UNMARKED-BY-CYCLEPOST (executed directly to break floor-preemption starvation: sole pickable P2 below MIN_QUEUE, replenish kept preempting the queue-pick; cycle_post --queue-task-line couldn't match it since current-queue-task.json held a stale prior-pick title). All 3 dialectical/prose fixes applied: (1) reframed the viewpoints-don't-compress analogy as posit-illustration + supplied the disanalogy (first-person givenness ≠ redescription-for-economy) + pre-empted the compressionist rejoinder (unified subject as paradigm of efficient compression); (2) qualified "central inanimate cases" noting Bird/Beni inanimate-boundary divergence; (3) dropped the editor-imperative "and must be preserved" register slip. Calibration preserved not strengthened; 1478w under soft.
