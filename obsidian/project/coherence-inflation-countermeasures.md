@@ -2,9 +2,9 @@
 title: "Coherence Inflation Countermeasures"
 description: "Safeguards against systematic overcommitment when an AI system both generates and reviews content optimised for internal consistency. Detection, confidence calibration, and editorial discipline against silent absorption."
 created: 2026-01-16
-modified: 2026-05-27
+modified: 2026-06-08
 human_modified: null
-ai_modified: 2026-05-27T22:03:08+00:00
+ai_modified: 2026-06-08T11:33:12+00:00
 draft: false
 topics: []
 concepts:
@@ -26,6 +26,7 @@ related_articles:
   - "[[apex/phenomenology-mechanism-bridge]]"
   - "[[apex/moral-architecture-of-consciousness]]"
   - "[[apex/taxonomy-of-voids]]"
+  - "[[apex/post-decoherence-selection-programme]]"
   - "[[apex/living-with-the-map]]"
   - "[[concepts/cross-mechanism-convergence]]"
   - "[[reviews/outer-review-2026-05-26-claude-opus-4-7]]"
@@ -404,6 +405,32 @@ Two paired checks address it.
 
 `/deep-review`, `/refine-draft`, and `/expand-topic` should, for any article asserting a novelty claim or building substantially on a single named philosopher, confirm (a) the novelty claim survives a check against the occupied conceptual space, and (b) any substantial extension of a named view carries the credit-and-distinguishing-move paragraph. The check pairs with the named-position-fidelity rule in [[direct-refutation-discipline]]: fidelity ensures the opponent's position is stated strongly before criticism; prior-art-credit ensures an *ally's* position is credited before extension. Both resist the same drift — the catalogue treating other thinkers' work as raw material rather than as positions with authors. A failed check generates a `refine-draft` task; the corpus-level *taxonomy-consistency* counterpart (cross-article category-claim tension, distinct from this per-article check) lives in [[calibration-audit-triple]].
 
+## Countermeasure 15: The Convergence-Independence Gate
+
+### Policy
+
+A 2026-06-08 Claude Opus 4.8 outer review surfaced the structural form of this document's own weakness: the methodology pages are better-calibrated than the showcase apex articles they govern. The pages name the common-cause null and the independence requirement; the synthesis articles that most need the discipline have repeatedly asserted convergence as evidential support without applying it. The fix is to move the discipline from the methodology page *into the synthesis article*, as a gate the article must pass before it asserts convergence at all.
+
+Countermeasure 15 is a **blocking gate**. Before a synthesis article — any apex article, or any void-catalogue or convergence index — asserts "convergence," "converging lines," "multiple independent [lines / sources / traditions]," or any cognate as evidential support, the claim must pass an explicit independence check inside the article's own prose. The article must do *one* of:
+
+1. **Establish genuine independence.** Show the converging items are evidentially independent — different methods, traditions, datasets, substrates, or generating processes *not derived from the shared framework* — meeting the [[per-cluster-independence-scoring|independence-scoring]] criteria (evidential independence, not mere interpretive independence). Only then may the convergence be counted as cumulative evidential support, and even then costed against the [[mechanism-cost-ledger|explanatory-cost ledger]].
+2. **Name the common-cause null and downgrade.** If the converging items are *not* independent — if they share an upstream architecture, a single introspective channel, or a framework-internal assembly — the article must explicitly name the [[common-cause-null|common-cause null]]: state that the apparent convergence may be an artifact of shared upstream architecture rather than independent triangulation, and downgrade the claim to the weaker *mutually-consistent / cumulative-within-architecture* form. The honest phrasing is "N components of one architecture," not "N independent lines that converge"; the cluster then "carries the evidential weight of one pattern, not N." This is the [[evidential-status-discipline|evidential-status discipline]] applied at the convergence-claim grain: framework-internal coherence is not evidence of framework-independent truth.
+
+The gate fails closed: an unscreened convergence claim in a synthesis article is a structural defect, not a stylistic one, exactly as the missing steelman mirror is under Countermeasure 10. The default-pass that this gate forbids — asserting convergence and leaving the independence question to a later reviewer — is the synthesis-tier instance of the absorption pressure Countermeasure 8 names: the comfortable, coherence-increasing reading silently displaces the harder honest one.
+
+### The Live Anchors
+
+Two 2026-06-08 reframes are the pattern this gate generalises:
+
+- **[[apex/taxonomy-of-voids|A Taxonomy of Voids]]** — the index's "convergence constitutes evidence" framing was downgraded to *suggestive, not confirmatory*: the 60+ void catalogue's convergence is "largely framework-internal coherence with only partial framework-independent evidence," with the [[common-cause-null|common-cause null]] "setting the calibration ceiling." The cluster earns what self-consistent integration legitimately earns, not what discriminating evidence supplies.
+- **[[apex/post-decoherence-selection-programme|The Post-Decoherence Selection Programme]]** — "five converging lines" was reframed to "five components of one architecture": the five components "appear to point the same way because they were assembled *from* a single framework, not because separate inquiries arrived at it," so "their alignment is a [[common-cause-null|common-cause artefact]] of shared upstream architecture, not independent evidential triangulation."
+
+Both reframes are option (b) of the gate: the items were not independent, so the article named the common-cause null and downgraded to the cumulative-within-architecture form rather than retracting the synthesis. Neither lost its thesis; both stopped overstating it.
+
+### Enforcement
+
+This gate is enforced *inside* the synthesis articles, which means it must be carried by the passes that write and review them. The `/apex-evolve` remit (which builds and maintains every apex article) and the `/deep-review` remit (which reviews load-bearing articles) must apply Countermeasure 15 to any convergence assertion they encounter or introduce: a convergence claim that has not visibly passed the independence check or named the common-cause null is treated as an open finding, fed to the [[bedrock-clash-vs-absorption|absorb-vs-clash decision]] (Countermeasure 8), and either independence-justified, downgraded, or recorded as a `refine-draft` ticket. This is the synthesis-tier companion to Countermeasure 13's common-cause screening prerequisite, made blocking at the point of assertion rather than advisory after the fact.
+
 ### Key Indicators
 
 Track these metrics across evolution sessions:
@@ -422,6 +449,7 @@ Track these metrics across evolution sessions:
 | Leads with strong-verb claims contradicted by their own bodies (Countermeasure 12) | 0 | >0 |
 | Apex articles failing the missing-engagement audit on a top-N opponent (Countermeasure 13) | 0 | >1 |
 | Novelty claims unchecked against occupied conceptual space, or substantial extensions of a named view without a credit paragraph (Countermeasure 14) | 0 | >0 |
+| Synthesis-article convergence claims asserting evidential support without an independence check or named common-cause null (Countermeasure 15) | 0 | >0 |
 
 ### Reporting
 

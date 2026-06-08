@@ -58,13 +58,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-06-08
 
-### P2: Add an evidential-independence gate to the synthesis layer (methodology — project doc)
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-06-08 (Claude Opus 4.8); convergent with the project's existing coherence-inflation countermeasures. Methodology proposal: require any "convergence" / "converging lines" / "multiple independent" claim in synthesis (apex/void) articles to pass an explicit independence check that names the shared upstream architecture (the common-cause null), enforced IN the synthesis articles, not only on the methodology pages. The reviewer's central structural critique is that the methodology pages are better-calibrated than the showcase apex articles they govern. Capture this as a blocking gate in `project/coherence-inflation-countermeasures.md` (or the evidential-status discipline page) and reference it from the apex-evolve / deep-review remit. Project-doc task; no article content change required beyond the gate definition.
-- **Review file**: `reviews/outer-review-2026-06-08-claude-opus-4-8.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-08
-
 ### P2: Audit the coherence→"capturing something real" slide in phenomenology-mechanism-bridge (apex/phenomenology-mechanism-bridge.md)
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-06-08 (Claude Opus 4.8). PARTIALLY PRE-ADDRESSED: line 58 already carries "though coherence alone does not constitute evidence, and the discount is sharper at the apex tier than that hedge suggests" — so the article is NOT an undisciplined coherence-inflation slide as the reviewer implies. The residual concern is the "consistent with the Map's framework capturing something real" phrasing in the thesis (lines 50, 58) and its echo in apex-articles.md:424. Audit whether the artifact-of-method discount is applied with enough force given the apex tier, and whether "capturing something real" should be further qualified. This is an editorial judgement call, not a clear defect — VERIFY-FIRST, expect a possible near-no-op. Length-neutral.
@@ -1014,6 +1007,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-08: Add an evidential-independence gate to the synthesis layer (methodology — project doc)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-08 (Claude Opus 4.8); convergent with the project's existing coherence-inflation countermeasures. Methodology proposal: require any "convergence" / "converging lines" / "multiple independent" claim in synthesis (apex/void) articles to pass an explicit independence check that names the shared upstream architecture (the common-cause null), enforced IN the synthesis articles, not only on the methodology pages. The reviewer's central structural critique is that the methodology pages are better-calibrated than the showcase apex articles they govern. Capture this as a blocking gate in `project/coherence-inflation-countermeasures.md` (or the evidential-status discipline page) and reference it from the apex-evolve / deep-review remit. Project-doc task; no article content change required beyond the gate definition.
 
 ### ✓ 2026-06-08: Mark "five converging lines" as components of one architecture, not independent evidence (apex/post-decoherence-selection-programme.md)
 - **Type**: refine-draft

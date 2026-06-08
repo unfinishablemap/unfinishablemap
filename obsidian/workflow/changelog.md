@@ -5,6 +5,12 @@ ai_modified: 2026-06-07 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-08T11:33:12+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[project/coherence-inflation-countermeasures]]
+- **Changes**: Added Countermeasure 15 — the Convergence-Independence Gate — acting on a P2 methodology finding from the 2026-06-08 Claude Opus 4.8 outer review (reviewer's central structural critique: methodology pages are better-calibrated than the showcase apex articles they govern, so the discipline must be enforced *inside* synthesis articles, not only stated on the methodology pages). Defined as a blocking gate: any "convergence" / "converging lines" / "multiple independent [lines/sources/traditions]" claim in a synthesis article (apex/ or void catalogue) must either (a) establish genuine evidential independence per [[per-cluster-independence-scoring]] or (b) explicitly name the [[common-cause-null]] and downgrade to the weaker cumulative-within-architecture form per [[evidential-status-discipline]]. Added an Enforcement subsection pointing the gate at the `/apex-evolve` and `/deep-review` remits (reference from this doc; skill files not edited). Anchored to the two live 2026-06-08 reframes: taxonomy-of-voids "convergence constitutes evidence" → "suggestive not confirmatory / framework-internal coherence" and post-decoherence apex "five converging lines" → "five components of one architecture, common-cause artefact." Added a Key Indicators row (target 0 / warning >0) and the `[[apex/post-decoherence-selection-programme]]` related-article link. Updated `ai_modified`.
+- **Published**: yes
+
 ## 2026-06-08T12:00:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/consciousness-in-simple-organisms.md` (single-file focus). Exemplar of evidential-status discipline: keeps tenet-compatibility and empirical-support registers explicitly apart; declines tenet-load tier-upgrades for *C. elegans* / Hydra / *Physarum*. Process Philosopher and Hardline Empiricist personas converge in praise (the signal of an honestly resolved tension) — no calibration concern, no refine task generated.

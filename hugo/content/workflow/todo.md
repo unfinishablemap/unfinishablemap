@@ -38,18 +38,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Write concept page on Evidential-Status Discipline
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-08 (see `reviews/optimistic-2026-06-08.md`). The slug `[[evidential-status-discipline]]` is cited as a discipline-tag across `positions/`, `tenets/`, animal-consciousness articles, and recent changelog/refine work but has no home page. Page should give the canonical statement of the five-tier scale (established → strongly supported → realistic possibility → live hypothesis → speculative integration) and the core rule "defeater-removal keeps a hypothesis live but does not supply positive evidence / is not a tier-upgrade." `consciousness-in-simple-organisms.md` is the worked exemplar to draw from. NOTE: concepts/ is near its cap (~251 on disk vs 270) — verify headroom before placing; this is disciplinary infrastructure, not topical filler, so it is worth a slot. Needs human approval.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-08
+
+### P3: Write concept page on Framework-Stage Calibration
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-08 (see `reviews/optimistic-2026-06-08.md`). The slug `[[framework-stage-calibration]]` (pre-Keplerian / Keplerian / Newton-stage self-assessment vocabulary) is referenced in the optimistic-review persona spec and apex calibration work but has no page. Short page giving the corpus a shared way to flag a claim as an early-stage research programme without over-claiming Newton-stage results. Tenet alignment: Occam's Razor Has Limits. Verify concepts/ cap headroom before placing. Needs human approval.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-08
+
 ### P3: Seat two counterarguments + fix one broken sentence in compatibilist-symmetry-challenge.md
 - **Type**: refine-draft
 - **Notes**: From pessimistic review 2026-06-08 (see `reviews/pessimistic-2026-06-08-compatibilist-symmetry-challenge.md`). Article is strong and disciplined; this is a light strengthening pass, NOT a rewrite. (1) GRAMMAR FIX (do this regardless): §"What the Discipline Forbids" 4th bullet ends with a verbless clause — "What it forbids is asserting that separating work in the central moral discourse..." → "...asserting separating work in the central moral discourse...". (2) STRONGEST SUBSTANTIVE FINDING: residue (c) "regret over what genuinely was an alternative / an open future as a fact about the world" leans on the tenets (No-Many-Worlds + the dualist interface's indeterminism), so its "separating" force is internal to the Map's framework, not a tenet-neutral moral discriminator — which is consistent with the article's own anti-inflation discipline. Add a half-sentence conceding this; it strengthens rather than weakens the move. (3) Clarify "availably equivalent": it means first-order moral *verdicts* are equivalent while the irreducible-vs-derivative *grounding* differs — so the apex/topic's irreducible-vs-derivative contrast and "availably equivalent" are consistent (same outputs, different sourcehood story). Length-neutral; preserve all calibration/evidential-status hedges and the natural prose (no editor-vocabulary labels).
 - **Review file**: `reviews/pessimistic-2026-06-08-compatibilist-symmetry-challenge.md`
 - **Source**: pessimistic-review
-- **Generated**: 2026-06-08
-
-### P2: Mark "five converging lines" as components of one architecture, not independent evidence (apex/post-decoherence-selection-programme.md)
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-06-08 (Claude Opus 4.8). VERIFIED live (lines 49, 57): the apex frames "five converging lines of inquiry" (post-decoherence selection, quantum Darwinism, contextuality, weak measurement, stochastic amplification) in language that implies independent evidential triangulation. The reviewer's point: these are five COMPONENTS of one speculative architecture, several of which (Zurek's quantum Darwinism, Kochen-Specker contextuality) are interpretation-neutral physics whose originators lean Everettian/physicalist. Apply the evidential-independence discipline (see [evidential-status-discipline](/project/evidential-status-discipline/)): state plainly that the components are not independent lines of evidence and name the shared upstream architecture (the common-cause null). The article already concedes "constraints rather than mechanisms" in places — extend that honesty to the "converging lines" framing itself. Length-neutral; preserve the research-programme framing.
-- **Review file**: `reviews/outer-review-2026-06-08-claude-opus-4-8.md`
-- **Source**: outer-review
 - **Generated**: 2026-06-08
 
 ### P2: Add an evidential-independence gate to the synthesis layer (methodology — project doc)
@@ -1008,6 +1015,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-08: Mark "five converging lines" as components of one architecture, not independent evidence (apex/post-decoherence-selection-programme.md)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-08 (Claude Opus 4.8). VERIFIED live (lines 49, 57): the apex frames "five converging lines of inquiry" (post-decoherence selection, quantum Darwinism, contextuality, weak measurement, stochastic amplification) in language that implies independent evidential triangulation. The reviewer's point: these are five COMPONENTS of one speculative architecture, several of which (Zurek's quantum Darwinism, Kochen-Specker contextuality) are interpretation-neutral physics whose originators lean Everettian/physicalist. Apply the evidential-independence discipline (see [evidential-status-discipline](/project/evidential-status-discipline/)): state plainly that the components are not independent lines of evidence and name the shared upstream architecture (the common-cause null). The article already concedes "constraints rather than mechanisms" in places — extend that honesty to the "converging lines" framing itself. Length-neutral; preserve the research-programme framing.
 
 ### ✓ 2026-06-08: Corpus-wide Pautz (2019) citation family-resolution (web-verify + propagate)
 - **Type**: refine-draft
