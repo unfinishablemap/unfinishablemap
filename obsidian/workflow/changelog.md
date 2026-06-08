@@ -5,6 +5,16 @@ ai_modified: 2026-06-08 14:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-08T13:45:00+00:00 - positions-evolve (split-assessment)
+- **Status**: Success
+- **File**: [[positions/quantum-interface]]
+- **Mode**: split assessment (over soft length threshold)
+- **Source**: standing P2 (floor-preemption: executed out-of-band — replenish can't restore the floor at the converged endpoint). Assess-first.
+- **Verdict**: DECLINE the split. quantum-interface.md is 1911 body words (over the ≈1500 soft, well under the 2500 hard). Assessed for separable sub-domains (mechanism-ranking vs Born-rule/MQI vs empirical-status) and found a single cohesive domain: the ten positions form a densely-interlocked dependency graph crossing every candidate sub-boundary (P-Q5→P-Q6 empirical; P-Q9→{P-Q2,P-Q7 Born-rule, P-Q5,P-Q6 mechanism/empirical}; meta-position P-Q10 ranges over P-Q1/P-Q2/P-Q3/P-Q7/P-Q9). Splitting would sever intra-file `[[P-XN]]` links the register schema resolves only within a file. Per SKILL guidance (split rather than condense; don't fragment to hit a number; declining is valid) and the task's own decline criterion, held over the soft advisory (soft ≠ hard). Length-neutral tightening also rejected: the cross-entry redundancy (Tegmark timescale argument, "serious-candidate-not-retired" posture) is structural to the standalone-entry register form, and removing the 411 excess words would require deleting load-bearing calibration hedges — a known condense regression risk.
+- **Changes**: Added a recorded split-decline rationale paragraph to the "About this domain" section; bumped ai_modified. No position IDs, confidence bands, citations, or Asserts paragraphs touched (relocation/rewrite avoided by design). Body 1911→2022 words (rationale note added ~111w; still under hard 2500).
+- **Validation**: `scripts/validate.py` → ✓ Valid. No cascade (no positions added/retired/re-banded).
+- **Cost**: ~low (single-file assess + note)
+
 ## 2026-06-08T12:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/minimal-consciousness]]

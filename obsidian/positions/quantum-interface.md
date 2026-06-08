@@ -4,7 +4,7 @@ description: "The Map's positions on the consciousness–quantum interface: mech
 created: 2026-06-04
 modified: 2026-06-04
 human_modified: 2026-06-04
-ai_modified: 2026-06-05T12:00:00+00:00
+ai_modified: 2026-06-08T13:45:00+00:00
 draft: false
 topics:
   - "[[forward-in-time-conscious-selection]]"
@@ -35,6 +35,8 @@ last_curated: 2026-06-04
 ## About this domain
 
 These positions cover what the Map currently holds about the mechanism by which consciousness influences quantum-indeterminate outcomes in neural systems: which mechanism class is preferred, how the Born rule is treated, the scope and minimality constraints on the interaction, and where the programme remains incomplete. The cluster sits downstream of Tenets 2 (Minimal Quantum Interaction) and 3 (Bidirectional Interaction); none of these positions are themselves tenets but each follows from a tenet plus argument or evidence and could be retired without disturbing the foundational commitments.
+
+This file runs over the soft per-domain length advisory (≈1900 words against a 1500 soft / 2500 hard threshold). A 2026-06-08 split assessment kept it as one domain deliberately: the ten positions form a single densely-interlocked dependency graph that crosses any candidate sub-boundary (P-Q5 depends on the empirical P-Q6; P-Q9 depends on Born-rule P-Q2/P-Q7 *and* mechanism P-Q5/P-Q6; the meta-position P-Q10 ranges over P-Q1/P-Q2/P-Q3/P-Q7/P-Q9). Fragmenting into mechanism / Born-rule / empirical files would sever these intra-file `[[P-XN]]` links, which the register schema resolves only within a file. The domain is cohesive, not a conflation of separable domains, so it is held over soft rather than split to hit a number (soft ≠ hard).
 
 ## Positions
 
