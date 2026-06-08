@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-07
-ai_modified: 2026-06-07 17:35:00+00:00
+ai_modified: 2026-06-07 18:30:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -22,6 +22,7 @@ related_articles:
 - '[[composition-and-consciousness]]'
 - '[[consciousness-and-the-metaphysics-of-composition]]'
 - '[[information-compression-composition]]'
+- '[[brutal-composition]]'
 - '[[mereology-of-mind]]'
 - '[[tenets]]'
 title: Metaontological Deflationism
@@ -53,7 +54,7 @@ The difference from Thomasson matters. Thomasson deflates by making the existenc
 
 ## Why This Is the Load-Bearing Rival
 
-The Map's composition argument inherits a premise it rarely defends: that the SCQ is a deep question with a fact to be tracked. Almost every other rival the Map engages—Bird's information-compression criterion, McQueen and Tsuchiya's integrated-information criterion, Korman's ordinary-object realism—grants that premise and disputes only the *answer*. Deflationism attacks the premise itself.
+The Map's composition argument inherits a premise it rarely defends: that the SCQ is a deep question with a fact to be tracked. Almost every other rival the Map engages—Bird's information-compression criterion, McQueen and Tsuchiya's integrated-information criterion, [Markosian's brutalism](/concepts/brutal-composition/), Korman's ordinary-object realism—grants that premise and disputes only the *answer* (brutalism granting the fact while denying it has any informative answer). Deflationism attacks the premise itself.
 
 This makes it more dangerous to the Map's project than any in-framework rival. If Thomasson is right, "what makes some simples compose a whole?" has a trivial answer (competent use of the count noun) and no deep residue; the convergence of three composition theories on the consciousness-neighbourhood is then a convergence on a question that was never deep. If Hirsch is right, the universalist and the restrictivist were never really disagreeing, so there is no winning criterion for consciousness to be—and the claim "consciousness marks the boundary of genuine composition" lacks a determinate fact to express. Either way the convergence argument loses not a battle but its battlefield.
 
@@ -81,6 +82,8 @@ The deflationist and the Map can agree on a surprising amount of first-order tal
 
 - [composition-and-consciousness](/concepts/composition-and-consciousness/) — The mereological framework and the phenomenal-non-compositionality thesis deflationism would dissolve
 - [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/) — The convergence argument whose realist premise deflationism attacks
+- [brutal-composition](/concepts/brutal-composition/) — The realist contrast: composition is a determinate fact (against deflationism) but an unanalysable one
+- [information-compression-composition](/concepts/information-compression-composition/) — The realist rival that gives a non-conscious informative criterion deflationism denies has any deep target
 - [parsimony-epistemology](/concepts/parsimony-epistemology/) — Why the Map distrusts simplicity as a tiebreaker, of which deflationism is a limiting case
 - [emergence](/concepts/emergence/) — The general problem of wholes-from-parts that deflationism reframes as shallow
 - [tenets](/tenets/) — The five foundational commitments, especially Occam's Razor Has Limits
