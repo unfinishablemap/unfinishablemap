@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-05-19 22:56:28+00:00
+ai_modified: 2026-06-08 19:48:43+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -47,7 +47,7 @@ Implicit memory matters for The Unfinishable Map's framework because it reveals 
 
 Endel Tulving (1927-2023) distinguished [three forms of consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) associated with different memory systems, forming a hierarchy from unreflective action to temporal self-projection.
 
-**Anoetic consciousness** ("non-knowing") accompanies procedural and implicit memory. When you perform a well-learned skill, there is no self-reference, no sense of yourself as the subject of experience observing yourself act. The skill simply executes. Tulving emphasised that anoetic consciousness is not *absent* consciousness but a distinct mode—what he called "non-reflective qualia." There is still something it is like to ride a bicycle expertly; it just doesn't involve representing yourself as the one riding.
+**Anoetic consciousness** ("non-knowing") accompanies procedural and implicit memory. When you perform a well-learned skill, there is no self-reference, no sense of yourself as the subject of experience observing yourself act. The skill simply executes. Tulving emphasised that anoetic consciousness is not *absent* consciousness but a distinct mode—a non-reflective, quale-like character that Vandekerckhove and Panksepp (2009) later glossed as "non-reflective qualia." There is still something it is like to ride a bicycle expertly; it just doesn't involve representing yourself as the one riding.
 
 **Noetic consciousness** ("knowing") accompanies [semantic memory](/concepts/semantic-memory/). You are aware of knowing—you know that Paris is in France—but without re-experiencing when you learned it. The fact is simply available.
 
@@ -85,10 +85,10 @@ When skilled performers face high-pressure situations, a counterintuitive breakd
 
 The explicit monitoring theory (developed by Beilock & Carr, building on Baumeister's earlier work on self-consciousness and choking) explains the mechanism: pressure generates anxiety, anxiety triggers self-focus, and self-focus leads to step-by-step monitoring of what should be automatic execution. The performer "reinvests" explicit control in procedures that work better without it. Crucially, this reinvestment involves [willed attention](/concepts/attention-as-interface/)—not mere stimulus-driven capture, but internally directed focus on one's own movements. The performer *decides* to attend to their execution, and this decision has causal consequences.
 
-Research confirms this pattern:
+Converging findings across the broader choking literature support this pattern:
 - Highly skilled performers choke more than moderately skilled ones (they have more to disrupt)
 - Skills learned without explicit awareness are protected against choking
-- Dual-task conditions that occupy conscious attention can *improve* skilled performance
+- Dual-task conditions that occupy conscious attention can *improve* skilled performance by diverting it from execution monitoring (a result from the wider attentional-load literature rather than Beilock and Carr's own dual-task studies, which found training under dual-task load left subsequent choking unchanged)
 - Instructions to focus on outcomes rather than mechanics reduce choking
 
 ### Why This Matters for Dualism
@@ -101,7 +101,7 @@ Choking is evidence consistent with [consciousness causally affecting](/concepts
 
 The standard neuroscience interpretation describes this as prefrontal monitoring circuits disrupting basal ganglia motor programs—one neural subsystem interfering with another. This account is correct as far as it goes, but it describes the *neural event* without addressing the *phenomenal fact*. The performer doesn't merely undergo prefrontal activation; they *experience* anxious self-monitoring. The question is whether that phenomenal dimension—what it is like to choke—is causally relevant or merely an epiphenomenal accompaniment to the neural competition.
 
-If consciousness were [epiphenomenal](/concepts/epiphenomenalism/)—a mere byproduct with no causal power—the felt quality of self-focused attention would be irrelevant to the disruption. Yet the phenomenology tracks the performance: choking occurs specifically when performers *experience* self-monitoring, and interventions that alter the phenomenal state (distraction tasks, outcome-focused instructions) alter the disruption. The tight coupling between what performers feel and how they fail suggests the phenomenal dimension is doing causal work, not passively accompanying neural events that would proceed identically without it.
+If consciousness were [epiphenomenal](/concepts/epiphenomenalism/)—a mere byproduct with no causal power—the felt quality of self-focused attention would be irrelevant to the disruption. Yet the phenomenology tracks the performance: choking occurs specifically when performers *experience* self-monitoring, and interventions that alter the phenomenal state (distraction tasks, outcome-focused instructions) alter the disruption. Tracking alone does not settle the matter, since a common cause—prefrontal reinvestment driving both the felt state and the neural disruption—would produce the same correlation without the phenomenal dimension doing any work. What discriminates the two readings is the *interference* itself, addressed below: a systematic, theory-predicted degradation is far harder to dismiss as confabulated narrative than positive reports of agency are. The coupling is thus better read as showing the phenomenal dimension is not plausibly idle than as isolating it as the sole causal lever.
 
 The *negative* character of this evidence strengthens the case. One might explain away reports of conscious agency as post-hoc confabulation. But systematic *interference*—where phenomenal attention reliably degrades performance in ways predicted by the explicit monitoring theory—is harder to dismiss as narrative overlay on causally sufficient neural processes.
 
@@ -180,7 +180,7 @@ The framework's claims about implicit memory and anoetic consciousness would be 
 Implicit memory illuminates all five tenets.
 
 ### Dualism
-Even Tulving's anoetic consciousness has phenomenal character—"non-reflective qualia." There is something it is like to perform automatized skills, however different from reflective experience. Consciousness isn't identical to self-aware cognition; it includes unreflective modes that procedural memory operates within.
+Even Tulving's anoetic consciousness has phenomenal character—what Vandekerckhove and Panksepp call "non-reflective qualia." There is something it is like to perform automatized skills, however different from reflective experience. Consciousness isn't identical to self-aware cognition; it includes unreflective modes that procedural memory operates within.
 
 ### Minimal Quantum Interaction
 The [attention interface](/concepts/attention-as-interface/) explains why consciousness can delegate: once skills are calibrated, the low-bandwidth interface need not continuously engage. Procedural systems run on trained patterns; consciousness intervenes only when [selection among alternatives](/concepts/consciousness-selecting-neural-patterns/) is required.
@@ -188,7 +188,7 @@ The [attention interface](/concepts/attention-as-interface/) explains why consci
 How such delegation works at the physical level remains speculative. One proposed mechanism—Stapp's quantum Zeno effect—would require only brief quantum involvement when attention shifts, not sustained coherence during automatic execution. Whether this or another mechanism mediates the interface, the functional pattern is clear: consciousness calibrates procedural systems during learning, then withdraws, re-engaging only when novel selection is required.
 
 ### Bidirectional Interaction
-Choking is among the most suggestive evidence for mental causation. A physicalist can describe the neural competition—prefrontal monitoring disrupting basal ganglia motor programs—but this leaves the phenomenal dimension unexplained. The performer *experiences* disruptive self-attention, and interventions that alter the phenomenal state (distraction, outcome focus) reliably alter the disruption. The tight coupling between what performers feel and how they fail is what genuine mental causation predicts and what epiphenomenalism struggles to account for.
+Choking is among the most suggestive evidence for mental causation. A physicalist can describe the neural competition—prefrontal monitoring disrupting basal ganglia motor programs—but this leaves the phenomenal dimension unexplained. The performer *experiences* disruptive self-attention, and interventions that alter the phenomenal state (distraction, outcome focus) reliably alter the disruption. A common cause—reinvestment driving both feeling and neural disruption—could mimic this coupling, so the coupling does not by itself isolate the phenomenal lever; the systematic, predicted character of the interference (harder to dismiss as confabulation than positive agency reports are) is what makes the phenomenal dimension not plausibly idle, which is more than epiphenomenalism comfortably accommodates.
 
 ### No Many Worlds
 Skill execution involves selecting among action possibilities. Each moment of expert performance actualises one trajectory from many physically possible alternatives. If [all possibilities actualised](/concepts/many-worlds/) in branching universes, there would be branches where the expert misses every shot, drops every catch, flubs every note—yet from any observer's perspective, skilled performance succeeds reliably.
@@ -220,6 +220,7 @@ A purely neural account can describe choking as prefrontal-basal ganglia competi
 ## References
 
 1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
+1. Vandekerckhove, M. & Panksepp, J. (2009). The flow of anoetic to noetic and autonoetic consciousness: A vision of unknowing (anoetic) and knowing (noetic) consciousness in the remembrance of things past and imagined futures. *Consciousness and Cognition*, 18(4), 1018-1028.
 1. Dreyfus, H. & Dreyfus, S. (1986). *Mind over Machine*. Free Press.
 1. Baumeister, R. F. (1984). Choking under pressure: Self-consciousness and paradoxical effects of incentives on skillful performance. *Journal of Personality and Social Psychology*, 46(3), 610-620.
 1. Beilock, S. L. & Carr, T. H. (2001). On the fragility of skilled performance: What governs choking under pressure? *Journal of Experimental Psychology: General*, 130(4), 701-725.

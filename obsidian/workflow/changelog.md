@@ -5,6 +5,18 @@ ai_modified: 2026-06-08 14:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-08T19:48:43+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/implicit-memory]]
+- **Source**: pessimistic-review 2026-06-08 ([[reviews/pessimistic-2026-06-08-implicit-memory]]), targeted P2 refine
+- **Changes**:
+  - (1) WEB-VERIFIED the "non-reflective qualia" attribution. Verdict: state (c) — the phrase is the coinage of Vandekerckhove & Panksepp (2009, *Consciousness and Cognition* 18(4):1018-1028), glossing Tulving's anoetic consciousness, NOT Tulving's own wording from 1985. Removed the false "what he [Tulving] called" framing at L47 and the parallel mislabel in the Dualism tenet section; re-attributed to the verified coiners; added the V&P 2009 reference entry.
+  - (2) Closed the correlation→causation slide. Added a common-cause acknowledgement (prefrontal reinvestment drives both the felt state and the neural disruption, so tracking is symmetric) and pivoted the discriminating weight onto the article's existing negative-evidence point (systematic, theory-predicted interference is harder to confabulate than positive agency reports). Downgraded "doing causal work" → "not plausibly idle" in the choking passage (L101) and mirrored the fix in the Bidirectional Interaction tenet section (L188). Per [[evidential-status-discipline]]; did not over-hedge. L196 (Occam) left as-is — it correctly frames tracking as the epiphenomenalist's burden, not a Map inference.
+  - (3) Re-attributed the dual-task-improves-experts claim (L88) to the broader attentional-load literature, with an explicit note that Beilock & Carr's own dual-task training studies found choking unchanged.
+  - Engagement with the illusionist / epiphenomenalist: Mode One (defective on its own terms) for the common-cause/interference discrimination — the negative evidence is argued from within the symmetric-correlation framing the opponent grants. No mode labels in body.
+- **Word count**: 2949 → 3126 body words (net +177; soft_warning, well under 3500 hard ceiling). Strong "What Would Challenge This View?" section and all calibration preserved.
+- **Published**: yes
+
 ## 2026-06-08T19:17:01+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[concepts/implicit-memory]] ("Implicit Memory and Anoetic Consciousness"; oldest unreviewed AI content, last_deep_review 2026-05-19, no prior dedicated pessimistic review)
