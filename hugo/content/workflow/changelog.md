@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-08T08:33:15+00:00 - refine-draft
+- **Status**: Success
+- **File**: [structure-of-attention](/topics/structure-of-attention/)
+- **Task**: ANCHORING-CALIBRATION fix vs anchor concept [mental-effort](/concepts/mental-effort/) (topic-concept anchoring audit 2026-06-08)
+- **Before/after**: strong-assertion density 0.77/kw → 0.38/kw (under 0.51/kw threshold); underdetermination markers 0 → 1; body word count 2608 → 2641 (length-neutral, +33w from added marker sentence)
+- **Verbs softened**: 1 — line 222 "If willed attention **proves to be** instructed attention" → "**turns out to be**" (idiomatic "turns out", not an evidential claim; safest to soften). Left line 168 "establishes" untouched — it is a genuine, already-hedged calibrated report ("establishes that... implemented... doesn't establish that neural mechanisms are *all*").
+- **Underdetermination marker added**: one sentence at the main inference (the physicalist-response paragraph in "Structure and the Interface"): "The neural data are compatible with both interpretations; the phenomenological asymmetry does not by itself force the dualist reading over the physicalist one, and the case here is suggestive rather than decisive."
+- **Verification**: evaluate_anchoring(structure-of-attention.md, obsidian) returns no flags (CLEAR). Light-touch correction; did not over-hedge.
+- **Published**: yes
+
 ## 2026-06-08T07:48:11+00:00 - deep-review
 - **Status**: Success
 - **File**: [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/)

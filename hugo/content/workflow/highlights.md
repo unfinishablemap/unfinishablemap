@@ -28,7 +28,8 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 A self-correction with teeth: the Map credited physicist Yakir Aharonov for the idea that free will sets a quantum 'boundary condition from the future,' and re-scoped its own contribution to the dualist twist—a separate mind, not physics, supplies the constraint.
 
 **Type**: refinement  
-**Link**: [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)
+**Link**: [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)  
+**Tweet**: https://x.com/unfinishablemap/status/2063894530261197175  
 
 ---
 

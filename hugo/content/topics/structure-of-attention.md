@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-06-02 21:10:00+00:00
+ai_modified: 2026-06-08 08:33:15+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -184,7 +184,7 @@ The structure reveals the interface in action: when you will attention, machiner
 
 A critic might respond: the neural differences simply reflect different computational pathways—internally-generated goals versus externally-provided ones—without requiring any non-physical contribution. The frontal theta and extra recruitment ARE the willing, not evidence OF willing beyond the neural.
 
-The Map's response: this interpretation explains away rather than explains. If phenomenal experience is identical to neural processing, why does internally-generated selection feel like *effort* while externally-cued selection feels like *following*? The physicalist says these feelings are what those neural patterns *are*. But that relocates rather than solves the question: why do *these* patterns feel like effortful willing while *those* patterns feel passive? The correlation between phenomenology and neural signature demands explanation—and the Map proposes that consciousness genuinely contributes where willing occurs, which is why it both feels different and looks different.
+The Map's response: this interpretation explains away rather than explains. If phenomenal experience is identical to neural processing, why does internally-generated selection feel like *effort* while externally-cued selection feels like *following*? The physicalist says these feelings are what those neural patterns *are*. But that relocates rather than solves the question: why do *these* patterns feel like effortful willing while *those* patterns feel passive? The correlation between phenomenology and neural signature demands explanation—and the Map proposes that consciousness genuinely contributes where willing occurs, which is why it both feels different and looks different. The neural data are compatible with both interpretations; the phenomenological asymmetry does not by itself force the dualist reading over the physicalist one, and the case here is suggestive rather than decisive.
 
 ## Contemplative Evidence
 
@@ -222,7 +222,7 @@ The simplest account would eliminate the willed/instructed distinction: all atte
 
 The framework would be undermined if:
 
-1. **The willed/instructed distinction collapses** — If willed attention proves to be instructed attention with hidden cues, the neural distinctiveness would be artifactual.
+1. **The willed/instructed distinction collapses** — If willed attention turns out to be instructed attention with hidden cues, the neural distinctiveness would be artifactual.
 
 2. **Willed attention becomes fully predictable** — If neural activity predicted choices with certainty (not just above chance), the space for selection would close.
 

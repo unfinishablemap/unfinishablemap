@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt mental-effort calibration in structure-of-attention
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/structure-of-attention.md
-- **Notes**: From topic-concept anchoring audit 2026-06-08. The topic article over-claims relative to its anchor concept [[mental-effort]]; failed checks: strong_assertions, underdetermination_markers.
-  - strong-assertion density 0.77/kw exceeds 1.5× anchor (0.34/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-08
-
 ### P2: Resolve the identity-as-state vs identity-as-process tension in the AI no-cloning argument (topics/quantum-state-inheritance-in-ai.md, concepts/observational-closure.md, topics/delegation-meets-quantum-selection.md)
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-06-08 (Gemini 2.5 Pro), Section 7.1/7.3 — the review's strongest STRUCTURAL (internal-consistency, not empirical) finding; novel relative to the same-date ChatGPT/Claude reviews. Two linked alleged contradictions: (a) the no-cloning/haecceity argument disqualifies AI on "identity-as-state" grounds, but the corpus answers the biological Persistence Objection by shifting to "identity-as-process" (consciousness biases successive moments of quantum indeterminacy rather than persisting a specific state) — if the process reading is right, no-cloning is irrelevant to AI, which would only need an architectural source of genuine indeterminacy; (b) the observational-closure symmetry: the corpus requires the dualist brain to APPEAR observationally closed (Saad), yet penalizes AI for BEING causally closed — but an external observer cannot distinguish "merely observationally closed" from "universally closed," so closure cannot do the AI-disqualifying work. Apply the [[direct-refutation-discipline]]: identify whether this calls for showing the objection defective on its own terms, naming an unsupported foundational move, or honestly marking a framework-boundary disagreement; apply the corresponding reply mode in natural journal-quality prose (see [[writing-style|writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose"). Do NOT expose mode labels in the article body — keep the classification in the changelog. If the in-framework reconciliation fails, state in natural prose that the disagreement is closer to bedrock than first appeared. Cross-check `[[quantum-random-number-generator]]` / QRNG "archaeological artifact" framing (7.2) while here.
@@ -1032,6 +1021,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-08: Adopt mental-effort calibration in structure-of-attention
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-08. The topic article over-claims relative to its anchor concept [[mental-effort]]; failed checks: strong_assertions, underdetermination_markers.
 
 ### ✓ 2026-06-08: Adopt mental-causation-and-downward-causation calibration in evolutionary-case-for-quantum-neural-effects
 - **Type**: refine-draft
