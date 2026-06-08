@@ -4,8 +4,8 @@ description: "Why max-mind dualism slides toward idealism, and what would hold i
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-06-01T00:00:00+00:00
-last_deep_review: 2026-05-27T13:05:00+00:00
+ai_modified: 2026-06-08T00:00:00+00:00
+last_deep_review: 2026-06-08T00:00:00+00:00
 draft: false
 topics:
   - dualism

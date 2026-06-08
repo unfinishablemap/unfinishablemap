@@ -5,6 +5,18 @@ ai_modified: 2026-06-07 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-08T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/q3-q4-sliding-boundary-and-transparency-problem]]
+- **Word count**: 2859 → 2859 (no change; 95% of soft threshold, OK)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (prior review's archival-link-rot item self-resolved — [[interactionist-dualism]] now resolves to a live concept page)
+- **Enhancements made**: 0 — genuine metadata-only no-op on a converged article; no edits manufactured
+- **Diff scope**: only change since last review (commit 8bc34a21c) is a hedge-strengthening refine (ab8634ae9) — calibration qualifiers preserved, not over-hedged
+- **Citation web-verify (run regardless of diff scope)**: all 7 historical attributions publisher/SEP-verified real-correct — Berkeley, Leibniz (corporeal mass = well-founded phenomenon), Kastrup (extrinsic appearance / dissociated alters), Whitehead (dipolar actual occasions), James (1898 transmission theory), Myers, Yogācāra (SEP contested-idealism reading), MWI Born-rule problem. Zero fabricated/wrong-author/wrong-year. Currency sweep N/A (no superlative empirical claims).
+- **Engagement modes (editor-internal)**: MWI → Mode Three (boundary marking); idealism/Kastrup → Mode Three. No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-08-q3-q4-sliding-boundary-and-transparency-problem]]
+
 ## 2026-06-08T00:00:00+00:00 - refine-draft (citation-integrity)
 - **Status**: Success
 - **File**: [[topics/authorship-of-action-divergence]]
