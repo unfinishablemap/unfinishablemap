@@ -80,7 +80,7 @@ The limit is visible from within only through negative evidence: where thought f
 
 These limits also operate collectively. Paradigms, cultures, and social structures develop emergent blind spots—limitations no individual mind would face alone (see [collective-cognitive-limits](/voids/collective-cognitive-limits/)). The shape of *collective* limits may reveal the architecture of collective cognition.
 
-The very *capacity* to conceive of cognitive limits is itself a datum requiring explanation (see [voids-as-evidence](/voids/what-voids-reveal/)). That existence produced beings who can ask "what can't I think?" is potentially evidential—the questioning capacity reveals something about the questioner.
+The very *capacity* to conceive of cognitive limits is itself a datum requiring explanation (see [voids-as-evidence](/positions/voids-as-evidence/)). That existence produced beings who can ask "what can't I think?" is potentially evidential—the questioning capacity reveals something about the questioner.
 
 ## Evidence for Structural Limits
 
@@ -151,7 +151,7 @@ The limits-reveal-structure thesis would be undermined if:
 
 - [Voids in the Map](/voids/) — The framework for investigating cognitive dark spaces
 - [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — Physics captures structure but not what underlies it; consciousness as sole window
-- [Voids as Evidence](/voids/what-voids-reveal/) — The meta-insight: that we can conceive of limits is itself evidential, and the catalogue's convergent structure adds cumulative weight
+- [Voids as Evidence](/positions/voids-as-evidence/) — The meta-insight: that we can conceive of limits is itself evidential, and the catalogue's convergent structure adds cumulative weight
 - [The Void as Ground of Meaning](/voids/void-as-ground-of-meaning/) — The constitutive thesis: limits are preconditions for meaning, not merely obstacles
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis of structural limits
 - [The Self-Reference Paradox](/voids/self-opacity/) — Where consciousness cannot map because it is the mapper

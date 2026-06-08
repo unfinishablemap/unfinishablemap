@@ -37,7 +37,7 @@ Scanned obsidian/ excluding reviews/, research/, archive/, hugo/, and workflow/ 
 | [voids/resolution-void.md](/voids/resolution-void/) | Frontmatter retargeted; inline contrast with "vast magnitudes produces cognitive strain" preserved via magnitude-face anchor; Further Reading entry expanded to note the inverse-resolution parallel |
 | [voids/mapping-mind-space.md](/voids/mapping-mind-space/) | Frontmatter retargeted |
 | [voids/embodiment-cognitive-limits.md](/voids/embodiment-cognitive-limits/) | Further Reading entry updated with expanded descriptor covering both faces |
-| [voids/voids-as-evidence.md](/voids/what-voids-reveal/) | Inline reference in "Cognitive Architecture Family" retargeted |
+| [voids/voids-as-evidence.md](/positions/voids-as-evidence/) | Inline reference in "Cognitive Architecture Family" retargeted |
 | [voids/emergence-void.md](/voids/emergence-void/) | Frontmatter retargeted |
 | [voids/creative-aesthetic-void.md](/voids/creative-aesthetic-void/) | Frontmatter retargeted |
 | [voids/temporal-void.md](/voids/temporal-void/) | Frontmatter retargeted |

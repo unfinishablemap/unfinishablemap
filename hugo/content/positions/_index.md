@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-06-05 08:50:00+00:00
+ai_modified: 2026-06-08 13:30:00+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts:
@@ -54,7 +54,9 @@ Confidence bands follow [evidential-status-discipline](/project/evidential-statu
 The register is grouped by domain so it stays scannable as it grows. Each domain file holds 8–15 positions.
 
 - [Quantum interface](/positions/quantum-interface/) — mechanism commitments, Born-rule treatment, MQI scope, post-decoherence selection
-- *Future domains, to be seeded as the register grows:* agency and will; consciousness scope (animal, AI, edge cases); voids as evidence; methodology and calibration; applied verdicts (clinical, AI, personal philosophy)
+- [Agency and will](/positions/agency-and-will/) — agent-causal libertarian free will, the Libet timing data, the verification limit, the compatibilist-symmetry discipline
+- [Voids as evidence](/positions/voids-as-evidence/) — what the cognitive-void catalogue evidentially supports: framework-internal coherence under the common-cause null, not independent confirmation
+- *Future domains, to be seeded as the register grows:* consciousness scope (animal, AI, edge cases); methodology and calibration; applied verdicts (clinical, AI, personal philosophy)
 
 ## How positions are maintained
 

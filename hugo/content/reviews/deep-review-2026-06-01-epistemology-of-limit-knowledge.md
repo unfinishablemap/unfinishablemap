@@ -76,7 +76,7 @@ None. Citations now verified against primary sources; symmetry discipline satisf
 
 - The eliminativist "bad-framework-not-architecture" objection and the Dennett denial-of-qualia objection are **bedrock** framework-boundary disagreements — do NOT re-flag as critical in future reviews.
 - The Buddhist constructed-cognizer concern remains a standing low-priority deferral.
-- The "over a hundred entries" framing matches the parallel claim in [voids-as-evidence](/voids/what-voids-reveal/); do not adjust unilaterally.
+- The "over a hundred entries" framing matches the parallel claim in [voids-as-evidence](/positions/voids-as-evidence/); do not adjust unilaterally.
 - **Mysterian-symmetry is now explicit in the Dualism paragraph.** Future condense/refine passes must NOT trim the double-edged caveat or the defeater-removal-≠-evidence language — it is load-bearing calibration content, exactly the kind /condense is known to silently drop.
 - Citation page numbers for Demircioglu (125-132), McGinn (349-366), Kriegel (177-191) are now primary-source-verified; Chomsky 1975. Treat as settled.
 - Word count: 1722 → 1843 (+121). Well under the 2500 concepts soft threshold.

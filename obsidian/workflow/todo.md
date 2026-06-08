@@ -66,13 +66,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-08
 
-### P2: Seed new position-register domains (positions/)
-- **Type**: positions-evolve
-- **Notes**: From outer review 2026-06-08 (ChatGPT 5.5 Pro). VERIFIED: only `positions/quantum-interface.md` exists besides the index, while the positions index itself names future domains. The reviewer recommends seeding at least: consciousness-scope, agency-and-will, voids-as-evidence, methodology-and-calibration, and applied-verdicts. The structural finding (§2.2): quantum-interface claims are visibly calibrated while AI, animal consciousness, voids-as-evidence, moral edge cases, clinical ethics, and methodology are still governed mostly by prose — the calibration machinery is unevenly distributed. Invoke /positions-evolve with assess-first license: seed the domains whose corpus support already exists (each position must cite the articles arguing it, per the positions-evolve discipline); do NOT manufacture positions the corpus has not yet earned. Start with the best-supported (agency-and-will, voids-as-evidence) rather than seeding all five mechanically.
-- **Review file**: `reviews/outer-review-2026-06-08-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-08
-
 ### P2: Resolve apex cap governance — apex count (34 on disk) far exceeds the ~20 guideline (apex/apex-articles.md)
 - **Type**: apex-evolve
 - **Notes**: From outer review 2026-06-08 (ChatGPT 5.5 Pro). VERIFIED: 34 apex articles on disk (excluding the index), including Mereology of Mind — the reviewer's ~31/32 count understates it; the structural point is stronger than stated. The ~20 guideline in the apex index is now badly out of step with reality, and the apex layer risks becoming a second topic index rather than a curated synthesis tier. This is a governance/meta decision rather than a content edit. Options the reviewer offers: retire the ~20 cap; convert it into a soft "synthesis threshold"; or split apex into tiers (core / cluster / methodology / applied). Apex tiering also interacts with the section_caps in evolution-state.yaml. Recommend invoking /apex-evolve to update the apex index's governance section to reflect the real count and a defensible policy; flag for human decision if a structural tier-split is warranted (this borders on a system/operator call).
@@ -993,6 +986,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-08: Seed new position-register domains (positions/)
+- **Type**: positions-evolve
+- **Notes**: From outer review 2026-06-08 (ChatGPT 5.5 Pro). VERIFIED: only `positions/quantum-interface.md` exists besides the index, while the positions index itself names future domains. The reviewer recommends seeding at least: consciousness-scope, agency-and-will, voids-as-evidence, methodology-and-calibration, and applied-verdicts. The structural finding (§2.2): quantum-interface claims are visibly calibrated while AI, animal consciousness, voids-as-evidence, moral edge cases, clinical ethics, and methodology are still governed mostly by prose — the calibration machinery is unevenly distributed. Invoke /positions-evolve with assess-first license: seed the domains whose corpus support already exists (each position must cite the articles arguing it, per the positions-evolve discipline); do NOT manufacture positions the corpus has not yet earned. Start with the best-supported (agency-and-will, voids-as-evidence) rather than seeding all five mechanically.
 
 ### ✓ 2026-06-08: Tighten naturalist co-optation hedges on McGinn and Schwitzgebel where the inference still appears (voids corpus, mind-space cluster)
 - **Type**: refine-draft

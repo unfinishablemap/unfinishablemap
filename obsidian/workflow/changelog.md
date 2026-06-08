@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-08 12:34:15+00:00
+ai_modified: 2026-06-08 13:30:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-08T13:30:00+00:00 - positions-evolve
+- **Status**: Success
+- **Mode**: add (domain seeding) — ChatGPT 5.5 Pro outer review 2026-06-08 §2.2 (positions register thinly seeded)
+- **Operation**: seeded 2 new position-register domains; assess-first declined the other 3 reviewer-named domains
+- **Files**: [[positions/agency-and-will]] (new, 5 positions P-A1..P-A5), [[positions/voids-as-evidence]] (new, 3 positions P-V1..P-V3), [[positions/positions]] (Domains list + ai_modified), evolution-state.yaml (positions_written 1→3, counts files)
+- **agency-and-will (P-A1..P-A5)**: P-A1 agent-causal libertarian free will (moderate; cites topics/free-will, concepts/agent-causation, apex/consciousness-and-agency); P-A2 authorship needs agent not event causation (moderate; agent-causation, luck-objection, free-will); P-A3 Libet data doesn't refute conscious causation (moderate; libet-experiments, free-will); P-A4 first-person verification limit (high; voids/agency-void, agent-causation, free-will); P-A5 compatibilist-symmetry discipline — distinguished by tenet-coherence not unique moral explanatory power (moderate; compatibilist-symmetry-challenge, free-will, moral-implications-of-genuine-agency)
+- **voids-as-evidence (P-V1..P-V3)** — CALIBRATION-CRITICAL, banded conservatively per prompt + taxonomy-of-voids' own thesis: P-V1 convergence is framework-internal coherence NOT independent confirmation (moderate; taxonomy-of-voids, what-voids-reveal, common-cause-null; explicitly the discipline C15 enforces); P-V2 a tenet removing a defeater does not upgrade void evidence (moderate; taxonomy-of-voids, evidential-status-discipline); P-V3 framework-independent voids carry cumulative weight the rest doesn't (LOW — abductive step common-cause-discounted, independent grading not yet met)
+- **Citations verified**: all [[apex/...]]/[[topics/...]]/[[concepts/...]]/[[voids/...]]/[[project/...]] links grep-confirmed against live files before insert (agency-void→voids/, trilemma/overdetermination→topics/, common-cause-null→project/, where-the-substance-commitment-enters→concepts/)
+- **Declined (corpus not yet earned / out of scope this pass)**: consciousness-scope (animal/AI/edge), methodology-and-calibration, applied-verdicts — left as named future domains in the index; methodology-and-calibration support exists (evidential-status-discipline, common-cause-null, coherence-inflation-countermeasures) and is the best next candidate for a follow-on add pass
+- **Discipline**: confidence-banded per evidential-status-discipline; C15 convergence gate honoured (voids positions assert compatible-with / cumulative-within-architecture, not independent confirmation); positions cap 80, now ~10 — ample headroom
+- **Cascade**: none (no retires/major updates); P-A1↔P-A4 and P-V1↔P-V2↔P-V3 internal deps recorded
+- **Committed**: no (orchestrator handles)
 
 ## 2026-06-08T12:34:15+00:00 - refine-draft
 - **Status**: Success
