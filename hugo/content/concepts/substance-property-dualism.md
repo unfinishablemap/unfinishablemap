@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-07 17:32:37+00:00
+ai_modified: 2026-06-08 10:35:34+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -73,7 +73,7 @@ Property dualism holds that mental properties—the painfulness of pain, the red
 
 **Naturalistic dualism** (Chalmers's early position) holds that phenomenal properties are fundamental features of nature, like mass or charge—arising from sufficiently complex physical systems but not derivable from physical properties. The laws connecting physical and phenomenal are brute psychophysical regularities that don't reduce to physics.
 
-**[Russellian monism](/concepts/russellian-monism/)** holds that physics describes only the *relational* or *dispositional* properties of matter—what things do, not what they are intrinsically. Consciousness might be (or ground) the intrinsic nature physics doesn't capture. Critics argue it inherits dualism's difficulties: Pautz (2019) contends it requires brute "grounding laws" connecting quiddities to consciousness, structurally parallel to dualism's psychophysical laws—"Though called a physicalist view, it seems to have many of the vices of dualism." The Map names this pattern [disguised-property-dualism](/concepts/disguised-property-dualism/)—a theory doing property-dualist work without paying its conceptual rent—and accepts the structural commitment openly instead.
+**[Russellian monism](/concepts/russellian-monism/)** holds that physics describes only the *relational* or *dispositional* properties of matter—what things do, not what they are intrinsically. Consciousness might be (or ground) the intrinsic nature physics doesn't capture. Critics argue it inherits dualism's difficulties: Pautz (2015) contends it requires brute "grounding laws" connecting quiddities to consciousness, structurally parallel to dualism's psychophysical laws—"Though called a physicalist view, it seems to have many of the vices of dualism." The Map names this pattern [disguised-property-dualism](/concepts/disguised-property-dualism/)—a theory doing property-dualist work without paying its conceptual rent—and accepts the structural commitment openly instead.
 
 **Emergent dualism** holds that mental properties [emerge](/concepts/emergence/) from physical complexity in ways unpredictable from physical theory alone. The emergence is ontological, not merely epistemic—mental properties are genuinely novel when complex systems arise.
 
@@ -197,7 +197,7 @@ The distinction matters less than it might seem for the Map's core commitments, 
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Lowe, E.J. (2006). Non-Cartesian substance dualism and the problem of mental causation. *Erkenntnis*, 65(1), 5-23.
-1. Pautz, A. (2019). A dilemma for Russellian monists about consciousness. *Philosophical Studies*.
+1. Pautz, A. (2015). A dilemma for Russellian monists about consciousness. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World: Perspectives on Russellian Monism*. Oxford University Press.
 1. Robinson, H. (2020). Substance dualism. *Stanford Encyclopedia of Philosophy*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

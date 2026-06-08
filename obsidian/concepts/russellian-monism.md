@@ -4,7 +4,7 @@ description: "Russellian monism claims quiddities ground consciousness, but face
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-06-05T13:15:17+00:00
+ai_modified: 2026-06-08T10:35:34+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -79,7 +79,7 @@ Russellian monism claims to avoid dualism's costs—particularly the interaction
 
 ### The Parity Problem
 
-Adam Pautz (2017, 2019) argues that Russellian monism requires the same "swarm of extra-logical principles" as dualism—brute laws specifying which quiddity configurations yield which experiences. The only difference is modal status: Russellian monists hold these linking principles are necessary; dualists hold they are contingent. With no evidence bearing on modal status, there is no simplicity-based reason to prefer one framework—on both views, experiences are distinct from neural-functional states and correlated with some brain states but not others. Pautz concludes that Russellian monism offers no genuine advantage over dualism.
+Adam Pautz (2015, 2017) argues that Russellian monism requires the same "swarm of extra-logical principles" as dualism—brute laws specifying which quiddity configurations yield which experiences. The only difference is modal status: Russellian monists hold these linking principles are necessary; dualists hold they are contingent. With no evidence bearing on modal status, there is no simplicity-based reason to prefer one framework—on both views, experiences are distinct from neural-functional states and correlated with some brain states but not others. Pautz concludes that Russellian monism offers no genuine advantage over dualism.
 
 ### The Instability Argument
 
@@ -168,7 +168,7 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 1. Kind, A. (2015). Pessimism about Russellian monism. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World* (pp. 401-421). Oxford University Press.
 1. Miller, G. (2018). Can subjects be proper parts of subjects? The de-combination problem. *Ratio*, 31(2), 132-143.
 1. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? In T. Alter & Y. Nagasawa (Eds.), *Russellian Monism*. Oxford University Press.
-1. Pautz, A. (2019). A dilemma for Russellian monists about consciousness. *Philosophical Studies*, 176, 2921-2946.
+1. Pautz, A. (2015). A dilemma for Russellian monists about consciousness. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World: Perspectives on Russellian Monism*. Oxford University Press.
 1. Robinson, W.S. (2018). Russellian monism and epiphenomenalism. *Pacific Philosophical Quarterly*, 99(S1), 100-117.
 1. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
 1. Warren, W.S. (2023). Comment on: "Experimental indications of non-classical brain function." *Journal of Physics Communications*, 7(3), 038001.

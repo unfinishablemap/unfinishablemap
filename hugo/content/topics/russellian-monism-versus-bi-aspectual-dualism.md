@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-06-05 00:00:00+00:00
+ai_modified: 2026-06-08 10:35:34+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -76,7 +76,7 @@ Russellian monism was motivated partly by avoiding [epiphenomenalism](/concepts/
 
 ### The Parity Problem
 
-Pautz (2017, 2019) argues that Russellian monism requires exactly the same "swarm of extra-logical principles" as dualism — brute laws specifying which quiddity configurations yield which experiences. The only difference is modal status: Russellian monists hold these linking principles are necessary, dualists hold they are contingent. Since no evidence bears on this modal question — the contrast is underdetermined by the evidence — there seems to be no simplicity-based reason to prefer monism, and the parsimony advantage may be illusory. The argument's force depends on whether the necessity-of-linking-principles claim can be motivated on independent grounds; Russellian monists who think it can will resist the parity verdict.
+Pautz (2015, 2017) argues that Russellian monism requires exactly the same "swarm of extra-logical principles" as dualism — brute laws specifying which quiddity configurations yield which experiences. The only difference is modal status: Russellian monists hold these linking principles are necessary, dualists hold they are contingent. Since no evidence bears on this modal question — the contrast is underdetermined by the evidence — there seems to be no simplicity-based reason to prefer monism, and the parsimony advantage may be illusory. The argument's force depends on whether the necessity-of-linking-principles claim can be motivated on independent grounds; Russellian monists who think it can will resist the parity verdict.
 
 ### Fragmentation
 
@@ -174,7 +174,7 @@ This comparison engages all five of the Map's [tenets](/tenets/):
 11. Kind, A. (2015). Pessimism about Russellian monism. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World* (pp. 401-421). Oxford University Press.
 12. Miller, G. (2018). Can subjects be proper parts of subjects? The de-combination problem. *Ratio*, 31(2), 132-143.
 13. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? In T. Alter & Y. Nagasawa (Eds.), *Russellian Monism*. Oxford University Press.
-14. Pautz, A. (2019). A dilemma for Russellian monists about consciousness. *Philosophical Studies*, 176, 2921-2946.
+14. Pautz, A. (2015). A dilemma for Russellian monists about consciousness. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World: Perspectives on Russellian Monism*. Oxford University Press.
 15. Pylkkänen, P. (2007). *Mind, Matter and the Implicate Order*. Springer.
 16. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
 17. Spinoza, B. (1677). *Ethics*. Published posthumously.

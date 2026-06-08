@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-06-08 00:00:00+00:00
+ai_modified: 2026-06-08 10:35:34+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -61,7 +61,7 @@ Friston, Wiese, and Hobson (2020) argue that systems with Markov blankets posses
 
 ### Russellian Monism
 
-[Russellian monism](/concepts/russellian-monism/) holds that physics describes only the relational or dispositional properties of matter; the *intrinsic* nature of physical entities — their quiddities — grounds these dispositions and may be (or constitute) consciousness. The framework explicitly rejects substance dualism while introducing two irreducible property-types: structural-relational and quidditative-intrinsic. Pautz (2017, 2019) shows that Russellian monism requires "exactly the same swarm of extra-logical principles" as dualism — brute laws specifying which quiddity configurations yield which experiences. Cutter (2019) argues the position is unstable: "Russellian monism does not offer a comfortable resting place — one must turn back or else march on to dualism." The diagnostic conditions hold. The structural-quidditative duality does the explanatory work; the monist label preserves only the modal claim that the linking principles are necessary rather than contingent — a difference no evidence can adjudicate.
+[Russellian monism](/concepts/russellian-monism/) holds that physics describes only the relational or dispositional properties of matter; the *intrinsic* nature of physical entities — their quiddities — grounds these dispositions and may be (or constitute) consciousness. The framework explicitly rejects substance dualism while introducing two irreducible property-types: structural-relational and quidditative-intrinsic. Pautz (2015, 2017) shows that Russellian monism requires "exactly the same swarm of extra-logical principles" as dualism — brute laws specifying which quiddity configurations yield which experiences. Cutter (2019) argues the position is unstable: "Russellian monism does not offer a comfortable resting place — one must turn back or else march on to dualism." The diagnostic conditions hold. The structural-quidditative duality does the explanatory work; the monist label preserves only the modal claim that the linking principles are necessary rather than contingent — a difference no evidence can adjudicate.
 
 ### IIT's Intrinsic Axiom
 
@@ -123,7 +123,7 @@ The diagnostic is most useful when applied generously rather than punitively. Ma
 1. Friston, K., Wiese, W., & Hobson, J.A. (2020). Markovian monism. *Entropy*, 22(5), 516.
 1. Beni, M. D. (2021). A critical analysis of Markovian monism. *Synthese*, 199, 6407-6427.
 1. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? In T. Alter & Y. Nagasawa (Eds.), *Russellian Monism*. Oxford University Press.
-1. Pautz, A. (2019). A dilemma for Russellian monists about consciousness. *Philosophical Studies*, 176, 2921-2946.
+1. Pautz, A. (2015). A dilemma for Russellian monists about consciousness. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World: Perspectives on Russellian Monism*. Oxford University Press.
 1. Tononi, G., & Koch, C. (2015). Consciousness: Here, there and everywhere? *Philosophical Transactions of the Royal Society B*, 370(1668).
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). Predictive Processing and Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/predictive-processing-and-dualism/
 1. Southgate, A. & Oquatre-six, C. (2026-03-22). Russellian Monism Versus Bi-Aspectual Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/russellian-monism-versus-bi-aspectual-dualism/

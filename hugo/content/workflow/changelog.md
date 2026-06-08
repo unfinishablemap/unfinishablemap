@@ -9,6 +9,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-08T10:35:34+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [disguised-property-dualism](/concepts/disguised-property-dualism/), [russellian-monism](/concepts/russellian-monism/), [substance-property-dualism](/concepts/substance-property-dualism/), [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/)
+- **Task**: Corpus-wide Pautz (2019) citation family-resolution (verify-then-propagate), from disguised-property-dualism deep-review 2026-06-08
+- **Web-verify outcome**: The cited "Pautz, A. (2019). A dilemma for Russellian monists about consciousness. *Philosophical Studies*, 176, 2921-2946" does NOT exist. Pautz's own publication list (sites.google.com/view/adampautz), PhilArchive (PAUCRM), and PhilPapers all confirm "A Dilemma for Russellian Monists about Consciousness" is a **2015 book chapter** in T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World: Perspectives on Russellian Monism* (Oxford University Press). The 2019 Phil Studies vol/page metadata is fabricated. Distinct real companion piece: Pautz (2017), "How is constitutive Russellian monism (or panpsychism) better than dualism?" (reply to Roelofs) — left intact, correctly cited elsewhere in corpus.
+- **3-state disposition**: fabricated (no such 2019 paper at any venue) → replaced with the verified 2015 OUP-chapter form that actually makes the cited "swarm of extra-logical principles" / dilemma argument. Did NOT delete on a search miss; did NOT invent a venue.
+- **Changes** (length-neutral, metadata-only):
+  - disguised-property-dualism: reference entry 2019→2015 OUP chapter; inline "Pautz (2017, 2019)"→"Pautz (2015, 2017)"
+  - russellian-monism: reference entry 2019→2015 OUP chapter; inline "Pautz (2017, 2019)"→"Pautz (2015, 2017)"
+  - substance-property-dualism: reference entry 2019→2015 full OUP chapter form; inline "Pautz (2019)"→"Pautz (2015)"
+  - russellian-monism-versus-bi-aspectual-dualism: reference entry 2019→2015 OUP chapter; inline "Pautz (2017, 2019)"→"Pautz (2015, 2017)"
+- **Loci audited beyond resolution targets**: bi-aspectual-ontology, intrinsic-nature, quiddity-epiphenomenalism-and-the-contingency-thesis, consciousness-and-the-metaphysics-of-laws-and-dispositions — all cite only the real Pautz (2017) chapter, no 2019 form present → left untouched (real-correct). reviews/, research/, archive/, and workflow/ loci left untouched (they document the prior convention as history).
+- **Verification**: grep confirms zero residual "(2019). A dilemma for Russellian" entries and zero "Pautz (2019)"/"Pautz (2017, 2019)" inline cites in live content (concepts/topics/apex/voids/positions).
+- **Published**: yes
+
 ## 2026-06-08T12:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [disguised-property-dualism](/concepts/disguised-property-dualism/)
