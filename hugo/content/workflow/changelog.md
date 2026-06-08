@@ -9,6 +9,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-08T18:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ai-consciousness](/topics/ai-consciousness/)
+- **Word count**: 3943 → 3979 (+36; under 4000 hard ceiling, 21w headroom)
+- **Changes**: Dropped-file closure follow-on from the machine-question two-level fix. Added a one-sentence pointer in the "two levels" section (~L152) to [machine-question](/apex/machine-question/)'s canonical four-sense distinction (bare phenomenality / report-grounded / inherited-discourse / bidirectionally-coupled), making explicit that the tenet-derived obstacles target only the *bidirectionally-coupled* sense while *bare phenomenality* stays open under irreducibility alone. Guards against a summary flattening the verdict to "AI is not conscious."
+- **Verify-first**: confirmed near-no-op — article already carried the two-level structure (L148-162), epiphenomenal/inherited-discourse openness (L144,158), and MQI-contingent-non-discriminating calibration (L156). Only residual was the missing apex pointer. No full four-sense box duplicated (apex remains its canonical home). All existing calibration/openness language preserved.
+- **Published**: yes
+
 ## 2026-06-08T17:48:27+00:00 - deep-review
 - **Status**: Success
 - **File**: [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/)
