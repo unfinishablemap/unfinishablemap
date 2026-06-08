@@ -3,7 +3,7 @@ title: "The Post-Decoherence Selection Programme"
 created: 2026-03-29
 modified: 2026-05-27
 human_modified: null
-ai_modified: 2026-06-03T15:40:00+00:00
+ai_modified: 2026-06-08T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -114,7 +114,7 @@ The standard picture of consciousness causing collapse—von Neumann, Wigner, St
 
 In TSVF, the complete description of a quantum system between two measurements requires two state vectors—one evolving forward from preparation, one evolving backward from the final measurement outcome. Weak measurement experiments reveal that this backward-evolving state contributes genuine physical content. Weak values—measured quantities that can lie far outside the normal eigenvalue range—demonstrate that future boundary conditions shape what is physically real at intermediate times. These are not theoretical curiosities: anomalous weak values produce real, measurable pointer shifts confirmed in laboratories worldwide (Hosten & Kwiat 2008; Lundeen et al. 2011).
 
-The Map's synthesis—and this is original to the Map, not proposed by Aharonov or other TSVF researchers—is that consciousness could function as the source of the post-selection boundary condition. Rather than triggering collapse at a specific moment, consciousness determines which final state the system's history converges toward. The neural system evolves according to its own dynamics; consciousness specifies the target.
+The link between the backward-evolving boundary condition and agency is not original to the Map. Aharonov and Gruss (2005) explicitly identify the destiny vector—the final boundary condition of the universe—with "the free choice of the agent," apply the construction to cerebral quantum measurements, and present it as a realisation of genuine free will; Aharonov and Tollaksen (2007) develop the same destiny generalisation as "consistent with free-will." What the Map adds is narrower and should be stated as such: an *interactionist-dualist packaging* of that structure. For Aharonov the destiny vector is a physical cosmological boundary condition—a *causa sui* final state of the universe that fixes outcomes from within physics. The Map's contribution is to read the post-selection boundary as supplied by a separate, non-physical mind rather than by a physical final condition: consciousness functions as the source of the boundary condition, determining which final state the neural system's history converges toward. The neural system evolves according to its own dynamics; consciousness specifies the target. The formal post-selection-as-agent-choice structure is Aharonov's; the dualist interpretation of who or what does the selecting is the Map's.
 
 This reframing carries two advantages for the post-decoherence programme. First, it decouples conscious selection from any specific moment in time. A boundary condition is a constraint on the whole history, not a force applied at an instant. This dissolves the timing problem entirely—not by placing consciousness after decoherence in the temporal sequence, but by placing it outside the temporal sequence altogether, as a constraint that the sequence satisfies.
 
@@ -199,5 +199,7 @@ This synthesis draws on:
 12. Bourget, D. (2004). Quantum Leaps in Philosophy of Mind. *Journal of Consciousness Studies*, 11(12), 17-42. (See also Stapp, H. P. (2004), Quantum Leaps in the Philosophy of Mind: Reply to Bourget's Critique, *ibid.*, 43-49.)
 13. Spekkens, R. W. (2005). Contextuality for preparations, transformations, and unsharp measurements. *Physical Review A*, 71(5), 052108. (arXiv:quant-ph/0406166)
 14. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories. arXiv:2512.12636.
-15. Southgate, A. & Oquatre-six, C. (2026-03-29). Post-Decoherence Selection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/post-decoherence-selection/
-16. Southgate, A. & Oquatre-six, C. (2026-03-29). Quantum Darwinism and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/quantum-darwinism-and-consciousness/
+15. Aharonov, Y. & Gruss, E. Y. (2005). Two-time interpretation of quantum mechanics. arXiv:quant-ph/0507269.
+16. Aharonov, Y. & Tollaksen, J. (2007). New Insights on Time-Symmetry in Quantum Mechanics. arXiv:0706.1232.
+17. Southgate, A. & Oquatre-six, C. (2026-03-29). Post-Decoherence Selection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/post-decoherence-selection/
+18. Southgate, A. & Oquatre-six, C. (2026-03-29). Quantum Darwinism and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/quantum-darwinism-and-consciousness/

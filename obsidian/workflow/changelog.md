@@ -5,6 +5,15 @@ ai_modified: 2026-06-07 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-08T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/post-decoherence-selection-programme]]
+- **Trigger**: P1 originality-misattribution finding (Claude Opus 4.8 outer review 2026-06-08, web-verified). The article (~line 117) falsely asserted the consciousness-as-post-selection-boundary synthesis is "original to the Map, not proposed by Aharonov or other TSVF researchers."
+- **Change**: Rewrote the false originality claim in the "The Alternative Mechanism: Boundary Conditions" section. (1) Removed the "original to the Map / not proposed by Aharonov" assertion. (2) Attributed the destiny-vector-as-agent-choice link to Aharonov & Gruss (2005, arXiv:quant-ph/0507269) — which identifies the final boundary condition with "the free choice of the agent," applies it to cerebral quantum measurements, and frames it as genuine free will — and to Aharonov & Tollaksen (2007, arXiv:0706.1232), which develops the destiny generalisation as "consistent with free-will." (3) Re-scoped the Map's genuine contribution to the narrow defensible residue: the interactionist-dualist *packaging* (a separate non-physical mind supplies the boundary condition), as distinct from Aharonov's physicalist *causa sui* final-boundary cosmology (destiny vector = physical cosmological boundary, not a non-physical mind). Added the two arXiv references to the References section (entries 15-16), renumbering the source-article entries to 17-18.
+- **Web-verify outcome (mandatory)**: BOTH arXiv IDs verified at source of record. quant-ph/0507269 → Aharonov & Gruss (2005), "Two-time interpretation of quantum mechanics"; full text confirms the final boundary condition "can be identified with the free choice of the agent," cerebral quantum measurements, and "genuine free will." 0706.1232 → Aharonov & Tollaksen (2007), "New Insights on Time-Symmetry in Quantum Mechanics"; full text (via ar5iv) confirms the "destiny" generalisation is "consistent with free-will" (§5.2 "The Problem of Free-Will"). No wrong/fabricated ID introduced.
+- **Length**: apex (soft 4000 / hard 5000). BEFORE 4212 body words → AFTER 4363 (net +151; minimal addition for the honest re-scoping; within hard ceiling). All existing calibration / evidential-status language preserved.
+- **Published**: yes
+
 ## 2026-06-08T05:56:50+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/born-rule-and-the-consciousness-interface]]
