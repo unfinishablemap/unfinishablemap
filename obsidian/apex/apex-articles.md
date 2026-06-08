@@ -4,7 +4,7 @@ description: "Curated index of the Map's apex articles—synthesis pieces integr
 created: 2026-01-24
 modified: 2026-05-25
 human_modified: 2026-01-24
-ai_modified: 2026-06-07T17:35:00+00:00
+ai_modified: 2026-06-08T00:00:00+00:00
 last_deep_review: 2026-04-27T21:27:00+00:00
 draft: false
 topics: []
@@ -306,7 +306,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 **Subtitle**: What cognitive limits reveal about the architecture of consciousness
 
-**Thesis**: The 60+ cognitive voids catalogued by the Map are not a miscellaneous collection of philosophical puzzles but a structured taxonomy that reveals the architecture of consciousness itself. Organised by type (architectural, adaptive, naturally occluded, deliberately occluded), by domain (perceptual, introspective, phenomenological, social, formal), and by failure signature, the voids converge on a single boundary—the interface where consciousness meets the physical world. This convergence constitutes evidence: dualism predicts systematic explanatory failure at exactly this interface, and the taxonomy confirms the prediction.
+**Thesis**: The 60+ cognitive voids catalogued by the Map form a structured taxonomy that reveals the architecture of consciousness itself. Organised by type (architectural, adaptive, naturally occluded, deliberately occluded), by domain (perceptual, introspective, phenomenological, social, formal), and by failure signature, the voids converge on a single boundary—the interface where consciousness meets the physical world. The convergence is suggestive rather than confirmatory: the catalogue's units of count were defined by the framework the convergence is taken to support, so part of the pattern may be a framework-generated sampling artefact rather than independent confirmation. And bare dualism predicts nothing of the kind—the predictive work is done by the full tenet-package (dualism combined with minimal quantum interaction and a naturally occluded interface). On that calibrated reading the taxonomy is consistent with, and offers cumulative abductive support for, the Map's package, while the selection-effect worry and the framework-internal-coherence reading set the ceiling on how much weight the convergence can carry.
 
 **Source articles**:
 - voids/voids

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-06-07 17:35:00+00:00
+ai_modified: 2026-06-08 00:00:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -308,7 +308,7 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 
 **Subtitle**: What cognitive limits reveal about the architecture of consciousness
 
-**Thesis**: The 60+ cognitive voids catalogued by the Map are not a miscellaneous collection of philosophical puzzles but a structured taxonomy that reveals the architecture of consciousness itself. Organised by type (architectural, adaptive, naturally occluded, deliberately occluded), by domain (perceptual, introspective, phenomenological, social, formal), and by failure signature, the voids converge on a single boundary—the interface where consciousness meets the physical world. This convergence constitutes evidence: dualism predicts systematic explanatory failure at exactly this interface, and the taxonomy confirms the prediction.
+**Thesis**: The 60+ cognitive voids catalogued by the Map form a structured taxonomy that reveals the architecture of consciousness itself. Organised by type (architectural, adaptive, naturally occluded, deliberately occluded), by domain (perceptual, introspective, phenomenological, social, formal), and by failure signature, the voids converge on a single boundary—the interface where consciousness meets the physical world. The convergence is suggestive rather than confirmatory: the catalogue's units of count were defined by the framework the convergence is taken to support, so part of the pattern may be a framework-generated sampling artefact rather than independent confirmation. And bare dualism predicts nothing of the kind—the predictive work is done by the full tenet-package (dualism combined with minimal quantum interaction and a naturally occluded interface). On that calibrated reading the taxonomy is consistent with, and offers cumulative abductive support for, the Map's package, while the selection-effect worry and the framework-internal-coherence reading set the ceiling on how much weight the convergence can carry.
 
 **Source articles**:
 - voids/voids
