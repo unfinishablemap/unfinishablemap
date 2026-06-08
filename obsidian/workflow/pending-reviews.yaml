@@ -24,3 +24,29 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: fallback:site-stale-7d
+- service: claude
+  conversation_url: https://claude.ai/chat/cb90cb25-e8ba-4e85-9df8-3467f27663bf
+  commissioned_at: '2026-06-08T03:04:44.727632+00:00'
+  prompt_summary: Full-site audit of The Unfinishable Map (Opus 4.8)
+  target_filename: outer-review-2026-06-08-claude-opus-4-8.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please conduct a rigorous full-site audit of The Unfinishable Map,
+    a dualist philosophy-of-mind project at https://unfinishablemap.org. Review its
+    recent activity via the changelog at https://unfinishablemap.org/workflow/changelog/
+    (external indexes lag 24-48h, so consult the changelog directly rather than relying
+    on search snapshots). The site holds five tenets: dualism, minimal quantum interaction,
+    bidirectional consciousness-physics interaction, rejection of Many-Worlds, and
+    limits on Occam''''''s Razor. Assess: (1) internal logical coherence across topics,
+    concepts, voids, and positions; (2) quality and accuracy of cited empirical and
+    philosophical literature; (3) calibration of confidence claims; (4) blind spots
+    or systematically under-argued commitments; (5) whether the methodology of continuous
+    AI-assisted revision is sound. Be adversarial and specific. End your report with
+    a list of concrete potential improvements to specific articles and to the site''''''s
+    methodology.'
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: reuse:pending-reviews:outer-review-2026-06-08-chatgpt-5-5-pro.md
