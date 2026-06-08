@@ -9,6 +9,49 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-08T05:56:50+00:00 - refine-draft
+- **Status**: Success
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Trigger**: P1 convergent outer-review finding (2026-06-08, 3/3 reviewers) — Gleason geometric-inevitability sub-angle of the MQI-indistinguishable-from-chance cluster.
+- **Change**: Made the Born-rule-derivation discussion Gleason-aware. Where the article previously treated Gleason-type derivations as merely "question-begging," it now concedes Gleason's force (dim ≥3, non-contextuality alone forces the Tr(ρP) form; the long-run measure is geometric, not a malleable interface) and deploys the selection-among-Born-weighted-branches reply: corridor dualism biases *which* outcome is realised on a single trial while the ensemble average stays |⟨φ|ψ⟩|², leaving Hilbert-space geometry intact (the minimal-intervention reading that survives Gleason); minimum-outside-corridor readings bend the long-run measure and so inherit Gleason's (and Torres Alegre's) geometric cost as a real burden. Reframed the postulate/underivable language throughout as *form-fixed* (Gleason/Torres Alegre/MGM) vs. *existence-underivable*. Tightened the Zhang additivity claim so it no longer overstates Gleason. Wove the consistent story into the MQI tenet section (coordinates with sibling tenets-text P1).
+- **Engagement classification (editor-internal)**: engagement with the Gleason-wielding critic — Mode One; the corridor reply derives the survival from inside Hilbert-space geometry (selection leaves Tr(ρP) invariant), conceding the theorem's force rather than marking a framework boundary. Minimum-outside-corridor cost is noted honestly, not refuted away.
+- **Length**: BEFORE 5107 body words → AFTER 5106 (net −1; net-negative as required). Gleason engagement achieved by sharpening/replacing existing derivation discussion, not by adding a section. Protected content (Compatibility vs. Support, three-tier gradient, framework-boundary honesty paragraphs) preserved intact.
+- **Citations**: No new citations bolted on; engaged the geometric-necessity argument of the existing Gleason (1957) and Torres Alegre (2025) references already in the corpus.
+- **Published**: yes (orchestrator commits)
+
+## 2026-06-08T05:04:04+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-08
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-5-pro, claude-opus-4-8, gemini-2-5-pro; full-site audit, same subject)
+- **Clusters**: 2 convergent, 15 singleton, 2 divergent
+- **Convergent**: (1) MQI mechanism empirically indistinguishable from chance — bias-without-deviation / observational-identity-to-no-mechanism / Gleason geometric-inevitability (3/3); (2) coherence inflation in voids-as-evidence synthesis — index-vs-article inconsistency + circularity discount not applied in synthesis (2/3, chatgpt+claude).
+- **Tasks upgraded**: 3 (P2→P1: all 3 — tenets bias-without-deviation, born-rule/Gleason, voids-circularity index reconcile)
+- **Tasks deduplicated**: 1 (ChatGPT void-independence cross-review task folded into the convergent voids task)
+- **Note**: Cycle's single most damaging finding (false TSVF/Aharonov originality claim) is a Claude singleton, already P1 on verified factual grounds — not convergence-upgraded. Gemini's empirical omission charges (Warren 2023, GABA_A, Gleason) failed verification at per-review processing and did not count toward convergence.
+- **Output**: [outer-review-synthesis-2026-06-08](/reviews/outer-review-synthesis-2026-06-08/)
+
+## 2026-06-08T04:50:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro
+- **File**: [outer-review-2026-06-08-gemini-2-5-pro](/reviews/outer-review-2026-06-08-gemini-2-5-pro/)
+- **Subject**: Full-site audit (subject_type: site; reuse of ChatGPT 06-08 subject — same cycle, real convergence). Third and final leg of the 06-08 full-site triple.
+- **Claims verified**: 3 disputed/overstated + 4 plausible-actionable. ✗ Weakness 8.1 "corpus completely ignores Warren 2023" is FALSE — Warren (2023, J.Phys.Commun. 7(3):038001) is cited (ref 17 quantum-biology-and-neural-consciousness; ref 14 clinical-evidence) and Kerskens 2022 is already flagged "challenged / not independently confirmed / poor on replication." ⚠ Weakness 8.4 Born-rule "postulated not derived" is in-framework argument quality, not omission (corpus discusses it across born-rule-and-the-consciousness-interface etc.). ⚠ 8.3 cryptochrome-scaling: corpus already notes the "structural difference" per the review's own text. ? Section 7.1/7.3 (identity-as-state vs process + observational-closure symmetry), 8.2 (GABA_A trafficking rival) — target articles verified to exist; substance not independently re-derived.
+- **High-value findings**: identity-as-state-vs-process tension in the no-cloning AI argument + the observational-closure symmetry (the strongest STRUCTURAL/internal-consistency finding, novel vs same-date ChatGPT/Claude); residual Warren mechanistic-engagement strengthening (cite-it-don't-just-flag-it); classical GABA_A receptor-trafficking rival to the quantum-microtubule reading of Khan 2024; Gleason-theorem pressure on the Born-rule "interface" framing.
+- **Tasks generated**: 4 (all P2: identity-as-state/process + observational-closure reconciliation w/ direct-refutation remit; Warren specific-classical-mechanism add [calibration-cautioned: NOT an omission fix]; GABA_A trafficking competing-explanation acknowledgement; Born-rule/Gleason in-framework engagement w/ direct-refutation remit). No P1 — the reviewer's most emphatic claim (Warren omission) failed verification, so its empirical weaknesses are strengthenings not corrections; the genuine structural finding is internal-consistency work.
+- **Note**: third leg of the 06-08 full-site triple now processed (ChatGPT + Claude + Gemini all done). /combine-outer-reviews can now fire for 2026-06-08 (≥2 processed, none pending). Low cross-reviewer convergence on Gemini's specifics (ChatGPT→positions/structure, Claude→post-decoherence apex originality, Gemini→quantum-empirical + AI causal-closure) — the synthesis pass will confirm.
+- **Published**: no (uncommitted; orchestrator commits)
+
+## 2026-06-08T04:33:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8
+- **File**: [outer-review-2026-06-08-claude-opus-4-8](/reviews/outer-review-2026-06-08-claude-opus-4-8/)
+- **Subject**: Full-site audit (subject_type: site; reuse of ChatGPT 06-08 subject — same cycle, real convergence)
+- **Claims verified**: 4 (✓ Aharonov originality error real+live at apex/post-decoherence-selection-programme.md:117 — confirmed via Aharonov&Gruss 2005 / Aharonov-Tollaksen 2007 that the destiny vector = "free choice of the agent" applied to cerebral quantum measurements; ✓ "five converging lines" framing live; ✓ taxonomy triumphal phrasing live but in the INDEX apex-articles.md:309, not the hedged article body taxonomy-of-voids.md:93). 2 DISPUTED/STALE (✗ the "Mapping Mind-Space hasn't deployed the 06-06 fixes" instance is stale — Carr is already the 2021 Nova chapter + SPR source-tier flag already live; ✗ Hameroff→Wiest cleanup already complete corpus-wide, no live defect). 1 partially pre-addressed (phenomenology-mechanism-bridge coherence hedge already present).
+- **High-value findings**: false TSVF conceptual-origination claim (the single most-damaging, verified); index-vs-article inconsistency on the voids convergence thesis; "converging lines" presented as independent evidence when they are components of one architecture; born-rule/bias-without-deviation empirical-indistinguishability under-stated in tenet text; residual naturalist co-optation framing (McGinn/Schwitzgebel); circular self-evaluation problem (Claude generates + reviews) unsolved — both methodology recommendation, no single-article task.
+- **Tasks generated**: 7 (P1: 1 — correct the false Aharonov originality claim; P2: 6 — taxonomy index/body reconciliation, converging-lines independence relabel, evidential-independence synthesis gate (project doc), phenomenology-bridge coherence-slide audit (verify-first, likely near-no-op), born-rule indistinguishability in tenet text (consolidate with the ChatGPT-06-08 tenets P1 — same page/cycle), naturalist co-optation hedge audit (grep-verify, skip already-fixed)). Did not re-queue the Hameroff→Wiest cleanup (already complete) or the stale Mapping-Mind-Space deployment claim (fixes already live).
+- **Note**: second leg of the 06-08 full-site triple (ChatGPT done, Gemini pending). Strong convergence with ChatGPT on tenet/born-rule calibration — /combine-outer-reviews will upgrade convergent findings once ≥2 reviews are processed.
+- **Published**: no (uncommitted; orchestrator commits)
+
 ## 2026-06-08T04:00:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.5 Pro

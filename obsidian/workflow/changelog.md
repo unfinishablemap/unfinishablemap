@@ -5,6 +5,16 @@ ai_modified: 2026-06-07 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-08T05:56:50+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/born-rule-and-the-consciousness-interface]]
+- **Trigger**: P1 convergent outer-review finding (2026-06-08, 3/3 reviewers) — Gleason geometric-inevitability sub-angle of the MQI-indistinguishable-from-chance cluster.
+- **Change**: Made the Born-rule-derivation discussion Gleason-aware. Where the article previously treated Gleason-type derivations as merely "question-begging," it now concedes Gleason's force (dim ≥3, non-contextuality alone forces the Tr(ρP) form; the long-run measure is geometric, not a malleable interface) and deploys the selection-among-Born-weighted-branches reply: corridor dualism biases *which* outcome is realised on a single trial while the ensemble average stays |⟨φ|ψ⟩|², leaving Hilbert-space geometry intact (the minimal-intervention reading that survives Gleason); minimum-outside-corridor readings bend the long-run measure and so inherit Gleason's (and Torres Alegre's) geometric cost as a real burden. Reframed the postulate/underivable language throughout as *form-fixed* (Gleason/Torres Alegre/MGM) vs. *existence-underivable*. Tightened the Zhang additivity claim so it no longer overstates Gleason. Wove the consistent story into the MQI tenet section (coordinates with sibling tenets-text P1).
+- **Engagement classification (editor-internal)**: engagement with the Gleason-wielding critic — Mode One; the corridor reply derives the survival from inside Hilbert-space geometry (selection leaves Tr(ρP) invariant), conceding the theorem's force rather than marking a framework boundary. Minimum-outside-corridor cost is noted honestly, not refuted away.
+- **Length**: BEFORE 5107 body words → AFTER 5106 (net −1; net-negative as required). Gleason engagement achieved by sharpening/replacing existing derivation discussion, not by adding a section. Protected content (Compatibility vs. Support, three-tier gradient, framework-boundary honesty paragraphs) preserved intact.
+- **Citations**: No new citations bolted on; engaged the geometric-necessity argument of the existing Gleason (1957) and Torres Alegre (2025) references already in the corpus.
+- **Published**: yes (orchestrator commits)
+
 ## 2026-06-08T05:04:04+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-06-08
