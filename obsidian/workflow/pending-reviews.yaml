@@ -29,9 +29,9 @@
   commissioned_at: '2026-06-08T03:04:44.727632+00:00'
   prompt_summary: Full-site audit of The Unfinishable Map (Opus 4.8)
   target_filename: outer-review-2026-06-08-claude-opus-4-8.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-08T04:33:47.429239+00:00'
   failure_reason: null
   prompt_text: 'Please conduct a rigorous full-site audit of The Unfinishable Map,
     a dualist philosophy-of-mind project at https://unfinishablemap.org. Review its

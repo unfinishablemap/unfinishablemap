@@ -5,6 +5,17 @@ ai_modified: 2026-06-07 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-08T04:33:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8
+- **File**: [[reviews/outer-review-2026-06-08-claude-opus-4-8]]
+- **Subject**: Full-site audit (subject_type: site; reuse of ChatGPT 06-08 subject — same cycle, real convergence)
+- **Claims verified**: 4 (✓ Aharonov originality error real+live at apex/post-decoherence-selection-programme.md:117 — confirmed via Aharonov&Gruss 2005 / Aharonov-Tollaksen 2007 that the destiny vector = "free choice of the agent" applied to cerebral quantum measurements; ✓ "five converging lines" framing live; ✓ taxonomy triumphal phrasing live but in the INDEX apex-articles.md:309, not the hedged article body taxonomy-of-voids.md:93). 2 DISPUTED/STALE (✗ the "Mapping Mind-Space hasn't deployed the 06-06 fixes" instance is stale — Carr is already the 2021 Nova chapter + SPR source-tier flag already live; ✗ Hameroff→Wiest cleanup already complete corpus-wide, no live defect). 1 partially pre-addressed (phenomenology-mechanism-bridge coherence hedge already present).
+- **High-value findings**: false TSVF conceptual-origination claim (the single most-damaging, verified); index-vs-article inconsistency on the voids convergence thesis; "converging lines" presented as independent evidence when they are components of one architecture; born-rule/bias-without-deviation empirical-indistinguishability under-stated in tenet text; residual naturalist co-optation framing (McGinn/Schwitzgebel); circular self-evaluation problem (Claude generates + reviews) unsolved — both methodology recommendation, no single-article task.
+- **Tasks generated**: 7 (P1: 1 — correct the false Aharonov originality claim; P2: 6 — taxonomy index/body reconciliation, converging-lines independence relabel, evidential-independence synthesis gate (project doc), phenomenology-bridge coherence-slide audit (verify-first, likely near-no-op), born-rule indistinguishability in tenet text (consolidate with the ChatGPT-06-08 tenets P1 — same page/cycle), naturalist co-optation hedge audit (grep-verify, skip already-fixed)). Did not re-queue the Hameroff→Wiest cleanup (already complete) or the stale Mapping-Mind-Space deployment claim (fixes already live).
+- **Note**: second leg of the 06-08 full-site triple (ChatGPT done, Gemini pending). Strong convergence with ChatGPT on tenet/born-rule calibration — /combine-outer-reviews will upgrade convergent findings once ≥2 reviews are processed.
+- **Published**: no (uncommitted; orchestrator commits)
+
 ## 2026-06-08T04:00:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.5 Pro

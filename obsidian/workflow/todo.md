@@ -37,6 +37,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Correct the false TSVF originality claim in the post-decoherence-selection apex (apex/post-decoherence-selection-programme.md)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-08 (Claude Opus 4.8). VERIFIED against primary sources: line 117 asserts the consciousness-as-post-selection-boundary synthesis is "original to the Map, not proposed by Aharonov or other TSVF researchers." This is FALSE. Aharonov & Gruss (2005, arXiv:quant-ph/0507269) and Aharonov-Tollaksen (2007, arXiv:0706.1232) explicitly identify the backward-evolving destiny vector with "the free choice of the agent," apply it to "(cerebral) quantum measurements," and call it "a unique realization of the concept of genuine free will" (confirmed via web search 2026-06-08; see review Verification Notes). Fix: remove/rewrite the "not proposed by Aharonov" claim; attribute the destiny-vector-as-agent-choice link to Aharonov & Gruss (2005) and Aharonov-Tollaksen (2007). RE-SCOPE the Map's genuine contribution to the narrow, defensible residue the reviewer concedes: the *interactionist-dualist packaging* (a separate non-physical mind), as distinct from Aharonov's physicalist "causa sui" final-boundary cosmology. Web-verify both arXiv IDs at the publisher of record before citing. Length-neutral; preserve all calibration language.
+- **Review file**: `reviews/outer-review-2026-06-08-claude-opus-4-8.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-08
+
+### P2: Reconcile the taxonomy-of-voids index summary with the hedged article body (apex/apex-articles.md, apex/taxonomy-of-voids.md)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-08 (Claude Opus 4.8). VERIFIED: the un-hedged triumphal phrasing the reviewer flags ("This convergence constitutes evidence: dualism predicts systematic explanatory failure at exactly this interface, and the taxonomy confirms the prediction") is LIVE in the index summary `apex/apex-articles.md:309`, but the actual article body `apex/taxonomy-of-voids.md:93` is already substantially hedged ("qualified rather than triumphant… Bare dualism predicts nothing of the kind; the predictive work is done by the full package"). So this is an index-vs-article INCONSISTENCY, not an undisciplined article. Fix: bring the apex-articles.md index thesis blurb into line with the hedged article body — apply the voids-circularity discount / full-tenet-package qualification in the summary so the index does not overstate what the article carefully qualifies. Do NOT re-hedge the article body (already done). Length-neutral.
+- **Review file**: `reviews/outer-review-2026-06-08-claude-opus-4-8.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-08
+
+### P2: Mark "five converging lines" as components of one architecture, not independent evidence (apex/post-decoherence-selection-programme.md)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-08 (Claude Opus 4.8). VERIFIED live (lines 49, 57): the apex frames "five converging lines of inquiry" (post-decoherence selection, quantum Darwinism, contextuality, weak measurement, stochastic amplification) in language that implies independent evidential triangulation. The reviewer's point: these are five COMPONENTS of one speculative architecture, several of which (Zurek's quantum Darwinism, Kochen-Specker contextuality) are interpretation-neutral physics whose originators lean Everettian/physicalist. Apply the evidential-independence discipline (see [[evidential-status-discipline]]): state plainly that the components are not independent lines of evidence and name the shared upstream architecture (the common-cause null). The article already concedes "constraints rather than mechanisms" in places — extend that honesty to the "converging lines" framing itself. Length-neutral; preserve the research-programme framing.
+- **Review file**: `reviews/outer-review-2026-06-08-claude-opus-4-8.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-08
+
+### P2: Add an evidential-independence gate to the synthesis layer (methodology — project doc)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-08 (Claude Opus 4.8); convergent with the project's existing coherence-inflation countermeasures. Methodology proposal: require any "convergence" / "converging lines" / "multiple independent" claim in synthesis (apex/void) articles to pass an explicit independence check that names the shared upstream architecture (the common-cause null), enforced IN the synthesis articles, not only on the methodology pages. The reviewer's central structural critique is that the methodology pages are better-calibrated than the showcase apex articles they govern. Capture this as a blocking gate in `project/coherence-inflation-countermeasures.md` (or the evidential-status discipline page) and reference it from the apex-evolve / deep-review remit. Project-doc task; no article content change required beyond the gate definition.
+- **Review file**: `reviews/outer-review-2026-06-08-claude-opus-4-8.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-08
+
+### P2: Audit the coherence→"capturing something real" slide in phenomenology-mechanism-bridge (apex/phenomenology-mechanism-bridge.md)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-08 (Claude Opus 4.8). PARTIALLY PRE-ADDRESSED: line 58 already carries "though coherence alone does not constitute evidence, and the discount is sharper at the apex tier than that hedge suggests" — so the article is NOT an undisciplined coherence-inflation slide as the reviewer implies. The residual concern is the "consistent with the Map's framework capturing something real" phrasing in the thesis (lines 50, 58) and its echo in apex-articles.md:424. Audit whether the artifact-of-method discount is applied with enough force given the apex tier, and whether "capturing something real" should be further qualified. This is an editorial judgement call, not a clear defect — VERIFY-FIRST, expect a possible near-no-op. Length-neutral.
+- **Review file**: `reviews/outer-review-2026-06-08-claude-opus-4-8.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-08
+
+### P2: State the bias-without-deviation empirical-indistinguishability plainly in the tenet text (tenets.md — Tenets 2 & 3)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-08 (Claude Opus 4.8). The reviewer's Born-rule / statistical-indistinguishability finding: Tenets 2 (MQI) and 3 (Bidirectional) together define a mechanism that by construction produces no aggregate Born-statistics deviation, making it observationally identical to chance with current and foreseeable instruments. The apex already flags the "bias-without-deviation dilemma" as open. Fix: state explicitly IN the tenet text that the structure renders the position empirically indistinguishable from chance with current/foreseeable instruments, rather than implying a near-term "amplification signature" test exists. CALIBRATION-ANCHOR page — length-neutral, preserve all existing calibration language, coordinate with the existing ChatGPT-06-08 P1 tenets task (same page, same cycle — consolidate into one editor pass to avoid same-file churn). Apply [[direct-refutation-discipline]]: this is honest framework-boundary marking, in natural prose, no mode labels in the article body.
+- **Review file**: `reviews/outer-review-2026-06-08-claude-opus-4-8.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-08
+
+### P2: Tighten naturalist co-optation hedges on McGinn and Schwitzgebel where the inference still appears (voids corpus, mind-space cluster)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-08 (Claude Opus 4.8). PARTIALLY VERIFIED: the `voids/mapping-mind-space.md` Carr fix and SPR source-tier flag the reviewer claims are missing are ACTUALLY ALREADY LIVE (line 77 source-tier flag; line 148 = 2021 Nova chapter, not the "Carr 2015 PhilArchive" the reviewer reports — see review Verification Notes; that specific instance is STALE). The DISTINCT live concern: McGinn (transcendental naturalist, explicit anti-dualist) and Schwitzgebel (crazyism is symmetric across positions and singles out interactionist substance dualism as below even-odds) are recruited toward dualist-leaning conclusions in the voids corpus. The changelog flags both, but verify the inference framing in the LIVE articles still honours the epistemic-to-metaphysical firewall and the symmetric-crazyism flag. GREP-VERIFY each instance against the live file before editing; skip already-fixed instances. Apply the co-optation gate / naturalist-roster discipline.
+- **Review file**: `reviews/outer-review-2026-06-08-claude-opus-4-8.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-08
+
 ### P1: Refine Tenet 3's mechanism wording to match the post-decoherence-selection calibration (tenets.md)
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-06-08 (ChatGPT 5.5 Pro). VERIFIED: `tenets.md` line 88 ("Definition") still says the mechanism is "consciousness selects among superposed neural states, collapsing quantum indeterminacy in the brain" — language that implies the Map's preferred path requires sustained coherent neural superpositions. But the same page (lines 68-78, 102) now extensively foregrounds post-decoherence selection as the strongest endorsed path, precisely to sidestep the coherence-survival requirement. So this is a localized wording drift in one older sentence, NOT a page-wide problem — a targeted edit, not a rewrite. Fix: revise the Definition sentence so it does not commit the Map to pre-decoherence coherence as the mechanism; distinguish pre-decoherence collapse, post-decoherence outcome selection, and the Process-1/context-selection alternative (the page already discusses all three downstream — make the Definition consistent with them). PRESERVE the broad scope of the tenet and all calibration language; this is a calibration-anchor page, keep it length-neutral. Cross-link [[apex/post-decoherence-selection-programme]] which the page already references.
