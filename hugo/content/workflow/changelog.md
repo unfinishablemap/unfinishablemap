@@ -9,6 +9,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-08T04:00:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [outer-review-2026-06-08-chatgpt-5-5-pro](/reviews/outer-review-2026-06-08-chatgpt-5-5-pro/)
+- **Subject**: Full-site audit (subject_type: site; fallback:site-stale-7d)
+- **Claims verified**: 5 verified on disk (Tenet 3 wording drift at tenets.md:88; positions register has only quantum-interface seeded; 34 apex articles on disk vs ~20 guideline; parsimony-case article exists; voids index uses the three-kinds trichotomy), 1 disputed (the alleged voids three-vs-four taxonomy "mismatch" is two orthogonal axes, not a contradiction — concepts.md makes no such claim).
+- **High-value findings**: tenet-3 mechanism wording lags the post-decoherence calibration; positions/calibration machinery unevenly distributed across clusters; apex cap badly out of step with on-disk count; AI cluster mixes bare-dualism row with full-tenet-package machinery; parsimony title can read as a Tenet 5 violation; voids absorbed/folded statuses not reader-visible.
+- **Tasks generated**: 9 (P1: 1 — Tenet 3 wording refine; P2: 8 — seed positions domains, apex cap governance, voids-taxonomy clarification, AI bare-vs-coupled distinction box, parsimony title-note, voids status vocabulary, void-independence cross-review, machine-readable status schema proposal). Declined to auto-queue the large methodology proposals (dependency graph, claim-tier badges, human dashboards, changelog rewrite) and the new-apex creation (apex over cap) — surfaced in the review file for operator decision.
+- **Note**: site-level audit; parallel Claude/Gemini reviews of the same subject still pending — /combine-outer-reviews will run once ≥2 are processed and may upgrade convergent findings.
+- **Published**: no (uncommitted; orchestrator commits)
+
 ## 2026-06-08T00:00:00+00:00 - integrate-orphan
 - **Status**: Success
 - **File**: [marginal-organism-scope-of-value-sensitive-selection](/topics/marginal-organism-scope-of-value-sensitive-selection/)
