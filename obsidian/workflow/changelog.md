@@ -5,6 +5,12 @@ ai_modified: 2026-06-07 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-08T12:00:00+00:00 - refine-draft
+- **Status**: Success (near-no-op — assessment only, no content change)
+- **File**: [[apex/phenomenology-mechanism-bridge]]
+- **Changes**: None. Verify-first calibration audit of the "consistent with the Map's framework capturing something real" phrasing (P2, 2026-06-08 Claude Opus 4.8 outer review, flagged PARTIALLY PRE-ADDRESSED). Verdict: NEAR-NO-OP. The phrasing is already in the consistency register, not the confirmation register — "consistent with X capturing something real" plus the line-58 hedge ("though coherence alone does not constitute evidence, and the discount is sharper at the apex tier than that hedge suggests") foreclose any slide from internal coherence toward probable-truth. The "Chain as Evidence" section already names the Ptolemaic worry, the AI-pruned-corpus artifact-of-method worry, the [[project/common-cause-null]] by link, and cites the evidential-status rule ("a tenet may remove a defeater, but it must not upgrade the evidence level"), grounding framework-independence in three named anchors — satisfying the Countermeasure 15 convergence-independence gate (name the common-cause null AND downgrade to consistency-not-confirmation). The apex-articles.md:424 echo is in the same consistency register and does not overstate relative to the body; left unchanged. No edit applied (over-hedging an already-disciplined apex is the inverse failure). Body 4558 words, unchanged.
+- **Published**: yes
+
 ## 2026-06-08T11:33:12+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[project/coherence-inflation-countermeasures]]
