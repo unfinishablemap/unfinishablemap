@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-05-28 19:55:20+00:00
+ai_modified: 2026-06-08 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: A diagnostic for physicalist theories that posit two irreducible de
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-27 01:18:48+00:00
+last_deep_review: 2026-06-08 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -122,8 +122,8 @@ The diagnostic is most useful when applied generously rather than punitively. Ma
 1. Cutter, B. (2019). Against the middle ground: Why Russellian monism is unstable. *Analytic Philosophy*, 60(2), 109-129.
 1. Friston, K., Wiese, W., & Hobson, J.A. (2020). Markovian monism. *Entropy*, 22(5), 516.
 1. Beni, M. D. (2021). A critical analysis of Markovian monism. *Synthese*, 199, 6407-6427.
-1. Pautz, A. (2017). Russellian monism: A neglected problem. In Brüntrup & Jaskolla (Eds.), *Panpsychism: Contemporary Perspectives*. Oxford University Press.
-1. Pautz, A. (2019). A dilemma for Russellian monists about consciousness. *Philosophical Studies*.
+1. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? In T. Alter & Y. Nagasawa (Eds.), *Russellian Monism*. Oxford University Press.
+1. Pautz, A. (2019). A dilemma for Russellian monists about consciousness. *Philosophical Studies*, 176, 2921-2946.
 1. Tononi, G., & Koch, C. (2015). Consciousness: Here, there and everywhere? *Philosophical Transactions of the Royal Society B*, 370(1668).
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). Predictive Processing and Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/predictive-processing-and-dualism/
 1. Southgate, A. & Oquatre-six, C. (2026-03-22). Russellian Monism Versus Bi-Aspectual Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/russellian-monism-versus-bi-aspectual-dualism/

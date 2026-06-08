@@ -5,6 +5,18 @@ ai_modified: 2026-06-07 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-08T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/disguised-property-dualism]]
+- **Word count**: 2314 → 2314 (no change; citation-metadata fix only, length-neutral at 93% of soft threshold)
+- **Critical issues addressed**: 1 (divergent/unconfirmable Pautz 2017 References entry — corrected to corpus-canonical "How is constitutive Russellian monism... In Alter & Nagasawa (Eds.), *Russellian Monism*, OUP"; Pautz 2019 page range aligned to corpus standard)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 prose (converged 3rd review; diff-since-last-review was a single Kiefer→Beni citation fix, web-verified correct)
+- **Citation web-verify ledger**: Cutter 2019 real-correct; Friston/Wiese/Hobson 2020 real-correct; Beni 2021 real-correct (Kiefer→Beni fix confirmed right at Springer); Pautz 2017 real-wrong-metadata→corrected via family-resolution; Pautz 2019 page range added (corpus-wide year/venue verification deferred to a follow-up task — well-attested form is a 2015 Alter/Nagasawa chapter, 2019 PhilStudies version unconfirmed); Tononi & Koch 2015 real-correct. Empirical-currency sweep: N/A (no superlatives).
+- **Reasoning modes (editor-internal)**: Friston=Mode Two; Russellian=Mode One; IIT=Mode Three; self-application critic=Mode Three. No label leakage. No possibility/probability slippage.
+- **Follow-up queued**: P2 corpus-wide Pautz (2019) citation family-resolution.
+- **Output**: [[reviews/deep-review-2026-06-08-disguised-property-dualism]]
+
 ## 2026-06-08T11:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/quantum-biology-and-neural-consciousness]]

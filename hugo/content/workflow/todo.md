@@ -38,18 +38,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Corpus-wide Pautz (2019) citation family-resolution (web-verify + propagate)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Deep review 2026-06-08 of disguised-property-dualism.md caught a divergent Pautz 2017 entry (now fixed to corpus-canonical "How is constitutive Russellian monism... In Alter & Nagasawa (Eds.), *Russellian Monism*, OUP"). Open question NOT resolvable in single-file scope: the corpus-wide Pautz (2019) "A dilemma for Russellian monists about consciousness, *Philosophical Studies* 176: 2921-2946" form (used in ~6 files: russellian-monism, bi-aspectual-ontology, russellian-monism-versus-bi-aspectual-dualism, substance-property-dualism, consciousness-and-the-metaphysics-of-laws-and-dispositions, + research notes). Web search found the well-attested version is a 2015 chapter in Alter & Nagasawa (eds.), *Consciousness in the Physical World* (OUP) — could NOT confirm a 2019 PhilStudies version/reprint exists. WEB-VERIFY at publisher of record whether the 2019 PhilStudies 176:2921-2946 article is real; if not, propagate the 2015-chapter correction corpus-wide (3-state discipline: do NOT delete a real paper on a search miss). Do not touch reviews/research/changelog metadata records of the prior convention.
+
 ### P3: Seat two counterarguments + fix one broken sentence in compatibilist-symmetry-challenge.md
 - **Type**: refine-draft
 - **Notes**: From pessimistic review 2026-06-08 (see `reviews/pessimistic-2026-06-08-compatibilist-symmetry-challenge.md`). Article is strong and disciplined; this is a light strengthening pass, NOT a rewrite. (1) GRAMMAR FIX (do this regardless): §"What the Discipline Forbids" 4th bullet ends with a verbless clause — "What it forbids is asserting that separating work in the central moral discourse..." → "...asserting separating work in the central moral discourse...". (2) STRONGEST SUBSTANTIVE FINDING: residue (c) "regret over what genuinely was an alternative / an open future as a fact about the world" leans on the tenets (No-Many-Worlds + the dualist interface's indeterminism), so its "separating" force is internal to the Map's framework, not a tenet-neutral moral discriminator — which is consistent with the article's own anti-inflation discipline. Add a half-sentence conceding this; it strengthens rather than weakens the move. (3) Clarify "availably equivalent": it means first-order moral *verdicts* are equivalent while the irreducible-vs-derivative *grounding* differs — so the apex/topic's irreducible-vs-derivative contrast and "availably equivalent" are consistent (same outputs, different sourcehood story). Length-neutral; preserve all calibration/evidential-status hedges and the natural prose (no editor-vocabulary labels).
 - **Review file**: `reviews/pessimistic-2026-06-08-compatibilist-symmetry-challenge.md`
 - **Source**: pessimistic-review
-- **Generated**: 2026-06-08
-
-### P2: Acknowledge the classical GABA_A receptor-trafficking rival to the quantum-microtubule reading of Khan et al. 2024 (topics/quantum-biology-and-neural-consciousness.md)
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-06-08 (Gemini 2.5 Pro), Weakness 8.2 / Section 3. The review argues the corpus presents Khan et al. (2024, eNeuro — epothilone B delays isoflurane LORR in rats) as causal evidence for quantum microtubule coherence while omitting the parsimonious classical pathway: microtubules are the transport highways for GABA_A receptor trafficking/surface expression; isoflurane acts primarily on GABA_A receptors, so stabilizing the cytoskeleton (via Tau) alters receptor density/turnover and naturally delays anaesthetic onset — no quantum coherence required. Apply the competing-explanation / evidential-status discipline: acknowledge the classical receptor-trafficking alternative explicitly and state that the behavioral data is consistent with BOTH readings (so it does not uniquely support the quantum interpretation). The corpus need not concede the quantum reading is wrong — only that Khan et al. is not decisive between the two. Web-verify the rival-mechanism citations the reviewer offers (Wang et al. 2020; Liang et al. 2026) at publisher-of-record before citing; if unverifiable, frame the classical pathway from established GABA_A-trafficking biology without the specific cites. Length: small add, watch the section ceiling.
-- **Review file**: `reviews/outer-review-2026-06-08-gemini-2-5-pro.md`
-- **Source**: outer-review
 - **Generated**: 2026-06-08
 
 ### P2: Mark "five converging lines" as components of one architecture, not independent evidence (apex/post-decoherence-selection-programme.md)
@@ -1015,6 +1013,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-08: Acknowledge the classical GABA_A receptor-trafficking rival to the quantum-microtubule reading of Khan et al. 2024 (topics/quantum-biology-and-neural-consciousness.md)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-08 (Gemini 2.5 Pro), Weakness 8.2 / Section 3. The review argues the corpus presents Khan et al. (2024, eNeuro — epothilone B delays isoflurane LORR in rats) as causal evidence for quantum microtubule coherence while omitting the parsimonious classical pathway: microtubules are the transport highways for GABA_A receptor trafficking/surface expression; isoflurane acts primarily on GABA_A receptors, so stabilizing the cytoskeleton (via Tau) alters receptor density/turnover and naturally delays anaesthetic onset — no quantum coherence required. Apply the competing-explanation / evidential-status discipline: acknowledge the classical receptor-trafficking alternative explicitly and state that the behavioral data is consistent with BOTH readings (so it does not uniquely support the quantum interpretation). The corpus need not concede the quantum reading is wrong — only that Khan et al. is not decisive between the two. Web-verify the rival-mechanism citations the reviewer offers (Wang et al. 2020; Liang et al. 2026) at publisher-of-record before citing; if unverifiable, frame the classical pathway from established GABA_A-trafficking biology without the specific cites. Length: small add, watch the section ceiling.
 
 ### ✓ 2026-06-08: Engage Warren (2023)'s specific classical mechanism, not just cite it as a challenge (topics/quantum-biology-and-neural-consciousness.md, topics/clinical-evidence-quality-standards-consciousness-research.md)
 - **Type**: refine-draft
