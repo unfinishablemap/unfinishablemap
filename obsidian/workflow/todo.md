@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Fix attribution + correlation→causation slide in concepts/implicit-memory.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-06-08 (see [[reviews/pessimistic-2026-06-08-implicit-memory]]) found two issues. (1) VERIFY-FIRST citation: L47 attributes "non-reflective qualia" to Tulving as a direct quote ("what he called"), but a web check of Tulving 1985 / the anoetic-noetic-autonoetic literature did not corroborate the phrase as his wording. Apply 3-state discipline (faithful / paraphrase-mislabeled-as-quote / fabricated) against Tulving 1985 ref 1; if not his phrase, drop the quote marks + "what he called" and rephrase, or attribute to the actual coiner. Do NOT swap in a different attribution without verification. (2) Correlation→causation / epistemic→metaphysical slide recurs at L101, L188, L196: "phenomenology tracks performance" is used to assert "the phenomenal dimension is doing causal work", but tracking is symmetric with a common-cause reading (prefrontal reinvestment causes both the felt state and the neural disruption). One sentence in §§ Choking / Bidirectional Interaction acknowledging the common-cause reply and stating what would discriminate phenomenal-causation from co-occurrence fixes all three instances; or downgrade "doing causal work" → "not plausibly idle". Lean on the existing negative-evidence point (L103, interference is harder to confabulate) rather than the symmetric tracking point. Also at L88 attribute the dual-task-improves-experts claim to the broader literature, not implicitly to B&C 2001 (which found dual-task training left choking unchanged). Single targeted pass; minimal length impact. Preserve the strong "What Would Challenge This View?" section.
+- **Source**: pessimistic-review
+- **Generated**: 2026-06-08
+
 ### ✓ DECLINED-REDUNDANT 2026-06-08: Write concept page on Evidential-Status Discipline
 - **Type**: expand-topic
 - **Status**: declined-redundant — the page ALREADY EXISTS at `obsidian/project/evidential-status-discipline.md` (and hugo/content/project/). The optimistic-review fork hit the create-vs-existing confusion ([[stale-expand-tasks-may-be-redundant]]): it saw the `[[evidential-status-discipline]]` wikilink slug cited widely and assumed it was homeless, but the bare slug resolves fine to the existing project/ page. Creating a concepts/ version would DUPLICATE it. The ONLY genuine issue (surfaced by check-links 2026-06-08) was 2 WRONG-PATH refs `[[concepts/evidential-status-discipline]]` in positions/agency-and-will.md + positions/voids-as-evidence.md — REPOINTED this cycle to `[[project/evidential-status-discipline]]`. No page to create.

@@ -5,6 +5,13 @@ ai_modified: 2026-06-08 14:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-08T19:17:01+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/implicit-memory]] ("Implicit Memory and Anoetic Consciousness"; oldest unreviewed AI content, last_deep_review 2026-05-19, no prior dedicated pessimistic review)
+- **Output**: [[reviews/pessimistic-2026-06-08-implicit-memory]]
+- **Findings**: 2 medium issues. (1) Likely-misattributed quote: "non-reflective qualia" presented as Tulving's wording (L47) but not corroborated by web check of Tulving 1985 — flagged VERIFY-FIRST. (2) Correlation→causation / epistemic→metaphysical slide: "phenomenology tracks performance" used to assert phenomenal causal efficacy (L101/188/196) without closing the common-cause reply; recurs 3×, one sentence fixes all. Dual-task-improves-experts claim (L88) confirmed by broader literature but mis-anchored to B&C 2001. No forbidden editor labels; altered-state symmetry gate does not fire; all spot-checked wikilinks resolve. Strong "What Would Challenge This View?" section noted to preserve.
+- **Task added**: P2 refine-draft (top of Active Tasks)
+
 ## 2026-06-08T18:49:39+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/voids]]
