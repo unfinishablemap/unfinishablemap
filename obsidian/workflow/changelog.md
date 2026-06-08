@@ -5,6 +5,16 @@ ai_modified: 2026-06-08 14:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-08T14:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/psychophysical-laws-bridging-mind-and-matter]]
+- **Source**: Topic-concept anchoring audit 2026-06-08. ANCHORING-CALIBRATION fix vs anchor [[mental-causation-and-downward-causation]]. MILD overage (strong-assertion density 0.59/kw vs 0.5 allowance; 0 underdetermination markers vs anchor's 1). LIGHT surgical correction, length-neutral.
+- **Changes**:
+  1. Softened one strong-assertion verb (§"The Map's divergence"): "The zombie argument demonstrates that functional organization doesn't logically entail experience" → "The zombie argument is taken to show that...", with "If zombies are conceivable" → "If zombies are *genuinely* conceivable". The zombie conclusion is contested (depends on conceivability→possibility), so "demonstrates" outran the evidence. Left the second marker ("no protective mechanism proves viable") untouched — it sits inside a negated falsification conditional, legitimate.
+  2. Added one underdetermination marker (§"Stapp's Attention", supporting-evidence paragraph — the article's main empirical inference point): "these findings are compatible with physicalist neuroplasticity accounts" → "these findings are compatible with both interpretations: the evidence does not adjudicate between Stapp's selection mechanism and a physicalist neuroplasticity account". Recognised by the scanner's UNDERDETERMINATION_PATTERNS ("does not adjudicate").
+- **Result**: evaluate_anchoring returns 0 flags (was 3). Strong-assertion density 0.59→0.294/kw; underdetermination markers 0→3; words 3388→3407 (length-neutral). Hedge density unchanged (~7.0). No calibration/citation language altered; original argument and conclusions preserved.
+- **Published**: yes
+
 ## 2026-06-08T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/compatibilist-symmetry-challenge]]

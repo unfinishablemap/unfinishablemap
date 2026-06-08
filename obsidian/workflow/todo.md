@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt mental-causation-and-downward-causation calibration in psychophysical-laws-bridging-mind-and-matter
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/psychophysical-laws-bridging-mind-and-matter.md
-- **Notes**: From topic-concept anchoring audit 2026-06-08. The topic article over-claims relative to its anchor concept [[mental-causation-and-downward-causation]]; failed checks: strong_assertions, underdetermination_markers.
-  - topic uses 2 strong-assertion verbs (0.59/kw) where anchor uses none; absolute allowance is 0.5/kw
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-08
-
 ### P2: Adopt mental-effort calibration in psychophysical-laws-bridging-mind-and-matter
 - **Type**: refine-draft
 - **Status**: pending
@@ -58,7 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-08
-
 
 ### P3: Cross-link topics/ai-consciousness.md to the canonical four-sense AI-consciousness distinction
 - **Type**: refine-draft
@@ -988,6 +976,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-08: Adopt mental-causation-and-downward-causation calibration in psychophysical-laws-bridging-mind-and-matter
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-08. The topic article over-claims relative to its anchor concept [[mental-causation-and-downward-causation]]; failed checks: strong_assertions, underdetermination_markers.
 
 ### ✓ 2026-06-08: Seat two counterarguments + fix one broken sentence in compatibilist-symmetry-challenge.md
 - **Type**: refine-draft

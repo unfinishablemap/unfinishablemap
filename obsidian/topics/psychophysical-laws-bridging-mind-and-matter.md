@@ -4,7 +4,7 @@ description: "If consciousness is distinct from physics, fundamental laws must c
 created: 2026-01-26
 modified: 2026-02-07
 human_modified:
-ai_modified: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-06-08T14:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -66,7 +66,7 @@ In "Facing Up to the Problem of Consciousness" (1995), Chalmers proposes three p
 
 **Organizational invariance.** Any two systems with identical fine-grained functional organization have qualitatively identical experiences. Chalmers defends this through the "fading qualia" thought experiment: gradually replacing neurons with functionally identical artificial components should not cause experience to fade, since the system couldn't detect such fading (its functional states remain unchanged). As Chalmers argues, consciousness systematically deceiving itself about its own existence seems deeply implausible.
 
-**The Map's divergence**: The Map rejects strong [[concepts/functionalism]]—the view that mental states are exhausted by their functional roles. The zombie argument demonstrates that functional organization doesn't logically entail experience. If zombies are conceivable, something beyond functional structure determines whether a system is conscious. [[haecceity|Haecceity]]—the primitive "thisness" of a particular conscious subject—may matter beyond abstract patterns. Two systems could share all functional properties yet differ in *which* consciousness (if any) accompanies them. This isn't a minor disagreement: if organizational invariance holds, psychophysical laws can be expressed purely functionally. If the Map is right, they must reference the particular subject.
+**The Map's divergence**: The Map rejects strong [[concepts/functionalism]]—the view that mental states are exhausted by their functional roles. The zombie argument is taken to show that functional organization doesn't logically entail experience. If zombies are genuinely conceivable, something beyond functional structure determines whether a system is conscious. [[haecceity|Haecceity]]—the primitive "thisness" of a particular conscious subject—may matter beyond abstract patterns. Two systems could share all functional properties yet differ in *which* consciousness (if any) accompanies them. This isn't a minor disagreement: if organizational invariance holds, psychophysical laws can be expressed purely functionally. If the Map is right, they must reference the particular subject.
 
 **Double-aspect information.** Chalmers' most speculative principle: information—or at least some information—has two aspects, physical and phenomenal. He explicitly treats the scope as open: does *all* information have a phenomenal aspect, or only some? If all, even thermostats might have simple experiences—approaching panpsychism through information theory. This anticipates [[integrated-information-theory|Integrated Information Theory]], though the Map is skeptical of IIT's specific measures.
 
@@ -138,7 +138,7 @@ The quantum Zeno effect provides amplification: rapid repeated observation preve
 
 **Causal pathway**: Consciousness (phenomenal attention) → Process 1 actions → quantum Zeno effect → neural pattern stability → behaviour.
 
-**Supporting evidence**: Jeffrey Schwartz's OCD research showed that patients using mindful attention to resist compulsions produced measurable changes in caudate nucleus activation through directed mental effort. Willed attention produces different frontal-parietal activation patterns than reflexive attention; meditation documents neural connectivity changes from sustained attention training. However, these findings are compatible with physicalist neuroplasticity accounts—no prediction from the Zeno model has yet been identified that *only* Stapp's mechanism explains.
+**Supporting evidence**: Jeffrey Schwartz's OCD research showed that patients using mindful attention to resist compulsions produced measurable changes in caudate nucleus activation through directed mental effort. Willed attention produces different frontal-parietal activation patterns than reflexive attention; meditation documents neural connectivity changes from sustained attention training. However, these findings are compatible with both interpretations: the evidence does not adjudicate between Stapp's selection mechanism and a physicalist neuroplasticity account, and no prediction from the Zeno model has yet been identified that *only* Stapp's mechanism explains.
 
 **The decoherence objection**: Georgiev's (2015) Monte Carlo simulations showed the quantum Zeno effect breaks down for timescales exceeding brain decoherence time. If neural quantum states decohere in femtoseconds while attention operates at millisecond timescales, the Zeno mechanism cannot bridge the gap.
 
