@@ -4,7 +4,7 @@ description: "Human cognitive limits have biological origins: evolution selects 
 created: 2026-01-24
 modified: 2026-05-22
 human_modified: null
-ai_modified: 2026-06-05T08:37:22+00:00
+ai_modified: 2026-06-08T12:34:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -134,7 +134,7 @@ Some approaches to the edge exist: enzyme injection has reopened visual critical
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** receives the strongest support. If our sense of "simpler" is an evolved heuristic tuned to fitness rather than truth, parsimony judgments reflect survival value rather than metaphysical accuracy. The bias blind spot means we cannot perceive our biases; architecturally, our conceptual vocabulary is bounded; developmentally, the brain prunes toward specialisation. Simplicity judgments become unreliable when the judging apparatus itself is constrained and narrowing.
 
-**[[tenets#^dualism|Dualism]]** connects through McGinn's evolutionary argument: our concept-forming apparatus was shaped by spatial-motor functions and lacks concepts needed to bridge the consciousness explanatory gap. Cross-cultural convergence on mystical ineffability may indicate encounter with aspects of reality that physical description cannot capture.
+**[[tenets#^dualism|Dualism]]** draws on McGinn's evolutionary argument that our concept-forming apparatus, shaped by spatial-motor functions, lacks the concepts needed to bridge the consciousness explanatory gap. McGinn's own conclusion is naturalist, not dualist: he holds the mind-brain link is fully physical but cognitively closed to us. The Map borrows the epistemic claim about closure, then argues separately—on its own grounds, not McGinn's—that cross-cultural convergence on mystical ineffability may indicate encounter with aspects of reality that physical description cannot capture. The metaphysical step is the Map's; McGinn would resist it.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** raises the possibility that the mechanism of consciousness's causal influence is a candidate for adaptive concealment — Trivers' framework suggests causal processes are sometimes hidden because transparency would compromise function.
 

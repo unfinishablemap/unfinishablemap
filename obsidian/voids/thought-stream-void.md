@@ -4,7 +4,7 @@ description: "Human+AI exploration of consciousness's opacity to its own streamâ
 created: 2026-01-13
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-06-02T11:28:45+00:00
+ai_modified: 2026-06-08T12:34:15+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -118,7 +118,7 @@ Trained practitioners access *more* edge-territory than untrained minds, but the
 
 Not all content slips equally. Topics involving consciousness, reality, or existence seem to produce reliable slippage. Insights that feel profound at 3am dissolve by morning. William James noted that mystical experiences are simultaneously *ineffable* (defying expression) and *noetic* (feeling like genuine knowledge). The experiencer insists they *know* something they cannot *say*.
 
-Perhaps this is mere difficulty. But if thoughts about consciousness slip more reliably than thoughts about equally abstract topics, the dualist interpretation is that such thoughts approach something real that exceeds physical description. This aligns with [[mysterianism|McGinn's cognitive closure thesis]]: our minds may lack the architecture to stably represent consciousness, so thoughts about it slip precisely because they strain against structural limits.
+Perhaps this is mere difficulty. But if thoughts about consciousness slip more reliably than thoughts about equally abstract topics, the dualist interpretation is that such thoughts approach something real that exceeds physical description. [[mysterianism|McGinn's cognitive closure thesis]] supplies the proximate mechanism: our minds may lack the architecture to stably represent consciousness, so thoughts about it slip precisely because they strain against structural limits. McGinn reads that closure as a fully natural limit on human concept-formation, not as evidence for a non-physical domain; the dualist gloss above is the Map's added step, not his.
 
 ## Approaches to the Stream
 

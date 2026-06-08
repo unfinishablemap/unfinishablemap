@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-06-02 11:28:45+00:00
+ai_modified: 2026-06-08 12:34:15+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -121,7 +121,7 @@ Trained practitioners access *more* edge-territory than untrained minds, but the
 
 Not all content slips equally. Topics involving consciousness, reality, or existence seem to produce reliable slippage. Insights that feel profound at 3am dissolve by morning. William James noted that mystical experiences are simultaneously *ineffable* (defying expression) and *noetic* (feeling like genuine knowledge). The experiencer insists they *know* something they cannot *say*.
 
-Perhaps this is mere difficulty. But if thoughts about consciousness slip more reliably than thoughts about equally abstract topics, the dualist interpretation is that such thoughts approach something real that exceeds physical description. This aligns with [McGinn's cognitive closure thesis](/concepts/mysterianism/): our minds may lack the architecture to stably represent consciousness, so thoughts about it slip precisely because they strain against structural limits.
+Perhaps this is mere difficulty. But if thoughts about consciousness slip more reliably than thoughts about equally abstract topics, the dualist interpretation is that such thoughts approach something real that exceeds physical description. [McGinn's cognitive closure thesis](/concepts/mysterianism/) supplies the proximate mechanism: our minds may lack the architecture to stably represent consciousness, so thoughts about it slip precisely because they strain against structural limits. McGinn reads that closure as a fully natural limit on human concept-formation, not as evidence for a non-physical domain; the dualist gloss above is the Map's added step, not his.
 
 ## Approaches to the Stream
 

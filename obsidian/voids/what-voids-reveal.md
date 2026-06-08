@@ -4,7 +4,7 @@ description: "Cognitive limits are doubly informative: their shape reveals archi
 created: 2026-01-16
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-06-04T13:00:00+00:00
+ai_modified: 2026-06-08T12:34:15+00:00
 last_deep_review: 2026-06-04T13:00:00+00:00
 draft: false
 topics:
@@ -61,7 +61,7 @@ The Map's [[voids|voids project]] turns the mapping of unthinkable territory int
 
 ## Scope Implies Limits
 
-Chomsky's distinction between *problems* (solvable in principle) and *mysteries* (not solvable in principle) makes the methodological principle explicit: the endowment that yields cognitive scope also establishes its limits. McGinn formalises this as *[[mysterianism|cognitive closure]]*—a mind is closed to a property when its concept-forming procedures cannot extend to grasp it. Closure is principled, not practical. McGinn argues humans are likely closed to whatever bridges neural activity and conscious experience: we access consciousness through introspection and brain through perception, and neither reveals the connection. The [[hard-problem-of-consciousness|hard problem]] may be unsolvable not because the solution is supernatural but because it lies outside our cognitive reach.
+Chomsky's distinction between *problems* (solvable in principle) and *mysteries* (not solvable in principle) makes the methodological principle explicit: the endowment that yields cognitive scope also establishes its limits. McGinn formalises this as *[[mysterianism|cognitive closure]]*—a mind is closed to a property when its concept-forming procedures cannot extend to grasp it. Closure is principled, not practical. McGinn argues humans are likely closed to whatever bridges neural activity and conscious experience: we access consciousness through introspection and brain through perception, and neither reveals the connection. The [[hard-problem-of-consciousness|hard problem]] may be unsolvable not because the solution is supernatural but because it lies outside our cognitive reach. McGinn himself is a naturalist who rejects dualism; his closure thesis is epistemic, and the Map borrows it for the limits-reveal-architecture point above, not as support for its own metaphysical conclusion.
 
 The *particular* things we cannot think illuminate *what kind* of thinkers we are. The [[epistemology-of-limit-knowledge|epistemology of limit-knowledge]] calls this *structural inference*—architectural knowledge produced through transcendental reasoning.
 

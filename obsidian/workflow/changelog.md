@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-07 12:00:00+00:00
+ai_modified: 2026-06-08 12:34:15+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-08T12:34:15+00:00 - refine-draft
+- **Status**: Success
+- **Task**: VOIDS-CORPUS co-optation-discipline audit (Claude Opus 4.8 outer review 2026-06-08) — McGinn / Schwitzgebel naturalist-roster firewall
+- **Files**: [[voids/biological-cognitive-closure]], [[voids/what-voids-reveal]], [[voids/thought-stream-void]]
+- **Scope**: grepped all live content (voids/, topics/, concepts/, apex/, positions/) for "McGinn" and "Schwitzgebel"; per-instance read of every voids locus
+- **Stale-skip honoured**: mapping-mind-space.md Carr-fix + SPR source-tier flag already live — not touched
+- **McGinn fixes (3)** — epistemic-to-metaphysical firewall installed where his cognitive-closure thesis was recruited toward the dualist/voids-as-evidence conclusion. McGinn is a transcendental naturalist who rejects dualism; closure is an epistemic limit on concept-formation, not evidence of a non-physical domain:
+  - biological-cognitive-closure.md L137: "Dualism connects through McGinn's evolutionary argument… may indicate encounter with aspects of reality physical description cannot capture" → flagged the metaphysical step as the Map's own, noted McGinn's naturalist conclusion, separated borrowed-epistemic-claim from added-metaphysical-claim. Length-neutral.
+  - what-voids-reveal.md L64: added clause naming McGinn as a naturalist who rejects dualism; closure borrowed for limits-reveal-architecture point, not as metaphysical support (hub article; line 60 roster left intact since the observation attributed there is the narrow true one).
+  - thought-stream-void.md L121: "the dualist interpretation… aligns with McGinn's cognitive closure thesis" → downgraded "aligns" to "supplies the proximate mechanism"; dualist gloss marked as the Map's added step, not McGinn's.
+- **McGinn already-honoured (skipped, no edit)**: mapping-mind-space.md L65 (explicit "naturalistic but not constructive… explicitly rejects dualism… not as endorsement of its dualist destination"); recognition-void.md L77 ("contested minority position… functionalist tradition rejecting it"); closure-types-void.md / meta-epistemology-of-limits.md (present Vlerick-Boudry, Dennett, Kriegel critiques); concepts/mysterianism.md canonical source (transcendental naturalism L74, cognitive≠causal closure L78, "Neutral on ontology" L148, "Officially neutral… The Map goes further" L180). Remaining ~25 voids loci frame closure as epistemic/architectural concept-formation limit — firewall intact, no edit.
+- **Schwitzgebel: all instances already-honoured (0 edits)**: mapping-mind-space.md L107 ("His 'crazyism' is symmetrical, not pro-dualist… rates his own credence in dualism not much above even odds… not to enlist him toward dualism — he would resist that"); mutation-void.md L57 ("That is an *epistemic* thesis; the Map extends it into an *ontological* one… Schwitzgebel himself declines this stronger reading (p. 252), so the mutation gloss is the Map's"); plenitude/voids-between-minds/imagery/observation-and-measurement/vagueness-void all cite the introspective-unreliability / crazyism theses on their own epistemic terms with no dualist recruitment.
+- **Discipline**: length-neutral, calibration preserved, natural prose, no mode labels in body
+- **Published**: yes (drafts remain draft:false as already published; edits in place)
 
 ## 2026-06-08T12:06:52+00:00 - deep-review
 - **Status**: Success

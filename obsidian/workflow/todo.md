@@ -58,13 +58,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-06-08
 
-### P2: Tighten naturalist co-optation hedges on McGinn and Schwitzgebel where the inference still appears (voids corpus, mind-space cluster)
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-06-08 (Claude Opus 4.8). PARTIALLY VERIFIED: the `voids/mapping-mind-space.md` Carr fix and SPR source-tier flag the reviewer claims are missing are ACTUALLY ALREADY LIVE (line 77 source-tier flag; line 148 = 2021 Nova chapter, not the "Carr 2015 PhilArchive" the reviewer reports — see review Verification Notes; that specific instance is STALE). The DISTINCT live concern: McGinn (transcendental naturalist, explicit anti-dualist) and Schwitzgebel (crazyism is symmetric across positions and singles out interactionist substance dualism as below even-odds) are recruited toward dualist-leaning conclusions in the voids corpus. The changelog flags both, but verify the inference framing in the LIVE articles still honours the epistemic-to-metaphysical firewall and the symmetric-crazyism flag. GREP-VERIFY each instance against the live file before editing; skip already-fixed instances. Apply the co-optation gate / naturalist-roster discipline.
-- **Review file**: `reviews/outer-review-2026-06-08-claude-opus-4-8.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-08
-
 ### ✓ 2026-06-08: Refine Tenet 3's mechanism wording to match the post-decoherence-selection calibration (tenets.md)
 - **Type**: refine-draft
 - **Status**: done (CONSOLIDATED with the sibling bias-without-deviation P1 into ONE tenets.md editor pass 2026-06-08 to avoid same-file churn. FIX 1 landed: Tenet 3 Definition rewritten to commit to the *that* not a unique *how* — enumerates pre-decoherence collapse / post-decoherence selection [endorsed] / Process-1, explicitly does NOT commit to pre-decoherence coherence; cross-linked post-decoherence-selection-programme. Verified on disk, sync 0.)
@@ -1000,6 +993,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-08: Tighten naturalist co-optation hedges on McGinn and Schwitzgebel where the inference still appears (voids corpus, mind-space cluster)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-08 (Claude Opus 4.8). PARTIALLY VERIFIED: the `voids/mapping-mind-space.md` Carr fix and SPR source-tier flag the reviewer claims are missing are ACTUALLY ALREADY LIVE (line 77 source-tier flag; line 148 = 2021 Nova chapter, not the "Carr 2015 PhilArchive" the reviewer reports — see review Verification Notes; that specific instance is STALE). The DISTINCT live concern: McGinn (transcendental naturalist, explicit anti-dualist) and Schwitzgebel (crazyism is symmetric across positions and singles out interactionist substance dualism as below even-odds) are recruited toward dualist-leaning conclusions in the voids corpus. The changelog flags both, but verify the inference framing in the LIVE articles still honours the epistemic-to-metaphysical firewall and the symmetric-crazyism flag. GREP-VERIFY each instance against the live file before editing; skip already-fixed instances. Apply the co-optation gate / naturalist-roster discipline.
 
 ### ✓ 2026-06-08: Audit the coherence→"capturing something real" slide in phenomenology-mechanism-bridge (apex/phenomenology-mechanism-bridge.md)
 - **Type**: refine-draft
