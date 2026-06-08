@@ -5,6 +5,22 @@ ai_modified: 2026-06-07 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-08T12:06:52+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-metaphysics-of-laws-and-dispositions]]
+- **Word count**: 4215 → 4213 (-2)
+- **Critical issues addressed**: 2 (citation metadata — both real-paper-wrong-metadata, corrected in place per 3-state discipline, NOT deleted)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged article, over length ceiling — no content added)
+- **Diff-first**: only change since the 2026-06-01 deep review was a cosmetic [[wheelers-participatory-universe-and-it-from-bit]] cross-link install (commit 9255dbd85); scorer value 11 reflects that cross-link re-qualification. Ran FULL publisher-of-record web-verify anyway (citation-dense hub, 18 refs) — caught two defects the prior pass missed by spot-checking only 2 journal cites.
+  - **Coates**: was "Coates, J. (2019), Philosophical Studies 176(11):3027-3048, 'powerful qualities or powerless qualities'" — wrong on every axis. Corrected to verified "Coates, A. (2021), Making sense of powerful qualities, Synthese 198(9):8347-8363" (real author, real paper supporting the collapse-or-conjunction concern). Inline 2019→2021.
+  - **Pautz**: was "Pautz, A. (2017)... In Alter & Nagasawa (Eds.), Russellian Monism, OUP" — conflated a genuine 2017 Pautz reply-to-Roelofs with the wrong container. Re-pointed to the real publisher-verifiable chapter "A Dilemma for Russellian Monists about Consciousness" in Alter & Nagasawa (2015), Consciousness in the Physical World: Perspectives on Russellian Monism, OUP. Inline 2017→2015. Body claim stays faithful.
+  - 16 other cites verified real-correct (Armstrong/Bird/Chalmers/Ellis/Heil/Martin/Shoemaker/Schlosshauer books; Cutter 2019, Howell 2015, Lewis 1994, Taylor 2018 journals re-verified at publisher; Mørch 2014 dissertation + 2018 handbook chapter; Tegmark 2000 currency-checked — 13–20-orders-of-magnitude claim faithful, not superseded).
+- **Length**: 4213 words, 140% of 3000 target, ~213 over the 4000 hard threshold — documented human editorial-decision item for this flagship 3×3 cross-product article; NOT auto-condensed.
+- **Reasoning-mode audit**: clean; no label leakage; no possibility/probability slippage (new Wheeler sentence is a within-framework structural identity, not an evidence upgrade).
+- **Output**: [[reviews/deep-review-2026-06-08-consciousness-and-the-metaphysics-of-laws-and-dispositions]]
+- **Published**: yes
+
 ## 2026-06-08T12:00:00+00:00 - refine-draft
 - **Status**: Success (near-no-op — assessment only, no content change)
 - **File**: [[apex/phenomenology-mechanism-bridge]]
