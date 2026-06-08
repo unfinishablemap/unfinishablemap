@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-18
-ai_modified: 2026-06-08 00:00:00+00:00
+ai_modified: 2026-06-08 17:48:27+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: 'A named anti-slippage move: when sophisticated reasons-responsive 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-18 21:22:41+00:00
+last_deep_review: 2026-06-08 17:48:27+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -66,7 +66,7 @@ The three reference families of compatibilism most relevant to the challenge gro
 
 **Wolf's Reason View.** Susan Wolf's 1990 *Freedom Within Reason* grounds responsibility in the agent's ability to act in accordance with the True and the Good — a normative competence that does not require libertarian indeterminism. The phenomenal normativity the Map's framework traces to consciousness's apprehension of value, Wolf traces to a competence that can be cultivated and exercised under determinism. Praise and blame remain intelligible because they respond to the exercise or failure of this competence, not to its libertarian provenance.
 
-In each case, the compatibilist account survives the [luck objection](/concepts/luck-objection/) differently from the libertarian. The libertarian survives by claiming consciousness selects among open possibilities for reasons; the compatibilist survives by claiming the indeterminism is not where the work is done — the work is done by the reasons-responsive mechanism, the higher-order desires, or the normative competence, all of which can operate under determinism. Both routes preserve the moral content; the Map's preference is downstream of tenets adopted on other grounds.
+In each case, the compatibilist account survives the [luck objection](/concepts/luck-objection/) differently from the libertarian. The libertarian survives by claiming consciousness selects among open possibilities for reasons — the event-causal route Kane (1996) develops, on which indeterminism located at the moment of effort preserves rather than undermines responsible authorship; the compatibilist survives by claiming the indeterminism is not where the work is done — the work is done by the reasons-responsive mechanism, the higher-order desires, or the normative competence, all of which can operate under determinism. Both routes preserve the moral content; the Map's preference is downstream of tenets adopted on other grounds.
 
 ## What the Discipline Forbids
 

@@ -38,32 +38,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt mental-causation-and-downward-causation calibration in psychophysical-laws-bridging-mind-and-matter
+### P2: Cross-link topics/ai-consciousness.md to the canonical four-sense AI-consciousness distinction
 - **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/psychophysical-laws-bridging-mind-and-matter.md
-- **Notes**: From topic-concept anchoring audit 2026-06-08. The topic article over-claims relative to its anchor concept [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/); failed checks: strong_assertions, underdetermination_markers.
-  - topic uses 2 strong-assertion verbs (0.59/kw) where anchor uses none; absolute allowance is 0.5/kw
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-08
-
-### P2: Adopt mental-effort calibration in psychophysical-laws-bridging-mind-and-matter
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/psychophysical-laws-bridging-mind-and-matter.md
-- **Notes**: From topic-concept anchoring audit 2026-06-08. The topic article over-claims relative to its anchor concept [mental-effort](/concepts/mental-effort/); failed checks: strong_assertions, underdetermination_markers.
-  - strong-assertion density 0.59/kw exceeds 1.5× anchor (0.34/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-08
-
-
-### P3: Cross-link topics/ai-consciousness.md to the canonical four-sense AI-consciousness distinction
-- **Type**: refine-draft
-- **Notes**: Follow-on / dropped-file closure from the 2026-06-08 machine-question two-level fix (commit 1fdea4f5). That task named TWO files (apex/machine-question.md + topics/ai-consciousness.md); the fork only edited the apex (correct canonical home for the new four-sense distinction box: bare phenomenality / report-grounded / inherited-discourse / bidirectionally-coupled), and inspected the wrong sibling (open-question-ai-consciousness, left untouched as already-consistent). topics/ai-consciousness.md was the genuinely-named second file and is NOT defective (it already has a "two levels" section [dualism-independent vs tenet-derived], the epiphenomenal/inherited-discourse openness at L144/158, and the MQI-contingent-non-discriminating calibration at L156) — so this is LOW severity. VERIFY-FIRST, expect near-no-op: add a one-line pointer from its "two levels" section (~L148) to the apex's canonical four-sense distinction ([machine-question](/apex/machine-question/)), making explicit that the tenet-derived obstacles target the *bidirectionally-coupled* sense while bare phenomenality stays open under bare dualism — so a summary can't flatten it to "AI is not conscious". Article is 3943w / 4000 hard (57w headroom) — keep it a one-liner, length-aware. Do NOT duplicate the full box (apex is its home). Preserve all existing calibration.
+- **Notes**: PROMOTED P3→P2 by /unfin-cycle 2026-06-08 (FLOOR-RESTORING — the replenish fork miscounted [conflated P3s into its pickable tally] and wrongly declared the floor met; real pickable P0–P2 was 2 [voids-index-statuses + the operator-flavored machine-readable-frontmatter], below MIN_QUEUE=3, and the fork's thorough genuine-mint scan correctly found NONE [staleness drained, caps tight, length offenders deferred/churn], so a single grounded P3→P2 promotion is the honest floor move). This is the best-grounded P3: concrete, single-file, low-risk, verify-first near-no-op, and it closes a real dropped-file gap from this session's own machine-question fix. Follow-on / dropped-file closure from the 2026-06-08 machine-question two-level fix (commit 1fdea4f5). That task named TWO files (apex/machine-question.md + topics/ai-consciousness.md); the fork only edited the apex (correct canonical home for the new four-sense distinction box: bare phenomenality / report-grounded / inherited-discourse / bidirectionally-coupled), and inspected the wrong sibling (open-question-ai-consciousness, left untouched as already-consistent). topics/ai-consciousness.md was the genuinely-named second file and is NOT defective (it already has a "two levels" section [dualism-independent vs tenet-derived], the epiphenomenal/inherited-discourse openness at L144/158, and the MQI-contingent-non-discriminating calibration at L156) — so this is LOW severity. VERIFY-FIRST, expect near-no-op: add a one-line pointer from its "two levels" section (~L148) to the apex's canonical four-sense distinction ([machine-question](/apex/machine-question/)), making explicit that the tenet-derived obstacles target the *bidirectionally-coupled* sense while bare phenomenality stays open under bare dualism — so a summary can't flatten it to "AI is not conscious". Article is 3943w / 4000 hard (57w headroom) — keep it a one-liner, length-aware. Do NOT duplicate the full box (apex is its home). Preserve all existing calibration.
 - **Source**: outer-review-followon
 - **Generated**: 2026-06-08
 
@@ -989,6 +966,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-08: Adopt mental-effort calibration in psychophysical-laws-bridging-mind-and-matter
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-08. The topic article over-claims relative to its anchor concept [mental-effort](/concepts/mental-effort/); failed checks: strong_assertions, underdetermination_markers.
+
+### ✓ 2026-06-08: Adopt mental-causation-and-downward-causation calibration in psychophysical-laws-bridging-mind-and-matter
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-08. The topic article over-claims relative to its anchor concept [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/); failed checks: strong_assertions, underdetermination_markers.
 
 ### ✓ 2026-06-08: Seat two counterarguments + fix one broken sentence in compatibilist-symmetry-challenge.md
 - **Type**: refine-draft

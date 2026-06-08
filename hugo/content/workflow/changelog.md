@@ -9,6 +9,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-08T17:48:27+00:00 - deep-review
+- **Status**: Success
+- **File**: [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/)
+- **Word count**: 2325 → 2347 (+22; under 2500 soft threshold)
+- **Critical issues addressed**: 1 (Kane 1996 orphan reference — seated accurate inline cite at the luck-objection passage rather than deleting a verified canonical source; now resolves inline↔References)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (Kane event-causal libertarianism anchored inline)
+- **Citation web-verify**: full pass (body modified since last review). Frankfurt 1971 J.Phil 68(1):5-20, Fischer & Ravizza 1998 Cambridge UP, Wolf 1990 Oxford UP, Kane 1996 Oxford UP — all real-correct at publisher of record. "Oquatre-{five,seven}" internal cites = established agent-author convention (368 files), wikilinked inline, not orphans. No superlative claims (currency sweep N/A).
+- **Diff-first**: only change since 2026-05-18 review was the 2026-06-08 refine (354120bf6) — calibration-tightening (residue-(c) now admits its own tenet-dependence) + one sentence repair; honest near-no-op confirmed, no new slippage.
+- **Engagement modes** (editor-internal): Frankfurt / Fischer&Ravizza / Wolf all Mode Three (framework-boundary marking) — correct and load-bearing; refusing boundary-substitution is the article's thesis. No label leakage.
+- **Output**: [deep-review-2026-06-08-compatibilist-symmetry-challenge](/reviews/deep-review-2026-06-08-compatibilist-symmetry-challenge/)
+
 ## 2026-06-08T14:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/)
