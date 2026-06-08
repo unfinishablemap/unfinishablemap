@@ -103,6 +103,40 @@ The checklist, applied after every coalesce or archive:
 
 **Code-fix candidate — flag for the operator, do not attempt here.** Two known automation defects make this audit recurring rather than one-off: the sync pipeline does not delete the old `hugo/content/<sec>/<slug>.md` when an article is archived/coalesced, so the original URL keeps serving a stale duplicate (the *coalesce-stale-hugo-duplicate-urls* defect); and the `/archive` and `/coalesce` skills leave inbound wikilinks pointing at the archive-notice page rather than the live replacement (the *archival-link-rot* defect). Until those are fixed at archive time in code, the checklist above is the manual catch. This document records the methodology; the durable fix is operator/code work, not a content edit.
 
+### Proposed Future Convention: Machine-Readable Content-Status Frontmatter (NOT YET ADOPTED — operator/human decision)
+
+*Captured from the ChatGPT 5.5 Pro outer review of 2026-06-08, methodology improvement 4. This is a proposal for human/operator decision, recorded here because it is the durable fix that the "Code-fix candidate" note above gestures at. It is **not** adopted and **must not** be applied autonomously — see the coordination requirement below.*
+
+**The proposal.** Introduce two optional frontmatter fields on `voids/`, `concepts/`, and `topics/` articles that make a page's lifecycle status machine-readable rather than prose-only:
+
+```yaml
+status: active | folded | absorbed | superseded | historical   # default: active
+folded_into:                                                    # one or more target slugs/paths
+  - <target-article-slug>
+```
+
+Enum meanings (drafting intent, to be finalised by the operator at adoption):
+
+- `active` — a live page carrying its own current content (the default; absence of the field is equivalent to `active`).
+- `folded` — the page's content has been merged into another article and it now exists only to preserve its URL; `folded_into` names the target(s).
+- `absorbed` — a narrower case of folding where the page's distinct claim was subsumed into a broader article (mirrors the voids index's "Absorbed" label).
+- `superseded` — replaced by a newer article that supersedes rather than merges its content; `folded_into` (or a sibling `superseded_by`) names the successor.
+- `historical` — retained for the record, no longer maintained as current.
+
+Today these distinctions live only in prose — for example the voids index's "Absorbed" / "Folded" labels, and the `superseded_by` notes scattered in archive frontmatter — so automation cannot reliably act on them.
+
+**Why this is an operator/human decision, not an autonomous edit.** Adopting the convention requires a *coordinated* change across three places that must move together:
+
+1. the **frontmatter schema** definition in `CLAUDE.md` (the schema section), so the fields are documented and canonical;
+2. the **`tools/curate` validation** code, so the enum is validated and `folded_into` targets are checked for existence; and
+3. the **sync converter** (`tools/sync/`), so it knows what to do with non-`active` pages.
+
+A status field that only some of those three honour would be worse than none (silent drift between what the frontmatter claims and what the pipeline does). Because the change spans the schema, validation, and the converter simultaneously, it is outside the remit of any autonomous content or single-tool edit and is recorded here for the operator to schedule as one coherent change.
+
+**The benefit beyond reader-clarity.** A machine-readable status would give the sync converter a principled hook for the two recurring defects named in the "Code-fix candidate" note above. Once a page is marked `folded` / `absorbed` / `superseded`, sync could *skip or flag* the stale `hugo/content/<sec>/<slug>.md` rather than continuing to serve full duplicate content under the original URL — directly addressing the *coalesce-stale-hugo-duplicate-urls* defect — and could repoint or annotate inbound links toward the `folded_into` target, addressing *archival-link-rot* at the structural level rather than via the manual checklist above. In other words, the convention converts the prose-only lifecycle distinctions into the signal the durable code fix would need.
+
+**Scope guard at adoption.** When (if) the operator adopts this, the rollout order matters: land the schema + validation + converter support first, *then* backfill `status:` onto existing folded/absorbed/superseded pages. Backfilling fields before the pipeline understands them would re-create exactly the silent-drift hazard this note warns against.
+
 ## Relation to Site Perspective
 
 The discipline serves [Occam's Razor Has Limits](/tenets/#occams-limits) at the curation level. The fifth tenet warns that simplicity is unreliable when knowledge is incomplete; abandon-coalesce names a specific cost of consolidating-by-similarity — the lossy fusion of distinct failure signatures into a single mechanism. Where the tenet is general (parsimony can mislead), the abandon-coalesce discipline is specific: naming a class of merger decisions where the editor's pressure toward consolidation must yield to the territory's pressure toward differentiation. Together with the [conjunction-coalesce](/apex/conjunction-coalesce/) discipline, abandon-coalesce supplies the curation-level operationalisation of the tenet that [coherence-inflation countermeasures](/project/coherence-inflation-countermeasures/) supply at the system level and [evidential-status discipline](/project/evidential-status-discipline/) supplies at the calibration layer.
