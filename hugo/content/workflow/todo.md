@@ -75,13 +75,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review (2026-06-08 ChatGPT 5.5 Pro), apex governance pass
 - **Generated**: 2026-06-08
 
-### P2: Clarify the two voids taxonomies (territory-trichotomy vs reason-typology) on the voids index
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-06-08 (ChatGPT 5.5 Pro), §2.4. The reviewer alleged a "mismatch" — voids index says "Three Kinds of Void" while (it claimed) the concepts index calls "Naturally Occluded" a fourth member. PARTIALLY DISPUTED on verification: `concepts.md` makes no such statement, and the taxonomy-of-voids apex (line 107) EXPLICITLY notes the two axes are orthogonal — the three-kinds trichotomy (unexplored / unexplorable / occluded) classifies a void's *territory*, while the four-kinds typology (architectural / adaptive / naturally occluded / deliberately occluded) classifies the *reason* for darkness. So there is no contradiction. BUT there is a genuine reader-clarity risk: two taxonomies using overlapping words ("occluded" / "naturally occluded") are easy to conflate. Fix is a short clarifying note at the top of voids.md (and/or a one-line pointer in the taxonomy apex) distinguishing the territory-axis from the reason-axis. Length-neutral; do NOT manufacture a "fourth kind" of the trichotomy — that would be the misreading.
-- **Review file**: `reviews/outer-review-2026-06-08-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-08
-
 ### P2: Add a "bare phenomenality vs bidirectionally coupled consciousness" distinction box to the AI cluster (apex/machine-question.md, topics/ai-consciousness.md)
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-06-08 (ChatGPT 5.5 Pro), §3.4 + §4.2. The tenet-dependency matrix says the machine-consciousness row requires bare dualism only (it should NOT import interactionism, agent-causal subjecthood, MQI, post-decoherence selection, or No-MWI as background), yet the Machine Question and related AI articles argue current AI probably lacks the relevant consciousness using bidirectional coupling, quantum-interface requirements, and structured quantum selection. The resolution is NOT to weaken either claim but to make the two-level structure explicit: (1) "bare AI phenomenality under irreducibility" (the matrix row) vs (2) "Map-preferred bidirectionally coupled AI consciousness" (where the heavier machinery applies). Without this, summaries can compress to a flat "AI is not conscious," which contradicts the Open Question apex's openness to epiphenomenal/borrowed/alien phenomenality. Apply the [direct-refutation-discipline](/project/direct-refutation-discipline/) remit: distinguish what the bare-dualism row licenses from what the full tenet-package licenses, in natural journal-quality prose; do not expose mode labels in the body. Add a canonical distinction box (bare phenomenality / bidirectionally coupled / report-grounded / inherited-discourse consciousness). Keep both articles under their length ceilings.
@@ -988,6 +981,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-08: Clarify the two voids taxonomies (territory-trichotomy vs reason-typology) on the voids index
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-08 (ChatGPT 5.5 Pro), §2.4. The reviewer alleged a "mismatch" — voids index says "Three Kinds of Void" while (it claimed) the concepts index calls "Naturally Occluded" a fourth member. PARTIALLY DISPUTED on verification: `concepts.md` makes no such statement, and the taxonomy-of-voids apex (line 107) EXPLICITLY notes the two axes are orthogonal — the three-kinds trichotomy (unexplored / unexplorable / occluded) classifies a void's *territory*, while the four-kinds typology (architectural / adaptive / naturally occluded / deliberately occluded) classifies the *reason* for darkness. So there is no contradiction. BUT there is a genuine reader-clarity risk: two taxonomies using overlapping words ("occluded" / "naturally occluded") are easy to conflate. Fix is a short clarifying note at the top of voids.md (and/or a one-line pointer in the taxonomy apex) distinguishing the territory-axis from the reason-axis. Length-neutral; do NOT manufacture a "fourth kind" of the trichotomy — that would be the misreading.
 
 ### ✓ 2026-06-08: Resolve apex cap governance — apex count (34 on disk) far exceeds the ~20 guideline (apex/apex-articles.md)
 - **Type**: apex-evolve

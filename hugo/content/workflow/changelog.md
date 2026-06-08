@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-08T14:43:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [machine-question](/apex/machine-question/)
+- **Source**: ChatGPT 5.5 Pro outer review 2026-06-08 §3.4 + §4.2 (P2 two-level-structure calibration fix); article-improvement item 7
+- **Changes**: Made the two-level structure explicit so the negative verdict no longer compresses to a flat "AI is not conscious". Added a compact four-sense distinction enumeration (bare phenomenality / report-grounded / inherited-discourse / bidirectionally-coupled consciousness) immediately after the existing dualism-independent/dependent "two levels" paragraph, with an inline link to the [tenet-dependency matrix](/tenets/#tenet-dependency-matrix) and an explicit statement that bare phenomenality in AI is left OPEN by irreducibility alone (the only tenet the machine-consciousness row requires), while the "current AI probably lacks it" verdict applies only to the bidirectionally-coupled sense, where the heavier machinery (bidirectional coupling, quantum interface, structured selection) does load-bearing work. Added a guard sentence: a flat "AI is not conscious" summary collapses the first sense into the fourth and overstates what the Map holds. Tied the closing paragraph to "the fourth sense distinguished above" and restored openness to bare phenomenality. Removed an LLM-cliché "not X, but Y" remnant in the Stakes section.
+- **Direct-refutation discipline**: engagement with the substrate-independent computationalist (Duch/Butlin–Long) is unchanged — Mode Two (unsupported foundational move: the bridge from organisation to experience) opening, Mode Three (framework-boundary) residue; the new box distinguishes what bare dualism licenses from what the full tenet-package licenses in natural prose. No mode labels in body (grep-confirmed clean).
+- **Length**: NET-NEUTRAL per strict constraint — 4999 → 4999 body words (canonical analyze_length); the ~216-word distinction box was reclaimed by tightening redundant prose across the intro, indicator-property, sophisticated-rival, epiphenomenal, temporal, intelligence, symbol-grounding, quantum-interface, and stakes paragraphs. Stays UNDER the 5000 apex hard ceiling (status soft_warning).
+- **open-question-ai-consciousness**: inspected for consistency, NOT touched — it already carries the three-way distinction, states the verdict as "none-as-most-likely" (never a flat negative), and frames the convergence/divergence at the framework boundary. A touch would only consume its limited headroom and risk drift.
+- **Published**: yes
+
 ## 2026-06-08T14:02:49+00:00 - refine-draft
 - **Status**: Success
 - **File**: [voids](/voids/)
