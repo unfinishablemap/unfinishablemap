@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-06-01 00:00:00+00:00
+ai_modified: 2026-06-08 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Why max-mind dualism slides toward idealism, and what would hold it
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-27 13:05:00+00:00
+last_deep_review: 2026-06-08 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[mechanism-costs-dualism-thickness-quadrants]]'

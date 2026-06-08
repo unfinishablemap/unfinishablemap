@@ -5,6 +5,17 @@ ai_modified: 2026-06-07 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-08T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/medium-status-voids-in-cognition]]
+- **Task**: Out-of-band standing P2 pessimistic-review fix (todo line 114): the "attenuation without elimination" generalisation ("consciousness does not continue with the medium fully removed") was asserted as exceptionless without engaging the contemplative-cessation / *nirodha samāpatti* / contentless-awareness literature, which reports the contrary.
+- **Fix applied**: Option (a) — folded cessation into the article's existing *outputs-by-deformation* framing. Added ~140 body words at the end of "The Eye That Cannot See Itself Seeing" section: names *nirodha samāpatti* and contentless-awareness reports as the place the generalisation is most directly pressed; shows the asymmetry survives on the cluster's own terms because the cessation report is a post-hoc reconstruction delivered once the reporting apparatus is back online (not inspection-while-the-medium-is-suspended), leaving the case underdetermined rather than a clean counter-example; downgrades the generalisation from "exceptionless empirical claim" to a constitutive *prediction* the cessation reports have not falsified.
+- **Cross-links added**: [[contentless-awareness-evidence]] (topics) and [[cessation-versus-plenitude]] (concepts) in body and related_articles.
+- **Citation discipline**: No new empirical claim or References entry introduced — the post-hoc-reconstruction characterisation and *nirodha samāpatti* framing are inherited from the two cross-linked corpus articles (which cite Laukkonen et al. 2023, Buddhaghosa, the Mandukya Karika); nothing fabricated.
+- **Hedging**: All existing calibration/hedging language preserved; the edit weakens the generalisation's overreach without strengthening any claim and without over-hedging into mush.
+- **Word count**: body 4649 (was ~4364 + ~140 added; apex soft 4000 / hard 5000 — 351 words under hard ceiling, status soft_warning unchanged).
+- **Published**: yes
+
 ## 2026-06-08T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/q3-q4-sliding-boundary-and-transparency-problem]]

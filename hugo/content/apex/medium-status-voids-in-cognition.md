@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-06-07 00:00:00+00:00
+ai_modified: 2026-06-08 00:00:00+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-06-07 00:00:00+00:00
 apex_sources:
@@ -48,6 +48,8 @@ related_articles:
 - '[[the-quantitative-comprehension-void]]'
 - '[[phenomenal-output-causal-machinery-dissociation]]'
 - '[[apex/introspection-architecture-void-cluster]]'
+- '[[contentless-awareness-evidence]]'
+- '[[cessation-versus-plenitude]]'
 title: Medium-Status Voids in Cognition
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -98,7 +100,7 @@ For mattering: any investigation is itself motivated; nothing-mattering would no
 
 The circularity is the structural face of medium-status, not a defect better methods could overcome. A field's medium becomes inspectable only by being temporarily replaced or suspended — anaesthesia, anxiety, anhedonia, contemplative bracketing, psychiatric disruption. These edge cases give *outputs-by-deformation*, not *inspection-while-operating*. Each glimpse is real evidence; none dissolves the circularity. The medium remains; the field falls apart; when the field reassembles the medium reasserts itself.
 
-The four voids share this logical shape but surface through different phenomenologies, and the differential signature is diagnostic. The mattering face appears in the diminished-but-present significance of anhedonia — "everything is grey," not nothing. The relevance face appears in the misweighted salience of schizophrenic delusions of reference, ADHD, and dopaminergic distortion: the wrong things become relevant without the filtering becoming inspectable. The noetic-feelings face appears in fluency-driven false self-evidence — Rozenblit and Keil's illusion of explanatory depth, Thompson's fluency manipulations. The conceptual-scheme face appears as *false clarity* rather than vertigo: confident pseudo-understanding of an alien framework one has only translated. Sass and Parnas's studies of schizophrenic ipseity disturbance fit the pattern at the level of selfhood — first-personal givenness can be attenuated or destabilised, but every reported case is reported from somewhere. The cluster-wide pattern is *attenuation without elimination*: the medium can be deformed or partially collapsed, but consciousness does not continue with it fully removed. That asymmetry is what the constitutive reading predicts and a capacity-status reading does not.
+The four voids share this logical shape but surface through different phenomenologies, and the differential signature is diagnostic. The mattering face appears in the diminished-but-present significance of anhedonia — "everything is grey," not nothing. The relevance face appears in the misweighted salience of schizophrenic delusions of reference, ADHD, and dopaminergic distortion: the wrong things become relevant without the filtering becoming inspectable. The noetic-feelings face appears in fluency-driven false self-evidence — Rozenblit and Keil's illusion of explanatory depth, Thompson's fluency manipulations. The conceptual-scheme face appears as *false clarity* rather than vertigo: confident pseudo-understanding of an alien framework one has only translated. Sass and Parnas's studies of schizophrenic ipseity disturbance fit the pattern at the level of selfhood — first-personal givenness can be attenuated or destabilised, but every reported case is reported from somewhere. The cluster-wide pattern is *attenuation without elimination*: the medium can be deformed or partially collapsed, but consciousness does not continue with it fully removed. That asymmetry is what the constitutive reading predicts and a capacity-status reading does not. The contemplative-cessation literature — *nirodha samāpatti*, the Theravāda attainment of cessation, and the broader contentless-awareness reports — is the place the generalisation is most directly pressed, since practitioners describe states with the medium allegedly removed yet awareness allegedly retained. The asymmetry survives that pressure on the cluster's own *outputs-by-deformation* terms: the cessation report is a post-hoc reconstruction delivered once the reporting apparatus has come back online, not an inspection conducted while the medium was suspended, so it certifies how the episode seems on return rather than that consciousness continued with the medium gone. As [the contentless-awareness analysis](/topics/contentless-awareness-evidence/) and [the cessation-versus-plenitude treatment](/concepts/cessation-versus-plenitude/) develop, the reporting apparatus is exactly what is offline in the target state, leaving the case underdetermined rather than a clean counter-example. The generalisation accordingly holds as a constitutive *prediction* the cessation reports have not falsified, not as an exceptionless empirical claim.
 
 ## Six Traditions on the Same Circularity
 

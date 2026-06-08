@@ -9,6 +9,29 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-08T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/)
+- **Task**: Out-of-band standing P2 pessimistic-review fix (todo line 114): the "attenuation without elimination" generalisation ("consciousness does not continue with the medium fully removed") was asserted as exceptionless without engaging the contemplative-cessation / *nirodha samāpatti* / contentless-awareness literature, which reports the contrary.
+- **Fix applied**: Option (a) — folded cessation into the article's existing *outputs-by-deformation* framing. Added ~140 body words at the end of "The Eye That Cannot See Itself Seeing" section: names *nirodha samāpatti* and contentless-awareness reports as the place the generalisation is most directly pressed; shows the asymmetry survives on the cluster's own terms because the cessation report is a post-hoc reconstruction delivered once the reporting apparatus is back online (not inspection-while-the-medium-is-suspended), leaving the case underdetermined rather than a clean counter-example; downgrades the generalisation from "exceptionless empirical claim" to a constitutive *prediction* the cessation reports have not falsified.
+- **Cross-links added**: [contentless-awareness-evidence](/topics/contentless-awareness-evidence/) (topics) and [cessation-versus-plenitude](/concepts/cessation-versus-plenitude/) (concepts) in body and related_articles.
+- **Citation discipline**: No new empirical claim or References entry introduced — the post-hoc-reconstruction characterisation and *nirodha samāpatti* framing are inherited from the two cross-linked corpus articles (which cite Laukkonen et al. 2023, Buddhaghosa, the Mandukya Karika); nothing fabricated.
+- **Hedging**: All existing calibration/hedging language preserved; the edit weakens the generalisation's overreach without strengthening any claim and without over-hedging into mush.
+- **Word count**: body 4649 (was ~4364 + ~140 added; apex soft 4000 / hard 5000 — 351 words under hard ceiling, status soft_warning unchanged).
+- **Published**: yes
+
+## 2026-06-08T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [q3-q4-sliding-boundary-and-transparency-problem](/topics/q3-q4-sliding-boundary-and-transparency-problem/)
+- **Word count**: 2859 → 2859 (no change; 95% of soft threshold, OK)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (prior review's archival-link-rot item self-resolved — [interactionist-dualism](/concepts/interactionist-dualism/) now resolves to a live concept page)
+- **Enhancements made**: 0 — genuine metadata-only no-op on a converged article; no edits manufactured
+- **Diff scope**: only change since last review (commit 8bc34a21c) is a hedge-strengthening refine (ab8634ae9) — calibration qualifiers preserved, not over-hedged
+- **Citation web-verify (run regardless of diff scope)**: all 7 historical attributions publisher/SEP-verified real-correct — Berkeley, Leibniz (corporeal mass = well-founded phenomenon), Kastrup (extrinsic appearance / dissociated alters), Whitehead (dipolar actual occasions), James (1898 transmission theory), Myers, Yogācāra (SEP contested-idealism reading), MWI Born-rule problem. Zero fabricated/wrong-author/wrong-year. Currency sweep N/A (no superlative empirical claims).
+- **Engagement modes (editor-internal)**: MWI → Mode Three (boundary marking); idealism/Kastrup → Mode Three. No label leakage.
+- **Output**: [deep-review-2026-06-08-q3-q4-sliding-boundary-and-transparency-problem](/reviews/deep-review-2026-06-08-q3-q4-sliding-boundary-and-transparency-problem/)
+
 ## 2026-06-08T00:00:00+00:00 - refine-draft (citation-integrity)
 - **Status**: Success
 - **File**: [authorship-of-action-divergence](/topics/authorship-of-action-divergence/)
