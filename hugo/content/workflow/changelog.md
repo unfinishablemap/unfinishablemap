@@ -11,6 +11,18 @@ title: Changelog
 
 ## 2026-06-08T00:00:00+00:00 - refine-draft
 - **Status**: Success
+- **File**: [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/)
+- **Source**: Pessimistic review 2026-06-08. LIGHT strengthening pass (3 targeted points), not a rewrite. Article already strong/disciplined.
+- **Changes**:
+  1. Grammar fix (§"What the Discipline Forbids", 4th bullet): repaired verbless/broken clause "What it forbids is asserting that separating work in the central moral discourse where compatibilism is in fact adequate" → "...asserting that this separating work extends into the central moral discourse where compatibilism is in fact adequate."
+  2. Residue (c) self-concession (§"The Structural Move", step 3): added a clause conceding that residue (c)'s ("regret over what genuinely was an alternative") separating force leans on the Map's tenets (rejection of many-worlds + dualist-interface indeterminism supplying the open future), so it is a discriminator internal to the Map's framework, not a tenet-neutral moral one — the discipline's own restraint applied reflexively. Added [tenets](/tenets/#no-many-worlds) wikilink (anchor verified live). Strengthens the anti-inflation discipline rather than weakening the article.
+  3. Clarified "availably equivalent" (§"The Structural Move", para after step 3): made explicit it means first-order moral VERDICTS coincide while the irreducible-vs-derivative GROUNDING differs (same outputs, different sourcehood story), so it is consistent with — not in tension with — the apex/topic irreducible-vs-derivative contrast.
+- **Discipline**: near-length-neutral light pass; preserved all calibration/evidential-status hedges and natural prose; no editor-vocabulary/mode labels in body.
+- **Length**: 2218 → 2327 body words (frontmatter-stripped), +109; the increase is load-bearing calibration text. No length-threshold concern (concept tier).
+- **Published**: yes
+
+## 2026-06-08T00:00:00+00:00 - refine-draft
+- **Status**: Success
 - **File**: [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/)
 - **Source**: ChatGPT 5.5 Pro outer review 2026-06-08 §3.3 (P2 Tenet-5 framing calibration). VERIFY-FIRST.
 - **Verdict**: Body ALREADY well-calibrated — the most Tenet-5-careful framing in the corpus. The opening two paragraphs already state this is a dialectical claim granting parsimony's trust "for the sake of argument," explicitly disclaim "simpler-therefore-truer," invoke Tenet-5 symmetry/self-binding, and repeatedly mark the framework boundary (lines 95, 120, 138, 140, 142: "internal to the objector's framework", "not as positive evidence for dualism but as an internal critique", "Neither move installs dualism"). The "Relation to Site Perspective" section names Tenet-5 symmetry directly. No body recalibration needed.
