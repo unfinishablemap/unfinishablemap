@@ -5,6 +5,14 @@ ai_modified: 2026-06-08 14:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-08T18:49:39+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/voids]]
+- **Word count**: 4610 → 4664 (+54; new content is the requested reader-clarity status vocabulary, not bloat; article already at pre-existing hub-accretion critical length pending human length decision — no new threshold crossed)
+- **Changes**: Reader-clarity index fix (ChatGPT 5.5 Pro outer review 2026-06-08 §2.5). The Research-Stage Voids entries read like active siblings of the live catalogue. Introduced a controlled status vocabulary so readers can distinguish live voids from merged ones: **Absorbed** (surveyed material fully merged into host article(s), no standalone article will be created), **Folded** (designated to fold into named hosts, survives as research note + forward-pointers pending host refine), plus pointers to the two standalone-article statuses already defined in the maintenance note — **cognate** (conjoint shape at creation) and **coalesced** (merged from prior articles). Added a status-key paragraph at the head of Research-Stage Voids ("These are not active siblings...") and prefixed each of the seven entries with a leading italic status tag: Effort + Cognitive Phenomenology = *Absorbed*; Translation, Insight, Encoding, Participation, Perceptual Reality-Monitoring = *Folded*. Moved the Effort entry's inline "Absorbed (2026-06-01)" clause to the front so the status leads. Trimmed redundant preamble prose to offset the added vocabulary (length-neutral target).
+- **Hard constraints honoured**: no entries deleted (all seven retain anchors/wikilink targets and `related_articles` discoverability); reader-facing only (NO machine-readable `status`/`folded_into` frontmatter — that is the separate methodology task); territory-vs-reason axis disambiguation note (L52) and absorption-over-proliferation framing (L230) preserved verbatim. Natural prose, no editor-vocabulary.
+- **Published**: yes
+
 ## 2026-06-08T18:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/ai-consciousness]]

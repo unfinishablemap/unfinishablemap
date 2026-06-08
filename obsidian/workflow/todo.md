@@ -67,13 +67,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review (2026-06-08 ChatGPT 5.5 Pro), apex governance pass
 - **Generated**: 2026-06-08
 
-### P2: Make the voids index's absorbed/folded statuses explicit and reader-visible (voids/voids.md)
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-06-08 (ChatGPT 5.5 Pro), §2.5. The voids index records several absorbed/folded entries in prose (Effort → Agency Void; Cognitive Phenomenology → Imagery/Noetic Feelings; Insight → Noetic Feelings & Decision; Encoding → adjacent memory/narrative), but they can still read like active siblings. The fine-grained void discovery that is the catalogue's strength now creates redundancy pressure. Fix: surface a clear status vocabulary (active / folded / absorbed / cognate / superseded / historical) on the voids index so readers can tell live voids from merged ones. Length-neutral reorganization of existing prose into a status-tagged list; do NOT delete the absorbed entries (preserve their discoverability and any inbound links). NOTE: a machine-readable frontmatter version of this (status + folded_into fields) is the separate methodology task below — this task is the reader-facing index fix only.
-- **Review file**: `reviews/outer-review-2026-06-08-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-08
-
 ### P2: Make absorbed/folded/superseded status machine-readable in frontmatter (methodology — project doc)
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-06-08 (ChatGPT 5.5 Pro), methodology improvement 4. The site records absorptions/foldings in prose but they are not machine-readable. The reviewer proposes a frontmatter convention exposing e.g. `status: active | folded | absorbed | superseded | historical` and `folded_into:` targets for voids, concepts, and topics. This is a SCHEMA/methodology proposal, not a content edit — it touches the frontmatter schema (documented in CLAUDE.md and enforced by tools/curate validation) and the sync converter. Treat as a project-doc proposal: capture it in the appropriate project/ methodology doc for human/operator decision rather than unilaterally changing the schema. Cross-reference [[coalesce-stale-hugo-duplicate-urls]] / archival-link-rot — a machine-readable status field would also help the known stale-hugo-duplicate problem. Flag for human/operator: schema changes need a coordinated code + validation + sync update, not a doc-only edit.
@@ -959,6 +952,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-08: Make the voids index's absorbed/folded statuses explicit and reader-visible (voids/voids.md)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-08 (ChatGPT 5.5 Pro), §2.5. The voids index records several absorbed/folded entries in prose (Effort → Agency Void; Cognitive Phenomenology → Imagery/Noetic Feelings; Insight → Noetic Feelings & Decision; Encoding → adjacent memory/narrative), but they can still read like active siblings. The fine-grained void discovery that is the catalogue's strength now creates redundancy pressure. Fix: surface a clear status vocabulary (active / folded / absorbed / cognate / superseded / historical) on the voids index so readers can tell live voids from merged ones. Length-neutral reorganization of existing prose into a status-tagged list; do NOT delete the absorbed entries (preserve their discoverability and any inbound links). NOTE: a machine-readable frontmatter version of this (status + folded_into fields) is the separate methodology task below — this task is the reader-facing index fix only.
 
 ### ✓ 2026-06-08: Cross-link topics/ai-consciousness.md to the canonical four-sense AI-consciousness distinction
 - **Type**: refine-draft
