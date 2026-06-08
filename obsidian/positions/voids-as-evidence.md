@@ -46,7 +46,7 @@ These positions cover what the Map currently holds about the *evidential* status
 - **Status**: live
 - **Confidence**: moderate
 - **Asserts**: The Map holds the calibration rule that adopting a tenet which dissolves an objection to a void's dualist reading removes a *defeater* but does not, by itself, raise the void's independence score or convert framework-internal coherence into framework-independent evidence. Tenet-generated voids are honest entries naming the price the framework pays for taking consciousness seriously (as materialism owes the hard problem and panpsychism the combination problem); treating those costs as confirmations would invert the ledger. Equally, dualism-specific voids — those the Map can articulate only because its commitments make them voids — earn framework-internal weight but not the N-fold force of framework-independent voids. The framework may identify a cluster's significance but must not upgrade its independence score.
-- **Depends on**: P-V1; [[concepts/evidential-status-discipline]]; the four-origin-class void audit in [[apex/taxonomy-of-voids]]
+- **Depends on**: P-V1; [[project/evidential-status-discipline]]; the four-origin-class void audit in [[apex/taxonomy-of-voids]]
 - **Argued in**: [[apex/taxonomy-of-voids]], [[voids/what-voids-reveal]], [[project/coherence-inflation-countermeasures]]
 - **Would shift if**: a principled account showed that defeater-removal can, under specified conditions, legitimately raise an independence score; or the origin-class partition (framework-independent / dualism-specific / tenet-generated / method-generated) were shown to be unprincipled.
 - **Last reviewed**: 2026-06-08

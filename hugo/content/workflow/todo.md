@@ -67,16 +67,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review-followon
 - **Generated**: 2026-06-08
 
-### P3: Write concept page on Evidential-Status Discipline
+### ✓ DECLINED-REDUNDANT 2026-06-08: Write concept page on Evidential-Status Discipline
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: declined-redundant — the page ALREADY EXISTS at `obsidian/project/evidential-status-discipline.md` (and hugo/content/project/). The optimistic-review fork hit the create-vs-existing confusion (stale-expand-tasks-may-be-redundant): it saw the `[[evidential-status-discipline]]` wikilink slug cited widely and assumed it was homeless, but the bare slug resolves fine to the existing project/ page. Creating a concepts/ version would DUPLICATE it. The ONLY genuine issue (surfaced by check-links 2026-06-08) was 2 WRONG-PATH refs `[[concepts/evidential-status-discipline]]` in positions/agency-and-will.md + positions/voids-as-evidence.md — REPOINTED this cycle to `[[project/evidential-status-discipline]]`. No page to create.
 - **Notes**: Suggested by optimistic review 2026-06-08 (see `reviews/optimistic-2026-06-08.md`). The slug `[[evidential-status-discipline]]` is cited as a discipline-tag across `positions/`, `tenets/`, animal-consciousness articles, and recent changelog/refine work but has no home page. Page should give the canonical statement of the five-tier scale (established → strongly supported → realistic possibility → live hypothesis → speculative integration) and the core rule "defeater-removal keeps a hypothesis live but does not supply positive evidence / is not a tier-upgrade." `consciousness-in-simple-organisms.md` is the worked exemplar to draw from. NOTE: concepts/ is near its cap (~251 on disk vs 270) — verify headroom before placing; this is disciplinary infrastructure, not topical filler, so it is worth a slot. Needs human approval.
 - **Source**: optimistic-review
 - **Generated**: 2026-06-08
 
-### P3: Write concept page on Framework-Stage Calibration
+### ✓ DECLINED-REDUNDANT 2026-06-08: Write concept page on Framework-Stage Calibration
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: declined-redundant — the page ALREADY EXISTS at `obsidian/project/framework-stage-calibration.md`. Same create-vs-existing confusion as the evidential-status-discipline task above (stale-expand-tasks-may-be-redundant): the bare `[[framework-stage-calibration]]` wikilink resolves fine to the existing project/ page. No wrong-path `[[concepts/framework-stage-calibration]]` refs exist in live content (grep-confirmed), so nothing to repoint either. No page to create.
 - **Notes**: Suggested by optimistic review 2026-06-08 (see `reviews/optimistic-2026-06-08.md`). The slug `[[framework-stage-calibration]]` (pre-Keplerian / Keplerian / Newton-stage self-assessment vocabulary) is referenced in the optimistic-review persona spec and apex calibration work but has no page. Short page giving the corpus a shared way to flag a claim as an early-stage research programme without over-claiming Newton-stage results. Tenet alignment: Occam's Razor Has Limits. Verify concepts/ cap headroom before placing. Needs human approval.
 - **Source**: optimistic-review
 - **Generated**: 2026-06-08
