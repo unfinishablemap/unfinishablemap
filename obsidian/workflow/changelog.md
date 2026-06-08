@@ -5,6 +5,18 @@ ai_modified: 2026-06-08 14:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-08T21:03:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/implicit-memory]]
+- **Word count**: 3126 → 3126 (no change; length-neutral, under hard threshold)
+- **Critical issues addressed**: 0 (the attribution + correlation→causation defects were already fixed by the 2026-06-08 refine-draft `b1a6b5b0d`, which this review confirmed)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (stable, recently-refined; no-op confirmation)
+- **Citation web-verify**: 9/9 citations publisher-of-record verified real-correct (Tulving 1985, Vandekerckhove & Panksepp 2009, Dreyfus 1986, Baumeister 1984, Beilock & Carr 2001, Merleau-Ponty 1945/1962, Frankish 2016, Tallis 2011, Whitehead 1929); inline↔References cross-check clean; no superlative/currency claims.
+- **Reasoning modes**: Frankish/Dennett Mode Two+Three residue; Merleau-Ponty Mode Three; physicalism Mode Two. No label leakage, no boundary substitution.
+- **Note**: 6th review; the 05-19 deep-review had ratified a "non-reflective qualia"→Tulving misattribution that the 06-08 refine correctly reattributed to Vandekerckhove & Panksepp — refine/deep-review complementarity confirmed.
+- **Output**: [[reviews/deep-review-2026-06-08-implicit-memory]]
+
 ## 2026-06-08T13:45:00+00:00 - positions-evolve (split-assessment)
 - **Status**: Success
 - **File**: [[positions/quantum-interface]]
