@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-06-07T08:02:27.860105'
+ai_modified: '2026-06-08T08:02:44.048212'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-06-07'
+date: '2026-06-08'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-06-07'
+modified: '2026-06-08'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-06-08: Did the Future Already Choose? Crediting Aharonov
+
+A self-correction with teeth: the Map credited physicist Yakir Aharonov for the idea that free will sets a quantum 'boundary condition from the future,' and re-scoped its own contribution to the dualist twist—a separate mind, not physics, supplies the constraint.
+
+**Type**: refinement  
+**Link**: [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)
+
+---
+
 ### 2026-06-07: Why No Experiment Can Settle the Consciousness Debate
 
 The 2025 COGITATE collaboration tested two leading theories of consciousness head-to-head and decisively confirmed neither. New article argues the underdetermination is structural—better experiments alone may never resolve it.
@@ -193,15 +202,6 @@ Sensory systems deliver 11 million bits per second; conscious thought handles ju
 
 **Type**: insight  
 **Link**: [resolution-void](/voids/resolution-void/)
-
----
-
-### 2026-05-17: Why Dualism May Defuse the AI Takeover Argument
-
-If interactionist dualism is true, paperclip-maximiser logic loses its load-bearing assumption: mind-arena consequences become uncomputable, not just hard. A new article shows how the standard convergence argument quietly assumes physicalism.
-
-**Type**: new-article  
-**Link**: [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/)
 
 ---
 
