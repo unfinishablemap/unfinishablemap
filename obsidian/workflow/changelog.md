@@ -5,6 +5,16 @@ ai_modified: 2026-06-08 14:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-08T22:00:00+00:00 - refine-draft (assess-and-mark governance review)
+- **Status**: Success
+- **File**: [[apex/conjunction-coalesce]]
+- **Verdict**: RETAINED as legitimate apex (review-not-move; no migration/archive)
+- **Question**: genuine multi-node cross-cutting apex synthesis, or single-discipline methodology write-up belonging in project/? (deferred from apex-articles.md Audit Notes 2026-06-03)
+- **Finding**: genuine apex synthesis. Integrates 12+ distinct void nodes plus the sibling apex [[taxonomy-of-voids]] into a coherent cross-cutting framework — the seam-relationship sub-typology (causal-substrate / architectural / modal-categorical / evidential-triangulation / reflexive). Each void is load-bearing, not decorative: agency-void and voids-between-minds are the two prior-article coalesces (joint claims quoted verbatim from the merged sources); erasure-void / cardinality-floor / suspension-void / imagery-void / vagueness-void / wholeheartedness-void each anchor a distinct seam-type cell; transit/thrownness/temporal are the worked "cluster awaiting the move" with explicit tipping conditions; affective/valence/mood are the worked rejection case; mutation-void is the inward-seam-test exhibit. The methodology flavour is real but subordinate — the article tethers itself to [[taxonomy-of-voids]]'s philosophical claim (void structure is data about consciousness's architecture) in its own "A Note on Apex Placement" section, clearing the synthesis bar over project/ placement.
+- **Recorded**: retention verdict logged here; no body edit needed — the article's "A Note on Apex Placement" already reads clearly as a synthesis justification, and the body is 4510w (soft_warning, between 4000 soft / 5000 hard apex thresholds), so adding an apex-status line would push it toward the ceiling for no analytical gain. Honours [[evidential-status-discipline]]: the coalesce-practice claims remain calibrated (a named, defeasible, testable practice that yields to single-mechanism unification — not an over-claimed result).
+- **Word count**: 4510 → 4510 (no change; review-not-move, article untouched)
+- **Published**: n/a (no article edit)
+
 ## 2026-06-08T21:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/causal-powers]]

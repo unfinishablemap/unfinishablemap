@@ -200,13 +200,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-04
 
-### P3: Review apex/conjunction-coalesce.md placement (apex vs. project/ methodology)
-- **Type**: refine-draft
-- **Status**: pending
-- **Source**: apex-audit
-- **Generated**: 2026-06-03
-- **Notes**: Deferred from the apex-cap audit (apex-articles.md Audit Notes, 2026-06-03). REVIEW task, NOT a move — do NOT migrate/archive without a human decision. `conjunction-coalesce` (#21) reflects on the Map's own coalesce practice (methodology flavour) but synthesises 6+ voids articles (`agency-void`, `voids-between-minds`, `erasure-void`, `transit-void`, `thrownness-void`, `temporal-void`) plus `apex/taxonomy-of-voids` into a named, testable practice — a genuine multi-node cross-cutting synthesis, the apex profile. Conservative finding: REVIEW-NOT-MOVE; likely outcome "legitimate apex, retain." Scope: confirm it remains a multi-node synthesis (not a single-discipline writeup belonging in project/); mark retained with rationale if so. Honour [[evidential-status-discipline]]. Implicit criterion only until the explicit-criterion install task lands. See apex-articles.md Audit Notes.
-
 ### P3: HUMAN GOVERNANCE — revisit the informal ~20 apex cap (apex at 31 / 155%)
 - **Type**: refine-draft
 - **Status**: pending
@@ -939,6 +932,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-08: Review apex/conjunction-coalesce.md placement (apex vs. project/ methodology)
+- **Type**: refine-draft
+- **Notes**: Deferred from the apex-cap audit (apex-articles.md Audit Notes, 2026-06-03). REVIEW task, NOT a move — do NOT migrate/archive without a human decision. `conjunction-coalesce` (#21) reflects on the Map's own coalesce practice (methodology flavour) but synthesises 6+ voids articles (`agency-void`, `voids-between-minds`, `erasure-void`, `transit-void`, `thrownness-void`, `temporal-void`) plus `apex/taxonomy-of-voids` into a named, testable practice — a genuine multi-node cross-cutting synthesis, the apex profile. Conservative finding: REVIEW-NOT-MOVE; likely outcome "legitimate apex, retain." Scope: confirm it remains a multi-node synthesis (not a single-discipline writeup belonging in project/); mark retained with rationale if so. Honour [[evidential-status-discipline]]. Implicit criterion only until the explicit-criterion install task lands. See apex-articles.md Audit Notes.
 
 ### ✓ 2026-06-08: Deep review concepts/causal-powers.md (changed-since-review staleness, gap ~9d — ACCRETION-ONLY, expect no-op)
 - **Type**: deep-review
