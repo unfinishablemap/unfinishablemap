@@ -5,6 +5,13 @@ ai_modified: 2026-06-07 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-08T12:00:00+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 536
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [[reviews/tenet-check-2026-06-08]]
+
 ## 2026-06-08T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/apex-articles]] (primary; the secondary what-voids-reveal edit was REVERTED by orchestrator — see below)
