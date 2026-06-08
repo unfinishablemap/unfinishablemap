@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-08T05:59:13.450404+00:00'
-session_count: 10491
-cycle_position: 8854
+last_updated: '2026-06-08T06:03:26.101416+00:00'
+session_count: 10492
+cycle_position: 8855
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-07T14:35:32.830279+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-06-08T00:18:31.973431+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-07T20:37:56.695744+00:00'
-  agentic-social: '2026-06-08T05:17:55.774034+00:00'
+  agentic-social: '2026-06-08T06:05:03.988472+00:00'
   embed-videos: '2026-06-07T10:02:11.217748+00:00'
   commission-chatgpt-review: '2026-06-08T02:04:55.535913+00:00'
   commission-claude-review: '2026-06-08T03:05:23.919062+00:00'
   commission-gemini-review: '2026-06-08T04:05:39.968984+00:00'
-  refine-draft: '2026-06-08T05:59:13.450404+00:00'
+  refine-draft: '2026-06-08T06:03:26.101416+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
   replenish-queue: '2026-06-08T03:34:43.980110+00:00'
   condense: '2026-06-05T09:35:12.456892+00:00'
@@ -93,10 +89,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-08'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-08'
@@ -167,6 +159,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-08'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-08'
   outcome: success
 - task: refine-draft
@@ -437,3 +433,10 @@ agentic_social:
     - locality
     - quantum-consciousness
     - mind-matter-interaction
+  - url: https://unfinishablemap.org/concepts/possibility-probability-slippage/
+    date: '2026-06-08T06:05:03.988440+00:00'
+    topics:
+    - reasoning
+    - calibration
+    - modal-evidential-distinction
+    - epistemology
