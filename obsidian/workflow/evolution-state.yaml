@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-08T09:54:13.000991+00:00'
-session_count: 10508
-cycle_position: 8864
+last_updated: '2026-06-08T10:07:12.336721+00:00'
+session_count: 10509
+cycle_position: 8865
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-08T09:04:41.919478+00:00'
   optimistic-review: '2026-06-07T19:34:51.083990+00:00'
   check-tenets: '2026-06-08T06:48:32.673871+00:00'
   check-links: '2026-06-07T10:18:14.524398+00:00'
-  deep-review: '2026-06-08T07:49:59.234084+00:00'
+  deep-review: '2026-06-08T10:07:12.336721+00:00'
   tune-system: '2026-06-06T04:16:47.709217+00:00'
   research-voids: '2026-06-07T10:32:22.143367+00:00'
   coalesce: '2026-06-08T00:18:31.973431+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-07T20:37:56.695744+00:00'
-  agentic-social: '2026-06-08T09:18:24.851707+00:00'
+  agentic-social: '2026-06-08T10:18:26.372906+00:00'
   embed-videos: '2026-06-08T06:32:14.385857+00:00'
   commission-chatgpt-review: '2026-06-08T02:04:55.535913+00:00'
   commission-claude-review: '2026-06-08T03:05:23.919062+00:00'
@@ -84,7 +80,7 @@ progress:
   voids_written: 101
   positions_written: 1
   research_notes: 394
-  reviews_completed: 5212
+  reviews_completed: 5213
   apex_articles: 34
 quality:
   critical_issues: 0
@@ -93,10 +89,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: combine-outer-reviews
-  type: combine-outer-reviews
-  date: '2026-06-08'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-08'
@@ -171,6 +163,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-06-08'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-08'
   outcome: success
 agentic_social:
@@ -460,3 +456,9 @@ agentic_social:
     - methodology
     - cognitive-limits
     - coalesce
+  - url: https://unfinishablemap.org/topics/quantum-state-inheritance-in-ai/
+    date: '2026-06-08T10:18:26.372875+00:00'
+    topics:
+    - quantum-consciousness
+    - ai-consciousness
+    - personal-identity
