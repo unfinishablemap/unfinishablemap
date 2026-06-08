@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Cross-link topics/ai-consciousness.md to the canonical four-sense AI-consciousness distinction
+- **Type**: refine-draft
+- **Notes**: Follow-on / dropped-file closure from the 2026-06-08 machine-question two-level fix (commit 1fdea4f5). That task named TWO files (apex/machine-question.md + topics/ai-consciousness.md); the fork only edited the apex (correct canonical home for the new four-sense distinction box: bare phenomenality / report-grounded / inherited-discourse / bidirectionally-coupled), and inspected the wrong sibling (open-question-ai-consciousness, left untouched as already-consistent). topics/ai-consciousness.md was the genuinely-named second file and is NOT defective (it already has a "two levels" section [dualism-independent vs tenet-derived], the epiphenomenal/inherited-discourse openness at L144/158, and the MQI-contingent-non-discriminating calibration at L156) — so this is LOW severity. VERIFY-FIRST, expect near-no-op: add a one-line pointer from its "two levels" section (~L148) to the apex's canonical four-sense distinction ([[apex/machine-question]]), making explicit that the tenet-derived obstacles target the *bidirectionally-coupled* sense while bare phenomenality stays open under bare dualism — so a summary can't flatten it to "AI is not conscious". Article is 3943w / 4000 hard (57w headroom) — keep it a one-liner, length-aware. Do NOT duplicate the full box (apex is its home). Preserve all existing calibration.
+- **Source**: outer-review-followon
+- **Generated**: 2026-06-08
+
 ### P3: Write concept page on Evidential-Status Discipline
 - **Type**: expand-topic
 - **Status**: pending
@@ -72,13 +78,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   1. **Tier-split.** Whether to split the 34-article apex layer into tiers (e.g. core / cluster / methodology / applied), each carrying its own bar, to keep the layer from reading as a second topic index. Recommended-but-deferred; noted in the apex index Governance Note.
   2. **`evolution-state.yaml` `section_caps`.** Whether to add an explicit advisory `apex/` entry or leave apex governed purely by the prose synthesis threshold. NOT edited in the governance pass (the brief forbade touching section_caps autonomously).
 - **Source**: outer-review (2026-06-08 ChatGPT 5.5 Pro), apex governance pass
-- **Generated**: 2026-06-08
-
-### P2: Add a title-note to the parsimony-case article guarding against an apparent Tenet 5 violation (topics/parsimony-case-for-interactionist-dualism.md)
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-06-08 (ChatGPT 5.5 Pro), §3.3. VERIFIED the article exists. Tenet 5 binds the Map symmetrically — parsimony cannot decide for OR against a framework under incomplete knowledge — and the Dualism Cartography apex correctly frames the dualism-thickness grid as cartographic, not adjudicative. The residual risk is presentation-level: the TITLE "The Parsimony Case for Interactionist Dualism" can read as if parsimony is being used to argue FOR dualism, which would violate Tenet 5. Fix: add a near-top framing note distinguishing "parsimony cannot settle truth" from "mechanism-cost cartography can compare debts" — i.e. this is a mechanism-cost comparison inside the Map's commitments, not an argument that parsimony proves dualism. Apply [[direct-refutation-discipline]] (name the framework-boundary honestly). Verify the article body is already calibrated before editing (the title may be the only issue); length-neutral.
-- **Review file**: `reviews/outer-review-2026-06-08-chatgpt-5-5-pro.md`
-- **Source**: outer-review
 - **Generated**: 2026-06-08
 
 ### P2: Make the voids index's absorbed/folded statuses explicit and reader-visible (voids/voids.md)
@@ -973,6 +972,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-08: Add a title-note to the parsimony-case article guarding against an apparent Tenet 5 violation (topics/parsimony-case-for-interactionist-dualism.md)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-08 (ChatGPT 5.5 Pro), §3.3. VERIFIED the article exists. Tenet 5 binds the Map symmetrically — parsimony cannot decide for OR against a framework under incomplete knowledge — and the Dualism Cartography apex correctly frames the dualism-thickness grid as cartographic, not adjudicative. The residual risk is presentation-level: the TITLE "The Parsimony Case for Interactionist Dualism" can read as if parsimony is being used to argue FOR dualism, which would violate Tenet 5. Fix: add a near-top framing note distinguishing "parsimony cannot settle truth" from "mechanism-cost cartography can compare debts" — i.e. this is a mechanism-cost comparison inside the Map's commitments, not an argument that parsimony proves dualism. Apply [[direct-refutation-discipline]] (name the framework-boundary honestly). Verify the article body is already calibrated before editing (the title may be the only issue); length-neutral.
 
 ### ✓ 2026-06-08: Add a "bare phenomenality vs bidirectionally coupled consciousness" distinction box to the AI cluster (apex/machine-question.md, topics/ai-consciousness.md)
 - **Type**: refine-draft

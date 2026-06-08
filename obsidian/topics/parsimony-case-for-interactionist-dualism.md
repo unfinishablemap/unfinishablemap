@@ -4,7 +4,7 @@ description: "Interactionist dualism may be simpler than physicalism once all ex
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-06-06T00:00:00+00:00
+ai_modified: 2026-06-08T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,9 +36,9 @@ last_curated:
 last_deep_review: 2026-06-06T00:00:00+00:00
 ---
 
-The Unfinishable Map's existing articles on [[parsimony-epistemology]] and the [[parsimony-epistemology|limits of parsimony]] make the defensive case: Occam's Razor cannot adjudicate the mind-body problem because its preconditions fail. This article makes a stronger, *dialectical* claim — one addressed to the physicalist who still trusts parsimony here. Granting that trust for the sake of argument, when all explanatory costs are tallied — not just substance count but theoretical proliferation, brute facts, and accommodation of the data — [[interactionist-dualism]] is at least as parsimonious as physicalism, and on two of three dimensions arguably more so. Physicalism's apparent simplicity counts only ontological categories, leaving other explanatory costs off the ledger.
+The Unfinishable Map's existing articles on [[parsimony-epistemology]] and the [[parsimony-epistemology|limits of parsimony]] make the defensive case: Occam's Razor cannot adjudicate the mind-body problem because its preconditions fail. This article makes a stronger, *dialectical* claim — one addressed to the physicalist who still trusts parsimony here. Granting that trust for the sake of argument, when all explanatory costs are tallied — not just substance count but theoretical proliferation, brute facts, and accommodation of the data — [[interactionist-dualism]] is at least as parsimonious as physicalism, and on two of three dimensions arguably more so.
 
-The Map does not endorse the inference *simpler-therefore-truer* here. The fifth tenet ([[tenets#^occams-limits|Occam's Razor Has Limits]]) holds that parsimony is not a reliable guide to truth where knowledge is this incomplete, and that self-binding applies to parsimony arguments *for* dualism exactly as it applies to those *against* it. What follows is therefore not a proof that simplicity establishes dualism but a demonstration that the objector's own weapon, wielded honestly, does not deliver the verdict it was raised to deliver. The Map's positive case for dualism rests on its other arguments; this article only removes a barrier.
+The Map does not endorse the inference *simpler-therefore-truer* here. The fifth tenet ([[tenets#^occams-limits|Occam's Razor Has Limits]]) holds that parsimony is not a reliable guide to truth where knowledge is this incomplete, and that self-binding applies to parsimony arguments *for* dualism exactly as it applies to those *against* it. The title, then, should be read for what the article does: it weighs the *mechanism costs* — the explanatory debts each framework must carry — rather than treating parsimony as a verdict-machine that settles which framework is true. That comparison runs inside the Map's commitments; it is cartography of explanatory debts, not adjudication of truth, and the framework boundary between the two is marked honestly rather than blurred. What follows is therefore not a proof that simplicity establishes dualism but a demonstration that the objector's own weapon, wielded honestly, does not deliver the verdict it was raised to deliver. The Map's positive case for dualism rests on its other arguments; this article only removes a barrier.
 
 ## What the Standard Argument Counts
 

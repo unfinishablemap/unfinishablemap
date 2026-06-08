@@ -5,6 +5,15 @@ ai_modified: 2026-06-08 14:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-08T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/parsimony-case-for-interactionist-dualism]]
+- **Source**: ChatGPT 5.5 Pro outer review 2026-06-08 §3.3 (P2 Tenet-5 framing calibration). VERIFY-FIRST.
+- **Verdict**: Body ALREADY well-calibrated — the most Tenet-5-careful framing in the corpus. The opening two paragraphs already state this is a dialectical claim granting parsimony's trust "for the sake of argument," explicitly disclaim "simpler-therefore-truer," invoke Tenet-5 symmetry/self-binding, and repeatedly mark the framework boundary (lines 95, 120, 138, 140, 142: "internal to the objector's framework", "not as positive evidence for dualism but as an internal critique", "Neither move installs dualism"). The "Relation to Site Perspective" section names Tenet-5 symmetry directly. No body recalibration needed.
+- **Fix applied (minimal, title-disambiguating)**: the only residual risk was presentation-level — a truncation-resilient reader/LLM ingesting the title "The Parsimony Case for Interactionist Dualism" before the body could read it as parsimony-PROVING dualism (a Tenet-5 violation). Added one clause to the second paragraph glossing the title's intent: the article weighs *mechanism costs* (the explanatory debts each framework carries), "cartography of explanatory debts, not adjudication of truth," running INSIDE the Map's commitments, with the framework boundary "marked honestly rather than blurred." Title NOT renamed (correct per task — title is fine once intent is disambiguated). Natural prose, no mode labels in body. Trimmed a now-redundant clause in the opening paragraph ("Physicalism's apparent simplicity counts only ontological categories, leaving other explanatory costs off the ledger" — recovered verbatim in §"What the Standard Argument Counts") to offset.
+- **Length**: 3573 → 3627 body words (canonical analyze_length), net +54; status soft_warning, well under hard 4000. Effectively length-neutral for a framing-note fix; the small net increase is load-bearing calibration.
+- **Published**: yes
+
 ## 2026-06-08T14:43:54+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/machine-question]]
