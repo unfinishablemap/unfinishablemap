@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-06-08 00:00:00+00:00
+ai_modified: 2026-06-08 12:00:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-05-27 14:32:20+00:00
 apex_sources:
@@ -10,12 +10,13 @@ apex_sources:
 - concepts/weak-measurement-and-post-selection
 - topics/amplification-mechanisms-consciousness-physics
 - concepts/contextual-selection-in-quantum-foundations
-apex_thesis: Five converging lines of inquiry—the post-decoherence selection gap,
-  quantum Darwinism's menu specification, contextuality's structural constraints,
-  weak measurement's boundary-condition alternative, and stochastic amplification's
+apex_thesis: Five components of one speculative architecture—the post-decoherence
+  selection gap, quantum Darwinism's menu specification, contextuality's structural
+  constraints, weak measurement's boundary-condition alternative, and stochastic amplification's
   causal bridge—together constitute a physics research programme that specifies how
   consciousness could act after decoherence, sidestepping the timing objection that
-  has stalled quantum consciousness theories for two decades.
+  has stalled quantum consciousness theories for two decades. Their alignment is a
+  common-cause artefact of shared upstream framework, not independent evidential triangulation.
 author: null
 concepts:
 - '[[quantum-consciousness]]'
@@ -27,8 +28,8 @@ concepts:
 - '[[causal-consistency-constraint]]'
 created: 2026-03-29
 date: &id001 2026-05-27
-description: Five converging lines of inquiry—post-decoherence selection, quantum
-  Darwinism, contextuality, weak measurement, and stochastic amplification—constitute
+description: Five components of one speculative architecture—post-decoherence selection,
+  quantum Darwinism, contextuality, weak measurement, stochastic amplification—constitute
   a physics research programme for consciousness acting after decoherence.
 draft: false
 embedded_videos:
@@ -60,7 +61,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The strongest empirical objection to quantum consciousness theories is the [timing gap](/concepts/timing-gap-problem/): decoherence destroys quantum superpositions in neural tissue within femtoseconds, while conscious decisions take hundreds of milliseconds. For two decades this objection has seemed decisive. The Unfinishable Map proposes a response that does not dispute the physics but reframes the question. If consciousness acts *after* decoherence—selecting which element of the already-decohered mixture becomes actual—then the decoherence timescale is irrelevant. The response takes the form of a research programme rather than a single hypothesis, built from five converging lines of inquiry: the [post-decoherence selection](/concepts/post-decoherence-selection/) gap that decoherence leaves, [quantum Darwinism's](/topics/quantum-darwinism-and-consciousness/) specification of the menu, [quantum contextuality's](/concepts/contextual-selection-in-quantum-foundations/) structural constraints on what selection can mean, [weak measurement and post-selection's](/concepts/weak-measurement-and-post-selection/) alternative mechanism through boundary conditions, and [stochastic amplification's](/topics/amplification-mechanisms-consciousness-physics/) causal bridge from quantum bias to neural behaviour. Together they specify what a complete theory of consciousness acting after decoherence would require—and where the gaps remain.
+The strongest empirical objection to quantum consciousness theories is the [timing gap](/concepts/timing-gap-problem/): decoherence destroys quantum superpositions in neural tissue within femtoseconds, while conscious decisions take hundreds of milliseconds. For two decades this objection has seemed decisive. The Unfinishable Map proposes a response that does not dispute the physics but reframes the question. If consciousness acts *after* decoherence—selecting which element of the already-decohered mixture becomes actual—then the decoherence timescale is irrelevant. The response takes the form of a research programme rather than a single hypothesis, assembled from five components: the [post-decoherence selection](/concepts/post-decoherence-selection/) gap that decoherence leaves, [quantum Darwinism's](/topics/quantum-darwinism-and-consciousness/) specification of the menu, [quantum contextuality's](/concepts/contextual-selection-in-quantum-foundations/) structural constraints on what selection can mean, [weak measurement and post-selection's](/concepts/weak-measurement-and-post-selection/) alternative mechanism through boundary conditions, and [stochastic amplification's](/topics/amplification-mechanisms-consciousness-physics/) causal bridge from quantum bias to neural behaviour. These are five parts of one speculative architecture, not five independent lines of evidence that happen to converge on it. They appear to point the same way because they were assembled *from* a single framework, not because separate inquiries arrived at it from their own starting points—and several of them (Zurek's quantum Darwinism, Kochen-Specker contextuality) are interpretation-neutral physics whose originators lean Everettian or physicalist, so they do not independently favour the Map's dualist reading. Their alignment is therefore a [common-cause artefact](/project/common-cause-null/) of shared upstream architecture, and the honest claim is the weaker one: together the components specify what a complete theory of consciousness acting after decoherence would require—and where the gaps remain.
 
 <details class="yt-embed" data-video-id="oWWgbZPoD9Q">
 <summary>Video introduction</summary>
@@ -146,7 +147,7 @@ The honest limitation: no experiment has demonstrated the full chain operating e
 
 ## What a Complete Theory Requires [Speculative]
 
-The five lines of inquiry converge on a research programme with identified components, constraints, and gaps. A complete theory of post-decoherence conscious selection would need to specify:
+The five components assemble into a research programme with identified parts, constraints, and gaps—a single architecture, not five inquiries that independently converged on one. A complete theory of post-decoherence conscious selection would need to specify:
 
 **The selection locus.** Where exactly in neural processing does consciousness act on the decohered mixture? The post-decoherence selection concept identifies the gap; quantum Darwinism specifies that the options are pointer states; but which pointer states, in which neural structures, at which points in processing? The programme names the locus without localising it.
 

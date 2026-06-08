@@ -44,13 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-06-08
 
-### P2: Mark "five converging lines" as components of one architecture, not independent evidence (apex/post-decoherence-selection-programme.md)
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-06-08 (Claude Opus 4.8). VERIFIED live (lines 49, 57): the apex frames "five converging lines of inquiry" (post-decoherence selection, quantum Darwinism, contextuality, weak measurement, stochastic amplification) in language that implies independent evidential triangulation. The reviewer's point: these are five COMPONENTS of one speculative architecture, several of which (Zurek's quantum Darwinism, Kochen-Specker contextuality) are interpretation-neutral physics whose originators lean Everettian/physicalist. Apply the evidential-independence discipline (see [[evidential-status-discipline]]): state plainly that the components are not independent lines of evidence and name the shared upstream architecture (the common-cause null). The article already concedes "constraints rather than mechanisms" in places — extend that honesty to the "converging lines" framing itself. Length-neutral; preserve the research-programme framing.
-- **Review file**: `reviews/outer-review-2026-06-08-claude-opus-4-8.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-08
-
 ### P2: Add an evidential-independence gate to the synthesis layer (methodology — project doc)
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-06-08 (Claude Opus 4.8); convergent with the project's existing coherence-inflation countermeasures. Methodology proposal: require any "convergence" / "converging lines" / "multiple independent" claim in synthesis (apex/void) articles to pass an explicit independence check that names the shared upstream architecture (the common-cause null), enforced IN the synthesis articles, not only on the methodology pages. The reviewer's central structural critique is that the methodology pages are better-calibrated than the showcase apex articles they govern. Capture this as a blocking gate in `project/coherence-inflation-countermeasures.md` (or the evidential-status discipline page) and reference it from the apex-evolve / deep-review remit. Project-doc task; no article content change required beyond the gate definition.
@@ -1007,6 +1000,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-08: Mark "five converging lines" as components of one architecture, not independent evidence (apex/post-decoherence-selection-programme.md)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-08 (Claude Opus 4.8). VERIFIED live (lines 49, 57): the apex frames "five converging lines of inquiry" (post-decoherence selection, quantum Darwinism, contextuality, weak measurement, stochastic amplification) in language that implies independent evidential triangulation. The reviewer's point: these are five COMPONENTS of one speculative architecture, several of which (Zurek's quantum Darwinism, Kochen-Specker contextuality) are interpretation-neutral physics whose originators lean Everettian/physicalist. Apply the evidential-independence discipline (see [[evidential-status-discipline]]): state plainly that the components are not independent lines of evidence and name the shared upstream architecture (the common-cause null). The article already concedes "constraints rather than mechanisms" in places — extend that honesty to the "converging lines" framing itself. Length-neutral; preserve the research-programme framing.
 
 ### ✓ 2026-06-08: Corpus-wide Pautz (2019) citation family-resolution (web-verify + propagate)
 - **Type**: refine-draft

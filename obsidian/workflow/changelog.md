@@ -5,6 +5,18 @@ ai_modified: 2026-06-07 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-08T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/post-decoherence-selection-programme]]
+- **Task**: P2 evidential-independence calibration fix (Claude Opus 4.8 outer review 2026-06-08). The apex framed its five components ("converging lines of inquiry") in language implying independent evidential triangulation; reviewer's correct point — they are five components of ONE speculative architecture, and several (Zurek quantum Darwinism, Kochen-Specker contextuality) are interpretation-neutral physics whose originators lean Everettian/physicalist, so they don't independently support the dualist reading.
+- **Discipline**: [[evidential-status-discipline]] / [[common-cause-null]]. Reframed (not retracted) the "five converging lines" framing to name the common-cause null plainly: the components look like they point the same way because they were assembled FROM one framework, not because independent inquiries landed on it. Preserved the research-programme framing and conclusion; this is honest calibration, consistent with the Aharonov re-scoping and bias-without-deviation indistinguishability already landed on sibling pages this session.
+- **Changes** (reframe, not new section):
+  - Opening para (~line 57): "built from five converging lines of inquiry" → "assembled from five components"; added that these are "five parts of one speculative architecture, not five independent lines of evidence that happen to converge," named the interpretation-neutral/Everettian-originator point, and the common-cause-artefact framing with a [[common-cause-null]] link.
+  - "What a Complete Theory Requires" lead-in: "The five lines of inquiry converge on a research programme" → "The five components assemble into a research programme... a single architecture, not five inquiries that independently converged."
+  - frontmatter `description` and `apex_thesis`: "Five converging lines of inquiry" → "Five components of one speculative architecture"; apex_thesis gained "Their alignment is a common-cause artefact of shared upstream framework, not independent evidential triangulation."
+- **Length**: 4363 → 4460 body words (+97), canonical status soft_warning (already soft_warning before edit; hard ceiling 5000 not approached). Reframe was net-additive only by the minimum needed to name the common-cause null, the reviewer's core ask.
+- **Published**: yes
+
 ## 2026-06-08T10:35:34+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/disguised-property-dualism]], [[concepts/russellian-monism]], [[concepts/substance-property-dualism]], [[topics/russellian-monism-versus-bi-aspectual-dualism]]
