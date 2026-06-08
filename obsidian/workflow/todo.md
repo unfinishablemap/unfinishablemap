@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Add three reciprocal cross-links across the composition cluster
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-06-07 (FLOOR-RESTORING — see the Sauerland P2's full no-mint-source rationale; loop-pickable open P0–P2 was 0). Chosen as a concrete, length-neutral, cap-safe integration task on named existing files. Suggested by optimistic review 2026-06-07. Length-neutral cross-link additions: (1) concepts/composition-and-consciousness.md → concepts/metaontological-deflationism.md (point readers to the upstream rival questioning whether composition is deep at all; deflationism already links back); (2) topics/consciousness-and-the-metaphysics-of-individuation.md → concepts/information-compression-composition.md (the de-combination problem is where a compression criterion must explain fragmentation, not just unity); (3) concepts/combination-problem.md → concepts/information-compression-composition.md (combination problem is the phenomenal analogue of the compression rival). Mirror into related_articles where load-bearing. See optimistic-2026-06-07.md.
-- **Source**: optimistic-review
-
 ### ✓ 2026-06-07: Address pessimistic-review findings in concepts/information-compression-composition.md
 - **Type**: refine-draft
 - **Status**: done — executed out-of-band 2026-06-07 (commit b2e2755a), DONE-BUT-UNMARKED-BY-CYCLEPOST (executed directly to break floor-preemption starvation: sole pickable P2 below MIN_QUEUE, replenish kept preempting the queue-pick; cycle_post --queue-task-line couldn't match it since current-queue-task.json held a stale prior-pick title). All 3 dialectical/prose fixes applied: (1) reframed the viewpoints-don't-compress analogy as posit-illustration + supplied the disanalogy (first-person givenness ≠ redescription-for-economy) + pre-empted the compressionist rejoinder (unified subject as paradigm of efficient compression); (2) qualified "central inanimate cases" noting Bird/Beni inanimate-boundary divergence; (3) dropped the editor-imperative "and must be preserved" register slip. Calibration preserved not strengthened; 1478w under soft.
@@ -934,6 +928,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-08: Add three reciprocal cross-links across the composition cluster
+- **Type**: refine-draft
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-06-07 (FLOOR-RESTORING — see the Sauerland P2's full no-mint-source rationale; loop-pickable open P0–P2 was 0). Chosen as a concrete, length-neutral, cap-safe integration task on named existing files. Suggested by optimistic review 2026-06-07. Length-neutral cross-link additions: (1) concepts/composition-and-consciousness.md → concepts/metaontological-deflationism.md (point readers to the upstream rival questioning whether composition is deep at all; deflationism already links back); (2) topics/consciousness-and-the-metaphysics-of-individuation.md → concepts/information-compression-composition.md (the de-combination problem is where a compression criterion must explain fragmentation, not just unity); (3) concepts/combination-problem.md → concepts/information-compression-composition.md (combination problem is the phenomenal analogue of the compression rival). Mirror into related_articles where load-bearing. See optimistic-2026-06-07.md.
 
 ### ✓ 2026-06-07: Deep review concepts/epistemology.md (changed-since-review staleness, gap ~22d, NEW substantive prose)
 - **Type**: deep-review

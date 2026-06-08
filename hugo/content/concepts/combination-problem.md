@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-06-07 17:35:00+00:00
+ai_modified: 2026-06-08 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -29,6 +29,7 @@ related_articles:
 - '[[tenets]]'
 - '[[process-and-consciousness]]'
 - '[[metaontological-deflationism]]'
+- '[[information-compression-composition]]'
 - '[[mereology-of-mind]]'
 title: The Combination Problem
 topics:
@@ -125,7 +126,7 @@ The combination problem is not just a technical difficulty—it threatens panpsy
 
 Panpsychism aimed to avoid the hard problem: the seeming impossibility of experience emerging from non-experiential matter. But if the combination problem is equally intractable, panpsychism hasn't made progress—it has merely traded "how does experience arise from non-experience?" for "how do micro-experiences combine into macro-experience?"
 
-The deeper issue is [phenomenal non-compositionality](/concepts/composition-and-consciousness/): consciousness simply does not compose the way physical properties do. (Whether there is a deep compositional fact here at all is denied upstream by [metaontological deflationism](/concepts/metaontological-deflationism/), which the Map treats as the load-bearing rival to its composition arguments.) This is why [three independent answers to the Special Composition Question](/topics/consciousness-and-the-metaphysics-of-composition/)—van Inwagen's organicism, Merricks' eliminativism, and McQueen and Tsuchiya's IIT-based approach—all converge on consciousness as the criterion for genuine composition. Two masses combine into a larger mass; two perspectives do not seem to merge into a third perspective. The evidence here—introspective unity, the convergence of the subject-combination question—earns the epistemic reading: we cannot conceive or introspect such a merging. The stronger, metaphysical reading—that no such merging *can* occur—is a further bet, and one that owes an account of split-brain and dissociative-identity cases, which arguably display subjects dividing or coexisting. This asymmetry between physical and phenomenal composition may explain why every proposed solution to the combination problem—phenomenal bonding, co-consciousness, combinatorial infusion—remains unsatisfying. They attempt composition where composition may be categorically impossible.
+The deeper issue is [phenomenal non-compositionality](/concepts/composition-and-consciousness/): consciousness simply does not compose the way physical properties do. (Whether there is a deep compositional fact here at all is denied upstream by [metaontological deflationism](/concepts/metaontological-deflationism/), which the Map treats as the load-bearing rival to its composition arguments.) The combination problem is the phenomenal analogue of the general compositional question that [the compression criterion](/concepts/information-compression-composition/) answers for physical objects—where parts compose when treating them as one compresses the world's description—and the contrast is instructive: a criterion that works smoothly for masses and molecules has no traction on subjects, since collapsing two perspectives into one buys no descriptive economy. This is why [three independent answers to the Special Composition Question](/topics/consciousness-and-the-metaphysics-of-composition/)—van Inwagen's organicism, Merricks' eliminativism, and McQueen and Tsuchiya's IIT-based approach—all converge on consciousness as the criterion for genuine composition. Two masses combine into a larger mass; two perspectives do not seem to merge into a third perspective. The evidence here—introspective unity, the convergence of the subject-combination question—earns the epistemic reading: we cannot conceive or introspect such a merging. The stronger, metaphysical reading—that no such merging *can* occur—is a further bet, and one that owes an account of split-brain and dissociative-identity cases, which arguably display subjects dividing or coexisting. This asymmetry between physical and phenomenal composition may explain why every proposed solution to the combination problem—phenomenal bonding, co-consciousness, combinatorial infusion—remains unsatisfying. They attempt composition where composition may be categorically impossible.
 
 Chalmers acknowledges this: "The combination problem is perhaps the hardest problem of panpsychism... It's not clear that panpsychism has an advantage over physicalism here."
 
