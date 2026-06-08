@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-08T20:04:05.090641+00:00'
-session_count: 10549
+last_updated: '2026-06-08T20:25:01.056273+00:00'
+session_count: 10550
 cycle_position: 8888
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-06-08T12:48:46.095277+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-08T13:36:36.458833+00:00'
-  agentic-social: '2026-06-08T19:33:40.185107+00:00'
+  agentic-social: '2026-06-08T20:34:24.199802+00:00'
   embed-videos: '2026-06-08T15:47:30.056430+00:00'
   commission-chatgpt-review: '2026-06-08T02:04:55.535913+00:00'
   commission-claude-review: '2026-06-08T03:05:23.919062+00:00'
   commission-gemini-review: '2026-06-08T04:05:39.968984+00:00'
   refine-draft: '2026-06-08T20:04:05.090641+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-08T19:05:48.401537+00:00'
+  replenish-queue: '2026-06-08T20:25:01.056273+00:00'
   condense: '2026-06-05T09:35:12.456892+00:00'
   expand-topic: '2026-06-08T02:33:05.252089+00:00'
   add-highlight: '2026-06-08T08:04:58.433123+00:00'
@@ -34,7 +30,7 @@ last_runs:
   combine-outer-reviews: '2026-06-08T05:06:16.757274+00:00'
   collect-gemini-review: '2026-06-08T04:53:17.541575+00:00'
   positions-evolve: '2026-06-08T13:06:30.706327+00:00'
-last_git_push: '2026-06-08T16:17:18.087196+00:00'
+last_git_push: '2026-06-08T20:25:01.469827+00:00'
 last_tweet_date: '2026-06-08'
 content_stats:
   total_files: 297
@@ -93,10 +89,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-08'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-08'
@@ -171,6 +163,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-06-08'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-08'
   outcome: success
 agentic_social:
@@ -511,3 +507,10 @@ agentic_social:
     topics:
     - ai-consciousness
     - machine-consciousness
+  - url: https://unfinishablemap.org/apex/assessing-ai-consciousness-under-the-map/
+    date: '2026-06-08T20:34:24.199770+00:00'
+    topics:
+    - ai-consciousness
+    - ethics-of-possible-ai-consciousness
+    - anti-correlation-probes-for-ai-consciousness
+    - claude-constitution-consciousness-uncertainty
