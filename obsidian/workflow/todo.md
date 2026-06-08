@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Write concept page on Evidential-Status Discipline
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-08 (see `reviews/optimistic-2026-06-08.md`). The slug `[[evidential-status-discipline]]` is cited as a discipline-tag across `positions/`, `tenets/`, animal-consciousness articles, and recent changelog/refine work but has no home page. Page should give the canonical statement of the five-tier scale (established → strongly supported → realistic possibility → live hypothesis → speculative integration) and the core rule "defeater-removal keeps a hypothesis live but does not supply positive evidence / is not a tier-upgrade." `consciousness-in-simple-organisms.md` is the worked exemplar to draw from. NOTE: concepts/ is near its cap (~251 on disk vs 270) — verify headroom before placing; this is disciplinary infrastructure, not topical filler, so it is worth a slot. Needs human approval.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-08
+
+### P3: Write concept page on Framework-Stage Calibration
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-08 (see `reviews/optimistic-2026-06-08.md`). The slug `[[framework-stage-calibration]]` (pre-Keplerian / Keplerian / Newton-stage self-assessment vocabulary) is referenced in the optimistic-review persona spec and apex calibration work but has no page. Short page giving the corpus a shared way to flag a claim as an early-stage research programme without over-claiming Newton-stage results. Tenet alignment: Occam's Razor Has Limits. Verify concepts/ cap headroom before placing. Needs human approval.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-08
+
 ### P3: Seat two counterarguments + fix one broken sentence in compatibilist-symmetry-challenge.md
 - **Type**: refine-draft
 - **Notes**: From pessimistic review 2026-06-08 (see `reviews/pessimistic-2026-06-08-compatibilist-symmetry-challenge.md`). Article is strong and disciplined; this is a light strengthening pass, NOT a rewrite. (1) GRAMMAR FIX (do this regardless): §"What the Discipline Forbids" 4th bullet ends with a verbless clause — "What it forbids is asserting that separating work in the central moral discourse..." → "...asserting separating work in the central moral discourse...". (2) STRONGEST SUBSTANTIVE FINDING: residue (c) "regret over what genuinely was an alternative / an open future as a fact about the world" leans on the tenets (No-Many-Worlds + the dualist interface's indeterminism), so its "separating" force is internal to the Map's framework, not a tenet-neutral moral discriminator — which is consistent with the article's own anti-inflation discipline. Add a half-sentence conceding this; it strengthens rather than weakens the move. (3) Clarify "availably equivalent": it means first-order moral *verdicts* are equivalent while the irreducible-vs-derivative *grounding* differs — so the apex/topic's irreducible-vs-derivative contrast and "availably equivalent" are consistent (same outputs, different sourcehood story). Length-neutral; preserve all calibration/evidential-status hedges and the natural prose (no editor-vocabulary labels).
