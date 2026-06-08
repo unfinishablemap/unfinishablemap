@@ -9,6 +9,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-08T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [minimal-consciousness](/concepts/minimal-consciousness/)
+- **Source**: optimistic-review named-anchor harvest (standing P2, executed out-of-band — floor-preemption blocked replenish restore). Assess-first + license-to-decline.
+- **Original score**: N/A (anchor-harvest, not a quality refine)
+- **Changes**:
+  - PRIMARY: Promoted the existing three-part MPE-to-organism disanalogy passage (subtractive-vs-never-had-it; metarepresented report as enriched reconstruction; felt-similarity-as-heuristic) from an inline **bold lead-in** to its own H3 heading "The MPE-to-Organism Disanalogy", creating a stable Hugo deep-link anchor `/concepts/minimal-consciousness/#the-mpe-to-organism-disanalogy`. No new concept page (concepts/ near cap). Prose unchanged; the de-rating framing ("tenet-coherent, not evidence-elevating", evidential weight zero) preserved verbatim. Body word count 2449→2447 (under concepts soft 2500; the bold phrase replaced by heading netted -2w).
+  - SECONDARY (3 reciprocal one-line pointers, added only where the de-rating move is genuinely invoked):
+    - [edge-states-and-void-probes](/voids/edge-states-and-void-probes/) L136 — already made the "MPE meditator approaches from above what the nematode inhabits from below" inference; added pointer naming the three disanalogies + zero-weight. 3479→3519w.
+    - [animal-consciousness](/topics/animal-consciousness/) L101 — "advanced meditators report... cognitive simplicity need not rule out consciousness" inference; added "heuristic, not evidential" pointer. 3825→3865w.
+    - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) L191 — explicit "*C. elegans*... could have something like MPE" transfer; added "coherence ≠ evidence" pointer. 3983→4023w.
+  - DECLINED (assess-first): witness-consciousness, contentless-awareness, infant-consciousness — none invokes the meditator→simple-organism de-rating move (witness = witness-structure; contentless = evidence question; infant = pre-reflective onset). Per the "don't force five" instruction, no pointer added.
+  - HARD CONSTRAINTS HONORED: de-rating framing never upgraded to a tier-lift engine (each pointer reasserts evidential weight zero); applied [evidential-status-discipline](/project/evidential-status-discipline/); natural prose, no mode labels; no HTML-comment log block. Two topic targets sit in pre-existing hard_warning (over soft, under critical) — the ~40w one-liners did not move them into a new status band.
+- **Published**: yes
+
 ## 2026-06-08T19:48:43+00:00 - refine-draft
 - **Status**: Success
 - **File**: [implicit-memory](/concepts/implicit-memory/)

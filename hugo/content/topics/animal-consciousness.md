@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-03 07:08:33+00:00
+ai_modified: 2026-06-08 12:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -100,7 +100,7 @@ Nagel's 1974 paper established the framework: an organism is conscious "if and o
 
 ## The Void of Animal Experience
 
-Animal consciousness is a [void](/voids/)—accessible through inference but escaping full comprehension. Dismissing it because it is hard to verify confuses epistemic limitation with metaphysical fact. [Contemplative traditions](/topics/consciousness-in-simple-organisms/#contemplative-evidence) offer indirect support: advanced meditators report states where cognitive content diminishes radically while awareness persists, suggesting cognitive simplicity need not rule out consciousness.
+Animal consciousness is a [void](/voids/)—accessible through inference but escaping full comprehension. Dismissing it because it is hard to verify confuses epistemic limitation with metaphysical fact. [Contemplative traditions](/topics/consciousness-in-simple-organisms/#contemplative-evidence) offer indirect support: advanced meditators report states where cognitive content diminishes radically while awareness persists, suggesting cognitive simplicity need not rule out consciousness. This bridge is heuristic, not evidential: [three disanalogies](/concepts/minimal-consciousness/#the-mpe-to-organism-disanalogy) block any inference from the meditator's subtractive state to the simple organism's, and the move marks its own evidential weight as zero.
 
 ## Multiple Independent Origins
 

@@ -68,13 +68,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review (2026-06-08 ChatGPT 5.5 Pro), apex governance pass
 - **Generated**: 2026-06-08
 
-### P2: Make absorbed/folded/superseded status machine-readable in frontmatter (methodology — project doc)
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-06-08 (ChatGPT 5.5 Pro), methodology improvement 4. The site records absorptions/foldings in prose but they are not machine-readable. The reviewer proposes a frontmatter convention exposing e.g. `status: active | folded | absorbed | superseded | historical` and `folded_into:` targets for voids, concepts, and topics. This is a SCHEMA/methodology proposal, not a content edit — it touches the frontmatter schema (documented in CLAUDE.md and enforced by tools/curate validation) and the sync converter. Treat as a project-doc proposal: capture it in the appropriate project/ methodology doc for human/operator decision rather than unilaterally changing the schema. Cross-reference coalesce-stale-hugo-duplicate-urls / archival-link-rot — a machine-readable status field would also help the known stale-hugo-duplicate problem. Flag for human/operator: schema changes need a coordinated code + validation + sync update, not a doc-only edit.
-- **Review file**: `reviews/outer-review-2026-06-08-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-08
-
 ### ✓ 2026-06-07: Address pessimistic-review findings in concepts/information-compression-composition.md
 - **Type**: refine-draft
 - **Status**: done — executed out-of-band 2026-06-07 (commit b2e2755a), DONE-BUT-UNMARKED-BY-CYCLEPOST (executed directly to break floor-preemption starvation: sole pickable P2 below MIN_QUEUE, replenish kept preempting the queue-pick; cycle_post --queue-task-line couldn't match it since current-queue-task.json held a stale prior-pick title). All 3 dialectical/prose fixes applied: (1) reframed the viewpoints-don't-compress analogy as posit-illustration + supplied the disanalogy (first-person givenness ≠ redescription-for-economy) + pre-empted the compressionist rejoinder (unified subject as paradigm of efficient compression); (2) qualified "central inanimate cases" noting Bird/Beni inanimate-boundary divergence; (3) dropped the editor-imperative "and must be preserved" register slip. Calibration preserved not strengthened; 1478w under soft.
@@ -953,6 +946,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-08: Make absorbed/folded/superseded status machine-readable in frontmatter (methodology — project doc)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-08 (ChatGPT 5.5 Pro), methodology improvement 4. The site records absorptions/foldings in prose but they are not machine-readable. The reviewer proposes a frontmatter convention exposing e.g. `status: active | folded | absorbed | superseded | historical` and `folded_into:` targets for voids, concepts, and topics. This is a SCHEMA/methodology proposal, not a content edit — it touches the frontmatter schema (documented in CLAUDE.md and enforced by tools/curate validation) and the sync converter. Treat as a project-doc proposal: capture it in the appropriate project/ methodology doc for human/operator decision rather than unilaterally changing the schema. Cross-reference coalesce-stale-hugo-duplicate-urls / archival-link-rot — a machine-readable status field would also help the known stale-hugo-duplicate problem. Flag for human/operator: schema changes need a coordinated code + validation + sync update, not a doc-only edit.
 
 ### ✓ 2026-06-08: Fix attribution + correlation→causation slide in concepts/implicit-memory.md
 - **Type**: refine-draft

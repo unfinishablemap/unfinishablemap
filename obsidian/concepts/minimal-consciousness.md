@@ -4,7 +4,7 @@ description: "The simplest form of consciousness—bare phenomenal experience wi
 created: 2026-01-31
 modified: 2026-05-21
 human_modified: null
-ai_modified: 2026-06-08T00:00:00+00:00
+ai_modified: 2026-06-08T12:00:00+00:00
 last_deep_review: 2026-06-04T18:00:51+00:00
 draft: false
 topics:
@@ -59,7 +59,9 @@ Thomas Metzinger's work on minimal phenomenal experience (MPE) describes states 
 
 Metzinger proposes that MPE reveals what is fundamental to consciousness by subtracting elaborations. The residue—bare awareness—may approximate what minimal consciousness is like across species and systems.
 
-**A caution on the MPE-to-organism analogy.** It is tempting to treat a human's content-stripped MPE state as a window onto what a simple organism's experience is *like*—the meditator approaches "from above" what a nematode or *Hydra* might inhabit "from below." The analogy is heuristically suggestive but methodologically fragile, and the caution is reusable wherever the comparison is drawn (including the "nematode from below / MPE from above" framing in [[edge-states-and-void-probes|edge-state probes]]). Three disanalogies block any inference from the human case to the organism case. First, MPE is a *subtractive* state in a system that retains the full machinery of rich consciousness—the elaborations are suppressed, not absent—whereas a simple organism never had that machinery, so structural similarity at the phenomenal surface need not indicate similarity in kind. Second, the human report is the product of a metarepresenting system describing a state after the fact, and the [[minimal-consciousness-void|enrichment problem]] establishes that this report is itself an enriched reconstruction, not a transparent readout of the minimum. Third, the comparison runs through felt similarity, which the [[noetic-feelings-void|noetic-feelings]] account flags as a heuristic signal rather than a perception of shared structure. The analogy therefore neither raises nor lowers the probability that simple organisms are conscious; it is a methodological bridge to be inspected, not evidence, and per [[evidential-status-discipline]] tenet-coherence does not upgrade where the empirical case stands.
+### The MPE-to-Organism Disanalogy
+
+It is tempting to treat a human's content-stripped MPE state as a window onto what a simple organism's experience is *like*—the meditator approaches "from above" what a nematode or *Hydra* might inhabit "from below." The analogy is heuristically suggestive but methodologically fragile, and the caution is reusable wherever the comparison is drawn (including the "nematode from below / MPE from above" framing in [[edge-states-and-void-probes|edge-state probes]]). Three disanalogies block any inference from the human case to the organism case. First, MPE is a *subtractive* state in a system that retains the full machinery of rich consciousness—the elaborations are suppressed, not absent—whereas a simple organism never had that machinery, so structural similarity at the phenomenal surface need not indicate similarity in kind. Second, the human report is the product of a metarepresenting system describing a state after the fact, and the [[minimal-consciousness-void|enrichment problem]] establishes that this report is itself an enriched reconstruction, not a transparent readout of the minimum. Third, the comparison runs through felt similarity, which the [[noetic-feelings-void|noetic-feelings]] account flags as a heuristic signal rather than a perception of shared structure. The analogy therefore neither raises nor lowers the probability that simple organisms are conscious; it is a methodological bridge to be inspected, not evidence, and per [[evidential-status-discipline]] tenet-coherence does not upgrade where the empirical case stands.
 
 ### The Vijñāna Distinction
 

@@ -4,7 +4,7 @@ description: "Do animals have conscious experience? Convergent evidence suggests
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-06-03T07:08:33+00:00
+ai_modified: 2026-06-08T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -98,7 +98,7 @@ Nagel's 1974 paper established the framework: an organism is conscious "if and o
 
 ## The Void of Animal Experience
 
-Animal consciousness is a [[voids|void]]—accessible through inference but escaping full comprehension. Dismissing it because it is hard to verify confuses epistemic limitation with metaphysical fact. [[consciousness-in-simple-organisms#Contemplative Evidence|Contemplative traditions]] offer indirect support: advanced meditators report states where cognitive content diminishes radically while awareness persists, suggesting cognitive simplicity need not rule out consciousness.
+Animal consciousness is a [[voids|void]]—accessible through inference but escaping full comprehension. Dismissing it because it is hard to verify confuses epistemic limitation with metaphysical fact. [[consciousness-in-simple-organisms#Contemplative Evidence|Contemplative traditions]] offer indirect support: advanced meditators report states where cognitive content diminishes radically while awareness persists, suggesting cognitive simplicity need not rule out consciousness. This bridge is heuristic, not evidential: [[minimal-consciousness#The MPE-to-Organism Disanalogy|three disanalogies]] block any inference from the meditator's subtractive state to the simple organism's, and the move marks its own evidential weight as zero.
 
 ## Multiple Independent Origins
 
