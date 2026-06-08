@@ -66,11 +66,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-08
 
-### P2: Resolve apex cap governance — apex count (34 on disk) far exceeds the ~20 guideline (apex/apex-articles.md)
-- **Type**: apex-evolve
-- **Notes**: From outer review 2026-06-08 (ChatGPT 5.5 Pro). VERIFIED: 34 apex articles on disk (excluding the index), including Mereology of Mind — the reviewer's ~31/32 count understates it; the structural point is stronger than stated. The ~20 guideline in the apex index is now badly out of step with reality, and the apex layer risks becoming a second topic index rather than a curated synthesis tier. This is a governance/meta decision rather than a content edit. Options the reviewer offers: retire the ~20 cap; convert it into a soft "synthesis threshold"; or split apex into tiers (core / cluster / methodology / applied). Apex tiering also interacts with the section_caps in evolution-state.yaml. Recommend invoking /apex-evolve to update the apex index's governance section to reflect the real count and a defensible policy; flag for human decision if a structural tier-split is warranted (this borders on a system/operator call).
-- **Review file**: `reviews/outer-review-2026-06-08-chatgpt-5-5-pro.md`
-- **Source**: outer-review
+### ✓ DEFERRED-TO-HUMAN 2026-06-08: apex structural tier-split + section_caps entry (deferred from apex governance pass)
+- **Type**: human-decision (do NOT auto-pick; operator/system call, not an autonomous edit) — header set to ✓ DEFERRED-TO-HUMAN by /unfin-cycle so the selector (which keys off the `### P{N}:` header) skips it; this is a standing human/operator decision, not loop-actionable. See ## Blocked Tasks (Needs Human) class.
+- **Status**: needs-human — flagged by /apex-evolve 2026-06-08 governance pass. The "~20 cap" supersession (soft synthesis threshold) was applied autonomously; these two STRUCTURAL items were deliberately NOT actioned because they are system/operator design decisions:
+  1. **Tier-split.** Whether to split the 34-article apex layer into tiers (e.g. core / cluster / methodology / applied), each carrying its own bar, to keep the layer from reading as a second topic index. Recommended-but-deferred; noted in the apex index Governance Note.
+  2. **`evolution-state.yaml` `section_caps`.** Whether to add an explicit advisory `apex/` entry or leave apex governed purely by the prose synthesis threshold. NOT edited in the governance pass (the brief forbade touching section_caps autonomously).
+- **Source**: outer-review (2026-06-08 ChatGPT 5.5 Pro), apex governance pass
 - **Generated**: 2026-06-08
 
 ### P2: Clarify the two voids taxonomies (territory-trichotomy vs reason-typology) on the voids index
@@ -986,6 +987,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-08: Resolve apex cap governance — apex count (34 on disk) far exceeds the ~20 guideline (apex/apex-articles.md)
+- **Type**: apex-evolve
+- **Notes**: From outer review 2026-06-08 (ChatGPT 5.5 Pro). VERIFIED: 34 apex articles on disk (excluding the index), including Mereology of Mind — the reviewer's ~31/32 count understates it; the structural point is stronger than stated. The ~20 guideline in the apex index is now badly out of step with reality, and the apex layer risks becoming a second topic index rather than a curated synthesis tier. This is a governance/meta decision rather than a content edit. Options the reviewer offers: retire the ~20 cap; convert it into a soft "synthesis threshold"; or split apex into tiers (core / cluster / methodology / applied). Apex tiering also interacts with the section_caps in evolution-state.yaml. Recommend invoking /apex-evolve to update the apex index's governance section to reflect the real count and a defensible policy; flag for human decision if a structural tier-split is warranted (this borders on a system/operator call).
 
 ### ✓ 2026-06-08: Seed new position-register domains (positions/)
 - **Type**: positions-evolve

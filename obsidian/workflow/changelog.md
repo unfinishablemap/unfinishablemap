@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-08 13:30:00+00:00
+ai_modified: 2026-06-08 14:00:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-08T14:00:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Mode**: governance-text update (not content edit / not new-apex / not deletion) — from ChatGPT 5.5 Pro outer review 2026-06-08
+- **Article**: [[apex/apex-articles]] (the apex index)
+- **Change**: VERIFIED 34 apex articles on disk (33 synthesis + 1 applied) vs the stale "~20" guideline. Superseded the hard ~20 cap and reframed it as a SOFT SYNTHESIS THRESHOLD — apex membership governed by a quality bar (genuine cross-cluster synthesis integrating multiple nodes into a coherent whole that says what its source nodes cannot say alone), not a numeric cap; count expected to grow bounded by the bar.
+- **Locations edited (3)**: Guidelines bullet ("Maximum ~20" → "Synthesis threshold, not a numeric cap"); Relation-to-Site-Perspective paragraph (20-article cap → synthesis bar); new "Governance Note (2026-06-08)" block in Audit Notes. Plus frontmatter ai_modified.
+- **Flagged for human decision (deferred, NOT actioned)**: (1) structural tier-split (core/cluster/methodology/applied); (2) whether to add an apex entry to evolution-state.yaml section_caps. Queued as a `human-decision` task in todo.md; section_caps left untouched per brief.
+- **Discipline**: governance-text only; NO apex article created/merged/deleted; index article listing + routing preserved.
+- **Committed**: no (orchestrator handles)
 
 ## 2026-06-08T13:30:00+00:00 - positions-evolve
 - **Status**: Success
