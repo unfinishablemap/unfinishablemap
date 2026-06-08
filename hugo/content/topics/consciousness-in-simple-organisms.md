@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-06-03 07:08:33+00:00
+ai_modified: 2026-06-08 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -43,6 +43,7 @@ related_articles:
 - '[[consciousness-independent-baseline-cognition-2026-01-21]]'
 - '[[consciousness-influence-intelligence-2026-01-21]]'
 - '[[interface-efficacy-and-the-cognitive-gap]]'
+- '[[marginal-organism-scope-of-value-sensitive-selection]]'
 title: Consciousness in Simple Organisms
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -169,6 +170,8 @@ Why do some organisms have consciousness and others not? This is the *distributi
 **Panpsychist continuity** dissolves the distribution problem by holding that proto-consciousness is fundamental. Experience doesn't emerge; it was always present, merely organised differently. But this faces the [combination problem](/concepts/combination-problem/): how do micro-experiences combine into unified human consciousness?
 
 **Interface dualism**—the Map's position—suggests that the distribution problem may be unanswerable because it asks the wrong question. Consciousness doesn't emerge from physical systems; it interfaces with them. The [universal-coupling-response](/concepts/universal-coupling-response/) holds that wherever a physical system's architecture meets adequate conditions for coupling, coupling occurs. There may be no principled threshold because consciousness isn't a property physical systems generate but a domain physical systems can connect with. If simple organisms do couple with consciousness, they may do so through mechanisms entirely different from those in complex brains ([interface-heterogeneity](/concepts/interface-heterogeneity/)) and at lower [interface efficacy](/topics/interface-efficacy-and-the-cognitive-gap/)—narrower bandwidth, fewer candidate-type couplings. Under that reading, failed UAL behaviour underdetermines the inference, since a low-efficacy coupled mind and an absent mind leave the same traces; parsimony still favours the simpler "no coupling" reading when the behaviour matches it.
+
+A narrower downstream version of the distribution problem asks not where consciousness reaches but where *valence-denominated* conscious selection bottoms out across the same organisms surveyed here—the [marginal-organism scope of value-sensitive selection](/topics/marginal-organism-scope-of-value-sensitive-selection/), which works the rat–nematode–*Hydra*–slime-mould ladder for evaluative selection specifically.
 
 ## The Illusionist Challenge
 

@@ -5,6 +5,15 @@ ai_modified: 2026-06-07 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-08T00:00:00+00:00 - integrate-orphan
+- **Status**: Success
+- **File**: [[topics/marginal-organism-scope-of-value-sensitive-selection]]
+- **Task**: Out-of-band standing P2 (integrate-orphan, was todo line ~193): add reciprocal inbound cross-links from the two parent files that did not yet link the article (grep-verified 0 before editing).
+- **Parent 1** — [[topics/consciousness-in-simple-organisms]]: added one sentence in the *Distribution Problem* section pointing to the narrower downstream treatment (scope of *value-sensitive selection* vs scope of consciousness generally), plus mirrored [[marginal-organism-scope-of-value-sensitive-selection]] into related_articles.
+- **Parent 2** — [[concepts/minimal-consciousness]]: added one clause in the *Threshold Problem* section distinguishing "where experience begins" (minimal-consciousness) from the inner boundary "where value-sensitive selection begins" (marginal-organism), plus mirrored the link into related_articles.
+- **Scope**: Mechanical, length-neutral link-add only (one sentence/clause each); all existing content preserved; no contribution-field change (both parents already ai_contribution 100). Slug [[marginal-organism-scope-of-value-sensitive-selection]] resolves; both parent files confirmed present.
+- **Published**: yes
+
 ## 2026-06-08T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/medium-status-voids-in-cognition]]

@@ -4,7 +4,7 @@ description: "The simplest form of consciousness—bare phenomenal experience wi
 created: 2026-01-31
 modified: 2026-05-21
 human_modified: null
-ai_modified: 2026-06-05T07:33:45+00:00
+ai_modified: 2026-06-08T00:00:00+00:00
 last_deep_review: 2026-06-04T18:00:51+00:00
 draft: false
 topics:
@@ -27,6 +27,7 @@ related_articles:
   - "[[minimal-consciousness-void]]"
   - "[[evidential-status-discipline]]"
   - "[[edge-states-and-void-probes]]"
+  - "[[marginal-organism-scope-of-value-sensitive-selection]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -74,7 +75,7 @@ IIT's predictions are striking: even simple systems with modest Φ values would 
 
 ## The Threshold Problem
 
-Where does minimal consciousness begin? This is the [[consciousness-in-simple-organisms|distribution problem]] applied to the bottom of consciousness's range.
+Where does minimal consciousness begin? This is the [[consciousness-in-simple-organisms|distribution problem]] applied to the bottom of consciousness's range. This threshold—*where experience begins*—should be kept distinct from the inner boundary of [[marginal-organism-scope-of-value-sensitive-selection|where value-sensitive selection begins]]: an organism could be minimally conscious yet still select value-blindly, so the two boundaries can come apart.
 
 **Sharp threshold**: Some theories imply consciousness appears suddenly when certain conditions are met. Below the threshold: nothing. Above: experience. But what could make the difference so stark? Why should a small increment in physical organisation create something rather than nothing?
 

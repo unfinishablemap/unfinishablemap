@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-06-05 07:33:45+00:00
+ai_modified: 2026-06-08 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -30,6 +30,7 @@ related_articles:
 - '[[minimal-consciousness-void]]'
 - '[[evidential-status-discipline]]'
 - '[[edge-states-and-void-probes]]'
+- '[[marginal-organism-scope-of-value-sensitive-selection]]'
 title: Minimal Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -77,7 +78,7 @@ IIT's predictions are striking: even simple systems with modest Φ values would 
 
 ## The Threshold Problem
 
-Where does minimal consciousness begin? This is the [distribution problem](/topics/consciousness-in-simple-organisms/) applied to the bottom of consciousness's range.
+Where does minimal consciousness begin? This is the [distribution problem](/topics/consciousness-in-simple-organisms/) applied to the bottom of consciousness's range. This threshold—*where experience begins*—should be kept distinct from the inner boundary of [where value-sensitive selection begins](/topics/marginal-organism-scope-of-value-sensitive-selection/): an organism could be minimally conscious yet still select value-blindly, so the two boundaries can come apart.
 
 **Sharp threshold**: Some theories imply consciousness appears suddenly when certain conditions are met. Below the threshold: nothing. Above: experience. But what could make the difference so stark? Why should a small increment in physical organisation create something rather than nothing?
 
