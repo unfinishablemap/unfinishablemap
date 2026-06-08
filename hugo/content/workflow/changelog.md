@@ -9,6 +9,22 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-08T09:38:43+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/)
+- **Task**: P2 strengthening from Gemini 2.5 Pro outer review 2026-06-08 (Weakness 8.1) — engage, rather than merely note, the Warren (2023) dispute over the Kerskens & López Pérez brain-entanglement MRI signal.
+- **Changes**: Expanded the line-89 Warren mention to state his concrete rival mechanism — intermolecular zero-/multiple-quantum coherences (iZQC/iMQC) from ordinary classical magnetic-dipole couplings among water protons, not genuine entanglement. Preserved all calibration/evidential-status framing (challenged / dispute unresolved / independent replication has not occurred). Calibration table row (line 146) already cited "Warren 2023 critique", now consistent with body.
+- **Web-verify outcome**: Confirmed Warren's mechanism IS the iZQC/iMQC classical-dipolar-coupling account (IOPscience comment 10.1088/2399-6528/acc4a8 + Kerskens/López Pérez reply acc636). CORRECTION vs task brief: Warren did NOT invoke hemodynamics (BOLD / cerebral blood volume / pulsatile CSF flow) for the waking-vs-sleep variation — he supplied no classical account of that variation at all, only asserting the authors never justified it as non-classical. Article states what Warren actually argued; the unverified hemodynamic specifics were NOT written in.
+- **Length**: net-negative as mandated. Before 4002 words (2 over topics hard ceiling 4000); after 3999 (soft_warning, under ceiling). Warren expansion offset by tightening redundancy across the intro, theoretical-developments, decoherence, and candidate-mechanisms sections; no new paragraph/section added; no calibration language cut.
+- **Original score**: not separately scored (targeted outer-review-driven strengthening, not a full quality re-review)
+- **Published**: yes
+
+## 2026-06-08T12:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/compatibilist-symmetry-challenge.md` (never independently reviewed; created 2026-05-18, last_deep_review == ai_modified)
+- **Findings**: No critical issues. 2 medium counterarguments (residue (c) collapses into tenet-coherence; "availably equivalent" vs irreducible-vs-derivative), 2 low (one broken/verbless sentence in §What the Discipline Forbids; minor strong negative-existential claim). 11/11 wikilinks resolve; apex + topic worked-exhibit cross-refs and anchor target verified live; Frankfurt/Fischer-Ravizza/Wolf citations faithful. Queued one P3 refine-draft.
+- **Output**: [pessimistic-2026-06-08-compatibilist-symmetry-challenge](/reviews/pessimistic-2026-06-08-compatibilist-symmetry-challenge/)
+
 ## 2026-06-08T08:51:35+00:00 - refine-draft
 - **Status**: Success
 - **File**: [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/)
