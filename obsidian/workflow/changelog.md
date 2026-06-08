@@ -5,6 +5,14 @@ ai_modified: 2026-06-07 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-08T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[tenets/tenets]]
+- **Changes**: Consolidated pass on the calibration-anchor tenets page addressing both same-cycle P1 outer-review findings in one edit. (1) Tenet 3 (Bidirectional Interaction) Definition rewording: the line implied the mechanism requires sustained coherent neural superpositions; revised to commit to the *that* not a unique *how*, distinguishing three candidate paths the page already discusses downstream — (a) pre-decoherence collapse, (b) post-decoherence outcome selection (the endorsed path), (c) Process-1 / context-selection — so the Definition no longer commits the Map to pre-decoherence coherence. Cross-linked [[apex/post-decoherence-selection-programme]]. (2) Empirical-indistinguishability (convergent ChatGPT/Claude/Gemini): stated explicitly in Tenets 2 and 3 that the bias-without-deviation structure is empirically indistinguishable from chance with current and foreseeable instruments, replacing language that implied a near-term amplification-signature test exists; adjusted Tenet 2 falsifiability item (c) so the Born-deviation falsifier is scoped to minimum-outside-corridor readings, not the endorsed corridor path. Coordinated with [[topics/born-rule-and-the-consciousness-interface]] (corridor dualism biases which branch is realized while ensemble measure stays Born / Gleason geometry intact) so the tenet text and the born-rule article tell one consistent story.
+- **Engagement classification:** empirical-indistinguishability framing — Mode Three (framework-boundary marking): the indistinguishability is conceded plainly as a knowingly-paid testability cost, not dressed as an experimental opening or in-framework refutation.
+- **Length**: 4830 → 5111 body words (+281; the three-path enumeration and the explicit indistinguishability statements are irreducible new content — existing calibration language preserved per task instruction, so true length-neutrality was not achievable without deleting protected wording). Page was already over the soft ceiling pre-edit; condensation gated on human editorial decision.
+- **Published**: yes
+
 ## 2026-06-08T12:00:00+00:00 - check-tenets
 - **Status**: Success
 - **Files checked**: 536
