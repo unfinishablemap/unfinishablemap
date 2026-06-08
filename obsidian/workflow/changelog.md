@@ -5,6 +5,17 @@ ai_modified: 2026-06-07 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-08T04:50:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro
+- **File**: [[reviews/outer-review-2026-06-08-gemini-2-5-pro]]
+- **Subject**: Full-site audit (subject_type: site; reuse of ChatGPT 06-08 subject — same cycle, real convergence). Third and final leg of the 06-08 full-site triple.
+- **Claims verified**: 3 disputed/overstated + 4 plausible-actionable. ✗ Weakness 8.1 "corpus completely ignores Warren 2023" is FALSE — Warren (2023, J.Phys.Commun. 7(3):038001) is cited (ref 17 quantum-biology-and-neural-consciousness; ref 14 clinical-evidence) and Kerskens 2022 is already flagged "challenged / not independently confirmed / poor on replication." ⚠ Weakness 8.4 Born-rule "postulated not derived" is in-framework argument quality, not omission (corpus discusses it across born-rule-and-the-consciousness-interface etc.). ⚠ 8.3 cryptochrome-scaling: corpus already notes the "structural difference" per the review's own text. ? Section 7.1/7.3 (identity-as-state vs process + observational-closure symmetry), 8.2 (GABA_A trafficking rival) — target articles verified to exist; substance not independently re-derived.
+- **High-value findings**: identity-as-state-vs-process tension in the no-cloning AI argument + the observational-closure symmetry (the strongest STRUCTURAL/internal-consistency finding, novel vs same-date ChatGPT/Claude); residual Warren mechanistic-engagement strengthening (cite-it-don't-just-flag-it); classical GABA_A receptor-trafficking rival to the quantum-microtubule reading of Khan 2024; Gleason-theorem pressure on the Born-rule "interface" framing.
+- **Tasks generated**: 4 (all P2: identity-as-state/process + observational-closure reconciliation w/ direct-refutation remit; Warren specific-classical-mechanism add [calibration-cautioned: NOT an omission fix]; GABA_A trafficking competing-explanation acknowledgement; Born-rule/Gleason in-framework engagement w/ direct-refutation remit). No P1 — the reviewer's most emphatic claim (Warren omission) failed verification, so its empirical weaknesses are strengthenings not corrections; the genuine structural finding is internal-consistency work.
+- **Note**: third leg of the 06-08 full-site triple now processed (ChatGPT + Claude + Gemini all done). /combine-outer-reviews can now fire for 2026-06-08 (≥2 processed, none pending). Low cross-reviewer convergence on Gemini's specifics (ChatGPT→positions/structure, Claude→post-decoherence apex originality, Gemini→quantum-empirical + AI causal-closure) — the synthesis pass will confirm.
+- **Published**: no (uncommitted; orchestrator commits)
+
 ## 2026-06-08T04:33:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 4.8
