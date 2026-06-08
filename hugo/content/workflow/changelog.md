@@ -9,6 +9,28 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-08T12:06:52+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/)
+- **Word count**: 4215 → 4213 (-2)
+- **Critical issues addressed**: 2 (citation metadata — both real-paper-wrong-metadata, corrected in place per 3-state discipline, NOT deleted)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged article, over length ceiling — no content added)
+- **Diff-first**: only change since the 2026-06-01 deep review was a cosmetic [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/) cross-link install (commit 9255dbd85); scorer value 11 reflects that cross-link re-qualification. Ran FULL publisher-of-record web-verify anyway (citation-dense hub, 18 refs) — caught two defects the prior pass missed by spot-checking only 2 journal cites.
+  - **Coates**: was "Coates, J. (2019), Philosophical Studies 176(11):3027-3048, 'powerful qualities or powerless qualities'" — wrong on every axis. Corrected to verified "Coates, A. (2021), Making sense of powerful qualities, Synthese 198(9):8347-8363" (real author, real paper supporting the collapse-or-conjunction concern). Inline 2019→2021.
+  - **Pautz**: was "Pautz, A. (2017)... In Alter & Nagasawa (Eds.), Russellian Monism, OUP" — conflated a genuine 2017 Pautz reply-to-Roelofs with the wrong container. Re-pointed to the real publisher-verifiable chapter "A Dilemma for Russellian Monists about Consciousness" in Alter & Nagasawa (2015), Consciousness in the Physical World: Perspectives on Russellian Monism, OUP. Inline 2017→2015. Body claim stays faithful.
+  - 16 other cites verified real-correct (Armstrong/Bird/Chalmers/Ellis/Heil/Martin/Shoemaker/Schlosshauer books; Cutter 2019, Howell 2015, Lewis 1994, Taylor 2018 journals re-verified at publisher; Mørch 2014 dissertation + 2018 handbook chapter; Tegmark 2000 currency-checked — 13–20-orders-of-magnitude claim faithful, not superseded).
+- **Length**: 4213 words, 140% of 3000 target, ~213 over the 4000 hard threshold — documented human editorial-decision item for this flagship 3×3 cross-product article; NOT auto-condensed.
+- **Reasoning-mode audit**: clean; no label leakage; no possibility/probability slippage (new Wheeler sentence is a within-framework structural identity, not an evidence upgrade).
+- **Output**: [deep-review-2026-06-08-consciousness-and-the-metaphysics-of-laws-and-dispositions](/reviews/deep-review-2026-06-08-consciousness-and-the-metaphysics-of-laws-and-dispositions/)
+- **Published**: yes
+
+## 2026-06-08T12:00:00+00:00 - refine-draft
+- **Status**: Success (near-no-op — assessment only, no content change)
+- **File**: [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/)
+- **Changes**: None. Verify-first calibration audit of the "consistent with the Map's framework capturing something real" phrasing (P2, 2026-06-08 Claude Opus 4.8 outer review, flagged PARTIALLY PRE-ADDRESSED). Verdict: NEAR-NO-OP. The phrasing is already in the consistency register, not the confirmation register — "consistent with X capturing something real" plus the line-58 hedge ("though coherence alone does not constitute evidence, and the discount is sharper at the apex tier than that hedge suggests") foreclose any slide from internal coherence toward probable-truth. The "Chain as Evidence" section already names the Ptolemaic worry, the AI-pruned-corpus artifact-of-method worry, the [common-cause-null](/project/common-cause-null/) by link, and cites the evidential-status rule ("a tenet may remove a defeater, but it must not upgrade the evidence level"), grounding framework-independence in three named anchors — satisfying the Countermeasure 15 convergence-independence gate (name the common-cause null AND downgrade to consistency-not-confirmation). The apex-articles.md:424 echo is in the same consistency register and does not overstate relative to the body; left unchanged. No edit applied (over-hedging an already-disciplined apex is the inverse failure). Body 4558 words, unchanged.
+- **Published**: yes
+
 ## 2026-06-08T11:33:12+00:00 - refine-draft
 - **Status**: Success
 - **File**: [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/)

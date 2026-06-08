@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-28
-ai_modified: 2026-06-01 06:10:00+00:00
+ai_modified: 2026-06-08 12:06:52+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ description: What laws of nature are and what fundamental properties are determi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 05:29:19+00:00
+last_deep_review: 2026-06-08 12:06:52+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -121,7 +121,7 @@ If categoricalism is correct, consciousness might be a categorical property par 
 
 This looks promising for dualism, but categoricalism faces its own difficulty. As [russellian-monism](/concepts/russellian-monism/) highlights, physics describes only structural and relational properties—only what things *do*. We know that mass gravitates and charge attracts but not what mass or charge *is* intrinsically. The [intrinsic-nature-void](/voids/intrinsic-nature-void/) explores why this gap may be principled rather than merely epistemic.
 
-This generates the Russellian gambit: perhaps consciousness *is* the intrinsic categorical nature underlying physical dispositions—qualia are what physical structure looks like from the inside. But this faces the [combination-problem](/concepts/combination-problem/): how do micro-level categorical-phenomenal properties combine into unified macro-consciousness? Cutter (2019), Pautz (2017), and Howell (2015) press the case that Russellian monism is unstable, requires brute linking principles equivalent to dualism's, and risks epiphenomenal quiddities. Mørch (2014, 2018) responds with *power-monist* Russellian monism: quiddities *are* powers, restoring causal relevance. Mørch's view is the Map's closest competitor because it pairs the powerful-qualities identity theory with Russellian monism rather than dualism. The Map prefers [bi-aspectual dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/) because power-monism still inherits the combination problem, whereas the bi-aspectual framework posits unified phenomenal subjects from the start and locates causal work at quantum indeterminacies rather than within physical properties.
+This generates the Russellian gambit: perhaps consciousness *is* the intrinsic categorical nature underlying physical dispositions—qualia are what physical structure looks like from the inside. But this faces the [combination-problem](/concepts/combination-problem/): how do micro-level categorical-phenomenal properties combine into unified macro-consciousness? Cutter (2019), Pautz (2015), and Howell (2015) press the case that Russellian monism is unstable, requires brute linking principles equivalent to dualism's, and risks epiphenomenal quiddities. Mørch (2014, 2018) responds with *power-monist* Russellian monism: quiddities *are* powers, restoring causal relevance. Mørch's view is the Map's closest competitor because it pairs the powerful-qualities identity theory with Russellian monism rather than dualism. The Map prefers [bi-aspectual dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/) because power-monism still inherits the combination problem, whereas the bi-aspectual framework posits unified phenomenal subjects from the start and locates causal work at quantum indeterminacies rather than within physical properties.
 
 ### Powerful Qualities and Phenomenal Properties
 
@@ -137,7 +137,7 @@ On Martin and Heil's view, a property's qualitative nature and its dispositional
 
 **It avoids the combination problem.** The Map's [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/) posits unified phenomenal subjects from the start: structure (what physics describes) and actuality (what consciousness provides) are irreducible aspects that interact causally; consciousness *does things to* physics at quantum indeterminacies, rather than acting as a hidden ingredient inside physical properties.
 
-The identity theory faces the *collapse-or-conjunction dilemma* (Taylor 2018; Coates 2019; Engelhard 2010). If quality and power are *genuinely* identical, the position appears to collapse into pandispositionalism—whatever quality "is" makes no separable contribution to behaviour. If they are merely *two aspects*, the position factors into a conjunction of pure-dispositional and pure-categorical commitments, with no clear answer about which aspect does the explanatory work. The Map takes the first horn but rejects its conclusion: identity is genuine *and* the qualitative aspect determines *which* power is exercised when multiple dispositions are compatible with a triggering condition—the selection mechanism delivered below in §"The Dispositional Modality Problem". Mørch (2014) makes the analogous move for power-monist Russellian monism; the Map adopts the structural reply while rejecting the monist conclusion.
+The identity theory faces the *collapse-or-conjunction dilemma* (Taylor 2018; Coates 2021; Engelhard 2010). If quality and power are *genuinely* identical, the position appears to collapse into pandispositionalism—whatever quality "is" makes no separable contribution to behaviour. If they are merely *two aspects*, the position factors into a conjunction of pure-dispositional and pure-categorical commitments, with no clear answer about which aspect does the explanatory work. The Map takes the first horn but rejects its conclusion: identity is genuine *and* the qualitative aspect determines *which* power is exercised when multiple dispositions are compatible with a triggering condition—the selection mechanism delivered below in §"The Dispositional Modality Problem". Mørch (2014) makes the analogous move for power-monist Russellian monism; the Map adopts the structural reply while rejecting the monist conclusion.
 
 ## Dispositions, Consciousness, and the Interface
 
@@ -202,7 +202,7 @@ The central insight: the mind-body problem is not just about what consciousness 
 1. Armstrong, D.M. (1983). *What Is a Law of Nature?* Cambridge University Press.
 2. Bird, A. (2007). *Nature's Metaphysics: Laws and Properties*. Oxford University Press.
 3. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-4. Coates, J. (2019). The identity theory of properties: Powerful qualities or powerless qualities? *Philosophical Studies*, 176(11), 3027-3048.
+4. Coates, A. (2021). Making sense of powerful qualities. *Synthese*, 198(9), 8347-8363.
 5. Cutter, B. (2019). Against the middle ground: Why Russellian monism is unstable. *Analytic Philosophy*, 60(2), 109-129.
 6. Ellis, B. (2001). *Scientific Essentialism*. Cambridge University Press.
 7. Engelhard, K. (2010). Categories and the ontology of powers: A vindication of the identity theory of properties. In A. Marmodoro (Ed.), *The Metaphysics of Powers*. Routledge.
@@ -212,7 +212,7 @@ The central insight: the mind-body problem is not just about what consciousness 
 11. Martin, C.B. (2008). *The Mind in Nature*. Oxford University Press.
 12. Mørch, H.H. (2014). *Panpsychism and Causation: A New Argument and a Solution to the Combination Problem* (Doctoral dissertation, University of Oslo).
 13. Mørch, H.H. (2018). The argument for panpsychism from experience of causation. In W. Seager (Ed.), *The Routledge Handbook of Panpsychism*. Routledge.
-14. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? In T. Alter & Y. Nagasawa (Eds.), *Russellian Monism*. Oxford University Press.
+14. Pautz, A. (2015). A dilemma for Russellian monists about consciousness. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World: Perspectives on Russellian Monism*. Oxford University Press.
 15. Schlosshauer, M. (2007). *Decoherence and the Quantum-to-Classical Transition*. Springer.
 16. Shoemaker, S. (1980). "Causality and Properties." In P. van Inwagen (Ed.), *Time and Cause*. D. Reidel.
 17. Taylor, H. (2018). Powerful qualities and pure powers. *Philosophical Studies*, 175(6), 1423-1440.
