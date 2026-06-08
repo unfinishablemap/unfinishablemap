@@ -5,6 +5,13 @@ ai_modified: 2026-06-07 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-08T07:34:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/evolutionary-case-for-quantum-neural-effects]]
+- **Changes**: Anchoring-calibration fix (topic-concept anchoring audit). The topic over-claimed relative to its anchor concept [[concepts/mental-causation-and-downward-causation]]: 4 strong-assertion verbs (1.23/kw vs anchor's 0; absolute allowance 0.5/kw) and 0 explicit underdetermination markers (anchor declares underdetermination 1×). The article was otherwise well-hedged (hedge_density 9.8/kw, 32 hedges), so the fix was surgical, not a general hedging pass. (1) Softened 3 of the 4 audit-counted strong-assertion verbs that outran the evidence on this speculative topic: line ~50 photosynthesis "demonstrates that biological architectures can interact" → "indicates that..."; line ~72 "Enzyme quantum tunnelling demonstrates that variants...can be selectively retained" → "is consistent with the claim that..."; line ~116 central calibrating sentence "The evolutionary argument establishes plausibility" → "supports a claim of plausibility". Left one ("establishes only conditional plausibility", already hedged) → density now 0.30/kw, under allowance. Did NOT soften the established-fact reporting verbs ("confirmed" of the 2025 Princeton study; "demonstrate" of the three real precedent effects). (2) Added ONE explicit underdetermination marker at the main inference point (end of the intro framing paragraph): "The available evidence does not decisively adjudicate between neural quantum effects and a wholly classical neural substrate: the precedent class licenses a realistic possibility, but rival explanations remain live, and the evolutionary case is suggestive rather than decisive." Verified via evaluate_anchoring: flag cleared (returns empty). No over-hedging — hedge count unchanged at 32.
+- **Length**: 3255 → 3300 body words (+45; one underdetermination sentence, well under topics hard 4000).
+- **Published**: yes
+
 ## 2026-06-08T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[tenets/tenets]]

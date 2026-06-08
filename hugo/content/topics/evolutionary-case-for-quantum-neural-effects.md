@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-06-03 21:59:13+00:00
+ai_modified: 2026-06-08 07:34:30+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -40,7 +40,7 @@ topics:
 
 Selection has propagated quantum-exploiting variants in multiple biological systems—avian magnetoreception, enzyme catalysis, and photosynthetic energy transfer. The Unfinishable Map argues that the same evolutionary logic licenses neural quantum effects as a realistic possibility, since the computational payoffs of quantum effects in neural systems could be substantial relative to those in a compass or a faster enzyme. If natural selection retained quantum solutions for navigation and chemistry, the question is not whether it *could* retain them for neural computation, but whether the requisite variation arose under selective pressures strong enough to fix it.
 
-This article examines the evolutionary argument specifically—not the mechanisms themselves (covered in [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/)) or the converging evidence (covered in [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/)), but why the logic of natural selection licenses quantum neural effects as a realistic possibility under selective pressure that the precedent class does not foreclose. The argument supplies plausibility — the absence of a principled barrier and a precedent class where selection has propagated quantum-exploiting variants — rather than probability in any sense that adds positive evidential weight beyond non-foreclosure.
+This article examines the evolutionary argument specifically—not the mechanisms themselves (covered in [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/)) or the converging evidence (covered in [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/)), but why the logic of natural selection licenses quantum neural effects as a realistic possibility under selective pressure that the precedent class does not foreclose. The argument supplies plausibility — the absence of a principled barrier and a precedent class where selection has propagated quantum-exploiting variants — rather than probability in any sense that adds positive evidential weight beyond non-foreclosure. The available evidence does not decisively adjudicate between neural quantum effects and a wholly classical neural substrate: the precedent class licenses a realistic possibility, but rival explanations remain live, and the evolutionary case is suggestive rather than decisive.
 
 ## The Precedent Argument
 
@@ -50,7 +50,7 @@ Three established quantum biological effects demonstrate that selection can prop
 
 **Enzyme catalysis** exploits quantum tunnelling to accelerate hydrogen transfer reactions. Selection has propagated active-site geometries that maximise tunnelling probability through precise control of donor-acceptor distances and vibrational coupling.
 
-**Photosynthetic energy transfer** achieves near-unity efficiency (~99%) in transferring excitation energy to reaction centres. While the role of quantum coherence has been revised downward from early claims, the system demonstrates that biological architectures can interact with quantum phenomena under physiological conditions, and that variants exploiting such phenomena can be selectively retained.
+**Photosynthetic energy transfer** achieves near-unity efficiency (~99%) in transferring excitation energy to reaction centres. While the role of quantum coherence has been revised downward from early claims, the system indicates that biological architectures can interact with quantum phenomena under physiological conditions, and that variants exploiting such phenomena can be selectively retained.
 
 Each case shares a pattern: variants whose biochemistry happened to involve quantum dynamics produced fitness benefits over classical alternatives, and selection propagated the molecular structures that exploit those dynamics. The relevant question is whether neural computation presents problems where quantum effects could offer similar advantages — and the precedent class shows only that the question is open, not that it must be answered affirmatively.
 
@@ -72,7 +72,7 @@ First, quantum superposition allows simultaneous exploration of multiple states 
 
 Second, quantum tunnelling allows transitions between states separated by energy barriers that classical thermal fluctuations cannot cross. Ion channel quantum tunnelling (Qaswal et al., 2021) is a mathematical-modelling proposal — not yet an empirical demonstration — that may provide this capability for action potential dynamics. Variants whose neural architectures exhibit functionally consequential tunnelling could face selective pressure, but only if the tunnelling-based advantage exceeds the marginal advantages available from classical optimisations (myelination, dendritic integration, neurotransmitter diversity); the article does not identify a specific decision where the quantitative comparison has been carried out.
 
-The selective advantage need not be dramatic. Marginal improvements in decision speed or quality — predator avoidance, prey capture, social navigation — can compound across generations. Enzyme quantum tunnelling demonstrates that variants exploiting modest quantum speedups can be selectively retained when they improve fitness. The general principle is correct but unfalsifiable on its own — it would equally license any biochemical mechanism with a marginal fitness advantage — so its application here is conditional on identifying neural decisions where empirical comparison of quantum-versus-classical efficiency is even feasible. No such comparison has yet been closed.
+The selective advantage need not be dramatic. Marginal improvements in decision speed or quality — predator avoidance, prey capture, social navigation — can compound across generations. Enzyme quantum tunnelling is consistent with the claim that variants exploiting modest quantum speedups can be selectively retained when they improve fitness. The general principle is correct but unfalsifiable on its own — it would equally license any biochemical mechanism with a marginal fitness advantage — so its application here is conditional on identifying neural decisions where empirical comparison of quantum-versus-classical efficiency is even feasible. No such comparison has yet been closed.
 
 ### Signal Amplification at Synapses
 
@@ -116,7 +116,7 @@ We lack fossil or genomic evidence of selection specifically for quantum neural 
 
 ## What This Does Not Establish
 
-The evolutionary argument establishes *plausibility*, not *probability* or *proof*; the absence of a principled barrier under the Map's framework is not the presence of positive evidence for neural quantum effects. Specifically:
+The evolutionary argument supports a claim of *plausibility*, not *probability* or *proof*; the absence of a principled barrier under the Map's framework is not the presence of positive evidence for neural quantum effects. Specifically:
 
 It does not establish which quantum mechanism (if any) is operative. The argument applies equally to microtubule coherence, synaptic tunnelling, Posner molecules, or mechanisms not yet proposed.
 
