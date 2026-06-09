@@ -5,6 +5,15 @@ ai_modified: 2026-06-08 14:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-09T04:00:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [[reviews/outer-review-2026-06-09-chatgpt-5-5-pro]]
+- **Subject**: Audit illusionism (`concepts/illusionism.md`) — recent-aged fallback subject
+- **Claims verified**: 4 web-verified (Shabasson RPP 2022, Graziano eNeuro 11(10) 2024, Kammerer "How Rich is the Illusion?" Erkenntnis 87, no co-authored "Pereboom & Frankish 2021"); all four citation defects confirmed against the live article + corroborated by the corrected cluster already on functional-seeming.md
+- **High-value findings**: 4 citation/attribution defects (1 fabricated-co-author cite, 1 wrong venue, 1 source/claim mismatch, 1 Chalmers stance-transfer) + opponent-engagement/calibration overstatement notes + AST harmonization
+- **Tasks generated**: 3 (P1: 1 — mechanical citation fixes, length-neutral; P2: 2 — illusionism opponent-engagement softening w/ direct-refutation remit, AST regress harmonization + contemplative-claim sourcing). Site-methodology proposals (corpus citation-propagation grep) folded into the P1 task rather than spawned as a low-execution P3.
+
 ## 2026-06-09T00:30:00+00:00 - refine-draft (evidential-register deep-link)
 - **Status**: Success
 - **File**: [[topics/ai-consciousness]]
