@@ -5,6 +5,16 @@ ai_modified: 2026-06-09T05:02:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-09T19:30:00+00:00 - deep-review
+- **Status**: Success (no-op / metadata-only)
+- **File**: [[topics/split-brain-consciousness]]
+- **Word count**: 3161 → 3161 (no change; 105% soft, under 4000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Audit focus**: NCC-calibration adoption (commit `74dd57b82`) landed cleanly — four modal-calibration tightenings (underdetermination paragraph, "establishes"→"reaches only as far as", "proves"→"appears", section-header neutralization); did NOT over-hedge the unity argument (inverse-mush PASS). Pinto 2017 + Bayne 2010 web-verified at publisher of record (real-correct, stances faithful). Cross-links live + reciprocal. No "This is not X. It is Y." cliché. Eighth review; converged. Bumped last_deep_review only.
+- **Output**: [[reviews/deep-review-2026-06-09-split-brain-consciousness]]
+
 ## 2026-06-09T18:49:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `concepts/functionalism.md` (oldest content article by `modified` date, 2026-01-09; 2948 body words; never previously the subject of a dedicated pessimistic review)
