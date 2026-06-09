@@ -5,6 +5,18 @@ ai_modified: 2026-06-09T05:02:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-09T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[research/illusionism-functional-seeming-2026-03-28]]
+- **Scope**: Citation correction (propagation follow-on from the 2026-06-09 illusionism citation-fix pass). Removed the fabricated co-authored "Pereboom & Frankish (2021)" RPP citation at all 3 locations (Key Sources header, timeline, Gaps/Citations). 3-state re-confirmed against the corrected cluster in concepts/illusionism.md & concepts/functional-seeming.md.
+- **Changes**:
+  - Reattributed the real RPP paper (DOI 10.1007/s13164-021-00537-6) to single-author Shabasson, D. (2022), "Illusionism about Phenomenal Consciousness: Explaining the Illusion," RPP 13(2):427-453.
+  - Added the real Pereboom paper: "Illusionism and Anti-Functionalism about Phenomenal Consciousness," JCS 23(11-12):172-185 (2016).
+  - Added Gorbachev & Frankish (2025), Synthese 205(6):247 (DOI 10.1007/s11229-025-05095-3) for the current distortion-thesis taxonomy.
+  - Updated timeline row 2021→2022 (Shabasson) and Gaps-in-Research mention.
+- **Verification**: grep confirms zero remaining "Pereboom & Frankish" / "Pereboom and Frankish" instances.
+- **Published**: yes
+
 ## 2026-06-09T09:02:46+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/composition-and-consciousness]]
