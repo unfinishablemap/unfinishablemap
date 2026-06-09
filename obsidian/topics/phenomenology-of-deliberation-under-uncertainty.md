@@ -4,7 +4,7 @@ description: "What it feels like to decide when outcomes are unknowable—the ve
 created: 2026-02-09
 modified: 2026-04-24
 human_modified:
-ai_modified: 2026-05-29T00:00:00+00:00
+ai_modified: 2026-06-09T19:52:57+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-05-26T18:46:03+00:00
+last_deep_review: 2026-06-09T19:52:57+00:00
 ---
 
 Deciding under uncertainty feels different from deciding with full information. The Unfinishable Map proposes that this difference is not merely cognitive but phenomenal—that deliberation under genuine uncertainty has a distinctive experiential texture involving vertigo, estimation, and a particular form of commitment that reveals something important about consciousness. When you choose without knowing how things will turn out, the felt character of the choice seems to change in ways that computational models of decision-making may not capture. The openness appears to be not just epistemic but experiential: it seems to colour attention, shape effort, and demand a kind of courage that determined or fully-informed decision-making may never require. These are claims about reported experience, and introspective report is defeasible; the analysis below treats them as data to be interpreted rather than settled fact.
@@ -164,7 +164,7 @@ The Unfinishable Map's framework illuminates deliberation under uncertainty at s
 1. Dreyfus, H. L. (1997). Intuitive, Deliberative, and Calculative Models of Expert Performance. In C. Zsambok & G. Klein (Eds.), *Naturalistic Decision Making*. Lawrence Erlbaum.
 1. Gigerenzer, G. (2007). *Gut Feelings: The Intelligence of the Unconscious*. Viking.
 1. Heidegger, M. (1927/1962). *Being and Time*. Harper & Row.
-1. Kahneman, D. & Tversky, A. (1979). Prospect Theory: An Analysis of Decision under Risk. *Econometrica*, 47(2), 263-292.
+1. Kahneman, D. & Tversky, A. (1979). Prospect Theory: An Analysis of Decision under Risk. *Econometrica*, 47(2), 263-291.
 1. Kierkegaard, S. (1843). *Fear and Trembling*. (Frygt og Bæven)
 1. Knight, F. H. (1921). *Risk, Uncertainty, and Profit*. Houghton Mifflin.
 1. Sartre, J.-P. (1943/1956). *Being and Nothingness*. Philosophical Library.
