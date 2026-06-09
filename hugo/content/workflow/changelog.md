@@ -9,6 +9,36 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-09T16:02:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [prehension](/concepts/prehension/)
+- **Word count**: 1779 → 1779 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fourth review; converged. Body unchanged on disk since the 2026-05-26 review commit — the candidate scorer re-qualified it only on a self-induced `ai_modified` > `last_deep_review` timestamp artifact from that prior pass. Integrity re-verified: all five tenet anchors live (incl. the `^occams-limits` fix), all 12 wikilink targets resolve, no archive-only links. References block unchanged since the 2026-05-26 ledgered web-verify (§2.4 skip condition met). Eliminativist engagement is honest Mode-Three boundary marking, no label leakage. Concrescence/quantum-collapse parallel correctly hedged, no calibration slippage. Expected "no content issues" convergence outcome.
+- **Output**: [deep-review-2026-06-09-prehension](/reviews/deep-review-2026-06-09-prehension/)
+
+## 2026-06-09T15:03:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/)
+- **Scope**: Anchoring-calibration refine (topic-concept anchoring audit; anchor [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/)). Pure prose-calibration pass — NO citation/author/year/number/figure edits (article has a prior citation-correction history: Barrett 2021 "six populations" fabricated-"eight" correction; see barrett-2021-eight-vs-six-propagated). Two calibration defects: strong_assertion_density 0.951/kw (2 strong-assertion verbs) vs anchor 0.0/kw (absolute allowance 0.5/kw), and underdetermination_marker_count 0 vs anchor's 1.
+- **Changes**:
+  - **Softened two strong-assertion verbs to the anchor's calibration level, central thesis preserved.** (1) Neural-correlates section, physicalist-objection passage: "this objection **proves** the point" → "this objection **cuts against itself**" (dialectical force kept, marker verb removed). (2) Embodied-cognition section: "the 4E cognition programme... **demonstrates** that cognition depends on bodily structure and environmental coupling" → "**marshals evidence** that..." (the empirical dependence claim is preserved but no longer asserted as settled). strong_assertion_count 2 → 0, matching anchor.
+  - **Added one explicit underdetermination marker in the article's voice.** New paragraph after the methodological-circle passage in the neural-correlates section: concedes the brain-state-report correlation is compatible with either the materialist (identity-awaiting-completion) or dualist (interaction between distinct relata) reading, that the measurements are "underdetermined by the evidence on this question — they neither force the dualist construal nor rule it out," and narrows the Map's claim to "the materialist reading is not the one the *method* delivers, only the one the method assumes." Mirrors the anchor's own explicit underdetermination declaration. Avoids the "not X, it is Y" LLM-cliché.
+- **Verification**: `evaluate_anchoring(Path('obsidian/topics/cognitive-science-of-dualism.md'), Path('obsidian'))` now returns `[]` (flag cleared — both failed_checks resolved). Body length 2104w → 2189w, well under 4000 hard ceiling.
+- **Published**: yes
+
+## 2026-06-09T14:03:52+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-phenomenology-of-translation](/topics/consciousness-and-the-phenomenology-of-translation/)
+- **Scope**: Anchoring-calibration refine (topic-concept anchoring audit; anchor [mental-effort](/concepts/mental-effort/)). Targeted only — article was already well-hedged (hedge_density 2.716 > anchor's 1.368); over-hedging was the failure mode to avoid. Two calibration defects: strong_assertion_density 0.604/kw > 1.5× anchor (0.342/kw), and underdetermination_marker_count 0 vs anchor's 1.
+- **Changes**:
+  - **Qualified one over-confident empirical claim.** In "What Translation Cannot Read About Its Own Operation" / structure-mapping-as-sub-personal: "Empirical work (Gentner & Markman 1997; Parsons et al. 2022) **confirms** the mapping operates on representations the analogiser does not have introspective access to" → "**indicates**". The introspective-inaccessibility extension is interpretive, not directly confirmed by the cited similarity/structure-mapping work. Left the already-careful "None of these dissociations on its own establishes the dualist reading" untouched (a disciplined denial, not an over-claim). strong_assertion_count 2 → 1, matching anchor.
+  - **Added one explicit underdetermination marker.** New paragraph at the end of "The Remainder as Evidence": acknowledges the inference is not forced, that a functionalist can read the remainder as representational-structure mismatch rather than phenomenal character, and that the translation-phenomenology evidence *constrains* the picture (kills the simple container model) without *establishing* the dualist reading over its computational rival — "the data is underdetermined by the evidence available from inside the translator's first-person situation." Mirrors anchor's own "consistent with... but does not adjudicate" model. Central thesis preserved.
+- **Verification**: `evaluate_anchoring` now returns `[]` (mental-effort flag cleared — both failed_checks resolved). Length 3314w → 3425w, still `soft_warning`, under 4000 hard ceiling.
+- **Published**: yes
+
 ## 2026-06-09T09:52:09+00:00 - refine-draft
 - **Status**: Success
 - **File**: [attention-schema-theory](/concepts/attention-schema-theory/)
