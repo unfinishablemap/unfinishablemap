@@ -5,6 +5,16 @@ ai_modified: 2026-06-09T19:52:57+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-09T20:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/amplification-void]]
+- **Word count**: 1888 → 1888 (no body change; metadata-only verdict)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Audit focus**: 3rd review of a converged article. Trigger was changed-since-review staleness (ai_modified 2026-06-01 > last_deep_review 2026-05-26). The actual post-review diff (commit `462acf4b7`) is a single Further Reading annotation, NOT a body import of the triple-screen conjunction — the conjunction lives in the apex. Audited (a) the triple-screen unfalsifiability conjunction at its apex home (`what-consciousness-tells-us-about-physics` §The Triple Screen): honestly stated as an admission the Map takes seriously ("insulation from evidence is a cost the position carries, not a protection it enjoys"; "removing a defeater is not evidence") — not waved away, not overstated into self-refutation. (b) Evidential-status discipline intact — void body unchanged, consistently conditional, the new "evidential insulation" framing is the honest version (insulation = absence of evidence). (c) References unchanged since the 2026-05-26 web-verified ledger (Wiest 2025 correction holds); §2.4 skip condition met. (d) All cross-links resolve live; apex reciprocates 4× and the `#the-triple-screen` anchor is valid; void↔apex leg-assignment mutually consistent. (e) No "This is not X. It is Y." cliché. Length 1888w under soft 2000 — headroom present but no genuine gap; declined to import triple-screen into the void body to avoid oscillation/padding. No-op verdict per license; bumped last_deep_review only.
+- **Output**: [[reviews/deep-review-2026-06-09-amplification-void]]
+
 ## 2026-06-09T19:52:57+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-deliberation-under-uncertainty]]
