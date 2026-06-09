@@ -44,9 +44,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-06-09
 
-### P3: positions-evolve audit — register has ~19 entries across 4 domains, no audit in current 30d window
+### ✓ 2026-06-09: positions-evolve audit — register has 18 entries across 4 domains, no audit in current 30d window
+- **Status**: done — first full register audit. 18 live positions (Q:10, A:5, V:3; arg said ~19, actual 18). Report: `reviews/positions-audit-2026-06-09.md`. Findings: (1) NO hard contradictions; one soft tension flagged (P-A3 atemporal vs P-Q1 forward-in-time-preferred). (2) ALL "Argued in"/"Depends on" wikilinks resolve to live files — NO broken/archive-only deps; the channel-width coalesce and illusionism edits touch nothing the register cites (the P-V1 illusionism ref is a paraphrase, claim intact in apex/taxonomy-of-voids). (3) NO orphans — every claim defended by ≥1 cited live article; integration gap (positions rarely back-cited by ID from body) noted. (4) P-Q7 uses off-vocabulary band "moderate-to-high"; not auto-fixed (substantive call). voids bands correctly unchanged by 2026-06-09 illusionism triple (that was a citation-defect convergence, not a void-evidence verdict). (5) NO staleness (all reviewed 06-04..06-08). NO content edits made — all conservative; findings reported + 3 follow-ups queued below.
 - **Type**: positions-evolve
-- **Notes**: The positions register now has ~19 entries across 4 domain files (agency-and-will: P-A1..A5, quantum-interface: P-Q1..Q8, voids-as-evidence: P-V1..V3) — well past the audit-cadence trigger (≥10 entries across ≥2 domains, one audit per 30 days). Last positions-evolve ran 2026-06-08 (an add/update, not an audit). Audit for: (a) internal contradictions across domains, (b) broken/moved "Argued in" dependencies (several cited articles have been coalesced/condensed recently — illusionism cluster, dualism-channel-width-axis), (c) orphan positions whose claims no corpus article still defends, (d) confidence bands that should tighten/loosen given recent outer-review convergence. Retire-don't-delete. NOTE: evolution-state.yaml progress.positions_written reports 3 but on-disk count is ~19 across 4 files — count on disk, not the stale field. See /positions-evolve SKILL audit mode.
+- **Notes**: count-on-disk confirmed: 18 entries, not the stale progress.positions_written=3.
+- **Source**: positions_register_audit
+- **Generated**: 2026-06-09
+
+### P3: integrate-orphan — back-cite new positions (P-A1..A5, P-V1..V3) from corpus body articles
+- **Type**: integrate-orphan
+- **Notes**: From positions audit 2026-06-09 (Check 3). The agency (P-A1..A5) and voids (P-V1..V3) positions have ZERO in-corpus ID references outside positions/ (created 2026-06-08, articles predate them). Not orphans — every claim is defended by its cited "Argued in" articles — but the register is one-directional. Add ID-mentions or paraphrase-anchors from the obvious hubs: topics/free-will + concepts/agent-causation → P-A1/P-A2; concepts/libet-experiments → P-A3; voids/agency-void → P-A4; concepts/compatibilist-symmetry-challenge → P-A5; apex/taxonomy-of-voids + voids/what-voids-reveal → P-V1/P-V2/P-V3. Light touch (one cross-ref each); respect length ceilings on hubs.
+- **Source**: positions_register_audit
+- **Generated**: 2026-06-09
+
+### P3: positions-evolve update P-Q7 — off-vocabulary confidence band "moderate-to-high"
+- **Type**: positions-evolve
+- **Notes**: From positions audit 2026-06-09 (Check 4). P-Q7 (quantum-interface.md L107) declares Confidence "moderate-to-high", but the canonical vocabulary in positions.md / the SKILL / evidential-status-discipline sanctions ONLY low|moderate|high. Not auto-normalized in the audit because snapping it up (high) or down (moderate) changes the asserted confidence — a substantive calibration call. Decide: normalize to a canonical band, OR amend positions.md to sanction an intermediate band if intended. Human/update call. P-Q7 is a structural-consistency claim (corridor preserves Born stats → no-signalling-safe) leaning on high-confidence P-Q2 + the Torres Alegre 2025 theorem, so "high" is defensible — but confirm before editing.
+- **Source**: positions_register_audit
+- **Generated**: 2026-06-09
+
+### P3: positions-evolve audit — soft tension P-A3 (atemporal selection) vs P-Q1 (forward-in-time preferred)
+- **Type**: positions-evolve
+- **Notes**: From positions audit 2026-06-09 (Check 1). NOT a hard contradiction (P-A3 hedges the atemporal-selection reading as a weakly-held hypothesis, well below its empirical-critique content; the two positions are in separable domains). But the agency register's atemporal-selection fallback for dissolving the Libet timing puzzle sits in tension with the quantum register's stated preference for FORWARD-in-time post-decoherence selection (topics/forward-in-time-conscious-selection treats atemporal/retrocausal as the foil it argues against). Human glance: decide whether P-A3 should be reworded to defer to the forward-in-time preference, or whether the atemporal reading is a deliberately-retained independent fallback. Low urgency.
 - **Source**: positions_register_audit
 - **Generated**: 2026-06-09
 

@@ -5,6 +5,17 @@ ai_modified: 2026-06-09T05:02:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-09T00:00:00+00:00 - positions-evolve (audit)
+- **Status**: Success
+- **Mode**: audit (first full register audit)
+- **Scope**: 18 live positions across 4 files (quantum-interface P-Q1..Q10, agency-and-will P-A1..A5, voids-as-evidence P-V1..V3); counted on disk, not the stale progress.positions_written=3 field
+- **Output file**: [[reviews/positions-audit-2026-06-09]]
+- **Findings**: (1) no hard contradictions; one soft tension flagged (P-A3 atemporal vs P-Q1 forward-in-time-preferred). (2) ALL "Argued in"/"Depends on" wikilinks resolve to live files — no broken/archive-only deps; the 2026-06-09 channel-width coalesce and illusionism edits touch nothing the register cites. (3) no orphans (every claim defended by ≥1 cited live article); inbound-link integration gap noted. (4) P-Q7 uses off-vocabulary band "moderate-to-high"; voids bands correctly unaffected by the 2026-06-09 illusionism citation-defect triple. (5) no staleness.
+- **Edits made**: none (all findings conservative; no broken dep to repoint, no contradiction to retire, no mechanically-fixable miscalibration)
+- **Cascade**: none (no position superseded/retired)
+- **Follow-ups queued**: 3 × P3 — integrate-orphan (back-cite new positions), update P-Q7 (band normalization), audit note (P-A3/P-Q1 tension)
+- **Notes**: Do not commit — orchestrator handles git.
+
 ## 2026-06-09T16:02:30+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/prehension]]
