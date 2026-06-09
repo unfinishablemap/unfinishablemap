@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-09T05:02:00+00:00
+ai_modified: 2026-06-09T19:37:39+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-09T19:37:39+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-language-interface]]
+- **Word count**: 3455 → 3454 (−1; cliché-removal rephrase only, length-neutral)
+- **Critical issues addressed**: 1 (style-guide "This is not X. It is Y." cliché at L172, McGinn passage — rephrased length-neutrally)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Audit focus**: working-memory calibration adoption (commit `6cede6bcd`) — four hedge-softenings ("demonstrates"→"suggests", "confirms"→"appears to bear out/support"). Well-calibrated; did NOT over-hedge into mush (inverse-mush PASS) — core separability argument still at full strength in lead + aphasia section. Citations web-verified at publisher of record: Boroditsky 2011, Thierry et al. 2009 (PNAS 106(11):4567-4570), Schooler & Engstler-Schooler 1990, Carruthers 2002 (BBS 25(6):657-674) — all real-correct, stances faithful. Note: prompt-flagged Baddeley/Dehaene/Lupyan are NOT cited in this article. Cross-links live; reciprocate (working-memory hub excepted, not required). Engagement with Dennett/Carruthers/Vygotskians: Mode One (no label leakage). LLM section: no slippage. 9th review; converged.
+- **Output**: [[reviews/deep-review-2026-06-09-consciousness-and-language-interface]]
 
 ## 2026-06-09T19:30:00+00:00 - deep-review
 - **Status**: Success (no-op / metadata-only)

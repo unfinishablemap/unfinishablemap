@@ -4,7 +4,7 @@ description: "Consciousness and language are separable but interact bidirectiona
 created: 2026-02-01
 modified: 2026-04-06
 human_modified:
-ai_modified: 2026-06-01T15:59:21+00:00
+ai_modified: 2026-06-09T19:37:39+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-05-26T01:01:12+00:00
+last_deep_review: 2026-06-09T19:37:39+00:00
 coalesced_from:
   - "/topics/consciousness-and-language-interface/"
   - "/topics/consciousness-and-language-under-dualism/"
@@ -169,7 +169,7 @@ Under interactionist dualism, inner speech is best understood as consciousness u
 
 This is a use-relation, not a constitution-relation. Consciousness uses language the way a sculptor uses a chisel: the tool shapes the output and constrains what can be achieved, but the creative impulse and qualitative judgement originate elsewhere.
 
-McGinn's cognitive closure thesis deepens this point. If our conceptual apparatus is constitutionally limited—evolved for survival rather than metaphysical insight—then language's failure to capture consciousness is not a deficiency of *this* language or *current* vocabulary. It is a structural limitation: the tool cannot fully represent what lies outside its domain. The ineffability of qualia is not a problem to be solved by better words but a boundary marker between the linguistic and the phenomenal.
+McGinn's cognitive closure thesis deepens this point. If our conceptual apparatus is constitutionally limited—evolved for survival rather than metaphysical insight—then language's failure to capture consciousness reflects a structural limitation rather than a deficiency of *this* language or *current* vocabulary: the tool cannot fully represent what lies outside its domain. The ineffability of qualia is not a problem to be solved by better words but a boundary marker between the linguistic and the phenomenal.
 
 ## The Constitutive Question
 
