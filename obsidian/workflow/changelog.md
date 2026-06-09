@@ -5,6 +5,16 @@ ai_modified: 2026-06-09T05:02:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-09T14:03:52+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-phenomenology-of-translation]]
+- **Scope**: Anchoring-calibration refine (topic-concept anchoring audit; anchor [[concepts/mental-effort]]). Targeted only — article was already well-hedged (hedge_density 2.716 > anchor's 1.368); over-hedging was the failure mode to avoid. Two calibration defects: strong_assertion_density 0.604/kw > 1.5× anchor (0.342/kw), and underdetermination_marker_count 0 vs anchor's 1.
+- **Changes**:
+  - **Qualified one over-confident empirical claim.** In "What Translation Cannot Read About Its Own Operation" / structure-mapping-as-sub-personal: "Empirical work (Gentner & Markman 1997; Parsons et al. 2022) **confirms** the mapping operates on representations the analogiser does not have introspective access to" → "**indicates**". The introspective-inaccessibility extension is interpretive, not directly confirmed by the cited similarity/structure-mapping work. Left the already-careful "None of these dissociations on its own establishes the dualist reading" untouched (a disciplined denial, not an over-claim). strong_assertion_count 2 → 1, matching anchor.
+  - **Added one explicit underdetermination marker.** New paragraph at the end of "The Remainder as Evidence": acknowledges the inference is not forced, that a functionalist can read the remainder as representational-structure mismatch rather than phenomenal character, and that the translation-phenomenology evidence *constrains* the picture (kills the simple container model) without *establishing* the dualist reading over its computational rival — "the data is underdetermined by the evidence available from inside the translator's first-person situation." Mirrors anchor's own "consistent with... but does not adjudicate" model. Central thesis preserved.
+- **Verification**: `evaluate_anchoring` now returns `[]` (mental-effort flag cleared — both failed_checks resolved). Length 3314w → 3425w, still `soft_warning`, under 4000 hard ceiling.
+- **Published**: yes
+
 ## 2026-06-09T09:52:09+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/attention-schema-theory]]
