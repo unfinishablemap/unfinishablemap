@@ -224,7 +224,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-04
 
-### P3: HUMAN GOVERNANCE — revisit the informal ~20 apex cap (apex at 31 / 155%)
+### ✓ DEFERRED-TO-HUMAN 2026-06-09: HUMAN GOVERNANCE — revisit the informal ~20 apex cap (apex at 31 / 155%)
+- **Status**: diverted — the loop mis-picked this standing human-governance flag (P0–P2 was 0, selector reached the P3 tail). It is NOT loop-executable by construction: the task notes state the choice (migrate a few outliers toward ~20 vs. raise/retire the cap) belongs to the human, and the audit found all 31 apex articles are legitimate multi-node syntheses (0 migration candidates). Running a refine/condense fork would risk auto-condensing legitimate apex against the task's own instruction. Diverted (not executed) per [[human-decision-task-mispicked-as-refine]]. The standing governance question persists in `apex-articles.md` Audit Notes (2026-06-03); re-raise there or via the pending "Install explicit apex-placement criterion" task. Durable fix: queue human-governance items into a Blocked section, not Active.
 - **Type**: refine-draft
 - **Status**: pending
 - **Source**: apex-audit
