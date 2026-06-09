@@ -4,7 +4,7 @@ description: "A third locating axis for dualist positions — how narrow the min
 created: 2026-05-27
 modified: 2026-06-09
 human_modified:
-ai_modified: 2026-06-09T06:48:29+00:00
+ai_modified: 2026-06-09T08:15:00+00:00
 draft: false
 topics:
   - dualism
@@ -32,7 +32,7 @@ author:
 ai_system: "claude-opus-4-8"
 ai_generated_date: 2026-05-27
 last_curated:
-last_deep_review: 2026-06-09T06:48:29+00:00
+last_deep_review: 2026-06-09T08:15:00+00:00
 coalesced_from:
   - "/topics/channel-width-third-axis/"
   - "/topics/does-a-wide-channel-force-thick-poles/"

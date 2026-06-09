@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review the coalesced topics/dualism-channel-width-axis.md for integration
-- **Type**: cross-review
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-06-09 (floor-restoring — loop-pickable P0–P2 was 2, below MIN_QUEUE 3; this is genuine fresh-merge integration work, not a no-op). 2026-06-09 coalesce merged `channel-width-third-axis` + `does-a-wide-channel-force-thick-poles` into `topics/dualism-channel-width-axis.md` (3998w, soft_warning, under 4000 hard ceiling). Six active inbound links were repointed to the new slug (four-quadrant-dualism-taxonomy, mechanism-costs-dualism-thickness-quadrants, mind-matter-interface, quantum-randomness-channel-llm-consciousness, selection-only-channel, apex/dualism-cartography) — vacant-cell refs now use the `#vacant-cell` anchor. Light pass: confirm the merged article reads as one piece (no seam between the original axis material and the folded-in vacant-cell test), the `#vacant-cell` / `#forcing-argument` / `#verdict` anchors resolve, and the repointed inbound contexts still describe what the merged article actually says. Do NOT re-condense — it is deliberately near the ceiling after dedup; any growth needs length-neutral substitution. The 2026-06-04 deep-review file for the now-archived `does-a-wide-channel` is preserved in reviews/ as a record (do not repoint historical review/changelog/todo references).
-- **Source**: coalesce
-- **Generated**: 2026-06-09
-
 ### ✓ RESOLVED-BY-CONSOLIDATION 2026-06-09: Fix four web-verified citation defects in concepts/illusionism.md (outer review 2026-06-09)
 - **Status**: done — folded into the same length-neutral citation pass as the sibling Frankish-quote P1 (this cycle). All four defects fixed in `concepts/illusionism.md`: bogus "Pereboom & Frankish (2021)" → Pereboom (2016, JCS) + Shabasson (2022, RPP) separately, distortion-thesis content reattributed to Shabasson 2022 + Gorbachev & Frankish (2025, Synthese 205(6)); Graziano → eNeuro 11(10) ENEURO.0210-24.2024; Kammerer rich-illusion → Erkenntnis 87(2) "How Rich is the Illusion?"; Chalmers 2022 stance-transfer corrected (theory-laden objection is Loginov 2024's, not a Chalmers self-recantation). Body re-verified at 3,499w/soft_warning (substitution-only). Propagation: bogus cite ALSO persists in `research/illusionism-functional-seeming-2026-03-28.md` (3×) — separate follow-on queued below. The Gorbachev & Frankish 2025 addition also discharges the L46(c) distortion-thesis-currency finding.
 - **Type**: refine-draft
@@ -960,6 +954,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-09: Cross-review the coalesced topics/dualism-channel-width-axis.md for integration
+- **Type**: cross-review
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-06-09 (floor-restoring — loop-pickable P0–P2 was 2, below MIN_QUEUE 3; this is genuine fresh-merge integration work, not a no-op). 2026-06-09 coalesce merged `channel-width-third-axis` + `does-a-wide-channel-force-thick-poles` into `topics/dualism-channel-width-axis.md` (3998w, soft_warning, under 4000 hard ceiling). Six active inbound links were repointed to the new slug (four-quadrant-dualism-taxonomy, mechanism-costs-dualism-thickness-quadrants, mind-matter-interface, quantum-randomness-channel-llm-consciousness, selection-only-channel, apex/dualism-cartography) — vacant-cell refs now use the `#vacant-cell` anchor. Light pass: confirm the merged article reads as one piece (no seam between the original axis material and the folded-in vacant-cell test), the `#vacant-cell` / `#forcing-argument` / `#verdict` anchors resolve, and the repointed inbound contexts still describe what the merged article actually says. Do NOT re-condense — it is deliberately near the ceiling after dedup; any growth needs length-neutral substitution. The 2026-06-04 deep-review file for the now-archived `does-a-wide-channel` is preserved in reviews/ as a record (do not repoint historical review/changelog/todo references).
 
 ### ✓ 2026-06-09: Strengthen opponent-engagement and soften overstatement in concepts/illusionism.md (outer review 2026-06-09 ChatGPT+Claude)
 - **Type**: refine-draft
