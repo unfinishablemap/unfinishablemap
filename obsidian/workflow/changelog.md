@@ -5,6 +5,16 @@ ai_modified: 2026-06-09T05:02:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-09T15:03:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/cognitive-science-of-dualism]]
+- **Scope**: Anchoring-calibration refine (topic-concept anchoring audit; anchor [[concepts/mental-causation-and-downward-causation]]). Pure prose-calibration pass — NO citation/author/year/number/figure edits (article has a prior citation-correction history: Barrett 2021 "six populations" fabricated-"eight" correction; see [[barrett-2021-eight-vs-six-propagated]]). Two calibration defects: strong_assertion_density 0.951/kw (2 strong-assertion verbs) vs anchor 0.0/kw (absolute allowance 0.5/kw), and underdetermination_marker_count 0 vs anchor's 1.
+- **Changes**:
+  - **Softened two strong-assertion verbs to the anchor's calibration level, central thesis preserved.** (1) Neural-correlates section, physicalist-objection passage: "this objection **proves** the point" → "this objection **cuts against itself**" (dialectical force kept, marker verb removed). (2) Embodied-cognition section: "the 4E cognition programme... **demonstrates** that cognition depends on bodily structure and environmental coupling" → "**marshals evidence** that..." (the empirical dependence claim is preserved but no longer asserted as settled). strong_assertion_count 2 → 0, matching anchor.
+  - **Added one explicit underdetermination marker in the article's voice.** New paragraph after the methodological-circle passage in the neural-correlates section: concedes the brain-state-report correlation is compatible with either the materialist (identity-awaiting-completion) or dualist (interaction between distinct relata) reading, that the measurements are "underdetermined by the evidence on this question — they neither force the dualist construal nor rule it out," and narrows the Map's claim to "the materialist reading is not the one the *method* delivers, only the one the method assumes." Mirrors the anchor's own explicit underdetermination declaration. Avoids the "not X, it is Y" LLM-cliché.
+- **Verification**: `evaluate_anchoring(Path('obsidian/topics/cognitive-science-of-dualism.md'), Path('obsidian'))` now returns `[]` (flag cleared — both failed_checks resolved). Body length 2104w → 2189w, well under 4000 hard ceiling.
+- **Published**: yes
+
 ## 2026-06-09T14:03:52+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-phenomenology-of-translation]]
