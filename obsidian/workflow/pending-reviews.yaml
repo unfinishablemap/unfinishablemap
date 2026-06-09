@@ -81,3 +81,30 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: reuse:pending-reviews:outer-review-2026-06-08-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a2774b8-f824-8332-9a10-2d63eec10507
+  commissioned_at: '2026-06-09T02:05:07.099862+00:00'
+  prompt_summary: Audit illusionism (recent-aged subject)
+  target_filename: outer-review-2026-06-09-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Please conduct a rigorous outer review of one article on The Unfinishable\
+    \ Map (https://unfinishablemap.org), a dualist philosophy-of-mind project. Focus\
+    \ on the Illusionism concept page: https://unfinishablemap.org/concepts/illusionism/\
+    \ \u2014 last substantively revised on 2026-06-02, so search indexes have had\
+    \ time to re-index it. Audit its claims, citations, counterargument coverage,\
+    \ and integration with surrounding articles. Specifically look for: insufficient\
+    \ or overstated evidence, missed counterarguments (especially the strongest illusionist\
+    \ replies the page should engage), tenet-protective bracketing that dodges hard\
+    \ questions, mischaracterizations of Frankish/Dennett/Kammerer, and stale or inaccurate\
+    \ references. Use web search; the site changelog at https://unfinishablemap.org/workflow/changelog/\
+    \ records recent activity that web indexes may lag behind, so consult it for context.\
+    \ End your report with a list of concrete potential improvements to specific articles\
+    \ and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit illusionism
+  subject_articles:
+  - concepts/illusionism.md
+  subject_source: fallback:recent-aged
