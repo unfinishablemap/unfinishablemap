@@ -5,6 +5,18 @@ ai_modified: 2026-06-09T21:15:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-09T22:07:46+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/modal-structure-of-phenomenal-properties]]
+- **Word count**: 2384 → 2384 (no body edit; 79% of 3000 soft — comfortable, length-neutral)
+- **Critical issues addressed**: 0 (fifth consecutive converged review)
+- **Medium issues addressed**: 0 in-article; 1 deferred (cross-link reciprocation gap → P3 follow-up)
+- **Enhancements made**: 0 (article converged; only last_deep_review bumped)
+- **Audit**: post-05-26 PCS-calibration refine (commit ebec228e1) confirmed a conservative calibration *tightening* ("establishes"→"points to", "shows"→"argues"), no defect; type-B physicalism + PCS master-argument engaged at full strength, no strawman
+- **Citation web-verify**: Chalmers 2002 web-verified real-correct at publisher (Gendler & Hawthorne eds., OUP, pp.145-200); Chalmers 1996/2006, Kripke 1972/80, Jackson 1982, Levine 1983 all real-correct (canonical, re-verified). Article does NOT cite Loar/Stoljar — that PCS attribution lives correctly in the linked [[phenomenal-concepts-strategy]] concept page
+- **Calibration**: no possibility/probability slippage; conceivability→possibility kept as contested-and-defended, not asserted
+- **Output**: [[reviews/deep-review-2026-06-09-modal-structure-of-phenomenal-properties]]
+
 ## 2026-06-09T21:38:32+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/concession-convergence-philosophy-of-mathematics]]
