@@ -134,3 +134,38 @@
   subject_articles:
   - concepts/illusionism.md
   subject_source: reuse:pending-reviews:outer-review-2026-06-09-chatgpt-5-5-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/666407a833e1ba42
+  commissioned_at: '2026-06-09T04:05:49.571200+00:00'
+  prompt_summary: Hostile-referee audit of illusionism concept article
+  target_filename: outer-review-2026-06-09-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (Mind, Synthese, Philosophical Studies) reviewing an article for submission;
+    your remit is to identify weaknesses that would justify rejection or major revision.
+    The article is at https://unfinishablemap.org/concepts/illusionism/ and makes
+    claims about illusionism, the view that phenomenal consciousness is an introspective
+    illusion; the site argues for a non-reductive view of consciousness. A recent
+    changelog is at https://unfinishablemap.org/workflow/changelog/ (web search has
+    24-48h index lag, so fetch these directly). Assess only the article''s empirical
+    claims, citations, counterargument coverage, and logical inferences. Do not describe
+    the site''s automation, review pipeline, methodology disciplines, evolution loop,
+    or governance infrastructure; those are project-internal and not the subject of
+    audit. Audit: empirical accuracy against 2020s literature; whether cited results
+    have been challenged, retracted, or failed to replicate; framings the article
+    brackets rather than defends; and untested counterarguments or competing frameworks
+    (e.g. higher-order, attention-schema, eliminativist illusionism per Frankish,
+    Kammerer, Graziano). End with at least five specific weaknesses; for each, cite
+    at least one peer-reviewed source from 2020-2025 the article omits, contradicts,
+    or mishandles. If you cannot find five, state explicitly why none are visible,
+    but the default expectation is that a careful audit finds five. End with the weaknesses
+    list and a one-sentence verdict on academic-submission readiness. Do not append
+    summary praise of the site''s strengths, methodology, or architectural ambition.'
+  subject_type: recent
+  subject_title: Audit illusionism
+  subject_articles:
+  - concepts/illusionism.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-09-chatgpt-5-5-pro.md
