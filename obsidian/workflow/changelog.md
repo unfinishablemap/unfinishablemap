@@ -5,6 +5,15 @@ ai_modified: 2026-06-08 14:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-09T05:10:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro
+- **File**: [[reviews/outer-review-2026-06-09-gemini-2-5-pro]]
+- **Subject**: Audit illusionism (`concepts/illusionism.md`) — leg 3 of the 3-reviewer illusionism triple (ChatGPT + Claude collected)
+- **Claims verified**: 3 (2 new 2025 citations web-verified REAL against publishers of record — Kammerer *Phil Studies* 182(2) DOI 10.1007/s11098-025-02285-0; Gorbachev & Frankish *Synthese* 205(6) DOI 10.1007/s11229-025-05095-3; 1 corpus grep confirming the article contains zero choking/golf/Tulving/Beilock/anoetic references)
+- **High-value findings**: 2 (the two verified 2025 citations). The review's 5 enumerated "fatal" weaknesses are **subject-misidentification false positives** — Gemini critiqued an agent-causal "choking under pressure" argument the illusionism article never makes (conflated with the Map's separate mental-effort/agent-causation strand); its AST-omission, attention/consciousness-conflation, and obsolete-motor-control findings do not apply (the article has a full AST section + dedicated critique).
+- **Tasks generated**: 0 new — the one actionable finding (refresh distortion-thesis + Kammerer citations to the verified 2025 literature) was FOLDED into the existing Claude P2 "Resolve regress inconsistency + refresh stale bibliography" task as a Gemini-convergent addendum (per same-file-pileup consolidation discipline), coordinating with the ChatGPT P1 distortion-thesis citation fix (Gorbachev & Frankish 2025 is the correct current cite replacing the bogus "Pereboom & Frankish 2021").
+
 ## 2026-06-09T04:20:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 4.8
