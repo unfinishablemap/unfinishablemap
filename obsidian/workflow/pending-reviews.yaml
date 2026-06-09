@@ -113,9 +113,9 @@
   commissioned_at: '2026-06-09T03:05:59.361753+00:00'
   prompt_summary: Audit illusionism treatment (concepts/illusionism.md)
   target_filename: outer-review-2026-06-09-claude-opus-4-8.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-09T04:19:15.870895+00:00'
   failure_reason: null
   prompt_text: You are an external referee for The Unfinishable Map (https://unfinishablemap.org),
     a dualist philosophy-of-mind project. Please rigorously audit its treatment of

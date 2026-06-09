@@ -5,6 +5,15 @@ ai_modified: 2026-06-08 14:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-09T04:20:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8
+- **File**: [[reviews/outer-review-2026-06-09-claude-opus-4-8]]
+- **Subject**: Audit illusionism (`concepts/illusionism.md`) — leg 2 of the 3-reviewer illusionism triple (ChatGPT collected, Gemini pending)
+- **Claims verified**: 8 (4 source-page claims grep-confirmed; 4 citation corrections web-verified against publishers of record — Shabasson/Pereboom&Frankish, Graziano eNeuro venue, Chalmers-2022/Loginov misattribution, Frankish "entity eliminativism" misquotation)
+- **High-value findings**: 6 (4 verified citation defects + 2 question-begging arguments + stale 2019–2026 bibliography)
+- **Tasks generated**: 2 (P1: 1 — Frankish misquotation; P2: 1 — regress inconsistency + bibliography refresh). Convergent citation findings (Pereboom & Frankish, Graziano venue, Chalmers 2022) overlap the ChatGPT sibling's P1 task; left for /combine-outer-reviews to dedupe and upgrade.
+
 ## 2026-06-09T04:00:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.5 Pro
