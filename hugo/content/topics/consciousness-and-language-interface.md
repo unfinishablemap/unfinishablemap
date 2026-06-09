@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-06-01 15:59:21+00:00
+ai_modified: 2026-06-09 19:37:39+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ description: Consciousness and language are separable but interact bidirectional
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 01:01:12+00:00
+last_deep_review: 2026-06-09 19:37:39+00:00
 modified: *id001
 related_articles:
 - '[[language-recursion-and-consciousness]]'
@@ -172,7 +172,7 @@ Under interactionist dualism, inner speech is best understood as consciousness u
 
 This is a use-relation, not a constitution-relation. Consciousness uses language the way a sculptor uses a chisel: the tool shapes the output and constrains what can be achieved, but the creative impulse and qualitative judgement originate elsewhere.
 
-McGinn's cognitive closure thesis deepens this point. If our conceptual apparatus is constitutionally limited—evolved for survival rather than metaphysical insight—then language's failure to capture consciousness is not a deficiency of *this* language or *current* vocabulary. It is a structural limitation: the tool cannot fully represent what lies outside its domain. The ineffability of qualia is not a problem to be solved by better words but a boundary marker between the linguistic and the phenomenal.
+McGinn's cognitive closure thesis deepens this point. If our conceptual apparatus is constitutionally limited—evolved for survival rather than metaphysical insight—then language's failure to capture consciousness reflects a structural limitation rather than a deficiency of *this* language or *current* vocabulary: the tool cannot fully represent what lies outside its domain. The ineffability of qualia is not a problem to be solved by better words but a boundary marker between the linguistic and the phenomenal.
 
 ## The Constitutive Question
 

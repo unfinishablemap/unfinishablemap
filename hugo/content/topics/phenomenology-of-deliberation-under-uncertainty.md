@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-05-29 00:00:00+00:00
+ai_modified: 2026-06-09 19:52:57+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: What it feels like to decide when outcomes are unknowable—the ver
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 18:46:03+00:00
+last_deep_review: 2026-06-09 19:52:57+00:00
 modified: *id001
 related_articles:
 - '[[authentic-vs-inauthentic-choice]]'
@@ -166,7 +166,7 @@ The Unfinishable Map's framework illuminates deliberation under uncertainty at s
 1. Dreyfus, H. L. (1997). Intuitive, Deliberative, and Calculative Models of Expert Performance. In C. Zsambok & G. Klein (Eds.), *Naturalistic Decision Making*. Lawrence Erlbaum.
 1. Gigerenzer, G. (2007). *Gut Feelings: The Intelligence of the Unconscious*. Viking.
 1. Heidegger, M. (1927/1962). *Being and Time*. Harper & Row.
-1. Kahneman, D. & Tversky, A. (1979). Prospect Theory: An Analysis of Decision under Risk. *Econometrica*, 47(2), 263-292.
+1. Kahneman, D. & Tversky, A. (1979). Prospect Theory: An Analysis of Decision under Risk. *Econometrica*, 47(2), 263-291.
 1. Kierkegaard, S. (1843). *Fear and Trembling*. (Frygt og Bæven)
 1. Knight, F. H. (1921). *Risk, Uncertainty, and Profit*. Houghton Mifflin.
 1. Sartre, J.-P. (1943/1956). *Being and Nothingness*. Philosophical Library.

@@ -1,13 +1,58 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-09 05:02:00+00:00
+ai_modified: 2026-06-09 19:52:57+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-09'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-09T20:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [amplification-void](/voids/amplification-void/)
+- **Word count**: 1888 → 1888 (no body change; metadata-only verdict)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Audit focus**: 3rd review of a converged article. Trigger was changed-since-review staleness (ai_modified 2026-06-01 > last_deep_review 2026-05-26). The actual post-review diff (commit `462acf4b7`) is a single Further Reading annotation, NOT a body import of the triple-screen conjunction — the conjunction lives in the apex. Audited (a) the triple-screen unfalsifiability conjunction at its apex home (`what-consciousness-tells-us-about-physics` §The Triple Screen): honestly stated as an admission the Map takes seriously ("insulation from evidence is a cost the position carries, not a protection it enjoys"; "removing a defeater is not evidence") — not waved away, not overstated into self-refutation. (b) Evidential-status discipline intact — void body unchanged, consistently conditional, the new "evidential insulation" framing is the honest version (insulation = absence of evidence). (c) References unchanged since the 2026-05-26 web-verified ledger (Wiest 2025 correction holds); §2.4 skip condition met. (d) All cross-links resolve live; apex reciprocates 4× and the `#the-triple-screen` anchor is valid; void↔apex leg-assignment mutually consistent. (e) No "This is not X. It is Y." cliché. Length 1888w under soft 2000 — headroom present but no genuine gap; declined to import triple-screen into the void body to avoid oscillation/padding. No-op verdict per license; bumped last_deep_review only.
+- **Output**: [deep-review-2026-06-09-amplification-void](/reviews/deep-review-2026-06-09-amplification-void/)
+
+## 2026-06-09T19:52:57+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)
+- **Word count**: 2813 → 2813 (no body change; citation metadata fix only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Kahneman & Tversky 1979 page range 263-292 → 263-291, corrected against Econometric Society / RePEc publisher of record)
+- **Enhancements made**: 0
+- **Audit focus**: 5th review; legitimately qualified via the 2026-05-29 modal-calibration refine (commit `1c982b283` — "cannot"→"may not", "demonstrates"→"suggests", "no algorithm replicates"→"arguably does not", defeasibility caveat added), NOT a cosmetic no-op. Full §2.4 publisher web-verify of all 8 References: Kahneman&Tversky 1979 (real-wrong-metadata, fixed), Simon 1956 PsychRev 63(2):129-138 (real-correct, PubMed 13310708), Dreyfus 1997 / Gigerenzer 2007 / Heidegger 1927 / Kierkegaard 1843 / Knight 1921 / Sartre 1943 (all real-correct, attributions faithful). No superlative claims (currency sweep empty). Inline↔References no orphans. Metacognitive-Monitoring engagement: Mode Two→Three, no boundary-substitution, no label leakage. No possibility/probability slippage — modal register correctly calibrated post-refine; did NOT over-hedge converged prose. Links + #magnitude-and-probability-domain anchor verified live.
+- **Output**: [deep-review-2026-06-09-phenomenology-of-deliberation-under-uncertainty](/reviews/deep-review-2026-06-09-phenomenology-of-deliberation-under-uncertainty/)
+- **Status**: Success
+- **File**: [consciousness-and-language-interface](/topics/consciousness-and-language-interface/)
+- **Word count**: 3455 → 3454 (−1; cliché-removal rephrase only, length-neutral)
+- **Critical issues addressed**: 1 (style-guide "This is not X. It is Y." cliché at L172, McGinn passage — rephrased length-neutrally)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Audit focus**: working-memory calibration adoption (commit `6cede6bcd`) — four hedge-softenings ("demonstrates"→"suggests", "confirms"→"appears to bear out/support"). Well-calibrated; did NOT over-hedge into mush (inverse-mush PASS) — core separability argument still at full strength in lead + aphasia section. Citations web-verified at publisher of record: Boroditsky 2011, Thierry et al. 2009 (PNAS 106(11):4567-4570), Schooler & Engstler-Schooler 1990, Carruthers 2002 (BBS 25(6):657-674) — all real-correct, stances faithful. Note: prompt-flagged Baddeley/Dehaene/Lupyan are NOT cited in this article. Cross-links live; reciprocate (working-memory hub excepted, not required). Engagement with Dennett/Carruthers/Vygotskians: Mode One (no label leakage). LLM section: no slippage. 9th review; converged.
+- **Output**: [deep-review-2026-06-09-consciousness-and-language-interface](/reviews/deep-review-2026-06-09-consciousness-and-language-interface/)
+
+## 2026-06-09T19:30:00+00:00 - deep-review
+- **Status**: Success (no-op / metadata-only)
+- **File**: [split-brain-consciousness](/topics/split-brain-consciousness/)
+- **Word count**: 3161 → 3161 (no change; 105% soft, under 4000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Audit focus**: NCC-calibration adoption (commit `74dd57b82`) landed cleanly — four modal-calibration tightenings (underdetermination paragraph, "establishes"→"reaches only as far as", "proves"→"appears", section-header neutralization); did NOT over-hedge the unity argument (inverse-mush PASS). Pinto 2017 + Bayne 2010 web-verified at publisher of record (real-correct, stances faithful). Cross-links live + reciprocal. No "This is not X. It is Y." cliché. Eighth review; converged. Bumped last_deep_review only.
+- **Output**: [deep-review-2026-06-09-split-brain-consciousness](/reviews/deep-review-2026-06-09-split-brain-consciousness/)
+
+## 2026-06-09T18:49:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/functionalism.md` (oldest content article by `modified` date, 2026-01-09; 2948 body words; never previously the subject of a dedicated pessimistic review)
+- **Key finding**: orphan Craddock (2017) reference in bibliography with no inline citation (benign dangling variant from the 613 THz sweep) + 3 Medium prose findings (supervenience→separability bridge, illusionism question-begging, concession-convergence parity)
+- **Output**: [pessimistic-2026-06-09](/reviews/pessimistic-2026-06-09/)
+- **Tasks added**: 1 (P3 refine-draft, functionalism.md)
 
 ## 2026-06-09T00:00:00+00:00 - positions-evolve (audit)
 - **Status**: Success
