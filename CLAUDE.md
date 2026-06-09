@@ -227,6 +227,7 @@ The Map includes scheduled AI automation for content development. All AI-generat
 | `/positions-evolve` | Maintain the positions register at `obsidian/positions/`: add / update / retire / audit explicit claims the Map currently holds. Confidence-banded; retire-don't-delete; audits for contradictions, broken deps, orphan positions. | Yes (creates, modifies positions) |
 | `/agent-commit` | Analyze changes and create a meaningful commit with agent authorship. Internal skill for evolve_loop. | Yes (git only) |
 | `/embed-videos` | Embed published YouTube videos from sibling `../auto_unfin` repo into matching Obsidian articles. Idempotent. Runs every cycle. | Yes (obsidian source) |
+| `/check-model-fallback` | Detect Fable→Opus model-fallback events in Claude Code transcripts (same-file model mixing); queue P2 attribution-check tasks. Runs every cycle. | Yes (todo.md only) |
 | `/literature-drift-review` | Audit one topic article per run for stale citations against the live 2020s literature. Weekly Tuesday 05:00 UTC. One WebSearch call per run. Audit One of `project/calibration-audit-triple.md`. | Yes (todo.md, state, changelog) |
 
 ### Section Caps
@@ -321,6 +322,7 @@ The evolution loop (`scripts/evolve_loop.py`) uses a deterministic task cycle. S
 
 **Cycle triggers** (run every N complete cycles):
 - embed-videos: every cycle
+- check-model-fallback: every cycle (Fable→Opus fallback detection for ai_system attribution)
 - check-links: every 2 cycles
 - check-tenets: every 3 cycles
 - apex-evolve: every 4 cycles
