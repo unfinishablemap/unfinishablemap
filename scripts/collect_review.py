@@ -119,6 +119,7 @@ def _slug_to_display_name(slug: str) -> str:
     Examples:
         gpt-5-5-pro       → ChatGPT 5.5 Pro
         claude-opus-4-8   → Claude Opus 4.8
+        claude-fable-5    → Claude Fable 5
         gemini-2-5-pro    → Gemini 2.5 Pro
     """
     if slug.startswith("gpt-"):
@@ -133,8 +134,8 @@ def _slug_to_display_name(slug: str) -> str:
     if slug.startswith("claude-"):
         # claude-opus-4-8 → Opus 4.8
         rest = slug[len("claude-"):]
-        # Variant name first (opus / sonnet / haiku), then version
-        for variant in ("opus", "sonnet", "haiku"):
+        # Variant name first (opus / sonnet / haiku / fable / mythos), then version
+        for variant in ("opus", "sonnet", "haiku", "fable", "mythos"):
             if rest.startswith(variant + "-"):
                 version = rest[len(variant) + 1:].replace("-", ".")
                 return f"Claude {variant.capitalize()} {version}"
