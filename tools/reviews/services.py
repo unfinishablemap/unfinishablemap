@@ -37,13 +37,13 @@ SERVICES: list[ReviewService] = [
     ),
     ReviewService(
         service="claude",
-        slug="claude-opus-4-8",
+        slug="claude-fable-5",
         skill_commission="commission-claude-review",
         skill_collect="collect-claude-review",
         cadence_days=1,
         commission_hour_utc=3,
         min_collect_age_minutes=60,  # Opus + Research typically 5-15 min
-        display_name="Claude Opus 4.8",
+        display_name="Claude Fable 5",
     ),
     ReviewService(
         service="gemini",
@@ -63,7 +63,7 @@ def get_service(service_or_slug_prefix: str) -> ReviewService:
 
     Examples:
         get_service("chatgpt") → the ChatGPT entry (matched on .service)
-        get_service("claude-opus") → the Claude entry (matched on .slug)
+        get_service("claude-fable") → the Claude entry (matched on .slug)
     """
     for s in SERVICES:
         if s.service == service_or_slug_prefix:

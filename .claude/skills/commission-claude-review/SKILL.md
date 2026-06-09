@@ -1,13 +1,13 @@
 ---
 name: commission-claude-review
-description: Open Claude in Chrome, enable Research mode (Web Search is on by default), submit an outer-review prompt to the Unfinishable Map project (Opus 4.8 Adaptive), navigate the optional clarifying-questions stage with "go", record the pending entry, and exit. Pairs with collect-claude-review which retrieves the response after ~60 minutes.
+description: Open Claude in Chrome, enable Research mode (Web Search is on by default), submit an outer-review prompt to the Unfinishable Map project (Fable 5), navigate the optional clarifying-questions stage with "go", record the pending entry, and exit. Pairs with collect-claude-review which retrieves the response after ~60 minutes.
 context: fork
 agent: general-purpose
 ---
 
 # Commission Claude Review
 
-Drives Chrome via the `mcp__claude-in-chrome__*` tools to commission an outer review from Claude (Opus 4.8 with Adaptive thinking, Research, and Web Search) in The Unfinishable Map's project workspace. Returns immediately after research is underway — collection happens later in `collect-claude-review`.
+Drives Chrome via the `mcp__claude-in-chrome__*` tools to commission an outer review from Claude (Fable 5 with Research and Web Search) in The Unfinishable Map's project workspace. Returns immediately after research is underway — collection happens later in `collect-claude-review`.
 
 ## When to Use
 
@@ -83,7 +83,7 @@ JSON.stringify({
 })
 ```
 
-**Logged-in signal**: `composer: true` AND `modelText` contains "Opus" AND `loginRedirect: false`.
+**Logged-in signal**: `composer: true` AND `modelText` contains "Fable" AND `loginRedirect: false`.
 
 **Logged-out signal**: any of the above failing.
 
@@ -99,7 +99,7 @@ Inside the menu:
 
 Verify after clicking: the menu closes and a new button with `aria-label="Research mode"` (or similar) appears in the composer area. If the verification fails, **bail before submitting** — take a screenshot and dump the menu DOM to `tmp/commission-claude-failure-<timestamp>.txt`.
 
-Verify model selector still reads "Opus 4.8 Adaptive". If it shows a different model, bail — the project's default may have changed and we should not commission against the wrong model.
+Verify model selector text contains "Fable 5" (exact suffix may vary — substring match). If it shows a different model family, bail — the project's default may have changed and we should not commission against the wrong model.
 
 ## Step 4: Type the prompt and submit
 
@@ -167,7 +167,7 @@ Compute the target filename:
 ```python
 import datetime as dt
 date = dt.datetime.now(dt.timezone.utc).date().isoformat()
-target = f"outer-review-{date}-claude-opus-4-8.md"
+target = f"outer-review-{date}-claude-fable-5.md"
 ```
 
 Then:
@@ -206,7 +206,7 @@ When this commission runs as the *second or third* service of the day, the selec
 ## Step 9: Log and exit
 
 ```
-Commissioned outer review: claude-opus-4-8 on "<short_summary>" — <conversation_url>
+Commissioned outer review: claude-fable-5 on "<short_summary>" — <conversation_url>
 ```
 
 Total runtime budget: 5 minutes.
@@ -220,7 +220,7 @@ Total runtime budget: 5 minutes.
 | Chrome MCP unavailable | tool call raises / "extension is not connected" | Emit `CHROME_UNAVAILABLE: claude commission` and skip; no crash, no pending entry. |
 | Login expired | composer absent OR URL redirected | Emit `LOGIN_REQUIRED: claude session expired` and stop. |
 | Research checkbox missing | menu doesn't contain it | Bail before submitting; screenshot + DOM dump. |
-| Model not Opus | model selector text doesn't contain "Opus" | Bail; the project default has changed. |
+| Model not Fable | model selector text doesn't contain "Fable" | Bail; the project default has changed. |
 | Submission silent failure | no `/chat/<uuid>` URL after 10s | Bail; do not write pending entry. |
 | Ambiguous post-submit state | no stopBtn AND no artifact AND no research panel after 30s | Bail; operator inspects. |
 
