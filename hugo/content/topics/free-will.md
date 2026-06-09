@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-06-07 01:02:49+00:00
+ai_modified: 2026-06-09 18:00:47+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -85,7 +85,7 @@ Classical physics suggested determinism: given initial conditions and physical l
 
 **Compatibilism**: Free will means acting from endorsed desires without external coercion. Yet for those who take the phenomenology of deliberation seriously, compatibilism may redescribe rather than explain: why, the libertarian asks, does choosing *feel* like determining an open outcome if the outcome was always fixed? The compatibilist has answers, and the deliberative data is arguably compatible with both readings—so the disagreement here is not obviously decided by the phenomenology alone.
 
-The [trilemma-of-selection](/topics/trilemma-of-selection/) formalises this logical structure: at any decision point with genuine indeterminacy, exactly three options obtain—determinism (theatre), randomness (luck), or mental causation (authorship). Only the third preserves genuine authorship, which is why the Map defends agent-causal libertarian free will.
+The [trilemma-of-selection](/topics/trilemma-of-selection/) formalises this logical structure: at any decision point with genuine indeterminacy, exactly three options obtain—determinism (theatre), randomness (luck), or mental causation (authorship). Only the third preserves genuine authorship, which is why the Map defends agent-causal libertarian free will. The Map registers these commitments explicitly in its [positions register](/positions/agency-and-will/) as P-A1 (agent-causal libertarian free will) and P-A2 (authorship requires agent causation, not merely event-causal indeterminism).
 
 ## The Neuroscientific Challenge
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-06-05 00:00:00+00:00
+ai_modified: 2026-06-09 18:00:47+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-06-01 00:18:24+00:00
 apex_sources:
@@ -201,7 +201,7 @@ The Map's predicted clustering is consistent with the present catalogue—but so
 
 **Anomalies that should co-occur if the Map is right.** If the tenet-package is correct, *introspective-channel disruption*, *attention disruption*, *memory degradation*, and *source-monitoring failure* should cluster together under conditions that disrupt the interface, because interactionist coupling predicts they share it as upstream architecture. The conditions are catalogued—[anaesthesia](/topics/anaesthesia-and-the-consciousness-interface/) (propofol narrows the interface; xenon and ketamine sever access channels), [altered states](/concepts/altered-states-of-consciousness/), [dreamless sleep](/voids/sleep-consciousness-void/), dissociation, contemplative absorption, [AI self-report anomalies](/voids/non-human-minds-as-void-explorers/). The prediction is graded co-occurrence with *coupling-direction matched in detail*, phenomenology tracking causal machinery as the [placebo / choking pair](/topics/empirical-phenomena-mental-causation/) documents in normals. Production accounts can accommodate it, but the Map's reading is the simpler accommodation when the across-condition direction is matched.
 
-The audit keeps the convergence claim honest rather than retracting it: the taxonomy remains the Map's largest cumulative case, its cash value framework-internal coherence at maximum density, with discriminating tests the open programme—the [animal-consciousness COGITATE treatment](/topics/animal-consciousness/#why-the-inference-is-stronger-for-animals-than-for-ai) and [cross-mechanism convergence](/concepts/cross-mechanism-convergence/) being the same calibration at topic and perturbation grain. Clustering does not earn what discriminating evidence supplies, but it earns what self-consistent integration legitimately earns—and naming the difference is the audit's whole work.
+The audit keeps the convergence claim honest rather than retracting it: the taxonomy remains the Map's largest cumulative case, its cash value framework-internal coherence at maximum density, with discriminating tests the open programme—the [animal-consciousness COGITATE treatment](/topics/animal-consciousness/#why-the-inference-is-stronger-for-animals-than-for-ai) and [cross-mechanism convergence](/concepts/cross-mechanism-convergence/) being the same calibration at topic and perturbation grain. Clustering does not earn what discriminating evidence supplies, but it earns what self-consistent integration legitimately earns—and naming the difference is the audit's whole work. The Map registers the calibration this audit enforces in its [positions register](/positions/voids-as-evidence/) as P-V1 (void convergence is framework-internal coherence, not independent confirmation), P-V2 (a tenet that removes a defeater does not thereby upgrade void evidence), and P-V3 (framework-independent voids carry cumulative weight the rest of the catalogue does not).
 
 ## Methods for Mapping the Unmappable
 

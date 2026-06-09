@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-28
-ai_modified: 2026-06-08 12:34:15+00:00
+ai_modified: 2026-06-09 18:00:47+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -83,7 +83,7 @@ Beneath the methodological argument sits a distinct evidential one. Questioning 
 
 The strongest deflator is observer selection: only beings who ask about questioning can ask about questioning. The deflator is genuine but limited. It explains *why we observe the datum*—why the beings asking the question are the same beings exhibiting the capacity. It leaves untouched the deeper question: *why the datum obtains at all*. A universe that produces beings capable of conceiving their own cognitive limits differs structurally from one that does not, and anthropic reasoning is silent on what accounts for that structural difference. Observer selection explains why fish observe water. It does not explain water.
 
-The capacity to conceive of cognitive limits is not just recursive self-monitoring. A sufficiently complex neural network might model its own states, detect errors, and adjust behaviour—all without ever asking "what cannot I think?" Void-inquiry requires conceiving of *absence*: grasping that something might be missing, that the cognitive architecture itself has an outside. A system that models its own states can represent those states. Representing the *limits* of representation requires a vantage point that is not itself one of the states being modelled.
+The capacity to conceive of cognitive limits is not just recursive self-monitoring. A sufficiently complex neural network might model its own states, detect errors, and adjust behaviour—all without ever asking "what cannot I think?" Void-inquiry requires conceiving of *absence*: grasping that something might be missing, that the cognitive architecture itself has an outside. Representing the *limits* of representation requires a vantage point that is not itself one of the states being modelled.
 
 If consciousness is identical to physical processing, the "vantage point" from which we conceive of cognitive limits is itself just another physical process, and the sense of standing outside one's own cognition would be systematically illusory. If consciousness is genuinely distinct, the capacity to conceive of cognitive boundaries reflects something real: a perspective not exhausted by what it surveys. The datum does not *prove* dualism, but it shifts the burden.
 
@@ -133,7 +133,7 @@ Three considerations on illusionism specifically. *The regress applies*: to *see
 
 The [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) deepens this: if our capacity to assess our own limits is itself limited, the meta-question—signal or noise?—may be subject to the constraints it investigates.
 
-What convergence adds is cumulative weight. Any single gap might be explained away, but can the same strategy explain why consciousness, intentionality, meaning, value, intrinsic nature, ownership, and binding all fail at the same boundary—*and* why the system investigating this failure itself resists full objectification?
+What convergence adds is cumulative weight—registered as the Map's positions [P-V1–P-V3](/positions/voids-as-evidence/), which hold that this weight is framework-internal coherence rather than independent confirmation. Any single gap might be explained away, but can the same strategy explain why consciousness, intentionality, meaning, value, intrinsic nature, ownership, and binding all fail at one boundary—*and* why the system investigating itself resists full objectification?
 
 ### Against Premature Dissolution
 

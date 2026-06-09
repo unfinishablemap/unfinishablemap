@@ -4,7 +4,7 @@ description: "Do brains decide before we're aware? The readiness potential may b
 created: 2026-01-14
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-06-09T18:00:47+00:00
 last_deep_review: 2026-06-05T00:00:00+00:00
 draft: false
 topics:
@@ -162,7 +162,7 @@ Several common interpretations overreach:
 
 ## Relation to Site Perspective
 
-The Libet experiments engage directly with the Map's core commitments.
+The Libet experiments engage directly with the Map's core commitments. The Map registers its reading of the timing data in its [[positions/agency-and-will|positions register]] as P-A3: Libet-style findings do not refute conscious causation.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The tenet holds that consciousness causally influences physical outcomes. Libet seems to challenge this—but only if we assume consciousness must *precede* what it causes in linear time. The retrocausal interpretation shows this assumption is optional. Consciousness selecting among quantum possibilities can determine outcomes that include their apparent temporal precursors.
 

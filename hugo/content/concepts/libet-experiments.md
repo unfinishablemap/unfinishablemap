@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-05 00:00:00+00:00
+ai_modified: 2026-06-09 18:00:47+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -164,7 +164,7 @@ Several common interpretations overreach:
 
 ## Relation to Site Perspective
 
-The Libet experiments engage directly with the Map's core commitments.
+The Libet experiments engage directly with the Map's core commitments. The Map registers its reading of the timing data in its [positions register](/positions/agency-and-will/) as P-A3: Libet-style findings do not refute conscious causation.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The tenet holds that consciousness causally influences physical outcomes. Libet seems to challenge this—but only if we assume consciousness must *precede* what it causes in linear time. The retrocausal interpretation shows this assumption is optional. Consciousness selecting among quantum possibilities can determine outcomes that include their apparent temporal precursors.
 

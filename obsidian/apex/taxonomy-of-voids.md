@@ -3,7 +3,7 @@ title: "A Taxonomy of Voids"
 created: 2026-03-10
 modified: 2026-06-01
 human_modified: null
-ai_modified: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-06-09T18:00:47+00:00
 draft: false
 description: "Sixty+ cognitive voids cluster at the consciousness-matter interface—structured taxonomy supporting the Map's tenet-package as framework-internal coherence under the common-cause-null discount."
 last_deep_review: 2026-06-05T00:00:00+00:00
@@ -194,7 +194,7 @@ The Map's predicted clustering is consistent with the present catalogue—but so
 
 **Anomalies that should co-occur if the Map is right.** If the tenet-package is correct, *introspective-channel disruption*, *attention disruption*, *memory degradation*, and *source-monitoring failure* should cluster together under conditions that disrupt the interface, because interactionist coupling predicts they share it as upstream architecture. The conditions are catalogued—[[topics/anaesthesia-and-the-consciousness-interface|anaesthesia]] (propofol narrows the interface; xenon and ketamine sever access channels), [[concepts/altered-states-of-consciousness|altered states]], [[sleep-consciousness-void|dreamless sleep]], dissociation, contemplative absorption, [[non-human-minds-as-void-explorers|AI self-report anomalies]]. The prediction is graded co-occurrence with *coupling-direction matched in detail*, phenomenology tracking causal machinery as the [[empirical-phenomena-mental-causation|placebo / choking pair]] documents in normals. Production accounts can accommodate it, but the Map's reading is the simpler accommodation when the across-condition direction is matched.
 
-The audit keeps the convergence claim honest rather than retracting it: the taxonomy remains the Map's largest cumulative case, its cash value framework-internal coherence at maximum density, with discriminating tests the open programme—the [[topics/animal-consciousness#why-the-inference-is-stronger-for-animals-than-for-ai|animal-consciousness COGITATE treatment]] and [[concepts/cross-mechanism-convergence|cross-mechanism convergence]] being the same calibration at topic and perturbation grain. Clustering does not earn what discriminating evidence supplies, but it earns what self-consistent integration legitimately earns—and naming the difference is the audit's whole work.
+The audit keeps the convergence claim honest rather than retracting it: the taxonomy remains the Map's largest cumulative case, its cash value framework-internal coherence at maximum density, with discriminating tests the open programme—the [[topics/animal-consciousness#why-the-inference-is-stronger-for-animals-than-for-ai|animal-consciousness COGITATE treatment]] and [[concepts/cross-mechanism-convergence|cross-mechanism convergence]] being the same calibration at topic and perturbation grain. Clustering does not earn what discriminating evidence supplies, but it earns what self-consistent integration legitimately earns—and naming the difference is the audit's whole work. The Map registers the calibration this audit enforces in its [[positions/voids-as-evidence|positions register]] as P-V1 (void convergence is framework-internal coherence, not independent confirmation), P-V2 (a tenet that removes a defeater does not thereby upgrade void evidence), and P-V3 (framework-independent voids carry cumulative weight the rest of the catalogue does not).
 
 ## Methods for Mapping the Unmappable
 

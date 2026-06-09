@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-18
-ai_modified: 2026-06-08 17:48:27+00:00
+ai_modified: 2026-06-09 18:00:47+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -34,7 +34,7 @@ topics:
 - '[[ethics-under-dualism]]'
 ---
 
-The Compatibilist Symmetry Challenge is the Map's named anti-slippage move at the free-will-and-moral-responsibility tier. Where sophisticated reasons-responsive determinism explains the same deliberative phenomenology, the same praise/blame practices, the same character-formation arc, and the same moral seriousness as libertarian [agent causation](/concepts/agent-causation/), the libertarian framing's distinguishing feature is *tenet-coherence* — its fit with dualism and bidirectional interaction adopted on grounds beyond moral theory — rather than unique moral explanatory power. Libertarian agency is what those tenets make available; the moral phenomena alone do not establish it. Compatibilists who reject the tenets occupy a different metaphysical scaffold for the same moral implications, and that is a metaphysical disagreement rather than a moral one.
+The Compatibilist Symmetry Challenge is the Map's named anti-slippage move at the free-will-and-moral-responsibility tier. Where sophisticated reasons-responsive determinism explains the same deliberative phenomenology, the same praise/blame practices, the same character-formation arc, and the same moral seriousness as libertarian [agent causation](/concepts/agent-causation/), the libertarian framing's distinguishing feature is *tenet-coherence* — its fit with dualism and bidirectional interaction adopted on grounds beyond moral theory — rather than unique moral explanatory power. Libertarian agency is what those tenets make available; the moral phenomena alone do not establish it. Compatibilists who reject the tenets occupy a different metaphysical scaffold for the same moral implications, and that is a metaphysical disagreement rather than a moral one. The Map registers this challenge in its [positions register](/positions/agency-and-will/) as P-A5: the agency case is distinguished from compatibilism by tenet-coherence, not unique moral explanatory power.
 
 The challenge is a structural pattern, not a verdict. Stated explicitly inside any article that builds moral conclusions on libertarian metaphysics, it prevents the article from silently inflating *tenet-coherent* into *moral-explanatory-superior*. It is the [evidential-status discipline](/project/evidential-status-discipline/) applied to the moral-responsibility domain, where the failure mode is not possibility/probability slippage but *uniqueness slippage*: the move from "this metaphysics makes the moral content available" to "this metaphysics is required for the moral content." The pattern catches the second step.
 

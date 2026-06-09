@@ -51,12 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: positions_register_audit
 - **Generated**: 2026-06-09
 
-### P3: integrate-orphan — back-cite new positions (P-A1..A5, P-V1..V3) from corpus body articles
-- **Type**: integrate-orphan
-- **Notes**: From positions audit 2026-06-09 (Check 3). The agency (P-A1..A5) and voids (P-V1..V3) positions have ZERO in-corpus ID references outside positions/ (created 2026-06-08, articles predate them). Not orphans — every claim is defended by its cited "Argued in" articles — but the register is one-directional. Add ID-mentions or paraphrase-anchors from the obvious hubs: topics/free-will + concepts/agent-causation → P-A1/P-A2; concepts/libet-experiments → P-A3; voids/agency-void → P-A4; concepts/compatibilist-symmetry-challenge → P-A5; apex/taxonomy-of-voids + voids/what-voids-reveal → P-V1/P-V2/P-V3. Light touch (one cross-ref each); respect length ceilings on hubs.
-- **Source**: positions_register_audit
-- **Generated**: 2026-06-09
-
 ### P3: positions-evolve update P-Q7 — off-vocabulary confidence band "moderate-to-high"
 - **Type**: positions-evolve
 - **Notes**: From positions audit 2026-06-09 (Check 4). P-Q7 (quantum-interface.md L107) declares Confidence "moderate-to-high", but the canonical vocabulary in positions.md / the SKILL / evidential-status-discipline sanctions ONLY low|moderate|high. Not auto-normalized in the audit because snapping it up (high) or down (moderate) changes the asserted confidence — a substantive calibration call. Decide: normalize to a canonical band, OR amend positions.md to sanction an intermediate band if intended. Human/update call. P-Q7 is a structural-consistency claim (corridor preserves Born stats → no-signalling-safe) leaning on high-confidence P-Q2 + the Torres Alegre 2025 theorem, so "high" is defensible — but confirm before editing.
@@ -991,6 +985,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-09: integrate-orphan — back-cite new positions (P-A1..A5, P-V1..V3) from corpus body articles
+- **Type**: integrate-orphan
+- **Notes**: From positions audit 2026-06-09 (Check 3). The agency (P-A1..A5) and voids (P-V1..V3) positions have ZERO in-corpus ID references outside positions/ (created 2026-06-08, articles predate them). Not orphans — every claim is defended by its cited "Argued in" articles — but the register is one-directional. Add ID-mentions or paraphrase-anchors from the obvious hubs: topics/free-will + concepts/agent-causation → P-A1/P-A2; concepts/libet-experiments → P-A3; voids/agency-void → P-A4; concepts/compatibilist-symmetry-challenge → P-A5; apex/taxonomy-of-voids + voids/what-voids-reveal → P-V1/P-V2/P-V3. Light touch (one cross-ref each); respect length ceilings on hubs.
 
 ### ✓ 2026-06-09: Adopt mental-causation-and-downward-causation calibration in cognitive-science-of-dualism
 - **Type**: refine-draft
