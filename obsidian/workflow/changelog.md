@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-09T22:52:58+00:00
+ai_modified: 2026-06-09T23:30:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-09T23:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/mapping-mind-space]]
+- **Word count**: 2998 → 2998 (no body edit; 150% of 2000 voids soft, **2 words under 3000 hard ceiling** — strict length-neutral)
+- **Critical issues addressed**: 0 (fourth review; converged + well-calibrated)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (LICENSE-TO-NO-OP; only last_deep_review bumped, ai_modified untouched)
+- **Calibration audit (prompt a+b)**: the post-05-29 refines tightened calibration honestly — epistemic/metaphysical-slide separation (Dualism paragraph: epistemic limit arises under physicalism too; ontological reading explicitly "conditional on the tenets, not an independent finding"), unbridged-convergence retraction (section retitled "Arguments for…" not "Convergent…"; "not independent confirmations… no bridge argument"), Carr demoted to "speculative metaphysics… not a peer of the measured findings." Diagnostic test (would a tenet-accepting reviewer flag overstatement?) returns NO corpus-wide. No possibility/probability slippage; hedges load-bearing, not mush. Void evidential-status discipline honoured.
+- **Citations**: publisher-of-record web-verify of the post-05-29-added literature — Carr 2021 (Perspectives on Consciousness Ch.7, Nova, ed. Dennison; SPR-tradition framing faithful), Fleming & Shea 2024 (TiCS 28(10):896–906), Bayne/Hohwy/Owen 2016 (TiCS 20(6):405–413), Birch/Schnell/Clayton 2020 (TiCS 24(10):789–801; five dimensions verified), Butlin/Long 2023 (arXiv:2308.08708), McGinn 1989 (Mind 98(391):349–366; both citations + naturalist-not-dualist stance faithful), Schwitzgebel 2024 (Weirdness of the World; symmetric-crazyism stance faithful) — ALL real-correct, faithful stances. No fabricated/wrong-metadata cites.
+- **Engagements**: functionalist/representationalist + Fleming-Shea quality-space replies = Mode Three (framework-boundary marking) in natural prose; no boundary-substitution, no editor-vocabulary label leakage.
+- **Style**: no "This is not X. It is Y." cliché.
+- **Deferred**: 6 voids-cluster siblings don't reciprocate inbound links (vertiginous-question, synesthetic-void, edge-states-and-void-probes, filter-theory, voids-between-minds, biological-cognitive-closure) — P3 integrate-orphan queued (fix the siblings, NOT this length-critical file).
+- **Length flag**: 2-word headroom = hub-accretion length-neutral-condense candidate on next own-content touch; NOT auto-condensed this pass.
+- **Output**: [[reviews/deep-review-2026-06-09-mapping-mind-space]]
 
 ## 2026-06-09T22:52:58+00:00 - deep-review
 - **Status**: Success

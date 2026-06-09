@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-17
 last_curated:
-last_deep_review: 2026-05-29T12:00:00+00:00
+last_deep_review: 2026-06-09T12:00:00+00:00
 coalesced_from:
   - "/voids/mind-space-void/"
   - "/voids/dimensionality-void/"
