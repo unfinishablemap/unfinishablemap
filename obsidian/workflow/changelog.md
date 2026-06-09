@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-09T19:52:57+00:00
+ai_modified: 2026-06-09T21:15:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-09T21:15:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/testing-the-map-from-inside]]
+- **Word count**: 3882 → 3882 (no body change; clean verify pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Audit focus**: 5th review; changed-since-review staleness (ai_modified 2026-05-26 > last_deep_review 2026-05-19). Focus = the new citation-bearing section "What the Effort Test Cannot See" (apex-evolve +406w, four fresh citations). §2.4 PUBLISHER-OF-RECORD WEB-VERIFY of all four — all real-correct, faithful claim-stance: Naccache et al. 2005 (*Neuropsychologia*, PMID 15949516, ACC-lesion patient/SCR dissociation); Hagger et al. 2016 (*Perspectives on Psychological Science* 11(4):546-573 — figures AUDITED AND CONFIRMED EXACT: k=23 labs, N=2,141, d=0.04 CI [-0.07,0.15] straddling zero, "indistinguishable from zero" not overstated); Westbrook et al. 2020 (*Science* 367:1362-1366, dopamine cost-benefit biasing); Kurzban et al. 2013 (*Behavioral and Brain Sciences* 36(6):661-679, opportunity-cost model). (b) Constrain-vs-establish discipline holds — dissociations remove the simplest reading WITHOUT establishing the interface reading (lines 132, 218); no possibility/probability slippage. (c) Convergence claim calibrated as evidential weight not proof. (d) New-section cross-links resolve live; mental-effort reciprocates; attention-as-interface back-link asymmetry noted (low, not actioned). (e) No "This is not X. It is Y." cliché. Length 3882w / 97% of 4000 apex soft — under soft, length-neutral CLEAN review. No-op verdict; ai_modified left at 2026-05-26 (body unchanged), last_deep_review bumped.
+- **Output**: [[reviews/deep-review-2026-06-09-testing-the-map-from-inside]]
 
 ## 2026-06-09T20:30:00+00:00 - deep-review
 - **Status**: Success
