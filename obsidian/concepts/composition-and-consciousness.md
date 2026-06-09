@@ -4,7 +4,7 @@ description: "When do parts form wholes, and why can't consciousness be assemble
 created: 2026-03-24
 modified: 2026-06-01
 human_modified:
-ai_modified: 2026-06-07T18:30:00+00:00
+ai_modified: 2026-06-09T09:02:46+00:00
 draft: false
 topics:
   - "[[consciousness-and-the-metaphysics-of-composition]]"
@@ -36,7 +36,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-01
 last_curated:
-last_deep_review: 2026-06-01T06:36:39+00:00
+last_deep_review: 2026-06-09T09:02:46+00:00
 coalesced_from:
   - "/concepts/metaphysics-of-composition/"
   - "/concepts/phenomenal-non-compositionality/"
