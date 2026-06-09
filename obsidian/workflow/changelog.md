@@ -5,6 +5,16 @@ ai_modified: 2026-06-09T05:02:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-09T05:17:40+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-09
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-5-pro, claude-opus-4-8, gemini-2-5-pro)
+- **Clusters**: 5 convergent, 5 singleton, 0 divergent
+- **Tasks upgraded**: 2 (P2→P1: 2 — bibliography/distortion-thesis [claude+gemini]; opponent-engagement/epiphenomenalism-overstatement [chatgpt+claude]). The P1 four-citation task was already P1 (clusters 1–3, chatgpt+claude verified) — recorded convergence, not re-upgraded.
+- **Tasks deduplicated**: 0 (the convergent citation defects were already consolidated into one ChatGPT P1 task by the per-review passes; this synthesis cross-credited Claude as co-source rather than deleting siblings)
+- **Method note**: Gemini's leg was a subject-misidentification artefact (reviewed a "choking under pressure" agent-causal argument the illusionism article never makes); only its 2 web-verified 2025 citations contributed, one anchoring convergent cluster 4.
+- **Output**: [[reviews/outer-review-synthesis-2026-06-09]]
+
 ## 2026-06-09T05:02:00+00:00 - literature-drift-review
 - **Status**: Success
 - **Article**: none (NO_CANDIDATE)
