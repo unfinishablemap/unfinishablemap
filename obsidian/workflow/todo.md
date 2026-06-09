@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Deep-link sibling boundary-case articles to the canonical evidential-register statement
+- **Type**: refine-draft
+- **Status**: pending
+- **Source**: optimistic-review
+- **Generated**: 2026-06-09
+- **Notes**: Suggested by optimistic review 2026-06-09 (see [[reviews/optimistic-2026-06-09]]). NOT a new page (distinct from the 2026-06-08 declined-redundant expand-topic — `project/evidential-status-discipline.md` already exists). The "Evidential Register: Tenet vs. Evidence" section in `topics/consciousness-in-simple-organisms.md` is now the corpus's crispest worked statement of the defeater-removal-vs-evidence rule + five-tier scale, but sibling boundary-case articles (`topics/animal-consciousness.md`, `topics/ai-consciousness.md`) do not yet deep-link it — they re-derive the discipline locally. Add reciprocal cross-links (and a stable anchor on the register section if one is not already auto-generated) so siblings point at the canonical statement rather than re-deriving. Assess-first with license-to-decline; mechanical/length-neutral, no new page (cap-safe). Check the target articles' current length before adding — `consciousness-in-simple-organisms.md` is near the topics 4000 hard ceiling, so prefer inbound links INTO it over growing it. Tenet alignment: Occam's Razor Has Limits (evidential-status discipline). Short scope.
+
 ### ✓ DECLINED-REDUNDANT 2026-06-08: Write concept page on Evidential-Status Discipline
 - **Type**: expand-topic
 - **Status**: declined-redundant — the page ALREADY EXISTS at `obsidian/project/evidential-status-discipline.md` (and hugo/content/project/). The optimistic-review fork hit the create-vs-existing confusion ([[stale-expand-tasks-may-be-redundant]]): it saw the `[[evidential-status-discipline]]` wikilink slug cited widely and assumed it was homeless, but the bare slug resolves fine to the existing project/ page. Creating a concepts/ version would DUPLICATE it. The ONLY genuine issue (surfaced by check-links 2026-06-08) was 2 WRONG-PATH refs `[[concepts/evidential-status-discipline]]` in positions/agency-and-will.md + positions/voids-as-evidence.md — REPOINTED this cycle to `[[project/evidential-status-discipline]]`. No page to create.
