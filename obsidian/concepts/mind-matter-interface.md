@@ -31,7 +31,7 @@ related_articles:
   - "[[amplification-mechanisms-consciousness-physics]]"
   - "[[pragmatist-quantum-foundations-and-the-agent]]"
   - "[[mind-arena]]"
-  - "[[channel-width-third-axis]]"
+  - "[[dualism-channel-width-axis]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -113,7 +113,7 @@ Layer 1 addresses *where consciousness comes from* (not the brain—correlation 
 
 ### Quantum Selection Handles:
 
-**Causal efficacy**: Consciousness operates at quantum indeterminacies—completing what physics leaves open rather than overriding what physics determines. The [[mathematical-structure-of-the-consciousness-physics-interface|mathematical structure of the interface]] constrains this selection to a narrow corridor: consciousness must preserve Born-rule statistics at the ensemble level, respect the Hilbert-space inner product, and introduce no higher-order interference. How narrow that corridor is becomes a locating coordinate in its own right—the [[channel-width-third-axis]] develops interface narrowness as a third axis for dualist positions. The [[consciousness-physics-interface-formalism]] defines the formal components any such interaction requires—a physical state space P, an experiential state space E, and a coupling map C: E × P → P—along with five non-negotiable constraints C must satisfy. Selection is genuine but mathematically bounded.
+**Causal efficacy**: Consciousness operates at quantum indeterminacies—completing what physics leaves open rather than overriding what physics determines. The [[mathematical-structure-of-the-consciousness-physics-interface|mathematical structure of the interface]] constrains this selection to a narrow corridor: consciousness must preserve Born-rule statistics at the ensemble level, respect the Hilbert-space inner product, and introduce no higher-order interference. How narrow that corridor is becomes a locating coordinate in its own right—the [[dualism-channel-width-axis|channel-width axis]] develops interface narrowness as a third axis for dualist positions. The [[consciousness-physics-interface-formalism]] defines the formal components any such interaction requires—a physical state space P, an experiential state space E, and a coupling map C: E × P → P—along with five non-negotiable constraints C must satisfy. Selection is genuine but mathematically bounded.
 
 **The exclusion problem**: At collapse, physical causes are necessary but not sufficient. Mental selection operates precisely where physical causation runs out, avoiding overdetermination.
 

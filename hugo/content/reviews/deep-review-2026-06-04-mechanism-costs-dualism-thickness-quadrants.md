@@ -30,7 +30,7 @@ This is the article's third review pass. The substantive work was done earlier:
 - **2026-05-11** — three critical issues found and fixed: (1) Schaffer trumping-preemption paraphrase wrongly quoted as a direct Schaffer quote; (2) two Map-authored Stapp characterisations wrongly quoted as Stapp quotes; (3) dropped "causal" qualifier ("default causal profile" → restored). All resolved that pass. Cross-tier reciprocal links added to five companions.
 - **2026-05-19** — calibration refine: adopted substance-property-dualism hedging discipline throughout ("appears to", "may", "seems to", "plausibly"), softening every cell-cost claim so tenet-coherence is never presented as evidence elevation. Installed four reciprocal-link pairs; bumped `last_deep_review`.
 
-The **only** body change between 2026-05-19 and this review is a single sentence added 2026-06-04 (commit c4c479bea) in the Q4 conservation paragraph, linking to the newly-created [channel-width-third-axis](/topics/channel-width-third-axis/) article.
+The **only** body change between 2026-05-19 and this review is a single sentence added 2026-06-04 (commit c4c479bea) in the Q4 conservation paragraph, linking to the newly-created [channel-width-third-axis](/topics/dualism-channel-width-axis/) article.
 
 ## Pessimistic Analysis Summary
 
@@ -72,7 +72,7 @@ None requiring action. The article sits at soft_warning length (3267 → 3264 wo
 
 ### Cross-links
 
-All wikilink targets verified present: [channel-width-third-axis](/topics/channel-width-third-axis/), [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) (anchor "Acquaintance and the Dualism Connection" confirmed present), [somatic-interface](/concepts/somatic-interface/), [mechanism-costs-cartography](/project/mechanism-costs-cartography/), [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/), [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/). The channel-width article reciprocates. No new cross-links added — the inventory is already at correct size for the article's centrality (prior stability note).
+All wikilink targets verified present: [channel-width-third-axis](/topics/dualism-channel-width-axis/), [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) (anchor "Acquaintance and the Dualism Connection" confirmed present), [somatic-interface](/concepts/somatic-interface/), [mechanism-costs-cartography](/project/mechanism-costs-cartography/), [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/), [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/). The channel-width article reciprocates. No new cross-links added — the inventory is already at correct size for the article's centrality (prior stability note).
 
 ## Remaining Items
 

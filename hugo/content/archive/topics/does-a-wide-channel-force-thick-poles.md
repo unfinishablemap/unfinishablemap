@@ -1,8 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-06-04 10:55:51+00:00
+ai_modified: 2026-06-09 06:48:29+00:00
 ai_system: claude-opus-4-8
+archive_reason: 'Coalesced into Channel Width: The Third Axis of the Dualism-Thickness
+  Taxonomy'
+archived: true
+archived_date: 2026-06-09 06:48:29+00:00
 author: null
 concepts:
 - selection-only-channel
@@ -19,6 +23,7 @@ human_modified: null
 last_curated: null
 last_deep_review: 2026-06-04 10:55:51+00:00
 modified: *id001
+original_path: /topics/does-a-wide-channel-force-thick-poles/
 related_articles:
 - '[[channel-width-third-axis]]'
 - '[[four-quadrant-dualism-taxonomy]]'
@@ -29,6 +34,7 @@ related_articles:
 - '[[conservation-laws-and-mental-causation]]'
 - '[[evidential-status-discipline]]'
 - '[[tenets]]'
+superseded_by: /topics/dualism-channel-width-axis/
 title: Does a Wide Channel Force Thick Poles? The Vacant Cell of the Channel-Width
   Axis
 topics:
@@ -37,13 +43,13 @@ topics:
 - metaphysics
 ---
 
-The [channel-width axis](/topics/channel-width-third-axis/) orders dualist positions by how narrow the mind-physical interaction interface is — from Saad's selection-only floor, through Stapp's narrow-channel-with-thick-endpoints, up to Cartesian energy-transfer at the ceiling. Plotting the canonical positions against pole thickness leaves one region of the plane conspicuously empty: no named position pairs a *wide* channel with *thin* poles. The parent article flags this as unsettled — "whether that empty region is a contingent gap in the literature or a structural impossibility (does a wide channel force at least one pole to thicken?) is unsettled." This article runs the coherence-test the parent only posed. It specifies what a wide-channel/thin-pole position would have to claim, applies the existing mechanism-cost machinery to ask whether such a position is coherent, and reaches a cartographic verdict: the cell is *mostly* structurally forbidden, with one narrow contingent-gap exception that the literature has simply not articulated.
+The [channel-width axis](/topics/dualism-channel-width-axis/) orders dualist positions by how narrow the mind-physical interaction interface is — from Saad's selection-only floor, through Stapp's narrow-channel-with-thick-endpoints, up to Cartesian energy-transfer at the ceiling. Plotting the canonical positions against pole thickness leaves one region of the plane conspicuously empty: no named position pairs a *wide* channel with *thin* poles. The parent article flags this as unsettled — "whether that empty region is a contingent gap in the literature or a structural impossibility (does a wide channel force at least one pole to thicken?) is unsettled." This article runs the coherence-test the parent only posed. It specifies what a wide-channel/thin-pole position would have to claim, applies the existing mechanism-cost machinery to ask whether such a position is coherent, and reaches a cartographic verdict: the cell is *mostly* structurally forbidden, with one narrow contingent-gap exception that the literature has simply not articulated.
 
 The posture is the parent's posture throughout: cartographic, not adjudicative, per [evidential-status-discipline](/project/evidential-status-discipline/). Locating an empty cell — and ruling on whether it is empty by accident or by geometry — is a claim about the *taxonomy's shape*, not about which dualist position is true. That a region is structurally forbidden tells you nothing about whether the Map's own cell (narrow channel, thin-to-medium poles) is the correct one. The forcing argument below, where it succeeds, constrains the map; it does not move the territory.
 
 ## What the Vacant Cell Would Have to Claim {#what-it-claims}
 
-The two thickness axes ask how much ontology each pole carries; channel width asks how much passes between the poles and through how narrow an aperture (the [what-channel-width-measures](/topics/channel-width-third-axis/#what-it-measures) distinction). A wide-channel/thin-pole position must therefore conjoin two commitments that, on inspection, pull against each other.
+The two thickness axes ask how much ontology each pole carries; channel width asks how much passes between the poles and through how narrow an aperture (the [what-channel-width-measures](/topics/dualism-channel-width-axis/#what-it-measures) distinction). A wide-channel/thin-pole position must therefore conjoin two commitments that, on inspection, pull against each other.
 
 **The wide-channel commitment.** "Wide" means the interface admits operations richer than selection among physically-prepared alternatives. The [selection-only channel](/concepts/selection-only-channel/)'s taxonomy of what-it-is-not gives the ordering precisely: a wide channel is one that does at least one of *shift the candidate distribution away from Born values* (probability-bias), *modify the candidate set itself* (basis-choice or candidate-generation), or *transfer a quantity physics tracks as work* (energy-injection). The two widest operations — candidate-generation and energy-injection — are the ones that make a channel unambiguously wide rather than merely intermediate, so they are the test cases.
 
@@ -85,7 +91,7 @@ This matters for how the channel-width axis should be read. A naive cartographer
 
 ## Relation to Site Perspective {#site-perspective}
 
-The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet, read structurally, is a commitment to *minimum channel width* — locating the Map at or near the narrow floor of this axis, as the [parent article](/topics/channel-width-third-axis/#site-perspective) established. The present analysis touches the Map's commitments in two ways, both of which must be held in the cartographic register.
+The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet, read structurally, is a commitment to *minimum channel width* — locating the Map at or near the narrow floor of this axis, as the [parent article](/topics/dualism-channel-width-axis/#site-perspective) established. The present analysis touches the Map's commitments in two ways, both of which must be held in the cartographic register.
 
 First, the forcing argument incidentally explains *why* the Map's narrow-channel commitment coheres with its flexibility on pole thickness. At the narrow end of the axis, channel width and pole thickness are genuinely independent — Saad (thin poles) and Stapp (thick poles) share the narrow-channel class. The Map can hold a narrow channel firmly (MQI) while leaving the mind-pole free to thicken toward Myersian or Stappian richness, precisely because narrowness does not force thinness the way *width* forces thickness. The asymmetry the forcing argument reveals — width constrains the poles, narrowness does not — is what gives the Map room to commit firmly on the channel while staying loose on the poles. This is a structural observation about the axis, not an argument that the Map's narrow channel is the true one.
 
@@ -105,7 +111,7 @@ Three questions follow from charting the vacant cell.
 
 ## Further Reading
 
-- [channel-width-third-axis](/topics/channel-width-third-axis/) — the parent axis that posed the vacant-cell question this article tests
+- [channel-width-third-axis](/topics/dualism-channel-width-axis/) — the parent axis that posed the vacant-cell question this article tests
 - [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) — the two-axis thickness grid whose own Q4 vacancy contrasts (sociological) with this cell's (mostly structural) emptiness
 - [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/) — the causation/interface/conservation battery the forcing argument applies
 - [selection-only-channel](/concepts/selection-only-channel/) — the channel-operation taxonomy (selection-only, probability-bias, basis-choice, candidate-generation, energy-injection) the forcing argument runs on

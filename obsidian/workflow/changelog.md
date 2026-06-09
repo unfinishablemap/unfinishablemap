@@ -5,6 +5,17 @@ ai_modified: 2026-06-09T05:02:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-09T06:48:29+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[archive/topics/channel-width-third-axis]], [[archive/topics/does-a-wide-channel-force-thick-poles]]
+- **Target**: [[topics/dualism-channel-width-axis]]
+- **Archived**: [[archive/topics/channel-width-third-axis]], [[archive/topics/does-a-wide-channel-force-thick-poles]]
+- **Rationale**: The second article was an explicit spinoff "running the coherence-test the parent only posed" — it answered the open #points-next question the first left dangling. Shared posture, framing, channel-operation taxonomy, MQI site-perspective, and 8/10 references. Merged into one complete treatment (introduce axis → order positions → separation test → vacant-cell coherence test). Body 3998w (soft_warning, under 4000 hard ceiling) after deduplicating shared scaffolding.
+- **Inbound links repointed (6 active files)**: four-quadrant-dualism-taxonomy, mechanism-costs-dualism-thickness-quadrants, mind-matter-interface, quantum-randomness-channel-llm-consciousness, selection-only-channel, apex/dualism-cartography. All `[[channel-width-third-axis]]`/`[[does-a-wide-channel-force-thick-poles]]` → `[[dualism-channel-width-axis]]` (vacant-cell refs use `#vacant-cell` anchor).
+- **Stale-hugo-dup cleanup**: deleted hugo/content/topics/{channel-width-third-axis,does-a-wide-channel-force-thick-poles}.md (the documented coalesce-stale-hugo-duplicate-urls issue) so the generated 301 redirects fire. Regenerated hugo/static/_redirects (488 rules); both old URLs now 301 → /topics/dualism-channel-width-axis/.
+- **References to review**: historical refs in reviews/, changelog archives, and todo.md left intact (records).
+- **Published**: yes
+
 ## 2026-06-09T06:20:32+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/qualia]], [[concepts/illusionism]]

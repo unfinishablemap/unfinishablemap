@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-05-27
-**Article**: [Channel Width: The Third Axis of the Dualism-Thickness Taxonomy](/topics/channel-width-third-axis/)
+**Article**: [Channel Width: The Third Axis of the Dualism-Thickness Taxonomy](/topics/dualism-channel-width-axis/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

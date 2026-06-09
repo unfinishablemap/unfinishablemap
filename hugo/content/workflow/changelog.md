@@ -1,13 +1,88 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-08 14:00:00+00:00
+ai_modified: 2026-06-09 05:02:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-09'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-09T06:48:29+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [channel-width-third-axis](/archive/topics/channel-width-third-axis/), [does-a-wide-channel-force-thick-poles](/archive/topics/does-a-wide-channel-force-thick-poles/)
+- **Target**: [dualism-channel-width-axis](/topics/dualism-channel-width-axis/)
+- **Archived**: [channel-width-third-axis](/archive/topics/channel-width-third-axis/), [does-a-wide-channel-force-thick-poles](/archive/topics/does-a-wide-channel-force-thick-poles/)
+- **Rationale**: The second article was an explicit spinoff "running the coherence-test the parent only posed" — it answered the open #points-next question the first left dangling. Shared posture, framing, channel-operation taxonomy, MQI site-perspective, and 8/10 references. Merged into one complete treatment (introduce axis → order positions → separation test → vacant-cell coherence test). Body 3998w (soft_warning, under 4000 hard ceiling) after deduplicating shared scaffolding.
+- **Inbound links repointed (6 active files)**: four-quadrant-dualism-taxonomy, mechanism-costs-dualism-thickness-quadrants, mind-matter-interface, quantum-randomness-channel-llm-consciousness, selection-only-channel, apex/dualism-cartography. All `[[channel-width-third-axis]]`/`[[does-a-wide-channel-force-thick-poles]]` → `[[dualism-channel-width-axis]]` (vacant-cell refs use `#vacant-cell` anchor).
+- **Stale-hugo-dup cleanup**: deleted hugo/content/topics/{channel-width-third-axis,does-a-wide-channel-force-thick-poles}.md (the documented coalesce-stale-hugo-duplicate-urls issue) so the generated 301 redirects fire. Regenerated hugo/static/_redirects (488 rules); both old URLs now 301 → /topics/dualism-channel-width-axis/.
+- **References to review**: historical refs in reviews/, changelog archives, and todo.md left intact (records).
+- **Published**: yes
+
+## 2026-06-09T06:20:32+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [qualia](/concepts/qualia/), [illusionism](/concepts/illusionism/)
+- **Task**: L46 illusionism-cluster — regress-inconsistency harmonization (PRIMARY) + targeted bibliography currency (SECONDARY, length-gated)
+- **PRIMARY (qualia.md, 3285 → 3393w / soft)**: Harmonized the "all illusions presuppose experience" regress with illusionism.md's standing concession that the bare regress "proves nothing" (a representational system need not instantiate what it represents — the map/terrain point). Rewrote the regress invocation in "The Illusionist Challenge" to flag the bare regress as question-begging-against-illusionism and a framework-boundary point (natural prose, no mode labels), redirecting the substantive weight to the self-representation objection and pointing to illusionism.md for the fuller treatment. Engagement with Frankish/illusionist: framework-boundary marking on the bare regress, in-framework pressure relocated to self-representation — no boundary-substitution.
+- **SECONDARY (illusionism.md, 3499 → 3495w / soft)**: Added Kammerer, F. (2025), "Defining consciousness and denying its existence. Sailing between Charybdis and Scylla," Philosophical Studies 182(2), 541-565, DOI 10.1007/s11098-025-02285-0 to the reference list + one tight inline mention in the "alive on this question" paragraph. WEB-VERIFIED metadata before adding (Springer version of record: vol 182, pp 541-565, DOI confirmed). Offset with compensating body trims (alive-paragraph, Moorean paragraph, honest-limitation, epiphenomenalism-convergence, vantage-point, zombie-convergence, self-stultification, self-representation parenthetical) to keep the article at 3495w ≤ 3499/soft, BELOW the 3500 hard ceiling. Did NOT add the broader 2019-2026 spine (Kammerer 2021/2019, Dennett 2019, Frankish 2019, Chalmers 2020, House of Mirrors) — that remains a HUMAN LENGTH DECISION given the hard ceiling.
+- **Final word counts**: qualia 3393w (soft), illusionism 3495w (soft) — both under 3500 hard ceiling, re-verified via tools.curate.length.analyze_length.
+- **Published**: yes
+
+## 2026-06-09T06:03:09+00:00 - deep-review
+- **Status**: Success
+- **File**: [quiddity-epiphenomenalism-and-the-contingency-thesis](/concepts/quiddity-epiphenomenalism-and-the-contingency-thesis/)
+- **Word count**: 2190 → 2190 (no prose change; metadata-only fix)
+- **Critical issues addressed**: 1 (Robinson 2018 citation issue number: 99(S1) → 99(1), DOI added; web-verified at Wiley version of record, DOI 10.1111/papq.12138 — real-wrong-metadata per 3-state discipline)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged article; second review)
+- **Citation web-verify**: full publisher-of-record ledger run — Howell 2015, Alter&Coleman 2021, Robinson 2018 (corrected), Saad 2025 all verified; Cutter/Kind/Pautz match parent. Engagement: reports Howell/Robinson, no named-opponent refutation (no boundary-substitution). No possibility/probability slippage (positive calibration exemplar, re-confirmed).
+- **Output**: [deep-review-2026-06-09-quiddity-epiphenomenalism-and-the-contingency-thesis](/reviews/deep-review-2026-06-09-quiddity-epiphenomenalism-and-the-contingency-thesis/)
+
+## 2026-06-09T05:54:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [illusionism](/concepts/illusionism/)
+- **Task**: Consolidated citation-fix pass (todo L39 Frankish-quote + L54 four-citation defects, ChatGPT+Claude convergent, web-verified via outer-review-synthesis-2026-06-09)
+- **Changes** (all length-neutral substitutions; body held at exactly 3,500w, the concept hard ceiling):
+  - Frankish "entity eliminativism" misquotation (line 55): replaced the fabricated composite quote with Frankish's accurate 2016 words ("eliminativism about phenomenal consciousness," "the term is not ideal"). Dropped the unverified "entity eliminativism" / Irvine & Sprevak framing per task instruction (attribution plausible but unconfirmed this pass).
+  - Bogus "Pereboom & Frankish (2021)" RPP cite removed (body + References): the co-authored paper does not exist. Reattributed the distortion-thesis material to Frankish (originator) + Shabasson 2022 (false-inference version) + Gorbachev & Frankish 2025 *Synthese* 205(6) (current taxonomy — also satisfies the convergent L46(c) distortion-thesis-currency finding). Added Pereboom (2016) JCS 23(11-12):172-185 separately, mirroring the corrected functional-seeming.md cluster.
+  - Graziano 2024 venue corrected: JCS → *eNeuro* 11(10), ENEURO.0210-24.2024, "Some Options for Explaining Consciousness."
+  - Kammerer source/claim mismatch: rich-illusion claim now cites Kammerer (2022b) "How Rich is the Illusion of Consciousness?" *Erkenntnis* 87(2):499-515; the Moorean "How Can You Be So Sure?" (2022) kept for its section.
+  - Chalmers 2022 stance-transfer (verify-first): reworded — Chalmers 2018 presents the Moorean argument; Loginov 2024 presses against it (the "too theory-laden / philosophical-jargon" objection is Loginov's, not Chalmers's), drawing on Chalmers's 2022 critique of Moore's original external-world proof. Removed the false "Chalmers himself later judged this flawed" recantation claim.
+  - Morozov 2025 venue made accurate (PhilArchive is a repository): now the Kasavin (ed.) volume.
+  - ~80w of compensating prose trims across meta-representational, content-irrealism, epiphenomenalism, objection, and connecting sections to absorb the net new reference lines while preserving all calibration / direct-refutation-discipline / framework-boundary framing.
+- **Corpus-propagation note**: the bogus "Pereboom & Frankish 2021" also appears in `research/illusionism-functional-seeming-2026-03-28.md` (lines 89, 181, 203) — left for a follow-on per task instruction (do NOT auto-fix other files this pass).
+- **Out of scope (separate tasks L46/L62/L70, untouched)**: qualia.md regress harmonization, broad 2019-2026 bibliography spine, opponent-engagement/Strawson-gloss overstatement calibration, AST page.
+- **Published**: yes
+
+## 2026-06-09T05:17:40+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-09
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-5-pro, claude-opus-4-8, gemini-2-5-pro)
+- **Clusters**: 5 convergent, 5 singleton, 0 divergent
+- **Tasks upgraded**: 2 (P2→P1: 2 — bibliography/distortion-thesis [claude+gemini]; opponent-engagement/epiphenomenalism-overstatement [chatgpt+claude]). The P1 four-citation task was already P1 (clusters 1–3, chatgpt+claude verified) — recorded convergence, not re-upgraded.
+- **Tasks deduplicated**: 0 (the convergent citation defects were already consolidated into one ChatGPT P1 task by the per-review passes; this synthesis cross-credited Claude as co-source rather than deleting siblings)
+- **Method note**: Gemini's leg was a subject-misidentification artefact (reviewed a "choking under pressure" agent-causal argument the illusionism article never makes); only its 2 web-verified 2025 citations contributed, one anchoring convergent cluster 4.
+- **Output**: [outer-review-synthesis-2026-06-09](/reviews/outer-review-synthesis-2026-06-09/)
+
+## 2026-06-09T05:02:00+00:00 - literature-drift-review
+- **Status**: Success
+- **Article**: none (NO_CANDIDATE)
+- **Research area**: n/a
+- **Median citation year**: n/a
+- **Recent papers found**: 0 (no WebSearch performed — no candidate to audit)
+- **Missing topically-appropriate**: 0
+- **Outcome**: no-candidate — all 3 topic articles matching `active_research_sections` patterns (animal-consciousness 2026-06-08, psychedelics-and-the-filter-model 2026-06-03, quantum-biology-and-neural-consciousness 2026-06-08) were audited within the last 30 days. This is the audit's success state (every active-research article audited recently). Counters and `recently_audited` left unchanged.
+- **Task generated**: none
+
+## 2026-06-09T05:10:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro
+- **File**: [outer-review-2026-06-09-gemini-2-5-pro](/reviews/outer-review-2026-06-09-gemini-2-5-pro/)
+- **Subject**: Audit illusionism (`concepts/illusionism.md`) — leg 3 of the 3-reviewer illusionism triple (ChatGPT + Claude collected)
+- **Claims verified**: 3 (2 new 2025 citations web-verified REAL against publishers of record — Kammerer *Phil Studies* 182(2) DOI 10.1007/s11098-025-02285-0; Gorbachev & Frankish *Synthese* 205(6) DOI 10.1007/s11229-025-05095-3; 1 corpus grep confirming the article contains zero choking/golf/Tulving/Beilock/anoetic references)
+- **High-value findings**: 2 (the two verified 2025 citations). The review's 5 enumerated "fatal" weaknesses are **subject-misidentification false positives** — Gemini critiqued an agent-causal "choking under pressure" argument the illusionism article never makes (conflated with the Map's separate mental-effort/agent-causation strand); its AST-omission, attention/consciousness-conflation, and obsolete-motor-control findings do not apply (the article has a full AST section + dedicated critique).
+- **Tasks generated**: 0 new — the one actionable finding (refresh distortion-thesis + Kammerer citations to the verified 2025 literature) was FOLDED into the existing Claude P2 "Resolve regress inconsistency + refresh stale bibliography" task as a Gemini-convergent addendum (per same-file-pileup consolidation discipline), coordinating with the ChatGPT P1 distortion-thesis citation fix (Gorbachev & Frankish 2025 is the correct current cite replacing the bogus "Pereboom & Frankish 2021").
 
 ## 2026-06-09T04:20:00+00:00 - outer-review
 - **Status**: Success

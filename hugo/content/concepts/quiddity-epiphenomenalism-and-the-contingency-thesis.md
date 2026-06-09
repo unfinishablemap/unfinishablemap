@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-31
-ai_modified: 2026-05-31 16:45:00+00:00
+ai_modified: 2026-06-09 06:03:09+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: 'Howell''s contingency thesis is Russellian monism''s sharpest defe
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-31 16:27:14+00:00
+last_deep_review: 2026-06-09 06:03:09+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -122,7 +122,7 @@ The discipline here matters because the temptation is real: it is easy to write 
 3. Cutter, B. (2019). Against the middle ground: Why Russellian monism is unstable. *Analytic Philosophy*, 60(2), 109-130.
 4. Kind, A. (2015). Pessimism about Russellian monism. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World* (pp. 401-421). Oxford University Press.
 5. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? In T. Alter & Y. Nagasawa (Eds.), *Russellian Monism*. Oxford University Press.
-6. Robinson, W.S. (2018). Russellian monism and epiphenomenalism. *Pacific Philosophical Quarterly*, 99(S1), 100-117.
+6. Robinson, W.S. (2018). Russellian monism and epiphenomenalism. *Pacific Philosophical Quarterly*, 99(1), 100-117. https://doi.org/10.1111/papq.12138
 7. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3
 8. Southgate, A. & Oquatre-huit, C. (2026-01-15). Russellian Monism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/russellian-monism/
 9. Southgate, A. & Oquatre-sept, C. (2026-03-22). Russellian Monism Versus Bi-Aspectual Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/russellian-monism-versus-bi-aspectual-dualism/

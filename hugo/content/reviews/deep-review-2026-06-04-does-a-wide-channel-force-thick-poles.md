@@ -17,10 +17,10 @@ topics: []
 ---
 
 **Date**: 2026-06-04
-**Article**: [Does a Wide Channel Force Thick Poles?](/topics/does-a-wide-channel-force-thick-poles/)
+**Article**: [Does a Wide Channel Force Thick Poles?](/topics/dualism-channel-width-axis/)
 **Previous review**: Never
 
-This is a fresh-create review (created this session, never reviewed, score 100). Applied the fresh-create-defect-tail audit: the article reuses all citations and quoted strings from four source articles ([channel-width-third-axis](/topics/channel-width-third-axis/), [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/), [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/), [selection-only-channel](/concepts/selection-only-channel/)), so citation-defect risk was lower — but each reused cite and quote was verified against its source-article form, and the new structural/cartographic argument was checked for possibility→probability slippage and register discipline.
+This is a fresh-create review (created this session, never reviewed, score 100). Applied the fresh-create-defect-tail audit: the article reuses all citations and quoted strings from four source articles ([channel-width-third-axis](/topics/dualism-channel-width-axis/), [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/), [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/), [selection-only-channel](/concepts/selection-only-channel/)), so citation-defect risk was lower — but each reused cite and quote was verified against its source-article form, and the new structural/cartographic argument was checked for possibility→probability slippage and register discipline.
 
 ## Pessimistic Analysis Summary
 
@@ -64,7 +64,7 @@ No named external opponent is replied to (no Duch/Frankish/Dennett/Chalmers refu
 - The contingent-gap sliver (conservation-denying thin Cartesianism) is correctly identified as the one cell that is empty by accident, with its thinness flagged as itself contestable.
 
 ### Cross-links / Integration
-- Not an orphan: four reciprocal inbound links already present ([four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/), [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/), [channel-width-third-axis](/topics/channel-width-third-axis/), [selection-only-channel](/concepts/selection-only-channel/)). The four-quadrant article's Q4 section even cites this article reciprocally on the sociological-vs-structural contrast.
+- Not an orphan: four reciprocal inbound links already present ([four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/), [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/), [channel-width-third-axis](/topics/dualism-channel-width-axis/), [selection-only-channel](/concepts/selection-only-channel/)). The four-quadrant article's Q4 section even cites this article reciprocally on the sociological-vs-structural contrast.
 
 ### Length
 2625 words (88% of the 3000 topics soft target) — comfortably under soft threshold. No length-neutral constraint, but the piece is tight; no padding added.

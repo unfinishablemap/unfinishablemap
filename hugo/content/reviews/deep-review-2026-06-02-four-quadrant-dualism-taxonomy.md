@@ -22,7 +22,7 @@ topics: []
 **Date**: 2026-06-02
 **Article**: [The Four-Quadrant Taxonomy of Dualist Positions](/topics/four-quadrant-dualism-taxonomy/)
 **Previous review**: [2026-05-11](/reviews/deep-review-2026-05-11-four-quadrant-dualism-taxonomy/)
-**Review trigger**: genuine own-content change since last review — the "Adopt substance-property-dualism calibration" refine (d9b74a127, an epistemic-hedging pass) plus a new companion ([channel-width-third-axis](/topics/channel-width-third-axis/)). Corpus-propagating taxonomy anchor; calibration coherence prioritised.
+**Review trigger**: genuine own-content change since last review — the "Adopt substance-property-dualism calibration" refine (d9b74a127, an epistemic-hedging pass) plus a new companion ([channel-width-third-axis](/topics/dualism-channel-width-axis/)). Corpus-propagating taxonomy anchor; calibration coherence prioritised.
 
 ## Pessimistic Analysis Summary
 
@@ -78,7 +78,7 @@ No boundary-substitution; no editor-vocabulary label leakage in article prose.
 - Citation accuracy upgraded on the two specialist/recent references (Saad, Nida-Rümelin), the highest-risk class.
 
 ### Cross-links
-- No new cross-links needed; [channel-width-third-axis](/topics/channel-width-third-axis/) already surfaced in body §"Limits of the Thickness Metaphor" and related_articles from the companion's own integration pass.
+- No new cross-links needed; [channel-width-third-axis](/topics/dualism-channel-width-axis/) already surfaced in body §"Limits of the Thickness Metaphor" and related_articles from the companion's own integration pass.
 
 ## Internal-Link Check
 

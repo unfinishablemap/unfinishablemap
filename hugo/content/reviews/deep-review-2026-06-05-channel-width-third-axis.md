@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-06-05
-**Article**: [Channel Width: The Third Axis of the Dualism-Thickness Taxonomy](/topics/channel-width-third-axis/)
+**Article**: [Channel Width: The Third Axis of the Dualism-Thickness Taxonomy](/topics/dualism-channel-width-axis/)
 **Previous review**: [2026-05-27](/reviews/deep-review-2026-05-27-channel-width-third-axis/)
 
 ## Scope of This Review
@@ -25,7 +25,7 @@ topics: []
 Changed-since-review re-review (ai_modified 2026-06-04 > last_deep_review 2026-05-27,
 ~8d gap). The git diff since the prior review is a single commit (3c3c01399), and it
 is **purely additive cross-linking**: one new `related_articles` entry
-([does-a-wide-channel-force-thick-poles](/topics/does-a-wide-channel-force-thick-poles/)), one new "Further Reading" bullet, and one
+([does-a-wide-channel-force-thick-poles](/topics/dualism-channel-width-axis/)), one new "Further Reading" bullet, and one
 sentence appended to the "Is channel width orthogonal..." open-question paragraph
 summarising that sibling article's verdict. No new factual or empirical content was
 introduced. Per the §1.5 convergence rule, prior-review resolved items were not
@@ -43,7 +43,7 @@ analytically forces the mind-pole to thicken and energy-injection forces the
 physical-pole on conservation-respecting readings, leaving the region mostly
 structurally forbidden with one contingent-gap sliver (a conservation-denying thin
 Cartesianism the literature has not articulated)." Checked against
-[does-a-wide-channel-force-thick-poles](/topics/does-a-wide-channel-force-thick-poles/): faithful and exact in substance —
+[does-a-wide-channel-force-thick-poles](/topics/dualism-channel-width-axis/): faithful and exact in substance —
 candidate-generation forcing is described there as *structural/analytic*,
 energy-injection forcing as *structural on conservation-respecting readings*, and the
 contingent-gap escape is precisely a "conservation-denying thin-substance

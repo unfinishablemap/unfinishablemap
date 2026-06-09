@@ -4,9 +4,14 @@ description: "A coherence-test of the empty wide-channel/thin-pole region of the
 created: 2026-06-04
 modified: 2026-06-04
 human_modified:
-ai_modified: 2026-06-04T10:55:51+00:00
+ai_modified: 2026-06-09T06:48:29+00:00
 last_deep_review: 2026-06-04T10:55:51+00:00
 draft: false
+archived: true
+archived_date: 2026-06-09T06:48:29+00:00
+superseded_by: "/topics/dualism-channel-width-axis/"
+archive_reason: "Coalesced into Channel Width: The Third Axis of the Dualism-Thickness Taxonomy"
+original_path: "/topics/does-a-wide-channel-force-thick-poles/"
 topics:
   - dualism
   - philosophy-of-mind

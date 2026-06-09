@@ -24,7 +24,7 @@ related_articles:
   - "[[interface-formalization-void]]"
   - "[[mechanism-costs-cartography]]"
   - "[[evidential-status-discipline]]"
-  - "[[channel-width-third-axis]]"
+  - "[[dualism-channel-width-axis]]"
   - "[[interface-specification-programme]]"
   - "[[post-decoherence-selection-programme]]"
   - "[[apex-articles]]"
@@ -70,7 +70,7 @@ Crossing the extremes gives the four cells:
 
 The thickness axis is genuinely orthogonal to the kind-of-relation axis. Nida-Rümelin and Descartes both count as Type-D interactionists in Chalmers' scheme, yet they sit at different points on mind-thickness: Nida-Rümelin's unitary immaterial subject is mind-medium, Cartesian *res cogitans* is mind-thick. Saad's delegatory dualism is arguably closer to Type-D than Chalmers' own naturalistic dualism, yet mind-thin where Chalmers is mind-medium. Classification by relation type does not discriminate these cases; the thickness axis does. That is why it needs its own name.
 
-One nuance the grid compresses: *channel width*—how narrow the interaction interface is—can come apart from pole thickness. Stapp's intervention channel looks minimal (quantum-Zeno biasing only) while his observer and his quantum ontology both look thick. A reader who wants to hold channel width separate can add it as a [[channel-width-third-axis|third axis]], which orders the canonical positions by interface narrowness and locates Stapp by definition where the two-axis grid placed him by judgement. The atlas keeps the third axis as an optional overlay rather than folding it in, trading a little nuance for tractability.
+One nuance the grid compresses: *channel width*—how narrow the interaction interface is—can come apart from pole thickness. Stapp's intervention channel looks minimal (quantum-Zeno biasing only) while his observer and his quantum ontology both look thick. A reader who wants to hold channel width separate can add it as a [[dualism-channel-width-axis|third axis]], which orders the canonical positions by interface narrowness and locates Stapp by definition where the two-axis grid placed him by judgement. The atlas keeps the third axis as an optional overlay rather than folding it in, trading a little nuance for tractability.
 
 ## The Cost Overlay: What Each Cell Owes
 

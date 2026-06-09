@@ -4,8 +4,13 @@ description: "A third locating axis for dualist positions — how narrow the min
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-06-05T22:49:17+00:00
+ai_modified: 2026-06-09T06:48:29+00:00
 draft: false
+archived: true
+archived_date: 2026-06-09T06:48:29+00:00
+superseded_by: "/topics/dualism-channel-width-axis/"
+archive_reason: "Coalesced into Channel Width: The Third Axis of the Dualism-Thickness Taxonomy"
+original_path: "/topics/channel-width-third-axis/"
 topics:
   - dualism
   - philosophy-of-mind
