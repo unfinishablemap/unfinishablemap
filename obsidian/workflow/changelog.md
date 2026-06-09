@@ -5,6 +5,22 @@ ai_modified: 2026-06-09T05:02:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-09T05:54:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/illusionism]]
+- **Task**: Consolidated citation-fix pass (todo L39 Frankish-quote + L54 four-citation defects, ChatGPT+Claude convergent, web-verified via outer-review-synthesis-2026-06-09)
+- **Changes** (all length-neutral substitutions; body held at exactly 3,500w, the concept hard ceiling):
+  - Frankish "entity eliminativism" misquotation (line 55): replaced the fabricated composite quote with Frankish's accurate 2016 words ("eliminativism about phenomenal consciousness," "the term is not ideal"). Dropped the unverified "entity eliminativism" / Irvine & Sprevak framing per task instruction (attribution plausible but unconfirmed this pass).
+  - Bogus "Pereboom & Frankish (2021)" RPP cite removed (body + References): the co-authored paper does not exist. Reattributed the distortion-thesis material to Frankish (originator) + Shabasson 2022 (false-inference version) + Gorbachev & Frankish 2025 *Synthese* 205(6) (current taxonomy — also satisfies the convergent L46(c) distortion-thesis-currency finding). Added Pereboom (2016) JCS 23(11-12):172-185 separately, mirroring the corrected functional-seeming.md cluster.
+  - Graziano 2024 venue corrected: JCS → *eNeuro* 11(10), ENEURO.0210-24.2024, "Some Options for Explaining Consciousness."
+  - Kammerer source/claim mismatch: rich-illusion claim now cites Kammerer (2022b) "How Rich is the Illusion of Consciousness?" *Erkenntnis* 87(2):499-515; the Moorean "How Can You Be So Sure?" (2022) kept for its section.
+  - Chalmers 2022 stance-transfer (verify-first): reworded — Chalmers 2018 presents the Moorean argument; Loginov 2024 presses against it (the "too theory-laden / philosophical-jargon" objection is Loginov's, not Chalmers's), drawing on Chalmers's 2022 critique of Moore's original external-world proof. Removed the false "Chalmers himself later judged this flawed" recantation claim.
+  - Morozov 2025 venue made accurate (PhilArchive is a repository): now the Kasavin (ed.) volume.
+  - ~80w of compensating prose trims across meta-representational, content-irrealism, epiphenomenalism, objection, and connecting sections to absorb the net new reference lines while preserving all calibration / direct-refutation-discipline / framework-boundary framing.
+- **Corpus-propagation note**: the bogus "Pereboom & Frankish 2021" also appears in `research/illusionism-functional-seeming-2026-03-28.md` (lines 89, 181, 203) — left for a follow-on per task instruction (do NOT auto-fix other files this pass).
+- **Out of scope (separate tasks L46/L62/L70, untouched)**: qualia.md regress harmonization, broad 2019-2026 bibliography spine, opponent-engagement/Strawson-gloss overstatement calibration, AST page.
+- **Published**: yes
+
 ## 2026-06-09T05:17:40+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-06-09
