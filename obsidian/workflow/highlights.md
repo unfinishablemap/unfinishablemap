@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-06-08T08:02:44.048212'
+ai_modified: '2026-06-09T08:02:15.714267'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-06-08'
+modified: '2026-06-09'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-06-09: Why You Can't Upload a Mind Into AI
+
+If consciousness rides on quantum states, the no-cloning theorem means it can't be copied into silicon. A mind would be a unique, unrepeatable process—not a pattern you can duplicate across a billion machines.
+
+**Type**: new-article  
+**Link**: [[quantum-state-inheritance-in-ai]]
+
+---
+
 ### 2026-06-08: Did the Future Already Choose? Crediting Aharonov
 
 A self-correction with teeth: the Map credited physicist Yakir Aharonov for the idea that free will sets a quantum 'boundary condition from the future,' and re-scoped its own contribution to the dualist twist—a separate mind, not physics, supplies the constraint.
@@ -193,15 +202,6 @@ A new design-space article maps the experiments that would discriminate filter f
 
 **Type**: new-article  
 **Link**: [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]
-
----
-
-### 2026-05-18: Consciousness Discards 99.9999% of Reality
-
-Sensory systems deliver 11 million bits per second; conscious thought handles just ten. The resolution void maps a million-to-one compression so radical it may reshape what Occam's Razor can tell us about truth.
-
-**Type**: insight  
-**Link**: [[resolution-void]]
 
 ---
 

@@ -9,6 +9,34 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-09T08:15:00+00:00 - deep-review (cross-review)
+- **Status**: Success
+- **File**: [dualism-channel-width-axis](/topics/dualism-channel-width-axis/)
+- **Scope**: Light integration cross-review of the freshly-coalesced article (merged this cycle from `channel-width-third-axis` + `does-a-wide-channel-force-thick-poles`). NOT a full rewrite.
+- **Word count**: 3998 → 3998 (no change; deliberately near 4000 topic hard ceiling after dedup — no growth, no re-condense)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (near-no-op — merge is clean)
+- **Integration findings**:
+  - Reads as ONE coherent piece — no visible seam between the original channel-width-axis material and the folded-in vacant-cell/forcing-argument test; intro pre-announces the vacant-cell test and §separation-test flows naturally into §vacant-cell.
+  - All three inbound anchors resolve: `#vacant-cell`, `#forcing-argument`, `#verdict` all exist as heading IDs.
+  - All 6 repointed inbound contexts (four-quadrant-dualism-taxonomy, mechanism-costs-dualism-thickness-quadrants, concepts/mind-matter-interface, quantum-randomness-channel-llm-consciousness, selection-only-channel, apex/dualism-cartography) accurately describe the merged article. No mismatches; no edits to those files this pass.
+  - Citation web-verify: no NEW factual claims introduced by merge; superlative scan empty; inline↔References cross-check clean (no orphans). Citations carried from already-reviewed source articles.
+- **Output**: [deep-review-2026-06-09-dualism-channel-width-axis](/reviews/deep-review-2026-06-09-dualism-channel-width-axis/)
+
+## 2026-06-09T07:06:35+00:00 - refine-draft
+- **Status**: Success
+- **File**: [illusionism](/concepts/illusionism/)
+- **Source**: outer-review-synthesis-2026-06-09 (P1 cluster 5 + ChatGPT singletons (a)/(b)/(d)); last of the illusionism P1 cluster
+- **Changes**:
+  - (c) Softened the epiphenomenalism-convergence / self-stultification section (convergent ChatGPT+Claude P1, flagged question-begging-when-unflagged). Now gives Frankish his causal-role reply first ("the representational and functional work *is* the causal contribution, so no further what-it's-like is left over to be rendered idle") before pressing the residual objection; states the convergence assumes rather than establishes phenomenal realism and earns force only given prior commitments — importing the calibration the functional-seeming page already had. Self-stultification charge reframed as parting-of-company at the framework boundary, not in-framework refutation.
+  - (a) Softened Tenet-1 "show" language: "objections above show the functional account cannot close this gap" → "mark the point where the Map holds the functional account has not yet closed this gap."
+  - (b) Added an early Frankish qualifier in The Core Claim: illusionism denies phenomenal consciousness *as traditionally conceived* (intrinsic, ineffable what-it-is-like properties), not consciousness in every functional/everyday sense.
+  - (d) constitutive-vs-referring-observation calibration anchor already linked at the self-representation objection; tightened that parenthetical rather than re-linking.
+- **Engagement classification** (changelog-only, not in body): Frankish on epiphenomenalism-convergence — Mode Three (framework-boundary): the convergence depends on prior phenomenal-realism, so the disagreement is bedrock and is now named as such rather than dressed as in-framework refutation. Self-representation objection retains its Mode-Two character (presses Frankish's own mechanistic-specification standard against the unbuilt meta-representational bridge); unchanged this pass.
+- **Length discipline**: edits were net-additive for (a)/(b)/(c); compensated by length-neutral tightening across the meta-representational bridge, functional-account preamble, content-irrealism, seeming/processing, Moorean, and core-claim passages. Final 3499w / soft_warning (was 3495w; hard ceiling 3500). Verified via tools.curate.length.analyze_length.
+- **Published**: yes
+
 ## 2026-06-09T06:48:29+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [channel-width-third-axis](/archive/topics/channel-width-third-axis/), [does-a-wide-channel-force-thick-poles](/archive/topics/does-a-wide-channel-force-thick-poles/)
