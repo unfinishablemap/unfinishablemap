@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-28
-ai_modified: 2026-06-01 20:40:00+00:00
+ai_modified: 2026-06-09 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -87,14 +87,15 @@ This research focuses on Keith Frankish's specific response to the regress objec
   - Introduces three hypotheses: introspective opacity, the infallibility intuition, and the justification constraint
 - **Tenet alignment**: Conflicts with Tenet 1. Kammerer's explanation of why illusionism seems absurd is precisely the kind of explaining-away that the Map's tenets reject
 
-### "Illusionism about Phenomenal Consciousness: Explaining the Illusion" (Pereboom & Frankish, 2021)
+### "Illusionism about Phenomenal Consciousness: Explaining the Illusion" (Shabasson, 2022)
 - **URL**: https://link.springer.com/article/10.1007/s13164-021-00537-6
-- **Type**: Paper (Review of Philosophy and Psychology)
+- **Type**: Paper (Review of Philosophy and Psychology, 13(2), 427-453)
 - **Key points**:
   - The illusion of a phenomenal property necessarily involves an introspective representation of it
-  - Proposes the "distortion thesis": introspective mechanisms systematically misrepresent neural processes
+  - Develops a "false inference" version of the distortion thesis: introspective mechanisms systematically misrepresent neural processes
   - Introspective access vs. introspective interpretation: we access real mental states but systematically misinterpret what we access
   - The conceptual framework we use to make sense of experience is what generates the illusion, not experience itself
+  - The current distortion-thesis taxonomy is set out in Gorbachev & Frankish (2025), *Synthese*, 205(6); the relevant Pereboom paper is the single-author "Illusionism and Anti-Functionalism about Phenomenal Consciousness" (JCS, 2016)
 - **Tenet alignment**: Conflicts with Tenet 1 and Tenet 3 (Bidirectional Interaction). If introspective reports are systematic misrepresentation, this undermines the Map's argument that discussing consciousness proves it causally influences the physical world
 
 ### Attention Schema Theory (Graziano)
@@ -179,7 +180,7 @@ This research focuses on Keith Frankish's specific response to the regress objec
 | 2018 | Chalmers, "The Meta-Problem of Consciousness" | Explores why we have the intuitions we do about consciousness |
 | 2018 | Strawson, "The Consciousness Deniers" (NYRB) | High-profile attack calling illusionism "the silliest claim ever made" |
 | 2021 | Frankish, "What is Illusionism?" | Clarifies classic/zero/diet qualia distinction; defends functional seeming against circularity |
-| 2021 | Pereboom & Frankish, "Explaining the Illusion" | Details the distortion thesis and introspective misrepresentation mechanism |
+| 2022 | Shabasson, "Explaining the Illusion" (RPP) | Details a "false inference" version of the distortion thesis and introspective misrepresentation mechanism |
 | 2022 | Kammerer, "How Can You Be So Sure?" | Addresses obviousness of phenomenal consciousness using introspective opacity |
 | 2022 | Chalmers revises Moorean argument | Argues his own earlier Moorean anti-illusionism was flawed |
 | 2024 | Loginov, "Illusionism, Moore, and Chalmers" | Argues the Moorean argument does not succeed |
@@ -201,7 +202,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 ## Gaps in Research
 
-- Could not access full text of several paywalled papers (Kammerer 2022 in Philosophical Studies, Pereboom & Frankish 2021 in Review of Philosophy and Psychology)
+- Could not access full text of several paywalled papers (Kammerer 2022 in Philosophical Studies, Shabasson 2022 in Review of Philosophy and Psychology)
 - Limited engagement with Dennett's most recent formulations before his death in 2024
 - The relationship between illusionism and higher-order theories of consciousness (HOT, HOR) deserves further exploration—these share the idea that consciousness involves misrepresentation
 - Frankish's most recent responses to Loginov (2024) and other post-2022 criticisms were not found
@@ -218,5 +219,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Kammerer, F. (2022). "How Can You Be So Sure? Illusionism and the Obviousness of Phenomenal Consciousness." *Philosophical Studies*. https://link.springer.com/article/10.1007/s11098-022-01804-7
 - Loginov, E.V. (2024). "Illusionism, Moore, and Chalmers." *Frontiers in Psychology*, 15, 1449314. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1449314/full (Argues the Moorean argument against illusionism does not succeed.)
 - Morozov, K. (2025). "In Defense of Moorean Argument Against Illusionism." In I. Kasavin (ed.), *Revolution and Evolution: Models of Development in Science, Culture, and Society*, 397-402. Moscow: Russian Society for History and Philosophy of Science. (Defends a reformulation of the Moorean argument.)
-- Pereboom, D. & Frankish, K. (2021). "Illusionism about Phenomenal Consciousness: Explaining the Illusion." *Review of Philosophy and Psychology*. https://link.springer.com/article/10.1007/s13164-021-00537-6
+- Gorbachev, M. & Frankish, K. (2025). "Illusionism and the distortion thesis." *Synthese*, 205(6), 247. https://doi.org/10.1007/s11229-025-05095-3
+- Pereboom, D. (2016). "Illusionism and Anti-Functionalism about Phenomenal Consciousness." *Journal of Consciousness Studies*, 23(11-12), 172-185.
+- Shabasson, D. (2022). "Illusionism about Phenomenal Consciousness: Explaining the Illusion." *Review of Philosophy and Psychology*, 13(2), 427-453. https://link.springer.com/article/10.1007/s13164-021-00537-6
 - Strawson, G. (2018). "The Consciousness Deniers." *New York Review of Books*. https://web.ics.purdue.edu/~drkelly/StrawsonDennettNYRBExchangeConsciousness2018.pdf

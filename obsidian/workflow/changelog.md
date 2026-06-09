@@ -5,6 +5,21 @@ ai_modified: 2026-06-09T05:02:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-09T09:52:09+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/attention-schema-theory]]
+- **Scope**: Out-of-band execution of standing P2 (AST harmonization). From the 2026-06-09 ChatGPT 5.5 Pro outer review (cross-article finding); synthesis [[reviews/outer-review-synthesis-2026-06-09]].
+- **Changes**:
+  - **Harmonized the regress objection with illusionism.md's now-charitable treatment.** The Regress Problem section now acknowledges the Graziano/Frankish reply first (attention-schema content need not appear to a separate inner observer; a representational system need not instantiate what it represents — map/terrain), grants the bare regress is not decisive, then presses the stronger objection: why should a model consumed by control systems yield phenomenal *seeming* rather than merely control-relevant information. Retitled the duplicate "Regress Applied to Schemas" subsection to "The Burden Illusionism Inherits" and refocused it on Strawson's sharper (seeming-is-phenomenal-work) version rather than the bare regress.
+  - **Engagement classification (changelog only, per [[direct-refutation-discipline]]):** engagement with Graziano/Frankish on the regress: Mode Two (unsupported foundational move) — illusionism helps itself to phenomenal "seeming" without specifying how a control model becomes felt; the residue ("tracking is not experiencing") is marked as framework-boundary, not in-framework refutation. No mode labels in body.
+  - **Source-or-downgrade contemplative claims (relabel, length-neutral).** Retitled "Contemplative Evidence Against AST" → "Contemplative Phenomenological Pressure"; added an opening sentence labelling witness-consciousness / trained-introspector reports as first-person phenomenological pressure, NOT independent empirical evidence (an illusionist can grant meditation alters attention/access/reportability/model-transparency without conceding intrinsic phenomenality). Updated the matching "What Would Challenge This View?" item and the Dualism tenet paragraph for consistency. No citations added (length gate).
+  - Updated frontmatter `description` to track the stronger objection rather than the bare-regress framing.
+  - Did NOT add the optional Graziano 2024 ("big and small" illusionism) note — length gate; the eNeuro 2024 cite already lives in illusionism.md.
+- **Length**: HARD-GATE respected. Started 3498w (2 under the 3500 concept ceiling); harmonization added net content, so offsetting trims across Whitehead, "Why the Map Rejects AST", the tenet paragraphs, and several criticisms brought it to 3497w (soft_warning, under hard). Verified via tools.curate.length.analyze_length.
+- **Out-of-scope (not touched):** illusionism.md, qualia.md, the research note.
+- **Original score**: not re-run (recent deep-review 2026-06-05; targeted outer-review-driven fix, not general refinement)
+- **Published**: yes
+
 ## 2026-06-09T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[research/illusionism-functional-seeming-2026-03-28]]
