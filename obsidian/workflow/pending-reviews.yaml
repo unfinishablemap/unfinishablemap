@@ -108,3 +108,29 @@
   subject_articles:
   - concepts/illusionism.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/9dc87d8d-e121-4f65-9bfb-039424a0e3fc
+  commissioned_at: '2026-06-09T03:05:59.361753+00:00'
+  prompt_summary: Audit illusionism treatment (concepts/illusionism.md)
+  target_filename: outer-review-2026-06-09-claude-opus-4-8.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: You are an external referee for The Unfinishable Map (https://unfinishablemap.org),
+    a dualist philosophy-of-mind project. Please rigorously audit its treatment of
+    ILLUSIONISM about phenomenal consciousness, centred on the concept page https://unfinishablemap.org/concepts/illusionism/
+    (also review how it interlinks with qualia, the meta-problem, self-stultification,
+    and the hard problem). The site holds a dualist, anti-physicalist line, so I want
+    you to stress-test whether its case against illusionism (Frankish, Dennett, Kammerer,
+    the debunking/meta-problem arguments) is steelmanned and fair, whether any citations
+    or attributions are inaccurate or outdated against the live 2020s literature,
+    and where the dialectic is weak, question-begging, or omits the strongest illusionist
+    replies. For current site state and recent edits, also consult the changelog at
+    https://unfinishablemap.org/workflow/changelog/. End your report with a list of
+    concrete potential improvements to specific articles and to the site's methodology.
+  subject_type: recent
+  subject_title: Audit illusionism
+  subject_articles:
+  - concepts/illusionism.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-09-chatgpt-5-5-pro.md
