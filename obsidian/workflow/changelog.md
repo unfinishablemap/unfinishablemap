@@ -5,6 +5,15 @@ ai_modified: 2026-06-08 14:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-09T00:30:00+00:00 - refine-draft (evidential-register deep-link)
+- **Status**: Success
+- **File**: [[topics/ai-consciousness]]
+- **Task**: Floor-restoring P2 (promoted P3→P2 by replenish) — deep-link sibling boundary-case article to the canonical "Evidential Register: Tenet vs. Evidence" section in [[topics/consciousness-in-simple-organisms]]. animal-consciousness already linked it 6× (assessed-and-declined per task); ai-consciousness had 0 links (the genuine open half).
+- **Changes**: Added one inline section-anchor wikilink from ai-consciousness's register-discipline paragraph into `consciousness-in-simple-organisms#Evidential Register: Tenet vs. Evidence` (the natural thematic match — both apply the tenet-removes-defeater-but-not-evidence discipline, alongside the existing [[possibility-probability-slippage]] link). Added a `related_articles` frontmatter entry. Lightly tightened two clauses in the same sentence to stay length-safe.
+- **Length**: ai-consciousness grew the source (3979→3992w, soft_warning, 8w under the 4000 hard ceiling — cap-safe); the near-ceiling target consciousness-in-simple-organisms (3982w) was NOT touched. No new page, no web-verify.
+- **Verification**: sync passed; link converts to `/topics/consciousness-in-simple-organisms/#evidential-register-tenet-vs-evidence`, matching the synced heading slug.
+- **Published**: yes
+
 ## 2026-06-09T00:01:58+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Recently-modified minimal-organism / quantum-interface cluster — consciousness-in-simple-organisms, minimal-consciousness, quantum-interface (positions), causal-powers
