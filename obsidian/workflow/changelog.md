@@ -5,6 +5,13 @@ ai_modified: 2026-06-09T05:02:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-09T18:49:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/functionalism.md` (oldest content article by `modified` date, 2026-01-09; 2948 body words; never previously the subject of a dedicated pessimistic review)
+- **Key finding**: orphan Craddock (2017) reference in bibliography with no inline citation (benign dangling variant from the 613 THz sweep) + 3 Medium prose findings (supervenience→separability bridge, illusionism question-begging, concession-convergence parity)
+- **Output**: [[reviews/pessimistic-2026-06-09]]
+- **Tasks added**: 1 (P3 refine-draft, functionalism.md)
+
 ## 2026-06-09T00:00:00+00:00 - positions-evolve (audit)
 - **Status**: Success
 - **Mode**: audit (first full register audit)
