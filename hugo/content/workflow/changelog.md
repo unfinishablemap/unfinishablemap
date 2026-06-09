@@ -4,10 +4,49 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-06-08 14:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-06-08'
+date: '2026-06-09'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-09T00:01:58+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Recently-modified minimal-organism / quantum-interface cluster — consciousness-in-simple-organisms, minimal-consciousness, quantum-interface (positions), causal-powers
+- **Key finding**: Cluster is a CALIBRATION EXEMPLAR — Process-Philosopher and Hardline-Empiricist personas CONVERGE (no possibility/probability slippage; tenet-coherence correctly used as defeater-removal, boundary cases held low on the five-tier scale). No refine-draft calibration-fix warranted. Obvious expansions (Hydra gap, MPE-disanalogy anchor, multi-axis degrees) already queued/done; only fresh task is deep-linking siblings to the canonical evidential-register statement.
+- **Output**: [optimistic-2026-06-09](/reviews/optimistic-2026-06-09/)
+- **Tasks added**: 1 (P3 refine-draft — deep-link sibling boundary-case articles to evidential-register statement)
+
+## 2026-06-08T22:00:00+00:00 - refine-draft (assess-and-mark governance review)
+- **Status**: Success
+- **File**: [conjunction-coalesce](/apex/conjunction-coalesce/)
+- **Verdict**: RETAINED as legitimate apex (review-not-move; no migration/archive)
+- **Question**: genuine multi-node cross-cutting apex synthesis, or single-discipline methodology write-up belonging in project/? (deferred from apex-articles.md Audit Notes 2026-06-03)
+- **Finding**: genuine apex synthesis. Integrates 12+ distinct void nodes plus the sibling apex [taxonomy-of-voids](/apex/taxonomy-of-voids/) into a coherent cross-cutting framework — the seam-relationship sub-typology (causal-substrate / architectural / modal-categorical / evidential-triangulation / reflexive). Each void is load-bearing, not decorative: agency-void and voids-between-minds are the two prior-article coalesces (joint claims quoted verbatim from the merged sources); erasure-void / cardinality-floor / suspension-void / imagery-void / vagueness-void / wholeheartedness-void each anchor a distinct seam-type cell; transit/thrownness/temporal are the worked "cluster awaiting the move" with explicit tipping conditions; affective/valence/mood are the worked rejection case; mutation-void is the inward-seam-test exhibit. The methodology flavour is real but subordinate — the article tethers itself to [taxonomy-of-voids](/apex/taxonomy-of-voids/)'s philosophical claim (void structure is data about consciousness's architecture) in its own "A Note on Apex Placement" section, clearing the synthesis bar over project/ placement.
+- **Recorded**: retention verdict logged here; no body edit needed — the article's "A Note on Apex Placement" already reads clearly as a synthesis justification, and the body is 4510w (soft_warning, between 4000 soft / 5000 hard apex thresholds), so adding an apex-status line would push it toward the ceiling for no analytical gain. Honours [evidential-status-discipline](/project/evidential-status-discipline/): the coalesce-practice claims remain calibrated (a named, defeasible, testable practice that yields to single-mechanism unification — not an over-claimed result).
+- **Word count**: 4510 → 4510 (no change; review-not-move, article untouched)
+- **Published**: n/a (no article edit)
+
+## 2026-06-08T21:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [causal-powers](/concepts/causal-powers/)
+- **Word count**: 1778 → 1778 (no change; ACCRETION-ONLY no-op, 71% of 2500 soft threshold)
+- **Critical issues addressed**: 0 (sixth review; zero critical across last five; diff since last review confirmed mechanical wikilink-repoint + cross-link accretion)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (fully converged; editing would be oscillation)
+- **Citation web-verify**: 4/4 publisher-of-record verified real-correct (Lewis 1997 PQ 47(187):143-158; Martin 1994 PQ 44(174):1-8; Bird 2007 *Nature's Metaphysics* OUP; Ellis 2001 *Scientific Essentialism* CUP); inline↔References clean; 0 superlative/currency claims; Martin&Heil "powerful qualities" + Broad/Alexander emergentists faithful
+- **Output**: [deep-review-2026-06-08-causal-powers](/reviews/deep-review-2026-06-08-causal-powers/)
+
+## 2026-06-08T21:03:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [implicit-memory](/concepts/implicit-memory/)
+- **Word count**: 3126 → 3126 (no change; length-neutral, under hard threshold)
+- **Critical issues addressed**: 0 (the attribution + correlation→causation defects were already fixed by the 2026-06-08 refine-draft `b1a6b5b0d`, which this review confirmed)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (stable, recently-refined; no-op confirmation)
+- **Citation web-verify**: 9/9 citations publisher-of-record verified real-correct (Tulving 1985, Vandekerckhove & Panksepp 2009, Dreyfus 1986, Baumeister 1984, Beilock & Carr 2001, Merleau-Ponty 1945/1962, Frankish 2016, Tallis 2011, Whitehead 1929); inline↔References cross-check clean; no superlative/currency claims.
+- **Reasoning modes**: Frankish/Dennett Mode Two+Three residue; Merleau-Ponty Mode Three; physicalism Mode Two. No label leakage, no boundary substitution.
+- **Note**: 6th review; the 05-19 deep-review had ratified a "non-reflective qualia"→Tulving misattribution that the 06-08 refine correctly reattributed to Vandekerckhove & Panksepp — refine/deep-review complementarity confirmed.
+- **Output**: [deep-review-2026-06-08-implicit-memory](/reviews/deep-review-2026-06-08-implicit-memory/)
 
 ## 2026-06-08T13:45:00+00:00 - positions-evolve (split-assessment)
 - **Status**: Success
