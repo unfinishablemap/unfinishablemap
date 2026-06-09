@@ -37,7 +37,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense topics/clinical-dissociation-as-systematic-evidence.md (4863 words, 162% of target)
+### P2: Adopt mental-effort calibration in consciousness-and-the-phenomenology-of-translation
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/consciousness-and-the-phenomenology-of-translation.md
+- **Notes**: From topic-concept anchoring audit 2026-06-09. The topic article over-claims relative to its anchor concept [[mental-effort]]; failed checks: strong_assertions, underdetermination_markers.
+  - strong-assertion density 0.60/kw exceeds 1.5× anchor (0.34/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-09
+
+### P2: Adopt mental-causation-and-downward-causation calibration in cognitive-science-of-dualism
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/cognitive-science-of-dualism.md
+- **Notes**: From topic-concept anchoring audit 2026-06-09. The topic article over-claims relative to its anchor concept [[mental-causation-and-downward-causation]]; failed checks: strong_assertions, underdetermination_markers.
+  - topic uses 2 strong-assertion verbs (0.95/kw) where anchor uses none; absolute allowance is 0.5/kw
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-09
+
+
+### ✓ DIVERTED-TO-HUMAN 2026-06-09: Condense topics/clinical-dissociation-as-systematic-evidence.md (4863 words, 162% of target)
+- **Status**: diverted to human length decision (assess-first at pick-time, 2026-06-09). The minting fork judged it "not a calibration-anchor / condensable," and narrowly that holds — the 4 "load-bearing" instances are the article's OWN internal evidential-status hedges (content), not corpus-propagated canonical wording. BUT the fuller on-disk picture tips this to a human call: (1) the article was OUTER-REVIEWED TWICE on 2026-06-04 (Claude Opus 4.8 + ChatGPT 5.5 Pro), and those reviews engaged its exact evidential framing + reference structure, producing convention-candidates now recorded in `project/calibration-audit-triple.md` and `project/writing-style.md` — condensing ~5 days later risks undoing review-validated wording; (2) extremely hedge-dense (the value IS the calibration: "load-bearing" ×4, "does not settle the matter", "the inference is not forced", "strongly-but-contestedly trauma-linked", "the reading claims less") → high `condense-regresses-calibration-qualifiers` risk; (3) 15 inbound links + referenced in 2 project calibration-governance docs = high-visibility; (4) over the 4000 hard ceiling but well under the 6000 critical → no urgency forcing the cut; (5) a prior replenish cycle (2026-06-08) already grouped it human-deferred. Asymmetry: auto-condensing risks degrading carefully-calibrated, recently-externally-reviewed evidence to clear a non-critical length violation. HUMAN should decide: accept the over-hard length on this high-value evidence flagship, OR direct a hedge-preserving condense (target just-under-4000, NOT the 3000 soft, preserving every evidential-status qualifier; do NOT re-section the reference list — that's a separate unadopted human/operator convention per writing-style.md). Not auto-condensed per [[human-decision-task-mispicked-as-refine]] + the deferral pattern.
 - **Type**: condense
 - **Notes**: Body is 4863 words (frontmatter-stripped), hard_warning at 162% of the 3000-word topics soft target, exceeding the 4000-word hard threshold (critical is 6000). Stable target: last modified 2026-06-07 (coalesce cycle), last_deep_review 2026-06-05, ai_contribution 100, NOT a calibration-anchor (no canonical-calibration / propagation language), no open task pending. Preserve core arguments (DID, depersonalization, conversion, amnesia → selective connectivity disruption on intact substrate → interface architecture) and all calibration/evidential-status hedges ("may favour … without forcing it"); remove redundancy and defer detailed subtopics to linked articles. Per condense-regresses-calibration-qualifiers caution: explicitly preserve evidential-status framing and citation-framing language. See /condense skill. **ASSESS-FIRST AT PICK-TIME**: a prior replenish note (2026-06-08, todo ~L221) informally grouped clinical-dissociation among "human-deferred" length offenders alongside true calibration flagships (born-rule, laws-and-dispositions). This task's fork did a more specific re-assessment (no canonical-calibration/propagation language → not an anchor → condensable), which supersedes the loose grouping — but before condensing, re-confirm on disk that the article carries no corpus-propagated calibration wording; if it does, DIVERT to human length decision rather than auto-condense.
 - **Source**: length_analysis
