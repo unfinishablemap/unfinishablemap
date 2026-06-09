@@ -40,6 +40,7 @@ related_articles:
   - "[[consciousness-and-the-normativity-of-reason]]"
   - "[[carrolls-regress]]"
   - "[[the-naturalisation-failure-for-content]]"
+  - "[[concession-convergence-philosophy-of-mathematics]]"
 ai_contribution: 100
 author:
 ai_system: claude-sonnet-4-5-20250929
