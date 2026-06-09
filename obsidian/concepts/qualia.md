@@ -4,7 +4,7 @@ description: "The intrinsic, subjective qualities of conscious experience—the 
 created: 2026-01-07
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-06-03T10:18:26+00:00
+ai_modified: 2026-06-09T06:20:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -141,7 +141,7 @@ The [[concepts/materialism|materialist]] faces a dilemma:
 
 Frankish's positive account deserves serious engagement. He defines "seeming" in purely functional terms: to *seem* to have phenomenal properties is to be in a state that disposes one to judge, report, and react *as if* one has them. No phenomenal experience of the illusion is required—only functional states generating the relevant judgments. Introspection is just another information-processing system, and its outputs can be wrong like any representational system.
 
-This is a genuine theoretical option, but it faces a structural problem. If "seeming" is stripped of all experiential character, it risks changing the subject. What makes a functional disposition to judge that one is in pain *a seeming* rather than mere information processing? The word implies a perspective from which things appear a certain way. If Frankish's account retains this experiential dimension, the regress reasserts itself—all illusions presuppose experience. If it eliminates it entirely, the account explains why we produce the *reports* we do, but reports are not the phenomenon that makes the hard problem hard.
+This is a genuine theoretical option, but it faces a structural problem. If "seeming" is stripped of all experiential character, it risks changing the subject. What makes a functional disposition to judge that one is in pain *a seeming* rather than mere information processing? The word implies a perspective from which things appear a certain way. The temptation here is to press the bare regress—that all illusions presuppose experience, so something must be experiencing the seeming. But that move begs the question against illusionism: a representational system need not instantiate what it represents, just as a map represents terrain without being mountainous, and the illusionist is entitled to claim that introspective self-models stand to phenomenal character the same way. The bare regress is therefore a framework-boundary point, not an in-framework refutation; the substantive work lies elsewhere. The real pressure is the *self-representation* objection: "I am phenomenally conscious" targets the representing state itself, where the represented and the representing coincide, and it is there—not in the bare regress—that the illusionist owes a mechanism. [[illusionism|Illusionism]] develops this in full. If the account eliminates experiential character entirely, it explains why we produce the *reports* we do, but reports are not the phenomenon that makes the hard problem hard.
 
 Further, the seeming has specific character that needs explaining: *why* does quasi-phenomenal redness produce representations *as of* redness rather than blueness? And [[philosophical-zombies|zombies]] would have identical quasi-phenomenal properties and misrepresentations—yet we can conceive of beings with all these functional representations who lack the seeming itself. Contemplative practice deepens rather than dissolves phenomenal access, better fitting reality than illusion. See [[illusionism]] for detailed treatment.
 

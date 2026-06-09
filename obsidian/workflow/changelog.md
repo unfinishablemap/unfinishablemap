@@ -5,6 +5,15 @@ ai_modified: 2026-06-09T05:02:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-09T06:20:32+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/qualia]], [[concepts/illusionism]]
+- **Task**: L46 illusionism-cluster — regress-inconsistency harmonization (PRIMARY) + targeted bibliography currency (SECONDARY, length-gated)
+- **PRIMARY (qualia.md, 3285 → 3393w / soft)**: Harmonized the "all illusions presuppose experience" regress with illusionism.md's standing concession that the bare regress "proves nothing" (a representational system need not instantiate what it represents — the map/terrain point). Rewrote the regress invocation in "The Illusionist Challenge" to flag the bare regress as question-begging-against-illusionism and a framework-boundary point (natural prose, no mode labels), redirecting the substantive weight to the self-representation objection and pointing to illusionism.md for the fuller treatment. Engagement with Frankish/illusionist: framework-boundary marking on the bare regress, in-framework pressure relocated to self-representation — no boundary-substitution.
+- **SECONDARY (illusionism.md, 3499 → 3495w / soft)**: Added Kammerer, F. (2025), "Defining consciousness and denying its existence. Sailing between Charybdis and Scylla," Philosophical Studies 182(2), 541-565, DOI 10.1007/s11098-025-02285-0 to the reference list + one tight inline mention in the "alive on this question" paragraph. WEB-VERIFIED metadata before adding (Springer version of record: vol 182, pp 541-565, DOI confirmed). Offset with compensating body trims (alive-paragraph, Moorean paragraph, honest-limitation, epiphenomenalism-convergence, vantage-point, zombie-convergence, self-stultification, self-representation parenthetical) to keep the article at 3495w ≤ 3499/soft, BELOW the 3500 hard ceiling. Did NOT add the broader 2019-2026 spine (Kammerer 2021/2019, Dennett 2019, Frankish 2019, Chalmers 2020, House of Mirrors) — that remains a HUMAN LENGTH DECISION given the hard ceiling.
+- **Final word counts**: qualia 3393w (soft), illusionism 3495w (soft) — both under 3500 hard ceiling, re-verified via tools.curate.length.analyze_length.
+- **Published**: yes
+
 ## 2026-06-09T06:03:09+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/quiddity-epiphenomenalism-and-the-contingency-thesis]]
