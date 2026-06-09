@@ -9,6 +9,33 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-09T04:20:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8
+- **File**: [outer-review-2026-06-09-claude-opus-4-8](/reviews/outer-review-2026-06-09-claude-opus-4-8/)
+- **Subject**: Audit illusionism (`concepts/illusionism.md`) — leg 2 of the 3-reviewer illusionism triple (ChatGPT collected, Gemini pending)
+- **Claims verified**: 8 (4 source-page claims grep-confirmed; 4 citation corrections web-verified against publishers of record — Shabasson/Pereboom&Frankish, Graziano eNeuro venue, Chalmers-2022/Loginov misattribution, Frankish "entity eliminativism" misquotation)
+- **High-value findings**: 6 (4 verified citation defects + 2 question-begging arguments + stale 2019–2026 bibliography)
+- **Tasks generated**: 2 (P1: 1 — Frankish misquotation; P2: 1 — regress inconsistency + bibliography refresh). Convergent citation findings (Pereboom & Frankish, Graziano venue, Chalmers 2022) overlap the ChatGPT sibling's P1 task; left for /combine-outer-reviews to dedupe and upgrade.
+
+## 2026-06-09T04:00:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [outer-review-2026-06-09-chatgpt-5-5-pro](/reviews/outer-review-2026-06-09-chatgpt-5-5-pro/)
+- **Subject**: Audit illusionism (`concepts/illusionism.md`) — recent-aged fallback subject
+- **Claims verified**: 4 web-verified (Shabasson RPP 2022, Graziano eNeuro 11(10) 2024, Kammerer "How Rich is the Illusion?" Erkenntnis 87, no co-authored "Pereboom & Frankish 2021"); all four citation defects confirmed against the live article + corroborated by the corrected cluster already on functional-seeming.md
+- **High-value findings**: 4 citation/attribution defects (1 fabricated-co-author cite, 1 wrong venue, 1 source/claim mismatch, 1 Chalmers stance-transfer) + opponent-engagement/calibration overstatement notes + AST harmonization
+- **Tasks generated**: 3 (P1: 1 — mechanical citation fixes, length-neutral; P2: 2 — illusionism opponent-engagement softening w/ direct-refutation remit, AST regress harmonization + contemplative-claim sourcing). Site-methodology proposals (corpus citation-propagation grep) folded into the P1 task rather than spawned as a low-execution P3.
+
+## 2026-06-09T00:30:00+00:00 - refine-draft (evidential-register deep-link)
+- **Status**: Success
+- **File**: [ai-consciousness](/topics/ai-consciousness/)
+- **Task**: Floor-restoring P2 (promoted P3→P2 by replenish) — deep-link sibling boundary-case article to the canonical "Evidential Register: Tenet vs. Evidence" section in [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/). animal-consciousness already linked it 6× (assessed-and-declined per task); ai-consciousness had 0 links (the genuine open half).
+- **Changes**: Added one inline section-anchor wikilink from ai-consciousness's register-discipline paragraph into `consciousness-in-simple-organisms#Evidential Register: Tenet vs. Evidence` (the natural thematic match — both apply the tenet-removes-defeater-but-not-evidence discipline, alongside the existing [possibility-probability-slippage](/concepts/possibility-probability-slippage/) link). Added a `related_articles` frontmatter entry. Lightly tightened two clauses in the same sentence to stay length-safe.
+- **Length**: ai-consciousness grew the source (3979→3992w, soft_warning, 8w under the 4000 hard ceiling — cap-safe); the near-ceiling target consciousness-in-simple-organisms (3982w) was NOT touched. No new page, no web-verify.
+- **Verification**: sync passed; link converts to `/topics/consciousness-in-simple-organisms/#evidential-register-tenet-vs-evidence`, matching the synced heading slug.
+- **Published**: yes
+
 ## 2026-06-09T00:01:58+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Recently-modified minimal-organism / quantum-interface cluster — consciousness-in-simple-organisms, minimal-consciousness, quantum-interface (positions), causal-powers
