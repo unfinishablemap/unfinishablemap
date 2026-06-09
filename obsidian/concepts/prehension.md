@@ -4,7 +4,7 @@ description: "Whitehead's concept of how each moment of reality grasps its prede
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-05-26T15:16:44+00:00
+ai_modified: 2026-06-09T16:02:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-05-26T11:44:56+00:00
+last_deep_review: 2026-06-09T16:02:30+00:00
 ---
 
 Prehension is Alfred North Whitehead's term for the fundamental relation by which each moment of reality grasps, includes, or takes account of what came before. In Whitehead's [[process-philosophy|process philosophy]], reality consists of "actual occasions"—momentary events of experience that perish and give rise to successors. Prehension is how these occasions relate: each new occasion prehends (from the Latin *prehendere*, to grasp) its predecessors, incorporating them into its own constitution. The past doesn't push events from behind; events actively integrate the past into novel unities.
