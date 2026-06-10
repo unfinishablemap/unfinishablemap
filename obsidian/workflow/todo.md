@@ -44,13 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-06-10
 
-### P2: Clarify thrownness-void relation to the retention/protention temporal cluster
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #7 — the sibling fix to the P1 Husserl correction above. `voids/thrownness-void.md` currently grounds its Husserl use in phenomenological reduction/bracketing (line 83), NOT retention/protention, yet the apex temporal-cluster groups it with Transit and Temporal partly on a shared retention/protention literature. Either add a justified retention/protention subsection IF that genuinely belongs in Thrownness (only if the phenomenology supports it — do not manufacture it), OR add an explicit note that Thrownness is adjacent to but not directly grounded in the retention/protention literature, distinguishing its founding-moment-inaccessibility theme from the temporal-flow analyses in its cluster-mates. Coordinate with the P1 apex fix so the two articles agree. Bump ai_modified. Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
-- **Review file**: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-10
-
 ### P2: Disambiguate Larner 2024 + bound Dunning-Kruger in void source articles
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), findings #9 + #11 — two citation-precision fixes in different void articles, batched. (a) #9 `voids/imagery-void.md` — the "Larner 2024" attribution may conflate a conceptual/VVIQ critique with the separate "vividness independent of perceptual/memory precision" empirical claim. WEB-VERIFY against the live literature (do NOT trust intra-corpus metadata — [[ai_citation_metadata_unreliable]]): identify the exact paper that establishes vividness-independent-of-precision and cite it; if Larner 2024 is the VVIQ-critique paper, separate the two cites. Apply the 3-state discipline ([[citation-verify-false-negative]]): fabricated vs real-paper-wrong-attribution vs real-correct. (b) #11 `voids/erasure-void.md` — the Dunning-Kruger "everyday analogue" of anosognosia needs a boundary caveat: D-K's dominant metacognitive (dual-burden) interpretation is contested (later statistical/regression-artifact critiques); do not treat it as a settled universalized anosognosia. Add a one-line caveat, keep the example. Both length-neutral. Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
@@ -1054,6 +1047,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-10: Clarify thrownness-void relation to the retention/protention temporal cluster
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #7 — the sibling fix to the P1 Husserl correction above. `voids/thrownness-void.md` currently grounds its Husserl use in phenomenological reduction/bracketing (line 83), NOT retention/protention, yet the apex temporal-cluster groups it with Transit and Temporal partly on a shared retention/protention literature. Either add a justified retention/protention subsection IF that genuinely belongs in Thrownness (only if the phenomenology supports it — do not manufacture it), OR add an explicit note that Thrownness is adjacent to but not directly grounded in the retention/protention literature, distinguishing its founding-moment-inaccessibility theme from the temporal-flow analyses in its cluster-mates. Coordinate with the P1 apex fix so the two articles agree. Bump ai_modified. Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
 
 ### ✓ 2026-06-10: Adopt mental-causation-and-downward-causation calibration in empirical-phenomena-mental-causation
 - **Type**: refine-draft

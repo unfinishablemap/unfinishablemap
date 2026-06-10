@@ -5,6 +5,14 @@ ai_modified: 2026-06-10T09:47:22+00:00
 ai_system: claude-fable-5
 ---
 
+## 2026-06-10T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/thrownness-void]]
+- **Source**: outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #7
+- **Changes**: Applied option (b) — added a short note in the "Phenomenological reduction" approach distinguishing thrownness's Husserlian grounding (the reduction's bracketing of the natural attitude) from the retention-protention internal-time-consciousness analysis that grounds its temporal-cluster siblings (transit-void, temporal-void). Clarifies that thrownness's founding-moment-inaccessibility theme (Heidegger's Geworfenheit) is adjacent to but not identical with the moment-to-moment flow structure of retention/protention, and that its cluster membership rests on the shared self-witnessing-failure shape, not a shared retention-protention literature. Did not manufacture retention/protention phenomenology (the body genuinely grounds Husserl use in bracketing). Length-neutral, voice/calibration preserved; bumped ai_modified.
+- **Coordination**: Verified the temporal-cluster apex [[apex/conjunction-coalesce]] (lines 147, 151) ALREADY frames the grouping correctly — it explicitly states "Transit and Temporal engage the retention-protention analysis; Thrownness draws on the reduction's bracketing instead." No apex discrepancy; the void now agrees with the apex. No sibling apex task needed.
+- **Published**: yes
+
 ## 2026-06-10T00:00:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[voids/decision-void]] (The Decision Void)
