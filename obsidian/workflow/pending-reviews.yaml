@@ -174,9 +174,9 @@
   commissioned_at: '2026-06-10T02:08:46.292061+00:00'
   prompt_summary: Audit apex conjunction-coalesce
   target_filename: outer-review-2026-06-10-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-10T04:16:59.100587+00:00'
   failure_reason: null
   prompt_text: "The Unfinishable Map (https://unfinishablemap.org) is a philosophical\
     \ platform defending a dualist worldview in which consciousness causes quantum\

@@ -5,6 +5,16 @@ ai_modified: 2026-06-09T23:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-10T04:30:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [[reviews/outer-review-2026-06-10-chatgpt-5-5-pro]]
+- **Subject**: apex/conjunction-coalesce (recent-aged fallback)
+- **Verdict**: Retain, but revise before treating as strongly probative — valuable as editorial-methodological synthesis, weaker as apex philosophical argument (internal/recently-generated/partially-self-classifying evidence base).
+- **Claims verified**: 2 confirmed on disk — (1) Husserl "appears in all three" is FALSE for Thrownness (uses reduction/bracketing, not retention/protention); (2) References ledger lists only 5 of 14 load-bearing Source Articles.
+- **High-value findings**: ~12 (1 P1 misattribution, 9 substantive P2 article fixes, 2 P3 currency/cross-link)
+- **Tasks generated**: 10 (P1: 1, P2: 7, P3: 2). Conjunction-coalesce prose findings #4/#5/#6 + bracketing consolidated into ONE refine task per outer-review-same-file-task-pileup. Methodology-only proposals (#1, #14-#20) NOT auto-queued — deferred to human governance / combine-outer-reviews convergence.
+
 ## 2026-06-09T23:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/mapping-mind-space]]

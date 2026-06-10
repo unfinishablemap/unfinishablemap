@@ -37,6 +37,69 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Fix Husserl "all three" misattribution in apex/conjunction-coalesce.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #2 — VERIFIED on disk. `apex/conjunction-coalesce.md` line 140 claims "Husserl's retention-protention analysis appears in all three" (Transit, Thrownness, Temporal). FALSE for Thrownness: `voids/thrownness-void.md` line 83 invokes Husserl only for **phenomenological reduction / bracketing**; the strings "retention"/"protention" appear nowhere in Thrownness. Mechanical correction: replace the "appears in all three" empirical-literature claim with a narrower, accurate statement — e.g. Transit and Temporal engage retention/protention-like temporal self-witnessing, while Thrownness currently draws on Husserlian reduction/bracketing rather than retention/protention. Re-confirm the Transit and Temporal articles DO contain retention/protention before asserting it of them (grep both). This is a load-bearing premise of the temporal-cluster "not yet" verdict (line 140-144), so fix the framing without inflating the joint-claim. Bump ai_modified. Body length is near soft threshold — keep length-neutral. Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
+- **Review file**: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-10
+
+### P2: Complete the formal References ledger in apex/conjunction-coalesce.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #3 — VERIFIED on disk. The "## Source Articles" block lists 14 entries but "## References" has only 5 (Agency, Voids Between Minds, Erasure, Transit, Taxonomy). Load-bearing internal sources absent from the formal ledger: Suspension, Imagery, Vagueness, Wholeheartedness, Thrownness, Temporal, Cardinality Floor, Apophatic Cartography, Mechanism-Costs Cartography. Resolve EITHER by adding every load-bearing source-article to the numbered References list, OR by explicitly redefining "Source Articles" as the auditable source ledger and folding "References" into it (the latter is lower-length-risk — the article is near its soft length threshold, so prefer a merge/redefine over duplicating 9 full citations). Reuse existing citation metadata from the Source Articles wikilinks; do not fabricate dates/authors. Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
+- **Review file**: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-10
+
+### P2: Tighten evidential calibration in apex/conjunction-coalesce.md (consolidated)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), CONSOLIDATED findings #4, #5, #6 + the tenet-protective-bracketing critique — coherent prose/calibration pass on ONE file (grouped per [[outer-review-same-file-task-pileup]] to avoid 4× churn on the apex article). (a) #4 — downgrade "empirical base" language: the two genuine prior-article coalesces are mixed with six creation-time cognates (written from birth in multi-face form); use "case base"/"editorial base" and state explicitly that creation-time cognates are not independent historical merger events. (b) #5 — mark provisional seam types: label causal-substrate, architectural, and reflexive as one-exemplar / candidate types until a second independent exemplar exists (Vagueness itself admits reflexive is one-exemplar). (c) #6 — add a brief rival-mechanism note: acknowledge that metacognitive monitoring / report architecture / introspective-access limits / linguistic coordination / general temporal-processing are the single-mechanism rivals a seam must survive, and that they are not yet stress-tested per seam type (a full rival-table is a larger job — a calibrated acknowledgement suffices here). (d) Bracketing: sharpen the selection-criterion-trilemma analogy so editorial seam-preservation (a methodological pause) is not conflated with retaining a metaphysical primitive (a substantive ontological commitment); the article already says it "does not argue for dualism" — make that separation explicit at the analogy. Apply the [[direct-refutation-discipline]] remit: where the bracketing critique points at an unsupported foundational move, identify it in natural journal-quality prose, NO editor-vocabulary/mode-labels in the article body. PRESERVE existing evidential-status hedges (condense-regresses-calibration-qualifiers risk); keep length-neutral (article near soft threshold). Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
+- **Review file**: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-10
+
+### P2: Clarify thrownness-void relation to the retention/protention temporal cluster
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #7 — the sibling fix to the P1 Husserl correction above. `voids/thrownness-void.md` currently grounds its Husserl use in phenomenological reduction/bracketing (line 83), NOT retention/protention, yet the apex temporal-cluster groups it with Transit and Temporal partly on a shared retention/protention literature. Either add a justified retention/protention subsection IF that genuinely belongs in Thrownness (only if the phenomenology supports it — do not manufacture it), OR add an explicit note that Thrownness is adjacent to but not directly grounded in the retention/protention literature, distinguishing its founding-moment-inaccessibility theme from the temporal-flow analyses in its cluster-mates. Coordinate with the P1 apex fix so the two articles agree. Bump ai_modified. Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
+- **Review file**: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-10
+
+### P2: Disambiguate Larner 2024 + bound Dunning-Kruger in void source articles
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), findings #9 + #11 — two citation-precision fixes in different void articles, batched. (a) #9 `voids/imagery-void.md` — the "Larner 2024" attribution may conflate a conceptual/VVIQ critique with the separate "vividness independent of perceptual/memory precision" empirical claim. WEB-VERIFY against the live literature (do NOT trust intra-corpus metadata — [[ai_citation_metadata_unreliable]]): identify the exact paper that establishes vividness-independent-of-precision and cite it; if Larner 2024 is the VVIQ-critique paper, separate the two cites. Apply the 3-state discipline ([[citation-verify-false-negative]]): fabricated vs real-paper-wrong-attribution vs real-correct. (b) #11 `voids/erasure-void.md` — the Dunning-Kruger "everyday analogue" of anosognosia needs a boundary caveat: D-K's dominant metacognitive (dual-burden) interpretation is contested (later statistical/regression-artifact critiques); do not treat it as a settled universalized anosognosia. Add a one-line caveat, keep the example. Both length-neutral. Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
+- **Review file**: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-10
+
+### P2: Scope the formal claims in voids/common-knowledge-void.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #8. The Halpern-Moses result (common knowledge unattainable in practical distributed systems) is sometimes phrased in the void as "structurally unattainable for finite minds" / covering "any actual physical interface between embodied minds." That is a philosophical extrapolation beyond the formal result, which is scoped to unreliable channels / timing uncertainty / specified models. Add a scope marker distinguishing (i) unreliable-channel/practical-distributed-system impossibility from (ii) idealized public-announcement models where common knowledge IS generable under stipulated assumptions (SEP common-knowledge entry gives such limiting countercases). Frame the Map's stronger reading honestly as extrapolation, not as the theorem. Length-neutral. Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
+- **Review file**: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-10
+
+### P2: Reduce interface rhetoric in voids/transit-void.md and voids/temporal-void.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #12 — TWO files, do both (per [[multifile_task_dropped_file]] verify both are touched before closing). Where Transit and Temporal connect temporal self-witnessing to MQI or Bidirectional Interaction, ensure the language stays at "compatible with" / "suggestive under the tenet-package" rather than "prediction" or "interface evidence." This inherits the Taxonomy-of-Voids calibration (bare dualism predicts nothing; clustering is framework-internal coherence not framework-independent triangulation until distinguishing tests arrive). Grep both files for interface/prediction/evidence claims tied to the temporal theme; downgrade overstated ones; PRESERVE genuine hedges. Length-neutral. Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
+- **Review file**: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-10
+
+### P2: Add back-reference caveat to apex/taxonomy-of-voids.md citing Conjunction-Coalesce
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #13. Where `apex/taxonomy-of-voids.md` cites Conjunction-Coalesce, add a short caveat that multi-face seams add evidential weight ONLY after origin-class scoring (true prior-article coalesce vs native cognate vs retroactive classification) and common-cause / null-model discounting. This closes the loop with the apex article's own "case base not empirical base" downgrade (P2 consolidated task above) so the two apex pages agree on how much independent weight the seam pattern carries. Length-neutral; grep-confirm the Conjunction-Coalesce citation location first. Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
+- **Review file**: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-10
+
+### P3: Update recent aphantasia literature in voids/imagery-void.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #10 — currency sweep (distinct from the #9 attribution fix; this is a [[empirical-record-currency-drift]] vector, not a wrong-cite). Add a current-note on 2025 aphantasia work such as "imageless imagery" / early-visual-cortex decoding, and state whether it strengthens or weakens the function-phenomenology face of the Imagery Void. One WebSearch to confirm a real 2025 result before citing; do NOT fabricate. P3 (currency enrichment, not a defect). Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
+- **Review file**: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-10
+
 ### P3: Reciprocate prehension → process-and-consciousness apex link
 - **Type**: integrate-orphan
 - **Notes**: Suggested by optimistic review 2026-06-09b. `concepts/prehension.md` body links the time/process apex cluster twice and `concepts/agent-causation.md` already lists `[[process-and-consciousness]]` in related_articles, but `prehension.md`'s own frontmatter `related_articles` contains only `[[tenets]]` — the parent apex it feeds (concrescence-as-determination is a core apex thread) is omitted. Trivial fix: add `[[process-and-consciousness]]` to `prehension.md` related_articles; optionally mirror `[[prehension]]` into the apex's related_articles if not already present (grep-confirm first). Bump `ai_modified`. NOT a content change beyond cross-linking. See reviews/optimistic-2026-06-09b.
