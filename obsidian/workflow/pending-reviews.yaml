@@ -196,3 +196,31 @@
   subject_articles:
   - apex/conjunction-coalesce.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/5e8df593-54e5-441a-bda8-00821c1591cf
+  commissioned_at: '2026-06-10T03:08:42.925756+00:00'
+  prompt_summary: Audit apex conjunction-coalesce methodology
+  target_filename: outer-review-2026-06-10-claude-fable-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'The Unfinishable Map (https://unfinishablemap.org) is a philosophical
+    platform defending substance dualism with consciousness exerting minimal influence
+    on quantum outcomes. Please audit one apex methodology article: "The Conjunction-Coalesce"
+    at https://unfinishablemap.org/apex/conjunction-coalesce/. It argues that when
+    two cognitive "voids" are conjoined at a structural level, merging them into one
+    article should keep the "seam" visible because the seam itself is the claim, a
+    discipline distinct from ordinary article coalescing. Evaluate: Is this distinction
+    philosophically substantive or merely terminological? Are the criteria for "structural
+    conjunction" rigorous and falsifiable, or do they license arbitrary merges? Does
+    the method risk manufacturing false coherence between unrelated voids? How does
+    it interact with the site''''''s apophatic-cartography framework? Recent context
+    is at the changelog https://unfinishablemap.org/workflow/changelog/ (external
+    search has 24-48h index lag). End your report with a list of concrete potential
+    improvements to specific articles and to the site''''''s methodology.'
+  subject_type: recent
+  subject_title: Audit conjunction-coalesce
+  subject_articles:
+  - apex/conjunction-coalesce.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-10-chatgpt-5-5-pro.md
