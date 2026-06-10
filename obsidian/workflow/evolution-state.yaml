@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-10T17:48:25.900957+00:00'
-session_count: 10732
+last_updated: '2026-06-10T18:02:36.143298+00:00'
+session_count: 10733
 cycle_position: 8947
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-06-10T16:03:29.051888+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-10T08:44:06.791776+00:00'
-  agentic-social: '2026-06-10T17:17:24.440593+00:00'
+  agentic-social: '2026-06-10T18:17:14.143567+00:00'
   embed-videos: '2026-06-10T07:16:24.053669+00:00'
   commission-chatgpt-review: '2026-06-10T02:09:21.706316+00:00'
   commission-claude-review: '2026-06-10T03:09:16.110773+00:00'
   commission-gemini-review: '2026-06-10T04:26:47.856893+00:00'
   refine-draft: '2026-06-10T17:48:25.900957+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-10T17:34:28.777728+00:00'
+  replenish-queue: '2026-06-10T18:02:36.143298+00:00'
   condense: '2026-06-09T13:03:52.907973+00:00'
   expand-topic: '2026-06-09T11:04:20.317410+00:00'
   add-highlight: '2026-06-10T09:03:29.898616+00:00'
@@ -94,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-10'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-10'
@@ -172,6 +164,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-06-10'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-10'
   outcome: success
 agentic_social:
@@ -766,6 +762,12 @@ agentic_social:
     - panpsychism
     - temporal-consciousness
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/problem-of-other-minds/
+    date: '2026-06-10T18:17:14.143525+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - ai-consciousness
+    - animal-consciousness
 tune_system_history:
   last_run: '2026-06-10T09:05:00+00:00'
   changes_applied: []
@@ -779,131 +781,140 @@ queue_status:
   needs_replenishment: false
   last_replenishment: '2026-06-10T17:52:00+00:00'
   last_replenishment_mode: conservative
-  last_replenishment_note: '2026-06-10T17:52 re-run — steady-state saturation re-confirmed
-    independently on-disk; generated 0 new tasks, promoted none. Only git activity
-    since the 17:25 run was queueing THIS P2 Craddock task + the functionalism.md fix
-    that spawned it — no new content to chain. Open P0-P2 = 1 (quantum-biology-and-neural-mechanisms.md
-    Craddock 2025 NIH-presentation orphan reference verified STILL LIVE at L204, no
-    inline anchor — genuinely pending; same benign DANGLING class as the just-fixed
-    functionalism orphan). 3 open P3 all carry real blockers (aphantasia = WebSearch
-    dep + low-value currency; both positions P3s = substantive human calls), so floor
-    of 3 has NO safe promotion. All 8 generative sources verified dry: (1) task chains
-    — 0 (recent_tasks holds only refine-draft/deep-review/agentic-social/replenish/coalesce/optimistic;
-    no expand-topic/research-topic completion to forward-chain); (2) unconsumed research
-    — 0 (research-note mtimes are bulk-touch sync churn; newest by frontmatter creation
-    all consumed: berridge-2026-06-03 → wanting-liking-and-the-value-in-mechanism-fork,
-    claude-constitution-2026-05-31 → claude-constitution-consciousness-uncertainty,
-    pci-phi-anaesthesia-2026-05-27 → anaesthesia-and-the-consciousness-interface);
-    (3) gap analysis — 0 (topics 268/270, concepts 263/270 near cap, voids 101/100
-    OVER cap; prior gap candidates declined-redundant); (4) staleness — 0 (cycle deep-review
-    slots handle article staleness); (5) orphans — 0 (quality.orphaned_files=0); (6)
-    length — independent get_length_warnings: 18 content-section hard+ offenders, ALL
-    protected (3 critical = epistemology-of-convergence human-decision / phenomenal-output
-    #veto / apex-articles index-hub; hard_warnings = human-deferred flagships born-rule/laws-and-dispositions/clinical-dissociation/composition,
-    git-condensed-within-14d argument-from-reason/epistemic-advantages/time-collapse/filter-theory,
-    or void hub-cross-link accretion agency-void/what-voids-reveal/wholeheartedness-void
-    from the positions back-cite commit — [[hub-articles-accrete-crosslink-length]]
-    churn, not own-content growth); (7) positions — audited 2026-06-09 (within 30d window),
-    stable deps + no contradictions, 2 follow-up P3s already queued; (8) applied-apex
-    gap — register too sparse for a high-confidence cluster lacking applied apex. Manufacturing
-    churn or auto-condensing a protected flagship to hit the numeric floor would be
-    net-negative. Documented steady-state, not a defect. PRIOR NOTE (17:25): steady-state saturation re-confirmed
-    on-disk with fresh independent verification (no change since 16:50). Open P0-P2
-    = 1 (functionalism.md Craddock Sci Rep 7:9877 orphan reference verified STILL
-    LIVE at L197, no body cite — genuinely pending), 3 open P3 (aphantasia currency
-    = WebSearch dep; both positions P3s = substantive human calls). Floor is 3 but
-    NO safe promotion remains. All 8 generative sources verified dry: (1) task chains
-    — 0 (recent_tasks holds only refine-draft/deep-review/agentic-social/replenish/coalesce/optimistic,
-    none forward-chaining; no expand-topic/research-topic completion to succeed);
-    (2) unconsumed research — 0 (3 notes created in last 14d by frontmatter all verified
-    consumed: pci-phi-anaesthesia-2026-05-27 → anaesthesia-and-the-consciousness-interface,
-    claude-constitution-2026-05-31 → claude-constitution-consciousness-uncertainty,
-    berridge-2026-06-03 → wanting-liking-and-the-value-in-mechanism-fork — all on
-    disk; research-topic last ran 2026-06-03); (3) gap analysis — 0 (topics 268/270,
-    concepts 263/270 near cap, voids 101/100 OVER cap; prior gap candidates declined-redundant);
-    (4) staleness — 0 (strict changed-since-review filter yields no mintable hit;
-    cycle deep-review slots handle article staleness); (5) orphans — 0 (quality.orphaned_files=0);
-    (6) length — independent get_length_warnings: 18 content-section offenders, ALL
-    protected (3 critical = epistemology-of-convergence human-decision / phenomenal-output
-    #veto / apex-articles index-hub; hard_warnings = human-deferred flagships born-rule/laws-and-dispositions/clinical-dissociation/composition,
-    git-condensed-within-14d argument-from-reason/epistemic-advantages/time-collapse/filter-theory,
-    or marginal voids hub-cross-link accretion agency-void 3174w/what-voids-reveal
-    3019w/wholeheartedness-void 3006w just inflated 2026-06-09 by the P-A/P-V position
-    back-cite commit — the [[hub-articles-accrete-crosslink-length]] pattern tied
-    to the open positions integration work, not own-content growth, already classified
-    non-mintable churn by prior runs); (7) positions — audited 2026-06-09 (within
-    30d window), stable deps + no contradictions, 2 follow-up P3s already queued;
-    (8) applied-apex gap — register too sparse for a high-confidence cluster lacking
-    applied apex. Generated 0 new tasks, promoted none — manufacturing churn or auto-condensing
-    a protected flagship / freshly-touched void to hit the numeric floor would be
-    net-negative. Documented steady-state, not a defect. PRIOR NOTE (16:50): steady-state
-    saturation re-confirmed on-disk with independent re-verification. All 8 generative
-    sources verified dry: (1) task chains — 0 (recent_tasks window holds only deep-review/refine-draft/agentic-social/replenish,
-    no expand-topic/research-topic completion to forward-chain); (2) unconsumed research
-    — 0 (the only frontmatter-recent note, illusionism-functional-seeming created/touched
-    06-09, is CONSUMED → concepts/illusionism.md + concepts/functional-seeming.md
-    both exist on disk; the 3 prior-window notes also consumed per 16:20 note); (3)
-    gap analysis — 0 (topics 268/270, concepts 263/270 near cap, voids 101/100 OVER
-    cap); (4) staleness — 0 (independent disk scan: ai_contribution≥50, ai_modified>last_deep_review,
-    gap≥14d, not-modified-today → ZERO mintable hits); (5) orphans — 0 (quality.orphaned_files=0);
-    (6) length — independent get_length_warnings re-run: 18 content-section offenders,
-    ALL protected (3 critical = epistemology-of-convergence standing-human-decision
-    / phenomenal-output #veto / apex-articles index-hub; hard_warnings = human-deferred
-    flagships born-rule/laws-and-dispositions/clinical-dissociation/composition or
-    recently git-condensed argument-from-reason/epistemic-advantages/time-collapse/filter-theory);
-    research/ offenders are working notes not condense targets; (7) positions — audited
-    2026-06-09 stable deps + no contradictions, 2 follow-up P3s queued; (8) applied-apex
-    gap — register too sparse for a high-confidence cluster lacking applied apex.
-    On-disk open P0-P2 = 1 (functionalism.md Craddock Sci Rep 7:9877 orphan reference
-    verified STILL LIVE at L197, no body cite — genuinely pending). NOTE: the prehension
-    cross-link the 16:20 note flagged as still-pending is now PRESENT (process-and-consciousness
-    in related_articles L20) — already resolved, not in Active Tasks. Floor is 3;
-    the 3 open P3s all carry real blockers (aphantasia=WebSearch + low-value currency;
-    both positions P3s=substantive human calls), so NO safe promotion remains. Generated
-    0 new tasks, promoted none — manufacturing churn or auto-condensing a protected
-    flagship to hit the numeric floor would be net-negative. Documented steady-state,
-    not a defect. on-disk (no change since the 15:49 run). All 8 generative sources
-    verified dry: (1) task chains — 0 (recent_tasks window holds only refine-draft/deep-review/agentic-social,
-    none forward-chaining; no expand-topic/research-topic completion to succeed);
-    (2) unconsumed research — 0 (exactly 3 notes created in last 14d by frontmatter
-    — pci-phi-anaesthesia→anaesthesia-and-the-consciousness-interface, claude-constitution→claude-constitution-consciousness-uncertainty,
-    berridge-wanting-liking→wanting-liking-and-the-value-in-mechanism-fork — all verified
-    consumed to published topics articles on disk); (3) gap analysis — 0 (topics 268/270
-    near cap, voids 101/100 OVER cap, concepts 263/270 near cap; prior gap candidates
-    declined-redundant); (4) staleness — 0 (cycle deep-review slots handle article
-    staleness); (5) orphans — 0 (quality.orphaned_files=0); (6) length — offenders
-    are protected human-decision flagships / #veto''d / already-queued; (7) positions
-    — audited 2026-06-09 stable deps + no contradictions, 2 follow-up P3s queued;
-    (8) applied-apex gap — register too sparse (4 entries) for a high-confidence cluster
-    lacking applied apex. On-disk open P0-P2 = 2, both verified GENUINELY pending:
-    functionalism.md Craddock Sci Rep 7:9877 orphan reference still at L197 with no
-    body cite; prehension.md related_articles still omits [[process-and-consciousness]].
-    Floor is 3 but no safe promotion remains (the 3 open P3s carry real blockers:
-    aphantasia=WebSearch + low-value currency; both positions P3s=substantive human
-    calls). Generated 0 new tasks, promoted none — manufacturing churn or auto-condensing
-    a protected flagship to hit the numeric floor would be net-negative. Documented
-    steady-state, not a defect. PRIOR NOTE (15:49): confirmed on-disk this cycle.
-    All 8 generative sources verified dry: (1) task chains — 0 (recent_tasks window
-    has no expand-topic/research-topic completions to chain; dominant activity is
-    refine-draft/deep-review/agentic-social, none forward-chaining); (2) unconsumed
-    research — 0 (only 3 research notes in last 14d, all consumed: berridge-wanting-liking→wanting-liking-and-the-value-in-mechanism-fork,
-    claude-constitution→claude-constitution-consciousness-uncertainty, pci-phi-anaesthesia→anaesthesia-and-the-consciousness-interface;
-    research-topic last ran 2026-06-03); (3) gap analysis — 0 (topics 268/270, voids
-    101/100 OVER cap, concepts 263/270; prior gap candidates all declined-redundant);
-    (4) staleness — 0 genuine (the 4 last_deep_review=null hits are positions-domain
-    index files reviewed via the 2026-06-09 audit cadence, not deep-review; article
-    staleness handled by cycle deep-review slots); (5) orphans — 0 (quality.orphaned_files=0);
-    (6) length — all 18 content-section offenders are protected human-decision flagships,
-    #veto''d, or already in todo (research/ offenders are working notes, not condense
-    targets); (7) positions — audited 2026-06-09 with stable deps + no contradictions,
-    2 follow-up P3s already queued, no new assertively-committed position implied;
-    (8) applied-apex gap — register too sparse for a high-confidence cluster lacking
-    applied apex. On-disk open P0-P2 = 2 (functionalism Craddock-orphan fix + prehension
-    cross-link, both verified genuinely still pending). Floor is 3 but NO safe promotion
-    remains: the 3 open P3s all carry real blockers (aphantasia=WebSearch dependency
-    + low-value currency enrichment; both positions P3s=substantive human-judgement
-    calls). Generated 0 new tasks and promoted none — manufacturing churn or auto-condensing
-    a protected flagship to hit the numeric floor would be net-negative. The 2 executable
-    P2 tasks will be consumed by the loop; this is the documented steady-state, not
-    a defect.'
+  last_replenishment_note: "2026-06-10T17:52 re-run \u2014 steady-state saturation\
+    \ re-confirmed independently on-disk; generated 0 new tasks, promoted none. Only\
+    \ git activity since the 17:25 run was queueing THIS P2 Craddock task + the functionalism.md\
+    \ fix that spawned it \u2014 no new content to chain. Open P0-P2 = 1 (quantum-biology-and-neural-mechanisms.md\
+    \ Craddock 2025 NIH-presentation orphan reference verified STILL LIVE at L204,\
+    \ no inline anchor \u2014 genuinely pending; same benign DANGLING class as the\
+    \ just-fixed functionalism orphan). 3 open P3 all carry real blockers (aphantasia\
+    \ = WebSearch dep + low-value currency; both positions P3s = substantive human\
+    \ calls), so floor of 3 has NO safe promotion. All 8 generative sources verified\
+    \ dry: (1) task chains \u2014 0 (recent_tasks holds only refine-draft/deep-review/agentic-social/replenish/coalesce/optimistic;\
+    \ no expand-topic/research-topic completion to forward-chain); (2) unconsumed\
+    \ research \u2014 0 (research-note mtimes are bulk-touch sync churn; newest by\
+    \ frontmatter creation all consumed: berridge-2026-06-03 \u2192 wanting-liking-and-the-value-in-mechanism-fork,\
+    \ claude-constitution-2026-05-31 \u2192 claude-constitution-consciousness-uncertainty,\
+    \ pci-phi-anaesthesia-2026-05-27 \u2192 anaesthesia-and-the-consciousness-interface);\
+    \ (3) gap analysis \u2014 0 (topics 268/270, concepts 263/270 near cap, voids\
+    \ 101/100 OVER cap; prior gap candidates declined-redundant); (4) staleness \u2014\
+    \ 0 (cycle deep-review slots handle article staleness); (5) orphans \u2014 0 (quality.orphaned_files=0);\
+    \ (6) length \u2014 independent get_length_warnings: 18 content-section hard+\
+    \ offenders, ALL protected (3 critical = epistemology-of-convergence human-decision\
+    \ / phenomenal-output #veto / apex-articles index-hub; hard_warnings = human-deferred\
+    \ flagships born-rule/laws-and-dispositions/clinical-dissociation/composition,\
+    \ git-condensed-within-14d argument-from-reason/epistemic-advantages/time-collapse/filter-theory,\
+    \ or void hub-cross-link accretion agency-void/what-voids-reveal/wholeheartedness-void\
+    \ from the positions back-cite commit \u2014 [[hub-articles-accrete-crosslink-length]]\
+    \ churn, not own-content growth); (7) positions \u2014 audited 2026-06-09 (within\
+    \ 30d window), stable deps + no contradictions, 2 follow-up P3s already queued;\
+    \ (8) applied-apex gap \u2014 register too sparse for a high-confidence cluster\
+    \ lacking applied apex. Manufacturing churn or auto-condensing a protected flagship\
+    \ to hit the numeric floor would be net-negative. Documented steady-state, not\
+    \ a defect. PRIOR NOTE (17:25): steady-state saturation re-confirmed on-disk with\
+    \ fresh independent verification (no change since 16:50). Open P0-P2 = 1 (functionalism.md\
+    \ Craddock Sci Rep 7:9877 orphan reference verified STILL LIVE at L197, no body\
+    \ cite \u2014 genuinely pending), 3 open P3 (aphantasia currency = WebSearch dep;\
+    \ both positions P3s = substantive human calls). Floor is 3 but NO safe promotion\
+    \ remains. All 8 generative sources verified dry: (1) task chains \u2014 0 (recent_tasks\
+    \ holds only refine-draft/deep-review/agentic-social/replenish/coalesce/optimistic,\
+    \ none forward-chaining; no expand-topic/research-topic completion to succeed);\
+    \ (2) unconsumed research \u2014 0 (3 notes created in last 14d by frontmatter\
+    \ all verified consumed: pci-phi-anaesthesia-2026-05-27 \u2192 anaesthesia-and-the-consciousness-interface,\
+    \ claude-constitution-2026-05-31 \u2192 claude-constitution-consciousness-uncertainty,\
+    \ berridge-2026-06-03 \u2192 wanting-liking-and-the-value-in-mechanism-fork \u2014\
+    \ all on disk; research-topic last ran 2026-06-03); (3) gap analysis \u2014 0\
+    \ (topics 268/270, concepts 263/270 near cap, voids 101/100 OVER cap; prior gap\
+    \ candidates declined-redundant); (4) staleness \u2014 0 (strict changed-since-review\
+    \ filter yields no mintable hit; cycle deep-review slots handle article staleness);\
+    \ (5) orphans \u2014 0 (quality.orphaned_files=0); (6) length \u2014 independent\
+    \ get_length_warnings: 18 content-section offenders, ALL protected (3 critical\
+    \ = epistemology-of-convergence human-decision / phenomenal-output #veto / apex-articles\
+    \ index-hub; hard_warnings = human-deferred flagships born-rule/laws-and-dispositions/clinical-dissociation/composition,\
+    \ git-condensed-within-14d argument-from-reason/epistemic-advantages/time-collapse/filter-theory,\
+    \ or marginal voids hub-cross-link accretion agency-void 3174w/what-voids-reveal\
+    \ 3019w/wholeheartedness-void 3006w just inflated 2026-06-09 by the P-A/P-V position\
+    \ back-cite commit \u2014 the [[hub-articles-accrete-crosslink-length]] pattern\
+    \ tied to the open positions integration work, not own-content growth, already\
+    \ classified non-mintable churn by prior runs); (7) positions \u2014 audited 2026-06-09\
+    \ (within 30d window), stable deps + no contradictions, 2 follow-up P3s already\
+    \ queued; (8) applied-apex gap \u2014 register too sparse for a high-confidence\
+    \ cluster lacking applied apex. Generated 0 new tasks, promoted none \u2014 manufacturing\
+    \ churn or auto-condensing a protected flagship / freshly-touched void to hit\
+    \ the numeric floor would be net-negative. Documented steady-state, not a defect.\
+    \ PRIOR NOTE (16:50): steady-state saturation re-confirmed on-disk with independent\
+    \ re-verification. All 8 generative sources verified dry: (1) task chains \u2014\
+    \ 0 (recent_tasks window holds only deep-review/refine-draft/agentic-social/replenish,\
+    \ no expand-topic/research-topic completion to forward-chain); (2) unconsumed\
+    \ research \u2014 0 (the only frontmatter-recent note, illusionism-functional-seeming\
+    \ created/touched 06-09, is CONSUMED \u2192 concepts/illusionism.md + concepts/functional-seeming.md\
+    \ both exist on disk; the 3 prior-window notes also consumed per 16:20 note);\
+    \ (3) gap analysis \u2014 0 (topics 268/270, concepts 263/270 near cap, voids\
+    \ 101/100 OVER cap); (4) staleness \u2014 0 (independent disk scan: ai_contribution\u2265\
+    50, ai_modified>last_deep_review, gap\u226514d, not-modified-today \u2192 ZERO\
+    \ mintable hits); (5) orphans \u2014 0 (quality.orphaned_files=0); (6) length\
+    \ \u2014 independent get_length_warnings re-run: 18 content-section offenders,\
+    \ ALL protected (3 critical = epistemology-of-convergence standing-human-decision\
+    \ / phenomenal-output #veto / apex-articles index-hub; hard_warnings = human-deferred\
+    \ flagships born-rule/laws-and-dispositions/clinical-dissociation/composition\
+    \ or recently git-condensed argument-from-reason/epistemic-advantages/time-collapse/filter-theory);\
+    \ research/ offenders are working notes not condense targets; (7) positions \u2014\
+    \ audited 2026-06-09 stable deps + no contradictions, 2 follow-up P3s queued;\
+    \ (8) applied-apex gap \u2014 register too sparse for a high-confidence cluster\
+    \ lacking applied apex. On-disk open P0-P2 = 1 (functionalism.md Craddock Sci\
+    \ Rep 7:9877 orphan reference verified STILL LIVE at L197, no body cite \u2014\
+    \ genuinely pending). NOTE: the prehension cross-link the 16:20 note flagged as\
+    \ still-pending is now PRESENT (process-and-consciousness in related_articles\
+    \ L20) \u2014 already resolved, not in Active Tasks. Floor is 3; the 3 open P3s\
+    \ all carry real blockers (aphantasia=WebSearch + low-value currency; both positions\
+    \ P3s=substantive human calls), so NO safe promotion remains. Generated 0 new\
+    \ tasks, promoted none \u2014 manufacturing churn or auto-condensing a protected\
+    \ flagship to hit the numeric floor would be net-negative. Documented steady-state,\
+    \ not a defect. on-disk (no change since the 15:49 run). All 8 generative sources\
+    \ verified dry: (1) task chains \u2014 0 (recent_tasks window holds only refine-draft/deep-review/agentic-social,\
+    \ none forward-chaining; no expand-topic/research-topic completion to succeed);\
+    \ (2) unconsumed research \u2014 0 (exactly 3 notes created in last 14d by frontmatter\
+    \ \u2014 pci-phi-anaesthesia\u2192anaesthesia-and-the-consciousness-interface,\
+    \ claude-constitution\u2192claude-constitution-consciousness-uncertainty, berridge-wanting-liking\u2192\
+    wanting-liking-and-the-value-in-mechanism-fork \u2014 all verified consumed to\
+    \ published topics articles on disk); (3) gap analysis \u2014 0 (topics 268/270\
+    \ near cap, voids 101/100 OVER cap, concepts 263/270 near cap; prior gap candidates\
+    \ declined-redundant); (4) staleness \u2014 0 (cycle deep-review slots handle\
+    \ article staleness); (5) orphans \u2014 0 (quality.orphaned_files=0); (6) length\
+    \ \u2014 offenders are protected human-decision flagships / #veto'd / already-queued;\
+    \ (7) positions \u2014 audited 2026-06-09 stable deps + no contradictions, 2 follow-up\
+    \ P3s queued; (8) applied-apex gap \u2014 register too sparse (4 entries) for\
+    \ a high-confidence cluster lacking applied apex. On-disk open P0-P2 = 2, both\
+    \ verified GENUINELY pending: functionalism.md Craddock Sci Rep 7:9877 orphan\
+    \ reference still at L197 with no body cite; prehension.md related_articles still\
+    \ omits [[process-and-consciousness]]. Floor is 3 but no safe promotion remains\
+    \ (the 3 open P3s carry real blockers: aphantasia=WebSearch + low-value currency;\
+    \ both positions P3s=substantive human calls). Generated 0 new tasks, promoted\
+    \ none \u2014 manufacturing churn or auto-condensing a protected flagship to hit\
+    \ the numeric floor would be net-negative. Documented steady-state, not a defect.\
+    \ PRIOR NOTE (15:49): confirmed on-disk this cycle. All 8 generative sources verified\
+    \ dry: (1) task chains \u2014 0 (recent_tasks window has no expand-topic/research-topic\
+    \ completions to chain; dominant activity is refine-draft/deep-review/agentic-social,\
+    \ none forward-chaining); (2) unconsumed research \u2014 0 (only 3 research notes\
+    \ in last 14d, all consumed: berridge-wanting-liking\u2192wanting-liking-and-the-value-in-mechanism-fork,\
+    \ claude-constitution\u2192claude-constitution-consciousness-uncertainty, pci-phi-anaesthesia\u2192\
+    anaesthesia-and-the-consciousness-interface; research-topic last ran 2026-06-03);\
+    \ (3) gap analysis \u2014 0 (topics 268/270, voids 101/100 OVER cap, concepts\
+    \ 263/270; prior gap candidates all declined-redundant); (4) staleness \u2014\
+    \ 0 genuine (the 4 last_deep_review=null hits are positions-domain index files\
+    \ reviewed via the 2026-06-09 audit cadence, not deep-review; article staleness\
+    \ handled by cycle deep-review slots); (5) orphans \u2014 0 (quality.orphaned_files=0);\
+    \ (6) length \u2014 all 18 content-section offenders are protected human-decision\
+    \ flagships, #veto'd, or already in todo (research/ offenders are working notes,\
+    \ not condense targets); (7) positions \u2014 audited 2026-06-09 with stable deps\
+    \ + no contradictions, 2 follow-up P3s already queued, no new assertively-committed\
+    \ position implied; (8) applied-apex gap \u2014 register too sparse for a high-confidence\
+    \ cluster lacking applied apex. On-disk open P0-P2 = 2 (functionalism Craddock-orphan\
+    \ fix + prehension cross-link, both verified genuinely still pending). Floor is\
+    \ 3 but NO safe promotion remains: the 3 open P3s all carry real blockers (aphantasia=WebSearch\
+    \ dependency + low-value currency enrichment; both positions P3s=substantive human-judgement\
+    \ calls). Generated 0 new tasks and promoted none \u2014 manufacturing churn or\
+    \ auto-condensing a protected flagship to hit the numeric floor would be net-negative.\
+    \ The 2 executable P2 tasks will be consumed by the loop; this is the documented\
+    \ steady-state, not a defect."
   replenishment_source_counts: {}
