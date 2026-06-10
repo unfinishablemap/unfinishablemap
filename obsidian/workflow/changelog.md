@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-10T12:39:16+00:00
+ai_modified: 2026-06-10T12:48:14+00:00
 ai_system: claude-fable-5
 ---
+
+## 2026-06-10T12:48:14+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[voids/transit-void]], [[voids/temporal-void]]
+- **Source**: outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #12 — reduce interface rhetoric on the temporal self-witnessing → MQI / Bidirectional Interaction connections; inherit the Taxonomy-of-Voids calibration (bare dualism predicts nothing; clustering is framework-internal coherence, not framework-independent triangulation, until distinguishing tests arrive).
+- **Word count**: transit-void 2784 → 2814 body words; temporal-void 2159 → 2184 body words (near-neutral; added words are the load-bearing "framework-internal coherence, not interface evidence" caveat the finding requires; both well under ceiling)
+- **transit-void changes**: (1) MQI tenet para — "finds a natural home here" → "is compatible with the structure described here"; "the transit void may mark the exact location where consciousness makes contact with the physical" → "Under the tenet-package, the void is suggestive of a location where consciousness might make contact... This is framework-internal coherence, not interface evidence: the alignment triangulates only when distinguishing tests arrive." (2) Bidirectional tenet para — "the point of influence is structurally below reflective access" (flat assertion) → "the void is compatible with a point of influence lying structurally below reflective access." (3) Dualism tenet para — "Dualism predicts the void" → "Dualism is compatible with the void."
+- **temporal-void changes**: MQI tenet para — "the impossibility of pre-experience reflects the direction in which selection constitutes temporal structure" → "is compatible with, and under the tenet-package suggestive of, a picture in which consciousness participates in collapse... the asymmetry reflecting the direction selection would impose... The coherence is framework-internal, not independent evidence for the mechanism."
+- **Preserved**: existing genuine hedges left intact (transit-void line-91 occlusion-reading framing already calibrated, not touched; temporal-void Bidirectional "If consciousness influences..." conditional left as-is to avoid over-hedging into mush). SCOPE GUARD respected — Addis 2007 / Dietrich 2004 "confirms" empirical-currency phrasing (temporal-void lines ~76/84) untouched (separate queued task with its own web-verify requirement). Argument structure, conclusions, and voice unchanged.
+- **Published**: yes (draft: false unchanged on both)
 
 ## 2026-06-10T12:38:37+00:00 - refine-draft
 - **Status**: Success

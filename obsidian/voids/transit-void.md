@@ -4,7 +4,7 @@ description: "Consciousness cannot witness its own crossings—neither the onset
 created: 2026-03-05
 modified: 2026-04-27
 human_modified: null
-ai_modified: 2026-06-02T14:31:20+00:00
+ai_modified: 2026-06-10T12:48:14+00:00
 last_deep_review: 2026-06-02T14:31:20+00:00
 draft: false
 topics:
@@ -130,11 +130,11 @@ AI systems can log internal state changes at arbitrary granularity. If AI report
 
 The transit void connects directly to the Map's [[tenets]].
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** receives its most pointed illustration. If consciousness exerts causal influence on physical events, the point of influence is structurally below reflective access. Observing the interface while using it would generate an infinite regress: consciousness trying to watch itself begin to act. We choose the destination but cannot watch the journey.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** receives its most pointed illustration. If consciousness exerts causal influence on physical events, the void is compatible with a point of influence lying structurally below reflective access. Observing the interface while using it would generate an infinite regress: consciousness trying to watch itself begin to act. We choose the destination but cannot watch the journey.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** finds a natural home here. Schurger's stochastic threshold is precisely the indeterminate zone where a minimal non-physical influence could operate: if action-initiation is a noisy accumulator hovering near threshold, an extremely small nudge could determine which fluctuation crosses first — without violating conservation laws or producing any detectable signature. The transit void may mark the exact location where consciousness makes contact with the physical, opaque because the contact point must be.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** is compatible with the structure described here. Schurger's stochastic threshold is the kind of indeterminate zone where a minimal non-physical influence could operate: if action-initiation is a noisy accumulator hovering near threshold, an extremely small nudge could determine which fluctuation crosses first — without violating conservation laws or producing any detectable signature. Under the tenet-package, the void is suggestive of a location where consciousness might make contact with the physical, opaque because the contact point would have to be. This is framework-internal coherence, not interface evidence: the alignment triangulates only when distinguishing tests arrive.
 
-**[[tenets#^dualism|Dualism]]** predicts the void. If consciousness is non-physical, its state transitions may follow non-physical dynamics inherently inaccessible from within. A physical system's transitions are in principle observable from any vantage point; a non-physical consciousness may lack this transparency precisely because it is not an object among objects.
+**[[tenets#^dualism|Dualism]]** is compatible with the void. If consciousness is non-physical, its state transitions may follow non-physical dynamics inherently inaccessible from within. A physical system's transitions are in principle observable from any vantage point; a non-physical consciousness may lack this transparency precisely because it is not an object among objects.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** makes each crossing a genuine fork point. In a single-history universe, every state transition is a moment where consciousness commits to one path among alternatives — and the commitment points are invisible.
 
