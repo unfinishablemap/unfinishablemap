@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-10T06:17:27+00:00
+ai_modified: 2026-06-10T07:03:30+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-10T07:03:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/conjunction-coalesce]]
+- **Original score**: N/A (structural ledger fix; outer-review finding #3 used as the review input)
+- **Source**: Outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #3. Review file: [[reviews/outer-review-2026-06-10-chatgpt-5-5-pro]]
+- **Changes**:
+  - Resolved the Source Articles (14 entries) vs References (5 entries) ledger mismatch via the merge/redefine option (preferred for length): "## Source Articles" is now explicitly defined as the article's formal source ledger and the separate "## References" section is removed
+  - Each of the 14 ledger entries now carries its canonical unfinishablemap.org URL; dates folded in from the deleted References entries (agency 2026-04-27 = body-stated coalesce date; erasure/transit/taxonomy match source `created` fields; voids-between-minds 2026-04-19 preserved as pre-existing metadata) — no dates or authors fabricated; thrownness, temporal, apophatic-cartography, mechanism-costs-cartography left undated (no existing metadata)
+  - Body 4991 → 4957 words (−34), now safely under the 5000 hard ceiling; validate.py passes after sync
+  - Calibration and Husserl work from the two earlier passes today (ea5e61cd, 0dc0863f) untouched
+  - `ai_modified` bumped
+- **Published**: yes
 
 ## 2026-06-10T06:48:08+00:00 - refine-draft
 - **Status**: Success

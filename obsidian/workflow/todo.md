@@ -37,12 +37,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Complete the formal References ledger in apex/conjunction-coalesce.md
+### P2: Adopt neural-correlates-of-consciousness calibration in consciousness-in-simple-organisms
 - **Type**: refine-draft
-- **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #3 — VERIFIED on disk. The "## Source Articles" block lists 14 entries but "## References" has only 5 (Agency, Voids Between Minds, Erasure, Transit, Taxonomy). Load-bearing internal sources absent from the formal ledger: Suspension, Imagery, Vagueness, Wholeheartedness, Thrownness, Temporal, Cardinality Floor, Apophatic Cartography, Mechanism-Costs Cartography. Resolve EITHER by adding every load-bearing source-article to the numbered References list, OR by explicitly redefining "Source Articles" as the auditable source ledger and folding "References" into it (the latter is lower-length-risk — the article is near its soft length threshold, so prefer a merge/redefine over duplicating 9 full citations). Reuse existing citation metadata from the Source Articles wikilinks; do not fabricate dates/authors. Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
-- **Review file**: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`
-- **Source**: outer-review
+- **Status**: pending
+- **File**: obsidian/topics/consciousness-in-simple-organisms.md
+- **Notes**: From topic-concept anchoring audit 2026-06-10. The topic article over-claims relative to its anchor concept [[neural-correlates-of-consciousness]]; failed checks: strong_assertions, underdetermination_markers.
+  - topic uses 2 strong-assertion verbs (0.50/kw) where anchor uses none; absolute allowance is 0.5/kw
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-10
+
+### P2: Adopt mental-causation-and-downward-causation calibration in empirical-phenomena-mental-causation
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/empirical-phenomena-mental-causation.md
+- **Notes**: From topic-concept anchoring audit 2026-06-10. The topic article over-claims relative to its anchor concept [[mental-causation-and-downward-causation]]; failed checks: strong_assertions, underdetermination_markers.
+  - topic uses 2 strong-assertion verbs (0.56/kw) where anchor uses none; absolute allowance is 0.5/kw
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-10
+
 
 ### P2: Clarify thrownness-void relation to the retention/protention temporal cluster
 - **Type**: refine-draft
@@ -1054,6 +1070,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-10: Complete the formal References ledger in apex/conjunction-coalesce.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #3 — VERIFIED on disk. The "## Source Articles" block lists 14 entries but "## References" has only 5 (Agency, Voids Between Minds, Erasure, Transit, Taxonomy). Load-bearing internal sources absent from the formal ledger: Suspension, Imagery, Vagueness, Wholeheartedness, Thrownness, Temporal, Cardinality Floor, Apophatic Cartography, Mechanism-Costs Cartography. Resolve EITHER by adding every load-bearing source-article to the numbered References list, OR by explicitly redefining "Source Articles" as the auditable source ledger and folding "References" into it (the latter is lower-length-risk — the article is near its soft length threshold, so prefer a merge/redefine over duplicating 9 full citations). Reuse existing citation metadata from the Source Articles wikilinks; do not fabricate dates/authors. Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
 
 ### ✓ 2026-06-10: Correct Velleman disownability citation locus in voids/wholeheartedness-void.md
 - **Type**: refine-draft

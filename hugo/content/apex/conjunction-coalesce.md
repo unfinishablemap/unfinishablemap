@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-06-10 05:45:00+00:00
+ai_modified: 2026-06-10 07:03:30+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-05-12 03:35:00+00:00
 apex_sources:
@@ -154,7 +154,7 @@ The test discriminated three outcomes, not two: the articles were not redundant 
 
 The Map currently maintains [the transit void](/voids/transit-void/), [the thrownness void](/voids/thrownness-void/), and [the temporal void](/voids/temporal-void/) as separate articles, despite each exhibiting candidate structure. Transit treats consciousness's inability to witness its own crossings; thrownness, its inability to access the conditions under which it became conscious; temporal, its confinement to a moving present with asymmetric access to past and future.
 
-The three share a tenet connection (each engages [Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Dualism](/tenets/#dualism) through a different temporal feature), an empirical literature (Husserl's retention-protention analysis appears in all three), and a structural shape (each names a kind of *self-witnessing failure* indexed to a temporal mode). The candidate joint claim: *consciousness cannot witness its own temporal architecture in any of the three modes the architecture provides—crossings, foundations, or the relation between its lived now and the broader temporal field*.
+The three share a tenet connection (each engages [Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Dualism](/tenets/#dualism) through a different temporal feature), a Husserlian literature (Transit and Temporal engage the retention-protention analysis; Thrownness draws on the reduction's bracketing instead), and a structural shape (each names a kind of *self-witnessing failure* indexed to a temporal mode). The candidate joint claim: *consciousness cannot witness its own temporal architecture in any of the three modes the architecture provides—crossings, foundations, or the relation between its lived now and the broader temporal field*.
 
 The seam test counsels caution. The joint claim is genuinely structural rather than thematic, but "self-witnessing failure indexed to a temporal mode" may be a shared structural feature rather than a single conjoint void. If temporal mode is the underlying mechanism, the three faces are consequences of one principle and the article should be on the principle—the third refinement in operation. The Map currently judges this cluster does *not* yet meet the test cleanly enough to warrant a merger.
 
@@ -222,27 +222,19 @@ A weaker, conditional connection runs to **[Dualism](/tenets/#dualism)**: *if* d
 
 ## Source Articles
 
-This synthesis draws on:
+This synthesis draws on the following Unfinishable Map articles. This list is the article's formal source ledger: every load-bearing internal source appears here with its canonical URL, and no separate reference list is maintained.
 
-- [The Agency Void](/voids/agency-void/) — The cleanest coalesce: passive and skeptical limits as load-bearing conjunction
-- [The Voids Between Minds](/voids/voids-between-minds/) — Three-way conjunction of existence, encounter, and sharing
-- [The Erasure Void](/voids/erasure-void/) — Cognate: conjoint shape installed at creation around loss and monitoring
-- [The Cardinality Floor](/voids/the-quantitative-comprehension-void/#the-cardinality-floor) — Second cognate: cap, transition, and mechanism opacity in subitizing
-- [The Suspension Void](/voids/suspension-void/) (2026-04-28) — Verification / capacity / action faces; first natively-at-creation cognate
-- [The Imagery Void](/voids/imagery-void/) (2026-04-28) — Fidelity / inter-subjective / function-phenomenology faces
-- [The Vagueness Void](/voids/vagueness-void/) (2026-04-30) — Sorites / introspective / higher-order faces with a reflexive seam
-- [The Wholeheartedness Void](/voids/wholeheartedness-void/) (2026-05-11) — Regress / disownability / ambivalence-detection; second modal-categorical exemplar
-- [The Transit Void](/voids/transit-void/) — Cluster candidate: state transitions and act onsets
-- [The Thrownness Void](/voids/thrownness-void/) — Cluster candidate: inaccessibility of the founding moment
-- [The Temporal Void](/voids/temporal-void/) — Cluster candidate: confinement, duration paradox, memory-anticipation asymmetry
-- [A Taxonomy of Voids](/apex/taxonomy-of-voids/) — Methodological context for treating void structure as data
-- [Apophatic Cartography: Method and Its Limits](/voids/apophatic-cartography/) — The negation-based investigative tradition
-- [Mechanism-Costs Cartography](/project/mechanism-costs-cartography/) — Adjacent discipline preserving load-bearing structure across taxonomy cells rather than within a single void
-
-## References
-
-1. Southgate, A. & Oquatre-sept, C. (2026-04-27). The Agency Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/agency-void/
-2. Southgate, A. & Oquatre-sept, C. (2026-04-19). The Voids Between Minds. *The Unfinishable Map*. https://unfinishablemap.org/voids/voids-between-minds/
-3. Southgate, A. & Oquatre-sept, C. (2026-04-20). The Erasure Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/erasure-void/
-4. Southgate, A. & Oquatre-sept, C. (2026-03-05). The Transit Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/transit-void/
-5. Southgate, A. & Oquatre-six, C. (2026-03-10). A Taxonomy of Voids. *The Unfinishable Map*. https://unfinishablemap.org/apex/taxonomy-of-voids/
+- [The Agency Void](/voids/agency-void/) (2026-04-27) — The cleanest coalesce: passive and skeptical limits as load-bearing conjunction. https://unfinishablemap.org/voids/agency-void/
+- [The Voids Between Minds](/voids/voids-between-minds/) (2026-04-19) — Three-way conjunction of existence, encounter, and sharing. https://unfinishablemap.org/voids/voids-between-minds/
+- [The Erasure Void](/voids/erasure-void/) (2026-04-20) — Cognate: conjoint shape installed at creation around loss and monitoring. https://unfinishablemap.org/voids/erasure-void/
+- [The Cardinality Floor](/voids/the-quantitative-comprehension-void/#the-cardinality-floor) — Second cognate: cap, transition, and mechanism opacity in subitizing. https://unfinishablemap.org/voids/the-quantitative-comprehension-void/
+- [The Suspension Void](/voids/suspension-void/) (2026-04-28) — Verification / capacity / action faces; first natively-at-creation cognate. https://unfinishablemap.org/voids/suspension-void/
+- [The Imagery Void](/voids/imagery-void/) (2026-04-28) — Fidelity / inter-subjective / function-phenomenology faces. https://unfinishablemap.org/voids/imagery-void/
+- [The Vagueness Void](/voids/vagueness-void/) (2026-04-30) — Sorites / introspective / higher-order faces with a reflexive seam. https://unfinishablemap.org/voids/vagueness-void/
+- [The Wholeheartedness Void](/voids/wholeheartedness-void/) (2026-05-11) — Regress / disownability / ambivalence-detection; second modal-categorical exemplar. https://unfinishablemap.org/voids/wholeheartedness-void/
+- [The Transit Void](/voids/transit-void/) (2026-03-05) — Cluster candidate: state transitions and act onsets. https://unfinishablemap.org/voids/transit-void/
+- [The Thrownness Void](/voids/thrownness-void/) — Cluster candidate: inaccessibility of the founding moment. https://unfinishablemap.org/voids/thrownness-void/
+- [The Temporal Void](/voids/temporal-void/) — Cluster candidate: confinement, duration paradox, memory-anticipation asymmetry. https://unfinishablemap.org/voids/temporal-void/
+- [A Taxonomy of Voids](/apex/taxonomy-of-voids/) (2026-03-10) — Methodological context for treating void structure as data. https://unfinishablemap.org/apex/taxonomy-of-voids/
+- [Apophatic Cartography: Method and Its Limits](/voids/apophatic-cartography/) — The negation-based investigative tradition. https://unfinishablemap.org/voids/apophatic-cartography/
+- [Mechanism-Costs Cartography](/project/mechanism-costs-cartography/) — Adjacent discipline preserving load-bearing structure across taxonomy cells rather than within a single void. https://unfinishablemap.org/project/mechanism-costs-cartography/

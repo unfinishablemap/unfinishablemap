@@ -4,7 +4,7 @@ description: "When two voids are conjoined at a structural level, merging them i
 created: 2026-04-27
 modified: 2026-05-12
 human_modified: null
-ai_modified: 2026-06-10T06:17:27+00:00
+ai_modified: 2026-06-10T07:03:30+00:00
 last_deep_review: 2026-06-03T01:58:00+00:00
 draft: false
 topics: []
@@ -212,28 +212,20 @@ A weaker, conditional connection runs to **[[tenets#^dualism|Dualism]]**: *if* d
 
 ## Source Articles
 
-This synthesis draws on:
+This synthesis draws on the following Unfinishable Map articles. This list is the article's formal source ledger: every load-bearing internal source appears here with its canonical URL, and no separate reference list is maintained.
 
-- [[agency-void|The Agency Void]] — The cleanest coalesce: passive and skeptical limits as load-bearing conjunction
-- [[voids-between-minds|The Voids Between Minds]] — Three-way conjunction of existence, encounter, and sharing
-- [[erasure-void|The Erasure Void]] — Cognate: conjoint shape installed at creation around loss and monitoring
-- [[the-quantitative-comprehension-void#the-cardinality-floor|The Cardinality Floor]] — Second cognate: cap, transition, and mechanism opacity in subitizing
-- [[suspension-void|The Suspension Void]] (2026-04-28) — Verification / capacity / action faces; first natively-at-creation cognate
-- [[imagery-void|The Imagery Void]] (2026-04-28) — Fidelity / inter-subjective / function-phenomenology faces
-- [[vagueness-void|The Vagueness Void]] (2026-04-30) — Sorites / introspective / higher-order faces with a reflexive seam
-- [[wholeheartedness-void|The Wholeheartedness Void]] (2026-05-11) — Regress / disownability / ambivalence-detection; second modal-categorical exemplar
-- [[transit-void|The Transit Void]] — Cluster candidate: state transitions and act onsets
-- [[thrownness-void|The Thrownness Void]] — Cluster candidate: inaccessibility of the founding moment
-- [[temporal-void|The Temporal Void]] — Cluster candidate: confinement, duration paradox, memory-anticipation asymmetry
-- [[taxonomy-of-voids|A Taxonomy of Voids]] — Methodological context for treating void structure as data
-- [[apophatic-cartography|Apophatic Cartography: Method and Its Limits]] — The negation-based investigative tradition
-- [[mechanism-costs-cartography|Mechanism-Costs Cartography]] — Adjacent discipline preserving load-bearing structure across taxonomy cells rather than within a single void
-
-## References
-
-1. Southgate, A. & Oquatre-sept, C. (2026-04-27). The Agency Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/agency-void/
-2. Southgate, A. & Oquatre-sept, C. (2026-04-19). The Voids Between Minds. *The Unfinishable Map*. https://unfinishablemap.org/voids/voids-between-minds/
-3. Southgate, A. & Oquatre-sept, C. (2026-04-20). The Erasure Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/erasure-void/
-4. Southgate, A. & Oquatre-sept, C. (2026-03-05). The Transit Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/transit-void/
-5. Southgate, A. & Oquatre-six, C. (2026-03-10). A Taxonomy of Voids. *The Unfinishable Map*. https://unfinishablemap.org/apex/taxonomy-of-voids/
+- [[agency-void|The Agency Void]] (2026-04-27) — The cleanest coalesce: passive and skeptical limits as load-bearing conjunction. https://unfinishablemap.org/voids/agency-void/
+- [[voids-between-minds|The Voids Between Minds]] (2026-04-19) — Three-way conjunction of existence, encounter, and sharing. https://unfinishablemap.org/voids/voids-between-minds/
+- [[erasure-void|The Erasure Void]] (2026-04-20) — Cognate: conjoint shape installed at creation around loss and monitoring. https://unfinishablemap.org/voids/erasure-void/
+- [[the-quantitative-comprehension-void#the-cardinality-floor|The Cardinality Floor]] — Second cognate: cap, transition, and mechanism opacity in subitizing. https://unfinishablemap.org/voids/the-quantitative-comprehension-void/
+- [[suspension-void|The Suspension Void]] (2026-04-28) — Verification / capacity / action faces; first natively-at-creation cognate. https://unfinishablemap.org/voids/suspension-void/
+- [[imagery-void|The Imagery Void]] (2026-04-28) — Fidelity / inter-subjective / function-phenomenology faces. https://unfinishablemap.org/voids/imagery-void/
+- [[vagueness-void|The Vagueness Void]] (2026-04-30) — Sorites / introspective / higher-order faces with a reflexive seam. https://unfinishablemap.org/voids/vagueness-void/
+- [[wholeheartedness-void|The Wholeheartedness Void]] (2026-05-11) — Regress / disownability / ambivalence-detection; second modal-categorical exemplar. https://unfinishablemap.org/voids/wholeheartedness-void/
+- [[transit-void|The Transit Void]] (2026-03-05) — Cluster candidate: state transitions and act onsets. https://unfinishablemap.org/voids/transit-void/
+- [[thrownness-void|The Thrownness Void]] — Cluster candidate: inaccessibility of the founding moment. https://unfinishablemap.org/voids/thrownness-void/
+- [[temporal-void|The Temporal Void]] — Cluster candidate: confinement, duration paradox, memory-anticipation asymmetry. https://unfinishablemap.org/voids/temporal-void/
+- [[taxonomy-of-voids|A Taxonomy of Voids]] (2026-03-10) — Methodological context for treating void structure as data. https://unfinishablemap.org/apex/taxonomy-of-voids/
+- [[apophatic-cartography|Apophatic Cartography: Method and Its Limits]] — The negation-based investigative tradition. https://unfinishablemap.org/voids/apophatic-cartography/
+- [[mechanism-costs-cartography|Mechanism-Costs Cartography]] — Adjacent discipline preserving load-bearing structure across taxonomy cells rather than within a single void. https://unfinishablemap.org/project/mechanism-costs-cartography/
 

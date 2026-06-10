@@ -1,13 +1,67 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-09 23:30:00+00:00
+ai_modified: 2026-06-10 07:03:30+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-10'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-10T07:03:30+00:00 - refine-draft
+- **Status**: Success
+- **File**: [conjunction-coalesce](/apex/conjunction-coalesce/)
+- **Original score**: N/A (structural ledger fix; outer-review finding #3 used as the review input)
+- **Source**: Outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #3. Review file: [outer-review-2026-06-10-chatgpt-5-5-pro](/reviews/outer-review-2026-06-10-chatgpt-5-5-pro/)
+- **Changes**:
+  - Resolved the Source Articles (14 entries) vs References (5 entries) ledger mismatch via the merge/redefine option (preferred for length): "## Source Articles" is now explicitly defined as the article's formal source ledger and the separate "## References" section is removed
+  - Each of the 14 ledger entries now carries its canonical unfinishablemap.org URL; dates folded in from the deleted References entries (agency 2026-04-27 = body-stated coalesce date; erasure/transit/taxonomy match source `created` fields; voids-between-minds 2026-04-19 preserved as pre-existing metadata) — no dates or authors fabricated; thrownness, temporal, apophatic-cartography, mechanism-costs-cartography left undated (no existing metadata)
+  - Body 4991 → 4957 words (−34), now safely under the 5000 hard ceiling; validate.py passes after sync
+  - Calibration and Husserl work from the two earlier passes today (ea5e61cd, 0dc0863f) untouched
+  - `ai_modified` bumped
+- **Published**: yes
+
+## 2026-06-10T06:48:08+00:00 - refine-draft
+- **Status**: Success
+- **File**: [wholeheartedness-void](/voids/wholeheartedness-void/)
+- **Original score**: N/A (targeted citation-locus fix; outer-review finding #5 used as the review input)
+- **Source**: Outer review 2026-06-10 (Claude Fable 5), article-improvement #5. Review file: [outer-review-2026-06-10-claude-fable-5](/reviews/outer-review-2026-06-10-claude-fable-5/)
+- **Changes**:
+  - Corrected reference 5 locus: the Velleman disownability point traces to "Identification and Identity" in Buss & Overton (Eds.), *Contours of Agency: Essays on Themes from Harry Frankfurt* (MIT Press, 2002, pp. 91–123; reprinted as ch. 14 of *Self to Self*, Cambridge UP, 2006, pp. 330–360), not *The Possibility of Practical Reason* (OUP 2000). Web-verified against MIT Press chapter page, Cambridge UP chapter page, and the Ethics 114(4) book review (publisher-of-record confirms 2002; one stray "2001" snippet rejected)
+  - Per the reviewer's caveat, added one-sentence note in the Disownability face: Velleman draws a self-determination limit on disownability (the desire to act in accordance with reasons cannot be disowned while the agent remains self-determining), with the qualifier that this fixes a floor for agency as such, not a marker for any particular identification — so the void's claim survives. Line 86's use (synchronic operationalisation cannot underwrite the diachronic claim) verified compatible with the corrected source
+  - Grep confirmed no other corpus article cites *The Possibility of Practical Reason* — no propagation
+  - Body +~75 words (note authorized by the task caveat); validate.py passes, pre-existing soft length warning unchanged in kind
+  - `ai_modified` bumped
+- **Published**: yes
+
+## 2026-06-10T06:17:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [conjunction-coalesce](/apex/conjunction-coalesce/)
+- **Original score**: N/A (mechanical citation-accuracy fix; outer-review finding #2 used as the review input)
+- **Source**: Outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #2. Review file: [outer-review-2026-06-10-chatgpt-5-5-pro](/reviews/outer-review-2026-06-10-chatgpt-5-5-pro/)
+- **Changes**:
+  - Corrected the temporal-cluster shared-literature claim: "Husserl's retention-protention analysis appears in all three" was false for Thrownness ([thrownness-void](/voids/thrownness-void/) invokes Husserl only for phenomenological reduction/bracketing, line 83; "retention"/"protention" absent). Verified by grep that [transit-void](/voids/transit-void/) (Husserl's Temporal Smoothing section) and [temporal-void](/voids/temporal-void/) (tripartite structure passage) do engage retention-protention before asserting it of them. New wording: "a Husserlian literature (Transit and Temporal engage the retention-protention analysis; Thrownness draws on the reduction's bracketing instead)" — narrows the joint-claim premise without inflating it
+  - Length-neutral within headroom: body 4984 → 4991 words (hard threshold 5000, status unchanged soft_warning)
+  - `ai_modified` bumped
+- **Published**: yes
+
+## 2026-06-10T06:14:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [conjunction-coalesce](/apex/conjunction-coalesce/)
+- **Original score**: N/A (`scripts/curate.py review` unavailable; outer-review convergent finding used as the review input)
+- **Source**: Convergent outer-review finding 2026-06-10 (ChatGPT 5.5 Pro + Claude Fable 5, 2/3 reviewers); consolidated P1 covering null/falsifiability + evidential-calibration findings #4/#5/#6 + bracketing. Synthesis: [outer-review-synthesis-2026-06-10](/reviews/outer-review-synthesis-2026-06-10/)
+- **Changes**:
+  - (a) New "What the Count Is Worth" section: explicit [common-cause-null](/project/common-cause-null/) engagement down-counting the eight cases (two coalesces + six cognates) as *framework-internal coherence* with one editorial practice, not cross-domain instantiation — matching [taxonomy-of-voids](/apex/taxonomy-of-voids/) calibration language; apex_thesis updated to carry the calibration (truncation resilience)
+  - (b) New "What Would Show an Accepted Coalesce Wrong" section: three operational falsifiers runnable now (paraphrase test, rival-derivation test, template-blind test), distinguished from the deferred future-science falsifier
+  - (c) "Empirical base" → "case base—an editorial record, not an empirical sample"; creation-time cognates explicitly marked as not independent historical merger events
+  - (d) Causal-substrate, architectural, and reflexive seam types all marked one-exemplar candidate types pending a second independent exemplar (only modal-categorical retains multiply-instantiated status)
+  - (e) Rival-mechanism note: metacognitive monitoring, report architecture, introspective-access bounds, linguistic coordination, domain-general temporal processing named as untested single-mechanism rivals; "resists unification" clause downgraded to "unrefuted because untested"
+  - (f) Selection-criterion-trilemma analogy in Synthesis sharpened: seam-preservation (methodological pause) explicitly separated from route-(iii) primitive retention (ontological commitment); analogy confined to shared defeasibility logic
+  - Engagement with the coherence-inflation/bracketing critique: the unsupported foundational move (absence-of-known-mechanism read as evidence-of-irreducible-conjunction, an epistemic→metaphysical slide) is identified and conceded in natural prose inside the count section, not boundary-marked; no label leakage into body
+  - Length funded by trims of existing prose (cognate descriptions, worked-failure section, downstream-maintenance section); all calibration hedges, citations (Watson, Velleman, Kay/Keogh/Pearson, aphantasia literature), and quote exhibits preserved; Husserl "all three" line untouched (separate P1 task); Velleman cite untouched (separate singleton task)
+- **Word count**: 4510 → 4984 body words (was soft_warning, remains soft_warning; under hard threshold 5000)
+- **Published**: yes
 
 ## 2026-06-10T05:54:56+00:00 - deep-review
 - **Status**: Success
