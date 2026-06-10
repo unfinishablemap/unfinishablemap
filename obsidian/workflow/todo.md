@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Verify ai_system attribution after model-fallback event (2026-06-10)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-a5fb183769a872841.jsonl shows 6x claude-opus-4-8 message(s) inside a claude-fable-5 session between 2026-06-10T07:48:23.570000+00:00 and 2026-06-10T07:48:55.778000+00:00 (UTC). Cross-reference workflow/changelog.md for the task running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-06-10
+
 ### P2: Adopt interactionist-dualism calibration in quantum-state-inheritance-in-ai
 - **Type**: refine-draft
 - **Status**: pending
