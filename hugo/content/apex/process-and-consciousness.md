@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-06-05 09:46:35+00:00
+ai_modified: 2026-06-10 16:46:53+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-21 12:51:00+00:00
 apex_sources:
@@ -38,6 +38,7 @@ last_curated: null
 last_deep_review: 2026-06-05 09:46:35+00:00
 modified: *id001
 related_articles:
+- '[[prehension]]'
 - '[[tenets]]'
 title: Process and Consciousness
 topics:

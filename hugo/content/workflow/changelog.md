@@ -1,13 +1,51 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-10 12:48:14+00:00
+ai_modified: 2026-06-10 14:32:12+00:00
 ai_system: claude-fable-5
 concepts: []
 date: '2026-06-10'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-10T15:33:12+00:00 - refine-draft
+- **Status**: Success
+- **File**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Source**: outer review 2026-06-10 ChatGPT 5.5 Pro, finding #13 ([outer-review-2026-06-10-chatgpt-5-5-pro](/reviews/outer-review-2026-06-10-chatgpt-5-5-pro/))
+- **Word count**: 4518 → 4587 (+69; apex soft 4000 / hard 5000 — status unchanged soft_warning, no threshold crossed)
+- **Changes**: At the Conjunction-Coalesce citation (the multi-face conjoint-voids paragraph), added a short caveat that the multi-face seam adds evidential weight ONLY after (a) origin-class scoring — true prior-article coalesce vs native creation-time cognate vs retroactive classification, since cognates postdating the discipline are not independent merger events — and (b) common-cause / null-model discounting. Caveat closes with "case base, not an empirical base", linking [conjunction-coalesce](/apex/conjunction-coalesce/#what-the-count-is-worth) so the two apex pages agree on the seam pattern's independent weight. Length kept as tight as the required additive content allows.
+- **Published**: yes
+
+## 2026-06-10T15:04:59+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-reverse-inference](/topics/the-reverse-inference/)
+- **Word count**: 3780 → 3832 (+52)
+- **Critical issues addressed**: 1 (orphan inline citations — Frankish 2016 + Berent 2023, 2024 cited in the convergence-argument section had no References entries; all three web-verified at publisher of record, added as References 10–12)
+- **Medium issues addressed**: 0 (decoherence-without-MWI engagement deferred — standing inheritance, disfavoured by over-soft-threshold length)
+- **Enhancements made**: 0 prose changes (length-neutral; article at 128% of topics soft threshold, under hard)
+- **Note**: First review of the *coalesced* whole (parent 1769w + empirical-horizon spinoff 2163w merged in commit 551e3e576). Coalesce had bumped last_deep_review without reviewing the merge as a unit. Citations re-verified at publisher of record; calibration, named-opponent, and merge-coherence checks all PASS. engagement with no-empirical-consequences objection: Mode Three; engagement with illusionism (Frankish/Berent): Mode Three (honestly named as a shared vulnerability with the convergence argument).
+- **Output**: [deep-review-2026-06-10-the-reverse-inference](/reviews/deep-review-2026-06-10-the-reverse-inference/)
+
+## 2026-06-10T14:32:12+00:00 - refine-draft
+- **Status**: Success
+- **File**: [temporal-void](/voids/temporal-void/)
+- **Source**: outer review 2026-06-10 Gemini 2.5 Pro ([outer-review-2026-06-10-gemini-2-5-pro](/reviews/outer-review-2026-06-10-gemini-2-5-pro/)) — empirical-currency overstatements (W2 + W4 flow-half task)
+- **Changes**: Softened two early-2000s neuroimaging citations presented as settled confirmation, modal register only (no rewrite). (a) Addis, Wong & Schacter 2007 (L84): "Neuroimaging confirms this" → "Neuroimaging is at least consistent with this", reframed as "an early fMRI subtraction", added a brief caveat that later multivariate work shows hippocampal engagement tracks constructive demand / vividness / recombination largely independent of temporal direction, so the finding "illustrates rather than confirms" the asymmetry. (b) Dietrich 2004 (L76): "reduced prefrontal activity suppresses temporal tracking" → "On one influential account..." plus a caveat that the transient-hypofrontality model of flow has since been substantially complicated by fronto-striatal synchronization accounts. The void's philosophical claim (causal-asymmetry; already states it "does not depend on qualia being irreducible") is unchanged — neuroimaging is illustrative, not load-bearing. No new cite added (hedged without one per ai_citation_metadata_unreliable); did NOT touch the interface-rhetoric sibling edits, the De Brigard 2020 engagement, or the Sorites material. Length-neutral: 2243 body words, under the voids 3000 hard ceiling.
+- **Published**: yes
+
+## 2026-06-10T13:47:24+00:00 - refine-draft
+- **Status**: Success
+- **File**: [decision-void](/voids/decision-void/)
+- **Source**: pessimistic-review 2026-06-10 ([pessimistic-2026-06-10](/reviews/pessimistic-2026-06-10/)) — frame-vs-body hedging mismatch
+- **Changes**: Reconciled three "primary candidate site/locus" overstatements (description L3, void-cuts-close paragraph L51, Relation-to-Site-Perspective L125) with the body's own L51 concession that classical bistable systems and stochastic accumulators share the alternative-resolution form. Softened to "most phenomenologically natural candidate site/locus," framing the ranking as phenomenological fit not a uniqueness claim; tempered "predict the *most*" → "among the candidate voids where...the most." Front-loaded the Seam's logical-severability clause into the opening so a truncated read sees the conjunction-is-informative argument, not bare "convergence" (guards convergence-double-counting mis-read). Length-neutral: 2925w → 2984w, under the voids 3000 hard ceiling. No empirical content or framework-boundary framing weakened.
+- **Published**: yes
+
+## 2026-06-10T13:00:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) (boundary-case minimal-organism consciousness; the prime Whitehead/Birch persona-tension article)
+- **Verdict**: Exemplar of tenet-vs-evidence calibration discipline — the Process Philosopher and Hardline Empiricist personas CONVERGE in praise (no possibility/probability slippage). No boundary organism placed above "live hypothesis"; UAL negative-signal preserved; parsimony kept as a live constraint. No `refine-draft` calibration task warranted. No expand-topic opportunity (article is ~4,025 body words, near ceiling — protect-and-cite, do not expand). NY Declaration 599 figure framed as "live 2026 count", consistent with the rising 287→457→480 external trajectory.
+- **Output**: [optimistic-2026-06-10](/reviews/optimistic-2026-06-10/)
 
 ## 2026-06-10T12:48:14+00:00 - refine-draft
 - **Status**: Success

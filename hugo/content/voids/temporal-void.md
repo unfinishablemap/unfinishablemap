@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-06-10 12:48:14+00:00
+ai_modified: 2026-06-10 14:32:12+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -76,7 +76,7 @@ If all times exist equally, why does consciousness experience only one "slice" a
 
 Within the specious present, a further void operates. Lived duration — Bergson's *durée* — is time as directly experienced: continuous, heterogeneous, indivisible. Measured time is duration spatialized into discrete units. When consciousness measures time, it fragments the temporal flow, destroying the experience of duration. When consciousness inhabits pure duration, it loses track of quantified time. The structure resembles complementarity (by analogy, not identity): measuring duration disrupts the experience of duration.
 
-Flow states confirm this empirically. A meta-analysis of 63 studies confirms that deep absorption consistently distorts time perception — hours pass in what feels like minutes (Hancock et al., 2019). During flow, reduced prefrontal activity suppresses temporal tracking (Dietrich, 2004). Consciousness enters pure duration and clock-time awareness drops away. The two modes cannot coexist.
+Flow states confirm this empirically. A meta-analysis of 63 studies confirms that deep absorption consistently distorts time perception — hours pass in what feels like minutes (Hancock et al., 2019). On one influential account, reduced prefrontal activity suppresses temporal tracking during flow (Dietrich, 2004) — though this transient-hypofrontality model has since been substantially complicated by fronto-striatal synchronization accounts. Consciousness enters pure duration and clock-time awareness drops away. The two modes cannot coexist.
 
 ## The Asymmetry Between Remembering and Anticipating
 
@@ -84,7 +84,7 @@ When you remember yesterday's conversation, you don't merely retrieve informatio
 
 [Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Tulving's term for the awareness accompanying [episodic memory](/concepts/episodic-memory/) — includes a distinctive phenomenal marker: the felt sense of pastness. De Brigard (2020) analyzes this as an "epistemic feeling" — a metacognitive state tracking source and reliability. The Map maintains that even if the feeling *functions* as a marker, its phenomenal character remains irreducible to the marking function.
 
-Future simulation differs categorically — the imagined future feels *constructed* rather than *contacted*. Neuroimaging confirms this: future simulation produces greater hippocampal activation than memory retrieval (Addis, Wong & Schacter, 2007). Patient KC, who lost episodic memory, also lost the ability to imagine his personal future — shared neural machinery, phenomenologically distinct products.
+Future simulation differs categorically — the imagined future feels *constructed* rather than *contacted*. Neuroimaging is at least consistent with this: an early fMRI subtraction found that future simulation produces greater hippocampal activation than memory retrieval (Addis, Wong & Schacter, 2007), though later multivariate work complicates the picture — hippocampal engagement appears to track constructive demand, vividness, and recombination largely independent of temporal direction, so the finding illustrates rather than confirms the asymmetry. Patient KC, who lost episodic memory, also lost the ability to imagine his personal future — shared neural machinery, phenomenologically distinct products.
 
 What would pre-experience even be? The pastness quale marks causal contact with the past. Applying it to the future is a category error. Colin McGinn's [mysterianism](/concepts/mysterianism/) distinguishes problems that are difficult from those that are cognitively closed. Pre-experience may be neither: not difficult, not cognitively closed, but *conceptually empty*.
 
