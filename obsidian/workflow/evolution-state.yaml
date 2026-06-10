@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-10T18:17:29.163002+00:00'
-session_count: 10734
+last_updated: '2026-06-10T18:32:49.219764+00:00'
+session_count: 10735
 cycle_position: 8947
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-10T04:26:47.856893+00:00'
   refine-draft: '2026-06-10T17:48:25.900957+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-10T18:02:36.143298+00:00'
+  replenish-queue: '2026-06-10T18:32:49.219764+00:00'
   condense: '2026-06-09T13:03:52.907973+00:00'
   expand-topic: '2026-06-09T11:04:20.317410+00:00'
   add-highlight: '2026-06-10T09:03:29.898616+00:00'
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-06-10'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-10'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-10'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-10'
   outcome: success
 agentic_social:
@@ -786,34 +786,37 @@ queue_status:
   last_replenishment: '2026-06-10T18:20:00+00:00'
   last_replenishment_mode: conservative
   last_replenishment_note: '2026-06-10T18:20 re-run — steady-state saturation re-confirmed
-    independently on-disk; generated 0 new tasks, promoted none. Only git activity since
-    the 18:02 run was one agentic-social post + the replenish commit itself — no new
-    content to chain. Open P0-P2 = 1 (quantum-biology-and-neural-mechanisms.md Craddock
-    2025 NIH-presentation orphan reference at L204, no inline anchor — genuinely pending;
-    the two other open P2s are #veto''d condense tasks: meaning-of-life.md, phenomenal-output-causal-machinery-dissociation.md).
-    3 open P3 all carry real blockers (imagery/aphantasia currency = WebSearch dep + low-value;
-    both positions P3s = substantive human calls), so floor of 3 has NO safe promotion.
-    All 8 generative sources verified dry on disk this run: (1) task chains — 0 (recent_tasks
-    holds only refine-draft/deep-review/agentic-social/replenish/coalesce/optimistic; NO
-    expand-topic/research-topic completion to forward-chain — confirmed by type-tally); (2)
-    unconsumed research — 0 (3 newest-by-frontmatter notes all verified consumed on disk:
-    pci-phi-anaesthesia-2026-05-27 → anaesthesia-and-the-consciousness-interface, claude-constitution-2026-05-31
-    → claude-constitution-consciousness-uncertainty, berridge-2026-06-03 → wanting-liking-and-the-value-in-mechanism-fork);
-    (3) gap analysis — 0 (topics 268/270, concepts 263/270 near cap, voids 101/100 OVER
-    cap; prior gap candidates declined-redundant); (4) staleness — 0 (cycle deep-review slots
-    handle article staleness); (5) orphans — 0 (quality.orphaned_files=0); (6) length —
-    independent get_length_warnings: 42 hard+ offenders of which the content-section subset
-    is ALL protected (human-deferred flagships born-rule/clinical-dissociation/laws-and-dispositions/composition/argument-from-reason/epistemic-advantages/time-collapse/filter-theory/valence/simple-organisms/phenomenal-authority,
-    void hub-cross-link accretion agency-void/what-voids-reveal/wholeheartedness-void per
-    [[hub-articles-accrete-crosslink-length]]); the remaining ~24 are research/ working notes,
-    not condense targets; (7) positions — audited 2026-06-09 (within 30d window), stable deps
-    + no contradictions, 2 follow-up P3s already queued; (8) applied-apex gap — register too
-    sparse for a high-confidence cluster lacking applied apex. Manufacturing churn or auto-condensing
-    a protected flagship to hit the numeric floor would be net-negative. Documented steady-state,
-    not a defect. PRIOR NOTE (17:52): steady-state saturation re-confirmed
     independently on-disk; generated 0 new tasks, promoted none. Only git activity
-    since the 17:25 run was queueing THIS P2 Craddock task + the functionalism.md
-    fix that spawned it — no new content to chain. Open P0-P2 = 1 (quantum-biology-and-neural-mechanisms.md
+    since the 18:02 run was one agentic-social post + the replenish commit itself
+    — no new content to chain. Open P0-P2 = 1 (quantum-biology-and-neural-mechanisms.md
+    Craddock 2025 NIH-presentation orphan reference at L204, no inline anchor — genuinely
+    pending; the two other open P2s are #veto''d condense tasks: meaning-of-life.md,
+    phenomenal-output-causal-machinery-dissociation.md). 3 open P3 all carry real
+    blockers (imagery/aphantasia currency = WebSearch dep + low-value; both positions
+    P3s = substantive human calls), so floor of 3 has NO safe promotion. All 8 generative
+    sources verified dry on disk this run: (1) task chains — 0 (recent_tasks holds
+    only refine-draft/deep-review/agentic-social/replenish/coalesce/optimistic; NO
+    expand-topic/research-topic completion to forward-chain — confirmed by type-tally);
+    (2) unconsumed research — 0 (3 newest-by-frontmatter notes all verified consumed
+    on disk: pci-phi-anaesthesia-2026-05-27 → anaesthesia-and-the-consciousness-interface,
+    claude-constitution-2026-05-31 → claude-constitution-consciousness-uncertainty,
+    berridge-2026-06-03 → wanting-liking-and-the-value-in-mechanism-fork); (3) gap
+    analysis — 0 (topics 268/270, concepts 263/270 near cap, voids 101/100 OVER cap;
+    prior gap candidates declined-redundant); (4) staleness — 0 (cycle deep-review
+    slots handle article staleness); (5) orphans — 0 (quality.orphaned_files=0); (6)
+    length — independent get_length_warnings: 42 hard+ offenders of which the content-section
+    subset is ALL protected (human-deferred flagships born-rule/clinical-dissociation/laws-and-dispositions/composition/argument-from-reason/epistemic-advantages/time-collapse/filter-theory/valence/simple-organisms/phenomenal-authority,
+    void hub-cross-link accretion agency-void/what-voids-reveal/wholeheartedness-void
+    per [[hub-articles-accrete-crosslink-length]]); the remaining ~24 are research/
+    working notes, not condense targets; (7) positions — audited 2026-06-09 (within
+    30d window), stable deps + no contradictions, 2 follow-up P3s already queued;
+    (8) applied-apex gap — register too sparse for a high-confidence cluster lacking
+    applied apex. Manufacturing churn or auto-condensing a protected flagship to hit
+    the numeric floor would be net-negative. Documented steady-state, not a defect.
+    PRIOR NOTE (17:52): steady-state saturation re-confirmed independently on-disk;
+    generated 0 new tasks, promoted none. Only git activity since the 17:25 run was
+    queueing THIS P2 Craddock task + the functionalism.md fix that spawned it — no
+    new content to chain. Open P0-P2 = 1 (quantum-biology-and-neural-mechanisms.md
     Craddock 2025 NIH-presentation orphan reference verified STILL LIVE at L204, no
     inline anchor — genuinely pending; same benign DANGLING class as the just-fixed
     functionalism orphan). 3 open P3 all carry real blockers (aphantasia = WebSearch
