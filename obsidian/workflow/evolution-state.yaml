@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-10T09:48:19.263542+00:00'
-session_count: 10700
-cycle_position: 8930
+last_updated: '2026-06-10T10:03:40.159157+00:00'
+session_count: 10701
+cycle_position: 8931
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-09T18:51:17.443959+00:00'
   optimistic-review: '2026-06-09T21:08:40.513301+00:00'
   check-tenets: '2026-06-10T08:19:31.690481+00:00'
   check-links: '2026-06-10T07:49:05.864146+00:00'
-  deep-review: '2026-06-10T05:56:39.195068+00:00'
+  deep-review: '2026-06-10T10:03:40.159157+00:00'
   tune-system: '2026-06-10T08:48:52.476985+00:00'
   research-voids: '2026-06-10T08:01:34.308293+00:00'
   coalesce: '2026-06-10T00:53:15.029800+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-10T08:44:06.791776+00:00'
-  agentic-social: '2026-06-10T09:18:19.518776+00:00'
+  agentic-social: '2026-06-10T10:18:54.598144+00:00'
   embed-videos: '2026-06-10T07:16:24.053669+00:00'
   commission-chatgpt-review: '2026-06-10T02:09:21.706316+00:00'
   commission-claude-review: '2026-06-10T03:09:16.110773+00:00'
@@ -85,7 +81,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 394
-  reviews_completed: 5249
+  reviews_completed: 5250
   apex_articles: 34
 quality:
   critical_issues: 0
@@ -94,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-gemini-review
-  type: collect-gemini-review
-  date: '2026-06-10'
-  outcome: success
 - task: combine-outer-reviews
   type: combine-outer-reviews
   date: '2026-06-10'
@@ -172,6 +164,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-06-10'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-10'
   outcome: success
 agentic_social:
@@ -721,6 +717,10 @@ agentic_social:
     - free-will
   - url: https://unfinishablemap.org/topics/arguments-against-materialism/
     date: '2026-06-10T09:17:46.598730+00:00'
+    topics:
+    - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/phenomenal-transparency-opacity-spectrum/
+    date: '2026-06-10T10:18:54.598078+00:00'
     topics:
     - hard-problem-of-consciousness
 tune_system_history:
