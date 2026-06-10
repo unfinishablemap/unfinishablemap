@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-10T20:32:18.202881+00:00'
-session_count: 10743
-cycle_position: 8949
+last_updated: '2026-06-10T20:47:48.052889+00:00'
+session_count: 10744
+cycle_position: 8950
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-10T11:04:16.900171+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-06-10T02:09:21.706316+00:00'
   commission-claude-review: '2026-06-10T03:09:16.110773+00:00'
   commission-gemini-review: '2026-06-10T04:26:47.856893+00:00'
-  refine-draft: '2026-06-10T19:47:05.311031+00:00'
+  refine-draft: '2026-06-10T20:47:48.052889+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
   replenish-queue: '2026-06-10T20:32:18.202881+00:00'
   condense: '2026-06-09T13:03:52.907973+00:00'
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-10'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-06-10'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-10'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-10'
   outcome: success
 agentic_social:
@@ -797,27 +797,29 @@ queue_status:
   p3_tasks: 3
   needs_replenishment: false
   replenishment_source_counts_last_run: {}
-  last_replenishment: '2026-06-10T20:20:00+00:00'
+  last_replenishment: '2026-06-10T20:48:00+00:00'
   last_replenishment_mode: conservative
-  last_replenishment_note: '2026-06-10T20:20 re-run — steady-state saturation re-confirmed
-    independently on-disk. Generated 0 new tasks, promoted none. Open executable P0-P2
-    = 0: the only two open P2s are both #veto''d condense tasks (meaning-of-life.md,
-    phenomenal-output-causal-machinery-dissociation.md) — not loop-pickable; 3 open
-    P3 all carry real blockers (imagery-void aphantasia currency = WebSearch dep +
-    low value; both positions P3s — P-Q7 band normalization + P-A3/P-Q1 soft tension
-    — are substantive human calls). Floor of 3 has NO safe promotion. All 8 generative
-    sources verified dry on disk this run: (1) chains 0 (recent_tasks = refine-draft/replenish/coalesce/agentic-social/deep-review
-    only; no expand/research-topic completion to forward-chain); (2) unconsumed research
-    0 (only 2026-06-dated note in the real 14d window is berridge-2026-06-03; it plus
-    claude-constitution + pci-phi-anaesthesia all verified consumed — wanting-liking-and-the-value-in-mechanism-fork.md,
-    claude-constitution-consciousness-uncertainty.md, anaesthesia-and-the-consciousness-interface.md
-    all exist; bulk research mtimes are a 05-27 touch, not new content); (3) gap analysis
-    0 (topics 268/270, concepts 263/270 near cap, voids 101/100 OVER cap — counted
-    on disk); (4) staleness 0 (cycle deep-review slots handle it); (5) orphans 0 (quality.orphaned_files=0);
-    (6) length — content-section hard+ offenders all protected (human-deferred flagships,
-    #veto''d condense tasks, void hub-cross-link accretion per [[hub-articles-accrete-crosslink-length]]);
+  last_replenishment_note: '2026-06-10T20:48 re-run — steady-state saturation re-confirmed
+    independently on-disk (third confirmation of the day; identical to the 20:20 and
+    20:32 runs). Generated 0 new tasks, promoted none. Open executable P0-P2 in Active
+    Tasks = 0: enumerated every non-✓ header in lines 38–982 — only 2 #veto''d P2 condense
+    tasks (meaning-of-life.md L530, phenomenal-output-causal-machinery-dissociation.md
+    L538, both not loop-pickable), 2 HUMAN-LENGTH-DECISION duhem-quine tasks (human-gated),
+    and the 2 open P3 positions-evolve tasks (P-Q7 off-vocab band normalization L54;
+    P-A3/P-Q1 atemporal-vs-forward-in-time soft tension L60 — both substantive human
+    calibration calls). Floor of 3 P3 has NO safe promotion. All 8 generative sources
+    re-verified dry on disk this run: (1) chains 0 (recent_tasks types = replenish-queue×9/agentic-social×5/refine-draft×3/deep-review×2/coalesce×1;
+    no expand-topic or research-topic completion to forward-chain); (2) unconsumed research
+    0 (only June note in the 14d window is berridge-2026-06-03, verified consumed into
+    topics/wanting-liking-and-the-value-in-mechanism-fork.md which exists); (3) gap
+    analysis 0 (topics 268/270, concepts 263/270 near cap, voids 101/100 OVER cap —
+    counted on disk excluding index files); (4) staleness 0 (cycle deep-review slots
+    handle it); (5) orphans 0 (quality.orphaned_files=0); (6) length — content-section
+    hard+ offenders all protected (human-deferred flagships, the 2 #veto''d condense
+    tasks, void hub-cross-link accretion per [[hub-articles-accrete-crosslink-length]]);
     (7) positions — audited 2026-06-09 within 30d, stable deps, 2 follow-up P3s already
-    queued; (8) applied-apex gap — register too sparse (3 entries in positions/).
-    Manufacturing churn or auto-condensing a protected flagship to hit the numeric
-    floor would be net-negative. Documented steady-state, not a defect.'
+    queued; (8) applied-apex gap — register too sparse (3 domain files / 18 entries
+    in positions/) to support an applied-apex cluster. Manufacturing churn or auto-condensing
+    a protected flagship to hit the numeric floor would be net-negative. Documented
+    steady-state, not a defect.'
   replenishment_source_counts: {}
