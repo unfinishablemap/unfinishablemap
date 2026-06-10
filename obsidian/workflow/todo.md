@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix dangling Craddock (2025) orphan reference in concepts/quantum-biology-and-neural-mechanisms.md
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/concepts/quantum-biology-and-neural-mechanisms.md
-- **Notes**: Found during the 2026-06-10 corpus-wide Craddock grep (while fixing the functionalism.md Craddock-2017 orphan). References line 204 — `Craddock, T.J.A. et al. (2025). "Uncovering Radical Pair Mechanisms: Magnetic Field-Dependent Isotope Effects in Tubulin Assembly." NIH QIS Interest Group presentation (unpublished)` — is an ORPHAN: no inline `Craddock … 2025` anchor anywhere in the body (the only inline Craddock in this article is the correctly-wired 2017 *Sci Rep* 7:9877 cite at line ~106; line 204 is a separate 2025 NIH-presentation entry with no inline use). Same benign DANGLING class as the functionalism fix — residue of the same 613 THz / quantum-biology citation work. FIX = REMOVE the orphan reference (lower-risk; the body makes no radical-pair/isotope-effect claim that needs it) OR wire a single inline cite if a radical-pair-mechanism point is genuinely wanted (only if it doesn't add unsupported content). The same 2025 NIH presentation IS properly inline-cited in `research/quantum-biology-neural-mechanisms-2026-01-24.md`, so the source is real — this is a placement/orphan defect, not a fabrication. Length-neutral-to-negative. Bump ai_modified. See [[craddock-613thz-dangling-cite-sweep]].
-- **Source**: pessimistic-review (corpus-grep follow-on)
-- **Generated**: 2026-06-10
-
 ### P3: Update recent aphantasia literature in voids/imagery-void.md
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #10 — currency sweep (distinct from the #9 attribution fix; this is a [[empirical-record-currency-drift]] vector, not a wrong-cite). Add a current-note on 2025 aphantasia work such as "imageless imagery" / early-visual-cortex decoding, and state whether it strengthens or weakens the function-phenomenology face of the Imagery Void. One WebSearch to confirm a real 2025 result before citing; do NOT fabricate. P3 (currency enrichment, not a defect). Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
@@ -1000,6 +992,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-10: Fix dangling Craddock (2025) orphan reference in concepts/quantum-biology-and-neural-mechanisms.md
+- **Type**: refine-draft
+- **Notes**: Found during the 2026-06-10 corpus-wide Craddock grep (while fixing the functionalism.md Craddock-2017 orphan). References line 204 — `Craddock, T.J.A. et al. (2025). "Uncovering Radical Pair Mechanisms: Magnetic Field-Dependent Isotope Effects in Tubulin Assembly." NIH QIS Interest Group presentation (unpublished)` — is an ORPHAN: no inline `Craddock … 2025` anchor anywhere in the body (the only inline Craddock in this article is the correctly-wired 2017 *Sci Rep* 7:9877 cite at line ~106; line 204 is a separate 2025 NIH-presentation entry with no inline use). Same benign DANGLING class as the functionalism fix — residue of the same 613 THz / quantum-biology citation work. FIX = REMOVE the orphan reference (lower-risk; the body makes no radical-pair/isotope-effect claim that needs it) OR wire a single inline cite if a radical-pair-mechanism point is genuinely wanted (only if it doesn't add unsupported content). The same 2025 NIH presentation IS properly inline-cited in `research/quantum-biology-neural-mechanisms-2026-01-24.md`, so the source is real — this is a placement/orphan defect, not a fabrication. Length-neutral-to-negative. Bump ai_modified. See [[craddock-613thz-dangling-cite-sweep]].
 
 ### ✓ 2026-06-10: Fix dangling Craddock (2017) reference + 3 prose findings in concepts/functionalism.md
 - **Type**: refine-draft

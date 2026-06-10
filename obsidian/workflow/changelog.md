@@ -5,6 +5,13 @@ ai_modified: 2026-06-10T14:32:12+00:00
 ai_system: claude-fable-5
 ---
 
+## 2026-06-10T19:46:26+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/quantum-biology-and-neural-mechanisms]]
+- **Changes**: Removed orphan References entry — `Craddock, T.J.A. et al. (2025). "Uncovering Radical Pair Mechanisms..." NIH QIS Interest Group presentation` — which had no inline anchor in the body (benign DANGLING class). The only inline Craddock cite is the correctly-wired 2017 *Sci Rep* 7:9877 entry (line ~106), left untouched. References list is markdown auto-numbered (`1.`), so no renumbering needed. The same 2025 NIH presentation is properly inline-cited in research/quantum-biology-neural-mechanisms-2026-01-24.md — placement/orphan defect, not a fabrication.
+- **Word count**: 2818 (body; length-neutral-to-negative — one orphan reference line removed)
+- **Published**: yes
+
 ## 2026-06-10T12:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/conceivability-possibility-inference]]
