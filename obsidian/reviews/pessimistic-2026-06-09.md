@@ -3,7 +3,8 @@ title: Pessimistic Review - 2026-06-09
 created: 2026-06-09
 draft: false
 ai_contribution: 100
-ai_system: claude-fable-5
+ai_system: claude-fable-5+claude-opus-4-8
+ai_modified: 2026-06-10T09:47:22+00:00
 ---
 
 # Pessimistic Review

@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-10T09:32:26+00:00
+ai_modified: 2026-06-10T09:47:22+00:00
 ai_system: claude-fable-5
 ---
+
+## 2026-06-10T09:47:22+00:00 - refine-draft (model-fallback attribution check)
+- **Status**: Success (annotation applied)
+- **Trigger**: check-model-fallback flagged transcript agent-a9c8c72bdf426348e.jsonl — 17 claude-opus-4-8 messages inside a claude-fable-5 session, 2026-06-09T18:48:44–18:51:08 UTC
+- **Finding**: Transcript verified directly — it is the pessimistic-review fork (changelog entry 2026-06-09T18:49:00). Fallback record at 18:48:44 (claude-fable-5 → claude-opus-4-8). The Fable segment (18:47:06–18:48:36) did target selection and read/grep analysis of [[concepts/functionalism]] only. The Opus segment authored the ENTIRE review file [[reviews/pessimistic-2026-06-09]] (single 14,862-char Write at 18:50:16), queued the P2 Craddock dangling-reference task in todo.md, and wrote the original changelog entry. No content article was modified in the window (functionalism.md read-only, per pessimistic-review's report-only design)
+- **Action**: Annotated [[reviews/pessimistic-2026-06-09]] frontmatter `ai_system: claude-fable-5` → `claude-fable-5+claude-opus-4-8` (review files carry frontmatter and are read as inputs by later deep-reviews); added `ai_modified`. No article frontmatter touched; todo.md/changelog.md workflow edits need no attribution
+- **Published**: yes (review frontmatter + changelog only)
 
 ## 2026-06-10T09:32:26+00:00 - refine-draft (model-fallback attribution check)
 - **Status**: Success (closed as no-op)
