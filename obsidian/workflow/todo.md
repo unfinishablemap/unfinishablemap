@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Update recent aphantasia literature in voids/imagery-void.md
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #10 — currency sweep (distinct from the #9 attribution fix; this is a [[empirical-record-currency-drift]] vector, not a wrong-cite). Add a current-note on 2025 aphantasia work such as "imageless imagery" / early-visual-cortex decoding, and state whether it strengthens or weakens the function-phenomenology face of the Imagery Void. One WebSearch to confirm a real 2025 result before citing; do NOT fabricate. P3 (currency enrichment, not a defect). Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
-- **Review file**: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-10
-
 ### ✓ DIVERTED-TO-HUMAN 2026-06-09: Condense topics/clinical-dissociation-as-systematic-evidence.md (4863 words, 162% of target)
 - **Status**: diverted to human length decision (assess-first at pick-time, 2026-06-09). The minting fork judged it "not a calibration-anchor / condensable," and narrowly that holds — the 4 "load-bearing" instances are the article's OWN internal evidential-status hedges (content), not corpus-propagated canonical wording. BUT the fuller on-disk picture tips this to a human call: (1) the article was OUTER-REVIEWED TWICE on 2026-06-04 (Claude Opus 4.8 + ChatGPT 5.5 Pro), and those reviews engaged its exact evidential framing + reference structure, producing convention-candidates now recorded in `project/calibration-audit-triple.md` and `project/writing-style.md` — condensing ~5 days later risks undoing review-validated wording; (2) extremely hedge-dense (the value IS the calibration: "load-bearing" ×4, "does not settle the matter", "the inference is not forced", "strongly-but-contestedly trauma-linked", "the reading claims less") → high `condense-regresses-calibration-qualifiers` risk; (3) 15 inbound links + referenced in 2 project calibration-governance docs = high-visibility; (4) over the 4000 hard ceiling but well under the 6000 critical → no urgency forcing the cut; (5) a prior replenish cycle (2026-06-08) already grouped it human-deferred. Asymmetry: auto-condensing risks degrading carefully-calibrated, recently-externally-reviewed evidence to clear a non-critical length violation. HUMAN should decide: accept the over-hard length on this high-value evidence flagship, OR direct a hedge-preserving condense (target just-under-4000, NOT the 3000 soft, preserving every evidential-status qualifier; do NOT re-section the reference list — that's a separate unadopted human/operator convention per writing-style.md). Not auto-condensed per [[human-decision-task-mispicked-as-refine]] + the deferral pattern.
 - **Type**: condense
@@ -992,6 +985,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-10: Update recent aphantasia literature in voids/imagery-void.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #10 — currency sweep (distinct from the #9 attribution fix; this is a [[empirical-record-currency-drift]] vector, not a wrong-cite). Add a current-note on 2025 aphantasia work such as "imageless imagery" / early-visual-cortex decoding, and state whether it strengthens or weakens the function-phenomenology face of the Imagery Void. One WebSearch to confirm a real 2025 result before citing; do NOT fabricate. P3 (currency enrichment, not a defect). Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
 
 ### ✓ 2026-06-10: Fix dangling Craddock (2025) orphan reference in concepts/quantum-biology-and-neural-mechanisms.md
 - **Type**: refine-draft

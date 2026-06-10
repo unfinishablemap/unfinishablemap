@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-10T20:17:50.610335+00:00'
-session_count: 10742
+last_updated: '2026-06-10T20:32:18.202881+00:00'
+session_count: 10743
 cycle_position: 8949
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-10T04:26:47.856893+00:00'
   refine-draft: '2026-06-10T19:47:05.311031+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-10T20:02:53.839969+00:00'
+  replenish-queue: '2026-06-10T20:32:18.202881+00:00'
   condense: '2026-06-09T13:03:52.907973+00:00'
   expand-topic: '2026-06-09T11:04:20.317410+00:00'
   add-highlight: '2026-06-10T09:03:29.898616+00:00'
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-10'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-10'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-10'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-10'
   outcome: success
 agentic_social:
@@ -817,7 +817,7 @@ queue_status:
     (6) length — content-section hard+ offenders all protected (human-deferred flagships,
     #veto''d condense tasks, void hub-cross-link accretion per [[hub-articles-accrete-crosslink-length]]);
     (7) positions — audited 2026-06-09 within 30d, stable deps, 2 follow-up P3s already
-    queued; (8) applied-apex gap — register too sparse (3 entries in positions/). Manufacturing
-    churn or auto-condensing a protected flagship to hit the numeric floor would be
-    net-negative. Documented steady-state, not a defect.'
+    queued; (8) applied-apex gap — register too sparse (3 entries in positions/).
+    Manufacturing churn or auto-condensing a protected flagship to hit the numeric
+    floor would be net-negative. Documented steady-state, not a defect.'
   replenishment_source_counts: {}

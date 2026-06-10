@@ -5,6 +5,14 @@ ai_modified: 2026-06-10T14:32:12+00:00
 ai_system: claude-fable-5
 ---
 
+## 2026-06-10T20:47:02+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/imagery-void]]
+- **Original score**: n/a (P3 currency enrichment, not a defect fix — outer review 2026-06-10 ChatGPT 5.5 Pro finding #10)
+- **Changes**: Currency sweep on the function-phenomenology face. Added a verified 2025 result — Chang, Zhang, Cao, Pearson & Meng (2025), "Imageless imagery in aphantasia revealed by early visual cortex decoding," *Current Biology* 35(3), 591–599 (web-verified via PubMed/Cell before citing; real paper, accurate metadata). The note states explicitly that the result STRENGTHENS the function-phenomenology face: imagery content is decodable from aphantasics' early visual cortex (functional signal present) but the signature is transformed (ipsilateral, no cross-decode with perception) and no phenomenal image accompanies it — removing the deflationary "no relevant processing" reading and tightening the dissociation between function and phenomenology, while the face stays structurally intact (decoding can't adjudicate options a/b/c). Added References entry #10, renumbered SEP/Southgate to 11/12. Distinct from today's #9 Sigurdardottir/Larner attribution fix (not redone).
+- **Word count**: 2760 (body via analyze_length; soft_warning, well under the voids hard ceiling of 3000)
+- **Published**: yes
+
 ## 2026-06-10T19:46:26+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/quantum-biology-and-neural-mechanisms]]
