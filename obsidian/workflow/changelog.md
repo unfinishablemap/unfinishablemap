@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-10T07:03:30+00:00
+ai_modified: 2026-06-10T08:20:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-10T08:20:00+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 537 (269 topics, 264 concepts, 4 positions)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 2 (neoplatonist common-cause audit lacks an explicit tenet reference; dualism-channel-width-axis uses a wrong tenet anchor `^occams-razor-has-limits` → `^occams-limits`)
+- **Output**: [[reviews/tenet-check-2026-06-10]]
 
 ## 2026-06-10T07:03:30+00:00 - refine-draft
 - **Status**: Success
