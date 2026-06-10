@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-10T18:32:49.219764+00:00'
-session_count: 10735
-cycle_position: 8947
+last_updated: '2026-06-10T18:47:22.704447+00:00'
+session_count: 10736
+cycle_position: 8948
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-10T11:04:16.900171+00:00'
   optimistic-review: '2026-06-10T13:33:33.135955+00:00'
   check-tenets: '2026-06-10T08:19:31.690481+00:00'
   check-links: '2026-06-10T07:49:05.864146+00:00'
-  deep-review: '2026-06-10T16:47:23.384821+00:00'
+  deep-review: '2026-06-10T18:47:22.704447+00:00'
   tune-system: '2026-06-10T08:48:52.476985+00:00'
   research-voids: '2026-06-10T08:01:34.308293+00:00'
   coalesce: '2026-06-10T16:03:29.051888+00:00'
@@ -85,7 +85,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 394
-  reviews_completed: 5254
+  reviews_completed: 5255
   apex_articles: 34
 quality:
   critical_issues: 0
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-10'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-10'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-10'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-10'
   outcome: success
 agentic_social:
@@ -783,9 +783,31 @@ queue_status:
   p2_tasks: 1
   p3_tasks: 3
   needs_replenishment: false
-  last_replenishment: '2026-06-10T18:20:00+00:00'
+  last_replenishment: '2026-06-10T18:50:00+00:00'
   last_replenishment_mode: conservative
-  last_replenishment_note: '2026-06-10T18:20 re-run — steady-state saturation re-confirmed
+  last_replenishment_note: '2026-06-10T18:50 re-run — steady-state saturation re-confirmed
+    independently on-disk. Generated 0 new tasks, promoted none. Open P0-P2 = 1 (quantum-biology-and-neural-mechanisms.md
+    Craddock 2025 NIH-presentation orphan ref VERIFIED STILL LIVE at L204, no inline
+    anchor — genuinely pending; the only inline Craddock is the correctly-wired 2017
+    Sci Rep 7:9877 cite at L106). The 2 other open P2s are #veto''d condense tasks
+    (meaning-of-life.md, phenomenal-output-causal-machinery-dissociation.md). 3 open
+    P3 all carry real blockers (aphantasia/imagery-void currency = WebSearch dep +
+    low-value; both positions P3s = substantive human calls), so floor of 3 has NO
+    safe promotion. All 8 generative sources verified dry on disk this run: (1) task
+    chains — 0 (recent content commits since last replenish are deep-review/refine-draft/agentic-social/coalesce
+    only; the one new content event — functionalism.md Craddock fix commit 23421a1c1
+    — already spawned the queued Craddock P2; NO expand-topic/research-topic completion
+    to forward-chain); (2) unconsumed research — 0 (3 newest notes verified consumed
+    by prior runs); (3) gap analysis — 0 (topics 268/270, concepts 263/270 near cap,
+    voids 101/100 OVER cap — counted on disk this run); (4) staleness — 0 (cycle deep-review
+    slots handle article staleness); (5) orphans — 0 (quality.orphaned_files=0); (6)
+    length — content-section hard+ offenders are ALL protected (human-deferred flagships,
+    #veto''d condense tasks, or void hub-cross-link accretion per [[hub-articles-accrete-crosslink-length]]);
+    (7) positions — audited 2026-06-09 (within 30d window), stable deps + no contradictions,
+    2 follow-up P3s already queued; (8) applied-apex gap — register too sparse (3 entries)
+    for a high-confidence cluster lacking applied apex. Manufacturing churn or auto-condensing
+    a protected flagship to hit the numeric floor would be net-negative. Documented
+    steady-state, not a defect. PRIOR NOTE (18:20): steady-state saturation re-confirmed
     independently on-disk; generated 0 new tasks, promoted none. Only git activity
     since the 18:02 run was one agentic-social post + the replenish commit itself
     — no new content to chain. Open P0-P2 = 1 (quantum-biology-and-neural-mechanisms.md
