@@ -5,6 +5,17 @@ ai_modified: 2026-06-10T14:32:12+00:00
 ai_system: claude-fable-5
 ---
 
+## 2026-06-10T22:00:00+00:00 - positions-evolve (audit-reconcile)
+- **Status**: Success
+- **Positions**: P-A3 in [[positions/agency-and-will]]; P-Q1 in [[positions/quantum-interface]]
+- **Mode**: audit + soft cross-register reconciliation (positions audit 2026-06-09, Check 1)
+- **Tension**: P-A3 (Libet timing) offers an atemporal-selection fallback for dissolving the timing puzzle; P-Q1 prefers forward-in-time post-decoherence selection, against which the retrocausal/time-symmetric route is the foil ([[topics/forward-in-time-conscious-selection]] treats it as exactly that). Source articles (concepts/libet-experiments, topics/free-will) develop the atemporal reading inside the retrocausal / time-symmetric family — confirming the two genuinely lean opposite ways on the *mechanism* axis.
+- **Verdict**: (a)-with-qualification — P-A3's atemporal mention is a deliberately-retained, explicitly-hedged fallback worth keeping (source articles develop it), but it was an *under-cross-referenced* loose end. Not a hard contradiction: P-A3 holds it weakly in the agency domain; P-Q1 holds a moderate mechanism preference in a separable domain — calibrated compatibly.
+- **Change**: HARMONIZE-WITHOUT-ERASING. P-A3 — added a sentence subordinating the atemporal reading to the forward-in-time preference, cross-linked to P-Q1 / [[topics/forward-in-time-conscious-selection]], noted the mechanism-agnostic initiation/selection distinction carries the main load; updated Depends on / Argued in to surface the cross-domain link; added a dated "Reconciled" note; Last reviewed → 2026-06-10. P-Q1 — added a reciprocal cross-register note pointing back at P-A3, marking the atemporal fallback subordinate to this mechanism preference. No confidence change on either; nothing deleted or retired; P-A3 not flipped to assert forward-in-time.
+- **Cross-reference**: both registers now cross-reference cleanly (P-A3 → P-Q1, P-Q1 → P-A3).
+- **Length**: agency-and-will body 1286 words (under 1500 soft); quantum-interface body 2213 words (over 1500 soft by prior deliberate split-decision, under 2500 hard).
+- **ai_modified**: both bumped to 2026-06-10T22:00:00+00:00.
+
 ## 2026-06-10T21:47:27+00:00 - positions-evolve (update)
 - **Status**: Success
 - **Position**: P-Q7 in [[positions/quantum-interface]]

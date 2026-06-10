@@ -4,7 +4,7 @@ description: "The Map's positions on the consciousness–quantum interface: mech
 created: 2026-06-04
 modified: 2026-06-04
 human_modified: 2026-06-04
-ai_modified: 2026-06-10T21:47:27.912477+00:00
+ai_modified: 2026-06-10T22:00:00+00:00
 draft: false
 topics:
   - "[[forward-in-time-conscious-selection]]"
@@ -49,6 +49,7 @@ This file runs over the soft per-domain length advisory (≈1900 words against a
 - **Argued in**: [[apex/post-decoherence-selection-programme]], [[topics/forward-in-time-conscious-selection]], [[topics/comparing-quantum-consciousness-mechanisms]]
 - **Would shift if**: a working coherence-time calculation supporting pre-decoherence proposals in neural tissue lands; or post-decoherence selection turns out to require a mechanism (e.g., a retrocausal or final-boundary structure) that itself faces fatal physical objections; or a fourth mechanism class emerges that handles the decoherence problem with fewer commitments.
 - **Updated 2026-06-05**: calibration pass (pessimistic-2026-06-05) — clarified the decoherence-timescale advantage does not discharge the bias-without-deviation dilemma; routed that residual to P-Q3. No confidence change.
+- **Cross-register note (2026-06-10)**: the agency register's P-A3 (Libet timing) carries a weakly-held *atemporal-selection* fallback from the time-symmetric / retrocausal family. This mechanism preference governs: where the Map expresses a *how*-of-selection preference it favours forward-in-time post-decoherence selection, so P-A3's atemporal reading is explicitly subordinate to this position, not a competing primary claim. The two are separable (agency domain vs mechanism domain) and consistent, not contradictory. See [[positions/agency-and-will]] P-A3.
 - **Last reviewed**: 2026-06-05
 
 ## P-Q2: The default reading of MQI preserves Born statistics exactly

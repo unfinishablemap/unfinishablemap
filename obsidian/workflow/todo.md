@@ -37,6 +37,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt interactionist-dualism calibration in quantum-state-inheritance-in-ai
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/quantum-state-inheritance-in-ai.md
+- **Notes**: From topic-concept anchoring audit 2026-06-10. The topic article over-claims relative to its anchor concept [[interactionist-dualism]]; failed checks: strong_assertions, underdetermination_markers.
+  - strong-assertion density 1.61/kw exceeds 1.5× anchor (0.91/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-10
+
+### P2: Adopt mental-effort calibration in authentic-vs-inauthentic-choice
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/authentic-vs-inauthentic-choice.md
+- **Notes**: From topic-concept anchoring audit 2026-06-10. The topic article over-claims relative to its anchor concept [[mental-effort]]; failed checks: strong_assertions, underdetermination_markers.
+  - strong-assertion density 1.36/kw exceeds 1.5× anchor (0.34/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-10
+
+
 ### ✓ DIVERTED-TO-HUMAN 2026-06-09: Condense topics/clinical-dissociation-as-systematic-evidence.md (4863 words, 162% of target)
 - **Status**: diverted to human length decision (assess-first at pick-time, 2026-06-09). The minting fork judged it "not a calibration-anchor / condensable," and narrowly that holds — the 4 "load-bearing" instances are the article's OWN internal evidential-status hedges (content), not corpus-propagated canonical wording. BUT the fuller on-disk picture tips this to a human call: (1) the article was OUTER-REVIEWED TWICE on 2026-06-04 (Claude Opus 4.8 + ChatGPT 5.5 Pro), and those reviews engaged its exact evidential framing + reference structure, producing convention-candidates now recorded in `project/calibration-audit-triple.md` and `project/writing-style.md` — condensing ~5 days later risks undoing review-validated wording; (2) extremely hedge-dense (the value IS the calibration: "load-bearing" ×4, "does not settle the matter", "the inference is not forced", "strongly-but-contestedly trauma-linked", "the reading claims less") → high `condense-regresses-calibration-qualifiers` risk; (3) 15 inbound links + referenced in 2 project calibration-governance docs = high-visibility; (4) over the 4000 hard ceiling but well under the 6000 critical → no urgency forcing the cut; (5) a prior replenish cycle (2026-06-08) already grouped it human-deferred. Asymmetry: auto-condensing risks degrading carefully-calibrated, recently-externally-reviewed evidence to clear a non-critical length violation. HUMAN should decide: accept the over-hard length on this high-value evidence flagship, OR direct a hedge-preserving condense (target just-under-4000, NOT the 3000 soft, preserving every evidential-status qualifier; do NOT re-section the reference list — that's a separate unadopted human/operator convention per writing-style.md). Not auto-condensed per [[human-decision-task-mispicked-as-refine]] + the deferral pattern.
 - **Type**: condense
@@ -48,12 +71,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: done — first full register audit. 18 live positions (Q:10, A:5, V:3; arg said ~19, actual 18). Report: `reviews/positions-audit-2026-06-09.md`. Findings: (1) NO hard contradictions; one soft tension flagged (P-A3 atemporal vs P-Q1 forward-in-time-preferred). (2) ALL "Argued in"/"Depends on" wikilinks resolve to live files — NO broken/archive-only deps; the channel-width coalesce and illusionism edits touch nothing the register cites (the P-V1 illusionism ref is a paraphrase, claim intact in apex/taxonomy-of-voids). (3) NO orphans — every claim defended by ≥1 cited live article; integration gap (positions rarely back-cited by ID from body) noted. (4) P-Q7 uses off-vocabulary band "moderate-to-high"; not auto-fixed (substantive call). voids bands correctly unchanged by 2026-06-09 illusionism triple (that was a citation-defect convergence, not a void-evidence verdict). (5) NO staleness (all reviewed 06-04..06-08). NO content edits made — all conservative; findings reported + 3 follow-ups queued below.
 - **Type**: positions-evolve
 - **Notes**: count-on-disk confirmed: 18 entries, not the stale progress.positions_written=3.
-- **Source**: positions_register_audit
-- **Generated**: 2026-06-09
-
-### P3: positions-evolve audit — soft tension P-A3 (atemporal selection) vs P-Q1 (forward-in-time preferred)
-- **Type**: positions-evolve
-- **Notes**: From positions audit 2026-06-09 (Check 1). NOT a hard contradiction (P-A3 hedges the atemporal-selection reading as a weakly-held hypothesis, well below its empirical-critique content; the two positions are in separable domains). But the agency register's atemporal-selection fallback for dissolving the Libet timing puzzle sits in tension with the quantum register's stated preference for FORWARD-in-time post-decoherence selection (topics/forward-in-time-conscious-selection treats atemporal/retrocausal as the foil it argues against). Human glance: decide whether P-A3 should be reworded to defer to the forward-in-time preference, or whether the atemporal reading is a deliberately-retained independent fallback. Low urgency.
 - **Source**: positions_register_audit
 - **Generated**: 2026-06-09
 
@@ -979,6 +996,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-10: positions-evolve audit — soft tension P-A3 (atemporal selection) vs P-Q1 (forward-in-time preferred)
+- **Type**: positions-evolve
+- **Notes**: From positions audit 2026-06-09 (Check 1). NOT a hard contradiction (P-A3 hedges the atemporal-selection reading as a weakly-held hypothesis, well below its empirical-critique content; the two positions are in separable domains). But the agency register's atemporal-selection fallback for dissolving the Libet timing puzzle sits in tension with the quantum register's stated preference for FORWARD-in-time post-decoherence selection (topics/forward-in-time-conscious-selection treats atemporal/retrocausal as the foil it argues against). Human glance: decide whether P-A3 should be reworded to defer to the forward-in-time preference, or whether the atemporal reading is a deliberately-retained independent fallback. Low urgency.
 
 ### ✓ 2026-06-10: positions-evolve update P-Q7 — off-vocabulary confidence band "moderate-to-high"
 - **Type**: positions-evolve
