@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-10T23:01:18.679634+00:00'
-session_count: 10753
+last_updated: '2026-06-10T23:16:18.569351+00:00'
+session_count: 10754
 cycle_position: 8952
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-06-10T16:03:29.051888+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-10T08:44:06.791776+00:00'
-  agentic-social: '2026-06-10T22:17:36.904868+00:00'
+  agentic-social: '2026-06-10T23:32:43.330685+00:00'
   embed-videos: '2026-06-10T23:01:18.679634+00:00'
   commission-chatgpt-review: '2026-06-10T02:09:21.706316+00:00'
   commission-claude-review: '2026-06-10T03:09:16.110773+00:00'
@@ -34,7 +30,7 @@ last_runs:
   combine-outer-reviews: '2026-06-10T05:24:39.441254+00:00'
   collect-gemini-review: '2026-06-10T05:19:03.075456+00:00'
   positions-evolve: '2026-06-10T22:48:24.211235+00:00'
-  check-model-fallback: '2026-06-10T07:31:14.524935+00:00'
+  check-model-fallback: '2026-06-10T23:16:18.569351+00:00'
 last_git_push: '2026-06-10T21:17:46.926896+00:00'
 last_tweet_date: '2026-06-10'
 content_stats:
@@ -94,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-10'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-10'
@@ -172,6 +164,10 @@ recent_tasks:
   outcome: success
 - task: embed-videos
   type: embed-videos
+  date: '2026-06-10'
+  outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-06-10'
   outcome: success
 agentic_social:
@@ -793,6 +789,10 @@ agentic_social:
     date: '2026-06-10T22:17:16.154245+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/phenomenal-acquaintance/
+    date: '2026-06-10T23:32:43.330640+00:00'
+    topics:
+    - hard-problem-of-consciousness
 tune_system_history:
   last_run: '2026-06-10T09:05:00+00:00'
   changes_applied: []
@@ -807,27 +807,27 @@ queue_status:
   replenishment_source_counts_last_run: {}
   last_replenishment: '2026-06-10T22:20:00+00:00'
   last_replenishment_mode: conservative
-  last_replenishment_note: '2026-06-10T22:20 re-run — steady-state saturation re-confirmed
-    independently on-disk (SIXTH confirmation of the day; identical to the 20:20,
-    20:32, 20:48, 21:30 and 21:55 runs). Generated 0 new tasks, promoted none. Open
-    executable P0-P2 in Active Tasks = 0: enumerated every non-✓ header strictly within
-    Active Tasks (lines 38–977; ## Completed at 977) — only 2 #veto''d P2 condense
-    tasks (meaning-of-life.md L524, phenomenal-output-causal-machinery-dissociation.md
-    L532, both not loop-pickable), 2 HUMAN-LENGTH-DECISION duhem-quine tasks (L130,
-    L139, human-gated), and 1 open P3 positions-evolve audit (L54: P-A3 atemporal
-    vs P-Q1 forward-in-time soft tension — a substantive human calibration call).
-    Floor of 3 P3 has NO safe promotion. All 8 generative sources re-verified dry
-    on disk this run: (1) chains 0 (recent_tasks types = replenish-queue/agentic-social/refine-draft/deep-review/positions-evolve/coalesce;
-    no expand-topic or research-topic completion to forward-chain); (2) unconsumed
-    research 0 (no research note newer than 2026-06-03; recent notes verified consumed
-    in prior runs); (3) gap analysis 0 (topics 268/270, concepts 263/270 near cap,
-    voids 101/100 OVER cap — counted on disk excluding index files); (4) staleness
-    0 (cycle deep-review slots handle it); (5) orphans 0 (quality.orphaned_files=0);
-    (6) length — content-section hard+ offenders all protected (human-deferred flagships,
-    the 2 #veto''d condense tasks, void hub-cross-link accretion per [[hub-articles-accrete-crosslink-length]]);
-    (7) positions — audited 2026-06-09 within 30d, stable deps, 1 follow-up P3 already
-    queued; (8) applied-apex gap — register too sparse (4 domain files / 18 entries)
-    to support a high-confidence applied-apex cluster. Manufacturing churn or auto-condensing
-    a protected flagship to hit the numeric floor would be net-negative. Documented
-    steady-state, not a defect.'
+  last_replenishment_note: "2026-06-10T22:20 re-run \u2014 steady-state saturation\
+    \ re-confirmed independently on-disk (SIXTH confirmation of the day; identical\
+    \ to the 20:20, 20:32, 20:48, 21:30 and 21:55 runs). Generated 0 new tasks, promoted\
+    \ none. Open executable P0-P2 in Active Tasks = 0: enumerated every non-\u2713\
+    \ header strictly within Active Tasks (lines 38\u2013977; ## Completed at 977)\
+    \ \u2014 only 2 #veto'd P2 condense tasks (meaning-of-life.md L524, phenomenal-output-causal-machinery-dissociation.md\
+    \ L532, both not loop-pickable), 2 HUMAN-LENGTH-DECISION duhem-quine tasks (L130,\
+    \ L139, human-gated), and 1 open P3 positions-evolve audit (L54: P-A3 atemporal\
+    \ vs P-Q1 forward-in-time soft tension \u2014 a substantive human calibration\
+    \ call). Floor of 3 P3 has NO safe promotion. All 8 generative sources re-verified\
+    \ dry on disk this run: (1) chains 0 (recent_tasks types = replenish-queue/agentic-social/refine-draft/deep-review/positions-evolve/coalesce;\
+    \ no expand-topic or research-topic completion to forward-chain); (2) unconsumed\
+    \ research 0 (no research note newer than 2026-06-03; recent notes verified consumed\
+    \ in prior runs); (3) gap analysis 0 (topics 268/270, concepts 263/270 near cap,\
+    \ voids 101/100 OVER cap \u2014 counted on disk excluding index files); (4) staleness\
+    \ 0 (cycle deep-review slots handle it); (5) orphans 0 (quality.orphaned_files=0);\
+    \ (6) length \u2014 content-section hard+ offenders all protected (human-deferred\
+    \ flagships, the 2 #veto'd condense tasks, void hub-cross-link accretion per [[hub-articles-accrete-crosslink-length]]);\
+    \ (7) positions \u2014 audited 2026-06-09 within 30d, stable deps, 1 follow-up\
+    \ P3 already queued; (8) applied-apex gap \u2014 register too sparse (4 domain\
+    \ files / 18 entries) to support a high-confidence applied-apex cluster. Manufacturing\
+    \ churn or auto-condensing a protected flagship to hit the numeric floor would\
+    \ be net-negative. Documented steady-state, not a defect."
   replenishment_source_counts: {}
