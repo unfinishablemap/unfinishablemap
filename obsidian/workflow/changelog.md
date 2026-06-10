@@ -5,6 +5,16 @@ ai_modified: 2026-06-10T14:32:12+00:00
 ai_system: claude-fable-5
 ---
 
+## 2026-06-10T15:04:59+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-reverse-inference]]
+- **Word count**: 3780 → 3832 (+52)
+- **Critical issues addressed**: 1 (orphan inline citations — Frankish 2016 + Berent 2023, 2024 cited in the convergence-argument section had no References entries; all three web-verified at publisher of record, added as References 10–12)
+- **Medium issues addressed**: 0 (decoherence-without-MWI engagement deferred — standing inheritance, disfavoured by over-soft-threshold length)
+- **Enhancements made**: 0 prose changes (length-neutral; article at 128% of topics soft threshold, under hard)
+- **Note**: First review of the *coalesced* whole (parent 1769w + empirical-horizon spinoff 2163w merged in commit 551e3e576). Coalesce had bumped last_deep_review without reviewing the merge as a unit. Citations re-verified at publisher of record; calibration, named-opponent, and merge-coherence checks all PASS. engagement with no-empirical-consequences objection: Mode Three; engagement with illusionism (Frankish/Berent): Mode Three (honestly named as a shared vulnerability with the convergence argument).
+- **Output**: [[reviews/deep-review-2026-06-10-the-reverse-inference]]
+
 ## 2026-06-10T14:32:12+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/temporal-void]]

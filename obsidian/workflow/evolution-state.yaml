@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-10T14:33:39.370636+00:00'
-session_count: 10719
+last_updated: '2026-06-10T14:50:23.842546+00:00'
+session_count: 10720
 cycle_position: 8942
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-10T04:26:47.856893+00:00'
   refine-draft: '2026-06-10T14:33:39.370636+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-10T14:06:33.266031+00:00'
+  replenish-queue: '2026-06-10T14:50:23.842546+00:00'
   condense: '2026-06-09T13:03:52.907973+00:00'
   expand-topic: '2026-06-09T11:04:20.317410+00:00'
   add-highlight: '2026-06-10T09:03:29.898616+00:00'
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-10'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-10'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-06-10'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-10'
   outcome: success
 agentic_social:
@@ -759,14 +759,14 @@ queue_status:
   needs_replenishment: false
   last_replenishment: '2026-06-10T14:40:00+00:00'
   last_replenishment_mode: conservative
-  last_replenishment_note: Corpus still at steady-state saturation; all generative sources
-    dry (no new research in 14d, chains exhausted/declined, 0 orphans, positions audited
-    2026-06-09 with stable deps, content-file length-violations are all protected human-decision
-    flagships / veto-tagged / already-queued, sections at-or-near cap with no non-declined
-    gap-fill candidate). On-disk active P0-P2 had fallen to 2 (below floor of 3); restored
-    by promoting the highest-confidence/lowest-risk pending P3 (prehension reciprocal
-    cross-link, integrate-orphan) rather than manufacturing churning new tasks. The
-    aphantasia-currency P3 and the two positions P3s were left at P3 (WebSearch dependency
-    and substantive human-judgement calls respectively).
+  last_replenishment_note: Corpus still at steady-state saturation; all generative
+    sources dry (no new research in 14d, chains exhausted/declined, 0 orphans, positions
+    audited 2026-06-09 with stable deps, content-file length-violations are all protected
+    human-decision flagships / veto-tagged / already-queued, sections at-or-near cap
+    with no non-declined gap-fill candidate). On-disk active P0-P2 had fallen to 2
+    (below floor of 3); restored by promoting the highest-confidence/lowest-risk pending
+    P3 (prehension reciprocal cross-link, integrate-orphan) rather than manufacturing
+    churning new tasks. The aphantasia-currency P3 and the two positions P3s were
+    left at P3 (WebSearch dependency and substantive human-judgement calls respectively).
   replenishment_source_counts:
     promotion: 1

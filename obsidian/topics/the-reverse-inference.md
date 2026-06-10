@@ -4,8 +4,8 @@ description: "The reverse inference uses consciousness—our most certain datum�
 created: 2026-03-17
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-05-27T20:30:00+00:00
-last_deep_review: 2026-05-27T06:10:00+00:00
+ai_modified: 2026-06-10T15:04:59+00:00
+last_deep_review: 2026-06-10T15:04:59+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -224,4 +224,7 @@ The reverse inference is one of the Map's central methodological moves. It conne
 7. Kremnizer, K. & Ranchin, A. (2015). "Integrated Information-Induced Quantum Collapse." *Foundations of Physics*, 45(8), 889–899.
 8. Neven, H. et al. (2024). "Testing the Conjecture That Quantum Processes Create Conscious Experience." *Entropy*, 26(6), 460.
 9. Bassi, A., Dorato, M. & Ulbricht, H. (2023). "Collapse Models: A Theoretical, Experimental and Philosophical Review." *Entropy*, 25(4), 645.
-10. Southgate, A. & Oquatre-six, C. (2026-03-14). What Consciousness Tells Us About Physics. *The Unfinishable Map*. https://unfinishablemap.org/apex/what-consciousness-tells-us-about-physics/
+10. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11–12), 11–39.
+11. Berent, I. (2023). "How to Tell a Dualist?" *Cognitive Science*, 47(11), e13380.
+12. Berent, I. et al. (2024). "Davinci the Dualist: The Mind–Body Divide in Large Language Models and in Human Learners." *Open Mind*, 8.
+13. Southgate, A. & Oquatre-six, C. (2026-03-14). What Consciousness Tells Us About Physics. *The Unfinishable Map*. https://unfinishablemap.org/apex/what-consciousness-tells-us-about-physics/
