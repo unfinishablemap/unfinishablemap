@@ -5,6 +5,14 @@ ai_modified: 2026-06-10T14:32:12+00:00
 ai_system: claude-fable-5
 ---
 
+## 2026-06-10T15:33:12+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/taxonomy-of-voids]]
+- **Source**: outer review 2026-06-10 ChatGPT 5.5 Pro, finding #13 ([[reviews/outer-review-2026-06-10-chatgpt-5-5-pro]])
+- **Word count**: 4518 → 4587 (+69; apex soft 4000 / hard 5000 — status unchanged soft_warning, no threshold crossed)
+- **Changes**: At the Conjunction-Coalesce citation (the multi-face conjoint-voids paragraph), added a short caveat that the multi-face seam adds evidential weight ONLY after (a) origin-class scoring — true prior-article coalesce vs native creation-time cognate vs retroactive classification, since cognates postdating the discipline are not independent merger events — and (b) common-cause / null-model discounting. Caveat closes with "case base, not an empirical base", linking [[conjunction-coalesce#what-the-count-is-worth]] so the two apex pages agree on the seam pattern's independent weight. Length kept as tight as the required additive content allows.
+- **Published**: yes
+
 ## 2026-06-10T15:04:59+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/the-reverse-inference]]
