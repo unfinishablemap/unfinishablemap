@@ -224,3 +224,46 @@
   subject_articles:
   - apex/conjunction-coalesce.md
   subject_source: reuse:pending-reviews:outer-review-2026-06-10-chatgpt-5-5-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/55feb042fd52f565
+  commissioned_at: '2026-06-10T04:26:01.740761+00:00'
+  prompt_summary: Hostile-referee audit of apex/conjunction-coalesce
+  target_filename: outer-review-2026-06-10-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (Mind, Synthese, Philosophical Studies) assessing an article for submission.
+    Your remit is to find weaknesses that would justify rejection or major revision.
+    The article is at https://unfinishablemap.org/apex/conjunction-coalesce/ (also
+    check https://unfinishablemap.org/workflow/changelog/ for context, as web indexing
+    lags 24-48h); it argues for keeping a visible "seam" when two structurally-conjoined
+    philosophical voids are merged, and the site defends a non-reductive view of consciousness.
+
+
+    Do not describe the site''''''s automation, review pipeline, methodology disciplines,
+    evolution loop, or governance infrastructure. Those are project-internal and not
+    the subject of audit. Assess only the article''''''s empirical claims, citations,
+    counterargument coverage, and logical inferences. Do not enumerate the site''''''s
+    tenets, and do not pre-frame the article as a useful testbed for any theory; discover
+    its commitments by reading it.
+
+
+    Audit: (a) empirical accuracy against 2020s literature; (b) any results it relies
+    on that have been challenged, retracted, or failed to replicate; (c) claims that
+    hold only because a contested premise is bracketed rather than defended; (d) untested
+    counterarguments or competing frameworks it ignores.
+
+
+    End your report with at least five specific weaknesses, each citing at least one
+    peer-reviewed 2020-2025 source the article omits, contradicts, or mishandles.
+    If you genuinely cannot find five, state why none are visible, though a careful
+    audit normally finds five. Close with a one-sentence verdict on academic-submission
+    readiness. Do not append summary praise of the site''''''s strengths, methodology,
+    or ambition.'
+  subject_type: recent
+  subject_title: Audit conjunction-coalesce
+  subject_articles:
+  - apex/conjunction-coalesce.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-10-chatgpt-5-5-pro.md
