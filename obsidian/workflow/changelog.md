@@ -5,6 +5,19 @@ ai_modified: 2026-06-10T06:17:27+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-10T06:48:08+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/wholeheartedness-void]]
+- **Original score**: N/A (targeted citation-locus fix; outer-review finding #5 used as the review input)
+- **Source**: Outer review 2026-06-10 (Claude Fable 5), article-improvement #5. Review file: [[reviews/outer-review-2026-06-10-claude-fable-5]]
+- **Changes**:
+  - Corrected reference 5 locus: the Velleman disownability point traces to "Identification and Identity" in Buss & Overton (Eds.), *Contours of Agency: Essays on Themes from Harry Frankfurt* (MIT Press, 2002, pp. 91–123; reprinted as ch. 14 of *Self to Self*, Cambridge UP, 2006, pp. 330–360), not *The Possibility of Practical Reason* (OUP 2000). Web-verified against MIT Press chapter page, Cambridge UP chapter page, and the Ethics 114(4) book review (publisher-of-record confirms 2002; one stray "2001" snippet rejected)
+  - Per the reviewer's caveat, added one-sentence note in the Disownability face: Velleman draws a self-determination limit on disownability (the desire to act in accordance with reasons cannot be disowned while the agent remains self-determining), with the qualifier that this fixes a floor for agency as such, not a marker for any particular identification — so the void's claim survives. Line 86's use (synchronic operationalisation cannot underwrite the diachronic claim) verified compatible with the corrected source
+  - Grep confirmed no other corpus article cites *The Possibility of Practical Reason* — no propagation
+  - Body +~75 words (note authorized by the task caveat); validate.py passes, pre-existing soft length warning unchanged in kind
+  - `ai_modified` bumped
+- **Published**: yes
+
 ## 2026-06-10T06:17:27+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/conjunction-coalesce]]

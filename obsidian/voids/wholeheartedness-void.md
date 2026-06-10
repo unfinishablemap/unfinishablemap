@@ -4,7 +4,7 @@ description: "From inside, consciousness cannot verify that a present identifica
 created: 2026-05-11
 modified: 2026-05-12
 human_modified: null
-ai_modified: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-06-10T06:48:08+00:00
 last_deep_review: 2026-06-05T00:00:00+00:00
 draft: false
 topics:
@@ -57,7 +57,7 @@ The arbitrariness is a structural feature of self-relation, not a defect of Fran
 
 ### Disownability (Occluded)
 
-J. David Velleman pressed a different point: it is always possible that an agent retrospectively *disowns* the mental attitudes that caused an action. If any motive can in principle be later disavowed — declared not really one's own, only operative on one — then identification is never structurally guaranteed at the time of action. At the time of action, consciousness has no marker distinguishing "an identification I will continue to endorse" from "one I will later disown." The forward-looking judgment of stability is performed by the same faculties whose neutrality is in question, and the test that would discriminate — survival across reflection — cannot be run in advance. Empirical work on retrospective revision of preference (Hsee & Hastie 2006 on impact bias and projection bias; Loewenstein, O'Donoghue & Rabin 2003 on hot-cold empathy gaps) shows systematic mismatch between present and future evaluations, invisible to present introspection.
+J. David Velleman pressed a different point: it is always possible that an agent retrospectively *disowns* the mental attitudes that caused an action. If any motive can in principle be later disavowed — declared not really one's own, only operative on one — then identification is never structurally guaranteed at the time of action. At the time of action, consciousness has no marker distinguishing "an identification I will continue to endorse" from "one I will later disown." Velleman himself draws a limit on the disownability he presses against Frankfurt's hierarchical attitudes: on his view the desire to act in accordance with reasons cannot be disowned while the agent remains self-determining, so one motive escapes the disavowal that threatens all the others — though that limit fixes a floor for agency as such, not a marker for any *particular* identification. The forward-looking judgment of stability is performed by the same faculties whose neutrality is in question, and the test that would discriminate — survival across reflection — cannot be run in advance. Empirical work on retrospective revision of preference (Hsee & Hastie 2006 on impact bias and projection bias; Loewenstein, O'Donoghue & Rabin 2003 on hot-cold empathy gaps) shows systematic mismatch between present and future evaluations, invisible to present introspection.
 
 The disownability face dovetails with the [[interested-party-void|interested-party void]]: consciousness has standing stakes in whether *this present commitment* is "really mine," so introspective verdicts about identification cannot be neutral. It is *Occluded* — the relevant fact (will I disown this?) exists and shapes outcomes, but the system whose limits it sets cannot perceive those limits while they operate.
 
@@ -113,7 +113,7 @@ The void is methodologically apophatic per [[evidential-status-discipline]]: its
 2. Frankfurt, H.G. (1987). Identification and wholeheartedness. In F.D. Schoeman (Ed.), *Responsibility, Character, and the Emotions*. Cambridge University Press.
 3. Frankfurt, H.G. (1988). *The Importance of What We Care About*. Cambridge University Press.
 4. Watson, G. (1975). Free agency. *The Journal of Philosophy*, 72(8), 205–220.
-5. Velleman, J.D. (2000). *The Possibility of Practical Reason*. Oxford University Press.
+5. Velleman, J.D. (2002). Identification and identity. In S. Buss & L. Overton (Eds.), *Contours of Agency: Essays on Themes from Harry Frankfurt* (pp. 91–123). MIT Press. Reprinted in *Self to Self: Selected Essays* (pp. 330–360). Cambridge University Press, 2006.
 6. Bratman, M.E. (2007). *Structures of Agency*. Oxford University Press.
 7. Brogaard, B., & Gatzia, D.E. (Eds.) (2020). *The Philosophy and Psychology of Ambivalence: Being of Two Minds*. Routledge.
 8. Sartre, J.-P. (1943/1956). *Being and Nothingness*. Trans. H.E. Barnes. Philosophical Library.

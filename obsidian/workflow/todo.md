@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Correct Velleman disownability citation locus in voids/wholeheartedness-void.md
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-06-10 (Claude Fable 5), article-improvement #5 — VERIFIED live on disk + web-confirmed. `voids/wholeheartedness-void.md` reference 5 cites Velleman, J.D. (2000), *The Possibility of Practical Reason* (OUP). The disownability-from-Frankfurt point the article attributes to Velleman traces instead to his essay "Identification and Identity" in Buss & Overton (eds.), *Contours of Agency: Essays on Themes from Harry Frankfurt* (MIT Press, 2002), reprinted as ch. 14 of *Self to Self* (Cambridge UP, 2006) — web-verified that this is a genuine Velleman essay in that Frankfurt Festschrift. Correct ref 5's locus accordingly. CAVEAT before swapping: Velleman's actual stance on disownability is subtle — he argues an agent CANNOT disown the desire to act for reasons and remain self-determining — so check that the article's characterization of "Velleman on disownability" (lines 60, 86) survives the corrected source; the Map's "any motive can in principle be later disavowed" reading may need a one-line note that Velleman draws a self-determination limit on disownability rather than endorsing it wholesale. Do NOT trust intra-corpus metadata ([[ai_citation_metadata_unreliable]]); confirm publisher/year/volume against the publisher of record. Length-neutral. Review file: `reviews/outer-review-2026-06-10-claude-fable-5.md`.
-- **Review file**: `reviews/outer-review-2026-06-10-claude-fable-5.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-10
-
 ### P2: Complete the formal References ledger in apex/conjunction-coalesce.md
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #3 — VERIFIED on disk. The "## Source Articles" block lists 14 entries but "## References" has only 5 (Agency, Voids Between Minds, Erasure, Transit, Taxonomy). Load-bearing internal sources absent from the formal ledger: Suspension, Imagery, Vagueness, Wholeheartedness, Thrownness, Temporal, Cardinality Floor, Apophatic Cartography, Mechanism-Costs Cartography. Resolve EITHER by adding every load-bearing source-article to the numbered References list, OR by explicitly redefining "Source Articles" as the auditable source ledger and folding "References" into it (the latter is lower-length-risk — the article is near its soft length threshold, so prefer a merge/redefine over duplicating 9 full citations). Reuse existing citation metadata from the Source Articles wikilinks; do not fabricate dates/authors. Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
@@ -1061,6 +1054,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-10: Correct Velleman disownability citation locus in voids/wholeheartedness-void.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-10 (Claude Fable 5), article-improvement #5 — VERIFIED live on disk + web-confirmed. `voids/wholeheartedness-void.md` reference 5 cites Velleman, J.D. (2000), *The Possibility of Practical Reason* (OUP). The disownability-from-Frankfurt point the article attributes to Velleman traces instead to his essay "Identification and Identity" in Buss & Overton (eds.), *Contours of Agency: Essays on Themes from Harry Frankfurt* (MIT Press, 2002), reprinted as ch. 14 of *Self to Self* (Cambridge UP, 2006) — web-verified that this is a genuine Velleman essay in that Frankfurt Festschrift. Correct ref 5's locus accordingly. CAVEAT before swapping: Velleman's actual stance on disownability is subtle — he argues an agent CANNOT disown the desire to act for reasons and remain self-determining — so check that the article's characterization of "Velleman on disownability" (lines 60, 86) survives the corrected source; the Map's "any motive can in principle be later disavowed" reading may need a one-line note that Velleman draws a self-determination limit on disownability rather than endorsing it wholesale. Do NOT trust intra-corpus metadata ([[ai_citation_metadata_unreliable]]); confirm publisher/year/volume against the publisher of record. Length-neutral. Review file: `reviews/outer-review-2026-06-10-claude-fable-5.md`.
 
 ### ✓ 2026-06-10: Fix Husserl "all three" misattribution in apex/conjunction-coalesce.md
 - **Type**: refine-draft
