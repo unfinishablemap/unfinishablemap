@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-06-03 11:09:45+00:00
+ai_modified: 2026-06-10 01:52:09+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -29,6 +29,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[voids]]'
+- '[[mapping-mind-space]]'
 - '[[indexical-identity-quantum-measurement]]'
 - '[[self-opacity]]'
 - '[[voids-between-minds]]'

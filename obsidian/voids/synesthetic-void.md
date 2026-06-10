@@ -14,6 +14,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
+  - "[[mapping-mind-space]]"
   - "[[taxonomy-of-voids]]"
   - "[[phenomenology-vs-function-axis]]"
   - "[[affective-void]]"
@@ -35,7 +36,7 @@ ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-24
 last_curated:
 last_deep_review: 2026-06-03T04:19:12+00:00
-ai_modified: 2026-06-03T04:19:12+00:00
+ai_modified: 2026-06-10T01:52:09+00:00
 ---
 
 [[synaesthesia|Synesthesia]]—the involuntary experience of one sensory modality when another is stimulated—reveals that humans do not share the same experiential palette. Some minds perceive colours when hearing sounds, shapes when tasting food, or spatial arrangements when reading calendars. A few synesthetes report "Martian colours" that cannot be matched to any sample in the visible spectrum. The synesthetic void marks this territory: a gap in phenomenal access that exists not between humans and hypothetical aliens, but between humans and other humans. It is the other minds problem made concrete within a single species.

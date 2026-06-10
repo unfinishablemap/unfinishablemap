@@ -4,7 +4,7 @@ description: "Why, of all conscious beings, am *I* this one? The vertiginous que
 created: 2026-01-26
 modified: 2026-05-31
 human_modified:
-ai_modified: 2026-06-03T11:09:45+00:00
+ai_modified: 2026-06-10T01:52:09+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[voids]]"
+  - "[[mapping-mind-space]]"
   - "[[indexical-identity-quantum-measurement]]"
   - "[[self-opacity]]"
   - "[[voids-between-minds]]"

@@ -4,7 +4,7 @@ description: "What consciousness encounters at its cognitive boundaries—ineffa
 created: 2026-01-19
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-06-05T12:30:00+00:00
+ai_modified: 2026-06-10T01:52:09+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,6 +21,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
+  - "[[mapping-mind-space]]"
   - "[[apophatic-approaches]]"
   - "[[thought-stream-void]]"
   - "[[noetic-feelings-void]]"
