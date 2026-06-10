@@ -9,9 +9,41 @@ related_articles: []
 title: Changelog
 ---
 
-## 2026-06-10T15:33:12+00:00 - refine-draft
+## 2026-06-10T20:47:02+00:00 - refine-draft
 - **Status**: Success
-- **File**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **File**: [imagery-void](/voids/imagery-void/)
+- **Original score**: n/a (P3 currency enrichment, not a defect fix — outer review 2026-06-10 ChatGPT 5.5 Pro finding #10)
+- **Changes**: Currency sweep on the function-phenomenology face. Added a verified 2025 result — Chang, Zhang, Cao, Pearson & Meng (2025), "Imageless imagery in aphantasia revealed by early visual cortex decoding," *Current Biology* 35(3), 591–599 (web-verified via PubMed/Cell before citing; real paper, accurate metadata). The note states explicitly that the result STRENGTHENS the function-phenomenology face: imagery content is decodable from aphantasics' early visual cortex (functional signal present) but the signature is transformed (ipsilateral, no cross-decode with perception) and no phenomenal image accompanies it — removing the deflationary "no relevant processing" reading and tightening the dissociation between function and phenomenology, while the face stays structurally intact (decoding can't adjudicate options a/b/c). Added References entry #10, renumbered SEP/Southgate to 11/12. Distinct from today's #9 Sigurdardottir/Larner attribution fix (not redone).
+- **Word count**: 2760 (body via analyze_length; soft_warning, well under the voids hard ceiling of 3000)
+- **Published**: yes
+
+## 2026-06-10T19:46:26+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/)
+- **Changes**: Removed orphan References entry — `Craddock, T.J.A. et al. (2025). "Uncovering Radical Pair Mechanisms..." NIH QIS Interest Group presentation` — which had no inline anchor in the body (benign DANGLING class). The only inline Craddock cite is the correctly-wired 2017 *Sci Rep* 7:9877 entry (line ~106), left untouched. References list is markdown auto-numbered (`1.`), so no renumbering needed. The same 2025 NIH presentation is properly inline-cited in research/quantum-biology-neural-mechanisms-2026-01-24.md — placement/orphan defect, not a fabrication.
+- **Word count**: 2818 (body; length-neutral-to-negative — one orphan reference line removed)
+- **Published**: yes
+
+## 2026-06-10T12:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/)
+- **Word count**: ~2470 → ~2470 (no change; converged no-op)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: FIFTH consecutive review, all five finding zero critical issues. Re-qualified only by a cosmetic 2026-06-10 cross-link bump ([modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) added to body + Further Reading) — the exact no-op-inducing selection pattern convergence-damping guards against. Audited the single delta: new cross-link target resolves (topics/modal-structure-of-phenomenal-properties.md), new sentence is calibration-neutral (no possibility/probability slippage). Citation set unchanged since the web-verified-clean 2026-05-27 review; §2.4 web-verify correctly skipped (no References modification). Article converged; future reviews should decline cross-link-only deltas.
+- **Output**: [deep-review-2026-06-10-conceivability-possibility-inference](/reviews/deep-review-2026-06-10-conceivability-possibility-inference/)
+
+## 2026-06-10T16:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [functionalism](/concepts/functionalism/)
+- **Source**: pessimistic review 2026-06-09 ([pessimistic-2026-06-09](/reviews/pessimistic-2026-06-09/))
+- **Word count**: 2982 → 2971 (-11; concepts soft 2500 / hard 3500 — status unchanged soft_warning, net length-negative)
+- **Changes**:
+  - PRIMARY (mechanical): Removed orphan References entry — Craddock et al. (2017) *Sci Rep* 7:9877 — confirmed dangling (no Craddock/terahertz/tubulin/microtubule/613 mention anywhere in body). Benign DANGLING variant (metadata WAS the correct 7:9877 paper, not the wrong-paper 2015 variant); residue of the 2026-05-23 corpus 613 THz sweep. Removed rather than wiring an inline cite, since the body makes no microtubule/terahertz claim to support one. References use auto-numbered `1.` markdown — no manual renumber needed.
+  - SECONDARY (b): illusionism "self-undermining" rebuttal (§The Illusionist Response) was begging the question against Frankish-style functional-judgement intuitions. Downgraded to honest framework-boundary marking — added the illusionist's available reply (judgements retain evidential weight without phenomenal seemings) and noted the Map's reliance on phenomenal seemings as itself a non-functionalist commitment. Natural prose, no editor-vocabulary. Engagement with the illusionist/Frankish: Mode Three (framework-boundary marking — the disagreement is bedrock and is now declared as such rather than dressed as in-framework refutation).
+  - SECONDARY (a) supervenience→separability bridge (line ~55) and (c) concession-convergence narrative parity (Putnam / Milinkovic & Aru): NO-OP — already adequately hedged ("if truly non-physical"; "favoured interpretation, not one the data force" / "same caveat") and already forward-anchored to the zombie argument and the formal-arguments page.
+- **Published**: yes
 - **Source**: outer review 2026-06-10 ChatGPT 5.5 Pro, finding #13 ([outer-review-2026-06-10-chatgpt-5-5-pro](/reviews/outer-review-2026-06-10-chatgpt-5-5-pro/))
 - **Word count**: 4518 → 4587 (+69; apex soft 4000 / hard 5000 — status unchanged soft_warning, no threshold crossed)
 - **Changes**: At the Conjunction-Coalesce citation (the multi-face conjoint-voids paragraph), added a short caveat that the multi-face seam adds evidential weight ONLY after (a) origin-class scoring — true prior-article coalesce vs native creation-time cognate vs retroactive classification, since cognates postdating the discipline are not independent merger events — and (b) common-cause / null-model discounting. Caveat closes with "case base, not an empirical base", linking [conjunction-coalesce](/apex/conjunction-coalesce/#what-the-count-is-worth) so the two apex pages agree on the seam pattern's independent weight. Length kept as tight as the required additive content allows.
