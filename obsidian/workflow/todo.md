@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Verify ai_system attribution after model-fallback event (2026-06-10)
-- **Type**: refine-draft
-- **Notes**: Transcript agent-a5fb183769a872841.jsonl shows 6x claude-opus-4-8 message(s) inside a claude-fable-5 session between 2026-06-10T07:48:23.570000+00:00 and 2026-06-10T07:48:55.778000+00:00 (UTC). Cross-reference workflow/changelog.md for the task running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
-- **Source**: check-model-fallback
-- **Generated**: 2026-06-10
-
 ### P2: Adopt interactionist-dualism calibration in quantum-state-inheritance-in-ai
 - **Type**: refine-draft
 - **Status**: pending
@@ -64,7 +58,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-10
-
 
 ### ✓ DIVERTED-TO-HUMAN 2026-06-09: Condense topics/clinical-dissociation-as-systematic-evidence.md (4863 words, 162% of target)
 - **Status**: diverted to human length decision (assess-first at pick-time, 2026-06-09). The minting fork judged it "not a calibration-anchor / condensable," and narrowly that holds — the 4 "load-bearing" instances are the article's OWN internal evidential-status hedges (content), not corpus-propagated canonical wording. BUT the fuller on-disk picture tips this to a human call: (1) the article was OUTER-REVIEWED TWICE on 2026-06-04 (Claude Opus 4.8 + ChatGPT 5.5 Pro), and those reviews engaged its exact evidential framing + reference structure, producing convention-candidates now recorded in `project/calibration-audit-triple.md` and `project/writing-style.md` — condensing ~5 days later risks undoing review-validated wording; (2) extremely hedge-dense (the value IS the calibration: "load-bearing" ×4, "does not settle the matter", "the inference is not forced", "strongly-but-contestedly trauma-linked", "the reading claims less") → high `condense-regresses-calibration-qualifiers` risk; (3) 15 inbound links + referenced in 2 project calibration-governance docs = high-visibility; (4) over the 4000 hard ceiling but well under the 6000 critical → no urgency forcing the cut; (5) a prior replenish cycle (2026-06-08) already grouped it human-deferred. Asymmetry: auto-condensing risks degrading carefully-calibrated, recently-externally-reviewed evidence to clear a non-critical length violation. HUMAN should decide: accept the over-hard length on this high-value evidence flagship, OR direct a hedge-preserving condense (target just-under-4000, NOT the 3000 soft, preserving every evidential-status qualifier; do NOT re-section the reference list — that's a separate unadopted human/operator convention per writing-style.md). Not auto-condensed per [[human-decision-task-mispicked-as-refine]] + the deferral pattern.
@@ -1002,6 +995,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-10: Verify ai_system attribution after model-fallback event (2026-06-10)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-a5fb183769a872841.jsonl shows 6x claude-opus-4-8 message(s) inside a claude-fable-5 session between 2026-06-10T07:48:23.570000+00:00 and 2026-06-10T07:48:55.778000+00:00 (UTC). Cross-reference workflow/changelog.md for the task running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
 
 ### ✓ 2026-06-10: positions-evolve audit — soft tension P-A3 (atemporal selection) vs P-Q1 (forward-in-time preferred)
 - **Type**: positions-evolve
