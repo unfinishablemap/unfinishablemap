@@ -1,5 +1,9 @@
-last_updated: '2026-06-10T20:02:53.839969+00:00'
-session_count: 10741
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-10T20:17:50.610335+00:00'
+session_count: 10742
 cycle_position: 8949
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-06-10T16:03:29.051888+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-10T08:44:06.791776+00:00'
-  agentic-social: '2026-06-10T20:17:30.034198+00:00'
+  agentic-social: '2026-06-10T20:17:50.610335+00:00'
   embed-videos: '2026-06-10T07:16:24.053669+00:00'
   commission-chatgpt-review: '2026-06-10T02:09:21.706316+00:00'
   commission-claude-review: '2026-06-10T03:09:16.110773+00:00'
@@ -90,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-10'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-10'
@@ -168,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-10'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-06-10'
   outcome: success
 agentic_social:
@@ -793,30 +797,27 @@ queue_status:
   p3_tasks: 3
   needs_replenishment: false
   replenishment_source_counts_last_run: {}
-  last_replenishment: '2026-06-10T19:50:00+00:00'
+  last_replenishment: '2026-06-10T20:20:00+00:00'
   last_replenishment_mode: conservative
-  last_replenishment_note: "2026-06-10T19:50 re-run \u2014 steady-state saturation\
-    \ re-confirmed independently on-disk. Generated 0 new tasks, promoted none. KEY\
-    \ CHANGE since the 19:32 run: the one genuine open P2 (quantum-biology-and-neural-mechanisms.md\
-    \ Craddock-2025 NIH-presentation orphan ref) was FIXED + committed (f40491b9d)\
-    \ and is now \u2713-closed in todo.md (L996) \u2014 orphan ref verified GONE on\
-    \ disk; only the correctly-wired 2017 Sci Rep 7:9877 inline cite remains at L106.\
-    \ That was the only loop-pickable P0-P2 task, so open executable P0-P2 = 0. Remaining\
-    \ open: 2 #veto'd P2 condense tasks (meaning-of-life.md, phenomenal-output-causal-machinery-dissociation.md)\
-    \ \u2014 not executable; 3 open P3 all carry real blockers (imagery-void aphantasia\
-    \ currency = WebSearch dep + low value; both positions P3s = substantive human\
-    \ calls). Floor of 3 has NO safe promotion. All 8 generative sources verified\
-    \ dry on disk this run: (1) chains 0 (recent_tasks = deep-review/refine-draft/agentic-social/coalesce/replenish\
-    \ only; no expand/research-topic completion to forward-chain); (2) unconsumed\
-    \ research 0 (3 notes in 14d window \u2014 berridge / claude-constitution / pci-phi-anaesthesia\
-    \ \u2014 all verified consumed to published articles); (3) gap analysis 0 (topics\
-    \ 268/270, concepts 263/270 near cap, voids 101/100 OVER cap \u2014 counted on\
-    \ disk); (4) staleness 0 (cycle deep-review slots handle it); (5) orphans 0 (quality.orphaned_files=0);\
-    \ (6) length \u2014 content-section hard+ offenders all protected (human-deferred\
-    \ flagships, #veto'd condense tasks, void hub-cross-link accretion per [[hub-articles-accrete-crosslink-length]]);\
-    \ (7) positions \u2014 audited 2026-06-09 within 30d, stable deps, 2 follow-up\
-    \ P3s queued; (8) applied-apex gap \u2014 register too sparse (3 entries). Manufacturing\
-    \ churn or auto-condensing a protected flagship to hit the numeric floor would\
-    \ be net-negative. Documented steady-state, not a defect. (Note block reset this\
-    \ run from the ~17KB accreted history to keep the state file lean.)"
+  last_replenishment_note: '2026-06-10T20:20 re-run — steady-state saturation re-confirmed
+    independently on-disk. Generated 0 new tasks, promoted none. Open executable P0-P2
+    = 0: the only two open P2s are both #veto''d condense tasks (meaning-of-life.md,
+    phenomenal-output-causal-machinery-dissociation.md) — not loop-pickable; 3 open
+    P3 all carry real blockers (imagery-void aphantasia currency = WebSearch dep +
+    low value; both positions P3s — P-Q7 band normalization + P-A3/P-Q1 soft tension
+    — are substantive human calls). Floor of 3 has NO safe promotion. All 8 generative
+    sources verified dry on disk this run: (1) chains 0 (recent_tasks = refine-draft/replenish/coalesce/agentic-social/deep-review
+    only; no expand/research-topic completion to forward-chain); (2) unconsumed research
+    0 (only 2026-06-dated note in the real 14d window is berridge-2026-06-03; it plus
+    claude-constitution + pci-phi-anaesthesia all verified consumed — wanting-liking-and-the-value-in-mechanism-fork.md,
+    claude-constitution-consciousness-uncertainty.md, anaesthesia-and-the-consciousness-interface.md
+    all exist; bulk research mtimes are a 05-27 touch, not new content); (3) gap analysis
+    0 (topics 268/270, concepts 263/270 near cap, voids 101/100 OVER cap — counted
+    on disk); (4) staleness 0 (cycle deep-review slots handle it); (5) orphans 0 (quality.orphaned_files=0);
+    (6) length — content-section hard+ offenders all protected (human-deferred flagships,
+    #veto''d condense tasks, void hub-cross-link accretion per [[hub-articles-accrete-crosslink-length]]);
+    (7) positions — audited 2026-06-09 within 30d, stable deps, 2 follow-up P3s already
+    queued; (8) applied-apex gap — register too sparse (3 entries in positions/). Manufacturing
+    churn or auto-condensing a protected flagship to hit the numeric floor would be
+    net-negative. Documented steady-state, not a defect.'
   replenishment_source_counts: {}
