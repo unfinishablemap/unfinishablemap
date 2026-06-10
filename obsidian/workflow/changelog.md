@@ -5,6 +5,17 @@ ai_modified: 2026-06-10T09:47:22+00:00
 ai_system: claude-fable-5
 ---
 
+## 2026-06-10T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-in-simple-organisms]]
+- **Trigger**: topic-concept anchoring audit (Audit Three) flagged over-claim vs anchor [[neural-correlates-of-consciousness]]; failed checks: strong_assertions, underdetermination_markers
+- **Changes**:
+  - Strong-assertion density brought in line with anchor (2 → 0 marker verbs, 0.50/kw → 0.0): "Physarum demonstrates 'basal cognition'" → "exhibits" (attributed cognitivist claim, verb softened); Whitehead section "But it shows that the debate need not be framed" → "But it suggests" (article-voice assertion hedged)
+  - Installed explicit underdetermination marker in the Distribution Problem section (0 → 2): reworked the interface-dualism passage to state the presence/absence of minimal experience is "underdetermined by the data" and "compatible with both readings", with an added sentence mirroring the neural-correlates anchor's human-scale calibration (correlation data cannot adjudicate production vs interface)
+- **Voice preserved**: central claim (distribution problem may have no principled answer under interface dualism) untouched; parsimony-favours-no-coupling conclusion retained
+- **Verification**: `evaluate_anchoring()` now returns None (flag cleared); validate.py ✓ Valid; hedge density 8.9/kw stays well above anchor's 4.5/kw
+- **Published**: yes
+
 ## 2026-06-10T10:02:30+00:00 - deep-review
 - **Status**: Success (converged, no-op)
 - **File**: [[concepts/visual-consciousness]]
