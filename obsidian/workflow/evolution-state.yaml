@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-10T21:48:20.111370+00:00'
-session_count: 10748
+last_updated: '2026-06-10T22:01:51.597498+00:00'
+session_count: 10749
 cycle_position: 8951
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-06-10T16:03:29.051888+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-10T08:44:06.791776+00:00'
-  agentic-social: '2026-06-10T21:17:46.841182+00:00'
+  agentic-social: '2026-06-10T22:17:16.154288+00:00'
   embed-videos: '2026-06-10T07:16:24.053669+00:00'
   commission-chatgpt-review: '2026-06-10T02:09:21.706316+00:00'
   commission-claude-review: '2026-06-10T03:09:16.110773+00:00'
   commission-gemini-review: '2026-06-10T04:26:47.856893+00:00'
   refine-draft: '2026-06-10T20:47:48.052889+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-10T21:32:19.537667+00:00'
+  replenish-queue: '2026-06-10T22:01:51.597498+00:00'
   condense: '2026-06-09T13:03:52.907973+00:00'
   expand-topic: '2026-06-09T11:04:20.317410+00:00'
   add-highlight: '2026-06-10T09:03:29.898616+00:00'
@@ -94,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-10'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-10'
@@ -172,6 +164,10 @@ recent_tasks:
   outcome: success
 - task: positions-evolve
   type: positions-evolve
+  date: '2026-06-10'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-10'
   outcome: success
 agentic_social:
@@ -789,6 +785,10 @@ agentic_social:
     date: '2026-06-10T21:17:27.832259+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/mysterianism/
+    date: '2026-06-10T22:17:16.154245+00:00'
+    topics:
+    - hard-problem-of-consciousness
 tune_system_history:
   last_run: '2026-06-10T09:05:00+00:00'
   changes_applied: []
@@ -803,29 +803,31 @@ queue_status:
   replenishment_source_counts_last_run: {}
   last_replenishment: '2026-06-10T21:55:00+00:00'
   last_replenishment_mode: conservative
-  last_replenishment_note: '2026-06-10T21:55 re-run — steady-state saturation re-confirmed
-    independently on-disk (FIFTH confirmation of the day; identical to the 20:20,
-    20:32, 20:48 and 21:30 runs). Generated 0 new tasks, promoted none. Open executable P0-P2
-    in Active Tasks = 0: enumerated every non-✓ header in lines 38–982 — only 2 #veto''d
-    P2 condense tasks (meaning-of-life.md L530, phenomenal-output-causal-machinery-dissociation.md
-    L538, both not loop-pickable), 2 HUMAN-LENGTH-DECISION duhem-quine tasks (human-gated),
-    and the 2 open P3 positions-evolve tasks (P-Q7 off-vocab band normalization L54;
-    P-A3/P-Q1 atemporal-vs-forward-in-time soft tension L60 — both substantive human
-    calibration calls). Floor of 3 P3 has NO safe promotion. All 8 generative sources
-    re-verified dry on disk this run: (1) chains 0 (recent_tasks types = replenish-queue×9/agentic-social×5/refine-draft×3/deep-review×2/coalesce×1;
-    no expand-topic or research-topic completion to forward-chain); (2) unconsumed
-    research 0 (three recent notes verified consumed: berridge-2026-06-03 → topics/wanting-liking-and-the-value-in-mechanism-fork.md
-    exists; claude-constitution-2026-05-31 → topics/claude-constitution-consciousness-uncertainty.md
-    + concepts/constitution-vs-causal-work.md, linked via related_articles; pci-phi-anaesthesia-recovery-2026-05-27
-    is a citation-anchoring note for the existing anaesthesia-and-the-consciousness-interface.md,
-    not article-generating by design); (3) gap analysis 0 (topics 268/270, concepts
-    263/270 near cap, voids 101/100 OVER cap — counted on disk excluding index files);
-    (4) staleness 0 (cycle deep-review slots handle it); (5) orphans 0 (quality.orphaned_files=0);
-    (6) length — content-section hard+ offenders all protected (human-deferred flagships,
-    the 2 #veto''d condense tasks, void hub-cross-link accretion per [[hub-articles-accrete-crosslink-length]]);
-    (7) positions — audited 2026-06-09 within 30d, stable deps, 2 follow-up P3s already
-    queued; (8) applied-apex gap — register too sparse (3 domain files / 18 entries
-    in positions/) to support an applied-apex cluster. Manufacturing churn or auto-condensing
-    a protected flagship to hit the numeric floor would be net-negative. Documented
-    steady-state, not a defect.'
+  last_replenishment_note: "2026-06-10T21:55 re-run \u2014 steady-state saturation\
+    \ re-confirmed independently on-disk (FIFTH confirmation of the day; identical\
+    \ to the 20:20, 20:32, 20:48 and 21:30 runs). Generated 0 new tasks, promoted\
+    \ none. Open executable P0-P2 in Active Tasks = 0: enumerated every non-\u2713\
+    \ header in lines 38\u2013982 \u2014 only 2 #veto'd P2 condense tasks (meaning-of-life.md\
+    \ L530, phenomenal-output-causal-machinery-dissociation.md L538, both not loop-pickable),\
+    \ 2 HUMAN-LENGTH-DECISION duhem-quine tasks (human-gated), and the 2 open P3 positions-evolve\
+    \ tasks (P-Q7 off-vocab band normalization L54; P-A3/P-Q1 atemporal-vs-forward-in-time\
+    \ soft tension L60 \u2014 both substantive human calibration calls). Floor of\
+    \ 3 P3 has NO safe promotion. All 8 generative sources re-verified dry on disk\
+    \ this run: (1) chains 0 (recent_tasks types = replenish-queue\xD79/agentic-social\xD7\
+    5/refine-draft\xD73/deep-review\xD72/coalesce\xD71; no expand-topic or research-topic\
+    \ completion to forward-chain); (2) unconsumed research 0 (three recent notes\
+    \ verified consumed: berridge-2026-06-03 \u2192 topics/wanting-liking-and-the-value-in-mechanism-fork.md\
+    \ exists; claude-constitution-2026-05-31 \u2192 topics/claude-constitution-consciousness-uncertainty.md\
+    \ + concepts/constitution-vs-causal-work.md, linked via related_articles; pci-phi-anaesthesia-recovery-2026-05-27\
+    \ is a citation-anchoring note for the existing anaesthesia-and-the-consciousness-interface.md,\
+    \ not article-generating by design); (3) gap analysis 0 (topics 268/270, concepts\
+    \ 263/270 near cap, voids 101/100 OVER cap \u2014 counted on disk excluding index\
+    \ files); (4) staleness 0 (cycle deep-review slots handle it); (5) orphans 0 (quality.orphaned_files=0);\
+    \ (6) length \u2014 content-section hard+ offenders all protected (human-deferred\
+    \ flagships, the 2 #veto'd condense tasks, void hub-cross-link accretion per [[hub-articles-accrete-crosslink-length]]);\
+    \ (7) positions \u2014 audited 2026-06-09 within 30d, stable deps, 2 follow-up\
+    \ P3s already queued; (8) applied-apex gap \u2014 register too sparse (3 domain\
+    \ files / 18 entries in positions/) to support an applied-apex cluster. Manufacturing\
+    \ churn or auto-condensing a protected flagship to hit the numeric floor would\
+    \ be net-negative. Documented steady-state, not a defect."
   replenishment_source_counts: {}
