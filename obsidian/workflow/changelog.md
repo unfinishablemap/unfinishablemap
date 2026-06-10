@@ -7,6 +7,15 @@ ai_system: claude-fable-5
 
 ## 2026-06-10T00:00:00+00:00 - refine-draft
 - **Status**: Success
+- **File**: [[voids/imagery-void]] + [[voids/erasure-void]]
+- **Source**: outer review 2026-06-10 (ChatGPT 5.5 Pro), findings #9 + #11
+- **Changes (imagery-void, #9)**: WEB-VERIFIED the "Larner 2024" citation against the live literature. 3-state diagnosis: **real-paper-wrong-attribution**. Larner, Leff & Nachev (2024, *Neurosci Biobehav Rev* 164:105819) is a real paper but is a *conceptual/VVIQ-critique* review (unvalidated instruments, perceptual-vs-mental-image confusion) — it does NOT establish the "vividness independent of perceptual and memory precision" empirical claim. That empirical finding belongs to a separate paper: Sigurdardottir et al. (2025), "Visual imagery vividness appears to be independent of perceptual and memory precision" (PsyArXiv, doi 10.31234/osf.io/ahtsd). Separated the two cites: empirical claim now attributed to Sigurdardottir et al. 2025; Larner et al. 2024 retained for its actual VVIQ-critique contribution, with corrected full author list. Added the preprint to References (renumbered 6–11). Length-neutral.
+- **Changes (erasure-void, #11)**: Added a one-line boundary caveat to the Dunning-Kruger "everyday analogue" — noting the dual-burden metacognitive reading is contested (regression-to-mean + better-than-average artifact accounts; Nuhfer et al. 2017, Gignac & Zajenkowski 2020), framing the analogy as a suggestive everyday structure rather than a settled equivalent of clinical anosognosia. Kept the example. Added both cites to References (renumbered). Length-neutral.
+- **Both**: voice/calibration preserved; bumped ai_modified on both files.
+- **Published**: yes
+
+## 2026-06-10T00:00:00+00:00 - refine-draft
+- **Status**: Success
 - **File**: [[voids/thrownness-void]]
 - **Source**: outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #7
 - **Changes**: Applied option (b) — added a short note in the "Phenomenological reduction" approach distinguishing thrownness's Husserlian grounding (the reduction's bracketing of the natural attitude) from the retention-protention internal-time-consciousness analysis that grounds its temporal-cluster siblings (transit-void, temporal-void). Clarifies that thrownness's founding-moment-inaccessibility theme (Heidegger's Geworfenheit) is adjacent to but not identical with the moment-to-moment flow structure of retention/protention, and that its cluster membership rests on the shared self-witnessing-failure shape, not a shared retention-protention literature. Did not manufacture retention/protention phenomenology (the body genuinely grounds Husserl use in bracketing). Length-neutral, voice/calibration preserved; bumped ai_modified.
