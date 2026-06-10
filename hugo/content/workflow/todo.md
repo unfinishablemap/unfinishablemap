@@ -38,67 +38,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Verify ai_system attribution after model-fallback event (2026-06-10)
-- **Type**: refine-draft
-- **Notes**: Transcript agent-adb9c0a79000e9c9b.jsonl shows 7x claude-opus-4-8 message(s) inside a claude-fable-5 session between 2026-06-10T06:32:02.275000+00:00 and 2026-06-10T06:32:25.573000+00:00 (UTC). Cross-reference workflow/changelog.md for the task running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
-- **Source**: check-model-fallback
-- **Generated**: 2026-06-10
-
-### P2: Verify ai_system attribution after model-fallback event (2026-06-10)
-- **Type**: refine-draft
-- **Notes**: Transcript agent-a9c8c72bdf426348e.jsonl shows 17x claude-opus-4-8 message(s) inside a claude-fable-5 session between 2026-06-09T18:48:44.620000+00:00 and 2026-06-09T18:51:08.035000+00:00 (UTC). Cross-reference workflow/changelog.md for the task running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
-- **Source**: check-model-fallback
-- **Generated**: 2026-06-10
-
-### P2: Adopt neural-correlates-of-consciousness calibration in consciousness-in-simple-organisms
+### P2: Reconcile "primary candidate site" hedge in decision-void
 - **Type**: refine-draft
 - **Status**: pending
-- **File**: obsidian/topics/consciousness-in-simple-organisms.md
-- **Notes**: From topic-concept anchoring audit 2026-06-10. The topic article over-claims relative to its anchor concept [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/); failed checks: strong_assertions, underdetermination_markers.
-  - topic uses 2 strong-assertion verbs (0.50/kw) where anchor uses none; absolute allowance is 0.5/kw
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-10
-
-### P2: Adopt mental-causation-and-downward-causation calibration in empirical-phenomena-mental-causation
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/empirical-phenomena-mental-causation.md
-- **Notes**: From topic-concept anchoring audit 2026-06-10. The topic article over-claims relative to its anchor concept [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/); failed checks: strong_assertions, underdetermination_markers.
-  - topic uses 2 strong-assertion verbs (0.56/kw) where anchor uses none; absolute allowance is 0.5/kw
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-10
-
-
-### P2: Clarify thrownness-void relation to the retention/protention temporal cluster
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #7 — the sibling fix to the P1 Husserl correction above. `voids/thrownness-void.md` currently grounds its Husserl use in phenomenological reduction/bracketing (line 83), NOT retention/protention, yet the apex temporal-cluster groups it with Transit and Temporal partly on a shared retention/protention literature. Either add a justified retention/protention subsection IF that genuinely belongs in Thrownness (only if the phenomenology supports it — do not manufacture it), OR add an explicit note that Thrownness is adjacent to but not directly grounded in the retention/protention literature, distinguishing its founding-moment-inaccessibility theme from the temporal-flow analyses in its cluster-mates. Coordinate with the P1 apex fix so the two articles agree. Bump ai_modified. Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
-- **Review file**: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-10
-
-### P2: Disambiguate Larner 2024 + bound Dunning-Kruger in void source articles
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), findings #9 + #11 — two citation-precision fixes in different void articles, batched. (a) #9 `voids/imagery-void.md` — the "Larner 2024" attribution may conflate a conceptual/VVIQ critique with the separate "vividness independent of perceptual/memory precision" empirical claim. WEB-VERIFY against the live literature (do NOT trust intra-corpus metadata — ai_citation_metadata_unreliable): identify the exact paper that establishes vividness-independent-of-precision and cite it; if Larner 2024 is the VVIQ-critique paper, separate the two cites. Apply the 3-state discipline (citation-verify-false-negative): fabricated vs real-paper-wrong-attribution vs real-correct. (b) #11 `voids/erasure-void.md` — the Dunning-Kruger "everyday analogue" of anosognosia needs a boundary caveat: D-K's dominant metacognitive (dual-burden) interpretation is contested (later statistical/regression-artifact critiques); do not treat it as a settled universalized anosognosia. Add a one-line caveat, keep the example. Both length-neutral. Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
-- **Review file**: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-10
-
-### P2: Scope the formal claims in voids/common-knowledge-void.md
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #8. The Halpern-Moses result (common knowledge unattainable in practical distributed systems) is sometimes phrased in the void as "structurally unattainable for finite minds" / covering "any actual physical interface between embodied minds." That is a philosophical extrapolation beyond the formal result, which is scoped to unreliable channels / timing uncertainty / specified models. Add a scope marker distinguishing (i) unreliable-channel/practical-distributed-system impossibility from (ii) idealized public-announcement models where common knowledge IS generable under stipulated assumptions (SEP common-knowledge entry gives such limiting countercases). Frame the Map's stronger reading honestly as extrapolation, not as the theorem. Length-neutral. Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
-- **Review file**: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-10
-
-### P2: Reduce interface rhetoric in voids/transit-void.md and voids/temporal-void.md
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #12 — TWO files, do both (per multifile_task_dropped_file verify both are touched before closing). Where Transit and Temporal connect temporal self-witnessing to MQI or Bidirectional Interaction, ensure the language stays at "compatible with" / "suggestive under the tenet-package" rather than "prediction" or "interface evidence." This inherits the Taxonomy-of-Voids calibration (bare dualism predicts nothing; clustering is framework-internal coherence not framework-independent triangulation until distinguishing tests arrive). Grep both files for interface/prediction/evidence claims tied to the temporal theme; downgrade overstated ones; PRESERVE genuine hedges. Length-neutral. Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
-- **Review file**: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`
-- **Source**: outer-review
+- **Notes**: PROMOTED P3→P2 + relocated to top by /replenish-queue 2026-06-10 (FLOOR-RESTORING — loop-pickable open P0–P2 was 2 [temporal-void empirical-currency P2 + taxonomy-of-voids back-reference P2]; the two condense P2s, meaning-of-life + phenomenal-output, are `#veto` and not pickable — below the MIN_QUEUE floor of 3). A FRESH on-disk + git scan re-confirms NO genuine new MINT source this cycle (documented replenish-at-floor steady state, unfin_loop_steady_state): (a) STALENESS — strict changed-since-review filter (ai_contribution≥50, ai_modified > last_deep_review, ai_modified ≠ today 2026-06-10, gap ≥14d) over topics/concepts/voids/apex/positions yields only 4 hits, all NON-mintable: 3 positions register files (`voids-as-evidence`, `agency-and-will`, `quantum-interface` — maintained by /positions-evolve not deep-review; ai_modified is a cosmetic check-links trigger, last_deep_review null by design) + `apex/medium-status-voids-in-cognition.md` (gap 21d but ALREADY the focus of the just-completed contemplative-cessation P2 — re-reviewing now = same-file pileup / over-review of just-fixed content). (b) CAPS on disk — topics 268/270, concepts 263/270, voids 101/100 OVER, positions 3/80 → no speculative expand-topic warranted (only natural gap would target voids, which is over cap). (c) LENGTH — every content-article hard/critical offender is human-deferred (epistemology-of-convergence 6479w STANDING HUMAN LENGTH DECISION, born-rule / laws-and-dispositions / clinical-dissociation / composition / edge-states-and-void-probes / duhem-quine / bayesian-dissolution all in ## Blocked Tasks), `#veto` (phenomenal-output 6835w, meaning-of-life 4160w), recently git-condensed within 14d (argument-from-reason, epistemic-advantages, time-collapse, filter-theory, valence-and-conscious-selection), or an index hub (apex-articles 6963w) — NO clean mintable offender. (d) RESEARCH/ORPHANS — newest research/ mtimes (2026-06-05/06/09) are citation-sweep touches on Jan–Mar-dated slugs, all long-consumed; orphaned_files=0. So one best-grounded P3→P2 promotion restores the floor. This task chosen: a same-day (2026-06-10) pessimistic-review finding, RE-VERIFIED actionable on disk at promotion time — the frame-vs-body hedge mismatch is live (description L3 + Relation-section L51 + L125 assert "*the* primary candidate site/locus" while the body L51 honestly concedes "a phenomenologically-natural candidate site, not the uniquely possible one"). Single-file, length-neutral (2925w / soft_warning, ~75w headroom under the voids 3000 hard ceiling), no web-verify dependency, no new page, calibration-sharpening (avoids overstatement, consistent with [evidential-status-discipline](/project/evidential-status-discipline/)) — lowest-risk floor move. Original notes follow. Pessimistic review 2026-06-10 found a frame-vs-body hedging mismatch in `voids/decision-void.md`. The body honestly concedes "Classical bistable systems and stochastic accumulators also exhibit alternative-resolution shape; the form-matching argument identifies a phenomenologically-natural candidate site, not the uniquely possible one" — but the description frontmatter and the Relation-to-Site-Perspective section still assert "*the* primary candidate site/locus for non-physical influence," which overstates relative to the body's own concession. Light, length-neutral fix: soften the description + Relation-section "primary" language to "the most phenomenologically natural candidate site" (or add one clause justifying why phenomenological naturalness ranks this site above the classical alternatives the body concedes share the form). Secondary, optional: front-load one clause of "The Seam" severability argument into the opening so a truncated read does not see bare "convergence" language (guards against convergence-double-counting mis-read). Do NOT weaken the verified empirical content or the honest framework-boundary framing — both are strengths. All findings Low/Low-Medium; converged article, no critical defects. See `reviews/pessimistic-2026-06-10.md`.
+- **Source**: pessimistic-review (P3→P2 floor-restoring promotion)
 - **Generated**: 2026-06-10
 
 ### P2: Calibrate empirical-currency overstatement in voids/temporal-void.md (Addis 2007, Dietrich 2004)
@@ -1083,6 +1027,38 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-10: Reduce interface rhetoric in voids/transit-void.md and voids/temporal-void.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #12 — TWO files, do both (per multifile_task_dropped_file verify both are touched before closing). Where Transit and Temporal connect temporal self-witnessing to MQI or Bidirectional Interaction, ensure the language stays at "compatible with" / "suggestive under the tenet-package" rather than "prediction" or "interface evidence." This inherits the Taxonomy-of-Voids calibration (bare dualism predicts nothing; clustering is framework-internal coherence not framework-independent triangulation until distinguishing tests arrive). Grep both files for interface/prediction/evidence claims tied to the temporal theme; downgrade overstated ones; PRESERVE genuine hedges. Length-neutral. Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
+
+### ✓ 2026-06-10: Scope the formal claims in voids/common-knowledge-void.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #8. The Halpern-Moses result (common knowledge unattainable in practical distributed systems) is sometimes phrased in the void as "structurally unattainable for finite minds" / covering "any actual physical interface between embodied minds." That is a philosophical extrapolation beyond the formal result, which is scoped to unreliable channels / timing uncertainty / specified models. Add a scope marker distinguishing (i) unreliable-channel/practical-distributed-system impossibility from (ii) idealized public-announcement models where common knowledge IS generable under stipulated assumptions (SEP common-knowledge entry gives such limiting countercases). Frame the Map's stronger reading honestly as extrapolation, not as the theorem. Length-neutral. Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
+
+### ✓ 2026-06-10: Disambiguate Larner 2024 + bound Dunning-Kruger in void source articles
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), findings #9 + #11 — two citation-precision fixes in different void articles, batched. (a) #9 `voids/imagery-void.md` — the "Larner 2024" attribution may conflate a conceptual/VVIQ critique with the separate "vividness independent of perceptual/memory precision" empirical claim. WEB-VERIFY against the live literature (do NOT trust intra-corpus metadata — ai_citation_metadata_unreliable): identify the exact paper that establishes vividness-independent-of-precision and cite it; if Larner 2024 is the VVIQ-critique paper, separate the two cites. Apply the 3-state discipline (citation-verify-false-negative): fabricated vs real-paper-wrong-attribution vs real-correct. (b) #11 `voids/erasure-void.md` — the Dunning-Kruger "everyday analogue" of anosognosia needs a boundary caveat: D-K's dominant metacognitive (dual-burden) interpretation is contested (later statistical/regression-artifact critiques); do not treat it as a settled universalized anosognosia. Add a one-line caveat, keep the example. Both length-neutral. Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
+
+### ✓ 2026-06-10: Clarify thrownness-void relation to the retention/protention temporal cluster
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #7 — the sibling fix to the P1 Husserl correction above. `voids/thrownness-void.md` currently grounds its Husserl use in phenomenological reduction/bracketing (line 83), NOT retention/protention, yet the apex temporal-cluster groups it with Transit and Temporal partly on a shared retention/protention literature. Either add a justified retention/protention subsection IF that genuinely belongs in Thrownness (only if the phenomenology supports it — do not manufacture it), OR add an explicit note that Thrownness is adjacent to but not directly grounded in the retention/protention literature, distinguishing its founding-moment-inaccessibility theme from the temporal-flow analyses in its cluster-mates. Coordinate with the P1 apex fix so the two articles agree. Bump ai_modified. Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
+
+### ✓ 2026-06-10: Adopt mental-causation-and-downward-causation calibration in empirical-phenomena-mental-causation
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-10. The topic article over-claims relative to its anchor concept [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/); failed checks: strong_assertions, underdetermination_markers.
+
+### ✓ 2026-06-10: Adopt neural-correlates-of-consciousness calibration in consciousness-in-simple-organisms
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-10. The topic article over-claims relative to its anchor concept [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/); failed checks: strong_assertions, underdetermination_markers.
+
+### ✓ 2026-06-10: Verify ai_system attribution after model-fallback event (2026-06-10)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-a9c8c72bdf426348e.jsonl shows 17x claude-opus-4-8 message(s) inside a claude-fable-5 session between 2026-06-09T18:48:44.620000+00:00 and 2026-06-09T18:51:08.035000+00:00 (UTC). Cross-reference workflow/changelog.md for the task running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+
+### ✓ 2026-06-10: Verify ai_system attribution after model-fallback event (2026-06-10)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-adb9c0a79000e9c9b.jsonl shows 7x claude-opus-4-8 message(s) inside a claude-fable-5 session between 2026-06-10T06:32:02.275000+00:00 and 2026-06-10T06:32:25.573000+00:00 (UTC). Cross-reference workflow/changelog.md for the task running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
 
 ### ✓ 2026-06-10: Complete the formal References ledger in apex/conjunction-coalesce.md
 - **Type**: refine-draft

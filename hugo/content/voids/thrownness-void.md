@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-01
-ai_modified: 2026-05-26 19:43:10+00:00
+ai_modified: 2026-06-10 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -83,7 +83,7 @@ The thrownness void is unusual among the Map's [voids](/voids/) because it is no
 
 No direct investigation of the pre-constitutional moment is possible. But indirect methods can characterise the boundary.
 
-**Phenomenological reduction.** Husserl's method of bracketing assumptions can approach the boundary conditions of consciousness without crossing them. By suspending the natural attitude, one can glimpse the *contingency* of one's own cognitive constitution — not the origin itself, but the fact that there was an origin.
+**Phenomenological reduction.** Husserl's method of bracketing assumptions can approach the boundary conditions of consciousness without crossing them. By suspending the natural attitude, one can glimpse the *contingency* of one's own cognitive constitution — not the origin itself, but the fact that there was an origin. Note that thrownness draws on this strand of Husserl — the reduction's bracketing of the natural attitude — rather than on the retention-protention analysis of internal time-consciousness that grounds its temporal-cluster siblings, [the transit void](/voids/transit-void/) and [the temporal void](/voids/temporal-void/). The distinction is substantive: retention and protention describe the moment-to-moment flow structure of lived time, whereas thrownness concerns the inaccessibility of the *founding moment* — Heidegger's Geworfenheit, the always-already-thrown origin one cannot get behind. The two themes are adjacent but not identical, and thrownness's place in the cluster rests on the shared shape of self-witnessing failure, not on a shared retention-protention literature.
 
 **Apophatic description.** The [apophatic method](/concepts/apophatic-approaches/) applies directly: the pre-constitutional moment can be characterised by what it is not — not conscious, not unconscious, not temporal, not atemporal — without claiming positive knowledge of what it is.
 

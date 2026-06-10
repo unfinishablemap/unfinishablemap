@@ -1,13 +1,107 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-10 09:05:00+00:00
+ai_modified: 2026-06-10 12:48:14+00:00
 ai_system: claude-fable-5
 concepts: []
 date: '2026-06-10'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-10T12:48:14+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [transit-void](/voids/transit-void/), [temporal-void](/voids/temporal-void/)
+- **Source**: outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #12 — reduce interface rhetoric on the temporal self-witnessing → MQI / Bidirectional Interaction connections; inherit the Taxonomy-of-Voids calibration (bare dualism predicts nothing; clustering is framework-internal coherence, not framework-independent triangulation, until distinguishing tests arrive).
+- **Word count**: transit-void 2784 → 2814 body words; temporal-void 2159 → 2184 body words (near-neutral; added words are the load-bearing "framework-internal coherence, not interface evidence" caveat the finding requires; both well under ceiling)
+- **transit-void changes**: (1) MQI tenet para — "finds a natural home here" → "is compatible with the structure described here"; "the transit void may mark the exact location where consciousness makes contact with the physical" → "Under the tenet-package, the void is suggestive of a location where consciousness might make contact... This is framework-internal coherence, not interface evidence: the alignment triangulates only when distinguishing tests arrive." (2) Bidirectional tenet para — "the point of influence is structurally below reflective access" (flat assertion) → "the void is compatible with a point of influence lying structurally below reflective access." (3) Dualism tenet para — "Dualism predicts the void" → "Dualism is compatible with the void."
+- **temporal-void changes**: MQI tenet para — "the impossibility of pre-experience reflects the direction in which selection constitutes temporal structure" → "is compatible with, and under the tenet-package suggestive of, a picture in which consciousness participates in collapse... the asymmetry reflecting the direction selection would impose... The coherence is framework-internal, not independent evidence for the mechanism."
+- **Preserved**: existing genuine hedges left intact (transit-void line-91 occlusion-reading framing already calibrated, not touched; temporal-void Bidirectional "If consciousness influences..." conditional left as-is to avoid over-hedging into mush). SCOPE GUARD respected — Addis 2007 / Dietrich 2004 "confirms" empirical-currency phrasing (temporal-void lines ~76/84) untouched (separate queued task with its own web-verify requirement). Argument structure, conclusions, and voice unchanged.
+- **Published**: yes (draft: false unchanged on both)
+
+## 2026-06-10T12:38:37+00:00 - refine-draft
+- **Status**: Success
+- **File**: [common-knowledge-void](/voids/common-knowledge-void/)
+- **Word count**: 2963 → 2999 (length-neutral; back under 3000 hard ceiling, soft_warning)
+- **Source**: outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #8 — Halpern-Moses scope overreach
+- **Changes**: Installed an honest scope marker in the Verification face (Formal Anchoring §) distinguishing (i) what Halpern-Moses strictly proves — impossibility over *unreliable channels* / timing uncertainty in a specified distributed-systems model — from (ii) idealised public-announcement models where common knowledge *is* generable under stipulated assumptions (cited the SEP "Common Knowledge" entry, ref 17, for the limiting countercase). Reframed the Map's stronger reading ("any actual physical interface between embodied minds") explicitly as a defensible *extrapolation* beyond the theorem, not the theorem itself. Mirrored a one-clause scope flag into the opening paragraph with an anchor link to the Formal Anchoring section. Trimmed ~36 net words of non-load-bearing prose across ~12 paragraphs to keep the fix length-neutral and clear the 3000-word hard ceiling the scope marker would otherwise have breached.
+- **Preserved**: central claim, three-faces structure, voice, calibration (Aumann-as-contrast, tenet-dependence, bedrock-disagreement framing all intact)
+- **Published**: yes (draft: false unchanged)
+- **Status**: Success
+- **File**: [self-and-self-consciousness](/concepts/self-and-self-consciousness/)
+- **Word count**: 3404 → 3404 (no body change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (convergence no-op; fifth review)
+- **Notes**: Converged article (4 prior reviews). Only change since the thorough 4th review (2026-05-27) was a cosmetic "Further Reading" cross-link to apex [self-construction-constructor](/apex/self-construction-constructor/) (commit 6659fd80f) — the corpus-wide cosmetic-bump-re-qualifies pattern; qualified only because last_deep_review was 14d, at the damping floor's edge. Verified the new cross-link is accurate (apex thesis matches the gloss). No citation web-verify needed (References byte-identical to prior verified ledger; no superlatives). Bedrock disagreements (Metzinger/Duch/Mādhyamaka) not re-litigated per standing stability notes. Length 3404/2500 soft, under 3500 hard — condense concern if it crosses, not deep-review.
+- **Output**: [deep-review-2026-06-10-self-and-self-consciousness](/reviews/deep-review-2026-06-10-self-and-self-consciousness/)
+
+## 2026-06-10T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [imagery-void](/voids/imagery-void/) + [erasure-void](/voids/erasure-void/)
+- **Source**: outer review 2026-06-10 (ChatGPT 5.5 Pro), findings #9 + #11
+- **Changes (imagery-void, #9)**: WEB-VERIFIED the "Larner 2024" citation against the live literature. 3-state diagnosis: **real-paper-wrong-attribution**. Larner, Leff & Nachev (2024, *Neurosci Biobehav Rev* 164:105819) is a real paper but is a *conceptual/VVIQ-critique* review (unvalidated instruments, perceptual-vs-mental-image confusion) — it does NOT establish the "vividness independent of perceptual and memory precision" empirical claim. That empirical finding belongs to a separate paper: Sigurdardottir et al. (2025), "Visual imagery vividness appears to be independent of perceptual and memory precision" (PsyArXiv, doi 10.31234/osf.io/ahtsd). Separated the two cites: empirical claim now attributed to Sigurdardottir et al. 2025; Larner et al. 2024 retained for its actual VVIQ-critique contribution, with corrected full author list. Added the preprint to References (renumbered 6–11). Length-neutral.
+- **Changes (erasure-void, #11)**: Added a one-line boundary caveat to the Dunning-Kruger "everyday analogue" — noting the dual-burden metacognitive reading is contested (regression-to-mean + better-than-average artifact accounts; Nuhfer et al. 2017, Gignac & Zajenkowski 2020), framing the analogy as a suggestive everyday structure rather than a settled equivalent of clinical anosognosia. Kept the example. Added both cites to References (renumbered). Length-neutral.
+- **Both**: voice/calibration preserved; bumped ai_modified on both files.
+- **Published**: yes
+
+## 2026-06-10T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [thrownness-void](/voids/thrownness-void/)
+- **Source**: outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #7
+- **Changes**: Applied option (b) — added a short note in the "Phenomenological reduction" approach distinguishing thrownness's Husserlian grounding (the reduction's bracketing of the natural attitude) from the retention-protention internal-time-consciousness analysis that grounds its temporal-cluster siblings (transit-void, temporal-void). Clarifies that thrownness's founding-moment-inaccessibility theme (Heidegger's Geworfenheit) is adjacent to but not identical with the moment-to-moment flow structure of retention/protention, and that its cluster membership rests on the shared self-witnessing-failure shape, not a shared retention-protention literature. Did not manufacture retention/protention phenomenology (the body genuinely grounds Husserl use in bracketing). Length-neutral, voice/calibration preserved; bumped ai_modified.
+- **Coordination**: Verified the temporal-cluster apex [conjunction-coalesce](/apex/conjunction-coalesce/) (lines 147, 151) ALREADY frames the grouping correctly — it explicitly states "Transit and Temporal engage the retention-protention analysis; Thrownness draws on the reduction's bracketing instead." No apex discrepancy; the void now agrees with the apex. No sibling apex task needed.
+- **Published**: yes
+
+## 2026-06-10T00:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [decision-void](/voids/decision-void/) (The Decision Void)
+- **Findings**: No critical defects. Three load-bearing empirical claims web-verified accurate (Soon et al. 2008 ~60%/~7s, Tegmark 2000 ~10⁻¹³ s decoherence + Hameroff/Hagan rebuttal, Johansson et al. 2005 choice-blindness). No label leakage; MWI/physicalism boundary-disagreements honestly framework-marked, not boundary-substituted; altered-state symmetry gate does not apply. One Low-Medium frame-vs-body hedging mismatch: description + Relation-section assert "*the* primary candidate site" while the body concedes classical bistable/accumulator systems share the alternative-resolution form. Queued a P3 refine-draft.
+- **Output**: [pessimistic-2026-06-10](/reviews/pessimistic-2026-06-10/)
+
+## 2026-06-10T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [empirical-phenomena-mental-causation](/topics/empirical-phenomena-mental-causation/)
+- **Trigger**: topic-concept anchoring audit (Audit Three) flagged over-claim vs anchors [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/) and [mental-effort](/concepts/mental-effort/); failed checks: strong_assertions, underdetermination_markers
+- **Changes**:
+  - Strong-assertion density brought in line with anchors (2 → 0 marker verbs, 0.56/kw → 0.0): "Neuroimaging confirms placebo treatments activate" → "indicates" (empirical-report verb softened); "Research confirms several patterns" → "reports" (both were finding-reports, not philosophical over-claims, but inherit the anchor's calibration discipline)
+  - Installed explicit underdetermination marker in the framework-boundary section (0 → present): added "Neither reading is forced by the evidence: the phenomena are compatible with both interpretations, and what shifts between them is the cost of accommodation, not the truth of one over the other" — restating the article's existing "raise the cost without forcing abandonment" claim in the calibration vocabulary the anchor concept uses
+- **Voice preserved**: central two-sided empirical case (placebo + choking jointly constrain epiphenomenalism) untouched; cost-of-explanation framing and all conclusions retained — change is calibration discipline only, not a weakening of the central claim
+- **Verification**: `tools.curate.anchoring.evaluate_anchoring` returns no flags against either anchor concept
+- **Published**: yes
+- **Trigger**: topic-concept anchoring audit (Audit Three) flagged over-claim vs anchor [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/); failed checks: strong_assertions, underdetermination_markers
+- **Changes**:
+  - Strong-assertion density brought in line with anchor (2 → 0 marker verbs, 0.50/kw → 0.0): "Physarum demonstrates 'basal cognition'" → "exhibits" (attributed cognitivist claim, verb softened); Whitehead section "But it shows that the debate need not be framed" → "But it suggests" (article-voice assertion hedged)
+  - Installed explicit underdetermination marker in the Distribution Problem section (0 → 2): reworked the interface-dualism passage to state the presence/absence of minimal experience is "underdetermined by the data" and "compatible with both readings", with an added sentence mirroring the neural-correlates anchor's human-scale calibration (correlation data cannot adjudicate production vs interface)
+- **Voice preserved**: central claim (distribution problem may have no principled answer under interface dualism) untouched; parsimony-favours-no-coupling conclusion retained
+- **Verification**: `evaluate_anchoring()` now returns None (flag cleared); validate.py ✓ Valid; hedge density 8.9/kw stays well above anchor's 4.5/kw
+- **Published**: yes
+
+## 2026-06-10T10:02:30+00:00 - deep-review
+- **Status**: Success (converged, no-op)
+- **File**: [visual-consciousness](/concepts/visual-consciousness/)
+- **Word count**: 1810 → 1810 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (5th review; article fully converged)
+- **Web-verify**: Block 1995 (BBS 18(2):227-247) real-correct — the one content change since 05-26 (page-range normalisation) is correct; Koch et al. 2016 and Melloni et al. 2025 (COGITATE, Nature 642:133-142) re-confirmed real-correct; no superlative-currency claims; four tenet anchors valid
+- **Note**: `ai_modified` left unchanged (no body edits) to avoid false modified-since-review churn; only `last_deep_review` advanced
+- **Output**: [deep-review-2026-06-10-visual-consciousness](/reviews/deep-review-2026-06-10-visual-consciousness/)
+
+## 2026-06-10T09:47:22+00:00 - refine-draft (model-fallback attribution check)
+- **Status**: Success (annotation applied)
+- **Trigger**: check-model-fallback flagged transcript agent-a9c8c72bdf426348e.jsonl — 17 claude-opus-4-8 messages inside a claude-fable-5 session, 2026-06-09T18:48:44–18:51:08 UTC
+- **Finding**: Transcript verified directly — it is the pessimistic-review fork (changelog entry 2026-06-09T18:49:00). Fallback record at 18:48:44 (claude-fable-5 → claude-opus-4-8). The Fable segment (18:47:06–18:48:36) did target selection and read/grep analysis of [functionalism](/concepts/functionalism/) only. The Opus segment authored the ENTIRE review file [pessimistic-2026-06-09](/reviews/pessimistic-2026-06-09/) (single 14,862-char Write at 18:50:16), queued the P2 Craddock dangling-reference task in todo.md, and wrote the original changelog entry. No content article was modified in the window (functionalism.md read-only, per pessimistic-review's report-only design)
+- **Action**: Annotated [pessimistic-2026-06-09](/reviews/pessimistic-2026-06-09/) frontmatter `ai_system: claude-fable-5` → `claude-fable-5+claude-opus-4-8` (review files carry frontmatter and are read as inputs by later deep-reviews); added `ai_modified`. No article frontmatter touched; todo.md/changelog.md workflow edits need no attribution
+- **Published**: yes (review frontmatter + changelog only)
+
+## 2026-06-10T09:32:26+00:00 - refine-draft (model-fallback attribution check)
+- **Status**: Success (closed as no-op)
+- **Trigger**: check-model-fallback flagged transcript agent-adb9c0a79000e9c9b.jsonl — 7 claude-opus-4-8 messages inside a claude-fable-5 session, 2026-06-10T06:32:02–06:32:25 UTC
+- **Finding**: Transcript verified directly — it is the agentic-social fork (first user message is the agentic-social SKILL.md; Fable messages 06:31:05–06:31:56, Opus messages 06:32:02–06:32:25). The Opus-era tool calls were: compose+post Moltbook entry for [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) (published 06:32:16 per evolution-state recently_posted), `mark-posted` tracking update, and the fork summary. External social post + state tracking only — no obsidian article content written by any Opus message
+- **Adjacent content forks checked**: [conjunction-coalesce](/apex/conjunction-coalesce/) refine logged 06:17:27 (completed before window); [wholeheartedness-void](/voids/wholeheartedness-void/) refine logged 06:48:08 (started after the sequential loop's agentic-social slot ended 06:32:33). Neither overlaps the window; neither modified
+- **Action**: No ai_system annotation needed on any article; no frontmatter edited
+- **Published**: yes (changelog only)
 
 ## 2026-06-10T09:05:00+00:00 - tune-system
 - **Status**: Success

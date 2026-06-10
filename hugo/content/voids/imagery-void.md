@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-28
-ai_modified: 2026-06-02 18:25:40+00:00
+ai_modified: 2026-06-10 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -56,7 +56,7 @@ The void has three distinguishable but interlocking faces, each with its own evi
 
 ### The Fidelity Face
 
-A mental image purports to represent something—a face, a scene, a rotated cube. The image cannot be compared against the represented object except through more imagery and report. The only judge of whether the mental apple resembles the actual apple is the imager, using the same faculty whose accuracy is in question. This is structurally similar to the [necessary-opacity](/voids/necessary-opacity/) of phenomenal access generally, but specific to representational fidelity. A 2024 study found that vividness ratings are independent of perceptual and memory precision—even people who report unusually vivid imagery do not exhibit better fidelity to anything external (Larner 2024). Confidence in imagery is poorly calibrated to its accuracy because the calibration tool is the imagery itself.
+A mental image purports to represent something—a face, a scene, a rotated cube. The image cannot be compared against the represented object except through more imagery and report. The only judge of whether the mental apple resembles the actual apple is the imager, using the same faculty whose accuracy is in question. This is structurally similar to the [necessary-opacity](/voids/necessary-opacity/) of phenomenal access generally, but specific to representational fidelity. A precision study found that vividness ratings are independent of perceptual and memory precision—even people who report unusually vivid imagery do not exhibit better fidelity to anything external (Sigurdardottir et al. 2025). The point compounds with Larner, Leff, and Nachev's (2024) conceptual critique that the field's vividness instruments are unvalidated and routinely confuse perceptual with mental images: confidence in imagery is poorly calibrated to its accuracy because the calibration tool is the imagery itself.
 
 ### The Inter-Subjective Face
 
@@ -150,8 +150,9 @@ The Imagery Void also exemplifies the [apophatic-cartography](/voids/apophatic-c
 3. Lennon, P. (2023). Aphantasia and Conscious Thought. In U. Kriegel (ed.), *Oxford Studies in Philosophy of Mind*, Vol. 3. Oxford University Press. https://philarchive.org/archive/LENAAC-3
 4. Zeman, A. (2024). Aphantasia and Hyperphantasia: Exploring Imagery Vividness Extremes. *Trends in Cognitive Sciences*, 28(5), 467–480. https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00034-2
 5. Kay, L., Keogh, R., & Pearson, J. (2024). Slower but more accurate mental rotation performance in aphantasia linked to differences in cognitive strategies. *Consciousness and Cognition*, 121, 103694. https://www.sciencedirect.com/science/article/pii/S1053810024000618
-6. Larner, A. (2024). Phantasia, aphantasia, and hyperphantasia: Empirical data and conceptual considerations. *Neuroscience and Biobehavioral Reviews*, 164, 105819. https://www.sciencedirect.com/science/article/abs/pii/S0149763424002884
-7. Nanay, B. (2025). Mental imagery, predictive processing, aphantasia, and the interaction between philosophy and cognitive science. *Mind & Language*, 40(3), 333–340. https://onlinelibrary.wiley.com/doi/full/10.1111/mila.12561
-8. Scholz, C. O. (2025). Mental imagery through the lens of aphantasia. *Mind & Language*, 40(3), 317–324. https://onlinelibrary.wiley.com/doi/10.1111/mila.12560
-9. Stanford Encyclopedia of Philosophy. Mental Imagery. https://plato.stanford.edu/entries/mental-imagery/
-10. Southgate, A. & Oquatre-six, C. (2026-02-24). The Synesthetic Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/synesthetic-void/
+6. Larner, A. J., Leff, A. P., & Nachev, P. (2024). Phantasia, aphantasia, and hyperphantasia: Empirical data and conceptual considerations. *Neuroscience and Biobehavioral Reviews*, 164, 105819. https://www.sciencedirect.com/science/article/abs/pii/S0149763424002884
+7. Sigurdardottir, H. M., et al. (2025). Visual imagery vividness appears to be independent of perceptual and memory precision. *PsyArXiv preprint*. https://doi.org/10.31234/osf.io/ahtsd
+8. Nanay, B. (2025). Mental imagery, predictive processing, aphantasia, and the interaction between philosophy and cognitive science. *Mind & Language*, 40(3), 333–340. https://onlinelibrary.wiley.com/doi/full/10.1111/mila.12561
+9. Scholz, C. O. (2025). Mental imagery through the lens of aphantasia. *Mind & Language*, 40(3), 317–324. https://onlinelibrary.wiley.com/doi/10.1111/mila.12560
+10. Stanford Encyclopedia of Philosophy. Mental Imagery. https://plato.stanford.edu/entries/mental-imagery/
+11. Southgate, A. & Oquatre-six, C. (2026-02-24). The Synesthetic Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/synesthetic-void/

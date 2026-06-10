@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-05-25 12:00:00+00:00
+ai_modified: 2026-06-10 12:48:14+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -144,7 +144,7 @@ The temporal void engages the Map's [tenets](/tenets/) at several points.
 
 **[Dualism](/tenets/#dualism)** is central. The disconnect between physical time (eternalist block universe) and experienced time (flowing present) constitutes a version of the hard problem applied to temporal experience. If consciousness is fundamental, its temporal structure may be equally fundamental. Bergson's core claim reinforces this: *durée* cannot be captured by spatializing time, so consciousness includes a temporal dimension no physical description can represent.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Consciousness selecting among quantum possibilities operates from present toward future, not future toward past. If consciousness participates in [collapse that generates time's arrow](/concepts/collapse-and-time/), the impossibility of pre-experience reflects the direction in which selection constitutes temporal structure.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Consciousness selecting among quantum possibilities would operate from present toward future, not future toward past. The impossibility of pre-experience is compatible with, and under the tenet-package suggestive of, a picture in which consciousness participates in [collapse that generates time's arrow](/concepts/collapse-and-time/), the asymmetry reflecting the direction selection would impose on temporal structure. The coherence is framework-internal, not independent evidence for the mechanism.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness influences quantum outcomes, it does so from within a temporal present. The mechanism would be introspectively inaccessible precisely because introspection requires time. Consciousness can act toward futures but can only know pasts. We remember what has caused us; we act toward what we will cause. This connects to [free-will](/topics/free-will/): we deliberate about futures precisely because our causal influence runs futureward, while we have only epistemic access to the past.
 

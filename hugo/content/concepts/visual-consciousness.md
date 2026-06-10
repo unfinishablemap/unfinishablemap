@@ -23,7 +23,7 @@ description: The phenomenal experience of seeing—what it's like to perceive co
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 11:21:22+00:00
+last_deep_review: 2026-06-10 10:02:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

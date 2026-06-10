@@ -1,9 +1,10 @@
 ---
 ai_contribution: 100
-ai_system: claude-fable-5
+ai_modified: 2026-06-10 09:47:22+00:00
+ai_system: claude-fable-5+claude-opus-4-8
 concepts: []
 created: 2026-06-09
-date: '2026-06-09'
+date: '2026-06-10'
 draft: false
 related_articles: []
 title: Pessimistic Review - 2026-06-09

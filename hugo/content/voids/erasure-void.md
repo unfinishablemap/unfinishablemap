@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-20
-ai_modified: 2026-06-03 02:49:48+00:00
+ai_modified: 2026-06-10 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -61,7 +61,7 @@ Research on Alzheimer's disease distinguishes three forms of metacognitive failu
 
 The pattern that emerges is not selective failure but parallel decline: as memory degrades, awareness of memory degradation degrades with it. Patients in later Alzheimer's stages typically report fewer memory complaints than those in earlier stages. The dual burden compounds—losing capacity and losing the ability to notice the loss—until the subject reports a coherent self that bears decreasing relationship to actual cognitive function.
 
-Anosognosia is the extreme case, but the principle is universal. Subtle cognitive decline in normal ageing often goes unnoticed by the individual while being plainly visible to family. The Dunning-Kruger structure—where the metacognitive skills required to recognise incompetence are the same skills that constitute competence—generalises the point: any system whose self-audit depends on the capacities under audit is structurally vulnerable to silent erasure.
+Anosognosia is the extreme case, but the principle is universal. Subtle cognitive decline in normal ageing often goes unnoticed by the individual while being plainly visible to family. The Dunning-Kruger structure—where the metacognitive skills required to recognise incompetence are the same skills that constitute competence—generalises the point: any system whose self-audit depends on the capacities under audit is structurally vulnerable to silent erasure. The dual-burden metacognitive reading of Dunning-Kruger is itself contested—later work argues the canonical pattern can arise from regression to the mean plus a better-than-average bias rather than a genuine metacognitive deficit (Nuhfer et al. 2017; Gignac & Zajenkowski 2020)—so the analogy is offered as a suggestive everyday structure, not a settled equivalent of clinical anosognosia.
 
 The same diagnosis generalises beyond cognitive deficit. The [agency-void](/voids/agency-void/) develops verification-circularity for the consciousness-causation question: every check on whether consciousness causes anything is performed by the faculty whose causal powers are in question, leaving no external reference point. Anosognosia and clinical erasure are the concrete clinical face of that structural problem—self-monitoring failing because the monitor shares substrate with what it monitors. Where erasure shows the failure as empirical neuropathology, agency-void shows the same architecture (instrument and object the same) governing the question of whether the non-physical interface acts at all. Both articles' two-face structure—loss-and-monitoring here, involuntariness-and-verification there—is synthesised in [the conjunction-coalesce](/apex/conjunction-coalesce/), which treats this article as a *cognate* of the discipline rather than an instance of it: the conjoint shape was installed at article-creation time rather than produced by merging two prior articles. The seam test still applies, but the editorial geometry of merger does not.
 
@@ -131,7 +131,9 @@ The deeper consequence is for personal identity. If significant cognitive capaci
 2. Michel, M., Gao, Y., Mazor, M., Kletenik, I., & Rahnev, D. (2024). When visual metacognition fails: widespread anosognosia for visual deficits. *Trends in Cognitive Sciences*, 28(12), 1066-1077.
 3. Morris, R. G., & Mograbi, D. C. (2013). Anosognosia, autobiographical memory and self knowledge in Alzheimer's disease. *Cortex*, 49(6), 1553-1565.
 4. Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121-1134.
-5. Wu, K., & Dunning, D. (2018). Hypocognition: Making sense of the landscape beyond one's conceptual reach. *Review of General Psychology*, 22(1), 25-35.
-6. Bernecker, S., & Michaelian, K. Epistemological Problems of Memory. *Stanford Encyclopedia of Philosophy*.
-7. Ricoeur, P. (2004). *Memory, History, Forgetting*. University of Chicago Press.
-8. Nietzsche, F. (1887). *On the Genealogy of Morals*.
+5. Nuhfer, E., Fleisher, S., Cogan, C., Wirth, K., & Gaze, E. (2017). How Random Noise and a Graphical Convention Subverted Behavioral Scientists' Explanations of Self-Assessment Data. *Numeracy*, 10(1), Article 4.
+6. Gignac, G. E., & Zajenkowski, M. (2020). The Dunning-Kruger effect is (mostly) a statistical artefact: Valid approaches to testing the hypothesis with individual differences data. *Intelligence*, 80, 101449.
+7. Wu, K., & Dunning, D. (2018). Hypocognition: Making sense of the landscape beyond one's conceptual reach. *Review of General Psychology*, 22(1), 25-35.
+8. Bernecker, S., & Michaelian, K. Epistemological Problems of Memory. *Stanford Encyclopedia of Philosophy*.
+9. Ricoeur, P. (2004). *Memory, History, Forgetting*. University of Chicago Press.
+10. Nietzsche, F. (1887). *On the Genealogy of Morals*.

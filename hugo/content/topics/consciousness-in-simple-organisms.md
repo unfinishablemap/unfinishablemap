@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-06-08 00:00:00+00:00
+ai_modified: 2026-06-10 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -105,7 +105,7 @@ Habituation and sensitisation are present in Hydra; associative learning is unes
 
 The slime mold case divides researchers sharply:
 
-**Cognitivists** argue Physarum demonstrates "basal cognition"—information processing functionally equivalent to rudimentary thought. Some propose a "proto-consciousness mechanism" in single-celled organisms.
+**Cognitivists** argue Physarum exhibits "basal cognition"—information processing functionally equivalent to rudimentary thought. Some propose a "proto-consciousness mechanism" in single-celled organisms.
 
 **Skeptics** maintain these behaviors are biochemical reactions, however sophisticated. Maze-solving follows nutrient gradients; no phenomenal experience is required.
 
@@ -169,7 +169,7 @@ Why do some organisms have consciousness and others not? This is the *distributi
 
 **Panpsychist continuity** dissolves the distribution problem by holding that proto-consciousness is fundamental. Experience doesn't emerge; it was always present, merely organised differently. But this faces the [combination problem](/concepts/combination-problem/): how do micro-experiences combine into unified human consciousness?
 
-**Interface dualism**—the Map's position—suggests that the distribution problem may be unanswerable because it asks the wrong question. Consciousness doesn't emerge from physical systems; it interfaces with them. The [universal-coupling-response](/concepts/universal-coupling-response/) holds that wherever a physical system's architecture meets adequate conditions for coupling, coupling occurs. There may be no principled threshold because consciousness isn't a property physical systems generate but a domain physical systems can connect with. If simple organisms do couple with consciousness, they may do so through mechanisms entirely different from those in complex brains ([interface-heterogeneity](/concepts/interface-heterogeneity/)) and at lower [interface efficacy](/topics/interface-efficacy-and-the-cognitive-gap/)—narrower bandwidth, fewer candidate-type couplings. Under that reading, failed UAL behaviour underdetermines the inference, since a low-efficacy coupled mind and an absent mind leave the same traces; parsimony still favours the simpler "no coupling" reading when the behaviour matches it.
+**Interface dualism**—the Map's position—suggests that the distribution problem may be unanswerable because it asks the wrong question. Consciousness doesn't emerge from physical systems; it interfaces with them. The [universal-coupling-response](/concepts/universal-coupling-response/) holds that wherever a physical system's architecture meets adequate conditions for coupling, coupling occurs. There may be no principled threshold because consciousness isn't a property physical systems generate but a domain physical systems can connect with. If simple organisms do couple with consciousness, they may do so through mechanisms entirely different from those in complex brains ([interface-heterogeneity](/concepts/interface-heterogeneity/)) and at lower [interface efficacy](/topics/interface-efficacy-and-the-cognitive-gap/)—narrower bandwidth, fewer candidate-type couplings. Under that reading, the presence-or-absence of minimal experience in these organisms is underdetermined by the data, since a low-efficacy coupled mind and an absent mind leave the same behavioural traces; the question is compatible with both readings, and parsimony still favours the simpler "no coupling" reading when the behaviour matches it. This mirrors the calibration the [neural-correlates](/concepts/neural-correlates-of-consciousness/) anchor holds at the human scale—correlation data alone cannot adjudicate between production and interface—carried down to the lower limit of the distribution.
 
 A narrower downstream version of the distribution problem asks not where consciousness reaches but where *valence-denominated* conscious selection bottoms out across the same organisms surveyed here—the [marginal-organism scope of value-sensitive selection](/topics/marginal-organism-scope-of-value-sensitive-selection/), which works the rat–nematode–*Hydra*–slime-mould ladder for evaluative selection specifically.
 
@@ -219,7 +219,7 @@ This reinterprets the minimal consciousness question:
 
 **The combination problem reframes**: The difficulty shifts from "how does consciousness appear from non-consciousness?" to "how do micro-occasions combine into unified experience?" This is the [combination problem](/concepts/combination-problem/)—still challenging, but perhaps more tractable than explaining consciousness from nothing.
 
-This perspective doesn't commit the Map to full Whiteheadian metaphysics. But it shows that the minimal consciousness debate need not be framed as finding a threshold where the lights turn on. Alternative frameworks accommodate gradations of experiential complexity that may better fit the biological evidence.
+This perspective doesn't commit the Map to full Whiteheadian metaphysics. But it suggests the minimal consciousness debate need not be framed as finding a threshold where the lights turn on. Alternative frameworks accommodate gradations of experiential complexity that may better fit the biological evidence.
 
 ## What Would Challenge This View?
 

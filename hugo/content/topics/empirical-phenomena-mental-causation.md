@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-06-05 00:00:00+00:00
+ai_modified: 2026-06-10 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -76,7 +76,7 @@ Placebo and choking are the positive companion to the [phenomenal-output / causa
 
 Placebo responses involve specific, measurable physiological changes:
 
-**Neurochemical effects.** Placebo analgesia involves endogenous opioid release. Levine et al. (1978) showed that naloxone blocks placebo pain relief — the placebo triggers the same pathway as actual opioid drugs. Neuroimaging confirms placebo treatments activate mu-opioid receptors in the anterior cingulate, prefrontal cortex, and brainstem.
+**Neurochemical effects.** Placebo analgesia involves endogenous opioid release. Levine et al. (1978) showed that naloxone blocks placebo pain relief — the placebo triggers the same pathway as actual opioid drugs. Neuroimaging indicates placebo treatments activate mu-opioid receptors in the anterior cingulate, prefrontal cortex, and brainstem.
 
 **Dopamine release.** In Parkinson's disease, placebo treatments produce measurable [dopamine](/topics/dopamine-and-the-unified-interface/) release in the striatum. De la Fuente-Fernández et al. (2001) used PET imaging to show patients expecting benefit from an inert injection released dopamine in quantities comparable to therapeutic doses of levodopa.
 
@@ -118,7 +118,7 @@ If the *phenomenal character* of self-monitoring did no causal work over and abo
 
 Beilock and Carr's explicit monitoring theory (building on Baumeister) explains the mechanism: high-pressure situations generate anxiety, anxiety triggers self-focus, and self-focus leads to step-by-step monitoring of what should be automatic execution. The performer "reinvests" explicit control in procedures that work better without it.
 
-Research confirms several patterns (some findings await replication):
+Research reports several patterns (some findings await replication):
 
 - **Skill-level asymmetry**: Highly skilled performers choke more than moderately skilled ones — experts have more automaticity to disrupt (Beilock & Carr, 2001).
 - **Implicit protection**: Skills learned without explicit awareness are more robust against pressure-induced disruption (Masters, 1992).
@@ -161,7 +161,7 @@ The pressure the joint case applies is more subtle. If phenomenology does no cau
 
 [illusionism](/concepts/illusionism/) explains both phenomena as brain states interfering with brain states — "attention" and "expectation" as represented states with no phenomenal content. The choking literature distinguishes absorbed automaticity from explicit self-monitoring as two modes with reliably different motor consequences (Beilock & Carr, 2001). The illusionist's reply is that the brain represents this difference, and represented states are causally different in just the way the literature describes — no phenomenal properties needed. What this sets aside is that the difference between modes is reliably reportable as a *felt* difference, with the felt mode tracking the motor outcome with the same fineness as the represented one.
 
-This is a framework-boundary disagreement rather than an in-framework refutation. The Map reads the systematic two-register tracking as evidence the felt phenomenology is doing causal work the represented description alone is not; the epiphenomenalist or illusionist absorbs the same data through brute law or a richer representational story. The empirical phenomena raise the cost of these options without forcing their abandonment.
+This is a framework-boundary disagreement rather than an in-framework refutation. The Map reads the systematic two-register tracking as evidence the felt phenomenology is doing causal work the represented description alone is not; the epiphenomenalist or illusionist absorbs the same data through brute law or a richer representational story. Neither reading is forced by the evidence: the phenomena are compatible with both interpretations, and what shifts between them is the cost of accommodation, not the truth of one over the other. The empirical phenomena raise the cost of these options without forcing their abandonment.
 
 [pain-asymbolia](/concepts/pain-asymbolia/) reinforces the conclusion from a third angle: patients perceive pain but lack its unpleasant phenomenal character — and fail to exhibit normal avoidance behaviour. The phenomenal quality, not merely the information, drives the response.
 
