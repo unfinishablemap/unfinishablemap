@@ -1,13 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-10 07:03:30+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-06-10 08:42:19+00:00
+ai_system: claude-fable-5
 concepts: []
 date: '2026-06-10'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-10T08:42:19+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [open-question-ai-consciousness](/apex/open-question-ai-consciousness/)
+- **Changed sources**: 11 (5 substantive: quantum-state-inheritance laundering + no-cloning relocation, gaming problem, Wiest softening, non-temporal calibrations, Hoel fix)
+- **Word count**: 4770 → 4582
+- **Review**: [apex-evolve-2026-06-10-open-question-ai-consciousness](/reviews/apex-evolve-2026-06-10-open-question-ai-consciousness/)
+
+## 2026-06-10T08:20:00+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 537 (269 topics, 264 concepts, 4 positions)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 2 (neoplatonist common-cause audit lacks an explicit tenet reference; dualism-channel-width-axis uses a wrong tenet anchor `^occams-razor-has-limits` → `^occams-limits`)
+- **Output**: [tenet-check-2026-06-10](/reviews/tenet-check-2026-06-10/)
 
 ## 2026-06-10T07:03:30+00:00 - refine-draft
 - **Status**: Success
