@@ -51,12 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: positions_register_audit
 - **Generated**: 2026-06-09
 
-### P3: positions-evolve update P-Q7 — off-vocabulary confidence band "moderate-to-high"
-- **Type**: positions-evolve
-- **Notes**: From positions audit 2026-06-09 (Check 4). P-Q7 (quantum-interface.md L107) declares Confidence "moderate-to-high", but the canonical vocabulary in positions.md / the SKILL / evidential-status-discipline sanctions ONLY low|moderate|high. Not auto-normalized in the audit because snapping it up (high) or down (moderate) changes the asserted confidence — a substantive calibration call. Decide: normalize to a canonical band, OR amend positions.md to sanction an intermediate band if intended. Human/update call. P-Q7 is a structural-consistency claim (corridor preserves Born stats → no-signalling-safe) leaning on high-confidence P-Q2 + the Torres Alegre 2025 theorem, so "high" is defensible — but confirm before editing.
-- **Source**: positions_register_audit
-- **Generated**: 2026-06-09
-
 ### P3: positions-evolve audit — soft tension P-A3 (atemporal selection) vs P-Q1 (forward-in-time preferred)
 - **Type**: positions-evolve
 - **Notes**: From positions audit 2026-06-09 (Check 1). NOT a hard contradiction (P-A3 hedges the atemporal-selection reading as a weakly-held hypothesis, well below its empirical-critique content; the two positions are in separable domains). But the agency register's atemporal-selection fallback for dissolving the Libet timing puzzle sits in tension with the quantum register's stated preference for FORWARD-in-time post-decoherence selection (topics/forward-in-time-conscious-selection treats atemporal/retrocausal as the foil it argues against). Human glance: decide whether P-A3 should be reworded to defer to the forward-in-time preference, or whether the atemporal reading is a deliberately-retained independent fallback. Low urgency.
@@ -985,6 +979,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-10: positions-evolve update P-Q7 — off-vocabulary confidence band "moderate-to-high"
+- **Type**: positions-evolve
+- **Notes**: From positions audit 2026-06-09 (Check 4). P-Q7 (quantum-interface.md L107) declares Confidence "moderate-to-high", but the canonical vocabulary in positions.md / the SKILL / evidential-status-discipline sanctions ONLY low|moderate|high. Not auto-normalized in the audit because snapping it up (high) or down (moderate) changes the asserted confidence — a substantive calibration call. Decide: normalize to a canonical band, OR amend positions.md to sanction an intermediate band if intended. Human/update call. P-Q7 is a structural-consistency claim (corridor preserves Born stats → no-signalling-safe) leaning on high-confidence P-Q2 + the Torres Alegre 2025 theorem, so "high" is defensible — but confirm before editing.
 
 ### ✓ 2026-06-10: Update recent aphantasia literature in voids/imagery-void.md
 - **Type**: refine-draft

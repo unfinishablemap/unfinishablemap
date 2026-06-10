@@ -4,7 +4,7 @@ description: "The Map's positions on the consciousness–quantum interface: mech
 created: 2026-06-04
 modified: 2026-06-04
 human_modified: 2026-06-04
-ai_modified: 2026-06-08T13:45:00+00:00
+ai_modified: 2026-06-10T21:47:27.912477+00:00
 draft: false
 topics:
   - "[[forward-in-time-conscious-selection]]"
@@ -104,12 +104,13 @@ This file runs over the soft per-domain length advisory (≈1900 words against a
 ## P-Q7: The default mechanism does not break Lorentz invariance or no-signalling
 
 - **Status**: live
-- **Confidence**: moderate-to-high
-- **Asserts**: The Map's default selection-only / corridor mechanism is internally consistent with relativistic no-signalling because it preserves Born statistics by construction (see P-Q2); Torres Alegre's (2025) generalised-probabilistic-theories result, which shows that non-affine deviations from the Born map enable superluminal signalling through steering scenarios, is treated by the Map as supporting rather than threatening its default reading. The position holds only for the default reading; "minimum-outside-the-corridor" variants would have to demonstrate their deviation is signalling-safe and the Map does not currently endorse such variants.
+- **Confidence**: high
+- **Asserts**: The Map's default selection-only / corridor mechanism is internally consistent with relativistic no-signalling because it preserves Born statistics by construction (see P-Q2); Torres Alegre's (2025) generalised-probabilistic-theories result, which shows that non-affine deviations from the Born map enable superluminal signalling through steering scenarios, is treated by the Map as supporting rather than threatening its default reading. The position holds only for the default reading; "minimum-outside-the-corridor" variants would have to demonstrate their deviation is signalling-safe and the Map does not currently endorse such variants. The high confidence is scoped: it attaches to the structural consequence *within* the default corridor reading, not to a claim that the corridor reading is the only admissible MQI variant (that openness is tracked under P-Q2 and P-Q10).
 - **Depends on**: P-Q2; [[concepts/causal-consistency-constraint]]; Torres Alegre (2025)
 - **Argued in**: [[concepts/causal-consistency-constraint]], [[topics/born-rule-and-the-consciousness-interface]], [[apex/phenomenology-mechanism-bridge]]
 - **Would shift if**: a tighter no-signalling theorem rules out even the corridor reading; or the Map adopts a minimum-outside-the-corridor variant and finds it requires deviation from no-signalling.
-- **Last reviewed**: 2026-06-04
+- **Updated 2026-06-10**: confidence normalized off-vocabulary "moderate-to-high" → **high** (positions audit 2026-06-09, Check 4). No-signalling safety is a structural consequence of Born-statistics preservation, so it inherits the high confidence of P-Q2 plus the Torres Alegre (2025) no-signalling theorem; overturning it within the default reading would force a substantial restructuring (the line-47 test for *high*). The "moderate" pull was a scope caveat — already handled explicitly in Asserts — not a softer justification, so snapping conservatively to *moderate* would have understated the Map's actual confidence.
+- **Last reviewed**: 2026-06-10
 
 ## P-Q8: Warm-quantum-biology results are a precedent for the interface, not a licence for it
 

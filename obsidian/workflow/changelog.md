@@ -5,6 +5,17 @@ ai_modified: 2026-06-10T14:32:12+00:00
 ai_system: claude-fable-5
 ---
 
+## 2026-06-10T21:47:27+00:00 - positions-evolve (update)
+- **Status**: Success
+- **Position**: P-Q7 in [[positions/quantum-interface]]
+- **Mode**: update — off-vocabulary confidence band reconciliation (positions audit 2026-06-09, Check 4)
+- **Change**: Confidence "moderate-to-high" (off the canonical low | moderate | high vocabulary) normalized to **high**. P-Q7's no-signalling/Lorentz-safety claim is a structural consequence of Born-statistics preservation, inheriting the high confidence of P-Q2 plus the Torres Alegre (2025) no-signalling theorem; overturning it within the default corridor reading would force substantial restructuring (the positions.md line-47 *high* test). The "moderate" pull was a scope caveat (default reading only), already handled explicitly in Asserts — so a conservative snap to *moderate* would have understated the Map's actual confidence. Added a one-line scoping clarification to Asserts and a dated history note.
+- **Torres Alegre 2025 cite**: treated as-is per task instruction; not re-verified via web and not newly asserted.
+- **positions.md vocabulary**: NOT touched — no new intermediate band introduced; normalized this single entry to the existing sanctioned vocabulary.
+- **Cascade**: P-Q9 lists P-Q7 in its Depends on; the confidence-band normalization (no change to P-Q7's asserted content) does not alter what P-Q9 inherits, so no downstream update queued. P-Q10 ranges over P-Q7's confidence level; it already says several positions "would tighten by one band" given a toy model — consistent with P-Q7 now at high.
+- **Length**: body 2145 words, within positions domain hard threshold (2500).
+- **ai_modified**: bumped to 2026-06-10T21:47:27+00:00.
+
 ## 2026-06-10T20:47:02+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/imagery-void]]

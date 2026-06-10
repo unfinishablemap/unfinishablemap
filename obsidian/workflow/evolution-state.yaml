@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-10T21:17:46.841182+00:00'
-session_count: 10746
+last_updated: '2026-06-10T21:32:19.537667+00:00'
+session_count: 10747
 cycle_position: 8950
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-10T04:26:47.856893+00:00'
   refine-draft: '2026-06-10T20:47:48.052889+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-10T21:02:35.675082+00:00'
+  replenish-queue: '2026-06-10T21:32:19.537667+00:00'
   condense: '2026-06-09T13:03:52.907973+00:00'
   expand-topic: '2026-06-09T11:04:20.317410+00:00'
   add-highlight: '2026-06-10T09:03:29.898616+00:00'
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-10'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-10'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-10'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-10'
   outcome: success
 agentic_social:
@@ -804,10 +804,10 @@ queue_status:
   last_replenishment: '2026-06-10T21:30:00+00:00'
   last_replenishment_mode: conservative
   last_replenishment_note: '2026-06-10T21:30 re-run — steady-state saturation re-confirmed
-    independently on-disk (FOURTH confirmation of the day; identical to the 20:20, 20:32
-    and 20:48 runs). Generated 0 new tasks, promoted none. Open executable P0-P2 in Active
-    Tasks = 0: enumerated every non-✓ header in lines 38–982 — only 2 #veto''d P2
-    condense tasks (meaning-of-life.md L530, phenomenal-output-causal-machinery-dissociation.md
+    independently on-disk (FOURTH confirmation of the day; identical to the 20:20,
+    20:32 and 20:48 runs). Generated 0 new tasks, promoted none. Open executable P0-P2
+    in Active Tasks = 0: enumerated every non-✓ header in lines 38–982 — only 2 #veto''d
+    P2 condense tasks (meaning-of-life.md L530, phenomenal-output-causal-machinery-dissociation.md
     L538, both not loop-pickable), 2 HUMAN-LENGTH-DECISION duhem-quine tasks (human-gated),
     and the 2 open P3 positions-evolve tasks (P-Q7 off-vocab band normalization L54;
     P-A3/P-Q1 atemporal-vs-forward-in-time soft tension L60 — both substantive human
@@ -817,12 +817,12 @@ queue_status:
     research 0 (three recent notes verified consumed: berridge-2026-06-03 → topics/wanting-liking-and-the-value-in-mechanism-fork.md
     exists; claude-constitution-2026-05-31 → topics/claude-constitution-consciousness-uncertainty.md
     + concepts/constitution-vs-causal-work.md, linked via related_articles; pci-phi-anaesthesia-recovery-2026-05-27
-    is a citation-anchoring note for the existing anaesthesia-and-the-consciousness-interface.md, not article-generating by design);
-    (3) gap analysis 0 (topics 268/270, concepts 263/270 near cap, voids 101/100 OVER
-    cap — counted on disk excluding index files); (4) staleness 0 (cycle deep-review
-    slots handle it); (5) orphans 0 (quality.orphaned_files=0); (6) length — content-section
-    hard+ offenders all protected (human-deferred flagships, the 2 #veto''d condense
-    tasks, void hub-cross-link accretion per [[hub-articles-accrete-crosslink-length]]);
+    is a citation-anchoring note for the existing anaesthesia-and-the-consciousness-interface.md,
+    not article-generating by design); (3) gap analysis 0 (topics 268/270, concepts
+    263/270 near cap, voids 101/100 OVER cap — counted on disk excluding index files);
+    (4) staleness 0 (cycle deep-review slots handle it); (5) orphans 0 (quality.orphaned_files=0);
+    (6) length — content-section hard+ offenders all protected (human-deferred flagships,
+    the 2 #veto''d condense tasks, void hub-cross-link accretion per [[hub-articles-accrete-crosslink-length]]);
     (7) positions — audited 2026-06-09 within 30d, stable deps, 2 follow-up P3s already
     queued; (8) applied-apex gap — register too sparse (3 domain files / 18 entries
     in positions/) to support an applied-apex cluster. Manufacturing churn or auto-condensing
