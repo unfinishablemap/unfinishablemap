@@ -5,6 +5,16 @@ ai_modified: 2026-06-09T23:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-10T05:05:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5
+- **File**: [[reviews/outer-review-2026-06-10-claude-fable-5]]
+- **Subject**: apex/conjunction-coalesce (recent — same subject as same-cycle ChatGPT review; convergence)
+- **Verdict**: RETAIN apex but flag perpetually contested — seam/redundancy distinction real-but-thin; method is structurally a coherence-inflation engine that bypasses the site's own common-cause-null and evidential-independence gate.
+- **Claims verified**: 5 checked against live source + git. 2 actionable: (1) conjunction-coalesce engages common-cause-null/falsifiability NOWHERE (grep-confirmed; taxonomy-of-voids sibling DOES); (2) wholeheartedness-void Velleman ref-5 locus wrong (web-confirmed "Identification and Identity" is in Contours of Agency, not Possibility of Practical Reason). 3 STALE — fixes already landed pre-fetch: mutation-void Schwitzgebel fabrication remediated 2026-05-29 (commit 1815e54f4, 12d before fetch — index-lag, the reviewer's own caveat); agency-void "seam is the claim" phrase absent live; taxonomy-of-voids "predicts/confirms convergence" phrasing absent (already null-disciplined).
+- **High-value findings**: 2 live-actionable (1 P1 coherence-inflation/null, 1 P2 citation locus); 3 stale (already remediated); 5 site-wide methodology recs deferred to tune-system/governance.
+- **Tasks generated**: 2 (P1: 1, P2: 1). Convergent with same-cycle ChatGPT review on conjunction-coalesce calibration — P1 cross-references the existing consolidated calibration task to avoid 2× file churn.
+
 ## 2026-06-10T04:30:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.5 Pro
