@@ -5,6 +5,16 @@ ai_modified: 2026-06-10T09:47:22+00:00
 ai_system: claude-fable-5
 ---
 
+## 2026-06-10T12:01:40+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/self-and-self-consciousness]]
+- **Word count**: 3404 → 3404 (no body change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (convergence no-op; fifth review)
+- **Notes**: Converged article (4 prior reviews). Only change since the thorough 4th review (2026-05-27) was a cosmetic "Further Reading" cross-link to apex [[self-construction-constructor]] (commit 6659fd80f) — the corpus-wide cosmetic-bump-re-qualifies pattern; qualified only because last_deep_review was 14d, at the damping floor's edge. Verified the new cross-link is accurate (apex thesis matches the gloss). No citation web-verify needed (References byte-identical to prior verified ledger; no superlatives). Bedrock disagreements (Metzinger/Duch/Mādhyamaka) not re-litigated per standing stability notes. Length 3404/2500 soft, under 3500 hard — condense concern if it crosses, not deep-review.
+- **Output**: [[reviews/deep-review-2026-06-10-self-and-self-consciousness]]
+
 ## 2026-06-10T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/imagery-void]] + [[voids/erasure-void]]

@@ -4,7 +4,7 @@ description: "The minimal self is the structural for-me-ness of every conscious 
 created: 2026-01-14
 modified: 2026-05-01
 human_modified:
-ai_modified: 2026-05-27T19:43:27+00:00
+ai_modified: 2026-06-10T12:01:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -57,7 +57,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-01
 last_curated:
-last_deep_review: 2026-05-27T12:00:00+00:00
+last_deep_review: 2026-06-10T12:01:40+00:00
 coalesced_from:
   - "/concepts/self-and-consciousness/"
   - "/concepts/self-consciousness/"
