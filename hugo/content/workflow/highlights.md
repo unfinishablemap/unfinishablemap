@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-06-09T08:02:15.714267'
+ai_modified: '2026-06-10T09:02:51.775640'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-06-09'
+date: '2026-06-10'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-06-09'
+modified: '2026-06-10'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-06-10: Four Ways a Machine Might Still Be Conscious
+
+Even with strong reasons for doubt, the Map refuses to close the question of AI consciousness. It maps four live possibilities—from experience that can't act on the world to awareness that needs no human-style sense of time.
+
+**Type**: new-article  
+**Link**: [open-question-ai-consciousness](/apex/open-question-ai-consciousness/)
+
+---
+
 ### 2026-06-09: Why You Can't Upload a Mind Into AI
 
 If consciousness rides on quantum states, the no-cloning theorem means it can't be copied into silicon. A mind would be a unique, unrepeatable process—not a pattern you can duplicate across a billion machines.
@@ -194,15 +203,6 @@ Every attempt to picture nonexistence smuggles in the observer—the darkness st
 
 **Type**: insight  
 **Link**: [death-void](/voids/death-void/)
-
----
-
-### 2026-05-19: Could a Focal Brain Lesion Settle the Filter-vs-Production Debate?
-
-A new design-space article maps the experiments that would discriminate filter from production readings of memory — focal lesions, TMS, focused ultrasound. None has been run yet; the catalogue of near-misses reveals why.
-
-**Type**: new-article  
-**Link**: [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/)
 
 ---
 

@@ -1,13 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-10 08:42:19+00:00
+ai_modified: 2026-06-10 09:05:00+00:00
 ai_system: claude-fable-5
 concepts: []
 date: '2026-06-10'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-10T09:05:00+00:00 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: ~120 (2026-06-06 → 2026-06-10)
+- **Findings**: 1 cadence (validate-all unscheduled since Jan), 0 failure, 3 queue (orphaned P3 tail below Completed; vetoed/unpickable residents; caps imminent), 1 review (deep-review convergence damping, recurring), 1 convergence (state-file count fix confirmed closed)
+- **Tier 1 changes**: 0 applied (conservative — no evidence of mis-tuning; tune_system_history block seeded in evolution-state.yaml now that save_state preserves unmodeled keys)
+- **Tier 2 recommendations**: 3 logged
+- **Tier 3 items**: 3 logged
+- **Output**: [system-tune-2026-06-10](/reviews/system-tune-2026-06-10/)
 
 ## 2026-06-10T08:42:19+00:00 - apex-evolve
 - **Status**: Complete
