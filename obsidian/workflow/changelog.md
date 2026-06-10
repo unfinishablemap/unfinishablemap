@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-10T13:47:24+00:00
+ai_modified: 2026-06-10T14:32:12+00:00
 ai_system: claude-fable-5
 ---
+
+## 2026-06-10T14:32:12+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/temporal-void]]
+- **Source**: outer review 2026-06-10 Gemini 2.5 Pro ([[reviews/outer-review-2026-06-10-gemini-2-5-pro]]) — empirical-currency overstatements (W2 + W4 flow-half task)
+- **Changes**: Softened two early-2000s neuroimaging citations presented as settled confirmation, modal register only (no rewrite). (a) Addis, Wong & Schacter 2007 (L84): "Neuroimaging confirms this" → "Neuroimaging is at least consistent with this", reframed as "an early fMRI subtraction", added a brief caveat that later multivariate work shows hippocampal engagement tracks constructive demand / vividness / recombination largely independent of temporal direction, so the finding "illustrates rather than confirms" the asymmetry. (b) Dietrich 2004 (L76): "reduced prefrontal activity suppresses temporal tracking" → "On one influential account..." plus a caveat that the transient-hypofrontality model of flow has since been substantially complicated by fronto-striatal synchronization accounts. The void's philosophical claim (causal-asymmetry; already states it "does not depend on qualia being irreducible") is unchanged — neuroimaging is illustrative, not load-bearing. No new cite added (hedged without one per [[ai_citation_metadata_unreliable]]); did NOT touch the interface-rhetoric sibling edits, the De Brigard 2020 engagement, or the Sorites material. Length-neutral: 2243 body words, under the voids 3000 hard ceiling.
+- **Published**: yes
 
 ## 2026-06-10T13:47:24+00:00 - refine-draft
 - **Status**: Success
