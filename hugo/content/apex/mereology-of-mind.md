@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-07
-ai_modified: 2026-06-07 17:30:00+00:00
+ai_modified: 2026-06-10 05:54:56+00:00
 ai_system: claude-opus-4-8
 apex_last_synthesis: 2026-06-07 17:30:00+00:00
 apex_sources:
@@ -23,10 +23,13 @@ concepts:
 - '[[unity-of-consciousness]]'
 created: 2026-06-07
 date: &id001 2026-06-07
+description: Composition and individuation are two faces of one mereological question;
+  the de-combination problem is the hinge where consciousness resists the part-whole
+  relation both ways.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-06-10 05:54:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

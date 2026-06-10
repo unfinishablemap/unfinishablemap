@@ -5,6 +5,23 @@ ai_modified: 2026-06-09T23:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-10T06:14:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/conjunction-coalesce]]
+- **Original score**: N/A (`scripts/curate.py review` unavailable; outer-review convergent finding used as the review input)
+- **Source**: Convergent outer-review finding 2026-06-10 (ChatGPT 5.5 Pro + Claude Fable 5, 2/3 reviewers); consolidated P1 covering null/falsifiability + evidential-calibration findings #4/#5/#6 + bracketing. Synthesis: [[reviews/outer-review-synthesis-2026-06-10]]
+- **Changes**:
+  - (a) New "What the Count Is Worth" section: explicit [[project/common-cause-null|common-cause-null]] engagement down-counting the eight cases (two coalesces + six cognates) as *framework-internal coherence* with one editorial practice, not cross-domain instantiation — matching [[apex/taxonomy-of-voids]] calibration language; apex_thesis updated to carry the calibration (truncation resilience)
+  - (b) New "What Would Show an Accepted Coalesce Wrong" section: three operational falsifiers runnable now (paraphrase test, rival-derivation test, template-blind test), distinguished from the deferred future-science falsifier
+  - (c) "Empirical base" → "case base—an editorial record, not an empirical sample"; creation-time cognates explicitly marked as not independent historical merger events
+  - (d) Causal-substrate, architectural, and reflexive seam types all marked one-exemplar candidate types pending a second independent exemplar (only modal-categorical retains multiply-instantiated status)
+  - (e) Rival-mechanism note: metacognitive monitoring, report architecture, introspective-access bounds, linguistic coordination, domain-general temporal processing named as untested single-mechanism rivals; "resists unification" clause downgraded to "unrefuted because untested"
+  - (f) Selection-criterion-trilemma analogy in Synthesis sharpened: seam-preservation (methodological pause) explicitly separated from route-(iii) primitive retention (ontological commitment); analogy confined to shared defeasibility logic
+  - Engagement with the coherence-inflation/bracketing critique: the unsupported foundational move (absence-of-known-mechanism read as evidence-of-irreducible-conjunction, an epistemic→metaphysical slide) is identified and conceded in natural prose inside the count section, not boundary-marked; no label leakage into body
+  - Length funded by trims of existing prose (cognate descriptions, worked-failure section, downstream-maintenance section); all calibration hedges, citations (Watson, Velleman, Kay/Keogh/Pearson, aphantasia literature), and quote exhibits preserved; Husserl "all three" line untouched (separate P1 task); Velleman cite untouched (separate singleton task)
+- **Word count**: 4510 → 4984 body words (was soft_warning, remains soft_warning; under hard threshold 5000)
+- **Published**: yes
+
 ## 2026-06-10T05:54:56+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/mereology-of-mind]]
