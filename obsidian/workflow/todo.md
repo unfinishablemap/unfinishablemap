@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Reconcile "primary candidate site" hedge in decision-void
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-06-10 found a frame-vs-body hedging mismatch in `voids/decision-void.md`. The body honestly concedes "Classical bistable systems and stochastic accumulators also exhibit alternative-resolution shape; the form-matching argument identifies a phenomenologically-natural candidate site, not the uniquely possible one" — but the description frontmatter and the Relation-to-Site-Perspective section still assert "*the* primary candidate site/locus for non-physical influence," which overstates relative to the body's own concession. Light, length-neutral fix: soften the description + Relation-section "primary" language to "the most phenomenologically natural candidate site" (or add one clause justifying why phenomenological naturalness ranks this site above the classical alternatives the body concedes share the form). Secondary, optional: front-load one clause of "The Seam" severability argument into the opening so a truncated read does not see bare "convergence" language (guards against convergence-double-counting mis-read). Do NOT weaken the verified empirical content or the honest framework-boundary framing — both are strengths. All findings Low/Low-Medium; converged article, no critical defects. See `reviews/pessimistic-2026-06-10.md`.
+- **Source**: pessimistic-review
+- **Generated**: 2026-06-10
+
 ### P2: Clarify thrownness-void relation to the retention/protention temporal cluster
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #7 — the sibling fix to the P1 Husserl correction above. `voids/thrownness-void.md` currently grounds its Husserl use in phenomenological reduction/bracketing (line 83), NOT retention/protention, yet the apex temporal-cluster groups it with Transit and Temporal partly on a shared retention/protention literature. Either add a justified retention/protention subsection IF that genuinely belongs in Thrownness (only if the phenomenology supports it — do not manufacture it), OR add an explicit note that Thrownness is adjacent to but not directly grounded in the retention/protention literature, distinguishing its founding-moment-inaccessibility theme from the temporal-flow analyses in its cluster-mates. Coordinate with the P1 apex fix so the two articles agree. Bump ai_modified. Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.

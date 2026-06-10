@@ -5,6 +5,12 @@ ai_modified: 2026-06-10T09:47:22+00:00
 ai_system: claude-fable-5
 ---
 
+## 2026-06-10T00:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[voids/decision-void]] (The Decision Void)
+- **Findings**: No critical defects. Three load-bearing empirical claims web-verified accurate (Soon et al. 2008 ~60%/~7s, Tegmark 2000 ~10⁻¹³ s decoherence + Hameroff/Hagan rebuttal, Johansson et al. 2005 choice-blindness). No label leakage; MWI/physicalism boundary-disagreements honestly framework-marked, not boundary-substituted; altered-state symmetry gate does not apply. One Low-Medium frame-vs-body hedging mismatch: description + Relation-section assert "*the* primary candidate site" while the body concedes classical bistable/accumulator systems share the alternative-resolution form. Queued a P3 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-06-10]]
+
 ## 2026-06-10T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/empirical-phenomena-mental-causation]]
