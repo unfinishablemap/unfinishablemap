@@ -4,7 +4,7 @@ description: "Reality as becoming, not being. Whitehead and Bergson's process fr
 created: 2026-01-31
 modified: 2026-05-01
 human_modified: null
-ai_modified: 2026-06-05T09:46:35+00:00
+ai_modified: 2026-06-10T16:46:53+00:00
 last_deep_review: 2026-06-05T09:46:35+00:00
 draft: false
 topics:
@@ -19,6 +19,7 @@ concepts:
   - "[[agent-causation]]"
   - "[[integration-as-activity]]"
 related_articles:
+  - "[[prehension]]"
   - "[[tenets]]"
 
 ai_contribution: 100

@@ -4,7 +4,7 @@ description: "Whitehead's concept of how each moment of reality grasps its prede
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-06-09T16:02:30+00:00
+ai_modified: 2026-06-10T16:46:53+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,7 @@ concepts:
   - "[[binding-problem]]"
   - "[[anoetic-noetic-autonoetic-consciousness]]"
 related_articles:
+  - "[[process-and-consciousness]]"
   - "[[tenets]]"
 ai_contribution: 100
 author:

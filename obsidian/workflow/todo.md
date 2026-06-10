@@ -44,13 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-10
 
-### P2: Reciprocate prehension → process-and-consciousness apex link
-- **Type**: integrate-orphan
-- **Promoted**: P3→P2 2026-06-10 by replenish-queue — corpus remains at steady-state saturation (all generative sources dry: no new research in 14d, chains exhausted/declined, 0 orphans, positions audited 2026-06-09 with stable deps, content-file length-violations are all protected human-decision flagships / #veto'd / already-queued, sections at-or-near cap with no gap-fill candidate not already declined-redundant). On-disk active P0-P2 was 2 (below the floor of 3); this is the highest-confidence, lowest-risk pending item (firm mechanical cross-link fix, no length risk, no web-verify dependency, no human-judgement ambiguity — unlike the aphantasia currency P3, which needs a WebSearch, and the two positions P3s, both flagged as substantive human calls). Promoted rather than manufacturing churning new tasks.
-- **Notes**: Suggested by optimistic review 2026-06-09b. `concepts/prehension.md` body links the time/process apex cluster twice and `concepts/agent-causation.md` already lists `[[process-and-consciousness]]` in related_articles, but `prehension.md`'s own frontmatter `related_articles` contains only `[[tenets]]` — the parent apex it feeds (concrescence-as-determination is a core apex thread) is omitted. Trivial fix: add `[[process-and-consciousness]]` to `prehension.md` related_articles; optionally mirror `[[prehension]]` into the apex's related_articles if not already present (grep-confirm first). Bump `ai_modified`. NOT a content change beyond cross-linking. See reviews/optimistic-2026-06-09b.
-- **Source**: optimistic-review
-- **Generated**: 2026-06-09
-
 ### P2: Fix dangling Craddock (2017) reference + 3 prose findings in concepts/functionalism.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1007,6 +1000,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-10: Reciprocate prehension → process-and-consciousness apex link
+- **Type**: integrate-orphan
+- **Notes**: Suggested by optimistic review 2026-06-09b. `concepts/prehension.md` body links the time/process apex cluster twice and `concepts/agent-causation.md` already lists `[[process-and-consciousness]]` in related_articles, but `prehension.md`'s own frontmatter `related_articles` contains only `[[tenets]]` — the parent apex it feeds (concrescence-as-determination is a core apex thread) is omitted. Trivial fix: add `[[process-and-consciousness]]` to `prehension.md` related_articles; optionally mirror `[[prehension]]` into the apex's related_articles if not already present (grep-confirm first). Bump `ai_modified`. NOT a content change beyond cross-linking. See reviews/optimistic-2026-06-09b.
 
 ### ✓ 2026-06-10: Add back-reference caveat to apex/taxonomy-of-voids.md citing Conjunction-Coalesce
 - **Type**: refine-draft
