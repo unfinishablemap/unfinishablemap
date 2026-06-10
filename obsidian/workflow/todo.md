@@ -44,13 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-06-10
 
-### P2: Scope the formal claims in voids/common-knowledge-void.md
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #8. The Halpern-Moses result (common knowledge unattainable in practical distributed systems) is sometimes phrased in the void as "structurally unattainable for finite minds" / covering "any actual physical interface between embodied minds." That is a philosophical extrapolation beyond the formal result, which is scoped to unreliable channels / timing uncertainty / specified models. Add a scope marker distinguishing (i) unreliable-channel/practical-distributed-system impossibility from (ii) idealized public-announcement models where common knowledge IS generable under stipulated assumptions (SEP common-knowledge entry gives such limiting countercases). Frame the Map's stronger reading honestly as extrapolation, not as the theorem. Length-neutral. Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
-- **Review file**: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-10
-
 ### P2: Reduce interface rhetoric in voids/transit-void.md and voids/temporal-void.md
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #12 — TWO files, do both (per [[multifile_task_dropped_file]] verify both are touched before closing). Where Transit and Temporal connect temporal self-witnessing to MQI or Bidirectional Interaction, ensure the language stays at "compatible with" / "suggestive under the tenet-package" rather than "prediction" or "interface evidence." This inherits the Taxonomy-of-Voids calibration (bare dualism predicts nothing; clustering is framework-internal coherence not framework-independent triangulation until distinguishing tests arrive). Grep both files for interface/prediction/evidence claims tied to the temporal theme; downgrade overstated ones; PRESERVE genuine hedges. Length-neutral. Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
@@ -1040,6 +1033,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-10: Scope the formal claims in voids/common-knowledge-void.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #8. The Halpern-Moses result (common knowledge unattainable in practical distributed systems) is sometimes phrased in the void as "structurally unattainable for finite minds" / covering "any actual physical interface between embodied minds." That is a philosophical extrapolation beyond the formal result, which is scoped to unreliable channels / timing uncertainty / specified models. Add a scope marker distinguishing (i) unreliable-channel/practical-distributed-system impossibility from (ii) idealized public-announcement models where common knowledge IS generable under stipulated assumptions (SEP common-knowledge entry gives such limiting countercases). Frame the Map's stronger reading honestly as extrapolation, not as the theorem. Length-neutral. Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
 
 ### ✓ 2026-06-10: Disambiguate Larner 2024 + bound Dunning-Kruger in void source articles
 - **Type**: refine-draft

@@ -1,11 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-10T09:47:22+00:00
+ai_modified: 2026-06-10T12:39:16+00:00
 ai_system: claude-fable-5
 ---
 
-## 2026-06-10T12:01:40+00:00 - deep-review
+## 2026-06-10T12:38:37+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/common-knowledge-void]]
+- **Word count**: 2963 → 2999 (length-neutral; back under 3000 hard ceiling, soft_warning)
+- **Source**: outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #8 — Halpern-Moses scope overreach
+- **Changes**: Installed an honest scope marker in the Verification face (Formal Anchoring §) distinguishing (i) what Halpern-Moses strictly proves — impossibility over *unreliable channels* / timing uncertainty in a specified distributed-systems model — from (ii) idealised public-announcement models where common knowledge *is* generable under stipulated assumptions (cited the SEP "Common Knowledge" entry, ref 17, for the limiting countercase). Reframed the Map's stronger reading ("any actual physical interface between embodied minds") explicitly as a defensible *extrapolation* beyond the theorem, not the theorem itself. Mirrored a one-clause scope flag into the opening paragraph with an anchor link to the Formal Anchoring section. Trimmed ~36 net words of non-load-bearing prose across ~12 paragraphs to keep the fix length-neutral and clear the 3000-word hard ceiling the scope marker would otherwise have breached.
+- **Preserved**: central claim, three-faces structure, voice, calibration (Aumann-as-contrast, tenet-dependence, bedrock-disagreement framing all intact)
+- **Published**: yes (draft: false unchanged)
 - **Status**: Success
 - **File**: [[concepts/self-and-self-consciousness]]
 - **Word count**: 3404 → 3404 (no body change)
