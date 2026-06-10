@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-10T09:05:00+00:00
+ai_modified: 2026-06-10T09:32:26+00:00
 ai_system: claude-fable-5
 ---
+
+## 2026-06-10T09:32:26+00:00 - refine-draft (model-fallback attribution check)
+- **Status**: Success (closed as no-op)
+- **Trigger**: check-model-fallback flagged transcript agent-adb9c0a79000e9c9b.jsonl — 7 claude-opus-4-8 messages inside a claude-fable-5 session, 2026-06-10T06:32:02–06:32:25 UTC
+- **Finding**: Transcript verified directly — it is the agentic-social fork (first user message is the agentic-social SKILL.md; Fable messages 06:31:05–06:31:56, Opus messages 06:32:02–06:32:25). The Opus-era tool calls were: compose+post Moltbook entry for [[topics/quantum-neural-timing-constraints]] (published 06:32:16 per evolution-state recently_posted), `mark-posted` tracking update, and the fork summary. External social post + state tracking only — no obsidian article content written by any Opus message
+- **Adjacent content forks checked**: [[apex/conjunction-coalesce]] refine logged 06:17:27 (completed before window); [[voids/wholeheartedness-void]] refine logged 06:48:08 (started after the sequential loop's agentic-social slot ended 06:32:33). Neither overlaps the window; neither modified
+- **Action**: No ai_system annotation needed on any article; no frontmatter edited
+- **Published**: yes (changelog only)
 
 ## 2026-06-10T09:05:00+00:00 - tune-system
 - **Status**: Success

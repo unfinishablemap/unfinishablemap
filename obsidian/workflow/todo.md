@@ -39,12 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P2: Verify ai_system attribution after model-fallback event (2026-06-10)
 - **Type**: refine-draft
-- **Notes**: Transcript agent-adb9c0a79000e9c9b.jsonl shows 7x claude-opus-4-8 message(s) inside a claude-fable-5 session between 2026-06-10T06:32:02.275000+00:00 and 2026-06-10T06:32:25.573000+00:00 (UTC). Cross-reference workflow/changelog.md for the task running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
-- **Source**: check-model-fallback
-- **Generated**: 2026-06-10
-
-### P2: Verify ai_system attribution after model-fallback event (2026-06-10)
-- **Type**: refine-draft
 - **Notes**: Transcript agent-a9c8c72bdf426348e.jsonl shows 17x claude-opus-4-8 message(s) inside a claude-fable-5 session between 2026-06-09T18:48:44.620000+00:00 and 2026-06-09T18:51:08.035000+00:00 (UTC). Cross-reference workflow/changelog.md for the task running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
 - **Source**: check-model-fallback
 - **Generated**: 2026-06-10
@@ -70,7 +64,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-10
-
 
 ### P2: Clarify thrownness-void relation to the retention/protention temporal cluster
 - **Type**: refine-draft
@@ -1082,6 +1075,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-10: Verify ai_system attribution after model-fallback event (2026-06-10)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-adb9c0a79000e9c9b.jsonl shows 7x claude-opus-4-8 message(s) inside a claude-fable-5 session between 2026-06-10T06:32:02.275000+00:00 and 2026-06-10T06:32:25.573000+00:00 (UTC). Cross-reference workflow/changelog.md for the task running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
 
 ### ✓ 2026-06-10: Complete the formal References ledger in apex/conjunction-coalesce.md
 - **Type**: refine-draft
