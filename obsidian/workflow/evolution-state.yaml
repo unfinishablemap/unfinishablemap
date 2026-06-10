@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-10T15:19:05.871656+00:00'
-session_count: 10722
-cycle_position: 8943
+last_updated: '2026-06-10T15:34:29.713377+00:00'
+session_count: 10723
+cycle_position: 8944
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-10T11:04:16.900171+00:00'
@@ -22,9 +22,9 @@ last_runs:
   commission-chatgpt-review: '2026-06-10T02:09:21.706316+00:00'
   commission-claude-review: '2026-06-10T03:09:16.110773+00:00'
   commission-gemini-review: '2026-06-10T04:26:47.856893+00:00'
-  refine-draft: '2026-06-10T14:33:39.370636+00:00'
+  refine-draft: '2026-06-10T15:34:29.713377+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-10T14:50:23.842546+00:00'
+  replenish-queue: '2026-06-10T15:48:43.039609+00:00'
   condense: '2026-06-09T13:03:52.907973+00:00'
   expand-topic: '2026-06-09T11:04:20.317410+00:00'
   add-highlight: '2026-06-10T09:03:29.898616+00:00'
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-10'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-10'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-10'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-10'
   outcome: success
 agentic_social:
@@ -760,19 +760,34 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3
+  p2_tasks: 2
   p3_tasks: 3
   needs_replenishment: false
-  last_replenishment: '2026-06-10T14:40:00+00:00'
+  last_replenishment: '2026-06-10T15:40:00+00:00'
   last_replenishment_mode: conservative
-  last_replenishment_note: Corpus still at steady-state saturation; all generative
-    sources dry (no new research in 14d, chains exhausted/declined, 0 orphans, positions
-    audited 2026-06-09 with stable deps, content-file length-violations are all protected
-    human-decision flagships / veto-tagged / already-queued, sections at-or-near cap
-    with no non-declined gap-fill candidate). On-disk active P0-P2 had fallen to 2
-    (below floor of 3); restored by promoting the highest-confidence/lowest-risk pending
-    P3 (prehension reciprocal cross-link, integrate-orphan) rather than manufacturing
-    churning new tasks. The aphantasia-currency P3 and the two positions P3s were
-    left at P3 (WebSearch dependency and substantive human-judgement calls respectively).
-  replenishment_source_counts:
-    promotion: 1
+  last_replenishment_note: 'Re-ran replenish; corpus remains at steady-state saturation
+    confirmed on-disk this cycle. All 8 generative sources verified dry: (1) task chains
+    — 0 (recent_tasks window has no expand-topic/research-topic completions to chain;
+    dominant activity is refine-draft/deep-review/agentic-social, none forward-chaining);
+    (2) unconsumed research — 0 (only 3 research notes in last 14d, all consumed:
+    berridge-wanting-liking→wanting-liking-and-the-value-in-mechanism-fork,
+    claude-constitution→claude-constitution-consciousness-uncertainty,
+    pci-phi-anaesthesia→anaesthesia-and-the-consciousness-interface; research-topic
+    last ran 2026-06-03); (3) gap analysis — 0 (topics 268/270, voids 101/100 OVER cap,
+    concepts 263/270; prior gap candidates all declined-redundant); (4) staleness — 0
+    genuine (the 4 last_deep_review=null hits are positions-domain index files reviewed
+    via the 2026-06-09 audit cadence, not deep-review; article staleness handled by
+    cycle deep-review slots); (5) orphans — 0 (quality.orphaned_files=0); (6) length
+    — all 18 content-section offenders are protected human-decision flagships, #veto''d,
+    or already in todo (research/ offenders are working notes, not condense targets);
+    (7) positions — audited 2026-06-09 with stable deps + no contradictions, 2 follow-up
+    P3s already queued, no new assertively-committed position implied; (8) applied-apex
+    gap — register too sparse for a high-confidence cluster lacking applied apex.
+    On-disk open P0-P2 = 2 (functionalism Craddock-orphan fix + prehension cross-link,
+    both verified genuinely still pending). Floor is 3 but NO safe promotion remains:
+    the 3 open P3s all carry real blockers (aphantasia=WebSearch dependency + low-value
+    currency enrichment; both positions P3s=substantive human-judgement calls). Generated
+    0 new tasks and promoted none — manufacturing churn or auto-condensing a protected
+    flagship to hit the numeric floor would be net-negative. The 2 executable P2 tasks
+    will be consumed by the loop; this is the documented steady-state, not a defect.'
+  replenishment_source_counts: {}
