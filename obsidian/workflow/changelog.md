@@ -7,7 +7,14 @@ ai_system: claude-fable-5
 
 ## 2026-06-10T00:00:00+00:00 - refine-draft
 - **Status**: Success
-- **File**: [[topics/consciousness-in-simple-organisms]]
+- **File**: [[topics/empirical-phenomena-mental-causation]]
+- **Trigger**: topic-concept anchoring audit (Audit Three) flagged over-claim vs anchors [[mental-causation-and-downward-causation]] and [[mental-effort]]; failed checks: strong_assertions, underdetermination_markers
+- **Changes**:
+  - Strong-assertion density brought in line with anchors (2 → 0 marker verbs, 0.56/kw → 0.0): "Neuroimaging confirms placebo treatments activate" → "indicates" (empirical-report verb softened); "Research confirms several patterns" → "reports" (both were finding-reports, not philosophical over-claims, but inherit the anchor's calibration discipline)
+  - Installed explicit underdetermination marker in the framework-boundary section (0 → present): added "Neither reading is forced by the evidence: the phenomena are compatible with both interpretations, and what shifts between them is the cost of accommodation, not the truth of one over the other" — restating the article's existing "raise the cost without forcing abandonment" claim in the calibration vocabulary the anchor concept uses
+- **Voice preserved**: central two-sided empirical case (placebo + choking jointly constrain epiphenomenalism) untouched; cost-of-explanation framing and all conclusions retained — change is calibration discipline only, not a weakening of the central claim
+- **Verification**: `tools.curate.anchoring.evaluate_anchoring` returns no flags against either anchor concept
+- **Published**: yes
 - **Trigger**: topic-concept anchoring audit (Audit Three) flagged over-claim vs anchor [[neural-correlates-of-consciousness]]; failed checks: strong_assertions, underdetermination_markers
 - **Changes**:
   - Strong-assertion density brought in line with anchor (2 → 0 marker verbs, 0.50/kw → 0.0): "Physarum demonstrates 'basal cognition'" → "exhibits" (attributed cognitivist claim, verb softened); Whitehead section "But it shows that the debate need not be framed" → "But it suggests" (article-voice assertion hedged)
