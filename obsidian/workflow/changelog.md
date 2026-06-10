@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-10T12:48:14+00:00
+ai_modified: 2026-06-10T13:47:24+00:00
 ai_system: claude-fable-5
 ---
+
+## 2026-06-10T13:47:24+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/decision-void]]
+- **Source**: pessimistic-review 2026-06-10 ([[reviews/pessimistic-2026-06-10]]) — frame-vs-body hedging mismatch
+- **Changes**: Reconciled three "primary candidate site/locus" overstatements (description L3, void-cuts-close paragraph L51, Relation-to-Site-Perspective L125) with the body's own L51 concession that classical bistable systems and stochastic accumulators share the alternative-resolution form. Softened to "most phenomenologically natural candidate site/locus," framing the ranking as phenomenological fit not a uniqueness claim; tempered "predict the *most*" → "among the candidate voids where...the most." Front-loaded the Seam's logical-severability clause into the opening so a truncated read sees the conjunction-is-informative argument, not bare "convergence" (guards convergence-double-counting mis-read). Length-neutral: 2925w → 2984w, under the voids 3000 hard ceiling. No empirical content or framework-boundary framing weakened.
+- **Published**: yes
 
 ## 2026-06-10T13:00:00+00:00 - optimistic-review
 - **Status**: Success
