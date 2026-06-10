@@ -5,6 +5,16 @@ ai_modified: 2026-06-09T23:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-10T05:42:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro
+- **File**: [[reviews/outer-review-2026-06-10-gemini-2-5-pro]]
+- **Subject**: apex/conjunction-coalesce (recent — same subject as same-cycle ChatGPT + Claude-Fable reviews; reuse). Hostile-referee EMPIRICAL/CITATION audit attacking the void source articles' science (Temporal/Effort/Vagueness voids), NOT the apex methodology — a distinct shape from the two siblings, which both hit the apex's missing common-cause-null/falsifiability.
+- **Verdict**: "Reject without resubmit" — but the rejection rests on the apex relying on obsolete neuroimaging; in fact the apex makes NONE of the empirical claims itself (grep-confirmed), and Gemini audited the underlying voids and attributed their commitments to it.
+- **Claims verified**: 5 checked against live source + git + 1 WebSearch. 1 genuine actionable (W2: temporal-void presents Addis 2007 + Dietrich 2004 as settled "confirmation" with no currency caveat — grep-confirmed zero MVPA/continuism/synchronization engagement). 4 stale/addressed/out-of-scope: W1 (De Brigard functionalism) already engaged at temporal-void lines 82/90; W4 (Naccache/COGITATE) the Effort-Void apex already flags Naccache as un-replicated + engages the predictive-processing rival at length, and COGITATE 2025 (web-verified real, Nature 642:133-142) is already a tracked cross-article task — dedup; W5 (Sorites epistemic-vs-ontological) already conceded by vagueness-void's Popperian-honesty paragraph (line 113); W3 (contemplative bias/sensitivity) out-of-scope for this subject. Pattern: hostile-referee review hallucinated a less-hedged article than the live corpus (cf. 2026-06-05 Gemini edge-states, 3/5 misreads).
+- **High-value findings**: 1 live-actionable (P2 temporal-void currency-calibration); 4 stale/dedup/out-of-scope (no tasks).
+- **Tasks generated**: 1 (P2: 1). Coordinated with the sibling same-cycle temporal-void interface-rhetoric P2 (same file, one editor pass) and explicitly de-duped against the in-queue COGITATE cross-article work.
+
 ## 2026-06-10T05:05:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Fable 5

@@ -229,9 +229,9 @@
   commissioned_at: '2026-06-10T04:26:01.740761+00:00'
   prompt_summary: Hostile-referee audit of apex/conjunction-coalesce
   target_filename: outer-review-2026-06-10-gemini-2-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-10T05:14:14.083814+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal (Mind, Synthese, Philosophical Studies) assessing an article for submission.
