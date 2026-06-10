@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-10T13:33:33.135955+00:00'
-session_count: 10715
-cycle_position: 8940
+last_updated: '2026-06-10T13:48:45.464234+00:00'
+session_count: 10716
+cycle_position: 8941
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-10T11:04:16.900171+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-06-10T02:09:21.706316+00:00'
   commission-claude-review: '2026-06-10T03:09:16.110773+00:00'
   commission-gemini-review: '2026-06-10T04:26:47.856893+00:00'
-  refine-draft: '2026-06-10T12:50:04.248850+00:00'
+  refine-draft: '2026-06-10T13:48:45.464234+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
   replenish-queue: '2026-06-10T13:04:19.060473+00:00'
   condense: '2026-06-09T13:03:52.907973+00:00'
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: tune-system
-  type: tune-system
-  date: '2026-06-10'
-  outcome: success
 - task: add-highlight
   type: add-highlight
   date: '2026-06-10'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: optimistic-review
   type: optimistic-review
+  date: '2026-06-10'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-10'
   outcome: success
 agentic_social:
@@ -743,3 +743,18 @@ tune_system_history:
   changes_applied: []
   note: No Tier-1 changes (no evidence of cadence mis-tuning); 3 Tier-2 recs + 3 Tier-3
     items in reviews/system-tune-2026-06-10
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 3
+  p3_tasks: 4
+  needs_replenishment: false
+  last_replenishment: '2026-06-10T13:48:45+00:00'
+  last_replenishment_mode: conservative
+  last_replenishment_note: Corpus at steady-state saturation; all 6+ generative sources
+    dry (no new research in 14d, chains exhausted, 0 orphans, positions audited 2026-06-09
+    with stable deps, length-violations are protected human-decision flagships). Restored
+    active P0-P2 floor (2 -> 3) by promoting the highest-confidence pending P3 (functionalism
+    Craddock orphan-reference fix) rather than manufacturing churning new tasks.
+  replenishment_source_counts:
+    promotion: 1
