@@ -4,7 +4,7 @@ description: "When two voids are conjoined at a structural level, merging them i
 created: 2026-04-27
 modified: 2026-05-12
 human_modified: null
-ai_modified: 2026-06-10T05:45:00+00:00
+ai_modified: 2026-06-10T06:17:27+00:00
 last_deep_review: 2026-06-03T01:58:00+00:00
 draft: false
 topics: []
@@ -144,7 +144,7 @@ The test discriminated three outcomes, not two: the articles were not redundant 
 
 The Map currently maintains [[transit-void|the transit void]], [[thrownness-void|the thrownness void]], and [[temporal-void|the temporal void]] as separate articles, despite each exhibiting candidate structure. Transit treats consciousness's inability to witness its own crossings; thrownness, its inability to access the conditions under which it became conscious; temporal, its confinement to a moving present with asymmetric access to past and future.
 
-The three share a tenet connection (each engages [[tenets#^bidirectional-interaction|Bidirectional Interaction]] and [[tenets#^dualism|Dualism]] through a different temporal feature), an empirical literature (Husserl's retention-protention analysis appears in all three), and a structural shape (each names a kind of *self-witnessing failure* indexed to a temporal mode). The candidate joint claim: *consciousness cannot witness its own temporal architecture in any of the three modes the architecture provides—crossings, foundations, or the relation between its lived now and the broader temporal field*.
+The three share a tenet connection (each engages [[tenets#^bidirectional-interaction|Bidirectional Interaction]] and [[tenets#^dualism|Dualism]] through a different temporal feature), a Husserlian literature (Transit and Temporal engage the retention-protention analysis; Thrownness draws on the reduction's bracketing instead), and a structural shape (each names a kind of *self-witnessing failure* indexed to a temporal mode). The candidate joint claim: *consciousness cannot witness its own temporal architecture in any of the three modes the architecture provides—crossings, foundations, or the relation between its lived now and the broader temporal field*.
 
 The seam test counsels caution. The joint claim is genuinely structural rather than thematic, but "self-witnessing failure indexed to a temporal mode" may be a shared structural feature rather than a single conjoint void. If temporal mode is the underlying mechanism, the three faces are consequences of one principle and the article should be on the principle—the third refinement in operation. The Map currently judges this cluster does *not* yet meet the test cleanly enough to warrant a merger.
 

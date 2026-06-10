@@ -44,13 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-06-10
 
-### P1: Fix Husserl "all three" misattribution in apex/conjunction-coalesce.md
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #2 — VERIFIED on disk. `apex/conjunction-coalesce.md` line 140 claims "Husserl's retention-protention analysis appears in all three" (Transit, Thrownness, Temporal). FALSE for Thrownness: `voids/thrownness-void.md` line 83 invokes Husserl only for **phenomenological reduction / bracketing**; the strings "retention"/"protention" appear nowhere in Thrownness. Mechanical correction: replace the "appears in all three" empirical-literature claim with a narrower, accurate statement — e.g. Transit and Temporal engage retention/protention-like temporal self-witnessing, while Thrownness currently draws on Husserlian reduction/bracketing rather than retention/protention. Re-confirm the Transit and Temporal articles DO contain retention/protention before asserting it of them (grep both). This is a load-bearing premise of the temporal-cluster "not yet" verdict (line 140-144), so fix the framing without inflating the joint-claim. Bump ai_modified. Body length is near soft threshold — keep length-neutral. Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
-- **Review file**: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-10
-
 ### P2: Complete the formal References ledger in apex/conjunction-coalesce.md
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #3 — VERIFIED on disk. The "## Source Articles" block lists 14 entries but "## References" has only 5 (Agency, Voids Between Minds, Erasure, Transit, Taxonomy). Load-bearing internal sources absent from the formal ledger: Suspension, Imagery, Vagueness, Wholeheartedness, Thrownness, Temporal, Cardinality Floor, Apophatic Cartography, Mechanism-Costs Cartography. Resolve EITHER by adding every load-bearing source-article to the numbered References list, OR by explicitly redefining "Source Articles" as the auditable source ledger and folding "References" into it (the latter is lower-length-risk — the article is near its soft length threshold, so prefer a merge/redefine over duplicating 9 full citations). Reuse existing citation metadata from the Source Articles wikilinks; do not fabricate dates/authors. Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
@@ -1068,6 +1061,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-10: Fix Husserl "all three" misattribution in apex/conjunction-coalesce.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #2 — VERIFIED on disk. `apex/conjunction-coalesce.md` line 140 claims "Husserl's retention-protention analysis appears in all three" (Transit, Thrownness, Temporal). FALSE for Thrownness: `voids/thrownness-void.md` line 83 invokes Husserl only for **phenomenological reduction / bracketing**; the strings "retention"/"protention" appear nowhere in Thrownness. Mechanical correction: replace the "appears in all three" empirical-literature claim with a narrower, accurate statement — e.g. Transit and Temporal engage retention/protention-like temporal self-witnessing, while Thrownness currently draws on Husserlian reduction/bracketing rather than retention/protention. Re-confirm the Transit and Temporal articles DO contain retention/protention before asserting it of them (grep both). This is a load-bearing premise of the temporal-cluster "not yet" verdict (line 140-144), so fix the framing without inflating the joint-claim. Bump ai_modified. Body length is near soft threshold — keep length-neutral. Review file: `reviews/outer-review-2026-06-10-chatgpt-5-5-pro.md`.
 
 ### ✓ 2026-06-10: Run common-cause-null + falsifiability + evidential calibration inside apex/conjunction-coalesce.md (CONVERGENT — chatgpt + claude)
 - **Type**: refine-draft

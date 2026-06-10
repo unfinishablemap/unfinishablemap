@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-09T23:30:00+00:00
+ai_modified: 2026-06-10T06:17:27+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-10T06:17:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/conjunction-coalesce]]
+- **Original score**: N/A (mechanical citation-accuracy fix; outer-review finding #2 used as the review input)
+- **Source**: Outer review 2026-06-10 (ChatGPT 5.5 Pro), finding #2. Review file: [[reviews/outer-review-2026-06-10-chatgpt-5-5-pro]]
+- **Changes**:
+  - Corrected the temporal-cluster shared-literature claim: "Husserl's retention-protention analysis appears in all three" was false for Thrownness ([[thrownness-void]] invokes Husserl only for phenomenological reduction/bracketing, line 83; "retention"/"protention" absent). Verified by grep that [[transit-void]] (Husserl's Temporal Smoothing section) and [[temporal-void]] (tripartite structure passage) do engage retention-protention before asserting it of them. New wording: "a Husserlian literature (Transit and Temporal engage the retention-protention analysis; Thrownness draws on the reduction's bracketing instead)" — narrows the joint-claim premise without inflating it
+  - Length-neutral within headroom: body 4984 → 4991 words (hard threshold 5000, status unchanged soft_warning)
+  - `ai_modified` bumped
+- **Published**: yes
 
 ## 2026-06-10T06:14:00+00:00 - refine-draft
 - **Status**: Success
