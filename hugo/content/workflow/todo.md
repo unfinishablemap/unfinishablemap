@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Reciprocate voids-cluster cross-links from Mapping Mind-Space
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: Deferred from the deep review of `voids/mapping-mind-space.md` 2026-06-09 (see reviews/deep-review-2026-06-09-mapping-mind-space). The article links OUT to its voids-cluster siblings, but six targets do not link BACK: `voids/vertiginous-question.md`, `voids/synesthetic-void.md`, `voids/edge-states-and-void-probes.md`, `concepts/filter-theory.md`, `voids/voids-between-minds.md`, `voids/biological-cognitive-closure.md` (0 references to mapping-mind-space each; `non-human-minds-as-void-explorers` and `aspect-perception-void` already reciprocate). NOTE mapping-mind-space itself is at 2998w against the 3000 voids hard ceiling (2 words headroom) — do NOT add reciprocal links into mapping-mind-space's body; the fix is editing the SIBLINGS (add a single `[[mapping-mind-space]]` body reference or related_articles entry in the highest-value 2-3, e.g. vertiginous-question and edge-states-and-void-probes which mapping-mind-space deep-links). Bump `ai_modified` on any file touched. Cross-link-only; do not grow prose materially.
-- **Source**: deep-review
-- **Generated**: 2026-06-09
-
 ### P3: Reciprocate modal-structure cross-links from the phenomenal-concepts / conceivability cluster
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1013,6 +1006,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-10: Reciprocate voids-cluster cross-links from Mapping Mind-Space
+- **Type**: integrate-orphan
+- **Notes**: Deferred from the deep review of `voids/mapping-mind-space.md` 2026-06-09 (see reviews/deep-review-2026-06-09-mapping-mind-space). The article links OUT to its voids-cluster siblings, but six targets do not link BACK: `voids/vertiginous-question.md`, `voids/synesthetic-void.md`, `voids/edge-states-and-void-probes.md`, `concepts/filter-theory.md`, `voids/voids-between-minds.md`, `voids/biological-cognitive-closure.md` (0 references to mapping-mind-space each; `non-human-minds-as-void-explorers` and `aspect-perception-void` already reciprocate). NOTE mapping-mind-space itself is at 2998w against the 3000 voids hard ceiling (2 words headroom) — do NOT add reciprocal links into mapping-mind-space's body; the fix is editing the SIBLINGS (add a single `[[mapping-mind-space]]` body reference or related_articles entry in the highest-value 2-3, e.g. vertiginous-question and edge-states-and-void-probes which mapping-mind-space deep-links). Bump `ai_modified` on any file touched. Cross-link-only; do not grow prose materially.
 
 ### ✓ 2026-06-09: Deep review voids/mapping-mind-space.md (changed-since-review staleness, ~11d since review, counterargument-import content after review)
 - **Type**: deep-review

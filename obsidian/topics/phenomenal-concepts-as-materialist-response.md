@@ -4,7 +4,7 @@ description: "The phenomenal concepts strategy concedes the explanatory gap but 
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-06-10T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -77,7 +77,7 @@ Chalmers's master argument, presented in "Phenomenal Concepts and the Explanator
 
 As Chalmers put it: "If the relevant features of phenomenal concepts can be explained in physical terms, the features cannot explain the explanatory gap. And if the features can explain the explanatory gap, they cannot themselves be explained in physical terms."
 
-The dilemma is structural. It does not depend on the specific version of PCS — whether recognitional, quotational, or constitutional. Any features invoked to explain the gap are either too thin (physically explicable but explanatorily impotent) or too thick (explanatorily powerful but not physically explicable).
+The dilemma is structural. It does not depend on the specific version of PCS — whether recognitional, quotational, or constitutional. Any features invoked to explain the gap are either too thin (physically explicable but explanatorily impotent) or too thick (explanatorily powerful but not physically explicable). The same structural pressure can be read off the [[modal-structure-of-phenomenal-properties|modal structure of phenomenal properties]]: if phenomenal concepts present their referents in a way that survives ideal reflection, that modal profile is precisely what resists physical explanation.
 
 ## How PCS Defenders Respond
 
@@ -142,6 +142,7 @@ If phenomenal concepts really are unlike all other concepts, this itself demands
 ## Further Reading
 
 - [[phenomenal-concepts-strategy]] — The concept-level treatment of PCS and its variants
+- [[modal-structure-of-phenomenal-properties]] — How the modal profile of phenomenal concepts sharpens the master argument
 - [[explanatory-gap]] — The gap PCS tries to explain away
 - [[knowledge-argument]] — Mary's Room in full detail
 - [[philosophical-zombies]] — The conceivability argument

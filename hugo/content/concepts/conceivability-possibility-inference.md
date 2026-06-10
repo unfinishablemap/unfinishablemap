@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-05-27 16:45:00+00:00
+ai_modified: 2026-06-10 00:00:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -130,7 +130,7 @@ The conceivability-possibility inference embodies a form of *modal rationalism*�
 
 Modal rationalists point to successful cases (mathematical and logical necessity discovered through pure reason); empiricists point to failures (physical necessities that intuition missed). Neither side can resolve the dispute without presupposing something about the reliability of rational reflection.
 
-However, consciousness conceivability may have special epistemic status. Unlike conceiving of non-Euclidean geometry or faster-than-light travel—where we lack direct access to the subject matter—we have first-person acquaintance with what consciousness *is*. When we conceive of a physical duplicate lacking consciousness, we are not manipulating abstract symbols but imagining the absence of something we know intimately through [introspection](/concepts/introspection/). This gives zombie conceivability a different evidential weight from conceivability claims about domains we understand only theoretically. As the [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) highlights, the very persistence and universality of the conceivability intuition is itself a datum requiring explanation.
+However, consciousness conceivability may have special epistemic status. Unlike conceiving of non-Euclidean geometry or faster-than-light travel—where we lack direct access to the subject matter—we have first-person acquaintance with what consciousness *is*. When we conceive of a physical duplicate lacking consciousness, we are not manipulating abstract symbols but imagining the absence of something we know intimately through [introspection](/concepts/introspection/). This gives zombie conceivability a different evidential weight from conceivability claims about domains we understand only theoretically. The [modal structure of phenomenal properties](/topics/modal-structure-of-phenomenal-properties/) makes this concrete: the central argument there rests on exactly this inference, treating the ideal conceivability of phenomenal-physical separation as a guide to the modal profile of qualia themselves. As the [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) highlights, the very persistence and universality of the conceivability intuition is itself a datum requiring explanation.
 
 ## Relation to Site Perspective
 
@@ -155,6 +155,7 @@ Both moves carry costs. The first requires demonstrating where zombie conceiving
 - [dualism](/concepts/dualism/) — How conceivability arguments fit into the broader case for dualism
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal experience that conceivability arguments exploit
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — Physicalism's most sophisticated response to conceivability-based arguments
+- [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — Where this inference does load-bearing work in mapping the modal profile of qualia
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure as a targeted challenge to conceivability reasoning about consciousness
 - [tenets](/tenets/) — The foundational commitments that conceivability arguments support
 

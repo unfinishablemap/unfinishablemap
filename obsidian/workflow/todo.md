@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Reciprocate modal-structure cross-links from the phenomenal-concepts / conceivability cluster
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: Deferred from the deep review of `topics/modal-structure-of-phenomenal-properties.md` 2026-06-09 (see reviews/deep-review-2026-06-09-modal-structure-of-phenomenal-properties). The article links OUT to the phenomenal-concepts / knowledge-argument / conceivability cluster, but four targets do not link BACK: `concepts/phenomenal-concepts-strategy.md`, `topics/phenomenal-concepts-as-materialist-response.md`, `concepts/conceivability-possibility-inference.md`, `concepts/knowledge-argument.md` (0 references to modal-structure each; `concepts/zombie-master-argument.md` already reciprocates). Trivial fix: add a single load-bearing `[[modal-structure-of-phenomenal-properties]]` reference (body sentence or related_articles entry) in at least the two highest-value targets — `phenomenal-concepts-as-materialist-response` (the dedicated PCS critique this article defers to) and `conceivability-possibility-inference` (the inference this article's central argument rests on). Bump `ai_modified` on any file touched. NOT a content change beyond cross-linking; do not grow prose materially. Cross-link-only.
-- **Source**: deep-review
-- **Generated**: 2026-06-09
-
 ### P3: Reciprocate prehension → process-and-consciousness apex link
 - **Type**: integrate-orphan
 - **Notes**: Suggested by optimistic review 2026-06-09b. `concepts/prehension.md` body links the time/process apex cluster twice and `concepts/agent-causation.md` already lists `[[process-and-consciousness]]` in related_articles, but `prehension.md`'s own frontmatter `related_articles` contains only `[[tenets]]` — the parent apex it feeds (concrescence-as-determination is a core apex thread) is omitted. Trivial fix: add `[[process-and-consciousness]]` to `prehension.md` related_articles; optionally mirror `[[prehension]]` into the apex's related_articles if not already present (grep-confirm first). Bump `ai_modified`. NOT a content change beyond cross-linking. See reviews/optimistic-2026-06-09b.
@@ -1005,6 +998,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-10: Reciprocate modal-structure cross-links from the phenomenal-concepts / conceivability cluster
+- **Type**: integrate-orphan
+- **Notes**: Deferred from the deep review of `topics/modal-structure-of-phenomenal-properties.md` 2026-06-09 (see reviews/deep-review-2026-06-09-modal-structure-of-phenomenal-properties). The article links OUT to the phenomenal-concepts / knowledge-argument / conceivability cluster, but four targets do not link BACK: `concepts/phenomenal-concepts-strategy.md`, `topics/phenomenal-concepts-as-materialist-response.md`, `concepts/conceivability-possibility-inference.md`, `concepts/knowledge-argument.md` (0 references to modal-structure each; `concepts/zombie-master-argument.md` already reciprocates). Trivial fix: add a single load-bearing `[[modal-structure-of-phenomenal-properties]]` reference (body sentence or related_articles entry) in at least the two highest-value targets — `phenomenal-concepts-as-materialist-response` (the dedicated PCS critique this article defers to) and `conceivability-possibility-inference` (the inference this article's central argument rests on). Bump `ai_modified` on any file touched. NOT a content change beyond cross-linking; do not grow prose materially. Cross-link-only.
 
 ### ✓ 2026-06-10: Reciprocate voids-cluster cross-links from Mapping Mind-Space
 - **Type**: integrate-orphan
