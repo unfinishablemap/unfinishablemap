@@ -5,9 +5,16 @@ ai_modified: 2026-06-10T14:32:12+00:00
 ai_system: claude-fable-5
 ---
 
-## 2026-06-10T15:33:12+00:00 - refine-draft
+## 2026-06-10T16:00:00+00:00 - refine-draft
 - **Status**: Success
-- **File**: [[apex/taxonomy-of-voids]]
+- **File**: [[concepts/functionalism]]
+- **Source**: pessimistic review 2026-06-09 ([[reviews/pessimistic-2026-06-09]])
+- **Word count**: 2982 → 2971 (-11; concepts soft 2500 / hard 3500 — status unchanged soft_warning, net length-negative)
+- **Changes**:
+  - PRIMARY (mechanical): Removed orphan References entry — Craddock et al. (2017) *Sci Rep* 7:9877 — confirmed dangling (no Craddock/terahertz/tubulin/microtubule/613 mention anywhere in body). Benign DANGLING variant (metadata WAS the correct 7:9877 paper, not the wrong-paper 2015 variant); residue of the 2026-05-23 corpus 613 THz sweep. Removed rather than wiring an inline cite, since the body makes no microtubule/terahertz claim to support one. References use auto-numbered `1.` markdown — no manual renumber needed.
+  - SECONDARY (b): illusionism "self-undermining" rebuttal (§The Illusionist Response) was begging the question against Frankish-style functional-judgement intuitions. Downgraded to honest framework-boundary marking — added the illusionist's available reply (judgements retain evidential weight without phenomenal seemings) and noted the Map's reliance on phenomenal seemings as itself a non-functionalist commitment. Natural prose, no editor-vocabulary. Engagement with the illusionist/Frankish: Mode Three (framework-boundary marking — the disagreement is bedrock and is now declared as such rather than dressed as in-framework refutation).
+  - SECONDARY (a) supervenience→separability bridge (line ~55) and (c) concession-convergence narrative parity (Putnam / Milinkovic & Aru): NO-OP — already adequately hedged ("if truly non-physical"; "favoured interpretation, not one the data force" / "same caveat") and already forward-anchored to the zombie argument and the formal-arguments page.
+- **Published**: yes
 - **Source**: outer review 2026-06-10 ChatGPT 5.5 Pro, finding #13 ([[reviews/outer-review-2026-06-10-chatgpt-5-5-pro]])
 - **Word count**: 4518 → 4587 (+69; apex soft 4000 / hard 5000 — status unchanged soft_warning, no threshold crossed)
 - **Changes**: At the Conjunction-Coalesce citation (the multi-face conjoint-voids paragraph), added a short caveat that the multi-face seam adds evidential weight ONLY after (a) origin-class scoring — true prior-article coalesce vs native creation-time cognate vs retroactive classification, since cognates postdating the discipline are not independent merger events — and (b) common-cause / null-model discounting. Caveat closes with "case base, not an empirical base", linking [[conjunction-coalesce#what-the-count-is-worth]] so the two apex pages agree on the seam pattern's independent weight. Length kept as tight as the required additive content allows.

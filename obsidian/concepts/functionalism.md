@@ -4,7 +4,7 @@ description: "Mental states defined by causal roles, not substrate. Absent quali
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-06-01T00:00:00+00:00
+ai_modified: 2026-06-10T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -102,7 +102,7 @@ The [[phenomenology-vs-function-axis|phenomenology-vs-function axis]] supplies e
 
 [[illusionism]] offers functionalism's most radical defense: qualia as we conceive them don't exist. Introspection systematically misrepresents our internal states; what seems irreducible is actually a cognitive illusion.
 
-The anti-illusionist presses: even an illusion requires a subject to whom things *seem* a certain way, and that seeming is itself an experience. The illusionist denies precisely this—"seeming" is a functional state with no further phenomenal residue. The Map sides with the anti-illusionist intuition because the alternative is self-undermining: if seeming is never phenomenal, our philosophical intuitions—including those motivating illusionism—lose their evidential standing.
+The anti-illusionist presses: even an illusion requires a subject to whom things *seem* a certain way, and that seeming is itself an experience. The illusionist denies precisely this—"seeming" is a functional state with no further phenomenal residue. The Map sides with the anti-illusionist intuition: if seeming is never phenomenal, our philosophical intuitions—including those motivating illusionism—lose their evidential standing. The illusionist can reply that judgements are functional states whose evidential weight survives without phenomenal seemings, so the charge does not refute illusionism on its own terms. The disagreement is at the framework boundary—the Map's treatment of phenomenal seemings as evidence is itself a non-functionalist commitment—and is noted as such.
 
 ### The Phenomenal Concepts Strategy
 
@@ -194,7 +194,6 @@ None of these would logically refute dualism—the conceivability arguments woul
 1. Boisseau, R.P., Vogel, D. & Dussutour, A. (2016). "Habituation in non-neural organisms: evidence from slime moulds." *Proceedings of the Royal Society B*, 283(1829), 20160446.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 1. Fodor, J.A. (1974). "Special Sciences (Or: The Disunity of Science as a Working Hypothesis)." *Synthese*, 28(2), 97-115.
-1. Craddock, T.J.A., et al. (2017). "Anesthetic Alterations of Collective Terahertz Oscillations in Tubulin Correlate with Clinical Potency." *Scientific Reports*, 7, 9877.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Lewis, D. (1972). "Psychophysical and Theoretical Identifications." *Australasian Journal of Philosophy*, 50, 249-258.
 1. Milinkovic, B. & Aru, J. (2026). "On biological and artificial consciousness: A case for biological computationalism." *Neuroscience & Biobehavioral Reviews*, 181, 106524. (Epub 17 Dec 2025; print Feb 2026.)
