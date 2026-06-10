@@ -5,6 +5,16 @@ ai_modified: 2026-06-09T23:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-10T05:22:08+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-10
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Fable 5, Gemini 2.5 Pro); shared subject apex/conjunction-coalesce
+- **Clusters**: 1 convergent, 8 singleton, 0 divergent
+- **Convergent finding**: apex/conjunction-coalesce never engages the common-cause-null / evidential-independence / falsifiability discipline its sibling taxonomy-of-voids uses (flagged independently by ChatGPT + Claude; grep-confirmed live)
+- **Tasks upgraded**: 1 (P2→P1: the consolidated apex calibration/null task; claude's null task already P1 so the merged convergent task stays P1)
+- **Tasks deduplicated**: 1 (claude P1 null/falsifiability + chatgpt P2 evidential-calibration → one P1, both review files listed)
+- **Output**: [[reviews/outer-review-synthesis-2026-06-10]]
+
 ## 2026-06-10T05:42:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 2.5 Pro
