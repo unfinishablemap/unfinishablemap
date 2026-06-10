@@ -169,3 +169,30 @@
   subject_articles:
   - concepts/illusionism.md
   subject_source: reuse:pending-reviews:outer-review-2026-06-09-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a28c709-2aa4-8331-a13c-fd125d49f157
+  commissioned_at: '2026-06-10T02:08:46.292061+00:00'
+  prompt_summary: Audit apex conjunction-coalesce
+  target_filename: outer-review-2026-06-10-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "The Unfinishable Map (https://unfinishablemap.org) is a philosophical\
+    \ platform defending a dualist worldview in which consciousness causes quantum\
+    \ collapse. Please conduct a rigorous outer review of one apex synthesis article:\
+    \ https://unfinishablemap.org/apex/conjunction-coalesce/ (last substantively revised\
+    \ 2026-06-03). Recent site activity is logged at https://unfinishablemap.org/workflow/changelog/\
+    \ \u2014 consult it, since web-search indexes lag 24-48 hours behind the live\
+    \ site. Audit the article: are its central claims adequately supported? Are citations\
+    \ accurate and current, or stale or misattributed? Which counterarguments does\
+    \ it omit or under-engage? Where does tenet-protective bracketing (special pleading\
+    \ to shield the dualist commitments) weaken the argument? Assess how well it integrates\
+    \ with surrounding apex, topic, and concept articles, and whether its synthesis\
+    \ genuinely adds value beyond its sources. End your report with a list of concrete\
+    \ potential improvements to specific articles and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit conjunction-coalesce
+  subject_articles:
+  - apex/conjunction-coalesce.md
+  subject_source: fallback:recent-aged
