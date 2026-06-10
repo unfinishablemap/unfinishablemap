@@ -3,7 +3,7 @@ title: "The Mereology of Mind"
 created: 2026-06-07
 modified: 2026-06-07
 human_modified:
-ai_modified: 2026-06-07T17:30:00+00:00
+ai_modified: 2026-06-10T05:54:56+00:00
 draft: false
 topics:
   - "[[consciousness-and-the-metaphysics-of-composition]]"
@@ -19,12 +19,13 @@ related_articles:
   - "[[panpsychisms-combination-problem]]"
   - "[[identity-across-transformations]]"
   - "[[process-and-consciousness]]"
+description: "Composition and individuation are two faces of one mereological question; the de-combination problem is the hinge where consciousness resists the part-whole relation both ways."
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-07
 last_curated:
-last_deep_review:
+last_deep_review: 2026-06-10T05:54:56+00:00
 apex_type: synthesis
 apex_sources:
   - topics/consciousness-and-the-metaphysics-of-composition
