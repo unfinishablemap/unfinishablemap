@@ -1,13 +1,79 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-09 19:52:57+00:00
+ai_modified: 2026-06-09 23:30:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-09'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-09T23:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [mapping-mind-space](/voids/mapping-mind-space/)
+- **Word count**: 2998 → 2998 (no body edit; 150% of 2000 voids soft, **2 words under 3000 hard ceiling** — strict length-neutral)
+- **Critical issues addressed**: 0 (fourth review; converged + well-calibrated)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (LICENSE-TO-NO-OP; only last_deep_review bumped, ai_modified untouched)
+- **Calibration audit (prompt a+b)**: the post-05-29 refines tightened calibration honestly — epistemic/metaphysical-slide separation (Dualism paragraph: epistemic limit arises under physicalism too; ontological reading explicitly "conditional on the tenets, not an independent finding"), unbridged-convergence retraction (section retitled "Arguments for…" not "Convergent…"; "not independent confirmations… no bridge argument"), Carr demoted to "speculative metaphysics… not a peer of the measured findings." Diagnostic test (would a tenet-accepting reviewer flag overstatement?) returns NO corpus-wide. No possibility/probability slippage; hedges load-bearing, not mush. Void evidential-status discipline honoured.
+- **Citations**: publisher-of-record web-verify of the post-05-29-added literature — Carr 2021 (Perspectives on Consciousness Ch.7, Nova, ed. Dennison; SPR-tradition framing faithful), Fleming & Shea 2024 (TiCS 28(10):896–906), Bayne/Hohwy/Owen 2016 (TiCS 20(6):405–413), Birch/Schnell/Clayton 2020 (TiCS 24(10):789–801; five dimensions verified), Butlin/Long 2023 (arXiv:2308.08708), McGinn 1989 (Mind 98(391):349–366; both citations + naturalist-not-dualist stance faithful), Schwitzgebel 2024 (Weirdness of the World; symmetric-crazyism stance faithful) — ALL real-correct, faithful stances. No fabricated/wrong-metadata cites.
+- **Engagements**: functionalist/representationalist + Fleming-Shea quality-space replies = Mode Three (framework-boundary marking) in natural prose; no boundary-substitution, no editor-vocabulary label leakage.
+- **Style**: no "This is not X. It is Y." cliché.
+- **Deferred**: 6 voids-cluster siblings don't reciprocate inbound links (vertiginous-question, synesthetic-void, edge-states-and-void-probes, filter-theory, voids-between-minds, biological-cognitive-closure) — P3 integrate-orphan queued (fix the siblings, NOT this length-critical file).
+- **Length flag**: 2-word headroom = hub-accretion length-neutral-condense candidate on next own-content touch; NOT auto-condensed this pass.
+- **Output**: [deep-review-2026-06-09-mapping-mind-space](/reviews/deep-review-2026-06-09-mapping-mind-space/)
+
+## 2026-06-09T22:52:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [default-mode-network](/concepts/default-mode-network/)
+- **Word count**: 2529 → 2529 (no body edit; 101% of 2500 soft — at ceiling, strict length-neutral; under 3500 hard)
+- **Critical issues addressed**: 0 (seventh consecutive converged review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article converged; only last_deep_review bumped, ai_modified untouched)
+- **Citations**: publisher-of-record ledger recorded (first time) — Killingsworth & Gilbert 2010 Science 330:932, Fox et al. 2014 Neurosci Biobehav Rev 43:48–73, Carhart-Harris & Friston 2019 Pharmacol Rev 71(3):316–344 — all real-correct; foundational Buckner/Raichle/CH-2012 cites verified prior pass
+- **Audit**: post-05-26 changes are pure cross-link installs (theory-of-mind cohort `e730084ce`; self-construction-constructor apex `6659fd80f`); substantive own-content unchanged. No slippage, Mode-Three opponent engagements honest, no label leakage, no "not X. It is Y." cliché
+- **Output**: [deep-review-2026-06-09-default-mode-network](/reviews/deep-review-2026-06-09-default-mode-network/)
+
+## 2026-06-09T22:07:46+00:00 - deep-review
+- **Status**: Success
+- **File**: [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/)
+- **Word count**: 2384 → 2384 (no body edit; 79% of 3000 soft — comfortable, length-neutral)
+- **Critical issues addressed**: 0 (fifth consecutive converged review)
+- **Medium issues addressed**: 0 in-article; 1 deferred (cross-link reciprocation gap → P3 follow-up)
+- **Enhancements made**: 0 (article converged; only last_deep_review bumped)
+- **Audit**: post-05-26 PCS-calibration refine (commit ebec228e1) confirmed a conservative calibration *tightening* ("establishes"→"points to", "shows"→"argues"), no defect; type-B physicalism + PCS master-argument engaged at full strength, no strawman
+- **Citation web-verify**: Chalmers 2002 web-verified real-correct at publisher (Gendler & Hawthorne eds., OUP, pp.145-200); Chalmers 1996/2006, Kripke 1972/80, Jackson 1982, Levine 1983 all real-correct (canonical, re-verified). Article does NOT cite Loar/Stoljar — that PCS attribution lives correctly in the linked [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) concept page
+- **Calibration**: no possibility/probability slippage; conceivability→possibility kept as contested-and-defended, not asserted
+- **Output**: [deep-review-2026-06-09-modal-structure-of-phenomenal-properties](/reviews/deep-review-2026-06-09-modal-structure-of-phenomenal-properties/)
+
+## 2026-06-09T21:38:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [concession-convergence-philosophy-of-mathematics](/topics/concession-convergence-philosophy-of-mathematics/)
+- **Word count**: 2498 → 2510 (+12; length-neutral, 83% of 3000 soft)
+- **Critical issues addressed**: 0 (converged — 4th-pass confirmation)
+- **Medium issues addressed**: 1 (added reciprocal [argument-from-reason](/topics/argument-from-reason/) cross-link, both directions)
+- **Enhancements made**: 1 cross-link clause in the Lucas–Penrose section
+- **Citation web-verify**: all 8 references real-correct at publisher of record (Gödel/Russell-Whitehead/Brouwer/Benacerraf/Shapiro/Wright/Lucas/Penrose); Lucas–Penrose held as contested route not proof; Putnam/Boolos/Feferman critic attribution + consistency-objection engagement verified fair
+- **GWT-calibration audit (commit 394257db4)**: modal-register softening only, correctly calibrated, no slippage
+- **Engagement modes**: common-cause/Tegmark objection — Mode Three (framework-boundary), no boundary-substitution, no label leakage
+- **Output**: [deep-review-2026-06-09-concession-convergence-philosophy-of-mathematics](/reviews/deep-review-2026-06-09-concession-convergence-philosophy-of-mathematics/)
+
+## 2026-06-09T21:15:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Free-will / agent-causation cluster (agent-causation, compatibilist-symmetry-challenge, libet-experiments, free-will) read against the Whitehead-adjacent prehension / composition-and-consciousness concepts — all freshly touched this cycle; area chosen to avoid today's first optimistic review (minimal-organism) and recent cycle reviews (composition, temporal, contemplative)
+- **Output**: [optimistic-2026-06-09b](/reviews/optimistic-2026-06-09b/)
+- **Tasks queued**: 1 (P3 integrate-orphan — reciprocate prehension → process-and-consciousness apex link)
+
+## 2026-06-09T21:15:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [testing-the-map-from-inside](/apex/testing-the-map-from-inside/)
+- **Word count**: 3882 → 3882 (no body change; clean verify pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Audit focus**: 5th review; changed-since-review staleness (ai_modified 2026-05-26 > last_deep_review 2026-05-19). Focus = the new citation-bearing section "What the Effort Test Cannot See" (apex-evolve +406w, four fresh citations). §2.4 PUBLISHER-OF-RECORD WEB-VERIFY of all four — all real-correct, faithful claim-stance: Naccache et al. 2005 (*Neuropsychologia*, PMID 15949516, ACC-lesion patient/SCR dissociation); Hagger et al. 2016 (*Perspectives on Psychological Science* 11(4):546-573 — figures AUDITED AND CONFIRMED EXACT: k=23 labs, N=2,141, d=0.04 CI [-0.07,0.15] straddling zero, "indistinguishable from zero" not overstated); Westbrook et al. 2020 (*Science* 367:1362-1366, dopamine cost-benefit biasing); Kurzban et al. 2013 (*Behavioral and Brain Sciences* 36(6):661-679, opportunity-cost model). (b) Constrain-vs-establish discipline holds — dissociations remove the simplest reading WITHOUT establishing the interface reading (lines 132, 218); no possibility/probability slippage. (c) Convergence claim calibrated as evidential weight not proof. (d) New-section cross-links resolve live; mental-effort reciprocates; attention-as-interface back-link asymmetry noted (low, not actioned). (e) No "This is not X. It is Y." cliché. Length 3882w / 97% of 4000 apex soft — under soft, length-neutral CLEAN review. No-op verdict; ai_modified left at 2026-05-26 (body unchanged), last_deep_review bumped.
+- **Output**: [deep-review-2026-06-09-testing-the-map-from-inside](/reviews/deep-review-2026-06-09-testing-the-map-from-inside/)
 
 ## 2026-06-09T20:30:00+00:00 - deep-review
 - **Status**: Success

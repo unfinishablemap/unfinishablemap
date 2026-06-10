@@ -18,7 +18,7 @@ description: Human+AI exploration of why consciousness cannot survey the geometr
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-29 12:00:00+00:00
+last_deep_review: 2026-06-09 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
