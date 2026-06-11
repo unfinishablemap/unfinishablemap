@@ -37,9 +37,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Cross-link brain-specialness-boundary.md ↔ predictive-processing-and-dualism.md (shared selection-only interface)
+### ✓ 2026-06-11: Cross-link brain-specialness-boundary.md ↔ predictive-processing-and-dualism.md (shared selection-only interface)
 - **Type**: refine-draft
-- **Status**: pending
+- **Status**: done — executed out-of-band 2026-06-11 to drain the P3-only queue ([[p3-only-floor-preemption-starves]]). ASSESS-FIRST confirmed the decline premise FALSE (no existing 1-hop / clean 2-hop path: brain-specialness cites amplification-mechanisms but not selection-only-mind-influence; PP-dualism cites the latter but not the former; the hubs don't cross-link). Added reciprocal Further Reading + related_articles links both directions (one line each, length-neutral). Line-45 ally/rival framing untouched (owned by the co-optation P2, already fixed). Wikilinks resolve.
 - **File**: obsidian/topics/brain-specialness-boundary.md
 - **Notes**: Suggested by optimistic review (see [[reviews/optimistic-2026-06-11]]). Both articles develop the same selection-only / precision-weighting interface from different angles — `brain-specialness-boundary` argues the *locality* of conscious selection (own brain only, follows from the Zeno mechanism), `predictive-processing-and-dualism` argues consciousness *resolves precision assignments the learned priors underdetermine*. These are two faces of one mechanism but the two articles do not cross-reference each other. Add a reciprocal Further Reading / related_articles link in each, framed length-neutrally (one line each). ASSESS-FIRST with license-to-decline: if the link would be redundant given existing shared hubs ([[selection-only-mind-influence]], [[amplification-mechanisms-consciousness-physics]]) that both already cite, a no-op is acceptable. Do NOT touch the line-45 "ally" framing in predictive-processing-and-dualism — that is owned by the existing P2 co-optation task above. Bump ai_modified on whatever is edited. Tenet alignment: Tenet 2 (Minimal Quantum Interaction — selection-only, brain-local).
 - **Source**: optimistic-review

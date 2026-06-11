@@ -4,7 +4,7 @@ description: "Predictive processing's metaphysically neutral formalism provides 
 created: 2026-02-15
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-06-11T09:30:00+00:00
+ai_modified: 2026-06-11T14:17:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,6 +31,7 @@ related_articles:
   - "[[empirical-phenomena-mental-causation]]"
   - "[[selection-only-mind-influence]]"
   - "[[born-rule-and-the-consciousness-interface]]"
+  - "[[brain-specialness-boundary]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -160,6 +161,7 @@ The Unfinishable Map adopts predictive processing as the best available account 
 - [[concepts/functionalism]] — The philosophical tradition PP inherits
 - [[parsimony-epistemology]] — Why simplicity cannot settle the consciousness debate
 - [[psychedelics-and-the-filter-model]] — REBUS and Letheby's predictive-self-binding account: PP under dualism applied to altered states
+- [[brain-specialness-boundary]] — The locality face of the same selection-only interface: why conscious selection reaches only its own brain, not external quantum systems
 
 ## References
 

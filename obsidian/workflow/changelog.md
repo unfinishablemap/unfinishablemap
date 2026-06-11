@@ -5,6 +5,14 @@ ai_modified: 2026-06-11T11:02:23+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-11T14:17:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/brain-specialness-boundary]] + [[topics/predictive-processing-and-dualism]]
+- **Trigger**: Optimistic-review cross-link suggestion (2026-06-11), ASSESS-FIRST with license-to-decline — reciprocal link between the two faces of the selection-only / precision-weighting interface.
+- **Assessment**: The decline condition (redundant given shared hubs both cite) did NOT hold. Checked: brain-specialness cites [[amplification-mechanisms-consciousness-physics]] but NOT [[selection-only-mind-influence]]; PP-and-dualism cites [[selection-only-mind-influence]] but NOT amplification-mechanisms. The two named hubs do not cross-link each other either, so there was no existing 1-hop or clean 2-hop navigational path between the two articles. Reciprocal link genuinely aids navigation.
+- **Changes**: Added one Further Reading line in each article (length-neutral) plus a reciprocal related_articles frontmatter entry. brain-specialness → PP-and-dualism framed as "precision-resolution face"; PP-and-dualism → brain-specialness framed as "locality face" of the same selection-only interface. Did NOT touch the line-45 rival/ally framing in PP-and-dualism (GUARD honored). Verified both wikilink targets resolve.
+- **Published**: yes
+
 ## 2026-06-11T14:05:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/perceptual-failure-and-the-interface]]

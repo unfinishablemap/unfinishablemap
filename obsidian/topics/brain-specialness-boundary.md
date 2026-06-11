@@ -4,7 +4,7 @@ description: "If consciousness biases quantum outcomes in the brain, why can't i
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-06-11T07:02:20+00:00
+ai_modified: 2026-06-11T14:17:18+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,7 @@ related_articles:
   - "[[brain-specialness-boundary-2026-01-15]]"
   - "[[pairing-problem]]"
   - "[[consciousness-selecting-neural-patterns]]"
+  - "[[predictive-processing-and-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
@@ -162,6 +163,7 @@ None of these has occurred. The current framework remains consistent with availa
 - [[filter-theory]] — Consciousness as filtered through the brain
 - [[conservation-laws-and-mental-causation]] — Why consciousness doesn't violate conservation laws
 - [[embodied-cognition]] — The role of embodiment in consciousness
+- [[predictive-processing-and-dualism]] — The other face of the same selection-only interface: where the brain's precision weighting leaves assignments underdetermined for consciousness to resolve
 
 ## References
 
