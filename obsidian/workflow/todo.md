@@ -37,23 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Calibrate rival-engagement in perceptual-failure-and-the-interface (outer review 2026-06-11)
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/perceptual-failure-and-the-interface.md
-- **Notes**: From convergent outer reviews (2026-06-11, 3/3 reviewers): [chatgpt, claude, gemini]. The PP-rival under-engagement is flagged independently by all three; the Skrzypulec/Martina co-optation reframe by all three (ChatGPT "Martina is the biggest citation-role problem"; Claude "every citation checks out... yet the piece systematically conscripts naturalist authors"; Gemini "selectively ignores the primary contemporary counter-argument provided by Martina"). See synthesis. The article's modest "perceptual breakdown is diagnostic" claim holds, but it moves too fast from "rival doesn't solve the hard problem" to "interface model fits better" (boundary-substitution). Consolidate these body-prose findings into ONE coherent editorial pass (do not spawn separate refines per item — they all touch the same article):
-  - **Predictive-processing rival under-engaged.** The "Neural Network Objection" answers a generic distributed-network account, not PP+active-inference (the strongest computational rival). Test the four bandwidth signatures (graded loss, priority preservation, compensatory generation, occasional expansion) against PP — which can read blur as lowered sensory precision, priority preservation as precision-weighting, compensatory imagery as top-down model activity under reduced constraint, squinting/reaching-for-glasses as active inference. Land on a calibrated claim: perceptual failure is evidence for interface-COMPATIBLE architecture, not strong evidence against PP; the residual objection is the hard problem.
-  - **Naive-realist/relationalist rival not faced in strongest form.** The article argues against a direct-realism caricature. Add engagement with the relationalist answer (Martina's own pluralism; Ian Phillips, "Naive realism and the science of illusion").
-  - **Skrzypulec reframe.** "Doubles down on the hard problem" implies a defeat of his theory on its own terms; it isn't. Reframe as a hard-problem boundary claim: Skrzypulec domesticates blur for representationalism/transparency at the content level; the Map's objection is one level deeper (why is either content phenomenally felt).
-  - **Import sibling caveats.** Anaesthesia section: harmonize "channel shutting down / apparent absence" with the anaesthesia article's connected/disconnected/unconscious taxonomy and its production-model-compatible caveat. Neurological-dissociations use: import the sibling's "compatibility-grade, not vindication-grade" framing rather than a bare "supports the interface model".
-  - **Blindsight contestation** (mechanical citation part split into the P2 below): phrase the Phillips (2021) claim as conditional, flagging the live debate.
-  - Apply the [[direct-refutation-discipline]] remit. Identify what each engagement calls for: showing the rival defective on its own terms, naming an unsupported foundational move, or honestly marking a framework-boundary disagreement. Apply the corresponding reply mode in natural journal-quality prose — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. Do NOT expose mode labels in the article body; keep the classification in the changelog entry. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared.
-  - This article is the subject of a 3-reviewer triple (ALL THREE COLLECTED + SYNTHESIZED: ChatGPT, Claude Fable 5, Gemini 2.5 Pro). CONVERGENCE CONFIRMED by /combine-outer-reviews on: (1) under-engagement with predictive processing as the strongest rival (all 3); (2) Skrzypulec/Martina co-optation (all 3); (3) unflagged blindsight contestation / Michel & Lau 2021 (all 3, Claude+Gemini with exact pages); (4) over-reliance on Carhart-Harris 2012 (Claude inverted-entropy + Gemini neurovascular-confound, 2 reviewers — see the separate Claude P1). CAUTION re Gemini: its report contains THREE FABRICATED attributions (a "10 bits/sec" figure, a "quantum-level biasing"/Müller-Lyer cognitive-impenetrability section, and a Necker-cube/PP strawman quote) — NONE of those strings are in the article; do NOT act on them. The convergent PP point is real; only Gemini's specific Necker-cube framing is fabricated. See the Gemini review's Verification Notes. Watch length: article is already substantial; this is calibration + targeted additions, prefer length-neutral where possible.
-- **Review files**: `reviews/outer-review-2026-06-11-chatgpt-5-5-pro.md`, `reviews/outer-review-2026-06-11-claude-fable-5.md`, `reviews/outer-review-2026-06-11-gemini-2-5-pro.md`
-- **Synthesis**: `reviews/outer-review-synthesis-2026-06-11.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-11
-
 ### P1: Fix Martina citation metadata + add contested-blindsight references (perceptual-failure-and-the-interface)
 - **Type**: refine-draft
 - **Status**: pending
@@ -1055,6 +1038,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-11: Calibrate rival-engagement in perceptual-failure-and-the-interface (outer review 2026-06-11)
+- **Type**: refine-draft
+- **Notes**: From convergent outer reviews (2026-06-11, 3/3 reviewers): [chatgpt, claude, gemini]. The PP-rival under-engagement is flagged independently by all three; the Skrzypulec/Martina co-optation reframe by all three (ChatGPT "Martina is the biggest citation-role problem"; Claude "every citation checks out... yet the piece systematically conscripts naturalist authors"; Gemini "selectively ignores the primary contemporary counter-argument provided by Martina"). See synthesis. The article's modest "perceptual breakdown is diagnostic" claim holds, but it moves too fast from "rival doesn't solve the hard problem" to "interface model fits better" (boundary-substitution). Consolidate these body-prose findings into ONE coherent editorial pass (do not spawn separate refines per item — they all touch the same article):
 
 ### ✓ 2026-06-11: Adopt interactionist-dualism calibration in quantum-state-inheritance-in-ai
 - **Type**: refine-draft

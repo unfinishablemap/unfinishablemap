@@ -5,6 +5,24 @@ ai_modified: 2026-06-11T05:05:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-11T05:40:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/perceptual-failure-and-the-interface]]
+- **Source**: CONVERGENT outer-review P1 (2026-06-11, 3/3 reviewers; synthesis reviews/outer-review-synthesis-2026-06-11.md). One consolidated prose-calibration pass.
+- **Changes**:
+  - Rewrote "The Neural Network Objection" → "The Predictive-Processing Objection": tests the four bandwidth signatures (graded loss/priority preservation/compensatory generation/active inference) against PP + active inference; lands on the calibrated claim that perceptual failure is evidence for interface-COMPATIBLE architecture, NOT strong evidence against PP, the residual being the hard problem. Added reciprocal cross-link [[predictive-processing]] (both directions; backlink added to concepts/predictive-processing.md).
+  - Reframed Martina (2023) in the transparency section: she is a naturalist relationalist recruited toward a conclusion she rejects; added engagement with the relationalist answer in its strongest form (Martina's pluralism + Ian Phillips on naive realism/illusion) rather than a direct-realism caricature.
+  - Reframed Skrzypulec: dropped "doubles down on the hard problem" (implied in-framework defeat); recast as a hard-problem boundary claim — his interoceptive account domesticates blur for representationalism at the CONTENT level; the Map's objection is one level deeper (why is either content phenomenally felt).
+  - Harmonized the anaesthesia section with the sibling's connected/disconnected/unconscious taxonomy + its production-model-compatible caveat ("earns the architecture, not adjudication"). Imported the neurological-dissociations "consistent with / compatibility-grade, not vindication-grade" framing, replacing a bare "supports the interface model".
+  - Made the blindsight claim CONDITIONAL ("may be better understood"; flagged the same-issue rebuttal + live contestation) WITHOUT adding a new named inline cite — orphan guard observed, References untouched, formal Michel & Lau entry left to the sibling citation-metadata P1.
+  - Folded the two-reviewer Carhart-Harris 2012 over-reliance finding into the Selective Preservation section: noted the entropy-INCREASE theoretical core (production-compatible) + the neurovascular-confound on the BOLD/connectivity decreases; demoted it to the suggestive column.
+- **Engagement classifications** (editor-internal): predictive processing — Mode Two opening (PP helps itself to felt-ness without specifying the bridge) then Mode Three residue (hard-problem disagreement is bedrock); relationalism (Martina/Phillips) — Mode Three (framework-boundary: relationalism coherent on its own terms, the Map marks the why-felt residue honestly); Skrzypulec — Mode Three (content-level work conceded, phenomenal-presence gap is boundary, not in-framework defeat); production theorist (anaesthesia/Carhart-Harris) — Mode Three (component-decomposition / entropy data available to production reading; evidence earns architecture not adjudication).
+- **Length**: 2969 → 3370 words (soft_warning; hard ceiling 4000 clear). New content is reviewer-demanded dialectical engagement; trimmed Hoffman/Gradation/Selective-Preservation redundancy to offset.
+- **Altered-state symmetry**: evaluate_symmetry returns None (clean) after the disruptive-cluster harmonization.
+- **References**: untouched; no dangling inline cite introduced.
+- **Caution observed**: did NOT act on Gemini's three fabricated attributions (10 bits/sec, quantum-biasing/Müller-Lyer, Necker-cube/PP strawman) — the real PP engagement is the bandwidth-signatures test.
+- **Published**: yes (draft: false, unchanged)
+
 ## 2026-06-11T05:05:00+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-06-11

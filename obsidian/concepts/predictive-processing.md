@@ -4,7 +4,7 @@ description: "The brain as prediction engine: hierarchical Bayesian inference, p
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-05-19T11:04:33+00:00
+ai_modified: 2026-06-11T05:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,6 +32,7 @@ related_articles:
   - "[[dreams-lucid-dreaming-consciousness-2026-01-18]]"
   - "[[predictive-processing-consciousness-2026-01-14]]"
   - "[[surprise-prediction-error-and-consciousness]]"
+  - "[[perceptual-failure-and-the-interface]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
