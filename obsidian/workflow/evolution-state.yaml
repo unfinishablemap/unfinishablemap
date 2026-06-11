@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-11T11:32:53.177050+00:00'
-session_count: 10803
+last_updated: '2026-06-11T11:48:49.828132+00:00'
+session_count: 10804
 cycle_position: 8967
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-11T04:05:55.683761+00:00'
   refine-draft: '2026-06-11T10:19:27.050708+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-11T11:17:33.555403+00:00'
+  replenish-queue: '2026-06-11T11:48:49.828132+00:00'
   condense: '2026-06-09T13:03:52.907973+00:00'
   expand-topic: '2026-06-09T11:04:20.317410+00:00'
   add-highlight: '2026-06-11T08:02:23.537503+00:00'
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-11'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-11'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-11'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-11'
   outcome: success
 agentic_social:
@@ -902,38 +902,39 @@ queue_status:
   last_replenishment_mode: conservative
   last_replenishment_note: '2026-06-11T11:40 re-run — generated 0 new tasks (9th 0-task
     run today; documented steady-state, not a defect). RE-VERIFIED ALL EIGHT GENERATIVE
-    SOURCES ON DISK this run, all dry. Loop-pickable Active on disk = 4 (1× P2, 3× P3),
-    unchanged from the 10:40 run: P2 mental-effort calibration in topics/authentic-vs-inauthentic-choice
+    SOURCES ON DISK this run, all dry. Loop-pickable Active on disk = 4 (1× P2, 3×
+    P3), unchanged from the 10:40 run: P2 mental-effort calibration in topics/authentic-vs-inauthentic-choice
     (anchoring audit 2026-06-10, todo L64); P3 brain-specialness-boundary ↔ predictive-processing-and-dualism
-    cross-link (optimistic-review, assess-first/license-to-decline, L40); P3 tighten mild
-    REBUS-enlistment in psychedelics-and-the-filter-model (co-optation firewall follow-on,
-    L47); P3 flag NDE/van-Lommel contestation in perceptual-failure-and-the-interface
-    (Gemini outer review — the one verified-actionable item; its 3 other findings FABRICATED,
-    do NOT act; L55). Disk re-checks this run: (1) chains 0 — last research-topic 2026-06-03
-    (consumed), last expand-topic 2026-06-09; no executable completion to forward-chain.
-    (2) unconsumed research 0 actionable — only the voids notes are unconsumed-by-slug,
-    and voids is 101/100 OVER CAP → blocked, not actionable; all other recent research/
-    notes are Feb/Mar-dated, modified-bumped 06-05 by a sweep, disk-confirmed consumed.
-    (3) caps on disk (find, excl index): topics 268/270, concepts 263/270 (both near
-    cap), voids 101/100 OVER, positions 3; no high-confidence non-voids expand candidate.
-    (4) staleness 0 — handled by cycle deep-review slots. (5) orphans 0. (6) length —
-    get_length_warnings re-run on disk; every content-section hard+ offender is #veto''d
-    (apex-articles 6963w, phenomenal-output 6835w — index/aggregator hubs), DIVERTED-TO-HUMAN
-    / standing HUMAN LENGTH DECISION (epistemology-of-convergence 6479w, born-rule 5106w,
-    clinical-dissociation 4863w, laws-and-dispositions 4213w, valence 4092w, composition
-    4045w, edge-states 3482w), or a cross-link-accreting / recently-condensed hub (argument-from-reason
-    4489w, epistemic-advantages 4400w, time-collapse 4606w, filter-theory 3500w, simple-organisms
-    4025w, phenomenal-authority 4022w; voids agency-void 3174w / what-voids-reveal 3019w
-    / wholeheartedness-void 3006w over from inbound-cross-link accretion per [[hub-articles-accrete-crosslink-length]],
+    cross-link (optimistic-review, assess-first/license-to-decline, L40); P3 tighten
+    mild REBUS-enlistment in psychedelics-and-the-filter-model (co-optation firewall
+    follow-on, L47); P3 flag NDE/van-Lommel contestation in perceptual-failure-and-the-interface
+    (Gemini outer review — the one verified-actionable item; its 3 other findings
+    FABRICATED, do NOT act; L55). Disk re-checks this run: (1) chains 0 — last research-topic
+    2026-06-03 (consumed), last expand-topic 2026-06-09; no executable completion
+    to forward-chain. (2) unconsumed research 0 actionable — only the voids notes
+    are unconsumed-by-slug, and voids is 101/100 OVER CAP → blocked, not actionable;
+    all other recent research/ notes are Feb/Mar-dated, modified-bumped 06-05 by a
+    sweep, disk-confirmed consumed. (3) caps on disk (find, excl index): topics 268/270,
+    concepts 263/270 (both near cap), voids 101/100 OVER, positions 3; no high-confidence
+    non-voids expand candidate. (4) staleness 0 — handled by cycle deep-review slots.
+    (5) orphans 0. (6) length — get_length_warnings re-run on disk; every content-section
+    hard+ offender is #veto''d (apex-articles 6963w, phenomenal-output 6835w — index/aggregator
+    hubs), DIVERTED-TO-HUMAN / standing HUMAN LENGTH DECISION (epistemology-of-convergence
+    6479w, born-rule 5106w, clinical-dissociation 4863w, laws-and-dispositions 4213w,
+    valence 4092w, composition 4045w, edge-states 3482w), or a cross-link-accreting
+    / recently-condensed hub (argument-from-reason 4489w, epistemic-advantages 4400w,
+    time-collapse 4606w, filter-theory 3500w, simple-organisms 4025w, phenomenal-authority
+    4022w; voids agency-void 3174w / what-voids-reveal 3019w / wholeheartedness-void
+    3006w over from inbound-cross-link accretion per [[hub-articles-accrete-crosslink-length]],
     not own-content growth). Remaining hits are research/ notes (no length ceiling).
     None auto-mintable; auto-condensing risks [[condense-regresses-calibration-qualifiers]].
     (7) positions — full audit ran 2026-06-09 (18 entries / 4 domains, no contradictions,
-    deps resolve), register last touched 2026-06-10, no dependency moved → nothing due.
-    (8) applied-apex gap — register too sparse for a high-confidence cluster. The 4 pickable
-    tasks ARE the floor-restoring work; they should be picked and executed by the loop.
-    PRIOR NOTE: 2026-06-11T10:40 re-run — generated 0 new tasks (8th 0-task
-    run today; documented steady-state, not a defect). Loop-pickable Active on disk
-    = 4 (1× P2, 3× P3): P2 mental-effort calibration in authentic-vs-inauthentic-choice
+    deps resolve), register last touched 2026-06-10, no dependency moved → nothing
+    due. (8) applied-apex gap — register too sparse for a high-confidence cluster.
+    The 4 pickable tasks ARE the floor-restoring work; they should be picked and executed
+    by the loop. PRIOR NOTE: 2026-06-11T10:40 re-run — generated 0 new tasks (8th
+    0-task run today; documented steady-state, not a defect). Loop-pickable Active
+    on disk = 4 (1× P2, 3× P3): P2 mental-effort calibration in authentic-vs-inauthentic-choice
     (anchoring audit 2026-06-10); P3 brain-specialness-boundary ↔ predictive-processing-and-dualism
     cross-link (optimistic-review, assess-first/license-to-decline); P3 tighten mild
     REBUS-enlistment in psychedelics-and-the-filter-model (co-optation firewall follow-on);

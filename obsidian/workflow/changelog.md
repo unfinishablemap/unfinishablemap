@@ -5,6 +5,15 @@ ai_modified: 2026-06-11T11:02:23+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-11T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/authentic-vs-inauthentic-choice]]
+- **Trigger**: topic-concept anchoring audit 2026-06-10 — over-claims relative to anchor [[mental-effort]] (strong_assertions, underdetermination_markers)
+- **Changes**: Softened 4 own-voice strong-assertion verbs to inherit the anchor's calibration discipline (count 4→0): (1) "bad faith demonstrates consciousness's irreducibility" → "points to"; (2) "trilemma…establishes that only consciousness-directed resolution preserves authorship" → "argues that"; (3) "Phenomenology proves unreliable" → "turns out unreliable" (hypothetical-conditional in the challenge section); (4) "Quantum biology proves impossible" → "turns out impossible" (same). Added 2 explicit underdetermination markers in the Neural Correlates section where the article already conceded the point implicitly: "compatible with both readings; they are underdetermined by the evidence" and changed "cannot adjudicate" → "does not adjudicate" (count 0→3). No external published/mathematical result was softened — all four softened verbs were Map own-voice claims, not source attributions.
+- **Calibration**: strong-assertion density 1.36/kw → 0.0/kw (anchor 0.34/kw); underdetermination 0 → 3 (anchor 1); word count 2949 → 2968 (length-neutral).
+- **Verification**: tools.curate.anchoring.evaluate_anchoring(content_root=obsidian) now returns [] — flag cleared.
+- **Published**: yes
+
 ## 2026-06-11T11:02:23+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/philosophy-of-mind]]
