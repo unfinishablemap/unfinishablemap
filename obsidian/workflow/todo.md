@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Fix PP co-optation in topics/predictive-processing-and-dualism.md ("most productive scientific ally")
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/predictive-processing-and-dualism.md
+- **Notes**: Surfaced by the 2026-06-11 co-optation-firewall corpus audit (Claude Fable 5 outer review, List B follow-on). STRONGEST conscription found: line ~45 ends "Far from threatening dualism, PP is its most productive scientific ally" — this enlists the Friston/Clark/Hohwy/Seth predictive-processing + active-inference framework as a dualist ALLY, when these authors are committed physicalists who build PP/active inference explicitly to AVOID the dualist conclusion (Friston's Markovian monism is explicitly anti-dualist). Apply the newly-extended co-optation firewall in `project/writing-style.md` ("Don't Conscript Committed Physicalists") + [[evidential-status-discipline]] + [[direct-refutation-discipline]]: REFRAME from cite-as-ally to cite-as-rival — PP supplies a metaphysically-neutral architecture the Map CAN build on, but its leading proponents draw the opposite conclusion; the Map's claim is that the formalism doesn't MANDATE physicalism, NOT that PP endorses dualism. Preserve the genuine cite-as-rival material already present (meta-problem rebuttal, "even though Clark draws different conclusions"). Length-neutral; natural prose, no mode labels in body; bump ai_modified. Review file: `reviews/outer-review-2026-06-11-claude-fable-5.md`.
+- **Source**: outer-review (co-optation audit follow-on)
+- **Generated**: 2026-06-11
+
+### P2: Fix borderline Carhart-Harris/Friston co-optation in apex/altered-states-as-interface-evidence.md
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/apex/altered-states-as-interface-evidence.md
+- **Notes**: Surfaced by the 2026-06-11 co-optation-firewall corpus audit (Claude Fable 5 outer review follow-on). Borderline conscription, less hedged than the psychedelics topic: around line ~88 "Filter theory reinterprets the same mechanism" recruits Carhart-Harris/Friston's REBUS/entropic-brain work toward the filter conclusion WITHOUT rival-marking that these authors build the opposite (physicalist) model. Apply the extended co-optation firewall (`project/writing-style.md` "Don't Conscript Committed Physicalists" + [[evidential-status-discipline]]): add explicit cite-as-rival marking — the empirical findings are cited, but REBUS/entropic-brain is a physicalist research programme whose authors reject the filter reading; the Map reinterprets the data, it does not enlist the authors. Length-neutral; natural prose, no mode labels. Bump ai_modified. Review file: `reviews/outer-review-2026-06-11-claude-fable-5.md`.
+- **Source**: outer-review (co-optation audit follow-on)
+- **Generated**: 2026-06-11
+
+### P3: Tighten mild REBUS-enlistment in topics/psychedelics-and-the-filter-model.md
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/psychedelics-and-the-filter-model.md
+- **Notes**: Surfaced by the 2026-06-11 co-optation-firewall corpus audit (Claude Fable 5 outer review follow-on). MILD — the article is mostly well-hedged (L71/L129 explicitly state REBUS is *compatible with* not *supporting of* filter theory), but lines ~67–69 ("maps remarkably well") lean toward enlistment of the Carhart-Harris programme. Light touch: soften the "maps remarkably well" phrasing toward the compatible-with-not-supportive framing the rest of the article already uses; consistent with the extended co-optation firewall (`project/writing-style.md`). Length-neutral; preserve the existing good hedging. Bump ai_modified. Review file: `reviews/outer-review-2026-06-11-claude-fable-5.md`.
+- **Source**: outer-review (co-optation audit follow-on)
+- **Generated**: 2026-06-11
+
 ### P3: Flag NDE-evidence contestation in perceptual-failure-and-the-interface (outer review 2026-06-11, Gemini 2.5 Pro)
 - **Type**: refine-draft
 - **Status**: pending
