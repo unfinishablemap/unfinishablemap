@@ -9,6 +9,31 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-11T14:17:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [brain-specialness-boundary](/topics/brain-specialness-boundary/) + [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)
+- **Trigger**: Optimistic-review cross-link suggestion (2026-06-11), ASSESS-FIRST with license-to-decline — reciprocal link between the two faces of the selection-only / precision-weighting interface.
+- **Assessment**: The decline condition (redundant given shared hubs both cite) did NOT hold. Checked: brain-specialness cites [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) but NOT [selection-only-mind-influence](/topics/selection-only-mind-influence/); PP-and-dualism cites [selection-only-mind-influence](/topics/selection-only-mind-influence/) but NOT amplification-mechanisms. The two named hubs do not cross-link each other either, so there was no existing 1-hop or clean 2-hop navigational path between the two articles. Reciprocal link genuinely aids navigation.
+- **Changes**: Added one Further Reading line in each article (length-neutral) plus a reciprocal related_articles frontmatter entry. brain-specialness → PP-and-dualism framed as "precision-resolution face"; PP-and-dualism → brain-specialness framed as "locality face" of the same selection-only interface. Did NOT touch the line-45 rival/ally framing in PP-and-dualism (GUARD honored). Verified both wikilink targets resolve.
+- **Published**: yes
+
+## 2026-06-11T14:05:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/)
+- **Trigger**: Gemini 2.5 Pro outer-review follow-on (2026-06-11) — the one genuinely-actionable item (Gemini's three other "findings" — "10 bits/sec", quantum-biasing/Müller-Lyer, Necker/PP strawman — were fabricated and not acted on).
+- **Changes**: In the "Selective Preservation and the Filter" section, appended a single calibrating clause to the van Lommel et al. (2001) NDE sentence flagging that its load-bearing premise (flatline surface EEG = no cortical activity during the NDE) is methodologically contested — a surface recording cannot rule out deep/transient activity, and the experience may date to the peri-arrest or resuscitation window rather than the flatline period. Framed compatibility-grade ("though this case is weaker still"), keeping the NDE example minor/suggestive per [evidential-status-discipline](/project/evidential-status-discipline/); did not inflate it into an empirical pillar (Gemini overstated its role). No other prose touched.
+- **Calibration**: length-neutral (single clause); body 3764w, under the 4000 topics hard ceiling (soft_warning, unchanged status).
+- **Published**: yes
+
+## 2026-06-11T11:05:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)
+- **Trigger**: co-optation-firewall follow-on (2026-06-11 Claude Fable 5 corpus audit) — one residual enlistment-leaning phrase in the REBUS section; rest of article already well-hedged (L71, L129 already say "compatible with" not "supportive of").
+- **Changes**: Softened the single flagged phrase in the REBUS section. Was: "The REBUS model (…Carhart-Harris & Friston, 2019), while physicalist in conception, maps remarkably well onto filter theory." Now: "The REBUS model (…Carhart-Harris & Friston, 2019) is a physicalist programme whose authors do not endorse the filter reading; its dynamics are nonetheless compatible with filter theory." This brings the sentence into line with the corpus co-optation firewall ("Don't Conscript Committed Physicalists") and the compatible-with-not-supportive framing used elsewhere in the article. No other prose touched; the already-good hedging at L71/L129 left intact.
+- **Calibration**: length-neutral (+11 words on a ~3424-word article); body 3424w, comfortably under threshold.
+- **Verification**: wikilink [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) in the edited section resolves.
+- **Published**: yes
+
 ## 2026-06-11T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/)

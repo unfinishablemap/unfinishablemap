@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-06-11 07:02:20+00:00
+ai_modified: 2026-06-11 14:17:18+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -29,6 +29,7 @@ related_articles:
 - '[[brain-specialness-boundary-2026-01-15]]'
 - '[[pairing-problem]]'
 - '[[consciousness-selecting-neural-patterns]]'
+- '[[predictive-processing-and-dualism]]'
 title: 'The Brain Specialness Problem: Why Not Psychokinesis?'
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -164,6 +165,7 @@ None of these has occurred. The current framework remains consistent with availa
 - [filter-theory](/concepts/filter-theory/) — Consciousness as filtered through the brain
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why consciousness doesn't violate conservation laws
 - [embodied-cognition](/concepts/embodied-cognition/) — The role of embodiment in consciousness
+- [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — The other face of the same selection-only interface: where the brain's precision weighting leaves assignments underdetermined for consciousness to resolve
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-06-11 09:30:00+00:00
+ai_modified: 2026-06-11 14:17:18+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -37,6 +37,7 @@ related_articles:
 - '[[empirical-phenomena-mental-causation]]'
 - '[[selection-only-mind-influence]]'
 - '[[born-rule-and-the-consciousness-interface]]'
+- '[[brain-specialness-boundary]]'
 title: Predictive Processing and Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -162,6 +163,7 @@ The Unfinishable Map adopts predictive processing as the best available account 
 - [functionalism](/concepts/functionalism/) — The philosophical tradition PP inherits
 - [parsimony-epistemology](/concepts/parsimony-epistemology/) — Why simplicity cannot settle the consciousness debate
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — REBUS and Letheby's predictive-self-binding account: PP under dualism applied to altered states
+- [brain-specialness-boundary](/topics/brain-specialness-boundary/) — The locality face of the same selection-only interface: why conscious selection reaches only its own brain, not external quantum systems
 
 ## References
 
