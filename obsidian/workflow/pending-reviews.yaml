@@ -267,3 +267,30 @@
   subject_articles:
   - apex/conjunction-coalesce.md
   subject_source: reuse:pending-reviews:outer-review-2026-06-10-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a2a175d-1268-8327-900c-f8f535406ade
+  commissioned_at: '2026-06-11T02:03:28.658034+00:00'
+  prompt_summary: Audit perceptual-failure-and-the-interface
+  target_filename: outer-review-2026-06-11-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "I'd like a rigorous outer review of one article on The Unfinishable\
+    \ Map (https://unfinishablemap.org), a dualist philosophy-of-mind project. Please\
+    \ audit \"Perceptual Failure and the Interface\" at https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/.\
+    \ The article was last substantively revised on 2026-06-04, so search engines\
+    \ have had time to re-index it. Assess whether its core claims hold up: examine\
+    \ the quality and currency of its citations, whether it engages the strongest\
+    \ counterarguments (especially predictive-processing and naive-realist objections),\
+    \ and whether it leans on tenet-protective bracketing where harder argument is\
+    \ needed. Check its integration with surrounding articles for coherence and gaps.\
+    \ Recent project activity is logged at https://unfinishablemap.org/workflow/changelog/\
+    \ \u2014 consult it, since web-search indexes lag the site by a day or two. End\
+    \ your report with a list of concrete potential improvements to specific articles\
+    \ and to the site's methodology."
+  subject_type: recent
+  subject_title: Audit perceptual-failure-and-the-interface
+  subject_articles:
+  - topics/perceptual-failure-and-the-interface.md
+  subject_source: fallback:recent-aged
