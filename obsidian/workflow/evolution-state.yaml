@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-11T11:48:49.828132+00:00'
-session_count: 10804
-cycle_position: 8967
+last_updated: '2026-06-11T12:03:39.847280+00:00'
+session_count: 10805
+cycle_position: 8968
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-11T06:04:23.789855+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-06-11T02:03:57.966339+00:00'
   commission-claude-review: '2026-06-11T03:04:24.805630+00:00'
   commission-gemini-review: '2026-06-11T04:05:55.683761+00:00'
-  refine-draft: '2026-06-11T10:19:27.050708+00:00'
+  refine-draft: '2026-06-11T12:03:39.847280+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
   replenish-queue: '2026-06-11T11:48:49.828132+00:00'
   condense: '2026-06-09T13:03:52.907973+00:00'
@@ -35,7 +35,7 @@ last_runs:
   collect-gemini-review: '2026-06-11T04:56:30.107693+00:00'
   positions-evolve: '2026-06-10T22:48:24.211235+00:00'
   check-model-fallback: '2026-06-10T23:16:18.569351+00:00'
-last_git_push: '2026-06-11T08:01:53.497169+00:00'
+last_git_push: '2026-06-11T12:03:40.671457+00:00'
 last_tweet_date: '2026-06-11'
 content_stats:
   total_files: 297
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-11'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-11'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-11'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-11'
   outcome: success
 agentic_social:
@@ -877,7 +877,7 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1
+  p2_tasks: 0
   p3_tasks: 3
   needs_replenishment: false
   replenishment_source_counts_last_run:
@@ -898,9 +898,42 @@ queue_status:
     orphan_integration: 0
     positions: 0
     applied_apex: 0
-  last_replenishment: '2026-06-11T11:40:00+00:00'
+  last_replenishment: '2026-06-11T12:10:00+00:00'
   last_replenishment_mode: conservative
-  last_replenishment_note: '2026-06-11T11:40 re-run — generated 0 new tasks (9th 0-task
+  last_replenishment_note: '2026-06-11T12:10 re-run — generated 0 new tasks (10th 0-task
+    run today; documented steady-state, not a defect). ALL EIGHT GENERATIVE SOURCES
+    RE-VERIFIED ON DISK, all dry. Caps on disk (find, excl index): topics 268/270,
+    concepts 263/270 (both near cap), voids 101/100 OVER, positions 3. Loop-pickable
+    Active on disk = 3, ALL P3 (the P2 mental-effort-calibration task in topics/authentic-vs-inauthentic-choice
+    has been CONSUMED since the 11:40 run, so P0-P2 now = 0): (a) P3 L3 — cross-link
+    brain-specialness-boundary.md ↔ predictive-processing-and-dualism.md (optimistic-review,
+    assess-first/license-to-decline); (b) P3 L10 — tighten mild REBUS-enlistment in
+    topics/psychedelics-and-the-filter-model.md (co-optation firewall follow-on); (c)
+    P3 L18 — flag NDE/van-Lommel evidence contestation in topics/perceptual-failure-and-the-interface.md
+    (Gemini 2026-06-11 outer review; the ONE verified-actionable Gemini item — its
+    3 other findings are FABRICATED per the review Verification Notes, do NOT act).
+    Source re-checks this run: (1) chains 0 — last research-topic 2026-06-03 (consumed),
+    last expand-topic 2026-06-09 (outside 14d window); no executable completion to forward-chain.
+    (2) unconsumed research 0 actionable — only voids-* notes are unconsumed-by-slug,
+    and voids is 101/100 OVER CAP → blocked, not actionable; all other recent research/
+    notes are Jan-Apr-dated, modified-bumped 06-05/06-06 by a sweep, disk-confirmed
+    consumed. (3) caps near/over → no high-confidence non-voids expand candidate. (4)
+    staleness 0 — handled by cycle deep-review slots. (5) orphans 0. (6) length — every
+    content-section hard+ offender is #veto''d (apex-articles, phenomenal-output index/aggregator
+    hubs), standing HUMAN LENGTH DECISION / DIVERTED-TO-HUMAN (epistemology-of-convergence,
+    born-rule, clinical-dissociation, laws-and-dispositions, valence, composition, edge-states),
+    or a cross-link-accreting / recently-condensed hub (argument-from-reason, epistemic-advantages,
+    time-collapse, filter-theory, simple-organisms, phenomenal-authority; voids agency-void
+    / what-voids-reveal / wholeheartedness-void over from inbound-cross-link accretion
+    per [[hub-articles-accrete-crosslink-length]], not own-content growth). None auto-mintable;
+    auto-condensing risks [[condense-regresses-calibration-qualifiers]]. (7) positions
+    — full audit ran 2026-06-09 (18 entries / 4 domains, no contradictions, deps resolve),
+    register last touched 2026-06-10, no dependency moved → nothing due. (8) applied-apex
+    gap — register too sparse for a high-confidence cluster. The 3 P3 tasks ARE the
+    available floor-restoring work; they should be picked and executed by the loop.
+    Manufacturing filler would be wrong. Prior-run notes (08:10–11:40, all 0-task) are
+    preserved in git history; this note supersedes the unbounded accreted block. ORIGINAL
+    9TH-RUN NOTE FOLLOWS: 2026-06-11T11:40 re-run — generated 0 new tasks (9th 0-task
     run today; documented steady-state, not a defect). RE-VERIFIED ALL EIGHT GENERATIVE
     SOURCES ON DISK this run, all dry. Loop-pickable Active on disk = 4 (1× P2, 3×
     P3), unchanged from the 10:40 run: P2 mental-effort calibration in topics/authentic-vs-inauthentic-choice
