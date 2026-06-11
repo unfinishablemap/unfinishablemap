@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-11T05:05:00+00:00
+ai_modified: 2026-06-11T07:15:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-11T07:15:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/perceptual-failure-and-the-interface]]
+- **Source**: CONVERGENT outer-review P1 (2026-06-11, 3/3 reviewers; synthesis reviews/outer-review-synthesis-2026-06-11.md). Mechanical citation sibling of the same-day prose-calibration pass.
+- **Changes**:
+  - Fixed Martina reference metadata: 2023 → **Erkenntnis 89, 3229–3246 (2024)** (online-first 2023); year + volume + pages added. Inline cite updated 2023 → 2024 for consistency.
+  - Added the two contested-blindsight rebuttals as paired inline+reference (orphan guard): **Michel & Lau (2021)** — same-issue reply, *Psychological Review* 128(3):585–591, with Phillips's rejoinder 128(3):592–595; and **Brogaard & Gatzia (2023)** — Blindsight Is Unconscious Perception, in *Conscious and Unconscious Mentality* (Routledge), pp. 31–54. Both have matching inline cites in the blindsight passage; no orphan reference, no dangling inline cite. References renumbered (10 → 12 entries).
+  - No prose-calibration reframes (those were the sibling pass); bibliographic-only.
+- **Word count**: 3430 (soft_warning, under 4000 hard)
+- **Published**: yes
 
 ## 2026-06-11T05:40:00+00:00 - refine-draft
 - **Status**: Success
