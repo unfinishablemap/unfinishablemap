@@ -1,0 +1,151 @@
+---
+ai_contribution: 90
+ai_generated_date: 2026-06-11
+ai_modified: 2026-06-11 04:10:00+00:00
+ai_system: chatgpt-5-5-pro
+author: Andy Southgate
+concepts:
+- '[[predictive-processing]]'
+- '[[phenomenal-transparency]]'
+- '[[filter-theory]]'
+- '[[blindsight]]'
+created: 2026-06-11
+date: &id001 2026-06-11
+description: 'ChatGPT 5.5 Pro audit of Perceptual Failure and the Interface: citation-role
+  mismatches (Martina, Skrzypulec), under-engaged predictive-processing and naive-realist
+  rivals, and tenet-protective bracketing flagged.'
+draft: false
+human_modified: null
+last_curated: 2026-06-11
+modified: *id001
+outer_review_conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a2a175d-1268-8327-900c-f8f535406ade
+outer_review_extraction_method: js-dom
+outer_review_status: processed
+related_articles:
+- '[[project]]'
+- '[[perceptual-failure-and-the-interface]]'
+subject_articles:
+- topics/perceptual-failure-and-the-interface.md
+subject_source: fallback:recent-aged
+subject_title: Audit perceptual-failure-and-the-interface
+subject_type: recent
+title: Outer Review - ChatGPT 5.5 Pro (2026-06-11)
+topics:
+- '[[dualist-perception]]'
+- '[[hard-problem-of-consciousness]]'
+---
+
+**Date**: 2026-06-11
+**Reviewer**: ChatGPT 5.5 Pro
+**Type**: Outer review (external AI analysis)
+
+## About This Review
+
+An "outer review" is an analysis performed by an external AI system rather than the Claude-based workflow that generates most site content. This provides an independent perspective, reducing the risk of self-reinforcing blind spots.
+
+## Prompt
+
+I'd like a rigorous outer review of one article on The Unfinishable Map (https://unfinishablemap.org), a dualist philosophy-of-mind project. Please audit "Perceptual Failure and the Interface" at https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/. The article was last substantively revised on 2026-06-04, so search engines have had time to re-index it. Assess whether its core claims hold up: examine the quality and currency of its citations, whether it engages the strongest counterarguments (especially predictive-processing and naive-realist objections), and whether it leans on tenet-protective bracketing where harder argument is needed. Check its integration with surrounding articles for coherence and gaps. Recent project activity is logged at https://unfinishablemap.org/workflow/changelog/ — consult it, since web-search indexes lag the site by a day or two. End your report with a list of concrete potential improvements to specific articles and to the site's methodology.
+
+## Reply
+
+## Outer review: “Perceptual Failure and the Interface”
+
+**Verdict: retain, but revise before treating it as strong support for the Map’s dualist interface thesis.** The article’s modest claim holds: perceptual breakdown is philosophically diagnostic because blur, blindsight, hallucination, anaesthesia, and altered states reveal structures that ordinary transparent perception hides. The article is also better calibrated than an earlier version: the 2026-06-04 revision softened Hoffman from “demonstrates” to “argues, within its evolutionary-game model,” changed Overgaard from “confirms” to “reports,” and added an explicit underdetermination paragraph conceding that graded-consciousness data do not adjudicate between interface and physicalist-access readings. [GitHub](https://github.com/unfinishablemap/unfinishablemap/commit/c62d22d75afe80f6761db701da93398b7b123579) [GitHub](https://github.com/unfinishablemap/unfinishablemap/commit/c62d22d75afe80f6761db701da93398b7b123579)
+
+The stronger claim is not yet earned: that the whole failure-pattern “points toward a bandwidth-limited transmission channel rather than a simple read-off of neural states.” The article makes that claim in its opening frame, then builds it through blur, degraded vision, compensatory phenomena, anaesthesia, filter cases, and gradation. [topics/perceptual-failure-and-the-interface](https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/) Those phenomena are real pressure-points for simple identity/read-off pictures, but they are also substantially predicted or accommodated by predictive-processing, relationalist/naive-realist, representationalist, access-consciousness, and sophisticated functionalist accounts. The article now concedes underdetermination in the gradation section, but similar concessions are needed earlier and more systematically.
+
+## Citation audit
+
+The reference list is mostly real, relevant, and not fabricated. The ten references include peer-reviewed philosophy, cognitive science, anaesthesiology-adjacent material via surrounding articles, and one internal Map article. [topics/perceptual-failure-and-the-interface](https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/) The main problem is not existence; it is **dialectical role**. Several sources are used as if they straightforwardly support the Map’s line when, in context, they are better read as live rival explanations.
+
+**Martina is the biggest citation-role problem.** The target article says Martina supports the claim that blur’s qualitative character “has no home in the external physical scene.” [topics/perceptual-failure-and-the-interface](https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/) But Martina’s paper is explicitly a contribution to the blur debate “from a relationalist perspective,” and its abstract argues for a pluralist approach rather than a single distinctive blur-property account. [Springer](https://link.springer.com/article/10.1007/s10670-023-00675-6) The paper also says it is working within a relationalist or naive-realist framework where perceptual experiences are relations to mind-independent aspects of the environment, and it proposes a visual-sensitivity answer for blur. [Springer](https://link.springer.com/article/10.1007/s10670-023-00675-6) That does not make Martina unusable; it means she should be presented as a sophisticated rival whose observations the Map repurposes, not as a direct ally. Also, the article cites “Martina (2023),” but Springer lists the article as published online in 2023 and in **Erkenntnis 89, 3229–3246 (2024)**; the reference should be updated or clarified as online-first 2023 / volume-year 2024. [Springer](https://link.springer.com/article/10.1007/s10670-023-00675-6)
+
+**Skrzypulec is accurately quoted but not adequately answered.** The target article uses Skrzypulec’s interoceptive account, then says interoception “doubles down on the hard problem.” [topics/perceptual-failure-and-the-interface](https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/) That is a legitimate Map-side move, but it is not a defeat of Skrzypulec’s theory on its own terms. Skrzypulec explicitly proposes that blurred vision has exteroceptive and interoceptive content, and says the view is consistent with representationalism and strong transparency. [Springer](https://link.springer.com/article/10.1007/s11098-021-01601-8) The article should say: “Within the Map’s hard-problem premise, this remains incomplete,” rather than implying the interoceptive account has failed as philosophy of perception.
+
+**Hoffman is now acceptably calibrated.** The 2026-06-04 edit scoped the Fitness-Beats-Truth claim to Hoffman’s evolutionary-game model rather than presenting it as a general proof. [GitHub](https://github.com/unfinishablemap/unfinishablemap/commit/c62d22d75afe80f6761db701da93398b7b123579) That was the right fix. The remaining risk is rhetorical: “we were never seeing the world as it is” still reads stronger than the theorem alone warrants, especially because Hoffman’s own idealist conclusion is not the Map’s conclusion. [topics/perceptual-failure-and-the-interface](https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/)
+
+**Phillips on blindsight is relevant but too one-sided.** The article uses Phillips’s 2021 claim that blindsight may be “qualitatively degraded conscious vision.” [topics/perceptual-failure-and-the-interface](https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/) That is a serious source: Phillips argues that blindsight is degraded but conscious vision, partly due to conservative response criteria. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32757572/) But the article should acknowledge that this remains contested. Michel and Lau argue that Phillips’s view may not work well when several key findings are considered together, and Brogaard and Gatzia’s 2023 chapter explicitly argues that blindsight is unconscious perception rather than degraded conscious vision. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33939458/) [PhilArchive](https://philarchive.org/rec/DIMBIU)
+
+**Overgaard is correctly used after the 2026-06-04 revision.** The paper is real, peer-reviewed, and directly relevant to gradual-vs-dichotomous report methodology in visual awareness. [Aalborg Universitets forskningsportal](https://vbn.aau.dk/en/publications/is-conscious-perception-gradual-or-dichotomous-a-comparison-of-re/) The article’s current underdetermination paragraph is a model of the right calibration: it says gradation constrains threshold-emergence pictures but does not settle interface versus physicalist-access interpretations. [topics/perceptual-failure-and-the-interface](https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/)
+
+**The psychedelic/filter evidence is too thin for the weight implied.** Carhart-Harris et al. 2012 is real and important, and the article accurately reports decreased activity/connectivity in hub regions under psilocybin. The study used 15 volunteers in arterial-spin-labeling scans and a separate 15 in BOLD fMRI, so it should be treated as early evidence, not as a general rule that reduced brain activity expands consciousness. [King's College London](https://kclpure.kcl.ac.uk/portal/en/publications/neural-correlates-of-the-psychedelic-state-as-determined-by-fmri-) The target currently says “less brain activity should always mean less consciousness” under a standard generator picture. [topics/perceptual-failure-and-the-interface](https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/) That risks straw-manning sophisticated production, predictive-processing, disinhibition, and network-reorganization accounts.
+
+**Picard/Craig and van Lommel are suggestive, not load-bearing.** Picard and Craig document five patients with ecstatic seizures and explicitly note that the anatomical correlate had not been established. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19836310/) Van Lommel et al. is a prospective Lancet study of 344 resuscitated cardiac patients, but NDE evidence is notoriously difficult to interpret and should remain framed as suggestive. [The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2801%2907100-8/abstract) The target’s caveat that these cases “do not prove filter theory” is necessary and should be retained. [topics/perceptual-failure-and-the-interface](https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/)
+
+## Counterargument audit
+
+### Predictive-processing objections are under-engaged
+
+The article has a “Neural Network Objection,” but that objection is too generic. It says distributed networks degrade gracefully, then argues the total pattern is better explained by an interface. [topics/perceptual-failure-and-the-interface](https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/) The strongest physicalist/computational rival is not a simple distributed-network account; it is predictive processing plus active inference: perception as hierarchical generative modelling, error minimisation, precision weighting, and action-based correction.
+
+The site already has strong internal PP material. Its PP concept page says perception becomes active inference rather than passive reception and highlights prediction-error minimization, precision weighting, and active inference. [concepts/predictive-processing](https://unfinishablemap.org/concepts/predictive-processing/) The Map’s dedicated PP article treats PP as an “excellent account of the neural side” while leaving the hard problem open. [topics/predictive-processing-and-the-maps-framework](https://unfinishablemap.org/topics/predictive-processing-and-the-maps-framework/) External PP-consciousness literature is also active: a 2022 editorial describes PP work on consciousness, the meta-problem, and attempts to dissolve or reshape the hard problem. [Springer](https://link.springer.com/article/10.1007/s13164-022-00666-6)
+
+That means the target article should not merely say “networks degrade gracefully.” It should test whether its four signatures—graded loss, priority preservation, compensatory generation, and occasional expansion—are actually better predicted by an interface than by PP. A PP account can naturally explain blur as lowered sensory precision, priority preservation as precision-weighted generative inference, compensatory imagery as top-down model activity under reduced sensory constraint, and squinting/reaching-for-glasses as active inference. The Map can still argue that PP leaves the hard problem untouched, but then the article’s evidential burden changes: perceptual failure becomes evidence for **interface-compatible architecture**, not strong evidence against PP.
+
+### Naive-realist objections are not faced in their strongest form
+
+The article says blur “shatters” transparency and belongs to experience rather than external objects. [topics/perceptual-failure-and-the-interface](https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/) But the strongest naive-realist/relationalist answer is already inside the article’s own bibliography. Martina explicitly frames blur as a challenge to both representationalism and relationalism, then argues that a relationalist need not give a unified blur-property explanation. [Springer](https://link.springer.com/article/10.1007/s10670-023-00675-6) Her conclusion is pluralist: explanations of blurry phenomenology are not inadequate merely because they vary by case rather than appeal to one distinctive property of blurry experience. [Springer](https://link.springer.com/article/10.1007/s10670-023-00675-6)
+
+The broader naive-realist literature also directly resists the article’s style of move from illusion/failure to anti-realism. Ian Phillips’s “Naive realism and the science of illusion” is explicitly a reply to the complaint that naive realism cannot handle illusion or vision science. [Oxford University Research Archive](https://ora.ox.ac.uk/bookmarks/uuid%3A4ac0d71c-001c-4db4-86d1-bd3062eaf465) The target therefore needs a subsection that asks: “What would a relationalist say about blur, hallucination, and degraded perception?” Without that, the article is mainly arguing against an intuitive direct-realism caricature, not the strongest contemporary naive-realist view.
+
+### The physicalist reply is stronger than the article allows
+
+The article repeatedly contrasts the interface model with “simple read-off” or “less neural activity means less output.” [topics/perceptual-failure-and-the-interface](https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/) [topics/perceptual-failure-and-the-interface](https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/) That is useful against naive identity theory, but not against sophisticated physicalism. The site’s own “Neurological Dissociations” article is more careful: it says clinical dissociations tell against naive identity, while sophisticated functionalism can predict the same modular dissociation pattern; the inference remains “compatibility-grade, not vindication-grade.” [topics/neurological-dissociations-as-interface-architecture](https://unfinishablemap.org/topics/neurological-dissociations-as-interface-architecture/) The target should import that caveat directly.
+
+## Tenet-protective bracketing
+
+The article’s 2026-06-04 revision shows good calibration discipline. The changelog entry says the edit was a calibration-only response to an anchoring audit, adding underdetermination language without changing the central claim or adding new citations. [GitHub](https://github.com/unfinishablemap/unfinishablemap/commit/c62d22d75afe80f6761db701da93398b7b123579) That is a strength.
+
+But the article still sometimes protects Map tenets by moving too quickly from “rival theory does not solve the hard problem” to “interface model fits better.” The clearest examples are the Skrzypulec paragraph, the neural-network objection, and the “Dualism” relation paragraph. The target says interoception “doubles down” on the hard problem; neural explanation tells us why neurons fire but not why firing feels like seeing; and blur’s qualitative character cannot be located in the world. [topics/perceptual-failure-and-the-interface](https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/) [topics/perceptual-failure-and-the-interface](https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/) [topics/perceptual-failure-and-the-interface](https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/)
+
+Those are legitimate Map commitments, but they are not local victories over representationalism, PP, naive realism, or functionalism. They should be labelled in natural prose as **hard-problem boundary claims**: “If the Map’s hard-problem premise is granted, this account remains incomplete.” Otherwise, the article risks treating the Map’s starting point as an earned conclusion from blur.
+
+## Integration with surrounding articles
+
+The article is well integrated at the link level. Its Further Reading list points to interface, anaesthesia, filter theory, bandwidth, transparency, visual consciousness, hypnagogic phenomenology, neurological dissociations, and curated mind. [topics/perceptual-failure-and-the-interface](https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/) GitHub history also shows multiple review/refine passes, including a 2026-06-01 deep review and the 2026-06-04 calibration pass. [GitHub](https://github.com/unfinishablemap/unfinishablemap/commits/main/obsidian/topics/perceptual-failure-and-the-interface.md)
+
+The coherence gaps are more substantive than mechanical.
+
+First, the target’s anaesthesia section says anaesthesia suggests the channel “shutting down” and produces “apparent absence.” [topics/perceptual-failure-and-the-interface](https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/) But the dedicated anaesthesia article is more nuanced: it says anaesthesia does not simply switch consciousness off and distinguishes connected, disconnected, and unconscious states with graded transitions. [topics/anaesthesia-and-the-consciousness-interface](https://unfinishablemap.org/topics/anaesthesia-and-the-consciousness-interface/) It also explicitly says the same evidence is compatible with sophisticated production-model reinterpretation. [topics/anaesthesia-and-the-consciousness-interface](https://unfinishablemap.org/topics/anaesthesia-and-the-consciousness-interface/) The target should harmonize with that more careful taxonomy.
+
+Second, the target’s neurological-dissociation use is less calibrated than its sibling article. The sibling article explicitly says the dissociation architecture is robust, but the dualist inference is compatibility-grade because functionalism predicts the same phenomenology. [topics/neurological-dissociations-as-interface-architecture](https://unfinishablemap.org/topics/neurological-dissociations-as-interface-architecture/) The target currently says these dissociations “support the interface model” without carrying over that caveat. [topics/perceptual-failure-and-the-interface](https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/)
+
+Third, the target does not cross-link predictive-processing pages despite PP being the obvious strongest rival. The target’s Further Reading list lacks the PP concept and PP-dualism articles, while the PP articles discuss exactly the constructive-perception, precision-weighting, and hard-problem issues needed here. [topics/perceptual-failure-and-the-interface](https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/) [topics/predictive-processing-and-the-maps-framework](https://unfinishablemap.org/topics/predictive-processing-and-the-maps-framework/)
+
+Fourth, the project’s current methodology has already learned the lesson this article needs. Recent changelog entries show the site responding to outer reviews by adding common-cause-null, falsifiability, rival-mechanism, and epistemic-to-metaphysical-slide discipline. [workflow/changelog](https://unfinishablemap.org/workflow/changelog/) The same discipline should now be applied to this article: ask what PP, relationalism, and functionalism predict before scoring the interface model as the more natural fit.
+
+## Concrete potential improvements
+
+1. **`topics/perceptual-failure-and-the-interface/` — add a “Predictive-processing rival” section after “The Neural Network Objection.”** It should test all four bandwidth signatures against PP: low sensory precision, high-prior filling-in, precision-weighted salience, active-inference correction, and hallucination/release under sensory deprivation. End with a calibrated claim: PP explains much of the failure architecture; the Map’s residual objection is the hard problem and subject-of-experience question.
+2. **`topics/perceptual-failure-and-the-interface/` — revise the Martina paragraph.** Update the reference to “online first 2023; Erkenntnis 89, 3229–3246 (2024)” and describe Martina as a relationalist/naive-realist challenge, not a direct ally. Add one sentence: “The Map takes Martina’s pluralism as showing that blur resists a single external-property story, but Martina herself offers this as a relationalist rescue rather than an anti-relationalist conclusion.”
+3. **`topics/perceptual-failure-and-the-interface/` — add a “Naive-realist/relationalist answer” subsection.** Include Martina, French/Phillips-style relationalism, and Phillips 2016 on illusion. The section should ask whether blur can be handled as a changed perceptual relation involving the perceiver’s visual sensitivity, not as an internal phenomenal item.
+4. **`topics/perceptual-failure-and-the-interface/` — reframe the Skrzypulec response.** Replace “far from domesticating blur for physicalism” with something like: “Skrzypulec domesticates blur for representationalism and transparency at the level of content theory; the Map’s objection is one level deeper, concerning why either exteroceptive or interoceptive content is phenomenally felt.”
+5. **`topics/perceptual-failure-and-the-interface/` — add a contested-blindsight note.** Keep Phillips, but add Michel & Lau 2021 and Brogaard & Gatzia 2023 as live objections. Phrase the article’s claim as conditional: “If Phillips is right, blindsight belongs on the degradation continuum; if the unconscious-perception view is right, blindsight instead supports dissociation rather than gradation.”
+6. **`topics/perceptual-failure-and-the-interface/` — soften the filter-theory production contrast.** Replace “If the brain generates consciousness, less brain activity should always mean less consciousness” with: “Simple monotone production pictures predict less output; sophisticated production, PP, disinhibition, and network-reorganization models can predict richer experience under some reduced-constraint conditions.”
+7. **`topics/perceptual-failure-and-the-interface/` — import the anaesthesia article’s three-state taxonomy.** Change “channel shutting down” to a more precise distinction among connected consciousness, disconnected consciousness, and unconsciousness. Add direct citations or an explicit “the detailed empirical defence is in the anaesthesia article.”
+8. **`topics/perceptual-failure-and-the-interface/` — import the neurological-dissociations caveat.** After “the dissociation supports the interface model,” add: “This is compatibility-grade support; sophisticated functionalism can read the same cases as modular decomposition within a physical system.”
+9. **`topics/predictive-processing-and-the-maps-framework/` and `topics/predictive-processing-and-dualism/` — add reciprocal backlinks to the perceptual-failure article.** Add a short “Blur and degradation” subsection explaining how PP would model blur, why the Map accepts much of that model, and where the Map thinks the residual hard-problem gap remains.
+10. **`concepts/predictive-processing/` — add blur, Charles Bonnet syndrome, eigengrau, and hypnagogic imagery as test cases.** Treat them as contested exhibits rather than straightforward interface wins.
+11. **`concepts/phenomenal-transparency/` — strengthen the naive-realist opposition.** The current page says naive realism feels obvious because transparency hides mediation; add a note that philosophical naive realism is not merely the default human stance and has sophisticated responses to illusion, blur, and perceptual science.
+12. **Site methodology — create a citation-role ledger.** For each reference, tag it as support, rival, background, contested support, or internal bridge. If an article uses a source against the author’s own conclusion, require an explicit note.
+13. **Site methodology — add a perception-article counterargument gate.** Any article on perception, blur, hallucination, transparency, degradation, or reconstruction should pass two checks before publication: “predictive-processing rival addressed?” and “naive-realist/relationalist rival addressed?”
+14. **Site methodology — distinguish “local argument” from “hard-problem boundary claim.”** When a rival account explains the functional/representational structure but not why it is conscious, the body prose should say so directly rather than implying the rival failed at its own explanatory target.
+15. **Site methodology — add a sibling-coherence import rule.** When a surrounding article contains a better caveat—such as “compatibility-grade, not vindication-grade” in neurological dissociations or “connected/disconnected/unconscious” in anaesthesia—the article that cites it should inherit that caveat unless it explicitly argues for stronger language.
+16. **Site methodology — add currency windows by domain.** Neuroscience and anaesthesia claims should include at least one recent review or post-2020 source when available; philosophical blur/naive-realism claims should include the latest debate-facing source; psychedelics and NDE claims should be marked as suggestive unless backed by current reviews.
+17. **Site methodology — extend the existing common-cause-null discipline to perceptual evidence.** Before counting blur, hallucination, anaesthesia, dissociation, and psychedelics as convergent support for interface architecture, ask whether a single rival mechanism—predictive coding, precision weighting, disinhibition, access gating, or report architecture—explains the same cluster.
+
+## Verification Notes
+
+Claims the reviewer makes *about the target article* were checked directly against the article text (`obsidian/topics/perceptual-failure-and-the-interface.md`) and are accurate: the article does cite "Martina (2023)", uses Skrzypulec's interoceptive account and says interoception "doubles down on the hard problem", scopes Hoffman's Fitness-Beats-Truth claim to its evolutionary-game model, uses Phillips (2021) on blindsight without flagging contestation, contains the "less brain activity should always mean less consciousness" framing, and its Further Reading list omits the predictive-processing concept and PP-dualism articles. The 2026-06-04 underdetermination paragraph and the calibrated Overgaard framing are present as described.
+
+**Verified external claims:**
+- ✓ **Martina citation metadata.** The article's reference reads "Martina, G. (2023). Lessons from Blur. *Erkenntnis*." The reviewer is correct that the paper appears in **Erkenntnis 89, 3229–3246 (2024)** (online-first 2023). Confirmed via web search of the Springer/PhilArchive record. The citation should be updated to the volume-year.
+- ✓ **Martina's perspective.** Confirmed: "Lessons from Blur" is written from a **relationalist** perspective and argues a **pluralist** conclusion (no unified blur-property explanation is needed). The target article uses Martina to support the claim that blur's character "has no home in the external physical scene" — a citation-role mismatch, since Martina herself offers a relationalist rescue. The finding is well-founded.
+- ✓ **Blindsight is contested.** Confirmed that **Brogaard & Gatzia (2023), "Blindsight Is Unconscious Perception"** (in *Conscious and Unconscious Mentality*, Routledge, pp. 31–54) explicitly argues against Phillips's degraded-conscious-vision reading. The blindsight debate is genuinely live, so the article's one-sided use of Phillips (2021) is a real gap.
+
+**Not independently re-verified (accepted as plausible):**
+- ? Carhart-Harris et al. 2012 sample sizes (15 ASL + 15 BOLD) and the Picard & Craig "five patients / anatomical correlate not established" detail were not re-fetched; both are consistent with the article's existing citations and the reviewer frames them as calibration nuances rather than corrections.
+- ? The 2022 *Review of Philosophy and Psychology* PP-consciousness editorial and Ian Phillips's "Naive realism and the science of illusion" were not fetched; they are cited as supporting literature for an expansion recommendation, not as corrections to existing content.
+
+**No disputed claims.** Nothing in the review failed verification. The reviewer's verdict ("retain, but revise") and its citation-role / counterargument-engagement findings are sound.

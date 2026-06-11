@@ -1,13 +1,68 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-10 14:32:12+00:00
-ai_system: claude-fable-5
+ai_modified: 2026-06-11 05:05:00+00:00
+ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-11'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-11T05:40:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/)
+- **Source**: CONVERGENT outer-review P1 (2026-06-11, 3/3 reviewers; synthesis reviews/outer-review-synthesis-2026-06-11.md). One consolidated prose-calibration pass.
+- **Changes**:
+  - Rewrote "The Neural Network Objection" → "The Predictive-Processing Objection": tests the four bandwidth signatures (graded loss/priority preservation/compensatory generation/active inference) against PP + active inference; lands on the calibrated claim that perceptual failure is evidence for interface-COMPATIBLE architecture, NOT strong evidence against PP, the residual being the hard problem. Added reciprocal cross-link [predictive-processing](/concepts/predictive-processing/) (both directions; backlink added to concepts/predictive-processing.md).
+  - Reframed Martina (2023) in the transparency section: she is a naturalist relationalist recruited toward a conclusion she rejects; added engagement with the relationalist answer in its strongest form (Martina's pluralism + Ian Phillips on naive realism/illusion) rather than a direct-realism caricature.
+  - Reframed Skrzypulec: dropped "doubles down on the hard problem" (implied in-framework defeat); recast as a hard-problem boundary claim — his interoceptive account domesticates blur for representationalism at the CONTENT level; the Map's objection is one level deeper (why is either content phenomenally felt).
+  - Harmonized the anaesthesia section with the sibling's connected/disconnected/unconscious taxonomy + its production-model-compatible caveat ("earns the architecture, not adjudication"). Imported the neurological-dissociations "consistent with / compatibility-grade, not vindication-grade" framing, replacing a bare "supports the interface model".
+  - Made the blindsight claim CONDITIONAL ("may be better understood"; flagged the same-issue rebuttal + live contestation) WITHOUT adding a new named inline cite — orphan guard observed, References untouched, formal Michel & Lau entry left to the sibling citation-metadata P1.
+  - Folded the two-reviewer Carhart-Harris 2012 over-reliance finding into the Selective Preservation section: noted the entropy-INCREASE theoretical core (production-compatible) + the neurovascular-confound on the BOLD/connectivity decreases; demoted it to the suggestive column.
+- **Engagement classifications** (editor-internal): predictive processing — Mode Two opening (PP helps itself to felt-ness without specifying the bridge) then Mode Three residue (hard-problem disagreement is bedrock); relationalism (Martina/Phillips) — Mode Three (framework-boundary: relationalism coherent on its own terms, the Map marks the why-felt residue honestly); Skrzypulec — Mode Three (content-level work conceded, phenomenal-presence gap is boundary, not in-framework defeat); production theorist (anaesthesia/Carhart-Harris) — Mode Three (component-decomposition / entropy data available to production reading; evidence earns architecture not adjudication).
+- **Length**: 2969 → 3370 words (soft_warning; hard ceiling 4000 clear). New content is reviewer-demanded dialectical engagement; trimmed Hoffman/Gradation/Selective-Preservation redundancy to offset.
+- **Altered-state symmetry**: evaluate_symmetry returns None (clean) after the disruptive-cluster harmonization.
+- **References**: untouched; no dangling inline cite introduced.
+- **Caution observed**: did NOT act on Gemini's three fabricated attributions (10 bits/sec, quantum-biasing/Müller-Lyer, Necker-cube/PP strawman) — the real PP engagement is the bandwidth-signatures test.
+- **Published**: yes (draft: false, unchanged)
+
+## 2026-06-11T05:05:00+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-11
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-5-pro, claude-fable-5, gemini-2-5-pro). All audited topics/perceptual-failure-and-the-interface.
+- **Clusters**: 4 convergent (3 at three-reviewer strength: PP-rival unaddressed, Skrzypulec/Martina co-optation, blindsight contestation; 1 at two-reviewer: Carhart-Harris 2012 over-reliance), 4 singleton, 0 divergent
+- **Tasks upgraded**: 2 (P2→P1: "Add reciprocal PP cross-links"; P2→P1: "Fix Martina citation metadata + add contested-blindsight references"). Two already-P1 tasks (ChatGPT calibration, Claude entropy-inversion) annotated with convergence + plural Review files, priority unchanged (capped at P1).
+- **Tasks deduplicated**: 0 (the per-reviewer tasks were already authored as distinct, non-duplicating slices of one consolidated editorial pass; no redundant siblings to delete)
+- **Method note**: Gemini's three fabricated attributions (10 bits/sec, quantum-biasing/Müller-Lyer, Necker/PP strawman) excluded from convergence; convergent PP/Carhart-Harris/blindsight findings rest on the verified kernel, not Gemini's fabricated framing.
+- **Output**: [outer-review-synthesis-2026-06-11](/reviews/outer-review-synthesis-2026-06-11/)
+
+## 2026-06-11T05:05:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [outer-review-2026-06-11-gemini-2-5-pro](/reviews/outer-review-2026-06-11-gemini-2-5-pro/)
+- **Subject**: topics/perceptual-failure-and-the-interface (recent-aged fallback; leg 3 of the 3-reviewer triple — ALL THREE NOW COLLECTED). Verdict: reject (hostile-referee framing).
+- **Claims verified**: 5 checked against live article. MIXED report. CONVERGENT/verified: Michel & Lau (2021) blindsight rebuttal omission (3-reviewer convergence; also Claude w/ pages); over-reliance on Carhart-Harris 2012 DMN result (convergent with Claude's inverted-entropy flag, distinct critique angle); Skrzypulec/Martina blur framing (convergent with ChatGPT). FABRICATED (excluded from tasks): a "10 bits/sec" bandwidth figure, a "quantum-level biasing"/Müller-Lyer cognitive-impenetrability section, and a Necker-cube/PP strawman quote — NONE of these strings appear in the article (sibling-import / hallucination). OVERSTATED: van Lommel NDE treated as "empirical pillar" (it is one brief hedged example); anaesthesia "hysteresis" argument the article never makes.
+- **High-value findings**: 2 convergent (reinforce existing same-cycle ChatGPT/Claude tasks — will upgrade via /combine-outer-reviews) + 1 minor new (van Lommel NDE contestation unflagged).
+- **Tasks generated**: 1 (P3: flag NDE-evidence contestation, length-neutral, fold into the P1 calibration pass if it runs first). Did NOT duplicate the ChatGPT/Claude triple tasks; did NOT action the 3 fabricated findings. Updated the existing P1 with confirmed convergence + a fabrication caution. Execution deferred to /combine-outer-reviews (now eligible: all 3 entries resolved, 3 processed).
+
+## 2026-06-11T04:25:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5
+- **File**: [outer-review-2026-06-11-claude-fable-5](/reviews/outer-review-2026-06-11-claude-fable-5/)
+- **Subject**: topics/perceptual-failure-and-the-interface (recent-aged fallback; leg 2 of a 3-reviewer triple, Gemini pending)
+- **Claims verified**: 5 (article-internal: Skrzypulec/Martina co-optation framing, psychedelic DMN/filter framing, dangling MQI + Occam-shield passages all confirmed against live article; external: entropic-brain entropy-INCREASE direction web-verified via Carhart-Harris 2018 + REBUS)
+- **High-value findings**: 4 (psychedelic empirical direction INVERTED — entropy increases, not "less brain more mind"; filter/reducing-valve vs interactionism tenet tension; dangling MQI + Occam-as-shield; co-optation of PP/psychedelic-neuroscience roster — Seth/Clark/Hohwy/Friston/Carhart-Harris). Strong convergence with the ChatGPT leg on the unaddressed predictive-processing rival and Skrzypulec/Martina co-optation.
+- **Tasks generated**: 2 (P1: distinct-findings refine — entropy-inversion fix + filter/interactionism tension + MQI/Occam, w/ direct-refutation remit; P2: extend co-optation firewall to PP/psychedelic roster, site methodology). Did NOT duplicate the ChatGPT triple's PP-rival/Skrzypulec/Martina/blindsight tasks. Execution deferred to /combine-outer-reviews per same-subject triple.
+
+## 2026-06-11T04:10:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [outer-review-2026-06-11-chatgpt-5-5-pro](/reviews/outer-review-2026-06-11-chatgpt-5-5-pro/)
+- **Subject**: topics/perceptual-failure-and-the-interface (recent-aged fallback; leg 1 of a 3-reviewer triple, Claude Fable 5 + Gemini pending)
+- **Claims verified**: 3 (Martina → Erkenntnis 89:3229–3246 (2024) + relationalist perspective; Brogaard & Gatzia 2023 contested-blindsight chapter; article-internal claims checked against source)
+- **High-value findings**: 4 (under-engaged PP rival; naive-realist rival not in strongest form; Skrzypulec/dissociation boundary-substitution; Martina citation-role + metadata)
+- **Tasks generated**: 3 (P1: 1 consolidated rival-engagement refine w/ direct-refutation remit; P2: 2 — citation-metadata fix, PP reciprocal cross-links). Execution deferred to /combine-outer-reviews per same-subject triple.
 
 ## 2026-06-11T00:00:00+00:00 - deep-review
 - **Status**: Success

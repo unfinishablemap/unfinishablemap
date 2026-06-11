@@ -1,0 +1,209 @@
+---
+ai_contribution: 90
+ai_generated_date: 2026-06-11
+ai_modified: 2026-06-11 05:05:00+00:00
+ai_system: gemini-2-5-pro
+author: Andy Southgate
+concepts:
+- '[[blindsight]]'
+- '[[predictive-processing]]'
+- '[[filter-theory]]'
+- '[[default-mode-network]]'
+created: 2026-06-11
+date: &id001 2026-06-11
+description: 'Gemini 2.5 Pro Deep Research hostile-referee audit of ''Perceptual Failure
+  and the Interface''; verdict reject. Mixed: strong empirical-currency flags (Carhart-Harris
+  BOLD confound, Michel & Lau blindsight rebuttal) alongside two fabricated cross-article
+  attributions (10 bits/sec, Necker/PP).'
+draft: false
+human_modified: null
+last_curated: 2026-06-11
+modified: *id001
+outer_review_conversation_url: https://gemini.google.com/app/ff08e79901daea37
+outer_review_extraction_method: js-dom
+outer_review_status: processed
+related_articles:
+- '[[project]]'
+- '[[perceptual-failure-and-the-interface]]'
+subject_articles:
+- topics/perceptual-failure-and-the-interface.md
+subject_source: reuse:pending-reviews:outer-review-2026-06-11-chatgpt-5-5-pro.md
+subject_title: Audit perceptual-failure-and-the-interface
+subject_type: recent
+title: Outer Review - Gemini 2.5 Pro (2026-06-11)
+topics: []
+---
+
+**Date**: 2026-06-11
+**Reviewer**: Gemini 2.5 Pro
+**Type**: Outer review (external AI analysis)
+
+## About This Review
+
+An "outer review" is an analysis performed by an external AI system rather than the Claude-based workflow that generates most site content. This provides an independent perspective, reducing the risk of self-reinforcing blind spots.
+
+## Prompt
+
+You are a hostile pre-publication referee for a top-tier philosophy journal (Mind, Synthese, Philosophical Studies) reviewing this article for submission. Your remit is to identify weaknesses that would justify rejection or major revision. The article is at https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/ (also check https://unfinishablemap.org/workflow/changelog/ since web indexes lag 24-48h). It argues that perceptual breakdown (blur, blindsight, anaesthesia, psychedelics) reveals a bandwidth-limited consciousness-brain interface; the site argues for a non-reductive view of consciousness.
+
+## Reply
+
+# Referee Report: Analysis of "Perceptual Failure and the Interface"
+
+## Introduction and Methodological Scope of the Audit
+
+The manuscript under review advances a highly heterodox, non-reductive model of consciousness, attempting to establish an interactionist paradigm by leveraging instances of perceptual breakdown. Specifically, the text argues that phenomena such as visual blur, blindsight, anaesthesia-induced unconsciousness, and psychedelic states serve as empirical signatures of a bandwidth-limited consciousness-brain interface. By characterizing perceptual degradation not as the failure of computational networks, but rather as the throttling of an ontological transmission channel between mind and brain, the manuscript endeavors to circumvent standard materialist, functionalist, and epiphenomenalist accounts of subjective experience. While the ambition to address the explanatory gap using neurological dissociations is a recognized pursuit within contemporary philosophy of mind and cognitive science, a submission to a top-tier philosophical venue must adhere to the highest standards of empirical accuracy, theoretical neutrality, and rigorous engagement with the prevailing scientific consensus.
+
+This review undertakes an exhaustive, hostile audit of the manuscript across four specific dimensions to evaluate its readiness for academic publication. First, the analysis evaluates the empirical accuracy of the manuscript against the highly specialized 2020–2025 literature concerning blindsight, anaesthesia, psychedelics, and the graded nature of consciousness. Second, the review scrutinizes the specific empirical citations upon which the manuscript's foundational arguments rest—most notably works by Phillips (2021), Martina (2023), Skrzypulec (2021), Hoffman (2015), Carhart-Harris (2012), and van Lommel (2001)—to determine whether these results have been superseded, challenged, methodologically compromised, or fundamentally misinterpreted in recent scholarship. Third, the report identifies critical junctures where the manuscript substitutes substantive philosophical argumentation with tenet-bracketed framing, effectively assuming its conclusions as a priori interpretive lenses. Finally, the review catalogues the manuscript's systematic evasion of robust, contemporary counter-frameworks, specifically predictive processing and global workspace theory, which elegantly account for the cited phenomena without necessitating an unparsimonious ontological interface.
+
+The subsequent analysis reveals that the manuscript is structurally dependent on obsolete interpretations of neuroimaging data, mischaracterizes active debates in psychophysics, and utilizes an outdated physiological paradigm to argue for an interactionist interface. The foundational pillars of the article are fundamentally compromised by a failure to engage with the actual mechanics of the neurobiological systems it attempts to philosophize.
+
+## Dimension A: Empirical Accuracy Against the 2020s Literature
+
+The manuscript's conceptual architecture relies heavily on specific interpretations of perceptual degradation, treating conditions like blindsight and anaesthesia as clean severances of a "channel" connecting the mind to the brain. This interpretation fundamentally contradicts the nuanced, multidimensional models of consciousness established in the literature of the current decade, forcing complex neurobiological realities into a simplistic, binary interface model.
+
+### The Mischaracterization of Blindsight and Graded Consciousness
+
+The manuscript deploys blindsight as a primary exhibit for the dissociation between perceptual processing and phenomenal experience, characterizing the condition as an instance where information processing is intact but phenomenal experience is entirely absent or drastically degraded. It utilizes this presumed clean dissociation to argue that perception cannot be identical to processing, thereby necessitating an external interface that has selectively failed. The manuscript relies on the premise that blindsight involves the processing of visual information strictly without phenomenal access, establishing an architectural boundary between brain computation and conscious rendering.
+
+However, the 2020s neuroscientific literature demonstrates that blindsight is neither a uniform absence of phenomenology nor a clean functional dissociation. Recent naturalistic observations and high-resolution psychophysical testing reveal deeply complex subjective states that defy the binary presence/absence model required by the manuscript's interface theory. Contemporary research documents phenomena such as "affective blindsight" and specific feature detection (e.g., color processing) in patients with bilateral striate cortex damage, where subjects report a slow, effortful, but definitively present conscious awareness of stimuli. This profoundly challenges the traditional taxonomies of Type 1 (completely unconscious) and Type 2 (a non-visual feeling of something happening) blindsight that the manuscript relies upon.
+
+If a patient with destroyed primary visual cortices can still muster effortful awareness of specific visual features like color , the V1 region cannot be modeled simply as a primary "bandwidth channel" that has been cleanly severed by an interface failure. Instead, this evidence points toward highly distributed, redundant cortical networks supporting graded, multidimensional conscious states, a reality that undermines the manuscript's localization of a specific consciousness-brain boundary.
+
+Furthermore, the manuscript treats consciousness as a scalar quantity that can be "dialled up or down" along separate axes , yet it simultaneously models the brain as a rigid transmission mechanism governed by a fixed bandwidth, explicitly citing limits of roughly 10 bits per second. This conflates information-theoretic bandwidth (a mathematical measure of channel capacity) with phenomenal richness and integration. The literature on graded consciousness emphasizes that subjective experience does not merely degrade in resolution (analogous to a compressed digital image) but fundamentally alters in its representational structure and integrative capacity. The manuscript's "bandwidth" metaphor is biologically incoherent when applied to the actual architecture of the visual system, which relies on parallel processing streams (such as the magnocellular and parvocellular pathways) that degrade asynchronously, producing distinct behavioral syndromes rather than a unified throttling of a theoretical interface channel.
+
+### Anaesthesia, Neural Inertia, and Non-Linear Dynamics
+
+In its attempt to map the architecture of the mind-brain boundary, the manuscript attempts to marshal the transition into and out of anaesthesia as evidence for an interface. It cites the "anaesthesia dissociation" and specifically points to "direction of interface change" signatures. The manuscript observes that when consciousness is disrupted and then restored, the order in which perceptual channels degrade during induction is not the mirror image of their recovery during emergence. It further notes that the same anaesthetic concentration corresponds to different conscious outcomes depending on whether the brain is descending into or climbing out of unconsciousness, attributing this asymmetry to the selective properties of the mind-brain coupling mechanism.
+
+This interpretation represents a profound and fatal failure to engage with the 2020–2025 literature on the physical dynamics of anaesthetized neural networks. The observed temporal asymmetry is not a mysterious property of an ontological interface; it is a universally recognized, purely physical phenomenon known as "neural inertia" or "hysteresis". In pharmacology and neurobiology, hysteresis describes a system whose state depends on its history. The concentration of an anaesthetic agent required to induce unconsciousness is consistently higher than the concentration at which consciousness is spontaneously regained during washout. This hysteresis is a hallmark of bistable physical systems and complex non-linear dynamics within the brain's cortico-thalamic loops, not evidence of a non-physical mind resisting coupling.
+
+Recent advancements in mathematical neurophysiology, particularly the application of Riemannian Geometry to electroencephalogram (EEG) manifolds, have provided rigorous, non-dualist explanations for these asymmetric trajectories. These mathematical models map the state-space of the brain during anaesthesia, demonstrating that the neural network must traverse different mathematical geodesic distances depending on whether it is collapsing into a low-energy, highly synchronous state or being driven back into a highly integrated, desynchronized wakeful state. The network topology physically prevents a mirror-image recovery. By entirely ignoring the biophysics of hysteresis, bistability, and neural inertia, the manuscript appropriates a solved problem in non-linear neurodynamics and misattributes it to the selective behavior of a dualist interface, substituting basic physical chemistry with unnecessary metaphysical speculation.
+
+## Dimension B: Methodological Ruptures in Cited Literature
+
+A fatal weakness of the manuscript is its reliance on highly contested, retracted, or methodologically superseded literature. The article fails to acknowledge the extensive peer-reviewed rebuttals to its foundational citations, presenting highly disputed or empirically falsified claims as settled science to support its non-reductive architecture.
+
+### The Psychophysics of Blindsight: Phillips (2021) versus Michel & Lau (2021)
+
+To support the notion that the boundary between capability and experience can shift, and to argue against standard interpretations of unconscious perception, the manuscript heavily relies on Phillips (2021). The manuscript states that Phillips "argues that blindsight involves qualitatively degraded conscious vision rather than truly unconscious processing". The manuscript uses this specific citation to suggest that dualist models can account for varying levels of awareness through the concept of interface degradation, positing that the interface simply delivers a severely compromised phenomenal picture rather than failing entirely.
+
+The manuscript egregiously omits the intense, immediate, and direct rebuttal to Phillips (2021) published in the exact same journal by Michel and Lau (2021). This omission borders on academic malpractice. Phillips's argument rests heavily on Signal Detection Theory, suggesting that blindsight patients actually do possess conscious vision but simply possess a highly conservative response criterion (often denoted as *c* in psychophysics). According to this theory, the patients experience degraded visual qualia but will only report "seeing" something if they are absolutely certain, thus mimicking unconsciousness.
+
+Michel and Lau (2021) devastated this response-bias explanation. They pointed to rigorous performance-matching studies demonstrating that even when response biases are mathematically controlled, and objective performance metrics (such as *d'*) are perfectly matched between normal visual fields and blind fields, the lack of subjective awareness in the blind field persists. Michel and Lau demonstrated that the residual awareness hypothesis cannot account for the impressive, feature-specific discriminatory abilities of these patients.
+
+By completely ignoring Michel and Lau's (2021) definitive critique—and the subsequent literature confirming the resilience of the functional/phenomenal dissociation against mere response-bias explanations—the manuscript rests its core argument regarding perceptual boundaries on a psychophysical interpretation that has been fundamentally discredited within its own subfield. The failure to address this specific, high-profile counterargument invalidates the manuscript's use of Phillips to support a degraded-bandwidth interface model.
+
+### The Hemodynamic Confound in Psychedelic Imaging: Carhart-Harris (2012)
+
+The manuscript treats psychedelics as a mechanism that alters the interface architecture, heavily leaning on the foundational neuroimaging work of Carhart-Harris et al. (2012). This 2012 study, which utilized functional magnetic resonance imaging (fMRI), famously reported that psilocybin decreases cerebral blood flow (CBF) and Blood-Oxygen-Level-Dependent (BOLD) signals in the Default Mode Network (DMN). The manuscript uses these findings to argue that suppressing the brain's computational filters expands the phenomenal bandwidth, framing psychedelics as compounds that temporarily disable the brain's restrictive curation to allow a wider interface connection.
+
+This represents the most severe empirical and methodological failure in the manuscript. The 2020–2025 neuroscientific literature has fundamentally and comprehensively re-evaluated these 2012 findings, identifying a massive, fatal neurovascular confound that nullifies the original conclusions. The fMRI BOLD signal is not a direct measure of neural spiking or cognitive computation; it is a surrogate hemodynamic measure that relies entirely on the assumption of constant neurovascular coupling—the reliable physiological relationship between neural activity and the localized dilation of blood vessels to supply oxygen.
+
+Crucially, psychedelics such as psilocybin are potent agonists of the serotonin 5-HT2A receptor. These specific receptors are not only located on cortical pyramidal neurons but are heavily and densely expressed on the smooth muscle cells of the cerebral vasculature itself. Recent multimodal imaging studies combining two-photon excited fluorescence imaging and widefield optical imaging in awake subjects (e.g., Bauer, Padawer-Curry et al., 2024/2025) have conclusively demonstrated that psychedelics like psilocybin act as direct, potent vasoconstrictors.
+
+The administration of the drug physically prolongs the visual stimulus-evoked capillary blood flow and severely alters neurovascular coupling at the cellular level, entirely independent of neural spiking. Consequently, the decreased BOLD signal and the apparent reductions in resting-state functional connectivity (rsFC) reported by Carhart-Harris (2012) are now widely understood in the rigorous neuroimaging community to be heavily contaminated by—and likely primarily caused by—vascular artifacts rather than actual reductions in neural computation or "filter suppression".
+
+| Empirical Claim in Manuscript | Obsolete Paradigm (Carhart-Harris 2012) | Current Consensus (Bauer et al. 2024/2025) |
+| --- | --- | --- |
+| **fMRI BOLD Signal Interpretation** | Direct proxy for neural filter activity and computation. | Hemodynamic surrogate highly confounded by vascular resistance. |
+| **Mechanism of Psilocybin** | Suppresses neural filters (decreased DMN functional connectivity). | 5-HT2A receptor agonism causes direct vascular smooth muscle constriction. |
+| **Metaphysical Implication** | Evidence of decoupled phenomenal consciousness due to filter collapse. | Spurious mathematical artifact caused by prolonged neurovascular transit times. |
+
+The manuscript's theoretical scaffolding treats these BOLD decreases as pure, transparent reflections of consciousness decoupled from neural constraint. Because the underlying data is irredeemably confounded by basic vascular pharmacology, any metaphysical inferences drawn from it regarding a "consciousness-brain interface" are completely void.
+
+### The Epistemology of Blur: Skrzypulec (2021) versus Martina (2023)
+
+In its analysis of perceptual degradation, the manuscript cites Skrzypulec (2021) to define "blur" not as a failure to track external objects, but as a successful "interoceptive representation of acuity." Skrzypulec argues that when we experience blur, the visual system is effectively perceiving its own degraded state rather than misrepresenting the world. The manuscript maps this onto its dualist tenets, arguing that blur proves the existence of a subject with intrinsic phenomenal states—that perceptual degradation reveals an interface because the visual system is aware of its own condition, not merely tracking external variables.
+
+This adoption of Skrzypulec selectively ignores the primary contemporary counter-argument provided by Martina (2023, 2024), which fundamentally dismantles the interoceptive premise. Martina rigorously analyzes the interoceptive theory of blur and points out a profound epistemic conflation at the heart of Skrzypulec's argument. Martina argues that a subject does not phenomenally "see" the state of their visual system when experiencing blur. Rather, because things look phenomenally different than expected given the subject's background knowledge, the subject makes a higher-order cognitive inference that their vision is malfunctioning.
+
+To use Martina's formulation, one does not *see* the loss of acuity; one infers it by comparing current visual phenomenology with memory and contextual expectations. By omitting Martina's deflationary, inferential account, the manuscript forces a metaphysically heavy, dualist interpretation onto a perceptual phenomenon that is easily and exhaustively explained by standard relationalist or representationalist frameworks combined with basic epistemic reasoning. The manuscript treats a cognitive inference as a primary phenomenal quality to justify its interface theory.
+
+### The Category Error of Evolutionary Game Theory: Hoffman (2015)
+
+The manuscript leverages Donald Hoffman's (2015) "Fitness Beats Truth" (FBT) theorem, asserting that if evolution systematically favored fitness over truth, "the brain may be precisely the wrong instrument for understanding consciousness—a phenomenon that, if dualism holds, is not a physical-world feature at all". The manuscript argues that our inability to perceive the mind-brain interface is an evolved, adaptive trait, and that the phenomenal transparency of experience is a fitness-serving feature rather than a neutral fact about consciousness.
+
+This represents a severe category error regarding the scope and application of mathematical theorems. Hoffman's FBT is an evolutionary game-theoretic model demonstrating that simulated organisms tuned strictly to fitness payoffs will mathematically outcompete organisms tuned to homomorphic (accurate) representations of objective physical structures. It is a mathematical statement about the mapping between physical environments and exteroceptive sensory representations in competitive resource environments.
+
+The manuscript improperly and unrigorously extends this mathematical result into the domain of introspection and metaphysical philosophy of mind. FBT applies to sensory faculties evolving to detect resources and predators; it provides absolutely no mathematical, biological, or logical basis for claiming that abstract philosophical reasoning, introspection, or metaphysical conceptualization is "tuned away" from understanding dualistic interfaces. Using FBT to justify "biological cognitive closure" regarding the hard problem of consciousness  substitutes poetic analogy for rigorous evolutionary biology, stretching a specific theorem about sensory homomorphy far beyond its breaking point.
+
+### The Near-Death Experience Anachronism: van Lommel (2001)
+
+The inclusion of van Lommel et al. (2001) as an empirical pillar is a glaring anachronism that severely damages the manuscript's credibility. The text seemingly references this highly publicized prospective study of cardiac arrest survivors to gesture at the possibility of consciousness persisting beyond physical brain activity, using it to bolster claims about the separability of the interface.
+
+However, the van Lommel study has been subject to continuous, devastating methodological critique over the last two decades, rendering it unusable in contemporary rigorous philosophy. The study's primary, sensational claim relies entirely on the assertion that patients had "flatline" EEGs during the precise moments their experiences occurred. Modern neurophysiology has thoroughly debunked this premise. A surface EEG cannot detect deep cortical, hippocampal, or brainstem activity, and it is now well-established that isolated neural networks can sustain highly complex, coherent activity during early cardiac arrest. Furthermore, critical analyses (such as those by Gerald Woerlee) have definitively shown that the study's methodology cannot rule out that the Near-Death Experiences (NDEs) were generated precisely during the moments of profound metabolic stress preceding arrest, or during the resumption of brain activity upon resuscitation, rather than during the period of cessation. Relying on a highly criticized, methodologically vulnerable 2001 medical paper to make sweeping, structural claims about the mind-brain boundary in a contemporary philosophical submission is academically unacceptable.
+
+## Dimension C: Substitution of Tenet-Bracketed Framing for Rigorous Argumentation
+
+A philosophical manuscript must derive its conclusions from its premises and empirical evidence. This manuscript repeatedly engages in circular reasoning, wherein its predefined tenets (such as bidirectional interaction and dualism) are used as analytical lenses that supposedly "explain" a phenomenon, which is then circularly cited as "proof" of the tenet. This logical short-circuiting is most evident in the manuscript's treatment of cognitive impenetrability and phenomenal causality.
+
+### Cognitive Impenetrability as Pseudo-Ontology
+
+The manuscript addresses visual anomalies and optical illusions, noting the well-known psychological fact that "consciousness can know an illusion is false without being able to correct the experience". It concludes that this demonstrates consciousness operating at a "different level than perceptual modules," positing this limitation as a "consciousness-only-territory" where conscious access hits an architectural boundary. It suggests that the interface fails to penetrate back into modular processing, operating "potentially through quantum-level biasing of neural patterns rather than wholesale access to neural computation".
+
+This is a profound misrepresentation of the philosophy of perception, substituting ontology for basic cognitive architecture. The phenomenon described is classical cognitive impenetrability, exhaustively defined in the late 20th century by theorists like Pylyshyn and Fodor. The fact that higher-order cognitive beliefs (such as knowing the lines in the Müller-Lyer illusion are equal) cannot alter early visual cortex processing (seeing the lines as unequal) is perfectly, cleanly, and exhaustively explained by the modularity of the physical brain. Feedforward visual networks are simply physically encapsulated from prefrontal belief networks.
+
+The manuscript substitutes a robust, testable, and mathematically sound computational explanation (modularity and encapsulation) with a tenet-bracketed assertion that this represents an "interface limit" where a non-physical consciousness fails to exert "quantum-level biasing". The leap from standard, well-documented modular encapsulation to exotic "quantum-level biasing" is entirely unearned, philosophically reckless, and substitutes a priori dogma for logical deduction.
+
+### Phenomenal Causality and the Evasion of the Common-Cause Critique
+
+When analyzing mental effort, the phenomenon of choking under pressure, and implicit memory, the manuscript attempts to establish the phenomenal causal efficacy of consciousness—arguing that the subjective feeling is what drives the physical breakdown of performance. It notes a correlation between subjective feelings of effort and the subsequent neural disruption.
+
+However, internal evidence within the manuscript's own revisions admits a massive vulnerability: a "common-cause alternative". A purely physicalist model suggests that prefrontal reinvestment (a physical brain state) could drive *both* the felt phenomenal state and the resulting neural disruption symmetrically. In this model, the feeling does not cause the choking; the underlying neural state causes both the feeling and the choking.
+
+Faced with this fatal epiphenomenalist counter-argument, the manuscript merely pivots by "downgrading" its phrasing from claiming consciousness is "doing causal work" to stating it is "not plausibly idle". Semantic downgrading is not philosophical argumentation. If a purely physical common-cause mechanism can explain the behavioral data without remainder, Occam's Razor demands the rejection of the ontologically bloated dualist interface. The manuscript fails to provide any empirical test, logical proof, or conceptual framework that successfully distinguishes its interface theory from standard epiphenomenal or physicalist common-cause models, relying instead on the intuition that experience feels too important to be causally inert.
+
+## Dimension D: Evasion of Competing Computational Frameworks
+
+A hallmark of rigorous philosophical inquiry is the principle of charity: confronting and dismantling the strongest possible versions of opposing arguments. The manuscript systematically ignores, misrepresents, or weakly dismisses the two most dominant, empirically successful computational frameworks of the 2020s: Predictive Processing and Global Workspace Theory.
+
+### Predictive Processing and the Mechanics of Bistability
+
+The manuscript asserts that "Predictive processing frameworks... model the brain as a prediction machine... What it does not explain is why these predictions feel like anything". To force an explanatory failure onto Predictive Processing (PP), the manuscript specifically cites bistable percepts like the Necker cube. It claims that because the same physical stimulus supports multiple perceptual interpretations, and "consciousness alternates between them in ways that voluntary attention can bias," this proves that consciousness "participates in determining which perception occurs—a phenomenon that predictive-processing frameworks struggle to explain without granting consciousness causal power".
+
+This claim is demonstrably false and reflects a severe, structural ignorance of the contemporary predictive processing literature. Predictive processing does not "struggle" with bistable perception; on the contrary, bistability is a native, mathematically guaranteed, highly predicted outcome of active inference models. In a PP architecture governed by the free-energy principle, an ambiguous stimulus like the Necker cube presents a high-entropy sensory input. The brain generates hierarchical generative models to minimize this prediction error.
+
+When one hypothesis (e.g., "cube facing down") is selected by the visual cortex, the neurons representing that hypothesis undergo rapid synaptic adaptation (neural fatigue) over a few seconds. As adaptation increases, the precision weighting of the current model degrades, allowing the accumulating, unresolved bottom-up prediction error from the alternative interpretation to trigger a rapid state-transition to the new hypothesis (e.g., "cube facing up"). Furthermore, voluntary attentional biasing is elegantly handled by PP through the mechanism of expected precision. Attention is mathematically defined as the optimization of precision-weighting on specific sensory channels. The system does not require a non-physical "consciousness" to reach in across an interface and act as a causal tie-breaker; the alternating dynamic is driven entirely by the physics of synaptic adaptation and error minimization. By claiming PP cannot explain bistable perception, the manuscript builds a weak strawman to justify an unnecessary interactionist interface.
+
+### Global Workspace Dynamics and the Architecture of Dissociation
+
+The manuscript heavily leverages instances of processing without phenomenology—such as blindsight and inattentional blindness—to argue for an interface architecture where sensory information is physically trapped behind a transmission limit. In doing so, it attempts to broadly dismiss Global Workspace Theory (GWT), implying it faces the same hard problem objections as other physicalist accounts and fails to explain the exact neural boundary of consciousness.
+
+However, the manuscript ignores the massive empirical updates to Global Workspace Dynamics (GWD) in the 2020–2025 period (e.g., Mashour et al., 2020; Baars et al., 2021). Modern GWT explicitly predicts and flawlessly explains perceptual dissociations without invoking a dualist interface. Inattentional blindness and blindsight occur predictably when local sensory processors (e.g., extrastriate visual areas) process stimuli adequately for motor action but fail to achieve the widespread cortico-thalamic broadcasting required to enter the global workspace.
+
+The manuscript completely fails to engage with recent pivotal debates, such as Raccah et al.'s (2021) critique regarding prefrontal cortex (PfC) participation and the robust defense demonstrating the PfC's dynamic role in the conscious visual stream. Furthermore, recent advancements have synthesized GWT with Integrated Information Theory (IIT), providing a comprehensive account of resting-state networks (like the DMN) and their precise role in human information-processing architectures. The manuscript pretends these sophisticated computational accounts of bandwidth, neural integration, and workspace competition do not exist. It opts instead to invent an unparsimonious ontological interface to explain the exact neurological dissociations that Global Workspace Theory has already elegantly mapped and solved.
+
+## Specific Weaknesses Justifying Rejection
+
+The culmination of this audit yields the following five specific, critical weaknesses that render the manuscript fundamentally unfit for academic publication. Each weakness highlights a direct contradiction with recent peer-reviewed literature that the manuscript either egregiously omits or mishandles to preserve its theoretical architecture.
+
+1. **Vascular Confound in Psychedelic Imaging:** The manuscript's core assertion that psychedelic states represent an expansion of consciousness due to the suppression of neural filters relies entirely on outdated interpretations of fMRI BOLD signal decreases (Carhart-Harris, 2012). It completely ignores the 2024/2025 literature (e.g., Bauer et al., two-photon optical imaging studies) demonstrating that psilocybin acts as a direct vascular vasoconstrictor via 5-HT2A receptors on smooth muscle. This renders the reported reductions in functional connectivity and BOLD signals as spurious vascular transit-time artifacts rather than actual neural realities.
+2. **Ignorance of Neural Inertia and Hysteresis:** The manuscript invokes an "anaesthesia dissociation" and directional interface asymmetries to argue for the unique, selective properties of a consciousness-brain interface. It completely ignores the established biophysical models of "neural inertia" and hysteresis (e.g., Riemannian geometry EEG classification studies and non-linear dynamic models from 2020–2025), which mathematically explain these asymmetric induction/emergence trajectories as standard properties of bistable physical networks without invoking dualism.
+3. **Failure to Address Response-Bias Critiques in Blindsight:** The manuscript relies heavily on Phillips (2021) to argue that blindsight is a degraded form of conscious vision, proving a shifting interface boundary. It fatally omits the direct, peer-reviewed rebuttal by Michel and Lau (2021), who demonstrated through rigorous performance-matching analyses that response-bias explanations are implausible, thereby dismantling the manuscript's premise regarding the presence of phenomenology in the blind field.
+4. **Strawman Critique of Predictive Processing:** The manuscript explicitly claims that predictive processing frameworks struggle to explain bistable perception (e.g., the Necker cube) without granting a non-physical consciousness causal power. This is directly contradicted by extensive 2020–2025 computational neuroscience literature demonstrating that hierarchical predictive coding natively generates bistable switching through the purely physical mechanisms of synaptic adaptation and precision-weighting, requiring no conscious tie-breaker.
+5. **Epistemic Conflation in the Analysis of Blur:** The manuscript relies on Skrzypulec (2021) to define blur as an interoceptive perception of the visual system's state, using this to argue for intrinsic phenomenal subjects mapping their own interface. It fails to engage with Martina's (2023/2024) devastating deflationary critique, which demonstrates that subjects do not phenomenally "see" their visual system's state, but rather make higher-order epistemic inferences based on relational prediction errors, neutralizing the manuscript's dualist interpretation.
+
+## Final Verdict
+
+Due to its structural reliance on superseded neuroimaging methodologies, the systematic omission of fatal counter-arguments in the psychophysical literature, and its tendency to substitute circular, tenet-bracketed framing for rigorous computational modeling, this manuscript is empirically and philosophically unsound and must be rejected.
+
+## Verification Notes
+
+This Gemini 2.5 Pro Deep Research report was checked against the actual article text (`obsidian/topics/perceptual-failure-and-the-interface.md`). It is **mixed**: it surfaces two genuine empirical-currency flags that converge with the same-day Claude and ChatGPT reviews, but it also contains **two fabricated attributions** — specific claims attributed to the article that do not appear in it (Gemini's hostile-referee framing led it to invent or import content from sibling articles). External criticism is not automatically correct; the fabrications must not be propagated into tasks.
+
+**Verified claims (convergent — already covered by existing same-cycle tasks):**
+- ✓ The article cites **Phillips (2021)** on blindsight ("qualitatively degraded conscious vision", line 83) without flagging the same-issue rebuttal by **Michel & Lau (2021)**, *Psychological Review* 128(3):585–591. Gemini's "Dimension B" finding here is accurate and independently corroborated by the Claude Fable 5 review (which gave exact pages) and the ChatGPT review (contested-blindsight). Already captured by the existing **P2 "Fix Martina citation metadata + add contested-blindsight references"** task. **Three-reviewer convergence.**
+- ✓ The article cites **Skrzypulec (2021)** on blur and **Martina (2023)** (line 65); Gemini's claim that Martina supplies a deflationary counter to the interoceptive reading is broadly faithful to the same Martina paper the ChatGPT review verified. Already covered by the ChatGPT P1 (Skrzypulec/Martina reframe) task. Convergent.
+- ✓ The article leans on **Carhart-Harris et al. (2012)** DMN-reduction (line 111) as filter-theory evidence; Gemini's neurovascular-confound flag and the Claude review's inverted-entropy flag are two distinct, both-legitimate critiques of the *same* over-reliance on the 2012 DMN result. Convergent with Claude's P1.
+
+**Disputed / FABRICATED claims (must NOT be propagated):**
+- ✗ **"10 bits per second" bandwidth figure.** Gemini's Dimension A asserts the manuscript is "explicitly citing limits of roughly 10 bits per second." The string "10 bits", "bits per second", and any specific bandwidth figure **do not appear** anywhere in the article. The article's bandwidth language is purely qualitative (radio-signal analogy, "finite bandwidth", "priority preservation"). This is a hallucinated quantitative attribution.
+- ✗ **"Quantum-level biasing of neural patterns" + Müller-Lyer cognitive-impenetrability section.** Gemini's Dimension C quotes "potentially through quantum-level biasing of neural patterns rather than wholesale access to neural computation" and builds a "cognitive impenetrability as pseudo-ontology" critique around optical illusions. That quote and the Müller-Lyer / cognitive-impenetrability material **are not in this article.** The article's only quantum content is the Minimal Quantum Interaction tenet paragraph (line 133), worded differently. Gemini imported content from a sibling article or fabricated it.
+- ✗ **Necker-cube / predictive-processing strawman.** Gemini's Dimension D quotes the article claiming "predictive-processing frameworks struggle to explain" bistable perception via the Necker cube. The strings "Necker", "bistable", and "predictive processing" **do not appear** in the article at all. The article's relevant section is "The Neural Network Objection" (line 99), which engages distributed-network degradation, not PP or bistability. This is fabricated. (Note: the *underlying* point — the article never engages PP — is real and is already captured by the ChatGPT P1 PP-rival task and P2 PP cross-links task; but Gemini's specific quoted-strawman framing is fabricated.)
+
+**Overstated (real kernel, inflated role):**
+- ⚠ **van Lommel (2001) as "an empirical pillar."** Gemini treats the NDE citation as a load-bearing "pillar" and "anachronism." In fact the article cites it as one of three brief *suggestive* filter-theory examples (line 111) and explicitly hedges at line 113 ("do not prove filter theory, but they create a puzzle"). Gemini overstates its dialectical weight. The kernel — van Lommel's flatline-EEG premise is methodologically contested, and the article presents the NDE example without that caveat — is a legitimate (minor) currency/contestation flag, but does not justify the "rejection" framing. Captured as a low-priority sub-item below.
+- ⚠ **Anaesthesia "neural inertia / hysteresis" omission.** The article's anaesthesia discussion (line 107) is brief and does not make the strong "directional interface-change signatures" claims Gemini attributes to it; Gemini appears to inflate a modest degradation-vs-shutdown contrast into a hysteresis argument the article never advances. The hysteresis/neural-inertia literature is real and could enrich the anaesthesia sibling articles, but Gemini's framing again over-reads this article. Not actioned here (the article makes no anaesthesia empirical-direction error to correct).
+
+**Net assessment:** Gemini's two convergent findings (Michel & Lau blindsight rebuttal; over-reliance on Carhart-Harris 2012) reinforce existing same-cycle tasks and strengthen the case for `/combine-outer-reviews` to upgrade them. Its three fabricated attributions and two overstatements are characteristic Deep-Research hostile-referee failure modes (importing sibling-article content, inventing specific figures) and are explicitly excluded from task generation. Only one genuinely *new*, actionable, low-priority item — the van Lommel NDE contestation flag — is added below.
