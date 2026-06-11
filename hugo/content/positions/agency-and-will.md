@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-08
-ai_modified: 2026-06-08 13:30:00+00:00
+ai_modified: 2026-06-10 22:00:00+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts:
@@ -63,11 +63,12 @@ These positions cover what the Map holds about agency: whether choices are genui
 
 - **Status**: live
 - **Confidence**: moderate
-- **Asserts**: The Map holds that the Libet/Soon readiness-potential findings do not establish that conscious will is epiphenomenal. The standard interpretation has been substantially weakened on independent grounds the Map accepts as constraining-but-not-decisive: Schurger et al. (2012) reinterpret the readiness potential as an accumulator artefact of neural noise; Sjöberg (2024) finds SMA-resection patients retain voluntary agency; Desmurget (2009) dissociates parietal intention from premotor execution; and Soon's ~60% prediction accuracy leaves residual variance. The Map's own resolution adds an initiation/selection distinction (consciousness selects among brain-prepared options) and, more speculatively, an atemporal-selection reading that dissolves the timing puzzle. The empirical critiques are held with more confidence than the atemporal reading, which is flagged as a hypothesis.
-- **Depends on**: P-A1; Schurger 2012, Sjöberg 2024, Desmurget 2009, Soon 2008; the atemporal-selection hypothesis (held weakly)
-- **Argued in**: [libet-experiments](/concepts/libet-experiments/), [free-will](/topics/free-will/)
+- **Asserts**: The Map holds that the Libet/Soon readiness-potential findings do not establish that conscious will is epiphenomenal. The standard interpretation has been substantially weakened on independent grounds the Map accepts as constraining-but-not-decisive: Schurger et al. (2012) reinterpret the readiness potential as an accumulator artefact of neural noise; Sjöberg (2024) finds SMA-resection patients retain voluntary agency; Desmurget (2009) dissociates parietal intention from premotor execution; and Soon's ~60% prediction accuracy leaves residual variance. The Map's own resolution adds an initiation/selection distinction (consciousness selects among brain-prepared options) and, more speculatively, an atemporal-selection reading that dissolves the timing puzzle. The empirical critiques are held with more confidence than the atemporal reading, which is flagged as a hypothesis. The atemporal reading belongs to the time-symmetric / retrocausal family; where the Map expresses a *mechanism* preference it favours forward-in-time post-decoherence selection (P-Q1, [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/)), against which the retrocausal route is the foil. The atemporal reading is therefore a subordinate, weakly-held fallback within this position — a way of dissolving the timing puzzle *if* the forward-in-time preference fails — not a competing primary mechanism claim, and the initiation/selection distinction (which is mechanism-agnostic) carries the main load.
+- **Depends on**: P-A1; Schurger 2012, Sjöberg 2024, Desmurget 2009, Soon 2008; the atemporal-selection hypothesis (held weakly, subordinate to the forward-in-time mechanism preference in P-Q1)
+- **Argued in**: [libet-experiments](/concepts/libet-experiments/), [free-will](/topics/free-will/); cross-domain: [quantum-interface](/positions/quantum-interface/) P-Q1, [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/)
 - **Would shift if**: prediction accuracy from prior neural states approached 100%, closing the residual gap; or vetoes were reliably shown to be preceded by readiness potentials; or the SMA-resection finding failed to replicate with a genuine loss of agency.
-- **Last reviewed**: 2026-06-08
+- **Reconciled 2026-06-10**: positions audit 2026-06-09 (Check 1) surfaced a soft cross-register tension — P-A3's atemporal-selection mention versus P-Q1's forward-in-time mechanism preference. Resolved by harmonising without erasing: the atemporal reading is retained but explicitly subordinated to the forward-in-time preference and cross-linked to P-Q1, since the two sit in separable domains (agency *that* selection is authored vs quantum *how* it couples) and P-A3 already hedged it as a hypothesis. No confidence change; not a hard contradiction.
+- **Last reviewed**: 2026-06-10
 
 ## P-A4: Conscious causal efficacy cannot be verified from the first person
 

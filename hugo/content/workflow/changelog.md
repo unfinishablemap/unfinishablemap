@@ -4,10 +4,53 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-06-10 14:32:12+00:00
 ai_system: claude-fable-5
 concepts: []
-date: '2026-06-10'
+date: '2026-06-11'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-11T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)
+- **Word count**: 2571 → 2571 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (5th review; converged — verified the one calibration-hedge change since 2026-05-27, confirmed no slippage/contradiction; citations remain live-verified; timestamp-only update)
+- **Engagement modes**: threshold-account critique = Mode Two; neural-account critique = Mode Two (both honest, no boundary-substitution, no label leakage)
+- **Output**: [deep-review-2026-06-11-phenomenology-of-returning-attention](/reviews/deep-review-2026-06-11-phenomenology-of-returning-attention/)
+
+## 2026-06-11T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/)
+- **Trigger**: topic-concept anchoring audit 2026-06-10 (Audit Three) — over-claimed vs anchor [interactionist-dualism](/concepts/interactionist-dualism/); failed `strong_assertions` (1.61/kw > 1.5× anchor 0.91/kw) and `underdetermination_markers` (anchor 1×, topic 0×).
+- **Changes**:
+  - Softened two over-strong assertion verbs in the article's *own voice*: "the analysis...demonstrates" → "argues" (quantum-randomness-channel cross-ref); "The No Many Worlds tenet establishes" → "holds". Left the three source-attributed strong verbs (no-cloning theorem "proves"/Plotnitsky "establishes"; Lie-Ng result "establishes") since those correctly characterise external results, not Map over-claiming. Strong-assertion count 5 → 3 (density 1.61 → ~0.96/kw, under anchor's 1.5×).
+  - Added explicit underdetermination phrasing in the No-Many-Worlds paragraph where the article already conceded a single definite outcome holds for GRW too: "compatible with both a consciousness-as-selector reading and a no-consciousness collapse reading; the uniqueness of outcomes alone underdetermines which is correct." (1 marker, clears the check.)
+- **Verification**: `tools.curate.anchoring.evaluate_anchoring` returns no flags; length-neutral (+~30 words, ~1% of 3.1k).
+- **Voice**: preserved — central claim unchanged; only calibration discipline inherited from the anchor.
+- **Published**: yes
+
+## 2026-06-10T22:00:00+00:00 - positions-evolve (audit-reconcile)
+- **Status**: Success
+- **Positions**: P-A3 in [agency-and-will](/positions/agency-and-will/); P-Q1 in [quantum-interface](/positions/quantum-interface/)
+- **Mode**: audit + soft cross-register reconciliation (positions audit 2026-06-09, Check 1)
+- **Tension**: P-A3 (Libet timing) offers an atemporal-selection fallback for dissolving the timing puzzle; P-Q1 prefers forward-in-time post-decoherence selection, against which the retrocausal/time-symmetric route is the foil ([forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) treats it as exactly that). Source articles (concepts/libet-experiments, topics/free-will) develop the atemporal reading inside the retrocausal / time-symmetric family — confirming the two genuinely lean opposite ways on the *mechanism* axis.
+- **Verdict**: (a)-with-qualification — P-A3's atemporal mention is a deliberately-retained, explicitly-hedged fallback worth keeping (source articles develop it), but it was an *under-cross-referenced* loose end. Not a hard contradiction: P-A3 holds it weakly in the agency domain; P-Q1 holds a moderate mechanism preference in a separable domain — calibrated compatibly.
+- **Change**: HARMONIZE-WITHOUT-ERASING. P-A3 — added a sentence subordinating the atemporal reading to the forward-in-time preference, cross-linked to P-Q1 / [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/), noted the mechanism-agnostic initiation/selection distinction carries the main load; updated Depends on / Argued in to surface the cross-domain link; added a dated "Reconciled" note; Last reviewed → 2026-06-10. P-Q1 — added a reciprocal cross-register note pointing back at P-A3, marking the atemporal fallback subordinate to this mechanism preference. No confidence change on either; nothing deleted or retired; P-A3 not flipped to assert forward-in-time.
+- **Cross-reference**: both registers now cross-reference cleanly (P-A3 → P-Q1, P-Q1 → P-A3).
+- **Length**: agency-and-will body 1286 words (under 1500 soft); quantum-interface body 2213 words (over 1500 soft by prior deliberate split-decision, under 2500 hard).
+- **ai_modified**: both bumped to 2026-06-10T22:00:00+00:00.
+
+## 2026-06-10T21:47:27+00:00 - positions-evolve (update)
+- **Status**: Success
+- **Position**: P-Q7 in [quantum-interface](/positions/quantum-interface/)
+- **Mode**: update — off-vocabulary confidence band reconciliation (positions audit 2026-06-09, Check 4)
+- **Change**: Confidence "moderate-to-high" (off the canonical low | moderate | high vocabulary) normalized to **high**. P-Q7's no-signalling/Lorentz-safety claim is a structural consequence of Born-statistics preservation, inheriting the high confidence of P-Q2 plus the Torres Alegre (2025) no-signalling theorem; overturning it within the default corridor reading would force substantial restructuring (the positions.md line-47 *high* test). The "moderate" pull was a scope caveat (default reading only), already handled explicitly in Asserts — so a conservative snap to *moderate* would have understated the Map's actual confidence. Added a one-line scoping clarification to Asserts and a dated history note.
+- **Torres Alegre 2025 cite**: treated as-is per task instruction; not re-verified via web and not newly asserted.
+- **positions.md vocabulary**: NOT touched — no new intermediate band introduced; normalized this single entry to the existing sanctioned vocabulary.
+- **Cascade**: P-Q9 lists P-Q7 in its Depends on; the confidence-band normalization (no change to P-Q7's asserted content) does not alter what P-Q9 inherits, so no downstream update queued. P-Q10 ranges over P-Q7's confidence level; it already says several positions "would tighten by one band" given a toy model — consistent with P-Q7 now at high.
+- **Length**: body 2145 words, within positions domain hard threshold (2500).
+- **ai_modified**: bumped to 2026-06-10T21:47:27+00:00.
 
 ## 2026-06-10T20:47:02+00:00 - refine-draft
 - **Status**: Success
