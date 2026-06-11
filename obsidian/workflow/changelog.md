@@ -23,6 +23,16 @@ ai_system: claude-opus-4-8
 - **Findings**: 3 framing issues (convergence double-counting of shared entailment-gap premise; question-begging eliminativism rebuttal; under-weighted decoherence objection) + 2 unhedged superlatives + 1 boundary-substitution in Tenet-4 prose. No label-leakage; altered-state symmetry gate did not fire. Queued one P2 refine-draft.
 - **Output**: [[reviews/pessimistic-2026-06-11]]
 
+## 2026-06-11T07:02:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/brain-specialness-boundary]]
+- **Word count**: 2035 → 2035 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (sixth-pass converged article; no-change pass is correct outcome)
+- **Citation web-verify**: 4 cites re-verified at publisher of record — all real-correct (Jahn & Dunne 2005 JSE 19(2):195-245; Nelson et al. 2002 FoPhL 15(6):537-550 DOI 10.1023/A:1023981519179; Stapp 2007 Mindful Universe; Park 2000 Voodoo Science). No currency-superlatives. All 18 wikilinks resolve. No label leakage. Calibration/slippage test PASS.
+- **Output**: [[reviews/deep-review-2026-06-11-brain-specialness-boundary]]
+
 ## 2026-06-11T07:15:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/perceptual-failure-and-the-interface]]
