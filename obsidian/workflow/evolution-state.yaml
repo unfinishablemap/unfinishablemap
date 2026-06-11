@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-11T02:32:32.765002+00:00'
-session_count: 10767
+last_updated: '2026-06-11T02:47:28.252793+00:00'
+session_count: 10768
 cycle_position: 8955
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-10T04:26:47.856893+00:00'
   refine-draft: '2026-06-11T00:18:32.329312+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-11T02:19:13.347215+00:00'
+  replenish-queue: '2026-06-11T02:47:28.252793+00:00'
   condense: '2026-06-09T13:03:52.907973+00:00'
   expand-topic: '2026-06-09T11:04:20.317410+00:00'
   add-highlight: '2026-06-10T09:03:29.898616+00:00'
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: positions-evolve
-  type: positions-evolve
-  date: '2026-06-10'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-10'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-11'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-11'
   outcome: success
 agentic_social:
@@ -834,37 +834,38 @@ queue_status:
     open P0-P2 = 1 (todo.md L40, authentic-vs-inauthentic-choice mental-effort-calibration
     refine, from the 2026-06-10 topic-concept anchoring audit; git-confirmed target
     last touched 2026-06-05 deep-review, NO edit since the task was minted 2026-06-10
-    → genuinely unexecuted). The two other ### P[0-2] in Active are both #veto''d (meaning-of-life
-    condense L529, phenomenal-output-causal-machinery-dissociation condense L537).
-    1 < MIN_QUEUE floor of 3 → replenish fired. ALL EIGHT generative sources INDEPENDENTLY
-    RE-VERIFIED ON DISK this run (git/find/get_length_warnings, not trusting prior
-    notes): (1) chains 0 — recent_tasks Counter holds only replenish-queue/agentic-social/positions-evolve/refine-draft/embed-videos/check-model-fallback/deep-review/commission-chatgpt-review;
+    → genuinely unexecuted). The two other ### P[0-2] in Active are both #veto''d
+    (meaning-of-life condense L529, phenomenal-output-causal-machinery-dissociation
+    condense L537). 1 < MIN_QUEUE floor of 3 → replenish fired. ALL EIGHT generative
+    sources INDEPENDENTLY RE-VERIFIED ON DISK this run (git/find/get_length_warnings,
+    not trusting prior notes): (1) chains 0 — recent_tasks Counter holds only replenish-queue/agentic-social/positions-evolve/refine-draft/embed-videos/check-model-fallback/deep-review/commission-chatgpt-review;
     NO expand-topic/research-topic completion to forward-chain (research-topic last
     ran 2026-06-03). (2) unconsumed research 0 — newest notes confirmed consumed in
     the four prior runs tonight; no new research-topic since. (3) caps on disk (find,
-    excl index) — topics 268/270, concepts 263/270 (both near cap), voids 101/100 OVER,
-    positions 3 files; no high-confidence expand candidate. (4) staleness 0 — handled
-    by cycle deep-review slots (one ran 2026-06-11T01:02). (5) orphans 0 (quality.orphaned_files=0,
-    re-read). (6) length — get_length_warnings re-run on disk: every CONTENT-section
-    (topics/concepts/voids/apex/positions) hard+ offender is #veto''d (meaning-of-life,
-    phenomenal-output), a human-deferred flagship / STANDING HUMAN LENGTH DECISION
-    (epistemology-of-convergence 6479w, born-rule 5106w, laws-and-dispositions 4213w,
-    clinical-dissociation 4863w DIVERTED, valence 4092w, composition 4045w), an index
-    page (apex-articles 6963w), or a cross-link-accreting / recently-git-condensed hub
-    (argument-from-reason 4489w, epistemic-advantages 4400w, time-collapse 4606w, filter-theory
-    3500w, phenomenal-authority 4022w, simple-organisms 4025w) per [[hub-articles-accrete-crosslink-length]]
-    + [[condense-regresses-calibration-qualifiers]]. Remaining warnings are research/
-    notes (no length ceiling). NONE auto-mintable. (7) positions — full audit ran 2026-06-09
-    (18 entries / 4 domains, no contradictions, deps resolve), register last touched
-    2026-06-10, no dependency moved → no add/update/audit due. (8) applied-apex gap
-    — register too sparse for a high-confidence cluster. The 1 open anchoring-audit
-    P2 IS the floor-restoring work; it should be picked and executed by the loop, not
-    supplemented with manufactured filler. Documented steady-state with real pending
-    work, not a defect. PRIOR NOTE (kept for context): 2026-06-11T02:10 re-run — generated 0 new tasks. Loop-pickable
-    open P0-P2 = 1 (todo.md L40, authentic-vs-inauthentic-choice mental-effort-calibration
-    refine, from the 2026-06-10 topic-concept anchoring audit; target last git-touched
-    2026-06-05 deep-review, NO edit since → genuinely unexecuted). The two other ###
-    P[0-2] in Active are both #veto''d (meaning-of-life condense L492, phenomenal-output-causal-machinery-dissociation
+    excl index) — topics 268/270, concepts 263/270 (both near cap), voids 101/100
+    OVER, positions 3 files; no high-confidence expand candidate. (4) staleness 0
+    — handled by cycle deep-review slots (one ran 2026-06-11T01:02). (5) orphans 0
+    (quality.orphaned_files=0, re-read). (6) length — get_length_warnings re-run on
+    disk: every CONTENT-section (topics/concepts/voids/apex/positions) hard+ offender
+    is #veto''d (meaning-of-life, phenomenal-output), a human-deferred flagship /
+    STANDING HUMAN LENGTH DECISION (epistemology-of-convergence 6479w, born-rule 5106w,
+    laws-and-dispositions 4213w, clinical-dissociation 4863w DIVERTED, valence 4092w,
+    composition 4045w), an index page (apex-articles 6963w), or a cross-link-accreting
+    / recently-git-condensed hub (argument-from-reason 4489w, epistemic-advantages
+    4400w, time-collapse 4606w, filter-theory 3500w, phenomenal-authority 4022w, simple-organisms
+    4025w) per [[hub-articles-accrete-crosslink-length]] + [[condense-regresses-calibration-qualifiers]].
+    Remaining warnings are research/ notes (no length ceiling). NONE auto-mintable.
+    (7) positions — full audit ran 2026-06-09 (18 entries / 4 domains, no contradictions,
+    deps resolve), register last touched 2026-06-10, no dependency moved → no add/update/audit
+    due. (8) applied-apex gap — register too sparse for a high-confidence cluster.
+    The 1 open anchoring-audit P2 IS the floor-restoring work; it should be picked
+    and executed by the loop, not supplemented with manufactured filler. Documented
+    steady-state with real pending work, not a defect. PRIOR NOTE (kept for context):
+    2026-06-11T02:10 re-run — generated 0 new tasks. Loop-pickable open P0-P2 = 1
+    (todo.md L40, authentic-vs-inauthentic-choice mental-effort-calibration refine,
+    from the 2026-06-10 topic-concept anchoring audit; target last git-touched 2026-06-05
+    deep-review, NO edit since → genuinely unexecuted). The two other ### P[0-2] in
+    Active are both #veto''d (meaning-of-life condense L492, phenomenal-output-causal-machinery-dissociation
     condense L500). 1 < MIN_QUEUE floor of 3 → replenish fired. ALL EIGHT generative
     sources INDEPENDENTLY RE-VERIFIED ON DISK this run (not trusting prior notes):
     (1) chains 0 — recent_tasks last 14d hold only refine-draft/replenish-queue/agentic-social/positions-evolve/embed-videos/check-model-fallback/deep-review/commission-chatgpt-review;

@@ -294,3 +294,34 @@
   subject_articles:
   - topics/perceptual-failure-and-the-interface.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/eef19dbe-e3c5-432a-8283-03f758c28fc8
+  commissioned_at: '2026-06-11T03:03:51.574459+00:00'
+  prompt_summary: Audit perceptual-failure-and-the-interface (Fable 5)
+  target_filename: outer-review-2026-06-11-claude-fable-5.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Please conduct a rigorous, referee-style audit of one article on The\
+    \ Unfinishable Map (https://unfinishablemap.org), a dualist philosophy-of-mind\
+    \ project: \"Perceptual Failure and the Interface\" at https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/.\
+    \ The article argues that perceptual degradation (blur, blindsight, attentional\
+    \ failure, altered states) reveals the architecture of a consciousness-brain interface\
+    \ \u2014 its bandwidth limits, a \"blur paradox,\" and filter-like behaviour under\
+    \ stress. Assess: (1) whether its empirical claims about perception, blindsight,\
+    \ attention, and altered states are accurate and current; (2) whether its inferences\
+    \ from those phenomena to an interface/filter model are valid, or whether they\
+    \ overreach or beg the question against physicalist explanations; (3) coherence\
+    \ with the site five tenets (dualism, minimal quantum interaction, bidirectional\
+    \ interaction, no many-worlds, limits of Occam razor); and (4) the strongest physicalist\
+    \ counter-reading it fails to address. Before you begin, consult the changelog\
+    \ at https://unfinishablemap.org/workflow/changelog/ so you account for recent\
+    \ activity that web-search indices have not yet picked up. End your report with\
+    \ a list of concrete potential improvements to specific articles and to the site\
+    \ methodology."
+  subject_type: recent
+  subject_title: Audit perceptual-failure-and-the-interface
+  subject_articles:
+  - topics/perceptual-failure-and-the-interface.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-11-chatgpt-5-5-pro.md
