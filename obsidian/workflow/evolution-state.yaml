@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-11T09:48:18.655295+00:00'
-session_count: 10796
+last_updated: '2026-06-11T10:02:38.219911+00:00'
+session_count: 10797
 cycle_position: 8965
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-11T04:05:55.683761+00:00'
   refine-draft: '2026-06-11T09:48:18.655295+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-11T09:50:00+00:00'
+  replenish-queue: '2026-06-11T10:02:38.219911+00:00'
   condense: '2026-06-09T13:03:52.907973+00:00'
   expand-topic: '2026-06-09T11:04:20.317410+00:00'
   add-highlight: '2026-06-11T08:02:23.537503+00:00'
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: combine-outer-reviews
-  type: combine-outer-reviews
-  date: '2026-06-11'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-11'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-06-11'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-11'
   outcome: success
 agentic_social:
@@ -894,36 +894,38 @@ queue_status:
     queue actually GREW since the 08:40 run: the 09:18 optimistic-review added a genuine
     P3 cross-link task (brain-specialness-boundary ↔ predictive-processing-and-dualism,
     assess-first/license-to-decline). On-disk Active pickable now = 5 (2× P2, 3× P3),
-    up from the 3 recorded at 08:40. The MIN_QUEUE floor counts P0-P2 = 2 (< 3) so replenish
-    fired, but the floor-restoring work already EXISTS on disk and manufacturing filler
-    would be wrong. All eight generative sources RE-VERIFIED ON DISK this run, all dry:
-    (1) chains 0 — last research-topic 2026-06-03, last expand-topic 2026-06-09; no executable
-    completion in the 14-day window to forward-chain. (2) unconsumed research 0 actionable
-    — six voids research notes are unconsumed by slug BUT voids is 101/100 OVER CAP so
-    no expand-topic candidate may target voids (blocked, not actionable). (3) caps on
-    disk (find, excl index): topics 268/270, concepts 263/270 (both near cap), voids
-    101/100 OVER, positions 3; no high-confidence non-voids expand candidate. (4) staleness
-    0 — handled by cycle deep-review slots. (5) orphans 0 (quality.orphaned_files 0).
-    (6) length — every content-section hard+ offender is #veto''d, DIVERTED-TO-HUMAN /
-    standing HUMAN LENGTH DECISION (epistemology-of-convergence, born-rule, clinical-dissociation,
-    laws-and-dispositions, valence, composition, edge-states), an index hub (apex-articles),
-    or a cross-link-accreting / recently-condensed hub (argument-from-reason, epistemic-advantages,
-    time-collapse, filter-theory, simple-organisms, phenomenal-authority; voids agency-void
-    / what-voids-reveal / wholeheartedness-void over from inbound cross-link accretion
-    per [[hub-articles-accrete-crosslink-length]], not own-content growth). None auto-mintable;
-    auto-condensing risks [[condense-regresses-calibration-qualifiers]]. (7) positions
-    — full audit ran 2026-06-09 (18 entries / 4 domains, no contradictions, deps resolve),
-    register last touched 2026-06-10, no dependency moved → nothing due. (8) applied-apex
-    gap — register too sparse for a high-confidence cluster. The 2 pickable P2s (L47 Carhart-Harris/Friston
-    co-optation in apex/altered-states; L35 mental-effort calibration in authentic-vs-inauthentic-choice)
-    ARE the floor-restoring work and should be picked and executed by the loop. Documented
-    steady-state with real pending work, not a defect. PRIOR NOTE: 2026-06-11T08:40 re-run — generated 0 new tasks (re-verified
-    the on-disk picture; nothing actionable changed since the 08:10 run — same 3 Active
-    tasks, same dry sources). Loop-pickable open P0-P2 = 2, P3 = 1. All eight generative
-    sources RE-VERIFIED ON DISK this run: (1) chains 0 — no executable expand-topic/research-topic
-    completion in the 14-day window to forward-chain (last research-topic 2026-06-03;
-    last expand-topic 2026-06-09 is outside the window). (2) unconsumed research 0
-    ACTIONABLE — six voids research notes (effort/encoding/insight/recurrence/translation/cognitive-phenomenology)
+    up from the 3 recorded at 08:40. The MIN_QUEUE floor counts P0-P2 = 2 (< 3) so
+    replenish fired, but the floor-restoring work already EXISTS on disk and manufacturing
+    filler would be wrong. All eight generative sources RE-VERIFIED ON DISK this run,
+    all dry: (1) chains 0 — last research-topic 2026-06-03, last expand-topic 2026-06-09;
+    no executable completion in the 14-day window to forward-chain. (2) unconsumed
+    research 0 actionable — six voids research notes are unconsumed by slug BUT voids
+    is 101/100 OVER CAP so no expand-topic candidate may target voids (blocked, not
+    actionable). (3) caps on disk (find, excl index): topics 268/270, concepts 263/270
+    (both near cap), voids 101/100 OVER, positions 3; no high-confidence non-voids
+    expand candidate. (4) staleness 0 — handled by cycle deep-review slots. (5) orphans
+    0 (quality.orphaned_files 0). (6) length — every content-section hard+ offender
+    is #veto''d, DIVERTED-TO-HUMAN / standing HUMAN LENGTH DECISION (epistemology-of-convergence,
+    born-rule, clinical-dissociation, laws-and-dispositions, valence, composition,
+    edge-states), an index hub (apex-articles), or a cross-link-accreting / recently-condensed
+    hub (argument-from-reason, epistemic-advantages, time-collapse, filter-theory,
+    simple-organisms, phenomenal-authority; voids agency-void / what-voids-reveal
+    / wholeheartedness-void over from inbound cross-link accretion per [[hub-articles-accrete-crosslink-length]],
+    not own-content growth). None auto-mintable; auto-condensing risks [[condense-regresses-calibration-qualifiers]].
+    (7) positions — full audit ran 2026-06-09 (18 entries / 4 domains, no contradictions,
+    deps resolve), register last touched 2026-06-10, no dependency moved → nothing
+    due. (8) applied-apex gap — register too sparse for a high-confidence cluster.
+    The 2 pickable P2s (L47 Carhart-Harris/Friston co-optation in apex/altered-states;
+    L35 mental-effort calibration in authentic-vs-inauthentic-choice) ARE the floor-restoring
+    work and should be picked and executed by the loop. Documented steady-state with
+    real pending work, not a defect. PRIOR NOTE: 2026-06-11T08:40 re-run — generated
+    0 new tasks (re-verified the on-disk picture; nothing actionable changed since
+    the 08:10 run — same 3 Active tasks, same dry sources). Loop-pickable open P0-P2
+    = 2, P3 = 1. All eight generative sources RE-VERIFIED ON DISK this run: (1) chains
+    0 — no executable expand-topic/research-topic completion in the 14-day window
+    to forward-chain (last research-topic 2026-06-03; last expand-topic 2026-06-09
+    is outside the window). (2) unconsumed research 0 ACTIONABLE — six voids research
+    notes (effort/encoding/insight/recurrence/translation/cognitive-phenomenology)
     are genuinely unconsumed by slug, BUT voids is 101/100 OVER CAP so per section-cap
     filtering no expand-topic candidate may target voids; they are blocked, not actionable.
     (3) caps on disk (find, excl index): topics 268/270, concepts 263/270 (both near

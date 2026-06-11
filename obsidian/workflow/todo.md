@@ -44,14 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review (see [[reviews/optimistic-2026-06-11]]). Both articles develop the same selection-only / precision-weighting interface from different angles — `brain-specialness-boundary` argues the *locality* of conscious selection (own brain only, follows from the Zeno mechanism), `predictive-processing-and-dualism` argues consciousness *resolves precision assignments the learned priors underdetermine*. These are two faces of one mechanism but the two articles do not cross-reference each other. Add a reciprocal Further Reading / related_articles link in each, framed length-neutrally (one line each). ASSESS-FIRST with license-to-decline: if the link would be redundant given existing shared hubs ([[selection-only-mind-influence]], [[amplification-mechanisms-consciousness-physics]]) that both already cite, a no-op is acceptable. Do NOT touch the line-45 "ally" framing in predictive-processing-and-dualism — that is owned by the existing P2 co-optation task above. Bump ai_modified on whatever is edited. Tenet alignment: Tenet 2 (Minimal Quantum Interaction — selection-only, brain-local).
 - **Source**: optimistic-review
 
-### P2: Fix borderline Carhart-Harris/Friston co-optation in apex/altered-states-as-interface-evidence.md
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/apex/altered-states-as-interface-evidence.md
-- **Notes**: Surfaced by the 2026-06-11 co-optation-firewall corpus audit (Claude Fable 5 outer review follow-on). Borderline conscription, less hedged than the psychedelics topic: around line ~88 "Filter theory reinterprets the same mechanism" recruits Carhart-Harris/Friston's REBUS/entropic-brain work toward the filter conclusion WITHOUT rival-marking that these authors build the opposite (physicalist) model. Apply the extended co-optation firewall (`project/writing-style.md` "Don't Conscript Committed Physicalists" + [[evidential-status-discipline]]): add explicit cite-as-rival marking — the empirical findings are cited, but REBUS/entropic-brain is a physicalist research programme whose authors reject the filter reading; the Map reinterprets the data, it does not enlist the authors. Length-neutral; natural prose, no mode labels. Bump ai_modified. Review file: `reviews/outer-review-2026-06-11-claude-fable-5.md`.
-- **Source**: outer-review (co-optation audit follow-on)
-- **Generated**: 2026-06-11
-
 ### P3: Tighten mild REBUS-enlistment in topics/psychedelics-and-the-filter-model.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1016,6 +1008,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-11: Fix borderline Carhart-Harris/Friston co-optation in apex/altered-states-as-interface-evidence.md
+- **Type**: refine-draft
+- **Notes**: Surfaced by the 2026-06-11 co-optation-firewall corpus audit (Claude Fable 5 outer review follow-on). Borderline conscription, less hedged than the psychedelics topic: around line ~88 "Filter theory reinterprets the same mechanism" recruits Carhart-Harris/Friston's REBUS/entropic-brain work toward the filter conclusion WITHOUT rival-marking that these authors build the opposite (physicalist) model. Apply the extended co-optation firewall (`project/writing-style.md` "Don't Conscript Committed Physicalists" + [[evidential-status-discipline]]): add explicit cite-as-rival marking — the empirical findings are cited, but REBUS/entropic-brain is a physicalist research programme whose authors reject the filter reading; the Map reinterprets the data, it does not enlist the authors. Length-neutral; natural prose, no mode labels. Bump ai_modified. Review file: `reviews/outer-review-2026-06-11-claude-fable-5.md`.
 
 ### ✓ 2026-06-11: Fix PP co-optation in topics/predictive-processing-and-dualism.md ("most productive scientific ally")
 - **Type**: refine-draft

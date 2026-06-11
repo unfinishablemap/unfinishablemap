@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-11T09:16:49+00:00
+ai_modified: 2026-06-11T10:18:18+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-11T10:18:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/altered-states-as-interface-evidence]]
+- **Original score**: n/a (targeted co-optation-firewall follow-on from 2026-06-11 Claude Fable 5 corpus audit; borderline conscription flagged in the psychedelics subsection)
+- **Changes**: Applied the co-optation firewall (writing-style "Don't Conscript Committed Physicalists" + [[project/evidential-status-discipline]]) to the REBUS passage (~line 88). Previously the text read "Filter theory reinterprets the same mechanism" with no rival-marking — recruiting Carhart-Harris & Friston's REBUS / entropic-brain neuroimaging toward the filter conclusion while silently absorbing their framework. Rewrote to state explicitly that REBUS and the entropic-brain programme are physicalist projects built to explain psychedelic action without non-physical consciousness, read the loosened priors as releasing the brain's own generative model, and that the Map reinterprets the same data *against the grain* of that self-understanding — compatible with REBUS rather than confirmed by it, the data not discriminating, and the programme's authors rejecting the filter gloss. Empirical findings (REBUS, DMN changes, between-network connectivity) remain legitimately cited. Cite-as-rival, not cite-as-ally. Mirrors the canonical fix in [[topics/psychedelics-and-the-filter-model]] (REBUS-and-Filter-Theory section).
+- **Length**: 4493 words, soft_warning (under 5000 hard apex ceiling). Net +87 vs 4406 baseline; the rival-marking is required naming, offset by trimming ~50 words of redundant interface-mapping restatement in the same subsection (length-neutral as far as rival-marking allows — no accretion of new claims).
+- **Engagement classification**: engagement with Carhart-Harris & Friston (psychedelic-neuroscience / REBUS roster): Mode Three — framework-boundary marking; the physicalist self-understanding is stated and the reinterpretation marked as the Map's own against the grain, with the data noted as non-discriminating.
+- **Published**: yes
 
 ## 2026-06-11T09:30:00+00:00 - refine-draft
 - **Status**: Success
