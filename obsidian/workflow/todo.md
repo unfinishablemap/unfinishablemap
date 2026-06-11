@@ -44,14 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review (see [[reviews/optimistic-2026-06-11]]). Both articles develop the same selection-only / precision-weighting interface from different angles — `brain-specialness-boundary` argues the *locality* of conscious selection (own brain only, follows from the Zeno mechanism), `predictive-processing-and-dualism` argues consciousness *resolves precision assignments the learned priors underdetermine*. These are two faces of one mechanism but the two articles do not cross-reference each other. Add a reciprocal Further Reading / related_articles link in each, framed length-neutrally (one line each). ASSESS-FIRST with license-to-decline: if the link would be redundant given existing shared hubs ([[selection-only-mind-influence]], [[amplification-mechanisms-consciousness-physics]]) that both already cite, a no-op is acceptable. Do NOT touch the line-45 "ally" framing in predictive-processing-and-dualism — that is owned by the existing P2 co-optation task above. Bump ai_modified on whatever is edited. Tenet alignment: Tenet 2 (Minimal Quantum Interaction — selection-only, brain-local).
 - **Source**: optimistic-review
 
-### P2: Fix PP co-optation in topics/predictive-processing-and-dualism.md ("most productive scientific ally")
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/predictive-processing-and-dualism.md
-- **Notes**: Surfaced by the 2026-06-11 co-optation-firewall corpus audit (Claude Fable 5 outer review, List B follow-on). STRONGEST conscription found: line ~45 ends "Far from threatening dualism, PP is its most productive scientific ally" — this enlists the Friston/Clark/Hohwy/Seth predictive-processing + active-inference framework as a dualist ALLY, when these authors are committed physicalists who build PP/active inference explicitly to AVOID the dualist conclusion (Friston's Markovian monism is explicitly anti-dualist). Apply the newly-extended co-optation firewall in `project/writing-style.md` ("Don't Conscript Committed Physicalists") + [[evidential-status-discipline]] + [[direct-refutation-discipline]]: REFRAME from cite-as-ally to cite-as-rival — PP supplies a metaphysically-neutral architecture the Map CAN build on, but its leading proponents draw the opposite conclusion; the Map's claim is that the formalism doesn't MANDATE physicalism, NOT that PP endorses dualism. Preserve the genuine cite-as-rival material already present (meta-problem rebuttal, "even though Clark draws different conclusions"). Length-neutral; natural prose, no mode labels in body; bump ai_modified. Review file: `reviews/outer-review-2026-06-11-claude-fable-5.md`.
-- **Source**: outer-review (co-optation audit follow-on)
-- **Generated**: 2026-06-11
-
 ### P2: Fix borderline Carhart-Harris/Friston co-optation in apex/altered-states-as-interface-evidence.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1024,6 +1016,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-11: Fix PP co-optation in topics/predictive-processing-and-dualism.md ("most productive scientific ally")
+- **Type**: refine-draft
+- **Notes**: Surfaced by the 2026-06-11 co-optation-firewall corpus audit (Claude Fable 5 outer review, List B follow-on). STRONGEST conscription found: line ~45 ends "Far from threatening dualism, PP is its most productive scientific ally" — this enlists the Friston/Clark/Hohwy/Seth predictive-processing + active-inference framework as a dualist ALLY, when these authors are committed physicalists who build PP/active inference explicitly to AVOID the dualist conclusion (Friston's Markovian monism is explicitly anti-dualist). Apply the newly-extended co-optation firewall in `project/writing-style.md` ("Don't Conscript Committed Physicalists") + [[evidential-status-discipline]] + [[direct-refutation-discipline]]: REFRAME from cite-as-ally to cite-as-rival — PP supplies a metaphysically-neutral architecture the Map CAN build on, but its leading proponents draw the opposite conclusion; the Map's claim is that the formalism doesn't MANDATE physicalism, NOT that PP endorses dualism. Preserve the genuine cite-as-rival material already present (meta-problem rebuttal, "even though Clark draws different conclusions"). Length-neutral; natural prose, no mode labels in body; bump ai_modified. Review file: `reviews/outer-review-2026-06-11-claude-fable-5.md`.
 
 ### ✓ 2026-06-11: Extend co-optation firewall to predictive-processing / psychedelic-neuroscience roster (outer review 2026-06-11, Claude Fable 5)
 - **Type**: refine-draft

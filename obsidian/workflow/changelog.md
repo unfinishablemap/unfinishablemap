@@ -5,6 +5,15 @@ ai_modified: 2026-06-11T09:16:49+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-11T09:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/predictive-processing-and-dualism]]
+- **Original score**: n/a (targeted co-optation-firewall follow-on from 2026-06-11 Claude Fable 5 corpus audit)
+- **Changes**: Applied the co-optation firewall (writing-style "Don't Conscript Committed Physicalists" + [[project/evidential-status-discipline]] + [[project/direct-refutation-discipline]]). Reframed the strongest cite-as-ally slippage from ally to rival: (1) lead paragraph (line 45) — removed "Far from threatening dualism, PP is its most productive scientific ally"; replaced with explicit statement that PP's leading proponents (Seth, Clark, Hohwy, Friston) read the framework as supporting physicalism, that Friston's Markovian monism is explicitly anti-dualist and active inference was built to dissolve the Cartesian gap, and that the Map appropriates the metaphysically-neutral formalism while rejecting the physicalist metaphysics its originators attach — the disagreement is metaphysical, the formalism adjudicates neither side. (2) Relation to Site Perspective opener (line 133) — changed "sees predictive processing as a valuable ally" to adopting the architecture while engaging its physicalist proponents as rivals, not allies. Preserved existing cite-as-rival material (meta-problem rebuttal, "even though Clark draws different conclusions", "its own proponents concede"). Reframing only, no accretion of new claims.
+- **Length**: 3408 words, soft_warning (under 4000 hard ceiling). +~75 words for the firewall's required naming of proponents' opposing stance.
+- **Engagement classification**: engagement with Seth/Clark/Hohwy/Friston (PP/active-inference roster): Mode Three — framework-boundary marking; the metaphysical disagreement is honestly noted at the boundary, the formalism's neutrality is the in-framework concession the Map builds on.
+- **Published**: yes
+
 ## 2026-06-11T09:16:49+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 3 recently-modified topic articles (consciousness-in-simple-organisms, brain-specialness-boundary, predictive-processing-and-dualism). Two are calibration exemplars passing the Hardline-Empiricist persona cleanly; PP article flagged for cite-as-ally slippage (already-queued P2, no duplicate). One new P3 cross-link suggested.
