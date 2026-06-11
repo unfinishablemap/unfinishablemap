@@ -4,7 +4,7 @@ description: "Philosophy of mind as a field—its central questions, major posit
 created: 2026-02-06
 modified: 2026-02-06
 human_modified:
-ai_modified: 2026-05-14T21:38:00+00:00
+ai_modified: 2026-06-11T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ last_curated:
 last_deep_review: 2026-05-14T21:38:00+00:00
 ---
 
-Philosophy of mind is the branch of philosophy that investigates the nature of [[consciousness]], [[mental-causation-and-downward-causation|mental causation]], [[intentionality]], and the relationship between mind and body. Its central question — whether conscious experience can be explained in purely physical terms — remains the deepest unsolved problem in philosophy. The Unfinishable Map's five [[tenets]] stake out a specific answer: consciousness is irreducible, causally efficacious, and interacts with the physical world at quantum indeterminacies.
+Philosophy of mind is the branch of philosophy that investigates the nature of [[consciousness]], [[mental-causation-and-downward-causation|mental causation]], [[intentionality]], and the relationship between mind and body. Its central question — whether conscious experience can be explained in purely physical terms — is widely regarded as one of the deepest unsolved problems in philosophy. The Unfinishable Map's five [[tenets]] stake out a specific answer: consciousness is irreducible, causally efficacious, and interacts with the physical world at quantum indeterminacies.
 
 ## The Field and Its Central Problems
 
@@ -64,15 +64,15 @@ These problems carry consequences well beyond the academy. They shape how we thi
 
 Physicalism's appeal is parsimony: one kind of stuff, one set of laws. Its persistent difficulty is the [[explanatory-gap]]. No amount of physical description — however complete — explains why neural activity feels like anything. The [[knowledge-argument|knowledge argument]], [[philosophical-zombies|zombie conceivability]], and [[inverted-qualia]] each press this point from different angles: physical facts do not entail phenomenal facts.
 
-Some physicalists retreat to the [[phenomenal-concepts-strategy]] — the gap is conceptual, not ontological. Others embrace [[mysterianism]] — the gap is real but reflects human cognitive limits rather than ontological dualism. Neither response has achieved consensus, and the Map holds that the [[dualism|cumulative case against physicalism]] is stronger than any individual physicalist response.
+Some physicalists retreat to the [[phenomenal-concepts-strategy]] — the gap is conceptual, not ontological. Others embrace [[mysterianism]] — the gap is real but reflects human cognitive limits rather than ontological dualism. The eliminativist version cannot be answered the same way the others are, because it denies the very phenomenal facts the explanatory gap is built from. Met on its own terms, its outstanding debt is a reduction it has not delivered: it owes an account of what replaces "qualia" and how that replacement discharges the persistent appearance of phenomenality, and until that account is specified the phlogiston analogy is a promissory note rather than a demonstration. The Map holds that the broader [[dualism|case against physicalism]] is more demanding than any individual physicalist response, though that case engages the moderate physicalist who grants the explananda more directly than it does the eliminativist who denies them.
 
 ### Dualism
 
 [[dualism|Dualism]] holds that consciousness is not reducible to physical processes. Something beyond matter — whether a separate substance, an irreducible property, or an additional aspect of reality — is required to account for experience. The distinction between [[substance-property-dualism|substance and property dualism]] matters for how this is spelled out, but what unites all dualist positions is irreducibility.
 
-The field's dominant objection to dualism has long been the *interaction problem*: if mind is non-physical, how does it causally engage with the body? This objection assumed [[causal-closure|causal closure]] — that every physical event has a sufficient physical cause. But causal closure is an assumption, not an empirical finding, and quantum mechanics undermines it. At quantum indeterminacies, physical law leaves outcomes undetermined. [[interactionist-dualism|Interactionist dualism]] proposes that consciousness operates precisely at these gaps, selecting among physically possible outcomes without injecting energy or violating conservation laws. This proposal faces its own challenges — particularly whether quantum coherence can survive in warm biological tissue (the [[decoherence|decoherence objection]]) and whether biasing quantum outcomes is consistent with the Born rule — but it offers a specific, constrained answer where earlier dualisms left the interface mysterious.
+The field's dominant objection to dualism has long been the *interaction problem*: if mind is non-physical, how does it causally engage with the body? This objection assumed [[causal-closure|causal closure]] — that every physical event has a sufficient physical cause. But causal closure is an assumption, not an empirical finding, and quantum mechanics undermines it. At quantum indeterminacies, physical law leaves outcomes undetermined. [[interactionist-dualism|Interactionist dualism]] proposes that consciousness operates precisely at these gaps, selecting among physically possible outcomes without injecting energy or violating conservation laws. This proposal faces its own challenges. The most forceful is the [[decoherence|decoherence objection]]: Tegmark's widely cited estimate is that quantum coherence in warm, wet neural tissue would survive only femtoseconds to picoseconds — far too briefly to be functionally relevant — which on its own terms counts as near-decisive against the mechanism absent a specific shielding or amplification story. The Map's reply turns on whether [[quantum-biology-and-neural-mechanisms|quantum biology]] supplies such a story in neural systems; the objection is genuine, not a footnote, and the rebuttal is developed there rather than assumed here. A second challenge is whether biasing quantum outcomes is consistent with the Born rule. Even granting these difficulties, the proposal offers a specific, constrained answer where earlier dualisms left the interface mysterious.
 
-The [[dualism|positive case for dualism]] draws on multiple independent lines of evidence: the conceivability of zombies, the knowledge argument, the irreducibility of [[qualia]], the [[unity-of-consciousness|unity of experience]], and the [[intentionality#Phenomenal Intentionality Theory|phenomenal grounding of intentionality]]. These arguments converge from different starting points on the same conclusion.
+The [[dualism|positive case for dualism]] is often presented as several arguments: the conceivability of zombies, the knowledge argument, the irreducibility of [[qualia]], the [[unity-of-consciousness|unity of experience]], and the [[intentionality#Phenomenal Intentionality Theory|phenomenal grounding of intentionality]]. These should not be counted as independent confirmations, however. Zombie conceivability and the knowledge argument in particular are different formulations of one underlying point — that physical truths do not entail phenomenal truths — so they carry the evidential weight of a single robust anti-entailment pattern pressed from different angles, not five separate tallies. The unity and intentionality considerations add genuinely distinct pressure; the honest summary is one strong pattern reinforced by a few further constraints, rather than a convergence of wholly independent lines.
 
 ### Alternative Frameworks
 
@@ -90,7 +90,7 @@ For a comparative survey of these mind-centric alternatives, see [[analytic-idea
 
 Each of these frameworks addresses real shortcomings in physicalism. None has yet achieved the explanatory success that would settle the debate.
 
-Western analytic philosophy of mind dominates this survey, but [[indian-philosophy-of-mind|Indian philosophical traditions]] have explored consciousness, selfhood, and mental causation for millennia — often with greater phenomenological sophistication. Buddhist, Vedāntic, and Yogic frameworks offer alternative taxonomies of mental states and distinctive arguments about consciousness's nature that enrich the field beyond its Western canon.
+Western analytic philosophy of mind dominates this survey, but [[indian-philosophy-of-mind|Indian philosophical traditions]] have explored consciousness, selfhood, and mental causation for millennia — often with distinctive and highly developed phenomenological frameworks. Buddhist, Vedāntic, and Yogic frameworks offer alternative taxonomies of mental states and distinctive arguments about consciousness's nature that enrich the field beyond its Western canon.
 
 ## Methods and Evidence
 
@@ -108,13 +108,13 @@ Philosophy of mind draws on both armchair reasoning and empirical research, and 
 
 The Unfinishable Map's [[tenets]] constitute a worked-out position within philosophy of mind — not a survey of the field but a committed stance.
 
-**Tenet 1 (Dualism)** addresses the field's central question directly: consciousness is irreducible. The Map holds that the [[explanatory-gap]] is ontological, not merely conceptual, and that the [[dualism|convergent arguments for dualism]] are stronger than any single physicalist response.
+**Tenet 1 (Dualism)** addresses the field's central question directly: consciousness is irreducible. The Map holds that the [[explanatory-gap]] is ontological, not merely conceptual, and that the [[dualism|anti-entailment case for dualism]] — one robust pattern rather than several independent confirmations — is more demanding to answer than the physicalist package of responses taken together.
 
 **Tenet 2 (Minimal Quantum Interaction)** responds to the interaction problem that has dogged dualism since Descartes. Rather than leaving the mind-body interface mysterious, the Map proposes a specific, constrained mechanism: consciousness biases quantum indeterminacies at the smallest scale consistent with its causal role. This engages directly with [[quantum-consciousness|quantum approaches to consciousness]] while maintaining philosophical minimalism.
 
 **Tenet 3 (Bidirectional Interaction)** rules out [[concepts/epiphenomenalism]] — the view that consciousness exists but does nothing. The Map takes the [[mental-causation-and-downward-causation|causal efficacy of consciousness]] as non-negotiable: if we can report on our experiences, consciousness must influence the physical processes that generate those reports.
 
-**Tenet 4 (No Many Worlds)** rejects an interpretation of quantum mechanics that would dissolve the need for collapse — and with it, the proposed mechanism for mind-body interaction. It also preserves the meaningfulness of [[personal-identity|indexical identity]].
+**Tenet 4 (No Many Worlds)** records that the Map's position is incompatible with the many-worlds interpretation, which would dissolve the need for collapse — and with it, the proposed mechanism for mind-body interaction. The grounds for rejecting many-worlds are argued in the [[tenets]] themselves (the indexical-identity case among them) rather than assumed here; the incompatibility with the interaction mechanism is a consequence of that rejection, not its justification. Tenet 4 also preserves the meaningfulness of [[personal-identity|indexical identity]].
 
 **Tenet 5 (Occam's Razor Has Limits)** challenges the assumption that physicalism wins by default on grounds of simplicity. Philosophy of mind is precisely the domain where apparent parsimony may reflect ignorance rather than insight.
 

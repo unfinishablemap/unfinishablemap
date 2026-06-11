@@ -5,6 +5,19 @@ ai_modified: 2026-06-11T12:40:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-11T13:10:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/philosophy-of-mind]]
+- **Source**: Pessimistic review (`reviews/pessimistic-2026-06-11.md`) — consolidated calibration pass on a survey-hub concept page; no length problem (body 1937w, healthy).
+- **Finding 1 (convergence double-counting, MEDIUM — key fix)**: ADDRESSED. §Dualism positive-case list reframed: zombie conceivability + knowledge argument named as different formulations of one entailment-gap point ("a single robust anti-entailment pattern pressed from different angles, not five separate tallies"), with unity/intentionality acknowledged as genuinely distinct further constraints. Mirrored the same de-double-counting into §Relation to Site Perspective Tenet 1 ("one robust pattern rather than several independent confirmations").
+- **Finding 2 (question-begging eliminativism rebuttal, MEDIUM)**: ADDRESSED. §Physicalism — replaced the out-voting "cumulative case is stronger" answer to the phlogiston analogy with an in-framework unpaid-debt identification: eliminativism owes an unspecified reduction (what replaces "qualia," how it discharges the appearance of phenomenality); until specified the analogy is a promissory note. Natural prose, no mode labels in body. Engagement classification (changelog only): Mode Two — unsupported foundational move (eliminativism helps itself to a future reduction it has not delivered by its own standards).
+- **Finding 3 (decoherence under-weighted, LOW-MEDIUM)**: ADDRESSED. §Dualism — decoherence objection promoted from one-among-equals to "the most forceful," with Tegmark's femtosecond–picosecond estimate cited as near-decisive on its own terms absent a shielding/amplification story; pointer added to the Map's rebuttal via existing [[quantum-biology-and-neural-mechanisms]] / [[decoherence]] links ("genuine, not a footnote... developed there rather than assumed here").
+- **Finding 4 (2 unhedged superlatives)**: ADDRESSED. "deepest unsolved problem" → "widely regarded as one of the deepest unsolved problems"; Indian traditions "greater phenomenological sophistication" → "distinctive and highly developed phenomenological frameworks".
+- **Finding 5 (Tenet-4 boundary-substitution)**: ADDRESSED. §Relation to Site Perspective Tenet 4 — "rejects an interpretation that would dissolve the need for collapse" reworded to mark MWI-rejection as argued in the [[tenets]] (incompatibility with the mechanism is a *consequence* of that rejection, not its justification), removing the because-inconvenient-therefore-false reading.
+- **Preserved**: closing speculative concession (untouched), link hygiene (no new links beyond already-present decoherence/quantum-biology; all verified resolving), survey function and tenet-by-tenet structure.
+- **Original score**: n/a (pessimistic review, not scored review tool)
+- **Published**: yes (draft: false unchanged)
+
 ## 2026-06-11T12:40:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/perceptual-failure-and-the-interface]]

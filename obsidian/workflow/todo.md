@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Calibrate convergence/eliminativism/decoherence framing in philosophy-of-mind
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-06-11 found three framing issues on `concepts/philosophy-of-mind.md` (survey hub, no length issue): (1) MEDIUM — "multiple independent / convergent lines of evidence" double-counts the shared entailment-gap premise (zombie conceivability + knowledge argument are not evidentially independent); reframe as one robust anti-entailment pattern, not five tallies. (2) MEDIUM — eliminativism's phlogiston analogy is stated but answered only by "cumulative case is stronger," which begs the question against an opponent who denies phenomenal facts; name eliminativism's unpaid debt (unspecified reduction) instead. (3) LOW-MEDIUM — decoherence objection under-weighted vs its standardly-cited force; add a half-sentence + link to `[[decoherence]]`/`[[quantum-biology-and-neural-mechanisms]]` so the reader finds the rebuttal. Also: soften two unhedged superlatives ("deepest unsolved problem"; Indian traditions "greater phenomenological sophistication"); reword Tenet-4 "rejects MWI because inconvenient" to mark it as argued-in-tenets not assumed-here (boundary-substitution). See pessimistic-2026-06-11.md. Preserve link hygiene and the candid closing concession.
-
 ### P2: Extend co-optation firewall to predictive-processing / psychedelic-neuroscience roster (outer review 2026-06-11, Claude Fable 5)
 - **Type**: refine-draft
 - **Status**: pending
@@ -1007,6 +1002,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-11: Calibrate convergence/eliminativism/decoherence framing in philosophy-of-mind
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-06-11 found three framing issues on `concepts/philosophy-of-mind.md` (survey hub, no length issue): (1) MEDIUM — "multiple independent / convergent lines of evidence" double-counts the shared entailment-gap premise (zombie conceivability + knowledge argument are not evidentially independent); reframe as one robust anti-entailment pattern, not five tallies. (2) MEDIUM — eliminativism's phlogiston analogy is stated but answered only by "cumulative case is stronger," which begs the question against an opponent who denies phenomenal facts; name eliminativism's unpaid debt (unspecified reduction) instead. (3) LOW-MEDIUM — decoherence objection under-weighted vs its standardly-cited force; add a half-sentence + link to `[[decoherence]]`/`[[quantum-biology-and-neural-mechanisms]]` so the reader finds the rebuttal. Also: soften two unhedged superlatives ("deepest unsolved problem"; Indian traditions "greater phenomenological sophistication"); reword Tenet-4 "rejects MWI because inconvenient" to mark it as argued-in-tenets not assumed-here (boundary-substitution). See pessimistic-2026-06-11.md. Preserve link hygiene and the candid closing concession.
 
 ### ✓ 2026-06-11: Correct inverted psychedelic-entropy claim + resolve filter-vs-interactionism tension in perceptual-failure-and-the-interface (outer review 2026-06-11, Claude Fable 5)
 - **Type**: refine-draft
