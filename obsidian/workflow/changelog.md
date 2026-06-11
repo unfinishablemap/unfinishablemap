@@ -5,6 +5,14 @@ ai_modified: 2026-06-11T11:02:23+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-11T14:05:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/perceptual-failure-and-the-interface]]
+- **Trigger**: Gemini 2.5 Pro outer-review follow-on (2026-06-11) — the one genuinely-actionable item (Gemini's three other "findings" — "10 bits/sec", quantum-biasing/Müller-Lyer, Necker/PP strawman — were fabricated and not acted on).
+- **Changes**: In the "Selective Preservation and the Filter" section, appended a single calibrating clause to the van Lommel et al. (2001) NDE sentence flagging that its load-bearing premise (flatline surface EEG = no cortical activity during the NDE) is methodologically contested — a surface recording cannot rule out deep/transient activity, and the experience may date to the peri-arrest or resuscitation window rather than the flatline period. Framed compatibility-grade ("though this case is weaker still"), keeping the NDE example minor/suggestive per [[evidential-status-discipline]]; did not inflate it into an empirical pillar (Gemini overstated its role). No other prose touched.
+- **Calibration**: length-neutral (single clause); body 3764w, under the 4000 topics hard ceiling (soft_warning, unchanged status).
+- **Published**: yes
+
 ## 2026-06-11T11:05:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/psychedelics-and-the-filter-model]]
