@@ -1,5 +1,9 @@
-last_updated: '2026-06-11T18:47:13.686037+00:00'
-session_count: 10824
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-11T19:35:00+00:00'
+session_count: 10825
 cycle_position: 8972
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-06-11T13:02:14.251954+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-10T08:44:06.791776+00:00'
-  agentic-social: '2026-06-11T19:32:22.372519+00:00'
+  agentic-social: '2026-06-11T19:32:42.371484+00:00'
   embed-videos: '2026-06-10T23:01:18.679634+00:00'
   commission-chatgpt-review: '2026-06-11T02:03:57.966339+00:00'
   commission-claude-review: '2026-06-11T03:04:24.805630+00:00'
@@ -90,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-11'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-11'
@@ -168,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-11'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-06-11'
   outcome: success
 agentic_social:
@@ -942,103 +946,126 @@ queue_status:
     orphan_integration: 0
     positions: 0
     applied_apex: 0
-  last_replenishment: '2026-06-11T18:40:00+00:00'
+  last_replenishment: '2026-06-11T19:35:00+00:00'
   last_replenishment_mode: conservative
-  last_replenishment_note: "2026-06-11T18:40 re-run \u2014 generated 0 new tasks (17th\
-    \ 0-task run today; documented steady-state, not a defect). Independently re-verified\
-    \ all eight generative sources on disk. Section counts (find, excl index): topics\
-    \ 268/270, concepts 263/270 (both near cap), voids 101/100 OVER, positions 3 domain\
-    \ files (agency-and-will, voids-as-evidence, quantum-interface). Loop-pickable\
-    \ OPEN Active = 0 \u2014 awk-scoped the Active Tasks block: the only genuinely-open\
-    \ headers are 2 standing HUMAN LENGTH DECISION entries (duhem-quine), 2 #veto'd\
-    \ condense tasks (meaning-of-life 4160w; phenomenal-output-causal-machinery-dissociation\
-    \ 6989w), and 1 struck-through (~~~~) deep-review; none loop-pickable by design.\
-    \ Sources: (1) chains 0 \u2014 most-recent research-topic 2026-06-03 (berridge)\
-    \ CONSUMED (its note's related_articles \u2192 topics/wanting-liking-and-the-value-in-mechanism-fork.md\
-    \ confirmed on disk); last expand-topic 2026-06-09 (outside 14d forward window).\
-    \ (2) unconsumed research 0 actionable \u2014 only voids-* notes unconsumed-by-slug,\
-    \ voids OVER cap \u2192 blocked. (3) gap analysis 0 \u2014 caps near/over, no\
-    \ high-confidence non-voids expand candidate. (4) staleness 0 \u2014 handled by\
-    \ cycle deep-review slots. (5) orphans 0 (orphaned_files: 0). (6) length 0 mintable\
-    \ \u2014 every hard+ content-section offender is #veto'd, a standing HUMAN LENGTH\
-    \ DECISION, an index/calibration/cross-link-accreting hub per [[hub-articles-accrete-crosslink-length]]\
-    \ + [[condense-regresses-calibration-qualifiers]], or a research/ note (no ceiling).\
-    \ (7) positions \u2014 full audit ran 2026-06-09, within 30d window \u2192 nothing\
-    \ due. (8) applied-apex gap \u2014 register too sparse for a high-confidence cluster.\
-    \ Queue genuinely at floor with no safe machine-mintable work; remaining backlog\
-    \ is human-gated. Manufacturing filler would be wrong."
-  superseded_replenishment_note_2: "2026-06-11T17:40 re-run \u2014 generated 0 new\
-    \ tasks (16th 0-task run today; documented steady-state, not a defect). Independently\
-    \ re-verified all eight generative sources on disk rather than trusting the prior\
-    \ note. Section counts (find, excl index): topics 268/270, concepts 263/270 (both\
-    \ near cap), voids 101/100 OVER, positions 3 domain files. Loop-pickable OPEN\
-    \ Active = 0 \u2014 confirmed by awk-scoping the Active Tasks block: the only\
-    \ non-\u2713 headers are 2 standing HUMAN LENGTH DECISION entries (duhem-quine)\
-    \ + 2 #veto'd condense tasks (meaning-of-life 4160w; phenomenal-output-causal-machinery-dissociation\
-    \ 6989w); everything else is struck-through/\u2705/superseded/RELOCATED. Sources:\
-    \ (1) chains 0 \u2014 last research-topic 2026-06-03 (berridge) CONSUMED (related_articles\
-    \ \u2192 [[wanting-liking-and-the-value-in-mechanism-fork]] exists at topics/);\
-    \ last expand-topic 2026-06-09 (outside 14d forward window). (2) unconsumed research\
-    \ 0 actionable \u2014 only voids-* notes unconsumed-by-slug, voids OVER cap \u2192\
-    \ blocked. (3) gap analysis 0 \u2014 caps near/over, no high-confidence non-voids\
-    \ expand candidate. (4) staleness 0 \u2014 handled by cycle deep-review slots.\
-    \ (5) orphans 0 (orphaned_files: 0). (6) length \u2014 get_length_warnings re-run\
-    \ on disk; every content-section hard+ offender is #veto'd, a standing HUMAN LENGTH\
-    \ DECISION / DIVERTED-TO-HUMAN, an index hub (apex-articles 6963w), or a calibration-anchor\
-    \ / cross-link-accreting hub per [[hub-articles-accrete-crosslink-length]] + [[condense-regresses-calibration-qualifiers]];\
-    \ remaining hits are research/ notes (no length ceiling). None auto-mintable.\
-    \ (7) positions \u2014 full audit ran 2026-06-09, within 30d window \u2192 nothing\
-    \ due. (8) applied-apex gap \u2014 register too sparse for a high-confidence cluster.\
-    \ Queue genuinely at floor with no safe machine-mintable work; remaining backlog\
-    \ is human-gated. Manufacturing filler would be wrong."
-  superseded_replenishment_note: "2026-06-11T16:35 re-run \u2014 generated 0 new tasks\
-    \ (15th 0-task run today; documented steady-state, not a defect). Independently\
-    \ re-verified all eight generative sources on disk. Section counts (find, excl\
-    \ index): topics 268/270, concepts 263/270 (both near cap), voids 101/100 OVER,\
-    \ positions 3 domain files. Loop-pickable OPEN Active = 0 \u2014 the only non-\u2713\
-    \ Active headers are 2 standing HUMAN LENGTH DECISION entries (duhem-quine) +\
-    \ 2 #veto'd condense tasks (meaning-of-life 4160w; phenomenal-output-causal-machinery-dissociation\
-    \ 6989w); rest are struck-through/superseded. Sources: (1) chains 0 \u2014 last\
-    \ research-topic 2026-06-03 (berridge) CONSUMED (its related_articles \u2192 [[wanting-liking-and-the-value-in-mechanism-fork]]\
-    \ exists on disk); last expand-topic 2026-06-09. (2) unconsumed research 0 actionable\
-    \ \u2014 only voids-* notes unconsumed-by-slug, voids OVER cap \u2192 blocked.\
-    \ (3) gap analysis 0 \u2014 caps near/over, no high-confidence non-voids expand\
-    \ candidate. (4) staleness 0 \u2014 handled by cycle deep-review slots. (5) orphans\
-    \ 0 (orphaned_files: 0). (6) length \u2014 get_length_warnings re-run on disk;\
-    \ every content-section hard+ offender is #veto'd, a standing HUMAN LENGTH DECISION\
-    \ / DIVERTED-TO-HUMAN, an index hub (apex-articles 6963w), or a calibration-anchor\
-    \ / cross-link-accreting hub per [[hub-articles-accrete-crosslink-length]] + [[condense-regresses-calibration-qualifiers]];\
-    \ remaining hits are research/ notes (no length ceiling). None auto-mintable.\
-    \ (7) positions \u2014 full audit ran 2026-06-09, within 30d window \u2192 nothing\
-    \ due (NOTE: state-history says \"4 domains\" but disk now shows 3 domain files\
-    \ \u2014 agency-and-will, quantum-interface, voids-as-evidence; does not change\
-    \ cadence outcome). (8) applied-apex gap \u2014 register too sparse for a high-confidence\
-    \ cluster. Queue genuinely at floor with no safe machine-mintable work; remaining\
-    \ backlog is human-gated. Manufacturing filler would be wrong."
-  prior_last_replenishment_note: "2026-06-11T15:40 re-run \u2014 generated 0 new tasks\
-    \ (14th 0-task run today; documented steady-state, not a defect). Independently\
-    \ re-verified all eight generative sources on disk rather than trusting the prior\
-    \ note. Section counts (find, excl index): topics 268/270, concepts 263/270 (both\
-    \ near cap), voids 101/100 OVER, positions 3. Loop-pickable OPEN Active = 0 (the\
-    \ only non-\u2713 headers are 2 standing HUMAN LENGTH DECISION entries on the\
-    \ duhem-quine article + 2 #veto'd condense tasks \u2014 none loop-pickable by\
-    \ design). Sources: (1) chains 0 \u2014 last research-topic 2026-06-03 (berridge\
-    \ wanting/liking note); its related_articles points to [[wanting-liking-and-the-value-in-mechanism-fork]]\
-    \ which EXISTS on disk \u2192 chain consumed. last expand-topic 2026-06-09 (outside\
-    \ the 14d forward window). (2) unconsumed research 0 \u2014 most-recent note (berridge\
-    \ 2026-06-03) consumed; others disk-confirmed consumed or voids-* blocked by the\
-    \ OVER-cap voids section. (3) gap analysis 0 \u2014 caps near/over, no high-confidence\
-    \ non-voids expand candidate. (4) staleness 0 \u2014 handled by cycle deep-review\
-    \ slots. (5) orphans 0. (6) length \u2014 get_length_warnings re-run on disk:\
-    \ every hard+ content-section offender is #veto'd (meaning-of-life, phenomenal-output-causal-machinery-dissociation),\
-    \ an index hub (apex-articles 6963w), a standing HUMAN-DIVERTED entry (clinical-dissociation),\
-    \ or a calibration-anchor / cross-link-accreting / recently-condensed hub per\
-    \ [[hub-articles-accrete-crosslink-length]] + [[condense-regresses-calibration-qualifiers]];\
-    \ the remaining hits are research/ notes (no length ceiling). None auto-mintable.\
-    \ (7) positions \u2014 full audit ran 2026-06-09 (18 entries / 4 domains, no contradictions,\
-    \ deps resolve), nothing due. (8) applied-apex gap \u2014 register too sparse\
-    \ for a high-confidence cluster. Queue genuinely at floor with no safe machine-mintable\
-    \ work; remaining backlog is human-gated. Manufacturing filler would be wrong."
+  last_replenishment_note: '2026-06-11T19:35 re-run — generated 0 new tasks (18th
+    0-task run today; documented steady-state, not a defect). Independently re-verified
+    all eight generative sources on disk. Section counts (find, excl index): topics
+    268/270, concepts 263/270 (both near cap), voids 101/100 OVER, positions 3 domain
+    files (agency-and-will, quantum-interface, voids-as-evidence). Loop-pickable OPEN
+    Active = 0 — awk-scoped the Active Tasks block: the only genuinely-open non-✓ headers
+    are 2 standing HUMAN LENGTH DECISION entries (duhem-quine) + 2 #veto''d condense
+    tasks (meaning-of-life 4160w; phenomenal-output-causal-machinery-dissociation
+    6989w); none loop-pickable by design. Sources: (1) chains 0 — most-recent research-topic
+    2026-06-03 (berridge wanting/liking) CONSUMED (related_articles → topics/wanting-liking-and-the-value-in-mechanism-fork.md
+    confirmed on disk); last expand-topic 2026-06-09 (outside 14d forward window).
+    (2) unconsumed research 0 actionable — only voids-* notes unconsumed-by-slug, voids
+    OVER cap → blocked. (3) gap analysis 0 — caps near/over, no high-confidence non-voids
+    expand candidate. (4) staleness 0 — handled by cycle deep-review slots. (5) orphans
+    0 (orphaned_files: 0). (6) length 0 mintable — get_length_warnings re-run on disk;
+    every hard+ content-section offender is #veto''d, a standing HUMAN LENGTH DECISION
+    / DIVERTED-TO-HUMAN (epistemology-of-convergence 6479w, clinical-dissociation 4863w,
+    born-rule 5106w), an index hub (apex-articles 6963w), or a calibration-anchor /
+    cross-link-accreting hub per [[hub-articles-accrete-crosslink-length]] + [[condense-regresses-calibration-qualifiers]];
+    remaining hits are research/ notes (no length ceiling). (7) positions — full audit
+    ran 2026-06-09, within 30d window → nothing due. (8) applied-apex gap — register
+    too sparse for a high-confidence cluster. Queue genuinely at floor with no safe
+    machine-mintable work; remaining backlog is human-gated. Manufacturing filler would
+    be wrong.'
+  superseded_replenishment_note_17: '2026-06-11T18:40 re-run — generated 0 new tasks (17th
+    0-task run today; documented steady-state, not a defect). Independently re-verified
+    all eight generative sources on disk. Section counts (find, excl index): topics
+    268/270, concepts 263/270 (both near cap), voids 101/100 OVER, positions 3 domain
+    files (agency-and-will, voids-as-evidence, quantum-interface). Loop-pickable OPEN
+    Active = 0 — awk-scoped the Active Tasks block: the only genuinely-open headers
+    are 2 standing HUMAN LENGTH DECISION entries (duhem-quine), 2 #veto''d condense
+    tasks (meaning-of-life 4160w; phenomenal-output-causal-machinery-dissociation
+    6989w), and 1 struck-through (~~~~) deep-review; none loop-pickable by design.
+    Sources: (1) chains 0 — most-recent research-topic 2026-06-03 (berridge) CONSUMED
+    (its note''s related_articles → topics/wanting-liking-and-the-value-in-mechanism-fork.md
+    confirmed on disk); last expand-topic 2026-06-09 (outside 14d forward window).
+    (2) unconsumed research 0 actionable — only voids-* notes unconsumed-by-slug,
+    voids OVER cap → blocked. (3) gap analysis 0 — caps near/over, no high-confidence
+    non-voids expand candidate. (4) staleness 0 — handled by cycle deep-review slots.
+    (5) orphans 0 (orphaned_files: 0). (6) length 0 mintable — every hard+ content-section
+    offender is #veto''d, a standing HUMAN LENGTH DECISION, an index/calibration/cross-link-accreting
+    hub per [[hub-articles-accrete-crosslink-length]] + [[condense-regresses-calibration-qualifiers]],
+    or a research/ note (no ceiling). (7) positions — full audit ran 2026-06-09, within
+    30d window → nothing due. (8) applied-apex gap — register too sparse for a high-confidence
+    cluster. Queue genuinely at floor with no safe machine-mintable work; remaining
+    backlog is human-gated. Manufacturing filler would be wrong.'
+  superseded_replenishment_note_2: '2026-06-11T17:40 re-run — generated 0 new tasks
+    (16th 0-task run today; documented steady-state, not a defect). Independently
+    re-verified all eight generative sources on disk rather than trusting the prior
+    note. Section counts (find, excl index): topics 268/270, concepts 263/270 (both
+    near cap), voids 101/100 OVER, positions 3 domain files. Loop-pickable OPEN Active
+    = 0 — confirmed by awk-scoping the Active Tasks block: the only non-✓ headers
+    are 2 standing HUMAN LENGTH DECISION entries (duhem-quine) + 2 #veto''d condense
+    tasks (meaning-of-life 4160w; phenomenal-output-causal-machinery-dissociation
+    6989w); everything else is struck-through/✅/superseded/RELOCATED. Sources: (1)
+    chains 0 — last research-topic 2026-06-03 (berridge) CONSUMED (related_articles
+    → [[wanting-liking-and-the-value-in-mechanism-fork]] exists at topics/); last
+    expand-topic 2026-06-09 (outside 14d forward window). (2) unconsumed research
+    0 actionable — only voids-* notes unconsumed-by-slug, voids OVER cap → blocked.
+    (3) gap analysis 0 — caps near/over, no high-confidence non-voids expand candidate.
+    (4) staleness 0 — handled by cycle deep-review slots. (5) orphans 0 (orphaned_files:
+    0). (6) length — get_length_warnings re-run on disk; every content-section hard+
+    offender is #veto''d, a standing HUMAN LENGTH DECISION / DIVERTED-TO-HUMAN, an
+    index hub (apex-articles 6963w), or a calibration-anchor / cross-link-accreting
+    hub per [[hub-articles-accrete-crosslink-length]] + [[condense-regresses-calibration-qualifiers]];
+    remaining hits are research/ notes (no length ceiling). None auto-mintable. (7)
+    positions — full audit ran 2026-06-09, within 30d window → nothing due. (8) applied-apex
+    gap — register too sparse for a high-confidence cluster. Queue genuinely at floor
+    with no safe machine-mintable work; remaining backlog is human-gated. Manufacturing
+    filler would be wrong.'
+  superseded_replenishment_note: '2026-06-11T16:35 re-run — generated 0 new tasks
+    (15th 0-task run today; documented steady-state, not a defect). Independently
+    re-verified all eight generative sources on disk. Section counts (find, excl index):
+    topics 268/270, concepts 263/270 (both near cap), voids 101/100 OVER, positions
+    3 domain files. Loop-pickable OPEN Active = 0 — the only non-✓ Active headers
+    are 2 standing HUMAN LENGTH DECISION entries (duhem-quine) + 2 #veto''d condense
+    tasks (meaning-of-life 4160w; phenomenal-output-causal-machinery-dissociation
+    6989w); rest are struck-through/superseded. Sources: (1) chains 0 — last research-topic
+    2026-06-03 (berridge) CONSUMED (its related_articles → [[wanting-liking-and-the-value-in-mechanism-fork]]
+    exists on disk); last expand-topic 2026-06-09. (2) unconsumed research 0 actionable
+    — only voids-* notes unconsumed-by-slug, voids OVER cap → blocked. (3) gap analysis
+    0 — caps near/over, no high-confidence non-voids expand candidate. (4) staleness
+    0 — handled by cycle deep-review slots. (5) orphans 0 (orphaned_files: 0). (6)
+    length — get_length_warnings re-run on disk; every content-section hard+ offender
+    is #veto''d, a standing HUMAN LENGTH DECISION / DIVERTED-TO-HUMAN, an index hub
+    (apex-articles 6963w), or a calibration-anchor / cross-link-accreting hub per
+    [[hub-articles-accrete-crosslink-length]] + [[condense-regresses-calibration-qualifiers]];
+    remaining hits are research/ notes (no length ceiling). None auto-mintable. (7)
+    positions — full audit ran 2026-06-09, within 30d window → nothing due (NOTE:
+    state-history says "4 domains" but disk now shows 3 domain files — agency-and-will,
+    quantum-interface, voids-as-evidence; does not change cadence outcome). (8) applied-apex
+    gap — register too sparse for a high-confidence cluster. Queue genuinely at floor
+    with no safe machine-mintable work; remaining backlog is human-gated. Manufacturing
+    filler would be wrong.'
+  prior_last_replenishment_note: '2026-06-11T15:40 re-run — generated 0 new tasks
+    (14th 0-task run today; documented steady-state, not a defect). Independently
+    re-verified all eight generative sources on disk rather than trusting the prior
+    note. Section counts (find, excl index): topics 268/270, concepts 263/270 (both
+    near cap), voids 101/100 OVER, positions 3. Loop-pickable OPEN Active = 0 (the
+    only non-✓ headers are 2 standing HUMAN LENGTH DECISION entries on the duhem-quine
+    article + 2 #veto''d condense tasks — none loop-pickable by design). Sources:
+    (1) chains 0 — last research-topic 2026-06-03 (berridge wanting/liking note);
+    its related_articles points to [[wanting-liking-and-the-value-in-mechanism-fork]]
+    which EXISTS on disk → chain consumed. last expand-topic 2026-06-09 (outside the
+    14d forward window). (2) unconsumed research 0 — most-recent note (berridge 2026-06-03)
+    consumed; others disk-confirmed consumed or voids-* blocked by the OVER-cap voids
+    section. (3) gap analysis 0 — caps near/over, no high-confidence non-voids expand
+    candidate. (4) staleness 0 — handled by cycle deep-review slots. (5) orphans 0.
+    (6) length — get_length_warnings re-run on disk: every hard+ content-section offender
+    is #veto''d (meaning-of-life, phenomenal-output-causal-machinery-dissociation),
+    an index hub (apex-articles 6963w), a standing HUMAN-DIVERTED entry (clinical-dissociation),
+    or a calibration-anchor / cross-link-accreting / recently-condensed hub per [[hub-articles-accrete-crosslink-length]]
+    + [[condense-regresses-calibration-qualifiers]]; the remaining hits are research/
+    notes (no length ceiling). None auto-mintable. (7) positions — full audit ran
+    2026-06-09 (18 entries / 4 domains, no contradictions, deps resolve), nothing
+    due. (8) applied-apex gap — register too sparse for a high-confidence cluster.
+    Queue genuinely at floor with no safe machine-mintable work; remaining backlog
+    is human-gated. Manufacturing filler would be wrong.'
   replenishment_source_counts:
     chain: 0
     unconsumed_research: 0
