@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-11T08:02:23.537503+00:00'
-session_count: 10789
+last_updated: '2026-06-11T08:17:25.207078+00:00'
+session_count: 10790
 cycle_position: 8962
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-06-10T16:03:29.051888+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-10T08:44:06.791776+00:00'
-  agentic-social: '2026-06-11T07:32:35.090944+00:00'
+  agentic-social: '2026-06-11T08:32:46.958034+00:00'
   embed-videos: '2026-06-10T23:01:18.679634+00:00'
   commission-chatgpt-review: '2026-06-11T02:03:57.966339+00:00'
   commission-claude-review: '2026-06-11T03:04:24.805630+00:00'
   commission-gemini-review: '2026-06-11T04:05:55.683761+00:00'
   refine-draft: '2026-06-11T07:18:58.249647+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-11T07:48:05.428172+00:00'
+  replenish-queue: '2026-06-11T08:17:25.207078+00:00'
   condense: '2026-06-09T13:03:52.907973+00:00'
   expand-topic: '2026-06-09T11:04:20.317410+00:00'
   add-highlight: '2026-06-11T08:02:23.537503+00:00'
@@ -94,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-11'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-11'
@@ -172,6 +164,10 @@ recent_tasks:
   outcome: success
 - task: add-highlight
   type: add-highlight
+  date: '2026-06-11'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-11'
   outcome: success
 agentic_social:
@@ -848,6 +844,12 @@ agentic_social:
     - free-will
     - hard-problem-of-consciousness
     - eastern-philosophy-consciousness
+  - url: https://unfinishablemap.org/concepts/pragmatism/
+    date: '2026-06-11T08:32:46.957994+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - pragmatisms-path-to-dualism
+    - william-james-consciousness
 tune_system_history:
   last_run: '2026-06-10T09:05:00+00:00'
   changes_applied: []
@@ -870,44 +872,46 @@ queue_status:
     applied_apex: 0
   last_replenishment: '2026-06-11T08:10:00+00:00'
   last_replenishment_mode: conservative
-  last_replenishment_note: '2026-06-11T08:10 re-run — generated 0 new tasks (re-verified
-    the 07:35 picture; nothing changed on disk in the 35-min gap — same 3 Active tasks,
-    same dry sources). Loop-pickable
-    open P0-P2 = 2, P3 = 1. The picture changed from tonight''s earlier 0-task runs:
-    the 2026-06-11 outer-review cycle has now been SYNTHESIZED (combine-outer-reviews
-    ran 05:05; reviews/outer-review-synthesis-2026-06-11.md EXISTS), so its tasks
-    are no longer deferred-until-synthesis and ARE loop-pickable. Current pickable
-    Active (above ## Completed, not ✓/veto): (a) P2 L40 — extend co-optation firewall
-    to the predictive-processing/psychedelic-neuroscience roster (Seth/Clark/Hohwy/Friston/Carhart-Harris)
-    in project/writing-style.md, from the Claude Fable 5 outer review; (b) P2 L58
-    — adopt mental-effort calibration in topics/authentic-vs-inauthentic-choice.md,
-    from the 2026-06-10 topic-concept anchoring audit; (c) P3 L49 — flag NDE-evidence
-    (van Lommel 2001) contestation in topics/perceptual-failure-and-the-interface.md,
-    the one genuinely-actionable Gemini item (its 3 other "findings" are FABRICATED
-    per the review''s Verification Notes — do NOT act on them; length-neutral one-clause
-    edit, fold into the P1 calibration pass if it runs first). 2 < MIN_QUEUE floor
-    of 3 → replenish fired, but the floor-restoring work already EXISTS; manufacturing
-    filler would be wrong. ALL EIGHT generative sources RE-VERIFIED ON DISK this run:
-    (1) chains 0 — recent_tasks holds no executable expand-topic/research-topic completion
-    to forward-chain (last research-topic 2026-06-03; last expand-topic 2026-06-09,
-    outside the window). (2) unconsumed research 0 — newest notes all Feb/Mar-dated
-    and disk-confirmed consumed. (3) caps on disk (find, excl index): topics 268/270,
-    concepts 263/270 (both near cap), voids 101/100 OVER, positions 3 files; no high-confidence
-    expand candidate. (4) staleness 0 — handled by cycle deep-review slots. (5) orphans
-    0 (quality.orphaned_files absent/0). (6) length — get_length_warnings re-run on
-    disk: every content-section hard+ offender is #veto''d (meaning-of-life, phenomenal-output),
-    DIVERTED-TO-HUMAN / standing HUMAN LENGTH DECISION (epistemology-of-convergence
-    6479w, born-rule 5106w, clinical-dissociation 4863w, laws-and-dispositions 4213w,
-    valence 4092w, composition 4045w, edge-states 3482w), an index hub (apex-articles
-    6963w), or a cross-link-accreting / recently-condensed hub (argument-from-reason
-    4489w, epistemic-advantages 4400w, time-collapse 4606w, filter-theory 3500w, simple-organisms
-    4025w, phenomenal-authority 4022w; voids agency-void 3174w / what-voids-reveal
-    3019w / wholeheartedness-void 3006w all over from inbound-cross-link accretion
-    per [[hub-articles-accrete-crosslink-length]], not own-content growth). None auto-mintable;
-    auto-condensing risks [[condense-regresses-calibration-qualifiers]]. (7) positions
-    — full audit ran 2026-06-09 (18 entries / 4 domains, no contradictions, deps resolve),
-    register last touched 2026-06-10, no dependency moved → nothing due. (8) applied-apex
-    gap — register too sparse for a high-confidence cluster. The 2 pickable P2s ARE
-    the floor-restoring work; they should be picked and executed by the loop. Documented
-    steady-state with real pending work, not a defect.'
+  last_replenishment_note: "2026-06-11T08:10 re-run \u2014 generated 0 new tasks (re-verified\
+    \ the 07:35 picture; nothing changed on disk in the 35-min gap \u2014 same 3 Active\
+    \ tasks, same dry sources). Loop-pickable open P0-P2 = 2, P3 = 1. The picture\
+    \ changed from tonight's earlier 0-task runs: the 2026-06-11 outer-review cycle\
+    \ has now been SYNTHESIZED (combine-outer-reviews ran 05:05; reviews/outer-review-synthesis-2026-06-11.md\
+    \ EXISTS), so its tasks are no longer deferred-until-synthesis and ARE loop-pickable.\
+    \ Current pickable Active (above ## Completed, not \u2713/veto): (a) P2 L40 \u2014\
+    \ extend co-optation firewall to the predictive-processing/psychedelic-neuroscience\
+    \ roster (Seth/Clark/Hohwy/Friston/Carhart-Harris) in project/writing-style.md,\
+    \ from the Claude Fable 5 outer review; (b) P2 L58 \u2014 adopt mental-effort\
+    \ calibration in topics/authentic-vs-inauthentic-choice.md, from the 2026-06-10\
+    \ topic-concept anchoring audit; (c) P3 L49 \u2014 flag NDE-evidence (van Lommel\
+    \ 2001) contestation in topics/perceptual-failure-and-the-interface.md, the one\
+    \ genuinely-actionable Gemini item (its 3 other \"findings\" are FABRICATED per\
+    \ the review's Verification Notes \u2014 do NOT act on them; length-neutral one-clause\
+    \ edit, fold into the P1 calibration pass if it runs first). 2 < MIN_QUEUE floor\
+    \ of 3 \u2192 replenish fired, but the floor-restoring work already EXISTS; manufacturing\
+    \ filler would be wrong. ALL EIGHT generative sources RE-VERIFIED ON DISK this\
+    \ run: (1) chains 0 \u2014 recent_tasks holds no executable expand-topic/research-topic\
+    \ completion to forward-chain (last research-topic 2026-06-03; last expand-topic\
+    \ 2026-06-09, outside the window). (2) unconsumed research 0 \u2014 newest notes\
+    \ all Feb/Mar-dated and disk-confirmed consumed. (3) caps on disk (find, excl\
+    \ index): topics 268/270, concepts 263/270 (both near cap), voids 101/100 OVER,\
+    \ positions 3 files; no high-confidence expand candidate. (4) staleness 0 \u2014\
+    \ handled by cycle deep-review slots. (5) orphans 0 (quality.orphaned_files absent/0).\
+    \ (6) length \u2014 get_length_warnings re-run on disk: every content-section\
+    \ hard+ offender is #veto'd (meaning-of-life, phenomenal-output), DIVERTED-TO-HUMAN\
+    \ / standing HUMAN LENGTH DECISION (epistemology-of-convergence 6479w, born-rule\
+    \ 5106w, clinical-dissociation 4863w, laws-and-dispositions 4213w, valence 4092w,\
+    \ composition 4045w, edge-states 3482w), an index hub (apex-articles 6963w), or\
+    \ a cross-link-accreting / recently-condensed hub (argument-from-reason 4489w,\
+    \ epistemic-advantages 4400w, time-collapse 4606w, filter-theory 3500w, simple-organisms\
+    \ 4025w, phenomenal-authority 4022w; voids agency-void 3174w / what-voids-reveal\
+    \ 3019w / wholeheartedness-void 3006w all over from inbound-cross-link accretion\
+    \ per [[hub-articles-accrete-crosslink-length]], not own-content growth). None\
+    \ auto-mintable; auto-condensing risks [[condense-regresses-calibration-qualifiers]].\
+    \ (7) positions \u2014 full audit ran 2026-06-09 (18 entries / 4 domains, no contradictions,\
+    \ deps resolve), register last touched 2026-06-10, no dependency moved \u2192\
+    \ nothing due. (8) applied-apex gap \u2014 register too sparse for a high-confidence\
+    \ cluster. The 2 pickable P2s ARE the floor-restoring work; they should be picked\
+    \ and executed by the loop. Documented steady-state with real pending work, not\
+    \ a defect."
   replenishment_source_counts: {}
