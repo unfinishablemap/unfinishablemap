@@ -4,7 +4,7 @@ description: "Philosophy of mind as a field—its central questions, major posit
 created: 2026-02-06
 modified: 2026-02-06
 human_modified:
-ai_modified: 2026-06-11T00:00:00+00:00
+ai_modified: 2026-06-11T11:02:23+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-06
 last_curated:
-last_deep_review: 2026-05-14T21:38:00+00:00
+last_deep_review: 2026-06-11T11:02:23+00:00
 ---
 
 Philosophy of mind is the branch of philosophy that investigates the nature of [[consciousness]], [[mental-causation-and-downward-causation|mental causation]], [[intentionality]], and the relationship between mind and body. Its central question — whether conscious experience can be explained in purely physical terms — is widely regarded as one of the deepest unsolved problems in philosophy. The Unfinishable Map's five [[tenets]] stake out a specific answer: consciousness is irreducible, causally efficacious, and interacts with the physical world at quantum indeterminacies.
