@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-30
-ai_modified: 2026-06-05 00:00:00+00:00
+ai_modified: 2026-06-11 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -102,7 +102,7 @@ Bad faith is self-deception about one's freedom. The waiter who performs "being 
 
 Bad faith has a paradoxical structure: the same person must be both deceiver and deceived. This differs from ordinary lying, where deceiver and deceived are distinct. In bad faith, I convince myself of something I simultaneously know to be false—that I have no choice, that my role determines me, that "I can't help it."
 
-This structure presupposes what Sartre calls the pour-soi (being-for-itself): consciousness's constitutive self-distance. Only a being that is never identical with its contents can deceive itself about what those contents mean. The very possibility of bad faith demonstrates consciousness's irreducibility—a point developed in the [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/) article. [Self-maintained cognitive limits](/voids/self-maintained-cognitive-limits/) trace this structure across five independent traditions that converge on the same claim: consciousness actively participates in maintaining its own limits.
+This structure presupposes what Sartre calls the pour-soi (being-for-itself): consciousness's constitutive self-distance. Only a being that is never identical with its contents can deceive itself about what those contents mean. The very possibility of bad faith points to consciousness's irreducibility—a point developed in the [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/) article. [Self-maintained cognitive limits](/voids/self-maintained-cognitive-limits/) trace this structure across five independent traditions that converge on the same claim: consciousness actively participates in maintaining its own limits.
 
 ### Forms of Bad Faith
 
@@ -130,7 +130,7 @@ The Map's framework gives the authenticity distinction metaphysical weight beyon
 
 ### Authentic Choice Engages the Selection Function
 
-On the Map's account, consciousness genuinely selects among quantum-indeterminate neural options—the third horn of the [trilemma of selection](/topics/trilemma-of-selection/), which establishes that only consciousness-directed resolution of indeterminacy preserves authorship. This selection manifests phenomenologically as effort, felt openness, and authorship—the very features that characterise authentic choice.
+On the Map's account, consciousness genuinely selects among quantum-indeterminate neural options—the third horn of the [trilemma of selection](/topics/trilemma-of-selection/), which argues that only consciousness-directed resolution of indeterminacy preserves authorship. This selection manifests phenomenologically as effort, felt openness, and authorship—the very features that characterise authentic choice.
 
 Inauthentic choice, by contrast, may not engage the selection function. When you follow scripts automatically, neural processing plausibly runs in a more deterministic mode, with consciousness merely accompanying rather than selecting. This remains speculative—we lack direct evidence for differing levels of conscious causal engagement—but the absence of effort phenomenology is at least consistent with reduced conscious involvement in the outcome.
 
@@ -138,9 +138,9 @@ This gives authenticity metaphysical significance: authentic choice is where con
 
 ### Neural Correlates
 
-The neural signatures of [willed action](/concepts/attention-as-interface/)—frontal theta oscillations, bidirectional frontoparietal coherence (Botvinick et al., 2001; Cavanagh & Frank, 2014)—appear in voluntary, effortful choice but not in automatic or instructed behavior. These patterns are consistent with the Map's proposal that authentic choice engages consciousness's selection function, though they do not uniquely support it—a physicalist can explain the same signatures as markers of more complex computational processing without invoking non-physical causation.
+The neural signatures of [willed action](/concepts/attention-as-interface/)—frontal theta oscillations, bidirectional frontoparietal coherence (Botvinick et al., 2001; Cavanagh & Frank, 2014)—appear in voluntary, effortful choice but not in automatic or instructed behavior. These patterns are consistent with the Map's proposal that authentic choice engages consciousness's selection function, though they do not uniquely support it—a physicalist can explain the same signatures as markers of more complex computational processing without invoking non-physical causation. The signatures are compatible with both readings; they are underdetermined by the evidence on offer.
 
-The [decision window](/concepts/motor-selection/) for willed movements (~300ms versus ~100ms for instructed movements; Haggard, 2008) is similarly consistent with either interpretation. On the Map's account, the longer window provides time for consciousness to engage with neural superpositions. On a physicalist account, it reflects the additional computational demands of non-routine decisions. The neural data alone cannot adjudicate between these frameworks, but the phenomenological distinctiveness of authentic choice—the felt quality of genuine self-expression versus scripted compliance—remains a datum that physicalism must accommodate.
+The [decision window](/concepts/motor-selection/) for willed movements (~300ms versus ~100ms for instructed movements; Haggard, 2008) is similarly consistent with either interpretation. On the Map's account, the longer window provides time for consciousness to engage with neural superpositions. On a physicalist account, it reflects the additional computational demands of non-routine decisions. The neural data alone does not adjudicate between these frameworks, but the phenomenological distinctiveness of authentic choice—the felt quality of genuine self-expression versus scripted compliance—remains a datum that physicalism must accommodate.
 
 ### Agent Causation and the Whole Self
 
@@ -208,13 +208,13 @@ The authentic-inauthentic distinction aligns with the Map's framework at several
 
 The authentic-inauthentic framework would face difficulty if:
 
-**Phenomenology proves unreliable.** If people consistently misreport their phenomenology—experiencing authentic choice as inauthentic or vice versa—the distinction couldn't track anything metaphysically significant.
+**Phenomenology turns out unreliable.** If people consistently misreport their phenomenology—experiencing authentic choice as inauthentic or vice versa—the distinction couldn't track anything metaphysically significant.
 
 **Neural signatures fail to distinguish.** If willed and automatic processing showed identical neural correlates, the proposed link between authenticity and genuine selection would lose empirical support.
 
 **Contemplative practice reveals authenticity as illusion.** If extended meditation consistently showed that the "authentic" choice feeling is another layer of construction—equally conditioned, equally scripted—the distinction would collapse.
 
-**Quantum biology proves impossible.** If consciousness cannot interface with quantum processes in neural tissue (the decoherence objection proved decisive), the proposed mechanism linking authenticity to selection would fail.
+**Quantum biology turns out impossible.** If consciousness cannot interface with quantum processes in neural tissue (the decoherence objection proved decisive), the proposed mechanism linking authenticity to selection would fail.
 
 **Existentialist self-deception.** If the sense of "authentic" choice proved to be itself a cultural script—performing authenticity for social validation—the distinction would be absorbed into the very inauthenticity it aims to transcend.
 

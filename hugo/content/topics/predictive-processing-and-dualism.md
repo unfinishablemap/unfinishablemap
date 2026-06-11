@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-06-11 08:05:00+00:00
+ai_modified: 2026-06-11 09:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -44,7 +44,7 @@ topics:
 - '[[surprise-prediction-error-and-consciousness]]'
 ---
 
-Predictive processing (PP) is one of the most influential computational frameworks in contemporary cognitive science. It describes the brain as a hierarchical prediction engine that minimises surprise by constantly generating and testing expectations against sensory input. Active inference — PP's action-oriented extension under Karl Friston's free energy principle — adds that organisms act on the world to bring sensory input in line with predictions, not just passively updating models. Both framework and extension are almost universally presented within physicalism. Yet their mathematical formalism is metaphysically neutral: nothing in the equations mandates physicalism. The Unfinishable Map argues that PP and active inference provide exactly the physical architecture [interactionist-dualism](/concepts/interactionist-dualism/) needs — a detailed account of brain machinery that nonetheless contains an unexplained gap where consciousness enters. Far from threatening dualism, PP is its most productive scientific ally.
+Predictive processing (PP) is one of the most influential computational frameworks in contemporary cognitive science. It describes the brain as a hierarchical prediction engine that minimises surprise by constantly generating and testing expectations against sensory input. Active inference — PP's action-oriented extension under Karl Friston's free energy principle — adds that organisms act on the world to bring sensory input in line with predictions, not just passively updating models. Both framework and extension are almost universally presented within physicalism, and their leading proponents (Seth, Clark, Hohwy, Friston) read them as supporting physicalism — Friston's "Markovian monism" is explicitly anti-dualist, and active inference was built to dissolve the appearance of a Cartesian gap, not to vindicate it. Yet the mathematical formalism is metaphysically neutral: nothing in the equations mandates physicalism. That neutrality is what the Unfinishable Map builds on. PP and active inference supply exactly the physical architecture [interactionist-dualism](/concepts/interactionist-dualism/) needs — a detailed account of brain machinery that nonetheless contains an unexplained gap where consciousness enters. The Map appropriates the architecture while rejecting the physicalist metaphysics its originators attach to it; the disagreement with them is metaphysical, and the formalism itself adjudicates neither side.
 
 ## The Neural Machinery Consciousness Needs
 
@@ -132,7 +132,7 @@ What PP misses is what every computational framework misses.
 
 ## Relation to Site Perspective
 
-The Unfinishable Map sees predictive processing as a valuable ally — the best available account of the neural architecture through which consciousness operates.
+The Unfinishable Map adopts predictive processing as the best available account of the neural architecture through which consciousness operates — while engaging its physicalist proponents as rivals, not allies. PP supplies the architecture; the Map's metaphysical reading of that architecture is one its originators reject.
 
 **[Dualism](/tenets/#dualism)**: PP is typically presented within physicalism, but its own proponents concede it doesn't address the hard problem, and Beni's critique shows the formalism is metaphysically neutral. The Map takes the framework's computational description as capturing the physical side of a two-sided reality: PP describes what the brain does; dualism explains why doing it feels like something. The more precisely PP describes the brain's operations, the sharper the hard problem becomes — why should free energy minimisation be accompanied by experience?
 

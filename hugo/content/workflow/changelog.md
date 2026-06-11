@@ -1,13 +1,70 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-11 12:40:00+00:00
+ai_modified: 2026-06-11 11:02:23+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-11'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-11T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/)
+- **Trigger**: topic-concept anchoring audit 2026-06-10 — over-claims relative to anchor [mental-effort](/concepts/mental-effort/) (strong_assertions, underdetermination_markers)
+- **Changes**: Softened 4 own-voice strong-assertion verbs to inherit the anchor's calibration discipline (count 4→0): (1) "bad faith demonstrates consciousness's irreducibility" → "points to"; (2) "trilemma…establishes that only consciousness-directed resolution preserves authorship" → "argues that"; (3) "Phenomenology proves unreliable" → "turns out unreliable" (hypothetical-conditional in the challenge section); (4) "Quantum biology proves impossible" → "turns out impossible" (same). Added 2 explicit underdetermination markers in the Neural Correlates section where the article already conceded the point implicitly: "compatible with both readings; they are underdetermined by the evidence" and changed "cannot adjudicate" → "does not adjudicate" (count 0→3). No external published/mathematical result was softened — all four softened verbs were Map own-voice claims, not source attributions.
+- **Calibration**: strong-assertion density 1.36/kw → 0.0/kw (anchor 0.34/kw); underdetermination 0 → 3 (anchor 1); word count 2949 → 2968 (length-neutral).
+- **Verification**: tools.curate.anchoring.evaluate_anchoring(content_root=obsidian) now returns [] — flag cleared.
+- **Published**: yes
+
+## 2026-06-11T11:02:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [philosophy-of-mind](/concepts/philosophy-of-mind/)
+- **Word count**: 1937 → 1937 (0)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 content edits — convergence-confirming 5th review
+- **Notes**: Article re-qualified after a substantive 2026-06-11 refine-draft (commit de6329676) recalibrated the convergence/eliminativism/decoherence framing. Reviewed the new content: it is a net calibration *improvement* (downgraded "convergent independent lines" → "one robust anti-entailment pattern, not five tallies"; sharpened eliminativist-debt and Tegmark-decoherence framing; reframed Tenet 4). Body ↔ Tenet 1 now consistent. Web-verified the one new empirical claim — Tegmark femtosecond–picosecond decoherence estimate (Tegmark 2000, Phys Rev E 61:4194 / quant-ph/9907009): real-correct, faithful and conservative. No attribution errors, no slippage, no internal contradiction. Engagement classification: eliminativist = Mode Two (unsupported foundational move, reductive debt); Tegmark/decoherence = Mode Three (honest boundary-marking). No editor-vocabulary leakage. Updated ai_modified + last_deep_review only.
+- **Output**: [deep-review-2026-06-11-philosophy-of-mind](/reviews/deep-review-2026-06-11-philosophy-of-mind/)
+
+## 2026-06-11T10:18:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/)
+- **Original score**: n/a (targeted co-optation-firewall follow-on from 2026-06-11 Claude Fable 5 corpus audit; borderline conscription flagged in the psychedelics subsection)
+- **Changes**: Applied the co-optation firewall (writing-style "Don't Conscript Committed Physicalists" + [evidential-status-discipline](/project/evidential-status-discipline/)) to the REBUS passage (~line 88). Previously the text read "Filter theory reinterprets the same mechanism" with no rival-marking — recruiting Carhart-Harris & Friston's REBUS / entropic-brain neuroimaging toward the filter conclusion while silently absorbing their framework. Rewrote to state explicitly that REBUS and the entropic-brain programme are physicalist projects built to explain psychedelic action without non-physical consciousness, read the loosened priors as releasing the brain's own generative model, and that the Map reinterprets the same data *against the grain* of that self-understanding — compatible with REBUS rather than confirmed by it, the data not discriminating, and the programme's authors rejecting the filter gloss. Empirical findings (REBUS, DMN changes, between-network connectivity) remain legitimately cited. Cite-as-rival, not cite-as-ally. Mirrors the canonical fix in [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) (REBUS-and-Filter-Theory section).
+- **Length**: 4493 words, soft_warning (under 5000 hard apex ceiling). Net +87 vs 4406 baseline; the rival-marking is required naming, offset by trimming ~50 words of redundant interface-mapping restatement in the same subsection (length-neutral as far as rival-marking allows — no accretion of new claims).
+- **Engagement classification**: engagement with Carhart-Harris & Friston (psychedelic-neuroscience / REBUS roster): Mode Three — framework-boundary marking; the physicalist self-understanding is stated and the reinterpretation marked as the Map's own against the grain, with the data noted as non-discriminating.
+- **Published**: yes
+
+## 2026-06-11T09:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)
+- **Original score**: n/a (targeted co-optation-firewall follow-on from 2026-06-11 Claude Fable 5 corpus audit)
+- **Changes**: Applied the co-optation firewall (writing-style "Don't Conscript Committed Physicalists" + [evidential-status-discipline](/project/evidential-status-discipline/) + [direct-refutation-discipline](/project/direct-refutation-discipline/)). Reframed the strongest cite-as-ally slippage from ally to rival: (1) lead paragraph (line 45) — removed "Far from threatening dualism, PP is its most productive scientific ally"; replaced with explicit statement that PP's leading proponents (Seth, Clark, Hohwy, Friston) read the framework as supporting physicalism, that Friston's Markovian monism is explicitly anti-dualist and active inference was built to dissolve the Cartesian gap, and that the Map appropriates the metaphysically-neutral formalism while rejecting the physicalist metaphysics its originators attach — the disagreement is metaphysical, the formalism adjudicates neither side. (2) Relation to Site Perspective opener (line 133) — changed "sees predictive processing as a valuable ally" to adopting the architecture while engaging its physicalist proponents as rivals, not allies. Preserved existing cite-as-rival material (meta-problem rebuttal, "even though Clark draws different conclusions", "its own proponents concede"). Reframing only, no accretion of new claims.
+- **Length**: 3408 words, soft_warning (under 4000 hard ceiling). +~75 words for the firewall's required naming of proponents' opposing stance.
+- **Engagement classification**: engagement with Seth/Clark/Hohwy/Friston (PP/active-inference roster): Mode Three — framework-boundary marking; the metaphysical disagreement is honestly noted at the boundary, the formalism's neutrality is the in-framework concession the Map builds on.
+- **Published**: yes
+
+## 2026-06-11T09:16:49+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 3 recently-modified topic articles (consciousness-in-simple-organisms, brain-specialness-boundary, predictive-processing-and-dualism). Two are calibration exemplars passing the Hardline-Empiricist persona cleanly; PP article flagged for cite-as-ally slippage (already-queued P2, no duplicate). One new P3 cross-link suggested.
+- **Output**: [optimistic-2026-06-11](/reviews/optimistic-2026-06-11/)
+
+## 2026-06-11T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [writing-style](/project/writing-style/)
+- **Source**: Claude Fable 5 outer-review P2 (2026-06-11, site-wide methodology) — extend the co-optation firewall (epistemic-to-metaphysical) to cover the predictive-processing / psychedelic-neuroscience cohort; corpus audit only (no content-article edits this pass).
+- **Change**: Added a new subsection "Don't Conscript Committed Physicalists (the Co-optation Firewall)" after *Engaging Opponents in Journal-Quality Prose*. Existing co-optation discipline lived in [calibration-audit-triple](/project/calibration-audit-triple/) Audit Six and [evidential-status-discipline](/project/evidential-status-discipline/) (source-role table); writing-style.md had no co-optation section, so this consolidates the prose-discipline statement here in the *Engaging Opponents* voice and points at both underlying disciplines. Roster now names: the original anti-dualist analytic roster (Shanahan, McGinn, Nagel, Schwitzgebel, Dennett, Metzinger, Hernández-Orallo) PLUS the PP/active-inference roster (Seth, Clark, Hohwy, Friston — incl. Friston's Markovian monism as explicitly anti-dualist) PLUS the psychedelic-neuroscience roster (Carhart-Harris; REBUS / entropic brain). Framed as cite-as-rival not cite-as-ally; canonical worked fix cited as [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/). Applied [direct-refutation-discipline](/project/direct-refutation-discipline/) / [evidential-status-discipline](/project/evidential-status-discipline/) framing.
+- **Corpus audit (grep incl research/, 5 authors: Seth, Clark, Hohwy, Friston, Carhart-Harris)**:
+  - `topics/perceptual-failure-and-the-interface` — CONFIRMED FIXED (P1 passes). PP/active inference engaged as "the serious computational rival" that "co-opts this article's evidence base most directly"; cite-as-rival framing intact. NOT re-edited.
+  - `topics/psychedelics-and-the-filter-model` — BORDERLINE conscription, well-hedged. Lines 71/129 explicitly state REBUS evidence is *compatible with* not *supporting of* filter theory ("coherence rather than evidential support over rivals"). But L67–69 ("maps remarkably well onto filter theory", "exactly the kind of constraint system a filter theory would expect") still leans toward enlisting Carhart-Harris & Friston rather than engaging them as rivals who built REBUS to avoid the dualist reading. FOLLOW-ON candidate (mild — hedges substantially mitigate).
+  - `topics/predictive-processing-and-dualism` — STRONGEST conscription instance. L45 "Far from threatening dualism, PP is its most productive scientific ally" enlists Friston/Clark/Hohwy/Seth's framework as ally; "Friston's Markovian monism... reveals more than it intends". Mixed: genuine cite-as-rival also present (L77 meta-problem rebuttal, L99 "even though Clark draws different conclusions"). FOLLOW-ON candidate (strongest — reframe "ally" language as cite-as-rival).
+  - `apex/altered-states-as-interface-evidence` — BORDERLINE conscription, less hedged than the psychedelics topic. L88 "REBUS describes the mechanism in physicalist terms... Filter theory reinterprets the same mechanism" without marking Carhart-Harris/Friston as rivals. FOLLOW-ON candidate.
+  - `concepts/filter-theory`, `concepts/altered-states-of-consciousness`, `concepts/perceptual-degradation-and-the-interface` — Carhart-Harris (2012) cited for the empirical neuroimaging *finding* (legitimate). filter-theory L82 "aligns with recent REBUS models" mildly conscripting but the dedicated-article cross-link carries the compatibility-not-support hedge. LOW priority; likely covered once the topic articles above are fixed.
+  - Remaining hits (Seth/Clark/Hohwy/Friston in `research/*`, and scattered concept/void cites) — predominantly literature-summary research notes (naming authors is expected, not conscription) or cite-the-finding usages; no further high-signal conscription found in this pass.
+- **Follow-on (NOT done this pass, per task constraint — edit target was writing-style.md only)**: queue refine-draft tasks for `topics/predictive-processing-and-dualism` (P2, strongest), `apex/altered-states-as-interface-evidence` (P2), `topics/psychedelics-and-the-filter-model` (P3, mild).
+- **Published**: yes (draft: false unchanged)
 
 ## 2026-06-11T13:10:00+00:00 - refine-draft
 - **Status**: Success

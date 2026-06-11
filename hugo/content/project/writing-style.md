@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-07
-ai_modified: 2026-06-04 13:05:00+00:00
+ai_modified: 2026-06-11 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -167,6 +167,18 @@ Embed mode-distinctions in natural language rather than naming them. Useful natu
 - *"The dispute is open inside X's framework, not closed by X's framework's own resources."* (in-framework engagement that does not yet succeed)
 
 The reader of the article should be able to trace the engagement structure from the prose alone — they should not need to know that an editorial discipline shaped the moves. The discipline did its work; the labels stay in the editor's notes and the changelog.
+
+### Don't Conscript Committed Physicalists (the Co-optation Firewall)
+
+A recurring failure mode is *co-optation*: an article cites a committed physicalist or naturalist for an empirical finding, then lets that author's *framework* drift across the boundary into apparent endorsement of a dualist filter, interface, or transmission conclusion the author built their model precisely to avoid. The firewall is epistemic-to-metaphysical: the author's empirical result may be cited, but the author must never be enlisted as if they shared the Map's metaphysics. Engage them as rivals — *cite-as-rival*, not cite-as-ally. This is the accuracy complement to the evidential weight discipline: the [source-role table](/project/evidential-status-discipline/#the-source-role-table) asks whether a recruited source would accept the conclusion (and downgrades it to *recruited-by* if not); this firewall additionally requires the article to *state* the author's actual opposing stance by name rather than absorbing their framework silently.
+
+A maintained roster of names triggers the firewall. When any of these authors appears in a tenet-load-bearing passage (dualism, filter theory, interface, transmission, quantum interaction), the article must carry an honest one-line statement of the author's actual framework and argue against it rather than enlisting it:
+
+- **Anti-dualist / naturalist analytic roster:** Shanahan, McGinn, Nagel, Schwitzgebel, Dennett, Metzinger, Hernández-Orallo (the co-optation gate's original roster — see [calibration-audit-triple](/project/calibration-audit-triple/) Audit Six).
+- **Predictive-processing / active-inference roster:** Anil Seth (controlled hallucination, the beast machine), Andy Clark (predictive processing, the extended mind), Jakob Hohwy (the predictive mind), Karl Friston (the free-energy principle, active inference, Markovian monism). These authors build *physicalist* models of perception and self; their formalism is metaphysically neutral and the Map may adopt its mechanics, but the authors themselves do not endorse — and in Friston's case (Markovian monism) explicitly argue against — the two-sided dualist reading. Cite their findings; engage their conclusions as rivals.
+- **Psychedelic-neuroscience roster:** Robin Carhart-Harris (the entropic brain; REBUS, with Friston). The REBUS and entropic-brain models are physicalist accounts of psychedelic action. The empirical neuroimaging may be cited, but REBUS "maps onto" filter theory only as a *compatible* rival mechanism the evidence does not discriminate in favour of — never as filter theory's confirmation or ally.
+
+The honest framing is the same as for any named opponent (see *Engaging Opponents* above): state the author's actual framework in natural prose, mark the citation as compatible-with rather than supporting where the evidence does not discriminate, and let the disagreement stand at the framework boundary rather than dressing recruitment as endorsement. The canonical worked fix is [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/), which engages predictive processing and active inference as "the serious computational rival" that "co-opts this article's evidence base most directly" — adopting the mechanics while keeping the hard-problem residue and the authors' opposing metaphysics explicit. The firewall is an accuracy move, not a retraction: the article may still reach its filter or interface conclusion, but it must reach it without conscripting the rival's authors.
 
 ### Evidential Calibration in Articles
 

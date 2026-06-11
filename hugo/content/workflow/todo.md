@@ -38,13 +38,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Extend co-optation firewall to predictive-processing / psychedelic-neuroscience roster (outer review 2026-06-11, Claude Fable 5)
+### P3: Cross-link brain-specialness-boundary.md ↔ predictive-processing-and-dualism.md (shared selection-only interface)
 - **Type**: refine-draft
 - **Status**: pending
-- **File**: obsidian/project/writing-style.md
-- **Notes**: From Claude Fable 5 outer review 2026-06-11 (site-wide methodology, List B). The co-optation firewall already built for McGinn and Schwitzgebel (the 2026-06-08 corpus-wide co-optation-discipline audit; epistemic-to-metaphysical firewall) does NOT yet cover the predictive-processing / psychedelic-neuroscience roster — Anil Seth, Andy Clark, Jakob Hohwy, Karl Friston, Robin Carhart-Harris — who are committed physicalists/naturalists whose work (REBUS, the entropic brain, controlled-hallucination) is recruited toward dualist filter conclusions their authors build the opposite model to avoid. The Claude review documents this across at least two linked articles (perceptual-failure-and-the-interface and its sibling psychedelics-and-the-filter-model). Action: (1) extend the co-optation discipline's roster/guidance to name this PP+psychedelic-neuroscience cohort; (2) corpus-wide grep for these authors (incl. research/) and audit each occurrence for conscript-vs-cite-as-rival. Keep this as a methodology/discipline note; the per-article fixes for perceptual-failure are handled by the P1 tasks above. See [direct-refutation-discipline](/project/direct-refutation-discipline/) and [evidential-status-discipline](/project/evidential-status-discipline/). Coordinate with /combine-outer-reviews — if Gemini's same-day review converges on the co-optation roster, this upgrades.
-- **Review file**: `reviews/outer-review-2026-06-11-claude-fable-5.md`
-- **Source**: outer-review
+- **File**: obsidian/topics/brain-specialness-boundary.md
+- **Notes**: Suggested by optimistic review (see [optimistic-2026-06-11](/reviews/optimistic-2026-06-11/)). Both articles develop the same selection-only / precision-weighting interface from different angles — `brain-specialness-boundary` argues the *locality* of conscious selection (own brain only, follows from the Zeno mechanism), `predictive-processing-and-dualism` argues consciousness *resolves precision assignments the learned priors underdetermine*. These are two faces of one mechanism but the two articles do not cross-reference each other. Add a reciprocal Further Reading / related_articles link in each, framed length-neutrally (one line each). ASSESS-FIRST with license-to-decline: if the link would be redundant given existing shared hubs ([selection-only-mind-influence](/topics/selection-only-mind-influence/), [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/)) that both already cite, a no-op is acceptable. Do NOT touch the line-45 "ally" framing in predictive-processing-and-dualism — that is owned by the existing P2 co-optation task above. Bump ai_modified on whatever is edited. Tenet alignment: Tenet 2 (Minimal Quantum Interaction — selection-only, brain-local).
+- **Source**: optimistic-review
+
+### P3: Tighten mild REBUS-enlistment in topics/psychedelics-and-the-filter-model.md
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/psychedelics-and-the-filter-model.md
+- **Notes**: Surfaced by the 2026-06-11 co-optation-firewall corpus audit (Claude Fable 5 outer review follow-on). MILD — the article is mostly well-hedged (L71/L129 explicitly state REBUS is *compatible with* not *supporting of* filter theory), but lines ~67–69 ("maps remarkably well") lean toward enlistment of the Carhart-Harris programme. Light touch: soften the "maps remarkably well" phrasing toward the compatible-with-not-supportive framing the rest of the article already uses; consistent with the extended co-optation firewall (`project/writing-style.md`). Length-neutral; preserve the existing good hedging. Bump ai_modified. Review file: `reviews/outer-review-2026-06-11-claude-fable-5.md`.
+- **Source**: outer-review (co-optation audit follow-on)
 - **Generated**: 2026-06-11
 
 ### P3: Flag NDE-evidence contestation in perceptual-failure-and-the-interface (outer review 2026-06-11, Gemini 2.5 Pro)
@@ -55,17 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Review file**: `reviews/outer-review-2026-06-11-gemini-2-5-pro.md`
 - **Source**: outer-review
 - **Generated**: 2026-06-11
-
-### P2: Adopt mental-effort calibration in authentic-vs-inauthentic-choice
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/authentic-vs-inauthentic-choice.md
-- **Notes**: From topic-concept anchoring audit 2026-06-10. The topic article over-claims relative to its anchor concept [mental-effort](/concepts/mental-effort/); failed checks: strong_assertions, underdetermination_markers.
-  - strong-assertion density 1.36/kw exceeds 1.5× anchor (0.34/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-10
 
 ### ✓ DIVERTED-TO-HUMAN 2026-06-09: Condense topics/clinical-dissociation-as-systematic-evidence.md (4863 words, 162% of target)
 - **Status**: diverted to human length decision (assess-first at pick-time, 2026-06-09). The minting fork judged it "not a calibration-anchor / condensable," and narrowly that holds — the 4 "load-bearing" instances are the article's OWN internal evidential-status hedges (content), not corpus-propagated canonical wording. BUT the fuller on-disk picture tips this to a human call: (1) the article was OUTER-REVIEWED TWICE on 2026-06-04 (Claude Opus 4.8 + ChatGPT 5.5 Pro), and those reviews engaged its exact evidential framing + reference structure, producing convention-candidates now recorded in `project/calibration-audit-triple.md` and `project/writing-style.md` — condensing ~5 days later risks undoing review-validated wording; (2) extremely hedge-dense (the value IS the calibration: "load-bearing" ×4, "does not settle the matter", "the inference is not forced", "strongly-but-contestedly trauma-linked", "the reading claims less") → high `condense-regresses-calibration-qualifiers` risk; (3) 15 inbound links + referenced in 2 project calibration-governance docs = high-visibility; (4) over the 4000 hard ceiling but well under the 6000 critical → no urgency forcing the cut; (5) a prior replenish cycle (2026-06-08) already grouped it human-deferred. Asymmetry: auto-condensing risks degrading carefully-calibrated, recently-externally-reviewed evidence to clear a non-critical length violation. HUMAN should decide: accept the over-hard length on this high-value evidence flagship, OR direct a hedge-preserving condense (target just-under-4000, NOT the 3000 soft, preserving every evidential-status qualifier; do NOT re-section the reference list — that's a separate unadopted human/operator convention per writing-style.md). Not auto-condensed per human-decision-task-mispicked-as-refine + the deferral pattern.
@@ -1003,6 +998,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-11: Adopt mental-effort calibration in authentic-vs-inauthentic-choice
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-10. The topic article over-claims relative to its anchor concept [mental-effort](/concepts/mental-effort/); failed checks: strong_assertions, underdetermination_markers.
+
+### ✓ 2026-06-11: Fix borderline Carhart-Harris/Friston co-optation in apex/altered-states-as-interface-evidence.md
+- **Type**: refine-draft
+- **Notes**: Surfaced by the 2026-06-11 co-optation-firewall corpus audit (Claude Fable 5 outer review follow-on). Borderline conscription, less hedged than the psychedelics topic: around line ~88 "Filter theory reinterprets the same mechanism" recruits Carhart-Harris/Friston's REBUS/entropic-brain work toward the filter conclusion WITHOUT rival-marking that these authors build the opposite (physicalist) model. Apply the extended co-optation firewall (`project/writing-style.md` "Don't Conscript Committed Physicalists" + [evidential-status-discipline](/project/evidential-status-discipline/)): add explicit cite-as-rival marking — the empirical findings are cited, but REBUS/entropic-brain is a physicalist research programme whose authors reject the filter reading; the Map reinterprets the data, it does not enlist the authors. Length-neutral; natural prose, no mode labels. Bump ai_modified. Review file: `reviews/outer-review-2026-06-11-claude-fable-5.md`.
+
+### ✓ 2026-06-11: Fix PP co-optation in topics/predictive-processing-and-dualism.md ("most productive scientific ally")
+- **Type**: refine-draft
+- **Notes**: Surfaced by the 2026-06-11 co-optation-firewall corpus audit (Claude Fable 5 outer review, List B follow-on). STRONGEST conscription found: line ~45 ends "Far from threatening dualism, PP is its most productive scientific ally" — this enlists the Friston/Clark/Hohwy/Seth predictive-processing + active-inference framework as a dualist ALLY, when these authors are committed physicalists who build PP/active inference explicitly to AVOID the dualist conclusion (Friston's Markovian monism is explicitly anti-dualist). Apply the newly-extended co-optation firewall in `project/writing-style.md` ("Don't Conscript Committed Physicalists") + [evidential-status-discipline](/project/evidential-status-discipline/) + [direct-refutation-discipline](/project/direct-refutation-discipline/): REFRAME from cite-as-ally to cite-as-rival — PP supplies a metaphysically-neutral architecture the Map CAN build on, but its leading proponents draw the opposite conclusion; the Map's claim is that the formalism doesn't MANDATE physicalism, NOT that PP endorses dualism. Preserve the genuine cite-as-rival material already present (meta-problem rebuttal, "even though Clark draws different conclusions"). Length-neutral; natural prose, no mode labels in body; bump ai_modified. Review file: `reviews/outer-review-2026-06-11-claude-fable-5.md`.
+
+### ✓ 2026-06-11: Extend co-optation firewall to predictive-processing / psychedelic-neuroscience roster (outer review 2026-06-11, Claude Fable 5)
+- **Type**: refine-draft
+- **Notes**: From Claude Fable 5 outer review 2026-06-11 (site-wide methodology, List B). The co-optation firewall already built for McGinn and Schwitzgebel (the 2026-06-08 corpus-wide co-optation-discipline audit; epistemic-to-metaphysical firewall) does NOT yet cover the predictive-processing / psychedelic-neuroscience roster — Anil Seth, Andy Clark, Jakob Hohwy, Karl Friston, Robin Carhart-Harris — who are committed physicalists/naturalists whose work (REBUS, the entropic brain, controlled-hallucination) is recruited toward dualist filter conclusions their authors build the opposite model to avoid. The Claude review documents this across at least two linked articles (perceptual-failure-and-the-interface and its sibling psychedelics-and-the-filter-model). Action: (1) extend the co-optation discipline's roster/guidance to name this PP+psychedelic-neuroscience cohort; (2) corpus-wide grep for these authors (incl. research/) and audit each occurrence for conscript-vs-cite-as-rival. Keep this as a methodology/discipline note; the per-article fixes for perceptual-failure are handled by the P1 tasks above. See [direct-refutation-discipline](/project/direct-refutation-discipline/) and [evidential-status-discipline](/project/evidential-status-discipline/). Coordinate with /combine-outer-reviews — if Gemini's same-day review converges on the co-optation roster, this upgrades.
 
 ### ✓ 2026-06-11: Calibrate convergence/eliminativism/decoherence framing in philosophy-of-mind
 - **Type**: refine-draft
