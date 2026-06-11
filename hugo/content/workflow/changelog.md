@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-11 07:40:00+00:00
+ai_modified: 2026-06-11 12:40:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-11'
@@ -9,11 +9,46 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-11T13:10:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [philosophy-of-mind](/concepts/philosophy-of-mind/)
+- **Source**: Pessimistic review (`reviews/pessimistic-2026-06-11.md`) — consolidated calibration pass on a survey-hub concept page; no length problem (body 1937w, healthy).
+- **Finding 1 (convergence double-counting, MEDIUM — key fix)**: ADDRESSED. §Dualism positive-case list reframed: zombie conceivability + knowledge argument named as different formulations of one entailment-gap point ("a single robust anti-entailment pattern pressed from different angles, not five separate tallies"), with unity/intentionality acknowledged as genuinely distinct further constraints. Mirrored the same de-double-counting into §Relation to Site Perspective Tenet 1 ("one robust pattern rather than several independent confirmations").
+- **Finding 2 (question-begging eliminativism rebuttal, MEDIUM)**: ADDRESSED. §Physicalism — replaced the out-voting "cumulative case is stronger" answer to the phlogiston analogy with an in-framework unpaid-debt identification: eliminativism owes an unspecified reduction (what replaces "qualia," how it discharges the appearance of phenomenality); until specified the analogy is a promissory note. Natural prose, no mode labels in body. Engagement classification (changelog only): Mode Two — unsupported foundational move (eliminativism helps itself to a future reduction it has not delivered by its own standards).
+- **Finding 3 (decoherence under-weighted, LOW-MEDIUM)**: ADDRESSED. §Dualism — decoherence objection promoted from one-among-equals to "the most forceful," with Tegmark's femtosecond–picosecond estimate cited as near-decisive on its own terms absent a shielding/amplification story; pointer added to the Map's rebuttal via existing [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) / [decoherence](/concepts/decoherence/) links ("genuine, not a footnote... developed there rather than assumed here").
+- **Finding 4 (2 unhedged superlatives)**: ADDRESSED. "deepest unsolved problem" → "widely regarded as one of the deepest unsolved problems"; Indian traditions "greater phenomenological sophistication" → "distinctive and highly developed phenomenological frameworks".
+- **Finding 5 (Tenet-4 boundary-substitution)**: ADDRESSED. §Relation to Site Perspective Tenet 4 — "rejects an interpretation that would dissolve the need for collapse" reworded to mark MWI-rejection as argued in the [tenets](/tenets/) (incompatibility with the mechanism is a *consequence* of that rejection, not its justification), removing the because-inconvenient-therefore-false reading.
+- **Preserved**: closing speculative concession (untouched), link hygiene (no new links beyond already-present decoherence/quantum-biology; all verified resolving), survey function and tenet-by-tenet structure.
+- **Original score**: n/a (pessimistic review, not scored review tool)
+- **Published**: yes (draft: false unchanged)
+
+## 2026-06-11T12:40:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/)
+- **Source**: Claude Fable 5 outer-review P1 (2026-06-11) — entropy-inversion + tenet-tension + MQI/Occam sub-findings. ChatGPT prose + citation passes already ran earlier today (PP-rival, Skrzypulec/Martina reframe, blindsight — not redone).
+- **Sub-finding 1 (psychedelic entropy direction)**: CONFIRMED ALREADY DONE. Line ~113 already states the signal-diversity *increase* is the programme's theoretical core, notes vascular-contamination confound on the blood-flow/connectivity decreases, demotes to the suggestive column. No change. Skipped the optional Carhart-Harris 2018 *Neuropharmacology* cite (length-neutral preference; direction already correct, would add churn).
+- **Sub-finding 2 (Huxley/Bergson reducing-valve tenet-3 tension)**: MOOT. Grep found no Huxley/Bergson/reducing-valve/transmissive/permissive text — framing already reworded/removed by a prior pass. Not manufactured.
+- **Sub-finding 3 (REAL WORK, both present + unaddressed)**:
+  - **Dangling MQI (Tenet-2 para)**: softened the unearned "number, quality, and coherence of available quantum events may set the bandwidth ceiling" gesture to an honest mechanism-not-specified marker — the perceptual data constrain the channel's *shape* (finite, prioritised, maintained) without earning a quantum substrate; quantum-interaction commitment named as the open question and cross-linked to [causal-closure](/concepts/causal-closure/) rather than filled in. Honest framework-boundary marking, natural prose.
+  - **Occam-as-shield (Tenet-5 para)**: replaced the "parsimony misleads" shield with merits-engagement. Names the [common-cause-null](/project/common-cause-null/) objection explicitly (could one neural architecture produce all four failure signatures? — yes, so the four collapse to one mechanism observed four ways), concedes the bandwidth signatures do not earn the far-side experiencer (PP reproduces them), and relocates the earned multiplication to the phenomenal residue. Applies [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)'s unmet-precondition argument (razor needs equal explanatory power; physicalist/interface not equal on the hard problem) AND explicitly binds the limit to the Map's own argument (licenses extra ontology only where the physical story leaves something unexplained, not as blanket permission). Name-the-unsupported-move + in-framework concession + principled boundary, natural prose, no mode labels.
+- **Length**: 3457w → 3713w (+256, soft_warning, well under 4000 hard). Tightened both edits after a first pass to keep growth proportionate to the genuinely-new merits-engagement content.
+- **Published**: yes (draft: false unchanged)
+
 ## 2026-06-11T07:40:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `concepts/philosophy-of-mind.md` (stalest substantive non-index article by last_deep_review; never a dedicated pessimistic-review focus)
 - **Findings**: 3 framing issues (convergence double-counting of shared entailment-gap premise; question-begging eliminativism rebuttal; under-weighted decoherence objection) + 2 unhedged superlatives + 1 boundary-substitution in Tenet-4 prose. No label-leakage; altered-state symmetry gate did not fire. Queued one P2 refine-draft.
 - **Output**: [pessimistic-2026-06-11](/reviews/pessimistic-2026-06-11/)
+
+## 2026-06-11T07:02:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [brain-specialness-boundary](/topics/brain-specialness-boundary/)
+- **Word count**: 2035 → 2035 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (sixth-pass converged article; no-change pass is correct outcome)
+- **Citation web-verify**: 4 cites re-verified at publisher of record — all real-correct (Jahn & Dunne 2005 JSE 19(2):195-245; Nelson et al. 2002 FoPhL 15(6):537-550 DOI 10.1023/A:1023981519179; Stapp 2007 Mindful Universe; Park 2000 Voodoo Science). No currency-superlatives. All 18 wikilinks resolve. No label leakage. Calibration/slippage test PASS.
+- **Output**: [deep-review-2026-06-11-brain-specialness-boundary](/reviews/deep-review-2026-06-11-brain-specialness-boundary/)
 
 ## 2026-06-11T07:15:00+00:00 - refine-draft
 - **Status**: Success

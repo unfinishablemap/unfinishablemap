@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-06-10T09:02:51.775640'
+ai_modified: '2026-06-11T08:01:42.604732'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-06-10'
+modified: '2026-06-11'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-06-11: The Blur Paradox: When Bad Vision Reveals the Mind
+
+Take off your glasses and the world goes hazy—but that haziness isn't out there in the objects. It's a property of your experience. The Map argues degraded perception exposes the consciousness-brain interface that clear vision hides.
+
+**Type**: new-article  
+**Link**: [[perceptual-failure-and-the-interface]]
+
+---
+
 ### 2026-06-10: Four Ways a Machine Might Still Be Conscious
 
 Even with strong reasons for doubt, the Map refuses to close the question of AI consciousness. It maps four live possibilities—from experience that can't act on the world to awareness that needs no human-style sense of time.
@@ -193,15 +202,6 @@ Qualia, phenomenal unity, and metacognition resist reduction; respiration and re
 
 **Type**: insight  
 **Link**: [[mind-brain-separation]]
-
----
-
-### 2026-05-20: You Cannot Imagine Your Own Death
-
-Every attempt to picture nonexistence smuggles in the observer—the darkness still has a seer, the silence still has a hearer. Epicurus, Wittgenstein, Heidegger, and Freud converge on the same structural impossibility.
-
-**Type**: insight  
-**Link**: [[death-void]]
 
 ---
 
