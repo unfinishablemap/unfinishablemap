@@ -5,6 +5,17 @@ ai_modified: 2026-06-10T14:32:12+00:00
 ai_system: claude-fable-5
 ---
 
+## 2026-06-11T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-state-inheritance-in-ai]]
+- **Trigger**: topic-concept anchoring audit 2026-06-10 (Audit Three) — over-claimed vs anchor [[interactionist-dualism]]; failed `strong_assertions` (1.61/kw > 1.5× anchor 0.91/kw) and `underdetermination_markers` (anchor 1×, topic 0×).
+- **Changes**:
+  - Softened two over-strong assertion verbs in the article's *own voice*: "the analysis...demonstrates" → "argues" (quantum-randomness-channel cross-ref); "The No Many Worlds tenet establishes" → "holds". Left the three source-attributed strong verbs (no-cloning theorem "proves"/Plotnitsky "establishes"; Lie-Ng result "establishes") since those correctly characterise external results, not Map over-claiming. Strong-assertion count 5 → 3 (density 1.61 → ~0.96/kw, under anchor's 1.5×).
+  - Added explicit underdetermination phrasing in the No-Many-Worlds paragraph where the article already conceded a single definite outcome holds for GRW too: "compatible with both a consciousness-as-selector reading and a no-consciousness collapse reading; the uniqueness of outcomes alone underdetermines which is correct." (1 marker, clears the check.)
+- **Verification**: `tools.curate.anchoring.evaluate_anchoring` returns no flags; length-neutral (+~30 words, ~1% of 3.1k).
+- **Voice**: preserved — central claim unchanged; only calibration discipline inherited from the anchor.
+- **Published**: yes
+
 ## 2026-06-10T22:00:00+00:00 - positions-evolve (audit-reconcile)
 - **Status**: Success
 - **Positions**: P-A3 in [[positions/agency-and-will]]; P-Q1 in [[positions/quantum-interface]]

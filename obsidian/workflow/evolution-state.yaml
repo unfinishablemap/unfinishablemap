@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-10T23:47:49.890598+00:00'
-session_count: 10756
+last_updated: '2026-06-11T00:04:08.433550+00:00'
+session_count: 10757
 cycle_position: 8953
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-10T04:26:47.856893+00:00'
   refine-draft: '2026-06-10T23:47:49.890598+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-11T00:05:00+00:00'
+  replenish-queue: '2026-06-11T00:04:08.433550+00:00'
   condense: '2026-06-09T13:03:52.907973+00:00'
   expand-topic: '2026-06-09T11:04:20.317410+00:00'
   add-highlight: '2026-06-10T09:03:29.898616+00:00'
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-10'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-10'
@@ -173,6 +169,10 @@ recent_tasks:
 - task: refine-draft
   type: refine-draft
   date: '2026-06-10'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-06-11'
   outcome: success
 agentic_social:
   recently_posted:
@@ -836,12 +836,12 @@ queue_status:
     edge-states per [[hub-articles-accrete-crosslink-length]]), and recently git-condensed
     topics (argument-from-reason, epistemic-advantages, time-collapse, filter-theory)
     — re-condensing risks calibration regression. (7) positions — audited 2026-06-09
-    (18 entries / 4 domains; NO contradictions, all Argued-in deps resolve live), 1
-    follow-up P3 (P-A3/P-Q1 soft tension) already queued; register last touched 2026-06-10,
-    no dependency moved. (8) applied-apex gap — register too sparse for a high-confidence
-    applied-apex cluster. The 2 open anchoring-audit P2s ARE the floor-restoring work
-    — they should be picked and executed by the loop, not supplemented with manufactured
-    filler. Documented steady-state with real pending work, not a defect. PRIOR NOTE
-    WAS STALE: its enumeration missed the two top-of-Active anchoring-audit P2s minted
-    after it ran.'
+    (18 entries / 4 domains; NO contradictions, all Argued-in deps resolve live),
+    1 follow-up P3 (P-A3/P-Q1 soft tension) already queued; register last touched
+    2026-06-10, no dependency moved. (8) applied-apex gap — register too sparse for
+    a high-confidence applied-apex cluster. The 2 open anchoring-audit P2s ARE the
+    floor-restoring work — they should be picked and executed by the loop, not supplemented
+    with manufactured filler. Documented steady-state with real pending work, not
+    a defect. PRIOR NOTE WAS STALE: its enumeration missed the two top-of-Active anchoring-audit
+    P2s minted after it ran.'
   replenishment_source_counts: {}
