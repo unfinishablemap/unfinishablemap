@@ -5,6 +5,15 @@ ai_modified: 2026-06-10T14:32:12+00:00
 ai_system: claude-fable-5
 ---
 
+## 2026-06-11T05:05:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [[reviews/outer-review-2026-06-11-gemini-2-5-pro]]
+- **Subject**: topics/perceptual-failure-and-the-interface (recent-aged fallback; leg 3 of the 3-reviewer triple — ALL THREE NOW COLLECTED). Verdict: reject (hostile-referee framing).
+- **Claims verified**: 5 checked against live article. MIXED report. CONVERGENT/verified: Michel & Lau (2021) blindsight rebuttal omission (3-reviewer convergence; also Claude w/ pages); over-reliance on Carhart-Harris 2012 DMN result (convergent with Claude's inverted-entropy flag, distinct critique angle); Skrzypulec/Martina blur framing (convergent with ChatGPT). FABRICATED (excluded from tasks): a "10 bits/sec" bandwidth figure, a "quantum-level biasing"/Müller-Lyer cognitive-impenetrability section, and a Necker-cube/PP strawman quote — NONE of these strings appear in the article (sibling-import / hallucination). OVERSTATED: van Lommel NDE treated as "empirical pillar" (it is one brief hedged example); anaesthesia "hysteresis" argument the article never makes.
+- **High-value findings**: 2 convergent (reinforce existing same-cycle ChatGPT/Claude tasks — will upgrade via /combine-outer-reviews) + 1 minor new (van Lommel NDE contestation unflagged).
+- **Tasks generated**: 1 (P3: flag NDE-evidence contestation, length-neutral, fold into the P1 calibration pass if it runs first). Did NOT duplicate the ChatGPT/Claude triple tasks; did NOT action the 3 fabricated findings. Updated the existing P1 with confirmed convergence + a fabrication caution. Execution deferred to /combine-outer-reviews (now eligible: all 3 entries resolved, 3 processed).
+
 ## 2026-06-11T04:25:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Fable 5
