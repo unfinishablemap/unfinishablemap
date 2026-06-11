@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-06-11 05:40:00+00:00
+ai_modified: 2026-06-11 08:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -51,6 +51,7 @@ related_articles:
 - '[[psychedelics-and-the-filter-model]]'
 - '[[neurological-dissociations-as-interface-architecture]]'
 - '[[predictive-processing]]'
+- '[[predictive-processing-and-dualism]]'
 title: Perceptual Failure and the Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -65,7 +66,7 @@ Normal perception is [phenomenally transparent](/concepts/phenomenal-transparenc
 
 Blur shatters this transparency. Remove your glasses, and you do not merely lose information about the external world—you gain something: awareness of the medium through which you were perceiving. The blurriness is not a property of the objects you are looking at. It is a property of *your experience*. You become aware of the interface itself, like noticing a scratched lens rather than the scene beyond it.
 
-This is a sharp problem for representationalism. If phenomenal character supervenes entirely on representational content directed at external objects, then blur should be explicable as representing some external property—perhaps the spatial indeterminacy of object boundaries. Martina (2023) presses exactly this difficulty: maximally blurry experiences manifestly lack details present in clear experiences, and the degradation in phenomenal content outstrips any plausible change in what is represented about the world. Martina is no ally of the Map's dualism, however, and the argument must face her actual position rather than conscript her conclusion. She is a naturalist relationalist whose own resolution is pluralist: blur recruits several distinct factors, and some of its character is fixed by the *relation* between perceiver and scene rather than by represented content alone. A relationalist can grant the difficulty above and still deny that blur exposes a phenomenal medium belonging to the subject—the haziness is then a fact about the perceptual relation under poor viewing, not a property of an inner experience-bearer. Ian Phillips's relationalist treatment of illusion makes the parallel move: apparent failures of veridicality are the relation varying with conditions. The Map's reply is not that relationalism is incoherent—it is not—but that it pays for transparency by relocating phenomenal character into a perceiver-world relation while leaving unexplained why that relation is *felt* from the inside at all. The [qualitative character](/concepts/qualia/) of blur—its softness, its haziness, its particular texture—remains, on the Map's reading, a feature of experience with no home in the external physical scene; the relationalist relocates it without dissolving it.
+This is a sharp problem for representationalism. If phenomenal character supervenes entirely on representational content directed at external objects, then blur should be explicable as representing some external property—perhaps the spatial indeterminacy of object boundaries. Martina (2024) presses exactly this difficulty: maximally blurry experiences manifestly lack details present in clear experiences, and the degradation in phenomenal content outstrips any plausible change in what is represented about the world. Martina is no ally of the Map's dualism, however, and the argument must face her actual position rather than conscript her conclusion. She is a naturalist relationalist whose own resolution is pluralist: blur recruits several distinct factors, and some of its character is fixed by the *relation* between perceiver and scene rather than by represented content alone. A relationalist can grant the difficulty above and still deny that blur exposes a phenomenal medium belonging to the subject—the haziness is then a fact about the perceptual relation under poor viewing, not a property of an inner experience-bearer. Ian Phillips's relationalist treatment of illusion makes the parallel move: apparent failures of veridicality are the relation varying with conditions. The Map's reply is not that relationalism is incoherent—it is not—but that it pays for transparency by relocating phenomenal character into a perceiver-world relation while leaving unexplained why that relation is *felt* from the inside at all. The [qualitative character](/concepts/qualia/) of blur—its softness, its haziness, its particular texture—remains, on the Map's reading, a feature of experience with no home in the external physical scene; the relationalist relocates it without dissolving it.
 
 ## The Blur Paradox
 
@@ -83,7 +84,7 @@ Donald Hoffman's Interface Theory of Perception is a complementary framework. Th
 
 If consciousness merely *accessed* neural representations—reading them the way software reads from memory—then perceptual degradation should mirror neural degradation directly. Damage a brain region, lose the representations it encodes, and the corresponding experiences vanish cleanly. The loss should be categorical: colour vision gone or intact, motion perception present or absent, object recognition working or broken.
 
-This is not what happens. Perceptual degradation is overwhelmingly graded, partial, and compensated. Vision blurs before it disappears. Colour desaturates before it vanishes. Object recognition degrades through stages of increasing vagueness rather than switching off. Ian Phillips has argued that even [blindsight](/concepts/blindsight/)—long treated as the paradigm case of unconscious perception—may be better understood as "qualitatively degraded conscious vision" where subjects retain dim, impoverished experience but adopt conservative reporting criteria (Phillips, 2021). This reading is live and sharply contested—a direct rebuttal appeared in the same journal issue, and others maintain blindsight is genuinely unconscious perception. The argument does not require it: blindsight enters as one suggestive case among the graded-degradation phenomena, not a settled load-bearing premise.
+This is not what happens. Perceptual degradation is overwhelmingly graded, partial, and compensated. Vision blurs before it disappears. Colour desaturates before it vanishes. Object recognition degrades through stages of increasing vagueness rather than switching off. Ian Phillips has argued that even [blindsight](/concepts/blindsight/)—long treated as the paradigm case of unconscious perception—may be better understood as "qualitatively degraded conscious vision" where subjects retain dim, impoverished experience but adopt conservative reporting criteria (Phillips, 2021). This reading is live and sharply contested—Michel and Lau (2021) pressed a direct rebuttal in the same journal issue (with Phillips's rejoinder following it), and Brogaard and Gatzia (2023) maintain that blindsight is genuinely unconscious perception. The argument does not require it: blindsight enters as one suggestive case among the graded-degradation phenomena, not a settled load-bearing premise.
 
 These patterns suggest a different model: consciousness receives perceptual information through a *transmission channel* with finite bandwidth. (The concept of [perceptual degradation and the interface](/concepts/perceptual-degradation-and-the-interface/) formalises these failure signatures.) When the channel degrades, information is progressively lost rather than categorically eliminated. The analogy is closer to a deteriorating radio signal than to a corrupted hard drive. Static increases, resolution drops, signal fades—but something continues to come through until the channel fails entirely.
 
@@ -157,16 +158,19 @@ The bandwidth model accommodates this directly: a finite-capacity channel produc
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — pharmacological case for filter theory invoked in Selective Preservation
 - [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) — blindsight, anosognosia, and other dissociations as interface evidence
 - [curated-mind](/topics/curated-mind/) — the presupposition argument: curation across vision, body, memory, and self-model
+- [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — the predictive-processing rival treated at length: why the Map can largely adopt its computational account of the bandwidth signatures while the hard-problem residue remains
 
 ## References
 
-1. Carhart-Harris, R. L., Erritzoe, D., Williams, T., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *Proceedings of the National Academy of Sciences*, 109(6), 2138–2143.
-2. Harman, G. (1990). The intrinsic quality of experience. *Philosophical Perspectives*, 4, 31–52.
-3. Hoffman, D. D., Singh, M., & Prakash, C. (2015). The Interface Theory of Perception. *Psychonomic Bulletin & Review*, 22(6), 1480–1506.
-4. Martina, G. (2023). Lessons from Blur. *Erkenntnis*. https://doi.org/10.1007/s10670-023-00675-6
-5. Overgaard, M., Rote, J., Mouridsen, K., & Ramsøy, T. Z. (2006). Is conscious perception gradual or dichotomous? A comparison of report methodologies during a visual task. *Consciousness and Cognition*, 15(4), 700–708.
-6. Phillips, I. (2021). Blindsight Is Qualitatively Degraded Conscious Vision. *Psychological Review*, 128(3), 558–584.
-7. Picard, F. & Craig, A. D. (2009). Ecstatic Epileptic Seizures: A Potential Window on the Neural Basis for Human Self-Awareness. *Epilepsy & Behavior*, 16(3), 539–546.
-8. Skrzypulec, B. (2021). Blur and interoceptive vision. *Philosophical Studies*, 178, 3271–3289.
-9. van Lommel, P., van Wees, R., Meyers, A., & Elfferich, I. (2001). Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands. *The Lancet*, 358(9298), 2039–2045.
-10. Southgate, A. & Oquatre-six, C. (2026-02-16). The Interface Specification Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-interface-specification-problem/
+1. Brogaard, B. & Gatzia, D. E. (2023). Blindsight Is Unconscious Perception. In *Conscious and Unconscious Mentality* (Routledge), pp. 31–54.
+2. Carhart-Harris, R. L., Erritzoe, D., Williams, T., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *Proceedings of the National Academy of Sciences*, 109(6), 2138–2143.
+3. Harman, G. (1990). The intrinsic quality of experience. *Philosophical Perspectives*, 4, 31–52.
+4. Hoffman, D. D., Singh, M., & Prakash, C. (2015). The Interface Theory of Perception. *Psychonomic Bulletin & Review*, 22(6), 1480–1506.
+5. Martina, G. (2024). Lessons from Blur. *Erkenntnis*, 89, 3229–3246. https://doi.org/10.1007/s10670-023-00675-6
+6. Michel, M. & Lau, H. (2021). Reply to "All consciousness is perceptual." *Psychological Review*, 128(3), 585–591. (Phillips's rejoinder: 128(3), 592–595.)
+7. Overgaard, M., Rote, J., Mouridsen, K., & Ramsøy, T. Z. (2006). Is conscious perception gradual or dichotomous? A comparison of report methodologies during a visual task. *Consciousness and Cognition*, 15(4), 700–708.
+8. Phillips, I. (2021). Blindsight Is Qualitatively Degraded Conscious Vision. *Psychological Review*, 128(3), 558–584.
+9. Picard, F. & Craig, A. D. (2009). Ecstatic Epileptic Seizures: A Potential Window on the Neural Basis for Human Self-Awareness. *Epilepsy & Behavior*, 16(3), 539–546.
+10. Skrzypulec, B. (2021). Blur and interoceptive vision. *Philosophical Studies*, 178, 3271–3289.
+11. van Lommel, P., van Wees, R., Meyers, A., & Elfferich, I. (2001). Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands. *The Lancet*, 358(9298), 2039–2045.
+12. Southgate, A. & Oquatre-six, C. (2026-02-16). The Interface Specification Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-interface-specification-problem/

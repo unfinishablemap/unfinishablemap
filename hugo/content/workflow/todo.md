@@ -38,18 +38,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Fix Martina citation metadata + add contested-blindsight references (perceptual-failure-and-the-interface)
+### P2: Calibrate convergence/eliminativism/decoherence framing in philosophy-of-mind
 - **Type**: refine-draft
 - **Status**: pending
-- **File**: obsidian/topics/perceptual-failure-and-the-interface.md
-- **Notes**: From convergent outer reviews (2026-06-11, 3/3 reviewers): [chatgpt, claude, gemini]. UPGRADED P2→P1 by /combine-outer-reviews. The Martina citation-role mismatch is flagged by all three (ChatGPT "Martina is the biggest citation-role problem"; Claude "Martina (2024)... recruited as if it supported an irreducible-phenomenal-remainder claim"; Gemini "selectively ignores the primary contemporary counter-argument provided by Martina"). The unflagged blindsight contestation / Michel & Lau (2021) same-issue rebuttal is also flagged by all three (Claude and Gemini with exact pages: *Psychological Review* 128(3):585–591). These mechanical citation fixes are web-verified in the reviews' Verification Notes:
-  - Update reference 4: "Martina, G. (2023). Lessons from Blur. *Erkenntnis*." → **Erkenntnis 89, 3229–3246 (2024)** (online-first 2023). VERIFIED via Springer/PhilArchive record.
-  - Add the contested-blindsight references that the P1 prose change cites: **Michel & Lau (2021)**, *Psychological Review* 128(3):585–591 (same-issue comment on Phillips, with Phillips's rejoinder 128(3):592–595) and **Brogaard, B. & Gatzia, D. E. (2023). Blindsight Is Unconscious Perception.** In *Conscious and Unconscious Mentality* (Routledge), pp. 31–54. VERIFIED via PhilArchive/PhilPapers. Both argue against Phillips's degraded-conscious-vision reading.
-  - Keep this coordinated with / fold into the P1 prose task if executed together (same References section).
-- **Review files**: `reviews/outer-review-2026-06-11-chatgpt-5-5-pro.md`, `reviews/outer-review-2026-06-11-claude-fable-5.md`, `reviews/outer-review-2026-06-11-gemini-2-5-pro.md`
-- **Synthesis**: `reviews/outer-review-synthesis-2026-06-11.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-11
+- **Notes**: Pessimistic review 2026-06-11 found three framing issues on `concepts/philosophy-of-mind.md` (survey hub, no length issue): (1) MEDIUM — "multiple independent / convergent lines of evidence" double-counts the shared entailment-gap premise (zombie conceivability + knowledge argument are not evidentially independent); reframe as one robust anti-entailment pattern, not five tallies. (2) MEDIUM — eliminativism's phlogiston analogy is stated but answered only by "cumulative case is stronger," which begs the question against an opponent who denies phenomenal facts; name eliminativism's unpaid debt (unspecified reduction) instead. (3) LOW-MEDIUM — decoherence objection under-weighted vs its standardly-cited force; add a half-sentence + link to `[[decoherence]]`/`[[quantum-biology-and-neural-mechanisms]]` so the reader finds the rebuttal. Also: soften two unhedged superlatives ("deepest unsolved problem"; Indian traditions "greater phenomenological sophistication"); reword Tenet-4 "rejects MWI because inconvenient" to mark it as argued-in-tenets not assumed-here (boundary-substitution). See pessimistic-2026-06-11.md. Preserve link hygiene and the candid closing concession.
 
 ### P1: Add reciprocal PP cross-links to/from perceptual-failure-and-the-interface
 - **Type**: cross-review
@@ -1039,6 +1031,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-11: Fix Martina citation metadata + add contested-blindsight references (perceptual-failure-and-the-interface)
+- **Type**: refine-draft
+- **Notes**: From convergent outer reviews (2026-06-11, 3/3 reviewers): [chatgpt, claude, gemini]. UPGRADED P2→P1 by /combine-outer-reviews. The Martina citation-role mismatch is flagged by all three (ChatGPT "Martina is the biggest citation-role problem"; Claude "Martina (2024)... recruited as if it supported an irreducible-phenomenal-remainder claim"; Gemini "selectively ignores the primary contemporary counter-argument provided by Martina"). The unflagged blindsight contestation / Michel & Lau (2021) same-issue rebuttal is also flagged by all three (Claude and Gemini with exact pages: *Psychological Review* 128(3):585–591). These mechanical citation fixes are web-verified in the reviews' Verification Notes:
 
 ### ✓ 2026-06-11: Calibrate rival-engagement in perceptual-failure-and-the-interface (outer review 2026-06-11)
 - **Type**: refine-draft

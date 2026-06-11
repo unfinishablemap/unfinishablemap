@@ -4,7 +4,7 @@ description: "Predictive processing's metaphysically neutral formalism provides 
 created: 2026-02-15
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-05-28T19:55:20+00:00
+ai_modified: 2026-06-11T08:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,6 +27,7 @@ related_articles:
   - "[[predictive-processing-active-inference-dualism-2026-03-19]]"
   - "[[attention-and-the-consciousness-interface]]"
   - "[[bandwidth-of-consciousness]]"
+  - "[[perceptual-failure-and-the-interface]]"
   - "[[empirical-phenomena-mental-causation]]"
   - "[[selection-only-mind-influence]]"
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -154,6 +155,7 @@ The Unfinishable Map sees predictive processing as a valuable ally — the best 
 - [[categorical-surprise]] — When prediction fails at the framework level
 - [[cognitive-science-of-dualism]] — How cognitive science's findings resist materialist closure
 - [[bandwidth-of-consciousness]] — Bandwidth limits and the interface
+- [[perceptual-failure-and-the-interface]] — the four bandwidth signatures run against active inference: where the Map adopts PP's account of perceptual degradation and where the hard-problem residue remains
 - [[empirical-phenomena-mental-causation|placebo effect]] — Expectations as strong priors with measurable outcomes
 - [[concepts/functionalism]] — The philosophical tradition PP inherits
 - [[parsimony-epistemology]] — Why simplicity cannot settle the consciousness debate

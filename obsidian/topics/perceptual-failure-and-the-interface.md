@@ -4,7 +4,7 @@ description: "Perceptual degradation reveals the consciousness-brain interface: 
 created: 2026-03-09
 modified: 2026-03-14
 human_modified:
-ai_modified: 2026-06-11T07:15:00+00:00
+ai_modified: 2026-06-11T08:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,6 +44,7 @@ related_articles:
   - "[[psychedelics-and-the-filter-model]]"
   - "[[neurological-dissociations-as-interface-architecture]]"
   - "[[predictive-processing]]"
+  - "[[predictive-processing-and-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -155,6 +156,7 @@ The bandwidth model accommodates this directly: a finite-capacity channel produc
 - [[psychedelics-and-the-filter-model]] — pharmacological case for filter theory invoked in Selective Preservation
 - [[neurological-dissociations-as-interface-architecture]] — blindsight, anosognosia, and other dissociations as interface evidence
 - [[curated-mind]] — the presupposition argument: curation across vision, body, memory, and self-model
+- [[predictive-processing-and-dualism]] — the predictive-processing rival treated at length: why the Map can largely adopt its computational account of the bandwidth signatures while the hard-problem residue remains
 
 ## References
 

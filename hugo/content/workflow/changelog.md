@@ -1,13 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-11 05:05:00+00:00
+ai_modified: 2026-06-11 07:40:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-11'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-11T07:40:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/philosophy-of-mind.md` (stalest substantive non-index article by last_deep_review; never a dedicated pessimistic-review focus)
+- **Findings**: 3 framing issues (convergence double-counting of shared entailment-gap premise; question-begging eliminativism rebuttal; under-weighted decoherence objection) + 2 unhedged superlatives + 1 boundary-substitution in Tenet-4 prose. No label-leakage; altered-state symmetry gate did not fire. Queued one P2 refine-draft.
+- **Output**: [pessimistic-2026-06-11](/reviews/pessimistic-2026-06-11/)
+
+## 2026-06-11T07:15:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/)
+- **Source**: CONVERGENT outer-review P1 (2026-06-11, 3/3 reviewers; synthesis reviews/outer-review-synthesis-2026-06-11.md). Mechanical citation sibling of the same-day prose-calibration pass.
+- **Changes**:
+  - Fixed Martina reference metadata: 2023 → **Erkenntnis 89, 3229–3246 (2024)** (online-first 2023); year + volume + pages added. Inline cite updated 2023 → 2024 for consistency.
+  - Added the two contested-blindsight rebuttals as paired inline+reference (orphan guard): **Michel & Lau (2021)** — same-issue reply, *Psychological Review* 128(3):585–591, with Phillips's rejoinder 128(3):592–595; and **Brogaard & Gatzia (2023)** — Blindsight Is Unconscious Perception, in *Conscious and Unconscious Mentality* (Routledge), pp. 31–54. Both have matching inline cites in the blindsight passage; no orphan reference, no dangling inline cite. References renumbered (10 → 12 entries).
+  - No prose-calibration reframes (those were the sibling pass); bibliographic-only.
+- **Word count**: 3430 (soft_warning, under 4000 hard)
+- **Published**: yes
 
 ## 2026-06-11T05:40:00+00:00 - refine-draft
 - **Status**: Success

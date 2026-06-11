@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-05-28 19:55:20+00:00
+ai_modified: 2026-06-11 08:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,6 +33,7 @@ related_articles:
 - '[[predictive-processing-active-inference-dualism-2026-03-19]]'
 - '[[attention-and-the-consciousness-interface]]'
 - '[[bandwidth-of-consciousness]]'
+- '[[perceptual-failure-and-the-interface]]'
 - '[[empirical-phenomena-mental-causation]]'
 - '[[selection-only-mind-influence]]'
 - '[[born-rule-and-the-consciousness-interface]]'
@@ -156,6 +157,7 @@ The Unfinishable Map sees predictive processing as a valuable ally — the best 
 - [categorical-surprise](/concepts/categorical-surprise/) — When prediction fails at the framework level
 - [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) — How cognitive science's findings resist materialist closure
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — Bandwidth limits and the interface
+- [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — the four bandwidth signatures run against active inference: where the Map adopts PP's account of perceptual degradation and where the hard-problem residue remains
 - [placebo effect](/topics/empirical-phenomena-mental-causation/) — Expectations as strong priors with measurable outcomes
 - [functionalism](/concepts/functionalism/) — The philosophical tradition PP inherits
 - [parsimony-epistemology](/concepts/parsimony-epistemology/) — Why simplicity cannot settle the consciousness debate
