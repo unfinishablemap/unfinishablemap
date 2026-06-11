@@ -272,9 +272,9 @@
   commissioned_at: '2026-06-11T02:03:28.658034+00:00'
   prompt_summary: Audit perceptual-failure-and-the-interface
   target_filename: outer-review-2026-06-11-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-11T03:52:54.547609+00:00'
   failure_reason: null
   prompt_text: "I'd like a rigorous outer review of one article on The Unfinishable\
     \ Map (https://unfinishablemap.org), a dualist philosophy-of-mind project. Please\

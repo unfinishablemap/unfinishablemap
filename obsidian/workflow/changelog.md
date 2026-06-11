@@ -5,6 +5,15 @@ ai_modified: 2026-06-10T14:32:12+00:00
 ai_system: claude-fable-5
 ---
 
+## 2026-06-11T04:10:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [[reviews/outer-review-2026-06-11-chatgpt-5-5-pro]]
+- **Subject**: topics/perceptual-failure-and-the-interface (recent-aged fallback; leg 1 of a 3-reviewer triple, Claude Fable 5 + Gemini pending)
+- **Claims verified**: 3 (Martina → Erkenntnis 89:3229–3246 (2024) + relationalist perspective; Brogaard & Gatzia 2023 contested-blindsight chapter; article-internal claims checked against source)
+- **High-value findings**: 4 (under-engaged PP rival; naive-realist rival not in strongest form; Skrzypulec/dissociation boundary-substitution; Martina citation-role + metadata)
+- **Tasks generated**: 3 (P1: 1 consolidated rival-engagement refine w/ direct-refutation remit; P2: 2 — citation-metadata fix, PP reciprocal cross-links). Execution deferred to /combine-outer-reviews per same-subject triple.
+
 ## 2026-06-11T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-returning-attention]]

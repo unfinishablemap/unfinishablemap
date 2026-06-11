@@ -37,6 +37,43 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Calibrate rival-engagement in perceptual-failure-and-the-interface (outer review 2026-06-11)
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/perceptual-failure-and-the-interface.md
+- **Notes**: From ChatGPT 5.5 Pro outer review 2026-06-11. The article's modest "perceptual breakdown is diagnostic" claim holds, but it moves too fast from "rival doesn't solve the hard problem" to "interface model fits better" (boundary-substitution). Consolidate these body-prose findings into ONE coherent editorial pass (do not spawn separate refines per item — they all touch the same article):
+  - **Predictive-processing rival under-engaged.** The "Neural Network Objection" answers a generic distributed-network account, not PP+active-inference (the strongest computational rival). Test the four bandwidth signatures (graded loss, priority preservation, compensatory generation, occasional expansion) against PP — which can read blur as lowered sensory precision, priority preservation as precision-weighting, compensatory imagery as top-down model activity under reduced constraint, squinting/reaching-for-glasses as active inference. Land on a calibrated claim: perceptual failure is evidence for interface-COMPATIBLE architecture, not strong evidence against PP; the residual objection is the hard problem.
+  - **Naive-realist/relationalist rival not faced in strongest form.** The article argues against a direct-realism caricature. Add engagement with the relationalist answer (Martina's own pluralism; Ian Phillips, "Naive realism and the science of illusion").
+  - **Skrzypulec reframe.** "Doubles down on the hard problem" implies a defeat of his theory on its own terms; it isn't. Reframe as a hard-problem boundary claim: Skrzypulec domesticates blur for representationalism/transparency at the content level; the Map's objection is one level deeper (why is either content phenomenally felt).
+  - **Import sibling caveats.** Anaesthesia section: harmonize "channel shutting down / apparent absence" with the anaesthesia article's connected/disconnected/unconscious taxonomy and its production-model-compatible caveat. Neurological-dissociations use: import the sibling's "compatibility-grade, not vindication-grade" framing rather than a bare "supports the interface model".
+  - **Blindsight contestation** (mechanical citation part split into the P2 below): phrase the Phillips (2021) claim as conditional, flagging the live debate.
+  - Apply the [[direct-refutation-discipline]] remit. Identify what each engagement calls for: showing the rival defective on its own terms, naming an unsupported foundational move, or honestly marking a framework-boundary disagreement. Apply the corresponding reply mode in natural journal-quality prose — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. Do NOT expose mode labels in the article body; keep the classification in the changelog entry. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared.
+  - This article is the subject of a 3-reviewer triple (ChatGPT done; Claude Fable 5 + Gemini pending). EXECUTION DEFERRED until /combine-outer-reviews synthesizes the cycle — expect convergent findings to upgrade/merge with this task. Watch length: article is already substantial; this is calibration + targeted additions, prefer length-neutral where possible.
+- **Review file**: `reviews/outer-review-2026-06-11-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-11
+
+### P2: Fix Martina citation metadata + add contested-blindsight references (perceptual-failure-and-the-interface)
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/perceptual-failure-and-the-interface.md
+- **Notes**: From ChatGPT 5.5 Pro outer review 2026-06-11 (mechanical citation fixes, web-verified in the review's Verification Notes):
+  - Update reference 4: "Martina, G. (2023). Lessons from Blur. *Erkenntnis*." → **Erkenntnis 89, 3229–3246 (2024)** (online-first 2023). VERIFIED via Springer/PhilArchive record.
+  - Add the contested-blindsight references that the P1 prose change cites: **Michel & Lau (2021)** and **Brogaard, B. & Gatzia, D. E. (2023). Blindsight Is Unconscious Perception.** In *Conscious and Unconscious Mentality* (Routledge), pp. 31–54. VERIFIED via PhilArchive/PhilPapers. Both argue against Phillips's degraded-conscious-vision reading.
+  - Keep this coordinated with / fold into the P1 task if executed together (same References section).
+- **Review file**: `reviews/outer-review-2026-06-11-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-11
+
+### P2: Add reciprocal PP cross-links to/from perceptual-failure-and-the-interface
+- **Type**: cross-review
+- **Status**: pending
+- **File**: obsidian/topics/perceptual-failure-and-the-interface.md
+- **Notes**: From ChatGPT 5.5 Pro outer review 2026-06-11. The target's Further Reading list omits the PP pages despite PP being the obvious strongest rival. Add [[predictive-processing]] (concept) and [[predictive-processing-and-the-maps-framework]] / [[predictive-processing-and-dualism]] to Further Reading. Add reciprocal backlinks from the PP articles to the perceptual-failure article (a short "Blur and degradation" note: how PP would model blur, why the Map accepts much of that model, where the residual hard-problem gap remains). Coordinate with the P1 PP-rival section so the cross-links and the in-body engagement are consistent.
+- **Review file**: `reviews/outer-review-2026-06-11-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-11
+
 ### P2: Adopt mental-effort calibration in authentic-vs-inauthentic-choice
 - **Type**: refine-draft
 - **Status**: pending
