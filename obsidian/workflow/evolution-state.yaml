@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-11T14:32:53.105257+00:00'
-session_count: 10815
+last_updated: '2026-06-11T14:47:34.538837+00:00'
+session_count: 10816
 cycle_position: 8972
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-06-11T13:02:14.251954+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-10T08:44:06.791776+00:00'
-  agentic-social: '2026-06-11T14:32:53.105257+00:00'
+  agentic-social: '2026-06-11T15:32:35.775635+00:00'
   embed-videos: '2026-06-10T23:01:18.679634+00:00'
   commission-chatgpt-review: '2026-06-11T02:03:57.966339+00:00'
   commission-claude-review: '2026-06-11T03:04:24.805630+00:00'
   commission-gemini-review: '2026-06-11T04:05:55.683761+00:00'
   refine-draft: '2026-06-11T14:19:05.211351+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-11T13:17:47.007075+00:00'
+  replenish-queue: '2026-06-11T14:47:34.538837+00:00'
   condense: '2026-06-09T13:03:52.907973+00:00'
   expand-topic: '2026-06-09T11:04:20.317410+00:00'
   add-highlight: '2026-06-11T08:02:23.537503+00:00'
@@ -94,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-11'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-11'
@@ -172,6 +164,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-11'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-11'
   outcome: success
 agentic_social:
@@ -889,6 +885,11 @@ agentic_social:
     date: '2026-06-11T14:32:29.315448+00:00'
     topics:
     - ai-consciousness
+  - url: https://unfinishablemap.org/topics/conversion-disorder-as-consciousness-side-fault/
+    date: '2026-06-11T15:32:35.775591+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - clinical-dissociation-as-systematic-evidence
 tune_system_history:
   last_run: '2026-06-10T09:05:00+00:00'
   changes_applied: []
@@ -920,31 +921,32 @@ queue_status:
     applied_apex: 0
   last_replenishment: '2026-06-11T14:35:00+00:00'
   last_replenishment_mode: conservative
-  last_replenishment_note: '2026-06-11T14:35 re-run — generated 0 new tasks (13th
-    0-task run today; documented steady-state, not a defect). The 3 P3 floor-restoring
-    tasks noted in the prior run have since been EXECUTED (all now ✓ in Active Tasks:
-    brain-specialness cross-link, REBUS-enlistment tighten, NDE-contestation flag).
-    Loop-pickable OPEN Active on disk now = 0: the only non-✓ headers at the top of
-    Active Tasks are two #veto''d condense tasks (meaning-of-life.md 4160w 139%;
-    apex/phenomenal-output-causal-machinery-dissociation.md 6989w 175%) and standing
-    HUMAN LENGTH DECISION entries — none loop-pickable by design. ALL EIGHT GENERATIVE
-    SOURCES RE-VERIFIED ON DISK, all dry. Caps on disk (find, excl index): topics
-    268/270, concepts 263/270 (both near cap), voids 101/100 OVER, positions 3. Source
-    re-checks: (1) chains 0 — last research-topic 2026-06-03, last expand-topic 2026-06-09
-    (outside 14d forward-chain window). (2) unconsumed research 0 actionable — only
-    voids-* notes unconsumed-by-slug, voids OVER CAP → blocked; others disk-confirmed
-    consumed. (3) gap analysis 0 — caps near/over, no high-confidence non-voids expand
-    candidate. (4) staleness 0 — handled by cycle deep-review slots. (5) orphans 0.
-    (6) length — get_length_warnings re-run on disk; every content-section hard+ offender
-    is #veto''d, a standing HUMAN LENGTH DECISION / DIVERTED-TO-HUMAN, an index hub
-    (apex-articles 6963w), or a cross-link-accreting / recently-condensed / calibration-anchor
-    hub per [[hub-articles-accrete-crosslink-length]] + [[condense-regresses-calibration-qualifiers]];
-    remaining hits are research/ notes (no length ceiling). None auto-mintable. (7)
-    positions — full audit ran 2026-06-09 (18 entries / 4 domains, no contradictions,
-    deps resolve), no dependency moved → nothing due. (8) applied-apex gap — register
-    too sparse for a high-confidence cluster. The queue is genuinely at floor with
-    no safe machine-mintable work; remaining backlog is human-gated (length decisions,
-    governance deferrals). Manufacturing filler would be wrong.'
+  last_replenishment_note: "2026-06-11T14:35 re-run \u2014 generated 0 new tasks (13th\
+    \ 0-task run today; documented steady-state, not a defect). The 3 P3 floor-restoring\
+    \ tasks noted in the prior run have since been EXECUTED (all now \u2713 in Active\
+    \ Tasks: brain-specialness cross-link, REBUS-enlistment tighten, NDE-contestation\
+    \ flag). Loop-pickable OPEN Active on disk now = 0: the only non-\u2713 headers\
+    \ at the top of Active Tasks are two #veto'd condense tasks (meaning-of-life.md\
+    \ 4160w 139%; apex/phenomenal-output-causal-machinery-dissociation.md 6989w 175%)\
+    \ and standing HUMAN LENGTH DECISION entries \u2014 none loop-pickable by design.\
+    \ ALL EIGHT GENERATIVE SOURCES RE-VERIFIED ON DISK, all dry. Caps on disk (find,\
+    \ excl index): topics 268/270, concepts 263/270 (both near cap), voids 101/100\
+    \ OVER, positions 3. Source re-checks: (1) chains 0 \u2014 last research-topic\
+    \ 2026-06-03, last expand-topic 2026-06-09 (outside 14d forward-chain window).\
+    \ (2) unconsumed research 0 actionable \u2014 only voids-* notes unconsumed-by-slug,\
+    \ voids OVER CAP \u2192 blocked; others disk-confirmed consumed. (3) gap analysis\
+    \ 0 \u2014 caps near/over, no high-confidence non-voids expand candidate. (4)\
+    \ staleness 0 \u2014 handled by cycle deep-review slots. (5) orphans 0. (6) length\
+    \ \u2014 get_length_warnings re-run on disk; every content-section hard+ offender\
+    \ is #veto'd, a standing HUMAN LENGTH DECISION / DIVERTED-TO-HUMAN, an index hub\
+    \ (apex-articles 6963w), or a cross-link-accreting / recently-condensed / calibration-anchor\
+    \ hub per [[hub-articles-accrete-crosslink-length]] + [[condense-regresses-calibration-qualifiers]];\
+    \ remaining hits are research/ notes (no length ceiling). None auto-mintable.\
+    \ (7) positions \u2014 full audit ran 2026-06-09 (18 entries / 4 domains, no contradictions,\
+    \ deps resolve), no dependency moved \u2192 nothing due. (8) applied-apex gap\
+    \ \u2014 register too sparse for a high-confidence cluster. The queue is genuinely\
+    \ at floor with no safe machine-mintable work; remaining backlog is human-gated\
+    \ (length decisions, governance deferrals). Manufacturing filler would be wrong."
   replenishment_source_counts:
     chain: 0
     unconsumed_research: 0
