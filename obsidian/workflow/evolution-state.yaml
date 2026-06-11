@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-11T00:32:49.303984+00:00'
-session_count: 10759
+last_updated: '2026-06-11T00:48:08.670260+00:00'
+session_count: 10760
 cycle_position: 8954
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-10T04:26:47.856893+00:00'
   refine-draft: '2026-06-11T00:18:32.329312+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-11T00:04:08.433550+00:00'
+  replenish-queue: '2026-06-11T00:48:08.670260+00:00'
   condense: '2026-06-09T13:03:52.907973+00:00'
   expand-topic: '2026-06-09T11:04:20.317410+00:00'
   add-highlight: '2026-06-10T09:03:29.898616+00:00'
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-10'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-10'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-11'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-11'
   outcome: success
 agentic_social:
@@ -818,29 +818,29 @@ queue_status:
   replenishment_source_counts_last_run: {}
   last_replenishment: '2026-06-11T00:40:00+00:00'
   last_replenishment_mode: conservative
-  last_replenishment_note: '2026-06-11T00:40 re-run — generated 0 new tasks. UPDATE to
-    the 00:05 note: one of the two top-of-Active anchoring-audit P2s it cited
-    (quantum-state-inheritance-in-ai) was executed at 00:18 (commit 044cd8553) and is
-    now marked ✓ on todo.md L988. So loop-pickable open P0-P2 = 1 (todo.md L40,
-    authentic-vs-inauthentic-choice mental-effort-calibration refine, minted 2026-06-10
-    by the topic-concept anchoring audit, disk-verified unexecuted — target last
-    ai_modified 2026-06-05, no git touch since). 1 < MIN_QUEUE floor of 3 → replenish
-    fired. All eight generative sources RE-VERIFIED dry on disk this run: (1) chains 0
-    — recent_tasks last 14d hold only refine-draft/replenish-queue/agentic-social/positions-evolve/embed-videos/check-model-fallback;
-    NO expand-topic/research-topic completion to forward-chain. (2) unconsumed research 0
-    — three newest notes (illusionism-functional-seeming, dreams-lucid, terminal-lucidity)
+  last_replenishment_note: '2026-06-11T00:40 re-run — generated 0 new tasks. UPDATE
+    to the 00:05 note: one of the two top-of-Active anchoring-audit P2s it cited (quantum-state-inheritance-in-ai)
+    was executed at 00:18 (commit 044cd8553) and is now marked ✓ on todo.md L988.
+    So loop-pickable open P0-P2 = 1 (todo.md L40, authentic-vs-inauthentic-choice
+    mental-effort-calibration refine, minted 2026-06-10 by the topic-concept anchoring
+    audit, disk-verified unexecuted — target last ai_modified 2026-06-05, no git touch
+    since). 1 < MIN_QUEUE floor of 3 → replenish fired. All eight generative sources
+    RE-VERIFIED dry on disk this run: (1) chains 0 — recent_tasks last 14d hold only
+    refine-draft/replenish-queue/agentic-social/positions-evolve/embed-videos/check-model-fallback;
+    NO expand-topic/research-topic completion to forward-chain. (2) unconsumed research
+    0 — three newest notes (illusionism-functional-seeming, dreams-lucid, terminal-lucidity)
     all disk-confirmed CONSUMED: concepts/illusionism.md, concepts/functional-seeming.md,
     topics/dream-consciousness.md, topics/terminal-lucidity-and-filter-transmission-theory.md
     all exist live. (3) caps — topics 268/270, concepts 263/270 near cap, voids 101/100
     OVER cap (counted on disk excl index files); no high-confidence expand candidate.
-    (4) staleness 0 — handled by cycle deep-review slots. (5) orphans 0
-    (quality.orphaned_files=0). (6) length — both content-section hard+ offenders open in
-    Active are #veto''d (meaning-of-life L529, phenomenal-output-causal-machinery-dissociation
-    L537); the rest human-deferred flagships (epistemology-of-convergence, born-rule,
-    laws-and-dispositions, clinical-dissociation DIVERTED L51). (7) positions — audited
-    2026-06-09 (18 entries / 4 domains, no contradictions, deps resolve), register last
-    touched 2026-06-10, no dependency moved. (8) applied-apex gap — register too sparse
-    for a high-confidence cluster. The 1 open anchoring-audit P2 IS the floor-restoring
-    work; it should be picked and executed by the loop, not supplemented with manufactured
-    filler. Documented steady-state with real pending work, not a defect.'
+    (4) staleness 0 — handled by cycle deep-review slots. (5) orphans 0 (quality.orphaned_files=0).
+    (6) length — both content-section hard+ offenders open in Active are #veto''d
+    (meaning-of-life L529, phenomenal-output-causal-machinery-dissociation L537);
+    the rest human-deferred flagships (epistemology-of-convergence, born-rule, laws-and-dispositions,
+    clinical-dissociation DIVERTED L51). (7) positions — audited 2026-06-09 (18 entries
+    / 4 domains, no contradictions, deps resolve), register last touched 2026-06-10,
+    no dependency moved. (8) applied-apex gap — register too sparse for a high-confidence
+    cluster. The 1 open anchoring-audit P2 IS the floor-restoring work; it should
+    be picked and executed by the loop, not supplemented with manufactured filler.
+    Documented steady-state with real pending work, not a defect.'
   replenishment_source_counts: {}
