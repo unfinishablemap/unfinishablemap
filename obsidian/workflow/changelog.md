@@ -5,6 +5,15 @@ ai_modified: 2026-06-10T14:32:12+00:00
 ai_system: claude-fable-5
 ---
 
+## 2026-06-11T04:25:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5
+- **File**: [[reviews/outer-review-2026-06-11-claude-fable-5]]
+- **Subject**: topics/perceptual-failure-and-the-interface (recent-aged fallback; leg 2 of a 3-reviewer triple, Gemini pending)
+- **Claims verified**: 5 (article-internal: Skrzypulec/Martina co-optation framing, psychedelic DMN/filter framing, dangling MQI + Occam-shield passages all confirmed against live article; external: entropic-brain entropy-INCREASE direction web-verified via Carhart-Harris 2018 + REBUS)
+- **High-value findings**: 4 (psychedelic empirical direction INVERTED — entropy increases, not "less brain more mind"; filter/reducing-valve vs interactionism tenet tension; dangling MQI + Occam-as-shield; co-optation of PP/psychedelic-neuroscience roster — Seth/Clark/Hohwy/Friston/Carhart-Harris). Strong convergence with the ChatGPT leg on the unaddressed predictive-processing rival and Skrzypulec/Martina co-optation.
+- **Tasks generated**: 2 (P1: distinct-findings refine — entropy-inversion fix + filter/interactionism tension + MQI/Occam, w/ direct-refutation remit; P2: extend co-optation firewall to PP/psychedelic roster, site methodology). Did NOT duplicate the ChatGPT triple's PP-rival/Skrzypulec/Martina/blindsight tasks. Execution deferred to /combine-outer-reviews per same-subject triple.
+
 ## 2026-06-11T04:10:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.5 Pro

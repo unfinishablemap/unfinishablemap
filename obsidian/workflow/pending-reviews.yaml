@@ -299,9 +299,9 @@
   commissioned_at: '2026-06-11T03:03:51.574459+00:00'
   prompt_summary: Audit perceptual-failure-and-the-interface (Fable 5)
   target_filename: outer-review-2026-06-11-claude-fable-5.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-11T04:18:21.063462+00:00'
   failure_reason: null
   prompt_text: "Please conduct a rigorous, referee-style audit of one article on The\
     \ Unfinishable Map (https://unfinishablemap.org), a dualist philosophy-of-mind\
