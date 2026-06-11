@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-11T00:48:08.670260+00:00'
-session_count: 10760
-cycle_position: 8954
+last_updated: '2026-06-11T01:02:48.713197+00:00'
+session_count: 10761
+cycle_position: 8955
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-10T11:04:16.900171+00:00'
   optimistic-review: '2026-06-10T13:33:33.135955+00:00'
   check-tenets: '2026-06-10T08:19:31.690481+00:00'
   check-links: '2026-06-10T07:49:05.864146+00:00'
-  deep-review: '2026-06-10T18:47:22.704447+00:00'
+  deep-review: '2026-06-11T01:02:48.713197+00:00'
   tune-system: '2026-06-10T08:48:52.476985+00:00'
   research-voids: '2026-06-10T08:01:34.308293+00:00'
   coalesce: '2026-06-10T16:03:29.051888+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-10T04:26:47.856893+00:00'
   refine-draft: '2026-06-11T00:18:32.329312+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-11T00:48:08.670260+00:00'
+  replenish-queue: '2026-06-11T01:10:00.000000+00:00'
   condense: '2026-06-09T13:03:52.907973+00:00'
   expand-topic: '2026-06-09T11:04:20.317410+00:00'
   add-highlight: '2026-06-10T09:03:29.898616+00:00'
@@ -85,7 +85,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 394
-  reviews_completed: 5255
+  reviews_completed: 5256
   apex_articles: 34
 quality:
   critical_issues: 0
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-10'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-10'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-11'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-11'
   outcome: success
 agentic_social:
@@ -816,9 +816,38 @@ queue_status:
   p3_tasks: 3
   needs_replenishment: false
   replenishment_source_counts_last_run: {}
-  last_replenishment: '2026-06-11T00:40:00+00:00'
+  last_replenishment: '2026-06-11T01:10:00+00:00'
   last_replenishment_mode: conservative
-  last_replenishment_note: '2026-06-11T00:40 re-run — generated 0 new tasks. UPDATE
+  last_replenishment_note: '2026-06-11T01:10 re-run — generated 0 new tasks. All eight
+    generative sources independently RE-VERIFIED dry on disk. Loop-pickable open P0-P2
+    = 1 (todo.md L40, authentic-vs-inauthentic-choice mental-effort-calibration refine,
+    from the 2026-06-10 topic-concept anchoring audit; target last touched 2026-06-05
+    deep-review, NO git edit since → genuinely unexecuted). The two other ### P[0-2]
+    in Active are both #veto''d (meaning-of-life condense L529, phenomenal-output-causal-machinery-dissociation
+    condense L537). 1 < MIN_QUEUE floor of 3 → replenish fired. Sources: (1) chains
+    0 — recent_tasks last 14d hold NO expand-topic/research-topic completion to forward-chain
+    (only refine-draft/replenish/agentic-social/positions-evolve/embed-videos/check-model-fallback/deep-review).
+    (2) unconsumed research 0 — newest notes all disk-confirmed consumed: illusionism-functional-seeming
+    → concepts/illusionism+functional-seeming; dreams/terminal-lucidity → topics/dream-consciousness+terminal-lucidity;
+    anaesthetic-recovery → topics/anaesthesia-and-the-consciousness-interface + recovery-order-asymmetry;
+    phenomenal-concepts-strategy → concepts/phenomenal-concepts-strategy + topics/phenomenal-concepts-as-materialist-response;
+    dopamine-attention-motor → topics/dopamine-and-the-unified-interface. (3) caps —
+    topics 268/270, concepts 263/270 (both near cap), voids 101/100 OVER, positions
+    3-on-disk-but-18-registered (counted on disk excl index files); no high-confidence
+    expand candidate. (4) staleness 0 — handled by cycle deep-review slots. (5) orphans
+    0 (quality.orphaned_files=0). (6) length — ALL hard+ content-section offenders
+    (18) re-listed on disk and each is either #veto''d (meaning-of-life, phenomenal-output-causal-machinery-dissociation),
+    DIVERTED-TO-HUMAN (clinical-dissociation L51), or a human-deferred calibration-flagship
+    / cross-link-accreting hub (epistemology-of-convergence, born-rule, laws-and-dispositions,
+    apex-articles index, filter-theory, etc.) per [[hub-articles-accrete-crosslink-length]]
+    + [[unfin-loop-steady-state]]; auto-condensing these risks [[condense-regresses-calibration-qualifiers]]
+    — NOT auto-mintable filler. (7) positions — full audit ran 2026-06-09 (18 entries
+    / 4 domains, no contradictions, deps resolve), register last touched 2026-06-10,
+    no dependency moved → no add/update/audit due. (8) applied-apex gap — register
+    too sparse for a high-confidence cluster. The 1 open anchoring-audit P2 IS the
+    floor-restoring work; it should be picked and executed by the loop, not supplemented
+    with manufactured filler. Documented steady-state with real pending work, not a
+    defect. PRIOR NOTE (kept for context): 2026-06-11T00:40 re-run — generated 0 new tasks. UPDATE UPDATE
     to the 00:05 note: one of the two top-of-Active anchoring-audit P2s it cited (quantum-state-inheritance-in-ai)
     was executed at 00:18 (commit 044cd8553) and is now marked ✓ on todo.md L988.
     So loop-pickable open P0-P2 = 1 (todo.md L40, authentic-vs-inauthentic-choice
