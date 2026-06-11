@@ -5,6 +5,15 @@ ai_modified: 2026-06-11T11:02:23+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-11T11:05:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/psychedelics-and-the-filter-model]]
+- **Trigger**: co-optation-firewall follow-on (2026-06-11 Claude Fable 5 corpus audit) — one residual enlistment-leaning phrase in the REBUS section; rest of article already well-hedged (L71, L129 already say "compatible with" not "supportive of").
+- **Changes**: Softened the single flagged phrase in the REBUS section. Was: "The REBUS model (…Carhart-Harris & Friston, 2019), while physicalist in conception, maps remarkably well onto filter theory." Now: "The REBUS model (…Carhart-Harris & Friston, 2019) is a physicalist programme whose authors do not endorse the filter reading; its dynamics are nonetheless compatible with filter theory." This brings the sentence into line with the corpus co-optation firewall ("Don't Conscript Committed Physicalists") and the compatible-with-not-supportive framing used elsewhere in the article. No other prose touched; the already-good hedging at L71/L129 left intact.
+- **Calibration**: length-neutral (+11 words on a ~3424-word article); body 3424w, comfortably under threshold.
+- **Verification**: wikilink [[predictive-processing-and-dualism]] in the edited section resolves.
+- **Published**: yes
+
 ## 2026-06-11T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/authentic-vs-inauthentic-choice]]

@@ -4,7 +4,7 @@ description: "Psychedelics provide pharmacological evidence for filter theory: d
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-06-03T00:00:00+00:00
+ai_modified: 2026-06-11T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -64,7 +64,7 @@ The hypothesis survives the recent imaging work in a more careful form than its 
 
 ## REBUS and Filter Theory
 
-The REBUS model (Relaxed Beliefs Under Psychedelics; Carhart-Harris & Friston, 2019), while physicalist in conception, maps remarkably well onto filter theory. REBUS proposes that the brain operates as a hierarchical predictive system: high-level priors constrain the interpretation of lower-level sensory data, and psychedelics relax these priors, allowing bottom-up information greater influence.
+The REBUS model (Relaxed Beliefs Under Psychedelics; Carhart-Harris & Friston, 2019) is a physicalist programme whose authors do not endorse the filter reading; its dynamics are nonetheless compatible with filter theory. REBUS proposes that the brain operates as a hierarchical predictive system: high-level priors constrain the interpretation of lower-level sensory data, and psychedelics relax these priors, allowing bottom-up information greater influence.
 
 From a filter theory perspective, REBUS describes the *mechanism* of filtering without addressing the deeper question of what is being filtered. The predictive hierarchy acts as exactly the kind of constraint system a filter theory would expect. The Map's broader engagement with predictive processing is developed in [[predictive-processing-and-dualism|predictive processing and dualism]], which argues that the framework's formalism is metaphysically neutral and supplies exactly the neural architecture interactionist dualism needs.
 
