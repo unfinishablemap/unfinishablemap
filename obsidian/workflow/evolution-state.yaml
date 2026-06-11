@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-10T23:33:01.355737+00:00'
-session_count: 10755
-cycle_position: 8952
+last_updated: '2026-06-10T23:47:49.890598+00:00'
+session_count: 10756
+cycle_position: 8953
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-10T11:04:16.900171+00:00'
@@ -22,9 +22,9 @@ last_runs:
   commission-chatgpt-review: '2026-06-10T02:09:21.706316+00:00'
   commission-claude-review: '2026-06-10T03:09:16.110773+00:00'
   commission-gemini-review: '2026-06-10T04:26:47.856893+00:00'
-  refine-draft: '2026-06-10T20:47:48.052889+00:00'
+  refine-draft: '2026-06-10T23:47:49.890598+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-10T22:32:23.738700+00:00'
+  replenish-queue: '2026-06-11T00:05:00+00:00'
   condense: '2026-06-09T13:03:52.907973+00:00'
   expand-topic: '2026-06-09T11:04:20.317410+00:00'
   add-highlight: '2026-06-10T09:03:29.898616+00:00'
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-10'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-10'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-10'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-10'
   outcome: success
 agentic_social:
@@ -805,33 +805,43 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 0
+  p2_tasks: 2
   p3_tasks: 3
   needs_replenishment: false
   replenishment_source_counts_last_run: {}
-  last_replenishment: '2026-06-10T22:20:00+00:00'
+  last_replenishment: '2026-06-11T00:05:00+00:00'
   last_replenishment_mode: conservative
-  last_replenishment_note: '2026-06-10T22:20 re-run — steady-state saturation re-confirmed
-    independently on-disk (SIXTH confirmation of the day; identical to the 20:20,
-    20:32, 20:48, 21:30 and 21:55 runs). Generated 0 new tasks, promoted none. Open
-    executable P0-P2 in Active Tasks = 0: enumerated every non-✓ header strictly within
-    Active Tasks (lines 38–977; ## Completed at 977) — only 2 #veto''d P2 condense
-    tasks (meaning-of-life.md L524, phenomenal-output-causal-machinery-dissociation.md
-    L532, both not loop-pickable), 2 HUMAN-LENGTH-DECISION duhem-quine tasks (L130,
-    L139, human-gated), and 1 open P3 positions-evolve audit (L54: P-A3 atemporal
-    vs P-Q1 forward-in-time soft tension — a substantive human calibration call).
-    Floor of 3 P3 has NO safe promotion. All 8 generative sources re-verified dry
-    on disk this run: (1) chains 0 (recent_tasks types = replenish-queue/agentic-social/refine-draft/deep-review/positions-evolve/coalesce;
-    no expand-topic or research-topic completion to forward-chain); (2) unconsumed
-    research 0 (no research note newer than 2026-06-03; recent notes verified consumed
-    in prior runs); (3) gap analysis 0 (topics 268/270, concepts 263/270 near cap,
-    voids 101/100 OVER cap — counted on disk excluding index files); (4) staleness
-    0 (cycle deep-review slots handle it); (5) orphans 0 (quality.orphaned_files=0);
-    (6) length — content-section hard+ offenders all protected (human-deferred flagships,
-    the 2 #veto''d condense tasks, void hub-cross-link accretion per [[hub-articles-accrete-crosslink-length]]);
-    (7) positions — audited 2026-06-09 within 30d, stable deps, 1 follow-up P3 already
-    queued; (8) applied-apex gap — register too sparse (4 domain files / 18 entries)
-    to support a high-confidence applied-apex cluster. Manufacturing churn or auto-condensing
-    a protected flagship to hit the numeric floor would be net-negative. Documented
-    steady-state, not a defect.'
+  last_replenishment_note: '2026-06-11T00:05 re-run — generated 0 new tasks. CORRECTION
+    to the 2026-06-10 22:20 note: the queue is NOT at 0 open executable P0-P2. Two
+    genuinely-open loop-pickable P2 refine-draft tasks sit at the TOP of Active Tasks
+    (todo.md L40 quantum-state-inheritance-in-ai, L51 authentic-vs-inauthentic-choice),
+    both minted 2026-06-10 by the topic-concept anchoring audit (Audit Three of the
+    calibration-audit-triple). Verified unexecuted on disk: neither target file has
+    been ai_modified since generation (quantum-state-inheritance 2026-06-08, authentic-vs-inauthentic
+    2026-06-05; last git touches predate the audit). So loop-pickable open P0-P2 =
+    2, below the MIN_QUEUE floor of 3 — replenishment correctly fired. But all eight
+    generative sources re-verified dry on disk this run, so NO safe mint exists to
+    top up to 3: (1) chains 0 — recent_tasks last 14d hold only replenish-queue/agentic-social/refine-draft/positions-evolve/check-model-fallback/embed-videos
+    types; NO expand-topic or research-topic completion to forward-chain. (2) unconsumed
+    research 0 — newest research note mtime 2026-06-05 (cross-species), all recent
+    notes verified consumed in prior runs. (3) gap analysis 0 — topics 268/270, concepts
+    263/270 near cap, voids 101/100 OVER cap (counted on disk excluding index files).
+    (4) staleness 0 — cycle deep-review slots handle it. (5) orphans 0 (quality.orphaned_files=0).
+    (6) length — content-section hard+ offenders all protected: human-deferred calibration
+    flagships (epistemology-of-convergence 6479w, born-rule 5106w, laws-and-dispositions
+    4213w, clinical-dissociation 4863w already a DIVERTED-TO-HUMAN task, composition
+    4045w), 2 #veto''d condense tasks (meaning-of-life L540, phenomenal-output-causal-machinery-dissociation
+    L548 6835w), apex-articles.md 6963w (section index hub, not a condense target),
+    voids hub-cross-link accretion (agency-void, what-voids-reveal, wholeheartedness-void,
+    edge-states per [[hub-articles-accrete-crosslink-length]]), and recently git-condensed
+    topics (argument-from-reason, epistemic-advantages, time-collapse, filter-theory)
+    — re-condensing risks calibration regression. (7) positions — audited 2026-06-09
+    (18 entries / 4 domains; NO contradictions, all Argued-in deps resolve live), 1
+    follow-up P3 (P-A3/P-Q1 soft tension) already queued; register last touched 2026-06-10,
+    no dependency moved. (8) applied-apex gap — register too sparse for a high-confidence
+    applied-apex cluster. The 2 open anchoring-audit P2s ARE the floor-restoring work
+    — they should be picked and executed by the loop, not supplemented with manufactured
+    filler. Documented steady-state with real pending work, not a defect. PRIOR NOTE
+    WAS STALE: its enumeration missed the two top-of-Active anchoring-audit P2s minted
+    after it ran.'
   replenishment_source_counts: {}
