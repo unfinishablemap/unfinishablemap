@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-11T08:33:05.626809+00:00'
-session_count: 10791
+last_updated: '2026-06-11T08:48:04.852726+00:00'
+session_count: 10792
 cycle_position: 8962
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-11T04:05:55.683761+00:00'
   refine-draft: '2026-06-11T07:18:58.249647+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-11T08:17:25.207078+00:00'
+  replenish-queue: '2026-06-11T08:48:04.852726+00:00'
   condense: '2026-06-09T13:03:52.907973+00:00'
   expand-topic: '2026-06-09T11:04:20.317410+00:00'
   add-highlight: '2026-06-11T08:02:23.537503+00:00'
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-chatgpt-review
-  type: collect-chatgpt-review
-  date: '2026-06-11'
-  outcome: success
 - task: commission-gemini-review
   type: commission-gemini-review
   date: '2026-06-11'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-11'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-11'
   outcome: success
 agentic_social:
@@ -919,14 +919,14 @@ queue_status:
     combine-outer-reviews ran 05:05) so its tasks are loop-pickable, not deferred-until-synthesis.
     2 < MIN_QUEUE floor of 3 → replenish fired, but the floor-restoring work already
     EXISTS; manufacturing filler would be wrong. Documented steady-state with real
-    pending work, not a defect. The picture changed from
-    tonight''s earlier 0-task runs: the 2026-06-11 outer-review cycle has now been
-    SYNTHESIZED (combine-outer-reviews ran 05:05; reviews/outer-review-synthesis-2026-06-11.md
-    EXISTS), so its tasks are no longer deferred-until-synthesis and ARE loop-pickable.
-    Current pickable Active (above ## Completed, not ✓/veto): (a) P2 L40 — extend
-    co-optation firewall to the predictive-processing/psychedelic-neuroscience roster
-    (Seth/Clark/Hohwy/Friston/Carhart-Harris) in project/writing-style.md, from the
-    Claude Fable 5 outer review; (b) P2 L58 — adopt mental-effort calibration in topics/authentic-vs-inauthentic-choice.md,
+    pending work, not a defect. The picture changed from tonight''s earlier 0-task
+    runs: the 2026-06-11 outer-review cycle has now been SYNTHESIZED (combine-outer-reviews
+    ran 05:05; reviews/outer-review-synthesis-2026-06-11.md EXISTS), so its tasks
+    are no longer deferred-until-synthesis and ARE loop-pickable. Current pickable
+    Active (above ## Completed, not ✓/veto): (a) P2 L40 — extend co-optation firewall
+    to the predictive-processing/psychedelic-neuroscience roster (Seth/Clark/Hohwy/Friston/Carhart-Harris)
+    in project/writing-style.md, from the Claude Fable 5 outer review; (b) P2 L58
+    — adopt mental-effort calibration in topics/authentic-vs-inauthentic-choice.md,
     from the 2026-06-10 topic-concept anchoring audit; (c) P3 L49 — flag NDE-evidence
     (van Lommel 2001) contestation in topics/perceptual-failure-and-the-interface.md,
     the one genuinely-actionable Gemini item (its 3 other "findings" are FABRICATED

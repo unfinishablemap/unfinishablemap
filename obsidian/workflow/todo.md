@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Extend co-optation firewall to predictive-processing / psychedelic-neuroscience roster (outer review 2026-06-11, Claude Fable 5)
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/project/writing-style.md
-- **Notes**: From Claude Fable 5 outer review 2026-06-11 (site-wide methodology, List B). The co-optation firewall already built for McGinn and Schwitzgebel (the 2026-06-08 corpus-wide co-optation-discipline audit; epistemic-to-metaphysical firewall) does NOT yet cover the predictive-processing / psychedelic-neuroscience roster — Anil Seth, Andy Clark, Jakob Hohwy, Karl Friston, Robin Carhart-Harris — who are committed physicalists/naturalists whose work (REBUS, the entropic brain, controlled-hallucination) is recruited toward dualist filter conclusions their authors build the opposite model to avoid. The Claude review documents this across at least two linked articles (perceptual-failure-and-the-interface and its sibling psychedelics-and-the-filter-model). Action: (1) extend the co-optation discipline's roster/guidance to name this PP+psychedelic-neuroscience cohort; (2) corpus-wide grep for these authors (incl. research/) and audit each occurrence for conscript-vs-cite-as-rival. Keep this as a methodology/discipline note; the per-article fixes for perceptual-failure are handled by the P1 tasks above. See [[direct-refutation-discipline]] and [[evidential-status-discipline]]. Coordinate with /combine-outer-reviews — if Gemini's same-day review converges on the co-optation roster, this upgrades.
-- **Review file**: `reviews/outer-review-2026-06-11-claude-fable-5.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-11
-
 ### P3: Flag NDE-evidence contestation in perceptual-failure-and-the-interface (outer review 2026-06-11, Gemini 2.5 Pro)
 - **Type**: refine-draft
 - **Status**: pending
@@ -1002,6 +993,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-11: Extend co-optation firewall to predictive-processing / psychedelic-neuroscience roster (outer review 2026-06-11, Claude Fable 5)
+- **Type**: refine-draft
+- **Notes**: From Claude Fable 5 outer review 2026-06-11 (site-wide methodology, List B). The co-optation firewall already built for McGinn and Schwitzgebel (the 2026-06-08 corpus-wide co-optation-discipline audit; epistemic-to-metaphysical firewall) does NOT yet cover the predictive-processing / psychedelic-neuroscience roster — Anil Seth, Andy Clark, Jakob Hohwy, Karl Friston, Robin Carhart-Harris — who are committed physicalists/naturalists whose work (REBUS, the entropic brain, controlled-hallucination) is recruited toward dualist filter conclusions their authors build the opposite model to avoid. The Claude review documents this across at least two linked articles (perceptual-failure-and-the-interface and its sibling psychedelics-and-the-filter-model). Action: (1) extend the co-optation discipline's roster/guidance to name this PP+psychedelic-neuroscience cohort; (2) corpus-wide grep for these authors (incl. research/) and audit each occurrence for conscript-vs-cite-as-rival. Keep this as a methodology/discipline note; the per-article fixes for perceptual-failure are handled by the P1 tasks above. See [[direct-refutation-discipline]] and [[evidential-status-discipline]]. Coordinate with /combine-outer-reviews — if Gemini's same-day review converges on the co-optation roster, this upgrades.
 
 ### ✓ 2026-06-11: Calibrate convergence/eliminativism/decoherence framing in philosophy-of-mind
 - **Type**: refine-draft

@@ -5,6 +5,21 @@ ai_modified: 2026-06-11T12:40:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-11T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[project/writing-style]]
+- **Source**: Claude Fable 5 outer-review P2 (2026-06-11, site-wide methodology) — extend the co-optation firewall (epistemic-to-metaphysical) to cover the predictive-processing / psychedelic-neuroscience cohort; corpus audit only (no content-article edits this pass).
+- **Change**: Added a new subsection "Don't Conscript Committed Physicalists (the Co-optation Firewall)" after *Engaging Opponents in Journal-Quality Prose*. Existing co-optation discipline lived in [[project/calibration-audit-triple]] Audit Six and [[project/evidential-status-discipline]] (source-role table); writing-style.md had no co-optation section, so this consolidates the prose-discipline statement here in the *Engaging Opponents* voice and points at both underlying disciplines. Roster now names: the original anti-dualist analytic roster (Shanahan, McGinn, Nagel, Schwitzgebel, Dennett, Metzinger, Hernández-Orallo) PLUS the PP/active-inference roster (Seth, Clark, Hohwy, Friston — incl. Friston's Markovian monism as explicitly anti-dualist) PLUS the psychedelic-neuroscience roster (Carhart-Harris; REBUS / entropic brain). Framed as cite-as-rival not cite-as-ally; canonical worked fix cited as [[perceptual-failure-and-the-interface]]. Applied [[direct-refutation-discipline]] / [[evidential-status-discipline]] framing.
+- **Corpus audit (grep incl research/, 5 authors: Seth, Clark, Hohwy, Friston, Carhart-Harris)**:
+  - `topics/perceptual-failure-and-the-interface` — CONFIRMED FIXED (P1 passes). PP/active inference engaged as "the serious computational rival" that "co-opts this article's evidence base most directly"; cite-as-rival framing intact. NOT re-edited.
+  - `topics/psychedelics-and-the-filter-model` — BORDERLINE conscription, well-hedged. Lines 71/129 explicitly state REBUS evidence is *compatible with* not *supporting of* filter theory ("coherence rather than evidential support over rivals"). But L67–69 ("maps remarkably well onto filter theory", "exactly the kind of constraint system a filter theory would expect") still leans toward enlisting Carhart-Harris & Friston rather than engaging them as rivals who built REBUS to avoid the dualist reading. FOLLOW-ON candidate (mild — hedges substantially mitigate).
+  - `topics/predictive-processing-and-dualism` — STRONGEST conscription instance. L45 "Far from threatening dualism, PP is its most productive scientific ally" enlists Friston/Clark/Hohwy/Seth's framework as ally; "Friston's Markovian monism... reveals more than it intends". Mixed: genuine cite-as-rival also present (L77 meta-problem rebuttal, L99 "even though Clark draws different conclusions"). FOLLOW-ON candidate (strongest — reframe "ally" language as cite-as-rival).
+  - `apex/altered-states-as-interface-evidence` — BORDERLINE conscription, less hedged than the psychedelics topic. L88 "REBUS describes the mechanism in physicalist terms... Filter theory reinterprets the same mechanism" without marking Carhart-Harris/Friston as rivals. FOLLOW-ON candidate.
+  - `concepts/filter-theory`, `concepts/altered-states-of-consciousness`, `concepts/perceptual-degradation-and-the-interface` — Carhart-Harris (2012) cited for the empirical neuroimaging *finding* (legitimate). filter-theory L82 "aligns with recent REBUS models" mildly conscripting but the dedicated-article cross-link carries the compatibility-not-support hedge. LOW priority; likely covered once the topic articles above are fixed.
+  - Remaining hits (Seth/Clark/Hohwy/Friston in `research/*`, and scattered concept/void cites) — predominantly literature-summary research notes (naming authors is expected, not conscription) or cite-the-finding usages; no further high-signal conscription found in this pass.
+- **Follow-on (NOT done this pass, per task constraint — edit target was writing-style.md only)**: queue refine-draft tasks for `topics/predictive-processing-and-dualism` (P2, strongest), `apex/altered-states-as-interface-evidence` (P2), `topics/psychedelics-and-the-filter-model` (P3, mild).
+- **Published**: yes (draft: false unchanged)
+
 ## 2026-06-11T13:10:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/philosophy-of-mind]]
