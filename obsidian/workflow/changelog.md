@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-10T14:32:12+00:00
-ai_system: claude-fable-5
+ai_modified: 2026-06-11T05:05:00+00:00
+ai_system: claude-opus-4-8
 ---
+
+## 2026-06-11T05:05:00+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-11
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-5-pro, claude-fable-5, gemini-2-5-pro). All audited topics/perceptual-failure-and-the-interface.
+- **Clusters**: 4 convergent (3 at three-reviewer strength: PP-rival unaddressed, Skrzypulec/Martina co-optation, blindsight contestation; 1 at two-reviewer: Carhart-Harris 2012 over-reliance), 4 singleton, 0 divergent
+- **Tasks upgraded**: 2 (P2→P1: "Add reciprocal PP cross-links"; P2→P1: "Fix Martina citation metadata + add contested-blindsight references"). Two already-P1 tasks (ChatGPT calibration, Claude entropy-inversion) annotated with convergence + plural Review files, priority unchanged (capped at P1).
+- **Tasks deduplicated**: 0 (the per-reviewer tasks were already authored as distinct, non-duplicating slices of one consolidated editorial pass; no redundant siblings to delete)
+- **Method note**: Gemini's three fabricated attributions (10 bits/sec, quantum-biasing/Müller-Lyer, Necker/PP strawman) excluded from convergence; convergent PP/Carhart-Harris/blindsight findings rest on the verified kernel, not Gemini's fabricated framing.
+- **Output**: [[reviews/outer-review-synthesis-2026-06-11]]
 
 ## 2026-06-11T05:05:00+00:00 - outer-review
 - **Status**: Success

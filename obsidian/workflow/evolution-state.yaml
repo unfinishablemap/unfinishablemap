@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-11T04:32:47.077743+00:00'
-session_count: 10775
+last_updated: '2026-06-11T04:56:30.107693+00:00'
+session_count: 10776
 cycle_position: 8955
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -32,7 +32,7 @@ last_runs:
   collect-chatgpt-review: '2026-06-11T03:56:12.664287+00:00'
   collect-claude-review: '2026-06-11T04:22:04.847555+00:00'
   combine-outer-reviews: '2026-06-10T05:24:39.441254+00:00'
-  collect-gemini-review: '2026-06-10T05:19:03.075456+00:00'
+  collect-gemini-review: '2026-06-11T04:56:30.107693+00:00'
   positions-evolve: '2026-06-10T22:48:24.211235+00:00'
   check-model-fallback: '2026-06-10T23:16:18.569351+00:00'
 last_git_push: '2026-06-11T01:17:52.677922+00:00'
@@ -85,7 +85,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 394
-  reviews_completed: 5258
+  reviews_completed: 5259
   apex_articles: 34
 quality:
   critical_issues: 0
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-10'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-11'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-11'
+  outcome: success
+- task: collect-gemini-review
+  type: collect-gemini-review
   date: '2026-06-11'
   outcome: success
 agentic_social:
