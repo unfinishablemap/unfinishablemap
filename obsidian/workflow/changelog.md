@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-11T07:15:00+00:00
+ai_modified: 2026-06-11T07:40:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-11T07:40:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/philosophy-of-mind.md` (stalest substantive non-index article by last_deep_review; never a dedicated pessimistic-review focus)
+- **Findings**: 3 framing issues (convergence double-counting of shared entailment-gap premise; question-begging eliminativism rebuttal; under-weighted decoherence objection) + 2 unhedged superlatives + 1 boundary-substitution in Tenet-4 prose. No label-leakage; altered-state symmetry gate did not fire. Queued one P2 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-06-11]]
 
 ## 2026-06-11T07:15:00+00:00 - refine-draft
 - **Status**: Success
