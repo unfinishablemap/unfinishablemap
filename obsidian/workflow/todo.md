@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep-review apex/medium-status-voids-in-cognition.md (20-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Changed-since-review staleness (the sanctioned strict filter: ai_contribution=100, ai_modified 2026-06-08 > last_deep_review 2026-05-18, gap 20d, ai_modified ≠ today). The 2026-06-08 edit was a SUBSTANTIVE content addition — the contemplative-cessation counter-case engagement (a completed cross-review task), not a metadata touch — so a fresh comprehensive review of the apex synthesis is legitimately due rather than an Nth metadata-only pass ([[deep_review_over_reviews_converged]] caution noted: confirm the new cessation material integrates cleanly and the synthesis still tracks its member voids). Web-verify any empirical/citation claims added in the cessation section. apex/ length is fine (medium-status apex is well under the 5000 apex hard threshold).
+- **Source**: staleness
+- **Generated**: 2026-06-12
+
+### P2: Deep-review voids/temporal-void.md (16-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-10 > last_deep_review 2026-05-25, gap 16d, ai_modified ≠ today). The 2026-06-10 edit was a targeted empirical-currency calibration ("Calibrate empirical-currency overstatement, Addis 2007 / Dietrich 2004") — a narrow refine, NOT a comprehensive review — so the article has unreviewed-since-edit content. CURRENCY SWEEP ([[empirical-record-currency-drift]]): on a void article that hangs superlative/empirical claims on dated cites, re-check whether Addis/Dietrich-era framing is still the live state of the literature. Metadata web-verify on any cite the prior refine touched.
+- **Source**: staleness
+- **Generated**: 2026-06-12
+
+### P2: Deep-review voids/decision-void.md (26-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-10 > last_deep_review 2026-05-14, gap 26d, ai_modified ≠ today). The 2026-06-10 edit reconciled a "primary candidate site" hedge — a calibration refine, not a full review. Comprehensive review due: confirm the hedge reconciliation holds across the whole article (no residual over-claim elsewhere), audit tenet alignment (Tenet 2/3 — decision as a candidate selection locus must stay "leaves room for ≠ supports", [[evidential-status-discipline]]), web-verify citations.
+- **Source**: staleness
+- **Generated**: 2026-06-12
+
+### P2: Condense topics/time-collapse-and-agency.md (4606 words, 154% of target) — ASSESS-FIRST, calibration-preserving
+- **Type**: condense
+- **Notes**: Over the 4000-word topics hard threshold (4606 body words, 154%). The excess arrived via a SANCTIONED 2026-06-02 refine that strengthened opponent engagement (Dennett multiple-drafts, Nagarjuna anti-substantialism) AFTER the 2026-06-01 deep review — so this is the [[human-decision-task-mispicked-as-refine]] / [[condense-regresses-calibration-qualifiers]] risk profile. ASSESS-FIRST with explicit divert-to-human license: if the excess is verified load-bearing opponent-engagement / calibration content (it likely is), do NOT blind-condense — mark this ✓ DIVERTED-TO-HUMAN and move it to Blocked Tasks (Needs Human). Only condense if there is genuine redundancy/exposition-bloat to trim that leaves the Dennett + Nagarjuna engagement and all evidential-status hedges fully intact. Validate against `tools.curate.length` after any edit.
+- **Source**: length_analysis
+- **Generated**: 2026-06-12
+
+### P3: Deep-review voids/thrownness-void.md (14-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Changed-since-review staleness at the 14-day floor (ai_contribution=100, ai_modified 2026-06-10 > last_deep_review 2026-05-26, gap 14d). The 2026-06-10 edit was a minor cross-cluster clarification ("relation to the retention/protention temporal cluster") — marginal, hence P3. Light-touch: verify the new cross-cluster framing is consistent with [[temporal-void]] and the protention/retention sibling void; likely a near-no-op metadata pass, but the changed-since-review window is genuine.
+- **Source**: staleness
+- **Generated**: 2026-06-12
+
 ### ✓ 2026-06-12: Adopt mental-causation-and-downward-causation calibration in interaction-problem-across-traditions
 - **Type**: refine-draft
 - **Status**: ✓ RESOLVED-BY-CONSOLIDATION — handled in the 2026-06-12 refine-draft pass for the sibling task "Adopt interactionist-dualism calibration in interaction-problem-across-traditions" (one editor pass adopted both anchors' calibration). Verified post-edit with `tools.curate.anchoring.evaluate_anchoring`: strong-assertion density 0.33/kw (≤ this anchor's 0.5/kw absolute allowance), 3 underdetermination markers; no flags against either anchor.
