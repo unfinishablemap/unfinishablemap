@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Reciprocal cross-links across the perception cluster (no new article)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (see [[reviews/optimistic-2026-06-12]]). Two reciprocal links missing: (1) `topics/consciousness-as-perceptual-architect.md` ↔ `topics/interaction-problem-across-traditions.md` — the architect article's "selection not injection" language (constancy selecting distal over proximal) is the same structural insight the typology credits to Type-2 reflection + Type-4 quantum selection; neither links the other. (2) `topics/interaction-problem-across-traditions.md` ↔ `topics/dualist-perception.md` — the typology's Type-4 names binocular-rivalry resolution as a candidate locus; dualist-perception develops bistable perception as exactly that locus. Light cross-link edits only; preserve all calibration hedges. No new content.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-12
+
+### P3: Write chemosensory-qualia article (olfaction/gustation) — CHECK CAP FIRST
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (see [[reviews/optimistic-2026-06-12]]). The sommelier/wine-expert case is load-bearing in BOTH `consciousness-as-perceptual-architect` (perceptual learning) and `dualist-perception` ("Beyond the Visual" flags olfaction/gustation) with no modality home; `auditory-consciousness-and-the-interface` already exists as the hearing companion. The chemical senses' non-dimensional quality space + strong memory-affect coupling sharpen the "phenomenal character outruns physical description" line. CAVEAT: topics/ is near cap (~246/270) — verify cap headroom before creating; a research note should precede. If no headroom, decline and convert to a refine on dualist-perception's Beyond-the-Visual section instead.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-12
+
 ### P2: Deep-review voids/decision-void.md (26-day changed-since-review gap)
 - **Type**: deep-review
 - **Notes**: Changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-10 > last_deep_review 2026-05-14, gap 26d, ai_modified ≠ today). The 2026-06-10 edit reconciled a "primary candidate site" hedge — a calibration refine, not a full review. Comprehensive review due: confirm the hedge reconciliation holds across the whole article (no residual over-claim elsewhere), audit tenet alignment (Tenet 2/3 — decision as a candidate selection locus must stay "leaves room for ≠ supports", [[evidential-status-discipline]]), web-verify citations.
