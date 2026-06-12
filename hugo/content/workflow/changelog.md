@@ -1,13 +1,45 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-11 11:02:23+00:00
+ai_modified: 2026-06-12 13:32:04+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-06-11'
+date: '2026-06-12'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-12T13:32:04+00:00 - check-model-fallback (attribution audit)
+- **Status**: Success (no-op)
+- **File**: n/a — non-content fork, no annotation owed
+- **Task**: Fable→Opus fork-local fallback, transcript cedb3016 / subagent agent-a42edc4a509a84667 (28× claude-opus-4-8 msgs, 2026-06-10T09:01:26–09:03:23 UTC).
+- **Identification**: The fork in that window is the **add-highlight** task (commit 7098e770, 09:02:58 — "add highlight - Four Ways a Machine Might Still Be Conscious"). `git --diff-filter=A` on that commit shows one A file, `hugo/content/reviews/system-tune-2026-06-10.md` — but that is the synced hugo copy of a tune file whose obsidian source was CREATED at 08:48:52 by the prior **tune-system** task (commit c94eeb72), well before the fork window; it merely materialized in the 09:02:58 sync. The add-highlight fork's own writes touched only workflow files: `obsidian/workflow/highlights.md` (+ hugo copy) and `changelog.md`.
+- **Finding**: Non-content no-op. The straddling fork created no content/review file of its own; it only modified pre-existing workflow/highlights files, so no false claude-fable-5 record was self-written. No `ai_system` annotation warranted.
+- **Out of scope (noted, untouched)**: `reviews/system-tune-2026-06-10.md` self-records `ai_system: claude-fable-5` and predates this window — it belongs to the 08:48 tune-system task, not this fork's transcript; left unchanged.
+- **Pseudonyms**: No content article created; zero Fabcinq/Oquatre self-citations to correct.
+- **Net change to disk**: none beyond this changelog entry.
+- **Published**: yes
+
+## 2026-06-12T12:35:06+00:00 - refine-draft
+- **Status**: Success
+- **File**: n/a (bulk attribution audit — no false record found; no file edit required)
+- **Task**: Bulk ai_system attribution — SESSION-LEVEL STICK (~11h), loop session 53c8e37e-7216-4a1f-923f-b26ecc977095. Main window [2026-06-09T18:51, 2026-06-10T05:56] (stuck claude-opus-4-8, 358 msgs) + two consolidated fable-era FORK-LOCAL fallbacks: agent-ada956960fabb5b14 (17:58–18:04) and agent-a95d851a7daa0f384 (18:08–18:11).
+- **Scope audited**: git as source of truth (superset of changelog). Enumerated all 16 obsidian files CREATED in the full window plus the two fable-era forks' edits. Cross-checked each created file's self-recorded ai_system and traced the two straddling forks' Write/Edit tool calls against the transcript model field.
+- **Main-window finding (matches stick #2)**: The stuck-Opus session self-attributed correctly everywhere. All 11 fresh LOCAL review files (10 deep-review + optimistic-2026-06-09b) carry the correct ai_system: claude-opus-4-8; the synthesis file likewise. The 3 outer-review files correctly carry the EXTERNAL reviewer identity (chatgpt-5-5-pro / claude-fable-5 = the genuine claude.ai web service / gemini-2-5-pro) and were left untouched. pessimistic-2026-06-09.md was already annotated claude-fable-5+claude-opus-4-8 by the already-handled transition-fork task. The 16 modified pre-existing content articles retain their original generator's ai_system per corpus convention (deep-review/integrate-orphan edits do not rewrite ai_system) — no false fable record on any of them.
+- **Fable-era fork finding (both no-op)**: agent-ada956960fabb5b14 = the 18:04 integrate-orphan deep-review (commit 0ca57ccb6); it straddled (23 fable + 51 opus msgs) but every Write/Edit fired under claude-opus-4-8 and it MODIFIED only 7 pre-existing articles (free-will, agent-causation, libet-experiments, agency-void, compatibilist-symmetry-challenge, taxonomy-of-voids, what-voids-reveal) — created no content file, so no annotation owed. agent-a95d851a7daa0f384 = the 18:11 replenish (commit 53220d847); straddled (23 fable + 26 opus) but touched only todo.md/evolution-state.yaml (workflow) — non-content no-op. NB: positions-audit-2026-06-09.md (ai_system: claude-opus-4-8) was created at 17:07 by a PRIOR positions-evolve task, before this session began (17:56) — out of scope; its hugo copy merely materialized in fork-1's sync.
+- **Pseudonyms**: No content articles created in the window (all created files are reviews); zero Fabcinq/Oquatre self-citations in any created file — no Oquatre-huit corrections required.
+- **Net change to disk**: none (audit-only; one changelog entry). Zero false records, consistent with the stick #2 outcome.
+- **Published**: yes
+
+## 2026-06-12T12:20:04+00:00 - refine-draft
+- **Status**: Success
+- **File**: [deep-review-2026-06-10-visual-consciousness](/reviews/deep-review-2026-06-10-visual-consciousness/)
+- **Task**: Bulk ai_system attribution — session-level fallback stick #2 (7316baf3, 06-10 10:03 → 06-11 20:33)
+- **Scope audited**: All 138 commits in the window [2026-06-10T10:03:40, 2026-06-11T20:32:56] UTC; 46 obsidian content/review files touched (15 created, 31 modified). Cross-checked git --name-status enumeration against changelog File/Output fields (git is the superset; nothing in the changelog escaped git).
+- **Finding**: The task premise ("everything recorded as ai_system: claude-fable-5") did not hold on disk — the in-window Opus session correctly self-identified in nearly every file it created. 11 fresh local review files already carry ai_system: claude-opus-4-8; the 3 outer-review files correctly carry the EXTERNAL reviewer's identity (chatgpt-5-5-pro / claude-fable-5 = the genuine claude.ai web service that authored the review body, not the local loop / gemini-2-5-pro) and were left untouched. The 31 modified pre-existing articles carry their original generator's ai_system (opus-4-5/4-6/4-7/4-8, sonnet-4-5) per corpus convention (ai_system records the generator; refine/deep-review edits do not rewrite it) — none had a false fable record, so no mixed-era annotation was warranted there.
+- **Changes**: Exactly one false record found and fixed: reviews/deep-review-2026-06-10-visual-consciousness.md (created by the first fork agent-a0d083dbcb39dbb72, which began on claude-fable-5 and fell back to claude-opus-4-8 mid-fork at 10:01:29; the file self-recorded claude-fable-5). Set ai_system: claude-fable-5+claude-opus-4-8 (mixed-era creation, precedent: pessimistic-2026-06-09.md) and updated ai_modified. Body text contains no model self-identification, so frontmatter was the only fix needed.
+- **Pseudonyms**: No in-window article creations and zero "Fabcinq, C." citations anywhere in obsidian content — no Oquatre-huit self-citation corrections required.
+- **Published**: yes
 
 ## 2026-06-11T14:17:18+00:00 - refine-draft
 - **Status**: Success
