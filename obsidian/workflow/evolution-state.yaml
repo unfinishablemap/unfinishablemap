@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-12T19:05:34.333735+00:00'
-session_count: 10862
+last_updated: '2026-06-12T19:16:17.038188+00:00'
+session_count: 10863
 cycle_position: 8983
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -34,7 +34,7 @@ last_runs:
   combine-outer-reviews: '2026-06-11T05:05:05.183958+00:00'
   collect-gemini-review: '2026-06-11T04:56:30.107693+00:00'
   positions-evolve: '2026-06-10T22:48:24.211235+00:00'
-  check-model-fallback: '2026-06-12T15:01:16.975080+00:00'
+  check-model-fallback: '2026-06-12T19:16:17.038188+00:00'
 last_git_push: '2026-06-12T18:03:20.505443+00:00'
 last_tweet_date: '2026-06-12'
 content_stats:
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-12'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-12'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-12'
+  outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-06-12'
   outcome: success
 agentic_social:
@@ -998,50 +998,39 @@ queue_status:
     positions: 0
     staleness: 0
     unconsumed_research: 0
-  last_replenishment: '2026-06-12T19:01:50+00:00'
+  last_replenishment: '2026-06-12T19:32:16+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: '2026-06-12T19:01:50+00:00 run (standard mode) - generated
+  last_replenishment_note: '2026-06-12T19:32:16+00:00 run (standard mode) - generated
     0 new tasks (documented replenish-at-floor steady state per unfin_loop_steady_state,
     not a defect). Queue is NOT at 0: 1 open loop-pickable P2 (counterfactual-void
-    pessimistic-review fix, generated 18:21) sits at top of Active; floor is 3 so
-    replenish fires. Corrected stale p2_tasks 2 to 1: the 18:36 refine-draft db8a1a9ca
-    closed BOTH anchoring-audit siblings in one consolidation pass (exactly as the
-    17:35 annotation designed) while the 18:21 pessimistic review added the counterfactual-void
-    P2. Delta-verified vs the 18:01 run: git log since 18:01 shows ONLY e54426bf0
-    (sync mirror), 4da984d9c (pessimistic-review - created reviews/pessimistic-2026-06-12.md
-    and SELF-QUEUED its P2 fix task, so that chain is already discharged), db8a1a9ca
-    (the consolidation refine-draft on topics/interaction-problem-across-traditions.md
-    - hedge-calibration wording only, length-neutral, article absent from a fresh
-    get_length_warnings run, zero positions cite the slug so no dependency update),
-    and 3b4ababc6 (agentic-social, state-only). No generative source has moved: chains
-    0, unconsumed research 0 actionable (voids-* notes blocked by voids OVER cap),
-    gaps 0, staleness 0 (cycle deep-review slots), orphans 0 (orphaned_files 0), length
-    0 mintable (fresh warnings list identical to the 13:40 known human-deferred /
-    veto / calibration-protected set, no new offender), positions 0 (full audit 2026-06-09
-    within 30d window), applied-apex register too sparse (3 domain files). Section
-    counts unchanged: topics 268/270, concepts 263/270 (near cap), voids 101/100 OVER,
-    positions 3 domain files. Blocked-section placement re-checked: the type-unpickable
-    literature-drift P2 and the pragmatisms-path P3 length decision remain correctly
-    homed in Blocked (Needs Human), no relocation due. Housekeeping this run: demoted
-    the 18:01 note to superseded_replenishment_note_1801 and pruned the 12:40, 13:05
-    and 13:40 superseded notes (preserved in git history) to cap state-file growth.
+    pessimistic-review fix, generated 18:21; target obsidian/voids/counterfactual-void.md
+    verified present on disk) sits at top of Active; floor is 3 so replenish fires.
+    Delta-verified vs the 19:01 run: git log since 19:01:50 shows ONLY 215a17f51
+    (the 19:01 replenish itself, state-only) and 22329a0d0 (check-model-fallback
+    trigger, state-only, queued nothing); working tree has only the uncommitted
+    evolution-state.yaml session/last_runs bump. Zero content/research/positions/length
+    changes on disk since the 19:01 verification, so no generative source can have
+    moved: chains 0, unconsumed research 0 actionable (newest note remains the consumed
+    illusionism-functional-seeming-2026-03-28; voids-* notes blocked by voids OVER
+    cap), gaps 0, staleness 0 (cycle deep-review slots), orphans 0 (orphaned_files
+    0), length 0 mintable (no content edits since the fresh 19:01 warnings check),
+    positions 0 (full audit 2026-06-09 within 30d window), applied-apex register
+    too sparse (3 domain files). Section counts re-counted on disk: topics 268/270,
+    concepts 263/270 (near cap), voids 101/100 OVER, positions 3 domain files. The
+    two veto-tagged Active condense headers (meaning-of-life, phenomenal-output-causal-machinery-dissociation)
+    re-read and remain correctly human-blocked, not mintable. Housekeeping this run:
+    demoted the 19:01 note to superseded_replenishment_note_1901 and pruned the 17:35
+    and 18:01 superseded notes (preserved in git history) to cap state-file growth.
     Queue at floor; remaining backlog human-gated. Manufacturing filler would be wrong.'
-  superseded_replenishment_note_1801: '2026-06-12T18:01:21+00:00 run (standard mode)
-    - generated 0 new tasks (documented replenish-at-floor steady state per unfin_loop_steady_state,
-    not a defect). Queue is NOT at 0: the same 2 open loop-pickable P2 anchoring-audit
-    refine-drafts (consolidation-annotated same-file pair on topics/interaction-problem-across-traditions.md)
-    sit at top of Active; floor is 3 so replenish fires. Delta-verified vs the 17:35
-    full 8-source run: git log since 17:34 shows ONLY commit e0b960423 (the 17:35
-    replenish itself, state + todo consolidation annotation) and 71e8d7753 (agentic-social,
-    state-only); git status shows no uncommitted content - zero content/research/positions/length
-    changes on disk, so no generative source can have moved since the 17:35 verification
-    (chains 0, unconsumed research 0 actionable, gaps 0, staleness 0, orphans 0, length
-    0 mintable, positions 0 - full audit 2026-06-09 within 30d window, applied-apex
-    register too sparse). Section counts unchanged: topics 268/270, concepts 263/270
-    (near cap), voids 101/100 OVER, positions 3 domain files. Housekeeping this run:
-    demoted the 17:35 note to superseded_replenishment_note_1735 and pruned the three
-    2026-06-11 superseded notes (preserved in git history) to cap state-file growth.
-    Queue at floor; remaining backlog human-gated. Manufacturing filler would be wrong.'
+  superseded_replenishment_note_1901: '2026-06-12T19:01:50+00:00 run (standard mode)
+    - generated 0 new tasks (replenish-at-floor steady state). Queue NOT at 0: 1 open
+    loop-pickable P2 (counterfactual-void pessimistic-review fix, generated 18:21)
+    at top of Active; floor is 3. Corrected stale p2_tasks 2 to 1: the 18:36 refine-draft
+    db8a1a9ca closed BOTH anchoring-audit siblings in one consolidation pass while
+    the 18:21 pessimistic review added the counterfactual-void P2. All eight sources
+    delta-verified at 0 vs the 18:01 run (full reasoning in git history, commit 215a17f51).
+    Section counts unchanged: topics 268/270, concepts 263/270, voids 101/100 OVER,
+    positions 3 domain files. Blocked-section placement re-checked, no relocation due.'
   replenishment_source_counts:
     applied_apex: 0
     chain: 0
@@ -1051,32 +1040,3 @@ queue_status:
     positions: 0
     staleness: 0
     unconsumed_research: 0
-  superseded_replenishment_note_1735: '2026-06-12T17:35:13+00:00 run (standard mode)
-    - generated 0 new tasks (documented replenish-at-floor steady state per unfin_loop_steady_state,
-    not a defect). Queue is NOT at 0: 2 open loop-pickable P2 anchoring-audit refine-drafts
-    (both on topics/interaction-problem-across-traditions.md, generated 06-12) sit
-    at top of Active; floor is 3 so replenish fires. Delta-verified vs prior 14:05
-    note: git log since 14:05 shows only state/attribution/agentic-social commits
-    plus ONE content commit b493de486 (deep-review of topics/dualist-perception.md)
-    whose review ends Remaining Items None and whose diff is frontmatter-only (ai_modified
-    + last_deep_review) - chains nothing. Section counts re-counted on disk (find,
-    excl index): topics 268/270, concepts 263/270 (near cap), voids 101/100 OVER,
-    positions 3 domain files. All eight sources independently re-verified: (1) chains
-    0 - dualist-perception review converged, no article created; (2) unconsumed research
-    0 actionable - newest note illusionism-functional-seeming-2026-03-28 CONSUMED,
-    research-voids 15:31 run created no note (voids over cap), remaining unconsumed
-    are voids-* notes blocked by cap; (3) gap analysis 0 (caps near/over, no high-confidence
-    non-voids candidate); (4) staleness 0 (cycle deep-review slots); (5) orphans 0
-    (orphaned_files 0); (6) length 0 mintable - get_length_warnings re-run fresh,
-    all 18 content-section hard+ offenders identical to prior runs'' known human-deferred
-    / veto''d / calibration-protected hub list, no new offender (dualist-perception
-    3485w is soft-only); (7) positions 0 - full audit 2026-06-09 within 30d window,
-    no positions Argued-in article changed; (8) applied-apex register too sparse (3
-    domain files). Memory-flagged below-Completed sweep re-checked: the stapp P2 was
-    re-homed and completed 2026-05-27; remaining strays are the known stale March
-    P3 expand backlog (near-cap sections, deliberately not relocated) and the type-unpickable
-    literature-drift P2. ACTION TAKEN instead of minting: annotated the 2 pending
-    same-file sibling tasks for single-pass consolidation (one hedge-profile edit
-    satisfies both anchors; second task verifies and closes RESOLVED-BY-CONSOLIDATION)
-    to avoid double-churning the article. Queue at floor; remaining backlog human-gated.
-    Manufacturing filler would be wrong.'
