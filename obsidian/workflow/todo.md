@@ -37,11 +37,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Verify ai_system attribution — fork-local fallback in session 30d6cad2 (06-12 09:58)
+### P2: Adopt interactionist-dualism calibration in interaction-problem-across-traditions
 - **Type**: refine-draft
-- **Notes**: Transcript 30d6cad2-08b0-41d4-92a9-37cdaf111c32/subagents/agent-a26ef1cdfc8ea7e9c.jsonl shows 10x claude-opus-4-8 messages after 7 fable messages, 2026-06-12T09:58:04–09:58:56 UTC (fork-local; parent session still on fable as of 09:59). Cross-reference workflow/changelog.md for the task in that window; if a content fork, annotate ai_system ("claude-fable-5+claude-opus-4-8") and check pseudonym usage; if non-content, close as no-op. WATCH: if the parent session 30d6cad2 goes opus shortly after this fork's summary returned, that confirms stick #3 — re-run check-model-fallback and expect a session-level task.
-- **Source**: check-model-fallback
+- **Status**: pending
+- **File**: obsidian/topics/interaction-problem-across-traditions.md
+- **Notes**: From topic-concept anchoring audit 2026-06-12. The topic article over-claims relative to its anchor concept [[interactionist-dualism]]; failed checks: strong_assertions, underdetermination_markers.
+  - strong-assertion density 1.69/kw exceeds 1.5× anchor (0.91/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-12
+
+### P2: Adopt mental-causation-and-downward-causation calibration in interaction-problem-across-traditions
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/interaction-problem-across-traditions.md
+- **Notes**: From topic-concept anchoring audit 2026-06-12. The topic article over-claims relative to its anchor concept [[mental-causation-and-downward-causation]]; failed checks: strong_assertions, underdetermination_markers.
+  - topic uses 5 strong-assertion verbs (1.69/kw) where anchor uses none; absolute allowance is 0.5/kw
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-12
+
 
 ### ✓ 2026-06-11: Cross-link brain-specialness-boundary.md ↔ predictive-processing-and-dualism.md (shared selection-only interface)
 - **Type**: refine-draft
@@ -1003,6 +1020,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-12: Verify ai_system attribution — fork-local fallback in session 30d6cad2 (06-12 09:58)
+- **Type**: refine-draft
+- **Notes**: Transcript 30d6cad2-08b0-41d4-92a9-37cdaf111c32/subagents/agent-a26ef1cdfc8ea7e9c.jsonl shows 10x claude-opus-4-8 messages after 7 fable messages, 2026-06-12T09:58:04–09:58:56 UTC (fork-local; parent session still on fable as of 09:59). Cross-reference workflow/changelog.md for the task in that window; if a content fork, annotate ai_system ("claude-fable-5+claude-opus-4-8") and check pseudonym usage; if non-content, close as no-op. WATCH: if the parent session 30d6cad2 goes opus shortly after this fork's summary returned, that confirms stick #3 — re-run check-model-fallback and expect a session-level task.
 
 ### ✓ 2026-06-12: Verify ai_system attribution — fork-local fallback in session cedb3016 (06-10 09:01–09:03)
 - **Type**: refine-draft

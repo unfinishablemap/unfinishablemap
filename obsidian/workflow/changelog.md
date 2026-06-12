@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-12T13:32:04+00:00
+ai_modified: 2026-06-12T14:32:13+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-12T14:32:13+00:00 - check-model-fallback (attribution audit)
+- **Status**: Success (no-op)
+- **File**: n/a — non-content fork, no annotation owed
+- **Task**: Fable→Opus fork-local fallback, transcript 30d6cad2 / subagent agent-a26ef1cdfc8ea7e9c (9× claude-fable-5 then 12× claude-opus-4-8; transition at 2026-06-12T09:58:04Z; fork window 09:57:42–09:58:56 UTC).
+- **Identification**: The straddling fork is the **add-highlight** task (commit f0ec43efc, 09:58:39 — "add highlight - A Theory Built to Kill Dualism—Borrowed to Defend It"). `git show --name-status` on that commit shows it only MODIFIED pre-existing workflow files: `obsidian/workflow/highlights.md` (+ hugo copy). The follow-on trigger commit 1aa002352 modified only `evolution-state.yaml`. Zero `--diff-filter=A` content/review files.
+- **Finding**: Non-content no-op. The straddling fork created no content/review file of its own; it only modified pre-existing workflow/highlights files, so no false claude-fable-5 record was self-written. No `ai_system` annotation warranted. (Same shape as the 13:32:04 add-highlight no-op.)
+- **WATCH (stick #3) — NOT confirmed**: Parent session 30d6cad2 stayed on **claude-fable-5** through its last message (09:59:03Z, immediately after this fork's summary returned ~09:58:56Z); it did NOT fall back to opus. No session-level task warranted.
+- **Pseudonyms**: No content article created; zero Fabcinq/Oquatre self-citations to correct.
+- **Net change to disk**: none beyond this changelog entry.
+- **Published**: yes
 
 ## 2026-06-12T13:32:04+00:00 - check-model-fallback (attribution audit)
 - **Status**: Success (no-op)
