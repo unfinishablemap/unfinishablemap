@@ -51,12 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-06-12
 
-### P2: Condense topics/time-collapse-and-agency.md (4606 words, 154% of target) — ASSESS-FIRST, calibration-preserving
-- **Type**: condense
-- **Notes**: Over the 4000-word topics hard threshold (4606 body words, 154%). The excess arrived via a SANCTIONED 2026-06-02 refine that strengthened opponent engagement (Dennett multiple-drafts, Nagarjuna anti-substantialism) AFTER the 2026-06-01 deep review — so this is the [[human-decision-task-mispicked-as-refine]] / [[condense-regresses-calibration-qualifiers]] risk profile. ASSESS-FIRST with explicit divert-to-human license: if the excess is verified load-bearing opponent-engagement / calibration content (it likely is), do NOT blind-condense — mark this ✓ DIVERTED-TO-HUMAN and move it to Blocked Tasks (Needs Human). Only condense if there is genuine redundancy/exposition-bloat to trim that leaves the Dennett + Nagarjuna engagement and all evidential-status hedges fully intact. Validate against `tools.curate.length` after any edit.
-- **Source**: length_analysis
-- **Generated**: 2026-06-12
-
 ### P3: Deep-review voids/thrownness-void.md (14-day changed-since-review gap)
 - **Type**: deep-review
 - **Notes**: Changed-since-review staleness at the 14-day floor (ai_contribution=100, ai_modified 2026-06-10 > last_deep_review 2026-05-26, gap 14d). The 2026-06-10 edit was a minor cross-cluster clarification ("relation to the retention/protention temporal cluster") — marginal, hence P3. Light-touch: verify the new cross-cluster framing is consistent with [[temporal-void]] and the protention/retention sibling void; likely a near-no-op metadata pass, but the changed-since-review window is genuine.
@@ -1047,6 +1041,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-12: Condense topics/time-collapse-and-agency.md (4606 words, 154% of target) — ASSESS-FIRST, calibration-preserving
+- **Type**: condense
+- **Notes**: Over the 4000-word topics hard threshold (4606 body words, 154%). The excess arrived via a SANCTIONED 2026-06-02 refine that strengthened opponent engagement (Dennett multiple-drafts, Nagarjuna anti-substantialism) AFTER the 2026-06-01 deep review — so this is the [[human-decision-task-mispicked-as-refine]] / [[condense-regresses-calibration-qualifiers]] risk profile. ASSESS-FIRST with explicit divert-to-human license: if the excess is verified load-bearing opponent-engagement / calibration content (it likely is), do NOT blind-condense — mark this ✓ DIVERTED-TO-HUMAN and move it to Blocked Tasks (Needs Human). Only condense if there is genuine redundancy/exposition-bloat to trim that leaves the Dennett + Nagarjuna engagement and all evidential-status hedges fully intact. Validate against `tools.curate.length` after any edit.
+
+### HUMAN LENGTH DECISION 2026-06-12: topics/time-collapse-and-agency.md (4606w, 154% of soft / 115% of 4000 hard)
+- **Type**: human-decision (do NOT auto-pick; operator/system call, not an autonomous edit)
+- **File**: obsidian/topics/time-collapse-and-agency.md
+- **Notes**: The 2026-06-12 ASSESS-FIRST condense ([[condense]]) read the whole article and DIVERTED-TO-HUMAN with no edits. Verdict: the over-ceiling length is overwhelmingly load-bearing — (a) sanctioned opponent-engagement added by the 2026-06-02 refine (Dennett multiple-drafts, Nagarjuna/Madhyamaka anti-substantialism), and (b) the dense layer of evidential-status hedges installed by the 2026-06-01 deep review distinguishing what the phenomenology *establishes* from what the framework *hypothesises*. No exposition-bloat, no redundant example-stacking, no excessive-of-the-bad-kind hedging. Bringing it under 4000w requires a HUMAN editorial call: (a) accept the over-ceiling length as the cost of the strengthened opponent engagement, or (b) extract a subtopic — the only plausibly-extractable unit is the ~900w "Phenomenology of Temporal Agency" section, but it carries the densest calibration hedges and links tightly to the rest, so extraction is itself a non-trivial editorial decision. NOT auto-condensable without regressing the calibration / opponent-engagement work ([[human-decision-task-mispicked-as-refine]], [[condense-regresses-calibration-qualifiers]]). The Active-queue assess-first task that produced this finding is marked ✓ done (its deliverable was the assessment).
+- **Source**: length_analysis → condense assess-first divert
+- **Generated**: 2026-06-12
 
 ### ✓ 2026-06-12: Deep-review voids/decision-void.md (26-day changed-since-review gap)
 - **Type**: deep-review
