@@ -26,6 +26,11 @@ LITERATURE_DRIFT_WEEKDAY = 1  # Tuesday (Mon=0)
 LITERATURE_DRIFT_HOUR_UTC = 5
 AUTOMATION_WINDOW_START_HOUR_UTC = 0
 AUTOMATION_LAST_START_HOUR_UTC = 7
+# Fallback detection is wall-clock, not cycle-based: only ~25% of loop
+# iterations consume a cycle slot (the rest are replenish/social/outer-review
+# legs), so "every cycle" stretched to ~29h of uptime — too slow when a
+# session-level Fable→Opus stick can run for days (confirmed 2026-06-10/11).
+MODEL_FALLBACK_INTERVAL_HOURS = 4
 
 
 @dataclass
@@ -97,6 +102,20 @@ def check_literature_drift(now: datetime, state) -> TriggerDecision | None:
     return TriggerDecision(kind="trigger", skill="literature-drift-review")
 
 
+def check_model_fallback(now: datetime, state) -> TriggerDecision | None:
+    """Every MODEL_FALLBACK_INTERVAL_HOURS. Cheap transcript grep, no Chrome.
+
+    The script keeps its own scan high-water mark, so an extra firing is a
+    fast no-op; last_runs gating here just bounds the iteration overhead.
+    """
+    last_run = state.last_runs.get("check-model-fallback")
+    if last_run is not None:
+        age_hours = (now - last_run).total_seconds() / 3600
+        if age_hours < MODEL_FALLBACK_INTERVAL_HOURS:
+            return None
+    return TriggerDecision(kind="trigger", skill="check-model-fallback")
+
+
 def check_add_highlight_tweet(now: datetime, state) -> TriggerDecision | None:
     """≥08:00 UTC, once per day. Underlying skill picks its own candidate."""
     if now.hour < TWEET_HOUR_UTC:
@@ -116,6 +135,7 @@ _PRIORITY: list[Callable[[datetime, object], "TriggerDecision | None"]] = [
     lambda now, state: check_commission("claude", now, state),
     lambda now, state: check_commission("gemini", now, state),
     check_add_highlight_tweet,
+    check_model_fallback,
 ]
 
 

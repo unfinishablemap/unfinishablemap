@@ -227,7 +227,7 @@ The Map includes scheduled AI automation for content development. All AI-generat
 | `/positions-evolve` | Maintain the positions register at `obsidian/positions/`: add / update / retire / audit explicit claims the Map currently holds. Confidence-banded; retire-don't-delete; audits for contradictions, broken deps, orphan positions. | Yes (creates, modifies positions) |
 | `/agent-commit` | Analyze changes and create a meaningful commit with agent authorship. Internal skill for evolve_loop. | Yes (git only) |
 | `/embed-videos` | Embed published YouTube videos from sibling `../auto_unfin` repo into matching Obsidian articles. Idempotent. Runs every cycle. | Yes (obsidian source) |
-| `/check-model-fallback` | Detect Fable→Opus model-fallback events in Claude Code transcripts (same-file model mixing); queue P2 attribution-check tasks. Runs every cycle. | Yes (todo.md only) |
+| `/check-model-fallback` | Detect Fable→Opus model-fallback events in Claude Code transcripts (same-file model mixing); queue P2 attribution-check tasks. Wall-clock trigger every 4h. | Yes (todo.md only) |
 | `/literature-drift-review` | Audit one topic article per run for stale citations against the live 2020s literature. Weekly Tuesday 05:00 UTC. One WebSearch call per run. Audit One of `project/calibration-audit-triple.md`. | Yes (todo.md, state, changelog) |
 
 ### Section Caps
@@ -322,7 +322,6 @@ The evolution loop (`scripts/evolve_loop.py`) uses a deterministic task cycle. S
 
 **Cycle triggers** (run every N complete cycles):
 - embed-videos: every cycle
-- check-model-fallback: every cycle (Fable→Opus fallback detection for ai_system attribution)
 - check-links: every 2 cycles
 - check-tenets: every 3 cycles
 - apex-evolve: every 4 cycles
@@ -335,6 +334,7 @@ The evolution loop (`scripts/evolve_loop.py`) uses a deterministic task cycle. S
 - commission-gemini-review: 4am UTC daily — 2.5 Pro with Deep Research. Reuses the same subject as the prior services so all three reviewers tackle the same question and `/combine-outer-reviews` sees real convergence.
 - collect-{chatgpt,claude,gemini}-review: every loop iteration during the automation window when a pending review of the relevant service is ready (chatgpt ≥90 min, claude ≥60 min, gemini ≥20 min). 4h abandon cutoff for stuck conversations on all three. One commission and one collect per loop iteration to keep wall-clock cost predictable.
 - combine-outer-reviews: every loop iteration, fires once per cycle date when (a) all entries for that date in `pending-reviews.yaml` are resolved (none `pending`), (b) ≥2 of them are `collected` AND have `outer_review_status: processed` in their review file's frontmatter, (c) `obsidian/reviews/outer-review-synthesis-{date}.md` does not yet exist. Local Claude work — no Chrome, no automation-window gating; the synthesis file's existence is the idempotence marker.
+- check-model-fallback: every 4h wall-clock (Fable→Opus fallback detection for ai_system attribution; cheap transcript scan, no Chrome, own scan high-water mark in ../unfinishablemap_log). Moved off the cycle-trigger table because only ~25% of iterations consume a cycle slot, stretching "every cycle" to ~29h of uptime.
 - literature-drift-review: 5am UTC every Tuesday (Audit One of [calibration audit triple](obsidian/project/calibration-audit-triple.md)). Wall-clock weekly so cadence is stable across `--interval` changes; one WebSearch call per run audits one topic article in an active-research area against the live 2020s literature. Idempotent via `last_runs["literature-drift-review"].date() != today`. No Chrome dependency — runs outside the Chrome automation window.
 
 **Chrome automation window** (UTC):
