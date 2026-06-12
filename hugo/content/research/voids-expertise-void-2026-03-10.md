@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-03-10 10:56:00+00:00
+ai_modified: 2026-06-12 21:37:42+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -184,6 +184,6 @@ Based on this research, a voids article could:
 - Lewandowsky, S., & Thomas, J. L. (2009). Expertise: Acquisition, limitations, and control. *Reviews of Human Factors and Ergonomics*, 5, 140–165.
 - Masters, R. S. W. (1992). Knowledge, knerves and know-how: The role of explicit versus implicit knowledge in the breakdown of a complex motor skill under pressure. *British Journal of Psychology*, 83, 343–358.
 - Montero, B. G. (2016). *Thought in Action: Expertise and the Conscious Mind*. Oxford University Press.
-- Polanyi, M. (1966). *The Tacit Dimension*. University of Chicago Press.
+- Polanyi, M. (1966). *The Tacit Dimension*. Doubleday.
 - Polanyi, M. (1965). The structure of consciousness. *Brain*, 88, 799–810.
 - Toner, J., Montero, B. G., & Moran, A. (2015). The perils of automaticity. *Review of General Psychology*, 19(4), 431–442.

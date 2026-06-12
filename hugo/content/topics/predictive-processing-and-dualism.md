@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-06-11 14:17:18+00:00
+ai_modified: 2026-06-12 21:16:10+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ description: Predictive processing's metaphysically neutral formalism provides e
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-28 19:55:20+00:00
+last_deep_review: 2026-06-12 21:16:10+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -45,7 +45,7 @@ topics:
 - '[[surprise-prediction-error-and-consciousness]]'
 ---
 
-Predictive processing (PP) is one of the most influential computational frameworks in contemporary cognitive science. It describes the brain as a hierarchical prediction engine that minimises surprise by constantly generating and testing expectations against sensory input. Active inference — PP's action-oriented extension under Karl Friston's free energy principle — adds that organisms act on the world to bring sensory input in line with predictions, not just passively updating models. Both framework and extension are almost universally presented within physicalism, and their leading proponents (Seth, Clark, Hohwy, Friston) read them as supporting physicalism — Friston's "Markovian monism" is explicitly anti-dualist, and active inference was built to dissolve the appearance of a Cartesian gap, not to vindicate it. Yet the mathematical formalism is metaphysically neutral: nothing in the equations mandates physicalism. That neutrality is what the Unfinishable Map builds on. PP and active inference supply exactly the physical architecture [interactionist-dualism](/concepts/interactionist-dualism/) needs — a detailed account of brain machinery that nonetheless contains an unexplained gap where consciousness enters. The Map appropriates the architecture while rejecting the physicalist metaphysics its originators attach to it; the disagreement with them is metaphysical, and the formalism itself adjudicates neither side.
+Predictive processing (PP) is one of the most influential computational frameworks in contemporary cognitive science. It describes the brain as a hierarchical prediction engine that minimises surprise by constantly generating and testing expectations against sensory input. Active inference — PP's action-oriented extension under Karl Friston's free energy principle — adds that organisms act on the world to bring sensory input in line with predictions, not just passively updating models. Both framework and extension are almost universally presented within physicalism, and their leading proponents read them as supporting physicalism: Seth (2021) treats predictive processing as a route to demystifying consciousness, Friston's "Markovian monism" is explicitly anti-dualist, and active inference was built to dissolve the appearance of a Cartesian gap, not to vindicate it. Yet the mathematical formalism is metaphysically neutral: nothing in the equations mandates physicalism. That neutrality is what the Unfinishable Map builds on. PP and active inference supply exactly the physical architecture [interactionist-dualism](/concepts/interactionist-dualism/) needs — a detailed account of brain machinery that nonetheless contains an unexplained gap where consciousness enters. The Map appropriates the architecture while rejecting the physicalist metaphysics its originators attach to it; the disagreement with them is metaphysical, and the formalism itself adjudicates neither side.
 
 ## The Neural Machinery Consciousness Needs
 
@@ -105,7 +105,7 @@ Clark's emphasis on active inference as genuinely world-shaping supports this re
 
 Gunji, Shinohara, and Basios (2022) establish a mathematical bridge between the free energy principle and quantum cognition. Their "excess Bayesian" procedure shows that free energy minimisation and quantum probability connect formally through the structure of orthomodular lattices: classic Bayesian inference entails a Boolean (classical-logic) lattice of propositions, while excess Bayesian inference entails an orthomodular (quantum-logic) lattice. Quantum cognition explains cognitive phenomena — order effects in judgments, conjunction fallacies, disjunction effects — that classical probability cannot.
 
-This connection is early-stage and speculative. The Map does not claim it as established science. But the philosophical implication is significant: if the brain's Bayesian inference connects formally to quantum probability, and consciousness operates at quantum indeterminacies (as [Tenet 2](/tenets/#minimal-quantum-interaction) proposes), then active inference might describe the physical side of a quantum-conscious interface. The point where Bayesian inference meets quantum probability could be precisely where consciousness enters the physical.
+This connection is early-stage and speculative. The Map does not claim it as established science. But the philosophical implication is significant: if the brain's Bayesian inference connects formally to quantum probability, and consciousness operates at quantum indeterminacies (as [Tenet 2](/tenets/#minimal-quantum-interaction) proposes), then active inference might describe the physical side of a quantum-conscious interface — the participating-observer role Stapp (2007) ascribes to consciousness in quantum mechanics. The point where Bayesian inference meets quantum probability could be precisely where consciousness enters the physical.
 
 This remains a "one possible mechanism" proposal, not a commitment. The Map's argument that PP is compatible with dualism does not depend on the quantum-Bayesian bridge. But if the bridge holds, it provides a specific mathematical location where the Map's metaphysics connects to the framework's formalism — and the question of how a conscious selection would express itself at that location returns to [the Born rule](/topics/born-rule-and-the-consciousness-interface/), whose resistance to derivation across every interpretation is compatible with the interface reading without yet being adjudicated in its favour.
 

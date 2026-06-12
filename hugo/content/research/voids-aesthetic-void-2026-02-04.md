@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-04
-ai_modified: 2026-05-13 18:51:00+00:00
+ai_modified: 2026-06-12 21:37:42+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -238,5 +238,5 @@ Based on this research, a voids article could:
 6. Centre for Aesthetics, Religion and Contemporary Culture. "Mysticism, Negative Theology and Apophatic Aesthetics."
 7. Shapshay, S. (2021). "Sublime" in *Stanford Encyclopedia of Philosophy*.
 8. Chatterjee, A. & Vartanian, O. (2022). "Art and Perception: Using Empirical Aesthetics in Research on Consciousness." *Frontiers in Psychology*.
-9. Polanyi, M. (1966). *The Tacit Dimension*. University of Chicago Press.
+9. Polanyi, M. (1966). *The Tacit Dimension*. Doubleday.
 10. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-04-27 00:40:00+00:00
+ai_modified: 2026-06-12 21:37:42+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -213,7 +213,7 @@ Recommendation: angle (1), the from-to-centric framing, gives the cleanest disti
 
 ## Citations
 
-- Polanyi, M. (1966). *The Tacit Dimension*. University of Chicago Press.
+- Polanyi, M. (1966). *The Tacit Dimension*. Doubleday.
 - Polanyi, M. (1958). *Personal Knowledge: Towards a Post-Critical Philosophy*. Routledge.
 - Polanyi, M. "The Structure of Consciousness." Polanyi Society. https://www.polanyisociety.org/mp-structure.htm
 - Gendlin, E. (1981). *Focusing*. Bantam Books.

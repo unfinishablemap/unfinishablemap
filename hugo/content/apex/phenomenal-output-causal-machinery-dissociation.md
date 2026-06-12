@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-09
-ai_modified: 2026-06-05 00:00:00+00:00
+ai_modified: 2026-06-12 21:37:42+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-06-02 05:15:12+00:00
 apex_sources:
@@ -276,7 +276,7 @@ The unifying picture: phenomenal output and causal machinery are dissociable acr
 37. Nisbett, R. E. & Wilson, T. D. (1977). "Telling more than we can know: Verbal reports on mental processes." *Psychological Review*, 84(3), 231–259.
 38. Piazza, M., Fumarola, A., Chinello, A., & Melcher, D. (2011). "Subitizing reflects visuo-spatial object individuation capacity." *Cognition*, 121(1), 147–153.
 39. Pitt, D. (2004). "The phenomenology of cognition, or, what is it like to think that P?" *Philosophy and Phenomenological Research*, 69(1), 1–36.
-40. Polanyi, M. (1966). *The Tacit Dimension*. University of Chicago Press.
+40. Polanyi, M. (1966). *The Tacit Dimension*. Doubleday.
 41. Pratte, M. S. & Rouder, J. N. (2012). "Assessing the dissociability of recollection and familiarity in recognition memory." *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 38(6), 1591–1607.
 42. Sandved-Smith, L., Hesp, C., Mattout, J., Friston, K., Lutz, A., & Ramstead, M. J. D. (2021). "Towards a computational phenomenology of mental action: modelling meta-awareness and attentional control with deep parametric active inference." *Neuroscience of Consciousness*, 2021(1), niab018.
 43. Sant'Anna, A., Michaelian, K., & Andonovski, N. (2024). "Autonoesis and episodicity: Perspectives from philosophy of memory." *WIREs Cognitive Science*, 15(6), e1665.

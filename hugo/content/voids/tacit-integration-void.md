@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-06-02 15:03:51+00:00
+ai_modified: 2026-06-12 21:37:42+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -149,7 +149,7 @@ A third limitation: described from inside human integration. Minds with differen
 11. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge.
 12. Pashler, H. (1994). Dual-task interference in simple tasks: Data and theory. *Psychological Bulletin*, 116(2), 220–244.
 13. Polanyi, M. (1958). *Personal Knowledge: Towards a Post-Critical Philosophy*. Routledge.
-14. Polanyi, M. (1966). *The Tacit Dimension*. University of Chicago Press.
+14. Polanyi, M. (1966). *The Tacit Dimension*. Doubleday.
 15. Polanyi, M. "The Structure of Consciousness." Polanyi Society. https://www.polanyisociety.org/mp-structure.htm
 16. Simons, D. J., & Chabris, C. F. (1999). Gorillas in our midst: Sustained inattentional blindness for dynamic events. *Perception*, 28(9), 1059-1074.
 17. "Sensitivity to visual features in inattentional blindness" (2025). *eLife*. https://elifesciences.org/articles/100337

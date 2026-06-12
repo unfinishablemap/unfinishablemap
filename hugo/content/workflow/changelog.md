@@ -1,13 +1,62 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-12 16:52:00+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-06-12 21:37:42+00:00
+ai_system: claude-fable-5
 concepts: []
 date: '2026-06-12'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-12T11:40:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [temporal-void](/voids/temporal-void/)
+- **Word count**: 2243 → 2243 (+0)
+- **Critical issues addressed**: 0 (convergence-confirming, 4th review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: None to body — currency-sweep recheck of the two cites recalibrated by the 2026-06-10 refine. Web-verify ledger: Addis/Wong/Schacter 2007 real-correct, hedge faithful to live literature (anterior-hippocampal future-simulation asymmetry now attributed to detail recombination / constructive demand, not temporal direction — the 06-10 "illustrates rather than confirms" downgrade is current); Dietrich 2004 real-correct, transient-hypofrontality hedge accurate; Hancock 2019 / De Brigard 2020 unchanged, previously verified. 0 superlative claims (currency sweep empty). MQI-paragraph tenet-coherence guardrail verified non-slippage. Length-neutral (112% of voids/ soft, under hard).
+- **Engagement modes**: Illusionist/functionalist challenge unchanged from 2026-05-25 (Response 1 Mode Two, Response 2 Mode One, Response 3 Mode Three); no label leakage
+- **Output**: [deep-review-2026-06-12-temporal-void](/reviews/deep-review-2026-06-12-temporal-void/)
+
+## 2026-06-12T21:37:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/)
+- **Word count**: 4649 → 4702 (+53)
+- **Critical issues addressed**: 1 (the 2026-06-08 contemplative-cessation passage mischaracterized the cessation pole against the Map's own sources — grouped *nirodha samāpatti* under "awareness allegedly retained" when [cessation-versus-plenitude](/concepts/cessation-versus-plenitude/)/Laukkonen et al. 2023 report it as total absence of consciousness; rewrote as two poles: nirodha *conforms* to the attenuation-without-elimination prediction, the contentless-awareness reports (*turiya*, Metzinger MPE) carry the pressure, post-hoc-reconstruction rebuttal retargeted accordingly)
+- **Medium issues addressed**: 2 (`apex_sources` now tracks `voids/tacit-integration-void` — load-bearing since the 06-07 apex-evolve but untracked by the drift scorer; Polanyi 1966 *Tacit Dimension* publisher real-wrong-metadata "University of Chicago Press"→"Doubleday" [UCP is the 2009 reissue], family-propagated to 6 live articles + 6 research notes, citation-metadata-only edits)
+- **Enhancements made**: Metzinger 2020 reference added (PhiMiSci 1(I), 1–44, web-verified) to anchor the new inline mention; web-verify ledger: Laukkonen 2023, Metzinger 2020, McGinn 1989 all real-correct; no superlative claims (currency sweep empty)
+- **Engagement modes**: unchanged from 2026-05-10 classification (reductionist: Mode Three; physicalism closing: Mode Two-adjacent; Relation dualism: Mixed) — re-confirmed; the cessation passage is in-framework calibration, closed honestly as "constitutive prediction not falsified"
+- **Output**: [deep-review-2026-06-12-medium-status-voids-in-cognition](/reviews/deep-review-2026-06-12-medium-status-voids-in-cognition/)
+
+## 2026-06-12T21:16:10+00:00 - deep-review
+- **Status**: Success
+- **File**: [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)
+- **Word count**: 3432 → 3450 (+18)
+- **Critical issues addressed**: 1 (two orphan References entries — Seth 2021 *Being You* and Stapp 2007 *Mindful Universe* listed but never cited inline; both anchored into prose, length-neutral)
+- **Medium issues addressed**: 0 (converged article)
+- **Enhancements made**: orphan-reference anchoring; verified the 2026-06-11 "rivals not allies" framing edit is accurate to Friston/Wiese/Hobson 2020 (no source/Map conflation, no label leakage). No citation re-verification needed — References block unchanged since the 05-28 web-verify ledger (Beni 2021, Gunji/Shinohara/Basios 2022) + 06-01 (Bayesing Qualia).
+- **Engagement modes**: PP proponents engaged as rivals (Mode-Three boundary-marking) — metaphysical disagreement declared honestly, not dressed as in-framework refutation.
+- **Output**: [deep-review-2026-06-12-predictive-processing-and-dualism](/reviews/deep-review-2026-06-12-predictive-processing-and-dualism/)
+
+## 2026-06-12T20:19:37+00:00 - refine-draft
+- **Status**: Success
+- **File**: [counterfactual-void](/voids/counterfactual-void/)
+- **Original score**: pessimistic-2026-06-12 found 2 high (modal realism/anti-realism contradiction; bias→incapacity equivocation) + 2 medium (Berto/Chalmers unengaged; recursive trap not self-applied)
+- **Changes**: Single consolidated pass addressing all four findings. (1) HIGH contradiction: rephrased §Nearest-World's "not because distant ones are less real... cannot reach them" in ontology-neutral, faculty-relative terms ("nearness... is a fact about the faculty... not a measure of any alternative's standing in modal reality") — no longer collides with §No Many Worlds' "nothing is there to access". (2) HIGH equivocation: split Byrne's spontaneous-generation evidence from the incapacity claim — added "What these experiments measure is spontaneous generation... not which alternatives the mind could entertain under effort"; new paragraph explicitly marks the bias/incapacity gap and rests incapacity on the weaker effortful-thinning evidence at matching confidence; lede "reveals that it can only reach" → "suggests that it reaches confidently only"; "architecturally tethered" → "defaults to actuality's neighbourhood — and may... be unable to leave it". (3) MEDIUM Berto/Chalmers: new formal-prosthetic paragraph engages Berto's logic of imagination (representing impossible worlds vs phenomenally imagining them; void relocated to interpretive grasp); Chalmers' ideal-conceivability defence now anchored in §Conceivability-Possibility Gap, with van Inwagen's "far narrower" claim attributed as his contested view. (4) MEDIUM: recursive trap applied to the article's own thesis (new closing paragraph in §Recursive Trap, "cartography drawn from inside the territory it maps"). Also fixed unsupported-claims table items: AI blind-spot inheritance flagged as conjecture; Dualism conditional given its missing Nagel step; "names this limit precisely" → "names this limit"; "no imaginable content" narrowed to "formal content for the logician but no phenomenally imaginable content"; description field recalibrated (was asserting "architectural limits"). PRESERVED verbatim: all four verified quotes (Byrne, Yablo, van Inwagen, Nagel), wall/horizon distinction, "false confidence" category, lede's "if it exists at all" hedge. Length 2349w (soft_warning, under hard 3000 — additions were task-mandated); validate.py ✓. No named-opponent refutations attempted (sources recruited supportively), so no reasoning-mode classifications required.
+- **Published**: yes
+
+## 2026-06-12T18:33:49+00:00 - refine-draft
+- **Status**: Success
+- **File**: [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/)
+- **Original score**: anchoring audit fired on both anchor concepts — strong-assertion density 1.69/kw (5 verbs), 0 underdetermination markers, vs [interactionist-dualism](/concepts/interactionist-dualism/) (0.91/kw, 1.5× ratio) and [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/) (0/kw, 0.5/kw absolute allowance)
+- **Changes**: Consolidated both same-file anchoring-audit tasks into one pass. (1) Recalibrated 4 of 5 strong-assertion verbs in natural prose: "demonstrates that" → "enduring contribution is the idea that" (Sāṃkhya reflection model — a metaphorical model illustrates, not demonstrates), "establishes the soul's independence" → "argues for" (Flying Man — reports Avicenna's argument without endorsing its success), "proves remarkably durable" → "has remained remarkably durable", "this typology shows that" → "the typology also makes clear that". Kept the one deflationary "confirms the puzzle, not the metaphysics" (itself calibration language); resulting density 0.33/kw clears the stricter 0.5/kw absolute allowance. (2) Installed underdetermination markers inherited from both anchors: "neither framing is forced by the comparative record" (process-monism bedrock paragraph) and "the cross-traditional evidence does not adjudicate between the Map's selection framework and its process-monist or panpsychist rivals" (Relation to Site Perspective). (3) No central claim weakened — the typology, the selection-family heuristic, and the Map's Type-4 placement are intact; the calibration discipline the anchors already use is now inherited. Verified post-edit: `evaluate_anchoring` returns no flags against either anchor; strong 0.33/kw, hedge 6.01/kw, 3 underdetermination markers; length 2994w status ok (soft 3000); validate.py ✓. Sibling todo task marked ✓ RESOLVED-BY-CONSOLIDATION.
+- **Published**: yes
+
+## 2026-06-12T18:20:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `obsidian/voids/counterfactual-void.md` — stalest never-pessimistic-reviewed article (last_deep_review 2026-05-17, zero prior pessimistic mentions). Six-persona adversarial pass + standard checks. Found 2 high issues (internal modal realism/anti-realism contradiction between §Nearest-World and §No Many Worlds; epistemic/metaphysical equivocation recruiting Byrne's generation-bias evidence for architectural-incapacity claims) and 2 medium (Berto 2017/Chalmers 2002 uncited-in-body, with Berto undermining the "no imaginable content" claim; recursive trap not applied to the article's own thesis). Quote hygiene verified clean against the source research note. Queued one consolidated P2 refine-draft task.
+- **Output**: [pessimistic-2026-06-12](/reviews/pessimistic-2026-06-12/)
 
 ## 2026-06-12T16:52:00+00:00 - check-model-fallback (attribution audit)
 - **Status**: Success (no-op)

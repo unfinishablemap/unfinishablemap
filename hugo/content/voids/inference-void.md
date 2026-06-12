@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-26
-ai_modified: 2026-06-04 10:16:47+00:00
+ai_modified: 2026-06-12 21:37:42+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -156,7 +156,7 @@ The void sits with [formal cognitive limits](/voids/formal-cognitive-limits/) as
 1. Carroll, L. (1895). What the Tortoise Said to Achilles. *Mind*, 4(14), 278–280.
 2. Wittgenstein, L. (1953). *Philosophical Investigations*. Trans. G. E. M. Anscombe. Oxford: Blackwell.
 3. Polanyi, M. (1966). The Logic of Tacit Inference. *Philosophy*, 41(155), 1–18.
-4. Polanyi, M. (1966). *The Tacit Dimension*. University of Chicago Press.
+4. Polanyi, M. (1966). *The Tacit Dimension*. Doubleday.
 5. Engel, P. The Philosophical Significance of Carroll's Regress. HAL working paper hal-03675073v1.
 6. Brandom, R. (1994). *Making It Explicit: Reasoning, Representing, and Discursive Commitment*. Harvard University Press.
 7. Nes, A., & Chan, T. (Eds.). (2019). *Inference and Consciousness*. Routledge. (Reviewed at *Notre Dame Philosophical Reviews*.)

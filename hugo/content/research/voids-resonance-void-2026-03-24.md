@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-06-01 02:38:05+00:00
+ai_modified: 2026-06-12 21:37:42+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -226,6 +226,6 @@ Angle 1 is recommended as it opens genuinely new conceptual territory.
 - James, W. (1902). *The Varieties of Religious Experience*. Longmans, Green.
 - Joyce, J. (1916). *A Portrait of the Artist as a Young Man*. B. W. Huebsch.
 - Otto, R. (1917/1923). *The Idea of the Holy*. Oxford University Press.
-- Polanyi, M. (1966). *The Tacit Dimension*. University of Chicago Press.
+- Polanyi, M. (1966). *The Tacit Dimension*. Doubleday.
 - Pseudo-Dionysius the Areopagite. *The Mystical Theology*. (c. 500 CE).
 - Rosa, H. (2016/2019). *Resonance: A Sociology of Our Relationship to the World*. Polity Press.

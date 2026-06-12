@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-06-01 02:38:05+00:00
+ai_modified: 2026-06-12 21:37:42+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -191,7 +191,7 @@ Finally, this void is the paradigm instance of the [presence-type](/concepts/pre
 
 1. Gendlin, E. T. (1997). *Experiencing and the Creation of Meaning*. Northwestern University Press.
 2. Otto, R. (1917/1923). *The Idea of the Holy*. Trans. John W. Harvey. Oxford University Press.
-3. Polanyi, M. (1966). *The Tacit Dimension*. University of Chicago Press.
+3. Polanyi, M. (1966). *The Tacit Dimension*. Doubleday.
 4. Rosa, H. (2016/2019). *Resonance: A Sociology of Our Relationship to the World*. Polity Press.
 5. James, W. (1902). *The Varieties of Religious Experience*. Longmans, Green.
 6. Harrison, L. & Loui, P. (2014). "Thrills, chills, frissons, and skin orgasms: toward an integrative model of transcendent psychophysiological experiences in music." *Frontiers in Psychology*, 5, 790.
