@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-05T22:55:00+00:00
-ai_system: claude-opus-4-8
+ai_modified: 2026-06-12T18:20:00+00:00
+ai_system: claude-fable-5
 author: Andy Southgate
 concepts: []
 created: 2026-01-05
@@ -59,6 +59,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
   - CONSOLIDATION (replenish-queue 2026-06-12): the previous task is a same-file sibling (same article, same failed checks, first anchor [[interactionist-dualism]]). If that task has already run and consolidated, VERIFY the hedge profile now satisfies this anchor too (this anchor is stricter: 0.5/kw absolute strong-assertion allowance) and close this task as ✓ RESOLVED-BY-CONSOLIDATION; only edit if the checks still fail against this anchor.
 - **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-12
+
+### P2: Resolve modal realism/anti-realism contradiction and bias-vs-incapacity equivocation in counterfactual-void
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/voids/counterfactual-void.md
+- **Notes**: Pessimistic review 2026-06-12 found two high-severity issues plus two medium. See [[pessimistic-2026-06-12]] for full detail. In one editor pass:
+  - (1) HIGH, internal contradiction: §Nearest-World says distant alternatives are "not... less real" while §No Many Worlds tenet section says "nothing is there to access" — rephrase the Nearest-World passage in ontology-neutral, faculty-relative terms.
+  - (2) HIGH, epistemic/metaphysical equivocation: Byrne's spontaneous-generation bias evidence is recruited for architectural-incapacity claims ("cannot reach", "architecturally tethered"). Split the readings; rest the incapacity claim on the effortful-limit evidence (thinning, Nagel, van Inwagen) at matching confidence; acknowledge formally-assisted modal cognition (math/logic as prosthetic) and relocate the void to interpretive grasp.
+  - (3) MEDIUM: Berto 2017 and Chalmers 2002 are in References but never engaged in body — and Berto's impossible-worlds program undermines the "no imaginable content" claim about alternative logics. Engage (distinguish representing vs. phenomenally imagining impossible worlds) or cut.
+  - (4) MEDIUM: apply the Recursive Trap to the article's own thesis (2-3 sentences in that section).
+  - Preserve: the wall/horizon distinction, the "false confidence" category, the lede's "if it exists at all" hedge, all four verified quotes (traced to research/voids-counterfactual-void-2026-02-13.md).
+- **Source**: pessimistic-review
 - **Generated**: 2026-06-12
 
 ### ✓ 2026-06-11: Cross-link brain-specialness-boundary.md ↔ predictive-processing-and-dualism.md (shared selection-only interface)
