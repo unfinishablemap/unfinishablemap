@@ -1,13 +1,78 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-12 13:32:04+00:00
+ai_modified: 2026-06-12 16:52:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-12'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-12T16:52:00+00:00 - check-model-fallback (attribution audit)
+- **Status**: Success (no-op)
+- **File**: n/a — non-content fork, no annotation owed
+- **Task**: 6× claude-opus-4-8 messages alongside the primary model in transcript agent-a9bbdd257aaa604d2, window 2026-06-12T13:02:37–13:03:10 UTC.
+- **Identification**: The only commit in/adjacent to the window is 11b8e89b (13:03:17 — "auto(agentic-social): agentic_social"). `git show --name-status` shows it MODIFIED exactly one file, `obsidian/workflow/evolution-state.yaml` (state). `git --diff-filter=A` returns **zero** created files for that commit and across the full 13:00–13:10 window. No content or review file was CREATED anywhere near the window.
+- **Finding**: Non-content no-op. The straddling fork was an agentic-social post that only modified pre-existing workflow/state YAML (the post itself is external) — it created no content/review file, so it self-wrote no false claude-fable-5 record. No `ai_system` annotation warranted.
+- **Pseudonyms**: No content article created; zero Fabcinq/Oquatre self-citations to correct.
+- **Out of scope**: External outer-review reviewer identities left untouched (none created in-window anyway).
+- **Net change to disk**: none beyond this changelog entry.
+- **Published**: yes
+
+## 2026-06-12T16:45:00+00:00 - check-model-fallback (attribution audit)
+- **Status**: Success (no-op)
+- **File**: n/a — opus-dominant fork, no file created, no annotation owed
+- **Task**: 28× claude-opus-4-8 messages in fork transcript agent-aa7c20155a1b76082, window 2026-06-12T12:32:52–12:35:42 UTC (opus-dominant short ~3min fork, not the parent session).
+- **Identification**: The only commit in/adjacent to the window is 3908f3ca (12:35:49 — "auto(refine-draft): Bulk ai_system attribution — session-level fallback stick #1"). `git show --diff-filter=A` returns **zero** created files; `git --name-status` shows it MODIFIED only four pre-existing workflow/state files (`.unfin/current-queue-task.json`, `workflow/changelog.md`, `workflow/evolution-state.yaml`, `workflow/todo.md`). A window-wide `git log --diff-filter=A` (12:30–12:40) confirms no content/review file was CREATED anywhere near the window.
+- **Finding**: Non-content no-op. The straddling fork was the stick-#1 refine-draft attribution audit (its own changelog entry at 12:35:06 records "audit-only — no false record found; no file edit required"). It created no content/review file, so it self-wrote no false claude-fable-5 record. Additionally it was opus-dominant, so even had it created a file it would have self-recorded claude-opus-4-8 correctly (no fable head to mislabel). No `ai_system` annotation warranted.
+- **Pseudonyms**: No content article created; zero Fabcinq/Oquatre self-citations to correct.
+- **Out of scope**: External outer-review reviewer identities left untouched (none created in-window).
+- **Net change to disk**: none beyond this changelog entry.
+- **Published**: yes
+
+## 2026-06-12T16:32:04+00:00 - deep-review
+- **Status**: Success (converged — no body edits)
+- **File**: [dualist-perception](/topics/dualist-perception/)
+- **Word count**: 3485 → 3485 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: 4th review; firmly converged. Assessed the one substantive change since the 2026-05-28 review (commit e9dae9139, calibration-softening refine) — verdict PRESERVE: it removes possibility/probability slippage and adds an explicit quantum-interaction underdetermination hedge; endorsed, not reverted. Re-verified the load-bearing de Gelder et al. (1999) NeuroReport cite at publisher-of-record — real-correct. Reasoning-mode: both "physicalist" replies Mode Two / Mode Three, unchanged, clean; no label leakage. No superlative claims. Only the review timestamps were updated.
+- **Output**: [deep-review-2026-06-12-dualist-perception](/reviews/deep-review-2026-06-12-dualist-perception/)
+
+## 2026-06-12T16:18:00+00:00 - check-model-fallback (attribution audit)
+- **Status**: Success (no-op)
+- **File**: n/a — non-content fork, no annotation owed
+- **Task**: 19× claude-opus-4-8 messages alongside the primary model in transcript agent-aed04d049e07fbfa8, fork window 2026-06-12T12:47:40–12:49:20 UTC.
+- **Identification**: The only commit in the window is cdaa7eb2 (12:49:34 — "auto(replenish-queue): replenish"), the replenish-queue task. `git show --name-status` shows it MODIFIED exactly one file, `obsidian/workflow/evolution-state.yaml` (state). `git --diff-filter=A` returns **zero** created files for that commit and for both adjacent commits (3908f3ca refine-draft at 12:35, 11b8e89b agentic-social at 13:03). No content or review file was CREATED anywhere near the window.
+- **Finding**: Non-content no-op. The straddling fork was a replenish-queue run that only modified pre-existing workflow/state YAML — it created no content/review file, so it self-wrote no false claude-fable-5 record. No `ai_system` annotation warranted.
+- **Pseudonyms**: No content article created; zero Fabcinq/Oquatre self-citations to correct.
+- **Out of scope**: External outer-review reviewer identities left untouched (none created in-window anyway).
+- **Net change to disk**: none beyond this changelog entry.
+- **Published**: yes
+
+## 2026-06-12T16:01:41+00:00 - check-model-fallback (attribution audit)
+- **Status**: Success (no-op)
+- **File**: n/a — window covers only non-content work, no annotation owed
+- **Task**: 46× claude-opus-4-8 messages alongside the primary model in transcript 28d22131, window 2026-06-12T13:03:25–15:01:00 UTC. Per the task's own efficiency note, this is the fable-DOMINANT /loop driver session with intermittent opus fallbacks (NOT a stuck session).
+- **Identification**: Enumerated all 10 commits in the window (11b8e89bf … b091aba41). `git --diff-filter=A` on each shows **zero** content/review files CREATED. The work was: 2× agentic-social posts (external), 3× replenish-queue (evolution-state.yaml only), 1× sync, 1× embed-videos trigger, 1× check-model-fallback trigger, and 2× refine-draft attribution audits (commits ef2e30b9e, 8d24020fc) that themselves only modified workflow/state/changelog files (M, no A).
+- **Finding**: Non-content no-op. A fallback only produces a false claude-fable-5 record when a fork STRADDLES the fable→opus transition AND CREATES a content/review file. No fork in this window created any file — all writes were to pre-existing workflow/state/social/changelog files, which owe no ai_system. No annotation warranted.
+- **Pseudonyms**: No content article created; zero Fabcinq/Oquatre self-citations to correct.
+- **Out of scope**: External outer-review reviewer identities left untouched (none created in-window anyway).
+- **Net change to disk**: none beyond this changelog entry.
+- **Published**: yes
+
+## 2026-06-12T14:32:13+00:00 - check-model-fallback (attribution audit)
+- **Status**: Success (no-op)
+- **File**: n/a — non-content fork, no annotation owed
+- **Task**: Fable→Opus fork-local fallback, transcript 30d6cad2 / subagent agent-a26ef1cdfc8ea7e9c (9× claude-fable-5 then 12× claude-opus-4-8; transition at 2026-06-12T09:58:04Z; fork window 09:57:42–09:58:56 UTC).
+- **Identification**: The straddling fork is the **add-highlight** task (commit f0ec43efc, 09:58:39 — "add highlight - A Theory Built to Kill Dualism—Borrowed to Defend It"). `git show --name-status` on that commit shows it only MODIFIED pre-existing workflow files: `obsidian/workflow/highlights.md` (+ hugo copy). The follow-on trigger commit 1aa002352 modified only `evolution-state.yaml`. Zero `--diff-filter=A` content/review files.
+- **Finding**: Non-content no-op. The straddling fork created no content/review file of its own; it only modified pre-existing workflow/highlights files, so no false claude-fable-5 record was self-written. No `ai_system` annotation warranted. (Same shape as the 13:32:04 add-highlight no-op.)
+- **WATCH (stick #3) — NOT confirmed**: Parent session 30d6cad2 stayed on **claude-fable-5** through its last message (09:59:03Z, immediately after this fork's summary returned ~09:58:56Z); it did NOT fall back to opus. No session-level task warranted.
+- **Pseudonyms**: No content article created; zero Fabcinq/Oquatre self-citations to correct.
+- **Net change to disk**: none beyond this changelog entry.
+- **Published**: yes
 
 ## 2026-06-12T13:32:04+00:00 - check-model-fallback (attribution audit)
 - **Status**: Success (no-op)
