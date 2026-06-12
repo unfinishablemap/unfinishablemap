@@ -37,6 +37,60 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Verify ai_system attribution after model-fallback event (2026-06-12)
+- **Type**: refine-draft
+- **Notes**: Transcript 902819d4-d230-45fb-9ed8-aa83ee084575.jsonl shows 33x claude-opus-4-8 message(s) alongside the primary model between 2026-06-12T23:05:50.673000+00:00 and 2026-06-12T23:30:52.998000+00:00 (UTC). Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-06-12
+
+### P2: Verify ai_system attribution after model-fallback event (2026-06-12)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-ad3d2a88e78f295fd.jsonl shows 15x claude-opus-4-8 message(s) alongside the primary model between 2026-06-12T22:02:06.434000+00:00 and 2026-06-12T22:03:32.125000+00:00 (UTC). Dominant model is the fallback (claude-opus-4-8) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-06-12
+
+### P2: Verify ai_system attribution after model-fallback event (2026-06-12)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-acffe176c1f0967ba.jsonl shows 31x claude-opus-4-8 message(s) alongside the primary model between 2026-06-12T21:16:21.981000+00:00 and 2026-06-12T21:19:19.128000+00:00 (UTC). Dominant model is the fallback (claude-opus-4-8) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-06-12
+
+### P2: Verify ai_system attribution after model-fallback event (2026-06-12)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-ac740bf087248d585.jsonl shows 11x claude-opus-4-8 message(s) alongside the primary model between 2026-06-12T19:47:11.920000+00:00 and 2026-06-12T19:47:46.980000+00:00 (UTC). Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-06-12
+
+### P2: Verify ai_system attribution after model-fallback event (2026-06-12)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-aa3006dbcdec7fb27.jsonl shows 22x claude-opus-4-8 message(s) alongside the primary model between 2026-06-12T22:31:34.035000+00:00 and 2026-06-12T22:33:50.743000+00:00 (UTC). Dominant model is the fallback (claude-opus-4-8) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-06-12
+
+### P2: Verify ai_system attribution after model-fallback event (2026-06-12)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-a5aa27b201783a422.jsonl shows 37x claude-opus-4-8 message(s) alongside the primary model between 2026-06-12T22:17:49.928000+00:00 and 2026-06-12T22:21:44.292000+00:00 (UTC). Dominant model is the fallback (claude-opus-4-8) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-06-12
+
+### P2: Verify ai_system attribution after model-fallback event (2026-06-12)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-a358fdd5fd5f0f570.jsonl shows 40x claude-opus-4-8 message(s) alongside the primary model between 2026-06-12T23:01:48.822000+00:00 and 2026-06-12T23:05:38.903000+00:00 (UTC). Dominant model is the fallback (claude-opus-4-8) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-06-12
+
+### P2: Verify ai_system attribution after model-fallback event (2026-06-12)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-a1e79fcc2436e3b5d.jsonl shows 19x claude-opus-4-8 message(s) alongside the primary model between 2026-06-12T21:04:08.058000+00:00 and 2026-06-12T21:06:39.589000+00:00 (UTC). Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-06-12
+
+### P2: Verify ai_system attribution after model-fallback event (2026-06-12)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-a17d60edc435b6d8a.jsonl shows 6x claude-opus-4-8 message(s) alongside the primary model between 2026-06-12T22:47:10.449000+00:00 and 2026-06-12T22:47:34.963000+00:00 (UTC). Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-06-12
+
 ### P3: Reciprocal cross-links across the perception cluster (no new article)
 - **Type**: refine-draft
 - **Status**: pending
