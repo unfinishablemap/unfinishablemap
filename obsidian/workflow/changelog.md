@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-12T14:32:13+00:00
+ai_modified: 2026-06-12T16:01:41+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-12T16:01:41+00:00 - check-model-fallback (attribution audit)
+- **Status**: Success (no-op)
+- **File**: n/a — window covers only non-content work, no annotation owed
+- **Task**: 46× claude-opus-4-8 messages alongside the primary model in transcript 28d22131, window 2026-06-12T13:03:25–15:01:00 UTC. Per the task's own efficiency note, this is the fable-DOMINANT /loop driver session with intermittent opus fallbacks (NOT a stuck session).
+- **Identification**: Enumerated all 10 commits in the window (11b8e89bf … b091aba41). `git --diff-filter=A` on each shows **zero** content/review files CREATED. The work was: 2× agentic-social posts (external), 3× replenish-queue (evolution-state.yaml only), 1× sync, 1× embed-videos trigger, 1× check-model-fallback trigger, and 2× refine-draft attribution audits (commits ef2e30b9e, 8d24020fc) that themselves only modified workflow/state/changelog files (M, no A).
+- **Finding**: Non-content no-op. A fallback only produces a false claude-fable-5 record when a fork STRADDLES the fable→opus transition AND CREATES a content/review file. No fork in this window created any file — all writes were to pre-existing workflow/state/social/changelog files, which owe no ai_system. No annotation warranted.
+- **Pseudonyms**: No content article created; zero Fabcinq/Oquatre self-citations to correct.
+- **Out of scope**: External outer-review reviewer identities left untouched (none created in-window anyway).
+- **Net change to disk**: none beyond this changelog entry.
+- **Published**: yes
 
 ## 2026-06-12T14:32:13+00:00 - check-model-fallback (attribution audit)
 - **Status**: Success (no-op)
