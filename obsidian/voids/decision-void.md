@@ -4,8 +4,8 @@ description: "The moment open weighing collapses into sealed choice is structura
 created: 2026-05-10
 modified: 2026-05-14
 human_modified: null
-ai_modified: 2026-06-10T13:47:24+00:00
-last_deep_review: 2026-05-14T15:41:00+00:00
+ai_modified: 2026-06-12T23:04:17+00:00
+last_deep_review: 2026-06-12T23:04:17+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -64,7 +64,7 @@ The consciousness that has decided cannot find seams in what it has just sealed.
 
 Soon, Brass, Heinze and Haynes (2008) trained pattern decoders on fMRI signals from frontopolar and parietal regions (BA 10; precuneus/PCC) and achieved roughly 60% classifier accuracy on a binary left/right motor choice up to seven seconds before subjects reported awareness; accounting for BOLD sluggishness pushes the lead to roughly ten seconds. The accuracy biases rather than dictates the outcome—well above 50% chance but well below ceiling. The commitment is in a configural change across both regions, not in a single locus.
 
-The earlier Libet (1983) finding—Type II readiness potential roughly 550 ms before action for spontaneous unplanned movements, conscious "urge" report W roughly 200 ms before—has had its standard interpretation contested. Schurger, Sitt and Dehaene (2012) and Travers et al. (2021) argue the readiness potential may be a stochastic-noise artefact the brain *uses* as a triggering threshold rather than a representation of an intention being formed. This complicates the classical reading but does not deflate the void: if the very thing introspection reaches for does not exist as a discrete neural event, the report still cannot be of it.
+The earlier Libet (1983) finding—Type II readiness potential roughly 550 ms before action for spontaneous unplanned movements, conscious "urge" report W roughly 200 ms before—has had its standard interpretation contested. Schurger, Sitt and Dehaene (2012), and Neafsey's (2021) review, argue the readiness potential may be a stochastic-noise artefact the brain *uses* as a triggering threshold rather than a representation of an intention being formed. This complicates the classical reading but does not deflate the void: if the very thing introspection reaches for does not exist as a discrete neural event, the report still cannot be of it.
 
 Two readings remain consistent with the data: (i) a fully physical commitment that consciousness merely registers downstream, and (ii) a non-physical commitment whose physical signature begins precipitating before phenomenal arrival. The Map's MQI tenet motivates (ii); the data permits (i); the empirical findings constrain the question without settling it. Multi-area perceptual-decision recordings (Roitman & Shadlen 2002; Murakami et al. 2014) identify the transition from input-driven accumulation to autonomous dynamics as the commitment moment—seam visible from outside, sealed from within. That asymmetry is what makes the latency face *Occluded*.
 
@@ -151,7 +151,7 @@ The void is also [[meta-epistemology-of-limits|meta-epistemologically reflexive]
 4. Pacherie, E. (2008). The phenomenology of action: A conceptual framework. *Cognition*, 107(1), 179–217.
 5. Mele, A. R. (2009). *Effective Intentions: The Power of Conscious Will*. Oxford University Press.
 6. Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904–E2913.
-7. Travers, E. et al. (2021). Conscious intention and human action: Review of the rise and fall of the readiness potential and Libet's clock. *Consciousness and Cognition*. https://www.sciencedirect.com/science/article/pii/S1053810021000970
+7. Neafsey, E. J. (2021). Conscious intention and human action: Review of the rise and fall of the readiness potential and Libet's clock. *Consciousness and Cognition*, 94, 103171. https://www.sciencedirect.com/science/article/pii/S1053810021000970
 8. Roitman, J. D., & Shadlen, M. N. (2002). Response of neurons in the lateral intraparietal area during a combined visual discrimination reaction time task. *Journal of Neuroscience*, 22(21), 9475–9489.
 9. Murakami, M., Vicente, M. I., Costa, G. M., & Mainen, Z. F. (2014). Neural antecedents of self-initiated actions in secondary motor cortex. *Nature Neuroscience*, 17(11), 1574–1582.
 10. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5, 229–269.

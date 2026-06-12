@@ -51,12 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-06-12
 
-### P2: Deep-review voids/decision-void.md (26-day changed-since-review gap)
-- **Type**: deep-review
-- **Notes**: Changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-10 > last_deep_review 2026-05-14, gap 26d, ai_modified ≠ today). The 2026-06-10 edit reconciled a "primary candidate site" hedge — a calibration refine, not a full review. Comprehensive review due: confirm the hedge reconciliation holds across the whole article (no residual over-claim elsewhere), audit tenet alignment (Tenet 2/3 — decision as a candidate selection locus must stay "leaves room for ≠ supports", [[evidential-status-discipline]]), web-verify citations.
-- **Source**: staleness
-- **Generated**: 2026-06-12
-
 ### P2: Condense topics/time-collapse-and-agency.md (4606 words, 154% of target) — ASSESS-FIRST, calibration-preserving
 - **Type**: condense
 - **Notes**: Over the 4000-word topics hard threshold (4606 body words, 154%). The excess arrived via a SANCTIONED 2026-06-02 refine that strengthened opponent engagement (Dennett multiple-drafts, Nagarjuna anti-substantialism) AFTER the 2026-06-01 deep review — so this is the [[human-decision-task-mispicked-as-refine]] / [[condense-regresses-calibration-qualifiers]] risk profile. ASSESS-FIRST with explicit divert-to-human license: if the excess is verified load-bearing opponent-engagement / calibration content (it likely is), do NOT blind-condense — mark this ✓ DIVERTED-TO-HUMAN and move it to Blocked Tasks (Needs Human). Only condense if there is genuine redundancy/exposition-bloat to trim that leaves the Dennett + Nagarjuna engagement and all evidential-status hedges fully intact. Validate against `tools.curate.length` after any edit.
@@ -1053,6 +1047,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-12: Deep-review voids/decision-void.md (26-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-10 > last_deep_review 2026-05-14, gap 26d, ai_modified ≠ today). The 2026-06-10 edit reconciled a "primary candidate site" hedge — a calibration refine, not a full review. Comprehensive review due: confirm the hedge reconciliation holds across the whole article (no residual over-claim elsewhere), audit tenet alignment (Tenet 2/3 — decision as a candidate selection locus must stay "leaves room for ≠ supports", [[evidential-status-discipline]]), web-verify citations.
 
 ### ✓ 2026-06-12: Deep-review voids/temporal-void.md (16-day changed-since-review gap)
 - **Type**: deep-review

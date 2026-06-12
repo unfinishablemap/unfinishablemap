@@ -5,6 +5,17 @@ ai_modified: 2026-06-12T21:37:42+00:00
 ai_system: claude-fable-5
 ---
 
+## 2026-06-12T23:04:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/decision-void]]
+- **Word count**: 2979 → 2980 (+1, length-neutral; 149% of voids soft threshold, under 3000 hard)
+- **Critical issues addressed**: 1 (wrong-author citation: "Travers et al. 2021" → Neafsey, E. J. 2021, Cons. & Cog. 94:103171 — real-paper/wrong-author conflation caught only by publisher-of-record web-verify)
+- **Audits**: hedge reconciliation HOLDS article-wide (no residual "primary candidate" over-claim); Tenet 2/3 evidential-status calibration CLEAN (no possibility/probability slippage); 8 cites web-verified (7 real-correct, 1 corrected)
+- **Engagement modes** (editor-only): Wegner Mode One; Tegmark/Dennett/MWI Mode Three; Schurger-Neafsey Mode One in-framework. No label leakage.
+- **Medium issues addressed**: 0 — article converged since 2026-05-14 deep-review
+- **Enhancements made**: 0 prose (length-neutral, near hard ceiling)
+- **Output**: [[reviews/deep-review-2026-06-12-decision-void]]
+
 ## 2026-06-12T22:31:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: The perception cluster (all freshly touched this cycle, distinct from recent optimistic reviews) — `topics/dualist-perception`, `topics/consciousness-as-perceptual-architect`, `topics/interaction-problem-across-traditions`, `topics/perceptual-failure-and-the-interface`. Mature, converged, exemplary register-separation (compatible-not-forced throughout); Process-Philosopher and Hardline-Empiricist personas converge (no slippage to flag). Filed 2 P3 tasks: reciprocal cross-links (no new article) + a cap-gated chemosensory-qualia expand opportunity.
