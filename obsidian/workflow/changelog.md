@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-12T12:20:04+00:00
+ai_modified: 2026-06-12T12:35:06+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-12T12:35:06+00:00 - refine-draft
+- **Status**: Success
+- **File**: n/a (bulk attribution audit — no false record found; no file edit required)
+- **Task**: Bulk ai_system attribution — SESSION-LEVEL STICK (~11h), loop session 53c8e37e-7216-4a1f-923f-b26ecc977095. Main window [2026-06-09T18:51, 2026-06-10T05:56] (stuck claude-opus-4-8, 358 msgs) + two consolidated fable-era FORK-LOCAL fallbacks: agent-ada956960fabb5b14 (17:58–18:04) and agent-a95d851a7daa0f384 (18:08–18:11).
+- **Scope audited**: git as source of truth (superset of changelog). Enumerated all 16 obsidian files CREATED in the full window plus the two fable-era forks' edits. Cross-checked each created file's self-recorded ai_system and traced the two straddling forks' Write/Edit tool calls against the transcript model field.
+- **Main-window finding (matches stick #2)**: The stuck-Opus session self-attributed correctly everywhere. All 11 fresh LOCAL review files (10 deep-review + optimistic-2026-06-09b) carry the correct ai_system: claude-opus-4-8; the synthesis file likewise. The 3 outer-review files correctly carry the EXTERNAL reviewer identity (chatgpt-5-5-pro / claude-fable-5 = the genuine claude.ai web service / gemini-2-5-pro) and were left untouched. pessimistic-2026-06-09.md was already annotated claude-fable-5+claude-opus-4-8 by the already-handled transition-fork task. The 16 modified pre-existing content articles retain their original generator's ai_system per corpus convention (deep-review/integrate-orphan edits do not rewrite ai_system) — no false fable record on any of them.
+- **Fable-era fork finding (both no-op)**: agent-ada956960fabb5b14 = the 18:04 integrate-orphan deep-review (commit 0ca57ccb6); it straddled (23 fable + 51 opus msgs) but every Write/Edit fired under claude-opus-4-8 and it MODIFIED only 7 pre-existing articles (free-will, agent-causation, libet-experiments, agency-void, compatibilist-symmetry-challenge, taxonomy-of-voids, what-voids-reveal) — created no content file, so no annotation owed. agent-a95d851a7daa0f384 = the 18:11 replenish (commit 53220d847); straddled (23 fable + 26 opus) but touched only todo.md/evolution-state.yaml (workflow) — non-content no-op. NB: positions-audit-2026-06-09.md (ai_system: claude-opus-4-8) was created at 17:07 by a PRIOR positions-evolve task, before this session began (17:56) — out of scope; its hugo copy merely materialized in fork-1's sync.
+- **Pseudonyms**: No content articles created in the window (all created files are reviews); zero Fabcinq/Oquatre self-citations in any created file — no Oquatre-huit corrections required.
+- **Net change to disk**: none (audit-only; one changelog entry). Zero false records, consistent with the stick #2 outcome.
+- **Published**: yes
 
 ## 2026-06-12T12:20:04+00:00 - refine-draft
 - **Status**: Success
