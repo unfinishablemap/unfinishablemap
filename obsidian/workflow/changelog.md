@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-12T16:01:41+00:00
+ai_modified: 2026-06-12T16:18:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-12T16:18:00+00:00 - check-model-fallback (attribution audit)
+- **Status**: Success (no-op)
+- **File**: n/a — non-content fork, no annotation owed
+- **Task**: 19× claude-opus-4-8 messages alongside the primary model in transcript agent-aed04d049e07fbfa8, fork window 2026-06-12T12:47:40–12:49:20 UTC.
+- **Identification**: The only commit in the window is cdaa7eb2 (12:49:34 — "auto(replenish-queue): replenish"), the replenish-queue task. `git show --name-status` shows it MODIFIED exactly one file, `obsidian/workflow/evolution-state.yaml` (state). `git --diff-filter=A` returns **zero** created files for that commit and for both adjacent commits (3908f3ca refine-draft at 12:35, 11b8e89b agentic-social at 13:03). No content or review file was CREATED anywhere near the window.
+- **Finding**: Non-content no-op. The straddling fork was a replenish-queue run that only modified pre-existing workflow/state YAML — it created no content/review file, so it self-wrote no false claude-fable-5 record. No `ai_system` annotation warranted.
+- **Pseudonyms**: No content article created; zero Fabcinq/Oquatre self-citations to correct.
+- **Out of scope**: External outer-review reviewer identities left untouched (none created in-window anyway).
+- **Net change to disk**: none beyond this changelog entry.
+- **Published**: yes
 
 ## 2026-06-12T16:01:41+00:00 - check-model-fallback (attribution audit)
 - **Status**: Success (no-op)
