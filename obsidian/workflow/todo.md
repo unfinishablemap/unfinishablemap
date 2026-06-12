@@ -49,19 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-12
 
-### P2: Resolve modal realism/anti-realism contradiction and bias-vs-incapacity equivocation in counterfactual-void
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/voids/counterfactual-void.md
-- **Notes**: Pessimistic review 2026-06-12 found two high-severity issues plus two medium. See [[pessimistic-2026-06-12]] for full detail. In one editor pass:
-  - (1) HIGH, internal contradiction: §Nearest-World says distant alternatives are "not... less real" while §No Many Worlds tenet section says "nothing is there to access" — rephrase the Nearest-World passage in ontology-neutral, faculty-relative terms.
-  - (2) HIGH, epistemic/metaphysical equivocation: Byrne's spontaneous-generation bias evidence is recruited for architectural-incapacity claims ("cannot reach", "architecturally tethered"). Split the readings; rest the incapacity claim on the effortful-limit evidence (thinning, Nagel, van Inwagen) at matching confidence; acknowledge formally-assisted modal cognition (math/logic as prosthetic) and relocate the void to interpretive grasp.
-  - (3) MEDIUM: Berto 2017 and Chalmers 2002 are in References but never engaged in body — and Berto's impossible-worlds program undermines the "no imaginable content" claim about alternative logics. Engage (distinguish representing vs. phenomenally imagining impossible worlds) or cut.
-  - (4) MEDIUM: apply the Recursive Trap to the article's own thesis (2-3 sentences in that section).
-  - Preserve: the wall/horizon distinction, the "false confidence" category, the lede's "if it exists at all" hedge, all four verified quotes (traced to research/voids-counterfactual-void-2026-02-13.md).
-- **Source**: pessimistic-review
-- **Generated**: 2026-06-12
-
 ### ✓ 2026-06-11: Cross-link brain-specialness-boundary.md ↔ predictive-processing-and-dualism.md (shared selection-only interface)
 - **Type**: refine-draft
 - **Status**: done — executed out-of-band 2026-06-11 to drain the P3-only queue ([[p3-only-floor-preemption-starves]]). ASSESS-FIRST confirmed the decline premise FALSE (no existing 1-hop / clean 2-hop path: brain-specialness cites amplification-mechanisms but not selection-only-mind-influence; PP-dualism cites the latter but not the former; the hubs don't cross-link). Added reciprocal Further Reading + related_articles links both directions (one line each, length-neutral). Line-45 ally/rival framing untouched (owned by the co-optation P2, already fixed). Wikilinks resolve.
@@ -1022,6 +1009,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-12: Resolve modal realism/anti-realism contradiction and bias-vs-incapacity equivocation in counterfactual-void
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-06-12 found two high-severity issues plus two medium. See [[pessimistic-2026-06-12]] for full detail. In one editor pass:
 
 ### ✓ 2026-06-12: Adopt interactionist-dualism calibration in interaction-problem-across-traditions
 - **Type**: refine-draft
