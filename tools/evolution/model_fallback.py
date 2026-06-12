@@ -157,18 +157,26 @@ def scan_transcripts(
 
         counts = Counter(m for m, _ in messages)
         dominant = counts.most_common(1)[0][0]
+        primary_present = any(m.startswith(PRIMARY_PREFIX) for m in counts)
 
-        foreign = [(m, t) for m, t in messages if m != dominant]
+        # Foreign = non-primary when the primary model appears at all. A stuck
+        # fallback session (begins on fable, runs opus for the rest of its
+        # life) is dominant-opus, so keying "foreign" off the dominant model
+        # would invert the report and downgrade the severity. Confirmed
+        # 2026-06-10/11: a loop session ran 5x fable then 1276x opus over
+        # ~34h — fable + anything-else in one file is always suspect.
+        if primary_present:
+            foreign = [(m, t) for m, t in messages if not m.startswith(PRIMARY_PREFIX)]
+            severity = "FALLBACK-SUSPECTED"
+        else:
+            foreign = [(m, t) for m, t in messages if m != dominant]
+            severity = "MIXED-MODELS"
         if not foreign:
             continue
 
         new_foreign = [t for _, t in foreign if t > since]
         if not new_foreign:
             continue
-
-        severity = (
-            "FALLBACK-SUSPECTED" if dominant.startswith(PRIMARY_PREFIX) else "MIXED-MODELS"
-        )
         events.append(
             FallbackEvent(
                 transcript=path,
@@ -196,16 +204,28 @@ def queue_attribution_task(event: FallbackEvent, today: str) -> bool:
         return False
 
     foreign_desc = ", ".join(f"{n}x {m}" for m, n in sorted(event.foreign_counts.items()))
+    stuck = not event.dominant.startswith(PRIMARY_PREFIX)
+    if stuck:
+        scope = (
+            f"Dominant model is the fallback ({event.dominant}) — SESSION-LEVEL STICK: the "
+            f"session began on the primary model and ran the fallback for the rest of its "
+            f"life. Treat EVERYTHING the loop wrote in the window as fallback-generated "
+            f"(bulk annotation; cross-reference every changelog entry in the window), not "
+            f"a brief excursion. "
+        )
+    else:
+        scope = ""
     block = (
         f"### P2: Verify ai_system attribution after model-fallback event ({today})\n"
         f"- **Type**: refine-draft\n"
-        f"- **Notes**: Transcript {stem}.jsonl shows {foreign_desc} message(s) inside a "
-        f"{event.dominant} session between {event.first_foreign_ts} and "
-        f"{event.last_foreign_ts} (UTC). Cross-reference workflow/changelog.md for the task "
-        f"running in that window. If a content-writing fork was affected, annotate the "
-        f'article\'s ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching '
-        f"pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers "
-        f"only non-content work (reviews, queue maintenance), close as no-op.\n"
+        f"- **Notes**: Transcript {stem}.jsonl shows {foreign_desc} message(s) alongside the "
+        f"primary model between {event.first_foreign_ts} and "
+        f"{event.last_foreign_ts} (UTC). {scope}Cross-reference workflow/changelog.md for "
+        f"the task(s) running in that window. If a content-writing fork was affected, "
+        f'annotate the article\'s ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use '
+        f"the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the "
+        f"window covers only non-content work (reviews, queue maintenance), close as "
+        f"no-op.\n"
         f"- **Source**: check-model-fallback\n"
         f"- **Generated**: {today}\n"
     )
