@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-12T20:03:29.757706+00:00'
-session_count: 10866
-cycle_position: 8983
+last_updated: '2026-06-12T20:22:13.297159+00:00'
+session_count: 10867
+cycle_position: 8984
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-12T18:21:04.773971+00:00'
@@ -22,7 +18,7 @@ last_runs:
   commission-chatgpt-review: '2026-06-11T02:03:57.966339+00:00'
   commission-claude-review: '2026-06-11T03:04:24.805630+00:00'
   commission-gemini-review: '2026-06-11T04:05:55.683761+00:00'
-  refine-draft: '2026-06-12T18:36:09.532633+00:00'
+  refine-draft: '2026-06-12T20:22:13.297159+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
   replenish-queue: '2026-06-12T20:03:29.757706+00:00'
   condense: '2026-06-09T13:03:52.907973+00:00'
@@ -94,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-links
-  type: check-links
-  date: '2026-06-12'
-  outcome: success
 - task: research-voids
   type: research-voids
   date: '2026-06-12'
@@ -172,6 +164,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-12'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-12'
   outcome: success
 agentic_social:
@@ -984,7 +980,7 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1
+  p2_tasks: 0
   p3_tasks: 0
   needs_replenishment: true
   replenishment_source_counts_last_run:
@@ -1005,33 +1001,33 @@ queue_status:
     positions: 0
     staleness: 0
     unconsumed_research: 0
-  last_replenishment: '2026-06-12T20:02:26+00:00'
+  last_replenishment: '2026-06-12T20:33:43+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: '2026-06-12T20:02:26+00:00 run (standard mode) - generated
-    0 new tasks (documented replenish-at-floor steady state per unfin_loop_steady_state,
-    not a defect). Queue is NOT at 0: 1 open loop-pickable P2 (counterfactual-void
-    pessimistic-review fix, generated 18:21; target obsidian/voids/counterfactual-void.md
-    re-verified present on disk) sits at top of Active; floor is 3 so replenish fires.
-    Delta-verified vs the 19:32 run: git log since 19:32:16 shows ONLY 05d1cbb4a (the
-    19:32 replenish itself, state-only) and 966265b4a (agentic-social, state-only,
-    queued nothing); working tree has only the uncommitted evolution-state.yaml session
-    bump. Zero content/research/positions/length changes on disk since the 19:32 full
-    verification, so no generative source can have moved: chains 0, unconsumed research
+  last_replenishment_note: '2026-06-12T20:33:43+00:00 run (standard mode) - generated
+    0 new tasks. Queue is now at TRUE ZERO open loop-pickable tasks: the sole open
+    P2 (counterfactual-void pessimistic-review fix) completed in commit 12a9024dd
+    at 20:22 (all 4 findings addressed per changelog; fork queued no follow-ons).
+    Delta-verified vs the 20:02 run: git log since 20:02:26 shows ONLY a1bb3bf81 (the
+    20:02 replenish itself, state-only) and 12a9024dd (the counterfactual-void refine-draft).
+    That completion was checked against every source it could move: (a) refine-draft
+    generates no chain; (b) Source 7b - grep of obsidian/positions/ for counterfactual-void
+    hits nothing, no positions-evolve update due; (c) length - edited file is 2349w
+    soft_warning, under the 3000 voids hard threshold, not mintable; (d) the generating
+    pessimistic-2026-06-12 review covered only this one article and all 4 issues are
+    discharged; (e) the 2026-06-12 dualist-perception deep-review left no unqueued
+    follow-ons. All other sources unchanged from the 20:02 full verification: chains
+    0 (no research-topic or expand-topic in recent_tasks 14d window), unconsumed research
     0 actionable (voids-* notes blocked by voids OVER cap), gaps 0, staleness 0 (cycle
-    deep-review slots), orphans 0 (orphaned_files 0), length 0 mintable, positions
-    0 (full audit 2026-06-09 within 30d window), applied-apex register too sparse.
-    Section counts carried forward unchanged: topics 268/270, concepts 263/270, voids
-    101/100 OVER, positions 3 domain files. Housekeeping this run: demoted the 19:32
-    note to superseded_replenishment_note_1932 and pruned the 19:01 superseded note
-    (preserved in git history) to cap state-file growth. Queue at floor; remaining
-    backlog human-gated. Manufacturing filler would be wrong.'
-  superseded_replenishment_note_1932: '2026-06-12T19:32:16+00:00 run (standard mode)
-    - generated 0 new tasks (replenish-at-floor steady state). Queue NOT at 0: 1 open
-    loop-pickable P2 (counterfactual-void pessimistic-review fix) at top of Active;
-    floor is 3. All eight sources delta-verified at 0 vs the 19:01 run (full reasoning
-    in git history, commit 05d1cbb4a). Section counts re-counted on disk: topics 268/270,
-    concepts 263/270 (near cap), voids 101/100 OVER, positions 3 domain files. Two
-    veto-tagged Active condense headers re-read, correctly human-blocked.'
+    deep-review slots self-select), orphans 0 (quality.orphaned_files 0), positions
+    add/update/audit 0 (full audit 2026-06-09 within 30d), applied-apex 0. Section
+    counts re-counted on disk this run: topics 268/270, concepts 263/270, voids 101/100
+    OVER, positions register unchanged. Remaining backlog is human-gated (2 vetoed
+    condense headers, 2 duhem-quine HUMAN LENGTH DECISION blocks, diverted condense
+    flagships, apex-cap governance, voids over-cap blocking research consumption).
+    Manufacturing filler tasks would be wrong; the cycle non-queue slots (deep-review,
+    coalesce, reviews) continue content work. Housekeeping: demoted the 20:02 note
+    to superseded_replenishment_note_2002 and pruned the 19:32 superseded note (preserved
+    in git history).'
   replenishment_source_counts:
     applied_apex: 0
     chain: 0
@@ -1041,3 +1037,7 @@ queue_status:
     positions: 0
     staleness: 0
     unconsumed_research: 0
+  superseded_replenishment_note_2002: '2026-06-12T20:02:26+00:00 run (standard mode)
+    - generated 0 new tasks (replenish-at-floor steady state). Queue NOT at 0 then:
+    1 open P2 (counterfactual-void pessimistic-review fix). All eight sources delta-verified
+    at 0 vs the 19:32 run; full reasoning preserved in git history (commit a1bb3bf81).'
