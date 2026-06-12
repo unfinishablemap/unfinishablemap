@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-12T16:18:00+00:00
+ai_modified: 2026-06-12T16:32:04+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-12T16:32:04+00:00 - deep-review
+- **Status**: Success (converged — no body edits)
+- **File**: [[topics/dualist-perception]]
+- **Word count**: 3485 → 3485 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: 4th review; firmly converged. Assessed the one substantive change since the 2026-05-28 review (commit e9dae9139, calibration-softening refine) — verdict PRESERVE: it removes possibility/probability slippage and adds an explicit quantum-interaction underdetermination hedge; endorsed, not reverted. Re-verified the load-bearing de Gelder et al. (1999) NeuroReport cite at publisher-of-record — real-correct. Reasoning-mode: both "physicalist" replies Mode Two / Mode Three, unchanged, clean; no label leakage. No superlative claims. Only the review timestamps were updated.
+- **Output**: [[reviews/deep-review-2026-06-12-dualist-perception]]
 
 ## 2026-06-12T16:18:00+00:00 - check-model-fallback (attribution audit)
 - **Status**: Success (no-op)
