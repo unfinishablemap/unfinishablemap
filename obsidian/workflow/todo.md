@@ -45,6 +45,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - strong-assertion density 1.69/kw exceeds 1.5× anchor (0.91/kw)
   - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+  - CONSOLIDATION (replenish-queue 2026-06-12): the next task is a same-file sibling (same article, same failed checks, second anchor [[mental-causation-and-downward-causation]]). Whichever runs first should adopt the calibration for BOTH anchors in one editor pass — one hedge-profile fix satisfies both — then mark the sibling ✓ RESOLVED-BY-CONSOLIDATION with a pointer to this pass. Avoids double-churning the same file.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-12
 
@@ -56,6 +57,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - topic uses 5 strong-assertion verbs (1.69/kw) where anchor uses none; absolute allowance is 0.5/kw
   - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+  - CONSOLIDATION (replenish-queue 2026-06-12): the previous task is a same-file sibling (same article, same failed checks, first anchor [[interactionist-dualism]]). If that task has already run and consolidated, VERIFY the hedge profile now satisfies this anchor too (this anchor is stricter: 0.5/kw absolute strong-assertion allowance) and close this task as ✓ RESOLVED-BY-CONSOLIDATION; only edit if the checks still fail against this anchor.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-12
 

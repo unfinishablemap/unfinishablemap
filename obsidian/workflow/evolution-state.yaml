@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-12T17:01:53.532757+00:00'
-session_count: 10854
-cycle_position: 8980
+last_updated: '2026-06-12T17:16:36.432135+00:00'
+session_count: 10855
+cycle_position: 8981
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-11T06:04:23.789855+00:00'
@@ -22,7 +18,7 @@ last_runs:
   commission-chatgpt-review: '2026-06-11T02:03:57.966339+00:00'
   commission-claude-review: '2026-06-11T03:04:24.805630+00:00'
   commission-gemini-review: '2026-06-11T04:05:55.683761+00:00'
-  refine-draft: '2026-06-12T17:01:53.532757+00:00'
+  refine-draft: '2026-06-12T17:16:36.432135+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
   replenish-queue: '2026-06-12T14:17:11.147995+00:00'
   condense: '2026-06-09T13:03:52.907973+00:00'
@@ -98,10 +94,6 @@ recent_tasks:
   type: refine-draft
   date: '2026-06-12'
   outcome: success
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-12'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-12'
@@ -168,6 +160,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-12'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-12'
   outcome: success
 - task: refine-draft
@@ -962,8 +958,7 @@ agentic_social:
 tune_system_history:
   last_run: '2026-06-10T09:05:00+00:00'
   changes_applied: []
-  note: No Tier-1 changes (no evidence of cadence mis-tuning); 3 Tier-2 recs + 3 Tier-3
-    items in reviews/system-tune-2026-06-10
+  note: No Tier-1 changes (no evidence of cadence mis-tuning); 3 Tier-2 recs + 3 Tier-3 items in reviews/system-tune-2026-06-10
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
@@ -971,14 +966,14 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: true
   replenishment_source_counts_last_run:
+    applied_apex: 0
     chain: 0
-    unconsumed_research: 0
     gap_analysis: 0
     length_analysis: 0
-    staleness: 0
     orphan_integration: 0
     positions: 0
-    applied_apex: 0
+    staleness: 0
+    unconsumed_research: 0
   prior_replenishment_source_counts_last_run:
     chain: 0
     unconsumed_research: 0
@@ -988,194 +983,159 @@ queue_status:
     orphan_integration: 0
     positions: 0
     applied_apex: 0
-  last_replenishment: '2026-06-12T14:05:00+00:00'
+  last_replenishment: '2026-06-12T17:35:13+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: '2026-06-12T14:05 run (standard mode) — generated 0 new
-    tasks (documented replenish-at-floor steady state per unfin_loop_steady_state,
-    not a defect). Queue is NOT at 0: 1 open loop-pickable P2 check-model-fallback
-    attribution task (fork-local session 30d6cad2 06-12 09:58) sits at top of Active;
-    floor is 3 so replenish fires. Delta-verified vs prior 13:40 note: git log since
-    13:40 shows ONLY state/sync/agentic-social commits (898aaee2c sync, e401e14a6
-    agentic-social, b3e252a04 replenish) — NO content article touched, so nothing
-    chains. Section counts re-counted on disk (find, excl index): topics 268/270,
-    concepts 263/270 (near cap), voids 101/100 OVER, positions 3 domain files. All
-    eight sources independently spot-verified fresh: (1) chains 0 — no content commit
-    since prior run; the attribution refine-draft creates no article; (2) unconsumed
-    research 0 actionable — newest non-voids note illusionism-functional-seeming-2026-03-28
-    CONSUMED (both concepts/illusionism.md AND concepts/functional-seeming.md on disk),
-    remaining unconsumed are voids-* notes blocked by voids OVER cap; (3) gap analysis
-    0 (caps near/over, no high-confidence non-voids candidate); (4) staleness 0 (cycle
-    deep-review slots); (5) orphans 0 (orphaned_files: 0); (6) length 0 mintable —
-    get_length_warnings re-run fresh; every content-section hard+ offender (epistemology-of-convergence
-    6479 crit, apex-articles 6963 index hub, phenomenal-output 6835 veto, born-rule
-    5106, clinical-dissociation 4863, time-collapse 4606, argument-from-reason 4489,
-    epistemic-advantages 4400, laws-and-dispositions 4213, valence 4092, composition
-    4045, simple-organisms 4025, phenomenal-authority 4022, filter-theory, edge-states,
-    agency-void, what-voids-reveal, wholeheartedness-void) is a known human-deferred
-    / veto''d / calibration-protected hub with prior todo.md history; no new offender;
-    (7) positions 0 — full audit ran 2026-06-09 within 30d window, the attribution
-    refine-draft cites no positions Argued-in; (8) applied-apex register too sparse
-    (3 domain files). Queue at floor; remaining backlog human-gated. Manufacturing
-    filler would be wrong.'
-  superseded_replenishment_note_1340: '2026-06-12T13:40 run (standard mode) — generated
-    0 new tasks (documented replenish-at-floor steady state per unfin_loop_steady_state,
-    not a defect). Queue is NOT at 0: 1 open loop-pickable P2 check-model-fallback
-    attribution task (fork-local session 30d6cad2 06-12 09:58) sits at top of Active;
-    floor is 3 so replenish fires. Delta-verified vs prior 13:05 note: git log since
-    13:00 shows only state/agentic-social commits plus ONE content-irrelevant refine
-    commit 8d24020fc (the cedb3016 attribution refine-draft) — git show --stat confirms
-    it touched ONLY current-queue-task.json + changelog + state + todo, NO content
-    article, so it chains nothing. Section counts re-counted on disk (find, excl index):
-    topics 268/270, concepts 263/270 (near cap), voids 101/100 OVER, positions 3 domain
-    files + index. All eight sources independently spot-verified: (1) chains 0 — the
-    attribution refine-draft creates no article; (2) unconsumed research 0 actionable
-    — newest non-voids note illusionism-functional-seeming-2026-03-28 CONSUMED (both
-    concepts/illusionism.md AND concepts/functional-seeming.md on disk), remaining
-    unconsumed are voids-* notes blocked by voids OVER cap; (3) gap analysis 0 (caps
-    near/over, no high-confidence non-voids candidate); (4) staleness 0 (cycle deep-review
-    slots); (5) orphans 0 (orphaned_files: 0); (6) length 0 mintable — get_length_warnings
-    re-run fresh; every content-section hard+ offender (epistemology-of-convergence
-    6479, apex-articles 6963 index hub, phenomenal-output 6835 veto, born-rule 5106,
-    clinical-dissociation 4863, edge-states, time-collapse 4606, agency-void, what-voids-reveal,
-    wholeheartedness-void, argument-from-reason 4489, epistemic-advantages 4400, laws-and-dispositions,
-    filter-theory, valence-and-conscious-selection, composition) has 5-138 prior todo.md
-    mentions = known, human-deferred / veto''d / calibration-protected hub; rest of
-    warnings list is research/ notes (no length ceiling); no new offender; (7) positions
-    0 — full audit ran 2026-06-09 within 30d window, the attribution refine-draft
-    cites no positions Argued-in; (8) applied-apex register too sparse (3 domain files).
-    Queue at floor; remaining backlog human-gated. Manufacturing filler would be wrong.'
-  superseded_replenishment_note_1305: '2026-06-12T13:05 run (standard mode) — generated
-    0 new tasks (documented replenish-at-floor steady state per unfin_loop_steady_state,
-    not a defect). Queue is NOT at 0: 2 open loop-pickable P2 check-model-fallback
-    attribution tasks (fork-local sessions cedb3016 06-10 09:01 + 30d6cad2 06-12 09:58)
-    sit at the top of Active; floor is 3 so replenish fires. Delta-verified vs prior
-    12:40 note: git log since shows only state-file + agentic-social commits plus
-    the two 12:22/12:35 attribution refine-draft commits (already accounted for in
-    the prior note; they touched changelog/state/todo/one review file, NO content
-    article, so they chain nothing). Section counts re-counted on disk (find, excl
-    index): topics 268/270, concepts 263/270 (near cap), voids 101/100 OVER, positions
-    3 domain files. All eight sources independently spot-verified: (1) chains 0 —
-    the two attribution refine-drafts create no article; (2) unconsumed research 0
-    actionable — newest non-voids note illusionism-functional-seeming-2026-03-28 CONSUMED
-    (concepts/illusionism.md on disk), remaining unconsumed are voids-* notes blocked
-    by voids OVER cap; (3) gap analysis 0 (caps near/over, no high-confidence non-voids
-    candidate); (4) staleness 0 (cycle deep-review slots); (5) orphans 0 (orphaned_files:
-    0); (6) length 0 mintable — get_length_warnings re-run fresh; every content-section
-    hard+ offender (epistemology-of-convergence 6479, apex-articles 6963 index hub,
-    phenomenal-output 6835 veto, born-rule 5106, clinical-dissociation 4863, time-collapse
-    4606, argument-from-reason 4489, epistemic-advantages 4400, agency-void, edge-states,
-    what-voids-reveal, wholeheartedness-void) has 5-138 prior todo.md mentions = known,
-    human-deferred / veto''d / calibration-protected hub; rest of warnings list is
-    research/ notes (no length ceiling); no new offender; (7) positions 0 — full audit
-    ran 2026-06-09/06-10 within 30d window, the two attribution refine-drafts cite
-    no positions Argued-in; (8) applied-apex register too sparse (3 domain files).
-    Queue at floor; remaining backlog human-gated. Manufacturing filler would be wrong.'
-  superseded_replenishment_note_2040: '2026-06-12T12:40 run (standard mode) — generated
-    0 new tasks (documented replenish-at-floor steady state, not a defect). Queue
-    is NOT at 0 this run: 2 open loop-pickable P2 check-model-fallback attribution
-    tasks (fork-local sessions cedb3016 06-10 09:01 + 30d6cad2 06-12 09:58) sit in
-    Active; floor is 3 so replenish fires. Delta-verified vs prior note: git log since
-    the 11:18 run shows only the two 12:22/12:35 refine-draft commits (Bulk ai_system
-    attribution — session-level fallback sticks #1 and #2; these touched changelog/state/todo
-    + one review file, NO content article, so they chain nothing) plus state-only
-    commits. Section counts re-counted on disk (find, excl index): topics 268/270,
-    concepts 263/270 (near cap), voids 101/100 OVER. Sources: (1) chains 0 — the two
-    attribution refine-drafts create no article; (2) unconsumed research 0 actionable
-    — newest non-voids note illusionism-functional-seeming-2026-03-28 CONSUMED (concepts/illusionism.md
-    on disk, deep-reviewed 06-09); voids-* notes blocked by voids OVER cap; (3) gap
-    analysis 0 (caps near/over, no high-confidence non-voids candidate); (4) staleness
-    0 (cycle deep-review slots); (5) orphans 0 (orphaned_files: 0); (6) length 0 mintable
-    — get_length_warnings re-run fresh; all 9 topics hard_warning hits (clinical-dissociation
-    4863, time-collapse 4606, argument-from-reason 4489, epistemic-advantages 4400,
-    laws-and-dispositions 4213, valence-and-conscious-selection 4092, composition
-    4045, simple-organisms 4025, phenomenal-authority 4022) have 9-59 prior todo.md
-    mentions each = known, human-deferred / protected calibration; NONE critical (>6000);
-    no new offender; (7) positions 0 — the two attribution refine-drafts cite no positions
-    Argued-in, full audit ran 2026-06-09 within 30d window; (8) applied-apex register
-    too sparse (3 domain files). Queue at floor; remaining backlog human-gated. Manufacturing
-    filler would be wrong.'
-  superseded_replenishment_note_19: '2026-06-11T20:48 re-run (standard mode) — generated
-    0 new tasks (19th 0-task run today; documented steady-state per unfin_loop_steady_state,
-    not a defect). Disk unchanged since the 18th run at 19:35: git log since 19:30
-    shows only state-file commits (agentic-social x2, replenish). Still independently
-    spot-verified the volatile sources rather than trusting the prior note. Section
-    counts re-counted on disk (find, excl index): topics 268/270, concepts 263/270
-    (both near cap), voids 101/100 OVER, positions 3 domain files + index. Loop-pickable
-    OPEN Active = 0 — awk-scoped the Active Tasks block: the only P-headers are the
-    2 #veto''d condense tasks (meaning-of-life 4160w; phenomenal-output-causal-machinery-dissociation
-    6989w, both awaiting veto-sweep) plus 2 standing HUMAN LENGTH DECISION entries
-    (duhem-quine); none loop-pickable by design. Sources: (1) chains 0 — berridge
-    research (06-03) CONSUMED (wanting-liking-and-the-value-in-mechanism-fork.md on
-    disk); git diff-filter=A confirms NO article was created 06-09 (that expand-topic
-    run was a DECLINED-REDUNDANT), so no cross-review chain exists. (2) unconsumed
-    research 0 actionable — only voids-* notes, voids OVER cap → blocked. (3) gap
-    analysis 0 — caps near/over, no high-confidence non-voids expand candidate. (4)
-    staleness 0 — handled by cycle deep-review slots. (5) orphans 0 (orphaned_files:
-    0). (6) length 0 mintable — get_length_warnings re-run fresh (18 content-section
-    hard+ hits); every one cross-checked against todo.md history: human-deferred (epistemology-of-convergence
-    6479w, clinical-dissociation 4863w, born-rule 5106w, edge-states 3482w, laws-and-dispositions,
-    composition, valence-and-conscious-selection), veto''d (phenomenal-output 6835w),
-    recently git-condensed within 14d (argument-from-reason, epistemic-advantages,
-    time-collapse, agency-void, filter-theory), an index hub (apex-articles 6963w),
-    or a calibration/cross-link-accreting hub per hub-articles-accrete-crosslink-length
-    + condense-regresses-calibration-qualifiers (what-voids-reveal, wholeheartedness-void,
-    consciousness-in-simple-organisms, phenomenal-authority). (7) positions — full
-    audit ran 2026-06-09, within 30d window → nothing due. (8) applied-apex gap —
-    register too sparse (3 domain files) for a high-confidence cluster. Queue genuinely
-    at floor with no safe machine-mintable work; remaining backlog is human-gated.
+  last_replenishment_note: '2026-06-12T17:35:13+00:00 run (standard mode) - generated 0 new tasks (documented
+    replenish-at-floor steady state per unfin_loop_steady_state, not a defect). Queue is NOT at 0: 2 open
+    loop-pickable P2 anchoring-audit refine-drafts (both on topics/interaction-problem-across-traditions.md,
+    generated 06-12) sit at top of Active; floor is 3 so replenish fires. Delta-verified vs prior 14:05
+    note: git log since 14:05 shows only state/attribution/agentic-social commits plus ONE content commit
+    b493de486 (deep-review of topics/dualist-perception.md) whose review ends Remaining Items None and
+    whose diff is frontmatter-only (ai_modified + last_deep_review) - chains nothing. Section counts re-counted
+    on disk (find, excl index): topics 268/270, concepts 263/270 (near cap), voids 101/100 OVER, positions
+    3 domain files. All eight sources independently re-verified: (1) chains 0 - dualist-perception review
+    converged, no article created; (2) unconsumed research 0 actionable - newest note illusionism-functional-seeming-2026-03-28
+    CONSUMED, research-voids 15:31 run created no note (voids over cap), remaining unconsumed are voids-*
+    notes blocked by cap; (3) gap analysis 0 (caps near/over, no high-confidence non-voids candidate);
+    (4) staleness 0 (cycle deep-review slots); (5) orphans 0 (orphaned_files 0); (6) length 0 mintable
+    - get_length_warnings re-run fresh, all 18 content-section hard+ offenders identical to prior runs''
+    known human-deferred / veto''d / calibration-protected hub list, no new offender (dualist-perception
+    3485w is soft-only); (7) positions 0 - full audit 2026-06-09 within 30d window, no positions Argued-in
+    article changed; (8) applied-apex register too sparse (3 domain files). Memory-flagged below-Completed
+    sweep re-checked: the stapp P2 was re-homed and completed 2026-05-27; remaining strays are the known
+    stale March P3 expand backlog (near-cap sections, deliberately not relocated) and the type-unpickable
+    literature-drift P2. ACTION TAKEN instead of minting: annotated the 2 pending same-file sibling tasks
+    for single-pass consolidation (one hedge-profile edit satisfies both anchors; second task verifies
+    and closes RESOLVED-BY-CONSOLIDATION) to avoid double-churning the article. Queue at floor; remaining
+    backlog human-gated. Manufacturing filler would be wrong.'
+  superseded_replenishment_note_1340: '2026-06-12T13:40 run (standard mode) — generated 0 new tasks (documented
+    replenish-at-floor steady state per unfin_loop_steady_state, not a defect). Queue is NOT at 0: 1 open
+    loop-pickable P2 check-model-fallback attribution task (fork-local session 30d6cad2 06-12 09:58) sits
+    at top of Active; floor is 3 so replenish fires. Delta-verified vs prior 13:05 note: git log since
+    13:00 shows only state/agentic-social commits plus ONE content-irrelevant refine commit 8d24020fc
+    (the cedb3016 attribution refine-draft) — git show --stat confirms it touched ONLY current-queue-task.json
+    + changelog + state + todo, NO content article, so it chains nothing. Section counts re-counted on
+    disk (find, excl index): topics 268/270, concepts 263/270 (near cap), voids 101/100 OVER, positions
+    3 domain files + index. All eight sources independently spot-verified: (1) chains 0 — the attribution
+    refine-draft creates no article; (2) unconsumed research 0 actionable — newest non-voids note illusionism-functional-seeming-2026-03-28
+    CONSUMED (both concepts/illusionism.md AND concepts/functional-seeming.md on disk), remaining unconsumed
+    are voids-* notes blocked by voids OVER cap; (3) gap analysis 0 (caps near/over, no high-confidence
+    non-voids candidate); (4) staleness 0 (cycle deep-review slots); (5) orphans 0 (orphaned_files: 0);
+    (6) length 0 mintable — get_length_warnings re-run fresh; every content-section hard+ offender (epistemology-of-convergence
+    6479, apex-articles 6963 index hub, phenomenal-output 6835 veto, born-rule 5106, clinical-dissociation
+    4863, edge-states, time-collapse 4606, agency-void, what-voids-reveal, wholeheartedness-void, argument-from-reason
+    4489, epistemic-advantages 4400, laws-and-dispositions, filter-theory, valence-and-conscious-selection,
+    composition) has 5-138 prior todo.md mentions = known, human-deferred / veto''d / calibration-protected
+    hub; rest of warnings list is research/ notes (no length ceiling); no new offender; (7) positions
+    0 — full audit ran 2026-06-09 within 30d window, the attribution refine-draft cites no positions Argued-in;
+    (8) applied-apex register too sparse (3 domain files). Queue at floor; remaining backlog human-gated.
     Manufacturing filler would be wrong.'
-  superseded_replenishment_note_17: '2026-06-11T18:40 re-run — generated 0 new tasks
-    (17th 0-task run today; documented steady-state, not a defect). Independently
-    re-verified all eight generative sources on disk. Section counts (find, excl index):
-    topics 268/270, concepts 263/270 (both near cap), voids 101/100 OVER, positions
-    3 domain files (agency-and-will, voids-as-evidence, quantum-interface). Loop-pickable
-    OPEN Active = 0 — awk-scoped the Active Tasks block: the only genuinely-open headers
-    are 2 standing HUMAN LENGTH DECISION entries (duhem-quine), 2 #veto''d condense
-    tasks (meaning-of-life 4160w; phenomenal-output-causal-machinery-dissociation
-    6989w), and 1 struck-through (~~~~) deep-review; none loop-pickable by design.
-    Sources: (1) chains 0 — most-recent research-topic 2026-06-03 (berridge) CONSUMED
-    (its note''s related_articles → topics/wanting-liking-and-the-value-in-mechanism-fork.md
-    confirmed on disk); last expand-topic 2026-06-09 (outside 14d forward window).
-    (2) unconsumed research 0 actionable — only voids-* notes unconsumed-by-slug,
-    voids OVER cap → blocked. (3) gap analysis 0 — caps near/over, no high-confidence
-    non-voids expand candidate. (4) staleness 0 — handled by cycle deep-review slots.
-    (5) orphans 0 (orphaned_files: 0). (6) length 0 mintable — every hard+ content-section
+  superseded_replenishment_note_1305: '2026-06-12T13:05 run (standard mode) — generated 0 new tasks (documented
+    replenish-at-floor steady state per unfin_loop_steady_state, not a defect). Queue is NOT at 0: 2 open
+    loop-pickable P2 check-model-fallback attribution tasks (fork-local sessions cedb3016 06-10 09:01
+    + 30d6cad2 06-12 09:58) sit at the top of Active; floor is 3 so replenish fires. Delta-verified vs
+    prior 12:40 note: git log since shows only state-file + agentic-social commits plus the two 12:22/12:35
+    attribution refine-draft commits (already accounted for in the prior note; they touched changelog/state/todo/one
+    review file, NO content article, so they chain nothing). Section counts re-counted on disk (find,
+    excl index): topics 268/270, concepts 263/270 (near cap), voids 101/100 OVER, positions 3 domain files.
+    All eight sources independently spot-verified: (1) chains 0 — the two attribution refine-drafts create
+    no article; (2) unconsumed research 0 actionable — newest non-voids note illusionism-functional-seeming-2026-03-28
+    CONSUMED (concepts/illusionism.md on disk), remaining unconsumed are voids-* notes blocked by voids
+    OVER cap; (3) gap analysis 0 (caps near/over, no high-confidence non-voids candidate); (4) staleness
+    0 (cycle deep-review slots); (5) orphans 0 (orphaned_files: 0); (6) length 0 mintable — get_length_warnings
+    re-run fresh; every content-section hard+ offender (epistemology-of-convergence 6479, apex-articles
+    6963 index hub, phenomenal-output 6835 veto, born-rule 5106, clinical-dissociation 4863, time-collapse
+    4606, argument-from-reason 4489, epistemic-advantages 4400, agency-void, edge-states, what-voids-reveal,
+    wholeheartedness-void) has 5-138 prior todo.md mentions = known, human-deferred / veto''d / calibration-protected
+    hub; rest of warnings list is research/ notes (no length ceiling); no new offender; (7) positions
+    0 — full audit ran 2026-06-09/06-10 within 30d window, the two attribution refine-drafts cite no positions
+    Argued-in; (8) applied-apex register too sparse (3 domain files). Queue at floor; remaining backlog
+    human-gated. Manufacturing filler would be wrong.'
+  superseded_replenishment_note_2040: '2026-06-12T12:40 run (standard mode) — generated 0 new tasks (documented
+    replenish-at-floor steady state, not a defect). Queue is NOT at 0 this run: 2 open loop-pickable P2
+    check-model-fallback attribution tasks (fork-local sessions cedb3016 06-10 09:01 + 30d6cad2 06-12
+    09:58) sit in Active; floor is 3 so replenish fires. Delta-verified vs prior note: git log since the
+    11:18 run shows only the two 12:22/12:35 refine-draft commits (Bulk ai_system attribution — session-level
+    fallback sticks #1 and #2; these touched changelog/state/todo + one review file, NO content article,
+    so they chain nothing) plus state-only commits. Section counts re-counted on disk (find, excl index):
+    topics 268/270, concepts 263/270 (near cap), voids 101/100 OVER. Sources: (1) chains 0 — the two attribution
+    refine-drafts create no article; (2) unconsumed research 0 actionable — newest non-voids note illusionism-functional-seeming-2026-03-28
+    CONSUMED (concepts/illusionism.md on disk, deep-reviewed 06-09); voids-* notes blocked by voids OVER
+    cap; (3) gap analysis 0 (caps near/over, no high-confidence non-voids candidate); (4) staleness 0
+    (cycle deep-review slots); (5) orphans 0 (orphaned_files: 0); (6) length 0 mintable — get_length_warnings
+    re-run fresh; all 9 topics hard_warning hits (clinical-dissociation 4863, time-collapse 4606, argument-from-reason
+    4489, epistemic-advantages 4400, laws-and-dispositions 4213, valence-and-conscious-selection 4092,
+    composition 4045, simple-organisms 4025, phenomenal-authority 4022) have 9-59 prior todo.md mentions
+    each = known, human-deferred / protected calibration; NONE critical (>6000); no new offender; (7)
+    positions 0 — the two attribution refine-drafts cite no positions Argued-in, full audit ran 2026-06-09
+    within 30d window; (8) applied-apex register too sparse (3 domain files). Queue at floor; remaining
+    backlog human-gated. Manufacturing filler would be wrong.'
+  superseded_replenishment_note_19: '2026-06-11T20:48 re-run (standard mode) — generated 0 new tasks (19th
+    0-task run today; documented steady-state per unfin_loop_steady_state, not a defect). Disk unchanged
+    since the 18th run at 19:35: git log since 19:30 shows only state-file commits (agentic-social x2,
+    replenish). Still independently spot-verified the volatile sources rather than trusting the prior
+    note. Section counts re-counted on disk (find, excl index): topics 268/270, concepts 263/270 (both
+    near cap), voids 101/100 OVER, positions 3 domain files + index. Loop-pickable OPEN Active = 0 — awk-scoped
+    the Active Tasks block: the only P-headers are the 2 #veto''d condense tasks (meaning-of-life 4160w;
+    phenomenal-output-causal-machinery-dissociation 6989w, both awaiting veto-sweep) plus 2 standing HUMAN
+    LENGTH DECISION entries (duhem-quine); none loop-pickable by design. Sources: (1) chains 0 — berridge
+    research (06-03) CONSUMED (wanting-liking-and-the-value-in-mechanism-fork.md on disk); git diff-filter=A
+    confirms NO article was created 06-09 (that expand-topic run was a DECLINED-REDUNDANT), so no cross-review
+    chain exists. (2) unconsumed research 0 actionable — only voids-* notes, voids OVER cap → blocked.
+    (3) gap analysis 0 — caps near/over, no high-confidence non-voids expand candidate. (4) staleness
+    0 — handled by cycle deep-review slots. (5) orphans 0 (orphaned_files: 0). (6) length 0 mintable —
+    get_length_warnings re-run fresh (18 content-section hard+ hits); every one cross-checked against
+    todo.md history: human-deferred (epistemology-of-convergence 6479w, clinical-dissociation 4863w, born-rule
+    5106w, edge-states 3482w, laws-and-dispositions, composition, valence-and-conscious-selection), veto''d
+    (phenomenal-output 6835w), recently git-condensed within 14d (argument-from-reason, epistemic-advantages,
+    time-collapse, agency-void, filter-theory), an index hub (apex-articles 6963w), or a calibration/cross-link-accreting
+    hub per hub-articles-accrete-crosslink-length + condense-regresses-calibration-qualifiers (what-voids-reveal,
+    wholeheartedness-void, consciousness-in-simple-organisms, phenomenal-authority). (7) positions — full
+    audit ran 2026-06-09, within 30d window → nothing due. (8) applied-apex gap — register too sparse
+    (3 domain files) for a high-confidence cluster. Queue genuinely at floor with no safe machine-mintable
+    work; remaining backlog is human-gated. Manufacturing filler would be wrong.'
+  superseded_replenishment_note_17: '2026-06-11T18:40 re-run — generated 0 new tasks (17th 0-task run
+    today; documented steady-state, not a defect). Independently re-verified all eight generative sources
+    on disk. Section counts (find, excl index): topics 268/270, concepts 263/270 (both near cap), voids
+    101/100 OVER, positions 3 domain files (agency-and-will, voids-as-evidence, quantum-interface). Loop-pickable
+    OPEN Active = 0 — awk-scoped the Active Tasks block: the only genuinely-open headers are 2 standing
+    HUMAN LENGTH DECISION entries (duhem-quine), 2 #veto''d condense tasks (meaning-of-life 4160w; phenomenal-output-causal-machinery-dissociation
+    6989w), and 1 struck-through (~~~~) deep-review; none loop-pickable by design. Sources: (1) chains
+    0 — most-recent research-topic 2026-06-03 (berridge) CONSUMED (its note''s related_articles → topics/wanting-liking-and-the-value-in-mechanism-fork.md
+    confirmed on disk); last expand-topic 2026-06-09 (outside 14d forward window). (2) unconsumed research
+    0 actionable — only voids-* notes unconsumed-by-slug, voids OVER cap → blocked. (3) gap analysis 0
+    — caps near/over, no high-confidence non-voids expand candidate. (4) staleness 0 — handled by cycle
+    deep-review slots. (5) orphans 0 (orphaned_files: 0). (6) length 0 mintable — every hard+ content-section
     offender is #veto''d, a standing HUMAN LENGTH DECISION, an index/calibration/cross-link-accreting
     hub per [[hub-articles-accrete-crosslink-length]] + [[condense-regresses-calibration-qualifiers]],
-    or a research/ note (no ceiling). (7) positions — full audit ran 2026-06-09, within
-    30d window → nothing due. (8) applied-apex gap — register too sparse for a high-confidence
-    cluster. Queue genuinely at floor with no safe machine-mintable work; remaining
-    backlog is human-gated. Manufacturing filler would be wrong.'
-  superseded_replenishment_note_2: '2026-06-11T17:40 re-run — generated 0 new tasks
-    (16th 0-task run today; documented steady-state, not a defect). Independently
-    re-verified all eight generative sources on disk rather than trusting the prior
-    note. Section counts (find, excl index): topics 268/270, concepts 263/270 (both
-    near cap), voids 101/100 OVER, positions 3 domain files. Loop-pickable OPEN Active
-    = 0 — confirmed by awk-scoping the Active Tasks block: the only non-✓ headers
-    are 2 standing HUMAN LENGTH DECISION entries (duhem-quine) + 2 #veto''d condense
-    tasks (meaning-of-life 4160w; phenomenal-output-causal-machinery-dissociation
-    6989w); everything else is struck-through/✅/superseded/RELOCATED. Sources: (1)
-    chains 0 — last research-topic 2026-06-03 (berridge) CONSUMED (related_articles
-    → [[wanting-liking-and-the-value-in-mechanism-fork]] exists at topics/); last
-    expand-topic 2026-06-09 (outside 14d forward window). (2) unconsumed research
-    0 actionable — only voids-* notes unconsumed-by-slug, voids OVER cap → blocked.
-    (3) gap analysis 0 — caps near/over, no high-confidence non-voids expand candidate.
-    (4) staleness 0 — handled by cycle deep-review slots. (5) orphans 0 (orphaned_files:
-    0). (6) length — get_length_warnings re-run on disk; every content-section hard+
-    offender is #veto''d, a standing HUMAN LENGTH DECISION / DIVERTED-TO-HUMAN, an
-    index hub (apex-articles 6963w), or a calibration-anchor / cross-link-accreting
-    hub per [[hub-articles-accrete-crosslink-length]] + [[condense-regresses-calibration-qualifiers]];
-    remaining hits are research/ notes (no length ceiling). None auto-mintable. (7)
-    positions — full audit ran 2026-06-09, within 30d window → nothing due. (8) applied-apex
-    gap — register too sparse for a high-confidence cluster. Queue genuinely at floor
-    with no safe machine-mintable work; remaining backlog is human-gated. Manufacturing
-    filler would be wrong.'
+    or a research/ note (no ceiling). (7) positions — full audit ran 2026-06-09, within 30d window → nothing
+    due. (8) applied-apex gap — register too sparse for a high-confidence cluster. Queue genuinely at
+    floor with no safe machine-mintable work; remaining backlog is human-gated. Manufacturing filler would
+    be wrong.'
+  superseded_replenishment_note_2: '2026-06-11T17:40 re-run — generated 0 new tasks (16th 0-task run today;
+    documented steady-state, not a defect). Independently re-verified all eight generative sources on
+    disk rather than trusting the prior note. Section counts (find, excl index): topics 268/270, concepts
+    263/270 (both near cap), voids 101/100 OVER, positions 3 domain files. Loop-pickable OPEN Active =
+    0 — confirmed by awk-scoping the Active Tasks block: the only non-✓ headers are 2 standing HUMAN LENGTH
+    DECISION entries (duhem-quine) + 2 #veto''d condense tasks (meaning-of-life 4160w; phenomenal-output-causal-machinery-dissociation
+    6989w); everything else is struck-through/✅/superseded/RELOCATED. Sources: (1) chains 0 — last research-topic
+    2026-06-03 (berridge) CONSUMED (related_articles → [[wanting-liking-and-the-value-in-mechanism-fork]]
+    exists at topics/); last expand-topic 2026-06-09 (outside 14d forward window). (2) unconsumed research
+    0 actionable — only voids-* notes unconsumed-by-slug, voids OVER cap → blocked. (3) gap analysis 0
+    — caps near/over, no high-confidence non-voids expand candidate. (4) staleness 0 — handled by cycle
+    deep-review slots. (5) orphans 0 (orphaned_files: 0). (6) length — get_length_warnings re-run on disk;
+    every content-section hard+ offender is #veto''d, a standing HUMAN LENGTH DECISION / DIVERTED-TO-HUMAN,
+    an index hub (apex-articles 6963w), or a calibration-anchor / cross-link-accreting hub per [[hub-articles-accrete-crosslink-length]]
+    + [[condense-regresses-calibration-qualifiers]]; remaining hits are research/ notes (no length ceiling).
+    None auto-mintable. (7) positions — full audit ran 2026-06-09, within 30d window → nothing due. (8)
+    applied-apex gap — register too sparse for a high-confidence cluster. Queue genuinely at floor with
+    no safe machine-mintable work; remaining backlog is human-gated. Manufacturing filler would be wrong.'
   replenishment_source_counts:
+    applied_apex: 0
     chain: 0
-    unconsumed_research: 0
     gap_analysis: 0
     length_analysis: 0
-    staleness: 0
     orphan_integration: 0
     positions: 0
-    applied_apex: 0
+    staleness: 0
+    unconsumed_research: 0
