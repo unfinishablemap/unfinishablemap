@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-12T18:20:00+00:00
+ai_modified: 2026-06-12T18:33:49+00:00
 ai_system: claude-fable-5
 author: Andy Southgate
 concepts: []
@@ -37,21 +37,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt interactionist-dualism calibration in interaction-problem-across-traditions
+### ✓ 2026-06-12: Adopt mental-causation-and-downward-causation calibration in interaction-problem-across-traditions
 - **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/interaction-problem-across-traditions.md
-- **Notes**: From topic-concept anchoring audit 2026-06-12. The topic article over-claims relative to its anchor concept [[interactionist-dualism]]; failed checks: strong_assertions, underdetermination_markers.
-  - strong-assertion density 1.69/kw exceeds 1.5× anchor (0.91/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-  - CONSOLIDATION (replenish-queue 2026-06-12): the next task is a same-file sibling (same article, same failed checks, second anchor [[mental-causation-and-downward-causation]]). Whichever runs first should adopt the calibration for BOTH anchors in one editor pass — one hedge-profile fix satisfies both — then mark the sibling ✓ RESOLVED-BY-CONSOLIDATION with a pointer to this pass. Avoids double-churning the same file.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-12
-
-### P2: Adopt mental-causation-and-downward-causation calibration in interaction-problem-across-traditions
-- **Type**: refine-draft
-- **Status**: pending
+- **Status**: ✓ RESOLVED-BY-CONSOLIDATION — handled in the 2026-06-12 refine-draft pass for the sibling task "Adopt interactionist-dualism calibration in interaction-problem-across-traditions" (one editor pass adopted both anchors' calibration). Verified post-edit with `tools.curate.anchoring.evaluate_anchoring`: strong-assertion density 0.33/kw (≤ this anchor's 0.5/kw absolute allowance), 3 underdetermination markers; no flags against either anchor.
 - **File**: obsidian/topics/interaction-problem-across-traditions.md
 - **Notes**: From topic-concept anchoring audit 2026-06-12. The topic article over-claims relative to its anchor concept [[mental-causation-and-downward-causation]]; failed checks: strong_assertions, underdetermination_markers.
   - topic uses 5 strong-assertion verbs (1.69/kw) where anchor uses none; absolute allowance is 0.5/kw
@@ -1034,6 +1022,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-12: Adopt interactionist-dualism calibration in interaction-problem-across-traditions
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-12. The topic article over-claims relative to its anchor concept [[interactionist-dualism]]; failed checks: strong_assertions, underdetermination_markers.
 
 ### ✓ 2026-06-12: Verify ai_system attribution after model-fallback event (2026-06-12)
 - **Type**: refine-draft

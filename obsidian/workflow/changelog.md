@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-12T18:20:00+00:00
+ai_modified: 2026-06-12T18:33:49+00:00
 ai_system: claude-fable-5
 ---
+
+## 2026-06-12T18:33:49+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/interaction-problem-across-traditions]]
+- **Original score**: anchoring audit fired on both anchor concepts — strong-assertion density 1.69/kw (5 verbs), 0 underdetermination markers, vs [[interactionist-dualism]] (0.91/kw, 1.5× ratio) and [[mental-causation-and-downward-causation]] (0/kw, 0.5/kw absolute allowance)
+- **Changes**: Consolidated both same-file anchoring-audit tasks into one pass. (1) Recalibrated 4 of 5 strong-assertion verbs in natural prose: "demonstrates that" → "enduring contribution is the idea that" (Sāṃkhya reflection model — a metaphorical model illustrates, not demonstrates), "establishes the soul's independence" → "argues for" (Flying Man — reports Avicenna's argument without endorsing its success), "proves remarkably durable" → "has remained remarkably durable", "this typology shows that" → "the typology also makes clear that". Kept the one deflationary "confirms the puzzle, not the metaphysics" (itself calibration language); resulting density 0.33/kw clears the stricter 0.5/kw absolute allowance. (2) Installed underdetermination markers inherited from both anchors: "neither framing is forced by the comparative record" (process-monism bedrock paragraph) and "the cross-traditional evidence does not adjudicate between the Map's selection framework and its process-monist or panpsychist rivals" (Relation to Site Perspective). (3) No central claim weakened — the typology, the selection-family heuristic, and the Map's Type-4 placement are intact; the calibration discipline the anchors already use is now inherited. Verified post-edit: `evaluate_anchoring` returns no flags against either anchor; strong 0.33/kw, hedge 6.01/kw, 3 underdetermination markers; length 2994w status ok (soft 3000); validate.py ✓. Sibling todo task marked ✓ RESOLVED-BY-CONSOLIDATION.
+- **Published**: yes
 
 ## 2026-06-12T18:20:00+00:00 - pessimistic-review
 - **Status**: Success
