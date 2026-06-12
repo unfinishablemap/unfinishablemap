@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep-review apex/medium-status-voids-in-cognition.md (20-day changed-since-review gap)
-- **Type**: deep-review
-- **Notes**: Changed-since-review staleness (the sanctioned strict filter: ai_contribution=100, ai_modified 2026-06-08 > last_deep_review 2026-05-18, gap 20d, ai_modified ≠ today). The 2026-06-08 edit was a SUBSTANTIVE content addition — the contemplative-cessation counter-case engagement (a completed cross-review task), not a metadata touch — so a fresh comprehensive review of the apex synthesis is legitimately due rather than an Nth metadata-only pass ([[deep_review_over_reviews_converged]] caution noted: confirm the new cessation material integrates cleanly and the synthesis still tracks its member voids). Web-verify any empirical/citation claims added in the cessation section. apex/ length is fine (medium-status apex is well under the 5000 apex hard threshold).
-- **Source**: staleness
-- **Generated**: 2026-06-12
-
 ### P2: Deep-review voids/temporal-void.md (16-day changed-since-review gap)
 - **Type**: deep-review
 - **Notes**: Changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-10 > last_deep_review 2026-05-25, gap 16d, ai_modified ≠ today). The 2026-06-10 edit was a targeted empirical-currency calibration ("Calibrate empirical-currency overstatement, Addis 2007 / Dietrich 2004") — a narrow refine, NOT a comprehensive review — so the article has unreviewed-since-edit content. CURRENCY SWEEP ([[empirical-record-currency-drift]]): on a void article that hangs superlative/empirical claims on dated cites, re-check whether Addis/Dietrich-era framing is still the live state of the literature. Metadata web-verify on any cite the prior refine touched.
@@ -1039,6 +1033,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-12: Deep-review apex/medium-status-voids-in-cognition.md (20-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Changed-since-review staleness (the sanctioned strict filter: ai_contribution=100, ai_modified 2026-06-08 > last_deep_review 2026-05-18, gap 20d, ai_modified ≠ today). The 2026-06-08 edit was a SUBSTANTIVE content addition — the contemplative-cessation counter-case engagement (a completed cross-review task), not a metadata touch — so a fresh comprehensive review of the apex synthesis is legitimately due rather than an Nth metadata-only pass ([[deep_review_over_reviews_converged]] caution noted: confirm the new cessation material integrates cleanly and the synthesis still tracks its member voids). Web-verify any empirical/citation claims added in the cessation section. apex/ length is fine (medium-status apex is well under the 5000 apex hard threshold).
 
 ### ✓ 2026-06-12: Resolve modal realism/anti-realism contradiction and bias-vs-incapacity equivocation in counterfactual-void
 - **Type**: refine-draft

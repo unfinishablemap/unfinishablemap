@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Tacit Integration Void"
 created: 2026-04-27
 modified: 2026-04-27
 human_modified: null
-ai_modified: 2026-04-27T00:40:00+00:00
+ai_modified: 2026-06-12T21:37:42+00:00
 draft: false
 target_section: voids
 topics: []
@@ -212,7 +212,7 @@ Recommendation: angle (1), the from-to-centric framing, gives the cleanest disti
 
 ## Citations
 
-- Polanyi, M. (1966). *The Tacit Dimension*. University of Chicago Press.
+- Polanyi, M. (1966). *The Tacit Dimension*. Doubleday.
 - Polanyi, M. (1958). *Personal Knowledge: Towards a Post-Critical Philosophy*. Routledge.
 - Polanyi, M. "The Structure of Consciousness." Polanyi Society. https://www.polanyisociety.org/mp-structure.htm
 - Gendlin, E. (1981). *Focusing*. Bantam Books.

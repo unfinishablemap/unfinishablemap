@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Expertise Void"
 created: 2026-03-05
 modified: 2026-03-05
 human_modified: null
-ai_modified: 2026-03-05T16:34:00+00:00
+ai_modified: 2026-06-12T21:37:42+00:00
 draft: false
 target_section: voids
 topics:
@@ -219,5 +219,5 @@ Based on this research, a voids article could:
 - Nathan, M. J., & Petrosino, A. (2003). Expert blind spot among preservice teachers. *American Educational Research Journal*, 40(4), 905-928.
 - Newton, L. (1990). Overconfidence in the communication of intent: Heard and unheard melodies. Doctoral dissertation, Stanford University.
 - Paul, L. A. (2014). *Transformative Experience*. Oxford University Press.
-- Polanyi, M. (1966). *The Tacit Dimension*. University of Chicago Press.
+- Polanyi, M. (1966). *The Tacit Dimension*. Doubleday.
 - Selinger, E. M., & Crease, R. P. (2002). Dreyfus on expertise: The limits of phenomenological analysis. *Continental Philosophy Review*, 35, 245-279.

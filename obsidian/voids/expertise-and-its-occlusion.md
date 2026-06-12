@@ -4,7 +4,7 @@ description: "How deep expertise irreversibly transforms conscious experience an
 created: 2026-03-05
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-06-03T01:12:38+00:00
+ai_modified: 2026-06-12T21:37:42+00:00
 last_deep_review: 2026-06-03T01:12:38+00:00
 draft: false
 topics:
@@ -168,4 +168,4 @@ It also parallels [[necessary-opacity]] at a structural level. Both voids treat 
 10. Nathan, M. J., & Petrosino, A. (2003). Expert blind spot among preservice teachers. *American Educational Research Journal*, 40(4), 905-928.
 11. Newton, E. L. (1990). *The rocky road from actions to intentions*. PhD thesis, Stanford University.
 12. Paul, L. A. (2014). *Transformative Experience*. Oxford University Press.
-13. Polanyi, M. (1966). *The Tacit Dimension*. University of Chicago Press.
+13. Polanyi, M. (1966). *The Tacit Dimension*. Doubleday.

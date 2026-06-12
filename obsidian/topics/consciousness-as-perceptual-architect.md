@@ -4,7 +4,7 @@ description: "Consciousness actively shapes perception in two ways: stabilising 
 created: 2026-02-15
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-06-12T21:37:42+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -179,5 +179,5 @@ And both face the same explanatory gap. Predictive processing frameworks describ
 1. O'Regan, J.K. & Noë, A. (2001). A sensorimotor account of vision and visual consciousness. *Behavioral and Brain Sciences*, 24(5), 939-973.
 1. Palmer, S.E. (1999). *Vision Science: Photons to Phenomenology*. MIT Press.
 1. Paul, L.A. (2014). *Transformative Experience*. Oxford University Press.
-1. Polanyi, M. (1966). *The Tacit Dimension*. University of Chicago Press.
+1. Polanyi, M. (1966). *The Tacit Dimension*. Doubleday.
 1. Seitz, A. & Watanabe, T. (2005). A unified model for perceptual learning. *Trends in Cognitive Sciences*, 9(7), 329-334.

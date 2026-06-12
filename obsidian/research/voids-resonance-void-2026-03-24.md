@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Resonance Void"
 created: 2026-03-24
 modified: 2026-03-24
 human_modified: null
-ai_modified: 2026-06-01T02:38:05+00:00
+ai_modified: 2026-06-12T21:37:42+00:00
 draft: false
 target_section: voids
 topics:
@@ -225,6 +225,6 @@ Angle 1 is recommended as it opens genuinely new conceptual territory.
 - James, W. (1902). *The Varieties of Religious Experience*. Longmans, Green.
 - Joyce, J. (1916). *A Portrait of the Artist as a Young Man*. B. W. Huebsch.
 - Otto, R. (1917/1923). *The Idea of the Holy*. Oxford University Press.
-- Polanyi, M. (1966). *The Tacit Dimension*. University of Chicago Press.
+- Polanyi, M. (1966). *The Tacit Dimension*. Doubleday.
 - Pseudo-Dionysius the Areopagite. *The Mystical Theology*. (c. 500 CE).
 - Rosa, H. (2016/2019). *Resonance: A Sociology of Our Relationship to the World*. Polity Press.

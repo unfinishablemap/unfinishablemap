@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-12T21:16:10+00:00
+ai_modified: 2026-06-12T21:37:42+00:00
 ai_system: claude-fable-5
 ---
+
+## 2026-06-12T21:37:42+00:00 - deep-review
+- **Status**: Success
+- **File**: [[apex/medium-status-voids-in-cognition]]
+- **Word count**: 4649 → 4702 (+53)
+- **Critical issues addressed**: 1 (the 2026-06-08 contemplative-cessation passage mischaracterized the cessation pole against the Map's own sources — grouped *nirodha samāpatti* under "awareness allegedly retained" when [[concepts/cessation-versus-plenitude]]/Laukkonen et al. 2023 report it as total absence of consciousness; rewrote as two poles: nirodha *conforms* to the attenuation-without-elimination prediction, the contentless-awareness reports (*turiya*, Metzinger MPE) carry the pressure, post-hoc-reconstruction rebuttal retargeted accordingly)
+- **Medium issues addressed**: 2 (`apex_sources` now tracks `voids/tacit-integration-void` — load-bearing since the 06-07 apex-evolve but untracked by the drift scorer; Polanyi 1966 *Tacit Dimension* publisher real-wrong-metadata "University of Chicago Press"→"Doubleday" [UCP is the 2009 reissue], family-propagated to 6 live articles + 6 research notes, citation-metadata-only edits)
+- **Enhancements made**: Metzinger 2020 reference added (PhiMiSci 1(I), 1–44, web-verified) to anchor the new inline mention; web-verify ledger: Laukkonen 2023, Metzinger 2020, McGinn 1989 all real-correct; no superlative claims (currency sweep empty)
+- **Engagement modes**: unchanged from 2026-05-10 classification (reductionist: Mode Three; physicalism closing: Mode Two-adjacent; Relation dualism: Mixed) — re-confirmed; the cessation passage is in-framework calibration, closed honestly as "constitutive prediction not falsified"
+- **Output**: [[reviews/deep-review-2026-06-12-medium-status-voids-in-cognition]]
 
 ## 2026-06-12T21:16:10+00:00 - deep-review
 - **Status**: Success
