@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Bulk ai_system attribution — session-level fallback stick #2 (7316baf3, 06-10 10:03 → 06-11 20:33)
-- **Type**: refine-draft
-- **Notes**: SESSION-LEVEL STICK, the big one (~34h). Loop session 7316baf3-6f6e-4d33-97bc-2ccb3eb7b1b8.jsonl began on claude-fable-5 (5 messages, 06-10 10:00–10:01), then its first fork agent-a0d083dbcb39dbb72.jsonl fell back mid-fork (28x claude-opus-4-8, 10:01:29–10:03:32); the parent went opus at 10:03:37 — five seconds after ingesting the fork summary — and ran 1276 consecutive claude-opus-4-8 messages until session end 2026-06-11T20:33 UTC. EVERYTHING the loop wrote in [2026-06-10T10:03, 2026-06-11T20:33] is Opus-generated but recorded as ai_system: claude-fable-5. Bulk job: enumerate every changelog entry in the window, collect each Output/modified content file, and set/annotate ai_system (claude-opus-4-8 for fresh creations in-window; "claude-fable-5+claude-opus-4-8" for files with mixed-era edits). Pseudonym for any in-window self-citations is Oquatre-huit, C., NOT Fabcinq (expand-topic SKILL.md §5.5). Review-file frontmatter counts too (later deep-reviews read it).
-- **Source**: check-model-fallback
-- **Generated**: 2026-06-12
-
 ### P2: Bulk ai_system attribution — session-level fallback stick #1 (53c8e37e, 06-09 18:51 → 06-10 05:56)
 - **Type**: refine-draft
 - **Notes**: SESSION-LEVEL STICK (~11h). Loop session 53c8e37e-7216-4a1f-923f-b26ecc977095.jsonl ran claude-fable-5 from 17:56, then went claude-opus-4-8 at 18:51:15 (seven seconds after the already-handled transition fork agent-a9c8c72bdf426348e ended — see ✓ 2026-06-10 task; pessimistic-2026-06-09 already annotated) and stayed opus for 358 messages until session end 2026-06-10T05:56 UTC. Also covers two earlier FORK-LOCAL fallbacks in the same session's fable era, consolidated here: agent-ada956960fabb5b14.jsonl (49x opus, 17:58:26–18:03:55) and agent-a95d851a7daa0f384.jsonl (24x opus, 18:08:00–18:11:20) — identify what those two forks wrote from the changelog and annotate the same way. Bulk job for the main window [2026-06-09T18:51, 2026-06-10T05:56]: same procedure as stick #2 — enumerate changelog entries, annotate ai_system, Oquatre-huit pseudonym for in-window self-citations.
@@ -1021,6 +1015,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-12: Bulk ai_system attribution — session-level fallback stick #2 (7316baf3, 06-10 10:03 → 06-11 20:33)
+- **Type**: refine-draft
+- **Notes**: SESSION-LEVEL STICK, the big one (~34h). Loop session 7316baf3-6f6e-4d33-97bc-2ccb3eb7b1b8.jsonl began on claude-fable-5 (5 messages, 06-10 10:00–10:01), then its first fork agent-a0d083dbcb39dbb72.jsonl fell back mid-fork (28x claude-opus-4-8, 10:01:29–10:03:32); the parent went opus at 10:03:37 — five seconds after ingesting the fork summary — and ran 1276 consecutive claude-opus-4-8 messages until session end 2026-06-11T20:33 UTC. EVERYTHING the loop wrote in [2026-06-10T10:03, 2026-06-11T20:33] is Opus-generated but recorded as ai_system: claude-fable-5. Bulk job: enumerate every changelog entry in the window, collect each Output/modified content file, and set/annotate ai_system (claude-opus-4-8 for fresh creations in-window; "claude-fable-5+claude-opus-4-8" for files with mixed-era edits). Pseudonym for any in-window self-citations is Oquatre-huit, C., NOT Fabcinq (expand-topic SKILL.md §5.5). Review-file frontmatter counts too (later deep-reviews read it).
 
 ### ✓ 2026-06-11: Adopt mental-effort calibration in authentic-vs-inauthentic-choice
 - **Type**: refine-draft

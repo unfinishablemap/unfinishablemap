@@ -3,14 +3,14 @@ title: "Deep Review - Visual Consciousness"
 created: 2026-06-10
 modified: 2026-06-10
 human_modified: null
-ai_modified: 2026-06-10T10:02:30+00:00
+ai_modified: 2026-06-12T12:20:04+00:00
 draft: false
 topics: []
 concepts: []
 related_articles: []
 ai_contribution: 100
 author: null
-ai_system: claude-fable-5
+ai_system: claude-fable-5+claude-opus-4-8
 ai_generated_date: 2026-06-10
 last_curated: null
 ---

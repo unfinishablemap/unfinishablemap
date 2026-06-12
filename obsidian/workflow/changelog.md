@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-11T11:02:23+00:00
+ai_modified: 2026-06-12T12:20:04+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-12T12:20:04+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[reviews/deep-review-2026-06-10-visual-consciousness]]
+- **Task**: Bulk ai_system attribution — session-level fallback stick #2 (7316baf3, 06-10 10:03 → 06-11 20:33)
+- **Scope audited**: All 138 commits in the window [2026-06-10T10:03:40, 2026-06-11T20:32:56] UTC; 46 obsidian content/review files touched (15 created, 31 modified). Cross-checked git --name-status enumeration against changelog File/Output fields (git is the superset; nothing in the changelog escaped git).
+- **Finding**: The task premise ("everything recorded as ai_system: claude-fable-5") did not hold on disk — the in-window Opus session correctly self-identified in nearly every file it created. 11 fresh local review files already carry ai_system: claude-opus-4-8; the 3 outer-review files correctly carry the EXTERNAL reviewer's identity (chatgpt-5-5-pro / claude-fable-5 = the genuine claude.ai web service that authored the review body, not the local loop / gemini-2-5-pro) and were left untouched. The 31 modified pre-existing articles carry their original generator's ai_system (opus-4-5/4-6/4-7/4-8, sonnet-4-5) per corpus convention (ai_system records the generator; refine/deep-review edits do not rewrite it) — none had a false fable record, so no mixed-era annotation was warranted there.
+- **Changes**: Exactly one false record found and fixed: reviews/deep-review-2026-06-10-visual-consciousness.md (created by the first fork agent-a0d083dbcb39dbb72, which began on claude-fable-5 and fell back to claude-opus-4-8 mid-fork at 10:01:29; the file self-recorded claude-fable-5). Set ai_system: claude-fable-5+claude-opus-4-8 (mixed-era creation, precedent: pessimistic-2026-06-09.md) and updated ai_modified. Body text contains no model self-identification, so frontmatter was the only fix needed.
+- **Pseudonyms**: No in-window article creations and zero "Fabcinq, C." citations anywhere in obsidian content — no Oquatre-huit self-citation corrections required.
+- **Published**: yes
 
 ## 2026-06-11T14:17:18+00:00 - refine-draft
 - **Status**: Success
