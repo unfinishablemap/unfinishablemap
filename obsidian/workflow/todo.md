@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep-review voids/temporal-void.md (16-day changed-since-review gap)
-- **Type**: deep-review
-- **Notes**: Changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-10 > last_deep_review 2026-05-25, gap 16d, ai_modified ≠ today). The 2026-06-10 edit was a targeted empirical-currency calibration ("Calibrate empirical-currency overstatement, Addis 2007 / Dietrich 2004") — a narrow refine, NOT a comprehensive review — so the article has unreviewed-since-edit content. CURRENCY SWEEP ([[empirical-record-currency-drift]]): on a void article that hangs superlative/empirical claims on dated cites, re-check whether Addis/Dietrich-era framing is still the live state of the literature. Metadata web-verify on any cite the prior refine touched.
-- **Source**: staleness
-- **Generated**: 2026-06-12
-
 ### P2: Deep-review voids/decision-void.md (26-day changed-since-review gap)
 - **Type**: deep-review
 - **Notes**: Changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-10 > last_deep_review 2026-05-14, gap 26d, ai_modified ≠ today). The 2026-06-10 edit reconciled a "primary candidate site" hedge — a calibration refine, not a full review. Comprehensive review due: confirm the hedge reconciliation holds across the whole article (no residual over-claim elsewhere), audit tenet alignment (Tenet 2/3 — decision as a candidate selection locus must stay "leaves room for ≠ supports", [[evidential-status-discipline]]), web-verify citations.
@@ -1033,6 +1027,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-12: Deep-review voids/temporal-void.md (16-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-10 > last_deep_review 2026-05-25, gap 16d, ai_modified ≠ today). The 2026-06-10 edit was a targeted empirical-currency calibration ("Calibrate empirical-currency overstatement, Addis 2007 / Dietrich 2004") — a narrow refine, NOT a comprehensive review — so the article has unreviewed-since-edit content. CURRENCY SWEEP ([[empirical-record-currency-drift]]): on a void article that hangs superlative/empirical claims on dated cites, re-check whether Addis/Dietrich-era framing is still the live state of the literature. Metadata web-verify on any cite the prior refine touched.
 
 ### ✓ 2026-06-12: Deep-review apex/medium-status-voids-in-cognition.md (20-day changed-since-review gap)
 - **Type**: deep-review

@@ -5,6 +5,16 @@ ai_modified: 2026-06-12T21:37:42+00:00
 ai_system: claude-fable-5
 ---
 
+## 2026-06-12T11:40:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/temporal-void]]
+- **Word count**: 2243 → 2243 (+0)
+- **Critical issues addressed**: 0 (convergence-confirming, 4th review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: None to body — currency-sweep recheck of the two cites recalibrated by the 2026-06-10 refine. Web-verify ledger: Addis/Wong/Schacter 2007 real-correct, hedge faithful to live literature (anterior-hippocampal future-simulation asymmetry now attributed to detail recombination / constructive demand, not temporal direction — the 06-10 "illustrates rather than confirms" downgrade is current); Dietrich 2004 real-correct, transient-hypofrontality hedge accurate; Hancock 2019 / De Brigard 2020 unchanged, previously verified. 0 superlative claims (currency sweep empty). MQI-paragraph tenet-coherence guardrail verified non-slippage. Length-neutral (112% of voids/ soft, under hard).
+- **Engagement modes**: Illusionist/functionalist challenge unchanged from 2026-05-25 (Response 1 Mode Two, Response 2 Mode One, Response 3 Mode Three); no label leakage
+- **Output**: [[reviews/deep-review-2026-06-12-temporal-void]]
+
 ## 2026-06-12T21:37:42+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/medium-status-voids-in-cognition]]
