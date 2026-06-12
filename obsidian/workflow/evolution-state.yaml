@@ -1,5 +1,9 @@
-last_updated: '2026-06-12T19:33:49.846628+00:00'
-session_count: 10864
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-12T19:47:54.850452+00:00'
+session_count: 10865
 cycle_position: 8983
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-06-11T13:02:14.251954+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-10T08:44:06.791776+00:00'
-  agentic-social: '2026-06-12T19:47:36.912243+00:00'
+  agentic-social: '2026-06-12T19:47:54.850452+00:00'
   embed-videos: '2026-06-12T14:46:16.538277+00:00'
   commission-chatgpt-review: '2026-06-11T02:03:57.966339+00:00'
   commission-claude-review: '2026-06-11T03:04:24.805630+00:00'
@@ -90,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-06-12'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-06-12'
@@ -168,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-12'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-06-12'
   outcome: success
 agentic_social:
@@ -1001,40 +1005,33 @@ queue_status:
     positions: 0
     staleness: 0
     unconsumed_research: 0
-  last_replenishment: '2026-06-12T19:32:16+00:00'
+  last_replenishment: '2026-06-12T20:02:26+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: '2026-06-12T19:32:16+00:00 run (standard mode) - generated
+  last_replenishment_note: '2026-06-12T20:02:26+00:00 run (standard mode) - generated
     0 new tasks (documented replenish-at-floor steady state per unfin_loop_steady_state,
     not a defect). Queue is NOT at 0: 1 open loop-pickable P2 (counterfactual-void
     pessimistic-review fix, generated 18:21; target obsidian/voids/counterfactual-void.md
-    verified present on disk) sits at top of Active; floor is 3 so replenish fires.
-    Delta-verified vs the 19:01 run: git log since 19:01:50 shows ONLY 215a17f51 (the
-    19:01 replenish itself, state-only) and 22329a0d0 (check-model-fallback trigger,
-    state-only, queued nothing); working tree has only the uncommitted evolution-state.yaml
-    session/last_runs bump. Zero content/research/positions/length changes on disk
-    since the 19:01 verification, so no generative source can have moved: chains 0,
-    unconsumed research 0 actionable (newest note remains the consumed illusionism-functional-seeming-2026-03-28;
-    voids-* notes blocked by voids OVER cap), gaps 0, staleness 0 (cycle deep-review
-    slots), orphans 0 (orphaned_files 0), length 0 mintable (no content edits since
-    the fresh 19:01 warnings check), positions 0 (full audit 2026-06-09 within 30d
-    window), applied-apex register too sparse (3 domain files). Section counts re-counted
-    on disk: topics 268/270, concepts 263/270 (near cap), voids 101/100 OVER, positions
-    3 domain files. The two veto-tagged Active condense headers (meaning-of-life,
-    phenomenal-output-causal-machinery-dissociation) re-read and remain correctly
-    human-blocked, not mintable. Housekeeping this run: demoted the 19:01 note to
-    superseded_replenishment_note_1901 and pruned the 17:35 and 18:01 superseded notes
+    re-verified present on disk) sits at top of Active; floor is 3 so replenish fires.
+    Delta-verified vs the 19:32 run: git log since 19:32:16 shows ONLY 05d1cbb4a (the
+    19:32 replenish itself, state-only) and 966265b4a (agentic-social, state-only,
+    queued nothing); working tree has only the uncommitted evolution-state.yaml session
+    bump. Zero content/research/positions/length changes on disk since the 19:32 full
+    verification, so no generative source can have moved: chains 0, unconsumed research
+    0 actionable (voids-* notes blocked by voids OVER cap), gaps 0, staleness 0 (cycle
+    deep-review slots), orphans 0 (orphaned_files 0), length 0 mintable, positions
+    0 (full audit 2026-06-09 within 30d window), applied-apex register too sparse.
+    Section counts carried forward unchanged: topics 268/270, concepts 263/270, voids
+    101/100 OVER, positions 3 domain files. Housekeeping this run: demoted the 19:32
+    note to superseded_replenishment_note_1932 and pruned the 19:01 superseded note
     (preserved in git history) to cap state-file growth. Queue at floor; remaining
     backlog human-gated. Manufacturing filler would be wrong.'
-  superseded_replenishment_note_1901: '2026-06-12T19:01:50+00:00 run (standard mode)
+  superseded_replenishment_note_1932: '2026-06-12T19:32:16+00:00 run (standard mode)
     - generated 0 new tasks (replenish-at-floor steady state). Queue NOT at 0: 1 open
-    loop-pickable P2 (counterfactual-void pessimistic-review fix, generated 18:21)
-    at top of Active; floor is 3. Corrected stale p2_tasks 2 to 1: the 18:36 refine-draft
-    db8a1a9ca closed BOTH anchoring-audit siblings in one consolidation pass while
-    the 18:21 pessimistic review added the counterfactual-void P2. All eight sources
-    delta-verified at 0 vs the 18:01 run (full reasoning in git history, commit 215a17f51).
-    Section counts unchanged: topics 268/270, concepts 263/270, voids 101/100 OVER,
-    positions 3 domain files. Blocked-section placement re-checked, no relocation
-    due.'
+    loop-pickable P2 (counterfactual-void pessimistic-review fix) at top of Active;
+    floor is 3. All eight sources delta-verified at 0 vs the 19:01 run (full reasoning
+    in git history, commit 05d1cbb4a). Section counts re-counted on disk: topics 268/270,
+    concepts 263/270 (near cap), voids 101/100 OVER, positions 3 domain files. Two
+    veto-tagged Active condense headers re-read, correctly human-blocked.'
   replenishment_source_counts:
     applied_apex: 0
     chain: 0
