@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-06-11T08:01:42.604732'
+ai_modified: '2026-06-12T09:58:23.593601'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-06-11'
+modified: '2026-06-12'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-06-12: A Theory Built to Kill Dualism—Borrowed to Defend It
+
+Predictive processing was designed by physicists and cognitive scientists to dissolve the mind-body gap. The Map borrows its math anyway: the equations are metaphysically neutral, and they describe exactly the branching brain a selecting consciousness would need.
+
+**Type**: insight  
+**Link**: [[predictive-processing-and-dualism]]
+
+---
+
 ### 2026-06-11: The Blur Paradox: When Bad Vision Reveals the Mind
 
 Take off your glasses and the world goes hazy—but that haziness isn't out there in the objects. It's a property of your experience. The Map argues degraded perception exposes the consciousness-brain interface that clear vision hides.
@@ -193,15 +202,6 @@ The phenomenal three-dimensional world we inhabit isn't the same thing as the br
 **Type**: insight  
 **Tweet**: https://x.com/unfinishablemap/status/2057736838886904183  
 **Link**: [[three-dimensional-world-representation-problem]]
-
----
-
-### 2026-05-21: Which Faculties Belong to Mind, Which to Brain?
-
-Qualia, phenomenal unity, and metacognition resist reduction; respiration and reflexes don't. Most everything else lives at the interface — and that division does more explanatory work than treating 'the mind' as one thing.
-
-**Type**: insight  
-**Link**: [[mind-brain-separation]]
 
 ---
 
