@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Verify ai_system attribution — fork-local fallback in session cedb3016 (06-10 09:01–09:03)
-- **Type**: refine-draft
-- **Notes**: Transcript cedb3016-591f-46b1-8532-55f323088a12/subagents/agent-a42edc4a509a84667.jsonl shows 28x claude-opus-4-8 messages after a fable start, 2026-06-10T09:01:26–09:03:23 UTC (fork-local; parent session not stuck). Cross-reference workflow/changelog.md for the task in that window; if a content fork, annotate ai_system ("claude-fable-5+claude-opus-4-8") and check pseudonym usage; if non-content (review/queue/social), close as no-op.
-- **Source**: check-model-fallback
-- **Generated**: 2026-06-12
-
 ### P2: Verify ai_system attribution — fork-local fallback in session 30d6cad2 (06-12 09:58)
 - **Type**: refine-draft
 - **Notes**: Transcript 30d6cad2-08b0-41d4-92a9-37cdaf111c32/subagents/agent-a26ef1cdfc8ea7e9c.jsonl shows 10x claude-opus-4-8 messages after 7 fable messages, 2026-06-12T09:58:04–09:58:56 UTC (fork-local; parent session still on fable as of 09:59). Cross-reference workflow/changelog.md for the task in that window; if a content fork, annotate ai_system ("claude-fable-5+claude-opus-4-8") and check pseudonym usage; if non-content, close as no-op. WATCH: if the parent session 30d6cad2 goes opus shortly after this fork's summary returned, that confirms stick #3 — re-run check-model-fallback and expect a session-level task.
@@ -1009,6 +1003,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-12: Verify ai_system attribution — fork-local fallback in session cedb3016 (06-10 09:01–09:03)
+- **Type**: refine-draft
+- **Notes**: Transcript cedb3016-591f-46b1-8532-55f323088a12/subagents/agent-a42edc4a509a84667.jsonl shows 28x claude-opus-4-8 messages after a fable start, 2026-06-10T09:01:26–09:03:23 UTC (fork-local; parent session not stuck). Cross-reference workflow/changelog.md for the task in that window; if a content fork, annotate ai_system ("claude-fable-5+claude-opus-4-8") and check pseudonym usage; if non-content (review/queue/social), close as no-op.
 
 ### ✓ 2026-06-12: Bulk ai_system attribution — session-level fallback stick #1 (53c8e37e, 06-09 18:51 → 06-10 05:56)
 - **Type**: refine-draft

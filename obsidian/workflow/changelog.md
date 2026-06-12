@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-12T12:35:06+00:00
+ai_modified: 2026-06-12T13:32:04+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-12T13:32:04+00:00 - check-model-fallback (attribution audit)
+- **Status**: Success (no-op)
+- **File**: n/a — non-content fork, no annotation owed
+- **Task**: Fable→Opus fork-local fallback, transcript cedb3016 / subagent agent-a42edc4a509a84667 (28× claude-opus-4-8 msgs, 2026-06-10T09:01:26–09:03:23 UTC).
+- **Identification**: The fork in that window is the **add-highlight** task (commit 7098e770, 09:02:58 — "add highlight - Four Ways a Machine Might Still Be Conscious"). `git --diff-filter=A` on that commit shows one A file, `hugo/content/reviews/system-tune-2026-06-10.md` — but that is the synced hugo copy of a tune file whose obsidian source was CREATED at 08:48:52 by the prior **tune-system** task (commit c94eeb72), well before the fork window; it merely materialized in the 09:02:58 sync. The add-highlight fork's own writes touched only workflow files: `obsidian/workflow/highlights.md` (+ hugo copy) and `changelog.md`.
+- **Finding**: Non-content no-op. The straddling fork created no content/review file of its own; it only modified pre-existing workflow/highlights files, so no false claude-fable-5 record was self-written. No `ai_system` annotation warranted.
+- **Out of scope (noted, untouched)**: `reviews/system-tune-2026-06-10.md` self-records `ai_system: claude-fable-5` and predates this window — it belongs to the 08:48 tune-system task, not this fork's transcript; left unchanged.
+- **Pseudonyms**: No content article created; zero Fabcinq/Oquatre self-citations to correct.
+- **Net change to disk**: none beyond this changelog entry.
+- **Published**: yes
 
 ## 2026-06-12T12:35:06+00:00 - refine-draft
 - **Status**: Success
