@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-12T16:32:04+00:00
+ai_modified: 2026-06-12T16:52:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-12T16:52:00+00:00 - check-model-fallback (attribution audit)
+- **Status**: Success (no-op)
+- **File**: n/a — non-content fork, no annotation owed
+- **Task**: 6× claude-opus-4-8 messages alongside the primary model in transcript agent-a9bbdd257aaa604d2, window 2026-06-12T13:02:37–13:03:10 UTC.
+- **Identification**: The only commit in/adjacent to the window is 11b8e89b (13:03:17 — "auto(agentic-social): agentic_social"). `git show --name-status` shows it MODIFIED exactly one file, `obsidian/workflow/evolution-state.yaml` (state). `git --diff-filter=A` returns **zero** created files for that commit and across the full 13:00–13:10 window. No content or review file was CREATED anywhere near the window.
+- **Finding**: Non-content no-op. The straddling fork was an agentic-social post that only modified pre-existing workflow/state YAML (the post itself is external) — it created no content/review file, so it self-wrote no false claude-fable-5 record. No `ai_system` annotation warranted.
+- **Pseudonyms**: No content article created; zero Fabcinq/Oquatre self-citations to correct.
+- **Out of scope**: External outer-review reviewer identities left untouched (none created in-window anyway).
+- **Net change to disk**: none beyond this changelog entry.
+- **Published**: yes
 
 ## 2026-06-12T16:45:00+00:00 - check-model-fallback (attribution audit)
 - **Status**: Success (no-op)
