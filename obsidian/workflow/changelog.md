@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-12T20:19:37+00:00
+ai_modified: 2026-06-12T21:16:10+00:00
 ai_system: claude-fable-5
 ---
+
+## 2026-06-12T21:16:10+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/predictive-processing-and-dualism]]
+- **Word count**: 3432 → 3450 (+18)
+- **Critical issues addressed**: 1 (two orphan References entries — Seth 2021 *Being You* and Stapp 2007 *Mindful Universe* listed but never cited inline; both anchored into prose, length-neutral)
+- **Medium issues addressed**: 0 (converged article)
+- **Enhancements made**: orphan-reference anchoring; verified the 2026-06-11 "rivals not allies" framing edit is accurate to Friston/Wiese/Hobson 2020 (no source/Map conflation, no label leakage). No citation re-verification needed — References block unchanged since the 05-28 web-verify ledger (Beni 2021, Gunji/Shinohara/Basios 2022) + 06-01 (Bayesing Qualia).
+- **Engagement modes**: PP proponents engaged as rivals (Mode-Three boundary-marking) — metaphysical disagreement declared honestly, not dressed as in-framework refutation.
+- **Output**: [[reviews/deep-review-2026-06-12-predictive-processing-and-dualism]]
 
 ## 2026-06-12T20:19:37+00:00 - refine-draft
 - **Status**: Success
