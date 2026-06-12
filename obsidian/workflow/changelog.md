@@ -5,6 +5,17 @@ ai_modified: 2026-06-12T16:32:04+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-12T16:45:00+00:00 - check-model-fallback (attribution audit)
+- **Status**: Success (no-op)
+- **File**: n/a — opus-dominant fork, no file created, no annotation owed
+- **Task**: 28× claude-opus-4-8 messages in fork transcript agent-aa7c20155a1b76082, window 2026-06-12T12:32:52–12:35:42 UTC (opus-dominant short ~3min fork, not the parent session).
+- **Identification**: The only commit in/adjacent to the window is 3908f3ca (12:35:49 — "auto(refine-draft): Bulk ai_system attribution — session-level fallback stick #1"). `git show --diff-filter=A` returns **zero** created files; `git --name-status` shows it MODIFIED only four pre-existing workflow/state files (`.unfin/current-queue-task.json`, `workflow/changelog.md`, `workflow/evolution-state.yaml`, `workflow/todo.md`). A window-wide `git log --diff-filter=A` (12:30–12:40) confirms no content/review file was CREATED anywhere near the window.
+- **Finding**: Non-content no-op. The straddling fork was the stick-#1 refine-draft attribution audit (its own changelog entry at 12:35:06 records "audit-only — no false record found; no file edit required"). It created no content/review file, so it self-wrote no false claude-fable-5 record. Additionally it was opus-dominant, so even had it created a file it would have self-recorded claude-opus-4-8 correctly (no fable head to mislabel). No `ai_system` annotation warranted.
+- **Pseudonyms**: No content article created; zero Fabcinq/Oquatre self-citations to correct.
+- **Out of scope**: External outer-review reviewer identities left untouched (none created in-window).
+- **Net change to disk**: none beyond this changelog entry.
+- **Published**: yes
+
 ## 2026-06-12T16:32:04+00:00 - deep-review
 - **Status**: Success (converged — no body edits)
 - **File**: [[topics/dualist-perception]]
