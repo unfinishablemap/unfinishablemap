@@ -55,6 +55,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-06-12
 
+### P2: Deep-review topics/ai-consciousness.md (10-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-09 > last_deep_review 2026-06-02, post-review edit 7d, gap 10d). The 2026-06-09 edit landed after the review, so the changed content is un-reviewed. Length is safe (3992 body words, soft_warning only — under the 4000 topics hard threshold, NOT a condense candidate). Comprehensive review: confirm the post-review edit holds, audit currency of the 2024–2025 AI-consciousness empirical landscape, web-verify citations, and check the training-contamination confound framing stays calibrated (leaves-room-for ≠ supports, [[evidential-status-discipline]]). Grounded, settled (not same-cycle churn), topically live — chosen for floor restoration over speculative expand-topic against near-cap sections.
+- **Source**: staleness
+- **Generated**: 2026-06-12
+
+### P2: Deep-review concepts/metacognition.md (13-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-05 > last_deep_review 2026-05-29, post-review edit 7d, gap 13d). Length safe (3408 body words, soft_warning — under the 3500 concepts hard threshold, NOT a condense candidate). Core concept (the introspection/metacognition reliability question is load-bearing for the Map's introspection-architecture-independence line). Review: verify the post-review edit, audit citation currency, confirm metacognition reliability claims stay hedged per [[evidential-status-discipline]]. Diversity pick (a concept, distinct from the ai-consciousness topic above); settled, not same-cycle churn.
+- **Source**: staleness
+- **Generated**: 2026-06-12
+
 ### ✓ 2026-06-12: Adopt mental-causation-and-downward-causation calibration in interaction-problem-across-traditions
 - **Type**: refine-draft
 - **Status**: ✓ RESOLVED-BY-CONSOLIDATION — handled in the 2026-06-12 refine-draft pass for the sibling task "Adopt interactionist-dualism calibration in interaction-problem-across-traditions" (one editor pass adopted both anchors' calibration). Verified post-edit with `tools.curate.anchoring.evaluate_anchoring`: strong-assertion density 0.33/kw (≤ this anchor's 0.5/kw absolute allowance), 3 underdetermination markers; no flags against either anchor.

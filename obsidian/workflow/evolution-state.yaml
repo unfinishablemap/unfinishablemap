@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-12T21:48:22.957561+00:00'
-session_count: 10873
-cycle_position: 8986
+last_updated: '2026-06-12T22:03:58.305471+00:00'
+session_count: 10874
+cycle_position: 8987
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-12T18:21:04.773971+00:00'
   optimistic-review: '2026-06-11T09:18:52.030128+00:00'
   check-tenets: '2026-06-10T08:19:31.690481+00:00'
   check-links: '2026-06-12T15:18:12.141170+00:00'
-  deep-review: '2026-06-12T21:41:27.991703+00:00'
+  deep-review: '2026-06-12T22:03:58.305471+00:00'
   tune-system: '2026-06-10T08:48:52.476985+00:00'
   research-voids: '2026-06-12T15:31:29.731747+00:00'
   coalesce: '2026-06-11T13:02:14.251954+00:00'
@@ -35,7 +35,7 @@ last_runs:
   collect-gemini-review: '2026-06-11T04:56:30.107693+00:00'
   positions-evolve: '2026-06-10T22:48:24.211235+00:00'
   check-model-fallback: '2026-06-12T19:16:17.038188+00:00'
-last_git_push: '2026-06-12T18:03:20.505443+00:00'
+last_git_push: '2026-06-12T22:03:58.500998+00:00'
 last_tweet_date: '2026-06-12'
 content_stats:
   total_files: 297
@@ -85,7 +85,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 394
-  reviews_completed: 5268
+  reviews_completed: 5269
   apex_articles: 34
 quality:
   critical_issues: 0
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-12'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-12'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-12'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-12'
   outcome: success
 agentic_social:
@@ -995,47 +995,50 @@ queue_status:
     applied_apex: 0
     chain: 0
     gap_analysis: 0
-    length_analysis: 1
+    length_analysis: 0
     orphan_integration: 0
     positions: 0
-    staleness: 4
+    staleness: 2
     unconsumed_research: 0
   prior_replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
     gap_analysis: 0
-    length_analysis: 0
+    length_analysis: 1
     orphan_integration: 0
     positions: 0
-    staleness: 0
+    staleness: 4
     unconsumed_research: 0
-  last_replenishment: '2026-06-12T21:00:00+00:00'
+  last_replenishment: '2026-06-12T22:10:00+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: '2026-06-12T20:33:43+00:00 run (standard mode) - generated
-    0 new tasks. Queue is now at TRUE ZERO open loop-pickable tasks: the sole open
-    P2 (counterfactual-void pessimistic-review fix) completed in commit 12a9024dd
-    at 20:22 (all 4 findings addressed per changelog; fork queued no follow-ons).
-    Delta-verified vs the 20:02 run: git log since 20:02:26 shows ONLY a1bb3bf81 (the
-    20:02 replenish itself, state-only) and 12a9024dd (the counterfactual-void refine-draft).
-    That completion was checked against every source it could move: (a) refine-draft
-    generates no chain; (b) Source 7b - grep of obsidian/positions/ for counterfactual-void
-    hits nothing, no positions-evolve update due; (c) length - edited file is 2349w
-    soft_warning, under the 3000 voids hard threshold, not mintable; (d) the generating
-    pessimistic-2026-06-12 review covered only this one article and all 4 issues are
-    discharged; (e) the 2026-06-12 dualist-perception deep-review left no unqueued
-    follow-ons. All other sources unchanged from the 20:02 full verification: chains
-    0 (no research-topic or expand-topic in recent_tasks 14d window), unconsumed research
-    0 actionable (voids-* notes blocked by voids OVER cap), gaps 0, staleness 0 (cycle
-    deep-review slots self-select), orphans 0 (quality.orphaned_files 0), positions
-    add/update/audit 0 (full audit 2026-06-09 within 30d), applied-apex 0. Section
-    counts re-counted on disk this run: topics 268/270, concepts 263/270, voids 101/100
-    OVER, positions register unchanged. Remaining backlog is human-gated (2 vetoed
-    condense headers, 2 duhem-quine HUMAN LENGTH DECISION blocks, diverted condense
-    flagships, apex-cap governance, voids over-cap blocking research consumption).
-    Manufacturing filler tasks would be wrong; the cycle non-queue slots (deep-review,
-    coalesce, reviews) continue content work. Housekeeping: demoted the 20:02 note
-    to superseded_replenishment_note_2002 and pruned the 19:32 superseded note (preserved
-    in git history).'
+  last_replenishment_note: '2026-06-12T22:10:00+00:00 run (standard mode) - generated
+    2 new P2 staleness deep-review tasks to restore the loop-pickable P0-P2 floor.
+    Before: loop-pickable open P0-P2 stood at 2 (decision-void deep-review; time-collapse-and-agency
+    condense, itself an ASSESS-FIRST likely-divert-to-human) - effectively ~1, below
+    the MIN_QUEUE floor of 3. The two queued non-pickable headers (counterfactual-void
+    work) had completed and the cycle had drained the floor again. All eight sources
+    re-verified on disk this run: chains 0 (no research-topic/expand-topic in recent_tasks
+    14d window); unconsumed research 0 actionable (only voids-* notes remain, voids
+    OVER cap 101/100); gaps 0; orphans 0 (quality.orphaned_files 0); positions add/update/audit
+    0 (full audit 2026-06-09 within 30d window, no position cites a same-cycle-changed
+    article needing update); applied-apex 0; length_analysis 0 NEW (every published-content
+    hard/critical offender is already human-gated: epistemology-of-convergence-arguments
+    + born-rule + phenomenal-output apex are DEFERRED/vetoed flagships, edge-states
+    already DIVERTED-TO-HUMAN, apex-articles.md is the section index/governance hub,
+    time-collapse already queued). Section counts re-counted: topics 268/270, concepts
+    263/270, voids 101/100 OVER, positions register unchanged. The only genuinely actionable
+    source was staleness: scanned all AI-heavy content for GENUINE changed-since-review
+    edits (ai_modified >= 7d after last_deep_review, not same-day review churn) and
+    promoted the two best-grounded, settled, length-safe, diverse picks not already
+    queued and not churned this cycle: (1) topics/ai-consciousness.md (post-review
+    edit 7d, gap 10d, 3992w soft_warning, topically live) and (2) concepts/metacognition.md
+    (post-review edit 7d, gap 13d, 3408w soft_warning, core introspection-reliability
+    concept). Deliberately excluded: counterfactual-void / ineffable-encounter-void
+    (ai_modified TODAY, same-cycle churn); duhem-quine (length-blocked flagship with
+    2 open HUMAN LENGTH DECISION blocks); perceptual-failure / functionalism (heavily
+    churned 06-10/06-11); filter-theory + agency-void (at hard_warning length - a deep-review
+    would risk a human-decision condense fork). After: loop-pickable P0-P2 = 4, at/above
+    floor. No speculative expand-topic minted against the near/over-cap sections.'
   replenishment_source_counts:
     applied_apex: 0
     chain: 0
