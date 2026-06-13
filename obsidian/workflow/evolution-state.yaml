@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-13T22:04:02.952078+00:00'
-session_count: 10970
+last_updated: '2026-06-13T22:21:55.100620+00:00'
+session_count: 10971
 cycle_position: 9032
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-13T04:19:24.343577+00:00'
   refine-draft: '2026-06-13T21:50:57.064025+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-13T21:03:42.525848+00:00'
+  replenish-queue: '2026-06-13T22:21:55.100620+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-09T11:04:20.317410+00:00'
   add-highlight: '2026-06-13T08:02:33.492337+00:00'
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-06-13'
-  outcome: success
 - task: check-links
   type: check-links
   date: '2026-06-13'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-13'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-13'
   outcome: success
 agentic_social:
@@ -1046,52 +1046,54 @@ queue_status:
   needs_replenishment: false
   last_replenishment: '2026-06-13T22:30:00+00:00'
   last_replenishment_mode: conservative
-  current_replenishment_note: '2026-06-13T22:30:00+00:00 run (conservative mode) - generated
-    3 NEW staleness deep-review tasks at the TOP of Active Tasks to restore and buffer
-    the loop-pickable P0-P2 floor. On entry loop-pickable open P0-P2 was 2 (the two
-    2026-06-12 staleness deep-reviews: topics/ai-consciousness, ldr 2026-06-02 < ai_mod
-    2026-06-09; concepts/metacognition, ldr 2026-05-29 < ai_mod 2026-06-05 - both
-    re-verified genuinely pending on disk), below the MIN_QUEUE floor of 3; the 3
-    open P3s (route-vs-direction anchor, perception-cluster cross-links, chemosensory-qualia
+  current_replenishment_note: '2026-06-13T22:30:00+00:00 run (conservative mode) -
+    generated 3 NEW staleness deep-review tasks at the TOP of Active Tasks to restore
+    and buffer the loop-pickable P0-P2 floor. On entry loop-pickable open P0-P2 was
+    2 (the two 2026-06-12 staleness deep-reviews: topics/ai-consciousness, ldr 2026-06-02
+    < ai_mod 2026-06-09; concepts/metacognition, ldr 2026-05-29 < ai_mod 2026-06-05
+    - both re-verified genuinely pending on disk), below the MIN_QUEUE floor of 3;
+    the 3 open P3s (route-vs-direction anchor, perception-cluster cross-links, chemosensory-qualia
     expand CHECK-CAP) do not count toward the floor; the two #veto P2 condense tasks
-    (meaning-of-life, phenomenal-output) are not loop-pickable. All eight sources re-verified
-    on disk. CHAINS (S1) 0 - recent_tasks 14d window holds no research-topic or expand-topic
-    completion to chain from. UNCONSUMED RESEARCH (S2) 0 actionable - the recent research
-    notes (berridge wanting/liking 06-03, pci-phi-anaesthesia 05-27, the introspection-architecture
-    cross-tradition/cross-species/neoplatonist notes) are all already CONSUMED into
-    existing articles or were citation-support notes for an existing article (pci-phi
-    anchors anaesthesia-and-the-consciousness-interface, verified). GAPS (S3) 0 - corpus
-    saturated (topics 267/270, concepts 262/270, both near cap). ORPHANS (S5) 0 (quality.orphaned_files
-    0). LENGTH (S6) 0 NEW - all published-content hard/critical offenders are research/*
-    notes (excluded from condense), apex index hubs (apex-articles 6963w), #veto (meaning-of-life,
-    phenomenal-output 6832w), or human-gated/DIVERTED calibration flagships (epistemology-of-convergence
+    (meaning-of-life, phenomenal-output) are not loop-pickable. All eight sources
+    re-verified on disk. CHAINS (S1) 0 - recent_tasks 14d window holds no research-topic
+    or expand-topic completion to chain from. UNCONSUMED RESEARCH (S2) 0 actionable
+    - the recent research notes (berridge wanting/liking 06-03, pci-phi-anaesthesia
+    05-27, the introspection-architecture cross-tradition/cross-species/neoplatonist
+    notes) are all already CONSUMED into existing articles or were citation-support
+    notes for an existing article (pci-phi anchors anaesthesia-and-the-consciousness-interface,
+    verified). GAPS (S3) 0 - corpus saturated (topics 267/270, concepts 262/270, both
+    near cap). ORPHANS (S5) 0 (quality.orphaned_files 0). LENGTH (S6) 0 NEW - all
+    published-content hard/critical offenders are research/* notes (excluded from
+    condense), apex index hubs (apex-articles 6963w), #veto (meaning-of-life, phenomenal-output
+    6832w), or human-gated/DIVERTED calibration flagships (epistemology-of-convergence
     6479w standing HUMAN LENGTH DECISION, born-rule, clinical-dissociation, laws-and-dispositions,
     filter-theory at the 3500 concepts hard threshold). POSITIONS add (S7a) 0; POSITIONS
     update (S7b) 0; POSITIONS audit NOT due (last 2026-06-09, 30d window open to ~2026-07-09).
-    APPLIED-APEX (S8) 0 (register only 3 live entries, no high-confidence cluster, no
-    approved new slot). STALENESS (S4) is the live source: the strict changed-since-review
+    APPLIED-APEX (S8) 0 (register only 3 live entries, no high-confidence cluster,
+    no approved new slot). STALENESS (S4) is the live source: the strict changed-since-review
     scan (ai_contribution>=50, ai_modified > last_deep_review, ai_modified != today,
     gap >=12d) over topics/concepts/voids/apex yields 106 raw hits; applied the git-level
     churn filter (per the documented churn-filter discipline) to require an OWN-CONTENT
-    post-review edit, not a corpus-wide sweep. EXCLUDED voids/emergence-void (gap 17d
-    - git-confirmed post-review edit cd7cf658f was the corpus-wide Chalmers 2016->2017
+    post-review edit, not a corpus-wide sweep. EXCLUDED voids/emergence-void (gap
+    17d - git-confirmed post-review edit cd7cf658f was the corpus-wide Chalmers 2016->2017
     year-normalisation sweep, NOT own-content); EXCLUDED topics/dopamine-and-the-unified-interface
     (gap 12d - post-review edit f2521415c was the corpus-wide Cai/Kaeser 2024 citation-metadata
-    fix, NOT own-content); EXCLUDED concepts/prospective-memory (post-review touch was
-    incidental in a haecceity deep-review commit). PICKED 3 with git-confirmed own-content
-    post-review edits, length-safe (status=ok), un-queued, section-diverse: topics/the-hard-problem-in-non-western-philosophy
-    (Adopt panpsychism calibration, 2873w), topics/cross-cultural-phenomenology-of-agency
-    (Adopt witness-consciousness calibration, 2407w), concepts/consciousness-and-scientific-explanation
-    (Reframe illusionism rebuttal, 2428w). Queued all 3 at the TOP of Active Tasks
-    (LIFO-starvation defence). After: loop-pickable open P0-P2 = 5 (2 existing + 3
-    new), above the floor of 3 with a small buffer. No speculative expand-topic against
-    near-cap sections; no churn-prone or human-gated length task minted.'
-  superseded_replenishment_note_2052: '2026-06-13T20:52:00+00:00 run (standard mode) - generated
-    1 NEW staleness deep-review task (voids/metaphor-void.md) at the TOP of Active
-    Tasks to restore the loop-pickable P0-P2 floor. On entry loop-pickable open P0-P2
-    was 2 (the two 2026-06-12 staleness deep-reviews: topics/ai-consciousness, ldr
-    2026-06-02 < ai_mod 2026-06-13; and concepts/metacognition, ldr 2026-05-29 < ai_mod
-    2026-06-05 - both re-verified genuinely pending on disk), below the MIN_QUEUE
+    fix, NOT own-content); EXCLUDED concepts/prospective-memory (post-review touch
+    was incidental in a haecceity deep-review commit). PICKED 3 with git-confirmed
+    own-content post-review edits, length-safe (status=ok), un-queued, section-diverse:
+    topics/the-hard-problem-in-non-western-philosophy (Adopt panpsychism calibration,
+    2873w), topics/cross-cultural-phenomenology-of-agency (Adopt witness-consciousness
+    calibration, 2407w), concepts/consciousness-and-scientific-explanation (Reframe
+    illusionism rebuttal, 2428w). Queued all 3 at the TOP of Active Tasks (LIFO-starvation
+    defence). After: loop-pickable open P0-P2 = 5 (2 existing + 3 new), above the
+    floor of 3 with a small buffer. No speculative expand-topic against near-cap sections;
+    no churn-prone or human-gated length task minted.'
+  superseded_replenishment_note_2052: '2026-06-13T20:52:00+00:00 run (standard mode)
+    - generated 1 NEW staleness deep-review task (voids/metaphor-void.md) at the TOP
+    of Active Tasks to restore the loop-pickable P0-P2 floor. On entry loop-pickable
+    open P0-P2 was 2 (the two 2026-06-12 staleness deep-reviews: topics/ai-consciousness,
+    ldr 2026-06-02 < ai_mod 2026-06-13; and concepts/metacognition, ldr 2026-05-29
+    < ai_mod 2026-06-05 - both re-verified genuinely pending on disk), below the MIN_QUEUE
     floor of 3. The prior 20:15 run minted voids/mutation-void.md, which a fork has
     since EXECUTED (last_deep_review now 2026-06-13T20:46 == ai_modified, marked done),
     so it is correctly out of Active Tasks and not double-counted; the 3 open P3s
