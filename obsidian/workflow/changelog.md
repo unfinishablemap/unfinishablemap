@@ -5,6 +5,16 @@ ai_modified: 2026-06-13T07:16:22+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-13T11:32:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/theory-of-mind]]
+- **Word count**: 3153 → 3153 (+0; metadata/verification pass on a converged hub)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Sixth pass. Git-diffed the 2026-05-27 post-review edit (DMN cross-link install + substrate-overlap clause) — benign, no defect. Web-verified all journal cites to publisher of record (Stiller & Dunbar 2007, Call & Tomasello 2008, Heyes 2014 all real-correct exact tuples; per-cite ledger in review file); the "fifth-order intentionality ceiling" claim attributed to Stiller & Dunbar is faithful. Superlative-currency sweep clean (0 matches). Hedging discipline intact — no possibility/probability slippage. Engagement modes unchanged (functionalist Mixed, eliminativist Mixed, Buddhist Mode Three; no label leakage). Article remains STABLE/converged. Frontmatter timestamps + ai_system→claude-opus-4-6+claude-opus-4-8.
+- **Output**: [[reviews/deep-review-2026-06-13-theory-of-mind]]
+
 ## 2026-06-13T10:46:11+00:00 - positions-evolve (update)
 - **Status**: Success
 - **Mode**: update (Source 7b — positions dependency changed)

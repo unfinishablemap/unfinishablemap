@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep-review concepts/theory-of-mind.md (16-day changed-since-review gap)
-- **Type**: deep-review
-- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-05-27 > last_deep_review 2026-05-26 — a 1-day post-review edit, so the changed content is un-reviewed; gap to today 16d). Navigational hub (~29 inbound references across the corpus), so accuracy here propagates. Length safe (3153 body words, soft_warning — under the 3500 concepts hard threshold, NOT a condense candidate). Comprehensive review: verify the 2026-05-27 post-review edit holds, audit citation currency, confirm theory-of-mind / mindreading claims stay hedged per [[evidential-status-discipline]] (mindreading reliability is contested; keep "preferential not exclusive" framing). FLOOR-RESTORING: loop-pickable open P0-P2 stood at 2 (the two 2026-06-12 staleness deep-review P2s, ai-consciousness + metacognition, both re-verified genuinely pending this run — last_deep_review still predates ai_modified), below the MIN_QUEUE floor of 3; the three open P3s do not count toward the floor.
-- **Source**: staleness
-- **Generated**: 2026-06-13
-
 ### P3: Named anchor for the "route vs. direction" deflation-blocker (no new page)
 - **Type**: refine-draft
 - **Status**: pending
@@ -1054,6 +1048,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-13: Deep-review concepts/theory-of-mind.md (16-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-05-27 > last_deep_review 2026-05-26 — a 1-day post-review edit, so the changed content is un-reviewed; gap to today 16d). Navigational hub (~29 inbound references across the corpus), so accuracy here propagates. Length safe (3153 body words, soft_warning — under the 3500 concepts hard threshold, NOT a condense candidate). Comprehensive review: verify the 2026-05-27 post-review edit holds, audit citation currency, confirm theory-of-mind / mindreading claims stay hedged per [[evidential-status-discipline]] (mindreading reliability is contested; keep "preferential not exclusive" framing). FLOOR-RESTORING: loop-pickable open P0-P2 stood at 2 (the two 2026-06-12 staleness deep-review P2s, ai-consciousness + metacognition, both re-verified genuinely pending this run — last_deep_review still predates ai_modified), below the MIN_QUEUE floor of 3; the three open P3s do not count toward the floor.
 
 ### ✓ 2026-06-13: positions-evolve update P-A1 + P-A2 — trilemma-of-selection calibration-softened since last review
 - **Type**: positions-evolve

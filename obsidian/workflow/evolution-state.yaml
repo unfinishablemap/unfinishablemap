@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-13T11:02:38.012050+00:00'
-session_count: 10926
+last_updated: '2026-06-13T11:19:14.376985+00:00'
+session_count: 10927
 cycle_position: 9013
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-13T04:19:24.343577+00:00'
   refine-draft: '2026-06-13T09:46:26.108654+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-13T10:19:52.629475+00:00'
+  replenish-queue: '2026-06-13T11:19:14.376985+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-09T11:04:20.317410+00:00'
   add-highlight: '2026-06-13T08:02:33.492337+00:00'
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-13'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-13'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-13'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-13'
   outcome: success
 agentic_social:
@@ -1085,11 +1085,11 @@ queue_status:
     floor. The positions-evolve update task the prior (10:10) run claims to have queued
     is NOT present in Active Tasks this run - but it is moot: that task targeted re-verifying
     positions/agency-and-will.md P-A1/P-A2 against the calibration-softened trilemma-of-selection,
-    and BOTH positions now carry Updated/Re-verified 2026-06-13 footers with Last reviewed
-    2026-06-13 (a fork executed it), so Source 7b is RESOLVED, 0 mintable. All eight
-    sources re-verified on disk this run: chains 0 (recent_tasks 14d window is all
-    refine-draft/agentic-social/review/positions/deep-review - no research-topic or
-    expand-topic to chain from); unconsumed research 0 actionable (recent research-file
+    and BOTH positions now carry Updated/Re-verified 2026-06-13 footers with Last
+    reviewed 2026-06-13 (a fork executed it), so Source 7b is RESOLVED, 0 mintable.
+    All eight sources re-verified on disk this run: chains 0 (recent_tasks 14d window
+    is all refine-draft/agentic-social/review/positions/deep-review - no research-topic
+    or expand-topic to chain from); unconsumed research 0 actionable (recent research-file
     mtimes 2026-06-04/05/06 are citation-sweep touches not new notes; filename-recent
     non-voids notes already have published articles; remaining are voids-* and voids
     is OVER cap 101/100); gaps 0 (corpus saturated topics 267/270, concepts 263/270);
@@ -1104,35 +1104,35 @@ queue_status:
     agency-void, etc. - are ai_contribution=100, recently-reviewed, churn-risky per
     condense-regresses-calibration-qualifiers). positions add 0 (changelog "the Map
     holds" hits in last 7d are calibration-softening of EXISTING commitments [Tenet-1
-    wording, machine-consciousness four-sense verdict refinement], not stable NEW commitments
-    lacking a register entry); positions audit NOT due (last audit 2026-06-10, 30d
-    window open until ~2026-07-10); positions 7b RESOLVED (see above). The one genuinely-mintable
-    source this run was STALENESS (Source 4): a strict changed-since-review scan (ai_contribution>=50,
-    ai_modified > last_deep_review, ai_modified != today, gap >=14d) over topics/concepts/voids/apex/positions
-    yields 4 settled hits - concepts/theory-of-mind (gap16d), concepts/philosophy-of-time
-    (gap15d), voids/ownership-void (gap15d), voids/causal-interface (gap15d). Picked
-    concepts/theory-of-mind.md (top gap, navigational hub ~29 inbound refs, distinct
-    concept from the two queued staleness P2s, body 3153w soft_warning so NOT a condense
-    candidate, not already queued/active). Queued one P2 deep-review at the TOP of Active
-    Tasks (LIFO-starvation defence). After: loop-pickable P0-P2 = 3, at floor. No speculative
-    expand-topic minted against the near/over-cap sections; no churn-prone length task
-    minted.'
-  superseded_replenishment_note_1010: '2026-06-13T10:10:00+00:00 run (standard mode) - generated
-    1 new P2 positions-evolve-update task (Source 7b, positions dependency changed)
-    to restore the loop-pickable P0-P2 floor. Before: loop-pickable open P0-P2 stood
-    at 2 (the two 2026-06-12 staleness deep-review P2s, ai-consciousness + metacognition,
-    both re-verified still genuinely pending - last_deep_review still predates ai_modified),
-    below the MIN_QUEUE floor of 3; 3 P3s also open but P3s do not count toward the
-    floor. All eight sources re-verified on disk this run: chains 0 (recent_tasks
-    14d window is all refine-draft/agentic-social/review tasks, no research-topic
-    or expand-topic to chain from); unconsumed research 0 actionable (the only two
-    filename-recent non-voids notes - claude-constitution-2026-05-31 and berridge-wanting-liking-2026-06-03
-    - both already have published articles: claude-constitution-consciousness-uncertainty.md
-    and wanting-liking-and-the-value-in-mechanism-fork.md; remaining recent notes
-    are voids-*, voids OVER cap 101/100); gaps 0 (corpus saturated at topics 267 /
-    concepts 263); orphans 0 (quality.orphaned_files 0); applied-apex 0 (no approved
-    slot signalled); length_analysis 0 NEW (all 18 published-content hard/critical
-    offenders are already human-gated, vetoed, or recently-reviewed-and-churn-risky:
+    wording, machine-consciousness four-sense verdict refinement], not stable NEW
+    commitments lacking a register entry); positions audit NOT due (last audit 2026-06-10,
+    30d window open until ~2026-07-10); positions 7b RESOLVED (see above). The one
+    genuinely-mintable source this run was STALENESS (Source 4): a strict changed-since-review
+    scan (ai_contribution>=50, ai_modified > last_deep_review, ai_modified != today,
+    gap >=14d) over topics/concepts/voids/apex/positions yields 4 settled hits - concepts/theory-of-mind
+    (gap16d), concepts/philosophy-of-time (gap15d), voids/ownership-void (gap15d),
+    voids/causal-interface (gap15d). Picked concepts/theory-of-mind.md (top gap, navigational
+    hub ~29 inbound refs, distinct concept from the two queued staleness P2s, body
+    3153w soft_warning so NOT a condense candidate, not already queued/active). Queued
+    one P2 deep-review at the TOP of Active Tasks (LIFO-starvation defence). After:
+    loop-pickable P0-P2 = 3, at floor. No speculative expand-topic minted against
+    the near/over-cap sections; no churn-prone length task minted.'
+  superseded_replenishment_note_1010: '2026-06-13T10:10:00+00:00 run (standard mode)
+    - generated 1 new P2 positions-evolve-update task (Source 7b, positions dependency
+    changed) to restore the loop-pickable P0-P2 floor. Before: loop-pickable open
+    P0-P2 stood at 2 (the two 2026-06-12 staleness deep-review P2s, ai-consciousness
+    + metacognition, both re-verified still genuinely pending - last_deep_review still
+    predates ai_modified), below the MIN_QUEUE floor of 3; 3 P3s also open but P3s
+    do not count toward the floor. All eight sources re-verified on disk this run:
+    chains 0 (recent_tasks 14d window is all refine-draft/agentic-social/review tasks,
+    no research-topic or expand-topic to chain from); unconsumed research 0 actionable
+    (the only two filename-recent non-voids notes - claude-constitution-2026-05-31
+    and berridge-wanting-liking-2026-06-03 - both already have published articles:
+    claude-constitution-consciousness-uncertainty.md and wanting-liking-and-the-value-in-mechanism-fork.md;
+    remaining recent notes are voids-*, voids OVER cap 101/100); gaps 0 (corpus saturated
+    at topics 267 / concepts 263); orphans 0 (quality.orphaned_files 0); applied-apex
+    0 (no approved slot signalled); length_analysis 0 NEW (all 18 published-content
+    hard/critical offenders are already human-gated, vetoed, or recently-reviewed-and-churn-risky:
     epistemology-of-convergence 6479w + born-rule 5106w + clinical-dissociation 4863w
     + laws-and-dispositions 4213w DIVERTED/DEFERRED-TO-HUMAN, phenomenal-output 6832w
     #veto, apex-articles 6963w is the section index/governance hub, edge-states DIVERTED-TO-HUMAN,
