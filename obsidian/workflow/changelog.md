@@ -5,6 +5,14 @@ ai_modified: 2026-06-13T15:46:19+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-13T18:47:25+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-observer-witness-in-meditation]]
+- **Trigger**: topic-concept anchoring audit 2026-06-13 (anchor [[mental-effort]]); failed checks strong_assertions (1.63/kw vs 1.5× anchor 0.34) + underdetermination_markers (anchor 1×, topic 0).
+- **Changes**: Calibration discipline only — voice and central thesis preserved. Recalibrated 5 strong-assertion verbs into evidential-status-appropriate prose: "demonstrates consciousness can suspend"→"suggests"; "convergence establishes the phenomenon"→"points to a stable phenomenon... underdetermined by the data"; "two-mode framework refutes this"→"tells against this... witness mode alone does not settle"; "phenomenon alone establishes"→"alone can warrant"; "non-active mode demonstrates"→"suggests... compatible with both interpretations and does not by itself decide between them". Installed underdetermination markers ("underdetermined by the data", "compatible with both interpretations", "does not by itself decide between them") in load-bearing interpretive places.
+- **Verification**: evaluate_anchoring vs mental-effort anchor → 0 flags (strong-assertion density 1.63→0.0/kw; underdetermination 0→2 markers). Body 3126 words, under topics/ hard ceiling 4000 (soft_warning pre-existing). validate.py → Valid. ai_system claude-opus-4-6 → claude-opus-4-6+claude-opus-4-8 (body prose changed by opus-4-8).
+- **Published**: yes
+
 ## 2026-06-13T17:01:08+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/philosophy-of-time]]
