@@ -5,6 +5,19 @@ ai_modified: 2026-06-13T20:02:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-13T22:02:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/metaphor-void]]
+- **Word count**: 2289 → 2289 (no change; soft_warning, well under voids/ hard threshold 3000 — length-neutral)
+- **Critical issues addressed**: 0 (orphaned-citation risk did NOT materialize)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamp-only; no body prose change → ai_system NOT appended)
+- **Focus**: Changed-since-review pass on the bb4bd39 Translation-Void absorption. PRIMARY CHECK — orphaned inline cites (the sibling language-thought-boundary.md got Lomas 2016 / Ji et al. 2024 with no References entries from the same commit). NOT present here: the metaphor-void absorption added a *different* section ("The Opacity of the Mapping Itself") whose two new cites — Hofstadter & Sander 2013, Gentner 1983 — BOTH received matching References entries in the same commit. Full inline↔References cross-check clean.
+- **§2.4 web-verify ledger**: Gentner 1983 (Cognitive Science 7(2):155–170, Wiley DOI 10.1207/s15516709cog0702_3) — real-correct; Hofstadter & Sander 2013 (Surfaces and Essences, Basic Books, ISBN 9780465018475) — real-correct; Ricoeur 1975/2003 quote "extends itself to its very limits, forever discovering new resonances within itself" — real-correct (verified verbatim at Routledge; **discharges the one open item deferred by the 2026-05-29 review**).
+- **Calibration**: absorbed section self-calibrated — "registered as cross-format-mapping opacity, not as standalone evidence for any metaphysical thesis"; no possibility/probability slippage. Apophatic register preserved.
+- **Cross-links**: all 12 wikilink targets resolve.
+- **Output**: [[reviews/deep-review-2026-06-13-metaphor-void]]
+
 ## 2026-06-13T21:46:17+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/cross-species-behavioural-confidence-proxy-tests]]

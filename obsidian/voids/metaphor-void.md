@@ -4,8 +4,8 @@ description: "Human+AI analysis of how metaphorical thought both enables and dis
 created: 2026-04-16
 modified: 2026-04-17
 human_modified:
-ai_modified: 2026-06-01T13:20:00+00:00
-last_deep_review: 2026-05-29T03:01:56+00:00
+ai_modified: 2026-06-13T22:02:37+00:00
+last_deep_review: 2026-06-13T22:02:37+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
