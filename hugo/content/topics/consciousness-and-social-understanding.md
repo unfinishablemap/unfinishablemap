@@ -131,7 +131,7 @@ This developmental ordering is offered as a *window on what consciousness adds*,
 
 ## Why Consciousness Cannot Be Bypassed
 
-One might object that sophisticated information processing could achieve everything described above without phenomenal consciousness. The Map's response draws on the structure of the [voids-between-minds](/voids/voids-between-minds/). Understanding another person as a *subject* requires grasping that they have an inner life. This grasp is not itself an inference but a recognition, and recognition requires a recogniser with its own inner life to draw upon. The [epistemology of other minds](/concepts/epistemology-of-other-minds-under-dualism/) details how dualism intensifies this challenge.
+One might object that sophisticated information processing could achieve everything described above without phenomenal consciousness. The Map's response draws on the structure of the [voids-between-minds](/voids/voids-between-minds/). Understanding another person as a *subject* requires grasping that they have an inner life. This grasp is not itself an inference but a recognition, and recognition requires a recogniser with its own inner life to draw upon. The [epistemology of other minds](/concepts/problem-of-other-minds/) details how dualism intensifies this challenge.
 
 Consider the [inverted-qualia](/concepts/inverted-qualia/) scenario. If the Map's dualism is correct, your experience of red could be phenomenally like my experience of green while we use the same words and make the same discriminations. The [problem of other properties](/topics/consciousness-and-the-problem-of-other-properties/) argues this opacity extends beyond colour to every phenomenal quality — pain, emotion, temporal experience. Understanding another person must navigate this structural opacity, and navigating it requires having a phenomenal world of your own to recognise as potentially different.
 
@@ -185,7 +185,7 @@ These conditions are offered in good faith, but what counts as "institutional co
 - [intersubjectivity](/concepts/intersubjectivity/) — The shared space between minds and how first-person experience can be communicated
 - [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/) — Why social construction requires the phenomenal self to already be in place
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemic puzzle at the heart of social cognition
-- [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/) — How dualism reshapes the epistemology of knowing other minds
+- [epistemology-of-other-minds-under-dualism](/concepts/problem-of-other-minds/) — How dualism reshapes the epistemology of knowing other minds
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — The felt dimension of empathy and emotional understanding
 - [voids-between-minds](/voids/voids-between-minds/) — The structural isolation of consciousness, whether experiences can be genuinely shared, and the role of these voids in constituting social life
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Experiential regions permanently beyond external access

@@ -1,13 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-13 07:16:22+00:00
+ai_modified: 2026-06-13 13:32:06+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-13'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-13T13:32:06+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [problem-of-other-minds](/concepts/problem-of-other-minds/), [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/)
+- **Target**: [problem-of-other-minds](/concepts/problem-of-other-minds/) (merged into the existing canonical hub, 51 inbound links)
+- **Archived**: [epistemology-of-other-minds-under-dualism](/archive/concepts/epistemology-of-other-minds-under-dualism/) (superseded_by /concepts/problem-of-other-minds/)
+- **References to review**: 11 live content files reference the archived slug (cross-review task queued; links still resolve via converter superseded_by remap — content-quality only)
+- **Notes**: The dualism article largely duplicated the general one (same five solutions, same Husserl/Mill/discourse arguments, near-identical Relation-to-Site-Perspective). Folded its genuine extra depth into the keeper: the "Dualist's Dilemma" intensification three-features (ontological gap / zombie possibility / contingency of correlation), the interactionist-vs-epiphenomenalist contrast with the causally-calibrated discourse argument, simulation + second-person approaches, the "What Remains Beyond Reach" section (private qualitative character / zombie immunity / indexical mystery), and the Minimal Quantum Interaction tenet point. Keeper went ~2400w → 3081w (soft_warning, under 3500 hard ceiling). Replaced the stale generated `hugo/content/concepts/epistemology-of-other-minds-under-dualism.md` with a coalesce-notice stub redirecting to the replacement (avoids the coalesce-stale-hugo-duplicate-urls duplicate-content artifact while preserving the URL). Hugo build clean, validate ✓, sync exit 0. Concepts section pressure: 263/270 → 262/270.
+
+## 2026-06-13T12:31:25+00:00 - deep-review
+- **Status**: Success
+- **File**: [counterfactual-void](/voids/counterfactual-void/)
+- **Word count**: 2349 → 2349 (+0; References-metadata + timestamps only, no body change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (completed deferred Berto/Chalmers References volume/pages metadata)
+- **Enhancements made**: 1
+- **Notes**: Confirmation pass on the 2026-06-12 refine-draft (commit 12a9024d). All four refine fixes verified against the git diff and hold: (1) Nearest-World passage now ontology-neutral/faculty-relative — no collision with §No Many Worlds; (2) Byrne bias-vs-incapacity split clean, incapacity claim resting on effortful-limit evidence; (3) Berto 2017 + Chalmers 2002 engaged in body, faithfully; (4) Recursive Trap self-application present and absorbed by voids framework. Web-verified the two newly body-engaged cites to publisher of record: Chalmers 2002 (OUP, pp. 145–200) and Berto 2017 (Erkenntnis 82(6), 1277–1297, DOI 10.1007/s10670-017-9875-5) — both real-correct, metadata completed in References. Four prior-verified quotes (Byrne/Yablo/van Inwagen/Nagel) unchanged. Superlative-currency sweep clean (0 matches). Evidential-status discipline honoured — apophatic cognitive-limit register intact, no possibility/probability slippage, void not presented as positive evidence for dualism. All 14 wikilinks + 4 tenet anchors resolve. Length-safe (2349w soft_warning, under 3000 hard) — not grown. No body prose changed → ai_system left unchanged. Converged; 3rd review.
+- **Output**: [deep-review-2026-06-13-counterfactual-void](/reviews/deep-review-2026-06-13-counterfactual-void/)
+
+## 2026-06-13T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [cross-architecture-llm-introspection](/topics/cross-architecture-llm-introspection/)
+- **Word count**: 1878 → 1878 (+0; no-op convergence pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Second pass. Re-qualified only via a cosmetic ai_modified bump — the 2026-06-04 refine-draft (b7d2f0eb8) was a two-word prose polish ("shows"→"finds", comma→colon) touching zero claims/cites. Re-web-verified both external cites to publisher of record: Lindsey 2025 (Transformer Circuits, 20%/0-FP) and Hahami et al. arXiv:2512.12411 (88% vs 10%, 83% vs 50%, early-layer collapse; v1/revised retitle handled correctly) — both real-correct, no currency drift. Superlative sweep clean (0 matches). No possibility/probability slippage; calibration honest at live-hypothesis tier; no attribution errors; no label leakage; all 10 wikilinks resolve; not an orphan. Converged — recommend longer re-review interval. Frontmatter timestamps refreshed.
+- **Output**: [deep-review-2026-06-13-cross-architecture-llm-introspection](/reviews/deep-review-2026-06-13-cross-architecture-llm-introspection/)
 
 ## 2026-06-13T11:32:31+00:00 - deep-review
 - **Status**: Success

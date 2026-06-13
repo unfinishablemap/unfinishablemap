@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-23
-**Article**: [Epistemology of Other Minds Under Dualism](/concepts/epistemology-of-other-minds-under-dualism/)
+**Article**: [Epistemology of Other Minds Under Dualism](/concepts/problem-of-other-minds/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

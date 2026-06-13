@@ -51,7 +51,7 @@ topics: []
 
 ### Cross-links Added
 - [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) (frontmatter, body x2, Further Reading)
-- [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/) (frontmatter, body x1, Further Reading)
+- [epistemology-of-other-minds-under-dualism](/concepts/problem-of-other-minds/) (frontmatter, body x1, Further Reading)
 
 ## Remaining Items
 

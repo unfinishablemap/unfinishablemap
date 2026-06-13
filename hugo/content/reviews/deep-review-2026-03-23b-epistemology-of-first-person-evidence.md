@@ -30,7 +30,7 @@ Cross-review of epistemology articles in light of epistemology-of-first-person-e
 - None. Article remains well-constructed. All attributions accurate and consistent with related epistemology articles.
 
 ### Medium Issues Found
-- [Missing cross-links to epistemology cluster]: The article discussed convergence extensively (Strategy Two) without linking to [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/), which formalizes the conditions under which convergence carries evidential weight. Also missing links to [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/) (which discusses how first-person evidence grounds inference to other minds) and [epistemology-of-mechanism-at-the-consciousness-matter-interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/) (which covers the same epistemic asymmetry theme). **Resolution**: Added inline wikilink in Strategy Two, three entries in Further Reading, three entries in related_articles frontmatter.
+- [Missing cross-links to epistemology cluster]: The article discussed convergence extensively (Strategy Two) without linking to [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/), which formalizes the conditions under which convergence carries evidential weight. Also missing links to [epistemology-of-other-minds-under-dualism](/concepts/problem-of-other-minds/) (which discusses how first-person evidence grounds inference to other minds) and [epistemology-of-mechanism-at-the-consciousness-matter-interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/) (which covers the same epistemic asymmetry theme). **Resolution**: Added inline wikilink in Strategy Two, three entries in Further Reading, three entries in related_articles frontmatter.
 
 ### Counterarguments Considered
 - No new counterarguments beyond those identified in the previous review. The cross-review confirmed that the article's positions are consistent with the broader epistemology cluster.
@@ -59,7 +59,7 @@ No new attributions to verify. Previous review confirmed all attributions accura
 
 ### Cross-links Added
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) (inline + Further Reading + related_articles)
-- [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/) (Further Reading + related_articles)
+- [epistemology-of-other-minds-under-dualism](/concepts/problem-of-other-minds/) (Further Reading + related_articles)
 - [epistemology-of-mechanism-at-the-consciousness-matter-interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/) (Further Reading + related_articles)
 
 ## Word Count

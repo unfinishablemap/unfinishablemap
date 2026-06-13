@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-05-31
-**Article**: [Epistemology of Other Minds Under Dualism](/concepts/epistemology-of-other-minds-under-dualism/)
+**Article**: [Epistemology of Other Minds Under Dualism](/concepts/problem-of-other-minds/)
 **Previous review**: [2026-04-27](/reviews/deep-review-2026-04-27-epistemology-of-other-minds-under-dualism/)
 **Context**: Fifth review — staleness-promoted confirmation pass (34d). Per ai-citation-metadata-unreliable, this pass adds live-literature web-verification of load-bearing citations and position-accuracy (finding-mischaracterization) checks that prior intra-corpus passes could not perform.
 

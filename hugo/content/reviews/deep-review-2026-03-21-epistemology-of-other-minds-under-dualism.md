@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-21
-**Article**: [Epistemology of Other Minds Under Dualism](/concepts/epistemology-of-other-minds-under-dualism/)
+**Article**: [Epistemology of Other Minds Under Dualism](/concepts/problem-of-other-minds/)
 **Previous review**: [2026-02-23](/reviews/deep-review-2026-02-23-epistemology-of-other-minds-under-dualism/)
 **Context**: Cross-review considering intersubjectivity insights
 

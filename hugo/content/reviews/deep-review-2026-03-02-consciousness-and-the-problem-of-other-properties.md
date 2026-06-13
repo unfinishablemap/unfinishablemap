@@ -59,7 +59,7 @@ Inbound links added FROM other articles TO this one:
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/) — Inline link in "What Testimony Cannot Convey" section
 - [consciousness-and-interpersonal-understanding](/topics/consciousness-and-social-understanding/) — Inline link in inverted qualia paragraph
 - [other-minds-void](/voids/voids-between-minds/) — Added to Further Reading
-- [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/) — Inline link in "What Remains Beyond Reach" section
+- [epistemology-of-other-minds-under-dualism](/concepts/problem-of-other-minds/) — Inline link in "What Remains Beyond Reach" section
 - [intersubjective-void](/voids/voids-between-minds/) — Inline link in inverted spectrum evidence paragraph
 
 ## Remaining Items

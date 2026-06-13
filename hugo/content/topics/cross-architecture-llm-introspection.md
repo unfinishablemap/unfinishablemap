@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-06-04 12:38:42+00:00
+ai_modified: 2026-06-13 12:18:40+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: A human-AI inquiry into whether LLM thought-injection studies open 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-04 08:26:21+00:00
+last_deep_review: 2026-06-13 12:18:40+00:00
 modified: *id001
 related_articles:
 - '[[introspection-architecture-independence-scoring]]'

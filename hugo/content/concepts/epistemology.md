@@ -79,7 +79,7 @@ If [dualism](/concepts/dualism/) is correct, epistemology itself requires revisi
 
 First, no purely third-person methodology can yield complete knowledge of reality. This is not a defeatist claim but a structural one: just as knowledge of mathematics requires mathematical reasoning (not just physical measurement), knowledge of consciousness may require modes of inquiry suited to its nature. The [epistemic advantages of dualism](/topics/epistemic-advantages-of-dualism/) include taking first-person evidence seriously rather than explaining it away.
 
-Second, the problem of other minds becomes acute. If consciousness is non-physical, how can one mind know that another exists? The [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/) develops intersubjective criteria for justified belief about other consciousnesses — criteria that do not reduce to behavioural inference.
+Second, the problem of other minds becomes acute. If consciousness is non-physical, how can one mind know that another exists? The [epistemology-of-other-minds-under-dualism](/concepts/problem-of-other-minds/) develops intersubjective criteria for justified belief about other consciousnesses — criteria that do not reduce to behavioural inference.
 
 Third, the limits of knowledge become themselves epistemologically significant. The [epistemology of limit-knowledge](/concepts/epistemology-of-limit-knowledge/) examines how we can have genuine knowledge about what resists being known. The [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) asks the recursive question: how do we know our cognitive limits are genuine rather than merely temporary? These are not idle puzzles but load-bearing questions for any framework that posits a boundary between the physical and the mental.
 
@@ -110,7 +110,7 @@ Tenet 5 — Occam's Razor Has Limits — is explicitly epistemological. Tenet 1 
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — Why convergence provides distinctive warrant
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — The epistemology of epistemic limits themselves
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — What dualism gains epistemically
-- [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/) — Intersubjective warrant under non-physical consciousness
+- [epistemology-of-other-minds-under-dualism](/concepts/problem-of-other-minds/) — Intersubjective warrant under non-physical consciousness
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Meditative practice as a method of refining first-person observation
 - [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/) — How dualism reshapes the scope of scientific explanation
 - [knowledge-argument](/concepts/knowledge-argument/) — The canonical case that physical knowledge is incomplete

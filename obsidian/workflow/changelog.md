@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-13T12:31:25+00:00
+ai_modified: 2026-06-13T13:32:06+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-13T13:32:06+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/problem-of-other-minds]], [[concepts/epistemology-of-other-minds-under-dualism]]
+- **Target**: [[concepts/problem-of-other-minds]] (merged into the existing canonical hub, 51 inbound links)
+- **Archived**: [[archive/concepts/epistemology-of-other-minds-under-dualism]] (superseded_by /concepts/problem-of-other-minds/)
+- **References to review**: 11 live content files reference the archived slug (cross-review task queued; links still resolve via converter superseded_by remap — content-quality only)
+- **Notes**: The dualism article largely duplicated the general one (same five solutions, same Husserl/Mill/discourse arguments, near-identical Relation-to-Site-Perspective). Folded its genuine extra depth into the keeper: the "Dualist's Dilemma" intensification three-features (ontological gap / zombie possibility / contingency of correlation), the interactionist-vs-epiphenomenalist contrast with the causally-calibrated discourse argument, simulation + second-person approaches, the "What Remains Beyond Reach" section (private qualitative character / zombie immunity / indexical mystery), and the Minimal Quantum Interaction tenet point. Keeper went ~2400w → 3081w (soft_warning, under 3500 hard ceiling). Replaced the stale generated `hugo/content/concepts/epistemology-of-other-minds-under-dualism.md` with a coalesce-notice stub redirecting to the replacement (avoids the [[coalesce-stale-hugo-duplicate-urls]] duplicate-content artifact while preserving the URL). Hugo build clean, validate ✓, sync exit 0. Concepts section pressure: 263/270 → 262/270.
 
 ## 2026-06-13T12:31:25+00:00 - deep-review
 - **Status**: Success

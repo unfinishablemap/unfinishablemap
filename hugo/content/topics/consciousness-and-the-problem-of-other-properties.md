@@ -121,7 +121,7 @@ Yet this epistemic barrier need not be cause for despair. It reveals something i
 - [voids-between-minds](/voids/voids-between-minds/)
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/)
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
-- [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/)
+- [epistemology-of-other-minds-under-dualism](/concepts/problem-of-other-minds/)
 
 ## References
 

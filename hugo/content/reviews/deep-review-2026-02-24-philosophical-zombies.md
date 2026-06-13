@@ -66,7 +66,7 @@ All attributions verified:
 - Removed stale AI refinement log
 
 ### Cross-links Added
-- [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/)
+- [epistemology-of-other-minds-under-dualism](/concepts/problem-of-other-minds/)
 - [problem-of-other-minds](/concepts/problem-of-other-minds/)
 
 ## Remaining Items

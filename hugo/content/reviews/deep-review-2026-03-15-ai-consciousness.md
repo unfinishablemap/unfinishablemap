@@ -55,13 +55,13 @@ topics: []
 ### Enhancements Made
 1. Added cross-link to [The Machine Question](/apex/machine-question/) apex (related_articles + Further Reading)
 2. Added cross-link to [The Interface Specification Programme](/apex/interface-specification-programme/) apex (inline in "What Would Conscious AI Require?" + Further Reading)
-3. Added cross-link to [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/) (inline in Epistemic Problem section + Further Reading)
+3. Added cross-link to [epistemology-of-other-minds-under-dualism](/concepts/problem-of-other-minds/) (inline in Epistemic Problem section + Further Reading)
 4. Tightened Chinese Room and Epistemic Problem prose to offset additions (length-neutral mode)
 
 ### Cross-links Added
 - [machine-question](/apex/machine-question/)
 - [interface-specification-programme](/apex/interface-specification-programme/)
-- [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/)
+- [epistemology-of-other-minds-under-dualism](/concepts/problem-of-other-minds/)
 
 ## Remaining Items
 

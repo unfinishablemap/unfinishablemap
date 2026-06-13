@@ -143,7 +143,7 @@ The discrimination problem identifies a structural [void](/voids/): a region of 
 - [illusionism](/concepts/illusionism/)
 - [heterophenomenology](/concepts/heterophenomenology/)
 - [ai-consciousness](/topics/ai-consciousness/)
-- [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/)
+- [epistemology-of-other-minds-under-dualism](/concepts/problem-of-other-minds/)
 - [memory-system-vulnerability-hierarchies-as-interface-evidence](/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/) — a parallel structural-underdetermination case at the production-vs-filter interface
 - [compatibilist-symmetry-challenge](/concepts/compatibilist-symmetry-challenge/) — the parallel result at the agency-and-responsibility tier
 - [brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/) — the parallel result at the empirical-interface tier

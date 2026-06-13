@@ -91,7 +91,7 @@ The voids programme continues to be the Map's most distinctive contribution, and
 ### High Priority
 
 #### The Philosophy of Testimony Under Dualism
-- **Builds on**: [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/), [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/), [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
+- **Builds on**: [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/), [epistemology-of-other-minds-under-dualism](/concepts/problem-of-other-minds/), [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
 - **Would address**: How intersubjective knowledge is transmitted and evaluated when consciousness is ontologically individual—testimonial chains, authority, and the special status of first-person reports
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Dualism (testimony crosses the inter-mind gap), Bidirectional Interaction (testimony is causally efficacious across minds)
@@ -111,7 +111,7 @@ The voids programme continues to be the Map's most distinctive contribution, and
 ### Medium Priority
 
 #### Pragmatism and the Other Minds Problem
-- **Builds on**: [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/), [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/), [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/)
+- **Builds on**: [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/), [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/), [epistemology-of-other-minds-under-dualism](/concepts/problem-of-other-minds/)
 - **Would address**: How pragmatism's practical-consequences test applies to other minds—we treat others as conscious because the practical consequences of not doing so are catastrophic, but does this constitute genuine knowledge?
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Dualism (the gap is genuine), Bidirectional Interaction (responses to others' consciousness have causal consequences)

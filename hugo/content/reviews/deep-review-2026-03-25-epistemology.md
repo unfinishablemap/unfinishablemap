@@ -59,7 +59,7 @@ topics: []
 
 ### Cross-links Added
 - [acquaintance-knowledge](/concepts/phenomenal-acquaintance/) (2 instances in body text, 1 in frontmatter concepts)
-- [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/) (body text mention + Further Reading)
+- [epistemology-of-other-minds-under-dualism](/concepts/problem-of-other-minds/) (body text mention + Further Reading)
 
 ## Remaining Items
 

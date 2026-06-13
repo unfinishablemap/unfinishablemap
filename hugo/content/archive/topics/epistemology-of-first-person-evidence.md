@@ -200,7 +200,7 @@ Phenomenological method also faces a self-grounding problem: its evidence standa
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's room and the limits of physical knowledge
 - [galilean-exclusion](/concepts/galilean-exclusion/) — How modern science excluded the subjective
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — Formal conditions for when convergence carries evidential weight
-- [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/) — How first-person evidence grounds inference to other minds
+- [epistemology-of-other-minds-under-dualism](/concepts/problem-of-other-minds/) — How first-person evidence grounds inference to other minds
 - [phenomenology of epistemic cognition](/topics/phenomenology-of-intellectual-life/) — What evaluating evidence feels like from the inside
 - [phenomenal authority](/topics/phenomenal-authority-and-first-person-evidence/) — The spectrum of authority positions, Rorty's dilemma, and the dualism connection
 

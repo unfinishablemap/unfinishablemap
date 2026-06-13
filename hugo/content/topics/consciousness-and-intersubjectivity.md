@@ -135,7 +135,7 @@ The Map's third position — ontologically individual, phenomenologically enrich
 - [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/) — Why social construction requires phenomenal subjects
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — Three layers of selfhood and how intersubjective encounter operates across them
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The minimal self as structural feature that intersubjective encounter presupposes
-- [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/) — How dualism reshapes knowledge of other minds
+- [epistemology-of-other-minds-under-dualism](/concepts/problem-of-other-minds/) — How dualism reshapes knowledge of other minds
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/) — How testimony bridges the void between minds while presupposing what it cannot verify
 - [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/) — Convergent phenomenological reports across cultures as intersubjective evidence
 

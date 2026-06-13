@@ -132,7 +132,7 @@ Intersubjectivity also connects to methodology. The [first-person/third-person d
 ## Further Reading
 
 - [voids-between-minds](/voids/voids-between-minds/) — The voids framework treatment: existence, encounter, and sharing across individual consciousnesses
-- [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/) — How dualism shapes the epistemic landscape of knowing other minds
+- [epistemology-of-other-minds-under-dualism](/concepts/problem-of-other-minds/) — How dualism shapes the epistemic landscape of knowing other minds
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Systematic contemplative practice as a knowledge source, grounding the contemplative evidence discussed here
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) — The "view from nowhere" and its limits; objectivity as intersubjective agreement
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemological puzzle that intersubjectivity addresses

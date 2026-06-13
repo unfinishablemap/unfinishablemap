@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-27
-**Article**: [Epistemology of Other Minds Under Dualism](/concepts/epistemology-of-other-minds-under-dualism/)
+**Article**: [Epistemology of Other Minds Under Dualism](/concepts/problem-of-other-minds/)
 **Previous review**: [2026-03-21b](/reviews/deep-review-2026-03-21b-epistemology-of-other-minds-under-dualism/)
 **Context**: Fourth review — stability confirmation pass
 

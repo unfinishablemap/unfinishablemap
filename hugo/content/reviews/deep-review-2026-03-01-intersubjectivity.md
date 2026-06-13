@@ -65,14 +65,14 @@ All six adversarial personas applied:
 ### Enhancements Made
 1. Added cross-link to [intersubjective-void](/voids/voids-between-minds/) in Husserl section body text and Further Reading
 2. Added cross-link to [contemplative-epistemology](/concepts/contemplative-epistemology/) in contemplative evidence section and Further Reading
-3. Added [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/) to related_articles and Further Reading
+3. Added [epistemology-of-other-minds-under-dualism](/concepts/problem-of-other-minds/) to related_articles and Further Reading
 4. Removed stale AI refinement log comment (~120 words)
 5. Tightened prose in second-person methodology and contemplative evidence sections
 
 ### Cross-links Added
 - [intersubjective-void](/voids/voids-between-minds/) — directly related void on whether experiences can be genuinely shared
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — systematic treatment of contemplative practice as knowledge source
-- [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/) — dualist epistemology of knowing other minds
+- [epistemology-of-other-minds-under-dualism](/concepts/problem-of-other-minds/) — dualist epistemology of knowing other minds
 
 ## Word Count Changes
 - Before: 2570 words (103% of soft threshold)
