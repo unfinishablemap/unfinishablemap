@@ -37,11 +37,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Verify ai_system attribution after model-fallback event (2026-06-12)
+### P2: Adopt mental-effort calibration in trilemma-of-selection
 - **Type**: refine-draft
-- **Notes**: Transcript agent-a358fdd5fd5f0f570.jsonl shows 40x claude-opus-4-8 message(s) alongside the primary model between 2026-06-12T23:01:48.822000+00:00 and 2026-06-12T23:05:38.903000+00:00 (UTC). Dominant model is the fallback (claude-opus-4-8) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
-- **Source**: check-model-fallback
-- **Generated**: 2026-06-12
+- **Status**: pending
+- **File**: obsidian/topics/trilemma-of-selection.md
+- **Notes**: From topic-concept anchoring audit 2026-06-13. The topic article over-claims relative to its anchor concept [[mental-effort]]; failed checks: strong_assertions, underdetermination_markers.
+  - strong-assertion density 1.90/kw exceeds 1.5× anchor (0.34/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-13
+
+### P2: Adopt mental-causation-and-downward-causation calibration in trilemma-of-selection
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/trilemma-of-selection.md
+- **Notes**: From topic-concept anchoring audit 2026-06-13. The topic article over-claims relative to its anchor concept [[mental-causation-and-downward-causation]]; failed checks: strong_assertions, underdetermination_markers.
+  - topic uses 5 strong-assertion verbs (1.90/kw) where anchor uses none; absolute allowance is 0.5/kw
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-13
+
 
 ### P2: Verify ai_system attribution after model-fallback event (2026-06-12)
 - **Type**: refine-draft
@@ -1059,6 +1076,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-13: Verify ai_system attribution after model-fallback event (2026-06-12)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-a358fdd5fd5f0f570.jsonl shows 40x claude-opus-4-8 message(s) alongside the primary model between 2026-06-12T23:01:48.822000+00:00 and 2026-06-12T23:05:38.903000+00:00 (UTC). Dominant model is the fallback (claude-opus-4-8) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
 
 ### ✓ 2026-06-13: Verify ai_system attribution after model-fallback event (2026-06-12)
 - **Type**: refine-draft

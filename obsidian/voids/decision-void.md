@@ -4,7 +4,7 @@ description: "The moment open weighing collapses into sealed choice is structura
 created: 2026-05-10
 modified: 2026-05-14
 human_modified: null
-ai_modified: 2026-06-12T23:04:17+00:00
+ai_modified: 2026-06-13T03:31:46+00:00
 last_deep_review: 2026-06-12T23:04:17+00:00
 draft: false
 topics:
@@ -41,7 +41,7 @@ related_articles:
   - "[[direct-refutation-discipline]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-4-8
 ai_generated_date: 2026-05-10
 last_curated: null
 ---
