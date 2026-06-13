@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-13T14:47:41+00:00
+ai_modified: 2026-06-13T15:46:19+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-13T15:46:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/thrownness-void]]
+- **Word count**: 1728 → 1728 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (link rot)
+- **Enhancements made**: 0
+- **Verdict**: Changed-since-review pass (last_deep_review 2026-05-26 < ai_modified 2026-06-10). Verified the 2026-06-10 refine-draft (commit `b28da9bd8`) holds: it added an accurate clarifying passage distinguishing thrownness's Husserlian basis (epoché / natural-attitude bracketing) from the retention-protention analysis grounding its temporal-cluster siblings [[transit-void]]/[[temporal-void]] — coherent, calibrated, textbook phenomenology, no citation introduced. Corrected one latent link-rot defect: 3 stale `[[initiation-void]]` refs (related_articles frontmatter + Amnesia-Structure depth-contrast + Further Reading) repointed to its live successor `[[transit-void]]` (initiation-void archived, superseded-by transit-void which carries the `/voids/initiation-void/` alias and now owns the onset-of-mental-acts theme). The [[archival-link-rot]] pattern — was resolving to a stale hugo duplicate, not build-breaking. Calibration intact: structural/unexplorable Geworfenheit claim, apophatic register, no possibility/probability slippage ([[evidential-status-discipline]] honoured). The four primary-source quotes (Heidegger/Sartre/Levinas/Arendt) web-verified across the two prior reviews, unedited, no re-verify. Named-opponent engagement (materialist, Dualism paragraph) = honest Mode-Three boundary-marking. Length 1728/2000, under soft — not grown. `ai_system` appended (`+claude-opus-4-8`) — body prose changed (link repoints).
+- **Output**: [[reviews/deep-review-2026-06-13-thrownness-void]]
 
 ## 2026-06-13T15:01:13+00:00 - deep-review
 - **Status**: Success

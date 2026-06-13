@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot access the condit
 created: 2026-04-01
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-06-10T00:00:00+00:00
+ai_modified: 2026-06-13T15:46:19+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,17 +21,17 @@ related_articles:
   - "[[origin-of-consciousness]]"
   - "[[agency-void]]"
   - "[[vertiginous-question]]"
-  - "[[initiation-void]]"
+  - "[[transit-void]]"
   - "[[self-opacity]]"
   - "[[biological-cognitive-closure]]"
   - "[[conceptual-scheme-void]]"
   - "[[conjunction-coalesce]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-04-01
 last_curated:
-last_deep_review: 2026-05-26T19:43:10+00:00
+last_deep_review: 2026-06-13T15:46:19+00:00
 ---
 
 Consciousness cannot access, authorise, or revise the conditions under which it became conscious. Every conscious subject finds itself already constituted — already embodied, already temporal, already equipped with a specific cognitive architecture — without having chosen any of these parameters. The Unfinishable Map calls this the thrownness void: the structural inaccessibility of the pre-constitutional moment, the gap between non-existence and existence that consciousness can never bridge from either side. This is not the question of why consciousness exists at all (the [[origin-of-consciousness|origin void]]), nor why one is *this* particular subject (the [[vertiginous-question|indexical void]]), nor why one cannot opt out (the [[agency-void#what-cannot-be-controlled|involuntariness face of the agency void]]). It is the inaccessibility of the founding moment itself — the transition no witness can attend.
@@ -64,7 +64,7 @@ Consent requires an existing agent. You cannot consent to your own existence bec
 
 ### The Amnesia Structure
 
-The thrownness void has a distinctive temporal structure that distinguishes it from ordinary forgetting. It is not that we once knew something and lost it. There was never a knower present to know. The gap is not amnesia but the absence of a subject who could have formed a memory. This places the void deeper than the [[initiation-void|initiation void]] (where consciousness cannot witness the onset of individual mental acts) — here, consciousness cannot witness its own onset as such.
+The thrownness void has a distinctive temporal structure that distinguishes it from ordinary forgetting. It is not that we once knew something and lost it. There was never a knower present to know. The gap is not amnesia but the absence of a subject who could have formed a memory. This places the void deeper than the [[transit-void|transit void]] (where consciousness cannot witness the onset of individual mental acts) — here, consciousness cannot witness its own onset as such.
 
 ## Phenomenology of the Void
 
@@ -103,7 +103,7 @@ The thrownness void gains its sharpest edge under the Map's [[tenets|dualist fra
 - [[origin-of-consciousness|The Origin Void]] — Why consciousness exists at all
 - [[vertiginous-question|The Indexical Void]] — Why first-person identity resists explanation
 - [[agency-void|The Agency Void]] — Why consciousness cannot opt out of its own states, and cannot verify whether it causes anything at all
-- [[initiation-void|The Initiation Void]] — Why consciousness cannot witness the onset of mental acts
+- [[transit-void|The Transit Void]] — Why consciousness cannot witness the onset of mental acts
 - [[conceptual-scheme-void|The Conceptual Scheme Void]] — How conceptual schemes exclude what they cannot represent
 - [[three-kinds-of-void]] — The core taxonomy of cognitive limits
 - [[conjunction-coalesce|The Conjunction-Coalesce]] — Where this article appears as a candidate within a temporal-mode cluster of self-witnessing failures
