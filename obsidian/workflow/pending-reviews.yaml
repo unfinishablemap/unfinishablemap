@@ -374,9 +374,9 @@
   commissioned_at: '2026-06-13T02:04:05.427283+00:00'
   prompt_summary: Audit affective-tone-divergence-across-meditative-traditions
   target_filename: outer-review-2026-06-13-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-13T05:06:01.228701+00:00'
   failure_reason: null
   prompt_text: "Please conduct a rigorous outer review of one article on The Unfinishable\
     \ Map (https://unfinishablemap.org), a dualist philosophy-of-mind project. Target\

@@ -5,6 +5,16 @@ ai_modified: 2026-06-13T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-13T05:15:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [[reviews/outer-review-2026-06-13-chatgpt-5-5-pro]]
+- **Subject**: [[topics/affective-tone-divergence-across-meditative-traditions]] (recent-aged fallback)
+- **Claims verified**: 6 verified against live target + parent (lede overstatement, "neural architecture" wording, single-rival, Junayd-as-ecstatic, 2008/2008/2015 citation base, parent caveats not inherited); 5 currency leads left UNVERIFIED for refine-time web-check
+- **High-value findings**: 5 (lede calibration, inherit-parent-caveats, counterargument expansion, jhāna/Junayd simplifications, citation staleness)
+- **Tasks generated**: 3 (P1: 1 consolidated prose pass; P2: 2 — citation refresh, parent caveat promotion)
+- **Note**: Sibling Gemini leg (same subject) still pending — /combine-outer-reviews will not fire for 2026-06-13 until it resolves with ≥2 processed.
+
 ## 2026-06-13T00:00:00+00:00 - check-tenets
 - **Status**: Success
 - **Files checked**: 536 (268 topics, 264 concepts, 4 positions)

@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Calibrate affective-tone-divergence article (consolidated outer-review prose pass)
+- **Type**: refine-draft
+- **File**: obsidian/topics/affective-tone-divergence-across-meditative-traditions.md
+- **Notes**: From outer review 2026-06-13 (ChatGPT 5.5 Pro). CONSOLIDATE these coherent prose findings into ONE editor pass (do not spawn per-finding tasks — same-file churn). All target-text claims were grep-verified against the live article (see review's Verification Notes). (1) LEDE OVERSTATEMENT: the body says "The divergence in the reports is empirically established across the primary literature" and the "Why the Hypothesis Must Not Be Upgraded" section says "well-attested across primary sources spanning more than a millennium and multiple unconnected cultures." Soften to a calibrated formulation (reviewer's suggestion: "Selected authoritative sources foreground contrasting affective ideals; whether these reflect distinct states, stages, reporting conventions, or trained engagement modes remains underdetermined"). Honour [[evidential-status-discipline]]. (2) INHERIT PARENT CAVEATS: the parent [[comparative-phenomenology-of-meditative-traditions]] carries prominent stage-mismatch, theory-ladenness/Katz, and Sino-Indian independence-weakness caveats (verified at parent lines 105, 139/153, 141) that this article does NOT import — its "multiple unconnected cultures" claim should acknowledge the independence caveat. (3) EXPAND COUNTERARGUMENTS: the article names exactly one rival (neural-training); add the stage-mismatch and report-construction/theory-ladenness objections explicitly (a dimensionality caveat — valence vs arousal vs salience vs object-directedness — is optional/lighter). (4) jhāna/Junayd SIMPLIFICATIONS: the Buddhist section treats jhāna (concentrative absorption) as if it were open-monitoring equanimity; the Sufi section groups al-Junayd (emblematic of *sober* Sufism) with Rūmī as ecstatic-love evidence. Add a qualifying sentence to each rather than restructuring (reviewer: "fourth-jhāna equanimity arises within an advanced concentrative absorption trajectory"; move Junayd out of the unqualified ecstatic line or add a sobriety caveat). (5) "NEURAL ARCHITECTURE" WORDING: the Bidirectional Interaction section's "by the neuroplasticity findings, neural architecture" overreaches given active-control / structural-neuroplasticity disputes — soften to "training-sensitive affective and functional-neural patterns." Preserve the article's voice and its existing evidential-status discipline (which the reviewer praised). Apply the [[direct-refutation-discipline]] remit where the counterargument-expansion calls for it: engage the neural-training rival on its own terms or honestly mark the framework-boundary disagreement; reply in natural journal-quality prose per [[writing-style]]'s "Engaging Opponents" section; do NOT expose mode labels in the article body. Mind the topics/ length thresholds — the article is ~2300 words so there is headroom, but keep additions tight.
+- **Review file**: `reviews/outer-review-2026-06-13-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-13
+
+### P2: Refresh affective-tone-divergence empirical paragraph with post-2020 contemplative-science sources
+- **Type**: refine-draft
+- **File**: obsidian/topics/affective-tone-divergence-across-meditative-traditions.md
+- **Notes**: From outer review 2026-06-13 (ChatGPT 5.5 Pro). The empirical backbone is exactly Lutz 2008, Fredrickson 2008, Zeng 2015 (verified refs 8-10) — stale for a 2026 article. Add post-2020 sources on FA/OM/LKM neural differentiation, loving-kindness active-control caveats, advanced jhāna neurophenomenology, and (lightly) meditation adverse effects so affective tone is not framed as uniformly positive. CRITICAL: web-verify every candidate citation against the publisher of record BEFORE adding it — AI-supplied citation metadata is unreliable (the reviewer's specific suggestions — a 2024 ACAM jhāna-classification paper, a 2025 ACAM-J Cerebral Cortex study, a 2024 LKM meta-analysis, a 2020 Scientific Reports FA/OM/LKM study, a 2022 adverse-effects survey — are UNVERIFIED leads, not confirmed cites; do not paste DOIs/venues without checking). Keep the loving-kindness claim hedged with active-control caveats. This is mechanical citation work distinct from the P1 prose pass; do AFTER the P1 calibration lands to avoid edit conflict. Honour [[evidential-status-discipline]].
+- **Review file**: `reviews/outer-review-2026-06-13-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-13
+
+### P2: Promote stage-mismatch / independence caveats in comparative-phenomenology parent
+- **Type**: refine-draft
+- **File**: obsidian/topics/comparative-phenomenology-of-meditative-traditions.md
+- **Notes**: From outer review 2026-06-13 (ChatGPT 5.5 Pro). The parent article already HAS the stage-mismatch (line 105), theory-ladenness/Katz (lines 139, 153), and Sino-Indian independence-weakness (line 141) caveats, but they sit deep in the body where child articles (affective-tone, cessation-versus-plenitude) do not reliably inherit them. Light touch only: make these caveats more discoverable from the divergence-naming sections that the children expand (e.g. a one-line forward-pointer from the §"Affective Tone" region to the independence-weakness flag), so children inherit the calibration rather than re-stating a cleaner-than-warranted typology. Do NOT rewrite the convergence argument. Mind length — the parent is near the topics/ word ceiling (was ~4033w historically; verify current count and prefer a pointer over new prose). Honour [[evidential-status-discipline]].
+- **Review file**: `reviews/outer-review-2026-06-13-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-13
+
 ### P2: Adopt mental-effort calibration in trilemma-of-selection
 - **Type**: refine-draft
 - **Status**: pending
