@@ -4,7 +4,7 @@ description: "Predictive processing's metaphysically neutral formalism provides 
 created: 2026-02-15
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-06-12T21:16:10+00:00
+ai_modified: 2026-06-13T01:17:02+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ related_articles:
   - "[[brain-specialness-boundary]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-02-15
 last_curated:
 last_deep_review: 2026-06-12T21:16:10+00:00
