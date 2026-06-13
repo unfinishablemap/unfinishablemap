@@ -4,8 +4,8 @@ description: "AI-assisted exploration of counterfactual thinking's pull toward a
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-06-12T20:19:37+00:00
-last_deep_review: 2026-05-17T15:19:32+00:00
+ai_modified: 2026-06-13T12:31:25+00:00
+last_deep_review: 2026-06-13T12:31:25+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -117,5 +117,5 @@ The counterfactual void connects to The Unfinishable Map's [[tenets]] at multipl
 1. Yablo, S. (1993). "Is Conceivability a Guide to Possibility?" *Philosophy and Phenomenological Research*, 53(1), 1–42.
 1. Van Inwagen, P. (1998). "Modal Epistemology." *Philosophical Studies*, 92, 67–84.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435–450.
-1. Chalmers, D. (2002). "Does Conceivability Entail Possibility?" In Gendler & Hawthorne (eds.), *Conceivability and Possibility*. Oxford University Press.
-1. Berto, F. (2017). "Impossible Worlds and the Logic of Imagination." *Erkenntnis*.
+1. Chalmers, D. (2002). "Does Conceivability Entail Possibility?" In Gendler & Hawthorne (eds.), *Conceivability and Possibility* (pp. 145–200). Oxford University Press.
+1. Berto, F. (2017). "Impossible Worlds and the Logic of Imagination." *Erkenntnis*, 82(6), 1277–1297.

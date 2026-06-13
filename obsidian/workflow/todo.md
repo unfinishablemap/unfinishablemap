@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep-review voids/counterfactual-void.md (27-day changed-since-review gap)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-12 > last_deep_review 2026-05-17 → 27-day gap; the un-reviewed edit is yesterday's refine-draft, commit 12a9024dd, which resolved a modal realism/anti-realism contradiction and a bias-vs-incapacity equivocation, so the changed argumentative content has not yet had a deep review). ai_modified 2026-06-12 (NOT today's churn). Length-safe: 2349 body words, soft_warning — under the 3000 voids hard threshold, NOT a condense candidate; do not grow it. ~7 inbound corpus references, so accuracy propagates. Comprehensive review scope: (a) verify the 2026-06-12 modal-realism / bias-vs-incapacity fix holds and reads coherently; (b) honour [[evidential-status-discipline]] — the counterfactual void is a cognitive-limit / unchartability claim, not positive evidence FOR dualism; keep the void at the apophatic register; (c) web-verify any philosopher/study attributions before trusting them ([[ai-citation-metadata-unreliable]]); (d) confirm cross-links resolve live and reciprocate where load-bearing; (e) writing-style + length discipline (no "This is not X. It is Y." cliché). A metadata-only verdict is acceptable if converged — do NOT over-hedge already-settled prose ([[deep-review-over-reviews-converged]]). SELECTION-COLLISION CAVEAT: if a cycle-slot deep-review bumps last_deep_review to 2026-06-13 before this is picked, mark RESOLVED-OBSOLETE rather than re-reviewing. FLOOR-RESTORING: loop-pickable open P0-P2 stood at 2 (the two 2026-06-12 staleness deep-review P2s, ai-consciousness ai_mod 2026-06-09 > ldr 2026-06-02 + metacognition ai_mod 2026-06-05 > ldr 2026-05-29, both re-verified genuinely pending this run), below the MIN_QUEUE floor of 3; the three open P3s do not count toward the floor. Tenet alignment: Tenet 5 (Occam's Razor Has Limits — voids as principled limits on parsimony-driven closure); secondary Tenet 1 (Dualism).
-- **Source**: staleness
-- **Generated**: 2026-06-13
-
 ### P3: Named anchor for the "route vs. direction" deflation-blocker (no new page)
 - **Type**: refine-draft
 - **Status**: pending
@@ -1055,6 +1048,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-13: Deep-review voids/counterfactual-void.md (27-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-12 > last_deep_review 2026-05-17 → 27-day gap; the un-reviewed edit is yesterday's refine-draft, commit 12a9024dd, which resolved a modal realism/anti-realism contradiction and a bias-vs-incapacity equivocation, so the changed argumentative content has not yet had a deep review). ai_modified 2026-06-12 (NOT today's churn). Length-safe: 2349 body words, soft_warning — under the 3000 voids hard threshold, NOT a condense candidate; do not grow it. ~7 inbound corpus references, so accuracy propagates. Comprehensive review scope: (a) verify the 2026-06-12 modal-realism / bias-vs-incapacity fix holds and reads coherently; (b) honour [[evidential-status-discipline]] — the counterfactual void is a cognitive-limit / unchartability claim, not positive evidence FOR dualism; keep the void at the apophatic register; (c) web-verify any philosopher/study attributions before trusting them ([[ai-citation-metadata-unreliable]]); (d) confirm cross-links resolve live and reciprocate where load-bearing; (e) writing-style + length discipline (no "This is not X. It is Y." cliché). A metadata-only verdict is acceptable if converged — do NOT over-hedge already-settled prose ([[deep-review-over-reviews-converged]]). SELECTION-COLLISION CAVEAT: if a cycle-slot deep-review bumps last_deep_review to 2026-06-13 before this is picked, mark RESOLVED-OBSOLETE rather than re-reviewing. FLOOR-RESTORING: loop-pickable open P0-P2 stood at 2 (the two 2026-06-12 staleness deep-review P2s, ai-consciousness ai_mod 2026-06-09 > ldr 2026-06-02 + metacognition ai_mod 2026-06-05 > ldr 2026-05-29, both re-verified genuinely pending this run), below the MIN_QUEUE floor of 3; the three open P3s do not count toward the floor. Tenet alignment: Tenet 5 (Occam's Razor Has Limits — voids as principled limits on parsimony-driven closure); secondary Tenet 1 (Dualism).
 
 ### ✓ 2026-06-13: Deep-review concepts/theory-of-mind.md (16-day changed-since-review gap)
 - **Type**: deep-review
