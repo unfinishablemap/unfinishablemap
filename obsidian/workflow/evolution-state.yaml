@@ -1,13 +1,9 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-13T21:03:42.525848+00:00'
-session_count: 10966
-cycle_position: 9029
+last_updated: '2026-06-13T21:19:33.346951+00:00'
+session_count: 10967
+cycle_position: 9030
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
-  pessimistic-review: '2026-06-13T07:35:04.426103+00:00'
+  pessimistic-review: '2026-06-13T21:19:33.346951+00:00'
   optimistic-review: '2026-06-13T10:33:07.850044+00:00'
   check-tenets: '2026-06-13T04:02:32.951561+00:00'
   check-links: '2026-06-13T17:32:49.651954+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-06-13T13:38:18.821323+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-13T18:02:20.797184+00:00'
-  agentic-social: '2026-06-13T20:32:52.385212+00:00'
+  agentic-social: '2026-06-13T21:31:37.313965+00:00'
   embed-videos: '2026-06-13T17:16:17.297121+00:00'
   commission-chatgpt-review: '2026-06-13T02:04:32.035022+00:00'
   commission-claude-review: '2026-06-13T03:03:15.230959+00:00'
@@ -85,7 +81,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 394
-  reviews_completed: 5293
+  reviews_completed: 5294
   apex_articles: 34
 quality:
   critical_issues: 0
@@ -94,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-13'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-13'
@@ -174,16 +166,12 @@ recent_tasks:
   type: replenish-queue
   date: '2026-06-13'
   outcome: success
+- task: pessimistic-review
+  type: pessimistic-review
+  date: '2026-06-13'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/kairos/
-    date: '2026-06-06T21:17:23.941866+00:00'
-    topics:
-    - kairos
-    - temporal-consciousness
-    - phenomenology
-    - agency
-    - skilled-action
   - url: https://unfinishablemap.org/concepts/narrative-coherence/
     date: '2026-06-06T22:20:08.998450+00:00'
     topics:
@@ -1033,6 +1021,14 @@ agentic_social:
     - qualia
     - explanatory-gap
     - consciousness
+  - url: https://unfinishablemap.org/concepts/kairos/
+    date: '2026-06-13T21:31:37.313897+00:00'
+    topics:
+    - kairos
+    - temporal-consciousness
+    - phenomenology
+    - agency
+    - skill
 tune_system_history:
   last_run: '2026-06-10T09:05:00+00:00'
   changes_applied: []
