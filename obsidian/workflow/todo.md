@@ -37,11 +37,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep-review concepts/philosophy-of-time.md (15-day changed-since-review gap)
-- **Type**: deep-review
-- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-05-29 > last_deep_review 2026-05-27, settled 15d, NOT same-cycle churn). Length safe (3189 body words, soft_warning — under the 3500 concepts hard threshold, NOT a condense candidate). 13 inbound refs (a navigational node in the temporal-consciousness / philosophy-of-time cluster). Comprehensive review: confirm the post-review edit holds, audit citation currency, and keep the A-theory/B-theory and presentism/eternalism framing aligned with the Map's No-Many-Worlds + indexical-identity line (temporal becoming should not be over-claimed as established physics — [[evidential-status-discipline]]). Diversity pick (a distinct concept cluster from the queued ai-consciousness topic and metacognition concept); chosen for floor restoration over speculative expand-topic against the near/over-cap sections. Queued at TOP of Active Tasks (LIFO-starvation defence).
-- **Source**: staleness
+### P2: Adopt mental-effort calibration in the-observer-witness-in-meditation
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/the-observer-witness-in-meditation.md
+- **Notes**: From topic-concept anchoring audit 2026-06-13. The topic article over-claims relative to its anchor concept [[mental-effort]]; failed checks: strong_assertions, underdetermination_markers.
+  - strong-assertion density 1.63/kw exceeds 1.5× anchor (0.34/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-13
+
+### P2: Adopt mental-causation-and-downward-causation calibration in evolution-under-dualism
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/evolution-under-dualism.md
+- **Notes**: From topic-concept anchoring audit 2026-06-13. The topic article over-claims relative to its anchor concept [[mental-causation-and-downward-causation]]; failed checks: strong_assertions, underdetermination_markers.
+  - topic uses 2 strong-assertion verbs (0.61/kw) where anchor uses none; absolute allowance is 0.5/kw
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-13
+
 
 ### P3: Named anchor for the "route vs. direction" deflation-blocker (no new page)
 - **Type**: refine-draft
@@ -1048,6 +1065,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-13: Deep-review concepts/philosophy-of-time.md (15-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-05-29 > last_deep_review 2026-05-27, settled 15d, NOT same-cycle churn). Length safe (3189 body words, soft_warning — under the 3500 concepts hard threshold, NOT a condense candidate). 13 inbound refs (a navigational node in the temporal-consciousness / philosophy-of-time cluster). Comprehensive review: confirm the post-review edit holds, audit citation currency, and keep the A-theory/B-theory and presentism/eternalism framing aligned with the Map's No-Many-Worlds + indexical-identity line (temporal becoming should not be over-claimed as established physics — [[evidential-status-discipline]]). Diversity pick (a distinct concept cluster from the queued ai-consciousness topic and metacognition concept); chosen for floor restoration over speculative expand-topic against the near/over-cap sections. Queued at TOP of Active Tasks (LIFO-starvation defence).
 
 ### ✓ 2026-06-13: Deep-review topics/vertiginous-question.md (9-day changed-since-review gap)
 - **Type**: deep-review
