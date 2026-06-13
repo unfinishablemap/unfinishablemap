@@ -1,13 +1,69 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-13 15:46:19+00:00
+ai_modified: 2026-06-13 20:02:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-13'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-13T20:02:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [language-thought-boundary](/voids/language-thought-boundary/)
+- **Word count**: 2553 → 2613 (+60; two References entries, bibliographic not prose; soft_warning, under 3000 voids hard threshold)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fifth review; changed-since-review staleness (last_deep_review predated 2026-06-01 absorption edit bb4bd3923). Git-diffed the edit: it absorbed the Translation Void research note into the body (Lomas lexicography + Ji et al. 2024 info-theoretic floor) and reads coherently. CRITICAL fix: both absorbed inline cites — Lomas 2016 and Ji and colleagues (2024) — were orphaned (no References entries). §2.4 publisher-of-record web-verify: both real-correct — Lomas, T. (2016) *J. Positive Psychology* 11(5):546-558; Ji, X. et al. (2024) "Sources of richness and ineffability for phenomenally conscious states" *Neuroscience of Consciousness* 2024(1):niae001 (8 authors incl. Bengio; arXiv 2302.06403). Added References entries 8 & 9; inline prose faithful, left unchanged. Calibration: passed — structural cross-format-mapping opacity, apophatic register, no possibility/probability slippage. All 22 wikilinks resolve. ai_system appended (body-affecting fix). No other findings — converged.
+- **Output**: [deep-review-2026-06-13-language-thought-boundary](/reviews/deep-review-2026-06-13-language-thought-boundary/)
+
+## 2026-06-13T19:15:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/)
+- **Word count**: 3126 → 3126 (no change; length-neutral mode, 104% of soft)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (low-severity wikilink normalization `[[concepts/epiphenomenalism]]` → `[[epiphenomenalism]]` to match corpus bare-slug convention)
+- **Notes**: Fifth review; fully converged. Confirmed the 2026-05-26 citation-propagation follow-up landed — Garrison/Rodriguez-Larios corrections now present in all three siblings ([meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/), [witness-consciousness](/concepts/witness-consciousness/), research note, the last with a guardrail comment). Citation layer corpus-consistent + publisher-verified. The 2026-06-13 "Adopt mental-effort calibration" refine softened 4 overstated claims (improvements, no regression). No superlative/currency claims. Reasoning-mode classifications unchanged and correct: physicalist/Buddhist/Krishnamurti = Mode Three, epiphenomenalist = Mode One (now with honest residue clause). No critical issues — convergence confirmed.
+- **Output**: [deep-review-2026-06-13-the-observer-witness-in-meditation](/reviews/deep-review-2026-06-13-the-observer-witness-in-meditation/)
+
+## 2026-06-13T19:02:11+00:00 - refine-draft
+- **Status**: Success
+- **File**: [evolution-under-dualism](/topics/evolution-under-dualism/)
+- **Trigger**: topic-concept anchoring audit 2026-06-13 (anchor [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/)); failed checks strong_assertions (0.61/kw, 2 verbs, vs absolute allowance 0.5/kw where anchor uses none) + underdetermination_markers (anchor 1× explicit, topic 0).
+- **Changes**: Calibration discipline only — voice and central thesis preserved. Recalibrated both strong-assertion verbs (both "shows that" in the Convergent Evolution section): "convergent consciousness shows that..."→"is read as evidence that..." and "it shows that..."→"the same convergence is read as evidence that...". Installed underdetermination markers in load-bearing interpretive places: "The convergence data is compatible with both readings" + "the convergence alone does not adjudicate between production and interface accounts" (convergence section), and "the comparative evidence is underdetermined by the data—it does not decide between the three models" (three-models divergence passage). No retraction of the filter/interface thesis.
+- **Verification**: evaluate_anchoring vs all anchors → 0 flags (strong-assertion density 0.61→0.0/kw, count 2→0; underdetermination markers 0→4; hedge density 6.4/kw unchanged-fine). Body 3337 words, under topics/ hard ceiling 4000 (soft_warning pre-existing, +64w net). validate.py → Valid. ai_system claude-opus-4-6 → claude-opus-4-6+claude-opus-4-8 (body prose changed by opus-4-8); ai_modified bumped to 2026-06-13T19:02:11+00:00.
+- **Published**: yes
+
+## 2026-06-13T18:47:25+00:00 - refine-draft
+- **Status**: Success
+- **File**: [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/)
+- **Trigger**: topic-concept anchoring audit 2026-06-13 (anchor [mental-effort](/concepts/mental-effort/)); failed checks strong_assertions (1.63/kw vs 1.5× anchor 0.34) + underdetermination_markers (anchor 1×, topic 0).
+- **Changes**: Calibration discipline only — voice and central thesis preserved. Recalibrated 5 strong-assertion verbs into evidential-status-appropriate prose: "demonstrates consciousness can suspend"→"suggests"; "convergence establishes the phenomenon"→"points to a stable phenomenon... underdetermined by the data"; "two-mode framework refutes this"→"tells against this... witness mode alone does not settle"; "phenomenon alone establishes"→"alone can warrant"; "non-active mode demonstrates"→"suggests... compatible with both interpretations and does not by itself decide between them". Installed underdetermination markers ("underdetermined by the data", "compatible with both interpretations", "does not by itself decide between them") in load-bearing interpretive places.
+- **Verification**: evaluate_anchoring vs mental-effort anchor → 0 flags (strong-assertion density 1.63→0.0/kw; underdetermination 0→2 markers). Body 3126 words, under topics/ hard ceiling 4000 (soft_warning pre-existing). validate.py → Valid. ai_system claude-opus-4-6 → claude-opus-4-6+claude-opus-4-8 (body prose changed by opus-4-8).
+- **Published**: yes
+
+## 2026-06-13T17:01:08+00:00 - deep-review
+- **Status**: Success
+- **File**: [philosophy-of-time](/concepts/philosophy-of-time/)
+- **Word count**: 3189 → 3189 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged 6th-pass; metadata-only verdict)
+- **Notes**: Git-diff confirmed the 2 post-review edits (2026-05-27 tenet-anchor `^occam`→`^occams-limits`; 2026-05-29 phantom-Tallis-2016→real-Tallis-2011) are corpus-wide mechanical maintenance — both hold, read coherently, no PoT-specific prose changed. Web-verified at publisher of record: Tallis 2011 *Aping Mankind* (real-correct — confirms the 2026-05-29 phantom-fix; supersedes the Tallis-2016 that 5 prior reviews ratified), Tomaz/Mattos/Barbatti 2025 *Philosophical Magazine* DOI 10.1080/14786435.2025.2601922 (real-correct), McTaggart 1908 *Mind* 17:457-474 (real-correct). Calibration: no possibility/probability slippage — Map position is proposal-language, tenet sections are commitment-statements not evidence-upgrades. All cross-links + temporal-cluster siblings resolve. No body edits; ai_system unchanged.
+- **Output**: [deep-review-2026-06-13-philosophy-of-time](/reviews/deep-review-2026-06-13-philosophy-of-time/)
+
+## 2026-06-13T16:31:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [vertiginous-question](/topics/vertiginous-question/)
+- **Word count**: 3789 → 3789 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged 5th-pass; metadata-only verdict)
+- **Notes**: Web-verified List 2023 (Noûs 57:316–340, the only post-2026-05-31 new content) — real-correct, faithful source, honestly calibrated (downgrades indexical objection vs List, no slippage). List 2024 quadrilemma, Miller 2018, cross-link cluster all verified. 2026-06-10 ai_modified was a cosmetic cross-link bump, not new prose. No body edits; ai_system unchanged.
+- **Output**: [deep-review-2026-06-13-vertiginous-question](/reviews/deep-review-2026-06-13-vertiginous-question/)
 
 ## 2026-06-13T15:46:19+00:00 - deep-review
 - **Status**: Success

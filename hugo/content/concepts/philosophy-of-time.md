@@ -22,7 +22,7 @@ description: A-theory versus B-theory, presentism, eternalism, and the growing b
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-27 00:00:00+00:00
+last_deep_review: 2026-06-13 17:01:08+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

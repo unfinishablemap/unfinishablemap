@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-06-01 13:20:00+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-06-13 20:02:00+00:00
+ai_system: claude-opus-4-7+claude-opus-4-8
 author: null
 concepts:
 - '[[mysterianism]]'
@@ -16,7 +16,7 @@ description: 'Where thought exceeds language: visual cognition, qualia, and the 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-27 00:00:00+00:00
+last_deep_review: 2026-06-13 20:02:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -192,3 +192,5 @@ The claim that language and thought have genuinely different limits would be cha
 5. Franke, W. (2014). *A Philosophy of the Unsayable*. University of Notre Dame Press.
 6. Thierry, G. et al. (2009). "Unconscious effects of language-specific terminology on preattentive color perception." *PNAS*.
 7. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review* 83(4): 435-450.
+8. Lomas, T. (2016). "Towards a positive cross-cultural lexicography: Enriching our emotional landscape through 216 'untranslatable' words pertaining to well-being." *The Journal of Positive Psychology* 11(5): 546-558.
+9. Ji, X., Elmoznino, E., Deane, G., Constant, A., Dumas, G., Lajoie, G., Simon, J., & Bengio, Y. (2024). "Sources of richness and ineffability for phenomenally conscious states." *Neuroscience of Consciousness* 2024(1): niae001.
