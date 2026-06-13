@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-01
-ai_modified: 2026-06-10 00:00:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-06-13 15:46:19+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 concepts:
 - '[[phenomenology]]'
@@ -16,7 +16,7 @@ description: Human+AI exploration of why consciousness cannot access the conditi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 19:43:10+00:00
+last_deep_review: 2026-06-13 15:46:19+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -25,7 +25,7 @@ related_articles:
 - '[[origin-of-consciousness]]'
 - '[[agency-void]]'
 - '[[vertiginous-question]]'
-- '[[initiation-void]]'
+- '[[transit-void]]'
 - '[[self-opacity]]'
 - '[[biological-cognitive-closure]]'
 - '[[conceptual-scheme-void]]'
@@ -67,7 +67,7 @@ Consent requires an existing agent. You cannot consent to your own existence bec
 
 ### The Amnesia Structure
 
-The thrownness void has a distinctive temporal structure that distinguishes it from ordinary forgetting. It is not that we once knew something and lost it. There was never a knower present to know. The gap is not amnesia but the absence of a subject who could have formed a memory. This places the void deeper than the [initiation void](/voids/transit-void/) (where consciousness cannot witness the onset of individual mental acts) — here, consciousness cannot witness its own onset as such.
+The thrownness void has a distinctive temporal structure that distinguishes it from ordinary forgetting. It is not that we once knew something and lost it. There was never a knower present to know. The gap is not amnesia but the absence of a subject who could have formed a memory. This places the void deeper than the [transit void](/voids/transit-void/) (where consciousness cannot witness the onset of individual mental acts) — here, consciousness cannot witness its own onset as such.
 
 ## Phenomenology of the Void
 
@@ -106,7 +106,7 @@ The thrownness void gains its sharpest edge under the Map's [dualist framework](
 - [The Origin Void](/voids/origin-of-consciousness/) — Why consciousness exists at all
 - [The Indexical Void](/topics/vertiginous-question/) — Why first-person identity resists explanation
 - [The Agency Void](/voids/agency-void/) — Why consciousness cannot opt out of its own states, and cannot verify whether it causes anything at all
-- [The Initiation Void](/voids/transit-void/) — Why consciousness cannot witness the onset of mental acts
+- [The Transit Void](/voids/transit-void/) — Why consciousness cannot witness the onset of mental acts
 - [The Conceptual Scheme Void](/voids/conceptual-scheme-void/) — How conceptual schemes exclude what they cannot represent
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The core taxonomy of cognitive limits
 - [The Conjunction-Coalesce](/apex/conjunction-coalesce/) — Where this article appears as a candidate within a temporal-mode cluster of self-witnessing failures

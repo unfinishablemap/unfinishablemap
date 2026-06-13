@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-13 13:32:06+00:00
+ai_modified: 2026-06-13 14:47:41+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-4-8
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ description: How can we know others are conscious? Philosophical approaches to t
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-19 08:30:00+00:00
+last_deep_review: 2026-06-13 14:47:41+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -200,7 +200,7 @@ The problem of other minds is epistemological—what we can *know*—not metaphy
 ## Further Reading
 
 ### Site Content
-- [consciousness-and-the-problem-of-other-properties](/topics/consciousness-and-the-problem-of-other-properties/) — Even granting other minds exist, which phenomenal properties do they instantiate?
+- [consciousness-and-the-problem-of-other-properties](/topics/consciousness-and-the-problem-of-other-properties/) — Even granting other minds exist, which phenomenal properties do they instantiate? The gap applies to each specific phenomenal quality.
 - [voids-between-minds](/voids/voids-between-minds/) — The voids framework treatment: why the gap is constitutive of intersubjectivity
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) — Why the "view from nowhere" fails for consciousness
 - [theory-of-mind](/concepts/theory-of-mind/) — Mental state attribution as evidence for other minds
@@ -221,7 +221,6 @@ The problem of other minds is epistemological—what we can *know*—not metaphy
 - [intersubjectivity](/concepts/intersubjectivity/) — The shared space between minds and its dualist implications
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Contemplative practice as a knowledge source, grounding intersubjective convergence claims
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Regions of experience structurally beyond external access
-- [consciousness-and-the-problem-of-other-properties](/topics/consciousness-and-the-problem-of-other-properties/) — Why the gap applies to each specific phenomenal quality
 
 ### Apex Synthesis
 - [minds-without-words](/apex/minds-without-words/) — The problem of other minds in non-linguistic creatures

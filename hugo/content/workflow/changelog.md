@@ -1,13 +1,54 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-13 13:46:48+00:00
+ai_modified: 2026-06-13 15:46:19+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-13'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-13T15:46:19+00:00 - deep-review
+- **Status**: Success
+- **File**: [thrownness-void](/voids/thrownness-void/)
+- **Word count**: 1728 → 1728 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (link rot)
+- **Enhancements made**: 0
+- **Verdict**: Changed-since-review pass (last_deep_review 2026-05-26 < ai_modified 2026-06-10). Verified the 2026-06-10 refine-draft (commit `b28da9bd8`) holds: it added an accurate clarifying passage distinguishing thrownness's Husserlian basis (epoché / natural-attitude bracketing) from the retention-protention analysis grounding its temporal-cluster siblings [transit-void](/voids/transit-void/)/[temporal-void](/voids/temporal-void/) — coherent, calibrated, textbook phenomenology, no citation introduced. Corrected one latent link-rot defect: 3 stale `[[initiation-void]]` refs (related_articles frontmatter + Amnesia-Structure depth-contrast + Further Reading) repointed to its live successor `[[transit-void]]` (initiation-void archived, superseded-by transit-void which carries the `/voids/initiation-void/` alias and now owns the onset-of-mental-acts theme). The archival-link-rot pattern — was resolving to a stale hugo duplicate, not build-breaking. Calibration intact: structural/unexplorable Geworfenheit claim, apophatic register, no possibility/probability slippage ([evidential-status-discipline](/project/evidential-status-discipline/) honoured). The four primary-source quotes (Heidegger/Sartre/Levinas/Arendt) web-verified across the two prior reviews, unedited, no re-verify. Named-opponent engagement (materialist, Dualism paragraph) = honest Mode-Three boundary-marking. Length 1728/2000, under soft — not grown. `ai_system` appended (`+claude-opus-4-8`) — body prose changed (link repoints).
+- **Output**: [deep-review-2026-06-13-thrownness-void](/reviews/deep-review-2026-06-13-thrownness-void/)
+
+## 2026-06-13T15:01:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [ownership-void](/voids/ownership-void/)
+- **Word count**: 2008 → 2008 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verdict**: Metadata-only on a fully-converged article (4th deep review; prior three all no-critical-issues, 2026-05-26 carried complete 8-source publisher web-verify ledger). Only change since was the 2026-05-29 cross-link integration (commit `a2d66d558`: added `[[interoceptive-void]]` + one body paragraph linking felt body-ownership to interoceptive silence). Verified that edit holds: its claim ("body mostly silent, visceral state summarised") is faithful to interoceptive-void.md's own framing; void-distinctness preserved. References block byte-identical to the 05-26 web-verified version (no re-verify triggered). Calibration intact — structural/apophatic register throughout, no possibility/probability slippage; No-Many-Worlds branch-relative concession preserved. All wikilinks + section anchors resolve (`self-opacity#The Special Case of Volition`, `many-worlds#MWI's Branch-Relative Indexicality Reply`, four tenet anchors). `[[self-reference-paradox]]` correctly resolves to the live concepts page (not the archived voids dup) — ambiguous slug, not link rot. Length at soft ceiling (100% of 2000, under 3000 hard) — not grown, not condensed. No engagement of named opponents (Metzinger = honest Mode-Three boundary-marking). `ai_system` unchanged (no body prose authored).
+- **Sub-finding**: 05-29 commit claims "reciprocal" cross-links but `interoceptive-void.md` lacks a back-link to ownership-void (one-side asymmetry in a sibling file; out of scope for this review).
+- **Output**: [deep-review-2026-06-13-ownership-void](/reviews/deep-review-2026-06-13-ownership-void/)
+
+## 2026-06-13T14:47:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [problem-of-other-minds](/concepts/problem-of-other-minds/)
+- **Word count**: 3081 → 3077 (−4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Low issues addressed**: 1 (duplicate Further Reading cross-link from coalesce merge consolidated)
+- **Verdict**: Re-triggered post-convergence by a genuine coalesce (`451875f65`, 2026-06-13) that merged `epistemology-of-other-minds-under-dualism` in, adding ~730 unreviewed words (Interactionist's Advantage + What Remains Beyond Reach + MQI paragraph). Reviewed merged content from scratch per coalesce-hides-review-debt discipline. No regressions, no slippage: Interactionist's Advantage is calibration-honest (behavior-as-evidence = epistemic consequence of Bidirectional Interaction, not an evidential upgrade; discourse argument explicitly conceded "weakens as standalone proof"). NY Declaration 2024 cite re-verified at publisher of record (sites.google.com/nyu.edu/nydeclaration) — "strong scientific support"/"realistic possibility" both real-correct, Declaration's own phrasing. No superlative claims. Only defect: one duplicate `[[consciousness-and-the-problem-of-other-properties]]` Further Reading entry (merge artifact), consolidated. Length 123% soft / under hard — length-neutral, not condensed. `ai_system` unchanged (no new prose authored, only dedup cut).
+- **Output**: [deep-review-2026-06-13-problem-of-other-minds](/reviews/deep-review-2026-06-13-problem-of-other-minds/)
+
+## 2026-06-13T14:03:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [causal-interface](/voids/causal-interface/)
+- **Word count**: 2190 → 2190 (no change — metadata-only verdict)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verdict**: 6th review of a converged article. Verified the sole post-review edit (2026-05-29 `[[interoceptive-void]]` cross-link + integrating paragraph) holds: conditional/apophatic framing, no possibility/probability slippage, reciprocity mutual and identically calibrated. Calibration discipline intact (void = consequence/prediction of tenets, not evidence for them). All 24 wikilinks resolve live. Libet 1985 timing figures (~200/~550 ms, veto window) web-confirmed; other 4 classic cites real-correct, References unchanged. Length 110% soft / under hard — not grown. `ai_system` unchanged (no body prose change).
+- **Output**: [deep-review-2026-06-13-causal-interface](/reviews/deep-review-2026-06-13-causal-interface/)
 
 ## 2026-06-13T13:46:48+00:00 - cross-review (repoint)
 - **Status**: Success
