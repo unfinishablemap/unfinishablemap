@@ -5,6 +5,22 @@ ai_modified: 2026-06-13T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-13T06:16:22+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/affective-tone-divergence-across-meditative-traditions]]
+- **Source**: outer-review convergence empirical-refresh (ChatGPT 5.5 Pro + Gemini 2.5 Pro, 2026-06-13)
+- **Original score**: prior pass landed (commit 5b2dd18a); this is the empirical-citation refresh leg
+- **Changes**:
+  - Refreshed the stale (2008/2015) empirical backbone with web-verified post-2020 sources. All cites verified against publisher of record via WebSearch/WebFetch before insertion (per [[ai_citation_metadata_unreliable]]):
+    - Yordanova et al. (2020), *Scientific Reports* 10, 7430 (DOI s41598-020-64324-6) — within-subject FA/OM/LKM neural-coupling differentiation; added to the hypothesis section as the cleanest evidence a single practitioner's brain differentiates the appealed-to modes. Verified: authors/venue/vol/article-no via PMC7198563.
+    - Petrovic, Mettler, Cho & Heath (2024), *Clinical Psychology Review* 110, 102433 — LKM positive-affect effects significant vs PASSIVE control but NON-significant vs ACTIVE control / alternative treatments. Installed as the convergent active-control/demand-characteristics caveat both reviewers flagged; LKM claim kept hedged. Verified author/venue/vol/article-no + the active-vs-passive abstract finding via PubMed 38652973.
+    - Chowdhury et al. (2025), *NeuroImage* 305, 120973 + Demir, Yang & Sacchet (2025), *Cerebral Cortex* 35(4) bhaf079 — advanced jhāna (ACAM) neurophenomenology; added to Buddhist-equanimity section, framed as single-case "that not why" evidence. Verified via PubMed 39681243 / 40215476.
+    - Goldberg, Lam, Britton & Davidson (2022), *Psychotherapy Research* 32(3):291–305 — meditation-related adverse effects (~10% lasting ≥1 month); added a calibration that the trained affective range is NOT uniformly positive (so tone is not framed as reliably benign). Verified via PubMed 34074221.
+  - DID NOT act on Gemini's "raw readout of an objective interface mode" strawman (marked DISPUTED in its own Verification Notes; the article already disclaims interface-register confirmation). Acted only on the active-control / demand-characteristics calibration.
+  - Length: 3220 → 3682 words (soft_warning, under 4000 hard ceiling; tools.curate.length on stripped body). Symmetry check None; validate clean.
+  - Attribution: ai_system left as mixed claude-opus-4-7+claude-opus-4-8 (this fork is opus-4-8, already listed). ai_modified bumped to actual UTC.
+  - **Published**: yes (kept draft: false)
+
 ## 2026-06-13T00:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/affective-tone-divergence-across-meditative-traditions]]
