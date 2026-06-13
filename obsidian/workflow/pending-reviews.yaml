@@ -397,3 +397,42 @@
   subject_articles:
   - topics/affective-tone-divergence-across-meditative-traditions.md
   subject_source: fallback:recent-aged
+- service: gemini
+  conversation_url: https://gemini.google.com/app/7810f1948beaf64d
+  commissioned_at: '2026-06-13T04:18:50.288393+00:00'
+  prompt_summary: Hostile-referee audit of affective-tone-divergence-across-meditative-traditions
+  target_filename: outer-review-2026-06-13-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (Mind, Synthese, Philosophical Studies) assessing this article for submission.
+    Your remit is to find weaknesses that would justify rejection or major revision.
+    The article is at https://unfinishablemap.org/topics/affective-tone-divergence-across-meditative-traditions/
+    (see also https://unfinishablemap.org/workflow/changelog/ as web indexing lags
+    24-48h); the site argues for a non-reductive view of consciousness, and the article
+    claims that the affective tone of advanced contemplative states across Buddhist,
+    Bhakti/Sufi, Christian, and Daoist traditions covaries with which interface mode
+    a tradition trains rather than tracking consciousness itself. Do not describe
+    the site automation, review pipeline, methodology disciplines, evolution loop,
+    or governance infrastructure. Those are project-internal and not the subject of
+    audit. Assess only the article empirical claims, its citations (Lutz 2008, Fredrickson
+    2008, Zeng 2015, and its primary-source readings of Visuddhimagga, Zhuangzi, John
+    of the Cross, Rupa Gosvami), its counterargument coverage, and its logical inferences.
+    Audit four dimensions: (a) empirical accuracy against 2020s contemplative-science
+    and philosophy-of-mind literature; (b) any challenged, retracted, or failed-to-replicate
+    results it relies on; (c) places where it brackets a claim behind its own framework
+    rather than defending it; (d) untested counterarguments or competing frameworks
+    (constructivist, predictive-processing, or purely intra-physical readings of affective
+    divergence) it does not engage. Do not close with a summary of the site strengths
+    or architectural ambition. End with at least five specific weaknesses; for each,
+    cite at least one peer-reviewed source from 2020-2025 the article omits, contradicts,
+    or mishandles. If you cannot find five, state explicitly why none are visible,
+    but a careful audit of a contemporary topic should find five. Close with a one-sentence
+    verdict on academic-submission readiness. Do not append summary praise.'
+  subject_type: recent
+  subject_title: Audit affective-tone-divergence-across-meditative-traditions
+  subject_articles:
+  - topics/affective-tone-divergence-across-meditative-traditions.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-13-chatgpt-5-5-pro.md
