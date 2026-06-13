@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-13T15:35:02.413275+00:00'
-session_count: 10944
-cycle_position: 9021
+last_updated: '2026-06-13T15:49:26.936497+00:00'
+session_count: 10945
+cycle_position: 9022
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-13T07:35:04.426103+00:00'
   optimistic-review: '2026-06-13T10:33:07.850044+00:00'
   check-tenets: '2026-06-13T04:02:32.951561+00:00'
   check-links: '2026-06-12T15:18:12.141170+00:00'
-  deep-review: '2026-06-13T15:03:50.430358+00:00'
+  deep-review: '2026-06-13T15:49:26.936497+00:00'
   tune-system: '2026-06-10T08:48:52.476985+00:00'
   research-voids: '2026-06-12T15:31:29.731747+00:00'
   coalesce: '2026-06-13T13:38:18.821323+00:00'
@@ -85,7 +85,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 394
-  reviews_completed: 5287
+  reviews_completed: 5288
   apex_articles: 34
 quality:
   critical_issues: 0
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: positions-evolve
-  type: positions-evolve
-  date: '2026-06-13'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-13'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-13'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-13'
   outcome: success
 agentic_social:
@@ -1051,9 +1051,34 @@ queue_status:
   p2_tasks: 3
   p3_tasks: 3
   needs_replenishment: false
-  last_replenishment: '2026-06-13T15:25:00+00:00'
+  last_replenishment: '2026-06-13T15:55:00+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: '2026-06-13T15:25:00+00:00 run (standard mode) - generated
+  last_replenishment_note: '2026-06-13T15:55:00+00:00 run (standard mode) - generated
+    1 NEW staleness deep-review task (topics/vertiginous-question.md) at the TOP of
+    Active Tasks to restore the loop-pickable P0-P2 floor. The prior 15:25 run promoted
+    thrownness-void P3 to P2 for the floor; that deep-review has since been executed
+    and marked done, dropping loop-pickable open P0-P2 back to 2 (the two 2026-06-12
+    staleness P2s ai-consciousness + metacognition, both re-verified on disk still
+    genuinely pending), below the MIN_QUEUE floor of 3. All eight sources re-verified
+    on disk: chains 0; unconsumed research 0 actionable (voids over cap 101/100, older
+    non-voids notes already have articles); gaps 0 (topics 267/270, concepts 262/270);
+    orphans 0; applied-apex 0; length_analysis 0 NEW (offenders are research notes,
+    human-gated/DIVERTED [duhem-quine at its 4000 hard ceiling with standing human
+    length decisions], vetoed, the apex governance hub, or churn-risky calibration-dense
+    pages); positions add 0; positions update 0; positions audit not due (last 2026-06-10,
+    window open to ~2026-07-10). STALENESS: strict gap>=14d changed-since-review now
+    yields ZERO settled hits and ZERO articles unreviewed 30d+ (corpus fully reviewed);
+    loosening to the genuine settled changed-since-review pool, the largest clean non-blocked
+    gap is topics/vertiginous-question.md (ai_mod 2026-06-10 > ldr 2026-05-31, gap
+    9d, settled 3d, not same-cycle churn). duhem-quine gap 10d EXCLUDED (hard-ceiling-blocked
+    + human length decisions); consciousness-in-simple-organisms gap 7d EXCLUDED (already
+    hard_warning 4025w). vertiginous-question verified on disk: ai_contribution=100,
+    body 3789w (soft_warning, under 4000 topics hard, not a condense candidate), 34
+    inbound refs, Tenet-load-bearing for the indexical-identity / No-Many-Worlds line,
+    distinct cluster from both queued P2 targets. No speculative expand-topic against
+    near/over-cap sections; no churn-prone length task minted. After: loop-pickable
+    P0-P2 = 3, at floor.'
+  superseded_replenishment_note_1525: '2026-06-13T15:25:00+00:00 run (standard mode) - generated
     0 NEW tasks; restored the loop-pickable P0-P2 floor by PROMOTING the existing
     open P3 thrownness-void deep-review to P2 and relocating it to the TOP of Active
     Tasks (LIFO-starvation defence). Before: loop-pickable open P0-P2 stood at 2 (the
@@ -1098,7 +1123,7 @@ queue_status:
     length_analysis: 0
     orphan_integration: 0
     positions: 0
-    staleness: 0
+    staleness: 1
     unconsumed_research: 0
   prior_replenishment_source_counts_last_run:
     applied_apex: 0
@@ -1107,7 +1132,7 @@ queue_status:
     length_analysis: 0
     orphan_integration: 0
     positions: 0
-    staleness: 1
+    staleness: 0
     unconsumed_research: 0
   superseded_replenishment_note_1425: '2026-06-13T14:25:00+00:00 run (standard mode)
     - generated 1 new P2 staleness deep-review task (Source 4, voids/ownership-void.md)
@@ -1256,44 +1281,6 @@ queue_status:
     one P2 deep-review at the TOP of Active Tasks (LIFO-starvation defence). After:
     loop-pickable P0-P2 = 3, at floor. No speculative expand-topic minted against
     the near/over-cap sections; no churn-prone length task minted.'
-  superseded_replenishment_note_1010: '2026-06-13T10:10:00+00:00 run (standard mode)
-    - generated 1 new P2 positions-evolve-update task (Source 7b, positions dependency
-    changed) to restore the loop-pickable P0-P2 floor. Before: loop-pickable open
-    P0-P2 stood at 2 (the two 2026-06-12 staleness deep-review P2s, ai-consciousness
-    + metacognition, both re-verified still genuinely pending - last_deep_review still
-    predates ai_modified), below the MIN_QUEUE floor of 3; 3 P3s also open but P3s
-    do not count toward the floor. All eight sources re-verified on disk this run:
-    chains 0 (recent_tasks 14d window is all refine-draft/agentic-social/review tasks,
-    no research-topic or expand-topic to chain from); unconsumed research 0 actionable
-    (the only two filename-recent non-voids notes - claude-constitution-2026-05-31
-    and berridge-wanting-liking-2026-06-03 - both already have published articles:
-    claude-constitution-consciousness-uncertainty.md and wanting-liking-and-the-value-in-mechanism-fork.md;
-    remaining recent notes are voids-*, voids OVER cap 101/100); gaps 0 (corpus saturated
-    at topics 267 / concepts 263); orphans 0 (quality.orphaned_files 0); applied-apex
-    0 (no approved slot signalled); length_analysis 0 NEW (all 18 published-content
-    hard/critical offenders are already human-gated, vetoed, or recently-reviewed-and-churn-risky:
-    epistemology-of-convergence 6479w + born-rule 5106w + clinical-dissociation 4863w
-    + laws-and-dispositions 4213w DIVERTED/DEFERRED-TO-HUMAN, phenomenal-output 6832w
-    #veto, apex-articles 6963w is the section index/governance hub, edge-states DIVERTED-TO-HUMAN,
-    time-collapse a standing HUMAN LENGTH DECISION in Blocked; the dozen hard_warning
-    topic/void offenders - agency-void, filter-theory, argument-from-reason, valence,
-    composition, etc. - are all ai_contribution=100, reviewed within ~10d, calibration-dense,
-    so a condense would risk a human-decision divert per condense-regresses-calibration-qualifiers).
-    Section counts re-counted on disk: topics 267/270, concepts 263/270, voids 101/100
-    OVER, positions register 18 entries / 4 domain files. positions add 0 (no stable
-    new commitment lacking an entry in last 7d of changelog); positions audit NOT
-    due (last full audit 2026-06-09, 30d window open until 07-09). The one genuinely-mintable
-    source this run was positions DEPENDENCY-CHANGED (7b): topics/trilemma-of-selection.md
-    was calibration-softened today (commit b571efaf6, mental-effort calibration adoption
-    - proves->settles, Establishes->Secures, shows/proves->suggests, added an explicit
-    underdetermination clause), and positions/agency-and-will.md cites the trilemma
-    in TWO load-bearing positions (P-A1 agent-causal libertarian FW and P-A2 immanent/substance
-    causation), both Last-reviewed 2026-06-08, i.e. before the change. Queued one
-    P2 positions-evolve update to re-verify both positions still track the now-more-hedged
-    source and bump Last reviewed - length-neutral, single register file, no new position,
-    no content-article edit. After: loop-pickable P0-P2 = 3, at floor. No speculative
-    expand-topic minted against the near/over-cap sections; no churn-prone length
-    task minted.'
   replenishment_source_counts:
     applied_apex: 0
     chain: 0
@@ -1303,7 +1290,3 @@ queue_status:
     positions: 0
     staleness: 0
     unconsumed_research: 0
-  superseded_replenishment_note_2002: '2026-06-12T20:02:26+00:00 run (standard mode)
-    - generated 0 new tasks (replenish-at-floor steady state). Queue NOT at 0 then:
-    1 open P2 (counterfactual-void pessimistic-review fix). All eight sources delta-verified
-    at 0 vs the 19:32 run; full reasoning preserved in git history (commit a1bb3bf81).'
