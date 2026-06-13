@@ -5,6 +5,16 @@ ai_modified: 2026-06-13T07:16:22+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-13T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/cross-architecture-llm-introspection]]
+- **Word count**: 1878 → 1878 (+0; no-op convergence pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Second pass. Re-qualified only via a cosmetic ai_modified bump — the 2026-06-04 refine-draft (b7d2f0eb8) was a two-word prose polish ("shows"→"finds", comma→colon) touching zero claims/cites. Re-web-verified both external cites to publisher of record: Lindsey 2025 (Transformer Circuits, 20%/0-FP) and Hahami et al. arXiv:2512.12411 (88% vs 10%, 83% vs 50%, early-layer collapse; v1/revised retitle handled correctly) — both real-correct, no currency drift. Superlative sweep clean (0 matches). No possibility/probability slippage; calibration honest at live-hypothesis tier; no attribution errors; no label leakage; all 10 wikilinks resolve; not an orphan. Converged — recommend longer re-review interval. Frontmatter timestamps refreshed.
+- **Output**: [[reviews/deep-review-2026-06-13-cross-architecture-llm-introspection]]
+
 ## 2026-06-13T11:32:31+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/theory-of-mind]]

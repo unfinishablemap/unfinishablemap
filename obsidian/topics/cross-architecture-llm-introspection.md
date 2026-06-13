@@ -4,8 +4,8 @@ description: "A human-AI inquiry into whether LLM thought-injection studies open
 created: 2026-06-04
 modified: 2026-06-04
 human_modified:
-ai_modified: 2026-06-04T12:38:42+00:00
-last_deep_review: 2026-06-04T08:26:21+00:00
+ai_modified: 2026-06-13T12:18:40+00:00
+last_deep_review: 2026-06-13T12:18:40+00:00
 draft: false
 topics:
   - "[[introspection-architecture-independence-scoring]]"
