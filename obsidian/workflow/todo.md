@@ -37,6 +37,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Align closing-paragraph calibration and fix the OCD-sample figure in neuroplasticity.md
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/concepts/neuroplasticity.md
+- **Notes**: Pessimistic review 2026-06-13 found the article well-calibrated overall (compatible-but-not-required discipline maintained throughout; Kral 2022 and Schwartz 1996 citations verify cleanly) with three non-critical findings. (1) MEDIUM / closing-paragraph drift — the final body sentence (L140) "harder to square with epiphenomenalism than with interactionist dualism—the correlation is exactly what interactionism predicts and what epiphenomenalism must explain away" upgrades to a comparative verdict the rest of the article disowns. The article's OWN §Epiphenomenalist Response (L93) gives a symmetric epiphenomenalist pathway predicting the same correlation, so the correlation alone discriminates nothing. Relocate the tilt onto its actual support (the phenomenology-tracking argument, openly flagged as contestable) rather than the neutral correlation; soften "must explain away" → "must treat as systematically misleading phenomenology." (2) MEDIUM / unsupported premise — the evolutionary rebuttal at L99 ("why would evolution produce accurate phenomenology of cognitive load if it contributes nothing?") rests on an undefended teleological premise; the free-covariance / non-adaptive-concomitant reply is standardly available. Either supply the bridging argument or downgrade; check that the cited [[mental-effort]] actually makes the argument it's relied on for. (3) LOW-MEDIUM / numeric precision — verify "18 participants (9 new)" (L83) against Schwartz 1996 (PubMed 8629886); the "(9 new)" parenthetical is unexplained and may conflate two figures. Cross-check the sibling [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] so the two agree. Also (minor): mark the Zeno "doesn't violate conservation laws" claim (L152) as a model property not a brain fact; consider a primary cite for the Davidson "2 weeks" claim (L109 currently cites a review/magazine piece). PRESERVE the compatible-but-not-required discipline, the front-loaded Schwartz limitations, the Kral 2022 retraction handling, and the identity-theory engagement. Does NOT trigger the altered-state symmetry audit (meditation is the sole supportive-cluster item; ≥2 gate fails). See [[reviews/pessimistic-2026-06-13-neuroplasticity]].
+- **Source**: pessimistic-review (2026-06-13)
+- **Generated**: 2026-06-13
+
 ### P2: Adopt mental-causation-and-downward-causation calibration in trilemma-of-selection
 - **Type**: refine-draft
 - **Status**: ✓ RESOLVED-BY-CONSOLIDATION
