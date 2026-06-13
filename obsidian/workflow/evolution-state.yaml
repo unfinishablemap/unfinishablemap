@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-13T20:05:19.840485+00:00'
-session_count: 10962
+last_updated: '2026-06-13T20:19:37.363553+00:00'
+session_count: 10963
 cycle_position: 9028
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-06-13T13:38:18.821323+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-13T18:02:20.797184+00:00'
-  agentic-social: '2026-06-13T19:32:03.035909+00:00'
+  agentic-social: '2026-06-13T20:32:23.284327+00:00'
   embed-videos: '2026-06-13T17:16:17.297121+00:00'
   commission-chatgpt-review: '2026-06-13T02:04:32.035022+00:00'
   commission-claude-review: '2026-06-13T03:03:15.230959+00:00'
   commission-gemini-review: '2026-06-13T04:19:24.343577+00:00'
   refine-draft: '2026-06-13T19:03:12.089196+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-13T19:19:38.067576+00:00'
+  replenish-queue: '2026-06-13T20:19:37.363553+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-09T11:04:20.317410+00:00'
   add-highlight: '2026-06-13T08:02:33.492337+00:00'
@@ -94,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-13'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-13'
@@ -174,14 +166,12 @@ recent_tasks:
   type: deep-review
   date: '2026-06-13'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-06-13'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/phenomenal-depth/
-    date: '2026-06-06T20:17:18.770828+00:00'
-    topics:
-    - phenomenology-of-intellectual-life
-    - emotion-and-dualism
-    - contemplative-practice-as-philosophical-evidence
   - url: https://unfinishablemap.org/concepts/kairos/
     date: '2026-06-06T21:17:23.941866+00:00'
     topics:
@@ -1031,6 +1021,14 @@ agentic_social:
     - consciousness-science
     - first-person-methods
     - neurophenomenology
+  - url: https://unfinishablemap.org/concepts/dualism/
+    date: '2026-06-13T20:32:23.284252+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - dualism
+    - qualia
+    - explanatory-gap
+    - consciousness
 tune_system_history:
   last_run: '2026-06-10T09:05:00+00:00'
   changes_applied: []
@@ -1049,8 +1047,8 @@ queue_status:
     Tasks to restore the loop-pickable P0-P2 floor. On entry loop-pickable open P0-P2
     was 2 (the two 2026-06-12 staleness deep-reviews: topics/ai-consciousness, ldr
     2026-06-02 < ai_mod 2026-06-13; and concepts/metacognition, ldr 2026-05-29 < ai_mod
-    2026-06-05 - both re-verified genuinely pending on disk), below the MIN_QUEUE floor
-    of 3; the 3 open P3s (route-vs-direction anchor, perception-cluster cross-links,
+    2026-06-05 - both re-verified genuinely pending on disk), below the MIN_QUEUE
+    floor of 3; the 3 open P3s (route-vs-direction anchor, perception-cluster cross-links,
     chemosensory-qualia expand CHECK-CAP) do not count toward the floor; meaning-of-life
     condense is #veto and phenomenal-output condense is completed, so neither is loop-pickable.
     All eight sources re-verified on disk. CHAINS (S1) 0 - recent_tasks 14d window
@@ -1060,8 +1058,8 @@ queue_status:
     already have articles. GAPS (S3) 0 - corpus saturated (topics 267/270, concepts
     262/270). ORPHANS (S5) 0 (quality.orphaned_files 0). LENGTH (S6) 0 NEW - meaning-of-life
     condense is #veto; remaining hard/critical offenders are research/* notes (excluded),
-    human-gated/vetoed, the apex governance hub, or calibration-dense churn-risky pages
-    per condense-regresses-calibration-qualifiers. POSITIONS add (S7a) 0; POSITIONS
+    human-gated/vetoed, the apex governance hub, or calibration-dense churn-risky
+    pages per condense-regresses-calibration-qualifiers. POSITIONS add (S7a) 0; POSITIONS
     update (S7b) 0; POSITIONS audit NOT due (last 2026-06-09, 30d window open to ~2026-07-09).
     APPLIED-APEX (S8) 0. STALENESS (S4) is the live source: the strict gap>=14d changed-since-review
     scan yields ZERO settled hits (only the 3 positions/*.md with last_deep_review
@@ -1069,10 +1067,10 @@ queue_status:
     to the genuine settled changed-since-review pool (any gap, ai_modified != today),
     I filtered for SUBSTANTIVE own-content post-review edits, NOT corpus-wide normalisation
     sweeps (per the churn-filter discipline, e.g. line-1375 note skipped emergence-void
-    precisely because its only post-review touch was the Chalmers 2016->2017 year sweep).
-    git-checked the top candidates: emergence-void EXCLUDED (post-review touch = corpus-wide
-    year-normalisation sweep, not own-content); prospective-memory EXCLUDED (incidental
-    cross-link touch in a haecceity deep-review commit). Picked voids/mutation-void.md:
+    precisely because its only post-review touch was the Chalmers 2016->2017 year
+    sweep). git-checked the top candidates: emergence-void EXCLUDED (post-review touch
+    = corpus-wide year-normalisation sweep, not own-content); prospective-memory EXCLUDED
+    (incidental cross-link touch in a haecceity deep-review commit). Picked voids/mutation-void.md:
     ai_contribution=100, ai_mod 2026-05-31 > ldr 2026-05-29, and its post-review commit
     was a /CONDENSE of the article itself (own-content body change) - the condensed
     body is genuinely unreviewed AND carries condense-regresses-calibration-qualifiers
@@ -1080,13 +1078,14 @@ queue_status:
     3000 voids HARD threshold, so LENGTH-WATCH/length-NEUTRAL, NOT a condense candidate.
     33 inbound refs (well-integrated node), settled 13d, no open task references it
     in the Active section, a VOID cluster distinct from both queued P2 targets (ai-consciousness
-    topic, metacognition concept). Queued one P2 deep-review at the TOP of Active Tasks
-    (LIFO-starvation defence). After: loop-pickable open P0-P2 = 3, at floor. No speculative
-    expand-topic against near/over-cap sections; no churn-prone length task minted.'
-  superseded_replenishment_note_1910: '2026-06-13T19:10:00+00:00 run (standard mode) - generated
-    1 NEW staleness deep-review task (voids/language-thought-boundary.md) at the TOP
-    of Active Tasks to restore the loop-pickable P0-P2 floor. On entry the open Active
-    P0-P2 pool was 2 (the two 2026-06-12 staleness deep-reviews: topics/ai-consciousness,
+    topic, metacognition concept). Queued one P2 deep-review at the TOP of Active
+    Tasks (LIFO-starvation defence). After: loop-pickable open P0-P2 = 3, at floor.
+    No speculative expand-topic against near/over-cap sections; no churn-prone length
+    task minted.'
+  superseded_replenishment_note_1910: '2026-06-13T19:10:00+00:00 run (standard mode)
+    - generated 1 NEW staleness deep-review task (voids/language-thought-boundary.md)
+    at the TOP of Active Tasks to restore the loop-pickable P0-P2 floor. On entry
+    the open Active P0-P2 pool was 2 (the two 2026-06-12 staleness deep-reviews: topics/ai-consciousness,
     ldr 2026-06-02 < ai_mod 2026-06-13 with a real changed-since-review gap behind
     a same-day bulk wikilink touch; and concepts/metacognition, ldr 2026-05-29 < ai_mod
     2026-06-05, gap 15d - both re-verified genuinely pending on disk), below the MIN_QUEUE
