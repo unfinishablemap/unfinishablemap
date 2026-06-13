@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-13T18:48:30.942852+00:00'
-session_count: 10957
-cycle_position: 9025
+last_updated: '2026-06-13T19:03:12.089196+00:00'
+session_count: 10958
+cycle_position: 9026
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-13T07:35:04.426103+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-06-13T02:04:32.035022+00:00'
   commission-claude-review: '2026-06-13T03:03:15.230959+00:00'
   commission-gemini-review: '2026-06-13T04:19:24.343577+00:00'
-  refine-draft: '2026-06-13T18:48:30.942852+00:00'
+  refine-draft: '2026-06-13T19:03:12.089196+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
   replenish-queue: '2026-06-13T16:48:53.234663+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-13'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-13'
@@ -168,6 +164,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-13'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-13'
   outcome: success
 - task: refine-draft
@@ -1040,9 +1040,50 @@ queue_status:
   p2_tasks: 3
   p3_tasks: 3
   needs_replenishment: false
-  last_replenishment: '2026-06-13T16:40:00+00:00'
+  last_replenishment: '2026-06-13T19:10:00+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: '2026-06-13T16:40:00+00:00 run (standard mode) - generated
+  last_replenishment_note: '2026-06-13T19:10:00+00:00 run (standard mode) - generated
+    1 NEW staleness deep-review task (voids/language-thought-boundary.md) at the TOP
+    of Active Tasks to restore the loop-pickable P0-P2 floor. On entry the open Active
+    P0-P2 pool was 2 (the two 2026-06-12 staleness deep-reviews: topics/ai-consciousness,
+    ldr 2026-06-02 < ai_mod 2026-06-13 with a real changed-since-review gap behind
+    a same-day bulk wikilink touch; and concepts/metacognition, ldr 2026-05-29 < ai_mod
+    2026-06-05, gap 15d - both re-verified genuinely pending on disk), below the MIN_QUEUE
+    floor of 3; the 3 open P3s do not count toward the floor. All eight sources re-verified
+    on disk. CHAINS (Source 1) 0 - recent_tasks 14d window holds no research-topic
+    or expand-topic completion to chain from (only deep-review/refine-draft/agentic-social/replenish/positions/coalesce/apex/research-voids).
+    UNCONSUMED RESEARCH (Source 2) 0 actionable - the mtime-recent notes are all voids-*
+    and voids is OVER cap 101/100 so research-voids/expand into voids is blocked; older
+    non-voids notes already have published articles. GAPS (Source 3) 0 - corpus saturated,
+    topics 267/270, concepts 262/270, both near cap. ORPHANS (Source 5) 0 (quality.orphaned_files
+    0). LENGTH (Source 6) 0 NEW - all published-content hard/critical offenders are
+    research/* notes (excluded from condense), the apex-articles governance hub, already
+    vetoed (epistemology-of-convergence-arguments, phenomenal-output-causal-machinery-dissociation),
+    human-gated (born-rule, clinical-dissociation DIVERTED-TO-HUMAN, time-collapse,
+    laws-and-dispositions), or calibration-dense recently-reviewed churn-risky topics
+    (argument-from-reason/epistemic-advantages/valence/metaphysics-of-composition/consciousness-in-simple-organisms/phenomenal-authority/machine-question
+    all reviewed or touched within ~12d, several today) per condense-regresses-calibration-qualifiers.
+    POSITIONS add (Source 7a) 0 - no new the-Map-holds / is-preferred / is-overturned
+    commitment language in recent changelog lacking a register entry. POSITIONS 7b
+    update 0 - no Argued-in dependency moved this cycle (most recent cited-article edit
+    is 2026-06-09, already covered by the 2026-06-09 register audit and a positions-evolve
+    run today 2026-06-13). POSITIONS audit NOT due - last full audit 2026-06-09, 30d
+    window open to ~2026-07-09. APPLIED-APEX gap (Source 8) 0 - applied apex already
+    exists, no approved new slot signalled. STALENESS (Source 4) is the live source:
+    the strict changed-since-review scan (ai_contribution>=50, ai_modified > last_deep_review,
+    settled, gap >=14d, excluding same-day bulk touches) yields 9 hits. Excluded duhem-quine-underdetermination-consciousness
+    (gap 16d) - at its 4000w HARD ceiling after FIVE outer-review refines with standing
+    HUMAN LENGTH DECISION tasks, a churn-risky calibration anchor not to be re-opened.
+    Excluded quantum-interpretations (ldr 2026-05-27 == ai_mod same-day trivial post-review
+    touch, marginal per prior runs) and filter-theory (at concepts 3500 hard threshold,
+    length entanglement). Picked voids/language-thought-boundary.md: ai_contribution=100,
+    body 2553w soft_warning (under 3000 voids hard, NOT a condense candidate), 57 inbound
+    refs (well-integrated node), settled (ai_mod 2026-06-01 predates ldr-gap, untouched
+    since), a VOID cluster distinct from both queued P2 targets. Queued one P2 deep-review
+    at the TOP of Active Tasks (LIFO-starvation defence). After: loop-pickable open
+    P0-P2 = 3, at floor. No speculative expand-topic against near/over-cap sections;
+    no churn-prone length task minted.'
+  superseded_replenishment_note_1640: '2026-06-13T16:40:00+00:00 run (standard mode) - generated
     1 NEW staleness deep-review task (concepts/philosophy-of-time.md) at the TOP of
     Active Tasks to restore the loop-pickable P0-P2 floor. The prior 15:55 run queued
     a vertiginous-question P2; a fork has since EXECUTED it (commit 48012a132, last_deep_review
