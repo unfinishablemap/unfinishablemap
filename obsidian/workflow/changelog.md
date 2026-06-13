@@ -5,6 +5,18 @@ ai_modified: 2026-06-13T07:16:22+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-13T10:46:11+00:00 - positions-evolve (update)
+- **Status**: Success
+- **Mode**: update (Source 7b — positions dependency changed)
+- **File**: [[positions/agency-and-will]]
+- **Trigger**: [[topics/trilemma-of-selection]] calibration-softened 2026-06-13 (commit b571efaf, "Adopt mental-effort calibration") — "proves nothing"→"settles nothing" + added "underdetermined by the evidence"; "Establishes"→"Secures"; several "shows/proves"→"suggests / on this reading". The agency-and-will register cites the trilemma in two load-bearing positions, both last reviewed 2026-06-08 (before the change).
+- **Positions touched**:
+  - **P-A1** (agent-causal libertarian free will): tightened the existing "best explanation rather than proven" hedge to register the article's new underdetermination framing ("settles nothing"; "underdetermined by the evidence; rests on convergence of anchors"). Length-neutral. Confidence unchanged (moderate). `Last reviewed` → 2026-06-13.
+  - **P-A2** (immanent/substance causation): re-verified the `Asserts` "third horn of the [[trilemma-of-selection]]" reference still tracks the source — Horn 3 and the three-horn taxonomy are unchanged by the softening (which touched phenomenology/"establishes" framing only). No text edit; confidence unchanged (moderate). `Last reviewed` → 2026-06-13.
+- **Calibration**: softening was calibration-consistent (it brought the cited source *toward* the register's already-conservative framing), so no confidence-band change warranted on either position. Honours [[evidential-status-discipline]].
+- **Citations verified**: [[topics/trilemma-of-selection]] resolves (live, modified 2026-06-13).
+- **Cascade**: none. P-A1/P-A2 are depended on by P-A3/P-A5 within this domain, but neither was retired or band-shifted, so no downstream re-audit required.
+
 ## 2026-06-13T10:31:10+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Recently-modified cluster — clinical-neuroplasticity-evidence-for-bidirectional-causation, trilemma-of-selection, concepts/neuroplasticity, affective-tone-divergence-across-meditative-traditions. All converged, calibration-disciplined; Process Philosopher and Hardline Empiricist personas converge in praise (no tier-slippage found). Opportunities connective (cross-links + one named-anchor harvest), not new-article gaps — sections at/near cap.
