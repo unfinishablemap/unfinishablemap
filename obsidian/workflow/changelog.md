@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-13T00:00:00+00:00
+ai_modified: 2026-06-13T07:16:22+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-13T07:16:22+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/trilemma-of-selection]]
+- **Source**: topic-concept anchoring audit 2026-06-13 (Audit Three of the calibration triple) — TWO consolidated same-file sibling tasks (anchors [[mental-effort]] and [[mental-causation-and-downward-causation]]), same failed checks (strong_assertions, underdetermination_markers). Binding constraint: the mental-causation absolute strong-assertion allowance (≤0.5/kw).
+- **Changes**: Calibration discipline only — central thesis and voice preserved, no claim weakened. (1) Recalibrated all 5 strong-assertion verbs into evidential-status-appropriate prose: "phenomenology proves nothing" objection header → "settles nothing"; heading "What the Trilemma Establishes" → "What the Trilemma Secures" + "It establishes" → "Its conclusion is"; "the trilemma shows that dismissing it forces" → "Dismissing it, the trilemma suggests, leaves"; "the trilemma shows that the simpler options" → "On the trilemma's reading". Strong-assertion density 1.90/kw → 0.0/kw (5 verbs → 0). (2) Installed 4 underdetermination markers in load-bearing places: "compatible with either reading" (phenomenology objection), "the present evidence does not adjudicate" (stakes paragraph), "underdetermined by the evidence" (mechanism section), plus the existing dialectical framing. underdet markers 0 → 4.
+- **Verification**: tools.curate.anchoring.evaluate_anchoring → 0 flags (was 3: mental-effort, mental-causation-and-downward-causation, interactionist-dualism all cleared). Length 2634 → 2678 words (topics, status OK, well under 4000 hard ceiling).
+- **Attribution**: ai_system claude-opus-4-6 → claude-opus-4-6, claude-opus-4-8 (prior model preserved; this pass by opus-4-8)
+- **Consolidation**: sibling task "Adopt mental-causation-and-downward-causation calibration in trilemma-of-selection" marked ✓ RESOLVED-BY-CONSOLIDATION in todo.md; the mental-effort task left for cycle_post.
+- **Original score**: not separately scored (mechanical calibration audit, not a quality review)
+- **Published**: yes
 
 ## 2026-06-13T07:01:41+00:00 - refine-draft
 - **Status**: Success
