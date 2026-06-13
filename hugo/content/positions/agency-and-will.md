@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-08
-ai_modified: 2026-06-10 22:00:00+00:00
+ai_modified: 2026-06-13 10:46:11+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts:
@@ -43,11 +43,12 @@ These positions cover what the Map holds about agency: whether choices are genui
 
 - **Status**: live
 - **Confidence**: moderate
-- **Asserts**: The Map commits to libertarian free will of an *agent-causal* kind: the conscious agent, as a persisting subject, directly originates at least some choices, irreducibly to prior mental or physical events. The case rests on a convergent set of anchors — the phenomenology of effort and willing, neural data distinguishing willed from instructed action, the argument from reason, clinical neuroplasticity, and cross-cultural convergence on substance-causal accounts of persons — no one of which is privileged, and on the [trilemma-of-selection](/topics/trilemma-of-selection/) (determinism, randomness, or authorship exhaust the options at an indeterminate decision point). The position is held as the best explanation of the convergent evidence rather than as a proven result; it is contested at the agent-causal step, and the Map concedes that the deliberative phenomenology alone does not decide between libertarian and compatibilist readings.
+- **Asserts**: The Map commits to libertarian free will of an *agent-causal* kind: the conscious agent, as a persisting subject, directly originates at least some choices, irreducibly to prior mental or physical events. The case rests on a convergent set of anchors — the phenomenology of effort and willing, neural data distinguishing willed from instructed action, the argument from reason, clinical neuroplasticity, and cross-cultural convergence on substance-causal accounts of persons — no one of which is privileged, and on the [trilemma-of-selection](/topics/trilemma-of-selection/) (determinism, randomness, or authorship exhaust the options at an indeterminate decision point). The position is held as the best explanation of the convergent evidence rather than as a proven result; it is contested at the agent-causal step, and the Map concedes that the deliberative phenomenology alone settles nothing between libertarian and compatibilist readings — the felt data being compatible with either taken on its own, so that the agent-causal step is presently underdetermined by the evidence and rests on the convergence of anchors rather than on any single one.
 - **Depends on**: Tenets 1 and 3; the [trilemma-of-selection](/topics/trilemma-of-selection/); the convergent-anchor argument in [agent-causation](/concepts/agent-causation/); P-A4 (verification limit caps the confidence)
 - **Argued in**: [free-will](/topics/free-will/), [agent-causation](/concepts/agent-causation/), [consciousness-and-agency](/apex/consciousness-and-agency/)
 - **Would shift if**: prior neural states were shown sufficient for choice outcomes (no residual variance for conscious contribution); or a materialist solution to the hard problem removed the motivation for a separate causal factor; or the convergent anchors were shown to be jointly explicable without mental causation.
-- **Last reviewed**: 2026-06-08
+- **Updated 2026-06-13**: tightened the underdetermination hedge after [trilemma-of-selection](/topics/trilemma-of-selection/) was calibration-softened (the article now states the agent-causal step is "underdetermined by the evidence" and the phenomenology "settles nothing" on its own). Length-neutral; no confidence change — the softening brought the cited source toward this position's already-conservative framing.
+- **Last reviewed**: 2026-06-13
 
 ## P-A2: Authorship requires agent causation, not merely event-causal indeterminism
 
@@ -57,7 +58,8 @@ These positions cover what the Map holds about agency: whether choices are genui
 - **Depends on**: P-A1; substance causation (Lowe 2008); the [luck-objection](/concepts/luck-objection/) response; Tenet 1
 - **Argued in**: [agent-causation](/concepts/agent-causation/), [luck-objection](/concepts/luck-objection/), [free-will](/topics/free-will/)
 - **Would shift if**: an event-causal account is shown to secure sourcehood without the regress the Map presses; or substance causation is shown incoherent or eliminable; or the luck objection is shown to defeat the agent-causal reply rather than relocate the explanatory terminus.
-- **Last reviewed**: 2026-06-08
+- **Re-verified 2026-06-13**: confirmed the [trilemma-of-selection](/topics/trilemma-of-selection/) third-horn reference still tracks the source after that article's 2026-06-13 calibration-softening. Horn 3 (mental causation) and the three-horn taxonomy are unchanged; the softening touched the phenomenology and "establishes" framing, not the third horn. No edit to the Asserts text; no confidence change.
+- **Last reviewed**: 2026-06-13
 
 ## P-A3: Libet-style timing data does not refute conscious causation
 
