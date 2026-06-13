@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: positions-evolve update P-A1 + P-A2 — trilemma-of-selection calibration-softened since last review
+- **Type**: positions-evolve
+- **Notes**: Source 7b (positions dependency changed). `topics/trilemma-of-selection.md` was calibration-softened on 2026-06-13 (commit b571efaf6, "Adopt mental-effort calibration") — the change weakened exactly the assertive wording the agency-and-will register depends on: the objection header "The phenomenology **proves** nothing" → "**settles** nothing" (+ "the felt data is compatible with either reading taken on its own"); the section "What the Trilemma **Establishes**" → "**Secures**"; "it **establishes** something more modest" → "Its conclusion is more modest"; several "shows/proves" → "suggests / on this reading"; and an explicit "the question is presently underdetermined by the evidence" was added. `positions/agency-and-will.md` cites the trilemma in TWO load-bearing positions — **P-A1** (agent-causal libertarian free will; `Depends on: ... the [[trilemma-of-selection]]`) and **P-A2** (immanent/substance causation; `Asserts: ... This is the third horn of the [[trilemma-of-selection]]`) — both `Last reviewed: 2026-06-08`, i.e. BEFORE this change. Action per /positions-evolve update discipline: re-read the trilemma article as it now stands, verify both positions' claims still track the (now more-hedged) source, confirm the "moderate" confidence band is still warranted (the softening is calibration-consistent, so likely no band change — but the added underdetermination framing may merit a one-clause tightening of P-A1's already-present "held as best explanation rather than proven" hedge), and bump `Last reviewed` to the cycle date on whichever entries are touched. Length-neutral, single register file; no new position, no content-article edit. See /positions-evolve SKILL (update path) and [[evidential-status-discipline]].
+- **Source**: positions_dependency_changed
+- **Generated**: 2026-06-13
+
 ### P3: Reciprocal cross-links across the perception cluster (no new article)
 - **Type**: refine-draft
 - **Status**: pending
