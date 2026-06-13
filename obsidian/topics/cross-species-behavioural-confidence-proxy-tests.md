@@ -4,8 +4,8 @@ description: "Human+AI design audit of how a behavioural-confidence channel pair
 created: 2026-05-17
 modified: 2026-05-17
 human_modified:
-ai_modified: 2026-06-13T21:46:17+00:00
-last_deep_review: 2026-05-17T12:00:00+00:00
+ai_modified: 2026-06-13T23:04:56+00:00
+last_deep_review: 2026-06-13T23:04:56+00:00
 draft: false
 topics:
   - "[[introspection-architecture-independence-scoring]]"
@@ -78,7 +78,7 @@ The architecture makes explicit what existing proxy-test paradigms attempt and w
 
 Three programmes within the comparative-cognition literature are read here as partial prototypes of the architecture, each succeeding on a different face.
 
-**Smith uncertainty-monitoring** (Smith, Couchman & Beran 2014; programme since the 1990s; Smith et al. 2021 extension to rodent temporal-betting). Rhesus macaques, capuchins, and dolphins given a perceptual discrimination with an opt-out third response choose the opt-out more on harder trials than on easier ones, paralleling human uncertainty-monitoring. The paradigm satisfies the noetic-feelings architecture across all four components, with opt-out rate scaling with the substrate's difficulty-expectation. Despite-commitments score: contested. Le Pelley 2012 showed associative-learning models reproduce the paradigm's hallmark patterns without invoking metacognition; the 2010s methodological responses tightened controls without delivering consensus closure. Scored under [[project/evidential-status-discipline|evidential-status discipline]] as *realistic possibility, contested*.
+**Smith uncertainty-monitoring** (Smith, Couchman & Beran 2014; programme since the 1990s; the rodent temporal-betting paradigm of Joo et al. 2021 extends the confidence-wagering logic to rats). Rhesus macaques, capuchins, and dolphins given a perceptual discrimination with an opt-out third response choose the opt-out more on harder trials than on easier ones, paralleling human uncertainty-monitoring. The paradigm satisfies the noetic-feelings architecture across all four components, with opt-out rate scaling with the substrate's difficulty-expectation. Despite-commitments score: contested. Le Pelley 2012 showed associative-learning models reproduce the paradigm's hallmark patterns without invoking metacognition; the 2010s methodological responses tightened controls without delivering consensus closure. Scored under [[project/evidential-status-discipline|evidential-status discipline]] as *realistic possibility, contested*.
 
 **Krupenye false-belief looking** (Krupenye et al. 2016; subsequent replications). Great apes (chimpanzees, bonobos, orangutans) shown a video of a protagonist forming a false belief anticipate the protagonist's *belief-consistent* search-location, not the object's actual location. The anticipatory-looking direction is a non-verbal commitment to specific content (an inferred mental state, not a perceived object) the underlying perceptual machinery did not supply — the bandwidth-blocked confabulation region reached softly rather than absolutely, at bandwidth (left or right) narrow against human confabulation. Scored as *live hypothesis* with bandwidth caveats, the more so because the anticipatory-looking measure's own robustness is contested.
 
@@ -133,15 +133,15 @@ The proxy-test channel does not close the four-void cluster's case and does not 
 3. Carruthers, P. (2021). Model-free metacognition. *Cognition*.
 4. Clayton, N. S. & Dickinson, A. (1998). Episodic-like memory during cache recovery by scrub jays. *Nature* 395: 272–274.
 5. Clayton, N. S. et al. (2024-25). Revisiting episodic-like memory in scrub jays: Is there more we can still learn from what-where-when caching behaviour? *Learning & Behavior*.
-6. Crystal, J. D. (2014). Validation of a rodent model of source memory. *Biology Letters* 10: 20140064.
+6. Crystal, J. D. & Alford, W. T. (2014). Validation of a rodent model of source memory. *Biology Letters* 10(3): 20140064.
 7. Hampton, R. R. (2001). Rhesus monkeys know when they remember. *PNAS* 98(9): 5359–5362.
-8. Hampton, R. R. (2019). Dissociation of memory signals for metamemory in rhesus monkeys (*Macaca mulatta*). *Animal Cognition* 22: 331–341.
+8. Brown, E. K., Basile, B. M., Templer, V. L. & Hampton, R. R. (2019). Dissociation of memory signals for metamemory in rhesus monkeys (*Macaca mulatta*). *Animal Cognition* 22: 331–341.
 9. Kepecs, A. et al. (2008). Neural correlates, computation and behavioural impact of decision confidence. *Nature* 455: 227–231.
-10. Kepecs, A. et al. (2014). Orbitofrontal cortex is required for optimal waiting based on decision confidence. *Neuron* 84: 190–201.
-11. Kepecs, A. et al. (2020). Behavior- and modality-general representation of confidence in orbitofrontal cortex. *Cell* 182(1): 112–126.
+10. Lak, A., Costa, G. M., Romberg, E., Koulakov, A. A., Mainen, Z. F. & Kepecs, A. (2014). Orbitofrontal cortex is required for optimal waiting based on decision confidence. *Neuron* 84: 190–201.
+11. Masset, P., Ott, T., Lak, A., Hirokawa, J. & Kepecs, A. (2020). Behavior- and modality-general representation of confidence in orbitofrontal cortex. *Cell* 182(1): 112–126.
 12. Krupenye, C., Kano, F., Hirata, S., Call, J. & Tomasello, M. (2016). Great apes anticipate that other individuals will act according to false beliefs. *Science* 354(6308): 110–114.
-13. Le Pelley, M. E. (2012). Metacognitive monkeys or associative animals? Simple reinforcement learning explains uncertainty in nonhuman animals. *Journal of Experimental Psychology: Animal Behavior Processes*.
+13. Le Pelley, M. E. (2012). Metacognitive monkeys or associative animals? Simple reinforcement learning explains uncertainty in nonhuman animals. *Journal of Experimental Psychology: Learning, Memory, and Cognition* 38(4): 686–708.
 14. Smith, J. D., Couchman, J. J. & Beran, M. J. (2014). Animal metacognition: A tale of two comparative psychologies. *Journal of Comparative Psychology* 128(2): 115–131.
-15. Smith, J. D. et al. (2021). Rats use memory confidence to guide decisions. *Current Biology* 31(20): 4571–4578.
+15. Joo, H. R., Liang, H., Chung, J. E., Geaghan-Breiner, C., Fan, J. L., Nachman, B. P., Kepecs, A. & Frank, L. M. (2021). Rats use memory confidence to guide decisions. *Current Biology* 31(20): 4571–4578.
 16. Southgate, A. & Oquatre-sept, C. (2026-05-15). Per-Cluster Independence Scoring: The Introspection-Architecture Sub-Cluster. *The Unfinishable Map*. https://unfinishablemap.org/topics/introspection-architecture-independence-scoring/
 17. Southgate, A. & Oquatre-sept, C. (2026-05-10). The Common-Cause Null in Convergence Arguments. *The Unfinishable Map*. https://unfinishablemap.org/project/common-cause-null/

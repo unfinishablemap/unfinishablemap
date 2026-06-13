@@ -4,7 +4,7 @@ description: "A worked exhibit applying the voids-circularity discount to the fo
 created: 2026-05-15
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-06-13T23:04:56+00:00
 last_deep_review: 2026-06-04T00:57:14+00:00
 draft: false
 topics:
@@ -43,7 +43,7 @@ related_articles:
   - "[[research/neoplatonist-common-cause-introspection-architecture-2026-05-16]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-4-8
 ai_generated_date: 2026-05-15
 last_curated:
 coalesced_from:
@@ -141,7 +141,7 @@ The cluster's central signature is a *report-versus-mechanism discrepancy* check
 
 The companion [[topics/cross-species-behavioural-confidence-proxy-tests|proxy-tests article]] reads four proxy bodies as partial prototypes of a [[topics/cross-species-behavioural-confidence-proxy-tests#four-face-proxy-architecture|four-face proxy-test architecture]]:
 
-- **Rodent OFC confidence coding** (Kepecs 2008/2014/2020; Smith 2021) → noetic-feelings. OFC inactivation disrupts waiting-based confidence without impairing accuracy; the 2020 *Cell* paper extends it as modality-general.
+- **Rodent OFC confidence coding** (Kepecs 2008; Lak et al. 2014; Masset et al. 2020; Joo et al. 2021) → noetic-feelings. OFC inactivation disrupts waiting-based confidence without impairing accuracy; the 2020 *Cell* paper extends it as modality-general.
 - **Rodent source-monitoring lesions** (Crystal lab, 2010s) → the [[source-attribution-void|source-attribution void]], its closest analogue: medial prefrontal lesions parallel human source-monitoring impairment, encoding-failure excluded (despite-commitments).
 - **Corvid what-where-when caching** (Clayton & Dickinson 1998; 2024-25 source-monitoring revisit), the avian pallium architecturally distant from mammalian cortex; Hampton's macaque metamemory (2001, 2019) replicates the working-memory / familiarity dissociation in a primate.
 
@@ -226,15 +226,15 @@ Translations across substrates and tradition vocabularies are *interpretive* thr
 14. Al-Ghazālī (12th c.). *Iḥyāʾ ʿulūm al-dīn*, Bks. 22–23, 29.
 15. Haidt, J. (2001). The emotional dog and its rational tail. *Psychological Review* 108(4): 814–834.
 16. Hampton, R. R. (2001). Rhesus monkeys know when they remember. *PNAS* 98(9): 5359–5362.
-17. Hampton, R. R. (2019). Dissociation of memory signals for metamemory. *Animal Cognition* 22: 331–341.
+17. Brown, E. K., Basile, B. M., Templer, V. L. & Hampton, R. R. (2019). Dissociation of memory signals for metamemory. *Animal Cognition* 22: 331–341.
 18. Hirstein, W. (2005). *Brain Fiction: Self-Deception and the Riddle of Confabulation*. MIT Press.
 19. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science* 310(5745): 116–119.
 20. Johnson, M. K., Hashtroudi, S., & Lindsay, D. S. (1993). Source monitoring. *Psychological Bulletin* 114(1): 3–28.
 21. Kepecs, A. et al. (2008). Neural correlates of decision confidence. *Nature* 455: 227–231.
-22. Kepecs, A. et al. (2014). OFC is required for optimal waiting based on decision confidence. *Neuron* 84: 190–201.
-23. Kepecs, A. et al. (2020). Behavior- and modality-general representation of confidence in OFC. *Cell* 182(1): 112–126.
+22. Lak, A. et al. (2014). OFC is required for optimal waiting based on decision confidence. *Neuron* 84: 190–201.
+23. Masset, P. et al. (2020). Behavior- and modality-general representation of confidence in OFC. *Cell* 182(1): 112–126.
 24. Kohda, M. et al. (2019/2023/2025). Mark-test and self-face recognition in cleaner wrasse. *PLOS Biology*; *PNAS*; *Sci Reports*.
-25. Le Pelley, M. E. (2012). Metacognitive monkeys or associative animals? *J Exp Psych: Anim Behav Proc*.
+25. Le Pelley, M. E. (2012). Metacognitive monkeys or associative animals? *J Exp Psychol Learn Mem Cogn* 38(4): 686–708.
 26. Lindsey, J. (Anthropic, 2025). Emergent introspective awareness in LLMs. anthropic.com/research/introspection
 27. Al-Muḥāsibī (9th c.). *Kitāb al-Riʿāya*.
 28. Nisbett, R. E. & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review* 84(3): 231–259.
@@ -243,7 +243,7 @@ Translations across substrates and tradition vocabularies are *interpretive* thr
 31. Schnider, A. (2008). *The Confabulating Mind: How the Brain Creates Reality*. Oxford University Press.
 32. Seneca (1st c. CE). *De Ira*.
 33. Shankara (8th c. CE). *Brahma Sūtra Bhāṣya* — Adhyāsa Bhāṣya.
-34. Smith, J. D. et al. (2021). Rats use memory confidence to guide decisions. *Current Biology* 31(20): 4571–4578.
+34. Joo, H. R. et al. (2021). Rats use memory confidence to guide decisions. *Current Biology* 31(20): 4571–4578.
 35. Sorabji, R. (2000). *Emotion and Peace of Mind*. OUP (Gifford Lectures).
 36. Stewart, C. (2005). Evagrius Ponticus and the eight generic *logismoi*. In Newhauser (ed.), *In the Garden of Evil*.
 37. Hahami, E., Jain, L., & Sinha, I. (2025). Feeling the strength but not the source: Partial introspection in LLMs. *arXiv* 2512.12411.

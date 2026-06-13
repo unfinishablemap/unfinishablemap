@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-13T20:02:00+00:00
+ai_modified: 2026-06-13T23:04:56+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-13T23:04:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/cross-species-behavioural-confidence-proxy-tests]]
+- **Word count**: 3657 → 3717 (+60; soft_warning, well under topics/ hard threshold 4000 — length-neutral, additions are mandatory citation corrections)
+- **Critical issues addressed**: 4 (citation-metadata defects caught by §2.4 publisher-of-record web-verify; two introduced/ratified by the prior 2026-05-17 review)
+  - Le Pelley 2012 wrong venue (Anim Behav Proc → Learn Mem Cogn 38(4):686–708)
+  - Joo et al. 2021 misattributed to "Smith et al." (Current Biology rat-confidence paper, no Smith authorship; body de-folded from Smith programme)
+  - Hampton 2019 wrong lead author (→ Brown, Basile, Templer & Hampton)
+  - Kepecs 2014/2020 wrong lead author (→ Lak et al. 2014; Masset et al. 2020); Crystal 2014 co-author + issue normalised
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (citation corrections only; no content expansion)
+- **Family resolution**: propagated the canonical author forms to the parent exhibit [[topics/introspection-architecture-independence-scoring]] (body line + References items 17/22/23/25/34), per §2.4 step 6. Research note 2026-05-15 left as immutable artifact.
+- **Engagement modes (changelog-internal)**: Le Pelley — Mode One; Carruthers — Mode Three with Mode One honesty; Birch — cooperative. Unchanged from prior review; not re-litigated.
+- **Output**: [[reviews/deep-review-2026-06-13-cross-species-behavioural-confidence-proxy-tests]]
 
 ## 2026-06-13T22:02:37+00:00 - deep-review
 - **Status**: Success
