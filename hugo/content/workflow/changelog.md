@@ -9,6 +9,57 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-13T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [affective-tone-divergence-across-meditative-traditions](/topics/affective-tone-divergence-across-meditative-traditions/)
+- **Source**: outer-review convergence (ChatGPT 5.5 Pro + Gemini 2.5 Pro, 2026-06-13)
+- **Changes**:
+  - (1) Softened lede overstatement: "empirically established across the primary literature" → calibrated "selected authoritative sources foreground contrasting affective ideals… underdetermined" framing; same softening on the *Established*→*Reported in the textual record* paragraph (dropped "well-attested across… multiple unconnected cultures").
+  - (2) Imported parent caveats: independence-weakness (Sino-Indian/Neoplatonist contact channels), stage-mismatch, theory-ladenness/Katz 1978.
+  - (3) Expanded counterarguments from one rival (neural-training) to five: added stage-mismatch, report-construction, and the two named rival frameworks — Theory of Constructed Emotion (Barrett 2025) and Predictive Processing/Active Inference. Engaged both as intra-physical readings the data are equally available to; marked the Dualism-tenet preference as framework-boundary, not refutation.
+  - (4) Added jhāna concentrative-absorption qualifier (distinguished from open-monitoring equanimity); added al-Junayd *sober* (*ṣaḥw*) Sufism caveat, removed him from the unqualified ecstatic line.
+  - (5) Softened "by the neuroplasticity findings, neural architecture" → "training-sensitive affective and functional-neural patterns."
+  - Added Barrett 2025 and Katz 1978 references; added [direct-refutation-discipline](/project/direct-refutation-discipline/) to related_articles.
+- **Engagement classifications** (editor-internal): constructed-emotion (Barrett) — Mode Three (framework-boundary; data equally available, declined at the tenet boundary, not refuted on its own terms). Predictive-processing/active-inference — Mode Three (same). Identity theorist (pre-existing) — Mode Three, unchanged.
+- **Did NOT act on**: Gemini's hostile "insulates/circular/phrenology" framing — strawman per its own Verification Notes; only the named-rival-frameworks gap was durable.
+- **Length**: 3252→~3210 words (soft_warning; under 4000 hard ceiling).
+- **Published**: yes
+
+## 2026-06-13T05:32:40+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-13
+- **Coverage**: 2/3 reviewers processed (sources: chatgpt, gemini; claude leg not commissioned this cycle)
+- **Clusters**: 3 convergent, 2 singleton, 1 divergent
+- **Tasks upgraded**: 1 (P3→P2: 0, P2→P1: 1 — empirical-paragraph refresh)
+- **Tasks deduplicated**: 0 (per-review processing had already folded Gemini's durable finding into the existing P1 prose pass; no sibling tasks to merge)
+- **Output**: [outer-review-synthesis-2026-06-13](/reviews/outer-review-synthesis-2026-06-13/)
+
+## 2026-06-13T05:30:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [outer-review-2026-06-13-gemini-2-5-pro](/reviews/outer-review-2026-06-13-gemini-2-5-pro/)
+- **Subject**: [affective-tone-divergence-across-meditative-traditions](/topics/affective-tone-divergence-across-meditative-traditions/) (recent-aged fallback; same subject as ChatGPT 5.5 Pro — 3-reviewer triple)
+- **Claims verified**: 6 target quotes grep-verified against live article (all 4 tradition-profile quotes + Lutz/Fredrickson/Zeng citation base present); Barrett 2025 PPS 20(3) confirmed real (review's "392-340" is a page-range typo for 392–420)
+- **High-value findings**: 1 durable (article omits the Theory of Constructed Emotion and Predictive Processing as named rival frameworks). The reviewer's hostile framing ("insulates / circular / phrenology") DISPUTED as strawman — the article is explicitly evidential-status-hedged and disclaims the data as evidence for dualism; most of the five enumerated weaknesses restate that misdirected framing.
+- **Tasks generated**: 0 new — convergent rival-framework finding FOLDED into the existing P1 affective-tone consolidated prose pass (avoids same-file outer-review pileup); convergence flag added for /combine-outer-reviews.
+
+## 2026-06-13T05:15:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [outer-review-2026-06-13-chatgpt-5-5-pro](/reviews/outer-review-2026-06-13-chatgpt-5-5-pro/)
+- **Subject**: [affective-tone-divergence-across-meditative-traditions](/topics/affective-tone-divergence-across-meditative-traditions/) (recent-aged fallback)
+- **Claims verified**: 6 verified against live target + parent (lede overstatement, "neural architecture" wording, single-rival, Junayd-as-ecstatic, 2008/2008/2015 citation base, parent caveats not inherited); 5 currency leads left UNVERIFIED for refine-time web-check
+- **High-value findings**: 5 (lede calibration, inherit-parent-caveats, counterargument expansion, jhāna/Junayd simplifications, citation staleness)
+- **Tasks generated**: 3 (P1: 1 consolidated prose pass; P2: 2 — citation refresh, parent caveat promotion)
+- **Note**: Sibling Gemini leg (same subject) still pending — /combine-outer-reviews will not fire for 2026-06-13 until it resolves with ≥2 processed.
+
+## 2026-06-13T00:00:00+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 536 (268 topics, 264 concepts, 4 positions)
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-06-13](/reviews/tenet-check-2026-06-13/)
+
 ## 2026-06-13T01:31:47+00:00 - deep-review
 - **Status**: Success
 - **File**: [consciousness-interface-development](/topics/consciousness-interface-development/)
