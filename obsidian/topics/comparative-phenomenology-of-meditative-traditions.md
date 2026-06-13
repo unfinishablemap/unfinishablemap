@@ -4,7 +4,7 @@ description: "Cross-traditional meditation reports converge on structural featur
 created: 2026-03-07
 modified: 2026-03-07
 human_modified:
-ai_modified: 2026-06-04T16:21:13+00:00
+ai_modified: 2026-06-13T07:01:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ related_articles:
   - "[[ineffable-encounter-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-03-07
 last_curated:
 last_deep_review: 2026-06-04T16:21:13+00:00
@@ -116,7 +116,7 @@ Christian mysticism oscillates: Teresa of Avila describes spiritual delight, whi
 
 Daoist tradition emphasises naturalness and ease rather than any specific affective tone—*wu wei* (non-action) is characterised by spontaneous responsiveness without emotional coloration.
 
-These differences may reflect genuine phenomenological variation, or they may reflect different stages of practice being compared, or different attentional emphases producing different experiential profiles. The Map observes that if consciousness has distinct [[meditation-and-consciousness-modes|modes]], the affective dimension might depend on which aspects of the interface are engaged or disengaged rather than on what consciousness itself "feels like" at base. [[affective-tone-divergence-across-meditative-traditions|Affective tone divergence across meditative traditions]] develops this one-sentence hypothesis at full resolution, reading all four affective profiles against the selection/witness registers and holding the interface-mode reading at "a serious possibility" rather than letting the data it organises promote it.
+These differences may reflect genuine phenomenological variation, or they may reflect different stages of practice being compared, or different attentional emphases producing different experiential profiles. The Map observes that if consciousness has distinct [[meditation-and-consciousness-modes|modes]], the affective dimension might depend on which aspects of the interface are engaged or disengaged rather than on what consciousness itself "feels like" at base. [[affective-tone-divergence-across-meditative-traditions|Affective tone divergence across meditative traditions]] develops this one-sentence hypothesis at full resolution, reading all four affective profiles against the selection/witness registers and holding the interface-mode reading at "a serious possibility" rather than letting the data it organises promote it. Any four-tradition affective typology inherits the calibration flagged elsewhere in this article: the stage-mismatch worry stated just above, and the independence-weakness on the Sino-Indian and Neoplatonist channels developed under §"Against Cultural Construction" below.
 
 ### Cessation Versus Plenitude
 
@@ -128,7 +128,7 @@ Vedanta privileges plenitude. *Sat-chit-ananda* (being-consciousness-bliss) desc
 
 Christian tradition describes the beatific vision as infinitely rich experience—the fullness of encountering God.
 
-This divergence resists merely interpretive dismissal. Either advanced practice genuinely branches by tradition, or verbal reports misrepresent a deeper convergence that escapes description. Either horn constrains the convergence argument's evidential reach — the realism the convergence supports is bounded by what the traditions agree on, not extended by what they disagree on. §"For Phenomenological Realism" below develops this constraint in detail; [[cessation-versus-plenitude|cessation versus plenitude as divergence-side evidence]] develops it at full resolution, treating both horns of the dilemma honestly and naming the divergence as a Pre-Kepler-stage calibration constraint rather than resolving it.
+This divergence resists merely interpretive dismissal. Either advanced practice genuinely branches by tradition, or verbal reports misrepresent a deeper convergence that escapes description. Either horn constrains the convergence argument's evidential reach — the realism the convergence supports is bounded by what the traditions agree on, not extended by what they disagree on. §"For Phenomenological Realism" below develops this constraint in detail; [[cessation-versus-plenitude|cessation versus plenitude as divergence-side evidence]] develops it at full resolution, treating both horns of the dilemma honestly and naming the divergence as a Pre-Kepler-stage calibration constraint rather than resolving it. A child reading the end-state reports as a clean cessation-or-plenitude branch inherits the theory-ladenness caveat (Katz) raised under §"Against Cultural Construction" below: the verbal reports are not transparent to the underlying states.
 
 ## What Convergence Reveals
 

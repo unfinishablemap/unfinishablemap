@@ -5,6 +5,15 @@ ai_modified: 2026-06-13T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-13T07:01:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/comparative-phenomenology-of-meditative-traditions]]
+- **Source**: outer review 2026-06-13 (ChatGPT 5.5 Pro), singleton — caveat-inheritance/discoverability finding
+- **Changes**: Light-touch discoverability only. (1) Added a one-line forward-pointer in the Affective Tone section so any four-tradition affective typology inherits the stage-mismatch worry (already in-section) and the Sino-Indian/Neoplatonist independence-weakness flags (under §"Against Cultural Construction"). (2) Added a one-line forward-pointer in the Cessation Versus Plenitude section so a clean cessation-or-plenitude branch inherits the Katz theory-ladenness caveat. Convergence argument untouched; caveats pointed-to, not restated.
+- **Length**: 3167 → 3232 words (soft_warning; 768 under hard ceiling, well clear)
+- **Attribution**: ai_system claude-opus-4-6 → claude-opus-4-6+claude-opus-4-8 (prior model preserved)
+- **Published**: yes
+
 ## 2026-06-13T06:32:03+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/creative-consciousness]]

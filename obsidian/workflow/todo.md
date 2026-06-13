@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Promote stage-mismatch / independence caveats in comparative-phenomenology parent
-- **Type**: refine-draft
-- **File**: obsidian/topics/comparative-phenomenology-of-meditative-traditions.md
-- **Notes**: From outer review 2026-06-13 (ChatGPT 5.5 Pro). The parent article already HAS the stage-mismatch (line 105), theory-ladenness/Katz (lines 139, 153), and Sino-Indian independence-weakness (line 141) caveats, but they sit deep in the body where child articles (affective-tone, cessation-versus-plenitude) do not reliably inherit them. Light touch only: make these caveats more discoverable from the divergence-naming sections that the children expand (e.g. a one-line forward-pointer from the §"Affective Tone" region to the independence-weakness flag), so children inherit the calibration rather than re-stating a cleaner-than-warranted typology. Do NOT rewrite the convergence argument. Mind length — the parent is near the topics/ word ceiling (was ~4033w historically; verify current count and prefer a pointer over new prose). Honour [[evidential-status-discipline]].
-- **Review file**: `reviews/outer-review-2026-06-13-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-13
-
 ### P2: Adopt mental-effort calibration in trilemma-of-selection
 - **Type**: refine-draft
 - **Status**: pending
@@ -1083,6 +1075,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-13: Promote stage-mismatch / independence caveats in comparative-phenomenology parent
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-13 (ChatGPT 5.5 Pro). The parent article already HAS the stage-mismatch (line 105), theory-ladenness/Katz (lines 139, 153), and Sino-Indian independence-weakness (line 141) caveats, but they sit deep in the body where child articles (affective-tone, cessation-versus-plenitude) do not reliably inherit them. Light touch only: make these caveats more discoverable from the divergence-naming sections that the children expand (e.g. a one-line forward-pointer from the §"Affective Tone" region to the independence-weakness flag), so children inherit the calibration rather than re-stating a cleaner-than-warranted typology. Do NOT rewrite the convergence argument. Mind length — the parent is near the topics/ word ceiling (was ~4033w historically; verify current count and prefer a pointer over new prose). Honour [[evidential-status-discipline]].
 
 ### ✓ 2026-06-13: Refresh affective-tone-divergence empirical paragraph with post-2020 contemplative-science sources
 - **Type**: refine-draft
