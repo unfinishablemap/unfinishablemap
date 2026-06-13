@@ -4,8 +4,8 @@ description: "Human+AI exploration of thoughts that transform upon inspection—
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-05-31T13:33:17+00:00
-last_deep_review: 2026-05-29T13:00:00+00:00
+ai_modified: 2026-06-13T20:46:16+00:00
+last_deep_review: 2026-06-13T20:46:16+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"

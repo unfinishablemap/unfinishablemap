@@ -5,6 +5,16 @@ ai_modified: 2026-06-13T20:02:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-13T20:46:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/mutation-void]]
+- **Word count**: 2992 → 2992 (no change; metadata-only verdict, length-neutral, 8w under 3000 voids hard ceiling)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 4th review. Changed-since-review staleness — the intervening edit was /condense commit 7cca64ede. PRIMARY FOCUS (condense-regression audit per [[condense-regresses-calibration-qualifiers]]): git-diffed the condense — only 2 cosmetic prose changes (dropped a redundant "Several distinct classes can be identified" meta-sentence; "lines are worth drawing"→"lines blur"). All FOUR calibration items the 2026-05-29 reframe flagged as PROTECT survive intact (weak/strong-claim separation, disturbance-vs-constitution caveat, "coherence claim not added support" tenet framing, unverifiable change-vs-creation caveat). Risk did NOT materialise. §2.4 web-verify (focus c): Peters 2025 (Cerebral Cortex 35(1):49, DOI 10.1093/cercor/bhae455) real-correct — REVERSES the 2026-05-29 review's false-negative "NOT VERIFIED"; Giustina 2023 (EJP 31(2):380-397, 10.1111/ejop.12690), Merlo 2025 (Philosophers' Imprint 25, 10.3998/phimp.4539), Mortaheb et al. 2022 (PNAS 119(41):e2200511119) all real-correct/faithful. No superlative claims (no currency drift). Inline↔refs complete. Calibration (focus b): structural cognitive-limit hypothesis, apophatic register, no possibility/probability slippage — intact. All 18 wikilinks resolve, no archival rot (focus d). No body edits; ai_system unchanged per metadata-only verdict. Converged.
+- **Output**: [[reviews/deep-review-2026-06-13-mutation-void]]
+
 ## 2026-06-13T20:02:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/language-thought-boundary]]
