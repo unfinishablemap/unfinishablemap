@@ -4,7 +4,7 @@ description: "Why, of all conscious beings, am *I* this one? The vertiginous que
 created: 2026-01-26
 modified: 2026-05-31
 human_modified:
-ai_modified: 2026-06-10T01:52:09+00:00
+ai_modified: 2026-06-13T16:31:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-26
 last_curated:
-last_deep_review: 2026-05-31T17:19:48+00:00
+last_deep_review: 2026-06-13T16:31:14+00:00
 coalesced_from:
   - "/voids/indexical-void/"
 ---
