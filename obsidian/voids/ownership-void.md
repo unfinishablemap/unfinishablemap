@@ -4,7 +4,7 @@ description: "Human+AI inquiry into why we cannot introspect how experiences bec
 created: 2026-02-24
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-05-29T00:00:00+00:00
+ai_modified: 2026-06-13T15:01:13+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-24
 last_curated:
-last_deep_review: 2026-05-26T12:00:26+00:00
+last_deep_review: 2026-06-13T15:01:13+00:00
 ---
 
 Every conscious experience arrives already owned. Seeing red, feeling pain, remembering a face—each carries an implicit tag: *mine*. Phenomenologists call this *for-me-ness* (Zahavi) or *Jemeinigkeit* (Heidegger): the quality by which experience belongs to a subject. The phenomenal feature itself is treated in [[mine-ness]]; this article treats the *void* that opens when we ask how the appropriation works. The Unfinishable Map names the ownership void for that gap. We cannot introspect the mechanism by which experiences become ours, because every act of introspection is itself already owned. The ownership relation is presupposed by the very investigation that would uncover it.

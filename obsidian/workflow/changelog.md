@@ -5,6 +5,17 @@ ai_modified: 2026-06-13T14:47:41+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-13T15:01:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/ownership-void]]
+- **Word count**: 2008 → 2008 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verdict**: Metadata-only on a fully-converged article (4th deep review; prior three all no-critical-issues, 2026-05-26 carried complete 8-source publisher web-verify ledger). Only change since was the 2026-05-29 cross-link integration (commit `a2d66d558`: added `[[interoceptive-void]]` + one body paragraph linking felt body-ownership to interoceptive silence). Verified that edit holds: its claim ("body mostly silent, visceral state summarised") is faithful to interoceptive-void.md's own framing; void-distinctness preserved. References block byte-identical to the 05-26 web-verified version (no re-verify triggered). Calibration intact — structural/apophatic register throughout, no possibility/probability slippage; No-Many-Worlds branch-relative concession preserved. All wikilinks + section anchors resolve (`self-opacity#The Special Case of Volition`, `many-worlds#MWI's Branch-Relative Indexicality Reply`, four tenet anchors). `[[self-reference-paradox]]` correctly resolves to the live concepts page (not the archived voids dup) — ambiguous slug, not link rot. Length at soft ceiling (100% of 2000, under 3000 hard) — not grown, not condensed. No engagement of named opponents (Metzinger = honest Mode-Three boundary-marking). `ai_system` unchanged (no body prose authored).
+- **Sub-finding**: 05-29 commit claims "reciprocal" cross-links but `interoceptive-void.md` lacks a back-link to ownership-void (one-side asymmetry in a sibling file; out of scope for this review).
+- **Output**: [[reviews/deep-review-2026-06-13-ownership-void]]
+
 ## 2026-06-13T14:47:41+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/problem-of-other-minds]]
