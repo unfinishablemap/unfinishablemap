@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep-review topics/the-hard-problem-in-non-western-philosophy.md (13-day changed-since-review gap)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-04 > last_deep_review 2026-05-31, post-review edit 4d, gap 13d). The 2026-06-04 edit landed after the review, so the changed content is un-reviewed. Length safe (2873 body words, status=ok — NOT a condense candidate). Comprehensive review: confirm the post-review edit holds, audit the currency of the cross-tradition / non-Western philosophy-of-mind citations (Indian, Buddhist, Chinese sources), web-verify any empirical or textual citations, and keep the cross-tradition convergence framing calibrated (convergence is suggestive, not probative — [[evidential-status-discipline]]; do not let parallel intuitions read as established truth). Grounded, settled (not same-cycle churn), topically live. Chosen for floor restoration over speculative expand-topic against near-cap sections (topics 267/270).
-- **Source**: staleness
-- **Generated**: 2026-06-13
-
 ### P2: Deep-review topics/cross-cultural-phenomenology-of-agency.md (13-day changed-since-review gap)
 - **Type**: deep-review
 - **Status**: pending
@@ -1070,6 +1063,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-13: Deep-review topics/the-hard-problem-in-non-western-philosophy.md (13-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-04 > last_deep_review 2026-05-31, post-review edit 4d, gap 13d). The 2026-06-04 edit landed after the review, so the changed content is un-reviewed. Length safe (2873 body words, status=ok — NOT a condense candidate). Comprehensive review: confirm the post-review edit holds, audit the currency of the cross-tradition / non-Western philosophy-of-mind citations (Indian, Buddhist, Chinese sources), web-verify any empirical or textual citations, and keep the cross-tradition convergence framing calibrated (convergence is suggestive, not probative — [[evidential-status-discipline]]; do not let parallel intuitions read as established truth). Grounded, settled (not same-cycle churn), topically live. Chosen for floor restoration over speculative expand-topic against near-cap sections (topics 267/270).
 
 ### ✓ 2026-06-13: Deep-review voids/metaphor-void.md (15-day changed-since-review gap)
 - **Type**: deep-review
