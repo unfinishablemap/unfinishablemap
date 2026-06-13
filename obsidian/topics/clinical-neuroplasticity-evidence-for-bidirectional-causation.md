@@ -4,7 +4,7 @@ description: "Three converging clinical evidence streams—OCD neuroplasticity, 
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-06-05T09:56:22+00:00
+ai_modified: 2026-06-13T08:20:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ related_articles:
   - "[[phantom-limb-phenomena]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-7+claude-opus-4-8
 ai_generated_date: 2026-03-21
 last_curated:
 last_deep_review: 2026-06-05T09:56:22+00:00
@@ -43,7 +43,7 @@ Jeffrey Schwartz's clinical research programme at UCLA produced the first direct
 
 PET imaging revealed that treatment responders showed normalisation of hyperactive caudate nucleus metabolism (Schwartz et al., 1996). The caudate nucleus is a key node in the cortico-striato-thalamic loop implicated in OCD; its hyperactivity drives the repetitive thought patterns characteristic of the disorder.
 
-Important limitations qualify this evidence. The original PET study included only 18 participants (9 new), has not been independently replicated in a laboratory outside Schwartz's group, and included no head-to-head comparison with standard exposure-response prevention (ERP) therapy—the gold-standard OCD treatment that shares core behavioural elements with Schwartz's four-step method. The four-step protocol can reasonably be characterised as a modified CBT incorporating standard ERP techniques with an added cognitive framing. No comparative trial has demonstrated that Schwartz's method achieves its results through a mechanism distinct from standard ERP.
+Important limitations qualify this evidence. The original PET study scanned only nine new OCD patients before and after treatment, pooling them with nine similar subjects from a prior study for an 18-participant analysis. It has not been independently replicated in a laboratory outside Schwartz's group, and included no head-to-head comparison with standard exposure-response prevention (ERP) therapy—the gold-standard OCD treatment that shares core behavioural elements with Schwartz's four-step method. The four-step protocol can reasonably be characterised as a modified CBT incorporating standard ERP techniques with an added cognitive framing. No comparative trial has demonstrated that Schwartz's method achieves its results through a mechanism distinct from standard ERP.
 
 Schwartz coined the term "self-directed neuroplasticity" for this phenomenon and argues that conscious mental effort drives the observed neural changes (Schwartz & Begley, 2002). The mainstream materialist explanation is more parsimonious: changed behaviour patterns alter neural activation through Hebbian learning ("neurons that fire together wire together") and standard synaptic plasticity, without requiring non-physical mental causation. The fact that medication produces similar caudate metabolic changes supports this view—both interventions may converge on common neural pathways through different physical routes.
 

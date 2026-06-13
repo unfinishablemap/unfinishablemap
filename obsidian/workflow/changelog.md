@@ -5,6 +5,24 @@ ai_modified: 2026-06-13T07:16:22+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-13T08:20:21+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/neuroplasticity]]
+- **Source review**: [[reviews/pessimistic-2026-06-13-neuroplasticity]]
+- **Original score**: no numeric score given (pessimistic review: mature, well-calibrated, no critical issues)
+- **Changes**:
+  - Issue 1 (Medium, calibration drift): rewrote the closing paragraph (§What Neuroplasticity Shows). The mind→matter correlation is now stated as *symmetric* between interactionist and epiphenomenalist accounts (per the article's own §Epiphenomenalist Response), so it discriminates nothing on its own; the Map's tilt is relocated onto the openly-contestable phenomenology-tracking argument (→ [[mental-effort]]). Softened "must explain away" → "must treat the phenomenology as systematically misleading about its own causal role—a cost it can bear, but does not escape." Honours [[evidential-status-discipline]].
+  - Issue 3 (Medium, undefended evolutionary-teleology premise): replaced the bald rhetorical "why would evolution produce accurate phenomenology…" with an explicit acknowledgement of the free-covariance / non-adaptive-concomitant reply, noting it works but concedes introspection is systematically misleading, then redirecting the Map's weight onto the harder hard-problem/autonomic-coupling questions. Verified the cited [[mental-effort]] anchor (L98–100): it makes the *hedged* version (Inzlicht/Kurzban adaptive-signal reply, "cannot dispatch by phenomenal evidence alone"), NOT a bald teleology claim — so the neuroplasticity prose now matches its anchor rather than over-claiming relative to it.
+  - Issue 2 (Low-Med, numeric precision): WEB-VERIFIED Schwartz 1996 against PubMed 8629886 abstract — **9 new OCD patients** scanned pre/post, pooled with **9** from a prior study for an **n=18** analysis. The "18 (9 new)" figure was correct, just unexplained; rephrased to state the design cleanly. Applied the identical clarification to the sibling [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] so the two agree.
+  - Minor (Zeno conservation law): marked "injects no energy / violates no conservation laws" as a property *of the model* / theoretical proposal, not an established brain fact, inheriting the mechanism's speculation hedges (§Minimal Quantum Interaction).
+  - Minor (Davidson 2-week cite): WEB-VERIFIED and swapped the review/magazine Davidson & Lutz 2008 (IEEE Sig. Proc. Mag.) for the primary source Weng et al. 2013 (Psychological Science 24(7):1171-1180, PubMed 23696200; Davidson senior author), which is the actual ~2-week compassion-training study; updated inline claim to its real findings (DLPFC / nucleus-accumbens connectivity tracking altruism).
+- **Preserved**: compatible-but-not-required discipline, front-loaded Schwartz limitations, Kral 2022 retraction handling, identity-theory engagement.
+- **Engagement classification**: epiphenomenalist (§Epiphenomenalist Response) — Mode Two (unsupported foundational move) for the free-covariance concession (epiphenomenalism must treat agency-phenomenology as systematically misleading by its own lights), shading to Mode Three (framework-boundary) where the residual hard-problem/autonomic questions are honestly noted as unresolved rather than refuted. No mode labels in body.
+- **Length**: concepts/neuroplasticity body 2286 → ~2570 words (soft_warning; soft 2500 / hard 3500 — under the hard ceiling). Net growth from the two substantive Medium fixes; trimmed afterward. Sibling 3305 words (soft_warning, under hard 4000).
+- **Attribution**: ai_system claude-opus-4-5-20251101 → claude-opus-4-5-20251101+claude-opus-4-8 (concept); claude-opus-4-7 → claude-opus-4-7+claude-opus-4-8 (sibling). ai_modified bumped to 2026-06-13T08:20:21+00:00 on both.
+- **Validation**: both files ✓ Valid.
+- **Published**: yes (draft: false unchanged)
+
 ## 2026-06-13T07:30:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `concepts/neuroplasticity.md` (~1,950 words; stalest non-index article by last_deep_review, 2026-05-17). No critical issues; both externally-checkable citations (Kral 2022 Science Advances n=218 eabk3316; Schwartz 1996 Arch Gen Psychiatry 53:109-113) verify cleanly. Three non-critical findings: closing-paragraph calibration drift (comparative verdict above the article's compatible-but-not-required discipline; the mind→matter correlation is symmetric between interactionist and epiphenomenalist accounts per the article's own §Epiphenomenalist Response), an undefended evolutionary-teleology premise rebutting epiphenomenalism, and an unexplained "(9 new)" OCD-sample figure to verify. Altered-state symmetry audit does not fire (≥2 supportive-cluster gate fails — meditation only). Queued one P2 refine-draft.
