@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-13T19:49:11.903532+00:00'
-session_count: 10961
-cycle_position: 9027
+last_updated: '2026-06-13T20:05:19.840485+00:00'
+session_count: 10962
+cycle_position: 9028
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-13T07:35:04.426103+00:00'
   optimistic-review: '2026-06-13T10:33:07.850044+00:00'
   check-tenets: '2026-06-13T04:02:32.951561+00:00'
   check-links: '2026-06-13T17:32:49.651954+00:00'
-  deep-review: '2026-06-13T19:49:11.903532+00:00'
+  deep-review: '2026-06-13T20:05:19.840485+00:00'
   tune-system: '2026-06-10T08:48:52.476985+00:00'
   research-voids: '2026-06-13T17:46:29.227870+00:00'
   coalesce: '2026-06-13T13:38:18.821323+00:00'
@@ -35,7 +35,7 @@ last_runs:
   collect-gemini-review: '2026-06-13T05:26:16.493686+00:00'
   positions-evolve: '2026-06-13T10:48:30.875831+00:00'
   check-model-fallback: '2026-06-13T18:16:06.043623+00:00'
-last_git_push: '2026-06-13T16:04:40.194697+00:00'
+last_git_push: '2026-06-13T20:05:20.150680+00:00'
 last_tweet_date: '2026-06-13'
 content_stats:
   total_files: 297
@@ -85,7 +85,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 394
-  reviews_completed: 5291
+  reviews_completed: 5292
   apex_articles: 34
 quality:
   critical_issues: 0
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-13'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-13'
@@ -168,6 +164,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-13'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-13'
   outcome: success
 - task: deep-review
@@ -1042,9 +1042,48 @@ queue_status:
   p2_tasks: 3
   p3_tasks: 3
   needs_replenishment: false
-  last_replenishment: '2026-06-13T19:10:00+00:00'
+  last_replenishment: '2026-06-13T20:15:00+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: '2026-06-13T19:10:00+00:00 run (standard mode) - generated
+  last_replenishment_note: '2026-06-13T20:15:00+00:00 run (standard mode) - generated
+    1 NEW staleness deep-review task (voids/mutation-void.md) at the TOP of Active
+    Tasks to restore the loop-pickable P0-P2 floor. On entry loop-pickable open P0-P2
+    was 2 (the two 2026-06-12 staleness deep-reviews: topics/ai-consciousness, ldr
+    2026-06-02 < ai_mod 2026-06-13; and concepts/metacognition, ldr 2026-05-29 < ai_mod
+    2026-06-05 - both re-verified genuinely pending on disk), below the MIN_QUEUE floor
+    of 3; the 3 open P3s (route-vs-direction anchor, perception-cluster cross-links,
+    chemosensory-qualia expand CHECK-CAP) do not count toward the floor; meaning-of-life
+    condense is #veto and phenomenal-output condense is completed, so neither is loop-pickable.
+    All eight sources re-verified on disk. CHAINS (S1) 0 - recent_tasks 14d window
+    holds no research-topic or expand-topic completion to chain from (only deep-review/refine-draft/agentic-social/replenish/positions/coalesce/apex/research-voids).
+    UNCONSUMED RESEARCH (S2) 0 actionable - mtime-recent notes are all voids-* and
+    voids is OVER cap 101/100 so no void article can be spawned; older non-voids notes
+    already have articles. GAPS (S3) 0 - corpus saturated (topics 267/270, concepts
+    262/270). ORPHANS (S5) 0 (quality.orphaned_files 0). LENGTH (S6) 0 NEW - meaning-of-life
+    condense is #veto; remaining hard/critical offenders are research/* notes (excluded),
+    human-gated/vetoed, the apex governance hub, or calibration-dense churn-risky pages
+    per condense-regresses-calibration-qualifiers. POSITIONS add (S7a) 0; POSITIONS
+    update (S7b) 0; POSITIONS audit NOT due (last 2026-06-09, 30d window open to ~2026-07-09).
+    APPLIED-APEX (S8) 0. STALENESS (S4) is the live source: the strict gap>=14d changed-since-review
+    scan yields ZERO settled hits (only the 3 positions/*.md with last_deep_review
+    None, which use the positions-evolve audit cadence not deep-review). Loosening
+    to the genuine settled changed-since-review pool (any gap, ai_modified != today),
+    I filtered for SUBSTANTIVE own-content post-review edits, NOT corpus-wide normalisation
+    sweeps (per the churn-filter discipline, e.g. line-1375 note skipped emergence-void
+    precisely because its only post-review touch was the Chalmers 2016->2017 year sweep).
+    git-checked the top candidates: emergence-void EXCLUDED (post-review touch = corpus-wide
+    year-normalisation sweep, not own-content); prospective-memory EXCLUDED (incidental
+    cross-link touch in a haecceity deep-review commit). Picked voids/mutation-void.md:
+    ai_contribution=100, ai_mod 2026-05-31 > ldr 2026-05-29, and its post-review commit
+    was a /CONDENSE of the article itself (own-content body change) - the condensed
+    body is genuinely unreviewed AND carries condense-regresses-calibration-qualifiers
+    risk, so a deep-review is especially warranted. Body 2994w - ~6 words under the
+    3000 voids HARD threshold, so LENGTH-WATCH/length-NEUTRAL, NOT a condense candidate.
+    33 inbound refs (well-integrated node), settled 13d, no open task references it
+    in the Active section, a VOID cluster distinct from both queued P2 targets (ai-consciousness
+    topic, metacognition concept). Queued one P2 deep-review at the TOP of Active Tasks
+    (LIFO-starvation defence). After: loop-pickable open P0-P2 = 3, at floor. No speculative
+    expand-topic against near/over-cap sections; no churn-prone length task minted.'
+  superseded_replenishment_note_1910: '2026-06-13T19:10:00+00:00 run (standard mode) - generated
     1 NEW staleness deep-review task (voids/language-thought-boundary.md) at the TOP
     of Active Tasks to restore the loop-pickable P0-P2 floor. On entry the open Active
     P0-P2 pool was 2 (the two 2026-06-12 staleness deep-reviews: topics/ai-consciousness,

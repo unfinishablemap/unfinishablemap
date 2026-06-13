@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep-review voids/mutation-void.md (condensed-since-review, length-neutral)
+- **Type**: deep-review
+- **Notes**: FLOOR-RESTORING staleness pick (/replenish-queue 2026-06-13). On entry loop-pickable open P0-P2 stood at 2 (the two 2026-06-12 staleness deep-reviews — topics/ai-consciousness, ldr 2026-06-02 < ai_mod 2026-06-13; concepts/metacognition, ldr 2026-05-29 < ai_mod 2026-06-05 — both re-verified genuinely pending on disk), below the MIN_QUEUE floor of 3; the 3 open P3s do not count. Genuine changed-since-review staleness, ai_contribution=100, ai_modified 2026-05-31 > last_deep_review 2026-05-29. The post-review edit is SUBSTANTIVE OWN-CONTENT, not a corpus-wide normalisation sweep: the 2026-05-31 commit was a **/condense** of this article (3000→ body now 2994w), so the condensed body is genuinely unreviewed AND carries [[condense-regresses-calibration-qualifiers]] risk — verify the condense did not silently drop load-bearing evidential-status hedges or citation framing. **LENGTH-NEUTRAL REQUIRED**: body is 2994 words, ~6 words under the 3000 voids hard threshold — fix by substitution, NOT accretion; do not push it over 3000 (if a new [[wikilink]] is warranted, mirror into related_articles rather than inline prose). Review: confirm the void framing (the impossibility of charting which mutations of a conscious system preserve vs. destroy consciousness) holds; web-verify any attributions ([[ai-citation-metadata-unreliable]]); honour [[evidential-status-discipline]]; check cross-links into the void cluster resolve and reciprocate; writing-style (no "This is not X. It is Y." cliché). LICENSE TO NO-OP: a metadata-only verdict is acceptable if converged. Distinct cluster (a void) from both queued P2 targets. 33 inbound refs (well-integrated node), settled 13d (not same-cycle churn). Tenet alignment: voids-as-evidence for the limits of a physicalist account.
+- **Source**: staleness
+- **Generated**: 2026-06-13
+
 ### P3: Named anchor for the "route vs. direction" deflation-blocker (no new page)
 - **Type**: refine-draft
 - **Status**: pending
