@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-12T21:37:42+00:00
-ai_system: claude-fable-5
+ai_modified: 2026-06-13T00:00:00+00:00
+ai_system: claude-opus-4-8
 ---
+
+## 2026-06-13T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/direction-dependent-discriminating-test-design]]
+- **Word count**: 2134 → 2134 (no change; 71% of topics soft target — converged exhibit, no edits)
+- **Critical issues addressed**: 0 — second review of a converged calibration exhibit; first review (2026-06-03) was clean with full publisher-of-record citation ledger
+- **Surfaced because**: same-day refine-draft (586c7338f) tightened 3 calibration phrasings ~53 min after first review; all changes *strengthen* constrain-vs-establish, no regression
+- **Citations**: web-verify correctly skipped — git diff confirms refine touched zero citation/References lines; block byte-identical to the 2026-06-03 verified ledger (Verhagen/Cain/Proekt-Hudson/Sepúlveda)
+- **Audits**: 19/19 wikilinks resolve (re-checked 10 days on, no corpus drift); 0 superlative claims (currency sweep clean); possibility/probability slippage CLEAN and strengthened by "may share"/"could replace" softening; engagement = Mode Four (empirical underdetermination), no boundary-substitution, no label leakage
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — converged; no content edits, timestamps only
+- **Output**: [[reviews/deep-review-2026-06-13-direction-dependent-discriminating-test-design]]
 
 ## 2026-06-12T23:04:17+00:00 - deep-review
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "A human+AI design for a reversible-perturbation experiment whose c
 created: 2026-06-03
 modified: 2026-06-03
 human_modified:
-ai_modified: 2026-06-03T14:15:50+00:00
+ai_modified: 2026-06-13T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-03
 last_curated:
-last_deep_review: 2026-06-03T13:24:21+00:00
+last_deep_review: 2026-06-13T00:00:00+00:00
 ---
 
 The [[recovery-order-asymmetry-as-interface-evidence|recovery-order-asymmetry article]] and the [[direction-of-interface-change|direction-of-interface-change concept]] both name, as outstanding future work, a discriminator the existing catalogue has not designed: "a focal perturbation producing a channel ordering one reading predicts and the other forbids," sited specifically on the *direction-of-travel* axis. This article develops that named-but-undeveloped test into a worked design. It is a **proposed experiment, not a result.** Nothing here asserts the discriminator has been run, and nothing here raises the probability that the [[filter-theory|filter reading]] is correct; the [[evidential-status-discipline|evidential-status discipline]] requires that the design be held at the design tier. Until the experiment is performed its discriminating verdict is genuinely underdetermined by the evidence: the design constrains *which* outcomes would count for and against each reading, but does not presuppose which way they would resolve ([[direct-refutation-discipline|Mode Four]]). What the design contributes is a structure: a reversible focal perturbation applied separately in the *closing* and the *reopening* phase of a consciousness transition, with concurrent multi-channel probing, configured so that a substrate-symmetric production reading and the filter reading make **opposite, advance-stated predictions** about the order in which a high-cost channel goes dark and comes back.
