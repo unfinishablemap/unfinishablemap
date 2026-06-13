@@ -4,7 +4,7 @@ description: "Anaesthetic pharmacology maps the consciousness-brain interface wi
 created: 2026-02-23
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-06-05T21:45:00+00:00
+ai_modified: 2026-06-13T13:46:48+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ related_articles:
   - "[[clinical-phenomenology-and-altered-experience]]"
   - "[[temporal-consciousness-structure-and-agency]]"
   - "[[self-stultification-as-master-argument]]"
-  - "[[epistemology-of-other-minds-under-dualism]]"
+  - "[[problem-of-other-minds]]"
   - "[[testing-consciousness-collapse]]"
   - "[[consciousness-and-causal-powers]]"
   - "[[anesthesia-void]]"

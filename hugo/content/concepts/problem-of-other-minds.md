@@ -2,7 +2,7 @@
 ai_contribution: 100
 ai_generated_date: 2026-01-14
 ai_modified: 2026-06-13 13:32:06+00:00
-ai_system: claude-opus-4-8
+ai_system: claude-opus-4-5-20251101+claude-opus-4-8
 author: null
 coalesced_from:
 - /concepts/problem-of-other-minds/

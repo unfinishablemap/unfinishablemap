@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-13T13:32:06+00:00
+ai_modified: 2026-06-13T13:46:48+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-13T13:46:48+00:00 - cross-review (repoint)
+- **Status**: Success
+- **Context**: Repoint of the 11 live content files referencing the now-archived `[[epistemology-of-other-minds-under-dualism]]` slug (coalesced into `[[problem-of-other-minds]]` earlier this cycle). Links already resolved via the converter's superseded_by remap — this is content-quality cleanup, nothing was broken ([[archival_link_rot]]).
+- **Files repointed (11/11)**:
+  - `apex/machine-question.md` — body prose: repointed `dualism intensifies` to `[[problem-of-other-minds#The Dualist's Dilemma]]` (avoids a same-sentence duplicate bare link; preserves the dualism-specific sense now living in that section). ai_system → claude-opus-4-7+claude-opus-4-8.
+  - `topics/ai-consciousness.md` — body prose anchor (same Dualist's-Dilemma move); removed a now-duplicate Further Reading entry (hub already listed); frontmatter related swap. ai_system → claude-opus-4-7+claude-opus-4-8.
+  - `topics/consciousness-and-social-understanding.md` — body prose anchor + Further-Reading dedup-removal (hub already listed) + frontmatter related swap. ai_system → claude-opus-4-6+claude-opus-4-8.
+  - `concepts/epistemology.md` — body prose: repointed to `[[problem-of-other-minds#The Dualist's Dilemma|dualist epistemology of other minds]]`; Further Reading gloss-bearing swap; frontmatter swap. ai_system → claude-opus-4-6+claude-opus-4-8.
+  - `concepts/philosophical-zombies.md` — body prose anchor (Dualist's Dilemma); merged a now-duplicate Further-Reading pair into one keeper entry; removed a duplicate frontmatter concept entry (hub already present). ai_system → claude-opus-4-5-20251101+claude-opus-4-8.
+  - `topics/consciousness-and-intersubjectivity.md` — frontmatter related swap + Further-Reading dedup-removal (mechanical, no prose change; no ai_system change).
+  - `topics/consciousness-and-the-problem-of-other-properties.md` — frontmatter related swap + Further-Reading dedup-removal (mechanical).
+  - `concepts/intersubjectivity.md` — frontmatter related swap + Further-Reading dedup-removal (mechanical).
+  - `concepts/discrimination-problem.md` — frontmatter topics swap + Further-Reading swap (mechanical).
+  - `topics/phenomenal-authority-and-first-person-evidence.md` — frontmatter related swap (mechanical).
+  - `topics/anaesthesia-and-the-consciousness-interface.md` — frontmatter related swap (mechanical).
+- **Load-bearing-distinction handling**: where prose distinguished the general puzzle from the dualism-specific treatment, repointed to the keeper's `#The Dualist's Dilemma` section anchor (which holds the merged dualist material) rather than the bare hub — preserving the sense in 5 body-prose references. Mechanical wikilink-target swaps (frontmatter lists, gloss-list items with no prose-claim change) did not trigger an ai_system change per task discipline.
+- **Keeper**: `concepts/problem-of-other-minds.md` left untouched (no missing reciprocal link; already 3081w).
+- **Verification**: 0 remaining refs to the archived slug across the 11 files; keeper unchanged; `#the-dualists-dilemma` anchor confirmed to slugify-match the keeper's `## The Dualist's Dilemma`; sync exit 0; validate ✓ (only pre-existing unrelated workflow/archive length warnings).
+- **Published**: yes
 
 ## 2026-06-13T13:32:06+00:00 - coalesce
 - **Status**: Success

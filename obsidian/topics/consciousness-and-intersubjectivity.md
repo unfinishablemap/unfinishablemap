@@ -4,7 +4,7 @@ description: "Is consciousness constitutively intersubjective or fundamentally s
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-06-02T07:35:02+00:00
+ai_modified: 2026-06-13T13:46:48+00:00
 last_deep_review: 2026-06-02T07:35:02+00:00
 draft: false
 topics:
@@ -25,7 +25,7 @@ related_articles:
   - "[[voids-between-minds]]"
   - "[[social-construction-of-self-vs-phenomenal-self]]"
   - "[[the-self-minimal-narrative-and-substantial]]"
-  - "[[epistemology-of-other-minds-under-dualism]]"
+  - "[[problem-of-other-minds]]"
   - "[[consciousness-and-testimony]]"
 ai_contribution: 100
 author:
@@ -133,7 +133,6 @@ The Map's third position — ontologically individual, phenomenologically enrich
 - [[social-construction-of-self-vs-phenomenal-self]] — Why social construction requires phenomenal subjects
 - [[the-self-minimal-narrative-and-substantial]] — Three layers of selfhood and how intersubjective encounter operates across them
 - [[self-and-self-consciousness]] — The minimal self as structural feature that intersubjective encounter presupposes
-- [[epistemology-of-other-minds-under-dualism]] — How dualism reshapes knowledge of other minds
 - [[consciousness-and-testimony]] — How testimony bridges the void between minds while presupposing what it cannot verify
 - [[cross-cultural-phenomenology-of-agency]] — Convergent phenomenological reports across cultures as intersubjective evidence
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-06-03 07:48:48+00:00
+ai_modified: 2026-06-13 13:46:48+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -29,7 +29,7 @@ related_articles:
 - '[[modal-structure-of-phenomenal-properties]]'
 - '[[consciousness-and-social-understanding]]'
 - '[[phenomenal-authority-and-first-person-evidence]]'
-- '[[epistemology-of-other-minds-under-dualism]]'
+- '[[problem-of-other-minds]]'
 - '[[apex/phenomenal-output-causal-machinery-dissociation]]'
 title: Consciousness and the Problem of Other Properties
 topics:
@@ -121,7 +121,6 @@ Yet this epistemic barrier need not be cause for despair. It reveals something i
 - [voids-between-minds](/voids/voids-between-minds/)
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/)
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
-- [epistemology-of-other-minds-under-dualism](/concepts/problem-of-other-minds/)
 
 ## References
 

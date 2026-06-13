@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-06-01 09:30:00+00:00
+ai_modified: 2026-06-13 13:46:48+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'
 - '[[witness-consciousness]]'
-- '[[epistemology-of-other-minds-under-dualism]]'
+- '[[problem-of-other-minds]]'
 - '[[tenets]]'
 - '[[consciousness-and-collective-phenomena]]'
 - '[[consciousness-and-social-understanding]]'
@@ -132,7 +132,6 @@ Intersubjectivity also connects to methodology. The [first-person/third-person d
 ## Further Reading
 
 - [voids-between-minds](/voids/voids-between-minds/) — The voids framework treatment: existence, encounter, and sharing across individual consciousnesses
-- [epistemology-of-other-minds-under-dualism](/concepts/problem-of-other-minds/) — How dualism shapes the epistemic landscape of knowing other minds
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Systematic contemplative practice as a knowledge source, grounding the contemplative evidence discussed here
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) — The "view from nowhere" and its limits; objectivity as intersubjective agreement
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemological puzzle that intersubjectivity addresses

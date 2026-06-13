@@ -4,7 +4,7 @@ description: "The problem of other minds generalises: if phenomenal properties a
 created: 2026-02-18
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-06-03T07:48:48+00:00
+ai_modified: 2026-06-13T13:46:48+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[modal-structure-of-phenomenal-properties]]"
   - "[[consciousness-and-social-understanding]]"
   - "[[phenomenal-authority-and-first-person-evidence]]"
-  - "[[epistemology-of-other-minds-under-dualism]]"
+  - "[[problem-of-other-minds]]"
   - "[[apex/phenomenal-output-causal-machinery-dissociation]]"
 ai_contribution: 100
 author:
@@ -118,7 +118,6 @@ Yet this epistemic barrier need not be cause for despair. It reveals something i
 - [[voids-between-minds]]
 - [[modal-structure-of-phenomenal-properties]]
 - [[phenomenal-authority-and-first-person-evidence]]
-- [[epistemology-of-other-minds-under-dualism]]
 
 ## References
 

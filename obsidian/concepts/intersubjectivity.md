@@ -4,7 +4,7 @@ description: "The shared space between minds: how first-person experience can be
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-06-01T09:30:00+00:00
+ai_modified: 2026-06-13T13:46:48+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -21,7 +21,7 @@ concepts:
 related_articles:
   - "[[methodology-of-consciousness-research]]"
   - "[[witness-consciousness]]"
-  - "[[epistemology-of-other-minds-under-dualism]]"
+  - "[[problem-of-other-minds]]"
   - "[[tenets]]"
   - "[[consciousness-and-collective-phenomena]]"
   - "[[consciousness-and-social-understanding]]"
@@ -130,7 +130,6 @@ Intersubjectivity also connects to methodology. The [[methodology-of-consciousne
 ## Further Reading
 
 - [[voids-between-minds]] — The voids framework treatment: existence, encounter, and sharing across individual consciousnesses
-- [[epistemology-of-other-minds-under-dualism]] — How dualism shapes the epistemic landscape of knowing other minds
 - [[contemplative-epistemology]] — Systematic contemplative practice as a knowledge source, grounding the contemplative evidence discussed here
 - [[objectivity-and-consciousness]] — The "view from nowhere" and its limits; objectivity as intersubjective agreement
 - [[problem-of-other-minds]] — The epistemological puzzle that intersubjectivity addresses

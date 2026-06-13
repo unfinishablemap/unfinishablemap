@@ -4,7 +4,7 @@ description: "First-person reports carry layered epistemic authority — apodict
 created: 2026-02-09
 modified: 2026-04-26
 human_modified:
-ai_modified: 2026-06-05T11:36:12+00:00
+ai_modified: 2026-06-13T13:46:48+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -52,7 +52,7 @@ related_articles:
   - "[[voids-between-minds]]"
   - "[[objectivity-and-consciousness]]"
   - "[[epistemology-of-convergence-arguments]]"
-  - "[[epistemology-of-other-minds-under-dualism]]"
+  - "[[problem-of-other-minds]]"
   - "[[epistemology-of-mechanism-at-the-consciousness-matter-interface]]"
   - "[[phenomenology-of-intellectual-life]]"
   - "[[clinical-evidence-quality-standards-consciousness-research]]"

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-06-05 21:45:00+00:00
+ai_modified: 2026-06-13 13:46:48+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ related_articles:
 - '[[clinical-phenomenology-and-altered-experience]]'
 - '[[temporal-consciousness-structure-and-agency]]'
 - '[[self-stultification-as-master-argument]]'
-- '[[epistemology-of-other-minds-under-dualism]]'
+- '[[problem-of-other-minds]]'
 - '[[testing-consciousness-collapse]]'
 - '[[consciousness-and-causal-powers]]'
 - '[[anesthesia-void]]'

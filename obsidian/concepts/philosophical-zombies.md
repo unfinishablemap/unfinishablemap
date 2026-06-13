@@ -4,7 +4,7 @@ description: "The conceivability argument against physicalism: beings functional
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-06-13T13:46:48+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,14 +21,13 @@ concepts:
   - "[[mysterianism]]"
   - "[[decoherence]]"
   - "[[haecceity]]"
-  - "[[epistemology-of-other-minds-under-dualism]]"
   - "[[problem-of-other-minds]]"
 related_articles:
   - "[[tenets]]"
   - "[[arguments/functionalism-argument]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-5-20251101+claude-opus-4-8
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-06-01T09:20:24+00:00
@@ -104,7 +103,7 @@ The zombie argument has a close structural cousin: [[inverted-qualia]]. Zombies 
 
 You say things like "I am conscious" and "I experience qualia." Your conscious experiences play a causal role in producing these utterances—or so the dualist maintains. The [[language-and-consciousness|philosophy of language and consciousness]] sharpens this: if meaning requires conscious intention (Grice), then the zombie's identical utterances lack meaning in the technical sense—sounds without genuine semantic content. But the zombie makes the same utterances from the same brain states—caused purely by physical processes.
 
-This worry bites only against views on which consciousness is *distinct from and inert with respect to* the report-causing physical process—epiphenomenalism and its relatives. The identity physicalist—who holds that consciousness just *is* a physical (neural) state—may escape it with a tracking response: if consciousness simply *is* the neural state, then the neural state's causing the report just is consciousness causing the report, so the reports appear to be reports *of* consciousness after all. So scoped, the self-stultification problem targets epiphenomenalism, not identity physicalism. Against the identity physicalist the relevant work seems to lie elsewhere: with zombie conceivability (why is a same-neural-state-but-no-consciousness zombie conceivable if consciousness just *is* that neural state?) and with the [[explanatory-gap|explanatory gap]]. This connects to the critique of [[concepts/epiphenomenalism]]: if consciousness doesn't cause our reports about consciousness, those reports are mysteriously reliable. The [[metaproblem-of-consciousness-under-dualism|metaproblem argument]] sharpens this: if consciousness causally contributes to philosophical reasoning, zombies and conscious beings should produce *different* problem reports. The self-stultification problem also sharpens the [[epistemology-of-other-minds-under-dualism|epistemology of other minds]]: if a zombie's reports are indistinguishable from a conscious being's, verbal testimony alone cannot settle whether another person is conscious.
+This worry bites only against views on which consciousness is *distinct from and inert with respect to* the report-causing physical process—epiphenomenalism and its relatives. The identity physicalist—who holds that consciousness just *is* a physical (neural) state—may escape it with a tracking response: if consciousness simply *is* the neural state, then the neural state's causing the report just is consciousness causing the report, so the reports appear to be reports *of* consciousness after all. So scoped, the self-stultification problem targets epiphenomenalism, not identity physicalism. Against the identity physicalist the relevant work seems to lie elsewhere: with zombie conceivability (why is a same-neural-state-but-no-consciousness zombie conceivable if consciousness just *is* that neural state?) and with the [[explanatory-gap|explanatory gap]]. This connects to the critique of [[concepts/epiphenomenalism]]: if consciousness doesn't cause our reports about consciousness, those reports are mysteriously reliable. The [[metaproblem-of-consciousness-under-dualism|metaproblem argument]] sharpens this: if consciousness causally contributes to philosophical reasoning, zombies and conscious beings should produce *different* problem reports. The self-stultification problem also sharpens the [[problem-of-other-minds#The Dualist's Dilemma|epistemology of other minds]]: if a zombie's reports are indistinguishable from a conscious being's, verbal testimony alone cannot settle whether another person is conscious.
 
 ## The Illusionist Challenge
 
@@ -218,8 +217,7 @@ The zombie argument connects to all five of the Map's tenets.
 - [[mysterianism]] — Cognitive closure and the limits of our understanding
 - [[decoherence]] — Why quantum mechanisms in the brain remain viable
 - [[haecceity]] — The irreducible "thisness" that zombie scenarios presuppose
-- [[epistemology-of-other-minds-under-dualism]] — How zombie conceivability shapes epistemic access to other minds
-- [[problem-of-other-minds]] — The broader epistemological puzzle about knowing others are conscious
+- [[problem-of-other-minds]] — The epistemological puzzle about knowing others are conscious, and how zombie conceivability shapes epistemic access to other minds
 - [[metaproblem-of-consciousness-under-dualism]] — The zombie divergence prediction: how conscious and zombie problem reports should differ
 - [[language-and-consciousness]] — How meaning and reference fail for zombie utterances, reinforcing the conceivability argument
 - [[ai-consciousness-typology]] — Six categories for AI phenomenal experience, with null phenomenality (the zombie case) as the first category

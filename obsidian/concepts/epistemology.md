@@ -4,7 +4,7 @@ description: "How we know what we know about consciousness—and why the standar
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-06-07T00:00:00+00:00
+ai_modified: 2026-06-13T13:46:48+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,14 +25,14 @@ related_articles:
   - "[[tenets]]"
   - "[[epistemology-of-limit-knowledge]]"
   - "[[epistemology-of-convergence-arguments]]"
-  - "[[epistemology-of-other-minds-under-dualism]]"
+  - "[[problem-of-other-minds]]"
   - "[[epistemology-of-mechanism-at-the-consciousness-matter-interface]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[epistemic-advantages-of-dualism]]"
   - "[[philosophy-of-science-under-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-03-25
 last_curated:
 last_deep_review: 2026-06-07T00:00:00+00:00
@@ -76,7 +76,7 @@ If [[dualism]] is correct, epistemology itself requires revision. A dualist onto
 
 First, no purely third-person methodology can yield complete knowledge of reality. This is not a defeatist claim but a structural one: just as knowledge of mathematics requires mathematical reasoning (not just physical measurement), knowledge of consciousness may require modes of inquiry suited to its nature. The [[epistemic-advantages-of-dualism|epistemic advantages of dualism]] include taking first-person evidence seriously rather than explaining it away.
 
-Second, the problem of other minds becomes acute. If consciousness is non-physical, how can one mind know that another exists? The [[epistemology-of-other-minds-under-dualism]] develops intersubjective criteria for justified belief about other consciousnesses — criteria that do not reduce to behavioural inference.
+Second, the problem of other minds becomes acute. If consciousness is non-physical, how can one mind know that another exists? The [[problem-of-other-minds#The Dualist's Dilemma|dualist epistemology of other minds]] develops intersubjective criteria for justified belief about other consciousnesses — criteria that do not reduce to behavioural inference.
 
 Third, the limits of knowledge become themselves epistemologically significant. The [[epistemology-of-limit-knowledge|epistemology of limit-knowledge]] examines how we can have genuine knowledge about what resists being known. The [[meta-epistemology-of-limits]] asks the recursive question: how do we know our cognitive limits are genuine rather than merely temporary? These are not idle puzzles but load-bearing questions for any framework that posits a boundary between the physical and the mental.
 
@@ -107,7 +107,7 @@ Tenet 5 — Occam's Razor Has Limits — is explicitly epistemological. Tenet 1 
 - [[epistemology-of-convergence-arguments]] — Why convergence provides distinctive warrant
 - [[meta-epistemology-of-limits]] — The epistemology of epistemic limits themselves
 - [[epistemic-advantages-of-dualism]] — What dualism gains epistemically
-- [[epistemology-of-other-minds-under-dualism]] — Intersubjective warrant under non-physical consciousness
+- [[problem-of-other-minds]] — Intersubjective warrant for other minds under non-physical consciousness
 - [[contemplative-epistemology]] — Meditative practice as a method of refining first-person observation
 - [[philosophy-of-science-under-dualism]] — How dualism reshapes the scope of scientific explanation
 - [[knowledge-argument]] — The canonical case that physical knowledge is incomplete

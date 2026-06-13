@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-06-02 07:35:02+00:00
+ai_modified: 2026-06-13 13:46:48+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ related_articles:
 - '[[voids-between-minds]]'
 - '[[social-construction-of-self-vs-phenomenal-self]]'
 - '[[the-self-minimal-narrative-and-substantial]]'
-- '[[epistemology-of-other-minds-under-dualism]]'
+- '[[problem-of-other-minds]]'
 - '[[consciousness-and-testimony]]'
 title: Consciousness and Intersubjectivity
 topics:
@@ -135,7 +135,6 @@ The Map's third position — ontologically individual, phenomenologically enrich
 - [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/) — Why social construction requires phenomenal subjects
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — Three layers of selfhood and how intersubjective encounter operates across them
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The minimal self as structural feature that intersubjective encounter presupposes
-- [epistemology-of-other-minds-under-dualism](/concepts/problem-of-other-minds/) — How dualism reshapes knowledge of other minds
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/) — How testimony bridges the void between minds while presupposing what it cannot verify
 - [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/) — Convergent phenomenological reports across cultures as intersubjective evidence
 

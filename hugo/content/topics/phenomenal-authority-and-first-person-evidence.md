@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-06-05 11:36:12+00:00
+ai_modified: 2026-06-13 13:46:48+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -63,7 +63,7 @@ related_articles:
 - '[[voids-between-minds]]'
 - '[[objectivity-and-consciousness]]'
 - '[[epistemology-of-convergence-arguments]]'
-- '[[epistemology-of-other-minds-under-dualism]]'
+- '[[problem-of-other-minds]]'
 - '[[epistemology-of-mechanism-at-the-consciousness-matter-interface]]'
 - '[[phenomenology-of-intellectual-life]]'
 - '[[clinical-evidence-quality-standards-consciousness-research]]'

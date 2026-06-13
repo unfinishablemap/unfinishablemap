@@ -4,12 +4,12 @@ description: "How can introspection distinguish genuine phenomenal consciousness
 created: 2026-05-18
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-06-13T13:46:48+00:00
 last_deep_review: 2026-06-05T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[epistemology-of-other-minds-under-dualism]]"
+  - "[[problem-of-other-minds]]"
 concepts:
   - "[[phenomenal-consciousness]]"
   - "[[access-consciousness]]"
@@ -140,7 +140,7 @@ The discrimination problem identifies a structural [[voids|void]]: a region of f
 - [[illusionism]]
 - [[heterophenomenology]]
 - [[ai-consciousness]]
-- [[epistemology-of-other-minds-under-dualism]]
+- [[problem-of-other-minds]]
 - [[memory-system-vulnerability-hierarchies-as-interface-evidence]] — a parallel structural-underdetermination case at the production-vs-filter interface
 - [[compatibilist-symmetry-challenge]] — the parallel result at the agency-and-responsibility tier
 - [[brain-internal-born-rule-testing]] — the parallel result at the empirical-interface tier

@@ -4,7 +4,7 @@ description: "Genuine social understanding—grasping other minds as minds, buil
 created: 2026-02-15
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-06-03T09:05:00+00:00
+ai_modified: 2026-06-13T13:46:48+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[voids-between-minds]]"
-  - "[[epistemology-of-other-minds-under-dualism]]"
+  - "[[problem-of-other-minds]]"
   - "[[phenomenology-of-moral-life]]"
   - "[[consciousness-and-collective-phenomena]]"
   - "[[phenomenology-of-trust]]"
@@ -47,7 +47,7 @@ related_articles:
   - "[[consciousness-defeats-explanation]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-02-15
 last_curated:
 last_deep_review: 2026-06-03T07:19:14+00:00
@@ -128,7 +128,7 @@ This developmental ordering is offered as a *window on what consciousness adds*,
 
 ## Why Consciousness Cannot Be Bypassed
 
-One might object that sophisticated information processing could achieve everything described above without phenomenal consciousness. The Map's response draws on the structure of the [[voids-between-minds]]. Understanding another person as a *subject* requires grasping that they have an inner life. This grasp is not itself an inference but a recognition, and recognition requires a recogniser with its own inner life to draw upon. The [[epistemology-of-other-minds-under-dualism|epistemology of other minds]] details how dualism intensifies this challenge.
+One might object that sophisticated information processing could achieve everything described above without phenomenal consciousness. The Map's response draws on the structure of the [[voids-between-minds]]. Understanding another person as a *subject* requires grasping that they have an inner life. This grasp is not itself an inference but a recognition, and recognition requires a recogniser with its own inner life to draw upon. The [[problem-of-other-minds#The Dualist's Dilemma|epistemology of other minds]] details how dualism intensifies this challenge.
 
 Consider the [[inverted-qualia]] scenario. If the Map's dualism is correct, your experience of red could be phenomenally like my experience of green while we use the same words and make the same discriminations. The [[consciousness-and-the-problem-of-other-properties|problem of other properties]] argues this opacity extends beyond colour to every phenomenal quality — pain, emotion, temporal experience. Understanding another person must navigate this structural opacity, and navigating it requires having a phenomenal world of your own to recognise as potentially different.
 
@@ -182,7 +182,6 @@ These conditions are offered in good faith, but what counts as "institutional co
 - [[intersubjectivity]] — The shared space between minds and how first-person experience can be communicated
 - [[social-construction-of-self-vs-phenomenal-self]] — Why social construction requires the phenomenal self to already be in place
 - [[problem-of-other-minds]] — The epistemic puzzle at the heart of social cognition
-- [[epistemology-of-other-minds-under-dualism]] — How dualism reshapes the epistemology of knowing other minds
 - [[emotion-and-dualism]] — The felt dimension of empathy and emotional understanding
 - [[voids-between-minds]] — The structural isolation of consciousness, whether experiences can be genuinely shared, and the role of these voids in constituting social life
 - [[consciousness-only-territories]] — Experiential regions permanently beyond external access
