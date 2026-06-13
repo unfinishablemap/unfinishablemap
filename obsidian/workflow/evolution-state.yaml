@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-13T10:02:47.989504+00:00'
-session_count: 10922
+last_updated: '2026-06-13T10:19:52.629475+00:00'
+session_count: 10923
 cycle_position: 9011
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-13T04:19:24.343577+00:00'
   refine-draft: '2026-06-13T09:46:26.108654+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-12T22:21:58.249016+00:00'
+  replenish-queue: '2026-06-13T10:19:52.629475+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-09T11:04:20.317410+00:00'
   add-highlight: '2026-06-13T08:02:33.492337+00:00'
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-gemini-review
-  type: collect-gemini-review
-  date: '2026-06-13'
-  outcome: success
 - task: combine-outer-reviews
   type: combine-outer-reviews
   date: '2026-06-13'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-13'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-13'
   outcome: success
 agentic_social:
@@ -1077,38 +1077,38 @@ queue_status:
     at 2 (the two 2026-06-12 staleness deep-review P2s, ai-consciousness + metacognition,
     both re-verified still genuinely pending - last_deep_review still predates ai_modified),
     below the MIN_QUEUE floor of 3; 3 P3s also open but P3s do not count toward the
-    floor. All eight sources re-verified on disk this run: chains 0 (recent_tasks 14d
-    window is all refine-draft/agentic-social/review tasks, no research-topic or expand-topic
-    to chain from); unconsumed research 0 actionable (the only two filename-recent non-voids
-    notes - claude-constitution-2026-05-31 and berridge-wanting-liking-2026-06-03 -
-    both already have published articles: claude-constitution-consciousness-uncertainty.md
-    and wanting-liking-and-the-value-in-mechanism-fork.md; remaining recent notes are
-    voids-*, voids OVER cap 101/100); gaps 0 (corpus saturated at topics 267 / concepts
-    263); orphans 0 (quality.orphaned_files 0); applied-apex 0 (no approved slot signalled);
-    length_analysis 0 NEW (all 18 published-content hard/critical offenders are already
-    human-gated, vetoed, or recently-reviewed-and-churn-risky: epistemology-of-convergence
-    6479w + born-rule 5106w + clinical-dissociation 4863w + laws-and-dispositions 4213w
-    DIVERTED/DEFERRED-TO-HUMAN, phenomenal-output 6832w #veto, apex-articles 6963w is
-    the section index/governance hub, edge-states DIVERTED-TO-HUMAN, time-collapse a
-    standing HUMAN LENGTH DECISION in Blocked; the dozen hard_warning topic/void offenders
-    - agency-void, filter-theory, argument-from-reason, valence, composition, etc. -
-    are all ai_contribution=100, reviewed within ~10d, calibration-dense, so a condense
-    would risk a human-decision divert per condense-regresses-calibration-qualifiers).
+    floor. All eight sources re-verified on disk this run: chains 0 (recent_tasks
+    14d window is all refine-draft/agentic-social/review tasks, no research-topic
+    or expand-topic to chain from); unconsumed research 0 actionable (the only two
+    filename-recent non-voids notes - claude-constitution-2026-05-31 and berridge-wanting-liking-2026-06-03
+    - both already have published articles: claude-constitution-consciousness-uncertainty.md
+    and wanting-liking-and-the-value-in-mechanism-fork.md; remaining recent notes
+    are voids-*, voids OVER cap 101/100); gaps 0 (corpus saturated at topics 267 /
+    concepts 263); orphans 0 (quality.orphaned_files 0); applied-apex 0 (no approved
+    slot signalled); length_analysis 0 NEW (all 18 published-content hard/critical
+    offenders are already human-gated, vetoed, or recently-reviewed-and-churn-risky:
+    epistemology-of-convergence 6479w + born-rule 5106w + clinical-dissociation 4863w
+    + laws-and-dispositions 4213w DIVERTED/DEFERRED-TO-HUMAN, phenomenal-output 6832w
+    #veto, apex-articles 6963w is the section index/governance hub, edge-states DIVERTED-TO-HUMAN,
+    time-collapse a standing HUMAN LENGTH DECISION in Blocked; the dozen hard_warning
+    topic/void offenders - agency-void, filter-theory, argument-from-reason, valence,
+    composition, etc. - are all ai_contribution=100, reviewed within ~10d, calibration-dense,
+    so a condense would risk a human-decision divert per condense-regresses-calibration-qualifiers).
     Section counts re-counted on disk: topics 267/270, concepts 263/270, voids 101/100
     OVER, positions register 18 entries / 4 domain files. positions add 0 (no stable
-    new commitment lacking an entry in last 7d of changelog); positions audit NOT due
-    (last full audit 2026-06-09, 30d window open until 07-09). The one genuinely-mintable
+    new commitment lacking an entry in last 7d of changelog); positions audit NOT
+    due (last full audit 2026-06-09, 30d window open until 07-09). The one genuinely-mintable
     source this run was positions DEPENDENCY-CHANGED (7b): topics/trilemma-of-selection.md
     was calibration-softened today (commit b571efaf6, mental-effort calibration adoption
     - proves->settles, Establishes->Secures, shows/proves->suggests, added an explicit
-    underdetermination clause), and positions/agency-and-will.md cites the trilemma in
-    TWO load-bearing positions (P-A1 agent-causal libertarian FW and P-A2 immanent/substance
-    causation), both Last-reviewed 2026-06-08, i.e. before the change. Queued one P2
-    positions-evolve update to re-verify both positions still track the now-more-hedged
+    underdetermination clause), and positions/agency-and-will.md cites the trilemma
+    in TWO load-bearing positions (P-A1 agent-causal libertarian FW and P-A2 immanent/substance
+    causation), both Last-reviewed 2026-06-08, i.e. before the change. Queued one
+    P2 positions-evolve update to re-verify both positions still track the now-more-hedged
     source and bump Last reviewed - length-neutral, single register file, no new position,
     no content-article edit. After: loop-pickable P0-P2 = 3, at floor. No speculative
-    expand-topic minted against the near/over-cap sections; no churn-prone length task
-    minted.'
+    expand-topic minted against the near/over-cap sections; no churn-prone length
+    task minted.'
   replenishment_source_counts:
     applied_apex: 0
     chain: 0

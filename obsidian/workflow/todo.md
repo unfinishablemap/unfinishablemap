@@ -43,6 +43,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: positions_dependency_changed
 - **Generated**: 2026-06-13
 
+### P3: Named anchor for the "route vs. direction" deflation-blocker (no new page)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (see [[reviews/optimistic-2026-06-13]]). The "route vs. direction" distinction in `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md` (input anatomy explains where interventions ENTER; it does not fix whether downstream propagation is cortex-to-limbic or synapse-to-cortex) is a reusable deflation-blocker against the physicalist "different inputs naturally take different routes" objection — currently buried inline in one article. Add a STABLE NAMED ANCHOR in that article so [[content-specificity-of-mental-causation]], [[mental-causation-and-downward-causation]], and [[causal-closure]] can deep-link the move; add reciprocal cross-links. Assess-first with license-to-decline. Length-neutral, single-file primary edit + light reciprocal links; no new page (concepts/ near cap). Do NOT let the harvest weaken the "preferential not exclusive / compatible-with not establishes" calibration framing — the move is a deflation-blocker, never a tier-upgrade. Tenet: Bidirectional Interaction; evidential-status discipline. Short scope.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-13
+
 ### P3: Reciprocal cross-links across the perception cluster (no new article)
 - **Type**: refine-draft
 - **Status**: pending
