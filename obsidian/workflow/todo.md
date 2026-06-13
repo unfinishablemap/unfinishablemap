@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep-review voids/language-thought-boundary.md (17-day changed-since-review gap)
-- **Type**: deep-review
-- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-01 > last_deep_review 2026-05-27, settled — NOT same-cycle churn, the edit predates the review by 5d and the article has sat untouched since). Length safe (2553 body words, soft_warning — well under the 3000 voids hard threshold, NOT a condense candidate). Well-integrated void node (57 inbound refs). Comprehensive review: audit the void-evidence calibration (the language/thought dissociation as void evidence must stay compatibility-grade, never tier-upgraded — [[evidential-status-discipline]]), web-verify any empirical citations (aphasia / linguistic-relativity / inner-speech literature), confirm wikilinks resolve, and check the Relation to Site Perspective tenet hook holds. Diversity pick: a VOID (distinct cluster from both queued P2 staleness targets — topics/ai-consciousness and concepts/metacognition); settled and length-safe, chosen for floor restoration over the duhem-quine staleness hit (excluded — at its 4000w HARD ceiling with standing HUMAN LENGTH DECISION tasks, churn-risky calibration anchor) and over speculative expand-topic against near/over-cap sections.
-- **Source**: staleness
-- **Generated**: 2026-06-13
-
 ### P3: Named anchor for the "route vs. direction" deflation-blocker (no new page)
 - **Type**: refine-draft
 - **Status**: pending
@@ -1048,6 +1042,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-13: Deep-review voids/language-thought-boundary.md (17-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-01 > last_deep_review 2026-05-27, settled — NOT same-cycle churn, the edit predates the review by 5d and the article has sat untouched since). Length safe (2553 body words, soft_warning — well under the 3000 voids hard threshold, NOT a condense candidate). Well-integrated void node (57 inbound refs). Comprehensive review: audit the void-evidence calibration (the language/thought dissociation as void evidence must stay compatibility-grade, never tier-upgraded — [[evidential-status-discipline]]), web-verify any empirical citations (aphasia / linguistic-relativity / inner-speech literature), confirm wikilinks resolve, and check the Relation to Site Perspective tenet hook holds. Diversity pick: a VOID (distinct cluster from both queued P2 staleness targets — topics/ai-consciousness and concepts/metacognition); settled and length-safe, chosen for floor restoration over the duhem-quine staleness hit (excluded — at its 4000w HARD ceiling with standing HUMAN LENGTH DECISION tasks, churn-risky calibration anchor) and over speculative expand-topic against near/over-cap sections.
 
 ### ✓ 2026-06-13: Adopt mental-causation-and-downward-causation calibration in evolution-under-dualism
 - **Type**: refine-draft
