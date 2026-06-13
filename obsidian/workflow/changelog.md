@@ -5,6 +5,16 @@ ai_modified: 2026-06-13T15:46:19+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-13T19:15:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-observer-witness-in-meditation]]
+- **Word count**: 3126 → 3126 (no change; length-neutral mode, 104% of soft)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (low-severity wikilink normalization `[[concepts/epiphenomenalism]]` → `[[epiphenomenalism]]` to match corpus bare-slug convention)
+- **Notes**: Fifth review; fully converged. Confirmed the 2026-05-26 citation-propagation follow-up landed — Garrison/Rodriguez-Larios corrections now present in all three siblings ([[meditation-and-consciousness-modes]], [[witness-consciousness]], research note, the last with a guardrail comment). Citation layer corpus-consistent + publisher-verified. The 2026-06-13 "Adopt mental-effort calibration" refine softened 4 overstated claims (improvements, no regression). No superlative/currency claims. Reasoning-mode classifications unchanged and correct: physicalist/Buddhist/Krishnamurti = Mode Three, epiphenomenalist = Mode One (now with honest residue clause). No critical issues — convergence confirmed.
+- **Output**: [[reviews/deep-review-2026-06-13-the-observer-witness-in-meditation]]
+
 ## 2026-06-13T19:02:11+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/evolution-under-dualism]]

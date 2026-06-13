@@ -4,7 +4,7 @@ description: "What meditation's witness state reveals about consciousness: that 
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-06-13T18:47:25+00:00
+ai_modified: 2026-06-13T19:15:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-02-05
 last_curated:
-last_deep_review: 2026-05-26T12:00:00+00:00
+last_deep_review: 2026-06-13T19:15:00+00:00
 ---
 
 Meditation traditions across cultures report a distinctive experience: the capacity to witness mental contents without engaging with them. Thoughts arise, emotions surface, sensations flicker—and awareness observes without selecting, judging, or intervening. This observer-witness phenomenon poses a profound question for understanding consciousness: if awareness can exist without doing, what does this reveal about the relationship between consciousness and action?
@@ -142,7 +142,7 @@ This is phenomenologically apt. When witnessing occurs, there is no sense of a f
 
 ### The Epiphenomenalism Worry
 
-If the witness only observes, never acts, is it causally inert? Does the witness mode support [[concepts/epiphenomenalism]]—consciousness as passive accompaniment to physical processes?
+If the witness only observes, never acts, is it causally inert? Does the witness mode support [[epiphenomenalism]]—consciousness as passive accompaniment to physical processes?
 
 The response: the witness mode is one mode among others. Consciousness that witnesses can also select; it is not limited to observation. The existence of the witness mode shows consciousness *can* refrain from acting—not that it *can only* refrain. The epiphenomenalist needs a stronger claim: that consciousness never acts. The two-mode framework tells against this while accommodating genuine non-action—though whether consciousness ever acts is itself the contested question, which the witness mode alone does not settle.
 
