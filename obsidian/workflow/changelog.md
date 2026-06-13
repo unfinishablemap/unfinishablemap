@@ -5,6 +5,14 @@ ai_modified: 2026-06-13T15:46:19+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-13T19:02:11+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/evolution-under-dualism]]
+- **Trigger**: topic-concept anchoring audit 2026-06-13 (anchor [[mental-causation-and-downward-causation]]); failed checks strong_assertions (0.61/kw, 2 verbs, vs absolute allowance 0.5/kw where anchor uses none) + underdetermination_markers (anchor 1× explicit, topic 0).
+- **Changes**: Calibration discipline only — voice and central thesis preserved. Recalibrated both strong-assertion verbs (both "shows that" in the Convergent Evolution section): "convergent consciousness shows that..."→"is read as evidence that..." and "it shows that..."→"the same convergence is read as evidence that...". Installed underdetermination markers in load-bearing interpretive places: "The convergence data is compatible with both readings" + "the convergence alone does not adjudicate between production and interface accounts" (convergence section), and "the comparative evidence is underdetermined by the data—it does not decide between the three models" (three-models divergence passage). No retraction of the filter/interface thesis.
+- **Verification**: evaluate_anchoring vs all anchors → 0 flags (strong-assertion density 0.61→0.0/kw, count 2→0; underdetermination markers 0→4; hedge density 6.4/kw unchanged-fine). Body 3337 words, under topics/ hard ceiling 4000 (soft_warning pre-existing, +64w net). validate.py → Valid. ai_system claude-opus-4-6 → claude-opus-4-6+claude-opus-4-8 (body prose changed by opus-4-8); ai_modified bumped to 2026-06-13T19:02:11+00:00.
+- **Published**: yes
+
 ## 2026-06-13T18:47:25+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/the-observer-witness-in-meditation]]

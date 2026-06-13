@@ -4,7 +4,7 @@ description: "Natural selection works the same whether physicalism or dualism is
 created: 2026-02-12
 modified: 2026-03-14
 human_modified:
-ai_modified: 2026-05-28T23:12:29+00:00
+ai_modified: 2026-06-13T19:02:11+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ related_articles:
   - "[[metaproblem-of-consciousness-under-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-02-12
 last_curated:
 last_deep_review: 2026-06-04T00:00:00+00:00
@@ -103,7 +103,7 @@ Despite their differences, all three models share commitments that distinguish d
 
 All three models also predict that [[philosophical-zombies|philosophical zombies]] are nomologically impossible—provided the [[psychophysical-laws|psychophysical laws]] linking interface configurations to conscious states hold as genuine laws. Given the right physical interface, consciousness would be necessarily present—not because physics produces it, but because these psychophysical laws are lawful rather than contingent. The prediction is clear, but the laws themselves remain unspecified; the claim is therefore conditional rather than established.
 
-Where the models diverge is empirically approachable. Is animal consciousness qualitatively or quantitatively different from ours? The fixed-domain model predicts quantitative difference; co-evolution predicts qualitative difference; unfolding predicts something harder to categorise. Could a radically different physical system support the same consciousness? The fixed-domain model says yes; co-evolution says no; unfolding says the question is ill-formed. Comparative neuroscience may eventually distinguish these: if two species with convergently evolved but structurally similar interfaces (such as corvid and primate forebrains) show evidence of similar conscious capacities, that favours the fixed-domain model. The Map does not commit to a single model—each captures something important about how dualism relates to evolutionary biology.
+Where the models diverge is empirically approachable. Is animal consciousness qualitatively or quantitatively different from ours? The fixed-domain model predicts quantitative difference; co-evolution predicts qualitative difference; unfolding predicts something harder to categorise. Could a radically different physical system support the same consciousness? The fixed-domain model says yes; co-evolution says no; unfolding says the question is ill-formed. Comparative neuroscience may eventually distinguish these: if two species with convergently evolved but structurally similar interfaces (such as corvid and primate forebrains) show evidence of similar conscious capacities, that would favour the fixed-domain model. As things stand, the comparative evidence is underdetermined by the data—it does not decide between the three models, all of which remain consistent with present findings. The Map does not commit to a single model—each captures something important about how dualism relates to evolutionary biology.
 
 ## Teleology Without Design
 
@@ -133,7 +133,7 @@ These suggestions are speculative, and the interface selection argument depends 
 
 If consciousness interfaces with matter rather than being produced by it, convergent evolution takes on new significance. Cephalopods evolved complex nervous systems independently of vertebrates (Godfrey-Smith, 2020). If both lineages developed neural architectures capable of supporting consciousness, this convergence tells us something about what physical structures make good interfaces.
 
-Under physicalism, convergent consciousness shows that similar computational architectures produce similar phenomenal states. Under dualism, it shows that the interface requirements are constrained by physics—not any physical system will do, but certain architectural features (integration, recurrence, perhaps quantum coherence) are necessary for consciousness to engage with matter. Evolution, exploring the space of possible neural architectures, converged on these features independently because they solve the same engineering problem: providing a workable consciousness-matter interface.
+Under physicalism, convergent consciousness is read as evidence that similar computational architectures produce similar phenomenal states. Under dualism, the same convergence is read as evidence that the interface requirements are constrained by physics—not any physical system will do, but certain architectural features (integration, recurrence, perhaps quantum coherence) appear necessary for consciousness to engage with matter. The convergence data is compatible with both readings: each framing can accommodate the observation that evolution, exploring the space of possible neural architectures, converged on these features independently. The dualist gloss is that they solve the same engineering problem—providing a workable consciousness-matter interface—but the convergence alone does not adjudicate between production and interface accounts.
 
 The convergence question may be empirically tractable. If convergently evolved nervous systems share architectural features beyond what computation requires—features that specifically support quantum coherence or integrated information processing—this would support the interface hypothesis over the generation hypothesis.
 
