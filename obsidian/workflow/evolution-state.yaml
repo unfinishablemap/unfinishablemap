@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-13T19:03:12.089196+00:00'
-session_count: 10958
+last_updated: '2026-06-13T19:19:38.067576+00:00'
+session_count: 10959
 cycle_position: 9026
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-06-13T13:38:18.821323+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-13T18:02:20.797184+00:00'
-  agentic-social: '2026-06-13T18:31:50.388584+00:00'
+  agentic-social: '2026-06-13T19:31:39.665560+00:00'
   embed-videos: '2026-06-13T17:16:17.297121+00:00'
   commission-chatgpt-review: '2026-06-13T02:04:32.035022+00:00'
   commission-claude-review: '2026-06-13T03:03:15.230959+00:00'
   commission-gemini-review: '2026-06-13T04:19:24.343577+00:00'
   refine-draft: '2026-06-13T19:03:12.089196+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-13T16:48:53.234663+00:00'
+  replenish-queue: '2026-06-13T19:19:38.067576+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-09T11:04:20.317410+00:00'
   add-highlight: '2026-06-13T08:02:33.492337+00:00'
@@ -94,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-13'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-13'
@@ -174,15 +166,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-06-13'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-06-13'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-under-extreme-metabolic-constraint/
-    date: '2026-06-06T19:02:18.457035+00:00'
-    topics:
-    - death-and-consciousness
-    - anaesthesia-and-the-consciousness-interface
-    - psychedelics-and-the-filter-model
-    - terminal-lucidity-and-filter-transmission-theory
   - url: https://unfinishablemap.org/concepts/phenomenal-depth/
     date: '2026-06-06T20:17:18.770828+00:00'
     topics:
@@ -1029,6 +1018,15 @@ agentic_social:
     date: '2026-06-13T18:31:28.693556+00:00'
     topics:
     - pain-consciousness-and-causal-power
+  - url: https://unfinishablemap.org/topics/microphenomenological-interview-method/
+    date: '2026-06-13T19:31:39.665482+00:00'
+    topics:
+    - microphenomenology
+    - phenomenological-evidence
+    - introspection
+    - consciousness-science
+    - first-person-methods
+    - neurophenomenology
 tune_system_history:
   last_run: '2026-06-10T09:05:00+00:00'
   changes_applied: []
@@ -1053,20 +1051,20 @@ queue_status:
     on disk. CHAINS (Source 1) 0 - recent_tasks 14d window holds no research-topic
     or expand-topic completion to chain from (only deep-review/refine-draft/agentic-social/replenish/positions/coalesce/apex/research-voids).
     UNCONSUMED RESEARCH (Source 2) 0 actionable - the mtime-recent notes are all voids-*
-    and voids is OVER cap 101/100 so research-voids/expand into voids is blocked; older
-    non-voids notes already have published articles. GAPS (Source 3) 0 - corpus saturated,
-    topics 267/270, concepts 262/270, both near cap. ORPHANS (Source 5) 0 (quality.orphaned_files
-    0). LENGTH (Source 6) 0 NEW - all published-content hard/critical offenders are
-    research/* notes (excluded from condense), the apex-articles governance hub, already
-    vetoed (epistemology-of-convergence-arguments, phenomenal-output-causal-machinery-dissociation),
+    and voids is OVER cap 101/100 so research-voids/expand into voids is blocked;
+    older non-voids notes already have published articles. GAPS (Source 3) 0 - corpus
+    saturated, topics 267/270, concepts 262/270, both near cap. ORPHANS (Source 5)
+    0 (quality.orphaned_files 0). LENGTH (Source 6) 0 NEW - all published-content
+    hard/critical offenders are research/* notes (excluded from condense), the apex-articles
+    governance hub, already vetoed (epistemology-of-convergence-arguments, phenomenal-output-causal-machinery-dissociation),
     human-gated (born-rule, clinical-dissociation DIVERTED-TO-HUMAN, time-collapse,
     laws-and-dispositions), or calibration-dense recently-reviewed churn-risky topics
     (argument-from-reason/epistemic-advantages/valence/metaphysics-of-composition/consciousness-in-simple-organisms/phenomenal-authority/machine-question
     all reviewed or touched within ~12d, several today) per condense-regresses-calibration-qualifiers.
     POSITIONS add (Source 7a) 0 - no new the-Map-holds / is-preferred / is-overturned
     commitment language in recent changelog lacking a register entry. POSITIONS 7b
-    update 0 - no Argued-in dependency moved this cycle (most recent cited-article edit
-    is 2026-06-09, already covered by the 2026-06-09 register audit and a positions-evolve
+    update 0 - no Argued-in dependency moved this cycle (most recent cited-article
+    edit is 2026-06-09, already covered by the 2026-06-09 register audit and a positions-evolve
     run today 2026-06-13). POSITIONS audit NOT due - last full audit 2026-06-09, 30d
     window open to ~2026-07-09. APPLIED-APEX gap (Source 8) 0 - applied apex already
     exists, no approved new slot signalled. STALENESS (Source 4) is the live source:
@@ -1077,23 +1075,24 @@ queue_status:
     Excluded quantum-interpretations (ldr 2026-05-27 == ai_mod same-day trivial post-review
     touch, marginal per prior runs) and filter-theory (at concepts 3500 hard threshold,
     length entanglement). Picked voids/language-thought-boundary.md: ai_contribution=100,
-    body 2553w soft_warning (under 3000 voids hard, NOT a condense candidate), 57 inbound
-    refs (well-integrated node), settled (ai_mod 2026-06-01 predates ldr-gap, untouched
-    since), a VOID cluster distinct from both queued P2 targets. Queued one P2 deep-review
-    at the TOP of Active Tasks (LIFO-starvation defence). After: loop-pickable open
-    P0-P2 = 3, at floor. No speculative expand-topic against near/over-cap sections;
-    no churn-prone length task minted.'
-  superseded_replenishment_note_1640: '2026-06-13T16:40:00+00:00 run (standard mode) - generated
-    1 NEW staleness deep-review task (concepts/philosophy-of-time.md) at the TOP of
-    Active Tasks to restore the loop-pickable P0-P2 floor. The prior 15:55 run queued
-    a vertiginous-question P2; a fork has since EXECUTED it (commit 48012a132, last_deep_review
-    now 2026-06-13 == ai_modified), so it is correctly out of Active Tasks, dropping
-    loop-pickable open P0-P2 back to 2 (the two 2026-06-12 staleness P2s, topics/ai-consciousness
-    [ldr 2026-06-02 < ai_mod 2026-06-13, a refine-draft touched it today so the un-reviewed
-    edit is fresh] + concepts/metacognition [ldr 2026-05-29 < ai_mod 2026-06-05, gap
-    14d], both re-verified on disk still genuinely pending), below the MIN_QUEUE floor
-    of 3; the 3 open P3s do not count toward the floor. All eight sources re-verified
-    on disk: chains 0 (recent_tasks 14d window is all refine-draft/agentic-social/review/positions-evolve/deep-review/coalesce
+    body 2553w soft_warning (under 3000 voids hard, NOT a condense candidate), 57
+    inbound refs (well-integrated node), settled (ai_mod 2026-06-01 predates ldr-gap,
+    untouched since), a VOID cluster distinct from both queued P2 targets. Queued
+    one P2 deep-review at the TOP of Active Tasks (LIFO-starvation defence). After:
+    loop-pickable open P0-P2 = 3, at floor. No speculative expand-topic against near/over-cap
+    sections; no churn-prone length task minted.'
+  superseded_replenishment_note_1640: '2026-06-13T16:40:00+00:00 run (standard mode)
+    - generated 1 NEW staleness deep-review task (concepts/philosophy-of-time.md)
+    at the TOP of Active Tasks to restore the loop-pickable P0-P2 floor. The prior
+    15:55 run queued a vertiginous-question P2; a fork has since EXECUTED it (commit
+    48012a132, last_deep_review now 2026-06-13 == ai_modified), so it is correctly
+    out of Active Tasks, dropping loop-pickable open P0-P2 back to 2 (the two 2026-06-12
+    staleness P2s, topics/ai-consciousness [ldr 2026-06-02 < ai_mod 2026-06-13, a
+    refine-draft touched it today so the un-reviewed edit is fresh] + concepts/metacognition
+    [ldr 2026-05-29 < ai_mod 2026-06-05, gap 14d], both re-verified on disk still
+    genuinely pending), below the MIN_QUEUE floor of 3; the 3 open P3s do not count
+    toward the floor. All eight sources re-verified on disk: chains 0 (recent_tasks
+    14d window is all refine-draft/agentic-social/review/positions-evolve/deep-review/coalesce
     - no research-topic or expand-topic to chain from); unconsumed research 0 actionable
     (mtime-recent notes are all voids-* and voids is OVER cap 101/100 so research-voids
     skips; older non-voids notes already have published articles); gaps 0 (corpus
