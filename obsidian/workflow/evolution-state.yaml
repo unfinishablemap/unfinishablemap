@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-13T15:49:26.936497+00:00'
-session_count: 10945
+last_updated: '2026-06-13T16:04:39.941666+00:00'
+session_count: 10946
 cycle_position: 9022
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-06-13T13:38:18.821323+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-10T08:44:06.791776+00:00'
-  agentic-social: '2026-06-13T15:19:36.206465+00:00'
+  agentic-social: '2026-06-13T16:20:09.122562+00:00'
   embed-videos: '2026-06-13T03:46:20.401161+00:00'
   commission-chatgpt-review: '2026-06-13T02:04:32.035022+00:00'
   commission-claude-review: '2026-06-13T03:03:15.230959+00:00'
   commission-gemini-review: '2026-06-13T04:19:24.343577+00:00'
   refine-draft: '2026-06-13T13:55:59.386796+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-13T15:35:02.413275+00:00'
+  replenish-queue: '2026-06-13T16:04:39.941666+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-09T11:04:20.317410+00:00'
   add-highlight: '2026-06-13T08:02:33.492337+00:00'
@@ -35,7 +31,7 @@ last_runs:
   collect-gemini-review: '2026-06-13T05:26:16.493686+00:00'
   positions-evolve: '2026-06-13T10:48:30.875831+00:00'
   check-model-fallback: '2026-06-13T13:01:04.089796+00:00'
-last_git_push: '2026-06-13T12:02:56.535521+00:00'
+last_git_push: '2026-06-13T16:04:40.194697+00:00'
 last_tweet_date: '2026-06-13'
 content_stats:
   total_files: 297
@@ -94,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-13'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-13'
@@ -174,13 +166,12 @@ recent_tasks:
   type: deep-review
   date: '2026-06-13'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-06-13'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/constitution-vs-causal-work/
-    date: '2026-06-06T16:02:51.978709+00:00'
-    topics:
-    - consciousness-and-causal-powers
-    - the-interface-problem
   - url: https://unfinishablemap.org/topics/microphenomenological-interview-method/
     date: '2026-06-06T17:07:38.247163+00:00'
     topics:
@@ -1040,6 +1031,10 @@ agentic_social:
     topics:
     - free-will
     - moral-implications-of-genuine-agency
+  - url: https://unfinishablemap.org/concepts/philosophical-zombies/
+    date: '2026-06-13T16:20:09.122467+00:00'
+    topics:
+    - hard-problem-of-consciousness
 tune_system_history:
   last_run: '2026-06-10T09:05:00+00:00'
   changes_applied: []
@@ -1068,9 +1063,9 @@ queue_status:
     pages); positions add 0; positions update 0; positions audit not due (last 2026-06-10,
     window open to ~2026-07-10). STALENESS: strict gap>=14d changed-since-review now
     yields ZERO settled hits and ZERO articles unreviewed 30d+ (corpus fully reviewed);
-    loosening to the genuine settled changed-since-review pool, the largest clean non-blocked
-    gap is topics/vertiginous-question.md (ai_mod 2026-06-10 > ldr 2026-05-31, gap
-    9d, settled 3d, not same-cycle churn). duhem-quine gap 10d EXCLUDED (hard-ceiling-blocked
+    loosening to the genuine settled changed-since-review pool, the largest clean
+    non-blocked gap is topics/vertiginous-question.md (ai_mod 2026-06-10 > ldr 2026-05-31,
+    gap 9d, settled 3d, not same-cycle churn). duhem-quine gap 10d EXCLUDED (hard-ceiling-blocked
     + human length decisions); consciousness-in-simple-organisms gap 7d EXCLUDED (already
     hard_warning 4025w). vertiginous-question verified on disk: ai_contribution=100,
     body 3789w (soft_warning, under 4000 topics hard, not a condense candidate), 34
@@ -1078,16 +1073,16 @@ queue_status:
     distinct cluster from both queued P2 targets. No speculative expand-topic against
     near/over-cap sections; no churn-prone length task minted. After: loop-pickable
     P0-P2 = 3, at floor.'
-  superseded_replenishment_note_1525: '2026-06-13T15:25:00+00:00 run (standard mode) - generated
-    0 NEW tasks; restored the loop-pickable P0-P2 floor by PROMOTING the existing
-    open P3 thrownness-void deep-review to P2 and relocating it to the TOP of Active
-    Tasks (LIFO-starvation defence). Before: loop-pickable open P0-P2 stood at 2 (the
-    two 2026-06-12 staleness deep-review P2s, topics/ai-consciousness [ldr 2026-06-02
-    < ai_mod 2026-06-13, a refine-draft touched it today so the un-reviewed edit is
-    fresh] + concepts/metacognition [ldr 2026-05-29 < ai_mod 2026-06-05], both re-verified
-    on disk still genuinely pending), below the MIN_QUEUE floor of 3; the four open
-    P3s do not count toward the floor. All eight sources re-verified on disk this
-    run: chains 0 (recent_tasks 14d window is all refine-draft/agentic-social/review/positions-evolve/deep-review/coalesce
+  superseded_replenishment_note_1525: '2026-06-13T15:25:00+00:00 run (standard mode)
+    - generated 0 NEW tasks; restored the loop-pickable P0-P2 floor by PROMOTING the
+    existing open P3 thrownness-void deep-review to P2 and relocating it to the TOP
+    of Active Tasks (LIFO-starvation defence). Before: loop-pickable open P0-P2 stood
+    at 2 (the two 2026-06-12 staleness deep-review P2s, topics/ai-consciousness [ldr
+    2026-06-02 < ai_mod 2026-06-13, a refine-draft touched it today so the un-reviewed
+    edit is fresh] + concepts/metacognition [ldr 2026-05-29 < ai_mod 2026-06-05],
+    both re-verified on disk still genuinely pending), below the MIN_QUEUE floor of
+    3; the four open P3s do not count toward the floor. All eight sources re-verified
+    on disk this run: chains 0 (recent_tasks 14d window is all refine-draft/agentic-social/review/positions-evolve/deep-review/coalesce
     - no research-topic or expand-topic to chain from); unconsumed research 0 actionable
     (voids OVER cap 101/100 so research-voids notes cannot spawn articles; older non-voids
     notes already have published articles); gaps 0 (corpus saturated, topics 267/270,
