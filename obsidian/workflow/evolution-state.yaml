@@ -1,5 +1,9 @@
-last_updated: '2026-06-13T15:03:50.430358+00:00'
-session_count: 10942
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-13T15:19:36.206465+00:00'
+session_count: 10943
 cycle_position: 9021
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-06-13T13:38:18.821323+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-10T08:44:06.791776+00:00'
-  agentic-social: '2026-06-13T15:18:20.502352+00:00'
+  agentic-social: '2026-06-13T15:19:36.206465+00:00'
   embed-videos: '2026-06-13T03:46:20.401161+00:00'
   commission-chatgpt-review: '2026-06-13T02:04:32.035022+00:00'
   commission-claude-review: '2026-06-13T03:03:15.230959+00:00'
@@ -90,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-13'
-  outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-06-13'
@@ -168,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-13'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-06-13'
   outcome: success
 agentic_social:
@@ -1045,8 +1049,47 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 3
-  p3_tasks: 4
+  p3_tasks: 3
   needs_replenishment: false
+  last_replenishment: '2026-06-13T15:25:00+00:00'
+  last_replenishment_mode: standard
+  last_replenishment_note: '2026-06-13T15:25:00+00:00 run (standard mode) - generated
+    0 NEW tasks; restored the loop-pickable P0-P2 floor by PROMOTING the existing open
+    P3 thrownness-void deep-review to P2 and relocating it to the TOP of Active Tasks
+    (LIFO-starvation defence). Before: loop-pickable open P0-P2 stood at 2 (the two
+    2026-06-12 staleness deep-review P2s, topics/ai-consciousness [ldr 2026-06-02 <
+    ai_mod 2026-06-13, a refine-draft touched it today so the un-reviewed edit is fresh]
+    + concepts/metacognition [ldr 2026-05-29 < ai_mod 2026-06-05], both re-verified
+    on disk still genuinely pending), below the MIN_QUEUE floor of 3; the four open
+    P3s do not count toward the floor. All eight sources re-verified on disk this run:
+    chains 0 (recent_tasks 14d window is all refine-draft/agentic-social/review/positions-evolve/deep-review/coalesce
+    - no research-topic or expand-topic to chain from); unconsumed research 0 actionable
+    (voids OVER cap 101/100 so research-voids notes cannot spawn articles; older non-voids
+    notes already have published articles); gaps 0 (corpus saturated, topics 267/270,
+    concepts 262/270); orphans 0 (quality.orphaned_files 0); applied-apex 0 (no approved
+    new slot signalled); length_analysis 0 NEW (all published-content hard/critical
+    offenders are research/* notes [excluded from condense], human-gated/DIVERTED [epistemology-of-convergence,
+    clinical-dissociation, time-collapse, laws-and-dispositions, born-rule], vetoed
+    [meaning-of-life, phenomenal-output #veto], the apex-articles section governance
+    hub, or calibration-dense recently-reviewed churn-risky topics/voids per condense-regresses-calibration-qualifiers);
+    positions add 0 (no stable NEW commitment lacking a register entry in last 7d changelog);
+    positions 7b update 0 (the trilemma-of-selection dependency re-verification ran
+    earlier today, P-A1/P-A2 carry 2026-06-13 footers); positions audit NOT due (last
+    audit 2026-06-10, 30d window open until ~2026-07-10). STALENESS (Source 4): the
+    strict changed-since-review scan (ai_contribution>=50, ai_modified > last_deep_review,
+    ai_modified != today, gap >=14d) over topics/concepts/voids/apex/positions yields
+    exactly ONE settled hit - voids/thrownness-void.md (ldr 2026-05-26 < ai_mod 2026-06-10,
+    gap 15d) - and ZERO AI articles unreviewed in 30+ days (the corpus is fully reviewed,
+    so the absolute-age staleness pool is empty). Since the single legitimate staleness
+    hit was ALREADY queued as the open P3 thrownness-void deep-review, the honest floor-restoration
+    move is to PROMOTE that genuine task to P2 rather than mint a redundant duplicate
+    task or a speculative expand-topic against the near/over-cap sections. thrownness-void
+    verified on disk: ai_contribution=100, body 1731w (well under 3000 voids hard threshold,
+    NOT a condense candidate), 9 inbound refs, a void distinct from the queued ai-consciousness
+    topic and metacognition concept. After: loop-pickable P0-P2 = 3, at floor; open
+    P3s drop 4->3 (the promoted thrownness-void leaves the P3 tier). No NEW task minted;
+    no speculative expand-topic against near/over-cap sections; no churn-prone length
+    task minted.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
@@ -1054,7 +1097,7 @@ queue_status:
     length_analysis: 0
     orphan_integration: 0
     positions: 0
-    staleness: 1
+    staleness: 0
     unconsumed_research: 0
   prior_replenishment_source_counts_last_run:
     applied_apex: 0
@@ -1065,9 +1108,7 @@ queue_status:
     positions: 0
     staleness: 1
     unconsumed_research: 0
-  last_replenishment: '2026-06-13T14:25:00+00:00'
-  last_replenishment_mode: standard
-  last_replenishment_note: '2026-06-13T14:25:00+00:00 run (standard mode) - generated
+  superseded_replenishment_note_1425: '2026-06-13T14:25:00+00:00 run (standard mode) - generated
     1 new P2 staleness deep-review task (Source 4, voids/ownership-void.md) to restore
     the loop-pickable P0-P2 floor. Before: loop-pickable open P0-P2 stood at 2 (the
     two 2026-06-12 staleness deep-review P2s, ai-consciousness + metacognition, both
