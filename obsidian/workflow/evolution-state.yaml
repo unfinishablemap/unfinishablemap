@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-13T16:20:53.651450+00:00'
-session_count: 10947
-cycle_position: 9022
+last_updated: '2026-06-13T16:34:30.246629+00:00'
+session_count: 10948
+cycle_position: 9023
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-13T07:35:04.426103+00:00'
   optimistic-review: '2026-06-13T10:33:07.850044+00:00'
   check-tenets: '2026-06-13T04:02:32.951561+00:00'
   check-links: '2026-06-12T15:18:12.141170+00:00'
-  deep-review: '2026-06-13T15:49:26.936497+00:00'
+  deep-review: '2026-06-13T16:34:30.246629+00:00'
   tune-system: '2026-06-10T08:48:52.476985+00:00'
   research-voids: '2026-06-12T15:31:29.731747+00:00'
   coalesce: '2026-06-13T13:38:18.821323+00:00'
@@ -85,7 +85,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 394
-  reviews_completed: 5288
+  reviews_completed: 5289
   apex_articles: 34
 quality:
   critical_issues: 0
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-13'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-13'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-13'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-13'
   outcome: success
 agentic_social:
@@ -1050,9 +1050,48 @@ queue_status:
   p2_tasks: 3
   p3_tasks: 3
   needs_replenishment: false
-  last_replenishment: '2026-06-13T15:55:00+00:00'
+  last_replenishment: '2026-06-13T16:40:00+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: '2026-06-13T15:55:00+00:00 run (standard mode) - generated
+  last_replenishment_note: '2026-06-13T16:40:00+00:00 run (standard mode) - generated
+    1 NEW staleness deep-review task (concepts/philosophy-of-time.md) at the TOP of
+    Active Tasks to restore the loop-pickable P0-P2 floor. The prior 15:55 run queued
+    a vertiginous-question P2; a fork has since EXECUTED it (commit 48012a132, last_deep_review
+    now 2026-06-13 == ai_modified), so it is correctly out of Active Tasks, dropping
+    loop-pickable open P0-P2 back to 2 (the two 2026-06-12 staleness P2s, topics/ai-consciousness
+    [ldr 2026-06-02 < ai_mod 2026-06-13, a refine-draft touched it today so the un-reviewed
+    edit is fresh] + concepts/metacognition [ldr 2026-05-29 < ai_mod 2026-06-05, gap
+    14d], both re-verified on disk still genuinely pending), below the MIN_QUEUE floor
+    of 3; the 3 open P3s do not count toward the floor. All eight sources re-verified
+    on disk: chains 0 (recent_tasks 14d window is all refine-draft/agentic-social/review/positions-evolve/deep-review/coalesce
+    - no research-topic or expand-topic to chain from); unconsumed research 0 actionable
+    (mtime-recent notes are all voids-* and voids is OVER cap 101/100 so research-voids
+    skips; older non-voids notes already have published articles); gaps 0 (corpus
+    saturated, topics 267/270, concepts 262/270); orphans 0 (quality.orphaned_files
+    0); applied-apex 0 (positions register has only 3 entries, below the high-confidence-cluster
+    threshold; no approved new slot signalled); length_analysis 0 NEW (all published-content
+    hard/critical offenders are research/* notes [excluded from condense], human-gated/vetoed
+    [epistemology-of-convergence, phenomenal-output #veto, born-rule, clinical-dissociation,
+    time-collapse, laws-and-dispositions], the apex-articles section governance hub,
+    or calibration-dense recently-reviewed churn-risky topics/voids per condense-regresses-calibration-qualifiers);
+    positions add 0 (changelog 7d "the Map holds" hits are calibration-softening of
+    EXISTING commitments [Tenet-1 show->holds wording, machine-consciousness four-sense
+    verdict refinement], not stable NEW commitments lacking a register entry); positions
+    7b update 0 (no Argued-in dependency moved this cycle); positions audit NOT due
+    (last 2026-06-10, 30d window open to ~2026-07-10). STALENESS (Source 4): the strict
+    changed-since-review scan (ai_contribution>=50, ai_modified > last_deep_review,
+    ai_modified != today, gap >=14d) over topics/concepts/voids/apex/positions yields
+    2 settled hits - concepts/quantum-interpretations (gap 17d but ldr 2026-05-27 ==
+    ai_mod 2026-05-27 same-day trivial post-review touch, marginal per prior runs)
+    and concepts/philosophy-of-time (gap 15d, ldr 2026-05-27 < ai_mod 2026-05-29 settled,
+    NOT same-cycle churn). The absolute-age scan finds only the 3 positions/*.md files
+    (last_deep_review None by design - positions use the /positions-evolve audit cadence,
+    not deep-review), so the absolute-age deep-review pool is empty. Picked concepts/philosophy-of-time.md:
+    ai_contribution=100, body 3189w soft_warning (under 3500 concepts hard, NOT a
+    condense candidate), 13 inbound refs (navigational node), a distinct concept cluster
+    from both queued P2 targets. Queued one P2 deep-review at the TOP of Active Tasks
+    (LIFO-starvation defence). After: loop-pickable P0-P2 = 3, at floor. No speculative
+    expand-topic against near/over-cap sections; no churn-prone length task minted.'
+  superseded_replenishment_note_1555: '2026-06-13T15:55:00+00:00 run (standard mode) - generated
     1 NEW staleness deep-review task (topics/vertiginous-question.md) at the TOP of
     Active Tasks to restore the loop-pickable P0-P2 floor. The prior 15:25 run promoted
     thrownness-void P3 to P2 for the floor; that deep-review has since been executed
@@ -1116,6 +1155,15 @@ queue_status:
     leaves the P3 tier). No NEW task minted; no speculative expand-topic against near/over-cap
     sections; no churn-prone length task minted.'
   replenishment_source_counts_last_run:
+    applied_apex: 0
+    chain: 0
+    gap_analysis: 0
+    length_analysis: 0
+    orphan_integration: 0
+    positions: 0
+    staleness: 1
+    unconsumed_research: 0
+  prior_replenishment_source_counts_last_run_1555:
     applied_apex: 0
     chain: 0
     gap_analysis: 0

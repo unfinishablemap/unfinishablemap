@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep-review concepts/philosophy-of-time.md (15-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-05-29 > last_deep_review 2026-05-27, settled 15d, NOT same-cycle churn). Length safe (3189 body words, soft_warning — under the 3500 concepts hard threshold, NOT a condense candidate). 13 inbound refs (a navigational node in the temporal-consciousness / philosophy-of-time cluster). Comprehensive review: confirm the post-review edit holds, audit citation currency, and keep the A-theory/B-theory and presentism/eternalism framing aligned with the Map's No-Many-Worlds + indexical-identity line (temporal becoming should not be over-claimed as established physics — [[evidential-status-discipline]]). Diversity pick (a distinct concept cluster from the queued ai-consciousness topic and metacognition concept); chosen for floor restoration over speculative expand-topic against the near/over-cap sections. Queued at TOP of Active Tasks (LIFO-starvation defence).
+- **Source**: staleness
+- **Generated**: 2026-06-13
+
 ### P3: Named anchor for the "route vs. direction" deflation-blocker (no new page)
 - **Type**: refine-draft
 - **Status**: pending
