@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-13T14:50:16.701639+00:00'
-session_count: 10941
-cycle_position: 9020
+last_updated: '2026-06-13T15:03:50.430358+00:00'
+session_count: 10942
+cycle_position: 9021
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-13T07:35:04.426103+00:00'
   optimistic-review: '2026-06-13T10:33:07.850044+00:00'
   check-tenets: '2026-06-13T04:02:32.951561+00:00'
   check-links: '2026-06-12T15:18:12.141170+00:00'
-  deep-review: '2026-06-13T14:50:16.701639+00:00'
+  deep-review: '2026-06-13T15:03:50.430358+00:00'
   tune-system: '2026-06-10T08:48:52.476985+00:00'
   research-voids: '2026-06-12T15:31:29.731747+00:00'
   coalesce: '2026-06-13T13:38:18.821323+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-10T08:44:06.791776+00:00'
-  agentic-social: '2026-06-13T14:17:56.754530+00:00'
+  agentic-social: '2026-06-13T15:18:20.502352+00:00'
   embed-videos: '2026-06-13T03:46:20.401161+00:00'
   commission-chatgpt-review: '2026-06-13T02:04:32.035022+00:00'
   commission-claude-review: '2026-06-13T03:03:15.230959+00:00'
@@ -85,7 +81,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 394
-  reviews_completed: 5286
+  reviews_completed: 5287
   apex_articles: 34
 quality:
   critical_issues: 0
@@ -94,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-13'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-13'
@@ -174,15 +166,12 @@ recent_tasks:
   type: deep-review
   date: '2026-06-13'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-06-13'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/phenomenology-of-moral-life/
-    date: '2026-06-06T15:02:37.095427+00:00'
-    topics:
-    - moral-implications-of-genuine-agency
-    - ethics-under-dualism
-    - topics/free-will
-    - meaning-of-life
   - url: https://unfinishablemap.org/concepts/constitution-vs-causal-work/
     date: '2026-06-06T16:02:51.978709+00:00'
     topics:
@@ -1042,6 +1031,11 @@ agentic_social:
     - introspection-architecture-independence-scoring
     - ai-consciousness
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/where-the-substance-commitment-enters/
+    date: '2026-06-13T15:18:20.502272+00:00'
+    topics:
+    - free-will
+    - moral-implications-of-genuine-agency
 tune_system_history:
   last_run: '2026-06-10T09:05:00+00:00'
   changes_applied: []
