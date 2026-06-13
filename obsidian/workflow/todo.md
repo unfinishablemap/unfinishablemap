@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep-review voids/ownership-void.md (15-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-05-29 > last_deep_review 2026-05-26, gap 15d, settled — not same-cycle churn). The post-review edit (2026-05-29) landed after the review, so the changed content is un-reviewed. Length safe (2008 body words, soft_warning only — well under the 3000 voids hard threshold, NOT a condense candidate). The ownership void (the sense of bodily/agentic mine-ness as a cognitive dark space) is a node in the ownership/embodiment cluster with ~11 inbound refs ([[concepts/mine-ness]], [[concepts/sense-of-agency]], [[voids/interoceptive-void]], [[topics/consciousness-and-the-ownership-problem]]). Comprehensive review: verify the post-review edit still holds, confirm the void's framing stays calibrated (an unexplorable / under-charted cognitive dark space, NOT an empirical claim about a mechanism — honour [[evidential-status-discipline]]; "void" status is an argued epistemic claim, scope it), audit any citation currency ([[ai-citation-metadata-unreliable]]), and check cross-cluster consistency with the interoceptive / agency / mine-ness siblings and that cross-links resolve live and reciprocate. Diversity pick (a void, distinct from the queued ai-consciousness topic and metacognition concept). Chosen for loop-pickable P0-P2 floor restoration over speculative expand-topic against near/over-cap sections (topics 267/270, concepts 262/270, voids 101/100 OVER). Metadata-only verdict acceptable if converged ([[deep-review-over-reviews-converged]]); do NOT over-hedge.
+- **Source**: staleness
+- **Generated**: 2026-06-13
+
 ### P3: Named anchor for the "route vs. direction" deflation-blocker (no new page)
 - **Type**: refine-draft
 - **Status**: pending
