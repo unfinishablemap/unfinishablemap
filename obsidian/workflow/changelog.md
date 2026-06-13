@@ -5,6 +5,22 @@ ai_modified: 2026-06-13T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-13T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/affective-tone-divergence-across-meditative-traditions]]
+- **Source**: outer-review convergence (ChatGPT 5.5 Pro + Gemini 2.5 Pro, 2026-06-13)
+- **Changes**:
+  - (1) Softened lede overstatement: "empirically established across the primary literature" → calibrated "selected authoritative sources foreground contrasting affective ideals… underdetermined" framing; same softening on the *Established*→*Reported in the textual record* paragraph (dropped "well-attested across… multiple unconnected cultures").
+  - (2) Imported parent caveats: independence-weakness (Sino-Indian/Neoplatonist contact channels), stage-mismatch, theory-ladenness/Katz 1978.
+  - (3) Expanded counterarguments from one rival (neural-training) to five: added stage-mismatch, report-construction, and the two named rival frameworks — Theory of Constructed Emotion (Barrett 2025) and Predictive Processing/Active Inference. Engaged both as intra-physical readings the data are equally available to; marked the Dualism-tenet preference as framework-boundary, not refutation.
+  - (4) Added jhāna concentrative-absorption qualifier (distinguished from open-monitoring equanimity); added al-Junayd *sober* (*ṣaḥw*) Sufism caveat, removed him from the unqualified ecstatic line.
+  - (5) Softened "by the neuroplasticity findings, neural architecture" → "training-sensitive affective and functional-neural patterns."
+  - Added Barrett 2025 and Katz 1978 references; added [[direct-refutation-discipline]] to related_articles.
+- **Engagement classifications** (editor-internal): constructed-emotion (Barrett) — Mode Three (framework-boundary; data equally available, declined at the tenet boundary, not refuted on its own terms). Predictive-processing/active-inference — Mode Three (same). Identity theorist (pre-existing) — Mode Three, unchanged.
+- **Did NOT act on**: Gemini's hostile "insulates/circular/phrenology" framing — strawman per its own Verification Notes; only the named-rival-frameworks gap was durable.
+- **Length**: 3252→~3210 words (soft_warning; under 4000 hard ceiling).
+- **Published**: yes
+
 ## 2026-06-13T05:32:40+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-06-13
