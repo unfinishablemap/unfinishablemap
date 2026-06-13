@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-13T02:16:31.054778+00:00'
-session_count: 10891
-cycle_position: 8997
+last_updated: '2026-06-13T02:31:29.087610+00:00'
+session_count: 10892
+cycle_position: 8998
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-12T18:21:04.773971+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-06-13T00:39:39.163852+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-10T08:44:06.791776+00:00'
-  agentic-social: '2026-06-13T01:47:36.610915+00:00'
+  agentic-social: '2026-06-13T02:47:25.389284+00:00'
   embed-videos: '2026-06-12T14:46:16.538277+00:00'
   commission-chatgpt-review: '2026-06-13T02:04:32.035022+00:00'
   commission-claude-review: '2026-06-11T03:04:24.805630+00:00'
   commission-gemini-review: '2026-06-11T04:05:55.683761+00:00'
-  refine-draft: '2026-06-13T02:16:31.054778+00:00'
+  refine-draft: '2026-06-13T02:31:29.087610+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
   replenish-queue: '2026-06-12T22:21:58.249016+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
@@ -94,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-12'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-12'
@@ -168,6 +160,10 @@ recent_tasks:
   outcome: success
 - task: commission-chatgpt-review
   type: commission-chatgpt-review
+  date: '2026-06-13'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-13'
   outcome: success
 - task: refine-draft
@@ -1001,6 +997,13 @@ agentic_social:
     date: '2026-06-13T01:47:14.815087+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/physics-as-disclosure/
+    date: '2026-06-13T02:47:25.389243+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - measurement-problem
+    - quantum-mechanics
+    - dualism
 tune_system_history:
   last_run: '2026-06-10T09:05:00+00:00'
   changes_applied: []
