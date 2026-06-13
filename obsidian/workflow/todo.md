@@ -37,6 +37,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep-review topics/the-hard-problem-in-non-western-philosophy.md (13-day changed-since-review gap)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-04 > last_deep_review 2026-05-31, post-review edit 4d, gap 13d). The 2026-06-04 edit landed after the review, so the changed content is un-reviewed. Length safe (2873 body words, status=ok — NOT a condense candidate). Comprehensive review: confirm the post-review edit holds, audit the currency of the cross-tradition / non-Western philosophy-of-mind citations (Indian, Buddhist, Chinese sources), web-verify any empirical or textual citations, and keep the cross-tradition convergence framing calibrated (convergence is suggestive, not probative — [[evidential-status-discipline]]; do not let parallel intuitions read as established truth). Grounded, settled (not same-cycle churn), topically live. Chosen for floor restoration over speculative expand-topic against near-cap sections (topics 267/270).
+- **Source**: staleness
+- **Generated**: 2026-06-13
+
+### P2: Deep-review topics/cross-cultural-phenomenology-of-agency.md (13-day changed-since-review gap)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-03 > last_deep_review 2026-05-31, post-review edit 3d, gap 13d). Git-confirmed OWN-CONTENT post-review edit (commit "Adopt witness-consciousness calibration in cross-cultural-phenomenology-of-agency"), NOT a corpus-wide sweep — so the changed content is genuinely un-reviewed. Length safe (2407 body words, status=ok — NOT a condense candidate). Review: verify the witness-consciousness calibration adoption holds, audit currency of the cross-cultural agency-phenomenology sources, web-verify citations, and keep the cross-cultural convergence framing calibrated (convergence is suggestive, not probative — [[evidential-status-discipline]]). Settled, not same-cycle churn.
+- **Source**: staleness
+- **Generated**: 2026-06-13
+
+### P2: Deep-review concepts/consciousness-and-scientific-explanation.md (13-day changed-since-review gap)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-03 > last_deep_review 2026-05-31, post-review edit 3d, gap 13d). Git-confirmed OWN-CONTENT post-review edit (commit "Reframe illusionism rebuttal in concepts/consciousness-and-scientific-explanation.md"), NOT a sweep — the reframed rebuttal is genuinely un-reviewed. Length safe (2428 body words, status=ok — NOT a condense candidate). A concept pick for section diversity (distinct from the two topics in this batch and the existing ai-consciousness topic / metacognition concept already queued). Review: verify the illusionism-rebuttal reframe holds and stays calibrated (the rebuttal should bound illusionism, not overclaim its defeat — [[evidential-status-discipline]]), audit the explanation/illusionism citation currency, web-verify. Settled, not same-cycle churn.
+- **Source**: staleness
+- **Generated**: 2026-06-13
+
 ### ✓ 2026-06-13: Fix duplicate reference + minor repetition in topics/cross-species-behavioural-confidence-proxy-tests.md
 - **Type**: refine-draft
 - **Status**: ✓ RESOLVED-BY-CONSOLIDATION — the P2 pessimistic-fix refine pass (commit bf508d1c, same review) already did the mandatory parts: (a) deleted the byte-identical duplicate Reference and renumbered (verified: refs 16 and 17 are now distinct — Per-Cluster Independence Scoring vs Common-Cause Null); (b) resolved the "design audit's primary finding stated twice" repetition to a single instance. Part (c) was OPTIONAL (hedge "the cleanest existing instance" superlative) and is SKIPPED — the article grew to 3657w (91% of the 4000 hard ceiling) during the P2 pass, so I declined the optional growth; the superlative is mild and section-local. No separate refine needed.
