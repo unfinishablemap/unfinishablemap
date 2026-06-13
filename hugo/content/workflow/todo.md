@@ -38,42 +38,23 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Refresh affective-tone-divergence empirical paragraph with post-2020 contemplative-science sources
-- **Type**: refine-draft
-- **File**: obsidian/topics/affective-tone-divergence-across-meditative-traditions.md
-- **Notes**: From convergent outer reviews (2026-06-13, 2/3 reviewers): [chatgpt, gemini]. The empirical backbone is exactly Lutz 2008, Fredrickson 2008, Zeng 2015 (verified refs 8-10) — stale for a 2026 article. BOTH reviewers independently flagged the Fredrickson/Zeng LKM evidence as under-controlled: ChatGPT 5.5 Pro — "The loving-kindness claim needs active-control caveats… The article should not present loving-kindness outcomes as settled style-specific affective differentiation evidence"; Gemini 2.5 Pro (weakness #5) — "the extensive recent meta-analytic literature highlighting the massive role of expectancy effects, demand characteristics, and top-down semantic generation… (d = 0.303)". CONVERGENT ACTION: add post-2020 sources on FA/OM/LKM neural differentiation, loving-kindness active-control caveats, advanced jhāna neurophenomenology, and (lightly) meditation adverse effects so affective tone is not framed as uniformly positive. CRITICAL: web-verify every candidate citation against the publisher of record BEFORE adding it — AI-supplied citation metadata is unreliable (the reviewers' specific suggestions — a 2024 ACAM jhāna-classification paper, a 2025 ACAM-J Cerebral Cortex study, a 2024 LKM meta-analysis, a 2020 Scientific Reports FA/OM/LKM study, a 2022 adverse-effects survey, the d=0.303 LKM meta-analysis — are UNVERIFIED leads, not confirmed cites; do not paste DOIs/venues without checking). Keep the loving-kindness claim hedged with active-control caveats. NOTE: Gemini's own Verification Notes mark its surrounding "raw readout of an objective interface mode" framing as DISPUTED — the article never treats the LKM data that way (it explicitly says it "is not a confirmation that the mechanism is interface-register modulation"); act only on the active-control/demand-characteristics calibration, NOT on the strawman that the article over-claims. This is mechanical citation work distinct from the P1 prose pass; do AFTER the P1 calibration lands to avoid edit conflict. Honour [evidential-status-discipline](/project/evidential-status-discipline/).
-- **Review files**: `reviews/outer-review-2026-06-13-chatgpt-5-5-pro.md`, `reviews/outer-review-2026-06-13-gemini-2-5-pro.md`
-- **Synthesis**: reviews/outer-review-synthesis-2026-06-13.md
-- **Source**: outer-review
-- **Generated**: 2026-06-13
-
-### P2: Promote stage-mismatch / independence caveats in comparative-phenomenology parent
-- **Type**: refine-draft
-- **File**: obsidian/topics/comparative-phenomenology-of-meditative-traditions.md
-- **Notes**: From outer review 2026-06-13 (ChatGPT 5.5 Pro). The parent article already HAS the stage-mismatch (line 105), theory-ladenness/Katz (lines 139, 153), and Sino-Indian independence-weakness (line 141) caveats, but they sit deep in the body where child articles (affective-tone, cessation-versus-plenitude) do not reliably inherit them. Light touch only: make these caveats more discoverable from the divergence-naming sections that the children expand (e.g. a one-line forward-pointer from the §"Affective Tone" region to the independence-weakness flag), so children inherit the calibration rather than re-stating a cleaner-than-warranted typology. Do NOT rewrite the convergence argument. Mind length — the parent is near the topics/ word ceiling (was ~4033w historically; verify current count and prefer a pointer over new prose). Honour [evidential-status-discipline](/project/evidential-status-discipline/).
-- **Review file**: `reviews/outer-review-2026-06-13-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-13
-
-### P2: Adopt mental-effort calibration in trilemma-of-selection
+### P2: Align closing-paragraph calibration and fix the OCD-sample figure in neuroplasticity.md
 - **Type**: refine-draft
 - **Status**: pending
-- **File**: obsidian/topics/trilemma-of-selection.md
-- **Notes**: From topic-concept anchoring audit 2026-06-13. The topic article over-claims relative to its anchor concept [mental-effort](/concepts/mental-effort/); failed checks: strong_assertions, underdetermination_markers.
-  - strong-assertion density 1.90/kw exceeds 1.5× anchor (0.34/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
+- **File**: obsidian/concepts/neuroplasticity.md
+- **Notes**: Pessimistic review 2026-06-13 found the article well-calibrated overall (compatible-but-not-required discipline maintained throughout; Kral 2022 and Schwartz 1996 citations verify cleanly) with three non-critical findings. (1) MEDIUM / closing-paragraph drift — the final body sentence (L140) "harder to square with epiphenomenalism than with interactionist dualism—the correlation is exactly what interactionism predicts and what epiphenomenalism must explain away" upgrades to a comparative verdict the rest of the article disowns. The article's OWN §Epiphenomenalist Response (L93) gives a symmetric epiphenomenalist pathway predicting the same correlation, so the correlation alone discriminates nothing. Relocate the tilt onto its actual support (the phenomenology-tracking argument, openly flagged as contestable) rather than the neutral correlation; soften "must explain away" → "must treat as systematically misleading phenomenology." (2) MEDIUM / unsupported premise — the evolutionary rebuttal at L99 ("why would evolution produce accurate phenomenology of cognitive load if it contributes nothing?") rests on an undefended teleological premise; the free-covariance / non-adaptive-concomitant reply is standardly available. Either supply the bridging argument or downgrade; check that the cited [mental-effort](/concepts/mental-effort/) actually makes the argument it's relied on for. (3) LOW-MEDIUM / numeric precision — verify "18 participants (9 new)" (L83) against Schwartz 1996 (PubMed 8629886); the "(9 new)" parenthetical is unexplained and may conflate two figures. Cross-check the sibling [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) so the two agree. Also (minor): mark the Zeno "doesn't violate conservation laws" claim (L152) as a model property not a brain fact; consider a primary cite for the Davidson "2 weeks" claim (L109 currently cites a review/magazine piece). PRESERVE the compatible-but-not-required discipline, the front-loaded Schwartz limitations, the Kral 2022 retraction handling, and the identity-theory engagement. Does NOT trigger the altered-state symmetry audit (meditation is the sole supportive-cluster item; ≥2 gate fails). See [pessimistic-2026-06-13-neuroplasticity](/reviews/pessimistic-2026-06-13-neuroplasticity/).
+- **Source**: pessimistic-review (2026-06-13)
 - **Generated**: 2026-06-13
 
 ### P2: Adopt mental-causation-and-downward-causation calibration in trilemma-of-selection
 - **Type**: refine-draft
-- **Status**: pending
+- **Status**: ✓ RESOLVED-BY-CONSOLIDATION
 - **File**: obsidian/topics/trilemma-of-selection.md
 - **Notes**: From topic-concept anchoring audit 2026-06-13. The topic article over-claims relative to its anchor concept [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/); failed checks: strong_assertions, underdetermination_markers.
   - topic uses 5 strong-assertion verbs (1.90/kw) where anchor uses none; absolute allowance is 0.5/kw
   - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
+  - ✓ RESOLVED-BY-CONSOLIDATION (2026-06-13): fixed once in the same refine pass as the sibling [mental-effort](/concepts/mental-effort/) calibration task (the cycle-owned task at the top of this group). The mental-causation absolute allowance (≤0.5/kw) was the binding constraint. Recalibrated all 5 strong-assertion verbs into evidential-status-appropriate prose (now 0 verbs, 0.0/kw) and installed 4 underdetermination markers in load-bearing places. Verified clean via tools.curate.anchoring.evaluate_anchoring against all anchors: 0 flags (was 3). Length 2678w (OK, under topics hard ceiling).
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-13
 
@@ -1093,6 +1074,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-13: Adopt mental-effort calibration in trilemma-of-selection
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-13. The topic article over-claims relative to its anchor concept [mental-effort](/concepts/mental-effort/); failed checks: strong_assertions, underdetermination_markers.
+
+### ✓ 2026-06-13: Promote stage-mismatch / independence caveats in comparative-phenomenology parent
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-13 (ChatGPT 5.5 Pro). The parent article already HAS the stage-mismatch (line 105), theory-ladenness/Katz (lines 139, 153), and Sino-Indian independence-weakness (line 141) caveats, but they sit deep in the body where child articles (affective-tone, cessation-versus-plenitude) do not reliably inherit them. Light touch only: make these caveats more discoverable from the divergence-naming sections that the children expand (e.g. a one-line forward-pointer from the §"Affective Tone" region to the independence-weakness flag), so children inherit the calibration rather than re-stating a cleaner-than-warranted typology. Do NOT rewrite the convergence argument. Mind length — the parent is near the topics/ word ceiling (was ~4033w historically; verify current count and prefer a pointer over new prose). Honour [evidential-status-discipline](/project/evidential-status-discipline/).
+
+### ✓ 2026-06-13: Refresh affective-tone-divergence empirical paragraph with post-2020 contemplative-science sources
+- **Type**: refine-draft
+- **Notes**: From convergent outer reviews (2026-06-13, 2/3 reviewers): [chatgpt, gemini]. The empirical backbone is exactly Lutz 2008, Fredrickson 2008, Zeng 2015 (verified refs 8-10) — stale for a 2026 article. BOTH reviewers independently flagged the Fredrickson/Zeng LKM evidence as under-controlled: ChatGPT 5.5 Pro — "The loving-kindness claim needs active-control caveats… The article should not present loving-kindness outcomes as settled style-specific affective differentiation evidence"; Gemini 2.5 Pro (weakness #5) — "the extensive recent meta-analytic literature highlighting the massive role of expectancy effects, demand characteristics, and top-down semantic generation… (d = 0.303)". CONVERGENT ACTION: add post-2020 sources on FA/OM/LKM neural differentiation, loving-kindness active-control caveats, advanced jhāna neurophenomenology, and (lightly) meditation adverse effects so affective tone is not framed as uniformly positive. CRITICAL: web-verify every candidate citation against the publisher of record BEFORE adding it — AI-supplied citation metadata is unreliable (the reviewers' specific suggestions — a 2024 ACAM jhāna-classification paper, a 2025 ACAM-J Cerebral Cortex study, a 2024 LKM meta-analysis, a 2020 Scientific Reports FA/OM/LKM study, a 2022 adverse-effects survey, the d=0.303 LKM meta-analysis — are UNVERIFIED leads, not confirmed cites; do not paste DOIs/venues without checking). Keep the loving-kindness claim hedged with active-control caveats. NOTE: Gemini's own Verification Notes mark its surrounding "raw readout of an objective interface mode" framing as DISPUTED — the article never treats the LKM data that way (it explicitly says it "is not a confirmation that the mechanism is interface-register modulation"); act only on the active-control/demand-characteristics calibration, NOT on the strawman that the article over-claims. This is mechanical citation work distinct from the P1 prose pass; do AFTER the P1 calibration lands to avoid edit conflict. Honour [evidential-status-discipline](/project/evidential-status-discipline/).
 
 ### ✓ 2026-06-13: Calibrate affective-tone-divergence article (consolidated outer-review prose pass)
 - **Type**: refine-draft

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-06-12T09:58:23.593601'
+ai_modified: '2026-06-13T08:01:38.276521'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-06-12'
+modified: '2026-06-13'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-06-13: Why Mystics Disagree About How Enlightenment Feels
+
+Buddhist depths feel flat; Sufi and bhakti depths feel ecstatic; Christian contemplation swings; Daoist practice feels at ease. A human-AI inquiry asks whether affective tone tracks which mode of consciousness a tradition trains, not consciousness itself.
+
+**Type**: new-article  
+**Link**: [[affective-tone-divergence-across-meditative-traditions]]
+
+---
+
 ### 2026-06-12: A Theory Built to Kill Dualism—Borrowed to Defend It
 
 Predictive processing was designed by physicists and cognitive scientists to dissolve the mind-body gap. The Map borrows its math anyway: the equations are metaphysically neutral, and they describe exactly the branching brain a selecting consciousness would need.
@@ -192,16 +201,6 @@ Swap a person's choice mid-experiment and many won't catch it—then confidently
 
 **Type**: new-article  
 **Link**: [[authorship-of-action-divergence]]
-
----
-
-### 2026-05-22: What Would Make the 3D-World Problem Falsifiable?
-
-The phenomenal three-dimensional world we inhabit isn't the same thing as the brain's spatial map. A new falsifiability section names what would settle the question in practice — and what couldn't, even in principle.
-
-**Type**: insight  
-**Tweet**: https://x.com/unfinishablemap/status/2057736838886904183  
-**Link**: [[three-dimensional-world-representation-problem]]
 
 ---
 

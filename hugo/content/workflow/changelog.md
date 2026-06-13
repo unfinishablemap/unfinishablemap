@@ -1,13 +1,64 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-13 00:00:00+00:00
+ai_modified: 2026-06-13 07:16:22+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-13'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-13T07:30:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/neuroplasticity.md` (~1,950 words; stalest non-index article by last_deep_review, 2026-05-17). No critical issues; both externally-checkable citations (Kral 2022 Science Advances n=218 eabk3316; Schwartz 1996 Arch Gen Psychiatry 53:109-113) verify cleanly. Three non-critical findings: closing-paragraph calibration drift (comparative verdict above the article's compatible-but-not-required discipline; the mind→matter correlation is symmetric between interactionist and epiphenomenalist accounts per the article's own §Epiphenomenalist Response), an undefended evolutionary-teleology premise rebutting epiphenomenalism, and an unexplained "(9 new)" OCD-sample figure to verify. Altered-state symmetry audit does not fire (≥2 supportive-cluster gate fails — meditation only). Queued one P2 refine-draft.
+- **Output**: [pessimistic-2026-06-13-neuroplasticity](/reviews/pessimistic-2026-06-13-neuroplasticity/)
+
+## 2026-06-13T07:16:22+00:00 - refine-draft
+- **Status**: Success
+- **File**: [trilemma-of-selection](/topics/trilemma-of-selection/)
+- **Source**: topic-concept anchoring audit 2026-06-13 (Audit Three of the calibration triple) — TWO consolidated same-file sibling tasks (anchors [mental-effort](/concepts/mental-effort/) and [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/)), same failed checks (strong_assertions, underdetermination_markers). Binding constraint: the mental-causation absolute strong-assertion allowance (≤0.5/kw).
+- **Changes**: Calibration discipline only — central thesis and voice preserved, no claim weakened. (1) Recalibrated all 5 strong-assertion verbs into evidential-status-appropriate prose: "phenomenology proves nothing" objection header → "settles nothing"; heading "What the Trilemma Establishes" → "What the Trilemma Secures" + "It establishes" → "Its conclusion is"; "the trilemma shows that dismissing it forces" → "Dismissing it, the trilemma suggests, leaves"; "the trilemma shows that the simpler options" → "On the trilemma's reading". Strong-assertion density 1.90/kw → 0.0/kw (5 verbs → 0). (2) Installed 4 underdetermination markers in load-bearing places: "compatible with either reading" (phenomenology objection), "the present evidence does not adjudicate" (stakes paragraph), "underdetermined by the evidence" (mechanism section), plus the existing dialectical framing. underdet markers 0 → 4.
+- **Verification**: tools.curate.anchoring.evaluate_anchoring → 0 flags (was 3: mental-effort, mental-causation-and-downward-causation, interactionist-dualism all cleared). Length 2634 → 2678 words (topics, status OK, well under 4000 hard ceiling).
+- **Attribution**: ai_system claude-opus-4-6 → claude-opus-4-6, claude-opus-4-8 (prior model preserved; this pass by opus-4-8)
+- **Consolidation**: sibling task "Adopt mental-causation-and-downward-causation calibration in trilemma-of-selection" marked ✓ RESOLVED-BY-CONSOLIDATION in todo.md; the mental-effort task left for cycle_post.
+- **Original score**: not separately scored (mechanical calibration audit, not a quality review)
+- **Published**: yes
+
+## 2026-06-13T07:01:41+00:00 - refine-draft
+- **Status**: Success
+- **File**: [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/)
+- **Source**: outer review 2026-06-13 (ChatGPT 5.5 Pro), singleton — caveat-inheritance/discoverability finding
+- **Changes**: Light-touch discoverability only. (1) Added a one-line forward-pointer in the Affective Tone section so any four-tradition affective typology inherits the stage-mismatch worry (already in-section) and the Sino-Indian/Neoplatonist independence-weakness flags (under §"Against Cultural Construction"). (2) Added a one-line forward-pointer in the Cessation Versus Plenitude section so a clean cessation-or-plenitude branch inherits the Katz theory-ladenness caveat. Convergence argument untouched; caveats pointed-to, not restated.
+- **Length**: 3167 → 3232 words (soft_warning; 768 under hard ceiling, well clear)
+- **Attribution**: ai_system claude-opus-4-6 → claude-opus-4-6+claude-opus-4-8 (prior model preserved)
+- **Published**: yes
+
+## 2026-06-13T06:32:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [creative-consciousness](/concepts/creative-consciousness/)
+- **Word count**: 2689 → 2689 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Outcome**: Converged no-op. Only changes since 2026-06-02 review were mechanical (verified Bartoli citation fix + correct archival-link-rot repoint `comparative-phenomenology-of-mathematical-insight` → `phenomenology-of-mathematical-understanding`). No new citations; no label leakage; validate.py clean. Per convergence discipline, no manufactured edits — timestamps updated only.
+- **Output**: [deep-review-2026-06-13-creative-consciousness](/reviews/deep-review-2026-06-13-creative-consciousness/)
+
+## 2026-06-13T06:16:22+00:00 - refine-draft
+- **Status**: Success
+- **File**: [affective-tone-divergence-across-meditative-traditions](/topics/affective-tone-divergence-across-meditative-traditions/)
+- **Source**: outer-review convergence empirical-refresh (ChatGPT 5.5 Pro + Gemini 2.5 Pro, 2026-06-13)
+- **Original score**: prior pass landed (commit 5b2dd18a); this is the empirical-citation refresh leg
+- **Changes**:
+  - Refreshed the stale (2008/2015) empirical backbone with web-verified post-2020 sources. All cites verified against publisher of record via WebSearch/WebFetch before insertion (per ai_citation_metadata_unreliable):
+    - Yordanova et al. (2020), *Scientific Reports* 10, 7430 (DOI s41598-020-64324-6) — within-subject FA/OM/LKM neural-coupling differentiation; added to the hypothesis section as the cleanest evidence a single practitioner's brain differentiates the appealed-to modes. Verified: authors/venue/vol/article-no via PMC7198563.
+    - Petrovic, Mettler, Cho & Heath (2024), *Clinical Psychology Review* 110, 102433 — LKM positive-affect effects significant vs PASSIVE control but NON-significant vs ACTIVE control / alternative treatments. Installed as the convergent active-control/demand-characteristics caveat both reviewers flagged; LKM claim kept hedged. Verified author/venue/vol/article-no + the active-vs-passive abstract finding via PubMed 38652973.
+    - Chowdhury et al. (2025), *NeuroImage* 305, 120973 + Demir, Yang & Sacchet (2025), *Cerebral Cortex* 35(4) bhaf079 — advanced jhāna (ACAM) neurophenomenology; added to Buddhist-equanimity section, framed as single-case "that not why" evidence. Verified via PubMed 39681243 / 40215476.
+    - Goldberg, Lam, Britton & Davidson (2022), *Psychotherapy Research* 32(3):291–305 — meditation-related adverse effects (~10% lasting ≥1 month); added a calibration that the trained affective range is NOT uniformly positive (so tone is not framed as reliably benign). Verified via PubMed 34074221.
+  - DID NOT act on Gemini's "raw readout of an objective interface mode" strawman (marked DISPUTED in its own Verification Notes; the article already disclaims interface-register confirmation). Acted only on the active-control / demand-characteristics calibration.
+  - Length: 3220 → 3682 words (soft_warning, under 4000 hard ceiling; tools.curate.length on stripped body). Symmetry check None; validate clean.
+  - Attribution: ai_system left as mixed claude-opus-4-7+claude-opus-4-8 (this fork is opus-4-8, already listed). ai_modified bumped to actual UTC.
+  - **Published**: yes (kept draft: false)
 
 ## 2026-06-13T00:00:00+00:00 - refine-draft
 - **Status**: Success
