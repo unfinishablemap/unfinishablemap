@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-06-12 21:16:10+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-06-13 01:17:02+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 coalesced_from:
 - /topics/predictive-processing-and-dualism/

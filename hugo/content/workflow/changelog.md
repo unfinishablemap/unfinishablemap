@@ -9,6 +9,26 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-13T01:31:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-interface-development](/topics/consciousness-interface-development/)
+- **Word count**: 3730 → 3730 (no change; converged, length-neutral)
+- **Critical issues addressed**: 0 (none found — fifth consecutive no-critical-issues pass)
+- **Medium issues addressed**: 0 (length 124% soft, below ~3850 condense-trigger watermark; no condense queued)
+- **Enhancements made**: 0 (no edits beyond frontmatter timestamps — converged article, avoided oscillation)
+- **Verified**: the one post-review change (2026-06-03 expand-topic cross-link to [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/#the-developmental-arc-of-shared-intentionality)) — link + anchor resolve; "joint attention at nine months / collective intentionality by age three" faithful to target (Tomasello 2019); no slippage
+- **Reasoning modes** (unchanged, no engagement prose touched): Parfit Mode Three; physicalist/functionalist Mode Two; MWI Mode Three; Tegmark/decoherence exemplary evidential-status discipline
+- **Output**: [deep-review-2026-06-13-consciousness-interface-development](/reviews/deep-review-2026-06-13-consciousness-interface-development/)
+
+## 2026-06-13T00:31:52+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [comparative-phenomenology-of-mathematical-insight](/topics/comparative-phenomenology-of-mathematical-insight/), [ramanujan-and-the-phenomenology-of-mathematical-reception](/topics/ramanujan-and-the-phenomenology-of-mathematical-reception/)
+- **Target**: [phenomenology-of-mathematical-understanding](/topics/phenomenology-of-mathematical-understanding/) (3529 words, soft_warning, under 4000 hard threshold — redundancy eliminated from ~4345w of combined source body)
+- **Archived**: [comparative-phenomenology-of-mathematical-insight](/archive/topics/comparative-phenomenology-of-mathematical-insight/), [ramanujan-and-the-phenomenology-of-mathematical-reception](/archive/topics/ramanujan-and-the-phenomenology-of-mathematical-reception/)
+- **Slug note**: original intended slug `phenomenology-of-mathematical-insight` REJECTED — collided with an existing archive-redirect (a 2026-03-15 archived article claims that URL → mathematical-knowledge-and-insight). check_slug.py passed (no LIVE collision) but the redirect generator flattened the new live page's URL to consciousness-and-mathematics. Used `phenomenology-of-mathematical-understanding` (clean of both live files and archive redirects).
+- **References repointed**: 6 live files (consciousness-and-mathematics, concession-convergence-philosophy-of-mathematics, creative-consciousness, cognitive-phenomenology, incubation-effect-and-unconscious-processing, phenomenology-of-intellectual-life) — all inbound wikilinks updated to new slug, ai_modified bumped; no orphan/cross-review follow-up needed
+- **Section pressure**: topics 268→267/270 (freed one slot in the most-pressured section)
+
 ## 2026-06-13T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/)
