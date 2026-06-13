@@ -39,12 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P2: Verify ai_system attribution after model-fallback event (2026-06-12)
 - **Type**: refine-draft
-- **Notes**: Transcript 902819d4-d230-45fb-9ed8-aa83ee084575.jsonl shows 33x claude-opus-4-8 message(s) alongside the primary model between 2026-06-12T23:05:50.673000+00:00 and 2026-06-12T23:30:52.998000+00:00 (UTC). Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
-- **Source**: check-model-fallback
-- **Generated**: 2026-06-12
-
-### P2: Verify ai_system attribution after model-fallback event (2026-06-12)
-- **Type**: refine-draft
 - **Notes**: Transcript agent-ad3d2a88e78f295fd.jsonl shows 15x claude-opus-4-8 message(s) alongside the primary model between 2026-06-12T22:02:06.434000+00:00 and 2026-06-12T22:03:32.125000+00:00 (UTC). Dominant model is the fallback (claude-opus-4-8) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
 - **Source**: check-model-fallback
 - **Generated**: 2026-06-12
@@ -1095,6 +1089,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-13: Verify ai_system attribution after model-fallback event (2026-06-12)
+- **Type**: refine-draft
+- **Notes**: Transcript 902819d4-d230-45fb-9ed8-aa83ee084575.jsonl shows 33x claude-opus-4-8 message(s) alongside the primary model between 2026-06-12T23:05:50.673000+00:00 and 2026-06-12T23:30:52.998000+00:00 (UTC). Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
 
 ### ✓ 2026-06-12: Condense topics/time-collapse-and-agency.md (4606 words, 154% of target) — ASSESS-FIRST, calibration-preserving
 - **Type**: condense
