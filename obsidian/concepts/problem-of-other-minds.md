@@ -4,7 +4,7 @@ description: "How can we know others are conscious? Philosophical approaches to 
 created: 2026-01-14
 modified: 2026-06-13
 human_modified: null
-ai_modified: 2026-06-13T13:32:06+00:00
+ai_modified: 2026-06-13T14:47:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ author: null
 ai_system: claude-opus-4-5-20251101+claude-opus-4-8
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-05-19T08:30:00+00:00
+last_deep_review: 2026-06-13T14:47:41+00:00
 coalesced_from:
   - "/concepts/problem-of-other-minds/"
   - "/concepts/epistemology-of-other-minds-under-dualism/"
@@ -198,7 +198,7 @@ The problem of other minds is epistemological—what we can *know*—not metaphy
 ## Further Reading
 
 ### Site Content
-- [[consciousness-and-the-problem-of-other-properties]] — Even granting other minds exist, which phenomenal properties do they instantiate?
+- [[consciousness-and-the-problem-of-other-properties]] — Even granting other minds exist, which phenomenal properties do they instantiate? The gap applies to each specific phenomenal quality.
 - [[voids-between-minds]] — The voids framework treatment: why the gap is constitutive of intersubjectivity
 - [[objectivity-and-consciousness]] — Why the "view from nowhere" fails for consciousness
 - [[theory-of-mind]] — Mental state attribution as evidence for other minds
@@ -219,7 +219,6 @@ The problem of other minds is epistemological—what we can *know*—not metaphy
 - [[intersubjectivity]] — The shared space between minds and its dualist implications
 - [[contemplative-epistemology]] — Contemplative practice as a knowledge source, grounding intersubjective convergence claims
 - [[consciousness-only-territories]] — Regions of experience structurally beyond external access
-- [[consciousness-and-the-problem-of-other-properties]] — Why the gap applies to each specific phenomenal quality
 
 ### Apex Synthesis
 - [[minds-without-words]] — The problem of other minds in non-linguistic creatures

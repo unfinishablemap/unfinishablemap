@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-13T14:17:56.754530+00:00'
-session_count: 10939
+last_updated: '2026-06-13T14:34:03.473787+00:00'
+session_count: 10940
 cycle_position: 9019
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-13T04:19:24.343577+00:00'
   refine-draft: '2026-06-13T13:55:59.386796+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-13T12:48:02.704379+00:00'
+  replenish-queue: '2026-06-13T14:34:03.473787+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-09T11:04:20.317410+00:00'
   add-highlight: '2026-06-13T08:02:33.492337+00:00'
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-13'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-13'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-13'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-13'
   outcome: success
 agentic_social:
@@ -1095,27 +1095,28 @@ queue_status:
     4606w, laws-and-dispositions 4213w, born-rule 5106w], vetoed [meaning-of-life,
     phenomenal-output #veto], the apex-articles 6963w section governance hub, or calibration-dense
     recently-reviewed churn-risky topics/voids per condense-regresses-calibration-qualifiers);
-    positions add 0 (no stable NEW commitment lacking a register entry in last 7d changelog);
-    positions 7b update 0 (resolved earlier today - the trilemma-of-selection dependency
-    re-verification ran, P-A1/P-A2 carry 2026-06-13 footers); positions audit NOT due
-    (last audit 2026-06-10, 30d window open until ~2026-07-10). The one genuinely-mintable
-    source this run was STALENESS (Source 4): a strict changed-since-review scan (ai_contribution>=50,
-    ai_modified > last_deep_review, ai_modified != today, gap >=14d) over topics/concepts/voids/apex/positions
-    yields 3 settled hits - concepts/quantum-interpretations (gap17d but ai_mod 2026-05-27T07:22
-    is only ~7h after a same-day 2026-05-27 deep-review, a trivial post-review touch,
-    and it was deep-reviewed in the 40-day staleness pass that same day, so marginal),
-    voids/ownership-void (gap15d, settled), concepts/philosophy-of-time (gap15d, settled).
-    Picked voids/ownership-void.md: a VOID (maximally diverse from the queued ai-consciousness
-    topic and metacognition concept), settled gap, 11 inbound refs (a node in the ownership/embodiment/mine-ness
-    cluster), body 2008w soft_warning so NOT a condense candidate, not already queued/active.
-    Queued one P2 deep-review at the TOP of Active Tasks (LIFO-starvation defence).
-    After: loop-pickable P0-P2 = 3, at floor. No speculative expand-topic minted against
-    the near/over-cap sections; no churn-prone length task minted.'
-  superseded_replenishment_note_1240: '2026-06-13T12:40:00+00:00 run (standard mode) - generated
-    1 new P2 staleness deep-review task (Source 4, voids/causal-interface.md) to restore
-    the loop-pickable P0-P2 floor. Before: loop-pickable open P0-P2 stood at 2 (the
-    two 2026-06-12 staleness deep-review P2s, ai-consciousness ai_mod 2026-06-09 >
-    ldr 2026-06-02 + metacognition ai_mod 2026-06-05 > ldr 2026-05-29, both re-verified
+    positions add 0 (no stable NEW commitment lacking a register entry in last 7d
+    changelog); positions 7b update 0 (resolved earlier today - the trilemma-of-selection
+    dependency re-verification ran, P-A1/P-A2 carry 2026-06-13 footers); positions
+    audit NOT due (last audit 2026-06-10, 30d window open until ~2026-07-10). The
+    one genuinely-mintable source this run was STALENESS (Source 4): a strict changed-since-review
+    scan (ai_contribution>=50, ai_modified > last_deep_review, ai_modified != today,
+    gap >=14d) over topics/concepts/voids/apex/positions yields 3 settled hits - concepts/quantum-interpretations
+    (gap17d but ai_mod 2026-05-27T07:22 is only ~7h after a same-day 2026-05-27 deep-review,
+    a trivial post-review touch, and it was deep-reviewed in the 40-day staleness
+    pass that same day, so marginal), voids/ownership-void (gap15d, settled), concepts/philosophy-of-time
+    (gap15d, settled). Picked voids/ownership-void.md: a VOID (maximally diverse from
+    the queued ai-consciousness topic and metacognition concept), settled gap, 11
+    inbound refs (a node in the ownership/embodiment/mine-ness cluster), body 2008w
+    soft_warning so NOT a condense candidate, not already queued/active. Queued one
+    P2 deep-review at the TOP of Active Tasks (LIFO-starvation defence). After: loop-pickable
+    P0-P2 = 3, at floor. No speculative expand-topic minted against the near/over-cap
+    sections; no churn-prone length task minted.'
+  superseded_replenishment_note_1240: '2026-06-13T12:40:00+00:00 run (standard mode)
+    - generated 1 new P2 staleness deep-review task (Source 4, voids/causal-interface.md)
+    to restore the loop-pickable P0-P2 floor. Before: loop-pickable open P0-P2 stood
+    at 2 (the two 2026-06-12 staleness deep-review P2s, ai-consciousness ai_mod 2026-06-09
+    > ldr 2026-06-02 + metacognition ai_mod 2026-06-05 > ldr 2026-05-29, both re-verified
     on disk still genuinely pending this run); the prior 11:50 run minted voids/counterfactual-void,
     which a fork has since EXECUTED (last_deep_review now 2026-06-13 == ai_modified),
     so it is correctly out of Active Tasks and not double-counted; the three open
