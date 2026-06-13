@@ -369,3 +369,31 @@
   subject_articles:
   - topics/perceptual-failure-and-the-interface.md
   subject_source: reuse:pending-reviews:outer-review-2026-06-11-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a2cba7a-5cb4-832c-97c3-f16e6ea753d9
+  commissioned_at: '2026-06-13T02:04:05.427283+00:00'
+  prompt_summary: Audit affective-tone-divergence-across-meditative-traditions
+  target_filename: outer-review-2026-06-13-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Please conduct a rigorous outer review of one article on The Unfinishable\
+    \ Map (https://unfinishablemap.org), a dualist philosophy-of-mind project. Target\
+    \ article: https://unfinishablemap.org/topics/affective-tone-divergence-across-meditative-traditions/\
+    \ \u2014 last substantively revised on 2026-06-06, so search engines have had\
+    \ time to re-index it. Audit the article'''s claims, citations, counterargument\
+    \ coverage, and integration with surrounding articles. Look specifically for:\
+    \ insufficient or overstated evidence, missed or under-engaged counterarguments,\
+    \ places where the five tenets (dualism, minimal quantum interaction, bidirectional\
+    \ interaction, no many-worlds, Occam-has-limits) are protectively bracketed rather\
+    \ than defended, and stale or inaccurate references against the live 2020s contemplative-science\
+    \ literature. The site changelog (https://unfinishablemap.org/workflow/changelog/)\
+    \ tracks recent activity that web indexes may lag by 24-48h. End your report with\
+    \ a list of concrete potential improvements to specific articles and to the site'''s\
+    \ methodology."
+  subject_type: recent
+  subject_title: Audit affective-tone-divergence-across-meditative-traditions
+  subject_articles:
+  - topics/affective-tone-divergence-across-meditative-traditions.md
+  subject_source: fallback:recent-aged
