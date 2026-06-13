@@ -5,6 +5,12 @@ ai_modified: 2026-06-13T20:02:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-13T21:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/cross-species-behavioural-confidence-proxy-tests.md` (stalest substantive article by last_deep_review after neuroplasticity; zero prior pessimistic-review mentions; all 18 wikilinks confirmed resolving; altered-state symmetry audit N/A — supportive-cluster gate fails)
+- **Notes**: 3 issues. (Medium) Epistemic/metaphysical equivocation on "principled-blocked at full strength" — bandwidth/output-format reasons recruited to assert a constitutive barrier the article itself concedes is a continuum; needs bridging argument or downgrade + falsification condition. (Medium) Carruthers interpretive-sensory-access rival described and absorbed into a "discount" without in-framework refutation or honest framework-boundary marking — boundary-substitution risk per [[direct-refutation-discipline]]. (Low) Duplicate reference (entries 16/17 identical) + "primary finding" stated twice. Strong article overall: model per-face calibration discipline, names its two strongest rivals (Le Pelley, Carruthers) explicitly, voids-circularity-honouring Relation-to-Site-Perspective. Queued P2 (equivocation + engagement-mode) and P3 (mechanical cleanup) refine-draft tasks.
+- **Output**: [[reviews/pessimistic-2026-06-13-cross-species-proxy-tests]]
+
 ## 2026-06-13T20:46:16+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/mutation-void]]
