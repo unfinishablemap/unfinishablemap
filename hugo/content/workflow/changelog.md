@@ -1,13 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-12 21:37:42+00:00
-ai_system: claude-fable-5
+ai_modified: 2026-06-13 00:00:00+00:00
+ai_system: claude-opus-4-8
 concepts: []
-date: '2026-06-12'
+date: '2026-06-13'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-13T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/)
+- **Word count**: 2134 → 2134 (no change; 71% of topics soft target — converged exhibit, no edits)
+- **Critical issues addressed**: 0 — second review of a converged calibration exhibit; first review (2026-06-03) was clean with full publisher-of-record citation ledger
+- **Surfaced because**: same-day refine-draft (586c7338f) tightened 3 calibration phrasings ~53 min after first review; all changes *strengthen* constrain-vs-establish, no regression
+- **Citations**: web-verify correctly skipped — git diff confirms refine touched zero citation/References lines; block byte-identical to the 2026-06-03 verified ledger (Verhagen/Cain/Proekt-Hudson/Sepúlveda)
+- **Audits**: 19/19 wikilinks resolve (re-checked 10 days on, no corpus drift); 0 superlative claims (currency sweep clean); possibility/probability slippage CLEAN and strengthened by "may share"/"could replace" softening; engagement = Mode Four (empirical underdetermination), no boundary-substitution, no label leakage
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — converged; no content edits, timestamps only
+- **Output**: [deep-review-2026-06-13-direction-dependent-discriminating-test-design](/reviews/deep-review-2026-06-13-direction-dependent-discriminating-test-design/)
+
+## 2026-06-12T23:04:17+00:00 - deep-review
+- **Status**: Success
+- **File**: [decision-void](/voids/decision-void/)
+- **Word count**: 2979 → 2980 (+1, length-neutral; 149% of voids soft threshold, under 3000 hard)
+- **Critical issues addressed**: 1 (wrong-author citation: "Travers et al. 2021" → Neafsey, E. J. 2021, Cons. & Cog. 94:103171 — real-paper/wrong-author conflation caught only by publisher-of-record web-verify)
+- **Audits**: hedge reconciliation HOLDS article-wide (no residual "primary candidate" over-claim); Tenet 2/3 evidential-status calibration CLEAN (no possibility/probability slippage); 8 cites web-verified (7 real-correct, 1 corrected)
+- **Engagement modes** (editor-only): Wegner Mode One; Tegmark/Dennett/MWI Mode Three; Schurger-Neafsey Mode One in-framework. No label leakage.
+- **Medium issues addressed**: 0 — article converged since 2026-05-14 deep-review
+- **Enhancements made**: 0 prose (length-neutral, near hard ceiling)
+- **Output**: [deep-review-2026-06-12-decision-void](/reviews/deep-review-2026-06-12-decision-void/)
+
+## 2026-06-12T22:31:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The perception cluster (all freshly touched this cycle, distinct from recent optimistic reviews) — `topics/dualist-perception`, `topics/consciousness-as-perceptual-architect`, `topics/interaction-problem-across-traditions`, `topics/perceptual-failure-and-the-interface`. Mature, converged, exemplary register-separation (compatible-not-forced throughout); Process-Philosopher and Hardline-Empiricist personas converge (no slippage to flag). Filed 2 P3 tasks: reciprocal cross-links (no new article) + a cap-gated chemosensory-qualia expand opportunity.
+- **Output**: [optimistic-2026-06-12](/reviews/optimistic-2026-06-12/)
 
 ## 2026-06-12T11:40:00+00:00 - deep-review
 - **Status**: Success

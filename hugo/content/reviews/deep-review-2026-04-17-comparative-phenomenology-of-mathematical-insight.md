@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-17
-**Article**: [Comparative Phenomenology of Mathematical Insight Across Cultures](/topics/comparative-phenomenology-of-mathematical-insight/)
+**Article**: [Comparative Phenomenology of Mathematical Insight Across Cultures](/topics/phenomenology-of-mathematical-understanding/)
 **Previous review**: [2026-04-15b](/reviews/deep-review-2026-04-15b-comparative-phenomenology-of-mathematical-insight/)
 **Context**: Cross-review against the mathematics-consciousness cluster (specifically the new peer article [concession-convergence-philosophy-of-mathematics](/topics/concession-convergence-philosophy-of-mathematics/), added 2026-04-15)
 
@@ -50,7 +50,7 @@ No new attributions added. The new paragraph references Brouwer's intuitionism, 
 - Added paragraph in §The Convergence Beneath Variation connecting phenomenological evidence to the concession-convergence theoretical pattern, using Brouwer's intuitionism as the explicit crossover point
 - Added [concession-convergence-philosophy-of-mathematics](/topics/concession-convergence-philosophy-of-mathematics/) to Further Reading with annotation distinguishing it as the theoretical complement
 - Added [concession-convergence-philosophy-of-mathematics](/topics/concession-convergence-philosophy-of-mathematics/) to related_articles frontmatter
-- Reciprocally, added [comparative-phenomenology-of-mathematical-insight](/topics/comparative-phenomenology-of-mathematical-insight/) to concession-convergence-philosophy-of-mathematics.md (related_articles + inline mention in §The Parallel with Consciousness)
+- Reciprocally, added [comparative-phenomenology-of-mathematical-insight](/topics/phenomenology-of-mathematical-understanding/) to concession-convergence-philosophy-of-mathematics.md (related_articles + inline mention in §The Parallel with Consciousness)
 
 ### Cross-links Added
 - [concession-convergence-philosophy-of-mathematics](/topics/concession-convergence-philosophy-of-mathematics/) (inline + Further Reading + related_articles)

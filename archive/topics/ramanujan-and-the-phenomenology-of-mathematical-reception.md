@@ -29,6 +29,11 @@ ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-03
 last_curated:
 last_deep_review: 2026-06-03T18:05:00+00:00
+archived: true
+archived_date: 2026-06-13T00:31:52+00:00
+superseded_by: "/topics/phenomenology-of-mathematical-understanding/"
+archive_reason: "Coalesced into The Phenomenology of Mathematical Understanding"
+original_path: "/topics/ramanujan-and-the-phenomenology-of-mathematical-reception/"
 ---
 
 Srinivasa Ramanujan (1887–1920) reported that mathematical formulas were given to him in dreams and visions, which he attributed to the family goddess Namagiri. He produced thousands of results—infinite series, continued fractions, modular identities—many of extraordinary depth, often without proofs and without any account of derivation that he could supply on request. This makes Ramanujan the most cited concrete case in any argument that mathematical insight resists computational explanation. It also makes him the most dangerous case to cite carelessly, because the anecdotes are heavily mythologised and the phenomenology is exactly the kind of self-report that a deflationary account predicts would be unreliable. This article treats Ramanujan as a *worked exhibit in register-separation discipline*: a demonstration of what a reception phenomenology can and cannot establish, where every claim is held at its proper evidential tier. The Hardy collaboration is the hinge—not because it proves anything about consciousness, but because it externally validates *that there is a pattern of reliability to be explained at all*.

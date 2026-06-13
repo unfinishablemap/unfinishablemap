@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-06-03
-**Article**: [Ramanujan and the Phenomenology of Mathematical Reception](/topics/ramanujan-and-the-phenomenology-of-mathematical-reception/)
+**Article**: [Ramanujan and the Phenomenology of Mathematical Reception](/topics/phenomenology-of-mathematical-understanding/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

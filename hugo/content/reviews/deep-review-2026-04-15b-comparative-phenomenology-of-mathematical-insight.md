@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-15
-**Article**: [Comparative Phenomenology of Mathematical Insight Across Cultures](/topics/comparative-phenomenology-of-mathematical-insight/)
+**Article**: [Comparative Phenomenology of Mathematical Insight Across Cultures](/topics/phenomenology-of-mathematical-understanding/)
 **Previous review**: [2026-04-15 (earlier)](/reviews/deep-review-2026-04-15-comparative-phenomenology-of-mathematical-insight/)
 **Context**: Orphan integration — article had no inbound links
 

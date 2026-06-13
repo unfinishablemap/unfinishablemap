@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-15
-**Article**: [Comparative Phenomenology of Mathematical Insight Across Cultures](/topics/comparative-phenomenology-of-mathematical-insight/)
+**Article**: [Comparative Phenomenology of Mathematical Insight Across Cultures](/topics/phenomenology-of-mathematical-understanding/)
 **Previous review**: [2026-04-14](/reviews/deep-review-2026-04-14-comparative-phenomenology-of-mathematical-insight/)
 **Context**: Cross-review against [consciousness-and-mathematics](/topics/consciousness-and-mathematics/)
 

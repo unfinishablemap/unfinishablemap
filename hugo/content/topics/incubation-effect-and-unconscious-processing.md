@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-06-02 17:38:23.024884+00:00
+ai_modified: 2026-06-13 00:31:52+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -30,7 +30,7 @@ related_articles:
 - '[[consciousness-and-mathematics]]'
 - '[[surprise-prediction-error-and-consciousness]]'
 - '[[creative-aesthetic-void]]'
-- '[[ramanujan-and-the-phenomenology-of-mathematical-reception]]'
+- '[[phenomenology-of-mathematical-understanding]]'
 title: The Incubation Effect and Unconscious Processing
 topics:
 - '[[hard-problem-of-consciousness]]'

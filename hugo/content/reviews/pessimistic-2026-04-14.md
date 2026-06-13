@@ -12,7 +12,7 @@ title: Pessimistic Review - 2026-04-14
 # Pessimistic Review
 
 **Date**: 2026-04-14
-**Content reviewed**: [topics/comparative-phenomenology-of-mathematical-insight.md](/topics/comparative-phenomenology-of-mathematical-insight/), [topics/pragmatist-normative-bridge.md](/topics/pragmatisms-path-to-dualism/), [concepts/metarepresentation-threshold.md](/concepts/metacognition/)
+**Content reviewed**: [topics/comparative-phenomenology-of-mathematical-insight.md](/topics/phenomenology-of-mathematical-understanding/), [topics/pragmatist-normative-bridge.md](/topics/pragmatisms-path-to-dualism/), [concepts/metarepresentation-threshold.md](/concepts/metacognition/)
 
 ## Executive Summary
 
@@ -71,7 +71,7 @@ Three recent articles demonstrate the Map's characteristic ambition in synthesis
 ## Critical Issues
 
 ### Issue 1: Evidential Gap in Cross-Cultural Phenomenology
-- **File**: [topics/comparative-phenomenology-of-mathematical-insight.md](/topics/comparative-phenomenology-of-mathematical-insight/)
+- **File**: [topics/comparative-phenomenology-of-mathematical-insight.md](/topics/phenomenology-of-mathematical-understanding/)
 - **Location**: §Variations in the Experience of Proof
 - **Problem**: The article claims cross-cultural phenomenological variation but derives all evidence from historical texts about mathematical *methods*, not first-person phenomenological *reports*. Hadamard surveyed only Western mathematicians. No controlled cross-cultural study of mathematical phenomenology is cited because none appears to exist. The article presents scholarly reconstruction as phenomenological evidence.
 - **Severity**: High
@@ -99,7 +99,7 @@ Three recent articles demonstrate the Map's characteristic ambition in synthesis
 - **Recommendation**: The dualist reading should be that the neural substrate is *necessary but not sufficient* — BA10 is the interface through which consciousness enables metarepresentation. But the article should explicitly argue this rather than letting the neural evidence stand uninterpreted.
 
 ### Issue 5: Either-Or Dilemma Is Incomplete
-- **File**: [topics/comparative-phenomenology-of-mathematical-insight.md](/topics/comparative-phenomenology-of-mathematical-insight/)
+- **File**: [topics/comparative-phenomenology-of-mathematical-insight.md](/topics/phenomenology-of-mathematical-understanding/)
 - **Location**: §What Variation Reveals About Consciousness
 - **Problem**: The "if genuine difference / if different descriptions" dilemma omits a third possibility: that the descriptions are post-hoc rationalisations shaped by cultural philosophy, bearing little relation to either uniform or varying phenomenal experience. Under this interpretation, the variation in reports reveals the influence of philosophical frameworks on self-report, not anything about consciousness or qualia.
 - **Severity**: Medium

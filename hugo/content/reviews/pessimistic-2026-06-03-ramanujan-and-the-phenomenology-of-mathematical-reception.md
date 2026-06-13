@@ -13,7 +13,7 @@ title: Pessimistic Review - 2026-06-03 - Ramanujan and the Phenomenology of Math
 # Pessimistic Review
 
 **Date**: 2026-06-03
-**Content reviewed**: [topics/ramanujan-and-the-phenomenology-of-mathematical-reception.md](/topics/ramanujan-and-the-phenomenology-of-mathematical-reception/)
+**Content reviewed**: [topics/ramanujan-and-the-phenomenology-of-mathematical-reception.md](/topics/phenomenology-of-mathematical-understanding/)
 
 ## Executive Summary
 
@@ -22,7 +22,7 @@ This is an unusually well-disciplined article. It is built explicitly as a regis
 ## Critical Issues
 
 ### Issue 1: Impossible date for the second Ramanujan→Hardy letter (citation/factual defect)
-- **File**: [topics/ramanujan-and-the-phenomenology-of-mathematical-reception.md](/topics/ramanujan-and-the-phenomenology-of-mathematical-reception/)
+- **File**: [topics/ramanujan-and-the-phenomenology-of-mathematical-reception.md](/topics/phenomenology-of-mathematical-understanding/)
 - **Location**: "What Is Actually Documented" → "His early letters to Hardy (16 January and **29 February 1913**)..."
 - **Problem**: **1913 was not a leap year, so 29 February 1913 does not exist.** The standard sources (Berndt & Rankin, *Ramanujan: Letters and Commentary*, which the article cites as reference 3) give the second letter as **27 February 1913**. Web-verified at multiple sources of record. The first letter date (16 January 1913) is correct. This is exactly the recent/specialist-cite defect class (ai_citation_metadata_unreliable) — a precise-looking date that intra-corpus consistency would never catch.
 - **Severity**: Medium (single wrong date in an otherwise well-attested factual list; not load-bearing to the argument, but it is in the article's "what is well attested" section, so the error undercuts the article's own evidential-discipline brand).

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-06-03 00:00:00+00:00
+ai_modified: 2026-06-13 00:31:52+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -49,7 +49,7 @@ related_articles:
 - '[[pragmatism]]'
 - '[[cognitive-phenomenology-and-the-irreducibility-of-thought]]'
 - '[[phenomenology-of-linguistic-failure]]'
-- '[[comparative-phenomenology-of-mathematical-insight]]'
+- '[[phenomenology-of-mathematical-understanding]]'
 - '[[imagery-void]]'
 - '[[the-quantitative-comprehension-void]]'
 - '[[noetic-feelings-void]]'
@@ -101,7 +101,7 @@ Hearing "bank" and understanding it as a financial institution versus a riverban
 
 ### Sudden Insight
 
-"Aha" moments have phenomenal character preceding accompanying imagery or emotion. [Mathematical insight](/topics/consciousness-and-mathematics/) is the paradigm: solutions arrive fully formed, with phenomenal character distinct from mechanical verification. The [cross-cultural record](/topics/comparative-phenomenology-of-mathematical-insight/) adds that different traditions report qualitatively distinct experiential structures for the same content.
+"Aha" moments have phenomenal character preceding accompanying imagery or emotion. [Mathematical insight](/topics/consciousness-and-mathematics/) is the paradigm: solutions arrive fully formed, with phenomenal character distinct from mechanical verification. The [cross-cultural record](/topics/phenomenology-of-mathematical-understanding/) adds that different traditions report qualitatively distinct experiential structures for the same content.
 
 ### Temporal Structure and Expert Perception
 

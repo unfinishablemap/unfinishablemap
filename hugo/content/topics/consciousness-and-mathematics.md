@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-28
-ai_modified: 2026-06-03 09:43:57+00:00
+ai_modified: 2026-06-13 00:31:52+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -58,9 +58,9 @@ related_articles:
 - '[[intrinsic-nature-void]]'
 - '[[argument-from-reason]]'
 - '[[epistemic-advantages-of-dualism]]'
-- '[[comparative-phenomenology-of-mathematical-insight]]'
+- '[[phenomenology-of-mathematical-understanding]]'
 - '[[concession-convergence-philosophy-of-mathematics]]'
-- '[[ramanujan-and-the-phenomenology-of-mathematical-reception]]'
+- '[[phenomenology-of-mathematical-understanding]]'
 title: Consciousness and Mathematics
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -156,7 +156,7 @@ Mathematicians overwhelmingly describe their work as finding rather than inventi
 
 ### Ramanujan and the Phenomenology of Reception
 
-Srinivasa Ramanujan produced thousands of results of extraordinary depth that he described as received in dreams and visions. Many involved infinite series and continued fractions whose derivations, if any existed, were far from obvious—making brute mechanical search an implausible explanation. Something in his cognitive process tracked mathematical truth with notable (though imperfect) reliability. Crucially, this is a report of the *pattern to be explained*, not evidence for any particular mechanism: the reception phenomenology on its own cannot decide between a consciousness-doing-epistemic-work reading and a wholly computational subliminal-search reading, and his documented errors (an unsound prime-counting argument) rule out treating his intuition as a truth-oracle. What converts the uncheckable first-person report into a public fact is external validation: Hardy's verification of the formulas. The [standalone treatment of Ramanujan as a worked exhibit in register-separation](/topics/ramanujan-and-the-phenomenology-of-mathematical-reception/) develops the confabulation objection, the Hardy hinge, and exactly what the case can and cannot establish.
+Srinivasa Ramanujan produced thousands of results of extraordinary depth that he described as received in dreams and visions. Many involved infinite series and continued fractions whose derivations, if any existed, were far from obvious—making brute mechanical search an implausible explanation. Something in his cognitive process tracked mathematical truth with notable (though imperfect) reliability. Crucially, this is a report of the *pattern to be explained*, not evidence for any particular mechanism: the reception phenomenology on its own cannot decide between a consciousness-doing-epistemic-work reading and a wholly computational subliminal-search reading, and his documented errors (an unsound prime-counting argument) rule out treating his intuition as a truth-oracle. What converts the uncheckable first-person report into a public fact is external validation: Hardy's verification of the formulas. The [worked exhibit on Ramanujan in register-separation](/topics/phenomenology-of-mathematical-understanding/#the-ramanujan-exhibit-a-worked-case-in-register-discipline) develops the confabulation objection, the Hardy hinge, and exactly what the case can and cannot establish.
 
 ### External Validation
 
@@ -208,7 +208,7 @@ The [zombie](/concepts/philosophical-zombies/) reformulation: a zombie mathemati
 
 **Dissolution of the felt difference.** If careful investigation revealed that the difference between verifying a proof and understanding it is a cognitive illusion carrying no additional information.
 
-The view would be supported by continued failure of AI to achieve transformational mathematical creativity, [cross-cultural convergence on insight's distinctive phenomenal character](/topics/comparative-phenomenology-of-mathematical-insight/), and successful arguments showing why understanding *must* be phenomenal.
+The view would be supported by continued failure of AI to achieve transformational mathematical creativity, [cross-cultural convergence on insight's distinctive phenomenal character](/topics/phenomenology-of-mathematical-understanding/), and successful arguments showing why understanding *must* be phenomenal.
 
 ## Further Reading
 

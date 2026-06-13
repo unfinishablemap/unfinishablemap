@@ -4,7 +4,7 @@ description: "Formalism, logicism, intuitionism, and structuralism each independ
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-06-09T21:38:32+00:00
+ai_modified: 2026-06-13T00:31:52+00:00
 draft: false
 topics:
   - "[[consciousness-and-mathematics]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[the-quantitative-comprehension-void]]"
   - "[[formal-cognitive-limits]]"
   - "[[phenomenology-of-intellectual-life]]"
-  - "[[comparative-phenomenology-of-mathematical-insight]]"
+  - "[[phenomenology-of-mathematical-understanding]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -105,7 +105,7 @@ This also addresses the equivocation worry. Gödel's theorems constrain recursiv
 
 The structural parallel between mathematical and consciousness concession convergence is precise. In consciousness studies, physicalist theories narrow toward acknowledging that functional organisation alone cannot account for experience. In philosophy of mathematics, reductionist theories seem to narrow toward acknowledging that formal systems alone cannot account for understanding.
 
-Both convergences point toward the same gap—between third-person description (functional, formal) and first-person capacity (experience, understanding). The Map's [[consciousness-and-mathematics|treatment of mathematics and consciousness]] argues that these are not merely analogous but connected: [[cognitive-phenomenology|the phenomenal character of mathematical insight]]—the felt necessity of proof, the sense of grasping *why* a theorem holds—is how the epistemic access works, not a decorative accompaniment to formal inference. The [[comparative-phenomenology-of-mathematical-insight|cross-cultural phenomenology of mathematical insight]] supplies the matching first-person evidence: where the present article shows reductive theories conceding the gap from above, that article shows mathematicians from incompatible traditions reporting it from below.
+Both convergences point toward the same gap—between third-person description (functional, formal) and first-person capacity (experience, understanding). The Map's [[consciousness-and-mathematics|treatment of mathematics and consciousness]] argues that these are not merely analogous but connected: [[cognitive-phenomenology|the phenomenal character of mathematical insight]]—the felt necessity of proof, the sense of grasping *why* a theorem holds—is how the epistemic access works, not a decorative accompaniment to formal inference. The [[phenomenology-of-mathematical-understanding|cross-cultural phenomenology of mathematical insight]] supplies the matching first-person evidence: where the present article shows reductive theories conceding the gap from above, that article shows mathematicians from incompatible traditions reporting it from below.
 
 If the concession-convergence pattern identifies genuine structural features of the territory rather than artefacts of current theorising, then the appearance of the same pattern across both domains may strengthen the case that the underlying issue is the same: conscious understanding is irreducible to formal or physical process. Whether the pattern tracks the territory or current theorising is precisely what the evidence cannot settle on its own—the convergence constrains the space of readings without forcing the dualist one.
 

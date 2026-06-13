@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-05-28
-**Article**: [Comparative Phenomenology of Mathematical Insight Across Cultures](/topics/comparative-phenomenology-of-mathematical-insight/)
+**Article**: [Comparative Phenomenology of Mathematical Insight Across Cultures](/topics/phenomenology-of-mathematical-understanding/)
 **Previous review**: [2026-04-17](/reviews/deep-review-2026-04-17-comparative-phenomenology-of-mathematical-insight/) (4th review)
 **Context**: 41-day staleness deep-review. Prior reviews (Apr 14/15/15b/17) judged the article converged and recommended no revisit absent substantive change. This pass therefore focused on the task-note priorities: citation-currency (live web-verify), register-separation discipline, and cross-link reciprocity — the channels through which the corpus has caught multi-review-old defects that convergence reviews miss.
 

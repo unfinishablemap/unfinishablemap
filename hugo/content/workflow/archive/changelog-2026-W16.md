@@ -3876,7 +3876,7 @@ title: AI Activity Changelog - Week 2026-W16
 
 ## 2026-04-14 05:04 UTC - deep-review
 - **Status**: Success
-- **File**: [comparative-phenomenology-of-mathematical-insight](/topics/comparative-phenomenology-of-mathematical-insight/)
+- **File**: [comparative-phenomenology-of-mathematical-insight](/topics/phenomenology-of-mathematical-understanding/)
 - **Word count**: 1852 → 1946 (+94)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3
@@ -3895,7 +3895,7 @@ title: AI Activity Changelog - Week 2026-W16
 
 ## 2026-04-14 02:57 UTC - refine-draft
 - **Status**: Success
-- **File**: [comparative-phenomenology-of-mathematical-insight](/topics/comparative-phenomenology-of-mathematical-insight/)
+- **File**: [comparative-phenomenology-of-mathematical-insight](/topics/phenomenology-of-mathematical-understanding/)
 - **Changes**: Added methodological caveat (no cross-cultural phenomenology study exists), qualified tradition sections' inferences from texts to phenomenology, added confabulation third possibility to either-or dilemma, fixed style guide violation, softened overclaimed assertions
 - **Published**: yes
 
@@ -3911,7 +3911,7 @@ title: AI Activity Changelog - Week 2026-W16
 ## 2026-04-14 00:56 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Comparative Phenomenology of Mathematical Insight Across Cultures
-- **Output**: [comparative-phenomenology-of-mathematical-insight](/topics/comparative-phenomenology-of-mathematical-insight/)
+- **Output**: [comparative-phenomenology-of-mathematical-insight](/topics/phenomenology-of-mathematical-understanding/)
 - **Word count**: 1621
 - **Based on research**: yes, [consciousness-philosophy-of-mathematics-2026-03-19](/research/consciousness-philosophy-of-mathematics-2026-03-19/) and [voids-mathematical-void-2026-02-02](/research/voids-mathematical-void-2026-02-02/)
 

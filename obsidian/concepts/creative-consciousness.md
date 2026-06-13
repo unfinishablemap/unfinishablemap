@@ -4,7 +4,7 @@ description: "Consciousness contributes to creativity by generating possibilitie
 created: 2026-01-19
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-06-02T05:51:34+00:00
+ai_modified: 2026-06-13T00:31:52+00:00
 last_deep_review: 2026-06-02T05:51:34+00:00
 draft: false
 topics:
@@ -35,7 +35,7 @@ related_articles:
   - "[[consciousness-and-skill-acquisition]]"
   - "[[incubation-effect-and-unconscious-processing]]"
   - "[[consciousness-and-cognitive-distinctiveness]]"
-  - "[[ramanujan-and-the-phenomenology-of-mathematical-reception]]"
+  - "[[phenomenology-of-mathematical-understanding]]"
   - "[[phenomenology-of-intellectual-life]]"
   - "[[phenomenology-of-choice-and-volition]]"
   - "[[phenomenology-of-conceptual-frameworks]]"
@@ -44,7 +44,7 @@ related_articles:
   - "[[categorical-surprise]]"
   - "[[philosophy-of-science-under-dualism]]"
   - "[[aesthetics-and-consciousness]]"
-  - "[[comparative-phenomenology-of-mathematical-insight]]"
+  - "[[phenomenology-of-mathematical-understanding]]"
   - "[[creative-aesthetic-void]]"
   - "[[noetic-feelings-void]]"
 ai_contribution: 100
@@ -103,7 +103,7 @@ Scientific insight adds a felt *contact* between mind and world when data valida
 
 ## Aesthetic Experience in Theory Choice
 
-Scientists regularly describe theoretical insight in aesthetic terms. Dirac remarked that "it is more important to have beauty in one's equations than to have them fit experiment." Poincaré (1908) argued that mathematical intuition operates through a "special aesthetic sensibility" (see [[consciousness-and-mathematics]] for the full phenomenology of mathematical insight). This aesthetic sensibility appears cross-culturally with characteristic variation: Greek mathematicians emphasised visual clarity, Indian mathematicians described constructive deepening, Chinese mathematicians reported felt harmony — a [[comparative-phenomenology-of-mathematical-insight|pattern]] suggesting aesthetic response is genuinely phenomenal rather than confabulated. The felt sense that a theory is *right* before full testing involves a qualitative dimension resisting [[functionalism|functional]] reduction.
+Scientists regularly describe theoretical insight in aesthetic terms. Dirac remarked that "it is more important to have beauty in one's equations than to have them fit experiment." Poincaré (1908) argued that mathematical intuition operates through a "special aesthetic sensibility" (see [[consciousness-and-mathematics]] for the full phenomenology of mathematical insight). This aesthetic sensibility appears cross-culturally with characteristic variation: Greek mathematicians emphasised visual clarity, Indian mathematicians described constructive deepening, Chinese mathematicians reported felt harmony — a [[phenomenology-of-mathematical-understanding|pattern]] suggesting aesthetic response is genuinely phenomenal rather than confabulated. The felt sense that a theory is *right* before full testing involves a qualitative dimension resisting [[functionalism|functional]] reduction.
 
 ## L-Creativity and Metaphysical Novelty
 

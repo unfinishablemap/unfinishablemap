@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-14
-**Article**: [Comparative Phenomenology of Mathematical Insight Across Cultures](/topics/comparative-phenomenology-of-mathematical-insight/)
+**Article**: [Comparative Phenomenology of Mathematical Insight Across Cultures](/topics/phenomenology-of-mathematical-understanding/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

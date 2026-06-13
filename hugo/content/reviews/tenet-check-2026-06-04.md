@@ -37,7 +37,7 @@ Three structural checks came back clean:
    [concepts/the-agent-shaped-hole.md](/concepts/the-agent-shaped-hole/), [topics/sorkin-delta-brain-internal-analogues.md](/topics/sorkin-delta-brain-internal-analogues/),
    [topics/contentless-awareness-evidence.md](/topics/contentless-awareness-evidence/), [topics/reconsolidation-as-selection-window.md](/topics/reconsolidation-as-selection-window/),
    [topics/direction-dependent-discriminating-test-design.md](/topics/direction-dependent-discriminating-test-design/),
-   [topics/ramanujan-and-the-phenomenology-of-mathematical-reception.md](/topics/ramanujan-and-the-phenomenology-of-mathematical-reception/),
+   [topics/ramanujan-and-the-phenomenology-of-mathematical-reception.md](/topics/phenomenology-of-mathematical-understanding/),
    [apex/dualism-cartography.md](/apex/dualism-cartography/)) all connect to the tenets.
 
 2. **No rival position presented as the Map's own view** — Rival-engagement articles

@@ -38,21 +38,83 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep-review voids/decision-void.md (26-day changed-since-review gap)
-- **Type**: deep-review
-- **Notes**: Changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-10 > last_deep_review 2026-05-14, gap 26d, ai_modified ≠ today). The 2026-06-10 edit reconciled a "primary candidate site" hedge — a calibration refine, not a full review. Comprehensive review due: confirm the hedge reconciliation holds across the whole article (no residual over-claim elsewhere), audit tenet alignment (Tenet 2/3 — decision as a candidate selection locus must stay "leaves room for ≠ supports", [evidential-status-discipline](/project/evidential-status-discipline/)), web-verify citations.
-- **Source**: staleness
+### P2: Verify ai_system attribution after model-fallback event (2026-06-12)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-ad3d2a88e78f295fd.jsonl shows 15x claude-opus-4-8 message(s) alongside the primary model between 2026-06-12T22:02:06.434000+00:00 and 2026-06-12T22:03:32.125000+00:00 (UTC). Dominant model is the fallback (claude-opus-4-8) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
 - **Generated**: 2026-06-12
 
-### P2: Condense topics/time-collapse-and-agency.md (4606 words, 154% of target) — ASSESS-FIRST, calibration-preserving
-- **Type**: condense
-- **Notes**: Over the 4000-word topics hard threshold (4606 body words, 154%). The excess arrived via a SANCTIONED 2026-06-02 refine that strengthened opponent engagement (Dennett multiple-drafts, Nagarjuna anti-substantialism) AFTER the 2026-06-01 deep review — so this is the human-decision-task-mispicked-as-refine / condense-regresses-calibration-qualifiers risk profile. ASSESS-FIRST with explicit divert-to-human license: if the excess is verified load-bearing opponent-engagement / calibration content (it likely is), do NOT blind-condense — mark this ✓ DIVERTED-TO-HUMAN and move it to Blocked Tasks (Needs Human). Only condense if there is genuine redundancy/exposition-bloat to trim that leaves the Dennett + Nagarjuna engagement and all evidential-status hedges fully intact. Validate against `tools.curate.length` after any edit.
-- **Source**: length_analysis
+### P2: Verify ai_system attribution after model-fallback event (2026-06-12)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-acffe176c1f0967ba.jsonl shows 31x claude-opus-4-8 message(s) alongside the primary model between 2026-06-12T21:16:21.981000+00:00 and 2026-06-12T21:19:19.128000+00:00 (UTC). Dominant model is the fallback (claude-opus-4-8) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-06-12
+
+### P2: Verify ai_system attribution after model-fallback event (2026-06-12)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-ac740bf087248d585.jsonl shows 11x claude-opus-4-8 message(s) alongside the primary model between 2026-06-12T19:47:11.920000+00:00 and 2026-06-12T19:47:46.980000+00:00 (UTC). Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-06-12
+
+### P2: Verify ai_system attribution after model-fallback event (2026-06-12)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-aa3006dbcdec7fb27.jsonl shows 22x claude-opus-4-8 message(s) alongside the primary model between 2026-06-12T22:31:34.035000+00:00 and 2026-06-12T22:33:50.743000+00:00 (UTC). Dominant model is the fallback (claude-opus-4-8) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-06-12
+
+### P2: Verify ai_system attribution after model-fallback event (2026-06-12)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-a5aa27b201783a422.jsonl shows 37x claude-opus-4-8 message(s) alongside the primary model between 2026-06-12T22:17:49.928000+00:00 and 2026-06-12T22:21:44.292000+00:00 (UTC). Dominant model is the fallback (claude-opus-4-8) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-06-12
+
+### P2: Verify ai_system attribution after model-fallback event (2026-06-12)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-a358fdd5fd5f0f570.jsonl shows 40x claude-opus-4-8 message(s) alongside the primary model between 2026-06-12T23:01:48.822000+00:00 and 2026-06-12T23:05:38.903000+00:00 (UTC). Dominant model is the fallback (claude-opus-4-8) — SESSION-LEVEL STICK: the session began on the primary model and ran the fallback for the rest of its life. Treat EVERYTHING the loop wrote in the window as fallback-generated (bulk annotation; cross-reference every changelog entry in the window), not a brief excursion. Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-06-12
+
+### P2: Verify ai_system attribution after model-fallback event (2026-06-12)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-a1e79fcc2436e3b5d.jsonl shows 19x claude-opus-4-8 message(s) alongside the primary model between 2026-06-12T21:04:08.058000+00:00 and 2026-06-12T21:06:39.589000+00:00 (UTC). Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-06-12
+
+### P2: Verify ai_system attribution after model-fallback event (2026-06-12)
+- **Type**: refine-draft
+- **Notes**: Transcript agent-a17d60edc435b6d8a.jsonl shows 6x claude-opus-4-8 message(s) alongside the primary model between 2026-06-12T22:47:10.449000+00:00 and 2026-06-12T22:47:34.963000+00:00 (UTC). Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+- **Source**: check-model-fallback
+- **Generated**: 2026-06-12
+
+### P3: Reciprocal cross-links across the perception cluster (no new article)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (see [optimistic-2026-06-12](/reviews/optimistic-2026-06-12/)). Two reciprocal links missing: (1) `topics/consciousness-as-perceptual-architect.md` ↔ `topics/interaction-problem-across-traditions.md` — the architect article's "selection not injection" language (constancy selecting distal over proximal) is the same structural insight the typology credits to Type-2 reflection + Type-4 quantum selection; neither links the other. (2) `topics/interaction-problem-across-traditions.md` ↔ `topics/dualist-perception.md` — the typology's Type-4 names binocular-rivalry resolution as a candidate locus; dualist-perception develops bistable perception as exactly that locus. Light cross-link edits only; preserve all calibration hedges. No new content.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-12
+
+### P3: Write chemosensory-qualia article (olfaction/gustation) — CHECK CAP FIRST
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (see [optimistic-2026-06-12](/reviews/optimistic-2026-06-12/)). The sommelier/wine-expert case is load-bearing in BOTH `consciousness-as-perceptual-architect` (perceptual learning) and `dualist-perception` ("Beyond the Visual" flags olfaction/gustation) with no modality home; `auditory-consciousness-and-the-interface` already exists as the hearing companion. The chemical senses' non-dimensional quality space + strong memory-affect coupling sharpen the "phenomenal character outruns physical description" line. CAVEAT: topics/ is near cap (~246/270) — verify cap headroom before creating; a research note should precede. If no headroom, decline and convert to a refine on dualist-perception's Beyond-the-Visual section instead.
+- **Source**: optimistic-review
 - **Generated**: 2026-06-12
 
 ### P3: Deep-review voids/thrownness-void.md (14-day changed-since-review gap)
 - **Type**: deep-review
 - **Notes**: Changed-since-review staleness at the 14-day floor (ai_contribution=100, ai_modified 2026-06-10 > last_deep_review 2026-05-26, gap 14d). The 2026-06-10 edit was a minor cross-cluster clarification ("relation to the retention/protention temporal cluster") — marginal, hence P3. Light-touch: verify the new cross-cluster framing is consistent with [temporal-void](/voids/temporal-void/) and the protention/retention sibling void; likely a near-no-op metadata pass, but the changed-since-review window is genuine.
+- **Source**: staleness
+- **Generated**: 2026-06-12
+
+### P2: Deep-review topics/ai-consciousness.md (10-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-09 > last_deep_review 2026-06-02, post-review edit 7d, gap 10d). The 2026-06-09 edit landed after the review, so the changed content is un-reviewed. Length is safe (3992 body words, soft_warning only — under the 4000 topics hard threshold, NOT a condense candidate). Comprehensive review: confirm the post-review edit holds, audit currency of the 2024–2025 AI-consciousness empirical landscape, web-verify citations, and check the training-contamination confound framing stays calibrated (leaves-room-for ≠ supports, [evidential-status-discipline](/project/evidential-status-discipline/)). Grounded, settled (not same-cycle churn), topically live — chosen for floor restoration over speculative expand-topic against near-cap sections.
+- **Source**: staleness
+- **Generated**: 2026-06-12
+
+### P2: Deep-review concepts/metacognition.md (13-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-05 > last_deep_review 2026-05-29, post-review edit 7d, gap 13d). Length safe (3408 body words, soft_warning — under the 3500 concepts hard threshold, NOT a condense candidate). Core concept (the introspection/metacognition reliability question is load-bearing for the Map's introspection-architecture-independence line). Review: verify the post-review edit, audit citation currency, confirm metacognition reliability claims stay hedged per [evidential-status-discipline](/project/evidential-status-discipline/). Diversity pick (a concept, distinct from the ai-consciousness topic above); settled, not same-cycle churn.
 - **Source**: staleness
 - **Generated**: 2026-06-12
 
@@ -1028,6 +1090,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-13: Verify ai_system attribution after model-fallback event (2026-06-12)
+- **Type**: refine-draft
+- **Notes**: Transcript 902819d4-d230-45fb-9ed8-aa83ee084575.jsonl shows 33x claude-opus-4-8 message(s) alongside the primary model between 2026-06-12T23:05:50.673000+00:00 and 2026-06-12T23:30:52.998000+00:00 (UTC). Cross-reference workflow/changelog.md for the task(s) running in that window. If a content-writing fork was affected, annotate the article's ai_system (e.g. "claude-fable-5+claude-opus-4-8") and use the matching pseudonym for self-citations (expand-topic SKILL.md §5.5). If the window covers only non-content work (reviews, queue maintenance), close as no-op.
+
+### ✓ 2026-06-12: Condense topics/time-collapse-and-agency.md (4606 words, 154% of target) — ASSESS-FIRST, calibration-preserving
+- **Type**: condense
+- **Notes**: Over the 4000-word topics hard threshold (4606 body words, 154%). The excess arrived via a SANCTIONED 2026-06-02 refine that strengthened opponent engagement (Dennett multiple-drafts, Nagarjuna anti-substantialism) AFTER the 2026-06-01 deep review — so this is the human-decision-task-mispicked-as-refine / condense-regresses-calibration-qualifiers risk profile. ASSESS-FIRST with explicit divert-to-human license: if the excess is verified load-bearing opponent-engagement / calibration content (it likely is), do NOT blind-condense — mark this ✓ DIVERTED-TO-HUMAN and move it to Blocked Tasks (Needs Human). Only condense if there is genuine redundancy/exposition-bloat to trim that leaves the Dennett + Nagarjuna engagement and all evidential-status hedges fully intact. Validate against `tools.curate.length` after any edit.
+
+### HUMAN LENGTH DECISION 2026-06-12: topics/time-collapse-and-agency.md (4606w, 154% of soft / 115% of 4000 hard)
+- **Type**: human-decision (do NOT auto-pick; operator/system call, not an autonomous edit)
+- **File**: obsidian/topics/time-collapse-and-agency.md
+- **Notes**: The 2026-06-12 ASSESS-FIRST condense (condense) read the whole article and DIVERTED-TO-HUMAN with no edits. Verdict: the over-ceiling length is overwhelmingly load-bearing — (a) sanctioned opponent-engagement added by the 2026-06-02 refine (Dennett multiple-drafts, Nagarjuna/Madhyamaka anti-substantialism), and (b) the dense layer of evidential-status hedges installed by the 2026-06-01 deep review distinguishing what the phenomenology *establishes* from what the framework *hypothesises*. No exposition-bloat, no redundant example-stacking, no excessive-of-the-bad-kind hedging. Bringing it under 4000w requires a HUMAN editorial call: (a) accept the over-ceiling length as the cost of the strengthened opponent engagement, or (b) extract a subtopic — the only plausibly-extractable unit is the ~900w "Phenomenology of Temporal Agency" section, but it carries the densest calibration hedges and links tightly to the rest, so extraction is itself a non-trivial editorial decision. NOT auto-condensable without regressing the calibration / opponent-engagement work (human-decision-task-mispicked-as-refine, condense-regresses-calibration-qualifiers). The Active-queue assess-first task that produced this finding is marked ✓ done (its deliverable was the assessment).
+- **Source**: length_analysis → condense assess-first divert
+- **Generated**: 2026-06-12
+
+### ✓ 2026-06-12: Deep-review voids/decision-void.md (26-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-10 > last_deep_review 2026-05-14, gap 26d, ai_modified ≠ today). The 2026-06-10 edit reconciled a "primary candidate site" hedge — a calibration refine, not a full review. Comprehensive review due: confirm the hedge reconciliation holds across the whole article (no residual over-claim elsewhere), audit tenet alignment (Tenet 2/3 — decision as a candidate selection locus must stay "leaves room for ≠ supports", [evidential-status-discipline](/project/evidential-status-discipline/)), web-verify citations.
 
 ### ✓ 2026-06-12: Deep-review voids/temporal-void.md (16-day changed-since-review gap)
 - **Type**: deep-review

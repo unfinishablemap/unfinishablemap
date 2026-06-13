@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-03
-ai_modified: 2026-06-04 12:00:00+00:00
+ai_modified: 2026-06-13 00:31:52+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -80,7 +80,7 @@ related_articles:
 - '[[phenomenology-of-anticipation]]'
 - '[[topics/phenomenal-value-realism]]'
 - '[[ineffable-encounter-void]]'
-- '[[comparative-phenomenology-of-mathematical-insight]]'
+- '[[phenomenology-of-mathematical-understanding]]'
 - '[[epistemology-of-limit-knowledge]]'
 title: The Phenomenology of Intellectual Life
 topics:
@@ -198,7 +198,7 @@ PCT's reach extends beyond first-order knowing. If the phenomenology of grasping
 
 Contemplative traditions provide independent evidence by revealing meaning's phenomenal character under careful observation. **Beginner's mind** (shoshin) reveals how habitual certainty closes inquiry. **The great doubt** (daigi) intensifies not-understanding until the effort collapses — what follows (kensho) has phenomenal character distinct from ordinary understanding. **[Witness consciousness](/concepts/witness-consciousness/)** practices enable observing understanding as it occurs, distinguishing semantic content, the phenomenal character of grasping it, and metacognitive awareness.
 
-Cross-cultural convergence strengthens the case: Buddhist, Hindu, Sufi, and Christian contemplative traditions independently describe illumination, the shift from effortful seeking to effortless receiving, and the gap between intellectual grasp and experiential realisation. The [comparative phenomenology of mathematical insight](/topics/comparative-phenomenology-of-mathematical-insight/) shows how Greek, Indian, Chinese, and Islamic mathematical traditions report qualitatively distinct experiential structures for the same content.
+Cross-cultural convergence strengthens the case: Buddhist, Hindu, Sufi, and Christian contemplative traditions independently describe illumination, the shift from effortful seeking to effortless receiving, and the gap between intellectual grasp and experiential realisation. The [comparative phenomenology of mathematical insight](/topics/phenomenology-of-mathematical-understanding/) shows how Greek, Indian, Chinese, and Islamic mathematical traditions report qualitatively distinct experiential structures for the same content.
 
 ## Implications for AI
 
@@ -249,7 +249,7 @@ None of these findings currently obtains in the strong form required.
 - [galilean-exclusion](/concepts/galilean-exclusion/) — Why the scientific method excludes phenomenal character
 - [ineffable-encounter-void](/voids/ineffable-encounter-void/) — Where felt significance exceeds articulation
 - [phenomenal intentionality](/concepts/intentionality/#phenomenal-intentionality-theory) — Why genuine aboutness requires phenomenal consciousness
-- [comparative-phenomenology-of-mathematical-insight](/topics/comparative-phenomenology-of-mathematical-insight/) — Cross-cultural phenomenology of insight
+- [phenomenology-of-mathematical-understanding](/topics/phenomenology-of-mathematical-understanding/) — Cross-cultural phenomenology of insight
 - [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) — PCT extended to second-order knowing: the phenomenology of encountering cognitive limits as partly constitutive of knowledge about them
 
 ## References

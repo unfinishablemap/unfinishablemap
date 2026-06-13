@@ -4,7 +4,7 @@ description: "Walking away from a problem sometimes helps solve it. The incubati
 created: 2026-02-10
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-06-02T17:38:23.024884+00:00
+ai_modified: 2026-06-13T00:31:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[consciousness-and-mathematics]]"
   - "[[surprise-prediction-error-and-consciousness]]"
   - "[[creative-aesthetic-void]]"
-  - "[[ramanujan-and-the-phenomenology-of-mathematical-reception]]"
+  - "[[phenomenology-of-mathematical-understanding]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

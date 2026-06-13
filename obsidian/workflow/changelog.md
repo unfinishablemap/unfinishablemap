@@ -5,6 +5,15 @@ ai_modified: 2026-06-13T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-13T00:31:52+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[topics/comparative-phenomenology-of-mathematical-insight]], [[topics/ramanujan-and-the-phenomenology-of-mathematical-reception]]
+- **Target**: [[topics/phenomenology-of-mathematical-understanding]] (3529 words, soft_warning, under 4000 hard threshold — redundancy eliminated from ~4345w of combined source body)
+- **Archived**: [[archive/topics/comparative-phenomenology-of-mathematical-insight]], [[archive/topics/ramanujan-and-the-phenomenology-of-mathematical-reception]]
+- **Slug note**: original intended slug `phenomenology-of-mathematical-insight` REJECTED — collided with an existing archive-redirect (a 2026-03-15 archived article claims that URL → mathematical-knowledge-and-insight). check_slug.py passed (no LIVE collision) but the redirect generator flattened the new live page's URL to consciousness-and-mathematics. Used `phenomenology-of-mathematical-understanding` (clean of both live files and archive redirects).
+- **References repointed**: 6 live files (consciousness-and-mathematics, concession-convergence-philosophy-of-mathematics, creative-consciousness, cognitive-phenomenology, incubation-effect-and-unconscious-processing, phenomenology-of-intellectual-life) — all inbound wikilinks updated to new slug, ai_modified bumped; no orphan/cross-review follow-up needed
+- **Section pressure**: topics 268→267/270 (freed one slot in the most-pressured section)
+
 ## 2026-06-13T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/direction-dependent-discriminating-test-design]]

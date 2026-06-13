@@ -17,7 +17,7 @@ title: Optimistic Review - 2026-05-25d
 - [topics/consciousness-and-mathematics.md](/topics/consciousness-and-mathematics/) — the hub article
 - [topics/mathematical-structure-of-the-consciousness-physics-interface.md](/topics/mathematical-structure-of-the-consciousness-physics-interface/) — the physics-facing companion
 - [topics/concession-convergence-philosophy-of-mathematics.md](/topics/concession-convergence-philosophy-of-mathematics/) — the foundational-programmes argument
-- [topics/comparative-phenomenology-of-mathematical-insight.md](/topics/comparative-phenomenology-of-mathematical-insight/) — the cross-cultural first-person evidence
+- [topics/comparative-phenomenology-of-mathematical-insight.md](/topics/phenomenology-of-mathematical-understanding/) — the cross-cultural first-person evidence
 - [topics/self-reference-and-the-limits-of-physical-description.md](/topics/self-reference-and-the-limits-of-physical-description/) — the Gödel/measurement unification
 
 Selected because reviewing them as a unit makes a rare structural achievement directly observable: a five-article cluster that runs the *same* claim (conscious mathematical understanding is irreducible) through four independent argumentative registers — ontological, phenomenological, foundational-historical, and formal-mathematical — while keeping the modal register of each claim scrupulously distinct. The cluster is also a stress test for the Process-Philosopher/Hardline-Empiricist tension, because mathematics is exactly where a sympathetic reviewer is most tempted to over-claim.
