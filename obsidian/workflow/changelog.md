@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-13T23:18:00+00:00
+ai_modified: 2026-06-13T23:32:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-13T23:32:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/cross-cultural-phenomenology-of-agency]]
+- **Word count**: 2407 → 2407 (no change; clean no-op pass, 80% of 3000 topics soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Seventh deep review (changed-since-review staleness from one post-sixth-review own-content edit, commit `596a220f8`). Verified the post-review calibration softening holds coherently and improves register: Markus & Kitayama sentence "confirms"→"documents", "show that...emphasise/distribute"→"find that...tend to emphasise/tend to distribute" — correct hedging for a contested 1991 cross-cultural framework. Re-web-verified both load-bearing cites at publisher of record (Slingerland 2003 OUP ISBN 9780195314878; Markus & Kitayama 1991 Psychological Review 98(2):224–253) — both real-correct. Garfield/Thompson/Whitehead standard refs unchanged. Tradition-recruitment check (task-flagged): NO defect — article explicitly disavows recruiting wu-wei/anatta as support ("the Buddhist tradition itself resists the language of choosing"); thesis rests on phenomenal-invariant survival, not tradition endorsement. Calibration clean: no possibility/probability slippage, no boundary-substitution, no editor-label leakage. All wikilinks resolve. Frontmatter/timestamp-only verdict — only last_deep_review advanced; ai_modified/ai_system unchanged so the article doesn't spuriously re-qualify next cycle.
+- **Output**: [[reviews/deep-review-2026-06-13-cross-cultural-phenomenology-of-agency]]
 
 ## 2026-06-13T23:18:00+00:00 - deep-review
 - **Status**: Success

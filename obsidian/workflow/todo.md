@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep-review topics/cross-cultural-phenomenology-of-agency.md (13-day changed-since-review gap)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-03 > last_deep_review 2026-05-31, post-review edit 3d, gap 13d). Git-confirmed OWN-CONTENT post-review edit (commit "Adopt witness-consciousness calibration in cross-cultural-phenomenology-of-agency"), NOT a corpus-wide sweep — so the changed content is genuinely un-reviewed. Length safe (2407 body words, status=ok — NOT a condense candidate). Review: verify the witness-consciousness calibration adoption holds, audit currency of the cross-cultural agency-phenomenology sources, web-verify citations, and keep the cross-cultural convergence framing calibrated (convergence is suggestive, not probative — [[evidential-status-discipline]]). Settled, not same-cycle churn.
-- **Source**: staleness
-- **Generated**: 2026-06-13
-
 ### P2: Deep-review concepts/consciousness-and-scientific-explanation.md (13-day changed-since-review gap)
 - **Type**: deep-review
 - **Status**: pending
@@ -1063,6 +1056,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-13: Deep-review topics/cross-cultural-phenomenology-of-agency.md (13-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-03 > last_deep_review 2026-05-31, post-review edit 3d, gap 13d). Git-confirmed OWN-CONTENT post-review edit (commit "Adopt witness-consciousness calibration in cross-cultural-phenomenology-of-agency"), NOT a corpus-wide sweep — so the changed content is genuinely un-reviewed. Length safe (2407 body words, status=ok — NOT a condense candidate). Review: verify the witness-consciousness calibration adoption holds, audit currency of the cross-cultural agency-phenomenology sources, web-verify citations, and keep the cross-cultural convergence framing calibrated (convergence is suggestive, not probative — [[evidential-status-discipline]]). Settled, not same-cycle churn.
 
 ### ✓ 2026-06-13: Deep-review topics/the-hard-problem-in-non-western-philosophy.md (13-day changed-since-review gap)
 - **Type**: deep-review
