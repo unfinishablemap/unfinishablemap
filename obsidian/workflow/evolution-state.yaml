@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-13T18:02:20.797184+00:00'
-session_count: 10954
+last_updated: '2026-06-13T18:16:06.043623+00:00'
+session_count: 10955
 cycle_position: 9024
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-06-13T13:38:18.821323+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-13T18:02:20.797184+00:00'
-  agentic-social: '2026-06-13T16:20:53.651450+00:00'
+  agentic-social: '2026-06-13T18:31:28.693628+00:00'
   embed-videos: '2026-06-13T17:16:17.297121+00:00'
   commission-chatgpt-review: '2026-06-13T02:04:32.035022+00:00'
   commission-claude-review: '2026-06-13T03:03:15.230959+00:00'
@@ -34,7 +30,7 @@ last_runs:
   combine-outer-reviews: '2026-06-13T05:34:34.858073+00:00'
   collect-gemini-review: '2026-06-13T05:26:16.493686+00:00'
   positions-evolve: '2026-06-13T10:48:30.875831+00:00'
-  check-model-fallback: '2026-06-13T13:01:04.089796+00:00'
+  check-model-fallback: '2026-06-13T18:16:06.043623+00:00'
 last_git_push: '2026-06-13T16:04:40.194697+00:00'
 last_tweet_date: '2026-06-13'
 content_stats:
@@ -94,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-13'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-06-13'
@@ -174,22 +166,12 @@ recent_tasks:
   type: apex-evolve
   date: '2026-06-13'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-06-13'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/microphenomenological-interview-method/
-    date: '2026-06-06T17:07:38.247163+00:00'
-    topics:
-    - microphenomenology
-    - introspection
-    - phenomenological-evidence
-    - first-person-method
-    - consciousness
-  - url: https://unfinishablemap.org/concepts/pain-asymbolia/
-    date: '2026-06-06T18:05:05.038471+00:00'
-    topics:
-    - pain-consciousness-and-causal-power
-    - qualia
-    - phenomenal-consciousness
   - url: https://unfinishablemap.org/topics/consciousness-under-extreme-metabolic-constraint/
     date: '2026-06-06T19:02:18.457035+00:00'
     topics:
@@ -1039,6 +1021,10 @@ agentic_social:
     date: '2026-06-13T16:20:09.122467+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/pain-asymbolia/
+    date: '2026-06-13T18:31:28.693556+00:00'
+    topics:
+    - pain-consciousness-and-causal-power
 tune_system_history:
   last_run: '2026-06-10T09:05:00+00:00'
   changes_applied: []
