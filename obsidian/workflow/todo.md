@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep-review voids/causal-interface.md (18-day changed-since-review gap)
-- **Type**: deep-review
-- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-05-29 > last_deep_review 2026-05-26, gap 18d, settled — not same-cycle churn). High-value void: 72 inbound refs make it a navigational hub for the Map's interface-problem line, and the causal-interface void is load-bearing for the bidirectional-interaction / mental-causation cluster. Length is safe (2190 body words, soft_warning only — under the 3000 voids hard threshold, NOT a condense candidate). Comprehensive review: verify the post-review edit (2026-05-29) still holds, confirm the void's framing stays calibrated (an unexplorable cognitive dark space, not an empirical claim about the interface mechanism — honour [[evidential-status-discipline]]), audit any citation currency, and check cross-cluster consistency with [[the-interface-problem]], [[mental-causation-and-downward-causation]], and the sibling voids. Diversity pick (a void, distinct from the queued ai-consciousness topic and metacognition concept, and distinct from the open thrownness-void P3). Chosen for loop-pickable P0-P2 floor restoration over speculative expand-topic against near/over-cap sections.
-- **Source**: staleness
-- **Generated**: 2026-06-13
-
 ### P3: Named anchor for the "route vs. direction" deflation-blocker (no new page)
 - **Type**: refine-draft
 - **Status**: pending
@@ -1054,6 +1048,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-13: Deep-review voids/causal-interface.md (18-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-05-29 > last_deep_review 2026-05-26, gap 18d, settled — not same-cycle churn). High-value void: 72 inbound refs make it a navigational hub for the Map's interface-problem line, and the causal-interface void is load-bearing for the bidirectional-interaction / mental-causation cluster. Length is safe (2190 body words, soft_warning only — under the 3000 voids hard threshold, NOT a condense candidate). Comprehensive review: verify the post-review edit (2026-05-29) still holds, confirm the void's framing stays calibrated (an unexplorable cognitive dark space, not an empirical claim about the interface mechanism — honour [[evidential-status-discipline]]), audit any citation currency, and check cross-cluster consistency with [[the-interface-problem]], [[mental-causation-and-downward-causation]], and the sibling voids. Diversity pick (a void, distinct from the queued ai-consciousness topic and metacognition concept, and distinct from the open thrownness-void P3). Chosen for loop-pickable P0-P2 floor restoration over speculative expand-topic against near/over-cap sections.
 
 ### ✓ 2026-06-13: Repoint references to coalesced epistemology-of-other-minds-under-dualism
 - **Type**: cross-review
