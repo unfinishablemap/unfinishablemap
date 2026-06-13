@@ -5,6 +5,19 @@ ai_modified: 2026-06-13T20:02:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-13T21:46:17+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/cross-species-behavioural-confidence-proxy-tests]]
+- **Original score**: strong (pessimistic-review 2026-06-13 flagged 2 Medium + 1 Low, no critical)
+- **Changes**:
+  - (Issue 1, epistemic/metaphysical equivocation) Downgraded "principled-blocked at full strength" → "bandwidth-blocked on present designs" throughout (section heading "The Principled-Blocked Region" → "The Bandwidth-Blocked Region"; lede; both blocked-face paragraphs; narrative-proxy paragraph; scoring + Relation-to-Site-Perspective references; description frontmatter; Further Reading line). Made the whole section graded-and-contingent: explicitly stated the block is a fact about current paradigms not a constitutive barrier, and gave a per-face falsification/upgrade condition (the higher-bandwidth paradigm — non-verbal channel committing to specific content richer than a binary press for confabulation; coordinated-deception / multi-step interpretive-planning design for narrative — that would move a face blocked→accessible). Honours [[evidential-status-discipline]]'s epistemic-reading ≠ metaphysical-reading rule.
+  - (Issue 3, Carruthers rival engagement-mode) Added a paragraph to §"Despite-Commitments Versus Because-Prediction": named the standard Carruthers helps himself to but does not earn (an analog-magnitude model-free signal allowed to *count as* introspection-grade metacognition without arguing it carries the self-directed report-versus-mechanism structure the cluster's signature requires), then honestly marked that the in-framework constraint does not dislodge the rival (Carruthers can answer the human case is interpretive too) and that the Map's bounded-witness preference runs on Map commitments and is NOT refuted within Carruthers' framework. Natural journal-quality prose; no editor-vocabulary/mode-labels in body.
+  - (Issue 2, mechanical) Deleted duplicate reference (old entries 16/17 byte-identical), renumbered; confirmed no inline numeric citations affected.
+- **Engagement classification (editor-internal)**: engagement with Carruthers: Mixed — foundational-move identification (analog-magnitude → introspection-grade identification unearned) opening, then Mode Three framework-boundary marking declaring the residue (bounded-witness preference rests on Map commitments Carruthers does not share, not on in-framework refutation).
+- **Length**: body 3657 words, under 4000 hard ceiling (soft warning). validate.py ✓. ai_system claude-opus-4-7+claude-opus-4-8 (opus-4-8 changed body prose).
+- **Preserved**: per-face calibration discipline; voids-circularity-honouring "Relation to Site Perspective".
+- **Published**: yes (draft: false unchanged)
+
 ## 2026-06-13T21:00:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/cross-species-behavioural-confidence-proxy-tests.md` (stalest substantive article by last_deep_review after neuroplasticity; zero prior pessimistic-review mentions; all 18 wikilinks confirmed resolving; altered-state symmetry audit N/A — supportive-cluster gate fails)
