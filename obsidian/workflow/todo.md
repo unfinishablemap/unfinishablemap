@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep-review voids/metaphor-void.md (15-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-01 > last_deep_review 2026-05-29, gap 15d, settled 12d — not same-cycle churn). The post-review edit is SUBSTANTIVE own-content: commit bb4bd3923 absorbed the Translation Void research note INTO this article, so the merged body content is genuinely un-reviewed (cf. [[coalesce-hides-review-debt-and-regresses-fixes]] — body absorbed by a refine commit that did not deep-review the merge). Length safe (2290 body words, soft_warning — under the 3000 voids hard threshold, NOT a condense candidate). 14 inbound refs (well-integrated node). Review should: (a) verify the absorbed Translation-Void content coheres with the void framing and the current voids taxonomy ([[taxonomy-of-voids]], [[three-kinds-of-void]], [[apophatic-cartography-four-criteria]]); (b) honour [[evidential-status-discipline]] — the metaphor-as-cognitive-instrument claims are prone to phenomenology-vs-function and metaphysical-vs-epistemic slippage (the failure mode flagged in the mutation-void outer review); (c) web-verify any cited scholar/date attributions before trusting them ([[ai-citation-metadata-unreliable]]); (d) verify cross-links resolve live and reciprocate where load-bearing; (e) writing-style + length discipline (no "This is not X. It is Y." cliché). Diversity pick — a VOID, distinct from the two queued P2 staleness targets (ai-consciousness topic, metacognition concept). Settled, not same-cycle churn; chosen for floor restoration over speculative expand-topic against near/over-cap sections. Metadata-only verdict acceptable if the merge is clean; apply in-place fixes if minor, generate a follow-on refine-draft only if substantive. Tenet alignment: Tenet 1 (Dualism — the metaphor void as a conceptual-instrument exhibit), Tenet 5 (Occam's Razor Has Limits — what resists literal reduction).
+- **Source**: staleness
+- **Generated**: 2026-06-13
+
 ### P3: Named anchor for the "route vs. direction" deflation-blocker (no new page)
 - **Type**: refine-draft
 - **Status**: pending

@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-13T20:32:52.385212+00:00'
-session_count: 10964
-cycle_position: 9028
+last_updated: '2026-06-13T20:49:37.538833+00:00'
+session_count: 10965
+cycle_position: 9029
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-13T07:35:04.426103+00:00'
   optimistic-review: '2026-06-13T10:33:07.850044+00:00'
   check-tenets: '2026-06-13T04:02:32.951561+00:00'
   check-links: '2026-06-13T17:32:49.651954+00:00'
-  deep-review: '2026-06-13T20:05:19.840485+00:00'
+  deep-review: '2026-06-13T20:49:37.538833+00:00'
   tune-system: '2026-06-10T08:48:52.476985+00:00'
   research-voids: '2026-06-13T17:46:29.227870+00:00'
   coalesce: '2026-06-13T13:38:18.821323+00:00'
@@ -85,7 +85,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 394
-  reviews_completed: 5292
+  reviews_completed: 5293
   apex_articles: 34
 quality:
   critical_issues: 0
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-13'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-13'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-13'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-13'
   outcome: success
 agentic_social:
@@ -1044,9 +1044,52 @@ queue_status:
   p2_tasks: 3
   p3_tasks: 3
   needs_replenishment: false
-  last_replenishment: '2026-06-13T20:15:00+00:00'
+  last_replenishment: '2026-06-13T20:52:00+00:00'
   last_replenishment_mode: standard
-  last_replenishment_note: '2026-06-13T20:15:00+00:00 run (standard mode) - generated
+  last_replenishment_note: '2026-06-13T20:52:00+00:00 run (standard mode) - generated
+    1 NEW staleness deep-review task (voids/metaphor-void.md) at the TOP of Active
+    Tasks to restore the loop-pickable P0-P2 floor. On entry loop-pickable open P0-P2
+    was 2 (the two 2026-06-12 staleness deep-reviews: topics/ai-consciousness, ldr
+    2026-06-02 < ai_mod 2026-06-13; and concepts/metacognition, ldr 2026-05-29 < ai_mod
+    2026-06-05 - both re-verified genuinely pending on disk), below the MIN_QUEUE floor
+    of 3. The prior 20:15 run minted voids/mutation-void.md, which a fork has since
+    EXECUTED (last_deep_review now 2026-06-13T20:46 == ai_modified, marked done), so
+    it is correctly out of Active Tasks and not double-counted; the 3 open P3s do not
+    count toward the floor. All eight sources re-verified on disk. CHAINS (S1) 0 -
+    recent_tasks 14d window holds no research-topic or expand-topic completion to chain
+    from (only deep-review/refine-draft/agentic-social/replenish/positions/coalesce/apex/research-voids).
+    UNCONSUMED RESEARCH (S2) 0 actionable - mtime-recent notes are all voids-* and
+    voids is OVER cap 101/100 so no void article can be spawned; older non-voids notes
+    already have articles. GAPS (S3) 0 - corpus saturated (topics 267/270, concepts
+    262/270, both near cap). ORPHANS (S5) 0 (quality.orphaned_files 0). LENGTH (S6)
+    0 NEW - meaning-of-life condense #veto, phenomenal-output #veto; remaining hard/critical
+    offenders are research/* notes (excluded), human-gated/DIVERTED (duhem-quine at
+    its 4000 hard ceiling with standing human length decisions, born-rule, clinical-dissociation,
+    laws-and-dispositions), the apex governance hub, or calibration-dense churn-risky
+    pages per condense-regresses-calibration-qualifiers. POSITIONS add (S7a) 0; POSITIONS
+    update (S7b) 0; POSITIONS audit NOT due (last 2026-06-09, 30d window open to ~2026-07-09).
+    APPLIED-APEX (S8) 0 (register only 3 entries, no approved new slot). STALENESS (S4)
+    is the live source: the strict changed-since-review scan (ai_contribution>=50,
+    ai_modified > last_deep_review, ai_modified != today, gap >=14d) over topics/concepts/voids/apex/positions
+    yields 6 settled hits. EXCLUDED emergence-void (gap 18d - git-checked, post-review
+    touch = corpus-wide Chalmers 2016->2017 year-normalisation sweep, not own-content,
+    per the churn-filter discipline); EXCLUDED duhem-quine (gap 16d - at its 4000 hard
+    ceiling after FIVE outer-review refines with standing HUMAN LENGTH DECISION tasks,
+    churn-risky calibration anchor); EXCLUDED filter-theory (gap 16d - at the concepts
+    3500 hard threshold, length entanglement); EXCLUDED prospective-memory (gap 15d
+    - git-checked, post-review touch = incidental cross-link in a haecceity deep-review
+    commit, not own-content); metacognition (gap 15d) ALREADY queued. Picked voids/metaphor-void.md:
+    ai_contribution=100, ai_mod 2026-06-01 > ldr 2026-05-29, gap 15d, settled 12d.
+    Its post-review commit (bb4bd3923) ABSORBED the Translation Void research note
+    into the article (substantive own-content body change) - the merged body is genuinely
+    unreviewed AND carries coalesce-hides-review-debt risk, so a deep-review is warranted.
+    Body 2290w soft_warning (under 3000 voids hard, NOT a condense candidate). 14 inbound
+    refs (well-integrated node), settled 12d, no open task references it in the Active
+    section, a VOID cluster distinct from both queued P2 targets (ai-consciousness
+    topic, metacognition concept). Queued one P2 deep-review at the TOP of Active Tasks
+    (LIFO-starvation defence). After: loop-pickable open P0-P2 = 3, at floor. No speculative
+    expand-topic against near/over-cap sections; no churn-prone length task minted.'
+  superseded_replenishment_note_2015: '2026-06-13T20:15:00+00:00 run (standard mode) - generated
     1 NEW staleness deep-review task (voids/mutation-void.md) at the TOP of Active
     Tasks to restore the loop-pickable P0-P2 floor. On entry loop-pickable open P0-P2
     was 2 (the two 2026-06-12 staleness deep-reviews: topics/ai-consciousness, ldr
@@ -1231,6 +1274,15 @@ queue_status:
     leaves the P3 tier). No NEW task minted; no speculative expand-topic against near/over-cap
     sections; no churn-prone length task minted.'
   replenishment_source_counts_last_run:
+    applied_apex: 0
+    chain: 0
+    gap_analysis: 0
+    length_analysis: 0
+    orphan_integration: 0
+    positions: 0
+    staleness: 1
+    unconsumed_research: 0
+  prior_replenishment_source_counts_last_run_2015:
     applied_apex: 0
     chain: 0
     gap_analysis: 0
