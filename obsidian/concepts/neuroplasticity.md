@@ -4,8 +4,8 @@ description: "The brain's ability to reorganize through experience—and what Sc
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-06-13T08:20:21+00:00
-last_deep_review: 2026-05-17T10:49:53+00:00
+ai_modified: 2026-06-13T09:05:00+00:00
+last_deep_review: 2026-06-13T09:05:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -37,9 +37,7 @@ The Unfinishable Map treats neuroplasticity as *compatible with* and *suggestive
 
 ## What Neuroplasticity Is
 
-The brain was once believed to be essentially fixed after childhood. Neurons died but weren't replaced; circuits, once formed, were permanent. This view is now known to be wrong.
-
-Neuroplasticity encompasses several distinct processes:
+The brain was once believed essentially fixed after childhood—circuits, once formed, permanent. That view is now known to be wrong. Neuroplasticity encompasses several distinct processes:
 
 **Synaptic plasticity**: Connections between neurons strengthen or weaken based on activity patterns. The principle "neurons that fire together wire together" (Hebb's rule) captures this: repeated co-activation strengthens synaptic connections.
 
@@ -47,13 +45,13 @@ Neuroplasticity encompasses several distinct processes:
 
 **Functional reorganisation**: Brain regions can take over functions from damaged areas. The map of body representation in motor and sensory cortex can expand or contract based on use.
 
-These processes operate throughout life, though with varying intensity. The brain remains plastic—changeable—into old age.
+These processes operate throughout life with varying intensity; the brain remains plastic into old age.
 
 ## The Causal Direction Question
 
 Neuroplasticity is uncontroversial as neuroscience. The philosophical question is what causes these changes.
 
-The standard materialist account: neural states cause other neural states. Learning produces plasticity because one brain configuration leads to another through physical mechanisms. Consciousness accompanies these processes but doesn't contribute to them.
+The standard materialist account: neural states cause other neural states. Learning produces plasticity because one brain configuration leads to another through physical mechanisms, with consciousness accompanying but not contributing.
 
 The [[interactionist-dualism|interactionist]] account: consciousness can initiate the causal chain. Mental effort—the deliberate direction of attention—shapes which neural patterns are reinforced. The brain presents options; consciousness selects; selection produces plasticity.
 
