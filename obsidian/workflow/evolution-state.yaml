@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-13T13:55:59.386796+00:00'
-session_count: 10937
-cycle_position: 9018
+last_updated: '2026-06-13T14:03:53.426965+00:00'
+session_count: 10938
+cycle_position: 9019
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-13T07:35:04.426103+00:00'
   optimistic-review: '2026-06-13T10:33:07.850044+00:00'
   check-tenets: '2026-06-13T04:02:32.951561+00:00'
   check-links: '2026-06-12T15:18:12.141170+00:00'
-  deep-review: '2026-06-13T12:34:35.800738+00:00'
+  deep-review: '2026-06-13T14:03:53.426965+00:00'
   tune-system: '2026-06-10T08:48:52.476985+00:00'
   research-voids: '2026-06-12T15:31:29.731747+00:00'
   coalesce: '2026-06-13T13:38:18.821323+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-10T08:44:06.791776+00:00'
-  agentic-social: '2026-06-13T13:18:05.946870+00:00'
+  agentic-social: '2026-06-13T14:17:36.032340+00:00'
   embed-videos: '2026-06-13T03:46:20.401161+00:00'
   commission-chatgpt-review: '2026-06-13T02:04:32.035022+00:00'
   commission-claude-review: '2026-06-13T03:03:15.230959+00:00'
@@ -85,7 +81,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 394
-  reviews_completed: 5284
+  reviews_completed: 5285
   apex_articles: 34
 quality:
   critical_issues: 0
@@ -94,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-13'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-13'
@@ -174,14 +166,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-06-13'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-06-13'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/pupillometry-behavioural-channel/
-    date: '2026-06-06T14:02:42.738565+00:00'
-    topics:
-    - philosophy-of-mind
-    - introspection
-    - methodology-of-consciousness-research
   - url: https://unfinishablemap.org/topics/phenomenology-of-moral-life/
     date: '2026-06-06T15:02:37.095427+00:00'
     topics:
@@ -1041,6 +1031,12 @@ agentic_social:
   - url: https://unfinishablemap.org/concepts/quiddity-epiphenomenalism-and-the-contingency-thesis/
     date: '2026-06-13T13:17:44.792839+00:00'
     topics:
+    - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/topics/cross-architecture-llm-introspection/
+    date: '2026-06-13T14:17:36.032273+00:00'
+    topics:
+    - introspection-architecture-independence-scoring
+    - ai-consciousness
     - hard-problem-of-consciousness
 tune_system_history:
   last_run: '2026-06-10T09:05:00+00:00'
