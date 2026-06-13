@@ -4,8 +4,8 @@ description: "Consciousness contributes to creativity by generating possibilitie
 created: 2026-01-19
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-06-13T00:31:52+00:00
-last_deep_review: 2026-06-02T05:51:34+00:00
+ai_modified: 2026-06-13T06:32:03+00:00
+last_deep_review: 2026-06-13T06:32:03+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
