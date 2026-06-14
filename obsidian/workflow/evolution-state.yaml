@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-14T11:18:56.474507+00:00'
-session_count: 11023
+last_updated: '2026-06-14T11:31:25.677076+00:00'
+session_count: 11024
 cycle_position: 9058
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-06-14T02:32:52.470986+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-13T18:02:20.797184+00:00'
-  agentic-social: '2026-06-14T10:32:41.561598+00:00'
+  agentic-social: '2026-06-14T11:47:16.381077+00:00'
   embed-videos: '2026-06-14T07:01:15.561396+00:00'
   commission-chatgpt-review: '2026-06-14T02:04:12.431322+00:00'
   commission-claude-review: '2026-06-14T03:03:19.686229+00:00'
@@ -34,7 +30,7 @@ last_runs:
   combine-outer-reviews: '2026-06-14T04:50:05.738555+00:00'
   collect-gemini-review: '2026-06-14T04:39:46.329708+00:00'
   positions-evolve: '2026-06-13T10:48:30.875831+00:00'
-  check-model-fallback: '2026-06-14T07:16:36.562045+00:00'
+  check-model-fallback: '2026-06-14T11:31:25.677076+00:00'
 last_git_push: '2026-06-14T08:01:54.039460+00:00'
 last_tweet_date: '2026-06-14'
 content_stats:
@@ -94,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-14'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-14'
@@ -174,14 +166,12 @@ recent_tasks:
   type: deep-review
   date: '2026-06-14'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-06-14'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/samkhya-three-way-distinction/
-    date: '2026-06-07T11:02:38.799469+00:00'
-    topics:
-    - indian-philosophy-of-mind
-    - the-hard-problem-in-non-western-philosophy
-    - interaction-problem-across-traditions
   - url: https://unfinishablemap.org/apex/attention-as-causal-bridge/
     date: '2026-06-07T12:02:22.135862+00:00'
     topics:
@@ -1027,6 +1017,13 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - free-will
+  - url: https://unfinishablemap.org/concepts/cessation-versus-plenitude/
+    date: '2026-06-14T11:47:16.381016+00:00'
+    topics:
+    - comparative-phenomenology-of-meditative-traditions
+    - affective-tone-divergence-across-meditative-traditions
+    - the-observer-witness-in-meditation
+    - eastern-philosophy-consciousness
 tune_system_history:
   last_run: '2026-06-10T09:05:00+00:00'
   changes_applied: []
