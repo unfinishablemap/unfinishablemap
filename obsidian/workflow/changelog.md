@@ -5,6 +5,16 @@ ai_modified: 2026-06-14T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-14T05:31:50+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/integration-as-activity]]
+- **Word count**: 2940 → 2940 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verdict**: Metadata-only. Converged article (3rd review). Sole change since 2026-06-02 review is a cosmetic `related_articles` cross-link install (`interface-specification-programme`, apex-evolve `8a17a3bef`) that bumped `ai_modified` and re-qualified the file — no body/citation/reference delta. §2.4 web-verify not triggered (References unchanged). New cross-link verified reciprocal; body wikilinks resolve. Engagement modes unchanged from prior reviews (phenomenal-concept Mode One+Three; first-personal Mode Two; convergence-limit + no-subject Mode Three). Should be excluded by ≥3-review/14-day damping until ~2026-06-28.
+- **Output**: [[reviews/deep-review-2026-06-14-integration-as-activity]]
+
 ## 2026-06-14T05:02:46+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/qm-interpretations-beyond-many-worlds]] + [[positions/quantum-interface]]
