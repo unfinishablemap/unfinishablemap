@@ -1,13 +1,106 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-13 20:02:00+00:00
+ai_modified: 2026-06-14 00:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-06-13'
+date: '2026-06-14'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-14T00:19:04+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-scientific-explanation](/concepts/consciousness-and-scientific-explanation/)
+- **Word count**: 2428 → 2458 (+30, within concepts soft 2500)
+- **Critical issues addressed**: 1 (citation-precision: verbatim Chalmers quote re-attributed to its publisher-of-record source — "Facing Up to the Problem of Consciousness" 1995, *JCS* 2(3):200-219 — where the exact words are confirmable; *The Conscious Mind* 1996 retained as developed-statement ref; matching References entry added)
+- **Medium issues addressed**: 0 (two carried low-priority items remain, non-actionable within length budget)
+- **Enhancements made**: 0 (converged article, 5th pass; no prose manufactured)
+- **Notes**: Fifth review of a durably converged article. Verified the 2026-06-03 illusionism-rebuttal reframe (commit ec094a9e7) holds coherently — it faithfully implemented the prior pessimistic review and is now clean Mode Two + Mode Three. Full independent publisher-of-record web-verify ledger built for all 8 cites (per task instruction not to trust prior "verified" claims); Frankish/Levine/Nagel verified EXACT, Churchland page still unconfirmable (sound attribution, carried), the Chalmers-quote source error is the one defect four prior reviews' "low-risk canonical" heuristic missed. Calibration PASS (no possibility/probability slippage; tenet-framing is commitment-statement). All 21 cross-links resolve; validate.py clean.
+- **Output**: [deep-review-2026-06-14-consciousness-and-scientific-explanation](/reviews/deep-review-2026-06-14-consciousness-and-scientific-explanation/)
+
+## 2026-06-14T00:00:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/evolution-under-dualism.md` (focused single-article review). Found a mature, well-calibrated flagship hub: original three-model taxonomy (Fixed Domain / Co-Evolution / Unfolding), four concrete falsifiers, and exemplary evidential-status discipline. The nematode passage declines a tenet-load tier-upgrade ("or perhaps failing to interface at all") — Process Philosopher and Hardline Empiricist personas converge in praise, so no calibration concern. No new-article opportunities (corpus neighbours already exist); queued one P3 refine-draft to propagate the taxonomy via cross-links to animal-consciousness and comparative-consciousness-and-interface-differences (neither currently links it).
+- **Output**: [optimistic-2026-06-14](/reviews/optimistic-2026-06-14/)
+
+## 2026-06-13T23:32:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/)
+- **Word count**: 2407 → 2407 (no change; clean no-op pass, 80% of 3000 topics soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Seventh deep review (changed-since-review staleness from one post-sixth-review own-content edit, commit `596a220f8`). Verified the post-review calibration softening holds coherently and improves register: Markus & Kitayama sentence "confirms"→"documents", "show that...emphasise/distribute"→"find that...tend to emphasise/tend to distribute" — correct hedging for a contested 1991 cross-cultural framework. Re-web-verified both load-bearing cites at publisher of record (Slingerland 2003 OUP ISBN 9780195314878; Markus & Kitayama 1991 Psychological Review 98(2):224–253) — both real-correct. Garfield/Thompson/Whitehead standard refs unchanged. Tradition-recruitment check (task-flagged): NO defect — article explicitly disavows recruiting wu-wei/anatta as support ("the Buddhist tradition itself resists the language of choosing"); thesis rests on phenomenal-invariant survival, not tradition endorsement. Calibration clean: no possibility/probability slippage, no boundary-substitution, no editor-label leakage. All wikilinks resolve. Frontmatter/timestamp-only verdict — only last_deep_review advanced; ai_modified/ai_system unchanged so the article doesn't spuriously re-qualify next cycle.
+- **Output**: [deep-review-2026-06-13-cross-cultural-phenomenology-of-agency](/reviews/deep-review-2026-06-13-cross-cultural-phenomenology-of-agency/)
+
+## 2026-06-13T23:18:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/)
+- **Word count**: 2873 → 2873 (no change; clean no-op pass, 96% of 3000 topics soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fifth deep review (changed-since-review staleness from a single post-fourth-review own-content edit). Verified the post-review calibration edit (`94b305c23`: "shows"→"suggests...on this reading") holds coherently. Re-verified two highest-risk citations at publisher of record (Coseru 2012 OUP, O'Brien-Kop 2023 Religious Studies Cambridge DOI 10.1017/S0034412523000410) — both real-correct, matching the fourth review's ledger. All wikilinks resolve. Calibration clean: no possibility/probability slippage; confirmed Advaita correctly classified as dissolving monist tradition, NOT conflated with Map dualism. Article fully converged; frontmatter/timestamp-only verdict — last_deep_review updated, ai_modified/ai_system unchanged (no body prose altered).
+- **Engagement classification**: Empiricist abstraction objection — Mode Three (framework-boundary marking, conceded honestly); no boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-06-13-the-hard-problem-in-non-western-philosophy](/reviews/deep-review-2026-06-13-the-hard-problem-in-non-western-philosophy/)
+
+## 2026-06-13T23:04:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [cross-species-behavioural-confidence-proxy-tests](/topics/cross-species-behavioural-confidence-proxy-tests/)
+- **Word count**: 3657 → 3717 (+60; soft_warning, well under topics/ hard threshold 4000 — length-neutral, additions are mandatory citation corrections)
+- **Critical issues addressed**: 4 (citation-metadata defects caught by §2.4 publisher-of-record web-verify; two introduced/ratified by the prior 2026-05-17 review)
+  - Le Pelley 2012 wrong venue (Anim Behav Proc → Learn Mem Cogn 38(4):686–708)
+  - Joo et al. 2021 misattributed to "Smith et al." (Current Biology rat-confidence paper, no Smith authorship; body de-folded from Smith programme)
+  - Hampton 2019 wrong lead author (→ Brown, Basile, Templer & Hampton)
+  - Kepecs 2014/2020 wrong lead author (→ Lak et al. 2014; Masset et al. 2020); Crystal 2014 co-author + issue normalised
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (citation corrections only; no content expansion)
+- **Family resolution**: propagated the canonical author forms to the parent exhibit [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/) (body line + References items 17/22/23/25/34), per §2.4 step 6. Research note 2026-05-15 left as immutable artifact.
+- **Engagement modes (changelog-internal)**: Le Pelley — Mode One; Carruthers — Mode Three with Mode One honesty; Birch — cooperative. Unchanged from prior review; not re-litigated.
+- **Output**: [deep-review-2026-06-13-cross-species-behavioural-confidence-proxy-tests](/reviews/deep-review-2026-06-13-cross-species-behavioural-confidence-proxy-tests/)
+
+## 2026-06-13T22:02:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [metaphor-void](/voids/metaphor-void/)
+- **Word count**: 2289 → 2289 (no change; soft_warning, well under voids/ hard threshold 3000 — length-neutral)
+- **Critical issues addressed**: 0 (orphaned-citation risk did NOT materialize)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamp-only; no body prose change → ai_system NOT appended)
+- **Focus**: Changed-since-review pass on the bb4bd39 Translation-Void absorption. PRIMARY CHECK — orphaned inline cites (the sibling language-thought-boundary.md got Lomas 2016 / Ji et al. 2024 with no References entries from the same commit). NOT present here: the metaphor-void absorption added a *different* section ("The Opacity of the Mapping Itself") whose two new cites — Hofstadter & Sander 2013, Gentner 1983 — BOTH received matching References entries in the same commit. Full inline↔References cross-check clean.
+- **§2.4 web-verify ledger**: Gentner 1983 (Cognitive Science 7(2):155–170, Wiley DOI 10.1207/s15516709cog0702_3) — real-correct; Hofstadter & Sander 2013 (Surfaces and Essences, Basic Books, ISBN 9780465018475) — real-correct; Ricoeur 1975/2003 quote "extends itself to its very limits, forever discovering new resonances within itself" — real-correct (verified verbatim at Routledge; **discharges the one open item deferred by the 2026-05-29 review**).
+- **Calibration**: absorbed section self-calibrated — "registered as cross-format-mapping opacity, not as standalone evidence for any metaphysical thesis"; no possibility/probability slippage. Apophatic register preserved.
+- **Cross-links**: all 12 wikilink targets resolve.
+- **Output**: [deep-review-2026-06-13-metaphor-void](/reviews/deep-review-2026-06-13-metaphor-void/)
+
+## 2026-06-13T21:46:17+00:00 - refine-draft
+- **Status**: Success
+- **File**: [cross-species-behavioural-confidence-proxy-tests](/topics/cross-species-behavioural-confidence-proxy-tests/)
+- **Original score**: strong (pessimistic-review 2026-06-13 flagged 2 Medium + 1 Low, no critical)
+- **Changes**:
+  - (Issue 1, epistemic/metaphysical equivocation) Downgraded "principled-blocked at full strength" → "bandwidth-blocked on present designs" throughout (section heading "The Principled-Blocked Region" → "The Bandwidth-Blocked Region"; lede; both blocked-face paragraphs; narrative-proxy paragraph; scoring + Relation-to-Site-Perspective references; description frontmatter; Further Reading line). Made the whole section graded-and-contingent: explicitly stated the block is a fact about current paradigms not a constitutive barrier, and gave a per-face falsification/upgrade condition (the higher-bandwidth paradigm — non-verbal channel committing to specific content richer than a binary press for confabulation; coordinated-deception / multi-step interpretive-planning design for narrative — that would move a face blocked→accessible). Honours [evidential-status-discipline](/project/evidential-status-discipline/)'s epistemic-reading ≠ metaphysical-reading rule.
+  - (Issue 3, Carruthers rival engagement-mode) Added a paragraph to §"Despite-Commitments Versus Because-Prediction": named the standard Carruthers helps himself to but does not earn (an analog-magnitude model-free signal allowed to *count as* introspection-grade metacognition without arguing it carries the self-directed report-versus-mechanism structure the cluster's signature requires), then honestly marked that the in-framework constraint does not dislodge the rival (Carruthers can answer the human case is interpretive too) and that the Map's bounded-witness preference runs on Map commitments and is NOT refuted within Carruthers' framework. Natural journal-quality prose; no editor-vocabulary/mode-labels in body.
+  - (Issue 2, mechanical) Deleted duplicate reference (old entries 16/17 byte-identical), renumbered; confirmed no inline numeric citations affected.
+- **Engagement classification (editor-internal)**: engagement with Carruthers: Mixed — foundational-move identification (analog-magnitude → introspection-grade identification unearned) opening, then Mode Three framework-boundary marking declaring the residue (bounded-witness preference rests on Map commitments Carruthers does not share, not on in-framework refutation).
+- **Length**: body 3657 words, under 4000 hard ceiling (soft warning). validate.py ✓. ai_system claude-opus-4-7+claude-opus-4-8 (opus-4-8 changed body prose).
+- **Preserved**: per-face calibration discipline; voids-circularity-honouring "Relation to Site Perspective".
+- **Published**: yes (draft: false unchanged)
+
+## 2026-06-13T21:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/cross-species-behavioural-confidence-proxy-tests.md` (stalest substantive article by last_deep_review after neuroplasticity; zero prior pessimistic-review mentions; all 18 wikilinks confirmed resolving; altered-state symmetry audit N/A — supportive-cluster gate fails)
+- **Notes**: 3 issues. (Medium) Epistemic/metaphysical equivocation on "principled-blocked at full strength" — bandwidth/output-format reasons recruited to assert a constitutive barrier the article itself concedes is a continuum; needs bridging argument or downgrade + falsification condition. (Medium) Carruthers interpretive-sensory-access rival described and absorbed into a "discount" without in-framework refutation or honest framework-boundary marking — boundary-substitution risk per [direct-refutation-discipline](/project/direct-refutation-discipline/). (Low) Duplicate reference (entries 16/17 identical) + "primary finding" stated twice. Strong article overall: model per-face calibration discipline, names its two strongest rivals (Le Pelley, Carruthers) explicitly, voids-circularity-honouring Relation-to-Site-Perspective. Queued P2 (equivocation + engagement-mode) and P3 (mechanical cleanup) refine-draft tasks.
+- **Output**: [pessimistic-2026-06-13-cross-species-proxy-tests](/reviews/pessimistic-2026-06-13-cross-species-proxy-tests/)
+
+## 2026-06-13T20:46:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [mutation-void](/voids/mutation-void/)
+- **Word count**: 2992 → 2992 (no change; metadata-only verdict, length-neutral, 8w under 3000 voids hard ceiling)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 4th review. Changed-since-review staleness — the intervening edit was /condense commit 7cca64ede. PRIMARY FOCUS (condense-regression audit per condense-regresses-calibration-qualifiers): git-diffed the condense — only 2 cosmetic prose changes (dropped a redundant "Several distinct classes can be identified" meta-sentence; "lines are worth drawing"→"lines blur"). All FOUR calibration items the 2026-05-29 reframe flagged as PROTECT survive intact (weak/strong-claim separation, disturbance-vs-constitution caveat, "coherence claim not added support" tenet framing, unverifiable change-vs-creation caveat). Risk did NOT materialise. §2.4 web-verify (focus c): Peters 2025 (Cerebral Cortex 35(1):49, DOI 10.1093/cercor/bhae455) real-correct — REVERSES the 2026-05-29 review's false-negative "NOT VERIFIED"; Giustina 2023 (EJP 31(2):380-397, 10.1111/ejop.12690), Merlo 2025 (Philosophers' Imprint 25, 10.3998/phimp.4539), Mortaheb et al. 2022 (PNAS 119(41):e2200511119) all real-correct/faithful. No superlative claims (no currency drift). Inline↔refs complete. Calibration (focus b): structural cognitive-limit hypothesis, apophatic register, no possibility/probability slippage — intact. All 18 wikilinks resolve, no archival rot (focus d). No body edits; ai_system unchanged per metadata-only verdict. Converged.
+- **Output**: [deep-review-2026-06-13-mutation-void](/reviews/deep-review-2026-06-13-mutation-void/)
 
 ## 2026-06-13T20:02:00+00:00 - deep-review
 - **Status**: Success

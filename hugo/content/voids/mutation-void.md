@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-05-31 13:33:17+00:00
+ai_modified: 2026-06-13 20:46:16+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Human+AI exploration of thoughts that transform upon inspection—w
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-29 13:00:00+00:00
+last_deep_review: 2026-06-13 20:46:16+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

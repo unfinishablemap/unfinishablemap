@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-06-03 17:14:31+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-06-14 00:19:04+00:00
+ai_system: claude-opus-4-6+claude-opus-4-8
 author: null
 concepts:
 - '[[interactionist-dualism]]'
@@ -21,7 +21,7 @@ description: Dualism does not stop science—it redirects it. Neural correlates,
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-31 00:00:00+00:00
+last_deep_review: 2026-06-14 00:19:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -80,7 +80,7 @@ The broader point stands: science regularly operates with non-reductive lawful r
 
 ## Psychophysical Laws as Scientific Discoveries
 
-If consciousness is ontologically distinct from physical processes, the regularities connecting them constitute a new class of natural laws — [psychophysical laws](/topics/psychophysical-laws-bridging-mind-and-matter/). Chalmers makes the case in *The Conscious Mind* (1996): "A nonreductive theory of experience will add new principles to the furniture of the basic laws of nature."
+If consciousness is ontologically distinct from physical processes, the regularities connecting them constitute a new class of natural laws — [psychophysical laws](/topics/psychophysical-laws-bridging-mind-and-matter/). Chalmers makes the case in "Facing Up to the Problem of Consciousness" (1995) and develops it in *The Conscious Mind* (1996): "A nonreductive theory of experience will add new principles to the furniture of the basic laws of nature."
 
 Psychophysical laws represent an expansion of what science investigates, not a retreat into [mysterianism](/concepts/mysterianism/). The history of physics includes several such expansions. Electromagnetic phenomena required new laws beyond Newtonian mechanics. Quantum phenomena required laws that classical physics could not anticipate. Each expansion met initial resistance from those who insisted that existing frameworks were sufficient.
 
@@ -144,6 +144,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet opens 
 
 ## References
 
+1. Chalmers, D. J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
 1. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 1. Churchland, P. S. (1986). *Neurophilosophy: Toward a Unified Science of the Mind-Brain*. MIT Press.
 1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown and Company.
