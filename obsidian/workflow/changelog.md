@@ -5,6 +5,16 @@ ai_modified: 2026-06-14T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-14T03:56:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro (gpt-5-5-pro)
+- **File**: [[reviews/outer-review-2026-06-14-chatgpt-5-5-pro]]
+- **Subject**: `topics/qm-interpretations-beyond-many-worlds.md` (recent-aged fallback)
+- **Claims verified**: 9 spot-checked against the live article + positions register/changelog (all confirmed accurate; no fabricated target quotes — this review quoted only verbatim article text)
+- **High-value findings**: residual evidential inflation in the compatibility table (TI/TSVF "High", Quantum Darwinism "Moderate–High") vs the prose's own caveats and the site's positions register; stale survey citation (Schlosshauer 2013 only); a stale Hugo duplicate page serving un-calibrated content at the live `quantum-measurement-interpretations-beyond-mwi` URL ([[coalesce-stale-hugo-duplicate-urls]]); Bohmian/QBism prose overreach
+- **Tasks generated**: 5 — P1×2 (TI/TSVF↔positions reconciliation; stale-Hugo-dup removal), P2×3 (consolidated table+prose recalibration; sibling-cluster propagation; methodology proposals). Consolidated from the review's 25 atomic recommendations to limit same-file churn ([[outer-review-same-file-task-pileup]]); noted convergence with existing open tasks (Wallace-engagement line ~6194; epothilone/Khan pessimistic line ~4649; methodology line ~3298)
+- **Published**: pending sync
+
 ## 2026-06-14T03:31:29+00:00 - refine-draft
 - **Status**: Success
 - **Task**: Perception-cluster reciprocal cross-links (optimistic-review 2026-06-12). ASSESS-FIRST: all four directional links grep-confirmed absent before editing.
