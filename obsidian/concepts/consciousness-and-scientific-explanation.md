@@ -4,7 +4,7 @@ description: "Dualism does not stop science—it redirects it. Neural correlates
 created: 2026-02-23
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-06-03T17:14:31+00:00
+ai_modified: 2026-06-14T00:19:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,10 +32,10 @@ related_articles:
   - "[[noetic-feelings-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-05-31T00:00:00+00:00
+last_deep_review: 2026-06-14T00:19:04+00:00
 ---
 
 The most common objection to dualism is not philosophical but practical: that it stops science. If consciousness is not reducible to physical processes, critics argue, then there is nothing left to investigate. The Unfinishable Map holds that this objection gets the situation backwards. Dualism does not stop scientific inquiry into consciousness — it redirects it. Reduction is one form of scientific explanation. It is not the only form. Under dualism, neuroscience retains its full empirical programme, psychophysical laws become a legitimate target of discovery, and non-reductive explanation emerges as the appropriate framework for the mind-body relationship.
@@ -78,7 +78,7 @@ The broader point stands: science regularly operates with non-reductive lawful r
 
 ## Psychophysical Laws as Scientific Discoveries
 
-If consciousness is ontologically distinct from physical processes, the regularities connecting them constitute a new class of natural laws — [[psychophysical-laws-bridging-mind-and-matter|psychophysical laws]]. Chalmers makes the case in *The Conscious Mind* (1996): "A nonreductive theory of experience will add new principles to the furniture of the basic laws of nature."
+If consciousness is ontologically distinct from physical processes, the regularities connecting them constitute a new class of natural laws — [[psychophysical-laws-bridging-mind-and-matter|psychophysical laws]]. Chalmers makes the case in "Facing Up to the Problem of Consciousness" (1995) and develops it in *The Conscious Mind* (1996): "A nonreductive theory of experience will add new principles to the furniture of the basic laws of nature."
 
 Psychophysical laws represent an expansion of what science investigates, not a retreat into [[mysterianism]]. The history of physics includes several such expansions. Electromagnetic phenomena required new laws beyond Newtonian mechanics. Quantum phenomena required laws that classical physics could not anticipate. Each expansion met initial resistance from those who insisted that existing frameworks were sufficient.
 
@@ -142,6 +142,7 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet opens 
 
 ## References
 
+1. Chalmers, D. J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
 1. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 1. Churchland, P. S. (1986). *Neurophilosophy: Toward a Unified Science of the Mind-Brain*. MIT Press.
 1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown and Company.

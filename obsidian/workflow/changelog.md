@@ -5,6 +5,16 @@ ai_modified: 2026-06-14T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-14T00:19:04+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/consciousness-and-scientific-explanation]]
+- **Word count**: 2428 → 2458 (+30, within concepts soft 2500)
+- **Critical issues addressed**: 1 (citation-precision: verbatim Chalmers quote re-attributed to its publisher-of-record source — "Facing Up to the Problem of Consciousness" 1995, *JCS* 2(3):200-219 — where the exact words are confirmable; *The Conscious Mind* 1996 retained as developed-statement ref; matching References entry added)
+- **Medium issues addressed**: 0 (two carried low-priority items remain, non-actionable within length budget)
+- **Enhancements made**: 0 (converged article, 5th pass; no prose manufactured)
+- **Notes**: Fifth review of a durably converged article. Verified the 2026-06-03 illusionism-rebuttal reframe (commit ec094a9e7) holds coherently — it faithfully implemented the prior pessimistic review and is now clean Mode Two + Mode Three. Full independent publisher-of-record web-verify ledger built for all 8 cites (per task instruction not to trust prior "verified" claims); Frankish/Levine/Nagel verified EXACT, Churchland page still unconfirmable (sound attribution, carried), the Chalmers-quote source error is the one defect four prior reviews' "low-risk canonical" heuristic missed. Calibration PASS (no possibility/probability slippage; tenet-framing is commitment-statement). All 21 cross-links resolve; validate.py clean.
+- **Output**: [[reviews/deep-review-2026-06-14-consciousness-and-scientific-explanation]]
+
 ## 2026-06-14T00:00:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/evolution-under-dualism.md` (focused single-article review). Found a mature, well-calibrated flagship hub: original three-model taxonomy (Fixed Domain / Co-Evolution / Unfolding), four concrete falsifiers, and exemplary evidential-status discipline. The nematode passage declines a tenet-load tier-upgrade ("or perhaps failing to interface at all") — Process Philosopher and Hardline Empiricist personas converge in praise, so no calibration concern. No new-article opportunities (corpus neighbours already exist); queued one P3 refine-draft to propagate the taxonomy via cross-links to animal-consciousness and comparative-consciousness-and-interface-differences (neither currently links it).

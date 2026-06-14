@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep-review concepts/consciousness-and-scientific-explanation.md (13-day changed-since-review gap)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-03 > last_deep_review 2026-05-31, post-review edit 3d, gap 13d). Git-confirmed OWN-CONTENT post-review edit (commit "Reframe illusionism rebuttal in concepts/consciousness-and-scientific-explanation.md"), NOT a sweep — the reframed rebuttal is genuinely un-reviewed. Length safe (2428 body words, status=ok — NOT a condense candidate). A concept pick for section diversity (distinct from the two topics in this batch and the existing ai-consciousness topic / metacognition concept already queued). Review: verify the illusionism-rebuttal reframe holds and stays calibrated (the rebuttal should bound illusionism, not overclaim its defeat — [[evidential-status-discipline]]), audit the explanation/illusionism citation currency, web-verify. Settled, not same-cycle churn.
-- **Source**: staleness
-- **Generated**: 2026-06-13
-
 ### ✓ 2026-06-13: Fix duplicate reference + minor repetition in topics/cross-species-behavioural-confidence-proxy-tests.md
 - **Type**: refine-draft
 - **Status**: ✓ RESOLVED-BY-CONSOLIDATION — the P2 pessimistic-fix refine pass (commit bf508d1c, same review) already did the mandatory parts: (a) deleted the byte-identical duplicate Reference and renumbered (verified: refs 16 and 17 are now distinct — Per-Cluster Independence Scoring vs Common-Cause Null); (b) resolved the "design audit's primary finding stated twice" repetition to a single instance. Part (c) was OPTIONAL (hedge "the cleanest existing instance" superlative) and is SKIPPED — the article grew to 3657w (91% of the 4000 hard ceiling) during the P2 pass, so I declined the optional growth; the superlative is mild and section-local. No separate refine needed.
@@ -1063,6 +1056,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-14: Deep-review concepts/consciousness-and-scientific-explanation.md (13-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-03 > last_deep_review 2026-05-31, post-review edit 3d, gap 13d). Git-confirmed OWN-CONTENT post-review edit (commit "Reframe illusionism rebuttal in concepts/consciousness-and-scientific-explanation.md"), NOT a sweep — the reframed rebuttal is genuinely un-reviewed. Length safe (2428 body words, status=ok — NOT a condense candidate). A concept pick for section diversity (distinct from the two topics in this batch and the existing ai-consciousness topic / metacognition concept already queued). Review: verify the illusionism-rebuttal reframe holds and stays calibrated (the rebuttal should bound illusionism, not overclaim its defeat — [[evidential-status-discipline]]), audit the explanation/illusionism citation currency, web-verify. Settled, not same-cycle churn.
 
 ### ✓ 2026-06-13: Deep-review topics/cross-cultural-phenomenology-of-agency.md (13-day changed-since-review gap)
 - **Type**: deep-review
