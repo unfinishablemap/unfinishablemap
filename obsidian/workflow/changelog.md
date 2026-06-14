@@ -5,6 +5,17 @@ ai_modified: 2026-06-14T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-14T11:17:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/panpsychism]]
+- **Word count**: 3270 → 3270 (no change; convergence no-op verdict; prose-only ~2975, under 3500 hard)
+- **Critical issues addressed**: 0 (none found — eleventh review, fully stabilized)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (only changes since the 2026-05-31 tenth review were two cosmetic cross-link ops: coalesce-repoint of phenomenal-non-compositionality → composition-and-consciousness, and a process-and-consciousness apex back-link)
+- **Citation web-verify**: SKIPPED-AS-RATIFIED — References block byte-identical to the 2026-05-31 publisher-of-record verify (Strawson 2006 JCS 13(10-11):3-31, Chalmers 2015 OUP, Whitehead 1929, Goff 2019 Pantheon, Nagel 1979/2012, Seager 1995 — all real-correct). No new/modified cites; no superlative claims (currency sweep 0 hits).
+- **Stance-fidelity (primary check)**: PASS — panpsychist rival steelmanned the way Goff/Strawson/Chalmers state it before any rebuttal; combination-problem dialectic sharp and even-handed; constrain-vs-establish framing holds (combination problem constrains panpsychism, does NOT establish dualism; Occam-has-limits invoked as accepted cost, cuts both ways). NY Declaration calibration clean (no possibility/probability slippage).
+- **Output**: [[reviews/deep-review-2026-06-14-panpsychism]]
+
 ## 2026-06-14T12:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/gaming-problem]]
