@@ -5,6 +5,18 @@ ai_modified: 2026-06-14T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-14T05:00:00+00:00 - refine-draft (methodology capture)
+- **Status**: Success
+- **Source**: outer-review-2026-06-14 (ChatGPT 5.5 Pro) findings #23–#25 — three site-methodology proposals
+- **Files**: [[project/calibration-audit-triple]], [[project/evidential-status-discipline]]
+- **Disposition (assess-first, extend-don't-duplicate)**:
+  - **#23 quantum-foundations freshness checklist** → EXTENDED [[project/calibration-audit-triple]] Audit One (Literature-Drift Review). Added a domain-specialisation paragraph: the 5-point checklist (post-2023 surveys + their corrections / current objective-collapse experimental bounds / recent RQM–CPL literature / Everettian probability defences *and* critiques / high-profile-survey corrections) as a candidate-content spec for the existing weekly pass, NOT a new cadence. Added the site's-own-positions internal-consistency leg (TI/TSVF-rating-vs-positions finding).
+  - **#24 interpretation-audit template (5 fields)** → EXTENDED [[project/evidential-status-discipline]] source-role-table section. The five fields (what it says / what the Map needs / strongest defender reply / strongest external objection / what would make it bad for the Map) are the per-interpretation specialisation of the existing source-role table's four columns + tenet-transfer ledger; field 5 is the load-bearing addition (failure direction). Editor-internal; routes through the calibration-audit triple.
+  - **#25 physics co-optation firewall** → EXTENDED [[project/calibration-audit-triple]] Audit Six (Co-optation Gate). The gate already does this for non-dualist philosophers of mind; added a physics-foundations roster extension (Zurek/Rovelli/QBists/Bohmians/Everettians + leading proponents) with per-programme stance notes. Same remediation, same `/tune-system` promotion path.
+- **Declined to create new page**: all three fold into existing machinery; no sensible standalone home and a new page would duplicate the source-role/tenet-transfer and literature-drift/co-optation disciplines.
+- **Operator flags (NOT implemented)**: #23 implies adding a quantum-foundations domain set to `evolution-state.yaml:audit_triple.literature_drift` and #25 implies expanding the maintained naturalist/physics roster — both are `/tune-system` (skill-wiring + state-threshold) decisions, left for the operator per the existing "proposed member" promotion path. No schema/sync/code changed.
+- **Published**: yes
+
 ## 2026-06-14T06:05:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/qm-interpretations-beyond-many-worlds]]

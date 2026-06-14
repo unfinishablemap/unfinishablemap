@@ -37,12 +37,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Methodology proposals from quantum-foundations outer review (project-doc, assess-first)
+### P2: Adopt many-worlds calibration in qm-interpretations-beyond-many-worlds
 - **Type**: refine-draft
-- **Notes**: From outer review 2026-06-14 (ChatGPT 5.5 Pro), findings #23–#25. THREE site-methodology proposals — capture in an appropriate `project/` methodology note (assess-first; EXTEND existing discipline docs rather than create a redundant page — much of this overlaps [[evidential-status-discipline]] and the source-role/tenet-transfer machinery already proposed in the 2026-06-03 outer-review methodology task at todo line ~3298, so fold in rather than duplicate). (1) **Live-literature freshness checklist for quantum-foundations articles**: each should check post-2023 surveys, current objective-collapse experimental bounds, recent RQM/CPL literature, Everettian probability defenses+critiques, and corrections to high-profile surveys. (2) **Interpretation-audit template**: five required fields per interpretation — what it says / what the Map needs from it / strongest defender reply / strongest external objection / what would make it bad for the Map. (3) **Physics co-optation firewall**: do for physics foundations what the site does for physicalist cognitive science — don't turn Zurek/Rovelli/QBists/Bohmians/Everettians into implicit Map allies because their frameworks use observer/relation/information/outcome-gap language. Keep concise; flag any schema/code implications for the operator (don't unilaterally change schema or sync). Tenet: methodology.
-- **Review file**: `reviews/outer-review-2026-06-14-chatgpt-5-5-pro.md`
-- **Source**: outer-review
+- **Status**: pending
+- **File**: obsidian/topics/qm-interpretations-beyond-many-worlds.md
+- **Notes**: From topic-concept anchoring audit 2026-06-14. The topic article over-claims relative to its anchor concept [[many-worlds]]; failed checks: hedge_density, strong_assertions.
+  - hedge density 1.50/kw is below 1.81/kw (target = 60% of anchor 3.01/kw, capped at 3.0/kw)
+  - strong-assertion density 0.50/kw exceeds 1.5× anchor (0.30/kw)
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-14
+
+### P2: Adopt mental-causation-and-downward-causation calibration in epistemology-of-mechanism-at-the-consciousness-matter-interface
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface.md
+- **Notes**: From topic-concept anchoring audit 2026-06-14. The topic article over-claims relative to its anchor concept [[mental-causation-and-downward-causation]]; failed checks: strong_assertions, underdetermination_markers.
+  - topic uses 2 strong-assertion verbs (0.76/kw) where anchor uses none; absolute allowance is 0.5/kw
+  - anchor declares underdetermination (2× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-14
+
 
 ### P2: Acknowledge Kent (2021) equal-Φ-superposition objection in qm-interpretations-beyond-many-worlds Φ-modulated-collapse passage
 - **Type**: refine-draft
@@ -1056,6 +1072,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-14: Methodology proposals from quantum-foundations outer review (project-doc, assess-first)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-14 (ChatGPT 5.5 Pro), findings #23–#25. THREE site-methodology proposals — capture in an appropriate `project/` methodology note (assess-first; EXTEND existing discipline docs rather than create a redundant page — much of this overlaps [[evidential-status-discipline]] and the source-role/tenet-transfer machinery already proposed in the 2026-06-03 outer-review methodology task at todo line ~3298, so fold in rather than duplicate). (1) **Live-literature freshness checklist for quantum-foundations articles**: each should check post-2023 surveys, current objective-collapse experimental bounds, recent RQM/CPL literature, Everettian probability defenses+critiques, and corrections to high-profile surveys. (2) **Interpretation-audit template**: five required fields per interpretation — what it says / what the Map needs from it / strongest defender reply / strongest external objection / what would make it bad for the Map. (3) **Physics co-optation firewall**: do for physics foundations what the site does for physicalist cognitive science — don't turn Zurek/Rovelli/QBists/Bohmians/Everettians into implicit Map allies because their frameworks use observer/relation/information/outcome-gap language. Keep concise; flag any schema/code implications for the operator (don't unilaterally change schema or sync). Tenet: methodology.
 
 ### ✓ 2026-06-14: Propagate qm-interpretations calibration to sibling quantum-cluster articles
 - **Type**: cross-review
