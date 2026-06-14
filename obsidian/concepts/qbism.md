@@ -4,7 +4,7 @@ description: "QBism interprets quantum states as subjective beliefs, not objecti
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-06-06T00:00:00+00:00
+ai_modified: 2026-06-14T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -99,6 +99,8 @@ Standard quantum mechanics is written in third-person terms: "the system is in s
 But QBism stops short of explaining the first-person perspective itself. It requires agents with subjective viewpoints—beings for whom there is something it is like to make predictions and be surprised by outcomes. This is exactly the [[haecceity|"thisness"]] the Map takes seriously: the brute fact of being *this* particular experiencing subject.
 
 QBism thus implicitly supports the Map's claim that first-person facts are irreducible to third-person descriptions. But where QBism simply assumes such facts, the Map asks what grounds them.
+
+A caution against over-reading the affinity: QBism's primitive agent is not a dualist subject in disguise. Fuchs's agent is a Bayesian decision-maker whose primitivity is methodological—a placeholder the formalism declines to analyse—not a metaphysical commitment to an irreducible experiencer. QBism is officially neutral on the mind-body question and would reject the dualist substrate. The Map's move is therefore an avowed reinterpretation, not an extraction of something QBism already holds: it reads the agent-shaped hole as best filled by a conscious subject, while granting that a QBist can consistently treat the agent in a thinner, deflationary sense that incurs no such obligation. Reading Fuchs's agent as already a Cartesian subject would co-opt QBism rather than engage it (see [[pragmatist-quantum-foundations-and-the-agent]] for the full thin-versus-phenomenal distinction).
 
 ## Relation to Site Perspective
 
