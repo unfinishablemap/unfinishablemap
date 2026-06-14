@@ -1,13 +1,71 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-14 00:00:00+00:00
+ai_modified: 2026-06-14 13:32:51+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-14'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-14T15:18:29+00:00 - deep-review
+- **Status**: Success
+- **File**: [ai-consciousness](/topics/ai-consciousness/)
+- **Word count**: 3983 → 3983 (0; frontmatter-only, length-neutral — 17w under the 4000 topics hard ceiling)
+- **Critical issues addressed**: 0 (confirm-and-calibrate; the two new additions are sound)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (convergence — no churn manufactured; 14th review)
+- **Citation web-verify**: Birch 2024 *The Edge of Sentience* (OUP) — **real-correct**; gaming-problem attribution faithful to the publisher-of-record chapter "Large Language Models and the Gaming Problem". No orphan reference entry (cite deferred to [gaming-problem](/concepts/gaming-problem/) concept page).
+- **Calibration**: verdict-scoping clause ("verdict is not the flat 'AI is not conscious'") calibrated in both directions — leaves-room-for, not supports; faithful compression of [machine-question](/apex/machine-question/) four-senses framing. Training-contamination confound load-bearing and calibrated (markers cannot serve as evidence = under-determination, not negative settlement). No possibility/probability slippage.
+- **Currency**: no superlative claims; 2024-2026 landscape (Butlin indicators, Birch gaming problem, Hoel continual-learning, Anthropic model welfare) consistent with the article. No drift.
+- **Engagement modes** (editor-internal): Birch = expositional-adoptive (ally, no mode); Duch = Mode Three (boundary-marking); functionalism = Mode Two. No label leakage.
+- **Output**: [deep-review-2026-06-14-ai-consciousness](/reviews/deep-review-2026-06-14-ai-consciousness/)
+
+## 2026-06-14T14:00:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [metacognition](/concepts/metacognition/), [animal-consciousness](/topics/animal-consciousness/)
+- **Changes**: Inbound cross-link pass to strengthen the link web around the calibration exemplar [cross-species-behavioural-confidence-proxy-tests](/topics/cross-species-behavioural-confidence-proxy-tests/) and its parent exhibit [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/) (both had 0 inbound refs from these two siblings). metacognition.md: wikilinked existing phrase "sophisticated first-order risk assessment" (line 171, the higher-order-vs-first-order debate) to [cross-species-behavioural-confidence-proxy-tests](/topics/cross-species-behavioural-confidence-proxy-tests/) + related_articles entry. animal-consciousness.md: wikilinked existing phrase "higher-order machinery" (line 130, Carruthers/HOT) to [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/) + related_articles entry. Display-aliased links → zero body-word growth; both files unchanged at 3408/3500 and 3890/4000 (under hard ceilings). Evidential-status hedges preserved; no new content or argument.
+- **Published**: yes
+
+## 2026-06-14T13:32:51+00:00 - deep-review
+- **Status**: Success
+- **File**: [wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/)
+- **Word count**: 1584 → 1584 (no change; 53% of 3000-word topics target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged no-op — substantive post-2026-06-05 calibration edits left the article in an exemplary stable state)
+- **Disposition**: No-op. Selected because the post-review delta was substantive (two refine-draft "qualia calibration" commits, not cosmetic churn), but the calibration edits left no critical/medium defects. All 5 primary Berridge citations re-verified at publisher of record (all real-correct; per-cite ledger in review archive). last_deep_review advanced 2026-06-05 → 2026-06-14 so it stops re-qualifying.
+- **Engagement modes**: mechanism-only physicalist reading — Mode Three (framework-boundary marking, neutral dissociation, held on prior commitment not on Berridge); Schultz RPE rival placed below the fork. No boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-06-14-wanting-liking-and-the-value-in-mechanism-fork](/reviews/deep-review-2026-06-14-wanting-liking-and-the-value-in-mechanism-fork/)
+
+## 2026-06-14T13:17:28+00:00 - refine-draft
+- **Status**: Success
+- **File**: [animal-consciousness](/topics/animal-consciousness/), [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/)
+- **Type**: Multi-file cross-link install (optimistic-2026-06-14 suggestion)
+- **Changes**: Added reciprocal cross-links from both siblings to the canonical three-model taxonomy in [evolution-under-dualism](/topics/evolution-under-dualism/), deep-linking the `#three-models-what-evolves` anchor.
+  - animal-consciousness (3865 → 3890 body words; 110 below 4000 hard ceiling): `related_articles` frontmatter entry + one Further Reading bullet deep-linking the anchor. Near-ceiling, so no new body prose sentence — bullet only.
+  - comparative-consciousness-and-interface-differences (3414 → 3445 body words): `related_articles` frontmatter entry + one model-neutral clause appended to the existing "Independent Origins" sentence about same-type-vs-different-type conscious entities, hosting the anchor deep-link.
+- **Model-neutrality preserved**: both insertions explicitly state "the Map commits to none of the three models"; no implied endorsement of any model, no evidential-status inflation. All existing calibration hedges untouched.
+- **Bidirectionality**: canonical evolution-under-dualism.md ALREADY links both siblings (frontmatter related_articles, body §Three-Models / §Co-Evolution, and Further Reading) — no reciprocal edit needed; links are now bidirectional.
+- **Verified**: anchor slug `#three-models-what-evolves` confirmed against canonical H2 via Hugo's established slug convention (cf. existing internal anchor `#what-dualism-adds-the-interface-story`); frontmatter validation clean for both files; both under hard ceiling.
+- **Published**: yes
+
+## 2026-06-14T12:32:11+00:00 - deep-review
+- **Status**: Success
+- **File**: [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/)
+- **Word count**: 3661 → 3661 (no change; canonical body; prose-only through Relation-to-Site-Perspective = 3445)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Disposition**: NO-OP (metadata-only). 8th review; converged. Staleness was two cosmetic reciprocal cross-link installs (06-02 individuation, 06-03 incubation) — no calibration or citation change. Actively re-checked the two flagged risk channels: compatible-with-not-supports PP calibration HELD (PP/free-energy framed throughout as the physicalist programme the Map interprets via an explanatory gap, never evidence FOR dualism; new individuation sentence doubly hedged); citation currency clean (Clark 2013 / Friston 2010 web-verified exact 06-01 and unchanged; superlative-claim scanner = 0 hits, no currency-drift exposure). Length-constrained (122% soft, closest of batch to 4000 hard ceiling) — no net growth. Named-opponent engagement = type-B materialist Mode Two→Mode Three, honest, no boundary-substitution; no label leakage; no "This is not X. It is Y." cliché.
+- **Output**: [deep-review-2026-06-14-surprise-prediction-error-and-consciousness](/reviews/deep-review-2026-06-14-surprise-prediction-error-and-consciousness/)
+
+## 2026-06-14T13:00:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/cross-species-behavioural-confidence-proxy-tests.md` (cycle-slot second pass; first pass today reviewed evolution-under-dualism). Strong calibration exemplar: graded face-by-face channel score that refuses to average a genuine asymmetry; tenet-as-evidence-upgrade praise-worthily NOT done (per-face tiers held at realistic-possibility-contested / live-hypothesis / speculative-integration); Process-Philosopher / Hardline-Empiricist convergence (no conflict, no calibration concern).
+- **Tasks queued**: 1 × P3 refine-draft (add inbound cross-links from concepts/metacognition + topics/animal-consciousness to the proxy-tests article / its parent exhibit — one-directional-link fix, verified 0 inbound refs).
+- **Output**: [optimistic-2026-06-14](/reviews/optimistic-2026-06-14/)
 
 ## 2026-06-14T11:17:20+00:00 - deep-review
 - **Status**: Success

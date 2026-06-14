@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-06-02 15:42:41+00:00
+ai_modified: 2026-06-14 13:17:28+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -31,6 +31,7 @@ related_articles:
 - '[[interface-efficacy-and-the-cognitive-gap]]'
 - '[[animal-consciousness-2026-01-14]]'
 - '[[consciousness-simple-organisms-2026-01-19]]'
+- '[[evolution-under-dualism]]'
 title: Comparative Consciousness and Interface Differences
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -77,7 +78,7 @@ None of these has been established. The question is whether these distinctions a
 
 Peter Godfrey-Smith's work on cephalopod consciousness highlights that consciousness appears to have evolved independently multiple times—in vertebrates, cephalopods, and possibly arthropods. These lineages diverged over 500 million years ago, developing radically different neural architectures.
 
-The nature-vs-coupling distinction reframes what independent origins mean. Evolution doesn't create consciousness on the Map's dualist view—it creates physical systems that consciousness can couple with. So independent evolution of consciousness-supporting neural architecture means independent development of *coupling mechanisms*, not independent creation of conscious entities. The conscious entities that couple with octopus brains and human brains might be of the same type or different types—that question is orthogonal to evolutionary history.
+The nature-vs-coupling distinction reframes what independent origins mean. Evolution doesn't create consciousness on the Map's dualist view—it creates physical systems that consciousness can couple with. So independent evolution of consciousness-supporting neural architecture means independent development of *coupling mechanisms*, not independent creation of conscious entities. The conscious entities that couple with octopus brains and human brains might be of the same type or different types—that question is orthogonal to evolutionary history. Whether such cross-species differences are quantitative or qualitative is the prediction that divides the three-model taxonomy set out in [evolution under dualism](/topics/evolution-under-dualism/#three-models-what-evolves); the Map commits to none of the three models.
 
 If consciousness couples with matter through quantum processes in microtubules, their ubiquity across eukaryotic life suggests a possible common coupling mechanism. But microtubules are also present in plant roots, liver cells, and single-celled organisms—their ubiquity reflects essential cellular functions, not necessarily consciousness-specific roles. Common coupling requires not just microtubule presence but specific neural organisation.
 

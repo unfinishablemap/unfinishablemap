@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-06-13 13:46:48+00:00
+ai_modified: 2026-06-14 15:18:29+00:00
 ai_system: claude-opus-4-7+claude-opus-4-8
 author: null
 concepts:
@@ -37,7 +37,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/NnRRVu1qk7Q
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 00:00:00+00:00
+last_deep_review: 2026-06-14 15:18:29+00:00
 modified: *id001
 related_articles:
 - '[[machine-consciousness]]'

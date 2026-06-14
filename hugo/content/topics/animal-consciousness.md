@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-08 12:00:00+00:00
+ai_modified: 2026-06-14 14:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -57,6 +57,8 @@ related_articles:
 - '[[common-cause-null]]'
 - '[[topics/the-interface-problem]]'
 - '[[interface-efficacy-and-the-cognitive-gap]]'
+- '[[evolution-under-dualism]]'
+- '[[introspection-architecture-independence-scoring]]'
 title: Animal Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -128,7 +130,7 @@ Two discriminators (not refutations) mark where the readings diverge. The first 
 
 ## Higher-Order Theories and Animal Minds
 
-[HOT theories](/concepts/higher-order-theories/) require higher-order representations for phenomenal consciousness; if animals lack metacognition, HOT implies they lack experience. Carruthers (2019), the strongest contemporary HOT defender, argues on exactly these grounds that most non-human animals lack phenomenal consciousness for want of the relevant higher-order machinery. But HOT arguably fails to explain phenomenal consciousness even in humans—it appears to address access consciousness, not felt quality—so gating animal experience on higher-order capacity may inherit that unspecified bridge rather than rest on it. The Map's framework has no principled reason to exclude animals.
+[HOT theories](/concepts/higher-order-theories/) require higher-order representations for phenomenal consciousness; if animals lack metacognition, HOT implies they lack experience. Carruthers (2019), the strongest contemporary HOT defender, argues on exactly these grounds that most non-human animals lack phenomenal consciousness for want of the relevant [higher-order machinery](/topics/introspection-architecture-independence-scoring/). But HOT arguably fails to explain phenomenal consciousness even in humans—it appears to address access consciousness, not felt quality—so gating animal experience on higher-order capacity may inherit that unspecified bridge rather than rest on it. The Map's framework has no principled reason to exclude animals.
 
 ## Consciousness and the Human-Ape Intelligence Gap
 
@@ -206,6 +208,7 @@ Whitehead's process philosophy proposes experience is fundamental—*actual occa
 ### Related Topics
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Why pain's phenomenal character is inseparable from its causal role across species
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — The evolutionary argument that consciousness must have causal effects
+- [evolution-under-dualism](/topics/evolution-under-dualism/#three-models-what-evolves) — Canonical source of the three-model taxonomy whose divergent predictions frame the qualitative-vs-quantitative species-difference question (the Map commits to none of the three)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why the explanatory gap applies universally
 - [ai-consciousness](/topics/ai-consciousness/) — Parallel questions about non-biological minds
 - [higher-order-theories](/concepts/higher-order-theories/) — Why HOT theories fail

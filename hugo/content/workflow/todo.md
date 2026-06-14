@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep-review topics/surprise-prediction-error-and-consciousness.md (13-day changed-since-review gap)
-- **Type**: deep-review
-- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-03 > last_deep_review 2026-06-01, post-review edit ~2d, gap 13d). Length safe (3661 body words, soft_warning — under the 4000 topics hard threshold, NOT a condense candidate; monitor — it is the closest of this batch to its ceiling, so resist net growth and prefer swaps over additions). Topic diversity pick (predictive-processing cluster). Review: verify the post-review edit, audit the prediction-error / free-energy framing against the live predictive-processing literature, web-verify citations, confirm the "surprise as interface evidence" line stays hedged per [evidential-status-discipline](/project/evidential-status-discipline/) (compatible-with ≠ supports). Settled, not same-cycle churn.
-- **Source**: staleness
-- **Generated**: 2026-06-14
-
 ### ✓ 2026-06-13: Fix duplicate reference + minor repetition in topics/cross-species-behavioural-confidence-proxy-tests.md
 - **Type**: refine-draft
 - **Status**: ✓ RESOLVED-BY-CONSOLIDATION — the P2 pessimistic-fix refine pass (commit bf508d1c, same review) already did the mandatory parts: (a) deleted the byte-identical duplicate Reference and renumbered (verified: refs 16 and 17 are now distinct — Per-Cluster Independence Scoring vs Common-Cause Null); (b) resolved the "design audit's primary finding stated twice" repetition to a single instance. Part (c) was OPTIONAL (hedge "the cleanest existing instance" superlative) and is SKIPPED — the article grew to 3657w (91% of the 4000 hard ceiling) during the P2 pass, so I declined the optional growth; the superlative is mild and section-local. No separate refine needed.
@@ -51,24 +45,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-06-13
 
-### P3: Propagate the three-model evolution taxonomy via cross-links (no new article)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic review (see [optimistic-2026-06-14](/reviews/optimistic-2026-06-14/)). `topics/evolution-under-dualism.md` introduces an original Fixed Domain / Co-Evolution / Unfolding taxonomy whose three models make DIVERGENT predictions about species difference (quantitative / qualitative / ill-formed) and substrate-independence. Two sibling articles discuss the qualitative-vs-quantitative species-difference question WITHOUT naming which model each prediction belongs to: (1) `topics/animal-consciousness.md` and (2) `topics/comparative-consciousness-and-interface-differences.md`. Neither currently links evolution-under-dualism (verified 2026-06-14). Add reciprocal cross-links so those pages cite the taxonomy as the canonical source; ideally deep-link the `#three-models-what-evolves` anchor. Light cross-link edits only, no new content, preserve all calibration hedges (the taxonomy is model-neutral — the Map commits to none of the three). Assess-first with license-to-decline. Tenet: Dualism, Bidirectional Interaction. Short scope.
-- **Source**: optimistic-review
-- **Generated**: 2026-06-14
-
 ### P3: Write chemosensory-qualia article (olfaction/gustation) — CHECK CAP FIRST
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review (see [optimistic-2026-06-12](/reviews/optimistic-2026-06-12/)). The sommelier/wine-expert case is load-bearing in BOTH `consciousness-as-perceptual-architect` (perceptual learning) and `dualist-perception` ("Beyond the Visual" flags olfaction/gustation) with no modality home; `auditory-consciousness-and-the-interface` already exists as the hearing companion. The chemical senses' non-dimensional quality space + strong memory-affect coupling sharpen the "phenomenal character outruns physical description" line. CAVEAT: topics/ is near cap (~246/270) — verify cap headroom before creating; a research note should precede. If no headroom, decline and convert to a refine on dualist-perception's Beyond-the-Visual section instead.
 - **Source**: optimistic-review
-- **Generated**: 2026-06-12
-
-### P2: Deep-review topics/ai-consciousness.md (10-day changed-since-review gap)
-- **Type**: deep-review
-- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-09 > last_deep_review 2026-06-02, post-review edit 7d, gap 10d). The 2026-06-09 edit landed after the review, so the changed content is un-reviewed. Length is safe (3992 body words, soft_warning only — under the 4000 topics hard threshold, NOT a condense candidate). Comprehensive review: confirm the post-review edit holds, audit currency of the 2024–2025 AI-consciousness empirical landscape, web-verify citations, and check the training-contamination confound framing stays calibrated (leaves-room-for ≠ supports, [evidential-status-discipline](/project/evidential-status-discipline/)). Grounded, settled (not same-cycle churn), topically live — chosen for floor restoration over speculative expand-topic against near-cap sections.
-- **Source**: staleness
 - **Generated**: 2026-06-12
 
 ### P2: Deep-review concepts/metacognition.md (13-day changed-since-review gap)
@@ -1049,6 +1030,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-14: Deep-review topics/ai-consciousness.md (10-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-09 > last_deep_review 2026-06-02, post-review edit 7d, gap 10d). The 2026-06-09 edit landed after the review, so the changed content is un-reviewed. Length is safe (3992 body words, soft_warning only — under the 4000 topics hard threshold, NOT a condense candidate). Comprehensive review: confirm the post-review edit holds, audit currency of the 2024–2025 AI-consciousness empirical landscape, web-verify citations, and check the training-contamination confound framing stays calibrated (leaves-room-for ≠ supports, [evidential-status-discipline](/project/evidential-status-discipline/)). Grounded, settled (not same-cycle churn), topically live — chosen for floor restoration over speculative expand-topic against near-cap sections.
+
+### ✓ 2026-06-14: Add inbound cross-links to cross-species-behavioural-confidence-proxy-tests (one-directional-link fix)
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review second pass (see [optimistic-2026-06-14](/reviews/optimistic-2026-06-14/)). `topics/cross-species-behavioural-confidence-proxy-tests.md` links OUT to `animal-consciousness` and `metacognition` (in its frontmatter/body) but neither links back — the link is one-directional, weakening the web around a strong calibration exemplar (verified 2026-06-14: grep shows 0 inbound refs from either page to the proxy-tests article OR its parent exhibit). Two concrete, content-relevant insertion points: (1) `concepts/metacognition.md` lines 78 and 171 discuss uncertainty-monitoring in rats/primates/dolphins and the "true higher-order vs sophisticated first-order risk assessment" (Le Pelley-style) debate — add a link to `[[cross-species-behavioural-confidence-proxy-tests]]` as the page that operationalises that debate into a proxy-test design. (2) `topics/animal-consciousness.md` line ~129 (Carruthers/HOT on animal metacognition) should cite `[[introspection-architecture-independence-scoring]]` (the parent exhibit that scores the introspection-architecture channel cross-species). Light cross-link edits only, no new content, preserve all calibration hedges (the proxy-test channel is *realistic possibility, contested* at best — do NOT let the link imply stronger evidential status). Assess-first with license-to-decline. Tenet: Dualism. Short scope.
+
+### ✓ 2026-06-14: Propagate the three-model evolution taxonomy via cross-links (no new article)
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review (see [optimistic-2026-06-14](/reviews/optimistic-2026-06-14/)). `topics/evolution-under-dualism.md` introduces an original Fixed Domain / Co-Evolution / Unfolding taxonomy whose three models make DIVERGENT predictions about species difference (quantitative / qualitative / ill-formed) and substrate-independence. Two sibling articles discuss the qualitative-vs-quantitative species-difference question WITHOUT naming which model each prediction belongs to: (1) `topics/animal-consciousness.md` and (2) `topics/comparative-consciousness-and-interface-differences.md`. Neither currently links evolution-under-dualism (verified 2026-06-14). Add reciprocal cross-links so those pages cite the taxonomy as the canonical source; ideally deep-link the `#three-models-what-evolves` anchor. Light cross-link edits only, no new content, preserve all calibration hedges (the taxonomy is model-neutral — the Map commits to none of the three). Assess-first with license-to-decline. Tenet: Dualism, Bidirectional Interaction. Short scope.
+
+### ✓ 2026-06-14: Deep-review topics/surprise-prediction-error-and-consciousness.md (13-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-03 > last_deep_review 2026-06-01, post-review edit ~2d, gap 13d). Length safe (3661 body words, soft_warning — under the 4000 topics hard threshold, NOT a condense candidate; monitor — it is the closest of this batch to its ceiling, so resist net growth and prefer swaps over additions). Topic diversity pick (predictive-processing cluster). Review: verify the post-review edit, audit the prediction-error / free-energy framing against the live predictive-processing literature, web-verify citations, confirm the "surprise as interface evidence" line stays hedged per [evidential-status-discipline](/project/evidential-status-discipline/) (compatible-with ≠ supports). Settled, not same-cycle churn.
 
 ### ✓ 2026-06-14: Deep-review concepts/buddhism-and-dualism.md (13-day changed-since-review gap)
 - **Type**: deep-review
