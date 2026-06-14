@@ -5,6 +5,12 @@ ai_modified: 2026-06-14T13:32:51+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-14T14:00:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/metacognition]], [[topics/animal-consciousness]]
+- **Changes**: Inbound cross-link pass to strengthen the link web around the calibration exemplar [[cross-species-behavioural-confidence-proxy-tests]] and its parent exhibit [[introspection-architecture-independence-scoring]] (both had 0 inbound refs from these two siblings). metacognition.md: wikilinked existing phrase "sophisticated first-order risk assessment" (line 171, the higher-order-vs-first-order debate) to [[cross-species-behavioural-confidence-proxy-tests]] + related_articles entry. animal-consciousness.md: wikilinked existing phrase "higher-order machinery" (line 130, Carruthers/HOT) to [[introspection-architecture-independence-scoring]] + related_articles entry. Display-aliased links → zero body-word growth; both files unchanged at 3408/3500 and 3890/4000 (under hard ceilings). Evidential-status hedges preserved; no new content or argument.
+- **Published**: yes
+
 ## 2026-06-14T13:32:51+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/wanting-liking-and-the-value-in-mechanism-fork]]

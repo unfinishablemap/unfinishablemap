@@ -4,7 +4,7 @@ description: "Do animals have conscious experience? Convergent evidence suggests
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-06-14T13:17:28+00:00
+ai_modified: 2026-06-14T14:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -48,6 +48,7 @@ related_articles:
   - "[[topics/the-interface-problem]]"
   - "[[interface-efficacy-and-the-cognitive-gap]]"
   - "[[evolution-under-dualism]]"
+  - "[[introspection-architecture-independence-scoring]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -127,7 +128,7 @@ Two discriminators (not refutations) mark where the readings diverge. The first 
 
 ## Higher-Order Theories and Animal Minds
 
-[[higher-order-theories|HOT theories]] require higher-order representations for phenomenal consciousness; if animals lack metacognition, HOT implies they lack experience. Carruthers (2019), the strongest contemporary HOT defender, argues on exactly these grounds that most non-human animals lack phenomenal consciousness for want of the relevant higher-order machinery. But HOT arguably fails to explain phenomenal consciousness even in humans—it appears to address access consciousness, not felt quality—so gating animal experience on higher-order capacity may inherit that unspecified bridge rather than rest on it. The Map's framework has no principled reason to exclude animals.
+[[higher-order-theories|HOT theories]] require higher-order representations for phenomenal consciousness; if animals lack metacognition, HOT implies they lack experience. Carruthers (2019), the strongest contemporary HOT defender, argues on exactly these grounds that most non-human animals lack phenomenal consciousness for want of the relevant [[introspection-architecture-independence-scoring|higher-order machinery]]. But HOT arguably fails to explain phenomenal consciousness even in humans—it appears to address access consciousness, not felt quality—so gating animal experience on higher-order capacity may inherit that unspecified bridge rather than rest on it. The Map's framework has no principled reason to exclude animals.
 
 ## Consciousness and the Human-Ape Intelligence Gap
 

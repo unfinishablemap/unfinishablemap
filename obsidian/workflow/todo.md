@@ -44,14 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-06-13
 
-### P2: Add inbound cross-links to cross-species-behavioural-confidence-proxy-tests (one-directional-link fix)
-- **Type**: refine-draft
-- **Status**: pending
-- **Promoted**: 2026-06-14T12:50:00+00:00 — promoted P3→P2 by floor-restoring replenish (see sibling promotion above) to restore the loop-pickable floor with a concrete verified-actionable task. Decline-premise re-checked on disk 2026-06-14: grep confirms 0 inbound refs to the proxy-tests article (or its parent exhibit) from `metacognition.md` / `animal-consciousness.md`, and `animal-consciousness.md` has 0 refs to `introspection-architecture-independence-scoring` — the one-directional-link gap is real. COORDINATION: insertion point (1) touches `concepts/metacognition.md`, which is ALSO the subject of the standing "Deep-review concepts/metacognition.md" P2 below. To avoid an edit conflict, whichever runs first should leave a note; if the deep-review runs first it may fold this single cross-link in (mark this RESOLVED-BY-CONSOLIDATION), otherwise this light edit is independent and safe.
-- **Notes**: Suggested by optimistic review second pass (see [[reviews/optimistic-2026-06-14]]). `topics/cross-species-behavioural-confidence-proxy-tests.md` links OUT to `animal-consciousness` and `metacognition` (in its frontmatter/body) but neither links back — the link is one-directional, weakening the web around a strong calibration exemplar (verified 2026-06-14: grep shows 0 inbound refs from either page to the proxy-tests article OR its parent exhibit). Two concrete, content-relevant insertion points: (1) `concepts/metacognition.md` lines 78 and 171 discuss uncertainty-monitoring in rats/primates/dolphins and the "true higher-order vs sophisticated first-order risk assessment" (Le Pelley-style) debate — add a link to `[[cross-species-behavioural-confidence-proxy-tests]]` as the page that operationalises that debate into a proxy-test design. (2) `topics/animal-consciousness.md` line ~129 (Carruthers/HOT on animal metacognition) should cite `[[introspection-architecture-independence-scoring]]` (the parent exhibit that scores the introspection-architecture channel cross-species). Light cross-link edits only, no new content, preserve all calibration hedges (the proxy-test channel is *realistic possibility, contested* at best — do NOT let the link imply stronger evidential status). Assess-first with license-to-decline. Tenet: Dualism. Short scope.
-- **Source**: optimistic-review
-- **Generated**: 2026-06-14
-
 ### P3: Write chemosensory-qualia article (olfaction/gustation) — CHECK CAP FIRST
 - **Type**: expand-topic
 - **Status**: pending
@@ -1043,6 +1035,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-14: Add inbound cross-links to cross-species-behavioural-confidence-proxy-tests (one-directional-link fix)
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review second pass (see [[reviews/optimistic-2026-06-14]]). `topics/cross-species-behavioural-confidence-proxy-tests.md` links OUT to `animal-consciousness` and `metacognition` (in its frontmatter/body) but neither links back — the link is one-directional, weakening the web around a strong calibration exemplar (verified 2026-06-14: grep shows 0 inbound refs from either page to the proxy-tests article OR its parent exhibit). Two concrete, content-relevant insertion points: (1) `concepts/metacognition.md` lines 78 and 171 discuss uncertainty-monitoring in rats/primates/dolphins and the "true higher-order vs sophisticated first-order risk assessment" (Le Pelley-style) debate — add a link to `[[cross-species-behavioural-confidence-proxy-tests]]` as the page that operationalises that debate into a proxy-test design. (2) `topics/animal-consciousness.md` line ~129 (Carruthers/HOT on animal metacognition) should cite `[[introspection-architecture-independence-scoring]]` (the parent exhibit that scores the introspection-architecture channel cross-species). Light cross-link edits only, no new content, preserve all calibration hedges (the proxy-test channel is *realistic possibility, contested* at best — do NOT let the link imply stronger evidential status). Assess-first with license-to-decline. Tenet: Dualism. Short scope.
 
 ### ✓ 2026-06-14: Propagate the three-model evolution taxonomy via cross-links (no new article)
 - **Type**: refine-draft
