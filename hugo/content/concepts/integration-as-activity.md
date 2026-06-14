@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-06-03 14:30:33+00:00
+ai_modified: 2026-06-14 05:31:50+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: Integration is something consciousness does, not what consciousness
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 03:50:06+00:00
+last_deep_review: 2026-06-14 05:31:50+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

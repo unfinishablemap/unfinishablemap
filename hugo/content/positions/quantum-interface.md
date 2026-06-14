@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-06-10 22:00:00+00:00
+ai_modified: 2026-06-14 05:02:46+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts:
@@ -51,7 +51,8 @@ This file runs over the soft per-domain length advisory (≈1900 words against a
 - **Would shift if**: a working coherence-time calculation supporting pre-decoherence proposals in neural tissue lands; or post-decoherence selection turns out to require a mechanism (e.g., a retrocausal or final-boundary structure) that itself faces fatal physical objections; or a fourth mechanism class emerges that handles the decoherence problem with fewer commitments.
 - **Updated 2026-06-05**: calibration pass (pessimistic-2026-06-05) — clarified the decoherence-timescale advantage does not discharge the bias-without-deviation dilemma; routed that residual to P-Q3. No confidence change.
 - **Cross-register note (2026-06-10)**: the agency register's P-A3 (Libet timing) carries a weakly-held *atemporal-selection* fallback from the time-symmetric / retrocausal family. This mechanism preference governs: where the Map expresses a *how*-of-selection preference it favours forward-in-time post-decoherence selection, so P-A3's atemporal reading is explicitly subordinate to this position, not a competing primary claim. The two are separable (agency domain vs mechanism domain) and consistent, not contradictory. See [agency-and-will](/positions/agency-and-will/) P-A3.
-- **Last reviewed**: 2026-06-05
+- **Interpretation note (2026-06-14)**: the same subordination applies to the transactional-interpretation / two-state-vector-formalism (TI/TSVF) route surveyed in [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/). That article rates TI/TSVF high on conceptual resonance but explicitly low on mechanism specificity (no retrocausal substrate specified, no account of biasing confirmation waves while preserving Born statistics). This register treats the TI/TSVF atemporal route as the same subordinate time-symmetric fallback as P-A3's, not as the preferred mechanism candidate, which remains forward-in-time post-decoherence selection. Register and article agree.
+- **Last reviewed**: 2026-06-14
 
 ## P-Q2: The default reading of MQI preserves Born statistics exactly
 

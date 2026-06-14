@@ -9,6 +9,37 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-14T05:31:50+00:00 - deep-review
+- **Status**: Success
+- **File**: [integration-as-activity](/concepts/integration-as-activity/)
+- **Word count**: 2940 → 2940 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verdict**: Metadata-only. Converged article (3rd review). Sole change since 2026-06-02 review is a cosmetic `related_articles` cross-link install (`interface-specification-programme`, apex-evolve `8a17a3bef`) that bumped `ai_modified` and re-qualified the file — no body/citation/reference delta. §2.4 web-verify not triggered (References unchanged). New cross-link verified reciprocal; body wikilinks resolve. Engagement modes unchanged from prior reviews (phenomenal-concept Mode One+Three; first-personal Mode Two; convergence-limit + no-subject Mode Three). Should be excluded by ≥3-review/14-day damping until ~2026-06-28.
+- **Output**: [deep-review-2026-06-14-integration-as-activity](/reviews/deep-review-2026-06-14-integration-as-activity/)
+
+## 2026-06-14T05:02:46+00:00 - refine-draft
+- **Status**: Success
+- **File**: [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) + [quantum-interface](/positions/quantum-interface/)
+- **Source**: outer review 2026-06-14 (ChatGPT 5.5 Pro), findings #8 & #19 — verified internal-consistency issue (table overstates TI/TSVF Map-compatibility relative to the positions register)
+- **Changes**:
+  - Article: recalibrated the Transactional/TSVF comparative-table cell from bare "High" → "High resonance, low mechanism specificity"; added a one-clause tie-in in "Relation to Site Perspective" noting the resonance is conceptual not mechanistic and pointing at [quantum-interface](/positions/quantum-interface/)'s subordination of the atemporal route to forward-in-time post-decoherence selection (no "This is not X. It is Y." cliché; evidential-status discipline preserved — resonance ≠ support). Body 3637→3702 words (hard ceiling 4000, comfortable headroom).
+  - Positions: added an "Interpretation note (2026-06-14)" to P-Q1 making the TI/TSVF status explicit — same subordinate time-symmetric fallback as P-A3; preferred candidate remains forward-in-time post-decoherence selection. Last-reviewed 2026-06-05→2026-06-14. (Subordination principle already stated in the 2026-06-10 cross-register note; this is a near-no-op explicit confirm naming the TI/TSVF route so register and article anchor each other.)
+- **Scope**: narrow/coordinated — touched ONLY the TI/TSVF row + register reconciliation; left the separate consolidated P1 task's territory (GRW/CSL & Quantum Darwinism rows, Bohmian/QBism prose, survey citation, epothilone hedge) untouched
+- **Attribution**: article ai_system claude-opus-4-6 → claude-opus-4-6+claude-opus-4-8 (body-prose change by opus-4-8); positions already claude-opus-4-8 (no change). ai_modified bumped on both.
+- **Published**: yes
+
+## 2026-06-14T04:48:00+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-14
+- **Coverage**: 2/3 reviewers processed (sources: ChatGPT 5.5 Pro, Gemini 2.5 Pro; Claude leg absent)
+- **Subject**: `topics/qm-interpretations-beyond-many-worlds.md` (both reviewers, same target)
+- **Clusters**: 2 convergent (epothilone B empirical caution; tenet-bracketing vs independent support), 7 singleton, 1 divergent (RQM: strength vs fatal collapse)
+- **Tasks upgraded**: 1 (P3→P2: 0, P2→P1: 1 — the consolidated qm-interpretations recalibration task, home of both convergent findings)
+- **Tasks deduplicated**: 0 (per-reviewer tasks were already consolidated onto one ChatGPT task cluster during /outer-review processing; the Gemini convergent contribution was already cross-referenced in via "Also see")
+- **Output**: [outer-review-synthesis-2026-06-14](/reviews/outer-review-synthesis-2026-06-14/)
+
 ## 2026-06-14T05:05:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 2.5 Pro (gemini-2-5-pro)
