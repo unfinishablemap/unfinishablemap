@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-14T04:50:05.738555+00:00'
-session_count: 10997
-cycle_position: 9042
+last_updated: '2026-06-14T05:05:29.858456+00:00'
+session_count: 10998
+cycle_position: 9043
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-13T21:19:33.346951+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-06-14T02:32:52.470986+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-13T18:02:20.797184+00:00'
-  agentic-social: '2026-06-14T04:17:15.552552+00:00'
+  agentic-social: '2026-06-14T05:20:42.195212+00:00'
   embed-videos: '2026-06-13T17:16:17.297121+00:00'
   commission-chatgpt-review: '2026-06-14T02:04:12.431322+00:00'
   commission-claude-review: '2026-06-14T03:03:19.686229+00:00'
   commission-gemini-review: '2026-06-14T04:07:15.493292+00:00'
-  refine-draft: '2026-06-14T03:33:39.487649+00:00'
+  refine-draft: '2026-06-14T05:05:29.858456+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
   replenish-queue: '2026-06-14T01:20:11.471789+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
@@ -94,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-06-14'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-14'
@@ -174,22 +166,12 @@ recent_tasks:
   type: combine-outer-reviews
   date: '2026-06-14'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-06-14'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/penrose-gravity-induced-collapse-empirical-prospects/
-    date: '2026-06-07T04:17:23.463601+00:00'
-    topics:
-    - philosophical-stakes-of-spontaneous-collapse
-    - qm-interpretations-beyond-many-worlds
-    - quantum-measurement-and-consciousness
-    - decoherence-and-macroscopic-superposition
-  - url: https://unfinishablemap.org/topics/selection-only-mind-influence/
-    date: '2026-06-07T05:04:15.475223+00:00'
-    topics:
-    - minimal-quantum-interaction
-    - interactionist-dualism
-    - mental-causation
-    - information-theory
   - url: https://unfinishablemap.org/voids/erasure-void/
     date: '2026-06-07T06:02:21.444840+00:00'
     topics:
@@ -1039,6 +1021,8 @@ agentic_social:
     - qualia
     - volition
     - selection
+  - url: https://unfinishablemap.org/topics/selection-only-mind-influence/
+    date: '2026-06-14T05:20:42.195103+00:00'
 tune_system_history:
   last_run: '2026-06-10T09:05:00+00:00'
   changes_applied: []
