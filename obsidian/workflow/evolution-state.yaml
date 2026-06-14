@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-14T15:34:35.754255+00:00'
-session_count: 11040
+last_updated: '2026-06-14T15:46:18.801756+00:00'
+session_count: 11041
 cycle_position: 9066
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-06-14T14:32:43.527663+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-13T18:02:20.797184+00:00'
-  agentic-social: '2026-06-14T14:48:11.664043+00:00'
+  agentic-social: '2026-06-14T16:02:00.927648+00:00'
   embed-videos: '2026-06-14T07:01:15.561396+00:00'
   commission-chatgpt-review: '2026-06-14T02:04:12.431322+00:00'
   commission-claude-review: '2026-06-14T03:03:19.686229+00:00'
@@ -34,7 +30,7 @@ last_runs:
   combine-outer-reviews: '2026-06-14T04:50:05.738555+00:00'
   collect-gemini-review: '2026-06-14T04:39:46.329708+00:00'
   positions-evolve: '2026-06-13T10:48:30.875831+00:00'
-  check-model-fallback: '2026-06-14T11:31:25.677076+00:00'
+  check-model-fallback: '2026-06-14T15:46:18.801756+00:00'
 last_git_push: '2026-06-14T12:04:02.458244+00:00'
 last_tweet_date: '2026-06-14'
 content_stats:
@@ -94,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-14'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-14'
@@ -174,13 +166,12 @@ recent_tasks:
   type: replenish-queue
   date: '2026-06-14'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-06-14'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/selection-criterion-problem/
-    date: '2026-06-07T15:02:29.235167+00:00'
-    topics:
-    - forward-in-time-conscious-selection
-    - valence-and-conscious-selection
   - url: https://unfinishablemap.org/topics/argument-from-reason/
     date: '2026-06-07T16:02:30.240215+00:00'
     topics:
@@ -1030,6 +1021,11 @@ agentic_social:
     - hard-problem-of-consciousness
     - qualia
     - phenomenal-consciousness
+  - url: https://unfinishablemap.org/concepts/selection-criterion-problem/
+    date: '2026-06-14T16:02:00.927578+00:00'
+    topics:
+    - forward-in-time-conscious-selection
+    - valence-and-conscious-selection
 tune_system_history:
   last_run: '2026-06-10T09:05:00+00:00'
   changes_applied: []
