@@ -5,6 +5,20 @@ ai_modified: 2026-06-14T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-14T06:05:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/qm-interpretations-beyond-many-worlds]]
+- **Word count**: 3702 → 3992 (under 4000 topics hard ceiling; transient peak of 4102 mid-pass, trimmed back)
+- **Source**: outer-review-synthesis-2026-06-14 (consolidated ChatGPT 5.5 Pro #1-7,9-14 + 2 ≥2-reviewer convergent findings); P1 one-pass to avoid same-file churn
+- **Convergent core**:
+  - (a) Table recalibration: split GRW/CSL into standard (no consciousness role; moderate tenet-fit, low independent support) vs Φ-modulated (high tenet-fit, high speculative cost); Quantum Darwinism "Moderate–High" → "Moderate as constraint, low as evidence". Added tight "compatibility is not support" scoring key separating tenet-fit / independent-physics-support / mechanism-specificity / empirical-risk — the anti-circularity finding both reviewers flagged.
+  - (e) Epothilone B hedge tightened to indirect/contested microtubule-anaesthesia relevance that does NOT establish biologically useful coherence; added the classical receptor-trafficking null reading (data consistent with both). Did NOT add Ma & Wang 2026 (unverified reviewer cite — declined per [[ai-citation-metadata-unreliable]]).
+- **Singletons**: (b) Bohmian — qualified "felt deliberation illusory" to the Map's incompatibilist standpoint, added a compatibilist best-reply, replaced relativity-tension overreach with parity framing (collapse pays its own Lorentz-invariance costs). (c) QBism — "anti-realist" → "non-realist about the state / anti-ψ-ontic", noted Fuchs's participatory realism, marked the "under-specified Map commitments" reading as a dualist reinterpretation QBists would reject; section heading updated. (d) Survey opener reframed to "interpretive pluralism, no settled resolution; consciousness-collapse a small minority" — kept the 2013 Schlosshauer cite (no verified 2025 replacement, did not insert an unverified one).
+- **Skipped**: (f) optional parity box / "what would change the Map's mind" — length ceiling binding.
+- **Coordination**: did NOT re-touch the TI/TSVF row or its RtSP tie-in (recalibrated last cycle).
+- **Engagement classification** (editor-internal, not in body): Bohmian — Mode One (in-framework: determinism vs phenomenology, with compatibilist best-reply acknowledged) + Mode Three boundary on the tenet cost. QBism — Mode Two (state non-realism removes the substrate the Map's ontology needs) + Mode Three (dualist reinterpretation QBists reject, openly marked).
+- **Published**: yes
+
 ## 2026-06-14T05:31:50+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/integration-as-activity]]
