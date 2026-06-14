@@ -4,7 +4,7 @@ description: "Metacognition and metarepresentation are cognitive tools conscious
 created: 2026-01-18
 modified: 2026-05-25
 human_modified: null
-ai_modified: 2026-06-14T00:00:00+00:00
+ai_modified: 2026-06-14T16:34:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -49,7 +49,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-17
 last_curated: null
-last_deep_review: 2026-05-29T04:23:52+00:00
+last_deep_review: 2026-06-14T16:34:41+00:00
 coalesced_from:
   - "/concepts/metacognition/"
   - "/concepts/metarepresentation/"
@@ -169,7 +169,7 @@ Metamemory phenomena show metacognition tracking information beyond current cons
 
 ## Phylogeny and Development
 
-Uncertainty monitoring has been demonstrated in rats, primates, and dolphins (Templer & Hampton 2021); if rats possess genuine metacognition, the capacity evolved roughly 80 million years ago. Whether this is true higher-order representation or [[cross-species-behavioural-confidence-proxy-tests|sophisticated first-order risk assessment]] remains debated, but either way the monitoring of one's own cognitive states appears evolutionarily ancient—reinforcing that metacognition is a function consciousness uses, not what consciousness is.
+Uncertainty monitoring has been demonstrated in rats, primates, and dolphins (Templer 2019); if rats possess genuine metacognition, the capacity evolved roughly 80 million years ago. Whether this is true higher-order representation or [[cross-species-behavioural-confidence-proxy-tests|sophisticated first-order risk assessment]] remains debated, but either way the monitoring of one's own cognitive states appears evolutionarily ancient—reinforcing that metacognition is a function consciousness uses, not what consciousness is.
 
 Metarepresentation, by contrast, develops late and gradually in children: joint attention (18-24 months), false-belief understanding (3-4 years), understanding knowledge as representation (6-7 years). This trajectory mirrors the emergence of explicit consciousness, with each stage depending on neural infrastructure maturing on a biological timetable (see [[consciousness-interface-development|developmental transformation of the consciousness-interface]]). The developmental data suggest metarepresentation is built on consciousness rather than constituting it.
 
@@ -238,7 +238,7 @@ The Map's framework accommodates both: consciousness provides phenomenal content
 1. Rosenthal, D.M. (2005). *Consciousness and Mind*. Oxford University Press.
 1. Schulz, K. (2010). *Being Wrong: Adventures in the Margin of Error*. HarperCollins.
 1. Schwartz, B.L. (2002). *Tip-of-the-Tongue States: Phenomenology, Mechanism, and Lexical Retrieval*. Lawrence Erlbaum.
-1. Templer, V.L., & Hampton, R.R. (2021). Slow progress with the most widely used animal model. *Animal Behavior and Cognition*, 6(4), 273-287.
+1. Templer, V.L. (2019). Slow progress with the most widely used animal model: Ten years of metacognition research in rats, 2009-2019. *Animal Behavior and Cognition*, 6(4), 273-277. https://doi.org/10.26451/abc.06.04.07.2019
 1. Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
 1. Wellman, H.M. (1990). *The Child's Theory of Mind*. MIT Press.
 1. Gruber, T., Zuberbühler, K., Clément, F., & van Schaik, C. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.

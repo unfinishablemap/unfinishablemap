@@ -4,7 +4,7 @@ created: 2026-01-18
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
-ai_modified: 2026-05-29T04:23:52+00:00
+ai_modified: 2026-06-14T16:34:41+00:00
 ---
 
 # Research: Metacognition and Consciousness
@@ -93,7 +93,7 @@ Metacognition—thinking about thinking—occupies a pivotal but contested posit
 - **Tenet alignment**: Conflicts with Dualism (reduces consciousness to functional states)
 - **Quote**: "A conscious mental state M, of mine, is a state that is actually causing an activated thought that I have M, and causing it non-inferentially."
 
-### Templer & Hampton (2021): Animal Metacognition
+### Templer (2019): Animal Metacognition
 - **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC8158056/
 - **Type**: Review article
 - **Key points**:
@@ -226,5 +226,5 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Nisbett, R.E., & Wilson, T.D. (1977). Telling more than we can know. *Psychological Review*, 84(3), 231-259.
 - Rosenthal, D.M. (2005). *Consciousness and Mind*. Oxford University Press.
 - Schwitzgebel, E. (2024). Introspection. *Stanford Encyclopedia of Philosophy*.
-- Templer, V.L., & Hampton, R.R. (2021). Slow progress with the most widely used animal model: Ten years of metacognition research in rats. *Animal Behavior and Cognition*, 6(4), 273-287.
+- Templer, V.L. (2019). Slow progress with the most widely used animal model: Ten years of metacognition research in rats, 2009-2019. *Animal Behavior and Cognition*, 6(4), 273-277.
 - Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.

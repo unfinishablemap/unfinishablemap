@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-14T13:32:51+00:00
+ai_modified: 2026-06-14T16:34:41+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-14T16:34:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/metacognition]]
+- **Word count**: 3408 → 3411 (+3; metadata-only citation fix, length-neutral — 89w under the 3500 concepts hard ceiling)
+- **Critical issues addressed**: 1 (Templer reference real-paper-wrong-metadata: solo-2019 not Templer-&-Hampton-2021, pages 273-277 not 273-287, full title restored; body ~80-Myr claim faithful — fixed in place, NOT de-cited)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (7th review; philosophically converged, citation-accuracy pass only)
+- **Citation web-verify** (publisher-of-record ledger):
+  - Gruber et al. 2015 (*Front. Psychol.* 6:91) — **real-correct; re-attribution from "Whiten 2015" confirmed a FIX not a regression**; the Jourdain Hypothesis (Molière's Monsieur Jourdain) is genuinely Gruber et al.'s coinage from this paper.
+  - Rebouillat et al. 2021 (*Neurosci. Consciousness* 2021(1) niab004, PMID 33747547) — **real-correct**; confidence-accuracy inversion claim faithful.
+  - Birch 2024 (*The Edge of Sentience*, OUP) — **real-correct**; gaming-problem attribution faithful.
+  - Templer 2019 (*Anim. Behav. Cogn.* 6(4):273-277, PMID 34056076) — **real-wrong-metadata, corrected** (see critical above).
+- **Propagation**: same Templer-2021 defect fixed in research root [[research/metacognition-consciousness-2026-01-18]] (heading + References).
+- **Calibration**: anti-correlated-metacognitive-signal / Rebouillat inversion stays regime-conditional (not introspection-globally-unreliable); no possibility/probability slippage.
+- **Output**: [[reviews/deep-review-2026-06-14-metacognition]]
 
 ## 2026-06-14T15:18:29+00:00 - deep-review
 - **Status**: Success
