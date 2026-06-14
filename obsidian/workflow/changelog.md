@@ -5,6 +5,18 @@ ai_modified: 2026-06-14T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-14T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/qm-interpretations-beyond-many-worlds]]
+- **Source**: topic-concept anchoring audit 2026-06-14 (Audit Three) — over-claimed relative to anchor [[concepts/many-worlds]] (hedge_density 1.50/kw < 1.81 target; strong_assertion 0.50/kw > 0.30 target × 1.5)
+- **Changes**: net-neutral in-place calibration only (3992 → 3994 words; both anchoring checks now clear, 0 flags). Specifics:
+  - Softened strong assertion "establishes at most an indirect, contested relevance" → "indicates at most..." (drops strong-assertion count 2 → 1; the calibrating "does not establish biologically useful quantum coherence" preserved)
+  - Softened absolute "This is the interpretation most hostile" → "This appears to be the interpretation most hostile" (Bohmian section; adds hedge marker)
+  - Softened absolute "The pattern is clear." → "The pattern seems clear." (Comparative Assessment; adds hedge marker)
+- **Calibration preserved (no regression of 2026-06-14 recalibration, commits 6f1c8358 / fb83275e)**: compatibility-is-not-support scoring key, GRW/CSL standard-vs-Φ split, Quantum-Darwinism moderate/low calibration, epothilone-B hedge + classical null, Bohmian/QBism qualifications all intact. Central Map claim and tenet-conditioned positions left plainly stated; only contestable empirical/interpretive assertions were softened.
+- **Post-edit anchoring**: hedge_density 2.00/kw (≥1.81), strong_assertion 0.25/kw (≤0.45) — evaluate_anchoring returns 0 flags. Length status soft_warning (3994/4000, under hard ceiling).
+- **Published**: yes
+
 ## 2026-06-14T05:00:00+00:00 - refine-draft (methodology capture)
 - **Status**: Success
 - **Source**: outer-review-2026-06-14 (ChatGPT 5.5 Pro) findings #23–#25 — three site-methodology proposals

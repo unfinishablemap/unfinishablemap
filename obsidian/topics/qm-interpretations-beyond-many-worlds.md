@@ -4,7 +4,7 @@ description: "A survey of QM interpretations—Copenhagen, Bohmian, QBism, relat
 created: 2026-01-23
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-06-14T06:05:00+00:00
+ai_modified: 2026-06-14T12:00:00+00:00
 last_deep_review: 2026-06-04T17:22:19+00:00
 draft: false
 topics:
@@ -59,7 +59,7 @@ Copenhagen's instrumentalism, however, conflicts with the Map's realist commitme
 
 Bohmian mechanics restores determinism by adding hidden variables—particles always have definite positions, guided by a "pilot wave" that evolves according to the Schrödinger equation. There is no collapse. The measurement problem dissolves because particles always have trajectories; apparent randomness reflects ignorance of initial conditions.
 
-This is the interpretation most hostile to the Map's framework. If Bohmian mechanics is correct, the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet has no work to do. There is no indeterminacy for consciousness to resolve, no collapse to participate in. Free will would require an entirely different mechanism.
+This appears to be the interpretation most hostile to the Map's framework. If Bohmian mechanics is correct, the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet has no work to do. There is no indeterminacy for consciousness to resolve, no collapse to participate in. Free will would require an entirely different mechanism.
 
 Three considerations weigh against Bohmian mechanics from the Map's perspective. First, its determinism conflicts with the phenomenology of effort and choice that the Map takes seriously—from the Map's incompatibilist standpoint, the felt experience of deliberation would have to be reckoned illusory. This cost is borne only on incompatibilist premises: a Bohmian compatibilist can reply that deliberation is real precisely *as* the deterministic unfolding of one's reasons. Second, it requires instantaneous non-local influences to explain entanglement, creating tension with special relativity—a parity consideration rather than a decisive one, since collapse theories pay their own relativistic costs in formulating a Lorentz-invariant collapse mechanism. Third, Bohmians add hidden variables to eliminate the measurement problem, but if consciousness already provides a principled account of measurement, those additional variables are unnecessary—Occam's Razor, which Bohmians typically invoke against collapse, cuts both ways.
 
@@ -111,7 +111,7 @@ The Map's position is compatible with either "consciousness causes collapse" or 
 
 Any interpretation that assigns consciousness a role in quantum mechanics must address [[decoherence]]. Tegmark (2000) calculated that quantum coherence times in neural tissue are on the order of 10⁻¹³ seconds—ten orders of magnitude shorter than the 10⁻³ second timescale of neural processes. If superpositions decohere almost instantly, there is nothing left for consciousness to act on.
 
-This challenge cuts across interpretations. It applies to von Neumann-Wigner consciousness-causes-collapse, to Stapp's quantum Zeno approach, and to consciousness-modulated CSL. The Map does not dismiss it. However, Hagan et al. (2002) argued that Tegmark's model oversimplified the relevant neural structures, and the 2024 epothilone B study by Khan et al. showed that microtubule-stabilising drugs delay anaesthetic-induced unconsciousness. This last result establishes at most an indirect, contested relevance of microtubules to anaesthesia; it does not establish biologically useful quantum coherence. A purely classical reading is available—microtubules are transport highways for the receptor trafficking that anaesthetics act on, so stabilising them can delay onset with no quantum effect required—and the behavioural data is consistent with both readings. The decoherence objection remains serious but not decisive.
+This challenge cuts across interpretations. It applies to von Neumann-Wigner consciousness-causes-collapse, to Stapp's quantum Zeno approach, and to consciousness-modulated CSL. The Map does not dismiss it. However, Hagan et al. (2002) argued that Tegmark's model oversimplified the relevant neural structures, and the 2024 epothilone B study by Khan et al. showed that microtubule-stabilising drugs delay anaesthetic-induced unconsciousness. This last result indicates at most an indirect, contested relevance of microtubules to anaesthesia; it does not establish biologically useful quantum coherence. A purely classical reading is available—microtubules are transport highways for the receptor trafficking that anaesthetics act on, so stabilising them can delay onset with no quantum effect required—and the behavioural data is consistent with both readings. The decoherence objection remains serious but not decisive.
 
 ## Quantum Darwinism: Decoherence Extended to Objectivity
 
@@ -131,7 +131,7 @@ Zurek's quantum Darwinism is the most developed account of the quantum-to-classi
 | Penrose OR | Gravitational | Constituted by collapse | Moderate |
 | Quantum Darwinism | No (outcome gap) | Selection locus left open (Zurek leans Everettian) | Moderate as constraint, low as evidence |
 
-The pattern is clear. Interpretations that eliminate the observer entirely (Bohmian) or treat observation as purely epistemic (QBism) leave the Map's questions unanswered. Interpretations that preserve real collapse and allow consciousness a role—whether as cause, selector, or modulator—provide the framework the Map needs.
+The pattern seems clear. Interpretations that eliminate the observer entirely (Bohmian) or treat observation as purely epistemic (QBism) leave the Map's questions unanswered. Interpretations that preserve real collapse and allow consciousness a role—whether as cause, selector, or modulator—provide the framework the Map needs.
 
 **Reading the table — compatibility is not support**: The final column scores *tenet-fit* alone, which must be kept distinct from three separate axes: *independent physics support* (grounds to believe the interpretation apart from the Map's needs), *mechanism specificity* (a worked account of how consciousness acts, not merely a permission), and *empirical risk* (whether the proposal courts falsification). High tenet-fit with low scores on the other three—the Φ-modulated collapse and TI/TSVF rows—means the interpretation is *hospitable* to the Map, not *evidence* for it. The Map defines its needs from its tenets, then scores interpretations against those needs; a high scorer satisfies a requirement the Map itself set, which is not the wider physics community having found reason to favour it. Interpretations that "leave room" for consciousness don't thereby *support* consciousness-based theories—they don't exclude them. The Map doesn't claim physics has established consciousness's role in collapse; it claims physics hasn't ruled it out.
 
