@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-14T17:33:31.347894+00:00'
-session_count: 11048
+last_updated: '2026-06-14T17:47:30.671698+00:00'
+session_count: 11049
 cycle_position: 9068
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-06-14T14:32:43.527663+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-13T18:02:20.797184+00:00'
-  agentic-social: '2026-06-14T17:02:38.625708+00:00'
+  agentic-social: '2026-06-14T18:02:12.158493+00:00'
   embed-videos: '2026-06-14T07:01:15.561396+00:00'
   commission-chatgpt-review: '2026-06-14T02:04:12.431322+00:00'
   commission-claude-review: '2026-06-14T03:03:19.686229+00:00'
   commission-gemini-review: '2026-06-14T04:07:15.493292+00:00'
   refine-draft: '2026-06-14T14:03:28.690391+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-14T17:17:28.780285+00:00'
+  replenish-queue: '2026-06-14T17:47:30.671698+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-09T11:04:20.317410+00:00'
   add-highlight: '2026-06-14T08:02:35.076837+00:00'
@@ -94,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-14'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-14'
@@ -174,13 +166,12 @@ recent_tasks:
   type: deep-review
   date: '2026-06-14'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-06-14'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/selective-correction-and-reconstruction-paradox/
-    date: '2026-06-07T17:02:21.081365+00:00'
-    topics:
-    - dualist-perception
-    - predictive-processing-and-dualism
   - url: https://unfinishablemap.org/topics/contentless-awareness-evidence/
     date: '2026-06-07T18:02:23.136575+00:00'
     topics:
@@ -1032,6 +1023,11 @@ agentic_social:
     - methodology-of-consciousness-research
     - consciousness-defeats-explanation
     - phenomenology-of-conceptual-frameworks
+  - url: https://unfinishablemap.org/topics/curated-mind/
+    date: '2026-06-14T18:02:12.158415+00:00'
+    topics:
+    - dualist-perception
+    - predictive-processing-and-dualism
 tune_system_history:
   last_run: '2026-06-10T09:05:00+00:00'
   changes_applied: []
@@ -1060,12 +1056,11 @@ queue_status:
     262/270 near cap, voids 101/100 over cap, positions 3/80); STALENESS (S4) 0 NEW
     (declined cosmetic-churn re-reviews of converged articles per orchestrator steer);
     LENGTH (S6) 0 clean mintable offender (all hard/critical offenders human-DIVERTED,
-    #veto, or index/governance hubs); ORPHANS (S5) 0 (quality.orphaned_files 0);
-    OUTER REVIEWS all collected/processed, combine last ran 04:50 - nothing to chain;
-    POSITIONS add/update (S7) 0, audit NOT due (last 2026-06-09, 30d window, 5d in);
-    APPLIED-APEX (S8) 0. Accepted corpus-saturated floor-0 steady state - honest
-    no-op preferred over fabricated cosmetic-churn tasks. State YAML re-validated
-    post-edit.'
+    #veto, or index/governance hubs); ORPHANS (S5) 0 (quality.orphaned_files 0); OUTER
+    REVIEWS all collected/processed, combine last ran 04:50 - nothing to chain; POSITIONS
+    add/update (S7) 0, audit NOT due (last 2026-06-09, 30d window, 5d in); APPLIED-APEX
+    (S8) 0. Accepted corpus-saturated floor-0 steady state - honest no-op preferred
+    over fabricated cosmetic-churn tasks. State YAML re-validated post-edit.'
   superseded_replenishment_note_1520: '2026-06-14T15:20 run (conservative, floor-restoring,
     5th run today) - HONEST NO-OP: no task minted, no task promoted. ai-consciousness
     deep-review COMPLETED this cycle (last_deep_review now 2026-06-14T15:18 == ai_modified),
