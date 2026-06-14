@@ -4,7 +4,7 @@ description: "A survey of QM interpretations—Copenhagen, Bohmian, QBism, relat
 created: 2026-01-23
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-06-14T09:07:26+00:00
+ai_modified: 2026-06-14T11:42:00+00:00
 last_deep_review: 2026-06-04T17:22:19+00:00
 draft: false
 topics:
@@ -199,3 +199,5 @@ No interpretation is proven. The Map does not claim to know which is correct. Wh
 24. Friederich, S., & Dawid, R. (2022). Epistemic separability and Everettian branches: a critique of Sebens and Carroll. *British Journal for the Philosophy of Science*, 73(3), 711–736.
 25. Zurek, W. H. (2009). Quantum Darwinism. *Nature Physics*, 5(3), 181–188.
 26. Kent, A. (2021). Collapse and Measures of Consciousness. *Foundations of Physics*, 51, 62. DOI: 10.1007/s10701-021-00467-4.
+27. DeBrota, J. B., Fuchs, C. A., Pienaar, J. L., & Stacey, B. C. (2021). Born's rule as a quantum extension of Bayesian coherence. *Physical Review A*, 104(2), 022207.
+28. Khan, S., Huang, Y., Timuçin, D., Bailey, S., Lee, S., Lopes, J., Gaunce, E., Mosberger, J., Zhan, M., Abdelrahman, B., Zeng, X., & Wiest, M. C. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.

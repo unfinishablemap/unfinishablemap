@@ -5,6 +5,12 @@ ai_modified: 2026-06-14T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-14T11:42:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/qm-interpretations-beyond-many-worlds]]
+- **Changes**: References-completeness fix from pessimistic-review 2026-06-14. Added two missing References entries with matching in-text citations: #27 DeBrota, Fuchs, Pienaar & Stacey (2021), *Phys. Rev. A* 104(2) 022207 — author list web-verified (NOT "Schack"; avoided the known famous-name-substitution defect); #28 Khan et al. (2024) eNeuro 11(8) — copied verbatim from sibling `topics/time-collapse-and-agency.md` canonical entry. References-only edit; body prose unchanged (still 3997 body words; References entries exempt from the 4000w ceiling). Verified both citations now have matching References↔in-text pairs.
+- **Published**: yes
+
 ## 2026-06-14 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/qm-interpretations-beyond-many-worlds.md` (most-recently-modified topic, touched 4× this cycle)

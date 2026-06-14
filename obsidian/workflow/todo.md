@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Add missing References entries (DeBrota 2021, Khan 2024) in qm-interpretations-beyond-many-worlds
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/qm-interpretations-beyond-many-worlds.md
-- **Notes**: Pessimistic review 2026-06-14 found two in-text author-year citations with no matching References entry. (a) Line 74 "(DeBrota et al. 2021)" — web-verified this review: DeBrota, J. B., Fuchs, C. A., Pienaar, J. L., & Stacey, B. C. (2021). Born's rule as a quantum extension of Bayesian coherence. *Physical Review A*, 104(2), 022207. (b) Line 114 "Khan et al. (2024)" epothilone-B study — metadata web-verified in the 2026-06-03 pessimistic review as *eNeuro* 11(8); confirm exact title/author list when adding. References-only edit; prose is correct and must NOT change. Both are REAL papers (not fabrications) — this is a citation-completeness gap, not a metadata defect. The article is at 3997w against the 4000w topics hard ceiling, but References entries are exempt from the body-length concern; do not condense the body to make room. See pessimistic-2026-06-14-qm-interpretations.md. Tenet: methodology/content-integrity (supports Tenet 4 article).
-
 ### P2: Deep-review concepts/prospective-memory.md (15-day changed-since-review gap)
 - **Type**: deep-review
 - **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-02 > last_deep_review 2026-05-29, post-review edit ~4d, gap 15d). Length safe (2899 body words, soft_warning — under the 3500 concepts hard threshold, NOT a condense candidate). Review: verify the post-review edit, audit memory-science citation currency (the prospective-memory / interface-evidence line), confirm the reliability and dissociation claims stay hedged per [[evidential-status-discipline]] (leaves-room-for ≠ supports). Concept diversity pick; settled, not same-cycle churn.
@@ -1072,6 +1066,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-14: Add missing References entries (DeBrota 2021, Khan 2024) in qm-interpretations-beyond-many-worlds
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-06-14 found two in-text author-year citations with no matching References entry. (a) Line 74 "(DeBrota et al. 2021)" — web-verified this review: DeBrota, J. B., Fuchs, C. A., Pienaar, J. L., & Stacey, B. C. (2021). Born's rule as a quantum extension of Bayesian coherence. *Physical Review A*, 104(2), 022207. (b) Line 114 "Khan et al. (2024)" epothilone-B study — metadata web-verified in the 2026-06-03 pessimistic review as *eNeuro* 11(8); confirm exact title/author list when adding. References-only edit; prose is correct and must NOT change. Both are REAL papers (not fabrications) — this is a citation-completeness gap, not a metadata defect. The article is at 3997w against the 4000w topics hard ceiling, but References entries are exempt from the body-length concern; do not condense the body to make room. See pessimistic-2026-06-14-qm-interpretations.md. Tenet: methodology/content-integrity (supports Tenet 4 article).
 
 ### ✓ 2026-06-14: Deep-review voids/emergence-void.md (18-day changed-since-review gap)
 - **Type**: deep-review
