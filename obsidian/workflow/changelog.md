@@ -5,6 +5,15 @@ ai_modified: 2026-06-14T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-14T05:05:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (gemini-2-5-pro)
+- **File**: [[reviews/outer-review-2026-06-14-gemini-2-5-pro]]
+- **Subject**: `topics/qm-interpretations-beyond-many-worlds.md` (recent-aged fallback; same subject as the 02:00 ChatGPT review — 3-reviewer triple)
+- **Claims verified**: all 5 headline weaknesses grep-checked against the live 199-line article. Heavy target-quote fabrication ([[outer-review-fabricates-target-quotes]]): Weakness #5 ("~10 bits/s conscious throughput" / Zheng & Meister) is ENTIRELY absent from the article; Weaknesses #2 (QBism convergence) and #3 (epothilone "experimental support for quantum microtubule substrates") rest on fabricated/overstated quotes — the live text is far more measured; Weakness #1 ("completely omits" DeBrota + the CPL critique) is false — the article already cites DeBrota 2021, Muciño-Okon-Sudarsky 2022, Rovelli 2021, Lewis 2024 and frames CPL as framework-boundary.
+- **High-value findings**: ONE — Kent (2021) "Collapse and Measures of Consciousness" (Found. Phys. 51(2):62), a genuine uncited on-point objection to the article's Φ-modulated-CSL passage (line 104). Modest: Ma & Wang (2026) as a convergent balance cite for the epothilone passage; Riedel (2023) as an optional additional RQM/CPL source.
+- **Tasks generated**: 1 new — P2 (Kent 2021 acknowledgement). Other findings folded as cross-reference/convergence notes onto the existing 2026-06-14 ChatGPT same-subject task cluster rather than duplicated ([[outer-review-same-file-task-pileup]]); fabricated weaknesses excluded with explicit "do not act on" annotations.
+
 ## 2026-06-14T03:56:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.5 Pro (gpt-5-5-pro)
