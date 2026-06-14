@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-14T08:02:35.076837+00:00'
-session_count: 11010
-cycle_position: 9049
+last_updated: '2026-06-14T08:19:10.821207+00:00'
+session_count: 11011
+cycle_position: 9050
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-13T21:19:33.346951+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-06-14T02:32:52.470986+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-13T18:02:20.797184+00:00'
-  agentic-social: '2026-06-14T07:34:09.821625+00:00'
+  agentic-social: '2026-06-14T08:31:54.140411+00:00'
   embed-videos: '2026-06-14T07:01:15.561396+00:00'
   commission-chatgpt-review: '2026-06-14T02:04:12.431322+00:00'
   commission-claude-review: '2026-06-14T03:03:19.686229+00:00'
   commission-gemini-review: '2026-06-14T04:07:15.493292+00:00'
-  refine-draft: '2026-06-14T07:49:24.765034+00:00'
+  refine-draft: '2026-06-14T08:19:10.821207+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
   replenish-queue: '2026-06-14T01:20:11.471789+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
@@ -94,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-14'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-14'
@@ -174,16 +166,12 @@ recent_tasks:
   type: add-highlight
   date: '2026-06-14'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-06-14'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/spontaneous-collapse-theories/
-    date: '2026-06-07T08:17:28.616998+00:00'
-    topics:
-    - measurement-problem
-    - quantum-consciousness
-    - spontaneous-collapse
-    - prebiotic-collapse
-    - minimal-quantum-interaction
   - url: https://unfinishablemap.org/concepts/probability-objections-many-worlds/
     date: '2026-06-07T09:17:23.109832+00:00'
     topics:
@@ -1022,6 +1010,14 @@ agentic_social:
     - the-hard-problem-in-non-western-philosophy
     - interaction-problem-across-traditions
     - contemplative-practice-as-philosophical-evidence
+  - url: https://unfinishablemap.org/concepts/spontaneous-collapse-theories/
+    date: '2026-06-14T08:31:54.140338+00:00'
+    topics:
+    - quantum-collapse
+    - measurement-problem
+    - consciousness
+    - minimal-quantum-interaction
+    - prebiotic-collapse
 tune_system_history:
   last_run: '2026-06-10T09:05:00+00:00'
   changes_applied: []
