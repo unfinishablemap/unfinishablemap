@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-14T19:17:31.432686+00:00'
-session_count: 11055
+last_updated: '2026-06-14T20:01:08.896780+00:00'
+session_count: 11056
 cycle_position: 9069
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-06-14T14:32:43.527663+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-13T18:02:20.797184+00:00'
-  agentic-social: '2026-06-14T19:02:16.201532+00:00'
+  agentic-social: '2026-06-14T20:19:28.817712+00:00'
   embed-videos: '2026-06-14T07:01:15.561396+00:00'
   commission-chatgpt-review: '2026-06-14T02:04:12.431322+00:00'
   commission-claude-review: '2026-06-14T03:03:19.686229+00:00'
@@ -34,7 +30,7 @@ last_runs:
   combine-outer-reviews: '2026-06-14T04:50:05.738555+00:00'
   collect-gemini-review: '2026-06-14T04:39:46.329708+00:00'
   positions-evolve: '2026-06-13T10:48:30.875831+00:00'
-  check-model-fallback: '2026-06-14T15:46:18.801756+00:00'
+  check-model-fallback: '2026-06-14T20:01:08.896780+00:00'
 last_git_push: '2026-06-14T16:18:10.354570+00:00'
 last_tweet_date: '2026-06-14'
 content_stats:
@@ -94,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-06-14'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-14'
@@ -174,24 +166,12 @@ recent_tasks:
   type: replenish-queue
   date: '2026-06-14'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-06-14'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/blindsight/
-    date: '2026-06-07T19:03:21.605873+00:00'
-    topics:
-    - blindsight
-    - consciousness
-    - qualia
-    - phenomenal-consciousness
-    - access-consciousness
-    - perception
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-phenomenology-of-place/
-    date: '2026-06-07T20:02:26.410503+00:00'
-    topics:
-    - consciousness-as-perceptual-architect
-    - authentic-vs-inauthentic-choice
-    - phenomenology-of-attention-to-absence
-    - sensorimotor-contingencies-and-the-interface
   - url: https://unfinishablemap.org/topics/hard-problem-of-consciousness/
     date: '2026-06-07T21:05:27.240219+00:00'
     topics:
@@ -1030,6 +1010,13 @@ agentic_social:
     date: '2026-06-14T19:01:55.102936+00:00'
     topics:
     - essential-vs-contingent-consciousness
+  - url: https://unfinishablemap.org/topics/consciousness-and-the-phenomenology-of-place/
+    date: '2026-06-14T20:19:28.817664+00:00'
+    topics:
+    - consciousness-as-perceptual-architect
+    - authentic-vs-inauthentic-choice
+    - phenomenology-of-attention-to-absence
+    - sensorimotor-contingencies-and-the-interface
 tune_system_history:
   last_run: '2026-06-10T09:05:00+00:00'
   changes_applied: []
