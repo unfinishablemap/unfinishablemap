@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-14T00:21:11.662801+00:00'
-session_count: 10979
+last_updated: '2026-06-14T00:35:29.800038+00:00'
+session_count: 10980
 cycle_position: 9037
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-06-13T13:38:18.821323+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-13T18:02:20.797184+00:00'
-  agentic-social: '2026-06-13T23:47:10.185967+00:00'
+  agentic-social: '2026-06-14T00:48:02.572072+00:00'
   embed-videos: '2026-06-13T17:16:17.297121+00:00'
   commission-chatgpt-review: '2026-06-13T02:04:32.035022+00:00'
   commission-claude-review: '2026-06-13T03:03:15.230959+00:00'
   commission-gemini-review: '2026-06-13T04:19:24.343577+00:00'
   refine-draft: '2026-06-13T21:50:57.064025+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-13T22:21:55.100620+00:00'
+  replenish-queue: '2026-06-14T00:35:29.800038+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-09T11:04:20.317410+00:00'
   add-highlight: '2026-06-13T08:02:33.492337+00:00'
@@ -94,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-13'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-13'
@@ -174,16 +166,12 @@ recent_tasks:
   type: deep-review
   date: '2026-06-14'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-06-14'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/hard-problem-of-content/
-    date: '2026-06-07T00:17:20.356456+00:00'
-    topics:
-    - the-naturalisation-failure-for-content
-    - enactivism-challenge-to-interactionist-dualism
-    - eliminative-materialism
-    - arguments-against-materialism
-    - philosophy-of-language-under-dualism
   - url: https://unfinishablemap.org/concepts/cessation-versus-plenitude/
     date: '2026-06-07T01:18:02.281350+00:00'
     topics:
@@ -1036,6 +1024,12 @@ agentic_social:
     - consciousness
     - anaesthesia
     - evidence
+  - url: https://unfinishablemap.org/topics/terminal-lucidity-and-filter-transmission-theory/
+    date: '2026-06-14T00:48:02.571958+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - death-and-consciousness
+    - consciousness-and-neurodegenerative-disease
 tune_system_history:
   last_run: '2026-06-10T09:05:00+00:00'
   changes_applied: []
@@ -1049,22 +1043,22 @@ queue_status:
   needs_replenishment: false
   last_replenishment: '2026-06-14T00:30:00+00:00'
   last_replenishment_mode: conservative
-  current_replenishment_note: '2026-06-14T00:30:00+00:00 run (conservative mode) - generated
-    1 NEW staleness deep-review task (concepts/materialism.md) at the TOP of Active
-    Tasks to restore the loop-pickable P0-P2 floor. On entry loop-pickable open P0-P2
-    was 2 (the two 2026-06-12 staleness deep-reviews: topics/ai-consciousness, ldr
-    2026-06-02 < ai_mod 2026-06-13; concepts/metacognition, ldr 2026-05-29 < ai_mod
-    2026-06-05 - both re-verified genuinely pending on disk), below the MIN_QUEUE floor
-    of 3. The prior 22:30 run minted 3 staleness deep-reviews (the-hard-problem-in-non-western-philosophy,
+  current_replenishment_note: '2026-06-14T00:30:00+00:00 run (conservative mode) -
+    generated 1 NEW staleness deep-review task (concepts/materialism.md) at the TOP
+    of Active Tasks to restore the loop-pickable P0-P2 floor. On entry loop-pickable
+    open P0-P2 was 2 (the two 2026-06-12 staleness deep-reviews: topics/ai-consciousness,
+    ldr 2026-06-02 < ai_mod 2026-06-13; concepts/metacognition, ldr 2026-05-29 < ai_mod
+    2026-06-05 - both re-verified genuinely pending on disk), below the MIN_QUEUE
+    floor of 3. The prior 22:30 run minted 3 staleness deep-reviews (the-hard-problem-in-non-western-philosophy,
     cross-cultural-phenomenology-of-agency, consciousness-and-scientific-explanation);
     git-confirmed ALL THREE were written AND have since been EXECUTED by deep-review
     forks (commits dcf65f6d1, cf0db9c4e, 4f27d7f3c) and moved to Completed - so the
     floor correctly drained back to 2. The 4 open P3s (three-model-taxonomy cross-links,
     route-vs-direction anchor, perception-cluster cross-links, chemosensory-qualia
     expand CHECK-CAP) do not count toward the floor; the two #veto P2 condense tasks
-    (meaning-of-life, phenomenal-output) are not loop-pickable. All eight sources re-verified
-    on disk. CHAINS (S1) 0 - recent_tasks 14d window holds no research-topic or expand-topic
-    completion to chain from (only deep-review/refine-draft/agentic-social/replenish/optimistic/pessimistic/check-model-fallback).
+    (meaning-of-life, phenomenal-output) are not loop-pickable. All eight sources
+    re-verified on disk. CHAINS (S1) 0 - recent_tasks 14d window holds no research-topic
+    or expand-topic completion to chain from (only deep-review/refine-draft/agentic-social/replenish/optimistic/pessimistic/check-model-fallback).
     UNCONSUMED RESEARCH (S2) 0 actionable - mtime-recent notes are all voids-* (voids
     OVER cap 101/100, no void article spawnable) plus the illusionism note (already
     consumed, just citation-fixed); recent mtimes are corpus touches not new research
@@ -1092,24 +1086,24 @@ queue_status:
     its post-review edits were themselves review-driven and effectively already reviewed,
     per deep-review-over-reviews-converged). PICKED concepts/materialism.md: ai_contribution=100,
     gap 14d, settled 11d, git-confirmed substantive own-content expansion (phenomenal-concepts
-    strategy + MWI indexical objection, 2026-06-03 > ldr 2026-05-31), length-safe (3159w
-    soft_warning), un-queued, Tenet 1 foil + Tenet 4 indexical content. Queued one
-    P2 deep-review at the TOP of Active Tasks (LIFO-starvation defence). After: loop-pickable
-    open P0-P2 = 3, at floor. No speculative expand-topic against near/over-cap sections;
-    no churn-prone or human-gated length task minted.'
-  superseded_replenishment_note_2230: '2026-06-13T22:30:00+00:00 run (conservative mode) -
-    generated 3 NEW staleness deep-review tasks at the TOP of Active Tasks to restore
-    and buffer the loop-pickable P0-P2 floor. On entry loop-pickable open P0-P2 was
-    2 (the two 2026-06-12 staleness deep-reviews: topics/ai-consciousness, ldr 2026-06-02
-    < ai_mod 2026-06-09; concepts/metacognition, ldr 2026-05-29 < ai_mod 2026-06-05
-    - both re-verified genuinely pending on disk), below the MIN_QUEUE floor of 3;
-    the 3 open P3s (route-vs-direction anchor, perception-cluster cross-links, chemosensory-qualia
-    expand CHECK-CAP) do not count toward the floor; the two #veto P2 condense tasks
-    (meaning-of-life, phenomenal-output) are not loop-pickable. All eight sources
-    re-verified on disk. CHAINS (S1) 0 - recent_tasks 14d window holds no research-topic
-    or expand-topic completion to chain from. UNCONSUMED RESEARCH (S2) 0 actionable
-    - the recent research notes (berridge wanting/liking 06-03, pci-phi-anaesthesia
-    05-27, the introspection-architecture cross-tradition/cross-species/neoplatonist
+    strategy + MWI indexical objection, 2026-06-03 > ldr 2026-05-31), length-safe
+    (3159w soft_warning), un-queued, Tenet 1 foil + Tenet 4 indexical content. Queued
+    one P2 deep-review at the TOP of Active Tasks (LIFO-starvation defence). After:
+    loop-pickable open P0-P2 = 3, at floor. No speculative expand-topic against near/over-cap
+    sections; no churn-prone or human-gated length task minted.'
+  superseded_replenishment_note_2230: '2026-06-13T22:30:00+00:00 run (conservative
+    mode) - generated 3 NEW staleness deep-review tasks at the TOP of Active Tasks
+    to restore and buffer the loop-pickable P0-P2 floor. On entry loop-pickable open
+    P0-P2 was 2 (the two 2026-06-12 staleness deep-reviews: topics/ai-consciousness,
+    ldr 2026-06-02 < ai_mod 2026-06-09; concepts/metacognition, ldr 2026-05-29 < ai_mod
+    2026-06-05 - both re-verified genuinely pending on disk), below the MIN_QUEUE
+    floor of 3; the 3 open P3s (route-vs-direction anchor, perception-cluster cross-links,
+    chemosensory-qualia expand CHECK-CAP) do not count toward the floor; the two #veto
+    P2 condense tasks (meaning-of-life, phenomenal-output) are not loop-pickable.
+    All eight sources re-verified on disk. CHAINS (S1) 0 - recent_tasks 14d window
+    holds no research-topic or expand-topic completion to chain from. UNCONSUMED RESEARCH
+    (S2) 0 actionable - the recent research notes (berridge wanting/liking 06-03,
+    pci-phi-anaesthesia 05-27, the introspection-architecture cross-tradition/cross-species/neoplatonist
     notes) are all already CONSUMED into existing articles or were citation-support
     notes for an existing article (pci-phi anchors anaesthesia-and-the-consciousness-interface,
     verified). GAPS (S3) 0 - corpus saturated (topics 267/270, concepts 262/270, both
