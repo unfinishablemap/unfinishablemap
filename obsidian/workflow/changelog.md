@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-14T13:17:28+00:00
+ai_modified: 2026-06-14T13:32:51+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-14T13:32:51+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/wanting-liking-and-the-value-in-mechanism-fork]]
+- **Word count**: 1584 → 1584 (no change; 53% of 3000-word topics target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged no-op — substantive post-2026-06-05 calibration edits left the article in an exemplary stable state)
+- **Disposition**: No-op. Selected because the post-review delta was substantive (two refine-draft "qualia calibration" commits, not cosmetic churn), but the calibration edits left no critical/medium defects. All 5 primary Berridge citations re-verified at publisher of record (all real-correct; per-cite ledger in review archive). last_deep_review advanced 2026-06-05 → 2026-06-14 so it stops re-qualifying.
+- **Engagement modes**: mechanism-only physicalist reading — Mode Three (framework-boundary marking, neutral dissociation, held on prior commitment not on Berridge); Schultz RPE rival placed below the fork. No boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-14-wanting-liking-and-the-value-in-mechanism-fork]]
 
 ## 2026-06-14T13:17:28+00:00 - refine-draft
 - **Status**: Success
