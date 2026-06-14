@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-14T05:49:05.492547+00:00'
-session_count: 11001
-cycle_position: 9045
+last_updated: '2026-06-14T06:08:17.412701+00:00'
+session_count: 11002
+cycle_position: 9046
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-13T21:19:33.346951+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-06-14T02:32:52.470986+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-13T18:02:20.797184+00:00'
-  agentic-social: '2026-06-14T05:21:16.531254+00:00'
+  agentic-social: '2026-06-14T06:19:50.115737+00:00'
   embed-videos: '2026-06-13T17:16:17.297121+00:00'
   commission-chatgpt-review: '2026-06-14T02:04:12.431322+00:00'
   commission-claude-review: '2026-06-14T03:03:19.686229+00:00'
   commission-gemini-review: '2026-06-14T04:07:15.493292+00:00'
-  refine-draft: '2026-06-14T05:49:05.492547+00:00'
+  refine-draft: '2026-06-14T06:08:17.412701+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
   replenish-queue: '2026-06-14T01:20:11.471789+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
@@ -94,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-14'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-14'
@@ -174,17 +166,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-06-14'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-06-14'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/voids/erasure-void/
-    date: '2026-06-07T06:02:21.444840+00:00'
-    topics:
-    - voids
-    - erasure
-    - self-monitoring
-    - anosognosia
-    - metacognition
-    - consciousness
   - url: https://unfinishablemap.org/concepts/geometric-model-of-mind/
     date: '2026-06-07T07:02:32.594070+00:00'
     topics:
@@ -1027,6 +1014,11 @@ agentic_social:
     - selection
   - url: https://unfinishablemap.org/topics/selection-only-mind-influence/
     date: '2026-06-14T05:20:42.195103+00:00'
+  - url: https://unfinishablemap.org/topics/language-recursion-and-consciousness/
+    date: '2026-06-14T06:19:50.115658+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - ai-consciousness
 tune_system_history:
   last_run: '2026-06-10T09:05:00+00:00'
   changes_applied: []
