@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-14T00:00:00+00:00
+ai_modified: 2026-06-14T12:32:11+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-14T12:32:11+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/surprise-prediction-error-and-consciousness]]
+- **Word count**: 3661 → 3661 (no change; canonical body; prose-only through Relation-to-Site-Perspective = 3445)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Disposition**: NO-OP (metadata-only). 8th review; converged. Staleness was two cosmetic reciprocal cross-link installs (06-02 individuation, 06-03 incubation) — no calibration or citation change. Actively re-checked the two flagged risk channels: compatible-with-not-supports PP calibration HELD (PP/free-energy framed throughout as the physicalist programme the Map interprets via an explanatory gap, never evidence FOR dualism; new individuation sentence doubly hedged); citation currency clean (Clark 2013 / Friston 2010 web-verified exact 06-01 and unchanged; superlative-claim scanner = 0 hits, no currency-drift exposure). Length-constrained (122% soft, closest of batch to 4000 hard ceiling) — no net growth. Named-opponent engagement = type-B materialist Mode Two→Mode Three, honest, no boundary-substitution; no label leakage; no "This is not X. It is Y." cliché.
+- **Output**: [[reviews/deep-review-2026-06-14-surprise-prediction-error-and-consciousness]]
 
 ## 2026-06-14T13:00:00+00:00 - optimistic-review
 - **Status**: Success
