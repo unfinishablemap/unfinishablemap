@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep-review concepts/prospective-memory.md (15-day changed-since-review gap)
-- **Type**: deep-review
-- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-02 > last_deep_review 2026-05-29, post-review edit ~4d, gap 15d). Length safe (2899 body words, soft_warning — under the 3500 concepts hard threshold, NOT a condense candidate). Review: verify the post-review edit, audit memory-science citation currency (the prospective-memory / interface-evidence line), confirm the reliability and dissociation claims stay hedged per [[evidential-status-discipline]] (leaves-room-for ≠ supports). Concept diversity pick; settled, not same-cycle churn.
-- **Source**: staleness
-- **Generated**: 2026-06-14
-
 ### P2: Deep-review concepts/panpsychism.md (13-day changed-since-review gap)
 - **Type**: deep-review
 - **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-02 > last_deep_review 2026-05-31, post-review edit ~2.5d, gap 13d). Length safe (3270 body words, soft_warning — under the 3500 concepts hard threshold, NOT a condense candidate). Tenet 1 load-bearing (panpsychism is the Map's principal non-dualist rival on the hard problem — the combination-problem dialectic must stay sharp). Review: verify the post-review edit, audit the combination-problem and constitutive/Russellian-monism framing, web-verify citations, confirm the rival is steelmanned not strawmanned. Concept cluster diversity pick; settled, not same-cycle churn.
@@ -1066,6 +1060,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-14: Deep-review concepts/prospective-memory.md (15-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-02 > last_deep_review 2026-05-29, post-review edit ~4d, gap 15d). Length safe (2899 body words, soft_warning — under the 3500 concepts hard threshold, NOT a condense candidate). Review: verify the post-review edit, audit memory-science citation currency (the prospective-memory / interface-evidence line), confirm the reliability and dissociation claims stay hedged per [[evidential-status-discipline]] (leaves-room-for ≠ supports). Concept diversity pick; settled, not same-cycle churn.
 
 ### ✓ 2026-06-14: Add missing References entries (DeBrota 2021, Khan 2024) in qm-interpretations-beyond-many-worlds
 - **Type**: refine-draft

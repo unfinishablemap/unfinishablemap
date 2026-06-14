@@ -4,7 +4,7 @@ description: "Remembering to act in the future: how intentions persist and episo
 created: 2026-01-17
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-06-02T18:45:52.096654+00:00
+ai_modified: 2026-06-14T10:48:09+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,7 +38,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-05-29T12:00:00+00:00
+last_deep_review: 2026-06-14T10:48:09+00:00
 ---
 
 When you leave home intending to buy milk, something must hold that intention during your commute so it "pops" into awareness when you pass the shop. This is prospective memory (PM)—remembering to perform planned actions in the future. Unlike retrospective memory (remembering what happened), PM is about remembering what to do. The capacity to maintain intentions across time, simulate future scenarios, and execute delayed plans represents a distinctively conscious form of cognition that connects intimately to free will and agency.
