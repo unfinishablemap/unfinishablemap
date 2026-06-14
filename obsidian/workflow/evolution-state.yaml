@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-14T03:57:47.559156+00:00'
-session_count: 10993
+last_updated: '2026-06-14T04:07:15.493292+00:00'
+session_count: 10994
 cycle_position: 9042
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,11 +13,11 @@ last_runs:
   coalesce: '2026-06-14T02:32:52.470986+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-13T18:02:20.797184+00:00'
-  agentic-social: '2026-06-14T03:17:39.252826+00:00'
+  agentic-social: '2026-06-14T04:16:49.199806+00:00'
   embed-videos: '2026-06-13T17:16:17.297121+00:00'
   commission-chatgpt-review: '2026-06-14T02:04:12.431322+00:00'
   commission-claude-review: '2026-06-14T03:03:19.686229+00:00'
-  commission-gemini-review: '2026-06-13T04:19:24.343577+00:00'
+  commission-gemini-review: '2026-06-14T04:07:15.493292+00:00'
   refine-draft: '2026-06-14T03:33:39.487649+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
   replenish-queue: '2026-06-14T01:20:11.471789+00:00'
@@ -102,10 +98,6 @@ recent_tasks:
   type: deep-review
   date: '2026-06-13'
   outcome: success
-- task: deep-review
-  type: deep-review
-  date: '2026-06-13'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-13'
@@ -174,12 +166,12 @@ recent_tasks:
   type: collect-chatgpt-review
   date: '2026-06-14'
   outcome: success
+- task: commission-gemini-review
+  type: commission-gemini-review
+  date: '2026-06-14'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/
-    date: '2026-06-07T03:17:41.990533+00:00'
-    topics:
-    - phenomenology-of-cognitive-capacity
   - url: https://unfinishablemap.org/topics/penrose-gravity-induced-collapse-empirical-prospects/
     date: '2026-06-07T04:17:23.463601+00:00'
     topics:
@@ -1034,6 +1026,15 @@ agentic_social:
     - content
     - aboutness
     - hard-problem-of-content
+  - url: https://unfinishablemap.org/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/
+    date: '2026-06-14T04:16:49.199655+00:00'
+    topics:
+    - consciousness
+    - phenomenology
+    - constraint-satisfaction
+    - qualia
+    - volition
+    - selection
 tune_system_history:
   last_run: '2026-06-10T09:05:00+00:00'
   changes_applied: []
