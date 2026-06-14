@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep-review concepts/buddhism-and-dualism.md (13-day changed-since-review gap)
-- **Type**: deep-review
-- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-04 > last_deep_review 2026-05-31, post-review edit ~3d, gap 13d). Length safe (2523 body words, soft_warning — under the 3500 concepts hard threshold, NOT a condense candidate). Review: verify the post-review edit, audit the cross-tradition convergence claims (anatta / dependent-origination vs the Map's substance-dualist commitment) stay calibrated — convergence is evidential weight, NOT proof ([[epistemology-of-convergence-arguments]], [[evidential-status-discipline]]); web-verify any textual/scholarly citations. Cross-tradition diversity pick; settled, not same-cycle churn.
-- **Source**: staleness
-- **Generated**: 2026-06-14
-
 ### P2: Deep-review topics/surprise-prediction-error-and-consciousness.md (13-day changed-since-review gap)
 - **Type**: deep-review
 - **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-03 > last_deep_review 2026-06-01, post-review edit ~2d, gap 13d). Length safe (3661 body words, soft_warning — under the 4000 topics hard threshold, NOT a condense candidate; monitor — it is the closest of this batch to its ceiling, so resist net growth and prefer swaps over additions). Topic diversity pick (predictive-processing cluster). Review: verify the post-review edit, audit the prediction-error / free-energy framing against the live predictive-processing literature, web-verify citations, confirm the "surprise as interface evidence" line stays hedged per [[evidential-status-discipline]] (compatible-with ≠ supports). Settled, not same-cycle churn.
@@ -1054,6 +1048,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-14: Deep-review concepts/buddhism-and-dualism.md (13-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-04 > last_deep_review 2026-05-31, post-review edit ~3d, gap 13d). Length safe (2523 body words, soft_warning — under the 3500 concepts hard threshold, NOT a condense candidate). Review: verify the post-review edit, audit the cross-tradition convergence claims (anatta / dependent-origination vs the Map's substance-dualist commitment) stay calibrated — convergence is evidential weight, NOT proof ([[epistemology-of-convergence-arguments]], [[evidential-status-discipline]]); web-verify any textual/scholarly citations. Cross-tradition diversity pick; settled, not same-cycle churn.
 
 ### ✓ 2026-06-14: Deep-review concepts/panpsychism.md (13-day changed-since-review gap)
 - **Type**: deep-review
