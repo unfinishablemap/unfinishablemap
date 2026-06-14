@@ -4,7 +4,7 @@ description: "A survey of QM interpretations—Copenhagen, Bohmian, QBism, relat
 created: 2026-01-23
 modified: 2026-05-25
 human_modified:
-ai_modified: 2026-06-07T00:00:00+00:00
+ai_modified: 2026-06-14T05:02:46+00:00
 last_deep_review: 2026-06-04T17:22:19+00:00
 draft: false
 topics:
@@ -36,7 +36,7 @@ related_articles:
   - "[[quantum-darwinism-and-consciousness]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-01-23
 last_curated:
 coalesced_from:
@@ -125,7 +125,7 @@ Zurek's quantum Darwinism is the most developed account of the quantum-to-classi
 | Bohmian | No | None | Low |
 | QBism | Epistemic only | Agent-centred but anti-realist | Mixed |
 | Relational QM | Relational | Observer-dependent, not consciousness-specific | Moderate |
-| Transactional/TSVF | Via transaction | Atemporal selection | High |
+| Transactional/TSVF | Via transaction | Atemporal selection | High resonance, low mechanism specificity |
 | GRW/CSL | Physical process | None (standard) / Modulation (variants) | Moderate–High |
 | Penrose OR | Gravitational | Constituted by collapse | Moderate |
 | Quantum Darwinism | No (outcome gap) | Selection locus left open (Zurek leans Everettian) | Moderate–High |
@@ -142,7 +142,7 @@ The pattern is clear. Interpretations that eliminate the observer entirely (Bohm
 
 The Map's [[tenets]] constrain the interpretive options. Dualism requires that consciousness be ontologically real, not merely an epistemic stance (ruling out QBism's anti-realism as a complete account). Minimal Quantum Interaction requires genuine indeterminacy for consciousness to resolve (ruling out Bohmian determinism). Bidirectional Interaction requires consciousness to causally influence physical outcomes (ruling out pure epiphenomenalism, including standard Penrose OR). And rejecting many-worlds demands that collapse be real—that one outcome actually occurs rather than all outcomes coexisting in branching universes.
 
-The Map speculates that transactional/TSVF interpretations and consciousness-modulated objective collapse theories may offer the most promising foundations. TI/TSVF provides the physics for atemporal selection that the Map's treatment of free will already assumes. Consciousness-modulated CSL provides a mechanism for the Minimal Quantum Interaction tenet while solving the [[prebiotic-collapse|prebiotic collapse problem]]—physical collapse provides a baseline for the pre-conscious universe, with consciousness modulating outcomes once neural systems provide the interface.
+The Map speculates that transactional/TSVF interpretations and consciousness-modulated objective collapse theories may offer the most promising foundations. The resonance is conceptual, not mechanistic: as the caveat above notes, no substrate carrying retrocausal influence is specified and no account of how consciousness biases confirmation waves without violating Born statistics is on offer. The Map's [[positions/quantum-interface|positions register]] reflects this by treating the atemporal time-symmetric route as a subordinate fallback to forward-in-time post-decoherence selection, which is the register's preferred mechanism candidate. TI/TSVF provides the physics for atemporal selection that the Map's treatment of free will already assumes. Consciousness-modulated CSL provides a mechanism for the Minimal Quantum Interaction tenet while solving the [[prebiotic-collapse|prebiotic collapse problem]]—physical collapse provides a baseline for the pre-conscious universe, with consciousness modulating outcomes once neural systems provide the interface.
 
 **Engaging MWI's strongest responses**: The Map's indexical objection to MWI ("why am I this branch?") has its strongest answer in the branch-relative indexicality of Saunders (2010) and the self-locating-uncertainty derivation of Sebens and Carroll (2018): "I" indexes the current branch-copy, *de se* attribution localises branch-by-branch as it does across times and places, and the Born rule is recovered as the unique rational measure on self-locating credence. This reply is internally available to MWI—it is not incoherent on Everettian terms—and the published in-framework critiques (Lewis 2007 that the post-branching ignorance is spurious; Friederich and Dawid 2022 that the derivation's key premise smuggles in the Born rule) are where the dispute is genuinely contested. The Deutsch-Wallace decision-theoretic program in Wallace's *The Emergent Multiverse* (2012) is the strongest book-length development of this line, and the Map engages it at full resolution in [[probability-problem-in-many-worlds]] rather than dispatching it here.
 

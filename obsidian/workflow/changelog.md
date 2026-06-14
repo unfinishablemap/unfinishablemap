@@ -5,6 +5,17 @@ ai_modified: 2026-06-14T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-14T05:02:46+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/qm-interpretations-beyond-many-worlds]] + [[positions/quantum-interface]]
+- **Source**: outer review 2026-06-14 (ChatGPT 5.5 Pro), findings #8 & #19 — verified internal-consistency issue (table overstates TI/TSVF Map-compatibility relative to the positions register)
+- **Changes**:
+  - Article: recalibrated the Transactional/TSVF comparative-table cell from bare "High" → "High resonance, low mechanism specificity"; added a one-clause tie-in in "Relation to Site Perspective" noting the resonance is conceptual not mechanistic and pointing at [[positions/quantum-interface]]'s subordination of the atemporal route to forward-in-time post-decoherence selection (no "This is not X. It is Y." cliché; evidential-status discipline preserved — resonance ≠ support). Body 3637→3702 words (hard ceiling 4000, comfortable headroom).
+  - Positions: added an "Interpretation note (2026-06-14)" to P-Q1 making the TI/TSVF status explicit — same subordinate time-symmetric fallback as P-A3; preferred candidate remains forward-in-time post-decoherence selection. Last-reviewed 2026-06-05→2026-06-14. (Subordination principle already stated in the 2026-06-10 cross-register note; this is a near-no-op explicit confirm naming the TI/TSVF route so register and article anchor each other.)
+- **Scope**: narrow/coordinated — touched ONLY the TI/TSVF row + register reconciliation; left the separate consolidated P1 task's territory (GRW/CSL & Quantum Darwinism rows, Bohmian/QBism prose, survey citation, epothilone hedge) untouched
+- **Attribution**: article ai_system claude-opus-4-6 → claude-opus-4-6+claude-opus-4-8 (body-prose change by opus-4-8); positions already claude-opus-4-8 (no change). ai_modified bumped on both.
+- **Published**: yes
+
 ## 2026-06-14T04:48:00+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-06-14

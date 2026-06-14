@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Reconcile TI/TSVF "High" rating in qm-interpretations-beyond-many-worlds with the positions register
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-06-14 (ChatGPT 5.5 Pro), findings #8 and #19. VERIFIED internal-consistency issue. The comparative table in `topics/qm-interpretations-beyond-many-worlds.md` rates Transactional/TSVF "High" Map-compatibility, but the Map's own positions register subordinates the atemporal/time-symmetric route (P-A3) to the forward-in-time post-decoherence preference (P-Q1) — see the 2026-06-10 positions audit in changelog.md and [[positions/quantum-interface]]. The article's own prose already carries the load-bearing caveat (no mechanism specified for consciousness-participation in transactions / Born-statistics preservation), so the rating should be recalibrated to something like "High conceptual resonance / low mechanism specificity" to stop the table overstating a mechanism the site treats as a subordinate fallback. Also reconcile the Positions page so the TI/TSVF status is explicit either way. Preserve all calibration hedges; small targeted edit; honour [[evidential-status-discipline]] (leaves-room-for ≠ supports) and writing-style (no "This is not X. It is Y." cliché). Tenet: Tenet 4 (No Many Worlds), Tenet 2 (Minimal Quantum Interaction).
-- **Review file**: `reviews/outer-review-2026-06-14-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-14
-
 ### P1: Remove stale Hugo duplicate serving un-calibrated quantum-measurement-interpretations-beyond-mwi content
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-06-14 (ChatGPT 5.5 Pro), finding #22. VERIFIED. The topic was archived (`archive/topics/quantum-measurement-interpretations-beyond-mwi.md` exists; no obsidian source remains), but a stale `hugo/content/topics/quantum-measurement-interpretations-beyond-mwi.md` still serves the OLD, less-calibrated, un-flagged content at the live URL `https://unfinishablemap.org/topics/quantum-measurement-interpretations-beyond-mwi/`. A reader/search engine reaching it gets a less-calibrated impression than the revised `qm-interpretations-beyond-many-worlds` target. This is the known [[coalesce-stale-hugo-duplicate-urls]] sync-deletion gap (sync never deletes the old hugo file on archive/coalesce). ACTION: delete the stale `hugo/content/topics/quantum-measurement-interpretations-beyond-mwi.md` (the archive copy at `archive/topics/...` is the canonical archived version and carries/should carry the archive notice; confirm the archived page renders with its archive notice + redirect-intent to the live target). Flag the underlying sync-delete code defect for the operator (recurring; see also todo lines noting [[archival_link_rot]]). Mechanical + content-integrity; no new prose. Tenet: methodology/content-integrity.
@@ -1086,6 +1079,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-14: Reconcile TI/TSVF "High" rating in qm-interpretations-beyond-many-worlds with the positions register
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-14 (ChatGPT 5.5 Pro), findings #8 and #19. VERIFIED internal-consistency issue. The comparative table in `topics/qm-interpretations-beyond-many-worlds.md` rates Transactional/TSVF "High" Map-compatibility, but the Map's own positions register subordinates the atemporal/time-symmetric route (P-A3) to the forward-in-time post-decoherence preference (P-Q1) — see the 2026-06-10 positions audit in changelog.md and [[positions/quantum-interface]]. The article's own prose already carries the load-bearing caveat (no mechanism specified for consciousness-participation in transactions / Born-statistics preservation), so the rating should be recalibrated to something like "High conceptual resonance / low mechanism specificity" to stop the table overstating a mechanism the site treats as a subordinate fallback. Also reconcile the Positions page so the TI/TSVF status is explicit either way. Preserve all calibration hedges; small targeted edit; honour [[evidential-status-discipline]] (leaves-room-for ≠ supports) and writing-style (no "This is not X. It is Y." cliché). Tenet: Tenet 4 (No Many Worlds), Tenet 2 (Minimal Quantum Interaction).
 
 ### ✓ 2026-06-14: Reciprocal cross-links across the perception cluster (no new article)
 - **Type**: refine-draft
