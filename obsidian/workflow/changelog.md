@@ -5,6 +5,16 @@ ai_modified: 2026-06-14T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-14T04:48:00+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-14
+- **Coverage**: 2/3 reviewers processed (sources: ChatGPT 5.5 Pro, Gemini 2.5 Pro; Claude leg absent)
+- **Subject**: `topics/qm-interpretations-beyond-many-worlds.md` (both reviewers, same target)
+- **Clusters**: 2 convergent (epothilone B empirical caution; tenet-bracketing vs independent support), 7 singleton, 1 divergent (RQM: strength vs fatal collapse)
+- **Tasks upgraded**: 1 (P3→P2: 0, P2→P1: 1 — the consolidated qm-interpretations recalibration task, home of both convergent findings)
+- **Tasks deduplicated**: 0 (per-reviewer tasks were already consolidated onto one ChatGPT task cluster during /outer-review processing; the Gemini convergent contribution was already cross-referenced in via "Also see")
+- **Output**: [[reviews/outer-review-synthesis-2026-06-14]]
+
 ## 2026-06-14T05:05:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 2.5 Pro (gemini-2-5-pro)
