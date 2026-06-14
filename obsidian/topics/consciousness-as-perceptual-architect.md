@@ -4,7 +4,7 @@ description: "Consciousness actively shapes perception in two ways: stabilising 
 created: 2026-02-15
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-06-12T21:37:42+00:00
+ai_modified: 2026-06-14T03:31:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,6 +39,7 @@ related_articles:
   - "[[predictive-processing-and-dualism]]"
   - "[[capability-division-problem]]"
   - "[[disappearance-voids]]"
+  - "[[interaction-problem-across-traditions]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -161,6 +162,7 @@ And both face the same explanatory gap. Predictive processing frameworks describ
 - [[predictive-processing-and-dualism]] — Predictive coding and the Map's framework
 - [[filter-theory]] — Consciousness as selective filter
 - [[capability-division-problem]] — Brain-side vs. mind-side processing
+- [[interaction-problem-across-traditions]] — Related development: the "selection not injection" structure this article finds in perceptual constancy is the same structural insight the cross-traditional typology credits to its Type-2 reflection and Type-4 quantum-selection families
 - [[default-mode-network]] — Meditator DMN plasticity as the self-narrative counterpart to the perceptual ratchet: attention-gated remodelling across developmental timescales
 - [[self-construction-constructor]] — Apex synthesis placing perceptual construction alongside the social, narrative, and representational registers: the percept is built, but the building presupposes a subject for whom there is something it is like to perceive
 

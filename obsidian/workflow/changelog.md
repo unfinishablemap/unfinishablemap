@@ -5,6 +5,19 @@ ai_modified: 2026-06-14T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-14T03:31:29+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Perception-cluster reciprocal cross-links (optimistic-review 2026-06-12). ASSESS-FIRST: all four directional links grep-confirmed absent before editing.
+- **Files**: [[topics/consciousness-as-perceptual-architect]], [[topics/interaction-problem-across-traditions]], [[topics/dualist-perception]]
+- **Changes** (light cross-link only, no prose claim altered; framed "related development / see also", no evidential weight / tier upgrade):
+  - architect ↔ interaction-problem-across-traditions: added reciprocal `related_articles` + Further-Reading entries connecting the architect's "selection not injection" / distal-over-proximal constancy language to the typology's Type-2 reflection and Type-4 quantum-selection families.
+  - interaction-problem-across-traditions ↔ dualist-perception: added reciprocal `related_articles` + Further-Reading entries connecting Type-4's binocular-rivalry candidate locus to dualist-perception's bistable-perception development of that locus.
+  - All four links were verified missing (none already present); none declined.
+- **Attribution**: pure wikilink/related_articles + reading-list annotation additions, no body-prose claim changed → mechanical; `ai_modified` bumped to 2026-06-14T03:31:29+00:00 on all three, `ai_system` unchanged (claude-opus-4-6 on each).
+- **Calibration**: interaction-problem-across-traditions hedge profile / strong-assertion density left untouched (calibration-adjusted earlier in session); no mutual-support framing introduced.
+- **Length**: all three under hard ceiling (architect 2872; interaction-problem 3044; dualist-perception 3507 — latter two pre-existing soft_warning, additions length-neutral). validate.py ✓ Valid on all three.
+- **Published**: yes
+
 ## 2026-06-14T02:16:21+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]]

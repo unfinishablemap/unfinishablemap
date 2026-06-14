@@ -4,7 +4,7 @@ description: "Five structural types of interaction solution recur across Western
 created: 2026-02-17
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-06-12T18:33:49+00:00
+ai_modified: 2026-06-14T03:31:29+00:00
 draft: false
 topics:
   - "[[history-of-the-interaction-problem]]"
@@ -26,6 +26,8 @@ related_articles:
   - "[[history-of-the-interaction-problem]]"
   - "[[interaction-problem-non-western-philosophy-2026-02-17]]"
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
+  - "[[consciousness-as-perceptual-architect]]"
+  - "[[dualist-perception]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -132,6 +134,8 @@ The cross-traditional recurrence broadens the warrant for the *problem*—it sho
 - [[eastern-philosophy-consciousness]]
 - [[objections-to-interactionism]]
 - [[conservation-laws-and-mental-causation]]
+- [[consciousness-as-perceptual-architect]] — Related development: the "selection not injection" structure of the Type-2 and Type-4 families appears concretely in perceptual constancy's selecting of distal over proximal
+- [[dualist-perception]] — Related development: the binocular-rivalry locus that Type-4 names as a candidate site for quantum selection is developed there as bistable perception
 
 ## References
 

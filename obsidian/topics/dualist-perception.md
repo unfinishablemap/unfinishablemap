@@ -4,7 +4,7 @@ description: "Perception is where consciousness meets the world. Dissociations, 
 created: 2026-02-16
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-06-12T16:32:04+00:00
+ai_modified: 2026-06-14T03:31:29+00:00
 last_deep_review: 2026-06-12T16:32:04+00:00
 draft: false
 topics:
@@ -41,6 +41,7 @@ related_articles:
   - "[[perceptual-degradation-and-the-interface]]"
   - "[[selective-correction-and-reconstruction-paradox]]"
   - "[[filter-theory]]"
+  - "[[interaction-problem-across-traditions]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -185,6 +186,7 @@ The Map's [[tenets]] find their sharpest expression in perception.
 - [[selective-correction-and-reconstruction-paradox]] — Three modes of signal handling (autonomous correction, faithful transmission, selection under ambiguity) as evidence of a conscious recipient
 - [[knowledge-argument]] — Mary's Room and what physical knowledge misses
 - [[interactionist-dualism]] — The broader framework for mind-body interaction
+- [[interaction-problem-across-traditions]] — Related development: the cross-traditional typology names binocular-rivalry resolution as a candidate Type-4 quantum-selection locus, developed here as bistable perception
 - [[curated-mind]] — The curation argument extended from vision to body schema, memory, and self-model
 - [[filter-theory]] — Consciousness as filter rather than generator
 
