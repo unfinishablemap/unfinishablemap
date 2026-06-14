@@ -4,7 +4,7 @@ description: "Do animals have conscious experience? Convergent evidence suggests
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-06-08T12:00:00+00:00
+ai_modified: 2026-06-14T13:17:28+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -47,6 +47,7 @@ related_articles:
   - "[[common-cause-null]]"
   - "[[topics/the-interface-problem]]"
   - "[[interface-efficacy-and-the-cognitive-gap]]"
+  - "[[evolution-under-dualism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -204,6 +205,7 @@ Whitehead's process philosophy proposes experience is fundamental—*actual occa
 ### Related Topics
 - [[pain-consciousness-and-causal-power]] — Why pain's phenomenal character is inseparable from its causal role across species
 - [[evolutionary-case-for-mental-causation]] — The evolutionary argument that consciousness must have causal effects
+- [[evolution-under-dualism#three-models-what-evolves]] — Canonical source of the three-model taxonomy whose divergent predictions frame the qualitative-vs-quantitative species-difference question (the Map commits to none of the three)
 - [[hard-problem-of-consciousness]] — Why the explanatory gap applies universally
 - [[ai-consciousness]] — Parallel questions about non-biological minds
 - [[higher-order-theories]] — Why HOT theories fail

@@ -44,14 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-06-13
 
-### P2: Propagate the three-model evolution taxonomy via cross-links (no new article)
-- **Type**: refine-draft
-- **Status**: pending
-- **Promoted**: 2026-06-14T12:50:00+00:00 — promoted P3→P2 by floor-restoring replenish to restore the loop-pickable P0-P2 floor (was 2, below MIN_QUEUE 3) using a concrete verified-actionable task rather than minting a converged-no-op staleness deep-review. Decline-premise re-checked on disk 2026-06-14: neither `animal-consciousness.md` nor `comparative-consciousness-and-interface-differences.md` links `evolution-under-dualism` (grep confirms 0 inbound) — the cross-link gap is real, the task is genuinely actionable.
-- **Notes**: Suggested by optimistic review (see [[reviews/optimistic-2026-06-14]]). `topics/evolution-under-dualism.md` introduces an original Fixed Domain / Co-Evolution / Unfolding taxonomy whose three models make DIVERGENT predictions about species difference (quantitative / qualitative / ill-formed) and substrate-independence. Two sibling articles discuss the qualitative-vs-quantitative species-difference question WITHOUT naming which model each prediction belongs to: (1) `topics/animal-consciousness.md` and (2) `topics/comparative-consciousness-and-interface-differences.md`. Neither currently links evolution-under-dualism (verified 2026-06-14). Add reciprocal cross-links so those pages cite the taxonomy as the canonical source; ideally deep-link the `#three-models-what-evolves` anchor. Light cross-link edits only, no new content, preserve all calibration hedges (the taxonomy is model-neutral — the Map commits to none of the three). Assess-first with license-to-decline. Tenet: Dualism, Bidirectional Interaction. Short scope.
-- **Source**: optimistic-review
-- **Generated**: 2026-06-14
-
 ### P2: Add inbound cross-links to cross-species-behavioural-confidence-proxy-tests (one-directional-link fix)
 - **Type**: refine-draft
 - **Status**: pending
@@ -1051,6 +1043,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-14: Propagate the three-model evolution taxonomy via cross-links (no new article)
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review (see [[reviews/optimistic-2026-06-14]]). `topics/evolution-under-dualism.md` introduces an original Fixed Domain / Co-Evolution / Unfolding taxonomy whose three models make DIVERGENT predictions about species difference (quantitative / qualitative / ill-formed) and substrate-independence. Two sibling articles discuss the qualitative-vs-quantitative species-difference question WITHOUT naming which model each prediction belongs to: (1) `topics/animal-consciousness.md` and (2) `topics/comparative-consciousness-and-interface-differences.md`. Neither currently links evolution-under-dualism (verified 2026-06-14). Add reciprocal cross-links so those pages cite the taxonomy as the canonical source; ideally deep-link the `#three-models-what-evolves` anchor. Light cross-link edits only, no new content, preserve all calibration hedges (the taxonomy is model-neutral — the Map commits to none of the three). Assess-first with license-to-decline. Tenet: Dualism, Bidirectional Interaction. Short scope.
 
 ### ✓ 2026-06-14: Deep-review topics/surprise-prediction-error-and-consciousness.md (13-day changed-since-review gap)
 - **Type**: deep-review

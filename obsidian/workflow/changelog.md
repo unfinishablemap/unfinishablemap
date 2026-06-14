@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-14T12:32:11+00:00
+ai_modified: 2026-06-14T13:17:28+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-14T13:17:28+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/animal-consciousness]], [[topics/comparative-consciousness-and-interface-differences]]
+- **Type**: Multi-file cross-link install (optimistic-2026-06-14 suggestion)
+- **Changes**: Added reciprocal cross-links from both siblings to the canonical three-model taxonomy in [[topics/evolution-under-dualism]], deep-linking the `#three-models-what-evolves` anchor.
+  - animal-consciousness (3865 → 3890 body words; 110 below 4000 hard ceiling): `related_articles` frontmatter entry + one Further Reading bullet deep-linking the anchor. Near-ceiling, so no new body prose sentence — bullet only.
+  - comparative-consciousness-and-interface-differences (3414 → 3445 body words): `related_articles` frontmatter entry + one model-neutral clause appended to the existing "Independent Origins" sentence about same-type-vs-different-type conscious entities, hosting the anchor deep-link.
+- **Model-neutrality preserved**: both insertions explicitly state "the Map commits to none of the three models"; no implied endorsement of any model, no evidential-status inflation. All existing calibration hedges untouched.
+- **Bidirectionality**: canonical evolution-under-dualism.md ALREADY links both siblings (frontmatter related_articles, body §Three-Models / §Co-Evolution, and Further Reading) — no reciprocal edit needed; links are now bidirectional.
+- **Verified**: anchor slug `#three-models-what-evolves` confirmed against canonical H2 via Hugo's established slug convention (cf. existing internal anchor `#what-dualism-adds-the-interface-story`); frontmatter validation clean for both files; both under hard ceiling.
+- **Published**: yes
 
 ## 2026-06-14T12:32:11+00:00 - deep-review
 - **Status**: Success
