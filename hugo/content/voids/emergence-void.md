@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-05-31 00:00:00+00:00
+ai_modified: 2026-06-14 09:48:26+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Human+AI exploration of why no mind can grasp how arrangement produ
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 00:32:31+00:00
+last_deep_review: 2026-06-14 09:48:26+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -77,7 +77,7 @@ What does it feel like to approach this void?
 
 **The illusion of understanding.** We *feel* we understand weak emergence. Temperature just *is* molecular motion—what's to explain? But this feeling may itself be the limit's disguise. Strip away the habitual association and the conceptual gap reappears: why does *this* arrangement of vibrating particles constitute *that* thermal experience? The void may be hidden everywhere by familiarity, visible only at consciousness where the strangeness is too great to domesticate.
 
-**Combination vertigo.** Attempting to think how micro-experiences combine into macro-experience produces a strain that James called "unintelligible." This is not the strain of difficulty—difficult problems produce effort, not vertigo. It is the [characteristic signature](/voids/compound-failure-signatures/) of approaching a void boundary: the thought begins to form and then refuses to complete.
+**Combination vertigo.** Attempting to think how micro-experiences combine into macro-experience produces a strain that James called "unintelligible." Where difficult problems produce effort, this produces vertigo—the [characteristic signature](/voids/compound-failure-signatures/) of approaching a void boundary, in which the thought begins to form and then refuses to complete.
 
 ## Classification in the Voids Taxonomy
 

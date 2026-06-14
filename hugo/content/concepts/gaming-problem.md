@@ -23,7 +23,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/up7VeV9TiAE
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-04 09:15:00+00:00
+last_deep_review: 2026-06-14 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[birch-edge-of-sentience-and-the-five-tier-scale]]'

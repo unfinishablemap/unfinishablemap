@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-06-01 09:00:00+00:00
+ai_modified: 2026-06-14 03:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -41,7 +41,7 @@ Mechanistic explanation in science works by decomposing a phenomenon into compon
 
 At the consciousness-matter interface, this strategy faces a categorical challenge. The "components" on one side are physical—neurons, ion channels, quantum states. The "components" on the other side are phenomenal—experiences, intentions, felt qualities. A mechanistic account of their interaction would need to specify operations that span two ontologically distinct domains. But operations, in the mechanistic framework, are defined by their physical implementation. An operation that begins in the phenomenal and terminates in the physical is not an operation in any standard scientific sense—it is precisely the thing that needs explaining.
 
-This does not show that mechanistic explanation is impossible here. It shows that applying it requires extending the concept of mechanism beyond its established scientific use—a challenge that [extends to other explanatory frameworks](/topics/consciousness-defeats-explanation/) as well. The Map's proposed [psychophysical-laws](/concepts/psychophysical-laws/)—laws governing how phenomenal states determine quantum outcomes—represent exactly such an extension. They preserve the structure of mechanistic explanation (specifiable inputs, lawful transformations, determinate outputs) while acknowledging that the inputs are phenomenal rather than physical. Whether this extension is legitimate or a category error is itself an epistemological question that cannot be settled in advance.
+This does not establish that mechanistic explanation is impossible here. On the Map's reading, applying it requires extending the concept of mechanism beyond its established scientific use—a challenge that [extends to other explanatory frameworks](/topics/consciousness-defeats-explanation/) as well. The Map's proposed [psychophysical-laws](/concepts/psychophysical-laws/)—laws governing how phenomenal states determine quantum outcomes—represent exactly such an extension. They preserve the structure of mechanistic explanation (specifiable inputs, lawful transformations, determinate outputs) while acknowledging that the inputs are phenomenal rather than physical. Whether this extension is legitimate or a category error is itself an epistemological question that cannot be settled in advance.
 
 One further caveat: this entire framework assumes quantum mechanics involves genuine outcome selection—that is, wavefunction collapse. Under the [Many-Worlds Interpretation](/concepts/many-worlds/), all quantum outcomes occur in different branches and there are no outcomes to "select." The Map's [rejection of Many-Worlds](/tenets/#no-many-worlds) is therefore not peripheral to the epistemology—it is a precondition for the problem as formulated here.
 
@@ -63,9 +63,9 @@ Four inferential strategies are available for investigating the consciousness-ma
 
 ### Convergence Arguments
 
-The strongest available method is convergence: showing that independent lines of evidence from both sides point toward the same interface structure (see [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) for formal conditions on when convergence carries evidential weight). When first-person reports of effortful attention covary with third-person measures of neural pattern stability—as in Schwartz's OCD research, where directed mental effort produces measurable changes in caudate metabolism—neither side alone proves the interface exists, but their convergence constrains what the interface could be. (Materialists interpret this same data as brain-mediated learning rather than consciousness-brain interaction; the convergence constrains theories on both sides without settling the interpretation.)
+The strongest available method is convergence: showing that independent lines of evidence from both sides point toward the same interface structure (see [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) for formal conditions on when convergence carries evidential weight). When first-person reports of effortful attention covary with third-person measures of neural pattern stability—as in Schwartz's OCD research, where directed mental effort produces measurable changes in caudate metabolism—neither side alone proves the interface exists, but their convergence constrains what the interface could be. (Materialists interpret this same data as brain-mediated learning rather than consciousness-brain interaction; the convergence is underdetermined by the evidence, constraining theories on both sides without settling which interpretation is correct.)
 
-Convergence arguments cannot establish mechanism. They establish correlation across the phenomenal-physical divide, which is consistent with both causal interaction and elaborate pre-established harmony. But they narrow the space of viable theories: any adequate account must explain *why* these particular first-person and third-person features covary.
+Convergence arguments cannot establish mechanism. They establish correlation across the phenomenal-physical divide, which is consistent with both causal interaction and elaborate pre-established harmony—the choice between them remains underdetermined by the data convergence supplies. But they narrow the space of viable theories: any adequate account must explain *why* these particular first-person and third-person features covary.
 
 ### Negative Constraints
 

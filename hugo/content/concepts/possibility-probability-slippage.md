@@ -14,7 +14,7 @@ description: The reasoning move where a tenet that secures the metaphysical poss
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 07:39:54+00:00
+last_deep_review: 2026-06-14 08:46:52+00:00
 modified: *id001
 related_articles:
 - '[[gaming-problem]]'

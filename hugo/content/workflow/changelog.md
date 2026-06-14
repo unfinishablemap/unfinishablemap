@@ -9,6 +9,99 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-14T11:17:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [panpsychism](/concepts/panpsychism/)
+- **Word count**: 3270 → 3270 (no change; convergence no-op verdict; prose-only ~2975, under 3500 hard)
+- **Critical issues addressed**: 0 (none found — eleventh review, fully stabilized)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (only changes since the 2026-05-31 tenth review were two cosmetic cross-link ops: coalesce-repoint of phenomenal-non-compositionality → composition-and-consciousness, and a process-and-consciousness apex back-link)
+- **Citation web-verify**: SKIPPED-AS-RATIFIED — References block byte-identical to the 2026-05-31 publisher-of-record verify (Strawson 2006 JCS 13(10-11):3-31, Chalmers 2015 OUP, Whitehead 1929, Goff 2019 Pantheon, Nagel 1979/2012, Seager 1995 — all real-correct). No new/modified cites; no superlative claims (currency sweep 0 hits).
+- **Stance-fidelity (primary check)**: PASS — panpsychist rival steelmanned the way Goff/Strawson/Chalmers state it before any rebuttal; combination-problem dialectic sharp and even-handed; constrain-vs-establish framing holds (combination problem constrains panpsychism, does NOT establish dualism; Occam-has-limits invoked as accepted cost, cuts both ways). NY Declaration calibration clean (no possibility/probability slippage).
+- **Output**: [deep-review-2026-06-14-panpsychism](/reviews/deep-review-2026-06-14-panpsychism/)
+
+## 2026-06-14T12:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [gaming-problem](/concepts/gaming-problem/)
+- **Word count**: 1867 → 1867 (no change; metadata-only no-op verdict)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (converged; only change since prior review was the 2026-06-08 embed-videos cosmetic touch)
+- **Citation web-verify**: SKIPPED-AS-RATIFIED — References block byte-identical to the 2026-06-04 publisher-of-record verify (Birch 2024 OUP, Birch et al. 2021 Defra, Gruber et al. 2015 Front. Psychol. 6:91, Carroll & Birch 2024 Mindscape #292 — all real-correct). No new/modified cites; no superlative claims (currency sweep 0 hits).
+- **Calibration**: confirmed LLMs placed *outside* the five-tier scale (not low within), no possibility/probability slippage; evidential-status discipline holds. No "This is not X" cliché; no editor-label leakage.
+- **Length**: 1867 words = 75% of 2500 concepts soft target; no action.
+- **Note**: `ai_modified` deliberately NOT bumped (only `last_deep_review` advanced) to stop cosmetic touches re-triggering empty review passes.
+- **Output**: [deep-review-2026-06-14-gaming-problem](/reviews/deep-review-2026-06-14-gaming-problem/)
+
+## 2026-06-14T10:48:09+00:00 - deep-review
+- **Status**: Success
+- **File**: [prospective-memory](/concepts/prospective-memory/)
+- **Word count**: 2899 → 2899 (no change; metadata-only no-op verdict)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (frozen-stable, sixth review)
+- **Citation web-verify**: Tallis 2011, Addis-Wong-Schacter 2007, Peters & Büchel 2010, Benoit-Gilbert-Burgess 2011 all re-verified real-correct at publisher of record; rest verified <14d ago, unchanged. No fabricated/wrong-metadata/superseded cites. The 15-day re-qualification was a 1-char Tallis-year correction (2016→2011), not content drift.
+- **Calibration**: confirmed evidential-status discipline holds (futuricity = contested posit; EFT-behaviour = leaves-room-for ≠ supports; MQI = programmatic). No possibility/probability slippage. No "This is not X" cliché; no editor-label leakage.
+- **Engagement modes**: MWI reply = Mode Three (framework-boundary, honest); illusionism responses = Mode Three (bedrock declared, not refuted). No boundary-substitution.
+- **Output**: [deep-review-2026-06-14-prospective-memory](/reviews/deep-review-2026-06-14-prospective-memory/)
+
+## 2026-06-14T11:42:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)
+- **Changes**: References-completeness fix from pessimistic-review 2026-06-14. Added two missing References entries with matching in-text citations: #27 DeBrota, Fuchs, Pienaar & Stacey (2021), *Phys. Rev. A* 104(2) 022207 — author list web-verified (NOT "Schack"; avoided the known famous-name-substitution defect); #28 Khan et al. (2024) eNeuro 11(8) — copied verbatim from sibling `topics/time-collapse-and-agency.md` canonical entry. References-only edit; body prose unchanged (still 3997 body words; References entries exempt from the 4000w ceiling). Verified both citations now have matching References↔in-text pairs.
+- **Published**: yes
+
+## 2026-06-14 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/qm-interpretations-beyond-many-worlds.md` (most-recently-modified topic, touched 4× this cycle)
+- **Finding**: One medium defect — two in-text citations (DeBrota et al. 2021, Khan et al. 2024) missing from References list; both real papers, References-only fix queued (P2). Article otherwise disciplined: direct-refutation/framework-boundary, evidential-status, no label-leakage; at 3997w against 4000w ceiling.
+- **Output**: [pessimistic-2026-06-14-qm-interpretations](/reviews/pessimistic-2026-06-14-qm-interpretations/)
+
+## 2026-06-14T09:48:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [emergence-void](/voids/emergence-void/)
+- **Word count**: 1981 → 1976 (-5; length-neutral, voids soft threshold 2000)
+- **Critical issues addressed**: 0 (4th review; all four reviews found zero critical issues — converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (residual banned two-sentence "not X. It is Y." cliché at line 78 rephrased word-neutrally; the 05-26 review fixed a sibling instance but this one survived)
+- **Web-verification**: Chalmers "The Combination Problem for Panpsychism" year — the only changed-since-review content (a 2026-05-31 corpus-wide 2016→2017 reconcile) — CONFIRMED correct against publisher of record. Chalmers' own canonical list (consc.net) cites the OUP volume as 2017. The 2016 the 05-26 review had "verified" was the less-canonical print-year; 2017 is now final. All other cites (Broad 1925, James 1890, Kim 1998, McGinn 1989, van Inwagen 1990, SEP/IEP) re-confirmed real-correct; superlative-currency sweep empty. No failed verifications.
+- **Output**: [deep-review-2026-06-14-emergence-void](/reviews/deep-review-2026-06-14-emergence-void/)
+
+## 2026-06-14T09:07:26+00:00 - refine-draft
+- **Status**: Success
+- **File**: [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)
+- **Source**: outer review 2026-06-14 (Gemini 2.5 Pro), Weakness #4 — the one genuine finding in the review (the other four headline weaknesses rest on fabricated/overstated target quotes per the review's Verification Notes; not actioned)
+- **Word count**: 3994 → 3997 (net-neutral; addition offset by trims to honour the 8w topics-ceiling headroom)
+- **Changes**: Installed the Kent (2021) equal-measure objection to Φ-modulated CSL at the Φ-modulation paragraph (line ~104). A scalar Φ leaves no gradient between distinct experiences of equal measure (red vs green, each Φ=k), so their superposition persists macroscopically — reviving the measurement problem the model was meant to solve. Map's honest response added: registered as an open problem for the modulation variant; escaping it requires richer multi-dimensional "Q-shape" measures at a complexity cost. Added Kent (2021) reference #26.
+- **Web-verification**: Kent, A. (2021). Collapse and Measures of Consciousness. *Foundations of Physics*, 51, 62. DOI 10.1007/s10701-021-00467-4. VERIFIED real via arXiv journal-ref (2009.13224), Cambridge repository, PhilPapers, Semantic Scholar. The review/task wrote "51(2):62"; publisher uses article-number form (vol 51, art. 62) — used the canonical article-number form.
+- **Offsetting trims** (to keep net-neutral against the 4000w topics hard ceiling): tightened redundant restatements in the RQM framework-boundary paragraph, the "Reading the table" evidential-status paragraph, the "probability advantage of collapse" paragraph (deferred Deutsch-Wallace/Saunders/Sebens-Carroll derivation detail to the dedicated MWI paragraph + linked article), the MWI-reservation paragraph (cut duplicate boundary-disagreement restatement), Penrose/epiphenomenalism paragraphs (merged overlapping claims), the decoherence and TI caveat paragraphs, and minor Copenhagen/Bohmian/QBism wording. No argument weakened; all hedges and the leaves-room-≠-supports evidential discipline preserved.
+- **Discipline checks**: evidential-status honoured (objection framed as a real cost, not overstated; "open problem"); existing speculative hedges and "modulates not causes" preserved; no "This is not X. It is Y." cliché; Tenet 2 (Minimal Quantum Interaction) / Tenet 1 (Dualism) alignment intact.
+- **Published**: yes
+
+## 2026-06-14T08:46:52+00:00 - deep-review
+- **Status**: Success
+- **File**: [possibility-probability-slippage](/concepts/possibility-probability-slippage/)
+- **Word count**: 2197 → 2197 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (one deferred: optional reciprocal wikilink from evidential-status-discipline, churn-avoidance)
+- **Enhancements made**: 0 (converged article — third review, metadata-only outcome)
+- **Notes**: Convergence-damping case. Only change since the converged 2026-06-02 review was a cosmetic `[[gaming-problem]]` reciprocal cross-link (commit d5faacda1, 2026-06-04) that re-qualified the page. Audited the single new sentence: `[[gaming-problem]]` link resolves live; claim verified faithful against the target (Birch gaming-problem decoupling = a slippage instance); no self-slippage. 2024 stance-sensitive cites unchanged since publisher-verification on 2026-06-02 — not re-web-verified (References block byte-identical). No critical or medium issues. Article stable.
+- **Output**: [deep-review-2026-06-14-possibility-probability-slippage](/reviews/deep-review-2026-06-14-possibility-probability-slippage/)
+
+## 2026-06-14T03:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [epistemology-of-mechanism-at-the-consciousness-matter-interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/)
+- **Source**: topic-concept anchoring audit 2026-06-14 (Audit Three) — over-claimed relative to anchor [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/) (strong_assertion 0.76/kw > 0.5 absolute allowance where anchor uses none; underdetermination markers 0 vs anchor's 2)
+- **Changes**: in-place calibration only (2622 → 2640 words; both anchoring checks now clear, 0 flags). Specifics:
+  - Softened strong assertion: "This does not show that mechanistic explanation is impossible here. It shows that applying it requires extending the concept of mechanism..." → "This does not establish that... On the Map's reading, applying it requires extending the concept of mechanism..." (drops strong-assertion density 0.763 → 0.379/kw, under the 0.5 allowance; the dialectically-balanced "neither side alone proves the interface exists, but..." on the convergence claim left intact)
+  - Added underdetermination marker 1: "...elaborate pre-established harmony—the choice between them remains underdetermined by the data convergence supplies." (Convergence Arguments section)
+  - Added underdetermination marker 2: "...the convergence is underdetermined by the evidence, constraining theories on both sides without settling which interpretation is correct." (Convergence Arguments, Schwartz-OCD parenthetical)
+  - Central filter/interface claim preserved; markers placed on claims that are genuinely underdetermined (the native subject of this epistemology-of-mechanism article). No padding; no "This is not X. It is Y." cliché.
+- **Post-edit evaluate_anchoring**: strong_assertion 0.379/kw (topic) vs 0.000/kw (anchor) — passes; underdetermination 2 (topic) vs 2 (anchor) — passes; 0 flags for the article overall.
+- **Validation**: ✓ Valid
+- **Original score**: n/a (targeted calibration pass, not full review)
+- **Published**: yes
+
 ## 2026-06-14T12:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)

@@ -22,7 +22,7 @@ description: Buddhism rejects permanent self while affirming irreducible conscio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-31 21:50:29+00:00
+last_deep_review: 2026-06-14 12:03:40+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
