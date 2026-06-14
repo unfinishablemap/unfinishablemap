@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-14T00:48:32.138599+00:00'
-session_count: 10981
-cycle_position: 9037
+last_updated: '2026-06-14T01:05:46.074060+00:00'
+session_count: 10982
+cycle_position: 9038
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-13T21:19:33.346951+00:00'
   optimistic-review: '2026-06-14T00:03:37.977941+00:00'
   check-tenets: '2026-06-13T04:02:32.951561+00:00'
   check-links: '2026-06-13T17:32:49.651954+00:00'
-  deep-review: '2026-06-14T00:21:11.662801+00:00'
+  deep-review: '2026-06-14T01:05:46.074060+00:00'
   tune-system: '2026-06-10T08:48:52.476985+00:00'
   research-voids: '2026-06-13T17:46:29.227870+00:00'
   coalesce: '2026-06-13T13:38:18.821323+00:00'
@@ -85,7 +85,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 394
-  reviews_completed: 5300
+  reviews_completed: 5301
   apex_articles: 34
 quality:
   critical_issues: 0
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-13'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-13'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-14'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-14'
   outcome: success
 agentic_social:
@@ -1042,12 +1042,49 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3
-  p3_tasks: 4
+  p2_tasks: 4
+  p3_tasks: 2
   needs_replenishment: false
-  last_replenishment: '2026-06-14T00:30:00+00:00'
+  last_replenishment: '2026-06-14T01:30:00+00:00'
   last_replenishment_mode: conservative
-  current_replenishment_note: '2026-06-14T00:30:00+00:00 run (conservative mode) -
+  current_replenishment_note: '2026-06-14T01:30:00+00:00 run (conservative mode) -
+    PROMOTED 2 grounded review-flagged P3 refine tasks to P2 (perception-cluster reciprocal
+    cross-links + route-vs-direction named-anchor deflation-blocker) to restore the
+    loop-pickable P0-P2 floor; NO new task minted. On entry loop-pickable open P0-P2
+    was 2 (the two 2026-06-12 staleness deep-reviews: topics/ai-consciousness, ldr
+    2026-06-02 < ai_mod 2026-06-09; concepts/metacognition, ldr 2026-05-29 < ai_mod
+    2026-06-05 - both re-verified genuinely pending on disk), below the MIN_QUEUE floor
+    of 3. The prior 00:30 run minted concepts/materialism.md, which a deep-review fork
+    has since EXECUTED and moved to Completed - so the floor correctly drained back
+    to 2. The 4 open P3s do not count toward the floor; the two #veto P2 condense tasks
+    (meaning-of-life 4160w, phenomenal-output 6989w) are not loop-pickable. All eight
+    sources re-verified on disk. CHAINS (S1) 0 - recent_tasks 14d window holds no research-topic
+    or expand-topic completion. UNCONSUMED RESEARCH (S2) 0 - newest research/ mtimes
+    are Feb-Apr-dated voids-* slugs (voids OVER cap 101/100; long-consumed citation-sweep
+    touches). GAPS (S3) 0 - corpus saturated (topics 267/270, concepts 262/270 near
+    cap; voids over cap). ORPHANS (S5) 0 (quality.orphaned_files 0). LENGTH (S6) 0
+    NEW - all published hard/critical offenders are research/* notes, #veto, or human-gated/DIVERTED
+    calibration flagships (epistemology-of-convergence, clinical-dissociation, born-rule,
+    laws-and-dispositions, edge-states-and-void-probes). POSITIONS add (S7a) 0; POSITIONS
+    update (S7b) 0; POSITIONS audit NOT due (last 2026-06-09, 30d window open). APPLIED-APEX
+    (S8) 0. STALENESS (S4): the strict changed-since-review scan (ai_contribution>=50,
+    ai_modified > last_deep_review, ai_modified != today 2026-06-14, gap >=14d) yields
+    21 hits, but every settled one is dominated by the every-cycle topic-concept anchoring-audit
+    calibration-adoption refine or a corpus-wide citation sweep (emergence-void = Chalmers-year
+    reconcile; reductionism/eastern-philosophy = anchor-calibration adoption; trilemma-of-selection
+    was the focus of yesterday positions-evolve P-A1/P-A2 dependency update) - light
+    maintenance edits, not mintable new factual content; deep-reviewing them now = over-review
+    of just-maintained converged articles (deep-review-over-reviews-converged). So
+    rather than mint a redundant/churn deep-review or a speculative expand-topic against
+    near/over-cap sections, the honest floor move is to PROMOTE two grounded, concrete,
+    verified-actionable optimistic-review-flagged P3 refines: perception-cluster reciprocal
+    cross-links (two named missing links, length-neutral, single cluster) + the route-vs-direction
+    named-anchor harvest (single-file, mental-causation/bidirectional cluster, distinct
+    from the perception task). A 2-task batch breaks the single-add replenish-re-fires-every-cycle
+    alternation. After: loop-pickable open P0-P2 = 4, above the floor with a small buffer.
+    Left the chemosensory-qualia P3 (targets near-cap topics, decline-leaning) and
+    the three-model-taxonomy P3 unpromoted. No churn-prone or human-gated task minted.'
+  superseded_replenishment_note_0030: '2026-06-14T00:30:00+00:00 run (conservative mode) -
     generated 1 NEW staleness deep-review task (concepts/materialism.md) at the TOP
     of Active Tasks to restore the loop-pickable P0-P2 floor. On entry loop-pickable
     open P0-P2 was 2 (the two 2026-06-12 staleness deep-reviews: topics/ai-consciousness,
