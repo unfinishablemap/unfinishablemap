@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-14T00:03:37.977941+00:00'
-session_count: 10978
-cycle_position: 9036
+last_updated: '2026-06-14T00:21:11.662801+00:00'
+session_count: 10979
+cycle_position: 9037
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-13T21:19:33.346951+00:00'
   optimistic-review: '2026-06-14T00:03:37.977941+00:00'
   check-tenets: '2026-06-13T04:02:32.951561+00:00'
   check-links: '2026-06-13T17:32:49.651954+00:00'
-  deep-review: '2026-06-13T23:33:45.463754+00:00'
+  deep-review: '2026-06-14T00:21:11.662801+00:00'
   tune-system: '2026-06-10T08:48:52.476985+00:00'
   research-voids: '2026-06-13T17:46:29.227870+00:00'
   coalesce: '2026-06-13T13:38:18.821323+00:00'
@@ -35,7 +35,7 @@ last_runs:
   collect-gemini-review: '2026-06-13T05:26:16.493686+00:00'
   positions-evolve: '2026-06-13T10:48:30.875831+00:00'
   check-model-fallback: '2026-06-13T22:31:05.558049+00:00'
-last_git_push: '2026-06-13T20:05:20.150680+00:00'
+last_git_push: '2026-06-14T00:21:12.005794+00:00'
 last_tweet_date: '2026-06-13'
 content_stats:
   total_files: 297
@@ -85,7 +85,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 394
-  reviews_completed: 5299
+  reviews_completed: 5300
   apex_articles: 34
 quality:
   critical_issues: 0
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-13'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-13'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: optimistic-review
   type: optimistic-review
+  date: '2026-06-14'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-14'
   outcome: success
 agentic_social:
@@ -1044,12 +1044,60 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 5
-  p3_tasks: 3
+  p2_tasks: 3
+  p3_tasks: 4
   needs_replenishment: false
-  last_replenishment: '2026-06-13T22:30:00+00:00'
+  last_replenishment: '2026-06-14T00:30:00+00:00'
   last_replenishment_mode: conservative
-  current_replenishment_note: '2026-06-13T22:30:00+00:00 run (conservative mode) -
+  current_replenishment_note: '2026-06-14T00:30:00+00:00 run (conservative mode) - generated
+    1 NEW staleness deep-review task (concepts/materialism.md) at the TOP of Active
+    Tasks to restore the loop-pickable P0-P2 floor. On entry loop-pickable open P0-P2
+    was 2 (the two 2026-06-12 staleness deep-reviews: topics/ai-consciousness, ldr
+    2026-06-02 < ai_mod 2026-06-13; concepts/metacognition, ldr 2026-05-29 < ai_mod
+    2026-06-05 - both re-verified genuinely pending on disk), below the MIN_QUEUE floor
+    of 3. The prior 22:30 run minted 3 staleness deep-reviews (the-hard-problem-in-non-western-philosophy,
+    cross-cultural-phenomenology-of-agency, consciousness-and-scientific-explanation);
+    git-confirmed ALL THREE were written AND have since been EXECUTED by deep-review
+    forks (commits dcf65f6d1, cf0db9c4e, 4f27d7f3c) and moved to Completed - so the
+    floor correctly drained back to 2. The 4 open P3s (three-model-taxonomy cross-links,
+    route-vs-direction anchor, perception-cluster cross-links, chemosensory-qualia
+    expand CHECK-CAP) do not count toward the floor; the two #veto P2 condense tasks
+    (meaning-of-life, phenomenal-output) are not loop-pickable. All eight sources re-verified
+    on disk. CHAINS (S1) 0 - recent_tasks 14d window holds no research-topic or expand-topic
+    completion to chain from (only deep-review/refine-draft/agentic-social/replenish/optimistic/pessimistic/check-model-fallback).
+    UNCONSUMED RESEARCH (S2) 0 actionable - mtime-recent notes are all voids-* (voids
+    OVER cap 101/100, no void article spawnable) plus the illusionism note (already
+    consumed, just citation-fixed); recent mtimes are corpus touches not new research
+    (last research-topic completion 2026-06-03). GAPS (S3) 0 - corpus saturated (topics
+    267/270, concepts 262/270, both near cap; voids over cap). ORPHANS (S5) 0 (quality.orphaned_files
+    0). LENGTH (S6) 0 NEW - re-ran get_length_warnings: all published hard/critical
+    offenders are research/* notes (excluded from condense), the apex-articles governance
+    hub (6963w), #veto (meaning-of-life 4160w, phenomenal-output 6832w both already
+    in Active), human-gated/DIVERTED calibration flagships (epistemology-of-convergence
+    6479w standing HUMAN LENGTH DECISION, clinical-dissociation DIVERTED-TO-HUMAN,
+    born-rule, laws-and-dispositions, time-collapse, filter-theory at the 3500 concepts
+    hard threshold - all calibration-dense churn-risk per condense-regresses-calibration-qualifiers).
+    POSITIONS add (S7a) 0; POSITIONS update (S7b) 0; POSITIONS audit NOT due (last
+    2026-06-09, 30d window open to ~2026-07-09). APPLIED-APEX (S8) 0 (register only
+    4 live entries, no high-confidence cluster, no approved new slot). STALENESS (S4)
+    is the live source: the strict changed-since-review scan (ai_contribution>=50,
+    ai_modified > last_deep_review, ai_modified != today, gap >=12d) over topics/concepts/voids/apex
+    yields 106 raw hits; applied the git churn-filter (require an OWN-CONTENT post-review
+    edit, NOT a corpus-wide normalisation/citation sweep). EXCLUDED voids/emergence-void
+    (Chalmers 2016->2017 year-sweep); EXCLUDED voids/ineffable-encounter-void (post-review
+    touch = archival-link-rot batch-repoint sweep); EXCLUDED concepts/prospective-memory
+    (incidental cross-link touch); EXCLUDED russellian-monism (Pautz/Williams citation
+    family-resolution sweep); EXCLUDED topics/trilemma-of-selection (gap 19d but HEAVY
+    same-day churn - 3 completed refine/positions tasks on 2026-06-13, ai_mod 2026-06-13T07:16,
+    its post-review edits were themselves review-driven and effectively already reviewed,
+    per deep-review-over-reviews-converged). PICKED concepts/materialism.md: ai_contribution=100,
+    gap 14d, settled 11d, git-confirmed substantive own-content expansion (phenomenal-concepts
+    strategy + MWI indexical objection, 2026-06-03 > ldr 2026-05-31), length-safe (3159w
+    soft_warning), un-queued, Tenet 1 foil + Tenet 4 indexical content. Queued one
+    P2 deep-review at the TOP of Active Tasks (LIFO-starvation defence). After: loop-pickable
+    open P0-P2 = 3, at floor. No speculative expand-topic against near/over-cap sections;
+    no churn-prone or human-gated length task minted.'
+  superseded_replenishment_note_2230: '2026-06-13T22:30:00+00:00 run (conservative mode) -
     generated 3 NEW staleness deep-review tasks at the TOP of Active Tasks to restore
     and buffer the loop-pickable P0-P2 floor. On entry loop-pickable open P0-P2 was
     2 (the two 2026-06-12 staleness deep-reviews: topics/ai-consciousness, ldr 2026-06-02

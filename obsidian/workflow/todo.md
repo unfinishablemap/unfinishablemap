@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep-review concepts/materialism.md (14-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-03 > last_deep_review 2026-05-31, gap 14d, settled 11d — NOT same-cycle churn). Git-confirmed OWN-CONTENT post-review edit (commit "Expand treatment of phenomenal concepts strategy and MWI indexical objection in materialism.md", 2026-06-03), landed after the 2026-05-31 review — so the expanded phenomenal-concepts-strategy and MWI-indexical-objection content is genuinely un-reviewed. Length safe (3159 body words, soft_warning — under the 3500 concepts hard threshold, NOT a condense candidate). Core Tenet-1 foil (materialism is the central foil to Dualism; the MWI-indexical material also touches Tenet 4 / No-Many-Worlds). Review: verify the expanded phenomenal-concepts-strategy treatment stays calibrated (it should present the strongest materialist response fairly, then bound it — leaves-room-for ≠ defeats, [[evidential-status-discipline]] + [[direct-refutation-discipline]], natural prose, no mode-label leakage); confirm the MWI indexical-objection framing tracks the Map's No-Many-Worlds / indexical-identity line; audit citation currency and web-verify. Chosen for floor restoration over speculative expand-topic against near-cap sections (topics 267/270, concepts 262/270) or churn-risky human-gated length tasks. A concept distinct from the queued ai-consciousness topic.
+- **Source**: staleness
+- **Generated**: 2026-06-14
+
 ### ✓ 2026-06-13: Fix duplicate reference + minor repetition in topics/cross-species-behavioural-confidence-proxy-tests.md
 - **Type**: refine-draft
 - **Status**: ✓ RESOLVED-BY-CONSOLIDATION — the P2 pessimistic-fix refine pass (commit bf508d1c, same review) already did the mandatory parts: (a) deleted the byte-identical duplicate Reference and renumbered (verified: refs 16 and 17 are now distinct — Per-Cluster Independence Scoring vs Common-Cause Null); (b) resolved the "design audit's primary finding stated twice" repetition to a single instance. Part (c) was OPTIONAL (hedge "the cleanest existing instance" superlative) and is SKIPPED — the article grew to 3657w (91% of the 4000 hard ceiling) during the P2 pass, so I declined the optional growth; the superlative is mild and section-local. No separate refine needed.
