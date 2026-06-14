@@ -5,6 +5,16 @@ ai_modified: 2026-06-14T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-14T01:03:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/materialism]]
+- **Word count**: 3159 → 3159 (no change; frontmatter-only verdict, body left untouched)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged 7th+ pass; just-expanded content reviewed clean, no prose manufactured)
+- **Notes**: Changed-since-review pass reviewing the 2026-06-03 own-content expansion (commit a5e288d20, +544w): rewritten phenomenal-concepts steelman + rewritten MWI-indexical objection. Both hold coherently. The MWI rewrite CORRECTED a latent calibration defect (old: "indexical Q as hard as the hard problem / materialism gains nothing"; new: explicitly disclaims that question-begging move, engages Saunders/Wallace self-locating uncertainty, frames Map reply as a Mode-Three bedrock commitment honestly noted as non-refutation). Steelman PASS (phenomenal-concepts dilemma framed as contested/underdetermined, not evidence-against). Full publisher-of-record web-verify ledger for the 4 new cites — ALL real-correct: Loar 1990 Phil Perspectives 4:81-108; Papineau 2002 Thinking About Consciousness OUP; Balog 2012 PPR 84(1):1-23; Saunders/Barrett/Kent/Wallace 2010 Many Worlds? OUP. Inline↔References cross-ref clean; all cross-links incl indexical-identity-quantum-measurement resolve; #the-materialist-response anchor valid. Length 3159w soft_warning (under 3500 hard) — not grown. Engagement modes: phenomenal-concepts Mixed (Mode Two→Three), MWI Mode Three; no label leakage. Attribution: ai_modified + ai_system unchanged; only last_deep_review bumped (no body edits) so article won't spuriously re-qualify.
+- **Output**: [[reviews/deep-review-2026-06-14-materialism]]
+
 ## 2026-06-14T00:19:04+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/consciousness-and-scientific-explanation]]
