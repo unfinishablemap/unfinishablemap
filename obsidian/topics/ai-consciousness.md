@@ -4,9 +4,9 @@ description: "Not whether AI is conscious but what type of consciousness it migh
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: null
-ai_modified: 2026-06-13T13:46:48+00:00
+ai_modified: 2026-06-14T15:18:29+00:00
 draft: false
-last_deep_review: 2026-06-02T00:00:00+00:00
+last_deep_review: 2026-06-14T15:18:29+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]"

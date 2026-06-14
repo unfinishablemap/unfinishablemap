@@ -5,6 +5,19 @@ ai_modified: 2026-06-14T13:32:51+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-14T15:18:29+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/ai-consciousness]]
+- **Word count**: 3983 → 3983 (0; frontmatter-only, length-neutral — 17w under the 4000 topics hard ceiling)
+- **Critical issues addressed**: 0 (confirm-and-calibrate; the two new additions are sound)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (convergence — no churn manufactured; 14th review)
+- **Citation web-verify**: Birch 2024 *The Edge of Sentience* (OUP) — **real-correct**; gaming-problem attribution faithful to the publisher-of-record chapter "Large Language Models and the Gaming Problem". No orphan reference entry (cite deferred to [[gaming-problem]] concept page).
+- **Calibration**: verdict-scoping clause ("verdict is not the flat 'AI is not conscious'") calibrated in both directions — leaves-room-for, not supports; faithful compression of [[apex/machine-question]] four-senses framing. Training-contamination confound load-bearing and calibrated (markers cannot serve as evidence = under-determination, not negative settlement). No possibility/probability slippage.
+- **Currency**: no superlative claims; 2024-2026 landscape (Butlin indicators, Birch gaming problem, Hoel continual-learning, Anthropic model welfare) consistent with the article. No drift.
+- **Engagement modes** (editor-internal): Birch = expositional-adoptive (ally, no mode); Duch = Mode Three (boundary-marking); functionalism = Mode Two. No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-14-ai-consciousness]]
+
 ## 2026-06-14T14:00:00+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/metacognition]], [[topics/animal-consciousness]]
