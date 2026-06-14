@@ -4,7 +4,7 @@ description: "Causal closure claims every physical event has sufficient physical
 created: 2026-01-14
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-06-04T16:01:44+00:00
+ai_modified: 2026-06-14T02:16:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -211,7 +211,7 @@ Unlike "god of the gaps" reasoning, the gap here is one physics *describes*—be
 - [[causal-closure-debate-historical-survey]] — How causal closure evolved from a physics claim into a metaphysical axiom
 - [[physical-completeness]] — The structural-ontological gap: why structural completeness does not entail ontological completeness, reframing the closure equivocation
 - [[reductionism]] — Ontological vs methodological vs epistemic reduction; why conflating them supports closure illicitly
-- [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] — Clinical neuroplasticity evidence challenging causal closure through pathway divergence
+- [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] — Clinical neuroplasticity evidence challenging causal closure through pathway divergence; see [[clinical-neuroplasticity-evidence-for-bidirectional-causation#Route versus Direction|the route-versus-direction distinction]] for why input anatomy alone does not deflate the directional regularity (a defeater-blocker, not positive evidence)
 - [[mental-causation-and-downward-causation|Mental Causation and Downward Causation]] — How mental states cause physical effects at quantum indeterminacies
 - [[emergence]] — The emergentist response to causal closure
 - [[interactionist-dualism]] — The position that mental causation enables

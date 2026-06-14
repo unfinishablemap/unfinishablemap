@@ -4,7 +4,7 @@ description: "Three converging clinical evidence streams—OCD neuroplasticity, 
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-06-13T08:20:21+00:00
+ai_modified: 2026-06-14T02:16:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -58,6 +58,8 @@ CBT modulates brain activity top-down, from cortical regions to limbic structure
 Pharmacotherapy modulates brain activity bottom-up, through neurochemical changes at the synaptic level that propagate upward to alter cortical function. SSRIs increase serotonin availability in the synaptic cleft; the resulting neural changes follow a chemical-to-cortical trajectory.
 
 This pathway divergence carries some philosophical weight, though less than a stronger reading would claim. If [[mental-causation-and-downward-causation|mental causation]] were merely physical causation redescribed at a higher level of abstraction—as the physicalist exclusion argument claims—then one might expect psychological and pharmacological interventions to leave no trace of preferential route differences. The finding that psychological intervention *preferentially* engages prefrontal regulatory circuits which then modulate subcortical processing is at least consistent with mind-to-brain causation operating through a top-down route. It does not, however, settle that the two intervention classes represent different *types* of causation: a preferential tendency in entry-route is a far weaker datum than a type-difference in causation, and the type-difference does not follow from the route-difference alone.
+
+### Route versus Direction
 
 The physicalist will object that different physical inputs naturally produce different physical pathways—verbal instructions enter through auditory processing while SSRIs enter through the bloodstream, so route divergence is expected. The honest reply distinguishes *route* from *direction*. Input anatomy explains why the two intervention classes enter the nervous system at different points; on its own it does not fix whether the downstream propagation is predominantly cortex-to-limbic or synapse-to-cortex, which depends on further facts about how each entry point connects to regulatory circuitry. To the extent a directional regularity holds, it is not exhausted by the bare observation that inputs differ. But this argument has limits the article should not hide: the directional tendency is preferential rather than exclusive (the convergence findings below show treatment routes meeting on shared structures as often as diverging), and the physicalist can in principle absorb even a robust directional tendency into a sufficiently detailed account of cortical-versus-subcortical entry points. The Map reads the preferential top-down signature as compatible with—and suggestive of—type-difference in causation; the input-modality deflation is here declined rather than refuted on the physicalist's own terms.
 

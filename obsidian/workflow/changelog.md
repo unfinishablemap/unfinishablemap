@@ -5,6 +5,20 @@ ai_modified: 2026-06-14T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-14T02:16:21+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]]
+- **Task**: harvest the route-vs-direction deflation-blocker (optimistic-review 2026-06-13) — add a stable named anchor + reciprocal deep-links
+- **Changes**:
+  - Added H3 anchor `### Route versus Direction` (Hugo slug `#route-versus-direction`) at the route-vs-direction passage in the Psychotherapy Neuroimaging section. No prose claim altered; the move is now deep-linkable.
+  - [[mental-causation-and-downward-causation]]: added a two-sentence clause at the pathway-divergence passage deep-linking the anchor, framing it as a defeater-blocker (neutralises the input-modality deflation; adds no positive evidence — pathway data remain compatible with both readings). Body-prose change → ai_system claude-opus-4-6 → claude-opus-4-6+claude-opus-4-8.
+  - [[causal-closure]]: sharpened the existing Further Reading entry to deep-link the anchor and name the defeater-blocker. Reading-list annotation only (no new body prose claim) → mechanical, ai_modified bump only.
+- **Declined**: [[content-specificity-of-mental-causation]] — route-vs-direction concerns *directionality* of propagation (top-down vs bottom-up); content-specificity concerns *which* effect meaning selects (orthogonal). The article's functionalist engagement runs through the hard problem, not directional regularity, so the move is not load-bearing there. Forcing a link would misfit.
+- **Calibration**: preserved throughout — the anchored move is a deflation-BLOCKER, never a tier-upgrade; "compatible-with not establishes" framing honoured ([[evidential-status-discipline]]).
+- **Length**: all three edited files remain in soft_warning, none over hard ceiling (topics 3309/4000; mc-downward 3425/3500; causal-closure 3319/3500). Length-neutral as scoped.
+- **Validation**: all three ✓ Valid; sync exit 0; both deep-links resolve to `#route-versus-direction`.
+- **Published**: yes
+
 ## 2026-06-14T01:32:04+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/cross-domain-void-comparison]]

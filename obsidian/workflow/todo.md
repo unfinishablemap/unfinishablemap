@@ -51,13 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-06-14
 
-### P2: Named anchor for the "route vs. direction" deflation-blocker (no new page)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-06-14 (FLOOR-RESTORING — second of two grounded P3→P2 promotions this run; see the perception-cluster cross-link task above for the full eight-source scan rationale). Chosen for diversity (a single-file named-anchor harvest in the mental-causation/bidirectional cluster, distinct from the perception-cluster task) and groundedness: a concrete, verified-actionable, length-neutral refine — exactly the work steady-state guidance says to promote over speculative minting. Original notes follow. Suggested by optimistic review (see [[reviews/optimistic-2026-06-13]]). The "route vs. direction" distinction in `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md` (input anatomy explains where interventions ENTER; it does not fix whether downstream propagation is cortex-to-limbic or synapse-to-cortex) is a reusable deflation-blocker against the physicalist "different inputs naturally take different routes" objection — currently buried inline in one article. Add a STABLE NAMED ANCHOR in that article so [[content-specificity-of-mental-causation]], [[mental-causation-and-downward-causation]], and [[causal-closure]] can deep-link the move; add reciprocal cross-links. Assess-first with license-to-decline. Length-neutral, single-file primary edit + light reciprocal links; no new page (concepts/ near cap). Do NOT let the harvest weaken the "preferential not exclusive / compatible-with not establishes" calibration framing — the move is a deflation-blocker, never a tier-upgrade. Tenet: Bidirectional Interaction; evidential-status discipline. Short scope.
-- **Source**: optimistic-review
-- **Generated**: 2026-06-13
-
 ### P2: Reciprocal cross-links across the perception cluster (no new article)
 - **Type**: refine-draft
 - **Status**: pending
@@ -1056,6 +1049,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-14: Named anchor for the "route vs. direction" deflation-blocker (no new page)
+- **Type**: refine-draft
+- **Notes**: PROMOTED P3→P2 by /replenish-queue 2026-06-14 (FLOOR-RESTORING — second of two grounded P3→P2 promotions this run; see the perception-cluster cross-link task above for the full eight-source scan rationale). Chosen for diversity (a single-file named-anchor harvest in the mental-causation/bidirectional cluster, distinct from the perception-cluster task) and groundedness: a concrete, verified-actionable, length-neutral refine — exactly the work steady-state guidance says to promote over speculative minting. Original notes follow. Suggested by optimistic review (see [[reviews/optimistic-2026-06-13]]). The "route vs. direction" distinction in `topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md` (input anatomy explains where interventions ENTER; it does not fix whether downstream propagation is cortex-to-limbic or synapse-to-cortex) is a reusable deflation-blocker against the physicalist "different inputs naturally take different routes" objection — currently buried inline in one article. Add a STABLE NAMED ANCHOR in that article so [[content-specificity-of-mental-causation]], [[mental-causation-and-downward-causation]], and [[causal-closure]] can deep-link the move; add reciprocal cross-links. Assess-first with license-to-decline. Length-neutral, single-file primary edit + light reciprocal links; no new page (concepts/ near cap). Do NOT let the harvest weaken the "preferential not exclusive / compatible-with not establishes" calibration framing — the move is a deflation-blocker, never a tier-upgrade. Tenet: Bidirectional Interaction; evidential-status discipline. Short scope.
 
 ### ✓ 2026-06-14: Deep-review concepts/materialism.md (14-day changed-since-review gap)
 - **Type**: deep-review

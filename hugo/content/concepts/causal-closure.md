@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-04 16:01:44+00:00
+ai_modified: 2026-06-14 02:16:21+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -213,7 +213,7 @@ Unlike "god of the gaps" reasoning, the gap here is one physics *describes*—be
 - [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/) — How causal closure evolved from a physics claim into a metaphysical axiom
 - [physical-completeness](/concepts/physical-completeness/) — The structural-ontological gap: why structural completeness does not entail ontological completeness, reframing the closure equivocation
 - [reductionism](/concepts/reductionism/) — Ontological vs methodological vs epistemic reduction; why conflating them supports closure illicitly
-- [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) — Clinical neuroplasticity evidence challenging causal closure through pathway divergence
+- [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) — Clinical neuroplasticity evidence challenging causal closure through pathway divergence; see [the route-versus-direction distinction](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/#route-versus-direction) for why input anatomy alone does not deflate the directional regularity (a defeater-blocker, not positive evidence)
 - [Mental Causation and Downward Causation](/concepts/mental-causation-and-downward-causation/) — How mental states cause physical effects at quantum indeterminacies
 - [emergence](/concepts/emergence/) — The emergentist response to causal closure
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The position that mental causation enables

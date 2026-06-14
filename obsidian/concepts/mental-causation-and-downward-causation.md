@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-05-05
 human_modified: null
-ai_modified: 2026-06-03T00:00:00+00:00
+ai_modified: 2026-06-14T02:16:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,7 +50,7 @@ related_articles:
   - "[[consciousness-as-activity]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-03-30
 last_curated: null
 last_deep_review: 2026-06-02T12:00:00+00:00
@@ -161,7 +161,7 @@ If consciousness causes physical effects, why only in *this* brain? The [[pairin
 
 ## Empirical Evidence: Clinical Neuroplasticity
 
-The philosophical arguments gain some empirical traction from [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity research]], though the evidence is weaker than sometimes claimed and admits materialist reinterpretation. Schwartz's OCD programme showed that cognitive-behavioural intervention without medication normalises caudate nucleus metabolism on PET imaging (Schwartz et al., 1996)—but the study had only 18 participants (9 new), has not been independently replicated, and lacks a head-to-head comparison with exposure-response prevention therapy sharing its core behavioural elements. The materialist reading (changed behaviour alters neural activation through Hebbian learning) fits the same data, so the imaging results are compatible with both interpretations. Meta-analyses do show CBT and pharmacotherapy producing comparable outcomes through *different neural pathways*—CBT top-down from cortex, pharmacotherapy bottom-up from synapse—which a pure redescription view struggles to predict, though the physicalist can reply that different physical inputs naturally take different physical routes.
+The philosophical arguments gain some empirical traction from [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity research]], though the evidence is weaker than sometimes claimed and admits materialist reinterpretation. Schwartz's OCD programme showed that cognitive-behavioural intervention without medication normalises caudate nucleus metabolism on PET imaging (Schwartz et al., 1996)—but the study had only 18 participants (9 new), has not been independently replicated, and lacks a head-to-head comparison with exposure-response prevention therapy sharing its core behavioural elements. The materialist reading (changed behaviour alters neural activation through Hebbian learning) fits the same data, so the imaging results are compatible with both interpretations. Meta-analyses do show CBT and pharmacotherapy producing comparable outcomes through *different neural pathways*—CBT top-down from cortex, pharmacotherapy bottom-up from synapse—which a pure redescription view struggles to predict, though the physicalist can reply that different physical inputs naturally take different physical routes. That reply does not by itself settle the matter: input anatomy fixes where each intervention *enters* the nervous system, not the *direction* of downstream propagation (see [[clinical-neuroplasticity-evidence-for-bidirectional-causation#Route versus Direction|the route-versus-direction distinction]]). The distinction neutralises the input-modality deflation without thereby adding positive evidence for mental causation—the pathway data remain compatible with both readings.
 
 Placebo effects reinforce the point: beliefs with propositional content recruit specific neurochemical systems, different beliefs producing different neural signatures. This [[content-specificity-of-mental-causation|content-specificity]]—meaning determining which physical effect occurs—is hard to accommodate if mental descriptions lack genuine efficacy. Either way, the philosophical case for downward causation stands on the arguments above independently of clinical evidence quality.
 
