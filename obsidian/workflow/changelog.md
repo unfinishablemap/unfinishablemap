@@ -5,6 +5,17 @@ ai_modified: 2026-06-14T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-14T09:07:26+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/qm-interpretations-beyond-many-worlds]]
+- **Source**: outer review 2026-06-14 (Gemini 2.5 Pro), Weakness #4 — the one genuine finding in the review (the other four headline weaknesses rest on fabricated/overstated target quotes per the review's Verification Notes; not actioned)
+- **Word count**: 3994 → 3997 (net-neutral; addition offset by trims to honour the 8w topics-ceiling headroom)
+- **Changes**: Installed the Kent (2021) equal-measure objection to Φ-modulated CSL at the Φ-modulation paragraph (line ~104). A scalar Φ leaves no gradient between distinct experiences of equal measure (red vs green, each Φ=k), so their superposition persists macroscopically — reviving the measurement problem the model was meant to solve. Map's honest response added: registered as an open problem for the modulation variant; escaping it requires richer multi-dimensional "Q-shape" measures at a complexity cost. Added Kent (2021) reference #26.
+- **Web-verification**: Kent, A. (2021). Collapse and Measures of Consciousness. *Foundations of Physics*, 51, 62. DOI 10.1007/s10701-021-00467-4. VERIFIED real via arXiv journal-ref (2009.13224), Cambridge repository, PhilPapers, Semantic Scholar. The review/task wrote "51(2):62"; publisher uses article-number form (vol 51, art. 62) — used the canonical article-number form.
+- **Offsetting trims** (to keep net-neutral against the 4000w topics hard ceiling): tightened redundant restatements in the RQM framework-boundary paragraph, the "Reading the table" evidential-status paragraph, the "probability advantage of collapse" paragraph (deferred Deutsch-Wallace/Saunders/Sebens-Carroll derivation detail to the dedicated MWI paragraph + linked article), the MWI-reservation paragraph (cut duplicate boundary-disagreement restatement), Penrose/epiphenomenalism paragraphs (merged overlapping claims), the decoherence and TI caveat paragraphs, and minor Copenhagen/Bohmian/QBism wording. No argument weakened; all hedges and the leaves-room-≠-supports evidential discipline preserved.
+- **Discipline checks**: evidential-status honoured (objection framed as a real cost, not overstated; "open problem"); existing speculative hedges and "modulates not causes" preserved; no "This is not X. It is Y." cliché; Tenet 2 (Minimal Quantum Interaction) / Tenet 1 (Dualism) alignment intact.
+- **Published**: yes
+
 ## 2026-06-14T08:46:52+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/possibility-probability-slippage]]
