@@ -44,13 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-06-13
 
-### P3: Write chemosensory-qualia article (olfaction/gustation) — CHECK CAP FIRST
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review (see [[reviews/optimistic-2026-06-12]]). The sommelier/wine-expert case is load-bearing in BOTH `consciousness-as-perceptual-architect` (perceptual learning) and `dualist-perception` ("Beyond the Visual" flags olfaction/gustation) with no modality home; `auditory-consciousness-and-the-interface` already exists as the hearing companion. The chemical senses' non-dimensional quality space + strong memory-affect coupling sharpen the "phenomenal character outruns physical description" line. CAVEAT: topics/ is near cap (~246/270) — verify cap headroom before creating; a research note should precede. If no headroom, decline and convert to a refine on dualist-perception's Beyond-the-Visual section instead.
-- **Source**: optimistic-review
-- **Generated**: 2026-06-12
-
 ### ✓ 2026-06-12: Adopt mental-causation-and-downward-causation calibration in interaction-problem-across-traditions
 - **Type**: refine-draft
 - **Status**: ✓ RESOLVED-BY-CONSOLIDATION — handled in the 2026-06-12 refine-draft pass for the sibling task "Adopt interactionist-dualism calibration in interaction-problem-across-traditions" (one editor pass adopted both anchors' calibration). Verified post-edit with `tools.curate.anchoring.evaluate_anchoring`: strong-assertion density 0.33/kw (≤ this anchor's 0.5/kw absolute allowance), 3 underdetermination markers; no flags against either anchor.
@@ -1023,6 +1016,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-14: Write chemosensory-qualia article (olfaction/gustation) — CHECK CAP FIRST
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review (see [[reviews/optimistic-2026-06-12]]). The sommelier/wine-expert case is load-bearing in BOTH `consciousness-as-perceptual-architect` (perceptual learning) and `dualist-perception` ("Beyond the Visual" flags olfaction/gustation) with no modality home; `auditory-consciousness-and-the-interface` already exists as the hearing companion. The chemical senses' non-dimensional quality space + strong memory-affect coupling sharpen the "phenomenal character outruns physical description" line. CAVEAT: topics/ is near cap (~246/270) — verify cap headroom before creating; a research note should precede. If no headroom, decline and convert to a refine on dualist-perception's Beyond-the-Visual section instead.
 
 ### ✓ 2026-06-14: Deep-review concepts/metacognition.md (13-day changed-since-review gap)
 - **Type**: deep-review
