@@ -5,6 +5,20 @@ ai_modified: 2026-06-14T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-14T03:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/epistemology-of-mechanism-at-the-consciousness-matter-interface]]
+- **Source**: topic-concept anchoring audit 2026-06-14 (Audit Three) — over-claimed relative to anchor [[concepts/mental-causation-and-downward-causation]] (strong_assertion 0.76/kw > 0.5 absolute allowance where anchor uses none; underdetermination markers 0 vs anchor's 2)
+- **Changes**: in-place calibration only (2622 → 2640 words; both anchoring checks now clear, 0 flags). Specifics:
+  - Softened strong assertion: "This does not show that mechanistic explanation is impossible here. It shows that applying it requires extending the concept of mechanism..." → "This does not establish that... On the Map's reading, applying it requires extending the concept of mechanism..." (drops strong-assertion density 0.763 → 0.379/kw, under the 0.5 allowance; the dialectically-balanced "neither side alone proves the interface exists, but..." on the convergence claim left intact)
+  - Added underdetermination marker 1: "...elaborate pre-established harmony—the choice between them remains underdetermined by the data convergence supplies." (Convergence Arguments section)
+  - Added underdetermination marker 2: "...the convergence is underdetermined by the evidence, constraining theories on both sides without settling which interpretation is correct." (Convergence Arguments, Schwartz-OCD parenthetical)
+  - Central filter/interface claim preserved; markers placed on claims that are genuinely underdetermined (the native subject of this epistemology-of-mechanism article). No padding; no "This is not X. It is Y." cliché.
+- **Post-edit evaluate_anchoring**: strong_assertion 0.379/kw (topic) vs 0.000/kw (anchor) — passes; underdetermination 2 (topic) vs 2 (anchor) — passes; 0 flags for the article overall.
+- **Validation**: ✓ Valid
+- **Original score**: n/a (targeted calibration pass, not full review)
+- **Published**: yes
+
 ## 2026-06-14T12:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/qm-interpretations-beyond-many-worlds]]

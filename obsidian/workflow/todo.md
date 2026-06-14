@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt mental-causation-and-downward-causation calibration in epistemology-of-mechanism-at-the-consciousness-matter-interface
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface.md
-- **Notes**: From topic-concept anchoring audit 2026-06-14. The topic article over-claims relative to its anchor concept [[mental-causation-and-downward-causation]]; failed checks: strong_assertions, underdetermination_markers.
-  - topic uses 2 strong-assertion verbs (0.76/kw) where anchor uses none; absolute allowance is 0.5/kw
-  - anchor declares underdetermination (2× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-14
-
 ### P2: Acknowledge Kent (2021) equal-Φ-superposition objection in qm-interpretations-beyond-many-worlds Φ-modulated-collapse passage
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-06-14 (Gemini 2.5 Pro), Weakness #4 — the ONE genuine high-value finding in this review (the other four headline weaknesses rest on fabricated or overstated target quotes — see the review's Verification Notes; do NOT act on Weaknesses #1/#2/#3/#5 as stated). VERIFIED real omission against the live article. The article advances Φ-modulated CSL at line 104 (citing Kremnizer-Ranchin 2015, Okon-Sebastián 2020, Chalmers-McQueen 2022 — differences in integrated information Φ between superposed conscious states set collapse rates). It does NOT cite **Kent, A. (2021), "Collapse and Measures of Consciousness," Foundations of Physics 51(2):62**, a directly on-point in-literature objection: if a scalar consciousness measure (Φ) drives collapse, distinct experiential states of EQUAL measure (e.g. seeing-red vs seeing-green, both Φ=k) leave the collapse operator no gradient, permitting persistent macroscopic superpositions — reviving the very measurement problem the model was meant to solve. ACTION: WEB-VERIFY the Kent 2021 cite (publisher-of-record metadata — apply [[ai-citation-metadata-unreliable]] to this reviewer-supplied cite; Gemini fabricates cites too) BEFORE inserting; then add a one-to-two-sentence acknowledgement at line ~104–108 that the Φ-collapse coupling faces this equal-measure objection, with the Map's honest response (e.g. that escaping it requires richer multi-dimensional "Q-shape" measures at a complexity cost, or marking it as an open problem for the modulation variant). Do NOT overstate the article's claim the way the reviewer does — the article already says consciousness "modulates" not "causes" collapse and carries speculative hedges; preserve them. Coordinate with the existing consolidated P2 recalibration task above (same file — [[outer-review-same-file-task-pileup]]); if that pass runs first, it can absorb this. RESPECT the topics 4000-word hard ceiling (prefer tightening elsewhere to net growth); honour [[evidential-status-discipline]] and writing-style (no "This is not X. It is Y." cliché). Tenet: Tenet 2 (Minimal Quantum Interaction), Tenet 1 (Dualism). **UPDATE 2026-06-14**: the consolidated recalibration ran (commit 6f1c8358) WITHOUT absorbing Kent; article now **3992/4000 (8w headroom)** — so this addition is NOT "prefer tightening", it is MANDATORY net-neutral-or-NEGATIVE: trim ≥ what you add, or fold the equal-measure objection INTO an existing sentence at line ~104. A bare addition WILL bust the hard ceiling. A condense pass on this article is a reasonable precursor — see [[outer-review-same-file-task-pileup]].
@@ -1060,6 +1049,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-14: Adopt mental-causation-and-downward-causation calibration in epistemology-of-mechanism-at-the-consciousness-matter-interface
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-14. The topic article over-claims relative to its anchor concept [[mental-causation-and-downward-causation]]; failed checks: strong_assertions, underdetermination_markers.
 
 ### ✓ 2026-06-14: Adopt many-worlds calibration in qm-interpretations-beyond-many-worlds
 - **Type**: refine-draft
