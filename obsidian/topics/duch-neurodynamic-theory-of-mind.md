@@ -4,7 +4,7 @@ description: "Włodzisław Duch frames mind as a shadow of neurodynamics — a g
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-06-02T19:17:26+00:00
+ai_modified: 2026-06-14T17:32:06+00:00
 draft: false
 topics:
   - "[[machine-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-11
 last_curated:
-last_deep_review: 2026-06-02T17:30:00+00:00
+last_deep_review: 2026-06-14T17:32:06+00:00
 ---
 
 Włodzisław Duch's research programme treats mind as a "shadow of neurodynamics" — the expressed, lower-dimensional approximation of attractor dynamics in neural cell assemblies. Over three decades at Nicolaus Copernicus University in Toruń, Duch has built a geometric model in which mental representations are quasi-stable attractor states located in a feature-coordinate "psychological space", concepts are basins of attraction, and cognition is trajectory through this space. The framework is rigorously naturalist, computationalist, and explicitly hostile to both substance dualism and quantum-mind theories.
