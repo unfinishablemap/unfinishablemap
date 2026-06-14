@@ -45,19 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-06-13
 
-### P3: Write chemosensory-qualia article (olfaction/gustation) — CHECK CAP FIRST
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review (see [optimistic-2026-06-12](/reviews/optimistic-2026-06-12/)). The sommelier/wine-expert case is load-bearing in BOTH `consciousness-as-perceptual-architect` (perceptual learning) and `dualist-perception` ("Beyond the Visual" flags olfaction/gustation) with no modality home; `auditory-consciousness-and-the-interface` already exists as the hearing companion. The chemical senses' non-dimensional quality space + strong memory-affect coupling sharpen the "phenomenal character outruns physical description" line. CAVEAT: topics/ is near cap (~246/270) — verify cap headroom before creating; a research note should precede. If no headroom, decline and convert to a refine on dualist-perception's Beyond-the-Visual section instead.
-- **Source**: optimistic-review
-- **Generated**: 2026-06-12
-
-### P2: Deep-review concepts/metacognition.md (13-day changed-since-review gap)
-- **Type**: deep-review
-- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-05 > last_deep_review 2026-05-29, post-review edit 7d, gap 13d). Length safe (3408 body words, soft_warning — under the 3500 concepts hard threshold, NOT a condense candidate). Core concept (the introspection/metacognition reliability question is load-bearing for the Map's introspection-architecture-independence line). Review: verify the post-review edit, audit citation currency, confirm metacognition reliability claims stay hedged per [evidential-status-discipline](/project/evidential-status-discipline/). Diversity pick (a concept, distinct from the ai-consciousness topic above); settled, not same-cycle churn.
-- **Source**: staleness
-- **Generated**: 2026-06-12
-
 ### ✓ 2026-06-12: Adopt mental-causation-and-downward-causation calibration in interaction-problem-across-traditions
 - **Type**: refine-draft
 - **Status**: ✓ RESOLVED-BY-CONSOLIDATION — handled in the 2026-06-12 refine-draft pass for the sibling task "Adopt interactionist-dualism calibration in interaction-problem-across-traditions" (one editor pass adopted both anchors' calibration). Verified post-edit with `tools.curate.anchoring.evaluate_anchoring`: strong-assertion density 0.33/kw (≤ this anchor's 0.5/kw absolute allowance), 3 underdetermination markers; no flags against either anchor.
@@ -1030,6 +1017,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-14: Write chemosensory-qualia article (olfaction/gustation) — CHECK CAP FIRST
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review (see [optimistic-2026-06-12](/reviews/optimistic-2026-06-12/)). The sommelier/wine-expert case is load-bearing in BOTH `consciousness-as-perceptual-architect` (perceptual learning) and `dualist-perception` ("Beyond the Visual" flags olfaction/gustation) with no modality home; `auditory-consciousness-and-the-interface` already exists as the hearing companion. The chemical senses' non-dimensional quality space + strong memory-affect coupling sharpen the "phenomenal character outruns physical description" line. CAVEAT: topics/ is near cap (~246/270) — verify cap headroom before creating; a research note should precede. If no headroom, decline and convert to a refine on dualist-perception's Beyond-the-Visual section instead.
+
+### ✓ 2026-06-14: Deep-review concepts/metacognition.md (13-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-05 > last_deep_review 2026-05-29, post-review edit 7d, gap 13d). Length safe (3408 body words, soft_warning — under the 3500 concepts hard threshold, NOT a condense candidate). Core concept (the introspection/metacognition reliability question is load-bearing for the Map's introspection-architecture-independence line). Review: verify the post-review edit, audit citation currency, confirm metacognition reliability claims stay hedged per [evidential-status-discipline](/project/evidential-status-discipline/). Diversity pick (a concept, distinct from the ai-consciousness topic above); settled, not same-cycle churn.
 
 ### ✓ 2026-06-14: Deep-review topics/ai-consciousness.md (10-day changed-since-review gap)
 - **Type**: deep-review

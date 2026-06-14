@@ -1,13 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-14 13:32:51+00:00
+ai_modified: 2026-06-14 17:32:06+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-14'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-14T17:32:06+00:00 - deep-review
+- **Status**: Success (honest no-op — converged article)
+- **File**: [duch-neurodynamic-theory-of-mind](/topics/duch-neurodynamic-theory-of-mind/)
+- **Word count**: 2510 → 2510 (no edits; 84% of 3000 topics/ soft threshold, prose-only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (4th deep review + 2 cross-reviews; heavily convergence-damped, score 15)
+- **Delta analysis**: full last_deep_review (bf8e27b65, 06-02) → HEAD diff is ONE commit (4372b5b01) adding a single evidential-status calibration sentence to the final paragraph — substantive register but sanctioned by the 06-02 stability notes; no defect.
+- **Verification**: added sentence passes evidential-status discipline (uses "underdetermined by the evidence", no possibility/probability slippage), no "This is not X. It is Y." cliché, no editor-vocabulary leakage (grep clean). Citation web-verify NOT re-run — added content bears zero cites; References block unchanged since 06-02 publisher-of-record pass (all 10 verified, Wiest single-author + Claude-blog de-quote already fixed).
+- **Disposition**: no content edits; advanced last_deep_review + ai_modified to 2026-06-14T17:32:06+00:00 so the staleness scorer stops re-qualifying on the cosmetic delta.
+- **Output**: [deep-review-2026-06-14-duch-neurodynamic-theory-of-mind](/reviews/deep-review-2026-06-14-duch-neurodynamic-theory-of-mind/)
+
+## 2026-06-14T16:34:41+00:00 - deep-review
+- **Status**: Success
+- **File**: [metacognition](/concepts/metacognition/)
+- **Word count**: 3408 → 3411 (+3; metadata-only citation fix, length-neutral — 89w under the 3500 concepts hard ceiling)
+- **Critical issues addressed**: 1 (Templer reference real-paper-wrong-metadata: solo-2019 not Templer-&-Hampton-2021, pages 273-277 not 273-287, full title restored; body ~80-Myr claim faithful — fixed in place, NOT de-cited)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (7th review; philosophically converged, citation-accuracy pass only)
+- **Citation web-verify** (publisher-of-record ledger):
+  - Gruber et al. 2015 (*Front. Psychol.* 6:91) — **real-correct; re-attribution from "Whiten 2015" confirmed a FIX not a regression**; the Jourdain Hypothesis (Molière's Monsieur Jourdain) is genuinely Gruber et al.'s coinage from this paper.
+  - Rebouillat et al. 2021 (*Neurosci. Consciousness* 2021(1) niab004, PMID 33747547) — **real-correct**; confidence-accuracy inversion claim faithful.
+  - Birch 2024 (*The Edge of Sentience*, OUP) — **real-correct**; gaming-problem attribution faithful.
+  - Templer 2019 (*Anim. Behav. Cogn.* 6(4):273-277, PMID 34056076) — **real-wrong-metadata, corrected** (see critical above).
+- **Propagation**: same Templer-2021 defect fixed in research root [metacognition-consciousness-2026-01-18](/research/metacognition-consciousness-2026-01-18/) (heading + References).
+- **Calibration**: anti-correlated-metacognitive-signal / Rebouillat inversion stays regime-conditional (not introspection-globally-unreliable); no possibility/probability slippage.
+- **Output**: [deep-review-2026-06-14-metacognition](/reviews/deep-review-2026-06-14-metacognition/)
 
 ## 2026-06-14T15:18:29+00:00 - deep-review
 - **Status**: Success
