@@ -436,3 +436,31 @@
   subject_articles:
   - topics/affective-tone-divergence-across-meditative-traditions.md
   subject_source: reuse:pending-reviews:outer-review-2026-06-13-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a2e0be5-be04-832d-8c51-718cfe3c0f35
+  commissioned_at: '2026-06-14T02:03:40.083023+00:00'
+  prompt_summary: Audit qm-interpretations-beyond-many-worlds
+  target_filename: outer-review-2026-06-14-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Please conduct a rigorous outer review of one article on The Unfinishable\
+    \ Map (https://unfinishablemap.org), a dualist philosophy-of-mind project. Audit\
+    \ this article: https://unfinishablemap.org/topics/qm-interpretations-beyond-many-worlds/\
+    \ \u2014 last substantively revised on 2026-06-07, so search engines have had\
+    \ time to re-index it. Assess its claims about quantum-mechanics interpretations\
+    \ and their bearing on the project'''s \"no many worlds\" commitment. Check for:\
+    \ insufficient or overstated evidence, missed counterarguments (especially decision-theoretic\
+    \ and self-locating-uncertainty defenses of Everettian QM), tenet-protective bracketing\
+    \ that shields conclusions from scrutiny, mischaracterized interpretations (Bohmian,\
+    \ GRW/objective-collapse, relational, QBism), and stale or inaccurate citations\
+    \ against the live 2020s physics and philosophy-of-physics literature. Also evaluate\
+    \ its integration with surrounding articles. The site changelog is at https://unfinishablemap.org/workflow/changelog/.\
+    \ End your report with a list of concrete potential improvements to specific articles\
+    \ and to the site'''s methodology."
+  subject_type: recent
+  subject_title: Audit qm-interpretations-beyond-many-worlds
+  subject_articles:
+  - topics/qm-interpretations-beyond-many-worlds.md
+  subject_source: fallback:recent-aged
