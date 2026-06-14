@@ -1,5 +1,9 @@
-last_updated: '2026-06-14T12:33:57.448841+00:00'
-session_count: 11028
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-14T12:46:53.714704+00:00'
+session_count: 11029
 cycle_position: 9061
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-06-14T02:32:52.470986+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-13T18:02:20.797184+00:00'
-  agentic-social: '2026-06-14T12:46:35.366802+00:00'
+  agentic-social: '2026-06-14T12:46:53.714704+00:00'
   embed-videos: '2026-06-14T07:01:15.561396+00:00'
   commission-chatgpt-review: '2026-06-14T02:04:12.431322+00:00'
   commission-claude-review: '2026-06-14T03:03:19.686229+00:00'
@@ -90,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-14'
-  outcome: success
 - task: add-highlight
   type: add-highlight
   date: '2026-06-14'
@@ -168,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-14'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-06-14'
   outcome: success
 agentic_social:
@@ -1032,45 +1036,42 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 7
-  p3_tasks: 2
+  p2_tasks: 4
+  p3_tasks: 1
   needs_replenishment: false
-  last_replenishment: '2026-06-14T09:15:00+00:00'
-  last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-14T09:15:00+00:00 run (standard mode) - minted
-    5 NEW genuine-changed-since-review staleness deep-review tasks at the TOP of Active
-    Tasks (LIFO-defeat) to restore the loop-pickable P0-P2 floor with a working buffer.
-    On entry loop-pickable open P0-P2 was 2 (the two 2026-06-12 staleness deep-reviews:
-    topics/ai-consciousness ldr 2026-06-02 < ai_mod 2026-06-09; concepts/metacognition
-    ldr 2026-05-29 < ai_mod 2026-06-05 - both re-verified pending on disk), below
-    the MIN_QUEUE floor of 3. The 2 open P3s do not count toward the floor; the two
-    veto-tagged P2 condense tasks (meaning-of-life 4160w; phenomenal-output 6989w)
-    are human-gated, not loop-pickable. All eight sources re-verified on disk. CHAINS
-    (S1) 0 - recent_tasks 14d window holds no research-topic/expand-topic completion
-    needing a successor (last research-topic 2026-06-03 berridge, already consumed
-    by topics/wanting-liking-and-the-value-in-mechanism-fork; last expand-topic 2026-06-09).
-    UNCONSUMED RESEARCH (S2) 0 - the recent research notes are all consumed (berridge
-    to wanting-liking fork; pci-phi to recovery-order-asymmetry; non-western-physicalist
-    to concession-convergence per its own frontmatter; remaining backlog is voids-*
-    slugs against an OVER-cap voids section 101/100). GAPS (S3) 0 - corpus saturated
-    (topics 267/270, concepts 262/270 near cap; voids over cap). ORPHANS (S5) 0 (quality.orphaned_files
-    0). LENGTH (S6) 0 NEW - every published hard/critical offender is a research note,
-    veto-tagged, or a human-gated/DIVERTED calibration flagship (epistemology-of-convergence,
-    clinical-dissociation, born-rule, laws-and-dispositions, valence, time-collapse-and-agency,
-    composition, edge-states-and-void-probes); re-condensing them is churn per unfin-loop-steady-state.
-    POSITIONS add (S7a) 0; update (S7b) 0; audit NOT due (last 2026-06-09, 30d window
-    open, register at 18 entries / 4 domains). APPLIED-APEX (S8) 0. STALENESS (S4)
-    5 minted: a strict scan (ai_contribution>=50, ai_modified > last_deep_review by
-    over 24h, settled at least 5d, ai_modified not today, gap >=7d, length under hard
-    threshold) yielded the genuine post-review-edit set; picked for section/cluster
-    diversity - voids/emergence-void (gap 18d, 1981w ok); concepts/prospective-memory
-    (gap 15d, 2899w); concepts/panpsychism (gap 13d, 3270w, Tenet 1 load-bearing rival);
-    concepts/buddhism-and-dualism (gap 13d, 2523w, cross-tradition); topics/surprise-prediction-error-and-consciousness
-    (gap 13d, 3661w, predictive-processing). Excluded already-queued (metacognition,
-    filter-theory has an open Gemini-outer-review task), human-gated flagships (duhem-quine),
-    and same-session-churn edits (measurement-problem ai_modified 2 min after review).
-    No expand-topic against near/over-cap sections; no condense churn; no human-gated
-    task minted. After: loop-pickable open P0-P2 = 7, above the floor of 3 with buffer.'
+  last_replenishment: '2026-06-14T12:50:00+00:00'
+  last_replenishment_mode: conservative
+  current_replenishment_note: '2026-06-14T12:50:00+00:00 run (conservative mode) -
+    PROMOTED 2 grounded review-flagged P3 refine tasks to P2 (evolution-taxonomy reciprocal
+    cross-links; cross-species-proxy-tests one-directional-link fix) to restore the
+    loop-pickable P0-P2 floor; NO new task minted. ORCHESTRATOR STEER HONORED: the
+    prior 09:15 batch minted 5 changed-since-review staleness deep-reviews that ALL
+    came back as converged no-ops (cosmetic-churn delta - embed-videos / coalesce link-repoints
+    / citation-year sweeps / reciprocal cross-links - not substantive content), so
+    this run AVOIDED re-minting that pattern. On entry loop-pickable open P0-P2 was
+    2 (the two 2026-06-12 staleness deep-reviews: topics/ai-consciousness ldr 2026-06-02
+    < ai_mod 2026-06-13; concepts/metacognition ldr 2026-05-29 < ai_mod 2026-06-05),
+    below the MIN_QUEUE floor of 3. GIT-CHECK of those two: NOT cosmetic - both carry
+    genuine un-reviewed content (ai-consciousness added an apex-four-senses verdict-scoping
+    sentence + gaming-problem evidential-decoupling; metacognition added a Whiten-2015
+    to-Gruber-2015 citation re-attribution + gaming-problem sentence), so they are
+    legitimately pending and KEPT, not re-minted. All eight sources re-verified on
+    disk. CHAINS (S1) 0 - 14d window holds no research-topic (last 2026-06-03, consumed)
+    or expand-topic (last 2026-06-09) completion needing a successor. UNCONSUMED RESEARCH
+    (S2) 0 - newest research notes are voids-* slugs against the OVER-cap voids section
+    (101/100) or already-consumed (illusionism, dreams). GAPS (S3) 0 - corpus saturated
+    (topics 267/270, concepts 262/270 near cap; voids over cap). STALENESS (S4) 0 NEW
+    - no genuinely-substantive changed-since-review candidate beyond the two already-queued;
+    declined to mint cosmetic-churn no-ops per the orchestrator steer (honest no-op
+    over converged-no-op reviews). ORPHANS (S5) 0 new (quality.orphaned_files 0) - but
+    the two promoted P3s ARE concrete verified one-directional-link / missing-inbound-link
+    fixes (grep-confirmed 0 inbound on disk 2026-06-14), the honest grounded alternative.
+    LENGTH (S6) 0 NEW - every hard/critical offender is a research note, #veto, human-gated/DIVERTED
+    calibration flagship, or marginal-void churn (what-voids-reveal 3019w / wholeheartedness-void
+    3006w, ~6-20w over hard - not worth a condense). POSITIONS add (S7a) 0; update (S7b)
+    0; audit NOT due (last 2026-06-09, 30d window open, 18 entries / 4 domains). APPLIED-APEX
+    (S8) 0. No expand-topic against near/over-cap sections; no condense churn; no human-gated
+    task minted. After: loop-pickable open P0-P2 = 4, above the floor of 3 with buffer.'
   superseded_replenishment_note_0130: '2026-06-14T01:30:00+00:00 run (conservative
     mode) - PROMOTED 2 grounded review-flagged P3 refine tasks to P2 (perception-cluster
     reciprocal cross-links + route-vs-direction named-anchor deflation-blocker) to
