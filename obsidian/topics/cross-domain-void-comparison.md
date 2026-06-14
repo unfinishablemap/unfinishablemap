@@ -4,8 +4,8 @@ description: "Physics and mathematics have their own hard limits. Comparing them
 created: 2026-06-04
 modified: 2026-06-04
 human_modified: null
-ai_modified: 2026-06-04T18:30:00+00:00
-last_deep_review: 2026-06-04T12:00:00+00:00
+ai_modified: 2026-06-14T01:32:04+00:00
+last_deep_review: 2026-06-14T01:32:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

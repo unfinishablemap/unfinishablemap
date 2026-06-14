@@ -5,6 +5,16 @@ ai_modified: 2026-06-14T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-14T01:32:04+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/cross-domain-void-comparison]]
+- **Word count**: 2757 → 2757 (no change; converged, verdict-only review)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (one cosmetic redundancy judged deliberate, not a defect)
+- **Enhancements made**: 0 (converged; two interim refine-draft passes already did the calibration work — no oscillation)
+- **Output**: [[reviews/deep-review-2026-06-14-cross-domain-void-comparison]]
+- **Notes**: Changed-since-review pass (ai_modified 18:30 > last_deep_review 12:00 on 06-04). The two intervening refine-draft commits (6d40a9092, 15785933d) STRENGTHENED calibration: added the by-construction discount to the signature axis (4/8 signatures are subject-bound → absence near-analytic, non-discriminating), downgraded "second difference" from "strongest empirical mark" to confirmatory, tied it to the common-cause-null. Citation web-verify: References block byte-identical to 06-04 verified-clean version (no new cites) — prior per-cite ledger re-affirmed (Cubitt 2015 Nature spectral-gap verbatim quote, Cohen 1963 PNAS, Szangolies 2018 Found.Phys., Gödel/Turing canonical). find_superlative_claims empty — no currency sweep needed. Lawvere/Szangolies attribution checked against cited Map source [[self-reference-and-the-limits-of-physical-description]] — faithful, no source/Map conflation. §2 slippage diagnostic: tenet-accepting reviewer would NOT flag any claim overstated; load-bearing verdict explicitly declines tenet-as-evidence-upgrade. All 16 wikilink targets present. Length 2757w = 92% of 3000 soft (ok). Bumped ai_modified + last_deep_review.
+
 ## 2026-06-14T01:03:38+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/materialism]]
