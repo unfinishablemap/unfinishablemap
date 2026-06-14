@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-14T14:03:28.690391+00:00'
-session_count: 11034
+last_updated: '2026-06-14T14:20:51.613747+00:00'
+session_count: 11035
 cycle_position: 9064
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-14T04:07:15.493292+00:00'
   refine-draft: '2026-06-14T14:03:28.690391+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-14T13:05:28.630760+00:00'
+  replenish-queue: '2026-06-14T14:20:51.613747+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-09T11:04:20.317410+00:00'
   add-highlight: '2026-06-14T08:02:35.076837+00:00'
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-14'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-14'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-06-14'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-14'
   outcome: success
 agentic_social:
@@ -1046,46 +1046,47 @@ queue_status:
     stays at 2 (the two genuinely-substantive standing deep-reviews: topics/ai-consciousness,
     ldr 2026-06-02 < ai_mod 2026-06-13; concepts/metacognition, ldr 2026-05-29 < ai_mod
     2026-06-14). Both GIT-VERIFIED this run to carry REAL un-reviewed content, not
-    cosmetic churn: ai-consciousness added (a) a Birch gaming-problem sentence to the
-    metarepresentation-threshold passage and (b) a four-senses verdict-scoping clause
-    qualifying the dualist obstacles ("not the flat AI-is-not-conscious"); metacognition
-    added (a) a Whiten-2015 to Gruber-et-al-2015 citation re-attribution (un-web-verified,
-    needs the deep-review), (b) a Birch gaming-problem sentence, (c) a Rebouillat-2021
-    reference entry. KEEP both. The two optimistic-review cross-link P3-promotions from
-    the 01:30 and 12:50 runs have now been EXECUTED (cross-species-proxy-tests, evolution-taxonomy),
-    so the floor correctly drained back to 2. ORCHESTRATOR STEER HONORED (3rd run today):
-    declined to mint cosmetic-churn staleness no-ops; honest under-mint at floor 2 is
-    preferred over converged-no-op reviews or fabricated grounded tasks. All eight sources
-    re-verified on disk: CHAINS (S1) 0 - last expand-topic 2026-06-09 (queue, already
-    integrated), no fresh research-topic (last 2026-06-03, consumed). UNCONSUMED RESEARCH
-    (S2) 0 - newest research notes are voids-* slugs (voids OVER cap 101/100) or consumed
-    (illusionism, dreams, terminal-lucidity). GAPS (S3) 0 - corpus saturated (topics
-    267/270, concepts 262/270 near cap; voids over cap). STALENESS (S4) 0 NEW - changed-since-review
-    scan returned 0 candidates with delta >= 1d beyond the two queued; declined cosmetic-churn
-    no-ops per steer. ORPHANS (S5) 0 (quality.orphaned_files 0; the one apparent orphan,
-    instrumental-convergence, is a NEVER-CREATED article: its 2026-06-04 expand-topic
-    commit eb7ea9900 touched only todo/state/queue-json, no .md - the fork declined the
-    create, so there is no orphan to integrate). LENGTH (S6) 0 NEW - every published
-    hard/critical offender is a research/* note, #veto (meaning-of-life, phenomenal-output),
-    human-gated/DIVERTED calibration flagship (epistemology-of-convergence, clinical-dissociation,
-    born-rule, laws-and-dispositions, edge-states-and-void-probes), the apex section
-    index, or a marginal over-cap void (what-voids-reveal 3019w, wholeheartedness-void
-    3006w, agency-void 3174w - ~6-180w over hard, not worth a condense); the remaining
-    4000-4600w topic/apex offenders (time-collapse-and-agency, argument-from-reason,
-    epistemic-advantages-of-dualism, machine-question, valence-and-conscious-selection,
-    composition, simple-organisms, phenomenal-authority, introspection-scoring) are all
-    recently deep-reviewed (within ~10d), under the critical ceiling (no urgency), and
-    ai_contribution=100 - auto-condensing risks calibration regression per the steer,
-    so NONE minted. POSITIONS add (S7a) 0; update (S7b) 0; audit NOT due (last 2026-06-09,
-    30d window open, 18 entries / 4 domains). APPLIED-APEX (S8) 0. After: loop-pickable
-    open P0-P2 = 2, accepted per the honest-under-mint steer.'
-  superseded_replenishment_note_1250: '2026-06-14T12:50:00+00:00 run (conservative mode) -
-    PROMOTED 2 grounded review-flagged P3 refine tasks to P2 (evolution-taxonomy reciprocal
-    cross-links; cross-species-proxy-tests one-directional-link fix) to restore the
-    loop-pickable P0-P2 floor; NO new task minted. ORCHESTRATOR STEER HONORED: the
-    prior 09:15 batch minted 5 changed-since-review staleness deep-reviews that ALL
-    came back as converged no-ops (cosmetic-churn delta - embed-videos / coalesce
-    link-repoints / citation-year sweeps / reciprocal cross-links - not substantive
+    cosmetic churn: ai-consciousness added (a) a Birch gaming-problem sentence to
+    the metarepresentation-threshold passage and (b) a four-senses verdict-scoping
+    clause qualifying the dualist obstacles ("not the flat AI-is-not-conscious");
+    metacognition added (a) a Whiten-2015 to Gruber-et-al-2015 citation re-attribution
+    (un-web-verified, needs the deep-review), (b) a Birch gaming-problem sentence,
+    (c) a Rebouillat-2021 reference entry. KEEP both. The two optimistic-review cross-link
+    P3-promotions from the 01:30 and 12:50 runs have now been EXECUTED (cross-species-proxy-tests,
+    evolution-taxonomy), so the floor correctly drained back to 2. ORCHESTRATOR STEER
+    HONORED (3rd run today): declined to mint cosmetic-churn staleness no-ops; honest
+    under-mint at floor 2 is preferred over converged-no-op reviews or fabricated
+    grounded tasks. All eight sources re-verified on disk: CHAINS (S1) 0 - last expand-topic
+    2026-06-09 (queue, already integrated), no fresh research-topic (last 2026-06-03,
+    consumed). UNCONSUMED RESEARCH (S2) 0 - newest research notes are voids-* slugs
+    (voids OVER cap 101/100) or consumed (illusionism, dreams, terminal-lucidity).
+    GAPS (S3) 0 - corpus saturated (topics 267/270, concepts 262/270 near cap; voids
+    over cap). STALENESS (S4) 0 NEW - changed-since-review scan returned 0 candidates
+    with delta >= 1d beyond the two queued; declined cosmetic-churn no-ops per steer.
+    ORPHANS (S5) 0 (quality.orphaned_files 0; the one apparent orphan, instrumental-convergence,
+    is a NEVER-CREATED article: its 2026-06-04 expand-topic commit eb7ea9900 touched
+    only todo/state/queue-json, no .md - the fork declined the create, so there is
+    no orphan to integrate). LENGTH (S6) 0 NEW - every published hard/critical offender
+    is a research/* note, #veto (meaning-of-life, phenomenal-output), human-gated/DIVERTED
+    calibration flagship (epistemology-of-convergence, clinical-dissociation, born-rule,
+    laws-and-dispositions, edge-states-and-void-probes), the apex section index, or
+    a marginal over-cap void (what-voids-reveal 3019w, wholeheartedness-void 3006w,
+    agency-void 3174w - ~6-180w over hard, not worth a condense); the remaining 4000-4600w
+    topic/apex offenders (time-collapse-and-agency, argument-from-reason, epistemic-advantages-of-dualism,
+    machine-question, valence-and-conscious-selection, composition, simple-organisms,
+    phenomenal-authority, introspection-scoring) are all recently deep-reviewed (within
+    ~10d), under the critical ceiling (no urgency), and ai_contribution=100 - auto-condensing
+    risks calibration regression per the steer, so NONE minted. POSITIONS add (S7a)
+    0; update (S7b) 0; audit NOT due (last 2026-06-09, 30d window open, 18 entries
+    / 4 domains). APPLIED-APEX (S8) 0. After: loop-pickable open P0-P2 = 2, accepted
+    per the honest-under-mint steer.'
+  superseded_replenishment_note_1250: '2026-06-14T12:50:00+00:00 run (conservative
+    mode) - PROMOTED 2 grounded review-flagged P3 refine tasks to P2 (evolution-taxonomy
+    reciprocal cross-links; cross-species-proxy-tests one-directional-link fix) to
+    restore the loop-pickable P0-P2 floor; NO new task minted. ORCHESTRATOR STEER
+    HONORED: the prior 09:15 batch minted 5 changed-since-review staleness deep-reviews
+    that ALL came back as converged no-ops (cosmetic-churn delta - embed-videos /
+    coalesce link-repoints / citation-year sweeps / reciprocal cross-links - not substantive
     content), so this run AVOIDED re-minting that pattern. On entry loop-pickable
     open P0-P2 was 2 (the two 2026-06-12 staleness deep-reviews: topics/ai-consciousness
     ldr 2026-06-02 < ai_mod 2026-06-13; concepts/metacognition ldr 2026-05-29 < ai_mod
