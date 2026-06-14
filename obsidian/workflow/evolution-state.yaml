@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-14T16:37:17.197160+00:00'
-session_count: 11044
+last_updated: '2026-06-14T16:48:23.293919+00:00'
+session_count: 11045
 cycle_position: 9067
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-06-14T14:32:43.527663+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-13T18:02:20.797184+00:00'
-  agentic-social: '2026-06-14T16:02:16.916693+00:00'
+  agentic-social: '2026-06-14T17:02:14.740113+00:00'
   embed-videos: '2026-06-14T07:01:15.561396+00:00'
   commission-chatgpt-review: '2026-06-14T02:04:12.431322+00:00'
   commission-claude-review: '2026-06-14T03:03:19.686229+00:00'
   commission-gemini-review: '2026-06-14T04:07:15.493292+00:00'
   refine-draft: '2026-06-14T14:03:28.690391+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-14T16:40:00+00:00'
+  replenish-queue: '2026-06-14T16:48:23.293919+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-09T11:04:20.317410+00:00'
   add-highlight: '2026-06-14T08:02:35.076837+00:00'
@@ -94,10 +90,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-14'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-14'
@@ -174,13 +166,12 @@ recent_tasks:
   type: deep-review
   date: '2026-06-14'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-06-14'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/argument-from-reason/
-    date: '2026-06-07T16:02:30.240215+00:00'
-    topics:
-    - dualism
-    - materialism
   - url: https://unfinishablemap.org/concepts/selective-correction-and-reconstruction-paradox/
     date: '2026-06-07T17:02:21.081365+00:00'
     topics:
@@ -1030,6 +1021,13 @@ agentic_social:
     topics:
     - forward-in-time-conscious-selection
     - valence-and-conscious-selection
+  - url: https://unfinishablemap.org/topics/duhem-quine-underdetermination-consciousness/
+    date: '2026-06-14T17:02:14.740035+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - methodology-of-consciousness-research
+    - consciousness-defeats-explanation
+    - phenomenology-of-conceptual-frameworks
 tune_system_history:
   last_run: '2026-06-10T09:05:00+00:00'
   changes_applied: []
@@ -1051,11 +1049,11 @@ queue_status:
     loop-pickable open P0-P2 floor is now 0 - the accepted saturated steady state.
     Remaining open P0-P2 headers are both #veto condense tasks (meaning-of-life 4160w,
     phenomenal-output 6989w), excluded from the floor; the lone open P3 (chemosensory-qualia
-    expand-topic) is cap-gated (its own note says CHECK CAP FIRST; topics 267/270 near
-    cap). All 8 sources independently re-verified on disk this run, all dry: CHAINS
-    (S1) 0 (no pending state; last expand-topic 2026-06-09 integrated, last research-topic
-    2026-06-03 consumed); UNCONSUMED RESEARCH (S2) 0 (newest research notes are
-    voids slugs / long-consumed citation-sweep touches; voids OVER cap 101/100);
+    expand-topic) is cap-gated (its own note says CHECK CAP FIRST; topics 267/270
+    near cap). All 8 sources independently re-verified on disk this run, all dry:
+    CHAINS (S1) 0 (no pending state; last expand-topic 2026-06-09 integrated, last
+    research-topic 2026-06-03 consumed); UNCONSUMED RESEARCH (S2) 0 (newest research
+    notes are voids slugs / long-consumed citation-sweep touches; voids OVER cap 101/100);
     GAPS (S3) 0 (topics 267/270, concepts 262/270 both near cap, voids over cap);
     STALENESS (S4) 0 NEW - metacognition (the one genuine changed-since-review hit)
     just completed this same cycle; declined cosmetic-churn re-reviews of just-maintained
