@@ -1,7 +1,7 @@
 ---
 ai_contribution: 85
 ai_generated_date: 2026-03-14
-ai_modified: 2026-06-05 15:53:56+00:00
+ai_modified: 2026-06-14 00:00:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-06-01 06:27:48+00:00
 apex_sources:
@@ -146,7 +146,7 @@ This reinterpretation has consequences:
 
 **The Born rule is not fully explained by physics alone.** Gleason's theorem shows that the Born rule is the *unique* probability measure consistent with the Hilbert space structure. Deutsch-Wallace decision theory, Zurek's envariance, and Torres Alegre's relativistic-causality derivation (2025) provide further internal derivations. These succeed as proofs that the Born rule is the only coherent probability assignment *given* the quantum formalism. But as the [comprehensive analysis of derivation failures](/topics/born-rule-and-the-consciousness-interface/) demonstrates, every strategy—across hidden-variable, objective-collapse, retrocausal, categorical, and gravitational frameworks—either postulates the Born rule, assumes it in disguised form, or relocates it to another assumption. If the rule describes the interface between two ontological domains, these derivations explain its mathematical necessity without explaining its ontological ground.
 
-**Collapse interpretations have a structural advantage here.** Collapse theories treat the Born rule as a fundamental postulate—an honest acknowledgment. Many-Worlds must *derive* probability from a theory that is fundamentally deterministic, and every derivation strategy (decision-theoretic, self-locating uncertainty, envariance) smuggles in the very thing it claims to derive. This asymmetry favours interpretations where collapse is genuine and selection is real.
+**Collapse interpretations have a structural advantage here.** Collapse theories treat the Born rule as a fundamental postulate—an honest acknowledgment. Many-Worlds must instead *derive* probability from a theory that is fundamentally deterministic, and critics argue that every derivation strategy (decision-theoretic, self-locating uncertainty, envariance) smuggles in the very thing it claims to derive. That charge is contested rather than settled—Everettians regard the decision-theoretic and self-locating programmes as live—so the asymmetry the Map relies on is conditional: *given* the tenets' demand for genuine selection, an honestly-postulated Born rule is preferable to a recovery whose premises the Map independently rejects. The advantage is read off the Map's commitments, not claimed as a neutral refutation of MWI.
 
 **The specific mathematical form may encode interface constraints.** Why squared amplitudes? Why not cubed, or linear? If the Born rule is an interface specification, its form reflects constraints on how consciousness can couple to physical possibility—just as the speed of light constrains how matter can couple to spacetime.
 

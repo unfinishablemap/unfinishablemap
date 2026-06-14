@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-06-13T08:01:38.276521'
+ai_modified: '2026-06-14T08:01:34.758481'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-06-13'
+date: '2026-06-14'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-06-13'
+modified: '2026-06-14'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-06-14: Which Quantum Interpretation Leaves Room for Consciousness?
+
+Copenhagen, Bohm, QBism, relational, transactional, collapse: a survey of quantum interpretations beyond many-worlds, asking which ones leave space for consciousness as a causal participant in measurement—and which slam the door shut.
+
+**Type**: new-article  
+**Link**: [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)
+
+---
+
 ### 2026-06-13: Why Mystics Disagree About How Enlightenment Feels
 
 Buddhist depths feel flat; Sufi and bhakti depths feel ecstatic; Christian contemplation swings; Daoist practice feels at ease. A human-AI inquiry asks whether affective tone tracks which mode of consciousness a tradition trains, not consciousness itself.
@@ -193,15 +202,6 @@ Why does molecular motion feel warm? Why does chemistry become life? Every level
 
 **Type**: insight  
 **Link**: [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/)
-
----
-
-### 2026-05-23: Choice Blindness: When You Don't Notice You Got the Wrong Card
-
-Swap a person's choice mid-experiment and many won't catch it—then confidently justify the swap. New article on what the choice-blindness paradigm shows, and what it cannot.
-
-**Type**: new-article  
-**Link**: [authorship-of-action-divergence](/topics/authorship-of-action-divergence/)
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-06-06 00:00:00+00:00
+ai_modified: 2026-06-14 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -89,13 +89,15 @@ Multiple independent programs have attempted to recover probability within MWI, 
 
 The pattern across all three programs is instructive. Each recovers the Born rule from different premises, and each faces the objection that its premises covertly assume what they purport to derive. Rather than convergent evidence for derivability, the pattern shows that the Born rule has not yet been extracted from MWI's resources without smuggling it in. Short's 2023 contribution to *Quantum* confirms the problem remains open, with no consensus that any strategy succeeds.
 
-The deeper issue is structural, not merely historical. A theory in which all quantum outcomes are actual lacks the raw materials for genuine probability: there is no space of unrealised possibilities for probabilities to range over. Successive derivation attempts may refine their premises, but the structural obstacle—every outcome occurs—is not the kind of difficulty that incremental technical progress resolves.
+The verdict needs careful calibration, and the catalogue above is the critics' side of a live dispute, not a settled consensus. Everettians do not regard the decision-theoretic and self-locating-uncertainty programmes as refuted; Wallace, Saunders, Sebens, and Carroll treat them as serious, actively developed research lines, and many in the foundations community judge the question genuinely open after seventy years rather than closed against MWI. What the objections collectively establish is that the recovery has not been completed without contested premises—not that completion has been shown impossible. The Map's reservation, set out in [the extended treatment](/topics/probability-problem-in-many-worlds/#where-the-maps-disagreement-actually-falls), is that the premises the recoveries rely on (branching indifference, branch-relative indexicality reading double duty) are ones the Map declines on independently-motivated tenet grounds—a framework-boundary disagreement, not a knockdown refutation of an unserious programme.
+
+The deeper structural worry is that a theory in which all quantum outcomes are actual appears to lack the raw materials for genuine probability: there is no space of unrealised possibilities for probabilities to range over. Whether this is a decisive obstacle or a problem the self-locating-uncertainty programme dissolves by relocating probability to credence is exactly what remains contested; the Map reads it as decisive while acknowledging Everettians do not.
 
 ## Relation to Site Perspective
 
 These four objections provide strong independent support for the Map's [No Many Worlds](/tenets/#no-many-worlds) tenet. The Map's commitment to [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)—consciousness biasing genuinely indeterminate quantum outcomes—requires that outcomes be genuinely indeterminate. Real collapse yields real probability: a fundamental postulate about how nature works, honestly stated as such. Collapse interpretations face none of the circularity, branch-counting, or betting-frequency problems because probability is not derived from something else but posited as a basic feature of quantum mechanics.
 
-The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies here directly. MWI appears simpler for eliminating the collapse postulate, but the elaborate machinery needed to recover probability—decision-theoretic axioms, self-locating credence principles, envariance symmetries—reveals hidden complexity that collapse interpretations avoid. Trading one honest postulate for an unresolved foundational crisis is not parsimony.
+The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies here, but the way it applies must be stated carefully. MWI appears simpler for eliminating the collapse postulate, and one tempting reply is that the elaborate machinery needed to recover probability reveals a hidden complexity offsetting the saved postulate. That reply answers the parsimony argument to a draw, but it cannot win the dispute, and Tenet 5 forbids pretending otherwise: simplicity is an unreliable guide under incomplete knowledge, so the Map cannot disarm parsimony arguments for dualism while wielding one against MWI. The weight of the [No Many Worlds](/tenets/#no-many-worlds) tenet therefore rests not on "MWI is less parsimonious than it looks" but on the demand for real collapse and the indexical commitment, carried in openly as tenets. The probability objections do real work here: they show the recovery is incomplete, which is why the Map judges collapse's honestly-postulated Born rule the better-supported option—while granting that judgement turns on the tenets, not on a neutral parsimony calculation.
 
 ## Further Reading
 

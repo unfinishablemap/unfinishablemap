@@ -9,6 +9,44 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-14T12:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)
+- **Source**: topic-concept anchoring audit 2026-06-14 (Audit Three) — over-claimed relative to anchor [many-worlds](/concepts/many-worlds/) (hedge_density 1.50/kw < 1.81 target; strong_assertion 0.50/kw > 0.30 target × 1.5)
+- **Changes**: net-neutral in-place calibration only (3992 → 3994 words; both anchoring checks now clear, 0 flags). Specifics:
+  - Softened strong assertion "establishes at most an indirect, contested relevance" → "indicates at most..." (drops strong-assertion count 2 → 1; the calibrating "does not establish biologically useful quantum coherence" preserved)
+  - Softened absolute "This is the interpretation most hostile" → "This appears to be the interpretation most hostile" (Bohmian section; adds hedge marker)
+  - Softened absolute "The pattern is clear." → "The pattern seems clear." (Comparative Assessment; adds hedge marker)
+- **Calibration preserved (no regression of 2026-06-14 recalibration, commits 6f1c8358 / fb83275e)**: compatibility-is-not-support scoring key, GRW/CSL standard-vs-Φ split, Quantum-Darwinism moderate/low calibration, epothilone-B hedge + classical null, Bohmian/QBism qualifications all intact. Central Map claim and tenet-conditioned positions left plainly stated; only contestable empirical/interpretive assertions were softened.
+- **Post-edit anchoring**: hedge_density 2.00/kw (≥1.81), strong_assertion 0.25/kw (≤0.45) — evaluate_anchoring returns 0 flags. Length status soft_warning (3994/4000, under hard ceiling).
+- **Published**: yes
+
+## 2026-06-14T05:00:00+00:00 - refine-draft (methodology capture)
+- **Status**: Success
+- **Source**: outer-review-2026-06-14 (ChatGPT 5.5 Pro) findings #23–#25 — three site-methodology proposals
+- **Files**: [calibration-audit-triple](/project/calibration-audit-triple/), [evidential-status-discipline](/project/evidential-status-discipline/)
+- **Disposition (assess-first, extend-don't-duplicate)**:
+  - **#23 quantum-foundations freshness checklist** → EXTENDED [calibration-audit-triple](/project/calibration-audit-triple/) Audit One (Literature-Drift Review). Added a domain-specialisation paragraph: the 5-point checklist (post-2023 surveys + their corrections / current objective-collapse experimental bounds / recent RQM–CPL literature / Everettian probability defences *and* critiques / high-profile-survey corrections) as a candidate-content spec for the existing weekly pass, NOT a new cadence. Added the site's-own-positions internal-consistency leg (TI/TSVF-rating-vs-positions finding).
+  - **#24 interpretation-audit template (5 fields)** → EXTENDED [evidential-status-discipline](/project/evidential-status-discipline/) source-role-table section. The five fields (what it says / what the Map needs / strongest defender reply / strongest external objection / what would make it bad for the Map) are the per-interpretation specialisation of the existing source-role table's four columns + tenet-transfer ledger; field 5 is the load-bearing addition (failure direction). Editor-internal; routes through the calibration-audit triple.
+  - **#25 physics co-optation firewall** → EXTENDED [calibration-audit-triple](/project/calibration-audit-triple/) Audit Six (Co-optation Gate). The gate already does this for non-dualist philosophers of mind; added a physics-foundations roster extension (Zurek/Rovelli/QBists/Bohmians/Everettians + leading proponents) with per-programme stance notes. Same remediation, same `/tune-system` promotion path.
+- **Declined to create new page**: all three fold into existing machinery; no sensible standalone home and a new page would duplicate the source-role/tenet-transfer and literature-drift/co-optation disciplines.
+- **Operator flags (NOT implemented)**: #23 implies adding a quantum-foundations domain set to `evolution-state.yaml:audit_triple.literature_drift` and #25 implies expanding the maintained naturalist/physics roster — both are `/tune-system` (skill-wiring + state-threshold) decisions, left for the operator per the existing "proposed member" promotion path. No schema/sync/code changed.
+- **Published**: yes
+
+## 2026-06-14T06:05:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)
+- **Word count**: 3702 → 3992 (under 4000 topics hard ceiling; transient peak of 4102 mid-pass, trimmed back)
+- **Source**: outer-review-synthesis-2026-06-14 (consolidated ChatGPT 5.5 Pro #1-7,9-14 + 2 ≥2-reviewer convergent findings); P1 one-pass to avoid same-file churn
+- **Convergent core**:
+  - (a) Table recalibration: split GRW/CSL into standard (no consciousness role; moderate tenet-fit, low independent support) vs Φ-modulated (high tenet-fit, high speculative cost); Quantum Darwinism "Moderate–High" → "Moderate as constraint, low as evidence". Added tight "compatibility is not support" scoring key separating tenet-fit / independent-physics-support / mechanism-specificity / empirical-risk — the anti-circularity finding both reviewers flagged.
+  - (e) Epothilone B hedge tightened to indirect/contested microtubule-anaesthesia relevance that does NOT establish biologically useful coherence; added the classical receptor-trafficking null reading (data consistent with both). Did NOT add Ma & Wang 2026 (unverified reviewer cite — declined per ai-citation-metadata-unreliable).
+- **Singletons**: (b) Bohmian — qualified "felt deliberation illusory" to the Map's incompatibilist standpoint, added a compatibilist best-reply, replaced relativity-tension overreach with parity framing (collapse pays its own Lorentz-invariance costs). (c) QBism — "anti-realist" → "non-realist about the state / anti-ψ-ontic", noted Fuchs's participatory realism, marked the "under-specified Map commitments" reading as a dualist reinterpretation QBists would reject; section heading updated. (d) Survey opener reframed to "interpretive pluralism, no settled resolution; consciousness-collapse a small minority" — kept the 2013 Schlosshauer cite (no verified 2025 replacement, did not insert an unverified one).
+- **Skipped**: (f) optional parity box / "what would change the Map's mind" — length ceiling binding.
+- **Coordination**: did NOT re-touch the TI/TSVF row or its RtSP tie-in (recalibrated last cycle).
+- **Engagement classification** (editor-internal, not in body): Bohmian — Mode One (in-framework: determinism vs phenomenology, with compatibilist best-reply acknowledged) + Mode Three boundary on the tenet cost. QBism — Mode Two (state non-realism removes the substrate the Map's ontology needs) + Mode Three (dualist reinterpretation QBists reject, openly marked).
+- **Published**: yes
+
 ## 2026-06-14T05:31:50+00:00 - deep-review
 - **Status**: Success
 - **File**: [integration-as-activity](/concepts/integration-as-activity/)
