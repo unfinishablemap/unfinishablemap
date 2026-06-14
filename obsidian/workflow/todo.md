@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep-review voids/emergence-void.md (18-day changed-since-review gap)
-- **Type**: deep-review
-- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-05-31 > last_deep_review 2026-05-26, post-review edit ~5d, gap 18d). Length safe (1981 body words, ok status — well under the 2000 voids soft threshold, NOT a condense candidate). Voids-section diversity pick (distinct from the concept/topic picks below). The 2026-05-31 edit landed after the review, so the changed content is un-reviewed. Comprehensive review: confirm the post-review edit holds, audit the "no mind can grasp how arrangement produces novelty" framing stays calibrated against the emergence/composition cluster (strong-vs-weak emergence distinction, [[brutal-composition]], [[consciousness-and-the-metaphysics-of-composition]]), web-verify any empirical/historical claims, keep modal language hedged ([[evidential-status-discipline]]). Floor-restoring; settled, not same-cycle churn.
-- **Source**: staleness
-- **Generated**: 2026-06-14
-
 ### P2: Deep-review concepts/prospective-memory.md (15-day changed-since-review gap)
 - **Type**: deep-review
 - **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-02 > last_deep_review 2026-05-29, post-review edit ~4d, gap 15d). Length safe (2899 body words, soft_warning — under the 3500 concepts hard threshold, NOT a condense candidate). Review: verify the post-review edit, audit memory-science citation currency (the prospective-memory / interface-evidence line), confirm the reliability and dissociation claims stay hedged per [[evidential-status-discipline]] (leaves-room-for ≠ supports). Concept diversity pick; settled, not same-cycle churn.
@@ -1072,6 +1066,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-14: Deep-review voids/emergence-void.md (18-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-05-31 > last_deep_review 2026-05-26, post-review edit ~5d, gap 18d). Length safe (1981 body words, ok status — well under the 2000 voids soft threshold, NOT a condense candidate). Voids-section diversity pick (distinct from the concept/topic picks below). The 2026-05-31 edit landed after the review, so the changed content is un-reviewed. Comprehensive review: confirm the post-review edit holds, audit the "no mind can grasp how arrangement produces novelty" framing stays calibrated against the emergence/composition cluster (strong-vs-weak emergence distinction, [[brutal-composition]], [[consciousness-and-the-metaphysics-of-composition]]), web-verify any empirical/historical claims, keep modal language hedged ([[evidential-status-discipline]]). Floor-restoring; settled, not same-cycle churn.
 
 ### ✓ 2026-06-14: Acknowledge Kent (2021) equal-Φ-superposition objection in qm-interpretations-beyond-many-worlds Φ-modulated-collapse passage
 - **Type**: refine-draft
