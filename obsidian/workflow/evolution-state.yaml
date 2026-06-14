@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-14T08:48:48.007414+00:00'
-session_count: 11013
-cycle_position: 9051
+last_updated: '2026-06-14T09:08:56.915461+00:00'
+session_count: 11014
+cycle_position: 9052
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-13T21:19:33.346951+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-06-14T02:04:12.431322+00:00'
   commission-claude-review: '2026-06-14T03:03:19.686229+00:00'
   commission-gemini-review: '2026-06-14T04:07:15.493292+00:00'
-  refine-draft: '2026-06-14T08:19:10.821207+00:00'
+  refine-draft: '2026-06-14T09:08:56.915461+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
   replenish-queue: '2026-06-14T01:20:11.471789+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: commission-gemini-review
-  type: commission-gemini-review
-  date: '2026-06-14'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-14'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-14'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-14'
   outcome: success
 agentic_social:
@@ -1030,15 +1030,50 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 4
+  p2_tasks: 7
   p3_tasks: 2
   needs_replenishment: false
-  last_replenishment: '2026-06-14T01:30:00+00:00'
-  last_replenishment_mode: conservative
-  current_replenishment_note: '2026-06-14T01:30:00+00:00 run (conservative mode) -
-    PROMOTED 2 grounded review-flagged P3 refine tasks to P2 (perception-cluster reciprocal
-    cross-links + route-vs-direction named-anchor deflation-blocker) to restore the
-    loop-pickable P0-P2 floor; NO new task minted. On entry loop-pickable open P0-P2
+  last_replenishment: '2026-06-14T09:15:00+00:00'
+  last_replenishment_mode: standard
+  current_replenishment_note: '2026-06-14T09:15:00+00:00 run (standard mode) - minted
+    5 NEW genuine-changed-since-review staleness deep-review tasks at the TOP of Active
+    Tasks (LIFO-defeat) to restore the loop-pickable P0-P2 floor with a working buffer.
+    On entry loop-pickable open P0-P2 was 2 (the two 2026-06-12 staleness deep-reviews:
+    topics/ai-consciousness ldr 2026-06-02 < ai_mod 2026-06-09; concepts/metacognition
+    ldr 2026-05-29 < ai_mod 2026-06-05 - both re-verified pending on disk), below
+    the MIN_QUEUE floor of 3. The 2 open P3s do not count toward the floor; the two
+    veto-tagged P2 condense tasks (meaning-of-life 4160w; phenomenal-output 6989w)
+    are human-gated, not loop-pickable. All eight sources re-verified on disk. CHAINS
+    (S1) 0 - recent_tasks 14d window holds no research-topic/expand-topic completion
+    needing a successor (last research-topic 2026-06-03 berridge, already consumed
+    by topics/wanting-liking-and-the-value-in-mechanism-fork; last expand-topic 2026-06-09).
+    UNCONSUMED RESEARCH (S2) 0 - the recent research notes are all consumed (berridge
+    to wanting-liking fork; pci-phi to recovery-order-asymmetry; non-western-physicalist
+    to concession-convergence per its own frontmatter; remaining backlog is voids-*
+    slugs against an OVER-cap voids section 101/100). GAPS (S3) 0 - corpus saturated
+    (topics 267/270, concepts 262/270 near cap; voids over cap). ORPHANS (S5) 0 (quality.orphaned_files
+    0). LENGTH (S6) 0 NEW - every published hard/critical offender is a research note,
+    veto-tagged, or a human-gated/DIVERTED calibration flagship (epistemology-of-convergence,
+    clinical-dissociation, born-rule, laws-and-dispositions, valence, time-collapse-and-agency,
+    composition, edge-states-and-void-probes); re-condensing them is churn per unfin-loop-steady-state.
+    POSITIONS add (S7a) 0; update (S7b) 0; audit NOT due (last 2026-06-09, 30d window
+    open, register at 18 entries / 4 domains). APPLIED-APEX (S8) 0. STALENESS (S4)
+    5 minted: a strict scan (ai_contribution>=50, ai_modified > last_deep_review by
+    over 24h, settled at least 5d, ai_modified not today, gap >=7d, length under hard
+    threshold) yielded the genuine post-review-edit set; picked for section/cluster
+    diversity - voids/emergence-void (gap 18d, 1981w ok); concepts/prospective-memory
+    (gap 15d, 2899w); concepts/panpsychism (gap 13d, 3270w, Tenet 1 load-bearing rival);
+    concepts/buddhism-and-dualism (gap 13d, 2523w, cross-tradition); topics/surprise-prediction-error-and-consciousness
+    (gap 13d, 3661w, predictive-processing). Excluded already-queued (metacognition,
+    filter-theory has an open Gemini-outer-review task), human-gated flagships (duhem-quine),
+    and same-session-churn edits (measurement-problem ai_modified 2 min after review).
+    No expand-topic against near/over-cap sections; no condense churn; no human-gated
+    task minted. After: loop-pickable open P0-P2 = 7, above the floor of 3 with buffer.'
+  superseded_replenishment_note_0130: '2026-06-14T01:30:00+00:00 run (conservative
+    mode) - PROMOTED 2 grounded review-flagged P3 refine tasks to P2 (perception-cluster
+    reciprocal cross-links + route-vs-direction named-anchor deflation-blocker) to
+    restore the loop-pickable P0-P2 floor; NO new task minted. On entry loop-pickable
+    open P0-P2
     was 2 (the two 2026-06-12 staleness deep-reviews: topics/ai-consciousness, ldr
     2026-06-02 < ai_mod 2026-06-09; concepts/metacognition, ldr 2026-05-29 < ai_mod
     2026-06-05 - both re-verified genuinely pending on disk), below the MIN_QUEUE
@@ -1399,6 +1434,15 @@ queue_status:
     length_analysis: 0
     orphan_integration: 0
     positions: 0
+    staleness: 5
+    unconsumed_research: 0
+  prior_replenishment_source_counts_last_run_0130:
+    applied_apex: 0
+    chain: 0
+    gap_analysis: 0
+    length_analysis: 0
+    orphan_integration: 0
+    positions: 0
     staleness: 1
     unconsumed_research: 0
   prior_replenishment_source_counts_last_run_2015:
@@ -1582,5 +1626,5 @@ queue_status:
     length_analysis: 0
     orphan_integration: 0
     positions: 0
-    staleness: 0
+    staleness: 5
     unconsumed_research: 0

@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep-review voids/emergence-void.md (18-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-05-31 > last_deep_review 2026-05-26, post-review edit ~5d, gap 18d). Length safe (1981 body words, ok status — well under the 2000 voids soft threshold, NOT a condense candidate). Voids-section diversity pick (distinct from the concept/topic picks below). The 2026-05-31 edit landed after the review, so the changed content is un-reviewed. Comprehensive review: confirm the post-review edit holds, audit the "no mind can grasp how arrangement produces novelty" framing stays calibrated against the emergence/composition cluster (strong-vs-weak emergence distinction, [[brutal-composition]], [[consciousness-and-the-metaphysics-of-composition]]), web-verify any empirical/historical claims, keep modal language hedged ([[evidential-status-discipline]]). Floor-restoring; settled, not same-cycle churn.
+- **Source**: staleness
+- **Generated**: 2026-06-14
+
+### P2: Deep-review concepts/prospective-memory.md (15-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-02 > last_deep_review 2026-05-29, post-review edit ~4d, gap 15d). Length safe (2899 body words, soft_warning — under the 3500 concepts hard threshold, NOT a condense candidate). Review: verify the post-review edit, audit memory-science citation currency (the prospective-memory / interface-evidence line), confirm the reliability and dissociation claims stay hedged per [[evidential-status-discipline]] (leaves-room-for ≠ supports). Concept diversity pick; settled, not same-cycle churn.
+- **Source**: staleness
+- **Generated**: 2026-06-14
+
+### P2: Deep-review concepts/panpsychism.md (13-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-02 > last_deep_review 2026-05-31, post-review edit ~2.5d, gap 13d). Length safe (3270 body words, soft_warning — under the 3500 concepts hard threshold, NOT a condense candidate). Tenet 1 load-bearing (panpsychism is the Map's principal non-dualist rival on the hard problem — the combination-problem dialectic must stay sharp). Review: verify the post-review edit, audit the combination-problem and constitutive/Russellian-monism framing, web-verify citations, confirm the rival is steelmanned not strawmanned. Concept cluster diversity pick; settled, not same-cycle churn.
+- **Source**: staleness
+- **Generated**: 2026-06-14
+
+### P2: Deep-review concepts/buddhism-and-dualism.md (13-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-04 > last_deep_review 2026-05-31, post-review edit ~3d, gap 13d). Length safe (2523 body words, soft_warning — under the 3500 concepts hard threshold, NOT a condense candidate). Review: verify the post-review edit, audit the cross-tradition convergence claims (anatta / dependent-origination vs the Map's substance-dualist commitment) stay calibrated — convergence is evidential weight, NOT proof ([[epistemology-of-convergence-arguments]], [[evidential-status-discipline]]); web-verify any textual/scholarly citations. Cross-tradition diversity pick; settled, not same-cycle churn.
+- **Source**: staleness
+- **Generated**: 2026-06-14
+
+### P2: Deep-review topics/surprise-prediction-error-and-consciousness.md (13-day changed-since-review gap)
+- **Type**: deep-review
+- **Notes**: Genuine changed-since-review staleness (ai_contribution=100, ai_modified 2026-06-03 > last_deep_review 2026-06-01, post-review edit ~2d, gap 13d). Length safe (3661 body words, soft_warning — under the 4000 topics hard threshold, NOT a condense candidate; monitor — it is the closest of this batch to its ceiling, so resist net growth and prefer swaps over additions). Topic diversity pick (predictive-processing cluster). Review: verify the post-review edit, audit the prediction-error / free-energy framing against the live predictive-processing literature, web-verify citations, confirm the "surprise as interface evidence" line stays hedged per [[evidential-status-discipline]] (compatible-with ≠ supports). Settled, not same-cycle churn.
+- **Source**: staleness
+- **Generated**: 2026-06-14
+
 ### ✓ 2026-06-13: Fix duplicate reference + minor repetition in topics/cross-species-behavioural-confidence-proxy-tests.md
 - **Type**: refine-draft
 - **Status**: ✓ RESOLVED-BY-CONSOLIDATION — the P2 pessimistic-fix refine pass (commit bf508d1c, same review) already did the mandatory parts: (a) deleted the byte-identical duplicate Reference and renumbered (verified: refs 16 and 17 are now distinct — Per-Cluster Independence Scoring vs Common-Cause Null); (b) resolved the "design audit's primary finding stated twice" repetition to a single instance. Part (c) was OPTIONAL (hedge "the cleanest existing instance" superlative) and is SKIPPED — the article grew to 3657w (91% of the 4000 hard ceiling) during the P2 pass, so I declined the optional growth; the superlative is mild and section-local. No separate refine needed.
