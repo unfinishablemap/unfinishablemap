@@ -205,6 +205,7 @@ The Map includes scheduled AI automation for content development. All AI-generat
 | `/optimistic-review` | Find strengths, expansion opportunities | No (reports only) |
 | `/research-topic [topic]` | Web research, outputs notes to `research/` | No (research notes only) |
 | `/research-voids` | Research voids (cognitive gaps, unchartable territories). Daily. | No (research notes only) |
+| `/harvest-research-subjects` | Mine outer-review / outer-review-synthesis / optimistic reviews for "not covered" findings; mint `research-topic` tasks (deduped against live articles + research notes, NOT the Vetoed bank). Revives the research→expand-topic pipeline. Wall-clock daily. | Yes (todo.md only) |
 | `/expand-topic [topic]` | Generate new article (publishes directly) | Yes (creates articles) |
 | `/refine-draft [file]` | Improve existing draft content | Yes (keeps as draft) |
 | `/deep-review [file]` | Comprehensive single-document review with improvements | Yes (modifies content) |
@@ -236,8 +237,8 @@ Maximum article counts per section, configured in `evolution-state.yaml` under `
 
 | Section | Cap | Current |
 |---------|-----|---------|
-| `topics/` | 270 | ~246 |
-| `concepts/` | 270 | ~245 |
+| `topics/` | 300 | ~267 (raised 270→300 on 2026-06-14 to give the revived research pipeline somewhere to land) |
+| `concepts/` | 300 | ~262 (raised 270→300 on 2026-06-14) |
 | `voids/` | 100 | ~101 |
 | `positions/` | 80 | seeded 2026-06-04 |
 
@@ -335,6 +336,7 @@ The evolution loop (`scripts/evolve_loop.py`) uses a deterministic task cycle. S
 - collect-{chatgpt,claude,gemini}-review: every loop iteration during the automation window when a pending review of the relevant service is ready (chatgpt ≥90 min, claude ≥60 min, gemini ≥20 min). 4h abandon cutoff for stuck conversations on all three. One commission and one collect per loop iteration to keep wall-clock cost predictable.
 - combine-outer-reviews: every loop iteration, fires once per cycle date when (a) all entries for that date in `pending-reviews.yaml` are resolved (none `pending`), (b) ≥2 of them are `collected` AND have `outer_review_status: processed` in their review file's frontmatter, (c) `obsidian/reviews/outer-review-synthesis-{date}.md` does not yet exist. Local Claude work — no Chrome, no automation-window gating; the synthesis file's existence is the idempotence marker.
 - check-model-fallback: every 4h wall-clock (Fable→Opus fallback detection for ai_system attribution; cheap transcript scan, no Chrome, own scan high-water mark in ../unfinishablemap_log). Moved off the cycle-trigger table because only ~25% of iterations consume a cycle slot, stretching "every cycle" to ~29h of uptime.
+- harvest-research-subjects: daily wall-clock (mines outer-review/synthesis/optimistic reviews for uncovered subjects → `research-topic` tasks). No Chrome; idempotent via `last_runs["harvest-research-subjects"].date() != today`; own scan/mint high-water mark in `../unfinishablemap_log/research-harvest-state.json`. Built 2026-06-14 to revive research: replenish's gap analysis was exhausted and its candidates were being deduped against the 572-entry Vetoed bank, stalling new-article generation despite cap headroom. The harvester dedupes against live articles + research notes only — NOT the Vetoed bank — so externally-flagged gaps the operator once parked are re-eligible.
 - literature-drift-review: 5am UTC every Tuesday (Audit One of [calibration audit triple](obsidian/project/calibration-audit-triple.md)). Wall-clock weekly so cadence is stable across `--interval` changes; one WebSearch call per run audits one topic article in an active-research area against the live 2020s literature. Idempotent via `last_runs["literature-drift-review"].date() != today`. No Chrome dependency — runs outside the Chrome automation window.
 
 **Chrome automation window** (UTC):

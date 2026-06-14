@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-14T21:16:55.510761+00:00'
-session_count: 11059
+last_updated: '2026-06-14T21:32:18.471990+00:00'
+session_count: 11060
 cycle_position: 9069
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-14T04:07:15.493292+00:00'
   refine-draft: '2026-06-14T14:03:28.690391+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-14T20:32:26.850486+00:00'
+  replenish-queue: '2026-06-14T21:32:18.471990+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-14T18:33:07.498286+00:00'
   add-highlight: '2026-06-14T08:02:35.076837+00:00'
@@ -43,8 +43,8 @@ content_stats:
   draft_files: 0
   placeholder_files: 0
 section_caps:
-  max_topics: 270
-  max_concepts: 270
+  max_topics: 300
+  max_concepts: 300
   max_voids: 100
   max_positions: 80
 audit_triple:
@@ -94,10 +94,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-14'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-06-14'
@@ -172,6 +168,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-14'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-14'
   outcome: success
 agentic_social:
@@ -1044,19 +1044,19 @@ queue_status:
     = 0 (every Active-Tasks header carries a closure marker - RESOLVED-BY-CONSOLIDATION,
     done, or DIVERTED-TO-HUMAN; the two open P0-P2 headers are the duhem-quine HUMAN
     LENGTH DECISION tasks, human-deferred and excluded from floor; the two open condense
-    headers are both vetoed; no open P3). All 8 sources re-verified dry this run: CHAINS
-    (S1) 0 (last research-topic 2026-06-03 consumed, last expand-topic integrated,
+    headers are both vetoed; no open P3). All 8 sources re-verified dry this run:
+    CHAINS (S1) 0 (last research-topic 2026-06-03 consumed, last expand-topic integrated,
     no pending state); UNCONSUMED RESEARCH (S2) 0 (newest non-voids note is metacognition-consciousness
     2026-01-18, long consumed; remaining new notes are voids slugs, voids OVER cap
     101/100); GAPS (S3) 0 (topics 267/270, concepts 262/270 near cap, voids 101/100
     over cap, positions register full at 18 entries / 4 domains); STALENESS (S4) 0
     NEW (declined cosmetic-churn re-reviews of converged articles per orchestrator
     steer); LENGTH (S6) 0 clean mintable offender (all hard/critical offenders human-DIVERTED,
-    vetoed, or index/governance hubs); ORPHANS (S5) 0 (quality.orphaned_files 0); OUTER
-    REVIEWS all collected/processed, none pending, nothing to chain; POSITIONS add/update
-    (S7) 0, audit NOT due (last 2026-06-09, 30d window, 5d in); APPLIED-APEX (S8)
-    0. Accepted corpus-saturated floor-0 steady state - honest no-op preferred over
-    fabricated cosmetic-churn tasks. State YAML re-validated post-edit.'
+    vetoed, or index/governance hubs); ORPHANS (S5) 0 (quality.orphaned_files 0);
+    OUTER REVIEWS all collected/processed, none pending, nothing to chain; POSITIONS
+    add/update (S7) 0, audit NOT due (last 2026-06-09, 30d window, 5d in); APPLIED-APEX
+    (S8) 0. Accepted corpus-saturated floor-0 steady state - honest no-op preferred
+    over fabricated cosmetic-churn tasks. State YAML re-validated post-edit.'
   superseded_replenishment_note_1520: '2026-06-14T15:20 run (conservative, floor-restoring,
     5th run today) - HONEST NO-OP: no task minted, no task promoted. ai-consciousness
     deep-review COMPLETED this cycle (last_deep_review now 2026-06-14T15:18 == ai_modified),

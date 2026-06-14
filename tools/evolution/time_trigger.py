@@ -126,6 +126,20 @@ def check_add_highlight_tweet(now: datetime, state) -> TriggerDecision | None:
     return TriggerDecision(kind="trigger", skill="add-highlight", args="--tweet")
 
 
+def check_harvest_research(now: datetime, state) -> TriggerDecision | None:
+    """Once per day. Mines outer/optimistic reviews for new research-topic subjects.
+
+    Wall-clock (not cycle-based) for the same reason as check-model-fallback:
+    cycle cadence stretches to ~29h of uptime and drifts. No Chrome, no
+    automation-window gating — pure local review-corpus scan. The skill is a
+    cheap no-op when there are no unscanned mine-reviews.
+    """
+    last_run = state.last_runs.get("harvest-research-subjects")
+    if last_run is not None and last_run.date() == now.date():
+        return None
+    return TriggerDecision(kind="trigger", skill="harvest-research-subjects")
+
+
 # Priority order — first match wins per iteration. Subsequent iterations
 # pick up the next eligible trigger (since last_runs/last_tweet_date are
 # updated by cycle_post on success).
@@ -135,6 +149,7 @@ _PRIORITY: list[Callable[[datetime, object], "TriggerDecision | None"]] = [
     lambda now, state: check_commission("claude", now, state),
     lambda now, state: check_commission("gemini", now, state),
     check_add_highlight_tweet,
+    check_harvest_research,
     check_model_fallback,
 ]
 
