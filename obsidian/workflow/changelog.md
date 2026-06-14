@@ -5,6 +5,19 @@ ai_modified: 2026-06-14T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-14T12:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/gaming-problem]]
+- **Word count**: 1867 → 1867 (no change; metadata-only no-op verdict)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (converged; only change since prior review was the 2026-06-08 embed-videos cosmetic touch)
+- **Citation web-verify**: SKIPPED-AS-RATIFIED — References block byte-identical to the 2026-06-04 publisher-of-record verify (Birch 2024 OUP, Birch et al. 2021 Defra, Gruber et al. 2015 Front. Psychol. 6:91, Carroll & Birch 2024 Mindscape #292 — all real-correct). No new/modified cites; no superlative claims (currency sweep 0 hits).
+- **Calibration**: confirmed LLMs placed *outside* the five-tier scale (not low within), no possibility/probability slippage; evidential-status discipline holds. No "This is not X" cliché; no editor-label leakage.
+- **Length**: 1867 words = 75% of 2500 concepts soft target; no action.
+- **Note**: `ai_modified` deliberately NOT bumped (only `last_deep_review` advanced) to stop cosmetic touches re-triggering empty review passes.
+- **Output**: [[reviews/deep-review-2026-06-14-gaming-problem]]
+
 ## 2026-06-14T10:48:09+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/prospective-memory]]

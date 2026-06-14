@@ -5,7 +5,7 @@ created: 2026-06-04
 modified: 2026-06-04
 human_modified: null
 ai_modified: 2026-06-08T15:46:53.758433+00:00
-last_deep_review: 2026-06-04T09:15:00+00:00
+last_deep_review: 2026-06-14T00:00:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
