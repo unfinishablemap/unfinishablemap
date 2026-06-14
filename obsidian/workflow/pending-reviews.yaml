@@ -464,3 +464,38 @@
   subject_articles:
   - topics/qm-interpretations-beyond-many-worlds.md
   subject_source: fallback:recent-aged
+- service: gemini
+  conversation_url: https://gemini.google.com/app/89cd36e0bd18753e
+  commissioned_at: '2026-06-14T04:06:36.695715+00:00'
+  prompt_summary: Hostile-referee audit of qm-interpretations-beyond-many-worlds
+  target_filename: outer-review-2026-06-14-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "You are a hostile pre-publication referee for a top-tier philosophy\
+    \ journal (Mind, Synthese, Philosophical Studies) reviewing a single article for\
+    \ submission. Your remit is to find weaknesses that would justify rejection or\
+    \ major revision. The article is at https://unfinishablemap.org/topics/qm-interpretations-beyond-many-worlds/\
+    \ (recent changelog: https://unfinishablemap.org/workflow/changelog/) and surveys\
+    \ quantum-mechanical interpretations \u2014 Copenhagen, Bohmian, QBism, relational,\
+    \ transactional, objective collapse \u2014 arguing which leave room for consciousness\
+    \ as a causal participant; the site argues for a non-reductive view of consciousness.\
+    \ Do not describe the site automation, review pipeline, methodology disciplines,\
+    \ evolution loop, or governance infrastructure. Those are project-internal and\
+    \ not the subject of audit. Assess only the article empirical and physics claims,\
+    \ its citations, its counterargument coverage, and its logical inferences. Audit:\
+    \ (a) empirical and technical accuracy against the 2020s physics and philosophy-of-physics\
+    \ literature; (b) results it cites that have been challenged, retracted, or fail\
+    \ to replicate; (c) places where a tenet-bracketed framing substitutes for argument;\
+    \ (d) untested counterarguments or competing interpretive frameworks it omits.\
+    \ End with at least five specific weaknesses; for each cite at least one peer-reviewed\
+    \ 2020-2025 source the article omits, contradicts, or mishandles. If you cannot\
+    \ find five, state explicitly why none are visible. Do not close with a summary\
+    \ of the site strengths, methodology, or ambition; end with the weaknesses list\
+    \ and a one-sentence verdict on academic-submission readiness."
+  subject_type: recent
+  subject_title: Audit qm-interpretations-beyond-many-worlds
+  subject_articles:
+  - topics/qm-interpretations-beyond-many-worlds.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-14-chatgpt-5-5-pro.md
