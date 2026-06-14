@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-06-12 18:33:49+00:00
+ai_modified: 2026-06-14 03:31:29+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -34,6 +34,8 @@ related_articles:
 - '[[history-of-the-interaction-problem]]'
 - '[[interaction-problem-non-western-philosophy-2026-02-17]]'
 - '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
+- '[[consciousness-as-perceptual-architect]]'
+- '[[dualist-perception]]'
 title: The Interaction Problem Across Philosophical Traditions
 topics:
 - '[[history-of-the-interaction-problem]]'
@@ -136,6 +138,8 @@ The cross-traditional recurrence broadens the warrant for the *problem*—it sho
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)
 - [objections-to-interactionism](/concepts/objections-to-interactionism/)
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)
+- [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/) — Related development: the "selection not injection" structure of the Type-2 and Type-4 families appears concretely in perceptual constancy's selecting of distal over proximal
+- [dualist-perception](/topics/dualist-perception/) — Related development: the binocular-rivalry locus that Type-4 names as a candidate site for quantum selection is developed there as bistable perception
 
 ## References
 

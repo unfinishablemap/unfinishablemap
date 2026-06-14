@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-06-12 16:32:04+00:00
+ai_modified: 2026-06-14 03:31:29+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -46,6 +46,7 @@ related_articles:
 - '[[perceptual-degradation-and-the-interface]]'
 - '[[selective-correction-and-reconstruction-paradox]]'
 - '[[filter-theory]]'
+- '[[interaction-problem-across-traditions]]'
 title: Dualist Perception
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -188,6 +189,7 @@ The Map's [tenets](/tenets/) find their sharpest expression in perception.
 - [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) — Three modes of signal handling (autonomous correction, faithful transmission, selection under ambiguity) as evidence of a conscious recipient
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and what physical knowledge misses
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The broader framework for mind-body interaction
+- [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/) — Related development: the cross-traditional typology names binocular-rivalry resolution as a candidate Type-4 quantum-selection locus, developed here as bistable perception
 - [curated-mind](/topics/curated-mind/) — The curation argument extended from vision to body schema, memory, and self-model
 - [filter-theory](/concepts/filter-theory/) — Consciousness as filter rather than generator
 

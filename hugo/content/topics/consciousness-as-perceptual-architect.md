@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-06-12 21:37:42+00:00
+ai_modified: 2026-06-14 03:31:29+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -46,6 +46,7 @@ related_articles:
 - '[[predictive-processing-and-dualism]]'
 - '[[capability-division-problem]]'
 - '[[disappearance-voids]]'
+- '[[interaction-problem-across-traditions]]'
 title: Consciousness as Perceptual Architect
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -164,6 +165,7 @@ And both face the same explanatory gap. Predictive processing frameworks describ
 - [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — Predictive coding and the Map's framework
 - [filter-theory](/concepts/filter-theory/) — Consciousness as selective filter
 - [capability-division-problem](/voids/capability-division-problem/) — Brain-side vs. mind-side processing
+- [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/) — Related development: the "selection not injection" structure this article finds in perceptual constancy is the same structural insight the cross-traditional typology credits to its Type-2 reflection and Type-4 quantum-selection families
 - [default-mode-network](/concepts/default-mode-network/) — Meditator DMN plasticity as the self-narrative counterpart to the perceptual ratchet: attention-gated remodelling across developmental timescales
 - [self-construction-constructor](/apex/self-construction-constructor/) — Apex synthesis placing perceptual construction alongside the social, narrative, and representational registers: the percept is built, but the building presupposes a subject for whom there is something it is like to perceive
 

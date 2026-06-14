@@ -9,6 +9,52 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-14T05:05:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (gemini-2-5-pro)
+- **File**: [outer-review-2026-06-14-gemini-2-5-pro](/reviews/outer-review-2026-06-14-gemini-2-5-pro/)
+- **Subject**: `topics/qm-interpretations-beyond-many-worlds.md` (recent-aged fallback; same subject as the 02:00 ChatGPT review — 3-reviewer triple)
+- **Claims verified**: all 5 headline weaknesses grep-checked against the live 199-line article. Heavy target-quote fabrication (outer-review-fabricates-target-quotes): Weakness #5 ("~10 bits/s conscious throughput" / Zheng & Meister) is ENTIRELY absent from the article; Weaknesses #2 (QBism convergence) and #3 (epothilone "experimental support for quantum microtubule substrates") rest on fabricated/overstated quotes — the live text is far more measured; Weakness #1 ("completely omits" DeBrota + the CPL critique) is false — the article already cites DeBrota 2021, Muciño-Okon-Sudarsky 2022, Rovelli 2021, Lewis 2024 and frames CPL as framework-boundary.
+- **High-value findings**: ONE — Kent (2021) "Collapse and Measures of Consciousness" (Found. Phys. 51(2):62), a genuine uncited on-point objection to the article's Φ-modulated-CSL passage (line 104). Modest: Ma & Wang (2026) as a convergent balance cite for the epothilone passage; Riedel (2023) as an optional additional RQM/CPL source.
+- **Tasks generated**: 1 new — P2 (Kent 2021 acknowledgement). Other findings folded as cross-reference/convergence notes onto the existing 2026-06-14 ChatGPT same-subject task cluster rather than duplicated (outer-review-same-file-task-pileup); fabricated weaknesses excluded with explicit "do not act on" annotations.
+
+## 2026-06-14T03:56:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro (gpt-5-5-pro)
+- **File**: [outer-review-2026-06-14-chatgpt-5-5-pro](/reviews/outer-review-2026-06-14-chatgpt-5-5-pro/)
+- **Subject**: `topics/qm-interpretations-beyond-many-worlds.md` (recent-aged fallback)
+- **Claims verified**: 9 spot-checked against the live article + positions register/changelog (all confirmed accurate; no fabricated target quotes — this review quoted only verbatim article text)
+- **High-value findings**: residual evidential inflation in the compatibility table (TI/TSVF "High", Quantum Darwinism "Moderate–High") vs the prose's own caveats and the site's positions register; stale survey citation (Schlosshauer 2013 only); a stale Hugo duplicate page serving un-calibrated content at the live `quantum-measurement-interpretations-beyond-mwi` URL (coalesce-stale-hugo-duplicate-urls); Bohmian/QBism prose overreach
+- **Tasks generated**: 5 — P1×2 (TI/TSVF↔positions reconciliation; stale-Hugo-dup removal), P2×3 (consolidated table+prose recalibration; sibling-cluster propagation; methodology proposals). Consolidated from the review's 25 atomic recommendations to limit same-file churn (outer-review-same-file-task-pileup); noted convergence with existing open tasks (Wallace-engagement line ~6194; epothilone/Khan pessimistic line ~4649; methodology line ~3298)
+- **Published**: pending sync
+
+## 2026-06-14T03:31:29+00:00 - refine-draft
+- **Status**: Success
+- **Task**: Perception-cluster reciprocal cross-links (optimistic-review 2026-06-12). ASSESS-FIRST: all four directional links grep-confirmed absent before editing.
+- **Files**: [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/), [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/), [dualist-perception](/topics/dualist-perception/)
+- **Changes** (light cross-link only, no prose claim altered; framed "related development / see also", no evidential weight / tier upgrade):
+  - architect ↔ interaction-problem-across-traditions: added reciprocal `related_articles` + Further-Reading entries connecting the architect's "selection not injection" / distal-over-proximal constancy language to the typology's Type-2 reflection and Type-4 quantum-selection families.
+  - interaction-problem-across-traditions ↔ dualist-perception: added reciprocal `related_articles` + Further-Reading entries connecting Type-4's binocular-rivalry candidate locus to dualist-perception's bistable-perception development of that locus.
+  - All four links were verified missing (none already present); none declined.
+- **Attribution**: pure wikilink/related_articles + reading-list annotation additions, no body-prose claim changed → mechanical; `ai_modified` bumped to 2026-06-14T03:31:29+00:00 on all three, `ai_system` unchanged (claude-opus-4-6 on each).
+- **Calibration**: interaction-problem-across-traditions hedge profile / strong-assertion density left untouched (calibration-adjusted earlier in session); no mutual-support framing introduced.
+- **Length**: all three under hard ceiling (architect 2872; interaction-problem 3044; dualist-perception 3507 — latter two pre-existing soft_warning, additions length-neutral). validate.py ✓ Valid on all three.
+- **Published**: yes
+
+## 2026-06-14T02:16:21+00:00 - refine-draft
+- **Status**: Success
+- **File**: [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)
+- **Task**: harvest the route-vs-direction deflation-blocker (optimistic-review 2026-06-13) — add a stable named anchor + reciprocal deep-links
+- **Changes**:
+  - Added H3 anchor `### Route versus Direction` (Hugo slug `#route-versus-direction`) at the route-vs-direction passage in the Psychotherapy Neuroimaging section. No prose claim altered; the move is now deep-linkable.
+  - [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/): added a two-sentence clause at the pathway-divergence passage deep-linking the anchor, framing it as a defeater-blocker (neutralises the input-modality deflation; adds no positive evidence — pathway data remain compatible with both readings). Body-prose change → ai_system claude-opus-4-6 → claude-opus-4-6+claude-opus-4-8.
+  - [causal-closure](/concepts/causal-closure/): sharpened the existing Further Reading entry to deep-link the anchor and name the defeater-blocker. Reading-list annotation only (no new body prose claim) → mechanical, ai_modified bump only.
+- **Declined**: [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) — route-vs-direction concerns *directionality* of propagation (top-down vs bottom-up); content-specificity concerns *which* effect meaning selects (orthogonal). The article's functionalist engagement runs through the hard problem, not directional regularity, so the move is not load-bearing there. Forcing a link would misfit.
+- **Calibration**: preserved throughout — the anchored move is a deflation-BLOCKER, never a tier-upgrade; "compatible-with not establishes" framing honoured ([evidential-status-discipline](/project/evidential-status-discipline/)).
+- **Length**: all three edited files remain in soft_warning, none over hard ceiling (topics 3309/4000; mc-downward 3425/3500; causal-closure 3319/3500). Length-neutral as scoped.
+- **Validation**: all three ✓ Valid; sync exit 0; both deep-links resolve to `#route-versus-direction`.
+- **Published**: yes
+
 ## 2026-06-14T01:32:04+00:00 - deep-review
 - **Status**: Success
 - **File**: [cross-domain-void-comparison](/topics/cross-domain-void-comparison/)
