@@ -5,6 +5,17 @@ ai_modified: 2026-06-15T14:01:40+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-15T14:29:07+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/concept-of-consciousness-and-social-cognition]]
+- **Word count**: 2345 → 2345 (no change; 94% of 2500 soft threshold)
+- **Critical issues addressed**: 0 (none found — fourth deep review, converged article)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no-op pass is the correct convergence outcome)
+- **Citation web-verify**: The article's only change since the 2026-06-01 review was a cross-file spillover ref-swap from commit a6ce70b16 (deep-review of baseline-cognition.md on 2026-06-03), which replaced `Whiten, A. (2015)` with `Gruber, T., Zuberbühler, K., Clément, F., & van Schaik, C. (2015)` on the *Frontiers in Psychology* 6:91 paper. Web-verified at Frontiers (DOI 10.3389/fpsyg.2015.00091), PMC4319388, PubMed 25705199 — state: real-correct. The swap is a genuine fix of the recurring Whiten→Gruber famous-name conflation. Confirmed the conflation is now fully purged from the live (non-archive) corpus; remaining live "Whiten" cites refer to different real papers.
+- **Reasoning-mode**: engagement with the functionalist — Mode Three (framework-boundary marking); honest, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-15-concept-of-consciousness-and-social-cognition]]
+
 ## 2026-06-15T14:01:40+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/appetitive-void]]
