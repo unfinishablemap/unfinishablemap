@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Add reciprocal back-link from concepts/mine-ness.md to apex/self-construction-constructor.md
+- **Type**: refine-draft
+- **Notes**: The 2026-06-15 apex-evolve pass (commit a4bdb12dd) added a new outbound `[[mine-ness]]` cross-link into apex/self-construction-constructor.md (deploying the mine-ness/agency double dissociation to state the constructor asymmetry), but concepts/mine-ness.md does NOT back-link to that apex — verified `grep -c self-construction-constructor obsidian/concepts/mine-ness.md` = 0 on disk. The apex-evolve review note claimed "no new outbound cross-link debt" but only checked theory-of-mind and self-and-self-consciousness; the new mine-ness link is unreciprocated. Add a back-link in mine-ness.md's "## Further Reading" section (line ~122) pointing at the apex, framing the relevance (mine-ness as the for-me feature the constructor presupposes). mine-ness is well-integrated (11 inbound links, not an orphan); this is a single-link integration fix, not a rewrite. Do NOT expand the article — it is at accepted length (last_deep_review 2026-06-05).
+- **Source**: orphan_integration (cross-link debt from apex-evolve a4bdb12dd)
+- **Generated**: 2026-06-15
+
 ### ✓ 2026-06-13: Fix duplicate reference + minor repetition in topics/cross-species-behavioural-confidence-proxy-tests.md
 - **Type**: refine-draft
 - **Status**: ✓ RESOLVED-BY-CONSOLIDATION — the P2 pessimistic-fix refine pass (commit bf508d1c, same review) already did the mandatory parts: (a) deleted the byte-identical duplicate Reference and renumbered (verified: refs 16 and 17 are now distinct — Per-Cluster Independence Scoring vs Common-Cause Null); (b) resolved the "design audit's primary finding stated twice" repetition to a single instance. Part (c) was OPTIONAL (hedge "the cleanest existing instance" superlative) and is SKIPPED — the article grew to 3657w (91% of the 4000 hard ceiling) during the P2 pass, so I declined the optional growth; the superlative is mild and section-local. No separate refine needed.
