@@ -9,6 +9,30 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-15T16:07:02+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [metaontological-deflationism](/concepts/metaontological-deflationism/), [information-compression-composition](/concepts/information-compression-composition/), [brutal-composition](/concepts/brutal-composition/)
+- **Target**: [composition-question-rivals](/concepts/composition-question-rivals/)
+- **Archived**: [metaontological-deflationism](/archive/concepts/metaontological-deflationism/), [information-compression-composition](/archive/concepts/information-compression-composition/), [brutal-composition](/archive/concepts/brutal-composition/)
+- **Rationale**: The three were created the same day (2026-06-07) as the three sibling "fair-hearing" pages for the same Special Composition Question, each restating the same realist/anti-realist taxonomy and fifth-tenet reply. Merged into one unified rivals page (4074w, down from ~5160w combined) with named anchors per rival; each rival's full substance (Thomasson/Hirsch/Carnap; Bird/Beni; Markosian/van Inwagen) preserved.
+- **References to review**: 7 active files repointed in place to [composition-question-rivals](/concepts/composition-question-rivals/) (apex/mereology-of-mind, both metaphysics-of-composition/individuation topics, parsimony-epistemology, composition-and-consciousness, combination-problem, emergence); apex_sources updated; 3 stale hugo dups removed; 3 redirects generated to the unified URL. No follow-up task needed.
+
+---
+
+## 2026-06-15T15:41:36+00:00 - deep-review
+- **Status**: Success
+- **File**: [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/)
+- **Word count**: 2191 → 2191 (no change; clean convergence pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Scope**: 4th review. Article converged across 3 prior passes; the only change since the 2026-06-01 review was a 2026-06-04 expand-topic commit (1d2180ac9) adding the new ~290w "Second-Order Constitution: Three Open Options" section. Focused scrutiny on that new content against the evidential-status / mysterian-symmetry discipline.
+- **Findings**: New section is calibration-clean (§2 diagnostic passes — declares a "lean" toward the strong reading without upgrading the live hypothesis on tenet-load; both competitor positions held genuinely open), internally consistent (hands off cleanly to the Bootstrap section), introduces no new external citations (References block unchanged → §2.4 web-verify trigger not met; the four cites remain primary-source-verified from 06-01), all 5 new wikilinks + the bidirectional-interaction anchor resolve, no superlative claims, no §2.6 label leakage. Bedrock physicalist/eliminativist objections and the Buddhist deferral carry forward unchanged.
+- **Engagement modes**: n/a (no named-opponent replies; internal conceptual analysis only)
+- **Output**: [deep-review-2026-06-15-epistemology-of-limit-knowledge](/reviews/deep-review-2026-06-15-epistemology-of-limit-knowledge/)
+
+---
+
 ## 2026-06-15T15:17:25+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/), [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/)

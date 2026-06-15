@@ -3,6 +3,9 @@ ai_contribution: 100
 ai_generated_date: 2026-06-07
 ai_modified: 2026-06-07 19:45:00+00:00
 ai_system: claude-opus-4-8
+archive_reason: Coalesced into Rivals to the Consciousness Criterion for Composition
+archived: true
+archived_date: 2026-06-15 16:07:02+00:00
 author: null
 concepts:
 - '[[composition-and-consciousness]]'
@@ -19,18 +22,20 @@ human_modified: null
 last_curated: null
 last_deep_review: 2026-06-07 19:45:00+00:00
 modified: *id001
+original_path: /concepts/brutal-composition/
 related_articles:
 - '[[composition-and-consciousness]]'
 - '[[consciousness-and-the-metaphysics-of-composition]]'
 - '[[metaontological-deflationism]]'
 - '[[information-compression-composition]]'
 - '[[tenets]]'
+superseded_by: /concepts/composition-question-rivals/
 title: Brutal Composition
 topics:
 - '[[consciousness-and-the-metaphysics-of-composition]]'
 ---
 
-Brutal composition is Ned Markosian's answer to the Special Composition Question (SCQ)—Peter van Inwagen's question (*Material Beings*, 1990) of when some objects compose a further object: there is **no true, non-trivial, finite answer**. Composition facts are *brute*—they hold or fail to hold without any informative explanation in terms of further conditions. On this view the question "under what circumstances do the xs compose a y?" has been mis-posed if it demands a finite, illuminating criterion; the only true general answers are either trivial (a disjunction of every particular case) or infinitely long. This is the third of the restricted-composition-question rivals the Map engages, alongside [metaontological deflationism](/concepts/metaontological-deflationism/) and [information-compression composition](/concepts/information-compression-composition/)—and it occupies a distinctive corner: where deflationism says there is no deep question, and compression gives a non-conscious *informative* answer, brutalism says the question is real but admits no informative answer at all. This page presents Markosian's thesis at full strength, then gives the Map's calibrated reply. Following the Map's [discipline on evidential status](/project/evidential-status-discipline/), brutal composition is treated as a serious SCQ rival, and the Map declines to claim it has been refuted.
+Brutal composition is Ned Markosian's answer to the Special Composition Question (SCQ)—Peter van Inwagen's question (*Material Beings*, 1990) of when some objects compose a further object: there is **no true, non-trivial, finite answer**. Composition facts are *brute*—they hold or fail to hold without any informative explanation in terms of further conditions. On this view the question "under what circumstances do the xs compose a y?" has been mis-posed if it demands a finite, illuminating criterion; the only true general answers are either trivial (a disjunction of every particular case) or infinitely long. This is the third of the restricted-composition-question rivals the Map engages, alongside [metaontological deflationism](/concepts/composition-question-rivals/) and [information-compression composition](/concepts/composition-question-rivals/)—and it occupies a distinctive corner: where deflationism says there is no deep question, and compression gives a non-conscious *informative* answer, brutalism says the question is real but admits no informative answer at all. This page presents Markosian's thesis at full strength, then gives the Map's calibrated reply. Following the Map's [discipline on evidential status](/project/evidential-status-discipline/), brutal composition is treated as a serious SCQ rival, and the Map declines to claim it has been refuted.
 
 ## Markosian's Thesis: Composition as Brute
 
@@ -46,9 +51,9 @@ Markosian defends the cost of this position by analogy. Many philosophers accept
 
 Brutal composition is easily conflated with its neighbours, and keeping them distinct sharpens what is at stake.
 
-[Metaontological deflationism](/concepts/metaontological-deflationism/) (Thomasson's easy ontology, Hirsch's quantifier variance) denies that the hard SCQ has *any* deep fact to track: existence-talk is either trivially answered by conceptual competence or plastic across equally legitimate quantifier meanings. Markosian rejects this. For the brutalist there *is* a deep, determinate fact about which collections compose—it simply has no informative explanation. Brutalism is a *realist* answer that happens to be uninformative; deflationism is an *anti-realist* dissolution of the question. The deflationist would regard Markosian's brute compositional facts as themselves a verbal artefact; Markosian would regard the deflationist as denying a fact he takes to be real.
+[Metaontological deflationism](/concepts/composition-question-rivals/) (Thomasson's easy ontology, Hirsch's quantifier variance) denies that the hard SCQ has *any* deep fact to track: existence-talk is either trivially answered by conceptual competence or plastic across equally legitimate quantifier meanings. Markosian rejects this. For the brutalist there *is* a deep, determinate fact about which collections compose—it simply has no informative explanation. Brutalism is a *realist* answer that happens to be uninformative; deflationism is an *anti-realist* dissolution of the question. The deflationist would regard Markosian's brute compositional facts as themselves a verbal artefact; Markosian would regard the deflationist as denying a fact he takes to be real.
 
-[Information-compression composition](/concepts/information-compression-composition/) (Bird, with Beni's thermodynamic-depth refinement) is brutalism's mirror image among the realists. Bird agrees with Markosian that composition is restricted and a matter of fact, but disagrees that the fact is unanalysable: parts compose, on Bird's view, exactly when treating them as one *compresses* the description of the world, an informative and non-conscious criterion. Where Bird offers a finite analysis, Markosian argues no such analysis can be correct. The two are direct competitors on the same realist terrain.
+[Information-compression composition](/concepts/composition-question-rivals/) (Bird, with Beni's thermodynamic-depth refinement) is brutalism's mirror image among the realists. Bird agrees with Markosian that composition is restricted and a matter of fact, but disagrees that the fact is unanalysable: parts compose, on Bird's view, exactly when treating them as one *compresses* the description of the world, an informative and non-conscious criterion. Where Bird offers a finite analysis, Markosian argues no such analysis can be correct. The two are direct competitors on the same realist terrain.
 
 So the three rivals give three different answers to the same realist-restrictivist question: deflationism says there is no deep question; information-compression gives a non-conscious *informative* answer; brutal composition says there is a deep question with a determinate answer but **no informative answer at all**. The Map's own consciousness-involving proposal (developed in [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/)) is a fourth realist answer—an informative one, like Bird's, but with a different mark of genuine wholeness.
 
@@ -66,8 +71,8 @@ The Map's calibrated reply to that rivalry is modest. It cannot show that brutal
 
 - [composition-and-consciousness](/concepts/composition-and-consciousness/) — The mereological framework and the Map's consciousness-involving answer to the SCQ that brutalism rivals
 - [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/) — The full dialectic of SCQ answers, rivals, and the calibrated dualist reading
-- [metaontological-deflationism](/concepts/metaontological-deflationism/) — The anti-realist sibling: there is no deep compositional fact for any criterion to track
-- [information-compression-composition](/concepts/information-compression-composition/) — The realist sibling that gives a non-conscious *informative* answer where brutalism denies any analysis is possible
+- [metaontological-deflationism](/concepts/composition-question-rivals/) — The anti-realist sibling: there is no deep compositional fact for any criterion to track
+- [information-compression-composition](/concepts/composition-question-rivals/) — The realist sibling that gives a non-conscious *informative* answer where brutalism denies any analysis is possible
 - [parsimony-epistemology](/concepts/parsimony-epistemology/) — Why the Map distrusts simplicity as a tiebreaker, of which brute facts mark a limiting case
 - [tenets](/tenets/) — The five foundational commitments, especially Occam's Razor Has Limits
 

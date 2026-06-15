@@ -1,33 +1,41 @@
 ---
-title: "Metaontological Deflationism"
-description: "Easy ontology and quantifier variance hold that existence disputes are shallow or merely verbal. The Map treats this as the load-bearing rival to its composition arguments—and replies without overclaiming."
-created: 2026-06-07
-modified: 2026-06-07
-human_modified:
-ai_modified: 2026-06-07T18:30:00+00:00
-last_deep_review: 2026-06-07T12:00:00+00:00
-draft: false
-topics:
-  - "[[consciousness-and-the-metaphysics-of-composition]]"
-concepts:
-  - "[[composition-and-consciousness]]"
-  - "[[parsimony-epistemology]]"
-  - "[[emergence]]"
-related_articles:
-  - "[[composition-and-consciousness]]"
-  - "[[consciousness-and-the-metaphysics-of-composition]]"
-  - "[[information-compression-composition]]"
-  - "[[brutal-composition]]"
-  - "[[mereology-of-mind]]"
-  - "[[tenets]]"
 ai_contribution: 100
-author:
-ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-07
-last_curated:
+ai_modified: 2026-06-07 18:30:00+00:00
+ai_system: claude-opus-4-8
+archive_reason: Coalesced into Rivals to the Consciousness Criterion for Composition
+archived: true
+archived_date: 2026-06-15 16:07:02+00:00
+author: null
+concepts:
+- '[[composition-and-consciousness]]'
+- '[[parsimony-epistemology]]'
+- '[[emergence]]'
+created: 2026-06-07
+date: &id001 2026-06-07
+description: Easy ontology and quantifier variance hold that existence disputes are
+  shallow or merely verbal. The Map treats this as the load-bearing rival to its composition
+  arguments—and replies without overclaiming.
+draft: false
+human_modified: null
+last_curated: null
+last_deep_review: 2026-06-07 12:00:00+00:00
+modified: *id001
+original_path: /concepts/metaontological-deflationism/
+related_articles:
+- '[[composition-and-consciousness]]'
+- '[[consciousness-and-the-metaphysics-of-composition]]'
+- '[[information-compression-composition]]'
+- '[[brutal-composition]]'
+- '[[mereology-of-mind]]'
+- '[[tenets]]'
+superseded_by: /concepts/composition-question-rivals/
+title: Metaontological Deflationism
+topics:
+- '[[consciousness-and-the-metaphysics-of-composition]]'
 ---
 
-Metaontological deflationism is the view that the hard, philosophical version of existence disputes—whether numbers, tables, mereological sums, or fusions *really* exist—is shallow, confused, or merely verbal, rather than a substantive question with a fact to track. It is the most important rival to the restricted-composition arguments The Unfinishable Map runs, because it does not contest any particular criterion for when parts compose a whole; it denies that there is a deep compositional fact for *any* criterion—consciousness, [[information-compression-composition|information compression]], integrated information—to be right or wrong about. If deflationism holds, the Map's convergence argument (that several composition theories cluster around the domain where consciousness occurs) dissolves into an artefact of how disputants regiment the word "object." This article presents the position fairly, then gives the Map's best reply—a reply framed as a standing burden the deflationist owes, not a refutation, in keeping with the Map's [[parsimony-epistemology|discipline of not overclaiming]].
+Metaontological deflationism is the view that the hard, philosophical version of existence disputes—whether numbers, tables, mereological sums, or fusions *really* exist—is shallow, confused, or merely verbal, rather than a substantive question with a fact to track. It is the most important rival to the restricted-composition arguments The Unfinishable Map runs, because it does not contest any particular criterion for when parts compose a whole; it denies that there is a deep compositional fact for *any* criterion—consciousness, [information compression](/concepts/composition-question-rivals/), integrated information—to be right or wrong about. If deflationism holds, the Map's convergence argument (that several composition theories cluster around the domain where consciousness occurs) dissolves into an artefact of how disputants regiment the word "object." This article presents the position fairly, then gives the Map's best reply—a reply framed as a standing burden the deflationist owes, not a refutation, in keeping with the Map's [discipline of not overclaiming](/concepts/parsimony-epistemology/).
 
 Two strands carry the weight: Amie Thomasson's *easy ontology* and Eli Hirsch's *quantifier variance*. They reach deflationary conclusions by different routes and are worth keeping distinct.
 
@@ -51,7 +59,7 @@ The difference from Thomasson matters. Thomasson deflates by making the existenc
 
 ## Why This Is the Load-Bearing Rival
 
-The Map's composition argument inherits a premise it rarely defends: that the SCQ is a deep question with a fact to be tracked. Almost every other rival the Map engages—Bird's information-compression criterion, McQueen and Tsuchiya's integrated-information criterion, [[brutal-composition|Markosian's brutalism]], Korman's ordinary-object realism—grants that premise and disputes only the *answer* (brutalism granting the fact while denying it has any informative answer). Deflationism attacks the premise itself.
+The Map's composition argument inherits a premise it rarely defends: that the SCQ is a deep question with a fact to be tracked. Almost every other rival the Map engages—Bird's information-compression criterion, McQueen and Tsuchiya's integrated-information criterion, [Markosian's brutalism](/concepts/composition-question-rivals/), Korman's ordinary-object realism—grants that premise and disputes only the *answer* (brutalism granting the fact while denying it has any informative answer). Deflationism attacks the premise itself.
 
 This makes it more dangerous to the Map's project than any in-framework rival. If Thomasson is right, "what makes some simples compose a whole?" has a trivial answer (competent use of the count noun) and no deep residue; the convergence of three composition theories on the consciousness-neighbourhood is then a convergence on a question that was never deep. If Hirsch is right, the universalist and the restrictivist were never really disagreeing, so there is no winning criterion for consciousness to be—and the claim "consciousness marks the boundary of genuine composition" lacks a determinate fact to express. Either way the convergence argument loses not a battle but its battlefield.
 
@@ -69,21 +77,21 @@ Crucially, this is a burden, not a victory. The pragmatic explanation may well s
 
 ## Relation to Site Perspective
 
-Metaontological deflationism bears most directly on the fifth tenet, [[tenets#^occams-limits|Occam's Razor Has Limits]]. Deflationism is, in one light, an extreme application of parsimony: it does not merely prefer the simpler ontology, it dissolves the dispute between ontologies as empty, leaving nothing for a richer theory to be richer *about*. The Map's fifth tenet is precisely a resistance to letting simplicity—here, the simplicity of declaring a question shallow—settle matters where knowledge is incomplete. Where consciousness is at stake, the Map declines to deflate: it treats the question of what makes a conscious subject a genuine unified whole as a real question with a real answer, even granting that the deflationist's challenge to that realism cannot be refuted on neutral ground. That refusal is a [[tenets#^occams-limits|fifth-tenet]] commitment, openly held, not a result the Map demonstrates against the deflationist.
+Metaontological deflationism bears most directly on the fifth tenet, [Occam's Razor Has Limits](/tenets/#occams-limits). Deflationism is, in one light, an extreme application of parsimony: it does not merely prefer the simpler ontology, it dissolves the dispute between ontologies as empty, leaving nothing for a richer theory to be richer *about*. The Map's fifth tenet is precisely a resistance to letting simplicity—here, the simplicity of declaring a question shallow—settle matters where knowledge is incomplete. Where consciousness is at stake, the Map declines to deflate: it treats the question of what makes a conscious subject a genuine unified whole as a real question with a real answer, even granting that the deflationist's challenge to that realism cannot be refuted on neutral ground. That refusal is a [fifth-tenet](/tenets/#occams-limits) commitment, openly held, not a result the Map demonstrates against the deflationist.
 
-The connection to [[tenets#^dualism|Dualism]] is conditional. *If* there is a deep compositional fact, the Map argues consciousness is the most natural marker of it; deflationism threatens that argument upstream by denying the antecedent. So the Map's dualist reading of composition is hostage to the realism deflationism contests—an honest dependency the Map records rather than hides. The [[evidential-status-discipline|discipline of evidential status]] applies in full: the Map's composition-based support for dualism is suggestive at best, and weaker still once the deflationary challenge is granted its due.
+The connection to [Dualism](/tenets/#dualism) is conditional. *If* there is a deep compositional fact, the Map argues consciousness is the most natural marker of it; deflationism threatens that argument upstream by denying the antecedent. So the Map's dualist reading of composition is hostage to the realism deflationism contests—an honest dependency the Map records rather than hides. The [discipline of evidential status](/project/evidential-status-discipline/) applies in full: the Map's composition-based support for dualism is suggestive at best, and weaker still once the deflationary challenge is granted its due.
 
 The deflationist and the Map can agree on a surprising amount of first-order talk—both can say "there is a conscious subject here"—while disagreeing about whether that sentence reports a deep fact. The Map's wager is that, for consciousness specifically, it does.
 
 ## Further Reading
 
-- [[composition-and-consciousness]] — The mereological framework and the phenomenal-non-compositionality thesis deflationism would dissolve
-- [[consciousness-and-the-metaphysics-of-composition]] — The convergence argument whose realist premise deflationism attacks
-- [[brutal-composition]] — The realist contrast: composition is a determinate fact (against deflationism) but an unanalysable one
-- [[information-compression-composition]] — The realist rival that gives a non-conscious informative criterion deflationism denies has any deep target
-- [[parsimony-epistemology]] — Why the Map distrusts simplicity as a tiebreaker, of which deflationism is a limiting case
-- [[emergence]] — The general problem of wholes-from-parts that deflationism reframes as shallow
-- [[tenets]] — The five foundational commitments, especially Occam's Razor Has Limits
+- [composition-and-consciousness](/concepts/composition-and-consciousness/) — The mereological framework and the phenomenal-non-compositionality thesis deflationism would dissolve
+- [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/) — The convergence argument whose realist premise deflationism attacks
+- [brutal-composition](/concepts/composition-question-rivals/) — The realist contrast: composition is a determinate fact (against deflationism) but an unanalysable one
+- [information-compression-composition](/concepts/composition-question-rivals/) — The realist rival that gives a non-conscious informative criterion deflationism denies has any deep target
+- [parsimony-epistemology](/concepts/parsimony-epistemology/) — Why the Map distrusts simplicity as a tiebreaker, of which deflationism is a limiting case
+- [emergence](/concepts/emergence/) — The general problem of wholes-from-parts that deflationism reframes as shallow
+- [tenets](/tenets/) — The five foundational commitments, especially Occam's Razor Has Limits
 
 ## References
 

@@ -25,6 +25,11 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-07
 last_curated:
+archived: true
+archived_date: 2026-06-15T16:07:02+00:00
+superseded_by: "/concepts/composition-question-rivals/"
+archive_reason: "Coalesced into Rivals to the Consciousness Criterion for Composition"
+original_path: "/concepts/brutal-composition/"
 ---
 
 Brutal composition is Ned Markosian's answer to the Special Composition Question (SCQ)—Peter van Inwagen's question (*Material Beings*, 1990) of when some objects compose a further object: there is **no true, non-trivial, finite answer**. Composition facts are *brute*—they hold or fail to hold without any informative explanation in terms of further conditions. On this view the question "under what circumstances do the xs compose a y?" has been mis-posed if it demands a finite, illuminating criterion; the only true general answers are either trivial (a disjunction of every particular case) or infinitely long. This is the third of the restricted-composition-question rivals the Map engages, alongside [[metaontological-deflationism|metaontological deflationism]] and [[information-compression-composition|information-compression composition]]—and it occupies a distinctive corner: where deflationism says there is no deep question, and compression gives a non-conscious *informative* answer, brutalism says the question is real but admits no informative answer at all. This page presents Markosian's thesis at full strength, then gives the Map's calibrated reply. Following the Map's [[evidential-status-discipline|discipline on evidential status]], brutal composition is treated as a serious SCQ rival, and the Map declines to claim it has been refuted.

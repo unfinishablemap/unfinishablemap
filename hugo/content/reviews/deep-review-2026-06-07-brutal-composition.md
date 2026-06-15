@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-06-07
-**Article**: [Brutal Composition](/concepts/brutal-composition/)
+**Article**: [Brutal Composition](/concepts/composition-question-rivals/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

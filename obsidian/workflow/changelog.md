@@ -5,6 +5,16 @@ ai_modified: 2026-06-15 15:17:25+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-15T16:07:02+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/metaontological-deflationism]], [[concepts/information-compression-composition]], [[concepts/brutal-composition]]
+- **Target**: [[concepts/composition-question-rivals]]
+- **Archived**: [[archive/concepts/metaontological-deflationism]], [[archive/concepts/information-compression-composition]], [[archive/concepts/brutal-composition]]
+- **Rationale**: The three were created the same day (2026-06-07) as the three sibling "fair-hearing" pages for the same Special Composition Question, each restating the same realist/anti-realist taxonomy and fifth-tenet reply. Merged into one unified rivals page (4074w, down from ~5160w combined) with named anchors per rival; each rival's full substance (Thomasson/Hirsch/Carnap; Bird/Beni; Markosian/van Inwagen) preserved.
+- **References to review**: 7 active files repointed in place to [[composition-question-rivals]] (apex/mereology-of-mind, both metaphysics-of-composition/individuation topics, parsimony-epistemology, composition-and-consciousness, combination-problem, emergence); apex_sources updated; 3 stale hugo dups removed; 3 redirects generated to the unified URL. No follow-up task needed.
+
+---
+
 ## 2026-06-15T15:41:36+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/epistemology-of-limit-knowledge]]

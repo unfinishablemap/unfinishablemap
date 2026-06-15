@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-06-07
-**Article**: [Metaontological Deflationism](/concepts/metaontological-deflationism/)
+**Article**: [Metaontological Deflationism](/concepts/composition-question-rivals/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

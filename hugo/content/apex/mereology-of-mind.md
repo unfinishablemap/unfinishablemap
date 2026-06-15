@@ -8,8 +8,7 @@ apex_sources:
 - topics/consciousness-and-the-metaphysics-of-composition
 - topics/consciousness-and-the-metaphysics-of-individuation
 - concepts/composition-and-consciousness
-- concepts/information-compression-composition
-- concepts/metaontological-deflationism
+- concepts/composition-question-rivals
 - concepts/combination-problem
 apex_thesis: Composition (what makes a whole?) and individuation (what bounds a subject?)
   are two faces of a single mereological question that consciousness answers in a
@@ -33,8 +32,7 @@ last_deep_review: 2026-06-10 05:54:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[information-compression-composition]]'
-- '[[metaontological-deflationism]]'
+- '[[composition-question-rivals]]'
 - '[[panpsychisms-combination-problem]]'
 - '[[identity-across-transformations]]'
 - '[[process-and-consciousness]]'
@@ -56,7 +54,7 @@ The Special Composition Question — Peter van Inwagen's name (*Material Beings*
 
 What makes the restricted answer interesting for the philosophy of mind is where its most serious proposals land. As [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/) sets out in full, three programmes that share almost no premises arrive in a common neighbourhood. Van Inwagen's organicism restricts composition to cases where the activity of simples constitutes a *life*. Trenton Merricks' eliminativism (*Objects and Persons*, 2001) keeps only composites with irreducible causal powers, and argues that conscious organisms alone escape elimination because consciousness "does not even globally supervene on microscopic physical properties." Kelvin McQueen and Naotsugu Tsuchiya (2023) make composition track maximised integrated information (Φ) — the integrated structure that consciousness is *suspected* to involve — though they pointedly decouple that composition criterion from consciousness itself.
 
-The convergence is real only after abstraction: van Inwagen reaches organic life-unity, McQueen and Tsuchiya reach an information measure they refuse to identify with experience, and only Merricks names consciousness directly. The honest reading is that these heterogeneous criteria cluster around *the domain where consciousness tends to occur*, not that they jointly prove consciousness is the criterion. And the convergence faces two strong rivals the Map does not defeat on neutral ground. The first is [information-compression composition](/concepts/information-compression-composition/): Alexander Bird's thesis (2023) that parts compose exactly when treating them as one compresses the world's description — a fully non-conscious, ostensibly objective answer, refined by Majid Beni's thermodynamic-depth constraint (2025). The second, deeper, rival is [metaontological deflationism](/concepts/metaontological-deflationism/): Amie Thomasson's easy ontology and Eli Hirsch's quantifier variance hold that there is no deep compositional fact for *any* criterion to track. If the deflationist is right, the convergence dissolves into an artefact of how disputants regiment the word "object." The Map's reply to both is a framework-boundary one, not a refutation — it presses the standing burden of explaining why our compositional intuitions cluster so persistently around organised, integrated systems, while granting that pressing a burden is not winning the argument.
+The convergence is real only after abstraction: van Inwagen reaches organic life-unity, McQueen and Tsuchiya reach an information measure they refuse to identify with experience, and only Merricks names consciousness directly. The honest reading is that these heterogeneous criteria cluster around *the domain where consciousness tends to occur*, not that they jointly prove consciousness is the criterion. And the convergence faces strong [rivals the Map does not defeat on neutral ground](/concepts/composition-question-rivals/). The first is [information-compression composition](/concepts/composition-question-rivals/#information-compression-composition): Alexander Bird's thesis (2023) that parts compose exactly when treating them as one compresses the world's description — a fully non-conscious, ostensibly objective answer, refined by Majid Beni's thermodynamic-depth constraint (2025). The second, deeper, rival is [metaontological deflationism](/concepts/composition-question-rivals/#metaontological-deflationism): Amie Thomasson's easy ontology and Eli Hirsch's quantifier variance hold that there is no deep compositional fact for *any* criterion to track. If the deflationist is right, the convergence dissolves into an artefact of how disputants regiment the word "object." The Map's reply to both is a framework-boundary one, not a refutation — it presses the standing burden of explaining why our compositional intuitions cluster so persistently around organised, integrated systems, while granting that pressing a burden is not winning the argument.
 
 ## The Downward Question: What Bounds a Subject?
 
@@ -103,8 +101,7 @@ This synthesis weaves together:
 - [Consciousness and the Metaphysics of Composition](/topics/consciousness-and-the-metaphysics-of-composition/) — the upward question and the three-route convergence
 - [Consciousness and the Metaphysics of Individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — the downward question and the de-combination hinge
 - [Composition and Consciousness](/concepts/composition-and-consciousness/) — phenomenal non-compositionality, the double-role thesis
-- [Information-Compression Composition](/concepts/information-compression-composition/) — the chief non-conscious rival on the upward question
-- [Metaontological Deflationism](/concepts/metaontological-deflationism/) — the deeper rival that denies any compositional fact
+- [Rivals to the Consciousness Criterion](/concepts/composition-question-rivals/) — the chief non-conscious rival (information-compression) and the deeper rival that denies any compositional fact (deflationism), plus Markosian's brutalism
 - [The Combination Problem](/concepts/combination-problem/) — the upward limiting case, and the structural source of de-combination
 
 ## References

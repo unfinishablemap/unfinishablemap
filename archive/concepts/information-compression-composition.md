@@ -26,6 +26,11 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-07
 last_curated:
+archived: true
+archived_date: 2026-06-15T16:07:02+00:00
+superseded_by: "/concepts/composition-question-rivals/"
+archive_reason: "Coalesced into Rivals to the Consciousness Criterion for Composition"
+original_path: "/concepts/information-compression-composition/"
 ---
 
 Information-compression composition is Alexander Bird's answer to the Special Composition Question (SCQ)—Peter van Inwagen's question (*Material Beings*, 1990) of when some objects compose a further object: some objects compose a whole when, and because, treating them as a single object lets you compress the description of the world. It is the leading *non-conscious* answer to the question of when parts form wholes—and so it is the chief in-framework rival to The Unfinishable Map's own proposal that consciousness, or the integrated structure associated with it, marks genuine composition (developed in [[consciousness-and-the-metaphysics-of-composition]]). This page presents Bird's thesis at full strength, adds Majid Beni's thermodynamic-depth constraint on it, and then gives the Map's calibrated reply. That reply is deliberately modest: whether organisation-without-consciousness can be the *whole* story is precisely the open question, and the Map declines to settle it by assertion. Following the Map's [[evidential-status-discipline|discipline on evidential status]], the compression answer is treated as a serious rival to out-explain, not a position to defeat by stipulation.

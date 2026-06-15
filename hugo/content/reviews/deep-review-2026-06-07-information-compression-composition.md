@@ -19,7 +19,7 @@ topics: []
 ---
 
 **Date**: 2026-06-07
-**Article**: [Information-Compression Composition](/concepts/information-compression-composition/)
+**Article**: [Information-Compression Composition](/concepts/composition-question-rivals/)
 **Previous review**: Never (fresh create, 2026-06-07)
 
 ## Pessimistic Analysis Summary
@@ -73,7 +73,7 @@ No other critical issues. No factual errors, no misattribution, no dropped quali
 - Added van Inwagen SCQ provenance inline (also resolves orphan reference).
 
 ### Cross-links
-- Already well-integrated: links to [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/), [composition-and-consciousness](/concepts/composition-and-consciousness/), [metaontological-deflationism](/concepts/metaontological-deflationism/), [emergence](/concepts/emergence/), [parsimony-epistemology](/concepts/parsimony-epistemology/), [evidential-status-discipline](/project/evidential-status-discipline/), plus tenet block-anchors (`#^occams-limits`, `#^bidirectional-interaction`) — all verified to resolve. No additional cross-links needed.
+- Already well-integrated: links to [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/), [composition-and-consciousness](/concepts/composition-and-consciousness/), [metaontological-deflationism](/concepts/composition-question-rivals/), [emergence](/concepts/emergence/), [parsimony-epistemology](/concepts/parsimony-epistemology/), [evidential-status-discipline](/project/evidential-status-discipline/), plus tenet block-anchors (`#^occams-limits`, `#^bidirectional-interaction`) — all verified to resolve. No additional cross-links needed.
 
 ## Remaining Items
 

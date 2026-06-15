@@ -3,6 +3,9 @@ ai_contribution: 100
 ai_generated_date: 2026-06-07
 ai_modified: 2026-06-07 18:30:00+00:00
 ai_system: claude-opus-4-8
+archive_reason: Coalesced into Rivals to the Consciousness Criterion for Composition
+archived: true
+archived_date: 2026-06-15 16:07:02+00:00
 author: null
 concepts:
 - '[[composition-and-consciousness]]'
@@ -19,6 +22,7 @@ human_modified: null
 last_curated: null
 last_deep_review: 2026-06-07 16:34:56+00:00
 modified: *id001
+original_path: /concepts/information-compression-composition/
 related_articles:
 - '[[composition-and-consciousness]]'
 - '[[consciousness-and-the-metaphysics-of-composition]]'
@@ -26,6 +30,7 @@ related_articles:
 - '[[brutal-composition]]'
 - '[[mereology-of-mind]]'
 - '[[tenets]]'
+superseded_by: /concepts/composition-question-rivals/
 title: Information-Compression Composition
 topics:
 - '[[consciousness-and-the-metaphysics-of-composition]]'
@@ -65,14 +70,14 @@ First, what Bird and Beni capture is *organisation*—correlational compressibil
 
 Second, the compression answer and the Map's [convergence argument](/topics/consciousness-and-the-metaphysics-of-composition/) are, over the central inanimate cases, observationally matched—all three count pebbles and molecules as wholes and shipstars as non-wholes. (There is no single "compression verdict" at the inanimate margins: Bird's permissive criterion counts every compressible plurality, whereas Beni's narrower FEP/entropy constraint admits only entropy-minimising functional systems, so the two rivals already diverge on the boundary before the Map's criterion enters.) The disagreement with the Map bites only where consciousness enters, and there the Map's preference for a consciousness-involving criterion is openly tenet-driven (Dualism, plus the [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction)'s claim that conscious wholes have causal powers their parts lack) rather than forced by the compositional data. Saying otherwise would overclaim.
 
-The compression answer also has a deflationist relative worth distinguishing. [Metaontological deflationism](/concepts/metaontological-deflationism/) denies that the SCQ has any deep answer for *any* criterion to track—compression included. Bird and Beni, by contrast, are *realists* about composition who think the deep question has a non-conscious answer. So the Map faces two distinct rivals: the deflationist who says there is no fact here, and the compressionist who says there is a fact and it is about organisation, not consciousness. A third realist rival, [Markosian's brutalism](/concepts/brutal-composition/), agrees a determinate fact exists but denies that *any* informative criterion—compression included—captures it. The Map must out-explain all three, and on its own discipline it has refuted none.
+The compression answer also has a deflationist relative worth distinguishing. [Metaontological deflationism](/concepts/composition-question-rivals/) denies that the SCQ has any deep answer for *any* criterion to track—compression included. Bird and Beni, by contrast, are *realists* about composition who think the deep question has a non-conscious answer. So the Map faces two distinct rivals: the deflationist who says there is no fact here, and the compressionist who says there is a fact and it is about organisation, not consciousness. A third realist rival, [Markosian's brutalism](/concepts/composition-question-rivals/), agrees a determinate fact exists but denies that *any* informative criterion—compression included—captures it. The Map must out-explain all three, and on its own discipline it has refuted none.
 
 ## Further Reading
 
 - [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/) — The full dialectic: the three consciousness-involving routes, the rivals, and the calibrated case for the dualist reading
 - [composition-and-consciousness](/concepts/composition-and-consciousness/) — The mereological framework and phenomenal non-compositionality
-- [metaontological-deflationism](/concepts/metaontological-deflationism/) — The sibling rival: existence disputes may be shallow or merely verbal, so no criterion tracks a deep fact
-- [brutal-composition](/concepts/brutal-composition/) — The third sibling rival: composition is real but admits no informative criterion at all, where compression offers one
+- [metaontological-deflationism](/concepts/composition-question-rivals/) — The sibling rival: existence disputes may be shallow or merely verbal, so no criterion tracks a deep fact
+- [brutal-composition](/concepts/composition-question-rivals/) — The third sibling rival: composition is real but admits no informative criterion at all, where compression offers one
 - [emergence](/concepts/emergence/) — The general problem of deriving wholes from parts
 - [parsimony-epistemology](/concepts/parsimony-epistemology/) — Why the Map will not let the simpler ontology settle the question by itself
 

@@ -52,21 +52,21 @@ The article briefly distinguishes the deflationist rival (line 62) but does not 
 ## Critical Issues
 
 ### Issue 1: Core anti-compression thesis stated as if framework-neutral
-- **File**: [concepts/information-compression-composition.md](/concepts/information-compression-composition/)
+- **File**: [concepts/information-compression-composition.md](/concepts/composition-question-rivals/)
 - **Location**: Line 58 — "two experiential viewpoints do not compress into a third the way two grains' trajectories compress into a pebble's."
 - **Problem**: This is the load-bearing claim of the Map's reply and it is delivered as an intuition-pump analogy rather than an argument. The article does flag it ("The Map posits this; it does not establish it on the rivals' own terms"), so this is not boundary-substitution — but the *placement* invites the reader to take the analogy as having done in-framework work it has not. A compressionist would say a unified viewpoint is the paradigm of efficient compression, so the example arguably cuts the other way.
 - **Severity**: Medium
 - **Recommendation**: In a `refine-draft` pass, add one or two sentences either (a) giving the actual argument for why experiential unity is not a compression relation (e.g. the privacy/first-person-givenness disanalogy), or (b) explicitly conceding the analogy is illustrative of the Map's posit, not evidence for it. Do not strengthen by adding hedges (over-hedge risk); strengthen by supplying the bridging consideration.
 
 ### Issue 2: "Observationally matched" may overclaim
-- **File**: [concepts/information-compression-composition.md](/concepts/information-compression-composition/)
+- **File**: [concepts/information-compression-composition.md](/concepts/composition-question-rivals/)
 - **Location**: Line 60 — "the compression answer and the Map's convergence argument are, over the inanimate cases, observationally matched—both correctly count pebbles and molecules as wholes and shipstars as non-wholes."
 - **Problem**: This is asserted across *all* inanimate cases. Bird's and Beni's criteria themselves diverge on scope (Bird counts every compressible plurality; Beni's FEP/entropy criterion is narrower and excludes non-adaptive aggregates). So there is no single "the compression answer" that is observationally matched; the two rivals disagree among themselves on the inanimate boundary cases. Lumping them as one matched verdict slightly overstates the agreement.
 - **Severity**: Low-Medium
 - **Recommendation**: Qualify to "over the central inanimate cases" or note that Bird and Beni already diverge on scope, so the Map is matched against a *range* of compression verdicts rather than one.
 
 ### Issue 3: Editor-facing instruction left in article prose
-- **File**: [concepts/information-compression-composition.md](/concepts/information-compression-composition/)
+- **File**: [concepts/information-compression-composition.md](/concepts/composition-question-rivals/)
 - **Location**: Line 38 — "Three qualifiers do real work and **must be preserved**."
 - **Problem**: "must be preserved" reads as an instruction to a future editor, not as content for the reader. It is a mild register slip (not label leakage, not an overclaim). The point — that lossy/maximality/non-divisibility each do real work — is worth keeping; the imperative framing is not.
 - **Severity**: Low

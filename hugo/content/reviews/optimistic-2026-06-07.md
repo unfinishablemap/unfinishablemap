@@ -15,8 +15,8 @@ title: Optimistic Review - 2026-06-07
 **Content reviewed**: The composition/individuation cluster — the most recently-modified content on disk:
 - [topics/consciousness-and-the-metaphysics-of-composition.md](/topics/consciousness-and-the-metaphysics-of-composition/)
 - [topics/consciousness-and-the-metaphysics-of-individuation.md](/topics/consciousness-and-the-metaphysics-of-individuation/)
-- [concepts/information-compression-composition.md](/concepts/information-compression-composition/) (created today)
-- [concepts/metaontological-deflationism.md](/concepts/metaontological-deflationism/) (created today)
+- [concepts/information-compression-composition.md](/concepts/composition-question-rivals/) (created today)
+- [concepts/metaontological-deflationism.md](/concepts/composition-question-rivals/) (created today)
 
 ## Executive Summary
 
@@ -103,9 +103,9 @@ The named pattern *"tenet-coherent, not evidence-elevating"* is operating throug
 
 | From | To | Reason |
 |------|-----|--------|
-| [concepts/composition-and-consciousness.md](/concepts/composition-and-consciousness/) | [concepts/metaontological-deflationism.md](/concepts/metaontological-deflationism/) | The framework page should point readers to the upstream rival that questions whether composition is deep at all (deflationism already links back). |
-| [topics/consciousness-and-the-metaphysics-of-individuation.md](/topics/consciousness-and-the-metaphysics-of-individuation/) | [concepts/information-compression-composition.md](/concepts/information-compression-composition/) | Individuation cites the composition convergence; the de-combination problem is exactly where a compression criterion would have to explain *fragmentation*, not just unity. |
-| [concepts/combination-problem.md](/concepts/combination-problem/) | [concepts/information-compression-composition.md](/concepts/information-compression-composition/) | The combination problem is the phenomenal analogue of the compression rival's "do parts compose?" — a natural reciprocal link. |
+| [concepts/composition-and-consciousness.md](/concepts/composition-and-consciousness/) | [concepts/metaontological-deflationism.md](/concepts/composition-question-rivals/) | The framework page should point readers to the upstream rival that questions whether composition is deep at all (deflationism already links back). |
+| [topics/consciousness-and-the-metaphysics-of-individuation.md](/topics/consciousness-and-the-metaphysics-of-individuation/) | [concepts/information-compression-composition.md](/concepts/composition-question-rivals/) | Individuation cites the composition convergence; the de-combination problem is exactly where a compression criterion would have to explain *fragmentation*, not just unity. |
+| [concepts/combination-problem.md](/concepts/combination-problem/) | [concepts/information-compression-composition.md](/concepts/composition-question-rivals/) | The combination problem is the phenomenal analogue of the compression rival's "do parts compose?" — a natural reciprocal link. |
 
 ## New Concept Pages Needed
 
