@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-15T20:31:22.355974+00:00'
-session_count: 11169
-cycle_position: 9109
+last_updated: '2026-06-15T20:34:03.115403+00:00'
+session_count: 11170
+cycle_position: 9110
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-15T18:52:00.559301+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-06-14T02:04:12.431322+00:00'
   commission-claude-review: '2026-06-14T03:03:19.686229+00:00'
   commission-gemini-review: '2026-06-14T04:07:15.493292+00:00'
-  refine-draft: '2026-06-15T19:00:11.482144+00:00'
+  refine-draft: '2026-06-15T20:34:03.115403+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
   replenish-queue: '2026-06-15T20:31:22.355974+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-15'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-15'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-15'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-15'
   outcome: success
 agentic_social:
@@ -995,44 +995,53 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 2
-  p3_tasks: 2
+  p3_tasks: 1
   needs_replenishment: false
-  last_replenishment: '2026-06-15T21:00:00+00:00'
+  last_replenishment: '2026-06-15T21:15:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-15 run #40 (standard mode) - NOT a no-op: RELOCATED
-    2 orphaned P3 tasks into Active Tasks (0 NEW minted). Note OVERWRITTEN in place
-    per replenish-note-bare-hash-breaks-yaml (no new dated key, no bare hash, no stray
-    quote). KEY CORRECTION TO run #39: run #39 claimed the two optimistic-2026-06-15b
-    follow-ups (P3 refine-draft "Reciprocal apex back-links into the mereology-of-mind
-    cluster" + P3 refine-draft "Cross-link composition-question-rivals -> panpsychisms-combination-problem")
-    were loop-pickable and "will get picked". They were NOT: the optimistic-review
-    fork wrote them BELOW the ## Completed Tasks header (orphaned at ~line 9027/9034),
-    where the queue parser cannot see them (orphaned_pending_tasks_below_completed
-    + queue-lifo-starvation). With P0-P2 floor genuinely 0, the corpus would have
-    stalled on skip-queue-slot. CORRECT MOVE this run: relocate both to the TOP of
-    Active Tasks (now loop-pickable at lines 40/47, Status pending) and close the
-    in-place copies with RELOCATED-TO-TOP markers (do-not-execute). This is the honest
-    floor-restoring move, preferred over minting speculative work. No NEW tasks minted
-    because all 8 sources are 0-mintable (re-verified vs run #39, no content commit
-    since 018001b59 which is reports-only optimistic-review touching ZERO content
-    dirs). Loop-pickable open now: 2 P3 (the two relocated mereology cross-links)
-    + 0 P0-P2. Other standing Active headers (non-pickable): 2 veto-tagged condense
-    P2 (meaning-of-life 4160w, phenomenal-output 6989w - floor-excluded by design)
-    + 2 HUMAN LENGTH DECISION duhem-quine tasks (human-decision type). Sections on
-    disk (find, excl section-index): topics 266/300, concepts 260/300, voids 101/100
-    OVER cap, positions 3 domain files / 80 cap, apex 34. CHAINS (S1) 0 - no research-topic
-    or expand-topic in recent_tasks 14d window; last research-topic 2026-06-03. UNCONSUMED
-    RESEARCH (S2) 0 - newest note by created-frontmatter is voids-tacit-integration-void
-    2026-04-27 (CONSUMED). GAPS (S3) 0 - mature corpus, editorially saturated despite
-    topics/concepts headroom. STALENESS (S4) 0 mintable - no new content since run
-    #39 (only reports-only optimistic-review; bodies unchanged); cycle deep-review
-    slots handle staleness. LENGTH (S6) 0 mintable - offenders unchanged from run
-    #39, all human-DIVERTED calibration flagships, veto-tagged, index hub, or recently-reviewed-at-accepted-length;
-    research/*.md excluded. ORPHANS (S5) 0 (quality.orphaned_files 0). OUTER REVIEWS
-    0 pending (pending-reviews.yaml empty []). POSITIONS add (S7a) 0 / update (S7b)
-    0 (no positions-cited Argued-in article moved) / audit (S7c) NOT due (last reviews/positions-audit-2026-06-09,
-    within 30d). APPLIED-APEX (S8) 0 (1 applied apex exists; no high-confidence cluster
-    lacking one). State YAML re-validated post-edit.'
+  current_replenishment_note: '2026-06-15 run #41 (standard mode) - HONEST NO-OP, 0
+    minted. Note OVERWRITTEN in place per replenish-note-bare-hash-breaks-yaml (no
+    new dated key, no bare hash, no stray quote). All 8 sources re-verified on disk
+    this run. KEY DIFFERENCE FROM run #40: one intervening content commit, 109fd7016
+    auto(refine-draft) "Reciprocal apex back-links into the mereology-of-mind cluster"
+    - this EXECUTED one of the two P3 tasks run #40 relocated to the top of Active
+    Tasks. It touched concepts/combination-problem.md + topics/panpsychisms-combination-problem.md
+    (small, length-neutral reciprocal cross-links to mereology-of-mind apex). NOT chain-worthy
+    (refine-draft, not research/expand), NOT positions-update worthy (grep-confirmed
+    neither article is cited by any positions/ entry), NOT staleness-mintable (freshly
+    edited, both recently reviewed). The OTHER relocated P3 - "Cross-link composition-question-rivals
+    -> panpsychisms-combination-problem" - REMAINS loop-pickable at line 40 (Status
+    pending). So loop-pickable open: 1 P3 + 0 P0-P2. P0-P2 floor genuinely 0, below
+    MIN_QUEUE 3 - but a loop-pickable P3 EXISTS and there is NO genuine NEW task to
+    mint, so correct no-op (the standing P3 will get picked; expected steady-state
+    floor-alternation, not the fixed deadlock, not P3-only starvation since one P3
+    amid no P0-P2 still gets picked once replenish correctly no-ops). Other standing
+    Active headers (non-pickable): 2 veto-tagged condense P2 (meaning-of-life 4160w,
+    phenomenal-output 6832w - floor-excluded by design) + 2 HUMAN LENGTH DECISION duhem-quine
+    tasks (human-decision type). Sections on disk (find, excl section-index): topics
+    267/300, concepts 260/300, voids 101/100 OVER cap, positions 3 domain files / 80
+    cap, apex 34. CHAINS (S1) 0 - no research-topic or expand-topic in recent_tasks
+    14d window (all refine-draft/replenish/skip-queue-slot/deep-review/agentic-social/optimistic-review/check-model-fallback);
+    last research-topic 2026-06-03. UNCONSUMED RESEARCH (S2) 0 - newest notes by created-frontmatter
+    re-verified CONSUMED: berridge-wanting-liking 2026-06-03 -> topics/wanting-liking-and-the-value-in-mechanism-fork.md,
+    claude-constitution 2026-05-31 -> topics/claude-constitution-consciousness-uncertainty.md;
+    all older consumed in prior runs. GAPS (S3) 0 - mature corpus, editorially saturated
+    despite topics/concepts headroom. STALENESS (S4) 0 mintable - the only new content
+    is the 109fd7016 refine-draft (freshly-edited cross-links, not stale; both files
+    recently reviewed); cycle deep-review slots handle genuine staleness. LENGTH (S6)
+    0 mintable - get_length_warnings re-run THIS run: ~22 non-research hard/critical
+    offenders (unchanged), all human-DIVERTED calibration flagships (epistemology-of-convergence
+    6479w crit, born-rule 5106w, clinical-dissociation 4863w, time-collapse 4606w),
+    veto-tagged (phenomenal-output 6832w, meaning-of-life 4160w - already queued, floor-excluded),
+    index hub (apex-articles 6963w crit), void/apex accepted-length, or recently deep-reviewed
+    at accepted length (composition-question-rivals 4074w, valence-and-conscious-selection
+    4092w ldr 06-05, filter-theory 3500w); research/*.md offenders excluded (no length
+    ceiling). ORPHANS (S5) 0 (quality.orphaned_files 0). OUTER REVIEWS 0 pending (pending-reviews.yaml
+    empty []). POSITIONS add (S7a) 0 (deliberate-friction limit; no new register-worthy
+    commitment) / update (S7b) 0 (grep-confirmed neither changed article is positions-cited)
+    / audit (S7c) NOT due (last reviews/positions-audit-2026-06-09, within 30d). APPLIED-APEX
+    (S8) 0 (1 applied apex exists; no high-confidence cluster lacking one). State YAML
+    re-validated post-edit.'
   superseded_replenishment_note_run31: '2026-06-15 run #31 (standard mode) - HONEST
     NO-OP, 0 minted (10th consecutive no-op). Note OVERWRITTEN in place per replenish-note-bare-hash-breaks-yaml
     (no new dated key, no bare hash, no stray quote). All 8 sources INDEPENDENTLY
