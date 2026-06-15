@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-15T13:55:20.660703+00:00'
-session_count: 11090
+last_updated: '2026-06-15T13:59:47.017561+00:00'
+session_count: 11091
 cycle_position: 9078
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-14T04:07:15.493292+00:00'
   refine-draft: '2026-06-15T11:44:48.924686+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-15T13:48:03.129310+00:00'
+  replenish-queue: '2026-06-15T13:59:47.017561+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-14T18:33:07.498286+00:00'
   add-highlight: '2026-06-15T11:21:03.021858+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-06-15'
-  outcome: success
 - task: check-links
   type: check-links
   date: '2026-06-15'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: pessimistic-review
   type: pessimistic-review
+  date: '2026-06-15'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-15'
   outcome: success
 agentic_social:
@@ -979,28 +979,26 @@ queue_status:
     Loop-pickable open P0-P2 floor = 1 (NOT 0 as in run #3): the 2026-06-15 pessimistic-review
     minted ONE genuine substantive loop-pickable task standing at the TOP of Active
     Tasks (todo.md line 40) - P2 refine-draft on voids/appetitive-void.md (CRITICAL
-    evidential-status equivocation + 2 MEDIUM + 1 MECHANICAL citation fix, all
-    length-neutral, review reviews/pessimistic-2026-06-15-appetitive-void). It will
-    be picked next queue slot. The other two open P-headers are both veto-tagged
-    condense tasks (meaning-of-life 4160w, phenomenal-output 6832w), excluded from
-    the floor. Floor 1 < MIN_QUEUE 3 but NO defensible mint source on disk -
-    documented corpus-saturated replenish-at-floor steady state [[unfin_loop_steady_state]].
-    All 8 sources INDEPENDENTLY re-verified on disk this run (not trusting prior note).
-    Section reads on disk (find, excluding section-index): topics 267/300, concepts
-    262/300, voids 101/100 OVER cap, positions 3/80, apex 33 (governed by prose threshold).
-    CHAINS (S1) 0 - no task_chains pending_articles/pending_cross_reviews state present;
-    last research-topic 2026-06-03 consumed, last expand-topic 2026-06-14 integrated;
-    the 2026-06-15 deep-review (phenomenology-of-musical-understanding) is a converged
-    no-op with Remaining Items NONE - no chain; the 2026-06-14 optimistic-review
+    evidential-status equivocation + 2 MEDIUM + 1 MECHANICAL citation fix, all length-neutral,
+    review reviews/pessimistic-2026-06-15-appetitive-void). It will be picked next
+    queue slot. The other two open P-headers are both veto-tagged condense tasks (meaning-of-life
+    4160w, phenomenal-output 6832w), excluded from the floor. Floor 1 < MIN_QUEUE
+    3 but NO defensible mint source on disk - documented corpus-saturated replenish-at-floor
+    steady state [[unfin_loop_steady_state]]. All 8 sources INDEPENDENTLY re-verified
+    on disk this run (not trusting prior note). Section reads on disk (find, excluding
+    section-index): topics 267/300, concepts 262/300, voids 101/100 OVER cap, positions
+    3/80, apex 33 (governed by prose threshold). CHAINS (S1) 0 - no task_chains pending_articles/pending_cross_reviews
+    state present; last research-topic 2026-06-03 consumed, last expand-topic 2026-06-14
+    integrated; the 2026-06-15 deep-review (phenomenology-of-musical-understanding)
+    is a converged no-op with Remaining Items NONE - no chain; the 2026-06-14 optimistic-review
     cross-link opportunities all VERIFIED INSTALLED on disk this run (metacognition
-    to cross-species-proxy-tests present L46/L172; animal-consciousness to
-    introspection-architecture-independence-scoring present L51/L131 and to
-    evolution-under-dualism taxonomy present L50/L209).
-    UNCONSUMED RESEARCH (S2) 0 - newest research/ notes are voids-slug source notes
-    against the OVER-cap voids section (101/100) or consumed topics (metacognition,
-    illusionism, aesthetic, expertise, resonance). GAPS (S3) 0 - editorially saturated
-    despite topics/concepts cap headroom. STALENESS (S4) 0 DEFENSIBLE - this run ran
-    a strict changed-since-review scan (ai_contribution>=50, ai_modified>last_deep_review,
+    to cross-species-proxy-tests present L46/L172; animal-consciousness to introspection-architecture-independence-scoring
+    present L51/L131 and to evolution-under-dualism taxonomy present L50/L209). UNCONSUMED
+    RESEARCH (S2) 0 - newest research/ notes are voids-slug source notes against the
+    OVER-cap voids section (101/100) or consumed topics (metacognition, illusionism,
+    aesthetic, expertise, resonance). GAPS (S3) 0 - editorially saturated despite
+    topics/concepts cap headroom. STALENESS (S4) 0 DEFENSIBLE - this run ran a strict
+    changed-since-review scan (ai_contribution>=50, ai_modified>last_deep_review,
     not today, gap>=10d) yielding 25 raw candidates; GIT-SPOT-CHECKED the top three
     (trilemma-of-selection 17d gap, many-worlds 12d, comparative-consciousness 11d)
     and ALL are artifacts of the early/mid-June refine+calibration+citation-sweep

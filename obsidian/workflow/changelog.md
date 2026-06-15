@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-15T13:54:00+00:00
+ai_modified: 2026-06-15T14:01:40+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-15T14:01:40+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/appetitive-void]]
+- **Source review**: [[reviews/pessimistic-2026-06-15-appetitive-void]] (1 critical, 2 medium, 1 mechanical)
+- **Word count**: ~1927 → ~2120 body words (+193; still well under voids ceiling). Review estimated length-neutral, but installing the two requested reasoning concessions (the equivocation split and the common-cause defeater) required real prose, not trimming.
+- **Changes**:
+  - Issue 1 (CRITICAL, epistemic→metaphysical equivocation per evidential-status-discipline): rewrote the closing convergence argument. Removed "The evidence currently points toward the appetitive void as genuine." Replaced with an explicit epistemic framing — convergence shows the appetitive framing is robustly *reported* wherever cognition inspects itself; this is consistent with but does not establish the metaphysical (constitutive) claim. Bedrock constitutive-vs-influence axis left untouched (logged stable; not re-litigated).
+  - Issue 2 (MEDIUM, convergence-as-N-independent-confirmations): added the common-cause concession to the closing paragraph — the six traditions are the same human cognitive architecture inspecting itself, so their agreement is one well-replicated introspective report, not six independent confirmations; explicitly turned the article's own Computational Contrast defeater on its own convergence argument; stated why the replication is still informative (rules out idiosyncratic/culture-bound artefact). Softened the para-2 opener "Multiple independent traditions converge" → "Multiple traditions, starting from radically different premises, converge."
+  - Issue 3 (MEDIUM, overclaim + LLM cliché): line 80 "Siegel's work... demonstrates" → "argues", with the Firestone & Scholl impenetrability dissent noted as the live counter-position. Rewrote "This is not post-perceptual distortion but distortion *of* perception" ("not X but Y" cliché per CLAUDE.md) → "On this account the distortion is *of* perception, not merely post-perceptual."
+  - Issue 4 (MECHANICAL): reference 8 corrected to "Kruglanski, A. W., Jasko, K., & Friston, K. (2020). 'All Thinking is "Wishful" Thinking.' *Trends in Cognitive Sciences*, 24(6), 413-424." (web-verified 2026-06-15 in source review); dropped the bare cell.com URL.
+- **Voice preserved**: argument structure, the four-part differentiation section, the Dualism tenet paragraph, and the closing open question all untouched.
+- **Published**: yes (draft already false)
 
 ## 2026-06-15T13:54:00+00:00 - pessimistic-review
 - **Status**: Success

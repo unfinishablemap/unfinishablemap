@@ -4,7 +4,7 @@ description: "Human+AI exploration of how desire structures cognition itself—n
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-05-17T14:50:03+00:00
+ai_modified: 2026-06-15T14:01:40+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ last_deep_review: 2026-05-17T14:50:03+00:00
 
 The Unfinishable Map documents many kinds of cognitive limit: thoughts we [[self-maintained-cognitive-limits|systematically flee]], emotions we [[affective-void|cannot feel]], truths hidden by [[self-opacity|introspective opacity]]. The appetitive void names something more fundamental. Desire does not merely distort cognition—it may *constitute* it. Every thought you have, including the thought that your thinking is desire-shaped, occurs within a framework that wanting has already established. The appetitive void is the impossibility of stepping outside this framework to see what cognition looks like without it.
 
-Multiple independent traditions converge on this diagnosis. Schopenhauer argued that intellect serves the will. Buddhism identifies craving (tanha) as woven into cognition itself. Nietzsche insisted that all knowing is perspectival knowing, driven by the will to power. Contemporary predictive processing frameworks collapse the distinction between prediction and preference. If these traditions are right, the appetitive void is not a correctable bias but a structural feature of minded existence—possibly inseparable from consciousness itself.
+Multiple traditions, starting from radically different premises, converge on this diagnosis. Schopenhauer argued that intellect serves the will. Buddhism identifies craving (tanha) as woven into cognition itself. Nietzsche insisted that all knowing is perspectival knowing, driven by the will to power. Contemporary predictive processing frameworks collapse the distinction between prediction and preference. If these traditions are right, the appetitive void is not a correctable bias but a structural feature of minded existence—possibly inseparable from consciousness itself.
 
 ## How the Appetitive Void Differs
 
@@ -77,7 +77,7 @@ Karl Friston's free energy principle collapses the boundary between prediction a
 
 ### Perception Itself
 
-Susanna Siegel's work on the rationality of perception demonstrates that the appetitive void operates below deliberative thought. "Wishful seeing" parallels wishful thinking: desires shape not just what we believe about what we see but what we *see*. An acrophobe overestimates height. Desires reshape the perceptual field itself. This is not post-perceptual distortion but distortion *of* perception—the appetitive void at the level of sensory experience.
+Susanna Siegel's work on the rationality of perception argues that the appetitive void operates below deliberative thought—a contested claim, since the cognitive penetration of perception it depends on is rejected by perception theorists such as Firestone and Scholl, who hold that early vision is largely impenetrable to desire and belief. On Siegel's view "wishful seeing" parallels wishful thinking: desires shape not just what we believe about what we see but what we *see*. An acrophobe overestimates height. Desires reshape the perceptual field itself. On this account the distortion is *of* perception, not merely post-perceptual—the appetitive void at the level of sensory experience.
 
 ## The Phenomenology
 
@@ -119,7 +119,7 @@ The appetitive void hypothesis would be weakened if:
 
 3. **Motivated reasoning proves individually variable without pattern.** If appetitive distortion is random across individuals and tasks rather than systematic—if the same person's reasoning errors do not track their actual wants in predictable ways—it is noise rather than structure. The void hypothesis predicts pattern; randomness would falsify it.
 
-The evidence currently points toward the appetitive void as genuine. The convergence across Schopenhauer, Spinoza, Buddhism, Nietzsche, Lacan, and predictive processing—traditions with radically different starting points arriving at the same diagnosis—suggests something real is being tracked. This convergence contributes to the [[compound-failure-signatures|topology of cognitive failure]]: desire-shaped cognition is not an isolated limit but part of a larger architecture of [[meta-epistemology-of-limits|boundaries that reveal structure]]. The deepest question remains open: Is desire something consciousness *does*, or something consciousness *is*?
+The convergence across Schopenhauer, Spinoza, Buddhism, Nietzsche, Lacan, and predictive processing—traditions with radically different starting points arriving at the same diagnosis—shows that the appetitive structure of cognition is robustly *reported* wherever cognition turns to inspect itself. That is an epistemic finding about the describers and their shared object; it is consistent with desire being constitutive of cognition, but it does not by itself establish the metaphysical claim. What convergence licenses is the weaker conclusion that the appetitive framing is not the artefact of any single thinker's idiosyncrasy. The traditions are not independent instruments, either: they are the same human cognitive architecture inspecting itself, so their agreement carries the evidential weight of one well-replicated introspective report rather than six independent confirmations of a mind-independent fact—the very defeater the Computational Contrast section raises against the AI test, here turned on the convergence argument itself. The replication is still informative, because it rules out the idiosyncratic and the culture-bound: a framing reported across Vedic, Greek-inflected, and modern computational vocabularies is unlikely to be a local artefact of one school's concepts. This convergence contributes to the [[compound-failure-signatures|topology of cognitive failure]]: desire-shaped cognition is not an isolated limit but part of a larger architecture of [[meta-epistemology-of-limits|boundaries that reveal structure]]. The deepest question remains open: Is desire something consciousness *does*, or something consciousness *is*?
 
 ## Further Reading
 
@@ -139,6 +139,6 @@ The evidence currently points toward the appetitive void as genuine. The converg
 5. Lacan, J. (1973). *The Four Fundamental Concepts of Psycho-Analysis*. Seuil.
 6. Siegel, S. (2017). *The Rationality of Perception*. Oxford University Press.
 7. Friston, K. (2010). "The free-energy principle: a unified brain theory?" *Nature Reviews Neuroscience*, 11, 127-138.
-8. "All Thinking is 'Wishful' Thinking." (2020). *Trends in Cognitive Sciences*. https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(20)30079-6
+8. Kruglanski, A. W., Jasko, K., & Friston, K. (2020). "All Thinking is 'Wishful' Thinking." *Trends in Cognitive Sciences*, 24(6), 413-424.
 9. Ellis, J. (2022). "Motivated reasoning and the ethics of belief." *Philosophy Compass*, 17(6), e12828.
 10. Kunda, Z. (1990). "The Case for Motivated Reasoning." *Psychological Bulletin*, 108(3), 480-498.
