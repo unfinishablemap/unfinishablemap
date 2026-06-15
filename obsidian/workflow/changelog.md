@@ -5,6 +5,20 @@ ai_modified: 2026-06-15 15:17:25+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-15T16:34:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [[arguments/materialism-argument]]
+- **Word count**: 2941 → 2977 (+36)
+- **Critical issues addressed**: 1 (LLM cliché "This is not X. It is Y." at the hard-problem section open, rewritten loss-free to a direct positive claim)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 — resolved the 2026-05-11 deferred-vagueness item by giving the avian-magnetoreception claim a real web-verified citation (Luo et al. 2025, JACS, cryptochrome 4a radical-pair stability — the "2026 Princeton study"), softened "confirmed"→"supported computationally" for calibration accuracy
+- **Citation web-verify ledger** (track (a) — stance-fidelity, not just existence): Dennett 1991 zombie-conceivability-as-conceptual-confusion — real-correct/stance-faithful (SEP, Heterophenomenology); Frankish quasi-phenomenal-properties — real-correct/stance-faithful (Frankish "Illusionism as a Theory of Consciousness", verbatim match incl. self-defeating-regress); PCS Loar-recognitional/Papineau-quotational/Balog-constitutional + Chalmers master argument — all real-correct/stance-faithful; Luo et al. 2025 — added (web-verified real); Hagan 2002/Tegmark 2000/Hameroff&Penrose 2014 — real-correct (unchanged, stable References block)
+- **Regression checks**: no label leakage (3cacf91ca held); no possibility/probability slippage (philosophical-hypothesis register throughout, evidential-status-discipline honoured); all 10 outbound cross-links resolve live; no superlative-currency claims. 6th deep review, converged — pure-staleness pass, license-to-no-op exercised lightly (2 small fixes only)
+- **Engagement modes** (editor-internal, unchanged from 2026-05-11): Dennett Mode One; Frankish Mode One + Mode Three residue; PCS Mode One; closing pivot mixed-mode in natural prose. No boundary-substitution.
+- **Output**: [[reviews/deep-review-2026-06-15-materialism-argument]]
+
+---
+
 ## 2026-06-15T16:23:50+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/composition-question-rivals]]
