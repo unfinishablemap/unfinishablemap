@@ -5,6 +5,14 @@ ai_modified: 2026-06-14T17:32:06+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-15T00:00:00+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 535 (268 topics, 263 concepts, 4 positions)
+- **Errors**: 0
+- **Warnings**: 1
+- **Notes**: 2
+- **Output**: [[reviews/tenet-check-2026-06-15]]
+
 ## 2026-06-14T17:32:06+00:00 - deep-review
 - **Status**: Success (honest no-op — converged article)
 - **File**: [[topics/duch-neurodynamic-theory-of-mind]]
