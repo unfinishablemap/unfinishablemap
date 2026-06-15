@@ -366,8 +366,13 @@ def get_published_articles() -> list[Path]:
             continue
 
         for md_file in content_dir.rglob("*.md"):
-            # Skip index files
-            if md_file.name.startswith("_"):
+            # Skip index files: _-prefixed (Hugo) AND section-index pages
+            # where stem == parent dir name (e.g. concepts/concepts.md).
+            # The latter only become _index.md at Hugo-sync time, so in the
+            # obsidian source they leak into the candidate pool and dominate
+            # it once the 7-day topic-dedup filter empties the real-article
+            # pool — the selector index-page-leak bug.
+            if md_file.name.startswith("_") or md_file.stem == md_file.parent.name:
                 continue
 
             try:
