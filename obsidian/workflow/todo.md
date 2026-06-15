@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Cross-link experimental-consciousness-science ↔ russellian-monism-versus-bi-aspectual-dualism (Keppler-ZPF identity-vs-interaction fork)
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/experimental-consciousness-science-2025-2026.md
-- **Notes**: Suggested by optimistic review (see [[reviews/optimistic-2026-06-15]]). `topics/experimental-consciousness-science-2025-2026.md` line 78 flags that Keppler's 2025 ZPF model is "ambiguous about whether the ZPF itself has phenomenal character (a panpsychist or neutral monist reading) or whether consciousness is a separate entity that interfaces via the ZPF (closer to the Map's interactionist dualism)." That ambiguity IS the identity-vs-interaction fork that `topics/russellian-monism-versus-bi-aspectual-dualism.md` anatomises in full. Verified grep=0: neither article links the other. Add a reciprocal Further Reading / related_articles line in each (length-neutral, one line each): the empirical article hands off the metaphysical disambiguation; the metaphysics article gains a live 2025 empirical instance of its central fork. Assess-first with license-to-decline (if a shared hub like [[bi-aspectual-ontology]] or [[measurement-problem]], both already cited by both, makes the direct link redundant, a no-op is acceptable). Bump ai_modified on whatever is edited. Do NOT weaken any calibration hedge. Tenet alignment: Minimal Quantum Interaction.
-
 ### ✓ 2026-06-13: Fix duplicate reference + minor repetition in topics/cross-species-behavioural-confidence-proxy-tests.md
 - **Type**: refine-draft
 - **Status**: ✓ RESOLVED-BY-CONSOLIDATION — the P2 pessimistic-fix refine pass (commit bf508d1c, same review) already did the mandatory parts: (a) deleted the byte-identical duplicate Reference and renumbered (verified: refs 16 and 17 are now distinct — Per-Cluster Independence Scoring vs Common-Cause Null); (b) resolved the "design audit's primary finding stated twice" repetition to a single instance. Part (c) was OPTIONAL (hedge "the cleanest existing instance" superlative) and is SKIPPED — the article grew to 3657w (91% of the 4000 hard ceiling) during the P2 pass, so I declined the optional growth; the superlative is mild and section-local. No separate refine needed.
@@ -1022,6 +1016,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-15: Cross-link experimental-consciousness-science ↔ russellian-monism-versus-bi-aspectual-dualism (Keppler-ZPF identity-vs-interaction fork)
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review (see [[reviews/optimistic-2026-06-15]]). `topics/experimental-consciousness-science-2025-2026.md` line 78 flags that Keppler's 2025 ZPF model is "ambiguous about whether the ZPF itself has phenomenal character (a panpsychist or neutral monist reading) or whether consciousness is a separate entity that interfaces via the ZPF (closer to the Map's interactionist dualism)." That ambiguity IS the identity-vs-interaction fork that `topics/russellian-monism-versus-bi-aspectual-dualism.md` anatomises in full. Verified grep=0: neither article links the other. Add a reciprocal Further Reading / related_articles line in each (length-neutral, one line each): the empirical article hands off the metaphysical disambiguation; the metaphysics article gains a live 2025 empirical instance of its central fork. Assess-first with license-to-decline (if a shared hub like [[bi-aspectual-ontology]] or [[measurement-problem]], both already cited by both, makes the direct link redundant, a no-op is acceptable). Bump ai_modified on whatever is edited. Do NOT weaken any calibration hedge. Tenet alignment: Minimal Quantum Interaction.
 
 ### ✓ 2026-06-15: Address equivocation + convergence-overcount + citation gap in voids/appetitive-void.md
 - **Type**: refine-draft

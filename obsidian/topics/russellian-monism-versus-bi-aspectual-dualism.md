@@ -4,7 +4,7 @@ description: "Russellian monism and the dual-aspect tradition approach the Map's
 created: 2026-03-22
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-06-08T10:35:34+00:00
+ai_modified: 2026-06-15T15:17:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -156,6 +156,7 @@ This comparison engages all five of the Map's [[tenets]]:
 - [[consciousness-and-the-metaphysics-of-laws-and-dispositions]] — How the powerful qualities framework offers an alternative to quiddities
 - [[intrinsic-nature-void]] — Why physics cannot capture intrinsic nature
 - [[wheelers-participatory-universe-and-it-from-bit]] — Wheeler's own rejection of many-worlds on ontological grounds, parallel to the Map's selection-ontology case
+- [[experimental-consciousness-science-2025-2026]] — Keppler's 2025 zero-point-field model is a live empirical instance of this fork, ambiguous between a panpsychist field with phenomenal character and consciousness interfacing via the field
 
 ## References
 

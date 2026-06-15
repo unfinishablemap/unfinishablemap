@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-15T14:55:44+00:00
+ai_modified: 2026-06-15T15:17:25+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-15T15:17:25+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/experimental-consciousness-science-2025-2026]], [[topics/russellian-monism-versus-bi-aspectual-dualism]]
+- **Task**: Reciprocal cross-link on the Keppler-2025 ZPF identity-vs-interaction fork (suggested by [[reviews/optimistic-2026-06-15]]). Assess-first with license-to-decline.
+- **Assessment**: Link warranted — NOT redundant via shared hub. Both articles cite [[measurement-problem]], but that hub does not anatomise the identity-vs-interaction fork; the russellian-monism article does, exactly the fork the empirical article's line-78 ZPF-ambiguity leaves open. grep=0 confirmed both directions before editing.
+- **Changes**: Added one Further Reading line each (length-neutral). Empirical article → metaphysics article (hands off the metaphysical disambiguation). Metaphysics article → empirical article (gains a live 2025 empirical instance of its central fork). No calibration hedge weakened; new lines preserve the "ambiguous" framing in both directions.
+- **Tenet alignment**: Minimal Quantum Interaction — both articles locate the consciousness/quantum interface; the link sharpens the metaphysical reading of the empirical ZPF mechanism without overstating it.
+- **Published**: yes
 
 ## 2026-06-15T14:55:44+00:00 - optimistic-review
 - **Status**: Success
