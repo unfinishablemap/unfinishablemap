@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-06-06 02:40:32+00:00
+ai_modified: 2026-06-15 15:17:25+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -122,6 +122,7 @@ The Map interprets these findings not as proof of dualism—no single experiment
 - [conceptual-scheme-void](/voids/conceptual-scheme-void/)
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)
+- [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/) — disambiguates the identity-vs-interaction fork that Keppler's ZPF model leaves open (does the field carry phenomenal character, or does consciousness interface via it?)
 
 ## References
 
