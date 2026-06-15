@@ -5,6 +5,18 @@ ai_modified: 2026-06-15 20:42:33+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-15T21:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/duhem-quine-underdetermination-consciousness]]
+- **Word count**: 3999 → 3891 (−108; condensation; 130% of 3000 soft threshold, soft_warning — was 1 word under hard threshold of 4000)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (post-refine bloat: six 06-07 outer-review refine passes grew the body +1232 words / +45% and quadrupled-stated the progressive-vs-degenerating motif; removed redundant restatements + a duplicated COGITATE empirical list + a duplicate falsification-roadmap re-link)
+- **Enhancements made**: 0 (sixth deep-review; article at calibration-anchor stability)
+- **Citations**: COGITATE Consortium 2025 (Nature 642(8066):133-142, DOI s41586-025-08888-1) — web-verified real-correct; Laudan & Leplin 1991 (J. Philosophy 88(9):449-472) — web-verified real-correct; Kuhn R.L. 2024 + COGITATE year/venue confirmed not regressed since 5th-review ledger (References block unmodified since 05-28, inherited ledger stands)
+- **Calibration (Tenet 5)**: clean — underdetermination kept at proper tier ("licenses neither side"; symmetry applied to the Map's own hard core); no possibility/probability slippage
+- **Reasoning mode**: phenomenal concepts strategy = Mode One (defective on own terms via Chalmers 2007 dilemma + Lakatosian ad-hoc test); no boundary-substitution, no label leakage
+- **Output**: [[reviews/deep-review-2026-06-15-duhem-quine-underdetermination-consciousness]]
+
 ## 2026-06-15T21:01:11+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/composition-question-rivals]]
