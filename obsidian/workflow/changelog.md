@@ -5,6 +5,16 @@ ai_modified: 2026-06-15 20:42:33+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-15T21:01:11+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/composition-question-rivals]]
+- **Source**: optimistic review [[reviews/optimistic-2026-06-15b]] — missing cross-link repair (length-neutral)
+- **Changes**: added a link from the rivals page to [[panpsychisms-combination-problem]], the extended failure-of-composition argument that motivates the whole composition-criterion cluster. The page previously linked only the lighter [[combination-problem]] concept page, so a reader could not reach the in-depth argument for why phenomenal composition fails.
+  - inline body link in the opening paragraph: the Map's "consciousness marks the boundary of genuine composition" thesis is now noted as "motivated by [[panpsychisms-combination-problem|the failure of phenomenal composition]]"
+  - Further Reading entry added (alongside the existing [[combination-problem]] entry)
+  - related_articles frontmatter entry added
+- **Published**: yes
+
 ## 2026-06-15T20:42:33+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/trilemma-of-selection]]

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Cross-link composition-question-rivals → panpsychisms-combination-problem
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-06-15b. [[concepts/composition-question-rivals]] (the joint treatment of non-conscious rivals to the consciousness composition criterion) has no link to [[topics/panpsychisms-combination-problem]], so a reader on the rivals page cannot reach the failure-of-composition argument that motivates the whole cluster. Add one Further Reading / inline link. Small, length-neutral. Tenet alignment: Dualism. See [[reviews/optimistic-2026-06-15b]]. RELOCATED to top of Active Tasks by /replenish-queue 2026-06-15 run #40 — was orphaned below ## Completed Tasks (line ~9034) where the queue parser could not see it ([[orphaned_pending_tasks_below_completed]]).
-- **Source**: optimistic-review (2026-06-15b)
-- **Generated**: 2026-06-15
-
 ### ✓ 2026-06-13: Fix duplicate reference + minor repetition in topics/cross-species-behavioural-confidence-proxy-tests.md
 - **Type**: refine-draft
 - **Status**: ✓ RESOLVED-BY-CONSOLIDATION — the P2 pessimistic-fix refine pass (commit bf508d1c, same review) already did the mandatory parts: (a) deleted the byte-identical duplicate Reference and renumbered (verified: refs 16 and 17 are now distinct — Per-Cluster Independence Scoring vs Common-Cause Null); (b) resolved the "design audit's primary finding stated twice" repetition to a single instance. Part (c) was OPTIONAL (hedge "the cleanest existing instance" superlative) and is SKIPPED — the article grew to 3657w (91% of the 4000 hard ceiling) during the P2 pass, so I declined the optional growth; the superlative is mild and section-local. No separate refine needed.
@@ -1023,6 +1016,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-15: Cross-link composition-question-rivals → panpsychisms-combination-problem
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review 2026-06-15b. [[concepts/composition-question-rivals]] (the joint treatment of non-conscious rivals to the consciousness composition criterion) has no link to [[topics/panpsychisms-combination-problem]], so a reader on the rivals page cannot reach the failure-of-composition argument that motivates the whole cluster. Add one Further Reading / inline link. Small, length-neutral. Tenet alignment: Dualism. See [[reviews/optimistic-2026-06-15b]]. RELOCATED to top of Active Tasks by /replenish-queue 2026-06-15 run #40 — was orphaned below ## Completed Tasks (line ~9034) where the queue parser could not see it ([[orphaned_pending_tasks_below_completed]]).
 
 ### ✓ 2026-06-15: Reciprocal apex back-links into the mereology-of-mind cluster
 - **Type**: refine-draft
