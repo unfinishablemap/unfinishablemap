@@ -4,7 +4,7 @@ description: "Mine-ness is the phenomenal mark by which experience presents as b
 created: 2026-05-19
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-06-15T23:05:00+00:00
 last_deep_review: 2026-06-05T00:00:00+00:00
 draft: false
 topics:
@@ -132,6 +132,7 @@ Predictive processing and self-model accounts give elegant, parsimonious explana
 - [[self-opacity]] — Why the subject of mine-ness cannot become its own object
 - [[vertiginous-question]] — Why am I *this* consciousness? The metaphysical question underlying indexical mine-ness
 - [[discrimination-problem]] — Why the depersonalisation evidence is the phenomenal-feature-level engagement the framework most needs
+- [[self-construction-constructor]] — The apex argument that the self is constructed while the constructor is not: mine-ness is the for-me feature every construction presupposes, and the mine-ness/agency double dissociation supplies the asymmetry at the level of the constructor's own phenomenal anatomy
 - [[project/architecture-vs-significance-two-tier-discount]] — the discipline that cites mine-ness as a worked exhibit: the *separability* finding inherits the smaller framework-dependence discount, its *significance for dualism* the larger one
 
 ## References

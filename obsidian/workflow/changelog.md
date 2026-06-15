@@ -5,6 +5,12 @@ ai_modified: 2026-06-15 20:42:33+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-15T23:05:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/mine-ness]]
+- **Changes**: Single-link integration fix (no rewrite, no length change). Added a reciprocal back-link in "## Further Reading" to [[apex/self-construction-constructor]], which the 2026-06-15 apex-evolve pass (a4bdb12dd) linked in (deploying the mine-ness/agency double dissociation for the constructor asymmetry) without the concept page back-linking. Frame matches the apex: mine-ness is the for-me feature every construction presupposes; the double dissociation supplies the asymmetry at the constructor's phenomenal-anatomy level. Verified grep=0 back-links before edit. Article already well-integrated (11 inbound); last_deep_review (2026-06-05) left untouched.
+- **Published**: yes
+
 ## 2026-06-15T22:58:25+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/self-construction-constructor]]
