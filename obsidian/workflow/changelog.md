@@ -5,6 +5,21 @@ ai_modified: 2026-06-15 15:17:25+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-15T18:58:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/russellian-monism-versus-bi-aspectual-dualism]]
+- **Source**: pessimistic-review 2026-06-15 (P3, frame-vs-body calibration alignment, length-neutral)
+- **Changes**:
+  - Description: "the stable endpoint monism cannot reach" → "the interactionist endpoint the tradition declines to take" (de-asserts contested thesis in frame to match body's own concession at line 133)
+  - Opening line: "the stable endpoint that the entire tradition approaches but cannot occupy" → "the interactionist endpoint the dual-aspect tradition repeatedly declines to take"
+  - § heading: "Approaching but Never Reaching Interaction" → "A Tradition That Weakens the Ban on Interaction" (de-teleologised)
+  - Relation-to-Site Tenet-5 bullet: replaced "the parsimony is illusory ... false economy" (which converted Pautz's *symmetric* underdetermination into a Map-advantage) with "removes monism's claimed parsimony advantage; neither framework is simpler once the linking principles are counted ... underdetermination is symmetric" — serves Tenet 5 (Occam's Razor Has Limits) more honestly
+  - Micro: Cutter pagination 109-130 → 109-129 (publisher of record)
+  - Micro: line-87 "interaction problem is real" now acknowledges the thermal/decoherence form (warm-wet-neural decoherence skeptic), deferred to interactionist-dualism / measurement-problem treatments
+- **Verification**: line-69 Cutter "comfortable resting place — turn back or march on to dualism" web-verified VERBATIM against Cutter 2019 abstract (reviewer's paraphrase caution was a false alarm; quote marks retained). Reasoning-mode discipline: no editor-vocabulary leakage; MWI/instability engagements remain honestly boundary-marked.
+- **Engagement classification (editor-internal)**: decoherence-skeptic addition is Mode Three — framework-boundary disagreement honestly deferred, not refuted in-place
+- **Published**: yes
+
 ## 2026-06-15T18:49:14+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/russellian-monism-versus-bi-aspectual-dualism]] (sixth review; first dedicated pessimistic pass on the comparison article since the 2026-05-25 calibration refine)
