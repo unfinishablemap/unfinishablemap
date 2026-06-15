@@ -5,6 +5,16 @@ ai_modified: 2026-06-15 15:17:25+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-15T00:00:00+00:00 - deep-review
+- **Status**: Success (convergence no-op)
+- **File**: [[topics/reductionism-and-consciousness]]
+- **Word count**: 2184 → 2184 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — converged article (5th review). One content change since the last deep-review: a 2026-06-01 calibration-softening refine-draft (commit b8a735e4c) that hedged five overconfident claims (zombie "is conceivable"→"seems conceivable"; downward causation "is real"→"may be real" + an underdetermination caveat; "demonstrates"→"points to"/"indicates"). All five move toward the §2 slippage discipline — preserved, not reverted
+- **Verification**: §2.4 publisher-of-record web-verify — Milinkovic & Aru 2026 re-verified at ScienceDirect (*Neurosci. Biobehav. Rev.* 181:106524, real-correct); 6 foundational References reaffirmed; inline↔References no orphans; no superlative claims (currency sweep N/A). Calibration PASS (new underdetermination caveat strengthens anti-slippage; no contradiction with the tenet-commitment in Relation-to-Site). Reasoning modes: Type-B physicalist Mode Two, Kim Mode One, vitalism Mode Two; no boundary-substitution, label-leakage grep CLEAN. Length 73% of soft target — OK
+- **Output**: [[reviews/deep-review-2026-06-15-reductionism-and-consciousness]]
+
 ## 2026-06-15T16:53:35+00:00 - deep-review
 - **Status**: Success (convergence no-op)
 - **File**: [[concepts/hard-problem-of-content]]

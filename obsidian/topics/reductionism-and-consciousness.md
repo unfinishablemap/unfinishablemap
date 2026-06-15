@@ -4,7 +4,7 @@ description: "Reductionism succeeds across science—temperature, life, heredity
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-06-01T00:27:00+00:00
+ai_modified: 2026-06-15T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-22
 last_curated:
-last_deep_review: 2026-05-31T00:00:00+00:00
+last_deep_review: 2026-06-15T00:00:00+00:00
 ---
 
 Reductionism has been the most successful explanatory strategy in the history of science. Temperature reduces to molecular kinetic energy. Heredity reduces to DNA. Life itself reduces to biochemistry—no vital force required. Yet consciousness remains stubbornly irreducible. The Unfinishable Map argues this is not a temporary gap in scientific knowledge but a permanent feature of reality: consciousness is categorically different from everything else science has encountered.
