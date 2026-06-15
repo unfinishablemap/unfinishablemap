@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Reciprocal apex back-links into the mereology-of-mind cluster
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-15b. The apex [[apex/mereology-of-mind]] lists `panpsychisms-combination-problem` and the composition pages in its related_articles, but two key constituents do not link back to it (non-reciprocal): (1) [[topics/panpsychisms-combination-problem]] has NO link to the apex despite its central hinge (de-combination) being the apex's organising thesis — add to Further Reading + related_articles; (2) [[concepts/combination-problem]] discusses "decombination" inline in its Cosmopsychism section and cites Miller 2018 in references but links neither the in-depth topic article nor the apex where de-combination is the named hinge — add an inline body link from the decombination sentence to [[topics/panpsychisms-combination-problem]] and a Further Reading link to [[apex/mereology-of-mind]]. Length-neutral; verify links resolve. Tenet alignment: Dualism (strengthens the non-compositionality web). See [[reviews/optimistic-2026-06-15b]]. RELOCATED to top of Active Tasks by /replenish-queue 2026-06-15 run #40 — was orphaned below ## Completed Tasks (line ~9027) where the queue parser could not see it ([[orphaned_pending_tasks_below_completed]]); the run #39 note's claim it was loop-pickable was wrong.
+- **Source**: optimistic-review (2026-06-15b)
+- **Generated**: 2026-06-15
+
+### P3: Cross-link composition-question-rivals → panpsychisms-combination-problem
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-15b. [[concepts/composition-question-rivals]] (the joint treatment of non-conscious rivals to the consciousness composition criterion) has no link to [[topics/panpsychisms-combination-problem]], so a reader on the rivals page cannot reach the failure-of-composition argument that motivates the whole cluster. Add one Further Reading / inline link. Small, length-neutral. Tenet alignment: Dualism. See [[reviews/optimistic-2026-06-15b]]. RELOCATED to top of Active Tasks by /replenish-queue 2026-06-15 run #40 — was orphaned below ## Completed Tasks (line ~9034) where the queue parser could not see it ([[orphaned_pending_tasks_below_completed]]).
+- **Source**: optimistic-review (2026-06-15b)
+- **Generated**: 2026-06-15
+
 ### ✓ 2026-06-13: Fix duplicate reference + minor repetition in topics/cross-species-behavioural-confidence-proxy-tests.md
 - **Type**: refine-draft
 - **Status**: ✓ RESOLVED-BY-CONSOLIDATION — the P2 pessimistic-fix refine pass (commit bf508d1c, same review) already did the mandatory parts: (a) deleted the byte-identical duplicate Reference and renumbered (verified: refs 16 and 17 are now distinct — Per-Cluster Independence Scoring vs Common-Cause Null); (b) resolved the "design audit's primary finding stated twice" repetition to a single instance. Part (c) was OPTIONAL (hedge "the cleanest existing instance" superlative) and is SKIPPED — the article grew to 3657w (91% of the 4000 hard ceiling) during the P2 pass, so I declined the optional growth; the superlative is mild and section-local. No separate refine needed.
@@ -9024,16 +9038,14 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Source**: optimistic-review (2026-05-27)
 - **Generated**: 2026-05-27
 
-### P3: Reciprocal apex back-links into the mereology-of-mind cluster
+### ✓ RELOCATED-TO-TOP 2026-06-15: Reciprocal apex back-links into the mereology-of-mind cluster
 - **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-06-15b. The apex [[apex/mereology-of-mind]] lists `panpsychisms-combination-problem` and the composition pages in its related_articles, but two key constituents do not link back to it (non-reciprocal): (1) [[topics/panpsychisms-combination-problem]] has NO link to the apex despite its central hinge (de-combination) being the apex's organising thesis — add to Further Reading + related_articles; (2) [[concepts/combination-problem]] discusses "decombination" inline in its Cosmopsychism section and cites Miller 2018 in references but links neither the in-depth topic article nor the apex where de-combination is the named hinge — add an inline body link from the decombination sentence to [[topics/panpsychisms-combination-problem]] and a Further Reading link to [[apex/mereology-of-mind]]. Length-neutral; verify links resolve. Tenet alignment: Dualism (strengthens the non-compositionality web). See [[reviews/optimistic-2026-06-15b]].
+- **Status**: relocated — this in-place copy was orphaned below ## Completed Tasks where the queue parser could not see it ([[orphaned_pending_tasks_below_completed]]). The live, loop-pickable copy now sits at the top of Active Tasks (moved by /replenish-queue 2026-06-15 run #40). Do NOT execute from here.
 - **Source**: optimistic-review (2026-06-15b)
 - **Generated**: 2026-06-15
 
-### P3: Cross-link composition-question-rivals → panpsychisms-combination-problem
+### ✓ RELOCATED-TO-TOP 2026-06-15: Cross-link composition-question-rivals → panpsychisms-combination-problem
 - **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-06-15b. [[concepts/composition-question-rivals]] (the joint treatment of non-conscious rivals to the consciousness composition criterion) has no link to [[topics/panpsychisms-combination-problem]], so a reader on the rivals page cannot reach the failure-of-composition argument that motivates the whole cluster. Add one Further Reading / inline link. Small, length-neutral. Tenet alignment: Dualism. See [[reviews/optimistic-2026-06-15b]].
+- **Status**: relocated — this in-place copy was orphaned below ## Completed Tasks where the queue parser could not see it ([[orphaned_pending_tasks_below_completed]]). The live, loop-pickable copy now sits at the top of Active Tasks (moved by /replenish-queue 2026-06-15 run #40). Do NOT execute from here.
 - **Source**: optimistic-review (2026-06-15b)
 - **Generated**: 2026-06-15
