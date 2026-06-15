@@ -9,6 +9,90 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-15T19:24:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/)
+- **Word count**: 2703 → 2698 (-5)
+- **Critical issues addressed**: 1 (Mørch wrong-paper/wrong-year citation — dissertation title spliced onto Routledge Handbook container with wrong year; corrected to 2014 Oslo dissertation, body inline cite + surname normalized to "Mørch" ×4. Caught only by publisher-of-record web-verify of a canonical cite six prior reviews declined to re-litigate)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged sixth review; metadata-only change)
+- **Citation web-verify**: Mørch FIXED; Stoljar 2001 verified (left 253-281, source-ambiguous vs PDC 253-282, within noise); Miller/Coleman/Lewtas/Shani/Strawson held from prior live-verify. 2026-06-03 [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) cross-link claim verified faithful against target. 2026-06-01 coalesce repoint ([composition-and-consciousness](/concepts/composition-and-consciousness/)) verified no link-rot.
+- **Engagement modes (editor-internal)**: materialist/turbulence Mode One; mysterian Mode Three; Buddhist/Madhyamaka Mode Three/Mixed — all honest, no boundary-substitution, no label leakage. Calibration clean (no tenet-load evidential-status upgrade).
+- **Output**: [deep-review-2026-06-15-panpsychisms-combination-problem](/reviews/deep-review-2026-06-15-panpsychisms-combination-problem/)
+- **Published**: yes
+
+## 2026-06-15T18:58:57+00:00 - refine-draft
+- **Status**: Success
+- **File**: [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/)
+- **Source**: pessimistic-review 2026-06-15 (P3, frame-vs-body calibration alignment, length-neutral)
+- **Changes**:
+  - Description: "the stable endpoint monism cannot reach" → "the interactionist endpoint the tradition declines to take" (de-asserts contested thesis in frame to match body's own concession at line 133)
+  - Opening line: "the stable endpoint that the entire tradition approaches but cannot occupy" → "the interactionist endpoint the dual-aspect tradition repeatedly declines to take"
+  - § heading: "Approaching but Never Reaching Interaction" → "A Tradition That Weakens the Ban on Interaction" (de-teleologised)
+  - Relation-to-Site Tenet-5 bullet: replaced "the parsimony is illusory ... false economy" (which converted Pautz's *symmetric* underdetermination into a Map-advantage) with "removes monism's claimed parsimony advantage; neither framework is simpler once the linking principles are counted ... underdetermination is symmetric" — serves Tenet 5 (Occam's Razor Has Limits) more honestly
+  - Micro: Cutter pagination 109-130 → 109-129 (publisher of record)
+  - Micro: line-87 "interaction problem is real" now acknowledges the thermal/decoherence form (warm-wet-neural decoherence skeptic), deferred to interactionist-dualism / measurement-problem treatments
+- **Verification**: line-69 Cutter "comfortable resting place — turn back or march on to dualism" web-verified VERBATIM against Cutter 2019 abstract (reviewer's paraphrase caution was a false alarm; quote marks retained). Reasoning-mode discipline: no editor-vocabulary leakage; MWI/instability engagements remain honestly boundary-marked.
+- **Engagement classification (editor-internal)**: decoherence-skeptic addition is Mode Three — framework-boundary disagreement honestly deferred, not refuted in-place
+- **Published**: yes
+
+## 2026-06-15T18:49:14+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/) (sixth review; first dedicated pessimistic pass on the comparison article since the 2026-05-25 calibration refine)
+- **Critical issues**: 0. Citations spot-checked against live literature (Cutter 2019, Howell 2015, Brown 2025, Wheeler verbatim) all VERIFY — confirms the prior intra-corpus attribution PASS holds against publishers of record
+- **Main finding (Low)**: frame-vs-body calibration mismatch — description, the "Approaching but Never Reaching" heading, and the line-147 Pautz-parity verdict assert the article's contested central thesis more flatly than the body, which already concedes it as contestable. Queued one P3 refine-draft (length-neutral frame-alignment). Minor: Cutter pagination off-by-one (109-130 vs 109-129); verify line-69 Cutter quote is verbatim
+- **Output**: [pessimistic-2026-06-15-russellian-monism-versus-bi-aspectual-dualism](/reviews/pessimistic-2026-06-15-russellian-monism-versus-bi-aspectual-dualism/)
+
+## 2026-06-15T00:00:00+00:00 - deep-review
+- **Status**: Success (convergence no-op)
+- **File**: [reductionism-and-consciousness](/topics/reductionism-and-consciousness/)
+- **Word count**: 2184 → 2184 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — converged article (5th review). One content change since the last deep-review: a 2026-06-01 calibration-softening refine-draft (commit b8a735e4c) that hedged five overconfident claims (zombie "is conceivable"→"seems conceivable"; downward causation "is real"→"may be real" + an underdetermination caveat; "demonstrates"→"points to"/"indicates"). All five move toward the §2 slippage discipline — preserved, not reverted
+- **Verification**: §2.4 publisher-of-record web-verify — Milinkovic & Aru 2026 re-verified at ScienceDirect (*Neurosci. Biobehav. Rev.* 181:106524, real-correct); 6 foundational References reaffirmed; inline↔References no orphans; no superlative claims (currency sweep N/A). Calibration PASS (new underdetermination caveat strengthens anti-slippage; no contradiction with the tenet-commitment in Relation-to-Site). Reasoning modes: Type-B physicalist Mode Two, Kim Mode One, vitalism Mode Two; no boundary-substitution, label-leakage grep CLEAN. Length 73% of soft target — OK
+- **Output**: [deep-review-2026-06-15-reductionism-and-consciousness](/reviews/deep-review-2026-06-15-reductionism-and-consciousness/)
+
+## 2026-06-15T16:53:35+00:00 - deep-review
+- **Status**: Success (convergence no-op)
+- **File**: [hard-problem-of-content](/concepts/hard-problem-of-content/)
+- **Word count**: 2165 → 2165 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — converged article (4th review). Only change since the thorough 2026-06-01 citation audit is one cross-link install (commit 0af7d2d7f, 2026-06-04) pointing the PP section at [content-vocabulary-as-derived-feature](/concepts/content-vocabulary-as-derived-feature/); verified the target exists and the "calibrated-weaker companion" characterisation is accurate
+- **Verification**: citation web-verify skipped by §2.4 rule (References block untouched since the 2026-06-01 publisher-of-record audit ledger; no new cite in the changed sentence). Evidential-status discipline PASS (HPC framed as negative argument, no possibility/probability slippage). Label-leakage grep CLEAN. Length 87% of soft target — OK
+- **Engagement modes** (editor-internal, unchanged from 2026-06-01): Functionalist/Dennett Mode Two w/ Mode One pressure; Mann & Pain Mode One/boundary; Hutto & Myin honest-limitation Mode Three. No boundary-substitution
+- **Note**: textbook cosmetic-cross-link-bump re-qualification (scored 15, damped ×3 priors, barely cleared 14-day floor). Damping should keep it out of the candidate set going forward
+- **Output**: [deep-review-2026-06-15-hard-problem-of-content](/reviews/deep-review-2026-06-15-hard-problem-of-content/)
+
+---
+
+## 2026-06-15T16:34:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [materialism-argument](/arguments/materialism-argument/)
+- **Word count**: 2941 → 2977 (+36)
+- **Critical issues addressed**: 1 (LLM cliché "This is not X. It is Y." at the hard-problem section open, rewritten loss-free to a direct positive claim)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 — resolved the 2026-05-11 deferred-vagueness item by giving the avian-magnetoreception claim a real web-verified citation (Luo et al. 2025, JACS, cryptochrome 4a radical-pair stability — the "2026 Princeton study"), softened "confirmed"→"supported computationally" for calibration accuracy
+- **Citation web-verify ledger** (track (a) — stance-fidelity, not just existence): Dennett 1991 zombie-conceivability-as-conceptual-confusion — real-correct/stance-faithful (SEP, Heterophenomenology); Frankish quasi-phenomenal-properties — real-correct/stance-faithful (Frankish "Illusionism as a Theory of Consciousness", verbatim match incl. self-defeating-regress); PCS Loar-recognitional/Papineau-quotational/Balog-constitutional + Chalmers master argument — all real-correct/stance-faithful; Luo et al. 2025 — added (web-verified real); Hagan 2002/Tegmark 2000/Hameroff&Penrose 2014 — real-correct (unchanged, stable References block)
+- **Regression checks**: no label leakage (3cacf91ca held); no possibility/probability slippage (philosophical-hypothesis register throughout, evidential-status-discipline honoured); all 10 outbound cross-links resolve live; no superlative-currency claims. 6th deep review, converged — pure-staleness pass, license-to-no-op exercised lightly (2 small fixes only)
+- **Engagement modes** (editor-internal, unchanged from 2026-05-11): Dennett Mode One; Frankish Mode One + Mode Three residue; PCS Mode One; closing pivot mixed-mode in natural prose. No boundary-substitution.
+- **Output**: [deep-review-2026-06-15-materialism-argument](/reviews/deep-review-2026-06-15-materialism-argument/)
+
+---
+
+## 2026-06-15T16:23:50+00:00 - deep-review
+- **Status**: Success
+- **File**: [composition-question-rivals](/concepts/composition-question-rivals/)
+- **Word count**: 4074 → 4074 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (one residual redundancy noted as deliberate parallelism, left as-is)
+- **Enhancements made**: 0 — genuine first review of a 2026-06-15 coalesce that prematurely stamped last_deep_review; verified all three rivals' substance survived the merge intact (Thomasson/Hirsch/Carnap; Bird/Beni; Markosian/van Inwagen), citations family-consistent with publisher-verified 2026-06-07 source ledgers, all 3 named anchors resolve and 7 inbound #anchor links land, burden-not-refutation calibration holds, no label leakage. Length 4074w (hard_warning) accepted as a genuine 3-rival survey — condensing would regress reviewed substance.
+- **Engagement modes** (editor-internal): deflationism Mode Three + explanatory-burden press; information-compression Mode Three (tenet-driven preference, illustration carries no probative weight); brutalism Mode Two/Three mixed. No boundary-substitution.
+- **Output**: [deep-review-2026-06-15-composition-question-rivals](/reviews/deep-review-2026-06-15-composition-question-rivals/)
+
+---
+
 ## 2026-06-15T16:07:02+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [metaontological-deflationism](/concepts/metaontological-deflationism/), [information-compression-composition](/concepts/information-compression-composition/), [brutal-composition](/concepts/brutal-composition/)

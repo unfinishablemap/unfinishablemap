@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-06-15 15:17:25+00:00
+ai_modified: 2026-06-15 18:58:57+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -18,7 +18,8 @@ concepts:
 created: 2026-03-22
 date: &id001 2026-04-27
 description: Russellian monism and the dual-aspect tradition approach the Map's position
-  but stop short. Bi-aspectual dualism is the stable endpoint monism cannot reach.
+  but stop short. Bi-aspectual dualism is the interactionist endpoint the tradition
+  declines to take.
 draft: false
 human_modified: null
 last_curated: null
@@ -38,7 +39,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The Unfinishable Map and [Russellian monism](/concepts/russellian-monism/) start from the same insight: physics describes only the relational structure of matter — what things *do* — not what they *are*. Both conclude that consciousness cannot be reduced to structural description. Then they diverge. Russellian monism says consciousness *is* the intrinsic nature of physical entities, making mind and body two faces of one stuff. The Map's [bi-aspectual dualism](/concepts/bi-aspectual-ontology/) says consciousness is ontologically distinct from physical structure and causally interacts with it at quantum indeterminacies. This divergence — identity versus interaction — appears to shape everything downstream: whether the [combination problem](/concepts/combination-problem/) arises, whether consciousness does genuine causal work, and whether many-worlds interpretation remains viable. Recent work by Pautz (2017), Cutter (2019), and Kind (2015) argues that Russellian monism's middle path between physicalism and dualism is unstable. The broader dual-aspect tradition — Spinoza, Fechner, Pauli-Jung, Bohm — repeatedly approaches the Map's position but stops short of genuine interaction between aspects. On the reading this article develops, the Map's explicit interactionist dualism is the stable endpoint that the entire tradition approaches but cannot occupy while remaining monist — a reading that turns on whether the instability arguments below succeed, which is itself a contested question in the literature rather than a settled result.
+The Unfinishable Map and [Russellian monism](/concepts/russellian-monism/) start from the same insight: physics describes only the relational structure of matter — what things *do* — not what they *are*. Both conclude that consciousness cannot be reduced to structural description. Then they diverge. Russellian monism says consciousness *is* the intrinsic nature of physical entities, making mind and body two faces of one stuff. The Map's [bi-aspectual dualism](/concepts/bi-aspectual-ontology/) says consciousness is ontologically distinct from physical structure and causally interacts with it at quantum indeterminacies. This divergence — identity versus interaction — appears to shape everything downstream: whether the [combination problem](/concepts/combination-problem/) arises, whether consciousness does genuine causal work, and whether many-worlds interpretation remains viable. Recent work by Pautz (2017), Cutter (2019), and Kind (2015) argues that Russellian monism's middle path between physicalism and dualism is unstable. The broader dual-aspect tradition — Spinoza, Fechner, Pauli-Jung, Bohm — repeatedly approaches the Map's position but stops short of genuine interaction between aspects. On the reading this article develops, the Map's explicit interactionist dualism is the interactionist endpoint the dual-aspect tradition repeatedly declines to take while remaining monist — a reading that turns on whether the instability arguments below succeed, which is itself a contested question in the literature rather than a settled result.
 
 ## The Shared Foundation
 
@@ -86,7 +87,7 @@ The Russellian research programme has splintered into incompatible variants: Str
 
 ### The Interaction Problem
 
-If consciousness is ontologically distinct from physics, how does it influence physical outcomes? Russellian monism dissolves this by making mind and body aspects of one stuff. The Map must answer it. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) proposal identifies a specific locus — quantum indeterminacy — where physical law leaves outcomes undetermined, creating space for non-physical influence without energy injection. This is a mechanism sketch, not a complete theory. The combination problem may be worse than the interaction problem, but the interaction problem is real.
+If consciousness is ontologically distinct from physics, how does it influence physical outcomes? Russellian monism dissolves this by making mind and body aspects of one stuff. The Map must answer it. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) proposal identifies a specific locus — quantum indeterminacy — where physical law leaves outcomes undetermined, creating space for non-physical influence without energy injection. This is a mechanism sketch, not a complete theory. The combination problem may be worse than the interaction problem, but the interaction problem is real — not only in the bare form of how an ontologically distinct aspect touches physics at all, but in the sharper thermal form pressed by decoherence skeptics, who argue that environmental decoherence leaves no exploitable macroscopic indeterminacy at warm, wet neural scales. The Map's answers to that form are developed in the [interactionist dualism](/concepts/interactionist-dualism/) and [measurement](/concepts/measurement-problem/) treatments rather than here.
 
 ### Evolutionary Continuity
 
@@ -102,7 +103,7 @@ Because Russellian monism treats consciousness as the intrinsic nature of physic
 
 This may reveal a divergence in physics, not just metaphysics. The Map *requires* consciousness at collapse: selection among quantum outcomes is how actuality works on its account. Many-worlds eliminates selection by keeping all outcomes, thereby leaving no actualising role for consciousness to play. So the Map rejects [many-worlds](/tenets/#no-many-worlds) less as a free preference than as something its ontology appears to force, given that ontology. Russellian monism's interpretation-neutrality, by contrast, suggests it carries no comparable commitment to consciousness as causally active — the commitment the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet demands. A Russellian monist who shares the No-Many-Worlds intuition could of course add a collapse mechanism, but doing so would import exactly the causally active consciousness the identity thesis was meant to avoid needing. The same ontology-drives-the-verdict structure recurs in [Wheeler's participatory universe](/topics/wheelers-participatory-universe-and-it-from-bit/): Wheeler rejected Everett as "too great a load of metaphysical baggage" because an information ontology that produces a single definite bit at measurement leaves no room for branching — the Map's selection ontology rejects many-worlds for the parallel reason that a single outcome must be actualised.
 
-## The Dual-Aspect Tradition: Approaching but Never Reaching Interaction
+## The Dual-Aspect Tradition: A Tradition That Weakens the Ban on Interaction
 
 Russellian monism is not the only framework that shares the Map's bi-aspectual vocabulary while diverging on substance. The dual-aspect tradition — from Spinoza through Fechner, Pauli-Jung, Bohm, and into contemporary work by Hashemi — repeatedly approaches the Map's position but stops short of genuine causal interaction between aspects. Each step in the tradition weakens the prohibition on interaction without ever fully abandoning it.
 
@@ -146,7 +147,7 @@ This comparison engages all five of the Map's [tenets](/tenets/):
 
 **No Many Worlds**: Russellian monism's interpretation-neutrality reveals its agnosticism about consciousness's causal role at measurement — assigning consciousness no role at collapse, it bars no interpretation, many-worlds included. The Map's rejection of many-worlds follows from its ontology: if consciousness actualises possibilities, coexisting branches are ruled out.
 
-**Occam's Razor Has Limits**: Russellian monism claims parsimony (one stuff, two faces). Pautz shows the parsimony is illusory — the same brute linking principles are needed either way. Ontological simplicity that generates explanatory complexity (the combination problem) is false economy.
+**Occam's Razor Has Limits**: Russellian monism claims parsimony (one stuff, two faces). Pautz's parity argument removes monism's claimed parsimony advantage — neither framework is simpler once the brute linking principles are counted, since both sides need them. The underdetermination is symmetric, so no parsimony-based reason favours either view; the choice must turn on other considerations.
 
 ## Further Reading
 
@@ -166,7 +167,7 @@ This comparison engages all five of the Map's [tenets](/tenets/):
 2. Bohm, D. & Hiley, B.J. (1993). *The Undivided Universe: An Ontological Interpretation of Quantum Theory*. Routledge.
 3. Brown, C.D. (2025). How Russellian physicalism helps solve the mind-body problem. *Philosophia*, 53(3), 995-1007.
 4. Chalmers, D.J. (2017). The combination problem for panpsychism. In G. Bruntrup & L. Jaskolla (Eds.), *Panpsychism*. Oxford University Press.
-5. Cutter, B. (2019). Against the middle ground: Why Russellian monism is unstable. *Analytic Philosophy*, 60(2), 109-130.
+5. Cutter, B. (2019). Against the middle ground: Why Russellian monism is unstable. *Analytic Philosophy*, 60(2), 109-129.
 6. Eddington, A. (1928). *The Nature of the Physical World*. Cambridge University Press.
 7. Fechner, G.T. (1860). *Elemente der Psychophysik*. Breitkopf & Härtel.
 8. Hashemi, A. (2024). How to understand Russellian panpsychism. *Erkenntnis*.

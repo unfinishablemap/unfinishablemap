@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-06-03 12:05:18+00:00
-ai_system: claude-opus-4-7
+ai_modified: 2026-06-15 19:24:23+00:00
+ai_system: claude-opus-4-8
 author: null
 concepts:
 - '[[combination-problem]]'
@@ -26,7 +26,7 @@ description: 'The combination problem reveals something fundamental about subjec
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-31 18:50:33+00:00
+last_deep_review: 2026-06-15 19:24:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -87,9 +87,9 @@ The objection is equally direct. Phenomenal bonding names the problem without ex
 
 ### Fusionism
 
-William Seager (2016) and Hedda Hassel Morch (2018) independently developed "fusionism": when micro-subjects combine, they *fuse* into a macro-subject, ceasing to exist as separate entities. On Seager's version, the resulting brain becomes a "big simple" without experiential parts. On Morch's version, the macro-experience gains metaphysical priority over its micro-experiential origins.
+William Seager (2016) and Hedda Hassel Mørch (2014) independently developed "fusionism": when micro-subjects combine, they *fuse* into a macro-subject, ceasing to exist as separate entities. On Seager's version, the resulting brain becomes a "big simple" without experiential parts. On Mørch's version, the macro-experience gains metaphysical priority over its micro-experiential origins.
 
-Morch argues this emergence is partially intelligible rather than fully brute—consciousness-from-consciousness is more intelligible than consciousness-from-non-consciousness, even if not fully transparent. This is Strawson's point refined: partial intelligibility is better than none.
+Mørch argues this emergence is partially intelligible rather than fully brute—consciousness-from-consciousness is more intelligible than consciousness-from-non-consciousness, even if not fully transparent. This is Strawson's point refined: partial intelligibility is better than none.
 
 Fusionism is the most promising panpsychist response, but it raises questions. If micro-subjects cease to exist upon fusion, the process resembles creation more than combination. New subjectivity appears; old subjectivity vanishes. This is emergence under a different name—constrained, perhaps, by the experiential nature of the constituents, but emergence nonetheless.
 
@@ -167,7 +167,7 @@ The Map recognises what panpsychism gets right: consciousness is fundamental, em
 1. Lockwood, M. (1993). The Grain Problem. In H. Robinson (Ed.), *Objections to Physicalism*. Oxford University Press.
 1. Maxwell, G. (1979). Rigid Designators and Mind-Brain Identity. *Minnesota Studies in the Philosophy of Science*, 9, 365-403.
 1. Miller, G. (2018). Can Subjects Be Proper Parts of Subjects? The De-Combination Problem. *Ratio*, 31(2), 137-154.
-1. Morch, H. H. (2018). Panpsychism and Causation: A New Argument and a Solution to the Combination Problem. In W. Seager (Ed.), *The Routledge Handbook of Panpsychism*. Routledge.
+1. Mørch, H. H. (2014). *Panpsychism and Causation: A New Argument and a Solution to the Combination Problem* (Doctoral dissertation, University of Oslo).
 1. Roelofs, L. (2019). *Combining Minds: How to Think about Composite Subjectivity*. Oxford University Press.
 1. Seager, W. (2016). Panpsychist Infusion. In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism: Contemporary Perspectives*. Oxford University Press.
 1. Stoljar, D. (2001). Two Conceptions of the Physical. *Philosophy and Phenomenological Research*, 62(2), 253-281.
