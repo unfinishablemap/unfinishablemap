@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-07
-ai_modified: 2026-06-15 16:23:50+00:00
+ai_modified: 2026-06-15 21:01:11+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -28,13 +28,14 @@ related_articles:
 - '[[consciousness-and-the-metaphysics-of-composition]]'
 - '[[mereology-of-mind]]'
 - '[[combination-problem]]'
+- '[[panpsychisms-combination-problem]]'
 - '[[tenets]]'
 title: Rivals to the Consciousness Criterion for Composition
 topics:
 - '[[consciousness-and-the-metaphysics-of-composition]]'
 ---
 
-The Unfinishable Map argues that consciousness—or the integrated structure associated with it—marks the boundary of genuine composition: where simples form a real whole rather than a mere collection (developed in [composition-and-consciousness](/concepts/composition-and-consciousness/) and [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/)). That proposal is an answer to Peter van Inwagen's **Special Composition Question** (SCQ): *under what circumstances do some objects compose a further object?* (van Inwagen, *Material Beings*, 1990). It is not the only serious answer, and three rivals do not appeal to consciousness anywhere. This page gives each a fair hearing and then states the Map's calibrated reply to all three at once. Following the Map's [discipline on evidential status](/project/evidential-status-discipline/), each rival is treated as a position to out-explain, not one to defeat by stipulation; the Map claims to have refuted none of them.
+The Unfinishable Map argues that consciousness—or the integrated structure associated with it—marks the boundary of genuine composition: where simples form a real whole rather than a mere collection (developed in [composition-and-consciousness](/concepts/composition-and-consciousness/) and [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/), and motivated by [the failure of phenomenal composition](/topics/panpsychisms-combination-problem/)). That proposal is an answer to Peter van Inwagen's **Special Composition Question** (SCQ): *under what circumstances do some objects compose a further object?* (van Inwagen, *Material Beings*, 1990). It is not the only serious answer, and three rivals do not appeal to consciousness anywhere. This page gives each a fair hearing and then states the Map's calibrated reply to all three at once. Following the Map's [discipline on evidential status](/project/evidential-status-discipline/), each rival is treated as a position to out-explain, not one to defeat by stipulation; the Map claims to have refuted none of them.
 
 The three rivals sort cleanly by what they say about the SCQ itself:
 
@@ -142,6 +143,7 @@ The connection to [Dualism](/tenets/#dualism) is conditional. *If* there is a de
 - [composition-and-consciousness](/concepts/composition-and-consciousness/) — The mereological framework and the phenomenal-non-compositionality thesis the rivals contest
 - [mereology-of-mind](/apex/mereology-of-mind/) — The apex synthesis where the composition arguments are integrated
 - [combination-problem](/concepts/combination-problem/) — The panpsychist version of the wholes-from-parts problem
+- [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/) — The extended failure-of-composition argument: why subjectivity resists being assembled from parts, which motivates treating consciousness as the mark of genuine wholeness
 - [emergence](/concepts/emergence/) — The general problem of deriving wholes from parts
 - [parsimony-epistemology](/concepts/parsimony-epistemology/) — Why the Map distrusts simplicity as a tiebreaker, of which deflationism and brute facts mark limiting cases
 - [evidential-status-discipline](/project/evidential-status-discipline/) — The constrain-vs-establish discipline governing the Map's replies
