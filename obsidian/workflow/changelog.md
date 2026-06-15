@@ -5,6 +5,18 @@ ai_modified: 2026-06-15 15:17:25+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-15T16:23:50+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/composition-question-rivals]]
+- **Word count**: 4074 → 4074 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (one residual redundancy noted as deliberate parallelism, left as-is)
+- **Enhancements made**: 0 — genuine first review of a 2026-06-15 coalesce that prematurely stamped last_deep_review; verified all three rivals' substance survived the merge intact (Thomasson/Hirsch/Carnap; Bird/Beni; Markosian/van Inwagen), citations family-consistent with publisher-verified 2026-06-07 source ledgers, all 3 named anchors resolve and 7 inbound #anchor links land, burden-not-refutation calibration holds, no label leakage. Length 4074w (hard_warning) accepted as a genuine 3-rival survey — condensing would regress reviewed substance.
+- **Engagement modes** (editor-internal): deflationism Mode Three + explanatory-burden press; information-compression Mode Three (tenet-driven preference, illustration carries no probative weight); brutalism Mode Two/Three mixed. No boundary-substitution.
+- **Output**: [[reviews/deep-review-2026-06-15-composition-question-rivals]]
+
+---
+
 ## 2026-06-15T16:07:02+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [[concepts/metaontological-deflationism]], [[concepts/information-compression-composition]], [[concepts/brutal-composition]]

@@ -4,9 +4,9 @@ description: "The three serious answers to the Special Composition Question that
 created: 2026-06-07
 modified: 2026-06-15
 human_modified:
-ai_modified: 2026-06-15T16:07:02+00:00
+ai_modified: 2026-06-15T16:23:50+00:00
 draft: false
-last_deep_review: 2026-06-15T16:07:02+00:00
+last_deep_review: 2026-06-15T16:23:50+00:00
 topics:
   - "[[consciousness-and-the-metaphysics-of-composition]]"
 concepts:
