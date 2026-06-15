@@ -5,6 +5,18 @@ ai_modified: 2026-06-15 15:17:25+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-15T19:24:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/panpsychisms-combination-problem]]
+- **Word count**: 2703 → 2698 (-5)
+- **Critical issues addressed**: 1 (Mørch wrong-paper/wrong-year citation — dissertation title spliced onto Routledge Handbook container with wrong year; corrected to 2014 Oslo dissertation, body inline cite + surname normalized to "Mørch" ×4. Caught only by publisher-of-record web-verify of a canonical cite six prior reviews declined to re-litigate)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged sixth review; metadata-only change)
+- **Citation web-verify**: Mørch FIXED; Stoljar 2001 verified (left 253-281, source-ambiguous vs PDC 253-282, within noise); Miller/Coleman/Lewtas/Shani/Strawson held from prior live-verify. 2026-06-03 [[mathematical-structure-of-the-consciousness-physics-interface]] cross-link claim verified faithful against target. 2026-06-01 coalesce repoint ([[composition-and-consciousness]]) verified no link-rot.
+- **Engagement modes (editor-internal)**: materialist/turbulence Mode One; mysterian Mode Three; Buddhist/Madhyamaka Mode Three/Mixed — all honest, no boundary-substitution, no label leakage. Calibration clean (no tenet-load evidential-status upgrade).
+- **Output**: [[reviews/deep-review-2026-06-15-panpsychisms-combination-problem]]
+- **Published**: yes
+
 ## 2026-06-15T18:58:57+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/russellian-monism-versus-bi-aspectual-dualism]]

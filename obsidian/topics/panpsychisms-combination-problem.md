@@ -4,7 +4,7 @@ description: "The combination problem reveals something fundamental about subjec
 created: 2026-02-15
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-06-03T12:05:18+00:00
+ai_modified: 2026-06-15T19:24:23+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,10 +34,10 @@ related_articles:
   - "[[mathematical-structure-of-the-consciousness-physics-interface]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-8
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-05-31T18:50:33+00:00
+last_deep_review: 2026-06-15T19:24:23+00:00
 ---
 
 The combination problem does more than embarrass panpsychism. It reveals something deep about the nature of subjectivity: consciousness resists composition. If billions of micro-experiences cannot intelligibly combine into a unified mind, the problem is not merely that panpsychists lack the right mechanism. The problem is that subjectivity—the having of a perspective, the being of a "someone"—may be the sort of thing that cannot be assembled from parts at all. The Unfinishable Map takes this lesson seriously. Where panpsychism and physicalism both attempt to build consciousness from constituents, the Map treats it as ontologically distinct—something that interacts with matter rather than arising from it.
@@ -84,9 +84,9 @@ The objection is equally direct. Phenomenal bonding names the problem without ex
 
 ### Fusionism
 
-William Seager (2016) and Hedda Hassel Morch (2018) independently developed "fusionism": when micro-subjects combine, they *fuse* into a macro-subject, ceasing to exist as separate entities. On Seager's version, the resulting brain becomes a "big simple" without experiential parts. On Morch's version, the macro-experience gains metaphysical priority over its micro-experiential origins.
+William Seager (2016) and Hedda Hassel Mørch (2014) independently developed "fusionism": when micro-subjects combine, they *fuse* into a macro-subject, ceasing to exist as separate entities. On Seager's version, the resulting brain becomes a "big simple" without experiential parts. On Mørch's version, the macro-experience gains metaphysical priority over its micro-experiential origins.
 
-Morch argues this emergence is partially intelligible rather than fully brute—consciousness-from-consciousness is more intelligible than consciousness-from-non-consciousness, even if not fully transparent. This is Strawson's point refined: partial intelligibility is better than none.
+Mørch argues this emergence is partially intelligible rather than fully brute—consciousness-from-consciousness is more intelligible than consciousness-from-non-consciousness, even if not fully transparent. This is Strawson's point refined: partial intelligibility is better than none.
 
 Fusionism is the most promising panpsychist response, but it raises questions. If micro-subjects cease to exist upon fusion, the process resembles creation more than combination. New subjectivity appears; old subjectivity vanishes. This is emergence under a different name—constrained, perhaps, by the experiential nature of the constituents, but emergence nonetheless.
 
@@ -164,7 +164,7 @@ The Map recognises what panpsychism gets right: consciousness is fundamental, em
 1. Lockwood, M. (1993). The Grain Problem. In H. Robinson (Ed.), *Objections to Physicalism*. Oxford University Press.
 1. Maxwell, G. (1979). Rigid Designators and Mind-Brain Identity. *Minnesota Studies in the Philosophy of Science*, 9, 365-403.
 1. Miller, G. (2018). Can Subjects Be Proper Parts of Subjects? The De-Combination Problem. *Ratio*, 31(2), 137-154.
-1. Morch, H. H. (2018). Panpsychism and Causation: A New Argument and a Solution to the Combination Problem. In W. Seager (Ed.), *The Routledge Handbook of Panpsychism*. Routledge.
+1. Mørch, H. H. (2014). *Panpsychism and Causation: A New Argument and a Solution to the Combination Problem* (Doctoral dissertation, University of Oslo).
 1. Roelofs, L. (2019). *Combining Minds: How to Think about Composite Subjectivity*. Oxford University Press.
 1. Seager, W. (2016). Panpsychist Infusion. In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism: Contemporary Perspectives*. Oxford University Press.
 1. Stoljar, D. (2001). Two Conceptions of the Physical. *Philosophy and Phenomenological Research*, 62(2), 253-281.
