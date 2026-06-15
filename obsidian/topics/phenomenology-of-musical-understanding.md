@@ -4,7 +4,7 @@ description: "Musical understanding reveals consciousness as irreducibly tempora
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-06-02T07:53:02+00:00
+ai_modified: 2026-06-15T13:13:30+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,10 +31,10 @@ related_articles:
   - "[[predictive-processing-and-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-7
+ai_system: claude-opus-4-8
 ai_generated_date: 2026-02-18
 last_curated:
-last_deep_review: 2026-05-31T20:35:00+00:00
+last_deep_review: 2026-06-15T13:13:30+00:00
 ---
 
 Music poses a distinctive challenge for theories of consciousness. When you hear a melody resolve from tension to resolution—when a minor key passage shifts to major, or a dissonant chord finds its tonic—you *understand* something. But what you understand cannot be stated propositionally. The understanding is irreducibly phenomenal: temporal, aesthetic, and emotional in ways that resist translation into any other medium. The Unfinishable Map argues that musical understanding provides a particularly revealing test case for dualism, because it combines temporal phenomenology, aesthetic qualia, and non-propositional meaning in a single experience that materialist accounts struggle to accommodate.
@@ -47,7 +47,7 @@ This understanding has several distinctive features:
 
 **Temporal constitution.** Musical meaning unfolds across time and cannot be compressed into an instant. A chord's emotional weight depends entirely on what preceded it. The resolution of a suspension depends on hearing the dissonance *as* dissonance—which requires having heard the preceding consonance. [[temporal-consciousness|Bergson's durée]] captures this precisely: musical experience is a qualitative multiplicity where each moment interpenetrates with every other, each note heard in light of what came before and in anticipation of what follows.
 
-**Non-propositional content.** Music means something, but what it means cannot be fully captured in words. A funeral march communicates grief, but not the proposition "someone has died." A triumphant fanfare communicates exultation without asserting anything. This is not vagueness or imprecision—it is a different *kind* of meaning, one that operates through felt quality rather than representational content.
+**Non-propositional content.** Music means something, but what it means cannot be fully captured in words. A funeral march communicates grief, but not the proposition "someone has died." A triumphant fanfare communicates exultation without asserting anything. The result reads as vagueness only to an account that expects all meaning to be representational; what music actually trades in is a different *kind* of meaning, one that operates through felt quality rather than propositional content.
 
 **Aesthetic normativity.** Musical understanding involves perceiving rightness and wrongness. When a trained listener hears a wrong note in a familiar piece, the wrongness is immediate and involuntary—not a judgment applied after perception but a feature of the perception itself. This normative dimension connects to the broader argument from [[aesthetics-and-consciousness|aesthetic consciousness]]: the rightness of a particular harmonic progression is intrinsic to how it is experienced, not an evaluation layered onto neutral sensory data.
 
@@ -57,7 +57,7 @@ Music exploits the structure of the [[temporal-consciousness|specious present]] 
 
 The specious present's ~100ms to 3-second window provides the phenomenological horizon within which musical phrases cohere. Within this window, retention holds the just-past notes present while protention anticipates what should follow. Rhythm depends on this structure entirely—a beat is experienced as *on the beat* only relative to the retained pattern of preceding beats and the protended continuation. A system that processed each beat independently, with no retention, could never experience rhythm.
 
-This temporal binding creates the phenomenon of harmonic tension and resolution. When a dominant seventh chord sounds, listeners with even minimal exposure to tonal music experience a pull toward the tonic. The pull is not a thought or a judgment—it is a felt quality of the experience itself, a protentional structure that anticipates one continuation over others. When the resolution arrives, something closes. When it doesn't—when the harmony moves elsewhere—the surprise is phenomenal, not cognitive.
+This temporal binding creates the phenomenon of harmonic tension and resolution. When a dominant seventh chord sounds, listeners with even minimal exposure to tonal music experience a pull toward the tonic. That pull arrives as a felt quality of the experience itself—a protentional structure that anticipates one continuation over others—long before any thought or judgment about it could form. When the resolution arrives, something closes. When it doesn't—when the harmony moves elsewhere—the surprise is phenomenal, not cognitive.
 
 Bergson's concept of qualitative multiplicity finds its clearest illustration in music. The notes of a phrase do not sit beside each other like objects in space. They interpenetrate: C heard after G in the context of a C major phrase is qualitatively different from C heard after F in the context of an F major phrase. The "same" note is a different experience depending on its musical context, because the preceding notes colour the present tone through retention. This interpenetration is what makes music a temporal art rather than a spatial one.
 
@@ -79,7 +79,7 @@ The framework explains much. It accounts for why unfamiliar tonal systems gradua
 
 The [[explanatory-gap]] survives nonetheless. Predictive-coding models specify *what* the brain computes and *when*; they remain silent on *why* the prediction error at a deceptive cadence feels the way it does rather than some other way, or feeling like nothing at all. A [[philosophical-zombies|silicon system could implement the same Bayesian hierarchy]] with no accompanying phenomenology—this is the standard hard-problem point, but it applies with particular force when predictive coding is offered as the full story. The literature sometimes slides between "explains the functional role of surprise" and "explains what surprise feels like," but these are distinct claims. The functional explanation is compatible with dualism. The phenomenal explanation is what remains at issue.
 
-This is not a dismissal of predictive coding as neuroscience. The mechanics of musical cognition are a legitimate computational target, and the Map expects most of the processing story to look like this. The divergence from strong functionalism is not about the mechanics but about whether those mechanics exhaust what requires explanation. On the Map's view, the predictive hierarchy is the physical substrate that consciousness exploits; it is not what consciousness *is*.
+Predictive coding stands as legitimate neuroscience on the Map's view. The mechanics of musical cognition are a proper computational target, and the Map expects most of the processing story to look like this. The divergence from strong functionalism is not about the mechanics but about whether those mechanics exhaust what requires explanation. On the Map's view, the predictive hierarchy is the physical substrate that consciousness exploits; it is not what consciousness *is*.
 
 ## Emotion Without Proposition
 
