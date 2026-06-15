@@ -4,7 +4,7 @@ description: "At any decision point involving genuine indeterminacy, exactly thr
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-06-13T07:16:22+00:00
+ai_modified: 2026-06-15T20:42:33+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-03-10
 last_curated:
-last_deep_review: 2026-05-26T23:08:08+00:00
+last_deep_review: 2026-06-15T20:42:33+00:00
 ---
 
 When a neural decision point involves genuine indeterminacy, exactly three options obtain. The outcome was determined all along—deliberation is theatre. The outcome is genuinely undetermined but nothing guides the resolution—it is luck, not choice. Or consciousness selects among the available options based on reasons. These three exhaust the logical space. No fourth possibility exists.
