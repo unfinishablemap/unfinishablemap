@@ -37,6 +37,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep review concepts/composition-question-rivals.md (verify fresh coalesce merge + over-length)
+- **Type**: deep-review
+- **File**: obsidian/concepts/composition-question-rivals.md
+- **Notes**: Created 2026-06-15 by /coalesce merging 3 same-day SCQ-rival concepts (metaontological-deflationism, information-compression-composition, brutal-composition → composition-question-rivals, 4074w from ~5160w combined). Coalesce STAMPED `last_deep_review: 2026-06-15` on this UNREVIEWED merge, which hides review debt and keeps it out of the staleness queue for ~30d ([[coalesce-hides-review-debt-and-regresses-fixes]]) — so this explicit verify pass is the remediation. Deep-review must: (a) scrutinise the merged content for regressions or equivocations introduced by consolidation — "no critical issues" from a coalesce is SUSPECT; check each of the three rivals' substance survived intact (Thomasson/Hirsch/Carnap deflationism; Bird/Beni information-compression; Markosian/van Inwagen brutal composition) and that the consolidated SCQ setup + fifth-tenet burden-not-refutation replies did not over- or under-state any rival; (b) web-verify all citations at publisher of record ([[ai-citation-metadata-unreliable]]) — merged-from-stubs cites are higher-risk; (c) ASSESS LENGTH: 4074w is `hard_warning` (concepts hard 3500, critical 5000) — decide condense-vs-accept-as-survey; a 3-rival survey may justify the length, but if redundancy remains from the merge, condense length-neutrally preserving each rival's substance; (d) honour [[evidential-status-discipline]] (calibrated burden-not-refutation framing must hold); confirm the named anchors per rival resolve and inbound `#anchor` links land. If genuinely clean after real scrutiny, a confirming verdict is fine — but verify, do not trust the coalesce stamp. Tenet alignment: Occam's Razor Has Limits (the rivals are parsimony-driven anti-realist/realist alternatives to the consciousness criterion).
+
 ### P3: Deep review arguments/materialism-argument.md (changed-since-review staleness, gap ~34d)
 - **Type**: deep-review
 - **File**: obsidian/arguments/materialism-argument.md
