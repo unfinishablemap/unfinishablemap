@@ -5,6 +5,18 @@ ai_modified: 2026-06-15 15:17:25+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-15T20:30:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/panpsychisms-combination-problem]] and [[concepts/combination-problem]]
+- **Source**: optimistic review [[reviews/optimistic-2026-06-15b]] — non-reciprocal cross-link repair (multi-file)
+- **Changes**:
+  - topics/panpsychisms-combination-problem: added back-link to apex [[mereology-of-mind]] from the de-combination/cosmopsychism paragraph (Miller 2018 hinge), plus a Further Reading entry and a related_articles entry. The article's central hinge (de-combination) is the apex's organising thesis; previously no link pointed to the apex.
+  - concepts/combination-problem: added inline body link from the "decombination problem" sentence (Cosmopsychism section, Miller) to the in-depth topic [[panpsychisms-combination-problem]]; added Further Reading links to both [[panpsychisms-combination-problem]] and the apex [[mereology-of-mind]]. (related_articles already carried [[mereology-of-mind]].)
+- **Tenet alignment**: Dualism — strengthens the non-compositionality cross-link web
+- **Length**: neutral (additions are link sentences/list items only; argument unchanged, voice preserved)
+- **Verification**: all three slugs unique single-owner, links resolve (no archive-redirect collisions)
+- **Published**: yes
+
 ## 2026-06-15T20:11:14+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: The mereology-of-mind cluster (apex/mereology-of-mind, topics/panpsychisms-combination-problem deep-reviewed earlier today, concepts/composition-and-consciousness) — distinct from the day's first optimistic review, which covered a different article set

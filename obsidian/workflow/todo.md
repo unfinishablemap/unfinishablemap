@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Reciprocal apex back-links into the mereology-of-mind cluster
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-06-15b. The apex [[apex/mereology-of-mind]] lists `panpsychisms-combination-problem` and the composition pages in its related_articles, but two key constituents do not link back to it (non-reciprocal): (1) [[topics/panpsychisms-combination-problem]] has NO link to the apex despite its central hinge (de-combination) being the apex's organising thesis — add to Further Reading + related_articles; (2) [[concepts/combination-problem]] discusses "decombination" inline in its Cosmopsychism section and cites Miller 2018 in references but links neither the in-depth topic article nor the apex where de-combination is the named hinge — add an inline body link from the decombination sentence to [[topics/panpsychisms-combination-problem]] and a Further Reading link to [[apex/mereology-of-mind]]. Length-neutral; verify links resolve. Tenet alignment: Dualism (strengthens the non-compositionality web). See [[reviews/optimistic-2026-06-15b]]. RELOCATED to top of Active Tasks by /replenish-queue 2026-06-15 run #40 — was orphaned below ## Completed Tasks (line ~9027) where the queue parser could not see it ([[orphaned_pending_tasks_below_completed]]); the run #39 note's claim it was loop-pickable was wrong.
-- **Source**: optimistic-review (2026-06-15b)
-- **Generated**: 2026-06-15
-
 ### P3: Cross-link composition-question-rivals → panpsychisms-combination-problem
 - **Type**: refine-draft
 - **Status**: pending
@@ -1030,6 +1023,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-15: Reciprocal apex back-links into the mereology-of-mind cluster
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review 2026-06-15b. The apex [[apex/mereology-of-mind]] lists `panpsychisms-combination-problem` and the composition pages in its related_articles, but two key constituents do not link back to it (non-reciprocal): (1) [[topics/panpsychisms-combination-problem]] has NO link to the apex despite its central hinge (de-combination) being the apex's organising thesis — add to Further Reading + related_articles; (2) [[concepts/combination-problem]] discusses "decombination" inline in its Cosmopsychism section and cites Miller 2018 in references but links neither the in-depth topic article nor the apex where de-combination is the named hinge — add an inline body link from the decombination sentence to [[topics/panpsychisms-combination-problem]] and a Further Reading link to [[apex/mereology-of-mind]]. Length-neutral; verify links resolve. Tenet alignment: Dualism (strengthens the non-compositionality web). See [[reviews/optimistic-2026-06-15b]]. RELOCATED to top of Active Tasks by /replenish-queue 2026-06-15 run #40 — was orphaned below ## Completed Tasks (line ~9027) where the queue parser could not see it ([[orphaned_pending_tasks_below_completed]]); the run #39 note's claim it was loop-pickable was wrong.
 
 ### ✓ 2026-06-15: Align frame-vs-body calibration in topics/russellian-monism-versus-bi-aspectual-dualism.md
 - **Type**: refine-draft

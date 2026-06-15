@@ -4,7 +4,7 @@ description: "The combination problem reveals something fundamental about subjec
 created: 2026-02-15
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-06-15T19:24:23+00:00
+ai_modified: 2026-06-15T20:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,7 @@ concepts:
   - "[[composition-and-consciousness|phenomenal non-compositionality]]"
 related_articles:
   - "[[tenets]]"
+  - "[[mereology-of-mind]]"
   - "[[panpsychism-consciousness-2026-01-08]]"
   - "[[quantum-holism-and-phenomenal-unity]]"
   - "[[consciousness-and-the-metaphysics-of-individuation]]"
@@ -94,7 +95,7 @@ Fusionism is the most promising panpsychist response, but it raises questions. I
 
 Philip Goff (in later work) and Itay Shani propose inverting the problem entirely. Rather than building consciousness up from micro-experiences, cosmopsychism holds that the universe as a whole is the fundamental conscious subject. Individual minds are not combinations of micro-minds but *dissociations* from cosmic consciousness.
 
-This trades the combination problem for a "decombination problem": how does one cosmic subject fragment into billions of separate perspectives? Gregory Miller (2018) argues this is no easier—we still face subjects as parts of other subjects. Cosmopsychism also inherits a tension with empirical neuroscience: if my consciousness is a fragment of cosmic consciousness, why does it track brain activity so precisely? Why does anaesthesia suppress it? The cosmic mind would need to explain why its fragments correlate with specific neural configurations.
+This trades the combination problem for a "decombination problem": how does one cosmic subject fragment into billions of separate perspectives? Gregory Miller (2018) argues this is no easier—we still face subjects as parts of other subjects. The apex synthesis [[mereology-of-mind|The Mereology of Mind]] makes this de-combination move its organising hinge, treating subject-summing and subject-dividing as the same impossibility approached from opposite ends. Cosmopsychism also inherits a tension with empirical neuroscience: if my consciousness is a fragment of cosmic consciousness, why does it track brain activity so precisely? Why does anaesthesia suppress it? The cosmic mind would need to explain why its fragments correlate with specific neural configurations.
 
 ### Eliminating Subjects
 
@@ -141,6 +142,7 @@ The Map recognises what panpsychism gets right: consciousness is fundamental, em
 ## Further Reading
 
 - [[combination-problem]] — Definitional treatment of the problem and its dimensions
+- [[mereology-of-mind]] — The apex synthesis where de-combination is the organising hinge joining composition and individuation
 - [[panpsychism]] — The view facing this challenge
 - [[russellian-monism]] — The most developed framework for contemporary panpsychism
 - [[composition-and-consciousness|phenomenal non-compositionality]] — The Map's fuller statement of the asymmetry between physical and phenomenal composition
