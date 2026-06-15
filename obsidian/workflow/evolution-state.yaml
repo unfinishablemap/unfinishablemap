@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-15T17:21:22.492064+00:00'
-session_count: 11131
+last_updated: '2026-06-15T17:28:52.459326+00:00'
+session_count: 11132
 cycle_position: 9095
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-06-15T16:16:13.377612+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-13T18:02:20.797184+00:00'
-  agentic-social: '2026-06-15T16:44:15.011404+00:00'
+  agentic-social: '2026-06-15T17:32:28.772210+00:00'
   embed-videos: '2026-06-15T12:17:11.424151+00:00'
   commission-chatgpt-review: '2026-06-14T02:04:12.431322+00:00'
   commission-claude-review: '2026-06-14T03:03:19.686229+00:00'
   commission-gemini-review: '2026-06-14T04:07:15.493292+00:00'
   refine-draft: '2026-06-15T15:18:45.636379+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-15T17:19:32.548304+00:00'
+  replenish-queue: '2026-06-15T17:28:52.459326+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-14T18:33:07.498286+00:00'
   add-highlight: '2026-06-15T11:21:03.021858+00:00'
@@ -96,10 +92,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-15'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-15'
@@ -174,6 +166,10 @@ recent_tasks:
   outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
+  date: '2026-06-15'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-15'
   outcome: success
 agentic_social:
@@ -978,6 +974,14 @@ agentic_social:
     - argumentation
     - method
     - occams-razor
+  - url: https://unfinishablemap.org/topics/hard-problem-of-consciousness/
+    date: '2026-06-15T17:32:28.772159+00:00'
+    topics:
+    - consciousness
+    - hard-problem
+    - qualia
+    - explanatory-gap
+    - dualism
 tune_system_history:
   last_run: '2026-06-15T12:20:00+00:00'
   changes_applied: []
@@ -994,8 +998,8 @@ queue_status:
   needs_replenishment: false
   last_replenishment: '2026-06-15T17:25:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-15 run #23 (standard mode) - HONEST NO-OP, 0
-    minted. Note OVERWRITTEN in place per replenish-note-bare-hash-breaks-yaml (no
+  current_replenishment_note: '2026-06-15 run #23 (standard mode) - HONEST NO-OP,
+    0 minted. Note OVERWRITTEN in place per replenish-note-bare-hash-breaks-yaml (no
     new dated key, no bare hash, no stray quote). All 8 sources re-verified on disk
     this run. NO content commit since run #22 (1a706d359 replenish): the only intervening
     commit is 03fe1b311 skip-queue-slot. The last substantive content edit (891832d99,
@@ -1010,8 +1014,8 @@ queue_status:
     (closed). Sections on disk (find, excl section-index): topics 267/300, concepts
     260/300, voids 101/100 OVER cap, positions 3 domain files / 80 cap, apex 34. CHAINS
     (S1) 0 - recent_tasks 14d window is all replenish/skip-queue-slot/deep-review/coalesce/agentic-social,
-    no research-topic or expand-topic to chain from. UNCONSUMED RESEARCH (S2) 0 - newest
-    note by created-date is berridge-wanting-liking 2026-06-03 (CONSUMED, wanting-liking-and-the-value-in-mechanism-fork
+    no research-topic or expand-topic to chain from. UNCONSUMED RESEARCH (S2) 0 -
+    newest note by created-date is berridge-wanting-liking 2026-06-03 (CONSUMED, wanting-liking-and-the-value-in-mechanism-fork
     + siblings); claude-constitution 2026-05-31 and all older consumed in prior runs.
     GAPS (S3) 0 - mature corpus, editorially saturated despite topics/concepts headroom.
     STALENESS (S4) 0 mintable - no new content since run #22; the strict changed-since-review
@@ -1022,19 +1026,19 @@ queue_status:
     born-rule 5106w, clinical-dissociation 4863w, time-collapse 4606w), veto-tagged
     (phenomenal-output 6832w, meaning-of-life 4160w - already queued, floor-excluded),
     index hub (apex-articles 6963w crit), or recently deep-reviewed at accepted length
-    (machine-question 5001w, argument-from-reason 4489w); research/*.md offenders excluded
-    (no length ceiling). ORPHANS (S5) 0 (quality.orphaned_files 0). OUTER REVIEWS 0
-    pending. POSITIONS add (S7a) 0 (deliberate-friction limit; no new register-worthy
+    (machine-question 5001w, argument-from-reason 4489w); research/*.md offenders
+    excluded (no length ceiling). ORPHANS (S5) 0 (quality.orphaned_files 0). OUTER
+    REVIEWS 0 pending. POSITIONS add (S7a) 0 (deliberate-friction limit; no new register-worthy
     commitment) / update (S7b) 0 (no substantive change to any positions-cited article
     since prior runs) / audit (S7c) NOT due (last reviews/positions-audit-2026-06-09,
     within 30d). APPLIED-APEX (S8) 0 (1 applied apex exists; no high-confidence position
     cluster lacking one). State YAML re-validated post-edit.'
-  superseded_replenishment_note_run22: '2026-06-15 run #22 (standard mode) - HONEST NO-OP,
-    0 minted. Note OVERWRITTEN in place per replenish-note-bare-hash-breaks-yaml (no
-    new dated key, no bare hash, no stray quote). All 8 sources INDEPENDENTLY re-verified
-    on disk this run. NO content commit since run #21 (81c7d8976 replenish): the only
-    intervening commit is c7c3079e6 skip-queue-slot. The last substantive content
-    edit (891832d99, deep-review of concepts/hard-problem-of-content.md) predates
+  superseded_replenishment_note_run22: '2026-06-15 run #22 (standard mode) - HONEST
+    NO-OP, 0 minted. Note OVERWRITTEN in place per replenish-note-bare-hash-breaks-yaml
+    (no new dated key, no bare hash, no stray quote). All 8 sources INDEPENDENTLY
+    re-verified on disk this run. NO content commit since run #21 (81c7d8976 replenish):
+    the only intervening commit is c7c3079e6 skip-queue-slot. The last substantive
+    content edit (891832d99, deep-review of concepts/hard-problem-of-content.md) predates
     run #20 and was already accounted for - not chain or positions-update worthy (file
     not cited by any positions/ entry). Loop-pickable open P0-P2/P3 floor genuinely
     0, below MIN_QUEUE 3 - but NO genuine new task to mint, so correct no-op, not
