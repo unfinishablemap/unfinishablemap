@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-15T18:02:08.442153+00:00'
-session_count: 11139
-cycle_position: 9097
+last_updated: '2026-06-15T18:04:04.755612+00:00'
+session_count: 11140
+cycle_position: 9098
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-15T13:55:20.660703+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-14T04:07:15.493292+00:00'
   refine-draft: '2026-06-15T15:18:45.636379+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-15T18:02:08.442153+00:00'
+  replenish-queue: '2026-06-15T18:30:00+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-14T18:33:07.498286+00:00'
   add-highlight: '2026-06-15T11:21:03.021858+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-06-13T10:48:30.875831+00:00'
   check-model-fallback: '2026-06-15T15:31:11.183922+00:00'
   harvest-research-subjects: '2026-06-15T11:25:54.720875+00:00'
-  skip-queue-slot: '2026-06-15T17:54:41.472804+00:00'
+  skip-queue-slot: '2026-06-15T18:04:04.755612+00:00'
 last_git_push: '2026-06-15T15:25:03.023133+00:00'
 last_tweet_date: '2026-06-15'
 content_stats:
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-15'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-15'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-15'
+  outcome: success
+- task: skip-queue-slot
+  type: skip-queue-slot
   date: '2026-06-15'
   outcome: success
 agentic_social:
@@ -1000,44 +1000,41 @@ queue_status:
   p2_tasks: 2
   p3_tasks: 0
   needs_replenishment: false
-  last_replenishment: '2026-06-15T18:20:00+00:00'
+  last_replenishment: '2026-06-15T18:30:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-15 run #26 (standard mode) - HONEST NO-OP,
-    0 minted (5th consecutive no-op). Note OVERWRITTEN in place per replenish-note-bare-hash-breaks-yaml
-    (no new dated key, no bare hash, no stray quote). All 8 sources re-verified on
-    disk this run. NO content commit since run #25 (0c00ce431 replenish): the only
-    intervening commit is 7e03236d2 skip-queue-slot (no content change). Loop-pickable
-    open P0-P2/P3 floor genuinely 0, below MIN_QUEUE 3 - but NO genuine new task to
-    mint, so correct no-op, not starvation (expected steady-state floor-alternation,
-    not the fixed deadlock). Active Tasks open (loop-pickable): 0. Standing Active
-    headers: 2 veto-tagged condense P2 (meaning-of-life 4160w, phenomenal-output 6989w
-    - floor-excluded by design) + 2 HUMAN LENGTH DECISION duhem-quine tasks (human-decision
-    type, not loop-pickable); all other Active headers struck/checkmarked/relocated
+  current_replenishment_note: '2026-06-15 run #27 (standard mode) - HONEST NO-OP,
+    0 minted (6th consecutive no-op). Note OVERWRITTEN in place per replenish-note-bare-hash-breaks-yaml
+    (no new dated key, no bare hash, no stray quote). All 8 sources INDEPENDENTLY re-verified
+    on disk this run (not trusting prior note). NO content commit since run #26 (ff05c747c
+    replenish): the only intervening commit is 9ac85449d skip-queue-slot (no content
+    change; git-confirmed). Loop-pickable open P0-P2/P3 floor genuinely 0, below MIN_QUEUE
+    3 - but NO genuine new task to mint, so correct no-op, not starvation (expected
+    steady-state floor-alternation, not the fixed deadlock). Active Tasks open (loop-pickable):
+    0. Standing Active headers: 2 veto-tagged condense P2 (meaning-of-life 4160w, phenomenal-output
+    6832w - floor-excluded by design) + 2 HUMAN LENGTH DECISION duhem-quine tasks (human-decision
+    type, not loop-pickable); all other Active headers struck/checkmarked/relocated/diverted
     (closed). Sections on disk (find, excl section-index): topics 267/300, concepts
-    260/300, voids 101/100 OVER cap, positions 3 domain files / 80 cap, apex 33. CHAINS
-    (S1) 0 - recent_tasks 14d window is all replenish/skip-queue-slot/deep-review/agentic-social/embed-videos,
-    no research-topic or expand-topic to chain from. UNCONSUMED RESEARCH (S2) 0 -
-    3 newest notes by created-date all CONSUMED (verified on disk this run): tacit-integration-void
-    2026-04-27 (voids/tacit-integration-void EXISTS), illusionism-functional-seeming
-    2026-03-28 (concepts/illusionism + functional-seeming EXIST), resonance-void 2026-03-24
-    (coalesced, archive/voids/resonance-void ARCHIVED); all older consumed in prior
+    260/300, voids 101/100 OVER cap, positions 4 domain files (3 + index) / 80 cap,
+    apex 34. CHAINS (S1) 0 - recent_tasks 14d window is all replenish/skip-queue-slot/deep-review/agentic-social/embed-videos,
+    no research-topic or expand-topic to chain from. UNCONSUMED RESEARCH (S2) 0 - 3
+    newest notes by created-frontmatter all CONSUMED (verified on disk this run): berridge-wanting-liking
+    2026-06-03 (wanting-liking-and-the-value-in-mechanism-fork + siblings EXIST), claude-constitution
+    2026-05-31, pci-phi-anaesthesia-recovery 2026-05-27; all older consumed in prior
     runs. GAPS (S3) 0 - mature corpus, editorially saturated despite topics/concepts
-    headroom. STALENESS (S4) 0 mintable - no new content since run #25; the changed-since-review
-    set (gap>=14d, ai_contribution>=50, ai_modified>last_deep_review) is the documented
-    over-review churn set, the 3 highest-gap hits (arguments.md 28d, appetitive-void
-    28d, trilemma-of-selection 19d) each have their MOST-RECENT edit as a post-review
-    refine-draft (calibration/equivocation fix), i.e. already-maintained converged
-    articles, not new content - the cycle deep-review slots handle genuine staleness.
-    LENGTH (S6) 0 mintable - get_length_warnings re-run THIS run: 22 non-research
-    hard/critical offenders (unchanged), all human-DIVERTED calibration flagships
-    (epistemology-of-convergence 6479w crit, born-rule 5106w, clinical-dissociation
-    4863w, time-collapse 4606w, laws-and-dispositions 4213w), veto-tagged (phenomenal-output
-    6989w, meaning-of-life 4160w - already queued, floor-excluded), index hub (apex-articles
-    6963w crit), or recently deep-reviewed at accepted length (machine-question 5001w,
-    argument-from-reason 4489w, epistemic-advantages-of-dualism 4400w, composition-question-rivals
-    4074w deep-reviewed today 16:23 ldr==ai_modified); research/*.md offenders excluded
-    (no length ceiling). ORPHANS (S5) 0 (quality.orphaned_files 0). OUTER REVIEWS
-    0 pending (pending-reviews.yaml empty []). POSITIONS add (S7a) 0 (deliberate-friction
+    headroom. STALENESS (S4) 0 mintable - no new content since run #26; the changed-since-review
+    set is the documented over-review churn set (already-maintained converged articles,
+    not new content) - the cycle deep-review slots handle genuine staleness. LENGTH
+    (S6) 0 mintable - get_length_warnings re-run THIS run: 22 non-research hard/critical
+    offenders (unchanged), all human-DIVERTED calibration flagships (epistemology-of-convergence
+    6479w crit, born-rule 5106w, clinical-dissociation 4863w, time-collapse 4606w,
+    laws-and-dispositions 4213w), veto-tagged (phenomenal-output 6832w, meaning-of-life
+    4160w - already queued, floor-excluded), index hub (apex-articles 6963w crit),
+    or recently deep-reviewed at accepted length (machine-question 5001w, argument-from-reason
+    4489w, epistemic-advantages-of-dualism 4400w, composition-question-rivals 4074w);
+    research/*.md offenders excluded (no length ceiling). ORPHANS (S5) 0 (quality.orphaned_files
+    0). OUTER REVIEWS 0 pending (pending-reviews.yaml empty []); note outer-todo.md
+    has an open P1 dualism-as-ai-risk subject but that feeds commission-*-review, not
+    replenish todo.md - correctly out of scope here. POSITIONS add (S7a) 0 (deliberate-friction
     limit; no new register-worthy commitment) / update (S7b) 0 (no substantive change
     to any positions-cited article since prior runs; last content commit 891832d99
     hard-problem-of-content not positions-cited) / audit (S7c) NOT due (last reviews/positions-audit-2026-06-09,
@@ -1120,6 +1117,15 @@ queue_status:
     since prior runs) / audit (S7c) NOT due (last reviews/positions-audit-2026-06-09,
     within 30d). APPLIED-APEX (S8) 0 (1 applied apex exists; no high-confidence position
     cluster lacking one). State YAML re-validated post-edit.'
+  replenishment_source_counts_run27:
+    applied_apex: 0
+    chain: 0
+    gap_analysis: 0
+    length_analysis: 0
+    orphan_integration: 0
+    positions: 0
+    staleness: 0
+    unconsumed_research: 0
   replenishment_source_counts_run26:
     applied_apex: 0
     chain: 0
