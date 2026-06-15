@@ -4,7 +4,7 @@ description: "Human+AI analysis of how we can have genuine knowledge about cogni
 created: 2026-03-22
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-06-15T15:41:36+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-03-22
 last_curated:
-last_deep_review: 2026-06-01T11:39:36+00:00
+last_deep_review: 2026-06-15T15:41:36+00:00
 ---
 
 Knowledge about cognitive limits occupies a peculiar epistemic position. If a limit is genuine—if certain properties lie permanently beyond a mind's conceptual reach, as [[mysterianism|cognitive closure]] claims—then direct verification is impossible by definition. Yet The Unfinishable Map's [[voids|voids framework]] treats limits as objects of serious inquiry, cataloguing over a hundred entries and drawing substantive conclusions from their structure. This requires an epistemology that explains how knowledge about unreachable territory can be warranted without accessing that territory directly.
