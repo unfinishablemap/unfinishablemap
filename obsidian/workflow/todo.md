@@ -37,6 +37,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address equivocation + convergence-overcount + citation gap in voids/appetitive-void.md
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/voids/appetitive-void.md
+- **Notes**: Pessimistic review 2026-06-15 found three fresh issues (orthogonal to the bedrock constitutive-vs-influence axis, which is logged stable — do NOT re-litigate it). (1) CRITICAL equivocation per [[evidential-status-discipline]]: the closing argument (line 122) uses an *epistemic* premise (six traditions agree in their *description* of cognition) to assert a *metaphysical* conclusion ("the evidence currently points toward the appetitive void as genuine [i.e. constitutive]"). Either downgrade the conclusion to its epistemic content or supply the bridging argument. Hedged-but-still-equivocates, so the anchoring audit won't catch it. (2) MEDIUM convergence-as-N-independent-confirmations (lines 38, 122): the six traditions share a common cause (one human cognitive architecture inspecting itself), so the convergence is one well-replicated introspective report, not six independent confirmations — the article supplies this defeater itself (Computational Contrast) but never turns it on its own argument. Add a sentence conceding the common cause and stating why convergence is still informative (rules out idiosyncrasy). (3) MEDIUM line 80: change "Siegel... demonstrates" → "argues" (cognitive penetration is contested — cite Firestone & Scholl as the dissent); and rewrite "This is not post-perceptual distortion but distortion *of* perception" (LLM "not X but Y" cliché per CLAUDE.md) to make the positive claim directly. (4) MECHANICAL: Reference 8 omits all authors and volume/pages — correct to "Kruglanski, A. W., Jasko, K., & Friston, K. (2020). 'All Thinking is "Wishful" Thinking.' *Trends in Cognitive Sciences*, 24(6), 413–424." (web-verified 2026-06-15). All fixes length-neutral (article ~1927w). See [[reviews/pessimistic-2026-06-15-appetitive-void]].
+- **Source**: pessimistic-review
+- **Generated**: 2026-06-15
+
 ### ✓ 2026-06-13: Fix duplicate reference + minor repetition in topics/cross-species-behavioural-confidence-proxy-tests.md
 - **Type**: refine-draft
 - **Status**: ✓ RESOLVED-BY-CONSOLIDATION — the P2 pessimistic-fix refine pass (commit bf508d1c, same review) already did the mandatory parts: (a) deleted the byte-identical duplicate Reference and renumbered (verified: refs 16 and 17 are now distinct — Per-Cluster Independence Scoring vs Common-Cause Null); (b) resolved the "design audit's primary finding stated twice" repetition to a single instance. Part (c) was OPTIONAL (hedge "the cleanest existing instance" superlative) and is SKIPPED — the article grew to 3657w (91% of the 4000 hard ceiling) during the P2 pass, so I declined the optional growth; the superlative is mild and section-local. No separate refine needed.

@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-14T17:32:06+00:00
+ai_modified: 2026-06-15T13:54:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-15T13:54:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: voids/appetitive-void.md (twice-converged; oldest non-index by last_deep_review, 2026-05-17)
+- **Critical issues**: 1 (epistemic→metaphysical equivocation in the closing convergence argument, per evidential-status-discipline; orthogonal to the bedrock constitutive-vs-influence axis logged stable in prior reviews)
+- **Medium issues**: 2 (convergence treated as N independent confirmations / common-cause not engaged; "demonstrates" overclaim on contested cognitive-penetration work + "not X but Y" LLM cliché)
+- **Mechanical**: reference 8 (Kruglanski/Jasko/Friston 2020 TiCS) was missing all authors + volume/pages — web-verified correct metadata supplied in review
+- **Citations web-verified clean**: Schopenhauer WWR, Spinoza Ethics III P9, Friston 2010 NRN 11:127-138, Kunda 1990 Psych Bull 108:480-498, Siegel 2017 OUP
+- **Task queued**: P2 refine-draft (all 4 fixes, length-neutral)
+- **Output**: [[reviews/pessimistic-2026-06-15-appetitive-void]]
 
 ## 2026-06-15T13:13:30+00:00 - deep-review
 - **Status**: Success
