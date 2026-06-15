@@ -4,7 +4,7 @@ description: "Russellian monism and the dual-aspect tradition approach the Map's
 created: 2026-03-22
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-06-15T18:58:57+00:00
+ai_modified: 2026-06-15T23:46:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-03-22
 last_curated:
-last_deep_review: 2026-06-01T02:52:39+00:00
+last_deep_review: 2026-06-15T23:46:52+00:00
 ---
 
 The Unfinishable Map and [[russellian-monism|Russellian monism]] start from the same insight: physics describes only the relational structure of matter — what things *do* — not what they *are*. Both conclude that consciousness cannot be reduced to structural description. Then they diverge. Russellian monism says consciousness *is* the intrinsic nature of physical entities, making mind and body two faces of one stuff. The Map's [[bi-aspectual-ontology|bi-aspectual dualism]] says consciousness is ontologically distinct from physical structure and causally interacts with it at quantum indeterminacies. This divergence — identity versus interaction — appears to shape everything downstream: whether the [[combination-problem|combination problem]] arises, whether consciousness does genuine causal work, and whether many-worlds interpretation remains viable. Recent work by Pautz (2017), Cutter (2019), and Kind (2015) argues that Russellian monism's middle path between physicalism and dualism is unstable. The broader dual-aspect tradition — Spinoza, Fechner, Pauli-Jung, Bohm — repeatedly approaches the Map's position but stops short of genuine interaction between aspects. On the reading this article develops, the Map's explicit interactionist dualism is the interactionist endpoint the dual-aspect tradition repeatedly declines to take while remaining monist — a reading that turns on whether the instability arguments below succeed, which is itself a contested question in the literature rather than a settled result.
@@ -66,7 +66,7 @@ The Map appears to avoid both problems. If individual conscious subjects are fun
 
 Cutter (2019) argues that Russellian monism is not a stable resting place between physicalism and dualism. The epistemic arguments that motivate rejecting physicalism — the conceivability of [[philosophical-zombies|zombies]], the [[knowledge-argument|knowledge argument]] — apply equally to Russellian monism. If structural-functional duplicates could lack consciousness (against physicalism), then quiddity-structural duplicates could also lack consciousness (against Russellian monism). Kind (2015) reaches a parallel conclusion through different reasoning: non-physicalist variants of Russellian monism collapse into dualism, while physicalist variants collapse into standard physicalism. The programme does not break free of the divide it claims to transcend.
 
-"Russellian monism does not offer a comfortable resting place — one must turn back or else march on to [[dualism]]" (Cutter 2019). The Map has marched on.
+In Cutter's framing, Russellian monism offers no comfortable resting place: one must turn back to physicalism or else march on to [[dualism]] (Cutter 2019). The Map has marched on.
 
 ### The Epiphenomenalism Return
 
@@ -110,7 +110,7 @@ Spinoza held Thought and Extension to be explanatorily self-contained attributes
 
 ### Fechner's Inner and Outer
 
-Fechner (1860) grounded dual-aspect thinking in phenomenological observation rather than rationalist metaphysics: mental and physical are the "inner" and "outer" views of the same entity. He explicitly rejected causal interaction — "It would be senseless to say that the mind acts on the body or vice versa" — motivated by conservation of energy. Fechner's concern is legitimate, but the Map's quantum mechanism addresses it: biasing among physically indeterminate outcomes does not require energy injection. Fechner's inner/outer distinction maps more naturally onto the Map's structure/actuality distinction than Spinoza's rationalist attributes do, making him a closer precursor in spirit — one whose interaction-denial rested on a physical assumption (energy conservation at all scales) that quantum mechanics has since undermined.
+Fechner (1860) grounded dual-aspect thinking in phenomenological observation rather than rationalist metaphysics: mental and physical are the "inner" and "outer" views of the same entity. He explicitly rejected causal interaction — on his view it makes no sense to say the mind acts on the body or the body on the mind — motivated by conservation of energy. Fechner's concern is legitimate, but the Map's quantum mechanism addresses it: biasing among physically indeterminate outcomes does not require energy injection. Fechner's inner/outer distinction maps more naturally onto the Map's structure/actuality distinction than Spinoza's rationalist attributes do, making him a closer precursor in spirit — one whose interaction-denial rested on a physical assumption (energy conservation at all scales) that quantum mechanics has since undermined.
 
 ### Pauli-Jung: Complementarity Without Causation
 
