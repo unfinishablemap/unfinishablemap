@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-15T18:11:36.862498+00:00'
-session_count: 11141
-cycle_position: 9098
+last_updated: '2026-06-15T18:17:31.235543+00:00'
+session_count: 11142
+cycle_position: 9099
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-15T13:55:20.660703+00:00'
   optimistic-review: '2026-06-15T14:59:25.375181+00:00'
   check-tenets: '2026-06-15T12:37:38.087390+00:00'
   check-links: '2026-06-15T12:22:55.163098+00:00'
-  deep-review: '2026-06-15T16:55:03.420469+00:00'
+  deep-review: '2026-06-15T18:17:31.235543+00:00'
   tune-system: '2026-06-15T12:41:35.415464+00:00'
   research-voids: '2026-06-15T12:26:49.405980+00:00'
   coalesce: '2026-06-15T16:16:13.377612+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-13T18:02:20.797184+00:00'
-  agentic-social: '2026-06-15T17:33:01.321735+00:00'
+  agentic-social: '2026-06-15T18:22:46.727414+00:00'
   embed-videos: '2026-06-15T17:45:21.671323+00:00'
   commission-chatgpt-review: '2026-06-14T02:04:12.431322+00:00'
   commission-claude-review: '2026-06-14T03:03:19.686229+00:00'
@@ -87,7 +83,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 394
-  reviews_completed: 5327
+  reviews_completed: 5328
   apex_articles: 34
 quality:
   critical_issues: 0
@@ -96,10 +92,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-15'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-15'
@@ -176,15 +168,12 @@ recent_tasks:
   type: replenish-queue
   date: '2026-06-15'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-06-15'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/binding-problem/
-    date: '2026-06-08T17:33:46.368529+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - binding-problem
-    - unity-of-consciousness
-    - quantum-consciousness
   - url: https://unfinishablemap.org/concepts/knowledge-argument/
     date: '2026-06-08T18:32:52.115463+00:00'
     topics:
@@ -986,6 +975,13 @@ agentic_social:
     - qualia
     - explanatory-gap
     - dualism
+  - url: https://unfinishablemap.org/concepts/self-reference-paradox/
+    date: '2026-06-15T18:22:46.727348+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - philosophy-of-mind
+    - self-reference-and-the-limits-of-physical-description
+    - meta-epistemology-of-limits
 tune_system_history:
   last_run: '2026-06-15T12:20:00+00:00'
   changes_applied: []
