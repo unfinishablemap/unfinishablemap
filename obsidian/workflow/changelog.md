@@ -5,6 +5,13 @@ ai_modified: 2026-06-15 15:17:25+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-15T18:49:14+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/russellian-monism-versus-bi-aspectual-dualism]] (sixth review; first dedicated pessimistic pass on the comparison article since the 2026-05-25 calibration refine)
+- **Critical issues**: 0. Citations spot-checked against live literature (Cutter 2019, Howell 2015, Brown 2025, Wheeler verbatim) all VERIFY — confirms the prior intra-corpus attribution PASS holds against publishers of record
+- **Main finding (Low)**: frame-vs-body calibration mismatch — description, the "Approaching but Never Reaching" heading, and the line-147 Pautz-parity verdict assert the article's contested central thesis more flatly than the body, which already concedes it as contestable. Queued one P3 refine-draft (length-neutral frame-alignment). Minor: Cutter pagination off-by-one (109-130 vs 109-129); verify line-69 Cutter quote is verbatim
+- **Output**: [[reviews/pessimistic-2026-06-15-russellian-monism-versus-bi-aspectual-dualism]]
+
 ## 2026-06-15T00:00:00+00:00 - deep-review
 - **Status**: Success (convergence no-op)
 - **File**: [[topics/reductionism-and-consciousness]]

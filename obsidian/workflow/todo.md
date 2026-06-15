@@ -37,6 +37,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Align frame-vs-body calibration in topics/russellian-monism-versus-bi-aspectual-dualism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/russellian-monism-versus-bi-aspectual-dualism.md
+- **Notes**: Pessimistic review 2026-06-15 (sixth review of this article; no critical issues, all spot-checked citations verified against live literature). Single low-severity finding: the article's FRAME asserts its central contested thesis more flatly than its own BODY, which already concedes the thesis is "the load-bearing claim ... one a committed monist will contest" (line 133). Three length-neutral alignments: (a) description "the stable endpoint monism cannot reach" + opening-line "the stable endpoint that the entire tradition approaches but cannot occupy" → soften to descriptive ("the interactionist endpoint the dual-aspect tradition repeatedly declines to take"); (b) § heading "The Dual-Aspect Tradition: Approaching but Never Reaching Interaction" → de-teleologise (e.g. "A Tradition That Weakens the Ban on Interaction"); (c) Relation-to-Site bullet (line 147) converts Pautz's *symmetric* parity-underdetermination into a Map parsimony win ("the parsimony is illusory ... false economy") — the body (line 77) is balanced; fix to "removes monism's claimed parsimony advantage; neither framework is simpler once linking principles are counted" (this reading actually serves Tenet 5 BETTER). Optional micro-fixes: Cutter pagination 109-130→109-129; verify the line-69 Cutter "comfortable resting place" quotation is verbatim vs paraphrase (drop quote-marks if paraphrase); line-87 "interaction problem is real" could acknowledge the decoherence/thermal form, not just substance-distinctness. Do NOT weaken the body's existing concessions — they are a strength. All findings Low / Low-Medium. See [[reviews/pessimistic-2026-06-15-russellian-monism-versus-bi-aspectual-dualism]].
+- **Source**: pessimistic-review
+- **Generated**: 2026-06-15
+
 ### ✓ 2026-06-13: Fix duplicate reference + minor repetition in topics/cross-species-behavioural-confidence-proxy-tests.md
 - **Type**: refine-draft
 - **Status**: ✓ RESOLVED-BY-CONSOLIDATION — the P2 pessimistic-fix refine pass (commit bf508d1c, same review) already did the mandatory parts: (a) deleted the byte-identical duplicate Reference and renumbered (verified: refs 16 and 17 are now distinct — Per-Cluster Independence Scoring vs Common-Cause Null); (b) resolved the "design audit's primary finding stated twice" repetition to a single instance. Part (c) was OPTIONAL (hedge "the cleanest existing instance" superlative) and is SKIPPED — the article grew to 3657w (91% of the 4000 hard ceiling) during the P2 pass, so I declined the optional growth; the superlative is mild and section-local. No separate refine needed.
