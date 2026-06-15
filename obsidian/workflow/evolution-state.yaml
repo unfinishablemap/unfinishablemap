@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-15T16:31:20.596170+00:00'
-session_count: 11120
-cycle_position: 9090
+last_updated: '2026-06-15T16:36:51.764994+00:00'
+session_count: 11121
+cycle_position: 9091
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-15T13:55:20.660703+00:00'
   optimistic-review: '2026-06-15T14:59:25.375181+00:00'
   check-tenets: '2026-06-15T12:37:38.087390+00:00'
   check-links: '2026-06-15T12:22:55.163098+00:00'
-  deep-review: '2026-06-15T16:26:05.765956+00:00'
+  deep-review: '2026-06-15T16:36:51.764994+00:00'
   tune-system: '2026-06-15T12:41:35.415464+00:00'
   research-voids: '2026-06-15T12:26:49.405980+00:00'
   coalesce: '2026-06-15T16:16:13.377612+00:00'
@@ -87,7 +87,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 394
-  reviews_completed: 5325
+  reviews_completed: 5326
   apex_articles: 34
 quality:
   critical_issues: 0
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: skip-queue-slot
-  type: skip-queue-slot
-  date: '2026-06-15'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-15'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-15'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-15'
   outcome: success
 agentic_social:
@@ -986,58 +986,62 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 2
-  p3_tasks: 1
+  p3_tasks: 0
   needs_replenishment: false
-  last_replenishment: '2026-06-15T16:31:00+00:00'
+  last_replenishment: '2026-06-15T16:40:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-15 run #17 (standard mode) - HONEST NO-OP,
+  current_replenishment_note: '2026-06-15 run #18 (standard mode) - HONEST NO-OP,
     0 minted. Note OVERWRITTEN in place per replenish-note-bare-hash-breaks-yaml (no
     new dated key, no bare hash, no stray quote). All 8 sources INDEPENDENTLY re-verified
-    on disk this run. The prior run-16 note is now STALE: it called the floor 1 because
-    the composition-question-rivals verify-deep-review P2 was then open; that task
-    ran and closed this cycle (commit 8cf30904d). So the loop-pickable open P0-P2
-    floor is now genuinely 0 (only the P3 materialism-argument staleness mint remains
-    open), below MIN_QUEUE 3 - but there is still NO genuine new task to mint, so
-    this is a correct no-op, not a starvation bug. Active Tasks open: 1 P3 (arguments/materialism-argument.md
-    deep-review, run-15 staleness mint gap 35d, STILL pending) + 2 veto-tagged condense
-    P2 (meaning-of-life 4160w, phenomenal-output 6989w - floor-excluded by design)
-    + 2 HUMAN LENGTH DECISION duhem-quine tasks (human-decision type, not loop-pickable).
-    Sections (find, excl section-index): topics 267/300, concepts 260/300, voids 101/100
-    OVER cap, positions 3 domain files / 80 cap (about 18 P-Q/A/V entries), apex 34.
-    CHAINS (S1) 0 - the newest content commit since prior replenish is 8cf30904d,
-    the composition-question-rivals deep-review itself; its review file (reviews/deep-review-2026-06-15-composition-question-rivals.md)
-    is a CLEAN converged verdict (Critical Issues None; all 3 rivals string-diff-preserved;
-    citation ledger verified family-consistent; length explicitly accepted-as-survey
-    at 4074w hard_warning, NOT a condense candidate; flagged converged) - no follow-on
-    task warranted. The 00768db4d coalesce that preceded it is a merge not an expand-topic,
-    no expand chain. UNCONSUMED RESEARCH (S2) 0 - newest research note on disk dates
-    2026-04-27 (tacit-integration-void); newest substantive notes were consumed prior
-    runs (berridge-2026-06-03; claude-constitution-2026-05-31). GAPS (S3) 0 - editorially
-    saturated despite topics/concepts cap headroom; gap-detection finds no genuine
-    tenet-support gap or undefined-concept on this mature corpus. STALENESS (S4) 0
-    NEW mintable - independent on-disk scan (ai_contribution>50, 30d+ since last_deep_review)
-    returns exactly ONE article hit, materialism-argument.md (PURE gap 35d) which
-    is ALREADY the open P3; the 3 NEVER-REVIEWED positions/*.md files are register
-    files maintained by positions-evolve audit (ran 06-09, within window), NOT deep-review
-    targets. LENGTH (S6) 0 mintable - get_length_warnings run, 22 non-research hard/critical
-    offenders, ALL either human-DIVERTED calibration flagships (epistemology-of-convergence
-    6479w, born-rule 5106w, clinical-dissociation 4863w, time-collapse 4606w, laws-and-dispositions
+    on disk this run. CHANGE SINCE run #17: the sole open P3 (arguments/materialism-argument.md
+    deep-review) RAN and closed (commit 0c9ba5f37) - so p3_tasks is now 0, and the
+    loop-pickable open P0-P2/P3 floor is genuinely 0, below MIN_QUEUE 3 - but there
+    is still NO genuine new task to mint, so this is a correct no-op, not a starvation
+    bug. Active Tasks open: 2 veto-tagged condense P2 (meaning-of-life 4160w, phenomenal-output
+    6989w - floor-excluded by design) + 2 HUMAN LENGTH DECISION duhem-quine tasks
+    (human-decision type, not loop-pickable). Sections (find, excl section-index):
+    topics 267/300, concepts 260/300, voids 101/100 OVER cap, positions 3 domain files
+    / 80 cap (18 live P-Q/A/V entries), apex 33. CHAINS (S1) 0 - the ONLY content commit
+    since prior replenish (582333cf6) is 0c9ba5f37, the materialism-argument deep-review
+    itself; its review file (reviews/deep-review-2026-06-15-materialism-argument.md)
+    is a CLEAN converged 6th-pass verdict (Critical Issues = one loss-free LLM-cliche
+    rewrite, fixed in-pass; one citation completion Luo et al. 2025, web-verified +
+    added in-pass; Medium None new; all cites stance-fidelity-verified; length 2977w
+    under 3500 hard; effectively converged, future passes metadata-only) - no follow-on
+    task warranted. UNCONSUMED RESEARCH (S2) 0 - newest substantive research note on
+    disk is 2026-04-27 (tacit-integration-void); all recent notes consumed in prior
+    runs. GAPS (S3) 0 - editorially saturated despite topics/concepts cap headroom;
+    no genuine tenet-support gap or undefined-concept on this mature corpus. STALENESS
+    (S4) 0 NEW mintable - independent on-disk scan (ai_contribution>50, last_deep_review
+    >30d / before 2026-05-16) returns exactly 3 hits, ALL positions/*.md register files
+    (agency-and-will, voids-as-evidence, quantum-interface, all NEVER deep-reviewed)
+    which are maintained by positions-evolve audit (ran 06-09, within window), NOT
+    deep-review targets; the prior-P3 materialism-argument.md now has last_deep_review
+    2026-06-15 and correctly drops out - zero article hits. LENGTH (S6) 0 mintable
+    - get_length_warnings run; 22 non-research hard/critical offenders, ALL either
+    human-DIVERTED calibration flagships (epistemology-of-convergence 6479w crit, born-rule
+    5106w, clinical-dissociation 4863w, time-collapse 4606w, laws-and-dispositions
     4213w, edge-states 3482w), veto-tagged (phenomenal-output 6832w, meaning-of-life
-    4160w), index hub (apex-articles 6963w), composition-question-rivals 4074w (just
-    deep-reviewed THIS run, explicitly accept-as-survey), or recently deep-reviewed/refined/condensed
-    at accepted length so condensing would contradict a fresh verdict (spot-verified:
-    argument-from-reason 4489w condensed f1d633700 + deep-reviewed; epistemic-advantages-of-dualism
-    4400w condensed 368c847e6 + deep-reviewed + calibration-adopted; metaphysics-of-composition
-    4043w was over-hard pre-coalesce, the 00768db4d touch only repointed 3 wikilinks-to-1,
-    net shorter, no inflation). ORPHANS (S5) 0 (quality.orphaned_files 0). OUTER REVIEWS
-    0 pending (pending-reviews.yaml has 0 pending). POSITIONS add (S7a) 0 (no new
-    register-worthy commitment in 7d expand/apex work; deliberate-friction limit applies)
-    / update (S7b) 0 (grep-confirmed no position file cites any recently-changed article:
-    composition-question-rivals, metaphysics-of-composition, mereology-of-mind, combination-problem,
-    emergence, parsimony-epistemology, materialism-argument) / audit (S7c) NOT due
-    (last audit reviews/positions-audit-2026-06-09, within 30d window). APPLIED-APEX
-    (S8) 0 (no high-confidence position cluster lacking applied apex). State YAML
-    re-validated post-edit.'
+    4160w - already in queue, floor-excluded), index hub (apex-articles 6963w), or
+    recently deep-reviewed (within ~13d, 2026-05-28..06-05) at accepted length where
+    condensing would contradict a fresh verdict (spot-verified: qm-interpretations-beyond-many-worlds
+    4065w ldr 06-04, metaphysics-of-composition 4043w ldr 06-05, consciousness-in-simple-organisms
+    4025w ldr 06-02, phenomenal-authority 4022w ldr 06-03, introspection-architecture-independence-scoring
+    4021w ldr 06-04 + deep-reviewed 06-13, machine-question 5001w ldr 06-05, valence-and-conscious-selection
+    4092w ldr 06-05, filter-theory 3500w ldr 05-28, the 3 voids ldr 06-01..06-05);
+    research/*.md offenders excluded (no length ceiling on research notes). ORPHANS
+    (S5) 0 (quality.orphaned_files 0). OUTER REVIEWS 0 pending (pending-reviews.yaml
+    0 pending). POSITIONS add (S7a) 0 (no new register-worthy commitment in 7d expand/apex
+    work; deliberate-friction limit) / update (S7b) 0 - TWO positions-cited articles
+    were touched recently (cross-domain-void-comparison dd41424df; mental-causation-and-downward-causation
+    adeca3158) but BOTH changes are non-substantive: the former is a metadata-only
+    timestamp bump (deep-review no-op, 0 body change), the latter adds a named-anchor
+    clause that REINFORCES the existing dual-compatibility hedge ("does not by itself
+    settle the matter... without thereby adding positive evidence... compatible with
+    both readings") without moving any cited claim, so the agency-and-will / voids-as-evidence
+    positions still track - no update warranted / audit (S7c) NOT due (last reviews/positions-audit-2026-06-09,
+    within 30d window). APPLIED-APEX (S8) 0 (1 applied apex exists; no high-confidence
+    position cluster lacking one). State YAML re-validated post-edit.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
@@ -1084,6 +1088,15 @@ queue_status:
     staleness: 1
     unconsumed_research: 0
   prior_replenishment_source_counts_last_run:
+    applied_apex: 0
+    chain: 0
+    gap_analysis: 0
+    length_analysis: 0
+    orphan_integration: 0
+    positions: 0
+    staleness: 0
+    unconsumed_research: 0
+  replenishment_source_counts_run18:
     applied_apex: 0
     chain: 0
     gap_analysis: 0
