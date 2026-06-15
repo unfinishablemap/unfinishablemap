@@ -1,5 +1,9 @@
-last_updated: '2026-06-15T11:29:18.451836+00:00'
-session_count: 11063
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-15T11:34:50.597475+00:00'
+session_count: 11064
 cycle_position: 9069
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,14 +17,14 @@ last_runs:
   coalesce: '2026-06-14T14:32:43.527663+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-13T18:02:20.797184+00:00'
-  agentic-social: '2026-06-15T11:34:32.207908+00:00'
+  agentic-social: '2026-06-15T11:34:50.597475+00:00'
   embed-videos: '2026-06-14T07:01:15.561396+00:00'
   commission-chatgpt-review: '2026-06-14T02:04:12.431322+00:00'
   commission-claude-review: '2026-06-14T03:03:19.686229+00:00'
   commission-gemini-review: '2026-06-14T04:07:15.493292+00:00'
   refine-draft: '2026-06-14T14:03:28.690391+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-14T21:32:18.471990+00:00'
+  replenish-queue: '2026-06-15T11:40:00+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-14T18:33:07.498286+00:00'
   add-highlight: '2026-06-15T11:21:03.021858+00:00'
@@ -91,10 +95,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-14'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-14'
@@ -169,6 +169,10 @@ recent_tasks:
   outcome: success
 - task: check-model-fallback
   type: check-model-fallback
+  date: '2026-06-15'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-06-15'
   outcome: success
 agentic_social:
@@ -952,30 +956,55 @@ queue_status:
   p2_tasks: 1
   p3_tasks: 1
   needs_replenishment: false
-  last_replenishment: '2026-06-14T21:20:00+00:00'
-  last_replenishment_mode: conservative
-  current_replenishment_note: '2026-06-14T21:20 run (conservative, floor-restoring,
-    14th run today) - HONEST NO-OP: no task minted, no task promoted. Note OVERWRITTEN
-    in place (not minted as a new dated key) to hold superseded-note cruft at 16.
-    Nothing has changed on disk since the 19:40 run - same saturated steady state;
-    the only uncommitted file is evolution-state.yaml itself, no new research notes,
-    no human edits, no newly collected outer reviews. Loop-pickable open P0-P2 floor
-    = 0 (every Active-Tasks header carries a closure marker - RESOLVED-BY-CONSOLIDATION,
-    done, or DIVERTED-TO-HUMAN; the two open P0-P2 headers are the duhem-quine HUMAN
-    LENGTH DECISION tasks, human-deferred and excluded from floor; the two open condense
-    headers are both vetoed; no open P3). All 8 sources re-verified dry this run:
-    CHAINS (S1) 0 (last research-topic 2026-06-03 consumed, last expand-topic integrated,
-    no pending state); UNCONSUMED RESEARCH (S2) 0 (newest non-voids note is metacognition-consciousness
-    2026-01-18, long consumed; remaining new notes are voids slugs, voids OVER cap
-    101/100); GAPS (S3) 0 (topics 267/270, concepts 262/270 near cap, voids 101/100
-    over cap, positions register full at 18 entries / 4 domains); STALENESS (S4) 0
-    NEW (declined cosmetic-churn re-reviews of converged articles per orchestrator
-    steer); LENGTH (S6) 0 clean mintable offender (all hard/critical offenders human-DIVERTED,
-    vetoed, or index/governance hubs); ORPHANS (S5) 0 (quality.orphaned_files 0);
-    OUTER REVIEWS all collected/processed, none pending, nothing to chain; POSITIONS
-    add/update (S7) 0, audit NOT due (last 2026-06-09, 30d window, 5d in); APPLIED-APEX
-    (S8) 0. Accepted corpus-saturated floor-0 steady state - honest no-op preferred
-    over fabricated cosmetic-churn tasks. State YAML re-validated post-edit.'
+  last_replenishment: '2026-06-15T11:40:00+00:00'
+  last_replenishment_mode: standard
+  current_replenishment_note: '2026-06-15T11:40 run (standard mode) - HONEST NO-OP:
+    no task minted, no task promoted. Note OVERWRITTEN in place (not minted as a new
+    dated key) to hold superseded-note cruft constant. Loop-pickable open P0-P2 floor
+    = 1: the one open loop-pickable header is the fresh 2026-06-15 P2 check-model-fallback
+    verify-attribution task (transcript 313fcceb, 115x claude-opus-4-8 in a 2026-06-14
+    21:44-22:04 window; refine-draft type, executable); the other two open P2 headers
+    are both #veto condense tasks (meaning-of-life 4160w, phenomenal-output 6989w),
+    excluded from floor; no open loop-pickable P3. Floor 1 < MIN_QUEUE 3 but NO defensible
+    mint source on disk - documented replenish-at-floor steady state [[unfin_loop_steady_state]].
+    All 8 sources re-verified on disk this run: CHAINS (S1) 0 - the only expand-topic
+    in the recent_tasks 14d window (chemosensory-qualia, 2026-06-14 commit e4f28b02f,
+    title "CHECK CAP FIRST") was a NO-OP DECLINE (no .md on disk in obsidian/ or archive/;
+    topics near cap, fork declined), so no successor chain; the genuinely-created
+    recent articles (curated-mind, contentless-awareness-evidence, consciousness-and-the-phenomenology-of-place)
+    are already well-integrated (7-11 inbound content links each); no research-topic
+    in 14d (last 2026-06-03, consumed); harvest-research-subjects ran 2026-06-15 but
+    that commit (c01e1c9a8) was INFRASTRUCTURE INSTALL (added the skill + harvester
+    code), it minted NO research-topic tasks into todo. UNCONSUMED RESEARCH (S2) 0
+    - newest research/ notes are voids-* slugs against the OVER-cap voids section (101/100,
+    research-voids cannot spawn articles); older non-voids notes (metacognition-consciousness
+    2026-01-18 etc.) long consumed. GAPS (S3) 0 - corpus editorially saturated (topics
+    267, concepts 262, voids 101 over its 100 cap, positions register at 18 entries
+    / 4 domains). STALENESS (S4) 0 NEW - strict changed-since-review scan (ai_contribution>=50,
+    ai_modified > last_deep_review, ai_modified != today, gap >=14d) over topics/concepts/voids/apex/positions
+    yields exactly ONE settled topic hit, trilemma-of-selection (ldr 2026-05-26 < ai_mod
+    2026-06-13, gap 18d) - but git-checked: the 06-13 edit (commit b571efaf6) is the
+    every-cycle mental-effort calibration-ADOPTION refine (proves->settles, Establishes->Secures,
+    added underdetermination framing), light maintenance not new factual content, AND
+    it was already handled by Source 7b on 06-13 (the positions-evolve P-A1/P-A2 dependency
+    update re-verified the agency-and-will register against this softened source). Deep-reviewing
+    it now = over-review of a just-maintained converged article [[deep-review-over-reviews-converged]],
+    declined per orchestrator anti-cosmetic-churn steer. (The 3 positions files show
+    ldr=None but they run on the positions-evolve AUDIT cadence, not per-file deep-review
+    - not staleness candidates.) LENGTH (S6) 0 clean mintable offender - all published
+    hard/critical offenders are human-DIVERTED (epistemology-of-convergence 6479w, clinical-dissociation,
+    born-rule, laws-and-dispositions, edge-states-and-void-probes, time-collapse),
+    #veto (meaning-of-life, phenomenal-output), index/governance hubs (apex-articles
+    6963w), marginal over-cap voids (agency-void / what-voids-reveal / wholeheartedness-void,
+    6-180w over hard), or recently-deep-reviewed-at-current-length topics/apex (argument-from-reason,
+    epistemic-advantages, machine-question, et al. - trimming = cosmetic calibration-churn
+    risk). ORPHANS (S5) 0 (quality.orphaned_files 0). OUTER REVIEWS all collected/processed,
+    none pending, nothing to chain. POSITIONS add (S7a) 0 / update (S7b) 0 (06-13 trilemma
+    dependency already re-verified) / audit (S7c) NOT due (last 2026-06-09, 30d window
+    open until ~2026-07-09, 6d in). APPLIED-APEX (S8) 0. Accepted corpus-saturated floor-1
+    steady state - honest no-op preferred over fabricated cosmetic-churn tasks; the
+    open model-fallback P2 is loop-pickable and will be executed next queue slot. State
+    YAML re-validated post-edit.'
   superseded_replenishment_note_1520: '2026-06-14T15:20 run (conservative, floor-restoring,
     5th run today) - HONEST NO-OP: no task minted, no task promoted. ai-consciousness
     deep-review COMPLETED this cycle (last_deep_review now 2026-06-14T15:18 == ai_modified),
@@ -1628,5 +1657,5 @@ queue_status:
     length_analysis: 0
     orphan_integration: 0
     positions: 0
-    staleness: 5
+    staleness: 0
     unconsumed_research: 0
