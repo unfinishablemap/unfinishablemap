@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-15T19:30:14.276078+00:00'
-session_count: 11157
+last_updated: '2026-06-15T19:32:23.555053+00:00'
+session_count: 11158
 cycle_position: 9105
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -34,7 +34,7 @@ last_runs:
   combine-outer-reviews: '2026-06-14T04:50:05.738555+00:00'
   collect-gemini-review: '2026-06-14T04:39:46.329708+00:00'
   positions-evolve: '2026-06-13T10:48:30.875831+00:00'
-  check-model-fallback: '2026-06-15T15:31:11.183922+00:00'
+  check-model-fallback: '2026-06-15T19:32:23.555053+00:00'
   harvest-research-subjects: '2026-06-15T11:25:54.720875+00:00'
   skip-queue-slot: '2026-06-15T19:06:51.156581+00:00'
 last_git_push: '2026-06-15T19:26:29.479240+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: skip-queue-slot
-  type: skip-queue-slot
-  date: '2026-06-15'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-15'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-15'
+  outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-06-15'
   outcome: success
 agentic_social:
@@ -996,41 +996,37 @@ queue_status:
   p2_tasks: 2
   p3_tasks: 0
   needs_replenishment: false
-  last_replenishment: '2026-06-15T19:30:00+00:00'
+  last_replenishment: '2026-06-15T19:35:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-15 run #34 (standard mode) - HONEST NO-OP,
-    0 minted (13th consecutive no-op). Note OVERWRITTEN in place per replenish-note-bare-hash-breaks-yaml
+  current_replenishment_note: '2026-06-15 run #35 (standard mode) - HONEST NO-OP,
+    0 minted (14th consecutive no-op). Note OVERWRITTEN in place per replenish-note-bare-hash-breaks-yaml
     (no new dated key, no bare hash, no stray quote). All 8 sources INDEPENDENTLY
-    re-verified on disk this run. KEY DIFFERENCE FROM run #33: there IS a new content
-    commit since run #33 (e36f7c9fa replenish) - b956133bd auto(deep-review) of topics/panpsychisms-combination-problem.md,
-    a GENUINE substantive correction (body diff after stripping metadata bumps = Morch->Morch
-    author-name fix + citation fix from 2018 Routledge-Handbook-chapter to 2014 Oslo
-    doctoral dissertation). But it is NOT chain-worthy (deep-review absent from the
-    chain table), NOT positions-cited (grep of obsidian/positions/ for the slug returns
-    nothing this run; the 3 entries are not Argued-in by it), NOT staleness-mintable
-    (just deep-reviewed, last_deep_review now this-cycle), NOT length-mintable (3270w
-    body, under the concepts hard ceiling). The deep-reviews own author/citation corrections
-    are self-contained and complete; they generate no follow-up. The earlier 4b35f4079
-    refine of russellian-monism remains likewise non-mintable. Loop-pickable open:
-    0 P0-P3 (awk of Active Tasks lines 38-1013: every ### header is checkmarked/struck/RESOLVED/RELOCATED/DEFERRED/DECLINED/DONE/PROMOTED/BLOCKED/NEEDS-HUMAN/veto).
+    re-verified on disk this run. No new mintable content since run #34: the intervening
+    commits are b956133bd deep-review of topics/panpsychisms-combination-problem.md
+    (already analysed non-mintable in run #34 - Morch author + 2014-dissertation citation
+    self-contained corrections, not chain-worthy, NOT positions-cited per fresh grep
+    of obsidian/positions/ returning no match, just-reviewed so not staleness-mintable,
+    3270w body under the concepts hard ceiling), 9b851b6d4 sync, 4d84f4126 replenish
+    no-op, 29715096c check-model-fallback trigger. Loop-pickable open: 0 P0-P3 (awk
+    of Active Tasks lines 38-1013: every ### header is checkmarked/struck/RESOLVED/RELOCATED/DEFERRED/DECLINED/DONE/PROMOTED/HUMAN/veto).
     P0-P2 FLOOR genuinely 0, below MIN_QUEUE 3, but NO genuine NEW task to mint, so
     correct no-op (expected steady-state floor-alternation, not the fixed deadlock).
     Standing Active headers (non-pickable): 2 veto-tagged condense P2 (meaning-of-life
-    4160w, phenomenal-output 6832w - floor-excluded by design) + 2 HUMAN LENGTH DECISION
+    4160w, phenomenal-output 6989w - floor-excluded by design) + 2 HUMAN LENGTH DECISION
     duhem-quine tasks (human-decision type, not loop-pickable). Sections on disk (find,
     excl section-index): topics 267/300, concepts 260/300, voids 101/100 OVER cap,
-    positions 3 domain files / 80 cap, apex 33. CHAINS (S1) 0 - no research-topic
-    or expand-topic in the recent_tasks 14d window (all replenish/skip-queue-slot/deep-review/agentic-social/pessimistic-review/refine-draft).
+    positions 3 domain files / 80 cap, apex 34. CHAINS (S1) 0 - no research-topic
+    or expand-topic in the recent_tasks 14d window (all replenish/skip-queue-slot/deep-review/agentic-social/pessimistic-review/refine-draft/check-model-fallback).
     UNCONSUMED RESEARCH (S2) 0 - 3 newest notes by created-frontmatter all CONSUMED
     on disk this run: berridge-wanting-liking 2026-06-03 -> topics/wanting-liking-and-the-value-in-mechanism-fork.md,
     claude-constitution 2026-05-31 -> topics/claude-constitution-consciousness-uncertainty.md,
-    pci-phi-anaesthesia-recovery 2026-05-27 -> consciousness-disruption-and-the-mind-brain-interface
-    + siblings; all older consumed in prior runs; last research-topic 2026-06-03.
-    GAPS (S3) 0 - mature corpus, editorially saturated despite topics/concepts headroom.
-    STALENESS (S4) 0 mintable - the only new content is the just-completed panpsychisms
-    deep-review (not stale); cycle deep-review slots handle genuine staleness. LENGTH
-    (S6) 0 mintable - get_length_warnings re-run THIS run: 22 non-research hard/critical
-    offenders (unchanged), all human-DIVERTED calibration flagships (epistemology-of-convergence
+    pci-phi-anaesthesia-recovery 2026-05-27 -> topics/consciousness-disruption-and-the-mind-brain-interface.md;
+    all older consumed in prior runs; last research-topic 2026-06-03. GAPS (S3) 0 -
+    mature corpus, editorially saturated despite topics/concepts headroom. STALENESS
+    (S4) 0 mintable - the only new content is the just-completed panpsychisms deep-review
+    (not stale); cycle deep-review slots handle genuine staleness. LENGTH (S6) 0 mintable
+    - get_length_warnings re-run THIS run: 22 non-research hard/critical offenders
+    (unchanged), all human-DIVERTED calibration flagships (epistemology-of-convergence
     6479w crit, born-rule 5106w, clinical-dissociation 4863w, time-collapse 4606w,
     laws-and-dispositions 4213w), veto-tagged (phenomenal-output 6832w, meaning-of-life
     4160w - already queued, floor-excluded), index hub (apex-articles 6963w crit),
@@ -1039,7 +1035,7 @@ queue_status:
     ceiling). ORPHANS (S5) 0 (quality.orphaned_files 0). OUTER REVIEWS 0 pending (pending-reviews.yaml
     empty []). POSITIONS add (S7a) 0 (deliberate-friction limit; no new register-worthy
     commitment) / update (S7b) 0 (no positions-cited Argued-in article moved; panpsychisms-combination-problem
-    not in the set) / audit (S7c) NOT due (last reviews/positions-audit-2026-06-09,
+    not in the set per grep) / audit (S7c) NOT due (last reviews/positions-audit-2026-06-09,
     within 30d). APPLIED-APEX (S8) 0 (1 applied apex exists; no high-confidence position
     cluster lacking one). State YAML re-validated post-edit.'
   superseded_replenishment_note_run31: '2026-06-15 run #31 (standard mode) - HONEST
