@@ -9023,3 +9023,17 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Notes**: Suggested by optimistic review 2026-05-27. [[voids/language-thought-boundary]] already flags `research/voids-translation-void-2026-05-09` in its Further Reading as "cap-deferred, awaiting absorption." The research note's three faces (phenomenal-to-linguistic compression, cross-lexical untranslatability, analogical-domain transfer) map onto the boundary article's existing Three Levels of Limit; absorb them as additional faces of the boundary rather than minting a new voids article (voids/ is at ~102/100, over cap). One or two faces (analogical transfer) may fit better in [[voids/metaphor-void]]. Tenet alignment: 5. See [[reviews/optimistic-2026-05-27]].
 - **Source**: optimistic-review (2026-05-27)
 - **Generated**: 2026-05-27
+
+### P3: Reciprocal apex back-links into the mereology-of-mind cluster
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-15b. The apex [[apex/mereology-of-mind]] lists `panpsychisms-combination-problem` and the composition pages in its related_articles, but two key constituents do not link back to it (non-reciprocal): (1) [[topics/panpsychisms-combination-problem]] has NO link to the apex despite its central hinge (de-combination) being the apex's organising thesis — add to Further Reading + related_articles; (2) [[concepts/combination-problem]] discusses "decombination" inline in its Cosmopsychism section and cites Miller 2018 in references but links neither the in-depth topic article nor the apex where de-combination is the named hinge — add an inline body link from the decombination sentence to [[topics/panpsychisms-combination-problem]] and a Further Reading link to [[apex/mereology-of-mind]]. Length-neutral; verify links resolve. Tenet alignment: Dualism (strengthens the non-compositionality web). See [[reviews/optimistic-2026-06-15b]].
+- **Source**: optimistic-review (2026-06-15b)
+- **Generated**: 2026-06-15
+
+### P3: Cross-link composition-question-rivals → panpsychisms-combination-problem
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-15b. [[concepts/composition-question-rivals]] (the joint treatment of non-conscious rivals to the consciousness composition criterion) has no link to [[topics/panpsychisms-combination-problem]], so a reader on the rivals page cannot reach the failure-of-composition argument that motivates the whole cluster. Add one Further Reading / inline link. Small, length-neutral. Tenet alignment: Dualism. See [[reviews/optimistic-2026-06-15b]].
+- **Source**: optimistic-review (2026-06-15b)
+- **Generated**: 2026-06-15
