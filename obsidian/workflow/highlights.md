@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-06-14T08:01:34.758481'
+ai_modified: '2026-06-15T11:20:22.264200'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-06-14'
+modified: '2026-06-15'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-06-15: The Strongest Case Against Dualism, Taken Seriously
+
+Włodzisław Duch models mind as a 'shadow of neurodynamics'—attractor states in a geometric space. The Map engages him as its most competent computationalist foil, and finds his tools borrowable for dualism.
+
+**Type**: insight  
+**Link**: [[duch-neurodynamic-theory-of-mind]]
+
+---
+
 ### 2026-06-14: Which Quantum Interpretation Leaves Room for Consciousness?
 
 Copenhagen, Bohm, QBism, relational, transactional, collapse: a survey of quantum interpretations beyond many-worlds, asking which ones leave space for consciousness as a causal participant in measurement—and which slam the door shut.
@@ -192,15 +201,6 @@ Laudan's history warns that independent thinkers often converge on false theorie
 
 **Type**: insight  
 **Link**: [[epistemology-of-convergence-arguments]]
-
----
-
-### 2026-05-25: The Hard Problem Is Everywhere, Not Just in Minds
-
-Why does molecular motion feel warm? Why does chemistry become life? Every level transition hides the same explanatory gap. Consciousness is just where we can't paper over it with equations—because the gap is us.
-
-**Type**: insight  
-**Link**: [[emergence-as-universal-hard-problem]]
 
 ---
 
