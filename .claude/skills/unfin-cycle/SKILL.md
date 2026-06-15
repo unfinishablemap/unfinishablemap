@@ -28,7 +28,20 @@ uv run python -m tools.evolution.cycle_pick
 Parse the single line of JSON it prints. The shape is:
 
 - **Idle**: `{"action": "idle", "kind": "stop_signal|queue_empty|idle", "reason": "..."}`
-  → Log the reason briefly and **stop**. Do not invoke anything.
+  → For `stop_signal` or generic `idle`: log the reason briefly and **stop**; do not invoke anything.
+  → For `queue_empty`: the current cycle slot is a queue slot with no executable
+    task. Do **not** just stop — that would freeze `cycle_position` on the empty
+    slot (idle never calls `cycle_post`, and only `cycle_post` advances the
+    cycle), so in a chronically-empty queue the named cycle slots (deep-review,
+    pessimistic/optimistic-review, coalesce) become permanently unreachable.
+    Instead advance the cycle past the empty slot — the /loop port of
+    `evolve_loop.py`'s "No task to execute, advancing cycle position" branch — by
+    running, then **stop** (do not invoke any per-task skill):
+
+    ```bash
+    uv run python -m tools.evolution.cycle_post \
+        --kind skip-queue-slot --skill skip-queue-slot --status SUCCESS
+    ```
 - **Invoke**: `{"action": "invoke", "kind": "queue|cycle|trigger|replenish|collect|combine|agentic_social|commission", "skill": "<name>", "args": "<args>", "chrome": true (optional), "queue_task_line": <int> (only when kind==queue)}`
   → Proceed to step 2.
 

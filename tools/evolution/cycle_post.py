@@ -53,7 +53,16 @@ CURRENT_QUEUE_TASK_PATH = REPO_ROOT / ".unfin" / "current-queue-task.json"
 AGENT_AUTHOR = "unfinishablemap.org Agent <agent@unfinishablemap.org>"
 
 # Kinds that consume one cycle slot (advance cycle_position).
-CYCLE_CONSUMING_KINDS = {"queue", "cycle"}
+# "skip-queue-slot" advances the cycle past an empty queue slot without
+# executing or marking any task — the /loop port of evolve_loop.py's
+# "No task to execute, advancing cycle position" branch (run_session). Without
+# it, a chronically-empty queue (saturated corpus) parks the cycle on a queue
+# slot forever, so cycle_pick keeps emitting `idle queue_empty` and the named
+# cycle slots (deep-review, pessimistic/optimistic-review, coalesce) become
+# permanently unreachable. Including it in the cycle-consuming set means a skip
+# that lands on a cycle boundary still fires the anchoring audit + triggers,
+# which is exactly the mechanism that heals the queue organically.
+CYCLE_CONSUMING_KINDS = {"queue", "cycle", "skip-queue-slot"}
 
 # Backoff windows for sentinel-string fault modes (mirror evolve_loop.py).
 AGENTIC_SOCIAL_SUSPENSION_BACKOFF_HOURS = 6
@@ -306,7 +315,7 @@ def main() -> int:
         required=True,
         help=(
             "Pick output kind: queue|cycle|trigger|replenish|collect|"
-            "combine|agentic_social|commission"
+            "combine|agentic_social|commission|skip-queue-slot"
         ),
     )
     parser.add_argument("--skill", required=True, help="Skill name that ran")
