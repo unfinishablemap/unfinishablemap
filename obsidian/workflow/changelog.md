@@ -5,6 +5,14 @@ ai_modified: 2026-06-15 20:42:33+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-15T22:58:25+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/self-construction-constructor]]
+- **Changed sources**: 8 (all `apex_sources` modified after the 2026-05-28 baseline; 2 supplied new load-bearing material — `concepts/self-and-self-consciousness`, `concepts/theory-of-mind`)
+- **Word count**: 3087 → 3477
+- **Changes**: wove in (1) mine-ness/agency double dissociation (Gallagher) sharpening the constructor-as-bearer asymmetry; (2) DMN↔ToM shared-substrate overlap unifying the narrative-self and threshold registers; (3) Duch self-reflection thesis as the contemporary substrate-independent form of the circularity regress. New `[[mine-ness]]` cross-link.
+- **Review**: [[reviews/apex-evolve-2026-06-15-self-construction-constructor]]
+
 ## 2026-06-15T21:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/duhem-quine-underdetermination-consciousness]]
