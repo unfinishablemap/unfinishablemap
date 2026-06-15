@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-15T14:25:27.303841+00:00'
-session_count: 11096
-cycle_position: 9080
+last_updated: '2026-06-15T14:30:58.900479+00:00'
+session_count: 11097
+cycle_position: 9081
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-15T13:55:20.660703+00:00'
   optimistic-review: '2026-06-14T12:19:24.623753+00:00'
   check-tenets: '2026-06-15T12:37:38.087390+00:00'
   check-links: '2026-06-15T12:22:55.163098+00:00'
-  deep-review: '2026-06-15T13:15:22.290424+00:00'
+  deep-review: '2026-06-15T14:30:58.900479+00:00'
   tune-system: '2026-06-15T12:41:35.415464+00:00'
   research-voids: '2026-06-15T12:26:49.405980+00:00'
   coalesce: '2026-06-14T14:32:43.527663+00:00'
@@ -87,7 +87,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 394
-  reviews_completed: 5321
+  reviews_completed: 5322
   apex_articles: 34
 quality:
   critical_issues: 0
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-15'
-  outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
   date: '2026-06-15'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-15'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-15'
   outcome: success
 agentic_social:
@@ -975,49 +975,53 @@ queue_status:
   p2_tasks: 2
   p3_tasks: 0
   needs_replenishment: false
-  last_replenishment: '2026-06-15T14:25:00+00:00'
+  last_replenishment: '2026-06-15T14:35:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-15 run #6 (standard mode) - HONEST NO-OP: no
+  current_replenishment_note: '2026-06-15 run #7 (standard mode) - HONEST NO-OP: no
     task minted, no task promoted. Note OVERWRITTEN in place per [[replenish-note-bare-hash-breaks-yaml]]
     (no new dated key; no bare hash / stray quote in the note). Loop-pickable open
-    P0-P2 floor is 0: the only non-completed ### headers in Active Tasks (lines 38-1013)
-    are two HUMAN LENGTH DECISION duhem-quine tasks (deferred to human, not loop-pickable)
-    and two veto-tagged condense tasks (meaning-of-life 4160w, phenomenal-output 6989w,
-    excluded from the floor). Floor 0 < MIN_QUEUE 3 but NO defensible mint source
+    P0-P2 floor is 0: filtered Active Tasks ### headers (lines 38-1013) leave exactly
+    four open, none loop-pickable - two HUMAN LENGTH DECISION duhem-quine tasks (deferred
+    to human) and two veto-tagged condense tasks (meaning-of-life 4160w, phenomenal-output
+    6989w, excluded from the floor). Floor 0 < MIN_QUEUE 3 but NO defensible mint source
     on disk - documented corpus-saturated replenish-at-floor steady state [[unfin_loop_steady_state]].
     All 8 sources INDEPENDENTLY re-verified on disk this run (not trusting prior notes).
     Section reads on disk (find, excluding section-index): topics 267/300, concepts
     262/300, voids 101/100 OVER cap, positions 3/80, apex 34 (governed by prose threshold).
     CHAINS (S1) 0 - last research-topic 2026-06-03 (berridge wanting-liking) consumed
-    into topics/wanting-liking-and-the-value-in-mechanism-fork.md; last expand-topic
-    2026-06-14 integrated. UNCONSUMED RESEARCH (S2) 0 - newest research notes are
-    voids-slug sources against the OVER-cap voids section or already-consumed topics.
-    GAPS (S3) 0 - editorially saturated despite topics/concepts cap headroom. STALENESS
-    (S4) 0 DEFENSIBLE - strict changed-since-review scan (ai_contribution>=50, ai_modified>last_deep_review,
-    gap>=10d, not today) returned 73 candidates; top three (quantum-interpretations
-    19d, reductionism-and-consciousness 14d, measurement-problem 14d) GIT-SPOT-CHECKED
-    and all are artifacts of the early/mid-June refine+calibration+citation-sweep
-    wave (post-ldr commits are cross-article citation audits, explanatory-gap calibration
-    refines, coalesce cycles - not new substantive content) - re-review = converged-no-op
-    churn per [[deep-review-over-reviews-converged]]; declined. LENGTH (S6) 0 clean
-    mintable offender - get_length_warnings run this session; 21 published hard/critical
-    offenders, all human-DIVERTED calibration flagships (epistemology-of-convergence
-    6479w, born-rule 5106w, clinical-dissociation 4863w, laws-and-dispositions 4213w,
-    composition 4045w, edge-states 3482w), veto-tagged (phenomenal-output 6832w, meaning-of-life
-    4160w), index/governance hubs (apex-articles 6963w), marginal over-cap voids (agency-void
-    3174w, what-voids-reveal 3019w, wholeheartedness-void 3006w), or recently-reviewed/git-condensed-at-accepted-length
-    topics/apex/concepts (time-collapse 4606w, argument-from-reason 4489w, epistemic-advantages
-    4400w, valence 4092w, qm-interpretations 4065w, filter-theory 3500w, machine-question
-    5001w, simple-organisms 4025w, phenomenal-authority 4022w, introspection-architecture
-    4021w) - trimming = cosmetic calibration-churn risk. The 35+ research/ length
-    warnings are working notes not subject to condense. ORPHANS (S5) 0 (quality.orphaned_files
-    0). OUTER REVIEWS all collected/processed; pending-reviews.yaml pending count
-    0, nothing to chain. POSITIONS add (S7a) 0 / update (S7b) 0 / audit (S7c) NOT
-    due (register at 3 entries on disk, needs >=10 for the audit cadence; last positions-evolve
-    2026-06-13). APPLIED-APEX (S8) 0 (1 applied apex exists - assessing-ai-consciousness-under-the-map;
-    no new approved slot signalled). Accepted corpus-saturated floor-0 steady state
-    - honest no-op preferred over fabricated cosmetic-churn tasks. State YAML re-validated
-    post-edit.'
+    into topics/wanting-liking-and-the-value-in-mechanism-fork.md (confirmed on disk);
+    last expand-topic 2026-06-14 integrated. UNCONSUMED RESEARCH (S2) 0 - newest research
+    note on disk is the 2026-06-03 berridge note (consumed); the 2026-05-26/27/31 notes
+    all carry related_articles links to live articles. GAPS (S3) 0 - editorially saturated
+    despite topics/concepts cap headroom. STALENESS (S4) 0 DEFENSIBLE - strict changed-since-review
+    scan (ai_contribution>=50, ai_modified>last_deep_review, gap>=10d, not today) returned
+    174 candidates (3 are NEVER-reviewed positions register files, maintained by /positions-evolve
+    not deep-review); top three substantive topic/concept (appetitive-void 28d, trilemma-of-selection
+    19d, quantum-interpretations 19d) GIT-SPOT-CHECKED - all post-ldr deltas are calibration-adoption
+    refines + citation audits + cross-link consolidations (the early/mid-June refine+citation-sweep
+    wave), not new substantive content; quantum-interpretations ai_modified is only ~7h
+    after its last_deep_review. Re-review = converged-no-op churn per [[deep-review-over-reviews-converged]];
+    declined. LENGTH (S6) 0 clean mintable offender - get_length_warnings run this session;
+    21 published hard/critical offenders, all human-DIVERTED calibration flagships
+    (epistemology-of-convergence 6479w, born-rule 5106w, clinical-dissociation 4863w,
+    laws-and-dispositions 4213w, composition 4045w, edge-states 3482w), veto-tagged
+    (phenomenal-output 6832w, meaning-of-life 4160w), index/governance hubs (apex-articles
+    6963w), marginal over-cap voids (agency-void 3174w, what-voids-reveal 3019w, wholeheartedness-void
+    3006w), or recently-reviewed/git-condensed-at-accepted-length topics/apex/concepts
+    (time-collapse 4606w, argument-from-reason 4489w, epistemic-advantages 4400w, valence
+    4092w, qm-interpretations 4065w, filter-theory 3500w, machine-question 5001w, simple-organisms
+    4025w, phenomenal-authority 4022w, introspection-architecture 4021w). Marginal
+    0-task offenders (machine-question, what-voids-reveal, wholeheartedness-void, valence)
+    git-checked - all deep-reviewed 2026-06-04/05 at accepted post-review length, recent
+    commits are citation/refine touches not growth; trimming = cosmetic calibration-churn
+    risk. The 35+ research/ length warnings are working notes not subject to condense.
+    ORPHANS (S5) 0 (quality.orphaned_files 0). OUTER REVIEWS all collected/processed;
+    pending-reviews.yaml pending count 0, nothing to chain. POSITIONS add (S7a) 0 /
+    update (S7b) 0 / audit (S7c) NOT due (3 domain files on disk; last positions-evolve
+    2026-06-13, audit ran 2026-06-09 within the 30d window). APPLIED-APEX (S8) 0 (1
+    applied apex exists - assessing-ai-consciousness-under-the-map; no new approved
+    slot signalled). Accepted corpus-saturated floor-0 steady state - honest no-op
+    preferred over fabricated cosmetic-churn tasks. State YAML re-validated post-edit.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
