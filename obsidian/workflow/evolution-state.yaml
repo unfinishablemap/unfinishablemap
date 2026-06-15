@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-15T11:25:54.720875+00:00'
-session_count: 11062
+last_updated: '2026-06-15T11:29:18.451836+00:00'
+session_count: 11063
 cycle_position: 9069
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-06-14T14:32:43.527663+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-13T18:02:20.797184+00:00'
-  agentic-social: '2026-06-14T21:16:55.510761+00:00'
+  agentic-social: '2026-06-15T11:34:32.207908+00:00'
   embed-videos: '2026-06-14T07:01:15.561396+00:00'
   commission-chatgpt-review: '2026-06-14T02:04:12.431322+00:00'
   commission-claude-review: '2026-06-14T03:03:19.686229+00:00'
@@ -34,7 +30,7 @@ last_runs:
   combine-outer-reviews: '2026-06-14T04:50:05.738555+00:00'
   collect-gemini-review: '2026-06-14T04:39:46.329708+00:00'
   positions-evolve: '2026-06-13T10:48:30.875831+00:00'
-  check-model-fallback: '2026-06-14T20:01:08.896780+00:00'
+  check-model-fallback: '2026-06-15T11:29:18.451836+00:00'
   harvest-research-subjects: '2026-06-15T11:25:54.720875+00:00'
 last_git_push: '2026-06-15T11:20:31.201604+00:00'
 last_tweet_date: '2026-06-15'
@@ -95,10 +91,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-14'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-14'
@@ -175,95 +167,12 @@ recent_tasks:
   type: harvest-research-subjects
   date: '2026-06-15'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-06-15'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/lived-objectified-body-distinction/
-    date: '2026-06-07T22:02:28.626717+00:00'
-    topics:
-    - embodied-consciousness
-    - phantom-limb-phenomena
-  - url: https://unfinishablemap.org/apex/steelmanning-as-method/
-    date: '2026-06-07T23:02:32.827918+00:00'
-    topics:
-    - epistemology
-    - method
-    - steelmanning
-    - reasoning
-  - url: https://unfinishablemap.org/concepts/information-compression-composition/
-    date: '2026-06-08T00:02:31.732550+00:00'
-    topics:
-    - consciousness-and-the-metaphysics-of-composition
-  - url: https://unfinishablemap.org/concepts/categorical-surprise/
-    date: '2026-06-08T01:02:22.980240+00:00'
-    topics:
-    - surprise-prediction-error-and-consciousness
-    - consciousness-and-cognitive-distinctiveness
-    - predictive-processing
-    - metacognition
-  - url: https://unfinishablemap.org/concepts/direction-of-fit/
-    date: '2026-06-08T02:17:19.542675+00:00'
-    topics:
-    - aesthetics-and-consciousness
-    - empirical-phenomena-mental-causation
-    - temporal-consciousness-structure-and-agency
-  - url: https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/
-    date: '2026-06-08T03:17:25.156091+00:00'
-    topics:
-    - testing-consciousness-collapse
-    - spontaneous-collapse
-    - quantum-consciousness
-  - url: https://unfinishablemap.org/topics/birch-edge-of-sentience-and-the-five-tier-scale/
-    date: '2026-06-08T04:17:54.482113+00:00'
-    topics:
-    - sentience
-    - animal-consciousness
-    - invertebrate-consciousness
-    - precautionary-ethics
-  - url: https://unfinishablemap.org/concepts/locality/
-    date: '2026-06-08T05:17:29.209601+00:00'
-    topics:
-    - consciousness
-    - dualism
-    - locality
-    - quantum-consciousness
-    - mind-matter-interaction
-  - url: https://unfinishablemap.org/concepts/possibility-probability-slippage/
-    date: '2026-06-08T06:05:03.988440+00:00'
-    topics:
-    - reasoning
-    - calibration
-    - modal-evidential-distinction
-    - epistemology
-  - url: https://unfinishablemap.org/concepts/mind-arena/
-    date: '2026-06-08T07:02:40.733494+00:00'
-    topics:
-    - mind-arena
-    - dualism
-    - bidirectional-interaction
-    - ai-risk
-    - mental-causation
-    - causal-powers
-  - url: https://unfinishablemap.org/apex/conjunction-coalesce/
-    date: '2026-06-08T08:17:47.558972+00:00'
-    topics:
-    - voids
-    - methodology
-    - cognitive-limits
-    - coalesce
-  - url: https://unfinishablemap.org/topics/quantum-state-inheritance-in-ai/
-    date: '2026-06-08T10:18:26.372875+00:00'
-    topics:
-    - quantum-consciousness
-    - ai-consciousness
-    - personal-identity
-  - url: https://unfinishablemap.org/apex/minds-without-words/
-    date: '2026-06-08T11:18:08.914443+00:00'
-    topics:
-    - animal-consciousness
-    - consciousness-in-simple-organisms
-    - emotion-and-dualism
-    - phenomenal-consciousness
-    - minimal-consciousness
   - url: https://unfinishablemap.org/apex/what-it-might-be-like-to-be-an-ai/
     date: '2026-06-08T12:18:59.186318+00:00'
     topics:
@@ -1023,6 +932,15 @@ agentic_social:
     - phenomenal-consciousness
     - blindsight
     - perception
+  - url: https://unfinishablemap.org/concepts/possibility-probability-slippage/
+    date: '2026-06-15T11:34:32.207848+00:00'
+    topics:
+    - epistemology
+    - calibration
+    - reasoning
+    - evidence
+    - dualism
+    - methodology
 tune_system_history:
   last_run: '2026-06-10T09:05:00+00:00'
   changes_applied: []
