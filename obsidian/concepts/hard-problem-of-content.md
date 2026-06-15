@@ -4,8 +4,8 @@ description: "The argument by Hutto and Myin that no naturalistic theory can exp
 created: 2026-04-27
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-06-04T00:00:00+00:00
-last_deep_review: 2026-06-01T12:41:38+00:00
+ai_modified: 2026-06-15T16:53:35+00:00
+last_deep_review: 2026-06-15T16:53:35+00:00
 draft: false
 topics:
   - "[[the-naturalisation-failure-for-content]]"

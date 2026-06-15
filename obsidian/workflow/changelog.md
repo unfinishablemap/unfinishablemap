@@ -5,6 +5,20 @@ ai_modified: 2026-06-15 15:17:25+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-15T16:53:35+00:00 - deep-review
+- **Status**: Success (convergence no-op)
+- **File**: [[concepts/hard-problem-of-content]]
+- **Word count**: 2165 → 2165 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — converged article (4th review). Only change since the thorough 2026-06-01 citation audit is one cross-link install (commit 0af7d2d7f, 2026-06-04) pointing the PP section at [[content-vocabulary-as-derived-feature]]; verified the target exists and the "calibrated-weaker companion" characterisation is accurate
+- **Verification**: citation web-verify skipped by §2.4 rule (References block untouched since the 2026-06-01 publisher-of-record audit ledger; no new cite in the changed sentence). Evidential-status discipline PASS (HPC framed as negative argument, no possibility/probability slippage). Label-leakage grep CLEAN. Length 87% of soft target — OK
+- **Engagement modes** (editor-internal, unchanged from 2026-06-01): Functionalist/Dennett Mode Two w/ Mode One pressure; Mann & Pain Mode One/boundary; Hutto & Myin honest-limitation Mode Three. No boundary-substitution
+- **Note**: textbook cosmetic-cross-link-bump re-qualification (scored 15, damped ×3 priors, barely cleared 14-day floor). Damping should keep it out of the candidate set going forward
+- **Output**: [[reviews/deep-review-2026-06-15-hard-problem-of-content]]
+
+---
+
 ## 2026-06-15T16:34:31+00:00 - deep-review
 - **Status**: Success
 - **File**: [[arguments/materialism-argument]]
