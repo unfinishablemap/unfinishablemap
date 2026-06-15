@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-15T14:59:25.375181+00:00'
-session_count: 11103
+last_updated: '2026-06-15T15:04:42.167635+00:00'
+session_count: 11104
 cycle_position: 9084
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-06-14T14:32:43.527663+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-13T18:02:20.797184+00:00'
-  agentic-social: '2026-06-15T14:18:58.833208+00:00'
+  agentic-social: '2026-06-15T15:08:08.161427+00:00'
   embed-videos: '2026-06-15T12:17:11.424151+00:00'
   commission-chatgpt-review: '2026-06-14T02:04:12.431322+00:00'
   commission-claude-review: '2026-06-14T03:03:19.686229+00:00'
   commission-gemini-review: '2026-06-14T04:07:15.493292+00:00'
   refine-draft: '2026-06-15T14:03:47.858494+00:00'
   research-topic: '2026-06-03T13:15:16.844935+00:00'
-  replenish-queue: '2026-06-15T14:53:38.111749+00:00'
+  replenish-queue: '2026-06-15T15:04:42.167635+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-14T18:33:07.498286+00:00'
   add-highlight: '2026-06-15T11:21:03.021858+00:00'
@@ -96,10 +92,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: skip-queue-slot
-  type: skip-queue-slot
-  date: '2026-06-15'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-15'
@@ -174,6 +166,10 @@ recent_tasks:
   outcome: success
 - task: optimistic-review
   type: optimistic-review
+  date: '2026-06-15'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-15'
   outcome: success
 agentic_social:
@@ -961,6 +957,15 @@ agentic_social:
     - quantum-consciousness
     - interactionist-dualism
     - causal-closure
+  - url: https://unfinishablemap.org/topics/birch-edge-of-sentience-and-the-five-tier-scale/
+    date: '2026-06-15T15:08:08.161377+00:00'
+    topics:
+    - sentience
+    - animal-consciousness
+    - birch
+    - precaution
+    - invertebrates
+    - evidential-status
 tune_system_history:
   last_run: '2026-06-15T12:20:00+00:00'
   changes_applied: []
@@ -977,21 +982,21 @@ queue_status:
   needs_replenishment: false
   last_replenishment: '2026-06-15T15:05:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-15 run #10 (standard mode) - HONEST NO-OP: no
-    task minted, no task promoted. Note OVERWRITTEN in place per replenish-note-bare-hash-breaks-yaml
+  current_replenishment_note: '2026-06-15 run #10 (standard mode) - HONEST NO-OP:
+    no task minted, no task promoted. Note OVERWRITTEN in place per replenish-note-bare-hash-breaks-yaml
     (no new dated key; no bare hash / stray quote). Loop-pickable open P0-P2 floor
     0: Active Tasks (lines 38-1013) leave exactly four open headers, none loop-pickable
-    - two HUMAN LENGTH DECISION duhem-quine tasks (L167, L176; deferred to human) and
-    two veto-tagged condense tasks (meaning-of-life 4160w L561, phenomenal-output 6989w
-    L569; excluded from floor). Floor 0 < MIN_QUEUE 3 but NO defensible mint source
-    on disk - documented corpus-saturated replenish-at-floor steady state (unfin_loop_steady_state).
+    - two HUMAN LENGTH DECISION duhem-quine tasks (L167, L176; deferred to human)
+    and two veto-tagged condense tasks (meaning-of-life 4160w L561, phenomenal-output
+    6989w L569; excluded from floor). Floor 0 < MIN_QUEUE 3 but NO defensible mint
+    source on disk - documented corpus-saturated replenish-at-floor steady state (unfin_loop_steady_state).
     All 8 sources INDEPENDENTLY re-verified on disk this run (not trusting prior notes).
     Sections (find, excl section-index): topics 267/300, concepts 262/300, voids 101/100
     OVER cap, positions 3/80, apex 34 (prose-threshold governed). CHAINS (S1) 0 -
     last research-topic 2026-06-03 (berridge) consumed into topics/wanting-liking-and-the-value-in-mechanism-fork.md
     (target exists 12.7KB, 15 Berridge mentions, substantively integrated, confirmed
-    on disk); last expand-topic 2026-06-14 integrated. UNCONSUMED RESEARCH (S2) 0 -
-    newest note by created-date is the 2026-06-03 berridge note (consumed); next-newest
+    on disk); last expand-topic 2026-06-14 integrated. UNCONSUMED RESEARCH (S2) 0
+    - newest note by created-date is the 2026-06-03 berridge note (consumed); next-newest
     2026-05-31 claude-constitution note links live articles. GAPS (S3) 0 - editorially
     saturated despite cap headroom. STALENESS (S4) 0 DEFENSIBLE - last deep-review
     ran 2026-06-15; top changed-since candidates are converged-no-op churn per deep-review-over-reviews-converged;
