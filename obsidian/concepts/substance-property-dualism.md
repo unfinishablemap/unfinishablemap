@@ -4,7 +4,7 @@ description: "Two forms of dualism: separate mental substances versus irreducibl
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-06-08T10:35:34+00:00
+ai_modified: 2026-06-16T19:15:48+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -124,7 +124,7 @@ Tegmark (2000) calculated decoherence times for neural microtubules at 10⁻¹³
 
 ### Three Mitigating Considerations
 
-**Disputed timescales:** Hagan et al. (2002) challenged Tegmark's parameters, yielding estimates seven orders of magnitude longer (10⁻⁵ to 10⁻⁴ seconds); faster microtubule dynamics may relax the requirement further. **Biological quantum effects prove feasibility:** avian magnetoreception relies on quantum spin coherence in cryptochrome proteins persisting for microseconds, with Xu et al. (2026) providing computational support for the radical-pair mechanism—if evolution can optimise quantum effects for navigation, it might for consciousness, though cryptochrome's specific architecture does not by itself license neural-scale coherence. **Decoherence doesn't solve collapse:** it suppresses superpositions and selects preferred bases, but leaves the system in a mixture without determining which outcome is measured; consciousness could bias outcomes at measurement even after decoherence has done its work. See [[decoherence]] for the full treatment.
+**Disputed timescales:** Hagan et al. (2002) challenged Tegmark's parameters, yielding estimates seven orders of magnitude longer (10⁻⁵ to 10⁻⁴ seconds); faster microtubule dynamics may relax the requirement further. **Biological quantum effects prove feasibility:** avian magnetoreception relies on quantum spin coherence in cryptochrome proteins persisting for microseconds, with Luo et al. (2025) providing computational support for the radical-pair mechanism—if evolution can optimise quantum effects for navigation, it might for consciousness, though cryptochrome's specific architecture does not by itself license neural-scale coherence. **Decoherence doesn't solve collapse:** it suppresses superpositions and selects preferred bases, but leaves the system in a mixture without determining which outcome is measured; consciousness could bias outcomes at measurement even after decoherence has done its work. See [[decoherence]] for the full treatment.
 
 ### Implications for the Distinction
 
@@ -194,9 +194,9 @@ The distinction matters less than it might seem for the Map's core commitments, 
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Lowe, E.J. (2006). Non-Cartesian substance dualism and the problem of mental causation. *Erkenntnis*, 65(1), 5-23.
+1. Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*, 147, 43934-43945.
 1. Pautz, A. (2015). A dilemma for Russellian monists about consciousness. In T. Alter & Y. Nagasawa (Eds.), *Consciousness in the Physical World: Perspectives on Russellian Monism*. Oxford University Press.
 1. Robinson, H. (2020). Substance dualism. *Stanford Encyclopedia of Philosophy*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-1. Xu, J. et al. (2026). Computational confirmation of the radical pair mechanism in European robin cryptochrome-4a. *Journal of the American Chemical Society*.
 1. Zimmerman, D. (2010). From property dualism to substance dualism. *Proceedings of the Aristotelian Society*, 84, 119-150.

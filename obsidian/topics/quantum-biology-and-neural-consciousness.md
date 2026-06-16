@@ -4,7 +4,7 @@ description: "Six converging evidence lines reshape quantum biology's bearing on
 created: 2026-01-27
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-06-16T04:52:03+00:00
+ai_modified: 2026-06-16T19:15:48+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -52,7 +52,7 @@ Max Tegmark's influential 2000 calculation estimated that [[decoherence]]—the 
 
 The assumption proved false. Nature had already solved the decoherence problem multiple times:
 
-**Avian magnetoreception** exploits quantum spin entanglement in cryptochrome proteins to detect Earth's magnetic field, with radical pairs maintaining coherence for microseconds. A 2024 *Nature Communications* study showed the [[stapp-quantum-mind|quantum Zeno effect]]—repeated observation stabilising quantum states—enables this magnetosensitivity (Denton et al., 2024; computational confirmation, Xu et al., 2026). The same mechanism Stapp proposes for consciousness-brain interaction has a confirmed biological precedent.
+**Avian magnetoreception** exploits quantum spin entanglement in cryptochrome proteins to detect Earth's magnetic field, with radical pairs maintaining coherence for microseconds. A 2024 *Nature Communications* study showed the [[stapp-quantum-mind|quantum Zeno effect]]—repeated observation stabilising quantum states—enables this magnetosensitivity (Denton et al., 2024; computational confirmation, Luo et al., 2025). The same mechanism Stapp proposes for consciousness-brain interaction has a confirmed biological precedent.
 
 **Enzyme catalysis** relies on quantum tunnelling, accelerating reactions by factors of 10¹² to 10¹⁷ (confirmed by kinetic isotope effects). **Photosynthetic energy transfer** exploits quantum coherence (Fleming et al., 2007), though coherence times are shorter than once claimed.
 
@@ -138,7 +138,7 @@ The table specifies which Tenet 2 sub-reading each piece of evidence actually be
 
 | Evidence (article section above) | Load-bearing for pre-decoherence mechanisms | Plausibility supplement for post-decoherence selection | Bearing on the strict corridor |
 |---|---|---|---|
-| Cryptochrome / radical-pair magnetoreception (Denton 2024, Xu 2026) | Precedent, not licence: cryptochrome is a *specialised photoactivated* retinal radical-pair sensor; transferring its coherence stability to deep-brain, non-photonic cytoskeletal structures is itself an unearned leap absent in-vivo neural-coherence evidence | Warm biology can host quantum function | Orthogonal; corridor needs no neural coherence |
+| Cryptochrome / radical-pair magnetoreception (Denton 2024, Luo 2025) | Precedent, not licence: cryptochrome is a *specialised photoactivated* retinal radical-pair sensor; transferring its coherence stability to deep-brain, non-photonic cytoskeletal structures is itself an unearned leap absent in-vivo neural-coherence evidence | Warm biology can host quantum function | Orthogonal; corridor needs no neural coherence |
 | Enzyme tunnelling and photosynthetic coherence | Background precedent for any pre-decoherence proposal; not load-bearing for a specific neural mechanism | Yes | Orthogonal |
 | UV superradiance in microtubule tryptophan networks (Babcock 2024) | Load-bearing for Orch OR / Fröhlich-microtubule | Yes; corridor does not depend on microtubule coherence | Orthogonal |
 | Anaesthetic targeting of microtubules; epothilone B delay (Wiest 2025; Khan 2024); 613 THz prediction (Craddock 2017) | Load-bearing for Orch OR–style proposals: anaesthesia tracks microtubule quantum disruption | Anaesthesia engages *some* substrate, compatible with a post-decoherence interface | Orthogonal at the Born-rule layer; at most ancillary substrate evidence |
@@ -239,6 +239,6 @@ Two structural responses follow. *First*, the Map and Duch *converge* against Pe
 17. Warren, W. S. (2023). Comment on "Experimental indications of non-classical brain functions." *Journal of Physics Communications*, 7(3), 038001.
 18. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 19. Wiest, M. C., & Puniani, A. S. (2025). Conscious active inference II: Quantum orchestrated objective reduction among intraneuronal microtubules naturally accounts for discrete perceptual cycles. *Computational and Structural Biotechnology Journal*.
-20. Xu, J., et al. (2026). Computational confirmation of the radical pair mechanism in European robin cryptochrome-4a. *Journal of the American Chemical Society*.
+20. Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*, 147, 43934-43945.
 21. Duch, W. (2005). Brain-inspired conscious computing architecture. *Journal of Mind and Behavior*, 26(1–2). https://philarchive.org/rec/DUCBCC-3
 22. Duch, W. (2019). Mind as a shadow of neurodynamics. *Physics of Life Reviews*, 31, 28–31. https://doi.org/10.1016/j.plrev.2019.01.023

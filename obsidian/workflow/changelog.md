@@ -5,6 +5,16 @@ ai_modified: 2026-06-16 17:43:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T19:15:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/empirical-evidence-for-consciousness-selecting]]
+- **Word count**: 2887 → 2913 (+26)
+- **Critical issues addressed**: 1 (corpus-wide)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (citation correction propagated to 6 files)
+- **Notes**: Fifth deep review. The 2026-06-05 content edit (Schlosshauer cite fix + quote→paraphrase, commit 086db6fa0) triggered the §2.4 publisher-of-record web-verify pass, which caught a wrong-author/wrong-year citation that had survived all four prior "verified" reviews: the Princeton cryptochrome-4a computational study was cited as "Xu, J. (2026), Computational confirmation of the radical pair mechanism..." — the real paper is **Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *JACS*, 147(47), 43934-43945** (DOI 10.1021/jacs.5c15726). Classic [[ai_citation_metadata_unreliable]] / intra-corpus-ratification pattern; "Xu" appears only inside that paper's own reference list, and Wenhao Xu is a genuine co-author of the *different* Denton 2024 cryptochrome paper. Family-resolved corpus-wide (§2.4 step 6): fixed in 6 live files (empirical-evidence-for-consciousness-selecting, quantum-biology-and-neural-consciousness, quantum-holism-and-phenomenal-unity, substance-property-dualism, decoherence, epiphenomenalism-argument), using the already-correct evolutionary-case-for-quantum-neural-effects as template. Left untouched: the genuine, correctly-cited Xu, G. (2023) dying-brain PNAS paper and Xu, N. (2025) conceptual-representations PNAS paper. Also web-verified clean this pass: Schlosshauer 2019 (the 06-05 fix was correct), Denton 2024, Wiest 2025, Craddock 2017, Khan 2024, Zheng & Meister 2025, DeWall 2008, Sjöberg 2024. No superlative-currency claims. Convergence table + bedrock disagreements carried unchanged.
+- **Output**: [[reviews/deep-review-2026-06-16-empirical-evidence-for-consciousness-selecting]]
+
 ## 2026-06-16T18:12:37+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/anti-correlation-probes-for-ai-consciousness]]
