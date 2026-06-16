@@ -4,8 +4,8 @@ description: "Human+AI examination of a metacognitive signature where introspect
 created: 2026-05-19
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-06-05T20:27:00+00:00
-last_deep_review: 2026-06-05T06:00:00+00:00
+ai_modified: 2026-06-16T13:50:58+00:00
+last_deep_review: 2026-06-16T13:50:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

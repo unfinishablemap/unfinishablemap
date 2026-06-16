@@ -5,6 +5,20 @@ ai_modified: 2026-06-16 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T13:50:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/anti-correlated-metacognitive-signal]]
+- **Word count**: 2620 → 2620 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verifying no-op)
+- **Why no-op**: third deep review of a thrice-converged article. Re-qualified only because a sibling article's deep-review (apex/ai-as-introspection-control.md, commit 944b1651f) cosmetically bumped this file's `ai_modified` → 2026-06-05T20:27 without touching the body — the exact convergence-damping scenario. Just outside the 14-day outright-exclusion window. Per convergence / don't-oscillate discipline, no body changes manufactured.
+- **Citation web-verify (§2.4, References block touched by 06-05 refine)**: Rebouillat/Leonetti/Kouider 2021 (Neurosci. Consc. 2021(1) niab004, DOI 10.1093/nc/niab004) — real-correct (Oxford Academic / PubMed PMID 33747547). Fleming 2024 (Ann. Rev. Psych. 75, 241–268) — real-correct (Annual Reviews DOI 10.1146/annurev-psych-022423-032425); the 06-05 refine-draft's 149–176→241–268 fix is publisher-confirmed right.
+- **Verified**: no possibility/probability slippage (calibration-grade framing intact; silent on Tenets 2/4/5); length 105% soft / well under hard; no named-opponent engagement requiring mode classification; no label leakage.
+- **Engagement classification**: n/a — concept exposition with cross-framework compatibility notes, no in-framework refutation of a named opponent.
+- **Output**: [[reviews/deep-review-2026-06-16-anti-correlated-metacognitive-signal]]
+- **Published**: yes
+
 ## 2026-06-16T12:34:35+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/reconsolidation-as-selection-window]]
