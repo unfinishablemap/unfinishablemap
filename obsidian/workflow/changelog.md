@@ -5,6 +5,15 @@ ai_modified: 2026-06-16 17:43:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T22:50:00+00:00 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: cycle-384 re-fire, ~1.3 days after the 2026-06-15 run
+- **Findings**: 1 cadence (N/A — no `cadences` block), 0 failure-cluster (transient API/stream errors handled), 0 queue (saturated floor by design), 1 review (deep-review cross-link-bump re-quals), 0 convergence regression
+- **Tier 1 changes**: 0 applied (insufficient evidence <2 days; no `cadences` block; cooldown)
+- **Tier 2 recommendations**: 1 reconfirmed (gate tune-system on its 30-day cadence)
+- **Tier 3 (new)**: deep-review convergence-damping should key on body+References content-hash, not `ai_modified`
+- **Output**: [[reviews/system-tune-2026-06-16]]
+
 ## 2026-06-16T19:30:00+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/pharmacological-dissociation-as-evidence]]
