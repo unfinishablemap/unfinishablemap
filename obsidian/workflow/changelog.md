@@ -5,6 +5,13 @@ ai_modified: 2026-06-16 00:39:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T00:00:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Naturalist relationalism as a non-dualist rival in perception
+- **Output**: [[research/naturalist-relationalism-as-a-non-dualist-rival-in-perception-2026-06-16]]
+- **Sources consulted**: 11
+- **Assess-first verdict**: ARTICLE-WORTHY (concept page). Gap confirmed: dualist-perception's realism taxonomy omits relationalism; only sustained engagement is one paragraph in perceptual-failure (Martina/Phillips on blur); no standalone page. Flagged by optimistic-2026-06-12 L88 and ChatGPT outer-2026-06-11. concepts headroom 261/300.
+
 ## 2026-06-16T01:11:16+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/auditory-consciousness-and-the-interface]]

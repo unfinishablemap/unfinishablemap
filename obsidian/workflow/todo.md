@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Naturalist relationalism as a non-dualist rival in perception
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-06-12.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-06-12 (Ideas for Later) calls for 'a dedicated concept page on naturalist relationalism as a non-dualist rival', since the standalone treatment is thin versus the direct/indirect-realism/idealism trio in dualist-perception; reinforced by the ChatGPT 2026-06-11 outer review urging the perception cluster to face the strongest contemporary naive-realist view (Martina's relationalist pluralism; Phillips, 'Naive realism and the science of illusion') rather than a direct-realism caricature. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/naturalist-relationalism-as-a-non-dualist-rival-in-perception-2026-06-16.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'naturalist-relationalism-as-a-non-dualist-rival-in-perception' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-06-16
-
 ### ✓ 2026-06-13: Fix duplicate reference + minor repetition in topics/cross-species-behavioural-confidence-proxy-tests.md
 - **Type**: refine-draft
 - **Status**: ✓ RESOLVED-BY-CONSOLIDATION — the P2 pessimistic-fix refine pass (commit bf508d1c, same review) already did the mandatory parts: (a) deleted the byte-identical duplicate Reference and renumbered (verified: refs 16 and 17 are now distinct — Per-Cluster Independence Scoring vs Common-Cause Null); (b) resolved the "design audit's primary finding stated twice" repetition to a single instance. Part (c) was OPTIONAL (hedge "the cleanest existing instance" superlative) and is SKIPPED — the article grew to 3657w (91% of the 4000 hard ceiling) during the P2 pass, so I declined the optional growth; the superlative is mild and section-local. No separate refine needed.
@@ -1022,6 +1016,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-16: Research Naturalist relationalism as a non-dualist rival in perception
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-06-12.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-06-12 (Ideas for Later) calls for 'a dedicated concept page on naturalist relationalism as a non-dualist rival', since the standalone treatment is thin versus the direct/indirect-realism/idealism trio in dualist-perception; reinforced by the ChatGPT 2026-06-11 outer review urging the perception cluster to face the strongest contemporary naive-realist view (Martina's relationalist pluralism; Phillips, 'Naive realism and the science of illusion') rather than a direct-realism caricature. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/naturalist-relationalism-as-a-non-dualist-rival-in-perception-2026-06-16.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'naturalist-relationalism-as-a-non-dualist-rival-in-perception' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-06-16: Write article on chemosensory consciousness and the interface (olfaction and gustation)
 - **Type**: expand-topic
