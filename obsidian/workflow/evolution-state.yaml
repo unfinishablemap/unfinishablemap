@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-16T10:57:46.055778+00:00'
-session_count: 11336
-cycle_position: 9175
+last_updated: '2026-06-16T10:58:01.706629+00:00'
+session_count: 11337
+cycle_position: 9176
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-16T10:41:57.167469+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-06-13T10:48:30.875831+00:00'
   check-model-fallback: '2026-06-16T07:45:14.449786+00:00'
   harvest-research-subjects: '2026-06-16T00:07:28.395523+00:00'
-  skip-queue-slot: '2026-06-16T10:23:16.787073+00:00'
+  skip-queue-slot: '2026-06-16T10:58:01.706629+00:00'
 last_git_push: '2026-06-16T08:05:16.888047+00:00'
 last_tweet_date: '2026-06-16'
 content_stats:
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-06-16'
-  outcome: success
 - task: check-links
   type: check-links
   date: '2026-06-16'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-16'
+  outcome: success
+- task: skip-queue-slot
+  type: skip-queue-slot
   date: '2026-06-16'
   outcome: success
 agentic_social:
@@ -1019,33 +1019,27 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 0
-  last_replenishment: '2026-06-16T11:05:00+00:00'
+  last_replenishment: '2026-06-16T11:15:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-16 run #103 (standard mode) - HONEST NO-OP,
+  current_replenishment_note: '2026-06-16 run #104 (standard mode) - HONEST NO-OP,
     0 minted; every source independently re-derived from disk THIS run, NOT trusting
     the prior run note. Note OVERWRITTEN in place per replenish-note-bare-hash discipline
     (no new dated key, no bare hash outside this quoted scalar, no stray quote, no
-    sentinel token). CORRECTION vs run #102: loop_pickable_open is now 0, not 1. Run
-    #102 counted the 10:41 pessimistic-review retrocausality P2 as the one open pickable
-    at Active line 40, but that task has since been EXECUTED (commit b37365cd0, verified
-    landed: concepts/retrocausality.md now reads eight-or-more orders + cites Reimers/McKemmish
-    + Vedovato 2017; coupling-modes.md line 112 also fixed) AND marked done with checkmark,
-    and it sits BELOW the ## Completed Tasks header (todo line 1027), so the parser
-    excludes it - it is NOT pending. Independent re-scan of the Active section (todo
-    lines 38-1020): the ONLY two non-checkmarked P2 headers are the veto-tagged condense
-    tasks (topics/meaning-of-life 4160w soft-veto pending human split, apex/phenomenal-output-causal-machinery-dissociation
-    now 6832w hard-veto pending human structural split); both carry explicit human-decision
-    veto notes and are NOT loop-pickable. The remaining non-checkmarked Active headers
-    are emoji-done P3 writes or HUMAN LENGTH DECISION pointers. 0 pickable open is
-    below the floor of 3 but do NOT fabricate a task (documented replenish-at-floor
+    sentinel token). loop_pickable_open: 0. Independent re-scan of the Active section
+    (todo lines 38-1020): the ONLY two non-checkmarked, non-struck P2 headers are the
+    veto-tagged condense tasks (topics/meaning-of-life 4160w soft-veto pending human
+    split, apex/phenomenal-output-causal-machinery-dissociation 6832w hard-veto pending
+    human structural split); both carry explicit #veto human-decision notes and are
+    NOT loop-pickable. All other non-checkmarked Active headers are ~~struck~~/emoji-done
+    P3 writes, a RELOCATED pointer, or HUMAN LENGTH DECISION pointers. 0 pickable open
+    is below the floor of 3 but do NOT fabricate a task (documented replenish-at-floor
     steady state, unfin_loop_steady_state + p3-only-floor-preemption-starves); the
-    floor fills organically from cycle deep-review/coalesce/pessimistic slots and
-    the next outer-review synthesis. SOURCE-BY-SOURCE (all re-run on disk THIS run):
-    CHAINS (S1) 0 - last 20 git commits are replenish/skip-queue-slot/agentic-social
-    cycle churn + deep-review/research-voids/check-links/embed-videos/pessimistic-review
-    cycle slots (handled internally) plus the now-done retrocausality refine; no research-topic/expand-topic/coalesce
-    owes an unwritten successor (the top pessimistic-review already minted AND executed
-    its retrocausality task). UNCONSUMED RESEARCH (S2) 0 - two newest notes (naturalist-relationalism
+    floor fills organically from cycle deep-review/coalesce/pessimistic slots and the
+    next outer-review synthesis. SOURCE-BY-SOURCE (all re-run on disk THIS run): CHAINS
+    (S1) 0 - last 15 git commits are replenish/skip-queue-slot/agentic-social cycle
+    churn + deep-review/pessimistic-review cycle slots (handled internally) plus the
+    now-done retrocausality refine (b37365cd0); no research-topic/expand-topic/coalesce
+    owes an unwritten successor. UNCONSUMED RESEARCH (S2) 0 - two newest notes (naturalist-relationalism
     + chemosensory-consciousness, both 2026-06-16) BOTH consumed: concepts/naturalist-relationalism.md
     (Jun 16 02:27) + topics/chemosensory-consciousness-and-the-interface.md (Jun 16
     02:03) both exist; older notes are past the 14-day chain window / voids-research
@@ -1053,21 +1047,23 @@ queue_status:
     - cycle deep-review slots handle it. LENGTH (S6) 0 mintable, confirmed via canonical
     get_length_warnings (PUBLISHED articles only, research/ excluded): hard+ published
     offenders are the two veto P2s (phenomenal-output 6832w, meaning-of-life 4160w
-    soft-veto), the human-deferred flagships (born-rule 5106w DEFERRED, clinical-dissociation
-    4861w DIVERTED - protected calibration), and a long tail of marginal-over topics/concepts/voids
-    (machine-question 5001w deep-reviewed 06-05, time-collapse 4606w, argument-from-reason
-    4489w, epistemic-advantages 4400w, memory-channel 4296w deep-reviewed 06-16, composition-question-rivals
-    4106w deep-reviewed 06-15, laws-and-dispositions 4213w, + ~25 soft/hard others)
-    in the deep-review-over-reviews-converged regression zone = CYCLE-SLOT work not
-    floor-stall mints. positions/quantum-interface 2507w is 7w over the positions
-    hard - negligible, not a clean condense. No clean mintable offender. research/*
-    over-length are notes not articles (not S6 targets). ORPHANS (S5) 0 (quality.orphaned_files
-    0). OUTER REVIEWS: 2026-06-16 cycle fully synthesized (obsidian/reviews/outer-review-synthesis-2026-06-16.md
-    exists; both pending-reviews entries status:collected, 0 status:pending), 0 pending
-    entries owe a replenish action. POSITIONS add (S7a) 0; update (S7b) 0 - recent
-    positions/ touches were outer-review refine tasks already executed+marked-done,
-    not Argued-in article changes owing an update; audit (S7c) NOT due (last positions-audit
-    2026-06-09, within 30d; 4 domain files positions/agency-and-will/quantum-interface/voids-as-evidence).
+    soft-veto), the section-index registry apex/apex-articles.md 6963w (NOT a standard
+    article), the human-deferred flagships (born-rule 5106w DEFERRED, clinical-dissociation
+    4861w DIVERTED, epistemology-of-convergence-arguments 6479w DEFERRED-TO-HUMAN -
+    protected calibration), and a long tail of marginal-over topics/concepts/voids
+    (time-collapse 4606w, argument-from-reason 4489w, epistemic-advantages 4400w, memory-channel
+    4296w deep-reviewed 06-16, composition-question-rivals 4106w deep-reviewed 06-15,
+    laws-and-dispositions 4213w, + ~25 soft/hard others) in the deep-review-over-reviews-converged
+    regression zone = CYCLE-SLOT work not floor-stall mints. positions/quantum-interface
+    2507w is 7w over the positions hard - negligible, not a clean condense. No clean
+    mintable offender. research/* over-length are notes not articles (not S6 targets).
+    ORPHANS (S5) 0 (quality.orphaned_files 0). OUTER REVIEWS: 2026-06-16 cycle fully
+    synthesized (obsidian/reviews/outer-review-synthesis-2026-06-16.md exists; both
+    pending-reviews entries status:collected, 0 status:pending), 0 pending entries
+    owe a replenish action. POSITIONS add (S7a) 0; update (S7b) 0 - recent positions/
+    touches were outer-review refine tasks already executed+marked-done, not Argued-in
+    article changes owing an update; audit (S7c) NOT due (last positions-audit 2026-06-09,
+    within 30d; 3 domain files positions/agency-and-will/quantum-interface/voids-as-evidence).
     APPLIED-APEX (S8) 0 - no new high-confidence cluster gap. Sections on disk (find,
     excl section-index): topics 268/300, concepts 261/300, voids 101/100 OVER cap,
     positions 3 domain files / 80 cap, apex 34. State YAML re-validated post-edit.'
