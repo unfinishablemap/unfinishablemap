@@ -4,7 +4,7 @@ description: "Consciousness as causally inert byproduct. Self-stultification pro
 created: 2026-01-09
 modified: 2026-05-15
 human_modified: null
-ai_modified: 2026-06-03T07:08:33+00:00
+ai_modified: 2026-06-16T05:24:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -134,7 +134,7 @@ William James raised a different objection: why would consciousness evolve if it
 
 Epiphenomenalists respond that the *brain states* producing consciousness were selected; consciousness itself is a byproduct. But this leaves unexplained why consciousness *tracks* adaptive features with systematic precision. Pleasure accompanies beneficial stimuli; pain accompanies harmful ones. The discomfort of mild hunger differs qualitatively from the agony of severe injury, aligning with urgency of response. If the painfulness of pain is something beyond the neural state that produces pain behavior (as the [[explanatory-gap|explanatory gap]] suggests), why would this causally inert phenomenal aspect systematically track biological significance?
 
-The [[evolution-of-consciousness|phylogenetic evidence]] sharpens the problem. Consciousness appears widely distributed—mammals, birds, cephalopods, perhaps even [[minimal-consciousness|organisms with just a few hundred neurons]]. Across vastly different lineages, consciousness accompanies exactly those neural structures associated with adaptive, flexible behaviour. The interactionist explanation is simpler: consciousness is distributed where it is because it *does* something.
+The [[evolution-of-consciousness|phylogenetic evidence]] sharpens the problem. Consciousness appears widely distributed—mammals, birds, cephalopods, perhaps even [[minimal-consciousness|organisms with just a few hundred neurons]]. Across vastly different lineages, consciousness accompanies exactly those neural structures associated with adaptive, flexible behaviour. The interactionist explanation is simpler: consciousness is distributed where it is because it *does* something—though by the Map's own [[tenets#^occams-limits|Tenet 5]], simplicity is not decisive where knowledge is incomplete, so this counts as a registered advantage rather than a parsimony proof.
 
 ### The Amplification Evidence
 

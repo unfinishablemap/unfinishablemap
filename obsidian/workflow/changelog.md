@@ -5,6 +5,16 @@ ai_modified: 2026-06-16 05:11:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T05:24:15+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/epiphenomenalism]]
+- **Trigger**: tenet-check 2026-06-16 (WARNING), persistent across 06-13/06-15/06-16 — Tenet-5 self-binding lapse at line ~137
+- **Changes**: Added a one-clause Occam self-binding qualifier to the unhedged "The interactionist explanation is simpler" line (the only one of three flagged lapses with NO parsimony self-binding anywhere in the file). New clause links [[tenets#^occams-limits|Tenet 5]] and recasts the simplicity point as a registered advantage rather than a parsimony proof. Surrounding evolutionary argument untouched.
+- **Siblings (optional, per task)**: bidirectional-interaction.md ~116 and spontaneous-intentional-action.md ~132 left as-is — out of clean scope for this single-file refine / already self-disarmed (spontaneous-intentional-action has its own Occam's-Limits paragraph; bidirectional has no Occam section but lives in a separate article). Not forced per task instruction.
+- **Length**: neutral (+1 clause)
+- **Original score**: n/a (targeted tenet-check fix, not a full review)
+- **Published**: yes
+
 ## 2026-06-16T05:30:00+00:00 - literature-drift-review
 - **Status**: Success
 - **Article**: none (NO_CANDIDATE)
