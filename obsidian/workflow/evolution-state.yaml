@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-16T10:58:01.706629+00:00'
-session_count: 11337
+last_updated: '2026-06-16T11:06:23.684223+00:00'
+session_count: 11338
 cycle_position: 9176
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-16T04:14:32.657292+00:00'
   refine-draft: '2026-06-16T10:50:23.881100+00:00'
   research-topic: '2026-06-16T01:23:13.092650+00:00'
-  replenish-queue: '2026-06-16T10:57:46.055778+00:00'
+  replenish-queue: '2026-06-16T11:06:23.684223+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-16T08:06:09.164774+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-links
-  type: check-links
-  date: '2026-06-16'
-  outcome: success
 - task: research-voids
   type: research-voids
   date: '2026-06-16'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
+  date: '2026-06-16'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-16'
   outcome: success
 agentic_social:
@@ -1026,19 +1026,19 @@ queue_status:
     the prior run note. Note OVERWRITTEN in place per replenish-note-bare-hash discipline
     (no new dated key, no bare hash outside this quoted scalar, no stray quote, no
     sentinel token). loop_pickable_open: 0. Independent re-scan of the Active section
-    (todo lines 38-1020): the ONLY two non-checkmarked, non-struck P2 headers are the
-    veto-tagged condense tasks (topics/meaning-of-life 4160w soft-veto pending human
-    split, apex/phenomenal-output-causal-machinery-dissociation 6832w hard-veto pending
-    human structural split); both carry explicit #veto human-decision notes and are
-    NOT loop-pickable. All other non-checkmarked Active headers are ~~struck~~/emoji-done
-    P3 writes, a RELOCATED pointer, or HUMAN LENGTH DECISION pointers. 0 pickable open
-    is below the floor of 3 but do NOT fabricate a task (documented replenish-at-floor
+    (todo lines 38-1020): the ONLY two non-checkmarked, non-struck P2 headers are
+    the veto-tagged condense tasks (topics/meaning-of-life 4160w soft-veto pending
+    human split, apex/phenomenal-output-causal-machinery-dissociation 6832w hard-veto
+    pending human structural split); both carry explicit #veto human-decision notes
+    and are NOT loop-pickable. All other non-checkmarked Active headers are ~~struck~~/emoji-done
+    P3 writes, a RELOCATED pointer, or HUMAN LENGTH DECISION pointers. 0 pickable
+    open is below the floor of 3 but do NOT fabricate a task (documented replenish-at-floor
     steady state, unfin_loop_steady_state + p3-only-floor-preemption-starves); the
-    floor fills organically from cycle deep-review/coalesce/pessimistic slots and the
-    next outer-review synthesis. SOURCE-BY-SOURCE (all re-run on disk THIS run): CHAINS
-    (S1) 0 - last 15 git commits are replenish/skip-queue-slot/agentic-social cycle
-    churn + deep-review/pessimistic-review cycle slots (handled internally) plus the
-    now-done retrocausality refine (b37365cd0); no research-topic/expand-topic/coalesce
+    floor fills organically from cycle deep-review/coalesce/pessimistic slots and
+    the next outer-review synthesis. SOURCE-BY-SOURCE (all re-run on disk THIS run):
+    CHAINS (S1) 0 - last 15 git commits are replenish/skip-queue-slot/agentic-social
+    cycle churn + deep-review/pessimistic-review cycle slots (handled internally)
+    plus the now-done retrocausality refine (b37365cd0); no research-topic/expand-topic/coalesce
     owes an unwritten successor. UNCONSUMED RESEARCH (S2) 0 - two newest notes (naturalist-relationalism
     + chemosensory-consciousness, both 2026-06-16) BOTH consumed: concepts/naturalist-relationalism.md
     (Jun 16 02:27) + topics/chemosensory-consciousness-and-the-interface.md (Jun 16
@@ -1049,11 +1049,11 @@ queue_status:
     offenders are the two veto P2s (phenomenal-output 6832w, meaning-of-life 4160w
     soft-veto), the section-index registry apex/apex-articles.md 6963w (NOT a standard
     article), the human-deferred flagships (born-rule 5106w DEFERRED, clinical-dissociation
-    4861w DIVERTED, epistemology-of-convergence-arguments 6479w DEFERRED-TO-HUMAN -
-    protected calibration), and a long tail of marginal-over topics/concepts/voids
-    (time-collapse 4606w, argument-from-reason 4489w, epistemic-advantages 4400w, memory-channel
-    4296w deep-reviewed 06-16, composition-question-rivals 4106w deep-reviewed 06-15,
-    laws-and-dispositions 4213w, + ~25 soft/hard others) in the deep-review-over-reviews-converged
+    4861w DIVERTED, epistemology-of-convergence-arguments 6479w DEFERRED-TO-HUMAN
+    - protected calibration), and a long tail of marginal-over topics/concepts/voids
+    (time-collapse 4606w, argument-from-reason 4489w, epistemic-advantages 4400w,
+    memory-channel 4296w deep-reviewed 06-16, composition-question-rivals 4106w deep-reviewed
+    06-15, laws-and-dispositions 4213w, + ~25 soft/hard others) in the deep-review-over-reviews-converged
     regression zone = CYCLE-SLOT work not floor-stall mints. positions/quantum-interface
     2507w is 7w over the positions hard - negligible, not a clean condense. No clean
     mintable offender. research/* over-length are notes not articles (not S6 targets).

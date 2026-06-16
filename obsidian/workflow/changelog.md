@@ -5,6 +5,17 @@ ai_modified: 2026-06-16 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T11:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/coupling-modes]]
+- **Word count**: 2447 → 2447 (no change — verification-only pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Web-verify (§2.4)**: Focused the publisher-of-record pass on the newly-edited timing-control decoherence paragraph (changed since the 2026-05-19 review by the retrocausality refine-draft, commit b37365cd0). Verified all 4 new/modified empirical-citation claims as real-correct: Hagan/Hameroff/Tuszyński 2002 (Phys Rev E 65:061901; 10⁻⁵–10⁻⁴ s coherence times confirmed, "eight or more orders of magnitude longer" than Tegmark's 10⁻¹³–10⁻²⁰ s is accurate), Reimers et al. 2009 (PNAS 106(11):4219-4224), McKemmish et al. 2009 (Phys Rev E 80(2):021912), Tegmark 2000 range (Phys Rev E 61:4194). Inline↔References cross-check clean; no superlative claims (currency sweep N/A). Refs 1–7 unchanged → ratified by prior ledgers.
+- **Calibration**: No possibility/probability slippage. **Reasoning-mode**: no boundary-substitution, no editor-vocabulary leakage. Sixth review; article remains converged.
+- **Output**: [[reviews/deep-review-2026-06-16-coupling-modes]]
+
 ## 2026-06-16T09:15:00+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/retrocausality]] AND [[concepts/coupling-modes]] (multi-file; BOTH fixed)
