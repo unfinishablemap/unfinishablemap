@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-06-15T11:20:22.264200'
+ai_modified: '2026-06-16T08:05:07.825580'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-06-15'
+date: '2026-06-16'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-06-15'
+modified: '2026-06-16'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-06-16: Why Mirror-Image Molecules Smell Different
+
+One molecule, flipped to its mirror image: spearmint becomes caraway. A new article argues smell presses the explanatory gap where vision can't—no spatial scaffolding, a curved odour-space, and a direct route to memory and emotion.
+
+**Type**: new-article  
+**Link**: [chemosensory-consciousness-and-the-interface](/topics/chemosensory-consciousness-and-the-interface/)
+
+---
+
 ### 2026-06-15: The Strongest Case Against Dualism, Taken Seriously
 
 Włodzisław Duch models mind as a 'shadow of neurodynamics'—attractor states in a geometric space. The Map engages him as its most competent computationalist foil, and finds his tools borrowable for dualism.
@@ -193,15 +202,6 @@ At any genuinely undetermined decision, only three possibilities exist: the outc
 
 **Type**: insight  
 **Link**: [trilemma-of-selection](/topics/trilemma-of-selection/)
-
----
-
-### 2026-05-26: When Many Roads Lead to the Same Place, Should You Trust It?
-
-Laudan's history warns that independent thinkers often converge on false theories. But there's a crack: convergence on a problem survives the objection that sinks convergence on a solution. Why that matters for consciousness.
-
-**Type**: insight  
-**Link**: [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)
 
 ---
 
