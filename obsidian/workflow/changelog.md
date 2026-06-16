@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-16 05:11:00+00:00
+ai_modified: 2026-06-16 05:29:16+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-16T05:29:16+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/split-brain-consciousness]]
+- **Trigger**: outer review 2026-06-16 (Gemini 2.5 Pro, finding 2 — "omission of dynamical systems theory")
+- **Verification (3-state)**: reviewer's corpus-level "complete omission" is FALSE ([[anaesthesia-and-the-consciousness-interface]] engages bistability/neural inertia/flip-flop/hysteresis at lines 102/104; [[consciousness-disruption-and-the-mind-brain-interface]] line 149 grants the production-theorist's active-return-path-to-attractor answer). Genuine narrow slice confirmed: the line-148 threshold argument was **present-but-unlinked** — no cross-link to the dynamical-systems accommodation, so the argument could travel without its strongest counter attached.
+- **Changes**: Edited the existing line-150 concession sentence ("Physicalism can explain... all-or-nothing loss through threshold effects") to name the bistable critical-phase-transition mechanism and cross-link [[anaesthesia-and-the-consciousness-interface]], with an honest boundary-marking clause ("That the threshold has a standard non-linear explanation is precisely why it cannot be cited as a clean interface signature"). One clause, length-neutral.
+- **Engagement classification (editor-internal)**: dynamical-systems accommodation — Mode Three (framework-boundary marking); the physicalist mechanism is named as a genuine accommodation, not refuted inside its own framework. No mode labels in body.
+- **Scope discipline**: NOT a rewrite. Article deep-reviewed 2026-06-09 and well-hedged ([[deep-review-over-reviews-converged]]); no over-hedging of converged prose. Line-148 paragraph itself untouched; conclusion preserved.
+- **Tenets**: Tenet 1 (Dualism), Tenet 3 (Bidirectional Interaction) — alignment unchanged; [[evidential-status-discipline]] honored.
+- **Original score**: n/a (targeted outer-review cross-link fix, not a full review)
+- **Published**: yes
 
 ## 2026-06-16T05:24:15+00:00 - refine-draft
 - **Status**: Success

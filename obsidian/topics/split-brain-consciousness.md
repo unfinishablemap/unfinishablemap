@@ -4,7 +4,7 @@ description: "Split-brain surgery, anaesthesia, and dissociation each fracture c
 created: 2026-01-14
 modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-06-07T11:18:41+00:00
+ai_modified: 2026-06-16T05:29:16+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -147,7 +147,7 @@ What the cases *do* compound is the [[hard-problem-of-consciousness|hard problem
 
 **The threshold character of loss.** When general anaesthesia succeeds, consciousness does not fragment into multiple diminished streams — it disappears. If consciousness were reducible to integrated activity, fragmenting integration should produce fragmented but still-present experiences. Instead, below a threshold of global integration, experience ceases — what one would expect if integration is a *condition* for consciousness to interact with the brain rather than the thing that constitutes consciousness.
 
-Neither point is decisive. Physicalism can explain resilience through redundant pathways and all-or-nothing loss through threshold effects. What differs is what each framework most naturally predicts.
+Neither point is decisive. Physicalism can explain resilience through redundant pathways and all-or-nothing loss through threshold effects — most powerfully as a critical phase transition between bistable cortical regimes, the dynamical-systems account [[anaesthesia-and-the-consciousness-interface|the dedicated anaesthesia article]] engages in detail (neural inertia, the mutually-inhibitory flip-flop, hysteresis). That the threshold has a standard non-linear explanation is precisely why it cannot be cited as a clean interface signature; what differs is what each framework most naturally predicts.
 
 ## The Illusionist Challenge
 
