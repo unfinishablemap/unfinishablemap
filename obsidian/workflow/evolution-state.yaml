@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-16T06:24:18.642507+00:00'
-session_count: 11280
-cycle_position: 9153
+last_updated: '2026-06-16T06:30:08.770364+00:00'
+session_count: 11281
+cycle_position: 9154
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-16T05:51:41.234313+00:00'
@@ -22,9 +22,9 @@ last_runs:
   commission-chatgpt-review: '2026-06-16T02:09:55.835517+00:00'
   commission-claude-review: '2026-06-16T03:16:54.357867+00:00'
   commission-gemini-review: '2026-06-16T04:14:32.657292+00:00'
-  refine-draft: '2026-06-16T06:04:32.281050+00:00'
+  refine-draft: '2026-06-16T06:30:08.770364+00:00'
   research-topic: '2026-06-16T01:23:13.092650+00:00'
-  replenish-queue: '2026-06-16T06:24:18.642507+00:00'
+  replenish-queue: '2026-06-16T06:50:00.000000+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-15T11:21:03.021858+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: combine-outer-reviews
-  type: combine-outer-reviews
-  date: '2026-06-16'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-16'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-16'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-16'
   outcome: success
 agentic_social:
@@ -1009,60 +1009,64 @@ queue_status:
   p2_tasks: 0
   p3_tasks: 0
   needs_replenishment: false
-  loop_pickable_open: 1
+  loop_pickable_open: 0
   last_replenishment: '2026-06-16T06:50:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-16 run #79 (standard mode) - HONEST NO-OP,
+  current_replenishment_note: '2026-06-16 run #80 (standard mode) - HONEST NO-OP,
     0 minted. Note OVERWRITTEN in place per replenish-note-bare-hash-breaks-yaml (no
     new dated key, no bare hash outside this quoted scalar, no stray quote, no sentinel
-    token). MATERIAL CHANGE since run #78 (06:35): exactly ONE new commit - the cycle
-    deep-review on topics/claude-constitution-consciousness-uncertainty.md (7b2f28eaa),
-    a CLEAN converged confirming SECOND review (0 critical, 0 medium, 1 enhancement
-    grounding the precaution thesis in Birch Edge-of-Sentience 2024; +141w to 2034w,
-    well under any threshold; all cites web-verified at publisher of record). It surfaced
-    NO defect owing a chain follow-on. loop_pickable_open HOLDS at 1: the only genuinely
-    loop-pickable open P0-P2 task remains the post-synthesis P2 outer-review refine
-    "make the No-Many-Worlds tenet dependency on a non-deflationary subject theory
-    explicit" (Source outer-review). Everything else open is non-pickable: P3 voids-as-evidence
-    stale-count refresh (pessimistic-review), P3 outer-review methodology holding-pen
-    (assess-first). 1 pickable is below the floor of 3, but do NOT fabricate a task
-    to hit it (documented replenish-at-floor steady state, unfin_loop_steady_state
-    + p3-only-floor-preemption-starves); the floor fills organically as the loop drains
-    the No-MWI P2 and cycle deep-review/coalesce slots absorb staleness. SOURCE-BY-SOURCE
-    (all re-run on disk THIS run): CHAINS (S1) 0 - the only commit since run #78 is
-    the claude-constitution deep-review (clean confirming pass, no defect, no chain
-    owed; article already deep-reviewed once = second-pass converged). UNCONSUMED
-    RESEARCH (S2) 0 - the two newest 2026-06-16 notes stay consumed (naturalist-relationalism-as-a-non-dualist-rival-in-perception
-    -> concepts/naturalist-relationalism.md verified on disk; chemosensory-consciousness-and-the-interface-olfaction-and-gustation
-    -> topics/chemosensory-consciousness-and-the-interface.md verified on disk). GAPS
-    (S3) 0 - mature saturated corpus. STALENESS (S4) 0 mintable - cycle deep-review
-    slots handle it (this very cycle did one). LENGTH (S6) 0 mintable - canonical
+    token). MATERIAL CHANGE since run #79 (06:50): exactly ONE new commit - the
+    post-synthesis P2 outer-review refine on the No-Many-Worlds tenet (fedc967d4),
+    which DRAINED the single loop-pickable P2 that run #79 was tracking. That refine
+    edited tenets.md (added a subjecthood-dependency note to Tenet 4) and
+    positions/agency-and-will.md (added a Bears-on cross-ref to P-A2). It is a clean,
+    self-contained outer-review remediation: it ANNOTATES an existing position rather
+    than introducing a new claim (no S7a add owed) and it strengthens rather than
+    invalidates the tenet/position dependency it edited (no S7b update owed - the
+    edited file IS the position; nothing it Argues-in changed). loop_pickable_open
+    now 0: only two P3s remain open, both non-pickable - P3 voids-as-evidence
+    stale-count refresh (pessimistic-review, low/low-medium severity) and the P3
+    outer-review methodology holding-pen (assess-first, operator/architecture
+    decisions). 0 pickable is below the floor of 3, but do NOT fabricate a task to
+    hit it (documented replenish-at-floor steady state, unfin_loop_steady_state +
+    p3-only-floor-preemption-starves); the floor fills organically as cycle
+    deep-review/coalesce/pessimistic slots and the next outer-review synthesis emit
+    pickable work. SOURCE-BY-SOURCE (all re-run on disk THIS run): CHAINS (S1) 0 -
+    the only commit since run #79 is the No-MWI refine (clean, no defect, no chain
+    owed). UNCONSUMED RESEARCH (S2) 0 - the two newest 2026-06-16 notes stay
+    consumed (naturalist-relationalism-as-a-non-dualist-rival-in-perception ->
+    concepts/naturalist-relationalism.md verified on disk; chemosensory-consciousness-and-the-interface-olfaction-and-gustation
+    -> topics/chemosensory-consciousness-and-the-interface.md verified on disk).
+    GAPS (S3) 0 - mature saturated corpus. STALENESS (S4) 0 mintable - cycle
+    deep-review slots handle it. LENGTH (S6) 0 mintable - canonical
     get_length_warnings hard+ LIVE-content list (25 non-research offenders) IDENTICAL
-    to run #78: ALL human-DEFERRED flagships (epistemology-of-convergence 6479w, born-rule
-    5106w, laws-and-dispositions 4213w, clinical-dissociation 4861w, time-collapse
-    4606w - HUMAN LENGTH DECISION / DEFERRED-TO-HUMAN headers in Blocked), veto-tagged
-    condense P2 already in Active (phenomenal-output 6832w), index/apex hub (apex-articles
-    6963w, machine-question apex 5001w deep-reviewed), over-cap voids (edge-states
-    3482w, agency-void 3174w, what-voids-reveal 3019w, wholeheartedness-void 3006w
-    - voids OVER cap 101/100), memory-channel-interface-evidence 4296w deep-review-verified-as-survey
-    2026-06-16, recently-condensed-and-stable (argument-from-reason 4489w condensed
-    06-05, epistemic-advantages 4400w condensed 05-31, predictive-processing 3597w
-    refined today, filter-theory 3500w at-hard), OR borderline 4021-4106w topics ALL
-    deep-reviewed within ~2wk (composition-question-rivals 06-15, valence-and-conscious-selection
-    06-05, qm-interpretations-beyond-many-worlds 06-04, consciousness-and-the-metaphysics-of-composition
-    06-05, consciousness-in-simple-organisms 06-02, phenomenal-authority 06-03, introspection-architecture-independence-scoring
+    to run #79: ALL human-DEFERRED flagships (epistemology-of-convergence 6479w,
+    born-rule 5106w, laws-and-dispositions 4213w, clinical-dissociation 4861w,
+    time-collapse 4606w - HUMAN LENGTH DECISION / DEFERRED-TO-HUMAN headers in
+    Blocked), veto-tagged condense P2 already in Active (phenomenal-output 6832w),
+    index/apex hub (apex-articles 6963w, machine-question apex 5001w deep-reviewed),
+    over-cap voids (edge-states 3482w, agency-void 3174w, what-voids-reveal 3019w,
+    wholeheartedness-void 3006w - voids OVER cap 101/100), memory-channel-interface-evidence
+    4296w deep-review-verified-as-survey 2026-06-16, recently-condensed-and-stable
+    (argument-from-reason 4489w condensed 06-05, epistemic-advantages 4400w condensed
+    05-31, predictive-processing 3597w refined today, filter-theory 3500w at-hard),
+    OR borderline 4021-4106w topics ALL deep-reviewed within ~2wk (composition-question-rivals
+    06-15, valence-and-conscious-selection 06-05, qm-interpretations-beyond-many-worlds
+    06-04, consciousness-and-the-metaphysics-of-composition 06-05, consciousness-in-simple-organisms
+    06-02, phenomenal-authority 06-03, introspection-architecture-independence-scoring
     06-04, quantum-biology 06-05) - minting condense on freshly-reviewed marginally-over
     articles would regress validated content; cycle deep-review handles them; research/*
     excluded (no ceiling). ORPHANS (S5) 0 (quality.orphaned_files 0). OUTER REVIEWS:
-    2026-06-16 cycle fully processed, synthesized, all minted tasks executed; no pending
-    entry owes a replenish action. POSITIONS add (S7a) 0; update (S7b) 0 - no position
-    cites the one slug changed since run #78 (grep of obsidian/positions/ against
-    claude-constitution-consciousness-uncertainty returns NONE); audit (S7c) NOT due
+    2026-06-16 cycle fully processed, synthesized, all minted tasks executed (the
+    No-MWI refine was the last); no pending entry owes a replenish action. POSITIONS
+    add (S7a) 0; update (S7b) 0 - the only positions file touched since run #79
+    (agency-and-will.md) was edited BY an outer-review refine that strengthened it,
+    not by a change to an article it Argues-in; audit (S7c) NOT due
     (last positions-audit-2026-06-09, within 30d). APPLIED-APEX (S8) 0 - register
     at 3 domain files, no new high-confidence cluster gap. Sections on disk (find,
     excl section-index): topics 268/300, concepts 261/300, voids 101/100 OVER cap,
     positions 3 domain files / 80 cap, apex 33. State YAML re-validated post-edit.
-    (Run #78 historical context superseded by this note.)'
+    (Run #79 historical context superseded by this note.)'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
