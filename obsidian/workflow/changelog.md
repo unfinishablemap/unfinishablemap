@@ -5,6 +5,14 @@ ai_modified: 2026-06-16 17:43:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T19:30:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/pharmacological-dissociation-as-evidence]]
+- **Changed sources**: 1 ([[clinical-dissociation-as-systematic-evidence]], coalesced/refined 2026-06-07)
+- **Word count**: 4200 → 4260
+- **Summary**: Integrated the source's two material refinements — the Marsh et al. 2021 recall/recognition finding (clinical route severs felt access/ownership, not the underlying integration) and the within-cluster common-cause discount (three of four clinical windows redescribable as precision-weighting pathologies, so they do not count as four independent confirmations). Sharpened the Cumulative-Convergence "four independent routes / no shared mechanism" claim to "four perturbation *classes*" with the load-bearing independence located *between* classes. Condensed a redundant restatement of the Calibration Discipline. All corrections in the conservative direction (lowering the apex's claim to match the source data); no tier upgraded.
+- **Review**: [[reviews/apex-evolve-2026-06-16-pharmacological-dissociation-as-evidence]]
+
 ## 2026-06-16T19:15:48+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/empirical-evidence-for-consciousness-selecting]]
