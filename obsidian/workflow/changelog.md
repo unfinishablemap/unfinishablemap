@@ -5,6 +5,17 @@ ai_modified: 2026-06-16 00:39:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T01:11:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/auditory-consciousness-and-the-interface]]
+- **Word count**: 1743 → 1743 (+0; convergent-stability pass, no body edits)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (article at convergent stability since 2026-05-31; only change since was a cosmetic cross-link bump — the cosmetic-cross-link re-qualification pattern)
+- **Citation web-verify**: full publisher-of-record per-cite ledger this pass (prior review relied on changelog claims). Bregman 1990 (MIT Press) = real-correct; Nagel 1974 (Phil Review 83(4):435-450) = real-correct; O'Callaghan 2020 (SEP, Summer-2020 revision faithful) = real-correct. Two internal quotes verbatim against dualist-perception L153. No superlatives. No inline↔References orphans.
+- **Reasoning mode**: engages "the physicalist" generically as Mode Three (framework-boundary marking) throughout; no boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-16-auditory-consciousness-and-the-interface]]
+
 ## 2026-06-16T00:00:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Chemosensory consciousness and the interface (olfaction and gustation)
