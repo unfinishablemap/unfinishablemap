@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-16T01:43:45.058433+00:00'
-session_count: 11233
+last_updated: '2026-06-16T01:46:35.837878+00:00'
+session_count: 11234
 cycle_position: 9132
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-06-15T21:11:34.927583+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-15T23:01:34.616166+00:00'
-  agentic-social: '2026-06-16T01:00:44.842373+00:00'
+  agentic-social: '2026-06-16T01:49:58.155343+00:00'
   embed-videos: '2026-06-15T22:41:18.369096+00:00'
   commission-chatgpt-review: '2026-06-14T02:04:12.431322+00:00'
   commission-claude-review: '2026-06-14T03:03:19.686229+00:00'
   commission-gemini-review: '2026-06-14T04:07:15.493292+00:00'
   refine-draft: '2026-06-16T00:41:12.047697+00:00'
   research-topic: '2026-06-16T01:23:13.092650+00:00'
-  replenish-queue: '2026-06-16T01:36:46.071738+00:00'
+  replenish-queue: '2026-06-16T01:46:35.837878+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T01:33:10.124482+00:00'
   add-highlight: '2026-06-15T11:21:03.021858+00:00'
@@ -96,10 +92,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-06-16'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-16'
@@ -176,13 +168,12 @@ recent_tasks:
   type: optimistic-review
   date: '2026-06-16'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-06-16'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/phenomenology-of-musical-understanding/
-    date: '2026-06-09T01:33:12.954696+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - aesthetics-and-consciousness
   - url: https://unfinishablemap.org/topics/ai-consciousness/
     date: '2026-06-09T02:34:06.845050+00:00'
     topics:
@@ -992,6 +983,12 @@ agentic_social:
     - hard-problem-of-consciousness
     - ai-consciousness
     - free-will
+  - url: https://unfinishablemap.org/topics/reconsolidation-as-selection-window/
+    date: '2026-06-16T01:49:58.155291+00:00'
+    topics:
+    - consciousness-and-memory
+    - personal-identity
+    - forward-in-time-conscious-selection
 tune_system_history:
   last_run: '2026-06-15T12:20:00+00:00'
   changes_applied: []
