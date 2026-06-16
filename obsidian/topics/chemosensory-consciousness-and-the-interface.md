@@ -4,7 +4,7 @@ description: "The chemical senses press the explanatory gap where vision cannot:
 created: 2026-06-16
 modified: 2026-06-16
 human_modified:
-ai_modified: 2026-06-16T00:00:00+00:00
+ai_modified: 2026-06-16T04:00:00+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -80,6 +80,7 @@ The Map does not claim the chemical senses settle dualism. It claims they are ev
 
 - [[dualist-perception]] — the general dualist treatment of perception, which names the modality gap this article fills
 - [[auditory-consciousness-and-the-interface]] — the hearing companion, with which this article shares its structure and its "accommodation, not proof" calibration
+- [[tactile-consciousness-and-the-interface]] — the touch companion, which supplies the *contact* case of constitutive valence (affective touch, pain) to this article's *exteroceptive* case (smell)
 - [[consciousness-as-perceptual-architect]] — perceptual constancy and learning, whose sommelier and "Barolo" examples find their modality home here
 - [[the-binding-problem]] — the binding taxonomy that flavour instantiates without spatial scaffolding
 - [[evaluative-phenomenal-character]] — the claim that some phenomenal character is constitutively valenced, for which smell is the strongest perceptual case

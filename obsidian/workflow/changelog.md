@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-16 00:39:39+00:00
+ai_modified: 2026-06-16 04:00:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-16T04:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Tactile / somatosensory consciousness and the interface (completes the perception-modality series vision → audition → chemosensation → touch)
+- **Output**: [[topics/tactile-consciousness-and-the-interface]]
+- **Word count**: 2818 (94% of 3000 topic soft target, status ok)
+- **Based on research**: no (optimistic-2026-06-16 task; general knowledge + web-verified citations)
+- **ASSESS-FIRST outcome**: PROCEED (not declined). Overlap with `dual-domain-capabilities-in-proprioception-and-spatial-imagination` (body schema/body image, phantom limbs), `consciousness-and-the-ownership-problem` (metaphysics of mineness), and the pain corpus (`pain-consciousness-and-causal-power`, `pain-asymbolia`) is real but those treat different angles; this article is scoped to the GENUINELY uncovered material — cutaneous touch, active haptics, touching-touched reversibility, the discriminative/affective two-channel split, and the *malleability of the felt body boundary* (rubber-hand) — referencing the existing articles rather than re-deriving them.
+- **Citations web-verified**: Gibson 1962 Psych Review 69:477-491 (active vs passive touch), Merleau-Ponty 1945/2012 (double sensation / reversibility), Abraira & Ginty 2013 Neuron 79:618-639 (mechanoreceptor subtypes), McGlone Wessberg Olausson 2014 Neuron 82:737-755 (C-tactile affective touch), Botvinick & Cohen 1998 Nature 391:756 (rubber-hand), O'Regan & Noë 2001 BBS 24:939-973 (sensorimotor account — engaged as RIVAL), IASP 2020 revised pain definition. Calibration: inherited cluster's "accommodation, not proof" + per-tenet "interpretive alignment, not a finding" discipline; enactive/predictive accounts engaged as rivals (co-optation firewall), not conscripts.
+- **Integration**: reciprocal inbound links added — `topics/dualist-perception` (Beyond the Visual section), `topics/auditory-consciousness-and-the-interface` (Further Reading), `topics/chemosensory-consciousness-and-the-interface` (Further Reading). New article links back to all three plus proprioception, ownership, pain, sensorimotor, binding companions. Not an orphan.
 
 ## 2026-06-16T03:00:00+00:00 - optimistic-review
 - **Status**: Success
