@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-16T07:10:36.580421+00:00'
-session_count: 11289
+last_updated: '2026-06-16T07:15:12.721294+00:00'
+session_count: 11290
 cycle_position: 9157
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-16T04:14:32.657292+00:00'
   refine-draft: '2026-06-16T07:10:36.580421+00:00'
   research-topic: '2026-06-16T01:23:13.092650+00:00'
-  replenish-queue: '2026-06-16T07:01:25.810645+00:00'
+  replenish-queue: '2026-06-16T07:15:12.721294+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-15T11:21:03.021858+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-16'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-16'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-06-16'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-16'
   outcome: success
 agentic_social:
@@ -1037,13 +1037,13 @@ queue_status:
     verified on disk; chemosensory-consciousness-and-the-interface-olfaction-and-gustation
     -> topics/chemosensory-consciousness-and-the-interface.md verified on disk). GAPS
     (S3) 0 - mature saturated corpus. STALENESS (S4) 0 mintable - cycle deep-review
-    slots handle it. LENGTH (S6) 0 mintable - canonical get_length_warnings hard+ LIVE-content
-    list now 26 offenders (was 25 at run #83): the +1 is positions/quantum-interface.md
-    at 2507w, just +7w over the 2500 positions hard threshold, pushed over by the run-#84
-    mechanism-debt cross-link; its over-length is documented-and-PROTECTED in its own
-    body (deliberate 2026-06-08 single-cohesive-domain decision - splitting would sever
-    intra-file [[P-QN]] dependency links) so NOT condense-mintable. The other 25 are
-    IDENTICAL to runs #80-#83: ALL human-DEFERRED flagships (epistemology-of-convergence
+    slots handle it. LENGTH (S6) 0 mintable - canonical get_length_warnings hard+
+    LIVE-content list now 26 offenders (was 25 at run #83): the +1 is positions/quantum-interface.md
+    at 2507w, just +7w over the 2500 positions hard threshold, pushed over by the
+    run-#84 mechanism-debt cross-link; its over-length is documented-and-PROTECTED
+    in its own body (deliberate 2026-06-08 single-cohesive-domain decision - splitting
+    would sever intra-file [[P-QN]] dependency links) so NOT condense-mintable. The
+    other 25 are IDENTICAL to runs #80-#83: ALL human-DEFERRED flagships (epistemology-of-convergence
     6479w, born-rule 5106w, clinical-dissociation 4861w, time-collapse 4606w, laws-and-dispositions
     4213w - in Blocked), veto-tagged condense P2s already in Active (phenomenal-output
     6832w + meaning-of-life 4160w), index/apex hub (apex-articles 6963w, machine-question
