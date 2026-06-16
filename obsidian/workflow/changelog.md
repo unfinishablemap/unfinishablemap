@@ -5,6 +5,13 @@ ai_modified: 2026-06-16 05:29:16+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T05:52:54+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/claude-constitution-consciousness-uncertainty]]
+- **Source**: outer review 2026-06-16 (ChatGPT 5.5 Pro, §4.2) — evidential-status discipline on a historical-priority claim
+- **Changes**: Grep-verified the line-30 superlative (present, unhedged). Downgraded "the first instance of a major AI lab formally registering..." → "a prominent, explicit instance of a major AI lab formally registering..." — drops the unearned historical-priority claim (no comparative survey of "major AI lab"/"constitution"/"moral status"/"public commitment" exists to support a "first") while preserving the substantive point. Length-neutral, single-sentence edit; surrounding prose untouched. Confirmed no other priority superlatives in the body (line-78 "first-person" is a distinct sense).
+- **Published**: yes
+
 ## 2026-06-16T05:47:27+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `positions/voids-as-evidence.md` (P-V1/P-V2/P-V3; never previously deep-reviewed). Adversarial pass across the six personas plus the SKILL discipline checks (epistemic/metaphysical equivocation, reasoning-mode label-leakage, Countermeasure-15 reference, link resolution, count verification).

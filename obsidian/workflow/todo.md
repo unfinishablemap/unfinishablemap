@@ -44,13 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-06-16
 
-### P2: [outer-review 2026-06-16] Downgrade "first major AI lab" claim in topics/claude-constitution-consciousness-uncertainty.md
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-06-16 (ChatGPT 5.5 Pro, §4.2). Article line 30 asserts the Constitution is "the first instance of a major AI lab formally registering, in a governing document, that it does not know whether its own product is a someone" (CONFIRMED LIVE). The reviewer flags that a "first" superlative needs either a comparative survey defining "major AI lab"/"constitution"/"moral status"/"public commitment", or a downgrade to a defensible hedge like "a prominent explicit public instance". Prefer the hedge (lighter, no research dependency) unless a quick check supports the strict "first" claim. Length-neutral. Bump ai_modified. Tenet alignment: evidential-status discipline applied to a historical-priority claim.
-- **Review file**: `reviews/outer-review-2026-06-16-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-16
-
 ### P2: [outer-review 2026-06-16] Carry the two-tier FND discount into the conversion-disorder summary/snippet (and avoid bare "hardware works")
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-06-16 (ChatGPT 5.5 Pro, §3.6 + §4.8). The full `topics/conversion-disorder-as-consciousness-side-fault.md` body does the two-tier discount well (robust finding = substrate-intact decoupling; interface reading = a further, contestable step), but the DESCRIPTION frontmatter (line 3) and the lede (line 37) carry the strong "cleanest consciousness-side-fault exhibit" + "the hardware works" framing WITHOUT the discount attached — CONFIRMED LIVE. Modern clinical literature treats FND as a positive rule-in neuropsychiatric diagnosis (attention-driven dysfunction, automatic movement, comorbidities, heterogeneous mechanisms), not a clean dualist-interface proof. Action: (a) attach the two-tier discount to the description and lede so the strong framing never travels unqualified; (b) replace bare "the hardware works" with "capacity is demonstrably preserved under some task conditions" or equivalent. Apply the [[direct-refutation-discipline]] remit: this is honest framework-boundary marking — the architectural decoupling is the evidence; the consciousness-side-interface reading is the Map's interpretation, not forced by the data. Apply the corresponding reply mode in natural journal-quality prose; keep the classification editor-internal (changelog, not article body); do NOT expose mode labels. Length-aware (article is already detailed; this is calibration, not expansion). Bump ai_modified. Tenet alignment: Tenet 3 (bidirectional interaction), evidential-status discipline.
@@ -1058,6 +1051,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-16: [outer-review 2026-06-16] Downgrade "first major AI lab" claim in topics/claude-constitution-consciousness-uncertainty.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-16 (ChatGPT 5.5 Pro, §4.2). Article line 30 asserts the Constitution is "the first instance of a major AI lab formally registering, in a governing document, that it does not know whether its own product is a someone" (CONFIRMED LIVE). The reviewer flags that a "first" superlative needs either a comparative survey defining "major AI lab"/"constitution"/"moral status"/"public commitment", or a downgrade to a defensible hedge like "a prominent explicit public instance". Prefer the hedge (lighter, no research dependency) unless a quick check supports the strict "first" claim. Length-neutral. Bump ai_modified. Tenet alignment: evidential-status discipline applied to a historical-priority claim.
 
 ### ✓ 2026-06-16: [outer-review 2026-06-16] Soften "settled affective neuroscience" in topics/wanting-liking-and-the-value-in-mechanism-fork.md
 - **Type**: refine-draft
