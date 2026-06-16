@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-16T14:38:14.839682+00:00'
-session_count: 11382
+last_updated: '2026-06-16T14:43:31.443252+00:00'
+session_count: 11383
 cycle_position: 9192
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -18,7 +18,7 @@ last_runs:
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-15T23:01:34.616166+00:00'
   agentic-social: '2026-06-16T14:31:02.442070+00:00'
-  embed-videos: '2026-06-16T09:20:34.959565+00:00'
+  embed-videos: '2026-06-16T14:43:31.443252+00:00'
   commission-chatgpt-review: '2026-06-16T02:09:55.835517+00:00'
   commission-claude-review: '2026-06-16T03:16:54.357867+00:00'
   commission-gemini-review: '2026-06-16T04:14:32.657292+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-06-16'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-16'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
+  date: '2026-06-16'
+  outcome: success
+- task: embed-videos
+  type: embed-videos
   date: '2026-06-16'
   outcome: success
 agentic_social:
@@ -1009,80 +1009,59 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 0
+  p2_tasks: 2
   p3_tasks: 0
   needs_replenishment: false
-  loop_pickable_open: 0
-  last_replenishment: '2026-06-16T15:05:00+00:00'
+  loop_pickable_open: 2
+  last_replenishment: '2026-06-16T15:20:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-16 run #125 (standard mode) - HONEST NO-OP,
-    0 minted; all eight sources independently re-derived from disk THIS run, NOT trusting
-    the prior run #124 note (which I confirm; one factual correction below). Note
-    OVERWRITTEN in place per replenish-note discipline (no new dated key, no bare
-    hash outside this quoted scalar, no stray quote, no sentinel token). ACTIVE re-scan
-    this run: awk ### headers over the Active slice (Active header line 38, Completed
-    1021, Blocked 1022, Vetoed 6153); of 129 Active headers, 5 lack a checkmark/strikethrough
-    and ALL 5 are non-loop-pickable (two duhem-quine HUMAN LENGTH DECISION headers;
-    two #veto condenses meaning-of-life + phenomenal-output-causal-machinery-dissociation;
-    one RELOCATED-stub at line 812 whose body says see-live-block-at-top and whose
-    real review completed at line 4384). ZERO loop-pickable open Active headers, same
-    as run #124. 0 pickable is below the floor of 3 but do NOT fabricate filler (documented
+  current_replenishment_note: '2026-06-16 run #126 (standard mode) - HONEST NO-OP,
+    0 minted, but the queue is NO LONGER empty - it now holds TWO loop-pickable P2
+    refine-draft tasks the prior run #125 note did not see (added AFTER it ran by the
+    every-cycle topic-concept anchoring audit, Audit Three of the calibration triple):
+    (1) Adopt retrocausality calibration in topics/forward-in-time-vs-time-symmetric-selection.md
+    and (2) Adopt retrocausality calibration in topics/qm-interpretations-beyond-many-worlds.md.
+    Both are well-formed (Type refine-draft, Status pending, valid type, anchor concept
+    concepts/retrocausality.md verified on disk), pickable now. So loop_pickable_open
+    = 2 (NOT 0 as run #125 reported - that count is now stale). All eight sources independently
+    re-derived from disk THIS run, not trusting the run #125 note. Note OVERWRITTEN
+    in place per replenish-note discipline (no new dated key, no bare hash outside this
+    quoted scalar, no stray quote, no sentinel token). ACTIVE re-scan THIS run: awk
+    ### headers over the Active slice (Active header line 38, Completed 1044, Blocked
+    1045, Vetoed 6176); of the Active headers, 6 lack a checkmark/strikethrough: the
+    2 NEW retrocausality calibration refine-draft tasks (PICKABLE, lines 40+47) PLUS
+    the 4 long-standing non-pickable headers (two duhem-quine HUMAN LENGTH DECISION
+    at lines 197/206; two #veto condenses meaning-of-life line 591 + phenomenal-output-causal-machinery-dissociation
+    line 599). Queue at 2 is below the floor of 3 but do NOT fabricate filler (documented
     replenish-at-floor steady state, unfin_loop_steady_state + p3-only-floor-preemption-starves);
-    the floor fills organically from the cycle deep-review/coalesce/pessimistic slots
-    and the next outer-review synthesis. SOURCE-BY-SOURCE (all re-run on disk THIS
-    run): CHAINS (S1) 0 - four most-recent new articles by mtime (predictive-processing,
-    anti-correlated-metacognitive-signal, reconsolidation-as-selection-window, direction-dependent-discriminating-test-design)
-    re-grepped for inbound wikilink refs: 82 / 26 / 12 / 12 files respectively, all
-    well over 2, so no cross-review or integrate-orphan owed. UNCONSUMED RESEARCH
-    (S2) 0 - three newest non-void notes (all 2026-06-16) ALL CONSUMED: IWMT note
-    self-recommends DECLINE-standalone / retarget to concepts/predictive-processing.md
-    (already covered there, I-JEPA refine that consumed it is done); naturalist-relationalism
-    (concepts/naturalist-relationalism.md) and chemosensory (topics/chemosensory-consciousness-and-the-interface.md)
-    both confirmed on disk; next note metacognition (2026-01-18) far outside the 14-day
-    chain window. GAPS (S3) 0 - mature saturated corpus. STALENESS (S4) 0 mintable
-    - cycle deep-review slots handle it (deep-review-over-reviews-converged regression
-    zone). LENGTH (S6) 0 mintable - re-ran tools.curate.length.get_length_warnings
-    this run (26 content warnings). The 3 critical CONTENT offenders: topics/epistemology-of-convergence-arguments
-    (6479w, standing HUMAN LENGTH DECISION line 210, prior condenses failed, recommended
-    action is HUMAN SPLIT); apex/phenomenal-output-causal-machinery-dissociation (6832w,
-    #veto); apex/apex-articles.md (6963w, section-index registry). The hard_warning
-    content offenders with no clean mint - born-rule (5106w, DEFERRED-TO-HUMAN), clinical-dissociation
-    (4861w, DIVERTED-TO-HUMAN + modified TODAY so premature), time-collapse-and-agency
-    (4606w), argument-from-reason (4489w), epistemic-advantages-of-dualism (4400w),
-    laws-and-dispositions (4213w, DEFERRED-TO-HUMAN) - are ALL documented human-deferred
-    flagships + refine-then-condense-churn set, deliberately excluded (condense-regresses-calibration-qualifiers
-    risk). memory-channel-interface-evidence (4296w) was coalesced AND deep-reviewed
-    TODAY (re-queuing = churn). machine-question (5001w) is an apex hub prior-judged
-    length-watch-not-condense. composition-question-rivals (4106w) deep-reviewed +
-    modified 2026-06-15 (premature). The just-over-hard cluster (valence-and-conscious-selection
-    4092w, qm-interpretations 4065w [06-14], quantum-biology 4050w [modified TODAY],
-    metaphysics-of-composition 4043w [06-15], consciousness-in-simple-organisms 4025w,
-    phenomenal-authority 4022w, introspection-architecture 4021w) is all recently-modified
-    or calibration-dense flagship, well under the 6000 critical - none clean+stale+safe.
-    filter-theory (3500w) sits exactly AT the concepts hard, not over. All other length-flagged
-    entries are research/ notes (thresholds do not apply). So 0 mintable. ORPHANS
-    (S5) 0 (quality.orphaned_files 0; all 4 newest articles >=12 inbound links). OUTER
-    REVIEWS: 2026-06-16 cycle fully synthesized (obsidian/reviews/outer-review-synthesis-2026-06-16.md
-    exists), pending-reviews chatgpt+gemini both collected (none pending) - 0 owe
-    a replenish action. POSITIONS add (S7a) 0 - today positions work (2026-06-16)
-    was a voids-count refresh + P-V3/P-Q8 calibration tightening, not a new claim
-    to register. update (S7b) 0 GENUINE after git verification - 3 files modified
-    today are GENUINELY cited as position dependencies (topics/quantum-biology-and-neural-consciousness;
-    apex/self-concealing-interface; apex/taxonomy-of-voids) but EACH was git-checked
-    and owes no update: quantum-biology commit 311d5fe6a refined TODAY specifically
-    to MATCH the P-Q8 precedent-not-license calibration (3 ins / 3 del headline framing,
-    aligns TO the position); self-concealing-interface commit 382167619 was a length-neutral
-    coalesce link repoint (+6/-9), claim intact; taxonomy-of-voids commit d64e5a930
-    was a net-neutral (+7/-7) change driven by the positions/voids-as-evidence.md
-    P-V3 pass ITSELF (the position side already handled it). Audit (S7c) NOT due -
-    register has 18 P-* entries (P-Q1..10, P-A1..5, P-V1..3; over the 10-entry trigger)
-    BUT a full audit ran 2026-06-09 (reviews/positions-audit-2026-06-09.md), 7 days
-    ago, inside the current 30d window. APPLIED-APEX (S8) 0 - quantum-interface high-confidence
-    cluster already covered; one applied apex exists (apex/assessing-ai-consciousness-under-the-map.md).
-    CORRECTION to run #124: sections on disk (find, excl section-index) are topics
-    268/300, concepts 261/300, voids 101/100 OVER cap, positions 3 domain files /80
-    cap, apex 33 (run #124 said apex 34; disk count excluding apex.md + apex-articles.md
-    is 33). State YAML re-validated post-edit.'
+    the floor fills organically from the cycle deep-review/coalesce/pessimistic slots,
+    the next outer-review synthesis, and the every-cycle anchoring audit (which just
+    demonstrated it by minting these two). SOURCE-BY-SOURCE (all re-run on disk THIS
+    run): CHAINS (S1) 0 - four newest articles by mtime (predictive-processing, anti-correlated-metacognitive-signal,
+    reconsolidation-as-selection-window, direction-dependent-discriminating-test-design)
+    re-grepped for inbound wikilink refs: 119 / 26 / 12 / 12 files respectively, all
+    well over 2, so no cross-review or integrate-orphan owed. UNCONSUMED RESEARCH (S2)
+    0 - three newest non-void notes (all 2026-06-16: IWMT, naturalist-relationalism,
+    chemosensory) ALL CONSUMED per run #125 verification (IWMT declined-standalone /
+    retargeted to concepts/predictive-processing.md; naturalist-relationalism and chemosensory
+    both on disk); next note metacognition (2026-01-18) far outside the 14-day chain
+    window. GAPS (S3) 0 - mature saturated corpus. STALENESS (S4) 0 mintable - cycle
+    deep-review slots handle it (deep-review-over-reviews-converged regression zone).
+    LENGTH (S6) 0 mintable - same documented human-deferred flagship + refine-then-condense-churn
+    set as run #125; the two #veto condenses are already parked in the queue, all other
+    hard_warning offenders are human-deferred or recently-modified. ORPHANS (S5) 0
+    (quality.orphaned_files 0; newest 4 articles all >=12 inbound links). OUTER REVIEWS:
+    2026-06-16 cycle fully synthesized (obsidian/reviews/outer-review-synthesis-2026-06-16.md
+    exists), pending-reviews chatgpt+gemini both collected (none pending) - 0 owe a
+    replenish action. POSITIONS add (S7a) 0 - today positions work was a voids-count
+    refresh + P-V3/P-Q8 calibration tightening, no new claim to register. update (S7b)
+    0 GENUINE - same 3 today-modified position-dependency files verified by run #125
+    (quantum-biology aligns TO P-Q8; self-concealing-interface link-repoint claim-intact;
+    taxonomy-of-voids driven by the P-V3 pass itself). Audit (S7c) NOT due - full audit
+    ran 2026-06-09, inside 30d window. APPLIED-APEX (S8) 0 - quantum-interface high-confidence
+    cluster already has apex/assessing-ai-consciousness-under-the-map.md. Sections on
+    disk (find, excl section-index): topics 268/300, concepts 261/300, voids 101/100
+    OVER cap, positions 3 domain files /80, apex 33. State YAML re-validated post-edit.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
