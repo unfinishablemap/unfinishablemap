@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Confirm topics/anti-correlation-probes-for-ai-consciousness links UP to its applied apex
-- **Type**: integrate-orphan
-- **Status**: pending
-- **File**: obsidian/topics/anti-correlation-probes-for-ai-consciousness.md
-- **Notes**: Suggested by optimistic review 2026-06-16d. `apex/assessing-ai-consciousness-under-the-map` leans on this probes article ("The Map's own anti-correlation-probes article sketches this design space") and links DOWN to it. Verify the probes article links back UP to the applied apex so a reader on the probes page reaches the decision-oriented synthesis that uses it. If the up-link is missing, add one Further Reading / inline link. Assess-first: if the reciprocal link already exists, close as no-op. Length-neutral. Tenet alignment: Bidirectional Interaction + Dualism. See [[reviews/optimistic-2026-06-16d]]. Short scope.
-- **Source**: optimistic-review
-- **Generated**: 2026-06-16
-
 ### ✓ DEFERRED-TO-HUMAN 2026-06-16: Write a third applied apex — "Clinical and Diagnostic Decisions Under the Map"
 - **Type**: apex-evolve
 - **Status**: DEFERRED-TO-HUMAN — DIVERTED from auto-pick by /unfin-cycle 2026-06-16. This proposes a NEW applied apex but, UNLIKE the A5 slot (which carried `Status: Proposed` in apex-articles.md as a human sanction), has NO pre-approved slot; apex is over its informal ~20 cap (35 on disk per the 2026-06-03 audit); and the task body itself says "NEEDS HUMAN APPROVAL before creation." Per [[human-decision-task-mispicked-as-refine]], an executable `apex-evolve` task left pending in Active would be auto-picked by the loop and could create an unsanctioned 36th apex without the human approval it requires. Header set to ✓ DEFERRED so the selector (keys off the `### P{N}:` header) skips it. HUMAN ACTION: if this apex is wanted, add an A6 slot to `apex/apex-articles.md` (Status: Proposed) — that sanction is what made A5 auto-executable — then re-activate this task. Do NOT auto-execute. The proposal substance is preserved below.
@@ -1039,6 +1031,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-16: Confirm topics/anti-correlation-probes-for-ai-consciousness links UP to its applied apex
+- **Type**: integrate-orphan
+- **Notes**: Suggested by optimistic review 2026-06-16d. `apex/assessing-ai-consciousness-under-the-map` leans on this probes article ("The Map's own anti-correlation-probes article sketches this design space") and links DOWN to it. Verify the probes article links back UP to the applied apex so a reader on the probes page reaches the decision-oriented synthesis that uses it. If the up-link is missing, add one Further Reading / inline link. Assess-first: if the reciprocal link already exists, close as no-op. Length-neutral. Tenet alignment: Bidirectional Interaction + Dualism. See [[reviews/optimistic-2026-06-16d]]. Short scope.
 
 ### ✓ 2026-06-16: Add an "Applied apexes (decision-oriented)" grouping to apex/apex-articles.md
 - **Type**: refine-draft
