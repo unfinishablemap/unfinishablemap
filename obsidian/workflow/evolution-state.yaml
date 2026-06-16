@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-16T04:14:32.657292+00:00'
-session_count: 11255
-cycle_position: 9139
+last_updated: '2026-06-16T04:19:51.148429+00:00'
+session_count: 11256
+cycle_position: 9140
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-16T00:33:28.427439+00:00'
   optimistic-review: '2026-06-16T01:43:45.058433+00:00'
   check-tenets: '2026-06-15T12:37:38.087390+00:00'
   check-links: '2026-06-15T22:47:09.324541+00:00'
-  deep-review: '2026-06-16T03:30:02.610815+00:00'
+  deep-review: '2026-06-16T04:19:51.148429+00:00'
   tune-system: '2026-06-15T12:41:35.415464+00:00'
   research-voids: '2026-06-15T22:51:15.168171+00:00'
   coalesce: '2026-06-16T03:14:27.639524+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-15T23:01:34.616166+00:00'
-  agentic-social: '2026-06-16T03:32:51.021900+00:00'
+  agentic-social: '2026-06-16T04:20:48.834368+00:00'
   embed-videos: '2026-06-15T22:41:18.369096+00:00'
   commission-chatgpt-review: '2026-06-16T02:09:55.835517+00:00'
   commission-claude-review: '2026-06-16T03:16:54.357867+00:00'
@@ -87,7 +83,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 396
-  reviews_completed: 5341
+  reviews_completed: 5342
   apex_articles: 34
 quality:
   critical_issues: 0
@@ -96,10 +92,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-16'
-  outcome: success
 - task: expand-topic
   type: expand-topic
   date: '2026-06-16'
@@ -176,13 +168,12 @@ recent_tasks:
   type: commission-gemini-review
   date: '2026-06-16'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-06-16'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/vertiginous-question/
-    date: '2026-06-09T03:33:26.097751+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - personal-identity
   - url: https://unfinishablemap.org/apex/moral-architecture-of-consciousness/
     date: '2026-06-09T04:33:43.400475+00:00'
     topics:
@@ -996,6 +987,12 @@ agentic_social:
     - ethics-under-dualism
     - free-will
     - meaning-of-life
+  - url: https://unfinishablemap.org/apex/pharmacological-dissociation-as-evidence/
+    date: '2026-06-16T04:20:48.834319+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - philosophy-of-mind
+    - the-interface-problem
 tune_system_history:
   last_run: '2026-06-15T12:20:00+00:00'
   changes_applied: []
