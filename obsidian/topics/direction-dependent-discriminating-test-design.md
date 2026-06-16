@@ -4,7 +4,7 @@ description: "A human+AI design for a reversible-perturbation experiment whose c
 created: 2026-06-03
 modified: 2026-06-03
 human_modified:
-ai_modified: 2026-06-13T00:00:00+00:00
+ai_modified: 2026-06-16T12:15:19+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -89,6 +89,7 @@ The design engages two tenets at the methodology layer, framed honestly as a pro
 
 - [[memory-channel-interface-evidence]] — The source article that names this discriminator as future work; the observational cases this design would replace with a controlled probe
 - [[direction-of-interface-change]] — The concept home for the four-member signature family, with the non-independence caution this design inherits
+- [[reconsolidation-as-selection-window]] — The naturally-occurring memory-domain lability window this design's reversible reopening-phase ramp serves as a controlled analogue of
 - [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] — The companion substrate-state discriminator; the static counterpart to this direction-dependent design
 - [[falsification-roadmap-for-the-interface-model]] — The falsification programme this design is one entry in
 - [[anaesthesia-and-the-consciousness-interface]] — Neural inertia and hysteresis, the macroscopic version of the per-channel hysteresis the design resolves

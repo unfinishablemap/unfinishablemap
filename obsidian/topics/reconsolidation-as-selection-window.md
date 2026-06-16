@@ -4,7 +4,7 @@ description: "Memory reconsolidation reopens a stored trace to revision each tim
 created: 2026-06-03
 modified: 2026-06-03
 human_modified:
-ai_modified: 2026-06-03T12:40:00+00:00
+ai_modified: 2026-06-16T12:15:19+00:00
 draft: false
 topics:
   - "[[consciousness-and-memory]]"
@@ -102,6 +102,7 @@ None of these has been shown, and the contrary—residual, hard-to-predict varia
 - [[forward-in-time-conscious-selection]] — the mechanism by which selection within an open window could operate after decoherence.
 - [[personal-identity]] — the perpetually-rewriting self and indexical identity.
 - [[memory-channel-interface-evidence]] — a sibling Tenet-3 exhibit drawn from direction-asymmetric channel recovery and the Tulving bandwidth hierarchy as a vulnerability-ordered exhibit.
+- [[direction-dependent-discriminating-test-design]] — the engineered, controlled analogue of this naturally-occurring lability window: a reversible perturbation whose reopening-phase ramp is the methodological counterpart to retrieval's reconsolidation window.
 - [[episodic-memory]] — the dual-domain framework for autonoetic recall.
 
 ## References

@@ -5,6 +5,17 @@ ai_modified: 2026-06-16 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T12:15:19+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/discrimination-problem]]
+- **Source**: optimistic-review [[reviews/optimistic-2026-06-16c]] (discriminating-test design cluster)
+- **Changes**:
+  - PRIMARY (mechanical, length-neutral): added a one-clause pointer in the line-86 "Production-vs-filter" bullet so the concept page now reaches *both* worked discrimination-engineering instances — the existing targeted-lesion (substrate-state) companion AND the previously-absent [[topics/direction-dependent-discriminating-test-design]] (direction-of-travel / dynamic counterpart). Verified absent at review time (grep=0). Did NOT re-add the targeted-lesion link or restructure the paragraph.
+  - SECONDARY (assessed, accepted): added a reciprocal Further-Reading link between [[topics/reconsolidation-as-selection-window]] and [[topics/direction-dependent-discriminating-test-design]] (both directions; grep=0 each way before edit). Judged genuinely navigational, not gratuitous: reconsolidation is the naturally-occurring memory-domain lability window (retrieval-triggered, prediction-error-gated); the direction-dependent design's reversible reopening-phase ramp is the engineered controlled analogue of exactly that window. Both sit in the Tenet-3 memory cluster and already share [[memory-channel-interface-evidence]]; the link connects the venue (where directional input could enter) to the methodology (how to test for it).
+- **ai_modified bumped**: discrimination-problem.md, direction-dependent-discriminating-test-design.md, reconsolidation-as-selection-window.md
+- **Tenet alignment**: Tenet 5 (Occam's Razor Has Limits) — discrimination-engineering as the anti-premature-closure discipline; cross-links make both worked instances reachable from the concept hub.
+- **Published**: yes
+
 ## 2026-06-16T12:00:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: the discriminating-test / experimental-design methodology cluster (targeted-lesion substrate-state design, direction-dependent design, reconsolidation-as-selection-window venue piece, + discrimination-problem concept) — third optimistic pass of 2026-06-16, deliberately non-overlapping with the day's perception/interface (first) and mental-causation/^mechanism-debt (second `b`) passes. Hardline Empiricist verdict load-bearing and strongly favourable: cluster is a sustained demonstration of tenet-as-evidence-upgrade praise-worthily NOT done (cross-channel-ordering read-out chosen to defeat the Proekt-Hudson stochastic-bistable cheap win; constrain-not-establish stated in every article; common-cause null respected against over-counting; both outcome branches made costly to the Map). Process Philosopher and Hardline Empiricist CONVERGE on reconsolidation rather than conflict. No new concept pages warranted (gap is hub/indexing-level, not missing-page). Added 1 verified P3 (discrimination-problem → direction-dependent cross-link; targeted-lesion half already present at line 86, grep-confirmed).
