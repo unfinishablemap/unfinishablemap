@@ -5,6 +5,18 @@ ai_modified: 2026-06-16 05:29:16+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T06:18:43+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/claude-constitution-consciousness-uncertainty]]
+- **Word count**: 1893 → 2034 (+141)
+- **Critical issues addressed**: 0 (article clean; second review, converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (grounded the precaution-under-uncertainty thesis in Jonathan Birch's *The Edge of Sentience* (2024) + "sentience candidate" reframing; strengthens "convergent on method" by showing the convergence is cross-framework, not shared metaphysics — Birch reaches it empirically, with no dualist commitments)
+- **Web-verify**: re-verified all load-bearing facts at publisher of record — Constitution welfare clause (real-correct, verbatim), 15–20% self-estimate correctly sourced to the **Opus 4.6 system card** (real-correct; model ID cross-checked against the canonical Claude catalog), Oxford Institute blog + anthropomorphisation quote (real-correct), Birch 2024 (real-correct, OUP open access). No fabrications, no orphans, no superlative-currency claims.
+- **Engagement classification (editor-internal)**: institutional document, not a named opponent. Implicit functionalism → Mode Two (unsupported foundational move); closes Mode Three (framework-boundary marking) with explicit boundary-substitution guard. No mode labels in body; no editor-vocabulary leaked (grep-verified).
+- **Calibration**: PASS — possibility/probability handling unchanged and correct (self-estimate "non-diagnostic", gap "not evidence either way"); the added Birch material grounds the method, not the verdict.
+- **Output**: [[reviews/deep-review-2026-06-16-claude-constitution-consciousness-uncertainty]]
+
 ## 2026-06-16T06:03:13+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/conversion-disorder-as-consciousness-side-fault]]
