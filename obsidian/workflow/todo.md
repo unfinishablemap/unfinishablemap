@@ -37,6 +37,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Adopt retrocausality calibration in forward-in-time-vs-time-symmetric-selection
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/forward-in-time-vs-time-symmetric-selection.md
+- **Notes**: From topic-concept anchoring audit 2026-06-16. The topic article over-claims relative to its anchor concept [[retrocausality]]; failed checks: hedge_density, underdetermination_markers.
+  - hedge density 0.73/kw is below 2.15/kw (target = 60% of anchor 3.59/kw, capped at 3.0/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-16
+
+### P2: Adopt retrocausality calibration in qm-interpretations-beyond-many-worlds
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/qm-interpretations-beyond-many-worlds.md
+- **Notes**: From topic-concept anchoring audit 2026-06-16. The topic article over-claims relative to its anchor concept [[retrocausality]]; failed checks: hedge_density, underdetermination_markers.
+  - hedge density 1.97/kw is below 2.15/kw (target = 60% of anchor 3.59/kw, capped at 3.0/kw)
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
+- **Generated**: 2026-06-16
+
+
 ### ✓ P3: Deep-review the coalesced topics/memory-channel-interface-evidence.md (verify merge + assess over-length)
 - **Status**: done 2026-06-16 — CONFIRMING verdict. Both faces survived intact (vulnerability hierarchy + recovery-order asymmetry); all calibration hedges preserved; the three 2026-06-05 citation-metadata fixes survived the merge (Carrasco sweep confirmed complete, 0 live); merge even RESOLVED a latent "reverse order"→"direction-dependent order" tension. Length: ACCEPT AS SURVEY (4296w hard_warning, under critical; coalesce already 36% reduced with proper case de-dup). No critical/medium issues; verification-only pass. See [[reviews/deep-review-2026-06-16-memory-channel-interface-evidence]].
 - **Type**: deep-review
