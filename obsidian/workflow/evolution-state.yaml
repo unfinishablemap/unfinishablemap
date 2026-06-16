@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-16T00:16:33.840980+00:00'
-session_count: 11216
-cycle_position: 9124
+last_updated: '2026-06-16T00:23:49.004286+00:00'
+session_count: 11217
+cycle_position: 9125
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-15T18:52:00.559301+00:00'
@@ -23,7 +23,7 @@ last_runs:
   commission-claude-review: '2026-06-14T03:03:19.686229+00:00'
   commission-gemini-review: '2026-06-14T04:07:15.493292+00:00'
   refine-draft: '2026-06-15T23:08:02.841151+00:00'
-  research-topic: '2026-06-03T13:15:16.844935+00:00'
+  research-topic: '2026-06-16T00:23:49.004286+00:00'
   replenish-queue: '2026-06-16T00:16:33.840980+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-14T18:33:07.498286+00:00'
@@ -86,7 +86,7 @@ progress:
   questions_written: 0
   voids_written: 101
   positions_written: 3
-  research_notes: 394
+  research_notes: 395
   reviews_completed: 5335
   apex_articles: 34
 quality:
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-06-15'
-  outcome: success
 - task: check-links
   type: check-links
   date: '2026-06-15'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-16'
+  outcome: success
+- task: research-topic
+  type: research-topic
   date: '2026-06-16'
   outcome: success
 agentic_social:
@@ -1001,9 +1001,38 @@ queue_status:
   p3_tasks: 1
   needs_replenishment: false
   loop_pickable_open: 1
-  last_replenishment: '2026-06-16T00:20:00+00:00'
+  last_replenishment: '2026-06-16T00:40:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-16 run #61 (standard mode) - HONEST NO-OP,
+  current_replenishment_note: '2026-06-16 run #62 (standard mode) - MINTED 1 task (the
+    research->expand-topic chain). Note OVERWRITTEN in place per replenish-note-bare-hash-breaks-yaml
+    (no new dated key, no bare hash, no stray quote, no sentinel token). KEY CHANGE
+    since #61: the research-topic for chemosensory consciousness COMPLETED at 00:23
+    UTC (commit 3476b71d1), producing obsidian/research/chemosensory-consciousness-and-the-interface-olfaction-and-gustation-2026-06-16.md
+    AND consuming the previously-pickable P2 research task (now marked done at todo.md
+    line 1026). So loop-pickable-open P0-P2 dropped to 0, below MIN_QUEUE floor 3.
+    The fresh research note is UNCONSUMED (S2, the highest-priority +60 source) and
+    carries an explicit Assess-First Verdict WRITE recommending slug topics/chemosensory-consciousness-and-the-interface.md.
+    Dedupe CLEAN: no live (obsidian) or archived chemosensory/olfaction/gustation article
+    anywhere, no redirect-source slug collision (check_slug + archive grep clean), no
+    veto, no open expand-topic. CAP: topics 267/300 headroom confirmed. The 2026-06-14
+    completed expand-topic "Write chemosensory-qualia article - CHECK CAP FIRST" was
+    the PRE-research placeholder that itself asked for a research note to precede; the
+    article was never written, so this is the genuine chain step now that the prerequisite
+    research exists. Minted ONE P2 expand-topic at TOP of Active Tasks (above the P3
+    relationalism research) to restore the floor and prioritise the chain consumption;
+    a single high-confidence add. SOURCE-BY-SOURCE (re-run on disk): CHAINS/UNCONSUMED-RESEARCH
+    (S1/S2) = the chemosensory note (minted). GAPS (S3) 0 - mature saturated corpus.
+    STALENESS (S4) 0 mintable - cycle deep-review slots handle it; no genuine changed-since-review
+    new factual content. LENGTH (S6) 0 mintable - all 22 hard+ offenders are human-DIVERTED/DEFERRED
+    calibration flagships, veto-tagged condense (meaning-of-life 4160w, phenomenal-output
+    6989w already queued), index/governance hubs (apex-articles), or recently-deep-reviewed
+    at accepted length; condensing any re-litigates an accepted verdict. ORPHANS (S5)
+    0 (quality.orphaned_files 0). OUTER REVIEWS 0 pending. POSITIONS add (S7a) 0 / update
+    (S7b) 0 / audit (S7c) not due (positions-audit-2026-06-09 within 30d). APPLIED-APEX
+    (S8) 0. The relationalism P3 research task stays open - it is a research task awaiting
+    its own run, not unconsumed-research-with-a-note, so no expand chain there yet.
+    voids 101/100 OVER cap (no void mints). State YAML re-validated post-edit. PRIOR
+    NOTE (run #61) follows for context: 2026-06-16 run #61 (standard mode) - HONEST NO-OP,
     0 minted. Note OVERWRITTEN in place per replenish-note-bare-hash-breaks-yaml (no
     new dated key, no bare hash, no stray quote, no sentinel token). KEY CHANGE since
     #60: harvest-research-subjects ran at 00:07 UTC (commit 83aaa0eec) and minted
@@ -1046,19 +1075,19 @@ queue_status:
     YAML re-validated post-edit.'
   replenishment_source_counts_last_run:
     applied_apex: 0
-    chain: 0
+    chain: 1
     gap_analysis: 0
     length_analysis: 0
     orphan_integration: 0
     positions: 0
     staleness: 0
-    unconsumed_research: 0
+    unconsumed_research: 1
   replenishment_source_counts:
     applied_apex: 0
-    chain: 0
+    chain: 1
     gap_analysis: 0
     length_analysis: 0
     orphan_integration: 0
     positions: 0
     staleness: 0
-    unconsumed_research: 0
+    unconsumed_research: 1
