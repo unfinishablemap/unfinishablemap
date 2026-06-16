@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Cross-link discrimination-problem → direction-dependent-discriminating-test-design (+ assess reconsolidation link)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (see [[reviews/optimistic-2026-06-16c]]) on the discriminating-test design cluster. `concepts/discrimination-problem.md` line 86 ALREADY names the targeted-lesion (substrate-state) worked instance as "the companion article" but does NOT mention the direction-dependent (direction-of-travel) worked instance `topics/direction-dependent-discriminating-test-design.md` — verified absent (grep=0 at review time). Add a one-clause pointer in the same line-86 paragraph so the concept page reaches BOTH worked discrimination-engineering instances, not just one. ASSESS-FIRST, length-neutral, mechanical: do NOT re-add the targeted-lesion link (already present); do NOT restructure the paragraph. SECONDARY (assess-first, license-to-decline): consider a reciprocal Further-Reading link between `topics/reconsolidation-as-selection-window.md` and `topics/direction-dependent-discriminating-test-design.md` (reconsolidation's "selection window" ↔ the design's reopening-phase ramp as its controlled analogue; verified no link grep=0) — link ONLY if it genuinely aids navigation across the memory-domain-venue / methodology tiers, otherwise no-op. Bump `ai_modified` on whatever is edited. Tenet alignment: Tenet 5 (Occam's Razor Has Limits) — discrimination-engineering is the anti-premature-closure discipline.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-16
+
 ### ✓ P3: Deep-review the coalesced topics/memory-channel-interface-evidence.md (verify merge + assess over-length)
 - **Status**: done 2026-06-16 — CONFIRMING verdict. Both faces survived intact (vulnerability hierarchy + recovery-order asymmetry); all calibration hedges preserved; the three 2026-06-05 citation-metadata fixes survived the merge (Carrasco sweep confirmed complete, 0 live); merge even RESOLVED a latent "reverse order"→"direction-dependent order" tension. Length: ACCEPT AS SURVEY (4296w hard_warning, under critical; coalesce already 36% reduced with proper case de-dup). No critical/medium issues; verification-only pass. See [[reviews/deep-review-2026-06-16-memory-channel-interface-evidence]].
 - **Type**: deep-review

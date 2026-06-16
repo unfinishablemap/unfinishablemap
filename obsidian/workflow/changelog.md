@@ -5,6 +5,11 @@ ai_modified: 2026-06-16 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T12:00:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the discriminating-test / experimental-design methodology cluster (targeted-lesion substrate-state design, direction-dependent design, reconsolidation-as-selection-window venue piece, + discrimination-problem concept) — third optimistic pass of 2026-06-16, deliberately non-overlapping with the day's perception/interface (first) and mental-causation/^mechanism-debt (second `b`) passes. Hardline Empiricist verdict load-bearing and strongly favourable: cluster is a sustained demonstration of tenet-as-evidence-upgrade praise-worthily NOT done (cross-channel-ordering read-out chosen to defeat the Proekt-Hudson stochastic-bistable cheap win; constrain-not-establish stated in every article; common-cause null respected against over-counting; both outcome branches made costly to the Map). Process Philosopher and Hardline Empiricist CONVERGE on reconsolidation rather than conflict. No new concept pages warranted (gap is hub/indexing-level, not missing-page). Added 1 verified P3 (discrimination-problem → direction-dependent cross-link; targeted-lesion half already present at line 86, grep-confirmed).
+- **Output**: [[reviews/optimistic-2026-06-16c]]
+
 ## 2026-06-16T11:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/coupling-modes]]
