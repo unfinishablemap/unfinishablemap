@@ -1,6 +1,6 @@
 ---
 name: harvest-research-subjects
-description: Mine outer/optimistic reviews for uncovered subjects and mint research-topic tasks. Wall-clock trigger, daily.
+description: Mine outer/optimistic reviews for uncovered subjects and mint research-topic tasks. Wall-clock trigger, every 6h.
 ---
 
 # Harvest Research Subjects
@@ -25,9 +25,11 @@ game again when an external reviewer re-raises it as a genuine gap.
 
 ## When to Use
 
-- Automatic: wall-clock trigger, daily (`tools/evolution/time_trigger.py:check_harvest_research`).
-  Daily, not cycle-based, because cycle cadence stretches to ~29h of uptime and
-  drifts (see [[check-model-fallback]]'s same migration).
+- Automatic: wall-clock trigger, every 6h (`tools/evolution/time_trigger.py:check_harvest_research`).
+  Interval-based (not cycle-based) because cycle cadence stretches to ~29h of
+  uptime and drifts; 6h (not daily) spreads the yield-limited minting across the
+  day so the research queue stays fed instead of bursting once at ~00:00 and
+  leaving queue slots to skip for 22h.
 - Manual: `/harvest-research-subjects` to top up the research queue on demand.
 
 ## Instructions
@@ -106,7 +108,9 @@ task the loop will pick from the queue.
 - Dedupe is against ARTICLES + RESEARCH NOTES + prior mints, never the Vetoed
   bank — re-suppressing parked ideas would reinstate the stall this fixes.
 - Only `topics`/`concepts` targets; the script rejects anything else.
-- Per-run mint cap bounds queue growth; daily cadence keeps research flowing
-  without flooding. Minted tasks chain research-topic → expand-topic → the new
-  article lands in a section with cap headroom (caps raised to 300/300).
+- Per-run mint cap bounds queue growth; 6h cadence spreads the yield-limited
+  mint across the day without flooding. Minted tasks chain research-topic →
+  expand-topic → the new article lands in a section with cap headroom (caps
+  raised to 300/300). Total minting is bounded by subject yield + cap headroom,
+  not cadence — so a faster cadence spreads, it does not multiply.
 - If `--list-unscanned` is empty, exit cleanly — not an error.

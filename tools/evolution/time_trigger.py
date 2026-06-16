@@ -17,7 +17,7 @@ failure cooldown, login backoff.
 from __future__ import annotations
 
 from dataclasses import dataclass
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import Callable
 
 # Mirror evolve_loop.py constants.
@@ -31,6 +31,14 @@ AUTOMATION_LAST_START_HOUR_UTC = 7
 # legs), so "every cycle" stretched to ~29h of uptime — too slow when a
 # session-level Fable→Opus stick can run for days (confirmed 2026-06-10/11).
 MODEL_FALLBACK_INTERVAL_HOURS = 4
+# Harvest runs on an interval, not once-daily: a single daily run bursts its
+# whole mint at ~00:00, the research→expand chain drains it by ~02:00, then the
+# queue sits empty and ~2/3 of queue slots skip-queue-slot for 22h (observed
+# 2026-06-16). Spreading the same yield-limited throughput across 4 runs/day
+# keeps the research queue fed through the day. Total minting is bounded by
+# subject yield + section-cap headroom, not by cadence, so this spreads rather
+# than floods.
+HARVEST_RESEARCH_INTERVAL_HOURS = 6
 
 
 @dataclass
@@ -127,16 +135,20 @@ def check_add_highlight_tweet(now: datetime, state) -> TriggerDecision | None:
 
 
 def check_harvest_research(now: datetime, state) -> TriggerDecision | None:
-    """Once per day. Mines outer/optimistic reviews for new research-topic subjects.
+    """Every HARVEST_RESEARCH_INTERVAL_HOURS. Mines outer/optimistic reviews for subjects.
 
     Wall-clock (not cycle-based) for the same reason as check-model-fallback:
     cycle cadence stretches to ~29h of uptime and drifts. No Chrome, no
     automation-window gating — pure local review-corpus scan. The skill is a
-    cheap no-op when there are no unscanned mine-reviews.
+    cheap no-op when there are no unscanned mine-reviews, so an early firing
+    costs almost nothing; the interval just spreads minting across the day.
     """
     last_run = state.last_runs.get("harvest-research-subjects")
-    if last_run is not None and last_run.date() == now.date():
-        return None
+    if last_run is not None:
+        if last_run.tzinfo is None:
+            last_run = last_run.replace(tzinfo=timezone.utc)
+        if (now - last_run).total_seconds() / 3600 < HARVEST_RESEARCH_INTERVAL_HOURS:
+            return None
     return TriggerDecision(kind="trigger", skill="harvest-research-subjects")
 
 
