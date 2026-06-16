@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-16 07:04:52+00:00
+ai_modified: 2026-06-16 07:27:38+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-16T07:27:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/conversion-disorder-as-consciousness-side-fault]]
+- **Word count**: 3093 → 3093 (no change — converged, no-op pass at 103% of soft threshold, length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Third deep-review pass (convergence-damping, score 14). Only change since the 2026-06-05 review was the 2026-06-16 refine pass front-loading the two-tier discount into the lead (no new cites/claims). Calibration/possibility-probability-slippage check PASSED — the refine pass strengthened the discipline. Citations stable since the 2026-06-05 publisher-of-record audit (Pick→Campbell fix); §2.4 prose-only edit did not re-trigger a full re-audit. All 16 wikilinks resolve incl. both anchored body links. No superlative claims (currency sweep skipped). Engagements: sophisticated-functionalist/intra-cerebral = Mode Three (honest boundary-marking, bedrock, not re-flagged); epiphenomenalist = Mode Three. No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-16-conversion-disorder-as-consciousness-side-fault]]
 
 ## 2026-06-16T07:04:52+00:00 - refine-draft
 - **Status**: Success
