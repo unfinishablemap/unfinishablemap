@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-16T11:06:23.684223+00:00'
-session_count: 11338
-cycle_position: 9176
+last_updated: '2026-06-16T11:12:03.384502+00:00'
+session_count: 11339
+cycle_position: 9177
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-16T10:41:57.167469+00:00'
   optimistic-review: '2026-06-16T06:48:31.838762+00:00'
   check-tenets: '2026-06-16T05:12:41.533946+00:00'
   check-links: '2026-06-16T09:27:52.020333+00:00'
-  deep-review: '2026-06-16T10:06:55.052536+00:00'
+  deep-review: '2026-06-16T11:12:03.384502+00:00'
   tune-system: '2026-06-15T12:41:35.415464+00:00'
   research-voids: '2026-06-16T09:30:32.356070+00:00'
   coalesce: '2026-06-16T08:01:44.235542+00:00'
@@ -87,7 +87,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 396
-  reviews_completed: 5353
+  reviews_completed: 5354
   apex_articles: 34
 quality:
   critical_issues: 0
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-voids
-  type: research-voids
-  date: '2026-06-16'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-16'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-16'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-16'
   outcome: success
 agentic_social:
@@ -1019,47 +1019,47 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 0
-  last_replenishment: '2026-06-16T11:15:00+00:00'
+  last_replenishment: '2026-06-16T11:20:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-16 run #104 (standard mode) - HONEST NO-OP,
+  current_replenishment_note: '2026-06-16 run #105 (standard mode) - HONEST NO-OP,
     0 minted; every source independently re-derived from disk THIS run, NOT trusting
-    the prior run note. Note OVERWRITTEN in place per replenish-note-bare-hash discipline
+    the prior run #104 note. Note OVERWRITTEN in place per replenish-note-bare-hash discipline
     (no new dated key, no bare hash outside this quoted scalar, no stray quote, no
     sentinel token). loop_pickable_open: 0. Independent re-scan of the Active section
-    (todo lines 38-1020): the ONLY two non-checkmarked, non-struck P2 headers are
-    the veto-tagged condense tasks (topics/meaning-of-life 4160w soft-veto pending
+    via awk Active..Completed slice: the ONLY two non-checkmarked, non-struck P2 headers
+    are the veto-tagged condense tasks (topics/meaning-of-life 4160w soft-veto pending
     human split, apex/phenomenal-output-causal-machinery-dissociation 6832w hard-veto
-    pending human structural split); both carry explicit #veto human-decision notes
-    and are NOT loop-pickable. All other non-checkmarked Active headers are ~~struck~~/emoji-done
-    P3 writes, a RELOCATED pointer, or HUMAN LENGTH DECISION pointers. 0 pickable
-    open is below the floor of 3 but do NOT fabricate a task (documented replenish-at-floor
-    steady state, unfin_loop_steady_state + p3-only-floor-preemption-starves); the
-    floor fills organically from cycle deep-review/coalesce/pessimistic slots and
+    pending human structural split); both carry explicit veto-tagged human-decision notes
+    and are NOT loop-pickable. All other non-checkmarked Active headers are struck/emoji-done
+    P3 writes, a RELOCATED pointer, a superseded methodology note, or HUMAN LENGTH DECISION
+    pointers. 0 pickable open is below the floor of 3 but do NOT fabricate a task (documented
+    replenish-at-floor steady state, unfin_loop_steady_state + p3-only-floor-preemption-starves);
+    the floor fills organically from cycle deep-review/coalesce/pessimistic slots and
     the next outer-review synthesis. SOURCE-BY-SOURCE (all re-run on disk THIS run):
-    CHAINS (S1) 0 - last 15 git commits are replenish/skip-queue-slot/agentic-social
+    CHAINS (S1) 0 - last 20 git commits are replenish/skip-queue-slot/agentic-social
     cycle churn + deep-review/pessimistic-review cycle slots (handled internally)
     plus the now-done retrocausality refine (b37365cd0); no research-topic/expand-topic/coalesce
     owes an unwritten successor. UNCONSUMED RESEARCH (S2) 0 - two newest notes (naturalist-relationalism
     + chemosensory-consciousness, both 2026-06-16) BOTH consumed: concepts/naturalist-relationalism.md
     (Jun 16 02:27) + topics/chemosensory-consciousness-and-the-interface.md (Jun 16
-    02:03) both exist; older notes are past the 14-day chain window / voids-research
+    02:03) both exist on disk; older notes are past the 14-day chain window / voids-research
     already absorbed. GAPS (S3) 0 - mature saturated corpus. STALENESS (S4) 0 mintable
     - cycle deep-review slots handle it. LENGTH (S6) 0 mintable, confirmed via canonical
-    get_length_warnings (PUBLISHED articles only, research/ excluded): hard+ published
-    offenders are the two veto P2s (phenomenal-output 6832w, meaning-of-life 4160w
-    soft-veto), the section-index registry apex/apex-articles.md 6963w (NOT a standard
+    get_length_warnings (PUBLISHED articles only, research/ excluded by inspection):
+    hard+ NON-research offenders are the two veto P2s (phenomenal-output 6832w, meaning-of-life
+    4160w soft-veto), the section-index registry apex/apex-articles.md 6963w (NOT a standard
     article), the human-deferred flagships (born-rule 5106w DEFERRED, clinical-dissociation
     4861w DIVERTED, epistemology-of-convergence-arguments 6479w DEFERRED-TO-HUMAN
     - protected calibration), and a long tail of marginal-over topics/concepts/voids
     (time-collapse 4606w, argument-from-reason 4489w, epistemic-advantages 4400w,
     memory-channel 4296w deep-reviewed 06-16, composition-question-rivals 4106w deep-reviewed
-    06-15, laws-and-dispositions 4213w, + ~25 soft/hard others) in the deep-review-over-reviews-converged
+    06-15, predictive-processing 3597w, + ~25 soft/hard others) in the deep-review-over-reviews-converged
     regression zone = CYCLE-SLOT work not floor-stall mints. positions/quantum-interface
     2507w is 7w over the positions hard - negligible, not a clean condense. No clean
-    mintable offender. research/* over-length are notes not articles (not S6 targets).
-    ORPHANS (S5) 0 (quality.orphaned_files 0). OUTER REVIEWS: 2026-06-16 cycle fully
-    synthesized (obsidian/reviews/outer-review-synthesis-2026-06-16.md exists; both
-    pending-reviews entries status:collected, 0 status:pending), 0 pending entries
+    mintable offender. The bulk of the get_length_warnings list is research/* notes,
+    which are NOT S6 article targets. ORPHANS (S5) 0 (quality.orphaned_files 0). OUTER
+    REVIEWS: 2026-06-16 cycle fully synthesized (obsidian/reviews/outer-review-synthesis-2026-06-16.md
+    exists; both pending-reviews entries collected, 0 pending), 0 pending entries
     owe a replenish action. POSITIONS add (S7a) 0; update (S7b) 0 - recent positions/
     touches were outer-review refine tasks already executed+marked-done, not Argued-in
     article changes owing an update; audit (S7c) NOT due (last positions-audit 2026-06-09,
