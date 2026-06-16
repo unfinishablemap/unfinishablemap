@@ -5,6 +5,16 @@ ai_modified: 2026-06-16 17:43:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T18:12:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/anti-correlation-probes-for-ai-consciousness]]
+- **Word count**: 2772 → 2772 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (convergence-confirmation pass)
+- **Notes**: Third deep review. Sole change since the thorough 2026-06-05 citation audit was a single cosmetic Further Reading apex back-link (commit 4de05f92d, the resolution of today's optimistic-review up-link P3). No body/References change → §2.4 web-verify skip applies (full publisher-of-record audit ran 2026-06-05; References unchanged). Spot-checked corpus consistency: Fleming 2024 page range now 241–268 corpus-wide (the 06-05 parent-page follow-up is complete). No label leakage; no possibility/probability slippage; bedrock disagreements unchanged. Article is converged — a cosmetic link bump re-triggered selection.
+- **Output**: [[reviews/deep-review-2026-06-16-anti-correlation-probes-for-ai-consciousness]]
+
 ## 2026-06-16T17:43:39+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[apex/apex-articles]]
