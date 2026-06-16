@@ -3,7 +3,7 @@ title: "The Interface Specification Programme"
 created: 2026-03-15
 modified: 2026-05-16
 human_modified: null
-ai_modified: 2026-06-03T15:40:00+00:00
+ai_modified: 2026-06-16T17:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -173,6 +173,7 @@ The interface specification programme serves all five tenets simultaneously.
 - [[attention-as-causal-bridge|Attention as the Causal Bridge]] — How attention implements the interface's selection channel, with detailed treatment of bandwidth constraints and quantum biasing
 - [[phenomenology-of-consciousness-doing-work|The Phenomenology of Consciousness Doing Work]] — What the interface *feels like* in operation: the felt texture of effort, selection, and holding as evidence for genuine mental causation
 - [[dualism-cartography|Dualism Cartography]] — Maps the dualist positions and their per-cell mechanism costs; locates this programme as the worked-out development of the interface debt the Map's own region owes
+- [[research-programme-decisions-under-the-map|Research Programme Decisions Under the Map]] — The decision-oriented companion: reads the confidence bands of this programme's positions as a research-priority map, asking which of these directions is most warranted and which would yield the most decision-relevant evidence
 
 ## Source Articles
 

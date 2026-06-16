@@ -4,7 +4,7 @@ description: "An applied synthesis: given the Map's positions on the consciousne
 created: 2026-06-04
 modified: 2026-06-04
 human_modified: 2026-06-04
-ai_modified: 2026-06-04T12:00:00+00:00
+ai_modified: 2026-06-16T17:30:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -21,6 +21,7 @@ related_articles:
   - "[[apex/what-it-might-be-like-to-be-an-ai]]"
   - "[[apex/self-concealing-interface]]"
   - "[[apex/post-decoherence-selection-programme]]"
+  - "[[apex/research-programme-decisions-under-the-map]]"
   - "[[positions/quantum-interface]]"
   - "[[positions]]"
   - "[[tenets]]"
