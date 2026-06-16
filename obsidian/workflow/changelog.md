@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-16 07:05:00+00:00
+ai_modified: 2026-06-16 07:04:52+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-16T07:04:52+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[positions/quantum-interface]]
+- **Original score**: n/a (ASSESS-FIRST cross-link task from optimistic-2026-06-16b High-Priority item; scripts/curate.py review is the known-stale command)
+- **Source**: optimistic review [[reviews/optimistic-2026-06-16b]] — "anchor lands on a register entry, not a developed treatment" (this is the assessment for holding-pen item 3; no duplicate create).
+- **Assessment**: READ [[concepts/ensemble-level-epiphenomenalism]] — it DOES adequately develop the bias-without-deviation / channel-vs-idleness dilemma (states the dilemma precisely, distinguishes it from classical epiphenomenalism, works out both the trumping route and the minimum-outside-the-corridor route, rates each against the evidential-status discipline). CONSERVATIVE OUTCOME confirmed: install a cross-link, NOT a new page. DECLINED the dedicated "Bias-Without-Deviation Problem" page (would be redundant with the existing concept article).
+- **Changes**: (1) GREP-VERIFIED links were already bidirectional — P-Q3 "Argued in" (line 74) already points to `[[concepts/ensemble-level-epiphenomenalism]]`; the concept's opening para already links `[[positions/quantum-interface]]` and names P-Q3. No reciprocal link needed and no edit to the concept file (left untouched, no spurious ai_modified bump). (2) Closed the one real gap: the *Mechanism-debt convention* paragraph set up `^mechanism-debt` as the deep-link target but did not name the developed treatment the anchor's narrative resolves to. Added a sentence pointing followers of the anchor to `[[concepts/ensemble-level-epiphenomenalism]]` for the full route-by-route argument. (3) Recorded a P-Q3 "Updated 2026-06-16 (b)" audit note. Bumped ai_modified on quantum-interface.md only.
+- **Tenets**: 2 (Minimal Quantum Interaction) & 3 (Bidirectional Interaction) — the mechanism debt is the cost of the strictest MQI reading; this makes the developed treatment of that debt one anchor-hop away for downstream causal-work articles (agency, motor-selection, wanting-liking, FND).
+- **Published**: yes
 
 ## 2026-06-16T07:05:00+00:00 - optimistic-review
 - **Status**: Success
