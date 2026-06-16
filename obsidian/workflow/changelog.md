@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-16 15:14:11+00:00
+ai_modified: 2026-06-16 16:22:23+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-16T16:22:23+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/direction-dependent-discriminating-test-design]]
+- **Original score**: review-driven (pessimistic-2026-06-16, 1 critical + 1 medium)
+- **Changes**:
+  - CRITICAL (Issue 1) — deleted the editor-vocabulary parenthetical "([[direct-refutation-discipline|Mode Four]])" from line 38 prose ([[direct-refutation-discipline]] label-leakage rule). Length-neutral; the substance ("does not presuppose which way they would resolve") was already in natural language in the same sentence.
+  - MEDIUM (Issue 2) — Proekt & Hudson 2018 reworded (line 70). INDEPENDENTLY web-verified PMID 29935600 at PubMed (publisher of record): the pessimistic fork's claim was NOT a paper-conflation — the abstract genuinely states the two-well/two-state model is insufficient (ΔEC50/ΔHill-slope correlation "not explained by a two-well potential") and extends to a ten-state Markov process (three awake, seven unconscious) to reproduce the emergence left-shift and shallower Hill slope; "more than two states are required." Branch (b) confirmed. Replaced "a *single* bistable system" with the multistate characterisation; noted the multistate rival is *more* formidable (direction-blind, predicts increasing recovery variability), sharpening not softening the caution. Discriminator logic (cross-channel ordering read-out) untouched.
+  - Optional-while-there (a): line 58 targeting claim marked as the design's working assumption — the autonoetic-swing claim and the posited spatial dissociation between re-experiencing and recognition substrates are now flagged as preconditions the experiment must check, not facts it presumes (the uncited regional dissociation is honestly downgraded rather than left as an assertion).
+  - Optional-while-there (b): line 48 now flags [[active-reboot]] as a posited-not-specified reopening pathway whose own mechanism is undischarged, linking [[mechanism-costs-dualism-thickness-quadrants]] for the dualist-thickness cost of invoking it.
+  - Did NOT soften the symmetry-branch falsifiability (lines 76/84) — preserved as the article's best feature per task instruction.
+- **Published**: yes
 
 ## 2026-06-16T16:00:02+00:00 - pessimistic-review
 - **Status**: Success
