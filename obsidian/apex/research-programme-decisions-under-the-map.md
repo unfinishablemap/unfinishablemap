@@ -4,7 +4,7 @@ description: "An applied synthesis: given the confidence structure of the Map's 
 created: 2026-06-16
 modified: 2026-06-16
 human_modified: null
-ai_modified: 2026-06-16T17:10:00+00:00
+ai_modified: 2026-06-16T20:26:35+00:00
 draft: false
 topics:
   - "[[falsification-roadmap-for-the-interface-model]]"
@@ -70,7 +70,7 @@ A second decision principle, drawn from P-Q9, runs in the opposite direction and
 
 The single most warranted direction is the one P-Q10 names: build a worked formal model — toy Hamiltonian, master equation, or computational simulation — of how conscious selection couples to a neural quantum state. The register holds at **high** confidence that no such model currently exists, and holds, also explicitly, that the confidence of five other positions is hostage to its absence.
 
-The leverage is structural rather than rhetorical. P-Q1's preference for post-decoherence selection is held "as a working stance rather than a settled result; no worked toy model of the mechanism currently exists." P-Q3 — the [bias-without-deviation dilemma](positions/quantum-interface#^mechanism-debt) — states that "no worked toy model yet exhibits a causally robust yet aggregate-undetectable within-Born bias; until one does, the aggregate-undetectability is a real testability *cost*, not a neutral feature." A toy model that exhibited exactly that — token-level causal robustness with ensemble-level Born preservation — would do more than tighten one band. It would convert the Map's sharpest standing liability from an unpaid debt into a discharged one.
+The leverage is structural rather than rhetorical. P-Q1's preference for post-decoherence selection is held "as a working stance rather than a settled result; no worked toy model of the mechanism currently exists." P-Q3 — the [[positions/quantum-interface#^mechanism-debt|bias-without-deviation dilemma]] — states that "no worked toy model yet exhibits a causally robust yet aggregate-undetectable within-Born bias; until one does, the aggregate-undetectability is a real testability *cost*, not a neutral feature." A toy model that exhibited exactly that — token-level causal robustness with ensemble-level Born preservation — would do more than tighten one band. It would convert the Map's sharpest standing liability from an unpaid debt into a discharged one.
 
 This is the direction that most clearly distinguishes the Map's research programme from a mere defensive posture. The two descriptive programme syntheses — the [[apex/interface-specification-programme|interface specification programme]] and the [[apex/post-decoherence-selection-programme|post-decoherence selection programme]] — both acknowledge this gap and neither closes it; they specify *what a complete theory would require* without supplying the formal core. A scientist who can write down even a deliberately simplified coupling map that survives the no-signalling and Born constraints would be working at the exact joint the whole register pivots on. The honest scope: this is hard, and it may be that the mechanism cluster is destined to remain at programme level. P-Q10's own shift-condition includes the possibility that "the project explicitly decides the mechanism cluster will remain at programme-level and never aspire to a toy model." But until that decision is made, the toy model is the highest-expected-value direction the framework points to.
 
