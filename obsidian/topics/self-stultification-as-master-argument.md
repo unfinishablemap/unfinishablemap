@@ -38,7 +38,7 @@ related_articles:
   - "[[metaproblem-of-consciousness-under-dualism]]"
   - "[[functional-seeming]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
-  - "[[memory-system-vulnerability-hierarchies-as-interface-evidence]]"
+  - "[[memory-channel-interface-evidence]]"
   - "[[cross-mechanism-convergence]]"
   - "[[anti-correlated-metacognitive-signal]]"
 ai_contribution: 100
@@ -80,7 +80,7 @@ The epiphenomenalist who presents arguments, responds to objections, and revises
 
 Phenomenal intentionality adds a further layer: the belief in epiphenomenalism must be genuinely *about* consciousness. If the [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality thesis]] is correct, that aboutness itself requires phenomenal character. The position is thus doubly self-stultifying: it denies causal efficacy to the very consciousness whose phenomenal character is required to give the denial its content.
 
-[[anaesthesia-and-the-consciousness-interface|Ketamine anaesthesia]] provides a clinical worked exhibit. Patients under ketamine show behavioural unresponsiveness matching propofol yet later report vivid experiences—elaborate dreams, perceived journeys—with brain dynamics showing wakefulness-like complexity (Sarasso et al. 2015 measured the perturbational complexity index, finding ketamine sustains wakefulness-like cortical complexity where propofol and xenon collapse it). The Map's inference from these retrospective reports is that consciousness maintained its causal connection to memory encoding during the dissociated interval, even when severed from behavioural output—a reading of the report-correspondence, not a finding of the complexity measurement itself. If consciousness were epiphenomenal here, the reports' reliable correspondence to a phenomenally rich interval would presuppose the very causal efficacy epiphenomenalism denies. The case sharpens the argument because the dissociation is mechanistically isolable: ketamine's NMDA antagonism severs access channels while sparing the phenomenal interface. It is one row of the cross-state pattern mapped in [[memory-system-vulnerability-hierarchies-as-interface-evidence|the memory-system vulnerability hierarchies]]—autonoetic content preserved but decoupled from access—making it also an instance of the wider channel-hierarchy convergence.
+[[anaesthesia-and-the-consciousness-interface|Ketamine anaesthesia]] provides a clinical worked exhibit. Patients under ketamine show behavioural unresponsiveness matching propofol yet later report vivid experiences—elaborate dreams, perceived journeys—with brain dynamics showing wakefulness-like complexity (Sarasso et al. 2015 measured the perturbational complexity index, finding ketamine sustains wakefulness-like cortical complexity where propofol and xenon collapse it). The Map's inference from these retrospective reports is that consciousness maintained its causal connection to memory encoding during the dissociated interval, even when severed from behavioural output—a reading of the report-correspondence, not a finding of the complexity measurement itself. If consciousness were epiphenomenal here, the reports' reliable correspondence to a phenomenally rich interval would presuppose the very causal efficacy epiphenomenalism denies. The case sharpens the argument because the dissociation is mechanistically isolable: ketamine's NMDA antagonism severs access channels while sparing the phenomenal interface. It is one row of the cross-state pattern mapped in [[memory-channel-interface-evidence|the memory-system vulnerability hierarchies]]—autonoetic content preserved but decoupled from access—making it also an instance of the wider channel-hierarchy convergence.
 
 ### Physicalism and the Argument from Reason
 
@@ -190,7 +190,7 @@ The [[anti-correlated-metacognitive-signal]] concept supplies a structural paral
 - [[pragmatisms-path-to-dualism]] — Self-stultification applied to evaluation: materialism eliminates the evaluative standpoint pragmatism requires
 - [[interactionist-dualism]] — The framework that escapes self-stultification
 - [[dualism]] — Multiple converging arguments including self-stultification
-- [[memory-system-vulnerability-hierarchies-as-interface-evidence]] — The cross-state channel hierarchy whose ketamine row is the same dissociation pattern this article's clinical worked exhibit uses
+- [[memory-channel-interface-evidence]] — The cross-state channel hierarchy whose ketamine row is the same dissociation pattern this article's clinical worked exhibit uses
 - [[cross-mechanism-convergence]] — Evidence-pattern type the cross-state row instantiates; explains why the ketamine, dissociative-anaesthesia, and contemplative rows together carry more weight than any single row alone, without licensing tier-upgrade
 - [[anti-correlated-metacognitive-signal]] — The empirical-tier structural analogue: confidence anti-correlated with accuracy in regime R parallels self-stultification's theory-level analogue of confidence anti-correlated with the conditions of its own endorsement
 

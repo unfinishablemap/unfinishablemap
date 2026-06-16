@@ -7,6 +7,11 @@ human_modified:
 ai_modified: 2026-06-05T00:00:00+00:00
 last_deep_review: 2026-06-05T00:00:00+00:00
 draft: false
+archived: true
+archived_date: 2026-06-16T03:02:00+00:00
+superseded_by: "/topics/memory-channel-interface-evidence/"
+archive_reason: "Coalesced into Memory-Channel Interface Evidence: Vulnerability Ordering and Recovery-Order Asymmetry"
+original_path: "/topics/recovery-order-asymmetry-as-interface-evidence/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-disruption-and-the-mind-brain-interface]]"

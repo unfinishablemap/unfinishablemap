@@ -43,7 +43,7 @@ The KCC2 mechanism-shared-reopening across four mechanism-distinct closing pathw
 - Frontmatter: appended `"[[cross-mechanism-convergence]]"` to `related_articles`
 - Body: appended one-line entry to `## Further Reading` — "*Evidence-pattern type the four-agent KCC2 convergence instantiates; names the structural-feature inference active reboot relies on*"
 
-### 2. [memory-system-vulnerability-hierarchies-as-interface-evidence](/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/) (topics/)
+### 2. [memory-system-vulnerability-hierarchies-as-interface-evidence](/topics/memory-channel-interface-evidence/) (topics/)
 
 The five-perturbation channel-hierarchy convergence (pharmacological anaesthesia, NREM, REM, hemispherectomy, terminal lucidity, dissociation) on the same autonoetic→noetic→anoetic ordering is the **channel-hierarchy-grain** instance. The article's load-bearing sentence — *"the hierarchy is the joint output of several pharmacologically distinct mechanisms converging on the same ordering, and that convergence is the load-bearing fact"* — names the pattern locally; the discipline article lifts it to pattern-type level.
 

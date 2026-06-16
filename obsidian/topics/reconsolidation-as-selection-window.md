@@ -17,8 +17,7 @@ related_articles:
   - "[[consciousness-and-memory]]"
   - "[[forward-in-time-conscious-selection]]"
   - "[[personal-identity]]"
-  - "[[recovery-order-asymmetry-as-interface-evidence]]"
-  - "[[memory-system-vulnerability-hierarchies-as-interface-evidence]]"
+  - "[[memory-channel-interface-evidence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-8
@@ -67,7 +66,7 @@ The discipline this article must hold is that none of the empirical facts force 
 
 ## Why This Is the Most Anchored Window, Not the Strongest Proof
 
-Among the Map's exhibits for Tenet 3, reconsolidation is unusual in how empirically grounded its *occasion* is. The recovery-order and vulnerability arguments ([[recovery-order-asymmetry-as-interface-evidence]], [[memory-system-vulnerability-hierarchies-as-interface-evidence]]) infer interface engagement from *patterns* across anaesthesia, sleep, and terminal lucidity—rich but indirect. Reconsolidation, by contrast, points to a single, replicable, bench-demonstrated physical event: a specific trace becoming labile at a specific time and restabilising after. The venue is concrete in a way the pattern-arguments' venues are not.
+Among the Map's exhibits for Tenet 3, reconsolidation is unusual in how empirically grounded its *occasion* is. The recovery-order and vulnerability arguments ([[memory-channel-interface-evidence|memory-channel interface evidence]]) infer interface engagement from *patterns* across anaesthesia, sleep, and terminal lucidity—rich but indirect. Reconsolidation, by contrast, points to a single, replicable, bench-demonstrated physical event: a specific trace becoming labile at a specific time and restabilising after. The venue is concrete in a way the pattern-arguments' venues are not.
 
 That concreteness cuts both ways, and the calibration must say so. A concrete venue makes the directional-input claim *testable in principle*, but it also makes its current unprovenness vivid: the very experiments that establish the window (anisomycin amnesia, prediction-error gating) are fully explained without any conscious contribution. Reconsolidation is therefore the Map's most empirically-anchored window and simultaneously one of its clearest illustrations that an anchored window is not a proof. The exhibit's value is that it locates the dispute precisely—at the question of what fixes the reconstructed content—rather than that it resolves it.
 
@@ -102,8 +101,7 @@ None of these has been shown, and the contrary—residual, hard-to-predict varia
 - [[consciousness-and-memory]] — the parent topic; reconsolidation is the across-time face of the phenomenal-output / causal-machinery dissociation.
 - [[forward-in-time-conscious-selection]] — the mechanism by which selection within an open window could operate after decoherence.
 - [[personal-identity]] — the perpetually-rewriting self and indexical identity.
-- [[recovery-order-asymmetry-as-interface-evidence]] — a sibling Tenet-3 exhibit drawn from direction-asymmetric channel recovery.
-- [[memory-system-vulnerability-hierarchies-as-interface-evidence]] — the Tulving bandwidth hierarchy as a vulnerability-ordered exhibit.
+- [[memory-channel-interface-evidence]] — a sibling Tenet-3 exhibit drawn from direction-asymmetric channel recovery and the Tulving bandwidth hierarchy as a vulnerability-ordered exhibit.
 - [[episodic-memory]] — the dual-domain framework for autonoetic recall.
 
 ## References

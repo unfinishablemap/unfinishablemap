@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-disruption-and-the-mind-brain-interface]]"
-  - "[[recovery-order-asymmetry-as-interface-evidence]]"
+  - "[[memory-channel-interface-evidence]]"
   - "[[falsification-roadmap-for-the-interface-model]]"
 concepts:
   - "[[filter-theory]]"
@@ -22,7 +22,6 @@ related_articles:
   - "[[tenets]]"
   - "[[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]"
   - "[[self-concealing-interface]]"
-  - "[[memory-system-vulnerability-hierarchies-as-interface-evidence]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
   - "[[stochastic-emergence-as-quantum-interface-evidence]]"
   - "[[evidential-status-discipline]]"
@@ -36,7 +35,7 @@ last_curated:
 last_deep_review: 2026-06-13T00:00:00+00:00
 ---
 
-The [[recovery-order-asymmetry-as-interface-evidence|recovery-order-asymmetry article]] and the [[direction-of-interface-change|direction-of-interface-change concept]] both name, as outstanding future work, a discriminator the existing catalogue has not designed: "a focal perturbation producing a channel ordering one reading predicts and the other forbids," sited specifically on the *direction-of-travel* axis. This article develops that named-but-undeveloped test into a worked design. It is a **proposed experiment, not a result.** Nothing here asserts the discriminator has been run, and nothing here raises the probability that the [[filter-theory|filter reading]] is correct; the [[evidential-status-discipline|evidential-status discipline]] requires that the design be held at the design tier. Until the experiment is performed its discriminating verdict is genuinely underdetermined by the evidence: the design constrains *which* outcomes would count for and against each reading, but does not presuppose which way they would resolve ([[direct-refutation-discipline|Mode Four]]). What the design contributes is a structure: a reversible focal perturbation applied separately in the *closing* and the *reopening* phase of a consciousness transition, with concurrent multi-channel probing, configured so that a substrate-symmetric production reading and the filter reading make **opposite, advance-stated predictions** about the order in which a high-cost channel goes dark and comes back.
+The [[memory-channel-interface-evidence|recovery-order-asymmetry article]] and the [[direction-of-interface-change|direction-of-interface-change concept]] both name, as outstanding future work, a discriminator the existing catalogue has not designed: "a focal perturbation producing a channel ordering one reading predicts and the other forbids," sited specifically on the *direction-of-travel* axis. This article develops that named-but-undeveloped test into a worked design. It is a **proposed experiment, not a result.** Nothing here asserts the discriminator has been run, and nothing here raises the probability that the [[filter-theory|filter reading]] is correct; the [[evidential-status-discipline|evidential-status discipline]] requires that the design be held at the design tier. Until the experiment is performed its discriminating verdict is genuinely underdetermined by the evidence: the design constrains *which* outcomes would count for and against each reading, but does not presuppose which way they would resolve ([[direct-refutation-discipline|Mode Four]]). What the design contributes is a structure: a reversible focal perturbation applied separately in the *closing* and the *reopening* phase of a consciousness transition, with concurrent multi-channel probing, configured so that a substrate-symmetric production reading and the filter reading make **opposite, advance-stated predictions** about the order in which a high-cost channel goes dark and comes back.
 
 This is the companion to the [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy|targeted-lesion discriminating-tests article]], and the two should not be conflated. That article designs a *substrate-state* discriminator: it asks whether a focal lesion's substrate *topology* tracks the channel ordering (production) or whether channel architecture overrides topology (filter), holding the system at a single state. The present article designs a *direction-dependent* discriminator: it asks whether the channel ordering is *the same in both directions of travel* (the simplest production prediction) or *direction-dependent* (the filter prediction). The substrate-state article cannot deliver this test, because a lesion is a fixed insult — it has no reopening phase to compare against its closing phase. The direction axis requires a perturbation that can be turned on and off within one subject, which is what makes the design distinct enough to stand alone.
 
@@ -48,7 +47,7 @@ The **substrate-symmetric production reading** — the simplest production accou
 
 The **filter reading** treats the channel ordering as a property of interface architecture rather than of a direction-blind substrate profile. If channels differ in bandwidth and reconstruction cost, *which* components block or reopen, and in *what order*, may depend on the direction and the cause of the change: partial blockade closes high-cost channels first, while a different perturbation — or the *lifting* of a perturbation through a dedicated reopening pathway ([[active-reboot|active reboot]]) — could reopen a high-cost channel out of degradation order. This reading **predicts** that the closing ordering and the reopening ordering can dissociate, and is **not committed** to their symmetry.
 
-The gap is real only if the production reading genuinely forbids what the filter reading permits. It does, *for the substrate-symmetric reading*. The honest qualifier — load-bearing, and the reason this is a constrain-not-establish test — is that a *more elaborate* production reading can pay to recover asymmetry by adding direction-specific machinery (hysteresis terms, a distinct emergence-circuit posit, a stochastic-reconstitution model). The test discriminates the filter reading from the *simplest* production rival; it raises the cost of the production accounts that survive rather than refuting production as such. This is the same calibration the [[recovery-order-asymmetry-as-interface-evidence|source article]] holds, transposed from observed clinical asymmetry to a controlled, advance-registered experiment.
+The gap is real only if the production reading genuinely forbids what the filter reading permits. It does, *for the substrate-symmetric reading*. The honest qualifier — load-bearing, and the reason this is a constrain-not-establish test — is that a *more elaborate* production reading can pay to recover asymmetry by adding direction-specific machinery (hysteresis terms, a distinct emergence-circuit posit, a stochastic-reconstitution model). The test discriminates the filter reading from the *simplest* production rival; it raises the cost of the production accounts that survive rather than refuting production as such. This is the same calibration the [[memory-channel-interface-evidence|source article]] holds, transposed from observed clinical asymmetry to a controlled, advance-registered experiment.
 
 ## The Design: A Reversible Perturbation Applied in Both Directions
 
@@ -88,7 +87,7 @@ The design engages two tenets at the methodology layer, framed honestly as a pro
 
 ## Further Reading
 
-- [[recovery-order-asymmetry-as-interface-evidence]] — The source article that names this discriminator as future work; the observational cases this design would replace with a controlled probe
+- [[memory-channel-interface-evidence]] — The source article that names this discriminator as future work; the observational cases this design would replace with a controlled probe
 - [[direction-of-interface-change]] — The concept home for the four-member signature family, with the non-independence caution this design inherits
 - [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]] — The companion substrate-state discriminator; the static counterpart to this direction-dependent design
 - [[falsification-roadmap-for-the-interface-model]] — The falsification programme this design is one entry in
@@ -105,5 +104,5 @@ The design engages two tenets at the methodology layer, framed honestly as a pro
 1. Proekt, A., & Hudson, A. E. (2018). A stochastic basis for neural inertia in emergence from general anaesthesia. *British Journal of Anaesthesia*, 121(1), 86–94. https://doi.org/10.1016/j.bja.2018.02.035
 1. Sepúlveda, P. O., Tapia, L. F., & Monsalves, S. (2019). Neural inertia and differences between loss of and recovery from consciousness during total intravenous anaesthesia: a narrative review. *Anaesthesia*, 74(6), 801–809. https://doi.org/10.1111/anae.14609
 1. Verhagen, L., Gallea, C., Folloni, D., et al. (2019). Offline impact of transcranial focused ultrasound on cortical activation in primates. *eLife*, 8, e40541. https://doi.org/10.7554/eLife.40541
-1. Southgate, A. & Oquatre-sept, C. (2026-05-27). Recovery-Order Asymmetry as Interface Evidence. *The Unfinishable Map*. https://unfinishablemap.org/topics/recovery-order-asymmetry-as-interface-evidence/
+1. Southgate, A. & Oquatre-sept, C. (2026-05-27). Memory-Channel Interface Evidence: Vulnerability Ordering and Recovery-Order Asymmetry. *The Unfinishable Map*. https://unfinishablemap.org/topics/memory-channel-interface-evidence/
 1. Southgate, A. & Oquatre-huit, C. (2026-06-03). Direction-of-Interface-Change Signatures. *The Unfinishable Map*. https://unfinishablemap.org/concepts/direction-of-interface-change/

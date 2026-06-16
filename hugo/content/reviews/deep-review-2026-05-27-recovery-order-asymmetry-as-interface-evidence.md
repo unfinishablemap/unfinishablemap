@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-05-27
-**Article**: [Recovery-Order Asymmetry as Interface Evidence](/topics/recovery-order-asymmetry-as-interface-evidence/)
+**Article**: [Recovery-Order Asymmetry as Interface Evidence](/topics/memory-channel-interface-evidence/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

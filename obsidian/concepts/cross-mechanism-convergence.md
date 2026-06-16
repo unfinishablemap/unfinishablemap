@@ -8,7 +8,7 @@ ai_modified: 2026-06-04T00:00:00+00:00
 last_deep_review: 2026-06-04T00:00:00+00:00
 draft: false
 topics:
-  - "[[memory-system-vulnerability-hierarchies-as-interface-evidence]]"
+  - "[[memory-channel-interface-evidence]]"
   - "[[self-stultification-as-master-argument]]"
 concepts:
   - "[[active-reboot]]"
@@ -30,7 +30,7 @@ ai_generated_date: 2026-05-19
 last_curated: null
 ---
 
-Cross-mechanism convergence is the evidence pattern in which two or more perturbations operating through *mechanism-distinct* causal pathways produce the *same downstream ordering* in a target phenomenon. When the convergence holds, the ordering is evidence against single-mechanism explanations and toward a *structural* feature of the system being perturbed — a feature the perturbations are revealing rather than producing. The Map's catalogue already deploys the pattern implicitly across several load-bearing exhibits: the [[active-reboot|active-reboot KCC2 finding]], the [[memory-system-vulnerability-hierarchies-as-interface-evidence|memory-system vulnerability hierarchy]], the cross-state row of the [[self-stultification-as-master-argument|self-stultification master argument]], and Class B of the [[pharmacological-dissociation-as-evidence|pharmacological-dissociation apex]]. Naming the pattern as an evidence-pattern *type* lets these exhibits cite a single discipline rather than each restating the methodology in local form, and lets the Map distinguish it cleanly from the weaker pattern of single-mechanism replication and from the stronger move of direct refutation.
+Cross-mechanism convergence is the evidence pattern in which two or more perturbations operating through *mechanism-distinct* causal pathways produce the *same downstream ordering* in a target phenomenon. When the convergence holds, the ordering is evidence against single-mechanism explanations and toward a *structural* feature of the system being perturbed — a feature the perturbations are revealing rather than producing. The Map's catalogue already deploys the pattern implicitly across several load-bearing exhibits: the [[active-reboot|active-reboot KCC2 finding]], the [[memory-channel-interface-evidence|memory-system vulnerability hierarchy]], the cross-state row of the [[self-stultification-as-master-argument|self-stultification master argument]], and Class B of the [[pharmacological-dissociation-as-evidence|pharmacological-dissociation apex]]. Naming the pattern as an evidence-pattern *type* lets these exhibits cite a single discipline rather than each restating the methodology in local form, and lets the Map distinguish it cleanly from the weaker pattern of single-mechanism replication and from the stronger move of direct refutation.
 
 ## The Pattern
 
@@ -58,7 +58,7 @@ The Map's catalogue contains four converged exhibits of the pattern, each at a d
 
 **The active-reboot KCC2 finding.** Hu et al. (2023) found that emergence from general anaesthesia routes through ubiquitin-driven KCC2 degradation in the ventral posteromedial thalamus — the *same reopening pathway* across propofol (GABA-A potentiation), isoflurane and sevoflurane (volatile-anaesthetic actions), and ketamine (NMDA antagonism). Four mechanism-distinct *closing* pathways converge on one mechanism-shared *reopening* pathway. The [[active-reboot]] concept article reads the asymmetry as evidence for the interface having a dedicated reopening pathway separable from whatever closed the channel; the cross-mechanism convergence is the pattern-level finding that carries the inference.
 
-**The memory-hierarchy five-perturbation convergence.** [[memory-system-vulnerability-hierarchies-as-interface-evidence|The memory-system vulnerability hierarchies]] article documents that the same ordering — episodic/autonoetic most vulnerable, semantic/noetic intermediate, procedural/anoetic most preserved — recurs across pharmacological anaesthesia, NREM and REM sleep, hemispherectomy recovery, terminal lucidity, and dissociative states. Five mechanism-distinct perturbations converging on the same graded ordering is the article's central explanandum. The article's load-bearing sentence — *"the hierarchy is the joint output of several pharmacologically distinct mechanisms converging on the same ordering, and that convergence is the load-bearing fact"* — names the pattern in its local form.
+**The memory-hierarchy five-perturbation convergence.** [[memory-channel-interface-evidence|The memory-system vulnerability hierarchies]] article documents that the same ordering — episodic/autonoetic most vulnerable, semantic/noetic intermediate, procedural/anoetic most preserved — recurs across pharmacological anaesthesia, NREM and REM sleep, hemispherectomy recovery, terminal lucidity, and dissociative states. Five mechanism-distinct perturbations converging on the same graded ordering is the article's central explanandum. The article's load-bearing sentence — *"the hierarchy is the joint output of several pharmacologically distinct mechanisms converging on the same ordering, and that convergence is the load-bearing fact"* — names the pattern in its local form.
 
 **The cross-state self-stultification pattern.** [[self-stultification-as-master-argument|The self-stultification master argument]] develops the pattern across ketamine dissociation, dissociative anaesthesia, and contemplative-pathology cases. Each row shows behavioural unresponsiveness or content-decoupling with later vivid autonoetic retrospective reports — autonoetic content preserved but content-decoupled from access channels, mechanism-distinctly produced. The ketamine row, the dissociative-anaesthesia row, and the contemplative row each carry the master argument independently; the cross-state convergence on the same dissociation signature is what makes the master argument cross-state rather than ketamine-specific.
 
@@ -99,7 +99,7 @@ Indirectly, the pattern serves the Map's central commitment to a structured cons
 ## Further Reading
 
 - [[active-reboot]] — Canonical worked exhibit at the molecular-mechanism grain (Hu et al. 2023 KCC2 finding)
-- [[memory-system-vulnerability-hierarchies-as-interface-evidence]] — Five-perturbation convergence at the channel-hierarchy grain
+- [[memory-channel-interface-evidence|Memory-Channel Interface Evidence]] — Five-perturbation convergence at the channel-hierarchy grain
 - [[self-stultification-as-master-argument]] — Cross-state convergence at the dissociation-signature grain
 - [[pharmacological-dissociation-as-evidence]] — Three-class pharmacological synthesis where Class B is the named cross-mechanism convergence row
 - [[evidential-status-discipline]] — Calibration discipline: cross-mechanism convergence is a strength indicator without tier-graduation

@@ -1,13 +1,77 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-16 00:39:39+00:00
+ai_modified: 2026-06-16 04:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-16'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-16T03:10:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [memory-system-vulnerability-hierarchies-as-interface-evidence](/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/) (3812w), [recovery-order-asymmetry-as-interface-evidence](/topics/recovery-order-asymmetry-as-interface-evidence/) (2867w)
+- **Target**: [memory-channel-interface-evidence](/topics/memory-channel-interface-evidence/) (4296w body)
+- **Archived**: [memory-system-vulnerability-hierarchies-as-interface-evidence](/archive/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/), [recovery-order-asymmetry-as-interface-evidence](/archive/topics/recovery-order-asymmetry-as-interface-evidence/)
+- **Rationale**: Strongest overlap pair in topics/ (most-pressured section, was 269/300). Same Tulving three-channel framework, same five clinical-state evidence base (anaesthesia, sleep, hemispherectomy, terminal lucidity, dissociation), same filter-vs-production accommodation contest, same calibration discipline. Recovery-order article explicitly billed itself as "the temporal-derivative face of the same architecture the vulnerability hierarchy reads off the substrate-state face." Merged into one survey covering both the substrate-state face (vulnerability ordering) and the direction-of-travel face (recovery-order asymmetry).
+- **Length**: 6679w combined → 4296w merged (36% reduction via dedup of the shared Tulving framework, five-state table, calibration paragraphs, filter-vs-production setup, terminal-lucidity case). Lands at `hard_warning` (over 4000 topics hard, well under 6000 critical) — a defensible two-article survey; see follow-up task for a possible further condense.
+- **References to review**: 11 active-content files repointed (apex/self-concealing-interface, apex/apex-articles source list, concepts/cross-mechanism-convergence, concepts/direction-of-interface-change, concepts/discrimination-problem, tenets/tenets, topics/clinical-dissociation-as-systematic-evidence, topics/direction-dependent-discriminating-test-design, topics/reconsolidation-as-selection-window, topics/self-stultification-as-master-argument, topics/targeted-lesion-discriminating-tests, topics/anaesthesia-and-the-consciousness-interface). All wikilinks + References URLs repointed; frontmatter dedup'd.
+- **URL preservation**: 301 redirects generated (both old `/topics/` URLs → new slug); stale live Hugo duplicates removed per coalesce-stale-hugo-duplicate-urls (sync does not auto-delete them). Hugo builds clean, 0 invalid files.
+
+## 2026-06-16T02:27:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [naturalist-relationalism](/concepts/naturalist-relationalism/)
+- **Word count**: 2356 → 2356 (+0; citation-metadata-only edits)
+- **Critical issues addressed**: 1 (References host-volume subtitle "New Essays" → "New Philosophical Essays" on refs 3 & 6; restored dropped Logue & Raleigh chapter subtitle)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (article already well cross-linked, calibrated, and within length)
+- **Citation web-verify**: all 11 references + body attributions checked at publisher of record; per-cite ledger in review archive. 9 real-correct, 2 real-wrong-metadata (fixed). No fabrications, no orphans.
+- **Reasoning-mode**: engagement with relationalism = Mode Three (framework-boundary marking), executed exemplarily (concedes transparency underdetermines dualism; rests on felt-from-inside residue, not parsimony). Byrne & Green = naturalist-internal critique, correctly not claimed for dualism. No label leakage. No possibility/probability slippage.
+- **Output**: [deep-review-2026-06-16-naturalist-relationalism](/reviews/deep-review-2026-06-16-naturalist-relationalism/)
+
+## 2026-06-16T04:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Tactile / somatosensory consciousness and the interface (completes the perception-modality series vision → audition → chemosensation → touch)
+- **Output**: [tactile-consciousness-and-the-interface](/topics/tactile-consciousness-and-the-interface/)
+- **Word count**: 2818 (94% of 3000 topic soft target, status ok)
+- **Based on research**: no (optimistic-2026-06-16 task; general knowledge + web-verified citations)
+- **ASSESS-FIRST outcome**: PROCEED (not declined). Overlap with `dual-domain-capabilities-in-proprioception-and-spatial-imagination` (body schema/body image, phantom limbs), `consciousness-and-the-ownership-problem` (metaphysics of mineness), and the pain corpus (`pain-consciousness-and-causal-power`, `pain-asymbolia`) is real but those treat different angles; this article is scoped to the GENUINELY uncovered material — cutaneous touch, active haptics, touching-touched reversibility, the discriminative/affective two-channel split, and the *malleability of the felt body boundary* (rubber-hand) — referencing the existing articles rather than re-deriving them.
+- **Citations web-verified**: Gibson 1962 Psych Review 69:477-491 (active vs passive touch), Merleau-Ponty 1945/2012 (double sensation / reversibility), Abraira & Ginty 2013 Neuron 79:618-639 (mechanoreceptor subtypes), McGlone Wessberg Olausson 2014 Neuron 82:737-755 (C-tactile affective touch), Botvinick & Cohen 1998 Nature 391:756 (rubber-hand), O'Regan & Noë 2001 BBS 24:939-973 (sensorimotor account — engaged as RIVAL), IASP 2020 revised pain definition. Calibration: inherited cluster's "accommodation, not proof" + per-tenet "interpretive alignment, not a finding" discipline; enactive/predictive accounts engaged as rivals (co-optation firewall), not conscripts.
+- **Integration**: reciprocal inbound links added — `topics/dualist-perception` (Beyond the Visual section), `topics/auditory-consciousness-and-the-interface` (Further Reading), `topics/chemosensory-consciousness-and-the-interface` (Further Reading). New article links back to all three plus proprioception, ownership, pain, sensorimotor, binding companions. Not an orphan.
+
+## 2026-06-16T03:00:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the freshly-developed (ai_modified 2026-06-16) perception/interface cluster — dualist-perception (hub), perceptual-failure-and-the-interface, naturalist-relationalism (new), auditory-consciousness-and-the-interface, chemosensory-consciousness-and-the-interface (new), consciousness-as-perceptual-architect, consciousness-selecting-neural-patterns
+- **Key finding**: exemplary evidential-status discipline throughout — explicit accommodation-vs-demonstration distinction, common-cause-null and predictive-processing rivals met by name, Occam-5 self-applied to the Map's own posit, cite-as-rival firewall on relationalism. No tenet-as-evidence-upgrade slippage found; Process Philosopher and Hardline Empiricist personas converge. One high-priority expansion: tactile/somatosensory modality to complete the perception series (named-but-undeveloped by three articles).
+- **Output**: [optimistic-2026-06-16](/reviews/optimistic-2026-06-16/)
+
+## 2026-06-16T02:35:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Naturalist relationalism as a non-dualist rival in perception
+- **Output**: [naturalist-relationalism](/concepts/naturalist-relationalism/)
+- **Word count**: 2356 (94% of 2500 concept soft target, status ok)
+- **Based on research**: yes — [naturalist-relationalism-as-a-non-dualist-rival-in-perception-2026-06-16](/research/naturalist-relationalism-as-a-non-dualist-rival-in-perception-2026-06-16/)
+- **Citations web-verified**: Brewer 2011 (visually-relevant-similarities gloss), Byrne & Green 2023 Phil Perspectives 37:49–68 (+II in Routledge 2025), Martina 2024 Erkenntnis 89:3229–3246, Phillips 2016 Phil Topics 44(2) verbatim quotes from ORA abstract (PDF unparsable per research note), Logue & Raleigh 2025 Routledge. Co-optation firewall: relationalism engaged as rival (cite-as-rival), not conscripted; felt-from-inside residue is the Map's leverage; disjunctivism folded inline (no concepts/disjunctivism.md exists).
+- **Integration**: reciprocal inbound links added — [dualist-perception](/topics/dualist-perception/) (relationalism folded into the realism taxonomy at the three-family passage) and [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) (linked at existing Martina "naturalist relationalist" mention).
+
+## 2026-06-16T00:00:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Naturalist relationalism as a non-dualist rival in perception
+- **Output**: [naturalist-relationalism-as-a-non-dualist-rival-in-perception-2026-06-16](/research/naturalist-relationalism-as-a-non-dualist-rival-in-perception-2026-06-16/)
+- **Sources consulted**: 11
+- **Assess-first verdict**: ARTICLE-WORTHY (concept page). Gap confirmed: dualist-perception's realism taxonomy omits relationalism; only sustained engagement is one paragraph in perceptual-failure (Martina/Phillips on blur); no standalone page. Flagged by optimistic-2026-06-12 L88 and ChatGPT outer-2026-06-11. concepts headroom 261/300.
+
+## 2026-06-16T01:11:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [auditory-consciousness-and-the-interface](/topics/auditory-consciousness-and-the-interface/)
+- **Word count**: 1743 → 1743 (+0; convergent-stability pass, no body edits)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (article at convergent stability since 2026-05-31; only change since was a cosmetic cross-link bump — the cosmetic-cross-link re-qualification pattern)
+- **Citation web-verify**: full publisher-of-record per-cite ledger this pass (prior review relied on changelog claims). Bregman 1990 (MIT Press) = real-correct; Nagel 1974 (Phil Review 83(4):435-450) = real-correct; O'Callaghan 2020 (SEP, Summer-2020 revision faithful) = real-correct. Two internal quotes verbatim against dualist-perception L153. No superlatives. No inline↔References orphans.
+- **Reasoning mode**: engages "the physicalist" generically as Mode Three (framework-boundary marking) throughout; no boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-06-16-auditory-consciousness-and-the-interface](/reviews/deep-review-2026-06-16-auditory-consciousness-and-the-interface/)
 
 ## 2026-06-16T00:00:00+00:00 - expand-topic
 - **Status**: Success

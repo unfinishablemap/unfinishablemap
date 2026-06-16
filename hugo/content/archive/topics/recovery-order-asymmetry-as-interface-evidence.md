@@ -3,6 +3,10 @@ ai_contribution: 100
 ai_generated_date: 2026-05-27
 ai_modified: 2026-06-05 00:00:00+00:00
 ai_system: claude-opus-4-7
+archive_reason: 'Coalesced into Memory-Channel Interface Evidence: Vulnerability Ordering
+  and Recovery-Order Asymmetry'
+archived: true
+archived_date: 2026-06-16 03:02:00+00:00
 author: null
 concepts:
 - '[[filter-theory]]'
@@ -22,6 +26,7 @@ human_modified: null
 last_curated: null
 last_deep_review: 2026-06-05 00:00:00+00:00
 modified: *id001
+original_path: /topics/recovery-order-asymmetry-as-interface-evidence/
 related_articles:
 - '[[tenets]]'
 - '[[self-concealing-interface]]'
@@ -36,6 +41,7 @@ related_articles:
 - '[[evidential-status-discipline]]'
 - '[[direct-refutation-discipline]]'
 - '[[discrimination-problem]]'
+superseded_by: /topics/memory-channel-interface-evidence/
 title: Recovery-Order Asymmetry as Interface Evidence
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -43,7 +49,7 @@ topics:
 - '[[consciousness-and-memory]]'
 ---
 
-When consciousness is disrupted, the channels of memory and awareness do not fail together — they fail in a fixed order, with the [autonoetic / episodic](/concepts/anoetic-noetic-autonoetic-consciousness/) channel (Tulving 1985) most vulnerable and the procedural / anoetic channel most preserved. The [memory-system vulnerability hierarchy](/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/) develops that ordering as interface evidence. This article develops a feature of the hierarchy that the ordering alone does not capture: the order in which a system degrades is often *not* the mirror image of the order in which it recovers. Autonoetic consciousness is the last channel to return when a deeply anaesthetised brain emerges, yet it is among the first and most prominent channels to return in terminal lucidity — and the difference is not random. The Unfinishable Map reads this *direction-dependence* — recovery-order asymmetry — as a distinct evidence type: it is the *direction* of interface change, not only the substrate state, that the signature tracks.
+When consciousness is disrupted, the channels of memory and awareness do not fail together — they fail in a fixed order, with the [autonoetic / episodic](/concepts/anoetic-noetic-autonoetic-consciousness/) channel (Tulving 1985) most vulnerable and the procedural / anoetic channel most preserved. The [memory-system vulnerability hierarchy](/topics/memory-channel-interface-evidence/) develops that ordering as interface evidence. This article develops a feature of the hierarchy that the ordering alone does not capture: the order in which a system degrades is often *not* the mirror image of the order in which it recovers. Autonoetic consciousness is the last channel to return when a deeply anaesthetised brain emerges, yet it is among the first and most prominent channels to return in terminal lucidity — and the difference is not random. The Unfinishable Map reads this *direction-dependence* — recovery-order asymmetry — as a distinct evidence type: it is the *direction* of interface change, not only the substrate state, that the signature tracks.
 
 The central claim is calibrated narrowly, in keeping with [the evidential-status discipline](/project/evidential-status-discipline/). Recovery-order asymmetry *constrains* production accounts; it does not *establish* the filter reading. A substrate-symmetric production account — one on which the same neural substrate both generates and recovers each channel — predicts, in its simplest form, that recovery should retrace degradation: the last channel to fail should be the first to return, because both orderings are read off the same substrate-vulnerability profile. Asymmetry violates that simplest expectation. Production accounts can recover the asymmetry, but only by adding auxiliary assumptions (direction-specific mechanisms, hysteresis terms, dying-process-specific neuromodulation). The article's claim is that asymmetry raises the cost and specificity demanded of production accounts, not that it rules them out. The filter reading appears to derive a direction-sensitive signature from its core architecture, where production accounts must add one — though the asymmetry data are underdetermined by the evidence on this point, since a production account willing to pay the per-case cost can accommodate every signature the cluster contains.
 
@@ -80,7 +86,7 @@ Recovery-order asymmetry is one member of a broader family of signatures in whic
 - **Abrupt reconnection versus gradual onset.** Dissociative recovery is bridge-reconnection (immediate, complete), not the time-reverse of the gradual onset.
 - **Direction-decoupled timing.** Anaesthetic emergence timing is stochastic and distributed where induction timing tracks drug concentration; the up-trajectory and down-trajectory obey different dynamics ([developed here](/topics/stochastic-emergence-as-quantum-interface-evidence/)).
 
-What unifies the family is that none of these signatures is captured by a substrate-state-at-a-time description. Each requires the explanation to be sensitive to *which way the system is moving*. The signatures are the temporal-derivative face of the same architecture the [vulnerability hierarchy](/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/) reads off the substrate-state face — and that architecture is what [the self-concealing-interface synthesis](/apex/self-concealing-interface/) names as the seam-class register where the Map's evidence can live at all. This family extends the graded-channel-failure seam catalogued there: it adds the direction of interface change to the set of constrained asymmetries, while honouring the same calibration line — these signatures *constrain* production accounts, they do not *establish* the interface reading. They are an instance of [cross-mechanism convergence](/concepts/cross-mechanism-convergence/): anaesthesia, dying, and dissociation share no common neural cause, yet each produces a direction-dependent signature, and that convergence is the explanandum.
+What unifies the family is that none of these signatures is captured by a substrate-state-at-a-time description. Each requires the explanation to be sensitive to *which way the system is moving*. The signatures are the temporal-derivative face of the same architecture the [vulnerability hierarchy](/topics/memory-channel-interface-evidence/) reads off the substrate-state face — and that architecture is what [the self-concealing-interface synthesis](/apex/self-concealing-interface/) names as the seam-class register where the Map's evidence can live at all. This family extends the graded-channel-failure seam catalogued there: it adds the direction of interface change to the set of constrained asymmetries, while honouring the same calibration line — these signatures *constrain* production accounts, they do not *establish* the interface reading. They are an instance of [cross-mechanism convergence](/concepts/cross-mechanism-convergence/): anaesthesia, dying, and dissociation share no common neural cause, yet each produces a direction-dependent signature, and that convergence is the explanandum.
 
 ## What Asymmetry Buys the Filter Reading
 
@@ -113,7 +119,7 @@ The asymmetry is one face of the broader disruption-cluster pattern: channels th
 ## Further Reading
 
 - [direction-of-interface-change](/concepts/direction-of-interface-change/) — The concept home for the four-member signature family this article develops, with the non-independence caution centralised
-- [memory-system-vulnerability-hierarchies-as-interface-evidence](/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/) — The substrate-state face of the same architecture; names this asymmetry as one signature
+- [memory-system-vulnerability-hierarchies-as-interface-evidence](/topics/memory-channel-interface-evidence/) — The substrate-state face of the same architecture; names this asymmetry as one signature
 - [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/) — The substrate-state discriminating-test design space the comparison points toward
 - [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/) — The direction-axis companion: a reversible-perturbation test whose up-ramp and down-ramp orderings the rival readings predict oppositely
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Neural inertia, hysteresis, and the stochastic-emergence anchor case

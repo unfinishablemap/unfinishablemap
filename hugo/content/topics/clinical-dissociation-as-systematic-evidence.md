@@ -41,9 +41,8 @@ related_articles:
 - '[[clinical-phenomenology-and-altered-experience]]'
 - '[[voids/anesthesia-void]]'
 - '[[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]'
-- '[[memory-system-vulnerability-hierarchies-as-interface-evidence]]'
+- '[[memory-channel-interface-evidence]]'
 - '[[conversion-disorder-as-consciousness-side-fault]]'
-- '[[recovery-order-asymmetry-as-interface-evidence]]'
 - '[[phenomenology-of-memory-and-the-self]]'
 - '[[evidential-status-discipline]]'
 - '[[direct-refutation-discipline]]'
@@ -175,8 +174,7 @@ Physicalists can explain this through stress-mediated changes in functional conn
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — When contemplative practices produce interface disruption
 - [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/) — Design space for a focal-perturbation discriminating test; the channel-without-substrate-damage signature this article catalogues motivates the test's structure but the dissociative-states geometry is one the test cannot directly use
 - [conversion-disorder-as-consciousness-side-fault](/topics/conversion-disorder-as-consciousness-side-fault/) — The motor-channel conversion exhibit developed at full resolution as the psychogenic route of the three-route compound signature
-- [memory-system-vulnerability-hierarchies-as-interface-evidence](/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/) — The parent memory-hierarchy article; intact-substrate dissociation is its hardest row
-- [recovery-order-asymmetry-as-interface-evidence](/topics/recovery-order-asymmetry-as-interface-evidence/) — The direction-of-change signature the channel reading predicts
+- [memory-channel-interface-evidence](/topics/memory-channel-interface-evidence/) — The parent memory-hierarchy article (intact-substrate dissociation is its hardest row) and the direction-of-change signature the channel reading predicts
 - [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/) — Mine-ness, pastness, double-presence as the autonoetic channel's internal structure
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Tulving's three modes at the concept tier
 - [evidential-status-discipline](/project/evidential-status-discipline/) — The calibration discipline this article honours

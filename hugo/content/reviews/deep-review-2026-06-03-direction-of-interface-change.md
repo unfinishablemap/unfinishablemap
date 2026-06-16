@@ -47,7 +47,7 @@ This was a cycle-slot deep-review whose scorer pick (score 100, never reviewed) 
 ### Strengths Preserved
 - Exemplary evidential-status discipline: the page states "constrain... do not establish," "not four independent confirmations," credits the family "at the framework-internal-weight register," and reserves tier-elevation for a genuine discriminator. The Hardline-Empiricist register (restraint about minimal-evidence elevation) is the article's spine, not an afterthought.
 - The non-independence caution is the article's reason-for-existing and is sited correctly — stated once, prominently, in the one node every citation passes through (the common-cause-null guard centralised).
-- Clean structural contrast with the substrate-state face ([memory-system-vulnerability-hierarchies-as-interface-evidence](/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/)) and correct genus/species placement within [cross-mechanism-convergence](/concepts/cross-mechanism-convergence/).
+- Clean structural contrast with the substrate-state face ([memory-system-vulnerability-hierarchies-as-interface-evidence](/topics/memory-channel-interface-evidence/)) and correct genus/species placement within [cross-mechanism-convergence](/concepts/cross-mechanism-convergence/).
 
 ### Enhancements Made
 - None (integrity-verify-only). No thin sections; 1790 body words (72% of the 2500 concept soft target) leaves headroom but the page is complete for its narrow cataloguing/calibration purpose.

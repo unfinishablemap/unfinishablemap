@@ -36,7 +36,7 @@ Two Map self-cites (Southgate & Oquatre-sept 2026-05-27 recovery-order-asymmetry
 
 ## Verbatim-Quote Audit
 
-One quote-marked string in the body: *"a focal perturbation producing a channel ordering one reading predicts and the other forbids."* This is a *self-quote* from the source Map article [recovery-order-asymmetry-as-interface-evidence](/topics/recovery-order-asymmetry-as-interface-evidence/) — confirmed verbatim present there. Not an external-source quote; no fabricated-quote risk.
+One quote-marked string in the body: *"a focal perturbation producing a channel ordering one reading predicts and the other forbids."* This is a *self-quote* from the source Map article [recovery-order-asymmetry-as-interface-evidence](/topics/memory-channel-interface-evidence/) — confirmed verbatim present there. Not an external-source quote; no fabricated-quote risk.
 
 ## Wikilink Integrity
 

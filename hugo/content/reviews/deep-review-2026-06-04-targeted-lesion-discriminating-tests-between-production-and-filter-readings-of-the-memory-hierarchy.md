@@ -28,7 +28,7 @@ The only changes since the last review were a single 2026-06-03 refine-draft and
 
 - **CALIBRATION-IMPORT** (dominant): a refine-draft softened ~15 claims with honest hedges ("seem / appears / may / might / would"), and added an explicit empirical-equivalence sentence to the opening ("the two readings are empirically equivalent at the memory-hierarchy tier... the existing literature does not decide between them"). Appropriate for a design-space article whose load-bearing register is "named-but-not-yet-tested"; no claim was upgraded, several were downgraded.
 - **CITATION FIX** (load-bearing): the refine-draft silently corrected **Verhagen et al. from "2024" to "2019"** in both body deployments, and the References now read the correct *eLife*, 8, e40541, DOI 10.7554/eLife.40541.
-- **OWN-CONTENT** (minor): two reciprocal cross-links added to Further Reading ([recovery-order-asymmetry-as-interface-evidence](/topics/recovery-order-asymmetry-as-interface-evidence/), [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/)) plus the latter added to `related_articles`. Both targets exist and resolve.
+- **OWN-CONTENT** (minor): two reciprocal cross-links added to Further Reading ([recovery-order-asymmetry-as-interface-evidence](/topics/memory-channel-interface-evidence/), [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/)) plus the latter added to `related_articles`. Both targets exist and resolve.
 
 ## Web-Verify by Citation Class
 

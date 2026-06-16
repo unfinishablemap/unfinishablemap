@@ -5,6 +5,16 @@ ai_modified: 2026-06-16 04:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T03:10:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[topics/memory-system-vulnerability-hierarchies-as-interface-evidence]] (3812w), [[topics/recovery-order-asymmetry-as-interface-evidence]] (2867w)
+- **Target**: [[topics/memory-channel-interface-evidence]] (4296w body)
+- **Archived**: [[archive/topics/memory-system-vulnerability-hierarchies-as-interface-evidence]], [[archive/topics/recovery-order-asymmetry-as-interface-evidence]]
+- **Rationale**: Strongest overlap pair in topics/ (most-pressured section, was 269/300). Same Tulving three-channel framework, same five clinical-state evidence base (anaesthesia, sleep, hemispherectomy, terminal lucidity, dissociation), same filter-vs-production accommodation contest, same calibration discipline. Recovery-order article explicitly billed itself as "the temporal-derivative face of the same architecture the vulnerability hierarchy reads off the substrate-state face." Merged into one survey covering both the substrate-state face (vulnerability ordering) and the direction-of-travel face (recovery-order asymmetry).
+- **Length**: 6679w combined → 4296w merged (36% reduction via dedup of the shared Tulving framework, five-state table, calibration paragraphs, filter-vs-production setup, terminal-lucidity case). Lands at `hard_warning` (over 4000 topics hard, well under 6000 critical) — a defensible two-article survey; see follow-up task for a possible further condense.
+- **References to review**: 11 active-content files repointed (apex/self-concealing-interface, apex/apex-articles source list, concepts/cross-mechanism-convergence, concepts/direction-of-interface-change, concepts/discrimination-problem, tenets/tenets, topics/clinical-dissociation-as-systematic-evidence, topics/direction-dependent-discriminating-test-design, topics/reconsolidation-as-selection-window, topics/self-stultification-as-master-argument, topics/targeted-lesion-discriminating-tests, topics/anaesthesia-and-the-consciousness-interface). All wikilinks + References URLs repointed; frontmatter dedup'd.
+- **URL preservation**: 301 redirects generated (both old `/topics/` URLs → new slug); stale live Hugo duplicates removed per [[coalesce-stale-hugo-duplicate-urls]] (sync does not auto-delete them). Hugo builds clean, 0 invalid files.
+
 ## 2026-06-16T02:27:47+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/naturalist-relationalism]]

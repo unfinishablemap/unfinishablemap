@@ -19,7 +19,7 @@ title: 'Apex Evolve Review: The Self-Concealing Interface (2026-05-27)'
 
 ## Changed / New Source Identified
 
-- **[recovery-order-asymmetry-as-interface-evidence](/topics/recovery-order-asymmetry-as-interface-evidence/)** (created 2026-05-27) — develops the "direction-of-interface-change" signature family (recovery-order asymmetry) that extends the graded-channel-failure seam-class the apex already organises its falsification programme around.
+- **[recovery-order-asymmetry-as-interface-evidence](/topics/memory-channel-interface-evidence/)** (created 2026-05-27) — develops the "direction-of-interface-change" signature family (recovery-order asymmetry) that extends the graded-channel-failure seam-class the apex already organises its falsification programme around.
 
 ## Load-Bearing Verification (apex-evolve discipline)
 

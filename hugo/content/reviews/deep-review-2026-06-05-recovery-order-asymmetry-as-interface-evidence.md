@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-06-05
-**Article**: [Recovery-Order Asymmetry as Interface Evidence](/topics/recovery-order-asymmetry-as-interface-evidence/)
+**Article**: [Recovery-Order Asymmetry as Interface Evidence](/topics/memory-channel-interface-evidence/)
 **Previous review**: [2026-05-27](/reviews/deep-review-2026-05-27-recovery-order-asymmetry-as-interface-evidence/)
 
 This pass was a mandated EXHAUSTIVE citation audit (clinical / anaesthesia-emergence recency-density zone). Every one of the 8 references was web-verified against the publisher of record for first-author, full co-author vector, title, venue, year, volume/issue, page range, and stance/direction. The previous review (2026-05-27, never-before-reviewed) declared the article stable on creation with "no critical issues" and noted citations were "web-verified at creation." That web-verify was incomplete: three citation-metadata defects survived it. "Converged ≠ verified" held exactly.

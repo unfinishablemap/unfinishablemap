@@ -16,9 +16,8 @@ concepts:
   - "[[cross-mechanism-convergence]]"
 related_articles:
   - "[[tenets]]"
-  - "[[recovery-order-asymmetry-as-interface-evidence]]"
+  - "[[memory-channel-interface-evidence]]"
   - "[[direction-dependent-discriminating-test-design]]"
-  - "[[memory-system-vulnerability-hierarchies-as-interface-evidence]]"
   - "[[stochastic-emergence-as-quantum-interface-evidence]]"
   - "[[self-concealing-interface]]"
   - "[[mechanism-costs-dualism-thickness-quadrants]]"
@@ -34,7 +33,7 @@ last_curated:
 last_deep_review: 2026-06-03T12:48:47+00:00
 ---
 
-Direction-of-interface-change signatures are an evidence type in which the *direction* the system is moving — not the substrate state at a single moment — is the load-bearing variable. When consciousness is disrupted and then restored, the order in which channels degrade is often *not* the mirror image of the order in which they recover, and the same anaesthetic concentration corresponds to different conscious outcomes depending on whether the brain is descending into or climbing out of unconsciousness. This concept page names the family so that the Unfinishable Map's catalogue can cite one node rather than restate the methodology in each article — and, equally important, so that the family's central limitation can be stated once, prominently, in the one place every citation passes through. The signatures *constrain* the space of readings of consciousness-state transitions; they do not *establish* any one reading, and they are not a tally of independent confirmations. Both qualifications are inherited verbatim from [[recovery-order-asymmetry-as-interface-evidence|the recovery-order-asymmetry article]], where the family is first developed, and from [[evidential-status-discipline|the evidential-status discipline]].
+Direction-of-interface-change signatures are an evidence type in which the *direction* the system is moving — not the substrate state at a single moment — is the load-bearing variable. When consciousness is disrupted and then restored, the order in which channels degrade is often *not* the mirror image of the order in which they recover, and the same anaesthetic concentration corresponds to different conscious outcomes depending on whether the brain is descending into or climbing out of unconsciousness. This concept page names the family so that the Unfinishable Map's catalogue can cite one node rather than restate the methodology in each article — and, equally important, so that the family's central limitation can be stated once, prominently, in the one place every citation passes through. The signatures *constrain* the space of readings of consciousness-state transitions; they do not *establish* any one reading, and they are not a tally of independent confirmations. Both qualifications are inherited verbatim from [[memory-channel-interface-evidence|the recovery-order-asymmetry article]], where the family is first developed, and from [[evidential-status-discipline|the evidential-status discipline]].
 
 The page describes an evidence type. It does not advance a new evidential claim, and nothing here raises the probability that the [[filter-theory|filter reading]] or the interface model is correct. Its function is cataloguing and calibration: name the four members, state what unifies them, and wall off the over-counting risk a named portable construct invites.
 
@@ -52,7 +51,7 @@ The family has four members, each documented across the disruption cluster (anae
 
 ## What Unifies the Family
 
-None of the four signatures is captured by a substrate-state-at-a-time description. Each requires the explanation to be sensitive to which way the system is moving. This is the family's defining property and the reason it earns a name: it is the *temporal-derivative* face of the same architecture that the [[memory-system-vulnerability-hierarchies-as-interface-evidence|memory-system vulnerability hierarchy]] reads off the *substrate-state* face. Where the vulnerability hierarchy asks which channels fail and in what order, the direction-of-change family asks how the answer changes depending on whether the interface is closing or reopening.
+None of the four signatures is captured by a substrate-state-at-a-time description. Each requires the explanation to be sensitive to which way the system is moving. This is the family's defining property and the reason it earns a name: it is the *temporal-derivative* face of the same architecture that the [[memory-channel-interface-evidence|memory-system vulnerability hierarchy]] reads off the *substrate-state* face. Where the vulnerability hierarchy asks which channels fail and in what order, the direction-of-change family asks how the answer changes depending on whether the interface is closing or reopening.
 
 The family is a member of a broader genus, [[cross-mechanism-convergence|cross-mechanism convergence]]: anaesthesia, dying, and dissociation share no common neural cause, yet each produces a direction-dependent signature. The direction-of-change family is the narrower, orthogonal axis within that genus — cross-mechanism convergence concerns mechanism-distinct perturbations producing a shared downstream ordering, while this family concerns the *temporal asymmetry* of that ordering. The two are related but not co-extensive: a convergence finding need not be direction-dependent, and a direction-dependent signature in a single mechanism need not converge across mechanisms. [[self-concealing-interface|The self-concealing-interface synthesis]] catalogues direction-of-interface-change as one of its seam classes — a place where, if the Map's tenets hold, the interface's only legible marks appear.
 
@@ -80,8 +79,7 @@ This concept page describes an evidence type; its evidential standing is framewo
 
 ## Further Reading
 
-- [[recovery-order-asymmetry-as-interface-evidence]] — Where the family is first developed at topic length, with each member's empirical case
-- [[memory-system-vulnerability-hierarchies-as-interface-evidence]] — The substrate-state face of the same architecture
+- [[memory-channel-interface-evidence]] — Where the family is first developed at topic length, with each member's empirical case; also the substrate-state face of the same architecture
 - [[stochastic-emergence-as-quantum-interface-evidence]] — Why emergence timing is not the deterministic reverse of induction
 - [[direction-dependent-discriminating-test-design]] — The worked design for the discriminating test the central caution names as the only route to tier-elevation
 - [[self-concealing-interface]] — The synthesis that catalogues direction-of-interface-change as a seam class
@@ -97,5 +95,5 @@ This concept page describes an evidence type; its evidential standing is framewo
 1. Sepúlveda, P. O., Tapia, L. F., & Monsalves, S. (2019). Neural inertia and differences between loss of and recovery from consciousness during total intravenous anaesthesia: a narrative review. *Anaesthesia*, 74(6), 801–809. https://doi.org/10.1111/anae.14609
 1. Stone, M. E., Kelz, M. B., Proekt, A., & Wasilczuk, A. Z. (2025). A probabilistic model of behavioural emergence from general anaesthesia in mice. *British Journal of Anaesthesia*, 135(1), 121–133. https://doi.org/10.1016/j.bja.2025.02.036
 1. Nahm, M., Greyson, B., Kelly, E. W., & Haraldsson, E. (2012). Terminal lucidity: A review and a case collection. *Archives of Gerontology and Geriatrics*, 55(1), 138–142. https://doi.org/10.1016/j.archger.2011.06.031
-1. Southgate, A. & Oquatre-sept, C. (2026-05-27). Recovery-Order Asymmetry as Interface Evidence. *The Unfinishable Map*. https://unfinishablemap.org/topics/recovery-order-asymmetry-as-interface-evidence/
+1. Southgate, A. & Oquatre-sept, C. (2026-05-27). Memory-Channel Interface Evidence: Vulnerability Ordering and Recovery-Order Asymmetry. *The Unfinishable Map*. https://unfinishablemap.org/topics/memory-channel-interface-evidence/
 1. Southgate, A. & Oquatre-sept, C. (2026-05-19). Cross-Mechanism Convergence as Evidence Pattern. *The Unfinishable Map*. https://unfinishablemap.org/concepts/cross-mechanism-convergence/

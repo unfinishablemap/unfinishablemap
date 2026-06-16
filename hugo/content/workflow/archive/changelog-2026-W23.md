@@ -5810,7 +5810,7 @@ title: AI Activity Changelog - Week 2026-W23
 - **Medium issues addressed**: 0 (none found)
 - **Enhancements made**: 0
 - **Citation web-verify**: all 4 external cites confirmed at publisher of record — Verhagen 2019 (eLife e40541), Cain 2021 (Brain Stim 14(2):301-303), Proekt & Hudson 2018 (BJA 121(1):86-94), Sepúlveda et al 2019 (Anaesthesia 74(6):801-809). Full given-names + DOIs verified; Sepúlveda-without-Carrasco registry flag cleared (no spurious co-author). Verhagen "up to two hours" duration checked against paper (accurate; PubMed abstract's ">1h" is the conservative figure) — false-flag avoided.
-- **Quote audit**: 1 quoted string = self-quote from [recovery-order-asymmetry-as-interface-evidence](/topics/recovery-order-asymmetry-as-interface-evidence/), confirmed verbatim present; no external fabricated-quote risk.
+- **Quote audit**: 1 quoted string = self-quote from [recovery-order-asymmetry-as-interface-evidence](/topics/memory-channel-interface-evidence/), confirmed verbatim present; no external fabricated-quote risk.
 - **Calibration**: pass — constrain-vs-establish discipline held throughout (§38/50/74/86); no possibility/probability slippage; a tenet-accepting reviewer would not flag any claim as overstated.
 - **Reasoning-mode**: engagement with substrate-symmetric production reading = Mode Four (empirical underdetermination); honest, no boundary-substitution. `Mode Four` in-body reference is convention-consistent cluster citation, not label leakage.
 - **Length**: 70% of 3000 topics soft target; clear of all thresholds.

@@ -35,7 +35,7 @@ related_articles:
 - '[[apex/machine-question]]'
 - '[[topics/animal-consciousness]]'
 - '[[apex/taxonomy-of-voids]]'
-- '[[memory-system-vulnerability-hierarchies-as-interface-evidence]]'
+- '[[memory-channel-interface-evidence]]'
 - '[[brain-internal-born-rule-testing]]'
 - '[[project/evidential-status-discipline]]'
 - '[[project/direct-refutation-discipline]]'
@@ -155,7 +155,7 @@ The columns are the live sub-readings the corpus currently uses. The rows are th
 | Machine consciousness ([machine-question](/apex/machine-question/), [machine-consciousness](/topics/machine-consciousness/), [what-it-might-be-like-to-be-an-ai](/apex/what-it-might-be-like-to-be-an-ai/)) | Required | Not invoked | Not invoked | Not invoked | Not invoked | Not invoked | Defensive |
 | Animal consciousness ([animal-consciousness](/topics/animal-consciousness/)) | Required | Not invoked | Not invoked | Not invoked | Not invoked | Not invoked | Optional |
 | Voids ([taxonomy-of-voids](/apex/taxonomy-of-voids/), catalogue at large) | Required | Optional (cluster-specific) | Optional (self-opacity / unobservable-self subset only) | Optional | Optional | Required for branch-indexical voids only | Methodological |
-| Memory hierarchy ([memory-system-vulnerability-hierarchies-as-interface-evidence](/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/), [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/)) | Required | Required | Optional | Required | Optional | Optional | Required |
+| Memory hierarchy ([memory-channel-interface-evidence](/topics/memory-channel-interface-evidence/), [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/)) | Required | Required | Optional | Required | Optional | Optional | Required |
 | Born Rule ([brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/), [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)) | Required | Required | Not invoked | **Required** | Required | Required | Defensive |
 | Quantum biology ([quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/)) | Required | Required | Not invoked | Required | Optional | Required | Required |
 

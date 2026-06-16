@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-06-16 00:00:00+00:00
+ai_modified: 2026-06-16 04:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -125,6 +125,8 @@ The Map's framework suggests that [phenomenal binding](/concepts/binding-problem
 
 The philosophy of perception asks what happens when someone sees a red apple, hears a trumpet, or feels the warmth of sunlight. Three families of theory compete: direct realism (perception puts us in direct contact with mind-independent objects), indirect realism (perception is mediated by mental representations), and idealism (the "external" world is constituted by mind).
 
+The sharpest contemporary form of direct realism is [naturalist-relationalism](/concepts/naturalist-relationalism/) (naive realism, the relational view), on which a veridical experience fundamentally consists in a relation of acquaintance to mind-independent objects that are themselves constituents of its phenomenal character. The Map engages it as its strongest non-dualist rival rather than an ally: relationalism honours the same transparency and directness the Map prizes, yet locates nothing experiential on the subject's side, defending that move against illusion and hallucination through objective "looks" and disjunctivism. Its strain, on the Map's reading, is that it relocates qualitative character into a perceiver–world relation while leaving unexplained why that relation is felt from the inside at all.
+
 Under physicalism, these debates unfold within a single ontological layer. Dualism changes the terrain. If consciousness is ontologically distinct from the physical, then the perceptual relation crosses an ontological boundary. Light strikes the retina, neurons fire, and at some point experience arises in a domain that is not itself physical. This boundary crossing opens possibilities that physicalist theories foreclose. The Map's position is a hybrid indirect realism: the phenomenal interface is itself constitutive — neither private theatre nor unmediated contact, but the experiential face of an interaction across the divide.
 
 ### The Problem of Perceptual Qualities
@@ -153,7 +155,7 @@ This is speculative, and the Map does not claim it as established. Whether consc
 
 ## Beyond the Visual
 
-While vision dominates philosophical discussions, perception extends across modalities — auditory, tactile, olfactory, gustatory, proprioceptive, vestibular — and these modalities interact. Equally instructive is the contrast between perception and other phenomenal states: a mental image of a tiger is vague where a perceived tiger is precise; an imagined melody can be paused where a heard one unfolds with perceptual authority. Consciousness varies in structure across this continuum, and any adequate theory must accommodate that variation. [Auditory consciousness](/topics/auditory-consciousness-and-the-interface/) develops the hearing case in detail—temporal unfolding, auditory scene analysis as a binding problem without spatial scaffolding, and the non-spatial character of pitch and timbre qualia. [Chemosensory consciousness](/topics/chemosensory-consciousness-and-the-interface/) develops the chemical senses—smell and taste—where the stimulus-percept gap is sharpest: mirror-image molecules smell different, odour quality space has no tidy geometry to read off, and flavour binds across channels that share no spatial frame.
+While vision dominates philosophical discussions, perception extends across modalities — auditory, tactile, olfactory, gustatory, proprioceptive, vestibular — and these modalities interact. Equally instructive is the contrast between perception and other phenomenal states: a mental image of a tiger is vague where a perceived tiger is precise; an imagined melody can be paused where a heard one unfolds with perceptual authority. Consciousness varies in structure across this continuum, and any adequate theory must accommodate that variation. [Auditory consciousness](/topics/auditory-consciousness-and-the-interface/) develops the hearing case in detail—temporal unfolding, auditory scene analysis as a binding problem without spatial scaffolding, and the non-spatial character of pitch and timbre qualia. [Chemosensory consciousness](/topics/chemosensory-consciousness-and-the-interface/) develops the chemical senses—smell and taste—where the stimulus-percept gap is sharpest: mirror-image molecules smell different, odour quality space has no tidy geometry to read off, and flavour binds across channels that share no spatial frame. [Tactile consciousness](/topics/tactile-consciousness-and-the-interface/) develops touch, the modality that supplies what the distance senses cannot: perception that constitutively requires movement (active haptics), a perceiver who is also perceived (the touching-touched hand), affect woven into the contact itself, and a felt body whose boundary the rubber-hand illusion can move.
 
 ## Relation to Site Perspective
 

@@ -20,7 +20,7 @@ topics: []
 **Article**: [Stochastic Emergence as Quantum-Interface Evidence](/topics/stochastic-emergence-as-quantum-interface-evidence/)
 **Previous review**: [2026-05-27](/reviews/deep-review-2026-05-27-stochastic-emergence-as-quantum-interface-evidence/)
 
-This is the second deep review. Trigger: the article was modified since the 2026-05-27 review (two sibling articles were created post-review — [recovery-order-asymmetry-as-interface-evidence](/topics/recovery-order-asymmetry-as-interface-evidence/) and [direction-of-interface-change](/concepts/direction-of-interface-change/) — and cross-links to both were added; a refine pass also corrected the Hu et al. 2023 citation). The task mandated an EXHAUSTIVE citation audit ("converged ≠ verified") plus a physics-accuracy and calibration watch. Both were performed.
+This is the second deep review. Trigger: the article was modified since the 2026-05-27 review (two sibling articles were created post-review — [recovery-order-asymmetry-as-interface-evidence](/topics/memory-channel-interface-evidence/) and [direction-of-interface-change](/concepts/direction-of-interface-change/) — and cross-links to both were added; a refine pass also corrected the Hu et al. 2023 citation). The task mandated an EXHAUSTIVE citation audit ("converged ≠ verified") plus a physics-accuracy and calibration watch. Both were performed.
 
 ## Exhaustive Citation Audit
 
@@ -58,7 +58,7 @@ No label leakage (grep-confirmed: no editor-vocabulary terms in prose).
 
 ## Changes Made
 
-- **Repointed the in-body family cross-link (length-neutral, calibration-strengthening).** Line ~101's "family of direction-of-interface-change signatures" linked to the *member* article ([recovery-order-asymmetry-as-interface-evidence](/topics/recovery-order-asymmetry-as-interface-evidence/)); repointed to the canonical *family* concept node [direction-of-interface-change](/concepts/direction-of-interface-change/) (the page built to "cite one node"), and imported its central non-independence caution ("four views of one architecture, credited once, not four independent confirmations"). This strengthens the article's existing cluster-coherence discipline. The recovery-order topic article remains linked in Further Reading.
+- **Repointed the in-body family cross-link (length-neutral, calibration-strengthening).** Line ~101's "family of direction-of-interface-change signatures" linked to the *member* article ([recovery-order-asymmetry-as-interface-evidence](/topics/memory-channel-interface-evidence/)); repointed to the canonical *family* concept node [direction-of-interface-change](/concepts/direction-of-interface-change/) (the page built to "cite one node"), and imported its central non-independence caution ("four views of one architecture, credited once, not four independent confirmations"). This strengthens the article's existing cluster-coherence discipline. The recovery-order topic article remains linked in Further Reading.
 
 ## Strengths Preserved (do not change)
 

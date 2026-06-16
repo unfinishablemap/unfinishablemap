@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-31
-ai_modified: 2026-06-16 00:00:00+00:00
+ai_modified: 2026-06-16 04:00:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: 'Hearing supplies what vision lacks: melody unfolding in time, audi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-31 15:08:02+00:00
+last_deep_review: 2026-06-16 01:11:16+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'
@@ -77,6 +77,7 @@ The Map does not claim audition settles dualism. It claims audition is evidence 
 - [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) — the aesthetic and temporal phenomenology of music specifically, complementary to this modality-level treatment
 - [temporal-consciousness](/concepts/temporal-consciousness/) — the specious present and the durational structure heard sound makes vivid
 - [chemosensory-consciousness-and-the-interface](/topics/chemosensory-consciousness-and-the-interface/) — the chemical-sense companion: smell and taste supply a stimulus-percept gap without spatial scaffolding, a non-Euclidean quality space, and flavour as binding
+- [tactile-consciousness-and-the-interface](/topics/tactile-consciousness-and-the-interface/) — the touch companion: active haptics requires movement, the touching hand is also touched, affect is woven into contact, and the felt body boundary is movable
 
 ## References
 

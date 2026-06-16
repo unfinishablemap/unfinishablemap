@@ -30,7 +30,7 @@ related_articles:
   - "[[apex/machine-question]]"
   - "[[topics/animal-consciousness]]"
   - "[[apex/taxonomy-of-voids]]"
-  - "[[memory-system-vulnerability-hierarchies-as-interface-evidence]]"
+  - "[[memory-channel-interface-evidence]]"
   - "[[brain-internal-born-rule-testing]]"
   - "[[project/evidential-status-discipline]]"
   - "[[project/direct-refutation-discipline]]"
@@ -152,7 +152,7 @@ The columns are the live sub-readings the corpus currently uses. The rows are th
 | Machine consciousness ([[apex/machine-question]], [[topics/machine-consciousness]], [[apex/what-it-might-be-like-to-be-an-ai]]) | Required | Not invoked | Not invoked | Not invoked | Not invoked | Not invoked | Defensive |
 | Animal consciousness ([[topics/animal-consciousness]]) | Required | Not invoked | Not invoked | Not invoked | Not invoked | Not invoked | Optional |
 | Voids ([[apex/taxonomy-of-voids]], catalogue at large) | Required | Optional (cluster-specific) | Optional (self-opacity / unobservable-self subset only) | Optional | Optional | Required for branch-indexical voids only | Methodological |
-| Memory hierarchy ([[memory-system-vulnerability-hierarchies-as-interface-evidence]], [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]) | Required | Required | Optional | Required | Optional | Optional | Required |
+| Memory hierarchy ([[memory-channel-interface-evidence]], [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]) | Required | Required | Optional | Required | Optional | Optional | Required |
 | Born Rule ([[brain-internal-born-rule-testing]], [[born-rule-and-the-consciousness-interface]]) | Required | Required | Not invoked | **Required** | Required | Required | Defensive |
 | Quantum biology ([[quantum-biology-and-neural-consciousness]]) | Required | Required | Not invoked | Required | Optional | Required | Required |
 

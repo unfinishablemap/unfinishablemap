@@ -77,7 +77,7 @@ by "correcting" Mashour et al. → "Mashour and Bharioke").
   to Mashour, G. A. (2024), *Neuron* 112(10), 1553–1567. (Orphaned, uncited in
   body, AND misattributed — fixed the attribution.)
 - [topics/consciousness-disruption-and-the-mind-brain-interface.md](/topics/consciousness-disruption-and-the-mind-brain-interface/) ref 5 AND
-  [topics/memory-system-vulnerability-hierarchies-as-interface-evidence.md](/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/)
+  [topics/memory-system-vulnerability-hierarchies-as-interface-evidence.md](/topics/memory-channel-interface-evidence/)
   ref 1: Hu reference was "Hu, B., et al. (2023) ... *Neuron*" (wrong initial,
   wrong venue) → corrected to Hu, J.-J. et al. (2023), *Nature Neuroscience*
   26, 751–764, with DOI.

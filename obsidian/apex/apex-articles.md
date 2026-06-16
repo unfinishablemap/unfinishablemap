@@ -603,7 +603,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - tenets/tenets
 - topics/brain-internal-born-rule-testing
 - topics/forward-in-time-conscious-selection
-- topics/memory-system-vulnerability-hierarchies-as-interface-evidence
+- topics/memory-channel-interface-evidence
 - apex/attention-as-causal-bridge
 - apex/introspection-architecture-void-cluster
 - apex/taxonomy-of-voids
