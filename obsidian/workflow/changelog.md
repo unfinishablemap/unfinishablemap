@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-16 04:52:03+00:00
+ai_modified: 2026-06-16 05:11:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-16T05:11:00+00:00 - check-tenets
+- **Status**: Warnings
+- **Files checked**: 535 (269 topics, 262 concepts, 4 positions)
+- **Errors**: 0
+- **Warnings**: 1
+- **Notes**: 2
+- **Output**: [[reviews/tenet-check-2026-06-16]]
 
 ## 2026-06-16T06:30:00+00:00 - refine-draft
 - **Status**: Success
