@@ -4,8 +4,8 @@ description: "A 2025 study found genetically identical mice show anaesthetic-eme
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-06-05T21:45:00+00:00
-last_deep_review: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-06-16T00:00:00+00:00
+last_deep_review: 2026-06-16T00:00:00+00:00
 draft: false
 topics:
   - "[[anaesthesia-and-the-consciousness-interface]]"
