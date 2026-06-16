@@ -4,8 +4,8 @@ description: "Why memory channels fail in a fixed order across anaesthesia, slee
 created: 2026-05-19
 modified: 2026-06-16
 human_modified:
-ai_modified: 2026-06-16T02:55:00+00:00
-last_deep_review: 2026-06-16T02:55:00+00:00
+ai_modified: 2026-06-16T04:30:00+00:00
+last_deep_review: 2026-06-16T04:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
