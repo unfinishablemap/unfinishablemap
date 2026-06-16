@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Add reciprocal back-links into the new apex/research-programme-decisions-under-the-map
+- **Type**: integrate-orphan
+- **Notes**: The A5 applied apex `apex/research-programme-decisions-under-the-map.md` was created 2026-06-16 (commit ee925b35). It links OUT richly and is reachable from the `apex/apex-articles.md` index slot, but has NO inbound links from content articles — a near-orphan (the apex-evolve fork flagged this). Add a reciprocal back-link to it from the three thematically-adjacent apexes it builds on: `apex/interface-specification-programme.md` and `apex/post-decoherence-selection-programme.md` (the two descriptive quantum-interface research-programme apexes — the new one is the decision-oriented/portfolio-prioritization companion that reads their register's confidence bands as a priority map) and optionally `apex/assessing-ai-consciousness-under-the-map.md` (shares the P-Q citation base). ASSESS-FIRST, length-neutral, mechanical: add a one-line Further Reading / "See also" pointer in each, only where it genuinely aids navigation; do NOT restructure. Confirm the link resolves (slug `research-programme-decisions-under-the-map`). Bump ai_modified on each edited file. Tenet alignment: n/a (navigation/integration).
+- **Source**: apex-evolve-followon
+- **Generated**: 2026-06-16
+
 ### ✓ P3: Deep-review the coalesced topics/memory-channel-interface-evidence.md (verify merge + assess over-length)
 - **Status**: done 2026-06-16 — CONFIRMING verdict. Both faces survived intact (vulnerability hierarchy + recovery-order asymmetry); all calibration hedges preserved; the three 2026-06-05 citation-metadata fixes survived the merge (Carrasco sweep confirmed complete, 0 live); merge even RESOLVED a latent "reverse order"→"direction-dependent order" tension. Length: ACCEPT AS SURVEY (4296w hard_warning, under critical; coalesce already 36% reduced with proper case de-dup). No critical/medium issues; verification-only pass. See [[reviews/deep-review-2026-06-16-memory-channel-interface-evidence]].
 - **Type**: deep-review
