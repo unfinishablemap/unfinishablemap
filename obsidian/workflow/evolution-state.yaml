@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-16T07:23:48.983318+00:00'
-session_count: 11292
-cycle_position: 9158
+last_updated: '2026-06-16T07:29:22.444570+00:00'
+session_count: 11293
+cycle_position: 9159
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-16T05:51:41.234313+00:00'
   optimistic-review: '2026-06-16T06:48:31.838762+00:00'
   check-tenets: '2026-06-16T05:12:41.533946+00:00'
   check-links: '2026-06-15T22:47:09.324541+00:00'
-  deep-review: '2026-06-16T06:20:51.649394+00:00'
+  deep-review: '2026-06-16T07:29:22.444570+00:00'
   tune-system: '2026-06-15T12:41:35.415464+00:00'
   research-voids: '2026-06-15T22:51:15.168171+00:00'
   coalesce: '2026-06-16T03:14:27.639524+00:00'
@@ -87,7 +87,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 396
-  reviews_completed: 5349
+  reviews_completed: 5350
   apex_articles: 34
 quality:
   critical_issues: 0
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-06-16'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-16'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-16'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-16'
   outcome: success
 agentic_social:
@@ -1014,56 +1014,53 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 0
-  last_replenishment: '2026-06-16T08:30:00+00:00'
+  last_replenishment: '2026-06-16T08:45:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-16 run #85 (standard mode) - HONEST NO-OP,
+  current_replenishment_note: '2026-06-16 run #86 (standard mode) - HONEST NO-OP,
     0 minted. Note OVERWRITTEN in place per replenish-note-bare-hash-breaks-yaml (no
     new dated key, no bare hash outside this quoted scalar, no stray quote, no sentinel
-    token). Only ONE commit since run #84 (29132a5fc): c107a5a38 auto(refine-draft)
-    "[outer-review 2026-06-16] Larger methodology proposals from the full-site audit"
-    - it touched ONLY workflow files (current-queue-task.json, evolution-state.yaml,
-    todo.md), NO content article: the assess-first concluded the proposals are operator/architecture
-    decisions, so it made no article edit and closed its own outer-review task. A
-    refine-draft with no content change owes NO chain (chains are research-topic->expand-topic->cross-review).
+    token). Only ONE commit since run #85 (6720ed39d): da9dc09dd auto(deep-review)
+    on topics/conversion-disorder-as-consciousness-side-fault.md - a 3rd-pass convergence/no-op
+    deep-review (convergence-damping in effect, score 14). Its review file states verbatim
+    "no critical, medium, or actionable issues" and "None requiring a follow-up task";
+    the only body change was a calibration paragraph front-loading the two-tier FND
+    discount, no new citations or factual claims. A no-finding deep-review owes NO chain.
     loop_pickable_open remains 0: the open Active items are BOTH non-pickable holding-pens
     (the duhem-quine HUMAN LENGTH DECISION pair - ### header not P{N}, explicit human
     call; the two condense P2s are #veto-tagged). 0 pickable is below the floor of
     3 but do NOT fabricate a task (documented replenish-at-floor steady state, unfin_loop_steady_state
     + p3-only-floor-preemption-starves); the floor fills organically as cycle deep-review/coalesce/pessimistic
     slots and the next outer-review synthesis emit pickable work. SOURCE-BY-SOURCE
-    (all re-run on disk THIS run): CHAINS (S1) 0 - the only commit is a workflow-only
-    refine, no content change, no chain owed. UNCONSUMED RESEARCH (S2) 0 - the two
-    newest 2026-06-16 notes stay consumed (naturalist-relationalism-as-a-non-dualist-rival-in-perception
+    (all re-run on disk THIS run): CHAINS (S1) 0 - the only commit is a no-finding
+    deep-review, no chain owed. UNCONSUMED RESEARCH (S2) 0 - the two newest 2026-06-16
+    notes stay consumed (naturalist-relationalism-as-a-non-dualist-rival-in-perception
     -> concepts/naturalist-relationalism.md verified on disk; chemosensory-consciousness-and-the-interface-olfaction-and-gustation
     -> topics/chemosensory-consciousness-and-the-interface.md verified on disk). GAPS
     (S3) 0 - mature saturated corpus. STALENESS (S4) 0 mintable - cycle deep-review
-    slots handle it. LENGTH (S6) 0 mintable - canonical get_length_warnings hard+
-    LIVE-content list is 26 non-research offenders, IDENTICAL to run #84: positions/quantum-interface.md
+    slots handle it (this run''s da9dc09dd is one such). LENGTH (S6) 0 mintable - canonical
+    get_length_warnings hard+ LIVE-content list unchanged from run #85: positions/quantum-interface.md
     2507w (+7w over 2500 positions hard, documented-and-PROTECTED single-cohesive-domain
     decision - splitting severs intra-file [[P-QN]] dependency links - NOT mintable);
     human-DEFERRED flagships (epistemology-of-convergence 6479w, born-rule 5106w,
     clinical-dissociation 4861w, time-collapse 4606w, laws-and-dispositions 4213w
-    - in Blocked); veto-tagged condense P2s already in Active (phenomenal-output 6832w
+    - in Blocked); veto-tagged condense P2s already in Active (phenomenal-output 6989w
     + meaning-of-life 4160w); index/apex hubs (apex-articles 6963w, machine-question
     5001w deep-reviewed); over-cap voids (edge-states 3482w, agency-void 3174w, what-voids-reveal
     3019w, wholeheartedness-void 3006w - voids OVER cap 101/100); memory-channel-interface-evidence
     4296w deep-review-verified-as-survey 2026-06-16; recently-condensed-and-stable
     (argument-from-reason 4489w, epistemic-advantages 4400w, predictive-processing
     3597w, filter-theory 3500w at-hard); OR borderline 4021-4106w topics ALL deep-reviewed
-    within ~2wk (composition-question-rivals 4106w, valence 4092w, qm-interpretations
-    4065w, quantum-biology 4050w, composition 4043w, simple-organisms 4025w, phenomenal-authority
-    4022w, introspection-scoring 4021w) - minting condense on freshly-reviewed marginally-over
-    articles would regress validated content; research/* excluded (no ceiling). ORPHANS
-    (S5) 0 (quality.orphaned_files 0). OUTER REVIEWS: 2026-06-16 cycle fully processed,
-    synthesized (outer-review-synthesis-2026-06-16.md exists), all entries collected/none
-    pending, all minted tasks executed (incl the c107a5a38 methodology-proposals close);
-    no pending entry owes a replenish action. POSITIONS add (S7a) 0; update (S7b)
-    0 - no content article a position cites changed this cycle; audit (S7c) NOT due
-    (last positions-audit-2026-06-09, within 30d). APPLIED-APEX (S8) 0 - register
-    at 3 domain files, no new high-confidence cluster gap. Sections on disk (find,
-    excl section-index): topics 268/300, concepts 261/300, voids 101/100 OVER cap,
-    positions 3 domain files / 80 cap, apex 34. State YAML re-validated post-edit.
-    (Run #84 historical context superseded by this note.)'
+    within ~2wk - minting condense on freshly-reviewed marginally-over articles would
+    regress validated content; research/* excluded (no ceiling). ORPHANS (S5) 0 (quality.orphaned_files
+    0). OUTER REVIEWS: 2026-06-16 cycle fully processed, synthesized (outer-review-synthesis-2026-06-16.md
+    exists), all entries collected/none pending, all minted tasks executed; no pending
+    entry owes a replenish action. POSITIONS add (S7a) 0; update (S7b) 0 - no content
+    article a position cites changed this cycle (conversion-disorder is not register-cited);
+    audit (S7c) NOT due (last positions-audit-2026-06-09, within 30d). APPLIED-APEX
+    (S8) 0 - register at 3 domain files, no new high-confidence cluster gap. Sections
+    on disk (find, excl section-index): topics 268/300, concepts 261/300, voids 101/100
+    OVER cap, positions 3 domain files / 80 cap, apex 34. State YAML re-validated post-edit.
+    (Run #85 historical context superseded by this note.)'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
