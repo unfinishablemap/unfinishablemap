@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-06-14 05:02:46+00:00
+ai_modified: 2026-06-16 03:59:24+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts:
@@ -37,7 +37,9 @@ topics:
 
 These positions cover what the Map currently holds about the mechanism by which consciousness influences quantum-indeterminate outcomes in neural systems: which mechanism class is preferred, how the Born rule is treated, the scope and minimality constraints on the interaction, and where the programme remains incomplete. The cluster sits downstream of Tenets 2 (Minimal Quantum Interaction) and 3 (Bidirectional Interaction); none of these positions are themselves tenets but each follows from a tenet plus argument or evidence and could be retired without disturbing the foundational commitments.
 
-This file runs over the soft per-domain length advisory (≈1900 words against a 1500 soft / 2500 hard threshold). A 2026-06-08 split assessment kept it as one domain deliberately: the ten positions form a single densely-interlocked dependency graph that crosses any candidate sub-boundary (P-Q5 depends on the empirical P-Q6; P-Q9 depends on Born-rule P-Q2/P-Q7 *and* mechanism P-Q5/P-Q6; the meta-position P-Q10 ranges over P-Q1/P-Q2/P-Q3/P-Q7/P-Q9). Fragmenting into mechanism / Born-rule / empirical files would sever these intra-file `[[P-XN]]` links, which the register schema resolves only within a file. The domain is cohesive, not a conflation of separable domains, so it is held over soft rather than split to hit a number (soft ≠ hard).
+This file runs over the soft per-domain length advisory (1500 soft / 2500 hard threshold). A 2026-06-08 split assessment kept it as one domain deliberately: the ten positions form a single densely-interlocked dependency graph that crosses any candidate sub-boundary (P-Q5 depends on the empirical P-Q6; P-Q9 depends on Born-rule P-Q2/P-Q7 *and* mechanism P-Q5/P-Q6; the meta-position P-Q10 ranges over P-Q1/P-Q2/P-Q3/P-Q7/P-Q9). Fragmenting into mechanism / Born-rule / empirical files would sever these intra-file `[[P-XN]]` links, which the register schema resolves only within a file. The domain is cohesive, not a conflation of separable domains, so it is held over soft rather than split to hit a number (soft ≠ hard).
+
+**Mechanism-debt convention.** P-Q3 (the bias-without-deviation dilemma) and P-Q10 (no worked toy model) together constitute the Map's *mechanism debt*. Downstream applied articles that claim consciousness "does causal work" — agency, motor selection, value-sensitive selection, placebo, functional neurological disorder — inherit this debt rather than discharging it, and should not read more confident than the register does upstream. The stable link target `[[positions/quantum-interface#^mechanism-debt]]` resolves to the P-Q3 framing below, so a downstream page can deep-link back to the crux in one anchor rather than reciting it. P-Q3 and P-Q9 state honestly what the debt costs.
 
 ## Positions
 
@@ -68,11 +70,12 @@ This file runs over the soft per-domain length advisory (≈1900 words against a
 
 - **Status**: live
 - **Confidence**: moderate
-- **Asserts**: The default MQI reading faces a real philosophical-of-physics challenge: to be genuine *selection* the influence must do something the unbiased Born distribution does not, but to be *minimal and undetectable* it must not deviate from Born statistics. The Map currently treats this as the strongest challenge to answer, not as a refutation, and locates the resolution in the per-trial-vs-ensemble distinction and the indexical character of which outcome an experiencing subject actualises. The challenge is acknowledged as under-confronted in the current corpus and is on the active task list.
+- **Asserts**: The default MQI reading faces a real philosophical-of-physics challenge: to be genuine *selection* the influence must do something the unbiased Born distribution does not, but to be *minimal and undetectable* it must not deviate from Born statistics. If the aggregate statistics are exactly preserved (P-Q2) and the selected outcome is observer-indistinguishable from an unselected one, the position sits genuinely close to epiphenomenalism — a framework-boundary pressure the Map marks honestly rather than treats as dissolved. The Map currently treats this as the strongest challenge to answer, not as a refutation, and locates a *candidate* resolution in the per-trial-vs-ensemble distinction and the indexical character of which outcome an experiencing subject actualises; whether that move discharges the epiphenomenalism worry or merely relocates it is the open question. The challenge is acknowledged as under-confronted in the current corpus and is on the active task list. <span id="mechanism-debt"></span>
 - **Depends on**: P-Q2; Stapp–Bourget formulation; Chalmers and McQueen (2022)
 - **Argued in**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) (lightly); [ensemble-level-epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) gives the sharpest route-by-route statement of this exact corridor-channel-vs-idleness question (trumping route and minimum-outside-the-corridor route, each rated honestly), though it does not resolve the dilemma; a deeper positive engagement remains pending and is tracked in the outer-review task queue
 - **Would shift if**: the per-trial-vs-ensemble move is shown to collapse on closer analysis (e.g., the indexical reading turns out to require something stronger than the corridor permits); or a positive account of how the bias makes a phenomenological difference without making a statistical one is worked out and survives review.
-- **Last reviewed**: 2026-06-04
+- **Updated 2026-06-16**: added the stable `^mechanism-debt` anchor here and a *Mechanism-debt convention* note in the domain header (outer-review-2026-06-16 ChatGPT, §1.4/§2.2/§3.1) so downstream applied articles can deep-link to this crux rather than reciting it; named the epiphenomenalism framework-boundary pressure honestly and marked the per-trial-vs-ensemble move as a *candidate* resolution. No confidence change — the debt was already logged; this makes it reusable and the tension explicit.
+- **Last reviewed**: 2026-06-16
 
 ## P-Q4: Stapp's quantum Zeno mechanism is currently demoted relative to post-decoherence selection
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-16 04:00:00+00:00
+ai_modified: 2026-06-16 04:45:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-16'
@@ -9,7 +9,30 @@ related_articles: []
 title: Changelog
 ---
 
-## 2026-06-16T04:30:00+00:00 - deep-review
+## 2026-06-16T03:59:24+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-interface](/positions/quantum-interface/) (primary); [agency-and-will](/positions/agency-and-will/), [motor-selection](/concepts/motor-selection/) (demonstration back-references)
+- **Task**: P1 mechanism-debt cross-reference (outer-review-2026-06-16 ChatGPT, §1.4/§2.2/§3.1 — released by selector unsynthesizable-escape; ChatGPT processed, Claude bailed, Gemini not yet commissioned). Conservative in-scope slice only — NOT the larger standalone "Bias-Without-Deviation Problem" article or the global causal-budget dependency graph (both deferred).
+- **Changes**:
+  - Established a reusable stable anchor `^mechanism-debt` on the P-Q3 Asserts in the quantum-interface register (block-ref → `<span id="mechanism-debt">`; robust against header rewording, unlike a slugified-header anchor). Verified end-to-end through the sync pipeline: downstream `[[positions/quantum-interface#^mechanism-debt]]` resolves to `/positions/quantum-interface/#mechanism-debt`.
+  - Added a *Mechanism-debt convention* note to the register's domain header: names the P-Q3+P-Q10 debt, lists the inheriting downstream cluster (agency, motor selection, value-sensitive selection, placebo, FND), states they inherit-not-discharge, and documents the anchor as the one-stop deep-link.
+  - Sharpened P-Q3 Asserts to mark the epiphenomenalism framework-boundary pressure honestly (per [direct-refutation-discipline](/project/direct-refutation-discipline/) — Mode Three boundary-marking; the per-trial-vs-ensemble move is now flagged as a *candidate* resolution, "whether it discharges or relocates the worry is the open question", not a settled answer). Mode label kept editor-internal, not in body.
+  - Added back-references to 2 highest-load downstream articles as a demonstration (NOT a corpus-wide sweep): [agency-and-will](/positions/agency-and-will/) (new "Mechanism debt inherited, not discharged" para in the domain header) and [motor-selection](/concepts/motor-selection/) (extended its existing "An Honest Gap" section — the article's confident Zeno-selection language now deep-links to the upstream crux and is explicitly scoped to the register's confidence level).
+- **Engagement classification**: epiphenomenalism tension → Mode Three (framework-boundary; the Born-exactness/observer-indistinguishability pressure is genuine and is marked honestly, not dressed as a refutation of the worry).
+- **Length**: net length-neutral discipline observed — register body 2288→2497 words (under the 2500 hard line; held-over-soft posture preserved; trimmed a redundant in-text pointer to stay under hard). agency-and-will 1539 (under hard), motor-selection unchanged-class. GREP-VERIFIED register's bias-without-deviation wording before editing; no existing `^mechanism-debt` anchor pre-existed.
+- **Published**: yes
+- **Note for later convergence**: edit kept conservative/self-contained so a later Gemini-leg finding on the same crux can be consolidated cleanly via /combine-outer-reviews.
+
+## 2026-06-16T04:45:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **Subject**: Full-site audit (steered cycle subject; ChatGPT leg of the 2026-06-16 site-audit triple — Claude/Gemini legs commission at 03:00/04:00 UTC)
+- **File**: [outer-review-2026-06-16-chatgpt-5-5-pro](/reviews/outer-review-2026-06-16-chatgpt-5-5-pro/)
+- **Headline**: The Map is stronger at disciplined, internally-coherent synthesis than at proving its central post-decoherence-selection interface exists; the live crux (per the Map's own register) is Born-preserving token-level selection with no worked toy model (bias-without-deviation).
+- **Claims verified**: 1 externally (COGITATE Nature 2025 + GNWT-proponent response both confirmed real — review is calibration/structural in character, not source-misrepresentation); flagged phrasings ("settled affective neuroscience", "engram remains elusive", "first... major AI lab", "cleanest consciousness-side-fault"/"the hardware works") all grep-confirmed LIVE and accurately attributed.
+- **High-value findings**: ~10 actionable (mechanism-debt opacity, No-MWI/subjecthood dependency, 3 empirical-calibration glosses, quantum-bio headline tonal drift, FND summary over-compression, "settled"/"first" overstatements)
+- **Tasks generated**: 8 (P1: 1 [mechanism-debt cross-reference], P2: 6 [empirical-calibration sweep, wanting-liking "settled", constitution "first", quantum-bio headline, FND summary discount, No-MWI subjecthood dependency], P3: 1 [holding-pen for larger methodology/code/positions-register proposals])
+- **Note**: Outer-review tasks defer until /combine-outer-reviews synthesizes this cycle (outer-review-tasks-deferred-until-synthesis); convergent findings across the triple will be upgraded then.
 - **Status**: Success
 - **File**: [memory-channel-interface-evidence](/topics/memory-channel-interface-evidence/)
 - **Selection basis**: COALESCE REMEDIATION (P3 verify task) — coalesce stamped `last_deep_review` on an unreviewed merge (coalesce-hides-review-debt-and-regresses-fixes); this is the real review.

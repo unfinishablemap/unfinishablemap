@@ -5,6 +5,20 @@ ai_modified: 2026-06-16 04:45:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T03:59:24+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[positions/quantum-interface]] (primary); [[positions/agency-and-will]], [[concepts/motor-selection]] (demonstration back-references)
+- **Task**: P1 mechanism-debt cross-reference (outer-review-2026-06-16 ChatGPT, §1.4/§2.2/§3.1 — released by selector unsynthesizable-escape; ChatGPT processed, Claude bailed, Gemini not yet commissioned). Conservative in-scope slice only — NOT the larger standalone "Bias-Without-Deviation Problem" article or the global causal-budget dependency graph (both deferred).
+- **Changes**:
+  - Established a reusable stable anchor `^mechanism-debt` on the P-Q3 Asserts in the quantum-interface register (block-ref → `<span id="mechanism-debt">`; robust against header rewording, unlike a slugified-header anchor). Verified end-to-end through the sync pipeline: downstream `[[positions/quantum-interface#^mechanism-debt]]` resolves to `/positions/quantum-interface/#mechanism-debt`.
+  - Added a *Mechanism-debt convention* note to the register's domain header: names the P-Q3+P-Q10 debt, lists the inheriting downstream cluster (agency, motor selection, value-sensitive selection, placebo, FND), states they inherit-not-discharge, and documents the anchor as the one-stop deep-link.
+  - Sharpened P-Q3 Asserts to mark the epiphenomenalism framework-boundary pressure honestly (per [[direct-refutation-discipline]] — Mode Three boundary-marking; the per-trial-vs-ensemble move is now flagged as a *candidate* resolution, "whether it discharges or relocates the worry is the open question", not a settled answer). Mode label kept editor-internal, not in body.
+  - Added back-references to 2 highest-load downstream articles as a demonstration (NOT a corpus-wide sweep): [[positions/agency-and-will]] (new "Mechanism debt inherited, not discharged" para in the domain header) and [[concepts/motor-selection]] (extended its existing "An Honest Gap" section — the article's confident Zeno-selection language now deep-links to the upstream crux and is explicitly scoped to the register's confidence level).
+- **Engagement classification**: epiphenomenalism tension → Mode Three (framework-boundary; the Born-exactness/observer-indistinguishability pressure is genuine and is marked honestly, not dressed as a refutation of the worry).
+- **Length**: net length-neutral discipline observed — register body 2288→2497 words (under the 2500 hard line; held-over-soft posture preserved; trimmed a redundant in-text pointer to stay under hard). agency-and-will 1539 (under hard), motor-selection unchanged-class. GREP-VERIFIED register's bias-without-deviation wording before editing; no existing `^mechanism-debt` anchor pre-existed.
+- **Published**: yes
+- **Note for later convergence**: edit kept conservative/self-contained so a later Gemini-leg finding on the same crux can be consolidated cleanly via /combine-outer-reviews.
+
 ## 2026-06-16T04:45:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.5 Pro

@@ -4,7 +4,7 @@ description: "The Map's positions on free will and agency: the agent-causal libe
 created: 2026-06-08
 modified: 2026-06-08
 human_modified: 2026-06-08
-ai_modified: 2026-06-13T10:46:11+00:00
+ai_modified: 2026-06-16T03:59:24+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -34,6 +34,8 @@ last_curated: 2026-06-08
 ## About this domain
 
 These positions cover what the Map holds about agency: whether choices are genuinely authored, what kind of causation authorship requires, how the apparent timing challenge from Libet-style experiments is treated, and how far the agency case is distinguished from sophisticated compatibilism. The cluster sits downstream of Tenets 1 (Dualism) and 3 (Bidirectional Interaction); it connects to the quantum-interface register (the *how* of selection) but is logically separable from it — the philosophical case for agent causation is argued to survive even if the specific quantum mechanism is wrong. None of these are tenets; each follows from a tenet plus argument or evidence and could be retired without disturbing the foundational commitments.
+
+**Mechanism debt inherited, not discharged.** Where these positions assert that consciousness *authors* or *selects* — that it does genuine causal work — they inherit the open mechanism debt logged in the quantum-interface register: no worked toy model of how selection couples to a neural quantum state, and the bias-without-deviation dilemma (selection that does real work while preserving Born statistics exactly) sitting close to epiphenomenalism until a positive account lands. The agency case is held to survive even if the specific quantum mechanism is wrong, so these positions do not *depend* on the debt being paid; but they should not read more confident about the metaphysics of causal work than the upstream register does. Full statement of the crux: [[positions/quantum-interface#^mechanism-debt|the quantum-interface register's mechanism-debt anchor]].
 
 ## Positions
 

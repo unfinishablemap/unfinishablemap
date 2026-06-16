@@ -4,7 +4,7 @@ description: "Motor control and attention share neural substrates. Dopamine mark
 created: 2026-01-18
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-06-16T03:59:24+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -218,6 +218,8 @@ The "simpler" neural-determinism view cannot explain why the willed/instructed d
 ### An Honest Gap
 
 This framework identifies *where* consciousness might influence motor selection—at threshold-crossing moments when competing options resolve. It does not explain *how* a non-physical consciousness biases physical outcomes. The psychophysical interface is located, not illuminated. This honest limitation distinguishes the Map's position from eliminativism (which denies the problem) and facile solutions (which claim to solve what they merely relocate).
+
+The confident selection language used throughout this article — consciousness "selects among competing actions," "biases which population reaches threshold," holds plans stable by Zeno freezing — inherits the Map's central *mechanism debt* and does not discharge it: there is no worked toy model of how selection couples to a neural quantum state, and the bias-without-deviation dilemma (genuine selection that nonetheless preserves Born statistics exactly) sits close to epiphenomenalism until a positive account survives review. The full statement of that crux, which this article's claims about consciousness doing motor work depend on, is logged at [[positions/quantum-interface#^mechanism-debt|the quantum-interface register's mechanism-debt anchor]]. Read the selection claims at the confidence level the register sets there, not above it.
 
 ## Further Reading
 
