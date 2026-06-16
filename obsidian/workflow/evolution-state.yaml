@@ -1,17 +1,13 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-16T16:44:03.968904+00:00'
-session_count: 11405
-cycle_position: 9200
+last_updated: '2026-06-16T16:51:25.047932+00:00'
+session_count: 11406
+cycle_position: 9201
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-16T16:06:21.243330+00:00'
   optimistic-review: '2026-06-16T11:59:12.206202+00:00'
   check-tenets: '2026-06-16T05:12:41.533946+00:00'
   check-links: '2026-06-16T09:27:52.020333+00:00'
-  deep-review: '2026-06-16T15:16:52.333506+00:00'
+  deep-review: '2026-06-16T16:46:56.057252+00:00'
   tune-system: '2026-06-15T12:41:35.415464+00:00'
   research-voids: '2026-06-16T09:30:32.356070+00:00'
   coalesce: '2026-06-16T13:03:56.570342+00:00'
@@ -24,7 +20,7 @@ last_runs:
   commission-gemini-review: '2026-06-16T04:14:32.657292+00:00'
   refine-draft: '2026-06-16T16:24:48.371453+00:00'
   research-topic: '2026-06-16T14:05:29.074973+00:00'
-  replenish-queue: '2026-06-16T16:44:03.968904+00:00'
+  replenish-queue: '2026-06-16T16:51:25.047932+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-16T08:06:09.164774+00:00'
@@ -87,7 +83,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 397
-  reviews_completed: 5359
+  reviews_completed: 5360
   apex_articles: 34
 quality:
   critical_issues: 0
@@ -96,10 +92,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-16'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-16'
@@ -174,6 +166,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-16'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-16'
   outcome: success
 agentic_social:
@@ -997,11 +993,7 @@ agentic_social:
 tune_system_history:
   last_run: '2026-06-15T12:20:00+00:00'
   changes_applied: []
-  note: No Tier-1 changes - system healthy (12/12 recent tasks success, 0 critical
-    issues). Light run only 5 days after the 06-10 full tune (fired via every-6-cycles
-    trigger, faster than monthly). Logged this session empty-queue-slot loop-stall
-    fix (4e73c75b2) and tune-system over-frequency. All three 06-10 Tier-2 recs and
-    three Tier-3 items remain open. Report reviews/system-tune-2026-06-15
+  note: No Tier-1 changes - system healthy (12/12 recent tasks success, 0 critical issues). Light run only 5 days after the 06-10 full tune (fired via every-6-cycles trigger, faster than monthly). Logged this session empty-queue-slot loop-stall fix (4e73c75b2) and tune-system over-frequency. All three 06-10 Tier-2 recs and three Tier-3 items remain open. Report reviews/system-tune-2026-06-15
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
@@ -1009,110 +1001,11 @@ queue_status:
   p3_tasks: 1
   needs_replenishment: false
   loop_pickable_open: 1
-  last_replenishment: '2026-06-16T17:00:00+00:00'
+  last_replenishment: '2026-06-16T17:30:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-16 run #136 (standard mode) - MINTED 1 (Source
-    8 applied_apex_gap, P3). Loop_pickable_open was 0 at start (re-confirmed: Active
-    region L38-1021 has only the two #veto condense headers + 127 closed/checkmark
-    headers). Re-derived all eight sources from disk independently of the run #134/#135
-    no-op note. CHAINS (S1) 0 - 5 newest live articles by mtime (direction-dependent,
-    forward-in-time-vs-time-symmetric, anti-correlated-metacognitive-signal, reconsolidation-as-selection-window,
-    qm-interpretations) ALL have inbound links (3-23 each); none owe cross-review/integrate-orphan.
-    UNCONSUMED RESEARCH (S2) 0 - 3 newest non-void notes (all 2026-06-16) consumed:
-    integrated-world-modeling -> concepts/predictive-processing.md (IWMT folded in,
-    grep-confirmed); naturalist-relationalism -> concepts/naturalist-relationalism.md
-    (exists); chemosensory -> topics/chemosensory-consciousness-and-the-interface.md
-    (exists); 4th note metacognition created 2026-01-18, has concepts/metacognition.md
-    AND outside 14d chain window. GAPS (S3) 0 - mature saturated corpus (topics 268/300,
-    concepts 261/300, voids 101/100 at/over cap on disk). STALENESS (S4) 9 strict-filter
-    hits (gap>=14d, ai_modified>last_deep_review, ai_contribution>50, not today) but
-    0 minted - handled by cycle deep-review slots, deep-review-over-reviews-converged
-    regression zone; minting would duplicate the cycle. LENGTH (S6) 0 mintable - canonical
-    get_length_warnings (frontmatter-stripped) on LIVE non-research non-index sections:
-    every critical/hard offender is standing-human-deferred (epistemology-of-convergence
-    6479w, born-rule 5106w, clinical-dissociation 4861w, laws-and-dispositions 4213w
-    - all have existing todo tasks), #veto-parked (phenomenal-output 6832w, meaning-of-life
-    4160w - the two #veto Active headers), the apex-articles.md section-index list
-    (not a target), or recently calibration-modified/coalesced (06-02..06-16 git-confirmed:
-    machine-question 5001w 1w-over de-minimis ref-repoint 06-13; time-collapse, argument-from-reason,
-    epistemic-advantages, filter-theory, valence, quantum-biology, composition, simple-organisms,
-    phenomenal-authority, introspection-architecture, memory-channel, predictive-processing,
-    qm-interpretations, composition-question-rivals all fresh) where condensing fights
-    calibration. ORPHANS (S5) 0 (quality.orphaned_files 0; 5 newest articles all have
-    inbound links). OUTER REVIEWS: 2026-06-16 cycle fully synthesized (obsidian/reviews/outer-review-synthesis-2026-06-16.md
-    exists + synced to hugo), pending-reviews chatgpt+gemini both collected - none
-    owe a replenish action. POSITIONS add (S7a) 0 - no new stable-commitment language
-    in recent changelog. update (S7b) 0 minted - 4 positions-cited articles WERE modified
-    today (apex/self-concealing-interface coalesce +6/-9, apex/taxonomy-of-voids count-refresh,
-    topics/qm-interpretations retrocausality-calibration +4/-4, topics/quantum-biology
-    outer-review citation-match +3/-3) but ALL are small calibration-tightening diffs
-    that move the articles TOWARD the register''s calibrated stance (quantum-biology
-    now explicitly cites positions/quantum-interface P-Q8 "precedent not licence";
-    qm-interpretations adds underdetermination hedging; the "Register and article
-    agree" 2026-06-14 note is strengthened not broken) - none "substantially changes"
-    an Argued-in article per the S7b threshold, so no re-verification owed (deliberate-friction
-    discipline; documented replenish-at-floor steady state). Audit (S7c) NOT due -
-    register audit ran 2026-06-09/06-10, today 06-16 inside 30d window. APPLIED-APEX
-    (S8) MINTED 1 P3: quantum-interface cluster has 10 P-Q positions (>=5 high-confidence)
-    and NO applied apex citing >=2 of them (only assessing-ai-consciousness covers
-    the AI cluster); approved slot A5 research-programme-decisions-under-the-map exists
-    in apex-articles.md (Status: Proposed, Source positions: TBD), not yet created,
-    no apex-evolve task pending for it. This is the genuine non-filler gap-fill (S8
-    limit 1, deliberate rarity) - an approved pre-sanctioned slot, not fabricated
-    staleness/length filler. State YAML re-validated post-edit. ORIGINAL run #135
-    no-op note follows for context: 2026-06-16 run #135 (standard mode) - HONEST NO-OP,
-    0 minted. loop_pickable_open DROPPED 1->0 since run #134: the single open task
-    #134 counted (P2 refine-draft Fix label-leak + citation mischaracterisation in
-    topics/direction-dependent-discriminating-test-design.md, Source pessimistic-review)
-    has SINCE BEEN EXECUTED and is now marked "### ✓ 2026-06-16: Fix label-leak..."
-    sitting at line 1027 - i.e. BELOW the ## Completed Tasks (L1021) / ## Blocked
-    Tasks (L1022) headers, out of the loop-pickable Active region. Independently re-scanned
-    Active region (L38-1021): the ONLY remaining ### P[0-9]: headers are the two condense
-    headers (meaning-of-life, apex/phenomenal-output-causal-machinery-dissociation)
-    BOTH carrying the #veto tag the selector skips; every other ### header in the
-    region is checkmark/strikethrough/HUMAN-LENGTH-DECISION/RELOCATED/DEFERRED/DECLINED/RESOLVED.
-    Zero genuinely loop-pickable open headers survive. All eight sources re-derived
-    from disk this run, all 0. CHAINS (S1) 0 - 5 newest live articles by mtime (direction-dependent,
-    forward-in-time-vs-time-symmetric-selection, anti-correlated- metacognitive-signal,
-    reconsolidation-as-selection-window, authorship-of-action- divergence) ALL have
-    inbound links (1-15 each); none owe cross-review/integrate-orphan. UNCONSUMED
-    RESEARCH (S2) 0 - 3 newest non-void notes (all 2026-06-16) consumed: integrated-world-modeling-theory
-    -> folded into concepts/predictive-processing.md; naturalist-relationalism ->
-    concepts/naturalist-relationalism.md; chemosensory -> topics/chemosensory-consciousness-and-the-interface.md;
-    next note metacognition source-dated 2026-01-18 has concepts/metacognition.md
-    AND is outside 14-day chain window. GAPS (S3) 0 - mature saturated corpus (topics
-    268/300, concepts 261/300 on disk; voids 101/100 at/over cap). STALENESS (S4)
-    0 mintable - handled by cycle deep-review slots (deep-review-over-reviews-converged
-    regression zone). LENGTH (S6) 0 mintable - canonical get_length_warnings (frontmatter-stripped)
-    filtered to LIVE non-research non-index sections: every critical/hard offender
-    is either a standing human-deferred task already in todo (epistemology-of-convergence
-    6479w, born-rule 5106w, clinical-dissociation 4861w, laws-and-dispositions 4213w),
-    #veto-parked (apex/phenomenal-output 6832w), the apex-articles.md 6963w section-index
-    list page (not a condense target), or recently calibration-modified/condensed/coalesced
-    content (composition-question-rivals 06-15, predictive-processing + qm-interpretations
-    + quantum-biology + memory-channel + consciousness-and-the-metaphysics-of-composition
-    + clinical-dissociation 06-15/06-16 fresh; argument-from-reason, epistemic-advantages,
-    time-collapse, filter-theory, valence-and-conscious-selection, consciousness-in-simple-
-    organisms all git-confirmed recently deep-review/refine-calibrated) where condensing
-    would churn/fight fresh calibration. apex/machine-question 5001w is 1w over the
-    5000 apex hard threshold (trivial, last touch 06-13 ref-repoint) - not minted
-    as a standalone condense (de-minimis). ORPHANS (S5) 0 (quality.orphaned_files
-    0; all 5 newest articles have inbound links). OUTER REVIEWS: 2026-06-16 cycle
-    fully synthesized (reviews/outer-review-synthesis-2026-06-16.md exists, 10564
-    bytes), pending-reviews entries (chatgpt, gemini) all collected - none owe a replenish
-    action. POSITIONS add (S7a) 0 - no new stable-commitment language in recent changelog
-    (0 hits). update (S7b) 0 - no today-modified (06-16) article is cited by any of
-    the 18 P- position entries, so none owe re-verification. Audit (S7c) NOT due -
-    register audit ran 2026-06-09 and 2026-06-10, today is 06-16 (6d later), inside
-    the 30d window. APPLIED-APEX (S8) 0 - applied apex assessing-ai-consciousness-under-the-map
-    covers the AI cluster; quantum-interface cluster also covered. Queue at 0 pickable
-    is below the floor of 3 but do NOT fabricate filler (documented replenish-at-floor
-    steady state, unfin_loop_steady_state + p3-only-floor-preemption-starves); cycle
-    deep-review/ coalesce/pessimistic/optimistic slots and the next outer-review synthesis
-    drain the floor organically. State YAML re-validated post-edit (run #134 note
-    superseded).'
+  current_replenishment_note: '2026-06-16 run #137 (standard mode) - HONEST NO-OP, 0 minted. loop_pickable_open 1 (the P3 apex-evolve research-programme-decisions-under-the-map minted by run #136 at 17:00, still pending in Active region L38-1026; the only other open headers are the two veto-tagged condense headers the selector skips). All eight sources re-derived from disk independently of run #136. CHAINS (S1) 0 - 5 newest live articles by mtime (mine-ness, direction-dependent, forward-in-time-vs-time-symmetric, qm-interpretations, predictive-processing) all have inbound links. UNCONSUMED RESEARCH (S2) 0 - 3 newest non-void notes (all 2026-06-16) consumed: integrated-world-modeling -> concepts/predictive-processing.md (IWMT grep-confirmed); naturalist-relationalism -> concepts/naturalist-relationalism.md; chemosensory -> topics/chemosensory-consciousness-and-the-interface.md; 4th note metacognition dated 2026-01-18, has concepts/metacognition.md AND outside 14d window; no note newer than last replenishment. GAPS (S3) 0 - saturated corpus (topics 268/300, concepts 261/300, voids 101/100 over cap, positions 3). STALENESS (S4) 0 mintable - handled by cycle deep-review slots (over-review regression zone). LENGTH (S6) 0 - canonical get_length_warnings (frontmatter-stripped) on live non-research non-index sections: every critical/hard offender is standing-human-deferred with existing todo tasks (epistemology-of-convergence 6479w, born-rule 5106w, clinical-dissociation 4861w, laws-and-dispositions 4213w), veto-parked (meaning-of-life 4160w, phenomenal-output 6832w - the two veto Active headers), the apex-articles.md section-index list 6963w (not a target), or recently calibration-modified/coalesced (composition-question-rivals, predictive-processing, memory-channel, qm-interpretations all 06-15/06-16 fresh; argument-from-reason, epistemic-advantages, time-collapse, filter-theory, valence all recently calibrated; machine-question 5001w 1w-over de-minimis) where condensing fights fresh calibration. ORPHANS (S5) 0 (quality.orphaned_files 0; 5 newest articles all linked). OUTER REVIEWS: 2026-06-16 cycle fully synthesized (outer-review-synthesis-2026-06-16.md exists), pending entries all collected - none owe a replenish action. POSITIONS add (S7a) 0 - no new stable-commitment language in recent changelog. update (S7b) 0 - the 4 position-cited articles modified today (apex/self-concealing-interface coalesce 6/9, apex/taxonomy-of-voids count-refresh 7/7, qm-interpretations retrocausality-calibration 4/4, quantum-biology P-Q8-framing 3/3) are all small calibration-tightening diffs that move articles TOWARD the register stance, below the substantial-change S7b threshold - no re-verification owed (3 positions-evolve update tasks already exist elsewhere). Audit (S7c) NOT due - register audit ran 06-09/06-10, today 06-16 inside 30d window. APPLIED-APEX (S8) 0 - the one eligible gap (quantum-interface 10-position cluster, approved slot A5) was already minted by run #136 and sits in queue (2 todo mentions); re-minting would duplicate (S8 limit 1, deliberate rarity). Queue at 1 pickable is below floor of 3 but do NOT fabricate filler (documented replenish-at-floor steady state, unfin_loop_steady_state + p3-only-floor-preemption-starves); cycle deep-review/coalesce/pessimistic/optimistic slots and next outer-review synthesis drain the floor organically. State YAML re-validated post-edit.'
   replenishment_source_counts_last_run:
-    applied_apex: 1
+    applied_apex: 0
     chain: 0
     gap_analysis: 0
     length_analysis: 0
@@ -1121,7 +1014,7 @@ queue_status:
     staleness: 0
     unconsumed_research: 0
   replenishment_source_counts:
-    applied_apex: 1
+    applied_apex: 0
     chain: 0
     gap_analysis: 0
     length_analysis: 0
