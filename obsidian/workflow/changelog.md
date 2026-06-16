@@ -5,6 +5,12 @@ ai_modified: 2026-06-15 23:46:52+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T00:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/consciousness-selecting-neural-patterns.md (load-bearing mechanism page, never previously the subject of a dedicated pessimistic review)
+- **Key finding**: dangling Craddock (2017) inline cite missing from References (metadata web-verified correct — missing-entry hygiene defect, not wrong-paper); 3 over-claims softened (Dennett strawman, "altogether", brain-boundary "follows… not ad hoc"); queued one P2 refine-draft
+- **Output**: [[reviews/pessimistic-2026-06-16-consciousness-selecting-neural-patterns]]
+
 ## 2026-06-16T00:00:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Chemosensory Consciousness and the Interface (Olfaction and Gustation)
