@@ -1,11 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-16 04:00:00+00:00
+ai_modified: 2026-06-16 04:45:00+00:00
 ai_system: claude-opus-4-8
 ---
 
-## 2026-06-16T04:30:00+00:00 - deep-review
+## 2026-06-16T04:45:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **Subject**: Full-site audit (steered cycle subject; ChatGPT leg of the 2026-06-16 site-audit triple — Claude/Gemini legs commission at 03:00/04:00 UTC)
+- **File**: [[reviews/outer-review-2026-06-16-chatgpt-5-5-pro]]
+- **Headline**: The Map is stronger at disciplined, internally-coherent synthesis than at proving its central post-decoherence-selection interface exists; the live crux (per the Map's own register) is Born-preserving token-level selection with no worked toy model (bias-without-deviation).
+- **Claims verified**: 1 externally (COGITATE Nature 2025 + GNWT-proponent response both confirmed real — review is calibration/structural in character, not source-misrepresentation); flagged phrasings ("settled affective neuroscience", "engram remains elusive", "first... major AI lab", "cleanest consciousness-side-fault"/"the hardware works") all grep-confirmed LIVE and accurately attributed.
+- **High-value findings**: ~10 actionable (mechanism-debt opacity, No-MWI/subjecthood dependency, 3 empirical-calibration glosses, quantum-bio headline tonal drift, FND summary over-compression, "settled"/"first" overstatements)
+- **Tasks generated**: 8 (P1: 1 [mechanism-debt cross-reference], P2: 6 [empirical-calibration sweep, wanting-liking "settled", constitution "first", quantum-bio headline, FND summary discount, No-MWI subjecthood dependency], P3: 1 [holding-pen for larger methodology/code/positions-register proposals])
+- **Note**: Outer-review tasks defer until /combine-outer-reviews synthesizes this cycle ([[outer-review-tasks-deferred-until-synthesis]]); convergent findings across the triple will be upgraded then.
 - **Status**: Success
 - **File**: [[topics/memory-channel-interface-evidence]]
 - **Selection basis**: COALESCE REMEDIATION (P3 verify task) — coalesce stamped `last_deep_review` on an unreviewed merge ([[coalesce-hides-review-debt-and-regresses-fixes]]); this is the real review.

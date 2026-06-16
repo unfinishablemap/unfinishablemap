@@ -3,9 +3,9 @@
   commissioned_at: '2026-06-16T02:09:23.989440+00:00'
   prompt_summary: Full-site audit of The Unfinishable Map
   target_filename: outer-review-2026-06-16-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-16T03:50:38.470031+00:00'
   failure_reason: null
   prompt_text: 'Please conduct a rigorous full-site audit of The Unfinishable Map
     (https://unfinishablemap.org), a dualist philosophy-of-mind project. Treat the
