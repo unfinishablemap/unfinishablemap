@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-08
-ai_modified: 2026-06-08 13:30:00+00:00
+ai_modified: 2026-06-16 06:36:00+00:00
 ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts:
@@ -14,6 +14,7 @@ description: 'The Map''s positions on what the cognitive-void catalogue evidenti
 draft: false
 human_modified: 2026-06-08
 last_curated: 2026-06-08
+last_deep_review: 2026-06-16 06:36:00+00:00
 modified: *id001
 related_articles:
 - '[[positions]]'
@@ -29,7 +30,7 @@ topics:
 
 ## About this domain
 
-These positions cover what the Map currently holds about the *evidential* status of its cognitive-void catalogue — the question of what, if anything, the convergence of 60+ voids on the consciousness-matter interface supports. This is a calibration-critical domain: the Map's standing discipline (the [common-cause null](/project/common-cause-null/), the [coherence-inflation countermeasures](/project/coherence-inflation-countermeasures/), and the Convergence-Independence Gate of Countermeasure 15) is precisely a guard against over-reading void convergence as independent confirmation. The positions here are deliberately banded *low to moderate* and worded to assert compatibility and cumulative-within-architecture weight, not independent triangulation. They sit downstream of Tenet 5 (Occam's Razor Has Limits) and connect to Tenet 1 (Dualism), but they assert claims about the Map's *evidence*, not about the world directly.
+These positions cover what the Map currently holds about the *evidential* status of its cognitive-void catalogue — the question of what, if anything, the convergence of the catalogue (over a hundred void articles, of which roughly fifteen are framework-independent) on the consciousness-matter interface supports. Under the file's own common-cause logic the raw count is the misleading figure: the framework-independent subset, not the total, is the number that carries whatever weight the catalogue legitimately earns. This is a calibration-critical domain: the Map's standing discipline (the [common-cause null](/project/common-cause-null/), the [coherence-inflation countermeasures](/project/coherence-inflation-countermeasures/), and the Convergence-Independence Gate of Countermeasure 15) is precisely a guard against over-reading void convergence as independent confirmation. The positions here are deliberately banded *low to moderate* and worded to assert compatibility and cumulative-within-architecture weight, not independent triangulation. They sit downstream of Tenet 5 (Occam's Razor Has Limits) and connect to Tenet 1 (Dualism), but they assert claims about the Map's *evidence*, not about the world directly.
 
 ## Positions
 
@@ -47,7 +48,7 @@ These positions cover what the Map currently holds about the *evidential* status
 
 - **Status**: live
 - **Confidence**: moderate
-- **Asserts**: The Map holds the calibration rule that adopting a tenet which dissolves an objection to a void's dualist reading removes a *defeater* but does not, by itself, raise the void's independence score or convert framework-internal coherence into framework-independent evidence. Tenet-generated voids are honest entries naming the price the framework pays for taking consciousness seriously (as materialism owes the hard problem and panpsychism the combination problem); treating those costs as confirmations would invert the ledger. Equally, dualism-specific voids — those the Map can articulate only because its commitments make them voids — earn framework-internal weight but not the N-fold force of framework-independent voids. The framework may identify a cluster's significance but must not upgrade its independence score.
+- **Asserts**: The Map holds the calibration rule that adopting a tenet which dissolves an objection to a void's dualist reading removes a *defeater* but does not, by itself, raise the void's independence score or convert framework-internal coherence into framework-independent evidence. Tenet-generated voids are entries naming the price the framework pays (as materialism owes the hard problem and panpsychism the combination problem); treating those costs as confirmations would invert the ledger. Equally, dualism-specific voids — those the Map can articulate only because its commitments make them voids — earn framework-internal weight but not the N-fold force of framework-independent voids. The framework may identify a cluster's significance but must not upgrade its independence score.
 - **Depends on**: P-V1; [evidential-status-discipline](/project/evidential-status-discipline/); the four-origin-class void audit in [taxonomy-of-voids](/apex/taxonomy-of-voids/)
 - **Argued in**: [taxonomy-of-voids](/apex/taxonomy-of-voids/), [what-voids-reveal](/voids/what-voids-reveal/), [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/)
 - **Would shift if**: a principled account showed that defeater-removal can, under specified conditions, legitimately raise an independence score; or the origin-class partition (framework-independent / dualism-specific / tenet-generated / method-generated) were shown to be unprincipled.
@@ -57,7 +58,7 @@ These positions cover what the Map currently holds about the *evidential* status
 
 - **Status**: live
 - **Confidence**: low
-- **Asserts**: The Map holds, provisionally, that the subset of roughly fifteen *framework-independent* voids — those any serious consciousness framework (physicalist, functionalist, panpsychist, idealist, dualist) must acknowledge, such as the origin, binding, other-minds, introspective-opacity, formal, cardinality-floor, and death voids — carry whatever cumulative abductive weight the catalogue legitimately earns, because their identification does not depend on the Map's commitments (they rest on patient-population data, formal proofs, and historically isolated traditions, i.e. *despite-commitments* rather than *because-prediction* observation). The confidence is *low* because even this subset only earns cumulative weight under an abductive step that the common-cause null discounts, and because the structured-clustering signal that would carry the inference has not yet passed an independent (outer-reviewer) grading. The position asserts a *direction* of evidential asymmetry within the catalogue, not a quantified evidential payoff.
+- **Asserts**: The Map holds, provisionally, that the subset of roughly fifteen *framework-independent* voids — those any serious consciousness framework (physicalist, functionalist, panpsychist, idealist, dualist) must acknowledge, such as the origin, binding, other-minds, introspective-opacity, formal, cardinality-floor, and death voids — carry whatever cumulative abductive weight the catalogue legitimately earns, because their identification does not depend on the Map's commitments (they rest on patient-population data, formal proofs, and historically isolated traditions, i.e. *despite-commitments* rather than *because-prediction* observation). The confidence is *low* because even this subset only earns cumulative weight under an abductive step that the common-cause null discounts, and because the structured-clustering signal that would carry the inference has not yet passed an independent (outer-reviewer) grading. The position therefore registers a *direction* of evidential asymmetry within the catalogue that the Map expects, and is testing, rather than a graded result it already holds; the low-confidence floor is explicitly contingent on the despite-commitments reading surviving the grading P-V1 says is still outstanding, and the claim is a direction, not a quantified evidential payoff.
 - **Depends on**: P-V1; P-V2; the framework-independent void list in [voids](/voids/) (≈15 voids); the as-yet-unmet independent-grading condition
 - **Argued in**: [taxonomy-of-voids](/apex/taxonomy-of-voids/), [what-voids-reveal](/voids/what-voids-reveal/)
 - **Would shift if**: independent grading of the cluster's independence scores confirmed (or disconfirmed) the despite-commitments reading; or a distinguishing empirical test moved the framework-independent subset from "cumulative within architecture" to "discriminating between frameworks."

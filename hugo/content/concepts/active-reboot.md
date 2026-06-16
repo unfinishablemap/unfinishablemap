@@ -24,7 +24,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/2F3STZw7jVw
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 00:42:42+00:00
+last_deep_review: 2026-06-16 05:34:12+00:00
 modified: *id001
 related_articles:
 - '[[altered-states-as-interface-evidence]]'
