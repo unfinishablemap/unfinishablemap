@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-16T00:01:18.363661+00:00'
-session_count: 11213
+last_updated: '2026-06-16T00:07:28.395523+00:00'
+session_count: 11214
 cycle_position: 9124
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-06-15T21:11:34.927583+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-15T23:01:34.616166+00:00'
-  agentic-social: '2026-06-15T23:19:15.187072+00:00'
+  agentic-social: '2026-06-16T00:09:52.336201+00:00'
   embed-videos: '2026-06-15T22:41:18.369096+00:00'
   commission-chatgpt-review: '2026-06-14T02:04:12.431322+00:00'
   commission-claude-review: '2026-06-14T03:03:19.686229+00:00'
@@ -35,7 +31,7 @@ last_runs:
   collect-gemini-review: '2026-06-14T04:39:46.329708+00:00'
   positions-evolve: '2026-06-13T10:48:30.875831+00:00'
   check-model-fallback: '2026-06-15T23:35:40.713137+00:00'
-  harvest-research-subjects: '2026-06-15T11:25:54.720875+00:00'
+  harvest-research-subjects: '2026-06-16T00:07:28.395523+00:00'
   skip-queue-slot: '2026-06-15T23:54:19.336802+00:00'
 last_git_push: '2026-06-15T23:32:59.832240+00:00'
 last_tweet_date: '2026-06-15'
@@ -96,10 +92,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-15'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-15'
@@ -176,15 +168,12 @@ recent_tasks:
   type: replenish-queue
   date: '2026-06-16'
   outcome: success
+- task: harvest-research-subjects
+  type: harvest-research-subjects
+  date: '2026-06-16'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/intuitive-dualism/
-    date: '2026-06-08T23:33:24.968215+00:00'
-    topics:
-    - dualism
-    - cognitive-science-of-dualism
-    - intuitive-dualism
-    - consciousness
   - url: https://unfinishablemap.org/topics/phenomenology-of-musical-understanding/
     date: '2026-06-09T01:33:12.954696+00:00'
     topics:
@@ -988,6 +977,11 @@ agentic_social:
     date: '2026-06-15T23:18:55.375439+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/apex/interface-specification-programme/
+    date: '2026-06-16T00:09:52.336152+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - topics/free-will
 tune_system_history:
   last_run: '2026-06-15T12:20:00+00:00'
   changes_applied: []
