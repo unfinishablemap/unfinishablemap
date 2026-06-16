@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-22
-ai_modified: 2026-06-08 00:00:00+00:00
+ai_modified: 2026-06-16 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: Human+AI iterative exploration of the choice-blindness paradigm as 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 00:00:00+00:00
+last_deep_review: 2026-06-16 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[source-attribution-divergence]]'

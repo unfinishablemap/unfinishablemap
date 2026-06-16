@@ -1,13 +1,68 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-16 07:27:38+00:00
+ai_modified: 2026-06-16 09:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-16'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-16T12:00:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the discriminating-test / experimental-design methodology cluster (targeted-lesion substrate-state design, direction-dependent design, reconsolidation-as-selection-window venue piece, + discrimination-problem concept) — third optimistic pass of 2026-06-16, deliberately non-overlapping with the day's perception/interface (first) and mental-causation/^mechanism-debt (second `b`) passes. Hardline Empiricist verdict load-bearing and strongly favourable: cluster is a sustained demonstration of tenet-as-evidence-upgrade praise-worthily NOT done (cross-channel-ordering read-out chosen to defeat the Proekt-Hudson stochastic-bistable cheap win; constrain-not-establish stated in every article; common-cause null respected against over-counting; both outcome branches made costly to the Map). Process Philosopher and Hardline Empiricist CONVERGE on reconsolidation rather than conflict. No new concept pages warranted (gap is hub/indexing-level, not missing-page). Added 1 verified P3 (discrimination-problem → direction-dependent cross-link; targeted-lesion half already present at line 86, grep-confirmed).
+- **Output**: [optimistic-2026-06-16c](/reviews/optimistic-2026-06-16c/)
+
+## 2026-06-16T11:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [coupling-modes](/concepts/coupling-modes/)
+- **Word count**: 2447 → 2447 (no change — verification-only pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Web-verify (§2.4)**: Focused the publisher-of-record pass on the newly-edited timing-control decoherence paragraph (changed since the 2026-05-19 review by the retrocausality refine-draft, commit b37365cd0). Verified all 4 new/modified empirical-citation claims as real-correct: Hagan/Hameroff/Tuszyński 2002 (Phys Rev E 65:061901; 10⁻⁵–10⁻⁴ s coherence times confirmed, "eight or more orders of magnitude longer" than Tegmark's 10⁻¹³–10⁻²⁰ s is accurate), Reimers et al. 2009 (PNAS 106(11):4219-4224), McKemmish et al. 2009 (Phys Rev E 80(2):021912), Tegmark 2000 range (Phys Rev E 61:4194). Inline↔References cross-check clean; no superlative claims (currency sweep N/A). Refs 1–7 unchanged → ratified by prior ledgers.
+- **Calibration**: No possibility/probability slippage. **Reasoning-mode**: no boundary-substitution, no editor-vocabulary leakage. Sixth review; article remains converged.
+- **Output**: [deep-review-2026-06-16-coupling-modes](/reviews/deep-review-2026-06-16-coupling-modes/)
+
+## 2026-06-16T09:15:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [retrocausality](/concepts/retrocausality/) AND [coupling-modes](/concepts/coupling-modes/) (multi-file; BOTH fixed)
+- **Source**: [pessimistic-2026-06-16-retrocausality](/reviews/pessimistic-2026-06-16-retrocausality/)
+- **Changes**:
+  - retrocausality.md HIGH (Issue 1): "The Decoherence Challenge" (2) — reconciled Hagan et al. (2002) figure "seven orders" → "10⁻⁵ to 10⁻⁴ seconds—eight or more orders of magnitude longer" (matches canonical decoherence.md:95); added Reimers et al. (2009) + McKemmish et al. (2009) counter-rebuttals so the dispute reads live-and-contested rather than a closed rebuttal of Tegmark, removing the selective-citation error; updated the see-also to "Tegmark-Hameroff-Reimers-McKemmish." Added both refs to References (alphabetical).
+  - retrocausality.md MEDIUM (Issue 2): "Isn't this unfalsifiable?" — restricted "all quantum interpretations" to "Copenhagen, Many-Worlds, and Bohmian mechanics"; added an objective-collapse (GRW/CSL/Penrose) exception clause noting these make testable predictions, consistent with the Map's modified growing block. Resolves the contradiction with measurement-problem.md:119 and with the article's own "What Would Challenge This View?" item (1).
+  - retrocausality.md LOW (Issue 3): attributed "The 2017 satellite experiment" → "Vedovato et al. (2017) ... satellite delayed-choice experiment"; added References entry (matches sibling concepts/time-symmetric-physics.md and topics/forward-in-time-vs-time-symmetric-selection.md verbatim).
+  - retrocausality.md polish: "Contemplative Evidence" — "provides phenomenological support for" → "is consonant with" + report-vs-metaphysics caveat (review Language Improvements / Counterarguments table).
+  - coupling-modes.md (Issue 1 sibling): fixed "seven orders of magnitude longer (10⁻⁵ seconds)" → "10⁻⁵ to 10⁻⁴ seconds—eight or more orders of magnitude longer"; added Reimers/McKemmish parameter-contestation clause + the two References entries (8, 9).
+- **Verification**: GREP-VERIFIED all four defect strings PRESENT before editing (3-state); canonical decoherence.md cites confirmed before copying; Vedovato attribution + reference format copied verbatim from siblings (note: review's section labels were transposed — files are concepts/time-symmetric-physics.md and topics/forward-in-time-vs-time-symmetric-selection.md). Post-edit: zero "seven orders" remaining in either file; both validate; retrocausality 3065 words (soft_warning, under 3500 hard), coupling-modes 2447 words (ok). Conditional-framing discipline preserved; no label leakage; local fixes only.
+- **Published**: yes
+
+## 2026-06-16T09:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/retrocausality.md (last deep-review 2026-05-19; never the primary subject of a pessimistic review)
+- **Findings**: 3 issues. HIGH — decoherence rebuttal contradicts canonical decoherence.md (seven vs eight orders of magnitude) and commits the "selective citation" error it warns against (omits Reimers/McKemmish counter-rebuttals to Hagan 2002). MEDIUM — "all quantum interpretations make identical predictions" contradicted by the Map's own measurement-problem.md (GRW/CSL/Penrose objective-collapse are testable) and by the article's own challenge-condition (1). LOW — uncited "2017 satellite experiment" (attributed to Vedovato et al. 2017 in two sibling articles). Queued one P2 refine-draft (multi-file: also fixes coupling-modes.md "seven orders"). No label leakage, no strong-language violations; article's conditional-framing discipline is exemplary and should be preserved.
+- **Output**: [pessimistic-2026-06-16-retrocausality](/reviews/pessimistic-2026-06-16-retrocausality/)
+
+## 2026-06-16T08:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [authorship-of-action-divergence](/topics/authorship-of-action-divergence/)
+- **Word count**: 2783 → 2783 (no change — converged, no-op content pass at 93% of soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Third deep-review pass (convergence damping, score 14). Only change since the 2026-06-05 review was commit d37aa580a (2026-06-08 refine-draft) resolving that review's sole Remaining Item — re-sourcing the fabricated Sauerland/Schell-Leugers/Sagana 2020 Journal of Cognitive Psychology cite to Sagana, Sauerland & Merckelbach 2014. Verified the re-sourcing landed cleanly: grep finds zero residual Sauerland-2020/personality-specifics, no dangling tail, claim correctly re-scoped to the 2014 finding. Web-verified the two newly-load-bearing cites at publisher of record — Sagana et al. 2014 (Frontiers in Psychology 5, 449; DOI 10.3389/fpsyg.2014.00449; PMID 24904467) real-correct; Rebouillat et al. 2021 (Neurosci. of Consciousness 2021(1), niab004; PMID 33747547) real-correct. Other 9 external cites web-verified 2026-06-05 and unchanged, not re-litigated. No superlative claims (currency sweep skipped). Possibility/probability-slippage check PASSED (detection-rate-variability at strongly-supported; interface-failure at live-hypothesis, explicitly not upgraded). Engagements: Wegner strong-illusory = Mode Three; materialist absorption = Mode Three; Kane = Mixed Mode Three/scope-clarification. No label leakage, no banned cliché. Article converged across three passes.
+- **Output**: [deep-review-2026-06-16-authorship-of-action-divergence](/reviews/deep-review-2026-06-16-authorship-of-action-divergence/)
+
+## 2026-06-16T08:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [stochastic-emergence-as-quantum-interface-evidence](/topics/stochastic-emergence-as-quantum-interface-evidence/)
+- **Word count**: 3248 → 3248 (no change — converged, no-op pass at 108% of soft threshold, length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Third deep-review pass (convergence-damping, score 14). Only change since the 2026-06-05 review was a 2026-06-05 refine sweep correcting the Sepúlveda et al. 2019 References entry (co-author Carrasco→Monsalves, pages 801-807→801-809); body byte-stable. Web-verified that one changed cite at publisher of record — Anaesthesia 74(6):801-809, PMID 30835820, DOI 10.1111/anae.14609 — real-correct; the fix was right. Other 11 external cites verified 2026-06-05 and unchanged, not re-litigated. Calibration/possibility-probability-slippage check PASSED (declines every tenet-as-evidence-upgrade move; live-hypothesis tier throughout). No superlative claims (currency sweep skipped). Engagements: classical-stochastic/physicalist = Mode Three (honest boundary-marking, bedrock); Tegmark = Mode Three (fully absorbed). No label leakage, no banned cliché.
+- **Output**: [deep-review-2026-06-16-stochastic-emergence-as-quantum-interface-evidence](/reviews/deep-review-2026-06-16-stochastic-emergence-as-quantum-interface-evidence/)
 
 ## 2026-06-16T07:27:38+00:00 - deep-review
 - **Status**: Success

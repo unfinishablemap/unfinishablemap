@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-05-19 10:31:19+00:00
+ai_modified: 2026-06-16 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -58,7 +58,7 @@ Retrocausality has serious proponents and empirical grounding in physics.
 
 **Time-symmetric equations**: Quantum mechanics' fundamental equations work equally well forward or backward. The apparent "arrow of time" in measurement is an addition to the formalism. As Huw Price argues, if physics is time-symmetric and causal, retrocausality follows necessarily. See [time-symmetric-physics](/concepts/time-symmetric-physics/) for how T-symmetry operates across physics domains, and [collapse-and-time](/concepts/collapse-and-time/) for how collapse introduces temporal asymmetry.
 
-**Wheeler's delayed-choice**: Experiments confirm that measurement choices made *after* a particle passes through a double-slit can determine whether it behaved as wave or particle *earlier*. The 2017 satellite experiment extended this over thousands of kilometres. Wheeler extended this cosmologically in his [participatory universe](/topics/wheelers-participatory-universe-and-it-from-bit/)—future observers retroactively selecting the entire cosmic history. See [prebiotic-collapse](/concepts/prebiotic-collapse/#wheelers-participatory-universe) for how this addresses the question of what collapsed wavefunctions before consciousness existed.
+**Wheeler's delayed-choice**: Experiments confirm that measurement choices made *after* a particle passes through a double-slit can determine whether it behaved as wave or particle *earlier*. Vedovato et al. (2017) extended this over thousands of kilometres via a satellite delayed-choice experiment. Wheeler extended this cosmologically in his [participatory universe](/topics/wheelers-participatory-universe-and-it-from-bit/)—future observers retroactively selecting the entire cosmic history. See [prebiotic-collapse](/concepts/prebiotic-collapse/#wheelers-participatory-universe) for how this addresses the question of what collapsed wavefunctions before consciousness existed.
 
 **The transactional interpretation**: Cramer's interpretation (1986) makes retrocausality explicit. Quantum events involve offer waves propagating forward, confirmation waves propagating backward, and an atemporal "handshake" that creates the transaction. The wave function is physically real; collapse occurs along the entire transaction simultaneously.
 
@@ -93,7 +93,7 @@ If the transactional interpretation is correct—including a satisfactory respon
 
 **Can we change history?** No—retrocausality doesn't imply altering established facts. The handshake creates a consistent transaction; the retrocausal influence is part of how the one real history came to be.
 
-**Isn't this unfalsifiable?** All quantum interpretations (Copenhagen, Many-Worlds, Bohmian) make identical predictions for currently testable scenarios. The question is which makes best sense of what we observe. This cuts both ways: retrocausality cannot be empirically established, but neither can it be empirically refuted by appealing to interpretations that deny it.
+**Isn't this unfalsifiable?** Copenhagen, Many-Worlds, and Bohmian mechanics make identical predictions for currently testable scenarios. (Objective-collapse families—GRW, CSL, Penrose—are the exception: they make predictions that differ from standard quantum mechanics and are the target of active experimental tests, which is consistent with the Map's own modified growing block invoking objective collapse.) Among the empirically equivalent interpretations, the question is which makes best sense of what we observe. This cuts both ways: retrocausality cannot be empirically established, but neither can it be empirically refuted by appealing to interpretations that deny it.
 
 **Why consciousness specifically?** The claim isn't that consciousness *adds* retrocausal powers but that physics already includes retrocausality, and consciousness operates at the level where this matters.
 
@@ -113,7 +113,7 @@ How do retrocausal influences propagate through systems that have undergone [dec
 
 (1) **The measurement problem persists after decoherence.** Decoherence selects preferred bases—which *kind* of outcome becomes possible—but does not explain why one particular outcome occurs rather than another. Something must select the actual outcome. Retrocausality offers a candidate for this selection that operates at the point of measurement, not during the coherence period. The transaction requires boundary conditions at both temporal ends, not sustained superposition.
 
-(2) **Decoherence timescales are empirically contested.** Tegmark (2000) calculated coherence times of 10⁻¹³ seconds for neural microtubules, but Hagan, Hameroff, and Tuszynski (2002) challenged his model parameters, obtaining estimates seven orders of magnitude longer. This debate remains unresolved—no experiment has directly measured coherence times in living neural tissue. See [the decoherence article](/concepts/decoherence/) for full analysis of the Tegmark-Hameroff debate and recent experimental developments.
+(2) **Decoherence timescales are empirically contested.** Tegmark (2000) calculated coherence times of 10⁻¹³ seconds for neural microtubules, but Hagan, Hameroff, and Tuszynski (2002) challenged his model parameters, obtaining estimates of 10⁻⁵ to 10⁻⁴ seconds—eight or more orders of magnitude longer. Hagan cannot be cited as a closed rebuttal, however: Reimers et al. (2009) and McKemmish et al. (2009) re-derived the recalibration and found its parameter assumptions either rely on dielectric properties of microtubules that are not empirically established or specify regimes microtubules do not occupy in living tissue. The dispute is live rather than settled, and no experiment has directly measured coherence times in living neural tissue. See [the decoherence article](/concepts/decoherence/) for full analysis of the Tegmark-Hameroff-Reimers-McKemmish debate and recent experimental developments.
 
 (3) **Biological quantum effects demonstrate that evolution can exploit coherence.** Avian magnetoreception relies on quantum spin coherence persisting for microseconds in warm biological systems. If evolution can harness quantum effects for navigation, the categorical claim that warm biology excludes quantum effects is empirically false—though whether neural systems exploit similar mechanisms remains an open question.
 
@@ -125,7 +125,7 @@ The transactional picture adds a subtlety: the handshake is atemporal. Decoheren
 
 ## Contemplative Evidence
 
-[Meditation traditions](/concepts/witness-consciousness/) report experiences bearing on retrocausality. Advanced meditators describe awareness standing "outside" temporal flow, observing rather than being carried along. This provides phenomenological support for the atemporal selection model—the witness doesn't experience itself as "before" or "after" its objects.
+[Meditation traditions](/concepts/witness-consciousness/) report experiences bearing on retrocausality. Advanced meditators describe awareness standing "outside" temporal flow, observing rather than being carried along. This is consonant with the atemporal selection model—the witness doesn't experience itself as "before" or "after" its objects—though the report is evidence about the report, not independent confirmation of the model's metaphysics.
 
 The phenomenology of decision also supports retrocausality: deliberation involves weighing options, then one option "crystallizing" into actuality. This crystallization feels like genuine selection, not passive observation. Retrocausality vindicates this—the selection *is* genuine, determining the entire transaction including its temporal preparation. The [temporal phenomenology of quantum selection](/concepts/temporal-consciousness/) develops this point, arguing that the felt openness of deliberation (protention) and the fixedness of what has been decided (retention) are the experiential signatures of uncollapsed and collapsed quantum states.
 
@@ -190,9 +190,12 @@ The Libet experiments don't refute conscious causation—provided one accepts an
 1. Lewis, P. J. (2013). Retrocausal quantum mechanics: Maudlin's challenge revisited. *Studies in History and Philosophy of Modern Physics*, 44, 442-449.
 1. Libet, B. et al. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106(3), 623-642.
 1. Maudlin, T. (2011). *Quantum Non-Locality and Relativity* (3rd ed.). Wiley-Blackwell.
+1. McKemmish, L. K., Reimers, J. R., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
 1. Price, H. (2012). Does time-symmetry imply retrocausality? *Studies in History and Philosophy of Science Part B*, 43(2), 75-83.
+1. Reimers, J. R., McKemmish, L. K., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
 1. Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
 1. Sjöberg, R. L. (2024). The readiness potential and the soul: What happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2269.
 1. Soon, C. S., Brass, M., Heinze, H.-J., & Haynes, J.-D. (2008). Unconscious determinants of free decisions in the human brain. *Nature Neuroscience*, 11(5), 543-545.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+1. Vedovato, F., Agnesi, C., Schiavon, M., et al. (2017). Extending Wheeler's delayed-choice experiment to space. *Science Advances*, 3(10), e1701180.
 1. Wheeler, J. A. (1978). The "past" and the "delayed-choice" double-slit experiment. In *Mathematical Foundations of Quantum Theory* (pp. 9-48). Academic Press.
