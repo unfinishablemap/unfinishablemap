@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Refresh stale "60+ voids" count and tighten P-V3 in positions/voids-as-evidence.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-06-16 (see `reviews/pessimistic-2026-06-16-voids-as-evidence.md`). Three findings, all low/low-medium severity on an otherwise well-calibrated file: (1) STALE COUNT — the file (line 30) and its sources (`apex/taxonomy-of-voids.md` description, apex_thesis, body lines 91/113/221) cite "60+ voids" / "over sixty"; the live catalogue holds ~101 non-index void articles (~120 index entries). Update to "~100" / "over a hundred" across voids-as-evidence.md AND taxonomy-of-voids.md (coordinate so the apex and the position agree). Consider replacing the bare count with count-plus-framework-independent-subset since under the file's own common-cause logic the raw N is the misleading number. (2) P-V3 ASSERTION/BAND MISMATCH — P-V3 asserts a *direction* of evidential asymmetry whose carrying signal P-V1 says "has not yet passed independent grading"; reword Asserts to foreground it as a tested expectation pending grading, or make the low-confidence floor explicitly contingent on that grading. (3) MINOR — trim "for taking consciousness seriously" from P-V2 (virtue framing on a cost ledger). Length-neutral or near. Bump ai_modified; set last_deep_review (file currently null). Tenet alignment: evidential-status discipline / Tenet 5.
+- **Review file**: `reviews/pessimistic-2026-06-16-voids-as-evidence.md`
+- **Source**: pessimistic-review
+- **Generated**: 2026-06-16
+
 ### P2: [outer-review 2026-06-16] Downgrade "first major AI lab" claim in topics/claude-constitution-consciousness-uncertainty.md
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-06-16 (ChatGPT 5.5 Pro, §4.2). Article line 30 asserts the Constitution is "the first instance of a major AI lab formally registering, in a governing document, that it does not know whether its own product is a someone" (CONFIRMED LIVE). The reviewer flags that a "first" superlative needs either a comparative survey defining "major AI lab"/"constitution"/"moral status"/"public commitment", or a downgrade to a defensible hedge like "a prominent explicit public instance". Prefer the hedge (lighter, no research dependency) unless a quick check supports the strict "first" claim. Length-neutral. Bump ai_modified. Tenet alignment: evidential-status discipline applied to a historical-priority claim.

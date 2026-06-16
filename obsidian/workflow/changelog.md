@@ -5,6 +5,12 @@ ai_modified: 2026-06-16 05:29:16+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T05:47:27+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `positions/voids-as-evidence.md` (P-V1/P-V2/P-V3; never previously deep-reviewed). Adversarial pass across the six personas plus the SKILL discipline checks (epistemic/metaphysical equivocation, reasoning-mode label-leakage, Countermeasure-15 reference, link resolution, count verification).
+- **Findings**: 1 low-medium (stale "60+ voids" count vs live ~101 articles / ~120 index entries, corpus-wide incl `apex/taxonomy-of-voids.md`); 1 low (P-V3 asserts a direction of evidential asymmetry whose carrying signal P-V1 says is ungraded — assertion/band mismatch); 1 minor (P-V2 "for taking consciousness seriously" virtue-framing on a cost ledger). No equivocation, no label leakage; all links resolve; file is the cleanest in the corpus on the evidential-status check. Queued one P3 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-06-16-voids-as-evidence]]
+
 ## 2026-06-16T05:43:03+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/wanting-liking-and-the-value-in-mechanism-fork]]
