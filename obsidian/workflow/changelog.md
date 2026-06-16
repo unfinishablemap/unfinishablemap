@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-16 04:45:00+00:00
+ai_modified: 2026-06-16 04:52:03+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-16T04:52:03+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-biology-and-neural-consciousness]]
+- **Source**: convergent outer reviews 2026-06-16 (ChatGPT §4.6 tonal headline/caveat mismatch + Gemini finding 3 cryptochrome false-equivalence; 2/3 reviewers)
+- **Type**: headline/lede calibration, not rewrite (P-Q8 alignment)
+- **Changes**:
+  - Lede (para 1): softened "the field shifted from speculation toward testable science" → "moved from speculation toward testable hypotheses"; added explicit "warm quantum biology is a *precedent*, not a *licence*" frame with [[positions/quantum-interface]] P-Q8 cross-reference and the point that it opens empirical questions but does not yet warrant sustained deep-cortical coherence / MQI; "collapsed that objection" → "collapsed that categorical objection"; "points toward" → "raises the prior on".
+  - Calibration table, cryptochrome/radical-pair row: made the cross-environment extrapolation explicit as an unearned leap — specialised photoactivated retinal radical-pair sensor → deep-brain non-photonic cytoskeletal structures is itself a leap absent in-vivo neural-coherence evidence (Gemini false-equivalence point).
+- **Verification**: GREP-verified all flagged phrasings against live file first (3-state); line-59 "precedent supplies plausibility, not licence" and the "specific architecture" caveat already well-hedged → left untouched. Did NOT chase Gemini's fabricated "Luo et al. / Princeton / 18 angstroms / JACS 2026" target-citation; existing Denton 2024 + Xu 2026 cites intact. British "licence" spelling matched to article.
+- **Length**: neutral (4050 words, pre-existing hard-warning flagship-length matter unchanged)
+- **Published**: yes
 
 ## 2026-06-16T04:47:26+00:00 - combine-outer-reviews
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Six converging evidence lines reshape quantum biology's bearing on
 created: 2026-01-27
 modified: 2026-05-23
 human_modified:
-ai_modified: 2026-06-08T11:30:00+00:00
+ai_modified: 2026-06-16T04:52:03+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,7 +42,7 @@ coalesced_from:
   - "/topics/quantum-biology-neural-experimental-turn/"
 ---
 
-Quantum biology has shifted the burden of proof in consciousness debates. For decades, critics dismissed quantum approaches with a categorical objection: biological systems are too warm, wet, and noisy for quantum effects. The Map now tracks a different landscape. Established quantum effects in non-neural biology have collapsed that objection; multiple candidate mechanisms for neural quantum effects have been identified; and converging evidence from pharmacology, direct measurement, and computational modelling points toward quantum function in neural tissue. In 2025-2026 the field shifted from speculation toward testable science. The open questions are whether neural systems specifically exploit quantum effects, and whether consciousness plays a role at the quantum interface.
+Quantum biology has shifted the burden of proof in consciousness debates. For decades, critics dismissed quantum approaches with a categorical objection: biological systems are too warm, wet, and noisy for quantum effects. The Map now tracks a different landscape. Established quantum effects in non-neural biology have collapsed that categorical objection; multiple candidate mechanisms for neural quantum effects have been identified; and converging evidence from pharmacology, direct measurement, and computational modelling raises the prior on quantum function in neural tissue. In 2025-2026 the field moved from speculation toward testable hypotheses. But warm quantum biology is a *precedent*, not a *licence* (see [[positions/quantum-interface]] P-Q8): it opens live empirical questions; it does not yet warrant the sustained deep-cortical coherence or the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] the tenets posit. The open questions are whether neural systems specifically exploit quantum effects, and whether consciousness plays a role at the quantum interface.
 
 The evidence surveyed below is not a uniform support pillar for the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet. Tenet 2 admits at least three sub-readings that differ sharply in what they need from neural quantum biology: *pre-decoherence-coherence mechanisms* (Orch OR, Fröhlich-microtubule, Stapp Zeno, Fisher Posner) stand or fall with the evidence catalogued here; the *post-decoherence-selection programme*, the Map's central path (see [[apex/post-decoherence-selection-programme]]), is merely supplemented by it; the *strict corridor* reading catalogued in [[brain-internal-born-rule-testing]] is unmoved either way. The [[#the-calibration-table|calibration table below]] slots each piece of evidence into the row where it actually bears weight, so the page is not read as a unified Tenet 2 pillar.
 
@@ -138,7 +138,7 @@ The table specifies which Tenet 2 sub-reading each piece of evidence actually be
 
 | Evidence (article section above) | Load-bearing for pre-decoherence mechanisms | Plausibility supplement for post-decoherence selection | Bearing on the strict corridor |
 |---|---|---|---|
-| Cryptochrome / radical-pair magnetoreception (Denton 2024, Xu 2026) | Load-bearing if a radical-pair mechanism is the candidate; biological precedent for Orch OR / Fröhlich lines | Warm biology can host quantum function | Orthogonal; corridor needs no neural coherence |
+| Cryptochrome / radical-pair magnetoreception (Denton 2024, Xu 2026) | Precedent, not licence: cryptochrome is a *specialised photoactivated* retinal radical-pair sensor; transferring its coherence stability to deep-brain, non-photonic cytoskeletal structures is itself an unearned leap absent in-vivo neural-coherence evidence | Warm biology can host quantum function | Orthogonal; corridor needs no neural coherence |
 | Enzyme tunnelling and photosynthetic coherence | Background precedent for any pre-decoherence proposal; not load-bearing for a specific neural mechanism | Yes | Orthogonal |
 | UV superradiance in microtubule tryptophan networks (Babcock 2024) | Load-bearing for Orch OR / Fröhlich-microtubule | Yes; corridor does not depend on microtubule coherence | Orthogonal |
 | Anaesthetic targeting of microtubules; epothilone B delay (Wiest 2025; Khan 2024); 613 THz prediction (Craddock 2017) | Load-bearing for Orch OR–style proposals: anaesthesia tracks microtubule quantum disruption | Anaesthesia engages *some* substrate, compatible with a post-decoherence interface | Orthogonal at the Born-rule layer; at most ancillary substrate evidence |
