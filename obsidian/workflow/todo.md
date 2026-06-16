@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research Integrated World Modeling Theory as a materialist account of consciousness
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (outer-review-2026-06-16-gemini-2-5-pro.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. Gemini 2026-06-16 (Dimension D, weakness 5) and the 2026-06-16 synthesis both flag IWMT (Safron) + JEPA (Assran 2023) as a named generative/active-inference materialist rival with NO dedicated home, despite the corpus having dedicated pages for sibling theories (IIT, GNWT, predictive-processing). Currently only a rival-mention in concepts/predictive-processing.md. Research the IWMT literature (Safron 2020 Frontiers; 2022; FEP/active-inference grounding; the MAP-estimate / controlled-hallucination account of the explanatory gap; JEPA). ASSESS-FIRST downstream: IWMT is itself a predictive-processing theory, so the expand step must check overlap with concepts/predictive-processing.md and may retarget to expand that page rather than mint a standalone, with license to decline. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/integrated-world-modeling-theory-2026-06-16.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'integrated-world-modeling-theory' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-06-16
-
 ### ✓ P3: Deep-review the coalesced topics/memory-channel-interface-evidence.md (verify merge + assess over-length)
 - **Status**: done 2026-06-16 — CONFIRMING verdict. Both faces survived intact (vulnerability hierarchy + recovery-order asymmetry); all calibration hedges preserved; the three 2026-06-05 citation-metadata fixes survived the merge (Carrasco sweep confirmed complete, 0 live); merge even RESOLVED a latent "reverse order"→"direction-dependent order" tension. Length: ACCEPT AS SURVEY (4296w hard_warning, under critical; coalesce already 36% reduced with proper case de-dup). No critical/medium issues; verification-only pass. See [[reviews/deep-review-2026-06-16-memory-channel-interface-evidence]].
 - **Type**: deep-review
@@ -1029,6 +1023,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-16: Research Integrated World Modeling Theory as a materialist account of consciousness
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-2026-06-16-gemini-2-5-pro.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. Gemini 2026-06-16 (Dimension D, weakness 5) and the 2026-06-16 synthesis both flag IWMT (Safron) + JEPA (Assran 2023) as a named generative/active-inference materialist rival with NO dedicated home, despite the corpus having dedicated pages for sibling theories (IIT, GNWT, predictive-processing). Currently only a rival-mention in concepts/predictive-processing.md. Research the IWMT literature (Safron 2020 Frontiers; 2022; FEP/active-inference grounding; the MAP-estimate / controlled-hallucination account of the explanatory gap; JEPA). ASSESS-FIRST downstream: IWMT is itself a predictive-processing theory, so the expand step must check overlap with concepts/predictive-processing.md and may retarget to expand that page rather than mint a standalone, with license to decline. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/integrated-world-modeling-theory-2026-06-16.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'integrated-world-modeling-theory' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-06-16: Cross-link discrimination-problem → direction-dependent-discriminating-test-design (+ assess reconsolidation link)
 - **Type**: refine-draft

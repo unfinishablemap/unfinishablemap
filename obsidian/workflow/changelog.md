@@ -5,6 +5,13 @@ ai_modified: 2026-06-16 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T14:10:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Integrated World Modeling Theory (IWMT) as a materialist account of consciousness
+- **Output**: [[research/integrated-world-modeling-theory-2026-06-16]]
+- **Sources consulted**: 3 (web-verified: Safron 2020 Frontiers AI 3:30; Safron 2022 Front. Comput. Neurosci. 16:642397; Assran et al. 2023 I-JEPA CVPR) + 2 noted-not-verified companion papers
+- **Note**: IWMT already covered at depth in concepts/predictive-processing.md — research note recommends downstream expand-topic RETARGET to that page or DECLINE a standalone (not a true content gap; harvest dedupe missed the embedded sub-section).
+
 ## 2026-06-16T13:50:58+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/anti-correlated-metacognitive-signal]]
