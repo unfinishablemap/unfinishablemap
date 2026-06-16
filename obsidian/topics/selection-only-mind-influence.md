@@ -4,8 +4,8 @@ description: "Human–AI exploration of the strictest reading of mind-on-quantum
 created: 2026-05-05
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-06-03T01:00:35+00:00
-last_deep_review: 2026-06-02T00:00:00+00:00
+ai_modified: 2026-06-16T04:17:56+00:00
+last_deep_review: 2026-06-16T04:17:56+00:00
 draft: false
 topics: []
 concepts:

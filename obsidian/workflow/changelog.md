@@ -5,6 +5,18 @@ ai_modified: 2026-06-16 04:45:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T04:17:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/selection-only-mind-influence]]
+- **Word count**: 2757 → 2757 (no change; convergence pass, length-neutral, no body edits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (4th review; article at convergence — "no issues found" is the expected outcome)
+- **Citation web-verify**: completed the publisher-of-record per-cite ledger left partial by prior reviews. 8 bibliographic sources verified — all real-correct (Zheng & Meister 2025 *Neuron*; Han & Choi 2016 *Sci Rep*; Bösch et al. 2006 *Psych Bull*; Maier et al. 2018 *Front Psychol* — confirmed 12,571 subjects + BF01=10.07; Jahn et al. 2000 *JSE*; Stapp QID *Zygon* 2006 — quote substance confirmed in extracted PDF body; Walach et al. 2014 Psi Encyclopedia URL; Atmanspacher/Collins/Pitts carried). No fabrications, no misattributions, no inline↔ref orphans. Empirical-currency sweep: zero superlative claims.
+- **Regression check**: the two previously-fixed citation defects (Zheng & Meister — was fabricated "Stoll & Zheng" stance-reversal, fixed 2026-06-02; Han & Choi co-author, fixed 2026-06-03) both confirmed intact, no regression.
+- **Engagement classification**: Collins/Pitts energy-conservation → Mode One (defective on own terms); ensemble-epiphenomenalism → Mode Three (honest framework-boundary marking). No label leakage. No boundary substitution.
+- **Output**: [[reviews/deep-review-2026-06-16-selection-only-mind-influence]]
+
 ## 2026-06-16T03:59:24+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[positions/quantum-interface]] (primary); [[positions/agency-and-will]], [[concepts/motor-selection]] (demonstration back-references)
