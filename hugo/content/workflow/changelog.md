@@ -9,6 +9,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-16T04:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [memory-channel-interface-evidence](/topics/memory-channel-interface-evidence/)
+- **Selection basis**: COALESCE REMEDIATION (P3 verify task) — coalesce stamped `last_deep_review` on an unreviewed merge (coalesce-hides-review-debt-and-regresses-fixes); this is the real review.
+- **Word count**: 4296 → 4296 (verification-only pass; no body change)
+- **Critical issues addressed**: 0 (none found after full scrutiny)
+- **Medium issues addressed**: 0 (length watch-item noted, not actioned)
+- **Merge fidelity**: BOTH faces survived intact — substrate-state vulnerability hierarchy (Tulving framework, five-state table, cross-mechanism convergence) + direction-of-travel asymmetry (anaesthesia hysteresis/neural-inertia, terminal-lucidity falling-vs-rising substrate, dissociation onset-vs-recovery). All calibration hedges survived. Merge RESOLVED a latent inter-source tension ("reverse order" → "direction-dependent order").
+- **Citations**: all 17 cites confirmed real-correct against the 2026-06-04 + 2026-06-05 publisher-of-record audits; the three 2026-06-05 metadata fixes (Sepúlveda co-author/page, Nahm subtitle, Batthyány journal) SURVIVED the merge; corpus-wide Carrasco sweep confirmed complete (0 live instances). Coalesce dropped 3 uncited foundational orphans (Bergson/Huxley/James) — acceptable cleanup. Superlative-currency sweep empty.
+- **Length decision**: ACCEPT AS SURVEY (4296w hard_warning, well under 6000 critical; coalesce already achieved 36% reduction with proper case de-duplication; forcing under 4000 would cut load-bearing substance or calibration hedges).
+- **Verdict**: CONFIRMING — coalesce is genuinely clean after real scrutiny.
+- **Output**: [deep-review-2026-06-16-memory-channel-interface-evidence](/reviews/deep-review-2026-06-16-memory-channel-interface-evidence/)
+
 ## 2026-06-16T03:10:00+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [memory-system-vulnerability-hierarchies-as-interface-evidence](/topics/memory-system-vulnerability-hierarchies-as-interface-evidence/) (3812w), [recovery-order-asymmetry-as-interface-evidence](/topics/recovery-order-asymmetry-as-interface-evidence/) (2867w)
