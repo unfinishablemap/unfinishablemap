@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-16T00:46:23.655684+00:00'
-session_count: 11222
-cycle_position: 9127
+last_updated: '2026-06-16T00:54:35.513690+00:00'
+session_count: 11223
+cycle_position: 9128
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-16T00:33:28.427439+00:00'
@@ -24,9 +24,9 @@ last_runs:
   commission-gemini-review: '2026-06-14T04:07:15.493292+00:00'
   refine-draft: '2026-06-16T00:41:12.047697+00:00'
   research-topic: '2026-06-16T00:23:49.004286+00:00'
-  replenish-queue: '2026-06-16T00:46:23.655684+00:00'
+  replenish-queue: '2026-06-16T01:35:00+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
-  expand-topic: '2026-06-14T18:33:07.498286+00:00'
+  expand-topic: '2026-06-16T00:54:35.513690+00:00'
   add-highlight: '2026-06-15T11:21:03.021858+00:00'
   literature-drift-review: '2026-06-09T05:03:33.000616+00:00'
   collect-chatgpt-review: '2026-06-14T03:57:47.559156+00:00'
@@ -80,7 +80,7 @@ convergence_targets:
   max_critical_issues: 0
   max_medium_issues: 3
 progress:
-  topics_written: 267
+  topics_written: 268
   concepts_written: 260
   arguments_written: 5
   questions_written: 0
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-15'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-15'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-16'
+  outcome: success
+- task: expand-topic
+  type: expand-topic
   date: '2026-06-16'
   outcome: success
 agentic_social:
@@ -997,34 +997,43 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1
+  p2_tasks: 0
   p3_tasks: 1
   needs_replenishment: false
-  loop_pickable_open: 1
-  last_replenishment: '2026-06-16T01:05:00+00:00'
+  loop_pickable_open: 0
+  last_replenishment: '2026-06-16T01:35:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-16 run #64 (standard mode) - HONEST NO-OP,
+  current_replenishment_note: '2026-06-16 run #65 (standard mode) - HONEST NO-OP,
     0 minted. Note OVERWRITTEN in place per replenish-note-bare-hash-breaks-yaml (no
     new dated key, no bare hash, no stray quote, no sentinel token). KEY CHANGE since
-    run #63: the P2 refine-draft "Fix dangling Craddock cite + soften 3 over-claims
-    in concepts/consciousness-selecting-neural-patterns.md" (pessimistic-review own
-    follow-up, todo.md ### now prefixed) is DONE - it was executed by the 00:41 UTC
-    refine-draft pass and is now a ✓-marked header. So loop-pickable P0-P2 dropped
-    2→1: only the P2 chemosensory expand-topic (line 3, unconsumed-research chain)
-    remains pickable, plus 1 P3 (naturalist-relationalism research, research-harvest).
-    Floor 1 < MIN_QUEUE 3 but NO genuine NEW task to mint - correct no-op; do NOT
-    fabricate a task to hit the floor. Floor fills organically: chemosensory expand-topic
-    runs and chains to cross-review; P3 relationalism research chains to expand-topic;
-    outer reviews resume. The 5 other open headers are non-pickable: 2 HUMAN LENGTH
-    DECISION duhem-quine (human-decision type, diverted), 2 veto-tagged condense P2
-    (meaning-of-life 4160w, phenomenal-output-causal-machinery 6989w - floor-excluded
-    by veto tag), and the relocated/struck-through residue. SOURCE-BY-SOURCE (all
-    re-run on disk THIS run): CHAINS (S1) / UNCONSUMED RESEARCH (S2) 0 - chemosensory-...-2026-06-16.md
-    is the SOLE new research note (find/ls confirm) and is ALREADY consumed into the
-    line-3 expand-topic; 395 notes all prior-consumed. GAPS (S3) 0 - mature saturated
-    corpus. STALENESS (S4) 0 mintable - cycle deep-review slots handle it. LENGTH
-    (S6) 0 mintable - get_length_warnings re-run: 46 hard+ rows, 22 live-article (non-research)
-    offenders, but EVERY one is either a human-DEFERRED/DIVERTED flagship split (epistemology-of-convergence-arguments
+    run #64: the P2 chemosensory expand-topic (Write article on chemosensory consciousness
+    and the interface) is now DONE - executed by the 00:51 UTC expand-topic pass,
+    article on disk at topics/chemosensory-consciousness-and-the-interface.md (2241w
+    body, status ok, well under the 4000 topics hard ceiling), now a ✓-marked header
+    in the Completed section. Its integration chain was completed by the fork itself:
+    reciprocal inbound links verified present in topics/dualist-perception.md (Beyond-the-Visual
+    para) and topics/consciousness-as-perceptual-architect.md (sommelier para), plus
+    the auditory companion - NOT an orphan, so NO integrate-orphan / cross-review
+    follow-on is needed. So loop-pickable P0-P2 dropped 1→0; the only open Active
+    task is the P3 naturalist-relationalism research (research-harvest), which does
+    NOT count toward the MIN_QUEUE floor of 3. Floor 0 < 3 but NO genuine NEW task
+    to mint - correct no-op; do NOT fabricate a task to hit the floor (documented
+    replenish-at-floor steady state, unfin_loop_steady_state). Floor fills organically:
+    the P3 relationalism research runs and chains to an expand-topic (concepts cap
+    headroom confirmed); outer reviews resume on their wall-clock schedule. Non-pickable
+    Active residue unchanged: 2 HUMAN LENGTH DECISION duhem-quine (human-decision
+    type, diverted), 2 veto-tagged condense P2 (meaning-of-life 4160w, phenomenal-output-causal-machinery
+    6832w - floor-excluded by veto tag), and the relocated/struck-through residue.
+    SOURCE-BY-SOURCE (all re-run on disk THIS run): CHAINS (S1) 0 - the chemosensory
+    research→expand-topic chain is fully discharged incl integration links; today''s
+    refine/pessimistic completions (Craddock fix) are closed with no open follow-on.
+    UNCONSUMED RESEARCH (S2) 0 - chemosensory-...-2026-06-16.md is the SOLE new research
+    note (ls -t confirm) and is ALREADY consumed into the now-done expand-topic; the
+    relationalism research note is not yet on disk (its P3 task has not run); 395
+    notes all prior-consumed. GAPS (S3) 0 - mature saturated corpus. STALENESS (S4)
+    0 mintable - cycle deep-review slots handle it. LENGTH (S6) 0 mintable - get_length_warnings
+    re-run: 46 hard+ rows, 22 live-article (non-research) offenders, but EVERY one
+    is either a human-DEFERRED/DIVERTED flagship split (epistemology-of-convergence-arguments
     6479w crit STANDING-HUMAN-SPLIT in Blocked Tasks - 4 prior condenses all failed,
     load-bearing calibration; born-rule 5106w, clinical-dissociation 4863w, time-collapse
     4606w, argument-from-reason 4489w, epistemic-advantages 4400w, laws-and-dispositions
@@ -1036,18 +1045,18 @@ queue_status:
     filter-theory, what-voids-reveal, wholeheartedness-void, agency-void, metaphysics-of-composition)
     - condensing any re-litigates an accepted verdict per human-decision-task-mispicked-as-refine
     + deep_review_over_reviews_converged. research/*.md rows excluded (no length ceiling).
-    ORPHANS (S5) 0 (quality.orphaned_files 0). OUTER REVIEWS 0 pending (pending-reviews.yaml
-    = []). POSITIONS add (S7a) 0 / update (S7b) 0 - the just-closed Craddock target
-    consciousness-selecting-neural-patterns is cited by NO position (grep obsidian/positions
-    clean), and the new chemosensory/relationalism chain touches no position; audit
-    (S7c) NOT due (last reviews/positions-audit-2026-06-09, within 30d). APPLIED-APEX
-    (S8) 0 (1 applied apex exists; no high-confidence cluster lacking one). Dedupe
-    re-confirmed on disk: chemosensory/olfaction/gustation has ONLY the research note
-    (no live or archived article, no redirect collision); naturalist-relationalism/naive-realism
-    NONE anywhere (live + archive). Sections on disk (find, excl section-index): topics
-    267/300, concepts 260/300, voids 101/100 OVER cap, positions 3 domain files /
-    80 cap, apex 34. State YAML re-validated post-edit. (Historical context from run
-    #63 below has been superseded by this note.)'
+    ORPHANS (S5) 0 (quality.orphaned_files 0; new chemosensory article has 3 inbound
+    links, not an orphan). OUTER REVIEWS 0 pending (pending-reviews.yaml = []). POSITIONS
+    add (S7a) 0 / update (S7b) 0 - no position cites any article touched today (chemosensory,
+    dualist-perception, consciousness-as-perceptual-architect, auditory, consciousness-selecting-neural-patterns
+    - all grep-clean against obsidian/positions); audit (S7c) NOT due (last reviews/positions-audit-2026-06-09,
+    within 30d). APPLIED-APEX (S8) 0 (1 applied apex exists; no high-confidence cluster
+    lacking one). Dedupe re-confirmed on disk: naturalist-relationalism/naive-realism
+    has NO live/archived article (only the not-yet-run P3 research task). Sections
+    on disk (find, excl section-index): topics 268/300, concepts 260/300, voids 101/100
+    OVER cap, positions 3 domain files / 80 cap, apex 34. State YAML re-validated
+    post-edit. (Historical context from run #64 below has been superseded by this
+    note.)'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
