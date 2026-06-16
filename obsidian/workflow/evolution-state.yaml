@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-16T15:50:58.375605+00:00'
-session_count: 11396
+last_updated: '2026-06-16T15:58:47.612844+00:00'
+session_count: 11397
 cycle_position: 9197
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-16T04:14:32.657292+00:00'
   refine-draft: '2026-06-16T15:05:50.672974+00:00'
   research-topic: '2026-06-16T14:05:29.074973+00:00'
-  replenish-queue: '2026-06-16T15:48:33.616741+00:00'
+  replenish-queue: '2026-06-16T15:58:47.612844+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-16T08:06:09.164774+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-16'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-16'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: check-model-fallback
   type: check-model-fallback
+  date: '2026-06-16'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-16'
   outcome: success
 agentic_social:
@@ -1016,52 +1016,47 @@ queue_status:
   current_replenishment_note: '2026-06-16 run #132 (standard mode) - HONEST NO-OP,
     0 minted. loop_pickable_open independently verified 0 on disk THIS run (did NOT
     trust run #131 note). Active region (### headers, lines 38-1021) re-scanned: every
-    Active header is closed/diverted EXCEPT the two veto-tagged condense headers
-    (meaning-of-life, apex/phenomenal-output-causal-machinery-dissociation) which
-    carry the #veto tag the selector skips and the loop relocates to Vetoed. All
-    eight sources re-derived from disk. CHAINS (S1) 0 - newest 6 articles by mtime
-    (forward-in-time-vs-time-symmetric-selection 3, qm-interpretations-beyond-many-worlds
-    23, predictive-processing 29, anti-correlated-metacognitive-signal 13,
-    reconsolidation-as-selection-window 6, direction-dependent-discriminating-test-design
-    5 inbound) all >=3; none newly-created owing cross-review/integrate-orphan.
-    UNCONSUMED RESEARCH (S2) 0 - three newest non-void notes (all 2026-06-16) all
-    consumed on disk: integrated-world-modeling-theory -> IWMT/Safron grep-confirmed
-    in concepts/predictive-processing.md; naturalist-relationalism ->
-    concepts/naturalist-relationalism.md; chemosensory ->
-    topics/chemosensory-consciousness-and-the-interface.md; next note metacognition
+    Active header is closed/diverted EXCEPT the two veto-tagged condense headers (meaning-of-life,
+    apex/phenomenal-output-causal-machinery-dissociation) which carry the #veto tag
+    the selector skips and the loop relocates to Vetoed. All eight sources re-derived
+    from disk. CHAINS (S1) 0 - newest 6 articles by mtime (forward-in-time-vs-time-symmetric-selection
+    3, qm-interpretations-beyond-many-worlds 23, predictive-processing 29, anti-correlated-metacognitive-signal
+    13, reconsolidation-as-selection-window 6, direction-dependent-discriminating-test-design
+    5 inbound) all >=3; none newly-created owing cross-review/integrate-orphan. UNCONSUMED
+    RESEARCH (S2) 0 - three newest non-void notes (all 2026-06-16) all consumed on
+    disk: integrated-world-modeling-theory -> IWMT/Safron grep-confirmed in concepts/predictive-processing.md;
+    naturalist-relationalism -> concepts/naturalist-relationalism.md; chemosensory
+    -> topics/chemosensory-consciousness-and-the-interface.md; next note metacognition
     is 2026-01-18, outside the 14-day chain window. GAPS (S3) 0 - mature saturated
-    corpus. STALENESS (S4) 0 mintable - handled by the cycle deep-review slots
-    (deep-review-over-reviews-converged regression zone). LENGTH (S6) 0 mintable -
-    canonical get_length_warnings (frontmatter-stripped body) filtered to LIVE
-    sections: the two critical live offenders (epistemology-of-convergence-arguments
+    corpus. STALENESS (S4) 0 mintable - handled by the cycle deep-review slots (deep-review-over-reviews-converged
+    regression zone). LENGTH (S6) 0 mintable - canonical get_length_warnings (frontmatter-stripped
+    body) filtered to LIVE sections: the two critical live offenders (epistemology-of-convergence-arguments
     6479w DIVERTED-TO-HUMAN, apex/phenomenal-output-causal-machinery-dissociation
     6832w veto-parked) are standing HUMAN LENGTH DECISIONs; apex-articles.md 6963w
     is the apex section-index list page (not a condense target); the ~22 hard_warning
     live topics/concepts/voids/apex are ALL recently-modified (every one within ~14d,
     several today: predictive-processing/quantum-biology/memory-channel/qm-interpretations
-    06-16; composition-question-rivals 06-15; born-rule 06-08 human-deferred) so
-    condensing fresh calibration content would fight the calibration that produced
-    the length. ORPHANS (S5) 0 (quality.orphaned_files 0; all new articles >=3
-    inbound). OUTER REVIEWS: 2026-06-16 cycle fully synthesized
-    (obsidian/reviews/outer-review-synthesis-2026-06-16.md exists), 0 pending
-    entries - none owe a replenish action. POSITIONS add (S7a) 0 - no new stable
-    commitment language in recent changelog. update (S7b) 0 GENUINE - the two
-    today-modified articles cited by quantum-interface positions
-    (quantum-biology-and-neural-consciousness, qm-interpretations-beyond-many-worlds)
-    were 3-4 line calibration-ALIGNMENT refines from the 06-16 outer review (commits
-    311d5fe6a, 54f4e94ea) that brought the articles TOWARD the P-Q8/retrocausality
-    register language, not dependency moves owing re-verification. Audit (S7c) NOT
-    due - register audit ran 2026-06-09, today 7d later, inside the 30d window;
-    register has 18 entries (A1-5 / Q1-10 / V1-3) across 4 domain files. APPLIED-APEX
-    (S8) 0 - existing applied apex assessing-ai-consciousness-under-the-map.md covers
-    the quantum-interface cluster (4 high-confidence positions). Queue at 0 is below
-    the floor of 3 but do NOT fabricate filler (documented replenish-at-floor steady
-    state, unfin_loop_steady_state + p3-only-floor-preemption-starves); the floor
-    fills organically from cycle deep-review/coalesce/pessimistic slots, the next
-    outer-review synthesis, and the every-cycle topic-concept anchoring audit.
+    06-16; composition-question-rivals 06-15; born-rule 06-08 human-deferred) so condensing
+    fresh calibration content would fight the calibration that produced the length.
+    ORPHANS (S5) 0 (quality.orphaned_files 0; all new articles >=3 inbound). OUTER
+    REVIEWS: 2026-06-16 cycle fully synthesized (obsidian/reviews/outer-review-synthesis-2026-06-16.md
+    exists), 0 pending entries - none owe a replenish action. POSITIONS add (S7a)
+    0 - no new stable commitment language in recent changelog. update (S7b) 0 GENUINE
+    - the two today-modified articles cited by quantum-interface positions (quantum-biology-and-neural-consciousness,
+    qm-interpretations-beyond-many-worlds) were 3-4 line calibration-ALIGNMENT refines
+    from the 06-16 outer review (commits 311d5fe6a, 54f4e94ea) that brought the articles
+    TOWARD the P-Q8/retrocausality register language, not dependency moves owing re-verification.
+    Audit (S7c) NOT due - register audit ran 2026-06-09, today 7d later, inside the
+    30d window; register has 18 entries (A1-5 / Q1-10 / V1-3) across 4 domain files.
+    APPLIED-APEX (S8) 0 - existing applied apex assessing-ai-consciousness-under-the-map.md
+    covers the quantum-interface cluster (4 high-confidence positions). Queue at 0
+    is below the floor of 3 but do NOT fabricate filler (documented replenish-at-floor
+    steady state, unfin_loop_steady_state + p3-only-floor-preemption-starves); the
+    floor fills organically from cycle deep-review/coalesce/pessimistic slots, the
+    next outer-review synthesis, and the every-cycle topic-concept anchoring audit.
     Sections on disk (find, excl section-index): topics 269/300, concepts 262/300,
-    voids 102/100 OVER cap, positions 4 domain files /80, apex 35. State YAML
-    re-validated post-edit.'
+    voids 102/100 OVER cap, positions 4 domain files /80, apex 35. State YAML re-validated
+    post-edit.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0

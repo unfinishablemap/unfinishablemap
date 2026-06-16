@@ -5,6 +5,13 @@ ai_modified: 2026-06-16 15:14:11+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T16:00:02+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/direction-dependent-discriminating-test-design]] — a proposed reversible-perturbation discriminating-test design
+- **Findings**: 1 critical (editor-vocabulary "Mode Four" leaked into prose, line 38, [[direct-refutation-discipline]] violation); 1 medium (Proekt & Hudson 2018 mischaracterised as "single bistable system" — paper requires >2 states / a 10-state Markov model, web-verified PubMed 29935600); plus uncited regional-targeting assumption (line 58). Strongest persona challenge (Dennett/Popper convergent): the refuted "substrate-symmetric production reading" is a strawman no working physicalist holds, and the article concedes a realistic production account absorbs any reversal — so only the symmetry branch is genuinely falsifiable. Citations Verhagen 2019 / Cain 2021 / Sepúlveda 2019 verified clean; altered-state symmetry audit N/A (supportive-cluster gate fails).
+- **Queued**: P2 refine-draft (label-leak deletion + Proekt/Hudson rewording)
+- **Output**: [[reviews/pessimistic-2026-06-16-direction-dependent-test]]
+
 ## 2026-06-16T15:14:11+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/forward-in-time-vs-time-symmetric-selection]]
