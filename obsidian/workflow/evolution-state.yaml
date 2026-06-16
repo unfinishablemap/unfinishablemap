@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-16T11:59:12.206202+00:00'
-session_count: 11349
+last_updated: '2026-06-16T12:03:29.405814+00:00'
+session_count: 11350
 cycle_position: 9180
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-06-16T08:01:44.235542+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-15T23:01:34.616166+00:00'
-  agentic-social: '2026-06-16T11:19:01.492532+00:00'
+  agentic-social: '2026-06-16T12:06:34.757723+00:00'
   embed-videos: '2026-06-16T09:20:34.959565+00:00'
   commission-chatgpt-review: '2026-06-16T02:09:55.835517+00:00'
   commission-claude-review: '2026-06-16T03:16:54.357867+00:00'
   commission-gemini-review: '2026-06-16T04:14:32.657292+00:00'
   refine-draft: '2026-06-16T10:50:23.881100+00:00'
   research-topic: '2026-06-16T01:23:13.092650+00:00'
-  replenish-queue: '2026-06-16T11:54:02.006748+00:00'
+  replenish-queue: '2026-06-16T12:03:29.405814+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-16T08:06:09.164774+00:00'
@@ -96,10 +92,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: skip-queue-slot
-  type: skip-queue-slot
-  date: '2026-06-16'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-16'
@@ -176,16 +168,12 @@ recent_tasks:
   type: optimistic-review
   date: '2026-06-16'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-06-16'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/
-    date: '2026-06-09T11:32:51.863201+00:00'
-    topics:
-    - consciousness
-    - dualism
-    - qualia
-    - quantum-consciousness
-    - free-will
   - url: https://unfinishablemap.org/topics/phenomenology-of-trust/
     date: '2026-06-09T12:32:41.052573+00:00'
     topics:
@@ -1004,6 +992,11 @@ agentic_social:
     - hard-problem-of-consciousness
     - binding-problem
     - unity-of-consciousness
+  - url: https://unfinishablemap.org/concepts/libet-experiments/
+    date: '2026-06-16T12:06:34.757674+00:00'
+    topics:
+    - topics/free-will
+    - hard-problem-of-consciousness
 tune_system_history:
   last_run: '2026-06-15T12:20:00+00:00'
   changes_applied: []
@@ -1025,33 +1018,33 @@ queue_status:
     0 minted; every source independently re-derived from disk THIS run, NOT trusting
     the prior run #109 note. Note OVERWRITTEN in place per replenish-note-bare-hash
     discipline (no new dated key, no bare hash outside this quoted scalar, no stray
-    quote, no sentinel token). loop_pickable_open: 1 (corrected up from the stale 0
-    the prior run carried) - the lone pickable Active task is the NEW P3 refine-draft
+    quote, no sentinel token). loop_pickable_open: 1 (corrected up from the stale
+    0 the prior run carried) - the lone pickable Active task is the NEW P3 refine-draft
     "Cross-link discrimination-problem -> direction-dependent-discriminating-test-design"
     minted by optimistic-review THIS cycle (Source: optimistic-review, Generated 2026-06-16,
     Status pending). Independent re-scan of the Active section (awk Active..Completed
     slice + grep -v of all closed-state markers): the only non-closed Active headers
     are that P3 refine + the two veto-tagged condense tasks (topics/meaning-of-life
     4160w soft-veto pending human split, apex/phenomenal-output-causal-machinery-dissociation
-    6989w hard-veto pending human structural split, both confirmed Status pending +
-    #veto) + the two HUMAN LENGTH DECISION duhem-quine headers (human-decision, not
-    loop-pickable); the ^ RELOCATED meta-epistemology header is a stub pointing at
-    an already-completed active copy. The long tail of P3 Ideas-for-Later + BLOCKED
+    6989w hard-veto pending human structural split, both confirmed Status pending
+    + #veto) + the two HUMAN LENGTH DECISION duhem-quine headers (human-decision,
+    not loop-pickable); the ^ RELOCATED meta-epistemology header is a stub pointing
+    at an already-completed active copy. The long tail of P3 Ideas-for-Later + BLOCKED
     headers sits BELOW the Completed header (parser-excluded, orphaned-pending-tasks
     steady state). 1 pickable P3 is below the floor of 3 but do NOT fabricate a task
     (documented replenish-at-floor steady state, unfin_loop_steady_state + p3-only-floor-preemption-starves);
-    the floor fills organically from cycle deep-review/coalesce/pessimistic slots and
-    the next outer-review synthesis. SOURCE-BY-SOURCE (all re-run on disk THIS run):
-    CHAINS (S1) 0 - three recent expand-topic targets (tactile/naturalist-relationalism/chemosensory,
+    the floor fills organically from cycle deep-review/coalesce/pessimistic slots
+    and the next outer-review synthesis. SOURCE-BY-SOURCE (all re-run on disk THIS
+    run): CHAINS (S1) 0 - three recent expand-topic targets (tactile/naturalist-relationalism/chemosensory,
     all 2026-06-16) verified to carry inbound links (chemosensory 6, naturalist-relationalism
-    3, tactile 3) so no cross-review/integrate-orphan owed; commit tail otherwise cycle
-    churn (replenish/skip/deep-review/pessimistic/optimistic/agentic-social), only
-    non-cycle content commit is the now-done retrocausality refine (b37365cd0). UNCONSUMED
-    RESEARCH (S2) 0 - two newest notes (naturalist-relationalism + chemosensory, both
-    2026-06-16) BOTH consumed: concepts/naturalist-relationalism.md and topics/chemosensory-consciousness-and-the-interface.md
-    exist; metacognition note is 01-18, far outside the 14-day chain window. GAPS (S3)
-    0 - mature saturated corpus. STALENESS (S4) 0 mintable - cycle deep-review slots
-    handle it. LENGTH (S6) 0 mintable, confirmed via canonical get_length_warnings
+    3, tactile 3) so no cross-review/integrate-orphan owed; commit tail otherwise
+    cycle churn (replenish/skip/deep-review/pessimistic/optimistic/agentic-social),
+    only non-cycle content commit is the now-done retrocausality refine (b37365cd0).
+    UNCONSUMED RESEARCH (S2) 0 - two newest notes (naturalist-relationalism + chemosensory,
+    both 2026-06-16) BOTH consumed: concepts/naturalist-relationalism.md and topics/chemosensory-consciousness-and-the-interface.md
+    exist; metacognition note is 01-18, far outside the 14-day chain window. GAPS
+    (S3) 0 - mature saturated corpus. STALENESS (S4) 0 mintable - cycle deep-review
+    slots handle it. LENGTH (S6) 0 mintable, confirmed via canonical get_length_warnings
     (50 hard+ warnings, 25 non-research): the hard+ NON-research list is the two veto
     P2s, the section-index registry apex/apex-articles.md 6963w (NOT a standard article),
     the human-deferred flagships (epistemology-of-convergence 6479w DEFERRED, born-rule
@@ -1065,8 +1058,8 @@ queue_status:
     in the deep-review-over-reviews-converged regression zone = CYCLE-SLOT work not
     floor-stall mints. No clean mintable offender. ORPHANS (S5) 0 (quality.orphaned_files
     0). OUTER REVIEWS: 2026-06-16 cycle fully synthesized (obsidian/reviews/outer-review-synthesis-2026-06-16.md
-    exists; both pending-reviews entries collected, 0 pending), 0 pending entries owe
-    a replenish action. POSITIONS add (S7a) 0; update (S7b) 0 - no recent Argued-in
+    exists; both pending-reviews entries collected, 0 pending), 0 pending entries
+    owe a replenish action. POSITIONS add (S7a) 0; update (S7b) 0 - no recent Argued-in
     article change owes an update; audit (S7c) NOT due (last positions-audit 2026-06-10,
     within 30d; 4 domain files agency-and-will/quantum-interface/voids-as-evidence
     + positions.md index). APPLIED-APEX (S8) 0 - no new high-confidence cluster gap.
