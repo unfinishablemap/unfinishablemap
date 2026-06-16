@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-16T08:30:37.986676+00:00'
-session_count: 11306
-cycle_position: 9163
+last_updated: '2026-06-16T08:35:32.672273+00:00'
+session_count: 11307
+cycle_position: 9164
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-16T05:51:41.234313+00:00'
   optimistic-review: '2026-06-16T06:48:31.838762+00:00'
   check-tenets: '2026-06-16T05:12:41.533946+00:00'
   check-links: '2026-06-15T22:47:09.324541+00:00'
-  deep-review: '2026-06-16T07:29:22.444570+00:00'
+  deep-review: '2026-06-16T08:35:32.672273+00:00'
   tune-system: '2026-06-15T12:41:35.415464+00:00'
   research-voids: '2026-06-15T22:51:15.168171+00:00'
   coalesce: '2026-06-16T08:01:44.235542+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-15T23:01:34.616166+00:00'
-  agentic-social: '2026-06-16T07:51:35.747410+00:00'
+  agentic-social: '2026-06-16T08:38:12.321527+00:00'
   embed-videos: '2026-06-16T05:04:44.447698+00:00'
   commission-chatgpt-review: '2026-06-16T02:09:55.835517+00:00'
   commission-claude-review: '2026-06-16T03:16:54.357867+00:00'
@@ -87,7 +83,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 396
-  reviews_completed: 5350
+  reviews_completed: 5351
   apex_articles: 34
 quality:
   critical_issues: 0
@@ -96,10 +92,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-16'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-16'
@@ -174,6 +166,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-16'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-16'
   outcome: success
 agentic_social:
@@ -996,6 +992,11 @@ agentic_social:
     topics:
     - four-quadrant-dualism-taxonomy
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/topics/experimental-consciousness-science-2025-2026/
+    date: '2026-06-16T08:38:12.321479+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - consciousness
 tune_system_history:
   last_run: '2026-06-15T12:20:00+00:00'
   changes_applied: []
