@@ -1,13 +1,46 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-16 15:14:11+00:00
+ai_modified: 2026-06-16 16:30:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-16'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-16T17:10:00+00:00 - apex-evolve
+- **Status**: Success
+- **Mode**: create (applied apex)
+- **Article**: [research-programme-decisions-under-the-map](/apex/research-programme-decisions-under-the-map/)
+- **Decision context**: which research directions are most warranted by the framework's confidence structure, and which yield the most decision-relevant evidence
+- **Positions cited**: P-Q1, P-Q3, P-Q6, P-Q9, P-Q10 (quantum interface); cross-register note to P-A3
+- **Word count**: 0 → 2963 (within 2500-4000 target)
+- **Slot**: A5 (apex-articles.md) Proposed → Created
+- **Citations**: all reuse cluster's already-verified set; no new unverified citations
+- **Assess-first**: confirmed additive over the two descriptive programme apexes and the AI-consciousness applied apex (distinct portfolio-prioritisation angle, deep-links ^mechanism-debt rather than reciting)
+
+## 2026-06-16T16:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [mine-ness](/concepts/mine-ness/)
+- **Word count**: 2623 → 2623 (no body edits; 105% of soft threshold, soft_warning)
+- **Critical issues addressed**: 0 (none found — fifth pass; converged article)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (verification no-op; forcing edits would risk oscillation)
+- **Verification**: Sole change since 2026-06-05 review is one Further Reading back-link to [self-construction-constructor](/apex/self-construction-constructor/) (added 2026-06-15, reciprocal of apex L73). Verified accurate against live target — mine-ness/agency double dissociation genuinely supplies the constructor-asymmetry argument there; link reciprocal and resolves. All 18 body wikilinks resolve; no superlative empirical claims; no calibration slippage; References block unchanged so §2.4 publisher web-verify not re-triggered. Reasoning-mode classifications preserved (Metzinger Mode Two, Knappik Mode One, Many-Worlds Mode Three).
+- **Output**: [deep-review-2026-06-16-mine-ness](/reviews/deep-review-2026-06-16-mine-ness/)
+
+## 2026-06-16T16:22:23+00:00 - refine-draft
+- **Status**: Success
+- **File**: [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/)
+- **Original score**: review-driven (pessimistic-2026-06-16, 1 critical + 1 medium)
+- **Changes**:
+  - CRITICAL (Issue 1) — deleted the editor-vocabulary parenthetical "([Mode Four](/project/direct-refutation-discipline/))" from line 38 prose ([direct-refutation-discipline](/project/direct-refutation-discipline/) label-leakage rule). Length-neutral; the substance ("does not presuppose which way they would resolve") was already in natural language in the same sentence.
+  - MEDIUM (Issue 2) — Proekt & Hudson 2018 reworded (line 70). INDEPENDENTLY web-verified PMID 29935600 at PubMed (publisher of record): the pessimistic fork's claim was NOT a paper-conflation — the abstract genuinely states the two-well/two-state model is insufficient (ΔEC50/ΔHill-slope correlation "not explained by a two-well potential") and extends to a ten-state Markov process (three awake, seven unconscious) to reproduce the emergence left-shift and shallower Hill slope; "more than two states are required." Branch (b) confirmed. Replaced "a *single* bistable system" with the multistate characterisation; noted the multistate rival is *more* formidable (direction-blind, predicts increasing recovery variability), sharpening not softening the caution. Discriminator logic (cross-channel ordering read-out) untouched.
+  - Optional-while-there (a): line 58 targeting claim marked as the design's working assumption — the autonoetic-swing claim and the posited spatial dissociation between re-experiencing and recognition substrates are now flagged as preconditions the experiment must check, not facts it presumes (the uncited regional dissociation is honestly downgraded rather than left as an assertion).
+  - Optional-while-there (b): line 48 now flags [active-reboot](/concepts/active-reboot/) as a posited-not-specified reopening pathway whose own mechanism is undischarged, linking [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/) for the dualist-thickness cost of invoking it.
+  - Did NOT soften the symmetry-branch falsifiability (lines 76/84) — preserved as the article's best feature per task instruction.
+- **Published**: yes
 
 ## 2026-06-16T16:00:02+00:00 - pessimistic-review
 - **Status**: Success

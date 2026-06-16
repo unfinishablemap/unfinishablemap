@@ -4,7 +4,7 @@ description: "Curated index of the Map's apex articles—synthesis pieces integr
 created: 2026-01-24
 modified: 2026-05-25
 human_modified: 2026-01-24
-ai_modified: 2026-06-08T12:00:00+00:00
+ai_modified: 2026-06-16T17:10:00+00:00
 last_deep_review: 2026-04-27T21:27:00+00:00
 draft: false
 topics: []
@@ -760,8 +760,8 @@ Target count: 8–15 applied pieces across the corpus. Each one should answer a 
 **Slug**: `research-programme-decisions-under-the-map`
 **Type**: applied
 **Decision context**: For a working scientist or philosopher who accepts the Map's tenets, what research directions are most warranted by the framework's confidence structure? Which would yield the most decision-relevant evidence?
-**Status**: Proposed
-**Source positions**: TBD.
+**Status**: Created 2026-06-16 (admitted as the second applied apex — distinct from the two *descriptive* programme apexes `interface-specification-programme` and `post-decoherence-selection-programme` (which specify *what* the architecture is and *what a complete theory would require*) and from the applied apex `assessing-ai-consciousness-under-the-map` (decision context = AI-consciousness assessment). A5's distinct angle is *research-portfolio prioritisation*: it reads the register's confidence bands and **Would shift if** clauses as a priority map, ranking directions by how much a feasible result would move a band or discharge the mechanism debt. Highest-leverage direction is a worked toy model (P-Q10 caps five other bands); deprioritises aggregate-Born-rule hunts (P-Q9 pre-commits to a null there). Deep-links `positions/quantum-interface#^mechanism-debt` rather than reciting the crux. Cites P-Q1/P-Q3/P-Q6/P-Q9/P-Q10 with confidence bands surfaced in prose; required "What this implies for decisions" section present; all citations reuse the cluster's already-verified set (Donadi 2021, Tegmark 2000, Maier & Dechamps 2018, Chalmers & McQueen 2022, Torres Alegre 2025, Zheng & Meister 2025, Schurger 2012) — no new unverified citations. 2,963 words. Slug-collision + redirect-source + archive checks clean. Tenet alignment: Tenets 2 and 3 (the mechanism debt the top directions aim to pay) and 5 (licenses pursuing a costly mechanism programme over the simpler decoherence-only / Everettian dissolutions).)
+**Source positions**: P-Q1, P-Q3, P-Q6, P-Q9, P-Q10 (quantum interface), with the `^mechanism-debt` crux load-bearing; cross-register note to P-A3 (agency-and-will) on the subordinated time-symmetric route.
 
 ---
 

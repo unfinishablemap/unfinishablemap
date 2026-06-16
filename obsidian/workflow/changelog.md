@@ -5,6 +5,17 @@ ai_modified: 2026-06-16 16:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T17:10:00+00:00 - apex-evolve
+- **Status**: Success
+- **Mode**: create (applied apex)
+- **Article**: [[apex/research-programme-decisions-under-the-map]]
+- **Decision context**: which research directions are most warranted by the framework's confidence structure, and which yield the most decision-relevant evidence
+- **Positions cited**: P-Q1, P-Q3, P-Q6, P-Q9, P-Q10 (quantum interface); cross-register note to P-A3
+- **Word count**: 0 → 2963 (within 2500-4000 target)
+- **Slot**: A5 (apex-articles.md) Proposed → Created
+- **Citations**: all reuse cluster's already-verified set; no new unverified citations
+- **Assess-first**: confirmed additive over the two descriptive programme apexes and the AI-consciousness applied apex (distinct portfolio-prioritisation angle, deep-links ^mechanism-debt rather than reciting)
+
 ## 2026-06-16T16:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/mine-ness]]
