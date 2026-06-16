@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-16T23:25:48.543858+00:00'
-session_count: 11456
+last_updated: '2026-06-16T23:33:45.206559+00:00'
+session_count: 11457
 cycle_position: 9218
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-16T04:14:32.657292+00:00'
   refine-draft: '2026-06-16T17:46:27.669798+00:00'
   research-topic: '2026-06-16T14:05:29.074973+00:00'
-  replenish-queue: '2026-06-16T23:23:44.489503+00:00'
+  replenish-queue: '2026-06-16T23:33:45.206559+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-16T08:06:09.164774+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-06-16'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-16'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
+  date: '2026-06-16'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-16'
   outcome: success
 agentic_social:
@@ -1000,42 +1000,43 @@ queue_status:
   last_replenishment: '2026-06-16T23:32:00+00:00'
   last_replenishment_mode: standard
   current_replenishment_note: '2026-06-16 run no.156 (standard mode) - HONEST NO-OP,
-    0 minted. All eight sources independently re-derived fresh from disk this run (NOT
-    trusted from the prior note). ACTIVE-SECTION SCAN (todo.md lines 38-1028): every
-    triple-hash header carries a standard closing marker (check/strike/RELOCATED/RESOLVED/DEFERRED/DIVERTED/DECLINED)
+    0 minted. All eight sources independently re-derived fresh from disk this run
+    (NOT trusted from the prior note). ACTIVE-SECTION SCAN (todo.md lines 38-1028):
+    every triple-hash header carries a standard closing marker (check/strike/RELOCATED/RESOLVED/DEFERRED/DIVERTED/DECLINED)
     EXCEPT the documented steady-state exemptions the loop ignores - two HUMAN LENGTH
     DECISION headers (duhem-quine article, human-deferred) plus two #veto-tagged condense
     tasks (meaning-of-life 4160w; apex/phenomenal-output-causal-machinery-dissociation
-    6832w flagship). 0 loop-pickable open. EIGHT SOURCES re-verified: CHAINS (S1) 0
-    - recent_tasks contain no expand-topic/research-topic completion awaiting a successor.
-    UNCONSUMED RESEARCH (S2) 0 - 4 recent notes re-confirmed consumed via ls/grep:
-    chemosensory to topics/chemosensory-consciousness-and-the-interface.md (EXISTS),
-    naturalist-relationalism to concepts/naturalist-relationalism.md (EXISTS), metacognition
-    to concepts/metacognition.md (EXISTS), integrated-world-modeling folded into concepts/predictive-processing.md
-    (2 grep hits). GAPS (S3) 0 - section counts re-counted from disk: voids 101/100
-    over cap; topics 268/300 and concepts 261/300 have headroom but gap analysis documented-exhausted;
-    positions 3/80 deliberately slow. STALENESS (S4) 0 mintable - this pool is OWNED
-    by the cycle deep-review slot (17pct, ran 19:20 today); minting P3 deep-reviews
-    here only churns vs the cycle scorer. LENGTH (S6) 0 mintable - get_length_warnings
-    re-run: 8 critical + 42 hard = 50. Both CRITICAL content-article offenders exempt
-    (topics/epistemology-of-convergence-arguments 6479w = STANDING HUMAN LENGTH DECISION
-    in Blocked, 4 prior condenses failed, load-bearing Tenet-5 calibration, recommendation
-    SPLIT; apex/phenomenal-output 6832w = #veto-tagged). Other 6 critical entries are
-    research/ notes (no ceiling) + apex/apex-articles.md (section index hub). All 22
-    hard-tier CONTENT offenders are human-deferred (born-rule 5106w, clinical-dissociation
-    4861w, laws-and-dispositions 4213w, etc.), #veto, recently git-condensed within
-    14d (argument-from-reason, epistemic-advantages, time-collapse - git-confirmed),
-    or just-reviewed-today (memory-channel-interface-evidence 4296w deep-reviewed 2026-06-16,
-    accepted-as-survey under critical). ORPHANS (S5) 0 - quality.orphaned_files 0.
-    POSITIONS add (S7a) 0 / update (S7b) 0 / audit (S7c) not due - last audit 2026-06-09,
-    within 30d window. APPLIED-APEX (S8) 0 - third applied-apex slot DEFERRED-TO-HUMAN
-    (header in Active region). OUTER REVIEWS: 06-16 cycle fully synthesized (obsidian/reviews/outer-review-synthesis-2026-06-16.md
+    6832w flagship). 0 loop-pickable open. EIGHT SOURCES re-verified: CHAINS (S1)
+    0 - recent_tasks contain no expand-topic/research-topic completion awaiting a
+    successor. UNCONSUMED RESEARCH (S2) 0 - 4 recent notes re-confirmed consumed via
+    ls/grep: chemosensory to topics/chemosensory-consciousness-and-the-interface.md
+    (EXISTS), naturalist-relationalism to concepts/naturalist-relationalism.md (EXISTS),
+    metacognition to concepts/metacognition.md (EXISTS), integrated-world-modeling
+    folded into concepts/predictive-processing.md (2 grep hits). GAPS (S3) 0 - section
+    counts re-counted from disk: voids 101/100 over cap; topics 268/300 and concepts
+    261/300 have headroom but gap analysis documented-exhausted; positions 3/80 deliberately
+    slow. STALENESS (S4) 0 mintable - this pool is OWNED by the cycle deep-review
+    slot (17pct, ran 19:20 today); minting P3 deep-reviews here only churns vs the
+    cycle scorer. LENGTH (S6) 0 mintable - get_length_warnings re-run: 8 critical
+    + 42 hard = 50. Both CRITICAL content-article offenders exempt (topics/epistemology-of-convergence-arguments
+    6479w = STANDING HUMAN LENGTH DECISION in Blocked, 4 prior condenses failed, load-bearing
+    Tenet-5 calibration, recommendation SPLIT; apex/phenomenal-output 6832w = #veto-tagged).
+    Other 6 critical entries are research/ notes (no ceiling) + apex/apex-articles.md
+    (section index hub). All 22 hard-tier CONTENT offenders are human-deferred (born-rule
+    5106w, clinical-dissociation 4861w, laws-and-dispositions 4213w, etc.), #veto,
+    recently git-condensed within 14d (argument-from-reason, epistemic-advantages,
+    time-collapse - git-confirmed), or just-reviewed-today (memory-channel-interface-evidence
+    4296w deep-reviewed 2026-06-16, accepted-as-survey under critical). ORPHANS (S5)
+    0 - quality.orphaned_files 0. POSITIONS add (S7a) 0 / update (S7b) 0 / audit (S7c)
+    not due - last audit 2026-06-09, within 30d window. APPLIED-APEX (S8) 0 - third
+    applied-apex slot DEFERRED-TO-HUMAN (header in Active region). OUTER REVIEWS:
+    06-16 cycle fully synthesized (obsidian/reviews/outer-review-synthesis-2026-06-16.md
     present; pending-reviews.yaml 0 pending) so its tasks were minted at the combine
     pass - nothing waiting for replenish. Queue at 0 pickable is the documented replenish-at-floor
-    steady state (~19 consecutive honest no-ops) - do NOT fabricate filler; cycle deep-review
-    (17pct) / coalesce / pessimistic / optimistic slots plus the next outer-review synthesis
-    drain and feed the floor organically. State YAML re-validated post-edit (parses
-    OK).'
+    steady state (~19 consecutive honest no-ops) - do NOT fabricate filler; cycle
+    deep-review (17pct) / coalesce / pessimistic / optimistic slots plus the next
+    outer-review synthesis drain and feed the floor organically. State YAML re-validated
+    post-edit (parses OK).'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0

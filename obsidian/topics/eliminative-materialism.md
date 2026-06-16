@@ -4,7 +4,7 @@ description: "Eliminative materialism holds beliefs and qualia are theoretical f
 created: 2026-04-26
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-06-02T12:59:03+00:00
+ai_modified: 2026-06-16T23:38:19+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-26
 last_curated:
-last_deep_review: 2026-06-01T00:00:00+00:00
+last_deep_review: 2026-06-16T23:38:19+00:00
 embedded_videos:
   - id: knYTL4oavRs
     url: https://www.youtube-nocookie.com/embed/knYTL4oavRs

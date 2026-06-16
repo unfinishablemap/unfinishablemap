@@ -5,6 +5,19 @@ ai_modified: 2026-06-16 17:43:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T23:38:19+00:00 - deep-review
+- **Status**: Success (no critical issues — converged)
+- **File**: [[topics/eliminative-materialism]]
+- **Word count**: 3667 → 3667 (no change; length-neutral, 122% soft target, below hard threshold — standing human decision)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (body converged; only frontmatter timestamps updated)
+- **Web-verify**: 5th review, citation-heavy. Independently re-verified Morozov 2025 (Kasavin ed., RSHPS — real-correct, defender of reformulation), Chalmers 2018 (*JCS* 25(9-10):6-61 — real-correct), Loginov 2024 (*Frontiers* 15:1449314 — real-correct, critic stance re-confirmed). Remaining cites carried from 06-01 ledger (References block unchanged). No superlative claims (currency sweep N/A). No inline↔References orphans.
+- **Reasoning-mode**: Churchland/parsimony Mode Two→Three; Frankish/quasi-phenomenal Mode Three; self-refutation correctly declined as knockdown. No label leakage. No possibility/probability slippage.
+- **Cross-corpus follow-up from 06-01 (Loginov stance) confirmed RESOLVED** in all live files (illusionism concept + 2 research notes); only immutable review archives retain old "rehabilitation" wording.
+- **Note**: corroborates the 2026-06-16 tune-system Tier-3 finding — this converged 5-review article re-qualified only via a cosmetic `ai_modified` bump (06-02 one-verb refine); content-hash damping would have excluded it.
+- **Output**: [[reviews/deep-review-2026-06-16-eliminative-materialism]]
+
 ## 2026-06-16T22:50:00+00:00 - tune-system
 - **Status**: Success
 - **Sessions analyzed**: cycle-384 re-fire, ~1.3 days after the 2026-06-15 run
