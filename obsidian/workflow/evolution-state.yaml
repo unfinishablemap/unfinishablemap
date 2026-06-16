@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-16T15:00:35.186794+00:00'
-session_count: 11386
-cycle_position: 9193
+last_updated: '2026-06-16T15:05:50.672974+00:00'
+session_count: 11387
+cycle_position: 9194
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-16T10:41:57.167469+00:00'
@@ -22,9 +22,9 @@ last_runs:
   commission-chatgpt-review: '2026-06-16T02:09:55.835517+00:00'
   commission-claude-review: '2026-06-16T03:16:54.357867+00:00'
   commission-gemini-review: '2026-06-16T04:14:32.657292+00:00'
-  refine-draft: '2026-06-16T14:56:20.497960+00:00'
+  refine-draft: '2026-06-16T15:05:50.672974+00:00'
   research-topic: '2026-06-16T14:05:29.074973+00:00'
-  replenish-queue: '2026-06-16T15:00:35.186794+00:00'
+  replenish-queue: '2026-06-16T16:10:00+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-16T08:06:09.164774+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: skip-queue-slot
-  type: skip-queue-slot
-  date: '2026-06-16'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-16'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-16'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-16'
   outcome: success
 agentic_social:
@@ -1009,13 +1009,59 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1
+  p2_tasks: 0
   p3_tasks: 0
   needs_replenishment: false
-  loop_pickable_open: 1
-  last_replenishment: '2026-06-16T15:35:00+00:00'
+  loop_pickable_open: 0
+  last_replenishment: '2026-06-16T16:10:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-16 run #127 (standard mode) - HONEST NO-OP,
+  current_replenishment_note: '2026-06-16 run #128 (standard mode) - HONEST NO-OP,
+    0 minted. loop_pickable_open is now 0 (down from run #127''s 1). The single P2
+    refine-draft run #127 saw ("Adopt retrocausality calibration in qm-interpretations-beyond-many-worlds",
+    pessimistic-2026-06-16-retrocausality) has been EXECUTED (now ✓-marked at todo
+    line 1027) along with its sibling (forward-in-time-vs-time-symmetric-selection,
+    line 1031). Active region re-scanned THIS run (### headers, line range 38-1020):
+    ZERO loop-pickable headers remain - every Active ### is ✓/✅/RELOCATED/RESOLVED/DECLINED/DEFERRED/DIVERTED/#veto/HUMAN-LENGTH-DECISION
+    (non-pickable). Queue at 0 is below the floor of 3 but do NOT fabricate filler
+    (documented replenish-at-floor steady state, unfin_loop_steady_state + p3-only-floor-preemption-starves);
+    the floor fills organically from the cycle deep-review/coalesce/pessimistic slots,
+    the next outer-review synthesis, and the every-cycle topic-concept anchoring audit
+    (which minted both retrocausality tasks now drained). All eight sources independently
+    re-derived from disk THIS run. SOURCE-BY-SOURCE: CHAINS (S1) 0 - newest 6 articles
+    by mtime (qm-interpretations 48 / forward-in-time-vs-time-symmetric-selection 9
+    / predictive-processing 118 / anti-correlated-metacognitive-signal 26 / reconsolidation-as-selection-window
+    12 / direction-dependent-discriminating-test-design 12 inbound files) all well
+    over 2, no cross-review or integrate-orphan owed. UNCONSUMED RESEARCH (S2) 0 -
+    three newest non-void notes (all 2026-06-16) ALL CONSUMED on disk: naturalist-relationalism
+    -> concepts/naturalist-relationalism.md; IWMT -> concepts/predictive-processing.md
+    (Safron/IWMT content grep-confirmed); chemosensory -> topics/chemosensory-consciousness-and-the-interface.md;
+    next note metacognition (2026-01-18) far outside the 14-day chain window. GAPS
+    (S3) 0 - mature saturated corpus. STALENESS (S4) 0 mintable - cycle deep-review
+    slots handle it (deep-review-over-reviews-converged regression zone). LENGTH (S6)
+    0 mintable - live-article offenders (length.get_length_warnings over obsidian,
+    frontmatter-stripped body, excl research notes + section-index + apex-articles
+    index) are all already-handled: the two critical-status condenses (epistemology-of-convergence-arguments
+    6479w, phenomenal-output-causal-machinery-dissociation 6832w) are #veto-parked
+    in the queue; clinical-dissociation 4861w / born-rule-and-the-consciousness-interface
+    5106w / laws-and-dispositions 4213w / valence-and-conscious-selection 4092w are
+    DIVERTED/DEFERRED-TO-HUMAN; memory-channel-interface-evidence 4296w was deep-reviewed
+    + ACCEPTED-AS-SURVEY today (todo line 40); qm-interpretations 4125w + predictive-processing
+    3606w + composition-question-rivals 4106w just had refine/coalesce/deep-review
+    work (refine-then-condense churn risk, skip); the remaining hard_warning topics/concepts/apex/voids
+    are the documented standing calibration-anchor / recently-modified set. ORPHANS
+    (S5) 0 (quality.orphaned_files 0; newest 6 articles all >=9 inbound links). OUTER
+    REVIEWS: 2026-06-16 cycle fully synthesized (obsidian/reviews/outer-review-synthesis-2026-06-16.md
+    exists), pending-reviews all collected (none pending) - 0 owe a replenish action.
+    POSITIONS add (S7a) 0 - no new stable claim awaiting registration in recent changelog.
+    update (S7b) 0 GENUINE. Audit (S7c) NOT due - full register audit ran 2026-06-09
+    (todo line 97), today is 7d later, inside the 30d window; register has 18 live
+    P-{Q,A,V} entries across quantum-interface / agency-and-will / voids-as-evidence
+    domain files. APPLIED-APEX (S8) 0 - quantum-interface high-confidence cluster already
+    has its applied apex. Sections on disk (find, excl section-index): topics 268/300,
+    concepts 261/300, voids 101/100 OVER cap, positions 3 domain files /80, apex 34.
+    Vetoed bank 574 entries (deduped against live articles + research only, NOT this
+    bank). State YAML re-validated post-edit. (Superseded run #127 note below for trail:)
+    2026-06-16 run #127 (standard mode) - HONEST NO-OP,
     0 minted. CORRECTS the run #126 count: loop_pickable_open is now 1 (NOT 2). The
     run #126 note saw TWO retrocausality calibration refine-draft tasks; ONE of them
     (forward-in-time-vs-time-symmetric-selection) was EXECUTED at 14:56 UTC (commit
