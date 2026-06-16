@@ -5,6 +5,19 @@ ai_modified: 2026-06-16 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T09:15:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/retrocausality]] AND [[concepts/coupling-modes]] (multi-file; BOTH fixed)
+- **Source**: [[reviews/pessimistic-2026-06-16-retrocausality]]
+- **Changes**:
+  - retrocausality.md HIGH (Issue 1): "The Decoherence Challenge" (2) — reconciled Hagan et al. (2002) figure "seven orders" → "10⁻⁵ to 10⁻⁴ seconds—eight or more orders of magnitude longer" (matches canonical decoherence.md:95); added Reimers et al. (2009) + McKemmish et al. (2009) counter-rebuttals so the dispute reads live-and-contested rather than a closed rebuttal of Tegmark, removing the selective-citation error; updated the see-also to "Tegmark-Hameroff-Reimers-McKemmish." Added both refs to References (alphabetical).
+  - retrocausality.md MEDIUM (Issue 2): "Isn't this unfalsifiable?" — restricted "all quantum interpretations" to "Copenhagen, Many-Worlds, and Bohmian mechanics"; added an objective-collapse (GRW/CSL/Penrose) exception clause noting these make testable predictions, consistent with the Map's modified growing block. Resolves the contradiction with measurement-problem.md:119 and with the article's own "What Would Challenge This View?" item (1).
+  - retrocausality.md LOW (Issue 3): attributed "The 2017 satellite experiment" → "Vedovato et al. (2017) ... satellite delayed-choice experiment"; added References entry (matches sibling concepts/time-symmetric-physics.md and topics/forward-in-time-vs-time-symmetric-selection.md verbatim).
+  - retrocausality.md polish: "Contemplative Evidence" — "provides phenomenological support for" → "is consonant with" + report-vs-metaphysics caveat (review Language Improvements / Counterarguments table).
+  - coupling-modes.md (Issue 1 sibling): fixed "seven orders of magnitude longer (10⁻⁵ seconds)" → "10⁻⁵ to 10⁻⁴ seconds—eight or more orders of magnitude longer"; added Reimers/McKemmish parameter-contestation clause + the two References entries (8, 9).
+- **Verification**: GREP-VERIFIED all four defect strings PRESENT before editing (3-state); canonical decoherence.md cites confirmed before copying; Vedovato attribution + reference format copied verbatim from siblings (note: review's section labels were transposed — files are concepts/time-symmetric-physics.md and topics/forward-in-time-vs-time-symmetric-selection.md). Post-edit: zero "seven orders" remaining in either file; both validate; retrocausality 3065 words (soft_warning, under 3500 hard), coupling-modes 2447 words (ok). Conditional-framing discipline preserved; no label leakage; local fixes only.
+- **Published**: yes
+
 ## 2026-06-16T09:00:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/retrocausality.md (last deep-review 2026-05-19; never the primary subject of a pessimistic review)

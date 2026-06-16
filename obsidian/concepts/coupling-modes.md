@@ -4,7 +4,7 @@ description: "Three ways consciousness might influence quantum outcomes: basis s
 created: 2026-01-31
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-05-19T00:00:00+00:00
+ai_modified: 2026-06-16T00:00:00+00:00
 draft: false
 topics:
   - "[[mental-causation-and-downward-causation]]"
@@ -109,7 +109,7 @@ Timing control preserves Born statistics for individual measurements but affects
 
 This is intermediate in minimality. Each measurement obeys Born rule, so no single-trial deviation is detectable. But systematic patterns might emerge: do attention-trained subjects show different neural dynamics than untrained ones? The prediction is yes—but the effect shows up as attention-correlated pattern stability, not as Born-rule violation.
 
-**Limitation:** Decoherence timescales present a serious challenge to timing control. Tegmark calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural systems—far faster than the millisecond timescales of neural processing. If environmental interaction collapses superpositions this quickly, there may be no coherent quantum state for attention to observe. Hagan, Hameroff, and Tuszyński (2002) disputed these calculations, obtaining coherence times seven orders of magnitude longer (10⁻⁵ seconds), but even this remains far shorter than neural integration times. Monte Carlo simulations (Araujo et al., 2014) suggest the Zeno effect breaks down for timescales exceeding brain decoherence time. The mechanism might still operate if consciousness biases outcomes *after* decoherence, at the point of definite-outcome emergence—but this shifts to a less exotic (though still causally efficacious) form of selection.
+**Limitation:** Decoherence timescales present a serious challenge to timing control. Tegmark calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural systems—far faster than the millisecond timescales of neural processing. If environmental interaction collapses superpositions this quickly, there may be no coherent quantum state for attention to observe. Hagan, Hameroff, and Tuszyński (2002) disputed these calculations, obtaining coherence times of 10⁻⁵ to 10⁻⁴ seconds—eight or more orders of magnitude longer—though Reimers et al. (2009) and McKemmish et al. (2009) contest those parameter assumptions, and even Hagan's revised figure remains far shorter than neural integration times. Monte Carlo simulations (Araujo et al., 2014) suggest the Zeno effect breaks down for timescales exceeding brain decoherence time. The mechanism might still operate if consciousness biases outcomes *after* decoherence, at the point of definite-outcome emergence—but this shifts to a less exotic (though still causally efficacious) form of selection.
 
 ### Probability Control: Least "Minimal"
 
@@ -190,3 +190,5 @@ The taxonomy tightens the Map's framework by replacing vague "selection" languag
 5. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65(6), 061901.
 6. Zurek, W.H. (2003). "Decoherence, einselection, and the quantum origins of the classical." *Reviews of Modern Physics*, 75(3), 715-775.
 7. Chalmers, D.J. & McQueen, K.J. (2022). "Consciousness and the Collapse of the Wave Function." In S. Gao (ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
+8. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). "Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness." *PNAS*, 106(11), 4219-4224.
+9. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). "Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible." *Physical Review E*, 80(2), 021912.
