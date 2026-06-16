@@ -3,9 +3,9 @@ title: "A Taxonomy of Voids"
 created: 2026-03-10
 modified: 2026-06-01
 human_modified: null
-ai_modified: 2026-06-10T15:33:12+00:00
+ai_modified: 2026-06-16T06:36:00+00:00
 draft: false
-description: "Sixty+ cognitive voids cluster at the consciousness-matter interface—structured taxonomy supporting the Map's tenet-package as framework-internal coherence under the common-cause-null discount."
+description: "Over a hundred cognitive voids (roughly fifteen framework-independent) cluster at the consciousness-matter interface—structured taxonomy supporting the Map's tenet-package as framework-internal coherence under the common-cause-null discount."
 last_deep_review: 2026-06-05T00:00:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -85,10 +85,10 @@ apex_sources:
   - voids/tenet-generated-voids
   - voids/meta-epistemology-of-limits
 apex_last_synthesis: 2026-06-01T00:18:24+00:00
-apex_thesis: "The 60+ cognitive voids catalogued by the Map form a structured taxonomy that reveals the architecture of consciousness itself, converging on the interface where consciousness meets the physical world—a convergence that offers cumulative abductive support for the Map's tenet-package (not bare dualism), with the selection-effect worry acknowledged explicitly and the common-cause null setting the calibration ceiling: the convergence is largely framework-internal coherence with only partial framework-independent evidence."
+apex_thesis: "The hundred-plus cognitive voids catalogued by the Map (roughly fifteen of them framework-independent, which under the common-cause null is the subset that carries weight) form a structured taxonomy that reveals the architecture of consciousness itself, converging on the interface where consciousness meets the physical world—a convergence that offers cumulative abductive support for the Map's tenet-package (not bare dualism), with the selection-effect worry acknowledged explicitly and the common-cause null setting the calibration ceiling: the convergence is largely framework-internal coherence with only partial framework-independent evidence."
 ---
 
-The Unfinishable Map catalogues over sixty cognitive voids—places where understanding breaks down in structured, repeatable ways. Taken individually, each might be dismissed as a puzzle awaiting a cleverer philosopher; taken together, they tell a different story. The voids are not scattered randomly across human inquiry but cluster around a single boundary: the point where consciousness meets the physical world. They sort into types by *why* thought fails, into domains by *where*, and into signatures by *how*. This taxonomy reveals the architecture of the minds doing the mapping. The Map argues that it also reveals something about the territory being mapped—and this second move is where the argument is contested.
+The Unfinishable Map catalogues over a hundred cognitive voids—places where understanding breaks down in structured, repeatable ways. Taken individually, each might be dismissed as a puzzle awaiting a cleverer philosopher; taken together, they tell a different story. The voids are not scattered randomly across human inquiry but cluster around a single boundary: the point where consciousness meets the physical world. They sort into types by *why* thought fails, into domains by *where*, and into signatures by *how*. This taxonomy reveals the architecture of the minds doing the mapping. The Map argues that it also reveals something about the territory being mapped—and this second move is where the argument is contested.
 
 The thesis is qualified rather than triumphant. Physicalism has no uniform prediction here: many physicalists already expect concentrated difficulty around consciousness for reasons that do not require dualism—lossy reconstructive introspection, the brain as our most complex object of study, the coincidence of subject and object, third-person methods uncalibrated for first-person phenomena. What distinguishes the Map's claim is narrower: that the difficulty takes specific, *structured* failure signatures persisting across frameworks and converging on one interface. Under the Map's tenet-package—dualism *combined with* minimal quantum interaction and a naturally occluded interface—this is the expected pattern, and the taxonomy is consistent with it. Bare dualism predicts nothing of the kind; the predictive work is done by the full package.
 
@@ -110,7 +110,7 @@ The taxonomy itself evolves: the [[meta-epistemology-of-limits|natural-vs-design
 
 ## Domains of Darkness
 
-The 60+ individual voids sort into domains by *where* in cognitive space they occur, revealing which aspects of consciousness are most opaque to the minds that possess it.
+The hundred-plus individual voids sort into domains by *where* in cognitive space they occur, revealing which aspects of consciousness are most opaque to the minds that possess it.
 
 ### The Self-Knowledge Cluster
 
@@ -176,7 +176,7 @@ The audit separates the voids into four origin-classes so the catalogue cannot c
 
 **Dualism-specific voids**—the [[causal-interface|causal-interface]], [[interface-formalization-void|interface-formalization]], [[amplification-void|amplification]], and [[the-surplus-void|surplus]] voids—the Map can articulate only because its commitments make them voids; illusionism denies the surplus, materialism dissolves the amplification regress, the interface voids presuppose two domains in contact. They earn framework-internal weight but not N-fold force, and reading each as one more confirmation is exactly the slippage [[project/evidential-status-discipline#coherence-vs-evidential-status|the coherence-vs-evidential-status discipline]] forbids.
 
-**Tenet-generated voids**—nature, mechanism, detection, selection, and the meta-void ([[tenet-generated-voids|the Map's own articulation]])—are honest entries naming the price of taking consciousness seriously, not evidence for the tenets. Every framework pays such a price (materialism owes the hard problem, panpsychism the combination problem, idealism the regularity of nature); treating the Map's costs as confirmations would invert the ledger.
+**Tenet-generated voids**—nature, mechanism, detection, selection, and the meta-void ([[tenet-generated-voids|the Map's own articulation]])—are entries naming the price the framework pays, not evidence for the tenets. Every framework pays such a price (materialism owes the hard problem, panpsychism the combination problem, idealism the regularity of nature); treating the Map's costs as confirmations would invert the ledger.
 
 **Method-generated voids**—the [[apophatic-cartography|cartography problem]], [[question-formation-void|question-formation]], [[meta-epistemology-of-limits#the-scope-question-estimating-total-ignorance-from-within|epistemic-horizon]], and [[closure-types-void|closure-types]] voids—emerge from the Map's methodology rather than its metaphysics, making the catalogue's incompleteness structurally explicit without double-counting against the framework-independent class.
 
@@ -218,7 +218,7 @@ This is the discipline of not knowing. The voids are invitations to precision: t
 
 The taxonomy connects to every one of the Map's [[tenets]], but most deeply to the fifth.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** receives the strongest support. The convergence of 60+ voids on a single interface, their distinct failure signatures, and the formally proved incompleteness of any void catalog all resist the simplifying assumption that more effort will close the gaps. And if our sense of simplicity is itself an evolved heuristic tuned to fitness rather than truth—as the Fitness-Beats-Truth theorem argues (a contested result—Bagwell 2023 presses that the debunking it underwrites is self-defeating)—then parsimony arguments in metaphysics are undermined at their foundation.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** receives the strongest support. The convergence of the catalogue on a single interface—over a hundred voids, with the roughly fifteen framework-independent ones carrying the weight the common-cause null leaves intact—their distinct failure signatures, and the formally proved incompleteness of any void catalog all resist the simplifying assumption that more effort will close the gaps. And if our sense of simplicity is itself an evolved heuristic tuned to fitness rather than truth—as the Fitness-Beats-Truth theorem argues (a contested result—Bagwell 2023 presses that the debunking it underwrites is self-defeating)—then parsimony arguments in metaphysics are undermined at their foundation.
 
 **[[tenets#^dualism|Dualism]]** gains cumulative support from the convergence pattern, with the [[common-cause-null|common-cause null]] setting the ceiling. The systematic clustering of voids at the interface, each with distinct logical structure and failure signatures, makes the coincidence hypothesis progressively less plausible—but the catalogue is best read as framework-internal coherence with the tenet-package rather than N-fold independent triangulation, earning only the weight its independence test can supply ([[the-surplus-void|the surplus void]] being the worked instance).
 

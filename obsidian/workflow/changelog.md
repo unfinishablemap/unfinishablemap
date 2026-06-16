@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-16 06:28:26+00:00
+ai_modified: 2026-06-16 06:36:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-16T06:36:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[positions/voids-as-evidence]] (primary); [[apex/taxonomy-of-voids]] (MULTI-FILE — both updated, counts agree)
+- **Original score**: n/a (targeted fixes from pessimistic review; scripts/curate.py review is the known-stale command)
+- **Source**: pessimistic review [[reviews/pessimistic-2026-06-16-voids-as-evidence]] — three findings (low / low-medium) on an otherwise well-calibrated file.
+- **Changes**: (1) STALE COUNT (Issue 1) — GREP-VERIFIED the live catalogue: 101 non-index void articles (not "60+/over sixty"). Replaced the bare count with the count-plus-framework-independent-subset framing the review recommended (under the file's own common-cause logic the raw N is the misleading number). Updated 1 location in voids-as-evidence.md (About-this-domain) and ALL 5 in taxonomy-of-voids.md (description, apex_thesis, body lines ~91/113/221) to "over a hundred ... roughly fifteen framework-independent." Grep-confirmed ZERO 60+/over-sixty/sixty stragglers remain in EITHER file; both now agree. (2) P-V3 ASSERTION/BAND MISMATCH (Issue 2) — reworded P-V3 Asserts so the direction of evidential asymmetry is foregrounded as a tested expectation pending grading ("the Map expects, and is testing, ... rather than a graded result it already holds"), AND made the low-confidence floor explicitly contingent on the despite-commitments reading surviving the grading P-V1 says is outstanding (applied both review options for belt-and-braces). (3) MINOR (Issue 3) — trimmed the "taking consciousness seriously" virtue framing from P-V2 in voids-as-evidence.md ("honest entries naming the price the framework pays for taking consciousness seriously" → "entries naming the price the framework pays"; a cost ledger should not editorialise the listing as integrity). The apex carried the identical virtue clause at body line ~179 ("honest entries naming the price of taking consciousness seriously") — trimmed there too so both files agree on the de-virtue-framed wording.
+- **Tenet alignment**: evidential-status discipline / Tenet 5 (Occam's Razor Has Limits) — fixes keep the register's calibration honest.
+- **ai_modified**: bumped both files to 2026-06-16T06:36:00+00:00; set last_deep_review on voids-as-evidence.md (was null).
+- **Published**: yes
 
 ## 2026-06-16T06:28:26+00:00 - refine-draft
 - **Status**: Success
