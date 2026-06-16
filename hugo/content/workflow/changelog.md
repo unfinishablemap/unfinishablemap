@@ -1,13 +1,103 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-16 09:00:00+00:00
+ai_modified: 2026-06-16 15:14:11+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-16'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-16T16:00:02+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/) — a proposed reversible-perturbation discriminating-test design
+- **Findings**: 1 critical (editor-vocabulary "Mode Four" leaked into prose, line 38, [direct-refutation-discipline](/project/direct-refutation-discipline/) violation); 1 medium (Proekt & Hudson 2018 mischaracterised as "single bistable system" — paper requires >2 states / a 10-state Markov model, web-verified PubMed 29935600); plus uncited regional-targeting assumption (line 58). Strongest persona challenge (Dennett/Popper convergent): the refuted "substrate-symmetric production reading" is a strawman no working physicalist holds, and the article concedes a realistic production account absorbs any reversal — so only the symmetry branch is genuinely falsifiable. Citations Verhagen 2019 / Cain 2021 / Sepúlveda 2019 verified clean; altered-state symmetry audit N/A (supportive-cluster gate fails).
+- **Queued**: P2 refine-draft (label-leak deletion + Proekt/Hudson rewording)
+- **Output**: [pessimistic-2026-06-16-direction-dependent-test](/reviews/pessimistic-2026-06-16-direction-dependent-test/)
+
+## 2026-06-16T15:14:11+00:00 - deep-review
+- **Status**: Success
+- **File**: [forward-in-time-vs-time-symmetric-selection](/topics/forward-in-time-vs-time-symmetric-selection/)
+- **Word count**: 2899 → 2971 (+72, References-block fix; body prose unchanged; 99% of 3000 soft threshold, length-neutral mode)
+- **Critical issues addressed**: 1 (inline↔References citation orphan — "Reimers et al. 2009 and McKemmish et al. 2009" cited in body by the 2026-06-16 refine-draft with no References entries; both web-verified at publisher of record and added: Reimers et al. 2009 *PNAS* 106(11):4219-4224 DOI 10.1073/pnas.0806273106; McKemmish et al. 2009 *Phys Rev E* 80(2):021912 DOI 10.1103/PhysRevE.80.021912)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 body (article at threshold; intervening refine-draft already hardened calibration and added [retrocausality](/concepts/retrocausality/))
+- **Citation ledger**: all 7 cites web-verified real-correct (Cramer 1986, Kastner 2012, Vedovato 2017, Tegmark 2000, Hagan 2002, Reimers 2009, McKemmish 2009). Empirical-record currency sweep: Vedovato satellite delayed-choice (3500 km) still state-of-the-art, no superseding result 2023-2025.
+- **Engagement modes** (editor-internal): Many-Worlds defender = Mode Three (boundary-marking, sourced to [many-worlds-argument](/arguments/many-worlds-argument/)); Tegmark/decoherence skeptic = Mode One leaning (own-terms). No label leakage.
+- **Output**: [deep-review-2026-06-16-forward-in-time-vs-time-symmetric-selection](/reviews/deep-review-2026-06-16-forward-in-time-vs-time-symmetric-selection/)
+
+## 2026-06-16T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)
+- **Trigger**: topic-concept anchoring audit (calibration-audit-triple Audit Three). Failed checks: hedge_density (1.97/kw vs 2.15/kw target = 60% of anchor [retrocausality](/concepts/retrocausality/) 3.59/kw, a SMALL gap) and underdetermination_markers (0 vs anchor's 1).
+- **Changes**: Minimal calibration bump preserving voice and central claim (no weakening, no condensing of References-driven prose). (1) Installed the underdetermination point the anchor already marks: added a clause in the intro noting the leading candidates are empirically equivalent on currently testable scenarios so the interpretation choice is underdetermined by the evidence — the load-bearing fix, giving 2 markers. (2) Hedged two genuine over-claim sites: the comparative-table conclusion "provide the framework the Map needs" → "may provide … though leaving room is not the same as supplying support"; the QBism-incompleteness verdict → "may leave QBism philosophically incomplete … though a QBist could reply that explaining agenthood was never the theory's remit".
+- **Result**: hedge_density 1.97→2.67/kw (clears 2.15 target); underdetermination 0→2; strong_assertions unchanged at 0.49/kw. evaluate_anchoring() returns no flags. No mechanical hedge-stuffing (each hedge sits on a genuine over-claim per [evidential-status-discipline](/project/evidential-status-discipline/), condense-regresses-calibration-qualifiers, deep-review-over-reviews-converged).
+- **Length**: +60 prose words (4065→4125); pre-existing hard_warning status unchanged (References ~565w drives the overage; prose-only ~3500w stays under). Did NOT condense calibrated prose to offset References per count-words-includes-frontmatter complement guidance.
+- **Validated**: ✓ Valid
+
+## 2026-06-16T14:54:43+00:00 - refine-draft
+- **Status**: Success
+- **File**: [forward-in-time-vs-time-symmetric-selection](/topics/forward-in-time-vs-time-symmetric-selection/)
+- **Trigger**: topic-concept anchoring audit (calibration-audit-triple Audit Three). Failed checks: hedge_density (0.73/kw vs 2.15/kw target = 60% of anchor [retrocausality](/concepts/retrocausality/) 3.59/kw) and underdetermination_markers (0 vs anchor's 1).
+- **Changes**: Brought the topic's hedge profile in line with its anchor concept WITHOUT weakening the central cost-accounting claim or its non-adjudication discipline. (1) Installed the underdetermination point the anchor already marks: the forward/time-symmetric choice is underdetermined by the data and the two routes are very nearly empirically equivalent at present — added in the empirical-handles lead, the load-bearing fix. (2) Hedged five genuine over-claim sites where empirical/metaphysical claims outran the evidence: the Tegmark/Hagan decoherence gap (now "appears to leave" + notes no direct measurement in living tissue + cites the Reimers/McKemmish contestation, mirroring the anchor); the Libet "dissolution" (now conditional on the contested retrocausal interpretation); the forward route's statistical-fingerprint handle (now "might make available"/"could in principle"); the time-symmetric "heavier" metaphysics judgment (now "may be heavier").
+- **Result**: hedge_density 0.73→2.42/kw (clears 2.15 target); underdetermination 0→2; strong_assertions unchanged at 0 (already calibrated). evaluate_anchoring() returns no flags. Voice and the "live alternatives, not rivals" conclusion preserved; no mechanical hedge-stuffing (each hedge sits on a genuinely contested claim per [evidential-status-discipline](/project/evidential-status-discipline/), condense-regresses-calibration-qualifiers).
+- **Length**: +~150 words (2750→2899 body), length-aware; no bloat.
+- **Validated**: ✓ Valid
+- **Published**: yes
+
+## 2026-06-16T14:14:59+00:00 - refine-draft
+- **Status**: Success
+- **File**: [predictive-processing](/concepts/predictive-processing/)
+- **Changes**: Re-attributed the "world model" framing in the IWMT sub-section (line 101). Was: "[I-JEPA's] authors describe the predictor as a 'primitive world-model.'" Now: an instance of "the broader JEPA programme LeCun frames as building a 'world model'." Length-neutral one-clause swap; IWMT sub-section structure untouched.
+- **Web-verify (3-state, state b)**: WebFetched the I-JEPA CVPR/arXiv paper (Assran et al. 2023, arXiv:2301.08243) twice + grep of the downloaded PDF — confirms the paper contains zero instances of "world model"/"world-model"/"primitive world-model". The framing belongs to LeCun's "A Path Towards Autonomous Machine Intelligence" (2022) JEPA programme ("the purpose of the world model is to predict future representations of the state of the world"), of which I-JEPA is an instance. Did NOT trust the research fork blindly (citation-verify-false-negative); independently verified before editing.
+- **FOLD-IN check**: expand-topic chain had not yet run on this sub-section (last touch was the 06-16 Gemini outer-review refine, which engaged IWMT but left the false I-JEPA attribution intact), so no resolved-by-expand. Per the IWMT research note (2026-06-16), the downstream expand-topic is recommended to RETARGET here or DECLINE — if it lands and re-fixes this clause, mark ✓ resolved-by-expand (outer-review-same-file-task-pileup).
+- **Published**: yes
+
+## 2026-06-16T14:10:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Integrated World Modeling Theory (IWMT) as a materialist account of consciousness
+- **Output**: [integrated-world-modeling-theory-2026-06-16](/research/integrated-world-modeling-theory-2026-06-16/)
+- **Sources consulted**: 3 (web-verified: Safron 2020 Frontiers AI 3:30; Safron 2022 Front. Comput. Neurosci. 16:642397; Assran et al. 2023 I-JEPA CVPR) + 2 noted-not-verified companion papers
+- **Note**: IWMT already covered at depth in concepts/predictive-processing.md — research note recommends downstream expand-topic RETARGET to that page or DECLINE a standalone (not a true content gap; harvest dedupe missed the embedded sub-section).
+
+## 2026-06-16T13:50:58+00:00 - deep-review
+- **Status**: Success
+- **File**: [anti-correlated-metacognitive-signal](/concepts/anti-correlated-metacognitive-signal/)
+- **Word count**: 2620 → 2620 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verifying no-op)
+- **Why no-op**: third deep review of a thrice-converged article. Re-qualified only because a sibling article's deep-review (apex/ai-as-introspection-control.md, commit 944b1651f) cosmetically bumped this file's `ai_modified` → 2026-06-05T20:27 without touching the body — the exact convergence-damping scenario. Just outside the 14-day outright-exclusion window. Per convergence / don't-oscillate discipline, no body changes manufactured.
+- **Citation web-verify (§2.4, References block touched by 06-05 refine)**: Rebouillat/Leonetti/Kouider 2021 (Neurosci. Consc. 2021(1) niab004, DOI 10.1093/nc/niab004) — real-correct (Oxford Academic / PubMed PMID 33747547). Fleming 2024 (Ann. Rev. Psych. 75, 241–268) — real-correct (Annual Reviews DOI 10.1146/annurev-psych-022423-032425); the 06-05 refine-draft's 149–176→241–268 fix is publisher-confirmed right.
+- **Verified**: no possibility/probability slippage (calibration-grade framing intact; silent on Tenets 2/4/5); length 105% soft / well under hard; no named-opponent engagement requiring mode classification; no label leakage.
+- **Engagement classification**: n/a — concept exposition with cross-framework compatibility notes, no in-framework refutation of a named opponent.
+- **Output**: [deep-review-2026-06-16-anti-correlated-metacognitive-signal](/reviews/deep-review-2026-06-16-anti-correlated-metacognitive-signal/)
+- **Published**: yes
+
+## 2026-06-16T12:34:35+00:00 - deep-review
+- **Status**: Success
+- **File**: [reconsolidation-as-selection-window](/topics/reconsolidation-as-selection-window/)
+- **Word count**: 2245 → 2245 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verifying no-op)
+- **Why no-op**: re-qualified only on a coalesce-driven cosmetic `ai_modified` bump (the 12:15 refine-draft repointed two coalesced sibling links → [memory-channel-interface-evidence](/topics/memory-channel-interface-evidence/) and added a [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/) cross-link). Body argument unchanged since the converged-clean 2026-06-03 first review. Per convergence / don't-oscillate discipline, no changes manufactured.
+- **Verified**: all wikilink targets resolve (incl. [interactionist-dualism](/concepts/interactionist-dualism/) → live concept page, not the archived `arguments/` page; the two coalesced-away targets correctly archived, no dangling body refs); length 75% of soft target; no superlative empirical-record claims; References block unchanged since the 2026-06-03 publisher-of-record web-verify (Nader 2000 + Sinclair & Barense 2018 both real+correct, ledger inherited).
+- **Engagement classification**: fully-physical reading of reconsolidation — Mode Three (framework-boundary marking), honest; no boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-06-16-reconsolidation-as-selection-window](/reviews/deep-review-2026-06-16-reconsolidation-as-selection-window/)
+- **Published**: yes
+
+## 2026-06-16T12:15:19+00:00 - refine-draft
+- **Status**: Success
+- **File**: [discrimination-problem](/concepts/discrimination-problem/)
+- **Source**: optimistic-review [optimistic-2026-06-16c](/reviews/optimistic-2026-06-16c/) (discriminating-test design cluster)
+- **Changes**:
+  - PRIMARY (mechanical, length-neutral): added a one-clause pointer in the line-86 "Production-vs-filter" bullet so the concept page now reaches *both* worked discrimination-engineering instances — the existing targeted-lesion (substrate-state) companion AND the previously-absent [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/) (direction-of-travel / dynamic counterpart). Verified absent at review time (grep=0). Did NOT re-add the targeted-lesion link or restructure the paragraph.
+  - SECONDARY (assessed, accepted): added a reciprocal Further-Reading link between [reconsolidation-as-selection-window](/topics/reconsolidation-as-selection-window/) and [direction-dependent-discriminating-test-design](/topics/direction-dependent-discriminating-test-design/) (both directions; grep=0 each way before edit). Judged genuinely navigational, not gratuitous: reconsolidation is the naturally-occurring memory-domain lability window (retrieval-triggered, prediction-error-gated); the direction-dependent design's reversible reopening-phase ramp is the engineered controlled analogue of exactly that window. Both sit in the Tenet-3 memory cluster and already share [memory-channel-interface-evidence](/topics/memory-channel-interface-evidence/); the link connects the venue (where directional input could enter) to the methodology (how to test for it).
+- **ai_modified bumped**: discrimination-problem.md, direction-dependent-discriminating-test-design.md, reconsolidation-as-selection-window.md
+- **Tenet alignment**: Tenet 5 (Occam's Razor Has Limits) — discrimination-engineering as the anti-premature-closure discipline; cross-links make both worked instances reachable from the concept hub.
+- **Published**: yes
 
 ## 2026-06-16T12:00:00+00:00 - optimistic-review
 - **Status**: Success
