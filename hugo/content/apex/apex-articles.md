@@ -1,7 +1,7 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-06-16 17:10:00+00:00
+ai_modified: 2026-06-16 17:43:39+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -722,14 +722,14 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 
 Applied apex articles are decision-oriented synthesis pieces: given the positions the Map currently holds in `obsidian/positions/`, what follows for a specific real-world context? They differ from the synthesis apex articles above in shape — they cite ≥3 positions, surface those positions' confidence bands, name a decision context, and include a required "What this implies for decisions" section. See the `apex-evolve` SKILL.md Applied Discipline section for the discipline.
 
-Target count: 8–15 applied pieces across the corpus. Each one should answer a question a reader would actually ask of the Map.
+Target count: 8–15 applied pieces across the corpus. Each one should answer a question a reader would actually ask of the Map. **A reader looking for "what does the Map tell me to *do*?" should start here.** Two are live and reciprocally linked — A1 (assessing AI-consciousness claims) and A5 (prioritising a research programme); A2–A4 are proposed.
 
 ### A1. Assessing AI Consciousness Under the Map
 
 **Slug**: `assessing-ai-consciousness-under-the-map`
 **Type**: applied
 **Decision context**: How to evaluate putative consciousness claims for current and near-future AI systems.
-**Status**: Approved 2026-06-04, pending creation
+**Status**: Created 2026-06-04 (the first applied apex; sibling to A5 `research-programme-decisions-under-the-map` — the two reciprocally link and together form the decision-oriented entry point: A1 applies the register's positions to *assessment*, A5 to *research prioritisation*).
 **Source positions**: P-Q1, P-Q2, P-Q9 (quantum interface); position clusters on consciousness-scope (TBD) and methodology (TBD) once seeded.
 **Source articles**: `apex/open-question-ai-consciousness`, `apex/machine-question`, `apex/what-it-might-be-like-to-be-an-ai`, `apex/self-concealing-interface`, `topics/ai-consciousness-typology`, and others.
 

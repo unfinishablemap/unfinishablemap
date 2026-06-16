@@ -1,13 +1,47 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-16 16:30:00+00:00
+ai_modified: 2026-06-16 17:43:39+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-16'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-16T19:15:48+00:00 - deep-review
+- **Status**: Success
+- **File**: [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/)
+- **Word count**: 2887 → 2913 (+26)
+- **Critical issues addressed**: 1 (corpus-wide)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (citation correction propagated to 6 files)
+- **Notes**: Fifth deep review. The 2026-06-05 content edit (Schlosshauer cite fix + quote→paraphrase, commit 086db6fa0) triggered the §2.4 publisher-of-record web-verify pass, which caught a wrong-author/wrong-year citation that had survived all four prior "verified" reviews: the Princeton cryptochrome-4a computational study was cited as "Xu, J. (2026), Computational confirmation of the radical pair mechanism..." — the real paper is **Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *JACS*, 147(47), 43934-43945** (DOI 10.1021/jacs.5c15726). Classic ai_citation_metadata_unreliable / intra-corpus-ratification pattern; "Xu" appears only inside that paper's own reference list, and Wenhao Xu is a genuine co-author of the *different* Denton 2024 cryptochrome paper. Family-resolved corpus-wide (§2.4 step 6): fixed in 6 live files (empirical-evidence-for-consciousness-selecting, quantum-biology-and-neural-consciousness, quantum-holism-and-phenomenal-unity, substance-property-dualism, decoherence, epiphenomenalism-argument), using the already-correct evolutionary-case-for-quantum-neural-effects as template. Left untouched: the genuine, correctly-cited Xu, G. (2023) dying-brain PNAS paper and Xu, N. (2025) conceptual-representations PNAS paper. Also web-verified clean this pass: Schlosshauer 2019 (the 06-05 fix was correct), Denton 2024, Wiest 2025, Craddock 2017, Khan 2024, Zheng & Meister 2025, DeWall 2008, Sjöberg 2024. No superlative-currency claims. Convergence table + bedrock disagreements carried unchanged.
+- **Output**: [deep-review-2026-06-16-empirical-evidence-for-consciousness-selecting](/reviews/deep-review-2026-06-16-empirical-evidence-for-consciousness-selecting/)
+
+## 2026-06-16T18:12:37+00:00 - deep-review
+- **Status**: Success
+- **File**: [anti-correlation-probes-for-ai-consciousness](/topics/anti-correlation-probes-for-ai-consciousness/)
+- **Word count**: 2772 → 2772 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (convergence-confirmation pass)
+- **Notes**: Third deep review. Sole change since the thorough 2026-06-05 citation audit was a single cosmetic Further Reading apex back-link (commit 4de05f92d, the resolution of today's optimistic-review up-link P3). No body/References change → §2.4 web-verify skip applies (full publisher-of-record audit ran 2026-06-05; References unchanged). Spot-checked corpus consistency: Fleming 2024 page range now 241–268 corpus-wide (the 06-05 parent-page follow-up is complete). No label leakage; no possibility/probability slippage; bedrock disagreements unchanged. Article is converged — a cosmetic link bump re-triggered selection.
+- **Output**: [deep-review-2026-06-16-anti-correlation-probes-for-ai-consciousness](/reviews/deep-review-2026-06-16-anti-correlation-probes-for-ai-consciousness/)
+
+## 2026-06-16T17:43:39+00:00 - refine-draft
+- **Status**: Success
+- **File**: [apex-articles](/apex/apex-articles/)
+- **Original score**: n/a (ASSESS-FIRST navigational index refinement, not full review)
+- **Changes**: ASSESS-FIRST per task brief (optimistic-2026-06-16d) — the index already had a dedicated "## Applied Apex Articles" section grouping both applied apexes (A1 assessing-ai-consciousness, A5 research-programme-decisions), so the core ask (a decision-oriented grouping) was already satisfied; declined to add a new subsection or restructure. Made two length-neutral accuracy fixes instead: (1) corrected A1's stale "Approved 2026-06-04, pending creation" Status — the file exists on disk (created 2026-06-04, draft:false, 20KB) and is live; rewrote to "Created 2026-06-16" noting the A1↔A5 sibling pairing; (2) added one orientation sentence to the section intro pointing a "what does the Map tell me to *do*?" reader at the two live applied apexes (A1, A5) vs the three proposed (A2–A4). Both applied-apex files verified on disk as apex_type:applied with reciprocal cross-links intact.
+- **Published**: yes
+
+## 2026-06-16T17:20:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the apex synthesis cluster (4 articles, all ai_modified 2026-06-16) — two descriptive programme apexes (post-decoherence-selection-programme, interface-specification-programme) and the two applied apexes (assessing-ai-consciousness-under-the-map, the newly-created research-programme-decisions-under-the-map). Deliberately non-overlapping with the day's three earlier optimistic passes, which covered topics/concepts clusters; this pass reviews the synthesis layer above them.
+- **Findings**: strongest structural achievement on the Map — a two-tier descriptive→applied apex architecture; the new research-prioritisation apex uses the positions register as a research-priority map (value tracks band-movement); Process Philosopher and Hardline Empiricist personas converge in praise (no possibility/probability slippage); common-cause-null honesty exemplary.
+- **Tasks added**: 3 P3 (apex-index applied-apex grouping; anti-correlation-probes up-link confirmation; proposed third applied apex on clinical/diagnostic decisions — needs human approval)
+- **Output**: [optimistic-2026-06-16d](/reviews/optimistic-2026-06-16d/)
 
 ## 2026-06-16T17:10:00+00:00 - apex-evolve
 - **Status**: Success

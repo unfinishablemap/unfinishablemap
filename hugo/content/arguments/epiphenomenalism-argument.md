@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-06-04 00:00:00+00:00
+ai_modified: 2026-06-16 19:15:48+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -181,7 +181,7 @@ Three considerations mitigate this objection:
 
 1. **Revised timescales**: The 10⁻¹³ figure has been challenged. Hagan, Hameroff, and Tuszyński (2002) recalculated using corrected model parameters, finding coherence times of 10⁻⁵ to 10⁻⁴ seconds—eight or more orders of magnitude longer. Reimers et al. (2009) and McKemmish et al. (2009) later disputed Hagan's parameter choices, so this exchange remains live rather than settled; the [canonical treatment](/concepts/decoherence/) tracks the dispute in full. The Map's case here is that the original Tegmark figure cannot be cited as a closed rebuttal, not that Hagan closes the question in the other direction.
 
-2. **Biological quantum effects exist**: Avian magnetoreception demonstrates quantum coherence persisting for microseconds in warm biological tissue. A January 2026 Princeton study (Xu et al., 2026) added computational support for the radical-pair mechanism. If evolution can harness quantum effects for navigation, the door remains open for other quantum biological phenomena—though cryptochrome's specific molecular architecture does not by itself license neural-scale coherence.
+2. **Biological quantum effects exist**: Avian magnetoreception demonstrates quantum coherence persisting for microseconds in warm biological tissue. A 2025 Princeton study (Luo et al., 2025) added computational support for the radical-pair mechanism. If evolution can harness quantum effects for navigation, the door remains open for other quantum biological phenomena—though cryptochrome's specific molecular architecture does not by itself license neural-scale coherence.
 
 3. **Decoherence doesn't solve collapse**: As emphasized in the [measurement-problem](/concepts/measurement-problem/), decoherence selects a preferred basis but doesn't explain why one outcome occurs rather than another. Even after decoherence, the quantum state is a mixture of possibilities requiring resolution. Consciousness could influence which possibility actualizes even in a decoherent system.
 
@@ -244,11 +244,11 @@ The arguments against epiphenomenalism directly support the Map's framework:
 - James, W. (1890). *The Principles of Psychology*. Henry Holt.
 - Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 - Loar, B. (1990). "Phenomenal States." *Philosophical Perspectives*, 4, 81-108.
+- Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*, 147, 43934-43945.
 - Papineau, D. (2002). *Thinking About Consciousness*. Oxford University Press.
 - Robinson, W.S. (2019). Epiphenomenalism. *Stanford Encyclopedia of Philosophy*.
 - Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 - McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80, 021912.
 - Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *Proceedings of the National Academy of Sciences*, 106, 4219-4224.
 - Tegmark, M. (2000). "The importance of quantum decoherence in brain processes." *Physical Review E*, 61, 4194-4206.
-- Xu, J. et al. (2026). "Computational support for the radical pair mechanism in European robin cryptochrome-4a." *Journal of the American Chemical Society*.
 - Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

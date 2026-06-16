@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-06-08 12:00:00+00:00
+ai_modified: 2026-06-16 17:30:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-05-27 14:32:20+00:00
 apex_sources:
@@ -180,6 +180,7 @@ The post-decoherence selection programme serves all five tenets while revealing 
 - [The Interface Specification Programme](/apex/interface-specification-programme/) — The engineering-level specification of *how* consciousness operates at the neural interface; the present article specifies the physics-level account of *where* in quantum mechanics that interface finds its grounding
 - [What Consciousness Tells Us About Physics](/apex/what-consciousness-tells-us-about-physics/) — The reverse inference from mind to matter; if consciousness participates in post-decoherence selection, quantum mechanics is not incomplete but *partial*—describing the constraint space while omitting the selection principle
 - [Dualism Cartography](/apex/dualism-cartography/) — Maps the dualist positions and their per-cell mechanism costs; this programme is the physics-side companion to the interface frontier that cartography marks as the Map's hardest unpaid debt
+- [Research Programme Decisions Under the Map](/apex/research-programme-decisions-under-the-map/) — The decision-oriented companion: reads the confidence structure of this programme's physics-side positions as a research-priority map, asking which directions are most warranted and which would yield the most decision-relevant evidence
 
 ## Source Articles
 

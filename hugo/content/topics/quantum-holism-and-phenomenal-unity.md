@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-06-03 11:24:05+00:00
+ai_modified: 2026-06-16 19:15:48+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -128,7 +128,7 @@ The standard objection to quantum consciousness is [decoherence](/concepts/decoh
 
 This objection has been contested but not settled either way. In 2002, Hagan, Hameroff, and Tuszynski published a detailed critique of Tegmark's assumptions: he assumed unrealistically large separation distances for quantum superpositions and thermal equilibrium conditions equivalent to death. Using corrected estimates for dielectric properties and realistic model parameters, they derived coherence times of 10⁻⁵ to 10⁻⁴ seconds—**seven orders of magnitude longer** than Tegmark calculated. But Reimers et al. (2009) and McKemmish et al. (2009) re-examined that recalibration and found its parameter assumptions either rely on microtubule dielectric properties that are not empirically established or specify regimes microtubules do not occupy in living tissue. The dispute is live, not closed; citing Hagan as a settled rebuttal would be selective citation. The Map's interest in microtubule-scale coherence is tenet-driven (Minimal Quantum Interaction) rather than empirically forced.
 
-The biological precedent strengthens the case. Avian magnetoreception relies on quantum spin coherence in cryptochrome proteins persisting for microseconds at biological temperatures. Xu et al. (2025) provided computational confirmation through ab initio quantum dynamics simulations. If evolution optimised quantum effects for navigation, quantum effects in neural systems are not inherently implausible.
+The biological precedent strengthens the case. Avian magnetoreception relies on quantum spin coherence in cryptochrome proteins persisting for microseconds at biological temperatures. Luo et al. (2025) provided computational confirmation through quantum-mechanical simulations of the radical-pair electron-transfer pathway. If evolution optimised quantum effects for navigation, quantum effects in neural systems are not inherently implausible.
 
 A gap remains. Even corrected coherence times fall three orders of magnitude short of the ~300ms timescale of conscious decisions. Yet this gap may not matter if the relevant mechanisms involve discrete quantum events rather than sustained superposition. The quantum Zeno approach requires only discrete attentional "observations"—each instantaneous—rather than long-lived coherence. Denton et al. (2024) demonstrated in *Nature Communications* that the quantum Zeno effect enables magnetosensitivity in cryptochrome radical pairs—the same mechanism proposed for consciousness-brain interaction has a confirmed biological counterpart.
 
@@ -223,6 +223,7 @@ The Map holds that current evidence favours the quantum position while acknowled
 1. Kerskens, C. M. & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 1. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 1. Leibniz, G.W. (1714). *Monadology*.
+1. Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*, 147, 43934-43945.
 1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
 1. Neven, H. et al. (2024). Testing the conjecture that quantum processes create conscious experience. *Entropy*, 26(6), 460.
 1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
@@ -234,4 +235,3 @@ The Map holds that current evidence favours the quantum position while acknowled
 1. Tononi, G. (2008). Consciousness as integrated information. *Biological Bulletin*, 215, 216-242.
 1. Warren, W. (2023). Comment on "Experimental indications of non-classical brain functions". *Journal of Physics Communications*, 7, 038001.
 1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, niaf011.
-1. Xu, X. et al. (2025). Ab initio spin dynamics in radical pairs predict avian magnetoreception. *Journal of the American Chemical Society*.

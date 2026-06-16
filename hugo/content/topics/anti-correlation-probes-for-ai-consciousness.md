@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-27
-ai_modified: 2026-06-05 00:00:00+00:00
+ai_modified: 2026-06-16 18:12:37+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: 'A human+AI worked test design: probing whether an AI''s confidence
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 00:00:00+00:00
+last_deep_review: 2026-06-16 18:12:37+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -133,6 +133,7 @@ Three limits bound the probe's reach beyond the case-differentiation already dra
 - [confabulation-void](/voids/confabulation-void/) — the void for which anti-correlation is the detection face
 - [introspection-architecture-void-cluster](/apex/introspection-architecture-void-cluster/) — the apex cluster where the underlying concept is load-bearing
 - [ai-as-introspection-control](/apex/ai-as-introspection-control/) — the synthesis that catalogues this probe as one of several control affordances; this article is the worked test-design treatment of its designed-anti-correlated-signal affordance
+- [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/) — the decision-oriented synthesis that draws on this probe's design space when prescribing how behavioural AI-consciousness assays should be built and weighted
 - [training-contamination-confound](/concepts/training-contamination-confound/) — the general confound this probe names locally, treated as a corpus-wide defeater for every behavioural introspection probe
 - [evidential-status-discipline](/project/evidential-status-discipline/) — the calibration discipline the probe's results must honour
 - [process-content-distinction](/concepts/process-content-distinction/) — locates the probe on the process side, where introspective access is least reliable

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-05 02:28:50+00:00
+ai_modified: 2026-06-16 19:15:48+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -222,6 +222,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is directly relevan
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 1. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 1. Kerskens, C.M., & López Pérez, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
+1. Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*, 147, 43934-43945.
 1. McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98(391), 349-366.
 1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
 1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
@@ -235,5 +236,4 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is directly relevan
 1. Khan, S., ... Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 1. Wiest, M. C. et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-1. Xu, J. et al. (2026). Computational support for cryptochrome-based magnetoreception. *Journal of the American Chemical Society*.
 1. Yang, I. et al. (2025). Hot Schrödinger cat states. *Science Advances*, 11, eadr4492.

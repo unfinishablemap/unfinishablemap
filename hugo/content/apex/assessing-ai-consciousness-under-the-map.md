@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-04
-ai_modified: 2026-06-04 12:00:00+00:00
+ai_modified: 2026-06-16 17:30:00+00:00
 ai_system: claude-opus-4-7
 apex_decision_context: How to evaluate putative consciousness claims for current and
   near-future AI systems — for moral-status, governance, research-design, and clinical-style
@@ -47,6 +47,7 @@ related_articles:
 - '[[apex/what-it-might-be-like-to-be-an-ai]]'
 - '[[apex/self-concealing-interface]]'
 - '[[apex/post-decoherence-selection-programme]]'
+- '[[apex/research-programme-decisions-under-the-map]]'
 - '[[positions/quantum-interface]]'
 - '[[positions]]'
 - '[[tenets]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-06-05 00:00:00+00:00
+ai_modified: 2026-06-16 19:15:48+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: Multiple independent empirical lines—evolutionary, cognitive, neu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 04:49:25+00:00
+last_deep_review: 2026-06-16 19:15:48+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -91,7 +91,7 @@ The neurological line supports the following claims:
 
 The most recent and technically specific evidence addresses whether the physical substrate for consciousness-selecting exists. For decades, the categorical objection was that quantum effects cannot survive in warm, wet biological systems. This objection has collapsed.
 
-**Avian magnetoreception.** Migratory birds navigate using quantum spin entanglement in cryptochrome proteins. Radical pairs—pairs of molecules with correlated electron spins—maintain coherence for microseconds, not the femtoseconds Tegmark predicted for neural tissue. In January 2026, Princeton researchers computationally confirmed this mechanism. A 2024 *Nature Communications* study demonstrated that the [quantum Zeno effect](/concepts/stapp-quantum-mind/)—the same mechanism Stapp proposes for consciousness-brain interaction—enables cryptochrome magnetosensitivity. Evolution has already implemented Zeno-like dynamics in a functional biological system.
+**Avian magnetoreception.** Migratory birds navigate using quantum spin entanglement in cryptochrome proteins. Radical pairs—pairs of molecules with correlated electron spins—maintain coherence for microseconds, not the femtoseconds Tegmark predicted for neural tissue. A 2025 Princeton computational study (Luo et al., 2025) confirmed the radical-pair electron-transfer pathway and showed how protein structure stabilises the pairs for magnetic sensing. A 2024 *Nature Communications* study demonstrated that the [quantum Zeno effect](/concepts/stapp-quantum-mind/)—the same mechanism Stapp proposes for consciousness-brain interaction—enables cryptochrome magnetosensitivity. Evolution has already implemented Zeno-like dynamics in a functional biological system.
 
 **Enzyme catalysis.** Quantum tunnelling drives reaction rates in enzymes, confirmed through kinetic isotope effects. Evolution has optimised quantum effects to accelerate reactions by factors up to 10¹⁷.
 
@@ -174,6 +174,7 @@ The empirical convergence supports all five of the Map's [tenets](/tenets/):
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Khan, S., et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024. https://doi.org/10.1523/ENEURO.0291-24.2024
 1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628-645.
+1. Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*, 147, 43934-43945.
 1. McKemmish, L.K., Reimers, J.R., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912.
 1. Rajan, A., et al. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 1. Reimers, J.R., McKemmish, L.K., McKenzie, R.H., Mark, A.E., & Hush, N.S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224.
@@ -183,5 +184,4 @@ The empirical convergence supports all five of the Map's [tenets](/tenets/):
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
 1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011. (The article treats the 613 THz finding as a computational prediction; the paper's title-claim of experimental support is the author's framing, which this article does not adopt.)
-1. Xu, J., et al. (2026). Computational confirmation of the radical pair mechanism in European robin cryptochrome-4a. *Journal of the American Chemical Society*.
 1. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
