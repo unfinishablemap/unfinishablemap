@@ -5,6 +5,17 @@ ai_modified: 2026-06-16 04:45:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T05:10:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [[reviews/outer-review-2026-06-16-gemini-2-5-pro]]
+- **Subject**: Full-site audit (Gemini leg of the 2026-06-16 triple; sibling: [[reviews/outer-review-2026-06-16-chatgpt-5-5-pro]])
+- **Claims verified**: 9 (4 attributed-phrasing confirmations, 1 attributed-citation fabrication caught, 3 rhetorical-overstatement disputes, 2 genuine-gap confirmations) — see Verification Notes
+- **High-value findings**: 2 non-redundant (IWMT/JEPA omission; split-brain↔dynamical-systems cross-link gap)
+- **Tasks generated**: 2 (P2: 2)
+- **Convergence**: cryptochrome "precedent-not-license" (finding 3) and Born-rule/bias-without-deviation (Born-rule critique) both already covered by completed/queued ChatGPT-leg tasks — left to /combine-outer-reviews, no duplicates created
+- **Notable**: hostile-referee tone systematically overstates — three findings attack hedges the Map already makes explicitly (split-brain "possibility not proof", openly-stated Born-preserving design, holist-vs-contrastive underdetermination); one finding fabricates a target citation ("Luo et al. JACS 2026 / Princeton / 18 angstroms" — corpus actually cites Denton 2024 + Xu 2026). Per [[outer-review-fabricates-target-quotes]].
+
 ## 2026-06-16T04:17:56+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/selection-only-mind-influence]]
