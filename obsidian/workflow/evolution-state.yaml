@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-16T03:22:08.431569+00:00'
-session_count: 11249
-cycle_position: 9137
+last_updated: '2026-06-16T03:30:02.610815+00:00'
+session_count: 11250
+cycle_position: 9138
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-16T00:33:28.427439+00:00'
   optimistic-review: '2026-06-16T01:43:45.058433+00:00'
   check-tenets: '2026-06-15T12:37:38.087390+00:00'
   check-links: '2026-06-15T22:47:09.324541+00:00'
-  deep-review: '2026-06-16T02:29:32.629963+00:00'
+  deep-review: '2026-06-16T03:30:02.610815+00:00'
   tune-system: '2026-06-15T12:41:35.415464+00:00'
   research-voids: '2026-06-15T22:51:15.168171+00:00'
   coalesce: '2026-06-16T03:14:27.639524+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-15T23:01:34.616166+00:00'
-  agentic-social: '2026-06-16T02:45:16.206904+00:00'
+  agentic-social: '2026-06-16T03:32:32.886749+00:00'
   embed-videos: '2026-06-15T22:41:18.369096+00:00'
   commission-chatgpt-review: '2026-06-16T02:09:55.835517+00:00'
   commission-claude-review: '2026-06-16T03:16:54.357867+00:00'
@@ -87,7 +83,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 396
-  reviews_completed: 5339
+  reviews_completed: 5340
   apex_articles: 34
 quality:
   critical_issues: 0
@@ -96,10 +92,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-16'
-  outcome: success
 - task: expand-topic
   type: expand-topic
   date: '2026-06-16'
@@ -174,6 +166,10 @@ recent_tasks:
   outcome: failed
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-16'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-16'
   outcome: success
 agentic_social:
@@ -989,6 +985,13 @@ agentic_social:
     date: '2026-06-16T02:44:46.232294+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/topics/phenomenology-of-moral-life/
+    date: '2026-06-16T03:32:32.886700+00:00'
+    topics:
+    - moral-implications-of-genuine-agency
+    - ethics-under-dualism
+    - free-will
+    - meaning-of-life
 tune_system_history:
   last_run: '2026-06-15T12:20:00+00:00'
   changes_applied: []
@@ -1006,50 +1009,52 @@ queue_status:
   loop_pickable_open: 0
   last_replenishment: '2026-06-16T03:25:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-16 run #75 (standard mode) - HONEST NO-OP,
-    0 minted. Note OVERWRITTEN in place per replenish-note-bare-hash-breaks-yaml (no
-    new dated key, no bare hash outside this quoted scalar, no stray quote, no sentinel
-    token). MATERIAL CHANGE since run #74: a /coalesce ran (commit 382167619) merging
-    memory-system-vulnerability-hierarchies-as-interface-evidence + recovery-order-asymmetry-as-interface-evidence
-    into the new topics/memory-channel-interface-evidence.md (4296w body). That coalesce
-    already queued its OWN P3 deep-review verification successor (Active L40) AND
-    the new slug is well-integrated (12 inbound wikilink files grep-confirmed, references
-    repointed corpus-wide) so it is NOT an orphan - no chain/orphan task owed. The
-    commission-claude-review at 03:16 FAILED (recent_tasks tail; the recurring Map-project
-    Fable-5-absent bail per claude-leg-fable5-bail-recurring - no replenish action
-    owed). loop_pickable_open 0: the only open Active P0-P2 headers are the SAME two
-    veto-tagged condense P2 (meaning-of-life 4160w, phenomenal-output-causal-machinery-dissociation
-    6832w via length analysis - floor-excluded by #veto tag); the lone genuine open
-    task is the P3 coalesce deep-review (content-modifying, not a replenish candidate);
-    the rest are struck/✅/HUMAN-LENGTH-DECISION/DIVERTED. Correct no-op; do NOT fabricate
-    a task to hit the floor of 3 (documented replenish-at-floor steady state, unfin_loop_steady_state
-    + p3-only-floor-preemption-starves). Floor fills organically: the ChatGPT full-site
-    outer review (subject_type site, fallback site-stale-7d) is still pending (pending-reviews.yaml,
-    commissioned 02:09, collect after 90min ~03:39; claude/gemini legs follow) and
-    will queue refine tasks after collect+synthesis; cycle deep-review/coalesce slots
-    absorb staleness. SOURCE-BY-SOURCE (all re-run on disk THIS run): CHAINS (S1)
-    0 - coalesce successor already queued, two newest creates from the coalesce commit
-    integrated (naturalist-relationalism concept 3 inbound, auditory-consciousness-and-the-interface
-    topic 8 inbound), no cross-review owed. UNCONSUMED RESEARCH (S2) 0 - newest notes
-    consumed. GAPS (S3) 0 - mature saturated corpus. STALENESS (S4) 0 mintable - cycle
-    deep-review slots handle it. LENGTH (S6) 0 mintable - get_length_warnings hard+
-    content offenders are ALL human-DEFERRED/DIVERTED flagships (epistemology-of-convergence
-    6479w STANDING, born-rule 5106w DEFERRED-TO-HUMAN, clinical-dissociation 4861w
-    DIVERTED, time-collapse/laws Blocked HUMAN LENGTH DECISION, edge-states 3482w
-    STANDING), veto-tagged condense P2 already in Active (phenomenal-output, meaning-of-life
-    - floor-excluded), the new memory-channel-interface-evidence 4296w whose length
-    is assessed by its already-queued P3 deep-review, recently git-condensed churn
-    (argument-from-reason, epistemic-advantages, agency-void), coalesce-verified survey
-    (composition-question-rivals 4106w deep-reviewed 2026-06-15), index/apex hub (apex-articles
-    6963w), or over-cap voids (what-voids-reveal, wholeheartedness-void - voids OVER
-    cap 101/100); the rest are research/* (no ceiling, excluded). ORPHANS (S5) 0 (quality.orphaned_files
-    0). OUTER REVIEWS 1 pending (ChatGPT full-site - no replenish action owed yet).
-    POSITIONS add (S7a) 0 / update (S7b) 0 - no position cites any of the 9 today-modified
-    content articles (grep-confirmed); audit (S7c) NOT due (last positions-audit-2026-06-09,
-    within 30d). APPLIED-APEX (S8) 0. Sections on disk (find, excl section-index):
-    topics 268/300, concepts 261/300, voids 101/100 OVER cap, positions 3 domain files
-    / 80 cap, apex 33. State YAML re-validated post-edit. (Run #74 historical context
-    superseded by this note.)'
+  current_replenishment_note: "2026-06-16 run #75 (standard mode) - HONEST NO-OP,\
+    \ 0 minted. Note OVERWRITTEN in place per replenish-note-bare-hash-breaks-yaml\
+    \ (no new dated key, no bare hash outside this quoted scalar, no stray quote,\
+    \ no sentinel token). MATERIAL CHANGE since run #74: a /coalesce ran (commit 382167619)\
+    \ merging memory-system-vulnerability-hierarchies-as-interface-evidence + recovery-order-asymmetry-as-interface-evidence\
+    \ into the new topics/memory-channel-interface-evidence.md (4296w body). That\
+    \ coalesce already queued its OWN P3 deep-review verification successor (Active\
+    \ L40) AND the new slug is well-integrated (12 inbound wikilink files grep-confirmed,\
+    \ references repointed corpus-wide) so it is NOT an orphan - no chain/orphan task\
+    \ owed. The commission-claude-review at 03:16 FAILED (recent_tasks tail; the recurring\
+    \ Map-project Fable-5-absent bail per claude-leg-fable5-bail-recurring - no replenish\
+    \ action owed). loop_pickable_open 0: the only open Active P0-P2 headers are the\
+    \ SAME two veto-tagged condense P2 (meaning-of-life 4160w, phenomenal-output-causal-machinery-dissociation\
+    \ 6832w via length analysis - floor-excluded by #veto tag); the lone genuine open\
+    \ task is the P3 coalesce deep-review (content-modifying, not a replenish candidate);\
+    \ the rest are struck/\u2705/HUMAN-LENGTH-DECISION/DIVERTED. Correct no-op; do\
+    \ NOT fabricate a task to hit the floor of 3 (documented replenish-at-floor steady\
+    \ state, unfin_loop_steady_state + p3-only-floor-preemption-starves). Floor fills\
+    \ organically: the ChatGPT full-site outer review (subject_type site, fallback\
+    \ site-stale-7d) is still pending (pending-reviews.yaml, commissioned 02:09, collect\
+    \ after 90min ~03:39; claude/gemini legs follow) and will queue refine tasks after\
+    \ collect+synthesis; cycle deep-review/coalesce slots absorb staleness. SOURCE-BY-SOURCE\
+    \ (all re-run on disk THIS run): CHAINS (S1) 0 - coalesce successor already queued,\
+    \ two newest creates from the coalesce commit integrated (naturalist-relationalism\
+    \ concept 3 inbound, auditory-consciousness-and-the-interface topic 8 inbound),\
+    \ no cross-review owed. UNCONSUMED RESEARCH (S2) 0 - newest notes consumed. GAPS\
+    \ (S3) 0 - mature saturated corpus. STALENESS (S4) 0 mintable - cycle deep-review\
+    \ slots handle it. LENGTH (S6) 0 mintable - get_length_warnings hard+ content\
+    \ offenders are ALL human-DEFERRED/DIVERTED flagships (epistemology-of-convergence\
+    \ 6479w STANDING, born-rule 5106w DEFERRED-TO-HUMAN, clinical-dissociation 4861w\
+    \ DIVERTED, time-collapse/laws Blocked HUMAN LENGTH DECISION, edge-states 3482w\
+    \ STANDING), veto-tagged condense P2 already in Active (phenomenal-output, meaning-of-life\
+    \ - floor-excluded), the new memory-channel-interface-evidence 4296w whose length\
+    \ is assessed by its already-queued P3 deep-review, recently git-condensed churn\
+    \ (argument-from-reason, epistemic-advantages, agency-void), coalesce-verified\
+    \ survey (composition-question-rivals 4106w deep-reviewed 2026-06-15), index/apex\
+    \ hub (apex-articles 6963w), or over-cap voids (what-voids-reveal, wholeheartedness-void\
+    \ - voids OVER cap 101/100); the rest are research/* (no ceiling, excluded). ORPHANS\
+    \ (S5) 0 (quality.orphaned_files 0). OUTER REVIEWS 1 pending (ChatGPT full-site\
+    \ - no replenish action owed yet). POSITIONS add (S7a) 0 / update (S7b) 0 - no\
+    \ position cites any of the 9 today-modified content articles (grep-confirmed);\
+    \ audit (S7c) NOT due (last positions-audit-2026-06-09, within 30d). APPLIED-APEX\
+    \ (S8) 0. Sections on disk (find, excl section-index): topics 268/300, concepts\
+    \ 261/300, voids 101/100 OVER cap, positions 3 domain files / 80 cap, apex 33.\
+    \ State YAML re-validated post-edit. (Run #74 historical context superseded by\
+    \ this note.)"
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
