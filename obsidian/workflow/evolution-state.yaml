@@ -1,5 +1,9 @@
-last_updated: '2026-06-16T14:23:57.346755+00:00'
-session_count: 11379
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-16T14:31:02.442070+00:00'
+session_count: 11380
 cycle_position: 9191
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-06-16T13:03:56.570342+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-15T23:01:34.616166+00:00'
-  agentic-social: '2026-06-16T14:30:38.763400+00:00'
+  agentic-social: '2026-06-16T14:31:02.442070+00:00'
   embed-videos: '2026-06-16T09:20:34.959565+00:00'
   commission-chatgpt-review: '2026-06-16T02:09:55.835517+00:00'
   commission-claude-review: '2026-06-16T03:16:54.357867+00:00'
@@ -92,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-16'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-16'
@@ -170,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
+  date: '2026-06-16'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-06-16'
   outcome: success
 agentic_social:
@@ -1009,27 +1013,20 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 0
-  last_replenishment: '2026-06-16T14:40:00+00:00'
+  last_replenishment: '2026-06-16T15:05:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-16 run #124 (standard mode) - HONEST NO-OP,
+  current_replenishment_note: '2026-06-16 run #125 (standard mode) - HONEST NO-OP,
     0 minted; all eight sources independently re-derived from disk THIS run, NOT trusting
-    the prior run #123 note (whose one claimed loop-pickable task has since been completed,
-    corrected below). Note OVERWRITTEN in place per replenish-note discipline (no
-    new dated key, no bare hash outside this quoted scalar, no stray quote, no sentinel
-    token). ACTIVE re-scan this run (awk ### headers over the Active slice line 38..1020,
-    Completed header confirmed at line 1021 / Blocked 1022 / Vetoed 6153; grep -vaE
-    all closed-state markers incl BOTH emoji checkmark variants U+2705 and U+2713,
-    markdown strikethrough ~~...~~, and RELOCATED/RESOLVED/DEFERRED/DECLINED/DIVERTED/PROMOTED/DONE/SUPERSEDED/HUMAN/VETOED/OBSOLETE/COMPLETE/#veto):
-    ZERO loop-pickable open Active headers. CORRECTION to prior run #123 note: it
-    claimed ONE pickable P2 refine-draft at line 40 (the I-JEPA "primitive world-model"
-    attribution in concepts/predictive-processing.md); that task was COMPLETED this
-    cycle (commit ed1d12ca7) - the IWMT material is now fully integrated into predictive-processing.md
-    with the I-JEPA attribution corrected and attributed to Assran et al. 2023 - and
-    line 40 now holds a different, also-completed deep-review. So pickable dropped
-    1 to 0 since run #123. The open-but-NOT-loop-pickable set is unchanged: two #veto
-    condenses (line 568 meaning-of-life, line 576 phenomenal-output-causal-machinery-dissociation)
-    and two duhem-quine HUMAN LENGTH DECISION headers (lines 174, 183) - all require
-    human action. 0 pickable is below the floor of 3 but do NOT fabricate filler (documented
+    the prior run #124 note (which I confirm; one factual correction below). Note OVERWRITTEN
+    in place per replenish-note discipline (no new dated key, no bare hash outside
+    this quoted scalar, no stray quote, no sentinel token). ACTIVE re-scan this run:
+    awk ### headers over the Active slice (Active header line 38, Completed 1021, Blocked
+    1022, Vetoed 6153); of 129 Active headers, 5 lack a checkmark/strikethrough and
+    ALL 5 are non-loop-pickable (two duhem-quine HUMAN LENGTH DECISION headers; two
+    #veto condenses meaning-of-life + phenomenal-output-causal-machinery-dissociation;
+    one RELOCATED-stub at line 812 whose body says see-live-block-at-top and whose
+    real review completed at line 4384). ZERO loop-pickable open Active headers, same
+    as run #124. 0 pickable is below the floor of 3 but do NOT fabricate filler (documented
     replenish-at-floor steady state, unfin_loop_steady_state + p3-only-floor-preemption-starves);
     the floor fills organically from the cycle deep-review/coalesce/pessimistic slots
     and the next outer-review synthesis. SOURCE-BY-SOURCE (all re-run on disk THIS
@@ -1037,58 +1034,55 @@ queue_status:
     anti-correlated-metacognitive-signal, reconsolidation-as-selection-window, direction-dependent-discriminating-test-design)
     re-grepped for inbound wikilink refs: 82 / 26 / 12 / 12 files respectively, all
     well over 2, so no cross-review or integrate-orphan owed. UNCONSUMED RESEARCH
-    (S2) 0 - three newest non-void notes (all 2026-06-16) ALL CONSUMED: IWMT folded
-    into concepts/predictive-processing.md per its own decline-standalone self-recommendation
-    (the I-JEPA refine that consumed it is now done); naturalist-relationalism (concepts/naturalist-relationalism.md)
+    (S2) 0 - three newest non-void notes (all 2026-06-16) ALL CONSUMED: IWMT note self-recommends
+    DECLINE-standalone / retarget to concepts/predictive-processing.md (already covered
+    there, I-JEPA refine that consumed it is done); naturalist-relationalism (concepts/naturalist-relationalism.md)
     and chemosensory (topics/chemosensory-consciousness-and-the-interface.md) both
     confirmed on disk; next note metacognition (2026-01-18) far outside the 14-day
     chain window. GAPS (S3) 0 - mature saturated corpus. STALENESS (S4) 0 mintable
     - cycle deep-review slots handle it (deep-review-over-reviews-converged regression
     zone). LENGTH (S6) 0 mintable - re-ran tools.curate.length.get_length_warnings
-    this run. The 3 critical CONTENT offenders: topics/epistemology-of-convergence-arguments
+    this run (26 content warnings). The 3 critical CONTENT offenders: topics/epistemology-of-convergence-arguments
     (6479w, standing HUMAN LENGTH DECISION line 210, prior condenses failed, recommended
     action is HUMAN SPLIT); apex/phenomenal-output-causal-machinery-dissociation (6832w,
-    #veto P2 line 576); apex/apex-articles.md (6963w, section-index registry). The
-    hard_warning content offenders with no clean mint - born-rule (5106w, DEFERRED-TO-HUMAN
-    line 410), clinical-dissociation (4861w, DIVERTED-TO-HUMAN line 90 + modified
-    TODAY so premature), time-collapse-and-agency (4606w), argument-from-reason (4489w),
-    epistemic-advantages-of-dualism (4400w), laws-and-dispositions (4213w, DEFERRED-TO-HUMAN
-    line 355) - are ALL documented human-deferred flagships + refine-then-condense-churn
-    set, deliberately excluded (condense-regresses-calibration-qualifiers risk). memory-channel-interface-evidence
-    (4296w) was coalesced AND deep-reviewed TODAY (line 40, accept-as-survey verdict)
-    - re-queuing = churn. machine-question (5001w) is an apex hub prior-judged length-watch-not-condense.
-    composition-question-rivals (4106w) deep-reviewed + modified 2026-06-15 (premature).
-    The just-over-hard cluster (valence-and-conscious-selection 4092w, qm-interpretations
-    4065w, quantum-biology 4050w [modified TODAY], metaphysics-of-composition 4043w
-    [06-15], consciousness-in-simple-organisms 4025w, phenomenal-authority 4022w [06-13],
-    introspection-architecture 4021w [06-13]) is all recently-modified or calibration-dense
-    flagship, well under the 6000 critical - none clean+stale+safe. filter-theory
-    (3500w) sits exactly AT the concepts hard, not over. All other length-flagged
+    #veto); apex/apex-articles.md (6963w, section-index registry). The hard_warning
+    content offenders with no clean mint - born-rule (5106w, DEFERRED-TO-HUMAN), clinical-dissociation
+    (4861w, DIVERTED-TO-HUMAN + modified TODAY so premature), time-collapse-and-agency
+    (4606w), argument-from-reason (4489w), epistemic-advantages-of-dualism (4400w),
+    laws-and-dispositions (4213w, DEFERRED-TO-HUMAN) - are ALL documented human-deferred
+    flagships + refine-then-condense-churn set, deliberately excluded (condense-regresses-calibration-qualifiers
+    risk). memory-channel-interface-evidence (4296w) was coalesced AND deep-reviewed
+    TODAY (re-queuing = churn). machine-question (5001w) is an apex hub prior-judged
+    length-watch-not-condense. composition-question-rivals (4106w) deep-reviewed +
+    modified 2026-06-15 (premature). The just-over-hard cluster (valence-and-conscious-selection
+    4092w, qm-interpretations 4065w [06-14], quantum-biology 4050w [modified TODAY],
+    metaphysics-of-composition 4043w [06-15], consciousness-in-simple-organisms 4025w,
+    phenomenal-authority 4022w, introspection-architecture 4021w) is all recently-modified
+    or calibration-dense flagship, well under the 6000 critical - none clean+stale+safe.
+    filter-theory (3500w) sits exactly AT the concepts hard, not over. All other length-flagged
     entries are research/ notes (thresholds do not apply). So 0 mintable. ORPHANS
     (S5) 0 (quality.orphaned_files 0; all 4 newest articles >=12 inbound links). OUTER
     REVIEWS: 2026-06-16 cycle fully synthesized (obsidian/reviews/outer-review-synthesis-2026-06-16.md
-    exists), pending-reviews chatgpt+gemini both collected, and ALL of that cycle''s
-    minted tasks (the convergent quantum-biology P1 + the ChatGPT/Gemini singleton
-    P2s incl settled-affective-neuroscience, first-major-AI-lab, IWMT-rival, No-Many-Worlds-dependency)
-    were EXECUTED and now sit in the Completed section (verified lines 1063/1067)
-    - 0 owe a replenish action. POSITIONS add (S7a) 0 - today positions work (2026-06-16)
-    was a "60+ voids" count refresh + P-V3/P-Q8 calibration tightening + the mechanism-debt
-    cross-reference convention, not a new claim to register. update (S7b) 0 GENUINE
-    after verification - of the ~41 content files modified today, 3 are GENUINELY
-    cited as position dependencies (quantum-biology-and-neural-consciousness; apex/self-concealing-interface;
-    apex/taxonomy-of-voids) but EACH was checked and owes no update: quantum-biology
-    was refined TODAY specifically to MATCH the P-Q8 "precedent not license" calibration
-    (aligns TO the position, does not move it away); self-concealing-interface saw
-    only a length-neutral coalesce link repoint (+6/-9 lines), claim intact; taxonomy-of-voids
-    saw a net-neutral (+7/-7) change driven by the positions/voids-as-evidence.md
-    P-V3 pass ITSELF (the position side already handled it). Audit (S7c) NOT due -
-    register has 18 P-* entries (P-Q1..10, P-A1..5, P-V1..3; over the 10-entry trigger)
-    BUT a full audit ran 2026-06-09 (reviews/positions-audit-2026-06-09.md), inside
-    the current 30d window. APPLIED-APEX (S8) 0 - quantum-interface high-confidence
+    exists), pending-reviews chatgpt+gemini both collected (none pending) - 0 owe a
+    replenish action. POSITIONS add (S7a) 0 - today positions work (2026-06-16) was
+    a voids-count refresh + P-V3/P-Q8 calibration tightening, not a new claim to register.
+    update (S7b) 0 GENUINE after git verification - 3 files modified today are GENUINELY
+    cited as position dependencies (topics/quantum-biology-and-neural-consciousness;
+    apex/self-concealing-interface; apex/taxonomy-of-voids) but EACH was git-checked
+    and owes no update: quantum-biology commit 311d5fe6a refined TODAY specifically
+    to MATCH the P-Q8 precedent-not-license calibration (3 ins / 3 del headline framing,
+    aligns TO the position); self-concealing-interface commit 382167619 was a length-neutral
+    coalesce link repoint (+6/-9), claim intact; taxonomy-of-voids commit d64e5a930
+    was a net-neutral (+7/-7) change driven by the positions/voids-as-evidence.md P-V3
+    pass ITSELF (the position side already handled it). Audit (S7c) NOT due - register
+    has 18 P-* entries (P-Q1..10, P-A1..5, P-V1..3; over the 10-entry trigger) BUT
+    a full audit ran 2026-06-09 (reviews/positions-audit-2026-06-09.md), 7 days ago,
+    inside the current 30d window. APPLIED-APEX (S8) 0 - quantum-interface high-confidence
     cluster already covered; one applied apex exists (apex/assessing-ai-consciousness-under-the-map.md).
-    Sections on disk (find, excl section-index): topics 268/300, concepts 261/300,
-    voids 101/100 OVER cap, positions 3 domain files /80 cap, apex 34. State YAML
-    re-validated post-edit.'
+    CORRECTION to run #124: sections on disk (find, excl section-index) are topics
+    268/300, concepts 261/300, voids 101/100 OVER cap, positions 3 domain files /80
+    cap, apex 33 (run #124 said apex 34; disk count excluding apex.md + apex-articles.md
+    is 33). State YAML re-validated post-edit.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
