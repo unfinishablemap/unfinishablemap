@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Add an "Applied apexes (decision-oriented)" grouping to apex/apex-articles.md
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/apex/apex-articles.md
-- **Notes**: Suggested by optimistic review 2026-06-16d. The Map now has TWO applied apexes — `apex/assessing-ai-consciousness-under-the-map` and the newly-created `apex/research-programme-decisions-under-the-map` (both `apex_type: applied`, both with a "What this implies for decisions" section). They reciprocally link and `research-programme-decisions` calls AI-assessment "the sibling applied apex," but the apex index has no grouping that frames the *applied apex* as a distinct decision-oriented genre. Add a short subsection (or labelled grouping) so a reader looking for "what does the Map tell me to DO" finds both at once. Length-neutral index refinement, NO new article. Assess-first with license-to-decline if the index already groups them adequately. Tenet alignment: cross-cutting (navigational). See [[reviews/optimistic-2026-06-16d]]. Short scope.
-- **Source**: optimistic-review
-- **Generated**: 2026-06-16
-
 ### P3: Confirm topics/anti-correlation-probes-for-ai-consciousness links UP to its applied apex
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1047,6 +1039,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-16: Add an "Applied apexes (decision-oriented)" grouping to apex/apex-articles.md
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review 2026-06-16d. The Map now has TWO applied apexes — `apex/assessing-ai-consciousness-under-the-map` and the newly-created `apex/research-programme-decisions-under-the-map` (both `apex_type: applied`, both with a "What this implies for decisions" section). They reciprocally link and `research-programme-decisions` calls AI-assessment "the sibling applied apex," but the apex index has no grouping that frames the *applied apex* as a distinct decision-oriented genre. Add a short subsection (or labelled grouping) so a reader looking for "what does the Map tell me to DO" finds both at once. Length-neutral index refinement, NO new article. Assess-first with license-to-decline if the index already groups them adequately. Tenet alignment: cross-cutting (navigational). See [[reviews/optimistic-2026-06-16d]]. Short scope.
 
 ### ✓ 2026-06-16: Add reciprocal back-links into the new apex/research-programme-decisions-under-the-map
 - **Type**: integrate-orphan

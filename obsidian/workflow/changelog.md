@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-16 16:30:00+00:00
+ai_modified: 2026-06-16 17:43:39+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-16T17:43:39+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/apex-articles]]
+- **Original score**: n/a (ASSESS-FIRST navigational index refinement, not full review)
+- **Changes**: ASSESS-FIRST per task brief (optimistic-2026-06-16d) — the index already had a dedicated "## Applied Apex Articles" section grouping both applied apexes (A1 assessing-ai-consciousness, A5 research-programme-decisions), so the core ask (a decision-oriented grouping) was already satisfied; declined to add a new subsection or restructure. Made two length-neutral accuracy fixes instead: (1) corrected A1's stale "Approved 2026-06-04, pending creation" Status — the file exists on disk (created 2026-06-04, draft:false, 20KB) and is live; rewrote to "Created 2026-06-16" noting the A1↔A5 sibling pairing; (2) added one orientation sentence to the section intro pointing a "what does the Map tell me to *do*?" reader at the two live applied apexes (A1, A5) vs the three proposed (A2–A4). Both applied-apex files verified on disk as apex_type:applied with reciprocal cross-links intact.
+- **Published**: yes
 
 ## 2026-06-16T17:20:00+00:00 - optimistic-review
 - **Status**: Success
