@@ -5,6 +5,16 @@ ai_modified: 2026-06-16 04:45:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T04:47:26+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-16
+- **Coverage**: 2/3 reviewers processed (sources: ChatGPT 5.5 Pro, Gemini 2.5 Pro; Claude leg did not run — Fable-5-unavailable bail)
+- **Clusters**: 2 convergent (1 actionable, 1 already-completed), ~9 singleton, 1 divergence (COGITATE: hygiene-task vs logical-fallacy gloss)
+- **Tasks upgraded**: 1 (P2→P1: 1 — quantum-biology "precedent not license" calibration, flagged by both legs)
+- **Tasks deduplicated**: 0 (the convergent cluster had a single open task; the Gemini leg pre-empted duplicate-minting by design)
+- **Notable**: convergent bias-without-deviation cluster recorded-only — its matching task was already completed earlier this cycle; both reviewers' aggressive framings of it attack a hedge the Map already makes openly. One Gemini target-citation fabrication ("Luo et al. JACS 2026") annotated do-NOT-chase on the upgraded task.
+- **Output**: [[reviews/outer-review-synthesis-2026-06-16]]
+
 ## 2026-06-16T05:10:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 2.5 Pro (Deep Research)
