@@ -5,6 +5,15 @@ ai_modified: 2026-06-16 14:14:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/qm-interpretations-beyond-many-worlds]]
+- **Trigger**: topic-concept anchoring audit (calibration-audit-triple Audit Three). Failed checks: hedge_density (1.97/kw vs 2.15/kw target = 60% of anchor [[retrocausality]] 3.59/kw, a SMALL gap) and underdetermination_markers (0 vs anchor's 1).
+- **Changes**: Minimal calibration bump preserving voice and central claim (no weakening, no condensing of References-driven prose). (1) Installed the underdetermination point the anchor already marks: added a clause in the intro noting the leading candidates are empirically equivalent on currently testable scenarios so the interpretation choice is underdetermined by the evidence — the load-bearing fix, giving 2 markers. (2) Hedged two genuine over-claim sites: the comparative-table conclusion "provide the framework the Map needs" → "may provide … though leaving room is not the same as supplying support"; the QBism-incompleteness verdict → "may leave QBism philosophically incomplete … though a QBist could reply that explaining agenthood was never the theory's remit".
+- **Result**: hedge_density 1.97→2.67/kw (clears 2.15 target); underdetermination 0→2; strong_assertions unchanged at 0.49/kw. evaluate_anchoring() returns no flags. No mechanical hedge-stuffing (each hedge sits on a genuine over-claim per [[evidential-status-discipline]], [[condense-regresses-calibration-qualifiers]], [[deep-review-over-reviews-converged]]).
+- **Length**: +60 prose words (4065→4125); pre-existing hard_warning status unchanged (References ~565w drives the overage; prose-only ~3500w stays under). Did NOT condense calibrated prose to offset References per [[count-words-includes-frontmatter]] complement guidance.
+- **Validated**: ✓ Valid
+
 ## 2026-06-16T14:54:43+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/forward-in-time-vs-time-symmetric-selection]]
