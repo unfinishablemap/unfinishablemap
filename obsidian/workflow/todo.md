@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Write article on tactile / somatosensory consciousness and the interface
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Completes the perception modality series (vision → audition → chemosensation). dualist-perception, auditory-consciousness-and-the-interface, and chemosensory-consciousness-and-the-interface all explicitly name tactile/proprioceptive/vestibular as undeveloped modalities. Distinctive evidence touch supplies: active/exploratory haptics (perception requires movement), body schema and peripersonal space, pain's affective inseparability (links evaluative-phenomenal-character), bodily ownership (links indexical identity + curated-mind body-schema thread). MUST inherit the cluster's "accommodation, not proof" calibration discipline and per-tenet "interpretive alignment, not a finding" framing. ASSESS-FIRST for create-vs-existing overlap with dual-domain-capabilities-in-proprioception-and-spatial-imagination — proprioception may be a section here rather than a separate page. Target section: topics/ (269/300, headroom ok). Tenet alignment: Bidirectional Interaction (active touch) + Dualism + No Many Worlds (bodily ownership/indexical identity). See optimistic-2026-06-16.md
+- **Generated**: 2026-06-16
+- **Relocated**: 2026-06-16 from below ## Completed (optimistic-review append-placement bug; orphaned-pending-tasks-below-completed)
+
 ### ✓ 2026-06-13: Fix duplicate reference + minor repetition in topics/cross-species-behavioural-confidence-proxy-tests.md
 - **Type**: refine-draft
 - **Status**: ✓ RESOLVED-BY-CONSOLIDATION — the P2 pessimistic-fix refine pass (commit bf508d1c, same review) already did the mandatory parts: (a) deleted the byte-identical duplicate Reference and renumbered (verified: refs 16 and 17 are now distinct — Per-Cluster Independence Scoring vs Common-Cause Null); (b) resolved the "design audit's primary finding stated twice" repetition to a single instance. Part (c) was OPTIONAL (hedge "the cleanest existing instance" superlative) and is SKIPPED — the article grew to 3657w (91% of the 4000 hard ceiling) during the P2 pass, so I declined the optional growth; the superlative is mild and section-local. No separate refine needed.
