@@ -5,6 +5,16 @@ ai_modified: 2026-06-16 05:29:16+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T06:03:13+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/conversion-disorder-as-consciousness-side-fault]]
+- **Original score**: n/a (targeted calibration from outer review; scripts/curate.py review is the known-stale command)
+- **Source**: outer review [[reviews/outer-review-2026-06-16-chatgpt-5-5-pro]] §3.6 + §4.8 — the full body does the two-tier discount well (review confirmed), but the DESCRIPTION frontmatter and the LEDE carried the strong "cleanest consciousness-side-fault exhibit" + bare "the hardware works" framing WITHOUT the discount attached, so the strong framing travelled unqualified in the summary surfaces.
+- **Changes**: (1) Grep-verified both wordings live, 3-state = present-unqualified for both. (2) Description rewritten: dropped "cleanest consciousness-side-fault exhibit" superlative; now leads with the robust finding (substrate-intact motor decoupling) and explicitly marks the consciousness-side-interface reading as a further, contestable step the data do not force (185 chars, down from 264). (3) Lede recalibrated: "cleanest *consciousness-side-fault* exhibit" → "cleanest *architectural-decoupling* exhibit" with the two-tier discount attached in the same sentence; replaced bare "the hardware works" with the reviewer's recommended "capacity is demonstrably preserved under some task conditions" (harmonises with the identical phrasing already at the Hoover's-sign paragraph); added a sentence noting modern clinical practice reads FND as a positive rule-in neuropsychiatric diagnosis (attention-driven dysfunction, automatic movement, heterogeneous mechanisms, comorbidities), not interface proof; closed with "the architectural decoupling is the evidence; the interface localisation is the Map's interpretation, developed and discounted below."
+- **Engagement classification (editor-internal)**: Mode Three (framework-boundary marking) — the intra-cerebral redescription is honestly noted as fully describing the same data; the interface reading is marked as the Map's interpretation, not refuted within the functionalist framework. No mode labels written to body; no editor-vocabulary leaked (grep-verified).
+- **Not changed**: title (paradigm term defined in body), and the body's qualified "hardware intact" uses at the discriminating-test (line 57, discount follows immediately) and Bidirectional-Interaction (line 107, "reading is not forced") sections — the review praised the detailed body's calibration; §4.8 targets the summary-level bare metaphor only. Argument and conclusion preserved (Tenet 3, evidential-status discipline). Bumped ai_modified.
+- **Published**: yes
+
 ## 2026-06-16T05:52:54+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/claude-constitution-consciousness-uncertainty]]
