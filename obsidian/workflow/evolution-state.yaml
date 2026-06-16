@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-16T23:16:18.551940+00:00'
-session_count: 11454
+last_updated: '2026-06-16T23:23:44.489503+00:00'
+session_count: 11455
 cycle_position: 9217
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-16T04:14:32.657292+00:00'
   refine-draft: '2026-06-16T17:46:27.669798+00:00'
   research-topic: '2026-06-16T14:05:29.074973+00:00'
-  replenish-queue: '2026-06-16T23:14:31.498828+00:00'
+  replenish-queue: '2026-06-16T23:23:44.489503+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-16T08:06:09.164774+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: skip-queue-slot
-  type: skip-queue-slot
-  date: '2026-06-16'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-16'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
+  date: '2026-06-16'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-16'
   outcome: success
 agentic_social:
@@ -1005,40 +1005,36 @@ queue_status:
     of every triple-hash header, all carry a standard closing marker (check, strike,
     RELOCATED) EXCEPT exactly four documented steady-state exemptions the loop ignores
     - two HUMAN LENGTH DECISION headers (duhem-quine article, human-deferred) plus
-    two veto-tagged condense tasks (P2 meaning-of-life 4160w 139pct; P2
-    apex/phenomenal-output-causal-machinery-dissociation 6989w 175pct, human-blocked
-    flagship). Grep confirms all four are loop-unpickable. So 0 loop-pickable open.
-    EIGHT SOURCES re-verified: CHAINS (S1) 0 - recent_tasks contain no
-    expand-topic/research-topic completion awaiting a successor (only
-    replenish/coalesce/agentic-social/skip-queue-slot/deep-review/harvest/check-model-fallback/tune-system).
-    UNCONSUMED RESEARCH (S2) 0 - 4 recent notes re-confirmed consumed via ls:
-    chemosensory to topics/chemosensory-consciousness-and-the-interface.md (EXISTS),
-    naturalist-relationalism to concepts/naturalist-relationalism.md (EXISTS),
-    integrated-world-modeling folded into concepts/predictive-processing.md (grep
-    hit), 2026-06-14-touched metacognition note to concepts/metacognition.md
-    (EXISTS). GAPS (S3) 0 - section counts re-counted from disk: voids 101/100 over
-    cap; topics 268/300 and concepts 261/300 have headroom but gap analysis
-    documented-exhausted; positions 3/80 deliberately slow. STALENESS (S4) 0 mintable
-    - this pool is OWNED by the cycle deep-review slot (17pct, ran 19:20 today);
-    minting P3 deep-reviews here would only churn vs the cycle scorer. LENGTH (S6) 0
-    mintable - get_length_warnings re-run: 8 critical + 42 hard = 50 hard-tier. Both
-    CRITICAL content-article offenders exempt
-    (topics/epistemology-of-convergence-arguments 6479w = STANDING HUMAN LENGTH
-    DECISION in Blocked, 4 prior condenses failed, load-bearing Tenet-5 calibration,
-    recommendation SPLIT; apex/phenomenal-output 6832w = veto-tagged). Other critical
-    entries are 6 research/ notes (not condense targets) + apex/apex-articles.md
-    (section index hub). The 42 hard-tier offenders are all human-deferred /
-    veto-tagged / recently git-condensed. ORPHANS (S5) 0 - quality.orphaned_files 0.
-    POSITIONS add (S7a) 0 / update (S7b) 0 / audit (S7c) not due - audits ran
-    2026-06-09 and 2026-06-10, both within 30d window. APPLIED-APEX (S8) 0 - third
-    applied-apex slot DEFERRED-TO-HUMAN (header in Active region). OUTER REVIEWS:
-    06-16 cycle fully synthesized (obsidian/reviews/outer-review-synthesis-2026-06-16.md
-    present; pending-reviews.yaml entries both collected, 0 pending) so its tasks
-    were minted at the combine pass - nothing waiting for replenish. Queue at 0
-    pickable is the documented replenish-at-floor steady state (~18 consecutive
-    honest no-ops) - do NOT fabricate filler; cycle deep-review (17pct) / coalesce /
-    pessimistic / optimistic slots plus the next outer-review synthesis drain and
-    feed the floor organically. State YAML re-validated post-edit (parses OK).'
+    two veto-tagged condense tasks (P2 meaning-of-life 4160w 139pct; P2 apex/phenomenal-output-causal-machinery-dissociation
+    6989w 175pct, human-blocked flagship). Grep confirms all four are loop-unpickable.
+    So 0 loop-pickable open. EIGHT SOURCES re-verified: CHAINS (S1) 0 - recent_tasks
+    contain no expand-topic/research-topic completion awaiting a successor (only replenish/coalesce/agentic-social/skip-queue-slot/deep-review/harvest/check-model-fallback/tune-system).
+    UNCONSUMED RESEARCH (S2) 0 - 4 recent notes re-confirmed consumed via ls: chemosensory
+    to topics/chemosensory-consciousness-and-the-interface.md (EXISTS), naturalist-relationalism
+    to concepts/naturalist-relationalism.md (EXISTS), integrated-world-modeling folded
+    into concepts/predictive-processing.md (grep hit), 2026-06-14-touched metacognition
+    note to concepts/metacognition.md (EXISTS). GAPS (S3) 0 - section counts re-counted
+    from disk: voids 101/100 over cap; topics 268/300 and concepts 261/300 have headroom
+    but gap analysis documented-exhausted; positions 3/80 deliberately slow. STALENESS
+    (S4) 0 mintable - this pool is OWNED by the cycle deep-review slot (17pct, ran
+    19:20 today); minting P3 deep-reviews here would only churn vs the cycle scorer.
+    LENGTH (S6) 0 mintable - get_length_warnings re-run: 8 critical + 42 hard = 50
+    hard-tier. Both CRITICAL content-article offenders exempt (topics/epistemology-of-convergence-arguments
+    6479w = STANDING HUMAN LENGTH DECISION in Blocked, 4 prior condenses failed, load-bearing
+    Tenet-5 calibration, recommendation SPLIT; apex/phenomenal-output 6832w = veto-tagged).
+    Other critical entries are 6 research/ notes (not condense targets) + apex/apex-articles.md
+    (section index hub). The 42 hard-tier offenders are all human-deferred / veto-tagged
+    / recently git-condensed. ORPHANS (S5) 0 - quality.orphaned_files 0. POSITIONS
+    add (S7a) 0 / update (S7b) 0 / audit (S7c) not due - audits ran 2026-06-09 and
+    2026-06-10, both within 30d window. APPLIED-APEX (S8) 0 - third applied-apex slot
+    DEFERRED-TO-HUMAN (header in Active region). OUTER REVIEWS: 06-16 cycle fully
+    synthesized (obsidian/reviews/outer-review-synthesis-2026-06-16.md present; pending-reviews.yaml
+    entries both collected, 0 pending) so its tasks were minted at the combine pass
+    - nothing waiting for replenish. Queue at 0 pickable is the documented replenish-at-floor
+    steady state (~18 consecutive honest no-ops) - do NOT fabricate filler; cycle
+    deep-review (17pct) / coalesce / pessimistic / optimistic slots plus the next
+    outer-review synthesis drain and feed the floor organically. State YAML re-validated
+    post-edit (parses OK).'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
