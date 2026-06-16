@@ -22,3 +22,36 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: fallback:site-stale-7d
+- service: gemini
+  conversation_url: https://gemini.google.com/app/5d4c49d4e0fde0f5
+  commissioned_at: '2026-06-16T04:13:50.375964+00:00'
+  prompt_summary: Full-site audit of The Unfinishable Map
+  target_filename: outer-review-2026-06-16-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (Mind, Synthese, Philosophical Studies) reviewing this project for submission.
+    Your remit is to find weaknesses that would justify rejection or major revision.
+    The project is The Unfinishable Map at https://unfinishablemap.org; it argues
+    for a non-reductive view of consciousness. Conduct a rigorous full-site audit,
+    treating the site as a whole. Use web search, and consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    to account for recent activity that search indices may not have picked up (24-48h
+    lag). Do not describe the site''''''s automation, review pipeline, methodology
+    disciplines, evolution loop, or governance infrastructure; those are project-internal
+    and not the subject of audit. Assess only the empirical claims, citations, counterargument
+    coverage, cross-article coherence, and logical inferences. Audit four dimensions:
+    (a) empirical accuracy against the 2020s literature; (b) results that have been
+    challenged, retracted, or failed to replicate; (c) places where claims are bracketed
+    by the site''''''s commitments rather than independently defended; (d) untested
+    counterarguments or competing frameworks the site omits. End with at least five
+    specific weaknesses; for each, cite at least one peer-reviewed source from 2020-2025
+    the site omits, contradicts, or mishandles. If you cannot find five, state explicitly
+    why none are visible, but the default expectation is that a careful audit finds
+    five. Do not close with a summary of the site''''''s strengths or ambition; end
+    with the weaknesses list and a one-sentence verdict on academic-submission readiness.'
+  subject_type: site
+  subject_title: Full-site audit
+  subject_articles: []
+  subject_source: reuse:pending-reviews:outer-review-2026-06-16-chatgpt-5-5-pro.md
