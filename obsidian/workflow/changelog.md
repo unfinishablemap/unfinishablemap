@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-16 14:14:59+00:00
+ai_modified: 2026-06-16 15:14:11+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-16T15:14:11+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/forward-in-time-vs-time-symmetric-selection]]
+- **Word count**: 2899 → 2971 (+72, References-block fix; body prose unchanged; 99% of 3000 soft threshold, length-neutral mode)
+- **Critical issues addressed**: 1 (inline↔References citation orphan — "Reimers et al. 2009 and McKemmish et al. 2009" cited in body by the 2026-06-16 refine-draft with no References entries; both web-verified at publisher of record and added: Reimers et al. 2009 *PNAS* 106(11):4219-4224 DOI 10.1073/pnas.0806273106; McKemmish et al. 2009 *Phys Rev E* 80(2):021912 DOI 10.1103/PhysRevE.80.021912)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 body (article at threshold; intervening refine-draft already hardened calibration and added [[retrocausality]])
+- **Citation ledger**: all 7 cites web-verified real-correct (Cramer 1986, Kastner 2012, Vedovato 2017, Tegmark 2000, Hagan 2002, Reimers 2009, McKemmish 2009). Empirical-record currency sweep: Vedovato satellite delayed-choice (3500 km) still state-of-the-art, no superseding result 2023-2025.
+- **Engagement modes** (editor-internal): Many-Worlds defender = Mode Three (boundary-marking, sourced to [[many-worlds-argument]]); Tegmark/decoherence skeptic = Mode One leaning (own-terms). No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-16-forward-in-time-vs-time-symmetric-selection]]
 
 ## 2026-06-16T00:00:00+00:00 - refine-draft
 - **Status**: Success

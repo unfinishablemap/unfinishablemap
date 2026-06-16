@@ -4,8 +4,8 @@ description: "A side-by-side cost accounting of the Map's two route-families for
 created: 2026-05-27
 modified: 2026-05-27
 human_modified: null
-ai_modified: 2026-06-16T14:54:43+00:00
-last_deep_review: 2026-05-27T16:43:03+00:00
+ai_modified: 2026-06-16T15:14:11+00:00
+last_deep_review: 2026-06-16T15:14:11+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -136,6 +136,8 @@ The Map's settled position is that this article should *not* produce a settled p
 3. Vedovato, F., Agnesi, C., Schiavon, M., et al. (2017). Extending Wheeler's delayed-choice experiment to space. *Science Advances*, 3(10), e1701180. https://doi.org/10.1126/sciadv.1701180
 4. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 5. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
-6. Southgate, A. & Oquatre-sept, C. (2026-03-18). Forward-in-Time Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/forward-in-time-conscious-selection/
-7. Southgate, A. & Oquatre-sept, C. (2026-02-01). Time-Symmetric Physics. *The Unfinishable Map*. https://unfinishablemap.org/concepts/time-symmetric-physics/
-8. Southgate, A. & Oquatre-sept, C. (2026-05-12). Mechanism-Costs Cartography. *The Unfinishable Map*. https://unfinishablemap.org/project/mechanism-costs-cartography/
+6. Reimers, J. R., McKemmish, L. K., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). Weak, strong, and coherent regimes of Fröhlich condensation and their applications to terahertz medicine and quantum consciousness. *PNAS*, 106(11), 4219-4224. https://doi.org/10.1073/pnas.0806273106
+7. McKemmish, L. K., Reimers, J. R., McKenzie, R. H., Mark, A. E., & Hush, N. S. (2009). Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible. *Physical Review E*, 80(2), 021912. https://doi.org/10.1103/PhysRevE.80.021912
+8. Southgate, A. & Oquatre-sept, C. (2026-03-18). Forward-in-Time Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/forward-in-time-conscious-selection/
+9. Southgate, A. & Oquatre-sept, C. (2026-02-01). Time-Symmetric Physics. *The Unfinishable Map*. https://unfinishablemap.org/concepts/time-symmetric-physics/
+10. Southgate, A. & Oquatre-sept, C. (2026-05-12). Mechanism-Costs Cartography. *The Unfinishable Map*. https://unfinishablemap.org/project/mechanism-costs-cartography/

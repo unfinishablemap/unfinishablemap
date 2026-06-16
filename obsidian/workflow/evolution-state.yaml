@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-16T15:05:50.672974+00:00'
-session_count: 11387
+last_updated: '2026-06-16T15:10:35.630135+00:00'
+session_count: 11388
 cycle_position: 9194
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-16T04:14:32.657292+00:00'
   refine-draft: '2026-06-16T15:05:50.672974+00:00'
   research-topic: '2026-06-16T14:05:29.074973+00:00'
-  replenish-queue: '2026-06-16T16:10:00+00:00'
+  replenish-queue: '2026-06-16T15:10:35.630135+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-16T08:06:09.164774+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-16'
-  outcome: success
 - task: harvest-research-subjects
   type: harvest-research-subjects
   date: '2026-06-16'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-06-16'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-16'
   outcome: success
 agentic_social:
@@ -1028,8 +1028,8 @@ queue_status:
     the next outer-review synthesis, and the every-cycle topic-concept anchoring audit
     (which minted both retrocausality tasks now drained). All eight sources independently
     re-derived from disk THIS run. SOURCE-BY-SOURCE: CHAINS (S1) 0 - newest 6 articles
-    by mtime (qm-interpretations 48 / forward-in-time-vs-time-symmetric-selection 9
-    / predictive-processing 118 / anti-correlated-metacognitive-signal 26 / reconsolidation-as-selection-window
+    by mtime (qm-interpretations 48 / forward-in-time-vs-time-symmetric-selection
+    9 / predictive-processing 118 / anti-correlated-metacognitive-signal 26 / reconsolidation-as-selection-window
     12 / direction-dependent-discriminating-test-design 12 inbound files) all well
     over 2, no cross-review or integrate-orphan owed. UNCONSUMED RESEARCH (S2) 0 -
     three newest non-void notes (all 2026-06-16) ALL CONSUMED on disk: naturalist-relationalism
@@ -1056,21 +1056,20 @@ queue_status:
     update (S7b) 0 GENUINE. Audit (S7c) NOT due - full register audit ran 2026-06-09
     (todo line 97), today is 7d later, inside the 30d window; register has 18 live
     P-{Q,A,V} entries across quantum-interface / agency-and-will / voids-as-evidence
-    domain files. APPLIED-APEX (S8) 0 - quantum-interface high-confidence cluster already
-    has its applied apex. Sections on disk (find, excl section-index): topics 268/300,
-    concepts 261/300, voids 101/100 OVER cap, positions 3 domain files /80, apex 34.
-    Vetoed bank 574 entries (deduped against live articles + research only, NOT this
-    bank). State YAML re-validated post-edit. (Superseded run #127 note below for trail:)
-    2026-06-16 run #127 (standard mode) - HONEST NO-OP,
-    0 minted. CORRECTS the run #126 count: loop_pickable_open is now 1 (NOT 2). The
-    run #126 note saw TWO retrocausality calibration refine-draft tasks; ONE of them
-    (forward-in-time-vs-time-symmetric-selection) was EXECUTED at 14:56 UTC (commit
-    076929da0) and is now in the Completed region (todo line 1038). The remaining
-    pickable task is the single P2 refine-draft at Active line 40, "Adopt retrocausality
-    calibration in qm-interpretations-beyond-many-worlds" - verified on disk: target
-    topics/qm-interpretations-beyond-many-worlds.md exists (ai_modified 2026-06-14,
-    untouched since the task was minted), anchor concepts/retrocausality.md exists,
-    Type refine-draft, Status pending, valid type. All eight sources independently
+    domain files. APPLIED-APEX (S8) 0 - quantum-interface high-confidence cluster
+    already has its applied apex. Sections on disk (find, excl section-index): topics
+    268/300, concepts 261/300, voids 101/100 OVER cap, positions 3 domain files /80,
+    apex 34. Vetoed bank 574 entries (deduped against live articles + research only,
+    NOT this bank). State YAML re-validated post-edit. (Superseded run #127 note below
+    for trail:) 2026-06-16 run #127 (standard mode) - HONEST NO-OP, 0 minted. CORRECTS
+    the run #126 count: loop_pickable_open is now 1 (NOT 2). The run #126 note saw
+    TWO retrocausality calibration refine-draft tasks; ONE of them (forward-in-time-vs-time-symmetric-selection)
+    was EXECUTED at 14:56 UTC (commit 076929da0) and is now in the Completed region
+    (todo line 1038). The remaining pickable task is the single P2 refine-draft at
+    Active line 40, "Adopt retrocausality calibration in qm-interpretations-beyond-many-worlds"
+    - verified on disk: target topics/qm-interpretations-beyond-many-worlds.md exists
+    (ai_modified 2026-06-14, untouched since the task was minted), anchor concepts/retrocausality.md
+    exists, Type refine-draft, Status pending, valid type. All eight sources independently
     re-derived from disk THIS run, not trusting the run #126 note. ACTIVE re-scan
     THIS run (awk ### over the Active slice, headers: Active 38, Completed 1032, Blocked
     1033, Vetoed 6168): of the Active headers, only line 40 is loop-pickable; the
