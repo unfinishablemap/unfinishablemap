@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-16T06:39:31.282979+00:00'
-session_count: 11283
+last_updated: '2026-06-16T06:42:56.787546+00:00'
+session_count: 11284
 cycle_position: 9155
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-16T04:14:32.657292+00:00'
   refine-draft: '2026-06-16T06:39:31.282979+00:00'
   research-topic: '2026-06-16T01:23:13.092650+00:00'
-  replenish-queue: '2026-06-16T06:33:50.246344+00:00'
+  replenish-queue: '2026-06-16T06:42:56.787546+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-15T11:21:03.021858+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-06-16'
-  outcome: success
 - task: check-tenets
   type: check-tenets
   date: '2026-06-16'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-06-16'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-16'
   outcome: success
 agentic_social:
@@ -1017,23 +1017,23 @@ queue_status:
     new dated key, no bare hash outside this quoted scalar, no stray quote, no sentinel
     token). MATERIAL CHANGE since run #80 (06:50): exactly ONE new commit - the post-synthesis
     P3 outer-review-adjacent refine on positions/voids-as-evidence.md (d64e5a930),
-    which DRAINED the P3 voids-as-evidence stale-count item run #80 was tracking. That
-    refine refreshed the stale "60+ voids" count to "over a hundred / roughly fifteen
-    framework-independent" across the position file AND its Argued-in companion apex/taxonomy-of-voids.md,
-    and tightened P-V2/P-V3 wording. It is a clean, self-contained calibration edit:
-    it edits the position file IN PLACE (the file IS the position - no S7a add owed,
-    no new claim introduced) and the same pass updated the apex it Argues-in with the
-    IDENTICAL count refresh so the two stay self-consistent (no S7b update owed - the
-    apex change strengthens position-apex agreement rather than invalidating the claim).
-    loop_pickable_open now 0: only one P3 remains open, non-pickable - the P3 outer-review
-    methodology holding-pen (assess-first, operator/architecture decisions). 0 pickable
-    is below the floor of 3, but do NOT fabricate a task to hit it (documented replenish-at-floor
-    steady state, unfin_loop_steady_state + p3-only-floor-preemption-starves); the
-    floor fills organically as cycle deep-review/coalesce/pessimistic slots and the
-    next outer-review synthesis emit pickable work. SOURCE-BY-SOURCE (all re-run on
-    disk THIS run): CHAINS (S1) 0 - the only commit since run #80 is the voids-as-evidence
-    refine (clean, no defect, no chain owed). UNCONSUMED RESEARCH (S2) 0 - the two
-    newest 2026-06-16 notes stay consumed (naturalist-relationalism-as-a-non-dualist-rival-in-perception
+    which DRAINED the P3 voids-as-evidence stale-count item run #80 was tracking.
+    That refine refreshed the stale "60+ voids" count to "over a hundred / roughly
+    fifteen framework-independent" across the position file AND its Argued-in companion
+    apex/taxonomy-of-voids.md, and tightened P-V2/P-V3 wording. It is a clean, self-contained
+    calibration edit: it edits the position file IN PLACE (the file IS the position
+    - no S7a add owed, no new claim introduced) and the same pass updated the apex
+    it Argues-in with the IDENTICAL count refresh so the two stay self-consistent
+    (no S7b update owed - the apex change strengthens position-apex agreement rather
+    than invalidating the claim). loop_pickable_open now 0: only one P3 remains open,
+    non-pickable - the P3 outer-review methodology holding-pen (assess-first, operator/architecture
+    decisions). 0 pickable is below the floor of 3, but do NOT fabricate a task to
+    hit it (documented replenish-at-floor steady state, unfin_loop_steady_state +
+    p3-only-floor-preemption-starves); the floor fills organically as cycle deep-review/coalesce/pessimistic
+    slots and the next outer-review synthesis emit pickable work. SOURCE-BY-SOURCE
+    (all re-run on disk THIS run): CHAINS (S1) 0 - the only commit since run #80 is
+    the voids-as-evidence refine (clean, no defect, no chain owed). UNCONSUMED RESEARCH
+    (S2) 0 - the two newest 2026-06-16 notes stay consumed (naturalist-relationalism-as-a-non-dualist-rival-in-perception
     -> concepts/naturalist-relationalism.md verified on disk; chemosensory-consciousness-and-the-interface-olfaction-and-gustation
     -> topics/chemosensory-consciousness-and-the-interface.md verified on disk). GAPS
     (S3) 0 - mature saturated corpus. STALENESS (S4) 0 mintable - cycle deep-review
@@ -1059,12 +1059,12 @@ queue_status:
     exists), all entries collected/none pending, all minted tasks executed; no pending
     entry owes a replenish action. POSITIONS add (S7a) 0; update (S7b) 0 - the only
     positions file touched since run #80 (voids-as-evidence.md) was edited IN PLACE
-    by the calibration refine that strengthened it, not by a change to an article it
-    Argues-in; audit (S7c) NOT due (last positions-audit-2026-06-09, within 30d). APPLIED-APEX
-    (S8) 0 - register at 3 domain files, no new high-confidence cluster gap. Sections
-    on disk (find, excl section-index): topics 268/300, concepts 261/300, voids 101/100
-    OVER cap, positions 3 domain files / 80 cap, apex 34. State YAML re-validated post-edit.
-    (Run #80 historical context superseded by this note.)'
+    by the calibration refine that strengthened it, not by a change to an article
+    it Argues-in; audit (S7c) NOT due (last positions-audit-2026-06-09, within 30d).
+    APPLIED-APEX (S8) 0 - register at 3 domain files, no new high-confidence cluster
+    gap. Sections on disk (find, excl section-index): topics 268/300, concepts 261/300,
+    voids 101/100 OVER cap, positions 3 domain files / 80 cap, apex 34. State YAML
+    re-validated post-edit. (Run #80 historical context superseded by this note.)'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
