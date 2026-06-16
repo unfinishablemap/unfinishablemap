@@ -4,7 +4,7 @@ description: "Consciousness actively shapes perception in two ways: stabilising 
 created: 2026-02-15
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-06-14T03:31:29+00:00
+ai_modified: 2026-06-16T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -93,7 +93,7 @@ In the Map's [[capability-division-problem|capability division framework]], comp
 
 ### Differentiation, Not Enrichment
 
-Eleanor Gibson's (1969) differentiation theory overturned the assumption that learning adds associations to perception. Gibson showed the opposite: perceptual learning is about detecting information already present in the stimulus array that the untrained perceiver fails to pick up. The wine novice and sommelier receive the same chemical compounds on their tongues. The difference lies in the *differentiation* of that signal — the trained perceiver extracts structure the untrained perceiver literally cannot access.
+Eleanor Gibson's (1969) differentiation theory overturned the assumption that learning adds associations to perception. Gibson showed the opposite: perceptual learning is about detecting information already present in the stimulus array that the untrained perceiver fails to pick up. The wine novice and sommelier receive the same chemical compounds on their tongues. The difference lies in the *differentiation* of that signal — the trained perceiver extracts structure the untrained perceiver literally cannot access. This wine-tasting case is the chemical senses' own, and [[chemosensory-consciousness-and-the-interface|chemosensory consciousness]] develops it as a modality where the stimulus-percept gap is especially stark: the perceived flavour corresponds to no single property of the molecules on the tongue.
 
 This distinction matters philosophically. If perceptual learning were enrichment — adding conceptual knowledge to raw sensation — the underlying phenomenal experience could remain unchanged. The expert would simply *think* different thoughts about the same percept. Gibson's research and subsequent work (Goldstone, 1998) shows this is wrong. Perceptual learning alters the percept itself. Training creates new phenomenal categories that structure experience from the ground up.
 

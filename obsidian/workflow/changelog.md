@@ -5,6 +5,14 @@ ai_modified: 2026-06-16 00:39:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T00:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Chemosensory consciousness and the interface (olfaction and gustation)
+- **Output**: [[topics/chemosensory-consciousness-and-the-interface]]
+- **Word count**: 2241 (75% of 3000 topic target — ok)
+- **Based on research**: yes — [[research/chemosensory-consciousness-and-the-interface-olfaction-and-gustation-2026-06-16]]
+- **Notes**: Chemical-sense companion to [[topics/auditory-consciousness-and-the-interface]], mirroring its structure and "accommodation, not proof" calibration. Three phenomenon sections (stimulus-percept gap via carvone enantiomers + combinatorial code; non-Euclidean odour quality space; Proust-phenomenon affect/memory coupling + flavour binding) + Relation to Site Perspective + Further Reading + References. Gives the sommelier/Barolo examples (load-bearing in consciousness-as-perceptual-architect, dualist-perception) their missing modality home. Co-optation firewall observed: Barwich engaged as naturalist rival, not conscripted toward dualism. Web-verified at creation: carvone enantiomer→spearmint/caraway (ACS); Barwich "measuring device" phrase (HUP); OECS "Smell" entry last-updated 2024 but author unverifiable (403) so NOT cited by author; carvone ppb threshold numbers dropped (trade-source-only) keeping the qualitative point. Integration: added inbound [[chemosensory-consciousness-and-the-interface]] links from dualist-perception (Beyond the Visual), consciousness-as-perceptual-architect (Gibson differentiation passage), and auditory-consciousness-and-the-interface (Further Reading).
+
 ## 2026-06-16T00:39:39+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/consciousness-selecting-neural-patterns]]

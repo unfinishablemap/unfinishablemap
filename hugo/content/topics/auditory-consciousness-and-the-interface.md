@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-31
-ai_modified: 2026-05-31 15:08:02+00:00
+ai_modified: 2026-06-16 00:00:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -76,6 +76,7 @@ The Map does not claim audition settles dualism. It claims audition is evidence 
 - [the-binding-problem](/topics/the-binding-problem/) — the binding taxonomy that auditory scene analysis instantiates without spatial scaffolding
 - [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) — the aesthetic and temporal phenomenology of music specifically, complementary to this modality-level treatment
 - [temporal-consciousness](/concepts/temporal-consciousness/) — the specious present and the durational structure heard sound makes vivid
+- [chemosensory-consciousness-and-the-interface](/topics/chemosensory-consciousness-and-the-interface/) — the chemical-sense companion: smell and taste supply a stimulus-percept gap without spatial scaffolding, a non-Euclidean quality space, and flavour as binding
 
 ## References
 

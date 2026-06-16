@@ -1,13 +1,59 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-15 20:42:33+00:00
+ai_modified: 2026-06-16 00:39:39+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-06-15'
+date: '2026-06-16'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-16T00:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Chemosensory consciousness and the interface (olfaction and gustation)
+- **Output**: [chemosensory-consciousness-and-the-interface](/topics/chemosensory-consciousness-and-the-interface/)
+- **Word count**: 2241 (75% of 3000 topic target — ok)
+- **Based on research**: yes — [chemosensory-consciousness-and-the-interface-olfaction-and-gustation-2026-06-16](/research/chemosensory-consciousness-and-the-interface-olfaction-and-gustation-2026-06-16/)
+- **Notes**: Chemical-sense companion to [auditory-consciousness-and-the-interface](/topics/auditory-consciousness-and-the-interface/), mirroring its structure and "accommodation, not proof" calibration. Three phenomenon sections (stimulus-percept gap via carvone enantiomers + combinatorial code; non-Euclidean odour quality space; Proust-phenomenon affect/memory coupling + flavour binding) + Relation to Site Perspective + Further Reading + References. Gives the sommelier/Barolo examples (load-bearing in consciousness-as-perceptual-architect, dualist-perception) their missing modality home. Co-optation firewall observed: Barwich engaged as naturalist rival, not conscripted toward dualism. Web-verified at creation: carvone enantiomer→spearmint/caraway (ACS); Barwich "measuring device" phrase (HUP); OECS "Smell" entry last-updated 2024 but author unverifiable (403) so NOT cited by author; carvone ppb threshold numbers dropped (trade-source-only) keeping the qualitative point. Integration: added inbound [chemosensory-consciousness-and-the-interface](/topics/chemosensory-consciousness-and-the-interface/) links from dualist-perception (Beyond the Visual), consciousness-as-perceptual-architect (Gibson differentiation passage), and auditory-consciousness-and-the-interface (Further Reading).
+
+## 2026-06-16T00:39:39+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
+- **Original score**: pessimistic-review found one mechanical defect + 3 over-claims (no numeric quality score issued)
+- **Changes**:
+  - (a) MANDATORY mechanical: added missing Craddock et al. (2017) *Scientific Reports* 7:9877 entry to References (was cited inline at line 56 only; metadata left unchanged — web-verified correct, missing-ENTRY hygiene defect, not the 613 THz wrong-paper variant)
+  - (b1) softened "a burden illusionists have not discharged" → "have not, in the Map's assessment, discharged"; named Dennett's user-illusion / centre-of-narrative-gravity as the attempt judged insufficient (removes the strawman; preserves the dialectical point)
+  - (b2) softened "avoids the most damaging empirical objection altogether" → framed the post-decoherence pivot as a *trade*, naming the new specificity/amplification burden it buys (loss of any surviving-coherence signature)
+  - (b3) softened brain-boundary "this follows from the selection mechanism itself, not ad hoc restriction" → "follows largely… rather than as an ad hoc restriction", noting the control-loop argument does not foreclose a designed external substrate
+  - (c1) added bridging sentence reconciling the microtubule corroboration (candidate-site clue) with its disavowal in Decoherence Response One (mechanism needs no surviving coherence); anchored cross-ref to #the-decoherence-challenge
+  - (c2) added the missing bandwidth→policy-level bridging premise (selection channelled through the same attentional bottleneck that bounds report; throughput limit transfers only on that premise)
+- **Engagement classifications**: Dennett (illusionism reply) Mode One — defective on the Map's assessment via the self-representation regress, with the user-illusion now named as the in-framework attempt judged insufficient rather than treated as un-attempted. Calibration hedges and the falsifiability-dilemma honesty preserved as strengths.
+- **Length**: body 2703w → 3016w (concepts hard threshold 3500; soft_warning status pre-existing, ample headroom as task noted)
+- **Published**: yes
+
+## 2026-06-16T00:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/consciousness-selecting-neural-patterns.md (load-bearing mechanism page, never previously the subject of a dedicated pessimistic review)
+- **Key finding**: dangling Craddock (2017) inline cite missing from References (metadata web-verified correct — missing-entry hygiene defect, not wrong-paper); 3 over-claims softened (Dennett strawman, "altogether", brain-boundary "follows… not ad hoc"); queued one P2 refine-draft
+- **Output**: [pessimistic-2026-06-16-consciousness-selecting-neural-patterns](/reviews/pessimistic-2026-06-16-consciousness-selecting-neural-patterns/)
+
+## 2026-06-16T00:00:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Chemosensory Consciousness and the Interface (Olfaction and Gustation)
+- **Output**: [chemosensory-consciousness-and-the-interface-olfaction-and-gustation-2026-06-16](/research/chemosensory-consciousness-and-the-interface-olfaction-and-gustation-2026-06-16/)
+- **Sources consulted**: 15
+
+## 2026-06-15T23:46:52+00:00 - deep-review
+- **Status**: Success
+- **File**: [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/)
+- **Word count**: 3292 → 3299 (+7)
+- **Critical issues addressed**: 0 (none found — sixth deep review; firmly converged)
+- **Medium issues addressed**: 0
+- **Low issues addressed**: 2 — de-quoted the Cutter (2019) "comfortable resting place" and Fechner (1860) "senseless to say the mind acts on the body" verbatim quotes (faithful in sense, but the exact wording was unverifiable at the publisher of record; rendered as paraphrase). These were the only items left open by the 2026-06-15 pessimistic review; that review's structural finding (frame-vs-body calibration), the Cutter pagination fix, and the thermal/decoherence clause were already applied today by refine-draft commit 4b35f4079.
+- **Citations web-verified**: Cutter 2019 (real-correct; "comfortable resting place" = paraphrase, de-quoted); Fechner 1860 (real-correct; "senseless to say..." = paraphrase, de-quoted); Spinoza Ethics 3P2 (real-correct, verbatim-faithful, quote marks retained). Inline↔References cross-reference integrity PASS. No superlative claims (currency sweep N/A).
+- **Reasoning modes** (editor-internal): Cutter/Kind instability Mode One; Hashemi Mode Two; Pylkkänen Mixed (Two→Three); Wheeler/MWI Mode Three. No label leakage.
+- **Output**: [deep-review-2026-06-15-russellian-monism-versus-bi-aspectual-dualism](/reviews/deep-review-2026-06-15-russellian-monism-versus-bi-aspectual-dualism/)
 
 ## 2026-06-15T23:05:00+00:00 - refine-draft
 - **Status**: Success

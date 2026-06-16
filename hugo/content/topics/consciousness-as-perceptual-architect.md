@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-06-14 03:31:29+00:00
+ai_modified: 2026-06-16 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -96,7 +96,7 @@ In the Map's [capability division framework](/voids/capability-division-problem/
 
 ### Differentiation, Not Enrichment
 
-Eleanor Gibson's (1969) differentiation theory overturned the assumption that learning adds associations to perception. Gibson showed the opposite: perceptual learning is about detecting information already present in the stimulus array that the untrained perceiver fails to pick up. The wine novice and sommelier receive the same chemical compounds on their tongues. The difference lies in the *differentiation* of that signal — the trained perceiver extracts structure the untrained perceiver literally cannot access.
+Eleanor Gibson's (1969) differentiation theory overturned the assumption that learning adds associations to perception. Gibson showed the opposite: perceptual learning is about detecting information already present in the stimulus array that the untrained perceiver fails to pick up. The wine novice and sommelier receive the same chemical compounds on their tongues. The difference lies in the *differentiation* of that signal — the trained perceiver extracts structure the untrained perceiver literally cannot access. This wine-tasting case is the chemical senses' own, and [chemosensory consciousness](/topics/chemosensory-consciousness-and-the-interface/) develops it as a modality where the stimulus-percept gap is especially stark: the perceived flavour corresponds to no single property of the molecules on the tongue.
 
 This distinction matters philosophically. If perceptual learning were enrichment — adding conceptual knowledge to raw sensation — the underlying phenomenal experience could remain unchanged. The expert would simply *think* different thoughts about the same percept. Gibson's research and subsequent work (Goldstone, 1998) shows this is wrong. Perceptual learning alters the percept itself. Training creates new phenomenal categories that structure experience from the ground up.
 
