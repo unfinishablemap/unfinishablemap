@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-16 09:00:00+00:00
+ai_modified: 2026-06-16 14:14:59+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-16T14:14:59+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/predictive-processing]]
+- **Changes**: Re-attributed the "world model" framing in the IWMT sub-section (line 101). Was: "[I-JEPA's] authors describe the predictor as a 'primitive world-model.'" Now: an instance of "the broader JEPA programme LeCun frames as building a 'world model'." Length-neutral one-clause swap; IWMT sub-section structure untouched.
+- **Web-verify (3-state, state b)**: WebFetched the I-JEPA CVPR/arXiv paper (Assran et al. 2023, arXiv:2301.08243) twice + grep of the downloaded PDF — confirms the paper contains zero instances of "world model"/"world-model"/"primitive world-model". The framing belongs to LeCun's "A Path Towards Autonomous Machine Intelligence" (2022) JEPA programme ("the purpose of the world model is to predict future representations of the state of the world"), of which I-JEPA is an instance. Did NOT trust the research fork blindly ([[citation-verify-false-negative]]); independently verified before editing.
+- **FOLD-IN check**: expand-topic chain had not yet run on this sub-section (last touch was the 06-16 Gemini outer-review refine, which engaged IWMT but left the false I-JEPA attribution intact), so no resolved-by-expand. Per the IWMT research note (2026-06-16), the downstream expand-topic is recommended to RETARGET here or DECLINE — if it lands and re-fixes this clause, mark ✓ resolved-by-expand ([[outer-review-same-file-task-pileup]]).
+- **Published**: yes
 
 ## 2026-06-16T14:10:00+00:00 - research-topic
 - **Status**: Success
