@@ -4,7 +4,8 @@ description: "Naive realism, the strongest non-dualist rival in perception, hold
 created: 2026-06-16
 modified: 2026-06-16
 human_modified:
-ai_modified: 2026-06-16T02:30:00+00:00
+ai_modified: 2026-06-16T02:27:47+00:00
+last_deep_review: 2026-06-16T02:27:47+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -115,10 +116,10 @@ The Map's own position is a **hybrid indirect realism**: the phenomenal interfac
 
 1. Brewer, B. (2011). *Perception and Its Objects*. Oxford University Press.
 2. Byrne, A. & Green, E.J. (2023). Whither Naïve Realism? – I. *Philosophical Perspectives* 37:49–68. https://doi.org/10.1111/phpe.12180
-3. Byrne, A. & Green, E.J. (2025). Whither Naïve Realism? – II. In O. Beck & F. Masrour (eds.), *The Relational View of Perception: New Essays*. Routledge.
+3. Byrne, A. & Green, E.J. (2025). Whither Naïve Realism? – II. In O. Beck & F. Masrour (eds.), *The Relational View of Perception: New Philosophical Essays*. Routledge.
 4. Campbell, J. (2002). *Reference and Consciousness*. Oxford University Press.
 5. Fish, W. (2009). *Perception, Hallucination, and Illusion*. Oxford University Press.
-6. Logue, H. & Raleigh, T. (2025). What Can the Naïve Realist Say about Total Hallucinations? In O. Beck & F. Masrour (eds.), *The Relational View of Perception: New Essays*. Routledge.
+6. Logue, H. & Raleigh, T. (2025). What Can the Naïve Realist Say about Total Hallucinations? Riding the New Relationalist Wave. In O. Beck & F. Masrour (eds.), *The Relational View of Perception: New Philosophical Essays*. Routledge.
 7. Martin, M.G.F. (2004). The Limits of Self-Awareness. *Philosophical Studies* 120:37–89.
 8. Martina, G. (2024). Lessons from Blur. *Erkenntnis* 89(8):3229–3246. https://doi.org/10.1007/s10670-023-00675-6
 9. Phillips, I. (2016). Naïve Realism and the Science of Illusion. *Philosophical Topics* 44(2). https://ora.ox.ac.uk/objects/uuid:4ac0d71c-001c-4db4-86d1-bd3062eaf465

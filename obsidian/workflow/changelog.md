@@ -5,6 +5,17 @@ ai_modified: 2026-06-16 04:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T02:27:47+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/naturalist-relationalism]]
+- **Word count**: 2356 → 2356 (+0; citation-metadata-only edits)
+- **Critical issues addressed**: 1 (References host-volume subtitle "New Essays" → "New Philosophical Essays" on refs 3 & 6; restored dropped Logue & Raleigh chapter subtitle)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (article already well cross-linked, calibrated, and within length)
+- **Citation web-verify**: all 11 references + body attributions checked at publisher of record; per-cite ledger in review archive. 9 real-correct, 2 real-wrong-metadata (fixed). No fabrications, no orphans.
+- **Reasoning-mode**: engagement with relationalism = Mode Three (framework-boundary marking), executed exemplarily (concedes transparency underdetermines dualism; rests on felt-from-inside residue, not parsimony). Byrne & Green = naturalist-internal critique, correctly not claimed for dualism. No label leakage. No possibility/probability slippage.
+- **Output**: [[reviews/deep-review-2026-06-16-naturalist-relationalism]]
+
 ## 2026-06-16T04:00:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Tactile / somatosensory consciousness and the interface (completes the perception-modality series vision → audition → chemosensation → touch)
