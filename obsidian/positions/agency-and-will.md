@@ -4,7 +4,7 @@ description: "The Map's positions on free will and agency: the agent-causal libe
 created: 2026-06-08
 modified: 2026-06-08
 human_modified: 2026-06-08
-ai_modified: 2026-06-16T03:59:24+00:00
+ai_modified: 2026-06-16T06:28:26+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -57,6 +57,7 @@ These positions cover what the Map holds about agency: whether choices are genui
 - **Asserts**: The Map holds that genuine authorship is not delivered by event-causal libertarianism (free actions caused by nondeterministic mental events), because if prior mental events the agent did not choose cause the decision, the causal chain traces back beyond the agent's control. Authorship requires *immanent* (agent-as-substance) causation in Chisholm's and Lowe's sense: the agent is the causal source, an "uncaused cause" in the sense of uncaused-by-events. This is the third horn of the [[trilemma-of-selection]] and the Map's reading of the [[luck-objection]] — active choosing, reasons-guided and effortful, differs in kind from passive reception of a random outcome. The commitment is held with moderate confidence: substance causation is a live but minority metaphysics, and the luck objection is answered rather than dissolved.
 - **Depends on**: P-A1; substance causation (Lowe 2008); the [[luck-objection]] response; Tenet 1
 - **Argued in**: [[concepts/agent-causation]], [[concepts/luck-objection]], [[topics/free-will]]
+- **Bears on**: Tenet 4 ([[tenets#^no-many-worlds|No Many Worlds]]). The persisting, non-deflationary subject this position commits to is what the No-MWI tenet's load-bearing indexical objection inherits its strength from: "why am *I* this branch?" is meaningful only on the same agent-causal, [[concepts/mine-ness|ownership-bearing]] subject P-A2 posits. So No-MWI is not a pure physics tenet — it inherits load from the Map's theory of subjecthood, and would weaken in step with any deflationary, fragmented, or process-only reading of the subject. The dependency is reciprocal: No-MWI in turn does identity work for agent causation by supplying the counterfactual exclusion sourcehood requires (a branching ontology actualises every rejected option). See the subjecthood-dependency note on the [[tenets#^no-many-worlds|tenets page]].
 - **Would shift if**: an event-causal account is shown to secure sourcehood without the regress the Map presses; or substance causation is shown incoherent or eliminable; or the luck objection is shown to defeat the agent-causal reply rather than relocate the explanatory terminus.
 - **Re-verified 2026-06-13**: confirmed the [[trilemma-of-selection]] third-horn reference still tracks the source after that article's 2026-06-13 calibration-softening. Horn 3 (mental causation) and the three-horn taxonomy are unchanged; the softening touched the phenomenology and "establishes" framing, not the third horn. No edit to the Asserts text; no confidence change.
 - **Last reviewed**: 2026-06-13

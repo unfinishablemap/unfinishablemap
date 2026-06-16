@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-16 05:29:16+00:00
+ai_modified: 2026-06-16 06:28:26+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-16T06:28:26+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[tenets/tenets]] (primary); [[positions/agency-and-will]] (reciprocity)
+- **Original score**: n/a (targeted honest-boundary-marking note from outer review; scripts/curate.py review is the known-stale command)
+- **Source**: outer review [[reviews/outer-review-2026-06-16-chatgpt-5-5-pro]] §1.2 + §3.3 + recommendation #1 — convergent novel-inference + tenet-coherence finding: No-MWI (Tenet 4) inherits load from the Map's theory of subjecthood; the quantum cluster sometimes treats it as a physics constraint while the agency/self cluster reveals it as partly an identity constraint. Reviewer's ask: STATE the dependency rather than presenting Tenet 4 as standing on physics alone. Additive honest-boundary-marking; does NOT refute or reword Tenet 4.
+- **Changes**: (1) GREP-VERIFIED the tenets page already concedes the no-self/Madhyamaka route (line 116, "What the indexical objection presupposes") — it states the non-deflationary-"I" presupposition and the open Madhyamaka deflationary route, but did NOT make the *consequence* explicit (inherits load / not physics alone) nor name agent-causation/mine-ness directly. So this was NOT a near-no-op — a real additive gap remained. (2) Tenets page: added bare cross-links to [[mine-ness]] and [[agent-causation]] in the existing presupposition paragraph; added a new "**The subjecthood dependency (stated, not standing on physics alone):**" note under No Many Worlds making the load-inheritance and its reciprocity (No-MWI ↔ agent causation) explicit, and pointing to the positions register. Tenet 4 statement, Definition, primary/subsidiary Rationale, and Rules-out are UNTOUCHED. (3) Positions register: added a "**Bears on**: Tenet 4" reciprocity line to P-A2 (agency-and-will.md) — the persisting non-deflationary subject P-A2 commits to is what the indexical objection inherits strength from; reciprocal counterfactual-exclusion link back to agent causation. (4) Verified all link targets resolve.
+- **Engagement classification (editor-internal)**: Madhyamaka no-self route → Mode Three (framework-boundary marking) — a genuine bedrock disagreement the Map honestly notes rather than claims to refute; the note marks the dependency, it does not dress boundary-marking as refutation. No mode labels in body.
+- **ai_modified**: bumped both files to 2026-06-16T06:28:26+00:00
+- **Published**: yes
 
 ## 2026-06-16T06:18:43+00:00 - deep-review
 - **Status**: Success
