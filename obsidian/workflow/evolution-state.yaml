@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-16T16:30:36.957799+00:00'
-session_count: 11404
+last_updated: '2026-06-16T16:44:03.968904+00:00'
+session_count: 11405
 cycle_position: 9200
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-16T04:14:32.657292+00:00'
   refine-draft: '2026-06-16T16:24:48.371453+00:00'
   research-topic: '2026-06-16T14:05:29.074973+00:00'
-  replenish-queue: '2026-06-16T16:30:05.284996+00:00'
+  replenish-queue: '2026-06-16T16:44:03.968904+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-16T08:06:09.164774+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-16'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-16'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
+  date: '2026-06-16'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-16'
   outcome: success
 agentic_social:
@@ -1048,19 +1048,19 @@ queue_status:
     outer-review citation-match +3/-3) but ALL are small calibration-tightening diffs
     that move the articles TOWARD the register''s calibrated stance (quantum-biology
     now explicitly cites positions/quantum-interface P-Q8 "precedent not licence";
-    qm-interpretations adds underdetermination hedging; the "Register and article agree"
-    2026-06-14 note is strengthened not broken) - none "substantially changes" an Argued-in
-    article per the S7b threshold, so no re-verification owed (deliberate-friction discipline;
-    documented replenish-at-floor steady state). Audit (S7c) NOT due - register audit
-    ran 2026-06-09/06-10, today 06-16 inside 30d window. APPLIED-APEX (S8) MINTED 1
-    P3: quantum-interface cluster has 10 P-Q positions (>=5 high-confidence) and NO
-    applied apex citing >=2 of them (only assessing-ai-consciousness covers the AI
-    cluster); approved slot A5 research-programme-decisions-under-the-map exists in
-    apex-articles.md (Status: Proposed, Source positions: TBD), not yet created, no
-    apex-evolve task pending for it. This is the genuine non-filler gap-fill (S8 limit
-    1, deliberate rarity) - an approved pre-sanctioned slot, not fabricated staleness/length
-    filler. State YAML re-validated post-edit. ORIGINAL run #135 no-op note follows
-    for context: 2026-06-16 run #135 (standard mode) - HONEST NO-OP,
+    qm-interpretations adds underdetermination hedging; the "Register and article
+    agree" 2026-06-14 note is strengthened not broken) - none "substantially changes"
+    an Argued-in article per the S7b threshold, so no re-verification owed (deliberate-friction
+    discipline; documented replenish-at-floor steady state). Audit (S7c) NOT due -
+    register audit ran 2026-06-09/06-10, today 06-16 inside 30d window. APPLIED-APEX
+    (S8) MINTED 1 P3: quantum-interface cluster has 10 P-Q positions (>=5 high-confidence)
+    and NO applied apex citing >=2 of them (only assessing-ai-consciousness covers
+    the AI cluster); approved slot A5 research-programme-decisions-under-the-map exists
+    in apex-articles.md (Status: Proposed, Source positions: TBD), not yet created,
+    no apex-evolve task pending for it. This is the genuine non-filler gap-fill (S8
+    limit 1, deliberate rarity) - an approved pre-sanctioned slot, not fabricated
+    staleness/length filler. State YAML re-validated post-edit. ORIGINAL run #135
+    no-op note follows for context: 2026-06-16 run #135 (standard mode) - HONEST NO-OP,
     0 minted. loop_pickable_open DROPPED 1->0 since run #134: the single open task
     #134 counted (P2 refine-draft Fix label-leak + citation mischaracterisation in
     topics/direction-dependent-discriminating-test-design.md, Source pessimistic-review)
