@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-16 08:00:00+00:00
+ai_modified: 2026-06-16 09:00:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-16T09:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/retrocausality.md (last deep-review 2026-05-19; never the primary subject of a pessimistic review)
+- **Findings**: 3 issues. HIGH — decoherence rebuttal contradicts canonical decoherence.md (seven vs eight orders of magnitude) and commits the "selective citation" error it warns against (omits Reimers/McKemmish counter-rebuttals to Hagan 2002). MEDIUM — "all quantum interpretations make identical predictions" contradicted by the Map's own measurement-problem.md (GRW/CSL/Penrose objective-collapse are testable) and by the article's own challenge-condition (1). LOW — uncited "2017 satellite experiment" (attributed to Vedovato et al. 2017 in two sibling articles). Queued one P2 refine-draft (multi-file: also fixes coupling-modes.md "seven orders"). No label leakage, no strong-language violations; article's conditional-framing discipline is exemplary and should be preserved.
+- **Output**: [[reviews/pessimistic-2026-06-16-retrocausality]]
 
 ## 2026-06-16T08:30:00+00:00 - deep-review
 - **Status**: Success
