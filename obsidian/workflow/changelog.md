@@ -5,6 +5,19 @@ ai_modified: 2026-06-16 05:29:16+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T05:40:02+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[project/testability-ledger]]
+- **Original score**: n/a (scripts/curate.py review is the known-stale command; targeted calibration refine, not general review)
+- **Source**: outer review [[reviews/outer-review-2026-06-16-chatgpt-5-5-pro]] §4 findings 4/5 + covert-consciousness scoping (recommendation-shaped, against the Map's OWN wording; no source misrepresentation)
+- **Changes** (3 length-neutral empirical-calibration softenings, all grep-verified PRESENT before editing, all preserve the constrain-not-establish discipline per [[evidential-status-discipline]]):
+  - **Covert consciousness (line 213)**: scoped "~25% of behaviourally non-responsive DoC patients" → "in selected cohorts of behaviourally-unresponsive severe-brain-injury patients, task-based fMRI/EEG reveals command-following in roughly a quarter — depending on inclusion criteria, modality, and protocol; not 'a quarter of vegetative patients are conscious'". Closes the "25% of vegetative patients are conscious" misread.
+  - **Engram (lines 198 + 214)**: reframed "Engram remains elusive" / "Not found—retrieval mechanisms found, not storage" → acknowledges strong evidence for engram-like neuronal ensembles (sparse storage, overlap, reactivation, representational drift) while preserving the narrower filter-relevant point that storage/identity/persistence/transformation/retrieval are not completely accounted for. Did not claim storage is "found"; kept filter-interpretive space. Fixed line 198 too for internal consistency with line 214 (it had the same blunt "not found" overclaim).
+  - **Psychedelics (line 277)**: replaced the residual "reduced activity → expanded experience" simplification in the medium-impact-updates list with network-reconfiguration / desynchronization / DMN-down-but-sensory-thalamocortical-up framing. NEAR-NO-OP elsewhere: lines 204/212/262 were already well-hedged ("underdetermined rather than monotonic", REBUS/entropic-brain/PP caveats) — skipped per the "verify hedges already cover this" instruction; only line 277 carried the simplification.
+- **Out of scope (verified, left unchanged)**: lines 206/276 ("enhanced experience during brain compromise", NDE-context filter-paradox) are a distinct, properly-hedged claim — not the brain-activity-inversion simplification finding 2 targets.
+- **Frontmatter**: `ai_modified` bumped to 2026-06-16T05:40:02+00:00; `ai_contribution` already 100.
+- **Published**: yes
+
 ## 2026-06-16T05:34:12+00:00 - deep-review
 - **Status**: Success (convergence no-op — body unchanged, citation web-verified)
 - **File**: [[concepts/active-reboot]]

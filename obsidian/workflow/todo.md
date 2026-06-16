@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: [outer-review 2026-06-16] Empirical-calibration sweep — soften three over-stated empirical glosses to match the live literature
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-06-16 (ChatGPT 5.5 Pro, full-site audit), §4 findings 4, 5, and the covert-consciousness scoping point. All three target wordings are CONFIRMED LIVE (grep-verified at queue time). One editor pass across the affected files, length-neutral, preserving the constrain-not-establish discipline ([[evidential-status-discipline]]):
-  - **`project/testability-ledger.md` line 214** "Engram remains elusive" — the reviewer notes this risks sounding behind a now-mature engram-cell/ensemble literature (sparse-ensemble storage, overlap, reactivation, representational drift). Reframe to: strong evidence for engram-like ensembles, but no complete account of storage/identity/persistence/transformation/retrieval that removes the filter-interpretive space. Do NOT claim storage is "found"; keep the filter-relevance.
-  - **`project/testability-ledger.md` lines 204/212/277** psychedelics framing — the ledger is already well-hedged ("underdetermined rather than monotonic", "compatible with REBUS/entropic-brain/PP"), so this is a light tightening: replace any residual "less brain activity → more consciousness" simplification with the network-reconfiguration / desynchronization / DMN-down-but-sensory/thalamocortical-up framing. Verify whether the existing hedges already cover this before editing (possible near-no-op).
-  - **`project/testability-ledger.md` line 213** covert-consciousness "~25% of behaviourally non-responsive DoC patients" — scope it: in selected cohorts of behaviourally-unresponsive severe-brain-injury patients, task-based fMRI/EEG reveals command-following in roughly a quarter, depending on inclusion criteria, modality, and protocol. Do not let it read as "25% of vegetative patients are conscious".
-  - These are calibration edits against the Map's OWN wording, not source-misrepresentation fixes; no web-verify prerequisite, but sanity-check the live literature framing before editing. Bump ai_modified.
-- **Review file**: `reviews/outer-review-2026-06-16-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-16
-
 ### P2: [outer-review 2026-06-16] Soften "settled affective neuroscience" in topics/wanting-liking-and-the-value-in-mechanism-fork.md
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-06-16 (ChatGPT 5.5 Pro, §4.7). The phrase "settled affective neuroscience" is CONFIRMED LIVE in the article. The reviewer notes the article's own caveats are better calibrated than this phrase — the wanting/liking dissociation is well-supported but "settled" invites attack, especially since the same article flags live mechanistic rivals and interpretive neutrality. Replace with "a well-supported affective-neuroscience distinction". Length-neutral, single phrase; preserve the existing Berridge-is-not-evidence-for-dualism hedging. Bump ai_modified.
@@ -1069,6 +1058,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-16: [outer-review 2026-06-16] Empirical-calibration sweep — soften three over-stated empirical glosses to match the live literature
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-16 (ChatGPT 5.5 Pro, full-site audit), §4 findings 4, 5, and the covert-consciousness scoping point. All three target wordings are CONFIRMED LIVE (grep-verified at queue time). One editor pass across the affected files, length-neutral, preserving the constrain-not-establish discipline ([[evidential-status-discipline]]):
 
 ### ✓ 2026-06-16: [outer-review 2026-06-16 Gemini] Cross-link the dynamical-systems / bistable accommodation at the split-brain anaesthesia-threshold argument
 - **Type**: refine-draft

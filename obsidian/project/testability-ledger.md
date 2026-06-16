@@ -4,7 +4,7 @@ description: "A consolidated catalogue of what observations would update for or 
 created: 2026-01-16
 modified: 2026-05-27
 human_modified: null
-ai_modified: 2026-05-29T12:00:00+00:00
+ai_modified: 2026-06-16T05:40:02+00:00
 draft: false
 topics: []
 concepts: []
@@ -195,7 +195,7 @@ Each claim has potential disconfirmers. Two further sections track derived theor
 |-------------|------------------------|--------|
 | Demonstrating correlation establishes production | Would undermine filter interpretation | Philosophical, not empirical |
 | Creating consciousness in novel substrates without biological history | Would suggest production not filtering | Not achieved |
-| Finding the "engram"—stable memory storage in neurons | Would weaken Bergson's specific claims | Not found—retrieval mechanisms found, not storage |
+| Finding the "engram"—stable memory storage in neurons | Would weaken Bergson's specific claims | Engram-like ensembles are well evidenced, but no complete account of memory identity, persistence, and retrieval yet removes the filter-interpretive space |
 
 ### Weak Evidence Against
 
@@ -210,8 +210,8 @@ Each claim has potential disconfirmers. Two further sections track derived theor
 | Observation | Impact | Current Status |
 |-------------|--------|----------------|
 | Reduced default-mode-network activity coinciding with enhanced experience (psychedelics, some NDE contexts) | Compatible with filtering; also compatible with REBUS, entropic-brain, and predictive-processing accounts that explain the same signatures without filtering. Compatibility does not entail support without an independent discriminator (see [[evidential-status-discipline]] on compatibility vs. support) | Documented but underdetermined |
-| Covert consciousness in unresponsive patients | Shows consciousness persists beyond expression | ~25% of behaviourally non-responsive DoC patients |
-| Memory retrieval mechanisms found without stable storage | Fits Bergson's prediction | Engram remains elusive |
+| Covert consciousness in unresponsive patients | Shows consciousness persists beyond expression | In selected cohorts of behaviourally-unresponsive severe-brain-injury patients, task-based fMRI/EEG reveals command-following in roughly a quarter — depending on inclusion criteria, modality, and protocol; not "a quarter of vegetative patients are conscious" |
+| Memory retrieval mechanisms found without stable storage | Fits Bergson's prediction | Strong evidence for engram-like neuronal ensembles (sparse storage, overlap, reactivation, representational drift), but no complete account of storage, identity, persistence, transformation, and retrieval that closes the filter-interpretive space |
 
 ### Non-Evidence
 
@@ -274,7 +274,7 @@ Each claim has potential disconfirmers. Two further sections track derived theor
 ### Medium-impact updates:
 
 1. **NDE research advancing**: More evidence for or against enhanced experience during brain compromise
-2. **Psychedelic neuroscience**: Better understanding of reduced activity → expanded experience
+2. **Psychedelic neuroscience**: Better understanding of how network reconfiguration and desynchronization — DMN connectivity down, sensory/thalamocortical connectivity up — relate to expanded experience (not a simple "less brain activity → more consciousness" result)
 3. **Attention training effects**: More evidence of mental effort causing brain changes
 4. **Libet replications**: Better understanding of timing relationships
 
