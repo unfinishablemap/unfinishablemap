@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-15 23:46:52+00:00
+ai_modified: 2026-06-16 00:39:39+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-16T00:39:39+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/consciousness-selecting-neural-patterns]]
+- **Original score**: pessimistic-review found one mechanical defect + 3 over-claims (no numeric quality score issued)
+- **Changes**:
+  - (a) MANDATORY mechanical: added missing Craddock et al. (2017) *Scientific Reports* 7:9877 entry to References (was cited inline at line 56 only; metadata left unchanged — web-verified correct, missing-ENTRY hygiene defect, not the 613 THz wrong-paper variant)
+  - (b1) softened "a burden illusionists have not discharged" → "have not, in the Map's assessment, discharged"; named Dennett's user-illusion / centre-of-narrative-gravity as the attempt judged insufficient (removes the strawman; preserves the dialectical point)
+  - (b2) softened "avoids the most damaging empirical objection altogether" → framed the post-decoherence pivot as a *trade*, naming the new specificity/amplification burden it buys (loss of any surviving-coherence signature)
+  - (b3) softened brain-boundary "this follows from the selection mechanism itself, not ad hoc restriction" → "follows largely… rather than as an ad hoc restriction", noting the control-loop argument does not foreclose a designed external substrate
+  - (c1) added bridging sentence reconciling the microtubule corroboration (candidate-site clue) with its disavowal in Decoherence Response One (mechanism needs no surviving coherence); anchored cross-ref to #the-decoherence-challenge
+  - (c2) added the missing bandwidth→policy-level bridging premise (selection channelled through the same attentional bottleneck that bounds report; throughput limit transfers only on that premise)
+- **Engagement classifications**: Dennett (illusionism reply) Mode One — defective on the Map's assessment via the self-representation regress, with the user-illusion now named as the in-framework attempt judged insufficient rather than treated as un-attempted. Calibration hedges and the falsifiability-dilemma honesty preserved as strengths.
+- **Length**: body 2703w → 3016w (concepts hard threshold 3500; soft_warning status pre-existing, ample headroom as task noted)
+- **Published**: yes
 
 ## 2026-06-16T00:00:00+00:00 - pessimistic-review
 - **Status**: Success
