@@ -5,6 +5,16 @@ ai_modified: 2026-06-16 14:14:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T14:54:43+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/forward-in-time-vs-time-symmetric-selection]]
+- **Trigger**: topic-concept anchoring audit (calibration-audit-triple Audit Three). Failed checks: hedge_density (0.73/kw vs 2.15/kw target = 60% of anchor [[retrocausality]] 3.59/kw) and underdetermination_markers (0 vs anchor's 1).
+- **Changes**: Brought the topic's hedge profile in line with its anchor concept WITHOUT weakening the central cost-accounting claim or its non-adjudication discipline. (1) Installed the underdetermination point the anchor already marks: the forward/time-symmetric choice is underdetermined by the data and the two routes are very nearly empirically equivalent at present — added in the empirical-handles lead, the load-bearing fix. (2) Hedged five genuine over-claim sites where empirical/metaphysical claims outran the evidence: the Tegmark/Hagan decoherence gap (now "appears to leave" + notes no direct measurement in living tissue + cites the Reimers/McKemmish contestation, mirroring the anchor); the Libet "dissolution" (now conditional on the contested retrocausal interpretation); the forward route's statistical-fingerprint handle (now "might make available"/"could in principle"); the time-symmetric "heavier" metaphysics judgment (now "may be heavier").
+- **Result**: hedge_density 0.73→2.42/kw (clears 2.15 target); underdetermination 0→2; strong_assertions unchanged at 0 (already calibrated). evaluate_anchoring() returns no flags. Voice and the "live alternatives, not rivals" conclusion preserved; no mechanical hedge-stuffing (each hedge sits on a genuinely contested claim per [[evidential-status-discipline]], [[condense-regresses-calibration-qualifiers]]).
+- **Length**: +~150 words (2750→2899 body), length-aware; no bloat.
+- **Validated**: ✓ Valid
+- **Published**: yes
+
 ## 2026-06-16T14:14:59+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/predictive-processing]]
