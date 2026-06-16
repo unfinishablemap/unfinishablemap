@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-16T05:12:41.533946+00:00'
-session_count: 11265
+last_updated: '2026-06-16T05:16:35.375066+00:00'
+session_count: 11266
 cycle_position: 9144
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-06-16T03:14:27.639524+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-15T23:01:34.616166+00:00'
-  agentic-social: '2026-06-16T04:21:09.024099+00:00'
+  agentic-social: '2026-06-16T05:19:32.500980+00:00'
   embed-videos: '2026-06-16T05:04:44.447698+00:00'
   commission-chatgpt-review: '2026-06-16T02:09:55.835517+00:00'
   commission-claude-review: '2026-06-16T03:16:54.357867+00:00'
@@ -28,7 +24,7 @@ last_runs:
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-15T11:21:03.021858+00:00'
-  literature-drift-review: '2026-06-16T05:30:00+00:00'
+  literature-drift-review: '2026-06-16T05:16:35.375066+00:00'
   collect-chatgpt-review: '2026-06-14T03:57:47.559156+00:00'
   collect-claude-review: '2026-06-11T04:22:04.847555+00:00'
   combine-outer-reviews: '2026-06-16T04:49:40.840307+00:00'
@@ -70,11 +66,6 @@ audit_triple:
     total_audits: 3
     flagged_audits: 0
     clean_audits: 3
-    # 2026-06-16 run: NO_CANDIDATE (all 3 literal-pattern-matched topics audited
-    # within 30d). No article assessed for drift, so audit counters NOT incremented
-    # (counting non-audits would dilute the flagged/total falsification signal).
-    # last_audit_date bumped to record the run fired. See changelog note re: pattern
-    # list possibly too narrow (iit/consciousness-measurement match no live topic stem).
   topic_concept_anchoring:
     run_every_n_cycles: 1
   altered_state_symmetry: {}
@@ -101,10 +92,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-16'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-06-16'
@@ -181,15 +168,12 @@ recent_tasks:
   type: check-tenets
   date: '2026-06-16'
   outcome: success
+- task: literature-drift-review
+  type: literature-drift-review
+  date: '2026-06-16'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/apex/moral-architecture-of-consciousness/
-    date: '2026-06-09T04:33:43.400475+00:00'
-    topics:
-    - ethics-under-dualism
-    - phenomenal-value-realism
-    - consciousness-and-normative-force
-    - phenomenology-of-moral-life
   - url: https://unfinishablemap.org/topics/meaning-of-life/
     date: '2026-06-09T05:33:08.960824+00:00'
     topics:
@@ -1002,6 +986,13 @@ agentic_social:
     - hard-problem-of-consciousness
     - philosophy-of-mind
     - the-interface-problem
+  - url: https://unfinishablemap.org/topics/responsibility-gradient-from-attentional-capacity/
+    date: '2026-06-16T05:19:32.500917+00:00'
+    topics:
+    - topics/free-will
+    - ethics-under-dualism
+    - consciousness-and-moral-agency-under-duress
+    - phenomenology-of-moral-life
 tune_system_history:
   last_run: '2026-06-15T12:20:00+00:00'
   changes_applied: []
