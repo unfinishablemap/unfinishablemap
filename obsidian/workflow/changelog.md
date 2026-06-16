@@ -5,6 +5,22 @@ ai_modified: 2026-06-16 04:52:03+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T06:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/predictive-processing]]
+- **Source**: outer review 2026-06-16 (Gemini 2.5 Pro, full-site audit, finding 5 — IWMT/JEPA omission)
+- **Assess-first decision**: EXTEND, not create. Grep-confirmed no live article covers IWMT/Safron/JEPA (only workflow files). Chose `concepts/predictive-processing` over `topics/hard-problem-of-consciousness` (near ceiling, diffuse) and `apex/open-question-ai-consciousness` (AI-specific, not gap-dissolution) because PP already carries the "controlled hallucination" framing + a "Does PP Solve the Hard Problem?" section; IWMT is the maximal-ambition gap-*dissolving* variant of PP, so it slots in as a new subsection and the existing explanatory-gap reply extends directly. Confirmed the existing active-inference engagement (indirect strategy, functionalist limitation, meta-problem) does NOT already engage the gap-dissolution claim — the reviewer's "entirely omits predictive processing" is FALSE; the real, narrower gap is the IWMT MAP-estimate / generative-object framing.
+- **Changes**:
+  - New subsection "The Strongest Gap-Dissolving Variant: Integrated World Modeling Theory" under "Does PP Solve the Hard Problem?": exposits Safron's IWMT (phenomenal experience as iteratively-computed MAP estimate of an integrated generative world-model; conscious iff body-centred world-model with spatial/temporal/causal coherence; "Toward Solving the Hard Problem") and Assran's I-JEPA as a concrete generative world-model architecture (kept distinct from IWMT — JEPA is engineering, not a consciousness theory; the reviewer's IWMT≡JEPA conflation is loose).
+  - Engagement with Safron/IWMT: Mode Mixed — opens with unsupported-foundational-move (the "if and only if" stipulates integration-with-coherence = consciousness rather than deriving felt character; "coherent world-model" names a structural-functional property and no such property entails what-it's-like-ness; Mary/MAP-estimate-for-red), closes with framework-boundary marking (the claim that the right generative architecture *is* experience runs counter to Tenet 1 Dualism, marked as boundary disagreement not in-IWMT refutation). NO mode labels in body; natural journal prose. The standard explanatory-gap reply applies to IWMT exactly as to any functional state — IWMT relocates the gap, does not close it.
+  - Cross-links added: [[explanatory-gap]], [[hard-problem-of-consciousness]] (Further Reading + frontmatter related_articles); [[tenets#^dualism]] in body.
+  - Trims to stay under hard ceiling (added subsection ~410w; net article kept under 3500 body words): condensed Process Philosophy + Contemplative Evidence sections (bulleted→prose), tightened Access-vs-Phenomenal and Two-Streams, removed a stale same-day "the morning's deeper integration" meta-commentary clause in the HPoC section.
+  - References: added Safron 2020 (Frontiers Artif. Intel. 3:30, web-verified) and Assran et al. 2023 (CVPR, full 8-author list web-verified).
+- **Citations**: both web-verified at edit time per [[ai_citation_metadata_unreliable]] — Safron title literally contains "Toward Solving the Hard Problem"; MAP/SOHM/turbo-coding and the "iff coherent world-model" claim confirmed; I-JEPA authors confirmed and self-describe the predictor as a "primitive world-model".
+- **Tenets**: Tenet 1 (Dualism — explanatory gap held open against IWMT's dissolution claim), Tenet 5 (Occam's Razor Has Limits — IWMT's parsimony cuts no ice when it achieves simplicity by stipulating the phenomenon away).
+- **Length**: 3497 body words (was 3280; soft_warning, under 3500 hard ceiling).
+- **Published**: yes
+
 ## 2026-06-16T04:52:03+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/quantum-biology-and-neural-consciousness]]

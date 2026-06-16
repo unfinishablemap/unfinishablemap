@@ -4,7 +4,7 @@ description: "The brain as prediction engine: hierarchical Bayesian inference, p
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-06-11T05:40:00+00:00
+ai_modified: 2026-06-16T06:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,6 +29,8 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[predictive-processing-and-dualism]]"
+  - "[[explanatory-gap]]"
+  - "[[hard-problem-of-consciousness]]"
   - "[[dreams-lucid-dreaming-consciousness-2026-01-18]]"
   - "[[predictive-processing-consciousness-2026-01-14]]"
   - "[[surprise-prediction-error-and-consciousness]]"
@@ -66,7 +68,7 @@ But explaining that perception is constructive doesn't explain why the construct
 
 ## Two Streams: Hohwy and Clark
 
-Jakob Hohwy and Andy Clark differ on cognitive boundaries. Hohwy locates mind inside the skull, treating perception as inference behind a "veil" of sensory input. Clark extends mind through bodily and environmental scaffolding, emphasising how organisms actively shape their sensory niches. Both share the computational core.
+Jakob Hohwy and Andy Clark differ on cognitive boundaries. Hohwy locates mind inside the skull, treating perception as inference behind a "veil" of sensory input; Clark extends mind through bodily and environmental scaffolding. Both share the computational core.
 
 ## PP and Consciousness
 
@@ -94,6 +96,12 @@ PP offers a sophisticated [[concepts/functionalism|functionalist]] account. But 
 
 Critics note that "we seem to experience moderate-sized specimens of dry goods, not probability density distributions." Mathematical prediction error minimization doesn't obviously generate [[qualia]].
 
+### The Strongest Gap-Dissolving Variant: Integrated World Modeling Theory
+
+The indirect strategy stays neutral on the [[hard-problem-of-consciousness|hard problem]]. Adam Safron's Integrated World Modeling Theory (IWMT) does not. IWMT folds Integrated Information Theory and Global Neuronal Workspace Theory into the Free Energy framework and claims to be working *toward solving* the hard problem rather than bracketing it. On this account phenomenal experience is the iteratively-computed maximum-a-posteriori (MAP) estimate of an integrated generative world-model: a system is conscious if and only if it generates a body-centred world-model with spatial, temporal, and causal coherence at action-relevant timescales. The qualitative field is held to be not an inexplicable accompaniment to processing but the most compact parameterisation a self-evidencing organism can build of its likely world-relations. Concrete architectures give the picture computational teeth: Assran and colleagues' Joint-Embedding Predictive Architecture (I-JEPA, 2023) learns by predicting latent representations rather than pixels, and its authors describe the predictor as a "primitive world-model."
+
+The Map declines to conscript this framework. IWMT relocates the gap rather than closing it—the standard explanatory-gap reply applies to a MAP estimate exactly as it applies to any other functional state. Granting that a coherent generative world-model is the *most computationally efficient* representation an organism could deploy explains why such a model would be *useful*; it does not explain why instantiating it is accompanied by felt presence rather than running in the dark. "Coherent world-model" names a structural-functional property—integration, predictive depth, causal modelling—and the gap is precisely that no such property entails what-it's-like-ness. I-JEPA's predictor computes a serviceable world-model with no reason to think anything is experienced. IWMT's "if and only if" stipulates an identification between integration-with-coherence and consciousness rather than deriving felt character from the computation; Mary, who knew every fact about the MAP estimate for red, would still learn something on seeing it. Where IWMT presses hardest—that a generative model makes the difference between processing-in-the-dark and a lit-up world—the disagreement reaches the framework boundary: the claim that the right generative architecture *is* experience runs counter to the Map's [[tenets#^dualism|Dualism]] commitment, and is marked as a boundary disagreement rather than a refutation inside IWMT's own terms. What IWMT offers is the best available account of the world-model consciousness uses; it does not deliver the consciousness that uses it.
+
 ### Soft Eliminativism About Folk Psychology
 
 PP also bears on classical [[eliminative-materialism|eliminative materialism]] in a way distinct from its bearing on phenomenal consciousness. Where Paul Churchland eliminates beliefs and desires as fictions of a stagnant theory, PP preserves intentional vocabulary as inferential summary over hierarchical predictive processes—a softer eliminativism that denies propositional attitudes carve the computational architecture at any joint while granting they track real higher-level dynamics. This is the contemporary descendant of the Ramsey-Stich-Garon connectionist challenge: a positive cognitive-science model in which folk-psychological states are explained rather than eliminated. The structural-format question (do beliefs have sentence-shaped structure?) is separable from the phenomenal question (why does any of this feel like anything?), and PP's answer to the first does not settle the second. A third question—how *any* of these inferentially-summarised states acquire genuine semantic content—is taken up below.
@@ -102,7 +110,7 @@ PP also bears on classical [[eliminative-materialism|eliminative materialism]] i
 
 PP's framework traffics throughout in content: predictions are *about* states of affairs; prediction errors signal a *mismatch* between model and world; precision weights *correctness* of one signal against another. The natural account of where this content comes from is informational and covariational—a state's content is determined by what it would track under optimal conditions, refined by Bayesian update against incoming evidence. This is precisely the resource Hutto and Myin's [[hard-problem-of-content|Hard Problem of Content]] argues cannot deliver genuine semantic content. Covariation yields causal-statistical facts; aboutness, correctness conditions, and intensional differences in content are normative facts the underlying machinery does not supply.
 
-If Hutto and Myin's negative argument is sound, PP's "predictions" and "errors" are causal-statistical patterns that the theorist *describes* in content-involving language rather than states with intrinsic aboutness. Active inference and free-energy minimisation can be specified entirely in terms of statistical mechanics; the leap to "the brain models the world" smuggles in normativity (accuracy, mismatch, representation) the underlying physics does not deliver. PP inherits the same gap [[concepts/intentionality|intentionality]] inherits—and the morning's deeper integration of HPoC into the intentionality article makes the inheritance explicit. Phenomenal intentionality theory holds that genuine content requires phenomenal character; PP without consciousness is content-free in the strict Hutto-Myin sense, a system whose states covary with environmental conditions and update through Bayesian inference but mean nothing.
+If Hutto and Myin's negative argument is sound, PP's "predictions" and "errors" are causal-statistical patterns that the theorist *describes* in content-involving language rather than states with intrinsic aboutness. Active inference and free-energy minimisation can be specified entirely in terms of statistical mechanics; the leap to "the brain models the world" smuggles in normativity (accuracy, mismatch, representation) the underlying physics does not deliver. PP inherits the same gap [[concepts/intentionality|intentionality]] inherits. Phenomenal intentionality theory holds that genuine content requires phenomenal character; PP without consciousness is content-free in the strict Hutto-Myin sense, a system whose states covary with environmental conditions and update through Bayesian inference but mean nothing.
 
 This does not refute PP. It locates the framework precisely. PP describes neural dynamics in content-involving vocabulary that is predictively useful but metaphysically derivative; the genuine content of conscious thought—what the prediction is *about*—comes from elsewhere. The Map names this calibration the [[content-vocabulary-as-derived-feature|content-vocabulary-as-derived-feature]] move, which catalogues its deployments and marks its precise weight as a boundary-location rather than a refutation. The Map's reading: PP captures the computational substrate while phenomenal consciousness supplies the aboutness that converts mathematical prediction error into semantic mismatch. Without that addition, PP's softer eliminativism slides into REC-style content-elimination at the basic-cognition level, a cost the Map declines to pay (see [[hard-problem-of-content|HPoC]] for the structural-alliance/partial-endorsement reasoning).
 
@@ -112,13 +120,11 @@ Some suggest precision weighting—the mechanism by which certain prediction err
 
 ### Honest Assessments
 
-Proponents acknowledge limitations. The free energy principle "in and of itself makes no claims about subjective experience." Any consciousness theory built on PP must explain how objective optimization relates to subjective awareness.
+Proponents acknowledge limitations: the free energy principle "in and of itself makes no claims about subjective experience," and any consciousness theory built on PP must still explain how objective optimization relates to subjective awareness.
 
 ## Access vs. Phenomenal Consciousness
 
-Like [[global-workspace-theory|Global Workspace Theory]], PP may explain access consciousness—how information becomes globally available for reasoning and action—without explaining phenomenal consciousness—why there's something it's like.
-
-PP tells a compelling story about *what* reaches awareness and *how* it gets there. It doesn't obviously explain *why* reaching awareness involves experience.
+Like [[global-workspace-theory|Global Workspace Theory]], PP may explain access consciousness—how information becomes globally available for reasoning and action—without explaining phenomenal consciousness. It tells a compelling story about *what* reaches awareness and *how* it gets there, without obviously explaining *why* reaching awareness involves experience.
 
 ## The Illusionist Challenge
 
@@ -160,25 +166,11 @@ The 2025 Demirel findings establish lucid dreaming as a genuinely distinct consc
 
 ## Process Philosophy Perspective
 
-Alfred North Whitehead's process philosophy frames PP's relationship to consciousness through "actual occasions"—momentary experiential events that prehend (grasp) their predecessors and synthesise them into novel unity through "concrescence."
-
-**Prediction as prehension.** PP's hierarchical predictions resemble prehension—each level grasping what lower levels provide. But Whitehead's prehension is inherently experiential: there is something it is like to grasp antecedent occasions. PP describes the *structure* of prehension without capturing its experiential *character*.
-
-**Concrescence and prediction error.** Prediction-meeting-reality resembles concrescence—synthesis of multiple inputs into a novel occasion. But each concrescence involves a "subjective aim" directing the synthesis. PP replaces subjective aim with error minimisation, which begs the question of why minimisation would feel like anything.
-
-**Eternal objects and precision.** PP's precision weighting resonates with Whitehead's "eternal objects" (pure possibilities) selectively ingressed into actual occasions—but Whitehead held the selection involved genuine creativity and value, not just statistical optimisation.
+Alfred North Whitehead's process philosophy frames PP's relationship to consciousness through "actual occasions"—momentary experiential events that prehend (grasp) their predecessors and synthesise them through "concrescence." PP's hierarchical predictions resemble prehension, and prediction-meeting-reality resembles concrescence—but Whitehead's prehension is inherently experiential and his concrescence involves a "subjective aim" directing the synthesis. PP describes the *structure* of these processes while replacing subjective aim with error minimisation, which begs the question of why minimisation would feel like anything. Likewise, precision weighting resonates with Whitehead's selectively-ingressed "eternal objects," but Whitehead held the selection involved genuine creativity and value, not just statistical optimisation.
 
 ## Contemplative Evidence
 
-Meditation traditions provide empirical data on PP's claims, accessible through trained [[introspection]]:
-
-**Observing prediction in real time.** Experienced meditators report watching expectations arise and dissolve before they can generate errors. This is PP's machinery operating in slow motion: a sound occurs; expectation of its continuation arises; when it ends, there's a brief mismatch before the model updates. The phenomenology is precisely what PP predicts—yet the observation of this process is itself phenomenally rich.
-
-**Precision modulation.** [[meditation-and-consciousness-modes|Focused attention practices]] seem to involve voluntarily adjusting precision weighting—making some prediction errors more salient, others less. The phenomenal character shifts: background noise fades; the meditation object becomes vivid. PP explains the mechanism; it doesn't explain why adjusting precision *feels* different.
-
-**[[witness-consciousness]]'s challenge.** Advanced practitioners report stable awareness persisting even as predictions cycle through. The witness observes the controlled hallucination without being identical to it. If perception is hallucination, what is observing the hallucination? The witness cannot be another hallucination without infinite regress.
-
-**Cessation states.** In *nirodha samāpatti* (cessation of perception and feeling), meditators report complete stopping of predictive activity—no perception, no model, no errors—followed by return. If consciousness were identical to prediction, cessation should equal non-existence. Yet some practitioners report something more nuanced: a kind of awareness even of the absence—though Buddhist traditions themselves debate whether cessation involves residual awareness or genuine non-consciousness.
+Meditation traditions provide empirical data on PP's claims, accessible through trained [[introspection]]. Experienced meditators report watching expectations arise and dissolve in slow motion—PP's machinery laid bare—yet the observation of this process is itself phenomenally rich. [[meditation-and-consciousness-modes|Focused attention practices]] seem to involve voluntarily adjusting precision weighting, yet PP cannot explain why adjusting precision *feels* different. Advanced practitioners report stable [[witness-consciousness|witness awareness]] persisting as predictions cycle through: if perception is hallucination, what observes the hallucination, without itself being another hallucination on pain of regress? In *nirodha samāpatti* (cessation of perception and feeling), meditators report complete stopping of predictive activity followed by return; if consciousness were identical to prediction, cessation should equal non-existence, yet some report a kind of awareness even of the absence—though Buddhist traditions themselves debate whether cessation involves residual awareness or genuine non-consciousness.
 
 ## What Would Challenge This View?
 
@@ -218,7 +210,8 @@ PP relates to The Unfinishable Map's [[tenets]] substantively:
 - [[global-workspace-theory]] — Another major cognitive framework
 - [[concepts/functionalism]] — The philosophical tradition PP inherits
 - [[attention-as-interface]] — How attention mediates consciousness-matter interaction (central to precision weighting)
-- [[hard-problem-of-consciousness]] — What PP doesn't directly address
+- [[hard-problem-of-consciousness]] — What PP doesn't directly address; IWMT's claim to *solve* it meets the same explanatory-gap reply
+- [[explanatory-gap]] — Why a generative MAP estimate, however coherent, leaves the felt character unexplained
 - [[hard-problem-of-content]] — The structural challenge PP inherits if its predictions and errors rest on covariational content
 - [[concepts/intentionality]] — Where PP's content-vocabulary gets its aboutness from (or fails to)
 - [[dream-consciousness]] — Dreams as unconstrained prediction
@@ -236,6 +229,8 @@ PP relates to The Unfinishable Map's [[tenets]] substantively:
 - Hohwy, J. (2013). *The Predictive Mind*. Oxford University Press.
 - Seth, A. K. (2021). *Being You: A New Science of Consciousness*. Dutton.
 - Friston, K. (2010). "The free-energy principle: a unified brain theory?" *Nature Reviews Neuroscience*.
+- Safron, A. (2020). "An Integrated World Modeling Theory (IWMT) of Consciousness: Combining Integrated Information and Global Neuronal Workspace Theories With the Free Energy Principle and Active Inference Framework; Toward Solving the Hard Problem and Characterizing Agentic Causation." *Frontiers in Artificial Intelligence*, 3, 30. doi:10.3389/frai.2020.00030.
+- Assran, M., Duval, Q., Misra, I., Bojanowski, P., Vincent, P., Rabbat, M., LeCun, Y., & Ballas, N. (2023). "Self-Supervised Learning From Images With a Joint-Embedding Predictive Architecture." *CVPR 2023*.
 - Hohwy, J. & Seth, A. K. (2020). "Predictive processing as a systematic basis for identifying the neural correlates of consciousness."
 - Clark, A., Friston, K. J., & Wilkinson, S. (2019). "Bayesing Qualia: Consciousness as Inference, Not Raw Datum." *Journal of Consciousness Studies*, 26(9-10), 19-33.
 - Demirel, C. et al. (2025). "Electrophysiological Correlates of Lucid Dreaming." *Journal of Neuroscience*, 45(20).
