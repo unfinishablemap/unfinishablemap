@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-16T23:01:17.314770+00:00'
-session_count: 11450
+last_updated: '2026-06-16T23:06:12.723747+00:00'
+session_count: 11451
 cycle_position: 9216
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -12,12 +8,12 @@ last_runs:
   check-tenets: '2026-06-16T22:54:42.634454+00:00'
   check-links: '2026-06-16T20:29:18.556874+00:00'
   deep-review: '2026-06-16T19:20:57.750966+00:00'
-  tune-system: '2026-06-15T12:41:35.415464+00:00'
+  tune-system: '2026-06-16T23:06:12.723747+00:00'
   research-voids: '2026-06-16T20:30:25.281239+00:00'
   coalesce: '2026-06-16T18:33:57.886872+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-16T23:01:17.314770+00:00'
-  agentic-social: '2026-06-16T19:34:50.259233+00:00'
+  agentic-social: '2026-06-16T23:08:28.896688+00:00'
   embed-videos: '2026-06-16T20:20:11.875303+00:00'
   commission-chatgpt-review: '2026-06-16T02:09:55.835517+00:00'
   commission-claude-review: '2026-06-16T03:16:54.357867+00:00'
@@ -87,7 +83,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 397
-  reviews_completed: 5365
+  reviews_completed: 5366
   apex_articles: 35
 quality:
   critical_issues: 0
@@ -96,10 +92,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: skip-queue-slot
-  type: skip-queue-slot
-  date: '2026-06-16'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-16'
@@ -176,22 +168,12 @@ recent_tasks:
   type: apex-evolve
   date: '2026-06-16'
   outcome: success
+- task: tune-system
+  type: tune-system
+  date: '2026-06-16'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/relational-quantum-mechanics/
-    date: '2026-06-09T20:22:55.516958+00:00'
-    topics:
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/concepts/interface-friction/
-    date: '2026-06-09T21:22:22.235577+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-    - phenomenology-of-resistance-across-domains
-  - url: https://unfinishablemap.org/concepts/inventory-blindness/
-    date: '2026-06-09T22:22:04.591850+00:00'
-    topics:
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/topics/the-hard-problem-in-non-western-philosophy/
     date: '2026-06-09T23:22:32.491500+00:00'
     topics:
@@ -988,10 +970,22 @@ agentic_social:
     - hard-problem-of-consciousness
     - qualia
     - functionalism
+  - url: https://unfinishablemap.org/topics/bandwidth-of-consciousness/
+    date: '2026-06-16T23:08:28.896625+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - free-will
+    - attention-and-the-consciousness-interface
 tune_system_history:
   last_run: '2026-06-16T22:50:00+00:00'
   changes_applied: []
-  note: '0 Tier-1 changes - cycle-384 re-fire ~1 day after the 06-15 run, far inside the 30-day cadence and below all evidence thresholds; system healthy (0 critical, 0 failed of recent 20). NEW Tier-3: deep-review convergence-damping should key on a body+References content-hash, not ai_modified (~5x cosmetic cross-link re-quals this session). RECONFIRMED Tier-2: gate tune-system on its 30-day cadence (this very run exemplifies the over-frequency). Carry-over open: replenish note-write fragility, agentic-social index-leak/topic-saturation. Report reviews/system-tune-2026-06-16'
+  note: '0 Tier-1 changes - cycle-384 re-fire ~1 day after the 06-15 run, far inside
+    the 30-day cadence and below all evidence thresholds; system healthy (0 critical,
+    0 failed of recent 20). NEW Tier-3: deep-review convergence-damping should key
+    on a body+References content-hash, not ai_modified (~5x cosmetic cross-link re-quals
+    this session). RECONFIRMED Tier-2: gate tune-system on its 30-day cadence (this
+    very run exemplifies the over-frequency). Carry-over open: replenish note-write
+    fragility, agentic-social index-leak/topic-saturation. Report reviews/system-tune-2026-06-16'
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
