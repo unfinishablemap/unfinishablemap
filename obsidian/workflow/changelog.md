@@ -5,6 +5,20 @@ ai_modified: 2026-06-16 05:29:16+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T05:34:12+00:00 - deep-review
+- **Status**: Success (convergence no-op — body unchanged, citation web-verified)
+- **File**: [[concepts/active-reboot]]
+- **Word count**: 2676 → 2676 (no change; converged, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Selection note**: 4th review; damped score 15 at the 14-day exclusion boundary. Re-qualified ONLY because a 2026-06-05 cosmetic citation sweep (commit 26a24c59b) bumped `ai_modified`; body byte-for-byte unchanged since the thorough 2026-06-02 review. This is the no-op pattern convergence-damping guards against.
+- **Citation web-verify (§2.4)**: the one References-block change since last review — Sepúlveda, Tapia & Monsalves (2019), *Anaesthesia* 74(6), 801–809, DOI 10.1111/anae.14609 (PMID 30835820) — state: real-correct against Wiley/PubMed. The sweep correctly removed a spurious co-author ("Carrasco, E.") and fixed the page range (801–807 → 801–809).
+- **Calibration**: no possibility/probability slippage; two-tier evidential calibration intact; no empirical-currency drift.
+- **Engagement classification (editor-internal)**: Mode Three (framework-boundary marking) in §"What active reboot does not establish" — unchanged; no label leakage.
+- **Timestamps**: `last_deep_review` advanced; `ai_modified` deliberately NOT bumped (body unchanged) to avoid re-arming the false re-qualification loop.
+- **Output**: [[reviews/deep-review-2026-06-16-active-reboot]]
+
 ## 2026-06-16T05:29:16+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/split-brain-consciousness]]
