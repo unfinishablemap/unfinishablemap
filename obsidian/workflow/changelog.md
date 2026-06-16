@@ -5,6 +5,15 @@ ai_modified: 2026-06-16 00:39:39+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T02:35:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Naturalist relationalism as a non-dualist rival in perception
+- **Output**: [[concepts/naturalist-relationalism]]
+- **Word count**: 2356 (94% of 2500 concept soft target, status ok)
+- **Based on research**: yes — [[research/naturalist-relationalism-as-a-non-dualist-rival-in-perception-2026-06-16]]
+- **Citations web-verified**: Brewer 2011 (visually-relevant-similarities gloss), Byrne & Green 2023 Phil Perspectives 37:49–68 (+II in Routledge 2025), Martina 2024 Erkenntnis 89:3229–3246, Phillips 2016 Phil Topics 44(2) verbatim quotes from ORA abstract (PDF unparsable per research note), Logue & Raleigh 2025 Routledge. Co-optation firewall: relationalism engaged as rival (cite-as-rival), not conscripted; felt-from-inside residue is the Map's leverage; disjunctivism folded inline (no concepts/disjunctivism.md exists).
+- **Integration**: reciprocal inbound links added — [[topics/dualist-perception]] (relationalism folded into the realism taxonomy at the three-family passage) and [[topics/perceptual-failure-and-the-interface]] (linked at existing Martina "naturalist relationalist" mention).
+
 ## 2026-06-16T00:00:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Naturalist relationalism as a non-dualist rival in perception

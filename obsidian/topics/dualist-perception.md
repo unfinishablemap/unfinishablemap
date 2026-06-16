@@ -4,7 +4,7 @@ description: "Perception is where consciousness meets the world. Dissociations, 
 created: 2026-02-16
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-06-16T00:00:00+00:00
+ai_modified: 2026-06-16T02:35:00+00:00
 last_deep_review: 2026-06-12T16:32:04+00:00
 draft: false
 topics:
@@ -121,6 +121,8 @@ The Map's framework suggests that [[binding-problem|phenomenal binding]] is a fe
 ## What Dualism Adds to Perception Theory
 
 The philosophy of perception asks what happens when someone sees a red apple, hears a trumpet, or feels the warmth of sunlight. Three families of theory compete: direct realism (perception puts us in direct contact with mind-independent objects), indirect realism (perception is mediated by mental representations), and idealism (the "external" world is constituted by mind).
+
+The sharpest contemporary form of direct realism is [[naturalist-relationalism]] (naive realism, the relational view), on which a veridical experience fundamentally consists in a relation of acquaintance to mind-independent objects that are themselves constituents of its phenomenal character. The Map engages it as its strongest non-dualist rival rather than an ally: relationalism honours the same transparency and directness the Map prizes, yet locates nothing experiential on the subject's side, defending that move against illusion and hallucination through objective "looks" and disjunctivism. Its strain, on the Map's reading, is that it relocates qualitative character into a perceiver–world relation while leaving unexplained why that relation is felt from the inside at all.
 
 Under physicalism, these debates unfold within a single ontological layer. Dualism changes the terrain. If consciousness is ontologically distinct from the physical, then the perceptual relation crosses an ontological boundary. Light strikes the retina, neurons fire, and at some point experience arises in a domain that is not itself physical. This boundary crossing opens possibilities that physicalist theories foreclose. The Map's position is a hybrid indirect realism: the phenomenal interface is itself constitutive — neither private theatre nor unmediated contact, but the experiential face of an interaction across the divide.
 

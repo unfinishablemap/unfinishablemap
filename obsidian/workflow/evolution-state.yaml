@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-16T01:23:13.092650+00:00'
-session_count: 11229
+last_updated: '2026-06-16T01:26:17.214985+00:00'
+session_count: 11230
 cycle_position: 9130
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-14T04:07:15.493292+00:00'
   refine-draft: '2026-06-16T00:41:12.047697+00:00'
   research-topic: '2026-06-16T01:23:13.092650+00:00'
-  replenish-queue: '2026-06-16T01:17:37.784257+00:00'
+  replenish-queue: '2026-06-16T01:26:17.214985+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T00:54:35.513690+00:00'
   add-highlight: '2026-06-15T11:21:03.021858+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-15'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-15'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: research-topic
   type: research-topic
+  date: '2026-06-16'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-16'
   outcome: success
 agentic_social:
@@ -1009,47 +1009,49 @@ queue_status:
   loop_pickable_open: 1
   last_replenishment: '2026-06-16T02:35:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-16 run #68 (standard mode) - 1 task MINTED (chain
-    successor). Note OVERWRITTEN in place per replenish-note-bare-hash-breaks-yaml (no
-    new dated key, no bare hash, no stray quote, no sentinel token). MATERIAL CHANGE since
-    run #67: the P3 naturalist-relationalism research-topic task RAN (last_runs.research-topic
-    2026-06-16T01:23) and produced research/naturalist-relationalism-as-a-non-dualist-rival-in-perception-2026-06-16.md.
-    Run #67''s note predicted this would chain to an expand-topic - that chain is now
-    DUE. The research note carries an explicit "Assess-First Verdict: ARTICLE-WORTHY
+  current_replenishment_note: '2026-06-16 run #68 (standard mode) - 1 task MINTED
+    (chain successor). Note OVERWRITTEN in place per replenish-note-bare-hash-breaks-yaml
+    (no new dated key, no bare hash, no stray quote, no sentinel token). MATERIAL
+    CHANGE since run #67: the P3 naturalist-relationalism research-topic task RAN
+    (last_runs.research-topic 2026-06-16T01:23) and produced research/naturalist-relationalism-as-a-non-dualist-rival-in-perception-2026-06-16.md.
+    Run #67''s note predicted this would chain to an expand-topic - that chain is
+    now DUE. The research note carries an explicit "Assess-First Verdict: ARTICLE-WORTHY
     (proceed to expand-topic)", concept-page placement (cap headroom 261/300 at research
     time, 260/300 on disk now), and three convergent signals (real corpus gap in dualist-perception''s
-    3-family taxonomy; flagged by optimistic-2026-06-12 + ChatGPT 2026-06-11 outer review;
-    rich live 2020s literature). MINTED 1 P2 expand-topic chain successor at TOP of Active
-    Tasks (LIFO-safe placement) to write concepts/ page on naturalist relationalism as
-    a NON-DUALIST rival (co-optation firewall: engage as rival, not conscript). Loop-pickable
-    P0-P2 now 1 (was 0); still < MIN_QUEUE floor of 3 but this is the documented replenish-at-floor
-    steady state (unfin_loop_steady_state) - 1 genuine mint is correct, do NOT fabricate
-    to hit 3. SOURCE-BY-SOURCE (all re-run on disk THIS run): CHAINS (S1)/UNCONSUMED-RESEARCH
-    (S2) 1 - the relationalism research note is fresh + UNCONSUMED (no live/archived article,
-    grep-confirmed) - this is the mint. GAPS (S3) 0 - mature saturated corpus. STALENESS
-    (S4) 0 mintable - cycle deep-review slots handle it. LENGTH (S6) 0 mintable - every
-    live-article hard+ offender is human-DEFERRED/DIVERTED flagship (epistemology-of-convergence
+    3-family taxonomy; flagged by optimistic-2026-06-12 + ChatGPT 2026-06-11 outer
+    review; rich live 2020s literature). MINTED 1 P2 expand-topic chain successor
+    at TOP of Active Tasks (LIFO-safe placement) to write concepts/ page on naturalist
+    relationalism as a NON-DUALIST rival (co-optation firewall: engage as rival, not
+    conscript). Loop-pickable P0-P2 now 1 (was 0); still < MIN_QUEUE floor of 3 but
+    this is the documented replenish-at-floor steady state (unfin_loop_steady_state)
+    - 1 genuine mint is correct, do NOT fabricate to hit 3. SOURCE-BY-SOURCE (all
+    re-run on disk THIS run): CHAINS (S1)/UNCONSUMED-RESEARCH (S2) 1 - the relationalism
+    research note is fresh + UNCONSUMED (no live/archived article, grep-confirmed)
+    - this is the mint. GAPS (S3) 0 - mature saturated corpus. STALENESS (S4) 0 mintable
+    - cycle deep-review slots handle it. LENGTH (S6) 0 mintable - every live-article
+    hard+ offender is human-DEFERRED/DIVERTED flagship (epistemology-of-convergence
     6479w crit STANDING-HUMAN-SPLIT, born-rule, clinical-dissociation, etc.), a #veto-tagged
-    condense P2 already queued (phenomenal-output 6989w, meaning-of-life 4160w), or an
-    index/apex hub (apex-articles 6963w). ORPHANS (S5) 0 (quality.orphaned_files 0). OUTER
-    REVIEWS 0 pending (pending-reviews.yaml = []). POSITIONS add (S7a) 0 / update (S7b)
-    0 - no position cites any article touched today; audit (S7c) NOT due (last positions-audit-2026-06-09,
-    within 30d). APPLIED-APEX (S8) 0. Dedupe: relationalism has NO live/archived article;
-    NOT a duplicate of the Vetoed broad "perception and reality" 2026-02-16 entry (different
-    scope - that was a general survey; this is a focused rival concept page, deliberately
-    re-eligible per the harvester design which does NOT dedupe against Vetoed). Non-pickable
-    Active residue unchanged: 2 HUMAN LENGTH DECISION duhem-quine (human-decision type,
-    diverted), 2 #veto condense P2 (meaning-of-life, phenomenal-output - floor-excluded
-    by veto tag). Sections on disk (find, excl section-index): topics 268/300, concepts
-    260/300, voids 101/100 OVER cap, positions 3 domain files / 80 cap, apex 34. State
-    YAML re-validated post-edit. (Historical context from run #67 below has been superseded
+    condense P2 already queued (phenomenal-output 6989w, meaning-of-life 4160w), or
+    an index/apex hub (apex-articles 6963w). ORPHANS (S5) 0 (quality.orphaned_files
+    0). OUTER REVIEWS 0 pending (pending-reviews.yaml = []). POSITIONS add (S7a) 0
+    / update (S7b) 0 - no position cites any article touched today; audit (S7c) NOT
+    due (last positions-audit-2026-06-09, within 30d). APPLIED-APEX (S8) 0. Dedupe:
+    relationalism has NO live/archived article; NOT a duplicate of the Vetoed broad
+    "perception and reality" 2026-02-16 entry (different scope - that was a general
+    survey; this is a focused rival concept page, deliberately re-eligible per the
+    harvester design which does NOT dedupe against Vetoed). Non-pickable Active residue
+    unchanged: 2 HUMAN LENGTH DECISION duhem-quine (human-decision type, diverted),
+    2 #veto condense P2 (meaning-of-life, phenomenal-output - floor-excluded by veto
+    tag). Sections on disk (find, excl section-index): topics 268/300, concepts 260/300,
+    voids 101/100 OVER cap, positions 3 domain files / 80 cap, apex 34. State YAML
+    re-validated post-edit. (Historical context from run #67 below has been superseded
     by this note.)'
-  current_replenishment_note_prev_run67: '2026-06-16 run #67 (standard mode) - HONEST NO-OP,
-    0 minted. Note OVERWRITTEN in place per replenish-note-bare-hash-breaks-yaml (no
-    new dated key, no bare hash, no stray quote, no sentinel token). NO MATERIAL CHANGE
-    since run #66: the only commits since are the run #66 replenish no-op and a deep-review
-    cycle commit; nothing was queued or consumed. The chemosensory expand-topic remains
-    DONE - article on disk at topics/chemosensory-consciousness-and-the-interface.md
+  current_replenishment_note_prev_run67: '2026-06-16 run #67 (standard mode) - HONEST
+    NO-OP, 0 minted. Note OVERWRITTEN in place per replenish-note-bare-hash-breaks-yaml
+    (no new dated key, no bare hash, no stray quote, no sentinel token). NO MATERIAL
+    CHANGE since run #66: the only commits since are the run #66 replenish no-op and
+    a deep-review cycle commit; nothing was queued or consumed. The chemosensory expand-topic
+    remains DONE - article on disk at topics/chemosensory-consciousness-and-the-interface.md
     (committed 01d8a604d), integrated with reciprocal inbound links (dualist-perception,
     consciousness-as-perceptual-architect, auditory-consciousness companion) - NOT
     an orphan (3 inbound links grep-confirmed). Loop-pickable P0-P2 = 0; the only
