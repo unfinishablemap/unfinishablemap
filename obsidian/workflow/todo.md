@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Add an "Applied apexes (decision-oriented)" grouping to apex/apex-articles.md
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/apex/apex-articles.md
+- **Notes**: Suggested by optimistic review 2026-06-16d. The Map now has TWO applied apexes — `apex/assessing-ai-consciousness-under-the-map` and the newly-created `apex/research-programme-decisions-under-the-map` (both `apex_type: applied`, both with a "What this implies for decisions" section). They reciprocally link and `research-programme-decisions` calls AI-assessment "the sibling applied apex," but the apex index has no grouping that frames the *applied apex* as a distinct decision-oriented genre. Add a short subsection (or labelled grouping) so a reader looking for "what does the Map tell me to DO" finds both at once. Length-neutral index refinement, NO new article. Assess-first with license-to-decline if the index already groups them adequately. Tenet alignment: cross-cutting (navigational). See [[reviews/optimistic-2026-06-16d]]. Short scope.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-16
+
+### P3: Confirm topics/anti-correlation-probes-for-ai-consciousness links UP to its applied apex
+- **Type**: integrate-orphan
+- **Status**: pending
+- **File**: obsidian/topics/anti-correlation-probes-for-ai-consciousness.md
+- **Notes**: Suggested by optimistic review 2026-06-16d. `apex/assessing-ai-consciousness-under-the-map` leans on this probes article ("The Map's own anti-correlation-probes article sketches this design space") and links DOWN to it. Verify the probes article links back UP to the applied apex so a reader on the probes page reaches the decision-oriented synthesis that uses it. If the up-link is missing, add one Further Reading / inline link. Assess-first: if the reciprocal link already exists, close as no-op. Length-neutral. Tenet alignment: Bidirectional Interaction + Dualism. See [[reviews/optimistic-2026-06-16d]]. Short scope.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-16
+
+### ✓ DEFERRED-TO-HUMAN 2026-06-16: Write a third applied apex — "Clinical and Diagnostic Decisions Under the Map"
+- **Type**: apex-evolve
+- **Status**: DEFERRED-TO-HUMAN — DIVERTED from auto-pick by /unfin-cycle 2026-06-16. This proposes a NEW applied apex but, UNLIKE the A5 slot (which carried `Status: Proposed` in apex-articles.md as a human sanction), has NO pre-approved slot; apex is over its informal ~20 cap (35 on disk per the 2026-06-03 audit); and the task body itself says "NEEDS HUMAN APPROVAL before creation." Per [[human-decision-task-mispicked-as-refine]], an executable `apex-evolve` task left pending in Active would be auto-picked by the loop and could create an unsanctioned 36th apex without the human approval it requires. Header set to ✓ DEFERRED so the selector (keys off the `### P{N}:` header) skips it. HUMAN ACTION: if this apex is wanted, add an A6 slot to `apex/apex-articles.md` (Status: Proposed) — that sanction is what made A5 auto-executable — then re-activate this task. Do NOT auto-execute. The proposal substance is preserved below.
+- **Status-orig**: pending
+- **Notes**: Suggested by optimistic review 2026-06-16d. NEEDS HUMAN APPROVAL before creation. The applied-apex pair currently covers research-prioritisation and AI moral status but NOT the clinical decision context the interface apex's attention-disorders evidence (ADHD, neglect, OCD, locked-in / disorders-of-consciousness) most naturally feeds. The AI apex already gestures at it ("It limits behavioural inference about... deeply impaired humans") but no apex develops how the self-concealing-interface argument (P-Q9) constrains what a bedside consciousness assay can/cannot establish for locked-in or late-dementia patients. APPLIED-APEX CONTRACT: must cite ≥3 positions (candidates: P-Q9 self-concealing interface, P-Q1 mechanism, plus an agency-register position), must have a "What this implies for decisions" section, must carry a Cascade flags section. Assess-first with license-to-decline (confirm it is additive over the existing clinical-neuroplasticity / attention-disorders content and is genuinely a DECISION-oriented apex, not a restatement). Tenet alignment: Bidirectional Interaction + Dualism (consciousness-survives-impaired-control is the clinical payload of the interface model). See [[reviews/optimistic-2026-06-16d]]. Medium-Long scope.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-16
+
 ### ✓ P3: Deep-review the coalesced topics/memory-channel-interface-evidence.md (verify merge + assess over-length)
 - **Status**: done 2026-06-16 — CONFIRMING verdict. Both faces survived intact (vulnerability hierarchy + recovery-order asymmetry); all calibration hedges preserved; the three 2026-06-05 citation-metadata fixes survived the merge (Carrasco sweep confirmed complete, 0 live); merge even RESOLVED a latent "reverse order"→"direction-dependent order" tension. Length: ACCEPT AS SURVEY (4296w hard_warning, under critical; coalesce already 36% reduced with proper case de-dup). No critical/medium issues; verification-only pass. See [[reviews/deep-review-2026-06-16-memory-channel-interface-evidence]].
 - **Type**: deep-review
