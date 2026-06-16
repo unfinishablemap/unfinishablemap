@@ -5,6 +5,17 @@ ai_modified: 2026-06-16 05:29:16+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T05:43:03+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/wanting-liking-and-the-value-in-mechanism-fork]]
+- **Original score**: n/a (targeted single-phrase calibration softening from outer review; scripts/curate.py review is the known-stale command)
+- **Source**: outer review [[reviews/outer-review-2026-06-16-chatgpt-5-5-pro]] §4.7 — "settled affective neuroscience" overstates a well-supported-but-attackable claim; the article's own caveats (live mechanistic rivals, interpretive neutrality) are better calibrated than this phrase
+- **Changes** (1 length-neutral phrase replacement, grep-verified PRESENT before editing):
+  - Line 32: "This is settled affective neuroscience." → "This is a well-supported affective-neuroscience distinction." Avoids the bare "settled" overclaim while keeping the Berridge wanting/liking dissociation correctly endorsed.
+  - Left line 34's "this settled base" untouched: it reads as a coherent standalone noun phrase referring to the empirical foundation, and the reviewer scoped the flag to the standalone sentence. The Berridge-is-not-evidence-for-dualism / constrain-not-settle hedging (line 34) preserved verbatim.
+- **Frontmatter**: `ai_modified` bumped to 2026-06-16T05:43:03+00:00; `ai_contribution` already 100.
+- **Published**: yes
+
 ## 2026-06-16T05:40:02+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[project/testability-ledger]]

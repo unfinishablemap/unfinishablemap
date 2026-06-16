@@ -4,7 +4,7 @@ description: "Berridge's wanting/liking dissociation refutes a single value-curr
 created: 2026-06-05
 modified: 2026-06-05
 human_modified:
-ai_modified: 2026-06-14T13:32:51+00:00
+ai_modified: 2026-06-16T05:43:03+00:00
 last_deep_review: 2026-06-14T13:32:51+00:00
 draft: false
 topics:
@@ -29,7 +29,7 @@ ai_generated_date: 2026-06-05
 last_curated:
 ---
 
-Kent Berridge and colleagues spent three decades showing that reward is not one thing. "Wanting" a reward (the motivational pull toward it) and "liking" it (its felt hedonic impact) have **separable neural substrates** and can be pulled apart experimentally. Dopamine drives wanting; small opioid "hedonic hotspots" in the nucleus accumbens shell and ventral pallidum drive liking. An animal can even be made to "want" a cue it has never "liked." This is settled affective neuroscience.
+Kent Berridge and colleagues spent three decades showing that reward is not one thing. "Wanting" a reward (the motivational pull toward it) and "liking" it (its felt hedonic impact) have **separable neural substrates** and can be pulled apart experimentally. Dopamine drives wanting; small opioid "hedonic hotspots" in the nucleus accumbens shell and ventral pallidum drive liking. An animal can even be made to "want" a cue it has never "liked." This is a well-supported affective-neuroscience distinction.
 
 The Unfinishable Map lays an *interpretive* question over this settled base, the **value-in-mechanism fork** (defined below): when a reward is good or a pain is bad, does that affective value reside in the neural mechanism itself, or in the conscious experience the mechanism is associated with? The honest answer this article defends: the dissociation **constrains** the space of accounts—it rules out any naive "dopamine = pleasure = value" picture and is strong evidence that motivation and hedonic impact are mechanistically separable—but it does **not** by itself settle the fork. A mechanism-only physicalist reading appears to explain every Berridge finding without remainder. The data sharpen the question; they do not seem to answer it.
 

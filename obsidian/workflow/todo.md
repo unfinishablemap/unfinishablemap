@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: [outer-review 2026-06-16] Soften "settled affective neuroscience" in topics/wanting-liking-and-the-value-in-mechanism-fork.md
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-06-16 (ChatGPT 5.5 Pro, §4.7). The phrase "settled affective neuroscience" is CONFIRMED LIVE in the article. The reviewer notes the article's own caveats are better calibrated than this phrase — the wanting/liking dissociation is well-supported but "settled" invites attack, especially since the same article flags live mechanistic rivals and interpretive neutrality. Replace with "a well-supported affective-neuroscience distinction". Length-neutral, single phrase; preserve the existing Berridge-is-not-evidence-for-dualism hedging. Bump ai_modified.
-- **Review file**: `reviews/outer-review-2026-06-16-chatgpt-5-5-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-06-16
-
 ### P2: [outer-review 2026-06-16] Downgrade "first major AI lab" claim in topics/claude-constitution-consciousness-uncertainty.md
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-06-16 (ChatGPT 5.5 Pro, §4.2). Article line 30 asserts the Constitution is "the first instance of a major AI lab formally registering, in a governing document, that it does not know whether its own product is a someone" (CONFIRMED LIVE). The reviewer flags that a "first" superlative needs either a comparative survey defining "major AI lab"/"constitution"/"moral status"/"public commitment", or a downgrade to a defensible hedge like "a prominent explicit public instance". Prefer the hedge (lighter, no research dependency) unless a quick check supports the strict "first" claim. Length-neutral. Bump ai_modified. Tenet alignment: evidential-status discipline applied to a historical-priority claim.
@@ -1058,6 +1051,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-16: [outer-review 2026-06-16] Soften "settled affective neuroscience" in topics/wanting-liking-and-the-value-in-mechanism-fork.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-16 (ChatGPT 5.5 Pro, §4.7). The phrase "settled affective neuroscience" is CONFIRMED LIVE in the article. The reviewer notes the article's own caveats are better calibrated than this phrase — the wanting/liking dissociation is well-supported but "settled" invites attack, especially since the same article flags live mechanistic rivals and interpretive neutrality. Replace with "a well-supported affective-neuroscience distinction". Length-neutral, single phrase; preserve the existing Berridge-is-not-evidence-for-dualism hedging. Bump ai_modified.
 
 ### ✓ 2026-06-16: [outer-review 2026-06-16] Empirical-calibration sweep — soften three over-stated empirical glosses to match the live literature
 - **Type**: refine-draft
