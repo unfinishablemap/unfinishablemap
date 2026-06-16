@@ -2,14 +2,14 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-16T05:04:44.447698+00:00'
-session_count: 11264
+last_updated: '2026-06-16T05:12:41.533946+00:00'
+session_count: 11265
 cycle_position: 9144
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-16T00:33:28.427439+00:00'
   optimistic-review: '2026-06-16T01:43:45.058433+00:00'
-  check-tenets: '2026-06-15T12:37:38.087390+00:00'
+  check-tenets: '2026-06-16T05:12:41.533946+00:00'
   check-links: '2026-06-15T22:47:09.324541+00:00'
   deep-review: '2026-06-16T04:19:51.148429+00:00'
   tune-system: '2026-06-15T12:41:35.415464+00:00'
@@ -28,7 +28,7 @@ last_runs:
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-15T11:21:03.021858+00:00'
-  literature-drift-review: '2026-06-09T05:03:33.000616+00:00'
+  literature-drift-review: '2026-06-16T05:30:00+00:00'
   collect-chatgpt-review: '2026-06-14T03:57:47.559156+00:00'
   collect-claude-review: '2026-06-11T04:22:04.847555+00:00'
   combine-outer-reviews: '2026-06-16T04:49:40.840307+00:00'
@@ -66,10 +66,15 @@ audit_triple:
     - animal-consciousness
     - psychedelics-and-the-filter-model
     - quantum-biology-and-neural-consciousness
-    last_audit_date: '2026-06-02'
+    last_audit_date: '2026-06-16'
     total_audits: 3
     flagged_audits: 0
     clean_audits: 3
+    # 2026-06-16 run: NO_CANDIDATE (all 3 literal-pattern-matched topics audited
+    # within 30d). No article assessed for drift, so audit counters NOT incremented
+    # (counting non-audits would dilute the flagged/total falsification signal).
+    # last_audit_date bumped to record the run fired. See changelog note re: pattern
+    # list possibly too narrow (iit/consciousness-measurement match no live topic stem).
   topic_concept_anchoring:
     run_every_n_cycles: 1
   altered_state_symmetry: {}
@@ -87,7 +92,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 396
-  reviews_completed: 5344
+  reviews_completed: 5345
   apex_articles: 34
 quality:
   critical_issues: 0
@@ -96,10 +101,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-16'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-16'
@@ -174,6 +175,10 @@ recent_tasks:
   outcome: success
 - task: embed-videos
   type: embed-videos
+  date: '2026-06-16'
+  outcome: success
+- task: check-tenets
+  type: check-tenets
   date: '2026-06-16'
   outcome: success
 agentic_social:
