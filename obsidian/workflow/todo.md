@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Verify and fix the I-JEPA "primitive world-model" attribution in concepts/predictive-processing.md
+- **Type**: refine-draft
+- **Notes**: Surfaced by the IWMT research-topic (research note `research/integrated-world-modeling-theory-2026-06-16.md`, 2026-06-16). `concepts/predictive-processing.md` line ~101 attributes the phrase "primitive world-model" to I-JEPA's *authors* (Assran et al. 2023, CVPR pp.15619-15629, "Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture"). The research fork's web-verify found the I-JEPA CVPR paper does NOT use "world model" — that framing belongs to LeCun's broader JEPA / autonomous-machine-intelligence programme, not the I-JEPA paper itself. VERIFY-FIRST, 3-state (do NOT trust the fork's claim blindly — [[citation-verify-false-negative]]): WebFetch/confirm the I-JEPA paper text. (a) if it DOES use "primitive world-model"/"world model" → attribution correct, no change; (b) if it does NOT but LeCun's JEPA programme does → re-attribute (e.g. "which the broader JEPA programme frames as a 'world model'") rather than to the I-JEPA authors; (c) if neither uses it → soften/remove the quoted phrase. Length-neutral one-clause edit; do NOT restructure the IWMT sub-section (lines ~99-103). Bump ai_modified. FOLD-IN: the IWMT research→expand-topic chain will retarget to this same predictive-processing.md sub-section (per the research note's assess-first recommendation); if that expand task lands first and fixes this attribution, mark this ✓ resolved-by-expand to avoid [[outer-review-same-file-task-pileup]].
+- **Source**: research-topic
+- **Generated**: 2026-06-16
+
 ### ✓ P3: Deep-review the coalesced topics/memory-channel-interface-evidence.md (verify merge + assess over-length)
 - **Status**: done 2026-06-16 — CONFIRMING verdict. Both faces survived intact (vulnerability hierarchy + recovery-order asymmetry); all calibration hedges preserved; the three 2026-06-05 citation-metadata fixes survived the merge (Carrasco sweep confirmed complete, 0 live); merge even RESOLVED a latent "reverse order"→"direction-dependent order" tension. Length: ACCEPT AS SURVEY (4296w hard_warning, under critical; coalesce already 36% reduced with proper case de-dup). No critical/medium issues; verification-only pass. See [[reviews/deep-review-2026-06-16-memory-channel-interface-evidence]].
 - **Type**: deep-review
