@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-16T08:56:35.609192+00:00'
-session_count: 11312
+last_updated: '2026-06-16T09:03:03.899445+00:00'
+session_count: 11313
 cycle_position: 9166
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-16T04:14:32.657292+00:00'
   refine-draft: '2026-06-16T07:19:10.966440+00:00'
   research-topic: '2026-06-16T01:23:13.092650+00:00'
-  replenish-queue: '2026-06-16T08:53:44.346024+00:00'
+  replenish-queue: '2026-06-16T09:03:03.899445+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-16T08:06:09.164774+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-16'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-16'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
+  date: '2026-06-16'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-16'
   outcome: success
 agentic_social:
@@ -1023,19 +1023,18 @@ queue_status:
     OVERWRITTEN in place per replenish-note-bare-hash-breaks-yaml (no new dated key,
     no bare hash outside this quoted scalar, no stray quote, no sentinel token). The
     only commit since the prior replenish (e838c42e3 / f7a66ea48) is ed711ae27 auto
-    skip-queue-slot, which changes NO content (git diff name-only e838c42e3..HEAD over
-    obsidian excl workflow is EMPTY). So nothing has moved that any source could owe
-    a task on. loop_pickable_open remains 0: the only bare triple-hash P{N} headers
-    in Active Tasks (lines 38-1020) are the two veto-tagged condense P2s
-    (topics/meaning-of-life 4160w + apex/phenomenal-output-causal-machinery-dissociation
-    6989w), confirmed by awk; all other Active headers are closed or HUMAN LENGTH DECISION
-    entries. 0 pickable is below the floor of 3 but do NOT fabricate a task (documented
-    replenish-at-floor steady state, unfin_loop_steady_state + p3-only-floor-preemption-starves);
-    the floor fills organically from cycle deep-review/coalesce/pessimistic slots and
+    skip-queue-slot, which changes NO content (git diff name-only e838c42e3..HEAD
+    over obsidian excl workflow is EMPTY). So nothing has moved that any source could
+    owe a task on. loop_pickable_open remains 0: the only bare triple-hash P{N} headers
+    in Active Tasks (lines 38-1020) are the two veto-tagged condense P2s (topics/meaning-of-life
+    4160w + apex/phenomenal-output-causal-machinery-dissociation 6989w), confirmed
+    by awk; all other Active headers are closed or HUMAN LENGTH DECISION entries.
+    0 pickable is below the floor of 3 but do NOT fabricate a task (documented replenish-at-floor
+    steady state, unfin_loop_steady_state + p3-only-floor-preemption-starves); the
+    floor fills organically from cycle deep-review/coalesce/pessimistic slots and
     the next outer-review synthesis. SOURCE-BY-SOURCE (all re-run on disk THIS run):
-    CHAINS (S1) 0. UNCONSUMED RESEARCH (S2) 0 - two newest notes
-    (naturalist-relationalism-as-a-non-dualist-rival-in-perception-2026-06-16 and
-    chemosensory-consciousness-and-the-interface-olfaction-and-gustation-2026-06-16)
+    CHAINS (S1) 0. UNCONSUMED RESEARCH (S2) 0 - two newest notes (naturalist-relationalism-as-a-non-dualist-rival-in-perception-2026-06-16
+    and chemosensory-consciousness-and-the-interface-olfaction-and-gustation-2026-06-16)
     BOTH consumed: concepts/naturalist-relationalism.md + topics/chemosensory-consciousness-and-the-interface.md
     both exist on disk. GAPS (S3) 0 - mature saturated corpus. STALENESS (S4) 0 mintable
     - cycle deep-review slots handle it. LENGTH (S6) 0 mintable - only-pickable hard+
