@@ -5,6 +5,12 @@ ai_modified: 2026-06-15 23:46:52+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-16T00:00:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Chemosensory Consciousness and the Interface (Olfaction and Gustation)
+- **Output**: [[research/chemosensory-consciousness-and-the-interface-olfaction-and-gustation-2026-06-16]]
+- **Sources consulted**: 15
+
 ## 2026-06-15T23:46:52+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/russellian-monism-versus-bi-aspectual-dualism]]
