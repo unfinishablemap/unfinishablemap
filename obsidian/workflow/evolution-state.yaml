@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-16T19:53:23.292816+00:00'
-session_count: 11440
+last_updated: '2026-06-16T19:56:00.410441+00:00'
+session_count: 11441
 cycle_position: 9214
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -34,7 +34,7 @@ last_runs:
   combine-outer-reviews: '2026-06-16T04:49:40.840307+00:00'
   collect-gemini-review: '2026-06-16T04:45:16.113541+00:00'
   positions-evolve: '2026-06-13T10:48:30.875831+00:00'
-  check-model-fallback: '2026-06-16T15:50:58.375605+00:00'
+  check-model-fallback: '2026-06-16T19:56:00.410441+00:00'
   harvest-research-subjects: '2026-06-16T19:38:32.994680+00:00'
   skip-queue-slot: '2026-06-16T19:46:03.487860+00:00'
 last_git_push: '2026-06-16T16:09:57.435519+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-16'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-16'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-16'
+  outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-06-16'
   outcome: success
 agentic_social:
@@ -1003,10 +1003,10 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 0
-  last_replenishment: '2026-06-16T19:50:00+00:00'
+  last_replenishment: '2026-06-16T19:58:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-16 run #151 (standard mode) - HONEST NO-OP,
-    0 minted. Same eight-source conclusion as runs #137-#150, re-derived fresh from
+  current_replenishment_note: '2026-06-16 run #152 (standard mode) - HONEST NO-OP,
+    0 minted. Same eight-source conclusion as runs #137-#151, re-derived fresh from
     disk this run (NOT trusted from the prior note). Active-section re-scan (lines
     38-1028): every "### " header carries a standard closing marker (check / strikethrough
     / RELOCATED-up-arrow) EXCEPT exactly four, and all four are documented steady-state
@@ -1018,23 +1018,20 @@ queue_status:
     / coalesce / skip-queue-slot / harvest only, no expand-topic or research-topic
     completion awaiting a successor. UNCONSUMED RESEARCH (S2) 0 - the 3 notes dated
     2026-06-16 re-confirmed consumed via ls this run: chemosensory to topics/chemosensory-consciousness-and-the-interface.md
-    (EXISTS), naturalist-relationalism to concepts/naturalist-relationalism.md (EXISTS,
-    has a 06-16 deep review), integrated-world-modeling-theory folded into concepts/predictive-processing.md
+    (EXISTS), naturalist-relationalism to concepts/naturalist-relationalism.md (EXISTS),
+    integrated-world-modeling-theory folded into concepts/predictive-processing.md
     (grep hit, IWMT is a PP theory variant, no standalone needed). GAPS (S3) 0 - voids
     101/100 over cap; topics 268/300 and concepts 261/300 have headroom but gap analysis
     documented-exhausted; positions deliberately slow (3 entries). STALENESS (S4)
     0 mintable - cycle deep-review slots own this. LENGTH (S6) 0 - all critical-tier
-    offenders exempt or human-deferred (research/ long-form notes are condense-exempt;
-    apex-articles.md is the apex INDEX page that syncs to _index.md; epistemology-of-convergence
-    6479w is a standing HUMAN LENGTH DECISION; phenomenal-output is the veto-tagged
-    flagship already in queue). The hard-warning non-critical offenders are the steady-state
-    population handled organically by cycle deep-review/coalesce slots. ORPHANS (S5)
-    0 - quality.orphaned_files 0. POSITIONS add (S7a) 0 / update (S7b) 0 / audit (S7c)
-    not due - last audit 2026-06-10, register still only 3 live entries. APPLIED-APEX
-    (S8) 0 - third applied-apex slot DEFERRED-TO-HUMAN. OUTER REVIEWS: 06-16 cycle
-    fully synthesized (outer-review-synthesis-2026-06-16.md present; pending-reviews
-    chatgpt+gemini both collected, 0 pending). Queue at 0 pickable is the documented
-    replenish-at-floor steady state - do NOT fabricate filler; cycle deep-review/coalesce/pessimistic/optimistic
+    offenders exempt or human-deferred. ORPHANS (S5) 0 - quality.orphaned_files 0.
+    POSITIONS add (S7a) 0 / update (S7b) 0 / audit (S7c) not due - last audit 2026-06-10,
+    register still only 3 live entries. APPLIED-APEX (S8) 0 - third applied-apex slot
+    DEFERRED-TO-HUMAN. OUTER REVIEWS: 06-16 cycle fully synthesized (outer-review-synthesis-2026-06-16.md
+    present; pending-reviews chatgpt+gemini both collected, 0 pending). The below-Completed
+    P3 "Ideas for Later" bank (lines 8447+) sits below the Completed/Blocked headers
+    and is parser-excluded by design, not a placement bug. Queue at 0 pickable is the
+    documented replenish-at-floor steady state - do NOT fabricate filler; cycle deep-review/coalesce/pessimistic/optimistic
     slots plus the next outer-review synthesis drain and feed the floor organically.
     State YAML re-validated post-edit.'
   replenishment_source_counts_last_run:
