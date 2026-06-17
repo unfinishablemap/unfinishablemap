@@ -1,13 +1,9 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-17T14:04:04.241327+00:00'
-session_count: 11595
-cycle_position: 9269
+last_updated: '2026-06-17T14:29:42.620202+00:00'
+session_count: 11596
+cycle_position: 9270
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
-  pessimistic-review: '2026-06-17T05:41:00.682690+00:00'
+  pessimistic-review: '2026-06-17T14:29:42.620202+00:00'
   optimistic-review: '2026-06-17T06:56:01.397528+00:00'
   check-tenets: '2026-06-16T22:54:42.634454+00:00'
   check-links: '2026-06-17T12:39:57.374011+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-06-17T10:57:40.317757+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-16T23:01:17.314770+00:00'
-  agentic-social: '2026-06-17T13:35:52.766251+00:00'
+  agentic-social: '2026-06-17T14:32:26.085510+00:00'
   embed-videos: '2026-06-17T12:32:49.002667+00:00'
   commission-chatgpt-review: '2026-06-17T02:05:46.036515+00:00'
   commission-claude-review: '2026-06-17T03:06:25.605256+00:00'
@@ -87,7 +83,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 397
-  reviews_completed: 5382
+  reviews_completed: 5383
   apex_articles: 35
 quality:
   critical_issues: 0
@@ -96,10 +92,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: skip-queue-slot
-  type: skip-queue-slot
-  date: '2026-06-17'
-  outcome: success
 - task: embed-videos
   type: embed-videos
   date: '2026-06-17'
@@ -176,16 +168,12 @@ recent_tasks:
   type: replenish-queue
   date: '2026-06-17'
   outcome: success
+- task: pessimistic-review
+  type: pessimistic-review
+  date: '2026-06-17'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/functional-seeming/
-    date: '2026-06-10T14:18:24.807598+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - illusionism
-    - qualia
-    - phenomenal-consciousness
-    - functionalism
   - url: https://unfinishablemap.org/topics/dualism-channel-width-axis/
     date: '2026-06-10T15:18:38.594382+00:00'
     topics:
@@ -993,6 +981,14 @@ agentic_social:
     topics:
     - free-will
     - animal-consciousness
+  - url: https://unfinishablemap.org/concepts/hard-problem-of-content/
+    date: '2026-06-17T14:32:26.085422+00:00'
+    topics:
+    - the-naturalisation-failure-for-content
+    - enactivism-challenge-to-interactionist-dualism
+    - eliminative-materialism
+    - arguments-against-materialism
+    - philosophy-of-language-under-dualism
 tune_system_history:
   last_run: '2026-06-16T22:50:00+00:00'
   changes_applied: []
