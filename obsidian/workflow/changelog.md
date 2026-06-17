@@ -5,6 +5,16 @@ ai_modified: 2026-06-17 21:07:27+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-17T16:20:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-holism-and-phenomenal-unity]]
+- **Source**: optimistic review 2026-06-17d (physics-interface cluster) — single Process-Philosopher-vs-Hardline-Empiricist near-divergence; lead over-reached relative to the body's own discipline
+- **Original score**: well-calibrated body, over-reaching lead/closer (no numeric review run; light-touch verb/qualifier tuning per task scope)
+- **Changes**: (1) lead — "the only physical substrate structurally matching phenomenal unity" → "the most promising physical substrate... advanced on tenet grounds, not forced by the data"; "it solves the structure-matching problem" → "it would address"; (2) "What Would Challenge This View" closer — "current evidence favours the quantum position" → "remains a realistic candidate—motivated by structural fit and biological precedent rather than settled by current evidence" (aligns the closer with the body's own "the present evidence does not adjudicate" calibration and the cluster's realistic/precedent/supplement verb register); (3) description frontmatter — "the only physical substrate" → "the most promising physical substrate" (152 chars)
+- **Not touched** (per task scope): body's well-calibrated decoherence-debate balance preserved; citations NOT re-audited (Luo et al. 2025 / Neven et al. web-verified in earlier same-session deep-review); conditional Minimal-Quantum-Interaction tenet section left as-is (out of the named lead+closer scope)
+- **Word count**: ~3675 → 3714 (under 4000 topics hard ceiling; length-neutral, +9 qualifier words)
+- **Published**: yes
+
 ## 2026-06-17T21:07:27+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: physics–consciousness interface / quantum-selection cluster (Tenet 2 + Tenet 3 backbone) — 6 articles: quantum-measurement-and-consciousness, selection-only-channel, quantum-holism-and-phenomenal-unity, quantum-biology-and-neural-consciousness, empirical-evidence-for-consciousness-selecting, forward-in-time-vs-time-symmetric-selection. Deliberately non-overlapping fourth pass of the day (after 06-17a calibration-discipline, 06-17b first-person-evidence, 06-17c indexical-identity).

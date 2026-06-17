@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Calibration refine — quantum-holism-and-phenomenal-unity.md lead verbs
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-06-17d (physics-interface cluster). The article's body discipline is excellent ("the quantum-holism reading is posited on tenet grounds rather than forced by the data"), but the LEAD over-reaches relative to that body: "[entanglement is] the only physical substrate structurally matching phenomenal unity" leans on Neven's contested conjecture, and the closing "current evidence favours the quantum position" uses a stronger verb than the disciplined "realistic / precedent / supplement" verbs the rest of the cluster uses. This is the cluster's single Process-Philosopher-vs-Hardline-Empiricist near-divergence. Light-touch verb/qualifier tuning only (lead + "What Would Challenge This View" closer); do NOT restructure or remove the body's well-calibrated decoherence-debate balance. Queued as refine-draft (not expand-topic) per the persona-tension rule: a near-slippage is a refine target.
-- **Source**: optimistic-review
-- **Generated**: 2026-06-17
-
 ### P3: Add three cluster cross-links flagged by optimistic review 2026-06-17d
 - **Type**: refine-draft
 - **Status**: pending
@@ -1080,6 +1073,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-17: Calibration refine — quantum-holism-and-phenomenal-unity.md lead verbs
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review 2026-06-17d (physics-interface cluster). The article's body discipline is excellent ("the quantum-holism reading is posited on tenet grounds rather than forced by the data"), but the LEAD over-reaches relative to that body: "[entanglement is] the only physical substrate structurally matching phenomenal unity" leans on Neven's contested conjecture, and the closing "current evidence favours the quantum position" uses a stronger verb than the disciplined "realistic / precedent / supplement" verbs the rest of the cluster uses. This is the cluster's single Process-Philosopher-vs-Hardline-Empiricist near-divergence. Light-touch verb/qualifier tuning only (lead + "What Would Challenge This View" closer); do NOT restructure or remove the body's well-calibrated decoherence-debate balance. Queued as refine-draft (not expand-topic) per the persona-tension rule: a near-slippage is a refine target.
 
 ### ✓ 2026-06-17: Polish calibration in topics/marginal-organism-scope-of-value-sensitive-selection.md
 - **Type**: refine-draft
