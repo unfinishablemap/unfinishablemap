@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T16:25:57.956233+00:00'
-session_count: 11616
-cycle_position: 9277
+last_updated: '2026-06-17T16:28:19.568953+00:00'
+session_count: 11617
+cycle_position: 9278
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-17T14:29:42.620202+00:00'
@@ -26,7 +26,7 @@ last_runs:
   research-topic: '2026-06-17T15:41:10.316846+00:00'
   replenish-queue: '2026-06-17T16:25:57.956233+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
-  expand-topic: '2026-06-17T16:05:06.299898+00:00'
+  expand-topic: '2026-06-17T16:28:19.568953+00:00'
   add-highlight: '2026-06-17T08:04:22.798348+00:00'
   literature-drift-review: '2026-06-16T05:16:35.375066+00:00'
   collect-chatgpt-review: '2026-06-17T03:50:53.280771+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-17'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-17'
+  outcome: success
+- task: expand-topic
+  type: expand-topic
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1014,39 +1014,37 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 0
-  p3_tasks: 1
+  p3_tasks: 0
   needs_replenishment: false
-  loop_pickable_open: 1
-  last_replenishment: '2026-06-17T16:20:00+00:00'
+  loop_pickable_open: 0
+  last_replenishment: '2026-06-17T16:32:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-17 run no.217 (standard mode) - MINTED 0 (NO-OP,
-    all 8 sources re-verified dry on disk). Expected floor-alternation steady state
-    (unfin-loop-steady-state), NOT a fixable stall. Pickable P0-P2 = 0; the ONLY genuinely
-    open Active task is the standing P3 expand-topic Sleeping-Beauty (ASSESS-FIRST
-    / likely-decline - re-fragmentation risk against the intentional indexical-knowledge-and-identity
-    coalesce, leave as the well-developed sub-section it already is). Below the MIN_QUEUE
-    floor of 3, but zero genuine candidates to mint without duplicating live content.
-    Source-by-source (all confirmed on disk, not trusting the prior note): S1 chain
-    - today''s expand-topics (manyism, egocentric-presentism, naturalist-relationalism,
-    chemosensory) did their own integration chains and are reciprocally cross-linked
-    (manyism 5 inbound, egocentric-presentism 5, chemosensory 4, naturalist-relationalism
-    2), no pending cross-reviews. S2 unconsumed-research - the 4 newest substantive
-    research notes all have live articles created today; IWMT-2026-06-16 self-declined
-    as already-covered in concepts/predictive-processing.md (Safron/IWMT confirmed
-    present there, the only article mentioning it). S3 gap-analysis owned by harvest-research-subjects
-    (ran 13:57 today, scanned reviews through 06-17). S4 staleness owned by the deep-review
-    cycle slot (ran 15:07 today). S5 orphans 0 on disk. S6 length - every site-content
-    over-hard offender is DEFERRED-TO-HUMAN, vetoed, or calibration-protected/recently-deep-reviewed-and-accepted-as-survey:
-    epistemology-of-convergence-arguments (6479w crit) + edge-states-and-void-probes
-    + laws-and-dispositions = DEFERRED-TO-HUMAN condenses; meaning-of-life + phenomenal-output-causal-machinery-dissociation
-    = veto-tagged in Active; clinical-dissociation + born-rule = human-deferred flagships;
-    synesthetic-void = open HUMAN LENGTH DECISION today; argument-from-reason / epistemic-advantages-of-dualism
-    / composition-question-rivals = hard_warning calibration-bearing articles last
-    touched by deep-review or calibration-adopt passes (accept-as-survey, not auto-condensable);
-    machine-question over apex hard by 1w. S7 positions audit not due (last audit
-    06-10, well inside 30d; 3 live domain files on disk). S8 applied-apex clusters
-    too small (only 3 live positions domain files vs the 2 existing applied apex).
-    No todo.md mutation.'
+  current_replenishment_note: "2026-06-17 run no.218 (standard mode) - MINTED 0 (NO-OP,
+    all 8 sources re-verified dry on disk, not trusting prior note). Expected
+    floor-alternation steady state (unfin-loop-steady-state), NOT a fixable stall.
+    Pickable P0-P2 = 0 and pickable P3 = 0: the standing Sleeping-Beauty P3 cited
+    by run no.217 has since been CLOSED (declined, marked done in Active Tasks
+    2026-06-17 as re-fragmentation risk against the deliberate
+    indexical-knowledge-and-identity coalesce). Below the MIN_QUEUE floor of 3, but
+    zero genuine candidates to mint without duplicating live content.
+    Source-by-source: S1 chain - todays expand-topics (manyism, egocentric-presentism,
+    naturalist-relationalism, chemosensory) all have live articles with integration
+    chains done, no pending cross-reviews. S2 unconsumed-research - all four newest
+    substantive notes consumed by articles created today (manyism, egocentric-presentism,
+    naturalist-relationalism concepts; chemosensory topic); IWMT-2026-06-16
+    self-declined as already-covered in concepts/predictive-processing.md (confirmed
+    the only article mentioning it). S3 gap-analysis owned by harvest-research-subjects
+    (ran 13:57 today). S4 staleness owned by the deep-review cycle slot (ran 15:07
+    today). S5 orphans 0 on disk. S6 length - all 27 site-content over-hard offenders
+    are in the Vetoed bank (filter-theory 33x, quantum-biology 14x, phenomenal-authority
+    8x, predictive-processing 7x and more), DEFERRED-TO-HUMAN (epistemology-of-convergence-arguments
+    6479w crit, edge-states-and-void-probes, laws-and-dispositions), veto-tagged in
+    Active (meaning-of-life, phenomenal-output-causal-machinery-dissociation), open
+    HUMAN LENGTH DECISION (synesthetic-void), or recently deep-reviewed-and-accepted
+    as survey content (all sampled offenders last_deep_review within 2-3 weeks) - no
+    fresh actionable condense candidate. S7 positions audit not due (19 entries across
+    4 domains, last audit 06-16 inside 30d). S8 applied-apex clusters still too small
+    vs existing applied apex coverage. No todo.md mutation."
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
