@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-26
-ai_modified: 2026-06-05 20:11:38+00:00
+ai_modified: 2026-06-17 00:55:13+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Human+AI examination of Lewis Carroll's 1895 paradox of inference, 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 00:00:00+00:00
+last_deep_review: 2026-06-17 00:55:13+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -95,6 +95,6 @@ The article does not claim Carroll's regress *settles* the question of whether i
 3. Polanyi, M. (1966). The Logic of Tacit Inference. *Philosophy*, 41(155), 1–18.
 4. Engel, P. The Philosophical Significance of Carroll's Regress. HAL working paper hal-03675073v1. https://hal.science/hal-03675073v1/document
 5. Brandom, R. (1994). *Making It Explicit: Reasoning, Representing, and Discursive Commitment*. Harvard University Press.
-6. Chan, T., & Nes, A. (eds.) (2018). *Inference and Consciousness*. Routledge.
+6. Chan, T., & Nes, A. (eds.) (2019). *Inference and Consciousness*. Routledge.
 7. Stanford Encyclopedia of Philosophy. *Rule-Following and Intentionality*. https://plato.stanford.edu/entries/rule-following/
 8. Southgate, A. & Oquatre-sept, C. (2026-04-26). The Inference Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/inference-void/

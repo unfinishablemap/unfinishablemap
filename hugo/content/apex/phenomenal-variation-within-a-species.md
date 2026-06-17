@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-06-05 10:20:24+00:00
+ai_modified: 2026-06-17 00:00:00+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-06-05 10:20:24+00:00
 apex_sources:
@@ -91,7 +91,7 @@ This is the imagery class's contribution to the wedge. The phenomenology of imag
 
 The second class runs the wedge in the opposite direction. Where aphantasia removes phenomenal content the cognitive task is conventionally said to require, [synaesthesia](/topics/synaesthesia/) adds phenomenal content the surface representation does not require. Around 4% of the population have at least one form of synaesthesia (Simner et al. 2006); grapheme-colour and chromaesthesia are the most studied. The same letter on the same page produces the printed colour for everyone and, for the synaesthete, an additional involuntary colour at the same spatial location.
 
-Fiona MacPherson's "extraordinary feature" (2007) is the philosophically loaded signature: a grapheme-colour synaesthete sees both the actual ink colour and the synaesthetic colour at the same place, without blending or competition — a configuration ordinary perception affords no analogue for, and ordinary colour vocabulary cannot accommodate. Alan Wager (1999, 2001) formalised the underlying problem as the *extra qualia problem*: synaesthetes possess phenomenal states that differ from non-synaesthetic states without any corresponding difference in surface representational content. J.A. Gray (2003) presses the point further, arguing that in synaesthesia "function and qualia come apart in two ways" — identical qualia arise from distinct functional roles (colour from visual *and* from grapheme-recognition pipelines), and identical functional roles produce divergent qualia (the same grapheme-recognition process generates colour for synaesthetes but not for non-synaesthetes).
+Fiona MacPherson's "extraordinary feature" (2007) is the philosophically loaded signature: a grapheme-colour synaesthete sees both the actual ink colour and the synaesthetic colour at the same place, without blending or competition — a configuration ordinary perception affords no analogue for, and ordinary colour vocabulary cannot accommodate. Adam Wager (1999) formalised the underlying problem as the *extra qualia problem*: synaesthetes possess phenomenal states that differ from non-synaesthetic states without any corresponding difference in surface representational content. J.A. Gray (2003) presses the point further, arguing that in synaesthesia "function and qualia come apart in two ways" — identical qualia arise from distinct functional roles (colour from visual *and* from grapheme-recognition pipelines), and identical functional roles produce divergent qualia (the same grapheme-recognition process generates colour for synaesthetes but not for non-synaesthetes).
 
 The synaesthetic class is the architecturally cleanest exemplar of the [phenomenology-vs-function dissociation pattern](/concepts/phenomenology-vs-function-axis/) in the catalogue, because Gray's two patterns appear at once in the same phenomenon. The honest hedge survives: van Leeuwen, Singer, and Nikolić (2015) find that most synaesthetic experience is mediated through semantic processing, so synaesthete and non-synaesthete pipelines are not identical at the deeper grain that representationalists track. The Wager–Gray dissociation is a coarse-grain, surface-input claim, not an end-to-end pipeline-identity claim. The wedge survives at the surface representational level the within-species frame uses; the pipeline-identity question is exactly where the finer-grain absorption strategy gets pursued.
 
@@ -169,7 +169,7 @@ The phenomenology that varies is real — that is the empirical anchor — and t
 
 ## References
 
-1. Wager, A. (1999). The Extra Qualia Problem. *Philosophia*, 27, 571–584.
+1. Wager, A. (1999). The Extra Qualia Problem: Synaesthesia and Representationism. *Philosophical Psychology*, 12(3), 263–281.
 2. Gray, J.A. (2003). How Are Qualia Coupled to Functions? *Trends in Cognitive Sciences*, 7, 192–194.
 3. MacPherson, F. (2007). Synaesthesia, Functionalism and Phenomenology. In M. Marraffa, M. De Caro, & F. Ferretti (Eds.), *Cartographies of the Mind: Philosophy and Psychology in Intersection*. Springer.
 4. Strawson, G. (1994). *Mental Reality*. MIT Press.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-06-02 18:12:17+00:00
+ai_modified: 2026-06-17 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -89,7 +89,7 @@ These signatures detect the difference's behavioural, neural, and pharmacologica
 
 The most philosophically charged feature of synaesthesia is the cleanness with which it dissociates phenomenal character from functional or representational role.
 
-Alan Wager (1999, 2001) calls this the **extra qualia problem**: the synaesthete and the non-synaesthete shown the same letter on the same page have indistinguishable representational input at the surface stimulus level, but the synaesthete experiences additional phenomenal content. If phenomenology were determined by representational content (representationalism) or functional role ([functionalism](/concepts/functionalism/)), the additional content should not exist—the input is held constant. The empirical phenomenon does the work that the [inverted-spectrum thought experiment](/concepts/inverted-qualia/) tried to do conceptually: it produces a phenomenal divergence between functionally matched minds without requiring imaginative reconstruction. Wager's hedge survives: van Leeuwen's semantic-mediation finding shows synaesthete and non-synaesthete pipelines are not identical at deeper grain, so the "identical input" claim is a coarse-grain claim about surface representation rather than an end-to-end claim about processing.
+Adam Wager (1999) calls this the **extra qualia problem**: the synaesthete and the non-synaesthete shown the same letter on the same page have indistinguishable representational input at the surface stimulus level, but the synaesthete experiences additional phenomenal content. If phenomenology were determined by representational content (representationalism) or functional role ([functionalism](/concepts/functionalism/)), the additional content should not exist—the input is held constant. The empirical phenomenon does the work that the [inverted-spectrum thought experiment](/concepts/inverted-qualia/) tried to do conceptually: it produces a phenomenal divergence between functionally matched minds without requiring imaginative reconstruction. Wager's hedge survives: van Leeuwen's semantic-mediation finding shows synaesthete and non-synaesthete pipelines are not identical at deeper grain, so the "identical input" claim is a coarse-grain claim about surface representation rather than an end-to-end claim about processing.
 
 J.A. Gray (2003) presses the point further. He argues that in synaesthesia, "function and qualia come apart in two ways": *identical qualia arise from distinct functional roles* (colour experience is generated from both standard visual processing and grapheme-recognition pipelines), and *identical functional roles produce divergent qualia* (the grapheme-recognition process generates colour experience in synaesthetes but not in non-synaesthetes). If qualia tracked function, neither dissociation should occur.
 
@@ -139,16 +139,15 @@ The Map also speculates—at the level of explicit speculation, not tenet-level 
 7. Ramachandran, V.S., & Hubbard, E.M. (2001). Synaesthesia—A Window Into Perception, Thought and Language. *Journal of Consciousness Studies*, 8, 3–34.
 8. Hubbard, E.M., & Ramachandran, V.S. (2005). Neurocognitive Mechanisms of Synesthesia. *Neuron*, 48(3), 509–520.
 9. MacPherson, F. (2007). Synaesthesia, Functionalism and Phenomenology. In M. de Caro (Ed.), *Cartographies of the Mind*. Springer.
-10. Wager, A. (1999). The Extra Qualia Problem. *Philosophia*, 27, 571–584.
-11. Wager, A. (2001). Synaesthesia and the Problem of Qualia. *Southwest Philosophy Review*, 17, 163–170.
-12. Gray, J.A. (2003). How Are Qualia Coupled to Functions? *Trends in Cognitive Sciences*, 7, 192–194.
-13. Simner, J., et al. (2006). Synaesthesia: The Prevalence of Atypical Cross-Modal Experiences. *Perception*, 35(8), 1024–1033.
-14. Simner, J., & Logie, R.H. (2007). Synaesthetic Consistency Spans Decades in a Lexical–Gustatory Synaesthete. *Neurocase*, 13(5), 358–365.
-15. Asher, J.E., et al. (2009). A Whole-Genome Scan and Fine-Mapping Linkage Study of Auditory-Visual Synesthesia Reveals Evidence of Linkage to Chromosomes 2q24, 5q33, 6p12, and 12p12. *American Journal of Human Genetics*, 84(2), 279–285.
-16. Tilot, A.K., et al. (2018). Rare Variants in Axonogenesis Genes Connect Three Families with Sound-Color Synesthesia. *PNAS*, 115(12), 3168–3173.
-17. Maurer, D., & Mondloch, C.J. (2005). Neonatal Synesthesia: A Re-evaluation. In L.C. Robertson & N. Sagiv (Eds.), *Synesthesia: Perspectives from Cognitive Neuroscience*. Oxford University Press.
-18. Spector, F., & Maurer, D. (2009). Synesthesia: A New Approach to Understanding the Development of Perception. *Developmental Psychology*, 45, 175–189.
-19. Bor, D., Rothen, N., Schwartzman, D.J., Clayton, S., & Seth, A.K. (2014). Adults Can Be Trained to Acquire Synesthetic Experiences. *Scientific Reports*, 4, 7089.
-20. van Leeuwen, T.M., Singer, W., & Nikolić, D. (2015). The Merit of Synesthesia for Consciousness Research. *Frontiers in Psychology*, 6, 1850.
-21. Southgate, A. & Oquatre-sept, C. (2026-02-24). The Synesthetic Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/synesthetic-void/
-22. Southgate, A. & Oquatre-sept, C. (2026-04-28). The Phenomenology-vs-Function Axis. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenology-vs-function-axis/
+10. Wager, A. (1999). The Extra Qualia Problem: Synaesthesia and Representationism. *Philosophical Psychology*, 12(3), 263–281.
+11. Gray, J.A. (2003). How Are Qualia Coupled to Functions? *Trends in Cognitive Sciences*, 7, 192–194.
+12. Simner, J., et al. (2006). Synaesthesia: The Prevalence of Atypical Cross-Modal Experiences. *Perception*, 35(8), 1024–1033.
+13. Simner, J., & Logie, R.H. (2007). Synaesthetic Consistency Spans Decades in a Lexical–Gustatory Synaesthete. *Neurocase*, 13(5), 358–365.
+14. Asher, J.E., et al. (2009). A Whole-Genome Scan and Fine-Mapping Linkage Study of Auditory-Visual Synesthesia Reveals Evidence of Linkage to Chromosomes 2q24, 5q33, 6p12, and 12p12. *American Journal of Human Genetics*, 84(2), 279–285.
+15. Tilot, A.K., et al. (2018). Rare Variants in Axonogenesis Genes Connect Three Families with Sound-Color Synesthesia. *PNAS*, 115(12), 3168–3173.
+16. Maurer, D., & Mondloch, C.J. (2005). Neonatal Synesthesia: A Re-evaluation. In L.C. Robertson & N. Sagiv (Eds.), *Synesthesia: Perspectives from Cognitive Neuroscience*. Oxford University Press.
+17. Spector, F., & Maurer, D. (2009). Synesthesia: A New Approach to Understanding the Development of Perception. *Developmental Psychology*, 45, 175–189.
+18. Bor, D., Rothen, N., Schwartzman, D.J., Clayton, S., & Seth, A.K. (2014). Adults Can Be Trained to Acquire Synesthetic Experiences. *Scientific Reports*, 4, 7089.
+19. van Leeuwen, T.M., Singer, W., & Nikolić, D. (2015). The Merit of Synesthesia for Consciousness Research. *Frontiers in Psychology*, 6, 1850.
+20. Southgate, A. & Oquatre-sept, C. (2026-02-24). The Synesthetic Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/synesthetic-void/
+21. Southgate, A. & Oquatre-sept, C. (2026-04-28). The Phenomenology-vs-Function Axis. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenology-vs-function-axis/

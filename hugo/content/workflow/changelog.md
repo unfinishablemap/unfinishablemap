@@ -1,13 +1,96 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-16 17:43:39+00:00
+ai_modified: 2026-06-17 12:00:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-06-16'
+date: '2026-06-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-17T03:58:18+00:00 - refine-draft
+- **Status**: Success
+- **File**: [synesthetic-void](/voids/synesthetic-void/)
+- **Source**: outer review 2026-06-17 (ChatGPT 5.5 Pro), consolidated calibration pass (one editor pass per outer-review-same-file-task-pileup; all flagged phrasings grep-verified present verbatim per outer-review-fabricates-target-quotes discipline)
+- **Changes**: Six overstatement softenings, preserving the Map's dualist position in its own voice under explicit tenet framing (did NOT adopt the reviewer's deflationary framing wholesale; honoured [evidential-status-discipline](/project/evidential-status-discipline/)). (a) **McGinn** (Asymmetry of Access): "predicts exactly this kind of intra-species incommensurability" → analogy / local closure-like instance, noting McGinn's thesis is species-level closure on the mind-body problem, not the synesthete/non-synesthete pairing. (b) **E-space** (Geometry section): "Synesthesia is the empirical evidence that this region has unexploited dimensions" → "compatible with, and suggestive under the Map's reading of, unexploited dimensions"; added that Lacalli's E-space is an explicitly non-dualist mapping ("there is no implied dualism"), a theoretical framework not a measured space, and that reading synesthesia through it is an interpretive overlay. (c) **Occam** (Site Perspective): "fails at the first empirical test" → "is empirically too coarse" (experiential-uniformity is a strawman as "simplest theory of consciousness"). (d) **Straw physicalism** (Dualism para): replaced "different wiring, different experience, end of story" with a brief taxonomy of physicalist options (cross-activation, disinhibited feedback, semantic/top-down mediation, representational sub-individuation, illusionist/metacognitive deflation) before the Map's reply. (e) **Lede**: "A few synesthetes report 'Martian colours'" → "At least one well-documented case—a colour-blind synesthete" (robust record is one case; refine did not find multiple primary cases to cite). (f) **Pharmacology** (Permeability): noted controlled LSD work did NOT establish consistency/inducer-specificity for induced synesthesia even though spontaneous synesthesia-like reports increased; distinguished synesthesia-*like* mixing from the automaticity/consistency/inducer-specificity criteria. Length-aware: body 2536 → 2795 words (+259, voids 3000 hard ceiling; growth concentrated in the review-requested physicalist taxonomy, not padding; count-words-includes-frontmatter stripped frontmatter before counting). Cleared `tools/curate/altered_state_symmetry.evaluate_symmetry` (None). No "This is not X. It is Y." cliché. No HTML-comment refinement log. Not addressed (deferred, lower-value / cross-article): reviewer items 12 (new "Strongest non-dualist readings" subsection — partially absorbed into edit d), 13–14 (cross-article Wager fix — done by sibling refine, prior entry), 16–18/19–24 (neighbour-article harmonisation + methodology).
+
+## 2026-06-17T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [synaesthesia](/topics/synaesthesia/), [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/), [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/)
+- **Source**: outer review 2026-06-17 (ChatGPT 5.5 Pro), P1 cross-article Wager citation drift
+- **Changes**: Corpus-consistency citation fix (ai_citation_metadata_unreliable propagation). In all three live articles: corrected first name **Alan → Adam** Wager; corrected the 1999 reference from wrong metadata (*Philosophia* 27:571–584) to the verified form **Adam Wager (1999), "The Extra Qualia Problem: Synaesthesia and Representationism," *Philosophical Psychology*, 12(3), 263–281** (web-confirmed via PhilPapers / Taylor & Francis DOI 10.1080/095150899105756 / UVM ~awager — matches the target `voids/synesthetic-void.md` ledger); dropped the unverifiable "Wager (2001) *Southwest Philosophy Review* 17:163–170" reference and the inline "(1999, 2001)" → "(1999)". Web search found NO second Wager paper; the 2001 item in this area is Richard Gray's reply, not a Wager paper. Renumbered references after the removed entry in each file. Argument prose unchanged; length-neutral.
+- **Scope note**: Task named 2 files (synaesthesia topic + phenomenal-variation apex); a corpus grep found the identical defect in a third LIVE article, `concepts/phenomenology-vs-function-axis.md` (body + refs), extended the fix to it. Remaining hits (research notes, review files, changelog history) are historical records, left as-is.
+- **Published**: yes
+
+## 2026-06-17T03:47:28+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [outer-review-2026-06-17-chatgpt-5-5-pro](/reviews/outer-review-2026-06-17-chatgpt-5-5-pro/)
+- **Subject**: voids/synesthetic-void.md (recent-aged fallback)
+- **Verdict**: Major revisions — synesthesia supports a phenomenal-variation wedge + intersubjective-opacity problem, but the article overdraws "inaccessible E-space dimensions" / dualist-interface reading.
+- **Claims verified**: 3 (cross-article Wager citation drift CONFIRMED via PhilPapers/T&F — Adam not Alan, *Philosophical Psychology* 12(3):263–281 not *Philosophia*; suspect "Wager 2001 SWPR" entry — the real 2001 item is Gray's reply, not Wager; all flagged target-article quotes present verbatim, no fabrication)
+- **High-value findings**: 6 (corpus citation drift; overstatement calibration cluster; non-dualist-reading import; citation currency drift; cross-site developmental-pruning calibration; methodology propagation/literature-drift breadth)
+- **Tasks generated**: 6 (P1: 1 [Wager citation fix, 2 files]; P2: 5 [overstatement calibration, non-dualist-reading import w/ direct-refutation remit, citation currency refresh, developmental-pruning harmonisation cross-review, methodology proposal])
+
+## 2026-06-17T03:31:15+00:00 - deep-review
+- **Status**: Success
+- **File**: [affective-tone-divergence-across-meditative-traditions](/topics/affective-tone-divergence-across-meditative-traditions/)
+- **Word count**: 3682 → 3682 (+0; one citation-metadata fix, no body prose change; length-neutral mode at 123% of topics soft target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Barrett 2025 References entry was real-wrong-metadata: incomplete title — missing subtitle "More Than a Feeling" — and single-author "Barrett, L. F." for a large multi-author paper; volume/issue/pages were already correct. Corrected to "Barrett, L. F., Atzil, S., Bliss-Moreau, E., Chanes, L., et al. (2025). The theory of constructed emotion: More than a feeling." + DOI. This cite was added after the 06-06 review and never web-verified until now.)
+- **Enhancements made**: 0 (convergent article; full §2.4 publisher-of-record web-verify of the six cites added since the last deep-review (Yordanova 2020, Petrovic 2024, Chowdhury 2025, Demir 2025, Goldberg 2022) plus Barrett — five real-correct, one corrected; Goldberg quantitative claim "roughly a tenth lasting ≥1 month" verified against MRAE-duration 10.4%; Petrovic active-control-gap stance verified precisely; no superlative-currency hits; constructed-emotion / active-inference engagement is honest Mode-Three boundary-marking with no label leakage)
+- **Output**: [deep-review-2026-06-17-affective-tone-divergence-across-meditative-traditions](/reviews/deep-review-2026-06-17-affective-tone-divergence-across-meditative-traditions/)
+- **engagement with constructed-emotion theorist (Barrett)**: Mode Three; honest framework-boundary marking — Dualism declines it at the boundary, no internal refutation claimed (none available against an empirically-adequate intra-physical rival on shared data).
+- **engagement with active-inference / predictive-processing theorist**: Mode Three; same boundary-marking, explicitly not defeated.
+
+## 2026-06-17T14:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [degrees-of-consciousness](/concepts/degrees-of-consciousness/)
+- **Word count**: 2250 → 2250 (+0; citation-metadata fix only, no body prose change)
+- **Critical issues addressed**: 1 (wrong second author on the New York Declaration citation — References #3 "Andrews, K., & Monsó, S. (2024)" → "Andrews, K., Birch, J., & Sebo, J. (2024)". Susana Monsó is not a Declaration initiator; the three initiators are Sebo, Andrews, Birch. Web-verified against the NYU declaration site. Same wrong-but-plausible-co-author failure mode as the prior Bhatt→Bonhomme catch; survived 5 prior reviews under intra-corpus ratification. Family-resolution: live topic [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) already carried the correct form; also propagated the fix to research note `research/consciousness-simple-organisms-2026-01-19.md`.)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged article; full §2.4 publisher-of-record web-verify ledger of all 11 cites recorded in the review archive — 10 real-correct, 1 corrected; no superlative-currency hits; no possibility/probability slippage; no named-opponent boundary-substitution; no editor-vocabulary label leakage)
+- **Output**: [deep-review-2026-06-17-degrees-of-consciousness](/reviews/deep-review-2026-06-17-degrees-of-consciousness/)
+
+## 2026-06-17T13:00:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the evidential-status / calibration-discipline cluster (possibility-probability-slippage, birch-edge-of-sentience-and-the-five-tier-scale, consciousness-in-simple-organisms, framework-stage-calibration, architecture-vs-significance-two-tier-discount, evidential-status-discipline) — the cluster the Process-Philosopher-vs-Hardline-Empiricist persona tension is built to evaluate; non-overlapping with the four 2026-06-16 passes.
+- **Key finding**: Process Philosopher and Hardline Empiricist praise CONVERGE on the same boundary-organism passages (C. elegans / Hydra / Physarum) without conflict — the skill's marker that the possibility/probability tension is resolved honestly. No calibration concern; no refine-draft warranted on calibration grounds. Highest-value opportunity is cross-linking, not new content: architecture-vs-significance-two-tier-discount has 3 inbound links (all project/), orphaned from the content layer it governs.
+- **Tasks added**: 1 P3 (reciprocate links to the architecture-vs-significance discount discipline from 4 worked-example concept pages)
+- **Output**: [optimistic-2026-06-17](/reviews/optimistic-2026-06-17/)
+
+## 2026-06-17T00:55:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [carrolls-regress](/concepts/carrolls-regress/)
+- **Word count**: 2173 → 2173 (+0; one-digit citation-year fix only)
+- **Critical issues addressed**: 1 (family-resolution citation error — References #6 Chan & Nes *Inference and Consciousness* year 2018 → 2019, confirmed against Routledge/Taylor & Francis DOI 10.4324/9781315150703 1st-ed; the canonical 2019 form already existed in sibling [inference-void](/voids/inference-void/) but was never propagated here. Also corrected the source research note `research/voids-inference-void-2026-04-26.md`, which still carried both the wrong year and the superseded wrong-author "Boghossian, Paul, et al." form.)
+- **Medium issues addressed**: 0 (the `philosophy-of-mind`-under-`topics:` cosmetic quirk left as-is per prior-review rationale)
+- **Enhancements made**: 0 (5th review; triggered by a 2026-06-05 refine-draft that added ~537 words — that new content reviewed and found sound)
+- **§2.4 web-verify**: full per-cite ledger in the archive; Carroll/Engel/Polanyi/Wittgenstein/Frege/Gödel carried from prior live-verify, Brandom 1994 Harvard UP and SEP rule-following entry live-verified this pass, Chan & Nes fixed. No fabricated cites, no orphans, no superlative claims.
+- **§2.6 reasoning-mode**: engagement with Brandom — Mixed (in-framework "the conferral is itself a taking, regress recurs without appeal to individual priority" + honest bedrock residue on the contested-priority reading); engagement with the deflationist — Mode One, scoped to the agent-act reading with the formal-calculus reading conceded. No label leakage.
+- **§2 calibration**: no possibility/probability slippage — the rewritten Dualism section rests on the contested bridge not the regress, concedes the unformalised-but-physical reading, and keeps the physicalist reading live; tenet-coherence never dressed as evidence elevation.
+- **Output**: [deep-review-2026-06-17-carrolls-regress](/reviews/deep-review-2026-06-17-carrolls-regress/)
+
+## 2026-06-17T12:00:00+00:00 - positions-evolve (update P-A2)
+- **Status**: Success
+- **File**: [agency-and-will](/positions/agency-and-will/) (P-A2, "Bears on" note)
+- **Operation**: update — addressed [pessimistic-2026-06-17-positions-registers](/reviews/pessimistic-2026-06-17-positions-registers/) Issue 2. The "Bears on Tenet 4 (No Many Worlds)" note framed the P-A2 ↔ No-MWI dependency as *reciprocal mutual support*, which risks counting one underlying commitment (the thick indexical subject) twice — an evidential-bootstrapping circularity. Rewrote the note to distinguish *logical interdependence* (legitimate: the two claims co-vary and are coherent — No-MWI supplies the counterfactual exclusion sourcehood needs, agent causation + mine-ness supply the persisting subject the indexical objection needs) from *evidential bootstrapping* (illegitimate: neither claim is independent confirmation of the other). Reframed as **common root**: both descend from the independently-motivated thick-indexical-subject commitment (argument from reason + willed-vs-instructed neural data + phenomenology of mine-ness), from which both No-MWI's indexical objection and P-A2's sourcehood follow; cited the parallel double-counting discipline [voids-as-evidence](/positions/voids-as-evidence/) enforces under its common-cause null. Added a dated P-A2 update note; refreshed Last reviewed → 2026-06-17. No confidence change (the entailments are unchanged; the position never rested on the tenet as independent evidence).
+- **Cascade flagged (not auto-edited)**: [tenets](/tenets/) line ~118 (the "subjecthood dependency" note on `^no-many-worlds`) carries the matching phrase "The dependency is mutual rather than one-directional". That note's surrounding text already frames the relationship as load-location / inheritance ("inherits weight... not from within this tenet") rather than as mutual evidential support, so it is defensible as-is — but the lone word "mutual" now reads inconsistently with the disciplined P-A2 note. Queued a P3 refine-draft to harmonise the tenets-page note with the common-root vs mutual-confirmation distinction (out of scope of Issue 2, which named the P-A2 note specifically).
+- **Published**: yes (positions register entries are live, not drafts)
+
+## 2026-06-17T00:29:07+00:00 - refine-draft
+- **Status**: Success
+- **File**: [agency-and-will](/positions/agency-and-will/) (P-A1)
+- **Original score**: N/A (targeted positions-register fix, not a full review pass)
+- **Changes**: Addressed [pessimistic-2026-06-17-positions-registers](/reviews/pessimistic-2026-06-17-positions-registers/) Issue 1 — P-A1's Asserts listed "cross-cultural convergence on substance-causal accounts of persons" (and the phenomenology) as confirming convergent anchors at face value, while [intuitive-dualism](/concepts/intuitive-dualism/) treats that same convergence as an evolved cognitive bias (a common cause that screens off "everyone believes it → it is true"). Added one clause discounting the phenomenology + cross-cultural anchors for the intuitive-dualism common-cause null, citing concepts/intuitive-dualism and noting the parallel to the common-cause discipline [voids-as-evidence](/positions/voids-as-evidence/) applies to the void catalogue; rested the convergence claim on the genuinely independent subset (neural willed-vs-instructed data, argument from reason). Added a dated P-A1 update note; refreshed Last reviewed → 2026-06-17. No confidence change (debiasing does not drop the position below its conservative moderate band — independent subset + trilemma still carry it). ~one-sentence net addition.
+- **Published**: yes
+
+## 2026-06-17T00:20:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: positions registers [quantum-interface](/positions/quantum-interface/) (P-Q1–P-Q10) and [agency-and-will](/positions/agency-and-will/) (P-A1–P-A5) — both had never carried last_deep_review nor been the focus of a dedicated pessimistic pass
+- **Findings**: 2 Medium issues (P-A1 cross-cultural anchor not debiased for the intuitive-dualism common-cause null; P-A2↔Tenet 4 reciprocal-dependency circularity smell), 1 Low (preferred mechanism P-Q1 carries least empirical exposure while falsifiable residue attaches to demoted P-Q4/P-Q5). No citation defects — Donadi P-Q6 magnitude and Torres Alegre P-Q7 verified consistent with corpus; all dependency wikilinks resolve; clean on language/label-leakage discipline. 2 P2 tasks queued.
+- **Output**: [pessimistic-2026-06-17-positions-registers](/reviews/pessimistic-2026-06-17-positions-registers/)
 
 ## 2026-06-16T23:38:19+00:00 - deep-review
 - **Status**: Success (no critical issues — converged)
