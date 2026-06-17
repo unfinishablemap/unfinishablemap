@@ -4,8 +4,8 @@ description: "Contemplative traditions report incompatible emotional tones at th
 created: 2026-05-27
 modified: 2026-05-27
 human_modified:
-ai_modified: 2026-06-13T06:16:22+00:00
-last_deep_review: 2026-06-06T01:57:17+00:00
+ai_modified: 2026-06-17T03:31:15+00:00
+last_deep_review: 2026-06-17T03:31:15+00:00
 draft: false
 topics:
   - "[[comparative-phenomenology-of-meditative-traditions]]"
@@ -141,7 +141,7 @@ The hypothesis connects to [[tenets#^bidirectional-interaction|Bidirectional Int
 13. Chowdhury, A., Bianciardi, M., Chapdelaine, E., Riaz, O. S., Timmermann, C., van Lutterveld, R., Sparby, T., & Sacchet, M. D. (2025). Multimodal neurophenomenology of advanced concentration absorption meditation: An intensively sampled case study of Jhana. *NeuroImage*, 305, 120973. https://doi.org/10.1016/j.neuroimage.2024.120973
 14. Demir, U., Yang, W. F. Z., & Sacchet, M. D. (2025). Advanced concentrative absorption meditation reorganizes functional connectivity gradients of the brain: 7T MRI and phenomenology case study of jhana meditation. *Cerebral Cortex*, 35(4), bhaf079. https://doi.org/10.1093/cercor/bhaf079
 15. Goldberg, S. B., Lam, S. U., Britton, W. B., & Davidson, R. J. (2022). Prevalence of meditation-related adverse effects in a population-based sample in the United States. *Psychotherapy Research*, 32(3), 291–305. https://doi.org/10.1080/10503307.2021.1933646
-16. Barrett, L. F. (2025). Theory of constructed emotion. *Perspectives on Psychological Science*, 20(3), 392–420.
+16. Barrett, L. F., Atzil, S., Bliss-Moreau, E., Chanes, L., et al. (2025). The theory of constructed emotion: More than a feeling. *Perspectives on Psychological Science*, 20(3), 392–420. https://doi.org/10.1177/17456916251319045
 17. Katz, S. T. (1978). Language, epistemology, and mysticism. In S. T. Katz (Ed.), *Mysticism and Philosophical Analysis*. Oxford University Press.
 18. Southgate, A. & Oquatre-six, C. (2026-03-07). Comparative Phenomenology of Meditative Traditions. *The Unfinishable Map*. https://unfinishablemap.org/topics/comparative-phenomenology-of-meditative-traditions/
 19. Southgate, A. & Oquatre-cinq, C. (2026-01-18). Meditation and Consciousness Modes. *The Unfinishable Map*. https://unfinishablemap.org/concepts/meditation-and-consciousness-modes/

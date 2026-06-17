@@ -5,6 +5,17 @@ ai_modified: 2026-06-17 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-17T03:31:15+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/affective-tone-divergence-across-meditative-traditions]]
+- **Word count**: 3682 → 3682 (+0; one citation-metadata fix, no body prose change; length-neutral mode at 123% of topics soft target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Barrett 2025 References entry was real-wrong-metadata: incomplete title — missing subtitle "More Than a Feeling" — and single-author "Barrett, L. F." for a large multi-author paper; volume/issue/pages were already correct. Corrected to "Barrett, L. F., Atzil, S., Bliss-Moreau, E., Chanes, L., et al. (2025). The theory of constructed emotion: More than a feeling." + DOI. This cite was added after the 06-06 review and never web-verified until now.)
+- **Enhancements made**: 0 (convergent article; full §2.4 publisher-of-record web-verify of the six cites added since the last deep-review (Yordanova 2020, Petrovic 2024, Chowdhury 2025, Demir 2025, Goldberg 2022) plus Barrett — five real-correct, one corrected; Goldberg quantitative claim "roughly a tenth lasting ≥1 month" verified against MRAE-duration 10.4%; Petrovic active-control-gap stance verified precisely; no superlative-currency hits; constructed-emotion / active-inference engagement is honest Mode-Three boundary-marking with no label leakage)
+- **Output**: [[reviews/deep-review-2026-06-17-affective-tone-divergence-across-meditative-traditions]]
+- **engagement with constructed-emotion theorist (Barrett)**: Mode Three; honest framework-boundary marking — Dualism declines it at the boundary, no internal refutation claimed (none available against an empirically-adequate intra-physical rival on shared data).
+- **engagement with active-inference / predictive-processing theorist**: Mode Three; same boundary-marking, explicitly not defeated.
+
 ## 2026-06-17T14:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/degrees-of-consciousness]]
