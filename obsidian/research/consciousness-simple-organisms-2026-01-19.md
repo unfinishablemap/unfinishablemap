@@ -302,7 +302,7 @@ Central theme: the simplest explanation (no consciousness in simple organisms) m
 
 ## Citations
 
-- Andrews, K., & Monsó, S. (2024). New York Declaration on Animal Consciousness. NYU Conference on the Emerging Science of Animal Consciousness.
+- Andrews, K., Birch, J., & Sebo, J. (2024). New York Declaration on Animal Consciousness. The Emerging Science of Animal Consciousness Conference, New York University.
 - Becerra, D., et al. (2023). "The Conscious Nematode: Exploring Hallmarks of Minimal Phenomenal Consciousness in Caenorhabditis Elegans." *International Journal of Psychological Research*, 16(2), 87-102.
 - Bhattacharjee, P., et al. (2023). "On being a Hydra with, and without, a nervous system: what do neurons add?" *Animal Cognition*.
 - Birch, J. (2022). "The search for invertebrate consciousness." *Noûs*, 56(1), 133-153.

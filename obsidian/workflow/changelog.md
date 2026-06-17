@@ -5,6 +5,15 @@ ai_modified: 2026-06-17 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-17T14:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/degrees-of-consciousness]]
+- **Word count**: 2250 → 2250 (+0; citation-metadata fix only, no body prose change)
+- **Critical issues addressed**: 1 (wrong second author on the New York Declaration citation — References #3 "Andrews, K., & Monsó, S. (2024)" → "Andrews, K., Birch, J., & Sebo, J. (2024)". Susana Monsó is not a Declaration initiator; the three initiators are Sebo, Andrews, Birch. Web-verified against the NYU declaration site. Same wrong-but-plausible-co-author failure mode as the prior Bhatt→Bonhomme catch; survived 5 prior reviews under intra-corpus ratification. Family-resolution: live topic [[topics/consciousness-in-simple-organisms]] already carried the correct form; also propagated the fix to research note `research/consciousness-simple-organisms-2026-01-19.md`.)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged article; full §2.4 publisher-of-record web-verify ledger of all 11 cites recorded in the review archive — 10 real-correct, 1 corrected; no superlative-currency hits; no possibility/probability slippage; no named-opponent boundary-substitution; no editor-vocabulary label leakage)
+- **Output**: [[reviews/deep-review-2026-06-17-degrees-of-consciousness]]
+
 ## 2026-06-17T13:00:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: the evidential-status / calibration-discipline cluster (possibility-probability-slippage, birch-edge-of-sentience-and-the-five-tier-scale, consciousness-in-simple-organisms, framework-stage-calibration, architecture-vs-significance-two-tier-discount, evidential-status-discipline) — the cluster the Process-Philosopher-vs-Hardline-Empiricist persona tension is built to evaluate; non-overlapping with the four 2026-06-16 passes.

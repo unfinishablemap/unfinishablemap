@@ -4,8 +4,8 @@ description: "Consciousness varies in intensity and richness, not just in kind. 
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-06-01T13:09:47+00:00
-last_deep_review: 2026-06-01T00:00:00+00:00
+ai_modified: 2026-06-17T00:00:00+00:00
+last_deep_review: 2026-06-17T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -138,7 +138,7 @@ Degrees of consciousness raise a fundamental question: is there a lowest degree,
 
 1. Block, N. (1995). On a Confusion about a Function of Consciousness. *Behavioral and Brain Sciences*, 18(2), 227-247.
 2. Tononi, G. (2008). Consciousness as Integrated Information: A Provisional Manifesto. *Biological Bulletin*, 215(3), 216-242.
-3. Andrews, K., & Monsó, S. (2024). New York Declaration on Animal Consciousness. NYU Conference on the Emerging Science of Animal Consciousness.
+3. Andrews, K., Birch, J., & Sebo, J. (2024). The New York Declaration on Animal Consciousness. The Emerging Science of Animal Consciousness Conference, New York University, 19 April 2024.
 4. Bodien, Y.G., Claassen, J., et al. (2024). Cognitive Motor Dissociation in Disorders of Consciousness. *New England Journal of Medicine*, 391(7), 598-608.
 5. Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
 6. Metzinger, T. (2020). Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness. *Philosophy and the Mind Sciences*, 1(I), 7.

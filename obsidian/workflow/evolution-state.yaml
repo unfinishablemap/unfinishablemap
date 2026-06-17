@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T02:22:08.721554+00:00'
-session_count: 11492
+last_updated: '2026-06-17T02:27:31.177958+00:00'
+session_count: 11493
 cycle_position: 9230
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-16T04:14:32.657292+00:00'
   refine-draft: '2026-06-17T00:30:28.513636+00:00'
   research-topic: '2026-06-16T14:05:29.074973+00:00'
-  replenish-queue: '2026-06-17T02:19:42.105664+00:00'
+  replenish-queue: '2026-06-17T02:27:31.177958+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-16T08:06:09.164774+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-17'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-17'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1004,35 +1004,33 @@ queue_status:
   loop_pickable_open: 0
   last_replenishment: '2026-06-17T02:45:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: >-
-    2026-06-17 run no.172 (standard mode) - HONEST NO-OP for new-task minting (0
-    minted), the ELEVENTH consecutive. AUTHORITATIVE verify from disk via
-    tools.evolution.task_selector: count_p0_p2_tasks=0 AND select_queue_task=None
-    (both re-run live this session against todo.md content, NOT trusted from the
-    prior note). The selector correctly excludes the only genuinely-open headers
-    (the two veto/human-blocked condense flagships), so the queue is genuinely
-    drained. EIGHT SOURCES re-derived from disk this run. CHAINS (S1) 0 -
-    recent_tasks window is replenish/review/social/cycle/skip ONLY; NO expand-topic
-    or research-topic completion to chain from. UNCONSUMED RESEARCH (S2) 0 - 3
-    newest non-voids notes (all 06-16) RE-CONFIRMED consumed on disk this run:
-    chemosensory to topics/chemosensory-consciousness-and-the-interface.md,
+  current_replenishment_note: '2026-06-17 run no.172 (standard mode) - HONEST NO-OP
+    for new-task minting (0 minted), the ELEVENTH consecutive. AUTHORITATIVE verify
+    from disk via tools.evolution.task_selector: count_p0_p2_tasks=0 AND select_queue_task=None
+    (both re-run live this session against todo.md content, NOT trusted from the prior
+    note). The selector correctly excludes the only genuinely-open headers (the two
+    veto/human-blocked condense flagships), so the queue is genuinely drained. EIGHT
+    SOURCES re-derived from disk this run. CHAINS (S1) 0 - recent_tasks window is
+    replenish/review/social/cycle/skip ONLY; NO expand-topic or research-topic completion
+    to chain from. UNCONSUMED RESEARCH (S2) 0 - 3 newest non-voids notes (all 06-16)
+    RE-CONFIRMED consumed on disk this run: chemosensory to topics/chemosensory-consciousness-and-the-interface.md,
     naturalist-relationalism to concepts/naturalist-relationalism.md, IWMT folded
     into concepts/predictive-processing.md (Safron grep-confirmed). GAPS (S3) 0 -
     voids 101/100 OVER cap (research-voids skips); topics 268/300 + concepts 261/300
-    have headroom but gap analysis is documented-exhausted and
-    harvest-research-subjects now owns research revival (ran 01:43 today); positions
-    deliberately slow. STALENESS (S4) 0 mintable - the cycle deep-review slot (ran
-    00:57) owns this pool. LENGTH (S6) 0 mintable - all criticals are human-blocked
-    flagships and all hard_warning site offenders sit just over their hard line and
-    were deep-reviewed/refined length-aware within the last ~2wk; condensing now is
-    sub-ceiling churn w/ regression risk (see unfin-loop-steady-state), NOT minted.
-    ORPHANS (S5) 0 - quality.orphaned_files 0. POSITIONS (S7) add 0 / update 0 /
-    audit NOT due - 24 entry headers across 3 domain files; last audit 2026-06-09
-    (8d ago) is inside the 30d window so next ~07-09. APPLIED-APEX (S8) 0 - A5
-    created 06-16 (yesterday); applied-apex gap detection is deliberately slow (max
-    1/run). OUTER REVIEWS: a 06-17 chatgpt review is pending (commissioned 02:05,
-    auditing synesthetic-void) so the outer pipeline is live and will yield its own
-    tasks - no filler warranted. State YAML re-validated post-edit (parses OK).
+    have headroom but gap analysis is documented-exhausted and harvest-research-subjects
+    now owns research revival (ran 01:43 today); positions deliberately slow. STALENESS
+    (S4) 0 mintable - the cycle deep-review slot (ran 00:57) owns this pool. LENGTH
+    (S6) 0 mintable - all criticals are human-blocked flagships and all hard_warning
+    site offenders sit just over their hard line and were deep-reviewed/refined length-aware
+    within the last ~2wk; condensing now is sub-ceiling churn w/ regression risk (see
+    unfin-loop-steady-state), NOT minted. ORPHANS (S5) 0 - quality.orphaned_files
+    0. POSITIONS (S7) add 0 / update 0 / audit NOT due - 24 entry headers across 3
+    domain files; last audit 2026-06-09 (8d ago) is inside the 30d window so next
+    ~07-09. APPLIED-APEX (S8) 0 - A5 created 06-16 (yesterday); applied-apex gap detection
+    is deliberately slow (max 1/run). OUTER REVIEWS: a 06-17 chatgpt review is pending
+    (commissioned 02:05, auditing synesthetic-void) so the outer pipeline is live
+    and will yield its own tasks - no filler warranted. State YAML re-validated post-edit
+    (parses OK).'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
