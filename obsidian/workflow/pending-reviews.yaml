@@ -55,3 +55,31 @@
   subject_title: Full-site audit
   subject_articles: []
   subject_source: reuse:pending-reviews:outer-review-2026-06-16-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a3200b4-d708-832e-8f7b-a1351d47bc75
+  commissioned_at: '2026-06-17T02:05:01.466144+00:00'
+  prompt_summary: Audit synesthetic-void (voids/synesthetic-void.md)
+  target_filename: outer-review-2026-06-17-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please conduct a rigorous outer review of one article on The Unfinishable
+    Map (https://unfinishablemap.org), a dualist philosophy-of-mind project: "The
+    Synesthetic Void" at https://unfinishablemap.org/voids/synesthetic-void/. It was
+    last substantively modified 2026-06-10, so search indices have had time to update.
+    Audit it as a hostile but fair referee: scrutinize its empirical claims about
+    synesthesia and qualia, the accuracy and currency of its citations, the strength
+    of its argument that synesthesia reveals an intra-species void of inaccessible
+    experiential dimensions, and whether it addresses obvious counterarguments (e.g.
+    deflationary or functionalist readings of synesthesia). Flag tenet-protective
+    bracketing, overstatement, stale references, and weak integration with neighbouring
+    void and qualia articles. Use web search, and consult the changelog at https://unfinishablemap.org/workflow/changelog/
+    to account for recent activity that indices may not yet reflect (24-48h lag).
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit synesthetic-void
+  subject_articles:
+  - voids/synesthetic-void.md
+  subject_source: fallback:recent-aged
