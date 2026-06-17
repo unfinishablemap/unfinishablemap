@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T15:01:19.450562+00:00'
-session_count: 11602
-cycle_position: 9272
+last_updated: '2026-06-17T15:07:39.188754+00:00'
+session_count: 11603
+cycle_position: 9273
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-17T14:29:42.620202+00:00'
   optimistic-review: '2026-06-17T06:56:01.397528+00:00'
   check-tenets: '2026-06-16T22:54:42.634454+00:00'
   check-links: '2026-06-17T12:39:57.374011+00:00'
-  deep-review: '2026-06-17T13:17:34.680220+00:00'
+  deep-review: '2026-06-17T15:07:39.188754+00:00'
   tune-system: '2026-06-16T23:06:12.723747+00:00'
   research-voids: '2026-06-17T12:42:14.834314+00:00'
   coalesce: '2026-06-17T10:57:40.317757+00:00'
@@ -87,7 +87,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 398
-  reviews_completed: 5383
+  reviews_completed: 5384
   apex_articles: 35
 quality:
   critical_issues: 0
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-17'
-  outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-17'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1010,9 +1010,59 @@ queue_status:
   p3_tasks: 1
   needs_replenishment: false
   loop_pickable_open: 2
-  last_replenishment: '2026-06-17T15:05:00+00:00'
+  last_replenishment: '2026-06-17T15:12:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-17 run no.211 (standard mode) - MINTED 1 task,
+  current_replenishment_note: '2026-06-17 run no.212 (standard mode) - HONEST NO-OP
+    (0 minted), the FIRST no-op since no.211 broke the 49-run streak. CHANGE SINCE
+    no.211: none material - the egocentric-presentism expand-topic minted at no.211
+    is still pending (not yet picked), so the chain it satisfied has no new successor.
+    Independent re-verify from disk via tools.evolution.task_selector against live
+    todo.md: count_p0_p2_tasks=1 AND select_queue_task returns P2 "Write concepts/
+    article on Egocentric presentism (Caspar Hare)" (expand-topic). Pickable open queue
+    = 2 (1 P2 expand-topic + 1 P3 research-topic "Research Manyism and composite subjectivity").
+    1 pickable P0-P2 is below the MIN_QUEUE floor of 3, but all EIGHT SOURCES re-derived
+    live this run are dry/blocked. CHAINS (S1) 0 - last-20 recent_tasks has 0 expand-topic
+    completions (no cross-review successors); the 2 research-topic entries are egocentric-presentism
+    (already chained to the active P2) and manyism (still PENDING, no note on disk yet);
+    the 2 deep-reviews generate no auto-successor. UNCONSUMED RESEARCH (S2) 0 - 399
+    notes; the 3 newest June creates checked individually: naturalist-relationalism-2026-06-16
+    CONSUMED (concepts/naturalist-relationalism.md exists), chemosensory-2026-06-16
+    CONSUMED (topics/chemosensory-consciousness-and-the-interface.md exists), integrated-world-modeling-theory-2026-06-16
+    is on-disk-uncovered as a SLUG but its own assess-first verdict is DECLINE/RETARGET
+    (IWMT already covered at depth in concepts/predictive-processing.md, and the one
+    concrete defect it flagged - the I-JEPA "primitive world-model" misattribution -
+    is ALREADY FIXED in the live predictive-processing.md L101 "the broader JEPA programme
+    LeCun frames", ai_modified 14:14 same session) so NOT a clean mint; berridge-2026-06-03
+    CONSUMED (topics/wanting-liking-and-the-value-in-mechanism-fork.md). GAPS (S3)
+    0 - harvest-research-subjects owns research revival by design. STALENESS (S4) 0
+    - cycle deep-review slot owns the pool (ran 13:17 AND 15:07 today). LENGTH (S6)
+    0 mintable - get_length_warnings live: 27 hard+ NON-research content articles;
+    the 3 criticals all blocked (topics/epistemology-of-convergence-arguments 6479w
+    DIVERTED-TO-HUMAN, apex/apex-articles 7238w is the apex HUB/index, apex/phenomenal-output-causal-machinery-dissociation
+    6832w VETOED); the 24 hard_warning are the Vetoed condense bank (49 condense headings
+    in the Vetoed section) PLUS human-deferred flagships (laws-and-dispositions DEFERRED-TO-HUMAN,
+    consciousness-and-the-metaphysics-of-composition + time-collapse-and-agency + valence-and-conscious-selection
+    human length decisions, epistemic-advantages in the refine-then-condense-churn set,
+    memory-channel-interface-evidence deep-reviewed 06-16 ACCEPT-AS-SURVEY) - low-vetoed-hit
+    candidates individually checked, all adjudicated; voids/synesthetic-void 3578w under
+    an OPEN HUMAN LENGTH DECISION. ORPHANS (S5) 0 - quality.orphaned_files 0. POSITIONS
+    (S7) add 0 / update 0 / audit NOT due - register has 18 entries across 3 domain
+    files (state positions_written=3 counts FILES not entries), so it IS over the >=10-entry
+    audit threshold, BUT a positions-evolve audit ran 2026-06-09 (reviews/positions-audit-2026-06-09.md)
+    and again 2026-06-10, well inside the 30-day window, and a pessimistic-review of
+    the registers ran TODAY 2026-06-17 (its Issue 2 already actioned via the P-A2 update
+    at the top of Active); the only changed domain file (quantum-interface) already
+    has active split + frontmatter-fix tasks queued. APPLIED-APEX (S8) 0 - only 3 register
+    files / 18 entries but the deliberately-slow gate plus existing applied-apex coverage
+    leaves no qualifying cluster gap this run. Expected steady-state NO-OP - NOT the
+    fixed empty-slot stall and NOT permanent starvation: the queue has 1 pickable P0-P2
+    plus 1 P3, and harvest + the egocentric chain keep the research pipeline alive.
+    State YAML re-validated post-edit. PREVIOUS NOTE (no.211): MINTED 1 task (expand-topic
+    "Write concepts/ article on Egocentric presentism"), BREAKING the 49-run no-op streak;
+    SOURCE unconsumed_research (+60) AND chain - the research-topic that ran 14:56 wrote
+    obsidian/research/egocentric-presentism-2026-06-17.md (web-verified citations),
+    making the chain successor available; inserted at TOP of Active Tasks (LIFO-defence);
+    concepts 261/300 cap headroom confirmed.
     BREAKING the 49-run no-op streak. SOURCE: unconsumed_research (+60, highest bonus)
     AND chain (S1). CHANGE SINCE no.210: the research-topic that ran at 14:56 (consuming
     the P2 "Research Egocentric presentism" task) WROTE its note to disk - obsidian/research/egocentric-presentism-2026-06-17.md
@@ -1080,7 +1130,7 @@ queue_status:
     orphan_integration: 0
     positions: 0
     staleness: 0
-    unconsumed_research: 1
+    unconsumed_research: 0
   replenishment_source_counts:
     applied_apex: 0
     chain: 0
@@ -1089,4 +1139,4 @@ queue_status:
     orphan_integration: 0
     positions: 0
     staleness: 0
-    unconsumed_research: 1
+    unconsumed_research: 0
