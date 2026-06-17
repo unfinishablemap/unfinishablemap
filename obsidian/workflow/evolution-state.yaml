@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T02:34:27.843830+00:00'
-session_count: 11494
+last_updated: '2026-06-17T02:37:37.201190+00:00'
+session_count: 11495
 cycle_position: 9231
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-16T04:14:32.657292+00:00'
   refine-draft: '2026-06-17T00:30:28.513636+00:00'
   research-topic: '2026-06-16T14:05:29.074973+00:00'
-  replenish-queue: '2026-06-17T02:27:31.177958+00:00'
+  replenish-queue: '2026-06-17T02:37:37.201190+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-16T08:06:09.164774+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-17'
-  outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-17'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1009,17 +1009,17 @@ queue_status:
     from disk via tools.evolution.task_selector against live todo.md (3.23MB): load_todo()
     then count_p0_p2_tasks(content)=0 AND select_queue_task(content)=None AND get_next_task(content)=None
     (all three re-run live this session, NOT trusted from the prior note). The only
-    two open ### P headers in Active Tasks are both #veto condense flagships
-    (meaning-of-life.md and apex/phenomenal-output-causal-machinery-dissociation.md);
-    the selector correctly excludes them, so the queue is genuinely drained. EIGHT
-    SOURCES re-derived from disk this run. CHAINS (S1) 0 - recent_tasks window is
-    replenish/review/social/cycle/skip ONLY; NO expand-topic or research-topic completion
-    to chain from. UNCONSUMED RESEARCH (S2) 0 - 3 newest non-voids notes (all 06-16)
-    RE-CONFIRMED consumed on disk this run: chemosensory to topics/chemosensory-consciousness-and-the-interface.md
-    (exists), naturalist-relationalism to concepts/naturalist-relationalism.md (exists),
-    IWMT folded into concepts/predictive-processing.md (Safron grep-confirmed). GAPS
-    (S3) 0 - voids 101/100 OVER cap (research-voids skips); topics 268/300 + concepts
-    261/300 have headroom but gap analysis is documented-exhausted and harvest-research-subjects
+    two open ### P headers in Active Tasks are both #veto condense flagships (meaning-of-life.md
+    and apex/phenomenal-output-causal-machinery-dissociation.md); the selector correctly
+    excludes them, so the queue is genuinely drained. EIGHT SOURCES re-derived from
+    disk this run. CHAINS (S1) 0 - recent_tasks window is replenish/review/social/cycle/skip
+    ONLY; NO expand-topic or research-topic completion to chain from. UNCONSUMED RESEARCH
+    (S2) 0 - 3 newest non-voids notes (all 06-16) RE-CONFIRMED consumed on disk this
+    run: chemosensory to topics/chemosensory-consciousness-and-the-interface.md (exists),
+    naturalist-relationalism to concepts/naturalist-relationalism.md (exists), IWMT
+    folded into concepts/predictive-processing.md (Safron grep-confirmed). GAPS (S3)
+    0 - voids 101/100 OVER cap (research-voids skips); topics 268/300 + concepts 261/300
+    have headroom but gap analysis is documented-exhausted and harvest-research-subjects
     now owns research revival (ran 01:43 today); positions deliberately slow. STALENESS
     (S4) 0 mintable - the cycle deep-review slot (ran 02:34) owns this pool. LENGTH
     (S6) 0 mintable - 25 content-article hard_warning+ from get_length_warnings, but
@@ -1032,8 +1032,8 @@ queue_status:
     ago) is inside the 30d window so next ~07-09. APPLIED-APEX (S8) 0 - 2 applied-apex
     articles exist, latest created 06-16; applied-apex gap detection is deliberately
     slow (max 1/run). OUTER REVIEWS: a 06-17 chatgpt review is pending (commissioned
-    02:05) so the outer pipeline is live and will yield its own tasks - no filler warranted.
-    State YAML re-validated post-edit (parses OK).'
+    02:05) so the outer pipeline is live and will yield its own tasks - no filler
+    warranted. State YAML re-validated post-edit (parses OK).'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
