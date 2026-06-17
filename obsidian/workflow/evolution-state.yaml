@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-17T04:56:51.541574+00:00'
-session_count: 11519
-cycle_position: 9241
+last_updated: '2026-06-17T04:59:52.431490+00:00'
+session_count: 11520
+cycle_position: 9242
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-17T00:23:07.301820+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-06-17T02:51:16.052599+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-16T23:01:17.314770+00:00'
-  agentic-social: '2026-06-17T04:14:45.335896+00:00'
+  agentic-social: '2026-06-17T05:03:49.798805+00:00'
   embed-videos: '2026-06-17T04:26:54.620269+00:00'
   commission-chatgpt-review: '2026-06-17T02:05:46.036515+00:00'
   commission-claude-review: '2026-06-17T03:06:25.605256+00:00'
   commission-gemini-review: '2026-06-17T04:07:04.664744+00:00'
-  refine-draft: '2026-06-17T04:56:51.541574+00:00'
+  refine-draft: '2026-06-17T04:59:52.431490+00:00'
   research-topic: '2026-06-16T14:05:29.074973+00:00'
   replenish-queue: '2026-06-17T03:37:01.005078+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
@@ -96,10 +92,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: skip-queue-slot
-  type: skip-queue-slot
-  date: '2026-06-17'
-  outcome: success
 - task: commission-claude-review
   type: commission-claude-review
   date: '2026-06-17'
@@ -176,13 +168,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-06-17'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-06-17'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/constitutive-vs-referring-observation/
-    date: '2026-06-10T04:37:01.783324+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - arguments-against-materialism
   - url: https://unfinishablemap.org/topics/out-of-body-experiences/
     date: '2026-06-10T05:37:17.930367+00:00'
     topics:
@@ -982,6 +973,11 @@ agentic_social:
     date: '2026-06-17T04:14:13.374998+00:00'
     topics:
     - consciousness-and-the-metaphysics-of-composition
+  - url: https://unfinishablemap.org/concepts/active-reboot/
+    date: '2026-06-17T05:03:49.798748+00:00'
+    topics:
+    - anaesthesia-and-the-consciousness-interface
+    - consciousness-disruption-and-the-mind-brain-interface
 tune_system_history:
   last_run: '2026-06-16T22:50:00+00:00'
   changes_applied: []
