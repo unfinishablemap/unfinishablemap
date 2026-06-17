@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T19:09:56.042732+00:00'
-session_count: 11649
-cycle_position: 9290
+last_updated: '2026-06-17T19:18:42.393940+00:00'
+session_count: 11650
+cycle_position: 9291
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-17T14:29:42.620202+00:00'
   optimistic-review: '2026-06-17T15:51:35.072381+00:00'
   check-tenets: '2026-06-17T18:43:12.529265+00:00'
   check-links: '2026-06-17T12:39:57.374011+00:00'
-  deep-review: '2026-06-17T17:44:34.973675+00:00'
+  deep-review: '2026-06-17T19:18:42.393940+00:00'
   tune-system: '2026-06-16T23:06:12.723747+00:00'
   research-voids: '2026-06-17T12:42:14.834314+00:00'
   coalesce: '2026-06-17T17:13:37.113972+00:00'
@@ -87,7 +87,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 399
-  reviews_completed: 5387
+  reviews_completed: 5388
   apex_articles: 35
 quality:
   critical_issues: 0
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-17'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-17'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1012,25 +1012,33 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 0
-  last_replenishment: '2026-06-17T19:08:00+00:00'
+  last_replenishment: '2026-06-17T19:21:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-17 run no.232 (standard mode) - HONEST NO-OP
-    (0 minted), all 8 sources independently re-verified dry/blocked this run. S1 chains
-    none. S2 unconsumed-research 0: newest notes are egocentric-presentism, manyism,
-    naturalist-relationalism (all 3 live as concepts), chemosensory (live topic);
-    IWMT note self-declines (already covered in concepts/predictive-processing.md,
-    Map would not conscript it). S3 gap analysis owned by harvest-research-subjects
-    (last ran 13:57, due ~19:57, not yet due). S4 staleness owned by the deep-review
-    cycle slot. S5 orphans 0. S6 length: only content-file criticals are the three
-    long-standing human-blocked flagships (epistemology-of-convergence-arguments,
-    phenomenal-output-causal-machinery-dissociation) + apex-articles section-index
-    list; research-note bulk is excluded source material; hard-warnings all prior-dispositioned
-    or churn-risk. S7 positions audit not due. S8 applied-apex clusters too small.
-    Caps: topics 268/300, concepts 263/300 (headroom but research-pipeline-fed), voids
-    101/100 over cap. Active Tasks header scan: every entry is +-marked done/resolved/deferred
-    or a HUMAN-DECISION line; loop_pickable_open 0. skip-queue-slot interleaving in
-    recent_tasks confirms cycle_position advancing (9290): healthy floor-alternation
-    steady-state, NOT the fixed empty-queue stall. harvest (~19:57) refills research.'
+  current_replenishment_note: '2026-06-17 run no.233 (standard mode) - HONEST NO-OP
+    (0 minted), all 8 sources independently re-verified dry/blocked this run (NOT a
+    trust-the-prior-note pass; each source re-checked on disk). S1 chains: recent_tasks
+    carry no fresh research-topic->expand awaiting synthesis (all deep-review / replenish
+    / skip-queue-slot / social / embed). S2 unconsumed-research 0: newest 4 notes
+    (egocentric-presentism, manyism, naturalist-relationalism -> all live as concepts;
+    chemosensory -> live topic) all have articles; IWMT note (integrated-world-modeling-theory-2026-06-16)
+    self-declines in its own Crucial-corpus-context block - already covered at depth
+    in concepts/predictive-processing.md SS"Strongest Gap-Dissolving Variant" L99-103
+    (MAP-estimate, I-JEPA, Safron 2020 in refs, gap-reply all present) and conflicts
+    with Dualism, so the Map would not conscript it. S3 gap analysis owned by harvest-research-subjects
+    (last 13:57, +6h due 19:57 - NOT due, ~36 min out). S4 staleness owned by the
+    deep-review cycle slot (ran 19:18 this session). S5 orphans 0. S6 length: 3 content-file
+    criticals all dispositioned - apex-articles.md (apex section-index hub, list page),
+    phenomenal-output-causal-machinery-dissociation.md (#veto, Active L582), epistemology-of-convergence-arguments.md
+    (standing HUMAN LENGTH DECISION in Blocked + 9 vetoed prior condenses); hard-warnings
+    all prior-dispositioned (synesthetic-void has its own open HUMAN LENGTH DECISION
+    L40) or in the refine-then-condense churn set. S7 positions audit: 18 entries,
+    last audit 2026-06-09 (8d ago) under the 30-day cadence - not due. S8 applied-apex:
+    clusters too small / human-sanctioned only. Caps: topics 268/300, concepts 263/300
+    (headroom but research-pipeline-fed), voids 101/100 over cap, positions 3/80.
+    Active Tasks header scan: every entry +-marked done/resolved/deferred or a HUMAN-DECISION
+    line; loop_pickable_open 0. skip-queue-slot interleaving in recent_tasks confirms
+    cycle_position advancing (9291): healthy floor-alternation steady-state, NOT the
+    fixed empty-queue stall. harvest (~19:57) refills research next.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
