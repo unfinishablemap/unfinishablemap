@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T07:45:38.289748+00:00'
-session_count: 11550
+last_updated: '2026-06-17T07:49:13.382392+00:00'
+session_count: 11551
 cycle_position: 9255
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -35,7 +35,7 @@ last_runs:
   collect-gemini-review: '2026-06-17T04:43:37.227932+00:00'
   positions-evolve: '2026-06-17T00:41:47.595053+00:00'
   check-model-fallback: '2026-06-17T04:07:28.842576+00:00'
-  harvest-research-subjects: '2026-06-17T01:43:59.127102+00:00'
+  harvest-research-subjects: '2026-06-17T07:49:13.382392+00:00'
   skip-queue-slot: '2026-06-17T07:14:45.639281+00:00'
 last_git_push: '2026-06-17T04:17:17.414877+00:00'
 last_tweet_date: '2026-06-16'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-17'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-17'
+  outcome: success
+- task: harvest-research-subjects
+  type: harvest-research-subjects
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1007,33 +1007,34 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 0
-  last_replenishment: '2026-06-17T07:16:00+00:00'
+  last_replenishment: '2026-06-17T07:54:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-17 run no.190 (standard mode) - HONEST NO-OP
-    for new-task minting (0 minted), the TWENTY-NINTH consecutive. AUTHORITATIVE verify
+  current_replenishment_note: '2026-06-17 run no.191 (standard mode) - HONEST NO-OP
+    for new-task minting (0 minted), the THIRTIETH consecutive. AUTHORITATIVE verify
     from disk via tools.evolution.task_selector against live todo.md (functions take
-    CONTENT not Path): count_p0_p2_tasks=0, AND select_queue_task=None AND get_next_task=None
-    - queue genuinely empty of pickable tasks. parse_tasks reports active=0, completed=0,
-    vetoed=2. EIGHT SOURCES re-derived live from disk this run, all dry/blocked. CHAINS
-    (S1) 0 - last 20 recent_tasks are all replenish/skip-slot/refine/deep/pessimistic/optimistic/social,
+    CONTENT not Path): count_p0_p2_tasks=0 AND select_queue_task=None AND get_next_task=None
+    - queue genuinely empty of pickable tasks. parse_tasks reports active=0. The 2
+    open-looking ### P headers in Active are both marked #veto (human-protected condense
+    decisions) so the selector correctly excludes them; all other Active ### headers
+    are closed/diverted markers. EIGHT SOURCES re-derived live from disk this run, all
+    dry/blocked. CHAINS (S1) 0 - last 20 recent_tasks are all replenish/skip-slot/refine/deep/optimistic/social/harvest,
     0 expand-topic or research-topic; pool dry. UNCONSUMED RESEARCH (S2) 0 - 3 newest
     non-voids notes (all 06-16) re-confirmed consumed from disk: IWMT to concepts/predictive-processing.md
     (Safron/IWMT grep-present), naturalist-relationalism to concepts/naturalist-relationalism.md
     (exists), chemosensory to topics/chemosensory-consciousness-and-the-interface.md
-    (exists). harvest-research-subjects (ran 01:43) owns research revival, dedupes
+    (exists). harvest-research-subjects (ran 07:49) owns research revival, dedupes
     against live articles plus notes NOT the Vetoed bank. GAPS (S3) 0 - voids 101/100
     over cap; topics 268/300 and concepts 261/300 have headroom but gap analysis documented-exhausted;
     positions deliberately slow. STALENESS (S4) 0 mintable - cycle deep-review slot
-    owns this pool (deep-review ran 06:16). LENGTH (S6) 0 mintable - get_length_warnings(hard+)
+    owns this pool (deep-review ran 07:26). LENGTH (S6) 0 mintable - get_length_warnings(hard+)
     re-run live: 51 warnings, content-only (excl research) 27, 3 critical: apex/apex-articles.md
     7238w (apex HUB/index, not a real article), apex/phenomenal-output-causal-machinery-dissociation.md
     6832w (carries the veto marker), epistemology-of-convergence-arguments.md 6479w
     (STANDING HUMAN SPLIT, prior condenses failed). All hard-warning offenders already
     DIVERTED-TO-HUMAN; minting condense tasks would re-litigate human-blocked decisions
     (human-decision-task-mispicked-as-refine). NOT minted. ORPHANS (S5) 0 - quality.orphaned_files
-    0. POSITIONS (S7) add 0 / update 0 / audit NOT due - register has 18 distinct
-    entries (>=10 threshold met) but full positions-audit ran 2026-06-09 well inside
-    30-day audit cadence; positions actively maintained today (positions-evolve 00:41).
+    0. POSITIONS (S7) add 0 / update 0 / audit NOT due - full positions-audit ran 2026-06-09
+    well inside 30-day audit cadence; positions actively maintained today (positions-evolve 00:41).
     APPLIED-APEX (S8) 0 - deliberately slow (max 1/run), position clusters too small,
     apex over informal cap (35). This is the expected steady-state empty-queue NO-OP
     - NOT the fixed empty-slot stall (loop-empty-queue-slot-stall, FIXED 4e73c75b2)
