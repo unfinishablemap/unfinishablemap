@@ -2,12 +2,12 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T00:16:01.213900+00:00'
-session_count: 11466
-cycle_position: 9221
+last_updated: '2026-06-17T00:23:07.301820+00:00'
+session_count: 11467
+cycle_position: 9222
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
-  pessimistic-review: '2026-06-16T16:06:21.243330+00:00'
+  pessimistic-review: '2026-06-17T00:23:07.301820+00:00'
   optimistic-review: '2026-06-16T17:27:25.479494+00:00'
   check-tenets: '2026-06-16T22:54:42.634454+00:00'
   check-links: '2026-06-16T20:29:18.556874+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-16T04:14:32.657292+00:00'
   refine-draft: '2026-06-16T17:46:27.669798+00:00'
   research-topic: '2026-06-16T14:05:29.074973+00:00'
-  replenish-queue: '2026-06-17T00:16:01.213900+00:00'
+  replenish-queue: '2026-06-17T00:24:30.000000+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-16T08:06:09.164774+00:00'
@@ -87,7 +87,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 397
-  reviews_completed: 5367
+  reviews_completed: 5368
   apex_articles: 35
 quality:
   critical_issues: 0
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-links
-  type: check-links
-  date: '2026-06-16'
-  outcome: success
 - task: research-voids
   type: research-voids
   date: '2026-06-16'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-17'
+  outcome: success
+- task: pessimistic-review
+  type: pessimistic-review
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -989,44 +989,51 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 0
+  p2_tasks: 2
   p3_tasks: 0
   needs_replenishment: false
-  loop_pickable_open: 0
-  last_replenishment: '2026-06-17T00:15:00+00:00'
+  loop_pickable_open: 2
+  last_replenishment: '2026-06-17T00:24:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-17 run no.159 (standard mode) - HONEST NO-OP,
-    0 minted. All eight sources independently re-derived from disk (NOT trusted from
-    the prior note). ACTIVE-SECTION SCAN (todo.md lines 38-1028): every ### header
-    is closed (prefixed checkmark / strikethrough-done / RELOCATED / DEFERRED / DECLINED);
-    0 loop-pickable open - the only non-completed Active headers are the documented
-    steady-state exemptions the loop ignores: two HUMAN LENGTH DECISION headers (duhem-quine
-    article, human-deferred) plus two #veto-tagged condense tasks (meaning-of-life
-    4160w; apex/phenomenal-output-causal-machinery-dissociation 6989w flagship). EIGHT
-    SOURCES: CHAINS (S1) 0 - recent_tasks hold only loop-internal types (replenish
-    / skip-queue-slot / deep-review / embed-videos / check-links / research-voids
-    / check-tenets / apex-evolve / tune-system / agentic-social / check-model-fallback),
-    no expand-topic/research-topic completion awaiting a successor. UNCONSUMED RESEARCH
-    (S2) 0 - 4 most-recent notes re-confirmed consumed: chemosensory->topics/chemosensory-consciousness-and-the-interface.md
-    (EXISTS), naturalist-relationalism->concepts/naturalist-relationalism.md (EXISTS),
-    metacognition->concepts/metacognition.md (EXISTS), integrated-world-modeling-theory
-    folded into concepts/predictive-processing.md (grep hit). GAPS (S3) 0 - section
-    counts re-counted from disk: voids 101/100 over cap; topics 268/300 and concepts
-    261/300 have headroom but gap analysis documented-exhausted; positions 3/80 deliberately
-    slow. STALENESS (S4) 0 mintable - pool owned by the cycle deep-review slot (ran
-    23:40 06-16); minting P3 deep-reviews here only churns vs the cycle scorer. LENGTH
-    (S6) 0 mintable - both critical content-article offenders exempt (epistemology-of-convergence-arguments
-    6479w STANDING HUMAN LENGTH DECISION; apex/phenomenal-output 6832w veto-tagged);
-    every other critical length entry is a research/ note (no ceiling) or apex/apex-articles.md
-    hub. ORPHANS (S5) 0 - quality.orphaned_files 0. POSITIONS add (S7a) 0 / update
-    (S7b) 0 / audit (S7c) not due - 3 positions only, last audit within 30d. APPLIED-APEX
-    (S8) 0 - A5 slot filled 2026-06-16. OUTER REVIEWS: 06-16 cycle fully synthesized
-    (outer-review-synthesis-2026-06-16.md present; pending-reviews.yaml 0 pending)
-    so its tasks minted at the combine pass. Queue at 0 pickable is the documented
-    replenish-at-floor steady state (~22 consecutive honest no-ops) - do NOT fabricate
-    filler; cycle deep-review (17pct) / coalesce / pessimistic / optimistic slots
-    plus the next outer-review synthesis drain and feed the floor organically. State
-    YAML re-validated post-edit (parses OK).'
+  current_replenishment_note: '2026-06-17 run no.160 (standard mode) - HONEST NO-OP
+    for new-task minting (0 minted), BUT queue is NOT at 0 pickable - it now holds
+    2 open loop-pickable P2 tasks the prior run (no.159 @00:15) could not see because
+    they were minted AFTER it: the cycle pessimistic-review ran 00:21-00:23 against
+    the positions registers ([[reviews/pessimistic-2026-06-17-positions-registers]])
+    and added two P2 tasks at Active-section lines 40 (refine-draft: debias P-A1''s
+    cross-cultural anchor for the intuitive-dualism common-cause null) and 46 (positions-evolve:
+    distinguish common-root from mutual-confirmation in the P-A2 <-> Tenet 4 note).
+    Both Status:pending, valid types, fresh, non-duplicate (veto-scan clean), not human-deferred.
+    This is the floor feeding itself organically from a review slot - exactly the designed
+    behaviour - so NO new tasks fabricated. ACTIVE-SECTION SCAN (todo.md lines 38-660):
+    every other ### header is closed (checkmark / strikethrough-done / RELOCATED /
+    DEFERRED / DECLINED) EXCEPT the two new P2s above and the four documented steady-state
+    exemptions the loop ignores: two HUMAN LENGTH DECISION headers (duhem-quine, human-deferred,
+    lines 194/203) + two #veto-tagged condense tasks (meaning-of-life 4160w line 588;
+    apex/phenomenal-output-causal-machinery-dissociation 6989w flagship line 596).
+    EIGHT SOURCES re-derived from disk (NOT trusted from prior note): CHAINS (S1) 0
+    - recent_tasks hold only loop-internal types (replenish / skip-queue-slot / deep-review
+    / pessimistic-review / research-voids / check-tenets / apex-evolve / tune-system
+    / agentic-social / check-model-fallback), no expand/research-topic completion awaiting
+    a successor. UNCONSUMED RESEARCH (S2) 0 - 3 most-recent notes re-confirmed consumed:
+    chemosensory->topics/chemosensory-consciousness-and-the-interface.md (EXISTS),
+    naturalist-relationalism->concepts/naturalist-relationalism.md (EXISTS), metacognition->concepts/metacognition.md
+    (EXISTS); integrated-world-modeling-theory folded into concepts/predictive-processing.md
+    (grep hit). GAPS (S3) 0 - section counts re-counted from disk: voids 101/100 over
+    cap; topics 268/300 and concepts 261/300 have headroom but gap analysis documented-exhausted;
+    positions 3/80 deliberately slow. STALENESS (S4) 0 mintable - pool owned by the
+    cycle deep-review slot (ran 23:40 06-16). LENGTH (S6) 0 mintable - both critical
+    content offenders exempt (epistemology-of-convergence-arguments STANDING HUMAN
+    LENGTH DECISION; apex/phenomenal-output veto-tagged); every other critical length
+    entry is a research/ note (no ceiling) or apex/apex-articles.md hub. ORPHANS (S5)
+    0 - quality.orphaned_files 0. POSITIONS add (S7a) 0 / update (S7b) 0 / audit (S7c)
+    not due - 3 positions only, last audit within 30d. APPLIED-APEX (S8) 0 - A5 slot
+    filled 2026-06-16; the A6/clinical proposal is DEFERRED-TO-HUMAN (line 52). OUTER
+    REVIEWS: 06-16 cycle fully synthesized (outer-review-synthesis-2026-06-16.md present;
+    pending-reviews.yaml 0 pending, both collected) so its tasks already minted at the
+    combine pass; no 06-17 outer cycle commissioned yet (pre-02:00 window). With 2
+    pickable P2s the queue is ~at the MIN_QUEUE floor of 3 and the loop will execute
+    them next; do NOT fabricate filler. State YAML re-validated post-edit (parses OK).'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
