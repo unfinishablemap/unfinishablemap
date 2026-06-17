@@ -4,7 +4,7 @@ description: "Reductionism succeeds across science—temperature, life, heredity
 created: 2026-01-19
 modified: 2026-06-17
 human_modified: null
-ai_modified: 2026-06-17T22:09:24+00:00
+ai_modified: 2026-06-17T22:39:32+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author: null
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-06-17T22:09:24+00:00
+last_deep_review: 2026-06-17T22:39:32+00:00
 coalesced_from:
   - "/concepts/reductionism/"
   - "/topics/reductionism-and-consciousness/"
@@ -152,11 +152,11 @@ Materialists have a standard reply: reductionism about consciousness is simply i
 
 The Map's [[consciousness-and-the-structure-of-scientific-revolutions|Kuhnian analysis]] reframes this patience as misplaced: the pattern of competing theories, persistent anomalies, and loosening methodological standards in consciousness studies matches Kuhn's description of a paradigm in crisis, not a programme making steady progress.
 
-The "future science" analogy is also misleading on its own terms. Past reductions succeeded because the higher-level phenomenon was always *structural*—definable in terms of arrangements, functions, and relations. Temperature is a statistical property of motion; life is a pattern of chemical reactions. These descriptions are third-personal: they characterise what systems *do* without any perspective from the inside.
+The "future science" analogy is also misleading on its own terms. Past reductions succeeded because the higher-level phenomenon was always *structural*—definable in terms of arrangements, functions, and relations. Temperature is a statistical property of motion; life is a pattern of chemical reactions. These descriptions are third-personal: they characterise only what systems *do*.
 
 Consciousness is first-personal. It has an intrinsic qualitative character—what Thomas Nagel (1974) called the "something it is like." No structural, functional, or relational description captures this, because such descriptions concern *form*—how elements relate—while experience has *content*: what it is like from the inside. The gap between form and content is conceptual, not empirical; more data cannot close it because data is itself structural.
 
-This diagnosis is a claim about category, not [[mysterianism|mysterianism]]'s claim that the problem is permanently unsolvable by us: reductionism fails for consciousness because phenomenal qualities belong to a different category than the structural-functional properties reductionism handles. Asking reductionism to explain qualia is like asking geometry to explain colour—the tools are wrong for the domain. Mysterianism nonetheless offers complementary support: if human cognitive architecture has fundamental limits, our inability to see how consciousness reduces to physics may reflect those limits rather than a gap we will eventually close.
+This diagnosis is a claim about category, not [[mysterianism|mysterianism]]'s claim that the problem is permanently unsolvable by us: reductionism fails for consciousness because phenomenal qualities belong to a different category than the structural-functional properties reductionism handles. Asking reductionism to explain qualia is like asking geometry to explain colour—the tools are wrong for the domain. Mysterianism nonetheless offers complementary support: if human cognitive architecture has fundamental limits, our inability to see how consciousness reduces to physics may reflect those limits rather than a closable gap.
 
 ## The Vitalism Objection
 
@@ -166,7 +166,7 @@ This objection fails on its own terms. Vitalism posited an extra *force*—somet
 
 Consciousness is not a functional hypothesis. The [[hard-problem-of-consciousness|hard problem]] specifically distinguishes the "easy problems" (functional questions about discrimination, integration, report) from the hard problem (why these functions are accompanied by experience). The easy problems *will* yield to functional explanation—nobody disputes this. The hard problem persists because it asks about something beyond function.
 
-Comparing consciousness to vitalism conflates the easy problems with the hard problem. It assumes that solving the easy problems dissolves the hard problem—precisely what Chalmers (1996) argued it does not. The vitalism analogy presupposes reductionism rather than arguing for it. The structural disanalogy is that "vital force" was a placeholder for unspecified mechanism, while phenomenal qualities are determinate types whose reductive demand is [[type-specificity|type-specific]]: a reduction must deliver the character of *this* type, not substitute a generic mechanism. (See [[type-specificity]] for the methodological discipline this distinction induces across the Map's load-bearing exhibits.)
+Comparing consciousness to vitalism conflates the easy problems with the hard problem. It assumes that solving the easy problems dissolves the hard problem—precisely what Chalmers (1996) argued it does not. The vitalism analogy presupposes reductionism rather than arguing for it. The structural disanalogy is that "vital force" was a placeholder for unspecified mechanism, while phenomenal qualities are determinate types whose reductive demand is [[type-specificity|type-specific]]: a reduction must deliver the character of *this* type, not substitute a generic mechanism. (See [[type-specificity]] for the methodological discipline this distinction induces across the Map's three load-bearing exhibits.)
 
 ## What the Failure Reveals
 
@@ -233,7 +233,7 @@ The [[buddhism-and-dualism|Buddhist tradition]] converges from a further directi
 
 11. Lewis, D. (1972). Psychophysical and Theoretical Identifications. *Australasian Journal of Philosophy*, 50(3), 249-258.
 
-12. Milinkovic, M. & Aru, J. (2026). Biological computationalism and the substrate-dependence of consciousness. (See [[biological-computationalism]] for discussion.)
+12. Milinkovic, B. & Aru, J. (2026). On biological and artificial consciousness: A case for biological computationalism. *Neuroscience & Biobehavioral Reviews*, 181, 106524. (Epub 17 Dec 2025; print Feb 2026.) https://doi.org/10.1016/j.neubiorev.2025.106524
 
 13. Nagel, E. (1961). *The Structure of Science*. Harcourt, Brace & World.
 

@@ -5,6 +5,19 @@ ai_modified: 2026-06-17 21:48:51+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-17T22:39:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/reductionism]] (post-coalesce CROSS-REVIEW of the merged body; coalesce last_deep_review stamp NOT trusted per [[coalesce-hides-review-debt-and-regresses-fixes]])
+- **Word count**: 3492 → 3497 (+5; citation expansion +13 net of two value-neutral trims −8; under hard 3500, soft_warning)
+- **Critical issues addressed**: 1 (Milinkovic & Aru References #12 regressed by the coalesce into a wrong-author/reconstructed-title/missing-venue stub — `M. & Aru, J.... Biological computationalism and the substrate-dependence of consciousness` — state real-wrong-metadata; corrected to corpus-canonical `Milinkovic, B. & Aru, J. (2026). On biological and artificial consciousness... Neurosci. Biobehav. Rev. 181:106524, DOI 10.1016/j.neubiorev.2025.106524`. Neither source carried this entry; the stub was minted by the coalesce.)
+- **Medium/Low issues addressed**: 1 (LOW — coalesce dropped "three" from "the Map's three load-bearing exhibits"; [[type-specificity]] confirms exactly three grains; restored)
+- **Merge coherence (item a)**: PASS — seam reads as one piece; opening rewritten to forward-reference both strands; no stitched feel
+- **Duplication (item b)**: PASS — transparency (3 mentions: signature → bridge-law failure → named diagnostic), water=H₂O (2: Type-B rebuttal vs transparency-test example), Nagel (E.1961 bridge-law vs T.1974 form/content), zombie (single) all play DISTINCT roles, no repetition
+- **Citation web-verify (item c)**: Milinkovic & Aru re-verified PubMed 41419099 (real-correct after fix); 15 other refs real-correct (Bechtel-Mundale, Kim 1992/1998/2005, Levine, Lewis 1966/1972, Chalmers, Dennett ×2, Fodor, Nagel ×2, Polger-Shapiro, Putnam); inline↔References no orphans either direction; no superlative claims (currency sweep N/A)
+- **Calibration (item e)**: PASS — 2026-06-01 underdetermination caveat survived merge; no five-tier slippage; no tenet-as-evidence-upgrade; engagement modes Type-B Mode Two / Kim Mode One / Dennett Mixed / Putnam Mode One / vitalism Mode Two; no boundary-substitution; label-leakage grep CLEAN
+- **Length (item d)**: kept under 3500 hard ceiling via length-neutral trims; no content lost
+- **Output**: [[reviews/deep-review-2026-06-17-reductionism]]
+
 ## 2026-06-17T22:09:24+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [[concepts/reductionism]] (2154w body), [[topics/reductionism-and-consciousness]] (2184w body) — heavy redundancy (shared track-record-vs-consciousness thesis, Nagel bridge laws, Kim functional-reduction concession, C. elegans connectome, pain asymbolia, water=H₂O transparency, zombie argument, same tenet-aligned conclusion)
