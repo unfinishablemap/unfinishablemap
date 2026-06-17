@@ -5,6 +5,12 @@ ai_modified: 2026-06-17 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-17T12:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/introspection.md` (oldest article never named in a pessimistic review; last deep-reviewed 2026-06-01)
+- **Findings**: 2 critical (blindsight interpretation contradicts corpus + standard view → reads phenomenology-retention where access-consciousness.md says minimal/absent P-consciousness; illusionism self-undermining argument presented as in-framework refutation = boundary-substitution per direct-refutation-discipline), 3 smaller (choice-blindness concurrent/retrospective gap; non-discriminating "no-superposition" claim treated as No-Many-Worlds support; Sperling/Block apparatus attribution). Queued one consolidated P2 refine-draft task.
+- **Output**: [[reviews/pessimistic-2026-06-17-introspection]]
+
 ## 2026-06-17T05:18:14+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[topics/synaesthesia]], [[apex/phenomenal-variation-within-a-species]]
