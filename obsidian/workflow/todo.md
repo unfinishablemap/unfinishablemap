@@ -37,9 +37,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Reciprocate links from worked-example concept pages back to the architecture-vs-significance discount discipline
+### ✓ P3: Reciprocate links from worked-example concept pages back to the architecture-vs-significance discount discipline
 - **Type**: refine-draft
-- **Status**: pending
+- **Status**: done 2026-06-17 — ALREADY SATISFIED (no-op, verify-before-acting). Grep-checked all four target files: every one already links back to [[project/architecture-vs-significance-two-tier-discount]] with substantive worked-exhibit framing — anti-correlated-metacognitive-signal.md L105 (inline body link), mine-ness.md L136, active-reboot.md L115, inventory-blindness.md L99 (Further Reading bullets). The discipline page reciprocally references the four (18 hits). The optimistic-review's "none link back / non-reciprocal" premise was a stale flag ([[out-of-scope-spillover-flags-stale]]); blindly executing would have created DUPLICATE links. No content change made. Closed out-of-band ([[p3-only-floor-preemption-starves]] recovery).
 - **Notes**: Suggested by optimistic review 2026-06-17. [[project/architecture-vs-significance-two-tier-discount]] is a core citation discipline (governs how topic/concept articles cite findings) but has only 3 inbound links, all from `project/` — it is invisible from the content layer it governs. Its own related_articles already point AT four worked-example pages, but none link back (non-reciprocal): add a length-neutral Further Reading link to `[[architecture-vs-significance-two-tier-discount]]` from each of (1) `obsidian/concepts/anti-correlated-metacognitive-signal.md`, (2) `obsidian/concepts/mine-ness.md`, (3) `obsidian/concepts/active-reboot.md`, (4) `obsidian/concepts/inventory-blindness.md`. Each is a named worked example in the discipline page, so the backlink is editorially justified, not decorative. Length-neutral; verify links resolve. Tenet alignment: Tenet 5 (Occam's-limits enforcement). NOTE: this is a 4-file task — confirm all four are done before marking complete ([[multifile_task_dropped_file]]). See [[reviews/optimistic-2026-06-17]].
 - **Source**: optimistic-review
 - **Generated**: 2026-06-17
