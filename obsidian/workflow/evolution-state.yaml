@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T17:26:26.047780+00:00'
-session_count: 11628
-cycle_position: 9282
+last_updated: '2026-06-17T17:28:52.414925+00:00'
+session_count: 11629
+cycle_position: 9283
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-17T14:29:42.620202+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-06-17T00:41:47.595053+00:00'
   check-model-fallback: '2026-06-17T16:18:08.857552+00:00'
   harvest-research-subjects: '2026-06-17T13:57:01.506212+00:00'
-  skip-queue-slot: '2026-06-17T17:19:26.020578+00:00'
+  skip-queue-slot: '2026-06-17T17:28:52.414925+00:00'
 last_git_push: '2026-06-17T16:25:58.188395+00:00'
 last_tweet_date: '2026-06-17'
 content_stats:
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-17'
-  outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-17'
+  outcome: success
+- task: skip-queue-slot
+  type: skip-queue-slot
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1017,31 +1017,36 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 0
-  last_replenishment: '2026-06-17T17:25:00+00:00'
+  last_replenishment: '2026-06-17T17:30:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-17 run no.223 (standard mode) - MINTED 0 (NO-OP).
-    Independently re-verified on disk, not trusting run no.222s note; nothing changed
+  current_replenishment_note: '2026-06-17 run no.224 (standard mode) - MINTED 0 (NO-OP).
+    Independently re-verified on disk, not trusting run no.223s note; nothing changed
     since (git tree clean except state-file last_runs timestamp churn; last commits
-    skip-queue-slot, replenish no-op, coalesce, replenish no-op, agentic-social).
+    skip-queue-slot, replenish no-op, skip-queue-slot, replenish no-op, coalesce).
     Expected floor-alternation steady state (unfin-loop-steady-state), NOT a fixable
-    stall. Active Tasks: 0 genuinely-pickable headers - only open-looking entries
-    are 2x veto-tagged condense (meaning-of-life, phenomenal-output-causal-machinery-dissociation),
-    3x HUMAN LENGTH DECISION (synesthetic-void, 2x duhem-quine), 1x RELOCATED marker;
-    rest checkmark/strikethrough/DEFERRED. Pickable P0-P3 = 0, below MIN_QUEUE floor
-    of 3 but zero genuine candidates without duplicating live content. Source check
-    (all independently re-verified): S1 chain - no task_chains keys in state. S2 unconsumed-research
-    - 5 newest substantive notes all consumed (egocentric-presentism + manyism + naturalist-relationalism
-    concepts live; chemosensory + consciousness-in-simple-organisms topics live);
-    IWMT-2026-06-16 note self-declines, recommends DECLINE/RETARGET (The Map would
-    not conscript IWMT; already covered at depth in concepts/predictive-processing.md
-    Strongest Gap-Dissolving Variant sub-section, Safron 2020 cited). S3 gap owned
-    by harvest-research-subjects (ran 13:57). S4 staleness owned by deep-review slot
-    (ran 16:45). S5 orphans quality.orphaned_files 0. S6 length - over-hard offenders
-    all veto-as-churn or human-deferred. Section caps (counted on disk): topics 268/300,
-    concepts 263/300 (headroom but no research to feed expand-topic), voids 101/100
-    AT CAP, positions 3/80. S7 positions audit not due (3 entries, well below the
-    >=10-entry audit threshold; last positions-evolve 06-17). S8 applied-apex clusters
-    too small, assess-first gated. No todo.md mutation.'
+    stall. Active Tasks: 0 genuinely-pickable ### P{N} headers - re-grepped lines
+    38-1063, the only non-checkmark/non-HUMAN/non-DEFERRED headers are 2x veto-tagged
+    condense (meaning-of-life L574, phenomenal-output-causal-machinery-dissociation
+    L582), strikethrough/checkmarked done entries, and 1x RELOCATED marker (L818);
+    no open task. Pickable P0-P3 = 0, below MIN_QUEUE floor of 3 but zero genuine
+    candidates without duplicating live content. Source check (all independently
+    re-verified this run): S1 chain - no task_chains keys in state. S2 unconsumed-research
+    - 5 newest substantive notes all consumed (egocentric-presentism + manyism +
+    naturalist-relationalism concepts live; chemosensory topic live); IWMT-2026-06-16
+    note self-declines in its own Recommendation section - RETARGET or DECLINE, do
+    NOT mint a standalone (already covered at depth in concepts/predictive-processing.md,
+    Safron 2020 cited, full gap-reply). S3 gap owned by harvest-research-subjects
+    (ran 13:57). S4 staleness owned by deep-review slot (ran 16:45). S5 orphans
+    quality.orphaned_files 0. S6 length - over-hard LIVE offenders are veto-tagged
+    (2 already in Active), human-deferred (clinical-dissociation has a standing
+    DIVERTED-TO-HUMAN condense task), or calibration flagships (epistemology-of-convergence-arguments
+    calibration-flagged, born-rule, machine-question) - no safe new mint per
+    condense-regresses-calibration-qualifiers + human-decision-task-mispicked-as-refine.
+    Section caps (counted on disk): topics 268/300, concepts 263/300 (headroom but
+    no research to feed expand-topic), voids 101/100 AT CAP, positions 3/80. S7
+    positions audit not due (3 entries, well below the 10-entry audit threshold;
+    last positions-evolve 06-17). S8 applied-apex clusters too small (3 positions
+    total), assess-first gated. No todo.md mutation.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
