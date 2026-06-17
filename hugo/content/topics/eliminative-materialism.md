@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-26
-ai_modified: 2026-06-16 23:38:19+00:00
+ai_modified: 2026-06-17 12:35:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -38,6 +38,9 @@ related_articles:
 - '[[the-epiphenomenalist-threat]]'
 - '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[the-naturalisation-failure-for-content]]'
+- '[[phenomenology-vs-function-axis]]'
+- '[[synaesthesia]]'
+- '[[aphantasia]]'
 title: Eliminative Materialism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -93,7 +96,7 @@ Frankish distinguishes three senses of "qualia":
 - **Zero qualia**: purely functional properties detectable in cognitive processing. Everyone agrees these exist.
 - **Diet qualia**: properties intermediate between classic and zero. Frankish treats these as unstable; the diet position collapses into either classic realism or zero functionalism.
 
-The illusionist's positive claim is that mental states possess only *quasi-phenomenal* properties: non-phenomenal physical-functional features that introspection systematically misrepresents as phenomenal. There is something it is like to be a system that quasi-phenomenally represents its own states as having classic qualia. There is no something-it-is-like in the realist's sense, because no such property exists for there to be.
+The illusionist's positive claim is that mental states possess only *quasi-phenomenal* properties: non-phenomenal physical-functional features that introspection systematically misrepresents as phenomenal. There is something it is like to be a system that quasi-phenomenally represents its own states as having classic qualia. There is no something-it-is-like in the realist's sense, because no such property exists for there to be. The within-species phenomenal-divergence cases the [function-phenomenology axis](/concepts/phenomenology-vs-function-axis/) catalogues—[synaesthesia](/topics/synaesthesia/)'s extra colour content and [aphantasia](/topics/aphantasia/)'s absent imagery under matched task performance—are the empirical pressure illusionism must absorb: they constrain the claim that introspection has nothing phenomenal to misrepresent, without by themselves establishing the realist alternative.
 
 Dennett's 2016 endorsement frames illusionism as "the obvious default theory" once one accepts that classic qualia are conceptually incoherent. His 1978 morphine argument is illustrative: subjects on morphine report excruciating pain that does not bother them. The folk concept of pain treats unpleasantness as essential to pain; the morphine case suggests pain and unpleasantness are dissociable. If the folk concept fragments under empirical pressure, the qualia it picks out may have been confused all along.
 

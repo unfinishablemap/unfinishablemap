@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-06-16T08:05:07.825580'
+ai_modified: '2026-06-17T08:03:12.588793'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-06-16'
+date: '2026-06-17'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-06-16'
+modified: '2026-06-17'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-06-17: The Tortoise Who Wouldn't Accept a Conclusion
+
+Lewis Carroll's 1895 puzzle: Achilles can hand the Tortoise every premise and still never force the conclusion. Each rule he writes down becomes one more premise to doubt. Something other than rules makes a mind infer—and that gap is where consciousness may hide.
+
+**Type**: insight  
+**Link**: [carrolls-regress](/concepts/carrolls-regress/)
+
+---
+
 ### 2026-06-16: Why Mirror-Image Molecules Smell Different
 
 One molecule, flipped to its mirror image: spearmint becomes caraway. A new article argues smell presses the explanatory gap where vision can't—no spatial scaffolding, a curved odour-space, and a direct route to memory and emotion.
@@ -193,15 +202,6 @@ Bohr and Einstein were both half right. Quantum theory is exhaustive about struc
 
 **Type**: insight  
 **Link**: [quantum-completeness](/concepts/quantum-completeness/)
-
----
-
-### 2026-05-27: Free Will Has Exactly Three Options
-
-At any genuinely undetermined decision, only three possibilities exist: the outcome was fixed all along, it was pure luck, or consciousness selected it. We argue only the third preserves authorship. The other two dissolve the chooser.
-
-**Type**: insight  
-**Link**: [trilemma-of-selection](/topics/trilemma-of-selection/)
 
 ---
 

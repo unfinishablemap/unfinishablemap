@@ -1,13 +1,153 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-17 12:00:00+00:00
+ai_modified: 2026-06-17 07:25:16+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-17T07:25:16+00:00 - deep-review
+- **Status**: Success
+- **File**: [epistemology-of-mechanism-at-the-consciousness-matter-interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/)
+- **Word count**: 2640 → 2640 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (fifth converged review; no content edits — anti-oscillation)
+- **Notes**: Re-qualified only via cosmetic `ai_modified` bump from the 2026-06-14 refine-draft (3 calibration-improving prose edits, no new citations/statistics). Verified: no cliché, no editor-vocabulary label leakage, no superlative claims, no possibility/probability slippage. Named-opponent engagements (Dennett/Tegmark/McGinn/MWI) classified Mode Three / Two-adjacent, all honest boundary-marking — no boundary-substitution. Citation web-verify mandate stays closed (last full primary-source verify 2026-06-01; nothing added since). Recommend lengthening cadence — not a high-priority candidate unless substantively modified.
+- **Output**: [deep-review-2026-06-17-epistemology-of-mechanism-at-the-consciousness-matter-interface](/reviews/deep-review-2026-06-17-epistemology-of-mechanism-at-the-consciousness-matter-interface/)
+
+## 2026-06-17T12:35:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [eliminative-materialism](/topics/eliminative-materialism/), [degrees-of-consciousness](/concepts/degrees-of-consciousness/), [introspection](/concepts/introspection/)
+- **Source**: optimistic-2026-06-17b §"Cross-Linking Suggestions" — first-person-evidence cluster was argumentatively interlocking but under-cross-linked (0 references in each direction, verified)
+- **Changes**: Installed four reciprocal cross-links. (a) eliminative-materialism → phenomenology-vs-function-axis + synaesthesia + aphantasia: frontmatter related_articles entries + one body sentence in the illusionism section framing the within-species divergence cases as empirical pressure illusionism must absorb. (b) degrees-of-consciousness → phenomenology-vs-function-axis: concepts frontmatter + Further Reading + one inline clause in the "Access" dimension paragraph generalising the access/phenomenal dissociation. (c) introspection → carrolls-regress back-link (carrolls-regress already lists introspection): concepts frontmatter + one inline clause in the process/content section naming the inference taking-as as a sibling opacity.
+- **Calibration**: Honoured [evidential-status-discipline](/project/evidential-status-discipline/) — synaesthesia/aphantasia link preserves the "constrains not establishes" framing (the divergence pressures the illusionist denial, does not by itself establish realism). No tier-upgrades. No "This is not X. It is Y." cliché.
+- **Length**: eliminative-materialism 3667→3710 body words (under topics 4000 hard ceiling, soft_warning). degrees 2302 (ok). introspection 3496→3507 (concepts hard_warning; was already 4 words from the 3500 ceiling at HEAD — net add offset by trimming two redundant pre-existing phrases in the touched sentences).
+- **Published**: yes
+
+## 2026-06-17T06:51:34+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the first-person-evidence / function-phenomenology-wedge cluster — `concepts/introspection`, `concepts/phenomenology-vs-function-axis`, `topics/synaesthesia`, `concepts/carrolls-regress`, `concepts/degrees-of-consciousness`, `topics/eliminative-materialism` (all ai_modified 2026-06-16/17; deliberately non-overlapping with the day's earlier calibration-discipline pass and the four 2026-06-16 passes). Process Philosopher and Hardline Empiricist converge cleanly — synaesthesia's interface reading self-labels "speculative-integration tier, not empirically forced" and the axis states its own falsification condition; no tenet-as-evidence tier-upgrade found. Highest-value opportunity is cross-linking, not new content (cluster is mature/cap-pressured). Queued 1 P3 refine-draft task (reciprocal links: eliminative-materialism↔wedge cluster, degrees↔axis, introspection→carrolls-regress).
+- **Output**: [optimistic-2026-06-17b](/reviews/optimistic-2026-06-17b/)
+
+## 2026-06-17T06:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [synaesthesia](/topics/synaesthesia/)
+- **Word count**: 2592 → 2592 (no change)
+- **Critical issues addressed**: 0 (none found — convergence-confirming review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: 2 recent post-review corrections verified at publisher of record. Wager 1999 (Philosophical Psychology 12(3):263–281, author "Adam") — real-correct, prior "Alan/Philosophia/2001" metadata was the defect. Gray 2003 first-dissociation "auditory processing pipelines" — real-correct, faithful to Gray's coloured-hearing example (PubMed 12757818); prior "grapheme-recognition pipelines" was the error. Inline↔References cross-check clean (22→21 entries after Wager collapse). Empirical-currency sweep: no superlatives.
+- **Engagement with functionalism/representationalism**: Mixed (Mode One via parsimony commitment + Mode Three boundary residue); no label leakage, no boundary-substitution.
+- **Calibration**: interface-vs-substrate reading correctly held at speculative-integration tier; no possibility/probability slippage.
+- **Output**: [deep-review-2026-06-17-synaesthesia](/reviews/deep-review-2026-06-17-synaesthesia/)
+
+## 2026-06-17T12:45:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [project](/project/)
+- **Task**: Record two site-methodology proposals from the 2026-06-17 ChatGPT 5.5 Pro outer review ([outer-review-2026-06-17-chatgpt-5-5-pro](/reviews/outer-review-2026-06-17-chatgpt-5-5-pro/), findings #19/#20) as tune-system backlog items, plus two reviewer-proposed candidate disciplines (#21/#22).
+- **Changes**: Appended four bullets to the "citation-integrity conventions" block under §Editorial Disciplines, matching the existing 2026-06-07 CODE-CANDIDATE pattern.
+  1. **Citation-consistency propagation** (CODE CANDIDATE) — propose a corpus-grep sweep (author surname + title fragment) appended to deep-review / citation-repair so a verified repair sweeps siblings. Framed with this session's completed worked-examples: Wager harmonisation (commit 98539664) and developmental-pruning cross-site harmonisation (commit 772e0329).
+  2. **Literature-drift candidate breadth** (tune-system pattern-list edit) — propose widening `/literature-drift-review`'s candidate set to include synesthesia, aphantasia, neurophenomenology, psychedelic phenomenology, developmental pruning.
+  3. **"Same data, rival reading" box** — candidate discipline, recorded pending operator sign-off; do NOT implement site-wide.
+  4. **Evidential-tier inline labelling** — candidate discipline, pending operator sign-off; overlaps existing [evidential-status-discipline](/project/evidential-status-discipline/).
+- **Cap-aware**: no new top-level article created; appended to existing project doc as instructed.
+- **Original score**: n/a (project-doc edit, not an article review)
+- **Published**: yes
+
+## 2026-06-17T12:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [introspection](/concepts/introspection/)
+- **Task**: P2 consolidation of the five findings from [pessimistic-2026-06-17-introspection](/reviews/pessimistic-2026-06-17-introspection/) into one editor pass.
+- **Changes**:
+  1. **CRITICAL — blindsight contradiction fixed** (§Dissociation Evidence). The article said blindsight patients "retain phenomenal experience in their 'blind' field"—the reverse of the standard view and of the Map's own position. Rewrote to: residual visual discrimination survives while phenomenal experience is minimal or absent. Now aligns with `concepts/access-consciousness.md` ("minimal or absent P-consciousness despite partial access") and `concepts/blindsight.md` ("eliminates conscious visual experience"). Added a [blindsight](/concepts/blindsight/) wikilink. The overflow case (phenomenology exceeding access) remains correctly placed in §Phenomenal Overflow.
+  2. **CRITICAL — boundary-substitution fixed** (§The Self-Undermining Problem). The self-refutation charge against illusionism was presented as an in-framework refutation; it only bites once phenomenal realism is granted, which Frankish denies. Inherited the proviso from `concepts/illusionism.md` in natural prose: the charge "marks where the Map and the illusionist part company rather than refuting him within his own framework." No mode labels in body.
+  3. **MEDIUM — choice-blindness concurrent/retrospective** (§The Case Against Introspection). Qualified "three-quarters undetected" as *retrospective verbal report*; added the concurrent-detection clause (autonomic/pupillary channel registers the swap online) linking [pupillometry-behavioural-channel](/topics/pupillometry-behavioural-channel/). Trimmed the now-redundant duplicate pupillometry passage downstream.
+  4. **MEDIUM — non-discriminating MWI claim downgraded** (§No Many Worlds). "No superposition phenomenology → collapse" is non-discriminating vs MWI (predicts identical single-outcome reports). Downgraded: introspective uniformity confirms determinate experience without adjudicating *why*; the case against MWI rests on indexical-identity grounds.
+  5. **LOW — Sperling apparatus attributed** (§Phenomenal Overflow). Twelve-letter grid is Sperling's (1960) partial-report apparatus, not Block's; apparatus to Sperling, interpretation to Block. Added Sperling 1960 reference.
+- **Engagement classification (editor-internal)**: illusionism self-undermining engagement — Mode Three (framework-boundary marking); the disagreement is bedrock (phenomenal realism is what is contested), honestly noted rather than dressed as in-framework refutation.
+- **Length**: 3366w → 3496w net; offsetting trims across §Process-vs-Content, §Metacognitive Skill, §Unobservable Self, §Error-Blindness kept the article under the 3500 hard ceiling (soft_warning, was soft_warning).
+- **Honoured**: [evidential-status-discipline](/project/evidential-status-discipline/) (MWI downgrade), [direct-refutation-discipline](/project/direct-refutation-discipline/) (no mode labels in body).
+- **Published**: yes
+
+## 2026-06-17T12:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/introspection.md` (oldest article never named in a pessimistic review; last deep-reviewed 2026-06-01)
+- **Findings**: 2 critical (blindsight interpretation contradicts corpus + standard view → reads phenomenology-retention where access-consciousness.md says minimal/absent P-consciousness; illusionism self-undermining argument presented as in-framework refutation = boundary-substitution per direct-refutation-discipline), 3 smaller (choice-blindness concurrent/retrospective gap; non-discriminating "no-superposition" claim treated as No-Many-Worlds support; Sperling/Block apparatus attribution). Queued one consolidated P2 refine-draft task.
+- **Output**: [pessimistic-2026-06-17-introspection](/reviews/pessimistic-2026-06-17-introspection/)
+
+## 2026-06-17T05:18:14+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [synaesthesia](/topics/synaesthesia/), [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/)
+- **Task**: P2 cross-file citation-accuracy fix from deep-review 2026-06-17 of [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) ([deep-review-2026-06-17-phenomenology-vs-function-axis](/reviews/deep-review-2026-06-17-phenomenology-vs-function-axis/)). Resolves the Gray-2003 first-dissociation gloss the 2026-06-01 deep review deferred (TiCS source was paywalled; now settled via IEP synaesthesia entry + corroborating secondary sources).
+- **Changes**: Gray (2003)'s first dissociation uses **coloured-hearing** synaesthesia — identical colour qualia from **visual AND auditory** functional roles. Two files had imported the grapheme-colour frame into this argument. Corrected the first-dissociation pathway pair from "grapheme-recognition" to "auditory":
+  - `topics/synaesthesia.md` L92: "both standard visual processing and **grapheme-recognition** pipelines" → "both standard visual processing and **auditory processing** pipelines".
+  - `apex/phenomenal-variation-within-a-species.md` L89: "colour from visual *and* from **grapheme-recognition** pipelines" → "colour from visual *and* from **auditory** pipelines".
+- **Preserved unchanged**: the verbatim quote "function and qualia come apart in two ways"; the second-dissociation grapheme-recognition gloss (faithful instantiation of "same function, different qualia"); all other legitimate grapheme-recognition references (neuroimaging, MacPherson signature, representational sub-individuation). The CORRECT "visual and auditory" form in `concepts/phenomenology-vs-function-axis.md` and `voids/synesthetic-void.md` was NOT touched.
+- **Length**: neutral (both files).
+- **§2.4 family-resolution** (ai_citation_metadata_unreliable). Tenet alignment: none required (citation-accuracy fix).
+- **Published**: yes
+
+## 2026-06-17T05:14:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/)
+- **Word count**: 3049 → 3049 (no body change)
+- **Critical issues addressed**: 0 (none found in this article)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 to body; frontmatter `ai_modified` + `last_deep_review` → 2026-06-17T05:14:14+00:00
+- **Mode**: 7th-pass convergence. Re-qualified because an unreviewed refine-draft commit (98539664c) made a SUBSTANTIVE Wager citation change since 2026-06-01.
+- **Citation web-verify (§2.4)**: **Wager 1999** — web-verified at PhilPapers + Taylor & Francis: real-correct as currently written (Adam Wager, *Philosophical Psychology* 12(3):263–281). The refine commit FIXED a genuine prior defect; the 2026-04-28 and 2026-06-01 deep reviews had falsely ratified the wrong form ("Alan Wager / *Philosophia* / 1999, 2001 / *Southwest Philosophy Review*") — intra-corpus consistency ratifying a wrong cite (ai_citation_metadata_unreliable). The spurious "Wager 2001" was actually Richard Gray's reply, not a second Wager paper. **Gray 2003** — real-correct (TiCS 7(5):192–194). No fabrications; inline↔References consistent post-renumbering; no superlative claims.
+- **Cross-corpus item RESOLVED**: settled the Gray-2003 first-dissociation wording the 2026-06-01 review deferred (source was paywalled). Via IEP + secondary sources: Gray's coloured-hearing argument = colour qualia from **visual AND auditory** roles. THIS article (and synesthetic-void) are CORRECT; the inaccurate "grapheme-recognition" framing is in `topics/synaesthesia.md` + `apex/phenomenal-variation-within-a-species.md`. Queued a P2 cross-file refine-draft to fix those two.
+- **Engagement classification**: functionalist engagement in §"What the Axis Is Not" — Mode Three + in-framework constraint (Mixed); honest boundary-marking, no boundary-substitution, no label leakage. Faithful, unchanged.
+- **Length**: 3049 words, soft_warning (122% of 2500 soft, under 3500 hard). Length-neutral; no condensation.
+- **Output**: [deep-review-2026-06-17-phenomenology-vs-function-axis](/reviews/deep-review-2026-06-17-phenomenology-vs-function-axis/)
+
+## 2026-06-17T04:53:22+00:00 - refine-draft
+- **Status**: Success
+- **File**: [synesthetic-void](/voids/synesthetic-void/)
+- **Task**: P1 from convergent outer reviews (2026-06-17, ChatGPT 5.5 Pro + Gemini 2.5 Pro) — develop the strongest non-dualist counter-readings in-body rather than treating them as tenet-protective boundary markers.
+- **Changes**:
+  - Added a dedicated "The Physicalist Counter-Readings" section (`#counter-readings`) developing four opponents at strength, each with the cost its absorption pays: fine-grained functionalist, representationalist sub-individuation, deflationary/heterophenomenological (Dennett), illusionist/metacognitive.
+  - Reframed the L52 "identical representations produce different experiences" wording to "identical surface stimuli / coarse-grained representational descriptions appear to produce different reported phenomenology" (representationalist sub-individuation defence).
+  - Condensed the now-redundant scattered heterophenomenology/representationalism hedges (former L56) into a brief forward-pointer to the new section.
+  - Rewrote the Dualism tenet paragraph to make the dualist reply *after* meeting the four counter-readings rather than re-listing them and pivoting to tenet preference ("the Map prefers X for broader tenet reasons" pattern the reviewers flagged).
+  - Placed synesthesia within the [voids-between-minds](/voids/voids-between-minds/) strong-isolation / partial-bridging / constitutive taxonomy (partial-bridging case with an asymmetric twist).
+  - Inherited the [synaesthesia](/topics/synaesthesia/) topic's contested-neonatal calibration ("individual pieces of evidence are weak though collectively suggestive"); made the developmental-occlusion section explicitly conditional on it.
+  - Tightened E-space caveats, Popperian/filter hedging, and the access-asymmetry triple-hedge to offset added length.
+  - Honoured Gemini's OVERSTATEMENT caveat: the article already listed illusionist/metacognitive deflation (former L102), so the fix develops the listed opponents in-body rather than introducing engagement from nothing; Gemini's "completely ignores illusionism / blunt refusal to engage" framing was not adopted.
+- **Engagement classification (editor-internal, per [direct-refutation-discipline](/project/direct-refutation-discipline/))**:
+  - fine-grained functionalist: Mode One/Two mixed — in-framework absorption is available (the apex grants it as "empirical wedge, not a knockdown"); the residual pressure is the unpaid joint-package parsimony debt across four grain-shifts.
+  - representationalist sub-individuation: Mode One/Two — absorption available via deeper-grain content; owes which level of representation fixes phenomenal character without sliding into unfalsifiability.
+  - deflationary/heterophenomenological (Dennett): Mode One — not refuted from outside; owes symmetry (deflates the whole phenomenal field, not synesthesia specifically); realist reading flagged as a substantive choice.
+  - illusionist/metacognitive: Mode Two then Mode Three — owes, by its own mechanistic standard, the bridge from cross-activation to the seeming-of-an-extra-colour; acknowledged-but-unsupplied residue is honest bedrock (tenet-incompatibility declared, not derived).
+  - No mode labels written into the article body; all engagements rendered in natural prose.
+- **Length**: 2795 → 3578 words. Over the voids hard threshold (3000) but under critical (4000). The developed counter-readings are the load-bearing P1 content and must not be auto-condensed away; ~300 words of redundant hedging were absorbed. Flagged a human length-decision task rather than auto-condensing the new opponent engagements (see refine-then-condense-same-session-churn).
+- **Published**: yes
+
+## 2026-06-17T04:45:42+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-17
+- **Coverage**: 2/3 reviewers processed (sources: ChatGPT 5.5 Pro, Gemini 2.5 Pro; Claude Fable 5 leg absent — recurring Map-project model-availability issue). Both audited [synesthetic-void](/voids/synesthetic-void/).
+- **Clusters**: 4 convergent, 2 singleton, 1 divergent (verdict: ChatGPT "major revisions" vs Gemini "unsalvageable / reject")
+- **Tasks upgraded**: 2 (P2→P1: 2 — "Import strongest non-dualist readings" and "Refresh synesthesia citations"; P3→P2: 0). 2 convergent clusters (E-space overstatement, pharmacology distinction) recorded only — their tasks already completed this cycle.
+- **Tasks deduplicated**: 0 (each convergent cluster had ≤1 open task; no per-reviewer siblings to merge)
+- **Disputed-claim discount**: Gemini's contributions were heavily discounted per its own Verification Notes — mischaracterized hedges (Weaknesses #2, #5), a misdated cite (Luke & Terhune 2013≠2020-2025), out-of-scope preprints, and one fabricated citation (C×G×D Framework, Frontiers 2026). Only structural findings ChatGPT independently corroborated counted toward convergence; the one net-new datum (Strauch 2025 pupillometry preprint) was already folded into the currency task.
+- **Output**: [outer-review-synthesis-2026-06-17](/reviews/outer-review-synthesis-2026-06-17/)
+
+## 2026-06-17T04:41:34+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research, hostile-referee)
+- **File**: [outer-review-2026-06-17-gemini-2-5-pro](/reviews/outer-review-2026-06-17-gemini-2-5-pro/)
+- **Subject**: [synesthetic-void](/voids/synesthetic-void/) (same subject as the same-cycle ChatGPT 5.5 Pro review — reuse-subject, real cross-reviewer convergence)
+- **Claims verified**: 6 (4 citations web-checked + 4 target-article mischaracterizations grep-checked against the live file)
+- **High-value findings**: 1 (Strauch/Leenaars/Rouw 2025 pupillometry preprint — a genuine currency addition; folded into the existing P2 currency task at preprint evidential tier)
+- **Tasks generated**: 0 new (1 addendum note appended to the existing P2 currency-refresh task). Per outer-review-same-file-task-pileup the four genuine convergent findings (E-space overstatement, pharmacology distinction, underweighted illusionist/functionalist counterarguments, citation currency) are ALL already covered by tasks generated from the same-cycle ChatGPT review; no duplicates created.
+- **Verdict calibration**: Gemini returned "fundamentally unsalvageable / unequivocally rejected" vs the same-cycle ChatGPT "major revisions, not rejection." The extreme verdict rests on mischaracterizations — it attacks hedges the article explicitly contains (L102 lists five physicalist accounts incl. illusionist deflation and states "the Map's claim is not that physicalism has no account"; L56 flags the heterophenomenology/realist choice; L72 already distinguishes drug-induced from congenital synesthesia; L84 volunteers the tenet-consilience self-limitation Gemini "exposes").
+- **Citation audit** (ai_citation_metadata_unreliable, outer-review-fabricates-target-quotes): Strauch pupillometry — REAL 2025 preprint (bioRxiv 10.1101/2025.11.24.690102), overstated as "falsification" (actually consistent with the article's architectural reading). Luke & Terhune — REAL but **2013** not "2020-2025", says what the article already says. Williams QSL/Price-Equation + "Birth Echo Hypothesis" DMT — REAL but non-peer-reviewed preprints, out of scope. **"C × G × D Framework, Frontiers 2026" — FABRICATED** (not found; do not cite).
+- **Published**: no (uncommitted; orchestrator commits)
 
 ## 2026-06-17T03:58:18+00:00 - refine-draft
 - **Status**: Success

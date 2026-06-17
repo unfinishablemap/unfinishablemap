@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-03
-ai_modified: 2026-06-07 00:00:00+00:00
+ai_modified: 2026-06-17 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -96,6 +96,16 @@ Two citation-integrity conventions, recorded from the 2026-06-07 outer-review cy
 
 - **Canonical empirical data card.** When several articles lean on the same high-stakes study or experimental programme (e.g. COGITATE for IIT/GWT adversarial testing), one article should host a single referenced data card — citation metadata, design, preregistration status, sample sizes, exact tested predictions, result summary, proponent responses (e.g. Naccache et al. 2025), and a last-verified date — and the rest should link to it rather than re-summarizing independently. Re-summarizing is how framing drifts: this cycle found a fabricated "split-win" COGITATE gloss spread across IIT/GWT/NCC/duhem-quine pages, now corrected. This generalizes the centralized-anchor handling already used for the [Maier-Dechamps micro-PK foreclosure](/project/mqi-empirical-fragility/), which lives as a single worked reference; a data card is the same move made explicit and reusable for any multi-article empirical claim.
 - **Orphan-citation check.** Every inline Author-Year cite should map to a References entry and vice-versa. This cycle caught a Papineau/Balog cite present inline but absent from References — a mechanically detectable defect. `scripts/validate.py` currently checks frontmatter only (no inline↔References cross-referencing), so a lightweight reference-orphan check is a CODE CANDIDATE flagged for operator / tune-system review; it is deliberately not auto-added to the validation pipeline by content work.
+
+Two further tune-system backlog items, recorded from the 2026-06-17 ChatGPT 5.5 Pro outer-review cycle (audit of [synesthetic-void](/voids/synesthetic-void/)). Both point at real workflow gaps and were motivated by completed worked-examples this session:
+
+- **Citation-consistency propagation.** When a deep review repairs a citation on one article, the corrected metadata is currently NOT propagated to sibling articles citing the same source, leaving stale duplicates. The live exhibit was the June 3 synesthetic-void Wager repair (correct: *Adam* Wager 1999, *Philosophical Psychology* 12(3):263–281), which left [synaesthesia](/topics/synaesthesia/) and [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/) still carrying the stale "*Alan* Wager (1999, 2001), *Philosophia* 27:571–584" metadata. Both were swept this session (Wager harmonisation, commit 98539664; developmental-pruning cross-site harmonisation, commit 772e0329), so they stand as completed worked-examples motivating a durable workflow change rather than open defects. PROPOSAL: append a corpus-grep step (by author surname + title fragment) to the deep-review / citation-repair workflows so a verified repair automatically sweeps siblings instead of relying on a later outer review to catch the drift. Recurs in the corpus-wide citation patterns logged in MEMORY (Craddock 613 THz sweep, Barrett 2021 eight-vs-six). CODE CANDIDATE for operator / tune-system review.
+- **Literature-drift candidate breadth.** `/literature-drift-review`'s active-research pattern list is too narrow — its own changelog note says so. Active empirical areas including synesthesia, aphantasia, neurophenomenology, psychedelic phenomenology, and developmental pruning are absent from the candidate set, so they never receive periodic web-checks. PROPOSAL: widen the pattern list to cover these areas. Low-cost (the audit already runs one WebSearch per run); a tune-system pattern-list edit, not new code.
+
+Two further reviewer proposals are recorded as CANDIDATE DISCIPLINES pending operator sign-off — do NOT implement site-wide without it:
+
+- **"Same data, rival reading" box.** Every void article that uses empirical evidence for a metaphysical tenet would carry a small inline box giving at least one physicalist/functionalist and one deflationary reading of the same data. Captured as a candidate convention; relates to [evidential-status-discipline](/project/evidential-status-discipline/) and [voids-circularity-discount](/project/voids-circularity-discount/).
+- **Evidential-tier inline labelling.** Distinguish evidential tiers inline (direct evidence / analogous-phenomenon evidence / adjacent-plasticity evidence / speculative integration) so philosophical analogies do not read as empirical conclusions. Overlaps the existing five-tier [evidential-status-discipline](/project/evidential-status-discipline/); the new element is the per-sentence inline-label convention, which is the part needing sign-off.
 
 **Engaging opponents.** The disciplines that govern reply-to-opponent prose.
 

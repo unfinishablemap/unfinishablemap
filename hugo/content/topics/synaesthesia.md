@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-08
-ai_modified: 2026-06-17 00:00:00+00:00
+ai_modified: 2026-06-17 06:30:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Human+AI exploration of synaesthesia—extra phenomenal content und
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 18:12:17+00:00
+last_deep_review: 2026-06-17 06:30:00+00:00
 modified: *id001
 related_articles:
 - '[[synesthetic-void]]'
@@ -91,7 +91,7 @@ The most philosophically charged feature of synaesthesia is the cleanness with w
 
 Adam Wager (1999) calls this the **extra qualia problem**: the synaesthete and the non-synaesthete shown the same letter on the same page have indistinguishable representational input at the surface stimulus level, but the synaesthete experiences additional phenomenal content. If phenomenology were determined by representational content (representationalism) or functional role ([functionalism](/concepts/functionalism/)), the additional content should not exist—the input is held constant. The empirical phenomenon does the work that the [inverted-spectrum thought experiment](/concepts/inverted-qualia/) tried to do conceptually: it produces a phenomenal divergence between functionally matched minds without requiring imaginative reconstruction. Wager's hedge survives: van Leeuwen's semantic-mediation finding shows synaesthete and non-synaesthete pipelines are not identical at deeper grain, so the "identical input" claim is a coarse-grain claim about surface representation rather than an end-to-end claim about processing.
 
-J.A. Gray (2003) presses the point further. He argues that in synaesthesia, "function and qualia come apart in two ways": *identical qualia arise from distinct functional roles* (colour experience is generated from both standard visual processing and grapheme-recognition pipelines), and *identical functional roles produce divergent qualia* (the grapheme-recognition process generates colour experience in synaesthetes but not in non-synaesthetes). If qualia tracked function, neither dissociation should occur.
+J.A. Gray (2003) presses the point further. He argues that in synaesthesia, "function and qualia come apart in two ways": *identical qualia arise from distinct functional roles* (colour experience is generated from both standard visual processing and auditory processing pipelines), and *identical functional roles produce divergent qualia* (the grapheme-recognition process generates colour experience in synaesthetes but not in non-synaesthetes). If qualia tracked function, neither dissociation should occur.
 
 Synaesthesia reads as the architecturally cleanest exemplar of the [phenomenology-vs-function](/concepts/phenomenology-vs-function-axis/) dissociation pattern in the Map's catalogue: the closest of the canonical cases to a strict instance of both Gray patterns at once, with the van-Leeuwen pipeline-identity caveat preserved. Aphantasia runs the same wedge in the opposite direction—same task-level function (e.g. mental rotation), divergent phenomenology (vivid imagery vs. nothing)—making the two cases a matched pair across the within-species divergence cluster.
 

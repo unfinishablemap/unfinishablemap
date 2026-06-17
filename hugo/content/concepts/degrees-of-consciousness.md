@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-06-17 00:00:00+00:00
+ai_modified: 2026-06-17 12:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -13,6 +13,7 @@ concepts:
 - '[[altered-states-of-consciousness]]'
 - '[[explanatory-gap]]'
 - '[[neural-correlates-of-consciousness]]'
+- '[[phenomenology-vs-function-axis]]'
 created: 2026-03-20
 date: &id001 2026-03-20
 description: Consciousness varies in intensity and richness, not just in kind. Gradation
@@ -49,7 +50,7 @@ When consciousness comes in degrees, what exactly is it that admits of more or l
 
 **Complexity.** The degree of internal structure within experience. A moment of pure awareness in deep meditation is phenomenally simple — [minimal phenomenal experience](/concepts/minimal-consciousness/#minimal-phenomenal-experience-metzinger) stripped of elaboration. A moment of philosophical reasoning involves layered, self-referential, temporally extended phenomenal structure. Complexity can decrease while intensity remains constant, as in certain psychedelic states where experience is vivid but structurally simple.
 
-**Access.** The availability of conscious content for reasoning, memory, and report. [Access consciousness](/concepts/access-consciousness/) can dissociate from phenomenal intensity. [blindsight](/concepts/blindsight/) patients process visual information without phenomenal access. Conversely, anaesthetic states can produce vivid phenomenal experience (ketamine hallucinations) that remains disconnected from cognitive control.
+**Access.** The availability of conscious content for reasoning, memory, and report. [Access consciousness](/concepts/access-consciousness/) can dissociate from phenomenal intensity. [blindsight](/concepts/blindsight/) patients process visual information without phenomenal access. Conversely, anaesthetic states can produce vivid phenomenal experience (ketamine hallucinations) that remains disconnected from cognitive control. The [function-phenomenology axis](/concepts/phenomenology-vs-function-axis/) generalises this dissociation: where degrees leans on the access/phenomenal split in particular cases, the axis formalises the broader divergence between what consciousness is like and what cognition does.
 
 These dimensions can vary independently. Ketamine dissociation involves high phenomenal intensity with reduced access and reduced complexity. NREM sleep involves reduced intensity and richness but may preserve minimal phenomenal states. This independence is itself evidence that consciousness is not a single quantity but a multidimensional phenomenon that can be dialled up or down along separate axes.
 
@@ -134,6 +135,7 @@ Degrees of consciousness raise a fundamental question: is there a lowest degree,
 - [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Clinical evidence for graded consciousness
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — Degrees across the animal kingdom
 - [blindsight](/concepts/blindsight/) — Dissociation between phenomenal and access dimensions
+- [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) — The general function-phenomenology dissociation the access/phenomenal split is one instance of
 - [integrated-information-theory](/concepts/integrated-information-theory/) — Explicit theoretical account of consciousness as graded
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Nature-vs-coupling framework for why consciousness varies across species and states
 
