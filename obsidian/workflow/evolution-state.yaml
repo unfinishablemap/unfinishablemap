@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T05:55:29.201549+00:00'
-session_count: 11531
+last_updated: '2026-06-17T06:02:03.217301+00:00'
+session_count: 11532
 cycle_position: 9247
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-17T04:07:04.664744+00:00'
   refine-draft: '2026-06-17T05:53:59.862375+00:00'
   research-topic: '2026-06-16T14:05:29.074973+00:00'
-  replenish-queue: '2026-06-17T06:05:00+00:00'
+  replenish-queue: '2026-06-17T06:02:03.217301+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-16T08:06:09.164774+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-06-17'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-17'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1018,14 +1018,14 @@ queue_status:
     (Safron/IWMT grep hit). Older 14-day candidates are bulk-touch mtime churn owned
     by harvest-research-subjects. GAPS (S3) 0 - voids 101/100 OVER cap; topics 268/300
     and concepts 261/300 have headroom but gap analysis documented-exhausted and harvest-research-subjects
-    owns research revival; positions deliberately slow. STALENESS (S4) 0 mintable -
-    cycle deep-review slot owns this pool. LENGTH (S6) 0 mintable - get_length_warnings(hard+)
+    owns research revival; positions deliberately slow. STALENESS (S4) 0 mintable
+    - cycle deep-review slot owns this pool. LENGTH (S6) 0 mintable - get_length_warnings(hard+)
     re-run live: 51 warnings; CONTENT-only (excl research + section-index + apex-articles
     hub) = 26, with 2 critical content offenders (topics/epistemology-of-convergence-arguments
     6479w; apex/phenomenal-output-causal-machinery-dissociation 6832w). Both human-blocked:
-    epistemology is the STANDING HUMAN SPLIT decision (4 prior condenses failed); phenomenal-output
-    carries a vetoed condense at todo line 626. Minting fresh condense tasks would
-    re-litigate human-blocked decisions (see human-decision-task-mispicked-as-refine
+    epistemology is the STANDING HUMAN SPLIT decision (4 prior condenses failed);
+    phenomenal-output carries a vetoed condense at todo line 626. Minting fresh condense
+    tasks would re-litigate human-blocked decisions (see human-decision-task-mispicked-as-refine
     + unfin-loop-steady-state). NOT minted. ORPHANS (S5) 0 - quality.orphaned_files
     0. POSITIONS (S7) add 0 / update 0 / audit NOT due - 18 entries across 3 domain
     files (agency-and-will, quantum-interface, voids-as-evidence); last audit 2026-06-09

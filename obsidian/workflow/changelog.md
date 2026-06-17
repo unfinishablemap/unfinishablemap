@@ -5,6 +5,19 @@ ai_modified: 2026-06-17 12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-17T12:45:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[project/project]]
+- **Task**: Record two site-methodology proposals from the 2026-06-17 ChatGPT 5.5 Pro outer review ([[reviews/outer-review-2026-06-17-chatgpt-5-5-pro]], findings #19/#20) as tune-system backlog items, plus two reviewer-proposed candidate disciplines (#21/#22).
+- **Changes**: Appended four bullets to the "citation-integrity conventions" block under §Editorial Disciplines, matching the existing 2026-06-07 CODE-CANDIDATE pattern.
+  1. **Citation-consistency propagation** (CODE CANDIDATE) — propose a corpus-grep sweep (author surname + title fragment) appended to deep-review / citation-repair so a verified repair sweeps siblings. Framed with this session's completed worked-examples: Wager harmonisation (commit 98539664) and developmental-pruning cross-site harmonisation (commit 772e0329).
+  2. **Literature-drift candidate breadth** (tune-system pattern-list edit) — propose widening `/literature-drift-review`'s candidate set to include synesthesia, aphantasia, neurophenomenology, psychedelic phenomenology, developmental pruning.
+  3. **"Same data, rival reading" box** — candidate discipline, recorded pending operator sign-off; do NOT implement site-wide.
+  4. **Evidential-tier inline labelling** — candidate discipline, pending operator sign-off; overlaps existing [[evidential-status-discipline]].
+- **Cap-aware**: no new top-level article created; appended to existing project doc as instructed.
+- **Original score**: n/a (project-doc edit, not an article review)
+- **Published**: yes
+
 ## 2026-06-17T12:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/introspection]]
