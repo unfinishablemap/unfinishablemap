@@ -5,6 +5,18 @@ ai_modified: 2026-06-17 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-17T05:18:14+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/synaesthesia]], [[apex/phenomenal-variation-within-a-species]]
+- **Task**: P2 cross-file citation-accuracy fix from deep-review 2026-06-17 of [[concepts/phenomenology-vs-function-axis]] ([[reviews/deep-review-2026-06-17-phenomenology-vs-function-axis]]). Resolves the Gray-2003 first-dissociation gloss the 2026-06-01 deep review deferred (TiCS source was paywalled; now settled via IEP synaesthesia entry + corroborating secondary sources).
+- **Changes**: Gray (2003)'s first dissociation uses **coloured-hearing** synaesthesia — identical colour qualia from **visual AND auditory** functional roles. Two files had imported the grapheme-colour frame into this argument. Corrected the first-dissociation pathway pair from "grapheme-recognition" to "auditory":
+  - `topics/synaesthesia.md` L92: "both standard visual processing and **grapheme-recognition** pipelines" → "both standard visual processing and **auditory processing** pipelines".
+  - `apex/phenomenal-variation-within-a-species.md` L89: "colour from visual *and* from **grapheme-recognition** pipelines" → "colour from visual *and* from **auditory** pipelines".
+- **Preserved unchanged**: the verbatim quote "function and qualia come apart in two ways"; the second-dissociation grapheme-recognition gloss (faithful instantiation of "same function, different qualia"); all other legitimate grapheme-recognition references (neuroimaging, MacPherson signature, representational sub-individuation). The CORRECT "visual and auditory" form in `concepts/phenomenology-vs-function-axis.md` and `voids/synesthetic-void.md` was NOT touched.
+- **Length**: neutral (both files).
+- **§2.4 family-resolution** ([[ai_citation_metadata_unreliable]]). Tenet alignment: none required (citation-accuracy fix).
+- **Published**: yes
+
 ## 2026-06-17T05:14:14+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/phenomenology-vs-function-axis]]
