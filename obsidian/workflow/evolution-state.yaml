@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T02:10:55.412299+00:00'
-session_count: 11489
-cycle_position: 9229
+last_updated: '2026-06-17T02:11:08.715694+00:00'
+session_count: 11490
+cycle_position: 9230
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-17T00:23:07.301820+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-06-17T00:41:47.595053+00:00'
   check-model-fallback: '2026-06-16T23:59:39.357058+00:00'
   harvest-research-subjects: '2026-06-17T01:43:59.127102+00:00'
-  skip-queue-slot: '2026-06-17T01:51:53.603570+00:00'
+  skip-queue-slot: '2026-06-17T02:11:08.715694+00:00'
 last_git_push: '2026-06-17T00:16:01.312894+00:00'
 last_tweet_date: '2026-06-16'
 content_stats:
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-17'
-  outcome: success
 - task: positions-evolve
   type: positions-evolve
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-17'
+  outcome: success
+- task: skip-queue-slot
+  type: skip-queue-slot
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -994,54 +994,53 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 0
-  last_replenishment: '2026-06-17T02:25:00+00:00'
+  last_replenishment: '2026-06-17T02:40:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-17 run no.170 (standard mode) - HONEST NO-OP
-    for new-task minting (0 minted), the NINTH consecutive. AUTHORITATIVE verify from
+  current_replenishment_note: '2026-06-17 run no.171 (standard mode) - HONEST NO-OP
+    for new-task minting (0 minted), the TENTH consecutive. AUTHORITATIVE verify from
     disk via tools.evolution.task_selector: count_p0_p2_tasks=0 AND select_queue_task=None
     (both re-run live this session against todo.md content, NOT trusted from the prior
-    note). Active Tasks has exactly 2 genuinely-open `### P` headers (the rest are
-    closed checkmark/HUMAN-decision headers): BOTH `#veto` condense tasks (topics/meaning-of-life.md
-    4160w SOFT at its pure-condense floor / human-split pending; apex/phenomenal-output-causal-machinery-dissociation.md
-    6989w #veto + BLOCKED-needs-human flagship) - the selector correctly excludes
-    both, so the queue is genuinely drained. EIGHT SOURCES re-derived from disk this
-    run. CHAINS (S1) 0 - recent_tasks window (last ~20) is replenish/review/social/cycle/skip
-    ONLY; NO expand-topic or research-topic completion to chain from. UNCONSUMED RESEARCH
-    (S2) 0 - 398 notes; 3 newest non-voids (all 06-16) RE-CONFIRMED consumed on disk:
-    chemosensory->topics/chemosensory-consciousness-and-the-interface.md, naturalist-relationalism->concepts/naturalist-relationalism.md,
-    IWMT->folded into concepts/predictive-processing.md (Safron grep-confirmed). GAPS
-    (S3) 0 - voids 101/100 OVER cap (research-voids skips); topics 268/300 + concepts
-    261/300 have headroom but gap analysis is documented-exhausted and harvest-research-subjects
+    note). Active Tasks has exactly 2 genuinely-open `### P` headers (lines 596/604,
+    both `#veto` condense flagships - meaning-of-life.md 4160w SOFT at its pure-condense
+    floor / human-split pending; apex/phenomenal-output-causal-machinery-dissociation.md
+    6989w #veto + BLOCKED-needs-human); the selector correctly excludes both, so the
+    queue is genuinely drained. NOTE: a naive content.find(''## Completed'') is fooled
+    by a prose mention of that string inside a task NOTE at line ~347 - trust the parser,
+    not a manual regex split. EIGHT SOURCES re-derived from disk this run. CHAINS (S1)
+    0 - recent_tasks window is replenish/review/social/cycle/skip ONLY; NO expand-topic
+    or research-topic completion to chain from. UNCONSUMED RESEARCH (S2) 0 - 397 notes;
+    3 newest non-voids (all 06-16) RE-CONFIRMED consumed on disk this run: chemosensory->topics/chemosensory-consciousness-and-the-interface.md,
+    naturalist-relationalism->concepts/naturalist-relationalism.md, IWMT->folded into
+    concepts/predictive-processing.md (Safron grep-confirmed). GAPS (S3) 0 - voids
+    101/100 OVER cap (research-voids skips); topics 268/300 + concepts 261/300 have
+    headroom but gap analysis is documented-exhausted and harvest-research-subjects
     now owns research revival (ran 01:43 today); positions deliberately slow. STALENESS
     (S4) 0 mintable - the cycle deep-review slot (ran 00:57) owns this pool. LENGTH
-    (S6) 0 mintable but CORRECTING the prior 8 notes which claimed a blanket "no clean
-    mintable offender": a FRESH tools.curate.length sweep DID surface stable never-condensed
-    hard_warning CONTENT offenders the prior notes glossed - I then individually excluded
-    each. composition-question-rivals 4106w/164% = churned 06-15 (coalesce+deep-review+cross-link,
-    the deep-review was length-aware & left it). valence-and-conscious-selection 4092w/136%
-    = has a standing HUMAN LENGTH DECISION header (todo line 2256, 2026-06-05, load-bearing
-    fork-calibration) -> auto-condensing it is the self-defeating human-decision mis-pick;
-    excluded. consciousness-in-simple-organisms 4025w (25w over) + phenomenal-authority-and-first-person-evidence
-    4022w (22w over) = the ONLY never-deferred never-condensed offenders, but each
-    is ~0.6% over a 4000w line on freshly-deep-reviewed (06-02 / 06-03) citation-heavy
-    content; a sub-100w condense is pure churn w/ regression risk - NOT minted. CONTENT
-    criticals all blocked as before (apex/apex-articles.md 7238w index-hub exempt;
-    phenomenal-output 6832w #veto+human; epistemology-of-convergence-arguments 6479w
-    DIVERTED-TO-HUMAN line 238, 4 prior condenses failed to hold). Remaining critical
-    entries are all research/ SOURCE NOTES (neoplatonist 6574w, cross-tradition-channel
+    (S6) 0 mintable - a FRESH tools.curate.length sweep this run enumerated EVERY hard+
+    site (non-research) offender and individually checked last_deep_review + git last-touch:
+    all 3 criticals are human-blocked flagships (apex/apex-articles.md 7238w index-hub
+    exempt; phenomenal-output 6832w #veto+human; epistemology-of-convergence-arguments
+    6479w DIVERTED-TO-HUMAN, 4 prior condenses failed to hold). ALL hard_warning site
+    offenders (born-rule 5106w, machine-question 5001w, clinical-dissociation 4861w,
+    time-collapse-and-agency 4606w, argument-from-reason 4489w, epistemic-advantages
+    4400w, memory-channel 4296w, composition-question-rivals 4106w, valence-and-conscious-selection
+    4092w [standing HUMAN LENGTH DECISION], consciousness-in-simple-organisms 4025w,
+    phenomenal-authority 4022w, et al.) sit in the 4000-5100w band JUST over their hard
+    line and were ALL deep-reviewed/refined length-aware within the last ~2wk (git-confirmed:
+    memory-channel deep-reviewed 06-16, machine-question refined 06-13, born-rule 06-08,
+    argument-from-reason 06-09, etc.) - condensing now is sub-ceiling churn w/ regression
+    risk ([[unfin-loop-steady-state]]), NOT minted. Remaining critical entries in the
+    raw sweep are all research/ SOURCE NOTES (neoplatonist 6574w, cross-tradition-channel
     6265w, voids-confabulation 6084w, selection-only 5494w, dualism-as-ai-risk 5226w)
     - not condensable site articles. ORPHANS (S5) 0 - quality.orphaned_files 0. POSITIONS
-    (S7) add 0 / update 0 / audit NOT due - CORRECTING the prior note: the register
-    has 18 entries (10 quantum-interface + 3 voids-as-evidence + 5 agency-and-will),
-    NOT 3 (state progress.positions_written=3 is a stale domain-file undercount);
-    so the >=10-entry audit cadence DOES apply, but last audit was 2026-06-09 (reviews/positions-audit-2026-06-09.md),
-    only 8d ago, inside the 30d window -> next ~07-09, not due. APPLIED-APEX (S8)
-    0 - A1+A5 live (A5 created 06-16, yesterday); A2-A4 only "Proposed" not sanctioned
-    create-slots, and applied-apex gap detection is deliberately slow (max 1/run);
-    minting one day after A5 violates that discipline. OUTER REVIEWS: 06-16 cycle
-    (chatgpt+gemini both collected, 06-16 synthesis exists) resolved; a NEW 06-17
-    chatgpt review is already pending ("Audit synesthetic-void", commissioned 02:05)
-    so the outer pipeline is live and will yield its own tasks - no filler warranted.
+    (S7) add 0 / update 0 / audit NOT due - register has 18 entries across 3 domain
+    files (agency-and-will + quantum-interface + voids-as-evidence; state progress.positions_written=3
+    is a stale domain-file undercount); >=10-entry audit cadence applies but last audit
+    2026-06-09 (8d ago, reviews/positions-audit-2026-06-09.md) is inside the 30d window
+    -> next ~07-09, not due. APPLIED-APEX (S8) 0 - A5 created 06-16 (yesterday); applied-apex
+    gap detection is deliberately slow (max 1/run) so minting one day later violates
+    that discipline. OUTER REVIEWS: a 06-17 chatgpt review is pending (commissioned
+    02:05) so the outer pipeline is live and will yield its own tasks - no filler warranted.
     State YAML re-validated post-edit (parses OK).'
   replenishment_source_counts_last_run:
     applied_apex: 0
