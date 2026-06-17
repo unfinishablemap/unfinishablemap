@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Reciprocate links from worked-example concept pages back to the architecture-vs-significance discount discipline
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-17. [[project/architecture-vs-significance-two-tier-discount]] is a core citation discipline (governs how topic/concept articles cite findings) but has only 3 inbound links, all from `project/` — it is invisible from the content layer it governs. Its own related_articles already point AT four worked-example pages, but none link back (non-reciprocal): add a length-neutral Further Reading link to `[[architecture-vs-significance-two-tier-discount]]` from each of (1) `obsidian/concepts/anti-correlated-metacognitive-signal.md`, (2) `obsidian/concepts/mine-ness.md`, (3) `obsidian/concepts/active-reboot.md`, (4) `obsidian/concepts/inventory-blindness.md`. Each is a named worked example in the discipline page, so the backlink is editorially justified, not decorative. Length-neutral; verify links resolve. Tenet alignment: Tenet 5 (Occam's-limits enforcement). NOTE: this is a 4-file task — confirm all four are done before marking complete ([[multifile_task_dropped_file]]). See [[reviews/optimistic-2026-06-17]].
+- **Source**: optimistic-review
+- **Generated**: 2026-06-17
+
 ### ✓ P2: Distinguish common-root from mutual-confirmation in the P-A2 ↔ Tenet 4 reciprocal-dependency note
 - **Type**: positions-evolve
 - **Status**: done 2026-06-17 — executed via /positions-evolve update P-A2. Rewrote the "Bears on" note to distinguish *logical interdependence* (legitimate: No-MWI supplies counterfactual exclusion for sourcehood; agent causation + mine-ness supply the persisting subject the indexical objection needs — the claims co-vary and are coherent) from *evidential bootstrapping* (illegitimate: neither claim is independent confirmation of the other). Reframed as **common root**: both descend from the independently-motivated thick-indexical-subject commitment, so citing the mutual entailment *as support* would count that one commitment twice; cited the parallel [[positions/voids-as-evidence]] common-cause discipline. Added a dated P-A2 update note; Last reviewed → 2026-06-17; no confidence change. Cascade flagged: [[tenets]] ~line 118 carries a matching "dependency is mutual" phrase — queued the P3 below to harmonise it (out of Issue 2's named scope). See [[reviews/pessimistic-2026-06-17-positions-registers]] Issue 2.
