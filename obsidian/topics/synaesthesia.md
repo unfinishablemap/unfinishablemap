@@ -4,8 +4,8 @@ description: "Human+AI exploration of synaesthesia—extra phenomenal content un
 created: 2026-05-08
 modified: 2026-05-08
 human_modified:
-ai_modified: 2026-06-17T05:18:14+00:00
-last_deep_review: 2026-06-02T18:12:17+00:00
+ai_modified: 2026-06-17T06:30:00+00:00
+last_deep_review: 2026-06-17T06:30:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"

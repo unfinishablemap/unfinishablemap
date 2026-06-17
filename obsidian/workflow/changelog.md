@@ -5,6 +5,18 @@ ai_modified: 2026-06-17 12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-17T06:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/synaesthesia]]
+- **Word count**: 2592 → 2592 (no change)
+- **Critical issues addressed**: 0 (none found — convergence-confirming review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: 2 recent post-review corrections verified at publisher of record. Wager 1999 (Philosophical Psychology 12(3):263–281, author "Adam") — real-correct, prior "Alan/Philosophia/2001" metadata was the defect. Gray 2003 first-dissociation "auditory processing pipelines" — real-correct, faithful to Gray's coloured-hearing example (PubMed 12757818); prior "grapheme-recognition pipelines" was the error. Inline↔References cross-check clean (22→21 entries after Wager collapse). Empirical-currency sweep: no superlatives.
+- **Engagement with functionalism/representationalism**: Mixed (Mode One via parsimony commitment + Mode Three boundary residue); no label leakage, no boundary-substitution.
+- **Calibration**: interface-vs-substrate reading correctly held at speculative-integration tier; no possibility/probability slippage.
+- **Output**: [[reviews/deep-review-2026-06-17-synaesthesia]]
+
 ## 2026-06-17T12:45:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[project/project]]
