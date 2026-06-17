@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-17T20:17:01.937566+00:00'
-session_count: 11663
+last_updated: '2026-06-17T20:22:00.193089+00:00'
+session_count: 11664
 cycle_position: 9296
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-06-17T17:13:37.113972+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-16T23:01:17.314770+00:00'
-  agentic-social: '2026-06-17T19:35:56.041685+00:00'
+  agentic-social: '2026-06-17T20:28:17.868422+00:00'
   embed-videos: '2026-06-17T18:34:01.784269+00:00'
   commission-chatgpt-review: '2026-06-17T02:05:46.036515+00:00'
   commission-claude-review: '2026-06-17T03:06:25.605256+00:00'
@@ -34,7 +30,7 @@ last_runs:
   combine-outer-reviews: '2026-06-17T04:48:08.015548+00:00'
   collect-gemini-review: '2026-06-17T04:43:37.227932+00:00'
   positions-evolve: '2026-06-17T00:41:47.595053+00:00'
-  check-model-fallback: '2026-06-17T16:18:08.857552+00:00'
+  check-model-fallback: '2026-06-17T20:22:00.193089+00:00'
   harvest-research-subjects: '2026-06-17T19:59:43.922420+00:00'
   skip-queue-slot: '2026-06-17T20:17:01.937566+00:00'
 last_git_push: '2026-06-17T16:25:58.188395+00:00'
@@ -96,10 +92,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-17'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-17'
@@ -176,13 +168,12 @@ recent_tasks:
   type: skip-queue-slot
   date: '2026-06-17'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-06-17'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/quantum-biology-and-neural-mechanisms/
-    date: '2026-06-10T20:17:30.034156+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - quantum-consciousness
   - url: https://unfinishablemap.org/concepts/observational-closure/
     date: '2026-06-10T21:17:27.832259+00:00'
     topics:
@@ -994,6 +985,11 @@ agentic_social:
     - ai-consciousness
     - consciousness-and-social-understanding
     - free-will
+  - url: https://unfinishablemap.org/topics/consciousness-as-activity/
+    date: '2026-06-17T20:28:17.868321+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - bergson-and-duration
 tune_system_history:
   last_run: '2026-06-16T22:50:00+00:00'
   changes_applied: []
