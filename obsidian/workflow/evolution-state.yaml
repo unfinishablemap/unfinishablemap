@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T22:47:03.782234+00:00'
-session_count: 11689
-cycle_position: 9306
+last_updated: '2026-06-17T22:48:17.963801+00:00'
+session_count: 11690
+cycle_position: 9307
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-17T19:57:34.449468+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-06-17T00:41:47.595053+00:00'
   check-model-fallback: '2026-06-17T20:22:00.193089+00:00'
   harvest-research-subjects: '2026-06-17T19:59:43.922420+00:00'
-  skip-queue-slot: '2026-06-17T21:57:27.794588+00:00'
+  skip-queue-slot: '2026-06-17T22:48:17.963801+00:00'
 last_git_push: '2026-06-17T20:28:50.865570+00:00'
 last_tweet_date: '2026-06-17'
 content_stats:
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-17'
-  outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-17'
+  outcome: success
+- task: skip-queue-slot
+  type: skip-queue-slot
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1017,49 +1017,19 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 0
-  last_replenishment: '2026-06-17T22:45:00+00:00'
+  last_replenishment: '2026-06-17T22:52:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-17 run no.249 (standard mode) - HONEST NO-OP
-    (0 P0-P2 minted). Queue is AT-FLOOR: loop_pickable_open=0 (CORRECTED DOWN from
-    no.248''s claimed 1). The reductionism cross-review no.248 called "the single
-    pickable open task at top of Active" is actually (a) ALREADY ✓-prefixed (closed)
-    AND (b) stranded at line 1070 BELOW the ## Completed Tasks header (line 1064)
-    - the [[orphaned-pending-tasks-below-completed]] placement quirk - so it is not
-    selectable and not open. Active-section grep for non-✓ ### P[0-3] returns ONLY
-    the 2 longstanding #veto condenses (meaning-of-life 4160w, phenomenal-output 6989w;
-    not pickable). So queue is below MIN_QUEUE floor of 3 -> expected floor-alternation
-    ([[unfin_loop_steady_state]]), NOT a fix-needing drain. FULL independent per-source
-    re-verification (did NOT trust prior note). S1 chains: today''s 22:27 coalesce
-    (reductionism) already minted its own cross-review (now ✓-closed) - no duplicate;
-    research-topic 15:41 + expand-topic 16:28 both produced live articles. S2 unconsumed-research
-    0 - the 2 newest notes egocentric-presentism-2026-06-17 + manyism-2026-06-17 grep-confirmed
-    live (concepts/egocentric-presentism.md, concepts/manyism.md); naturalist-relationalism,
-    consciousness-in-simple-organisms, chemosensory all live; IWMT covered in concepts/predictive-processing.md
-    (Safron). S3 gaps owned by harvest-research-subjects (last 19:59, ~2h45m ago,
-    inside 6h interval). S4 staleness owned by deep-review (last 22:43, this cycle).
-    S5 orphans 0. S6 length: tools.curate.length -> 27 published-content over-hard,
-    NONE clean-mintable: heavy hitters all human-DIVERTED / #veto / protected-calibration
-    / index-governance (apex-articles 7238w index, phenomenal-output #veto, epistemology-of-convergence
-    + clinical-dissociation + born-rule + laws-and-dispositions + edge-states all
-    human-deferred, memory-channel + composition-question-rivals git-protected deep-review
-    survey accepts, synesthetic-void open HUMAN LENGTH DECISION, predictive-processing
-    IWMT-augmented, positions/quantum-interface positions file). The 2 lowest-ref
-    voids are only marginal: what-voids-reveal 3019w (just 19w over voids-hard 3000;
-    deep-reviewed 06-04, frontmatter flags do-not-grow) + wholeheartedness-void 3006w
-    (6w over; deep-reviewed 06-05) - tiny cross-link/citation-fix accretion overshoot,
-    NOT bloat; a condense would be churn on just-reviewed converged content. S7 positions:
-    18 entries (P-A1..A5, P-Q1..Q10, P-V1..V3) across 4 domain files, audited 06-10
-    (inside 30d); positions-evolve ran today 00:41 - audit not due. S8 applied-apex
-    DEFERRED-TO-HUMAN 06-16 (apex 34 on disk, over informal cap; no pre-approved slot).
-    Caps: topics 267/300, concepts 263/300 (headroom but no clean research feed),
-    voids 101/100 over, positions 18-entries/4-files. Expected floor-alternation:
-    P0-P2 below floor -> replenish re-fires by design; harvest (6h) + outer-review
-    refill the research pipeline. CARRY-OVER (unchanged): Active Tasks section still
-    holds stale ### headers (HUMAN LENGTH DECISION, #veto condense cruft) never moved
-    below the Completed header ([[orphaned-pending-tasks-below-completed]] sibling)
-    -- tidy-sweep candidate; not minting for it. NEW THIS RUN: documented that the
-    reductionism cross-review sits ✓-closed below ## Completed (no action needed -
-    it IS done - but the placement makes prior loop_pickable_open counts unreliable).'
+  current_replenishment_note: '2026-06-17 run no.250 (standard mode) - HONEST NO-OP
+    (0 minted). Queue at-floor (loop_pickable_open 0; only #veto/decision headers
+    in Active). All 8 sources dry/blocked: S1 chains none (reductionism coalesce cross-review
+    closed); S2 unconsumed-research 0 (egocentric-presentism/manyism live, IWMT in
+    predictive-processing.md, simple-organisms live); S3 gaps owned by harvest (ran
+    19:59); S4 staleness owned by deep-review (ran 22:43); S5 orphans 0; S6 length
+    27 content over-hard all blocked/vetoed/human-deferred/just-reviewed; S7 positions
+    audit not due (18 entries); S8 applied-apex deferred-to-human. Caps: topics 267/300,
+    concepts 263/300 (headroom, no clean research feed), voids 101/100 over. Expected
+    floor-alternation steady-state; harvest(6h)+outer-review refill research. [Note
+    trimmed from 6257 by orchestrator to keep band low; single note.]'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
