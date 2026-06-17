@@ -200,6 +200,7 @@ The combination problem is not an argument *for* the Map's framework, but it sho
 - [[hard-problem-of-consciousness]] — The problem panpsychism aimed to solve
 - [[qualia]] — What must combine (or not)
 - [[composition-and-consciousness|phenomenal non-compositionality]] — Why consciousness resists composition categorically
+- [[manyism]] — Roelofs' experience-sharing reply: overlapping subjects coexist, dissolving subject-summing
 - [[panpsychisms-combination-problem]] — In-depth treatment of the problem's three dimensions and de-combination
 - [[mereology-of-mind]] — The apex synthesis where de-combination is the named hinge joining composition and individuation
 - [[consciousness-and-the-metaphysics-of-individuation]] — The complementary problem: what draws boundaries around discrete subjects

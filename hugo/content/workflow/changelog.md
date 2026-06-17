@@ -1,13 +1,82 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-17 07:25:16+00:00
+ai_modified: 2026-06-17 15:05:06+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-17T15:46:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: the indexical-identity / individuation / No-Many-Worlds cluster (6 files, all rebuilt today 15:30) — vertiginous-question, indexical-identity-quantum-measurement, consciousness-and-the-metaphysics-of-individuation, the new egocentric-presentism, indexical-knowledge-and-identity, many-worlds. Non-overlapping with the day's two earlier optimistic passes (verified).
+- **Output**: [optimistic-2026-06-17c](/reviews/optimistic-2026-06-17c/)
+- **Findings**: Among the strongest clusters in the corpus; the rebuild absorbed the sharpest rival (List's centred many-worlds) into Tenet 4 and showed the tenet survives on anti-modal-realism rather than the indexical objection. New egocentric-presentism page is well-integrated (5 inbound) and models evidential-status discipline ("tenet-coherent, not evidence-elevating"). Process-Philosopher / Hardline-Empiricist personas CONVERGE in praise — no calibration slippage, no refine-draft task warranted. 1 medium-priority P3 queued (Sleeping Beauty page, assess-first/likely-decline — content was deliberately coalesced in). No length violations (vertiginous-question + many-worlds in soft_warning, both under hard).
+
+## 2026-06-17T16:00:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Manyism and composite subjectivity (Luke Roelofs)
+- **Output**: [manyism-and-composite-subjectivity-2026-06-17](/research/manyism-and-composite-subjectivity-2026-06-17/)
+- **Sources consulted**: 8 (all citations web-verified at publisher of record / PhilPapers: Roelofs 2019 OUP ISBN 9780190859053; Roelofs 2024 AJP 102(1):131-146 DOI 10.1080/00048402.2022.2084758; Roelofs & Sebo 2024 Phil.Studies 181:1487-1506 DOI 10.1007/s11098-024-02167-x; Miller 2018 Ratio 31(2):137-154 DOI 10.1111/rati.12166; Schwitzgebel NDPR review 2021-02-02; SEP Panpsychism; Roelofs author page; Roelofs 2017 Phil.Studies DOI 10.1007/s11098-016-0658-7)
+- **Assess-first verdict**: PROCEED — dedicated concepts/ page JUSTIFIED as a tight ~1,500-2,000w definitional anchor. Harvester's "redundant in 3 pages" worry is partly a FALSE POSITIVE: the clinical-dissociation "Roelofs" is Karin Roelofs (neuroscientist), NOT Luke Roelofs. Manyism is named in only 1 live body, never anchored. concepts/ at 262/300 (cap headroom). Risk is scope-creep (re-arguing combination problem), not redundancy.
+- **Tenet hooks**: Tenet 1 (manyism is a monist constitutive-panpsychist RIVAL the Map engages, NOT evidence for dualism — evidential-status discipline); Tenet 4 (multiplies subjects, not worlds — don't conflate with MWI). Unity-as-primitive vs between-subjects-unity is the cleanest contact point.
+
+## 2026-06-17T15:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Egocentric presentism (Caspar Hare)
+- **Output**: [egocentric-presentism](/concepts/egocentric-presentism/)
+- **Word count**: 2018 (concepts soft 2500 / hard 3500 — ok)
+- **Based on research**: yes, [egocentric-presentism-2026-06-17](/research/egocentric-presentism-2026-06-17/) (all cites reused verbatim from the web-verified research note; no new citations introduced)
+- **Cites**: Hare 2007 J.Phil. 104(7):350-373 (DOI 10.5840/jphil2007104717); Hare 2009 Princeton UP (ISBN 9780691135311); Conitzer 2020 Dialectica 74(1); List 2023 Noûs 57(2):316-340 (DOI 10.1111/nous.12408); List 2024/25 Phil.Quarterly 75(3):1026-1048 (DOI 10.1093/pq/pqae053); Merlo 2016 Dialectica 70(3); Markosian 2015 review; 1 self-cite (vertiginous-question)
+- **Tenet hooks**: Tenet 4 (No Many Worlds — one-world horn keeping first-person realism vs List's many-worlds-of-consciousness, the rejected foil); Tenet 1 (presence as non-physical/immeasurable); Tenet 5 (primitive-property parsimony). Required "Relation to Site Perspective" present. Evidential-status framed as exploratory ontological RIVAL, not positive evidence for dualism.
+- **Disambiguation**: Hare's "perspectival realism" explicitly separated from the Giere/Massimi philosophy-of-science doctrine of the same name.
+- **Cross-links**: 5 inbound links added (vertiginous-question [+inline], indexical-identity-quantum-measurement, consciousness-and-the-metaphysics-of-individuation, indexical-knowledge-and-identity, concepts/many-worlds) — bidirectional integration verified
+- **Apex sources**: not a source for any apex article (no follow-on task)
+
+## 2026-06-17T15:05:06+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)
+- **Word count**: 3671 → 3675 (+4, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Luo et al. 2025 description corrected to match verified paper — radical-pair stability via QM/MM protein/solvent reorganization, not "electron-transfer pathway")
+- **Enhancements made**: 2 (Luo cite description fix; synchrony-paragraph tightening for length-neutrality)
+- **Citation web-verify**: 4 cites verified real-correct at publisher of record (Luo 2025 JACS 147:43934-43945; Kerskens/López Pérez 2022 JPhysCommun 6:105001; Denton 2024 NatComms 15:10823; Khan/Wiest 2024 eNeuro 11(8))
+- **Engagement modes** (editor-internal): Tegmark Mode One; IIT Mode Two; classical-binding Mixed; illusionists Mixed; MWI Mode Three. No boundary-substitution, no label leakage.
+- **Convergence**: 5th consecutive critical-issue-free review; firmly converged
+- **Output**: [deep-review-2026-06-17-quantum-holism-and-phenomenal-unity](/reviews/deep-review-2026-06-17-quantum-holism-and-phenomenal-unity/)
+
+## 2026-06-17T14:53:13+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Egocentric presentism (Caspar Hare)
+- **Output**: [egocentric-presentism-2026-06-17](/research/egocentric-presentism-2026-06-17/)
+- **Sources consulted**: 8 (Hare 2007 J.Phil. preprint read directly; Hare 2009 Princeton UP; List 2024/25 Phil.Quarterly quadrilemma; List 2023 Noûs; Conitzer 2020 Dialectica; Merlo 2016 Dialectica; Markosian review; Wikipedia cluster). All publication metadata web-verified at publisher of record.
+
+## 2026-06-17T14:42:24+00:00 - refine-draft
+- **Status**: Success
+- **File**: [eliminative-materialism](/topics/eliminative-materialism/)
+- **Original score**: review-driven (pessimistic-2026-06-17; 2 Medium + 1 watch-item + 1 appended defect)
+- **Changes**: Fixed 3 web-verified citation defects from pessimistic-2026-06-17. (1) DANGLING CITE: added References entry for Dennett (1978), "Why You Can't Make a Computer That Feels Pain," *Synthese* 38(3):415-456 (verified Springer/PhilPapers) for the inline "1978 morphine argument." (2) WRONG PUBLISHER: Toon (2023) *Mind as Metaphor* Routledge → Oxford University Press (verified OUP Academic/PhilPapers, ISBN 9780198879626). (3) MISATTRIBUTED QUOTE: the verbatim "the existence of the appearance is the reality" was attributed to Searle (1992) *Rediscovery of the Mind* (MIT Press); re-attributed the exact wording to Searle's 1995 NYRB exchange with Dennett (verified existing, 1995-12-21), added a References entry, and kept *Rediscovery* ch.5 as the substantive position cite. References renumbered (21→23 entries; no inline numeric citations in body, author-year throughout). Also tightened the Toon mental-fictionalism attribution (line ~136) so Toon is sorted on the correct side of the article's causal-efficacy/structural-format distinction: narrowed his denial to inner-representation realism (the structural-format commitment the Map is already neutral on) rather than lumping him with full causal eliminativism. Churchland "twenty-five centuries" left as paraphrase per review.
+- **Length**: 3710 → 3903 words (under 4000 hard ceiling; soft_warning, was already over soft)
+- **Published**: yes
+
+## 2026-06-17T14:20:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/eliminative-materialism.md (3710w; deep-reviewed 2026-06-16, modified 2026-06-17)
+- **Findings**: 2 Medium citation defects — (1) dangling Dennett 1978 "morphine argument" cite with no References entry; (2) wrong publisher for Toon 2023 (Routledge → Oxford University Press, web-verified). Plus 1 attribution-precision watch-item (Toon mental-fictionalism mis-sort) and minor notes (soft-length warning 3710/3000; 3 orphan references). Discipline audit clean: no label-leakage, no boundary-substitution, altered-state audit N/A, no equivocation. 8/9 citations verified clean.
+- **Output**: [pessimistic-2026-06-17-eliminative-materialism](/reviews/pessimistic-2026-06-17-eliminative-materialism/)
+- **Tasks added**: P2 refine-draft (fix both citation defects)
+
+## 2026-06-17T13:15:59+00:00 - deep-review
+- **Status**: Success
+- **File**: [selection-only-channel](/concepts/selection-only-channel/)
+- **Word count**: 2076 → 2076 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (fourth converged review; no content edits — anti-oscillation)
+- **Notes**: Re-qualified only by cosmetic Further Reading cross-link accretion since the thorough 2026-06-03 integrity pass — one entry renamed [channel-width-third-axis](/topics/dualism-channel-width-axis/) → [dualism-channel-width-axis](/topics/dualism-channel-width-axis/) (coalesce tracked correctly; old slug now in archive) plus one new [sorkin-delta-brain-internal-analogues](/topics/sorkin-delta-brain-internal-analogues/) entry. Both new links verified live (no broken-link defect). No body prose, no References, no inline cite changed. §2.4 web-verify NOT re-triggered — all five citations were verified clean at publisher of record on 2026-06-03 and that per-cite ledger stands; no superlative claims. Confirmed the 06-03-verified verbatim Stapp quote was NOT regressed to the prior fabricated string. Calibration/slippage diagnostic passes on the unchanged body (Mode Three Stapp, Mode One Collins/Pitts; no label leakage). Arithmetic 7×10⁻⁹ re-confirmed. Convergence firm; score already low (15) from damping.
+- **Output**: [deep-review-2026-06-17-selection-only-channel](/reviews/deep-review-2026-06-17-selection-only-channel/)
 
 ## 2026-06-17T13:00:00+00:00 - deep-review
 - **Status**: Success

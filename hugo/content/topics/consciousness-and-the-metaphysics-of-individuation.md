@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-06-08 00:00:00+00:00
+ai_modified: 2026-06-17 15:30:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -143,6 +143,7 @@ The individuation question connects to all five of the Map's [tenets](/tenets/),
 - [haecceity](/concepts/haecceity/) — Primitive thisness and why qualitative identity is insufficient
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Empirical evidence on subject boundaries
 - [combination-problem](/concepts/combination-problem/) — How micro-subjects fail to compose macro-subjects
+- [manyism](/concepts/manyism/) — Roelofs' inverse bet: many overlapping subjects coexist rather than fragmenting from one
 - [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/) — Topic-level treatment of why subject-summing may be panpsychism's hardest problem
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Phenomenal unity, its varieties, and what makes experiences belong to one subject
 - [voids-between-minds](/voids/voids-between-minds/) — The epistemic asymmetry in consciousness access
@@ -151,6 +152,7 @@ The individuation question connects to all five of the Map's [tenets](/tenets/),
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The minimal self and phenomenology of subjecthood
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist perspectives on self-boundaries and *anattā*
 - [vertiginous-question](/topics/vertiginous-question/) — The void-form of the individuation question: why am I *this* consciousness?
+- [egocentric-presentism](/concepts/egocentric-presentism/) — Hare's view that only one subject's experiences are *present*: a metaphysic of privileged subjecthood
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The indexical gap at quantum measurement: why *this* consciousness experiences *this* outcome
 - [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — What makes experience belong to a subject
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Why parsimony bias may systematically favour simpler individuation accounts

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-05-26 00:00:00+00:00
+ai_modified: 2026-06-17 15:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -180,6 +180,7 @@ This topic intersects all five tenets:
 - [free-will](/topics/free-will/) - If consciousness grounds indexical determination at quantum measurement, the self may be genuinely causal in a libertarian sense
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The measurement problem as a species of the hard problem
 - [vertiginous-question](/topics/vertiginous-question/) — The unchartable territory of why *this* consciousness exists
+- [egocentric-presentism](/concepts/egocentric-presentism/) — Hare's monadic *presence*: a one-world metaphysic for why *this* subject is privileged
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: the indexical dimension as part of the reverse inference from consciousness to physics
 
 ## References

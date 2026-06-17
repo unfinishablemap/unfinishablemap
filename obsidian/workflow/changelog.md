@@ -5,6 +5,14 @@ ai_modified: 2026-06-17 15:05:06+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-17T16:05:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Manyism and composite subjectivity (Luke Roelofs)
+- **Output**: [[concepts/manyism]]
+- **Word count**: 1519
+- **Based on research**: yes — [[research/manyism-and-composite-subjectivity-2026-06-17]]
+- **Notes**: Tight definitional anchor per the research note's assess-first verdict — defines manyism (overlapping subjects + experience-sharing), contrasts panpsychist siblings (bonding/co-consciousness, fusionism/layered emergentism, subject-eliminativism, cosmopsychism+de-combination), foregrounds unity-as-primitive contact point and the "too many minds" objection-and-reply. Engaged as the strongest constitutive-panpsychist rival, NOT as evidence for dualism (evidential-status discipline); Tenet 1 primary, Tenet 4 touched (multiplies subjects not worlds). Reused only web-verified cites from the research note; deliberately excluded the unverified Seager-handbook "Can We Sum Subjects?" chapter. Disambiguated Luke Roelofs from Karin Roelofs. Added 4 inbound links (panpsychisms-combination-problem, metaphysics-of-composition, metaphysics-of-individuation, combination-problem) — all verified resolving through sync.
+
 ## 2026-06-17T15:46:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: the indexical-identity / individuation / No-Many-Worlds cluster (6 files, all rebuilt today 15:30) — vertiginous-question, indexical-identity-quantum-measurement, consciousness-and-the-metaphysics-of-individuation, the new egocentric-presentism, indexical-knowledge-and-identity, many-worlds. Non-overlapping with the day's two earlier optimistic passes (verified).

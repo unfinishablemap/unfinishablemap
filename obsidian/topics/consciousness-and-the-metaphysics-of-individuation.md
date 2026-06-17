@@ -141,6 +141,7 @@ The individuation question connects to all five of the Map's [[tenets]], but mos
 - [[haecceity]] — Primitive thisness and why qualitative identity is insufficient
 - [[split-brain-consciousness]] — Empirical evidence on subject boundaries
 - [[combination-problem]] — How micro-subjects fail to compose macro-subjects
+- [[manyism]] — Roelofs' inverse bet: many overlapping subjects coexist rather than fragmenting from one
 - [[panpsychisms-combination-problem]] — Topic-level treatment of why subject-summing may be panpsychism's hardest problem
 - [[unity-of-consciousness]] — Phenomenal unity, its varieties, and what makes experiences belong to one subject
 - [[voids-between-minds]] — The epistemic asymmetry in consciousness access

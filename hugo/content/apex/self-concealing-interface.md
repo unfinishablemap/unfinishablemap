@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-25
-ai_modified: 2026-06-06 00:00:00+00:00
+ai_modified: 2026-06-17 12:32:07.784690+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-05-27 15:45:00+00:00
 apex_sources:
@@ -30,6 +30,11 @@ description: If the Map is right, the mind-matter interface is not merely hard t
   the whole evidential programme from bulk physical traces to constrained asymmetries
   at seams.
 draft: false
+embedded_videos:
+- embedded: 2026-06-17 12:32:07.784690+00:00
+  id: wXH5ndGht8s
+  source: notebooklm/0075-01-self-concealing-interface
+  url: https://www.youtube-nocookie.com/embed/wXH5ndGht8s
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-06 00:00:00+00:00
@@ -62,6 +67,12 @@ topics:
 A theory that says consciousness influences the physical world owes an account of why nobody has caught it doing so. The Unfinishable Map's answer is sharper than the usual appeal to difficulty: the interface is not merely hard to detect, it is *structurally selected to hide from ordinary aggregate measurement*. Every constraint the Map accepts—conservation of energy, the no-signalling theorem, the Born statistics, the integrity of the empirical record—forces the proposed conscious influence into the one register where bulk physical instruments cannot see it. The influence must be real enough to author action and small enough to leave the ensemble distribution untouched. The corollary, drawn out here for the first time as a single thesis, is that the proper evidential route is not "find a big quantum anomaly" but "find constrained asymmetries at interface boundaries": disruption, dissociation, graded channel failure, patient-population divergence, and first-person/third-person mismatch.
 
 This is a framework-internal claim about *architecture*, not an empirical result. It says what kind of thing the interface must be if the tenets hold, and where evidence about it could in principle appear. It does not raise the probability that the tenets hold. The distinction matters enough that it organises the whole piece: naming the self-concealing architecture is a coherence achievement at the [framework-internal-weight register](/project/evidential-status-discipline/), and reading off where the seams are is a research-programme reorientation—neither is positive evidence that consciousness selects. The synthesis draws together what [the tenets](/tenets/), [brain-internal Born-rule testing](/topics/brain-internal-born-rule-testing/), [forward-in-time selection](/topics/forward-in-time-conscious-selection/), [attention as the causal bridge](/apex/attention-as-causal-bridge/), [the introspection-architecture cluster](/apex/introspection-architecture-void-cluster/), [the memory hierarchy](/topics/memory-channel-interface-evidence/), and [the voids catalogue](/apex/taxonomy-of-voids/) each already imply, and names the architecture they converge on.
+
+<details class="yt-embed" data-video-id="wXH5ndGht8s">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/wXH5ndGht8s">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Concealment Is Built Into the Tenets, Not Added to Them
 

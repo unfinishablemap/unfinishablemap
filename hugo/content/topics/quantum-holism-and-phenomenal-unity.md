@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-06-16 19:15:48+00:00
+ai_modified: 2026-06-17 15:05:06+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ description: Classical binding mechanisms coordinate separate processes but cann
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 08:41:28+00:00
+last_deep_review: 2026-06-17 15:05:06+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -64,7 +64,7 @@ Phenomenal unity is different. Your experience of seeing red while hearing music
 
 The most prominent neural account holds that features belonging to the same object are bound through synchronised gamma-band oscillations (30-100 Hz). Neurons representing "red" and neurons representing "round" fire in phase when perceiving a red apple, tagging their outputs as belonging together.
 
-This explains computational binding—how the brain correctly groups features. But synchronised firing is still many neurons firing. Each neuron is a separate physical system. The fact that they fire at the same time does not make them one system. Consider a musical analogy: when orchestra members play in precise synchrony, they produce a unified musical phrase. But there is no *additional* physical event—"the phrase"—over and above the individual instrument sounds. If phenomenal unity were like orchestral synchrony, it would be a pattern we attribute to neural activity, not a feature of consciousness itself. But phenomenal unity is not attributed from outside; it is experienced from inside.
+This explains computational binding—how the brain correctly groups features. But synchronised firing is still many neurons firing—each a separate physical system, and firing at the same time does not make them one system. Consider a musical analogy: when orchestra members play in precise synchrony, they produce a unified musical phrase. But there is no *additional* physical event—"the phrase"—over and above the individual instrument sounds. If phenomenal unity were like orchestral synchrony, it would be a pattern we attribute to neural activity, not a feature of consciousness itself. But phenomenal unity is not attributed from outside; it is experienced from inside.
 
 #### Zero-Lag Gamma Synchrony
 
@@ -128,7 +128,7 @@ The standard objection to quantum consciousness is [decoherence](/concepts/decoh
 
 This objection has been contested but not settled either way. In 2002, Hagan, Hameroff, and Tuszynski published a detailed critique of Tegmark's assumptions: he assumed unrealistically large separation distances for quantum superpositions and thermal equilibrium conditions equivalent to death. Using corrected estimates for dielectric properties and realistic model parameters, they derived coherence times of 10⁻⁵ to 10⁻⁴ seconds—**seven orders of magnitude longer** than Tegmark calculated. But Reimers et al. (2009) and McKemmish et al. (2009) re-examined that recalibration and found its parameter assumptions either rely on microtubule dielectric properties that are not empirically established or specify regimes microtubules do not occupy in living tissue. The dispute is live, not closed; citing Hagan as a settled rebuttal would be selective citation. The Map's interest in microtubule-scale coherence is tenet-driven (Minimal Quantum Interaction) rather than empirically forced.
 
-The biological precedent strengthens the case. Avian magnetoreception relies on quantum spin coherence in cryptochrome proteins persisting for microseconds at biological temperatures. Luo et al. (2025) provided computational confirmation through quantum-mechanical simulations of the radical-pair electron-transfer pathway. If evolution optimised quantum effects for navigation, quantum effects in neural systems are not inherently implausible.
+The biological precedent strengthens the case. Avian magnetoreception relies on quantum spin coherence in cryptochrome proteins persisting for microseconds at biological temperatures. Luo et al. (2025) provided computational support through QM/MM simulations showing that protein and solvent reorganization stabilizes the separated radical pair that underlies this coherence. If evolution optimised quantum effects for navigation, quantum effects in neural systems are not inherently implausible.
 
 A gap remains. Even corrected coherence times fall three orders of magnitude short of the ~300ms timescale of conscious decisions. Yet this gap may not matter if the relevant mechanisms involve discrete quantum events rather than sustained superposition. The quantum Zeno approach requires only discrete attentional "observations"—each instantaneous—rather than long-lived coherence. Denton et al. (2024) demonstrated in *Nature Communications* that the quantum Zeno effect enables magnetosensitivity in cryptochrome radical pairs—the same mechanism proposed for consciousness-brain interaction has a confirmed biological counterpart.
 

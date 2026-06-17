@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-06-14 00:00:00+00:00
+ai_modified: 2026-06-17 15:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -210,6 +210,7 @@ Alternative interpretations—particularly [time-symmetric](/concepts/collapse-a
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — How probability connects to consciousness across interpretations
 - [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) — Why self-locating knowledge creates problems for branching interpretations
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — Why indexical identity matters for quantum measurement
+- [egocentric-presentism](/concepts/egocentric-presentism/) — Hare's one-world rival to List's many-worlds theory of consciousness: privilege the self, not the worlds
 - [decoherence](/concepts/decoherence/) — What decoherence does and doesn't explain
 - [personal-identity](/topics/personal-identity/) — Why identity questions matter for MWI critique
 - [introspection](/concepts/introspection/) — The reliability of first-person evidence about anticipation

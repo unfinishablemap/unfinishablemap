@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-05-26 22:34:23+00:00
+ai_modified: 2026-06-17 15:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -151,6 +151,7 @@ Indexical knowledge and identity connect to The Unfinishable Map's [tenets](/ten
 
 - [haecceity](/concepts/haecceity/) — Primitive thisness grounding indexical identity
 - [vertiginous-question](/topics/vertiginous-question/) — Why am I this conscious being?
+- [egocentric-presentism](/concepts/egocentric-presentism/) — Hare's metaphysical answer: only my experiences bear the monadic property of presence
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and what physical knowledge misses
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — Direct experiential contact underlying phenomenal indexical knowledge
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Epistemic territories accessible only through experience

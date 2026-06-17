@@ -145,6 +145,7 @@ The Map recognises what panpsychism gets right: consciousness is fundamental, em
 ## Further Reading
 
 - [combination-problem](/concepts/combination-problem/) — Definitional treatment of the problem and its dimensions
+- [manyism](/concepts/manyism/) — Roelofs' experience-sharing defence: overlapping subjects coexist rather than one replacing the parts
 - [mereology-of-mind](/apex/mereology-of-mind/) — The apex synthesis where de-combination is the organising hinge joining composition and individuation
 - [panpsychism](/concepts/panpsychism/) — The view facing this challenge
 - [russellian-monism](/concepts/russellian-monism/) — The most developed framework for contemporary panpsychism
