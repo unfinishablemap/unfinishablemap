@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T21:41:31.153888+00:00'
-session_count: 11679
+last_updated: '2026-06-17T21:45:02.458588+00:00'
+session_count: 11680
 cycle_position: 9302
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-17T04:07:04.664744+00:00'
   refine-draft: '2026-06-17T21:41:31.153888+00:00'
   research-topic: '2026-06-17T15:41:10.316846+00:00'
-  replenish-queue: '2026-06-17T21:36:09.737897+00:00'
+  replenish-queue: '2026-06-17T21:45:02.458588+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-17T16:28:19.568953+00:00'
   add-highlight: '2026-06-17T08:04:22.798348+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-17'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-06-17'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1020,13 +1020,13 @@ queue_status:
     (0 P0-P2 minted), reconfirms no.244/no.243. CHANGE SINCE no.244: the single task
     no.244 called "genuinely loop-pickable open" (P3 "Add three cluster cross-links
     flagged by optimistic review 2026-06-17d", physics-interface cluster) is now CLOSED
-    -- it sits at line 1070 prefixed "✓ 2026-06-17:". So loop_pickable_open is now 0
-    (was 1): the Active section has ZERO genuinely-open P0-P3 tasks (grep for plain
+    -- it sits at line 1070 prefixed "✓ 2026-06-17:". So loop_pickable_open is now
+    0 (was 1): the Active section has ZERO genuinely-open P0-P3 tasks (grep for plain
     open P[0-3] headers minus veto/strike/checkmark/RELOCATED/superseded/HUMAN returns
     nothing). Queue is genuinely drained, not merely at-floor. NOTHING CLEAN TO MINT,
     verified per source: S1 chains 0 (15:41 research-topic + 16:28 expand-topic already
-    produced articles). S2 unconsumed-research 0 -- all 5 research notes from last 3
-    days have live articles on disk (concepts/egocentric-presentism, concepts/manyism,
+    produced articles). S2 unconsumed-research 0 -- all 5 research notes from last
+    3 days have live articles on disk (concepts/egocentric-presentism, concepts/manyism,
     concepts/naturalist-relationalism, topics/chemosensory-consciousness-and-the-interface;
     IWMT-2026-06-16 stays CONSUMED into concepts/predictive-processing.md, verified
     by grep). S3 gaps owned by harvest-research-subjects (19:59). S4 staleness owned
@@ -1040,16 +1040,16 @@ queue_status:
     6989w) OR protected-calibration (born-rule 5106w) OR accepted-as-survey/recently-condensed
     (apex/machine-question 5001w = 1w over, condensed 05-29; memory-channel-interface-evidence
     deep-reviewed 06-16). Minting any condense here would REGENERATE vetoed work (skill
-    forbids). S7 positions audit not due (3 domain entries, positions-evolve last 00:41,
-    ran 06-09 inside 30d). S8 applied-apex deferred-to-human 06-16. Caps on disk: topics
-    268/300, concepts 263/300 (headroom but no clean research feed), voids 101/100 over,
-    positions 3 files. Expected floor-alternation: P0-P2=0 so replenish re-fires by
-    design ([[unfin_loop_steady_state]]); harvest (every 6h) + outer-review refill research.
-    CARRY-OVER OBSERVED (unchanged from no.244): Active Tasks section still bloated
-    (~13 stale ### headers -- HUMAN LENGTH DECISIONs, #veto condense, strikethrough/✅/RELOCATED/superseded
-    cruft -- none genuinely open) never moved below the Completed header
-    ([[orphaned-pending-tasks-below-completed]] sibling). Tidy-sweep candidate for a
-    future run; not minting tasks for it.'
+    forbids). S7 positions audit not due (3 domain entries, positions-evolve last
+    00:41, ran 06-09 inside 30d). S8 applied-apex deferred-to-human 06-16. Caps on
+    disk: topics 268/300, concepts 263/300 (headroom but no clean research feed),
+    voids 101/100 over, positions 3 files. Expected floor-alternation: P0-P2=0 so
+    replenish re-fires by design ([[unfin_loop_steady_state]]); harvest (every 6h)
+    + outer-review refill research. CARRY-OVER OBSERVED (unchanged from no.244): Active
+    Tasks section still bloated (~13 stale ### headers -- HUMAN LENGTH DECISIONs,
+    #veto condense, strikethrough/✅/RELOCATED/superseded cruft -- none genuinely open)
+    never moved below the Completed header ([[orphaned-pending-tasks-below-completed]]
+    sibling). Tidy-sweep candidate for a future run; not minting tasks for it.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0

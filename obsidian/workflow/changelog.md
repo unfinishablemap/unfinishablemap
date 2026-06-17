@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-17 21:07:27+00:00
+ai_modified: 2026-06-17 21:48:51+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-17T21:48:51+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/evolutionary-case-for-mental-causation]]
+- **Word count**: 3195 → 3200 (+5; length-neutral, 107% of soft 3000, under hard 4000)
+- **Critical issues addressed**: 1 (opening-paragraph calibration tension — front-loaded "if consciousness evolved, it must have causal effects... cannot be selected" overstated the entailment the same paragraph concedes via the byproduct rejoinder; re-scoped antecedent to "if consciousness was itself the target of natural selection" so the entailment is valid and rejoinder-consistent)
+- **Medium issues addressed**: 0 (06-04 calibration downgrades sound; opponent engagement clean; no label leakage)
+- **Enhancements made**: 1 (opening antecedent re-scoping; improves truncation-resilient front-load calibration)
+- **Citations**: 6th pass; References unchanged since 06-02 word-for-word ledger. Spot-re-verified DeWall-2008 (real-correct, DOI 10.1016/j.concog.2007.12.004) and Georgiev-2024 (real-correct, *Life* 14(1):48; partisan framing validated) at publisher of record; 6 stable cites carried forward. No superlative claims to currency-check.
+- **Engagement modes (editor-internal)**: epiphenomenalism Mode One/Two; illusionism Mode One/Two; non-reductive physicalism Mode Three (boundary-marking). No boundary-substitution, no label leakage.
+- **Output**: [[reviews/deep-review-2026-06-17-evolutionary-case-for-mental-causation]]
 
 ## 2026-06-17T21:38:26+00:00 - refine-draft
 - **Status**: Success
