@@ -5,6 +5,16 @@ ai_modified: 2026-06-17 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-17T04:45:42+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-17
+- **Coverage**: 2/3 reviewers processed (sources: ChatGPT 5.5 Pro, Gemini 2.5 Pro; Claude Fable 5 leg absent — recurring Map-project model-availability issue). Both audited [[voids/synesthetic-void]].
+- **Clusters**: 4 convergent, 2 singleton, 1 divergent (verdict: ChatGPT "major revisions" vs Gemini "unsalvageable / reject")
+- **Tasks upgraded**: 2 (P2→P1: 2 — "Import strongest non-dualist readings" and "Refresh synesthesia citations"; P3→P2: 0). 2 convergent clusters (E-space overstatement, pharmacology distinction) recorded only — their tasks already completed this cycle.
+- **Tasks deduplicated**: 0 (each convergent cluster had ≤1 open task; no per-reviewer siblings to merge)
+- **Disputed-claim discount**: Gemini's contributions were heavily discounted per its own Verification Notes — mischaracterized hedges (Weaknesses #2, #5), a misdated cite (Luke & Terhune 2013≠2020-2025), out-of-scope preprints, and one fabricated citation (C×G×D Framework, Frontiers 2026). Only structural findings ChatGPT independently corroborated counted toward convergence; the one net-new datum (Strauch 2025 pupillometry preprint) was already folded into the currency task.
+- **Output**: [[reviews/outer-review-synthesis-2026-06-17]]
+
 ## 2026-06-17T04:41:34+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 2.5 Pro (Deep Research, hostile-referee)
