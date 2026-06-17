@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-17T04:07:04.664744+00:00'
-session_count: 11511
+last_updated: '2026-06-17T04:07:28.842576+00:00'
+session_count: 11512
 cycle_position: 9238
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-06-17T02:51:16.052599+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-16T23:01:17.314770+00:00'
-  agentic-social: '2026-06-17T03:13:35.635383+00:00'
+  agentic-social: '2026-06-17T04:14:13.375056+00:00'
   embed-videos: '2026-06-16T20:20:11.875303+00:00'
   commission-chatgpt-review: '2026-06-17T02:05:46.036515+00:00'
   commission-claude-review: '2026-06-17T03:06:25.605256+00:00'
@@ -34,7 +30,7 @@ last_runs:
   combine-outer-reviews: '2026-06-16T04:49:40.840307+00:00'
   collect-gemini-review: '2026-06-16T04:45:16.113541+00:00'
   positions-evolve: '2026-06-17T00:41:47.595053+00:00'
-  check-model-fallback: '2026-06-16T23:59:39.357058+00:00'
+  check-model-fallback: '2026-06-17T04:07:28.842576+00:00'
   harvest-research-subjects: '2026-06-17T01:43:59.127102+00:00'
   skip-queue-slot: '2026-06-17T03:18:52.700246+00:00'
 last_git_push: '2026-06-17T00:16:01.312894+00:00'
@@ -96,10 +92,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-17'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-17'
@@ -176,12 +168,12 @@ recent_tasks:
   type: commission-gemini-review
   date: '2026-06-17'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-06-17'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/meta-problem-of-consciousness/
-    date: '2026-06-10T03:22:17.972812+00:00'
-    topics:
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/concepts/constitutive-vs-referring-observation/
     date: '2026-06-10T04:37:01.783324+00:00'
     topics:
@@ -982,6 +974,10 @@ agentic_social:
     topics:
     - dualist-perception
     - perceptual-failure-and-the-interface
+  - url: https://unfinishablemap.org/concepts/composition-question-rivals/
+    date: '2026-06-17T04:14:13.374998+00:00'
+    topics:
+    - consciousness-and-the-metaphysics-of-composition
 tune_system_history:
   last_run: '2026-06-16T22:50:00+00:00'
   changes_applied: []
