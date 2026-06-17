@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T06:29:47.143118+00:00'
-session_count: 11538
-cycle_position: 9250
+last_updated: '2026-06-17T06:32:26.094579+00:00'
+session_count: 11539
+cycle_position: 9251
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-17T05:41:00.682690+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-06-17T00:41:47.595053+00:00'
   check-model-fallback: '2026-06-17T04:07:28.842576+00:00'
   harvest-research-subjects: '2026-06-17T01:43:59.127102+00:00'
-  skip-queue-slot: '2026-06-17T06:22:56.689741+00:00'
+  skip-queue-slot: '2026-06-17T06:32:26.094579+00:00'
 last_git_push: '2026-06-17T04:17:17.414877+00:00'
 last_tweet_date: '2026-06-16'
 content_stats:
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-17'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-17'
+  outcome: success
+- task: skip-queue-slot
+  type: skip-queue-slot
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -996,10 +996,10 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 0
-  last_replenishment: '2026-06-17T06:30:00+00:00'
+  last_replenishment: '2026-06-17T06:38:56+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-17 run no.185 (standard mode) - HONEST NO-OP
-    for new-task minting (0 minted), the TWENTY-FOURTH consecutive. AUTHORITATIVE
+  current_replenishment_note: '2026-06-17 run no.186 (standard mode) - HONEST NO-OP
+    for new-task minting (0 minted), the TWENTY-FIFTH consecutive. AUTHORITATIVE
     verify from disk via tools.evolution.task_selector against live todo.md (content
     arg): count_p0_p2_tasks=0, select_queue_task and get_next_task BOTH return None.
     The two open Active items are BOTH human-blocked and non-pickable: (a) the HUMAN
@@ -1017,8 +1017,9 @@ queue_status:
     (S2) 0 - 3 newest non-voids notes (all 06-16) re-confirmed consumed on disk: chemosensory
     -> topics/chemosensory-consciousness-and-the-interface.md (exists), naturalist-relationalism
     -> concepts/naturalist-relationalism.md (exists), IWMT folded into concepts/predictive-processing.md
-    (4 Safron/IWMT grep hits). Older 14-day candidates are bulk-touch mtime churn
-    owned by harvest-research-subjects. GAPS (S3) 0 - voids 101/100 OVER cap; topics
+    (5 Safron/IWMT grep hits); older 01-19 simple-organisms note also has topics/consciousness-in-simple-organisms.md.
+    Remaining 14-day candidates are bulk-touch mtime churn owned by harvest-research-subjects.
+    GAPS (S3) 0 - voids 101/100 OVER cap; topics
     268/300 and concepts 261/300 have headroom but gap analysis documented-exhausted
     and harvest-research-subjects owns research revival; positions deliberately slow.
     STALENESS (S4) 0 mintable - cycle deep-review slot owns this pool (deep-review
@@ -1027,12 +1028,13 @@ queue_status:
     hub) = 26, with 2 critical content offenders (apex/phenomenal-output-causal-machinery-dissociation
     6832w; topics/epistemology-of-convergence-arguments 6479w). Both human-blocked:
     epistemology is the STANDING HUMAN SPLIT decision (prior condenses failed); phenomenal-output
-    carries a vetoed condense (confirmed in Vetoed Tasks). Minting fresh condense
+    carries a #veto condense in Active Tasks (BLOCKED pending human editorial decision);
+    a 3rd offender topics/meaning-of-life.md carries a #veto too (soft same-day). Minting fresh condense
     tasks would re-litigate human-blocked decisions (see human-decision-task-mispicked-as-refine
     + unfin-loop-steady-state). NOT minted. ORPHANS (S5) 0 - quality.orphaned_files
-    0. POSITIONS (S7) add 0 / update 0 / audit NOT due - ~24 substantive entries across
-    3 domain files (agency-and-will, quantum-interface, voids-as-evidence); last audit
-    2026-06-09 (8d, inside 30-day window); no new assertively-stated claims in recent
+    0. POSITIONS (S7) add 0 / update 0 / audit NOT due - ~19 substantive entries across
+    3 domain files (quantum-interface 10, agency-and-will 5, voids-as-evidence 3); positions-evolve
+    ran 00:41 today (an update task); no new assertively-stated claims in recent
     changelog; no positions cite the articles modified today. APPLIED-APEX (S8) 0
     - deliberately slow (max 1/run); 2 applied apex exist, none due. State YAML re-validated
     post-edit (parses OK).'
