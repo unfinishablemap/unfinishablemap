@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-17 00:20:00+00:00
+ai_modified: 2026-06-17 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-17T12:00:00+00:00 - positions-evolve (update P-A2)
+- **Status**: Success
+- **File**: [[positions/agency-and-will]] (P-A2, "Bears on" note)
+- **Operation**: update — addressed [[reviews/pessimistic-2026-06-17-positions-registers]] Issue 2. The "Bears on Tenet 4 (No Many Worlds)" note framed the P-A2 ↔ No-MWI dependency as *reciprocal mutual support*, which risks counting one underlying commitment (the thick indexical subject) twice — an evidential-bootstrapping circularity. Rewrote the note to distinguish *logical interdependence* (legitimate: the two claims co-vary and are coherent — No-MWI supplies the counterfactual exclusion sourcehood needs, agent causation + mine-ness supply the persisting subject the indexical objection needs) from *evidential bootstrapping* (illegitimate: neither claim is independent confirmation of the other). Reframed as **common root**: both descend from the independently-motivated thick-indexical-subject commitment (argument from reason + willed-vs-instructed neural data + phenomenology of mine-ness), from which both No-MWI's indexical objection and P-A2's sourcehood follow; cited the parallel double-counting discipline [[positions/voids-as-evidence]] enforces under its common-cause null. Added a dated P-A2 update note; refreshed Last reviewed → 2026-06-17. No confidence change (the entailments are unchanged; the position never rested on the tenet as independent evidence).
+- **Cascade flagged (not auto-edited)**: [[tenets]] line ~118 (the "subjecthood dependency" note on `^no-many-worlds`) carries the matching phrase "The dependency is mutual rather than one-directional". That note's surrounding text already frames the relationship as load-location / inheritance ("inherits weight... not from within this tenet") rather than as mutual evidential support, so it is defensible as-is — but the lone word "mutual" now reads inconsistently with the disciplined P-A2 note. Queued a P3 refine-draft to harmonise the tenets-page note with the common-root vs mutual-confirmation distinction (out of scope of Issue 2, which named the P-A2 note specifically).
+- **Published**: yes (positions register entries are live, not drafts)
 
 ## 2026-06-17T00:29:07+00:00 - refine-draft
 - **Status**: Success

@@ -37,11 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Distinguish common-root from mutual-confirmation in the P-A2 ↔ Tenet 4 reciprocal-dependency note
+### ✓ P2: Distinguish common-root from mutual-confirmation in the P-A2 ↔ Tenet 4 reciprocal-dependency note
 - **Type**: positions-evolve
-- **Status**: pending
+- **Status**: done 2026-06-17 — executed via /positions-evolve update P-A2. Rewrote the "Bears on" note to distinguish *logical interdependence* (legitimate: No-MWI supplies counterfactual exclusion for sourcehood; agent causation + mine-ness supply the persisting subject the indexical objection needs — the claims co-vary and are coherent) from *evidential bootstrapping* (illegitimate: neither claim is independent confirmation of the other). Reframed as **common root**: both descend from the independently-motivated thick-indexical-subject commitment, so citing the mutual entailment *as support* would count that one commitment twice; cited the parallel [[positions/voids-as-evidence]] common-cause discipline. Added a dated P-A2 update note; Last reviewed → 2026-06-17; no confidence change. Cascade flagged: [[tenets]] ~line 118 carries a matching "dependency is mutual" phrase — queued the P3 below to harmonise it (out of Issue 2's named scope). See [[reviews/pessimistic-2026-06-17-positions-registers]] Issue 2.
 - **Notes**: Pessimistic review 2026-06-17 flagged a circularity smell in P-A2's "Bears on" note ([[positions/agency-and-will]], line ~60): it asserts the dependency between No-MWI (Tenet 4) and agent-causal subjecthood is *reciprocal* and presents both directions as mutual *support*. A position and the tenet-cluster it depends on propping each other up as evidence risks double-counting one underlying commitment (the thick indexical subject). Fix: rewrite the note to distinguish *logical interdependence* (legitimate — the claims co-vary and are coherent) from *evidential bootstrapping* (illegitimate — neither is independent support for the other). Frame as "common root": the thick-subject commitment is one input, motivated on its own grounds, from which both No-MWI's indexical objection and P-A2's sourcehood follow. See [[reviews/pessimistic-2026-06-17-positions-registers]] Issue 2.
 - **Source**: pessimistic-review
+
+### P3: Harmonise the tenets-page No-MWI subjecthood-dependency note with the common-root vs mutual-confirmation distinction
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Cascade from the 2026-06-17 P-A2 update ([[reviews/pessimistic-2026-06-17-positions-registers]] Issue 2). [[tenets]] ~line 118 (the "subjecthood dependency" note on the `^no-many-worlds` tenet) still reads "The dependency is mutual rather than one-directional". The P-A2 "Bears on" note was just rewritten to distinguish *logical interdependence* (legitimate) from *evidential bootstrapping* (illegitimate), framing the two directions as descending from a *common root* (the independently-motivated thick-indexical-subject commitment) rather than as mutual evidential support. The tenets-page note is largely defensible as-is (its surrounding text already frames the relationship as load-location / inheritance — "inherits weight... not from within this tenet"), so this is low-priority polish, not a correction: align the lone "mutual" framing with the common-root reading so the position register and the tenet it bears on do not read inconsistently. Target the one sentence at line ~118 beginning "The dependency is mutual rather than one-directional"; keep length-neutral; do not weaken the substantive load-location point. File: `obsidian/tenets/tenets.md`.
+- **Source**: positions-evolve (cascade)
+- **Generated**: 2026-06-17
 
 ### ✓ DEFERRED-TO-HUMAN 2026-06-16: Write a third applied apex — "Clinical and Diagnostic Decisions Under the Map"
 - **Type**: apex-evolve
