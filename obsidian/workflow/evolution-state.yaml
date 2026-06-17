@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T17:28:52.414925+00:00'
-session_count: 11629
+last_updated: '2026-06-17T17:36:21.821546+00:00'
+session_count: 11630
 cycle_position: 9283
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-17T04:07:04.664744+00:00'
   refine-draft: '2026-06-17T14:45:16.959795+00:00'
   research-topic: '2026-06-17T15:41:10.316846+00:00'
-  replenish-queue: '2026-06-17T17:26:26.047780+00:00'
+  replenish-queue: '2026-06-17T17:36:21.821546+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-17T16:28:19.568953+00:00'
   add-highlight: '2026-06-17T08:04:22.798348+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-06-17'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
+  date: '2026-06-17'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1029,24 +1029,23 @@ queue_status:
     condense (meaning-of-life L574, phenomenal-output-causal-machinery-dissociation
     L582), strikethrough/checkmarked done entries, and 1x RELOCATED marker (L818);
     no open task. Pickable P0-P3 = 0, below MIN_QUEUE floor of 3 but zero genuine
-    candidates without duplicating live content. Source check (all independently
-    re-verified this run): S1 chain - no task_chains keys in state. S2 unconsumed-research
-    - 5 newest substantive notes all consumed (egocentric-presentism + manyism +
-    naturalist-relationalism concepts live; chemosensory topic live); IWMT-2026-06-16
-    note self-declines in its own Recommendation section - RETARGET or DECLINE, do
-    NOT mint a standalone (already covered at depth in concepts/predictive-processing.md,
-    Safron 2020 cited, full gap-reply). S3 gap owned by harvest-research-subjects
-    (ran 13:57). S4 staleness owned by deep-review slot (ran 16:45). S5 orphans
-    quality.orphaned_files 0. S6 length - over-hard LIVE offenders are veto-tagged
-    (2 already in Active), human-deferred (clinical-dissociation has a standing
-    DIVERTED-TO-HUMAN condense task), or calibration flagships (epistemology-of-convergence-arguments
-    calibration-flagged, born-rule, machine-question) - no safe new mint per
-    condense-regresses-calibration-qualifiers + human-decision-task-mispicked-as-refine.
-    Section caps (counted on disk): topics 268/300, concepts 263/300 (headroom but
-    no research to feed expand-topic), voids 101/100 AT CAP, positions 3/80. S7
-    positions audit not due (3 entries, well below the 10-entry audit threshold;
-    last positions-evolve 06-17). S8 applied-apex clusters too small (3 positions
-    total), assess-first gated. No todo.md mutation.'
+    candidates without duplicating live content. Source check (all independently re-verified
+    this run): S1 chain - no task_chains keys in state. S2 unconsumed-research - 5
+    newest substantive notes all consumed (egocentric-presentism + manyism + naturalist-relationalism
+    concepts live; chemosensory topic live); IWMT-2026-06-16 note self-declines in
+    its own Recommendation section - RETARGET or DECLINE, do NOT mint a standalone
+    (already covered at depth in concepts/predictive-processing.md, Safron 2020 cited,
+    full gap-reply). S3 gap owned by harvest-research-subjects (ran 13:57). S4 staleness
+    owned by deep-review slot (ran 16:45). S5 orphans quality.orphaned_files 0. S6
+    length - over-hard LIVE offenders are veto-tagged (2 already in Active), human-deferred
+    (clinical-dissociation has a standing DIVERTED-TO-HUMAN condense task), or calibration
+    flagships (epistemology-of-convergence-arguments calibration-flagged, born-rule,
+    machine-question) - no safe new mint per condense-regresses-calibration-qualifiers
+    + human-decision-task-mispicked-as-refine. Section caps (counted on disk): topics
+    268/300, concepts 263/300 (headroom but no research to feed expand-topic), voids
+    101/100 AT CAP, positions 3/80. S7 positions audit not due (3 entries, well below
+    the 10-entry audit threshold; last positions-evolve 06-17). S8 applied-apex clusters
+    too small (3 positions total), assess-first gated. No todo.md mutation.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0

@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-17 15:05:06+00:00
+ai_modified: 2026-06-17 17:41:56+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-17T17:41:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/manyism]]
+- **Word count**: 1519 → 1519 (+0; below soft threshold, no expansion warranted)
+- **Critical issues addressed**: 1 (Roelofs unity paper cited as 2017 → corrected to 2016, Phil Studies 173(12), 3199–3221, DOI .2016.; volume/pages were missing — caught by §2.4 publisher-of-record web-verify, survived expand-topic's "web-verified cites" claim; classic fresh-create year-tuple defect tail)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 low (Coleman 2014 full subtitle + DOI restored)
+- **Citation ledger**: 7 external cites web-verified — 6 real-correct, 1 real-wrong-metadata (fixed). Two load-bearing direct quotes verified verbatim (Roelofs AJP "no more problematic than… physical objects"; Schwitzgebel NDPR "trove of intricate, careful, intellectually honest metaphysics"). No fabrications, no orphan cites, no superlative/currency claims.
+- **Engagement classification**: engagement with Roelofs (manyism): Mode Two + Mode Three mixed — presses the unmet intelligibility burden on experience-sharing (in-field standard, not tenet incompatibility), then marks the framework boundary honestly; no boundary-substitution, no label leakage.
+- **Calibration**: clean — article explicitly refuses to treat manyism's unmet monist burden as positive evidence for dualism; no possibility/probability slippage. Convergence success.
+- **Output**: [[reviews/deep-review-2026-06-17-manyism]]
 
 ## 2026-06-17T16:05:00+00:00 - expand-topic
 - **Status**: Success
