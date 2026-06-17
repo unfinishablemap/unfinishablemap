@@ -1,5 +1,9 @@
-last_updated: '2026-06-17T16:57:24.832442+00:00'
-session_count: 11622
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-17T17:02:16.342502+00:00'
+session_count: 11623
 cycle_position: 9280
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-06-17T10:57:40.317757+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-16T23:01:17.314770+00:00'
-  agentic-social: '2026-06-17T17:01:44.672332+00:00'
+  agentic-social: '2026-06-17T17:02:16.342502+00:00'
   embed-videos: '2026-06-17T12:32:49.002667+00:00'
   commission-chatgpt-review: '2026-06-17T02:05:46.036515+00:00'
   commission-claude-review: '2026-06-17T03:06:25.605256+00:00'
@@ -92,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-17'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-17'
@@ -170,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-17'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1013,27 +1017,28 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 0
-  last_replenishment: '2026-06-17T17:05:00+00:00'
+  last_replenishment: '2026-06-17T17:10:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-17 run no.220 (standard mode) - MINTED 0 (NO-OP).
-    Re-verified on disk, nothing changed since run no.219 at 16:50 (git log clean
-    since; last 3 commits skip-queue-slot, replenish no-op, deep-review). Expected
-    floor-alternation steady state (unfin-loop-steady-state), NOT a fixable stall.
-    Active Tasks scanned (lines 38-1063): every non-checkmark header unpickable by
-    construction - 3x HUMAN LENGTH DECISION (synesthetic-void, two duhem-quine), 2x
-    P2 condense veto-tagged (meaning-of-life, phenomenal-output-causal-machinery-dissociation),
-    rest strikethrough/superseded/relocated. Pickable P0-P3 = 0, below MIN_QUEUE floor
-    of 3 but zero genuine candidates without duplicating live content. Source check:
-    S1 chain - todays expand-topics manyism + egocentric-presentism have integration
-    chains done, no pending cross-reviews. S2 unconsumed-research - 4 newest notes
-    consumed (egocentric-presentism + manyism + naturalist-relationalism concepts
-    live; chemosensory topic live); IWMT-2026-06-16 note self-declines, sole IWMT
-    mention is concepts/predictive-processing.md. S3 gap owned by harvest-research-subjects
+  current_replenishment_note: '2026-06-17 run no.221 (standard mode) - MINTED 0 (NO-OP).
+    Re-verified on disk, nothing changed since run no.220 at 17:05 (git log clean since;
+    last 3 commits agentic-social, replenish no-op, skip-queue-slot). Expected floor-alternation
+    steady state (unfin-loop-steady-state), NOT a fixable stall. Active Tasks scanned
+    (lines 38-1063): every non-checkmark header unpickable by construction - 3x HUMAN
+    LENGTH DECISION (synesthetic-void, two duhem-quine), 2x P2 condense veto-tagged
+    (meaning-of-life, phenomenal-output-causal-machinery-dissociation), rest strikethrough/superseded/relocated.
+    Pickable P0-P3 = 0, below MIN_QUEUE floor of 3 but zero genuine candidates without
+    duplicating live content. Source check: S1 chain - no pending cross-reviews. S2
+    unconsumed-research - 4 newest substantive notes consumed (egocentric-presentism
+    + manyism + naturalist-relationalism concepts live; chemosensory topic live), older
+    notes consumed too (consciousness-in-simple-organisms.md + voids/inference-void.md
+    exist); IWMT-2026-06-16 note self-declines ("The Map would not conscript IWMT";
+    already covered in concepts/predictive-processing.md). S3 gap owned by harvest-research-subjects
     (ran 13:57). S4 staleness owned by deep-review slot (ran 16:45). S5 orphans quality.orphaned_files
     0. S6 length - over-hard offenders all vetoed-as-churn / human-deferred / recently-reviewed-accepted,
     no fresh candidate. Section caps: topics 268/300, concepts 263/300 (headroom but
-    no research to feed expand-topic). S7 positions audit not due (last 06-16, inside
-    30d). S8 applied-apex clusters too small, assess-first gated. No todo.md mutation.'
+    no research to feed expand-topic), voids 101/100 AT CAP, positions 3/80. S7 positions
+    audit not due (last 06-16, inside 30d). S8 applied-apex clusters too small, assess-first
+    gated. No todo.md mutation.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
