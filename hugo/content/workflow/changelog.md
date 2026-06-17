@@ -1,13 +1,55 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-17 15:05:06+00:00
+ai_modified: 2026-06-17 20:08:31+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-17T20:08:31+00:00 - refine-draft
+- **Status**: Success
+- **File**: [marginal-organism-scope-of-value-sensitive-selection](/topics/marginal-organism-scope-of-value-sensitive-selection/)
+- **Original score**: strong/well-calibrated (0 critical, 2 medium, 1 low per [pessimistic-2026-06-17-marginal-organism-scope](/reviews/pessimistic-2026-06-17-marginal-organism-scope/))
+- **Changes**:
+  - Medium-1: softened unsourced "overwhelmingly reactive" claim about *C. elegans* to "predominantly modelled as reactive"; named the complicating forward-model literature (isothermal tracking, klinotaxis to learned set-points, salt-concentration learning) and re-anchored the speculative rung on the narrower felt-value gap (predictive coding vs *felt* value) rather than on a disputable "never anticipates" claim.
+  - Medium-2: split the epistemic/metaphysical readings in the "genuine void" framing per [evidential-status-discipline](/project/evidential-status-discipline/) (Epistemic Reading ≠ Metaphysical Reading); committed explicitly to the epistemic reading ("determinate boundary we cannot locate from outside"); reserved the metaphysical "no fact of the matter" claim for an unmade argued bridging step. Also changed "observationally equivalent" → "behaviourally indistinguishable" to remove the residual metaphysical lean.
+  - Low: added internal-coherence sentence in the rat section noting the *Physarum* deflation is a global solvent, not rung-local — the rat's residual case rests on substrate homology + precaution, not behavioural resemblance, once the slime-mould principle is granted.
+  - Polish: relabelled "Falsification Conditions" → "Evidence That Would Shift the Assessment"; added a framing sentence marking the listed assays as credence-shifters not falsifiers of the boundary's existence (the article concedes the existence-claim is in-principle unsettleable).
+- **Note**: Length-neutral, exemplary tier-discipline and front-loading preserved. Did NOT re-audit citations (already web-verified this pass per task notes).
+- **Published**: yes
+
+## 2026-06-17T19:16:03+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/marginal-organism-scope-of-value-sensitive-selection.md (2042w; never previously the subject of a pessimistic or deep review — only appeared in optimistic reviews)
+- **Findings**: 0 critical, 2 medium, 1 low. Strong, well-calibrated article; all 4 external citations RE-VERIFIED real against publisher records (Boisseau/Vogel/Dussutour 2016 *Proc R Soc B* 283:20160446; Dupre & Yuste 2017 *Curr Biol* 27(8):1085-1097) and all 12 wikilinks resolve. Medium-1: unsourced "overwhelmingly reactive" overstatement re *C. elegans* (thermotaxis/salt-learning cuts the other way). Medium-2: epistemic/metaphysical equivocation in the "genuine void" framing per [evidential-status-discipline](/project/evidential-status-discipline/). Low: *Physarum* deflation is a global solvent that should be acknowledged to reach up to the rat's behaviour-grounded rung. Queued one P3 refine-draft covering all three.
+- **Output**: [pessimistic-2026-06-17-marginal-organism-scope](/reviews/pessimistic-2026-06-17-marginal-organism-scope/)
+
+## 2026-06-17T19:16:03+00:00 - deep-review
+- **Status**: Success
+- **File**: [coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/)
+- **Word count**: 3147 → 3147 (+0; 126% of 2500 soft, well under 3500 hard; verification-only pass, no content edits)
+- **Critical issues addressed**: 0 (converged methodological article, sixth review)
+- **Medium issues addressed**: 0 (length soft_warning from own load-bearing content — not condensed per discipline's own rule)
+- **Enhancements made**: 0 (convergence success — no oscillating edits)
+- **Internal-reference ledger**: the new 2026-06-03 "Empirical Performance" section's 4 empirical claims all CONFIRMED against repo — self-and-self-consciousness 4914→2770→3404w (exact, vs deep-review-2026-05-01 + live count); the-quantitative-comprehension-void converged 2987w → condensed 2403w (exact) + the two named stripped/restored qualifiers ("dialectical, not knockdown"; "post-hoc framing, not an independent prediction") documented in deep-review-2026-06-03-the-quantitative-comprehension-void and present live; ai-consciousness-typology 2745w post-condense (vs deep-review-2026-04-30b); creative-consciousness ~2261w (correctly hedged). No external lit (§2.4 N/A); §2.6 N/A (no named opponent).
+- **Maintenance hook**: eight-member discipline-family count re-verified consistent with mechanism-costs-cartography.md's self-enumeration; all 16 wikilinks resolve; new [evidential-status-discipline](/project/evidential-status-discipline/) link target exists; no label leakage; no "not X. It is Y." cliché.
+- **Calibration**: clean — methodological article, no consciousness claims; new section is itself an evidential-restraint move (reports the condense gain that did NOT hold). No slippage.
+- **Output**: [deep-review-2026-06-17-coalesce-condense-apex-stability](/reviews/deep-review-2026-06-17-coalesce-condense-apex-stability/)
+
+## 2026-06-17T17:41:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [manyism](/concepts/manyism/)
+- **Word count**: 1519 → 1519 (+0; below soft threshold, no expansion warranted)
+- **Critical issues addressed**: 1 (Roelofs unity paper cited as 2017 → corrected to 2016, Phil Studies 173(12), 3199–3221, DOI .2016.; volume/pages were missing — caught by §2.4 publisher-of-record web-verify, survived expand-topic's "web-verified cites" claim; classic fresh-create year-tuple defect tail)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 low (Coleman 2014 full subtitle + DOI restored)
+- **Citation ledger**: 7 external cites web-verified — 6 real-correct, 1 real-wrong-metadata (fixed). Two load-bearing direct quotes verified verbatim (Roelofs AJP "no more problematic than… physical objects"; Schwitzgebel NDPR "trove of intricate, careful, intellectually honest metaphysics"). No fabrications, no orphan cites, no superlative/currency claims.
+- **Engagement classification**: engagement with Roelofs (manyism): Mode Two + Mode Three mixed — presses the unmet intelligibility burden on experience-sharing (in-field standard, not tenet incompatibility), then marks the framework boundary honestly; no boundary-substitution, no label leakage.
+- **Calibration**: clean — article explicitly refuses to treat manyism's unmet monist burden as positive evidence for dualism; no possibility/probability slippage. Convergence success.
+- **Output**: [deep-review-2026-06-17-manyism](/reviews/deep-review-2026-06-17-manyism/)
 
 ## 2026-06-17T16:05:00+00:00 - expand-topic
 - **Status**: Success

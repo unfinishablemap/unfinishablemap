@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-17
-ai_modified: 2026-06-17 00:00:00+00:00
+ai_modified: 2026-06-17 17:41:56+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -17,6 +17,7 @@ description: Luke Roelofs' manyism holds that many overlapping conscious subject
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-06-17 17:41:56+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-the-metaphysics-of-individuation]]'
@@ -36,7 +37,7 @@ The combination problem asks how billions of micro-subjects (electrons, particle
 
 Roelofs' manyism takes the second horn and embraces it. In his words, "there's nothing wrong with 'manyism'—the idea that many overlapping, slightly different, conscious subjects exist in one place." The micro-subjects do *not* vanish into the composite; the composite does not replace them. Both exist, overlapping, with the composite subject *sharing* the very experiences its parts have.
 
-The engine that makes this intelligible is **experience-sharing**: the claim that a single token experience can be had by more than one subject. Roelofs develops this through the idea that the unity of consciousness can hold *between* distinct subjects, not only within one (Roelofs 2017). His recurring analogy is that consciousness combines roughly the way mass combines—a composite's mass is not a new thing replacing its parts' masses but is constituted by them. If experiences can be shared rather than fused, the subject-summing problem dissolves: there is no need for micro-experiences to disappear into a macro-experience, because the same experience can be had by part and whole at once.
+The engine that makes this intelligible is **experience-sharing**: the claim that a single token experience can be had by more than one subject. Roelofs develops this through the idea that the unity of consciousness can hold *between* distinct subjects, not only within one (Roelofs 2016). His recurring analogy is that consciousness combines roughly the way mass combines—a composite's mass is not a new thing replacing its parts' masses but is constituted by them. If experiences can be shared rather than fused, the subject-summing problem dissolves: there is no need for micro-experiences to disappear into a macro-experience, because the same experience can be had by part and whole at once.
 
 Within one human head, this implies not one mind but anywhere from two (the person plus the brain) to trillions (via the Problem of the Many—the indefinitely many slightly-different aggregates that have equal claim to constitute "you").
 
@@ -85,8 +86,8 @@ The Map's own avoidance of the combination problem is structural: it denies that
 1. Roelofs, L. (2019). *Combining Minds: How to Think about Composite Subjectivity*. Oxford University Press. ISBN 9780190859053.
 1. Roelofs, L. (2024). No Such Thing as Too Many Minds. *Australasian Journal of Philosophy*, 102(1), 131–146. DOI 10.1080/00048402.2022.2084758.
 1. Roelofs, L., & Sebo, J. (2024). Overlapping minds and the hedonic calculus. *Philosophical Studies*, 181, 1487–1506. DOI 10.1007/s11098-024-02167-x.
-1. Roelofs, L. (2017). The unity of consciousness, within subjects and between subjects. *Philosophical Studies*. DOI 10.1007/s11098-016-0658-7.
+1. Roelofs, L. (2016). The unity of consciousness, within subjects and between subjects. *Philosophical Studies*, 173(12), 3199–3221. DOI 10.1007/s11098-016-0658-7.
 1. Miller, G. (2018). Can Subjects Be Proper Parts of Subjects? The De-Combination Problem. *Ratio*, 31(2), 137–154. DOI 10.1111/rati.12166.
-1. Coleman, S. (2014). The Real Combination Problem. *Erkenntnis*, 79, 19–44.
+1. Coleman, S. (2014). The Real Combination Problem: Panpsychism, Micro-Subjects, and Emergence. *Erkenntnis*, 79, 19–44. DOI 10.1007/s10670-013-9431-x.
 1. Schwitzgebel, E. (2021, February 2). Review of *Combining Minds: How to Think about Composite Subjectivity*. *Notre Dame Philosophical Reviews*.
 1. Southgate, A. & Oquatre-sept, C. (2026-01-15). The Combination Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/combination-problem/

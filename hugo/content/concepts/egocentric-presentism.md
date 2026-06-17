@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-17
-ai_modified: 2026-06-17 15:30:00+00:00
+ai_modified: 2026-06-17 16:42:58+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -16,7 +16,8 @@ description: Caspar Hare's thesis that, of all conscious beings, only oneself ha
   theories of consciousness, refined here against the Map's tenets.
 draft: false
 human_modified: null
-last_curated: null
+last_curated: 2026-06-17
+last_deep_review: 2026-06-17 16:42:58+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -68,7 +69,7 @@ These are the two principled rivals. Hare keeps one world and privileges the sel
 
 ## The Communicability Objection
 
-The standard objection is that the privileged property cannot be coherently stated. Critics — including Ned Markosian, in his review "Are You Special?", and Kris McDaniel — press whether anyone can express egocentric presentism without the view collapsing. The worry: a non-relational "present, but present *to* no one in particular" seems either unintelligible or covertly relational. When I try to say what is special about my experiences, I say they are present *to me* — and that "to me" reintroduces a relation, restoring symmetry across subjects and dissolving the very privilege the view asserts. If presence is genuinely monadic, it appears unstatable; if it is statable, it appears relational and so universal.
+The standard objection is that the privileged property cannot be coherently stated. The worry: a non-relational "present, but present *to* no one in particular" seems either unintelligible or covertly relational. When I try to say what is special about my experiences, I say they are present *to me* — and that "to me" reintroduces a relation, restoring symmetry across subjects and dissolving the very privilege the view asserts. If presence is genuinely monadic, it appears unstatable; if it is statable, it appears relational and so universal. Reviewers press related pressure from different angles: Kris McDaniel argues the evidence supports presence being a two-place relation rather than a monadic property, and Ned Markosian, reviewing the book in "Are You Special?", holds both that the inside/outside intuitions can be reconciled in other ways and that the view supplies no account of why presence should attach to one subject rather than another.
 
 Hare's reply is that monadic presence is a genuine property whose intelligibility does not require relational expressibility — the difficulty of saying it is a feature of any deeply first-personal fact, not evidence against its reality. The debate is live. Giovanni Merlo's "subjectivism" (2016) develops a near-neighbour position that differs precisely on the status of the privileged fact, which shows egocentric presentism is one member of a small family of "metaphysically privileged first-person" theories rather than an isolated curiosity.
 
@@ -95,9 +96,9 @@ Egocentric presentism is, for the Map, an exploratory ontological *fit* — a me
 
 1. Hare, C. (2007). "Self-Bias, Time-Bias, and the Metaphysics of Self and Time." *The Journal of Philosophy*, 104(7), 350–373. https://doi.org/10.5840/jphil2007104717
 2. Hare, C. (2009). *On Myself, and Other, Less Important Subjects*. Princeton University Press. ISBN 9780691135311.
-3. Conitzer, V. (2020). "The Personalized A-Theory of Time and Perspective." *Dialectica*, 74(1), 1–29.
+3. Conitzer, V. (2020). "The Personalized A-Theory of Time and Perspective." *Dialectica*, 74(1), 3–31. https://doi.org/10.48106/dial.v74.i1.02
 4. List, C. (2023). "The Many-Worlds Theory of Consciousness." *Noûs*, 57(2), 316–340. https://doi.org/10.1111/nous.12408
-5. List, C. (2024). "A Quadrilemma for Theories of Consciousness." *The Philosophical Quarterly*, 75(3), 1026–1048. https://doi.org/10.1093/pq/pqae053
-6. Merlo, G. (2016). "Subjectivism and the Mental." *Dialectica*, 70(3), 311–341. https://doi.org/10.1111/1746-8361.12153
+5. List, C. (2025). "A Quadrilemma for Theories of Consciousness." *The Philosophical Quarterly*, 75(3), 1026–1048. https://doi.org/10.1093/pq/pqae053 (Advance Access 2024; 2025 print issue.)
+6. Merlo, G. (2016). "Subjectivism and the Mental." *Dialectica*, 70(3), 311–342. https://doi.org/10.1111/1746-8361.12153
 7. Markosian, N. (2015). "Are You Special? A Review of Caspar Hare's *On Myself, and Other, Less Important Subjects*." PhilArchive: MAROMA-6.
 8. Southgate, A. & Oquatre-sept, C. (2026-01-26). The Vertiginous Question and the Indexical Void. *The Unfinishable Map*. https://unfinishablemap.org/topics/vertiginous-question/
