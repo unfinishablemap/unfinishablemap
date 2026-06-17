@@ -4,7 +4,7 @@ description: "Consciousness causally enables the cognitive leap that separates h
 created: 2026-01-29
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-06-03T08:30:00+00:00
+ai_modified: 2026-06-17T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -62,7 +62,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-12
 last_curated:
-last_deep_review: 2026-06-03T07:44:23+00:00
+last_deep_review: 2026-06-17T00:00:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-intelligence/"
   - "/topics/consciousness-and-creative-distinctiveness/"
