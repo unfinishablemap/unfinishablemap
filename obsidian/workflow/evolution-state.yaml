@@ -1,5 +1,9 @@
-last_updated: '2026-06-17T18:43:12.529265+00:00'
-session_count: 11643
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-17T18:46:03.702087+00:00'
+session_count: 11644
 cycle_position: 9288
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-06-17T17:13:37.113972+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-16T23:01:17.314770+00:00'
-  agentic-social: '2026-06-17T18:45:15.556159+00:00'
+  agentic-social: '2026-06-17T18:46:03.702087+00:00'
   embed-videos: '2026-06-17T18:34:01.784269+00:00'
   commission-chatgpt-review: '2026-06-17T02:05:46.036515+00:00'
   commission-claude-review: '2026-06-17T03:06:25.605256+00:00'
@@ -92,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-17'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-06-17'
@@ -170,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: check-tenets
   type: check-tenets
+  date: '2026-06-17'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1008,41 +1012,38 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 0
-  last_replenishment: '2026-06-17T18:30:00+00:00'
+  last_replenishment: '2026-06-17T18:50:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-17 run no.229 (standard mode) - MINTED 0 (NO-OP).
-    Independently re-verified all 8 sources on disk this run, not trusting run no.228s
-    note. Active Tasks (lines 38-1063) scanned: every header is closed (checkmark/struck/HUMAN-DECISION/DEFERRED-TO-HUMAN/DIVERTED-TO-HUMAN)
-    or veto-tagged; the awk-filtered pickable-header set is EMPTY (0 genuinely-pickable
-    tasks, below MIN_QUEUE floor of 3 but zero safe candidates without duplicating
-    live content). S1 chain - no actionable task_chains pending structure in state.
-    S2 unconsumed-research - all 4 newest notes confirmed consumed on disk (concepts/egocentric-presentism,
-    concepts/manyism, concepts/naturalist-relationalism, topics/chemosensory-consciousness-and-the-interface
-    all live); IWMT-2026-06-16 note self-declines a standalone in its own ASSESS-FIRST
-    section (verbatim Lean RETARGET-or-DECLINE, already covered at depth in concepts/predictive-processing.md
-    Strongest Gap-Dissolving Variant sub-section with Safron 2020 cited and full gap-reply)
-    - DECLINE, do NOT mint. S3 gap owned by harvest-research-subjects (ran 13:57,
-    6h interval, not due). S4 staleness owned by deep-review cycle slot (ran 17:44).
-    S5 orphans quality.orphaned_files 0. S6 length re-run via tools.curate.length
-    this run - 51 hard+critical offenders, but the 3 non-research CRITICAL ones dispositioned
-    (apex/phenomenal-output-causal-machinery-dissociation veto in Active; topics/epistemology-of-convergence-arguments
-    DIVERTED-TO-HUMAN standing decision, prior condenses failed, load-bearing Tenet-5
-    calibration; apex/apex-articles is a section-index not a condense target). The
-    27 non-research hard_warning offenders are all either DEFERRED-TO-HUMAN (laws-and-dispositions,
-    born-rule), freshly-coalesced with an EXISTING deep-review-with-condense-assessment
-    task already in todo (memory-channel-interface-evidence L86, composition-question-rivals
-    L1272), or recently-reviewed-AND-recently-modified marginal offenders where a
-    condense would risk refine-then-condense-same-session-churn for tiny gain (machine-question
-    5001w/review 06-05/mod 06-13; qm-interpretations 4125w/review 06-04/mod 06-16;
-    quantum-biology 4060w/review 06-05/mod 06-16; introspection-architecture 4021w/review
-    06-04/mod 06-13 - all marginally over hard, far below critical). Research notes
-    are reference material not condense targets. No safe new condense mint. Section
-    caps (counted on disk): topics 268/300, concepts 263/300 (headroom but no research
-    to feed expand-topic), voids 101/100 AT CAP, positions 3/80. S7 positions audit
-    not due (3 entries, below 10-entry threshold; last positions-evolve 06-17 00:41).
-    S8 applied-apex clusters too small (3 positions total), assess-first gated. Expected
-    floor-alternation steady state (unfin-loop-steady-state), NOT a fixable stall.
-    No todo.md mutation.'
+  current_replenishment_note: '2026-06-17 run no.230 (standard mode) - MINTED 0 (NO-OP).
+    Independently re-verified all 8 sources on disk this run, not trusting run no.229s
+    note. Active Tasks (lines 38-1063) scanned via awk: exactly 2 P-headers in range
+    (L611 condense meaning-of-life, L619 condense phenomenal-output) and BOTH are #veto-tagged
+    -> 0 genuinely-pickable headers, below MIN_QUEUE floor of 3 but zero safe candidates
+    without duplicating live content. S1 chain - no actionable task_chains pending structure
+    in state. S2 unconsumed-research - 4 newest notes checked: egocentric-presentism,
+    manyism, naturalist-relationalism all CONSUMED (live concept articles on disk);
+    integrated-world-modeling-theory-2026-06-16 (the 400th note) SELF-DECLINES a standalone
+    in its own ASSESS-FIRST recommendation (verbatim "Lean: RETARGET to expand concepts/predictive-processing.md,
+    or DECLINE a standalone - do NOT mint a new concepts/integrated-world-modeling-theory.md
+    by default"; already covered at depth in predictive-processing.md Strongest Gap-Dissolving
+    Variant sub-section with Safron 2020 cited + full gap-reply) - DECLINE, do NOT mint.
+    S3 gap owned by harvest-research-subjects (ran 13:57, 6h interval, 4.87h elapsed
+    - NOT due). S4 staleness owned by deep-review cycle slot (ran 17:44). S5 orphans
+    quality.orphaned_files 0. S6 length re-run via tools.curate.length this run - 27
+    non-research hard+critical offenders; the 3 CRITICAL ones dispositioned (topics/epistemology-of-convergence-arguments
+    6479w DIVERTED-TO-HUMAN standing decision at todo L253, 4 prior condenses failed,
+    load-bearing Tenet-5 calibration; apex/apex-articles 7238w is a section-index not
+    a condense target; apex/phenomenal-output-causal-machinery-dissociation 6832w #veto
+    in Active L619). The 24 non-research hard_warning offenders are human-deferred,
+    freshly-coalesced-with-existing-deep-review-task, or recently-reviewed-AND-modified
+    marginal offenders where a condense risks refine-then-condense-same-session-churn
+    for tiny gain. Research notes are reference material not condense targets. No safe
+    new condense mint. Section caps (counted on disk): topics 268/300, concepts 263/300
+    (headroom but no research to feed expand-topic), voids 101/100 AT CAP, positions
+    3/80. S7 positions audit not due (3 entries, below 10-entry threshold; last positions-evolve
+    06-17 00:41). S8 applied-apex clusters too small (3 positions total), assess-first
+    gated. Expected floor-alternation steady state (unfin-loop-steady-state), NOT a
+    fixable stall. No todo.md mutation.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
