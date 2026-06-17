@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Debias P-A1's cross-cultural anchor for the intuitive-dualism common-cause null
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-06-17 (positions registers) found P-A1 in [[positions/agency-and-will]] lists "cross-cultural convergence on substance-causal accounts of persons" as a confirming convergent anchor, but the corpus's [[concepts/intuitive-dualism]] treats that same convergence as an evolved cognitive bias (a common-cause that screens off "everyone believes it → it is true"). This is the same common-cause discipline the [[positions/voids-as-evidence]] register applies to the void catalogue. Fix: add one clause to P-A1's Asserts discounting the cross-cultural/phenomenology anchors for the intuitive-dualism common-cause null (cite concepts/intuitive-dualism), and rest the convergence claim on the genuinely independent subset (neural willed-vs-instructed data, argument from reason). Length-neutral. See [[reviews/pessimistic-2026-06-17-positions-registers]] Issue 1.
+- **Source**: pessimistic-review
+
+### P2: Distinguish common-root from mutual-confirmation in the P-A2 ↔ Tenet 4 reciprocal-dependency note
+- **Type**: positions-evolve
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-06-17 flagged a circularity smell in P-A2's "Bears on" note ([[positions/agency-and-will]], line ~60): it asserts the dependency between No-MWI (Tenet 4) and agent-causal subjecthood is *reciprocal* and presents both directions as mutual *support*. A position and the tenet-cluster it depends on propping each other up as evidence risks double-counting one underlying commitment (the thick indexical subject). Fix: rewrite the note to distinguish *logical interdependence* (legitimate — the claims co-vary and are coherent) from *evidential bootstrapping* (illegitimate — neither is independent support for the other). Frame as "common root": the thick-subject commitment is one input, motivated on its own grounds, from which both No-MWI's indexical objection and P-A2's sourcehood follow. See [[reviews/pessimistic-2026-06-17-positions-registers]] Issue 2.
+- **Source**: pessimistic-review
+
 ### ✓ DEFERRED-TO-HUMAN 2026-06-16: Write a third applied apex — "Clinical and Diagnostic Decisions Under the Map"
 - **Type**: apex-evolve
 - **Status**: DEFERRED-TO-HUMAN — DIVERTED from auto-pick by /unfin-cycle 2026-06-16. This proposes a NEW applied apex but, UNLIKE the A5 slot (which carried `Status: Proposed` in apex-articles.md as a human sanction), has NO pre-approved slot; apex is over its informal ~20 cap (35 on disk per the 2026-06-03 audit); and the task body itself says "NEEDS HUMAN APPROVAL before creation." Per [[human-decision-task-mispicked-as-refine]], an executable `apex-evolve` task left pending in Active would be auto-picked by the loop and could create an unsanctioned 36th apex without the human approval it requires. Header set to ✓ DEFERRED so the selector (keys off the `### P{N}:` header) skips it. HUMAN ACTION: if this apex is wanted, add an A6 slot to `apex/apex-articles.md` (Status: Proposed) — that sanction is what made A5 auto-executable — then re-activate this task. Do NOT auto-execute. The proposal substance is preserved below.

@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-16 17:43:39+00:00
+ai_modified: 2026-06-17 00:20:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-17T00:20:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: positions registers [[positions/quantum-interface]] (P-Q1–P-Q10) and [[positions/agency-and-will]] (P-A1–P-A5) — both had never carried last_deep_review nor been the focus of a dedicated pessimistic pass
+- **Findings**: 2 Medium issues (P-A1 cross-cultural anchor not debiased for the intuitive-dualism common-cause null; P-A2↔Tenet 4 reciprocal-dependency circularity smell), 1 Low (preferred mechanism P-Q1 carries least empirical exposure while falsifiable residue attaches to demoted P-Q4/P-Q5). No citation defects — Donadi P-Q6 magnitude and Torres Alegre P-Q7 verified consistent with corpus; all dependency wikilinks resolve; clean on language/label-leakage discipline. 2 P2 tasks queued.
+- **Output**: [[reviews/pessimistic-2026-06-17-positions-registers]]
 
 ## 2026-06-16T23:38:19+00:00 - deep-review
 - **Status**: Success (no critical issues — converged)
