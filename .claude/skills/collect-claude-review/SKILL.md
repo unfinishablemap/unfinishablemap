@@ -250,11 +250,18 @@ If multi-file download permission is REVOKED in Chrome, the Blob path silently f
 Look up the pending entry to extract its subject metadata (populated at commission time):
 
 ```python
+import re
 from tools.reviews import load_pending
 entry = next(r for r in load_pending() if r.target_filename == target_filename)
 subject_articles_csv = (
     ",".join(entry.subject_articles) if entry.subject_articles else None
 )
+# Model slug is encoded in the filename by commission-claude-review, which names
+# the file after whichever model actually ran (Fable 5 when available, else Opus).
+m = re.match(r"outer-review-\d{4}-\d{2}-\d{2}-(claude-[a-z0-9-]+)\.md$", target_filename)
+if not m:
+    raise SystemExit(f"Cannot derive model slug from target filename: {target_filename!r}")
+model_slug = m.group(1)  # e.g. "claude-fable-5" or "claude-opus-4-8"
 ```
 
 If `entry.subject_type` is None (legacy in-flight commission predating the steerable-subject system), omit the `--subject-*` args entirely.
@@ -267,7 +274,7 @@ uv run python scripts/collect_review.py \
   --prompt "<user prompt from window.__collect_review_user>" \
   --response-md-file tmp/collect-claude-body-<date>.md \
   --conversation-url "<conversation URL>" \
-  --model-slug claude-fable-5 \
+  --model-slug "<model_slug>" \
   --commissioned-date <ISO date> \
   --extraction-method js-dom \
   --subject-type "<entry.subject_type>" \
@@ -278,7 +285,7 @@ uv run python scripts/collect_review.py \
 
 The four `--subject-*` flags are optional; pass them only when the pending entry has populated subject metadata. The script renders them into the file's frontmatter so the synthesis pass and recent-aged-fallback dedupe can find which articles a review covered.
 
-Note: Claude doesn't expose a model identifier per message in the DOM. The `model_slug=claude-fable-5` is hardcoded based on the project's default. If the project default changes, update `tools/reviews/services.py` and this SKILL.md together.
+Note: Claude doesn't expose a model identifier per message in the DOM, so `model_slug` is read from the `target_filename` that `commission-claude-review` chose. Commission names the file after whichever acceptable model the project's selector showed at submit time (Fable 5 when available; Opus 4.8 when claude.ai marks Fable 5 "Currently unavailable"), so no hardcoded model lives here — the collect leg auto-tracks the commission leg.
 
 ## Step 8: Mark collected and invoke /outer-review
 
@@ -296,7 +303,7 @@ claude --dangerously-skip-permissions -p "Run the outer-review skill with: obsid
 ## Step 9: Log and exit
 
 ```
-Collected outer review: <target_filename> from <conversation_url> (model: claude-fable-5)
+Collected outer review: <target_filename> from <conversation_url> (model: <model_slug>)
 ```
 
 Total runtime budget: 10 minutes.
