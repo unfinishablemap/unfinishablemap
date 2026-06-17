@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T23:38:16.085446+00:00'
-session_count: 11699
-cycle_position: 9310
+last_updated: '2026-06-17T23:38:43.426620+00:00'
+session_count: 11700
+cycle_position: 9311
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-17T19:57:34.449468+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-06-17T00:41:47.595053+00:00'
   check-model-fallback: '2026-06-17T20:22:00.193089+00:00'
   harvest-research-subjects: '2026-06-17T19:59:43.922420+00:00'
-  skip-queue-slot: '2026-06-17T23:28:05.521625+00:00'
+  skip-queue-slot: '2026-06-17T23:38:43.426620+00:00'
 last_git_push: '2026-06-17T20:28:50.865570+00:00'
 last_tweet_date: '2026-06-17'
 content_stats:
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-17'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-17'
+  outcome: success
+- task: skip-queue-slot
+  type: skip-queue-slot
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1022,41 +1022,38 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 0
-  last_replenishment: '2026-06-17T23:38:00+00:00'
+  last_replenishment: '2026-06-17T23:45:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-17 run no.253 (standard mode) - HONEST NO-OP
-    (0 minted). Queue at-floor confirmed via the loop''s own parser: count_p0_p2_tasks
-    0, select_queue_task None. Active section has zero genuinely pickable headers
-    (all are ✓-done, HUMAN-LENGTH-DECISION, DEFERRED/DIVERTED/DECLINED, or vetoed/struck-through).
-    Re-verified all 8 sources independently on disk. S1 chains none: latest completions
-    (refine-draft 21:41, deep-review 23:02, coalesce 22:27 = reductionism, its cross-review
-    successor a1ae85539 already ran). S2 unconsumed-research 0: the new 06-16/17 notes
-    are all consumed - manyism->concepts/manyism, egocentric-presentism->concepts/egocentric-presentism,
-    naturalist-relationalism->concepts/naturalist-relationalism, chemosensory->topics/chemosensory-consciousness-and-the-interface,
-    IWMT folded into concepts/predictive-processing (verified: dedicated Safron-IWMT
-    section present). S3 gaps owned by harvest (ran 19:59, 6h cadence; next ~01:59,
-    not due). S4 staleness owned by deep-review (ran 23:02, 36min ago). S5 orphans
-    0. S6 length: 2 critical content offenders both human-blocked (epistemology-of-convergence-arguments
-    6479w = standing HUMAN-FLAGSHIP-SPLIT, 4 prior condenses failed; apex/phenomenal-output-causal-machinery-dissociation
-    6832w = #veto). The hard_warning tail (born-rule, time-collapse-and-agency, laws-and-dispositions,
-    epistemic-advantages, qm-interpretations, quantum-biology, composition, predictive-processing,
-    etc.) are all recently-modified (most within 1-2wk, several today) AND recently-deep-reviewed
-    calibration-dense anchors - auto-condense would regress qualifiers / churn. research/
-    offenders exempt (no ceiling). S7 positions: audit inside 30d window (last 2026-06-09);
-    no 7b dependency-change (latest coalesce = reductionism, cited by no position);
-    no 7a new-commitment (the 2 new articles manyism/egocentric-presentism are rival-survey
-    concept pages, not Map claims). S8 applied-apex: 3 Proposed slots (A2 clinical-interface-ethics,
-    A3 personal-philosophy, A4 moral-status-edge-cases) exist BUT all carry "Source
-    positions: TBD" - their position clusters are unseeded (only the quantum-interface
-    cluster has high-confidence depth, and A5 already covers it), so the applied-apex
-    contract (cite >=3 positions) cannot be met; cannot mint. NOTE on todo structure:
-    ## Completed Tasks header empty, ✓ tasks live under ## Blocked Tasks; the only
-    two non-✓ P-headers below it are correctly-parked NOT-LOOP-PICKABLE items (P2
-    literature-drift auto-selects its own target; P3 pragmatisms-path length DEFERRED-TO-HUMAN).
-    Bulk P3 Write-article/cross-link headers under ## Vetoed = intentional Ideas-for-Later
-    backlog. Caps: topics 267/300, concepts 263/300, voids 101/100 over. Expected
-    floor-alternation steady-state; harvest(6h) + outer-review triple refill the research
-    feed.'
+  current_replenishment_note: '2026-06-17 run no.254 (standard mode) - HONEST NO-OP
+    (0 minted). Queue at-floor: p0/p1/p3 = 0, the lone p2 is the literature-drift
+    task that auto-selects its own target and is not loop-pickable (TaskType.OTHER).
+    Active section has zero genuinely pickable headers - every non-checkmarked one
+    is a HUMAN-LENGTH-DECISION (diverted), a #veto-tagged condense, or struck-through/done.
+    Independently re-verified all 8 sources on disk. S1 chains none: latest content
+    completions are deep-review (reductionism cross-review a1ae85539 22:43), refine-draft
+    21:41, coalesce reductionism 22:27 whose cross-review successor already ran; the
+    afternoon expand-topics have cycled through their chains. S2 unconsumed-research
+    0: the 06-16/17 notes are all consumed - naturalist-relationalism, egocentric-presentism,
+    manyism (concepts), chemosensory (topics), consciousness-in-simple-organisms +
+    inference-void (live), and IWMT folded into concepts/predictive-processing (verified:
+    dedicated Safron-IWMT section at L99 with matching Frontiers 2020 cite). S3 gaps
+    owned by harvest (ran 19:59, 6h cadence, next ~01:59 not due). S4 staleness owned
+    by deep-review (ran 23:02). S5 orphans 0. S6 length: 2 critical content offenders
+    both human-blocked (epistemology-of-convergence-arguments 6479w = standing HUMAN-FLAGSHIP-SPLIT,
+    4 prior condenses failed; apex/phenomenal-output-causal-machinery-dissociation
+    6832w = vetoed). apex/apex-articles.md 7238w is the section INDEX (curated list,
+    not condensable). apex/machine-question 5001w is 1w over the apex hard threshold
+    and was deep-reviewed 2026-06-05 - trivially-over + recently-reviewed, not a real
+    candidate. The hard_warning tail (born-rule, time-collapse-and-agency, laws-and-dispositions,
+    epistemic-advantages, qm-interpretations, quantum-biology, composition, predictive-processing)
+    are all recently-modified and recently-deep-reviewed calibration anchors - auto-condense
+    would regress qualifiers. research/ offenders exempt (no ceiling). S7 positions:
+    audit inside 30d window (last 2026-06-09); no 7b dependency-change (reductionism
+    coalesce cited by no position); no 7a new-commitment (recent articles are rival-survey
+    concept pages, not Map claims). S8 applied-apex: Proposed slots carry Source-positions-TBD
+    on unseeded clusters, so the cite-3-positions contract cannot be met. Caps: topics
+    267/300, concepts 263/300, voids 101/100 over, positions 3/80. Expected at-floor
+    steady-state; harvest(6h) + outer-review triple refill the research feed.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
