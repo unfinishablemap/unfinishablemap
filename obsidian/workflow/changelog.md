@@ -5,6 +5,14 @@ ai_modified: 2026-06-17 15:05:06+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-17T16:00:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Manyism and composite subjectivity (Luke Roelofs)
+- **Output**: [[research/manyism-and-composite-subjectivity-2026-06-17]]
+- **Sources consulted**: 8 (all citations web-verified at publisher of record / PhilPapers: Roelofs 2019 OUP ISBN 9780190859053; Roelofs 2024 AJP 102(1):131-146 DOI 10.1080/00048402.2022.2084758; Roelofs & Sebo 2024 Phil.Studies 181:1487-1506 DOI 10.1007/s11098-024-02167-x; Miller 2018 Ratio 31(2):137-154 DOI 10.1111/rati.12166; Schwitzgebel NDPR review 2021-02-02; SEP Panpsychism; Roelofs author page; Roelofs 2017 Phil.Studies DOI 10.1007/s11098-016-0658-7)
+- **Assess-first verdict**: PROCEED — dedicated concepts/ page JUSTIFIED as a tight ~1,500-2,000w definitional anchor. Harvester's "redundant in 3 pages" worry is partly a FALSE POSITIVE: the clinical-dissociation "Roelofs" is Karin Roelofs (neuroscientist), NOT Luke Roelofs. Manyism is named in only 1 live body, never anchored. concepts/ at 262/300 (cap headroom). Risk is scope-creep (re-arguing combination problem), not redundancy.
+- **Tenet hooks**: Tenet 1 (manyism is a monist constitutive-panpsychist RIVAL the Map engages, NOT evidence for dualism — evidential-status discipline); Tenet 4 (multiplies subjects, not worlds — don't conflate with MWI). Unity-as-primitive vs between-subjects-unity is the cleanest contact point.
+
 ## 2026-06-17T15:30:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Egocentric presentism (Caspar Hare)
