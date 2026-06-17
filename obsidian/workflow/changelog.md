@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-17 12:00:00+00:00
+ai_modified: 2026-06-17 12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-17T12:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/introspection]]
+- **Task**: P2 consolidation of the five findings from [[reviews/pessimistic-2026-06-17-introspection]] into one editor pass.
+- **Changes**:
+  1. **CRITICAL — blindsight contradiction fixed** (§Dissociation Evidence). The article said blindsight patients "retain phenomenal experience in their 'blind' field"—the reverse of the standard view and of the Map's own position. Rewrote to: residual visual discrimination survives while phenomenal experience is minimal or absent. Now aligns with `concepts/access-consciousness.md` ("minimal or absent P-consciousness despite partial access") and `concepts/blindsight.md` ("eliminates conscious visual experience"). Added a [[blindsight]] wikilink. The overflow case (phenomenology exceeding access) remains correctly placed in §Phenomenal Overflow.
+  2. **CRITICAL — boundary-substitution fixed** (§The Self-Undermining Problem). The self-refutation charge against illusionism was presented as an in-framework refutation; it only bites once phenomenal realism is granted, which Frankish denies. Inherited the proviso from `concepts/illusionism.md` in natural prose: the charge "marks where the Map and the illusionist part company rather than refuting him within his own framework." No mode labels in body.
+  3. **MEDIUM — choice-blindness concurrent/retrospective** (§The Case Against Introspection). Qualified "three-quarters undetected" as *retrospective verbal report*; added the concurrent-detection clause (autonomic/pupillary channel registers the swap online) linking [[topics/pupillometry-behavioural-channel]]. Trimmed the now-redundant duplicate pupillometry passage downstream.
+  4. **MEDIUM — non-discriminating MWI claim downgraded** (§No Many Worlds). "No superposition phenomenology → collapse" is non-discriminating vs MWI (predicts identical single-outcome reports). Downgraded: introspective uniformity confirms determinate experience without adjudicating *why*; the case against MWI rests on indexical-identity grounds.
+  5. **LOW — Sperling apparatus attributed** (§Phenomenal Overflow). Twelve-letter grid is Sperling's (1960) partial-report apparatus, not Block's; apparatus to Sperling, interpretation to Block. Added Sperling 1960 reference.
+- **Engagement classification (editor-internal)**: illusionism self-undermining engagement — Mode Three (framework-boundary marking); the disagreement is bedrock (phenomenal realism is what is contested), honestly noted rather than dressed as in-framework refutation.
+- **Length**: 3366w → 3496w net; offsetting trims across §Process-vs-Content, §Metacognitive Skill, §Unobservable Self, §Error-Blindness kept the article under the 3500 hard ceiling (soft_warning, was soft_warning).
+- **Honoured**: [[evidential-status-discipline]] (MWI downgrade), [[direct-refutation-discipline]] (no mode labels in body).
+- **Published**: yes
 
 ## 2026-06-17T12:00:00+00:00 - pessimistic-review
 - **Status**: Success
