@@ -5,6 +5,19 @@ ai_modified: 2026-06-17 21:48:51+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-17T23:00:08+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/indexical-knowledge-and-identity]] (8th review; re-qualified via convergence damping after a cosmetic [[egocentric-presentism]] cross-link bump — would have no-op'd EXCEPT §2.4 step-5 inline↔References cross-check surfaced orphan refs all 7 prior attribution passes missed)
+- **Word count**: 2365 → 2365 (net 0; 3 inline attributions added, offset by removed orphan Chalmers ref line; 95% of 2500 soft, ok)
+- **Critical issues addressed**: 4 orphan References entries (§2.4 step-5). Jackson 1982 — orphan-resolved-by-inline-cite (knowledge-argument discussion was faithful but never named Jackson; now "Frank Jackson's (1982) Mary..."). Elga 2000 — orphan-resolved-by-inline-cite (thirder now attributed to Elga). Lewis 2001 — orphan-resolved-by-inline-cite (halfer now attributed to Lewis's reply to Elga; distinct from the inline-cited Lewis 1979 Two Gods). Chalmers 2010 "Two-Dimensional Argument" — orphan-removed (true orphan; body discusses neither 2D argument/conceivability/zombies; grep-confirmed sole occurrence was the ref line). Inline↔References now clean both directions: 10 refs, all cited.
+- **Citation web-verify (§2.4)**: References block unchanged since 2026-05-26 full publisher-of-record verify → full re-verify skipped per stable-list rule; 2026-05-26 ledger authoritative. Confirmed List 2023 Noûs 57(2) 316-340 (real-correct), Friederich & Dawid 2022 BJPS 73(3) 711-721 (real-correct), Jackson/Elga/Lewis 2001 real-correct. No superlative claims (currency sweep N/A — pure conceptual philosophy).
+- **Medium issues addressed**: 0
+- **Enhancements made**: 3 (Sleeping Beauty section now names thirder/halfer originators; knowledge-argument paragraph names Jackson — modest scholarship strengthening, no new sections; length-neutral)
+- **Calibration (§2)**: PASS — no possibility/probability slippage; metaphysical-thesis arguments hedged as support not proof
+- **Reasoning-mode (§2.6)**: MWI engagement unchanged, Mixed (framework-mismatch Mode Two / Friederich-Dawid Mode One / haecceity Mode Three); no boundary-substitution; label-leakage grep CLEAN
+- **New cross-link verified**: [[egocentric-presentism]] Further Reading entry faithful to target; bidirectional (target reciprocates)
+- **Output**: [[reviews/deep-review-2026-06-17-indexical-knowledge-and-identity]]
+
 ## 2026-06-17T22:39:32+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/reductionism]] (post-coalesce CROSS-REVIEW of the merged body; coalesce last_deep_review stamp NOT trusted per [[coalesce-hides-review-debt-and-regresses-fixes]])
