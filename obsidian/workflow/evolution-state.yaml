@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T20:34:31.544688+00:00'
-session_count: 11666
-cycle_position: 9296
+last_updated: '2026-06-17T20:40:14.130953+00:00'
+session_count: 11667
+cycle_position: 9297
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-17T19:57:34.449468+00:00'
   optimistic-review: '2026-06-17T15:51:35.072381+00:00'
   check-tenets: '2026-06-17T18:43:12.529265+00:00'
   check-links: '2026-06-17T12:39:57.374011+00:00'
-  deep-review: '2026-06-17T19:18:42.393940+00:00'
+  deep-review: '2026-06-17T20:40:14.130953+00:00'
   tune-system: '2026-06-16T23:06:12.723747+00:00'
   research-voids: '2026-06-17T12:42:14.834314+00:00'
   coalesce: '2026-06-17T17:13:37.113972+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-17T04:07:04.664744+00:00'
   refine-draft: '2026-06-17T20:10:09.820635+00:00'
   research-topic: '2026-06-17T15:41:10.316846+00:00'
-  replenish-queue: '2026-06-17T20:34:31.544688+00:00'
+  replenish-queue: '2026-06-17T20:45:00.000000+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-17T16:28:19.568953+00:00'
   add-highlight: '2026-06-17T08:04:22.798348+00:00'
@@ -87,7 +87,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 399
-  reviews_completed: 5389
+  reviews_completed: 5390
   apex_articles: 35
 quality:
   critical_issues: 0
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-17'
-  outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-17'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1011,39 +1011,40 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 0
-  last_replenishment: '2026-06-17T20:31:00+00:00'
+  last_replenishment: '2026-06-17T20:45:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-17 run no.238 (standard mode) - HONEST NO-OP
-    (0 minted), confirming the run-237 reading on a fresh disk+git scan. Loop-pickable
-    open P0-P2 = 0 (the trigger) and P3 = 0: Active Tasks holds only the open HUMAN
-    LENGTH DECISION on synesthetic-void (+ its DEFERRED citation-refresh sibling),
-    2 hash-veto condense lines (phenomenal-output 6832w, meaning-of-life), 2 more
-    open HUMAN LENGTH DECISIONs (duhem-quine pair), and DEFERRED entries - all non-pickable
+  current_replenishment_note: '2026-06-17 run no.239 (standard mode) - HONEST NO-OP
+    (0 minted), reconfirming run-238 on a fresh disk+git scan after the 7e3c00fe0 deep-review
+    cycle. Loop-pickable open P0-P2 = 0 (the trigger) and P3 = 0: Active Tasks holds
+    only 3 open HUMAN LENGTH DECISIONs (synesthetic-void 3578w + its DEFERRED citation-refresh
+    sibling; the duhem-quine pair) plus 2 hash-veto condense lines (phenomenal-output
+    6832w confirmed on disk, meaning-of-life now 3998w soft - dropped below the 4000
+    hard ceiling, no longer even an offender) and DEFERRED/closed entries - all non-pickable
     by design; no pending P3 so p3-only-floor-preemption does not apply. All 8 sources
-    re-verified dry/blocked: S1 chains none (only content change in last 8 commits
+    re-verified dry/blocked: S1 chains none (only content change in last 12 commits
     was the marginal-organism-scope refine 1d81ade7e, a closed pessimistic follow-on
     with no successor; all other recent_tasks are automation); S2 unconsumed-research
     0 (freshest notes egocentric-presentism/manyism/naturalist-relationalism all have
-    live concept pages, chemosensory has a live topic, IWMT note covered in concepts/predictive-processing.md
-    - 5 IWMT mentions, refined 06-16 commit 4dd81b148); S3 gaps owned by harvest-research-subjects
-    (ran 19:59, 28min before this run); S4 staleness owned by deep-review slot (ran
-    19:18); S5 orphans 0; S6 length - every site-content offender is veto / human-deferred
-    (epistemology-of-convergence 6479w critical DIVERTED, born-rule 5106w, clinical-dissociation
-    4861w, laws-and-dispositions 4213w) / open HUMAN LENGTH DECISION (synesthetic-void
-    3578w, valence-and-conscious-selection 4092w) / accepted-as-survey (memory-channel
-    4296w) / recently-deep-reviewed-or-refined churn-protected (composition-question-rivals
-    4106w, predictive-processing 3606w, qm-interpretations 4125w & quantum-biology
-    4060w both ai_modified 06-16, argument-from-reason, epistemic-advantages, time-collapse,
-    machine-question 5001w =apex-hard-exactly, the ~4020w topic-edge cluster consciousness-in-simple-organisms
-    / phenomenal-authority / introspection-architecture all <50w over hard & reviewed
-    within ~2wk) / index hub (apex-articles 7238w) / over-cap-stable voids; research/
-    warnings are not site content - no clean mintable critical offender; S7 positions
-    audit not due (18 entries, last audit 06-10, ~7d into 30d window; no dependency
-    cascade - marginal-organism is cited by no position, coalesce no-op today); S8
-    applied-apex blocked (no approved slot, apex at 35). Caps on disk: topics 268/300,
-    concepts 263/300 (headroom but no unconsumed research to fill), voids 101/100
-    over, positions 3/80. Expected floor-alternation steady-state; harvest owns research
-    refill.'
+    live concept pages on disk, chemosensory has a live topic page, IWMT note covered
+    in concepts/predictive-processing.md); S3 gaps owned by harvest-research-subjects
+    (ran 19:59); S4 staleness owned by deep-review slot (ran 20:40); S5 orphans 0;
+    S6 length - every site-content offender is veto (phenomenal-output 6832w, apex-articles
+    7238w index hub) / human-deferred-or-DIVERTED (epistemology-of-convergence 6479w
+    critical DIVERTED, born-rule 5106w, clinical-dissociation 4861w, laws-and-dispositions
+    4213w) / open HUMAN LENGTH DECISION (synesthetic-void 3578w, valence 4092w) / accepted-as-survey
+    (memory-channel 4296w) / recently-deep-reviewed-or-refined churn-protected (composition-question-rivals
+    4106w & quantum-biology 4060w & predictive-processing 3606w & qm-interpretations
+    4125w all ai_modified 06-15/06-16; machine-question 5001w = apex-hard-exactly;
+    argument-from-reason, epistemic-advantages, time-collapse, the ~4020w topic-edge
+    cluster consciousness-in-simple-organisms / phenomenal-authority / introspection-architecture
+    all <130w over hard and reviewed within ~2wk) / over-cap-stable voids; research/
+    warnings are not site content - no clean mintable offender; S7 positions audit
+    not due (18 live entries, last full audit 06-09/06-10 ~7d into 30d window; today
+    P-A2 update + tenets cascade already handled by closed tasks; no new dependency
+    cascade - marginal-organism cited by no position); S8 applied-apex blocked (no
+    approved slot, apex at 34 on disk). Caps on disk: topics 268/300, concepts 263/300
+    (headroom but no unconsumed research to fill), voids 101/100 over, positions 3/80
+    files. Expected floor-alternation steady-state; harvest owns research refill.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
