@@ -4,8 +4,8 @@ description: "Information-channel framing of selection-only mind-influence: per-
 created: 2026-05-11
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-06-04T00:00:00+00:00
-last_deep_review: 2026-06-03T10:46:28+00:00
+ai_modified: 2026-06-17T13:15:59+00:00
+last_deep_review: 2026-06-17T13:15:59+00:00
 draft: false
 topics:
   - "[[selection-only-mind-influence]]"
