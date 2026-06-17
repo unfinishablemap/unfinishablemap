@@ -1,13 +1,9 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-17T05:34:35.249170+00:00'
-session_count: 11527
-cycle_position: 9245
+last_updated: '2026-06-17T05:43:00.416067+00:00'
+session_count: 11528
+cycle_position: 9246
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
-  pessimistic-review: '2026-06-17T00:23:07.301820+00:00'
+  pessimistic-review: '2026-06-17T05:41:00.682690+00:00'
   optimistic-review: '2026-06-17T01:26:31.095715+00:00'
   check-tenets: '2026-06-16T22:54:42.634454+00:00'
   check-links: '2026-06-16T20:29:18.556874+00:00'
@@ -87,7 +83,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 397
-  reviews_completed: 5376
+  reviews_completed: 5377
   apex_articles: 35
 quality:
   critical_issues: 0
@@ -96,10 +92,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-chatgpt-review
-  type: collect-chatgpt-review
-  date: '2026-06-17'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-17'
@@ -174,6 +166,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-17'
+  outcome: success
+- task: pessimistic-review
+  type: pessimistic-review
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -995,90 +991,47 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1
+  p2_tasks: 2
   p3_tasks: 0
   needs_replenishment: false
-  loop_pickable_open: 1
-  last_replenishment: '2026-06-17T05:35:00+00:00'
+  loop_pickable_open: 2
+  last_replenishment: '2026-06-17T05:45:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-17 run no.180 (standard mode) - HONEST NO-OP
-    for new-task minting
-
-    (0 minted), the NINETEENTH consecutive. AUTHORITATIVE verify from disk via
-
-    tools.evolution.task_selector against live todo.md (content arg):
-
-    count_p0_p2_tasks=1 (DOWN from 2 last run); select_queue_task and
-
-    get_next_task BOTH return the P2 refine-draft "Methodology - corpus-wide
-
-    citation-consistency propagation + broaden literature-drift selection"
-
-    (line 54). CORRECTION to run no.179''s note: it claimed line 54 was a P2
-
-    cross-review and count=2; the cross-review has since been consumed/closed,
-
-    so the live count is 1 and line 54 is the refine-draft methodology task.
-
-    The queue is at 1 loop-pickable P0-P2, BELOW the MIN_QUEUE floor of 3 - so
-
-    replenish fired - but every generative source remains exhausted/blocked, so
-
-    this is a genuine no-op. The lone pickable task is fresh 2026-06-17
-
-    outer-review yield (ChatGPT 5.5 Pro site-methodology findings) the loop
-
-    should execute next. Other open P-headers in Active are non-pickable: one
-
-    HUMAN LENGTH DECISION (synesthetic-void over voids hard ceiling 3578w) and
-
-    one DEFERRED P1 (synesthesia citation-refresh, coupled to that length
-
-    decision); selector correctly excludes both.
-
-    EIGHT SOURCES re-derived from disk.
-
-    CHAINS (S1) 0 - recent_tasks are replenish/deep-review/collect/refine/commission/check-model-fallback/social/skip/embed/combine
-    only; NO expand-topic or research-topic completion to chain from.
-
-    UNCONSUMED RESEARCH (S2) 0 - 3 newest non-voids notes (all 06-16) re-confirmed
-    consumed on disk: chemosensory to topics/chemosensory-consciousness-and-the-interface.md
-    (exists), naturalist-relationalism to concepts/naturalist-relationalism.md (exists),
-    IWMT folded into concepts/predictive-processing.md (Safron/IWMT grep hit).
-
-    GAPS (S3) 0 - voids 101/100 OVER cap; topics 268/300 and concepts 261/300 have
-    headroom but gap analysis documented-exhausted and harvest-research-subjects owns
-    research revival (ran 01:43); positions deliberately slow.
-
-    STALENESS (S4) 0 mintable - cycle deep-review slot owns this pool.
-
-    LENGTH (S6) 0 mintable - get_length_warnings(hard+) re-run live: 51 warnings;
-    CONTENT-only (excl research + section-index) = 27, with 3 critical (epistemology-of-convergence-arguments
-    6479w; apex/phenomenal-output-causal-machinery-dissociation 6832w; apex/apex-articles.md
-    7238w). All three are human-blocked/exempt: epistemology is the STANDING HUMAN
-    SPLIT decision (4 prior condenses failed); phenomenal-output carries a #veto condense
-    at todo line 626; apex-articles.md is the apex INDEX hub (exempt). Minting fresh
-    condense tasks would re-litigate human-blocked decisions (see human-decision-task-mispicked-as-refine
-    + unfin-loop-steady-state). NOT minted.
-
-    ORPHANS (S5) 0 - quality.orphaned_files 0.
-
-    POSITIONS (S7) add 0 / update 0 / audit NOT due - positions-evolve ran today 00:41;
-    register has 3 domain files; audit cadence 30-day, last audit recent.
-
-    APPLIED-APEX (S8) 0 - deliberately slow (max 1/run); an applied apex was created
-    2026-06-16.
-
-    No genuine stranded actionable P0-P2 below ## Completed: the lone literature-drift
-    task there is TaskType.OTHER (orphaned-by-construction, not loop-pickable); the
-    two "re-homed" P3 stubs (lines 9096/9205) point at already-completed live copies
-    (lines 5622/5634, both done 2026-05-27).
-
-    OUTER REVIEWS: the pipeline is live and produced the task now in the queue, so
-    no filler warranted - the loop should execute the pending refine-draft. State
-    YAML re-validated post-edit (parses OK).
-
-    '
+  current_replenishment_note: '2026-06-17 run no.181 (standard mode) - HONEST NO-OP
+    for new-task minting (0 minted), the TWENTIETH consecutive. AUTHORITATIVE verify
+    from disk via tools.evolution.task_selector against live todo.md (content arg):
+    count_p0_p2_tasks=2 (UP from 1 last run - a fresh pessimistic-review task was
+    added since); select_queue_task and get_next_task BOTH return the P2 refine-draft
+    "Fix blindsight interpretation + illusionism boundary in concepts/introspection.md"
+    (line 39), from pessimistic-2026-06-17-introspection (2 critical + 3 smaller findings,
+    consolidate into ONE editor pass). The queue is at 2 loop-pickable P0-P2, still
+    BELOW the MIN_QUEUE floor of 3 - so replenish fired - but every generative source
+    remains exhausted/blocked, so this is a genuine no-op. The two pickable tasks
+    are fresh outer/pessimistic-review yield the loop should execute next. EIGHT SOURCES
+    re-derived from disk. CHAINS (S1) 0 - last 20 recent_tasks are refine/deep-review/commission/collect/combine/check-model-fallback/social/skip/embed/pessimistic/replenish
+    only; NO expand-topic or research-topic completion to chain from. UNCONSUMED RESEARCH
+    (S2) 0 - 3 newest non-voids notes (all 06-16) re-confirmed consumed on disk: chemosensory
+    to topics/chemosensory-consciousness-and-the-interface.md (exists), naturalist-relationalism
+    to concepts/naturalist-relationalism.md (exists), IWMT folded into concepts/predictive-processing.md
+    (Safron/IWMT grep hit). Older 14-day candidates are bulk-touch mtime churn predating
+    the harvest-research-subjects revival owner. GAPS (S3) 0 - voids 101/100 OVER
+    cap; topics 268/300 and concepts 261/300 have headroom but gap analysis documented-exhausted
+    and harvest-research-subjects owns research revival (ran 01:43); positions deliberately
+    slow. STALENESS (S4) 0 mintable - cycle deep-review slot owns this pool. LENGTH
+    (S6) 0 mintable - get_length_warnings(hard+) re-run live: 51 warnings; CONTENT-only
+    (excl research + section-index + apex-articles hub) = 26, with 2 critical content
+    offenders (topics/epistemology-of-convergence-arguments 6479w; apex/phenomenal-output-causal-machinery-dissociation
+    6832w). Both human-blocked: epistemology is the STANDING HUMAN SPLIT decision
+    (4 prior condenses failed); phenomenal-output carries a #veto condense at todo
+    line 626. Minting fresh condense tasks would re-litigate human-blocked decisions
+    (see human-decision-task-mispicked-as-refine + unfin-loop-steady-state). NOT minted.
+    ORPHANS (S5) 0 - quality.orphaned_files 0. POSITIONS (S7) add 0 / update 0 / audit
+    NOT due - positions-evolve ran today 00:41; register has 3 domain entry files
+    (agency-and-will, quantum-interface, voids-as-evidence); audit cadence 30-day,
+    last audit recent. APPLIED-APEX (S8) 0 - deliberately slow (max 1/run); applied
+    apex research-programme-decisions-under-the-map was modified 2026-06-16. OUTER
+    REVIEWS: pipeline is live; the loop should execute the two pending review-yield
+    tasks. State YAML re-validated post-edit (parses OK).'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
