@@ -5,6 +5,12 @@ ai_modified: 2026-06-17 19:16:03+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-17T19:16:03+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/marginal-organism-scope-of-value-sensitive-selection.md (2042w; never previously the subject of a pessimistic or deep review — only appeared in optimistic reviews)
+- **Findings**: 0 critical, 2 medium, 1 low. Strong, well-calibrated article; all 4 external citations RE-VERIFIED real against publisher records (Boisseau/Vogel/Dussutour 2016 *Proc R Soc B* 283:20160446; Dupre & Yuste 2017 *Curr Biol* 27(8):1085-1097) and all 12 wikilinks resolve. Medium-1: unsourced "overwhelmingly reactive" overstatement re *C. elegans* (thermotaxis/salt-learning cuts the other way). Medium-2: epistemic/metaphysical equivocation in the "genuine void" framing per [[evidential-status-discipline]]. Low: *Physarum* deflation is a global solvent that should be acknowledged to reach up to the rat's behaviour-grounded rung. Queued one P3 refine-draft covering all three.
+- **Output**: [[reviews/pessimistic-2026-06-17-marginal-organism-scope]]
+
 ## 2026-06-17T19:16:03+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/coalesce-condense-apex-stability]]
