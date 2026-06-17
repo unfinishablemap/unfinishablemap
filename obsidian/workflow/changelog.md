@@ -5,6 +5,28 @@ ai_modified: 2026-06-17 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-17T04:53:22+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/synesthetic-void]]
+- **Task**: P1 from convergent outer reviews (2026-06-17, ChatGPT 5.5 Pro + Gemini 2.5 Pro) — develop the strongest non-dualist counter-readings in-body rather than treating them as tenet-protective boundary markers.
+- **Changes**:
+  - Added a dedicated "The Physicalist Counter-Readings" section (`#counter-readings`) developing four opponents at strength, each with the cost its absorption pays: fine-grained functionalist, representationalist sub-individuation, deflationary/heterophenomenological (Dennett), illusionist/metacognitive.
+  - Reframed the L52 "identical representations produce different experiences" wording to "identical surface stimuli / coarse-grained representational descriptions appear to produce different reported phenomenology" (representationalist sub-individuation defence).
+  - Condensed the now-redundant scattered heterophenomenology/representationalism hedges (former L56) into a brief forward-pointer to the new section.
+  - Rewrote the Dualism tenet paragraph to make the dualist reply *after* meeting the four counter-readings rather than re-listing them and pivoting to tenet preference ("the Map prefers X for broader tenet reasons" pattern the reviewers flagged).
+  - Placed synesthesia within the [[voids-between-minds]] strong-isolation / partial-bridging / constitutive taxonomy (partial-bridging case with an asymmetric twist).
+  - Inherited the [[synaesthesia]] topic's contested-neonatal calibration ("individual pieces of evidence are weak though collectively suggestive"); made the developmental-occlusion section explicitly conditional on it.
+  - Tightened E-space caveats, Popperian/filter hedging, and the access-asymmetry triple-hedge to offset added length.
+  - Honoured Gemini's OVERSTATEMENT caveat: the article already listed illusionist/metacognitive deflation (former L102), so the fix develops the listed opponents in-body rather than introducing engagement from nothing; Gemini's "completely ignores illusionism / blunt refusal to engage" framing was not adopted.
+- **Engagement classification (editor-internal, per [[direct-refutation-discipline]])**:
+  - fine-grained functionalist: Mode One/Two mixed — in-framework absorption is available (the apex grants it as "empirical wedge, not a knockdown"); the residual pressure is the unpaid joint-package parsimony debt across four grain-shifts.
+  - representationalist sub-individuation: Mode One/Two — absorption available via deeper-grain content; owes which level of representation fixes phenomenal character without sliding into unfalsifiability.
+  - deflationary/heterophenomenological (Dennett): Mode One — not refuted from outside; owes symmetry (deflates the whole phenomenal field, not synesthesia specifically); realist reading flagged as a substantive choice.
+  - illusionist/metacognitive: Mode Two then Mode Three — owes, by its own mechanistic standard, the bridge from cross-activation to the seeming-of-an-extra-colour; acknowledged-but-unsupplied residue is honest bedrock (tenet-incompatibility declared, not derived).
+  - No mode labels written into the article body; all engagements rendered in natural prose.
+- **Length**: 2795 → 3578 words. Over the voids hard threshold (3000) but under critical (4000). The developed counter-readings are the load-bearing P1 content and must not be auto-condensed away; ~300 words of redundant hedging were absorbed. Flagged a human length-decision task rather than auto-condensing the new opponent engagements (see [[refine-then-condense-same-session-churn]]).
+- **Published**: yes
+
 ## 2026-06-17T04:45:42+00:00 - combine-outer-reviews
 - **Status**: Success
 - **Cycle**: 2026-06-17
