@@ -4,7 +4,7 @@ description: "Human+AI exploration of synaesthesia—extra phenomenal content un
 created: 2026-05-08
 modified: 2026-05-08
 human_modified:
-ai_modified: 2026-06-17T06:30:00+00:00
+ai_modified: 2026-06-17T12:32:07.784690+00:00
 last_deep_review: 2026-06-17T06:30:00+00:00
 draft: false
 topics:
@@ -34,11 +34,22 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-08
 last_curated:
+embedded_videos:
+  - id: Vg0LCEfH4QY
+    url: https://www.youtube-nocookie.com/embed/Vg0LCEfH4QY
+    embedded: 2026-06-17T12:32:07.784690+00:00
+    source: notebooklm/0072-01-synaesthesia
 ---
 
 Synaesthesia is the involuntary triggering of one perceptual or conceptual experience by stimulation of another—letters seen in colour, sounds tasted, calendars laid out in space. It occurs in roughly 4% of the population in at least one form (Simner et al. 2006), runs in families, and produces associations that are highly consistent within an individual over years and idiosyncratic across individuals: one synaesthete's "A" may be red, another's green, another's nothing at all. The phenomenon was identified by Sir Francis Galton's 1880 imagery survey, dismissed for most of the twentieth century as imagination or metaphor, and re-established as a real perceptual phenomenon from the 1980s onward through behavioural-consistency, neuroimaging, and genetic-linkage work.
 
 Synaesthesia matters to philosophy of mind because it is empirically anchored single-species evidence that two minds—same biological architecture, same surface representational input—can have demonstrably divergent phenomenology. That makes it the companion case to [[aphantasia]] in the within-species phenomenal-divergence cluster: where aphantasia shows missing phenomenal content under matched task-level performance, synaesthesia shows *extra* phenomenal content under matched representational input. Both run wedges into the standard functionalist claim that phenomenal character is fixed by functional or representational role.
+
+<details class="yt-embed" data-video-id="Vg0LCEfH4QY">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/Vg0LCEfH4QY">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## What Synaesthetes Report
 
