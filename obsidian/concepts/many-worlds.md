@@ -4,7 +4,7 @@ description: "Why the Map rejects MWI: it raises unanswerable questions about in
 created: 2026-01-19
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-06-14T00:00:00+00:00
+ai_modified: 2026-06-17T15:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -208,6 +208,7 @@ Alternative interpretations—particularly [[collapse-and-time|time-symmetric]] 
 - [[quantum-probability-consciousness]] — How probability connects to consciousness across interpretations
 - [[indexical-knowledge-and-identity]] — Why self-locating knowledge creates problems for branching interpretations
 - [[indexical-identity-quantum-measurement]] — Why indexical identity matters for quantum measurement
+- [[egocentric-presentism]] — Hare's one-world rival to List's many-worlds theory of consciousness: privilege the self, not the worlds
 - [[decoherence]] — What decoherence does and doesn't explain
 - [[personal-identity]] — Why identity questions matter for MWI critique
 - [[introspection]] — The reliability of first-person evidence about anticipation

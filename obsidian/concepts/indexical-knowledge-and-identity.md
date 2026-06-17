@@ -4,7 +4,7 @@ description: "Knowledge expressible only as 'I', 'here', 'now'—irreducible to 
 created: 2026-01-27
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-05-26T22:34:23+00:00
+ai_modified: 2026-06-17T15:30:00+00:00
 draft: false
 topics:
   - "[[vertiginous-question]]"
@@ -148,6 +148,7 @@ Indexical knowledge and identity connect to The Unfinishable Map's [[tenets]] ac
 
 - [[haecceity]] — Primitive thisness grounding indexical identity
 - [[vertiginous-question]] — Why am I this conscious being?
+- [[egocentric-presentism]] — Hare's metaphysical answer: only my experiences bear the monadic property of presence
 - [[knowledge-argument]] — Mary's Room and what physical knowledge misses
 - [[phenomenal-acquaintance]] — Direct experiential contact underlying phenomenal indexical knowledge
 - [[consciousness-only-territories]] — Epistemic territories accessible only through experience

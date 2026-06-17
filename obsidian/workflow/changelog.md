@@ -5,6 +5,18 @@ ai_modified: 2026-06-17 15:05:06+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-17T15:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Egocentric presentism (Caspar Hare)
+- **Output**: [[concepts/egocentric-presentism]]
+- **Word count**: 2018 (concepts soft 2500 / hard 3500 — ok)
+- **Based on research**: yes, [[research/egocentric-presentism-2026-06-17]] (all cites reused verbatim from the web-verified research note; no new citations introduced)
+- **Cites**: Hare 2007 J.Phil. 104(7):350-373 (DOI 10.5840/jphil2007104717); Hare 2009 Princeton UP (ISBN 9780691135311); Conitzer 2020 Dialectica 74(1); List 2023 Noûs 57(2):316-340 (DOI 10.1111/nous.12408); List 2024/25 Phil.Quarterly 75(3):1026-1048 (DOI 10.1093/pq/pqae053); Merlo 2016 Dialectica 70(3); Markosian 2015 review; 1 self-cite (vertiginous-question)
+- **Tenet hooks**: Tenet 4 (No Many Worlds — one-world horn keeping first-person realism vs List's many-worlds-of-consciousness, the rejected foil); Tenet 1 (presence as non-physical/immeasurable); Tenet 5 (primitive-property parsimony). Required "Relation to Site Perspective" present. Evidential-status framed as exploratory ontological RIVAL, not positive evidence for dualism.
+- **Disambiguation**: Hare's "perspectival realism" explicitly separated from the Giere/Massimi philosophy-of-science doctrine of the same name.
+- **Cross-links**: 5 inbound links added (vertiginous-question [+inline], indexical-identity-quantum-measurement, consciousness-and-the-metaphysics-of-individuation, indexical-knowledge-and-identity, concepts/many-worlds) — bidirectional integration verified
+- **Apex sources**: not a source for any apex article (no follow-on task)
+
 ## 2026-06-17T15:05:06+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/quantum-holism-and-phenomenal-unity]]

@@ -4,7 +4,7 @@ description: "Why does consciousness come in discrete subjects? The individuatio
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-06-08T00:00:00+00:00
+ai_modified: 2026-06-17T15:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -149,6 +149,7 @@ The individuation question connects to all five of the Map's [[tenets]], but mos
 - [[self-and-self-consciousness]] — The minimal self and phenomenology of subjecthood
 - [[buddhism-and-dualism]] — Buddhist perspectives on self-boundaries and *anattā*
 - [[vertiginous-question]] — The void-form of the individuation question: why am I *this* consciousness?
+- [[egocentric-presentism]] — Hare's view that only one subject's experiences are *present*: a metaphysic of privileged subjecthood
 - [[indexical-identity-quantum-measurement]] — The indexical gap at quantum measurement: why *this* consciousness experiences *this* outcome
 - [[consciousness-and-the-ownership-problem]] — What makes experience belong to a subject
 - [[epistemological-limits-occams-razor]] — Why parsimony bias may systematically favour simpler individuation accounts
