@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-17T12:39:57.374011+00:00'
-session_count: 11578
+last_updated: '2026-06-17T12:42:14.834314+00:00'
+session_count: 11579
 cycle_position: 9264
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,11 +9,11 @@ last_runs:
   check-links: '2026-06-17T12:39:57.374011+00:00'
   deep-review: '2026-06-17T11:32:47.977407+00:00'
   tune-system: '2026-06-16T23:06:12.723747+00:00'
-  research-voids: '2026-06-16T20:30:25.281239+00:00'
+  research-voids: '2026-06-17T12:42:14.834314+00:00'
   coalesce: '2026-06-17T10:57:40.317757+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-16T23:01:17.314770+00:00'
-  agentic-social: '2026-06-17T11:55:39.255196+00:00'
+  agentic-social: '2026-06-17T12:47:22.738580+00:00'
   embed-videos: '2026-06-17T12:32:49.002667+00:00'
   commission-chatgpt-review: '2026-06-17T02:05:46.036515+00:00'
   commission-claude-review: '2026-06-17T03:06:25.605256+00:00'
@@ -96,10 +92,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-17'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-17'
@@ -176,12 +168,12 @@ recent_tasks:
   type: check-links
   date: '2026-06-17'
   outcome: success
+- task: research-voids
+  type: research-voids
+  date: '2026-06-17'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/visual-consciousness/
-    date: '2026-06-10T12:17:48.978324+00:00'
-    topics:
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/concepts/brutal-composition/
     date: '2026-06-10T13:17:52.163404+00:00'
     topics:
@@ -993,6 +985,12 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - free-will
+  - url: https://unfinishablemap.org/concepts/direction-of-fit/
+    date: '2026-06-17T12:47:22.738504+00:00'
+    topics:
+    - aesthetics-and-consciousness
+    - empirical-phenomena-mental-causation
+    - temporal-consciousness-structure-and-agency
 tune_system_history:
   last_run: '2026-06-16T22:50:00+00:00'
   changes_applied: []
