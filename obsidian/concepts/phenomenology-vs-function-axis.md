@@ -4,8 +4,8 @@ description: "A cross-cutting taxonomic axis identifying voids where phenomenal 
 created: 2026-04-28
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-06-17T00:00:00+00:00
-last_deep_review: 2026-06-01T06:30:00+00:00
+ai_modified: 2026-06-17T05:14:14+00:00
+last_deep_review: 2026-06-17T05:14:14+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

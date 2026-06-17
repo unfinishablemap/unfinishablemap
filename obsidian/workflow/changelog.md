@@ -5,6 +5,20 @@ ai_modified: 2026-06-17 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-17T05:14:14+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenology-vs-function-axis]]
+- **Word count**: 3049 → 3049 (no body change)
+- **Critical issues addressed**: 0 (none found in this article)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 to body; frontmatter `ai_modified` + `last_deep_review` → 2026-06-17T05:14:14+00:00
+- **Mode**: 7th-pass convergence. Re-qualified because an unreviewed refine-draft commit (98539664c) made a SUBSTANTIVE Wager citation change since 2026-06-01.
+- **Citation web-verify (§2.4)**: **Wager 1999** — web-verified at PhilPapers + Taylor & Francis: real-correct as currently written (Adam Wager, *Philosophical Psychology* 12(3):263–281). The refine commit FIXED a genuine prior defect; the 2026-04-28 and 2026-06-01 deep reviews had falsely ratified the wrong form ("Alan Wager / *Philosophia* / 1999, 2001 / *Southwest Philosophy Review*") — intra-corpus consistency ratifying a wrong cite ([[ai_citation_metadata_unreliable]]). The spurious "Wager 2001" was actually Richard Gray's reply, not a second Wager paper. **Gray 2003** — real-correct (TiCS 7(5):192–194). No fabrications; inline↔References consistent post-renumbering; no superlative claims.
+- **Cross-corpus item RESOLVED**: settled the Gray-2003 first-dissociation wording the 2026-06-01 review deferred (source was paywalled). Via IEP + secondary sources: Gray's coloured-hearing argument = colour qualia from **visual AND auditory** roles. THIS article (and synesthetic-void) are CORRECT; the inaccurate "grapheme-recognition" framing is in `topics/synaesthesia.md` + `apex/phenomenal-variation-within-a-species.md`. Queued a P2 cross-file refine-draft to fix those two.
+- **Engagement classification**: functionalist engagement in §"What the Axis Is Not" — Mode Three + in-framework constraint (Mixed); honest boundary-marking, no boundary-substitution, no label leakage. Faithful, unchanged.
+- **Length**: 3049 words, soft_warning (122% of 2500 soft, under 3500 hard). Length-neutral; no condensation.
+- **Output**: [[reviews/deep-review-2026-06-17-phenomenology-vs-function-axis]]
+
 ## 2026-06-17T04:53:22+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/synesthetic-void]]

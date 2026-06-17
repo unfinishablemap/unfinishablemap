@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T05:04:18.567542+00:00'
-session_count: 11521
+last_updated: '2026-06-17T05:09:28.399687+00:00'
+session_count: 11522
 cycle_position: 9242
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-17T04:07:04.664744+00:00'
   refine-draft: '2026-06-17T04:59:52.431490+00:00'
   research-topic: '2026-06-16T14:05:29.074973+00:00'
-  replenish-queue: '2026-06-17T03:37:01.005078+00:00'
+  replenish-queue: '2026-06-17T05:09:28.399687+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-16T08:06:09.164774+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-17'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-17'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1008,38 +1008,35 @@ queue_status:
     (subject synesthetic-void) and Gemini synthesis, minting genuine tasks. AUTHORITATIVE
     verify from disk via tools.evolution.task_selector against live todo.md (content
     arg): count_p0_p2_tasks=2, select_queue_task and get_next_task BOTH return the
-    P2 cross-review (line 55). The queue is at 2 loop-pickable P0-P2, BELOW the
-    MIN_QUEUE floor of 3 - so replenish fired - but every generative source remains
-    exhausted/blocked, so this is still a no-op. The two pickable tasks are both
-    fresh outer-review yield: (1) P2 cross-review - harmonise developmental-pruning
-    language across synesthetic-void / infant-consciousness / biological-cognitive-closure;
-    (2) P2 refine-draft - methodology citation-consistency-propagation + broaden
-    literature-drift selection. Other open P-headers in Active are non-pickable:
-    one HUMAN LENGTH DECISION (synesthetic-void over voids hard ceiling 3578w) and
-    one DEFERRED P1 (synesthesia citation-refresh, coupled to that length decision),
-    two duhem-quine HUMAN LENGTH DECISION tasks; selector correctly excludes all.
-    EIGHT SOURCES re-derived from disk. CHAINS (S1) 0 - recent_tasks are
-    refine/social/replenish/skip/deep-review/collect/commission/combine only; NO
-    expand-topic or research-topic completion to chain from. UNCONSUMED RESEARCH (S2)
-    0 - 3 newest non-voids notes (all 06-16) re-confirmed consumed on disk: chemosensory
-    to topics/chemosensory-consciousness-and-the-interface.md (exists),
-    naturalist-relationalism to concepts/naturalist-relationalism.md (exists), IWMT
-    folded into concepts/predictive-processing.md (Safron/IWMT grep=5 hits). GAPS
-    (S3) 0 - voids 101/100 OVER cap; topics 268/300 + concepts 261/300 have headroom
-    but gap analysis documented-exhausted and harvest-research-subjects owns research
-    revival (ran 01:43); positions deliberately slow. STALENESS (S4) 0 mintable -
-    cycle deep-review slot owns this pool. LENGTH (S6) 0 mintable -
-    get_length_warnings(hard+) re-run live: 51 warnings; CONTENT-only (excl research
-    + section-index) = 27, with 3 content-critical (epistemology-of-convergence-arguments
-    6479w, phenomenal-output-causal-machinery-dissociation 6832w, apex-articles.md
-    7238w = the apex INDEX hub, exempt). All content critical + hard_warning offenders
-    sit under standing HUMAN LENGTH DECISION entries in Blocked or are #veto / index
-    pages; minting fresh condense tasks would re-litigate human-blocked decisions
-    (see human-decision-task-mispicked-as-refine + unfin-loop-steady-state). NOT
-    minted. ORPHANS (S5) 0 - quality.orphaned_files 0. POSITIONS (S7) add 0 / update
-    0 / audit NOT due - register has 3 file-entries below the audit-cadence floor;
-    last audit 2026-06-09 inside 30d window. APPLIED-APEX (S8) 0 - deliberately slow
-    (max 1/run); an applied apex was created 2026-06-16. No stranded actionable
+    P2 cross-review (line 55). The queue is at 2 loop-pickable P0-P2, BELOW the MIN_QUEUE
+    floor of 3 - so replenish fired - but every generative source remains exhausted/blocked,
+    so this is still a no-op. The two pickable tasks are both fresh outer-review yield:
+    (1) P2 cross-review - harmonise developmental-pruning language across synesthetic-void
+    / infant-consciousness / biological-cognitive-closure; (2) P2 refine-draft - methodology
+    citation-consistency-propagation + broaden literature-drift selection. Other open
+    P-headers in Active are non-pickable: one HUMAN LENGTH DECISION (synesthetic-void
+    over voids hard ceiling 3578w) and one DEFERRED P1 (synesthesia citation-refresh,
+    coupled to that length decision), two duhem-quine HUMAN LENGTH DECISION tasks;
+    selector correctly excludes all. EIGHT SOURCES re-derived from disk. CHAINS (S1)
+    0 - recent_tasks are refine/social/replenish/skip/deep-review/collect/commission/combine
+    only; NO expand-topic or research-topic completion to chain from. UNCONSUMED RESEARCH
+    (S2) 0 - 3 newest non-voids notes (all 06-16) re-confirmed consumed on disk: chemosensory
+    to topics/chemosensory-consciousness-and-the-interface.md (exists), naturalist-relationalism
+    to concepts/naturalist-relationalism.md (exists), IWMT folded into concepts/predictive-processing.md
+    (Safron/IWMT grep=5 hits). GAPS (S3) 0 - voids 101/100 OVER cap; topics 268/300
+    + concepts 261/300 have headroom but gap analysis documented-exhausted and harvest-research-subjects
+    owns research revival (ran 01:43); positions deliberately slow. STALENESS (S4)
+    0 mintable - cycle deep-review slot owns this pool. LENGTH (S6) 0 mintable - get_length_warnings(hard+)
+    re-run live: 51 warnings; CONTENT-only (excl research + section-index) = 27, with
+    3 content-critical (epistemology-of-convergence-arguments 6479w, phenomenal-output-causal-machinery-dissociation
+    6832w, apex-articles.md 7238w = the apex INDEX hub, exempt). All content critical
+    + hard_warning offenders sit under standing HUMAN LENGTH DECISION entries in Blocked
+    or are #veto / index pages; minting fresh condense tasks would re-litigate human-blocked
+    decisions (see human-decision-task-mispicked-as-refine + unfin-loop-steady-state).
+    NOT minted. ORPHANS (S5) 0 - quality.orphaned_files 0. POSITIONS (S7) add 0 /
+    update 0 / audit NOT due - register has 3 file-entries below the audit-cadence
+    floor; last audit 2026-06-09 inside 30d window. APPLIED-APEX (S8) 0 - deliberately
+    slow (max 1/run); an applied apex was created 2026-06-16. No stranded actionable
     P0-P2 below ## Completed. OUTER REVIEWS: the pipeline is live and producing the
     very tasks now in the queue, so no filler warranted - the loop should execute
     the two pending outer-review tasks. State YAML re-validated post-edit (parses
