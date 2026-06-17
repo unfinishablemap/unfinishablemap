@@ -1,5 +1,9 @@
-last_updated: '2026-06-17T17:57:42.640844+00:00'
-session_count: 11633
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-17T17:59:39.736064+00:00'
+session_count: 11634
 cycle_position: 9284
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -20,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-17T04:07:04.664744+00:00'
   refine-draft: '2026-06-17T14:45:16.959795+00:00'
   research-topic: '2026-06-17T15:41:10.316846+00:00'
-  replenish-queue: '2026-06-17T17:57:42.640844+00:00'
+  replenish-queue: '2026-06-17T17:59:39.736064+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-17T16:28:19.568953+00:00'
   add-highlight: '2026-06-17T08:04:22.798348+00:00'
@@ -92,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-17'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-06-17'
@@ -170,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-17'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -995,7 +999,13 @@ agentic_social:
 tune_system_history:
   last_run: '2026-06-16T22:50:00+00:00'
   changes_applied: []
-  note: '0 Tier-1 changes - cycle-384 re-fire ~1 day after the 06-15 run, far inside the 30-day cadence and below all evidence thresholds; system healthy (0 critical, 0 failed of recent 20). NEW Tier-3: deep-review convergence-damping should key on a body+References content-hash, not ai_modified (~5x cosmetic cross-link re-quals this session). RECONFIRMED Tier-2: gate tune-system on its 30-day cadence (this very run exemplifies the over-frequency). Carry-over open: replenish note-write fragility, agentic-social index-leak/topic-saturation. Report reviews/system-tune-2026-06-16'
+  note: '0 Tier-1 changes - cycle-384 re-fire ~1 day after the 06-15 run, far inside
+    the 30-day cadence and below all evidence thresholds; system healthy (0 critical,
+    0 failed of recent 20). NEW Tier-3: deep-review convergence-damping should key
+    on a body+References content-hash, not ai_modified (~5x cosmetic cross-link re-quals
+    this session). RECONFIRMED Tier-2: gate tune-system on its 30-day cadence (this
+    very run exemplifies the over-frequency). Carry-over open: replenish note-write
+    fragility, agentic-social index-leak/topic-saturation. Report reviews/system-tune-2026-06-16'
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
@@ -1005,7 +1015,34 @@ queue_status:
   loop_pickable_open: 0
   last_replenishment: '2026-06-17T17:57:42.640844+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-17 run no.226 (standard mode) - MINTED 0 (NO-OP). Independently re-verified on disk, not trusting run no.225s note. Active Tasks scan (lines 38-1063, Completed at 1064): the only two bare ### P-headers are both veto-tagged condense flagships (meaning-of-life, phenomenal-output-causal-machinery-dissociation); every other header is a checkmark / HUMAN-LENGTH-DECISION / DEFERRED-TO-HUMAN / DIVERTED-TO-HUMAN / RELOCATED / RESOLVED marker. 0 genuinely-pickable tasks, below MIN_QUEUE floor of 3 but zero safe candidates without duplicating live content. Sources (all re-verified this run): S1 chain - no task_chains structure in state. S2 unconsumed-research - 4 of 5 newest notes consumed (egocentric-presentism + manyism + naturalist-relationalism concepts live; chemosensory topic live); IWMT-2026-06-16 self-declines a standalone in its own assess-first section (already covered at depth in concepts/predictive-processing.md section Strongest Gap-Dissolving Variant, Safron 2020 cited, full gap-reply) - DECLINE, do NOT mint. S3 gap owned by harvest-research-subjects (ran 13:57, 6h interval). S4 staleness owned by deep-review slot (ran 17:44). S5 orphans quality.orphaned_files 0. S6 length - both CRITICAL live offenders already dispositioned (apex/phenomenal-output-causal-machinery-dissociation veto in Active; topics/epistemology-of-convergence-arguments DIVERTED-TO-HUMAN). hard_warning offenders are dominated by churn-prone calibration flagships in the Vetoed bank (born-rule, type-specificity, introspection-architecture, concession-convergence, taxonomy-of-voids) or human-deferred (clinical-dissociation DIVERTED-TO-HUMAN, synesthetic-void HUMAN-LENGTH-DECISION, born-rule human-decision) - no safe new condense mint per condense-regresses-calibration-qualifiers + human-decision-task-mispicked-as-refine. Section caps (counted on disk): topics 268/300, concepts 263/300 (headroom but no research to feed expand-topic), voids 101/100 AT CAP, positions 3/80. S7 positions audit not due (3 entries, below 10-entry threshold; last positions-evolve 06-17). S8 applied-apex clusters too small (3 positions total), assess-first gated. Expected floor-alternation steady state (unfin-loop-steady-state), NOT a fixable stall. No todo.md mutation.'
+  current_replenishment_note: '2026-06-17 run no.226 (standard mode) - MINTED 0 (NO-OP).
+    Independently re-verified on disk, not trusting run no.225s note. Active Tasks
+    scan (lines 38-1063, Completed at 1064): the only two bare ### P-headers are both
+    veto-tagged condense flagships (meaning-of-life, phenomenal-output-causal-machinery-dissociation);
+    every other header is a checkmark / HUMAN-LENGTH-DECISION / DEFERRED-TO-HUMAN
+    / DIVERTED-TO-HUMAN / RELOCATED / RESOLVED marker. 0 genuinely-pickable tasks,
+    below MIN_QUEUE floor of 3 but zero safe candidates without duplicating live content.
+    Sources (all re-verified this run): S1 chain - no task_chains structure in state.
+    S2 unconsumed-research - 4 of 5 newest notes consumed (egocentric-presentism +
+    manyism + naturalist-relationalism concepts live; chemosensory topic live); IWMT-2026-06-16
+    self-declines a standalone in its own assess-first section (already covered at
+    depth in concepts/predictive-processing.md section Strongest Gap-Dissolving Variant,
+    Safron 2020 cited, full gap-reply) - DECLINE, do NOT mint. S3 gap owned by harvest-research-subjects
+    (ran 13:57, 6h interval). S4 staleness owned by deep-review slot (ran 17:44).
+    S5 orphans quality.orphaned_files 0. S6 length - both CRITICAL live offenders
+    already dispositioned (apex/phenomenal-output-causal-machinery-dissociation veto
+    in Active; topics/epistemology-of-convergence-arguments DIVERTED-TO-HUMAN). hard_warning
+    offenders are dominated by churn-prone calibration flagships in the Vetoed bank
+    (born-rule, type-specificity, introspection-architecture, concession-convergence,
+    taxonomy-of-voids) or human-deferred (clinical-dissociation DIVERTED-TO-HUMAN,
+    synesthetic-void HUMAN-LENGTH-DECISION, born-rule human-decision) - no safe new
+    condense mint per condense-regresses-calibration-qualifiers + human-decision-task-mispicked-as-refine.
+    Section caps (counted on disk): topics 268/300, concepts 263/300 (headroom but
+    no research to feed expand-topic), voids 101/100 AT CAP, positions 3/80. S7 positions
+    audit not due (3 entries, below 10-entry threshold; last positions-evolve 06-17).
+    S8 applied-apex clusters too small (3 positions total), assess-first gated. Expected
+    floor-alternation steady state (unfin-loop-steady-state), NOT a fixable stall.
+    No todo.md mutation.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
