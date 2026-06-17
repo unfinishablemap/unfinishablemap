@@ -1,15 +1,11 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-17T18:34:01.784269+00:00'
-session_count: 11642
+last_updated: '2026-06-17T18:43:12.529265+00:00'
+session_count: 11643
 cycle_position: 9288
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-17T14:29:42.620202+00:00'
   optimistic-review: '2026-06-17T15:51:35.072381+00:00'
-  check-tenets: '2026-06-16T22:54:42.634454+00:00'
+  check-tenets: '2026-06-17T18:43:12.529265+00:00'
   check-links: '2026-06-17T12:39:57.374011+00:00'
   deep-review: '2026-06-17T17:44:34.973675+00:00'
   tune-system: '2026-06-16T23:06:12.723747+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-06-17T17:13:37.113972+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-16T23:01:17.314770+00:00'
-  agentic-social: '2026-06-17T17:51:42.353496+00:00'
+  agentic-social: '2026-06-17T18:45:15.556159+00:00'
   embed-videos: '2026-06-17T18:34:01.784269+00:00'
   commission-chatgpt-review: '2026-06-17T02:05:46.036515+00:00'
   commission-claude-review: '2026-06-17T03:06:25.605256+00:00'
@@ -96,10 +92,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-17'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-17'
@@ -176,14 +168,12 @@ recent_tasks:
   type: embed-videos
   date: '2026-06-17'
   outcome: success
+- task: check-tenets
+  type: check-tenets
+  date: '2026-06-17'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/problem-of-other-minds/
-    date: '2026-06-10T18:17:14.143525+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - ai-consciousness
-    - animal-consciousness
   - url: https://unfinishablemap.org/topics/wheelers-participatory-universe-and-it-from-bit/
     date: '2026-06-10T19:17:16.916403+00:00'
     topics:
@@ -996,6 +986,11 @@ agentic_social:
     topics:
     - panpsychisms-combination-problem
     - consciousness-and-the-metaphysics-of-composition
+  - url: https://unfinishablemap.org/topics/argument-from-reason/
+    date: '2026-06-17T18:45:15.556044+00:00'
+    topics:
+    - dualism
+    - materialism
 tune_system_history:
   last_run: '2026-06-16T22:50:00+00:00'
   changes_applied: []
