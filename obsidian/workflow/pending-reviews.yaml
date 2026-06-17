@@ -60,9 +60,9 @@
   commissioned_at: '2026-06-17T02:05:01.466144+00:00'
   prompt_summary: Audit synesthetic-void (voids/synesthetic-void.md)
   target_filename: outer-review-2026-06-17-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-17T03:45:41.780162+00:00'
   failure_reason: null
   prompt_text: 'Please conduct a rigorous outer review of one article on The Unfinishable
     Map (https://unfinishablemap.org), a dualist philosophy-of-mind project: "The

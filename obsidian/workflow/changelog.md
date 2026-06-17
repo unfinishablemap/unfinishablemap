@@ -5,6 +5,16 @@ ai_modified: 2026-06-17 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-17T03:47:28+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [[reviews/outer-review-2026-06-17-chatgpt-5-5-pro]]
+- **Subject**: voids/synesthetic-void.md (recent-aged fallback)
+- **Verdict**: Major revisions — synesthesia supports a phenomenal-variation wedge + intersubjective-opacity problem, but the article overdraws "inaccessible E-space dimensions" / dualist-interface reading.
+- **Claims verified**: 3 (cross-article Wager citation drift CONFIRMED via PhilPapers/T&F — Adam not Alan, *Philosophical Psychology* 12(3):263–281 not *Philosophia*; suspect "Wager 2001 SWPR" entry — the real 2001 item is Gray's reply, not Wager; all flagged target-article quotes present verbatim, no fabrication)
+- **High-value findings**: 6 (corpus citation drift; overstatement calibration cluster; non-dualist-reading import; citation currency drift; cross-site developmental-pruning calibration; methodology propagation/literature-drift breadth)
+- **Tasks generated**: 6 (P1: 1 [Wager citation fix, 2 files]; P2: 5 [overstatement calibration, non-dualist-reading import w/ direct-refutation remit, citation currency refresh, developmental-pruning harmonisation cross-review, methodology proposal])
+
 ## 2026-06-17T03:31:15+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/affective-tone-divergence-across-meditative-traditions]]
