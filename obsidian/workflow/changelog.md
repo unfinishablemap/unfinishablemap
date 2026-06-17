@@ -5,6 +5,18 @@ ai_modified: 2026-06-17 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-17T04:41:34+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research, hostile-referee)
+- **File**: [[reviews/outer-review-2026-06-17-gemini-2-5-pro]]
+- **Subject**: [[voids/synesthetic-void]] (same subject as the same-cycle ChatGPT 5.5 Pro review — reuse-subject, real cross-reviewer convergence)
+- **Claims verified**: 6 (4 citations web-checked + 4 target-article mischaracterizations grep-checked against the live file)
+- **High-value findings**: 1 (Strauch/Leenaars/Rouw 2025 pupillometry preprint — a genuine currency addition; folded into the existing P2 currency task at preprint evidential tier)
+- **Tasks generated**: 0 new (1 addendum note appended to the existing P2 currency-refresh task). Per [[outer-review-same-file-task-pileup]] the four genuine convergent findings (E-space overstatement, pharmacology distinction, underweighted illusionist/functionalist counterarguments, citation currency) are ALL already covered by tasks generated from the same-cycle ChatGPT review; no duplicates created.
+- **Verdict calibration**: Gemini returned "fundamentally unsalvageable / unequivocally rejected" vs the same-cycle ChatGPT "major revisions, not rejection." The extreme verdict rests on mischaracterizations — it attacks hedges the article explicitly contains (L102 lists five physicalist accounts incl. illusionist deflation and states "the Map's claim is not that physicalism has no account"; L56 flags the heterophenomenology/realist choice; L72 already distinguishes drug-induced from congenital synesthesia; L84 volunteers the tenet-consilience self-limitation Gemini "exposes").
+- **Citation audit** ([[ai_citation_metadata_unreliable]], [[outer-review-fabricates-target-quotes]]): Strauch pupillometry — REAL 2025 preprint (bioRxiv 10.1101/2025.11.24.690102), overstated as "falsification" (actually consistent with the article's architectural reading). Luke & Terhune — REAL but **2013** not "2020-2025", says what the article already says. Williams QSL/Price-Equation + "Birth Echo Hypothesis" DMT — REAL but non-peer-reviewed preprints, out of scope. **"C × G × D Framework, Frontiers 2026" — FABRICATED** (not found; do not cite).
+- **Published**: no (uncommitted; orchestrator commits)
+
 ## 2026-06-17T03:58:18+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[voids/synesthetic-void]]

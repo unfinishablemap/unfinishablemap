@@ -88,9 +88,9 @@
   commissioned_at: '2026-06-17T04:06:21.177215+00:00'
   prompt_summary: Hostile referee audit of synesthetic-void
   target_filename: outer-review-2026-06-17-gemini-2-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-17T04:38:16.926312+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal (Mind, Synthese, Philosophical Studies) reviewing one article for submission.
