@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T01:41:54.027811+00:00'
-session_count: 11483
+last_updated: '2026-06-17T01:43:59.127102+00:00'
+session_count: 11484
 cycle_position: 9228
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-16T04:14:32.657292+00:00'
   refine-draft: '2026-06-17T00:30:28.513636+00:00'
   research-topic: '2026-06-16T14:05:29.074973+00:00'
-  replenish-queue: '2026-06-17T01:41:54.027811+00:00'
+  replenish-queue: '2026-06-17T01:50:00.000000+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-16T08:06:09.164774+00:00'
@@ -35,7 +35,7 @@ last_runs:
   collect-gemini-review: '2026-06-16T04:45:16.113541+00:00'
   positions-evolve: '2026-06-17T00:41:47.595053+00:00'
   check-model-fallback: '2026-06-16T23:59:39.357058+00:00'
-  harvest-research-subjects: '2026-06-16T19:38:32.994680+00:00'
+  harvest-research-subjects: '2026-06-17T01:43:59.127102+00:00'
   skip-queue-slot: '2026-06-17T01:13:21.481019+00:00'
 last_git_push: '2026-06-17T00:16:01.312894+00:00'
 last_tweet_date: '2026-06-16'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-17'
-  outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-17'
+  outcome: success
+- task: harvest-research-subjects
+  type: harvest-research-subjects
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -994,47 +994,45 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 0
-  last_replenishment: '2026-06-17T01:40:00+00:00'
+  last_replenishment: '2026-06-17T01:50:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-17 run no.167 (standard mode) - HONEST NO-OP
-    for new-task minting (0 minted), the SIXTH consecutive. AUTHORITATIVE verify from
-    disk via tools.evolution.task_selector: count_p0_p2_tasks=0 AND select_queue_task=None.
-    CHANGE since no.166 (01:30): the lone P3 it flagged (optimistic-review backlink
-    task, todo line 39) has since been EXECUTED out-of-band and closed as ALREADY-SATISFIED
-    no-op (all four worked-example concept pages already linked back to the architecture-vs-significance
-    discipline; the optimistic premise was a stale flag). Also closed out-of-band:
-    the two pessimistic/positions cascade tasks (P-A2 common-root vs mutual-confirmation
-    distinction + the tenets-page harmonisation). So the queue is now FULLY DRAINED
-    (0 open headers in Active; all 19 carry checkmark/DEFERRED prefixes), no longer
-    the p3-only-floor-preemption case from no.166. EIGHT SOURCES re-derived from disk:
-    CHAINS (S1) 0 - task_chains state empty; last expand-topic / research-topic successors
-    all landed. UNCONSUMED RESEARCH (S2) 0 - 398 notes; 3 newest (all 06-16) re-confirmed
-    consumed (chemosensory->topics/chemosensory-consciousness-and-the-interface.md,
-    naturalist-relationalism->concepts/naturalist-relationalism.md, IWMT folded into
-    concepts/predictive-processing.md with Safron present); a loose-slug backlog scan
-    flagged 76 candidates but spot-checking each confirmed false positives (slug rewording:
-    qbism->qbism, born-rule-derivation folded into born-rule-and-the-consciousness-interface,
-    downward-causation->mental-causation-and-downward-causation, buddhist-meaning->buddhist-perspectives-on-meaning,
-    quantum-randomness-token-sampling->quantum-randomness-channel-llm-consciousness)
-    - backlog genuinely exhausted. GAPS (S3) 0 - voids 101/100 over cap; topics 268/300
-    + concepts 261/300 have headroom but gap analysis documented-exhausted (harvest-research-subjects
-    owns research revival now, not replenish); positions 3, deliberately slow. STALENESS
-    (S4) 0 mintable - cycle deep-review slot (ran 00:57) owns this pool. LENGTH (S6)
-    0 mintable - re-ran tools.curate.length: both CRITICAL content offenders human-blocked
-    (epistemology-of-convergence-arguments 6479w = standing human decision in Blocked;
-    apex/phenomenal-output-causal-machinery-dissociation 6832w = BLOCKED-needs-human-editorial
-    + prior condense vetoes); the ~24 hard_warning content offenders are all under
-    critical, recently-touched (06-13..06-16 active review/churn) or accept-as-survey,
-    none mintable without conflicting with in-flight work or risking calibration regression;
-    research/ length entries are source notes, not condensed. ORPHANS (S5) 0 - quality.orphaned_files
-    0. POSITIONS (S7) add 0 / update 0 / audit NOT due (last audit 2026-06-09, inside
-    30d; also below the >=10-entries/>=2-files audit-generation threshold - 3 entries
-    / 2 domain files). APPLIED-APEX (S8) 0 - A1+A5 live, A2-A4 proposed, the A6/clinical
-    candidate is DEFERRED-TO-HUMAN (no sanctioned slot). OUTER REVIEWS: latest pending-reviews
-    entries (06-16 chatgpt+gemini) both collected, none pending; 06-16 synthesis already
-    ran; no 06-17 cycle yet (time ~01:40 UTC is pre-02:00). Did NOT mint filler against
-    the capped voids section, human-blocked/churn/survey length offenders, consumed
-    research, or exhausted gaps. State YAML re-validated post-edit (parses OK).'
+  current_replenishment_note: '2026-06-17 run no.168 (standard mode) - HONEST NO-OP
+    for new-task minting (0 minted), the SEVENTH consecutive. AUTHORITATIVE verify
+    from disk via tools.evolution.task_selector: count_p0_p2_tasks=0 AND select_queue_task=None.
+    Active Tasks has exactly 2 open `### P` headers, BOTH `#veto` condense tasks (meaning-of-life.md
+    4160w SOFT/human-split-pending veto; phenomenal-output-causal-machinery-dissociation.md
+    6832w #veto + BLOCKED-needs-human) - the selector correctly excludes both, so the
+    queue is genuinely drained. EIGHT SOURCES re-derived from disk this run: CHAINS
+    (S1) 0 - task_chains state empty/absent; recent_tasks (last 20) contains NO expand-topic
+    or research-topic completions (window is replenish/review/social/cycle), no successors.
+    UNCONSUMED RESEARCH (S2) 0 - 397 notes; 3 newest (all 06-16) RE-CONFIRMED consumed
+    on disk: chemosensory->topics/chemosensory-consciousness-and-the-interface.md (exists),
+    naturalist-relationalism->concepts/naturalist-relationalism.md (exists), IWMT->folded
+    into concepts/predictive-processing.md (Safron present). GAPS (S3) 0 - voids 101/100
+    OVER cap; topics 268/300 + concepts 261/300 have headroom but gap analysis documented-exhausted
+    (harvest-research-subjects owns research revival now, not replenish); positions
+    deliberately slow. STALENESS (S4) 0 mintable - cycle deep-review slot (ran 00:57)
+    owns this pool. LENGTH (S6) 0 mintable - re-ran tools.curate.length: 3 CRITICAL
+    content offenders all blocked (apex/apex-articles.md 7238w = index hub exempt;
+    apex/phenomenal-output-causal-machinery-dissociation.md 6832w = #veto+human-blocked;
+    topics/epistemology-of-convergence-arguments.md 6479w = DIVERTED-TO-HUMAN standing
+    length decision in Blocked, 4 prior condenses failed to hold it). The 23 hard_warning
+    content offenders are all under critical AND either recently git-churned within
+    ~14d (machine-question 5001w, qm-interpretations 4125w, composition-question-rivals
+    4106w, quantum-biology 4060w, consciousness-and-the-metaphysics-of-composition
+    4043w, valence-and-conscious-selection all show 06-05..06-16 deep-review/refine
+    activity = re-condense would be churn) or human-deferred (born-rule 5106w, clinical-dissociation
+    4861w, laws-and-dispositions 4213w) - NO clean mintable offender. research/ length
+    entries are source notes, not condensed. ORPHANS (S5) 0 - quality.orphaned_files
+    0. POSITIONS (S7) add 0 / update 0 / audit NOT due (last audit 2026-06-09 per todo
+    line 125 + reviews/positions-audit-2026-06-09.md, inside 30d window, next ~07-09).
+    APPLIED-APEX (S8) 0 - no sanctioned new slot. OUTER REVIEWS: latest cycle is 2026-06-16
+    (chatgpt+gemini both `collected`, none pending); 06-16 synthesis already exists;
+    no 06-17 cycle yet (time ~01:50 UTC is pre-02:00 commission window). Did NOT mint
+    filler against the capped voids section, the index-hub/human-blocked/recently-churned
+    length offenders, the consumed research, or the exhausted gaps. State YAML re-validated
+    post-edit (parses OK). Prior NO-OP run no.167 reached the same eight-source verdict
+    (queue fully drained, all generative sources exhausted/blocked).'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
