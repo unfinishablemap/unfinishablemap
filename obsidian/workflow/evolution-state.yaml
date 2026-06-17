@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T01:11:40.885813+00:00'
-session_count: 11477
-cycle_position: 9226
+last_updated: '2026-06-17T01:13:21.481019+00:00'
+session_count: 11478
+cycle_position: 9227
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-17T00:23:07.301820+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-16T04:14:32.657292+00:00'
   refine-draft: '2026-06-17T00:30:28.513636+00:00'
   research-topic: '2026-06-16T14:05:29.074973+00:00'
-  replenish-queue: '2026-06-17T01:11:40.885813+00:00'
+  replenish-queue: '2026-06-17T01:15:00.000000+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-16T08:06:09.164774+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-06-17T00:41:47.595053+00:00'
   check-model-fallback: '2026-06-16T23:59:39.357058+00:00'
   harvest-research-subjects: '2026-06-16T19:38:32.994680+00:00'
-  skip-queue-slot: '2026-06-17T01:03:54.120708+00:00'
+  skip-queue-slot: '2026-06-17T01:13:21.481019+00:00'
 last_git_push: '2026-06-17T00:16:01.312894+00:00'
 last_tweet_date: '2026-06-16'
 content_stats:
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-16'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-16'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-17'
+  outcome: success
+- task: skip-queue-slot
+  type: skip-queue-slot
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -993,45 +993,51 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 0
-  last_replenishment: '2026-06-17T01:10:00+00:00'
+  last_replenishment: '2026-06-17T01:15:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-17 run no.164 (standard mode) - HONEST NO-OP
-    for new-task minting (0 minted), confirming runs no.162 and no.163. Queue re-verified
-    from disk via tools.evolution.task_selector: count_p0_p2_tasks=0 AND now select_queue_task
-    returns None - the single P3 refine-draft from no.163 (harmonise the tenets-page
-    No-MWI subjecthood-dependency note) was executed out-of-band and marked done (todo
-    line ~46), so the queue is fully drained of pickable tasks. This is the [[p3-only-floor-preemption-starves]]
-    pattern resolving naturally: MIN_QUEUE counts only P0-P2 so a P3-only queue never
-    reaches the floor of 3, but once the lone P3 is run out-of-band the starvation
-    clears. Durable fix is operator/code. EIGHT SOURCES re-derived from disk (not
-    trusted from the prior note): CHAINS (S1) 0 - recent_tasks hold only loop-internal
-    types; last expand-topic (06-16 02:05) / research-topic (06-16 14:05) predate
-    the window and their successor research notes already landed. UNCONSUMED RESEARCH
-    (S2) 0 - 3 newest notes (all 2026-06-16) re-confirmed consumed: chemosensory->topics/chemosensory-consciousness-and-the-interface.md
+  current_replenishment_note: '2026-06-17 run no.165 (standard mode) - HONEST NO-OP
+    for new-task minting (0 minted), the FOURTH consecutive, confirming runs no.162,
+    no.163 and no.164. Queue re-verified from disk via tools.evolution.task_selector:
+    count_p0_p2_tasks=0 AND select_queue_task returns None - every block in ## Active
+    Tasks now carries a ✓ header (done / DEFERRED-TO-HUMAN / RESOLVED-BY-CONSOLIDATION),
+    so the queue is fully drained of pickable tasks (the lone P3 tenets-cascade refine
+    from no.163 was executed out-of-band and is ✓ at todo line 46). Documented [[p3-only-floor-preemption-starves]]
+    pattern, now cleared. EIGHT SOURCES re-derived from disk this run (not trusted
+    from the prior note): CHAINS (S1) 0 - task_chains state empty; last expand-topic
+    (06-16 02:05) / research-topic (06-16 14:05) successors already landed and integrated
+    (carrolls-regress, the newest-modified concept, deep-reviewed today 00:55 with
+    16 inbound links). UNCONSUMED RESEARCH (S2) 0 - 3 newest notes (all 2026-06-16)
+    re-confirmed consumed on disk: chemosensory->topics/chemosensory-consciousness-and-the-interface.md
     (EXISTS), naturalist-relationalism->concepts/naturalist-relationalism.md (EXISTS),
     integrated-world-modeling-theory FOLDED into concepts/predictive-processing.md
-    (grep confirms Safron/IWMT present). GAPS (S3) 0 - disk counts: voids 101/100
-    over cap; topics 268/300 and concepts 261/300 have headroom but gap analysis documented-exhausted;
-    positions deliberately slow. STALENESS (S4) 0 mintable - pool owned by the cycle
-    deep-review slot (ran 00:57 06-17). LENGTH (S6) 0 mintable - re-ran tools.curate.length.get_length_warnings:
-    every CONTENT (non-research, non-hub) offender is exempt - epistemology-of-convergence-arguments
-    (6479w STANDING HUMAN DECISION in Blocked); apex/phenomenal-output-causal-machinery-dissociation
-    (6832w veto-tagged + queued); born-rule-and-the-consciousness-interface (5106w),
-    time-collapse-and-agency (4606w), argument-from-reason (4489w), epistemic-advantages-of-dualism
-    (4400w), laws-and-dispositions (4213w) all churn-flagged/human-deferred; composition-question-rivals
-    (4106w) deep-review ACCEPT-AS-SURVEY 06-15; memory-channel-interface-evidence
-    (4296w) deep-reviewed ACCEPT-AS-SURVEY 06-16; clinical-dissociation (4861w) DIVERTED-TO-HUMAN.
-    Rest of the warning list is research/ notes (no ceiling), voids over cap, or apex/apex-articles.md
-    (a list hub, 7238w). ORPHANS (S5) 0 - quality.orphaned_files 0. POSITIONS (S7)
-    add 0 / update 0 (the P-A2 reciprocal-dependency note that changed WAS the task
-    executed at 00:41, and its tenets-cascade P3 is now done) / audit not due (18
-    entries across 4 domains, last audit 2026-06-09 ~8d ago, inside the 30d window).
-    APPLIED-APEX (S8) 0 - A5 slot filled 06-16; the A6/clinical proposal is DEFERRED-TO-HUMAN.
-    OUTER REVIEWS: 06-16 cycle fully synthesized (outer-review-synthesis-2026-06-16.md
-    present); current time ~01:10 UTC is pre-02:00 so no 06-17 outer cycle commissioned
-    yet. Did NOT fabricate filler against capped sections, churn-flagged/accept-as-survey
-    length offenders, or the P3 backlog. State YAML re-validated post-edit (parses
-    OK).'
+    (grep confirms Safron present). GAPS (S3) 0 - disk counts voids 101/100 over cap;
+    topics 268/300 and concepts 261/300 have headroom but gap analysis documented-exhausted;
+    positions deliberately slow. STALENESS (S4) 0 mintable - on-disk scan of all topics/concepts/apex
+    with ai_contribution>50 found ZERO articles >30d past last_deep_review; the cycle
+    deep-review slot (ran 00:57 06-17) owns this pool. LENGTH (S6) 0 mintable - re-ran
+    tools.curate.length.get_length_warnings: both CRITICAL content offenders are human-blocked
+    (epistemology-of-convergence-arguments 6479w = STANDING HUMAN DECISION in Blocked;
+    apex/phenomenal-output-causal-machinery-dissociation 6832w = #veto condense at
+    todo line 597). Every hard_warning content offender is exempt: born-rule (5106w),
+    apex/machine-question (5001w, hub-accretion churn, modified 06-13), time-collapse-and-agency
+    (4606w), argument-from-reason (4489w), epistemic-advantages-of-dualism (4400w),
+    laws-and-dispositions (4213w) all churn-flagged/human-deferred; clinical-dissociation
+    (4861w) DIVERTED-TO-HUMAN; memory-channel-interface-evidence (4296w) + composition-question-rivals
+    (4106w) deep-reviewed ACCEPT-AS-SURVEY; concepts/predictive-processing (3606w,
+    ~106w over hard) is FRESH-THIS-CYCLE (the sanctioned IWMT fold, modified 06-16)
+    = refine-then-condense-same-session-churn, not minted. Rest of the warning list
+    is research/ notes (no ceiling), voids over cap, positions, or apex/apex-articles.md
+    (list hub). ORPHANS (S5) 0 - quality.orphaned_files 0. POSITIONS (S7) add 0 / update
+    0 (the P-A2 reciprocal-dependency note that changed WAS the task executed at 00:41,
+    its tenets-cascade P3 is now done) / audit NOT due (19 entry-headers across 4 domains,
+    last audit 2026-06-09 ~8d ago + soft-tension follow-up 2026-06-10, inside the 30d
+    window). APPLIED-APEX (S8) 0 - 2 applied apex on disk; the A6/clinical proposal
+    is DEFERRED-TO-HUMAN (no sanctioned slot in apex-articles.md). OUTER REVIEWS: 06-16
+    cycle fully synthesized (outer-review-synthesis-2026-06-16.md present); pending-reviews.yaml
+    has no status:pending and no 06-17 cycle_date; current time ~01:13 UTC is pre-02:00
+    so no 06-17 outer cycle commissioned yet. Did NOT fabricate filler against capped
+    sections, churn-flagged/accept-as-survey/fresh-this-cycle length offenders, or
+    the P3 backlog. State YAML re-validated post-edit (parses OK).'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
