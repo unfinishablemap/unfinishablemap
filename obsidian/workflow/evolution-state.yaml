@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T18:09:16.676797+00:00'
-session_count: 11636
-cycle_position: 9285
+last_updated: '2026-06-17T18:10:35.744165+00:00'
+session_count: 11637
+cycle_position: 9286
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-17T14:29:42.620202+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-06-17T00:41:47.595053+00:00'
   check-model-fallback: '2026-06-17T16:18:08.857552+00:00'
   harvest-research-subjects: '2026-06-17T13:57:01.506212+00:00'
-  skip-queue-slot: '2026-06-17T18:00:24.891931+00:00'
+  skip-queue-slot: '2026-06-17T18:10:35.744165+00:00'
 last_git_push: '2026-06-17T16:25:58.188395+00:00'
 last_tweet_date: '2026-06-17'
 content_stats:
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic
-  type: expand-topic
-  date: '2026-06-17'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-17'
+  outcome: success
+- task: skip-queue-slot
+  type: skip-queue-slot
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1013,41 +1013,37 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 0
-  last_replenishment: '2026-06-17T18:05:00+00:00'
+  last_replenishment: '2026-06-17T18:15:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-17 run no.227 (standard mode) - MINTED 0 (NO-OP).
-    Independently re-verified on disk this run, not trusting run no.226s note. Active
-    Tasks scan (lines 38-1063, Completed header at 1064): the only two bare ### P-headers
-    are both veto-tagged condense flagships (meaning-of-life #veto, phenomenal-output-causal-machinery-dissociation
-    #veto); every other header is a checkmark / HUMAN-LENGTH-DECISION / DEFERRED-TO-HUMAN
-    / DIVERTED-TO-HUMAN / RELOCATED / RESOLVED marker. 0 genuinely-pickable tasks,
-    below MIN_QUEUE floor of 3 but zero safe candidates without duplicating live content.
-    Sources (all re-verified this run): S1 chain - no task_chains structure in state.
-    S2 unconsumed-research - confirmed on disk that 4 of 5 newest notes are consumed
-    (concepts/egocentric-presentism, concepts/manyism, concepts/naturalist-relationalism,
-    topics/chemosensory-consciousness-and-the-interface all live); IWMT-2026-06-16
-    note self-declines a standalone in its own ASSESS-FIRST section (verbatim Lean
-    RETARGET-or-DECLINE, already covered at depth in concepts/predictive-processing.md
-    Strongest Gap-Dissolving Variant sub-section, Safron 2020 cited, full gap-reply
-    present) - DECLINE, do NOT mint. S3 gap owned by harvest-research-subjects (ran
-    13:57, 6h interval). S4 staleness owned by deep-review cycle slot (ran 17:44).
-    S5 orphans quality.orphaned_files 0. S6 length re-run via tools.curate.length
-    this run - live CRITICAL offenders all dispositioned (apex/phenomenal-output-causal-machinery-dissociation
-    veto in Active; topics/epistemology-of-convergence-arguments DIVERTED-TO-HUMAN;
-    apex/apex-articles is a section-index, not a condense target); CRITICAL research
+  current_replenishment_note: '2026-06-17 run no.228 (standard mode) - MINTED 0 (NO-OP).
+    Independently re-verified all 8 sources on disk this run, not trusting run no.227s
+    note. Section structure confirmed: Active Tasks lines 38-1063, Completed at 1064,
+    Blocked at 1065-6283, Vetoed at 6284+. Active Tasks scan shows only two bare ###
+    P-headers, both veto-tagged condense flagships (meaning-of-life #veto line 611,
+    phenomenal-output-causal-machinery-dissociation #veto line 619); the 50+ P3 headers
+    at lines 8542+ are inside the Vetoed bank (Ideas for Later), NOT pickable. 0 genuinely-pickable
+    tasks, below MIN_QUEUE floor of 3 but zero safe candidates without duplicating
+    live content. S1 chain - no task_chains structure in state. S2 unconsumed-research
+    - all 4 newest notes confirmed consumed on disk (concepts/egocentric-presentism,
+    concepts/manyism, concepts/naturalist-relationalism, topics/chemosensory-consciousness-and-the-interface
+    all live); IWMT-2026-06-16 note self-declines a standalone in its own ASSESS-FIRST
+    section (verbatim Lean RETARGET-or-DECLINE, already covered at depth in concepts/predictive-processing.md
+    Strongest Gap-Dissolving Variant sub-section with Safron 2020 cited and full gap-reply)
+    - DECLINE, do NOT mint. S3 gap owned by harvest-research-subjects (ran 13:57,
+    6h interval). S4 staleness owned by deep-review cycle slot (ran 17:44). S5 orphans
+    quality.orphaned_files 0. S6 length re-run via tools.curate.length this run - all
+    3 non-research CRITICAL offenders dispositioned (apex/phenomenal-output-causal-machinery-dissociation
+    veto in Active; topics/epistemology-of-convergence-arguments DIVERTED-TO-HUMAN
+    standing-decision line 253, 4 prior condenses failed, load-bearing Tenet-5 calibration;
+    apex/apex-articles is a section-index not a condense target); the 6 CRITICAL research
     notes are reference material not condense targets. hard_warning live offenders
-    are calibration-protected flagships either in the 574-entry Vetoed bank (born-rule,
-    type-specificity, introspection-architecture, concession-convergence) or human-deferred
-    (clinical-dissociation DIVERTED-TO-HUMAN, synesthetic-void HUMAN-LENGTH-DECISION)
-    or recently-reviewed structural-length flagships (time-collapse-and-agency, epistemic-advantages-of-dualism,
-    argument-from-reason, composition-question-rivals all reviewed within ~16d) -
-    no safe new condense mint per condense-regresses-calibration-qualifiers + human-decision-task-mispicked-as-refine.
-    Section caps (counted on disk this run): topics 268/300, concepts 263/300 (headroom
-    but no research to feed expand-topic), voids 101/100 AT CAP, positions 3/80. S7
-    positions audit not due (3 entries, below 10-entry threshold; last positions-evolve
-    06-17 00:41). S8 applied-apex clusters too small (3 positions total), assess-first
-    gated. Expected floor-alternation steady state (unfin-loop-steady-state), NOT
-    a fixable stall. No todo.md mutation.'
+    are calibration-protected flagships in the Vetoed bank or human-deferred or recently-reviewed
+    - no safe new condense mint. Section caps (counted on disk): topics 268/300, concepts
+    263/300 (headroom but no research to feed expand-topic), voids 101/100 AT CAP,
+    positions 3/80. S7 positions audit not due (3 entries, below 10-entry threshold;
+    last positions-evolve 06-17 00:41). S8 applied-apex clusters too small (3 positions
+    total), assess-first gated. Expected floor-alternation steady state (unfin-loop-steady-state),
+    NOT a fixable stall. No todo.md mutation.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
