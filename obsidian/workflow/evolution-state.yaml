@@ -1,5 +1,9 @@
-last_updated: '2026-06-17T21:15:37.068072+00:00'
-session_count: 11674
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-17T21:22:11.978273+00:00'
+session_count: 11675
 cycle_position: 9300
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,14 +17,14 @@ last_runs:
   coalesce: '2026-06-17T17:13:37.113972+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-16T23:01:17.314770+00:00'
-  agentic-social: '2026-06-17T21:20:19.381172+00:00'
+  agentic-social: '2026-06-17T21:22:11.978273+00:00'
   embed-videos: '2026-06-17T18:34:01.784269+00:00'
   commission-chatgpt-review: '2026-06-17T02:05:46.036515+00:00'
   commission-claude-review: '2026-06-17T03:06:25.605256+00:00'
   commission-gemini-review: '2026-06-17T04:07:04.664744+00:00'
   refine-draft: '2026-06-17T20:10:09.820635+00:00'
   research-topic: '2026-06-17T15:41:10.316846+00:00'
-  replenish-queue: '2026-06-17T21:15:37.068072+00:00'
+  replenish-queue: '2026-06-17T21:30:00.000000+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-17T16:28:19.568953+00:00'
   add-highlight: '2026-06-17T08:04:22.798348+00:00'
@@ -92,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-17'
-  outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
   date: '2026-06-17'
@@ -170,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-17'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1010,27 +1014,37 @@ queue_status:
   p3_tasks: 2
   needs_replenishment: false
   loop_pickable_open: 2
-  last_replenishment: '2026-06-17T21:15:00+00:00'
+  last_replenishment: '2026-06-17T21:30:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: "2026-06-17 run no.242 (standard mode) - HONEST NO-OP\
-    \ (0 P0-P2 minted), reconfirms no.241. NOTE: queue is NOT empty anymore \u2014\
-    \ the optimistic-review that ran 21:12 (after no.241's 21:05 note) supplied 2\
-    \ fresh pickable P3 refine-draft tasks (quantum-holism lead-verb calibration;\
-    \ 3 physics-cluster cross-links), so the loop has pickable work; floor still reads\
-    \ P0-P2=0 so replenish re-fires by design. S2 re-verified: two newest research\
-    \ notes (egocentric-presentism, manyism-and-composite-subjectivity, both 2026-06-17)\
-    \ ALREADY have live articles (concepts/egocentric-presentism.md, concepts/manyism.md);\
-    \ 3rd-newest is 2026-01-19 (long-consumed) \u2192 unconsumed-research 0. S1 chains\
-    \ 0 (expand 16:28 / research 15:41 already produced articles). S3 gaps owned by\
-    \ harvest (19:59); S4 staleness owned by deep-review (20:40); S5 orphans 0. S6\
-    \ length: ~25 ARTICLE-SECTION over-hard (not 0 as no.241 implied) but each is\
-    \ flagship/calibration-protected, already length-assessed (e.g. composition-question-rivals\
-    \ deep-reviewed + accepted-as-survey 2026-06-15), or already deferred/vetoed \u2192\
-    \ 0 CLEAN-mintable; auto-condensing would regress protected calibration ([[human-decision-task-mispicked-as-refine]]).\
-    \ S7 positions audit not due (ran 06-09, ~18 entries inside 30d). S8 applied-apex\
-    \ deferred-to-human 06-16. Caps: topics 268/300, concepts 263/300 (headroom but\
-    \ no research feed), voids 101/100 over. Expected floor-alternation; harvest+outer-review\
-    \ refill research."
+  current_replenishment_note: '2026-06-17 run no.243 (standard mode) - HONEST NO-OP
+    (0 P0-P2 minted), reconfirms no.242. Queue is NOT empty: the 21:12 optimistic-review
+    supplied 2 pickable P3 refine-draft tasks (quantum-holism lead-verb calibration;
+    3 physics-cluster cross-links) and both remain the only loop-pickable-open tasks
+    (loop_pickable_open 2). Floor still reads P0-P2=0 so replenish re-fires by design
+    ([[unfin_loop_steady_state]]). S2 re-verified: 3 newest research notes
+    (egocentric-presentism + naturalist-relationalism + manyism) all have live articles;
+    the IWMT note (2026-06-16) is CONSUMED into concepts/predictive-processing.md and
+    its flagged I-JEPA primitive-world-model misattribution is ALREADY fixed live
+    (article ai_modified 14:14 post-dates note 14:10, line 101 now attributes to the
+    broader JEPA/LeCun programme) -> minting an IWMT task would be a stale-flag false
+    positive ([[out-of-scope-spillover-flags-stale]]); unconsumed-research 0. S1 chains
+    0 (expand 16:28 / research 15:41 already produced articles). S3 gaps owned by
+    harvest (19:59); S4 staleness owned by deep-review (20:40); S5 orphans 0. S6 length:
+    26 content articles over-hard but 0 CLEAN-mintable -- each is human-deferred
+    (epistemology-of-convergence-arguments split, phenomenal-output split),
+    vetoed (born-rule, phenomenal-output condense), recently condensed
+    (epistemic-advantages, metaphysics-of-laws, time-collapse), or already
+    length-assessed/accepted-as-survey (memory-channel-interface-evidence deep-reviewed
+    06-16, composition-question-rivals 06-15); auto-condensing would regress protected
+    calibration ([[human-decision-task-mispicked-as-refine]]). S7 positions audit not
+    due (ran 06-09, ~18 entries inside 30d). S8 applied-apex deferred-to-human 06-16.
+    Caps verified on disk: topics 267/300, concepts 263/300 (headroom but no research
+    feed), voids 101/100 over, positions 3 domain files. Expected floor-alternation;
+    harvest + outer-review refill research. OBSERVED: Active Tasks section is bloated
+    (~137 ### headers, ~1040 lines, 3.1MB file) -- only 2 are genuinely open; the rest
+    are completed/resolved/relocated/deferred cruft never moved below the Completed
+    header ([[orphaned-pending-tasks-below-completed]] sibling). Tidy-sweep candidate
+    for a future run; not minting tasks for it.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
