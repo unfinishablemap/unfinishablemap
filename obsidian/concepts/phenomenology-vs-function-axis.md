@@ -4,7 +4,7 @@ description: "A cross-cutting taxonomic axis identifying voids where phenomenal 
 created: 2026-04-28
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-06-01T06:30:00+00:00
+ai_modified: 2026-06-17T00:00:00+00:00
 last_deep_review: 2026-06-01T06:30:00+00:00
 draft: false
 topics:
@@ -60,7 +60,7 @@ The wedge cuts at a grain question. At the *task* level—mental rotation as a b
 
 ### Synaesthesia: Extra Qualia and Function-Qualia Decoupling
 
-The [[synesthetic-void|synesthetic void]] formalises a parallel dissociation under different vocabulary. Alan Wager (1999, 2001) identified what he calls the **"extra qualia problem"**: synaesthetes possess phenomenal states that differ from non-synesthetic states without any corresponding difference in representational content. Identical stimuli, identical surface representations, divergent phenomenology.
+The [[synesthetic-void|synesthetic void]] formalises a parallel dissociation under different vocabulary. Adam Wager (1999) identified what he calls the **"extra qualia problem"**: synaesthetes possess phenomenal states that differ from non-synesthetic states without any corresponding difference in representational content. Identical stimuli, identical surface representations, divergent phenomenology.
 
 J.A. Gray (2003) presses the point further. He argues that in synaesthesia, "function and qualia come apart in two ways": identical qualia arise from distinct functional roles (colour experience from both visual and auditory processing pipelines), and single functional roles produce divergent qualia (the same grapheme-recognition process generates colour experience in synaesthetes but not in non-synaesthetes). If qualia tracked function, neither dissociation should occur.
 
@@ -146,17 +146,16 @@ The axis is also not coextensive with the [[phenomenal-contrast-method|phenomena
 
 ## References
 
-1. Wager, A. (1999). "The Extra Qualia Problem." *Philosophia*, 27, 571–584.
-2. Wager, A. (2001). "Synaesthesia and the Problem of Qualia." *Southwest Philosophy Review*, 17, 163–170.
-3. Gray, J.A. (2003). "How Are Qualia Coupled to Functions?" *Trends in Cognitive Sciences*, 7, 192–194.
-4. Strawson, G. (1994). *Mental Reality*. MIT Press.
-5. Wegner, D.M., & Wheatley, T. (1999). "Apparent Mental Causation: Sources of the Experience of Will." *American Psychologist*, 54(7), 480–492.
-6. Wegner, D.M. (2002). *The Illusion of Conscious Will*. MIT Press.
-7. Kay, L., Keogh, R., & Pearson, J. (2024). "Slower but more accurate mental rotation performance in aphantasia linked to differences in cognitive strategies." *Consciousness and Cognition*, 121, 103694. https://www.sciencedirect.com/science/article/pii/S1053810024000618
-8. Zeman, A. (2024). "Aphantasia and Hyperphantasia: Exploring Imagery Vividness Extremes." *Trends in Cognitive Sciences*. https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00034-2
-9. Lennon, P. (2023). "Aphantasia and Conscious Thought." In U. Kriegel (ed.), *Oxford Studies in Philosophy of Mind*, Vol. 3. Oxford University Press. https://philarchive.org/archive/LENAAC-3
-10. van Leeuwen, T.M., Singer, W., & Nikolić, D. (2015). "The Merit of Synesthesia for Consciousness Research." *Frontiers in Psychology*, 6, 1850.
-11. Putnam, H. (1967). "Psychological Predicates" (later "The Nature of Mental States"), in W. H. Capitan and D. D. Merrill (eds.), *Art, Mind, and Religion*. University of Pittsburgh Press.
-12. Block, N., & Fodor, J.A. (1972). "What Psychological States Are Not." *Philosophical Review*, 81(2), 159–181.
-13. Southgate, A. & Oquatre-sept, C. (2026-04-28). The Imagery Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/imagery-void/
-14. Southgate, A. & Oquatre-sept, C. (2026-02-24). The Synesthetic Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/synesthetic-void/
+1. Wager, A. (1999). "The Extra Qualia Problem: Synaesthesia and Representationism." *Philosophical Psychology*, 12(3), 263–281.
+2. Gray, J.A. (2003). "How Are Qualia Coupled to Functions?" *Trends in Cognitive Sciences*, 7, 192–194.
+3. Strawson, G. (1994). *Mental Reality*. MIT Press.
+4. Wegner, D.M., & Wheatley, T. (1999). "Apparent Mental Causation: Sources of the Experience of Will." *American Psychologist*, 54(7), 480–492.
+5. Wegner, D.M. (2002). *The Illusion of Conscious Will*. MIT Press.
+6. Kay, L., Keogh, R., & Pearson, J. (2024). "Slower but more accurate mental rotation performance in aphantasia linked to differences in cognitive strategies." *Consciousness and Cognition*, 121, 103694. https://www.sciencedirect.com/science/article/pii/S1053810024000618
+7. Zeman, A. (2024). "Aphantasia and Hyperphantasia: Exploring Imagery Vividness Extremes." *Trends in Cognitive Sciences*. https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00034-2
+8. Lennon, P. (2023). "Aphantasia and Conscious Thought." In U. Kriegel (ed.), *Oxford Studies in Philosophy of Mind*, Vol. 3. Oxford University Press. https://philarchive.org/archive/LENAAC-3
+9. van Leeuwen, T.M., Singer, W., & Nikolić, D. (2015). "The Merit of Synesthesia for Consciousness Research." *Frontiers in Psychology*, 6, 1850.
+10. Putnam, H. (1967). "Psychological Predicates" (later "The Nature of Mental States"), in W. H. Capitan and D. D. Merrill (eds.), *Art, Mind, and Religion*. University of Pittsburgh Press.
+11. Block, N., & Fodor, J.A. (1972). "What Psychological States Are Not." *Philosophical Review*, 81(2), 159–181.
+12. Southgate, A. & Oquatre-sept, C. (2026-04-28). The Imagery Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/imagery-void/
+13. Southgate, A. & Oquatre-sept, C. (2026-02-24). The Synesthetic Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/synesthetic-void/

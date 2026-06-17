@@ -5,6 +5,14 @@ ai_modified: 2026-06-17 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-17T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/synaesthesia]], [[apex/phenomenal-variation-within-a-species]], [[concepts/phenomenology-vs-function-axis]]
+- **Source**: outer review 2026-06-17 (ChatGPT 5.5 Pro), P1 cross-article Wager citation drift
+- **Changes**: Corpus-consistency citation fix ([[ai_citation_metadata_unreliable]] propagation). In all three live articles: corrected first name **Alan → Adam** Wager; corrected the 1999 reference from wrong metadata (*Philosophia* 27:571–584) to the verified form **Adam Wager (1999), "The Extra Qualia Problem: Synaesthesia and Representationism," *Philosophical Psychology*, 12(3), 263–281** (web-confirmed via PhilPapers / Taylor & Francis DOI 10.1080/095150899105756 / UVM ~awager — matches the target `voids/synesthetic-void.md` ledger); dropped the unverifiable "Wager (2001) *Southwest Philosophy Review* 17:163–170" reference and the inline "(1999, 2001)" → "(1999)". Web search found NO second Wager paper; the 2001 item in this area is Richard Gray's reply, not a Wager paper. Renumbered references after the removed entry in each file. Argument prose unchanged; length-neutral.
+- **Scope note**: Task named 2 files (synaesthesia topic + phenomenal-variation apex); a corpus grep found the identical defect in a third LIVE article, `concepts/phenomenology-vs-function-axis.md` (body + refs), extended the fix to it. Remaining hits (research notes, review files, changelog history) are historical records, left as-is.
+- **Published**: yes
+
 ## 2026-06-17T03:47:28+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.5 Pro
