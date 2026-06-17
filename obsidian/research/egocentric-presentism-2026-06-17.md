@@ -74,7 +74,7 @@ Egocentric presentism is Caspar Hare's metaphysical thesis that, of all consciou
 
 ### Vincent Conitzer, "The Personalized A-Theory of Time and Perspective"
 - **URL**: https://users.cs.duke.edu/~conitzer/personalizedA.pdf ; https://philpapers.org
-- **Venue (verified)**: *Dialectica*, vol. 74, no. 1, 2020, pp. 1–29 (open access).
+- **Venue (verified)**: *Dialectica*, vol. 74, no. 1, 2020, pp. 3–31. DOI 10.48106/dial.v74.i1.02. (The Duke-hosted PDF above is the author's preprint, paginated 1–29; the published article is pp. 3–31.)
 - **Type**: Journal article (secondary — the cleanest statement of the time/self analogy)
 - **Key points**:
   - Argues A-theorists (who hold the "Now" is metaphysically distinguished) should *also* hold the "I" is metaphysically distinguished, because the strongest pro-A-theory arguments work better for the combined position and the strongest anti-A-theory arguments fail against it.
