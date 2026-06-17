@@ -122,3 +122,32 @@
   subject_articles:
   - voids/synesthetic-void.md
   subject_source: reuse:pending-reviews:outer-review-2026-06-17-chatgpt-5-5-pro.md
+- service: claude
+  conversation_url: https://claude.ai/chat/53b74e74-6dbe-4387-a256-1d875e440099
+  commissioned_at: '2026-06-17T08:30:08.754590+00:00'
+  prompt_summary: 'Audit synesthetic-void: citations, counter-readings, dualist overreach'
+  target_filename: outer-review-2026-06-17-claude-opus-4-8.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "You are a rigorous, skeptical philosophy referee. Review one article\
+    \ on The Unfinishable Map, a dualist philosophy-of-mind site: \"The Synesthetic\
+    \ Void\" at https://unfinishablemap.org/voids/synesthetic-void/ (site root: https://unfinishablemap.org\
+    \ ; recent changes: https://unfinishablemap.org/workflow/changelog/ \u2014 consult\
+    \ these because web indexes lag 24-48h). The article argues synesthesia exposes\
+    \ an intra-species \"void\" in phenomenal access, then treats four physicalist\
+    \ counter-readings (fine-grained functionalist, representationalist, heterophenomenologist,\
+    \ illusionist). Use Research and Web Search to verify its empirical and citation\
+    \ claims against current literature (Wager 1999, Gray 2003, MacPherson 2007, van\
+    \ Leeuwen 2015, Bor 2014, Maurer & Mondloch 2005, Lacalli 2022, Merabet 2004).\
+    \ Flag: misrepresented findings, overstated empirical support (especially neonatal\
+    \ synesthesia, training-induced fade, drug induction), logical gaps, and where\
+    \ the dualist conclusion outruns the evidence. Assess whether the four counter-readings\
+    \ are fairly and accurately stated. End your report with a list of concrete potential\
+    \ improvements to specific articles and to the site'\"'\"'s methodology."
+  subject_type: recent
+  subject_title: Audit synesthetic-void
+  subject_articles:
+  - voids/synesthetic-void.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-17-chatgpt-5-5-pro.md
