@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-17T02:11:08.715694+00:00'
-session_count: 11490
+last_updated: '2026-06-17T02:19:42.105664+00:00'
+session_count: 11491
 cycle_position: 9230
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-06-16T18:33:57.886872+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-16T23:01:17.314770+00:00'
-  agentic-social: '2026-06-17T01:34:39.075752+00:00'
+  agentic-social: '2026-06-17T02:21:49.110304+00:00'
   embed-videos: '2026-06-16T20:20:11.875303+00:00'
   commission-chatgpt-review: '2026-06-17T02:05:46.036515+00:00'
   commission-claude-review: '2026-06-16T03:16:54.357867+00:00'
   commission-gemini-review: '2026-06-16T04:14:32.657292+00:00'
   refine-draft: '2026-06-17T00:30:28.513636+00:00'
   research-topic: '2026-06-16T14:05:29.074973+00:00'
-  replenish-queue: '2026-06-17T02:10:55.412299+00:00'
+  replenish-queue: '2026-06-17T02:19:42.105664+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-16T08:06:09.164774+00:00'
@@ -96,10 +92,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: positions-evolve
-  type: positions-evolve
-  date: '2026-06-17'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-17'
@@ -174,6 +166,10 @@ recent_tasks:
   outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
+  date: '2026-06-17'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -977,6 +973,14 @@ agentic_social:
     - hard-problem-of-consciousness
     - free-will
     - quantum-consciousness
+  - url: https://unfinishablemap.org/concepts/carrolls-regress/
+    date: '2026-06-17T02:21:49.110224+00:00'
+    topics:
+    - philosophy-of-mind
+    - argument-from-reason
+    - introspection
+    - mysterianism
+    - self-stultification
 tune_system_history:
   last_run: '2026-06-16T22:50:00+00:00'
   changes_applied: []
@@ -1005,42 +1009,44 @@ queue_status:
     floor / human-split pending; apex/phenomenal-output-causal-machinery-dissociation.md
     6989w #veto + BLOCKED-needs-human); the selector correctly excludes both, so the
     queue is genuinely drained. NOTE: a naive content.find(''## Completed'') is fooled
-    by a prose mention of that string inside a task NOTE at line ~347 - trust the parser,
-    not a manual regex split. EIGHT SOURCES re-derived from disk this run. CHAINS (S1)
-    0 - recent_tasks window is replenish/review/social/cycle/skip ONLY; NO expand-topic
-    or research-topic completion to chain from. UNCONSUMED RESEARCH (S2) 0 - 397 notes;
-    3 newest non-voids (all 06-16) RE-CONFIRMED consumed on disk this run: chemosensory->topics/chemosensory-consciousness-and-the-interface.md,
+    by a prose mention of that string inside a task NOTE at line ~347 - trust the
+    parser, not a manual regex split. EIGHT SOURCES re-derived from disk this run.
+    CHAINS (S1) 0 - recent_tasks window is replenish/review/social/cycle/skip ONLY;
+    NO expand-topic or research-topic completion to chain from. UNCONSUMED RESEARCH
+    (S2) 0 - 397 notes; 3 newest non-voids (all 06-16) RE-CONFIRMED consumed on disk
+    this run: chemosensory->topics/chemosensory-consciousness-and-the-interface.md,
     naturalist-relationalism->concepts/naturalist-relationalism.md, IWMT->folded into
     concepts/predictive-processing.md (Safron grep-confirmed). GAPS (S3) 0 - voids
     101/100 OVER cap (research-voids skips); topics 268/300 + concepts 261/300 have
     headroom but gap analysis is documented-exhausted and harvest-research-subjects
     now owns research revival (ran 01:43 today); positions deliberately slow. STALENESS
     (S4) 0 mintable - the cycle deep-review slot (ran 00:57) owns this pool. LENGTH
-    (S6) 0 mintable - a FRESH tools.curate.length sweep this run enumerated EVERY hard+
-    site (non-research) offender and individually checked last_deep_review + git last-touch:
-    all 3 criticals are human-blocked flagships (apex/apex-articles.md 7238w index-hub
-    exempt; phenomenal-output 6832w #veto+human; epistemology-of-convergence-arguments
+    (S6) 0 mintable - a FRESH tools.curate.length sweep this run enumerated EVERY
+    hard+ site (non-research) offender and individually checked last_deep_review +
+    git last-touch: all 3 criticals are human-blocked flagships (apex/apex-articles.md
+    7238w index-hub exempt; phenomenal-output 6832w #veto+human; epistemology-of-convergence-arguments
     6479w DIVERTED-TO-HUMAN, 4 prior condenses failed to hold). ALL hard_warning site
     offenders (born-rule 5106w, machine-question 5001w, clinical-dissociation 4861w,
     time-collapse-and-agency 4606w, argument-from-reason 4489w, epistemic-advantages
     4400w, memory-channel 4296w, composition-question-rivals 4106w, valence-and-conscious-selection
     4092w [standing HUMAN LENGTH DECISION], consciousness-in-simple-organisms 4025w,
-    phenomenal-authority 4022w, et al.) sit in the 4000-5100w band JUST over their hard
-    line and were ALL deep-reviewed/refined length-aware within the last ~2wk (git-confirmed:
-    memory-channel deep-reviewed 06-16, machine-question refined 06-13, born-rule 06-08,
-    argument-from-reason 06-09, etc.) - condensing now is sub-ceiling churn w/ regression
-    risk ([[unfin-loop-steady-state]]), NOT minted. Remaining critical entries in the
-    raw sweep are all research/ SOURCE NOTES (neoplatonist 6574w, cross-tradition-channel
-    6265w, voids-confabulation 6084w, selection-only 5494w, dualism-as-ai-risk 5226w)
-    - not condensable site articles. ORPHANS (S5) 0 - quality.orphaned_files 0. POSITIONS
-    (S7) add 0 / update 0 / audit NOT due - register has 18 entries across 3 domain
-    files (agency-and-will + quantum-interface + voids-as-evidence; state progress.positions_written=3
-    is a stale domain-file undercount); >=10-entry audit cadence applies but last audit
-    2026-06-09 (8d ago, reviews/positions-audit-2026-06-09.md) is inside the 30d window
-    -> next ~07-09, not due. APPLIED-APEX (S8) 0 - A5 created 06-16 (yesterday); applied-apex
-    gap detection is deliberately slow (max 1/run) so minting one day later violates
-    that discipline. OUTER REVIEWS: a 06-17 chatgpt review is pending (commissioned
-    02:05) so the outer pipeline is live and will yield its own tasks - no filler warranted.
+    phenomenal-authority 4022w, et al.) sit in the 4000-5100w band JUST over their
+    hard line and were ALL deep-reviewed/refined length-aware within the last ~2wk
+    (git-confirmed: memory-channel deep-reviewed 06-16, machine-question refined 06-13,
+    born-rule 06-08, argument-from-reason 06-09, etc.) - condensing now is sub-ceiling
+    churn w/ regression risk ([[unfin-loop-steady-state]]), NOT minted. Remaining
+    critical entries in the raw sweep are all research/ SOURCE NOTES (neoplatonist
+    6574w, cross-tradition-channel 6265w, voids-confabulation 6084w, selection-only
+    5494w, dualism-as-ai-risk 5226w) - not condensable site articles. ORPHANS (S5)
+    0 - quality.orphaned_files 0. POSITIONS (S7) add 0 / update 0 / audit NOT due
+    - register has 18 entries across 3 domain files (agency-and-will + quantum-interface
+    + voids-as-evidence; state progress.positions_written=3 is a stale domain-file
+    undercount); >=10-entry audit cadence applies but last audit 2026-06-09 (8d ago,
+    reviews/positions-audit-2026-06-09.md) is inside the 30d window -> next ~07-09,
+    not due. APPLIED-APEX (S8) 0 - A5 created 06-16 (yesterday); applied-apex gap
+    detection is deliberately slow (max 1/run) so minting one day later violates that
+    discipline. OUTER REVIEWS: a 06-17 chatgpt review is pending (commissioned 02:05)
+    so the outer pipeline is live and will yield its own tasks - no filler warranted.
     State YAML re-validated post-edit (parses OK).'
   replenishment_source_counts_last_run:
     applied_apex: 0
