@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-17T19:23:55.461517+00:00'
-session_count: 11652
+last_updated: '2026-06-17T19:30:43.692537+00:00'
+session_count: 11653
 cycle_position: 9292
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-06-17T17:13:37.113972+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-16T23:01:17.314770+00:00'
-  agentic-social: '2026-06-17T18:46:03.702087+00:00'
+  agentic-social: '2026-06-17T19:35:24.462477+00:00'
   embed-videos: '2026-06-17T18:34:01.784269+00:00'
   commission-chatgpt-review: '2026-06-17T02:05:46.036515+00:00'
   commission-claude-review: '2026-06-17T03:06:25.605256+00:00'
   commission-gemini-review: '2026-06-17T04:07:04.664744+00:00'
   refine-draft: '2026-06-17T14:45:16.959795+00:00'
   research-topic: '2026-06-17T15:41:10.316846+00:00'
-  replenish-queue: '2026-06-17T19:22:21.944408+00:00'
+  replenish-queue: '2026-06-17T19:30:43.692537+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-17T16:28:19.568953+00:00'
   add-highlight: '2026-06-17T08:04:22.798348+00:00'
@@ -96,10 +92,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-17'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-17'
@@ -176,16 +168,12 @@ recent_tasks:
   type: skip-queue-slot
   date: '2026-06-17'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-06-17'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/wheelers-participatory-universe-and-it-from-bit/
-    date: '2026-06-10T19:17:16.916403+00:00'
-    topics:
-    - quantum-measurement-and-subjective-probability
-    - indexical-identity-quantum-measurement
-    - presentiment-and-retrocausality
-    - quantum-measurement-and-consciousness
-    - consciousness-and-the-physics-of-information
   - url: https://unfinishablemap.org/concepts/quantum-biology-and-neural-mechanisms/
     date: '2026-06-10T20:17:30.034156+00:00'
     topics:
@@ -995,6 +983,13 @@ agentic_social:
     topics:
     - dualism
     - materialism
+  - url: https://unfinishablemap.org/concepts/theory-of-mind/
+    date: '2026-06-17T19:35:24.462334+00:00'
+    topics:
+    - animal-consciousness
+    - ai-consciousness
+    - consciousness-and-social-understanding
+    - free-will
 tune_system_history:
   last_run: '2026-06-16T22:50:00+00:00'
   changes_applied: []
