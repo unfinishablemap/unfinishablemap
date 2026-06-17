@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T18:00:24.891931+00:00'
-session_count: 11635
+last_updated: '2026-06-17T18:09:16.676797+00:00'
+session_count: 11636
 cycle_position: 9285
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-17T04:07:04.664744+00:00'
   refine-draft: '2026-06-17T14:45:16.959795+00:00'
   research-topic: '2026-06-17T15:41:10.316846+00:00'
-  replenish-queue: '2026-06-17T17:59:39.736064+00:00'
+  replenish-queue: '2026-06-17T18:09:16.676797+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-17T16:28:19.568953+00:00'
   add-highlight: '2026-06-17T08:04:22.798348+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-17'
-  outcome: success
 - task: expand-topic
   type: expand-topic
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
+  date: '2026-06-17'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1025,29 +1025,29 @@ queue_status:
     Sources (all re-verified this run): S1 chain - no task_chains structure in state.
     S2 unconsumed-research - confirmed on disk that 4 of 5 newest notes are consumed
     (concepts/egocentric-presentism, concepts/manyism, concepts/naturalist-relationalism,
-    topics/chemosensory-consciousness-and-the-interface all live); IWMT-2026-06-16 note
-    self-declines a standalone in its own ASSESS-FIRST section (verbatim Lean RETARGET-or-DECLINE,
-    already covered at depth in concepts/predictive-processing.md Strongest Gap-Dissolving
-    Variant sub-section, Safron 2020 cited, full gap-reply present) - DECLINE, do NOT mint.
-    S3 gap owned by harvest-research-subjects (ran 13:57, 6h interval). S4 staleness
-    owned by deep-review cycle slot (ran 17:44). S5 orphans quality.orphaned_files 0.
-    S6 length re-run via tools.curate.length this run - live CRITICAL offenders all
-    dispositioned (apex/phenomenal-output-causal-machinery-dissociation veto in Active;
-    topics/epistemology-of-convergence-arguments DIVERTED-TO-HUMAN; apex/apex-articles
-    is a section-index, not a condense target); CRITICAL research notes are reference
-    material not condense targets. hard_warning live offenders are calibration-protected
-    flagships either in the 574-entry Vetoed bank (born-rule, type-specificity,
-    introspection-architecture, concession-convergence) or human-deferred (clinical-dissociation
-    DIVERTED-TO-HUMAN, synesthetic-void HUMAN-LENGTH-DECISION) or recently-reviewed
-    structural-length flagships (time-collapse-and-agency, epistemic-advantages-of-dualism,
-    argument-from-reason, composition-question-rivals all reviewed within ~16d) - no
-    safe new condense mint per condense-regresses-calibration-qualifiers + human-decision-task-mispicked-as-refine.
+    topics/chemosensory-consciousness-and-the-interface all live); IWMT-2026-06-16
+    note self-declines a standalone in its own ASSESS-FIRST section (verbatim Lean
+    RETARGET-or-DECLINE, already covered at depth in concepts/predictive-processing.md
+    Strongest Gap-Dissolving Variant sub-section, Safron 2020 cited, full gap-reply
+    present) - DECLINE, do NOT mint. S3 gap owned by harvest-research-subjects (ran
+    13:57, 6h interval). S4 staleness owned by deep-review cycle slot (ran 17:44).
+    S5 orphans quality.orphaned_files 0. S6 length re-run via tools.curate.length
+    this run - live CRITICAL offenders all dispositioned (apex/phenomenal-output-causal-machinery-dissociation
+    veto in Active; topics/epistemology-of-convergence-arguments DIVERTED-TO-HUMAN;
+    apex/apex-articles is a section-index, not a condense target); CRITICAL research
+    notes are reference material not condense targets. hard_warning live offenders
+    are calibration-protected flagships either in the 574-entry Vetoed bank (born-rule,
+    type-specificity, introspection-architecture, concession-convergence) or human-deferred
+    (clinical-dissociation DIVERTED-TO-HUMAN, synesthetic-void HUMAN-LENGTH-DECISION)
+    or recently-reviewed structural-length flagships (time-collapse-and-agency, epistemic-advantages-of-dualism,
+    argument-from-reason, composition-question-rivals all reviewed within ~16d) -
+    no safe new condense mint per condense-regresses-calibration-qualifiers + human-decision-task-mispicked-as-refine.
     Section caps (counted on disk this run): topics 268/300, concepts 263/300 (headroom
     but no research to feed expand-topic), voids 101/100 AT CAP, positions 3/80. S7
     positions audit not due (3 entries, below 10-entry threshold; last positions-evolve
     06-17 00:41). S8 applied-apex clusters too small (3 positions total), assess-first
-    gated. Expected floor-alternation steady state (unfin-loop-steady-state), NOT a
-    fixable stall. No todo.md mutation.'
+    gated. Expected floor-alternation steady state (unfin-loop-steady-state), NOT
+    a fixable stall. No todo.md mutation.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
