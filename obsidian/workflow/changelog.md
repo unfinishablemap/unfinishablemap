@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-17 19:16:03+00:00
+ai_modified: 2026-06-17 20:08:31+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-17T20:08:31+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/marginal-organism-scope-of-value-sensitive-selection]]
+- **Original score**: strong/well-calibrated (0 critical, 2 medium, 1 low per [[reviews/pessimistic-2026-06-17-marginal-organism-scope]])
+- **Changes**:
+  - Medium-1: softened unsourced "overwhelmingly reactive" claim about *C. elegans* to "predominantly modelled as reactive"; named the complicating forward-model literature (isothermal tracking, klinotaxis to learned set-points, salt-concentration learning) and re-anchored the speculative rung on the narrower felt-value gap (predictive coding vs *felt* value) rather than on a disputable "never anticipates" claim.
+  - Medium-2: split the epistemic/metaphysical readings in the "genuine void" framing per [[evidential-status-discipline]] (Epistemic Reading ≠ Metaphysical Reading); committed explicitly to the epistemic reading ("determinate boundary we cannot locate from outside"); reserved the metaphysical "no fact of the matter" claim for an unmade argued bridging step. Also changed "observationally equivalent" → "behaviourally indistinguishable" to remove the residual metaphysical lean.
+  - Low: added internal-coherence sentence in the rat section noting the *Physarum* deflation is a global solvent, not rung-local — the rat's residual case rests on substrate homology + precaution, not behavioural resemblance, once the slime-mould principle is granted.
+  - Polish: relabelled "Falsification Conditions" → "Evidence That Would Shift the Assessment"; added a framing sentence marking the listed assays as credence-shifters not falsifiers of the boundary's existence (the article concedes the existence-claim is in-principle unsettleable).
+- **Note**: Length-neutral, exemplary tier-discipline and front-loading preserved. Did NOT re-audit citations (already web-verified this pass per task notes).
+- **Published**: yes
 
 ## 2026-06-17T19:16:03+00:00 - pessimistic-review
 - **Status**: Success
