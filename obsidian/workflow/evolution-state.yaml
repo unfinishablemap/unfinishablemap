@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T02:46:43.248538+00:00'
-session_count: 11497
-cycle_position: 9232
+last_updated: '2026-06-17T02:51:16.052599+00:00'
+session_count: 11498
+cycle_position: 9233
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-17T00:23:07.301820+00:00'
@@ -14,7 +14,7 @@ last_runs:
   deep-review: '2026-06-17T02:34:27.843830+00:00'
   tune-system: '2026-06-16T23:06:12.723747+00:00'
   research-voids: '2026-06-16T20:30:25.281239+00:00'
-  coalesce: '2026-06-16T18:33:57.886872+00:00'
+  coalesce: '2026-06-17T02:51:16.052599+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-16T23:01:17.314770+00:00'
   agentic-social: '2026-06-17T02:22:08.721554+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: skip-queue-slot
-  type: skip-queue-slot
-  date: '2026-06-17'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-17'
+  outcome: success
+- task: coalesce
+  type: coalesce
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1002,40 +1002,39 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 0
-  last_replenishment: '2026-06-17T03:10:00+00:00'
+  last_replenishment: '2026-06-17T03:25:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-17 run no.174 (standard mode) - HONEST NO-OP
-    for new-task minting (0 minted), the THIRTEENTH consecutive. AUTHORITATIVE verify
-    from disk via tools.evolution.task_selector against live todo.md (3.23MB): load_todo()
+  current_replenishment_note: '2026-06-17 run no.175 (standard mode) - HONEST NO-OP
+    for new-task minting (0 minted), the FOURTEENTH consecutive. AUTHORITATIVE verify
+    from disk via tools.evolution.task_selector against live todo.md: load_todo()
     then count_p0_p2_tasks(content)=0 AND select_queue_task(content)=None AND get_next_task(content)=None
     (all three re-run live this session, NOT trusted from the prior note). The only
     two open P-headers in Active Tasks are both veto-tagged condense flagships (meaning-of-life.md
     and apex/phenomenal-output-causal-machinery-dissociation.md); the selector correctly
     excludes them, so the queue is genuinely drained. EIGHT SOURCES re-derived from
-    disk this run. CHAINS (S1) 0 - recent_tasks window is replenish/review/social/cycle/skip
-    ONLY; NO expand-topic or research-topic completion to chain from. UNCONSUMED RESEARCH
+    disk this run. CHAINS (S1) 0 - recent_tasks window is replenish/skip/social/review/deep-review/coalesce/commission
+    ONLY (Counter re-derived this run); NO expand-topic or research-topic completion to chain from. UNCONSUMED RESEARCH
     (S2) 0 - 3 newest non-voids notes (all 06-16) RE-CONFIRMED consumed on disk this
     run: chemosensory to topics/chemosensory-consciousness-and-the-interface.md (exists),
     naturalist-relationalism to concepts/naturalist-relationalism.md (exists), IWMT
-    folded into concepts/predictive-processing.md (Safron/IWMT terms grep-confirmed).
+    folded into concepts/predictive-processing.md (Safron/IWMT/Integrated-World-Modeling grep-confirmed present).
     GAPS (S3) 0 - voids 101/100 OVER cap (research-voids skips); topics 268/300 +
-    concepts 261/300 have headroom but gap analysis is documented-exhausted and harvest-research-subjects
+    concepts 261/300 have headroom (counts re-derived from disk: ls minus index files) but gap analysis is documented-exhausted and harvest-research-subjects
     now owns research revival (ran 01:43 today); positions deliberately slow. STALENESS
     (S4) 0 mintable - the cycle deep-review slot (ran 02:34) owns this pool. LENGTH
-    (S6) 0 mintable - 50 hard_warning+ from get_length_warnings but only 3 of the
-    8 criticals are content articles, the other 5 are research notes (not condense
+    (S6) 0 mintable - get_length_warnings(hard+) re-run live this session: 8 criticals
+    but only 3 are content articles, the rest are research notes (not condense
     targets); of the 3, apex/apex-articles.md is the section index (not a regular
     article), apex/phenomenal-output-causal-machinery-dissociation.md is already a
     veto-tagged flagship in Active Tasks, and topics/epistemology-of-convergence-arguments.md
     (6479w) was deep-reviewed length-aware 06-03 (14d, inside ~2wk window). Condensing
     now is sub-ceiling churn w/ regression risk (see unfin-loop-steady-state), NOT
     minted. ORPHANS (S5) 0 - quality.orphaned_files 0. POSITIONS (S7) add 0 / update
-    0 / audit NOT due - last audit 2026-06-09 (8d ago) is inside the 30d window so
-    next ~07-09; register has only 3 entries (below the >=10 audit-cadence floor anyway).
-    APPLIED-APEX (S8) 0 - 2 applied-apex articles exist, latest created 06-16; applied-apex
-    gap detection is deliberately slow (max 1/run). OUTER REVIEWS: a 06-17 chatgpt
-    review is pending (commissioned 02:05) so the outer pipeline is live and will
-    yield its own tasks - no filler warranted. State YAML re-validated post-edit (parses
+    0 / audit NOT due - register has only 3 entries (agency-and-will, quantum-interface,
+    voids-as-evidence), below the >=10 audit-cadence floor; last audit 2026-06-09 inside 30d window.
+    APPLIED-APEX (S8) 0 - applied-apex gap detection is deliberately slow (max 1/run).
+    OUTER REVIEWS: a 06-17 chatgpt review is pending (commissioned 02:05, subject=synesthetic-void)
+    so the outer pipeline is live and will yield its own tasks - no filler warranted. State YAML re-validated post-edit (parses
     OK).'
   replenishment_source_counts_last_run:
     applied_apex: 0
