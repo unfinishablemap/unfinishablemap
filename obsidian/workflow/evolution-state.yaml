@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T16:35:17.977052+00:00'
-session_count: 11618
-cycle_position: 9278
+last_updated: '2026-06-17T16:45:37.877442+00:00'
+session_count: 11619
+cycle_position: 9279
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-17T14:29:42.620202+00:00'
   optimistic-review: '2026-06-17T15:51:35.072381+00:00'
   check-tenets: '2026-06-16T22:54:42.634454+00:00'
   check-links: '2026-06-17T12:39:57.374011+00:00'
-  deep-review: '2026-06-17T15:07:39.188754+00:00'
+  deep-review: '2026-06-17T16:45:37.877442+00:00'
   tune-system: '2026-06-16T23:06:12.723747+00:00'
   research-voids: '2026-06-17T12:42:14.834314+00:00'
   coalesce: '2026-06-17T10:57:40.317757+00:00'
@@ -87,7 +87,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 399
-  reviews_completed: 5385
+  reviews_completed: 5386
   apex_articles: 35
 quality:
   critical_issues: 0
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-17'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-17'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1017,33 +1017,38 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 0
-  last_replenishment: '2026-06-17T16:32:00+00:00'
+  last_replenishment: '2026-06-17T16:50:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-17 run no.218 (standard mode) - MINTED 0 (NO-OP,
-    all 8 sources re-verified dry on disk, not trusting prior note). Expected floor-alternation
-    steady state (unfin-loop-steady-state), NOT a fixable stall. Pickable P0-P2 =
-    0 and pickable P3 = 0: the standing Sleeping-Beauty P3 cited by run no.217 has
-    since been CLOSED (declined, marked done in Active Tasks 2026-06-17 as re-fragmentation
-    risk against the deliberate indexical-knowledge-and-identity coalesce). Below
-    the MIN_QUEUE floor of 3, but zero genuine candidates to mint without duplicating
-    live content. Source-by-source: S1 chain - todays expand-topics (manyism, egocentric-presentism,
-    naturalist-relationalism, chemosensory) all have live articles with integration
-    chains done, no pending cross-reviews. S2 unconsumed-research - all four newest
-    substantive notes consumed by articles created today (manyism, egocentric-presentism,
-    naturalist-relationalism concepts; chemosensory topic); IWMT-2026-06-16 self-declined
-    as already-covered in concepts/predictive-processing.md (confirmed the only article
-    mentioning it). S3 gap-analysis owned by harvest-research-subjects (ran 13:57
-    today). S4 staleness owned by the deep-review cycle slot (ran 15:07 today). S5
-    orphans 0 on disk. S6 length - all 27 site-content over-hard offenders are in
-    the Vetoed bank (filter-theory 33x, quantum-biology 14x, phenomenal-authority
-    8x, predictive-processing 7x and more), DEFERRED-TO-HUMAN (epistemology-of-convergence-arguments
-    6479w crit, edge-states-and-void-probes, laws-and-dispositions), veto-tagged in
-    Active (meaning-of-life, phenomenal-output-causal-machinery-dissociation), open
-    HUMAN LENGTH DECISION (synesthetic-void), or recently deep-reviewed-and-accepted
-    as survey content (all sampled offenders last_deep_review within 2-3 weeks) -
-    no fresh actionable condense candidate. S7 positions audit not due (19 entries
-    across 4 domains, last audit 06-16 inside 30d). S8 applied-apex clusters still
-    too small vs existing applied apex coverage. No todo.md mutation.'
+  current_replenishment_note: '2026-06-17 run no.219 (standard mode) - MINTED 0 (NO-OP,
+    all 8 sources independently re-verified dry on disk, not trusting prior note).
+    Expected floor-alternation steady state (unfin-loop-steady-state), NOT a fixable
+    stall. Active Tasks scanned (lines 38-1063): every non-checkmark header is unpickable
+    by construction - 3x HUMAN LENGTH DECISION (synesthetic-void, two duhem-quine),
+    2x P2 condense veto-tagged (meaning-of-life, phenomenal-output-causal-machinery-dissociation),
+    rest strikethrough/superseded/relocated. Pickable P0-P3 = 0. Below MIN_QUEUE floor
+    of 3 but zero genuine candidates to mint without duplicating live content. Source-by-source
+    on disk: S1 chain - todays expand-topics manyism (4 inbound) and egocentric-presentism
+    (5 inbound) have integration chains done, no pending cross-reviews. S2 unconsumed-research
+    - 4 newest substantive notes consumed (egocentric-presentism, manyism, naturalist-relationalism
+    concepts; chemosensory topic all live); IWMT-2026-06-16 note self-declines in its
+    own body as already-covered in concepts/predictive-processing.md (grep-confirmed
+    the sole file mentioning IWMT). S3 gap-analysis owned by harvest-research-subjects
+    (ran 13:57 today). S4 staleness owned by the deep-review cycle slot (ran 16:45
+    today). S5 orphans - quality.orphaned_files 0 confirmed; my crude slug-scan flagged
+    19 live-section candidates but all 5 spot-checked (self-consciousness 65 refs,
+    godel-measurement-problem-analogy, surprise-and-creativity, phenomenology-of-moral-deliberation,
+    phenomenology-of-belief-revision) have real inbound links from live articles -
+    false positives, no genuine orphan. S6 length - 26 site-content over-hard offenders;
+    worst are vetoed-as-churn (epistemology-of-convergence 6479w crit, born-rule 5106w,
+    filter-theory, machine-question apex 5001w) or human-deferred (synesthetic-void)
+    or recently deep-reviewed-and-accepted survey content (composition-question-rivals
+    reviewed 06-15, consciousness-in-simple-organisms 06-02, valence 06-05, predictive-processing
+    06-01, edge-states 06-05 - all hard_warning under critical) - no fresh actionable
+    condense candidate. Section caps: topics 268/300, concepts 263/300 (headroom exists
+    but no unconsumed research to feed expand-topic). S7 positions audit not due (18-19
+    entries across 4 domains, last audit 06-16 inside 30d). S8 applied-apex clusters
+    still too small vs existing coverage; A5 slot path is assess-first gated. No todo.md
+    mutation.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
