@@ -4,7 +4,7 @@ description: "Human cognitive limits have biological origins: evolution selects 
 created: 2026-01-24
 modified: 2026-05-22
 human_modified: null
-ai_modified: 2026-06-08T12:34:15+00:00
+ai_modified: 2026-06-17T05:28:41+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -94,7 +94,7 @@ The FBT theorem addresses perception, but adaptive limits extend further. Gigere
 
 Cognitive maturation involves systematic tradeoffs — the [[consciousness-interface-development|developmental trajectory of the consciousness-interface]] maps both what is gained and permanently foreclosed.
 
-**Universal phoneme discrimination**: Infants distinguish phonemes from all languages. By 10-12 months, this narrows to native-language phonemes. Japanese infants easily discriminate /r/ and /l/; Japanese adults cannot. **Cross-race face recognition**: At three months, infants discriminate faces across all racial groups equally. By nine months, recognition narrows to own-race faces. **Synesthetic perception**: Infant brains show higher cross-sensory connectivity than adult brains. Adult synesthetes may retain access to perceptual territory most people lose through pruning.
+**Universal phoneme discrimination**: Infants distinguish phonemes from all languages. By 10-12 months, this narrows to native-language phonemes. Japanese infants easily discriminate /r/ and /l/; Japanese adults cannot. **Cross-race face recognition**: At three months, infants discriminate faces across all racial groups equally. By nine months, recognition narrows to own-race faces. **Synesthetic perception**: Infant brains show higher cross-sensory connectivity than adult brains. On the contested neonatal-synesthesia hypothesis — suggestive but not established — adult synesthetes may retain access to perceptual territory most people would then lose through pruning.
 
 The closure is physical. Perineuronal nets encapsulate neurons, stabilising mature circuits and preventing earlier plasticity. Synaptic pruning eliminates roughly 50% of excitatory synapses in prefrontal cortex between ages 10-30. Gopnik characterises childhood as a solution to explore-exploit tensions: children search broadly while adults optimise within narrowed domains.
 
