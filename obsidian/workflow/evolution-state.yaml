@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T15:33:08.553840+00:00'
-session_count: 11607
-cycle_position: 9274
+last_updated: '2026-06-17T15:41:10.316846+00:00'
+session_count: 11608
+cycle_position: 9275
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-17T14:29:42.620202+00:00'
@@ -23,8 +23,8 @@ last_runs:
   commission-claude-review: '2026-06-17T03:06:25.605256+00:00'
   commission-gemini-review: '2026-06-17T04:07:04.664744+00:00'
   refine-draft: '2026-06-17T14:45:16.959795+00:00'
-  research-topic: '2026-06-17T14:56:08.453196+00:00'
-  replenish-queue: '2026-06-17T15:33:08.553840+00:00'
+  research-topic: '2026-06-17T15:41:10.316846+00:00'
+  replenish-queue: '2026-06-17T15:45:00+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-17T15:20:33.879497+00:00'
   add-highlight: '2026-06-17T08:04:22.798348+00:00'
@@ -86,7 +86,7 @@ progress:
   questions_written: 0
   voids_written: 101
   positions_written: 3
-  research_notes: 398
+  research_notes: 399
   reviews_completed: 5384
   apex_articles: 35
 quality:
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: skip-queue-slot
-  type: skip-queue-slot
-  date: '2026-06-17'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-17'
+  outcome: success
+- task: research-topic
+  type: research-topic
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1006,38 +1006,41 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 0
-  p3_tasks: 1
+  p2_tasks: 1
+  p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 1
-  last_replenishment: '2026-06-17T15:35:00+00:00'
+  last_replenishment: '2026-06-17T15:45:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-17 run no.213 (standard mode) - HONEST NO-OP
-    (0 minted), 2nd consecutive. Queue: 0 P0-P2, 1 P3 (Research Manyism and composite
-    subjectivity). All 8 sources dry/blocked: S1 chains (egocentric-presentism expand-topic
-    completed WITH its full integration chain, no cross-review needed); S2 unconsumed-research
-    0 (3 newest notes consumed, IWMT self-declined); S3 gaps owned by harvest; S4
-    staleness owned by deep-review slot; S5 orphans 0; S6 length 0 mintable (criticals
-    blocked/vetoed/human-deferred); S7 positions audit not due; S8 applied-apex clusters
-    too small. Expected steady-state NO-OP (NOT empty-slot stall, NOT permanent starvation):
-    harvest keeps research alive; P3 manyism picks on the next fall-through slot.
-    [Note trimmed from 13653 chars by orchestrator - forks were read-and-extending
-    the prior note''s history narration; structurally healthy, single note.]'
+  current_replenishment_note: '2026-06-17 run no.214 (standard mode) - MINTED 1 (P2
+    expand-topic Manyism/composite-subjectivity). Real floor-restore, NOT a 3rd no-op:
+    since run no.213 the live P3 (Research Manyism) was CONSUMED by /research-topic
+    (research-topic last_run 15:41), so the queue was genuinely 0 P0-P3 pickable (the
+    only ### P[0-9] headers are the two #veto condense tasks). The freshly-written
+    research note obsidian/research/manyism-and-composite-subjectivity-2026-06-17.md
+    is unconsumed (no live/archived article; concepts cap 262/300 headroom) → S1 chain
+    + S2 unconsumed-research (highest source bonus). Other sources confirmed dry: S2
+    other recent notes consumed (naturalist-relationalism, chemosensory have articles;
+    IWMT self-declined - already in concepts/predictive-processing.md); S3 gaps owned
+    by harvest; S4 staleness owned by deep-review slot; S5 orphans 0; S6 length - all
+    site-content offenders human-deferred/#veto/index-hub (research/ notes excluded);
+    S7 positions audit not due; S8 applied-apex clusters too small. Inserted at TOP
+    of Active Tasks to defeat LIFO-starvation.'
   replenishment_source_counts_last_run:
     applied_apex: 0
-    chain: 0
+    chain: 1
     gap_analysis: 0
     length_analysis: 0
     orphan_integration: 0
     positions: 0
     staleness: 0
-    unconsumed_research: 0
+    unconsumed_research: 1
   replenishment_source_counts:
     applied_apex: 0
-    chain: 0
+    chain: 1
     gap_analysis: 0
     length_analysis: 0
     orphan_integration: 0
     positions: 0
     staleness: 0
-    unconsumed_research: 0
+    unconsumed_research: 1
