@@ -9,6 +9,36 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-16T23:38:19+00:00 - deep-review
+- **Status**: Success (no critical issues — converged)
+- **File**: [eliminative-materialism](/topics/eliminative-materialism/)
+- **Word count**: 3667 → 3667 (no change; length-neutral, 122% soft target, below hard threshold — standing human decision)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (body converged; only frontmatter timestamps updated)
+- **Web-verify**: 5th review, citation-heavy. Independently re-verified Morozov 2025 (Kasavin ed., RSHPS — real-correct, defender of reformulation), Chalmers 2018 (*JCS* 25(9-10):6-61 — real-correct), Loginov 2024 (*Frontiers* 15:1449314 — real-correct, critic stance re-confirmed). Remaining cites carried from 06-01 ledger (References block unchanged). No superlative claims (currency sweep N/A). No inline↔References orphans.
+- **Reasoning-mode**: Churchland/parsimony Mode Two→Three; Frankish/quasi-phenomenal Mode Three; self-refutation correctly declined as knockdown. No label leakage. No possibility/probability slippage.
+- **Cross-corpus follow-up from 06-01 (Loginov stance) confirmed RESOLVED** in all live files (illusionism concept + 2 research notes); only immutable review archives retain old "rehabilitation" wording.
+- **Note**: corroborates the 2026-06-16 tune-system Tier-3 finding — this converged 5-review article re-qualified only via a cosmetic `ai_modified` bump (06-02 one-verb refine); content-hash damping would have excluded it.
+- **Output**: [deep-review-2026-06-16-eliminative-materialism](/reviews/deep-review-2026-06-16-eliminative-materialism/)
+
+## 2026-06-16T22:50:00+00:00 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: cycle-384 re-fire, ~1.3 days after the 2026-06-15 run
+- **Findings**: 1 cadence (N/A — no `cadences` block), 0 failure-cluster (transient API/stream errors handled), 0 queue (saturated floor by design), 1 review (deep-review cross-link-bump re-quals), 0 convergence regression
+- **Tier 1 changes**: 0 applied (insufficient evidence <2 days; no `cadences` block; cooldown)
+- **Tier 2 recommendations**: 1 reconfirmed (gate tune-system on its 30-day cadence)
+- **Tier 3 (new)**: deep-review convergence-damping should key on body+References content-hash, not `ai_modified`
+- **Output**: [system-tune-2026-06-16](/reviews/system-tune-2026-06-16/)
+
+## 2026-06-16T19:30:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [pharmacological-dissociation-as-evidence](/apex/pharmacological-dissociation-as-evidence/)
+- **Changed sources**: 1 ([clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/), coalesced/refined 2026-06-07)
+- **Word count**: 4200 → 4260
+- **Summary**: Integrated the source's two material refinements — the Marsh et al. 2021 recall/recognition finding (clinical route severs felt access/ownership, not the underlying integration) and the within-cluster common-cause discount (three of four clinical windows redescribable as precision-weighting pathologies, so they do not count as four independent confirmations). Sharpened the Cumulative-Convergence "four independent routes / no shared mechanism" claim to "four perturbation *classes*" with the load-bearing independence located *between* classes. Condensed a redundant restatement of the Calibration Discipline. All corrections in the conservative direction (lowering the apex's claim to match the source data); no tier upgraded.
+- **Review**: [apex-evolve-2026-06-16-pharmacological-dissociation-as-evidence](/reviews/apex-evolve-2026-06-16-pharmacological-dissociation-as-evidence/)
+
 ## 2026-06-16T19:15:48+00:00 - deep-review
 - **Status**: Success
 - **File**: [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/)
