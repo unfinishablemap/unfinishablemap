@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T14:38:41.083554+00:00'
-session_count: 11598
-cycle_position: 9270
+last_updated: '2026-06-17T14:45:16.959795+00:00'
+session_count: 11599
+cycle_position: 9271
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-17T14:29:42.620202+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-06-17T02:05:46.036515+00:00'
   commission-claude-review: '2026-06-17T03:06:25.605256+00:00'
   commission-gemini-review: '2026-06-17T04:07:04.664744+00:00'
-  refine-draft: '2026-06-17T07:09:32.230566+00:00'
+  refine-draft: '2026-06-17T14:45:16.959795+00:00'
   research-topic: '2026-06-16T14:05:29.074973+00:00'
   replenish-queue: '2026-06-17T14:38:41.083554+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-voids
-  type: research-voids
-  date: '2026-06-17'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-17'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1006,46 +1006,43 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2
+  p2_tasks: 1
   p3_tasks: 1
   needs_replenishment: false
-  loop_pickable_open: 2
-  last_replenishment: '2026-06-17T14:40:00+00:00'
+  loop_pickable_open: 1
+  last_replenishment: '2026-06-17T14:50:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-17 run no.209 (standard mode) - HONEST NO-OP
-    (0 minted), the FORTY-EIGHTH consecutive. CHANGE SINCE no.208: the queue GREW
-    to 2 pickable P0-P2 - a new P2 refine-draft surfaced from todays pessimistic-review
-    (ran 14:29). INDEPENDENT re-verify from disk this run via tools.evolution.task_selector
-    against live todo.md: count_p0_p2_tasks=2 AND select_queue_task returns P2 "Fix
-    three citation defects in topics/eliminative-materialism.md" (refine-draft). Active
-    Tasks headers (3 total, all pending, none blocked): P2 eliminative-materialism
-    citation-fix (web-verified pessimistic finding - dangling Dennett-1978, wrong-publisher
-    Toon-2023 Routledge->OUP, misattributed Searle quote 1992-Rediscovery vs 1995-NYRB;
-    legitimate actionable task, NOT a fabricated/already-fixed flag - notes read and
-    confirmed real), P2 Research Egocentric presentism (research-topic, harvest-minted
-    optimistic-2026-06-07, Caspar Hare, tenet-4), P3 Research Manyism and composite
-    subjectivity (research-topic, harvest-minted, Roelofs manyism). 2 pickable P0-P2
-    is below the MIN_QUEUE floor of 3, but EIGHT SOURCES re-derived live this run
-    are all dry/blocked. CHAINS (S1) 0 - recent_tasks last-20 has 0 expand-topic and
-    0 research-topic COMPLETIONS (the 2 research-topics are pending not completed,
-    no successors yet). UNCONSUMED RESEARCH (S2) 0 - 398 notes on disk; the 2 harvest
-    subjects (egocentric-presentism, manyism-and-composite-subjectivity) still have
-    NO research notes on disk (verified - they ARE the pending research-topic tasks),
-    nothing to convert. GAPS (S3) 0 - voids 101/100 OVER cap; topics 268/300 and concepts
-    261/300 have headroom but gap analysis documented-exhausted (harvest-research-subjects
+  current_replenishment_note: '2026-06-17 run no.210 (standard mode) - HONEST NO-OP
+    (0 minted), the FORTY-NINTH consecutive. CHANGE SINCE no.209: the P2 refine-draft
+    "Fix three citation defects in topics/eliminative-materialism.md" COMPLETED (refine-draft
+    last_run 14:45), dropping pickable P0-P2 from 2 back to 1. INDEPENDENT re-verify
+    from disk this run via tools.evolution.task_selector against live todo.md: count_p0_p2_tasks=1
+    AND select_queue_task returns P2 "Research Egocentric presentism" (research-topic).
+    Active Tasks pickable headers (2 total open, none blocked): P2 Research Egocentric
+    presentism (research-topic, harvest-minted optimistic-2026-06-07, Caspar Hare,
+    tenet-4), P3 Research Manyism and composite subjectivity (research-topic, harvest-minted,
+    Roelofs manyism). 1 pickable P0-P2 is below the MIN_QUEUE floor of 3, but all EIGHT
+    SOURCES re-derived live this run are dry/blocked. CHAINS (S1) 0 - recent_tasks
+    last-20 has 0 expand-topic and 0 research-topic COMPLETIONS (the 2 research-topics
+    are PENDING not completed, no successors yet). UNCONSUMED RESEARCH (S2) 0 - 398
+    notes on disk; the 2 harvest subjects (egocentric-presentism, manyism-and-composite-subjectivity)
+    still have NO research notes on disk (verified - they ARE the pending research-topic
+    tasks), nothing to convert. GAPS (S3) 0 - voids 101/100 OVER cap; topics 268/300
+    and concepts 261/300 have headroom but gap analysis documented-exhausted (harvest-research-subjects
     owns research revival by design). STALENESS (S4) 0 mintable - cycle deep-review
-    slot owns this pool (ran 13:17). LENGTH (S6) 0 mintable - get_length_warnings
-    live: 27 hard+ non-research; 3 criticals are blocked (topics/epistemology-of-convergence-arguments.md
+    slot owns this pool (ran 13:17). LENGTH (S6) 0 mintable - get_length_warnings live:
+    27 hard+ non-research; 3 criticals are blocked (topics/epistemology-of-convergence-arguments.md
     6479w DIVERTED-TO-HUMAN, apex/apex-articles.md 7238w is the apex HUB/index, apex/phenomenal-output-causal-machinery-dissociation.md
     6832w VETOED); the 24 hard_warning articles are all in the Vetoed condense bank
-    (689 condense mentions in todo.md; spot-checked born-rule/clinical-dissociation/argument-from-reason/machine-question/time-collapse
-    all present) - filtered per skill Vetoed rule. ORPHANS (S5) 0 - quality.orphaned_files
+    (spot-checked edge-states-and-void-probes/born-rule/composition-question-rivals/quantum-interface
+    all present in the Vetoed section) - filtered per skill Vetoed rule; voids/synesthetic-void.md
+    3578w is under an OPEN HUMAN LENGTH DECISION (not mintable). ORPHANS (S5) 0 - quality.orphaned_files
     0. POSITIONS (S7) add 0 / update 0 / audit NOT due - positions 3/80, below the
     10-entry audit threshold, maintained today (positions-evolve 00:41). APPLIED-APEX
     (S8) 0 - deliberately slow, only 3 positions total so clusters too small. Expected
     steady-state NO-OP - NOT the fixed empty-slot stall and NOT permanent starvation:
-    the queue has 2 pickable tasks and harvest keeps the research pipeline alive.
-    State YAML re-validated post-edit.'
+    the queue has 1 pickable P0-P2 task plus 1 P3, and harvest keeps the research pipeline
+    alive. State YAML re-validated post-edit.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
