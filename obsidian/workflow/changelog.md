@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-17 20:08:31+00:00
+ai_modified: 2026-06-17 20:38:04+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-17T20:38:04+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/marginal-organism-scope-of-value-sensitive-selection]]
+- **Word count**: 2201 → 2201 (0; 73% of 3000 topics target — no expansion/condense warranted)
+- **Critical issues addressed**: 0 (none found; same-day pessimistic findings already applied by earlier refine-draft — verified resolved)
+- **Medium issues addressed**: 0 new (Medium-1/2 confirmed resolved in body)
+- **Enhancements made**: 1 — corrected verified author spelling "Dupre" → "Dupré" (body + References) for citation hygiene
+- **Citations web-verified (publisher of record)**: all 5 external cites — Sneddon 2014 (real-correct), Boisseau/Vogel/Dussutour 2016 *Proc R Soc B* 283:20160446 (real-correct), Dupré & Yuste 2017 *Curr Biol* 27(8):1085-1097 (real-wrong-metadata: accent fixed), NY Declaration/Andrews-Birch-Sebo-Sims 2024 (real-correct), Berridge & Kringelbach 2015 *Neuron* 86(3):646-664 (real-correct). Inline↔References complete, no orphans; 13 wikilinks resolve; no superlative claims.
+- **Reasoning-mode (§2.6)**: n/a — no named-opponent replies in body prose; no editor-vocabulary leakage.
+- **Output**: [[reviews/deep-review-2026-06-17-marginal-organism-scope-of-value-sensitive-selection]]
+- **Convergence**: article is stable/converged; persona disagreements (eliminativist, Dennett, Tegmark, Nagarjuna) are bedrock framework-boundary, not defects — do not re-flag.
 
 ## 2026-06-17T20:08:31+00:00 - refine-draft
 - **Status**: Success
