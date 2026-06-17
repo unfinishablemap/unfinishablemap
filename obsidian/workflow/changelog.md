@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-17 13:15:59+00:00
+ai_modified: 2026-06-17 14:20:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-17T14:20:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/eliminative-materialism.md (3710w; deep-reviewed 2026-06-16, modified 2026-06-17)
+- **Findings**: 2 Medium citation defects — (1) dangling Dennett 1978 "morphine argument" cite with no References entry; (2) wrong publisher for Toon 2023 (Routledge → Oxford University Press, web-verified). Plus 1 attribution-precision watch-item (Toon mental-fictionalism mis-sort) and minor notes (soft-length warning 3710/3000; 3 orphan references). Discipline audit clean: no label-leakage, no boundary-substitution, altered-state audit N/A, no equivocation. 8/9 citations verified clean.
+- **Output**: [[reviews/pessimistic-2026-06-17-eliminative-materialism]]
+- **Tasks added**: P2 refine-draft (fix both citation defects)
 
 ## 2026-06-17T13:15:59+00:00 - deep-review
 - **Status**: Success
