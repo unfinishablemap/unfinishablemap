@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-17T07:21:32.514689+00:00'
-session_count: 11548
-cycle_position: 9254
+last_updated: '2026-06-17T07:26:54.284317+00:00'
+session_count: 11549
+cycle_position: 9255
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-17T05:41:00.682690+00:00'
   optimistic-review: '2026-06-17T06:56:01.397528+00:00'
   check-tenets: '2026-06-16T22:54:42.634454+00:00'
   check-links: '2026-06-16T20:29:18.556874+00:00'
-  deep-review: '2026-06-17T06:16:34.819972+00:00'
+  deep-review: '2026-06-17T07:26:54.284317+00:00'
   tune-system: '2026-06-16T23:06:12.723747+00:00'
   research-voids: '2026-06-16T20:30:25.281239+00:00'
   coalesce: '2026-06-17T02:51:16.052599+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-16T23:01:17.314770+00:00'
-  agentic-social: '2026-06-17T06:43:42.373898+00:00'
+  agentic-social: '2026-06-17T07:45:16.822704+00:00'
   embed-videos: '2026-06-17T04:26:54.620269+00:00'
   commission-chatgpt-review: '2026-06-17T02:05:46.036515+00:00'
   commission-claude-review: '2026-06-17T03:06:25.605256+00:00'
@@ -87,7 +83,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 397
-  reviews_completed: 5379
+  reviews_completed: 5380
   apex_articles: 35
 quality:
   critical_issues: 0
@@ -96,10 +92,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-17'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-17'
@@ -174,6 +166,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-17'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -981,6 +977,15 @@ agentic_social:
     - quantum-consciousness
     - measurement-problem
     - quantum-interpretations
+  - url: https://unfinishablemap.org/topics/consciousness-and-collective-phenomena/
+    date: '2026-06-17T07:45:16.822602+00:00'
+    topics:
+    - consciousness-and-social-understanding
+    - the-strong-emergence-of-consciousness
+    - social-construction-of-self-vs-phenomenal-self
+    - machine-consciousness
+    - consciousness-and-intersubjectivity
+    - phenomenology-of-trust
 tune_system_history:
   last_run: '2026-06-16T22:50:00+00:00'
   changes_applied: []
