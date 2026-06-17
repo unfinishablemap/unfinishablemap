@@ -5,6 +5,18 @@ ai_modified: 2026-06-17 12:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-17T00:55:13+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/carrolls-regress]]
+- **Word count**: 2173 → 2173 (+0; one-digit citation-year fix only)
+- **Critical issues addressed**: 1 (family-resolution citation error — References #6 Chan & Nes *Inference and Consciousness* year 2018 → 2019, confirmed against Routledge/Taylor & Francis DOI 10.4324/9781315150703 1st-ed; the canonical 2019 form already existed in sibling [[voids/inference-void]] but was never propagated here. Also corrected the source research note `research/voids-inference-void-2026-04-26.md`, which still carried both the wrong year and the superseded wrong-author "Boghossian, Paul, et al." form.)
+- **Medium issues addressed**: 0 (the `philosophy-of-mind`-under-`topics:` cosmetic quirk left as-is per prior-review rationale)
+- **Enhancements made**: 0 (5th review; triggered by a 2026-06-05 refine-draft that added ~537 words — that new content reviewed and found sound)
+- **§2.4 web-verify**: full per-cite ledger in the archive; Carroll/Engel/Polanyi/Wittgenstein/Frege/Gödel carried from prior live-verify, Brandom 1994 Harvard UP and SEP rule-following entry live-verified this pass, Chan & Nes fixed. No fabricated cites, no orphans, no superlative claims.
+- **§2.6 reasoning-mode**: engagement with Brandom — Mixed (in-framework "the conferral is itself a taking, regress recurs without appeal to individual priority" + honest bedrock residue on the contested-priority reading); engagement with the deflationist — Mode One, scoped to the agent-act reading with the formal-calculus reading conceded. No label leakage.
+- **§2 calibration**: no possibility/probability slippage — the rewritten Dualism section rests on the contested bridge not the regress, concedes the unformalised-but-physical reading, and keeps the physicalist reading live; tenet-coherence never dressed as evidence elevation.
+- **Output**: [[reviews/deep-review-2026-06-17-carrolls-regress]]
+
 ## 2026-06-17T12:00:00+00:00 - positions-evolve (update P-A2)
 - **Status**: Success
 - **File**: [[positions/agency-and-will]] (P-A2, "Bears on" note)

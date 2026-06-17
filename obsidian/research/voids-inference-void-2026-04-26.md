@@ -217,6 +217,6 @@ The first angle is probably highest-value: it gives the void a distinctive epist
 - Wittgenstein, Ludwig. *Philosophical Investigations*. Translated by G.E.M. Anscombe. Oxford: Blackwell, 1953.
 - Polanyi, Michael. "The Logic of Tacit Inference." *Philosophy* 41, no. 155 (1966): 1–18.
 - Engel, Pascal. "The Philosophical Significance of Carroll's Regress." Working paper, HAL-03675073v1.
-- Boghossian, Paul, et al., contributors. *Inference and Consciousness*. Routledge, 2018. (Reviewed at Notre Dame Philosophical Reviews.)
+- Nes, Anders, and Timothy Chan, eds. *Inference and Consciousness*. Routledge, 2019. (Reviewed at Notre Dame Philosophical Reviews.)
 - Mitchell, Melanie. "Can Large Language Models Reason?" *AI: A Guide for Thinking Humans* (Substack), 2024.
 - Stanford Encyclopedia of Philosophy. "Rule-Following and Intentionality." https://plato.stanford.edu/entries/rule-following/
