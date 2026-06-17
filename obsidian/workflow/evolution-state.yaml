@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T11:55:39.255196+00:00'
-session_count: 11570
+last_updated: '2026-06-17T12:00:54.880643+00:00'
+session_count: 11571
 cycle_position: 9262
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-17T04:07:04.664744+00:00'
   refine-draft: '2026-06-17T07:09:32.230566+00:00'
   research-topic: '2026-06-16T14:05:29.074973+00:00'
-  replenish-queue: '2026-06-17T11:47:24.910845+00:00'
+  replenish-queue: '2026-06-17T12:00:54.880643+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-17T08:04:22.798348+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-06-17'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-17'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1021,8 +1021,8 @@ queue_status:
     HARD-veto human-blocked flagship - plus non-P HUMAN LENGTH DECISION lines (incl
     a new 2026-06-17 voids/synesthetic-void.md 3578w decision) and all-done ticked
     entries; selector keys off P-headers, finds 0 pickable). EIGHT SOURCES re-derived
-    live from disk this run, all dry/blocked. CHAINS (S1) 0 - recent_tasks window shows
-    0 expand-topic and 0 research-topic (replenish/skip-slot/social/add-highlight/model-fallback/coalesce/deep-review/harvest
+    live from disk this run, all dry/blocked. CHAINS (S1) 0 - recent_tasks window
+    shows 0 expand-topic and 0 research-topic (replenish/skip-slot/social/add-highlight/model-fallback/coalesce/deep-review/harvest
     only); pool dry. UNCONSUMED RESEARCH (S2) 0 - 3 newest non-voids notes (all 06-16)
     re-confirmed consumed from disk: naturalist-relationalism into concepts/naturalist-relationalism.md
     (exists), chemosensory into topics/chemosensory-consciousness-and-the-interface.md
@@ -1032,8 +1032,8 @@ queue_status:
     positions 3/80 deliberately slow. STALENESS (S4) 0 mintable - cycle deep-review
     slot owns this pool (deep-review ran today 11:32). LENGTH (S6) 0 mintable - get_length_warnings
     re-run live: 51 hard+ warnings, 8 critical but 5 are research notes (excluded)
-    and apex/apex-articles.md 7238w is the apex HUB/index not a real article; the two
-    real-article criticals are both documented human-blocked flagships: topics/epistemology-of-convergence-arguments.md
+    and apex/apex-articles.md 7238w is the apex HUB/index not a real article; the
+    two real-article criticals are both documented human-blocked flagships: topics/epistemology-of-convergence-arguments.md
     6479w (canonical HUMAN LENGTH DECISION, 4 prior condenses failed) and apex/phenomenal-output-causal-machinery-dissociation.md
     6832w (veto 2026-05-29, human structural-split pending - this is the very veto
     header sitting in Active). The ~25 hard_warning topic/concept articles are all
