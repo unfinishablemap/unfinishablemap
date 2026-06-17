@@ -1,5 +1,9 @@
-last_updated: '2026-06-17T14:29:42.620202+00:00'
-session_count: 11596
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-17T14:34:05.953011+00:00'
+session_count: 11597
 cycle_position: 9270
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-06-17T10:57:40.317757+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-16T23:01:17.314770+00:00'
-  agentic-social: '2026-06-17T14:32:26.085510+00:00'
+  agentic-social: '2026-06-17T14:34:05.953011+00:00'
   embed-videos: '2026-06-17T12:32:49.002667+00:00'
   commission-chatgpt-review: '2026-06-17T02:05:46.036515+00:00'
   commission-claude-review: '2026-06-17T03:06:25.605256+00:00'
@@ -92,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: embed-videos
-  type: embed-videos
-  date: '2026-06-17'
-  outcome: success
 - task: check-links
   type: check-links
   date: '2026-06-17'
@@ -170,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: pessimistic-review
   type: pessimistic-review
+  date: '2026-06-17'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1002,44 +1006,46 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1
+  p2_tasks: 2
   p3_tasks: 1
   needs_replenishment: false
-  loop_pickable_open: 1
-  last_replenishment: '2026-06-17T14:05:00+00:00'
+  loop_pickable_open: 2
+  last_replenishment: '2026-06-17T14:40:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-17 run no.208 (standard mode) - HONEST NO-OP
-    (0 minted), the FORTY-SEVENTH consecutive. CHANGE SINCE no.207: harvest-research-subjects
-    (ran 13:57) revived the research pipeline by minting 2 research-topic tasks, so
-    the queue is NO LONGER empty. INDEPENDENT re-verify from disk this run via tools.evolution.task_selector
-    against live todo.md: count_p0_p2_tasks=1 AND select_queue_task returns P2 "Research
-    Egocentric presentism" (research-topic, harvest-minted from optimistic-2026-06-07,
-    Caspar Hare egocentric presentism, tenet-4 relevant). Active Tasks headers: P2
-    egocentric-presentism (pickable), P3 manyism-and-composite-subjectivity (harvest-minted,
-    Roelofs manyism), + 2 #veto condense tasks (meaning-of-life soft-veto same-day-churn,
-    phenomenal-output...dissociation flagship-vetoed) which the selector correctly
-    excludes. 1 pickable P0-P2 is below the MIN_QUEUE floor of 3, but EIGHT SOURCES
-    re-derived live this run are all dry/blocked. CHAINS (S1) 0 - recent_tasks (last
-    20) has 0 expand-topic and 0 research-topic COMPLETIONS (the 2 new research-topics
-    are pending, not completed, so no successors yet); chain pool dry. UNCONSUMED
-    RESEARCH (S2) 0 - no.207 re-confirmed the 3 newest notes consumed; the 2 harvest
-    subjects (egocentric-presentism, manyism-and-composite-subjectivity) have NO research
-    notes on disk yet (verified - they ARE the pending research-topic tasks), so nothing
-    to convert. GAPS (S3) 0 - voids 101/100 OVER cap; topics 268/300 and concepts
+  current_replenishment_note: '2026-06-17 run no.209 (standard mode) - HONEST NO-OP
+    (0 minted), the FORTY-EIGHTH consecutive. CHANGE SINCE no.208: the queue GREW
+    to 2 pickable P0-P2 - a new P2 refine-draft surfaced from todays pessimistic-review
+    (ran 14:29). INDEPENDENT re-verify from disk this run via tools.evolution.task_selector
+    against live todo.md: count_p0_p2_tasks=2 AND select_queue_task returns P2 "Fix
+    three citation defects in topics/eliminative-materialism.md" (refine-draft). Active
+    Tasks headers (3 total, all pending, none blocked): P2 eliminative-materialism
+    citation-fix (web-verified pessimistic finding - dangling Dennett-1978, wrong-publisher
+    Toon-2023 Routledge->OUP, misattributed Searle quote 1992-Rediscovery vs 1995-NYRB;
+    legitimate actionable task, NOT a fabricated/already-fixed flag - notes read and
+    confirmed real), P2 Research Egocentric presentism (research-topic, harvest-minted
+    optimistic-2026-06-07, Caspar Hare, tenet-4), P3 Research Manyism and composite
+    subjectivity (research-topic, harvest-minted, Roelofs manyism). 2 pickable P0-P2
+    is below the MIN_QUEUE floor of 3, but EIGHT SOURCES re-derived live this run are
+    all dry/blocked. CHAINS (S1) 0 - recent_tasks last-20 has 0 expand-topic and 0
+    research-topic COMPLETIONS (the 2 research-topics are pending not completed, no
+    successors yet). UNCONSUMED RESEARCH (S2) 0 - 398 notes on disk; the 2 harvest
+    subjects (egocentric-presentism, manyism-and-composite-subjectivity) still have
+    NO research notes on disk (verified - they ARE the pending research-topic tasks),
+    nothing to convert. GAPS (S3) 0 - voids 101/100 OVER cap; topics 268/300 and concepts
     261/300 have headroom but gap analysis documented-exhausted (harvest-research-subjects
-    now owns research revival, exactly as designed). STALENESS (S4) 0 mintable - cycle
-    deep-review slot owns this pool (ran 13:17). LENGTH (S6) 0 mintable - get_length_warnings
-    live: 51 hard+, 8 critical but 5 are research notes (excluded) and apex/apex-articles.md
-    7238w is the apex HUB/index; the 2 real-article criticals are documented human-blocked
-    flagships (topics/epistemology-of-convergence-arguments.md 6479w DIVERTED-TO-HUMAN;
-    apex/phenomenal-output-causal-machinery-dissociation.md 6832w VETOED). Remaining
-    hard_warning articles are in the Vetoed condense bank - filtered per skill Vetoed
-    rule. ORPHANS (S5) 0 - quality.orphaned_files 0. POSITIONS (S7) add 0 / update
-    0 / audit NOT due - positions 3/80, below the 10-entry audit threshold, maintained
-    today (positions-evolve 00:41). APPLIED-APEX (S8) 0 - deliberately slow, clusters
-    too small. Expected steady-state NO-OP - NOT the fixed empty-slot stall and NOT
-    permanent starvation: the queue has a pickable P2 and harvest keeps the research
-    pipeline alive. State YAML re-validated post-edit.'
+    owns research revival by design). STALENESS (S4) 0 mintable - cycle deep-review
+    slot owns this pool (ran 13:17). LENGTH (S6) 0 mintable - get_length_warnings live:
+    27 hard+ non-research; 3 criticals are blocked (topics/epistemology-of-convergence-arguments.md
+    6479w DIVERTED-TO-HUMAN, apex/apex-articles.md 7238w is the apex HUB/index, apex/phenomenal-output-causal-machinery-dissociation.md
+    6832w VETOED); the 24 hard_warning articles are all in the Vetoed condense bank
+    (689 condense mentions in todo.md; spot-checked born-rule/clinical-dissociation/argument-from-reason/machine-question/time-collapse
+    all present) - filtered per skill Vetoed rule. ORPHANS (S5) 0 - quality.orphaned_files
+    0. POSITIONS (S7) add 0 / update 0 / audit NOT due - positions 3/80, below the
+    10-entry audit threshold, maintained today (positions-evolve 00:41). APPLIED-APEX
+    (S8) 0 - deliberately slow, only 3 positions total so clusters too small. Expected
+    steady-state NO-OP - NOT the fixed empty-slot stall and NOT permanent starvation:
+    the queue has 2 pickable tasks and harvest keeps the research pipeline alive. State
+    YAML re-validated post-edit.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
