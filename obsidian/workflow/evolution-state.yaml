@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T21:27:11.777261+00:00'
-session_count: 11676
-cycle_position: 9300
+last_updated: '2026-06-17T21:30:12.183932+00:00'
+session_count: 11677
+cycle_position: 9301
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-17T19:57:34.449468+00:00'
@@ -22,9 +22,9 @@ last_runs:
   commission-chatgpt-review: '2026-06-17T02:05:46.036515+00:00'
   commission-claude-review: '2026-06-17T03:06:25.605256+00:00'
   commission-gemini-review: '2026-06-17T04:07:04.664744+00:00'
-  refine-draft: '2026-06-17T20:10:09.820635+00:00'
+  refine-draft: '2026-06-17T21:30:12.183932+00:00'
   research-topic: '2026-06-17T15:41:10.316846+00:00'
-  replenish-queue: '2026-06-17T21:27:11.777261+00:00'
+  replenish-queue: '2026-06-17T21:33:00+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-17T16:28:19.568953+00:00'
   add-highlight: '2026-06-17T08:04:22.798348+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-17'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-17'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1011,38 +1011,41 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 0
-  p3_tasks: 2
+  p3_tasks: 1
   needs_replenishment: false
-  loop_pickable_open: 2
-  last_replenishment: '2026-06-17T21:30:00+00:00'
+  loop_pickable_open: 1
+  last_replenishment: '2026-06-17T21:33:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-17 run no.243 (standard mode) - HONEST NO-OP
-    (0 P0-P2 minted), reconfirms no.242. Queue is NOT empty: the 21:12 optimistic-review
-    supplied 2 pickable P3 refine-draft tasks (quantum-holism lead-verb calibration;
-    3 physics-cluster cross-links) and both remain the only loop-pickable-open tasks
-    (loop_pickable_open 2). Floor still reads P0-P2=0 so replenish re-fires by design
-    ([[unfin_loop_steady_state]]). S2 re-verified: 3 newest research notes (egocentric-presentism
-    + naturalist-relationalism + manyism) all have live articles; the IWMT note (2026-06-16)
-    is CONSUMED into concepts/predictive-processing.md and its flagged I-JEPA primitive-world-model
-    misattribution is ALREADY fixed live (article ai_modified 14:14 post-dates note
-    14:10, line 101 now attributes to the broader JEPA/LeCun programme) -> minting
-    an IWMT task would be a stale-flag false positive ([[out-of-scope-spillover-flags-stale]]);
-    unconsumed-research 0. S1 chains 0 (expand 16:28 / research 15:41 already produced
-    articles). S3 gaps owned by harvest (19:59); S4 staleness owned by deep-review
-    (20:40); S5 orphans 0. S6 length: 26 content articles over-hard but 0 CLEAN-mintable
-    -- each is human-deferred (epistemology-of-convergence-arguments split, phenomenal-output
-    split), vetoed (born-rule, phenomenal-output condense), recently condensed (epistemic-advantages,
-    metaphysics-of-laws, time-collapse), or already length-assessed/accepted-as-survey
-    (memory-channel-interface-evidence deep-reviewed 06-16, composition-question-rivals
-    06-15); auto-condensing would regress protected calibration ([[human-decision-task-mispicked-as-refine]]).
-    S7 positions audit not due (ran 06-09, ~18 entries inside 30d). S8 applied-apex
-    deferred-to-human 06-16. Caps verified on disk: topics 267/300, concepts 263/300
-    (headroom but no research feed), voids 101/100 over, positions 3 domain files.
-    Expected floor-alternation; harvest + outer-review refill research. OBSERVED:
-    Active Tasks section is bloated (~137 ### headers, ~1040 lines, 3.1MB file) --
-    only 2 are genuinely open; the rest are completed/resolved/relocated/deferred
-    cruft never moved below the Completed header ([[orphaned-pending-tasks-below-completed]]
-    sibling). Tidy-sweep candidate for a future run; not minting tasks for it.'
+  current_replenishment_note: '2026-06-17 run no.244 (standard mode) - HONEST NO-OP
+    (0 P0-P2 minted), reconfirms no.243/no.242. Queue is NOT empty but is thinner than
+    no.243 reported: of the 2 P3 refine-draft tasks the 21:12 optimistic-review supplied,
+    the second (reciprocate links from worked-example concept pages) was COMPLETED OUT-OF-BAND
+    since no.243 and is now checkmark-prefixed/non-pickable ([[p3-only-floor-preemption-starves]]
+    recovery; verified ALREADY-SATISFIED no-op, all 4 targets already link back). Exactly
+    1 genuinely loop-pickable open task remains (loop_pickable_open 1, was 2): the P3
+    "Add three cluster cross-links flagged by optimistic review 2026-06-17d" (physics-interface
+    cluster, 3 missing edges from the quantum-measurement-and-consciousness hub). Floor
+    still reads P0-P2=0 so replenish re-fires by design ([[unfin_loop_steady_state]]).
+    S2 re-verified on disk: 4 newest research notes (egocentric-presentism + manyism
+    + naturalist-relationalism + chemosensory) ALL have live articles (concepts/egocentric-presentism,
+    concepts/manyism, concepts/naturalist-relationalism, topics/chemosensory-consciousness-and-the-interface);
+    IWMT note stays CONSUMED into concepts/predictive-processing.md; unconsumed-research 0.
+    S1 chains 0 (expand 16:28 / research 15:41 already produced articles). S3 gaps owned
+    by harvest (19:59); S4 staleness owned by deep-review (20:40); S5 orphans 0. S6 length:
+    25 content articles over-hard but 0 CLEAN-mintable -- each is human-deferred (epistemology-of-convergence-arguments
+    6479w split, born-rule 5106w protected calibration), vetoed (phenomenal-output 6832w
+    + meaning-of-life condense), recently-condensed (apex/machine-question 5001w = 1w over
+    hard, condensed 05-29, re-accreting cross-link length per [[hub-articles-accrete-crosslink-length]]),
+    or accepted-as-survey (memory-channel-interface-evidence deep-reviewed 06-16); auto-condensing
+    would regress protected calibration ([[human-decision-task-mispicked-as-refine]]). S7
+    positions audit not due (ran 06-09, ~18 entries inside 30d; positions-evolve last 00:41).
+    S8 applied-apex deferred-to-human 06-16. Caps verified on disk: topics 268/300, concepts
+    263/300 (headroom but no research feed), voids 101/100 over, positions 3 domain files.
+    Expected floor-alternation; harvest + outer-review refill research. OBSERVED (carry-over
+    from no.243): Active Tasks section still bloated (~137 ### headers / ~1030 lines / 3.1MB)
+    -- only 1 genuinely open; rest is completed/resolved/relocated/deferred cruft never moved
+    below the Completed header ([[orphaned-pending-tasks-below-completed]] sibling). Tidy-sweep
+    candidate for a future run; not minting tasks for it.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
