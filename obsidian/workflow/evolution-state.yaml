@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T01:34:39.075752+00:00'
-session_count: 11482
+last_updated: '2026-06-17T01:41:54.027811+00:00'
+session_count: 11483
 cycle_position: 9228
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-16T04:14:32.657292+00:00'
   refine-draft: '2026-06-17T00:30:28.513636+00:00'
   research-topic: '2026-06-16T14:05:29.074973+00:00'
-  replenish-queue: '2026-06-17T01:31:07.102121+00:00'
+  replenish-queue: '2026-06-17T01:41:54.027811+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-16T08:06:09.164774+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-06-16'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-17'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1001,19 +1001,19 @@ queue_status:
     disk via tools.evolution.task_selector: count_p0_p2_tasks=0 AND select_queue_task=None.
     CHANGE since no.166 (01:30): the lone P3 it flagged (optimistic-review backlink
     task, todo line 39) has since been EXECUTED out-of-band and closed as ALREADY-SATISFIED
-    no-op (all four worked-example concept pages already linked back to the
-    architecture-vs-significance discipline; the optimistic premise was a stale flag).
-    Also closed out-of-band: the two pessimistic/positions cascade tasks (P-A2 common-root
-    vs mutual-confirmation distinction + the tenets-page harmonisation). So the queue
-    is now FULLY DRAINED (0 open headers in Active; all 19 carry checkmark/DEFERRED
-    prefixes), no longer the p3-only-floor-preemption case from no.166. EIGHT SOURCES
-    re-derived from disk: CHAINS (S1) 0 - task_chains state empty; last expand-topic
-    / research-topic successors all landed. UNCONSUMED RESEARCH (S2) 0 - 398 notes;
-    3 newest (all 06-16) re-confirmed consumed (chemosensory->topics/chemosensory-consciousness-and-the-interface.md,
+    no-op (all four worked-example concept pages already linked back to the architecture-vs-significance
+    discipline; the optimistic premise was a stale flag). Also closed out-of-band:
+    the two pessimistic/positions cascade tasks (P-A2 common-root vs mutual-confirmation
+    distinction + the tenets-page harmonisation). So the queue is now FULLY DRAINED
+    (0 open headers in Active; all 19 carry checkmark/DEFERRED prefixes), no longer
+    the p3-only-floor-preemption case from no.166. EIGHT SOURCES re-derived from disk:
+    CHAINS (S1) 0 - task_chains state empty; last expand-topic / research-topic successors
+    all landed. UNCONSUMED RESEARCH (S2) 0 - 398 notes; 3 newest (all 06-16) re-confirmed
+    consumed (chemosensory->topics/chemosensory-consciousness-and-the-interface.md,
     naturalist-relationalism->concepts/naturalist-relationalism.md, IWMT folded into
     concepts/predictive-processing.md with Safron present); a loose-slug backlog scan
-    flagged 76 candidates but spot-checking each confirmed false positives (slug
-    rewording: qbism->qbism, born-rule-derivation folded into born-rule-and-the-consciousness-interface,
+    flagged 76 candidates but spot-checking each confirmed false positives (slug rewording:
+    qbism->qbism, born-rule-derivation folded into born-rule-and-the-consciousness-interface,
     downward-causation->mental-causation-and-downward-causation, buddhist-meaning->buddhist-perspectives-on-meaning,
     quantum-randomness-token-sampling->quantum-randomness-channel-llm-consciousness)
     - backlog genuinely exhausted. GAPS (S3) 0 - voids 101/100 over cap; topics 268/300
@@ -1026,16 +1026,15 @@ queue_status:
     + prior condense vetoes); the ~24 hard_warning content offenders are all under
     critical, recently-touched (06-13..06-16 active review/churn) or accept-as-survey,
     none mintable without conflicting with in-flight work or risking calibration regression;
-    research/ length entries are source notes, not condensed. ORPHANS (S5) 0 -
-    quality.orphaned_files 0. POSITIONS (S7) add 0 / update 0 / audit NOT due (last
-    audit 2026-06-09, inside 30d; also below the >=10-entries/>=2-files audit-generation
-    threshold - 3 entries / 2 domain files). APPLIED-APEX (S8) 0 - A1+A5 live, A2-A4
-    proposed, the A6/clinical candidate is DEFERRED-TO-HUMAN (no sanctioned slot). OUTER
-    REVIEWS: latest pending-reviews entries (06-16 chatgpt+gemini) both collected, none
-    pending; 06-16 synthesis already ran; no 06-17 cycle yet (time ~01:40 UTC is pre-02:00).
-    Did NOT mint filler against the capped voids section, human-blocked/churn/survey
-    length offenders, consumed research, or exhausted gaps. State YAML re-validated
-    post-edit (parses OK).'
+    research/ length entries are source notes, not condensed. ORPHANS (S5) 0 - quality.orphaned_files
+    0. POSITIONS (S7) add 0 / update 0 / audit NOT due (last audit 2026-06-09, inside
+    30d; also below the >=10-entries/>=2-files audit-generation threshold - 3 entries
+    / 2 domain files). APPLIED-APEX (S8) 0 - A1+A5 live, A2-A4 proposed, the A6/clinical
+    candidate is DEFERRED-TO-HUMAN (no sanctioned slot). OUTER REVIEWS: latest pending-reviews
+    entries (06-16 chatgpt+gemini) both collected, none pending; 06-16 synthesis already
+    ran; no 06-17 cycle yet (time ~01:40 UTC is pre-02:00). Did NOT mint filler against
+    the capped voids section, human-blocked/churn/survey length offenders, consumed
+    research, or exhausted gaps. State YAML re-validated post-edit (parses OK).'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
