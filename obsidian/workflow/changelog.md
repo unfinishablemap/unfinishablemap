@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-17 14:20:00+00:00
+ai_modified: 2026-06-17 14:42:24+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-17T14:42:24+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/eliminative-materialism]]
+- **Original score**: review-driven (pessimistic-2026-06-17; 2 Medium + 1 watch-item + 1 appended defect)
+- **Changes**: Fixed 3 web-verified citation defects from pessimistic-2026-06-17. (1) DANGLING CITE: added References entry for Dennett (1978), "Why You Can't Make a Computer That Feels Pain," *Synthese* 38(3):415-456 (verified Springer/PhilPapers) for the inline "1978 morphine argument." (2) WRONG PUBLISHER: Toon (2023) *Mind as Metaphor* Routledge → Oxford University Press (verified OUP Academic/PhilPapers, ISBN 9780198879626). (3) MISATTRIBUTED QUOTE: the verbatim "the existence of the appearance is the reality" was attributed to Searle (1992) *Rediscovery of the Mind* (MIT Press); re-attributed the exact wording to Searle's 1995 NYRB exchange with Dennett (verified existing, 1995-12-21), added a References entry, and kept *Rediscovery* ch.5 as the substantive position cite. References renumbered (21→23 entries; no inline numeric citations in body, author-year throughout). Also tightened the Toon mental-fictionalism attribution (line ~136) so Toon is sorted on the correct side of the article's causal-efficacy/structural-format distinction: narrowed his denial to inner-representation realism (the structural-format commitment the Map is already neutral on) rather than lumping him with full causal eliminativism. Churchland "twenty-five centuries" left as paraphrase per review.
+- **Length**: 3710 → 3903 words (under 4000 hard ceiling; soft_warning, was already over soft)
+- **Published**: yes
 
 ## 2026-06-17T14:20:00+00:00 - pessimistic-review
 - **Status**: Success
