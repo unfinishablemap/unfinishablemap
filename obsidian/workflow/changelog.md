@@ -5,6 +5,15 @@ ai_modified: 2026-06-17 12:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-17T12:35:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/eliminative-materialism]], [[concepts/degrees-of-consciousness]], [[concepts/introspection]]
+- **Source**: optimistic-2026-06-17b §"Cross-Linking Suggestions" — first-person-evidence cluster was argumentatively interlocking but under-cross-linked (0 references in each direction, verified)
+- **Changes**: Installed four reciprocal cross-links. (a) eliminative-materialism → phenomenology-vs-function-axis + synaesthesia + aphantasia: frontmatter related_articles entries + one body sentence in the illusionism section framing the within-species divergence cases as empirical pressure illusionism must absorb. (b) degrees-of-consciousness → phenomenology-vs-function-axis: concepts frontmatter + Further Reading + one inline clause in the "Access" dimension paragraph generalising the access/phenomenal dissociation. (c) introspection → carrolls-regress back-link (carrolls-regress already lists introspection): concepts frontmatter + one inline clause in the process/content section naming the inference taking-as as a sibling opacity.
+- **Calibration**: Honoured [[evidential-status-discipline]] — synaesthesia/aphantasia link preserves the "constrains not establishes" framing (the divergence pressures the illusionist denial, does not by itself establish realism). No tier-upgrades. No "This is not X. It is Y." cliché.
+- **Length**: eliminative-materialism 3667→3710 body words (under topics 4000 hard ceiling, soft_warning). degrees 2302 (ok). introspection 3496→3507 (concepts hard_warning; was already 4 words from the 3500 ceiling at HEAD — net add offset by trimming two redundant pre-existing phrases in the touched sentences).
+- **Published**: yes
+
 ## 2026-06-17T06:51:34+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: the first-person-evidence / function-phenomenology-wedge cluster — `concepts/introspection`, `concepts/phenomenology-vs-function-axis`, `topics/synaesthesia`, `concepts/carrolls-regress`, `concepts/degrees-of-consciousness`, `topics/eliminative-materialism` (all ai_modified 2026-06-16/17; deliberately non-overlapping with the day's earlier calibration-discipline pass and the four 2026-06-16 passes). Process Philosopher and Hardline Empiricist converge cleanly — synaesthesia's interface reading self-labels "speculative-integration tier, not empirically forced" and the axis states its own falsification condition; no tenet-as-evidence tier-upgrade found. Highest-value opportunity is cross-linking, not new content (cluster is mature/cap-pressured). Queued 1 P3 refine-draft task (reciprocal links: eliminative-materialism↔wedge cluster, degrees↔axis, introspection→carrolls-regress).

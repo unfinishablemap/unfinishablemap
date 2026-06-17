@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T06:56:01.397528+00:00'
-session_count: 11543
+last_updated: '2026-06-17T07:00:33.427067+00:00'
+session_count: 11544
 cycle_position: 9252
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-17T04:07:04.664744+00:00'
   refine-draft: '2026-06-17T06:06:38.246512+00:00'
   research-topic: '2026-06-16T14:05:29.074973+00:00'
-  replenish-queue: '2026-06-17T06:48:49.895756+00:00'
+  replenish-queue: '2026-06-17T07:00:33.427067+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-16T08:06:09.164774+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-17'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: optimistic-review
   type: optimistic-review
+  date: '2026-06-17'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1001,40 +1001,38 @@ queue_status:
   last_replenishment: '2026-06-17T07:05:00+00:00'
   last_replenishment_mode: standard
   current_replenishment_note: '2026-06-17 run no.188 (standard mode) - HONEST NO-OP
-    for new-task minting (0 minted), the TWENTY-SEVENTH consecutive, BUT the queue is
-    no longer starved. AUTHORITATIVE verify from disk via tools.evolution.task_selector
+    for new-task minting (0 minted), the TWENTY-SEVENTH consecutive, BUT the queue
+    is no longer starved. AUTHORITATIVE verify from disk via tools.evolution.task_selector
     against live todo.md: count_p0_p2_tasks=0, yet select_queue_task AND get_next_task
     now BOTH return a pickable task (no longer None) - a fresh P3 refine-draft at
-    todo line 1064 (Cross-link the function-phenomenology wedge cluster to its
-    eliminativist target) minted by /optimistic-review 2026-06-17b at 06:56, AFTER
-    run no.187 wrote its all-None note. So this run fired only because count_p0_p2_tasks=0
-    is below MIN_QUEUE floor 3 (the floor counts P0-P2 only; a lone pickable P3 does
-    not lift it). This is the p3-only-floor-preemption pattern - EXCEPT the
-    cycle_pick anti-infinite-loop guard (cycle_pick.py:217, p0_p2 < 3 AND last_task
-    != replenish-queue) rescues it: next iteration last_task == replenish-queue, so
-    step 6 falls through to the cycle slot (step 7), where select_queue_task is
-    priority-floor-agnostic and will pick the P3. The loop is NOT permanently
-    starved; the P3 should run within ~1-2 iterations. EIGHT SOURCES re-derived from
-    disk, all genuinely dry/blocked. CHAINS (S1) 0 - no expand-topic or research-topic
-    in last 20 recent_tasks; chain pool dry. UNCONSUMED RESEARCH (S2) 0 - 3 newest
-    non-voids notes (all 06-16) re-confirmed consumed: IWMT to concepts/predictive-processing.md
-    (Safron/IWMT present), naturalist-relationalism to concepts/naturalist-relationalism.md,
-    chemosensory to topics/chemosensory-consciousness-and-the-interface.md. harvest-research-subjects
-    owns research revival. GAPS (S3) 0 - voids 101/100 over cap; topics 268/300 and
-    concepts 261/300 have headroom but gap analysis documented-exhausted; positions
-    deliberately slow. STALENESS (S4) 0 mintable - cycle deep-review slot owns this
-    pool (deep-review ran 06:16 this cycle). LENGTH (S6) 0 mintable - get_length_warnings(hard+)
-    re-run live: 51 warnings, content-only (excl research) 27, with 3 critical:
-    apex/apex-articles.md 7238w (apex HUB/index, not a real article), apex/phenomenal-output-causal-machinery-dissociation.md
+    todo line 1064 (Cross-link the function-phenomenology wedge cluster to its eliminativist
+    target) minted by /optimistic-review 2026-06-17b at 06:56, AFTER run no.187 wrote
+    its all-None note. So this run fired only because count_p0_p2_tasks=0 is below
+    MIN_QUEUE floor 3 (the floor counts P0-P2 only; a lone pickable P3 does not lift
+    it). This is the p3-only-floor-preemption pattern - EXCEPT the cycle_pick anti-infinite-loop
+    guard (cycle_pick.py:217, p0_p2 < 3 AND last_task != replenish-queue) rescues
+    it: next iteration last_task == replenish-queue, so step 6 falls through to the
+    cycle slot (step 7), where select_queue_task is priority-floor-agnostic and will
+    pick the P3. The loop is NOT permanently starved; the P3 should run within ~1-2
+    iterations. EIGHT SOURCES re-derived from disk, all genuinely dry/blocked. CHAINS
+    (S1) 0 - no expand-topic or research-topic in last 20 recent_tasks; chain pool
+    dry. UNCONSUMED RESEARCH (S2) 0 - 3 newest non-voids notes (all 06-16) re-confirmed
+    consumed: IWMT to concepts/predictive-processing.md (Safron/IWMT present), naturalist-relationalism
+    to concepts/naturalist-relationalism.md, chemosensory to topics/chemosensory-consciousness-and-the-interface.md.
+    harvest-research-subjects owns research revival. GAPS (S3) 0 - voids 101/100 over
+    cap; topics 268/300 and concepts 261/300 have headroom but gap analysis documented-exhausted;
+    positions deliberately slow. STALENESS (S4) 0 mintable - cycle deep-review slot
+    owns this pool (deep-review ran 06:16 this cycle). LENGTH (S6) 0 mintable - get_length_warnings(hard+)
+    re-run live: 51 warnings, content-only (excl research) 27, with 3 critical: apex/apex-articles.md
+    7238w (apex HUB/index, not a real article), apex/phenomenal-output-causal-machinery-dissociation.md
     6832w (carries the veto marker in Active line 619), epistemology-of-convergence-arguments.md
     6479w (STANDING HUMAN SPLIT, prior condenses failed, 139 todo refs). All hard-warning
     offenders (clinical-dissociation, born-rule, etc.) already DIVERTED-TO-HUMAN.
-    Minting fresh condense tasks would re-litigate human-blocked decisions
-    (human-decision-task-mispicked-as-refine). NOT minted. ORPHANS (S5) 0 -
-    quality.orphaned_files 0. POSITIONS (S7) add 0 / update 0 / audit NOT due - only
-    3 register entries (audit needs >=10); positions-evolve ran 00:41 today. APPLIED-APEX
-    (S8) 0 - deliberately slow (max 1/run), position clusters too small. State YAML
-    re-validated post-edit (parses OK).'
+    Minting fresh condense tasks would re-litigate human-blocked decisions (human-decision-task-mispicked-as-refine).
+    NOT minted. ORPHANS (S5) 0 - quality.orphaned_files 0. POSITIONS (S7) add 0 /
+    update 0 / audit NOT due - only 3 register entries (audit needs >=10); positions-evolve
+    ran 00:41 today. APPLIED-APEX (S8) 0 - deliberately slow (max 1/run), position
+    clusters too small. State YAML re-validated post-edit (parses OK).'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0

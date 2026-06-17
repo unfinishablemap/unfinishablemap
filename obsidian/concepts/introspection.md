@@ -4,7 +4,7 @@ description: "Our primary access to consciousness is contested. But critiques ta
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-06-17T05:00:00+00:00
+ai_modified: 2026-06-17T12:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,6 +33,7 @@ concepts:
   - "[[noetic-feelings-void]]"
   - "[[imagery-void]]"
   - "[[confabulation-void]]"
+  - "[[carrolls-regress]]"
 related_articles:
   - "[[tenets]]"
   - "[[apex/taxonomy-of-voids]]"
@@ -66,7 +67,7 @@ Eric Schwitzgebel catalogued further failures: people cannot reliably report whe
 
 ## The Crucial Distinction: Process vs. Content
 
-The critique's target matters. Nisbett and Wilson explicitly distinguish mental *processes* (the causal mechanisms producing decisions) from mental *contents* (current phenomenal states). Their argument concerns process access: we lack insight into *why* we choose as we do. They make no claim about whether we accurately perceive our present experience. The Map names this asymmetry the [[process-content-distinction|process/content distinction]] and treats it as calibration craft — content reports earn higher evidential weight than process reports without either side being exempt from error. The [[causal-interface|causal interface void]] is the extreme case: we cannot observe *how* intention becomes action, though we access both the intention and the resulting movement.
+The critique's target matters. Nisbett and Wilson explicitly distinguish mental *processes* (the causal mechanisms producing decisions) from mental *contents* (current phenomenal states). Their argument concerns process access: we lack insight into *why* we choose as we do. They make no claim about whether we accurately perceive our present experience. The Map names this asymmetry the [[process-content-distinction|process/content distinction]] and treats it as calibration craft — content reports earn higher evidential weight than process reports, neither side exempt from error. The [[causal-interface|causal interface void]] is the extreme case: we access intention and movement but not *how* one becomes the other — and [[carrolls-regress|Carroll's regress]] extends the same opacity to inference.
 
 The [[recognition-void]] demonstrates this concretely: Capgras delusion and prosopagnosia reveal that recognition comprises at least two hidden processes — perceptual identification and affective familiarity — whose binding is invisible to introspection.
 

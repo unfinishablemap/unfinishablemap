@@ -1061,20 +1061,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-06-05)
 - **Generated**: 2026-06-05
 
-### P3: Cross-link the function-phenomenology wedge cluster to its eliminativist target
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/eliminative-materialism.md (primary); obsidian/concepts/degrees-of-consciousness.md, obsidian/concepts/introspection.md (secondary, frontmatter only)
-- **Notes**: Suggested by /optimistic-review 2026-06-17b §"Cross-Linking Suggestions". The first-person-evidence cluster is argumentatively interlocking but under-cross-linked at the article level (verified: 0 references in each direction below). LENGTH-SAFE — these are frontmatter `related_articles` / one-clause inline additions, not new prose; eliminative-materialism is 3667 body words (under topics hard ceiling) so keep any inline add ≤1 sentence. Four reciprocal links: (a) `eliminative-materialism` → `phenomenology-vs-function-axis` (eliminativism/illusionism is the position the wedge most directly pressures; the axis names illusionism as a target but the reverse link is absent); (b) `eliminative-materialism` → `synaesthesia` and/or `aphantasia` (within-species phenomenal-divergence is concrete empirical pressure on the illusionist denial that there is content to introspect — exactly the evidence eliminativism must absorb); (c) `degrees-of-consciousness` → `phenomenology-vs-function-axis` (degrees leans on the access/phenomenal dissociation via blindsight; the axis formalises function-phenomenology dissociation generally); (d) `introspection` → `carrolls-regress` back-link (carrolls-regress already lists introspection as a concept link; introspection never points back, despite the inference-void / taking-as opacity being a sibling of the source-attribution and noetic-feelings limits introspection already catalogues). CALIBRATION: honour [[evidential-status-discipline]] — these are evidence-base ↔ position links, not tier-upgrades; the synaesthesia/aphantasia link must preserve the "constrains not establishes" framing (the divergence pressures functionalism, it does not by itself refute illusionism). No "This is not X. It is Y." cliché. Tenet alignment: Tenet 1 (Dualism), Tenet 5 (Occam's-limits). ai_contribution=100.
-- **Review file**: `reviews/optimistic-2026-06-17b.md`
-- **Source**: optimistic-review (2026-06-17)
-- **Generated**: 2026-06-17
-
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-17: Cross-link the function-phenomenology wedge cluster to its eliminativist target
+- **Type**: refine-draft
+- **Notes**: Suggested by /optimistic-review 2026-06-17b §"Cross-Linking Suggestions". The first-person-evidence cluster is argumentatively interlocking but under-cross-linked at the article level (verified: 0 references in each direction below). LENGTH-SAFE — these are frontmatter `related_articles` / one-clause inline additions, not new prose; eliminative-materialism is 3667 body words (under topics hard ceiling) so keep any inline add ≤1 sentence. Four reciprocal links: (a) `eliminative-materialism` → `phenomenology-vs-function-axis` (eliminativism/illusionism is the position the wedge most directly pressures; the axis names illusionism as a target but the reverse link is absent); (b) `eliminative-materialism` → `synaesthesia` and/or `aphantasia` (within-species phenomenal-divergence is concrete empirical pressure on the illusionist denial that there is content to introspect — exactly the evidence eliminativism must absorb); (c) `degrees-of-consciousness` → `phenomenology-vs-function-axis` (degrees leans on the access/phenomenal dissociation via blindsight; the axis formalises function-phenomenology dissociation generally); (d) `introspection` → `carrolls-regress` back-link (carrolls-regress already lists introspection as a concept link; introspection never points back, despite the inference-void / taking-as opacity being a sibling of the source-attribution and noetic-feelings limits introspection already catalogues). CALIBRATION: honour [[evidential-status-discipline]] — these are evidence-base ↔ position links, not tier-upgrades; the synaesthesia/aphantasia link must preserve the "constrains not establishes" framing (the divergence pressures functionalism, it does not by itself refute illusionism). No "This is not X. It is Y." cliché. Tenet alignment: Tenet 1 (Dualism), Tenet 5 (Occam's-limits). ai_contribution=100.
 
 ### ✓ 2026-06-17: Methodology — corpus-wide citation-consistency propagation check + broaden literature-drift candidate selection
 - **Type**: refine-draft
