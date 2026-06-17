@@ -5,6 +5,13 @@ ai_modified: 2026-06-17 00:20:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-17T00:29:07+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[positions/agency-and-will]] (P-A1)
+- **Original score**: N/A (targeted positions-register fix, not a full review pass)
+- **Changes**: Addressed [[reviews/pessimistic-2026-06-17-positions-registers]] Issue 1 — P-A1's Asserts listed "cross-cultural convergence on substance-causal accounts of persons" (and the phenomenology) as confirming convergent anchors at face value, while [[concepts/intuitive-dualism]] treats that same convergence as an evolved cognitive bias (a common cause that screens off "everyone believes it → it is true"). Added one clause discounting the phenomenology + cross-cultural anchors for the intuitive-dualism common-cause null, citing concepts/intuitive-dualism and noting the parallel to the common-cause discipline [[positions/voids-as-evidence]] applies to the void catalogue; rested the convergence claim on the genuinely independent subset (neural willed-vs-instructed data, argument from reason). Added a dated P-A1 update note; refreshed Last reviewed → 2026-06-17. No confidence change (debiasing does not drop the position below its conservative moderate band — independent subset + trilemma still carry it). ~one-sentence net addition.
+- **Published**: yes
+
 ## 2026-06-17T00:20:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: positions registers [[positions/quantum-interface]] (P-Q1–P-Q10) and [[positions/agency-and-will]] (P-A1–P-A5) — both had never carried last_deep_review nor been the focus of a dedicated pessimistic pass

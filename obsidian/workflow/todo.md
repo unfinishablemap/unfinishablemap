@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Debias P-A1's cross-cultural anchor for the intuitive-dualism common-cause null
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-06-17 (positions registers) found P-A1 in [[positions/agency-and-will]] lists "cross-cultural convergence on substance-causal accounts of persons" as a confirming convergent anchor, but the corpus's [[concepts/intuitive-dualism]] treats that same convergence as an evolved cognitive bias (a common-cause that screens off "everyone believes it → it is true"). This is the same common-cause discipline the [[positions/voids-as-evidence]] register applies to the void catalogue. Fix: add one clause to P-A1's Asserts discounting the cross-cultural/phenomenology anchors for the intuitive-dualism common-cause null (cite concepts/intuitive-dualism), and rest the convergence claim on the genuinely independent subset (neural willed-vs-instructed data, argument from reason). Length-neutral. See [[reviews/pessimistic-2026-06-17-positions-registers]] Issue 1.
-- **Source**: pessimistic-review
-
 ### P2: Distinguish common-root from mutual-confirmation in the P-A2 ↔ Tenet 4 reciprocal-dependency note
 - **Type**: positions-evolve
 - **Status**: pending
@@ -1043,6 +1037,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-17: Debias P-A1's cross-cultural anchor for the intuitive-dualism common-cause null
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-06-17 (positions registers) found P-A1 in [[positions/agency-and-will]] lists "cross-cultural convergence on substance-causal accounts of persons" as a confirming convergent anchor, but the corpus's [[concepts/intuitive-dualism]] treats that same convergence as an evolved cognitive bias (a common-cause that screens off "everyone believes it → it is true"). This is the same common-cause discipline the [[positions/voids-as-evidence]] register applies to the void catalogue. Fix: add one clause to P-A1's Asserts discounting the cross-cultural/phenomenology anchors for the intuitive-dualism common-cause null (cite concepts/intuitive-dualism), and rest the convergence claim on the genuinely independent subset (neural willed-vs-instructed data, argument from reason). Length-neutral. See [[reviews/pessimistic-2026-06-17-positions-registers]] Issue 1.
 
 ### ✓ 2026-06-16: Confirm topics/anti-correlation-probes-for-ai-consciousness links UP to its applied apex
 - **Type**: integrate-orphan
