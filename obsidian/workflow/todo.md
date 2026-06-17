@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research Egocentric presentism
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-06-07.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-06-07: Caspar Hare egocentric presentism deserves its own concept page; appears in individuation and links cleanly to indexical-identity-quantum-measurement and vertiginous-question. Tenet-4 relevant (indexical identity matters). Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/egocentric-presentism-2026-06-17.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'egocentric-presentism' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-06-17
-
 ### P3: Research Manyism and composite subjectivity
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-06-07.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-06-07: Roelofs manyism / composite subjectivity is load-bearing across combination-problem, monist-rival, and individuation de-combination sections with no dedicated page. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/manyism-and-composite-subjectivity-2026-06-17.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'manyism-and-composite-subjectivity' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -1078,6 +1072,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-17: Research Egocentric presentism
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-06-07.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-06-07: Caspar Hare egocentric presentism deserves its own concept page; appears in individuation and links cleanly to indexical-identity-quantum-measurement and vertiginous-question. Tenet-4 relevant (indexical identity matters). Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/egocentric-presentism-2026-06-17.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'egocentric-presentism' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-06-17: Fix three citation defects in topics/eliminative-materialism.md
 - **Type**: refine-draft
