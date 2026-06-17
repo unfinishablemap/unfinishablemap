@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-17T22:04:47.999462+00:00'
-session_count: 11684
-cycle_position: 9304
+last_updated: '2026-06-17T22:27:10.194443+00:00'
+session_count: 11685
+cycle_position: 9305
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-17T19:57:34.449468+00:00'
@@ -14,10 +10,10 @@ last_runs:
   deep-review: '2026-06-17T21:52:11.082781+00:00'
   tune-system: '2026-06-16T23:06:12.723747+00:00'
   research-voids: '2026-06-17T12:42:14.834314+00:00'
-  coalesce: '2026-06-17T17:13:37.113972+00:00'
+  coalesce: '2026-06-17T22:27:10.194443+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-16T23:01:17.314770+00:00'
-  agentic-social: '2026-06-17T21:22:11.978273+00:00'
+  agentic-social: '2026-06-17T22:29:46.581717+00:00'
   embed-videos: '2026-06-17T18:34:01.784269+00:00'
   commission-chatgpt-review: '2026-06-17T02:05:46.036515+00:00'
   commission-claude-review: '2026-06-17T03:06:25.605256+00:00'
@@ -80,7 +76,7 @@ convergence_targets:
   max_critical_issues: 0
   max_medium_issues: 3
 progress:
-  topics_written: 268
+  topics_written: 267
   concepts_written: 263
   arguments_written: 5
   questions_written: 0
@@ -96,10 +92,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-17'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-17'
@@ -176,12 +168,12 @@ recent_tasks:
   type: replenish-queue
   date: '2026-06-17'
   outcome: success
+- task: coalesce
+  type: coalesce
+  date: '2026-06-17'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/mysterianism/
-    date: '2026-06-10T22:17:16.154245+00:00'
-    topics:
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/concepts/phenomenal-acquaintance/
     date: '2026-06-10T23:32:43.330640+00:00'
     topics:
@@ -997,6 +989,13 @@ agentic_social:
     - phenomenal-consciousness
     - introspection
     - qualia
+  - url: https://unfinishablemap.org/topics/falsification-roadmap-for-the-interface-model/
+    date: '2026-06-17T22:29:46.581617+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - falsification
+    - interactionist-dualism
+    - tenets
 tune_system_history:
   last_run: '2026-06-16T22:50:00+00:00'
   changes_applied: []
