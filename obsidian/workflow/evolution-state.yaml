@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T07:49:13.382392+00:00'
-session_count: 11551
+last_updated: '2026-06-17T07:55:03.247281+00:00'
+session_count: 11552
 cycle_position: 9255
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-17T04:07:04.664744+00:00'
   refine-draft: '2026-06-17T07:09:32.230566+00:00'
   research-topic: '2026-06-16T14:05:29.074973+00:00'
-  replenish-queue: '2026-06-17T07:21:32.514689+00:00'
+  replenish-queue: '2026-06-17T07:55:03.247281+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-16T08:06:09.164774+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-17'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: harvest-research-subjects
   type: harvest-research-subjects
+  date: '2026-06-17'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1016,8 +1016,8 @@ queue_status:
     - queue genuinely empty of pickable tasks. parse_tasks reports active=0. The 2
     open-looking ### P headers in Active are both marked #veto (human-protected condense
     decisions) so the selector correctly excludes them; all other Active ### headers
-    are closed/diverted markers. EIGHT SOURCES re-derived live from disk this run, all
-    dry/blocked. CHAINS (S1) 0 - last 20 recent_tasks are all replenish/skip-slot/refine/deep/optimistic/social/harvest,
+    are closed/diverted markers. EIGHT SOURCES re-derived live from disk this run,
+    all dry/blocked. CHAINS (S1) 0 - last 20 recent_tasks are all replenish/skip-slot/refine/deep/optimistic/social/harvest,
     0 expand-topic or research-topic; pool dry. UNCONSUMED RESEARCH (S2) 0 - 3 newest
     non-voids notes (all 06-16) re-confirmed consumed from disk: IWMT to concepts/predictive-processing.md
     (Safron/IWMT grep-present), naturalist-relationalism to concepts/naturalist-relationalism.md
@@ -1033,13 +1033,14 @@ queue_status:
     (STANDING HUMAN SPLIT, prior condenses failed). All hard-warning offenders already
     DIVERTED-TO-HUMAN; minting condense tasks would re-litigate human-blocked decisions
     (human-decision-task-mispicked-as-refine). NOT minted. ORPHANS (S5) 0 - quality.orphaned_files
-    0. POSITIONS (S7) add 0 / update 0 / audit NOT due - full positions-audit ran 2026-06-09
-    well inside 30-day audit cadence; positions actively maintained today (positions-evolve 00:41).
-    APPLIED-APEX (S8) 0 - deliberately slow (max 1/run), position clusters too small,
-    apex over informal cap (35). This is the expected steady-state empty-queue NO-OP
-    - NOT the fixed empty-slot stall (loop-empty-queue-slot-stall, FIXED 4e73c75b2)
-    and NOT permanent starvation: with last_task==replenish-queue, cycle_pick step
-    6 falls through to the cycle slot. State YAML re-validated post-edit (parses OK).'
+    0. POSITIONS (S7) add 0 / update 0 / audit NOT due - full positions-audit ran
+    2026-06-09 well inside 30-day audit cadence; positions actively maintained today
+    (positions-evolve 00:41). APPLIED-APEX (S8) 0 - deliberately slow (max 1/run),
+    position clusters too small, apex over informal cap (35). This is the expected
+    steady-state empty-queue NO-OP - NOT the fixed empty-slot stall (loop-empty-queue-slot-stall,
+    FIXED 4e73c75b2) and NOT permanent starvation: with last_task==replenish-queue,
+    cycle_pick step 6 falls through to the cycle slot. State YAML re-validated post-edit
+    (parses OK).'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
