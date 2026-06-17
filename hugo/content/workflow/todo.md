@@ -38,6 +38,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Add three cluster cross-links flagged by optimistic review 2026-06-17d
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-17d. Three missing edges in the physics-interface cluster: (1) topics/quantum-measurement-and-consciousness → topics/forward-in-time-vs-time-symmetric-selection (its "Exploit the Gap" section introduces the forward/time-symmetric divide but never links the dedicated cost-accounting article; the ~88-inbound hub is the natural feeder for that article's ~10 inbound); (2) topics/quantum-measurement-and-consciousness → concepts/selection-only-channel (the hub discusses corridor/Born-bending/trumping flavours but never links the article formalising the strictest reading); (3) topics/empirical-evidence-for-consciousness-selecting → topics/forward-in-time-vs-time-symmetric-selection. Add as in-body wikilinks at the relevant passages (preferred) and/or Further Reading entries; bidirectional links already mostly exist the other way. Verify each link resolves before committing.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-17
+
 ### HUMAN LENGTH DECISION (2026-06-17): voids/synesthetic-void.md over the voids hard threshold after the convergent-review counter-readings refine
 - **Type**: human-decision (NOT auto-condensable — do NOT pick as refine-draft/condense)
 - **Notes**: The 2026-06-17 refine-draft (P1 "import strongest non-dualist readings", from convergent ChatGPT 5.5 Pro + Gemini 2.5 Pro reviews) added a dedicated "The Physicalist Counter-Readings" section developing four opponents at strength (fine-grained functionalist, representationalist sub-individuation, deflationary/heterophenomenological, illusionist/metacognitive). This is the load-bearing content the convergent P1 demanded ("develop in-body rather than link away"). Word count rose 2795 → 3578: over the voids HARD threshold (3000) by ~578, under CRITICAL (4000) by ~422. ~300 words of redundant pre-existing hedging were already absorbed during the refine; the remaining bulk is the developed opponent engagements and cannot be auto-condensed without defeating the review's purpose. **Human editorial decision needed:** either (a) accept the over-hard length as justified by the four mandated counter-readings (a recognised tension — the voids ceiling vs. the direct-refutation-discipline demand to develop opponents fully), or (b) decide which counter-reading(s) to compress / spin out to the apex [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/) (which already carries the four-absorption-strategy treatment) and link from the void. Do NOT auto-condense the new opponent engagements (refine-then-condense-same-session-churn, human-decision-task-mispicked-as-refine). Note the pending P1 "Refresh synesthesia citations" task (below) is citation-additive and will push length further — coordinate the two.
@@ -1067,6 +1074,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-17: Calibration refine — quantum-holism-and-phenomenal-unity.md lead verbs
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review 2026-06-17d (physics-interface cluster). The article's body discipline is excellent ("the quantum-holism reading is posited on tenet grounds rather than forced by the data"), but the LEAD over-reaches relative to that body: "[entanglement is] the only physical substrate structurally matching phenomenal unity" leans on Neven's contested conjecture, and the closing "current evidence favours the quantum position" uses a stronger verb than the disciplined "realistic / precedent / supplement" verbs the rest of the cluster uses. This is the cluster's single Process-Philosopher-vs-Hardline-Empiricist near-divergence. Light-touch verb/qualifier tuning only (lead + "What Would Challenge This View" closer); do NOT restructure or remove the body's well-calibrated decoherence-debate balance. Queued as refine-draft (not expand-topic) per the persona-tension rule: a near-slippage is a refine target.
 
 ### ✓ 2026-06-17: Polish calibration in topics/marginal-organism-scope-of-value-sensitive-selection.md
 - **Type**: refine-draft

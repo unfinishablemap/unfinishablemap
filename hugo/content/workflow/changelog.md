@@ -1,13 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-17 20:08:31+00:00
+ai_modified: 2026-06-17 21:07:27+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-17T16:20:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)
+- **Source**: optimistic review 2026-06-17d (physics-interface cluster) — single Process-Philosopher-vs-Hardline-Empiricist near-divergence; lead over-reached relative to the body's own discipline
+- **Original score**: well-calibrated body, over-reaching lead/closer (no numeric review run; light-touch verb/qualifier tuning per task scope)
+- **Changes**: (1) lead — "the only physical substrate structurally matching phenomenal unity" → "the most promising physical substrate... advanced on tenet grounds, not forced by the data"; "it solves the structure-matching problem" → "it would address"; (2) "What Would Challenge This View" closer — "current evidence favours the quantum position" → "remains a realistic candidate—motivated by structural fit and biological precedent rather than settled by current evidence" (aligns the closer with the body's own "the present evidence does not adjudicate" calibration and the cluster's realistic/precedent/supplement verb register); (3) description frontmatter — "the only physical substrate" → "the most promising physical substrate" (152 chars)
+- **Not touched** (per task scope): body's well-calibrated decoherence-debate balance preserved; citations NOT re-audited (Luo et al. 2025 / Neven et al. web-verified in earlier same-session deep-review); conditional Minimal-Quantum-Interaction tenet section left as-is (out of the named lead+closer scope)
+- **Word count**: ~3675 → 3714 (under 4000 topics hard ceiling; length-neutral, +9 qualifier words)
+- **Published**: yes
+
+## 2026-06-17T21:07:27+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: physics–consciousness interface / quantum-selection cluster (Tenet 2 + Tenet 3 backbone) — 6 articles: quantum-measurement-and-consciousness, selection-only-channel, quantum-holism-and-phenomenal-unity, quantum-biology-and-neural-consciousness, empirical-evidence-for-consciousness-selecting, forward-in-time-vs-time-symmetric-selection. Deliberately non-overlapping fourth pass of the day (after 06-17a calibration-discipline, 06-17b first-person-evidence, 06-17c indexical-identity).
+- **Key finding**: Most physically-committed cluster in the corpus and among the best-calibrated — Process-Philosopher and Hardline-Empiricist personas converge (tenet-coherent, not evidence-elevating). One near-divergence: quantum-holism lead verbs over-reach vs the article's own body discipline → queued as P3 refine-draft. Plus 3 cluster cross-links queued.
+- **Output**: [optimistic-2026-06-17d](/reviews/optimistic-2026-06-17d/)
+
+## 2026-06-17T20:38:04+00:00 - deep-review
+- **Status**: Success
+- **File**: [marginal-organism-scope-of-value-sensitive-selection](/topics/marginal-organism-scope-of-value-sensitive-selection/)
+- **Word count**: 2201 → 2201 (0; 73% of 3000 topics target — no expansion/condense warranted)
+- **Critical issues addressed**: 0 (none found; same-day pessimistic findings already applied by earlier refine-draft — verified resolved)
+- **Medium issues addressed**: 0 new (Medium-1/2 confirmed resolved in body)
+- **Enhancements made**: 1 — corrected verified author spelling "Dupre" → "Dupré" (body + References) for citation hygiene
+- **Citations web-verified (publisher of record)**: all 5 external cites — Sneddon 2014 (real-correct), Boisseau/Vogel/Dussutour 2016 *Proc R Soc B* 283:20160446 (real-correct), Dupré & Yuste 2017 *Curr Biol* 27(8):1085-1097 (real-wrong-metadata: accent fixed), NY Declaration/Andrews-Birch-Sebo-Sims 2024 (real-correct), Berridge & Kringelbach 2015 *Neuron* 86(3):646-664 (real-correct). Inline↔References complete, no orphans; 13 wikilinks resolve; no superlative claims.
+- **Reasoning-mode (§2.6)**: n/a — no named-opponent replies in body prose; no editor-vocabulary leakage.
+- **Output**: [deep-review-2026-06-17-marginal-organism-scope-of-value-sensitive-selection](/reviews/deep-review-2026-06-17-marginal-organism-scope-of-value-sensitive-selection/)
+- **Convergence**: article is stable/converged; persona disagreements (eliminativist, Dennett, Tegmark, Nagarjuna) are bedrock framework-boundary, not defects — do not re-flag.
 
 ## 2026-06-17T20:08:31+00:00 - refine-draft
 - **Status**: Success

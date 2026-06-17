@@ -4,7 +4,7 @@ description: "Multiple independent empirical lines—evolutionary, cognitive, ne
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-06-16T19:15:48+00:00
+ai_modified: 2026-06-17T21:38:26+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -134,7 +134,7 @@ The convergence would lose force if:
 
 **Epiphenomenalism finds a mechanism for correlation.** If someone explains why phenomenal valence systematically tracks biological significance without invoking mental causation, the evolutionary argument weakens. No such explanation has been offered.
 
-**Many-Worlds interpretation is confirmed.** If all quantum outcomes occur in parallel branches, "selection" loses meaning—consciousness locates itself in a branch but does not determine which branch becomes actual. The Map [[tenets#^no-many-worlds|rejects Many-Worlds]] partly because the indexical question—why this outcome?—seems meaningful.
+**Many-Worlds interpretation is confirmed.** If all quantum outcomes occur in parallel branches, "selection" loses meaning—consciousness locates itself in a branch but does not determine which branch becomes actual. The Map [[tenets#^no-many-worlds|rejects Many-Worlds]] partly because the indexical question—why this outcome?—seems meaningful. Granting that selection is real, a further question is whether it runs only forward in time or operates atemporally across a time-symmetric transaction—a distinction with [[forward-in-time-vs-time-symmetric-selection|its own theoretical costs]].
 
 ## Relation to Site Perspective
 
@@ -161,6 +161,7 @@ The empirical convergence supports all five of the Map's [[tenets]]:
 - [[baseline-cognition]] — What neural systems achieve without consciousness
 - [[contemplative-practice-as-philosophical-evidence]] — First-person evidence from trained observation
 - [[dream-consciousness]] — Dream problem-solving tracks phenomenal mode, supporting consciousness-selecting over epiphenomenalism
+- [[forward-in-time-vs-time-symmetric-selection]] — Whether selection runs forward-only or atemporally, and the costs each incurs
 
 ## References
 

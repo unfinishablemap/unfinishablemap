@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-06-17 15:05:06+00:00
+ai_modified: 2026-06-17 21:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -30,8 +30,8 @@ concepts:
 created: 2026-01-21
 date: &id001 2026-02-25
 description: Classical binding mechanisms coordinate separate processes but cannot
-  make them one. Quantum entanglement provides the only physical substrate structurally
-  matching phenomenal unity—genuine holism where wholes are prior to parts.
+  make them one. Quantum entanglement is the most promising physical substrate structurally
+  matching phenomenal unity—holism where wholes precede parts.
 draft: false
 human_modified: null
 last_curated: null
@@ -48,7 +48,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-[Phenomenal unity](/concepts/unity-of-consciousness/)—the fact that conscious experience comes as an integrated whole rather than separate parts—systematically resists physical explanation through classical mechanisms. Every classical approach shares a structural limitation: they describe how separate processes relate without explaining how they become *one* process. Synchronised firing is still many neurons firing. Information integration occurs across distinct subsystems. Global broadcasting happens in multiple locations. No amount of coordination among separate things makes them literally one thing. Quantum entanglement provides something structurally different: genuine ontological holism where the whole is prior to the parts. If neural systems sustain entangled quantum states, phenomenal unity would *correspond to* the unity of the underlying physics—structure matching structure. This correspondence does not dissolve the hard problem (why any physical state produces experience), but it solves the structure-matching problem that defeats all classical approaches.
+[Phenomenal unity](/concepts/unity-of-consciousness/)—the fact that conscious experience comes as an integrated whole rather than separate parts—systematically resists physical explanation through classical mechanisms. Every classical approach shares a structural limitation: they describe how separate processes relate without explaining how they become *one* process. Synchronised firing is still many neurons firing. Information integration occurs across distinct subsystems. Global broadcasting happens in multiple locations. No amount of coordination among separate things makes them literally one thing. Quantum entanglement provides something structurally different: genuine ontological holism where the whole is prior to the parts. Among physical candidates, entanglement is the most promising substrate structurally matching phenomenal unity—a claim the Map advances on tenet grounds, not one forced by the data. If neural systems sustain entangled quantum states, phenomenal unity would *correspond to* the unity of the underlying physics—structure matching structure. This correspondence does not dissolve the hard problem (why any physical state produces experience), but it would address the structure-matching problem that defeats all classical approaches.
 
 ## The Structure of the Problem
 
@@ -178,7 +178,7 @@ The quantum binding hypothesis makes testable commitments:
 4. **Anesthetic mechanisms fully classical**: If anesthetic action on microtubules can be explained entirely through classical biochemistry, the epothilone study loses force.
 5. **Unified AI consciousness without quantum effects**: If classical computers demonstrate genuine phenomenal unity, the quantum-unity link is broken.
 
-The Map holds that current evidence favours the quantum position while acknowledging the debate remains open.
+The Map holds that the quantum position remains a realistic candidate—motivated by structural fit and biological precedent rather than settled by current evidence—while acknowledging the debate remains open.
 
 ## Relation to Site Perspective
 

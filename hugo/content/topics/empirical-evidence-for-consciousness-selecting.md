@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-06-16 19:15:48+00:00
+ai_modified: 2026-06-17 21:38:26+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -137,7 +137,7 @@ The convergence would lose force if:
 
 **Epiphenomenalism finds a mechanism for correlation.** If someone explains why phenomenal valence systematically tracks biological significance without invoking mental causation, the evolutionary argument weakens. No such explanation has been offered.
 
-**Many-Worlds interpretation is confirmed.** If all quantum outcomes occur in parallel branches, "selection" loses meaning—consciousness locates itself in a branch but does not determine which branch becomes actual. The Map [rejects Many-Worlds](/tenets/#no-many-worlds) partly because the indexical question—why this outcome?—seems meaningful.
+**Many-Worlds interpretation is confirmed.** If all quantum outcomes occur in parallel branches, "selection" loses meaning—consciousness locates itself in a branch but does not determine which branch becomes actual. The Map [rejects Many-Worlds](/tenets/#no-many-worlds) partly because the indexical question—why this outcome?—seems meaningful. Granting that selection is real, a further question is whether it runs only forward in time or operates atemporally across a time-symmetric transaction—a distinction with [its own theoretical costs](/topics/forward-in-time-vs-time-symmetric-selection/).
 
 ## Relation to Site Perspective
 
@@ -164,6 +164,7 @@ The empirical convergence supports all five of the Map's [tenets](/tenets/):
 - [baseline-cognition](/concepts/baseline-cognition/) — What neural systems achieve without consciousness
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — First-person evidence from trained observation
 - [dream-consciousness](/topics/dream-consciousness/) — Dream problem-solving tracks phenomenal mode, supporting consciousness-selecting over epiphenomenalism
+- [forward-in-time-vs-time-symmetric-selection](/topics/forward-in-time-vs-time-symmetric-selection/) — Whether selection runs forward-only or atemporally, and the costs each incurs
 
 ## References
 

@@ -5,6 +5,14 @@ ai_modified: 2026-06-17 21:07:27+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-17T21:38:26+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/quantum-measurement-and-consciousness]], [[topics/empirical-evidence-for-consciousness-selecting]]
+- **Source**: optimistic review 2026-06-17d — three missing edges in the physics-interface cluster (mechanical link-add, length-neutral)
+- **Changes**: (1) QM hub "Exploit the Gap" section — added in-body `[[selection-only-channel|selection-only channel]]` (strictest corridor reading) and `[[forward-in-time-vs-time-symmetric-selection]]` (cost-accounting); both also added to Further Reading; (2) empirical-evidence "What Would Weaken the Case" Many-Worlds entry — added in-body `[[forward-in-time-vs-time-symmetric-selection]]` plus a Further Reading entry. Note: the QM hub already linked the *distinct* `[[forward-in-time-conscious-selection]]`; the requested target was the `-vs-time-symmetric-selection` cost-accounting article.
+- **Verification**: all 3 targets resolve to real article files (topics/forward-in-time-vs-time-symmetric-selection.md, concepts/selection-only-channel.md); sync exit 0, no broken-link warning on either edited file
+- **Published**: yes
+
 ## 2026-06-17T16:20:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/quantum-holism-and-phenomenal-unity]]

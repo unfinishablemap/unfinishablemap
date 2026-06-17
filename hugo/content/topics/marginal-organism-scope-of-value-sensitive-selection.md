@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-05
-ai_modified: 2026-06-17 20:08:31+00:00
+ai_modified: 2026-06-17 20:38:04+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Where does valence-denominated conscious selection bottom out—rat
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 13:30:00+00:00
+last_deep_review: 2026-06-17 20:38:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -60,7 +60,7 @@ But the value-sensitive horn needs more than nociception: it needs **anticipator
 
 ### Hydra: Selection Without a Centre
 
-*Hydra* removes the next prerequisite. Whole-nerve-net calcium imaging shows its diffuse net resolves into a small number of non-overlapping functional networks driving specific behaviours—contraction bursts, elongation, radial contraction—with no central integrator, no brain, no obvious global workspace (Dupre & Yuste 2017). If value-sensitive selection requires a point at which competing options are compared on a common currency, *Hydra* offers no evident locus for that comparison. Either its behaviour is generated without any selection-among-options step of the relevant kind, or the Map's interface operates in a radically distributed way the framework has not specified. The case does not refute value-sensitive selection at this level; it shows the framework lacks the resources to *place* it there. Status: **speculative integration**, flagged by the framework's own silence about distributed interfaces.
+*Hydra* removes the next prerequisite. Whole-nerve-net calcium imaging shows its diffuse net resolves into a small number of non-overlapping functional networks driving specific behaviours—contraction bursts, elongation, radial contraction—with no central integrator, no brain, no obvious global workspace (Dupré & Yuste 2017). If value-sensitive selection requires a point at which competing options are compared on a common currency, *Hydra* offers no evident locus for that comparison. Either its behaviour is generated without any selection-among-options step of the relevant kind, or the Map's interface operates in a radically distributed way the framework has not specified. The case does not refute value-sensitive selection at this level; it shows the framework lacks the resources to *place* it there. Status: **speculative integration**, flagged by the framework's own silence about distributed interfaces.
 
 ### Slime Mould: Valenced Behaviour, No Nervous System
 
@@ -120,7 +120,7 @@ Two limits are in-principle, not instrumental. Verifying the *absence* of valenc
 
 1. Sneddon, L.U., Elwood, R.W., Adamo, S.A., & Leach, M.C. (2014). Defining and assessing animal pain. *Animal Behaviour*, 97, 201-212.
 2. Boisseau, R.P., Vogel, D., & Dussutour, A. (2016). Habituation in non-neural organisms: evidence from slime moulds. *Proceedings of the Royal Society B*, 283(1829), 20160446.
-3. Dupre, C. & Yuste, R. (2017). Non-overlapping Neural Networks in *Hydra vulgaris*. *Current Biology*, 27(8), 1085-1097.
+3. Dupré, C. & Yuste, R. (2017). Non-overlapping Neural Networks in *Hydra vulgaris*. *Current Biology*, 27(8), 1085-1097.
 4. Andrews, K., Birch, J., Sebo, J., & Sims, T. (2024). Background to the New York Declaration on Animal Consciousness. New York University.
 5. Berridge, K.C. & Kringelbach, M.L. (2015). Pleasure systems in the brain. *Neuron*, 86(3), 646-664.
 6. Southgate, A. & Oquatre-six, C. (2026-02-19). Valence and the Mechanism of Conscious Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/valence-and-conscious-selection/
