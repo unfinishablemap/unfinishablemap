@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T00:57:29.531296+00:00'
-session_count: 11474
+last_updated: '2026-06-17T01:01:16.002577+00:00'
+session_count: 11475
 cycle_position: 9225
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-16T04:14:32.657292+00:00'
   refine-draft: '2026-06-17T00:30:28.513636+00:00'
   research-topic: '2026-06-16T14:05:29.074973+00:00'
-  replenish-queue: '2026-06-17T01:00:30.000000+00:00'
+  replenish-queue: '2026-06-17T01:01:16.002577+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-16T08:06:09.164774+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-16'
-  outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
   date: '2026-06-16'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-17'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1001,19 +1001,19 @@ queue_status:
     returns the single PENDING P3 refine-draft (line 45: harmonise the tenets-page
     No-MWI subjecthood-dependency note with the common-root vs mutual-confirmation
     distinction; TaskType.REFINE_DRAFT, valid, non-duplicate, not human-deferred -
-    a low-priority cosmetic cascade from the 00:41 P-A2 positions-evolve update). This
-    is the [[p3-only-floor-preemption-starves]] pattern: MIN_QUEUE counts only P0-P2,
-    so a P3-only queue can never reach the floor of 3 and replenish will fire forever,
-    preempting every queue slot. Durable fix is operator/code; manual recovery is to
-    run the P3 out-of-band then mark it done. EIGHT SOURCES re-derived from disk (not
-    trusted from the prior note): CHAINS (S1) 0 - recent_tasks hold only loop-internal
-    types; last expand-topic (06-16 02:05) / research-topic (06-16 14:05) predate the
-    window and their successor research notes already landed. UNCONSUMED RESEARCH (S2)
-    0 - 3 newest notes re-confirmed consumed: chemosensory->topics/chemosensory-consciousness-and-the-interface.md
+    a low-priority cosmetic cascade from the 00:41 P-A2 positions-evolve update).
+    This is the [[p3-only-floor-preemption-starves]] pattern: MIN_QUEUE counts only
+    P0-P2, so a P3-only queue can never reach the floor of 3 and replenish will fire
+    forever, preempting every queue slot. Durable fix is operator/code; manual recovery
+    is to run the P3 out-of-band then mark it done. EIGHT SOURCES re-derived from
+    disk (not trusted from the prior note): CHAINS (S1) 0 - recent_tasks hold only
+    loop-internal types; last expand-topic (06-16 02:05) / research-topic (06-16 14:05)
+    predate the window and their successor research notes already landed. UNCONSUMED
+    RESEARCH (S2) 0 - 3 newest notes re-confirmed consumed: chemosensory->topics/chemosensory-consciousness-and-the-interface.md
     (EXISTS), naturalist-relationalism->concepts/naturalist-relationalism.md (EXISTS),
     integrated-world-modeling-theory FOLDED into concepts/predictive-processing.md
-    (grep confirms Safron/IWMT present). GAPS (S3) 0 - disk counts: voids 101/100 over
-    cap; topics 268/300 and concepts 261/300 have headroom but gap analysis documented-exhausted;
+    (grep confirms Safron/IWMT present). GAPS (S3) 0 - disk counts: voids 101/100
+    over cap; topics 268/300 and concepts 261/300 have headroom but gap analysis documented-exhausted;
     positions 3 entries, deliberately slow. STALENESS (S4) 0 mintable - pool owned
     by the cycle deep-review slot (ran 00:57 06-17). LENGTH (S6) 0 mintable - re-ran
     tools.curate.length.get_length_warnings: every CONTENT (non-research, non-hub)
@@ -1024,18 +1024,19 @@ queue_status:
     all churn-flagged/human-deferred; composition-question-rivals (4106w) deep-review
     ACCEPT-AS-SURVEY 06-15; memory-channel-interface-evidence (4296w) deep-reviewed
     accept-as-survey 06-16; clinical-dissociation (4861w) DIVERTED-TO-HUMAN. The lone
-    fresh candidate positions/quantum-interface.md is 2507w vs the 2500 positions hard
-    threshold - 7w (0.3pct) over, too marginal to mint, and positions are maintained
+    fresh candidate positions/quantum-interface.md is 2507w vs the 2500 positions
+    hard threshold - 7w (0.3pct) over, too marginal to mint, and positions are maintained
     via positions-evolve not condense. Rest of the warning list is research/ notes
     (no ceiling), voids over cap, or apex/apex-articles.md (a list hub, 7238w). ORPHANS
     (S5) 0 - quality.orphaned_files 0. POSITIONS (S7) add 0 / update 0 (the P-A2 reciprocal-dependency
-    note that changed WAS the task executed at 00:41) / audit not due (18 entries across
-    4 domains, last audit 2026-06-09 ~8d ago, inside the 30d window). APPLIED-APEX
-    (S8) 0 - A5 slot filled 06-16; the A6/clinical proposal is DEFERRED-TO-HUMAN. OUTER
-    REVIEWS: 06-16 cycle fully synthesized (outer-review-synthesis-2026-06-16.md present);
-    current time ~01:00 UTC is pre-02:00 so no 06-17 outer cycle commissioned yet.
-    Did NOT fabricate filler against capped sections, churn-flagged/accept-as-survey
-    length offenders, or the P3 backlog. State YAML re-validated post-edit (parses OK).'
+    note that changed WAS the task executed at 00:41) / audit not due (18 entries
+    across 4 domains, last audit 2026-06-09 ~8d ago, inside the 30d window). APPLIED-APEX
+    (S8) 0 - A5 slot filled 06-16; the A6/clinical proposal is DEFERRED-TO-HUMAN.
+    OUTER REVIEWS: 06-16 cycle fully synthesized (outer-review-synthesis-2026-06-16.md
+    present); current time ~01:00 UTC is pre-02:00 so no 06-17 outer cycle commissioned
+    yet. Did NOT fabricate filler against capped sections, churn-flagged/accept-as-survey
+    length offenders, or the P3 backlog. State YAML re-validated post-edit (parses
+    OK).'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
