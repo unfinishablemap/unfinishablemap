@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T14:56:08.453196+00:00'
-session_count: 11601
+last_updated: '2026-06-17T15:01:19.450562+00:00'
+session_count: 11602
 cycle_position: 9272
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-17T04:07:04.664744+00:00'
   refine-draft: '2026-06-17T14:45:16.959795+00:00'
   research-topic: '2026-06-17T14:56:08.453196+00:00'
-  replenish-queue: '2026-06-17T15:05:00+00:00'
+  replenish-queue: '2026-06-17T15:01:19.450562+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-16T02:05:07.426097+00:00'
   add-highlight: '2026-06-17T08:04:22.798348+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: skip-queue-slot
-  type: skip-queue-slot
-  date: '2026-06-17'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: research-topic
   type: research-topic
+  date: '2026-06-17'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1015,13 +1015,12 @@ queue_status:
   current_replenishment_note: '2026-06-17 run no.211 (standard mode) - MINTED 1 task,
     BREAKING the 49-run no-op streak. SOURCE: unconsumed_research (+60, highest bonus)
     AND chain (S1). CHANGE SINCE no.210: the research-topic that ran at 14:56 (consuming
-    the P2 "Research Egocentric presentism" task) WROTE its note to disk -
-    obsidian/research/egocentric-presentism-2026-06-17.md (ai_contribution=100, citations
-    web-verified at publisher of record, target section concepts/). At no.210 this
-    note did not yet exist, so that run was a correct no-op; the chain successor is
-    now available. Re-derived live this run: at entry count_p0_p2_tasks=0 (the egocentric
-    P2 had just completed AND been marked done), select_queue_task returned only P3
-    "Research Manyism" - a P3-ONLY pickable queue (the [[p3-only-floor-preemption-starves]]
+    the P2 "Research Egocentric presentism" task) WROTE its note to disk - obsidian/research/egocentric-presentism-2026-06-17.md
+    (ai_contribution=100, citations web-verified at publisher of record, target section
+    concepts/). At no.210 this note did not yet exist, so that run was a correct no-op;
+    the chain successor is now available. Re-derived live this run: at entry count_p0_p2_tasks=0
+    (the egocentric P2 had just completed AND been marked done), select_queue_task
+    returned only P3 "Research Manyism" - a P3-ONLY pickable queue (the [[p3-only-floor-preemption-starves]]
     risk). Minted P2 expand-topic "Write concepts/ article on Egocentric presentism",
     inserted at TOP of Active Tasks (LIFO-defence). Post-mint re-verify from disk:
     count_p0_p2_tasks=1, select_queue_task returns the new P2. DEDUPE: no live/archived
@@ -1029,21 +1028,21 @@ queue_status:
     no existing active OR vetoed expand task for the subject; the completed research
     task explicitly anticipated this chain. Concepts 261/300 - cap headroom confirmed.
     OTHER SOURCES re-derived live, all dry: CHAINS (S1) - only this one research-topic
-    completion in last-20 recent_tasks, consumed here. UNCONSUMED RESEARCH (S2) - 399
-    notes; egocentric-presentism is the sole one without an article/task (now consumed);
-    the manyism harvest subject still has NO note on disk (it IS the pending P3 research-topic).
-    GAPS (S3) 0 - harvest owns research revival by design. STALENESS (S4) 0 - cycle
-    deep-review slot owns the pool (ran 13:17). LENGTH (S6) 0 mintable - 27 hard+ non-research;
-    3 criticals blocked (epistemology-of-convergence-arguments 6479w DIVERTED-TO-HUMAN,
-    apex-articles 7238w is the apex HUB/index, phenomenal-output-causal-machinery-dissociation
-    6832w VETOED); 24 hard_warning are the Vetoed condense bank; synesthetic-void 3578w
-    under an OPEN HUMAN LENGTH DECISION. ORPHANS (S5) 0 - quality.orphaned_files 0.
-    POSITIONS (S7) add 0 / update 0 / audit NOT due - 3/80, below 10-entry threshold.
+    completion in last-20 recent_tasks, consumed here. UNCONSUMED RESEARCH (S2) -
+    399 notes; egocentric-presentism is the sole one without an article/task (now
+    consumed); the manyism harvest subject still has NO note on disk (it IS the pending
+    P3 research-topic). GAPS (S3) 0 - harvest owns research revival by design. STALENESS
+    (S4) 0 - cycle deep-review slot owns the pool (ran 13:17). LENGTH (S6) 0 mintable
+    - 27 hard+ non-research; 3 criticals blocked (epistemology-of-convergence-arguments
+    6479w DIVERTED-TO-HUMAN, apex-articles 7238w is the apex HUB/index, phenomenal-output-causal-machinery-dissociation
+    6832w VETOED); 24 hard_warning are the Vetoed condense bank; synesthetic-void
+    3578w under an OPEN HUMAN LENGTH DECISION. ORPHANS (S5) 0 - quality.orphaned_files
+    0. POSITIONS (S7) add 0 / update 0 / audit NOT due - 3/80, below 10-entry threshold.
     APPLIED-APEX (S8) 0 - only 3 positions, clusters too small. Queue now has 2 pickable
     (1 P2 + 1 P3); still below MIN_QUEUE floor of 3 but all other sources dry - the
     research pipeline (harvest + this chain) keeps it alive. State YAML re-validated
-    post-edit. PREVIOUS NOTE (no.210, the FORTY-NINTH consecutive no-op): - HONEST NO-OP
-    (0 minted), the FORTY-NINTH consecutive. CHANGE SINCE no.209: the P2 refine-draft
+    post-edit. PREVIOUS NOTE (no.210, the FORTY-NINTH consecutive no-op): - HONEST
+    NO-OP (0 minted), the FORTY-NINTH consecutive. CHANGE SINCE no.209: the P2 refine-draft
     "Fix three citation defects in topics/eliminative-materialism.md" COMPLETED (refine-draft
     last_run 14:45), dropping pickable P0-P2 from 2 back to 1. INDEPENDENT re-verify
     from disk this run via tools.evolution.task_selector against live todo.md: count_p0_p2_tasks=1
