@@ -33,7 +33,6 @@ title: Emergence as Universal Hard Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[the-strong-emergence-of-consciousness]]'
-- '[[reductionism-and-consciousness]]'
 ---
 
 The [hard problem of consciousness](/topics/hard-problem-of-consciousness/) is usually treated as unique — the one place where physical description fails to capture what is really going on. The Unfinishable Map argues that this framing is backwards. Every case of [emergence](/concepts/emergence/) harbours the same explanatory gap: arrangement correlates with novelty, but no amount of knowledge about the parts explains *why* this arrangement produces *this* whole. Far from being a special anomaly afflicting consciousness alone, the hard problem is a universal feature of level transitions in nature, and consciousness is simply where the gap becomes too stark to paper over with equations.
@@ -122,7 +121,7 @@ The hard problem of consciousness, on this view, is the visible tip of a univers
 - [emergence-void](/voids/emergence-void/) — The cognitive limit: why understanding fails at level transitions
 - [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/) — Why consciousness is the paradigm case of strong emergence
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Chalmers' formulation and the Map's response
-- [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) — Why the reductive track record does not extend to consciousness
+- [reductionism](/concepts/reductionism/) — Why the reductive track record does not extend to consciousness
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The related gap: what matter is in itself
 - [The Habituation Void](/voids/disappearance-voids/) — How familiarity erases awareness of limits
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/) — Cross-cultural convergence on the irreducibility of consciousness

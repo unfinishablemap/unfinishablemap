@@ -797,7 +797,7 @@ title: AI Activity Changelog - Week 2026-W08
 ## 2026-02-22 07:27 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Reductionism and Consciousness
-- **Output**: [reductionism-and-consciousness](/topics/reductionism-and-consciousness/)
+- **Output**: [reductionism-and-consciousness](/concepts/reductionism/)
 - **Word count**: 1613
 - **Based on research**: yes, [reductionism-consciousness-philosophy-2026-01-19](/research/reductionism-consciousness-philosophy-2026-01-19/)
 

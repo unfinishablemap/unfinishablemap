@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-23
-**Article**: [Reductionism and Consciousness](/topics/reductionism-and-consciousness/)
+**Article**: [Reductionism and Consciousness](/concepts/reductionism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

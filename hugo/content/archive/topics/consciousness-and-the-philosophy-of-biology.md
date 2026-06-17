@@ -124,7 +124,7 @@ The Map holds that philosophy of biology reveals not the biological nature of co
 - [mental causation](/concepts/mental-causation-and-downward-causation/)
 - [causal-closure](/concepts/causal-closure/)
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)
-- [reductionism-and-consciousness](/topics/reductionism-and-consciousness/)
+- [reductionism-and-consciousness](/concepts/reductionism/)
 - [biological-teleology-and-the-interface-framework](/topics/biological-teleology-and-the-interface-framework/)
 
 ## References

@@ -89,7 +89,7 @@ The interface framework has implications for longstanding debates in philosophy 
 
 **The function-malfunction problem.** A heart that cannot pump blood is malfunctioning, but "malfunction" seems to require a norm—a way things *should* be. Selected-effects theories ground norms in evolutionary history: the heart should pump because pumping is what hearts were selected for. But this makes malfunction purely backward-looking. Under the interface framework, conscious agents can recognise malfunction in a genuinely normative sense—they experience their body as failing to serve their purposes, introducing a forward-looking normative dimension that selected-effects accounts lack.
 
-**The organism-machine boundary.** If purpose distinguishes conscious organisms from purely functional systems, the interface framework provides a principled boundary. An organism with a selection interface is not merely a biological machine—it is a locus of genuine agency. This connects to the broader case that [[reductionism-and-consciousness|consciousness resists reduction]]: purposive selection cannot be captured in the language of mechanism alone. This aligns with the intuition that reducing organisms to machines misses something, while grounding that intuition in a specific mechanism rather than leaving it as a vague objection to reductionism.
+**The organism-machine boundary.** If purpose distinguishes conscious organisms from purely functional systems, the interface framework provides a principled boundary. An organism with a selection interface is not merely a biological machine—it is a locus of genuine agency. This connects to the broader case that [[reductionism|consciousness resists reduction]]: purposive selection cannot be captured in the language of mechanism alone. This aligns with the intuition that reducing organisms to machines misses something, while grounding that intuition in a specific mechanism rather than leaving it as a vague objection to reductionism.
 
 ## Relation to Site Perspective
 
@@ -114,7 +114,7 @@ The connection between biological teleology and the interface framework draws on
 - [[consciousness-and-causal-powers]] — The nature and scope of consciousness's causal influence
 - [[consciousness-as-activity]] — Why consciousness is something organisms do, not something brains have
 - [[moral-implications-of-genuine-agency]] — What follows for morality when biological purpose is real
-- [[reductionism-and-consciousness]] — Why purposive selection resists reductive explanation
+- [[reductionism|Reductionism and Consciousness]] — Why purposive selection resists reductive explanation
 - [[agent-causation]] — The metaphysics of agent-level causation
 - [[agent-teleology]] — The concept of genuine purpose introduced by conscious agents
 - [[marginal-organism-scope-of-value-sensitive-selection]] — Where teleological, valence-denominated selection bottoms out across organisms

@@ -52,7 +52,7 @@ topics: []
 2. [arguments-against-materialism](/topics/arguments-against-materialism/) — Inline link in "The Cumulative Case" section + related_articles
 3. [dualism](/concepts/dualism/) — Further Reading entry
 4. [causal-closure](/concepts/causal-closure/) — related_articles
-5. [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) — Further Reading entry
+5. [reductionism-and-consciousness](/concepts/reductionism/) — Further Reading entry
 6. [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Further Reading entry
 
 **Total inbound links**: 2 (before) → 8 (after)

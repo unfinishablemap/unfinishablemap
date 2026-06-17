@@ -69,7 +69,7 @@ Files updated (62 link replacements across 26 files):
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) (2)
 - [placebo-effect-and-mental-causation](/topics/empirical-phenomena-mental-causation/) (2)
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) (2)
-- [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) (4)
+- [reductionism-and-consciousness](/concepts/reductionism/) (4)
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) (2)
 - [value-blind-vs-value-sensitive-selection](/topics/valence-and-conscious-selection/) (2)
 - [valence-void](/voids/valence-void/) (5)

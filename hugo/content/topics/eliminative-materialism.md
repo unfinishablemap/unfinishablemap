@@ -45,7 +45,7 @@ title: Eliminative Materialism
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[arguments-against-materialism]]'
-- '[[reductionism-and-consciousness]]'
+- '[[reductionism]]'
 ---
 
 Eliminative materialism is the radical thesis that the categories of common-sense psychology—beliefs, desires, qualia, the self—do not pick out anything real, and that a mature science of mind will displace them rather than reduce them. Where reductive physicalism says *mental states are brain states*, eliminativism says *there are no mental states; there are only brain states, and our talk about minds is a deeply false theory*. The position has two distinct strands: classical eliminativism about propositional attitudes (Paul Churchland, Patricia Churchland, Stephen Stich) and contemporary [illusionism](/concepts/illusionism/) about phenomenal consciousness (Keith Frankish, Daniel Dennett). The Unfinishable Map rejects eliminativism as a theory of consciousness while conceding that some objections—particularly the connectionist challenge to the propositional-attitude framework—carry genuine theoretical weight that any responsible defence must engage rather than dismiss.
@@ -157,7 +157,7 @@ Eliminativism persists because physicalism keeps failing to produce a satisfying
 ## Further Reading
 
 - [arguments-against-materialism](/topics/arguments-against-materialism/) — the broader case the Map develops, of which eliminativism is the limit case
-- [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) — distinct strategy (reduce rather than eliminate); the Map argues both fail
+- [Reductionism and Consciousness](/concepts/reductionism/) — distinct strategy (reduce rather than eliminate); the Map argues both fail
 - [illusionism](/concepts/illusionism/) — focused treatment of the phenomenal-consciousness strand
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — the explanandum eliminativism proposes to dissolve
 - [parsimony-epistemology](/concepts/parsimony-epistemology/) — why Occam's Razor cannot bear the weight eliminativism places on it

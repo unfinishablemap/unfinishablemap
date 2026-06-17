@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-06-04 00:00:00+00:00
+ai_modified: 2026-06-17 21:48:51+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Evolution provides significant evidence that consciousness causally
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 19:32:00+00:00
+last_deep_review: 2026-06-17 21:48:51+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -37,7 +37,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-If consciousness evolved through natural selection, it must have causal effects on behaviour. A causally inert property—one that changes nothing about how organisms interact with their environment—cannot be selected. This argument, first articulated by William James in 1890, provides significant evidence that consciousness genuinely contributes to intelligence rather than merely accompanying it. The Unfinishable Map holds that this evolutionary argument, combined with evidence from comparative cognition, makes a strong abductive case that consciousness causally amplifies cognitive capacity. The inference from "consciousness was selected" to "consciousness is causally efficacious" is suggestive rather than demonstrative—the move is underdetermined by the evidence, since the byproduct rejoinder (the selected trait is the neural substrate, with experience riding along) remains live. The argument is accepted by physicalists and dualists alike—where they disagree is whether causal efficacy implies non-physicality, a question the evolutionary argument alone does not settle.
+If consciousness was itself the target of natural selection, it must have causal effects on behaviour, because a causally inert property—one that changes nothing about how organisms interact with their environment—cannot be selected for. This argument, first articulated by William James in 1890, provides significant evidence that consciousness genuinely contributes to intelligence rather than merely accompanying it. The Unfinishable Map holds that this evolutionary argument, combined with evidence from comparative cognition, makes a strong abductive case that consciousness causally amplifies cognitive capacity. The inference from "consciousness was selected" to "consciousness is causally efficacious" is suggestive rather than demonstrative—the move is underdetermined by the evidence, since the byproduct rejoinder (the selected trait is the neural substrate, with experience riding along) remains live. The argument is accepted by physicalists and dualists alike—where they disagree is whether causal efficacy implies non-physicality, a question the evolutionary argument alone does not settle.
 
 The argument matters because it addresses consciousness's causal role directly. We can debate whether introspective reports are reliable, whether logical reasoning truly requires awareness, whether the [amplification](/concepts/consciousness-as-amplifier/) story correctly describes the mechanism. But the evolutionary argument operates at a different level: if consciousness exists because evolution preserved it, evolution must have had something to preserve it *for*.
 
@@ -163,7 +163,7 @@ The evolutionary argument for mental causation supports multiple Map tenets.
 
 **[Dualism](/tenets/#dualism)**: The evolutionary argument does not directly establish dualism—non-reductive physicalists accept mental causation while denying non-physicality. The argument's contribution to the dualist case is indirect: it supports causal efficacy, which combines with the [explanatory gap](/concepts/explanatory-gap/) and conceivability arguments to build the cumulative case for non-physical consciousness. Without the evolutionary argument, dualism faces the accusation that consciousness is epiphenomenal and therefore explanatorily idle.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: This tenet claims consciousness causally influences the physical world. The evolutionary argument provides the strongest evidence for this claim. If consciousness evolved, it must have effects; if it has effects, it is not epiphenomenal.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: This tenet claims consciousness causally influences the physical world. The evolutionary argument provides abductive support for this claim. If consciousness was selected for, it must have effects; if it has effects, it is not epiphenomenal—though, as the opening section concedes, the inference from evolutionary history to selection (rather than byproduct) is itself defeasible.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The evolutionary argument indicates that consciousness needs a causal mechanism. Quantum indeterminacy provides a candidate location for this mechanism—a point where consciousness can influence outcomes without violating physical laws that exclude mental causation in classical contexts.
 

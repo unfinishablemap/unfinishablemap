@@ -65,7 +65,7 @@ None. The article is factually sound, properly structured, and honest about its 
 - Cross-linked to reductionism-and-consciousness throughout (body, Further Reading, frontmatter)
 
 ### Cross-links Added
-- [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) — body text (transparency test paragraph and vitalism paragraph), Further Reading, frontmatter topics
+- [reductionism-and-consciousness](/concepts/reductionism/) — body text (transparency test paragraph and vitalism paragraph), Further Reading, frontmatter topics
 
 ## Word Count
 

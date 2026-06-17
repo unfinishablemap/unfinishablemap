@@ -42,7 +42,7 @@ related_articles:
   - "[[quantum-biology-and-neural-consciousness]]"
   - "[[quantum-biology-and-neural-mechanisms]]"
   - "[[the-epiphenomenalist-threat]]"
-  - "[[reductionism-and-consciousness]]"
+  - "[[reductionism]]"
   - "[[explanatory-gap]]"
   - "[[psychophysical-laws]]"
   - "[[biological-computationalisms-inadvertent-case-for-dualism]]"
@@ -169,7 +169,7 @@ No theory of mind has solved this. The honest position is to acknowledge this wh
 - [[baseline-cognition]] — What sophisticated neural processing achieves without consciousness
 - [[biological-computationalisms-inadvertent-case-for-dualism]] — How computational biology's retreat from substrate independence concedes the dualist point
 - [[enactivism-challenge-to-interactionist-dualism]] — Enactivism's deep continuity thesis and the hard problem it inherits
-- [[reductionism-and-consciousness]] — Limits of reductive explanation
+- [[reductionism|Reductionism and Consciousness]] — Limits of reductive explanation
 
 ## References
 

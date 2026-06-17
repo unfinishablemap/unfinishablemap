@@ -52,14 +52,14 @@ None. The previous review's fixes (Barrett citation, quantum convergence qualifi
 ### Enhancements Made
 - Added cross-link to [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) (inline + Further Reading)
 - Added cross-link to [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/) (inline + Further Reading)
-- Added cross-link to [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) (inline + Further Reading)
+- Added cross-link to [reductionism-and-consciousness](/concepts/reductionism/) (inline + Further Reading)
 - Tightened vitalism section prose slightly to maintain length neutrality
 - Added all three new articles to related_articles frontmatter
 
 ### Cross-links Added
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)
 - [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/)
-- [reductionism-and-consciousness](/topics/reductionism-and-consciousness/)
+- [reductionism-and-consciousness](/concepts/reductionism/)
 
 ## Remaining Items
 

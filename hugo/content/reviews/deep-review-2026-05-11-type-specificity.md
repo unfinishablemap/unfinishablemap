@@ -41,7 +41,7 @@ None.
 
 - **Empiricist concern (Popper's Ghost)**: The original phrasing — "a neuroscience that delivered the determinate character of redness in physical terms would discharge the demand at redness" — left the diagnostic criterion vague. *Resolution*: Sharpened to require that the explanans, run forward, would derive *redness specifically* (not "some phenomenal type or other") as the output of the proposed physical structure. This makes the type-specific criterion operational.
 
-- **Explananda-denying physicalist strategies (Dennett's heterophenomenology, Frankish's illusionism, Churchlands' eliminativism)**: The article's §What Type-Specificity Does Not Do bullet on "Defeat physicalism" engaged the explananda-granting physicalist implicitly. *Resolution*: Added explicit framework-boundary marking — illusionism/heterophenomenology/eliminativism are noted as *bypassing* the type-specific demand rather than meeting it, with the deferral to [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) and [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) for whether the bypass strategy succeeds. The classification: framework-boundary marking (no claim to refute the explananda-denier inside their own framework). Editor-vocabulary kept out of article prose.
+- **Explananda-denying physicalist strategies (Dennett's heterophenomenology, Frankish's illusionism, Churchlands' eliminativism)**: The article's §What Type-Specificity Does Not Do bullet on "Defeat physicalism" engaged the explananda-granting physicalist implicitly. *Resolution*: Added explicit framework-boundary marking — illusionism/heterophenomenology/eliminativism are noted as *bypassing* the type-specific demand rather than meeting it, with the deferral to [reductionism-and-consciousness](/concepts/reductionism/) and [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) for whether the bypass strategy succeeds. The classification: framework-boundary marking (no claim to refute the explananda-denier inside their own framework). Editor-vocabulary kept out of article prose.
 
 ### Counterarguments Considered
 
@@ -69,11 +69,11 @@ None.
 ### Cross-links Added
 
 - [explanatory-gap](/concepts/explanatory-gap/) (inline, §The Structural Feature)
-- [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) (inline in expanded Defeat-physicalism bullet — already listed in Further Reading)
+- [reductionism-and-consciousness](/concepts/reductionism/) (inline in expanded Defeat-physicalism bullet — already listed in Further Reading)
 
 ## Mode-Classification Notes (Editor-Internal)
 
-The article does not engage named opponents in the body, but the expanded §What Type-Specificity Does Not Do "Defeat physicalism" bullet performs framework-boundary marking with respect to illusionism, heterophenomenology, and eliminativism. Classification: framework-boundary marking — the disagreement is at the framework boundary, the reply notes the disagreement honestly without claiming to refute the opponent inside their own framework. Editor-vocabulary terms (mode-N, boundary-substitution, etc.) are not present in article prose. Honest deferral to [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) for whether the bypass strategies succeed.
+The article does not engage named opponents in the body, but the expanded §What Type-Specificity Does Not Do "Defeat physicalism" bullet performs framework-boundary marking with respect to illusionism, heterophenomenology, and eliminativism. Classification: framework-boundary marking — the disagreement is at the framework boundary, the reply notes the disagreement honestly without claiming to refute the opponent inside their own framework. Editor-vocabulary terms (mode-N, boundary-substitution, etc.) are not present in article prose. Honest deferral to [reductionism-and-consciousness](/concepts/reductionism/) for whether the bypass strategies succeed.
 
 ## Remaining Items
 

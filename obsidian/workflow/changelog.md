@@ -5,6 +5,14 @@ ai_modified: 2026-06-17 21:48:51+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-17T22:09:24+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/reductionism]] (2154w body), [[topics/reductionism-and-consciousness]] (2184w body) — heavy redundancy (shared track-record-vs-consciousness thesis, Nagel bridge laws, Kim functional-reduction concession, C. elegans connectome, pain asymbolia, water=H₂O transparency, zombie argument, same tenet-aligned conclusion)
+- **Target**: [[concepts/reductionism]] (canonical concept slug; absorbed the topic's track-record framing, named transparency test, vitalism objection, type-specificity, Kuhnian-crisis, biological-computationalism; kept three-types taxonomy, multiple realizability, Kim's exclusion argument, greedy reductionism). Merged body 3492w → soft_warning (under hard 3500)
+- **Archived**: [[archive/topics/reductionism-and-consciousness]] (superseded_by /concepts/reductionism/); URL preserved via archive notice
+- **Stale hugo dup removed**: deleted hugo/content/topics/reductionism-and-consciousness.md (sync does not auto-delete archived originals — known issue)
+- **References repointed**: 13 live-content files repointed [[reductionism-and-consciousness]] → [[reductionism]] (deduped 4 files that already linked the concept). Historical refs in reviews/research/changelog-archive left intact.
+
 ## 2026-06-17T21:48:51+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/evolutionary-case-for-mental-causation]]

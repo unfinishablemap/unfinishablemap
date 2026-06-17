@@ -26,7 +26,6 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[psychophysical-laws-bridging-mind-and-matter]]'
-- '[[reductionism-and-consciousness]]'
 - '[[meta-problem-of-consciousness]]'
 - '[[evolution-under-dualism]]'
 - '[[dualism]]'
@@ -133,7 +132,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet opens 
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — The framework for laws connecting mind and brain
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — Why scientific method structurally excludes subjectivity
 - [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/) — How consciousness breaks standard theories of explanation
-- [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) — Why reduction succeeds everywhere except consciousness
+- [reductionism](/concepts/reductionism/) — Why reduction succeeds everywhere except consciousness
 - [evolution-under-dualism](/topics/evolution-under-dualism/) — How evolutionary biology operates under dualist assumptions
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal experience
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — The empirical programme that dualism preserves

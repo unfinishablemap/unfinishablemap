@@ -8,7 +8,6 @@ ai_modified: 2026-06-07T13:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[reductionism-and-consciousness]]"
 concepts:
   - "[[bi-aspectual-ontology]]"
   - "[[evolution-of-consciousness]]"
@@ -89,7 +88,7 @@ Their view requires rejecting causal closure: if consciousness possesses genuine
 
 ## Why Consciousness Is the Paradigm Case
 
-Every successful [[reductionism-and-consciousness|scientific reduction]] passes a transparency test: once the lower-level mechanism is known, the higher-level phenomenon becomes *intelligible*. Learning that temperature is molecular kinetic energy explains *why* heating gas increases pressure. Learning that genes are DNA explains *why* inheritance follows Mendelian ratios. Consciousness fails this test uniquely—complete knowledge of neural correlates leaves the existence of experience [[explanatory-gap|opaque]].
+Every successful [[reductionism|scientific reduction]] passes a transparency test: once the lower-level mechanism is known, the higher-level phenomenon becomes *intelligible*. Learning that temperature is molecular kinetic energy explains *why* heating gas increases pressure. Learning that genes are DNA explains *why* inheritance follows Mendelian ratios. Consciousness fails this test uniquely—complete knowledge of neural correlates leaves the existence of experience [[explanatory-gap|opaque]].
 
 The [[emergence-as-universal-hard-problem|universal hard problem thesis]] argues this opacity is present at every level transition—reduction relocates explanatory gaps rather than closing them. Consciousness is where the gap becomes undeniable because the qualitative character in question is experience itself. The [[noetic-feelings-void|understanding void]] deepens this: the phenomenal sense of understanding that makes other reductions *feel* transparent is itself a conscious process, so the transparency test relies on the very phenomenon it identifies as irreducible. Three features make this failure systematic:
 
@@ -128,7 +127,7 @@ The difference: O'Connor and Wong acknowledge that strongly emergent properties 
 
 Critics argue that strong emergence merely names the problem—what Dennett calls "greedy [[reductionism]]" applied in reverse, expecting a label to do explanatory work it cannot. The criticism has force: strong emergence provides *classification* rather than *explanation*. The Map's quantum framework aims to transform classification into explanation, though this project remains incomplete.
 
-A related objection invokes vitalism: people once insisted life was irreducible, yet biochemistry reduced it; consciousness will go the same way. The analogy fails on its own terms—vitalism was a *functional* hypothesis defeated by a better functional explanation, while the hard problem concerns phenomenal character, not functional role (see the [[reductionism-and-consciousness|reductionism case]] for the full argument).
+A related objection invokes vitalism: people once insisted life was irreducible, yet biochemistry reduced it; consciousness will go the same way. The analogy fails on its own terms—vitalism was a *functional* hypothesis defeated by a better functional explanation, while the hard problem concerns phenomenal character, not functional role (see the [[reductionism|reductionism case]] for the full argument).
 
 The comparison with alternatives is instructive:
 
@@ -181,8 +180,7 @@ This vocabulary serves comparison rather than canonical self-description: the Ma
 - [[dualism]] — Seven converging arguments that physical description cannot capture consciousness
 - [[mental-causation-and-downward-causation|Mental Causation and Downward Causation]] — How mental states cause physical effects at quantum indeterminacies
 - [[evolution-of-consciousness]] — When consciousness emerged and what this reveals about emergence
-- [[reductionism-and-consciousness]] — Why consciousness is the singular exception to reductionism's record
-- [[reductionism]] — The three types of reductionism and why consciousness resists each
+- [[reductionism]] — The three types of reductionism, the track record of successful reduction, and why consciousness is the singular exception
 - [[interactionist-dualism]] — the Map's framework at the quantum opening, adjacent to strong emergentism but bi-aspectual rather than from-below
 - [[psychophysical-laws]] — Candidate coupling mechanisms for how consciousness interacts with quantum systems
 - [[measurement-problem]] — The central puzzle creating logical space for consciousness at quantum indeterminacy

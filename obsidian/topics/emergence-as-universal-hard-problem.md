@@ -9,7 +9,6 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[the-strong-emergence-of-consciousness]]"
-  - "[[reductionism-and-consciousness]]"
 concepts:
   - "[[emergence]]"
   - "[[reductionism]]"
@@ -119,7 +118,7 @@ The hard problem of consciousness, on this view, is the visible tip of a univers
 - [[emergence-void]] — The cognitive limit: why understanding fails at level transitions
 - [[the-strong-emergence-of-consciousness]] — Why consciousness is the paradigm case of strong emergence
 - [[hard-problem-of-consciousness]] — Chalmers' formulation and the Map's response
-- [[reductionism-and-consciousness]] — Why the reductive track record does not extend to consciousness
+- [[reductionism]] — Why the reductive track record does not extend to consciousness
 - [[intrinsic-nature-void]] — The related gap: what matter is in itself
 - [[disappearance-voids|The Habituation Void]] — How familiarity erases awareness of limits
 - [[the-hard-problem-in-non-western-philosophy]] — Cross-cultural convergence on the irreducibility of consciousness

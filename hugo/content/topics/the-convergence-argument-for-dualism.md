@@ -33,7 +33,7 @@ related_articles:
 - '[[emotion-and-dualism]]'
 - '[[quantum-measurement-and-consciousness]]'
 - '[[epistemology-of-convergence-arguments]]'
-- '[[reductionism-and-consciousness]]'
+- '[[reductionism]]'
 - '[[cross-cultural-convergence-on-mental-causation]]'
 - '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
 - '[[concession-convergence]]'
@@ -161,7 +161,7 @@ A vitalist in 1820 could have observed accurately that the chemistry-life gap ha
 
 "Vital force" was a placeholder for unspecified mechanism, picking out no particular feature a reduction had to deliver. When Wöhler synthesised urea (1828), Buchner demonstrated cell-free fermentation (1897), and DNA's structure was elucidated (1953), the placeholder shrank because *any* mechanism for *any* part of the target counted as success. Phenomenal qualities have a different shape: redness, painfulness, and the taste of coffee are each determinate phenomenal types. A reductive account must deliver *that* character type-by-type, and reducing one type would not extend automatically to others.
 
-The disanalogy is genuine but not unlimited: [type-specific](/concepts/type-specificity/) reductive demands could in principle be met. That neuroscience has produced no partial reduction of phenomenal quality — no "this is what redness *is*" analogous to "this is what fermentation *is*" — is an honest temporal report. The hard problem's shape, not its current depth, distinguishes consciousness from vitalism. (See [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) and [type-specificity](/concepts/type-specificity/) for the fuller treatment.)
+The disanalogy is genuine but not unlimited: [type-specific](/concepts/type-specificity/) reductive demands could in principle be met. That neuroscience has produced no partial reduction of phenomenal quality — no "this is what redness *is*" analogous to "this is what fermentation *is*" — is an honest temporal report. The hard problem's shape, not its current depth, distinguishes consciousness from vitalism. (See [Reductionism and Consciousness](/concepts/reductionism/) and [type-specificity](/concepts/type-specificity/) for the fuller treatment.)
 
 **Assessing independence is difficult.** As the Bayesian section details, the arguments cluster around shared assumptions that reduce effective independence. Cumulative force is real but more modest than a naive count of separate arguments would suggest.
 
@@ -188,7 +188,7 @@ The [No Many Worlds tenet](/tenets/#no-many-worlds) connects through the [indexi
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The target explanandum that resists reduction
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — The formal epistemology of convergence as philosophical method
 - [common-cause-null](/project/common-cause-null/) — The Map's discipline for distinguishing independent triangulation from shared upstream architecture across convergence claims
-- [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) — Why consciousness differs structurally from past reductive successes
+- [Reductionism and Consciousness](/concepts/reductionism/) — Why consciousness differs structurally from past reductive successes
 - [concession-convergence](/concepts/concession-convergence/) — The complementary pattern: physicalist theories retreating toward dualist positions
 - [concession-convergence-philosophy-of-mathematics](/topics/concession-convergence-philosophy-of-mathematics/) — The concession pattern extended to philosophy of mathematics
 - [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/) — Independent traditions converging on consciousness's causal efficacy

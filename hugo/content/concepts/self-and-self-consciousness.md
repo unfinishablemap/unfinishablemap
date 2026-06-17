@@ -46,7 +46,7 @@ related_articles:
 - '[[phenomenology-of-recursive-self-awareness]]'
 - '[[the-self-minimal-narrative-and-substantial]]'
 - '[[consciousness-and-the-ownership-problem]]'
-- '[[reductionism-and-consciousness]]'
+- '[[reductionism]]'
 - '[[ownership-void]]'
 - '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[eastern-philosophy-consciousness]]'
@@ -188,7 +188,7 @@ The minimal self thesis has limited empirical testability: testing requires repo
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: First-personal givenness is not a feature of physical descriptions — neurological detail describes what a subject does, not what it is to *be* this subject. The circularity problem deepens this: if self-consciousness cannot be constructed from non-self-conscious components, consciousness has a feature no functional decomposition captures. [Reductionism succeeds](/topics/reductionism-and-consciousness/) where the higher-level phenomenon is structural and functional; self-consciousness resists because reflexive awareness belongs to a different category.
+**[Dualism](/tenets/#dualism)**: First-personal givenness is not a feature of physical descriptions — neurological detail describes what a subject does, not what it is to *be* this subject. The circularity problem deepens this: if self-consciousness cannot be constructed from non-self-conscious components, consciousness has a feature no functional decomposition captures. [Reductionism succeeds](/concepts/reductionism/) where the higher-level phenomenon is structural and functional; self-consciousness resists because reflexive awareness belongs to a different category.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Reflective self-consciousness enables deliberate choice — evaluating, revising, redirecting among competing impulses rather than passively executing whichever is strongest. The minimal self is a more perspicuous locus of agency than a self-model: representations can be causally implicated, but "implicated in" is not "the bearer of."
 

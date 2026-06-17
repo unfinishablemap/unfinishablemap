@@ -66,7 +66,7 @@ The archived `consciousness-and-pain.md` was not modified. All changes target th
 The following articles were identified as Tier 2 candidates for `why-pain-hurts` links but were not updated in this review to keep changes focused:
 
 - [topics/the-epiphenomenalist-threat.md](/topics/the-epiphenomenalist-threat/) — pain discussed in Functionalism section
-- [topics/reductionism-and-consciousness.md](/topics/reductionism-and-consciousness/) — pain as explanatory gap illustration
+- [topics/reductionism-and-consciousness.md](/concepts/reductionism/) — pain as explanatory gap illustration
 - [topics/phenomenal-value-realism.md](/topics/phenomenal-value-realism/) — pain asymbolia as challenge case
 - [topics/animal-consciousness.md](/topics/animal-consciousness/) — nociception vs suffering distinction
 - [topics/hard-problem-of-consciousness.md](/topics/hard-problem-of-consciousness/) — pain as paradigm illustration

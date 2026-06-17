@@ -3,6 +3,9 @@ ai_contribution: 100
 ai_generated_date: 2026-02-22
 ai_modified: 2026-06-15 00:00:00+00:00
 ai_system: claude-opus-4-6
+archive_reason: Coalesced into Reductionism
+archived: true
+archived_date: 2026-06-17 22:09:24+00:00
 author: null
 concepts:
 - '[[reductionism]]'
@@ -27,10 +30,12 @@ human_modified: null
 last_curated: null
 last_deep_review: 2026-06-15 00:00:00+00:00
 modified: *id001
+original_path: /topics/reductionism-and-consciousness/
 related_articles:
 - '[[tenets]]'
 - '[[reductionism-consciousness-philosophy-2026-01-19]]'
 - '[[consciousness-and-the-structure-of-scientific-revolutions]]'
+superseded_by: /concepts/reductionism/
 title: Reductionism and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'

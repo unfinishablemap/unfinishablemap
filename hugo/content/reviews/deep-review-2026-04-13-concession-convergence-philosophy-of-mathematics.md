@@ -28,7 +28,7 @@ None.
 ### Medium Issues Found
 - **Lucas-Penrose argument unacknowledged**: The article's core claim—that Gödel's theorems reveal human understanding transcends formal systems—is the Lucas-Penrose argument, which has been extensively criticized by Putnam, Boolos, and Feferman. Not naming this lineage was a credibility gap. **Resolution**: Added "Relation to the Lucas-Penrose Argument" section that names the lineage, acknowledges criticisms, and explains how concession convergence differs structurally (it doesn't depend on any single theorem).
 - **Equivocation between "formal" and "physical"**: The article slid from "formal systems can't capture all mathematical truth" to "conscious understanding is irreducible to formal or physical process" without justification. Gödel constrains recursively axiomatizable systems, not physical processes generally. **Resolution**: Added explicit paragraph addressing this, explaining that the convergence of four independent programmes (not just Gödel) supports the broader claim.
-- **Missing cross-links**: Natural connections to [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) were absent. **Resolution**: Added to frontmatter and Further Reading section.
+- **Missing cross-links**: Natural connections to [reductionism-and-consciousness](/concepts/reductionism/) were absent. **Resolution**: Added to frontmatter and Further Reading section.
 - **Brouwer reference imprecise**: Cited as 1912 inaugural address; the English publication is 1913 in the Bulletin of the AMS. **Resolution**: Corrected to 1913 with proper journal citation.
 
 ### Counterarguments Considered
@@ -46,13 +46,13 @@ None.
 
 ### Enhancements Made
 - Added "Relation to the Lucas-Penrose Argument" section (~280 words) engaging with the most important prior work and criticisms, while distinguishing the concession-convergence approach
-- Added cross-link to [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) in frontmatter and Further Reading
+- Added cross-link to [reductionism-and-consciousness](/concepts/reductionism/) in frontmatter and Further Reading
 - Added references for Lucas (1961) and Penrose (1989)
 - Corrected Brouwer reference from 1912 to 1913 with proper journal citation
 - Tightened opening paragraph to front-load the dualist conclusion more explicitly
 
 ### Cross-links Added
-- [reductionism-and-consciousness](/topics/reductionism-and-consciousness/)
+- [reductionism-and-consciousness](/concepts/reductionism/)
 
 ## Remaining Items
 

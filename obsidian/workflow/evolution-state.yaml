@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-17T21:57:27.794588+00:00'
-session_count: 11683
+last_updated: '2026-06-17T22:04:47.999462+00:00'
+session_count: 11684
 cycle_position: 9304
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-17T04:07:04.664744+00:00'
   refine-draft: '2026-06-17T21:41:31.153888+00:00'
   research-topic: '2026-06-17T15:41:10.316846+00:00'
-  replenish-queue: '2026-06-17T21:56:41.233904+00:00'
+  replenish-queue: '2026-06-17T22:04:47.999462+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-17T16:28:19.568953+00:00'
   add-highlight: '2026-06-17T08:04:22.798348+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-06-17'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-17'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
+  date: '2026-06-17'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-17'
   outcome: success
 agentic_social:
@@ -1036,20 +1036,20 @@ queue_status:
     take no condense tasks); human-deferred (synesthetic-void, laws-and-dispositions,
     born-rule protected-calibration). The ONLY 2 over-hard files with near-zero existing
     refs are composition-question-rivals (5 refs) and memory-channel-interface-evidence
-    (3 refs), and git-verified BOTH are coalesce merges whose existing deep-review tasks
-    already carried an explicit decide-condense-vs-accept-as-survey brief and were
-    KEPT as multi-rival/two-face surveys (composition deep-reviewed 06-15 commit 8cf30904d,
-    memory-channel deep-reviewed 06-16 commit b07b4efeb) -- protected editorial decisions,
-    NOT clean mints. S7 positions audit not due (~18 live entries across 3 domain files,
-    audited 06-09/06-10 inside 30d; positions-evolve last ran today 00:41). S8 applied-apex
-    deferred-to-human 06-16. Caps: topics 268/300, concepts 263/300 (headroom but no
-    clean research feed), voids 101/100 over, positions 3 files. Vetoed bank 574 entries.
-    Expected floor-alternation ([[unfin_loop_steady_state]]): P0-P2=0 -> replenish re-fires
-    by design; harvest (6h) + outer-review refill the research pipeline. CARRY-OVER
-    (unchanged): Active Tasks section still holds stale ### headers (HUMAN LENGTH DECISIONs,
-    #veto condense cruft) never moved below the Completed header
-    ([[orphaned-pending-tasks-below-completed]] sibling) -- tidy-sweep candidate for
-    a future run; not minting for it.'
+    (3 refs), and git-verified BOTH are coalesce merges whose existing deep-review
+    tasks already carried an explicit decide-condense-vs-accept-as-survey brief and
+    were KEPT as multi-rival/two-face surveys (composition deep-reviewed 06-15 commit
+    8cf30904d, memory-channel deep-reviewed 06-16 commit b07b4efeb) -- protected editorial
+    decisions, NOT clean mints. S7 positions audit not due (~18 live entries across
+    3 domain files, audited 06-09/06-10 inside 30d; positions-evolve last ran today
+    00:41). S8 applied-apex deferred-to-human 06-16. Caps: topics 268/300, concepts
+    263/300 (headroom but no clean research feed), voids 101/100 over, positions 3
+    files. Vetoed bank 574 entries. Expected floor-alternation ([[unfin_loop_steady_state]]):
+    P0-P2=0 -> replenish re-fires by design; harvest (6h) + outer-review refill the
+    research pipeline. CARRY-OVER (unchanged): Active Tasks section still holds stale
+    ### headers (HUMAN LENGTH DECISIONs, #veto condense cruft) never moved below the
+    Completed header ([[orphaned-pending-tasks-below-completed]] sibling) -- tidy-sweep
+    candidate for a future run; not minting for it.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0

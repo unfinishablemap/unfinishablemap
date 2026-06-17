@@ -135,7 +135,7 @@ Eliminative materialism (EM) is the radical thesis that our ordinary, common-sen
   2. *Inductive argument*: Other folk theories (folk physics, folk biology) failed; FP is more ambitious and likely worse
   3. *Mismatch with neuroscience*: brain doesn't contain sentence-like structures
   4. *Stagnation*: FP has not advanced in 2500 years
-- **Relation to site tenets**: Direct conflict with Dualism (denies mental ontology), Bidirectional Interaction (no mental causation if mental states aren't real), Minimal Quantum Interaction (no role for consciousness in physics). The Map's response: treats failure-to-reduce not as evidence of folk-theory falsity but as evidence of consciousness's irreducibility (see [reductionism-and-consciousness](/topics/reductionism-and-consciousness/)).
+- **Relation to site tenets**: Direct conflict with Dualism (denies mental ontology), Bidirectional Interaction (no mental causation if mental states aren't real), Minimal Quantum Interaction (no role for consciousness in physics). The Map's response: treats failure-to-reduce not as evidence of folk-theory falsity but as evidence of consciousness's irreducibility (see [reductionism-and-consciousness](/concepts/reductionism/)).
 
 ### Illusionism / Eliminativism about Phenomenal Consciousness
 - **Proponents**: Keith Frankish, Daniel Dennett, François Kammerer, Jay Garfield (some readings)
@@ -217,7 +217,7 @@ Based on this research, an article could:
 
 1. **Comprehensive overview with the Map's diagnosis**: Present EM in its strongest form (Churchland propositional-attitude eliminativism + Frankish-Dennett illusionism), then show how the Map locates the move's source: it requires accepting Occam's-Razor reasoning the Map's fifth tenet rejects, and treating phenomenal evidence as theory-laden in a way that begs the question against the Map's first tenet. This would link to [parsimony-epistemology](/concepts/parsimony-epistemology/) and [arguments-against-materialism](/topics/arguments-against-materialism/).
 
-2. **Eliminativism as the limit case of physicalism**: Frame EM as showing what physicalism *commits to* if pursued consistently—not a fringe position but the natural endpoint of the physicalist project. Useful because it sharpens the choice: either accept eliminativism's bullets, or recognize that the failure to eliminate is evidence for irreducibility. Connects to [reductionism-and-consciousness](/topics/reductionism-and-consciousness/).
+2. **Eliminativism as the limit case of physicalism**: Frame EM as showing what physicalism *commits to* if pursued consistently—not a fringe position but the natural endpoint of the physicalist project. Useful because it sharpens the choice: either accept eliminativism's bullets, or recognize that the failure to eliminate is evidence for irreducibility. Connects to [reductionism-and-consciousness](/concepts/reductionism/).
 
 3. **The introspection-as-theory-laden challenge**: Eliminativism's deepest move is making introspection itself epistemically suspect. The Map's reliance on phenomenal evidence depends on rejecting this. An article could focus narrowly on this epistemological pivot. Connects to [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) and [introspection](/concepts/introspection/).
 

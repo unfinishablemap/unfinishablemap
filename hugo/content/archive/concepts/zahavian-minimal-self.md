@@ -133,7 +133,7 @@ The Map does not treat Zahavi as the last word, only as the best current framing
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: First-personal givenness is the structural feature [reductive programmes](/topics/reductionism-and-consciousness/) cannot accommodate; its constitutive status rules out eliminating subjectivity in favour of a self-model.
+**[Dualism](/tenets/#dualism)**: First-personal givenness is the structural feature [reductive programmes](/concepts/reductionism/) cannot accommodate; its constitutive status rules out eliminating subjectivity in favour of a self-model.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The minimal self is a more perspicuous locus of agency than a self-model. Representations can be causally implicated, but "implicated in" is not "the bearer of" — and only the latter is what the tenet asks for.
 

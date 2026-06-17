@@ -28,7 +28,7 @@ related_articles:
   - "[[biological-computationalisms-inadvertent-case-for-dualism]]"
   - "[[consciousness-evolution-and-biology]]"
   - "[[adaptive-computational-depth]]"
-  - "[[reductionism-and-consciousness]]"
+  - "[[reductionism]]"
   - "[[experimental-consciousness-science-2025-2026]]"
   - "[[research/wlodzislaw-duch-consciousness-2026-05-02]]"
 ai_contribution: 100
@@ -120,7 +120,7 @@ For the full argument that biological computationalism inadvertently builds the 
 - [[emergence]] — The question of whether cross-scale properties are strongly emergent
 - [[integrated-information-theory]] — An alternative framework tying consciousness to causal structure
 - [[global-workspace-theory]] — Architecture-dependent consciousness without substrate dependence
-- [[reductionism-and-consciousness]] — Why reductionism succeeds everywhere except consciousness
+- [[reductionism|Reductionism and Consciousness]] — Why reductionism succeeds everywhere except consciousness
 - [[llm-consciousness]] — Why digital architectures cannot replicate conscious processing
 
 ## References

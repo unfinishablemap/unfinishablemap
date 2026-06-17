@@ -6,7 +6,7 @@ ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[baseline-cognition]]'
-- '[[reductionism-and-consciousness]]'
+- '[[reductionism]]'
 - '[[concession-convergence]]'
 - '[[apophatic-cartography-four-criteria]]'
 - '[[common-cause-null]]'
@@ -24,7 +24,7 @@ related_articles:
 - '[[the-convergence-argument-for-dualism]]'
 - '[[the-binding-problem]]'
 - '[[baseline-cognition]]'
-- '[[reductionism-and-consciousness]]'
+- '[[reductionism]]'
 - '[[apex/taxonomy-of-voids]]'
 - '[[apophatic-cartography-four-criteria]]'
 - '[[common-cause-null]]'
@@ -58,7 +58,7 @@ A vitalist in 1820 could have observed accurately that the chemistry-life gap ha
 
 This is the metaphysical-grain deployment. The disanalogy does not claim that phenomenal qualities are *unreducible* — that would be the convergence argument's conclusion, and using it here would be circular. The disanalogy claims something weaker and earlier: that the *form of the demand* placed on any reduction is type-specific, in a way the vitalist's demand was not. The historical pattern of reductive successes — fermentation, heredity, metabolism — does not extend automatically across this structural divide.
 
-The disanalogy is not unlimited. Type-specific reductive demands could in principle be met: a future neuroscience delivering "this is what redness *is* in physical terms," analogous to "this is what fermentation *is*," would discharge the demand at one type, and [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) would then have to consider whether the discharge extends. Type-specificity names a structural feature of the explanandum, not a verdict on whether it can be addressed.
+The disanalogy is not unlimited. Type-specific reductive demands could in principle be met: a future neuroscience delivering "this is what redness *is* in physical terms," analogous to "this is what fermentation *is*," would discharge the demand at one type, and [the reductionism case](/concepts/reductionism/) would then have to consider whether the discharge extends. Type-specificity names a structural feature of the explanandum, not a verdict on whether it can be addressed.
 
 ## Type-Specificity at the Unity Grain {#unity-grain}
 
@@ -124,7 +124,7 @@ It does *not* do the following work:
 
 - **Prove irreducibility.** Type-specific demands could in principle be met. An account from which *redness specifically*, not "some phenomenal type or other," could be derived as the output of a proposed physical structure would discharge the demand at redness; the discipline would then have to consider whether the discharge extends type-by-type or reveals a generic strategy for the family.
 
-- **Defeat physicalism on its own.** Type-specificity identifies what a successful physicalist account would have to deliver, *on the assumption that phenomenal types are the explananda*. A physicalist strategy that contests the explananda themselves — illusionism, heterophenomenology, eliminative reduction — bypasses the type-specific demand rather than meeting it; whether such strategies succeed is taken up in [reductionism-and-consciousness](/topics/reductionism-and-consciousness/). Whether a phenomenal-type-granting physicalist account is forthcoming is a separate question [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) addresses through the pattern of evidence.
+- **Defeat physicalism on its own.** Type-specificity identifies what a successful physicalist account would have to deliver, *on the assumption that phenomenal types are the explananda*. A physicalist strategy that contests the explananda themselves — illusionism, heterophenomenology, eliminative reduction — bypasses the type-specific demand rather than meeting it; whether such strategies succeed is taken up in [Reductionism and Consciousness](/concepts/reductionism/). Whether a phenomenal-type-granting physicalist account is forthcoming is a separate question [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) addresses through the pattern of evidence.
 
 - **Stand on irreducibility.** The discipline must not be defended by appeal to "phenomenal qualities are irreducible, therefore the reductive demand is unmeetable." That would be circular: type-specificity is invoked in support of the irreducibility verdict, so it cannot draw its anti-generic-mechanism force from the verdict it helps support. The force comes from the structural correspondence between explanandum-shape and explanans-shape, recognised independently of any reduction's success or failure.
 
@@ -146,7 +146,7 @@ The discipline observes the Map's standing constraint against [concession conver
 - [common-cause-null](/project/common-cause-null/) — The structural discipline against framework-internal coherence masquerading as framework-independent triangulation
 - [concession-convergence](/concepts/concession-convergence/) — The parallel discipline: whether non-Map theories converge on type-specificity-respecting positions
 - [evidential-status-discipline](/project/evidential-status-discipline/) — The constraint against upgrading evidential status on cluster-coherence alone
-- [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) — Why consciousness differs structurally from past reductive successes
+- [Reductionism and Consciousness](/concepts/reductionism/) — Why consciousness differs structurally from past reductive successes
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [qualia](/concepts/qualia/), [explanatory-gap](/concepts/explanatory-gap/) — The explanandum, the phenomenal types, and the related structural feature to which type-specificity applies
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — How type-specificity fits the Map's broader epistemological discipline
 

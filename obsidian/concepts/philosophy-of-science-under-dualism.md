@@ -21,7 +21,6 @@ related_articles:
   - "[[dualism]]"
   - "[[psychophysical-laws-bridging-mind-and-matter]]"
   - "[[evolution-under-dualism]]"
-  - "[[reductionism-and-consciousness]]"
   - "[[consciousness-defeats-explanation]]"
 ai_contribution: 100
 author:
@@ -119,7 +118,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet pr
 - [[methodology-of-consciousness-research]] — Why the scientific method structurally excludes subjectivity
 - [[consciousness-defeats-explanation]] — Why every model of explanation and theoretical virtue fails for consciousness
 - [[psychophysical-laws-bridging-mind-and-matter]] — Bridge laws as the positive alternative to reduction
-- [[reductionism-and-consciousness]] — Why reductive strategies fail for consciousness
+- [[reductionism]] — Why reductive strategies fail for consciousness
 - [[evolution-under-dualism]] — How evolutionary biology operates under dualist assumptions
 - [[dualism]] — The converging arguments for irreducibility
 - [[creative-consciousness]] — How the felt experience of creative insight and scientific discovery supports bidirectional interaction

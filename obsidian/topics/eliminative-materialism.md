@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[arguments-against-materialism]]"
-  - "[[reductionism-and-consciousness]]"
+  - "[[reductionism]]"
 concepts:
   - "[[concepts/materialism]]"
   - "[[illusionism]]"
@@ -154,7 +154,7 @@ Eliminativism persists because physicalism keeps failing to produce a satisfying
 ## Further Reading
 
 - [[arguments-against-materialism]] — the broader case the Map develops, of which eliminativism is the limit case
-- [[reductionism-and-consciousness]] — distinct strategy (reduce rather than eliminate); the Map argues both fail
+- [[reductionism|Reductionism and Consciousness]] — distinct strategy (reduce rather than eliminate); the Map argues both fail
 - [[illusionism]] — focused treatment of the phenomenal-consciousness strand
 - [[hard-problem-of-consciousness]] — the explanandum eliminativism proposes to dissolve
 - [[parsimony-epistemology]] — why Occam's Razor cannot bear the weight eliminativism places on it

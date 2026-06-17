@@ -26,7 +26,7 @@ related_articles:
   - "[[the-convergence-argument-for-dualism]]"
   - "[[epistemology-of-convergence-arguments]]"
   - "[[pragmatisms-path-to-dualism]]"
-  - "[[reductionism-and-consciousness]]"
+  - "[[reductionism]]"
   - "[[concession-convergence-philosophy-of-mathematics]]"
   - "[[common-cause-null]]"
   - "[[apex/taxonomy-of-voids]]"
@@ -163,7 +163,7 @@ The Map speculates that concession convergence will continue. Future physicalist
 - [[the-convergence-argument-for-dualism]] — Positive convergence from independent pro-dualist arguments
 - [[epistemology-of-convergence-arguments]] — When and why independent convergence constitutes evidence
 - [[pragmatisms-path-to-dualism]] — Putnam's retreat from functionalism via semantic externalism, a related but distinct route
-- [[reductionism-and-consciousness]] — Kim's concession that qualia resist functional reduction
+- [[reductionism|Reductionism and Consciousness]] — Kim's concession that qualia resist functional reduction
 - [[integrated-information-theory]] — IIT's exclusion postulate and identity problem
 - [[global-workspace-theory]] — GWT's silence on phenomenal consciousness
 - [[higher-order-theories]] — HOT's phenomenal-access separation

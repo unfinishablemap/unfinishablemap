@@ -72,7 +72,7 @@ Six adversarial personas engaged:
 - Reframed spandrels passage to clearly distinguish epiphenomenalist reading from Map's position
 - Added cross-links to [mental-causation](/concepts/mental-causation-and-downward-causation/), [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/), [downward-causation](/concepts/mental-causation-and-downward-causation/), [selection-laws](/concepts/psychophysical-laws/) in body text
 - Added Minimal Quantum Interaction and No Many Worlds paragraphs to Relation to Site Perspective
-- Added [mental-causation](/concepts/mental-causation-and-downward-causation/), [causal-closure](/concepts/causal-closure/), [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/), [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) to Further Reading
+- Added [mental-causation](/concepts/mental-causation-and-downward-causation/), [causal-closure](/concepts/causal-closure/), [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/), [reductionism-and-consciousness](/concepts/reductionism/) to Further Reading
 - Added 7 new entries to related_articles frontmatter
 
 ### Cross-links Added
@@ -83,7 +83,7 @@ Six adversarial personas engaged:
 - [downward-causation](/concepts/mental-causation-and-downward-causation/) (Adaptation section + related_articles)
 - [selection-laws](/concepts/psychophysical-laws/) (Adaptation section + related_articles)
 - [causal-closure](/concepts/causal-closure/) (Further Reading + related_articles)
-- [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) (Further Reading + related_articles)
+- [reductionism-and-consciousness](/concepts/reductionism/) (Further Reading + related_articles)
 
 ## Remaining Items
 

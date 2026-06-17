@@ -23,7 +23,7 @@ related_articles:
   - "[[parsimony-case-for-interactionist-dualism]]"
   - "[[epistemology-of-convergence-arguments]]"
   - "[[common-cause-null]]"
-  - "[[reductionism-and-consciousness]]"
+  - "[[reductionism]]"
   - "[[arguments-against-materialism]]"
   - "[[the-quantitative-comprehension-void]]"
   - "[[formal-cognitive-limits]]"
@@ -126,7 +126,7 @@ The Map interprets the cross-domain convergence as evidence that the problem is 
 - [[consciousness-and-the-authority-of-formal-systems]] — Why formal authority reaches its limit at consciousness
 - [[epistemology-of-convergence-arguments]] — When independent convergence constitutes evidence
 - [[common-cause-null]] — The null hypothesis convergence arguments must defeat: shared upstream cause masquerading as independent agreement
-- [[reductionism-and-consciousness]] — Why reductive programmes fail at consciousness
+- [[reductionism|Reductionism and Consciousness]] — Why reductive programmes fail at consciousness
 - [[the-quantitative-comprehension-void#the-abstract-mathematical-ceiling|The Quantitative Comprehension Void — abstract mathematical ceiling]] — The boundary of mathematical comprehension
 - [[formal-cognitive-limits]] — Gödel's theorems and the limits of formal systems
 

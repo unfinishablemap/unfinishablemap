@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-05-31
-**Article**: [Reductionism and Consciousness](/topics/reductionism-and-consciousness/)
+**Article**: [Reductionism and Consciousness](/concepts/reductionism/)
 **Previous review**: [2026-04-23](/reviews/deep-review-2026-04-23-reductionism-and-consciousness/)
 **Word count**: 2099 → 2099 (no content change; frontmatter-only)
 

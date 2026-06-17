@@ -38,11 +38,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Add three cluster cross-links flagged by optimistic review 2026-06-17d
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-06-17d. Three missing edges in the physics-interface cluster: (1) topics/quantum-measurement-and-consciousness → topics/forward-in-time-vs-time-symmetric-selection (its "Exploit the Gap" section introduces the forward/time-symmetric divide but never links the dedicated cost-accounting article; the ~88-inbound hub is the natural feeder for that article's ~10 inbound); (2) topics/quantum-measurement-and-consciousness → concepts/selection-only-channel (the hub discusses corridor/Born-bending/trumping flavours but never links the article formalising the strictest reading); (3) topics/empirical-evidence-for-consciousness-selecting → topics/forward-in-time-vs-time-symmetric-selection. Add as in-body wikilinks at the relevant passages (preferred) and/or Further Reading entries; bidirectional links already mostly exist the other way. Verify each link resolves before committing.
-- **Source**: optimistic-review
+### P2: Cross-review the coalesced concepts/reductionism.md (verify merge coherence + repointed inbound contexts)
+- **Type**: cross-review
+- **Notes**: 2026-06-17 coalesce merged topics/reductionism-and-consciousness.md INTO concepts/reductionism.md (canonical concept slug kept live; topic archived to archive/topics/ with superseded_by /concepts/reductionism/, stale hugo dup deleted). Merged body 3492w (soft_warning, under hard 3500). Verify: (a) the merge reads as one coherent piece, not two stitched articles — esp. the seam where the topic's "Track Record of Successful Reduction" / "Transparency Test" / "Vitalism Objection" sections meet the concept's three-types taxonomy + multiple-realizability + Kim's-exclusion + greedy-reductionism; (b) no duplicated arguments survived the merge (transparency test now appears in two places — as the topic's named "Transparency Test" subsection AND woven into "Why the Asymmetry Matters" — confirm they don't repeat); (c) the Milinkovic & Aru 2026 reference (carried from the topic, ref #12) is reconstructed not verbatim — web-verify or downgrade if unverifiable. Also: 13 live-content inbound links were repointed [reductionism-and-consciousness](/concepts/reductionism/) → [reductionism](/concepts/reductionism/); spot-check that the repointed display labels still read naturally in their host paragraphs (esp. self-and-self-consciousness "Reductionism succeeds", type-specificity "the reductionism case", biological-teleology "consciousness resists reduction"). Per archival_link_rot + coalesce-hides-review-debt-and-regresses-fixes: do NOT trust the merge's last_deep_review stamp as a real review.
+- **Source**: coalesce
 - **Generated**: 2026-06-17
 
 ### HUMAN LENGTH DECISION (2026-06-17): voids/synesthetic-void.md over the voids hard threshold after the convergent-review counter-readings refine
@@ -1074,6 +1073,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-17: Add three cluster cross-links flagged by optimistic review 2026-06-17d
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review 2026-06-17d. Three missing edges in the physics-interface cluster: (1) topics/quantum-measurement-and-consciousness → topics/forward-in-time-vs-time-symmetric-selection (its "Exploit the Gap" section introduces the forward/time-symmetric divide but never links the dedicated cost-accounting article; the ~88-inbound hub is the natural feeder for that article's ~10 inbound); (2) topics/quantum-measurement-and-consciousness → concepts/selection-only-channel (the hub discusses corridor/Born-bending/trumping flavours but never links the article formalising the strictest reading); (3) topics/empirical-evidence-for-consciousness-selecting → topics/forward-in-time-vs-time-symmetric-selection. Add as in-body wikilinks at the relevant passages (preferred) and/or Further Reading entries; bidirectional links already mostly exist the other way. Verify each link resolves before committing.
 
 ### ✓ 2026-06-17: Calibration refine — quantum-holism-and-phenomenal-unity.md lead verbs
 - **Type**: refine-draft

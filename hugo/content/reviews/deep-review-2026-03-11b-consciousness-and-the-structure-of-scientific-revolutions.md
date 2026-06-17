@@ -50,7 +50,7 @@ topics: []
 2. [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/) — In "The Deeper Implication" section
 3. [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-methodological-failure/) — In standard account section (Kuhn reference)
 4. [arguments-against-materialism](/topics/arguments-against-materialism/) — In "Misplaced Confidence in Future Science" section
-5. [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) — In "Why the Asymmetry Matters" section
+5. [reductionism-and-consciousness](/concepts/reductionism/) — In "Why the Asymmetry Matters" section
 6. [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-frameworks/) — In Kuhn reference (conceptual change vs paradigm shift)
 7. [explanatory-gap](/concepts/explanatory-gap/) — In "From Epistemic to Ontological" section
 8. [materialism](/concepts/materialism/) — In "Future Science" materialist response section

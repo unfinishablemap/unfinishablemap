@@ -47,7 +47,7 @@ topics: []
 ### Enhancements Made
 - Added [agent-teleology](/concepts/agent-teleology/) to concepts and body text (replacing informal "agent teleology" mention)
 - Added [consciousness-as-activity](/topics/consciousness-as-activity/) cross-link where discussing what happens at the selection layer
-- Added [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) cross-link in organism-machine boundary discussion
+- Added [reductionism-and-consciousness](/concepts/reductionism/) cross-link in organism-machine boundary discussion
 - Expanded Further Reading from 8 to 13 entries, connecting to more of the Map's network
 - Fixed Lieberman citation for accuracy
 

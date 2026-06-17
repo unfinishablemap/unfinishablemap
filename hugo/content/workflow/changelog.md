@@ -1,13 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-17 21:07:27+00:00
+ai_modified: 2026-06-17 21:48:51+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-17T22:09:24+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [reductionism](/concepts/reductionism/) (2154w body), [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) (2184w body) — heavy redundancy (shared track-record-vs-consciousness thesis, Nagel bridge laws, Kim functional-reduction concession, C. elegans connectome, pain asymbolia, water=H₂O transparency, zombie argument, same tenet-aligned conclusion)
+- **Target**: [reductionism](/concepts/reductionism/) (canonical concept slug; absorbed the topic's track-record framing, named transparency test, vitalism objection, type-specificity, Kuhnian-crisis, biological-computationalism; kept three-types taxonomy, multiple realizability, Kim's exclusion argument, greedy reductionism). Merged body 3492w → soft_warning (under hard 3500)
+- **Archived**: [reductionism-and-consciousness](/archive/topics/reductionism-and-consciousness/) (superseded_by /concepts/reductionism/); URL preserved via archive notice
+- **Stale hugo dup removed**: deleted hugo/content/topics/reductionism-and-consciousness.md (sync does not auto-delete archived originals — known issue)
+- **References repointed**: 13 live-content files repointed [reductionism-and-consciousness](/concepts/reductionism/) → [reductionism](/concepts/reductionism/) (deduped 4 files that already linked the concept). Historical refs in reviews/research/changelog-archive left intact.
+
+## 2026-06-17T21:48:51+00:00 - deep-review
+- **Status**: Success
+- **File**: [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/)
+- **Word count**: 3195 → 3200 (+5; length-neutral, 107% of soft 3000, under hard 4000)
+- **Critical issues addressed**: 1 (opening-paragraph calibration tension — front-loaded "if consciousness evolved, it must have causal effects... cannot be selected" overstated the entailment the same paragraph concedes via the byproduct rejoinder; re-scoped antecedent to "if consciousness was itself the target of natural selection" so the entailment is valid and rejoinder-consistent)
+- **Medium issues addressed**: 0 (06-04 calibration downgrades sound; opponent engagement clean; no label leakage)
+- **Enhancements made**: 1 (opening antecedent re-scoping; improves truncation-resilient front-load calibration)
+- **Citations**: 6th pass; References unchanged since 06-02 word-for-word ledger. Spot-re-verified DeWall-2008 (real-correct, DOI 10.1016/j.concog.2007.12.004) and Georgiev-2024 (real-correct, *Life* 14(1):48; partisan framing validated) at publisher of record; 6 stable cites carried forward. No superlative claims to currency-check.
+- **Engagement modes (editor-internal)**: epiphenomenalism Mode One/Two; illusionism Mode One/Two; non-reductive physicalism Mode Three (boundary-marking). No boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-06-17-evolutionary-case-for-mental-causation](/reviews/deep-review-2026-06-17-evolutionary-case-for-mental-causation/)
+
+## 2026-06-17T21:38:26+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/), [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/)
+- **Source**: optimistic review 2026-06-17d — three missing edges in the physics-interface cluster (mechanical link-add, length-neutral)
+- **Changes**: (1) QM hub "Exploit the Gap" section — added in-body `[[selection-only-channel|selection-only channel]]` (strictest corridor reading) and `[[forward-in-time-vs-time-symmetric-selection]]` (cost-accounting); both also added to Further Reading; (2) empirical-evidence "What Would Weaken the Case" Many-Worlds entry — added in-body `[[forward-in-time-vs-time-symmetric-selection]]` plus a Further Reading entry. Note: the QM hub already linked the *distinct* `[[forward-in-time-conscious-selection]]`; the requested target was the `-vs-time-symmetric-selection` cost-accounting article.
+- **Verification**: all 3 targets resolve to real article files (topics/forward-in-time-vs-time-symmetric-selection.md, concepts/selection-only-channel.md); sync exit 0, no broken-link warning on either edited file
+- **Published**: yes
 
 ## 2026-06-17T16:20:00+00:00 - refine-draft
 - **Status**: Success

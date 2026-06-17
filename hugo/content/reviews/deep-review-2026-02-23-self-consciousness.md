@@ -54,7 +54,7 @@ None. The article is well-structured with accurate attributions and no factual e
 
 ### Cross-links Added
 - [galilean-exclusion](/concepts/galilean-exclusion/) (concepts, further reading, body text)
-- [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) (related_articles, further reading, body text)
+- [reductionism-and-consciousness](/concepts/reductionism/) (related_articles, further reading, body text)
 
 ## Remaining Items
 
