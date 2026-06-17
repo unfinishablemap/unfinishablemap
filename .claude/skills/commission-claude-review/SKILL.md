@@ -1,13 +1,15 @@
 ---
 name: commission-claude-review
-description: Open Claude in Chrome, enable Research mode (Web Search is on by default), submit an outer-review prompt to the Unfinishable Map project (Fable 5), navigate the optional clarifying-questions stage with "go", record the pending entry, and exit. Pairs with collect-claude-review which retrieves the response after ~60 minutes.
+description: Open Claude in Chrome, enable Research mode (Web Search is on by default), submit an outer-review prompt to the Unfinishable Map project (Fable 5 when available, else the project's Opus fallback), navigate the optional clarifying-questions stage with "go", record the pending entry, and exit. Pairs with collect-claude-review which retrieves the response after ~60 minutes.
 context: fork
 agent: general-purpose
 ---
 
 # Commission Claude Review
 
-Drives Chrome via the `mcp__claude-in-chrome__*` tools to commission an outer review from Claude (Fable 5 with Research and Web Search) in The Unfinishable Map's project workspace. Returns immediately after research is underway — collection happens later in `collect-claude-review`.
+Drives Chrome via the `mcp__claude-in-chrome__*` tools to commission an outer review from Claude (Fable 5 preferred; Opus 4.8 accepted as a fallback; with Research and Web Search) in The Unfinishable Map's project workspace. Returns immediately after research is underway — collection happens later in `collect-claude-review`.
+
+**Model policy (self-healing):** the project default is Fable 5, but claude.ai periodically marks Fable 5 "Currently unavailable" and auto-falls-back to Opus 4.8 High. Both are strong enough for a rigorous outer review, so this skill commissions against **whichever acceptable model the selector currently shows** (Fable *or* Opus) rather than hard-requiring Fable. The review file is named after the model that actually ran, so synthesis and dedupe stay correct, and the leg auto-returns to Fable 5 the moment claude.ai restores it. Sonnet/Haiku are NOT acceptable — too light for a hostile-referee audit; bail if that's all the project offers.
 
 ## When to Use
 
@@ -83,9 +85,9 @@ JSON.stringify({
 })
 ```
 
-**Logged-in signal**: `composer: true` AND `modelText` contains "Fable" AND `loginRedirect: false`.
+**Logged-in signal**: `composer: true` AND `modelText` names an acceptable reviewer model (contains "Fable" **or** "Opus") AND `loginRedirect: false`. Fable 5 is preferred; when claude.ai marks it "Currently unavailable" the project auto-selects Opus 4.8, which is an acceptable substitute. Capture the `modelText` value — Step 3 and Step 8 reuse it as `model_text`.
 
-**Logged-out signal**: any of the above failing.
+**Logged-out signal**: `composer` false OR `loginRedirect` true. (A model selector that reads Sonnet/Haiku is not "logged out" — it's an unacceptable-model bail, handled in Step 3.)
 
 If logged out, **emit literal line** `LOGIN_REQUIRED: claude session expired` and stop. The dispatcher sets a 24h backoff via `last_runs["commission-claude-review-blocked-until"]`.
 
@@ -99,7 +101,13 @@ Inside the menu:
 
 Verify after clicking: the menu closes and a new button with `aria-label="Research mode"` (or similar) appears in the composer area. If the verification fails, **bail before submitting** — take a screenshot and dump the menu DOM to `tmp/commission-claude-failure-<timestamp>.txt`.
 
-Verify model selector text contains "Fable 5" (exact suffix may vary — substring match). If it shows a different model family, bail — the project's default may have changed and we should not commission against the wrong model.
+Verify the model selector still names an acceptable reviewer model — check `model_text` (the selector text captured in Step 2):
+
+- contains **"Fable"** → preferred; proceed.
+- contains **"Opus"** → acceptable fallback (Fable 5 is "Currently unavailable" on claude.ai and the project auto-selects Opus 4.8); proceed.
+- otherwise (Sonnet / Haiku / anything else) → **bail**; these models are too light for a rigorous outer review and would weaken cross-reviewer convergence.
+
+Do **not** switch the model yourself — commission against whichever acceptable model the project currently offers, and Step 8 will name the file after it.
 
 ## Step 4: Type the prompt and submit
 
@@ -164,10 +172,17 @@ If none of these after a total wait of 30s post-submit, **bail without writing a
 
 Compute the target filename:
 
+Derive the model slug from the live selector text (`model_text` from Step 2) so the filename reflects the model that actually ran:
+
 ```python
-import datetime as dt
+import datetime as dt, re
+# model_text is the selector text captured in Step 2/3, e.g. "Fable 5" or "Opus 4.8 High"
+m = re.search(r"(fable|opus|sonnet|haiku)\s+([0-9.]+)", model_text, re.I)
+if not m:
+    raise SystemExit(f"Cannot derive model slug from selector text: {model_text!r}")
+model_slug = f"{m.group(1).lower()}-{m.group(2).replace('.', '-')}"  # "fable-5" / "opus-4-8"
 date = dt.datetime.now(dt.timezone.utc).date().isoformat()
-target = f"outer-review-{date}-claude-fable-5.md"
+target = f"outer-review-{date}-claude-{model_slug}.md"
 ```
 
 Then:
@@ -206,7 +221,7 @@ When this commission runs as the *second or third* service of the day, the selec
 ## Step 9: Log and exit
 
 ```
-Commissioned outer review: claude-fable-5 on "<short_summary>" — <conversation_url>
+Commissioned outer review: claude-<model_slug> on "<short_summary>" — <conversation_url>
 ```
 
 Total runtime budget: 5 minutes.
@@ -220,7 +235,7 @@ Total runtime budget: 5 minutes.
 | Chrome MCP unavailable | tool call raises / "extension is not connected" | Emit `CHROME_UNAVAILABLE: claude commission` and skip; no crash, no pending entry. |
 | Login expired | composer absent OR URL redirected | Emit `LOGIN_REQUIRED: claude session expired` and stop. |
 | Research checkbox missing | menu doesn't contain it | Bail before submitting; screenshot + DOM dump. |
-| Model not Fable | model selector text doesn't contain "Fable" | Bail; the project default has changed. |
+| No acceptable model | selector names neither "Fable" nor "Opus" (e.g. Sonnet/Haiku only) | Bail; too light for an outer review. A Fable→Opus fallback is acceptable and proceeds. |
 | Submission silent failure | no `/chat/<uuid>` URL after 10s | Bail; do not write pending entry. |
 | Ambiguous post-submit state | no stopBtn AND no artifact AND no research panel after 30s | Bail; operator inspects. |
 
