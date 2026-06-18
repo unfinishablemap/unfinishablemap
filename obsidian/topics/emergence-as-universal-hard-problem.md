@@ -4,7 +4,7 @@ description: "Human+AI inquiry into whether every level transition harbours its 
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-06-18T00:38:53+00:00
+ai_modified: 2026-06-18T00:59:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-10
 last_curated:
-last_deep_review: 2026-05-25T07:59:35+00:00
+last_deep_review: 2026-06-18T00:59:21+00:00
 ---
 
 The [[hard-problem-of-consciousness|hard problem of consciousness]] is usually treated as unique — the one place where physical description fails to capture what is really going on. The Unfinishable Map argues that this framing is backwards. Every case of [[emergence]] harbours the same explanatory gap: arrangement correlates with novelty, but no amount of knowledge about the parts explains *why* this arrangement produces *this* whole. Far from being a special anomaly afflicting consciousness alone, the hard problem is a universal feature of level transitions in nature, and consciousness is simply where the gap becomes too stark to paper over with equations.
