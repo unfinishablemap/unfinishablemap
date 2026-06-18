@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18T11:05:00+00:00
+ai_modified: 2026-06-18T11:12:21+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-18T11:12:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/deep-computational-markers-for-machine-consciousness]]
+- **Word count**: 2332 → 2370 (+38; ok, 79% of 3000 soft target)
+- **Critical issues addressed**: 1 (altered verbatim Aaronson quote "billions of times more conscious than a human" → paraphrase; source reads "than you are")
+- **Medium issues addressed**: 1 (decorative related-article [[testing-consciousness-collapse]] linked load-bearingly in-body)
+- **Enhancements made**: 1 cross-link + References renumbered to sequential house style
+- **Citation web-verify (§2.4)**: all 11 references web-verified at publisher of record — all real-correct (Aaronson 2014, Albantakis 2023 IIT 4.0, Butlin 2023 arXiv:2308.08708 + 2025 TiCS, Goyal 2103.01197, Graziano 2017 Frontiers, Koch 2026 arXiv:2603.27597 [Florentin not Christof], Lindsey 2025 Anthropic, Phua 2025 arXiv:2512.19155, 2 internal). Butlin quotes verified verbatim; 73% Turing figure verified (Jones & Bergen arXiv:2503.23674). Per-cite ledger in review archive.
+- **Reasoning-mode (§2.6)**: Illusionism/Frankish = Mode Three (boundary-marking, correct); functionalism = Mode Two light. No label leakage. Calibration clean (anti-slippage by design).
+- **Output**: [[reviews/deep-review-2026-06-18-deep-computational-markers-for-machine-consciousness]]
 
 ## 2026-06-18T10:59:42+00:00 - deep-review
 - **Status**: Success (confirming verdict; timestamp-only — post-refine state verified clean)
