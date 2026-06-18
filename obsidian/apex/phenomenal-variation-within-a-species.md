@@ -4,7 +4,7 @@ description: "Aphantasia, synaesthesia, reality-monitoring divergence, and cogni
 created: 2026-05-08
 modified: 2026-05-09
 human_modified: null
-ai_modified: 2026-06-17T05:18:14+00:00
+ai_modified: 2026-06-18T12:06:23.437536+00:00
 last_deep_review: 2026-06-03T09:40:20+00:00
 draft: false
 topics:
@@ -56,11 +56,22 @@ apex_sources:
   - voids/commensurability-void
 apex_last_synthesis: 2026-06-05T10:20:24+00:00
 apex_thesis: "Within-species phenomenal divergence across imagery, synaesthesia, source-attribution, and cognitive phenomenology forms a cumulative empirical wedge against the functional identification of consciousness — locally absorbable, jointly recalcitrant."
+embedded_videos:
+  - id: ogQ1_XkDh6E
+    url: https://www.youtube-nocookie.com/embed/ogQ1_XkDh6E
+    embedded: 2026-06-18T12:06:23.437536+00:00
+    source: notebooklm/0076-01-phenomenal-variation-within-a-species
 ---
 
 Two minds belong to the same biological species. They share evolutionary history, neural architecture, language community, and—on the standard behavioural measures—task performance. One looks at a page and sees the printed letter alone; the other sees the same letter and, simultaneously, an extra colour that has been there as long as memory reaches. One closes their eyes and conjures a vivid red apple; the other reports nothing at all, then completes the same mental rotation problem by analytic means. One feels their thoughts as marked with their own provenance; the other discovers, when the experiment is run, that they cannot tell self-generated content from primed content from confabulated reconstruction.
 
 Same biological kind, same architecture at the level neuroscience carves, same task performance at the level behavioural science measures, different inner lives. Within-species phenomenal divergence is the empirically anchored shape that several decades of careful work have given to a question philosophers used to have to imagine: are there two minds, otherwise functionally equivalent, whose phenomenology nevertheless differs? The answer, by 2026, is yes. The Unfinishable Map's claim is that the cumulative evidence forms a wedge against the strong identity claim of [[functionalism]] — phenomenal character is not the functional role in disguise — and that the wedge, while not a knockdown, becomes harder to dispatch as the cases multiply.
+
+<details class="yt-embed" data-video-id="ogQ1_XkDh6E">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/ogQ1_XkDh6E">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Structural Form
 
