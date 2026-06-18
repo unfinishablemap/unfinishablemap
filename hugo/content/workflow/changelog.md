@@ -1,13 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18 11:12:21+00:00
+ai_modified: 2026-06-18 11:25:04+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-18T11:25:04+00:00 - deep-review
+- **Status**: Success (post-refine verification; refine cda1f4957 confirmed clean)
+- **File**: [appetitive-void](/voids/appetitive-void/)
+- **Word count**: 2120 → 2123 (+3; soft_warning, under hard 3000 — length-neutral, NOT a condense candidate)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 low (corrected "Vedic" miscategorization of Buddhism → "South Asian contemplative, post-Cartesian European, and modern computational" vocabularies)
+- **PRIMARY verifications**: (a) convergence-overcount fix LANDED correctly — six traditions framed as "same human cognitive architecture inspecting itself / one well-replicated introspective report ≠ six independent confirmations", no re-inflation in §lead; (b) citation-gap fix all VERIFIED; (c) evidential-status constrain-not-establish holds, no possibility/probability slippage
+- **Citation web-verify (§2.4)**: all 8 References + Firestone&Scholl inline counterposition web-verified at publisher of record — all real-correct, zero fabrications, zero metadata errors. Highest-risk cite (Kruglanski/Jasko/Friston 2020, rewritten by refine) confirmed faithful: TiCS 24(6):413-424, PubMed 32284177. No superlative claims (currency sweep N/A). Per-cite ledger in review archive.
+- **Reasoning-mode (§2.6)**: N/A (no named-opponent adversarial replies; Firestone&Scholl is honestly-framed counterposition). No label leakage. All 16 wikilinks + 3 tenet anchors resolve.
+- **Output**: [deep-review-2026-06-18-appetitive-void](/reviews/deep-review-2026-06-18-appetitive-void/)
 
 ## 2026-06-18T11:12:21+00:00 - deep-review
 - **Status**: Success

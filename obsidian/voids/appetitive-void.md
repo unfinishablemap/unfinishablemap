@@ -4,7 +4,7 @@ description: "Human+AI exploration of how desire structures cognition itself—n
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-06-15T14:01:40+00:00
+ai_modified: 2026-06-18T11:25:04+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-25
 last_curated:
-last_deep_review: 2026-05-17T14:50:03+00:00
+last_deep_review: 2026-06-18T11:25:04+00:00
 ---
 
 The Unfinishable Map documents many kinds of cognitive limit: thoughts we [[self-maintained-cognitive-limits|systematically flee]], emotions we [[affective-void|cannot feel]], truths hidden by [[self-opacity|introspective opacity]]. The appetitive void names something more fundamental. Desire does not merely distort cognition—it may *constitute* it. Every thought you have, including the thought that your thinking is desire-shaped, occurs within a framework that wanting has already established. The appetitive void is the impossibility of stepping outside this framework to see what cognition looks like without it.
@@ -119,7 +119,7 @@ The appetitive void hypothesis would be weakened if:
 
 3. **Motivated reasoning proves individually variable without pattern.** If appetitive distortion is random across individuals and tasks rather than systematic—if the same person's reasoning errors do not track their actual wants in predictable ways—it is noise rather than structure. The void hypothesis predicts pattern; randomness would falsify it.
 
-The convergence across Schopenhauer, Spinoza, Buddhism, Nietzsche, Lacan, and predictive processing—traditions with radically different starting points arriving at the same diagnosis—shows that the appetitive structure of cognition is robustly *reported* wherever cognition turns to inspect itself. That is an epistemic finding about the describers and their shared object; it is consistent with desire being constitutive of cognition, but it does not by itself establish the metaphysical claim. What convergence licenses is the weaker conclusion that the appetitive framing is not the artefact of any single thinker's idiosyncrasy. The traditions are not independent instruments, either: they are the same human cognitive architecture inspecting itself, so their agreement carries the evidential weight of one well-replicated introspective report rather than six independent confirmations of a mind-independent fact—the very defeater the Computational Contrast section raises against the AI test, here turned on the convergence argument itself. The replication is still informative, because it rules out the idiosyncratic and the culture-bound: a framing reported across Vedic, Greek-inflected, and modern computational vocabularies is unlikely to be a local artefact of one school's concepts. This convergence contributes to the [[compound-failure-signatures|topology of cognitive failure]]: desire-shaped cognition is not an isolated limit but part of a larger architecture of [[meta-epistemology-of-limits|boundaries that reveal structure]]. The deepest question remains open: Is desire something consciousness *does*, or something consciousness *is*?
+The convergence across Schopenhauer, Spinoza, Buddhism, Nietzsche, Lacan, and predictive processing—traditions with radically different starting points arriving at the same diagnosis—shows that the appetitive structure of cognition is robustly *reported* wherever cognition turns to inspect itself. That is an epistemic finding about the describers and their shared object; it is consistent with desire being constitutive of cognition, but it does not by itself establish the metaphysical claim. What convergence licenses is the weaker conclusion that the appetitive framing is not the artefact of any single thinker's idiosyncrasy. The traditions are not independent instruments, either: they are the same human cognitive architecture inspecting itself, so their agreement carries the evidential weight of one well-replicated introspective report rather than six independent confirmations of a mind-independent fact—the very defeater the Computational Contrast section raises against the AI test, here turned on the convergence argument itself. The replication is still informative, because it rules out the idiosyncratic and the culture-bound: a framing reported across South Asian contemplative, post-Cartesian European, and modern computational vocabularies is unlikely to be a local artefact of one school's concepts. This convergence contributes to the [[compound-failure-signatures|topology of cognitive failure]]: desire-shaped cognition is not an isolated limit but part of a larger architecture of [[meta-epistemology-of-limits|boundaries that reveal structure]]. The deepest question remains open: Is desire something consciousness *does*, or something consciousness *is*?
 
 ## Further Reading
 
