@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-18
-ai_modified: 2026-06-18 10:19:38+00:00
+ai_modified: 2026-06-18 11:42:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -83,6 +83,7 @@ This concept closes an open question the Map had explicitly deferred and sharpen
 - [the-steelman-for-value-blind-selection](/topics/the-steelman-for-value-blind-selection/) — The rival programme this gap supplies with a new exhibit
 - [valence](/concepts/valence/) — The positive-negative dimension serving as the selection currency
 - [wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/) — The Berridge dissociation as the motivational form of the same gap
+- [negative-valence-asymmetry-and-the-selection-weighting-function](/concepts/negative-valence-asymmetry-and-the-selection-weighting-function/) — The sign-weighting axis of the same predicted-vs-felt structure: negative valence weighs more in selection
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why experienced valence constitutes value
 - [marginal-organism-scope-of-value-sensitive-selection](/topics/marginal-organism-scope-of-value-sensitive-selection/) — Whether the gap reaches the marginal organisms of the value-sensitive horn
 

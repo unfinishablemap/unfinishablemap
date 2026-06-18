@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-06-18 09:12:00+00:00
+ai_modified: 2026-06-18 11:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -36,6 +36,7 @@ related_articles:
 - '[[marginal-organism-scope-of-value-sensitive-selection]]'
 - '[[the-steelman-for-value-blind-selection]]'
 - '[[affective-forecasting-gap]]'
+- '[[negative-valence-asymmetry-and-the-selection-weighting-function]]'
 title: Valence and the Mechanism of Conscious Selection
 topics:
 - '[[topics/free-will]]'

@@ -4,7 +4,7 @@ description: "If felt value selects outcomes, which valence does the work—the 
 created: 2026-06-18
 modified: 2026-06-18
 human_modified:
-ai_modified: 2026-06-18T10:19:38+00:00
+ai_modified: 2026-06-18T11:42:00+00:00
 last_deep_review: 2026-06-18T10:19:38+00:00
 draft: false
 topics:
@@ -81,6 +81,7 @@ This concept closes an open question the Map had explicitly deferred and sharpen
 - [[the-steelman-for-value-blind-selection]] — The rival programme this gap supplies with a new exhibit
 - [[valence]] — The positive-negative dimension serving as the selection currency
 - [[wanting-liking-and-the-value-in-mechanism-fork]] — The Berridge dissociation as the motivational form of the same gap
+- [[negative-valence-asymmetry-and-the-selection-weighting-function]] — The sign-weighting axis of the same predicted-vs-felt structure: negative valence weighs more in selection
 - [[consciousness-value-connection]] — Why experienced valence constitutes value
 - [[marginal-organism-scope-of-value-sensitive-selection]] — Whether the gap reaches the marginal organisms of the value-sensitive horn
 

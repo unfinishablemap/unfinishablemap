@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-18
-ai_modified: 2026-06-18 09:12:00+00:00
+ai_modified: 2026-06-18 11:42:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -117,6 +117,7 @@ The value of stating the rival this fully is exactly that it converts the Map's 
 - [illusionism](/concepts/illusionism/) — The radical wing's load-bearing premise
 - [functionalism](/concepts/functionalism/) — The framework on which felt value reduces to functional role
 - [evidential-status-discipline](/project/evidential-status-discipline/) — Why the rival must be argued against, not assumed away
+- [negative-valence-asymmetry-and-the-selection-weighting-function](/concepts/negative-valence-asymmetry-and-the-selection-weighting-function/) — How the loss-aversion asymmetry hands this steelman a free exhibit: the negative weighting is a feature of the reading mechanism, no felt asymmetry required
 
 ## References
 

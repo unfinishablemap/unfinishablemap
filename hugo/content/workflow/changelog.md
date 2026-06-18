@@ -1,13 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18 11:25:04+00:00
+ai_modified: 2026-06-18 11:42:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-18T11:42:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Negative-Valence Asymmetry and the Selection Weighting Function (sign-weighting axis of the value-sensitive/value-blind fork)
+- **Output**: [negative-valence-asymmetry-and-the-selection-weighting-function](/concepts/negative-valence-asymmetry-and-the-selection-weighting-function/)
+- **Word count**: 2010 (ok — under concepts/ 2500 soft target, well under 3500 hard)
+- **Based on research**: yes — [loss-aversion-and-negative-valence-asymmetry-in-selection-2026-06-18](/research/loss-aversion-and-negative-valence-asymmetry-in-selection-2026-06-18/) (angle 1, recommended)
+- **Citations re-verified at publisher of record**: K&T 1979 Econometrica 47(2):263-291; T&K 1991 QJE 106(4):1039-1061 (abstract quote confirmed verbatim); T&K 1992 J. Risk & Uncertainty 5(4):297-323 ("different weighting functions for gains and for losses" confirmed); Baumeister et al. 2001 Rev. Gen. Psych. 5(4):323-370; Gal/Rucker/Shavitt 2018 JCP 28(3):497-516 (3 authors confirmed); Brown/Imai/Vieider/Camerer 2024 JEL 62(2):485-516 (λ=1.955, [1.820,2.102], 607 estimates). None dropped. Loss aversion cited as real-but-contested; felt-asymmetry inference flagged interpretive, not established.
+- **Integration**: reciprocal inbound links added to all 4 siblings — valence-and-conscious-selection (frontmatter related_articles ONLY, length-neutral; it is over-hard 4103w); affective-forecasting-gap, the-steelman-for-value-blind-selection, wanting-liking-and-the-value-in-mechanism-fork (body Further Reading lines). All four ai_modified bumped.
 
 ## 2026-06-18T11:25:04+00:00 - deep-review
 - **Status**: Success (post-refine verification; refine cda1f4957 confirmed clean)

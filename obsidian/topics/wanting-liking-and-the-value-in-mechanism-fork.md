@@ -4,7 +4,7 @@ description: "Berridge's wanting/liking dissociation refutes a single value-curr
 created: 2026-06-05
 modified: 2026-06-05
 human_modified:
-ai_modified: 2026-06-18T09:40:00+00:00
+ai_modified: 2026-06-18T11:42:00+00:00
 last_deep_review: 2026-06-14T13:32:51+00:00
 draft: false
 topics:
@@ -89,6 +89,7 @@ The Map holds the value-in-experience reading because of its prior commitments i
 - [[marginal-organism-scope-of-value-sensitive-selection]] — How far down the tree of life value-sensitive selection reaches
 - [[the-steelman-for-value-blind-selection]] — The external scientific case for mechanism-only value, steelmanned and declined
 - [[affective-forecasting-gap]] — The predictive/forecasting form of the same predicted≠experienced-value structure: anticipated valence diverges from experienced valence just as "wanting" comes apart from "liking"
+- [[negative-valence-asymmetry-and-the-selection-weighting-function]] — The sign-weighting form of the same value-in-mechanism question: does the negative bias live in felt value or in the mechanism that reads it?
 
 ## References
 
