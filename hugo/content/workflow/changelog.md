@@ -9,6 +9,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-18T18:38:57+00:00 - deep-review
+- **Status**: Success (genuine drift ratified — verifying full pass, no new edits warranted)
+- **File**: [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/)
+- **Word count**: 2192 → 2192 (0; refine-draft `37b67486b` had grown it 1680→2192 since the 06-01 review; this pass verifies that drift rather than re-editing)
+- **Critical issues addressed**: 0 (none found — the refine-draft installed the abolition-symmetry / epistemic-datum-vs-metaphysical-conclusion calibration discipline a deep review would otherwise add; §2 slippage diagnostic PASS)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (further edits would risk oscillation per deep_review_over_reviews_converged; refine-draft already did the work, verified sound)
+- **Drift evidence**: `git diff 454f40c19 HEAD` — two commits since 06-01 review (`37b67486b` refine-draft + `c659ac2bb` cross-link); ~+500w calibration prose in "What Contemplative Pathology Reveals" + "Relation to Site Perspective"; References block byte-identical
+- **Verification**: sibling-attribution grep-check vs [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — "graded rather than binary"/"persists or intensifies"/neural-inertia hysteresis/"near-closed aperture" all faithful (not fabricated); citation ledger carried forward from 06-01 (References unchanged, all 5 real-correct); no superlative claims (currency N/A); anchoring evaluator → no flags; date sanity OK; no "not X, it is Y" cliché; all 14 wikilinks push-safe (incl. new [contentless-awareness-evidence](/topics/contentless-awareness-evidence/))
+- **Engagement (changelog-only)**: production theorist — Mode Three (framework-boundary marking), executed correctly; no editor-vocabulary label leakage in prose
+- **Output**: [deep-review-2026-06-18-contemplative-pathology-and-interface-malfunction](/reviews/deep-review-2026-06-18-contemplative-pathology-and-interface-malfunction/)
+
 ## 2026-06-18T17:05:00+00:00 - deep-review
 - **Status**: Success (converged no-op — confirming pass)
 - **File**: [contentless-awareness-evidence](/topics/contentless-awareness-evidence/)
