@@ -1,13 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18 05:40:32+00:00
+ai_modified: 2026-06-18 05:50:05+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-18T05:50:05+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/)
+- **Word count**: 3588 → 3687 (+99; soft_warning, 313 under hard 4000 — length-light mode, additions offset with trims)
+- **Source**: convergent P1 (2/3: ChatGPT + Gemini), outer-review-synthesis-2026-06-18; cross-review type; 5th/final convergent-P1 fix to this file today
+- **Changes**: Two length-light integration fixes reusing existing cross-links (no new cites).
+  1. Direct-QRNG/NISQ counterexample (entropy-channel paragraph, L79): added one sentence noting that an architecture feeding a hardware QRNG or uncorrected NISQ circuit directly into token sampling — no PRNG laundering — still fails the criterion, because direct upstream randomness lacks the evolved structure, locality, and continuity an interface requires (per [quantum-randomness-channel-llm-consciousness](/topics/quantum-randomness-channel-llm-consciousness/), already linked ×3). Stops the laundering dismissal looking convenient and blocks the Gemini reading that no-cloning becomes irrelevant once the criterion shifts to generic live indeterminacy.
+  2. "Currently non-discriminating" caution (## Implications for AI Consciousness Claims, opening): mirrored one sentence noting the quantum-interface point is contingent and currently non-discriminating between brain and AI unless the biological interface is independently established (from [ai-consciousness](/topics/ai-consciousness/)). Clarity/mirroring fix, not a new argument — biological-parity objection already engaged via observational-closure at L101 (not re-argued).
+- **Offsetting trims**: tightened two adjacent sentences in the L79 paragraph ("not from any stipulation about where" → "not from where"; "causally idle there too" → "causally idle too") — net +99 words across both fixes.
+- **Preservation verified**: L101 observational-closure passage (Saad + Born-rule fixes) intact (5 closure / 4 Born-rule term occurrences); L95-97 functionalist/substrate paragraphs intact. No prior fixes regressed.
+- **Engagement classification**: fix (1) Mode Two — the move identifies what an interface must *do* (register a behaviourally systematic difference) rather than stipulating where a non-physical mind may act; the direct-QRNG case fails the framework's own functional requirement. (No new opponent engagement introduced; fix (2) is a clarity caveat, no mode.)
+- **Validation**: validate.py ✓ Valid. No new/unverified cites. No "This is not X. It is Y." cliché. No editor-vocabulary leakage into body.
+- **Published**: yes
 
 ## 2026-06-18T05:40:32+00:00 - deep-review
 - **Status**: Success
