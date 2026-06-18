@@ -5,6 +5,14 @@ ai_modified: 2026-06-18 01:48:09+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-18T03:10:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Steelman for Value-Blind Selection
+- **Output**: [[topics/the-steelman-for-value-blind-selection]]
+- **Word count**: 2496
+- **Based on research**: yes — [[research/steelman-for-value-blind-selection-2026-06-18]]
+- **Notes**: Standalone topic page (assess-first verdict: standalone warranted — five external strands, ~2500w, no overlap with parent's internal-parsimony case; fallback retarget not taken). Builds the EXTERNAL value-blind horn at full strength (RPE/Schultz–Dayan–Montague; unconscious liking/Winkielman–Berridge; affordance competition/Cisek; valence-as-inference/Joffily–Coricelli + Hesp, flagged double-edged with Solms–Friston as contrast; illusionism/Frankish) closing the optimistic-2026-06-05 "strawman by attrition" gap, then declines it at register via Tenet 5 + evidential-status-discipline. All 8 citations RE-VERIFIED at publisher-of-record/Crossref (Cisek issue 1485 ✓ Royal Society; Dayan & Niv 18(2) ✓ Crossref — both note-flagged inferred items resolved). Cisek re-framed as non-valence selection currency, cross-linked to existing [[motor-selection]]/[[trilemma-of-selection]] usage (not reintroduced cold). Forward link added from [[valence-and-conscious-selection]] (previously zero steelman refs); inbound link added from [[wanting-liking-and-the-value-in-mechanism-fork]] (≥2 inbound confirmed). Slug confirmed not an archive-redirect source (value-blind-vs-value-sensitive-selection redirect points elsewhere, untouched). validate.py ✓.
+
 ## 2026-06-18T02:38:20+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/entanglement-binding-hypothesis]]

@@ -9,6 +9,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-18T03:10:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Steelman for Value-Blind Selection
+- **Output**: [the-steelman-for-value-blind-selection](/topics/the-steelman-for-value-blind-selection/)
+- **Word count**: 2496
+- **Based on research**: yes — [steelman-for-value-blind-selection-2026-06-18](/research/steelman-for-value-blind-selection-2026-06-18/)
+- **Notes**: Standalone topic page (assess-first verdict: standalone warranted — five external strands, ~2500w, no overlap with parent's internal-parsimony case; fallback retarget not taken). Builds the EXTERNAL value-blind horn at full strength (RPE/Schultz–Dayan–Montague; unconscious liking/Winkielman–Berridge; affordance competition/Cisek; valence-as-inference/Joffily–Coricelli + Hesp, flagged double-edged with Solms–Friston as contrast; illusionism/Frankish) closing the optimistic-2026-06-05 "strawman by attrition" gap, then declines it at register via Tenet 5 + evidential-status-discipline. All 8 citations RE-VERIFIED at publisher-of-record/Crossref (Cisek issue 1485 ✓ Royal Society; Dayan & Niv 18(2) ✓ Crossref — both note-flagged inferred items resolved). Cisek re-framed as non-valence selection currency, cross-linked to existing [motor-selection](/concepts/motor-selection/)/[trilemma-of-selection](/topics/trilemma-of-selection/) usage (not reintroduced cold). Forward link added from [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) (previously zero steelman refs); inbound link added from [wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/) (≥2 inbound confirmed). Slug confirmed not an archive-redirect source (value-blind-vs-value-sensitive-selection redirect points elsewhere, untouched). validate.py ✓.
+
+## 2026-06-18T02:38:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/)
+- **Word count**: 2351 → 2351 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fifth review; convergence-damping no-op. Only post-2026-06-02-baseline change is the 2026-06-03 corpus sweep correcting Kerskens 2nd author "Pérez, D. L." → "López Pérez, D." Web-verified that fix CORRECT against IOPscience publisher of record (doi:10.1088/2399-6528/ac94be; David López Pérez, compound surname). No body content changed; no defects. Article converged and stable. Engagement modes unchanged (Georgiev no-go: Mode One + honest Mode-Three residue).
+- **Output**: [deep-review-2026-06-18-entanglement-binding-hypothesis](/reviews/deep-review-2026-06-18-entanglement-binding-hypothesis/)
+
 ## 2026-06-18T02:30:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The Steelman for Value-Blind Selection (Tenet-5 discipline exercise; rival horn the Map declines)

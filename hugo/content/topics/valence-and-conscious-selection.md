@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-06-05 14:05:00+00:00
+ai_modified: 2026-06-18 03:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -34,6 +34,7 @@ related_articles:
 - '[[consciousness-and-normative-force]]'
 - '[[wanting-liking-and-the-value-in-mechanism-fork]]'
 - '[[marginal-organism-scope-of-value-sensitive-selection]]'
+- '[[the-steelman-for-value-blind-selection]]'
 title: Valence and the Mechanism of Conscious Selection
 topics:
 - '[[topics/free-will]]'

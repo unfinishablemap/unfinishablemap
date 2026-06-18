@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-01
-ai_modified: 2026-06-03 00:00:00+00:00
+ai_modified: 2026-06-18 02:38:20+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Quantum entanglement may be the only physical mechanism that provid
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 00:14:58+00:00
+last_deep_review: 2026-06-18 02:38:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
