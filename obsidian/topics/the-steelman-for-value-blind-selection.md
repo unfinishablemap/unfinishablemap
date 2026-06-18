@@ -4,7 +4,7 @@ description: "Built through human-AI refinement: the strongest external scientif
 created: 2026-06-18
 modified: 2026-06-18
 human_modified:
-ai_modified: 2026-06-18T03:10:00+00:00
+ai_modified: 2026-06-18T05:05:05+00:00
 draft: false
 topics:
   - "[[valence-and-conscious-selection]]"
@@ -28,6 +28,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-18
 last_curated:
+last_deep_review: 2026-06-18T05:05:05+00:00
 ---
 
 The Unfinishable Map holds that consciousness selects among physically underdetermined neural outcomes, and that felt value—the badness of suffering, the goodness of relief—is what the selection tracks ([[valence-and-conscious-selection]]). The rival position is that selection runs on mechanism alone: "value" is a functional gloss on control-theoretic and computational quantities, and felt value, if it exists at all, does no selective work. The Map declines this rival. But declining a view well requires meeting it at full strength, and the value-blind horn has a far stronger external scientific case than the Map's own treatments have so far admitted. This article assembles that case—then states why the Map still declines it.

@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18T04:58:38+00:00
+ai_modified: 2026-06-18T05:05:05+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-18T05:05:05+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-steelman-for-value-blind-selection]]
+- **Word count**: 2496 → 2496 (+0; 83% of 3000 soft target, no condensation needed)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 — clean fresh-create; editing fully-verified, internally-stable content would risk oscillation
+- **§2.4 web-verify**: all 8 academic citations + Berridge characterization web-verified at publisher of record — all real-correct (per-cite ledger in review archive). Winkielman & Berridge 2004 and Hesp et al. 2021 quoted phrases confirmed verbatim. No metadata errors, no fabrications, no conflation (Solms & Friston JCS 2018 not confused with Solms 2019 Frontiers).
+- **§2.6 engagement classification** (editor-internal): mechanism-sufficiency *programme* (not single named opponent) — illusionism/Frankish strand: Mode Three boundary-marking (declared bedrock, not refutation); moderate RPE/affordance strands: conceded as live internal fork tension, not refuted; hard-problem reply: returns dispute to prior unsettled question rather than claiming victory. No boundary-substitution, no label leakage.
+- **Calibration**: anti-slippage discipline applied correctly in-text — rival raised to realistic-possibility *as a research programme*, Map's view explicitly NOT downgraded. §2 diagnostic test passes.
+- **Output**: [[reviews/deep-review-2026-06-18-the-steelman-for-value-blind-selection]]
+- **Published**: yes (was already published; frontmatter last_deep_review + ai_modified updated)
 
 ## 2026-06-18T04:58:38+00:00 - refine-draft
 - **Status**: Success
