@@ -31,6 +31,7 @@ related_articles:
   - "[[phenomenal-value-realism-metaethics-2026-01-16]]"
   - "[[alignment-in-objective-experiential-terms]]"
   - "[[moral-architecture-of-consciousness]]"
+  - "[[the-steelman-for-value-blind-selection]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

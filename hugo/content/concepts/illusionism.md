@@ -44,6 +44,7 @@ related_articles:
 - '[[the-epiphenomenalist-threat]]'
 - '[[self-stultification-as-master-argument]]'
 - '[[metaproblem-of-consciousness-under-dualism]]'
+- '[[the-steelman-for-value-blind-selection]]'
 title: Illusionism
 topics:
 - '[[hard-problem-of-consciousness]]'

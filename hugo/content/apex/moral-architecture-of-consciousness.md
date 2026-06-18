@@ -50,6 +50,7 @@ related_articles:
 - '[[ethics-of-cognitive-enhancement-under-dualism]]'
 - '[[project/coherence-inflation-countermeasures]]'
 - '[[apex/steelmanning-as-method]]'
+- '[[the-steelman-for-value-blind-selection]]'
 title: The Moral Architecture of Consciousness
 topics:
 - '[[ethics-under-dualism]]'

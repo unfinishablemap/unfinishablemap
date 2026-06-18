@@ -22,6 +22,7 @@ related_articles:
   - "[[valence-and-conscious-selection]]"
   - "[[pain-consciousness-and-causal-power]]"
   - "[[interactionist-dualism]]"
+  - "[[the-steelman-for-value-blind-selection]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-8

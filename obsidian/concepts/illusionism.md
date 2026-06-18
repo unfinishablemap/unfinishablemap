@@ -38,6 +38,7 @@ related_articles:
   - "[[the-epiphenomenalist-threat]]"
   - "[[self-stultification-as-master-argument]]"
   - "[[metaproblem-of-consciousness-under-dualism]]"
+  - "[[the-steelman-for-value-blind-selection]]"
 coalesced_from:
   - "/concepts/illusionism-as-epiphenomenalism-in-disguise/"
 ai_contribution: 100

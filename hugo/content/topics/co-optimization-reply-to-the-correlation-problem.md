@@ -25,6 +25,7 @@ related_articles:
 - '[[valence-and-conscious-selection]]'
 - '[[pain-consciousness-and-causal-power]]'
 - '[[interactionist-dualism]]'
+- '[[the-steelman-for-value-blind-selection]]'
 title: The Co-Optimization Reply to the Correlation Problem
 topics:
 - '[[evolutionary-case-for-mental-causation]]'

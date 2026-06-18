@@ -28,6 +28,7 @@ related_articles:
   - "[[ethics-of-cognitive-enhancement-under-dualism]]"
   - "[[project/coherence-inflation-countermeasures]]"
   - "[[apex/steelmanning-as-method]]"
+  - "[[the-steelman-for-value-blind-selection]]"
 
 ai_contribution: 100
 author: null

@@ -28,6 +28,7 @@ related_articles:
 - '[[purpose-and-alignment]]'
 - '[[apex/moral-architecture-of-consciousness]]'
 - '[[wanting-liking-and-the-value-in-mechanism-fork]]'
+- '[[the-steelman-for-value-blind-selection]]'
 title: The Consciousness-Value Connection
 topics:
 - '[[meaning-of-life]]'
