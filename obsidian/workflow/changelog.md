@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18T05:35:43+00:00
+ai_modified: 2026-06-18T05:40:32+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-18T05:40:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/brain-internal-born-rule-testing]]
+- **Word count**: 3774 → 3776 (+2; soft_warning, 224 under hard 4000 — length-neutral mode)
+- **Critical issues addressed**: 0 (none found — converged, 5th deep-review, convergence-damped score 14)
+- **Medium issues addressed**: 1 (Keppler proposal: bare-surname mention → "Keppler's (2025, preprint)", aligning with sibling [[born-rule-and-the-consciousness-interface]] and disclosing pre-publication status)
+- **Enhancements made**: 0
+- **Empirical-currency sweep**: superlative-claims helper empty; "~25,000 amu" molecular-interferometry figure web-verified CURRENT (Fein et al. 2019 still the heaviest matter-wave record as of 2026-06 — Pedalino 170k MEMORY note is a different experiment domain, does NOT transfer)
+- **Reasoning-mode (editor-internal)**: Stapp Mode One; Orch-OR/Tegmark Mode Three; MWI Mode Three. No label leakage.
+- **Prior remaining-items**: both CLOSED (Han ref 5 repointed to Sci Rep 6:22986; Kerskens-López Pérez propagated to born-rule-and-the-consciousness-interface.md)
+- **Output**: [[reviews/deep-review-2026-06-18-brain-internal-born-rule-testing]]
 
 ## 2026-06-18T05:35:43+00:00 - refine-draft
 - **Status**: Success

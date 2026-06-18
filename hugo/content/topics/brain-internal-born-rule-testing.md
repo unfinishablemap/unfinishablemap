@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-06-07 10:01:54.266533+00:00
+ai_modified: 2026-06-18 05:40:32+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -29,7 +29,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/oU_ajnp1cVM
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 23:58:44+00:00
+last_deep_review: 2026-06-18 05:40:32+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,7 +76,7 @@ The article's working question: what would shut both readings, forcing the Map e
 
 ## Why Existing Born-Rule Tests Do Not Reach the Brain
 
-Every precision test of the Born rule lives in one of four regimes: optical (triple-slit, double-slit which-way), atomic/molecular (interferometry up to ~25,000 amu), superconducting-qubit, or high-energy. Sinha et al. (2010) measured Sorkin's third-order interference parameter at less than 10⁻² of the second-order contribution; subsequent optical and high-energy work has tightened the bound. The Masanes-Galley-Müller (2019) and Torres Alegre (2025) derivations give conditional theorems: *if* purification, steering, exact no-signalling, finite-parameter state estimation, and tensor-product subsystem independence hold, then the Born rule is fixed (the Masanes-Galley-Müller "operational redundancy" framing has been contested in the literature on whether it fixes the Born rule uniquely or only the form of valid probabilistic theories, and the Torres Alegre preprint is pre-publication). The arguments are derivationally tight given their premises; their empirical status is that the premises have been validated in photon-atom-qubit settings and not in brains.
+Every precision test of the Born rule lives in one of four regimes: optical (triple-slit, double-slit which-way), atomic/molecular (matter-wave interferometry up to ~170,000 amu, Pedalino et al. 2026), superconducting-qubit, or high-energy. Sinha et al. (2010) measured Sorkin's third-order interference parameter at less than 10⁻² of the second-order contribution; subsequent optical and high-energy work has tightened the bound. The Masanes-Galley-Müller (2019) and Torres Alegre (2025) derivations give conditional theorems: *if* purification, steering, exact no-signalling, finite-parameter state estimation, and tensor-product subsystem independence hold, then the Born rule is fixed (the Masanes-Galley-Müller "operational redundancy" framing has been contested in the literature on whether it fixes the Born rule uniquely or only the form of valid probabilistic theories, and the Torres Alegre preprint is pre-publication). The arguments are derivationally tight given their premises; their empirical status is that the premises have been validated in photon-atom-qubit settings and not in brains.
 
 The brain-internal regime sits outside all four tested regimes. Neural tissue is wet, warm, biological, with macroscopic mass scales relevant to the Diósi-Penrose threshold, contested claims about microtubule coherence at functionally relevant scales (the locus of Tegmark's 2000 decoherence-skeptic argument), and an open question about whether the standard tensor-product factorisation between "the brain" and "the rest" is empirically tested at the scale a conscious-selection event would occupy. None of the precision Born-rule data transfers without an inference step the literature has not pressure-tested.
 
@@ -120,7 +120,7 @@ The trumping reading shares with epiphenomenalism the prediction of no statistic
 
 The strict corridor reading by construction predicts no Born-statistical signature, so no single Born-rule experiment can directly refute it. What the experimental and theoretical programme can deliver is convergent pressure of three distinct kinds — and the kinds do different epistemic work. Conflating them as "foreclosure" would obscure what the programme actually delivers, so the section labels them honestly: *refutation of related mechanisms*, *consistency criterion*, and *theoretical supersession*.
 
-**Refutation of related mechanisms — rules out empirically committed corridor realisations.** A null on brain-internal coherence at consciously-relevant timescales would refute Orch-OR, the Penrose-Hameroff microtubule family, and Keppler's zero-point-field cortical-microcolumn coupling proposal. Kerskens-López Pérez-style entanglement-witness signals would have to be cleanly classically explained or fail to replicate at higher precision; the Wiest-surveyed microtubule coherence claims would have to be ruled out at the relevant mass-time scale (MAQRO-class precision in the appropriate regime). This criterion would refute the *mechanisms* articulated for instantiating a corridor selection; the strict corridor itself could in principle survive at sub-Tegmark-decoherence scales using a mechanism not yet articulated. The criterion rules out the empirically committed readings of the corridor, not the limit-case strict reading.
+**Refutation of related mechanisms — rules out empirically committed corridor realisations.** A null on brain-internal coherence at consciously-relevant timescales would refute Orch-OR, the Penrose-Hameroff microtubule family, and Keppler's (2025, preprint) zero-point-field cortical-microcolumn coupling proposal. Kerskens-López Pérez-style entanglement-witness signals would have to be cleanly classically explained or fail to replicate at higher precision; the Wiest-surveyed microtubule coherence claims would have to be ruled out at the relevant mass-time scale (MAQRO-class precision in the appropriate regime). This criterion would refute the *mechanisms* articulated for instantiating a corridor selection; the strict corridor itself could in principle survive at sub-Tegmark-decoherence scales using a mechanism not yet articulated. The criterion rules out the empirically committed readings of the corridor, not the limit-case strict reading.
 
 **Consistency criterion — constrains probability-bias readings, leaves the strict corridor unmoved.** A clean negative on every viable selection signature in brain-coupled quantum systems — Nirvanic-style protocols scaled and replicated, finding no statistically detectable difference between conscious-attention and unconscious-attention conditions in the behaviour of brain-coupled qubits — would constrain the probability-bias reading at the brain-internal scale. The strict corridor by construction predicts the null and is therefore consistent with it; the criterion is one the corridor expects to pass. It forecloses probability-bias and leaves the strict corridor unrefuted (because the strict reading commits to *no* signature, the null is exactly what it expects).
 
