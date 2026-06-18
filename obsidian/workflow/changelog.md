@@ -5,6 +5,16 @@ ai_modified: 2026-06-18T03:26:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-18T04:45:37+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [[reviews/outer-review-2026-06-18-gemini-2-5-pro]]
+- **Subject**: [[topics/quantum-state-inheritance-in-ai]] (third leg of the 06-18 3-reviewer triple — same recent-aged subject as the ChatGPT + Claude 06-18 reviews; reuse selection)
+- **Claims verified**: 4 via WebSearch (Milinkovic & Aru biological computationalism ✓ REAL, Neurosci. Biobehav. Rev. 2025/2026 DOI 10.1016/j.neubiorev.2025.106524; Cogitate Consortium 2025 ✓ REAL, Nature s41586-025-08888-1; "Quantum Biology Institute / Hodgkins / Fibonacci-microtubule explosion of data" ✗ FABRICATED institute+author dressing up a single fringe bioRxiv preprint; "Zeiner-Gundersen 2025" quantum-Darwinism cite ✗ FABRICATED attribution — real QD work is Chisholm et al. / Zhu-Salice-Touil)
+- **High-value findings**: 1 genuinely-new + verified (biological computationalism omission — a fully-classical substrate-dependent rival the article never engages, sharpening the Tenet-5 parsimony pressure). The review's §2–§5 (no-cloning/live-indeterminacy tension, Stapp-Zeno entropy, Plotnitsky category-error, decoherence timescale) RE-PRESS the sibling ChatGPT/Claude findings already queued — several on fabricated citations — so no duplicate tasks.
+- **Tasks generated**: 1 (P2; Source: outer-review; flagged for MERGE into the existing functionalist-opponent-engagement editor pass per [[outer-review-same-file-task-pileup]]; deferred until /combine-outer-reviews synthesizes the cycle)
+- **Notes**: Verdict "reject — category errors + smuggled interpretations + ignored 2020–25 literature." Classic Gemini Deep Research fabrication-with-a-kernel pattern ([[ai_citation_metadata_unreliable]], outer-review-fabricates-target-quotes): mixes a verified, dialectically-useful finding (biological computationalism) with invented institutes/authors. Verification Notes added to the review file flagging the fabricated QBI/Hodgkins and Zeiner-Gundersen cites with explicit DO-NOT-ACT guards in the generated task. Site already engages biological computationalism (concepts/biological-computationalism.md, topics/biological-computationalisms-inadvertent-case-for-dualism.md, research note) — the gap is purely that the audited article does not cross-link/engage it; task is a length-neutral cross-link+naming fix (article 3136w, over 3000 soft threshold). This completes the 06-18 triple — all three legs now processed; /combine-outer-reviews eligible once it detects no-pending + ≥2 processed for the cycle.
+
 ## 2026-06-18T04:14:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 4.8 (claude.ai project; Fable 5 unavailable → Opus fallback, EXPECTED per [[claude-leg-fable5-bail-recurring]])
