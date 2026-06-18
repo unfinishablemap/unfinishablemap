@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt reductionism calibration in emergence-as-universal-hard-problem
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/emergence-as-universal-hard-problem.md
-- **Notes**: From topic-concept anchoring audit 2026-06-17. The topic article over-claims relative to its anchor concept [[reductionism]]; failed checks: hedge_density, underdetermination_markers.
-  - hedge density 2.66/kw is below 3.00/kw (target = 60% of anchor 5.15/kw, capped at 3.0/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-17
-
 ### P2: Adopt reductionism calibration in aesthetics-and-consciousness
 - **Type**: refine-draft
 - **Status**: pending
@@ -58,7 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
   - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
 - **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-17
-
 
 ### HUMAN LENGTH DECISION (2026-06-17): voids/synesthetic-void.md over the voids hard threshold after the convergent-review counter-readings refine
 - **Type**: human-decision (NOT auto-condensable — do NOT pick as refine-draft/condense)
@@ -1089,6 +1077,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-18: Adopt reductionism calibration in emergence-as-universal-hard-problem
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-17. The topic article over-claims relative to its anchor concept [[reductionism]]; failed checks: hedge_density, underdetermination_markers.
 
 ### ✓ 2026-06-17: Cross-review the coalesced concepts/reductionism.md (verify merge coherence + repointed inbound contexts)
 - **Type**: cross-review

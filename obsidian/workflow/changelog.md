@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-17 21:48:51+00:00
+ai_modified: 2026-06-18 00:38:53+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-18T00:38:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/emergence-as-universal-hard-problem]]
+- **Task**: Topic-concept anchoring audit (calibration-audit-triple Audit Three) — topic over-claimed vs anchor concept [[concepts/reductionism]]; failed hedge_density (2.66/kw < 3.00/kw floor) and underdetermination_markers (0 vs anchor's 1).
+- **Changes**: Installed substantive epistemic qualifiers at genuinely-defeasible points to inherit the anchor's calibration register — (1) lead now states the reductive track record is compatible with both the universalist and orthodox readings and "does not adjudicate" between them, framing the thesis as best-motivated not forced; (2) "hard problems all the way down" conclusion concedes a reductionist may resist the generalisation and the cases shift the burden rather than refute the rival; (3) equivocation-objection section grants the clean-division defender an epistemic-vs-ontological-gradient reply; (4) domestication mechanism marked as best-available-explanation with a coherent rival (lower-level transitions simply lack a gap); (5) cross-tradition convergence hedged ("may also explain", shared cognition could account for it); (6) physicalism section marks the disagreement as turning on what counts as closing a gap, stable rather than data-resolvable. Central claim and voice preserved — no thesis weakening.
+- **Calibration result**: hedge_density 2.66 → 4.98/kw; underdetermination_markers 0 → 3; strong_assertions still 0; evaluate_anchoring now returns NO FLAGS. Body 2635 → 3010 words (soft_warning, under 4000 hard ceiling; substantive prose, no padding).
+- **Published**: yes
 
 ## 2026-06-18T00:00:00+00:00 - apex-evolve
 - **Status**: Complete
