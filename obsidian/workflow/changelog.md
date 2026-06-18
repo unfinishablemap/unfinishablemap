@@ -5,6 +5,17 @@ ai_modified: 2026-06-18T13:15:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-18T23:26:27+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/steelmanning-as-method]]
+- **Changed sources**: 1 (project/coherence-inflation-countermeasures — genuinely new Countermeasure-12 body-vs-frame "constrain-vs-establish frame lint" device, landed 2026-06-18)
+- **Drift triage**: 2 higher-scoring auto-candidates (self-concealing-interface, mereology-of-mind) rejected as [[apex_last_synthesis-drift-artifact|stale-field artifacts]] — their "changed sources" were coalesce renames already absorbed into the apex bodies. This one is real new source material.
+- **Synthesis**: wove the new surface-vs-body inflation face into "What the Method Is Not" as the third member (alongside vertical tier-elevation and horizontal epistemic/metaphysical equivocation), tied it to the apex's existing theatrical-steelman failure mode and its truncation-first audience argument; offsetting trim to the Honest-Limitation opening.
+- **Word count**: 3725 → 3947 (apex soft 4000 / hard 5000; status ok)
+- **Citation/anchoring/push-safe**: no new external cites (internal methodology doc only); methodology-register anchoring, no tier inflation; no cliché; new wikilink target resolves
+- **Frontmatter**: apex_last_synthesis 2026-06-05 → 2026-06-18 (the staleness field driving re-nomination)
+- **Review**: [[reviews/apex-evolve-2026-06-18-steelmanning-as-method]]
+
 ## 2026-06-18T22:12:38+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/mathematical-structure-of-the-consciousness-physics-interface]]

@@ -1,9 +1,9 @@
 ---
 title: "Steelmanning as Method: Building the Rival Before the Residue"
 created: 2026-05-27
-modified: 2026-05-27
+modified: 2026-06-18
 human_modified: null
-ai_modified: 2026-06-06T00:00:00+00:00
+ai_modified: 2026-06-18T23:26:27+00:00
 draft: false
 description: "A reusable method the Map performs but rarely names: build the strongest unified rival in its own vocabulary, grant that it absorbs the shape of the evidence, then isolate the narrow residue that survives. The constructive companion to constrain-vs-establish."
 topics: []
@@ -43,7 +43,7 @@ apex_sources:
   - apex/phenomenal-output-causal-machinery-dissociation
   - apex/moral-architecture-of-consciousness
   - apex/phenomenology-mechanism-bridge
-apex_last_synthesis: 2026-06-05T22:16:18+00:00
+apex_last_synthesis: 2026-06-18T23:26:27+00:00
 apex_thesis: "The Map's strongest synthesis articles share a constructive method that runs in the reverse of the usual apologetic order: build the strongest unified rival account in the rival's own vocabulary, grant that it absorbs the whole shape of the evidence, then isolate the narrow residue that survives — and audit the article's own convergence count downward in the same pass. Steelmanning-as-method is the positive, procedural companion to the catalogue's defensive disciplines (constrain-vs-establish, compatibility-vs-support, common-cause-null): those say what not to claim; this says how to earn the small thing that remains claimable."
 ---
 
@@ -99,6 +99,8 @@ The method is sharpened by what it excludes.
 
 This *vertical* inflation — pushing a fixed claim up the tier scale — has a *horizontal* sibling the method must equally avoid, and the evidential-status discipline's fourth cross-cutting rule names it: a residue that quietly *equivocates between an epistemic and a metaphysical reading of the same words*, recruiting evidence for the weaker reading to assert the stronger. A residue stated as "the rival cannot say why the verdict is *felt*" is honest if it means the rival's architecture leaves felt-character unexplained (the epistemic, access-limit reading the exhibit's evidence supports); it inflates if it slides into "felt-character is therefore a distinct constituent of the world" (the metaphysical reading the grant did not earn). The method's discipline against this is the same shape as move three's: name the weaker reading the concession actually licenses, state the stronger reading separately, and supply the bridging argument the upgrade requires — or hold the residue at the reading the evidence supports. A residue that survives the steelman but equivocates between its two readings has reclaimed by interpretation exactly what move two gave away.
 
+There is a third face, and it is the one most likely to escape the method's author. Vertical and horizontal inflation both live *in the prose*, where the residue is stated; the third lives in the article's framing furniture. An article can perform all four moves scrupulously in its body — granting the absorption, isolating a narrow residue, holding it at the framework-boundary register — while its *title, section headers, abstract, or meta-description* assert the broad claim the body explicitly declined. The [[coherence-inflation-countermeasures|coherence-inflation countermeasures]] name this the **constrain-vs-establish frame lint** (the body-vs-frame variant of Countermeasure 12): the over-claiming frame inherits the strong reading the body gave away, and a reader who fetches only the title, headers, and meta-description — the truncation-resilient surface this site writes for — sees a residue reclaimed at the framing level, the theatrical steelman performed in the furniture rather than the prose. The fix direction is fixed: align the frame *down* to the body, never the body *up* to the frame, unless the body has earned a tenet-independent criterion that establishes rather than constrains. This face matters most for the method precisely because its primary audience reads the surface first: a frame that over-claims defeats the whole point of conceding the shape, since the conceded shape never reaches the reader who stops at the header.
+
 ## Where the Method Recurs
 
 The dissociation apex is the cleanest exhibit, but the method is the implicit spine of the Map's strongest syntheses, which is why it warrants naming rather than residing in one article.
@@ -109,7 +111,7 @@ At the topic and concept tier, [[mental-effort|mental effort]] ledgers the Inzli
 
 ## Honest Limitation
 
-The method has a characteristic failure mode, and naming it is part of the method. The danger is the *theatrical steelman*: a rival built impressively, granted generously, and then quietly under-credited at the residue stage, so that the article appears to have conceded everything while actually conceding nothing load-bearing. The tell is a residue as large as the original thesis. If the felt-character residue were silently expanded back into "and therefore the dissociation evidences a distinct register," the method would have been performed as theatre — the grant made for show, the inflation restored at the end. The guard is move three's discipline that the residue be *smaller* and *stated as smaller*, cross-checked by an external reviewer who does not share the Map's tenets and can see when a concession has been rhetorically reclaimed. This is why the method's reliability ultimately depends on the [[coherence-inflation-countermeasures|external-benchmark review]] (Countermeasure 9): an internal pipeline that both builds the rival and judges the residue can build a beatable rival and over-credit the residue without noticing, because it shares the frame.
+The method has a characteristic failure mode, and naming it is part of the method. The danger is the *theatrical steelman*: a rival built impressively, granted generously, and then quietly under-credited at the residue stage, so that the article appears to have conceded everything while actually conceding nothing load-bearing. The tell is a residue as large as the original thesis — whether the inflation is restored in the prose (the felt-character residue silently re-expanded into "and therefore the dissociation evidences a distinct register") or, as the frame-lint face above shows, in the framing furniture. The guard is move three's discipline that the residue be *smaller* and *stated as smaller*, cross-checked by an external reviewer who does not share the Map's tenets and can see when a concession has been rhetorically reclaimed. This is why the method's reliability ultimately depends on the [[coherence-inflation-countermeasures|external-benchmark review]] (Countermeasure 9): an internal pipeline that both builds the rival and judges the residue can build a beatable rival and over-credit the residue without noticing, because it shares the frame.
 
 A second limitation: the method presupposes that a *single* unified rival can be built. Where the opposing programme is genuinely plural — several incompatible rival accounts, no one of which predicts the whole pattern — the method's move one is harder, and an article may legitimately fall back on the courteous steelman of each. The method is at its strongest exactly where the threat is strongest: when one rival architecture absorbs everything. That is also when it is most tempting to skip, because building the rival that absorbs everything feels like conceding the case. The method's claim is that conceding the shape is the only way to earn the residue, and that an article unwilling to concede the shape has not earned anything at all.
 
@@ -126,7 +128,7 @@ The deepest commitment the method serves is to the Map's primary audience: chatb
 This synthesis draws its method from the catalogue's methodology layer and its worked exhibits from the apex tier:
 
 - [[evidential-status-discipline|Evidential-Status Discipline]] — the defensive disciplines (constrain-vs-establish, compatibility-vs-support, defeater-removal vs evidence-lift) for which this is the constructive companion, including the fourth cross-cutting rule against epistemic-vs-metaphysical equivocation
-- [[coherence-inflation-countermeasures|Coherence Inflation Countermeasures]] — the steelman-mirror (Countermeasure 10) and external-benchmark (Countermeasure 9) requirements the method formalises
+- [[coherence-inflation-countermeasures|Coherence Inflation Countermeasures]] — the steelman-mirror (Countermeasure 10), external-benchmark (Countermeasure 9), and constrain-vs-establish frame-lint (Countermeasure 12, body-vs-frame variant) requirements the method formalises
 - [[bedrock-clash-vs-absorption|Bedrock-Clash vs. Absorption]] — the editorial discipline governing how the residue is installed once isolated
 - [[common-cause-null|The Common-Cause Null]] and [[per-cluster-independence-scoring|Per-Cluster Independence Scoring]] — the screens the downward audit applies to a convergence count
 - [[mechanism-cost-ledger|The Mechanism-Cost Ledger]] — how the residue's force is measured as cost-to-the-rival rather than evidence-lift
