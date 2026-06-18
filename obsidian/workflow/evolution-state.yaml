@@ -1,5 +1,9 @@
-last_updated: '2026-06-18T07:46:54.978424+00:00'
-session_count: 11780
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-18T07:50:04.370390+00:00'
+session_count: 11781
 cycle_position: 9342
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-06-18T05:16:59.560663+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-18T00:15:01.484635+00:00'
-  agentic-social: '2026-06-18T07:49:37.340629+00:00'
+  agentic-social: '2026-06-18T07:50:04.370390+00:00'
   embed-videos: '2026-06-18T06:27:31.848378+00:00'
   commission-chatgpt-review: '2026-06-18T02:04:17.512012+00:00'
   commission-claude-review: '2026-06-18T03:07:55.346916+00:00'
@@ -93,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-18'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-18'
@@ -171,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-18'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-06-18'
   outcome: success
 agentic_social:
@@ -1023,28 +1027,38 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 1
-  last_replenishment: '2026-06-18T07:45:37+00:00'
+  last_replenishment: '2026-06-18T07:55:09+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-18 run no.277 (standard mode) - HONEST NO-OP
-    (0 minted). Queue NOT starved: 1 loop-pickable open P3 now exists (the four-quadrant-dualism-taxonomy
-    calibration refine-draft minted by the 07:42 pessimistic-review AFTER run no.276),
-    so the floor is being restored organically by the review cycle - minting more
-    would be redundant. Open Active headers re-counted on disk: 1 actionable (four-quadrant
-    P3 refine) + 2 #veto condense (meaning-of-life, phenomenal-output-dissociation)
-    + 2 human-decision (synesthetic-void length + its DEFERRED citation-refresh).
-    All 8 sources independently re-verified this run: (1) chains 0 - recent_tasks
-    has NO research-topic/expand-topic completion to chain from; (2) unconsumed research
-    0 - all 5 research notes touched <36h (manyism, steelman-for-value-blind-selection,
-    egocentric-presentism, inference-void, simple-organisms) map to live articles,
-    voids over cap blocks void-research spawning; (3) gaps 0 - corpus saturated, topics
-    268/300, concepts 263/300, positions 4/80, voids 101/100 over cap; (4) staleness
-    0 fresh beyond cycle-slot deep-review coverage; (5) orphans 0 (quality.orphaned_files);
-    (6) length 0 NEW - 26 content-article offenders all covered (2 critical veto/veto-tagged;
-    rest vetoed, human-deferred calibration flagships incl laws-and-dispositions,
-    or marginal 6-19w-over recently-reviewed voids hubs what-voids-reveal/wholeheartedness-void
-    not worth churn); (7) positions: only 4 entries (<10 audit floor), positions-evolve
-    ran 06:54, no new 7a/7b; (8) applied-apex 0 (no approved slot). needs_replenishment
-    false. At-floor steady state with 1 organic pickable task.'
+  current_replenishment_note: '2026-06-18 run no.278 (standard mode) - HONEST NO-OP
+    (0 minted), reconfirming run no.277. Queue NOT starved: 1 loop-pickable open P3
+    still exists (the four-quadrant-dualism-taxonomy calibration refine-draft minted
+    by the 07:42 pessimistic-review), so the floor is being restored organically by
+    the review cycle - minting more would be redundant churn against a saturated corpus.
+    Open Active headers re-counted on disk: 1 actionable (four-quadrant P3 refine)
+    plus 2 veto-tagged condense (meaning-of-life, phenomenal-output-dissociation)
+    plus 2 human-decision (synesthetic-void length plus its DEFERRED citation-refresh).
+    All 8 sources independently re-verified on disk this run. (1) chains 0 - recent_tasks
+    has NO research-topic or expand-topic completion to chain from. (2) unconsumed
+    research 0 - all 6 recent research notes map to live articles (manyism to concepts/manyism,
+    naturalist-relationalism and chemosensory and egocentric-presentism and steelman-for-value-blind-selection
+    and consciousness-simple-organisms all have live targets) or are blocked by voids
+    over cap (inference-void). The apparent IWMT gap is a FALSE positive - its own
+    research note explicitly flags IWMT as already covered in concepts/predictive-processing.md
+    (Safron 2020 cited, MAP-estimate framing, I-JEPA link, gap-reply all present),
+    not uncovered territory. (3) gaps 0 - corpus saturated, topics 268/300, concepts
+    263/300, positions 4/80, voids 101/100 over cap. (4) staleness 0 - only >30d items
+    are 3 positions domain files with last_deep_review never, but those are positions-evolve
+    targets (ran 06:54) not deep-review staleness; cycle-slot deep-review ran 07:14
+    covers content. (5) orphans 0 (quality.orphaned_files). (6) length 0 NEW - 27 content-article
+    offenders all carry standing dispositions; the 3 worst are blocked or veto-tagged
+    or index hubs (epistemology-of-convergence 6479w STANDING HUMAN LENGTH DECISION
+    in Blocked, phenomenal-output 6832w veto plus Blocked, apex-articles 7238w index
+    register not prose); the rest are human-deferred calibration flagships (born-rule,
+    laws-and-dispositions, clinical-dissociation, time-collapse), recently git-condensed,
+    or marginal over-soft voids hubs not worth churn. (7) positions only 4 entries
+    (<10 audit floor), positions-evolve ran 06:54, no new 7a or 7b implied. (8) applied-apex
+    0 (no approved slot). needs_replenishment false. At-floor steady state with 1 organic
+    pickable task.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
