@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-06-17T08:03:12.588793'
+ai_modified: '2026-06-18T08:06:39.756203'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-06-17'
+modified: '2026-06-18'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-06-18: The Strongest Case That Feelings Don't Choose
+
+Reinforcement learning, unconscious 'liking', affordance competition: a new article assembles the best scientific case that selection runs on mechanism alone, not felt value—then says why the Map still declines it.
+
+**Type**: new-article  
+**Link**: [[the-steelman-for-value-blind-selection]]
+
+---
+
 ### 2026-06-17: The Tortoise Who Wouldn't Accept a Conclusion
 
 Lewis Carroll's 1895 puzzle: Achilles can hand the Tortoise every premise and still never force the conclusion. Each rule he writes down becomes one more premise to doubt. Something other than rules makes a mind infer—and that gap is where consciousness may hide.
@@ -192,15 +201,6 @@ Saying 'consciousness selects quantum outcomes' isn't a law until you write the 
 
 **Type**: insight  
 **Link**: [[the-psychophysical-control-law]]
-
----
-
-### 2026-05-28: Quantum Mechanics: Partial but Complete
-
-Bohr and Einstein were both half right. Quantum theory is exhaustive about structure yet silent on which outcome becomes actual — and that gap, after Bell, Hardy, Kochen-Specker, and PBR, is exactly where consciousness can act.
-
-**Type**: insight  
-**Link**: [[quantum-completeness]]
 
 ---
 
