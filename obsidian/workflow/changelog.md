@@ -5,6 +5,15 @@ ai_modified: 2026-06-18T13:15:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-18T15:53:52+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/neurophenomenology-and-contemplative-neuroscience]]
+- **Task**: Resolve dangling reference — Sandved-Smith et al. (2025) "Deep computational neurophenomenology" was in References but never cited in-body.
+- **Resolution**: Integrated in-body (option a). Added a one-clause citation in the Mutual-constraint paragraph of "Varela's Neurophenomenological Method" — the paper computationally formalises Varela's mutual-constraint method via deep active inference, the most accurate content hook (the article does not actually discuss active-inference models elsewhere, despite the task note; placed it where the formalised method genuinely belongs).
+- **Web-verify ledger**: REAL paper, WRONG metadata in References (3-state: real-paper-wrong-metadata). Verified at Oxford Academic + PubMed (PMID 40799210, PMCID PMC12342169). Corrections: surname "Sandved Smith"→"Sandved-Smith"; article ID "niae053" (fabricated)→"niaf016"; added missing subtitle "a methodological framework for investigating the how of experience"; added full author list (Sandved-Smith, Bogotá, Hohwy, Kiverstein, Lutz). Journal/year/vol/issue (*Neuroscience of Consciousness*, 2025(1)) were correct. DOI 10.1093/nc/niaf016, published 2025-08-05.
+- **Length**: 3022 → 3031 words (analyze_length; +9, effectively length-neutral, well under concepts 3500 hard ceiling). The new in-body clause was offset by tightening verbose prose in non-calibration sections (microphenomenology, illusionism, clinical, metaphysical interpretations, jhana, gamma). Calibration content (Kral et al. 2022 null replication, walked-back structural claims) untouched.
+- **Published**: yes
+
 ## 2026-06-18T13:20:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The primary/secondary-quality boundary as the universal-gap fault-line

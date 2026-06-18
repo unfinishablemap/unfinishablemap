@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-06 00:00:00+00:00
+ai_modified: 2026-06-18 15:53:52+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 coalesced_from:
@@ -61,13 +61,13 @@ Varela (1946–2001) proposed neurophenomenology as "a methodological remedy for
 2. **Neural measurement**: Brain activity recorded during specific experiential states
 3. **Mutual constraint**: First-person reports and neural data inform each other; neither reduces to the other
 
-This bidirectional flow distinguishes the programme from both pure phenomenology (which ignores the brain) and eliminative neuroscience (which ignores experience). Phenomenological reports predict neural signatures, while neural findings validate phenomenological categories.
+This bidirectional flow distinguishes the programme from both pure phenomenology (which ignores the brain) and eliminative neuroscience (which ignores experience). Phenomenological reports predict neural signatures, while neural findings validate phenomenological categories. Sandved-Smith et al. (2025) formalise this mutual-constraint relation computationally, using deep active inference to map lived experience onto its physiological instantiation—a Bayesian rendering of Varela's method targeting the "how" of experience rather than its contents.
 
 ### Microphenomenology
 
-Claire Petitmengin developed microphenomenology using specialised interview techniques to elicit fine-grained descriptions of brief experiential moments. Key techniques: present-tense indicators (directing attention to current experience), non-leading questions, re-enactment rather than abstraction, and focus on "how" rather than "why."
+Claire Petitmengin's microphenomenology uses specialised interviews to elicit fine-grained descriptions of brief experiential moments: present-tense indicators directing attention to current experience, non-leading questions, re-enactment rather than abstraction, and focus on "how" rather than "why."
 
-Applications include epilepsy anticipation, pain phenomenology, creative insight, and mathematical discovery. Findings consistently show that trained attention reveals micro-dynamics invisible to casual introspection—supporting the Occam's Razor Has Limits tenet: materialist "simplicity" may reflect failure to observe rather than absence of complexity.
+Applications span epilepsy anticipation, pain phenomenology, creative insight, and mathematical discovery. Trained attention consistently reveals micro-dynamics invisible to casual introspection—supporting the Occam's Razor Has Limits tenet: materialist "simplicity" may reflect failure to observe rather than absence of complexity.
 
 ## Core Empirical Findings
 
@@ -81,51 +81,51 @@ Long-term meditators show altered brain structure and function:
 
 **Dose-response**: Weng et al. (2013) found that ~7 hours of compassion training (two weeks, 30 min daily) altered neural responses to suffering and increased altruistic behaviour.[^weng] However, 8-week MBSR may produce only functional changes; structural changes require sustained practice over months to years.[^pernet]
 
-The causal pathway matters for the Map's interpretation: conscious intention → deliberate practice → neural change. The *content* of conscious intention appears to matter causally: cultivating compassion produces different *functional* neural changes than sustaining breath attention—a pattern compatible with the Map's claim that [phenomenal character](/concepts/qualia/) is not epiphenomenal decoration, though also explicable through standard mechanisms of differential behavioural training.
+The causal pathway matters for the Map's interpretation: conscious intention → deliberate practice → neural change. The *content* of intention appears to matter causally: cultivating compassion produces different *functional* neural changes than sustaining breath attention—a pattern compatible with the Map's claim that [phenomenal character](/concepts/qualia/) is not epiphenomenal decoration, though also explicable through standard differential behavioural training.
 
 ### Gamma Synchrony and Temporal Binding
 
 Long-term meditators show dramatically increased gamma-band (30–70 Hz) power and coherence across brain regions—even at baseline rest.[^lutz] Contemplative traditions describe unification of experience during concentrated attention; gamma synchrony provides a neural mechanism for this binding.
 
-The temporal scale matters. Gamma cycles correspond to periods of 15–35 milliseconds—potentially the temporal grain of conscious moments. Buddhist traditions describe *khanika* (momentariness): experience arising and passing in rapid succession. Ordinary awareness blurs these transitions; contemplative training discloses them. If [attention serves as consciousness's interface with brain](/concepts/attention-as-interface/), gamma synchrony may be the physical signature of moment-to-moment [temporal binding](/concepts/temporal-consciousness/).
+The temporal scale matters. Gamma cycles span 15–35 milliseconds—potentially the temporal grain of conscious moments. Buddhist traditions describe *khanika* (momentariness): experience arising and passing in rapid succession. Ordinary awareness blurs these transitions; contemplative training discloses them. If [attention serves as consciousness's interface with brain](/concepts/attention-as-interface/), gamma synchrony may be the physical signature of moment-to-moment [temporal binding](/concepts/temporal-consciousness/).
 
 ### Default Mode Network Modulation {#dmn-modulation}
 
 The [DMN](/concepts/default-mode-network/)—associated with mind-wandering, self-referential thought, and rumination—shows reduced activation during meditation and altered baseline connectivity in experienced practitioners.[^garrison] Long-term practice may transform resting state into more "present-centred" awareness.
 
-DMN reduction provides the neural signature for a shift that [witness-consciousness](/concepts/witness-consciousness/) traditions describe precisely: from discursive self-narrative to present-moment awareness. This exemplifies neurophenomenology—third-person measurement correlates with first-person experience, and neither is reducible to the other.
+DMN reduction is the neural signature of a shift [witness-consciousness](/concepts/witness-consciousness/) traditions describe precisely: from discursive self-narrative to present-moment awareness. This exemplifies neurophenomenology—third-person measurement correlates with first-person experience, and neither is reducible to the other.
 
-These correlates support multiple interpretations. The production hypothesis: neural changes directly generate phenomenology. The filter hypothesis: reduced DMN activity represents altered filtering parameters. The cessation finding (discussed in the advanced practice section) provides evidence for filter theory—consciousness continues during neural reorganisation in ways that don't map straightforwardly to production models.
+These correlates support multiple interpretations. The production hypothesis: neural changes directly generate phenomenology. The filter hypothesis: reduced DMN activity represents altered filtering parameters. The cessation finding (discussed in the advanced practice section) favours filter theory—consciousness continues during neural reorganisation in ways that don't map straightforwardly to production models.
 
 ### Attention Network Plasticity
 
 Focused attention meditation implicates default-mode, control (dlPFC, lateral parietal), and salience (ACC, insula) networks.[^dhond] The Shamatha Project found intensive practice improved perceptual discrimination, sustained attention, response inhibition, and reduced mind-wandering.[^shamatha]
 
-These are trainable skills. Willed attention (self-directed focus) activates distinct neural signatures from instructed or exogenous attention.[^voluntary] The fact that deliberate practice enhances attentional capacities demonstrates that [voluntary attention control](/concepts/attention-as-interface/) is not purely bottom-up—and connects to [free-will](/topics/free-will/): if phenomenal consciousness were epiphenomenal, willed effort could not produce measurable improvements in attentional stability.
+These are trainable skills. Willed attention (self-directed focus) activates distinct neural signatures from instructed or exogenous attention.[^voluntary] That deliberate practice enhances attentional capacities shows [voluntary attention control](/concepts/attention-as-interface/) is not purely bottom-up—and connects to [free-will](/topics/free-will/): if phenomenal consciousness were epiphenomenal, willed effort could not produce measurable improvements in attentional stability.
 
 ### The Meditation Modes Distinction
 
-[Two distinct modes](/concepts/meditation-and-consciousness-modes/) emerge from research: focused attention (active, effortful concentration) and open monitoring (receptive, non-directive awareness). Each has distinct phenomenology and distinct neural implementation. The meditator can shift between modes through conscious intention—this shift has neural signature, demonstrating voluntary control over binding configuration. This mode-shift data is the empirical record that [affective-tone-divergence-across-meditative-traditions](/topics/affective-tone-divergence-across-meditative-traditions/) draws on for its testable prediction that a single practitioner traversing the engagement registers should also traverse the affective range as a function of which mode they enter.
+[Two distinct modes](/concepts/meditation-and-consciousness-modes/) emerge from research: focused attention (active, effortful concentration) and open monitoring (receptive, non-directive awareness). Each has its own phenomenology and neural implementation. The meditator can shift between modes through conscious intention—this shift has neural signature, demonstrating voluntary control over binding configuration. This mode-shift data is the empirical record that [affective-tone-divergence-across-meditative-traditions](/topics/affective-tone-divergence-across-meditative-traditions/) draws on for its testable prediction that a single practitioner traversing the engagement registers should also traverse the affective range as a function of which mode they enter.
 
 ### Compassion and Emotional Neuroplasticity
 
-Compassion meditation appears to modulate emotional response networks—functional activation changes that correlate with prosocial behaviour.[^davidson] Structural claims in this domain face the same caveats as other meditation neuroimaging: small samples, few active-control comparisons. The functional findings are more robust. This connects to [emotion-and-dualism](/topics/emotion-and-dualism/): if phenomenal emotional qualities were causally inert, deliberate cultivation of compassion should not alter emotional responses and behaviour.
+Compassion meditation appears to modulate emotional response networks—functional activation changes that correlate with prosocial behaviour.[^davidson] Structural claims here face the same caveats as other meditation neuroimaging (small samples, few active controls); the functional findings are more robust. This connects to [emotion-and-dualism](/topics/emotion-and-dualism/): if phenomenal emotional qualities were causally inert, deliberate cultivation of compassion should not alter emotional responses and behaviour.
 
 ## Jhana States and Cessation {#advanced-practice}
 
 ### Jhana Neuroscience
 
-Research on advanced meditators (23,000+ hours) accessing jhana states reveals distinct neural signatures for each of the eight traditional states—increased global connectivity, altered hierarchical organisation, and increased brain entropy.[^demir] The phenomenologically distinct jhana states show distinct neural correlates: the phenomenological categories carve neural reality at its joints. Yet contemplative neuroscience does not explain *why* these patterns produce these particular experiential qualities. The [explanatory-gap](/concepts/explanatory-gap/) remains.
+Research on advanced meditators (23,000+ hours) accessing jhana states reveals distinct neural signatures for each of the eight traditional states—increased global connectivity, altered hierarchical organisation, and increased brain entropy.[^demir] The phenomenological categories carve neural reality at its joints. Yet contemplative neuroscience does not explain *why* these patterns produce these particular experiential qualities. The [explanatory-gap](/concepts/explanatory-gap/) remains.
 
 ### Cessation of Consciousness
 
 Advanced meditators can voluntarily enter cessation states (*nirodha samapatti*)—complete absence of experience while brain activity continues. Practitioners report abrupt discontinuity, distinct from sleep or anaesthesia.[^laukkonen]
 
-Brain activity continues during cessation, reorganised but not silent. If consciousness were identical to neural activity, cessation should correspond to neural silence. It does not. The dualist interpretation: consciousness accompanies certain brain configurations but is not identical to them. Cessation may represent complete filtering rather than consciousness's absence.
+Brain activity continues during cessation, reorganised but not silent. If consciousness were identical to neural activity, cessation should correspond to neural silence, which it does not. The dualist interpretation: consciousness accompanies certain brain configurations but is not identical to them. Cessation may represent complete filtering rather than consciousness's absence.
 
 ## The Reliability of Trained Introspection
 
-Sceptics argue that [introspection](/concepts/introspection/) is fundamentally unreliable. But the introspection debate reveals a crucial distinction: access to cognitive *processes* (where Nisbett and Wilson's critique applies) versus access to phenomenal *content* (what contemplative science targets).
+Sceptics argue that [introspection](/concepts/introspection/) is fundamentally unreliable. But the debate turns on a crucial distinction: access to cognitive *processes* (where Nisbett and Wilson's critique applies) versus access to phenomenal *content* (what contemplative science targets).
 
 Neurophenomenology responds:
 
@@ -134,7 +134,7 @@ Neurophenomenology responds:
 3. **Convergent findings**: Microphenomenological interviews produce replicable fine-grained categories across subjects. The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) documents structural convergence on self-dissolution, contentless awareness, and subject-object collapse across Buddhist, Hindu, Christian, Sufi, and Daoist practices.
 4. **Predictive power**: First-person reports from trained observers predict neural signatures that untrained reports do not.
 
-This does not make introspection infallible. But rigorous methods produce reliable results.
+This does not make introspection infallible, but rigorous methods produce reliable results.
 
 ## Top-Down Causation and the Epiphenomenalism Challenge
 
@@ -145,33 +145,33 @@ Contemplative neuroscience provides empirical evidence against [epiphenomenalism
 3. These changes predict behaviour (improved attention, prosocial action)
 4. The intervention is phenomenological—conscious practice, not merely physical motion
 
-The materialist responds that "content" just refers to neural structure, not additional phenomenal properties. The Map's case rests on the [self-stultification argument](/concepts/bidirectional-interaction/#the-self-stultification-argument): if introspective reports about meditation are roughly accurate, then phenomenal properties must causally contribute to those reports. The findings do not settle the metaphysical debate alone—but they make epiphenomenalism harder to maintain.
+The materialist responds that "content" just refers to neural structure, not additional phenomenal properties. The Map's case rests on the [self-stultification argument](/concepts/bidirectional-interaction/#the-self-stultification-argument): if introspective reports about meditation are roughly accurate, phenomenal properties must causally contribute to them. The findings do not settle the metaphysical debate alone, but they make epiphenomenalism harder to maintain.
 
 ### The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) like Frankish and Dennett argue phenomenal consciousness is an illusion—useful fictions produced by cognitive systems representing themselves.
+[Illusionists](/concepts/illusionism/) like Frankish and Dennett argue phenomenal consciousness is an illusion—a useful fiction produced by cognitive systems representing themselves.
 
-**The regress problem**: If phenomenal consciousness is illusion, the *seeming* to have it must be explained. Either this seeming involves phenomenal properties (relocating consciousness) or it does not (leaving unexplained why the non-phenomenal seeming convinces). Contemplative practice sharpens this: trained meditators report detailed, replicable structures—jhana progression, self-dissolution, cessation phenomenology—that converge across traditions. If illusion, the illusion has remarkable structure demanding explanation.
+**The regress problem**: If phenomenal consciousness is illusion, the *seeming* to have it still demands explanation. Either this seeming involves phenomenal properties (relocating consciousness) or it does not (leaving unexplained why the non-phenomenal seeming convinces). Contemplative practice sharpens this: trained meditators report detailed, replicable structures—jhana progression, self-dissolution, cessation phenomenology—that converge across traditions. An illusion with such remarkable structure itself demands explanation.
 
-**Heterophenomenology fails empirically**: Dennett proposes treating reports as data about "how things seem" without assuming phenomenality. But Fox et al. found trained observers predict neural signatures far better than untrained ones. If reports merely describe "seemings" with no phenomenal referent, this differential predictive power is unexplained.
+**Heterophenomenology fails empirically**: Dennett treats reports as data about "how things seem" without assuming phenomenality. But Fox et al. found trained observers predict neural signatures far better than untrained ones. If reports merely describe "seemings" with no phenomenal referent, this differential predictive power is unexplained.
 
 ### Connection to Stapp's Quantum Framework
 
-[Stapp's quantum Zeno mechanism](/concepts/stapp-quantum-mind/) provides one theoretical framework: sustained attention may involve repeated quantum observations that bias neural pattern selection. The [mental effort article](/concepts/mental-effort/) examines Schwartz's OCD neuroplasticity evidence as clinical support. Whether this operates via quantum mechanisms or other forms of top-down causation remains empirically open.
+[Stapp's quantum Zeno mechanism](/concepts/stapp-quantum-mind/) offers one framework: sustained attention may involve repeated quantum observations that bias neural pattern selection. The [mental effort article](/concepts/mental-effort/) examines Schwartz's OCD neuroplasticity evidence as clinical support. Whether this operates via quantum mechanisms or other top-down causation remains empirically open.
 
 ## Clinical Applications
 
-Mindfulness-Based Stress Reduction (MBSR) shows consistent clinical benefits: reduced anxiety, stress, and depression, with improvements maintained for years.[^sharma] The intervention is phenomenological—learning to observe thoughts without identification, cultivate compassionate awareness—yet produces measurable neural and behavioural changes. The clinical success validates integration: a phenomenological intervention, a mechanism spanning both domains, outcomes measurable in both.
+Mindfulness-Based Stress Reduction (MBSR) shows consistent clinical benefits: reduced anxiety, stress, and depression, with improvements maintained for years.[^sharma] The intervention is phenomenological—observing thoughts without identification, cultivating compassionate awareness—yet produces measurable neural and behavioural changes. This clinical success validates integration: a phenomenological intervention spanning both domains, with outcomes measurable in each.
 
 ## Metaphysical Interpretations
 
 ### Buddhist Anti-Substantialism vs. Dualism
 
-Using contemplative evidence for substance dualism creates tension with Buddhist metaphysics. The *anatman* doctrine denies any enduring conscious substance—only arising-and-passing processes (*pratītyasamutpāda*). The Map appropriates Buddhist contemplative practice while noting the phenomenological data do not uniquely support substance dualism; they are compatible with process philosophy, neutral monism, or Buddhist anti-substantialism. The Map's Dualism tenet commits to consciousness as non-reducible to physical processes—the key claim is that phenomenal properties are metaphysically fundamental, not that they belong to an enduring Cartesian substance.
+Using contemplative evidence for substance dualism creates tension with Buddhist metaphysics. The *anatman* doctrine denies any enduring conscious substance—only arising-and-passing processes (*pratītyasamutpāda*). The Map appropriates Buddhist practice while noting the phenomenological data do not uniquely support substance dualism; they are equally compatible with process philosophy, neutral monism, or Buddhist anti-substantialism. The Map's Dualism tenet commits only to consciousness as non-reducible to physical processes—phenomenal properties are metaphysically fundamental, not necessarily features of an enduring Cartesian substance.
 
 ### Process Philosophy
 
-Whitehead's process philosophy illuminates neurophenomenological findings. Reality consists of "actual occasions"—momentary events of experience. When meditators report *khanika* (momentariness), they may detect the temporal grain of actual occasions. When they report the self as dynamic process, they confirm phenomenologically what process philosophy asserts. Cessation may involve occasions with radically diminished phenomenal content rather than consciousness's absence.
+Whitehead's process philosophy illuminates neurophenomenological findings. Reality consists of "actual occasions"—momentary events of experience. When meditators report *khanika* (momentariness), they may detect the temporal grain of actual occasions; when they report the self as dynamic process, they confirm phenomenologically what process philosophy asserts. Cessation may involve occasions with radically diminished phenomenal content rather than consciousness's absence.
 
 ## What Would Challenge This View?
 
@@ -236,7 +236,7 @@ None demonstrated. Fox et al. shows robust training effects; cross-traditional s
 1. Nisbett, R.E. & Wilson, T.D. (1977). Telling more than we can know. *Psychological Review*, 84(3), 231-259.
 1. Parkinson, T.D. et al. (2022). Mindfulness meditation increases default mode, salience, and central executive network connectivity. *Scientific Reports*, 12, 13219.
 1. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
-1. Sandved Smith, L. et al. (2025). Deep computational neurophenomenology. *Neuroscience of Consciousness*, 2025(1), niae053.
+1. Sandved-Smith, L., Bogotá, J.D., Hohwy, J., Kiverstein, J., & Lutz, A. (2025). Deep computational neurophenomenology: a methodological framework for investigating the how of experience. *Neuroscience of Consciousness*, 2025(1), niaf016.
 1. Pernet, C.R., Belov, N., Delorme, A., & Zammit, A. (2021). Mindfulness related changes in grey matter: a systematic review and meta-analysis. *Brain Imaging and Behavior*, 15(5), 2720-2730.
 1. Sharma, H. (2015). Mindfulness-based stress reduction: a non-pharmacological approach for chronic illnesses. *Journal of Evidence-Based Complementary & Alternative Medicine*, 20(4), 284-286.
 1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
