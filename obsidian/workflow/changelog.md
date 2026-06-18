@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18T11:42:00+00:00
+ai_modified: 2026-06-18T13:05:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-18T13:05:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/four-quadrant-dualism-taxonomy]]
+- **Scope**: verify-first integration-accuracy audit of forward-refs to [[topics/dualism-channel-width-axis]] (coalesced 2026-06-09, deep-reviewed since). Length-neutral; not a rewrite. Did NOT reopen the completed 2026-06-18 calibration fixes (thickness-discrimination scoping, Q4-emptiness ordering).
+- **Forward-ref (1) Kastrup placement** (§Limits of the Thickness Metaphor, L76 "Kastrup off-axis with no channel"): VERIFIED ACCURATE — target L70/L72 explicitly characterise Kastrup as "no channel," "not applicable" (off-axis, not zero-width), "standing outside it entirely." No drift, no edit.
+- **Forward-ref (2) vacant-cell verdict** (§Q4, L126, via [[dualism-channel-width-axis#vacant-cell]]): DRIFTED — corrected. Four-quadrant asserted the wide-channel/thin-pole region is "empty by structural impossibility" (unqualified). The target's actual verdict (L116-122 §Contingent Gap or Structural Impossibility) PARTITIONS: "does not deliver a clean universal impossibility"; candidate-generation = structural, energy-injection = structural-on-standard-reading WITH a contingent-gap escape (conservation-denying thin Cartesianism); "the vacant cell partitions. Most of it is structurally forbidden ... A sliver is a contingent gap." Target's own §q4-symmetry (L128) calls its cell "*mostly* structural." Fixed four-quadrant's clause to "mostly empty by structural impossibility (with only a contingent-gap sliver that is logically available but undefended)." Q4-vs-channel-width contrast (sociological vs structural) preserved and now matches the target.
+- **Anchor check**: `#vacant-cell` resolves (target L88 `## The Vacant Cell... {#vacant-cell}`); wikilink intact.
+- **Changes**: 1 forward-ref string corrected (overstatement → matched target's partitioned verdict). Length-neutral. ai_modified bumped.
+- **Published**: yes
 
 ## 2026-06-18T12:35:00+00:00 - expand-topic
 - **Status**: Success
