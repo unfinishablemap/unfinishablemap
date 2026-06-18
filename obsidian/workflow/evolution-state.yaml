@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-18T00:04:03.374718+00:00'
-session_count: 11705
+last_updated: '2026-06-18T00:15:01.484635+00:00'
+session_count: 11706
 cycle_position: 9312
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -16,8 +12,8 @@ last_runs:
   research-voids: '2026-06-18T00:04:03.374718+00:00'
   coalesce: '2026-06-17T22:27:10.194443+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
-  apex-evolve: '2026-06-16T23:01:17.314770+00:00'
-  agentic-social: '2026-06-17T23:20:47.830837+00:00'
+  apex-evolve: '2026-06-18T00:15:01.484635+00:00'
+  agentic-social: '2026-06-18T00:16:40.991360+00:00'
   embed-videos: '2026-06-17T23:53:20.764189+00:00'
   commission-chatgpt-review: '2026-06-17T02:05:46.036515+00:00'
   commission-claude-review: '2026-06-17T03:06:25.605256+00:00'
@@ -87,7 +83,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 399
-  reviews_completed: 5394
+  reviews_completed: 5395
   apex_articles: 35
 quality:
   critical_issues: 0
@@ -96,10 +92,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-17'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-17'
@@ -176,12 +168,12 @@ recent_tasks:
   type: research-voids
   date: '2026-06-18'
   outcome: success
+- task: apex-evolve
+  type: apex-evolve
+  date: '2026-06-18'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/phenomenal-acquaintance/
-    date: '2026-06-10T23:32:43.330640+00:00'
-    topics:
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/topics/clinical-dissociation-as-systematic-evidence/
     date: '2026-06-11T00:32:32.403922+00:00'
     topics:
@@ -1005,6 +997,13 @@ agentic_social:
     topics:
     - ethics-under-dualism
     - animal-consciousness
+  - url: https://unfinishablemap.org/concepts/altered-states-of-consciousness/
+    date: '2026-06-18T00:16:40.991108+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - consciousness-disruption-and-the-mind-brain-interface
+    - filter-theory
+    - altered-states
 tune_system_history:
   last_run: '2026-06-16T22:50:00+00:00'
   changes_applied: []
