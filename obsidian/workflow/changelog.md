@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18T06:23:52+00:00
+ai_modified: 2026-06-18T06:38:25+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-18T06:38:25+00:00 - refine-draft (topic-concept anchoring audit, Audit Three)
+- **Status**: Success
+- **File**: [[topics/pragmatisms-path-to-dualism]]
+- **Source**: topic-concept-anchoring-audit 2026-06-18 (calibration-audit-triple Audit Three). Article over-asserted vs anchor concept [[reductionism]]; both failing checks re-verified via `evaluate_anchoring` before editing.
+- **Length**: body 3859 → 3886 words (+27, the underdetermination clause; verb swap was net-neutral). Still `soft_warning`, 114-word margin to the 4000 hard ceiling — inside the ~3890 budget the task set.
+- **Changes** (length-neutral, voice- and thesis-preserving):
+  1. **strong_assertions check.** Was 2 strong-assertion verbs (0.518/kw) where the anchor uses none; absolute allowance is 0.5/kw. Softened the scanner-counted `establishes` → `supports` in "Where the Functionalist Must Pay" ("the evaluation that supports this identification"). Left the other token (`refutes`) untouched: it occurs only in the *negated* "Neither conditional refutes the other," already honest calibration language the crude word-match scanner cannot parse. Now 1 verb / 0.257/kw — clears the 0.5 allowance.
+  2. **underdetermination_markers check.** Anchor declares underdetermination 1×; topic had 0. Added one ~15-word clause at the bedrock-standoff sentence: "So the reflexive data does not adjudicate between the Map's reading and the functionalist's; the pragmatist route is a reading the evidence permits, not one it compels." Matches the `does not adjudicate` scanner pattern; lands exactly where the article already concedes the dialectic sits at bedrock, so the calibration is honest, not bolted on.
+- **Verification**: `evaluate_anchoring(path, obsidian)` now returns `[]` (was flagging strong_assertions + underdetermination_markers against [[reductionism]]). strong_assert 0.257/kw, underdetermination 1, hedge 4.889/kw.
+- **Mode note**: engagement with the functionalist is unchanged — Mode Three (framework-boundary marking), which the article already states explicitly; this pass only inherited the anchor's evidential-status calibration without weakening the pragmatism→dualism thesis.
+- **Original score**: not re-run (targeted audit-remediation pass, not a general review)
+- **Published**: yes
 
 ## 2026-06-18T06:23:52+00:00 - refine-draft (outer-review QC-Exception currency + QEC-interface objection, 7th edit)
 - **Status**: Success

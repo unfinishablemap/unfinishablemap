@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt reductionism calibration in pragmatisms-path-to-dualism
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/pragmatisms-path-to-dualism.md
-- **Notes**: From topic-concept anchoring audit 2026-06-18. The topic article over-claims relative to its anchor concept [[reductionism]]; failed checks: strong_assertions, underdetermination_markers.
-  - topic uses 2 strong-assertion verbs (0.52/kw) where anchor uses none; absolute allowance is 0.5/kw
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-18
-
-
 ### P3: Collate the value-blind/value-sensitive discriminating tests into one auditable register entry
 - **Type**: positions-evolve
 - **Status**: pending
@@ -1085,6 +1073,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-18: Adopt reductionism calibration in pragmatisms-path-to-dualism
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-18. The topic article over-claims relative to its anchor concept [[reductionism]]; failed checks: strong_assertions, underdetermination_markers.
 
 ### ✓ 2026-06-18: Currency-update the quantum-computing section of quantum-state-inheritance-in-ai (Willow + measurement boundaries)
 - **Type**: refine-draft
