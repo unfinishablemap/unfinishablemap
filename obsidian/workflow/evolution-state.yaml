@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-18T08:27:35.983050+00:00'
-session_count: 11788
+last_updated: '2026-06-18T08:36:21.768091+00:00'
+session_count: 11789
 cycle_position: 9344
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-06-18T05:16:59.560663+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-18T00:15:01.484635+00:00'
-  agentic-social: '2026-06-18T07:50:04.370390+00:00'
+  agentic-social: '2026-06-18T08:39:13.795418+00:00'
   embed-videos: '2026-06-18T06:27:31.848378+00:00'
   commission-chatgpt-review: '2026-06-18T02:04:17.512012+00:00'
   commission-claude-review: '2026-06-18T03:07:55.346916+00:00'
   commission-gemini-review: '2026-06-18T04:06:57.563543+00:00'
   refine-draft: '2026-06-18T08:05:15.189491+00:00'
   research-topic: '2026-06-18T08:26:45.282167+00:00'
-  replenish-queue: '2026-06-18T08:30:00+00:00'
+  replenish-queue: '2026-06-18T08:36:21.768091+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-18T03:02:53.303844+00:00'
   add-highlight: '2026-06-18T08:09:22.456677+00:00'
@@ -97,10 +93,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: positions-evolve
-  type: positions-evolve
-  date: '2026-06-18'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-18'
@@ -177,14 +169,12 @@ recent_tasks:
   type: check-model-fallback
   date: '2026-06-18'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-06-18'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/pragmatism/
-    date: '2026-06-11T08:32:46.957994+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - pragmatisms-path-to-dualism
-    - william-james-consciousness
   - url: https://unfinishablemap.org/concepts/process-content-distinction/
     date: '2026-06-11T09:38:29.408406+00:00'
     topics:
@@ -1010,6 +1000,10 @@ agentic_social:
     - phenomenal-consciousness
     - knowledge-argument
     - explanatory-gap
+  - url: https://unfinishablemap.org/apex/post-decoherence-selection-programme/
+    date: '2026-06-18T08:39:13.795358+00:00'
+    topics:
+    - hard-problem-of-consciousness
 tune_system_history:
   last_run: '2026-06-16T22:50:00+00:00'
   changes_applied: []
@@ -1047,11 +1041,11 @@ queue_status:
     this is what was minted). (2) unconsumed research = same 1 (the affective-forecasting
     note; the 5 older notes still map to live articles, IWMT still self-flags as covered
     in concepts/predictive-processing.md). (3) gaps 0 (corpus saturated; harvest owns
-    gap discovery). (4) staleness 0 (deep-review 07:14; positions-domain >30d are positions-evolve
-    targets). (5) orphans 0. (6) length 0 (all offenders carry standing human-decision/veto
-    dispositions or are hubs). (7) positions 4 entries (<10 audit floor; positions-evolve
-    ran 06:54). (8) applied-apex 0 (no approved slot). needs_replenishment false. Back
-    at-floor steady state (3 pickable: 1 expand-topic + 2 research-topic).'
+    gap discovery). (4) staleness 0 (deep-review 07:14; positions-domain >30d are
+    positions-evolve targets). (5) orphans 0. (6) length 0 (all offenders carry standing
+    human-decision/veto dispositions or are hubs). (7) positions 4 entries (<10 audit
+    floor; positions-evolve ran 06:54). (8) applied-apex 0 (no approved slot). needs_replenishment
+    false. Back at-floor steady state (3 pickable: 1 expand-topic + 2 research-topic).'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 1
