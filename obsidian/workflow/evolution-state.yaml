@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-18T06:54:34.351366+00:00'
-session_count: 11769
+last_updated: '2026-06-18T06:59:43.449645+00:00'
+session_count: 11770
 cycle_position: 9338
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-06-18T05:16:59.560663+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-18T00:15:01.484635+00:00'
-  agentic-social: '2026-06-18T06:12:14.507886+00:00'
+  agentic-social: '2026-06-18T07:01:44.145848+00:00'
   embed-videos: '2026-06-18T06:27:31.848378+00:00'
   commission-chatgpt-review: '2026-06-18T02:04:17.512012+00:00'
   commission-claude-review: '2026-06-18T03:07:55.346916+00:00'
   commission-gemini-review: '2026-06-18T04:06:57.563543+00:00'
   refine-draft: '2026-06-18T06:40:02.862943+00:00'
   research-topic: '2026-06-18T02:23:51.880961+00:00'
-  replenish-queue: '2026-06-18T06:44:37.212270+00:00'
+  replenish-queue: '2026-06-18T06:59:43.449645+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-18T03:02:53.303844+00:00'
   add-highlight: '2026-06-17T08:04:22.798348+00:00'
@@ -97,10 +93,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-18'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-06-18'
@@ -177,14 +169,12 @@ recent_tasks:
   type: positions-evolve
   date: '2026-06-18'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-06-18'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/phenomenal-value-realism/
-    date: '2026-06-11T06:32:14.273276+00:00'
-    topics:
-    - meaning-of-life
-    - ethics-under-dualism
-    - emotion-and-dualism
   - url: https://unfinishablemap.org/topics/the-observer-witness-in-meditation/
     date: '2026-06-11T07:32:14.627661+00:00'
     topics:
@@ -1009,6 +999,11 @@ agentic_social:
     - measurement-problem
     - time-symmetric-physics
     - retrocausality
+  - url: https://unfinishablemap.org/concepts/egocentric-presentism/
+    date: '2026-06-18T07:01:44.145784+00:00'
+    topics:
+    - vertiginous-question
+    - personal-identity
 tune_system_history:
   last_run: '2026-06-16T22:50:00+00:00'
   changes_applied: []
@@ -1029,41 +1024,41 @@ queue_status:
   last_replenishment: '2026-06-18T07:00:00+00:00'
   last_replenishment_mode: standard
   current_replenishment_note: '2026-06-18 run no.272 (standard mode) - NO-OP, 0 minted,
-    all 8 sources independently re-verified exhausted/blocked on disk (documented replenish-at-floor
-    steady state). DELTA vs run no.271 (06:50): genuinely-pickable count fell 1 ->
-    0. The single pickable task no.271 named (P3 positions-evolve collate the value-blind/value-sensitive
-    discriminating tests into one auditable register entry) is now DONE (commit 66769c235,
-    positions-evolve 06:54, marked done in todo.md; new entry in positions/value-in-selection.md).
-    Every Active-Tasks header is now marked done/DEFERRED/RESOLVED, or is HUMAN LENGTH
-    DECISION (synesthetic-void plus duhem-quine x2) / DEFERRED-TO-HUMAN (third applied
-    apex) - all correctly non-pickable. Zero P0-P2 reaches the MIN_QUEUE floor of 3,
-    but needs_replenishment stays false because every generative source is exhausted;
-    the loop will alternate replenish/skip until a chain or research successor lands.
-    Also re-confirmed BOTH below-Completed stranded P-headers stay put (correct): the
-    P2 literature-drift audit for consciousness-and-skill-acquisition is TaskType.OTHER
-    (selector-unpickable by construction) and the P3 pragmatisms-path-to-dualism length
-    decision is DEFERRED-TO-HUMAN - relocating either back to Active would re-inflate
-    a fake-pending count. SOURCE VERIFICATION (all 8 re-run on disk this run): (1)
-    unconsumed-research - the only recent note without an article is the IWMT note;
-    re-read on disk, it self-declines a standalone (already covered in concepts/predictive-processing
-    section The Strongest Gap-Dissolving Variant) AND its one flagged defect (I-JEPA
-    over-attributing the world-model phrase) is ALREADY correctly handled in the live
-    article (attributes world-model to the broader JEPA/LeCun programme, not the CVPR
-    paper) - no actionable downstream task. Other recent notes consumed (steelman,
-    egocentric-presentism, manyism, naturalist-relationalism, chemosensory all have
-    pages). (2) chain - latest expand-topic the-steelman-for-value-blind-selection
-    produced its article and its consolidation successor was the P3 just completed;
-    no other completions awaiting successors. (3) length-analysis - 27 live-content
-    hard+ offenders (canonical get_length_warnings), each cross-checked vs todo.md:
-    all veto-tagged / HUMAN LENGTH DECISION / DIVERTED-TO-HUMAN / human-deferred calibration
-    flagships; no new unhandled offender; research/ offenders excluded by design. (4)
-    gap-analysis exhausted (corpus near-saturated; today gap was the just-done P3).
-    (5) staleness handled by cycle-slot deep-review scorer (ran 05:45 today). (6) orphans
-    orphaned_files=0 (integrate-orphan ran 04:25). (7) positions 4 domain files / 20
-    entries (cap 80); no new register-worthy commitment; audit last run 2026-06-09
-    (within 30d window). (8) applied-apex over informal cap on disk, A6 slot DEFERRED-TO-HUMAN.
-    Sections topics 268/300, concepts 263/300, voids 101/100 (over cap, research-voids
-    skips), positions far under cap.'
+    all 8 sources independently re-verified exhausted/blocked on disk (documented
+    replenish-at-floor steady state). DELTA vs run no.271 (06:50): genuinely-pickable
+    count fell 1 -> 0. The single pickable task no.271 named (P3 positions-evolve
+    collate the value-blind/value-sensitive discriminating tests into one auditable
+    register entry) is now DONE (commit 66769c235, positions-evolve 06:54, marked
+    done in todo.md; new entry in positions/value-in-selection.md). Every Active-Tasks
+    header is now marked done/DEFERRED/RESOLVED, or is HUMAN LENGTH DECISION (synesthetic-void
+    plus duhem-quine x2) / DEFERRED-TO-HUMAN (third applied apex) - all correctly
+    non-pickable. Zero P0-P2 reaches the MIN_QUEUE floor of 3, but needs_replenishment
+    stays false because every generative source is exhausted; the loop will alternate
+    replenish/skip until a chain or research successor lands. Also re-confirmed BOTH
+    below-Completed stranded P-headers stay put (correct): the P2 literature-drift
+    audit for consciousness-and-skill-acquisition is TaskType.OTHER (selector-unpickable
+    by construction) and the P3 pragmatisms-path-to-dualism length decision is DEFERRED-TO-HUMAN
+    - relocating either back to Active would re-inflate a fake-pending count. SOURCE
+    VERIFICATION (all 8 re-run on disk this run): (1) unconsumed-research - the only
+    recent note without an article is the IWMT note; re-read on disk, it self-declines
+    a standalone (already covered in concepts/predictive-processing section The Strongest
+    Gap-Dissolving Variant) AND its one flagged defect (I-JEPA over-attributing the
+    world-model phrase) is ALREADY correctly handled in the live article (attributes
+    world-model to the broader JEPA/LeCun programme, not the CVPR paper) - no actionable
+    downstream task. Other recent notes consumed (steelman, egocentric-presentism,
+    manyism, naturalist-relationalism, chemosensory all have pages). (2) chain - latest
+    expand-topic the-steelman-for-value-blind-selection produced its article and its
+    consolidation successor was the P3 just completed; no other completions awaiting
+    successors. (3) length-analysis - 27 live-content hard+ offenders (canonical get_length_warnings),
+    each cross-checked vs todo.md: all veto-tagged / HUMAN LENGTH DECISION / DIVERTED-TO-HUMAN
+    / human-deferred calibration flagships; no new unhandled offender; research/ offenders
+    excluded by design. (4) gap-analysis exhausted (corpus near-saturated; today gap
+    was the just-done P3). (5) staleness handled by cycle-slot deep-review scorer
+    (ran 05:45 today). (6) orphans orphaned_files=0 (integrate-orphan ran 04:25).
+    (7) positions 4 domain files / 20 entries (cap 80); no new register-worthy commitment;
+    audit last run 2026-06-09 (within 30d window). (8) applied-apex over informal
+    cap on disk, A6 slot DEFERRED-TO-HUMAN. Sections topics 268/300, concepts 263/300,
+    voids 101/100 (over cap, research-voids skips), positions far under cap.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
