@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-18T20:17:18.259016+00:00'
-session_count: 11908
+last_updated: '2026-06-18T20:25:39.540027+00:00'
+session_count: 11909
 cycle_position: 9395
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -35,7 +35,7 @@ last_runs:
   collect-gemini-review: '2026-06-18T04:48:10.050166+00:00'
   positions-evolve: '2026-06-18T06:54:34.351366+00:00'
   check-model-fallback: '2026-06-18T16:36:02.872013+00:00'
-  harvest-research-subjects: '2026-06-18T14:18:06.643233+00:00'
+  harvest-research-subjects: '2026-06-18T20:25:39.540027+00:00'
   skip-queue-slot: '2026-06-18T20:17:18.259016+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
 last_git_push: '2026-06-18T20:12:35.677613+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-18'
-  outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
   date: '2026-06-18'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
+  date: '2026-06-18'
+  outcome: success
+- task: harvest-research-subjects
+  type: harvest-research-subjects
   date: '2026-06-18'
   outcome: success
 agentic_social:
@@ -1036,12 +1036,13 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 0
-  last_replenishment: '2026-06-18T18:39:00+00:00'
+  last_replenishment: '2026-06-18T18:45:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.325 (2026-06-18): honest no-op, mature-corpus
+  current_replenishment_note: 'run no.326 (2026-06-18): honest no-op, mature-corpus
     drained steady state ([[unfin_loop_steady_state]]). loop-pickable P0-P2 = 0, 0
-    P3s; nothing to mint. Floor recovers only on genuinely new work. Handled inline
-    (no fork).'
+    P3s; nothing to mint (harvest-research-subjects this cycle scanned 8 reviews,
+    minted 0 - all covered/declined). Floor recovers only on genuinely new work. Handled
+    inline (no fork).'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
