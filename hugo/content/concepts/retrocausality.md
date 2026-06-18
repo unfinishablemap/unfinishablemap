@@ -27,7 +27,7 @@ description: 'Backward causation in time-symmetric quantum mechanics. On retroca
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-19 10:31:19+00:00
+last_deep_review: 2026-06-18 10:59:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

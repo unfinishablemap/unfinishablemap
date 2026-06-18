@@ -1,13 +1,46 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18 10:30:00+00:00
+ai_modified: 2026-06-18 11:05:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-18T10:59:42+00:00 - deep-review
+- **Status**: Success (confirming verdict; timestamp-only — post-refine state verified clean)
+- **File**: [retrocausality](/concepts/retrocausality/)
+- **Word count**: 3065 → 3065 (no change; soft_warning, under 3500 hard; length-neutral mode)
+- **Critical issues addressed**: 0 (none found post-refine)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Context**: CHANGED-SINCE-REVIEW pass (ai_modified 2026-06-16 > last_deep_review 2026-05-19). The 06-16 refine-draft (commit b37365cd0) was UNVERIFIED. This pass independently verified the post-refine state rather than trusting the refine stamp.
+- **Citation web-verify ledger (publisher of record, independent of the refine's own claimed verification)**:
+  - Vedovato, Agnesi, Schiavon et al. (2017), *Science Advances* 3(10):e1701180, DOI 10.1126/sciadv.1701180 — real-correct. The "thousands of kilometres" body claim matches the paper's 3500 km result; currency-sweep: still state-of-the-art for satellite delayed-choice, no superseding result.
+  - Hagan, Hameroff & Tuszynski (2002), *Phys. Rev. E* 65(6):061901 — real-correct; 10⁻⁵–10⁻⁴ s rebuttal estimate confirmed.
+  - Reimers, McKemmish, McKenzie, Mark & Hush (2009), *PNAS* 106(11):4219-4224, DOI 10.1073/pnas.0806273106 — real-correct (Fröhlich-condensation counter-rebuttal).
+  - McKemmish, Reimers, McKenzie, Mark & Hush (2009), *Phys. Rev. E* 80(2):021912 — real-correct (McKemmish-first author order matches; ADS PhRvE 80b1912M).
+  - Maudlin, T. (2011), *Quantum Non-Locality and Relativity* (3rd ed.), Wiley-Blackwell, ISBN 9781444331271 — real-correct.
+  - Schurger, Sitt & Dehaene (2012), *PNAS* 109(42):E2904-E2913, DOI 10.1073/pnas.1210467109 — real-correct.
+  - Remaining cites (Cramer 1986, Kastner 2012/2014/2016, Lewis 2013, Libet 1983, Soon 2008, Tegmark 2000, Wheeler 1978, Price 2012, Sjöberg 2024) — verified in prior reviews/at-creation; unchanged by the refine.
+- **Refine remediation confirmed**: (a) decoherence figure reconciled "seven"→"eight or more orders" matching canonical decoherence.md; Reimers/McKemmish counter-rebuttals now present (selective-citation error fixed); (b) falsifiability claim restricted to Copenhagen/MWI/Bohm with GRW/CSL/Penrose exception noted (consistent with measurement-problem.md); (c) Vedovato et al. (2017) attributed inline + References (matches siblings time-symmetric-physics.md, forward-in-time-vs-time-symmetric-selection.md); (d) contemplative-evidence epistemic leap downgraded "support for"→"consonant with". coupling-modes.md "seven"→"eight" fixed in same refine commit.
+- **Calibration**: PASS. TI conditionalized throughout ("If TI is correct," "open question, not an established result," "minority view"). No possibility/probability slippage — tenet-coherence motivates, never upgrades evidential status. Diagnostic test: a tenet-accepting reviewer would not flag any claim as overstated. Libet-dissolution explicitly conditional on the minority interpretation.
+- **Reasoning-mode**: engagements (illusionism, MWI, Tegmark, Maudlin) in natural prose; illusionist regress is Mode One (internal-to-opponent), correctly deployed; MWI "No Many Worlds" point honestly framed as compatibility not refutation (bedrock disagreement, correctly marked). No boundary-substitution.
+- **Label leakage**: none. No bracketed evidential-status slugs in prose.
+- **Wikilinks**: all 20 unique targets resolve.
+- **Output**: [deep-review-2026-06-18-retrocausality](/reviews/deep-review-2026-06-18-retrocausality/)
+
+## 2026-06-18T11:05:00+00:00 - refine-draft (assess-first → DECLINE)
+- **Status**: Success (no content change; chain closed consumed-by-existing-coverage)
+- **Source research**: [integrated-world-modeling-theory-2026-06-16](/research/integrated-world-modeling-theory-2026-06-16/)
+- **Decision**: DECLINE a standalone `concepts/integrated-world-modeling-theory.md`. IWMT is already covered at genuine depth in [predictive-processing](/concepts/predictive-processing/) § "The Strongest Gap-Dissolving Variant: Integrated World Modeling Theory" (5 hooks present: named sub-section with the MAP-estimate framing, Safron 2020 reference, I-JEPA/JEPA link, gap-reply rebuttal, boundary-disagreement calibration). The research note's own documented verdict leans here ("do NOT mint a standalone by default").
+- **Length constraint verified (real analyze_length, not estimate)**: predictive-processing.md is 3606w — `hard_warning`, 106w OVER the 3500 concepts hard ceiling. So the "expand the parent" option is dead (adding bulk worsens a real length violation), and the only justification for a standalone — relieving the over-hard parent by stubbing the sub-section — is weak: stubbing the ~430w in-situ sub-section nets only ~300-350w relief (a stub still costs ~80-120w), leaves PP essentially at the same length problem, and severs the dialectical peak of PP's gap-dissolving argument. The over-hard condition is better closed by a dedicated /condense pass on PP as a whole, not by section extraction.
+- **Distinct material in the note** (SOHM/turbo-coding mechanism, Safron 2022 Expanded ML-architecture grounding, agentic-causation claims) is real but is *deepening* enrichment for the existing sub-section, not the seed of a non-redundant standalone whose extraction wouldn't even fix the length problem it would exist to fix.
+- **Evidential-status discipline honoured**: IWMT is a structural-functional identity claim the Map DECLINES; the explanatory-gap reply applies to a MAP estimate as to any functional state — it relocates the gap, not closes it. No "IWMT dissolves the gap" drift introduced.
+- **No standalone created; no edit to predictive-processing.md; no inbound-link or integrate-orphan follow-on needed** (no new page). No citations to re-verify (no content change).
+- **Published**: n/a (decline)
 
 ## 2026-06-18T10:30:00+00:00 - expand-topic
 - **Status**: Success

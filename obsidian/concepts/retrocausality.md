@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-07
 last_curated: null
-last_deep_review: 2026-05-19T10:31:19+00:00
+last_deep_review: 2026-06-18T10:59:42+00:00
 ---
 
 Retrocausality is the hypothesis that causation can operate backward in time—that future events can influence past ones. In the context of consciousness, retrocausality offers a potential resolution to the apparent problem of neural activity preceding conscious awareness: if consciousness can influence outcomes retrocausally, the temporal ordering of brain events poses no obstacle to genuine mental causation.
