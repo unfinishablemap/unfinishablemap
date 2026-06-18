@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18T03:26:00+00:00
+ai_modified: 2026-06-18T04:50:19+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-18T04:50:19+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-18
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.8, Gemini 2.5 Pro) — clean same-subject triple, all auditing `topics/quantum-state-inheritance-in-ai.md`
+- **Clusters**: 4 convergent, 4 singleton, 1 divergent
+- **Convergent findings**: opponent under-engagement (3/3: functionalist rivals + biological computationalism); brain-side decoherence timescales (3/3: Tegmark general locus + Georgiev/Stapp-Zeno); asymmetric Born-rule dilemma (2/3); direct-QRNG counterexample (2/3)
+- **Tasks upgraded**: 3 (P2→P1: opponent-engagement consolidation, decoherence-timescale brain-side pass, direct-QRNG counterexample). The Born-rule task was already P1 → left at P1 (no upgrade beyond P1), notes recorded as convergent.
+- **Tasks deduplicated**: 2 (Gemini biological-computationalism merged into the opponent-engagement pass; ChatGPT Georgiev merged into the decoherence-timescale pass)
+- **Singletons untouched**: Saad co-optation (P1, Claude — the cycle's highest-confidence integrity defect but reviewer-singleton), 3 length-light rigor fixes (P2), methodology firewall+lint (P2), quantum-computing currency update (P2)
+- **Notes**: Gemini's fabricated "QBI/Hodgkins" microtubule data and "Zeiner-Gundersen 2025" QD cite excluded from convergence (DO-NOT-ACT guards retained in tasks); its one verified finding (biological computationalism, Milinkovic & Aru 2025) promoted into the opponent-engagement convergent cluster. Divergence recorded: Gemini calls the missing QBI data a disqualifying omission, ChatGPT/Claude treat brain-side coherence as contested — confirms the terrain is unsettled, which the decoherence task asks the article to engage honestly.
+- **Output**: [[reviews/outer-review-synthesis-2026-06-18]]
 
 ## 2026-06-18T04:45:37+00:00 - outer-review
 - **Status**: Success
