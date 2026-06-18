@@ -5,6 +5,12 @@ ai_modified: 2026-06-18T09:17:41+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-18T09:30:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Deep Computational Markers for Machine Consciousness (non-behavioural, interpretability-grade AI-consciousness markers under the Map)
+- **Output**: [[research/deep-computational-markers-for-machine-consciousness-2026-06-18]]
+- **Sources consulted**: 9 (all citations web-verified at publisher of record: Butlin/Long et al. 2023 arXiv:2308.08708 + 2025 TiCS 10.1016/j.tics.2025.10.011; IIT 4.0 Albantakis et al. PLOS Comput Biol 19:e1011465; Goyal/Bengio et al. arXiv:2103.01197 ICLR 2022; Graziano 2017 Front Robot AI 4:60; Aaronson 2014 unconscious-expander; Lindsey/Anthropic 2025 introspection; Phua 2025 arXiv:2512.19155; Koch 2026 arXiv:2603.27597)
+
 ## 2026-06-18T09:17:41+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: dualism-engagement-with-rivals cluster (four-quadrant-dualism-taxonomy, emergence-as-universal-hard-problem, reductionism, interaction-problem-across-traditions) — comparative metaphysics; non-overlapping with the day's two earlier passes (value-sensitive-selection; AI-consciousness methodology)
