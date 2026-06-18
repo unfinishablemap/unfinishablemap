@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-18T04:25:11.257083+00:00'
-session_count: 11745
+last_updated: '2026-06-18T04:26:54.152541+00:00'
+session_count: 11746
 cycle_position: 9325
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-06-17T22:27:10.194443+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-18T00:15:01.484635+00:00'
-  agentic-social: '2026-06-18T03:35:30.776441+00:00'
+  agentic-social: '2026-06-18T04:32:26.510278+00:00'
   embed-videos: '2026-06-17T23:53:20.764189+00:00'
   commission-chatgpt-review: '2026-06-18T02:04:17.512012+00:00'
   commission-claude-review: '2026-06-18T03:07:55.346916+00:00'
@@ -34,7 +30,7 @@ last_runs:
   combine-outer-reviews: '2026-06-17T04:48:08.015548+00:00'
   collect-gemini-review: '2026-06-17T04:43:37.227932+00:00'
   positions-evolve: '2026-06-17T00:41:47.595053+00:00'
-  check-model-fallback: '2026-06-18T00:25:20.904906+00:00'
+  check-model-fallback: '2026-06-18T04:26:54.152541+00:00'
   harvest-research-subjects: '2026-06-18T02:08:31.674359+00:00'
   skip-queue-slot: '2026-06-18T03:13:02.553275+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -97,10 +93,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-18'
-  outcome: success
 - task: commission-chatgpt-review
   type: commission-chatgpt-review
   date: '2026-06-18'
@@ -177,15 +169,12 @@ recent_tasks:
   type: integrate-orphan
   date: '2026-06-18'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-06-18'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/ai-ensoulment-hypothesis/
-    date: '2026-06-11T03:40:07.786782+00:00'
-    topics:
-    - dualism-as-ai-risk-mitigation
-    - ethics-of-possible-ai-consciousness
-    - ai-consciousness
-    - machine-consciousness
   - url: https://unfinishablemap.org/concepts/epistemology-of-other-minds-under-dualism/
     date: '2026-06-11T04:32:30.806558+00:00'
     topics:
@@ -1012,6 +1001,10 @@ agentic_social:
     - pain-consciousness-and-causal-power
     - valence-and-conscious-selection
     - phenomenal-value-realism
+  - url: https://unfinishablemap.org/concepts/qbism/
+    date: '2026-06-18T04:32:26.510221+00:00'
+    topics:
+    - hard-problem-of-consciousness
 tune_system_history:
   last_run: '2026-06-16T22:50:00+00:00'
   changes_applied: []
@@ -1031,33 +1024,33 @@ queue_status:
   loop_pickable_open: 0
   last_replenishment: '2026-06-18T03:19:19+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-18 run no.267 (standard mode) - NO-OP, 0 minted,
-    all 8 sources independently re-verified exhausted/blocked (documented replenish-at-floor
-    steady state). loop_pickable_open=0 CONFIRMED by direct disk check: Active section
-    (todo.md L38-1063) has exactly two non-checkmarked ### P-headers, both #veto-tagged
-    condenses (meaning-of-life L611, phenomenal-output-causal-machinery-dissociation
-    L619) which are human-blocked flagships pending structural splits, NOT loop-pickable;
-    every other non-✓ Active header is a HUMAN LENGTH DECISION (human-decision type,
-    non-pickable) or a ~~strikethrough~~/✅-closed legacy item. The steelman-for-value-blind-selection
-    article (referenced by run no.266) is confirmed on disk: topics/the-steelman-for-value-blind-selection.md
-    (19.7KB, created 02:56). Two Blocked-section P-items are correctly non-pickable
-    (literature-drift marked NOT-LOOP-PICKABLE; pragmatisms-path length decision).
-    SOURCE VERIFICATION: (1) unconsumed-research - top-12-by-mtime research notes
-    all consumed/absorbed: steelman -> topics/the-steelman-for-value-blind-selection.md,
-    egocentric-presentism -> concepts/egocentric-presentism.md, manyism -> concepts/manyism.md,
-    consciousness-simple-organisms -> topics/consciousness-in-simple-organisms.md
-    (slug spelling differs: in-simple vs simple - earlier false-neg corrected), inference-void
-    -> voids/inference-void.md, naturalist-relationalism -> concepts/naturalist-relationalism.md,
-    chemosensory -> topics/chemosensory-consciousness-and-the-interface.md, IWMT absorbed
-    as cross-ref in concepts/predictive-processing.md + live todo refs (theory-integration
-    note, not a standalone-article candidate). (2) chain - sole open chain (steelman
-    expand-topic) executed/done. (3) length-analysis - all live offenders human-deferred
-    flagships / #veto-tagged / open HUMAN LENGTH DECISION (synesthetic-void). (4)
-    gap-analysis exhausted (corpus near-saturated). (5) staleness handled by cycle-slot
-    deep-review scorer. (6) orphans - orphaned_files=0. (7) positions 3/80 but no
-    new register-worthy commitment surfaced. (8) applied-apex over informal cap, A6
-    slot DEFERRED-TO-HUMAN. Sections: topics 268/300, concepts 263/300, voids 101/100
-    (over cap, research-voids skips), positions 3/80.'
+  current_replenishment_note: "2026-06-18 run no.267 (standard mode) - NO-OP, 0 minted,\
+    \ all 8 sources independently re-verified exhausted/blocked (documented replenish-at-floor\
+    \ steady state). loop_pickable_open=0 CONFIRMED by direct disk check: Active section\
+    \ (todo.md L38-1063) has exactly two non-checkmarked ### P-headers, both #veto-tagged\
+    \ condenses (meaning-of-life L611, phenomenal-output-causal-machinery-dissociation\
+    \ L619) which are human-blocked flagships pending structural splits, NOT loop-pickable;\
+    \ every other non-\u2713 Active header is a HUMAN LENGTH DECISION (human-decision\
+    \ type, non-pickable) or a ~~strikethrough~~/\u2705-closed legacy item. The steelman-for-value-blind-selection\
+    \ article (referenced by run no.266) is confirmed on disk: topics/the-steelman-for-value-blind-selection.md\
+    \ (19.7KB, created 02:56). Two Blocked-section P-items are correctly non-pickable\
+    \ (literature-drift marked NOT-LOOP-PICKABLE; pragmatisms-path length decision).\
+    \ SOURCE VERIFICATION: (1) unconsumed-research - top-12-by-mtime research notes\
+    \ all consumed/absorbed: steelman -> topics/the-steelman-for-value-blind-selection.md,\
+    \ egocentric-presentism -> concepts/egocentric-presentism.md, manyism -> concepts/manyism.md,\
+    \ consciousness-simple-organisms -> topics/consciousness-in-simple-organisms.md\
+    \ (slug spelling differs: in-simple vs simple - earlier false-neg corrected),\
+    \ inference-void -> voids/inference-void.md, naturalist-relationalism -> concepts/naturalist-relationalism.md,\
+    \ chemosensory -> topics/chemosensory-consciousness-and-the-interface.md, IWMT\
+    \ absorbed as cross-ref in concepts/predictive-processing.md + live todo refs\
+    \ (theory-integration note, not a standalone-article candidate). (2) chain - sole\
+    \ open chain (steelman expand-topic) executed/done. (3) length-analysis - all\
+    \ live offenders human-deferred flagships / #veto-tagged / open HUMAN LENGTH DECISION\
+    \ (synesthetic-void). (4) gap-analysis exhausted (corpus near-saturated). (5)\
+    \ staleness handled by cycle-slot deep-review scorer. (6) orphans - orphaned_files=0.\
+    \ (7) positions 3/80 but no new register-worthy commitment surfaced. (8) applied-apex\
+    \ over informal cap, A6 slot DEFERRED-TO-HUMAN. Sections: topics 268/300, concepts\
+    \ 263/300, voids 101/100 (over cap, research-voids skips), positions 3/80."
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
