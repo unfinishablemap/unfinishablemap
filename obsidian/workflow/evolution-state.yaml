@@ -1,5 +1,9 @@
-last_updated: '2026-06-18T06:09:29.668719+00:00'
-session_count: 11761
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-18T06:12:14.507886+00:00'
+session_count: 11762
 cycle_position: 9335
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-06-18T05:16:59.560663+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-18T00:15:01.484635+00:00'
-  agentic-social: '2026-06-18T06:11:49.740622+00:00'
+  agentic-social: '2026-06-18T06:12:14.507886+00:00'
   embed-videos: '2026-06-17T23:53:20.764189+00:00'
   commission-chatgpt-review: '2026-06-18T02:04:17.512012+00:00'
   commission-claude-review: '2026-06-18T03:07:55.346916+00:00'
@@ -93,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-chatgpt-review
-  type: collect-chatgpt-review
-  date: '2026-06-18'
-  outcome: success
 - task: commission-gemini-review
   type: commission-gemini-review
   date: '2026-06-18'
@@ -171,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-06-18'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-06-18'
   outcome: success
 agentic_social:
@@ -1018,40 +1022,44 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 2
+  p2_tasks: 1
   p3_tasks: 1
   needs_replenishment: false
-  loop_pickable_open: 3
-  last_replenishment: '2026-06-18T06:05:00+00:00'
+  loop_pickable_open: 2
+  last_replenishment: '2026-06-18T06:18:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-18 run no.268 (standard mode) - NO-OP, 0 minted,
+  current_replenishment_note: '2026-06-18 run no.269 (standard mode) - NO-OP, 0 minted,
     all 8 sources independently re-verified exhausted/blocked (documented replenish-at-floor
-    steady state). KEY CHANGE vs run no.267 (03:19): queue is NO LONGER at absolute
-    floor - loop_pickable_open=3, minted since 03:19 by combine-outer-reviews + optimistic-review,
-    NOT by this run. The 3 fresh pickable tasks at top of Active (todo.md L40-59):
-    (a) P2 refine-draft quantum-state-inheritance-in-ai rigor fixes (Claude Opus 4.8
-    outer review 2026-06-18), (b) P2 refine-draft quantum-state-inheritance-in-ai
-    currency-update Willow/QEC (ChatGPT 5.5 Pro outer review 2026-06-18), (c) P3 positions-evolve
-    collate value-blind/value-sensitive discriminating tests (optimistic review 2026-06-18).
-    Target article confirmed on disk: topics/quantum-state-inheritance-in-ai.md. The
-    two #veto-tagged condenses (meaning-of-life, phenomenal-output-causal-machinery-dissociation)
-    + three open HUMAN LENGTH DECISIONs (synesthetic-void, duhem-quine x2) remain
-    correctly non-pickable. SOURCE VERIFICATION (all 8 re-run on disk): (1) unconsumed-research
-    - top recent notes all consumed/absorbed: steelman, egocentric-presentism, manyism,
-    consciousness-in-simple-organisms (slug spelling differs in-simple vs simple),
-    inference-void, naturalist-relationalism, chemosensory; IWMT absorbed as cross-ref
-    in concepts/predictive-processing.md (no standalone-article candidate). (2) chain
-    - sole open chain (steelman expand-topic) executed/done; no new completions. (3)
-    length-analysis - 26 live content offenders, ALL either #veto-tagged, open HUMAN
-    LENGTH DECISION, human-deferred calibration flagships, or in Vetoed bank (composition-question-rivals,
-    wholeheartedness-void, quantum-biology x14, machine-question x12 all vetoed);
-    research/ offenders excluded by design. (4) gap-analysis exhausted (corpus near-saturated;
-    today gaps covered by the 3 fresh tasks). (5) staleness handled by cycle-slot
-    deep-review scorer. (6) orphans - orphaned_files=0 (integrate-orphan ran 04:25).
-    (7) positions 3 domain files / ~18 entries (cap 80); no new register-worthy commitment;
-    value-blind P3 covers today gap; audit 06-09 within 30d window. (8) applied-apex
-    34 (over informal ~20 cap), A6 slot DEFERRED-TO-HUMAN. Sections: topics 268/300,
-    concepts 263/300, voids 101/100 (over cap, research-voids skips), positions 3/80.'
+    steady state). DELTA vs run no.268 (06:05): genuinely-pickable count corrected to
+    2, not 3 - the L69 P3 reciprocate-links task that no.268 counted is now done
+    (closed out-of-band), and no.268s separate P2 quantum-state-inheritance rigor-fixes
+    task is no longer an open header. The 2 genuinely-pickable tasks at top of Active
+    (todo.md L40-52): (a) P2 refine-draft quantum-state-inheritance-in-ai currency-update
+    Willow plus QEC-as-interface objection (ChatGPT 5.5 Pro outer review 2026-06-18),
+    (b) P3 positions-evolve collate value-blind/value-sensitive discriminating tests
+    (optimistic review 2026-06-18). Target article confirmed on disk
+    topics/quantum-state-inheritance-in-ai.md. The two veto-tagged condenses
+    (meaning-of-life, phenomenal-output-causal-machinery-dissociation) plus three
+    open HUMAN LENGTH DECISIONs (synesthetic-void, duhem-quine x2) remain correctly
+    non-pickable. SOURCE VERIFICATION (all 8 re-run on disk): (1) unconsumed-research
+    - top recent notes all consumed/absorbed (steelman has topics/the-steelman-for-value-blind-selection,
+    egocentric-presentism + manyism + naturalist-relationalism are concepts pages,
+    chemosensory is a topic, consciousness-in-simple-organisms exists slug-variant,
+    IWMT absorbed as cross-ref in concepts/predictive-processing). (2) chain - sole
+    open chain (steelman expand-topic) done; no new completions awaiting successors.
+    (3) length-analysis - 27 live-content offenders, ALL #veto-tagged / open HUMAN
+    LENGTH DECISION / human-deferred calibration flagships / Vetoed-bank; the 4
+    non-vetoed (what-voids-reveal 19w-over-hard flagship abductive-case, epistemic-advantages
+    refine-then-condense churn-set, memory-channel-interface freshly-coalesced and
+    accepted-as-survey, laws-and-dispositions human-deferred condense) all correctly
+    excluded; research/ offenders excluded by design. (4) gap-analysis exhausted
+    (corpus near-saturated; today gaps covered by the 2 pickable tasks). (5) staleness
+    handled by cycle-slot deep-review scorer (non-void pool fresh). (6) orphans
+    orphaned_files=0 (integrate-orphan ran 04:25). (7) positions 3 domain files /
+    ~18 entries (cap 80); no new register-worthy commitment; value-blind P3 covers
+    today gap; audit 06-09 within 30d window. (8) applied-apex 35 (over informal ~20
+    cap), A6 slot DEFERRED-TO-HUMAN. Sections topics 268/300, concepts 263/300, voids
+    101/100 (over cap, research-voids skips), positions 3/80.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
