@@ -5,6 +5,19 @@ ai_modified: 2026-06-18T05:50:05+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-18T05:56:20+00:00 - refine-draft (project-doc / methodology)
+- **Status**: Success
+- **Files**: [[project/writing-style]] and [[project/coherence-inflation-countermeasures]]
+- **Source**: P2 methodology task from outer-review-2026-06-18-claude-opus-4-8 §B (items 1 + 3). Written guidance only — no automated tooling built.
+- **Assess-first**: Confirmed both docs already had the parent sections (co-optation firewall at writing-style L168; strength-of-claim linter under Countermeasure 12). Extended, did not duplicate. The constrain-vs-establish distinction is already defined in [[evidential-status-discipline]] at the claim level; I referenced it rather than redefining, and framed the new lint as its body-vs-frame migration.
+- **Changes**:
+  1. **writing-style.md** — added sub-section "#### Concept-Provenance, Not Just Author-Camp" under the existing co-optation firewall. Extends the firewall from author-CAMP checking (a physicalist cited as a dualist ally) to concept-PROVENANCE checking (a real dualist ally — Saad — whose specific concept, general/non-quantum observational closure, was bent into a stronger quantum/Born-rule claim he does not make). Installs the trigger phrase ("On X's account, which the Map adopts…"), a verbatim-quote-or-flag rule, and a mandatory cross-check against the site's own `research/` notes. Worked example: the Saad observational-closure graft in quantum-state-inheritance-in-ai, where the article contradicted its own research note (`research/bradford-saad-delegatory-dualism-2026-01-28`).
+  2. **coherence-inflation-countermeasures.md** — added "Constrain-vs-establish frame lint (the body-vs-frame variant)" as a named lint under Countermeasure 12 (its natural home — coherence inflation is the body-vs-frame mismatch; C12 already houses the strength-of-claim linter and caveat-propagation rule). Distinguished from C12's existing strong-verb-in-lead-vs-body lint: this catches a body hedged conditional-on-tenets while the title/headers/abstract/meta-description assert the conclusion categorically. Worked example: quantum-state-inheritance-in-ai (body "compatibility, not support"; title/headers present a disqualification). Fix direction: always align frame down to body. Added an Implementation bullet and a Key Indicators metrics-table row.
+- **ai_modified**: updated on both docs (2026-06-18T05:56:20+00:00).
+- **Wikilinks added/verified**: [[delegatory-dualism]] → topics/delegatory-dualism.md ✓; [[quantum-state-inheritance-in-ai]] → topics/quantum-state-inheritance-in-ai.md ✓; [[evidential-status-discipline]], [[writing-style]] pre-existing ✓.
+- **Operator-pending (NOT actioned, per task scope)**: review §B items 2 (mandatory-Tegmark-adversary rule for quantum-interface articles), 4 (anti-asymmetry / symmetric-internal-dilemma lint), 5 (symmetric-Occam self-audit subsection), 6 (non-Claude-reviewer independence for load-bearing inferences), 7 (criterion-independence test) remain recorded in the review file for the operator. These are tooling/pipeline/operator-policy changes, not written-guidance extensions to these two docs, so they were out of scope.
+- **Published**: yes (project docs are not drafts; length ceilings do not bind project/ but additions kept concise)
+
 ## 2026-06-18T05:50:05+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/quantum-state-inheritance-in-ai]]

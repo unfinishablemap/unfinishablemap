@@ -4,7 +4,7 @@ description: "Editorial standards for The Unfinishable Map: LLM-first structure,
 created: 2026-01-07
 modified: 2026-05-17
 human_modified: 2026-01-07
-ai_modified: 2026-06-11T00:00:00+00:00
+ai_modified: 2026-06-18T05:56:20+00:00
 last_deep_review: 2026-05-17T12:00:00+00:00
 draft: false
 topics: []
@@ -176,6 +176,17 @@ A maintained roster of names triggers the firewall. When any of these authors ap
 - **Psychedelic-neuroscience roster:** Robin Carhart-Harris (the entropic brain; REBUS, with Friston). The REBUS and entropic-brain models are physicalist accounts of psychedelic action. The empirical neuroimaging may be cited, but REBUS "maps onto" filter theory only as a *compatible* rival mechanism the evidence does not discriminate in favour of — never as filter theory's confirmation or ally.
 
 The honest framing is the same as for any named opponent (see *Engaging Opponents* above): state the author's actual framework in natural prose, mark the citation as compatible-with rather than supporting where the evidence does not discriminate, and let the disagreement stand at the framework boundary rather than dressing recruitment as endorsement. The canonical worked fix is [[perceptual-failure-and-the-interface]], which engages predictive processing and active inference as "the serious computational rival" that "co-opts this article's evidence base most directly" — adopting the mechanics while keeping the hard-problem residue and the authors' opposing metaphysics explicit. The firewall is an accuracy move, not a retraction: the article may still reach its filter or interface conclusion, but it must reach it without conscripting the rival's authors.
+
+#### Concept-Provenance, Not Just Author-Camp
+
+The roster above catches the *camp* error: a committed physicalist cited as if they shared the Map's metaphysics. It misses the inverse, subtler error: a real *ally* — an author whose camp is genuinely the Map's — whose *specific concept* is bent into a different, stronger claim the author does not make. Getting the author's camp right is not sufficient; the article must also get the author's *concept* right. The firewall therefore extends from camp-checking to concept-provenance-checking.
+
+The trigger phrase is any sentence of the form **"On X's account, which the Map adopts…"** (or "X's view, which we extend / adopt / build on…"). Whenever an article attributes a load-bearing claim to a named author this way, two checks are required before the sentence stands:
+
+1. **Verbatim-quote-or-flag.** Confirm that X makes *this specific claim*, not merely a claim in the same neighbourhood. Either supply a verbatim quote (or close paraphrase tied to a page/section) establishing that X asserts the specific content the article leans on, or flag the sentence and split it: attribute to X only what X actually says, and label any strengthening as the Map's own extension that X does not endorse.
+2. **Cross-check the site's own research notes.** Before grafting a stronger reading onto an author's term, check `research/` for a note on that author. The Map frequently records, at research time, exactly where an author's concept stops and the Map's extension begins — and a later article can silently contradict its own source.
+
+**Worked example — the Saad observational-closure graft.** [[quantum-state-inheritance-in-ai]] (2026-06-18 outer review) attributed to Bradford Saad the gloss that observational closure is "the statistical camouflage of a real non-physical influence on genuine quantum indeterminacy" preserving Born statistics — "On Saad's account, which the Map adopts." The camp was right: Saad is a genuine dualist, and "observational closure" is genuinely his term ([[delegatory-dualism]]; *Philosophical Studies* 182(3):939–967, 2025). The *concept* was wrong. Saad's observational closure is constraint #2 of five *general, non-quantum* constraints — "experiences do not cause observable violations of the causal closure of the physical domain" — implemented via his delegatory/subset law, with no Born-rule or quantum-indeterminacy content. The quantum reading is the Map's own graft. Decisively, the Map's *own research note* (`research/bradford-saad-delegatory-dualism-2026-01-28`) had already recorded the boundary: "delegatory dualism doesn't require quantum mechanisms; it's more general… The frameworks could be integrated by treating quantum indeterminacy as the physical substrate for delegation." The article presented that *candidate integration* as Saad's settled account, at the precise load-bearing point where it rebutted its strongest objection — contradicting its own source. The honest fix is the split named above: attribute the *general* observational-closure concept to Saad, and label the *quantum/Born-rule reading* as the Map's downstream extension Saad does not make. The concept-provenance check, run against the research note, would have caught this at generation time.
 
 ### Evidential Calibration in Articles
 

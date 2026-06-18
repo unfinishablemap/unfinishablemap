@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-06-08 11:33:12+00:00
+ai_modified: 2026-06-18 05:56:20+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -370,9 +370,14 @@ Two convergent failure modes share a fix: claims that drift *up* in a lead relat
 
 **Caveat-propagation rule.** When a source article receives a caveat *after* an apex was last reviewed — a continuous-signal-detection caveat in [memory-anomalies](/topics/memory-anomalies/), a perceptual-reality-monitoring caveat in a higher-order-theories article, a calibrated-evidential-rung caveat in a bridge article — the owning apex is now silently overstated. The source-level honesty does not reach the synthesis that leans on it.
 
+**Constrain-vs-establish frame lint (the body-vs-frame variant).** The strength-of-claim linter above catches drift *within the prose* (a strong-verb lead contradicted by a hedged body). A distinct body-vs-frame mismatch escapes it: an article whose **body** scrupulously hedges its conclusion as conditional-on-tenets — "if the tenets hold," "compatibility, not support," "constrains rather than establishes," "an open programme rather than evidence" (the calibrated phrasing the [evidential-status discipline](/project/evidential-status-discipline/) installs at the claim level) — while its **title, section headers, abstract, or meta-description** assert the same conclusion *categorically*. The frame inherits the strong reading the body has explicitly declined; an LLM that fetches only the title, headers, and meta-description (the truncation-resilient surface — see [writing-style](/project/writing-style/)) reads a disqualification the body never licensed. This is the constrain-vs-establish slippage of the [evidential-status-discipline](/project/evidential-status-discipline/) migrated from the sentence to the article's framing furniture, and it is exactly the coherence-inflation pattern where calibrated body prose is undercut by an over-claiming frame.
+
+The worked example is [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/) (2026-06-18 Claude Opus 4.8 outer review): the body concedes the AI-substrate case "is compatibility, not support, an open programme rather than evidence" and that every operative claim holds only "if the tenets hold," yet the title, the abstract's "constrain the answer," and a section header ("Current AI does not satisfy the Map's conditions") present a substantive *disqualification* of AI consciousness. The fix direction is always to **align the frame down to the body** — relax the title/header/meta-description to the conditional the body actually defends ("if Tenets 1–3 hold, classical AI lacks the interface") — never to strengthen the body up to the frame. The frame may be relaxed back toward the categorical claim only when the body supplies a tenet-independent, externally-checkable criterion that *establishes* (not merely constrains) the conclusion.
+
 ### Implementation
 
-- **Linter**: `/validate-all` (or a dedicated check) scans leads and "Relation to Site Perspective" sections for the strong-verb set ("demonstrates," "establishes," "proves," "supports dualism") and flags any article whose body uses the discipline-compliant weaker set ("compatible with," "constrains," "raises the explanatory cost," "made more live"). The fix is to align the lead down to the body, never the body up to the lead.
+- **Strength-of-claim linter**: `/validate-all` (or a dedicated check) scans leads and "Relation to Site Perspective" sections for the strong-verb set ("demonstrates," "establishes," "proves," "supports dualism") and flags any article whose body uses the discipline-compliant weaker set ("compatible with," "constrains," "raises the explanatory cost," "made more live"). The fix is to align the lead down to the body, never the body up to the lead.
+- **Constrain-vs-establish frame lint**: `/deep-review` and `/refine-draft` (and `/expand-topic` at creation) compare an article's *frame* — title, H2/H3 headers, abstract/opening summary, and `description` frontmatter — against its body's calibration. If the body's conclusion is conditional-on-tenets or constrain-not-establish while any frame element asserts it categorically, the mismatch is a calibration defect, not a stylistic one; relax the frame down to the body. This is written review guidance, not an automated check — the reviewer reads both surfaces and judges the gap.
 - **Propagation**: when a `/refine-draft` or `/deep-review` pass adds a caveat to a source article, it generates a `cross-review` ticket in `todo.md` for every apex that links that source. The apex's owning synthesis receives an automatic review prompt rather than waiting for the next scheduled deep-review to notice the drift. This is the per-apex companion to the corpus-split propagation the changelog already performs for citation fixes.
 
 ## Countermeasure 13: Hard-Problem-Restatement and Missing-Engagement Audits
@@ -450,6 +455,7 @@ Track these metrics across evolution sessions:
 | Apex articles with no external-benchmark review in 90 days (Countermeasure 9) | 0 | >2 |
 | Load-bearing single-case/small-N citations without a weight-class flag (Countermeasure 11) | 0 | >0 |
 | Leads with strong-verb claims contradicted by their own bodies (Countermeasure 12) | 0 | >0 |
+| Articles whose title/headers/meta-description assert categorically what the body hedges as conditional-on-tenets (Countermeasure 12, constrain-vs-establish frame lint) | 0 | >0 |
 | Apex articles failing the missing-engagement audit on a top-N opponent (Countermeasure 13) | 0 | >1 |
 | Novelty claims unchecked against occupied conceptual space, or substantial extensions of a named view without a credit paragraph (Countermeasure 14) | 0 | >0 |
 | Synthesis-article convergence claims asserting evidential support without an independence check or named common-cause null (Countermeasure 15) | 0 | >0 |
