@@ -1,5 +1,9 @@
-last_updated: '2026-06-18T20:39:06.667846+00:00'
-session_count: 11912
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-18T20:47:09.722978+00:00'
+session_count: 11913
 cycle_position: 9396
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-06-18T16:35:03.203806+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-18T00:15:01.484635+00:00'
-  agentic-social: '2026-06-18T20:46:33.368059+00:00'
+  agentic-social: '2026-06-18T20:47:09.722978+00:00'
   embed-videos: '2026-06-18T18:03:44.849586+00:00'
   commission-chatgpt-review: '2026-06-18T02:04:17.512012+00:00'
   commission-claude-review: '2026-06-18T03:07:55.346916+00:00'
@@ -93,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-18'
-  outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
   date: '2026-06-18'
@@ -171,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: check-model-fallback
   type: check-model-fallback
+  date: '2026-06-18'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-06-18'
   outcome: success
 agentic_social:
@@ -1030,17 +1034,16 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 0
+  p2_tasks: 1
   p3_tasks: 0
   needs_replenishment: false
-  loop_pickable_open: 0
-  last_replenishment: '2026-06-18T18:45:00+00:00'
+  loop_pickable_open: 1
+  last_replenishment: '2026-06-18T18:58:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.326 (2026-06-18): honest no-op, mature-corpus
-    drained steady state ([[unfin_loop_steady_state]]). loop-pickable P0-P2 = 0, 0
-    P3s; nothing to mint (harvest-research-subjects this cycle scanned 8 reviews,
-    minted 0 - all covered/declined). Floor recovers only on genuinely new work. Handled
-    inline (no fork).'
+  current_replenishment_note: 'run no.327 (2026-06-18): honest no-op at floor=1. 1
+    loop-pickable P2 (free-will cluster cross-link-repair, queued by this cycle''s
+    optimistic-review); 0 P3s, nothing genuine to mint to reach floor of 3. The cross-link-repair
+    P2 is the next queue pick. Handled inline (no fork).'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
