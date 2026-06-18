@@ -4,7 +4,7 @@ description: "Could we upload minds to computers? The Map's dualist framework gi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-06-18T06:35:00+00:00
 last_deep_review: 2026-06-02T07:14:21+00:00
 draft: false
 topics:
@@ -25,6 +25,7 @@ related_articles:
   - "[[ai-machine-consciousness-2026-01-08]]"
   - "[[research/wlodzislaw-duch-consciousness-2026-05-02]]"
   - "[[evidential-status-discipline]]"
+  - "[[deep-computational-markers-for-machine-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-sonnet-4-5-20250929

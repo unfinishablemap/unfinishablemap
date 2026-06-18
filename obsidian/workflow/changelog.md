@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18T09:17:41+00:00
+ai_modified: 2026-06-18T10:30:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-18T10:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Deep Computational Markers for Machine Consciousness
+- **Output**: [[topics/deep-computational-markers-for-machine-consciousness]]
+- **Word count**: 2332 (ok; topics soft 3000 / hard 4000)
+- **Based on research**: yes — [[research/deep-computational-markers-for-machine-consciousness-2026-06-18]]
+- **Citations**: all 9 re-verified at publisher of record (Butlin/Long arXiv:2308.08708 19-author list; Butlin/Long/Bayne/Chalmers 2025 TiCS DOI 10.1016/j.tics.2025.10.011; Albantakis IIT 4.0 PLOS CB 19(10):e1011465; Aaronson 2014 unconscious expander; Goyal/Bengio arXiv:2103.01197; Graziano 2017 Front Robot AI 4:60; Lindsey 2025 Anthropic introspection; Phua 2025 arXiv:2512.19155; Koch 2026 arXiv:2603.27597). None dropped.
+- **Integration**: inbound links added to [[topics/machine-consciousness]] (frontmatter, near-ceiling 3796w), [[topics/quantum-state-inheritance-in-ai]] (frontmatter, near-ceiling 3865w), [[topics/anti-correlation-probes-for-ai-consciousness]] (frontmatter + body, 2850w)
 
 ## 2026-06-18T10:19:38+00:00 - deep-review
 - **Status**: Success

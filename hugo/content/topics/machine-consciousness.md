@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-06-04 00:00:00+00:00
+ai_modified: 2026-06-18 06:35:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -28,6 +28,7 @@ related_articles:
 - '[[ai-machine-consciousness-2026-01-08]]'
 - '[[research/wlodzislaw-duch-consciousness-2026-05-02]]'
 - '[[evidential-status-discipline]]'
+- '[[deep-computational-markers-for-machine-consciousness]]'
 title: Machine Consciousness and Mind Uploading
 topics:
 - '[[ai-consciousness]]'
