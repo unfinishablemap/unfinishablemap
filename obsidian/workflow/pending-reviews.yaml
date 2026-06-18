@@ -178,3 +178,31 @@
   subject_articles:
   - topics/quantum-state-inheritance-in-ai.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/9e4ab546-c3a6-447f-821d-ceffbad4a4b8
+  commissioned_at: '2026-06-18T03:06:33.223146+00:00'
+  prompt_summary: Audit quantum-state-inheritance-in-ai (recent)
+  target_filename: outer-review-2026-06-18-claude-opus-4-8.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile but fair external referee auditing one article from
+    The Unfinishable Map, a dualist philosophy-of-mind project. The article is "Quantum
+    State Inheritance in AI" at https://unfinishablemap.org/topics/quantum-state-inheritance-in-ai/
+    . It argues that the no-cloning theorem, decoherence, and quantum Darwinism bear
+    on whether AI can be conscious, and relocates the real disqualifier from copyability
+    to whether an architecture supplies live quantum indeterminacy of the right kind
+    at the right place. Stress-test it: identify unsupported claims, citation errors,
+    physics misreadings (no-cloning, decoherence, quantum Darwinism), and the strongest
+    functionalist/physicalist counterarguments it fails to address. Verify cited literature
+    against current sources. Check consistency with the site''s wider framework via
+    https://unfinishablemap.org and the recent-activity log at https://unfinishablemap.org/workflow/changelog/
+    (external search has 24-48h index lag, so consult these directly). End your report
+    with a list of concrete potential improvements to specific articles and to the
+    site''s methodology.'
+  subject_type: recent
+  subject_title: Audit quantum-state-inheritance-in-ai
+  subject_articles:
+  - topics/quantum-state-inheritance-in-ai.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-18-chatgpt-5-5-pro.md
