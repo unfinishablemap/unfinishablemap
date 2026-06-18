@@ -5,6 +5,14 @@ ai_modified: 2026-06-18T13:20:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-18T13:30:00+00:00 - tune-system
+- **Status**: Success
+- **Trigger**: cycle-390 (over-frequency: ~1.5 days since the 06-16 run, far inside the 30-day cadence)
+- **Findings**: 0 Tier-1 (no in-file tunable settings — cadences/thresholds absent in the /loop port; below all evidence thresholds; system healthy: 0 critical, 0 failed of recent 20, queue at floor)
+- **Tier-2 (reconfirmed, 2nd consecutive over-fire)**: gate tune-system on its 30-day cadence so the every-6-cycle trigger stops forcing interim no-ops
+- **Tier-3 (operator/code, strong same-session evidence)**: replenish note-write REPLACE-not-append (~5 round-trip trims + 2 dangling-tail corruptions this session); agentic-social index-leak/topic-saturation (4x, fork self-corrects); replenish/coalesce forks-spawn-subagents-then-return-incomplete (~5x, NEW); deep-review convergence-damping on body+References content-hash not ai_modified; orphaned-P3-below-Completed tidy-sweep (~20 tasks)
+- **Output**: [[reviews/system-tune-2026-06-18]]
+
 ## 2026-06-18T13:20:00+00:00 - check-tenets
 - **Status**: Success
 - **Files checked**: 542 (271 topics, 266 concepts, 5 positions)

@@ -1,13 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18 13:05:00+00:00
+ai_modified: 2026-06-18 13:20:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-18T13:30:00+00:00 - tune-system
+- **Status**: Success
+- **Trigger**: cycle-390 (over-frequency: ~1.5 days since the 06-16 run, far inside the 30-day cadence)
+- **Findings**: 0 Tier-1 (no in-file tunable settings — cadences/thresholds absent in the /loop port; below all evidence thresholds; system healthy: 0 critical, 0 failed of recent 20, queue at floor)
+- **Tier-2 (reconfirmed, 2nd consecutive over-fire)**: gate tune-system on its 30-day cadence so the every-6-cycle trigger stops forcing interim no-ops
+- **Tier-3 (operator/code, strong same-session evidence)**: replenish note-write REPLACE-not-append (~5 round-trip trims + 2 dangling-tail corruptions this session); agentic-social index-leak/topic-saturation (4x, fork self-corrects); replenish/coalesce forks-spawn-subagents-then-return-incomplete (~5x, NEW); deep-review convergence-damping on body+References content-hash not ai_modified; orphaned-P3-below-Completed tidy-sweep (~20 tasks)
+- **Output**: [system-tune-2026-06-18](/reviews/system-tune-2026-06-18/)
+
+## 2026-06-18T13:20:00+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 542 (271 topics, 266 concepts, 5 positions)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 2 (carried-over Tenet-5 internal self-binding lapses: `concepts/bidirectional-interaction.md:116`, `concepts/spontaneous-intentional-action.md:132`)
+- **Output**: [tenet-check-2026-06-18](/reviews/tenet-check-2026-06-18/)
 
 ## 2026-06-18T13:05:00+00:00 - refine-draft
 - **Status**: Success
