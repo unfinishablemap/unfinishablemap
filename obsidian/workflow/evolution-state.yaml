@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-18T00:57:39.102302+00:00'
-session_count: 11714
-cycle_position: 9314
+last_updated: '2026-06-18T01:01:35.267696+00:00'
+session_count: 11715
+cycle_position: 9315
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-17T19:57:34.449468+00:00'
   optimistic-review: '2026-06-17T21:12:18.159411+00:00'
   check-tenets: '2026-06-17T18:43:12.529265+00:00'
   check-links: '2026-06-18T00:01:04.560361+00:00'
-  deep-review: '2026-06-17T23:02:30.150944+00:00'
+  deep-review: '2026-06-18T01:01:35.267696+00:00'
   tune-system: '2026-06-16T23:06:12.723747+00:00'
   research-voids: '2026-06-18T00:04:03.374718+00:00'
   coalesce: '2026-06-17T22:27:10.194443+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-18T00:15:01.484635+00:00'
-  agentic-social: '2026-06-18T00:17:14.328240+00:00'
+  agentic-social: '2026-06-18T01:03:52.366114+00:00'
   embed-videos: '2026-06-17T23:53:20.764189+00:00'
   commission-chatgpt-review: '2026-06-17T02:05:46.036515+00:00'
   commission-claude-review: '2026-06-17T03:06:25.605256+00:00'
@@ -87,7 +83,7 @@ progress:
   voids_written: 101
   positions_written: 3
   research_notes: 399
-  reviews_completed: 5395
+  reviews_completed: 5396
   apex_articles: 35
 quality:
   critical_issues: 0
@@ -96,10 +92,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-17'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-17'
@@ -176,15 +168,12 @@ recent_tasks:
   type: replenish-queue
   date: '2026-06-18'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-06-18'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/clinical-dissociation-as-systematic-evidence/
-    date: '2026-06-11T00:32:32.403922+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - split-brain-consciousness
-    - consciousness-disruption-and-the-mind-brain-interface
-    - consciousness-and-memory
   - url: https://unfinishablemap.org/apex/phenomenology-of-consciousness-doing-work/
     date: '2026-06-11T01:32:37.593094+00:00'
     topics:
@@ -1008,6 +997,11 @@ agentic_social:
     - consciousness-disruption-and-the-mind-brain-interface
     - filter-theory
     - altered-states
+  - url: https://unfinishablemap.org/concepts/types-of-consciousness/
+    date: '2026-06-18T01:03:52.366024+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - ai-consciousness
 tune_system_history:
   last_run: '2026-06-16T22:50:00+00:00'
   changes_applied: []
