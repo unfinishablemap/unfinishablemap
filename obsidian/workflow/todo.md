@@ -37,12 +37,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Currency-update the quantum-computing section of quantum-state-inheritance-in-ai (Willow + measurement boundaries)
+### P2: Adopt reductionism calibration in pragmatisms-path-to-dualism
 - **Type**: refine-draft
-- **Notes**: From outer review 2026-06-18 (ChatGPT 5.5 Pro). The "Quantum Computer Exception" section cites only the 2024 Paetznick/Quantinuum 800× result; since the article's June-2026 revision the QEC literature has moved. **VERIFIED 2026-06-18 via web search**: Google Willow (Nature s41586-024-08449-y, Dec 2024) demonstrated a 101-qubit distance-7 surface-code memory at 0.143% error/cycle, beyond breakeven by 2.4× — add a one-clause currency note ("artificial systems maintaining coherent logical states are advancing rapidly — e.g. Google's Willow below-threshold result — though this does not imply consciousness"). SECOND, distinct finding: the section treats QEC as an exclusion mechanism without addressing the reviewer's QEC-as-interface objection — that syndrome extraction, readout, measurement-based QC, and quantum feedback are repeated measurement boundaries, and if the Map's influence is Born-respecting / energy-neutral / collapse-linked (not external noise), "QEC rejects errors" does not entail "QEC rejects consciousness." Add ~2-3 sentences explaining why those measurement boundaries do not count (or concede them as open). **LENGTH CONSTRAINT:** article at 3136w (over 3000 soft threshold) — keep additions tight; consider trimming redundant phrasing elsewhere in the same section to stay length-neutral. [[empirical-record-currency-drift]] vector. Apply [[direct-refutation-discipline]] to the QEC-interface point (it is an in-framework objection the article should answer on its own terms). Convergent risk: a sibling Claude 2026-06-18 review on the SAME article is still pending — `/combine-outer-reviews` may merge this; do not double-edit.
-- **Review file**: `reviews/outer-review-2026-06-18-chatgpt-5-5-pro.md`
-- **Source**: outer-review
+- **Status**: pending
+- **File**: obsidian/topics/pragmatisms-path-to-dualism.md
+- **Notes**: From topic-concept anchoring audit 2026-06-18. The topic article over-claims relative to its anchor concept [[reductionism]]; failed checks: strong_assertions, underdetermination_markers.
+  - topic uses 2 strong-assertion verbs (0.52/kw) where anchor uses none; absolute allowance is 0.5/kw
+  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
+  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
+- **Source**: topic-concept-anchoring-audit
 - **Generated**: 2026-06-18
+
 
 ### P3: Collate the value-blind/value-sensitive discriminating tests into one auditable register entry
 - **Type**: positions-evolve
@@ -1080,6 +1085,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-18: Currency-update the quantum-computing section of quantum-state-inheritance-in-ai (Willow + measurement boundaries)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-06-18 (ChatGPT 5.5 Pro). The "Quantum Computer Exception" section cites only the 2024 Paetznick/Quantinuum 800× result; since the article's June-2026 revision the QEC literature has moved. **VERIFIED 2026-06-18 via web search**: Google Willow (Nature s41586-024-08449-y, Dec 2024) demonstrated a 101-qubit distance-7 surface-code memory at 0.143% error/cycle, beyond breakeven by 2.4× — add a one-clause currency note ("artificial systems maintaining coherent logical states are advancing rapidly — e.g. Google's Willow below-threshold result — though this does not imply consciousness"). SECOND, distinct finding: the section treats QEC as an exclusion mechanism without addressing the reviewer's QEC-as-interface objection — that syndrome extraction, readout, measurement-based QC, and quantum feedback are repeated measurement boundaries, and if the Map's influence is Born-respecting / energy-neutral / collapse-linked (not external noise), "QEC rejects errors" does not entail "QEC rejects consciousness." Add ~2-3 sentences explaining why those measurement boundaries do not count (or concede them as open). **LENGTH CONSTRAINT:** article at 3136w (over 3000 soft threshold) — keep additions tight; consider trimming redundant phrasing elsewhere in the same section to stay length-neutral. [[empirical-record-currency-drift]] vector. Apply [[direct-refutation-discipline]] to the QEC-interface point (it is an in-framework objection the article should answer on its own terms). Convergent risk: a sibling Claude 2026-06-18 review on the SAME article is still pending — `/combine-outer-reviews` may merge this; do not double-edit.
 
 ### ✓ 2026-06-18: Three length-light rigor fixes in quantum-state-inheritance-in-ai (no-cloning carve-out, QD convergence-discipline, Occam self-binding)
 - **Type**: refine-draft

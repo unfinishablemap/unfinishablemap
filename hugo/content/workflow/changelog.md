@@ -1,13 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18 06:06:15+00:00
+ai_modified: 2026-06-18 06:23:52+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-18T06:23:52+00:00 - refine-draft (outer-review QC-Exception currency + QEC-interface objection, 7th edit)
+- **Status**: Success
+- **File**: [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/)
+- **Source**: outer-review-2026-06-18-chatgpt-5-5-pro — Findings 6 / Recommendations (L172, L174, L102, L112, L132) on "The Quantum Computer Exception". 7th edit to this file today; length was the binding constraint (3797 body words, only 203 to the 4000 hard ceiling).
+- **Length**: body 3797 → 3868 words (+71). Net-neutral was the target but could not be reached: a required new reference line (Google Quantum AI, 2024) plus two genuinely new content insertions have an irreducible floor. Applied the SKILL fallback — fix (1) full, fix (2) collapsed to a ONE-sentence concede-open — and offset ~40 words by trimming redundancy throughout the section. Final 3868 leaves a 132-word margin to the hard ceiling.
+- **Changes** (within QC-Exception section L81-87 + References only):
+  1. **Currency note (Willow).** Added one clause at L85: Google's "Willow" below-threshold result the same year ran a distance-7 surface-code memory on 101 qubits at ~0.143% error/cycle, ~2.4× beyond breakeven (Google Quantum AI, 2024) — with the explicit caveat that artificial systems maintaining coherent logical states are advancing rapidly though this does not imply consciousness. empirical-record-currency-drift vector closed (article previously cited only the 2024 Paetznick result).
+  2. **QEC-as-interface objection.** Collapsed to a single honest concede-open sentence at L87: QEC is shot through with measurement-like boundaries (syndrome extraction, readout, measurement-based computation, quantum feedback), each engineered to project the logical state onto a *fixed* code basis rather than host open selection; whether the Map's Born-respecting, collapse-linked influence could nonetheless register at such a boundary is left open. One-sentence form chosen over the fuller 2-sentence answer because length-tight (per SKILL instruction).
+- **Engagement classification** (editor-internal, per [direct-refutation-discipline](/project/direct-refutation-discipline/)): the QEC-as-interface reply is Mode Three (framework-boundary marking) — the objection is in-framework (Born-respecting influence vs. fixed-basis projection) but the article honestly marks the adaptive/hybrid-boundary case as open rather than claiming refutation. No mode labels written into article prose.
+- **Citation discipline**: Willow metadata web-verified before citing (ai_citation_metadata_unreliable) — *Nature* 638(8052):920-926, Dec 2024, DOI 10.1038/s41586-024-08449-y, arXiv:2408.13687; figures (distance-7, 101 qubits, 0.143% ± 0.003%/cycle, 2.4× ± 0.3 beyond breakeven) match the paper exactly and corroborate the review's own Verification Notes. No fabricated metadata.
+- **Preservation verified**: all 6 prior fixes intact — L41 no-cloning Nielsen & Chuang orthogonality carve-out; L63 Tegmark/Georgiev decoherence; L67/71 QD interpretation-neutrality (Zurek Everettian); L77/79 entropy/QRNG archaeological-artifact; L95 opponent-engagement (Chalmers/Butlin/predictive-processing/biological-computationalism); L101 Saad-attribution + Born-rule both-horns dilemma + Occam self-binding. Diff confirms only the QC-Exception section + References block were touched. Claude sibling fixes (already merged via combine) not re-added.
+- **Published**: yes
 
 ## 2026-06-18T06:06:15+00:00 - refine-draft (outer-review §B in-framework rigor, 6th edit)
 - **Status**: Success
