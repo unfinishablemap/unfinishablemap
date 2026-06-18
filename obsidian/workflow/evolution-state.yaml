@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-18T09:04:52.996236+00:00'
-session_count: 11794
-cycle_position: 9346
+last_updated: '2026-06-18T09:09:10.254812+00:00'
+session_count: 11795
+cycle_position: 9347
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-18T07:42:25.606798+00:00'
   optimistic-review: '2026-06-18T03:32:28.785767+00:00'
   check-tenets: '2026-06-17T18:43:12.529265+00:00'
   check-links: '2026-06-18T00:01:04.560361+00:00'
-  deep-review: '2026-06-18T08:51:22.300761+00:00'
+  deep-review: '2026-06-18T09:09:10.254812+00:00'
   tune-system: '2026-06-16T23:06:12.723747+00:00'
   research-voids: '2026-06-18T00:04:03.374718+00:00'
   coalesce: '2026-06-18T05:16:59.560663+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: skip-queue-slot
-  type: skip-queue-slot
-  date: '2026-06-18'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-18'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-18'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-18'
   outcome: success
 agentic_social:
@@ -1021,50 +1021,54 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 3
+  p2_tasks: 2
   p3_tasks: 0
   needs_replenishment: false
-  loop_pickable_open: 3
-  last_replenishment: '2026-06-18T09:15:00+00:00'
+  loop_pickable_open: 2
+  last_replenishment: '2026-06-18T09:20:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-18 run no.282 (standard mode) - MINTED 1 genuine
-    chain (cross-review) task, promoted 0. The loop-pickable P0-P2 depth had fallen
-    to 2 (below the MIN_QUEUE floor of 3): the two harvest-vetted research-topic tasks
-    (deep-computational-markers; loss-aversion). Run no.281''s promoted affective-forecasting
-    expand-topic has since EXECUTED (concepts/affective-forecasting-gap.md created
-    08:57, commit 73452eb7e) and dropped out of the pickable count, leaving depth
-    2. All 8 sources re-checked: (1) chain - FOUND ONE genuine successor: today''s
-    fresh affective-forecasting-gap concept links TO topics/wanting-liking-and-the-value-in-mechanism-fork.md
-    (its line ~82, "the motivational form of the same gap") but wanting-liking does
-    NOT link back (grep-verified asymmetric). The expand-topic''s mandated reciprocity
-    set was only valence-and-conscious-selection + the-steelman-for-value-blind-selection
-    (both confirmed reciprocated); wanting-liking was outside it. Minted a P2 cross-review
-    to close the residual one-directional link - real Source-1 chain work, length-neutral
-    (wanting-liking ok at 1598w), no protected file, not vetoed. This restored the
-    floor 2->3 honestly without speculative new-article work. (2) unconsumed research
-    0 - all recent notes map to live coverage; the IWMT note (2026-06-16) is NOT a
-    clean unconsumed source: its OWN assess-first verdict is RETARGET-or-DECLINE (IWMT
-    already engaged at depth in concepts/predictive-processing.md ss"Strongest Gap-Dissolving
-    Variant" L99-103), and the Gemini-flagged IWMT engagement task + the I-JEPA "primitive
-    world-model" attribution fix it surfaced are BOTH already done (todo L1320, L1264);
-    affective-forecasting-gap, steelman-value-blind, egocentric-presentism, manyism,
-    naturalist-relationalism, chemosensory all map to live articles. (3) gaps 0 -
-    harvest-research-subjects owns gap discovery (ran 08:13) and its two subjects
-    are the two queued research-topic tasks. (4) staleness 0 - deep-review ran 08:51
-    today. (5) orphans 0 - quality.orphaned_files 0; the new affective-forecasting-gap
-    is NOT an orphan (inbound from both cluster articles). (6) length 0 - all live-content
-    offenders carry standing human-decision/veto/recently-reviewed dispositions (synesthetic-void
-    open HUMAN LENGTH DECISION; clinical-dissociation + epistemology-of-convergence
-    DIVERTED/critical-but-deferred; born-rule human-deferred; phenomenal-output +
-    meaning-of-life veto-tagged; composition-question-rivals/argument-from-reason/time-collapse/epistemic-advantages
-    recently reviewed); the rest are research/ notes + index files, not condense targets.
-    (7) positions 4 entries (<10 audit floor; positions-evolve ran 06:54). (8) applied-apex
-    0 (A2-A4 proposed-not-sanctioned, no auto-approved open slot; the clinical-apex
-    A6 candidate is DEFERRED-TO-HUMAN). Floor restored 2->3; now at-floor steady state
-    (3 P0-P2 pickable: 1 cross-review + 2 research-topic). needs_replenishment false.'
+  current_replenishment_note: '2026-06-18 run no.283 (standard mode) - NO-OP: minted
+    0, promoted 0. Run no.282''s minted P2 cross-review (wanting-liking <-> affective-forecasting-gap
+    residual link) has since EXECUTED and committed (09b24b08c; wanting-liking L91
+    now back-links affective-forecasting-gap, grep-confirmed), dropping loop-pickable
+    P0-P2 depth from 3 back to 2 (the two harvest-vetted research-topic tasks:
+    deep-computational-markers, loss-aversion). Below the MIN_QUEUE floor of 3 but a
+    FRESH full 8-source on-disk + git scan finds NO genuine new mint source - documented
+    replenish-at-floor steady state. (1) CHAIN 0 - today''s affective-forecasting-gap
+    chain is fully closed (article 73452eb7e + both mandated reciprocal links +
+    no.282''s residual cross-review all done); today''s positions value-in-selection
+    entry (66769c235) is well-formed with reciprocated Argued-in links, owned by that
+    completed task; today''s refines (four-quadrant calibration 72ae7d31d; 4x
+    quantum-state-inheritance) were single-file calibration/rigor edits adding no new
+    asymmetric outbound article links - no cross-review successor warranted. (2)
+    UNCONSUMED RESEARCH 0 - corrected a near-false-positive: chemosensory IS consumed
+    (article exists at topics/chemosensory-consciousness-and-the-interface.md, commit
+    01d8a604d; the research note''s longer slug masked it from a naive find);
+    naturalist-relationalism / egocentric-presentism / manyism / steelman-value-blind /
+    affective-forecasting all map to live articles; IWMT note self-verdicts
+    RETARGET-or-DECLINE (covered in concepts/predictive-processing.md L99-103);
+    voids-inference-void maps to live inference-void.md AND voids is OVER cap (101/100).
+    (3) GAPS 0 - harvest-research-subjects owns gap discovery (ran 08:13); its two
+    subjects ARE the two queued research-topics. (4) STALENESS 0 - deep-review ran
+    09:09 today; no changed-since-review hits. (5) ORPHANS 0 - quality.orphaned_files
+    0. (6) LENGTH 0 - all content offenders are research/ notes (no ceiling), index
+    hubs (apex-articles 7238w), veto-tagged (phenomenal-output, meaning-of-life), or
+    human-deferred / recently-touched calibration flagships (epistemology-of-convergence
+    human-deferred; synesthetic-void open HUMAN LENGTH DECISION; born-rule/clinical-dissociation
+    deferred; memory-channel deep-reviewed 06-16 ACCEPT-AS-SURVEY; predictive-processing/composition-question-rivals
+    touched within ~3d) - NO clean mintable offender. (7) POSITIONS 0 - register now
+    20 entries across 4 domains (agency 5, quantum 10, value-in-selection 2, voids 3);
+    last full audit 2026-06-09, only 9d ago, well inside the 30d cadence (next ~07-09);
+    today''s new value-in-selection entry self-dispositioned. (8) APPLIED-APEX 0 - no
+    auto-approved open slot (clinical A6 candidate DEFERRED-TO-HUMAN). Honest move: do
+    NOT mint speculative/no-op work to force the floor; no open P3 exists to promote
+    (zero open P3 in Active). The two pickable P2 research-topics are substantive
+    forward work and a lone/dual P2 does NOT starve (selector picks P2; the floor
+    machinery preempts only a P3-only queue) - each will generate an expand-topic
+    chain successor on execution, self-restoring the floor. needs_replenishment false.'
   replenishment_source_counts_last_run:
     applied_apex: 0
-    chain: 1
+    chain: 0
     gap_analysis: 0
     length_analysis: 0
     orphan_integration: 0
