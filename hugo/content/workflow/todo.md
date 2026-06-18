@@ -38,17 +38,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt reductionism calibration in the-steelman-for-process-monism
-- **Type**: refine-draft
+### P2: Deep review concepts/introspection.md (post-refine drift — 2026-06-17 blindsight/illusionism content fix unverified since 2026-06-01 review)
+- **Type**: deep-review
 - **Status**: pending
-- **File**: obsidian/topics/the-steelman-for-process-monism.md
-- **Notes**: From topic-concept anchoring audit 2026-06-18. The topic article over-claims relative to its anchor concept [reductionism](/concepts/reductionism/); failed checks: hedge_density, underdetermination_markers.
-  - hedge density 2.19/kw is below 3.00/kw (target = 60% of anchor 5.15/kw, capped at 3.0/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-18
-
+- **Generated**: 2026-06-18 by /replenish-queue run no.293 (FLOOR-RESTORING). Loop-pickable open P0–P2 dropped to 2 (primary/secondary-quality expand-topic + dualism-cluster cross-link-repair integrate-orphan) when this cycle completed the four-quadrant forward-ref audit, one below the MIN_QUEUE floor of 3. A fresh full on-disk audit re-confirms the documented replenish-at-floor steady state (unfin_loop_steady_state) with no genuine new MINT source: (a) UNCONSUMED RESEARCH drained — every recent note (loss-aversion/negative-valence, deep-computational-markers, affective-forecasting, value-blind-selection, egocentric-presentism, manyism, naturalist-relationalism, chemosensory) has its article; the lone outstanding IWMT note (`integrated-world-modeling-theory-2026-06-16.md`) was correctly resolved-as-decline today (✓ task, IWMT fully covered in `concepts/predictive-processing.md` §"The Strongest Gap-Dissolving Variant" with Safron 2020 cited — grep-confirmed; NOT an open chain). (b) CHAINS closed. (c) STALENESS — only `concepts/contextual-selection-in-quantum-foundations.md` crosses 30d (exactly 30d) and `ai_modified == last_deep_review` (both 2026-05-19T07:03:12 → zero drift), a genuine converged no-op (deep_review_over_reviews_converged), not a restorer. (d) CAPS — voids 101/100 OVER (no new void), topics 270/300 & concepts 265/300 headroom but no fresh expand candidate beyond the two standing-and-now-consumed P3s (process-monism steelman EXECUTED today → `topics/the-steelman-for-process-monism.md`; primary/secondary-quality PROMOTED to P2 above), positions 4/80. (e) LENGTH — every article-section offender is human-deferred / #veto / accepted-as-survey / calibration-protected (condense-regresses-calibration-qualifiers); no safe new condense. (f) ORPHANS 0. So one best-grounded restorer suffices. This deep-review is the lowest-risk restorer available — it reviews an EXISTING article (no cap concern), is NOT a converged no-op, and is grounded in genuine post-refine drift (the same legitimate restorer pattern as runs no.288/289): `concepts/introspection.md` was last deep-reviewed 2026-06-01 but received TWO substantive refine-draft commits on 2026-06-17 — `bb8f53ed5 "Fix blindsight interpretation + illusionism boundary in concepts/introspection.md"` (a content correction) and `bcbecdb88 "Cross-link the function-phenomenology wedge cluster to its eliminativist target"` — neither verified by a deep-review (coalesce-hides-review-debt-and-regresses-fixes sibling: a refine bumps content but not last_deep_review, so the fix is unverified). NOT in the Vetoed bank (grep-confirmed).
+- **File**: obsidian/concepts/introspection.md
+- **Notes**: The review must: (a) confirm the 2026-06-17 blindsight-interpretation + illusionism-boundary fix landed correctly and did not over- or under-correct — verify the blindsight characterisation is accurate and the illusionism boundary is drawn at the framework grain ([direct-refutation-discipline](/project/direct-refutation-discipline/) / [evidential-status-discipline](/project/evidential-status-discipline/)); (b) verify the new function-phenomenology-wedge cross-links resolve to live targets and reciprocate (archival_link_rot); (c) note the article carries `ai_system: claude-opus-4-7` (an older model) — extra reason for a fresh-eyes pass; (d) honour the Map's first-person-irreducibility commitment vs. heterophenomenology's bracketing (Tenet 1, Dualism). **LENGTH DISCIPLINE — STRICT:** canonical `analyze_length` reports **3499 body words = soft_warning, exactly 1 word under the concepts 3500 hard threshold** (count-words-includes-frontmatter: a raw read inflates this to ~3815 incl. frontmatter + references — do NOT trust the raw count; use `tools.curate.length.analyze_length`). This is NOT a condense candidate, but the article has ZERO headroom: keep the review **strictly length-neutral or trimming** — any net word addition tips it over the hard ceiling. Web-verify any citation touched at publisher of record (ai_citation_metadata_unreliable). If genuinely clean after real scrutiny, a confirming metadata-only verdict is fine (deep_review_over_reviews_converged license) — but actually verify the post-refine blindsight/illusionism content, do not trust the refine stamp. ai_contribution=100.
+- **Source**: staleness (post-refine drift, floor-restoring)
 
 ### HUMAN LENGTH DECISION (2026-06-17): voids/synesthetic-void.md over the voids hard threshold after the convergent-review counter-readings refine
 - **Type**: human-decision (NOT auto-condensable — do NOT pick as refine-draft/condense)
@@ -1095,6 +1091,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-18: Adopt reductionism calibration in the-steelman-for-process-monism
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-18. The topic article over-claims relative to its anchor concept [reductionism](/concepts/reductionism/); failed checks: hedge_density, underdetermination_markers.
 
 ### ✓ 2026-06-18: Audit four-quadrant-dualism-taxonomy.md forward-references to the channel-width axis for post-deep-review accuracy
 - **Type**: refine-draft

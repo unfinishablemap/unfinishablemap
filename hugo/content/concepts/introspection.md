@@ -37,7 +37,7 @@ description: Our primary access to consciousness is contested. But critiques tar
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 05:00:00+00:00
+last_deep_review: 2026-06-18 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

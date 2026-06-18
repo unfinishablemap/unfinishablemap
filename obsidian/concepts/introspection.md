@@ -52,7 +52,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-06-01T05:00:00+00:00
+last_deep_review: 2026-06-18T00:00:00+00:00
 ---
 
 Introspection is our primary [[epistemology|epistemic]] access to conscious experience, yet its reliability is widely contested. Critics argue that we routinely confabulate explanations for decisions we never made and remain blind to the causal processes shaping our thoughts. Defenders respond that these critiques target the wrong domain: we may lack access to cognitive *processes*, but phenomenal *content*—what it is like to see red or feel pain—remains accessible. Meditation experience predicts greater introspective accuracy, and rigorous methods can minimize confabulation. The debate matters because any account of consciousness that takes first-person data seriously must address whether those data can be trusted.

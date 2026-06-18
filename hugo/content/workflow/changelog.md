@@ -1,13 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18 18:45:00+00:00
+ai_modified: 2026-06-18 19:30:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-18T19:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [introspection](/concepts/introspection/)
+- **Word count**: 3499 → 3499 (0; metadata-only confirming pass, 1 word under the 3500 concepts hard ceiling)
+- **Trigger**: changed-since-review verification of two 2026-06-17 refine commits (bb8f53ed5 blindsight/illusionism/MWI; bcbecdb88 Carroll's-regress cross-link) that modified the body but left last_deep_review stale.
+- **Verdict**: confirming metadata-only — both refines verified substantively correct, well-calibrated, not over/under-corrected. No body change (zero length headroom).
+- **Verified**: (a) blindsight reading corrected from Block-overflow misreading to standard Weiskrantz "processing without phenomenal awareness" (matches [blindsight](/concepts/blindsight/)); (b) illusionism Self-Undermining downgraded to honest Mode-Three boundary-marking, no boundary-substitution, no label leakage; (c) MWI paragraph — possibility/probability slippage CORRECTED ("does not discriminate between collapse and MWI"); (d) [carrolls-regress](/concepts/carrolls-regress/) cross-link resolves and is faithful (inference opacity). Sperling (1960) reference web-verified at publisher of record (DOI 10.1037/h0093759 — real-correct). All 43 body wikilinks resolve. No superlative claims (currency sweep clean). Tenet-1 first-person-irreducibility line held vs heterophenomenology.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (length at hard ceiling carried; structural /condense remains a standing human/editorial option)
+- **Enhancements made**: 0
+- **Engagement classification**: illusionism (Frankish/Dennett) — Mixed (Mode Two opening, Mode Three close); heterophenomenology via Velmans/Chalmers — Mode Three. No mode labels in body.
+- **Output**: [deep-review-2026-06-18-introspection](/reviews/deep-review-2026-06-18-introspection/)
 
 ## 2026-06-18T18:45:00+00:00 - refine-draft
 - **Status**: Success
