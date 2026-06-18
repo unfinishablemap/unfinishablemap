@@ -9,6 +9,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-18T10:19:38+00:00 - deep-review
+- **Status**: Success
+- **File**: [affective-forecasting-gap](/concepts/affective-forecasting-gap/)
+- **Word count**: 1837 → ~1840 (+3; below soft threshold, normal mode)
+- **Critical issues addressed**: 2 (Kahneman/Wakker/Sarin 1997 page range 375–405 → 375–406, verified Oxford QJE; two orphan References entries Wilson & Gilbert 2003/2005 anchored to a new inline cite where the impact bias is introduced)
+- **Medium issues addressed**: 1 (description 197 → 158 chars)
+- **Enhancements made**: 0 (fresh, well-calibrated article; no expansion warranted)
+- **Citation web-verify**: all 11 academic cites verified at publisher of record — 10 real-correct (Gilbert et al. 1998 JPSP 75(3):617-638; Wilson et al. 2000 JPSP 78(5):821-836; Gilbert & Wilson 2007 Science 317(5843):1351-1354; Redelmeier & Kahneman 1996 Pain 66(1):3-8; Schultz 2016 Dialogues Clin Neurosci 18(1):23-32; Berridge & Robinson 2016 Am Psychol 71(8):670-679; Levine et al. 2012 JPSP 103(4):584-605; Wilson & Gilbert 2013 JPSP 105(5):740-748; Wilson & Gilbert 2003 Adv Exp Soc Psychol 35:345-411; Wilson & Gilbert 2005 Curr Dir Psychol Sci 14(3):131-134), 1 real-wrong-metadata corrected (Kahneman/Wakker/Sarin 1997 QJE 112(2) page range). No superlative claims (currency sweep clean).
+- **Reasoning-mode**: engagement with the value-blind steelman — Mode Three (framework-boundary marking); article concedes ground honestly, splits metaphysical/causal registers, does not feign in-framework refutation. No label leakage; no possibility/probability slippage (article actively declines tenet-permission→evidence-upgrade — the §2 praise-worthy pattern).
+- **Output**: [deep-review-2026-06-18-affective-forecasting-gap](/reviews/deep-review-2026-06-18-affective-forecasting-gap/)
+
 ## 2026-06-18T10:05:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Loss-Aversion and Negative-Valence Asymmetry in Selection (the sign-weighting asymmetry — negatives loom larger — as distinct from the affective-forecasting and wanting/liking axes; closes the parent fork's "negative valence and avoidance" open question)

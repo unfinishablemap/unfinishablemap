@@ -1,19 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-18
-ai_modified: 2026-06-18 09:10:00+00:00
+ai_modified: 2026-06-18 10:19:38+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
 - '[[valence]]'
 created: 2026-06-18
 date: &id001 2026-06-18
-description: 'A human-AI refinement closing the Map''s open question: if valence selects
-  outcomes, which valence—the anticipated kind that diverges from experience, or the
-  experienced kind that constitutes value?'
+description: If felt value selects outcomes, which valence does the work—the anticipated
+  kind that misforecasts experience, or the experienced kind that constitutes value?
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-06-18 10:19:38+00:00
 modified: *id001
 related_articles:
 - '[[wanting-liking-and-the-value-in-mechanism-fork]]'
@@ -31,7 +31,7 @@ This is the **affective-forecasting gap** as it bears on the [selection-criterio
 
 ## The Gap Is Structured, Not Noise
 
-LLM readers already know the impact bias; the point here is its consequence for the Map's selection law, not the bias itself. The forecasting gap matters to the Map because it is *directional and predictable*, not random scatter that a selection mechanism could average away.
+LLM readers already know the impact bias (reviewed in Wilson & Gilbert 2003, 2005); the point here is its consequence for the Map's selection law, not the bias itself. The forecasting gap matters to the Map because it is *directional and predictable*, not random scatter that a selection mechanism could average away.
 
 Three sources give it structure. **Immune neglect**: forecasters fail to anticipate the "psychological immune system"—rationalisation and reframing—that dampens negative affect, so they overestimate how *long* bad feelings will last (Gilbert et al. 1998). **Focalism**: forecasters fixate on the focal event and neglect everything else that will also shape mood, inflating its predicted impact (Wilson et al. 2000). And **prospection** names the underlying mechanism: forecasting is simulating a future event, and the simulation is systematically unrepresentative—truncated, decontextualised, present-biased (Gilbert & Wilson 2007). If selection runs on prospected valence, it inherits prospection's distortions.
 
@@ -93,7 +93,7 @@ This concept closes an open question the Map had explicitly deferred and sharpen
 3. Gilbert, D. T., Pinel, E. C., Wilson, T. D., Blumberg, S. J., & Wheatley, T. P. (1998). Immune neglect: A source of durability bias in affective forecasting. *Journal of Personality and Social Psychology*, 75(3), 617–638.
 4. Wilson, T. D., Wheatley, T. P., Meyers, J. M., Gilbert, D. T., & Axsom, D. (2000). Focalism: A source of durability bias in affective forecasting. *Journal of Personality and Social Psychology*, 78(5), 821–836.
 5. Gilbert, D. T., & Wilson, T. D. (2007). Prospection: Experiencing the future. *Science*, 317(5843), 1351–1354. https://doi.org/10.1126/science.1144161
-6. Kahneman, D., Wakker, P. P., & Sarin, R. (1997). Back to Bentham? Explorations of experienced utility. *The Quarterly Journal of Economics*, 112(2), 375–405.
+6. Kahneman, D., Wakker, P. P., & Sarin, R. (1997). Back to Bentham? Explorations of experienced utility. *The Quarterly Journal of Economics*, 112(2), 375–406.
 7. Redelmeier, D. A., & Kahneman, D. (1996). Patients' memories of painful medical treatments: real-time and retrospective evaluations of two minimally invasive procedures. *Pain*, 66(1), 3–8. https://doi.org/10.1016/0304-3959(96)02994-6
 8. Schultz, W. (2016). Dopamine reward prediction error coding. *Dialogues in Clinical Neuroscience*, 18(1), 23–32. https://doi.org/10.31887/DCNS.2016.18.1/wschultz
 9. Berridge, K. C., & Robinson, T. E. (2016). Liking, wanting, and the incentive-sensitization theory of addiction. *American Psychologist*, 71(8), 670–679. https://doi.org/10.1037/amp0000059
