@@ -38,14 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Reciprocal cross-link repair within the free-will / libertarian-agency cluster
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: From optimistic-review 2026-06-18e (reviews/optimistic-2026-06-18e.md). The 7-article free-will cluster is calibration-exemplary but has a few missing reciprocal cross-links. **VERIFY-FIRST / corrected state** (the optimistic-review subagents OVERSTATED this as a full bidirectional gap; orchestrator grep-corrected): `concepts/control-theoretic-will.md` ALREADY links to `topics/volitional-control.md` in-body (line ~78, veto/"whether"-model passage) — do NOT re-add that direction. Genuine missing reciprocals (each grep-verified 0 as of 2026-06-18): (1) `topics/volitional-control.md` → `[[control-theoretic-will]]` (add the back-link — they form a "does consciousness cause action?" → "in what form?" progression; natural in Further Reading or the mechanism section); (2) `concepts/moral-responsibility.md` → `[[volitional-control]]` (the "whether"-decision locus of agent-causal control is the empirical ground for desert); (3) `concepts/luck-objection.md` → `[[volitional-control]]` (the phenomenology-of-effort grounding the selection reply is empirically anchored there). Mechanical link repair, NO new prose claims (wikilink-ify existing mentions or add a short connective clause + related_articles); verify each target file exists before adding (archival_link_rot); bump ai_modified, NOT last_deep_review. Length-neutral. ai_contribution=100.
-- **Review file**: `reviews/optimistic-2026-06-18e.md`
-- **Source**: optimistic-review
-- **Generated**: 2026-06-18
-
 ### ✓ DONE 2026-06-18: Deep review topics/the-steelman-for-process-monism.md (fresh create 2026-06-18, never deep-reviewed; fresh-create defect tail)
 - **Type**: deep-review
 - **Status**: done — SUPERSEDED by same-cycle cycle-slot deep-review (reviews/deep-review-2026-06-18-the-steelman-for-process-monism). All citations web-verified at publisher (Ṣadrā SEP + SN 12.61 + Whitehead 1929/1978 + Paṭṭhāna), Mode Three steelman-then-decline confirmed, calibration-refine intact (anchoring flags 0). No re-review needed.
@@ -1082,6 +1074,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-18: Reciprocal cross-link repair within the free-will / libertarian-agency cluster
+- **Type**: integrate-orphan
+- **Notes**: From optimistic-review 2026-06-18e (reviews/optimistic-2026-06-18e.md). The 7-article free-will cluster is calibration-exemplary but has a few missing reciprocal cross-links. **VERIFY-FIRST / corrected state** (the optimistic-review subagents OVERSTATED this as a full bidirectional gap; orchestrator grep-corrected): `concepts/control-theoretic-will.md` ALREADY links to `topics/volitional-control.md` in-body (line ~78, veto/"whether"-model passage) — do NOT re-add that direction. Genuine missing reciprocals (each grep-verified 0 as of 2026-06-18): (1) `topics/volitional-control.md` → `[[control-theoretic-will]]` (add the back-link — they form a "does consciousness cause action?" → "in what form?" progression; natural in Further Reading or the mechanism section); (2) `concepts/moral-responsibility.md` → `[[volitional-control]]` (the "whether"-decision locus of agent-causal control is the empirical ground for desert); (3) `concepts/luck-objection.md` → `[[volitional-control]]` (the phenomenology-of-effort grounding the selection reply is empirically anchored there). Mechanical link repair, NO new prose claims (wikilink-ify existing mentions or add a short connective clause + related_articles); verify each target file exists before adding (archival_link_rot); bump ai_modified, NOT last_deep_review. Length-neutral. ai_contribution=100.
 
 ### ✓ 2026-06-18: Fix inexact parent-article quote + re-scope "completing the series" framing in topics/tactile-consciousness-and-the-interface.md
 - **Type**: refine-draft

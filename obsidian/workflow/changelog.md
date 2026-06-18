@@ -5,6 +5,18 @@ ai_modified: 2026-06-18T13:15:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-18T21:15:31+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/neurophenomenology-and-contemplative-neuroscience]]
+- **Word count**: 3031 → 3031 (no change; converged, length-neutral at 121% soft)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (ratify-not-re-edit; the genuine body change was the 06-18 refine resolving the dangling Sandved-Smith ref into the body — verified, not re-edited)
+- **Citation web-verify**: Sandved-Smith et al. (2025), *Neuroscience of Consciousness* 2025(1) niaf016 — real-correct at Oxford Academic + PubMed (PMID 40799210); body characterization faithful. All other cites converged-verified on 2026-06-04. Footnote integrity: 15/15 inline↔def, no orphans.
+- **Engagement modes**: illusionism (Dennett/Frankish) — Mixed (Mode One regress + Mode Two empirical); materialist causal-pathway — Mode Three. Unchanged, no label leakage, no cliché.
+- **Drift**: light-but-genuine — body changed since 06-04 only via the 06-06 cross-link refine + 06-18 dangling-ref-resolution + prose tightening; eighth review, converged
+- **Output**: [[reviews/deep-review-2026-06-18-neurophenomenology-and-contemplative-neuroscience]]
+
 ## 2026-06-18T19:59:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/quantum-biology-and-neural-mechanisms]]

@@ -4,7 +4,7 @@ description: "Varela's research program integrating first-person phenomenology w
 created: 2026-01-14
 modified: 2026-03-26
 human_modified: null
-ai_modified: 2026-06-18T15:53:52+00:00
+ai_modified: 2026-06-18T21:15:31+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ author: Andy Southgate
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-06-04T09:52:49+00:00
+last_deep_review: 2026-06-18T21:15:31+00:00
 coalesced_from:
   - "/concepts/neurophenomenology/"
   - "/concepts/contemplative-neuroscience/"
