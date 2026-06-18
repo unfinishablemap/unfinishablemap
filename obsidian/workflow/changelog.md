@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18 00:38:53+00:00
+ai_modified: 2026-06-18 01:48:09+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-18T01:48:09+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/empirical-evidence-for-consciousness-selecting]]
+- **Original score**: stable 5th-review article, no critical defect (per [[reviews/pessimistic-2026-06-18-empirical-evidence-for-consciousness-selecting]])
+- **Changes**: (a) softened over-claim "Nature proved it wrong." → "Nature showed otherwise in specific evolved systems." (Occam's-Limits paragraph) — removes the strong/equivocal register the article avoids elsewhere; (b) added a falsifiability-framing sentence to "What Would Weaken the Case" distinguishing "what makes a rival more attractive" from "what would falsify this hypothesis directly," conceding direct falsifiers are thin at framework stage (strengthens honesty). Finding (b) offset to length-neutral: trimmed verbose phrasing across the convergence paragraphs, Schwartz/Rajan/Desmurget/Sjöberg neurological passages, the cryptochrome/Craddock/Tegmark quantum-bio passages, and the opening — no argument content removed.
+- **Word count**: 2956 → 2956 (net length-neutral; held at the 44-word-headroom hard ceiling, status ok, under 3000 topic soft threshold)
+- **Not re-flagged** (deep-review 2026-06-16 stability ledger): MWI dismissal (Tenet-4 bedrock), inherent falsifiability gap as a defect, "categorical objection has collapsed" heading (deliberate Map position), convergence-table calibration, Nagarjuna no-self (out of scope)
+- **Published**: yes
 
 ## 2026-06-18T01:00:00+00:00 - pessimistic-review
 - **Status**: Success
