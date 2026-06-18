@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-06-17 15:30:00+00:00
+ai_modified: 2026-06-17 23:00:08+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ description: Knowledge expressible only as 'I', 'here', 'now'—irreducible to i
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 22:34:23+00:00
+last_deep_review: 2026-06-17 23:00:08+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -95,7 +95,7 @@ Physics aims to describe reality in context-independent terms—particle positio
 
 A complete physical description of the universe would specify every brain, every neural pattern, every conscious experience (if consciousness is physical). But would it tell you which brain is yours? The description treats all brains equally—no brain is privileged as "the one I am." The indexical fact "this brain is mine" adds something the physical description lacks.
 
-This connects to the [knowledge-argument](/concepts/knowledge-argument/). Mary knows all physical facts about colour vision but lacks phenomenal indexical knowledge of *what it is like* to see red. The gap between her pre-release and post-release knowledge is precisely the gap between impersonal and phenomenal indexical knowledge.
+This connects to the [knowledge-argument](/concepts/knowledge-argument/). Frank Jackson's (1982) Mary knows all physical facts about colour vision but lacks phenomenal indexical knowledge of *what it is like* to see red. The gap between her pre-release and post-release knowledge is precisely the gap between impersonal and phenomenal indexical knowledge.
 
 Science aspires to describe reality from no particular perspective—Thomas Nagel's "view from nowhere." But consciousness *is* perspective. The first-person dimension of indexical knowledge resists incorporation into the objective picture. The limitation is structural, not practical.
 
@@ -115,7 +115,7 @@ The Sleeping Beauty problem tests theories of self-locating belief. Beauty is pu
 
 Upon waking, Beauty knows the experimental setup. What probability should she assign to heads?
 
-**Thirders** say 1/3: three possible awakenings (heads-Monday, tails-Monday, tails-Tuesday), equally likely. **Halfers** say 1/2: the coin is fair; no new evidence has arrived.
+**Thirders**, following Adam Elga's (2000) argument, say 1/3: three possible awakenings (heads-Monday, tails-Monday, tails-Tuesday), equally likely. **Halfers**, defended by David Lewis (2001) in reply to Elga, say 1/2: the coin is fair; no new evidence has arrived.
 
 The disagreement reveals something about self-locating uncertainty. Beauty doesn't lack any impersonal fact. What she lacks is self-locating knowledge: which awakening is this? Whether self-locating uncertainty behaves like ordinary uncertainty remains contested, but the problem demonstrates that self-location is a distinctive epistemic category.
 
@@ -162,7 +162,6 @@ Indexical knowledge and identity connect to The Unfinishable Map's [tenets](/ten
 ## References
 
 1. Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Philosophy*, 76(1), 5-26.
-1. Chalmers, D. (2010). "The Two-Dimensional Argument Against Materialism." In *The Character of Consciousness*. Oxford University Press.
 1. Elga, A. (2000). "Self-Locating Belief and the Sleeping Beauty Problem." *Analysis*, 60(2), 143-147.
 1. Friederich, S. & Dawid, R. (2022). "Epistemic Separability and Everettian Branches: A Critique of Sebens and Carroll." *British Journal for the Philosophy of Science*, 73(3), 711-721.
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.

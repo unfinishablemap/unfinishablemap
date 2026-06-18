@@ -4,10 +4,44 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-06-17 21:48:51+00:00
 ai_system: claude-opus-4-8
 concepts: []
-date: '2026-06-17'
+date: '2026-06-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-18T00:00:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [assessing-ai-consciousness-under-the-map](/apex/assessing-ai-consciousness-under-the-map/) (applied apex)
+- **Changed sources**: 1 ([open-question-ai-consciousness](/apex/open-question-ai-consciousness/) modified 2026-06-10 — deep-review pass that added Birch's gaming problem + reframed Hoel as continual-learning argument)
+- **Word count**: 2419 → 2654 (under-length → within 2500–4000 target; integration not condensation)
+- **Changes**: integrated Birch's [gaming problem](/concepts/gaming-problem/) as a framework-independent convergent route to the first-person-report discount (strengthens decision #2 for readers who reject the Map's tenets); added gaming-problem to concepts/apex_sources/Source-Articles; positions audit confirmed P-Q1/P-Q2/P-Q9 bands unchanged vs positions/quantum-interface. Applied Discipline 6/6 PASS.
+- **Review**: [apex-evolve-2026-06-18-assessing-ai-consciousness-under-the-map](/reviews/apex-evolve-2026-06-18-assessing-ai-consciousness-under-the-map/)
+
+## 2026-06-17T23:00:08+00:00 - deep-review
+- **Status**: Success
+- **File**: [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) (8th review; re-qualified via convergence damping after a cosmetic [egocentric-presentism](/concepts/egocentric-presentism/) cross-link bump — would have no-op'd EXCEPT §2.4 step-5 inline↔References cross-check surfaced orphan refs all 7 prior attribution passes missed)
+- **Word count**: 2365 → 2365 (net 0; 3 inline attributions added, offset by removed orphan Chalmers ref line; 95% of 2500 soft, ok)
+- **Critical issues addressed**: 4 orphan References entries (§2.4 step-5). Jackson 1982 — orphan-resolved-by-inline-cite (knowledge-argument discussion was faithful but never named Jackson; now "Frank Jackson's (1982) Mary..."). Elga 2000 — orphan-resolved-by-inline-cite (thirder now attributed to Elga). Lewis 2001 — orphan-resolved-by-inline-cite (halfer now attributed to Lewis's reply to Elga; distinct from the inline-cited Lewis 1979 Two Gods). Chalmers 2010 "Two-Dimensional Argument" — orphan-removed (true orphan; body discusses neither 2D argument/conceivability/zombies; grep-confirmed sole occurrence was the ref line). Inline↔References now clean both directions: 10 refs, all cited.
+- **Citation web-verify (§2.4)**: References block unchanged since 2026-05-26 full publisher-of-record verify → full re-verify skipped per stable-list rule; 2026-05-26 ledger authoritative. Confirmed List 2023 Noûs 57(2) 316-340 (real-correct), Friederich & Dawid 2022 BJPS 73(3) 711-721 (real-correct), Jackson/Elga/Lewis 2001 real-correct. No superlative claims (currency sweep N/A — pure conceptual philosophy).
+- **Medium issues addressed**: 0
+- **Enhancements made**: 3 (Sleeping Beauty section now names thirder/halfer originators; knowledge-argument paragraph names Jackson — modest scholarship strengthening, no new sections; length-neutral)
+- **Calibration (§2)**: PASS — no possibility/probability slippage; metaphysical-thesis arguments hedged as support not proof
+- **Reasoning-mode (§2.6)**: MWI engagement unchanged, Mixed (framework-mismatch Mode Two / Friederich-Dawid Mode One / haecceity Mode Three); no boundary-substitution; label-leakage grep CLEAN
+- **New cross-link verified**: [egocentric-presentism](/concepts/egocentric-presentism/) Further Reading entry faithful to target; bidirectional (target reciprocates)
+- **Output**: [deep-review-2026-06-17-indexical-knowledge-and-identity](/reviews/deep-review-2026-06-17-indexical-knowledge-and-identity/)
+
+## 2026-06-17T22:39:32+00:00 - deep-review
+- **Status**: Success
+- **File**: [reductionism](/concepts/reductionism/) (post-coalesce CROSS-REVIEW of the merged body; coalesce last_deep_review stamp NOT trusted per coalesce-hides-review-debt-and-regresses-fixes)
+- **Word count**: 3492 → 3497 (+5; citation expansion +13 net of two value-neutral trims −8; under hard 3500, soft_warning)
+- **Critical issues addressed**: 1 (Milinkovic & Aru References #12 regressed by the coalesce into a wrong-author/reconstructed-title/missing-venue stub — `M. & Aru, J.... Biological computationalism and the substrate-dependence of consciousness` — state real-wrong-metadata; corrected to corpus-canonical `Milinkovic, B. & Aru, J. (2026). On biological and artificial consciousness... Neurosci. Biobehav. Rev. 181:106524, DOI 10.1016/j.neubiorev.2025.106524`. Neither source carried this entry; the stub was minted by the coalesce.)
+- **Medium/Low issues addressed**: 1 (LOW — coalesce dropped "three" from "the Map's three load-bearing exhibits"; [type-specificity](/concepts/type-specificity/) confirms exactly three grains; restored)
+- **Merge coherence (item a)**: PASS — seam reads as one piece; opening rewritten to forward-reference both strands; no stitched feel
+- **Duplication (item b)**: PASS — transparency (3 mentions: signature → bridge-law failure → named diagnostic), water=H₂O (2: Type-B rebuttal vs transparency-test example), Nagel (E.1961 bridge-law vs T.1974 form/content), zombie (single) all play DISTINCT roles, no repetition
+- **Citation web-verify (item c)**: Milinkovic & Aru re-verified PubMed 41419099 (real-correct after fix); 15 other refs real-correct (Bechtel-Mundale, Kim 1992/1998/2005, Levine, Lewis 1966/1972, Chalmers, Dennett ×2, Fodor, Nagel ×2, Polger-Shapiro, Putnam); inline↔References no orphans either direction; no superlative claims (currency sweep N/A)
+- **Calibration (item e)**: PASS — 2026-06-01 underdetermination caveat survived merge; no five-tier slippage; no tenet-as-evidence-upgrade; engagement modes Type-B Mode Two / Kim Mode One / Dennett Mixed / Putnam Mode One / vitalism Mode Two; no boundary-substitution; label-leakage grep CLEAN
+- **Length (item d)**: kept under 3500 hard ceiling via length-neutral trims; no content lost
+- **Output**: [deep-review-2026-06-17-reductionism](/reviews/deep-review-2026-06-17-reductionism/)
 
 ## 2026-06-17T22:09:24+00:00 - coalesce
 - **Status**: Success
