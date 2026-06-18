@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-18T07:50:04.370390+00:00'
-session_count: 11781
+last_updated: '2026-06-18T07:56:29.828098+00:00'
+session_count: 11782
 cycle_position: 9342
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-18T04:06:57.563543+00:00'
   refine-draft: '2026-06-18T06:40:02.862943+00:00'
   research-topic: '2026-06-18T02:23:51.880961+00:00'
-  replenish-queue: '2026-06-18T07:46:54.978424+00:00'
+  replenish-queue: '2026-06-18T07:56:29.828098+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-18T03:02:53.303844+00:00'
   add-highlight: '2026-06-17T08:04:22.798348+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-18'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-18'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-18'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-18'
   outcome: success
 agentic_social:
@@ -1049,16 +1049,16 @@ queue_status:
     263/300, positions 4/80, voids 101/100 over cap. (4) staleness 0 - only >30d items
     are 3 positions domain files with last_deep_review never, but those are positions-evolve
     targets (ran 06:54) not deep-review staleness; cycle-slot deep-review ran 07:14
-    covers content. (5) orphans 0 (quality.orphaned_files). (6) length 0 NEW - 27 content-article
-    offenders all carry standing dispositions; the 3 worst are blocked or veto-tagged
-    or index hubs (epistemology-of-convergence 6479w STANDING HUMAN LENGTH DECISION
-    in Blocked, phenomenal-output 6832w veto plus Blocked, apex-articles 7238w index
-    register not prose); the rest are human-deferred calibration flagships (born-rule,
-    laws-and-dispositions, clinical-dissociation, time-collapse), recently git-condensed,
-    or marginal over-soft voids hubs not worth churn. (7) positions only 4 entries
-    (<10 audit floor), positions-evolve ran 06:54, no new 7a or 7b implied. (8) applied-apex
-    0 (no approved slot). needs_replenishment false. At-floor steady state with 1 organic
-    pickable task.'
+    covers content. (5) orphans 0 (quality.orphaned_files). (6) length 0 NEW - 27
+    content-article offenders all carry standing dispositions; the 3 worst are blocked
+    or veto-tagged or index hubs (epistemology-of-convergence 6479w STANDING HUMAN
+    LENGTH DECISION in Blocked, phenomenal-output 6832w veto plus Blocked, apex-articles
+    7238w index register not prose); the rest are human-deferred calibration flagships
+    (born-rule, laws-and-dispositions, clinical-dissociation, time-collapse), recently
+    git-condensed, or marginal over-soft voids hubs not worth churn. (7) positions
+    only 4 entries (<10 audit floor), positions-evolve ran 06:54, no new 7a or 7b
+    implied. (8) applied-apex 0 (no approved slot). needs_replenishment false. At-floor
+    steady state with 1 organic pickable task.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0

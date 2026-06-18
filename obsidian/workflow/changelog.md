@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18T06:48:49+00:00
+ai_modified: 2026-06-18T07:59:59+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-18T07:59:59+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/four-quadrant-dualism-taxonomy]]
+- **Original score**: ~9/10 (mature, 5 deep-reviews; pessimistic 2026-06-18 found 0 critical, 2 medium)
+- **Changes**: Addressed both MEDIUM findings from [[reviews/pessimistic-2026-06-18-four-quadrant-dualism-taxonomy]] plus 2 optional counterargument closes. (1) Scoped the discrimination claim to *heuristic* not *definitional* in §"The Two Axes" reply and the §"Why the Thickness Axis Matters" opener — the axis surfaces a question the relation-type taxonomies cannot pose (answers the "merely a re-parameterisation of Type-F/Type-E" skeptic by criterion-status: it cuts across the relation-type partition rather than re-labelling it), rather than sorting by a sharp criterion. (2) Reordered §Q4 emptiness so the genuine explanatory-cost reason leads and the disciplinary-preference observation follows as secondary; replaced the bare "is sociological" assertion with "partly a real cost, partly a disciplinary preference, in that order of weight" — removes the explain-away-by-impugning-motives reading and the uncited "sociological" claim. (3) Optional: added an MWI scope note to the §"The Four Quadrants" head (grid presupposes a mind–matter relation MWI declines; case against MWI made on own grounds, [[many-worlds-argument]] verified live) — pre-empts the question-begging-scope charge. (4) Optional: added a sentence in §"Relation to Site Perspective" noting the "region, not a cell" interior depends on Q1 being a genuine quadrant per [[articulability-of-q1]] (verified live) — makes the latitude-dependency honest. Softened intro "training reads parsimony as virtue" → "tends to read parsimony as a virtue" plus a cost clause. Preserved all existing hedging and tenet integration; no mode-label leakage; no "This is not X. It is Y." cliché.
+- **Engagement classification**: §Q4 / MWI scope note — Mode Three (framework-boundary marking: MWI's exclusion is noted as a scope decision turning on the mind–matter-relation presupposition, with the substantive case deferred to [[many-worlds-argument]], not dressed as refutation within the taxonomy).
+- **Length**: body 3306 → 3699 words (soft_warning unchanged; 301 under 4000 hard ceiling)
+- **Published**: yes
 
 ## 2026-06-18 - pessimistic-review
 - **Status**: Success
