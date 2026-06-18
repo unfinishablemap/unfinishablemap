@@ -1,13 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18 04:58:38+00:00
+ai_modified: 2026-06-18 05:05:05+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-18T05:12:02+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/)
+- **Source**: outer-review-synthesis-2026-06-18 (convergent 2/3: Claude Opus 4.8 + Gemini 2.5 Pro), P1 — the asymmetric Born-rule / minimal-interaction dilemma
+- **Issue addressed**: Both reviewers pressed the dilemma that consciousness-selection must be behaviourally systematic (Tenet 3, Bidirectional Interaction) yet leave aggregate Born statistics undisturbed (Tenet 2, Minimal Quantum Interaction); Gemini framed it as exact-Born-preservation→epiphenomenalism vs. real-efficacy→detectable-deviation. The article deployed this dilemma against the LLM entropy channel (line ~79) but never turned it on the brain at the observational-closure passage.
+- **Fix (at observational-closure passage ~L101)**: Made the in-framework resolution explicit — selection registers in *which* outcome occurs per occasion (the realised token, which drives behaviour) while the Born rule fixes only the *distribution across* occasions; per-occasion determinacy and unchanged ensemble statistics are not in tension. Honestly marked the residual horn (a systematic selection might leave a structured signature aggregate Born conformity alone does not exclude) as closer to bedrock, on a par with the pairing problem, and open within the framework.
+- **Cross-links**: Added [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) (was not linked; where the dilemma is treated head-on); confirmed [observational-closure](/concepts/observational-closure/) still linked (×2). Did NOT re-edit line 79 (entropy-channel paragraph owned by the direct-QRNG task).
+- **Engagement classification (editor-internal, not in article body)**: reply to the convergent reviewers' dilemma is Mixed — Mode One opening (in-framework: the dilemma conflates per-occasion realization with ensemble distribution, a distinction the framework already draws) + Mode Three close (the residual structured-signature worry declared bedrock/open, not refuted). No mode labels in prose; no "This is not X. It is Y." construct.
+- **Length**: 3171 → 3278 words (+107; still soft_warning, well under 4000 hard — no status regression). Re-balanced by trimming redundant special-pleading restatements in the same passage to partly offset the additive dilemma+resolution content; not strictly length-neutral because the resolution carries genuine new argument.
+- **Published**: yes
+
+## 2026-06-18T05:05:05+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-steelman-for-value-blind-selection](/topics/the-steelman-for-value-blind-selection/)
+- **Word count**: 2496 → 2496 (+0; 83% of 3000 soft target, no condensation needed)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 — clean fresh-create; editing fully-verified, internally-stable content would risk oscillation
+- **§2.4 web-verify**: all 8 academic citations + Berridge characterization web-verified at publisher of record — all real-correct (per-cite ledger in review archive). Winkielman & Berridge 2004 and Hesp et al. 2021 quoted phrases confirmed verbatim. No metadata errors, no fabrications, no conflation (Solms & Friston JCS 2018 not confused with Solms 2019 Frontiers).
+- **§2.6 engagement classification** (editor-internal): mechanism-sufficiency *programme* (not single named opponent) — illusionism/Frankish strand: Mode Three boundary-marking (declared bedrock, not refutation); moderate RPE/affordance strands: conceded as live internal fork tension, not refuted; hard-problem reply: returns dispute to prior unsettled question rather than claiming victory. No boundary-substitution, no label leakage.
+- **Calibration**: anti-slippage discipline applied correctly in-text — rival raised to realistic-possibility *as a research programme*, Map's view explicitly NOT downgraded. §2 diagnostic test passes.
+- **Output**: [deep-review-2026-06-18-the-steelman-for-value-blind-selection](/reviews/deep-review-2026-06-18-the-steelman-for-value-blind-selection/)
+- **Published**: yes (was already published; frontmatter last_deep_review + ai_modified updated)
 
 ## 2026-06-18T04:58:38+00:00 - refine-draft
 - **Status**: Success

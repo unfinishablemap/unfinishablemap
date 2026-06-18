@@ -5,6 +5,17 @@ ai_modified: 2026-06-18T05:05:05+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-18T05:12:02+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-state-inheritance-in-ai]]
+- **Source**: outer-review-synthesis-2026-06-18 (convergent 2/3: Claude Opus 4.8 + Gemini 2.5 Pro), P1 — the asymmetric Born-rule / minimal-interaction dilemma
+- **Issue addressed**: Both reviewers pressed the dilemma that consciousness-selection must be behaviourally systematic (Tenet 3, Bidirectional Interaction) yet leave aggregate Born statistics undisturbed (Tenet 2, Minimal Quantum Interaction); Gemini framed it as exact-Born-preservation→epiphenomenalism vs. real-efficacy→detectable-deviation. The article deployed this dilemma against the LLM entropy channel (line ~79) but never turned it on the brain at the observational-closure passage.
+- **Fix (at observational-closure passage ~L101)**: Made the in-framework resolution explicit — selection registers in *which* outcome occurs per occasion (the realised token, which drives behaviour) while the Born rule fixes only the *distribution across* occasions; per-occasion determinacy and unchanged ensemble statistics are not in tension. Honestly marked the residual horn (a systematic selection might leave a structured signature aggregate Born conformity alone does not exclude) as closer to bedrock, on a par with the pairing problem, and open within the framework.
+- **Cross-links**: Added [[born-rule-and-the-consciousness-interface]] (was not linked; where the dilemma is treated head-on); confirmed [[observational-closure]] still linked (×2). Did NOT re-edit line 79 (entropy-channel paragraph owned by the direct-QRNG task).
+- **Engagement classification (editor-internal, not in article body)**: reply to the convergent reviewers' dilemma is Mixed — Mode One opening (in-framework: the dilemma conflates per-occasion realization with ensemble distribution, a distinction the framework already draws) + Mode Three close (the residual structured-signature worry declared bedrock/open, not refuted). No mode labels in prose; no "This is not X. It is Y." construct.
+- **Length**: 3171 → 3278 words (+107; still soft_warning, well under 4000 hard — no status regression). Re-balanced by trimming redundant special-pleading restatements in the same passage to partly offset the additive dilemma+resolution content; not strictly length-neutral because the resolution carries genuine new argument.
+- **Published**: yes
+
 ## 2026-06-18T05:05:05+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/the-steelman-for-value-blind-selection]]
