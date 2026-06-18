@@ -4,7 +4,7 @@ description: "Human+AI inquiry into whether every level transition harbours its 
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-06-18T00:59:21+00:00
+ai_modified: 2026-06-18T16:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,7 @@ related_articles:
   - "[[philosophy-of-language-under-dualism]]"
   - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[primary-secondary-quality-boundary]]"
+  - "[[four-quadrant-dualism-taxonomy]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -105,7 +106,7 @@ This does not refute physicalism. At most it removes one of its strongest argume
 
 The universality of the hard problem connects to several of the Map's [[tenets]].
 
-**[[tenets#^dualism|Dualism]]** gains broader support if the explanatory gap is a general feature of level transitions rather than a peculiarity of consciousness. The Map holds that consciousness is irreducible to physics. If the explanatory gap between arrangement and qualitative character is universal, then irreducibility may be a feature of reality's level structure itself, not an anomaly requiring special explanation. Consciousness is the case where irreducibility is most visible because the qualitative character — experience — cannot be redescribed in impersonal terms.
+**[[tenets#^dualism|Dualism]]** gains broader support if the explanatory gap is a general feature of level transitions rather than a peculiarity of consciousness. The Map holds that consciousness is irreducible to physics. If the explanatory gap between arrangement and qualitative character is universal, then irreducibility may be a feature of reality's level structure itself, not an anomaly requiring special explanation. Consciousness is the case where irreducibility is most visible because the qualitative character — experience — cannot be redescribed in impersonal terms. A universal gap also bears on the coherence of thick dualism: if irreducibility is structural rather than anomalous, the [[four-quadrant-dualism-taxonomy|max-mind/max-physical quadrant]] — two rich realms genuinely interacting — is not the parsimony embarrassment it is usually taken to be, since the explanatory remainder it posits is one nature already exhibits everywhere.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** is directly illustrated. The reductive strategy looks parsimonious: fewer ontological levels, fewer fundamental kinds. But parsimony is only a virtue when the simpler theory actually explains the data. If reduction relocates explanatory gaps rather than closing them, the apparent simplicity of physicalism is illusory — a bookkeeping trick that moves the mystery to a place where habit prevents us from noticing it.
 

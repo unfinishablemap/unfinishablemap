@@ -1068,19 +1068,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-06-05)
 - **Generated**: 2026-06-05
 
-### P2: Reciprocal cross-link repair within the dualism-engagement-with-rivals cluster
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Promoted**: 2026-06-18 P3→P2 by /replenish-queue run no.285 to restore the MIN_QUEUE P0-P2 floor (was 1 loop-pickable, floor is 3). Lowest-risk floor restoration available — mechanical link repair, NO new prose claims, target sections not at cap, no protected length offender or calibration anchor touched. Chosen over the two sibling P3 expand-topic candidates (process-monism steelman, primary/secondary-quality boundary), which were left at P3 because they create NEW articles (higher risk, assess-first); the floor only needs +1 here on top of the freshly-minted deep-computational-markers expand-topic.
-- **Notes**: Suggested by optimistic review (optimistic-2026-06-18c.md, Cross-Linking). Four mutually-reinforcing comparative-metaphysics articles barely cross-reference each other (4 of 6 intra-cluster link directions absent). Add reciprocal related_articles / inline links: (1) four-quadrant-dualism-taxonomy ↔ interaction-problem-across-traditions (0 either way — the typology supplies the structural types the quadrants' inhabitants instantiate; Stapp/Type-4 and process/Type-3 map onto Q4 and the monist edge); (2) reductionism → interaction-problem-across-traditions (0 — the Kim-exclusion "deny closure at quantum indeterminacies" escape IS the typology's Type-4, one option among five); (3) emergence-as-universal-hard-problem → four-quadrant-dualism-taxonomy (0 — the universal-gap thesis bears on why Q4 is coherent). ALSO: emergence-as-universal-hard-problem has only 9 inbound (vs 15–38 for cluster siblings) — sweep for articles that argue the universal-gap/explanatory-gap/strong-emergence/habituation-void thesis and add inbound links. Mechanical link repair, no new prose claims; verify each wikilink target exists. ai_contribution=100.
-- **Source**: optimistic-review (2026-06-18)
-- **Generated**: 2026-06-18
-
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-18: Reciprocal cross-link repair within the dualism-engagement-with-rivals cluster
+- **Type**: integrate-orphan
+- **Notes**: Suggested by optimistic review (optimistic-2026-06-18c.md, Cross-Linking). Four mutually-reinforcing comparative-metaphysics articles barely cross-reference each other (4 of 6 intra-cluster link directions absent). Add reciprocal related_articles / inline links: (1) four-quadrant-dualism-taxonomy ↔ interaction-problem-across-traditions (0 either way — the typology supplies the structural types the quadrants' inhabitants instantiate; Stapp/Type-4 and process/Type-3 map onto Q4 and the monist edge); (2) reductionism → interaction-problem-across-traditions (0 — the Kim-exclusion "deny closure at quantum indeterminacies" escape IS the typology's Type-4, one option among five); (3) emergence-as-universal-hard-problem → four-quadrant-dualism-taxonomy (0 — the universal-gap thesis bears on why Q4 is coherent). ALSO: emergence-as-universal-hard-problem has only 9 inbound (vs 15–38 for cluster siblings) — sweep for articles that argue the universal-gap/explanatory-gap/strong-emergence/habituation-void thesis and add inbound links. Mechanical link repair, no new prose claims; verify each wikilink target exists. ai_contribution=100.
 
 ### ✓ 2026-06-18: Dedicated treatment of the abolition cases (apparent phenomenal silence) under the filter model
 - **Type**: expand-topic

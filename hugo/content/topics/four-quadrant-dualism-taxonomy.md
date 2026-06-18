@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-06-18 13:05:00+00:00
+ai_modified: 2026-06-18 16:49:06+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -40,6 +40,7 @@ related_articles:
 - '[[born-rule-violation-brain-interface-empirical-status-2026-04-23]]'
 - '[[interface-formalization-void]]'
 - '[[the-steelman-for-process-monism]]'
+- '[[interaction-problem-across-traditions]]'
 title: The Four-Quadrant Taxonomy of Dualist Positions
 topics:
 - dualism
@@ -131,7 +132,7 @@ Q4 is under-discussed in contemporary analytic philosophy. The first and weighti
 
 The dominant taxonomies (substance vs property; Type-D / Type-E / Type-F) organise dualism by the *kind* of mind–matter relation. Two positions that agree on kind can disagree sharply on thickness — and their implications for consciousness science, for interaction, and for what we should expect to find empirically may then diverge. The axis earns its keep as a heuristic: it surfaces a question the relation-type taxonomies do not pose, even where the placement of any given position on it remains a judgement call (the §"Limits of the Thickness Metaphor" above concedes that the measure conflates four distinguishable dimensions and that some placements are made by judgement rather than definition). The pay-off below is that question-surfacing power, not a claim to sort positions by a criterion sharper than the relation-type line.
 
-Stapp is perhaps the cleanest illustration. His view is interactionist (Type-D by relation), but the thickness axis seems to separate two features of his account that are usually conflated: the *intervention channel* is minimal (quantum-Zeno biasing only), while the *observer itself* appears ontologically thick. "Minimal intervention" and "rich mind" are not the same dimension, and reading Stapp as minimal on both axes misses half the structure.
+Stapp is perhaps the cleanest illustration. His view is interactionist (Type-D by relation), but the thickness axis seems to separate two features of his account that are usually conflated: the *intervention channel* is minimal (quantum-Zeno biasing only), while the *observer itself* appears ontologically thick. "Minimal intervention" and "rich mind" are not the same dimension, and reading Stapp as minimal on both axes misses half the structure. The quadrants' inhabitants instantiate structural types that recur across traditions: the [five structural types of interaction solution](/topics/interaction-problem-across-traditions/) supply the interface logic these positions adopt — Stapp's narrow-channel/thick-endpoints account sits in the quantum-openings (Type-4) family at Q4, while process positions sit in the dissolution-through-process (Type-3) family at the monist edge.
 
 The axis also explains a pattern in the literature. Q1 promises minimal commitments on both sides but faces articulation pressure — a biasing mechanism seems to require either more mind than Q1 concedes or more physics than standard quantum mechanics allows. Q2 is the default reflex for contemporary philosophers who treat physical ontology as fixed by science and mental ontology as the contested addition. Q3 tends to slide toward idealism once the mental carries all the ontological work. Q4 is under-discussed partly because maximum commitments on both sides do carry real parsimony costs, and partly because training conventions reinforce the sense that those costs are decisive. The thickness axis makes explicit what adjacent classifications — Chalmers' distinction between rich and austere Type-F positions (2003), Goff's 'rich' vs 'austere' panpsychism (2017), Pereboom-style worries about qualitative inertness — only partially track.
 

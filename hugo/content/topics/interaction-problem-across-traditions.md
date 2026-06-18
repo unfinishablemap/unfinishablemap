@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-06-18 12:35:00+00:00
+ai_modified: 2026-06-18 16:49:06+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -37,6 +37,7 @@ related_articles:
 - '[[consciousness-as-perceptual-architect]]'
 - '[[dualist-perception]]'
 - '[[the-steelman-for-process-monism]]'
+- '[[four-quadrant-dualism-taxonomy]]'
 title: The Interaction Problem Across Philosophical Traditions
 topics:
 - '[[history-of-the-interaction-problem]]'
@@ -92,7 +93,7 @@ A distinctively modern family of solutions locates the mind-body interface at po
 
 **[Stapp's quantum Zeno approach](/concepts/stapp-quantum-mind/)** holds that mental attention acts like rapid quantum observation, "freezing" desired neural patterns by preventing decoherence. **Penrose-Hameroff's Orch OR** proposes that consciousness originates in quantum computations within microtubules, with gravitational self-collapse generating moments of conscious experience. **Beck and Eccles** located mental influence at the synaptic level, where quantum tunnelling probabilities in vesicle release could be biased by consciousness.
 
-These proposals share a crucial structural feature with non-contact solutions (Type 2): consciousness *selects* among possibilities rather than *injecting* force. The difference is that quantum approaches ground this selection in the [measurement-problem](/concepts/measurement-problem/)—the unsolved question of what determines which outcome actualises when physics specifies only probabilities. Where Sāṃkhya's reflection model offers a metaphor, quantum interactionism offers a mechanism—or at least the outline of one. The Many-Worlds interpretation avoids collapse entirely, eliminating the opening for [mental causation](/concepts/mental-causation-and-downward-causation/)—which is precisely why the Map [rejects it](/tenets/#no-many-worlds).
+These proposals share a crucial structural feature with non-contact solutions (Type 2): consciousness *selects* among possibilities rather than *injecting* force. The difference is that quantum approaches ground this selection in the [measurement-problem](/concepts/measurement-problem/)—the unsolved question of what determines which outcome actualises when physics specifies only probabilities. Where this structural typology sorts solutions by *interface logic*, the [four-quadrant taxonomy of dualist positions](/topics/four-quadrant-dualism-taxonomy/) sorts the same inhabitants by *how much ontological weight each side carries*: Stapp's quantum-Zeno account is Type-4 here and sits in the thick-mind/thick-physical quadrant there (narrow channel, rich endpoints), while the process dissolutions of Type 3 sit at the taxonomy's monist edge. Where Sāṃkhya's reflection model offers a metaphor, quantum interactionism offers a mechanism—or at least the outline of one. The Many-Worlds interpretation avoids collapse entirely, eliminating the opening for [mental causation](/concepts/mental-causation-and-downward-causation/)—which is precisely why the Map [rejects it](/tenets/#no-many-worlds).
 
 The quantum family inherits a distinctive weakness. The [decoherence](/concepts/decoherence/) objection argues that quantum coherence cannot survive in warm, wet neural tissue long enough for consciousness to exploit it. Responses exist—disputed timescale calculations (Hagan, Hameroff & Tuszyński (2002) found estimates seven orders of magnitude longer than Tegmark's), biological quantum effects demonstrated in other systems (avian magnetoreception), and the deeper point that decoherence does not determine which outcome actualises. The empirical question remains open. See [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) for why energy conservation does not block this approach.
 

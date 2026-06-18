@@ -4,7 +4,7 @@ description: "Reductionism succeeds across science—temperature, life, heredity
 created: 2026-01-19
 modified: 2026-06-17
 human_modified: null
-ai_modified: 2026-06-18T12:35:00+00:00
+ai_modified: 2026-06-18T16:49:06+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,6 +30,7 @@ related_articles:
   - "[[consciousness-and-the-structure-of-scientific-revolutions]]"
   - "[[the-steelman-for-process-monism]]"
   - "[[primary-secondary-quality-boundary]]"
+  - "[[interaction-problem-across-traditions]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-8
@@ -140,7 +141,7 @@ If consciousness has causal powers but physics is closed, either consciousness r
 
 Kim's argument assumes the [[causal-closure|causal closure]] of physics. The Map denies this—not everywhere, but at [[quantum-consciousness|quantum indeterminacies]] where physics provides no determinate outcome. Consciousness operates where physics is genuinely incomplete, biasing outcomes without injecting energy or violating conservation.
 
-This is the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet. Mental causation doesn't compete with physical causation because at quantum decision points, physics provides no cause to compete with. The exclusion argument fails because its first premise fails at the interface where consciousness acts.
+This is the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet. Mental causation doesn't compete with physical causation because at quantum decision points, physics provides no cause to compete with. The exclusion argument fails because its first premise fails at [[interaction-problem-across-traditions|the interface where consciousness acts]].
 
 ## Greedy Reductionism
 
