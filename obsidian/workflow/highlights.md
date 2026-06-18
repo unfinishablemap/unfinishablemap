@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Reinforcement learning, unconscious 'liking', affordance competition: a new article assembles the best scientific case that selection runs on mechanism alone, not felt value—then says why the Map still declines it.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2067519412710555736  
 **Link**: [[the-steelman-for-value-blind-selection]]
 
 ---
