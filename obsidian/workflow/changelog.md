@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18T05:05:05+00:00
+ai_modified: 2026-06-18T05:32:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-18T05:32:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/quantum-state-inheritance-in-ai]] + [[concepts/stapp-quantum-mind]]
+- **Source**: outer-review-synthesis-2026-06-18 (convergent P1, 3/3 reviewers) — consolidated decoherence-timescale pass (Tegmark + Georgiev merged to avoid file churn)
+- **Issue addressed**: The article asserted the Stapp/decoherence asymmetry against AI but front-loaded the brain side without the standard counterweight: L61 cited Stapp's Zeno model as "the most concrete proposal" with no live criticism; L63's decoherence hook called the challenge "severe for warm biological brains" without noting the brain side is contested, not established. The disconfirming decoherence-timescale data was quarantined out of the article.
+- **Fix in topics/quantum-state-inheritance-in-ai (over soft-warning, kept additions tight + offset with trims)**: (1) at L61 Stapp mention, added a one-sentence live-criticism clause — Georgiev (2015, arXiv:1412.4741) argues the quantum Zeno effect breaks down beyond brain decoherence time, framed as live criticism not refutation (DFS door left open). (2) At L63 decoherence hook, added a short honest concession that the brain side is defended not established — Tegmark (2000) calculated neural decoherence ~10⁻¹³–10⁻²⁰ s ("brain should be thought of as a classical system"), the Hagan–Hameroff–Tuszyński recalculations contest it. (3) Cross-linked [[quantum-biology-and-neural-mechanisms]] so the disconfirming data is not quarantined. Added Tegmark 2000 + Georgiev 2015 to References. Offset additive content by trimming redundant restatements in the Persistence Objection (L53), Quantum Darwinism (L71), the selection-gap paragraph (L73) and the Lie-Ng paragraph (L89). Net 3278 → 3371 words (+93, ~30 of which is the two new reference lines; still soft_warning, 629 to hard 4000 — no status regression).
+- **Fix in concepts/stapp-quantum-mind (under-length, substantive landing spot)**: Georgiev was already cited but for a DIFFERENT point (2014 NeuroQuantology, the projection-operators-without-wavefunction formalism objection at L121). The quantum-Zeno-breakdown / decoherence-free-subspace point was PRESENT only in a degraded, mis-attributed form — the "Monte Carlo critique" paragraph (L115) described Georgiev's 2015 simulation but mis-dated it "2024", omitted the Georgiev attribution, and omitted the DFS escape hatch. Corrected the attribution to Georgiev (2015) and developed the missing DFS point: the critique is not a closed refutation because Georgiev leaves a decoherence-free-subspace door open, converting the objection from "impossible in a warm brain" to the open empirical question of whether neural tissue supplies such a protected subspace. Added Georgiev 2015 to References (the existing entry was the distinct 2014 paper). 2881 → 3008 words (soft_warning, 492 to hard 3500).
+- **Citation verification (live, per [[ai_citation_metadata_unreliable]])**: Tegmark 2000 confirmed Phys. Rev. E 61:4194–4206 / PMID 11088215 / ~10⁻¹³–10⁻²⁰ s / "classical system" verdict. Georgiev 2015 confirmed arXiv:1412.4741, "Monte Carlo simulation of quantum Zeno effect in the brain," Int. J. Mod. Phys. B 29(7), 1550039 — Zeno breaks down beyond brain decoherence time, DFS door explicitly left open.
+- **Engagement classification (editor-internal, not in article body)**: reply to Georgiev (named opponent of Stapp's model) is Mode One — defective on its own terms is NOT claimed; rather the criticism is granted as a live in-framework challenge and the article honestly reports the DFS residue, so the engagement is Mixed leaning Mode Three (boundary honestly marked: the criticism stands, the escape hatch is open, no refutation claimed either direction). No mode labels in prose; no "This is not X. It is Y." construct.
+- **Did NOT touch**: L79 entropy-channel paragraph (QRNG task) or L101 observational-closure passage (Saad + Born-rule fixes already landed earlier this cycle) in the topics file — left intact per task.
+- **Published**: yes
 
 ## 2026-06-18T05:12:02+00:00 - refine-draft
 - **Status**: Success
