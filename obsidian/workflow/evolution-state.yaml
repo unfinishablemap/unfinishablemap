@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-18T11:46:06.466781+00:00'
-session_count: 11819
-cycle_position: 9358
+last_updated: '2026-06-18T11:54:31.156335+00:00'
+session_count: 11820
+cycle_position: 9359
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-18T07:42:25.606798+00:00'
@@ -24,9 +24,9 @@ last_runs:
   commission-gemini-review: '2026-06-18T04:06:57.563543+00:00'
   refine-draft: '2026-06-18T10:50:10.925495+00:00'
   research-topic: '2026-06-18T10:08:29.298830+00:00'
-  replenish-queue: '2026-06-18T11:46:06.466781+00:00'
+  replenish-queue: '2026-06-18T12:55:00+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
-  expand-topic: '2026-06-18T11:40:26.949920+00:00'
+  expand-topic: '2026-06-18T11:54:31.156335+00:00'
   add-highlight: '2026-06-18T08:09:22.456677+00:00'
   literature-drift-review: '2026-06-16T05:16:35.375066+00:00'
   collect-chatgpt-review: '2026-06-18T03:59:12.329417+00:00'
@@ -81,7 +81,7 @@ convergence_targets:
   max_critical_issues: 0
   max_medium_issues: 3
 progress:
-  topics_written: 269
+  topics_written: 270
   concepts_written: 265
   arguments_written: 5
   questions_written: 0
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-18'
-  outcome: success
 - task: research-topic
   type: research-topic
   date: '2026-06-18'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-18'
+  outcome: success
+- task: expand-topic
+  type: expand-topic
   date: '2026-06-18'
   outcome: success
 agentic_social:
@@ -1033,35 +1033,33 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-06-18T12:30:00+00:00'
+  last_replenishment: '2026-06-18T12:55:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-18 replenish run no.291 (standard) - PROMOTION-ONLY
-    floor restore (0 minted, 1 promoted): primary/secondary-quality-boundary expand-topic
-    P3->P2 (well-grounded optimistic-2026-06-18c gap; only galilean-exclusion exists
-    nearby, no dedicated secondary-qualities hub; topics 269/300; not vetoed). Floor
-    now at 3 loop-pickable P0-P2 (process-monism steelman expand + primary/secondary
-    expand + dualism-cluster cross-link-repair), 0 P3 remaining. All MINT sources
-    exhausted on fresh on-disk audit - unconsumed research drained (IWMT declined),
-    chains closed (both new articles well-integrated), staleness only contextual-selection
-    at 30d no-drift converged no-op, caps no fresh candidate, length all human-deferred
-    or calibration-protected, orphans 0. needs_replenishment false.'
+  current_replenishment_note: '2026-06-18 replenish run no.292 (standard) - FLOOR-RESTORING:
+    1 minted (P2 refine-draft ''Audit four-quadrant forward-refs to channel-width
+    axis'', optimistic-2026-06-18c Ideas-for-Later, length-neutral integration audit)
+    + closed stale 2026-03-29 process-philosophy P3 as SUPERSEDED (by today''s the-steelman-for-process-monism).
+    Floor at 3 P2 (primary/secondary-quality expand + dualism-cluster cross-link-repair
+    + four-quadrant audit), 0 P3. All mint-sources exhausted (unconsumed-research
+    drained, chains closed, staleness converged no-op). needs_replenishment false.
+    [note trimmed: fork re-appended to 2 refs]'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
     gap_analysis: 0
     length_analysis: 0
-    orphan_integration: 0
+    orphan_integration: 1
     positions: 0
     staleness: 0
     unconsumed_research: 0
-    promotion: 1
+    promotion: 0
   replenishment_source_counts:
     applied_apex: 0
     chain: 0
     gap_analysis: 0
     length_analysis: 0
-    orphan_integration: 0
+    orphan_integration: 1
     positions: 0
     staleness: 0
     unconsumed_research: 0
-    promotion: 1
+    promotion: 0
