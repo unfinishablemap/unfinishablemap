@@ -9,6 +9,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-18T19:10:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/tactile-consciousness-and-the-interface.md` (created 2026-06-16, fresh-create-defect-tail target, 0 prior reviews) — verdict: strong/clean on calibration + citations; 2 Low-Medium findings
+- **Findings**: (1) inexact verbatim quote of parent `dualist-perception` (drops "proprioceptive, vestibular", closes a mid-sentence quote); (2) "completing the perception-modality series" overclaims corpus closure (proprioception spun out; vestibular/thermal/interoception untreated). All 5 empirical citations web-verified clean (Gibson 1962, McGlone 2014, Botvinick & Cohen 1998, IASP 2020, C-tactile patient-G.L. dissociation). No label leakage, no boundary-substitution, no equivocation; 25/25 wikilinks resolve; 2827w under ceiling.
+- **Tasks queued**: 1 P2 refine-draft (both findings grep-verified, framed VERIFY-FIRST, length-neutral)
+- **Output**: [pessimistic-2026-06-18-tactile-consciousness](/reviews/pessimistic-2026-06-18-tactile-consciousness/)
+
 ## 2026-06-18T18:38:57+00:00 - deep-review
 - **Status**: Success (genuine drift ratified — verifying full pass, no new edits warranted)
 - **File**: [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/)
