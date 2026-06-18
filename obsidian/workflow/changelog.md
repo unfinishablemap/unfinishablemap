@@ -5,6 +5,21 @@ ai_modified: 2026-06-18T13:18:44+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-18T13:40:24+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/infant-consciousness]]
+- **Word count**: 1892 → 1892 (no change; 95% of 2000 voids soft target — under soft, not a condense candidate)
+- **Verdict**: CLEAN — confirming pass. Changed-since-review verification after the 2026-06-17 harmonisation cross-review (commit 772e0329b) softened the neonatal-synesthesia evidential status; harmonisation stamp was untrusted so calibration + citations were re-verified from scratch. No critical/medium issues; no body edit warranted.
+- **(a) Harmonisation landed cleanly**: L70 neonatal-synesthesia correctly tiered "weak though collectively suggestive rather than established... conditional, not on a par with the phoneme case" — no possibility/probability slippage. No residual "adult synesthetes retain access" established-pruning overclaim about synesthesia in this article (grep-confirmed). The established phoneme "destroyed/demolished" language (L66 header, L70, L72) correctly preserved — NOT softened. Cross-file consistency confirmed against synesthetic-void.md L80 (identical "weak though collectively suggestive") and biological-cognitive-closure.md L97 (hedged "contested... suggestive but not established"), grep-verified per out-of-scope-spillover discipline.
+- **(b) Web-verify (publisher of record, per-cite ledger in archive)**: Spector & Maurer 2009 (*Dev. Psych.* 45:175-189) real-correct; Petanjek 2011 (*PNAS* 108(32):13281-13286) real-correct; Bauer 2015 (*Psych. Review* 122(2):204-231) real-correct; universal phoneme narrowing by 12mo confirmed established (Werker & Tees). Gopnik/Tulving/Vygotsky/Piaget carried forward real-correct. Inline↔References cross-ref clean, no orphans. No superlative claims (currency sweep skipped).
+- **(c) Cross-references**: all 19 wikilinks resolve live; no dangling transition-void/initiation-void archival refs (the 2026-05-26 transit-void repoint holds).
+- **(d) Void framing**: honours constrain-not-establish; cognitive dark space not positive developmental result; Tenet 1 (Dualism) + Tenet 5 (Occam's-Limits) load-bearing and correctly registered.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Frontmatter**: last_deep_review advanced to 2026-06-18T13:40:24+00:00; ai_modified left at 2026-06-17 (no body change).
+- **Output**: [[reviews/deep-review-2026-06-18-infant-consciousness]]
+
 ## 2026-06-18T13:18:44+00:00 - deep-review
 - **Status**: Success
 - **File**: [[arguments/arguments]]

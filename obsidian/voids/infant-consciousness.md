@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-22
 last_curated:
-last_deep_review: 2026-05-26T06:53:08+00:00
+last_deep_review: 2026-06-18T13:40:24+00:00
 ---
 
 Every adult was once an infant — a conscious being without language, self-concept, or autobiographical memory. Yet that infant experience is more alien to us than the mind of another adult standing beside us. The Unfinishable Map catalogues cognitive voids: territories where thought cannot go. This void is unusual because it concerns not some external mystery but our own past. We have *been* the alien mind in question, and it remains more inaccessible than minds we have never inhabited.

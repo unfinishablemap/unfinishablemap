@@ -17,7 +17,7 @@ description: Human+AI exploration of why our own infant experience is more alien
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-26 06:53:08+00:00
+last_deep_review: 2026-06-18 13:40:24+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
