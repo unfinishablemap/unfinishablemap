@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-06-05 18:35:00+00:00
+ai_modified: 2026-06-18 20:56:03+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -36,6 +36,7 @@ related_articles:
 - '[[tenets]]'
 - '[[reasons-responsiveness]]'
 - '[[luck-objection-libertarian-free-will-2026-01-17]]'
+- '[[volitional-control]]'
 title: The Luck Objection to Libertarian Free Will
 topics:
 - '[[topics/free-will]]'
@@ -94,7 +95,7 @@ If selection is genuine, the luck objection fails. The agent explains the differ
 
 ### The Phenomenology of Effort
 
-The [phenomenology of effort](/concepts/mental-effort/) supports selection. If choices were random fluctuations, there would be no phenomenology of effort—random processes don't feel like work. But choosing feels effortful. The felt cost of concentration corresponds to real causal engagement via the [quantum Zeno effect](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp). Lucky events don't feel like achievements; selections do.
+The [phenomenology of effort](/concepts/mental-effort/) supports selection. If choices were random fluctuations, there would be no phenomenology of effort—random processes don't feel like work. But choosing feels effortful. The felt cost of concentration corresponds to real causal engagement via the [quantum Zeno effect](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp). Lucky events don't feel like achievements; selections do. This effort phenomenology is empirically anchored in the broader case for [volitional control](/topics/volitional-control/), where clinical dissociations and the neural signatures of willed action show the felt strain of effort tracking specific causal circuitry rather than floating free of it.
 
 ### Motor Selection: Corroboration
 
@@ -156,6 +157,7 @@ The luck objection directly challenges the Map's [Bidirectional Interaction](/te
 - [free-will](/topics/free-will/) — Broader treatment of free will and determinism
 - [agent-causation](/concepts/agent-causation/) — How agents cause actions as substances
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effort and quantum Zeno mechanism
+- [volitional-control](/topics/volitional-control/) — The empirical and phenomenological case anchoring the effort-tracks-selection reply to luck
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The broader framework for consciousness-physics interaction
 - [decoherence](/concepts/decoherence/) — The physics-based objection and quantum biology responses
 - [many-worlds](/concepts/many-worlds/) — Why MWI undermines the selection picture entirely

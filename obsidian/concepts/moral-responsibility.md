@@ -4,7 +4,7 @@ description: "How agent causation grounds genuine moral desert. Agents originate
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-06-18T20:56:03+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -26,6 +26,7 @@ related_articles:
   - "[[tenets]]"
   - "[[phenomenology-of-moral-life]]"
   - "[[evidential-status-discipline]]"
+  - "[[volitional-control]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -61,7 +62,7 @@ The *control* requirement—that the agent could have done otherwise—is ground
 Three features of this picture support genuine control:
 
 1. **Selection, not randomness**: The agent selects among open possibilities based on what matters to them—reasons, not dice rolls, shape the outcome
-2. **Phenomenology tracks causation**: The felt difficulty of choosing well corresponds to genuine causal engagement with alternatives
+2. **Phenomenology tracks causation**: The felt difficulty of choosing well corresponds to genuine causal engagement with alternatives — the [[volitional-control|empirical and phenomenological case for volitional control]] (clinical dissociations, the "whether"-decision circuitry, intentional binding) is the empirical ground on which agent-causal control, and so desert, stands
 3. **Two-domain evidence**: Both [[attention-as-interface|attention]] and [[motor-selection|motor control]] show parallel selection architecture, suggesting consciousness genuinely selects
 
 One proposed physical implementation is the [[quantum-indeterminacy-free-will#The Quantum Zeno Mechanism in Detail|quantum Zeno mechanism]], where sustained attention acts like repeated quantum measurement, stabilising selected neural patterns. This is speculative—it depends on disputed decoherence timescales and remains Stapp's hypothesis rather than established physics. But the philosophical case for agent-causal control does not depend on this particular mechanism. If quantum Zeno proves unworkable, the Map's position requires only that *some* physical process leaves room for consciousness to influence outcomes—a gap that quantum indeterminacy provides regardless of the specific mechanism. The two framings are not in tension: the philosophical case establishes what control *consists in*—reasons-guided selection among genuinely open possibilities—while the tenets require only that *some* unspecified physical process leave those possibilities open. The independence is therefore from any *specific* mechanism, not from physics as such; control's nature is mechanism-neutral, while control's possibility needs only that physical causation not be closed—itself a tenet commitment rather than a particular mechanism.
@@ -178,6 +179,7 @@ This framework respects the ordinary intuition that people deserve praise and bl
 - [[quantum-indeterminacy-free-will]] — How quantum indeterminacy supports libertarian free will and responds to luck
 - [[topics/free-will]] — The broader free will question and the Map's position
 - [[agent-causation]] — Agent vs. event causation in detail
+- [[volitional-control]] — The empirical and phenomenological case that the "whether"-decision is genuine conscious control — the desert-grounding locus
 - [[ethics-under-dualism]] — Consciousness as the foundation of moral status
 - [[mental-causation-and-downward-causation|mental causation]] — How consciousness can cause physical effects
 - [[illusionism]] — The eliminativist challenge and why it fails to undermine desert

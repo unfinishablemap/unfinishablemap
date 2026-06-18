@@ -3,7 +3,7 @@ title: "Volitional Control"
 created: 2026-03-20
 modified: 2026-05-18
 human_modified:
-ai_modified: 2026-06-04T13:20:00+00:00
+ai_modified: 2026-06-18T20:56:03+00:00
 draft: false
 description: "The experience of willing tracks real causal architecture, not post-hoc confabulation. Phenomenology and empirical evidence converge against epiphenomenalism."
 topics:
@@ -30,6 +30,7 @@ related_articles:
   - "[[empirical-evidence-for-consciousness-selecting]]"
   - "[[quantum-biology-and-neural-consciousness]]"
   - "[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]"
+  - "[[control-theoretic-will]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -102,7 +103,7 @@ Libet himself recognized that his experiments did not eliminate conscious causal
 - **When** (the timing of action) — supplementary motor area
 - **Whether** (to act or refrain) — dorsal fronto-median cortex (dFMC)
 
-The "whether" component is the most philosophically significant. When subjects intentionally inhibited a prepared action, Brass and Haggard observed specific activation in dFMC, which exerts top-down inhibition of premotor areas. This is not merely the absence of a go signal — it is an active neural process of cancellation, with its own distinct circuitry.
+The "whether" component is the most philosophically significant. When subjects intentionally inhibited a prepared action, Brass and Haggard observed specific activation in dFMC, which exerts top-down inhibition of premotor areas. This is an active neural process of cancellation, with its own distinct circuitry, rather than merely the absence of a go signal. In the [[control-theoretic-will|control-theoretic]] reading of will, this veto is an emergency-stop operation — a low-bandwidth signal that overrides a prepared trajectory — one of several distinct control operations consciousness performs over neural dynamics.
 
 Critics have objected that the veto itself must be unconsciously initiated, generating an infinite regress. But this objection assumes what it needs to prove — that every neural event must have a prior neural cause sufficient to explain it. The Map's framework offers an alternative it hypothesises rather than something it has shown empirically: the "whether" decision may be where [[consciousness-selecting-neural-patterns|consciousness selects among neural patterns]], biasing quantum-indeterminate outcomes toward one resolution rather than another. This is the *volitional modulation* mechanism in the Map's hypothesised four-mechanism architecture (see [[consciousness-and-causal-powers#Volitional Modulation]] for the framework-level calibration: the mechanism is offered at the speculative-integration evidential tier, with the underlying neural-timescale quantum-coherence requirement an open and contested empirical question). The veto does not require a prior unconscious veto because it operates at the [[attention-as-interface|interface]] where conscious selection meets neural preparation, on the Map's reading. For how this mechanism might work through the quantum Zeno effect applied to motor selection, see [[motor-control-quantum-zeno|Motor Control and the Quantum Zeno Framework]].
 
@@ -159,6 +160,7 @@ The **[[tenets#^occams-limits|Occam's Razor Has Limits]]** tenet is directly rel
 - [[agent-causation]] — The concept of agent causation
 - [[consciousness-selecting-neural-patterns]] — The consciousness-selecting hypothesis
 - [[attention-as-interface]] — Attention as the primary consciousness-brain interface
+- [[control-theoretic-will]] — Will as a low-bandwidth controller: the formal frame in which the conscious veto is one control operation among several
 - [[dopamine-and-the-unified-interface]] — Dopamine's preparatory role in the selection interface
 
 ## References
