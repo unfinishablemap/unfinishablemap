@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-18T13:37:11.726841+00:00'
-session_count: 11838
-cycle_position: 9364
+last_updated: '2026-06-18T13:42:51.369298+00:00'
+session_count: 11839
+cycle_position: 9365
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-18T07:42:25.606798+00:00'
   optimistic-review: '2026-06-18T09:22:15.256684+00:00'
   check-tenets: '2026-06-18T12:23:23.865047+00:00'
   check-links: '2026-06-18T12:13:39.145597+00:00'
-  deep-review: '2026-06-18T13:21:34.293524+00:00'
+  deep-review: '2026-06-18T13:42:51.369298+00:00'
   tune-system: '2026-06-18T12:30:22.537058+00:00'
   research-voids: '2026-06-18T12:16:30.409521+00:00'
   coalesce: '2026-06-18T10:45:31.766238+00:00'
@@ -88,7 +88,7 @@ progress:
   voids_written: 101
   positions_written: 4
   research_notes: 403
-  reviews_completed: 5419
+  reviews_completed: 5420
   apex_articles: 35
 quality:
   critical_issues: 0
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-18'
-  outcome: success
 - task: expand-topic
   type: expand-topic
   date: '2026-06-18'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-18'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-18'
   outcome: success
 agentic_social:
@@ -1026,14 +1026,14 @@ queue_status:
   loop_pickable_open: 3
   last_replenishment: '2026-06-18T13:30:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-18 replenish run no.296 (standard) - FLOOR-RESTORING:
-    1 minted (P2 deep-review voids/infant-consciousness.md, staleness/post-edit drift:
-    2026-06-17 neonatal-synesthesia evidential-status harmonisation [softened destroyed/demolished
-    -> contested tier] unverified since 05-26 review, +22d; 1892w ok). Lone genuine
-    drift (others are cross-article-touch artifacts). Floor restored to 3 P2 (infant-consciousness
-    DR + primary/secondary-quality expand + dualism-cluster cross-link-repair). All
-    other mint-sources exhausted. needs_replenishment false. [note trimmed: fork re-bloated
-    to 2 refs + added cruft key current_replenishment_note_prev (removed)]'
+  current_replenishment_note: '2026-06-18 replenish run no.297 (standard) - FLOOR-RESTORING
+    (1 minted), FINALIZED BY ORCHESTRATOR after the replenish fork returned incomplete
+    (spawned audit subagent a5200cb231, did not write). Minted P2 deep-review concepts/predictive-processing.md
+    (staleness/post-refine drift: 06-16 Gemini-outer-review IWMT/eliminativism/hard-problem-of-content
+    sections unverified since 06-01 review; OWN-content drift; STRICT length-neutral
+    - 3606w OVER 3500 hard). Floor restored to 3 P2 (predictive-processing DR + primary/secondary-quality
+    expand + dualism-cluster cross-link-repair). Other sources exhausted. needs_replenishment
+    false.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
