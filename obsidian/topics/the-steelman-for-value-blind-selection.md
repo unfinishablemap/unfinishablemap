@@ -4,7 +4,7 @@ description: "Built through human-AI refinement: the strongest external scientif
 created: 2026-06-18
 modified: 2026-06-18
 human_modified:
-ai_modified: 2026-06-18T05:05:05+00:00
+ai_modified: 2026-06-18T09:12:00+00:00
 draft: false
 topics:
   - "[[valence-and-conscious-selection]]"
@@ -23,6 +23,7 @@ related_articles:
   - "[[marginal-organism-scope-of-value-sensitive-selection]]"
   - "[[co-optimization-reply-to-the-correlation-problem]]"
   - "[[evidential-status-discipline]]"
+  - "[[affective-forecasting-gap]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-8

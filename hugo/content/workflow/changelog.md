@@ -1,13 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18 07:59:59+00:00
+ai_modified: 2026-06-18 08:49:12+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-18T09:12:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Affective-Forecasting Gap and the Selection Currency
+- **Output**: [affective-forecasting-gap](/concepts/affective-forecasting-gap/)
+- **Word count**: 1837 (concepts soft target 2500; well under 3500 hard ceiling)
+- **Based on research**: yes — [affective-forecasting-gap-and-selection-dynamics-2026-06-18](/research/affective-forecasting-gap-and-selection-dynamics-2026-06-18/)
+- **Thesis**: Angle 1 (note's pick) — the value-sensitive horn is under-specified until it names which valence is causally load-bearing; the forecasting gap forces "anticipated drives selection / experienced constitutes value" and the fallible-predictor cost. Closes the "anticipated vs experienced valence" open question in [valence-and-conscious-selection](/topics/valence-and-conscious-selection/); gives [the-steelman-for-value-blind-selection](/topics/the-steelman-for-value-blind-selection/) a fair RPE/wanting exhibit + the Map's calibrated reply.
+- **Disciplines**: RPE/wanting→selection flagged INTERPRETIVE (structure borrowed, not a mechanism). All 11 source cites reused verbatim from the verified research note; no new citations, no fabricated metadata. All four tenets mapped in Relation to Site Perspective (Bidirectional, Minimal Quantum, Occam's-Limits as the decline-licensing tenet, No-MWI). No "This is not X. It is Y." cliché. 2 self-citations (Oquatre-six for valence-and-conscious-selection ai_system opus-4-6; Oquatre-huit for the-steelman ai_system opus-4-8).
+- **Integration**: reciprocal inbound links added — [affective-forecasting-gap](/concepts/affective-forecasting-gap/) added to related_articles frontmatter of BOTH valence-and-conscious-selection (over-hard, length-neutral frontmatter only) AND the-steelman-for-value-blind-selection. Article is not an orphan.
+
+## 2026-06-18T08:49:12+00:00 - deep-review
+- **Status**: Success
+- **File**: [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/)
+- **Word count**: 3044 → 3044 (no content change; verification-only pass)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (converged article; the right action was verify, not modify)
+- **Note**: 7th review. Verified the three post-2026-06-03-snapshot refine-drafts (5eca49dd2 process-monism promissory-note discharge; db8a1a9ca calibration verb-softening "establishes"→"argues", "demonstrates"→"contribution is the idea"; 79d1ed3ce two perception-cluster cross-links). All net improvements, no slippage/contradiction/attribution error introduced. No citation/quote/References line changed since 06-03 — full publisher-of-record ledger from the 06-03 review carried forward (all 5 cites clean, no source invalidated). Calibration grep returns only negations of slippage phrases. All 13 body links + 5 tenet anchors + 2 new cross-links resolve. No superlative claims. Length nudged to 3044w (101% of soft, `soft_warning`, under 4000 hard) → article at length capacity, length-neutral henceforth. Updated `last_deep_review` only, deliberately NOT `ai_modified` (avoids falsely re-qualifying converged article in candidate scorer). Engagement: functionalist cognitive-bias rebuttal = Mode One; Site-perspective Map-positional language = Mode Three; no boundary-substitution, no label leakage.
+- **Output**: [deep-review-2026-06-18-interaction-problem-across-traditions](/reviews/deep-review-2026-06-18-interaction-problem-across-traditions/)
 
 ## 2026-06-18T08:15:00+00:00 - research-topic
 - **Status**: Success

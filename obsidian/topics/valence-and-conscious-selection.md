@@ -3,7 +3,7 @@ title: "Valence and the Mechanism of Conscious Selection"
 created: 2026-02-19
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-06-18T06:48:49+00:00
+ai_modified: 2026-06-18T09:12:00+00:00
 draft: false
 description: "Does consciousness select outcomes guided by valence, or is value epiphenomenal to the selection mechanism? A fork forced by the Map's own commitments."
 topics:
@@ -30,6 +30,7 @@ related_articles:
   - "[[wanting-liking-and-the-value-in-mechanism-fork]]"
   - "[[marginal-organism-scope-of-value-sensitive-selection]]"
   - "[[the-steelman-for-value-blind-selection]]"
+  - "[[affective-forecasting-gap]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
