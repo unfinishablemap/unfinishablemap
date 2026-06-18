@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research Loss-Aversion and Negative-Valence Asymmetry in Selection
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-06-18.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-06-18 flags negative/positive valence asymmetry in selection (loss-aversion-style) as open in valence-and-conscious-selection's 'Limits and Open Questions' but not developed anywhere. Discrete prospect-theory phenomenon with dualist stakes for value-sensitive selection. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/loss-aversion-and-negative-valence-asymmetry-in-selection-2026-06-18.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'loss-aversion-and-negative-valence-asymmetry-in-selection' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-06-18
-- **Promoted**: 2026-06-18 P3→P2 by /replenish-queue run no.281 to restore the MIN_QUEUE P0-P2 floor (was 2, floor is 3). Harvest-vetted subject, not in the Vetoed bank, target concepts/ has headroom (263/300); this was the lowest-risk floor restoration — no new speculative task minted, no protected length offender touched.
-
 ### P2: Write topics/ article on Deep Computational Markers for Machine Consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -1102,6 +1095,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-18: Research Loss-Aversion and Negative-Valence Asymmetry in Selection
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-06-18.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-06-18 flags negative/positive valence asymmetry in selection (loss-aversion-style) as open in valence-and-conscious-selection's 'Limits and Open Questions' but not developed anywhere. Discrete prospect-theory phenomenon with dualist stakes for value-sensitive selection. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/loss-aversion-and-negative-valence-asymmetry-in-selection-2026-06-18.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'loss-aversion-and-negative-valence-asymmetry-in-selection' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-06-18: Research Deep Computational Markers for Machine Consciousness
 - **Type**: research-topic

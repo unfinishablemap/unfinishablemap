@@ -5,6 +5,12 @@ ai_modified: 2026-06-18T09:17:41+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-18T10:05:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Loss-Aversion and Negative-Valence Asymmetry in Selection (the sign-weighting asymmetry — negatives loom larger — as distinct from the affective-forecasting and wanting/liking axes; closes the parent fork's "negative valence and avoidance" open question)
+- **Output**: [[research/loss-aversion-and-negative-valence-asymmetry-in-selection-2026-06-18]]
+- **Sources consulted**: 11 (all citations web-verified at publisher of record: Kahneman & Tversky 1979 Econometrica 47(2):263-291; Tversky & Kahneman 1991 QJE 106(4):1039-1061; 1992 J. Risk & Uncertainty 5(4):297-323 DOI 10.1007/BF00122574; Baumeister et al. 2001 Rev. Gen. Psych. 5(4):323-370 DOI 10.1037/1089-2680.5.4.323; Rozin & Royzman 2001 PSPR 5(4):296-320 DOI 10.1207/S15327957PSPR0504_2; Ito et al. 1998 JPSP 75(4):887-900; Gal, Rucker & Shavitt 2018 JCP 28(3):497-516 DOI 10.1002/jcpy.1047; Simonson 2018 JCP DOI 10.1002/jcpy.1046; Mrkva et al. 2020 JCP 30(3):407-428 DOI 10.1002/jcpy.1156; Brown et al. 2024 JEL 62(2):485-516 DOI 10.1257/jel.20221698; Diederen & Fletcher 2021 Neuroscientist DOI 10.1177/1073858420907591). Behavioural→felt-valence asymmetry mapping flagged INTERPRETIVE throughout (not overclaimed).
+
 ## 2026-06-18T09:30:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Deep Computational Markers for Machine Consciousness (non-behavioural, interpretability-grade AI-consciousness markers under the Map)
