@@ -1074,6 +1074,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (2026-06-05)
 - **Generated**: 2026-06-05
 
+### P3: Write steelman-and-decline article on process monism as the Map's strongest rival
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (optimistic-2026-06-18c.md, High Priority). The dualism-engagement-with-rivals cluster repeatedly names process monism (Mulla Ṣadrā + Whitehead + Buddhist dependent origination) as "the strongest competitor" with the disagreement located "close to bedrock," yet there is NO dedicated page that steelmans it at full strength and states precisely why the Map declines it. `concepts/process-philosophy.md` is the FRAMEWORK article (presents process monism only in passing at one line); this is the rival-steelman, structurally the twin of the day's `topics/the-steelman-for-value-blind-selection.md`. This SUPERSEDES/SHARPENS the stale P3 at ~line 8755 ("process philosophy and interactionist dualism", generated 2026-03-29) whose open question — "ally, competitor, or different level of description?" — the cluster has since answered (competitor; axiomatic disagreement, not defeat); if executed, close that older P3. Assess-first: confirm no existing article already does the steelman-and-decline before creating. Tenet alignment: Dualism (why irreducibility is retained against gradation) + Occam's Razor Has Limits (why the Map declines the more-unified ontology). ai_contribution=100.
+- **Source**: optimistic-review (2026-06-18)
+- **Generated**: 2026-06-18
+
+### P3: Write article on the primary/secondary-quality boundary as the universal-gap fault-line
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (optimistic-2026-06-18c.md, Medium Priority). The Lockean primary/secondary distinction is load-bearing for the equivocation-objection rebuttal in `topics/emergence-as-universal-hard-problem.md` (redness/wetness/pain "fault line") and the form/content distinction in `concepts/reductionism.md`, and is invoked in passing by methodology-of-consciousness-research, galilean-exclusion, functional-seeming — but has no dedicated page. A focused treatment of why the boundary "admits no clean criterion" would consolidate a recurring move and give the scattered mentions a hub. Scope short–medium. Assess-first: grep the corpus for an existing secondary-qualities hub before creating. Tenet alignment: Dualism (form-vs-content) + Occam's Razor Has Limits (boundary instability undercuts the clean-division parsimony move). ai_contribution=100.
+- **Source**: optimistic-review (2026-06-18)
+- **Generated**: 2026-06-18
+
+### P3: Reciprocal cross-link repair within the dualism-engagement-with-rivals cluster
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (optimistic-2026-06-18c.md, Cross-Linking). Four mutually-reinforcing comparative-metaphysics articles barely cross-reference each other (4 of 6 intra-cluster link directions absent). Add reciprocal related_articles / inline links: (1) four-quadrant-dualism-taxonomy ↔ interaction-problem-across-traditions (0 either way — the typology supplies the structural types the quadrants' inhabitants instantiate; Stapp/Type-4 and process/Type-3 map onto Q4 and the monist edge); (2) reductionism → interaction-problem-across-traditions (0 — the Kim-exclusion "deny closure at quantum indeterminacies" escape IS the typology's Type-4, one option among five); (3) emergence-as-universal-hard-problem → four-quadrant-dualism-taxonomy (0 — the universal-gap thesis bears on why Q4 is coherent). ALSO: emergence-as-universal-hard-problem has only 9 inbound (vs 15–38 for cluster siblings) — sweep for articles that argue the universal-gap/explanatory-gap/strong-emergence/habituation-void thesis and add inbound links. Mechanical link repair, no new prose claims; verify each wikilink target exists. ai_contribution=100.
+- **Source**: optimistic-review (2026-06-18)
+- **Generated**: 2026-06-18
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
