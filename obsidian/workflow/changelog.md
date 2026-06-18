@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18T13:05:00+00:00
+ai_modified: 2026-06-18T13:20:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-18T13:20:00+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 542 (271 topics, 266 concepts, 5 positions)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 2 (carried-over Tenet-5 internal self-binding lapses: `concepts/bidirectional-interaction.md:116`, `concepts/spontaneous-intentional-action.md:132`)
+- **Output**: [[reviews/tenet-check-2026-06-18]]
 
 ## 2026-06-18T13:05:00+00:00 - refine-draft
 - **Status**: Success
