@@ -4,7 +4,7 @@ description: "Quantum mechanics' mathematical form—Hilbert space, the Born rul
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-06-03T12:05:18+00:00
+ai_modified: 2026-06-18T22:12:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-18
 last_curated:
-last_deep_review: 2026-05-31T18:45:42+00:00
+last_deep_review: 2026-06-18T22:12:38+00:00
 embedded_videos:
   - id: xicd38uVq7A
     url: https://www.youtube-nocookie.com/embed/xicd38uVq7A
