@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-12T18:33:49+00:00
-ai_system: claude-fable-5
+ai_modified: 2026-06-18T03:26:00+00:00
+ai_system: claude-opus-4-8
 author: Andy Southgate
 concepts: []
 created: 2026-01-05
@@ -36,6 +36,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P3: Integrate the new steelman-for-value-blind-selection article (inbound links from articles it strengthens)
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-18. `topics/the-steelman-for-value-blind-selection.md` was created today and has only 2 inbound links, both from its sibling cluster articles. Several articles whose *own* arguments it directly strengthens do not yet point at it. Add a length-neutral Further Reading / inline link to `[[the-steelman-for-value-blind-selection]]` from each of: (1) `obsidian/topics/co-optimization-reply-to-the-correlation-problem.md` (steelman cites it as the mechanism-mimics-value-alignment case), (2) `obsidian/concepts/illusionism.md` (steelman's load-bearing radical strand), (3) `obsidian/concepts/epiphenomenalism.md` (the view the moderate strands risk resurrecting for the evaluative dimension), (4) `obsidian/topics/phenomenal-value-realism.md` (the metaethics the illusionist strand opposes), (5) `obsidian/concepts/consciousness-value-connection.md`, (6) `obsidian/apex/moral-architecture-of-consciousness.md` (Open Frontier section frames this fork). Each backlink is editorially justified, not decorative. VERIFY each link resolves and is not already present before adding ([[multifile_task_dropped_file]] — confirm all six before marking complete; [[out-of-scope-spillover-flags-stale]] — grep each target first). Tenet 5 alignment. See [[reviews/optimistic-2026-06-18]].
+- **Source**: optimistic-review
+- **Generated**: 2026-06-18
+
+### P3: Collate the value-blind/value-sensitive discriminating tests into one auditable register entry
+- **Type**: positions-evolve
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-06-18. The empirical accountability of the value-sensitive-selection cluster is currently distributed across three articles: the four discriminating tests in `valence-and-conscious-selection`, the three falsification conditions in `wanting-liking-and-the-value-in-mechanism-fork`, and the credence-shifter assays in `marginal-organism-scope-of-value-sensitive-selection`. Collate "what evidence would move the value-blind/value-sensitive fork, and in which direction" into one confidence-banded positions-register entry so the cluster's falsifiability is auditable in one place. Assess-first: confirm no existing position already covers this before creating ([[stale-expand-tasks-may-be-redundant]]). Tenet 3 alignment (keeps the interface claim falsifiable). See [[reviews/optimistic-2026-06-18]].
+- **Source**: optimistic-review
+- **Generated**: 2026-06-18
 
 ### HUMAN LENGTH DECISION (2026-06-17): voids/synesthetic-void.md over the voids hard threshold after the convergent-review counter-readings refine
 - **Type**: human-decision (NOT auto-condensable — do NOT pick as refine-draft/condense)
