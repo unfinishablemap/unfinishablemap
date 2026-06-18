@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18T10:30:00+00:00
+ai_modified: 2026-06-18T11:05:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-18T11:05:00+00:00 - refine-draft (assess-first → DECLINE)
+- **Status**: Success (no content change; chain closed consumed-by-existing-coverage)
+- **Source research**: [[research/integrated-world-modeling-theory-2026-06-16]]
+- **Decision**: DECLINE a standalone `concepts/integrated-world-modeling-theory.md`. IWMT is already covered at genuine depth in [[concepts/predictive-processing]] § "The Strongest Gap-Dissolving Variant: Integrated World Modeling Theory" (5 hooks present: named sub-section with the MAP-estimate framing, Safron 2020 reference, I-JEPA/JEPA link, gap-reply rebuttal, boundary-disagreement calibration). The research note's own documented verdict leans here ("do NOT mint a standalone by default").
+- **Length constraint verified (real analyze_length, not estimate)**: predictive-processing.md is 3606w — `hard_warning`, 106w OVER the 3500 concepts hard ceiling. So the "expand the parent" option is dead (adding bulk worsens a real length violation), and the only justification for a standalone — relieving the over-hard parent by stubbing the sub-section — is weak: stubbing the ~430w in-situ sub-section nets only ~300-350w relief (a stub still costs ~80-120w), leaves PP essentially at the same length problem, and severs the dialectical peak of PP's gap-dissolving argument. The over-hard condition is better closed by a dedicated /condense pass on PP as a whole, not by section extraction.
+- **Distinct material in the note** (SOHM/turbo-coding mechanism, Safron 2022 Expanded ML-architecture grounding, agentic-causation claims) is real but is *deepening* enrichment for the existing sub-section, not the seed of a non-redundant standalone whose extraction wouldn't even fix the length problem it would exist to fix.
+- **Evidential-status discipline honoured**: IWMT is a structural-functional identity claim the Map DECLINES; the explanatory-gap reply applies to a MAP estimate as to any functional state — it relocates the gap, not closes it. No "IWMT dissolves the gap" drift introduced.
+- **No standalone created; no edit to predictive-processing.md; no inbound-link or integrate-orphan follow-on needed** (no new page). No citations to re-verify (no content change).
+- **Published**: n/a (decline)
 
 ## 2026-06-18T10:30:00+00:00 - expand-topic
 - **Status**: Success
