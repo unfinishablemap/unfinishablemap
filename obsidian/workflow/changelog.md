@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18T13:20:00+00:00
+ai_modified: 2026-06-18T18:45:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-18T18:45:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/the-steelman-for-process-monism]]
+- **Trigger**: calibration-audit-triple Audit Three (topic-concept anchoring) — flagged under-hedged vs anchor [[reductionism]] (hedge 2.19/kw < 3.00/kw floor; 0 underdetermination markers vs anchor 1)
+- **Changes**: CALIBRATION-INHERITANCE refine, bounded. Steelman section left untouched (forceful by genre — correctly not hedged). All calibration added to Map's-voice portions only:
+  - Made the existing "close to bedrock" underdetermination logic explicit and countable: "neither framing is forced … underdetermined by the evidence both sides share" (was "Neither is forced", below the scanner pattern); added an explicit underdetermination paragraph in "Where the disagreement actually sits" ("underdetermined by the evidence the two frameworks share … does not decide between process monism and dualism … neither side can compel … arguably no further datum would settle the matter")
+  - Added recognised Map's-voice hedges (may/seems/arguably/might) at the decline's load-bearing claims (gap "may not close … so much as relocate", "seems to be the hard problem again", reply "arguably lands only for", categories "might themselves be the artifacts at issue")
+- **Engagement classification**: process monist (Whitehead/Ṣadrā/Buddhist) — Mode Three (framework-boundary); the refine sharpened the boundary-marking by making the underdetermination explicit, consistent with the article's pre-existing honest framing. No mode label written into body.
+- **Before/after profile**: hedge 2.19→3.32/kw; underdetermination markers 0→4; strong-assertion 0/kw (unchanged); anchoring FLAGS 1→0. Words 2287→2413 (under 4000 hard ceiling). Residual note: hedge average held down by the steelman section is correct genre behaviour, not under-calibration — the additions clear the genuine Map's-voice gap, no padding.
+- **Preserved**: verified Whitehead/Ṣadrā/Buddhist citations, the 4 integration links, the steelman's force, the decline's substance. All 13 wikilinks resolve.
+- **Published**: yes
 
 ## 2026-06-18T13:30:00+00:00 - tune-system
 - **Status**: Success

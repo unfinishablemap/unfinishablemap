@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt reductionism calibration in the-steelman-for-process-monism
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/the-steelman-for-process-monism.md
-- **Notes**: From topic-concept anchoring audit 2026-06-18. The topic article over-claims relative to its anchor concept [[reductionism]]; failed checks: hedge_density, underdetermination_markers.
-  - hedge density 2.19/kw is below 3.00/kw (target = 60% of anchor 5.15/kw, capped at 3.0/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-18
-
-
 ### HUMAN LENGTH DECISION (2026-06-17): voids/synesthetic-void.md over the voids hard threshold after the convergent-review counter-readings refine
 - **Type**: human-decision (NOT auto-condensable — do NOT pick as refine-draft/condense)
 - **Notes**: The 2026-06-17 refine-draft (P1 "import strongest non-dualist readings", from convergent ChatGPT 5.5 Pro + Gemini 2.5 Pro reviews) added a dedicated "The Physicalist Counter-Readings" section developing four opponents at strength (fine-grained functionalist, representationalist sub-individuation, deflationary/heterophenomenological, illusionist/metacognitive). This is the load-bearing content the convergent P1 demanded ("develop in-body rather than link away"). Word count rose 2795 → 3578: over the voids HARD threshold (3000) by ~578, under CRITICAL (4000) by ~422. ~300 words of redundant pre-existing hedging were already absorbed during the refine; the remaining bulk is the developed opponent engagements and cannot be auto-condensed without defeating the review's purpose. **Human editorial decision needed:** either (a) accept the over-hard length as justified by the four mandated counter-readings (a recognised tension — the voids ceiling vs. the direct-refutation-discipline demand to develop opponents fully), or (b) decide which counter-reading(s) to compress / spin out to the apex [[phenomenal-variation-within-a-species]] (which already carries the four-absorption-strategy treatment) and link from the void. Do NOT auto-condense the new opponent engagements ([[refine-then-condense-same-session-churn]], [[human-decision-task-mispicked-as-refine]]). Note the pending P1 "Refresh synesthesia citations" task (below) is citation-additive and will push length further — coordinate the two.
@@ -1094,6 +1082,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-18: Adopt reductionism calibration in the-steelman-for-process-monism
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-18. The topic article over-claims relative to its anchor concept [[reductionism]]; failed checks: hedge_density, underdetermination_markers.
 
 ### ✓ 2026-06-18: Audit four-quadrant-dualism-taxonomy.md forward-references to the channel-width axis for post-deep-review accuracy
 - **Type**: refine-draft
