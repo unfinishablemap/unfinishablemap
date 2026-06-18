@@ -9,6 +9,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-18T14:01:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/)
+- **Original score**: n/a (calibration refine per pessimistic-2026-06-18; citations pre-verified clean — no citation work)
+- **Changes**: Addressed the 2 coupled MEDIUM issues from pessimistic-2026-06-18, calibration-inheritance only (filter-model thesis and partisan reducing-valve framing preserved; L42 Theravada caveat preserved verbatim). (1) Altered-state symmetry (Audit Two): added a symmetry-acknowledgment paragraph to "Different interface components fail independently" — production theorist has the same divergent-mechanism move across the convergent pathways; inherited anaesthesia L134's "convergence earns the architecture, not its dualist significance" and named the abolition cases (propofol silence, deep anaesthesia, advanced dementia) as the symmetric burden the filter framing must accommodate, not extra confirmations; cluster cannot be counted as multiple independent confirmations while abolition set aside. Symmetry scanner now returns None. (2) Epistemic/metaphysical equivocation (the "Consciousness persists" bullet, L78, and the dualism paragraph in Relation to Site Perspective, L86): split the readings — report-as-datum vs metaphysical conclusion; acknowledged contrary abolition-case reports; relocated the dualist bridge to the convergent persistence-or-intensification / graded-not-binary / neural-inertia-hysteresis evidence the anaesthesia article supplies, not the bare report. Softened two over-universal clinical claims: "consistently report... unusual clarity" → "frequently report... sometimes with unusual clarity" (Lindahl 2017 documents a range incl. impairment); uncited comparative-efficacy "responds better to practice-informed interventions than medication" → "emphasise practice-informed grounding alongside standard care" (no comparative cite invented). Updated ai_modified.
+- **Word count**: 1680 → 2118 (body via analyze_length; soft 3000, status ok). All wikilinks resolve; no "not X. It is Y." cliché.
+- **Published**: yes
+
 ## 2026-06-18T13:50:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/contemplative-pathology-and-interface-malfunction.md (1756 words; oldest topic by ai_modified, never previously pessimistic-reviewed)
