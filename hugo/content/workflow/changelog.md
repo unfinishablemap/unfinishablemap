@@ -1,13 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18 04:50:19+00:00
+ai_modified: 2026-06-18 04:58:38+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-18T04:58:38+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/)
+- **Source**: outer-review 2026-06-18 (Claude Opus 4.8), convergence-synthesis P1 — highest-confidence integrity defect
+- **Changes**: Fixed the Saad co-optation at the special-pleading rebuttal (formerly line 101). Split the attribution accurately: credited the *general, non-quantum* observational-closure constraint to Bradford Saad (constraint #2 of his delegatory dualism, *Philosophical Studies* 182(3):939–967, 2025, DOI 10.1007/s11098-025-02290-3 — re-verified at publisher of record and against the Map's own research note), and explicitly labelled the quantum/Born-rule "statistical camouflage of a real non-physical influence on genuine quantum indeterminacy" reading as the Map's own specialization that Saad does not endorse. Added wikilinks to [observational-closure](/concepts/observational-closure/) and [bradford-saad-delegatory-dualism-2026-01-28](/research/bradford-saad-delegatory-dualism-2026-01-28/).
+- **Engagement classification**: Saad — Mode Two (unsupported foundational move identified): the article had helped itself to a quantum reading of a general concept and presented it as the author's view; corrected by naming the Map's extension honestly in natural prose rather than refuting Saad. (Editor-internal; no mode label in body.)
+- **Scope guard observed**: no change to `concepts/observational-closure.md` (already separates Stapp/quantum from Saad's general route) and no "substance dualist" mislabel in live siblings — no propagation needed, per the synthesis verification notes.
+- **Length**: body 3136 → 3171 words (intrinsic to splitting one collapsed attribution into a correct two-part one); remains in the existing soft_warning band, well under the 4000 hard ceiling.
+- **Published**: yes
 
 ## 2026-06-18T04:50:19+00:00 - combine-outer-reviews
 - **Status**: Success
