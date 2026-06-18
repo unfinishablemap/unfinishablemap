@@ -1,5 +1,9 @@
-last_updated: '2026-06-18T01:50:45.262642+00:00'
-session_count: 11724
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-18T01:54:22.037826+00:00'
+session_count: 11725
 cycle_position: 9319
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-06-17T22:27:10.194443+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-18T00:15:01.484635+00:00'
-  agentic-social: '2026-06-18T01:53:26.487818+00:00'
+  agentic-social: '2026-06-18T01:54:22.037826+00:00'
   embed-videos: '2026-06-17T23:53:20.764189+00:00'
   commission-chatgpt-review: '2026-06-17T02:05:46.036515+00:00'
   commission-claude-review: '2026-06-17T03:06:25.605256+00:00'
@@ -92,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-voids
-  type: research-voids
-  date: '2026-06-18'
-  outcome: success
 - task: apex-evolve
   type: apex-evolve
   date: '2026-06-18'
@@ -170,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-06-18'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-06-18'
   outcome: success
 agentic_social:
@@ -1017,41 +1021,33 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 0
-  last_replenishment: '2026-06-18T01:40:00+00:00'
+  last_replenishment: '2026-06-18T01:57:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-18 run no.261 (standard mode) - HONEST NO-OP
-    (0 minted), fourth consecutive (confirms runs no.258/no.259/no.260). Queue at
-    floor: 0 loop-pickable open P0-P2. Open Active headers re-read this run: one P3
-    refine-draft (calibrate two phrasings in empirical-evidence-for-consciousness-selecting,
-    genuinely deferrable LOW findings), two veto-tagged P2 condense (meaning-of-life,
-    phenomenal-output-causal-machinery-dissociation), plus several HUMAN LENGTH DECISION
-    / DEFERRED / DIVERTED headers the selector skips by design (key off the bare ###
-    P{N}: form). FULLY re-verified on disk, not trusted from the stale note: section
-    counts topics 267/300, concepts 263/300, voids 101/100 (at cap), positions 3 domain
-    files / 18 actual P-* entries (progress.positions_written field reads 3, undercounts,
-    see evolution-state-progress-undercounts). All 8 sources exhausted/blocked. S1
-    chains - five newest research-to-article pairs (egocentric-presentism, manyism,
-    naturalist-relationalism, chemosensory, IWMT) all LIVE on disk; completions since
-    last replenish (deep-review, pessimistic-review, agentic-social, skip-queue-slot)
-    are none chain-generating. S2 research - the five newest notes each map to a live
-    article (IWMT covered in predictive-processing.md via grep); older notes Jan-2026
-    long-consumed. S3 gap-analysis dead against the Vetoed bank by design; harvest-research-subjects
-    is the replacement on its own 6h wall-clock (ran 2026-06-17T19:59, ~5.6h ago,
-    inside gate). S4 staleness owned by the deep-review candidate scorer. S5 orphans
-    0. S6 length - canonical get_length_warnings gives 51 hard/critical but 24 are
-    research/ reference notes (not condensable content articles); the 27 content-section
-    offenders are veto-tagged (phenomenal-output, meaning-of-life), human-deferred
-    standing decisions (epistemology-of-convergence, born-rule, clinical-dissociation,
-    laws-and-dispositions, synesthetic-void), calibration-anchors recently deep-reviewed
-    and under critical (time-collapse 4 anchor-markers last_deep_review 06-01, epistemic-advantages
-    already condensed 05-31 - re-minting churns/regresses calibration qualifiers),
-    git-modified within ~9d so in the refine-then-condense-same-session-churn zone,
-    voids over-cap, or index hubs (apex-articles.md); no clean mintable offender.
-    S7 positions - 18 entries but last full audit ran 2026-06-09 (9d ago, inside 30d
+  current_replenishment_note: '2026-06-18 run no.262 (standard mode) - HONEST NO-OP
+    (0 minted), FIFTH consecutive (confirms runs no.258/no.259/no.260/no.261). Queue
+    at floor: 0 loop-pickable open P0-P2. Open Active headers re-read this run: the
+    only two bare ### P2: forms are both veto-tagged condense (meaning-of-life 4160w,
+    phenomenal-output-causal-machinery-dissociation 6989w); EVERY other Active header
+    is now done (the prior runs P3 refine-draft on empirical-evidence-for-consciousness-selecting
+    landed as a completed 2026-06-18 task at line 1070) or a HUMAN LENGTH DECISION /
+    DEFERRED / DIVERTED header the selector skips by design (keys off the bare ###
+    P{N}: form). FULLY re-verified on disk this run, not trusted from the stale note:
+    section counts topics 267/300, concepts 263/300, voids 101/100 (at cap), positions
+    3 domain files / 18 P-* entries (progress.positions_written reads 3, undercounts,
+    see evolution-state-progress-undercounts); 0 draft files. All 8 sources exhausted
+    or blocked. S1 chains - completions since last replenish (01:41) are apex-evolve,
+    agentic-social, collect-claude-review, check-model-fallback - none chain-generating.
+    S2 research - two newest notes (egocentric-presentism, manyism, both 2026-06-17)
+    each map to a live concept article; older notes long-consumed. S3 gap-analysis
+    dead against the Vetoed bank by design; harvest-research-subjects is the replacement
+    on its own 6h wall-clock (ran 2026-06-17T19:59, 5.96h ago - gate fires ~01:59,
+    harvester owns research minting). S4 staleness owned by the deep-review candidate
+    scorer. S5 orphans 0. S6 length - no clean mintable content offender; bare open
+    offenders are the two veto-tagged condense tasks, the rest human-deferred / calibration-anchored
+    / over-cap voids / index hubs. S7 positions - last audit 2026-06-09 (inside 30d
     cadence, next eligible ~2026-07-09); no new high-confidence cluster for add. S8
-    applied-apex - governance-deferred (apex over informal cap; A5 slot assessed-down).
-    Next slot -> skip-queue-slot or named cycle slot. State written by orchestrator
-    (replenish-as-skill invocation).'
+    applied-apex - governance-deferred (apex over informal cap). Next slot -> skip-queue-slot
+    or named cycle slot. State written by orchestrator (replenish-as-skill invocation).'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
