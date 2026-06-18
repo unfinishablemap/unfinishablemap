@@ -47,6 +47,7 @@ related_articles:
   - "[[question-formation-void]]"
   - "[[eliminative-materialism]]"
   - "[[conjunction-coalesce]]"
+  - "[[primary-secondary-quality-boundary]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -66,7 +67,7 @@ Galileo's distinction between primary and secondary qualities set the template. 
 
 By restricting its domain to observer-independent quantities, physics became spectacularly successful. Chemistry, biology, and neuroscience followed the same template: describe the world in third-person terms.
 
-But the exclusion created an asymmetry. The subjective qualities Galileo set aside — the redness of red, the painfulness of pain — are precisely what consciousness researchers now need to explain. These [[qualia]] are the hard case. As Evan Thompson argues in *Mind in Life* (2007), modern science inherited from Galileo the assumption that mathematical-physical description exhausts what is objectively real. The [[hard-problem-of-consciousness|hard problem of consciousness]] is, in this light, partly an artefact of a methodological choice made in the seventeenth century.
+But the exclusion created an asymmetry. The subjective qualities Galileo set aside — the redness of red, the painfulness of pain — are precisely what consciousness researchers now need to explain. These [[qualia]] are the hard case. The [[primary-secondary-quality-boundary|primary/secondary line]] the template rests on admits no clean criterion, so the cut that founds the method is itself unprincipled. As Evan Thompson argues in *Mind in Life* (2007), modern science inherited from Galileo the assumption that mathematical-physical description exhausts what is objectively real. The [[hard-problem-of-consciousness|hard problem of consciousness]] is, in this light, partly an artefact of a methodological choice made in the seventeenth century.
 
 ## Objectivity, Repeatability, and Their Costs
 

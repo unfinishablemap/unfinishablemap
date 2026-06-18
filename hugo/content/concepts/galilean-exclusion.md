@@ -28,6 +28,7 @@ related_articles:
 - '[[concepts/materialism]]'
 - '[[consciousness-and-scientific-explanation]]'
 - '[[philosophy-of-science-under-dualism]]'
+- '[[primary-secondary-quality-boundary]]'
 title: Galilean Exclusion
 topics:
 - '[[methodology-of-consciousness-research]]'
@@ -43,7 +44,7 @@ In *The Assayer* (1623), Galileo argued that qualities like heat, colour, and ta
 
 What remains when subjective qualities are stripped away is the mathematical skeleton: particles in motion, describable by geometry and number. Galileo's insight was that this skeleton is sufficient for physics. You do not need to know what red looks like to predict the wavelength of light. You do not need to feel heat to calculate thermal dynamics. The subjective dimension is expendable — for physics.
 
-Descartes deepened the exclusion. His division of reality into *res extensa* (extended, measurable substance) and *res cogitans* (thinking substance) gave the Galilean move a metaphysical foundation: mind and matter are ontologically separate domains. Physics governs *res extensa*; experience belongs to *res cogitans* and falls outside physical description. (The explicit terminology of "primary" and "secondary" qualities came later, from Boyle and Locke, but Descartes's substance dualism provided the architecture that made the distinction systematic.) What began as a methodological convenience in Galileo became, through Descartes, a metaphysical framework.
+Descartes deepened the exclusion. His division of reality into *res extensa* (extended, measurable substance) and *res cogitans* (thinking substance) gave the Galilean move a metaphysical foundation: mind and matter are ontologically separate domains. Physics governs *res extensa*; experience belongs to *res cogitans* and falls outside physical description. (The explicit terminology of "primary" and "secondary" qualities came later, from Boyle and Locke, but Descartes's substance dualism provided the architecture that made the distinction systematic.) What began as a methodological convenience in Galileo became, through Descartes, a metaphysical framework. The [boundary the exclusion presupposes](/topics/primary-secondary-quality-boundary/) is itself unstable — it admits no clean, non-circular criterion — which is the deeper reason the exclusion never amounted to a genuine metaphysical discovery.
 
 ## Why the Exclusion Worked
 

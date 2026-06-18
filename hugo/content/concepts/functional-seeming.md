@@ -26,6 +26,7 @@ related_articles:
 - '[[tenets]]'
 - '[[self-stultification-as-master-argument]]'
 - '[[concepts/epiphenomenalism]]'
+- '[[primary-secondary-quality-boundary]]'
 title: Functional Seeming
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -45,7 +46,7 @@ Frankish's response targets the word "experience." The regress assumes that seem
 
 Frankish introduces **quasi-phenomenal properties** as the positive account of what introspection actually detects. These are non-phenomenal, physical properties of internal states that introspection systematically misrepresents as phenomenal. The "redness" one seems to experience is, on Frankish's view, a complex functional-discriminative state—like a computer desktop icon that usefully misrepresents the binary processes underneath.
 
-Frankish develops this through the **distortion thesis**: introspective *access* to mental states is real, but introspective *interpretation* is systematically flawed. The conceptual framework we apply to our own states—a folk theory positing intrinsic phenomenal qualities—generates the illusion. The error is theoretical, not experiential. Pereboom (2016) offers a parallel "qualitative inaccuracy hypothesis," on which a perception-like introspective system universally misrepresents its targets as bearing qualitative natures, much as perception misrepresents external objects as bearing secondary qualities.
+Frankish develops this through the **distortion thesis**: introspective *access* to mental states is real, but introspective *interpretation* is systematically flawed. The conceptual framework we apply to our own states—a folk theory positing intrinsic phenomenal qualities—generates the illusion. The error is theoretical, not experiential. Pereboom (2016) offers a parallel "qualitative inaccuracy hypothesis," on which a perception-like introspective system universally misrepresents its targets as bearing qualitative natures, much as perception misrepresents external objects as bearing [secondary qualities](/topics/primary-secondary-quality-boundary/).
 
 This distinction between access and interpretation is crucial to the illusionist programme. It allows Frankish to grant that something real is being introspected while denying that the introspected properties are as they appear. The analogy is to pre-scientific explanations: phlogiston theorists genuinely observed combustion but applied a mistaken framework to explain it. Shabasson (2022) develops a "false inference" version of this story, proposing that introspective opacity—our inability to discern the inferential structure behind introspective judgements—explains why we are powerfully disposed to judge ourselves phenomenally conscious. Kammerer (2022) addresses the related "obviousness" objection—why phenomenal consciousness seems so undeniable—arguing that the Moorean appeal to its obviousness begs the question against illusionism rather than refuting it.
 

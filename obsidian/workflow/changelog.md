@@ -5,6 +5,14 @@ ai_modified: 2026-06-18T13:15:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-18T13:20:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The primary/secondary-quality boundary as the universal-gap fault-line
+- **Output**: [[topics/primary-secondary-quality-boundary]]
+- **Word count**: 1728 (ok, 58% of topics 3000 target)
+- **Based on research**: no (consolidating hub; Locke II.viii web-verified at publisher-of-record level)
+- **Integration**: in-body inbound links + reciprocal related_articles added to emergence-as-universal-hard-problem, reductionism, galilean-exclusion, methodology-of-consciousness-research, functional-seeming (5 sibling files edited; 5 in-body inbound links).
+
 ## 2026-06-18T14:29:52+00:00 - condense
 - **Status**: Success
 - **File**: [[concepts/predictive-processing]]

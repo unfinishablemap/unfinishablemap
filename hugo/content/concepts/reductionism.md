@@ -37,6 +37,7 @@ related_articles:
 - '[[reductionism-consciousness-philosophy-2026-01-19]]'
 - '[[consciousness-and-the-structure-of-scientific-revolutions]]'
 - '[[the-steelman-for-process-monism]]'
+- '[[primary-secondary-quality-boundary]]'
 title: Reductionism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -158,7 +159,7 @@ The Map's [Kuhnian analysis](/topics/consciousness-and-the-structure-of-scientif
 
 The "future science" analogy is also misleading on its own terms. Past reductions succeeded because the higher-level phenomenon was always *structural*—definable in terms of arrangements, functions, and relations. Temperature is a statistical property of motion; life is a pattern of chemical reactions. These descriptions are third-personal: they characterise only what systems *do*.
 
-Consciousness is first-personal. It has an intrinsic qualitative character—what Thomas Nagel (1974) called the "something it is like." No structural, functional, or relational description captures this, because such descriptions concern *form*—how elements relate—while experience has *content*: what it is like from the inside. The gap between form and content is conceptual, not empirical; more data cannot close it because data is itself structural.
+Consciousness is first-personal. It has an intrinsic qualitative character—what Thomas Nagel (1974) called the "something it is like." No structural, functional, or relational description captures this, because such descriptions concern *form*—how elements relate—while experience has *content*: what it is like from the inside. The gap between form and content is conceptual, not empirical; more data cannot close it because data is itself structural. This form/content fault is the same one Locke tried to mark with the [primary/secondary-quality distinction](/topics/primary-secondary-quality-boundary/): primary qualities are precisely those that survive translation into form, secondary qualities the ones whose content outruns it—which is why that boundary, like this gap, admits no clean criterion.
 
 This diagnosis is a claim about category, not [mysterianism](/concepts/mysterianism/)'s claim that the problem is permanently unsolvable by us: reductionism fails for consciousness because phenomenal qualities belong to a different category than the structural-functional properties reductionism handles. Asking reductionism to explain qualia is like asking geometry to explain colour—the tools are wrong for the domain. Mysterianism nonetheless offers complementary support: if human cognitive architecture has fundamental limits, our inability to see how consciousness reduces to physics may reflect those limits rather than a closable gap.
 
@@ -212,6 +213,7 @@ The [Buddhist tradition](/concepts/buddhism-and-dualism/) converges from a furth
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and why the hard problem may resist solution
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Process philosophy and the limits of substance-thinking
 - [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/) — Why every level transition harbours the same explanatory gap reduction cannot close
+- [primary-secondary-quality-boundary](/topics/primary-secondary-quality-boundary/) — The form/content fault drawn at the scale of qualities: why Locke's primary/secondary line admits no clean criterion
 
 ## References
 
