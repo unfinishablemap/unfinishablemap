@@ -9,6 +9,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-18T19:29:28+00:00 - refine-draft
+- **Status**: Success
+- **File**: [tactile-consciousness-and-the-interface](/topics/tactile-consciousness-and-the-interface/)
+- **Source**: pessimistic-review 2026-06-18 (both findings grep-confirmed; calibration preserved untouched)
+- **Changes**:
+  - Finding 1 (inexact verbatim quote, opening para): de-quoted to a paraphrase. The article had quoted `dualist-perception` as "perception extends across modalities—auditory, tactile, olfactory, gustatory." but the source (dualist-perception.md:155) reads "...auditory, tactile, olfactory, gustatory, proprioceptive, vestibular — and these modalities interact" — the quote dropped "proprioceptive, vestibular" and closed an open mid-sentence with a period inside the quote marks. Replaced with "it concedes that perception extends across many modalities, touch among them, without working any of them out." (no quotation marks, no misrepresentation).
+  - Finding 2 (coupled scope overclaim, opening + closing para): re-scoped both instances. Opening para "completing the perception-modality series (vision → audition → chemosensation → touch)" → "the fourth in the exteroceptive perception-modality series (...), alongside the separately-developed proprioceptive treatment ([dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/)); the vestibular, thermal, and interoceptive modalities remain without an interface treatment." Closing para appended a clause clarifying touch is "the fourth exteroceptive modality the Map develops, not a closing of the modality space" (proprioception separate; vestibular/thermal/interoception still await readings).
+- **Calibration**: untouched — "accommodation not proof" hedging and dualist-thesis qualifiers preserved verbatim.
+- **Length**: body 2818 → 2883 words (under 3000 topics soft ceiling); length-neutral by intent, +65w from the explicit modality enumeration.
+- **Published**: yes
+
 ## 2026-06-18T19:10:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/tactile-consciousness-and-the-interface.md` (created 2026-06-16, fresh-create-defect-tail target, 0 prior reviews) — verdict: strong/clean on calibration + citations; 2 Low-Medium findings
