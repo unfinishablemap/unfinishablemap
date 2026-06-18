@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18T19:30:00+00:00
+ai_modified: 2026-06-18T13:06:08+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-18T13:06:08+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-steelman-for-process-monism]]
+- **Word count**: 2413 → 2413 (0; never-reviewed fresh create, 80% of 3000 soft target — normal mode, no length pressure)
+- **Verdict**: no-critical-issues confirming pass on a clean, fully-verified fresh create. No body change (editing well-calibrated stable content would risk oscillation).
+- **§2.4 citation web-verify**: ALL real-correct. Two SEP Mulla-Sadra quotes (Zayd-substantial-motion; "existence is a single simple reality...admits of degrees") verified VERBATIM at plato.stanford.edu. SN 12.61 Assutava Sutta dependent-origination formula + translator (Thanissaro) verified VERBATIM at accesstoinsight.org. Whitehead 1929/1978 corrected ed. (Griffin & Sherburne, Free Press, Gifford 1927–28) + "Category of the Ultimate"/"many become one and are increased by one" + denial of "vacuous actuality" verified. al-Asfar dates (1606–1628) match SEP exactly. Paṭṭhāna 24 conditional relations verified. Nasr 1978 / Kalin 2010 (OUP) titles verified; Ṣadrā soul-doctrine reading faithful. No orphans; no fabrication; no currency claims (sweep clean).
+- **§2.5 attribution**: clean — no misattribution, qualifiers preserved, rival held as "undefeated competitor" (not beaten, not conceded), source/Map separation explicit.
+- **§2.6 reasoning-mode**: Mode Three (framework-boundary marking) throughout — article explicitly "does not refute process monism on its own terms" and "marks this boundary rather than claiming to have crossed it." No boundary-substitution; no label/evidential-tier leakage in prose.
+- **Calibration diagnostic (§2, load-bearing here)**: PASSES. The dualism-vs-process-monism dispute is correctly classified as axiom-level / underdetermined-by-shared-evidence (genuine bedrock), NOT possibility/probability slippage. The Map pays a *parsimony* cost openly under Tenet 5 rather than claiming evidence it lacks; calibration applied symmetrically (rival not beaten AND Map not weakened).
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-06-18-the-steelman-for-process-monism]]
 
 ## 2026-06-18T19:30:00+00:00 - deep-review
 - **Status**: Success

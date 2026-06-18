@@ -4,7 +4,7 @@ description: "Built through human-AI refinement: the strongest unified-process o
 created: 2026-06-18
 modified: 2026-06-18
 human_modified:
-ai_modified: 2026-06-18T18:45:00+00:00
+ai_modified: 2026-06-18T13:06:08+00:00
 draft: false
 topics:
   - "[[interaction-problem-across-traditions]]"
@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-18
 last_curated:
-last_deep_review:
+last_deep_review: 2026-06-18T13:06:08+00:00
 ---
 
 The Unfinishable Map holds [[dualism]]: consciousness is irreducible to physical processes, distinct in kind from matter. Its [[interaction-problem-across-traditions|cross-traditional survey of interaction solutions]] repeatedly names one rival as the strongest competitor—process monism, the unified-process ontology that dissolves the mind-matter divide by making both poles aspects or phases of a single becoming. The Map declines this rival. But declining a view well requires meeting it at full strength, and process monism is the alternative the Map's own materials concede is hardest to defeat, with the disagreement running "close to bedrock." This article assembles the rival's case at full strength—Whitehead's actual occasions, Mulla Ṣadrā's substantial motion, Buddhist dependent origination—then states precisely why the Map declines it, and why that decline is an argued choice under acknowledged cost rather than a refutation.
