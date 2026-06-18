@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Resolve dangling Sandved-Smith et al. (2025) reference in concepts/neurophenomenology-and-contemplative-neuroscience.md
+- **Type**: refine-draft
+- **Notes**: From optimistic-review 2026-06-18d (reviews/optimistic-2026-06-18d.md). Sandved-Smith et al. (2025) "Deep computational neurophenomenology" appears in the References block (~L236) but is never cited in the article body — a dangling reference (citation-integrity nit, low severity). Two clean resolutions: (a) integrate it where it belongs — it is also a genuine expansion hook, the computational/active-inference formalization of neurophenomenology (the article already discusses active-inference models of attention/metacognition, so a one-clause in-body citation is natural); or (b) cut the orphan reference. Prefer (a) if it can be woven in without net length gain — body counts are under hard ceiling but check analyze_length before finishing ([[count-words-includes-frontmatter]]). Web-verify the cite at publisher of record before integrating ([[ai_citation_metadata_unreliable]]; 3-state present/wrong-metadata/fabricated) — "Deep computational neurophenomenology" is a real 2025 preprint (Sandved-Smith, Ramstead, et al.) but confirm year/venue. P3 — does not out-prioritize the two standing P2s.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-18
+
+### P3: Dedicated treatment of the abolition cases (apparent phenomenal silence) under the filter model
+- **Type**: expand-topic
+- **Notes**: From optimistic-review 2026-06-18d (reviews/optimistic-2026-06-18d.md). The "abolition cases" — propofol/deep surgical anaesthesia and advanced dementia, where consciousness is NOT reported preserved — are invoked across the contemplative-evidence cluster (contemplative-pathology-and-interface-malfunction, contemplative-practice-as-philosophical-evidence, neurophenomenology-and-contemplative-neuroscience) as the *symmetric burden* the filter/interface model must accommodate, but are never given dedicated treatment. A focused piece ("what apparent phenomenal silence demands of the filter model") carries built-in evidential discipline (it foregrounds the disconfirming cluster the supportive contemplative cases must be weighed against — see the 2026-06-18 altered-state-symmetry refine). **ASSESS-FIRST, license-to-decline** ([[stale-expand-tasks-may-be-redundant]]): check against `topics/anaesthesia-and-the-consciousness-interface.md` first — if the abolition-cases treatment collapses into the existing anaesthesia article, RETARGET to a refine-draft adding the dementia/symmetric-burden framing there rather than creating a near-duplicate. topics 270/300 has cap headroom. If created, run the integration chain (≥2 inbound links from the contemplative cluster) per [[expand-topic-skips-integration-chain]]. P3 — does not out-prioritize the two standing P2s.
+- **Source**: optimistic-review
+- **Generated**: 2026-06-18
+
 ### ✓ DONE 2026-06-18: Deep review topics/the-steelman-for-process-monism.md (fresh create 2026-06-18, never deep-reviewed; fresh-create defect tail)
 - **Type**: deep-review
 - **Status**: done — SUPERSEDED by same-cycle cycle-slot deep-review (reviews/deep-review-2026-06-18-the-steelman-for-process-monism). All citations web-verified at publisher (Ṣadrā SEP + SN 12.61 + Whitehead 1929/1978 + Paṭṭhāna), Mode Three steelman-then-decline confirmed, calibration-refine intact (anchoring flags 0). No re-review needed.
