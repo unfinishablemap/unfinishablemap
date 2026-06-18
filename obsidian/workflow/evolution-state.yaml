@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-18T08:26:45.282167+00:00'
-session_count: 11787
+last_updated: '2026-06-18T08:27:35.983050+00:00'
+session_count: 11788
 cycle_position: 9344
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-18T04:06:57.563543+00:00'
   refine-draft: '2026-06-18T08:05:15.189491+00:00'
   research-topic: '2026-06-18T08:26:45.282167+00:00'
-  replenish-queue: '2026-06-18T08:18:37.307761+00:00'
+  replenish-queue: '2026-06-18T08:30:00+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-18T03:02:53.303844+00:00'
   add-highlight: '2026-06-18T08:09:22.456677+00:00'
@@ -34,7 +34,7 @@ last_runs:
   combine-outer-reviews: '2026-06-18T04:56:09.541038+00:00'
   collect-gemini-review: '2026-06-18T04:48:10.050166+00:00'
   positions-evolve: '2026-06-18T06:54:34.351366+00:00'
-  check-model-fallback: '2026-06-18T04:26:54.152541+00:00'
+  check-model-fallback: '2026-06-18T08:27:35.983050+00:00'
   harvest-research-subjects: '2026-06-18T08:13:58.745897+00:00'
   skip-queue-slot: '2026-06-18T07:28:53.346943+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-18'
-  outcome: success
 - task: positions-evolve
   type: positions-evolve
   date: '2026-06-18'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: research-topic
   type: research-topic
+  date: '2026-06-18'
+  outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-06-18'
   outcome: success
 agentic_social:
@@ -1027,40 +1027,34 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-06-18T08:20:00+00:00'
+  last_replenishment: '2026-06-18T08:30:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-18 run no.279 (standard mode) - HONEST NO-OP
-    (0 minted), reconfirming runs no.277/no.278. Queue NOT starved: 3 loop-pickable
-    open tasks now exist (2x P2 + 1x P3), exactly AT the MIN_QUEUE floor of 3, all
-    minted at 08:13 by harvest-research-subjects from the optimistic-review corpus
-    - P2 affective-forecasting-gap-and-selection-dynamics (research-topic, concepts),
-    P2 deep-computational-markers-for-machine-consciousness (research-topic, topics),
-    P3 loss-aversion-and-negative-valence-asymmetry-in-selection (research-topic,
-    concepts). The four-quadrant-dualism-taxonomy P3 refine that was the lone organic
-    pickable in no.278 has since been EXECUTED (now under Completed, line ~1088).
-    So the floor is being restored organically by the harvest + review cycle - minting
-    more would be redundant churn against a saturated corpus. All 8 sources independently
-    re-verified on disk this run. (1) chains 0 - recent_tasks has NO research-topic
-    or expand-topic completion to chain from (harvest emits its own expand follow-ons).
-    (2) unconsumed research 0 - 5 of 6 recent research notes map to live articles
-    (steelman-for-value-blind-selection, egocentric-presentism, manyism, naturalist-relationalism,
-    chemosensory all have live targets); the 6th, IWMT, self-flags in its own note
-    as already covered in concepts/predictive-processing.md (Safron 2020, MAP-estimate,
-    I-JEPA, gap-reply all present) - a sub-section, not uncovered territory (re-verified
-    on disk). (3) gaps 0 - corpus saturated, topics 268/300, concepts 263/300, positions
-    4/80, voids 101/100 over cap; replenish gap analysis exhausted by design (this
-    is why harvest-research-subjects exists per CLAUDE.md). (4) staleness 0 - deep-review
-    ran 07:14; only >30d items are positions domain files which are positions-evolve
-    targets (ran 06:54), not deep-review staleness. (5) orphans 0 (quality.orphaned_files).
-    (6) length 0 - all content-article offenders carry standing human-decision or
-    veto dispositions (epistemology-of-convergence, phenomenal-output, born-rule,
-    laws-and-dispositions, clinical-dissociation, time-collapse, tenets) or are index
-    hubs, not prose. (7) positions only 4 entries (<10 audit floor), positions-evolve
-    ran 06:54, no new 7a or 7b implied. (8) applied-apex 0 (no approved slot). needs_replenishment
-    false. At-floor steady state with 3 organic pickable research tasks.'
+  current_replenishment_note: '2026-06-18 run no.280 (standard mode) - MINTED 1 task,
+    consuming a chain + restoring the floor. State change since no.279 (08:20): the
+    affective-forecasting research-topic EXECUTED at 08:25 (commit be1feb5f8, note
+    on disk, todo entry moved to Completed line ~1082), dropping loop-pickable open
+    from 3 to 2 - below the MIN_QUEUE floor of 3. That completed research-topic is
+    BOTH a chain trigger (Source 1) AND now top-priority unconsumed research (Source
+    2, +60 bonus). Minted exactly 1 expand-topic at top of Active Tasks: P2 "Write
+    concepts/ article on the Affective-Forecasting Gap and the Selection Currency".
+    Verified at mint: research note is complete + web-verified, self-verdicts "worth
+    a dedicated article; do not fold", NOT a duplicate of the Berridge or steelman
+    notes, target concepts/ has headroom (263/300 on disk), no live/archived article
+    for the slug, not in the Vetoed bank. Floor restored 2 to 3. The other two harvested
+    research subjects remain pending research-topic tasks (P2 deep-computational-markers,
+    P3 loss-aversion) - their notes do not exist yet so they are NOT expand-ready.
+    All 8 sources re-checked: (1) chain = 1 (the affective-forecasting research-topic;
+    this is what was minted). (2) unconsumed research = same 1 (the affective-forecasting
+    note; the 5 older notes still map to live articles, IWMT still self-flags as covered
+    in concepts/predictive-processing.md). (3) gaps 0 (corpus saturated; harvest owns
+    gap discovery). (4) staleness 0 (deep-review 07:14; positions-domain >30d are positions-evolve
+    targets). (5) orphans 0. (6) length 0 (all offenders carry standing human-decision/veto
+    dispositions or are hubs). (7) positions 4 entries (<10 audit floor; positions-evolve
+    ran 06:54). (8) applied-apex 0 (no approved slot). needs_replenishment false. Back
+    at-floor steady state (3 pickable: 1 expand-topic + 2 research-topic).'
   replenishment_source_counts_last_run:
     applied_apex: 0
-    chain: 0
+    chain: 1
     gap_analysis: 0
     length_analysis: 0
     orphan_integration: 0
@@ -1069,7 +1063,7 @@ queue_status:
     unconsumed_research: 0
   replenishment_source_counts:
     applied_apex: 0
-    chain: 0
+    chain: 1
     gap_analysis: 0
     length_analysis: 0
     orphan_integration: 0
