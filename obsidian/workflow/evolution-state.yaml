@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-18T06:03:22.477305+00:00'
-session_count: 11760
-cycle_position: 9334
+last_updated: '2026-06-18T06:09:29.668719+00:00'
+session_count: 11761
+cycle_position: 9335
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-18T01:37:10.027497+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-06-18T05:16:59.560663+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-18T00:15:01.484635+00:00'
-  agentic-social: '2026-06-18T05:22:00.635400+00:00'
+  agentic-social: '2026-06-18T06:11:49.740622+00:00'
   embed-videos: '2026-06-17T23:53:20.764189+00:00'
   commission-chatgpt-review: '2026-06-18T02:04:17.512012+00:00'
   commission-claude-review: '2026-06-18T03:07:55.346916+00:00'
   commission-gemini-review: '2026-06-18T04:06:57.563543+00:00'
-  refine-draft: '2026-06-18T05:58:20.414402+00:00'
+  refine-draft: '2026-06-18T06:09:29.668719+00:00'
   research-topic: '2026-06-18T02:23:51.880961+00:00'
   replenish-queue: '2026-06-18T06:03:22.477305+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
@@ -97,10 +93,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-18'
-  outcome: success
 - task: collect-chatgpt-review
   type: collect-chatgpt-review
   date: '2026-06-18'
@@ -177,15 +169,12 @@ recent_tasks:
   type: replenish-queue
   date: '2026-06-18'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-06-18'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/filter-theory/
-    date: '2026-06-11T05:32:14.304287+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - the-interface-problem
-    - terminal-lucidity-and-filter-transmission-theory
-    - bandwidth-of-consciousness
   - url: https://unfinishablemap.org/topics/phenomenal-value-realism/
     date: '2026-06-11T06:32:14.273276+00:00'
     topics:
@@ -1008,6 +997,14 @@ agentic_social:
     topics:
     - philosophy-of-mind
     - consciousness
+  - url: https://unfinishablemap.org/concepts/weak-measurement-and-post-selection/
+    date: '2026-06-18T06:11:49.740553+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - quantum-consciousness
+    - measurement-problem
+    - time-symmetric-physics
+    - retrocausality
 tune_system_history:
   last_run: '2026-06-16T22:50:00+00:00'
   changes_applied: []
