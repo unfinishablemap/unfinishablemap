@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-18T07:42:25.606798+00:00'
-session_count: 11779
+last_updated: '2026-06-18T07:46:54.978424+00:00'
+session_count: 11780
 cycle_position: 9342
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-06-18T05:16:59.560663+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-18T00:15:01.484635+00:00'
-  agentic-social: '2026-06-18T07:02:18.332784+00:00'
+  agentic-social: '2026-06-18T07:49:37.340629+00:00'
   embed-videos: '2026-06-18T06:27:31.848378+00:00'
   commission-chatgpt-review: '2026-06-18T02:04:17.512012+00:00'
   commission-claude-review: '2026-06-18T03:07:55.346916+00:00'
   commission-gemini-review: '2026-06-18T04:06:57.563543+00:00'
   refine-draft: '2026-06-18T06:40:02.862943+00:00'
   research-topic: '2026-06-18T02:23:51.880961+00:00'
-  replenish-queue: '2026-06-18T07:45:37+00:00'
+  replenish-queue: '2026-06-18T07:46:54.978424+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-18T03:02:53.303844+00:00'
   add-highlight: '2026-06-17T08:04:22.798348+00:00'
@@ -97,10 +93,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-18'
-  outcome: success
 - task: refine-draft
   type: refine-draft
   date: '2026-06-18'
@@ -177,14 +169,12 @@ recent_tasks:
   type: pessimistic-review
   date: '2026-06-18'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-06-18'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/the-observer-witness-in-meditation/
-    date: '2026-06-11T07:32:14.627661+00:00'
-    topics:
-    - free-will
-    - hard-problem-of-consciousness
-    - eastern-philosophy-consciousness
   - url: https://unfinishablemap.org/concepts/pragmatism/
     date: '2026-06-11T08:32:46.957994+00:00'
     topics:
@@ -1008,6 +998,14 @@ agentic_social:
     topics:
     - vertiginous-question
     - personal-identity
+  - url: https://unfinishablemap.org/concepts/phenomenal-acquaintance/
+    date: '2026-06-18T07:49:37.340568+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - qualia
+    - phenomenal-consciousness
+    - knowledge-argument
+    - explanatory-gap
 tune_system_history:
   last_run: '2026-06-16T22:50:00+00:00'
   changes_applied: []
@@ -1030,20 +1028,20 @@ queue_status:
   current_replenishment_note: '2026-06-18 run no.277 (standard mode) - HONEST NO-OP
     (0 minted). Queue NOT starved: 1 loop-pickable open P3 now exists (the four-quadrant-dualism-taxonomy
     calibration refine-draft minted by the 07:42 pessimistic-review AFTER run no.276),
-    so the floor is being restored organically by the review cycle - minting more would
-    be redundant. Open Active headers re-counted on disk: 1 actionable (four-quadrant
+    so the floor is being restored organically by the review cycle - minting more
+    would be redundant. Open Active headers re-counted on disk: 1 actionable (four-quadrant
     P3 refine) + 2 #veto condense (meaning-of-life, phenomenal-output-dissociation)
-    + 2 human-decision (synesthetic-void length + its DEFERRED citation-refresh). All
-    8 sources independently re-verified this run: (1) chains 0 - recent_tasks has NO
-    research-topic/expand-topic completion to chain from; (2) unconsumed research 0
-    - all 5 research notes touched <36h (manyism, steelman-for-value-blind-selection,
+    + 2 human-decision (synesthetic-void length + its DEFERRED citation-refresh).
+    All 8 sources independently re-verified this run: (1) chains 0 - recent_tasks
+    has NO research-topic/expand-topic completion to chain from; (2) unconsumed research
+    0 - all 5 research notes touched <36h (manyism, steelman-for-value-blind-selection,
     egocentric-presentism, inference-void, simple-organisms) map to live articles,
     voids over cap blocks void-research spawning; (3) gaps 0 - corpus saturated, topics
     268/300, concepts 263/300, positions 4/80, voids 101/100 over cap; (4) staleness
     0 fresh beyond cycle-slot deep-review coverage; (5) orphans 0 (quality.orphaned_files);
     (6) length 0 NEW - 26 content-article offenders all covered (2 critical veto/veto-tagged;
-    rest vetoed, human-deferred calibration flagships incl laws-and-dispositions, or
-    marginal 6-19w-over recently-reviewed voids hubs what-voids-reveal/wholeheartedness-void
+    rest vetoed, human-deferred calibration flagships incl laws-and-dispositions,
+    or marginal 6-19w-over recently-reviewed voids hubs what-voids-reveal/wholeheartedness-void
     not worth churn); (7) positions: only 4 entries (<10 audit floor), positions-evolve
     ran 06:54, no new 7a/7b; (8) applied-apex 0 (no approved slot). needs_replenishment
     false. At-floor steady state with 1 organic pickable task.'
