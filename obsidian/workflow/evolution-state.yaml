@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-18T17:01:39.352997+00:00'
-session_count: 11868
+last_updated: '2026-06-18T17:07:53.899417+00:00'
+session_count: 11869
 cycle_position: 9379
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-06-18T16:35:03.203806+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-18T00:15:01.484635+00:00'
-  agentic-social: '2026-06-18T16:23:48.294565+00:00'
+  agentic-social: '2026-06-18T17:13:03.615016+00:00'
   embed-videos: '2026-06-18T12:06:58.218228+00:00'
   commission-chatgpt-review: '2026-06-18T02:04:17.512012+00:00'
   commission-claude-review: '2026-06-18T03:07:55.346916+00:00'
   commission-gemini-review: '2026-06-18T04:06:57.563543+00:00'
   refine-draft: '2026-06-18T15:57:34.171390+00:00'
   research-topic: '2026-06-18T10:08:29.298830+00:00'
-  replenish-queue: '2026-06-18T16:58:20.355906+00:00'
+  replenish-queue: '2026-06-18T17:07:53.899417+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-18T16:20:45.674988+00:00'
   add-highlight: '2026-06-18T08:09:22.456677+00:00'
@@ -97,10 +93,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-18'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-18'
@@ -177,15 +169,12 @@ recent_tasks:
   type: skip-queue-slot
   date: '2026-06-18'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-06-18'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/decoherence-and-macroscopic-superposition/
-    date: '2026-06-11T16:32:37.564810+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - quantum-consciousness
-    - decoherence
-    - measurement-problem
   - url: https://unfinishablemap.org/apex/mereology-of-mind/
     date: '2026-06-11T17:32:16.721098+00:00'
     topics:
@@ -1014,6 +1003,11 @@ agentic_social:
     date: '2026-06-18T16:23:14.260245+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/apex/self-concealing-interface/
+    date: '2026-06-18T17:13:03.614960+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - consciousness-disruption-and-the-mind-brain-interface
 tune_system_history:
   last_run: '2026-06-18T12:28:24.819470+00:00'
   changes_applied: []
@@ -1037,11 +1031,11 @@ queue_status:
   last_replenishment_mode: standard
   current_replenishment_note: 'run no.307 (2026-06-18): honest no-op, drained steady
     state holds ([[unfin_loop_steady_state]]). loop-pickable P0-P2 = 0, 0 P3s. Activity
-    since no.306 was one skip-queue-slot (empty slot advanced cycle); no new mint source.
-    Lean inline re-confirm: research drained, chains closed, 0 drift restorers, length
-    offenders protected/human-deferred, orphans 0; the two Active P2 headers are both
-    #veto (not loop-pickable). Floor stays 0 - recovers only when genuinely new work
-    appears (fresh research note, outer-review finding, etc.).'
+    since no.306 was one skip-queue-slot (empty slot advanced cycle); no new mint
+    source. Lean inline re-confirm: research drained, chains closed, 0 drift restorers,
+    length offenders protected/human-deferred, orphans 0; the two Active P2 headers
+    are both #veto (not loop-pickable). Floor stays 0 - recovers only when genuinely
+    new work appears (fresh research note, outer-review finding, etc.).'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
