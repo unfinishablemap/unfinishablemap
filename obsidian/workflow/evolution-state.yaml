@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-18T05:58:20.414402+00:00'
-session_count: 11759
+last_updated: '2026-06-18T06:03:22.477305+00:00'
+session_count: 11760
 cycle_position: 9334
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-18T04:06:57.563543+00:00'
   refine-draft: '2026-06-18T05:58:20.414402+00:00'
   research-topic: '2026-06-18T02:23:51.880961+00:00'
-  replenish-queue: '2026-06-18T06:05:00.000000+00:00'
+  replenish-queue: '2026-06-18T06:03:22.477305+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-18T03:02:53.303844+00:00'
   add-highlight: '2026-06-17T08:04:22.798348+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-06-18'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-18'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: refine-draft
   type: refine-draft
+  date: '2026-06-18'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-18'
   outcome: success
 agentic_social:
@@ -1030,33 +1030,31 @@ queue_status:
   current_replenishment_note: '2026-06-18 run no.268 (standard mode) - NO-OP, 0 minted,
     all 8 sources independently re-verified exhausted/blocked (documented replenish-at-floor
     steady state). KEY CHANGE vs run no.267 (03:19): queue is NO LONGER at absolute
-    floor - loop_pickable_open=3, minted since 03:19 by combine-outer-reviews +
-    optimistic-review, NOT by this run. The 3 fresh pickable tasks at top of Active
-    (todo.md L40-59): (a) P2 refine-draft quantum-state-inheritance-in-ai rigor fixes
-    (Claude Opus 4.8 outer review 2026-06-18), (b) P2 refine-draft quantum-state-inheritance-in-ai
-    currency-update Willow/QEC (ChatGPT 5.5 Pro outer review 2026-06-18), (c) P3
-    positions-evolve collate value-blind/value-sensitive discriminating tests
-    (optimistic review 2026-06-18). Target article confirmed on disk:
-    topics/quantum-state-inheritance-in-ai.md. The two #veto-tagged condenses
-    (meaning-of-life, phenomenal-output-causal-machinery-dissociation) + three open
-    HUMAN LENGTH DECISIONs (synesthetic-void, duhem-quine x2) remain correctly
-    non-pickable. SOURCE VERIFICATION (all 8 re-run on disk): (1) unconsumed-research
+    floor - loop_pickable_open=3, minted since 03:19 by combine-outer-reviews + optimistic-review,
+    NOT by this run. The 3 fresh pickable tasks at top of Active (todo.md L40-59):
+    (a) P2 refine-draft quantum-state-inheritance-in-ai rigor fixes (Claude Opus 4.8
+    outer review 2026-06-18), (b) P2 refine-draft quantum-state-inheritance-in-ai
+    currency-update Willow/QEC (ChatGPT 5.5 Pro outer review 2026-06-18), (c) P3 positions-evolve
+    collate value-blind/value-sensitive discriminating tests (optimistic review 2026-06-18).
+    Target article confirmed on disk: topics/quantum-state-inheritance-in-ai.md. The
+    two #veto-tagged condenses (meaning-of-life, phenomenal-output-causal-machinery-dissociation)
+    + three open HUMAN LENGTH DECISIONs (synesthetic-void, duhem-quine x2) remain
+    correctly non-pickable. SOURCE VERIFICATION (all 8 re-run on disk): (1) unconsumed-research
     - top recent notes all consumed/absorbed: steelman, egocentric-presentism, manyism,
     consciousness-in-simple-organisms (slug spelling differs in-simple vs simple),
     inference-void, naturalist-relationalism, chemosensory; IWMT absorbed as cross-ref
     in concepts/predictive-processing.md (no standalone-article candidate). (2) chain
-    - sole open chain (steelman expand-topic) executed/done; no new completions.
-    (3) length-analysis - 26 live content offenders, ALL either #veto-tagged,
-    open HUMAN LENGTH DECISION, human-deferred calibration flagships, or in Vetoed
-    bank (composition-question-rivals, wholeheartedness-void, quantum-biology x14,
-    machine-question x12 all vetoed); research/ offenders excluded by design.
-    (4) gap-analysis exhausted (corpus near-saturated; today gaps covered by the 3
-    fresh tasks). (5) staleness handled by cycle-slot deep-review scorer. (6) orphans
-    - orphaned_files=0 (integrate-orphan ran 04:25). (7) positions 3 domain files /
-    ~18 entries (cap 80); no new register-worthy commitment; value-blind P3 covers
-    today gap; audit 06-09 within 30d window. (8) applied-apex 34 (over informal ~20
-    cap), A6 slot DEFERRED-TO-HUMAN. Sections: topics 268/300, concepts 263/300,
-    voids 101/100 (over cap, research-voids skips), positions 3/80.'
+    - sole open chain (steelman expand-topic) executed/done; no new completions. (3)
+    length-analysis - 26 live content offenders, ALL either #veto-tagged, open HUMAN
+    LENGTH DECISION, human-deferred calibration flagships, or in Vetoed bank (composition-question-rivals,
+    wholeheartedness-void, quantum-biology x14, machine-question x12 all vetoed);
+    research/ offenders excluded by design. (4) gap-analysis exhausted (corpus near-saturated;
+    today gaps covered by the 3 fresh tasks). (5) staleness handled by cycle-slot
+    deep-review scorer. (6) orphans - orphaned_files=0 (integrate-orphan ran 04:25).
+    (7) positions 3 domain files / ~18 entries (cap 80); no new register-worthy commitment;
+    value-blind P3 covers today gap; audit 06-09 within 30d window. (8) applied-apex
+    34 (over informal ~20 cap), A6 slot DEFERRED-TO-HUMAN. Sections: topics 268/300,
+    concepts 263/300, voids 101/100 (over cap, research-voids skips), positions 3/80.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0

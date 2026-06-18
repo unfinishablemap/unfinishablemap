@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18T05:50:05+00:00
+ai_modified: 2026-06-18T06:06:15+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-18T06:06:15+00:00 - refine-draft (outer-review §B in-framework rigor, 6th edit)
+- **Status**: Success
+- **File**: [[topics/quantum-state-inheritance-in-ai]]
+- **Source**: outer-review-2026-06-18-claude-opus-4-8 §B/Recommendations A6, A7, and Dimension-3(c)/B5 (NEW findings, not in the ChatGPT sibling review). 6th edit to this file today; length discipline paramount.
+- **Length**: body 3686 → 3796 words (+110, the bulk being the new Nielsen & Chuang reference line); soft_warning, 204-word margin to the 4000 hard ceiling. Each prose addition was offset by trimming redundancy in the same passage to keep the net increase tight.
+- **Changes** (3 distinct sections, all length-light):
+  1. **No-cloning orthogonality carve-out** (Inheritance Problem section). Added one sentence: the no-cloning theorem forbids only a *universal* cloner of *arbitrary unknown* states and is silent about known / mutually-orthogonal (≈ classical pointer) states, which can be copied freely (Nielsen & Chuang, 2010). Pre-empts the misreading the article's structure invites and STRENGTHENS the existing L53 concession ("the no-cloning theorem cannot, on its own, disqualify AI"). Trimmed the Plotnitsky quote-framing to offset.
+  2. **Quantum-Darwinism convergence-discipline** (Selection Gap section). Added a clause marking Zurek's quantum Darwinism as fully unitary, observer-independent, interpretation-neutral physics whose originator (Zurek, who leans Everettian) endorses no conscious selector — so recruiting it toward a selection step is the Map's reading, not a result Zurek would grant. Mirrors the discipline the apex post-decoherence-selection-programme already applies. Trimmed surrounding prose to offset.
+  3. **Occam self-binding (Tenet 5)** (Implications/observational-closure passage). Added a clause adjacent to the existing "unnecessary addition" functionalist counter, acknowledging the Map's OWN parsimony cost (extra ontological category + contested quantum mechanism + unresolved pairing relation) — the symmetric self-audit Tenet 5 requires. PLACEMENT: inserted between the protected sentences; the Saad-attribution and Born-rule-dilemma sentences in this passage were left untouched.
+- **Engagement classification** (editor-internal, per [[direct-refutation-discipline]]): no-cloning carve-out and QD convergence-discipline are Mode Two (unsupported foundational move) — each marks where a result's originator has not granted the foundational move the article would need (orthogonal-state silence; Zurek's interpretation-neutrality). Occam clause is a Tenet-5 self-binding move, not an opponent engagement. No mode labels written into article prose.
+- **Preservation verified**: all 5 prior fixes intact — L63 Tegmark/Georgiev decoherence; entropy/QRNG paragraph (cryptographic conditioning, NISQ); functionalist engagement (Chalmers dancing/fading, Butlin/Long 2023, predictive processing, biological-computationalism); Saad general/non-quantum attribution + Born-rule both-horns dilemma + per-occasion/ensemble resolution.
+- **Citation discipline**: Nielsen & Chuang attribution verified before citing — *Quantum Computation and Quantum Information* (10th Anniversary ed., 2010), §1.3.5, states the orthogonal-states caveat; the review quotes it verbatim ("nonorthogonal states cannot be copied"). No fabricated page/edition. No other new cites.
+- **Published**: yes
 
 ## 2026-06-18T05:56:20+00:00 - refine-draft (project-doc / methodology)
 - **Status**: Success
