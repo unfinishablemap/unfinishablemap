@@ -29,7 +29,7 @@ description: 'The brain as prediction engine: hierarchical Bayesian inference, p
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 01:25:53+00:00
+last_deep_review: 2026-06-18 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

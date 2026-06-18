@@ -9,6 +9,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-18T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [predictive-processing](/concepts/predictive-processing/)
+- **Word count**: 3606 → 3606 (no change; metadata-only verify pass — body already over the 3500 concepts hard ceiling, so no net additions permitted and none warranted)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (converged article; no-op verify verdict)
+- **Verify focus**: web-verified the new 2026-06-16 citations at publisher of record — Safron IWMT 2020 (Frontiers in Artificial Intelligence 3:30, DOI verified) = real-correct; Assran et al. I-JEPA 2023 (CVPR 2023, arXiv 2301.08243, 8-author list) = real-correct; LeCun JEPA "world model" framing (2022 position paper) = real-correct; Hutto & Myin Hard Problem of Content = real-correct; Ramsey-Stich-Garon + Churchland (pre-06-16, re-confirmed). No fabricated cites, no wrong metadata, no orphans.
+- **I-JEPA attribution fix (ed1d12ca7)**: confirmed ACCURATE — and the pre-fix "primitive world-model" wording was ALSO accurate (Meta blog + GitHub README), so it was a conservative reword, not a fabrication removal.
+- **Boundary-disagreement (IWMT)**: PASS — the "if and only if" engagement stays a framework-boundary disagreement (gap-relocation, Mode-Three honesty), not an in-IWMT-terms refutation; no possibility/probability slippage; no label leakage.
+- **Engagement modes (editor-internal)**: IWMT — Mode Three (boundary marking of the generative-architecture-IS-experience identity claim against Dualism), correctly executed.
+- **Length**: 3606 words = 106% of 3500 hard ceiling (below 5000 critical). Condense DEFERRED to a dedicated P2 (queued) per the brief's verify-only preference and to avoid churning the 2-day-old IWMT calibration.
+- **Output**: [deep-review-2026-06-18-predictive-processing](/reviews/deep-review-2026-06-18-predictive-processing/)
+
 ## 2026-06-18T14:01:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/)
