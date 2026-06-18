@@ -38,28 +38,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt reductionism calibration in emergence-as-universal-hard-problem
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/emergence-as-universal-hard-problem.md
-- **Notes**: From topic-concept anchoring audit 2026-06-17. The topic article over-claims relative to its anchor concept [reductionism](/concepts/reductionism/); failed checks: hedge_density, underdetermination_markers.
-  - hedge density 2.66/kw is below 3.00/kw (target = 60% of anchor 5.15/kw, capped at 3.0/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-17
-
-### P2: Adopt reductionism calibration in aesthetics-and-consciousness
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/aesthetics-and-consciousness.md
-- **Notes**: From topic-concept anchoring audit 2026-06-17. The topic article over-claims relative to its anchor concept [reductionism](/concepts/reductionism/); failed checks: hedge_density, underdetermination_markers.
-  - hedge density 2.78/kw is below 3.00/kw (target = 60% of anchor 5.15/kw, capped at 3.0/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [calibration-audit-triple](/project/calibration-audit-triple/) Audit Three for the spec and [evidential-status-discipline](/project/evidential-status-discipline/) for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-17
-
+### P2: Research The Steelman for Value-Blind Selection
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-06-05.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-06-05.md (High Priority) flags that both fork articles develop the value-sensitive horn richly and the value-blind / mechanism-only horn comparatively thinly, so the under-developed side is at risk of being a strawman by attrition. The Map holds the value-sensitive view, so a dedicated steelman of the rival horn it does NOT hold is a Tenet-5 (Occam's-limits) discipline gap; no dedicated value-blind steelman article exists (the fork article only sketches the mechanism-only reading). Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/steelman-for-value-blind-selection-2026-06-18.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'steelman-for-value-blind-selection' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-06-18
 
 ### HUMAN LENGTH DECISION (2026-06-17): voids/synesthetic-void.md over the voids hard threshold after the convergent-review counter-readings refine
 - **Type**: human-decision (NOT auto-condensable — do NOT pick as refine-draft/condense)
@@ -1090,6 +1073,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-18: Calibrate two over-strong phrasings in topics/empirical-evidence-for-consciousness-selecting.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-06-18 found two LOW-severity findings on an otherwise stable, well-defended article (fifth review; citations verified clean at publisher of record — DeWall 2008, Desmurget 2009, Craddock 2017 Sci Rep 7:9877). NO critical defect; genuinely deferrable. (a) **Language:** "Nature proved it wrong." (Relation-to-Site-Perspective, Occam's-Limits paragraph) over-claims and equivocates on "Nature" — the natural world falsified the categorical objection *for specific evolved structures*, not the general claim. Soften to e.g. "Nature showed otherwise in specific evolved systems." This is the strong register the article scrupulously avoids elsewhere. (b) **Falsifiability framing (optional):** "What Would Weaken the Case" presents four defeaters as the article's answer to falsifiability, but three of the four ("classical theory succeeds", "epiphenomenalism finds a mechanism", "MWI confirmed") describe a *rival winning*, not an experiment that falsifies consciousness-selecting *itself*; only "neural quantum effects prove absent" is a near-empirical self-defeater (and even it removes a precondition). Add one sentence distinguishing "what makes a rival more attractive" from "what would falsify this hypothesis directly", conceding the latter set is thin at the framework stage — this STRENGTHENS the article's honesty. **Length constraint:** article is at 97% of the 3000-word topics soft threshold (2913w) — both edits must be length-neutral; finding (a) is a wording swap, finding (b) must offset its added sentence with a trim elsewhere or be skipped. **Do NOT re-flag** (deep-review 2026-06-16 stability ledger): the MWI dismissal (Tenet-4 bedrock), the inherent falsifiability gap as a *defect*, the "categorical objection has collapsed" section heading (deliberate Map position), the convergence-table calibration, or Nagarjuna no-self (out of scope). See [pessimistic-2026-06-18-empirical-evidence-for-consciousness-selecting](/reviews/pessimistic-2026-06-18-empirical-evidence-for-consciousness-selecting/).
+
+### ✓ 2026-06-18: Adopt reductionism calibration in aesthetics-and-consciousness
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-17. The topic article over-claims relative to its anchor concept [reductionism](/concepts/reductionism/); failed checks: hedge_density, underdetermination_markers.
+
+### ✓ 2026-06-18: Adopt reductionism calibration in emergence-as-universal-hard-problem
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-17. The topic article over-claims relative to its anchor concept [reductionism](/concepts/reductionism/); failed checks: hedge_density, underdetermination_markers.
 
 ### ✓ 2026-06-17: Cross-review the coalesced concepts/reductionism.md (verify merge coherence + repointed inbound contexts)
 - **Type**: cross-review

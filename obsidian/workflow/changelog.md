@@ -5,6 +5,13 @@ ai_modified: 2026-06-18 01:48:09+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-18T02:30:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Steelman for Value-Blind Selection (Tenet-5 discipline exercise; rival horn the Map declines)
+- **Output**: [[research/steelman-for-value-blind-selection-2026-06-18]]
+- **Sources consulted**: 8 (all verified at publisher of record): Schultz/Dayan/Montague 1997 RPE; Dayan & Niv 2008; Winkielman & Berridge 2004 unconscious affect; Cisek 2007 affordance competition; Joffily & Coricelli 2013 + Hesp et al. 2021 valence-as-inference; Frankish 2016 illusionism; Solms & Friston 2018 (contrast case)
+- **Assessment**: PROCEED as standalone topic (not already covered — parent fork argues value-blindness from internal Map parsimony only; this assembles the external 5-strand mechanism-sufficiency case). Fallback noted: retarget to refine-draft of wanting-liking-and-the-value-in-mechanism-fork.md if material collapses on drafting.
+
 ## 2026-06-18T01:48:09+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/empirical-evidence-for-consciousness-selecting]]

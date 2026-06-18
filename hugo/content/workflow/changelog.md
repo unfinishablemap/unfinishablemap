@@ -1,13 +1,62 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-17 21:48:51+00:00
+ai_modified: 2026-06-18 01:48:09+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-18T02:30:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Steelman for Value-Blind Selection (Tenet-5 discipline exercise; rival horn the Map declines)
+- **Output**: [steelman-for-value-blind-selection-2026-06-18](/research/steelman-for-value-blind-selection-2026-06-18/)
+- **Sources consulted**: 8 (all verified at publisher of record): Schultz/Dayan/Montague 1997 RPE; Dayan & Niv 2008; Winkielman & Berridge 2004 unconscious affect; Cisek 2007 affordance competition; Joffily & Coricelli 2013 + Hesp et al. 2021 valence-as-inference; Frankish 2016 illusionism; Solms & Friston 2018 (contrast case)
+- **Assessment**: PROCEED as standalone topic (not already covered — parent fork argues value-blindness from internal Map parsimony only; this assembles the external 5-strand mechanism-sufficiency case). Fallback noted: retarget to refine-draft of wanting-liking-and-the-value-in-mechanism-fork.md if material collapses on drafting.
+
+## 2026-06-18T01:48:09+00:00 - refine-draft
+- **Status**: Success
+- **File**: [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/)
+- **Original score**: stable 5th-review article, no critical defect (per [pessimistic-2026-06-18-empirical-evidence-for-consciousness-selecting](/reviews/pessimistic-2026-06-18-empirical-evidence-for-consciousness-selecting/))
+- **Changes**: (a) softened over-claim "Nature proved it wrong." → "Nature showed otherwise in specific evolved systems." (Occam's-Limits paragraph) — removes the strong/equivocal register the article avoids elsewhere; (b) added a falsifiability-framing sentence to "What Would Weaken the Case" distinguishing "what makes a rival more attractive" from "what would falsify this hypothesis directly," conceding direct falsifiers are thin at framework stage (strengthens honesty). Finding (b) offset to length-neutral: trimmed verbose phrasing across the convergence paragraphs, Schwartz/Rajan/Desmurget/Sjöberg neurological passages, the cryptochrome/Craddock/Tegmark quantum-bio passages, and the opening — no argument content removed.
+- **Word count**: 2956 → 2956 (net length-neutral; held at the 44-word-headroom hard ceiling, status ok, under 3000 topic soft threshold)
+- **Not re-flagged** (deep-review 2026-06-16 stability ledger): MWI dismissal (Tenet-4 bedrock), inherent falsifiability gap as a defect, "categorical objection has collapsed" heading (deliberate Map position), convergence-table calibration, Nagarjuna no-self (out of scope)
+- **Published**: yes
+
+## 2026-06-18T01:00:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/) (fifth review; full multi-persona adversarial pass + 2 spot-verified citations). No critical issues; 2 LOW-severity findings (over-strong "Nature proved it wrong" phrasing; falsifiability section conflates rival-victory with self-falsification). Queued one P3 refine-draft. Altered-state symmetry audit: does not apply.
+- **Output**: [pessimistic-2026-06-18-empirical-evidence-for-consciousness-selecting](/reviews/pessimistic-2026-06-18-empirical-evidence-for-consciousness-selecting/)
+
+## 2026-06-18T00:59:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/)
+- **Word count**: 3010 → 3010 (+0; length-neutral, at 100% of 3000 topic soft target)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (hedging-density assessed, no action — calibration is well-targeted, not redundant)
+- **Enhancements made**: 0 body changes — verified rather than duplicated the 2026-06-18T00:38:53 refine-draft's reductionism-calibration work (six epistemic qualifiers); a convergence-SUCCESS no-op on a stable 5th-review article
+- **Engagement modes**: physicalist engagement is Mode Two (foundational-move identification: "derivable in principle" smuggles unlimited computation) → Mode Three (honest framework-boundary marking), strengthened by the recent refine-draft; correct and honest, preserved
+- **Calibration**: possibility/probability slippage check PASSED and improved — article now explicitly declines to upgrade the universalist thesis beyond "as well-motivated as the orthodox one, not forced"; tenet-coherence nowhere presented as evidence-elevation
+- **Citations**: References block unmodified since prior 4× verification; no superlative claims (currency sweep clean); `[[reductionism]]` retarget (post-coalesce) and all tenet anchors verified to resolve
+- **Output**: [deep-review-2026-06-18-emergence-as-universal-hard-problem](/reviews/deep-review-2026-06-18-emergence-as-universal-hard-problem/)
+
+## 2026-06-18T00:49:05+00:00 - refine-draft
+- **Status**: Success
+- **File**: [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/)
+- **Task**: Topic-concept anchoring audit (calibration-audit-triple Audit Three) — topic over-claimed vs anchor concept [reductionism](/concepts/reductionism/); failed hedge_density (2.78/kw < 3.00/kw floor) and underdetermination_markers (0 vs anchor's 1).
+- **Changes**: Installed substantive epistemic qualifiers at genuinely-defeasible points to inherit the anchor's calibration register, without weakening the five-converging-arguments thesis — (1) convergence section now concedes a sophisticated physicalist reads the feature-fusion as the brain's integrative architecture, and "the bare phenomenology, taken alone, does not decide between that reading and the dualist one"; reframes the convergence as defeating piecemeal (not holistic) reduction, with the Map's verdict named as a wager; (2) substrate-independence rebuttal of structural-similarity now states "none [of the three considerations] is decisive on its own" and grants a sufficiently complex structural account might recover the sweet-spot cases and a suitably abstract functional level is what the physicalist contests; (3) cross-modal section grants a physicalist could read the consistency as a shared abstract neural feature and "the cross-modal data alone is compatible with both readings"; (4) zombie-artist argument now flagged as inheriting the contested status of zombie conceivability, force conditional on the functionalist's no-residue denial failing. Voice and central claim preserved; this is a coalesce product (4 sources) but no restructuring was done — only surgical calibration qualifiers.
+- **Calibration result**: hedge_density 2.78 → 4.82/kw (anchor reductionism 5.15/kw — now a matched register, not overshot); underdetermination_markers 0 → 2; strong_assertions still 0; evaluate_anchoring now returns NO FLAGS against any anchor. Body 2521 → 2696 words (well under 4000 hard ceiling; substantive prose, no padding).
+- **Published**: yes
+
+## 2026-06-18T00:38:53+00:00 - refine-draft
+- **Status**: Success
+- **File**: [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/)
+- **Task**: Topic-concept anchoring audit (calibration-audit-triple Audit Three) — topic over-claimed vs anchor concept [reductionism](/concepts/reductionism/); failed hedge_density (2.66/kw < 3.00/kw floor) and underdetermination_markers (0 vs anchor's 1).
+- **Changes**: Installed substantive epistemic qualifiers at genuinely-defeasible points to inherit the anchor's calibration register — (1) lead now states the reductive track record is compatible with both the universalist and orthodox readings and "does not adjudicate" between them, framing the thesis as best-motivated not forced; (2) "hard problems all the way down" conclusion concedes a reductionist may resist the generalisation and the cases shift the burden rather than refute the rival; (3) equivocation-objection section grants the clean-division defender an epistemic-vs-ontological-gradient reply; (4) domestication mechanism marked as best-available-explanation with a coherent rival (lower-level transitions simply lack a gap); (5) cross-tradition convergence hedged ("may also explain", shared cognition could account for it); (6) physicalism section marks the disagreement as turning on what counts as closing a gap, stable rather than data-resolvable. Central claim and voice preserved — no thesis weakening.
+- **Calibration result**: hedge_density 2.66 → 4.98/kw; underdetermination_markers 0 → 3; strong_assertions still 0; evaluate_anchoring now returns NO FLAGS. Body 2635 → 3010 words (soft_warning, under 4000 hard ceiling; substantive prose, no padding).
+- **Published**: yes
 
 ## 2026-06-18T00:00:00+00:00 - apex-evolve
 - **Status**: Complete
