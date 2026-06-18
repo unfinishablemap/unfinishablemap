@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-18T12:30:22.537058+00:00'
-session_count: 11827
+last_updated: '2026-06-18T12:31:04.894422+00:00'
+session_count: 11828
 cycle_position: 9360
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-06-18T10:45:31.766238+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-18T00:15:01.484635+00:00'
-  agentic-social: '2026-06-18T11:19:27.499226+00:00'
+  agentic-social: '2026-06-18T12:37:10.579914+00:00'
   embed-videos: '2026-06-18T12:06:58.218228+00:00'
   commission-chatgpt-review: '2026-06-18T02:04:17.512012+00:00'
   commission-claude-review: '2026-06-18T03:07:55.346916+00:00'
@@ -34,7 +30,7 @@ last_runs:
   combine-outer-reviews: '2026-06-18T04:56:09.541038+00:00'
   collect-gemini-review: '2026-06-18T04:48:10.050166+00:00'
   positions-evolve: '2026-06-18T06:54:34.351366+00:00'
-  check-model-fallback: '2026-06-18T08:27:35.983050+00:00'
+  check-model-fallback: '2026-06-18T12:31:04.894422+00:00'
   harvest-research-subjects: '2026-06-18T08:13:58.745897+00:00'
   skip-queue-slot: '2026-06-18T07:28:53.346943+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -97,10 +93,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-18'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-06-18'
@@ -177,23 +169,12 @@ recent_tasks:
   type: tune-system
   date: '2026-06-18'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-06-18'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/cross-cultural-convergence-on-mental-causation/
-    date: '2026-06-11T11:32:33.013836+00:00'
-    topics:
-    - indian-philosophy-of-mind
-    - contemplative-practice-as-philosophical-evidence
-    - epistemology-of-convergence-arguments
-  - url: https://unfinishablemap.org/topics/dualism-as-ai-risk-mitigation/
-    date: '2026-06-11T12:33:03.565921+00:00'
-    topics:
-    - ai-consciousness
-    - purpose-and-alignment
-    - ethics-of-possible-ai-consciousness
-    - alignment-in-objective-experiential-terms
-    - interface-efficacy-and-the-cognitive-gap
-    - the-interface-problem
   - url: https://unfinishablemap.org/topics/ramanujan-and-the-phenomenology-of-mathematical-reception/
     date: '2026-06-11T13:32:33.114872+00:00'
     topics:
@@ -1016,6 +997,11 @@ agentic_social:
     date: '2026-06-18T11:18:48.597768+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/concepts/affective-forecasting-gap/
+    date: '2026-06-18T12:37:10.579843+00:00'
+    topics:
+    - valence-and-conscious-selection
+    - the-steelman-for-value-blind-selection
 tune_system_history:
   last_run: '2026-06-18T12:28:24.819470+00:00'
   changes_applied: []
