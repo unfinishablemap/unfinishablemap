@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-18T10:45:31.766238+00:00'
-session_count: 11809
-cycle_position: 9353
+last_updated: '2026-06-18T10:50:10.925495+00:00'
+session_count: 11810
+cycle_position: 9354
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-18T07:42:25.606798+00:00'
@@ -22,9 +22,9 @@ last_runs:
   commission-chatgpt-review: '2026-06-18T02:04:17.512012+00:00'
   commission-claude-review: '2026-06-18T03:07:55.346916+00:00'
   commission-gemini-review: '2026-06-18T04:06:57.563543+00:00'
-  refine-draft: '2026-06-18T08:05:15.189491+00:00'
+  refine-draft: '2026-06-18T10:50:10.925495+00:00'
   research-topic: '2026-06-18T10:08:29.298830+00:00'
-  replenish-queue: '2026-06-18T10:41:04.589040+00:00'
+  replenish-queue: '2026-06-18T11:05:00+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-18T10:35:51.093383+00:00'
   add-highlight: '2026-06-18T08:09:22.456677+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-18'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-18'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: coalesce
   type: coalesce
+  date: '2026-06-18'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-18'
   outcome: success
 agentic_social:
@@ -1032,22 +1032,16 @@ queue_status:
   p2_tasks: 3
   p3_tasks: 2
   needs_replenishment: false
-  loop_pickable_open: 3
-  last_replenishment: '2026-06-18T10:40:00+00:00'
+  loop_pickable_open: 5
+  last_replenishment: '2026-06-18T11:05:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-18 replenish run no.287 (standard) - PRODUCTIVE:
-    1 minted (IWMT refine-draft P2, unconsumed_research chain repair for the 2026-06-16
-    integrated-world-modeling-theory note whose successor was never minted). Floor
-    was at 2 P0-P2 (deep-computational-markers expand-topic already CONSUMED - article
-    on disk, task moved below Completed); restored to 3 P0-P2 (IWMT refine-draft +
-    negative-valence-asymmetry expand-topic + dualism-cluster cross-link repair).
-    IWMT framed as RETARGET-OR-DECLINE per the note own assess-first verdict (already
-    covered in predictive-processing.md, which is itself over the concepts hard ceiling
-    at 3606w/144% - do NOT bloat the parent; standalone only if distinct material).
-    2 standing P3 (process-monism steelman, primary/secondary-quality boundary). Other
-    sources exhausted/deferred: length all human-deferred, orphans clean (0 genuine),
-    positions audit within 30d window, apex over informal cap. needs_replenishment
-    false.'
+  current_replenishment_note: '2026-06-18 replenish run no.288 (standard) - PRODUCTIVE:
+    1 minted (deep-review concepts/retrocausality.md P2, staleness/changed-since-review:
+    ai_modified 2026-06-16 citation-fix refine > last_deep_review 2026-05-19, fixes
+    unverified; 3065w soft_warning, no length risk; top-placed LIFO-defense). Floor
+    restored to 3 P0-P2 (retrocausality deep-review + negative-valence expand-topic
+    + dualism-cluster integrate-orphan) + 2 standing P3. Other sources exhausted/deferred.
+    needs_replenishment false. [note trimmed: fork re-appended to 2 refs]'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
@@ -1055,8 +1049,8 @@ queue_status:
     length_analysis: 0
     orphan_integration: 0
     positions: 0
-    staleness: 0
-    unconsumed_research: 1
+    staleness: 1
+    unconsumed_research: 0
   replenishment_source_counts:
     applied_apex: 0
     chain: 0
