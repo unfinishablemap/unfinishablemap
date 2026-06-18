@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-18T04:05:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [outer-review-2026-06-18-chatgpt-5-5-pro](/reviews/outer-review-2026-06-18-chatgpt-5-5-pro/)
+- **Subject**: [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/) (recent-aged fallback selection)
+- **Claims verified**: 3 (Georgiev arXiv:1412.4741 ✓ WebFetch; Google Willow Nature s41586-024-08449-y ✓ web search; live article citations cross-checked clean — no fabrications, prior defect history remediated)
+- **High-value findings**: 4 genuinely-absent (Georgiev decoherence critique of Stapp; Willow currency drift + QEC-as-interface objection; functionalist steelman beyond Block / Butlin-Long indicators; direct-QRNG counterexample) + 1 partially-addressed (biological-parity already engaged via observational-closure, downgraded to mirroring fix)
+- **Tasks generated**: 4 (all P2; Source: outer-review, deferred until /combine-outer-reviews synthesizes the cycle)
+- **Notes**: Verdict "conditionally coherent but evidentially over-extended." Sibling Claude 2026-06-18 review on the SAME subject still pending — combine pass will follow. Did NOT mint site-methodology proposals (verification ledger / claim-provenance layer / objection-debt register / per-article changelogs) as tasks (standing-process / operator decisions, not content work). Article at 3136w (over 3000 soft threshold) — all tasks carry length-neutral constraints; Georgiev paragraph routed to the under-length stapp-quantum-mind concept page to protect the target's ceiling. [direct-refutation-discipline](/project/direct-refutation-discipline/) remit attached to the opponent-engagement tasks.
+
 ## 2026-06-18T03:26:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: the value-sensitive-selection / value-in-mechanism cluster (valence-and-conscious-selection, wanting-liking-and-the-value-in-mechanism-fork, the-steelman-for-value-blind-selection [new today], marginal-organism-scope-of-value-sensitive-selection) — the Hardline-Empiricist persona's home turf; deliberately non-overlapping with the four 06-17 optimistic passes
