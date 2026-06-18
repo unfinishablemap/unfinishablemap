@@ -1,13 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18 05:32:00+00:00
+ai_modified: 2026-06-18 05:35:43+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-18T05:35:43+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/)
+- **Source**: outer-review-synthesis-2026-06-18 (convergent P1, 3/3 reviewers) — consolidated opponent-engagement pass (functionalist rivals + biological computationalism merged into one pass)
+- **Issue addressed**: All three reviewers converged that the article's central AI-disqualification is tenet-derived and under-defends against its strongest rivals. The functionalist engagement at L95 named only Block's role functionalism; the substrate claim at L97 ignored the ascendant classical substrate-dependent rival (biological computationalism) that reaches the same no-current-AI verdict with no quantum apparatus, making the Map's quantum+dualist posits look like an unforced cost.
+- **Changes**: (A) At L95 broadened the functionalist engagement compactly — added Chalmers (1995) dancing/fading qualia as the direct substrate-claim challenge; Butlin, Long et al. (2023, arXiv:2308.08708) indicator-based assessment as a weaker-than-the-Map foil (no current AI conscious, but no in-principle barrier) that sharpens the contrast; and [predictive processing](/concepts/predictive-processing/) / active inference (Seth, Clark, Friston) as a fully classical competitor for the selection role — each one sentence, cross-linked not expanded. (B) At L97 added [biological-computationalism](/concepts/biological-computationalism/) (Milinkovic & Aru 2026) as the strongest current classical substrate-dependent rival (hybrid discrete/analog computation, scale-inseparability, metabolic embedding); stated the dialectical pressure and gestured at the existing [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) reply (substrate-inseparability = inadvertent corroboration) without re-arguing it. Added Butlin/Long 2023, Chalmers 1995, Milinkovic & Aru 2026 to References. Offset additive prose with trims in the Persistence Objection, the QRNG-locus paragraph, and the Lie-Ng paragraph. 3371 → 3596 words (+225; still soft_warning, 404 to hard 4000 — no status regression).
+- **Engagement classification (editor-internal, not in article body)**: functionalism/role-functionalism — Mode Two (the framework helps itself to "functional organisation is what matters" without arguing why it would generate qualia); Chalmers dancing-qualia — Mode Three (framework-boundary; the Map notes the genuine disagreement about what consciousness *is* without claiming in-framework refutation); biological computationalism — Mode Three with a corroboration twist (boundary disagreement, but the rival's own evidence is read as supporting the substrate-inseparability the interface needs). No mode labels written into the article prose.
+- **Citation verification (live, per ai_citation_metadata_unreliable)**: Butlin, Long et al. confirmed arXiv:2308.08708, "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness," 19-author report, concludes no current AI conscious + no obvious in-principle barriers. Chalmers 1995 confirmed "Absent Qualia, Fading Qualia, Dancing Qualia" in Metzinger (ed.) *Conscious Experience* (Principle of Organisational Invariance). Milinkovic & Aru reused the corpus-established 2026 form (Neurosci. Biobehav. Rev. 181:106524, DOI 10.1016/j.neubiorev.2025.106524) already verified this session in concepts/reductionism + concepts/biological-computationalism — NOT re-verified per task note.
+- **DID NOT ACT ON** (Gemini fabrications, per synthesis Verification Notes): "Quantum Biology Institute / Hodgkins" Fibonacci-microtubule data and "Zeiner-Gundersen 2025" — invented; left out by design. Left the L79 entropy paragraph (QRNG) and L101 observational-closure passage (Saad + Born-rule fixes already landed) intact per task.
+- **Published**: yes
 
 ## 2026-06-18T05:32:00+00:00 - refine-draft
 - **Status**: Success
