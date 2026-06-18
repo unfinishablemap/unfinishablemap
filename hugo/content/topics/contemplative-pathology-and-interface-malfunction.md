@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-06-18 14:01:00+00:00
+ai_modified: 2026-06-18 16:18:07+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,6 +26,7 @@ related_articles:
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[consciousness-and-neurodegenerative-disease]]'
 - '[[edge-states-and-void-probes]]'
+- '[[contentless-awareness-evidence]]'
 title: Contemplative Pathology and Interface Malfunction
 topics:
 - '[[contemplative-practice-as-philosophical-evidence]]'
@@ -81,7 +82,7 @@ The convergence across pathways — contemplative crisis, anaesthesia, ketamine 
 
 **Consciousness persists through interface malfunction.** Practitioners experiencing severe contemplative pathology frequently report that awareness itself continues — sometimes with unusual clarity — even as ordinary cognitive functions destabilise. The witness does not vanish in these reports; it becomes trapped in configurations that make normal functioning difficult.
 
-The reading this supports needs care. What the practitioner supplies is an epistemic datum — a *report* of preserved awareness during disruption. The abolition cases supply the contrary report: under deep anaesthesia, in the late stages of dementia, awareness is not reported as preserved at all. A bare report of persisting awareness cannot, on its own, carry the metaphysical conclusion that consciousness is not produced by the brain, because the contrary reports would then carry the opposite conclusion with equal force. The dualist bridge from datum to conclusion does not live in the report; it lives in the convergent evidence the [anaesthesia case assembles](/topics/anaesthesia-and-the-consciousness-interface/) — that consciousness sometimes *persists or intensifies* rather than merely surviving during severe neural disruption, that the transition is graded rather than binary, and that neural inertia produces hysteresis in which identical neural states correspond to different conscious states depending on transition direction. Those are the features that strain a production account. The contemplative report is one strand of that case, not its load-bearing element. Read this way, the Map's dualism predicts that consciousness is not produced by the interface, so interface failure distorts the coupling rather than the experiencer — but the prediction earns its keep through the convergent record, not the testimony alone.
+The reading this supports needs care. What the practitioner supplies is an epistemic datum — a *report* of preserved awareness during disruption. The abolition cases supply the contrary report: under deep anaesthesia, in the late stages of dementia, awareness is not reported as preserved at all. A bare report of persisting awareness cannot, on its own, carry the metaphysical conclusion that consciousness is not produced by the brain, because the contrary reports would then carry the opposite conclusion with equal force. The gap between a report of awareness and the claim that awareness was present is itself a structural one — the apparatus that would certify persistence is exactly what the disrupted or abolished state takes offline, an asymmetry [what could count as evidence for contentless awareness](/topics/contentless-awareness-evidence/) analyses in detail. The dualist bridge from datum to conclusion does not live in the report; it lives in the convergent evidence the [anaesthesia case assembles](/topics/anaesthesia-and-the-consciousness-interface/) — that consciousness sometimes *persists or intensifies* rather than merely surviving during severe neural disruption, that the transition is graded rather than binary, and that neural inertia produces hysteresis in which identical neural states correspond to different conscious states depending on transition direction. Those are the features that strain a production account. The contemplative report is one strand of that case, not its load-bearing element. Read this way, the Map's dualism predicts that consciousness is not produced by the interface, so interface failure distorts the coupling rather than the experiencer — but the prediction earns its keep through the convergent record, not the testimony alone.
 
 **Recovery responds to interface-level intervention.** Clinical reports suggest that effective treatment for contemplative pathology typically involves guided return to ordinary interface function — grounding practices that re-engage sensory-motor coupling, deliberate reactivation of default-mode processing, and graduated re-establishment of the perceptual filters that contemplative practice weakened (Lindahl et al., 2017). Standard psychiatric medication may help manage acute symptoms, but clinicians working with contemplative crises emphasise practice-informed grounding that addresses the interface directly alongside standard care — a pattern consistent with disruption at the coupling level rather than the neurochemical level.
 
@@ -104,6 +105,7 @@ The [minimal quantum interaction tenet](/tenets/#minimal-quantum-interaction) su
 - [edge-states-and-void-probes](/voids/edge-states-and-void-probes/)
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
 - [The Epistemological Challenge](/topics/attention-and-the-consciousness-interface/#the-epistemological-challenge) — When attention itself is disordered
+- [contentless-awareness-evidence](/topics/contentless-awareness-evidence/) — Why a report of preserved awareness cannot, on its own, settle whether awareness persisted — the discipline the abolition-symmetry argument depends on
 
 ## References
 

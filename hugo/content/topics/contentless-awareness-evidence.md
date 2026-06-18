@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-03
-ai_modified: 2026-06-03 15:39:37+00:00
+ai_modified: 2026-06-18 16:18:07+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -22,6 +22,7 @@ related_articles:
 - '[[witness-consciousness]]'
 - '[[evidential-status-discipline]]'
 - '[[minimal-consciousness-void]]'
+- '[[contemplative-pathology-and-interface-malfunction]]'
 title: 'Contentless Awareness: What Could Count as Evidence?'
 topics:
 - '[[essential-vs-contingent-consciousness]]'
@@ -87,6 +88,7 @@ The Map's resulting stance is therefore deliberately modest. It records the phen
 - [witness-consciousness](/concepts/witness-consciousness/) — The *sakshi* (witness-self) at the centre of the Vedantic reading
 - [evidential-status-discipline](/project/evidential-status-discipline/) — Keeping "favoured by the framework" and "supported by evidence" apart
 - [minimal-consciousness-void](/voids/minimal-consciousness-void/) — How little experience can there be, and how would we know?
+- [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — Where the same report-versus-claim discipline governs the abolition cases (deep anaesthesia, dementia) that are the symmetric burden on the filter model
 
 ## References
 

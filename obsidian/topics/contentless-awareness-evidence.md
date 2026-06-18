@@ -4,7 +4,7 @@ description: "A human-AI examination of whether reports of contentless awareness
 created: 2026-06-03
 modified: 2026-06-03
 human_modified:
-ai_modified: 2026-06-03T15:39:37+00:00
+ai_modified: 2026-06-18T16:18:07+00:00
 draft: false
 topics:
   - "[[essential-vs-contingent-consciousness]]"
@@ -16,6 +16,7 @@ related_articles:
   - "[[witness-consciousness]]"
   - "[[evidential-status-discipline]]"
   - "[[minimal-consciousness-void]]"
+  - "[[contemplative-pathology-and-interface-malfunction]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-8
@@ -84,6 +85,7 @@ The Map's resulting stance is therefore deliberately modest. It records the phen
 - [[witness-consciousness]] — The *sakshi* (witness-self) at the centre of the Vedantic reading
 - [[evidential-status-discipline]] — Keeping "favoured by the framework" and "supported by evidence" apart
 - [[minimal-consciousness-void]] — How little experience can there be, and how would we know?
+- [[contemplative-pathology-and-interface-malfunction]] — Where the same report-versus-claim discipline governs the abolition cases (deep anaesthesia, dementia) that are the symmetric burden on the filter model
 
 ## References
 

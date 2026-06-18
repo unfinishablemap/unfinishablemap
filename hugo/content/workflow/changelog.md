@@ -9,6 +9,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-18T16:18:07+00:00 - expand-topic (assess-first → DECLINE + integration)
+- **Status**: Success (declined create; surgical integration instead)
+- **Candidate**: "the abolition cases (apparent phenomenal silence) under the filter model" — propofol/deep anaesthesia + advanced dementia as the symmetric evidential burden. From optimistic-2026-06-18d (queued P3, assess-first).
+- **Decision**: DECLINE new article. The distinctive angle (evidential symmetry — abolition cluster must be weighed equally against the supportive contemplative cluster) is already written explicitly in `topics/contemplative-pathology-and-interface-malfunction.md` (the 2026-06-18 altered-state-symmetry refine: "the abolition cases... are the symmetric burden the filter framing must accommodate, not additional confirmations"). The abolition phenomenology is owned by `anaesthesia-and-the-consciousness-interface` (propofol/deep anaesthesia) and `consciousness-and-neurodegenerative-disease` (advanced dementia); the report-vs-metaphysical-claim discipline a dedicated piece would carry is owned at full resolution by `contentless-awareness-evidence`. A new article would be a near-duplicate assembled from these three; creating it risks coalesce/duplicate-URL harm with no distinct contribution.
+- **Integration done instead**: wove the one genuinely-missing reciprocal link — `contemplative-pathology` ↔ `contentless-awareness-evidence` (the symmetric-burden argument leans on the report-cannot-certify-persistence discipline but had no link to where that discipline is analysed). In-body link added in pathology's abolition-symmetry passage; reciprocal in-body link added in contentless; related_articles + Further Reading reciprocated both ways.
+- **Files modified**: [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/), [contentless-awareness-evidence](/topics/contentless-awareness-evidence/)
+- **Citations**: none added (no new factual content).
+
 ## 2026-06-18T16:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [primary-secondary-quality-boundary](/topics/primary-secondary-quality-boundary/)
