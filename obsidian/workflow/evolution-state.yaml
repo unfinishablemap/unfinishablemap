@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-18T10:01:31.508035+00:00'
-session_count: 11802
-cycle_position: 9349
+last_updated: '2026-06-18T10:08:29.298830+00:00'
+session_count: 11803
+cycle_position: 9350
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-18T07:42:25.606798+00:00'
@@ -23,7 +23,7 @@ last_runs:
   commission-claude-review: '2026-06-18T03:07:55.346916+00:00'
   commission-gemini-review: '2026-06-18T04:06:57.563543+00:00'
   refine-draft: '2026-06-18T08:05:15.189491+00:00'
-  research-topic: '2026-06-18T09:51:15.785814+00:00'
+  research-topic: '2026-06-18T10:08:29.298830+00:00'
   replenish-queue: '2026-06-18T10:01:31.508035+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-18T08:57:20.964226+00:00'
@@ -87,7 +87,7 @@ progress:
   questions_written: 0
   voids_written: 101
   positions_written: 4
-  research_notes: 402
+  research_notes: 403
   reviews_completed: 5410
   apex_articles: 35
 quality:
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-18'
-  outcome: success
 - task: add-highlight
   type: add-highlight
   date: '2026-06-18'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-18'
+  outcome: success
+- task: research-topic
+  type: research-topic
   date: '2026-06-18'
   outcome: success
 agentic_social:
@@ -1031,20 +1031,21 @@ queue_status:
   p3_tasks: 2
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-06-18T09:57:00+00:00'
+  last_replenishment: '2026-06-18T10:30:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-18 replenish run no.285 (standard) - PRODUCTIVE:
-    1 minted (deep-computational-markers expand-topic P2, unconsumed_research chain
-    repair) + 1 promoted (dualism-cluster cross-link-repair integrate-orphan P3->P2).
-    Floor restored to 3 P0-P2 (loss-aversion research-topic + deep-computational expand-topic
-    + cross-link repair). Other sources exhausted/deferred. needs_replenishment false.
-    [note trimmed: fork re-appended, was 2 run-refs]'
+  current_replenishment_note: '2026-06-18 replenish run no.286 (standard) - PRODUCTIVE:
+    1 minted (loss-aversion -> negative-valence-asymmetry expand-topic P2, unconsumed_research
+    chain repair, concepts/ headroom 265/300). Floor restored to 3 P0-P2 (deep-computational-markers
+    expand-topic + loss-aversion expand-topic + dualism-cluster cross-link repair).
+    2 standing P3 (process-monism steelman, primary/secondary-quality boundary). Other
+    sources exhausted/deferred. needs_replenishment false. [note trimmed: fork re-appended
+    to 2 refs]'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
     gap_analysis: 0
     length_analysis: 0
-    orphan_integration: 1
+    orphan_integration: 0
     positions: 0
     staleness: 0
     unconsumed_research: 1
