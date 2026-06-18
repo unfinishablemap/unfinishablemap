@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-18T13:15:37.177647+00:00'
-session_count: 11835
-cycle_position: 9363
+last_updated: '2026-06-18T13:21:34.293524+00:00'
+session_count: 11836
+cycle_position: 9364
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-18T07:42:25.606798+00:00'
   optimistic-review: '2026-06-18T09:22:15.256684+00:00'
   check-tenets: '2026-06-18T12:23:23.865047+00:00'
   check-links: '2026-06-18T12:13:39.145597+00:00'
-  deep-review: '2026-06-18T13:10:34.855260+00:00'
+  deep-review: '2026-06-18T13:21:34.293524+00:00'
   tune-system: '2026-06-18T12:30:22.537058+00:00'
   research-voids: '2026-06-18T12:16:30.409521+00:00'
   coalesce: '2026-06-18T10:45:31.766238+00:00'
@@ -88,7 +88,7 @@ progress:
   voids_written: 101
   positions_written: 4
   research_notes: 403
-  reviews_completed: 5418
+  reviews_completed: 5419
   apex_articles: 35
 quality:
   critical_issues: 0
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-18'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-18'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-18'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-18'
   outcome: success
 agentic_social:
@@ -1025,21 +1025,16 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-06-18T13:25:00+00:00'
+  last_replenishment: '2026-06-18T13:30:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-18 replenish run no.295 (standard) - FLOOR-RESTORING:
-    1 minted (P2 deep-review arguments/arguments.md). Loop-pickable open P0-P2 dropped
-    to 2 (primary/secondary-quality expand + dualism-cluster cross-link-repair) when
-    the same-cycle process-monism deep-review completed; floor is 3 -> minted +1.
-    Chosen as the lowest-risk floor restorer: arguments/arguments.md is the LONE genuine
-    drift candidate (9 of 10 articles >=30d since last_deep_review are converged no-ops;
-    arguments index was substantively recalibrated 2026-06-01 commit c9e61d424 but
-    last deep-reviewed 2026-05-17, 32d). Review verifies the 06-01 epiphenomenalism-overclaim
-    softening propagated index-wide and that summaries still track their child argument
-    pages; 803w, no length/cap risk. All other mint-sources exhausted: unconsumed-research
-    drained (all recent notes consumed or IWMT resolved-as-decline), chains closed
-    (new articles 3-4 inbound each), caps no fresh expand candidate, length all human-deferred/vetoed,
-    orphans 0. needs_replenishment false.'
+  current_replenishment_note: '2026-06-18 replenish run no.296 (standard) - FLOOR-RESTORING:
+    1 minted (P2 deep-review voids/infant-consciousness.md, staleness/post-edit drift:
+    2026-06-17 neonatal-synesthesia evidential-status harmonisation [softened destroyed/demolished
+    -> contested tier] unverified since 05-26 review, +22d; 1892w ok). Lone genuine
+    drift (others are cross-article-touch artifacts). Floor restored to 3 P2 (infant-consciousness
+    DR + primary/secondary-quality expand + dualism-cluster cross-link-repair). All
+    other mint-sources exhausted. needs_replenishment false. [note trimmed: fork re-bloated
+    to 2 refs + added cruft key current_replenishment_note_prev (removed)]'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
