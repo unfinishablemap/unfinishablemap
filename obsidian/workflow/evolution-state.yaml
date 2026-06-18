@@ -1,5 +1,9 @@
-last_updated: '2026-06-18T08:36:21.768091+00:00'
-session_count: 11789
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-18T08:40:30.433637+00:00'
+session_count: 11790
 cycle_position: 9344
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,14 +17,14 @@ last_runs:
   coalesce: '2026-06-18T05:16:59.560663+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-18T00:15:01.484635+00:00'
-  agentic-social: '2026-06-18T08:39:13.795418+00:00'
+  agentic-social: '2026-06-18T08:40:30.433637+00:00'
   embed-videos: '2026-06-18T06:27:31.848378+00:00'
   commission-chatgpt-review: '2026-06-18T02:04:17.512012+00:00'
   commission-claude-review: '2026-06-18T03:07:55.346916+00:00'
   commission-gemini-review: '2026-06-18T04:06:57.563543+00:00'
   refine-draft: '2026-06-18T08:05:15.189491+00:00'
   research-topic: '2026-06-18T08:26:45.282167+00:00'
-  replenish-queue: '2026-06-18T08:36:21.768091+00:00'
+  replenish-queue: '2026-06-18T08:45:00+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-18T03:02:53.303844+00:00'
   add-highlight: '2026-06-18T08:09:22.456677+00:00'
@@ -93,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-18'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-18'
@@ -171,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-18'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-06-18'
   outcome: success
 agentic_social:
@@ -1021,34 +1025,39 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-06-18T08:30:00+00:00'
+  last_replenishment: '2026-06-18T08:45:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-18 run no.280 (standard mode) - MINTED 1 task,
-    consuming a chain + restoring the floor. State change since no.279 (08:20): the
-    affective-forecasting research-topic EXECUTED at 08:25 (commit be1feb5f8, note
-    on disk, todo entry moved to Completed line ~1082), dropping loop-pickable open
-    from 3 to 2 - below the MIN_QUEUE floor of 3. That completed research-topic is
-    BOTH a chain trigger (Source 1) AND now top-priority unconsumed research (Source
-    2, +60 bonus). Minted exactly 1 expand-topic at top of Active Tasks: P2 "Write
-    concepts/ article on the Affective-Forecasting Gap and the Selection Currency".
-    Verified at mint: research note is complete + web-verified, self-verdicts "worth
-    a dedicated article; do not fold", NOT a duplicate of the Berridge or steelman
-    notes, target concepts/ has headroom (263/300 on disk), no live/archived article
-    for the slug, not in the Vetoed bank. Floor restored 2 to 3. The other two harvested
-    research subjects remain pending research-topic tasks (P2 deep-computational-markers,
-    P3 loss-aversion) - their notes do not exist yet so they are NOT expand-ready.
-    All 8 sources re-checked: (1) chain = 1 (the affective-forecasting research-topic;
-    this is what was minted). (2) unconsumed research = same 1 (the affective-forecasting
-    note; the 5 older notes still map to live articles, IWMT still self-flags as covered
-    in concepts/predictive-processing.md). (3) gaps 0 (corpus saturated; harvest owns
-    gap discovery). (4) staleness 0 (deep-review 07:14; positions-domain >30d are
-    positions-evolve targets). (5) orphans 0. (6) length 0 (all offenders carry standing
-    human-decision/veto dispositions or are hubs). (7) positions 4 entries (<10 audit
-    floor; positions-evolve ran 06:54). (8) applied-apex 0 (no approved slot). needs_replenishment
-    false. Back at-floor steady state (3 pickable: 1 expand-topic + 2 research-topic).'
+  current_replenishment_note: '2026-06-18 run no.281 (standard mode) - PROMOTED 1 task
+    (P3 to P2), minted 0. State change since no.280 (08:30): no new task executed,
+    but the queue was already at 2 P0-P2 not 3. The no.280 note logged loop-pickable
+    3 (counting the P3 loss-aversion research-topic), but the MIN_QUEUE floor counts
+    P0-P2 ONLY (count_p0_p2_tasks excludes P3), so the real queue-health depth was
+    2 - below the floor of 3. The two genuine P0-P2 were the affective-forecasting
+    expand-topic and the deep-computational-markers research-topic; the loss-aversion
+    research-topic sat at P3 and did not count. All 8 generative sources were re-checked
+    and ALL were exhausted/blocked, so no new task could be minted: (1) chain 0 -
+    the affective-forecasting research-topic chain is already consumed by the queued
+    expand-topic; no fresh completed chain trigger since. (2) unconsumed research 0
+    - affective-forecasting note already has its expand-topic; other recent notes
+    (steelman, egocentric-presentism, manyism, IWMT, naturalist-relationalism) map
+    to live articles. (3) gaps 0 - corpus saturated; harvest owns gap discovery and
+    its two subjects are already queued. (4) staleness 0 - deep-review ran 07:14 today.
+    (5) orphans 0 - quality.orphaned_files 0. (6) length 0 - all live-content offenders
+    carry standing human-decision/veto dispositions or are hubs/surveys (synesthetic-void
+    open HUMAN LENGTH DECISION; clinical-dissociation + epistemology-of-convergence
+    DIVERTED-TO-HUMAN; born-rule human-deferred; phenomenal-output and meaning-of-life
+    veto-tagged); auto-condensing them risks the calibration-regression / human-decision-mispick
+    failure modes. (7) positions 4 entries (<10 audit floor; positions-evolve ran
+    06:54). (8) applied-apex 0 (A6 slot is DEFERRED-TO-HUMAN, no approved slot). With
+    every source exhausted, the floor was restored by PROMOTING the already-queued,
+    harvest-vetted P3 loss-aversion research-topic to P2 - the lowest-risk action:
+    no speculative new work, no protected length offender touched, subject not in the
+    Vetoed bank, target concepts/ has headroom (263/300). Floor restored 2 to 3. Now
+    at-floor steady state (3 P0-P2 pickable: 1 expand-topic + 2 research-topic). needs_replenishment
+    false.'
   replenishment_source_counts_last_run:
     applied_apex: 0
-    chain: 1
+    chain: 0
     gap_analysis: 0
     length_analysis: 0
     orphan_integration: 0
@@ -1057,7 +1066,7 @@ queue_status:
     unconsumed_research: 0
   replenishment_source_counts:
     applied_apex: 0
-    chain: 1
+    chain: 0
     gap_analysis: 0
     length_analysis: 0
     orphan_integration: 0
