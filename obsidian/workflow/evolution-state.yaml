@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-18T12:37:38.839141+00:00'
-session_count: 11829
-cycle_position: 9360
+last_updated: '2026-06-18T12:45:21.809012+00:00'
+session_count: 11830
+cycle_position: 9361
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-18T07:42:25.606798+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-06-18T02:04:17.512012+00:00'
   commission-claude-review: '2026-06-18T03:07:55.346916+00:00'
   commission-gemini-review: '2026-06-18T04:06:57.563543+00:00'
-  refine-draft: '2026-06-18T12:04:33.990456+00:00'
+  refine-draft: '2026-06-18T12:45:21.809012+00:00'
   research-topic: '2026-06-18T10:08:29.298830+00:00'
   replenish-queue: '2026-06-18T12:01:07.868351+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-18'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-18'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-18'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-18'
   outcome: success
 agentic_social:
@@ -1025,24 +1025,31 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-06-18T12:55:00+00:00'
+  last_replenishment: '2026-06-18T13:05:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-18 replenish run no.292 (standard) - FLOOR-RESTORING:
-    1 minted (P2 refine-draft ''Audit four-quadrant forward-refs to channel-width
-    axis'', optimistic-2026-06-18c Ideas-for-Later, length-neutral integration audit)
-    + closed stale 2026-03-29 process-philosophy P3 as SUPERSEDED (by today''s the-steelman-for-process-monism).
-    Floor at 3 P2 (primary/secondary-quality expand + dualism-cluster cross-link-repair
-    + four-quadrant audit), 0 P3. All mint-sources exhausted (unconsumed-research
-    drained, chains closed, staleness converged no-op). needs_replenishment false.
-    [note trimmed: fork re-appended to 2 refs]'
+  current_replenishment_note: '2026-06-18 replenish run no.293 (standard) - FLOOR-RESTORING:
+    1 minted (P2 deep-review concepts/introspection.md). Floor dropped to 2 when this
+    cycle completed the four-quadrant forward-ref audit; restored to 3 (primary/secondary-quality
+    expand + dualism-cluster cross-link-repair integrate-orphan + introspection deep-review),
+    0 P3. Chosen as lowest-risk restorer - reviews EXISTING article, NOT a converged
+    no-op, grounded in genuine post-refine drift (2026-06-17 blindsight/illusionism
+    content fix unverified since 2026-06-01 review; same pattern as runs 288/289).
+    STRICT length-neutral - introspection is 3499w body, 1 under concepts 3500 hard.
+    All other mint-sources exhausted on fresh full audit: unconsumed-research drained
+    (IWMT note correctly resolved-as-decline today, covered in predictive-processing.md);
+    chains closed; staleness contextual-selection-in-quantum-foundations is converged
+    no-op (ai_modified==last_deep_review 2026-05-19); two standing P3 expands consumed
+    (process-monism executed, primary/secondary promoted); voids over cap 101/100,
+    topics 270/300 & concepts 265/300 headroom but no fresh candidate; length offenders
+    human-deferred/veto/protected; orphans 0. needs_replenishment false.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
     gap_analysis: 0
     length_analysis: 0
-    orphan_integration: 1
+    orphan_integration: 0
     positions: 0
-    staleness: 0
+    staleness: 1
     unconsumed_research: 0
     promotion: 0
   replenishment_source_counts:
@@ -1050,8 +1057,8 @@ queue_status:
     chain: 0
     gap_analysis: 0
     length_analysis: 0
-    orphan_integration: 1
+    orphan_integration: 0
     positions: 0
-    staleness: 0
+    staleness: 1
     unconsumed_research: 0
     promotion: 0
