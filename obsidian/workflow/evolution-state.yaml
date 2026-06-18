@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-18T19:24:13.328461+00:00'
-session_count: 11897
-cycle_position: 9390
+last_updated: '2026-06-18T19:31:53.850867+00:00'
+session_count: 11898
+cycle_position: 9391
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-18T19:22:55.604572+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-06-18T02:04:17.512012+00:00'
   commission-claude-review: '2026-06-18T03:07:55.346916+00:00'
   commission-gemini-review: '2026-06-18T04:06:57.563543+00:00'
-  refine-draft: '2026-06-18T15:57:34.171390+00:00'
+  refine-draft: '2026-06-18T19:31:53.850867+00:00'
   research-topic: '2026-06-18T10:08:29.298830+00:00'
   replenish-queue: '2026-06-18T19:24:13.328461+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: skip-queue-slot
-  type: skip-queue-slot
-  date: '2026-06-18'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-18'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-18'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-18'
   outcome: success
 agentic_social:
@@ -1029,17 +1029,17 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 1
+  p2_tasks: 0
   p3_tasks: 0
   needs_replenishment: false
-  loop_pickable_open: 1
-  last_replenishment: '2026-06-18T18:08:00+00:00'
+  loop_pickable_open: 0
+  last_replenishment: '2026-06-18T18:14:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.320 (2026-06-18): honest no-op at floor=1. 1
-    loop-pickable P2 (tactile-consciousness misquote/scope refine, queued by this
-    cycle''s pessimistic-review); 0 P3s to promote, nothing genuine to mint to reach
-    the floor of 3 (research drained, chains closed, 0 drift restorers, length protected,
-    orphans 0). The tactile P2 is the next queue pick. Handled inline (no fork).'
+  current_replenishment_note: 'run no.321 (2026-06-18): honest no-op, mature-corpus
+    drained steady state ([[unfin_loop_steady_state]]). loop-pickable P0-P2 = 0, 0
+    P3s (the tactile-consciousness refine from pessimistic-review just executed).
+    Nothing to mint; floor recovers only on genuinely new work. Handled inline (no
+    fork).'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
