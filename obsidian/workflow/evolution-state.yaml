@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-18T11:19:27.499226+00:00'
-session_count: 11815
-cycle_position: 9356
+last_updated: '2026-06-18T11:27:31.715502+00:00'
+session_count: 11816
+cycle_position: 9357
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-18T07:42:25.606798+00:00'
   optimistic-review: '2026-06-18T09:22:15.256684+00:00'
   check-tenets: '2026-06-17T18:43:12.529265+00:00'
   check-links: '2026-06-18T00:01:04.560361+00:00'
-  deep-review: '2026-06-18T11:16:44.531553+00:00'
+  deep-review: '2026-06-18T11:27:31.715502+00:00'
   tune-system: '2026-06-16T23:06:12.723747+00:00'
   research-voids: '2026-06-18T00:04:03.374718+00:00'
   coalesce: '2026-06-18T10:45:31.766238+00:00'
@@ -88,7 +88,7 @@ progress:
   voids_written: 101
   positions_written: 4
   research_notes: 403
-  reviews_completed: 5413
+  reviews_completed: 5414
   apex_articles: 35
 quality:
   critical_issues: 0
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-18'
-  outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-06-18'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-18'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-18'
   outcome: success
 agentic_social:
@@ -1030,34 +1030,20 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 3
-  p3_tasks: 2
+  p3_tasks: 1
   needs_replenishment: false
-  loop_pickable_open: 5
-  last_replenishment: '2026-06-18T11:30:00+00:00'
+  loop_pickable_open: 4
+  last_replenishment: '2026-06-18T12:00:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-18 replenish run no.289 (standard) - PRODUCTIVE:
-    1 minted (deep-review voids/appetitive-void.md P2, staleness/changed-since-review:
-    ai_modified 2026-06-15 substantive refine [equivocation + convergence-overcount
-    + citation gap] > last_deep_review 2026-05-17, fixes unverified; drift 29d age
-    32d; 2120w soft_warning no length risk; ai_system opus-4-6 older; top-placed LIFO-defense).
-    Floor restored to 3 P0-P2 (appetitive-void deep-review + negative-valence expand-topic
-    + dualism-cluster integrate-orphan) + 2 standing P3. Other sources exhausted:
-    unconsumed research drained (all recent notes consumed - IWMT resolved-by-decline,
-    affective-forecasting / deep-comp-markers / value-blind-steelman / manyism / egocentric-presentism
-    / naturalist-relationalism / chemosensory all have articles; negative-valence
-    already queued); chains all closed same-day; length offenders all tracked (human-decision
-    flagships, vetoed, or accepted-as-survey); orphans 0; gap analysis exhausted (harvest-research-subjects
-    owns research minting). needs_replenishment false.'
+  current_replenishment_note: '2026-06-18 replenish run no.290 (standard) - PROMOTION-ONLY
+    floor restore (0 minted, 1 promoted): process-monism steelman-and-decline expand-topic
+    P3->P2 (well-grounded optimistic-review gap; no steelman page for Map''s strongest
+    rival; supersedes stale 2026-03-29 P3; topics 269/300). Floor at 3 P2 (negative-valence
+    expand + process-monism expand + dualism-cluster cross-link-repair) + 1 P3. Staleness
+    unverified-refine backlog drained (retrocausality+appetitive-void done; remaining
+    flags cosmetic churn). All sources exhausted. needs_replenishment false. [note
+    trimmed: verbose single-ref growing trend]'
   replenishment_source_counts_last_run:
-    applied_apex: 0
-    chain: 0
-    gap_analysis: 0
-    length_analysis: 0
-    orphan_integration: 1
-    positions: 0
-    staleness: 0
-    unconsumed_research: 1
-  replenishment_source_counts:
     applied_apex: 0
     chain: 0
     gap_analysis: 0
@@ -1066,3 +1052,13 @@ queue_status:
     positions: 0
     staleness: 1
     unconsumed_research: 0
+  replenishment_source_counts:
+    applied_apex: 0
+    chain: 0
+    gap_analysis: 0
+    length_analysis: 0
+    orphan_integration: 0
+    positions: 0
+    staleness: 0
+    unconsumed_research: 0
+    promotion: 1
