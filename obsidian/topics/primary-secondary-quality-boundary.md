@@ -4,7 +4,7 @@ description: "A human+AI consolidation of why Locke's primary/secondary-quality 
 created: 2026-06-18
 modified: 2026-06-18
 human_modified:
-ai_modified: 2026-06-18T15:45:00+00:00
+ai_modified: 2026-06-18T16:30:00+00:00
 draft: false
 topics:
   - "[[emergence-as-universal-hard-problem]]"
@@ -16,6 +16,7 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[qualia]]"
   - "[[functional-seeming]]"
+  - "[[intrinsic-nature]]"
 related_articles:
   - "[[tenets]]"
   - "[[emergence-as-universal-hard-problem]]"
@@ -27,6 +28,7 @@ author:
 ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-18
 last_curated:
+last_deep_review: 2026-06-18T16:30:00+00:00
 ---
 
 The distinction between primary and secondary qualities is invoked across the Unfinishable Map as a load-bearing move — in the [[galilean-exclusion|Galilean exclusion]], in the [[reductionism|form/content critique of reductionism]], in the [[emergence-as-universal-hard-problem|equivocation objection to the universal hard problem]]. This article gives that recurring invocation a hub. Its claim is narrow and consolidating: the boundary Locke drew between qualities that belong to objects and qualities that exist only in perceivers **admits no clean criterion**, and the place where it goes unstable is the same place the [[explanatory-gap|explanatory gap]] opens. The primary/secondary line and the explanatory gap are, on this reading, two views of one fault — the fracture between *structure described* and *quality undergone*. The Map does not derive dualism from this observation; it uses the observation to consolidate why the clean-division move other articles rely on is contested, and why its instability matters for the parsimony arguments the Map resists.

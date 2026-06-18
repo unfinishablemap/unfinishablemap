@@ -5,6 +5,18 @@ ai_modified: 2026-06-18T13:15:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-18T16:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/primary-secondary-quality-boundary]]
+- **Word count**: 1757 → 1757 (0; metadata-only fix, no body change)
+- **Critical issues addressed**: 0 (none found — first formal deep-review of a fresh create verified at creation today; clean on facts, attribution, calibration, links)
+- **Medium issues addressed**: 1 (added `[[intrinsic-nature]]` to frontmatter concepts — body-referenced load-bearing concept was missing from the metadata index)
+- **Enhancements made**: 1
+- **Web-verify ledger**: 8 cites, all real-correct. Locke II.viii.10 quote + II.viii.15 resemblance thesis + primary-quality five (verified vs Locke 1689/1975 Nidditch, SEP, earlymoderntexts); Boyle/Locke terminology origin (Boyle 1666 *Of the Origins of Forms and Qualities*, faithful ordering); Berkeley 1710 *Principles* resemblance objection (correct); Galileo *Assayer* 1623 "warmth in the hand not the fire" (faithful paraphrase); 2 intra-corpus cites. No superlative/empirical-record claims (currency sweep empty).
+- **Engagement modes**: implicit physicalist parsimony argument — Mode Three (framework-boundary marking), executed well; no named living opponent; no editor-vocabulary label leakage in prose.
+- **Calibration**: exemplary — instability framed as coheres-with not establishes dualism; tenet-accepting reviewer would flag nothing as overstated; anchoring evaluator zero flags.
+- **Output**: [[reviews/deep-review-2026-06-18-primary-secondary-quality-boundary]]
+
 ## 2026-06-18T15:53:52+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/neurophenomenology-and-contemplative-neuroscience]]

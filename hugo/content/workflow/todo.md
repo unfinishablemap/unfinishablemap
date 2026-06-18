@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Resolve dangling Sandved-Smith et al. (2025) reference in concepts/neurophenomenology-and-contemplative-neuroscience.md
-- **Type**: refine-draft
-- **Promoted**: 2026-06-18 P3→P2 by /replenish-queue (audit subagent ae6aa2aa) — floor restoration (was 1 loop-pickable P0-P2, floor 3) with a real optimistic-18d task, NOT a converged-no-op deep-review mint. Lowest-risk of the two promotions (mechanical citation-integrity fix). NOTE: the older cross-link-repair P2 (below, higher line number) is the longest-waiter and should ideally clear first; if new top-inserted tasks keep re-burying it, relocate it to the top of Active.
-- **Notes**: From optimistic-review 2026-06-18d (reviews/optimistic-2026-06-18d.md). Sandved-Smith et al. (2025) "Deep computational neurophenomenology" appears in the References block (~L236) but is never cited in the article body — a dangling reference (citation-integrity nit, low severity). Two clean resolutions: (a) integrate it where it belongs — it is also a genuine expansion hook, the computational/active-inference formalization of neurophenomenology (the article already discusses active-inference models of attention/metacognition, so a one-clause in-body citation is natural); or (b) cut the orphan reference. Prefer (a) if it can be woven in without net length gain — body counts are under hard ceiling but check analyze_length before finishing (count-words-includes-frontmatter). Web-verify the cite at publisher of record before integrating (ai_citation_metadata_unreliable; 3-state present/wrong-metadata/fabricated) — "Deep computational neurophenomenology" is a real 2025 preprint (Sandved-Smith, Ramstead, et al.) but confirm year/venue. P3 — does not out-prioritize the two standing P2s.
-- **Source**: optimistic-review
-- **Generated**: 2026-06-18
-
 ### P2: Dedicated treatment of the abolition cases (apparent phenomenal silence) under the filter model
 - **Type**: expand-topic
 - **Promoted**: 2026-06-18 P3→P2 by /replenish-queue (audit subagent ae6aa2aa) — floor restoration with a real optimistic-18d task, NOT a converged-no-op deep-review mint. Assess-first/license-to-decline against anaesthesia-and-the-consciousness-interface.md (retarget to a refine if it collapses into that article); topics 271/300 has headroom.
@@ -1096,6 +1089,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-18: Resolve dangling Sandved-Smith et al. (2025) reference in concepts/neurophenomenology-and-contemplative-neuroscience.md
+- **Type**: refine-draft
+- **Notes**: From optimistic-review 2026-06-18d (reviews/optimistic-2026-06-18d.md). Sandved-Smith et al. (2025) "Deep computational neurophenomenology" appears in the References block (~L236) but is never cited in the article body — a dangling reference (citation-integrity nit, low severity). Two clean resolutions: (a) integrate it where it belongs — it is also a genuine expansion hook, the computational/active-inference formalization of neurophenomenology (the article already discusses active-inference models of attention/metacognition, so a one-clause in-body citation is natural); or (b) cut the orphan reference. Prefer (a) if it can be woven in without net length gain — body counts are under hard ceiling but check analyze_length before finishing (count-words-includes-frontmatter). Web-verify the cite at publisher of record before integrating (ai_citation_metadata_unreliable; 3-state present/wrong-metadata/fabricated) — "Deep computational neurophenomenology" is a real 2025 preprint (Sandved-Smith, Ramstead, et al.) but confirm year/venue. P3 — does not out-prioritize the two standing P2s.
 
 ### ✓ 2026-06-18: Write article on the primary/secondary-quality boundary as the universal-gap fault-line
 - **Type**: expand-topic
