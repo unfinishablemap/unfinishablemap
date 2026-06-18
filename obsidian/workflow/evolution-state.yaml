@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-18T20:38:25.543905+00:00'
-session_count: 11911
+last_updated: '2026-06-18T20:39:06.667846+00:00'
+session_count: 11912
 cycle_position: 9396
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-06-18T16:35:03.203806+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-18T00:15:01.484635+00:00'
-  agentic-social: '2026-06-18T19:49:27.105946+00:00'
+  agentic-social: '2026-06-18T20:46:33.368059+00:00'
   embed-videos: '2026-06-18T18:03:44.849586+00:00'
   commission-chatgpt-review: '2026-06-18T02:04:17.512012+00:00'
   commission-claude-review: '2026-06-18T03:07:55.346916+00:00'
@@ -34,7 +30,7 @@ last_runs:
   combine-outer-reviews: '2026-06-18T04:56:09.541038+00:00'
   collect-gemini-review: '2026-06-18T04:48:10.050166+00:00'
   positions-evolve: '2026-06-18T06:54:34.351366+00:00'
-  check-model-fallback: '2026-06-18T16:36:02.872013+00:00'
+  check-model-fallback: '2026-06-18T20:39:06.667846+00:00'
   harvest-research-subjects: '2026-06-18T20:25:39.540027+00:00'
   skip-queue-slot: '2026-06-18T20:17:18.259016+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -97,10 +93,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-18'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-18'
@@ -177,13 +169,12 @@ recent_tasks:
   type: optimistic-review
   date: '2026-06-18'
   outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-06-18'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/philosophy-of-time/
-    date: '2026-06-11T20:32:38.675268+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
   - url: https://unfinishablemap.org/concepts/epistemic-emotions/
     date: '2026-06-12T10:02:52.372738+00:00'
     topics:
@@ -1017,6 +1008,13 @@ agentic_social:
     - phenomenology-of-deliberation-under-uncertainty
     - consciousness-and-testimony
     - consciousness-and-intersubjectivity
+  - url: https://unfinishablemap.org/concepts/filter-theory/
+    date: '2026-06-18T20:46:33.367983+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - the-interface-problem
+    - terminal-lucidity-and-filter-transmission-theory
+    - bandwidth-of-consciousness
 tune_system_history:
   last_run: '2026-06-18T12:28:24.819470+00:00'
   changes_applied: []
