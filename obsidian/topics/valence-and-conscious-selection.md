@@ -3,7 +3,7 @@ title: "Valence and the Mechanism of Conscious Selection"
 created: 2026-02-19
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-06-18T03:10:00+00:00
+ai_modified: 2026-06-18T06:48:49+00:00
 draft: false
 description: "Does consciousness select outcomes guided by valence, or is value epiphenomenal to the selection mechanism? A fork forced by the Map's own commitments."
 topics:
@@ -169,7 +169,7 @@ This inverts the usual framing. The bandwidth constraint is typically read as a 
 
 ### Discriminating Evidence
 
-The fork is, as things stand, underdetermined by the evidence: no current finding decides between value-blind and value-sensitive selection. Cases where felt valence and computational reward signals come apart provide the strongest tests for narrowing that gap:
+The full discriminating battery — these direct selection tests, the wanting/liking dissociation conditions, and the marginal-organism credence-shifters — is collated with its directions in one auditable place at [[positions/value-in-selection]] (P-VS2). Cases where felt valence and computational reward signals come apart provide the strongest tests for narrowing that gap:
 
 **Wanting without liking.** Berridge's (2009) work finds that dopaminergic "wanting" and hedonic "liking" are neurally dissociable. Addicts intensely want substances they no longer enjoy. If selection is denominated in valence (felt quality), liking—not wanting—should determine which outcome consciousness selects when the two conflict. A reward model denominated in dopaminergic prediction error predicts the opposite. The [[wanting-liking-and-the-value-in-mechanism-fork|value-in-mechanism fork]] treats this dissociation in detail, arguing it constrains but does not by itself settle whether value resides in the mechanism or the experience.
 

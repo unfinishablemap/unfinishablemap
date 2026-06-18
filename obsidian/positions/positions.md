@@ -53,6 +53,7 @@ The register is grouped by domain so it stays scannable as it grows. Each domain
 - [[quantum-interface|Quantum interface]] — mechanism commitments, Born-rule treatment, MQI scope, post-decoherence selection
 - [[agency-and-will|Agency and will]] — agent-causal libertarian free will, the Libet timing data, the verification limit, the compatibilist-symmetry discipline
 - [[voids-as-evidence|Voids as evidence]] — what the cognitive-void catalogue evidentially supports: framework-internal coherence under the common-cause null, not independent confirmation
+- [[value-in-selection|Value in selection]] — the value-blind / value-sensitive fork: whether felt valence does the selecting or merely watches, and the collated battery of evidence that would move the fork in either direction
 - *Future domains, to be seeded as the register grows:* consciousness scope (animal, AI, edge cases); methodology and calibration; applied verdicts (clinical, AI, personal philosophy)
 
 ## How positions are maintained

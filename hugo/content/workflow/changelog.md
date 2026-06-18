@@ -1,13 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18 06:38:25+00:00
+ai_modified: 2026-06-18 06:48:49+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-18T06:48:49+00:00 - positions-evolve (add: new domain — value-blind/value-sensitive fork)
+- **Status**: Success
+- **File**: [value-in-selection](/positions/value-in-selection/) (NEW domain file), [positions](/positions/) (Domains list), [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) (cross-link), `evolution-state.yaml` (positions_written 3→4)
+- **Source**: optimistic-2026-06-18 §"A 'value-sensitivity discriminating-tests' register or position" (lines 90-94). Collates the empirical accountability of the value-sensitive-selection cluster — distributed across three articles — into one auditable, confidence-banded register entry, per Tenet 3 (keeps the interface claim falsifiable).
+- **ASSESS-FIRST**: confirmed no existing position covered the fork (grepped positions/; only a passing "value-sensitive selection" mention in quantum-interface.md's mechanism-debt note, not a position). New domain warranted — P-V prefix taken by voids-as-evidence, so used **P-VS** prefix; new domain registered in positions.md Domains list.
+- **Positions added** (2, one cohesive add of a new domain, not bulk creation):
+  1. **P-VS1** (confidence **low**): the Map holds value-sensitive selection on prior commitments ([consciousness-value-connection](/concepts/consciousness-value-connection/), [phenomenal-value-realism](/topics/phenomenal-value-realism/)), conceding mechanism-sufficiency is the rival to beat, not beaten. Banded low per [evidential-status-discipline](/project/evidential-status-discipline/) — "leaning value-sensitive without a mechanism is an aspiration, not a position"; value-blind is the more-minimal dualism (Tenet 2). Inherits the quantum-interface mechanism debt + an extra unspecified valence-to-physics coupling.
+  2. **P-VS2** (confidence **moderate**): the fork is empirically falsifiable; collates the discriminating battery in three tiers — (1) direct selection tests from [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) (4 hooks), (2) wanting/liking dissociation conditions from [wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/) (3 falsifiers), (3) marginal-organism credence-shifters from [marginal-organism-scope-of-value-sensitive-selection](/topics/marginal-organism-scope-of-value-sensitive-selection/) (anticipatory-evaluation + Physarum disjunction). Moderate not high — two in-principle limits (explanatory gap from outside; behavioural indistinguishability at the margin) keep it sharpenable, not guaranteed decidable.
+- **Calibration**: hedging matched to bands — P-VS1 low-confidence prose ("leans," "aspiration," "rival to beat"); P-VS2 moderate scoped to the auditability of the battery, not the decidability of the fork.
+- **Citations verified**: all [...](/apex//) / [...](/topics//) / [...](/concepts//) in Argued-in/Depends-on grepped to real files before insert; canonical link forms used ([evidential-status-discipline](/project/evidential-status-discipline/), [co-optimization-...](/topics/co-optimization/)). mechanism-debt deep-link anchor preserved through sync.
+- **Orphan-prevention**: added a one-line pointer from the cluster anchor [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) "Discriminating Evidence" section → [value-in-selection](/positions/value-in-selection/) (P-VS2) so both new positions are cited by ≥1 article (audit Check 3).
+- **Cascade**: none — new domain, no downstream positions depend on P-VS1/P-VS2 yet. Both depend cross-register on the quantum-interface mechanism-debt anchor (existing, live).
+- **Validation**: all 5 positions files valid (0 invalid) post-sync; new file 1022 body words (under 1500 soft). The lone length warning is the pre-existing quantum-interface.md (2508w), untouched.
+- **Published**: yes (positions publish directly; held at honest low/moderate bands)
 
 ## 2026-06-18T06:38:25+00:00 - refine-draft (topic-concept anchoring audit, Audit Three)
 - **Status**: Success
