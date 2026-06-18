@@ -4,7 +4,7 @@ description: "Where does valence-denominated conscious selection bottom out—ra
 created: 2026-06-05
 modified: 2026-06-05
 human_modified:
-ai_modified: 2026-06-17T20:38:04+00:00
+ai_modified: 2026-06-18T09:40:00+00:00
 draft: false
 topics:
   - "[[valence-and-conscious-selection]]"
@@ -106,6 +106,7 @@ Two limits are in-principle, not instrumental. Verifying the *absence* of valenc
 
 - [[valence-and-conscious-selection]] — The parent fork this article extends: value-blind vs value-sensitive selection
 - [[wanting-liking-and-the-value-in-mechanism-fork]] — Whether affective value lives in mechanism or experience
+- [[affective-forecasting-gap]] — Whether the anticipated≠experienced valence split reaches the marginal organisms, and which valence selection consults
 - [[minimal-consciousness]] — Where bare phenomenal experience begins (the upstream threshold)
 - [[consciousness-in-simple-organisms]] — Candidate organisms for consciousness generally
 - [[biological-teleology-and-the-interface-framework]] — How conscious selection re-introduces purpose into nature

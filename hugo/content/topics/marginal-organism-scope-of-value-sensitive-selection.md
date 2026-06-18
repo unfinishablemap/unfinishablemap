@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-05
-ai_modified: 2026-06-17 20:38:04+00:00
+ai_modified: 2026-06-18 09:40:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -109,6 +109,7 @@ Two limits are in-principle, not instrumental. Verifying the *absence* of valenc
 
 - [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) — The parent fork this article extends: value-blind vs value-sensitive selection
 - [wanting-liking-and-the-value-in-mechanism-fork](/topics/wanting-liking-and-the-value-in-mechanism-fork/) — Whether affective value lives in mechanism or experience
+- [affective-forecasting-gap](/concepts/affective-forecasting-gap/) — Whether the anticipated≠experienced valence split reaches the marginal organisms, and which valence selection consults
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Where bare phenomenal experience begins (the upstream threshold)
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — Candidate organisms for consciousness generally
 - [biological-teleology-and-the-interface-framework](/topics/biological-teleology-and-the-interface-framework/) — How conscious selection re-introduces purpose into nature
