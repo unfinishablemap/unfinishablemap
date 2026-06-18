@@ -1,5 +1,9 @@
-last_updated: '2026-06-18T14:31:52.872500+00:00'
-session_count: 11846
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-18T14:34:28.304237+00:00'
+session_count: 11847
 cycle_position: 9370
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-06-18T10:45:31.766238+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-18T00:15:01.484635+00:00'
-  agentic-social: '2026-06-18T14:33:53.761191+00:00'
+  agentic-social: '2026-06-18T14:34:28.304237+00:00'
   embed-videos: '2026-06-18T12:06:58.218228+00:00'
   commission-chatgpt-review: '2026-06-18T02:04:17.512012+00:00'
   commission-claude-review: '2026-06-18T03:07:55.346916+00:00'
@@ -93,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: tune-system
-  type: tune-system
-  date: '2026-06-18'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-06-18'
@@ -171,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: condense
   type: condense
+  date: '2026-06-18'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-06-18'
   outcome: success
 agentic_social:
@@ -1020,15 +1024,23 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-06-18T13:30:00+00:00'
+  last_replenishment: '2026-06-18T15:00:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: '2026-06-18 replenish run no.297 (standard) - FLOOR-RESTORING
-    (1 minted), FINALIZED BY ORCHESTRATOR after the replenish fork returned incomplete
-    (spawned audit subagent a5200cb231, did not write). Minted P2 deep-review concepts/predictive-processing.md
-    (staleness/post-refine drift: 06-16 Gemini-outer-review IWMT/eliminativism/hard-problem-of-content
-    sections unverified since 06-01 review; OWN-content drift; STRICT length-neutral
-    - 3606w OVER 3500 hard). Floor restored to 3 P2 (predictive-processing DR + primary/secondary-quality
-    expand + dualism-cluster cross-link-repair). Other sources exhausted. needs_replenishment
+  current_replenishment_note: '2026-06-18 replenish run no.298 (standard) - FLOOR-RESTORING
+    (1 minted). Loop-pickable open P0-P2 dropped to 2 when the same-cycle process-monism-steelman
+    deep-review completed and rotated to DONE; floor is 3 so minted +1. Minted P2 deep-review
+    concepts/philosophical-zombies.md (staleness/post-refine drift: 06-13 self-stultification-tracking
+    + intuition-vs-datum argument refines (commits e26c70f40, 610f3f756) and a reference
+    repoint unverified since the 06-01 review; OWN-content drift, NOT a cross-touch
+    artifact; mixed older-model provenance opus-4-5+4-8; STRICT length-neutral - 3443w
+    soft, only 57w under the 3500 concepts hard ceiling). Full on-disk audit re-confirms
+    the documented replenish-at-floor steady state: unconsumed research drained (all
+    06-14..18 notes consumed or resolved-as-decline incl IWMT), chains closed, staleness
+    all converged no-ops (ai_modified == last_deep_review), caps (voids 101/100 over;
+    topics 270/300 and concepts 265/300 headroom but no fresh expand candidate), length
+    offenders all human-deferred / veto / accepted-as-survey / index-hub / recently-reviewed
+    calibration-heavy, orphans 0. Floor restored to 3 P2 (philosophical-zombies DR
+    + primary/secondary-quality expand + dualism-cluster cross-link-repair). needs_replenishment
     false.'
   replenishment_source_counts_last_run:
     applied_apex: 0
