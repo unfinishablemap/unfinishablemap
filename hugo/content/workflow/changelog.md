@@ -1,13 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18 13:06:08+00:00
+ai_modified: 2026-06-18 13:18:44+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-18T13:18:44+00:00 - deep-review
+- **Status**: Success
+- **File**: [arguments](/arguments/)
+- **Word count**: 803 → 821 (+18; 33% of 2500 soft target — length-neutral calibration fix)
+- **Verdict**: Changed-since-review verification of the section index after the 2026-06-01 refine bumped ai_modified past last_deep_review (32d) by softening only the epiphenomenalism summary + tenet line. Found ONE surviving calibration drift; fixed.
+- **Task (a) surviving-overclaim scan**: the Materialism / Functionalism / Many-Worlds(Relation) / Occam "shows" verbs are CLEAN — each faithfully tracks its separately-reviewed child's calibrated register (functionalism child Conclusion uses identical "shows"; materialism child says "None of this proves dualism"). No false-balance neutering applied. The ONE surviving overclaim was the **Many-Worlds Key claims** leading (1st, unqualified) with *"Ontological extravagance: mathematical simplicity purchased with metaphysical inflation"* while BOTH the recalibrated child (§"A Non-Decisive Cost", Cumulative Case table) and the tenets page (line 114 "subsidiary — a registered cost, not a refutation") now demote it to a non-decisive cost the Map cannot press under Tenet 5. Diagnostic test: a tenet-accepting reviewer still flags it (Tenet 5 is a Map tenet, discipline is symmetric) → CRITICAL calibration error, not bedrock.
+- **Fix**: reordered Key claims so the indexical problem leads (marked load-bearing), extravagance moves last and is rewritten "a registered cost, not a decisive objection — having disowned parsimony under Tenet 5, the Map cannot wield ontological economy as a knockdown argument." Now mirrors the child's Cumulative Case table; partisan framing preserved.
+- **Task (b) summary-tracks-child**: all four summaries faithful to current children post-fix.
+- **Task (c) links**: all intra-page wikilinks + 5 tenet anchors resolve.
+- **Task (d) dates**: no in-body dates. No citations (web-verify N/A).
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-06-18-arguments](/reviews/deep-review-2026-06-18-arguments/)
 
 ## 2026-06-18T13:06:08+00:00 - deep-review
 - **Status**: Success

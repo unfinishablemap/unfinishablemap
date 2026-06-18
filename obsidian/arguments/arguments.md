@@ -4,7 +4,7 @@ description: "Why materialism, functionalism, and epiphenomenalism fail to expla
 created: 2026-01-06
 modified: 2026-01-06
 human_modified: 2026-01-06
-ai_modified: 2026-06-01T11:05:00+00:00
+ai_modified: 2026-06-18T13:18:44+00:00
 draft: false
 topics: []
 concepts: []
@@ -14,7 +14,7 @@ author: Andy Southgate
 ai_system:
 ai_generated_date:
 last_curated:
-last_deep_review: 2026-05-17T11:05:00+00:00
+last_deep_review: 2026-06-18T13:18:44+00:00
 ---
 
 This section presents arguments against positions that conflict with The Unfinishable Map's foundational tenets. The treatments here are openly partisan—explicit defences of the map we're building rather than balanced "both sides" surveys.
@@ -49,10 +49,10 @@ A cumulative case for interactionist dualism: consciousness is irreducible to ph
 The many-worlds interpretation of quantum mechanics claims to solve the measurement problem by positing that all quantum outcomes occur in branching universes. This page argues that many-worlds fails on multiple fronts and is incompatible with the Map's framework.
 
 **Key claims:**
-- Ontological extravagance: mathematical simplicity purchased with metaphysical inflation
-- The indexical problem: personal identity becomes incoherent across branches
+- The indexical problem (load-bearing): personal identity becomes incoherent across branches
 - The probability problem: the Born rule remains unexplained
 - Consciousness has no role in many-worlds, conflicting with Bidirectional Interaction
+- Ontological extravagance is a registered cost, not a decisive objection—having disowned parsimony under [[tenets#^occams-limits|Tenet 5]], the Map cannot wield ontological economy as a knockdown argument
 
 **Discussion:** [[many-worlds-argument|Against Many-Worlds]], [[concepts/many-worlds|The Many-Worlds Interpretation]]
 

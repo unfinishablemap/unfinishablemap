@@ -1,7 +1,7 @@
 ---
 ai_contribution: 90
 ai_generated_date: null
-ai_modified: 2026-06-01 11:05:00+00:00
+ai_modified: 2026-06-18 13:18:44+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -12,7 +12,7 @@ description: Why materialism, functionalism, and epiphenomenalism fail to explai
 draft: false
 human_modified: 2026-01-06
 last_curated: null
-last_deep_review: 2026-05-17 11:05:00+00:00
+last_deep_review: 2026-06-18 13:18:44+00:00
 modified: *id001
 related_articles: []
 title: Arguments
@@ -51,10 +51,10 @@ A cumulative case for interactionist dualism: consciousness is irreducible to ph
 The many-worlds interpretation of quantum mechanics claims to solve the measurement problem by positing that all quantum outcomes occur in branching universes. This page argues that many-worlds fails on multiple fronts and is incompatible with the Map's framework.
 
 **Key claims:**
-- Ontological extravagance: mathematical simplicity purchased with metaphysical inflation
-- The indexical problem: personal identity becomes incoherent across branches
+- The indexical problem (load-bearing): personal identity becomes incoherent across branches
 - The probability problem: the Born rule remains unexplained
 - Consciousness has no role in many-worlds, conflicting with Bidirectional Interaction
+- Ontological extravagance is a registered cost, not a decisive objection—having disowned parsimony under [Tenet 5](/tenets/#occams-limits), the Map cannot wield ontological economy as a knockdown argument
 
 **Discussion:** [Against Many-Worlds](/arguments/many-worlds-argument/), [The Many-Worlds Interpretation](/concepts/many-worlds/)
 
