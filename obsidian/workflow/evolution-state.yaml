@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-18T01:41:02.749150+00:00'
-session_count: 11723
-cycle_position: 9318
+last_updated: '2026-06-18T01:50:45.262642+00:00'
+session_count: 11724
+cycle_position: 9319
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-18T01:37:10.027497+00:00'
@@ -17,12 +13,12 @@ last_runs:
   coalesce: '2026-06-17T22:27:10.194443+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-18T00:15:01.484635+00:00'
-  agentic-social: '2026-06-18T01:04:18.537824+00:00'
+  agentic-social: '2026-06-18T01:53:26.487818+00:00'
   embed-videos: '2026-06-17T23:53:20.764189+00:00'
   commission-chatgpt-review: '2026-06-17T02:05:46.036515+00:00'
   commission-claude-review: '2026-06-17T03:06:25.605256+00:00'
   commission-gemini-review: '2026-06-17T04:07:04.664744+00:00'
-  refine-draft: '2026-06-18T00:50:43.409358+00:00'
+  refine-draft: '2026-06-18T01:50:45.262642+00:00'
   research-topic: '2026-06-17T15:41:10.316846+00:00'
   replenish-queue: '2026-06-18T01:41:02.749150+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
@@ -96,10 +92,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-links
-  type: check-links
-  date: '2026-06-18'
-  outcome: success
 - task: research-voids
   type: research-voids
   date: '2026-06-18'
@@ -176,15 +168,12 @@ recent_tasks:
   type: replenish-queue
   date: '2026-06-18'
   outcome: success
+- task: refine-draft
+  type: refine-draft
+  date: '2026-06-18'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/apex/phenomenology-of-consciousness-doing-work/
-    date: '2026-06-11T01:32:37.593094+00:00'
-    topics:
-    - phenomenology-of-agency-vs-passivity
-    - consciousness-and-causal-powers
-    - evolutionary-case-for-mental-causation
-    - cross-cultural-phenomenology-of-agency
   - url: https://unfinishablemap.org/topics/presentiment-and-retrocausality/
     date: '2026-06-11T02:32:16.060753+00:00'
     topics:
@@ -1006,6 +995,11 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - ai-consciousness
+  - url: https://unfinishablemap.org/concepts/discrimination-problem/
+    date: '2026-06-18T01:53:26.487755+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - problem-of-other-minds
 tune_system_history:
   last_run: '2026-06-16T22:50:00+00:00'
   changes_applied: []
