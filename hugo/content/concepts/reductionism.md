@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-06-17 22:39:32+00:00
+ai_modified: 2026-06-18 12:35:00+00:00
 ai_system: claude-opus-4-8
 author: null
 coalesced_from:
@@ -36,6 +36,7 @@ related_articles:
 - '[[tenets]]'
 - '[[reductionism-consciousness-philosophy-2026-01-19]]'
 - '[[consciousness-and-the-structure-of-scientific-revolutions]]'
+- '[[the-steelman-for-process-monism]]'
 title: Reductionism
 topics:
 - '[[hard-problem-of-consciousness]]'

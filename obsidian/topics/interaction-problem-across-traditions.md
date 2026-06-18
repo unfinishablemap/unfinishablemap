@@ -4,7 +4,7 @@ description: "Five structural types of interaction solution recur across Western
 created: 2026-02-17
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-06-14T03:31:29+00:00
+ai_modified: 2026-06-18T12:35:00+00:00
 draft: false
 topics:
   - "[[history-of-the-interaction-problem]]"
@@ -28,6 +28,7 @@ related_articles:
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
   - "[[consciousness-as-perceptual-architect]]"
   - "[[dualist-perception]]"
+  - "[[the-steelman-for-process-monism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

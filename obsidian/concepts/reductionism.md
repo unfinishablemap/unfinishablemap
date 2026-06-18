@@ -4,7 +4,7 @@ description: "Reductionism succeeds across science—temperature, life, heredity
 created: 2026-01-19
 modified: 2026-06-17
 human_modified: null
-ai_modified: 2026-06-17T22:39:32+00:00
+ai_modified: 2026-06-18T12:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,6 +28,7 @@ related_articles:
   - "[[tenets]]"
   - "[[reductionism-consciousness-philosophy-2026-01-19]]"
   - "[[consciousness-and-the-structure-of-scientific-revolutions]]"
+  - "[[the-steelman-for-process-monism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-8

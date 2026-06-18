@@ -5,6 +5,17 @@ ai_modified: 2026-06-18T11:42:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-18T12:35:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Steelman for Process Monism (the Map's strongest rival — unified-process ontology that dissolves the mind-matter divide, then declined under acknowledged parsimony cost)
+- **Output**: [[topics/the-steelman-for-process-monism]]
+- **Word count**: 2287 (ok — within suggested 2500-3200 range, well under topics/ 4000 hard ceiling)
+- **Based on research**: no pre-verified research note existed — highest citation-risk create of the session; every citation web-verified at authoritative source before publishing
+- **Assess-first**: confirmed no existing article does the steelman-and-decline; concept article process-philosophy.md is the framework EXPOSITION, this is the rival-steelman-and-decline — distinguished early and explicitly. Supersedes stale 2026-03-29 P3 ("process philosophy and interactionist dualism").
+- **Citations verified at publisher of record**: Whitehead *Process and Reality* (1929 Macmillan / Gifford Lectures 1927-28; corrected ed. Griffin & Sherburne, Free Press 1978) — edition confirmed via Wikipedia + Monoskop scan; "Category of the Ultimate", "the many become one, and are increased by one" confirmed via EBSCO/Philopedia, quoted as short verbatim phrases with work-level (not page-level) attribution. Mulla Ṣadrā *al-Asfār al-arbaʿa* (begun 1606, completed 1628) confirmed via SEP; tashkīk al-wujūd quote ("Existence is a single, simple reality... It only admits of degrees by perfection and deficiency...") quoted VERBATIM from SEP; substantial-motion "young/old Zayd literally not the same existent" quoted verbatim from SEP; Nasr & Kalin cited for general scholarly attribution (no fabricated quotes). pratītyasamutpāda general formula quoted VERBATIM from Access to Insight (SN 12.61, Thanissaro trans.); Bodhi 2000 SN translation cited generally. No fabricated quotes, editions, or page numbers; no page numbers invented where unverifiable.
+- **Integration** (REQUIRED, completed): reciprocal inbound links added to all 4 cluster targets. FRONTMATTER related_articles ONLY (length-neutral, target near/at hard ceiling): four-quadrant-dualism-taxonomy (3699w), interaction-problem-across-traditions (3044w), reductionism (3497w, ~at 3500 hard). BODY + frontmatter (has headroom): process-philosophy (2116w→2166w) — added a sentence in "Tensions with the Map's Framework" + a Further Reading line. All 4 ai_modified bumped.
+- **Calibration**: decline framed as tenet-grounded choice under acknowledged parsimony cost (Occam's-Limits licenses arguing the decline), NOT a demonstration process monism is false; framework-boundary disagreement marked in plain prose ("closer to bedrock than it first appears"), no mode-labels exposed in body.
+
 ## 2026-06-18T11:42:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Negative-Valence Asymmetry and the Selection Weighting Function (sign-weighting axis of the value-sensitive/value-blind fork)

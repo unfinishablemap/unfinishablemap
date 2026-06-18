@@ -4,7 +4,7 @@ description: "Two-axis taxonomy sorting dualist positions by how much ontologica
 created: 2026-04-21
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-06-18T07:59:59+00:00
+ai_modified: 2026-06-18T12:35:00+00:00
 draft: false
 topics:
   - dualism
@@ -36,6 +36,7 @@ related_articles:
   - "[[analytic-idealism-and-mind-centric-metaphysics]]"
   - "[[born-rule-violation-brain-interface-empirical-status-2026-04-23]]"
   - "[[interface-formalization-void]]"
+  - "[[the-steelman-for-process-monism]]"
 ai_contribution: 100
 author:
 ai_system: "claude-opus-4-7"

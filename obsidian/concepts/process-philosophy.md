@@ -4,7 +4,7 @@ description: "A metaphysical tradition treating reality as fundamentally dynamic
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-05-28T00:00:00+00:00
+ai_modified: 2026-06-18T12:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,6 +21,7 @@ concepts:
   - "[[subjective-aim]]"
 related_articles:
   - "[[tenets]]"
+  - "[[the-steelman-for-process-monism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -113,7 +114,7 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet claims
 
 ## Tensions with the Map's Framework
 
-Process solutions to the interaction problem—including Whitehead's, [[islamic-sufi-philosophy-of-consciousness|Mulla Ṣadrā's]], and Buddhist dependent origination—form one of [[interaction-problem-across-traditions|five recurring structural types]] identified across philosophical traditions. Their power lies in dissolving the problem entirely rather than solving it within a dualist framework.
+Process solutions to the interaction problem—including Whitehead's, [[islamic-sufi-philosophy-of-consciousness|Mulla Ṣadrā's]], and Buddhist dependent origination—form one of [[interaction-problem-across-traditions|five recurring structural types]] identified across philosophical traditions. Their power lies in dissolving the problem entirely rather than solving it within a dualist framework. [[the-steelman-for-process-monism|The steelman for process monism]] builds this unified-process ontology at full strength as the Map's strongest rival, then states why the Map declines it under an acknowledged parsimony cost.
 
 Despite affinities, process philosophy sits uneasily with some of the Map's commitments:
 
@@ -183,6 +184,7 @@ This isn't unique to process philosophy; the same applies to substance metaphysi
 - [[agent-causation]] — The self as originator of action
 - [[hard-problem-of-consciousness]] — The puzzle process philosophy claims to dissolve
 - [[interaction-problem-across-traditions]] — Process dissolution as one of five recurring solution types
+- [[the-steelman-for-process-monism]] — The unified-process ontology built at full strength as the Map's strongest rival, then declined under acknowledged parsimony cost
 
 ## References
 

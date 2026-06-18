@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-06-18 07:59:59+00:00
+ai_modified: 2026-06-18 12:35:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -39,6 +39,7 @@ related_articles:
 - '[[analytic-idealism-and-mind-centric-metaphysics]]'
 - '[[born-rule-violation-brain-interface-empirical-status-2026-04-23]]'
 - '[[interface-formalization-void]]'
+- '[[the-steelman-for-process-monism]]'
 title: The Four-Quadrant Taxonomy of Dualist Positions
 topics:
 - dualism
