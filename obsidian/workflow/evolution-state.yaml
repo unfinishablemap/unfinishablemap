@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-18T01:54:22.037826+00:00'
-session_count: 11725
+last_updated: '2026-06-18T01:58:42.064405+00:00'
+session_count: 11726
 cycle_position: 9319
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-17T04:07:04.664744+00:00'
   refine-draft: '2026-06-18T01:50:45.262642+00:00'
   research-topic: '2026-06-17T15:41:10.316846+00:00'
-  replenish-queue: '2026-06-18T01:41:02.749150+00:00'
+  replenish-queue: '2026-06-18T01:58:42.064405+00:00'
   condense: '2026-06-12T23:18:39.562594+00:00'
   expand-topic: '2026-06-17T16:28:19.568953+00:00'
   add-highlight: '2026-06-17T08:04:22.798348+00:00'
@@ -96,10 +96,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: apex-evolve
-  type: apex-evolve
-  date: '2026-06-18'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-18'
@@ -174,6 +170,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-18'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-18'
   outcome: success
 agentic_social:
@@ -1029,8 +1029,8 @@ queue_status:
     only two bare ### P2: forms are both veto-tagged condense (meaning-of-life 4160w,
     phenomenal-output-causal-machinery-dissociation 6989w); EVERY other Active header
     is now done (the prior runs P3 refine-draft on empirical-evidence-for-consciousness-selecting
-    landed as a completed 2026-06-18 task at line 1070) or a HUMAN LENGTH DECISION /
-    DEFERRED / DIVERTED header the selector skips by design (keys off the bare ###
+    landed as a completed 2026-06-18 task at line 1070) or a HUMAN LENGTH DECISION
+    / DEFERRED / DIVERTED header the selector skips by design (keys off the bare ###
     P{N}: form). FULLY re-verified on disk this run, not trusted from the stale note:
     section counts topics 267/300, concepts 263/300, voids 101/100 (at cap), positions
     3 domain files / 18 P-* entries (progress.positions_written reads 3, undercounts,
