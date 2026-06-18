@@ -183,9 +183,9 @@
   commissioned_at: '2026-06-18T03:06:33.223146+00:00'
   prompt_summary: Audit quantum-state-inheritance-in-ai (recent)
   target_filename: outer-review-2026-06-18-claude-opus-4-8.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-18T04:09:53.270024+00:00'
   failure_reason: null
   prompt_text: 'Act as a hostile but fair external referee auditing one article from
     The Unfinishable Map, a dualist philosophy-of-mind project. The article is "Quantum

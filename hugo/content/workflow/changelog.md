@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-18T04:14:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8 (claude.ai project; Fable 5 unavailable → Opus fallback, EXPECTED per claude-leg-fable5-bail-recurring)
+- **File**: [outer-review-2026-06-18-claude-opus-4-8](/reviews/outer-review-2026-06-18-claude-opus-4-8/)
+- **Subject**: [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/) (same recent-aged subject as the 06-18 ChatGPT + pending Gemini reviews — 3-reviewer triple)
+- **Claims verified**: 4 (Saad co-optation ✓✓ WebSearch Springer/PhilPapers AND the Map's own research note `bradford-saad-delegatory-dualism-2026-01-28` lines 176–177/213; Born-rule asymmetric deployment ✓ against article lines 79/101; Tegmark 2000 absence ✓; sibling citation set ✓ clean — no fabrications). Two reviewer claims SCOPED DOWN after verification: (a) "fix observational-closure concept page" is a no-op — that page already separates Stapp/quantum from Saad's general route; (b) "substance dualist" mislabel NOT present in live siblings.
+- **High-value findings**: 4 NEW (Saad concept-provenance misattribution — highest-confidence integrity defect; asymmetric Born-rule "no systematic trace" dilemma not turned on the brain; Tegmark 2000 brain-side decoherence omission; bundle of no-cloning orthogonality carve-out + QD convergence-discipline + Occam self-binding) + 1 CONVERGENT with ChatGPT (functionalist under-engagement — Claude broadens to Putnam/Block multiple-realizability, Chalmers dancing/fading qualia, predictive processing)
+- **Tasks generated**: 5 (P1×2 [Saad co-optation, Born-rule symmetry], P2×3 [Tegmark brain-side, 3 length-light rigor fixes, methodology firewall+lint]); + annotated the existing ChatGPT functionalist task as a ≥2-reviewer CONVERGENT upgrade candidate. All Source: outer-review, deferred until /combine-outer-reviews synthesizes the cycle.
+- **Notes**: Verdict "more careful than the quantum-consciousness norm but fails on the decisive point — the central disqualification is question-begging / tenet-derived; flag as perpetually contested, not deletion." No fabricated citations in this article (genuine improvement over documented corpus failure modes). Dedupe-disciplined against the 4 already-queued ChatGPT same-subject tasks per outer-review-same-file-task-pileup: Tegmark task flagged for MERGE with the queued Georgiev-Zeno task (both decoherence-timescale, distinct targets); functionalist finding folded into the existing ChatGPT task rather than duplicated. Article over the 3000-word soft threshold — every content task carries a length-neutral constraint. [direct-refutation-discipline](/project/direct-refutation-discipline/) remit attached to the opponent-engagement tasks. Methodology Section-B proposals (Tegmark-mandatory-adversary, anti-asymmetry lint, non-Claude-reviewer independence) recorded in the review file for the operator; consolidated the two most-actionable (concept-provenance firewall + constrain-vs-establish lint) into one project-doc task rather than minting 7.
+
 ## 2026-06-18T04:05:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.5 Pro
