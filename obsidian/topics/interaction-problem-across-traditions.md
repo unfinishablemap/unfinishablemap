@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-17
 last_curated:
-last_deep_review: 2026-06-03T06:28:52+00:00
+last_deep_review: 2026-06-18T08:49:12+00:00
 coalesced_from:
   - "/topics/interaction-problem-in-non-western-philosophy/"
   - "/topics/interaction-solutions-across-traditions/"
