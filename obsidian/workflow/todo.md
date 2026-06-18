@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research Affective-Forecasting Gap and Selection Dynamics
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-06-18.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-06-18 flags the anticipated-vs-experienced valence problem (Kahneman's affective-forecasting gap) as an unpaid debt in two cluster articles, bearing directly on whether the value-sensitive horn's currency is well-calibrated. No dedicated treatment exists. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/affective-forecasting-gap-and-selection-dynamics-2026-06-18.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'affective-forecasting-gap-and-selection-dynamics' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-06-18
-
 ### P2: Research Deep Computational Markers for Machine Consciousness
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-06-18b.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-06-18b: 'No article works out what a non-behavioural, interpretability-grade AI-consciousness marker would look like under the Map.' Distinct from behavioural probes; a forward-looking methodological gap adjacent to ai-consciousness and testing-consciousness work. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/deep-computational-markers-for-machine-consciousness-2026-06-18.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'deep-computational-markers-for-machine-consciousness' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -1084,6 +1078,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-18: Research Affective-Forecasting Gap and Selection Dynamics
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-06-18.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-06-18 flags the anticipated-vs-experienced valence problem (Kahneman's affective-forecasting gap) as an unpaid debt in two cluster articles, bearing directly on whether the value-sensitive horn's currency is well-calibrated. No dedicated treatment exists. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/affective-forecasting-gap-and-selection-dynamics-2026-06-18.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'affective-forecasting-gap-and-selection-dynamics' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-06-18: Calibrate novelty claim and Q4-emptiness framing in topics/four-quadrant-dualism-taxonomy.md
 - **Type**: refine-draft

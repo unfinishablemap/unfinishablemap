@@ -5,6 +5,13 @@ ai_modified: 2026-06-18T07:59:59+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-18T08:15:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Affective-Forecasting Gap and Selection Dynamics
+- **Output**: [[research/affective-forecasting-gap-and-selection-dynamics-2026-06-18]]
+- **Sources consulted**: 11 (all web-verified at publisher of record; Wilson & Gilbert 2003/2005, Gilbert et al. 1998 immune neglect, Wilson et al. 2000 focalism, Gilbert & Wilson 2007 prospection, Kahneman/Wakker/Sarin 1997, Redelmeier & Kahneman 1996, Schultz 2016 RPE, Berridge & Robinson 2016, Levine et al. 2012 + Wilson & Gilbert 2013 robustness debate); Schultz/Dayan/Montague 1997 and Berridge 2009 already corpus-verified
+- **Assessment**: NOT a duplicate; closes the explicitly-flagged "anticipated vs experienced valence" open question in [[valence-and-conscious-selection]] and supplies [[the-steelman-for-value-blind-selection]] a fair new RPE/wanting exhibit. Recommended → concepts/ article (headroom 264/300). Verdict: worth a dedicated treatment.
+
 ## 2026-06-18T07:59:59+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/four-quadrant-dualism-taxonomy]]
