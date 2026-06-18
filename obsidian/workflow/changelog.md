@@ -5,6 +5,17 @@ ai_modified: 2026-06-18T06:48:49+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-18T07:12:07+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/four-quadrant-dualism-taxonomy]]
+- **Word count**: 3306 → 3306 (no change — converged article, frontmatter-only edit)
+- **Critical issues addressed**: 0 (none found — fifth review, first clean pass)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (don't-oscillate: companion-cluster cross-links already integrated correctly)
+- **Web-verify**: re-verified the 2 highest-risk specialist/recent cites at publisher of record — Saad 2025 ("A Dualist Theory of Experience," Phil Studies 182:939–967) real-correct; Nida-Rümelin 2010 (Waning of Materialism, OUP, 191–212) real-correct. References block unchanged since 06-02 full ledger.
+- **Calibration**: region-not-quadrant non-over-commitment intact; no possibility/probability slippage; no reasoning-mode boundary-substitution or label leakage. All 21 wikilinks + `#vacant-cell` / `#costs-of-the-template` anchors resolve.
+- **Output**: [[reviews/deep-review-2026-06-18-four-quadrant-dualism-taxonomy]]
+
 ## 2026-06-18T06:48:49+00:00 - positions-evolve (add: new domain — value-blind/value-sensitive fork)
 - **Status**: Success
 - **File**: [[positions/value-in-selection]] (NEW domain file), [[positions/positions]] (Domains list), [[topics/valence-and-conscious-selection]] (cross-link), `evolution-state.yaml` (positions_written 3→4)

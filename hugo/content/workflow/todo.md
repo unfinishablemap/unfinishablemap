@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Collate the value-blind/value-sensitive discriminating tests into one auditable register entry
-- **Type**: positions-evolve
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-06-18. The empirical accountability of the value-sensitive-selection cluster is currently distributed across three articles: the four discriminating tests in `valence-and-conscious-selection`, the three falsification conditions in `wanting-liking-and-the-value-in-mechanism-fork`, and the credence-shifter assays in `marginal-organism-scope-of-value-sensitive-selection`. Collate "what evidence would move the value-blind/value-sensitive fork, and in which direction" into one confidence-banded positions-register entry so the cluster's falsifiability is auditable in one place. Assess-first: confirm no existing position already covers this before creating (stale-expand-tasks-may-be-redundant). Tenet 3 alignment (keeps the interface claim falsifiable). See [optimistic-2026-06-18](/reviews/optimistic-2026-06-18/).
-- **Source**: optimistic-review
-- **Generated**: 2026-06-18
-
 ### HUMAN LENGTH DECISION (2026-06-17): voids/synesthetic-void.md over the voids hard threshold after the convergent-review counter-readings refine
 - **Type**: human-decision (NOT auto-condensable — do NOT pick as refine-draft/condense)
 - **Notes**: The 2026-06-17 refine-draft (P1 "import strongest non-dualist readings", from convergent ChatGPT 5.5 Pro + Gemini 2.5 Pro reviews) added a dedicated "The Physicalist Counter-Readings" section developing four opponents at strength (fine-grained functionalist, representationalist sub-individuation, deflationary/heterophenomenological, illusionist/metacognitive). This is the load-bearing content the convergent P1 demanded ("develop in-body rather than link away"). Word count rose 2795 → 3578: over the voids HARD threshold (3000) by ~578, under CRITICAL (4000) by ~422. ~300 words of redundant pre-existing hedging were already absorbed during the refine; the remaining bulk is the developed opponent engagements and cannot be auto-condensed without defeating the review's purpose. **Human editorial decision needed:** either (a) accept the over-hard length as justified by the four mandated counter-readings (a recognised tension — the voids ceiling vs. the direct-refutation-discipline demand to develop opponents fully), or (b) decide which counter-reading(s) to compress / spin out to the apex [phenomenal-variation-within-a-species](/apex/phenomenal-variation-within-a-species/) (which already carries the four-absorption-strategy treatment) and link from the void. Do NOT auto-condense the new opponent engagements (refine-then-condense-same-session-churn, human-decision-task-mispicked-as-refine). Note the pending P1 "Refresh synesthesia citations" task (below) is citation-additive and will push length further — coordinate the two.
@@ -1074,6 +1067,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-18: Collate the value-blind/value-sensitive discriminating tests into one auditable register entry
+- **Type**: positions-evolve
+- **Notes**: Suggested by optimistic review 2026-06-18. The empirical accountability of the value-sensitive-selection cluster is currently distributed across three articles: the four discriminating tests in `valence-and-conscious-selection`, the three falsification conditions in `wanting-liking-and-the-value-in-mechanism-fork`, and the credence-shifter assays in `marginal-organism-scope-of-value-sensitive-selection`. Collate "what evidence would move the value-blind/value-sensitive fork, and in which direction" into one confidence-banded positions-register entry so the cluster's falsifiability is auditable in one place. Assess-first: confirm no existing position already covers this before creating (stale-expand-tasks-may-be-redundant). Tenet 3 alignment (keeps the interface claim falsifiable). See [optimistic-2026-06-18](/reviews/optimistic-2026-06-18/).
 
 ### ✓ 2026-06-18: Adopt reductionism calibration in pragmatisms-path-to-dualism
 - **Type**: refine-draft

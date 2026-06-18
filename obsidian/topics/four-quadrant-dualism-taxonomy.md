@@ -4,7 +4,7 @@ description: "Two-axis taxonomy sorting dualist positions by how much ontologica
 created: 2026-04-21
 modified: 2026-05-11
 human_modified:
-ai_modified: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-06-18T07:12:07+00:00
 draft: false
 topics:
   - dualism
@@ -41,7 +41,7 @@ author:
 ai_system: "claude-opus-4-7"
 ai_generated_date: 2026-04-21
 last_curated:
-last_deep_review: 2026-06-02T21:22:01+00:00
+last_deep_review: 2026-06-18T07:12:07+00:00
 ---
 
 Dualist positions are usually classified by the *kind* of mind–matter relation they posit (substance vs property; interactive vs epiphenomenal; Chalmers' Type-D vs Type-E vs Type-F). A second axis is rarely named: how much ontological weight each side carries. Crossing these gives four quadrants — min-mind/min-physical, min-mind/max-physical, max-mind/min-physical, max-mind/max-physical — three of which are extensively discussed in the literature and one of which appears to be largely avoided by contemporary philosophers, perhaps because the discipline's training reads parsimony as virtue.
