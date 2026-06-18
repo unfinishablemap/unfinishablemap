@@ -5,6 +5,15 @@ ai_modified: 2026-06-18T13:15:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-18T14:29:52+00:00 - condense
+- **Status**: Success
+- **File**: [[concepts/predictive-processing]]
+- **Before**: 3606 words (hard_warning, 106 over the 3500 concepts hard ceiling)
+- **After**: 3470 words (soft_warning, 30 under the hard ceiling — safe margin)
+- **Reduction**: 3.8% (136 words)
+- **Technique**: Surgical redundancy trim only. Removed the standalone "Honest Assessments" section and merged "Access vs. Phenomenal Consciousness" + "Precision and Salience" into one "Access, Not Phenomenal Consciousness" section, consolidating the access/phenomenal split and the FEP proponent-concession (3→2 instances; concession preserved in the load-bearing Dualism tenet section + the Indirect Strategy setup). Trimmed the "Contemplative Evidence" overlap with the illusionism "Contemplative challenge" bullet (kept its two unique points: precision-feels-different + nirodha samāpatti). Tightened intra-section restatements in Indirect Strategy and "Why Dreams Are Bizarre". Added in-page anchor cross-references (verified resolving).
+- **Preserved**: 2026-06-16 IWMT / Hard-Problem-of-Content / soft-eliminativism calibration intact; all gap-relocation/boundary-disagreement hedges intact; all citations + References untouched; FEP proponent-concession survives in ≥2 locations.
+
 ## 2026-06-18T13:15:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/process-philosophy]]

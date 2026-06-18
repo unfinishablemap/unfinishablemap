@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-16 14:14:59+00:00
+ai_modified: 2026-06-18 14:29:52+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -64,19 +64,17 @@ The framework emerged from Karl Friston's Free Energy Principle—living systems
 
 Anil Seth's influential formulation: perception is a "controlled hallucination." What we experience is not the world directly but the brain's best hypothesis about the world, constrained by sensory feedback.
 
-This explains visual illusions, filled-in blind spots, and the constructive nature of perception generally—though the [reconstruction paradox](/concepts/selective-correction-and-reconstruction-paradox/) reveals that the brain does not always construct: it sometimes transmits raw, uncorrected signals to consciousness, an asymmetry that precision weighting alone does not fully explain. The vivid red of a tomato isn't a property read off the world—it's the brain's prediction about what's causing incoming signals.
-
-But explaining that perception is constructive doesn't explain why the construction is conscious. A weather-prediction system constructs models without experiencing anything.
+This explains visual illusions, filled-in blind spots, and the constructive nature of perception generally—though the [reconstruction paradox](/concepts/selective-correction-and-reconstruction-paradox/) reveals that the brain does not always construct: it sometimes transmits raw, uncorrected signals to consciousness, an asymmetry that precision weighting alone does not fully explain. The vivid red of a tomato isn't a property read off the world—it's the brain's prediction about what's causing incoming signals. But that the construction is conscious goes unexplained: a weather-prediction system constructs models without experiencing anything.
 
 ## Two Streams: Hohwy and Clark
 
-Jakob Hohwy and Andy Clark differ on cognitive boundaries. Hohwy locates mind inside the skull, treating perception as inference behind a "veil" of sensory input; Clark extends mind through bodily and environmental scaffolding. Both share the computational core.
+Jakob Hohwy and Andy Clark share the computational core but differ on cognitive boundaries: Hohwy locates mind inside the skull, treating perception as inference behind a "veil" of sensory input, while Clark extends mind through bodily and environmental scaffolding.
 
 ## PP and Consciousness
 
 ### The Indirect Strategy
 
-Hohwy and Seth (2020) propose using PP not to solve the [hard problem](/topics/hard-problem-of-consciousness/) directly but to identify neural correlates of consciousness systematically. PP offers methodological tools for mapping relationships between neural mechanisms and phenomenological properties.
+Hohwy and Seth (2020) propose using PP not to solve the [hard problem](/topics/hard-problem-of-consciousness/) directly but to identify neural correlates of consciousness systematically, offering methodological tools for mapping neural mechanisms onto phenomenological properties.
 
 Importantly: PP at the outset makes no claims about subjective experience. This neutrality allows it to serve consciousness science without imposing solutions.
 
@@ -116,17 +114,9 @@ If Hutto and Myin's negative argument is sound, PP's "predictions" and "errors" 
 
 This does not refute PP. It locates the framework precisely. PP describes neural dynamics in content-involving vocabulary that is predictively useful but metaphysically derivative; the genuine content of conscious thought—what the prediction is *about*—comes from elsewhere. The Map names this calibration the [content-vocabulary-as-derived-feature](/concepts/content-vocabulary-as-derived-feature/) move, which catalogues its deployments and marks its precise weight as a boundary-location rather than a refutation. The Map's reading: PP captures the computational substrate while phenomenal consciousness supplies the aboutness that converts mathematical prediction error into semantic mismatch. Without that addition, PP's softer eliminativism slides into REC-style content-elimination at the basic-cognition level, a cost the Map declines to pay (see [HPoC](/concepts/hard-problem-of-content/) for the structural-alliance/partial-endorsement reasoning).
 
-### Precision and Salience
+### Access, Not Phenomenal Consciousness
 
-Some suggest precision weighting—the mechanism by which certain prediction errors become "salient"—explains what reaches consciousness. But salience is itself often characterized phenomenally. What makes a high-precision signal *feel* vivid?
-
-### Honest Assessments
-
-Proponents acknowledge limitations: the free energy principle "in and of itself makes no claims about subjective experience," and any consciousness theory built on PP must still explain how objective optimization relates to subjective awareness.
-
-## Access vs. Phenomenal Consciousness
-
-Like [Global Workspace Theory](/concepts/global-workspace-theory/), PP may explain access consciousness—how information becomes globally available for reasoning and action—without explaining phenomenal consciousness. It tells a compelling story about *what* reaches awareness and *how* it gets there, without obviously explaining *why* reaching awareness involves experience.
+Like [Global Workspace Theory](/concepts/global-workspace-theory/), PP at best explains access consciousness—how information becomes globally available for reasoning and action—while leaving phenomenal consciousness untouched. The framework's neutrality on subjective experience, noted under [The Indirect Strategy](#the-indirect-strategy) and weighed under [Dualism](#relation-to-site-perspective), is why its account of *what* reaches awareness stays silent on *why* awareness involves experience.
 
 ## The Illusionist Challenge
 
@@ -146,7 +136,7 @@ Dreams provide the clearest test case for PP's "controlled hallucination" claim.
 
 ### Why Dreams Are Bizarre
 
-Under PP, dream bizarreness has a natural explanation. Without environmental input to force updating of the internal model, the brain relies on generated predictions while unable to reliably test them. Middle- to high-level predictions—memories, goals, beliefs—dominate dream content. The predictions feel real because the same neural substrate generates them, but they lack the corrective influence of actual sensory data.
+Under PP, dream bizarreness has a natural explanation. Middle- to high-level predictions—memories, goals, beliefs—dominate dream content, and the predictions feel real because the same neural substrate generates them, but they lack the corrective influence of actual sensory data.
 
 This explains several dream features:
 - **Narrative without logic**: Plot follows associative prediction chains rather than physical constraints
@@ -172,7 +162,7 @@ Alfred North Whitehead's process philosophy frames PP's relationship to consciou
 
 ## Contemplative Evidence
 
-Meditation traditions provide empirical data on PP's claims, accessible through trained [introspection](/concepts/introspection/). Experienced meditators report watching expectations arise and dissolve in slow motion—PP's machinery laid bare—yet the observation of this process is itself phenomenally rich. [Focused attention practices](/concepts/meditation-and-consciousness-modes/) seem to involve voluntarily adjusting precision weighting, yet PP cannot explain why adjusting precision *feels* different. Advanced practitioners report stable [witness awareness](/concepts/witness-consciousness/) persisting as predictions cycle through: if perception is hallucination, what observes the hallucination, without itself being another hallucination on pain of regress? In *nirodha samāpatti* (cessation of perception and feeling), meditators report complete stopping of predictive activity followed by return; if consciousness were identical to prediction, cessation should equal non-existence, yet some report a kind of awareness even of the absence—though Buddhist traditions themselves debate whether cessation involves residual awareness or genuine non-consciousness.
+Beyond the [contemplative challenge](#the-illusionist-challenge) above, two further observations from trained [introspection](/concepts/introspection/) press PP directly. [Focused attention practices](/concepts/meditation-and-consciousness-modes/) seem to involve voluntarily adjusting precision weighting, yet PP cannot explain why adjusting precision *feels* different. And in *nirodha samāpatti* (cessation of perception and feeling), meditators report complete stopping of predictive activity followed by return; if consciousness were identical to prediction, cessation should equal non-existence, yet some report a kind of awareness even of the absence—though Buddhist traditions themselves debate whether cessation involves residual awareness or genuine non-consciousness.
 
 ## What Would Challenge This View?
 

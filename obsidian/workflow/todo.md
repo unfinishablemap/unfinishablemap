@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense concepts/predictive-processing.md (3606 words, 106% of 3500 concepts hard ceiling)
-- **Type**: condense
-- **Status**: pending
-- **File**: obsidian/concepts/predictive-processing.md
-- **Notes**: Crossed the 3500 concepts/ HARD ceiling (3606 body words via analyze_length; well below the 5000 critical ceiling) after the 2026-06-16 IWMT addition (~330 words) outweighed the same-commit Process Philosophy / Contemplative Evidence trims. The 2026-06-01 deep review pre-flagged "if it crosses 3500 hard, a /condense is warranted"; the 2026-06-18 deep review (reviews/deep-review-2026-06-18-predictive-processing) verified all citations clean and converged on content but DECLINED to condense in-pass (verify-only was the brief; the IWMT calibration was installed only 2 days prior and is load-bearing, so it left the trim to a dedicated pass). CONSTRAINT: trim ~110+ words of GENUINE REDUNDANCY to get back under 3500 — do NOT strip the IWMT/HPoC/eliminativism calibration or the boundary-disagreement framing ([[condense-regresses-calibration-qualifiers]], [[coalesce-hides-review-debt-and-regresses-fixes]]). Lower-risk redundancy candidates: "Honest Assessments" + "Access vs. Phenomenal Consciousness" restate the access/phenomenal split and the "FEP makes no claims about subjective experience" concession already made in the Indirect Strategy and Dualism-tenet sections — tighten/merge without losing the proponent-concession that the Dualism argument leans on. Re-check analyze_length before finishing.
-- **Source**: length (hard-ceiling violation; deferred from 2026-06-18 deep review)
-- **Generated**: 2026-06-18
-
 ### ✓ DONE 2026-06-18: Deep review topics/the-steelman-for-process-monism.md (fresh create 2026-06-18, never deep-reviewed; fresh-create defect tail)
 - **Type**: deep-review
 - **Status**: done — SUPERSEDED by same-cycle cycle-slot deep-review (reviews/deep-review-2026-06-18-the-steelman-for-process-monism). All citations web-verified at publisher (Ṣadrā SEP + SN 12.61 + Whitehead 1929/1978 + Paṭṭhāna), Mode Three steelman-then-decline confirmed, calibration-refine intact (anchoring flags 0). No re-review needed.
@@ -1097,6 +1089,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-18: Condense concepts/predictive-processing.md (3606 words, 106% of 3500 concepts hard ceiling)
+- **Type**: condense
+- **Notes**: Crossed the 3500 concepts/ HARD ceiling (3606 body words via analyze_length; well below the 5000 critical ceiling) after the 2026-06-16 IWMT addition (~330 words) outweighed the same-commit Process Philosophy / Contemplative Evidence trims. The 2026-06-01 deep review pre-flagged "if it crosses 3500 hard, a /condense is warranted"; the 2026-06-18 deep review (reviews/deep-review-2026-06-18-predictive-processing) verified all citations clean and converged on content but DECLINED to condense in-pass (verify-only was the brief; the IWMT calibration was installed only 2 days prior and is load-bearing, so it left the trim to a dedicated pass). CONSTRAINT: trim ~110+ words of GENUINE REDUNDANCY to get back under 3500 — do NOT strip the IWMT/HPoC/eliminativism calibration or the boundary-disagreement framing ([[condense-regresses-calibration-qualifiers]], [[coalesce-hides-review-debt-and-regresses-fixes]]). Lower-risk redundancy candidates: "Honest Assessments" + "Access vs. Phenomenal Consciousness" restate the access/phenomenal split and the "FEP makes no claims about subjective experience" concession already made in the Indirect Strategy and Dualism-tenet sections — tighten/merge without losing the proponent-concession that the Dualism argument leans on. Re-check analyze_length before finishing.
 
 ### ✓ 2026-06-18: Deep review concepts/predictive-processing.md (post-refine drift — 2026-06-16 IWMT/eliminativism/hard-problem-of-content sections unverified since 2026-06-01 review)
 - **Type**: deep-review
