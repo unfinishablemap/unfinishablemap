@@ -5,6 +5,14 @@ ai_modified: 2026-06-17 21:48:51+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-18T00:00:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/assessing-ai-consciousness-under-the-map]] (applied apex)
+- **Changed sources**: 1 ([[apex/open-question-ai-consciousness]] modified 2026-06-10 — deep-review pass that added Birch's gaming problem + reframed Hoel as continual-learning argument)
+- **Word count**: 2419 → 2654 (under-length → within 2500–4000 target; integration not condensation)
+- **Changes**: integrated Birch's [[concepts/gaming-problem|gaming problem]] as a framework-independent convergent route to the first-person-report discount (strengthens decision #2 for readers who reject the Map's tenets); added gaming-problem to concepts/apex_sources/Source-Articles; positions audit confirmed P-Q1/P-Q2/P-Q9 bands unchanged vs positions/quantum-interface. Applied Discipline 6/6 PASS.
+- **Review**: [[reviews/apex-evolve-2026-06-18-assessing-ai-consciousness-under-the-map]]
+
 ## 2026-06-17T23:00:08+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/indexical-knowledge-and-identity]] (8th review; re-qualified via convergence damping after a cosmetic [[egocentric-presentism]] cross-link bump — would have no-op'd EXCEPT §2.4 step-5 inline↔References cross-check surfaced orphan refs all 7 prior attribution passes missed)
