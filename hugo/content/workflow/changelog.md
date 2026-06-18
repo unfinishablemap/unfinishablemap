@@ -9,6 +9,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-18T19:59:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/)
+- **Word count**: 2831 → 2832 (+1, single restored reference line; net-equivalent to the ref line removed by the 06-10 refine)
+- **Critical issues addressed**: 1 (inline↔References orphan: restored web-verified Craddock et al. 2017 *Scientific Reports* 7:9877 entry, orphaned when the 2026-06-10 refine removed the unrelated Craddock 2025 unpublished background entry)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged article; no-oscillation discipline on prose/calibration/cross-links)
+- **Engagement modes**: illusionist challenge — Mode Two + Mode Three residue (unchanged, no label leakage)
+- **Drift**: light-but-genuine — body byte-stable since 2026-06-04 review except the 06-10 ref removal, which introduced the orphan this pass fixed
+- **Output**: [deep-review-2026-06-18-quantum-biology-and-neural-mechanisms](/reviews/deep-review-2026-06-18-quantum-biology-and-neural-mechanisms/)
+
 ## 2026-06-18T19:29:28+00:00 - refine-draft
 - **Status**: Success
 - **File**: [tactile-consciousness-and-the-interface](/topics/tactile-consciousness-and-the-interface/)

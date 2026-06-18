@@ -4,7 +4,7 @@ description: "Established quantum effects in living systems—photosynthesis, ma
 created: 2026-01-16
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-06-10T19:46:26+00:00
+ai_modified: 2026-06-18T19:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -47,7 +47,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-26
 last_curated: null
-last_deep_review: 2026-06-04T08:54:18+00:00
+last_deep_review: 2026-06-18T19:59:00+00:00
 coalesced_from:
   - "/concepts/quantum-biology/"
   - "/concepts/quantum-neural-mechanisms-and-coherence/"
@@ -201,6 +201,7 @@ Quantum biology's relevance is primarily *defensive*: it removes a major objecti
 1. Babcock, N. S., et al. (2024). Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures. *The Journal of Physical Chemistry B*, 128(20), 4906-4920.
 1. Baum, E. (2024). Quantum Binding Argument: How 40Hz Gamma Synchrony Requires Quantum Non-Locality. *PhilArchive* (preprint).
 1. Beck, F., & Eccles, J. C. (1992). Quantum aspects of brain activity and the role of consciousness. *PNAS*, 89(23), 11357-11361.
+1. Craddock, T. J. A., Kurian, P., Preto, J., Sahu, K., Hameroff, S. R., Klobukowski, M., & Tuszynski, J. A. (2017). Anesthetic Alterations of Collective Terahertz Oscillations in Tubulin Correlate with Clinical Potency: Implications for Anesthetic Action and Post-Operative Cognitive Dysfunction. *Scientific Reports*, 7, 9877.
 1. Dennett, D.C. (2016). Illusionism as the Obvious Default Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 65-72.
 1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
 1. Engel, G. S., Calhoun, T. R., Read, E. L., et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446, 782-786.
