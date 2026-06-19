@@ -23,6 +23,7 @@ last_deep_review: 2026-06-05 21:05:28+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[neural-refresh-rates]]'
 - '[[timing-gap-problem]]'
 - '[[selective-correction-and-reconstruction-paradox]]'
 - '[[neural-refresh-rates-smoothness-problem-2026-03-08]]'

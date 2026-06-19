@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-06-04 11:51:43+00:00
+ai_modified: 2026-06-19 19:28:25+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Pain asymbolia dissociates nociceptive sensation from affective suf
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 23:50:46+00:00
+last_deep_review: 2026-06-19 19:28:25+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -75,7 +75,7 @@ This is the [hard problem](/topics/hard-problem-of-consciousness/) in miniature.
 
 ### Causal Efficacy of Phenomenal Quality
 
-What pain asymbolia licenses is narrower than first appears. The condition *constrains* the simplest representational claim — that the felt awfulness just *is* the nociceptive activation — by showing the two come apart cleanly. It does not, on its own, *establish* the Map's specific reading that the [quale](/concepts/qualia/) of felt suffering is itself part of the causal process. A [predictive-processing](/concepts/predictive-processing/) account in which affective valence enters as a separate hierarchical prior over the nociceptive signal predicts the same dissociation: insular and anterior-cingulate damage disrupts valence-prior assignment while sensory cortex stays intact, and behavioural collapse follows because the valence-prior is what drives avoidance-policy selection. The phenomenon is shared explanandum; the dissociation is compatible with both framings. The Map's substantive disagreement with the predictive-processing account does not locate at the dissociation itself but at the bridge from sub-personal valence-prior assignment to felt awfulness — predictive processing treats that bridge as constituted by computational role; the Map treats the felt awfulness as adding causal work the sub-personal prior alone does not perform. See [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/#phenomenal-biasing) for the parent treatment of this constrain-vs-establish discipline as it bears on the four-mechanism architecture.
+What pain asymbolia licenses is narrower than first appears. The condition *constrains* the simplest representational claim — that the felt awfulness just *is* the nociceptive activation — by showing the two come apart cleanly. It does not, on its own, *establish* the Map's specific reading that the [quale](/concepts/qualia/) of felt suffering is itself part of the causal process. A [predictive-processing](/concepts/predictive-processing/) account in which affective valence enters as a separate hierarchical prior over the nociceptive signal predicts the same dissociation: insular and anterior-cingulate damage disrupts valence-prior assignment while sensory cortex stays intact, and behavioural collapse follows because the valence-prior is what drives avoidance-policy selection. The phenomenon is shared explanandum; the dissociation is compatible with both framings. The Map's substantive disagreement with the predictive-processing account does not locate at the dissociation itself but at the [bridge from sub-personal valence-prior assignment to felt awfulness](/concepts/constitution-vs-causal-work/) — predictive processing treats that bridge as constituted by computational role; the Map treats the felt awfulness as adding causal work the sub-personal prior alone does not perform. See [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/#phenomenal-biasing) for the parent treatment of this constrain-vs-establish discipline as it bears on the four-mechanism architecture.
 
 When the felt awfulness is present, patients guard injuries, seek treatment, develop avoidance patterns, and reorganise behaviour around the damaged area. When it is absent—same sensory signals, same nociceptive detection—none of this occurs. The epiphenomenalist must maintain that the behavioural differences between normal patients and asymbolia patients are explained entirely by the neural damage, not by the absence of phenomenal suffering. The anterior cingulate and insular lesions disrupt neural pathways that *happen to correlate* with affective experience; the experience itself was never doing any causal work.
 
