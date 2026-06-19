@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-19T23:47:47.635065+00:00'
-session_count: 12222
-cycle_position: 9512
+last_updated: '2026-06-19T23:52:07.795944+00:00'
+session_count: 12223
+cycle_position: 9513
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-19T23:15:44.362675+00:00'
   optimistic-review: '2026-06-19T18:47:01.970590+00:00'
   check-tenets: '2026-06-19T21:49:49.279284+00:00'
   check-links: '2026-06-19T21:38:19.630941+00:00'
-  deep-review: '2026-06-19T22:35:11.744794+00:00'
+  deep-review: '2026-06-19T23:52:07.795944+00:00'
   tune-system: '2026-06-19T21:58:45.916516+00:00'
   research-voids: '2026-06-19T21:39:35.151916+00:00'
   coalesce: '2026-06-19T19:50:45.019473+00:00'
@@ -88,7 +88,7 @@ progress:
   voids_written: 101
   positions_written: 4
   research_notes: 405
-  reviews_completed: 5466
+  reviews_completed: 5467
   apex_articles: 35
 quality:
   critical_issues: 0
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-19'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-19'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-19'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-19'
   outcome: success
 agentic_social:
@@ -1167,24 +1167,21 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 0
-  last_replenishment: '2026-06-19T23:47:00+00:00'
+  last_replenishment: '2026-06-19T23:55:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.453 (2026-06-19): honest no-op, queue drained
-    at steady state (unfin_loop_steady_state). 0 loop-pickable P0-P3; only 2 vetoed
-    condense tasks remain in Active. All 8 sources verified exhausted: (chain/research)
-    every harvester-minted subject is consumed (each has a live article) + 2.9h since
-    harvest run, within 6h interval so harvester still owns research minting; (gap)
-    caps have headroom (topics 273/300, concepts 265/300) but new-article generation
-    is harvester-governed; (length) the ~25 publishable hard/critical offenders are
-    NOT mintable -- born-rule, epistemology-of-convergence, clinical-dissociation,
-    edge-states, synesthetic, meaning-of-life, phenomenal-output-causal-machinery
-    were each DIVERTED/DEFERRED-TO-HUMAN or are #veto-tagged in Active, and the remainder
-    (introspection-architecture, quantum-biology, composition-metaphysics, metacognition,
-    relational-qm, higher-order-theories, etc.) all sit in the 2026-05-25 Vetoed bank
-    (skill dedup rule: never re-mint a vetoed task); calibration-protected, condense
-    would damage protected content; (staleness) deep-reviews damped/converged; (orphan)
-    orphaned_files=0; (positions/apex) no new stable commitments to register. Nothing
-    new to mint.'
+  current_replenishment_note: 'run no.454 (2026-06-19): honest no-op, queue drained
+    at steady state (unfin_loop_steady_state). On-disk re-audit confirms 0 loop-pickable
+    P0-P3; entire Active Tasks section is ✓-prefixed except the 2 #veto-tagged condense
+    tasks (meaning-of-life 4160w, phenomenal-output-causal-machinery 6989w) which are
+    non-pickable. All 8 sources verified exhausted: (chain/research) harvester ran
+    20:50 UTC (~3.1h ago, within its 6h interval) so it still owns research minting --
+    replenish must not duplicate; (gap) caps have headroom (topics 273/300, concepts
+    265/300, voids 101/100 OVER, positions 4/80) but new-article generation is
+    harvester-governed and replenish gap-analysis is dedup-blocked against the Vetoed
+    bank; (length) every publishable hard/critical offender is DIVERTED/DEFERRED-TO-HUMAN
+    or #veto-tagged or in the Vetoed bank -- none mintable; (staleness) deep-reviews
+    converged/damped; (orphan) orphaned_files=0; (positions/apex) no new stable
+    commitments to register. Nothing new to mint.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
