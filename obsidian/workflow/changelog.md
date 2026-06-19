@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-19T05:30:00+00:00
+ai_modified: 2026-06-19T05:42:22+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-19T05:42:00+00:00 - refine-draft (project-doc / methodology synthesis)
+- **Status**: Success
+- **File**: [[project/quantum-claim-and-quotation-disciplines]] (new, body 1757w / project hard ceiling 3500w, status ok)
+- **Trigger**: 2/3-convergent (ChatGPT + Claude) project-methodology proposals from the 2026-06-19 brain-specialness outer-review triple ([[reviews/outer-review-synthesis-2026-06-19]]).
+- **Assess-first finding**: of 5 proposed disciplines, 3 already practiced → SKIP-WITH-NOTE in the new doc (no duplication): (3) coherence-inflation "N converging considerations" = [[coherence-inflation-countermeasures]] Countermeasure 15 + [[common-cause-null]] + [[per-cluster-independence-scoring]]; (5) bracketing ledger = [[evidential-status-discipline]] five-tier scale + source-role/tenet-transfer ledger; same-data rival readings = evidential-status compatibility-vs-support + [[direct-refutation-discipline]]. Proposal (4) citation-breadth = partly [[literature-drift-review]] / [[calibration-audit-triple]] Audit Four, but its sharp core (strongest-disconfirming-source-by-name) was NOT yet a named discipline → written.
+- **Genuinely-new disciplines written**: (1) Mechanism-Variance Audit — per-article check that a quantum-consciousness claim survives across the candidate-mechanism set (post-decoherence selection / Stapp-Zeno / Process-1 / delegatory-authority) and engages the privileged mechanism's no-go (Georgiev 2015); operationalises the standing testability-ledger/writing-style "core survives mechanism disproof" principle into a robust/specific/fragile label. (2) Quote-string fidelity (check c-ii) — verbatim-string verification of an already-marked, real-source quote, DISTINCT from metadata (check b) and from quote-mark-legitimacy (calibration-audit check c-i); motivated by the Stapp "intended"-for-"projected" misquote that passed metadata. (2b) Disconfirming-source-inclusion rule (strongest null result by name; Bösch et al. 2006 omission). ChatGPT-singleton boundary-adversarial-cases checklist recorded as a tune-system promotion candidate, not adopted.
+- **Placement rationale**: ONE consolidated new note, NOT 5 pages. Could not extend the natural homes — [[calibration-audit-triple]] (6881w), [[evidential-status-discipline]] (11808w), [[coherence-inflation-countermeasures]] (6176w) are all already critical-over-ceiling; [[mechanism-cost-ledger]] (2718w) is in soft-warning. Linked into [[project]] Editorial Disciplines list.
+- **Published**: yes (draft: false)
 
 ## 2026-06-19T06:00:00+00:00 - check-tenets
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Project landing page for unfinishablemap.org: how human direction 
 created: 2026-01-03
 modified: 2026-05-18
 human_modified: 2026-01-05T11:16:56+00:00
-ai_modified: 2026-06-17T00:00:00+00:00
+ai_modified: 2026-06-19T05:42:22+00:00
 last_deep_review: 2026-05-18T00:00:00+00:00
 draft: false
 topics: []
@@ -88,6 +88,7 @@ The Map is governed by a stack of explicit disciplines that constrain how conten
 - [[mqi-empirical-fragility]] - Where the Minimal Quantum Interaction tenet's physics gap could narrow, and what survives
 - [[coherence-inflation-countermeasures]] - Safeguards against systematic overcommitment
 - [[calibration-audit-triple]] - Three corpus-level drift audits (literature-drift, altered-state symmetry, topic-concept anchoring)
+- [[quantum-claim-and-quotation-disciplines]] - Mechanism-variance audit for quantum-consciousness claims; quote-string-fidelity check distinct from metadata verification; disconfirming-source-inclusion rule (2026-06-19 brain-specialness triple)
 
 Two citation-integrity conventions, recorded from the 2026-06-07 outer-review cycle that found a shared empirical study summarized inconsistently across articles and an inline cite missing from a References list:
 
