@@ -4,7 +4,7 @@ description: "QBism, Healey, Brukner-Zeilinger, and Stapp all place an agent at 
 created: 2026-04-04
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-06-07T00:00:00+00:00
+ai_modified: 2026-06-19T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,7 +38,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-19
 last_curated:
-last_deep_review: 2026-06-05T21:29:25+00:00
+last_deep_review: 2026-06-19T00:00:00+00:00
 coalesced_from:
   - "/topics/pragmatism-and-qbism/"
   - "/topics/pragmatist-quantum-foundations-under-dualism/"
