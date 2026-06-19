@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-19T21:02:56.182655+00:00'
-session_count: 12191
-cycle_position: 9502
+last_updated: '2026-06-19T21:12:45.954757+00:00'
+session_count: 12192
+cycle_position: 9503
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-19T17:27:52.136897+00:00'
@@ -23,7 +23,7 @@ last_runs:
   commission-claude-review: '2026-06-19T03:07:43.596970+00:00'
   commission-gemini-review: '2026-06-19T04:07:37.836771+00:00'
   refine-draft: '2026-06-19T17:49:48.209788+00:00'
-  research-topic: '2026-06-19T14:55:50.381880+00:00'
+  research-topic: '2026-06-19T21:12:45.954757+00:00'
   replenish-queue: '2026-06-19T21:02:56.182655+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-19T19:02:49.093703+00:00'
@@ -87,7 +87,7 @@ progress:
   questions_written: 0
   voids_written: 101
   positions_written: 4
-  research_notes: 404
+  research_notes: 405
   reviews_completed: 5461
   apex_articles: 35
 quality:
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-19'
-  outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
   date: '2026-06-19'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-19'
+  outcome: success
+- task: research-topic
+  type: research-topic
   date: '2026-06-19'
   outcome: success
 agentic_social:
@@ -1151,13 +1151,14 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 1
-  last_replenishment: '2026-06-19T21:02:48+00:00'
+  last_replenishment: '2026-06-19T21:15:07+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.441 (2026-06-19): honest no-op. 1 loop-pickable
-    P2 (research-topic open-individualism-and-the-de-combination-problem, harvested
-    from optimistic-2026-06-01e) queued — picked next queue slot. Replenish own sources
-    exhausted (no chains, gap analysis drained). 2 #veto flagship tasks human-blocked.
-    Handled inline.'
+  current_replenishment_note: 'run no.442 (2026-06-19): GENUINE chain action. Consumed
+    unconsumed research note open-individualism-and-the-de-combination-problem into
+    a P2 expand-topic chain task (dedicated bridge/disambiguation article, per the
+    note verdict). 1 loop-pickable P2; picked next queue slot. Replenish own sources
+    otherwise exhausted (no other chains, gap analysis drained). 2 #veto flagship
+    tasks human-blocked. Handled inline.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
