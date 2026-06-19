@@ -5,6 +5,16 @@ ai_modified: 2026-06-19T06:20:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-19T07:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/brain-computer-interfaces-and-the-interface-boundary]]
+- **Trigger**: 2 grep-validated findings from [[reviews/pessimistic-2026-06-19-brain-computer-interfaces]]. VERIFY-FIRST: confirmed neither concession was already present in the load-bearing sections before editing (the Occam's-Razor subsection at line ~130 acknowledged "just neural plasticity" only glancingly and pivoted to the effort argument — the same-data candor was absent from §"The Adaptation Is Neural" and §"The Developmental Constraint"; the bits/s line still read "comparable to").
+- **(1) Medium — evidential-discrimination gap (no web-verify; conceptual calibration).** Added a ~110-word "same data, rival readings" paragraph at the end of §"The Adaptation Is Neural, Not Interface Extension", where the positive interface-boundary claim is made. Per [[evidential-status-discipline]], it splits the *epistemic* claim (adaptation is neural — established by the manifold/consolidation data, rules out device-extension) from the *metaphysical* claim (consciousness selects within that locus — NOT carried by the same data; a no-interface physicalist predicts the intrinsic manifold, consolidation, and plasticity limits identically). Concedes the plasticity evidence is neutral Map-vs-physicalism and relocates the discriminating work to the hard-problem-of-effort argument already present in the Occam's-Razor section. Mirrors the same-data-rival-readings candor installed in today's brain-specialness-boundary Born-rule remediation. No editor-vocabulary in body; natural prose.
+- **(2) Low — bits/s comparability + cross-measure conflation.** Reframed line ~102. Before: "roughly 1-3 bits per second—comparable to the [[bandwidth-of-consciousness|conscious processing bottleneck]] (approximately 10 bits/second) but far below natural motor bandwidth." After: "the same order of magnitude as, though not a measure of, the conscious-decision ceiling (approximately 10 bits/second), and far below natural motor bandwidth," + a sentence distinguishing decoder-output throughput (electrode/noise/decoder-limited) from the rate of conscious selections. No citation-year change — ~10 bits/s is consistent with [[bandwidth-of-consciousness]] (Zheng & Meister 2025).
+- **Preserved (untouched, per task constraints):** the honest "What Would Challenge This View" falsification section, the anaesthesia "has not been tested directly" hedge, the Clark extended-mind engagement, the phantom-ownership/somatoparaphrenia section.
+- **Length**: body 2285w → 2506w, status ok (soft 3000; ample headroom). altered_state_symmetry scan returns None.
+- **Published**: yes
+
 ## 2026-06-19T06:45:05+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/brain-computer-interfaces-and-the-interface-boundary.md` (stalest zero-prior-pessimistic candidate; last touched 2026-05-19; body 2285w). Self-selected, not edited this session, not in avoid-list.
