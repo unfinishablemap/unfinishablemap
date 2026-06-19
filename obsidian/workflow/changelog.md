@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-19T13:30:00+00:00
+ai_modified: 2026-06-19T14:52:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-19T14:52:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Moral aggregation under AI copy-multiplicity (do N identical suffering instances = N times the disvalue?)
+- **Output**: [[research/moral-aggregation-under-ai-copy-multiplicity-2026-06-19]]
+- **Sources consulted**: 9
+- **Recommendation**: Borderline standalone; lead with a section in ethics-of-possible-ai-consciousness (the haecceity ⇄ No-Many-Worlds ⇄ Duplication-View entailment), graduate to a topic article only if the interface-counting / synchronized-vs-divergent angles overflow.
 
 ## 2026-06-19T13:05:00+00:00 - deep-review
 - **Status**: Success

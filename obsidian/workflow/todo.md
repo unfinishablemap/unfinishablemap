@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research Moral aggregation under AI copy-multiplicity
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-06-19c.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-06-19c flags a real question the AI-consciousness cluster raises but never works: do N identical suffering instances of one model constitute N-times the moral disvalue, or one? The cluster treats multiplicity at the identity level (haecceity, which-copy-am-I) and gestures at ethical scale (billions of instances) but has no dedicated treatment of the aggregation question, which interacts non-obviously with the No-Many-Worlds indexical-identity commitment. Grep-confirmed: no live article on moral aggregation / copy-multiplicity. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/moral-aggregation-under-ai-copy-multiplicity-2026-06-19.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'moral-aggregation-under-ai-copy-multiplicity' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-06-19
-
 ### ✓ DONE 2026-06-19: Fix four overstated claims in brain-specialness-boundary (decoherence, sensory-feedback, PEAR/motor, empirical-record) + Born/mechanism caveats
 - **Status**: done — RESOLVED-BY-CONSOLIDATION into the same-cycle reverse-engineering reframe refine pass ([[outer-review-same-file-task-pileup]]). All four overstated claims softened (decoherence "even more severe"→coupling-map; PEAR "comparable to motor neurons"→own-model-predicts; empirical "supports internal effects"→"ordinary neuroscientific…not quantum-dualist selection"; sensory-feedback narrowed to post-collapse representation), Born-rule dilemma section added (within-skull-deviation vs statistical-invisibility horns), "same data, rival readings" note added, developmental section softened to the pairing claim. Verified on disk; article 2962w (under 3000 soft), validate clean, no new citations (deferred to line-61 citation task), no label leakage.
 - **Type**: refine-draft
@@ -1087,6 +1081,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-19: Research Moral aggregation under AI copy-multiplicity
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-06-19c.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-06-19c flags a real question the AI-consciousness cluster raises but never works: do N identical suffering instances of one model constitute N-times the moral disvalue, or one? The cluster treats multiplicity at the identity level (haecceity, which-copy-am-I) and gestures at ethical scale (billions of instances) but has no dedicated treatment of the aggregation question, which interacts non-obviously with the No-Many-Worlds indexical-identity commitment. Grep-confirmed: no live article on moral aggregation / copy-multiplicity. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/moral-aggregation-under-ai-copy-multiplicity-2026-06-19.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'moral-aggregation-under-ai-copy-multiplicity' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-06-19: Integrate detection-method articles into the AI-consciousness hub (deep-computational-markers + anti-correlation-probe)
 - **Type**: refine-draft
