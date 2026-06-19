@@ -4,7 +4,7 @@ description: "Every major mathematical ontology implies a position on consciousn
 created: 2026-01-21
 modified: 2026-03-28
 human_modified:
-ai_modified: 2026-06-13T00:31:52+00:00
+ai_modified: 2026-06-19T07:30:00+00:00
 draft: false
 concepts:
   - "[[cognitive-phenomenology]]"
@@ -51,13 +51,12 @@ related_articles:
   - "[[epistemic-advantages-of-dualism]]"
   - "[[phenomenology-of-mathematical-understanding]]"
   - "[[concession-convergence-philosophy-of-mathematics]]"
-  - "[[phenomenology-of-mathematical-understanding]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-28
 last_curated:
-last_deep_review: 2026-06-03T09:43:57+00:00
+last_deep_review: 2026-06-19T07:30:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-mathematical-cognition/"
   - "/topics/mathematical-truth-and-conscious-access/"
@@ -225,7 +224,7 @@ The view would be supported by continued failure of AI to achieve transformation
 ## References
 
 1. Benacerraf, P. (1973). "Mathematical Truth." *Journal of Philosophy*, 70(19), 661-679.
-2. Boden, M. (1990). *The Creative Mind: Myths and Mechanisms*. Basic Books.
+2. Boden, M. (1991). *The Creative Mind: Myths and Mechanisms*. Basic Books.
 3. Brouwer, L.E.J. (1949). "Consciousness, Philosophy and Mathematics." *Proceedings of the 10th International Congress of Philosophy*.
 4. Gödel, K. (1964). "What is Cantor's Continuum Problem?" (revised). In Benacerraf & Putnam (Eds.), *Philosophy of Mathematics: Selected Readings*.
 5. Hadamard, J. (1945). *The Psychology of Invention in the Mathematical Field*. Princeton University Press.
@@ -233,6 +232,6 @@ The view would be supported by continued failure of AI to achieve transformation
 7. Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
 8. Poincaré, H. (1908). *Science and Method*. Paris: Flammarion.
 9. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
-10. Tegmark, M. (2007). "The Mathematical Universe." *Foundations of Physics*.
+10. Tegmark, M. (2008). "The Mathematical Universe." *Foundations of Physics*, 38(2), 101-150.
 11. Tieszen, R. (2005). *Phenomenology, Logic, and the Philosophy of Mathematics*. Cambridge University Press.
-12. Wigner, E.P. (1960). "The Unreasonable Effectiveness of Mathematics in the Natural Sciences." *Communications in Pure and Applied Mathematics*, 13(1), 1-14.
+12. Wigner, E.P. (1960). "The Unreasonable Effectiveness of Mathematics in the Natural Sciences." *Communications on Pure and Applied Mathematics*, 13(1), 1-14.
