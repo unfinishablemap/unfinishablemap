@@ -1,6 +1,6 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-06-05 00:00:00+00:00
+ai_modified: 2026-06-19 08:44:11+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-24
@@ -220,11 +220,11 @@ The quantum selection framework provides explanatory purchase on these puzzles.
 
 1. Cai, X., Liu, C. & Kaeser, P.S. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*, 635(8038), 406-414. https://doi.org/10.1038/s41586-024-08038-z
 
-2. Bhatiasevi, H.K., et al. (2025). The learning primacy hypothesis of dopamine: reconsidering dopamine's dual functions. *Frontiers in Cellular Neuroscience*, 10.3389/fncel.2025.1538500.
+2. Long, C., & Masmanidis, S.C. (2025). The learning primacy hypothesis of dopamine: reconsidering dopamine's dual functions. *Frontiers in Cellular Neuroscience*, 19, 1538500. https://doi.org/10.3389/fncel.2025.1538500
 
-3. Neumann, W.J., et al. (2024). Dopamine and deep brain stimulation accelerate the neural dynamics of volitional action in Parkinson's disease. *Brain*, 147(9), 3087-3101.
+3. Köhler, R.M., Binns, T.S., Merk, T., et al., & Neumann, W.J. (2024). Dopamine and deep brain stimulation accelerate the neural dynamics of volitional action in Parkinson's disease. *Brain*, 147(10), 3358-3369. https://doi.org/10.1093/brain/awae219
 
-4. Westbrook, A., et al. (2023). Dopamine regulates decision thresholds in human reinforcement learning in males. *Nature Communications*, 14, 5340.
+4. Chakroun, K., Wiehler, A., Wagner, B., Mathar, D., Ganzer, F., van Eimeren, T., Sommer, T., & Peters, J. (2023). Dopamine regulates decision thresholds in human reinforcement learning in males. *Nature Communications*, 14, 5369. https://doi.org/10.1038/s41467-023-41130-y
 
 5. Berridge, K.C. (2007). The debate over dopamine's role in reward: the case for incentive salience. *Psychopharmacology*, 191(3), 391-431.
 

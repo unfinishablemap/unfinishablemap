@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-09
-ai_modified: 2026-06-12 21:37:42+00:00
+ai_modified: 2026-06-19 10:34:41.633189+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-06-02 05:15:12+00:00
 apex_sources:
@@ -44,6 +44,11 @@ description: A structural cluster recurring across perception, cognition, agency
   produce them — one of the catalogue's most developed instances of the cumulative-convergence
   argument.
 draft: false
+embedded_videos:
+- embedded: 2026-06-19 10:34:41.633189+00:00
+  id: hofsJGrMCwk
+  source: notebooklm/0077-01-phenomenal-output-causal-machinery-dissociation
+  url: https://www.youtube-nocookie.com/embed/hofsJGrMCwk
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-05 00:00:00+00:00
@@ -80,6 +85,12 @@ Some cognitive operations leave their outputs in consciousness but hide the oper
 This synthesis catalogues the cluster's members across three timescales — instant of perception, real-time cognition and agency, across-time memory — and tracks the convergence of independent traditions on the same diagnostic signature (five-or-six traditions on the audited count below). The methodological discipline: each dissociation *constrains* identity readings of phenomenology with its underlying operation; none on its own *establishes* dualism. Evidential weight comes from the cumulative convergence through independent vocabularies, subject to the common-cause caveat (all the traditions analyse human cognition through human introspection) set out below.
 
 The cluster has a positive companion. [Placebo and choking](/topics/empirical-phenomena-mental-causation/) show the same architecture running in the other direction — phenomenology *coupling* to causal machinery in the success cases — with the symmetry constraining what any account must explain.
+
+<details class="yt-embed" data-video-id="hofsJGrMCwk">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/hofsJGrMCwk">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Diagnostic Signature
 

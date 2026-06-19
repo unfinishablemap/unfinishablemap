@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-06-12 22:03:51+00:00
+ai_modified: 2026-06-19 08:20:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -43,6 +43,7 @@ related_articles:
 - '[[smoothness-and-continuity]]'
 - '[[resolution-void]]'
 - '[[consciousness-and-the-ontology-of-temporal-becoming]]'
+- '[[time-consciousness-growing-block]]'
 - '[[binding-void]]'
 - '[[what-voids-reveal]]'
 - '[[thought-stream-void]]'

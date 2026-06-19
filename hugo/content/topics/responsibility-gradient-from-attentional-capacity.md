@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-06-04 00:00:00+00:00
+ai_modified: 2026-06-19 11:20:20+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Moral responsibility is not binary but graded by attentional capaci
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 05:56:24+00:00
+last_deep_review: 2026-06-19 11:20:20+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -187,4 +187,4 @@ The moral implications extend in both directions. Where most discussions of grad
 1. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
 1. Mullainathan, S. & Shafir, E. (2013). *Scarcity: Why Having Too Little Means So Much*. Times Books.
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
-1. Strawson, P.F. (1962). "Freedom and Resentment." *Proceedings of the British Academy*, 48, 1-25.
+1. Strawson, P.F. (1962). "Freedom and Resentment." *Proceedings of the British Academy*, 48, 187-211.

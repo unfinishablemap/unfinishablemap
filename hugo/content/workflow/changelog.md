@@ -1,13 +1,61 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-19 06:20:00+00:00
+ai_modified: 2026-06-19 11:20:20+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-19'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-19 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/contextual-selection-in-quantum-foundations.md` (AI-100, oldest unreviewed quantum-foundations concept, last deep-review 2026-05-19)
+- **Findings**: Citations & physics facts CLEAN — all 5 refs web-verified (Kochen-Specker 1967, Bell 1966 RMP 38:447-452, Spekkens 2005 PRA 71:052108, Peres 1991 JPhysA 24:L175, Mermin 1993 RMP 65:803), Peres-Mermin "nine observables/4-dimensional" claim correct, no QEC/wikilink collision, all 8 cross-links resolve. Real weaknesses are argumentative: (1) MEDIUM formal-vs-operational equivocation on post-decoherence contextuality — "The Map's position is that it does [have operational consequence]" asserted then conceded open ([evidential-status-discipline](/project/evidential-status-discipline/)); (2) LOW-MEDIUM unargued attribution of K-S-sense contextuality to Orch OR. Both grep-VERIFIED present. Did NOT pathologize the (deliberate, correct) hedging/framework-boundary marking.
+- **Tasks queued**: 1 VERIFY-FIRST P2 refine-draft (Issues 1+2)
+- **Output**: [pessimistic-2026-06-19b-contextual-selection-in-quantum-foundations](/reviews/pessimistic-2026-06-19b-contextual-selection-in-quantum-foundations/)
+
+## 2026-06-19T11:20:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/)
+- **Selection**: scorer top pick (brain-computer-interfaces) on AVOID list → no-op; descended candidate list past AVOIDed locality/pain-asymbolia/subject-object → chose this 6th-review article on GENUINE References-block staleness: commit 7c1086009 (2026-06-04) replaced a FABRICATED "Meister 2024 PNAS" citation with the real Zheng & Meister (2025) Neuron paper AFTER the 5th review (2026-06-01) had ratified the fabrication as "Accurate contextual citation" (ai_citation_metadata_unreliable). Real citation metadata changed → §2.4 publisher web-verify mandatory.
+- **Word count**: 2571 → 2571 (no change; length-neutral, 86% of 3000 soft).
+- **Critical issues addressed**: 0 (fabricated Meister cite already remediated 06-04; replacement verified correct this pass).
+- **Medium issues addressed**: 0.
+- **Enhancements made**: 1 — Strawson 1962 page range corrected 1-25 → 187-211 (real-wrong-metadata: 187-211 is the original *Proc. British Academy* vol. 48 printing per BA's own 48p187.pdf; 1-25 is the offprint pagination).
+- **Citation web-verify (§2.4, publisher of record)**: Zheng & Meister 2025 Neuron 113(2):192-204 real-correct (the corrected replacement — fix verified sound); Cowan 2001 BBS 24(1):87-114 real-correct; Fischer & Ravizza 1998 CUP real-correct; Mullainathan & Shafir 2013 Times Books real-correct (13-IQ-points = popularized Mani et al. 2013 Science 341:976-980); Schwartz & Begley 2002 ReganBooks real-correct (hedged); Strawson 1962 real-wrong-metadata→fixed; Kane 1996 OUP real-correct (standard ref). Inline↔References integrity clean; no orphans. No superlative/currency claims.
+- **Calibration**: tenet-conditional framing throughout; no possibility/probability slippage; tenet-accepting reviewer would not flag overstatement.
+- **Reasoning-mode**: compatibilism (Fischer & Ravizza) Mode Two/Mixed (credits grading, identifies unexplained gap, supplies single-architecture unification); hard determinism Mode Three (boundary-marked honestly). No label leakage.
+- **Links**: all 20 wikilink targets resolve.
+- **Output**: [deep-review-2026-06-19-responsibility-gradient-from-attentional-capacity](/reviews/deep-review-2026-06-19-responsibility-gradient-from-attentional-capacity/)
+
+## 2026-06-19T09:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/)
+- **Selection**: scorer top pick (brain-computer-interfaces) on AVOID list → no-op; chose this 5th-review article on GENUINE own-content staleness — eight substantive refine-draft passes on 2026-06-18 (Saad closure citation fix, Born-rule dilemma, decoherence-timescale brain-side pass, consolidated opponent-engagement pass, direct-QRNG counterexample, three rigor fixes, Willow currency update) added 7 new references the 06-04 deep-review never saw. Not a cosmetic re-float.
+- **Critical issues addressed**: 0. **Medium**: 0. **Enhancements**: 0 (length-neutral; converged after real scrutiny → confirming verdict + last_deep_review bump).
+- **Citation web-verify (§2.4, publisher of record)**: all 7 newly-added refs verified real-correct — Google Quantum AI 2024 (*Nature* 638, 920-926; distance-7/101q/0.143% per cycle, Λ 2.14, **2.4× memory-vs-physical-qubit breakeven** — distinct quantity from Λ, body keeps them separate, faithful), Butlin/Long et al. 2023 (arXiv:2308.08708), Georgiev 2015 (IJMPB 29(7) 1550039), Tegmark 2000 (PRE 61, 4194-4206, PMID 11088215), Milinkovic & Aru 2026 (Neurosci Biobehav Rev 181, 106524), Chalmers 1995, Nielsen & Chuang 2010. Inline↔References integrity clean; no orphans; no `[[n,k,d]]` QEC-notation hazard.
+- **Calibration**: observational-closure dilemma (L102) passes the tenet-accepting-reviewer test — resolves via per-occasion-vs-across-occasions distinction, honestly flags the structured-signature residue as bedrock-adjacent/open. "Compatibility, not support" + "currently non-discriminating" = exemplary evidential restraint. No possibility/probability slippage.
+- **Source/Map separation**: Saad observational-closure correctly presented as general/non-quantum with the quantum specialization labelled "Saad does not endorse" (06-18 co-optation fix holds).
+- **engagement classification**: Block 1995 / Chalmers 1995 / predictive-processing — Mode Three boundary-marking; biological-computationalism (Milinkovic & Aru 2026) — Mixed/Mode-Two-leaning; observational-closure dilemma — Mode Three w/ open-residue. No label leakage, no boundary-substitution.
+- **Word count**: 3865 → 3865 (0; verification-only, length-neutral; 129% of 3000 soft, under 4000 hard).
+- **Output**: [deep-review-2026-06-19-quantum-state-inheritance-in-ai](/reviews/deep-review-2026-06-19-quantum-state-inheritance-in-ai/)
+
+## 2026-06-19T08:44:11+00:00 - deep-review
+- **Status**: Success
+- **File**: [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)
+- **Selection**: scorer top pick (brain-computer-interfaces) on AVOID list → no-op; chose this 6×-reviewed article because the 2026-06-05 Cai/Kaeser corpus citation fix was a REAL post-review content change (the §2.4 trigger), not a cosmetic re-float like the three sibling candidates.
+- **Critical issues addressed**: 3 (wrong-author/metadata citation cluster, publisher-of-record verified)
+  - Westbrook 2023 → **Chakroun et al. 2023** (Nat Commun 14, 5369; was art. 5340, DOI added) — no Westbrook 2023 decision-threshold paper exists; fixed inline + References.
+  - Neumann 2024 *Brain* → lead author **Köhler**, issue 147(**10**) not (9), pp. **3358-3369** not 3087-3101, DOI 10.1093/brain/awae219.
+  - Bhatiasevi 2025 → **Long & Masmanidis 2025** (Front Cell Neurosci 19, 1538500; title/DOI matched, author wrong).
+- **Family resolution**: same cluster propagated from research note `dopamine-attention-motor-quantum-interface-2026-01-24` → fixed corpus-wide in [the-interface-problem](/topics/the-interface-problem/), [motor-selection](/concepts/motor-selection/), and the research-note root. **Guard:** Westbrook 2020 *Science* + Westbrook & Braver 2016 *Neuron* cites (mental-effort, agency-void, 3 apex) are CORRECT, untouched — real author mis-attached to the Chakroun paper.
+- **real-correct (verified, unchanged)**: Cai/Kaeser 2024, Rajan 2019, Palmiter 2008, Gurney/Prescott/Redgrave 2001, Frank 2006.
+- **Medium issues addressed**: 0. **Enhancements**: 0 (length-neutral verification-only pass).
+- **engagement classification**: physicalist "selection is just computation" — Mode Two (unsupported-move ID in models' own terms); no label leakage, no boundary-substitution. No possibility/probability slippage.
+- **Word count**: 2699 → 2722 (+23, all in References author lists; body net-zero; 91% of 3000 soft).
+- **Output**: [deep-review-2026-06-19-dopamine-and-the-unified-interface](/reviews/deep-review-2026-06-19-dopamine-and-the-unified-interface/)
 
 ## 2026-06-19T07:59:00+00:00 - optimistic-review
 - **Status**: Success
