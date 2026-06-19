@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-19T09:30:00+00:00
+ai_modified: 2026-06-19T11:20:20+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-19T11:20:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/responsibility-gradient-from-attentional-capacity]]
+- **Selection**: scorer top pick (brain-computer-interfaces) on AVOID list → no-op; descended candidate list past AVOIDed locality/pain-asymbolia/subject-object → chose this 6th-review article on GENUINE References-block staleness: commit 7c1086009 (2026-06-04) replaced a FABRICATED "Meister 2024 PNAS" citation with the real Zheng & Meister (2025) Neuron paper AFTER the 5th review (2026-06-01) had ratified the fabrication as "Accurate contextual citation" ([[ai_citation_metadata_unreliable]]). Real citation metadata changed → §2.4 publisher web-verify mandatory.
+- **Word count**: 2571 → 2571 (no change; length-neutral, 86% of 3000 soft).
+- **Critical issues addressed**: 0 (fabricated Meister cite already remediated 06-04; replacement verified correct this pass).
+- **Medium issues addressed**: 0.
+- **Enhancements made**: 1 — Strawson 1962 page range corrected 1-25 → 187-211 (real-wrong-metadata: 187-211 is the original *Proc. British Academy* vol. 48 printing per BA's own 48p187.pdf; 1-25 is the offprint pagination).
+- **Citation web-verify (§2.4, publisher of record)**: Zheng & Meister 2025 Neuron 113(2):192-204 real-correct (the corrected replacement — fix verified sound); Cowan 2001 BBS 24(1):87-114 real-correct; Fischer & Ravizza 1998 CUP real-correct; Mullainathan & Shafir 2013 Times Books real-correct (13-IQ-points = popularized Mani et al. 2013 Science 341:976-980); Schwartz & Begley 2002 ReganBooks real-correct (hedged); Strawson 1962 real-wrong-metadata→fixed; Kane 1996 OUP real-correct (standard ref). Inline↔References integrity clean; no orphans. No superlative/currency claims.
+- **Calibration**: tenet-conditional framing throughout; no possibility/probability slippage; tenet-accepting reviewer would not flag overstatement.
+- **Reasoning-mode**: compatibilism (Fischer & Ravizza) Mode Two/Mixed (credits grading, identifies unexplained gap, supplies single-architecture unification); hard determinism Mode Three (boundary-marked honestly). No label leakage.
+- **Links**: all 20 wikilink targets resolve.
+- **Output**: [[reviews/deep-review-2026-06-19-responsibility-gradient-from-attentional-capacity]]
 
 ## 2026-06-19T09:30:00+00:00 - deep-review
 - **Status**: Success

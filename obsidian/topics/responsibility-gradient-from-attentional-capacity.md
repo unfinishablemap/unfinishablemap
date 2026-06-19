@@ -4,7 +4,7 @@ description: "Moral responsibility is not binary but graded by attentional capac
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-06-19T11:20:20+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-06-01T05:56:24+00:00
+last_deep_review: 2026-06-19T11:20:20+00:00
 ---
 
 Moral responsibility is not binary. The Unfinishable Map's [[attentional-economics|attentional economics]] framework implies that if agency scales with attentional capacity, then so does moral desert. An agent with full attentional resources—rested, undistracted, emotionally regulated, trained in deliberation—bears more responsibility for a harmful choice than one whose attentional capacity is depleted, impaired, or overwhelmed. The framework is a structural consequence of taking seriously the claim that consciousness influences the physical world through a bandwidth-limited channel.
@@ -184,4 +184,4 @@ The moral implications extend in both directions. Where most discussions of grad
 1. Zheng, J., & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
 1. Mullainathan, S. & Shafir, E. (2013). *Scarcity: Why Having Too Little Means So Much*. Times Books.
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
-1. Strawson, P.F. (1962). "Freedom and Resentment." *Proceedings of the British Academy*, 48, 1-25.
+1. Strawson, P.F. (1962). "Freedom and Resentment." *Proceedings of the British Academy*, 48, 187-211.
