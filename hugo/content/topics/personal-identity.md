@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-06-06 00:00:00+00:00
+ai_modified: 2026-06-19 02:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -37,6 +37,7 @@ related_articles:
 - '[[vertiginous-question]]'
 - '[[voids/anesthesia-void]]'
 - '[[apophatic-cartography]]'
+- '[[clinical-dissociation-as-systematic-evidence]]'
 title: Personal Identity
 topics:
 - '[[hard-problem-of-consciousness]]'

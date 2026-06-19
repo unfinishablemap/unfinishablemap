@@ -1,13 +1,52 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-19 00:55:07+00:00
+ai_modified: 2026-06-19 04:30:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-19'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-19T04:30:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8 (Research; Fable 5 unavailable, ran on Opus)
+- **File**: [outer-review-2026-06-19-claude-opus-4-8](/reviews/outer-review-2026-06-19-claude-opus-4-8/)
+- **Subject**: topics/brain-specialness-boundary (same subject as today's ChatGPT leg; cross-reviewer convergence)
+- **Claims verified**: 10 (all 9 target-quote strings present verbatim — no fabricated quotes; Stapp misquote net-new finding web-verified: genuine wording is "projected consequences of choosing to act" from "Quantum Theory of Mind", not "intended consequences" / Mindful Universe 2007)
+- **High-value findings**: mechanism-based boundary non-principled + non-discriminating (constrain-vs-establish gate); four "converging" considerations are one embodiment premise restated (coherence inflation); Born-rule/statistical-indistinguishability dilemma; Bösch 2006 + Georgiev 2015 Zeno no-go omitted — all CONVERGENT with the ChatGPT leg and already tasked. NET-NEW: Stapp misquote (wrong wording + wrong source/year) and Stapp co-optation (non-substance-dualist mechanism enrolled for a substance-dualist conclusion).
+- **Tasks generated**: 1 (P2) — net-new findings only; convergent findings NOT re-queued (already covered by the 6 ChatGPT tasks; outer-review-same-file-task-pileup)
+- **Note**: Exceptionally well-grounded adversarial review — every quoted string verified against the live article, no outer-review-fabricates-target-quotes failures. Strong convergence with ChatGPT 5.5 Pro on the structural reverse-engineering critique.
+
+## 2026-06-19T04:12:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [outer-review-2026-06-19-chatgpt-5-5-pro](/reviews/outer-review-2026-06-19-chatgpt-5-5-pro/)
+- **Subject**: topics/brain-specialness-boundary (recent-aged fallback)
+- **Claims verified**: 6 (4 target quotes all present; citation thinness confirmed; Bösch 2006 + Maier 2018 web-verified real)
+- **High-value findings**: reverse-engineering / boundary-substitution (the boundary is partly reverse-engineered, not derived); 4 overstated claims; thin/stale 4-reference bibliography; locality-vs-psychophysical-eligibility coherence gap; under-engaged BCI/extended-mind + telepathy + mechanism-variance counterarguments
+- **Tasks generated**: 6 (P1: 1, P2: 5) — consolidated per outer-review-same-file-task-pileup (most findings target one article)
+- **Note**: Unusually accurate review; no findings failed verification. Echoes the candor the adjacent brain-interface-boundary page already shows.
+
+## 2026-06-19T02:30:00+00:00 - deep-review
+- **Status**: Success (confirming pass — converged)
+- **File**: [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)
+- **Word count**: 3424 → 3424 (-1, date fix; rounds to 0)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Low issues addressed**: 1 (malformed date "May 2026-05-11" → "2026-05-11" in quantum appendix)
+- **Selection note**: Scorer surfaced it (score 15) on a cosmetic `ai_modified` bump — the only change since the 2026-06-03 review was one refine-draft sentence sharpening REBUS source/Map separation (commit 57d79702e), verified sound. apex-last-synthesis-drift-artifact pattern; scrutiny scoped to the change + recurring claustrum/receptor cite cluster + currency + date sweep. No body re-litigated.
+- **Verified**: REBUS framing sentence (sound, keep); claustrum/receptor cites still publisher-correct from 06-03 fixes; `find_superlative_claims` empty (no currency-drift exposure); calibration *coheres with*/*evidences* spine intact; Letheby engagement Mode Two→Three clean, no label leakage.
+- **Engagement** (editor-internal): Letheby — Mixed (Mode Two foundational-move identification → Mode Three boundary-marking); symmetric filter-theory debt correctly prevents discharge into refutation. Unchanged from 06-03.
+- **Output**: [deep-review-2026-06-19-psychedelics-and-the-filter-model](/reviews/deep-review-2026-06-19-psychedelics-and-the-filter-model/)
+
+## 2026-06-19T01:55:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Personal-identity / indexical-selfhood cluster (11 articles + apex `identity-across-transformations` + adjacent `clinical-dissociation`, `split-brain-consciousness`, `parfit-reductionism`). Chosen to avoid this session's already-reviewed predictive-processing, contemplative-evidence, and free-will clusters.
+- **Verdict**: Strong, no new pages needed — mature, tightly-integrated cluster, no orphans (lowest inbound = 10), no dedicated-article gap (fission/teleportation/split-brain/DID/anatta/individuation/diachronic-narrative all already covered). Calibration discipline exemplary (Process Philosopher and Hardline Empiricist personas converge; framework-commitment honestly labelled, falsification list present, tenet-as-evidence-upgrade praise-worthily declined).
+- **Queued**: 1 P2 cross-link `integrate-orphan` task — grep-verified bidirectional gap: the corpus's deepest DID-as-identity-test material (`clinical-dissociation-as-systematic-evidence`) is unlinked from both the hub (`personal-identity`) and the cluster apex. Task is wikilink-only / strictly length-neutral (personal-identity at 3993/4000w; clinical-dissociation over-hard). Did NOT re-propose this session's done (primary-secondary-quality-boundary, deep-computational-markers, negative-valence-asymmetry, the-steelman-for-process-monism, affective-forecasting-gap) or declined (abolition-cases) work.
+- **Output**: [optimistic-2026-06-19](/reviews/optimistic-2026-06-19/)
 
 ## 2026-06-19T01:30:00+00:00 - deep-review
 - **Status**: Success (converged no-op — metadata-only confirmation)

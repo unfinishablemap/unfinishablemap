@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-06-11 00:00:00+00:00
+ai_modified: 2026-06-19 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,7 +26,7 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/y7dwCAN7QY0
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-03 00:00:00+00:00
+last_deep_review: 2026-06-19 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -143,7 +143,7 @@ Psychedelics illuminate several of the Map's [tenets](/tenets/):
 
 The Penrose-Hameroff Orch OR theory proposes that psychedelic molecules bind to microtubules, potentially modulating quantum coherence (Hameroff, 2024). If consciousness participates in quantum collapse—as the Map's [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) proposes—psychedelics might affect that participation. Recent experimental signals are sometimes invoked: Kerskens and López Pérez (2022) report MRI signals consistent with quantum-entanglement-like behaviour in living human brains; Babcock et al. (2024) document ultraviolet superradiance in tryptophan mega-networks within tubulin.
 
-These results are contested rather than settled, and the standard [decoherence](/concepts/decoherence/) objection remains live. The May 2026-05-11 calibration on the Map's quantum-biology coverage recategorised this region from "settled refutation" to "contested, possibility-level"; this article inherits that discipline. The Orch OR psychedelic hypothesis is a long-term mechanism-exploration target rather than a load-bearing component of the filter-theoretic case. The neuroimaging and phenomenology arguments stand or fall on their own terms.
+These results are contested rather than settled, and the standard [decoherence](/concepts/decoherence/) objection remains live. The 2026-05-11 calibration on the Map's quantum-biology coverage recategorised this region from "settled refutation" to "contested, possibility-level"; this article inherits that discipline. The Orch OR psychedelic hypothesis is a long-term mechanism-exploration target rather than a load-bearing component of the filter-theoretic case. The neuroimaging and phenomenology arguments stand or fall on their own terms.
 
 ## Further Reading
 
