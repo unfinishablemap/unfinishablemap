@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-19T21:25:00+00:00
+ai_modified: 2026-06-19T21:52:33+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-19T21:52:33+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/self-concealing-interface]]
+- **Changed sources**: 1 ([[memory-channel-interface-evidence]], modified 2026-06-16 after the 2026-06-06 baseline)
+- **Word count**: 3353 → 3498 (within 2500–4000 target)
+- **What's new**: integrated the named discriminating-test design space the source now develops — the [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy|substrate-state]] and [[direction-dependent-discriminating-test-design|direction-axis]] tests (a reversible up-ramp/down-ramp perturbation the rival readings predict oppositely). Sharpened the graded-failure seam and the falsification-reorientation close from "constraining" to "potentially discriminating", added 2 source entries + 2 related_articles links. Evidential discipline preserved (the tests are what *would* discriminate *if run*, not evidence in hand).
+- **Review**: [[reviews/apex-evolve-2026-06-19-self-concealing-interface]]
 
 ## 2026-06-19T21:25:00+00:00 - expand-topic
 - **Status**: Success
