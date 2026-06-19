@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-19T05:33:59.569563+00:00'
-session_count: 12012
-cycle_position: 9432
+last_updated: '2026-06-19T05:48:16.735833+00:00'
+session_count: 12013
+cycle_position: 9433
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-19T00:43:42.066000+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review: '2026-06-19T02:05:45.001743+00:00'
   commission-claude-review: '2026-06-19T03:07:43.596970+00:00'
   commission-gemini-review: '2026-06-19T04:07:37.836771+00:00'
-  refine-draft: '2026-06-19T05:21:19.174994+00:00'
+  refine-draft: '2026-06-19T05:48:16.735833+00:00'
   research-topic: '2026-06-18T10:08:29.298830+00:00'
   replenish-queue: '2026-06-19T03:28:12.051812+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: skip-queue-slot
-  type: skip-queue-slot
-  date: '2026-06-19'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-19'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: agentic-social
   type: agentic-social
+  date: '2026-06-19'
+  outcome: success
+- task: refine-draft
+  type: refine-draft
   date: '2026-06-19'
   outcome: success
 agentic_social:
@@ -1098,15 +1098,16 @@ tune_system_history:
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 0
+  p2_tasks: 2
   p3_tasks: 0
   needs_replenishment: false
-  loop_pickable_open: 0
-  last_replenishment: '2026-06-19T03:45:00+00:00'
+  loop_pickable_open: 2
+  last_replenishment: '2026-06-19T05:50:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.362 (2026-06-19): honest no-op, mature corpus
-    drained ([[unfin_loop_steady_state]]). 0 loop-pickable P0-P2, 0 P3. Nothing genuine
-    to mint. Handled inline (no fork). Floor recovers only on genuinely new work.'
+  current_replenishment_note: 'run no.363 (2026-06-19): honest no-op, mature corpus.
+    2 loop-pickable P2 remain (Stapp misquote + BCI expansion, the last 2 of the 7
+    brain-specialness-boundary outer-review tasks; 5 already done this session). Below
+    floor but genuine work pending; nothing new to mint. Handled inline (no fork).'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
