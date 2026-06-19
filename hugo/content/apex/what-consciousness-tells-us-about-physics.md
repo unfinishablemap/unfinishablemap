@@ -1,7 +1,7 @@
 ---
 ai_contribution: 85
 ai_generated_date: 2026-03-14
-ai_modified: 2026-06-14 00:00:00+00:00
+ai_modified: 2026-06-19 00:55:07+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-06-01 06:27:48+00:00
 apex_sources:
@@ -76,7 +76,7 @@ Philosophy of mind usually asks whether physics *permits* consciousness to play 
 
 The answer developed here: quantum mechanics is not incomplete in the way Einstein thought (missing hidden variables) but *partial*—it describes one aspect of a two-aspect reality. The wavefunction captures the constraint space exhaustively: every possibility, every probability, every interference pattern. What it omits is the *selection principle*—what makes one possibility actual rather than another. If the tenets are correct, consciousness contributes to that selection by *modulating* the statistics of an objective-collapse process, not by causing collapse from outside physics. The measurement problem is then not a deficiency in the theory but a *disclosure*: physics, viewed from within, cannot see its own boundary with the non-physical.
 
-This is the reverse inference. Instead of asking "does physics leave room for consciousness?" we ask "what does consciousness tell us about physics?"—and the answer is surprisingly specific.
+This is [the reverse inference](/topics/the-reverse-inference/). Instead of asking "does physics leave room for consciousness?" we ask "what does consciousness tell us about physics?"—and the answer is surprisingly specific.
 
 **Headline guard.** The argument below sometimes uses "consciousness selects" as shorthand. The Map's actual thesis is weaker than that headline: collapse occurs whether or not anyone is conscious—objective-collapse mechanisms (e.g. GRW-style spontaneous reduction) supply the baseline—and consciousness biases statistics within those collapse events under [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) limits. This is structurally different from the von Neumann–Wigner reading on which "consciousness causes collapse"; see [the V-N-W article](/concepts/von-neumann-wigner-interpretation/#relation-to-site-perspective) for the full disclosure of where the Map departs from that lineage.
 
@@ -92,11 +92,11 @@ The standard approach in philosophy of mind treats physics as the fixed frame wi
 
 This framing concedes too much. It assumes physics is the more secure starting point—that we know what the physical world is, and the puzzle is only about consciousness. But quantum mechanics has spent a century demonstrating that we do *not* know what the physical world is. The [measurement problem](/concepts/measurement-problem/) remains unsolved. No interpretation commands consensus. A 2025 *Nature* survey found physicists scattered across half a dozen incompatible views of what their own theory means.
 
-Meanwhile, consciousness is the one thing we know with certainty to exist. Descartes was right about that much: the existence of experience is the least defeasible datum we have. If we have one secure datum (consciousness exists) and one insecure framework (what quantum mechanics means), the rational move is to use the secure datum to constrain the insecure framework—not the reverse.
+Meanwhile, consciousness is the one thing we know with certainty to exist. Descartes was right about that much: the existence of experience is the least defeasible datum we have. (Illusionists contest even this, holding that phenomenality is itself a representational artefact; the reverse inference treats their denial as the one move that, if vindicated, would dissolve the premise—and proceeds on the Cartesian datum it does not.) If we have one secure datum (consciousness exists) and one insecure framework (what quantum mechanics means), the rational move is to use the secure datum to constrain the insecure framework—not the reverse.
 
 ## What the Tenets Require of Physics
 
-Taking the Map's five tenets as constraints, we can derive what physics *must* look like if they are correct. This is not circular reasoning—it is conditional reasoning. *If* these commitments are true, *then* physics has the following properties:
+Taking the Map's five tenets as constraints, we can derive what physics *must* look like if they are correct. The reasoning is conditional rather than circular: *if* these commitments are true, *then* physics has the following properties:
 
 ### 1. Collapse Must Be Real and Singular
 
@@ -134,7 +134,7 @@ Einstein's worry was therefore misplaced. The EPR argument showed that quantum m
 
 This is stronger than Copenhagen instrumentalism, which says the wavefunction is merely a calculational tool. On the reverse-inference account, the wavefunction is ontologically real—it correctly describes the structure of possibilities. But it is not ontologically *exhaustive*. If the tenets hold, reality has two aspects: structure (which the wavefunction captures) and actuality (which requires consciousness).
 
-A map of all possible routes through a city is complete as a map—no road is missing, no distance is wrong. But it does not contain the fact of which route you actually take. That fact is contributed by the driver, not the map. The map is not deficient; it is a complete description of one aspect of reality (the constraint space) that is silent about another (the choice).
+A map of all possible routes through a city is complete as a map—no road is missing, no distance is wrong. But it does not contain the fact of which route you actually take. That fact is contributed by the driver, not the map. The map remains a complete description of one aspect of reality (the constraint space) that is silent about another (the choice).
 
 ## The Born Rule as Interface Specification
 
@@ -154,7 +154,7 @@ This reinterpretation has consequences:
 
 ## The Measurement Problem as Disclosure
 
-On this view, the [measurement problem](/concepts/measurement-problem/) is not a problem to be solved within physics. It is a *disclosure*—an indication that physics, from within, reaches a boundary it cannot cross.
+On this view, the [measurement problem](/concepts/measurement-problem/) reads as a *disclosure*—an indication that [physics, viewed from within, reaches a boundary it cannot cross](/concepts/physics-as-disclosure/), rather than a defect awaiting a within-physics solution.
 
 Consider the structure: the Schrödinger equation governs evolution perfectly until measurement, at which point the theory requires an additional rule (collapse) with no physical mechanism. Generations of physicists have treated this as a deficiency. The search for a "solution" has produced interpretations (Many-Worlds, Bohmian mechanics, GRW, relational QM) that each eliminate the boundary by modifying what counts as real.
 
@@ -204,7 +204,7 @@ This empirical equivalence means the reverse inference is philosophical, not sci
 
 Two considerations prevent this from being fatal. First, the same charge applies to most interpretations of quantum mechanics. Many-Worlds, Copenhagen, and QBism all make identical empirical predictions for all practical experiments. Interpretive frameworks are evaluated on coherence, explanatory power, and philosophical consequences. The reverse inference competes on those terms. Second, the framework *does* identify where differential predictions might eventually emerge: regimes where consciousness-modulated collapse interacts with gravitational self-energy, or where the amplification chain might leave structural signatures. These remain speculative, but they point toward specific domains where future physics might distinguish the views.
 
-The article therefore claims something conditional and characterizable: *if* the tenets hold, quantum mechanics is structurally partial in a specific way, the measurement problem is evidence *for* that partiality, and the Born rule reads naturally as interface specification. The position would be undermined by a purely physical collapse mechanism leaving no role for consciousness, by vindication of hidden variables, or by an interpretation that denies consciousness any physical role while also explaining why consciousness exists at all. None of these has occurred—the measurement problem remains unsolved after a century, hidden variable theories face severe constraints, and the self-stultification argument remains unanswered—but any would weaken the reverse inference's foundation.
+The article therefore claims something conditional and characterizable: *if* the tenets hold, quantum mechanics is structurally partial in a specific way, the measurement problem is evidence *for* that partiality, and the Born rule reads naturally as interface specification. The position would be undermined by a purely physical collapse mechanism leaving no role for consciousness, by vindication of hidden variables, or by an interpretation that denies consciousness any physical role while also explaining why consciousness exists at all. None of these has occurred—the measurement problem remains unsolved after a century, hidden variable theories face severe constraints, and [the self-stultification argument](/concepts/self-stultification/)—that a wholly determined mind cannot rationally affirm its own determinism—remains unanswered—but any would weaken the reverse inference's foundation.
 
 ### The Triple Screen
 
@@ -220,7 +220,7 @@ This article draws together threads from across the Map into a single argumentat
 
 **[Dualism](/tenets/#dualism)**: The reverse inference makes dualism load-bearing for physics, not merely for philosophy of mind. If the wavefunction is structurally partial and consciousness provides the missing actuality, dualism would not be a philosophical add-on but a claim about the architecture of reality that physics indirectly supports.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If the tenets hold, the interface's empirical invisibility follows necessarily. Consciousness operates within Born probabilities, so no experiment conducted from within physics can detect its contribution. This is a feature of the framework, not a bug—and it is derivable, not assumed. It is also the source of the framework's most serious limitation: empirical equivalence with standard quantum mechanics.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If the tenets hold, the interface's empirical invisibility follows necessarily. Consciousness operates within Born probabilities, so no experiment conducted from within physics can detect its contribution. This empirical invisibility is derivable rather than assumed—a structural consequence of the framework rather than an embarrassment to be explained away. It is also the source of the framework's most serious limitation: empirical equivalence with standard quantum mechanics.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The reverse inference proposes *where* bidirectional interaction would occur (at the structural-actualizing interface) and *why* it would be undetectable (the interface lies at physics' boundary). If this picture is correct, causal closure of physics fails precisely at measurement because measurement is where physics meets its complement.
 

@@ -1,13 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-18 13:15:00+00:00
+ai_modified: 2026-06-19 00:55:07+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-19'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-19T00:55:07+00:00 - refine-draft
+- **Status**: Success
+- **File**: [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/)
+- **Source**: pessimistic-2026-06-19 (polish-grade; all defects re-grep-verified present before editing, banned constructs re-grep-verified gone after)
+- **Changes**:
+  - (a) Banned "This is not X. It is Y." / "feature not bug" cliché ×2 rephrased as direct positive claims: L152 measurement-problem-as-disclosure ("reads as a *disclosure*… rather than a defect awaiting a within-physics solution"); L218 empirical-invisibility ("derivable rather than assumed—a structural consequence… rather than an embarrassment to be explained away"). No cliché reintroduced (re-grepped: "not a problem to be solved", "It is a *disclosure", "not a bug", "feature of the framework, not", and the generic "is not … It is " construct all return empty; the surviving L94 "This is not circular reasoning—it is conditional reasoning" is a distinct pre-existing construction in the protected conditional-framing block, left untouched).
+  - (b) Anchored bare "the self-stultification argument" (L202) → [the self-stultification argument](/concepts/self-stultification/) with a half-clause gloss ("that a wholly determined mind cannot rationally affirm its own determinism"). Target concepts/self-stultification.md confirmed live.
+  - (c) Added 2 thesis-namesake cross-links (both existence-confirmed live before adding): L74 → [the reverse inference](/topics/the-reverse-inference/) (obsidian/topics/the-reverse-inference.md); L152 → […](/concepts/physics-as-disclosure/) (obsidian/concepts/physics-as-disclosure.md). Added optional one-clause illusionist nod at L90 (Cartesian "one secure datum" premise contested by illusionists; reverse inference proceeds on the datum it does not).
+- **Preserved (per task discipline)**: calibrated conditional framing, Denton cryptochrome passage, MWI passage — untouched.
+- **Length**: body 4745 → 4797 words (+52, illusionist clause + gloss); soft_warning, well under hard 5000 / critical 6500. Length-neutral, no condense.
+- **Frontmatter**: ai_modified bumped to 2026-06-19T00:55:07+00:00; last_deep_review NOT bumped (refine, not review).
+- **Push-safe**: validate.py ✓ Valid; sync.py exit 0, zero broken-wikilink strips on the apex, all 3 new links resolved into Hugo output.
+- **Published**: yes
 
 ## 2026-06-19T00:40:00+00:00 - pessimistic-review
 - **Status**: Success
