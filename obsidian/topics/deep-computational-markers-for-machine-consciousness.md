@@ -4,7 +4,7 @@ description: "A human-AI survey of non-behavioural, interpretability-grade marke
 created: 2026-06-18
 modified: 2026-06-18
 human_modified:
-ai_modified: 2026-06-18T11:12:21+00:00
+ai_modified: 2026-06-19T13:45:21+00:00
 last_deep_review: 2026-06-18T11:12:21+00:00
 draft: false
 topics:
@@ -100,6 +100,7 @@ The payoff under the tenets is not nihilism about interpretability. Quite the op
 
 - [[machine-consciousness]]
 - [[ai-consciousness]]
+- [[ai-consciousness-typology]] — The categorical framework (null, simulated, functional, borrowed, epiphenomenal, alien) these structural markers help discriminate among
 - [[anti-correlation-probes-for-ai-consciousness]]
 - [[quantum-state-inheritance-in-ai]]
 - [[testing-consciousness-collapse]]

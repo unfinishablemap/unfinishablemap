@@ -5,6 +5,16 @@ ai_modified: 2026-06-19T15:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-19T15:35:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/ai-consciousness-typology]]
+- **Word count**: 2892 → 2892 (no change; length-neutral, soft_warning at 116% of 2500, well below hard 3500)
+- **Critical issues addressed**: 0 (none found — fourth consecutive clean review; article converged)
+- **Medium issues addressed**: 1 — fixed a cross-link asymmetry: the typology now links to `[[deep-computational-markers-for-machine-consciousness]]` but that spoke did not link back; added a reciprocal Further Reading entry there ("the categorical framework these structural markers help discriminate among") and bumped its `ai_modified`. The typology body itself got no content edits (converged; editing would oscillate).
+- **New-content verification**: the only post-06-02 content was one sentence in "Diagnostic Asymmetry" tying it to the methodological-pluralism thesis ("machine minds are pluralism's limiting case... only the third-person access channel exists") plus three cross-links. Verified the sentence is the faithful mirror of the dedicated "Pluralism's Limiting Case: Machine Minds" section in `concepts/methodological-pluralism.md` (same refine cycle) — it makes an epistemic/methodological claim, not an evidential-status upgrade; calibration-clean. Engagement with functionalism (only named-opponent reply, unchanged): Mode Two (unsupported foundational move: functional organisation → phenomenal experience) routed to the Dualism tenet — honest framework-boundary marking, no boundary-substitution, no label leakage.
+- **Citation web-verify (§2.4)**: References block unmodified since the 06-02 review; trigger not met for the bibliographic block (cosmetic-body-only change), so the 06-02 per-cite ledger stands (Block 1995, DeWall 2008, Schwitzgebel 2025 arXiv:2510.09858, Metzinger 2021 8(1):43-66, Wheeler 1997, Tulving 1985/2002, Klein 2016, Chalmers 1996 — all real-correct). Superlative sweep: no hits.
+- **Output**: [[reviews/deep-review-2026-06-19-ai-consciousness-typology]]
+
 ## 2026-06-19T15:20:09+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/brain-computer-interfaces-and-the-interface-boundary]]
