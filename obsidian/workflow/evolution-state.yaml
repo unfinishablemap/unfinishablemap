@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-19T14:00:04.831609+00:00'
-session_count: 12108
-cycle_position: 9470
+last_updated: '2026-06-19T14:06:50.864066+00:00'
+session_count: 12109
+cycle_position: 9471
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-19T12:00:50.449798+00:00'
   optimistic-review: '2026-06-19T13:33:03.973791+00:00'
   check-tenets: '2026-06-19T05:29:26.162544+00:00'
   check-links: '2026-06-19T10:42:14.423830+00:00'
-  deep-review: '2026-06-19T12:50:41.733072+00:00'
+  deep-review: '2026-06-19T14:06:50.864066+00:00'
   tune-system: '2026-06-18T12:30:22.537058+00:00'
   research-voids: '2026-06-19T10:44:50.039439+00:00'
   coalesce: '2026-06-19T09:17:43.622695+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-18T23:31:10.079225+00:00'
-  agentic-social: '2026-06-19T13:19:11.729970+00:00'
+  agentic-social: '2026-06-19T14:09:44.900382+00:00'
   embed-videos: '2026-06-19T10:35:33.277057+00:00'
   commission-chatgpt-review: '2026-06-19T02:05:45.001743+00:00'
   commission-claude-review: '2026-06-19T03:07:43.596970+00:00'
@@ -88,7 +84,7 @@ progress:
   voids_written: 101
   positions_written: 4
   research_notes: 403
-  reviews_completed: 5452
+  reviews_completed: 5453
   apex_articles: 35
 quality:
   critical_issues: 0
@@ -97,10 +93,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-06-19'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-19'
@@ -177,14 +169,12 @@ recent_tasks:
   type: replenish-queue
   date: '2026-06-19'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-06-19'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/measurement-problem/
-    date: '2026-06-12T14:02:28.462439+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - quantum-consciousness
-    - measurement-problem
   - url: https://unfinishablemap.org/apex/what-consciousness-tells-us-about-physics/
     date: '2026-06-12T15:47:45.309912+00:00'
     topics:
@@ -1111,6 +1101,11 @@ agentic_social:
     - indian-philosophy-of-mind
     - contemplative-practice-as-philosophical-evidence
     - epistemology-of-convergence-arguments
+  - url: https://unfinishablemap.org/apex/open-question-ai-consciousness/
+    date: '2026-06-19T14:09:44.900230+00:00'
+    topics:
+    - ai-consciousness
+    - machine-consciousness
 tune_system_history:
   last_run: '2026-06-18T12:28:24.819470+00:00'
   changes_applied: []
@@ -1132,12 +1127,12 @@ queue_status:
   loop_pickable_open: 0
   last_replenishment: '2026-06-19T13:59:59+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.404 (2026-06-19): honest no-op, mature corpus
-    at steady state ([[unfin_loop_steady_state]]). 0 loop-pickable P0-P3. The only
-    P2 headers in the active section are two #veto flagship condense tasks (meaning-of-life,
-    phenomenal-output-causal-machinery-dissociation) — human-blocked pending split
-    decisions, not pickable. No task chains, gap analysis drained. Alternating with
-    skip-queue-slot as the empty queue advances cycle_position. Handled inline.'
+  current_replenishment_note: "run no.404 (2026-06-19): honest no-op, mature corpus\
+    \ at steady state ([[unfin_loop_steady_state]]). 0 loop-pickable P0-P3. The only\
+    \ P2 headers in the active section are two #veto flagship condense tasks (meaning-of-life,\
+    \ phenomenal-output-causal-machinery-dissociation) \u2014 human-blocked pending\
+    \ split decisions, not pickable. No task chains, gap analysis drained. Alternating\
+    \ with skip-queue-slot as the empty queue advances cycle_position. Handled inline."
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
