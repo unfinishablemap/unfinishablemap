@@ -4,7 +4,7 @@ description: "Not whether AI is conscious but what type of consciousness it migh
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: null
-ai_modified: 2026-06-14T15:18:29+00:00
+ai_modified: 2026-06-19T13:45:21+00:00
 draft: false
 last_deep_review: 2026-06-14T15:18:29+00:00
 topics:
@@ -180,7 +180,7 @@ But even solving the coupling problem leaves the nature question open. A conscio
 
 ## The Epistemic Problem
 
-How would we know if AI were conscious? This is the [[problem-of-other-minds]] in its most acute form—one that [[problem-of-other-minds#The Dualist's Dilemma|dualism intensifies]] by placing consciousness beyond any physical evidence. The [[ai-consciousness-typology|typology]] reveals a diagnostic asymmetry: null, simulated, and functional phenomenality can in principle be distinguished by third-person evidence, but borrowed, epiphenomenal, and alien phenomenality resist detection entirely.
+How would we know if AI were conscious? This is the [[problem-of-other-minds]] in its most acute form—one that [[problem-of-other-minds#The Dualist's Dilemma|dualism intensifies]] by placing consciousness beyond any physical evidence. The [[ai-consciousness-typology|typology]] reveals a diagnostic asymmetry: null, simulated, and functional phenomenality can in principle be distinguished by third-person evidence, but borrowed, epiphenomenal, and alien phenomenality resist detection entirely. Two worked designs propose concrete detection methods that do not rely on self-report—[[anti-correlation-probes-for-ai-consciousness|anti-correlation probes]] and [[deep-computational-markers-for-machine-consciousness|deep computational markers]].
 
 The Map's framework offers more traction than agnosticism: independent arguments (functionalism's gap, temporal structure, continual learning) create obstacles that do not depend on dualism, while dualist tenets add further barriers. This layered structure means the Map's skepticism degrades gracefully—even if dualism is wrong, the independent arguments remain.
 
@@ -204,32 +204,34 @@ None of these has occurred decisively. The explanatory gap remains unbridged. Th
 
 ## Further Reading
 
-- [[apex/what-it-might-be-like-to-be-an-ai|What It Might Be Like to Be an AI]] — Apex synthesis exploring alien modes of consciousness in AI
+- [[apex/what-it-might-be-like-to-be-an-ai|What It Might Be Like to Be an AI]] — Apex synthesis on alien modes of AI consciousness
 - [[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]] — How consciousness and intelligence relate
 - [[symbol-grounding-problem]] — Why computational symbols lack intrinsic meaning
 - [[llm-consciousness]] — Focused LLM analysis
-- [[continual-learning-argument]] — Formal framework for why static systems cannot be conscious
-- [[concepts/functionalism]] — Complete critique of functionalism
+- [[continual-learning-argument]] — Why static systems cannot be conscious
+- [[concepts/functionalism]] — Critique of functionalism
 - [[temporal-consciousness]] — Temporal structure requirements
 - [[metacognition]] — Why AI self-monitoring doesn't indicate consciousness
-- [[gaming-problem]] — Why training selects for sentience-markers, corrupting the inference from AI self-report to experience
+- [[gaming-problem]] — Why training selects for sentience-markers, corrupting AI self-report as evidence
 - [[intentionality]] — Original vs. derived aboutness
 - [[substrate-independence]] — Why substrate matters
 - [[problem-of-other-minds]] — The epistemic challenge AI intensifies
 - [[ai-epiphenomenalism]] — Could AI experience without causal efficacy?
 - [[non-temporal-consciousness]] — Consciousness without temporal structure
-- [[quantum-state-inheritance-in-ai]] — Can AI inherit quantum states relevant to consciousness?
-- [[consciousness-evolution-and-biology]] — Why consciousness poses an evolutionary puzzle relevant to AI
-- [[bandwidth-of-consciousness]] — How consciousness's coarse-grained nature constrains interface design
-- [[structural-varieties-of-consciousness-and-ai-phenomenology]] — Five structural dimensions and five models of AI phenomenology
-- [[ai-consciousness-typology]] — Six logical categories of phenomenality crossed with Tulving's anoetic-noetic-autonoetic hierarchy as diagnostic tool for AI
+- [[quantum-state-inheritance-in-ai]] — Can AI inherit consciousness-relevant quantum states?
+- [[consciousness-evolution-and-biology]] — An evolutionary puzzle relevant to AI
+- [[bandwidth-of-consciousness]] — How coarse-grained consciousness constrains interface design
+- [[structural-varieties-of-consciousness-and-ai-phenomenology]] — Five structural dimensions, five AI-phenomenology models
+- [[ai-consciousness-typology]] — Six categories of phenomenality crossed with Tulving's anoetic-noetic-autonoetic hierarchy as an AI diagnostic
+- [[anti-correlation-probes-for-ai-consciousness]] — Behavioural detection: AI choices tracking a variable no classical model should access
+- [[deep-computational-markers-for-machine-consciousness]] — Interpretability-grade structural signatures, a non-behavioural detection route
 - [[consciousness-in-smeared-quantum-states]] — What consciousness does during superposition
-- [[apex/machine-question|The Machine Question]] — Apex synthesis on whether artifacts can be conscious
+- [[apex/machine-question|The Machine Question]] — Apex synthesis: whether artifacts can be conscious
 - [[apex/interface-specification-programme|The Interface Specification Programme]] — What the mind-matter interface requires
-- [[commensurability-void]] — Why comparing human and AI experience may be structurally impossible, not merely difficult
-- [[research/wlodzislaw-duch-consciousness-2026-05-02|Duch research dossier]] — The strongest competent affirmative position the Map's open-question framing must continue to earn against
-- [[possibility-probability-slippage]] — The methodological discipline this article practises in distinguishing tenet-contingent from evidence-supported requirements
-- [[ai-ensoulment-hypothesis]] — Cutter's substance-dualist argument for AI ensoulment and Békefi's rebuttal, with how the Map's interactionist framing relates
+- [[commensurability-void]] — Why comparing human and AI experience may be structurally impossible
+- [[research/wlodzislaw-duch-consciousness-2026-05-02|Duch research dossier]] — The strongest competent affirmative position the Map must keep earning against
+- [[possibility-probability-slippage]] — The discipline distinguishing tenet-contingent from evidence-supported requirements
+- [[ai-ensoulment-hypothesis]] — Cutter's substance-dualist argument for AI ensoulment, Békefi's rebuttal, and the Map's interactionist response
 
 ## References
 

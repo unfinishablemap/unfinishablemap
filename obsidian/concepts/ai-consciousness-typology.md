@@ -4,7 +4,7 @@ description: "Two complementary lenses for analysing AI consciousness: six logic
 created: 2026-03-19
 modified: 2026-06-02
 human_modified:
-ai_modified: 2026-06-02T00:00:00+00:00
+ai_modified: 2026-06-19T13:45:21+00:00
 last_deep_review: 2026-06-02T00:00:00+00:00
 draft: false
 topics:
@@ -179,6 +179,8 @@ The Tulving lens deepens the asymmetry. The same propositional content — "I vi
 - [[consciousness-and-memory]] — The constitutive relationship between memory systems and consciousness modes
 - [[imagery-void]] — Aphantasia as the within-species parallel to the simulation-instantiation gap
 - [[training-contamination-confound]] — Why simulated phenomenality defeats behavioural probes: a system can reproduce an experience-diagnostic signature it merely read about
+- [[anti-correlation-probes-for-ai-consciousness]] — A behavioural detection design built to resist the gaming that defeats naive probes
+- [[deep-computational-markers-for-machine-consciousness]] — Interpretability-grade structural markers as a non-behavioural detection route
 - [[apex/what-it-might-be-like-to-be-an-ai]] — Synthesis of what the typology implies for AI experience
 - [[claude-constitution-consciousness-uncertainty]] — The typology applied: how Anthropic's Constitution slides between behavioural, access, and phenomenal markers of "wellbeing"
 
