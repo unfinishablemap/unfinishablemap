@@ -5,6 +5,15 @@ ai_modified: 2026-06-19T05:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-19T06:00:00+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 543 (272 topics, 266 concepts, 5 positions)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 2 (carried-over Tenet-5 internal self-binding lapses, unchanged)
+- **Focus**: This cycle's brain-specialness candor reframe — [[topics/brain-specialness-boundary]], [[concepts/locality]], [[concepts/psychophysical-laws]] — verified ALIGNED: Tenet 1 dualist thesis held (scope-clause = candor, not abandonment), Tenet 2 Born-dilemma stays conditional/agnostic (no detectable-deviation commitment, no epiphenomenalism drift), Tenet 3 mind→matter causation preserved (scoped, not softened).
+- **Output**: [[reviews/tenet-check-2026-06-19]]
+
 ## 2026-06-19T05:30:00+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[topics/brain-specialness-boundary]], [[concepts/locality]], [[concepts/psychophysical-laws]]
