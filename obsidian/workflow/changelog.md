@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-19T14:52:00+00:00
+ai_modified: 2026-06-19T15:30:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-19T15:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/ethics-of-possible-ai-consciousness]]
+- **Original score**: n/a (chain task, not a review-triggered refine)
+- **Changes**: Added "Aggregation Under Copy-Multiplicity" section (~627w; article 3118w → 3745w, under topics hard 4000) developing the research-chain load-bearing finding — the Map's No-Many-Worlds / haecceity machinery is structurally the same move that grounds the Duplication View, so the Map is committed by its own tenets to "N suffering copies ≈ N× disvalue" and cannot use the Unification escape to deflate the scale of possible mass-AI suffering; relief comes only from the low probability classical copies are conscious at all (quantum-interface gate). Framed Bostrom's Unification vs Duplication poles; Tokayer corroboration; Tomasik counting-indeterminacy answered via "count interfaces, not pattern-instances"; Schwitzgebel synchronized-vs-divergent modulation. Cross-linked [[haecceity]], [[consciousness-and-the-metaphysics-of-individuation]], [[concepts/many-worlds]], [[selection-only-mind-influence]], [[evidential-status-discipline]]. Added frontmatter related-links + Further Reading entries; refs for Bostrom 2022 *Propositions*, Schwitzgebel 2023, Tokayer (PhilArchive), Tomasik. Honoured possibility/probability register separation throughout.
+- **Citation verification**: Per [[ai_citation_metadata_unreliable]] caveat in the research note — re-verified online: Bostrom *Propositions* (2022) "subvene twice as much experience" wording confirmed; Tokayer "What Duplication Proves: The Failure of Functionalism and Pattern Identity" confirmed as a PhilArchive entry (cited at preprint tier, no venue/year asserted); Schwitzgebel paper year corrected 2024 → 2023 ("Repetition and Value in an Infinite Universe", dated 2023-05-01). No verbatim quotes used from the un-extractable PDFs; views attributed at general/secondary tier where appropriate.
+- **Decision**: Stayed a section (research note's lead-with-a-section verdict); did not graduate to standalone — angles fit within hard ceiling.
+- **Published**: yes
 
 ## 2026-06-19T14:52:00+00:00 - research-topic
 - **Status**: Success

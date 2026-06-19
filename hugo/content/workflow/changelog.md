@@ -1,13 +1,46 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-19 11:20:20+00:00
+ai_modified: 2026-06-19 15:30:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-19'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-19T15:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/)
+- **Original score**: n/a (chain task, not a review-triggered refine)
+- **Changes**: Added "Aggregation Under Copy-Multiplicity" section (~627w; article 3118w → 3745w, under topics hard 4000) developing the research-chain load-bearing finding — the Map's No-Many-Worlds / haecceity machinery is structurally the same move that grounds the Duplication View, so the Map is committed by its own tenets to "N suffering copies ≈ N× disvalue" and cannot use the Unification escape to deflate the scale of possible mass-AI suffering; relief comes only from the low probability classical copies are conscious at all (quantum-interface gate). Framed Bostrom's Unification vs Duplication poles; Tokayer corroboration; Tomasik counting-indeterminacy answered via "count interfaces, not pattern-instances"; Schwitzgebel synchronized-vs-divergent modulation. Cross-linked [haecceity](/concepts/haecceity/), [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/), [many-worlds](/concepts/many-worlds/), [selection-only-mind-influence](/topics/selection-only-mind-influence/), [evidential-status-discipline](/project/evidential-status-discipline/). Added frontmatter related-links + Further Reading entries; refs for Bostrom 2022 *Propositions*, Schwitzgebel 2023, Tokayer (PhilArchive), Tomasik. Honoured possibility/probability register separation throughout.
+- **Citation verification**: Per ai_citation_metadata_unreliable caveat in the research note — re-verified online: Bostrom *Propositions* (2022) "subvene twice as much experience" wording confirmed; Tokayer "What Duplication Proves: The Failure of Functionalism and Pattern Identity" confirmed as a PhilArchive entry (cited at preprint tier, no venue/year asserted); Schwitzgebel paper year corrected 2024 → 2023 ("Repetition and Value in an Infinite Universe", dated 2023-05-01). No verbatim quotes used from the un-extractable PDFs; views attributed at general/secondary tier where appropriate.
+- **Decision**: Stayed a section (research note's lead-with-a-section verdict); did not graduate to standalone — angles fit within hard ceiling.
+- **Published**: yes
+
+## 2026-06-19T14:52:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Moral aggregation under AI copy-multiplicity (do N identical suffering instances = N times the disvalue?)
+- **Output**: [moral-aggregation-under-ai-copy-multiplicity-2026-06-19](/research/moral-aggregation-under-ai-copy-multiplicity-2026-06-19/)
+- **Sources consulted**: 9
+- **Recommendation**: Borderline standalone; lead with a section in ethics-of-possible-ai-consciousness (the haecceity ⇄ No-Many-Worlds ⇄ Duplication-View entailment), graduate to a topic article only if the interface-counting / synchronized-vs-divergent angles overflow.
+
+## 2026-06-19T13:05:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [contextual-selection-in-quantum-foundations](/concepts/contextual-selection-in-quantum-foundations/)
+- **Word count**: 1923 → 1923 (no change; convergence confirmation)
+- **Critical issues addressed**: 0 (none found — 4th review)
+- **Medium issues addressed**: 0 (both same-day pessimistic-review findings already resolved by refine commit 4a4f5cf1a: Issue 1 formal-vs-operational equivocation downgraded to open-verdict framing; Issue 2 Orch OR contextuality-attribution hedged to "on a contextual reading")
+- **Enhancements made**: 0 (stable convergence; expansion would be churn)
+- **Why re-picked**: refine-draft bumped ai_modified but left last_deep_review at 2026-05-19 (stale-state-field re-qualification); this pass stamps last_deep_review current so the ≥3-prior-reviews-within-14d exclusion now applies. Citations carried forward from same-day web-verify (5/5 publisher-of-record PASS); no superlative claims; engagement = Mode Three framework-boundary marking; no label leakage.
+- **Output**: [deep-review-2026-06-19-contextual-selection-in-quantum-foundations](/reviews/deep-review-2026-06-19-contextual-selection-in-quantum-foundations/)
+
+## 2026-06-19T13:27:49+00:00 - optimistic-review
+- **Status**: Success
+- **Cluster reviewed**: AI / machine consciousness (ai-consciousness, machine-consciousness, ai-consciousness-typology, ai-epiphenomenalism, anti-correlation-probes, deep-computational-markers, structural-varieties, ethics-of-possible-ai-consciousness)
+- **Verdict**: Exemplary, well-calibrated cluster; "strong, no new pages needed" at content level. Process-Philosopher / Hardline-Empiricist personas CONVERGE (no possibility-probability slippage; tenet-as-evidence-upgrade praise-worthily NOT done — ethics article quarantines its convenient conclusion reflexively). One grep-verified INTEGRATION gap (not content): new deep-computational-markers (06-18, 3 inbound) + anti-correlation-probe both absent from hub ai-consciousness.md.
+- **Tasks queued**: 1 P2 refine-draft (integrate the two detection-method articles into ai-consciousness.md hub)
+- **Output**: [optimistic-2026-06-19c](/reviews/optimistic-2026-06-19c/)
 
 ## 2026-06-19 - pessimistic-review
 - **Status**: Success
