@@ -4,7 +4,7 @@ description: "Placebo effects and the choking phenomenon together form a two-sid
 created: 2026-02-02
 modified: 2026-05-10
 human_modified:
-ai_modified: 2026-06-10T00:00:00+00:00
+ai_modified: 2026-06-19T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,7 +45,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-05-08
 last_curated:
-last_deep_review: 2026-06-05T00:00:00+00:00
+last_deep_review: 2026-06-19T00:00:00+00:00
 embedded_videos:
   - id: H3WzrTowuDQ
     url: https://www.youtube-nocookie.com/embed/H3WzrTowuDQ
@@ -157,7 +157,7 @@ The pressure the joint case applies is more subtle. If phenomenology does no cau
 
 [[illusionism]] explains both phenomena as brain states interfering with brain states — "attention" and "expectation" as represented states with no phenomenal content. The choking literature distinguishes absorbed automaticity from explicit self-monitoring as two modes with reliably different motor consequences (Beilock & Carr, 2001). The illusionist's reply is that the brain represents this difference, and represented states are causally different in just the way the literature describes — no phenomenal properties needed. What this sets aside is that the difference between modes is reliably reportable as a *felt* difference, with the felt mode tracking the motor outcome with the same fineness as the represented one.
 
-This is a framework-boundary disagreement rather than an in-framework refutation. The Map reads the systematic two-register tracking as evidence the felt phenomenology is doing causal work the represented description alone is not; the epiphenomenalist or illusionist absorbs the same data through brute law or a richer representational story. Neither reading is forced by the evidence: the phenomena are compatible with both interpretations, and what shifts between them is the cost of accommodation, not the truth of one over the other. The empirical phenomena raise the cost of these options without forcing their abandonment.
+This is a framework-boundary disagreement rather than an in-framework refutation. The Map reads the systematic two-register tracking as evidence the felt phenomenology is doing causal work the represented description alone is not; the epiphenomenalist or illusionist absorbs the same data through brute law or a richer representational story. The phenomena are compatible with both interpretations, so what shifts between them is the cost of accommodation, not the truth of one over the other — the empirical leverage raises that cost without forcing either option's abandonment.
 
 [[pain-asymbolia]] reinforces the conclusion from a third angle: patients perceive pain but lack its unpleasant phenomenal character — and fail to exhibit normal avoidance behaviour. The phenomenal quality, not merely the information, drives the response.
 

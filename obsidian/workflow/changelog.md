@@ -5,6 +5,18 @@ ai_modified: 2026-06-18T13:15:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-19T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/empirical-phenomena-mental-causation]]
+- **Mode**: Changed-since-review pass. Only delta since the 2026-06-05 full publisher-verified pass was the 2026-06-10 refine-draft (4491587f7, calibration adoption) — three prose softenings, zero citation/References changes.
+- **Word count**: 3573 → ~3560 (-13; 119% of 3000 soft, under 4000 hard; soft_warning, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (triple-redundant calibration in the Epiphenomenalist/Illusionist closing paragraph — the 06-10 refine over-installed a calibration sentence that near-paraphrased the existing closer + the lede + L67; collapsed three near-paraphrases into one)
+- **Enhancements made**: 0 (length-neutral; no expansion)
+- **Citations**: ratified 2026-06-05 ten-citation publisher-of-record ledger (intervening refine touched no citations or References); empirical-currency superlative sweep empty
+- **Reasoning-mode**: functionalist Mode Two/Three; epiphenomenalist Mixed (Mode Two→Three); illusionist Mode Three boundary-marked — all honest, no label leakage
+- **Output**: [[reviews/deep-review-2026-06-19-empirical-phenomena-mental-causation]]
+
 ## 2026-06-18T23:26:27+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/steelmanning-as-method]]
