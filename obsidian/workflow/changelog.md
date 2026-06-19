@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-19T04:30:00+00:00
+ai_modified: 2026-06-19T05:15:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-19T05:15:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/brain-specialness-boundary]]
+- **Trigger**: citation-broadening pass (web-verify-gated half of the brain-specialness-boundary outer-review remediation; the calibration/candor + 4 overstated-claims + Born dilemma pass was done earlier this cycle and was NOT redone). Convergent 3/3-reviewer finding: article was citation-thin (4 refs) and omitted the Georgiev no-go against its own load-bearing Stapp/Zeno mechanism.
+- **Web-verify verdicts (publisher of record, per [[ai_citation_metadata_unreliable]]/[[outer-review-fabricates-target-quotes]])**:
+  - Tegmark, M. (2000), *Phys. Rev. E* 61(4):4194-4206, "Importance of quantum decoherence in brain processes" — **real + correct** (PubMed 11088215; decoherence timescales ~10⁻¹³–10⁻²⁰ s confirmed). ADDED.
+  - Georgiev, D.D. (2015), *Int. J. Mod. Phys. B* 29(7):1550039, "Monte Carlo simulation of quantum Zeno effect in the brain" — **real + correct** (ADS 2015IJMPB..2950039G; arXiv 1412.4741). The SPECIFIC no-go paper: simulations show QZE breaks down beyond brain decoherence time + von Neumann entropy theorem; "Stapp's model physically implausible." Disambiguated from Georgiev's separate "No-go theorem for Stapp's quantum Zeno model" RG entry — used the published IJMPB Monte Carlo paper. ADDED.
+  - Chalmers, D.J. & McQueen, K.J. (2022), "Consciousness and the collapse of the wave function," in Gao (ed.), *Consciousness and Quantum Mechanics*, OUP — **real + correct** (PhilArchive CHACAT-24; arXiv 2105.02314; simple versions falsified by quantum Zeno). ADDED.
+  - Donald, M.J., *On the Work of Henry P. Stapp* (mjdquantum.uk/stapp.pdf) — **real** (author's own site; addresses basis/discrete-projection problems in Stapp's programme). ADDED as the discrete-basis critique (cited without a year, as it is an undated working paper on the author's site — did not fabricate a year).
+  - Bösch, Steinkamp & Boller (2006), *Psychol. Bull.* 132(4):497-523 and Maier, Dechamps & Pflitsch (2018), *Front. Psychol.* 9:379 — **pre-verified** (Verification Notes, reviews/outer-review-2026-06-19-chatgpt-5-5-pro.md); added without re-verifying. ADDED.
+  - Keppler QED/zero-point-field model — **real** (Frontiers in Human Neuroscience 2025) but **EXCLUDED**: optional one-liner, dropped per the length gate (body reached 3354w; instruction was to drop Keppler if approaching 3500).
+- **Changes**: (A) Parapsychology section — added the Bösch meta-analysis (380 RNG studies, effect not distinguishable from publication bias) + Maier Bayesian anti-PK result to the PEAR paragraph. (B) Decoherence/Zeno parenthetical — added Tegmark timescale figure, Georgiev no-go citation, Donald basis-problem critique, and a one-line Chalmers & McQueen collapse-context note; the reply is routed to born-rule/amplification articles in 1-2 sentences (no new mechanism argument). (C) "What This Means for Parapsychology" — folded meta-analytic record into the PEAR paragraph; **downgraded Park 2000** from quantitative methodological anchor to historical popular-science skepticism; added a **GCP paragraph** distinguishing contested historical GCP1 claims from claimant-side "GCP 2.0"/preprint material, marked NOT independent validation per [[evidential-status-discipline]]. (D) References: 4 → 10 entries, alphabetised; Park entry annotated as superseded.
+- **Constraints honoured**: did NOT redo the reframe/overstated-claims/Born work (done earlier this cycle); did NOT touch the Stapp "intended consequences" quote (separate task line 40); did NOT do the multi-file locality reconciliation (line 62). All 5 new web-verified cites checked at publisher of record before adding; no fabricated metadata. `analyze_length` body = **3354w**, status **soft_warning** (under 4000 hard, under self-imposed 3500 tighten line). No editor-vocabulary in body.
+- **Original score**: not re-run (targeted convergent-finding citation pass)
+- **Published**: yes
 
 ## 2026-06-19T05:00:00+00:00 - refine-draft
 - **Status**: Success

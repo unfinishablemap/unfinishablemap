@@ -4,7 +4,7 @@ description: "If consciousness biases quantum outcomes in the brain, why can't i
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-06-19T05:00:00+00:00
+ai_modified: 2026-06-19T05:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ The Map's framework proposes that [[consciousness-selecting-neural-patterns|cons
 
 But if consciousness can bias quantum outcomes at all, critics ask, why only in brains? Quantum indeterminacy exists everywhere. Random number generators, radioactive decay, photon polarisation—all involve genuine quantum indeterminacy. Why can't consciousness bias these too?
 
-Parapsychology research has claimed to detect such effects. The PEAR laboratory at Princeton studied micro-psychokinesis for 28 years (1979-2007), reporting small but statistically significant deviations in random number generators correlated with operator intention. The Global Consciousness Project monitors RNGs worldwide, claiming correlations with major world events. Ganzfeld experiments test telepathy through sensory deprivation protocols—a mind-to-mind claim distinct from the mind-to-matter psychokinesis at issue here, but one the brain-locality argument below rules out for the same reason: another person's brain is no more integrated into your conscious control loop than a random number generator is.
+Parapsychology research has claimed to detect such effects. The PEAR laboratory at Princeton studied micro-psychokinesis for 28 years (1979-2007), reporting small but statistically significant deviations in random number generators correlated with operator intention. The most comprehensive independent assessment, a meta-analysis of 380 RNG studies, found a small overall effect that the authors judged could not be unambiguously distinguished from publication bias and small-study effects (Bösch, Steinkamp & Boller, 2006); a later pre-registered Bayesian quantum-RNG experiment found evidence *against* psychokinetic biasing (Maier, Dechamps & Pflitsch, 2018). The Global Consciousness Project monitors RNGs worldwide, claiming correlations with major world events. Ganzfeld experiments test telepathy through sensory deprivation protocols—a mind-to-mind claim distinct from the mind-to-matter psychokinesis at issue here, but one the brain-locality argument below rules out for the same reason: another person's brain is no more integrated into your conscious control loop than a random number generator is.
 
 If the Map's mechanism permits any external influence, these claims become unexpectedly plausible. If it doesn't, the Map must explain why—without appearing to draw an arbitrary line to preserve respectability.
 
@@ -64,7 +64,7 @@ Consciousness can only influence quantum outcomes within neural systems that are
 
 A distant random number generator isn't connected to your brain. You have no neural pathway to it and no representation of its quantum state prior to the outcome. The qualifier matters: many RNG and brain-computer-interface experiments *do* supply sensory feedback—a display showing the output, an audible tone, a moving cursor. So the defensible claim is not "no feedback exists" but that such feedback is feedback to a conscious representation of an *already-measured* output. It is not pre-collapse access to the target quantum alternative, which is what the Zeno mechanism would require. The mechanism that may work for motor cortex neurons—repeated attentional observation stabilising desired patterns before selection—appears to have no analogue for external systems whose alternatives are never neurally represented before collapse.
 
-(The Zeno mechanism faces decoherence objections in warm biological tissue—see [[decoherence]] for the debate. Neural tissue is itself the paradigmatic hard case for maintaining quantum coherence; it would be wrong to claim external systems decohere *more severely* than the brain. The relevant difference is not decoherence rate but integration: an external system is not in the subject's attentional and control-loop coupling map, whatever its decoherence profile. A published no-go argument from Georgiev presses the decoherence-timescale objection against neural quantum selection directly, and the article's coupling-law conjecture should engage rather than dodge it—the point here is only that the brain-versus-external contrast does not turn on decoherence severity.)
+(The Zeno mechanism faces decoherence objections in warm biological tissue—see [[decoherence]] for the debate. Tegmark (2000) estimated neural decoherence timescales of ~10⁻¹³–10⁻²⁰ s, far shorter than cognitive dynamics, the canonical case that the brain behaves classically. Neural tissue is itself the paradigmatic hard case for maintaining quantum coherence; it would be wrong to claim external systems decohere *more severely* than the brain. The relevant difference is not decoherence rate but integration: an external system is not in the subject's attentional and control-loop coupling map, whatever its decoherence profile. Georgiev (2015) presses this directly with a no-go argument that the quantum Zeno effect breaks down beyond the brain decoherence time, and Donald's analysis of Stapp's programme questions whether the required projections have a well-defined basis at all. These press the decoherence-timescale objection against neural quantum selection itself, and the coupling-law conjecture should engage rather than dodge them—the point here is only that the brain-versus-external contrast does not turn on decoherence severity. The Map's reply runs through the [[born-rule-and-the-consciousness-interface]] and [[amplification-mechanisms-consciousness-physics|amplification]] articles, not this one; analogous quantum-Zeno difficulties affect even consciousness-collapse interpretations that simple versions falsify (Chalmers & McQueen, 2022).)
 
 ### Control Loop Integration
 
@@ -94,7 +94,9 @@ On this account, the scope of attention plausibly defines the scope of influence
 
 The Map's framework makes no prediction about external psychokinesis because the mechanism doesn't extend there. This isn't dismissal through assumption; it's what the framework actually implies.
 
-Consider the PEAR research claiming small effects on random number generators. The Map's *own* Stapp-based control-loop model predicts no robust external effect, because the coupling law it posits does not reach external systems. (A different psi model could posit a weak or bandwidth-limited external channel—but it would then owe its own coupling law and its own replication record, neither of which the parapsychological literature has supplied.) Reported PEAR effect sizes are ~0.0001-0.001, barely distinguishable from statistical noise. The methodological criticisms levelled at PEAR—inadequate controls, post-hoc analysis, replication failures (Park, 2000)—align with what the Map's coupling law predicts: nothing for it to reach.
+Consider the PEAR research claiming small effects on random number generators. The Map's *own* Stapp-based control-loop model predicts no robust external effect, because the coupling law it posits does not reach external systems. (A different psi model could posit a weak or bandwidth-limited external channel—but it would then owe its own coupling law and its own replication record, neither of which the parapsychological literature has supplied.) Reported PEAR effect sizes are ~0.0001-0.001, barely distinguishable from statistical noise, and the broader meta-analytic and pre-registered record (Bösch et al., 2006; Maier et al., 2018) gives no robust external signal once publication bias is modelled. The older popular-science skepticism about PEAR's controls and post-hoc analysis (Park, 2000) anticipated this, though the quantitative case now rests on the meta-analyses rather than that critique. The pattern aligns with what the Map's coupling law predicts: nothing for it to reach.
+
+The Global Consciousness Project illustrates the same point with an additional caution. Its historical correlations (the original network's claims about RNG departures around major world events) are themselves contested for flexible analysis choices; more recent claimant-side "GCP 2.0" material and preprints are produced by the project's own proponents and do not constitute independent validation. Following the [[evidential-status-discipline]], such claimant-generated results carry the evidential weight of a hypothesis to be tested, not of a confirmed effect.
 
 The Map takes a position of principled agnosticism. It doesn't claim to disprove external PK. It observes that:
 1. The proposed mechanism doesn't predict external effects
@@ -181,7 +183,13 @@ None of these has occurred. The current framework remains consistent with availa
 
 ## References
 
+1. Bösch, H., Steinkamp, F., & Boller, E. (2006). Examining psychokinesis: A meta-analysis of mind-matter interaction experiments with random number generators. *Psychological Bulletin*, 132(4), 497-523.
+1. Chalmers, D.J., & McQueen, K.J. (2022). Consciousness and the collapse of the wave function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
+1. Donald, M.J. *On the Work of Henry P. Stapp.* mjdquantum.uk/stapp.pdf.
+1. Georgiev, D.D. (2015). Monte Carlo simulation of quantum Zeno effect in the brain. *International Journal of Modern Physics B*, 29(7), 1550039.
 1. Jahn, R.G., & Dunne, B.J. (2005). The PEAR proposition. *Journal of Scientific Exploration*, 19(2), 195-245.
+1. Maier, M.A., Dechamps, M.C., & Pflitsch, M. (2018). Intentional observer effects on quantum randomness: A Bayesian analysis reveals evidence against micro-psychokinesis. *Frontiers in Psychology*, 9, 379.
 1. Nelson, R.D., et al. (2002). Correlations of continuous random data with major world events. *Foundations of Physics Letters*, 15(6), 537-550.
-1. Park, R.L. (2000). *Voodoo Science*. Oxford University Press.
+1. Park, R.L. (2000). *Voodoo Science*. Oxford University Press. (Historical popular-science skepticism on PEAR; superseded as the quantitative case by the meta-analyses above.)
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
