@@ -1,10 +1,11 @@
 ---
 title: "The Sublime and Negative Aesthetics"
-description: "The sublime, tragedy, ugliness, and disgust carry aesthetic value without hedonic pleasure—the sharpest test of phenomenal value pluralism. A human-AI inquiry into why beauty-as-pleasure fails where awe and terror coincide."
+description: "The sublime, tragedy, and disgust carry aesthetic value without hedonic pleasure—the sharpest test that aesthetic value is irreducible to pleasure (phenomenal value pluralism)."
 created: 2026-06-19
 modified: 2026-06-19
 human_modified:
-ai_modified: 2026-06-19T00:00:00+00:00
+ai_modified: 2026-06-19T19:13:58+00:00
+last_deep_review: 2026-06-19T19:13:58+00:00
 draft: false
 topics:
   - "[[aesthetics-and-consciousness]]"
@@ -49,7 +50,7 @@ The Map does not import Kant's full architecture. His route to the supersensible
 
 ## The Paradox of Tragedy
 
-If the sublime shows aesthetic value coinciding with awe and terror, tragedy shows it coinciding with sought-out sorrow. The puzzle is old and clean: spectators of a well-made tragedy receive genuine pleasure from the representation of grief, fear, and suffering—passions that are, in life, painful and avoided. Hume stated it directly in "Of Tragedy" (1757), one of the *Four Dissertations*: the audience is "pleased and afflicted" at once, and the affliction is not incidental but part of what they seek.
+If the sublime shows aesthetic value coinciding with awe and terror, tragedy shows it coinciding with sought-out sorrow. The puzzle is old and clean: spectators of a well-made tragedy receive genuine pleasure from the representation of grief, fear, and suffering—passions that are, in life, painful and avoided. Hume stated it directly in "Of Tragedy" (1757), one of the *Four Dissertations*: the audience is "pleased in proportion as they are afflicted," and the affliction is not incidental but part of what they seek.
 
 Hume's own resolution was a *conversion* account. The melancholy passions roused by the tragic narrative are, he argued, overpowered and transformed by the pleasure taken in the eloquence, imitation, and artistry of the representation—"converted into pleasure" rather than merely outweighed by it. The emotional distance between audience and represented event lets the painful passions be appropriated and redirected. Contemporary treatments multiply the options. Some hold that the negative emotions are genuinely felt but compensated by other pleasures (control, understanding, social connection); some that the emotions are not really negative in the aesthetic context; some, following a stronger line, that the painful emotions are themselves part of what is valued, not a price paid for it. The current debate is surveyed under the heading of the *paradox of tragedy* and remains open—no single resolution commands consensus.
 

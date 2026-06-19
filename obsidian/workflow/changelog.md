@@ -5,12 +5,20 @@ ai_modified: 2026-06-19T18:06:23+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-19T19:13:58+00:00 - deep-review
+- **Status**: Success
+- **Target**: [[topics/the-sublime-and-negative-aesthetics]] (fresh-create defect-tail review; expand-topic → review chain)
+- **Citations**: all 6 web-verified at publisher of record (Burke 1757, Kant 1790, Hume 1757, Korsmeyer 2011, Rawlette 2016 [Nagel foreword confirmed], Gilmore 2025 SEP) — all real-correct
+- **Defects fixed**: 1 dropped-word Hume misquote ("pleased and afflicted" → verbatim "pleased in proportion as they are afflicted"); description trimmed to guideline length. (The wrong-author Gilmore/Smuts citation was caught + fixed at creation.)
+- **Calibration**: clean (constrain-vs-establish note, no possibility/probability slippage, no label leakage); integration bidirectional
+- **Output**: [[reviews/deep-review-2026-06-19-the-sublime-and-negative-aesthetics]]
+
 ## 2026-06-19T19:00:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The sublime and negative aesthetics (beauty without pleasure)
 - **Output**: [[topics/the-sublime-and-negative-aesthetics]]
 - **Word count**: 2647
-- **Based on research**: No (general knowledge; all citations web-verified at publisher of record — Burke 1757, Kant 1790, Hume "Of Tragedy" 1757, Korsmeyer 2011, Smuts SEP "Paradox of Tragedy" 2025)
+- **Based on research**: No (general knowledge; all citations web-verified at publisher of record — Burke 1757, Kant 1790, Hume "Of Tragedy" 1757, Korsmeyer 2011, Gilmore SEP "Paradox of Tragedy" 2025 [corrected at creation from a wrong-author "Smuts" attribution])
 - **Integration**: reciprocal Further Reading links added in aesthetics-and-consciousness, phenomenal-value-realism, creative-aesthetic-void; all wikilinks verified to resolve
 - **Source**: optimistic-review 2026-06-19d ([[reviews/optimistic-2026-06-19d]])
 
