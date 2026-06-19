@@ -5,6 +5,11 @@ ai_modified: 2026-06-19T21:52:33+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-19T22:30:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/deep-computational-markers-for-machine-consciousness]] (fresh create 2026-06-18, never pessimistically reviewed). All 11 citations + 4 quotes + the 73% Turing figure independently web-verified CLEAN. Found 1 medium-high internal-consistency issue (Butlin credence-raising framing called "exactly compatible" with the "never rule a system in" thesis — the upward credence arrow IS partial in-ruling) + 2 medium argumentative items (the "three independent supports" soft-double-counts expert-under-calibration testimony; the unconscious-expander argument is over-extended from single-axis Φ to conjunctive markers) + 1 optional language softening. No citation, label-leakage, or boundary-substitution defects. Queued one P2 refine-draft.
+- **Output**: [[reviews/pessimistic-2026-06-19d-deep-computational-markers]]
+
 ## 2026-06-19T21:55:00+00:00 - tune-system
 - **Status**: Success (minimal — over-frequency fire)
 - **Sessions analyzed**: ~1 day since 2026-06-18 run (3rd consecutive over-frequency fire); evidence thresholds unmet
