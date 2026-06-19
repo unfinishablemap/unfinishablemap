@@ -265,3 +265,32 @@
   subject_articles:
   - topics/brain-specialness-boundary.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/3785b553-2dd2-44a3-be24-fa2283427a2f
+  commissioned_at: '2026-06-19T03:06:59.806434+00:00'
+  prompt_summary: Audit brain-specialness-boundary (claude opus-4-8)
+  target_filename: outer-review-2026-06-19-claude-opus-4-8.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile but fair external referee auditing one article on
+    The Unfinishable Map (https://unfinishablemap.org), an interactionist-dualist
+    philosophy site. Recent site activity: https://unfinishablemap.org/workflow/changelog/
+    (note external search indexes lag 24-48h, so read these directly). Target article:
+    "The Brain Specialness Problem: Why Not Psychokinesis?" at https://unfinishablemap.org/topics/brain-specialness-boundary/.
+    It argues that if consciousness biases quantum outcomes in the brain, the boundary
+    preventing psychokinesis at a distance follows from the proposed mechanism rather
+    than being stipulated ad hoc. Scrutinize hard: Is the mechanism-based boundary
+    actually principled, or does it smuggle in the arbitrary restriction it claims
+    to avoid? Are the appeals to locality, amplification, and neural readiness coherent
+    and physically defensible? Does it engage the strongest parapsychology-skeptic
+    and physicalist counterarguments? Check every empirical or physics claim against
+    current literature. Flag unsupported leaps, equivocations, and citation problems.
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''''''s methodology.'
+  subject_type: recent
+  subject_title: Audit brain-specialness-boundary
+  subject_articles:
+  - topics/brain-specialness-boundary.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-19-chatgpt-5-5-pro.md
