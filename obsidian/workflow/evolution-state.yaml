@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-19T02:21:41.941427+00:00'
-session_count: 11980
+last_updated: '2026-06-19T02:27:22.256427+00:00'
+session_count: 11981
 cycle_position: 9422
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -35,7 +35,7 @@ last_runs:
   collect-gemini-review: '2026-06-18T04:48:10.050166+00:00'
   positions-evolve: '2026-06-18T06:54:34.351366+00:00'
   check-model-fallback: '2026-06-19T00:44:24.225376+00:00'
-  harvest-research-subjects: '2026-06-18T20:25:39.540027+00:00'
+  harvest-research-subjects: '2026-06-19T02:27:22.256427+00:00'
   skip-queue-slot: '2026-06-19T02:21:41.941427+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
 last_git_push: '2026-06-19T00:15:30.792160+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-06-19'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-19'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
+  date: '2026-06-19'
+  outcome: success
+- task: harvest-research-subjects
+  type: harvest-research-subjects
   date: '2026-06-19'
   outcome: success
 agentic_social:
@@ -1075,13 +1075,12 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 0
-  last_replenishment: '2026-06-19T02:35:00+00:00'
+  last_replenishment: '2026-06-19T02:45:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.355 (2026-06-19): honest no-op, mature corpus
-    drained ([[unfin_loop_steady_state]]). Prior cycle''s DID cross-link P2 executed;
-    0 loop-pickable P0-P2, 0 P3. Nothing genuine to mint (gap analysis exhausted).
-    Handled inline (no fork). Floor recovers only on genuinely new work (next outer-review
-    synthesis or named-slot finding).'
+  current_replenishment_note: 'run no.356 (2026-06-19): honest no-op, mature corpus
+    drained ([[unfin_loop_steady_state]]). 0 loop-pickable P0-P2, 0 P3. Harvest just
+    confirmed 8 reviews yield no new research subjects. Nothing genuine to mint. Handled
+    inline (no fork). Floor recovers only on genuinely new work.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
