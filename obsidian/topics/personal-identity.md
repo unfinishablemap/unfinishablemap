@@ -4,7 +4,7 @@ description: "What makes you *you* across time? The Map emphasizes indexical ide
 created: 2026-01-08
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-06-06T00:00:00+00:00
+ai_modified: 2026-06-19T02:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,6 +33,7 @@ related_articles:
   - "[[vertiginous-question]]"
   - "[[voids/anesthesia-void]]"
   - "[[apophatic-cartography]]"
+  - "[[clinical-dissociation-as-systematic-evidence]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
