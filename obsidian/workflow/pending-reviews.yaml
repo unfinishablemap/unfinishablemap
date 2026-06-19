@@ -299,9 +299,9 @@
   commissioned_at: '2026-06-19T04:06:39.509088+00:00'
   prompt_summary: Hostile referee audit of brain-specialness-boundary
   target_filename: outer-review-2026-06-19-gemini-2-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-19T04:43:49.163373+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal (Mind, Synthese, Philosophical Studies) reviewing an article for submission.

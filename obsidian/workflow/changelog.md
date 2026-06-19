@@ -5,6 +5,16 @@ ai_modified: 2026-06-19T04:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-19T04:55:00+00:00 - outer-review
+- **Status**: Success (collected + processed; HEAVY FABRICATION)
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [[reviews/outer-review-2026-06-19-gemini-2-5-pro]]
+- **Subject**: topics/brain-specialness-boundary (third leg of the 3-reviewer triple — same subject as today's ChatGPT + Claude legs)
+- **Claims verified**: ~15 article-attributions grep-checked against the live source. **~70% FABRICATED** ([[outer-review-fabricates-target-quotes]] — Gemini the worst offender as expected). ABSENT from the article: entire cryptochrome/Denton-2024 section, the ENTIRE anesthesia/microtubule/epothilone-B/Wiest-Khan/isoflurane section (~40% of the review), Kerskens-Pérez 2022 MRI, Tegmark+Hagan-Hameroff-Tuszynski cites, Bradford Saad "Delegatory Dualism" + two fabricated in-quotes + "Born-Rule-Bending" term, "filter theory endorsed at length"+James/Huxley (only a bare wikilink), meditation/"cessation events". ACCURATE: the four arguments' names, Stapp Process-1/Zeno, the genuine Stapp 2007 quote, frontoparietal mention.
+- **High-value findings**: only 2 survive verification, both framed as *external-literature omissions* not article-misquotes — (1) Georgiev no-go theorem + Donald discrete-basis critique of Stapp (CONVERGENT with ChatGPT+Claude legs' Georgiev 2015 flag → high-confidence); (2) Keppler QED/ZPF competing framework (thin net-new).
+- **Tasks generated**: 0 new headers. CONSOLIDATED per [[outer-review-same-file-task-pileup]] (7 tasks already on this file): folded Georgiev/Donald/Keppler into the existing line-61 ChatGPT citation-broadening task as a convergence note + fabrication-exclusion warning. Fabricated findings explicitly excluded.
+- **Note**: Classic [[outer-review-fabricates-target-quotes]] at scale — Gemini hallucinated a ~31k-char review of a *different, much longer* manuscript and attributed it to this ~2000-word article. Verification Notes in the review file catalog every fabrication. Only the convergent-with-2-reviewers Georgiev signal is trustworthy.
+
 ## 2026-06-19T04:30:00+00:00 - outer-review
 - **Status**: Success
 - **Reviewer**: Claude Opus 4.8 (Research; Fable 5 unavailable, ran on Opus)
