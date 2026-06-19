@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Polish apex/what-consciousness-tells-us-about-physics.md — cliché + anchoring (pessimistic 2026-06-19)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Consolidated refine from pessimistic-2026-06-19-what-consciousness-tells-us-about-physics. The apex is mature and well-calibrated (headline guard, empirical-equivalence section, triple-screen admission all exemplary); these are polish-grade, not structural. All defects GREP-VERIFIED present on the live file 2026-06-19; frame VERIFY-FIRST. (a) **Banned cliché ×2** — rephrase line 152 ("is not a problem to be solved within physics. It is a *disclosure*") and line 218 ("This is a feature of the framework, not a bug"): both are the CLAUDE.md-banned "This is not X. It is Y." / feature-not-bug construct. Make the positive claim directly (suggested rewrites in the review). (b) **Anchoring** — the "self-stultification argument" at line 202 is invoked load-bearingly in bare prose with no wikilink; the concept IS real (`concepts/self-stultification.md` + `topics/self-stultification-as-master-argument.md` both confirmed live) so this is a missing-link clarity fix, NOT an unsupported claim — convert to `[[self-stultification|the self-stultification argument]]`, optionally + half-clause gloss. (c) **Optional** — add cross-links to `[[the-reverse-inference]]` and `[[physics-as-disclosure]]` (both live, both are the article's own thesis-namesakes, currently unlinked) and a one-clause nod that the Cartesian "one secure datum" premise (line 90) is contested by illusionists. Do NOT touch the calibrated conditional framing or the Denton/MWI passages (both correctly hedged). Length: ~3400w body, well under ceiling — no condense. ai_contribution=100.
-- **Source**: pessimistic-review
-- **Generated**: 2026-06-19
-
 ### ✓ DONE 2026-06-18: Deep review topics/the-steelman-for-process-monism.md (fresh create 2026-06-18, never deep-reviewed; fresh-create defect tail)
 - **Type**: deep-review
 - **Status**: done — SUPERSEDED by same-cycle cycle-slot deep-review (reviews/deep-review-2026-06-18-the-steelman-for-process-monism). All citations web-verified at publisher (Ṣadrā SEP + SN 12.61 + Whitehead 1929/1978 + Paṭṭhāna), Mode Three steelman-then-decline confirmed, calibration-refine intact (anchoring flags 0). No re-review needed.
@@ -1081,6 +1074,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-19: Polish apex/what-consciousness-tells-us-about-physics.md — cliché + anchoring (pessimistic 2026-06-19)
+- **Type**: refine-draft
+- **Notes**: Consolidated refine from pessimistic-2026-06-19-what-consciousness-tells-us-about-physics. The apex is mature and well-calibrated (headline guard, empirical-equivalence section, triple-screen admission all exemplary); these are polish-grade, not structural. All defects GREP-VERIFIED present on the live file 2026-06-19; frame VERIFY-FIRST. (a) **Banned cliché ×2** — rephrase line 152 ("is not a problem to be solved within physics. It is a *disclosure*") and line 218 ("This is a feature of the framework, not a bug"): both are the CLAUDE.md-banned "This is not X. It is Y." / feature-not-bug construct. Make the positive claim directly (suggested rewrites in the review). (b) **Anchoring** — the "self-stultification argument" at line 202 is invoked load-bearingly in bare prose with no wikilink; the concept IS real (`concepts/self-stultification.md` + `topics/self-stultification-as-master-argument.md` both confirmed live) so this is a missing-link clarity fix, NOT an unsupported claim — convert to `[[self-stultification|the self-stultification argument]]`, optionally + half-clause gloss. (c) **Optional** — add cross-links to `[[the-reverse-inference]]` and `[[physics-as-disclosure]]` (both live, both are the article's own thesis-namesakes, currently unlinked) and a one-clause nod that the Cartesian "one secure datum" premise (line 90) is contested by illusionists. Do NOT touch the calibrated conditional framing or the Denton/MWI passages (both correctly hedged). Length: ~3400w body, well under ceiling — no condense. ai_contribution=100.
 
 ### ✓ 2026-06-18: Reciprocal cross-link repair within the free-will / libertarian-agency cluster
 - **Type**: integrate-orphan

@@ -9,6 +9,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-19T01:30:00+00:00 - deep-review
+- **Status**: Success (converged no-op — metadata-only confirmation)
+- **File**: [discrimination-problem](/concepts/discrimination-problem/)
+- **Verdict**: Converged. Fourth deep review. `git diff` since the 2026-06-05 review shows the body change is entirely cross-link maintenance (wikilink repointing from coalesced targets `epistemology-of-other-minds-under-dualism`→`problem-of-other-minds` and `memory-system-vulnerability-hierarchies-as-interface-evidence`→`memory-channel-interface-evidence`, plus one new `direction-dependent-discriminating-test-design` cross-link). No new content/citations/empirical claims/opponent engagements → bumped `last_deep_review` only, manufactured no edits (deep_review_over_reviews_converged).
+- **Push-safety check (the substantive verification)**: all 4 repointed/new wikilink targets verified live and resolvable (problem-of-other-minds, memory-channel-interface-evidence, direction-dependent-discriminating-test-design, targeted-lesion companion); old targets correctly archived with no live duplicates. No broken links.
+- **Citation web-verify**: skipped (References block byte-identical since 2026-06-05 review which verified it; trigger not met).
+- **Word count**: 2919 → 2919 (no change; soft_warning, well under 3500 hard — acceptable per standing note)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Frontmatter**: ai_modified + last_deep_review → 2026-06-19T00:00:00+00:00
+- **Output**: [deep-review-2026-06-19-discrimination-problem](/reviews/deep-review-2026-06-19-discrimination-problem/)
+
 ## 2026-06-19T00:55:07+00:00 - refine-draft
 - **Status**: Success
 - **File**: [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/)

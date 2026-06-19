@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-18
-ai_modified: 2026-06-16 12:15:19+00:00
+ai_modified: 2026-06-19 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: How can introspection distinguish genuine phenomenal consciousness 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 00:00:00+00:00
+last_deep_review: 2026-06-19 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

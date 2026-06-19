@@ -4,8 +4,8 @@ description: "How can introspection distinguish genuine phenomenal consciousness
 created: 2026-05-18
 modified: 2026-05-19
 human_modified: null
-ai_modified: 2026-06-16T12:15:19+00:00
-last_deep_review: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-06-19T00:00:00+00:00
+last_deep_review: 2026-06-19T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
