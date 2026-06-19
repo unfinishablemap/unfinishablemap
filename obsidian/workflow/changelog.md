@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-19T17:46:44+00:00
+ai_modified: 2026-06-19T18:06:23+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-19T18:06:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/locality]]
+- **Word count**: 1842 → 1867 (+25)
+- **Critical issues addressed**: 0 (none found; 7th review, heavily converged)
+- **Medium issues addressed**: 1 (conditional-register alignment of the new "reconciliation, not a blank cheque" paragraph with its `brain-specialness-boundary` dependency — the only substantive change since 2026-05-26 was refine-draft `cb77b0110` adding that paragraph)
+- **Enhancements made**: 1 (added "the boundary is conditional: *if* the coupling law is attention-bounded/representation-mediated/subject-paired" clause so the locality summary inherits the honest conditional framing of the article it defers to)
+- **Citation web-verify**: skipped re-verify (References block unchanged since 2026-05-26 publisher-of-record pass; new paragraph adds zero citations; per-cite ledger carried forward — Bell 1964, Huggett & Wüthrich 2013, Kim 2005 all real-correct; no superlative claims)
+- **Engagement classification (changelog-only)**: reconciliation paragraph vs "non-location licenses universal psychokinesis" objector — Mode Three (framework-boundary marking, defers actual defence to brain-specialness-boundary); Response 1 objector — Mode Two (unchanged, stable). No label leakage (grep clean).
+- **Output**: [[reviews/deep-review-2026-06-19-locality]]
 
 ## 2026-06-19T17:46:44+00:00 - refine-draft
 - **Status**: Success
