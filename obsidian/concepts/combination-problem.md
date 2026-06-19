@@ -23,13 +23,14 @@ related_articles:
   - "[[process-and-consciousness]]"
   - "[[composition-question-rivals]]"
   - "[[mereology-of-mind]]"
+  - "[[open-individualism-and-the-de-combination-problem]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-06-04T09:22:35+00:00
-ai_modified: 2026-06-15T20:30:00+00:00
+ai_modified: 2026-06-19T21:25:00+00:00
 ---
 
 The combination problem is the central challenge facing [[panpsychism]]—the view that consciousness is fundamental and ubiquitous. If electrons have micro-experiences, how do billions of them combine into the unified consciousness of a human being? William James called this "the most peculiar puzzle" of the mind-dust theory, and it remains unsolved. The Unfinishable Map's [[interactionist-dualism|interactionist framework]] avoids the problem entirely by denying that matter has micro-experiences in the first place.
@@ -108,7 +109,7 @@ This risks collapsing into emergence: if macro-consciousness *emerges* from micr
 
 Philip Goff (in later work) and Itay Shani propose inverting the problem. Rather than building consciousness "up" from micro-subjects, cosmopsychism holds that the universe as a whole is conscious, and individual minds are aspects or "fragments" of universal consciousness.
 
-This trades the combination problem for a "decombination problem": how does one cosmic subject differentiate into many individual subjects? Gregory Miller argues this is no easier than the original problem—we still face the puzzle of subjects as parts of other subjects (see [[panpsychisms-combination-problem]] for the in-depth treatment of de-combination as the structural mirror of combination).
+This trades the combination problem for a "[[open-individualism-and-the-de-combination-problem|decombination problem]]": how does one cosmic subject differentiate into many individual subjects? Gregory Miller argues this is no easier than the original problem—we still face the puzzle of subjects as parts of other subjects (see [[panpsychisms-combination-problem]] for the in-depth treatment of de-combination as the structural mirror of combination).
 
 ### Eliminating Subjects
 
@@ -204,6 +205,7 @@ The combination problem is not an argument *for* the Map's framework, but it sho
 - [[panpsychisms-combination-problem]] — In-depth treatment of the problem's three dimensions and de-combination
 - [[mereology-of-mind]] — The apex synthesis where de-combination is the named hinge joining composition and individuation
 - [[consciousness-and-the-metaphysics-of-individuation]] — The complementary problem: what draws boundaries around discrete subjects
+- [[open-individualism-and-the-de-combination-problem]] — De-combination as combination's mirror, and open individualism distinguished from it
 - [[vertiginous-question]] — Why *this* unified subject exists rather than another
 - [[tenets]] — the Map's foundational commitments
 

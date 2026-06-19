@@ -4,7 +4,7 @@ description: "Why does experience belong to anyone? The ownership problem asks w
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-06-03T11:09:45+00:00
+ai_modified: 2026-06-19T21:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,6 +31,7 @@ related_articles:
   - "[[embodied-consciousness]]"
   - "[[vertiginous-question]]"
   - "[[indexical-identity-quantum-measurement]]"
+  - "[[open-individualism-and-the-de-combination-problem]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -143,7 +144,7 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 - [[indexical-identity-quantum-measurement]] — The indexical gap at quantum measurement: why *this* consciousness experiences *this* outcome
 - [[vertiginous-question]] — Why am I this person rather than another? Benj Hellie's question, closely paired with the ownership problem
 - [[consciousness-and-the-metaphysics-of-individuation]] — What makes a subject a discrete subject at all (prior to ownership)
-- [[consciousness-and-the-metaphysics-of-individuation#Three Logical Possibilities|Open individualism and the de-combination problem]] — If there is only one subject appearing as many, ownership has no discrete owners to attach to; the Map's indexical commitment resists this
+- [[open-individualism-and-the-de-combination-problem]] — If there is only one subject appearing as many, ownership has no discrete owners to attach to; the Map's indexical commitment resists this
 - [[ownership-void|The Ownership Void]] — Why the ownership mechanism hides from introspection
 - [[witness-consciousness]] — Ownership stripped of narrative content
 - [[parfit-reductionism]] — The reductionist challenge to primitive ownership

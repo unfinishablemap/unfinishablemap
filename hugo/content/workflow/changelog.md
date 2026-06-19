@@ -1,13 +1,42 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-19 19:28:25+00:00
+ai_modified: 2026-06-19 21:25:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-19'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-19T21:25:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Open individualism and the de-combination problem (bridge/disambiguation article)
+- **Output**: [open-individualism-and-the-de-combination-problem](/topics/open-individualism-and-the-de-combination-problem/)
+- **Word count**: 2822 (94% of topics 3000 soft target — ok)
+- **Based on research**: yes — [open-individualism-and-the-de-combination-problem-2026-06-19](/research/open-individualism-and-the-de-combination-problem-2026-06-19/)
+- **Key disambiguation performed**: open individualism = an *identity* thesis (numerically one subject, Kolak/Zuboff); de-combination problem = a *cosmopsychism grounding* problem (Miller 2018, the mirror of combination). Cousins, not twins. Developed both literatures (Kolak open/closed/empty taxonomy as a unit; the cosmopsychist reply-roster: Goff subsumption, Nagasawa & Wager priority, Shani partial grounding, Shani & Keppler filtering, Albahari aperspectival dissolution). Relation to Site Perspective: both DECLINED — open individualism conflicts with No-Many-Worlds/haecceity (Map is closed-individualist); de-combination is a cost cosmopsychism/idealism pay that interactionist dualism structurally avoids (no micro-experience, no cosmic field → nothing to combine/de-combine; pays the interaction problem instead).
+- **Citations**: all reused from the verified research note (publisher-of-record / SEP). Miller two-solutions framing + SEP conceivability-mirror re-confirmed via WebSearch before attributing. Honoured the note's UNVERIFIED-SPECIFICS flags: did NOT reconstruct Kolak's detailed argument steps, did NOT cite the Zuboff *Finding Myself* forthcoming book, attributed Miller's two methods only at the verified abstract level.
+- **Integration (reciprocal, both ways)**: cross-linked with consciousness-and-the-metaphysics-of-individuation, panpsychisms-combination-problem, manyism, combination-problem, consciousness-and-the-ownership-problem — added frontmatter + Further Reading back-links in all five, and pointed their inline "de-combination problem" mentions at the new dedicated home. Ownership article's old anchor-link to the individuation taxonomy retargeted to the new article. 2 self-citations (individuation → Oquatre-sept; manyism → Oquatre-huit).
+- **Checks**: validate ✓ on new + all 5 edited files; all wikilinks resolve; no editor-vocabulary leakage; no possibility/probability slippage; not an apex source.
+
+## 2026-06-19T20:40:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Open individualism and the de-combination problem
+- **Output**: [open-individualism-and-the-de-combination-problem-2026-06-19](/research/open-individualism-and-the-de-combination-problem-2026-06-19/)
+- **Sources consulted**: 13 (all publisher-of-record / PhilPapers / SEP verified)
+- **Assess-first**: dedicated page JUSTIFIED as a focused bridge/disambiguation article (open individualism = identity thesis; de-combination = cosmopsychism grounding problem). Pieces exist scattered across ~10 articles but neither idea is centred. Metadata corrections: Nagasawa & Wager title is "Panpsychism and Priority Cosmopsychism" (NOT the brief's "Defending Existential Consciousness"); Shani & Keppler 2018 JAPA distinct from Shani 2015 Phil Papers.
+
+## 2026-06-19T20:26:10+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/)
+- **Word count**: 2647 → 2647 (+0; 88% of 3000 soft threshold, no length pressure)
+- **Critical issues addressed**: 0 (none found; 6th deep review — fully converged)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (content no-op; a SUCCESS per convergence guidance)
+- **Convergence**: re-qualified only by the 2026-06-01 refine-draft (commit 16d03dada) that added 2 reciprocal cross-links since the 2026-05-31 review. Scoped scrutiny to those 2 post-review body additions: (a) Tonetto "statistical closure with outcome-level openness" attribution → verified faithful to [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) (target L83), reciprocal link present; (b) "powerful qualities"/disposition-to-bias attribution → verified faithful to [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/) (target L122-148, L132), reciprocal link present. Both clean. All 23 wikilinks resolve, zero archival rot. Citations unchanged since 2026-05-31 publisher-verify (skip per §2.4). Empirical-currency: one "to date" hit is a negative-existence field-state claim, not a supersedable superlative — no defect. ai_modified left at 2026-06-01 (no content change); only last_deep_review bumped.
+- **Engagements** (editor-internal, unchanged — no new opponent replies): adversarial-persona objections remain bedrock framework-boundary disagreements. No label leakage.
+- **Output**: [deep-review-2026-06-19-consciousness-and-probability-interpretation](/reviews/deep-review-2026-06-19-consciousness-and-probability-interpretation/)
 
 ## 2026-06-19T19:28:25+00:00 - deep-review
 - **Status**: Success

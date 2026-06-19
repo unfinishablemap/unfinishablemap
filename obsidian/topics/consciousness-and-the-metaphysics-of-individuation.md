@@ -4,7 +4,7 @@ description: "Why does consciousness come in discrete subjects? The individuatio
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-06-17T15:30:00+00:00
+ai_modified: 2026-06-19T21:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,6 +35,7 @@ related_articles:
   - "[[categorical-surprise]]"
   - "[[composition-question-rivals]]"
   - "[[mereology-of-mind]]"
+  - "[[open-individualism-and-the-de-combination-problem]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -75,7 +76,7 @@ Panpsychism—the view that consciousness is fundamental and ubiquitous—faces 
 
 The Map rejects panpsychism but inherits a related puzzle. If consciousness interfaces with the physical through [[tenets#^minimal-quantum-interaction|minimal quantum interaction]], and if collapse events occur throughout the nervous system, what unifies these into a single subject's experience rather than a swarm of disconnected micro-collapses? The [[consciousness-and-the-metaphysics-of-composition|metaphysics of composition]]—where van Inwagen, Merricks, and McQueen and Tsuchiya independently converge on consciousness as the criterion for genuine wholes—sharpens this: if consciousness is what makes composites real, something must individuate which composite *this* consciousness constitutes. [[composition-question-rivals#metaontological-deflationism|Metaontological deflationism]] presses here symmetrically: the same challenge it raises against a deep compositional fact applies to subject-boundaries—whether there is a determinate fact about how consciousness divides into discrete subjects, or only alternative ways of regimenting "subject." The [[unity-of-consciousness|unity of consciousness]]—the fact that your visual field, bodily sensations, and inner monologue belong to one phenomenal field—requires some principle of integration that physical connectivity alone does not explain. (Split-brain cases demonstrate this: severing the main physical connection does not cleanly sever the subject.)
 
-There is also a *de-combination problem* running in the opposite direction. If reality were fundamentally one conscious field (as open individualism suggests), what fragments it into discrete subjects? Gregory Miller calls this the overlooked twin of the combination problem. Both problems converge on the same gap: we lack any principle that explains how consciousness divides into units. This is precisely where the Map's chief non-conscious rival, [[composition-question-rivals#information-compression-composition|the compression criterion for composition]], owes its hardest work: a criterion that explains unity by appeal to compressibility must equally explain *fragmentation*—why the world's description is sometimes better compressed by treating one field as many subjects rather than one.
+There is also a *[[open-individualism-and-the-de-combination-problem|de-combination problem]]* running in the opposite direction. If reality were fundamentally one conscious field (as open individualism suggests), what fragments it into discrete subjects? Gregory Miller calls this the overlooked twin of the combination problem. Both problems converge on the same gap: we lack any principle that explains how consciousness divides into units. This is precisely where the Map's chief non-conscious rival, [[composition-question-rivals#information-compression-composition|the compression criterion for composition]], owes its hardest work: a criterion that explains unity by appeal to compressibility must equally explain *fragmentation*—why the world's description is sometimes better compressed by treating one field as many subjects rather than one.
 
 ## Kant's Challenge to Dualism
 
@@ -155,6 +156,7 @@ The individuation question connects to all five of the Map's [[tenets]], but mos
 - [[consciousness-and-the-ownership-problem]] — What makes experience belong to a subject
 - [[epistemological-limits-occams-razor]] — Why parsimony bias may systematically favour simpler individuation accounts
 - [[mereology-of-mind]] — The synthesis joining individuation to composition through the de-combination hinge
+- [[open-individualism-and-the-de-combination-problem]] — Disambiguates open individualism (an identity thesis) from the de-combination problem (a cosmopsychism grounding problem); develops Kolak's taxonomy as a unit
 
 ## References
 

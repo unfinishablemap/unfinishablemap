@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-17
-ai_modified: 2026-06-17 17:41:56+00:00
+ai_modified: 2026-06-19 21:25:00+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -22,6 +22,7 @@ modified: *id001
 related_articles:
 - '[[consciousness-and-the-metaphysics-of-individuation]]'
 - '[[mereology-of-mind]]'
+- '[[open-individualism-and-the-de-combination-problem]]'
 - '[[tenets]]'
 title: Manyism and Composite Subjectivity
 topics:
@@ -51,7 +52,7 @@ Manyism is one branch of the constitutive-panpsychist response to subject-summin
 
 - **Subject-eliminativism (Harris)** drops subjects entirely, retaining only consciousness and its contents, so there is no subject-summing problem because there is nothing to sum.
 
-- **Cosmopsychism plus de-combination (Albahari; Goff's later work)** inverts the direction: start from one cosmic subject and explain how it fragments into many. Gregory Miller calls this the *de-combination problem*—how a subject can have other subjects as proper parts—and argues it is no easier than combination. The two are the same impossibility approached from opposite ends, which is why the Map's [mereology-of-mind](/apex/mereology-of-mind/) apex makes de-combination its organising hinge. Manyism is, in effect, the opposite bet from cosmopsychism: more subjects, not one.
+- **Cosmopsychism plus de-combination (Albahari; Goff's later work)** inverts the direction: start from one cosmic subject and explain how it fragments into many. Gregory Miller calls this the *[de-combination problem](/topics/open-individualism-and-the-de-combination-problem/)*—how a subject can have other subjects as proper parts—and argues it is no easier than combination. The two are the same impossibility approached from opposite ends, which is why the Map's [mereology-of-mind](/apex/mereology-of-mind/) apex makes de-combination its organising hinge. Manyism is, in effect, the opposite bet from cosmopsychism: more subjects, not one.
 
 ## The "Too Many Minds" Objection and Roelofs' Reply
 
@@ -80,6 +81,7 @@ The Map's own avoidance of the combination problem is structural: it denies that
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — The Map's unity-as-primitive reading, the key contact point
 - [panpsychism](/concepts/panpsychism/) — The broader view manyism defends
 - [mereology-of-mind](/apex/mereology-of-mind/) — The apex synthesis joining combination and de-combination
+- [open-individualism-and-the-de-combination-problem](/topics/open-individualism-and-the-de-combination-problem/) — Manyism's opposite bet stated: cosmopsychism's one-subject grounding problem, and open individualism as its identity-thesis cousin
 
 ## References
 

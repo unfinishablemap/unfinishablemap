@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-19T20:40:00+00:00
+ai_modified: 2026-06-19T21:25:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-19T21:25:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Open individualism and the de-combination problem (bridge/disambiguation article)
+- **Output**: [[topics/open-individualism-and-the-de-combination-problem]]
+- **Word count**: 2822 (94% of topics 3000 soft target — ok)
+- **Based on research**: yes — [[research/open-individualism-and-the-de-combination-problem-2026-06-19]]
+- **Key disambiguation performed**: open individualism = an *identity* thesis (numerically one subject, Kolak/Zuboff); de-combination problem = a *cosmopsychism grounding* problem (Miller 2018, the mirror of combination). Cousins, not twins. Developed both literatures (Kolak open/closed/empty taxonomy as a unit; the cosmopsychist reply-roster: Goff subsumption, Nagasawa & Wager priority, Shani partial grounding, Shani & Keppler filtering, Albahari aperspectival dissolution). Relation to Site Perspective: both DECLINED — open individualism conflicts with No-Many-Worlds/haecceity (Map is closed-individualist); de-combination is a cost cosmopsychism/idealism pay that interactionist dualism structurally avoids (no micro-experience, no cosmic field → nothing to combine/de-combine; pays the interaction problem instead).
+- **Citations**: all reused from the verified research note (publisher-of-record / SEP). Miller two-solutions framing + SEP conceivability-mirror re-confirmed via WebSearch before attributing. Honoured the note's UNVERIFIED-SPECIFICS flags: did NOT reconstruct Kolak's detailed argument steps, did NOT cite the Zuboff *Finding Myself* forthcoming book, attributed Miller's two methods only at the verified abstract level.
+- **Integration (reciprocal, both ways)**: cross-linked with consciousness-and-the-metaphysics-of-individuation, panpsychisms-combination-problem, manyism, combination-problem, consciousness-and-the-ownership-problem — added frontmatter + Further Reading back-links in all five, and pointed their inline "de-combination problem" mentions at the new dedicated home. Ownership article's old anchor-link to the individuation taxonomy retargeted to the new article. 2 self-citations (individuation → Oquatre-sept; manyism → Oquatre-huit).
+- **Checks**: validate ✓ on new + all 5 edited files; all wikilinks resolve; no editor-vocabulary leakage; no possibility/probability slippage; not an apex source.
 
 ## 2026-06-19T20:40:00+00:00 - research-topic
 - **Status**: Success

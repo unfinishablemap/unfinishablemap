@@ -19,7 +19,7 @@ description: Probability requires a subject who faces uncertainty, yet conscious
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-31 20:09:31+00:00
+last_deep_review: 2026-06-19 20:26:10+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-06-15 20:30:00+00:00
+ai_modified: 2026-06-19 21:25:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -30,6 +30,7 @@ related_articles:
 - '[[process-and-consciousness]]'
 - '[[composition-question-rivals]]'
 - '[[mereology-of-mind]]'
+- '[[open-individualism-and-the-de-combination-problem]]'
 title: The Combination Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -111,7 +112,7 @@ This risks collapsing into emergence: if macro-consciousness *emerges* from micr
 
 Philip Goff (in later work) and Itay Shani propose inverting the problem. Rather than building consciousness "up" from micro-subjects, cosmopsychism holds that the universe as a whole is conscious, and individual minds are aspects or "fragments" of universal consciousness.
 
-This trades the combination problem for a "decombination problem": how does one cosmic subject differentiate into many individual subjects? Gregory Miller argues this is no easier than the original problem—we still face the puzzle of subjects as parts of other subjects (see [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/) for the in-depth treatment of de-combination as the structural mirror of combination).
+This trades the combination problem for a "[decombination problem](/topics/open-individualism-and-the-de-combination-problem/)": how does one cosmic subject differentiate into many individual subjects? Gregory Miller argues this is no easier than the original problem—we still face the puzzle of subjects as parts of other subjects (see [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/) for the in-depth treatment of de-combination as the structural mirror of combination).
 
 ### Eliminating Subjects
 
@@ -207,6 +208,7 @@ The combination problem is not an argument *for* the Map's framework, but it sho
 - [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/) — In-depth treatment of the problem's three dimensions and de-combination
 - [mereology-of-mind](/apex/mereology-of-mind/) — The apex synthesis where de-combination is the named hinge joining composition and individuation
 - [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — The complementary problem: what draws boundaries around discrete subjects
+- [open-individualism-and-the-de-combination-problem](/topics/open-individualism-and-the-de-combination-problem/) — De-combination as combination's mirror, and open individualism distinguished from it
 - [vertiginous-question](/topics/vertiginous-question/) — Why *this* unified subject exists rather than another
 - [tenets](/tenets/) — the Map's foundational commitments
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-06-03 11:09:45+00:00
+ai_modified: 2026-06-19 21:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -36,6 +36,7 @@ related_articles:
 - '[[embodied-consciousness]]'
 - '[[vertiginous-question]]'
 - '[[indexical-identity-quantum-measurement]]'
+- '[[open-individualism-and-the-de-combination-problem]]'
 title: Consciousness and the Ownership Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -146,7 +147,7 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The indexical gap at quantum measurement: why *this* consciousness experiences *this* outcome
 - [vertiginous-question](/topics/vertiginous-question/) — Why am I this person rather than another? Benj Hellie's question, closely paired with the ownership problem
 - [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — What makes a subject a discrete subject at all (prior to ownership)
-- [Open individualism and the de-combination problem](/topics/consciousness-and-the-metaphysics-of-individuation/#three-logical-possibilities) — If there is only one subject appearing as many, ownership has no discrete owners to attach to; the Map's indexical commitment resists this
+- [open-individualism-and-the-de-combination-problem](/topics/open-individualism-and-the-de-combination-problem/) — If there is only one subject appearing as many, ownership has no discrete owners to attach to; the Map's indexical commitment resists this
 - [The Ownership Void](/voids/ownership-void/) — Why the ownership mechanism hides from introspection
 - [witness-consciousness](/concepts/witness-consciousness/) — Ownership stripped of narrative content
 - [parfit-reductionism](/concepts/parfit-reductionism/) — The reductionist challenge to primitive ownership
