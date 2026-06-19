@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-19T15:30:00+00:00
+ai_modified: 2026-06-19T17:46:44+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-19T17:46:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/measurement-problem]]
+- **Original score**: n/a (curate.py review command stale; calibration pass per pessimistic-2026-06-19c, no quality-score tool run)
+- **Word count**: 2923 → 3391 body words (still under concepts hard ceiling 3500; reframes inherently add qualifying clauses; trimmed twice to limit growth)
+- **Changes**: Five calibration reframes from [[reviews/pessimistic-2026-06-19c-measurement-problem]], honouring [[evidential-status-discipline]]. (1) Conclusion-strength drift reconciled — closing paragraph downgraded "evidence *for* a bi-aspectual reality" to "*consistent with* ... and, on the disclosure reading, *favors* it," with the favoring explicitly resting on the disclosure reading not the bare result; line 137 "coherence not truth" clarified as *mechanistic* modesty (no Zeno mechanism specified) distinct from the interpretive disclosure claim, so the two are not competing ceilings on one claim. (2) Epistemic→metaphysical jump (decoherence/Tomaz, §Why Decoherence Doesn't Solve It) — added that the partition is *compatible with* both the disclosure reading and an as-yet-unfound dynamical-collapse theory; stated the result is epistemic (limit on derivation) not yet metaphysical; gave the Map's reason for preferring disclosure (collapse programmes leave the actuality-for-a-subject question untouched even where they succeed dynamically) as an inference to the better reading, not something the result forces. (3) Albert/Loewer determinacy (§Observer Problem) reframed from asserted fact to their *diagnosis*, with the functionalist counter-reading noted. (4) Question-begging vs functionalism (§Indexical Dimension) — "denies the explanandum" now marked as resting on a Map premise (the further fact is real); framework-boundary honesty, not in-framework refutation. (5) Parsimony over-unification (§structural coherence + §Positive Case) tightened from generic "first-person facts third-person description can't capture" to the *specific* shared feature, determinacy-from-indeterminacy (the Albert–Loewer point); added tenet-5 tension ownership to the "least disruptive locus" Occam move (defeasible heuristic, not evidence). Preserved the unfalsifiability honesty (Honest limitation para) and the possibility/actuality discipline untouched.
+- **Engagement classification (changelog-only)**: functionalist reply (§Indexical Dimension) — Mode Three (framework-boundary marking: rests on the Map premise that a further fact exists; explicitly not a refutation on functionalist terms). Albert/Loewer (§Observer Problem) — recast as diagnosis, not opponent-refutation. No new named-opponent engagements introduced.
+- **Verification**: body 3391w < hard 3500 (soft_warning at 136% of 2500 soft, pre-existing); editor-vocabulary scan CLEAN (no forbidden tokens, no `**Evidential status:**` callouts, no mode labels in prose); References block unmodified (verified-correct citations untouched per task); no possibility/probability slippage introduced.
+- **Published**: yes
 
 ## 2026-06-19T17:25:00+00:00 - pessimistic-review
 - **Status**: Success

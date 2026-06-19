@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-18
-ai_modified: 2026-06-18 11:12:21+00:00
+ai_modified: 2026-06-19 13:45:21+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts: []
@@ -104,6 +104,7 @@ The payoff under the tenets is not nihilism about interpretability. Quite the op
 
 - [machine-consciousness](/topics/machine-consciousness/)
 - [ai-consciousness](/topics/ai-consciousness/)
+- [ai-consciousness-typology](/concepts/ai-consciousness-typology/) — The categorical framework (null, simulated, functional, borrowed, epiphenomenal, alien) these structural markers help discriminate among
 - [anti-correlation-probes-for-ai-consciousness](/topics/anti-correlation-probes-for-ai-consciousness/)
 - [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/)
 - [testing-consciousness-collapse](/topics/testing-consciousness-collapse/)

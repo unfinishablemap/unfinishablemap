@@ -1,13 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-19 15:30:00+00:00
+ai_modified: 2026-06-19 17:46:44+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-19'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-19T17:46:44+00:00 - refine-draft
+- **Status**: Success
+- **File**: [measurement-problem](/concepts/measurement-problem/)
+- **Original score**: n/a (curate.py review command stale; calibration pass per pessimistic-2026-06-19c, no quality-score tool run)
+- **Word count**: 2923 → 3391 body words (still under concepts hard ceiling 3500; reframes inherently add qualifying clauses; trimmed twice to limit growth)
+- **Changes**: Five calibration reframes from [pessimistic-2026-06-19c-measurement-problem](/reviews/pessimistic-2026-06-19c-measurement-problem/), honouring [evidential-status-discipline](/project/evidential-status-discipline/). (1) Conclusion-strength drift reconciled — closing paragraph downgraded "evidence *for* a bi-aspectual reality" to "*consistent with* ... and, on the disclosure reading, *favors* it," with the favoring explicitly resting on the disclosure reading not the bare result; line 137 "coherence not truth" clarified as *mechanistic* modesty (no Zeno mechanism specified) distinct from the interpretive disclosure claim, so the two are not competing ceilings on one claim. (2) Epistemic→metaphysical jump (decoherence/Tomaz, §Why Decoherence Doesn't Solve It) — added that the partition is *compatible with* both the disclosure reading and an as-yet-unfound dynamical-collapse theory; stated the result is epistemic (limit on derivation) not yet metaphysical; gave the Map's reason for preferring disclosure (collapse programmes leave the actuality-for-a-subject question untouched even where they succeed dynamically) as an inference to the better reading, not something the result forces. (3) Albert/Loewer determinacy (§Observer Problem) reframed from asserted fact to their *diagnosis*, with the functionalist counter-reading noted. (4) Question-begging vs functionalism (§Indexical Dimension) — "denies the explanandum" now marked as resting on a Map premise (the further fact is real); framework-boundary honesty, not in-framework refutation. (5) Parsimony over-unification (§structural coherence + §Positive Case) tightened from generic "first-person facts third-person description can't capture" to the *specific* shared feature, determinacy-from-indeterminacy (the Albert–Loewer point); added tenet-5 tension ownership to the "least disruptive locus" Occam move (defeasible heuristic, not evidence). Preserved the unfalsifiability honesty (Honest limitation para) and the possibility/actuality discipline untouched.
+- **Engagement classification (changelog-only)**: functionalist reply (§Indexical Dimension) — Mode Three (framework-boundary marking: rests on the Map premise that a further fact exists; explicitly not a refutation on functionalist terms). Albert/Loewer (§Observer Problem) — recast as diagnosis, not opponent-refutation. No new named-opponent engagements introduced.
+- **Verification**: body 3391w < hard 3500 (soft_warning at 136% of 2500 soft, pre-existing); editor-vocabulary scan CLEAN (no forbidden tokens, no `**Evidential status:**` callouts, no mode labels in prose); References block unmodified (verified-correct citations untouched per task); no possibility/probability slippage introduced.
+- **Published**: yes
+
+## 2026-06-19T17:25:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/measurement-problem.md` (~3086w; load-bearing for 4 of 5 tenets; never previously given a dedicated pessimistic review)
+- **Findings**: No critical defects. Clean on label-leakage, citations, altered-state gate (n/a). Medium issues: conclusion-strength drift ("coherence not truth" line 137 vs "evidence for bi-aspectual reality" line 199); epistemic→metaphysical jump in the decoherence/disclosure reading (line 97); Albert/Loewer determinacy asserted as fact (line 143); question-begging vs functionalism (line 85); parsimony argument over-unifies (lines 67/183). Queued one P2 refine-draft.
+- **Output**: [pessimistic-2026-06-19c-measurement-problem](/reviews/pessimistic-2026-06-19c-measurement-problem/)
+
+## 2026-06-19T15:35:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [ai-consciousness-typology](/concepts/ai-consciousness-typology/)
+- **Word count**: 2892 → 2892 (no change; length-neutral, soft_warning at 116% of 2500, well below hard 3500)
+- **Critical issues addressed**: 0 (none found — fourth consecutive clean review; article converged)
+- **Medium issues addressed**: 1 — fixed a cross-link asymmetry: the typology now links to `[[deep-computational-markers-for-machine-consciousness]]` but that spoke did not link back; added a reciprocal Further Reading entry there ("the categorical framework these structural markers help discriminate among") and bumped its `ai_modified`. The typology body itself got no content edits (converged; editing would oscillate).
+- **New-content verification**: the only post-06-02 content was one sentence in "Diagnostic Asymmetry" tying it to the methodological-pluralism thesis ("machine minds are pluralism's limiting case... only the third-person access channel exists") plus three cross-links. Verified the sentence is the faithful mirror of the dedicated "Pluralism's Limiting Case: Machine Minds" section in `concepts/methodological-pluralism.md` (same refine cycle) — it makes an epistemic/methodological claim, not an evidential-status upgrade; calibration-clean. Engagement with functionalism (only named-opponent reply, unchanged): Mode Two (unsupported foundational move: functional organisation → phenomenal experience) routed to the Dualism tenet — honest framework-boundary marking, no boundary-substitution, no label leakage.
+- **Citation web-verify (§2.4)**: References block unmodified since the 06-02 review; trigger not met for the bibliographic block (cosmetic-body-only change), so the 06-02 per-cite ledger stands (Block 1995, DeWall 2008, Schwitzgebel 2025 arXiv:2510.09858, Metzinger 2021 8(1):43-66, Wheeler 1997, Tulving 1985/2002, Klein 2016, Chalmers 1996 — all real-correct). Superlative sweep: no hits.
+- **Output**: [deep-review-2026-06-19-ai-consciousness-typology](/reviews/deep-review-2026-06-19-ai-consciousness-typology/)
 
 ## 2026-06-19T15:20:09+00:00 - deep-review
 - **Status**: Success
