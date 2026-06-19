@@ -3,7 +3,7 @@ title: "Phenomenal Output and Causal Machinery"
 created: 2026-05-09
 modified: 2026-06-02
 human_modified: null
-ai_modified: 2026-06-12T21:37:42+00:00
+ai_modified: 2026-06-19T10:34:41.633189+00:00
 last_deep_review: 2026-06-05T00:00:00+00:00
 draft: false
 description: "A structural cluster recurring across perception, cognition, agency, and memory in which phenomenal access reaches outputs but not the operations that produce them — one of the catalogue's most developed instances of the cumulative-convergence argument."
@@ -57,6 +57,11 @@ apex_sources:
   - topics/empirical-phenomena-mental-causation
 apex_last_synthesis: 2026-06-02T05:15:12+00:00
 apex_thesis: "Phenomenal access systematically reaches outputs but not the operations that produce them, across perception, cognition, agency, and memory — and the dissociation has a positive companion in which phenomenology couples systematically to causal machinery; the cumulative convergence across five-or-six traditions (with Bergson as a parallel proposer rather than a witness, Carruthers reassigned to the strongest absorption rather than counted as a witness, and Schwitzgebel cited with his scepticism applying both to operations and to outputs) raises the explanatory cost on materialist absorption without by itself defeating the common-cause null. The strongest unified rival — predictive-processing introspection (Hohwy, Clark, Sandved-Smith, Schwengerer) coupled to reality-monitoring access (Lau, Block, Naccache, Carruthers ISA) — absorbs the whole signature; what survives is narrow: it explains why operations are hidden and verdicts available but, on its own architects' admission, not why the verdict is felt — the felt-character half the signature names as the explanandum. Each individual dissociation merely constrains rather than establishes."
+embedded_videos:
+  - id: hofsJGrMCwk
+    url: https://www.youtube-nocookie.com/embed/hofsJGrMCwk
+    embedded: 2026-06-19T10:34:41.633189+00:00
+    source: notebooklm/0077-01-phenomenal-output-causal-machinery-dissociation
 ---
 
 Some cognitive operations leave their outputs in consciousness but hide the operations that produced them. Familiarity arrives without the recollection that should have supplied it; effort feels real without the executive engagement that should have generated it; cardinality is given as a unity without access to whatever enumeration process registered it. The Unfinishable Map calls this the *phenomenal-output / causal-machinery dissociation cluster*: a structural pattern recurring across perception, cognition, agency, and memory, in which phenomenal access reaches the verdict but not the verdict-issuing process, and felt certainty becomes the explanandum rather than the evidence. The cluster is one of the catalogue's most developed worked instances of pressing materialism's "consciousness is just brain activity" toward a unified account of the symmetric two-sided shape the catalogue reveals.
@@ -64,6 +69,12 @@ Some cognitive operations leave their outputs in consciousness but hide the oper
 This synthesis catalogues the cluster's members across three timescales — instant of perception, real-time cognition and agency, across-time memory — and tracks the convergence of independent traditions on the same diagnostic signature (five-or-six traditions on the audited count below). The methodological discipline: each dissociation *constrains* identity readings of phenomenology with its underlying operation; none on its own *establishes* dualism. Evidential weight comes from the cumulative convergence through independent vocabularies, subject to the common-cause caveat (all the traditions analyse human cognition through human introspection) set out below.
 
 The cluster has a positive companion. [[empirical-phenomena-mental-causation|Placebo and choking]] show the same architecture running in the other direction — phenomenology *coupling* to causal machinery in the success cases — with the symmetry constraining what any account must explain.
+
+<details class="yt-embed" data-video-id="hofsJGrMCwk">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/hofsJGrMCwk">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Diagnostic Signature
 
