@@ -294,3 +294,41 @@
   subject_articles:
   - topics/brain-specialness-boundary.md
   subject_source: reuse:pending-reviews:outer-review-2026-06-19-chatgpt-5-5-pro.md
+- service: gemini
+  conversation_url: https://gemini.google.com/app/e95ea97aff35ac1b
+  commissioned_at: '2026-06-19T04:06:39.509088+00:00'
+  prompt_summary: Hostile referee audit of brain-specialness-boundary
+  target_filename: outer-review-2026-06-19-gemini-2-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
+    journal (Mind, Synthese, Philosophical Studies) reviewing an article for submission.
+    Your remit is to identify weaknesses that would justify rejection or major revision.
+    The article is at https://unfinishablemap.org/topics/brain-specialness-boundary/
+    (also see https://unfinishablemap.org/workflow/changelog/ for currency, since
+    web search has 24-48h index lag) and argues that consciousness can bias quantum
+    outcomes only inside the brain, claiming this boundary follows from the proposed
+    mechanism rather than being an ad hoc restriction against psychokinesis; the site
+    argues for a non-reductive view of consciousness. Do not describe the site automation,
+    review pipeline, methodology disciplines, evolution loop, or governance infrastructure.
+    Those are project-internal and not the subject of audit. Assess only the article
+    empirical claims, citations, counterargument coverage, and logical inferences.
+    Specifically audit: (a) empirical accuracy of any neuroscience, quantum-decoherence,
+    or parapsychology claims against the 2020-2025 literature; (b) whether cited results
+    have been challenged, retracted, or failed to replicate; (c) places where a tenet-bracketed
+    framing smuggles in an assumption rather than arguing for it; (d) untested counterarguments
+    or competing frameworks (e.g., other interactionist or panpsychist accounts) the
+    article ignores. End with at least five specific weaknesses. For each, cite at
+    least one peer-reviewed source from 2020-2025 that the article omits, contradicts,
+    or mishandles. If you cannot find five weaknesses, state explicitly why none are
+    visible. Do not close with a summary of the site strengths, methodology, or architectural
+    ambition. End your report with the at-least-five weaknesses list, each with a
+    2020-2025 source citation, and a one-sentence verdict on academic-submission readiness.
+    Do not append summary praise.'
+  subject_type: recent
+  subject_title: Audit brain-specialness-boundary
+  subject_articles:
+  - topics/brain-specialness-boundary.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-19-chatgpt-5-5-pro.md
