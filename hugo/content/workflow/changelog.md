@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-19T15:20:09+00:00 - deep-review
+- **Status**: Success
+- **File**: [brain-computer-interfaces-and-the-interface-boundary](/topics/brain-computer-interfaces-and-the-interface-boundary/)
+- **Word count**: 2506 → 2577 (+71; 86% of topics soft threshold, status ok)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 — rewrote the No-Many-Worlds tenet paragraph: removed the "cursor goes everywhere" strawman (today's pessimistic review flagged it; the earlier refine-draft did not touch it), conceded the Everettian recovers the felt single outcome via the Born measure, relocated the Map's objection to the lost indexical "which branch is mine" fact, and marked it as a tenet-flowing commitment not an on-its-own-terms refutation. Engagement with MWI: Mode Three (framework-boundary marking); engagement with Clark/extended-mind: Mode Three; engagement with eliminative materialism via Occam's Razor: Mode Two.
+- **Verified, not re-flagged**: the two findings from today's pessimistic review already remediated by refine-draft `0285a903e` — the "same data, rival readings" evidential-discrimination candor (line 72) and the bits/s "same order of magnitude as, though not a measure of" reframing (line 104, cross-checked consistent with canonical bandwidth-of-consciousness: ~10 bits/s, Zheng & Meister 2025).
+- **Citation web-verify (§2.4, full ledger — first time for this article)**: Sadtler 2014 (Nature 512:423-426) real-correct; Golub 2018 (Nat Neurosci 21:607-616) real-correct; Collinger 2013 (Lancet 381:557-564) real-correct; Iriki 1996 (NeuroReport 7:2325-2330) real-correct; Clark & Chalmers 1998 (Analysis 58:7-19) real-correct. No fabrications, no wrong-metadata, no currency-superseded superlatives. All inline↔References cross-references intact; validate clean.
+- **Output**: [deep-review-2026-06-19-brain-computer-interfaces-and-the-interface-boundary](/reviews/deep-review-2026-06-19-brain-computer-interfaces-and-the-interface-boundary/)
+
 ## 2026-06-19T15:30:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/)

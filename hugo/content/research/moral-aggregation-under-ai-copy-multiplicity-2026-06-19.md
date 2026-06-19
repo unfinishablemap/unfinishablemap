@@ -11,6 +11,8 @@ title: Research Notes - Moral Aggregation Under AI Copy-Multiplicity
 
 # Research: Moral Aggregation Under AI Copy-Multiplicity
 
+> **Status (2026-06-19): CONSUMED** — integrated as the "Aggregation Under Copy-Multiplicity" section of [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/) (the note's lead-with-a-section verdict; it fit under the topics hard ceiling, so it did not graduate to a standalone article). `check_research_consumed.py` will still report UNCONSUMED because the matcher is slug→filename only and no standalone article carries this slug *by design* — do **not** re-mint an expand-topic for it.
+
 **Date**: 2026-06-19
 **Research question**: If many qualitatively identical instances of one AI model run in parallel, do N identical suffering instances constitute N times the moral disvalue, one, or something in between?
 **Search queries used**:
