@@ -238,3 +238,30 @@
   subject_articles:
   - topics/quantum-state-inheritance-in-ai.md
   subject_source: reuse:pending-reviews:outer-review-2026-06-18-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a34a3bc-0c90-8329-899e-6d7c7a224984
+  commissioned_at: '2026-06-19T02:05:03.158321+00:00'
+  prompt_summary: Audit brain-specialness-boundary
+  target_filename: outer-review-2026-06-19-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Please conduct a rigorous outer review of one article on The Unfinishable\
+    \ Map (https://unfinishablemap.org), a philosophical platform defending a dualist,\
+    \ consciousness-causes-quantum-collapse worldview. Focus on this article: https://unfinishablemap.org/topics/brain-specialness-boundary/\
+    \ \u2014 last substantively revised on 2026-06-11, so search engines have had\
+    \ time to re-index it. The site's recent activity is logged at https://unfinishablemap.org/workflow/changelog/;\
+    \ consult it because web-search indexing lags a day or two. Audit the article's\
+    \ claims, citations, and reasoning. Where is the evidence insufficient or overstated?\
+    \ Which counterarguments to its boundary-drawing are missed or under-engaged?\
+    \ Is its dualist framing protected by convenient bracketing rather than argued\
+    \ for? Are any references stale relative to the live 2020s literature? Check its\
+    \ integration with surrounding articles for coherence and gaps. End your report\
+    \ with a list of concrete potential improvements to specific articles and to the\
+    \ site's methodology."
+  subject_type: recent
+  subject_title: Audit brain-specialness-boundary
+  subject_articles:
+  - topics/brain-specialness-boundary.md
+  subject_source: fallback:recent-aged
