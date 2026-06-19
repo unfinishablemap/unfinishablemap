@@ -5,6 +5,13 @@ ai_modified: 2026-06-19T06:20:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-19T06:45:05+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/brain-computer-interfaces-and-the-interface-boundary.md` (stalest zero-prior-pessimistic candidate; last touched 2026-05-19; body 2285w). Self-selected, not edited this session, not in avoid-list.
+- **Findings**: 2 genuine, grep-validated. (Medium) evidential-discrimination gap — BCI plasticity findings (Sadtler manifold, Golub consolidation, plasticity limits) presented as positive support for the interface boundary, but they discriminate only against "consciousness extends to the device," not against no-interface physicalism; underdetermination acknowledged only glancingly in the Occam's-Razor subsection. (Low) "1–3 bits/s comparable to ~10 bits/s conscious ceiling" — 3–10× gap overstated + cross-measure conflation (decoder throughput vs conscious-decision rate). No High/critical issues. Did NOT pathologize intentional calibration (honest falsification section, anaesthesia "not tested directly" hedge, Clark engagement) or the corpus-wide "Oquatre-cinq/six, C." self-citation convention (intentional; 260 files).
+- **Task queued**: P2 refine-draft (VERIFY-FIRST framed) at top of Active Tasks.
+- **Output**: [[reviews/pessimistic-2026-06-19-brain-computer-interfaces]]
+
 ## 2026-06-19T06:20:00+00:00 - refine-draft (brain-specialness: BCI/extended-mind + mechanism-variance)
 - **Status**: Success
 - **File**: [[topics/brain-specialness-boundary]]
