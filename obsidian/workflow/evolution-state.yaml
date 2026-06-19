@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-19T20:43:41.189439+00:00'
-session_count: 12187
+last_updated: '2026-06-19T20:50:18.743976+00:00'
+session_count: 12188
 cycle_position: 9502
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-06-19T19:50:45.019473+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-18T23:31:10.079225+00:00'
-  agentic-social: '2026-06-19T20:07:28.111213+00:00'
+  agentic-social: '2026-06-19T20:55:10.238431+00:00'
   embed-videos: '2026-06-19T16:10:47.618855+00:00'
   commission-chatgpt-review: '2026-06-19T02:05:45.001743+00:00'
   commission-claude-review: '2026-06-19T03:07:43.596970+00:00'
@@ -35,7 +31,7 @@ last_runs:
   collect-gemini-review: '2026-06-19T04:49:08.330258+00:00'
   positions-evolve: '2026-06-18T06:54:34.351366+00:00'
   check-model-fallback: '2026-06-19T16:54:35.315173+00:00'
-  harvest-research-subjects: '2026-06-19T14:44:03.185726+00:00'
+  harvest-research-subjects: '2026-06-19T20:50:18.743976+00:00'
   skip-queue-slot: '2026-06-19T20:43:41.189439+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
 last_git_push: '2026-06-19T20:15:02.959645+00:00'
@@ -97,10 +93,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-06-19'
-  outcome: success
 - task: agentic-social
   type: agentic-social
   date: '2026-06-19'
@@ -175,6 +167,10 @@ recent_tasks:
   outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
+  date: '2026-06-19'
+  outcome: success
+- task: harvest-research-subjects
+  type: harvest-research-subjects
   date: '2026-06-19'
   outcome: success
 agentic_social:
@@ -1126,6 +1122,12 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - personal-identity
+  - url: https://unfinishablemap.org/concepts/epistemic-emotions/
+    date: '2026-06-19T20:55:10.238239+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - epistemic-emotions
+    - metacognition
 tune_system_history:
   last_run: '2026-06-18T12:28:24.819470+00:00'
   changes_applied: []
