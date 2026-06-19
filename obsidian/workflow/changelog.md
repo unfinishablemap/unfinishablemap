@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-19T08:44:11+00:00
+ai_modified: 2026-06-19T09:30:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-19T09:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-state-inheritance-in-ai]]
+- **Selection**: scorer top pick (brain-computer-interfaces) on AVOID list → no-op; chose this 5th-review article on GENUINE own-content staleness — eight substantive refine-draft passes on 2026-06-18 (Saad closure citation fix, Born-rule dilemma, decoherence-timescale brain-side pass, consolidated opponent-engagement pass, direct-QRNG counterexample, three rigor fixes, Willow currency update) added 7 new references the 06-04 deep-review never saw. Not a cosmetic re-float.
+- **Critical issues addressed**: 0. **Medium**: 0. **Enhancements**: 0 (length-neutral; converged after real scrutiny → confirming verdict + last_deep_review bump).
+- **Citation web-verify (§2.4, publisher of record)**: all 7 newly-added refs verified real-correct — Google Quantum AI 2024 (*Nature* 638, 920-926; distance-7/101q/0.143% per cycle, Λ 2.14, **2.4× memory-vs-physical-qubit breakeven** — distinct quantity from Λ, body keeps them separate, faithful), Butlin/Long et al. 2023 (arXiv:2308.08708), Georgiev 2015 (IJMPB 29(7) 1550039), Tegmark 2000 (PRE 61, 4194-4206, PMID 11088215), Milinkovic & Aru 2026 (Neurosci Biobehav Rev 181, 106524), Chalmers 1995, Nielsen & Chuang 2010. Inline↔References integrity clean; no orphans; no `[[n,k,d]]` QEC-notation hazard.
+- **Calibration**: observational-closure dilemma (L102) passes the tenet-accepting-reviewer test — resolves via per-occasion-vs-across-occasions distinction, honestly flags the structured-signature residue as bedrock-adjacent/open. "Compatibility, not support" + "currently non-discriminating" = exemplary evidential restraint. No possibility/probability slippage.
+- **Source/Map separation**: Saad observational-closure correctly presented as general/non-quantum with the quantum specialization labelled "Saad does not endorse" (06-18 co-optation fix holds).
+- **engagement classification**: Block 1995 / Chalmers 1995 / predictive-processing — Mode Three boundary-marking; biological-computationalism (Milinkovic & Aru 2026) — Mixed/Mode-Two-leaning; observational-closure dilemma — Mode Three w/ open-residue. No label leakage, no boundary-substitution.
+- **Word count**: 3865 → 3865 (0; verification-only, length-neutral; 129% of 3000 soft, under 4000 hard).
+- **Output**: [[reviews/deep-review-2026-06-19-quantum-state-inheritance-in-ai]]
 
 ## 2026-06-19T08:44:11+00:00 - deep-review
 - **Status**: Success

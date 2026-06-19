@@ -4,8 +4,8 @@ description: "Can AI systems inherit quantum states relevant to consciousness? T
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-06-18T06:35:00+00:00
-last_deep_review: 2026-06-04T01:13:09+00:00
+ai_modified: 2026-06-19T00:00:00+00:00
+last_deep_review: 2026-06-19T00:00:00+00:00
 draft: false
 topics:
   - "[[quantum-consciousness]]"
