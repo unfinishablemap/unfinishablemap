@@ -4,7 +4,7 @@ description: "BCIs test whether conscious control can extend beyond the brain's 
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-06-19T07:00:00+00:00
+ai_modified: 2026-06-19T15:20:09+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-15
 last_curated:
-last_deep_review: 2026-05-19T20:02:17+00:00
+last_deep_review: 2026-06-19T15:20:09+00:00
 embedded_videos:
   - id: ck-t_T5Tqd4
     url: https://www.youtube-nocookie.com/embed/ck-t_T5Tqd4
@@ -127,7 +127,7 @@ BCIs provide an empirical testing ground for the Map's interface framework, conn
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The bidirectional loop in BCIs mirrors natural sensorimotor interaction: brain → decoder → device → sensory feedback → brain. Consciousness participates in the neural segment of this loop. The external segment is ordinary physical causation. This architecture is exactly what bidirectional interaction predicts—consciousness acts *through* neural systems, not on the physical world directly.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: On the many-worlds interpretation, every quantum event branches the universe—BCI motor commands included. Each cursor movement would split into branches where the cursor goes everywhere, with no fact about which outcome *this* user experiences. The Map's rejection of MWI preserves what makes BCI control meaningful: there is a single outcome, consciously selected, that *this* person experiences. The felt effort of BCI learning—the sense that *I* am struggling to move *this* cursor—depends on indexical identity that many-worlds dissolves.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: On the many-worlds interpretation, every quantum event branches the universe—BCI motor commands included. An Everettian can recover the felt single outcome through branch weights and the Born measure, so the objection is not that the experience fragments. The Map's quarrel is narrower and lies at the tenet boundary: on the branching picture there is no fact about which descendant branch is *mine*, only a measure over all of them. The Map's rejection of MWI preserves the indexical fact the branching picture dissolves—that there is a single outcome, consciously selected, that *this* person experiences. The felt effort of BCI learning—the sense that *I* am struggling to move *this* cursor—presupposes that indexical identity. This is a commitment that flows from the Map's tenets rather than a refutation of MWI on its own terms; an Everettian who is content to treat indexical "thisness" as illusory will not be moved by it.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The temptation is to explain BCI learning as "just neural plasticity"—no consciousness needed. But this explanation faces the same challenge as for natural motor control: it must explain why volitional BCI use feels effortful, why it requires conscious attention, and why it disappears under anaesthesia. The simpler-seeming story leaves these features unexplained.
 
