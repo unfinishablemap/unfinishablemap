@@ -4,7 +4,7 @@ description: "Fundamental principles connecting conscious experience to physical
 created: 2026-01-16
 modified: 2026-03-27
 human_modified: null
-ai_modified: 2026-05-31T00:00:00+00:00
+ai_modified: 2026-06-19T05:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -202,7 +202,7 @@ A coupling law must specify exclusions—what consciousness cannot select:
 - Events outside attention scope
 - Information beyond bandwidth limit (~10 bits/second)
 
-Selection operates through attention, which is neurally implemented. The brain specialness problem resolves: selection is brain-local because attention is brain-local.
+Selection operates through attention, which is neurally implemented. The brain specialness problem resolves: selection is brain-local because attention is brain-local. The [[brain-specialness-boundary|brain-specialness boundary]] is the scope-restriction application of this coupling law—why the law reaches the subject's own brain but not external systems or other minds.
 
 ## The Decoherence Challenge
 

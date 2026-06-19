@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-19T05:15:00+00:00
+ai_modified: 2026-06-19T05:30:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-19T05:30:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[topics/brain-specialness-boundary]], [[concepts/locality]], [[concepts/psychophysical-laws]]
+- **Trigger**: Multi-file locality / psychophysical-eligibility reconciliation. The 2/3-convergent core is the telepathy non-sequitur in brain-specialness-boundary (both reviewers judged the existing one-clause fold a non-sequitur — it restated the embodiment premise about a new target). Conceptual reconciliation only; NO new citations, no web-verify gate.
+- **Part (c) — telepathy fix (brain-specialness-boundary, line 47)**: REPLACED the existing one-clause fold ("…one the brain-locality argument below rules out for the same reason: another person's brain is no more integrated into your conscious control loop than a random number generator is") with a distinct treatment. New text: another person's brain is *not* "just an external quantum system" like an RNG — it is a genuine neural interface already coupled to *another* subject, so telepathy is not refuted by the unrepresented-target argument; the scope clause excludes it on the distinct *subject-pairing* ground (the coupling law binds one consciousness to one nervous system through its co-adaptive history; a second subject's brain is structurally apt but "already spoken for"; telepathy would need a cross-subject channel the subject-pairing constraint forecloses). Replaced, not bolted on; net +87w (3354→3441), under the ~3450 tighten guideline and well under hard 4000.
+- **Engagement classification (changelog-only per [[direct-refutation-discipline]]; no label leakage in body)**: telepathy / Ganzfeld proponent — **Mode Three (framework-boundary marking)**. The Map does not refute telepathy inside the parapsychologist's framework; it declares that its *own* subject-paired coupling law does not posit a cross-subject channel, and notes the disagreement honestly as a scope exclusion. Prose uses natural-language phrasing ("the scope clause excludes it on a distinct ground", "already spoken for", "a cross-subject channel the subject-pairing constraint specifically forecloses") — no mode label in the body.
+- **Part (a) — locality.md reconciliation note**: ADDED a concise "A reconciliation, not a blank cheque" paragraph after Response 1, installing the bridge principle verbatim ("consciousness is not spatially located, but lawful psychophysical coupling is scoped by a subject-specific neural interface") + cross-link to [[brain-specialness-boundary]]. Guards against reading non-locality as a licence for universal PK. ~137w; 1705→1842, status ok, well under hard 3500.
+- **Part (b) — psychophysical-laws.md back-link**: scope-clause framing was ALREADY present in brain-specialness-boundary (section "A Scope Clause, Not an Ad Hoc Restriction", added earlier this cycle — NOT re-done). The missing piece was the back-link FROM psychophysical-laws.md TO the live [[brain-specialness-boundary]] (the file previously linked only the dated `-2026-01-15` research note). ADDED one minimal line in "What's Not Selectable": "The brain-specialness boundary is the scope-restriction application of this coupling law…". +25w; 3363→3388, under hard 3500.
+- **Not touched**: the Stapp "intended consequences" quote (line 75) untouched; no redo of the reframe / overstated-claims / Born-dilemma / citation work done earlier this cycle. All three wikilink targets resolve; all three files pass validate.py.
+- **Published**: yes
 
 ## 2026-06-19T05:15:00+00:00 - refine-draft
 - **Status**: Success
