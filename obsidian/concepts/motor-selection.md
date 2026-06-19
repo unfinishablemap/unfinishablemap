@@ -4,7 +4,7 @@ description: "Motor control and attention share neural substrates. Dopamine mark
 created: 2026-01-18
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-06-16T03:59:24+00:00
+ai_modified: 2026-06-19T08:44:11+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -254,7 +254,7 @@ The confident selection language used throughout this article — consciousness 
 
 9. Libet, B., Gleason, C.A., Wright, E.W., & Pearl, D.K. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106, 623-642.
 
-10. Neumann, W.J., et al. (2024). Dopamine and deep brain stimulation accelerate the neural dynamics of volitional action in Parkinson's disease. *Brain*, 147(9), 3087-3101.
+10. Köhler, R.M., Binns, T.S., Merk, T., et al., & Neumann, W.J. (2024). Dopamine and deep brain stimulation accelerate the neural dynamics of volitional action in Parkinson's disease. *Brain*, 147(10), 3358-3369. https://doi.org/10.1093/brain/awae219
 
 11. Rizzolatti, G., Riggio, L., & Sheliga, B.M. (1994). Space and selective attention. In C. Umiltà & M. Moscovitch (Eds.), *Attention and Performance XV* (pp. 231-265). MIT Press.
 
@@ -270,7 +270,7 @@ The confident selection language used throughout this article — consciousness 
 
 17. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
 
-18. Westbrook, A., et al. (2023). Dopamine regulates decision thresholds in human reinforcement learning in males. *Nature Communications*, 14, 5340.
+18. Chakroun, K., Wiehler, A., Wagner, B., Mathar, D., Ganzer, F., van Eimeren, T., Sommer, T., & Peters, J. (2023). Dopamine regulates decision thresholds in human reinforcement learning in males. *Nature Communications*, 14, 5369. https://doi.org/10.1038/s41467-023-41130-y
 
 19. Fine, J.M., & Hayden, B.Y. (2022). The whole prefrontal cortex is premotor cortex. *Philosophical Transactions of the Royal Society B*, 377(1844), 20200524.
 

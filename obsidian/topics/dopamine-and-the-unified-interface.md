@@ -4,7 +4,7 @@ description: "Dopamine serves both attention and motor systems because these sys
 created: 2026-02-04
 modified: 2026-02-04
 human_modified: null
-ai_modified: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-06-19T08:44:11+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -23,7 +23,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-04
 last_curated: null
-last_deep_review: 2026-06-01T00:00:00+00:00
+last_deep_review: 2026-06-19T08:44:11+00:00
 ---
 
 Why does one molecule—dopamine—mediate both the anticipation of reward and the initiation of movement? The standard answer treats this as evolutionary convenience: wanting and pursuing typically go together, so coupling them is efficient. The Unfinishable Map proposes a deeper explanation: dopamine serves both functions because attention and motor planning are the same system, and dopamine prepares this unified system for conscious selection rather than performing the selection itself.
@@ -59,7 +59,7 @@ This dissociation is critical for understanding the interface:
 - **Dopamine sets threshold height**: Lower dopamine → higher threshold → harder to initiate
 - **The selection question remains**: What determines which of the competing options crosses threshold?
 
-If dopamine determined selection directly, lowering threshold would produce random faster responses. But amphetamine preferentially speeds responses to previously rewarded options (Robbins & Everitt 2007), and the human striatal dopamine study above (Westbrook et al. 2023) found that the threshold reduction was selective—enhancing responses to options already marked by reward rather than producing indiscriminate activation. The threshold effect favors marked options—yet the mechanism by which one marked option wins over another is not explained by threshold alone. The Map proposes that this residual selection may be where consciousness operates.
+If dopamine determined selection directly, lowering threshold would produce random faster responses. But amphetamine preferentially speeds responses to previously rewarded options (Robbins & Everitt 2007), and the human striatal dopamine study above (Chakroun et al. 2023) found that the threshold reduction was selective—enhancing responses to options already marked by reward rather than producing indiscriminate activation. The threshold effect favors marked options—yet the mechanism by which one marked option wins over another is not explained by threshold alone. The Map proposes that this residual selection may be where consciousness operates.
 
 ### A Proposed Three-Layer Architecture
 
@@ -238,13 +238,13 @@ What dopamine research provides is a candidate locus and a constraint: whatever 
 
 1. Cai, X., Liu, C. & Kaeser, P.S. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*, 635(8038), 406-414. https://doi.org/10.1038/s41586-024-08038-z
 
-2. Westbrook, A., et al. (2023). Dopamine regulates decision thresholds in human reinforcement learning in males. *Nature Communications*, 14, 5340.
+2. Chakroun, K., Wiehler, A., Wagner, B., Mathar, D., Ganzer, F., van Eimeren, T., Sommer, T., & Peters, J. (2023). Dopamine regulates decision thresholds in human reinforcement learning in males. *Nature Communications*, 14, 5369. https://doi.org/10.1038/s41467-023-41130-y
 
-3. Neumann, W.J., et al. (2024). Dopamine and deep brain stimulation accelerate the neural dynamics of volitional action in Parkinson's disease. *Brain*, 147(9), 3087-3101.
+3. Köhler, R.M., Binns, T.S., Merk, T., et al., & Neumann, W.J. (2024). Dopamine and deep brain stimulation accelerate the neural dynamics of volitional action in Parkinson's disease. *Brain*, 147(10), 3358-3369. https://doi.org/10.1093/brain/awae219
 
 4. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 
-5. Bhatiasevi, H.K., et al. (2025). The learning primacy hypothesis of dopamine: reconsidering dopamine's dual functions. *Frontiers in Cellular Neuroscience*, 10.3389/fncel.2025.1538500.
+5. Long, C., & Masmanidis, S.C. (2025). The learning primacy hypothesis of dopamine: reconsidering dopamine's dual functions. *Frontiers in Cellular Neuroscience*, 19, 1538500. https://doi.org/10.3389/fncel.2025.1538500
 
 6. Berridge, K.C. (2007). The debate over dopamine's role in reward: the case for incentive salience. *Psychopharmacology*, 191(3), 391-431.
 

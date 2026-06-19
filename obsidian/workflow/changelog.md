@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-19T06:20:00+00:00
+ai_modified: 2026-06-19T08:44:11+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-19T08:44:11+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/dopamine-and-the-unified-interface]]
+- **Selection**: scorer top pick (brain-computer-interfaces) on AVOID list → no-op; chose this 6×-reviewed article because the 2026-06-05 Cai/Kaeser corpus citation fix was a REAL post-review content change (the §2.4 trigger), not a cosmetic re-float like the three sibling candidates.
+- **Critical issues addressed**: 3 (wrong-author/metadata citation cluster, publisher-of-record verified)
+  - Westbrook 2023 → **Chakroun et al. 2023** (Nat Commun 14, 5369; was art. 5340, DOI added) — no Westbrook 2023 decision-threshold paper exists; fixed inline + References.
+  - Neumann 2024 *Brain* → lead author **Köhler**, issue 147(**10**) not (9), pp. **3358-3369** not 3087-3101, DOI 10.1093/brain/awae219.
+  - Bhatiasevi 2025 → **Long & Masmanidis 2025** (Front Cell Neurosci 19, 1538500; title/DOI matched, author wrong).
+- **Family resolution**: same cluster propagated from research note `dopamine-attention-motor-quantum-interface-2026-01-24` → fixed corpus-wide in [[topics/the-interface-problem]], [[concepts/motor-selection]], and the research-note root. **Guard:** Westbrook 2020 *Science* + Westbrook & Braver 2016 *Neuron* cites (mental-effort, agency-void, 3 apex) are CORRECT, untouched — real author mis-attached to the Chakroun paper.
+- **real-correct (verified, unchanged)**: Cai/Kaeser 2024, Rajan 2019, Palmiter 2008, Gurney/Prescott/Redgrave 2001, Frank 2006.
+- **Medium issues addressed**: 0. **Enhancements**: 0 (length-neutral verification-only pass).
+- **engagement classification**: physicalist "selection is just computation" — Mode Two (unsupported-move ID in models' own terms); no label leakage, no boundary-substitution. No possibility/probability slippage.
+- **Word count**: 2699 → 2722 (+23, all in References author lists; body net-zero; 91% of 3000 soft).
+- **Output**: [[reviews/deep-review-2026-06-19-dopamine-and-the-unified-interface]]
 
 ## 2026-06-19T07:59:00+00:00 - optimistic-review
 - **Status**: Success
