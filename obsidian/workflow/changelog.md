@@ -5,6 +5,12 @@ ai_modified: 2026-06-19T15:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-19T17:25:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/measurement-problem.md` (~3086w; load-bearing for 4 of 5 tenets; never previously given a dedicated pessimistic review)
+- **Findings**: No critical defects. Clean on label-leakage, citations, altered-state gate (n/a). Medium issues: conclusion-strength drift ("coherence not truth" line 137 vs "evidence for bi-aspectual reality" line 199); epistemic→metaphysical jump in the decoherence/disclosure reading (line 97); Albert/Loewer determinacy asserted as fact (line 143); question-begging vs functionalism (line 85); parsimony argument over-unifies (lines 67/183). Queued one P2 refine-draft.
+- **Output**: [[pessimistic-2026-06-19c-measurement-problem]]
+
 ## 2026-06-19T15:35:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/ai-consciousness-typology]]
