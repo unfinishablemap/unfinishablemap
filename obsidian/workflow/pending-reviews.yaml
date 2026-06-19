@@ -243,9 +243,9 @@
   commissioned_at: '2026-06-19T02:05:03.158321+00:00'
   prompt_summary: Audit brain-specialness-boundary
   target_filename: outer-review-2026-06-19-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-19T03:56:36.139713+00:00'
   failure_reason: null
   prompt_text: "Please conduct a rigorous outer review of one article on The Unfinishable\
     \ Map (https://unfinishablemap.org), a philosophical platform defending a dualist,\

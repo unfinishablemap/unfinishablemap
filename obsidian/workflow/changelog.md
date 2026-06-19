@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-19T02:30:00+00:00
+ai_modified: 2026-06-19T04:12:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-19T04:12:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [[reviews/outer-review-2026-06-19-chatgpt-5-5-pro]]
+- **Subject**: topics/brain-specialness-boundary (recent-aged fallback)
+- **Claims verified**: 6 (4 target quotes all present; citation thinness confirmed; Bösch 2006 + Maier 2018 web-verified real)
+- **High-value findings**: reverse-engineering / boundary-substitution (the boundary is partly reverse-engineered, not derived); 4 overstated claims; thin/stale 4-reference bibliography; locality-vs-psychophysical-eligibility coherence gap; under-engaged BCI/extended-mind + telepathy + mechanism-variance counterarguments
+- **Tasks generated**: 6 (P1: 1, P2: 5) — consolidated per [[outer-review-same-file-task-pileup]] (most findings target one article)
+- **Note**: Unusually accurate review; no findings failed verification. Echoes the candor the adjacent brain-interface-boundary page already shows.
 
 ## 2026-06-19T02:30:00+00:00 - deep-review
 - **Status**: Success (confirming pass — converged)

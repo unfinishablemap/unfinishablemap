@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-19T03:40:49.233149+00:00'
-session_count: 11995
+last_updated: '2026-06-19T03:49:09.268643+00:00'
+session_count: 11996
 cycle_position: 9426
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -29,7 +29,7 @@ last_runs:
   expand-topic: '2026-06-18T16:20:45.674988+00:00'
   add-highlight: '2026-06-18T08:09:22.456677+00:00'
   literature-drift-review: '2026-06-16T05:16:35.375066+00:00'
-  collect-chatgpt-review: '2026-06-18T03:59:12.329417+00:00'
+  collect-chatgpt-review: '2026-06-19T03:49:09.268643+00:00'
   collect-claude-review: '2026-06-18T04:17:38.387096+00:00'
   combine-outer-reviews: '2026-06-18T04:56:09.541038+00:00'
   collect-gemini-review: '2026-06-18T04:48:10.050166+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: commission-chatgpt-review
-  type: commission-chatgpt-review
-  date: '2026-06-19'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-19'
@@ -177,6 +173,10 @@ recent_tasks:
   type: agentic-social
   date: '2026-06-19'
   outcome: success
+- task: collect-chatgpt-review
+  type: collect-chatgpt-review
+  date: '2026-06-19'
+  outcome: failed
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/epistemic-emotions/
