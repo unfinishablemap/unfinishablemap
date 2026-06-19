@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-19T14:44:45.079849+00:00'
-session_count: 12116
-cycle_position: 9473
+last_updated: '2026-06-19T14:55:50.381880+00:00'
+session_count: 12117
+cycle_position: 9474
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-19T12:00:50.449798+00:00'
@@ -17,13 +13,13 @@ last_runs:
   coalesce: '2026-06-19T14:30:10.580941+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-18T23:31:10.079225+00:00'
-  agentic-social: '2026-06-19T14:10:41.427885+00:00'
+  agentic-social: '2026-06-19T14:58:27.779217+00:00'
   embed-videos: '2026-06-19T10:35:33.277057+00:00'
   commission-chatgpt-review: '2026-06-19T02:05:45.001743+00:00'
   commission-claude-review: '2026-06-19T03:07:43.596970+00:00'
   commission-gemini-review: '2026-06-19T04:07:37.836771+00:00'
   refine-draft: '2026-06-19T13:48:11.692747+00:00'
-  research-topic: '2026-06-18T10:08:29.298830+00:00'
+  research-topic: '2026-06-19T14:55:50.381880+00:00'
   replenish-queue: '2026-06-19T14:44:45.079849+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-18T16:20:45.674988+00:00'
@@ -87,7 +83,7 @@ progress:
   questions_written: 0
   voids_written: 101
   positions_written: 4
-  research_notes: 403
+  research_notes: 404
   reviews_completed: 5453
   apex_articles: 35
 quality:
@@ -97,10 +93,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-19'
-  outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
   date: '2026-06-19'
@@ -175,6 +167,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-19'
+  outcome: success
+- task: research-topic
+  type: research-topic
   date: '2026-06-19'
   outcome: success
 agentic_social:
@@ -1110,6 +1106,11 @@ agentic_social:
     topics:
     - ai-consciousness
     - machine-consciousness
+  - url: https://unfinishablemap.org/topics/cetacean-and-corvid-consciousness/
+    date: '2026-06-19T14:58:27.779005+00:00'
+    topics:
+    - animal-consciousness
+    - hard-problem-of-consciousness
 tune_system_history:
   last_run: '2026-06-18T12:28:24.819470+00:00'
   changes_applied: []
@@ -1131,12 +1132,12 @@ queue_status:
   loop_pickable_open: 1
   last_replenishment: '2026-06-19T14:44:38+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.407 (2026-06-19): honest no-op. 1 loop-pickable
-    P2 (research-topic moral-aggregation-under-ai-copy-multiplicity) just minted by
-    harvest-research-subjects and queued — picked next queue slot. Replenish own sources
-    still exhausted (no chains, gap analysis drained); harvester is the active research-minting
-    source. The 2 other active P2 headers are #veto flagship condense tasks. Handled
-    inline.'
+  current_replenishment_note: "run no.407 (2026-06-19): honest no-op. 1 loop-pickable\
+    \ P2 (research-topic moral-aggregation-under-ai-copy-multiplicity) just minted\
+    \ by harvest-research-subjects and queued \u2014 picked next queue slot. Replenish\
+    \ own sources still exhausted (no chains, gap analysis drained); harvester is\
+    \ the active research-minting source. The 2 other active P2 headers are #veto\
+    \ flagship condense tasks. Handled inline."
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
