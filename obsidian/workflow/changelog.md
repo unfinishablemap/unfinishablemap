@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-19T20:26:10+00:00
+ai_modified: 2026-06-19T20:40:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-19T20:40:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Open individualism and the de-combination problem
+- **Output**: [[research/open-individualism-and-the-de-combination-problem-2026-06-19]]
+- **Sources consulted**: 13 (all publisher-of-record / PhilPapers / SEP verified)
+- **Assess-first**: dedicated page JUSTIFIED as a focused bridge/disambiguation article (open individualism = identity thesis; de-combination = cosmopsychism grounding problem). Pieces exist scattered across ~10 articles but neither idea is centred. Metadata corrections: Nagasawa & Wager title is "Panpsychism and Priority Cosmopsychism" (NOT the brief's "Defending Existential Consciousness"); Shani & Keppler 2018 JAPA distinct from Shani 2015 Phil Papers.
 
 ## 2026-06-19T20:26:10+00:00 - deep-review
 - **Status**: Success
