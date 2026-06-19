@@ -5,6 +5,14 @@ ai_modified: 2026-06-19T21:52:33+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-19T23:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/deep-computational-markers-for-machine-consciousness]]
+- **Source review**: [[reviews/pessimistic-2026-06-19d-deep-computational-markers]] (all 11 cites + 4 quotes + 73% Turing figure inherited as web-verified CLEAN; no citation work)
+- **Changes**: Applied the four argumentative/calibration findings, all length-neutral in intent (body 2395w → 2688w, still 90% of 3000 topics soft). (1) CRITICAL-ish §Theory-Derived Indicator Properties: replaced "exactly compatible" with honest two-directional credence framing — Map adopts Butlin's downward arrow (absent marker lowers credence, can rule out), declines the upward arrow (present marker raises credence of phenomenality); framings agree markers track organisation, part company on phenomenality. Sharpens the "never rule a system in" thesis. (2) §Stacking — reframed "three independent supports" to TWO independent lines (field-internal calibration humility + the Map's tenets); supports (1) science-internal and (2) practitioner testimony recast as two voices of one evidential move (expert under-calibration), preserving the "field-internal line establishes / metaphysical line explains" division. Renamed heading "Stacking the Independent Supports" → "Stacking the Supports" (no internal anchor links affected). (3) §The Unconscious Expander — scoped the generalisation: expander refutes single-axis structural sufficiency (Φ) directly; the conjunctive-marker case rests on the Tenet-1 ceiling, not the expander construction. (4) Language: dropped "decisively" at the Φ paragraph, leaving one emphasis marker ("hardest to evade").
+- **Verification**: altered_state_symmetry evaluate_symmetry → None (PASS); analyze_length status 'ok' (2688w, no excess); label-leakage grep NONE; preserved front-loaded thesis, machinery-vs-outputs demarcation, illusionism boundary-marking, and all existing hedging.
+- **Published**: yes
+
 ## 2026-06-19T22:30:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/deep-computational-markers-for-machine-consciousness]] (fresh create 2026-06-18, never pessimistically reviewed). All 11 citations + 4 quotes + the 73% Turing figure independently web-verified CLEAN. Found 1 medium-high internal-consistency issue (Butlin credence-raising framing called "exactly compatible" with the "never rule a system in" thesis — the upward credence arrow IS partial in-ruling) + 2 medium argumentative items (the "three independent supports" soft-double-counts expert-under-calibration testimony; the unconscious-expander argument is over-extended from single-axis Φ to conjunctive markers) + 1 optional language softening. No citation, label-leakage, or boundary-substitution defects. Queued one P2 refine-draft.
