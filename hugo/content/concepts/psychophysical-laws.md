@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-05-31 00:00:00+00:00
+ai_modified: 2026-06-19 05:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -205,7 +205,7 @@ A coupling law must specify exclusions—what consciousness cannot select:
 - Events outside attention scope
 - Information beyond bandwidth limit (~10 bits/second)
 
-Selection operates through attention, which is neurally implemented. The brain specialness problem resolves: selection is brain-local because attention is brain-local.
+Selection operates through attention, which is neurally implemented. The brain specialness problem resolves: selection is brain-local because attention is brain-local. The [brain-specialness boundary](/topics/brain-specialness-boundary/) is the scope-restriction application of this coupling law—why the law reaches the subject's own brain but not external systems or other minds.
 
 ## The Decoherence Challenge
 

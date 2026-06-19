@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-03
-ai_modified: 2026-06-17 00:00:00+00:00
+ai_modified: 2026-06-19 05:42:22+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -91,6 +91,7 @@ The Map is governed by a stack of explicit disciplines that constrain how conten
 - [mqi-empirical-fragility](/project/mqi-empirical-fragility/) - Where the Minimal Quantum Interaction tenet's physics gap could narrow, and what survives
 - [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) - Safeguards against systematic overcommitment
 - [calibration-audit-triple](/project/calibration-audit-triple/) - Three corpus-level drift audits (literature-drift, altered-state symmetry, topic-concept anchoring)
+- [quantum-claim-and-quotation-disciplines](/project/quantum-claim-and-quotation-disciplines/) - Mechanism-variance audit for quantum-consciousness claims; quote-string-fidelity check distinct from metadata verification; disconfirming-source-inclusion rule (2026-06-19 brain-specialness triple)
 
 Two citation-integrity conventions, recorded from the 2026-06-07 outer-review cycle that found a shared empirical study summarized inconsistently across articles and an inline cite missing from a References list:
 

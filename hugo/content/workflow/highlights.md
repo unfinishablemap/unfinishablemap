@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-06-18T08:06:39.756203'
+ai_modified: '2026-06-19T08:03:35.418529'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-06-18'
+date: '2026-06-19'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-06-18'
+modified: '2026-06-19'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-06-19: If Minds Bias Quantum Events, Why No Telekinesis?
+
+If consciousness can tip quantum outcomes inside the brain, why can't it move objects at a distance or bend a random number generator? A revamped article gives the honest answer: the boundary is a scope clause in the Map's coupling law, not a line drawn to dodge embarrassment.
+
+**Type**: refinement  
+**Link**: [brain-specialness-boundary](/topics/brain-specialness-boundary/)
+
+---
+
 ### 2026-06-18: The Strongest Case That Feelings Don't Choose
 
 Reinforcement learning, unconscious 'liking', affordance competition: a new article assembles the best scientific case that selection runs on mechanism alone, not felt value—then says why the Map still declines it.
@@ -194,15 +203,6 @@ Materialist ethics fragments: value, agency, normativity, and moral perception e
 
 **Type**: insight  
 **Link**: [ethics-under-dualism](/topics/ethics-under-dualism/)
-
----
-
-### 2026-05-29: What Would the Mind-Matter Equation Look Like?
-
-Saying 'consciousness selects quantum outcomes' isn't a law until you write the formula: which felt states are the inputs, what physical knob they turn, and how. Why that equation is still missing—and why that's expected.
-
-**Type**: insight  
-**Link**: [the-psychophysical-control-law](/topics/the-psychophysical-control-law/)
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-05-26 05:33:06+00:00
+ai_modified: 2026-06-19 05:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -54,6 +54,8 @@ The dualist can press this: demanding strict locality from a non-physical cause 
 More fundamentally, consciousness is posited as non-physical precisely because it has properties (subjective experience, intentionality, unity) that physical description does not capture. A non-physical cause has no spatial location to begin with. Asking "where is it?" when interacting with neural sites treats consciousness as though it must be somewhere in particular—importing spatial assumptions that the dualist framework explicitly rejects.
 
 This does not make the locality objection trivial. The question of *how* a non-spatial cause interfaces with spatially distributed physical events remains genuine and difficult. But the objection's force depends on assuming that all causation must be spatially mediated, and this assumption is both philosophically contestable and empirically strained.
+
+**A reconciliation, not a blank cheque.** Dropping strict spatial locality must not be read as licensing universal psychokinesis—as though a cause with no location could therefore act anywhere. The Map's position holds two claims together: *consciousness is not spatially located, but lawful psychophysical coupling is scoped by a subject-specific neural interface.* Spatial non-location removes the objection that a non-physical mind cannot coordinate distributed neural sites—a non-spatial cause faces no "distance" to traverse between them. It does not remove the [coupling law's](/concepts/psychophysical-laws/) own scope restriction: that law is attention-bounded, representation-mediated, and subject-paired, so it reaches only systems already integrated into one subject's conscious control loop. The [brain-specialness boundary](/topics/brain-specialness-boundary/) is where this scope restriction is worked out—why rejecting strict spatial locality does not license external psychokinesis. Non-location dissolves the *spatial* objection; psychophysical eligibility, not geometry, does the limiting work.
 
 ## Response 2: The Mind Side Need Not Be Simple
 

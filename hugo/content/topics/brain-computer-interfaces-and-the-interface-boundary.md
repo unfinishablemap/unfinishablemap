@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-05-19 20:02:17+00:00
+ai_modified: 2026-06-19 07:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -71,6 +71,8 @@ Golub et al. (2018) showed that BCI learning follows the same consolidation traj
 
 This matters for the Map's framework. Consciousness isn't reaching into the computer. Consciousness is doing what it always does—[selecting among competing neural patterns](/concepts/consciousness-selecting-neural-patterns/) through the [attention-motor selection interface](/topics/attention-and-the-consciousness-interface/)—and the computer happens to be reading those patterns and acting on them. The interface boundary hasn't moved. The decoder has been placed *inside* the boundary, reading signals that consciousness was already producing.
 
+These plasticity findings carry a precise—and limited—evidential load, and it is worth separating the two claims they support. The epistemic claim is that BCI *adaptation is neural*: learning happens within existing cortical architecture, not in the device. That claim the manifold and consolidation data establish, and it rules out the rival hypothesis that consciousness extends into the computer. The further, metaphysical claim—that *consciousness selects within that neural locus*—is not carried by the same data. A no-interface physicalist, on which the cortex computes the patterns and the decoder reads them with no consciousness selecting anything, predicts the intrinsic manifold, the overnight consolidation, and the limits on plasticity exactly as the Map does. On these particular findings the two readings are the same data under rival interpretation; the plasticity evidence is neutral between them. The discriminating work is done elsewhere—by the hard-problem-of-effort argument developed below (why volitional BCI use feels effortful, requires attention, and degrades when consciousness withdraws)—not by the manifold or consolidation results themselves.
+
 ## The Sensory Feedback Loop
 
 BCI control requires sensory feedback. Without it, performance degrades catastrophically. Remove visual feedback from a cursor-control BCI, and accuracy drops to near chance. This is not incidental—it reveals something about the architecture of conscious control.
@@ -101,7 +103,7 @@ Three observations temper this challenge:
 
 **First, BCI learning repurposes existing architecture.** Users don't build new interface sites. They redirect motor planning circuits that evolution and development already constructed. The cortical columns that encode BCI commands are the same ones that would encode arm movements in an uninjured person. The developmental integration happened over a lifetime; BCI training redirects its output.
 
-**Second, the quality of BCI control is far below natural motor control.** BrainGate users achieve cursor control with information transfer rates of roughly 1-3 bits per second—comparable to the [conscious processing bottleneck](/topics/bandwidth-of-consciousness/) (approximately 10 bits/second) but far below natural motor bandwidth. The rough, effortful quality of BCI control resembles what the Map would predict when consciousness operates through a partially adapted interface rather than a fully integrated one.
+**Second, the quality of BCI control is far below natural motor control.** BrainGate users achieve cursor control with information transfer rates of roughly 1-3 bits per second—the same order of magnitude as, though not a measure of, the [conscious-decision ceiling](/topics/bandwidth-of-consciousness/) (approximately 10 bits/second), and far below natural motor bandwidth. The two figures count different things: the BCI rate is decoder-output throughput, limited by electrode count, noise, and the decoder, whereas the conscious-decision ceiling is the rate at which consciousness makes selections. The comparison is suggestive of the order of magnitude consciousness works at, not an equation of the two. The rough, effortful quality of BCI control resembles what the Map would predict when consciousness operates through a partially adapted interface rather than a fully integrated one.
 
 **Third, plasticity has limits.** Sadtler's intrinsic manifold constraint shows the brain cannot learn arbitrary mappings. BCI learning is constrained by existing neural connectivity—by the developmental architecture that the brain specialness boundary predicts should matter. If the interface were freely extensible, these constraints would not exist.
 
