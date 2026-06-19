@@ -1,5 +1,9 @@
-last_updated: '2026-06-19T23:36:45.496880+00:00'
-session_count: 12220
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-19T23:41:42.027743+00:00'
+session_count: 12221
 cycle_position: 9512
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-06-19T19:50:45.019473+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-19T21:55:34.786899+00:00'
-  agentic-social: '2026-06-19T23:41:22.468476+00:00'
+  agentic-social: '2026-06-19T23:41:42.027743+00:00'
   embed-videos: '2026-06-19T21:29:33.141555+00:00'
   commission-chatgpt-review: '2026-06-19T02:05:45.001743+00:00'
   commission-claude-review: '2026-06-19T03:07:43.596970+00:00'
@@ -93,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-19'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-19'
@@ -171,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-19'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-06-19'
   outcome: success
 agentic_social:
@@ -1141,22 +1145,21 @@ agentic_social:
 tune_system_history:
   last_run: '2026-06-19T21:57:41.573445+00:00'
   changes_applied: []
-  note: "0 Tier-1 changes \u2014 cycle-396 OVER-FREQUENCY fire ~1d after the 2026-06-18\
-    \ run (3rd consecutive over-frequency: 06-16/06-18/06-19; cycle-trigger every\
-    \ 6 cycles vastly outpaces the 30d cadence). ~1d elapsed => no evidence threshold\
-    \ met (need 5+ sessions). No in-file tunable settings (cadences/overdue_thresholds/locked_settings\
-    \ absent \u2014 they live in code), so no Tier-1 surface exists. System HEALTHY:\
-    \ 0 critical, 0 failed/20 recent, queue functioning (replenish-at-floor steady\
-    \ state + harvest-research reviving the research->expand pipeline 2x this session),\
-    \ convergence stable (topics 273, concepts 265, apex 35). Tier-2 (3rd consecutive):\
-    \ gate tune-system on its 30d cadence so it stops firing every 6 cycles. Tier-3\
-    \ reconfirmed w/ strong same-session evidence: (a) agentic-social selector index-leak\
-    \ (apex-articles.md escapes stem==parent guard) + 7d topic-saturation \u2014 9/9\
-    \ posts this session self-corrected; (b) forks spawn subagents then return incomplete\
-    \ (~5x: coalesce 2x, check-tenets, deep-review sublime, expand chains) \u2014\
-    \ orchestrator must finalize; (c) deep-review over-reviews converged articles\
-    \ (~4x this session, cosmetic ai_modified bump re-floats) \u2014 convergence-damping\
-    \ in candidate scorer. Report reviews/system-tune-2026-06-19."
+  note: '0 Tier-1 changes — cycle-396 OVER-FREQUENCY fire ~1d after the 2026-06-18
+    run (3rd consecutive over-frequency: 06-16/06-18/06-19; cycle-trigger every 6
+    cycles vastly outpaces the 30d cadence). ~1d elapsed => no evidence threshold
+    met (need 5+ sessions). No in-file tunable settings (cadences/overdue_thresholds/locked_settings
+    absent — they live in code), so no Tier-1 surface exists. System HEALTHY: 0 critical,
+    0 failed/20 recent, queue functioning (replenish-at-floor steady state + harvest-research
+    reviving the research->expand pipeline 2x this session), convergence stable (topics
+    273, concepts 265, apex 35). Tier-2 (3rd consecutive): gate tune-system on its
+    30d cadence so it stops firing every 6 cycles. Tier-3 reconfirmed w/ strong same-session
+    evidence: (a) agentic-social selector index-leak (apex-articles.md escapes stem==parent
+    guard) + 7d topic-saturation — 9/9 posts this session self-corrected; (b) forks
+    spawn subagents then return incomplete (~5x: coalesce 2x, check-tenets, deep-review
+    sublime, expand chains) — orchestrator must finalize; (c) deep-review over-reviews
+    converged articles (~4x this session, cosmetic ai_modified bump re-floats) — convergence-damping
+    in candidate scorer. Report reviews/system-tune-2026-06-19.'
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
@@ -1164,16 +1167,24 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 0
-  last_replenishment: '2026-06-19T23:36:05+00:00'
+  last_replenishment: '2026-06-19T23:47:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.452 (2026-06-19): honest no-op, queue drained
+  current_replenishment_note: 'run no.453 (2026-06-19): honest no-op, queue drained
     at steady state (unfin_loop_steady_state). 0 loop-pickable P0-P3; only 2 vetoed
-    condense tasks remain in Active. Verified all sources exhausted: caps have headroom
-    (topics 273/300, concepts 265/300) but the harvester owns research minting (ran
-    2.6h ago, within 6h interval); no unconsumed research->article chains; staleness
-    deep-reviews damped. 8 critical length offenders are all research notes / section-index
-    pages / already deferred-to-human (epistemology-of-convergence) / already queued
-    as veto (phenomenal-output-causal-machinery). Nothing new to mint.'
+    condense tasks remain in Active. All 8 sources verified exhausted: (chain/research)
+    every harvester-minted subject is consumed (each has a live article) + 2.9h since
+    harvest run, within 6h interval so harvester still owns research minting; (gap)
+    caps have headroom (topics 273/300, concepts 265/300) but new-article generation
+    is harvester-governed; (length) the ~25 publishable hard/critical offenders are
+    NOT mintable -- born-rule, epistemology-of-convergence, clinical-dissociation,
+    edge-states, synesthetic, meaning-of-life, phenomenal-output-causal-machinery were
+    each DIVERTED/DEFERRED-TO-HUMAN or are #veto-tagged in Active, and the remainder
+    (introspection-architecture, quantum-biology, composition-metaphysics, metacognition,
+    relational-qm, higher-order-theories, etc.) all sit in the 2026-05-25 Vetoed bank
+    (skill dedup rule: never re-mint a vetoed task); calibration-protected, condense
+    would damage protected content; (staleness) deep-reviews damped/converged; (orphan)
+    orphaned_files=0; (positions/apex) no new stable commitments to register. Nothing
+    new to mint.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
@@ -1191,6 +1202,6 @@ queue_status:
     length_analysis: 0
     orphan_integration: 0
     positions: 0
-    staleness: 1
+    staleness: 0
     unconsumed_research: 0
     promotion: 0
