@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-19T04:12:00+00:00
+ai_modified: 2026-06-19T04:30:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-19T04:30:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8 (Research; Fable 5 unavailable, ran on Opus)
+- **File**: [[reviews/outer-review-2026-06-19-claude-opus-4-8]]
+- **Subject**: topics/brain-specialness-boundary (same subject as today's ChatGPT leg; cross-reviewer convergence)
+- **Claims verified**: 10 (all 9 target-quote strings present verbatim — no fabricated quotes; Stapp misquote net-new finding web-verified: genuine wording is "projected consequences of choosing to act" from "Quantum Theory of Mind", not "intended consequences" / Mindful Universe 2007)
+- **High-value findings**: mechanism-based boundary non-principled + non-discriminating (constrain-vs-establish gate); four "converging" considerations are one embodiment premise restated (coherence inflation); Born-rule/statistical-indistinguishability dilemma; Bösch 2006 + Georgiev 2015 Zeno no-go omitted — all CONVERGENT with the ChatGPT leg and already tasked. NET-NEW: Stapp misquote (wrong wording + wrong source/year) and Stapp co-optation (non-substance-dualist mechanism enrolled for a substance-dualist conclusion).
+- **Tasks generated**: 1 (P2) — net-new findings only; convergent findings NOT re-queued (already covered by the 6 ChatGPT tasks; [[outer-review-same-file-task-pileup]])
+- **Note**: Exceptionally well-grounded adversarial review — every quoted string verified against the live article, no [[outer-review-fabricates-target-quotes]] failures. Strong convergence with ChatGPT 5.5 Pro on the structural reverse-engineering critique.
 
 ## 2026-06-19T04:12:00+00:00 - outer-review
 - **Status**: Success

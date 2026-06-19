@@ -270,9 +270,9 @@
   commissioned_at: '2026-06-19T03:06:59.806434+00:00'
   prompt_summary: Audit brain-specialness-boundary (claude opus-4-8)
   target_filename: outer-review-2026-06-19-claude-opus-4-8.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-19T04:10:35.439980+00:00'
   failure_reason: null
   prompt_text: 'Act as a hostile but fair external referee auditing one article on
     The Unfinishable Map (https://unfinishablemap.org), an interactionist-dualist
