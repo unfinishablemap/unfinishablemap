@@ -5,6 +5,16 @@ ai_modified: 2026-06-19T05:42:22+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-19T06:00:00+00:00 - refine-draft (brain-specialness: Stapp misquote + co-optation)
+- **Status**: Success
+- **File**: [[topics/brain-specialness-boundary]]
+- **Trigger**: two net-new Claude-leg findings from the 2026-06-19 outer-review triple ([[reviews/outer-review-synthesis-2026-06-19]]); the 5 sibling brain-specialness findings (reframe, overstated-claims, citations, locality/telepathy, methodology) were already remediated earlier this cycle and were NOT redone.
+- **(1) Stapp misquote — HARD web-verify gate, State (a) applied.** Independent publisher-of-record verification: fetched Stapp's *Quantum Theory of Mind* PDF at newdualism.org/papers/H.Stapp/Stapp-QTM.pdf and pdftotext-extracted the verbatim passage: "prior to the choice to act there must be a representation in the brain of the **projected** consequences **of choosing to act**, in order for the ego to bring its values to bear on the choice that it makes." The Claude review's correction is confirmed against the source itself, not taken on its word ([[barrett-2021-eight-vs-six-propagated]], [[citation-verify false negative]]). The article's prior quote ("…representation in the brain of the **intended** consequences", attributed to Stapp 2007 / *Mindful Universe*) was wrong in BOTH wording and source. Before: `"Prior to the choice to act there must be a representation in the brain of the intended consequences" (Stapp, 2007)`. After: `"prior to the choice to act there must be a representation in the brain of the projected consequences of choosing to act" (Stapp, *Quantum Theory of Mind*)`. References: replaced the now-unused `Stapp, H.P. (2007). *Mindful Universe*…` entry (it supported only this quote; no other body reliance) with `Stapp, H.P. *Quantum Theory of Mind.* newdualism.org/papers/H.Stapp/Stapp-QTM.pdf.` (no year — the QTM PDF carries no front-matter date; matches the existing year-less Donald URL entry, no fabricated metadata).
+- **(2) Stapp co-optation gap (conceptual, no web-verify).** Added ONE sentence to the Interface Locality section noting the Process-1/Zeno mechanism is borrowed across a metaphysical boundary Stapp does not share — his "quantum interactive dualism" is a von Neumann process ontology (mental and physical condition each other within one framework), not the Map's substance dualism (Tenet 1). Natural prose, no editor-vocabulary; honest mechanism-borrowing acknowledgment, not a refutation of Stapp.
+- **Length**: analyze_length (body-stripped) = 3511w, status soft_warning (soft 3000 / hard 4000) — well under hard. Quote fix near-neutral; co-optation note ~70w. Skipped the OPTIONAL Beck & Eccles colour (no room, per task constraint).
+- **Original score**: n/a (targeted two-finding refine, not a full review pass)
+- **Published**: yes (draft: false)
+
 ## 2026-06-19T05:42:00+00:00 - refine-draft (project-doc / methodology synthesis)
 - **Status**: Success
 - **File**: [[project/quantum-claim-and-quotation-disciplines]] (new, body 1757w / project hard ceiling 3500w, status ok)

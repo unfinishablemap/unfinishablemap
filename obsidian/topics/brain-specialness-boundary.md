@@ -4,7 +4,7 @@ description: "If consciousness biases quantum outcomes in the brain, why can't i
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-06-19T05:30:00+00:00
+ai_modified: 2026-06-19T06:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -60,7 +60,7 @@ Four considerations spell out the same scope clause: consciousness may only be a
 
 Consciousness can only influence quantum outcomes within neural systems that are spatially local to the brain and already integrated into the subject's conscious control loop. (For the broader philosophical treatment of [[locality|locality]] in mind-matter interaction, see the dedicated article.)
 
-[[stapp-quantum-mind|Stapp's Process 1]]—the observer posing questions to nature—operates on the observer's own brain state representation. The [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno mechanism]] requires repeated observation to hold quantum states stable. You can only observe, in the quantum mechanical sense, systems you're physically connected to.
+[[stapp-quantum-mind|Stapp's Process 1]]—the observer posing questions to nature—operates on the observer's own brain state representation. The [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno mechanism]] requires repeated observation to hold quantum states stable. You can only observe, in the quantum mechanical sense, systems you're physically connected to. The mechanism is borrowed here across a metaphysical boundary Stapp himself does not draw: his own "quantum interactive dualism" is a von Neumann process ontology in which the mental and physical condition each other within one quantum framework, not the substance dualism of the Map's [[tenets#^dualism|first tenet]], and the Map takes his Process-1 machinery while parting company with him on whether mind and matter are two separable substances.
 
 A distant random number generator isn't connected to your brain. You have no neural pathway to it and no representation of its quantum state prior to the outcome. The qualifier matters: many RNG and brain-computer-interface experiments *do* supply sensory feedback—a display showing the output, an audible tone, a moving cursor. So the defensible claim is not "no feedback exists" but that such feedback is feedback to a conscious representation of an *already-measured* output. It is not pre-collapse access to the target quantum alternative, which is what the Zeno mechanism would require. The mechanism that may work for motor cortex neurons—repeated attentional observation stabilising desired patterns before selection—appears to have no analogue for external systems whose alternatives are never neurally represented before collapse.
 
@@ -72,7 +72,7 @@ The quantum Zeno mechanism requires that consciousness see the alternatives befo
 
 External random events appear to have no such representation. When a radioactive atom decays, your brain has no advance representation of "decay now" versus "decay later." When an RNG generates a bit, your brain doesn't model the quantum superposition before collapse. Without representation of alternatives, there may be nothing for consciousness to select among.
 
-Stapp emphasises this requirement: "Prior to the choice to act there must be a representation in the brain of the intended consequences" (Stapp, 2007). This representation exists for motor actions. It doesn't exist for arbitrary external quantum events.
+Stapp emphasises this requirement: "prior to the choice to act there must be a representation in the brain of the projected consequences of choosing to act" (Stapp, *Quantum Theory of Mind*). This representation exists for motor actions. It doesn't exist for arbitrary external quantum events.
 
 ### Developmental Integration
 
@@ -191,5 +191,5 @@ None of these has occurred. The current framework remains consistent with availa
 1. Maier, M.A., Dechamps, M.C., & Pflitsch, M. (2018). Intentional observer effects on quantum randomness: A Bayesian analysis reveals evidence against micro-psychokinesis. *Frontiers in Psychology*, 9, 379.
 1. Nelson, R.D., et al. (2002). Correlations of continuous random data with major world events. *Foundations of Physics Letters*, 15(6), 537-550.
 1. Park, R.L. (2000). *Voodoo Science*. Oxford University Press. (Historical popular-science skepticism on PEAR; superseded as the quantitative case by the meta-analyses above.)
-1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Stapp, H.P. *Quantum Theory of Mind.* newdualism.org/papers/H.Stapp/Stapp-QTM.pdf.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
