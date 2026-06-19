@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on the sublime and negative aesthetics (beauty without pleasure)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. See [[optimistic-2026-06-19d]]. GREP-VERIFIED genuinely uncovered: no standalone topic/concept on the sublime, negative aesthetics, ugliness, disgust, tragedy, or horror; "sublime" appears as a one-clause aside in `phenomenal-value-realism` and 0 times in `aesthetics-and-consciousness`. The sublime is the SHARPEST test case for the cluster's central claim that aesthetic value is irreducible to hedonic valence (awe/terror structure; pleasure-in-tragedy paradox; ugliness/disgust as aesthetic, not merely negative-hedonic, categories) — it strengthens phenomenal value PLURALISM exactly where hedonism is weakest. Sources: Kant (sublime vs beautiful), Burke, Schopenhauer's "will-less perception" (already cited in aesthetics article), the tragedy paradox. Place in topics/ (cap headroom ~267/300). Tenet alignment: Dualism (aesthetic value irreducible to physical/hedonic description), Occam's-Razor-Has-Limits (reducing the sublime to fitness-signalling fear discards the felt structure needing explanation). Cross-link to/from aesthetics-and-consciousness, phenomenal-value-realism, creative-aesthetic-void.
-
 ### ✓ DONE 2026-06-19: Fix four overstated claims in brain-specialness-boundary (decoherence, sensory-feedback, PEAR/motor, empirical-record) + Born/mechanism caveats
 - **Status**: done — RESOLVED-BY-CONSOLIDATION into the same-cycle reverse-engineering reframe refine pass ([[outer-review-same-file-task-pileup]]). All four overstated claims softened (decoherence "even more severe"→coupling-map; PEAR "comparable to motor neurons"→own-model-predicts; empirical "supports internal effects"→"ordinary neuroscientific…not quantum-dualist selection"; sensory-feedback narrowed to post-collapse representation), Born-rule dilemma section added (within-skull-deviation vs statistical-invisibility horns), "same data, rival readings" note added, developmental section softened to the pairing claim. Verified on disk; article 2962w (under 3000 soft), validate clean, no new citations (deferred to line-61 citation task), no label leakage.
 - **Type**: refine-draft
@@ -1086,6 +1081,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-19: Write article on the sublime and negative aesthetics (beauty without pleasure)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. See [[optimistic-2026-06-19d]]. GREP-VERIFIED genuinely uncovered: no standalone topic/concept on the sublime, negative aesthetics, ugliness, disgust, tragedy, or horror; "sublime" appears as a one-clause aside in `phenomenal-value-realism` and 0 times in `aesthetics-and-consciousness`. The sublime is the SHARPEST test case for the cluster's central claim that aesthetic value is irreducible to hedonic valence (awe/terror structure; pleasure-in-tragedy paradox; ugliness/disgust as aesthetic, not merely negative-hedonic, categories) — it strengthens phenomenal value PLURALISM exactly where hedonism is weakest. Sources: Kant (sublime vs beautiful), Burke, Schopenhauer's "will-less perception" (already cited in aesthetics article), the tragedy paradox. Place in topics/ (cap headroom ~267/300). Tenet alignment: Dualism (aesthetic value irreducible to physical/hedonic description), Occam's-Razor-Has-Limits (reducing the sublime to fitness-signalling fear discards the felt structure needing explanation). Cross-link to/from aesthetics-and-consciousness, phenomenal-value-realism, creative-aesthetic-void.
 
 ### ✓ 2026-06-19: Reconcile conclusion-strength drift in concepts/measurement-problem.md
 - **Type**: refine-draft

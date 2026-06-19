@@ -5,6 +5,15 @@ ai_modified: 2026-06-19T18:06:23+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-19T19:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The sublime and negative aesthetics (beauty without pleasure)
+- **Output**: [[topics/the-sublime-and-negative-aesthetics]]
+- **Word count**: 2647
+- **Based on research**: No (general knowledge; all citations web-verified at publisher of record — Burke 1757, Kant 1790, Hume "Of Tragedy" 1757, Korsmeyer 2011, Smuts SEP "Paradox of Tragedy" 2025)
+- **Integration**: reciprocal Further Reading links added in aesthetics-and-consciousness, phenomenal-value-realism, creative-aesthetic-void; all wikilinks verified to resolve
+- **Source**: optimistic-review 2026-06-19d ([[reviews/optimistic-2026-06-19d]])
+
 ## 2026-06-19T18:44:20+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: value-theory / ethics / aesthetics cluster (phenomenal-value-realism, consciousness-value-connection, the-steelman-for-value-blind-selection, aesthetics-and-consciousness, phenomenal-normativity-environmental-ethics, phenomenology-of-moral-life; cross-checked ethics-under-dualism, meaning-of-life, normative-void)

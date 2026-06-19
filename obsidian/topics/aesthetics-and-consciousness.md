@@ -4,7 +4,7 @@ description: "Aesthetic experience—simultaneously qualitative, evaluative, hol
 created: 2026-01-22
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-06-18T00:49:05+00:00
+ai_modified: 2026-06-19T00:00:00+00:00
 draft: false
 last_deep_review: 2026-06-08T07:48:11+00:00
 topics:
@@ -149,6 +149,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 ## Further Reading
 
 - [[creative-aesthetic-void]] — Where articulation fails at beauty and sublimity
+- [[the-sublime-and-negative-aesthetics]] — The sublime, tragedy, ugliness, and disgust as the sharpest test that aesthetic value is irreducible to hedonic pleasure
 - [[topics/phenomenal-value-realism]] — Value as intrinsic to experience
 - [[phenomenology-of-moral-life]] — Parallel analysis for moral value
 - [[the-binding-problem]] — The five standard varieties of phenomenal binding

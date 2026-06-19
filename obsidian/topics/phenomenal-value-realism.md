@@ -4,7 +4,7 @@ description: "Why value lives in conscious experience—not in preferences, soci
 created: 2026-02-02
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-06-02T22:36:20+00:00
+ai_modified: 2026-06-19T00:00:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -261,6 +261,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 - [[topics/free-will]] — Agency as intrinsically valuable phenomenal experience
 - [[contemplative-practice-as-philosophical-evidence]] — What contemplative practice reveals about value and consciousness
 - [[aesthetics-and-consciousness]] — Why aesthetic value resists hedonistic reduction
+- [[the-sublime-and-negative-aesthetics]] — The sublime, tragedy, and disgust as the sharpest case for phenomenal value pluralism over hedonism
 - [[emotion-and-dualism]] — Valence as the felt quality of emotions
 - [[pain-consciousness-and-causal-power]] — Why pain's phenomenal character is inseparable from its causal and evaluative role
 - [[haecceity]] — Why *this* experience matters, not just experience-of-this-type

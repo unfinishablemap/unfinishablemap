@@ -4,7 +4,7 @@ description: "Consciousness cannot generate genuinely novel phenomenal content, 
 created: 2026-02-02
 modified: 2026-04-24
 human_modified:
-ai_modified: 2026-05-31T19:29:31+00:00
+ai_modified: 2026-06-19T00:00:00+00:00
 draft: false
 last_deep_review: 2026-05-31T19:29:31+00:00
 topics:
@@ -184,6 +184,7 @@ The creative-aesthetic void connects to the Map's [[tenets|foundational commitme
 - [[thought-stream-void]] — The same generative opacity pervading ordinary mentation
 - [[creative-consciousness]] — The generation-selection synthesis
 - [[aesthetics-and-consciousness]] — Why beauty pervades conscious experience and resists physical reduction
+- [[the-sublime-and-negative-aesthetics]] — The sublime as a value dimension (awe-with-terror), complementing the sublime-as-cognitive-limit treatment here
 - [[affective-void]] — Emotions beyond human reach
 - [[conceptual-impossibility]] — The experience of encountering formally unthinkable content
 - [[synesthetic-void]] — Phenomenal dimensions closed to most minds

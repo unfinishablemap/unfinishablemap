@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-06-18 00:49:05+00:00
+ai_modified: 2026-06-19 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -153,6 +153,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 ## Further Reading
 
 - [creative-aesthetic-void](/voids/creative-aesthetic-void/) — Where articulation fails at beauty and sublimity
+- [the-sublime-and-negative-aesthetics](/topics/the-sublime-and-negative-aesthetics/) — The sublime, tragedy, ugliness, and disgust as the sharpest test that aesthetic value is irreducible to hedonic pleasure
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as intrinsic to experience
 - [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — Parallel analysis for moral value
 - [the-binding-problem](/topics/the-binding-problem/) — The five standard varieties of phenomenal binding

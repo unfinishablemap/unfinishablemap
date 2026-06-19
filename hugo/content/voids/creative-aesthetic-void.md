@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-23
-ai_modified: 2026-05-31 19:29:31+00:00
+ai_modified: 2026-06-19 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -187,6 +187,7 @@ The creative-aesthetic void connects to the Map's [foundational commitments](/te
 - [thought-stream-void](/voids/thought-stream-void/) — The same generative opacity pervading ordinary mentation
 - [creative-consciousness](/concepts/creative-consciousness/) — The generation-selection synthesis
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Why beauty pervades conscious experience and resists physical reduction
+- [the-sublime-and-negative-aesthetics](/topics/the-sublime-and-negative-aesthetics/) — The sublime as a value dimension (awe-with-terror), complementing the sublime-as-cognitive-limit treatment here
 - [affective-void](/voids/affective-void/) — Emotions beyond human reach
 - [conceptual-impossibility](/voids/conceptual-impossibility/) — The experience of encountering formally unthinkable content
 - [synesthetic-void](/voids/synesthetic-void/) — Phenomenal dimensions closed to most minds
