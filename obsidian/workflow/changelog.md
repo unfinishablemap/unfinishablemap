@@ -5,6 +5,16 @@ ai_modified: 2026-06-19T04:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-19T04:56:02+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-19
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-5-pro, claude-opus-4-8, gemini-2-5-pro) — all auditing topics/brain-specialness-boundary
+- **Clusters**: 5 convergent (1 reaching all 3 reviewers: Georgiev no-go omission; 4 at chatgpt+claude: reverse-engineering/constrain-vs-establish, Born-rule dilemma, telepathy-as-non-sequitur, methodology disciplines), 4 singleton (Stapp misquote+co-optation [claude], BCI/mechanism-variance matrix [chatgpt], Keppler ZPF [gemini]), 0 divergent
+- **Tasks upgraded**: 4 (P2→P1: line-54 Born caveats, line-61 citations/Georgiev, line-68 locality/telepathy, line-82 methodology). Line-47 reverse-engineering already P1 (cannot upgrade further) — annotated convergent.
+- **Tasks deduplicated**: 0 — the 3-reviewer triple audited one file, so the collect legs already consolidated to 7 tasks (1 P1 + 6 P2) per [[outer-review-same-file-task-pileup]]; no per-reviewer duplicates existed to merge. No new headers minted.
+- **Fabrication note**: Gemini leg ~70% fabricated ([[outer-review-fabricates-target-quotes]] at scale — hallucinated a referee report of a different, longer manuscript). NO fabricated Gemini content inflated convergence: only its grep-verified-real Georgiev/Donald omission counted (converging with the other two), and that finding stands on the chatgpt+claude votes regardless. Keppler ZPF kept as a gemini singleton.
+- **Output**: [[reviews/outer-review-synthesis-2026-06-19]]
+
 ## 2026-06-19T04:55:00+00:00 - outer-review
 - **Status**: Success (collected + processed; HEAVY FABRICATION)
 - **Reviewer**: Gemini 2.5 Pro (Deep Research)
