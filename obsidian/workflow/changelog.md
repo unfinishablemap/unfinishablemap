@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-19T00:55:07+00:00
+ai_modified: 2026-06-19T02:30:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-19T02:30:00+00:00 - deep-review
+- **Status**: Success (confirming pass — converged)
+- **File**: [[topics/psychedelics-and-the-filter-model]]
+- **Word count**: 3424 → 3424 (-1, date fix; rounds to 0)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Low issues addressed**: 1 (malformed date "May 2026-05-11" → "2026-05-11" in quantum appendix)
+- **Selection note**: Scorer surfaced it (score 15) on a cosmetic `ai_modified` bump — the only change since the 2026-06-03 review was one refine-draft sentence sharpening REBUS source/Map separation (commit 57d79702e), verified sound. [[apex-last-synthesis-drift-artifact]] pattern; scrutiny scoped to the change + recurring claustrum/receptor cite cluster + currency + date sweep. No body re-litigated.
+- **Verified**: REBUS framing sentence (sound, keep); claustrum/receptor cites still publisher-correct from 06-03 fixes; `find_superlative_claims` empty (no currency-drift exposure); calibration *coheres with*/*evidences* spine intact; Letheby engagement Mode Two→Three clean, no label leakage.
+- **Engagement** (editor-internal): Letheby — Mixed (Mode Two foundational-move identification → Mode Three boundary-marking); symmetric filter-theory debt correctly prevents discharge into refutation. Unchanged from 06-03.
+- **Output**: [[reviews/deep-review-2026-06-19-psychedelics-and-the-filter-model]]
 
 ## 2026-06-19T01:55:00+00:00 - optimistic-review
 - **Status**: Success
