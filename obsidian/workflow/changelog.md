@@ -5,6 +5,13 @@ ai_modified: 2026-06-19T11:20:20+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-19 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/contextual-selection-in-quantum-foundations.md` (AI-100, oldest unreviewed quantum-foundations concept, last deep-review 2026-05-19)
+- **Findings**: Citations & physics facts CLEAN — all 5 refs web-verified (Kochen-Specker 1967, Bell 1966 RMP 38:447-452, Spekkens 2005 PRA 71:052108, Peres 1991 JPhysA 24:L175, Mermin 1993 RMP 65:803), Peres-Mermin "nine observables/4-dimensional" claim correct, no QEC/wikilink collision, all 8 cross-links resolve. Real weaknesses are argumentative: (1) MEDIUM formal-vs-operational equivocation on post-decoherence contextuality — "The Map's position is that it does [have operational consequence]" asserted then conceded open ([[evidential-status-discipline]]); (2) LOW-MEDIUM unargued attribution of K-S-sense contextuality to Orch OR. Both grep-VERIFIED present. Did NOT pathologize the (deliberate, correct) hedging/framework-boundary marking.
+- **Tasks queued**: 1 VERIFY-FIRST P2 refine-draft (Issues 1+2)
+- **Output**: [[reviews/pessimistic-2026-06-19b-contextual-selection-in-quantum-foundations]]
+
 ## 2026-06-19T11:20:20+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/responsibility-gradient-from-attentional-capacity]]
