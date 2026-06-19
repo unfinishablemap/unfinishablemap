@@ -4,7 +4,7 @@ description: "Quantum contextuality means measurement outcomes depend on what el
 created: 2026-03-29
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-06-19T12:15:00+00:00
+ai_modified: 2026-06-19T13:05:00+00:00
 draft: false
 topics:
   - "[[quantum-measurement-and-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-29
 last_curated:
-last_deep_review: 2026-05-19T07:03:12+00:00
+last_deep_review: 2026-06-19T13:05:00+00:00
 ---
 
 Contextual selection is the principle that quantum measurement outcomes cannot be assigned independently of the broader measurement context. The Kochen-Specker theorem (1967) proves that no assignment of definite values to all observables can be both consistent and context-independent—what result obtains for a given observable depends on which other observables are measured alongside it. The theorem's direct target is non-contextual hidden-variable theories, not consciousness. But its implications extend to any account of how definite outcomes arise from quantum systems, including The Unfinishable Map's [[interactionist-dualism|interactionist framework]]: if [[consciousness-selecting-neural-patterns|consciousness selects among quantum outcomes]], that selection process is subject to the same contextual constraints as any other outcome-determining process. The act of selection and the context in which it occurs are inseparable.
