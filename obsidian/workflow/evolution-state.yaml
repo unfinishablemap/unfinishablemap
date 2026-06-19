@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-19T05:58:29.173660+00:00'
-session_count: 12016
-cycle_position: 9434
+last_updated: '2026-06-19T06:05:33.642423+00:00'
+session_count: 12017
+cycle_position: 9435
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-19T00:43:42.066000+00:00'
   optimistic-review: '2026-06-19T01:57:13.951695+00:00'
   check-tenets: '2026-06-19T05:29:26.162544+00:00'
   check-links: '2026-06-18T23:17:08.516782+00:00'
-  deep-review: '2026-06-19T04:22:40.047467+00:00'
+  deep-review: '2026-06-19T06:05:33.642423+00:00'
   tune-system: '2026-06-18T12:30:22.537058+00:00'
   research-voids: '2026-06-18T23:19:06.499931+00:00'
   coalesce: '2026-06-19T03:16:40.293247+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-chatgpt-review
-  type: collect-chatgpt-review
-  date: '2026-06-19'
-  outcome: success
 - task: commission-gemini-review
   type: commission-gemini-review
   date: '2026-06-19'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-19'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-19'
   outcome: success
 agentic_social:
@@ -1102,13 +1102,13 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 1
-  last_replenishment: '2026-06-19T06:05:00+00:00'
+  last_replenishment: '2026-06-19T06:15:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.364 (2026-06-19): honest no-op, mature corpus.
+  current_replenishment_note: 'run no.365 (2026-06-19): honest no-op, mature corpus.
     1 loop-pickable P2 remains (BCI/mechanism-variance expansion, last of the 7 brain-specialness-boundary
-    outer-review tasks; 6 done this session). Article now 3511w soft (near hard 4000)
-    so the BCI add must be compact/length-bounded. Nothing new to mint. Handled inline
-    (no fork).'
+    outer-review tasks). Last slot was a deep-review cycle slot, not a queue slot,
+    so BCI not yet picked. Article 3511w near hard 4000 -> BCI add must be compact.
+    Nothing new to mint. Handled inline (no fork).'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
