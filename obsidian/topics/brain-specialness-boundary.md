@@ -4,7 +4,7 @@ description: "If consciousness biases quantum outcomes in the brain, why can't i
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-06-19T06:00:00+00:00
+ai_modified: 2026-06-19T06:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -90,6 +90,10 @@ But attention has scope. You can attend to your motor planning, your perceptual 
 
 On this account, the scope of attention plausibly defines the scope of influence. Consciousness could then only bias outcomes in systems it can attend to—which would mean systems neurally represented to it. External quantum events would fall outside this scope.
 
+### Brain-Computer Interfaces and the Extended Mind
+
+A trained brain-computer interface looks like a counterexample: a paralysed user moves a cursor or robotic limb by intention alone, and tool-incorporation research shows the device becoming part of the body schema. Does the interface then extend past the skull? The scope clause distinguishes two claims. Classical control of an external device through neural *outputs*—efferent signals decoded into commands that drive a prosthetic, cursor, or even an RNG-gated switch—requires no quantum-selection claim at all; it rides the same motor pathways the coupling law already governs, and the selection happens inside the brain before the signal leaves it. Direct psychophysical *selection of quantum outcomes inside the external device*—what external psychokinesis would require—is a different claim entirely, and the BCI supplies no evidence for it. Interoceptive body-loops and tool incorporation are real, but they extend the body *representation*, not the quantum-selection interface: the device is classically coupled to neural output, never attention-bounded, representation-mediated, and subject-paired *to the device's own quantum alternatives*. So a BCI does not enlarge the direct interface; it instruments an interface that still terminates at the brain.
+
 ## What This Means for Parapsychology
 
 The Map's framework makes no prediction about external psychokinesis because the mechanism doesn't extend there. This isn't dismissal through assumption; it's what the framework actually implies.
@@ -106,6 +110,10 @@ The Map takes a position of principled agnosticism. It doesn't claim to disprove
 This is a coherence claim, not an evidential upgrade. The mechanism's brain-locality makes the null result *unsurprising*; it does not turn the null result into positive confirmation of the mechanism. The framework would remain compatible with the parapsychological record even if its specific Zeno-based account were wrong, because brain-local selection is a generic feature of any embodied interactionism. The locality prediction earns no extra credibility from the tenets themselves—only the freedom from having to explain away robust external effects that were never reliably found.
 
 If external PK were eventually demonstrated reliably, the Map would need to explain it—perhaps through mechanism extension, perhaps through novel physics. But the current evidence aligns with the framework's prediction of brain-local selection only.
+
+### The Boundary Survives a Change of Mechanism
+
+The brain-locality boundary does not depend on which candidate selection mechanism the Map ultimately adopts. Post-decoherence outcome-selection (the site's strongest current route per the [[tenets]]), [[stapp-quantum-mind|Stapp/Zeno stabilization]], a Process-1 / context-selection account, and delegatory or authority-selection variants differ sharply in how and where selection happens—yet each routes selection through the subject-specific coupling law, not through the mechanism's own intrinsic locality. The boundary is a property of *what the coupling law admits*, not of the physics any one mechanism invokes; a non-local-looking mechanism would still select only within systems the coupling law pairs to the subject. Treating the boundary as mechanism-portable is itself a discipline the Map applies (the Mechanism-Variance Audit in [[quantum-claim-and-quotation-disciplines]]); the Process-1-versus-Zeno-versus-post-decoherence distinctions are developed in [[stapp-quantum-mind]] and [[attention-as-interface]] rather than here.
 
 ### Same Data, Rival Readings
 

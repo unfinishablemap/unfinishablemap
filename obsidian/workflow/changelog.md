@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-19T05:42:22+00:00
+ai_modified: 2026-06-19T06:20:00+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-19T06:20:00+00:00 - refine-draft (brain-specialness: BCI/extended-mind + mechanism-variance)
+- **Status**: Success
+- **File**: [[topics/brain-specialness-boundary]]
+- **Trigger**: the LAST two under-engaged counterarguments from the 2026-06-19 outer-review triple ([[reviews/outer-review-synthesis-2026-06-19]]). The other 6 brain-specialness findings (5 sibling reframe/overstatement/citations/locality/methodology + the Stapp misquote/co-optation pair logged at 06:00) were already remediated this cycle and were NOT redone.
+- **(1) BCI / extended-mind engagement (conceptual, no web-verify).** Added a compact subsection "Brain-Computer Interfaces and the Extended Mind" under Attention Scope, completing the four-considerations scope-clause block. Distinguishes classical control of an external device via neural *outputs* (efferent signals → prosthetic/cursor/RNG-gated switch; selection happens inside the brain, no quantum-selection claim) from direct psychophysical *selection of quantum outcomes inside the external device* (what external PK needs; the BCI supplies no evidence for it). Resolves tool-incorporation / interoceptive body-loops via the coupling-law criteria already established this cycle (attention-bounded, representation-mediated, subject-paired): a trained BCI is classically coupled to neural output, never paired to the device's own quantum alternatives, so it extends the body *representation* not the quantum-selection interface. Used the in-body scope-clause reframe — did NOT soften title/slug (task constraint; URL/SEO/inbound-link preservation).
+- **(2) Mechanism-variance (conceptual, no web-verify).** Added ONE compact textual subsection "The Boundary Survives a Change of Mechanism" (no table/matrix — budget-tight): the brain-locality boundary holds across post-decoherence outcome-selection (strongest current route per tenets), Stapp/Zeno stabilization, Process-1/context-selection, and delegatory/authority-selection, because each routes selection through the subject-specific coupling law, not the mechanism's own locality. Points to the Mechanism-Variance Audit in [[project/quantum-claim-and-quotation-disciplines]] and to [[stapp-quantum-mind]] / [[attention-as-interface]] for the Process-1-vs-Zeno-vs-post-decoherence distinction rather than expanding it here.
+- **Framing**: [[evidential-status-discipline]] respected (structural conjecture, not result); BCI engagement shades into opponent-engagement and uses natural-prose [[direct-refutation-discipline]] framing with no editor-vocabulary in body. No new citations.
+- **New wikilinks added**: [[stapp-quantum-mind]], [[attention-as-interface]], [[quantum-claim-and-quotation-disciplines]] — all three confirmed to resolve before linking.
+- **Length**: analyze_length (body-stripped) = 3828w, status soft_warning (soft 3000 / hard 4000) — under hard, under the ~3850 stop-guidance. Two additions = +317w (3511 → 3828), within the ≤330w gate.
+- **Title/slug**: UNCHANGED. Stapp "projected consequences" quote: untouched.
+- **Original score**: n/a (targeted two-finding refine, not a full review pass)
+- **Published**: yes (draft: false)
 
 ## 2026-06-19T06:00:00+00:00 - refine-draft (brain-specialness: Stapp misquote + co-optation)
 - **Status**: Success
