@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Adopt idealism calibration in open-individualism-and-the-de-combination-problem
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/open-individualism-and-the-de-combination-problem.md
-- **Notes**: From topic-concept anchoring audit 2026-06-19. The topic article over-claims relative to its anchor concept [[idealism]]; failed checks: hedge_density, underdetermination_markers.
-  - hedge density 2.83/kw is below 3.00/kw (target = 60% of anchor 5.15/kw, capped at 3.0/kw)
-  - anchor declares underdetermination (1× explicit) but topic has no underdetermination markers
-  - Action: bring the topic's hedge profile in line with the anchor concept's. Preserve the article's voice; this is not a request to weaken the central claim, only to inherit the calibration discipline the anchor concept already uses. See [[project/calibration-audit-triple]] Audit Three for the spec and [[evidential-status-discipline]] for the underlying rule.
-- **Source**: topic-concept-anchoring-audit
-- **Generated**: 2026-06-19
-
-
 ### ✓ DONE 2026-06-19: Fix four overstated claims in brain-specialness-boundary (decoherence, sensory-feedback, PEAR/motor, empirical-record) + Born/mechanism caveats
 - **Status**: done — RESOLVED-BY-CONSOLIDATION into the same-cycle reverse-engineering reframe refine pass ([[outer-review-same-file-task-pileup]]). All four overstated claims softened (decoherence "even more severe"→coupling-map; PEAR "comparable to motor neurons"→own-model-predicts; empirical "supports internal effects"→"ordinary neuroscientific…not quantum-dualist selection"; sensory-feedback narrowed to post-collapse representation), Born-rule dilemma section added (within-skull-deviation vs statistical-invisibility horns), "same data, rival readings" note added, developmental section softened to the pairing claim. Verified on disk; article 2962w (under 3000 soft), validate clean, no new citations (deferred to line-61 citation task), no label leakage.
 - **Type**: refine-draft
@@ -1093,6 +1081,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-19: Adopt idealism calibration in open-individualism-and-the-de-combination-problem
+- **Type**: refine-draft
+- **Notes**: From topic-concept anchoring audit 2026-06-19. The topic article over-claims relative to its anchor concept [[idealism]]; failed checks: hedge_density, underdetermination_markers.
 
 ### ✓ 2026-06-19: Write a bridge/disambiguation article on open individualism and the de-combination problem
 - **Type**: expand-topic
