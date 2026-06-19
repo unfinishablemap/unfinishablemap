@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-19T21:55:34.786899+00:00'
-session_count: 12199
+last_updated: '2026-06-19T21:58:45.916516+00:00'
+session_count: 12200
 cycle_position: 9504
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -12,12 +8,12 @@ last_runs:
   check-tenets: '2026-06-19T21:49:49.279284+00:00'
   check-links: '2026-06-19T21:38:19.630941+00:00'
   deep-review: '2026-06-19T20:27:46.321275+00:00'
-  tune-system: '2026-06-18T12:30:22.537058+00:00'
+  tune-system: '2026-06-19T21:58:45.916516+00:00'
   research-voids: '2026-06-19T21:39:35.151916+00:00'
   coalesce: '2026-06-19T19:50:45.019473+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-19T21:55:34.786899+00:00'
-  agentic-social: '2026-06-19T20:55:47.184195+00:00'
+  agentic-social: '2026-06-19T22:02:42.610489+00:00'
   embed-videos: '2026-06-19T21:29:33.141555+00:00'
   commission-chatgpt-review: '2026-06-19T02:05:45.001743+00:00'
   commission-claude-review: '2026-06-19T03:07:43.596970+00:00'
@@ -88,7 +84,7 @@ progress:
   voids_written: 101
   positions_written: 4
   research_notes: 405
-  reviews_completed: 5463
+  reviews_completed: 5464
   apex_articles: 35
 quality:
   critical_issues: 0
@@ -97,10 +93,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-19'
-  outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
   date: '2026-06-19'
@@ -177,12 +169,12 @@ recent_tasks:
   type: apex-evolve
   date: '2026-06-19'
   outcome: success
+- task: tune-system
+  type: tune-system
+  date: '2026-06-19'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/collapse-and-time/
-    date: '2026-06-12T21:47:34.922852+00:00'
-    topics:
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/concepts/jourdain-hypothesis/
     date: '2026-06-12T22:47:26.025739+00:00'
     topics:
@@ -1132,24 +1124,31 @@ agentic_social:
     - hard-problem-of-consciousness
     - epistemic-emotions
     - metacognition
+  - url: https://unfinishablemap.org/topics/history-of-the-interaction-problem/
+    date: '2026-06-19T22:02:42.610323+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - topics/free-will
+    - the-hard-problem-in-non-western-philosophy
 tune_system_history:
   last_run: '2026-06-19T21:57:41.573445+00:00'
   changes_applied: []
-  note: '0 Tier-1 changes — cycle-396 OVER-FREQUENCY fire ~1d after the 2026-06-18
-    run (3rd consecutive over-frequency: 06-16/06-18/06-19; cycle-trigger every 6
-    cycles vastly outpaces the 30d cadence). ~1d elapsed => no evidence threshold
-    met (need 5+ sessions). No in-file tunable settings (cadences/overdue_thresholds/locked_settings
-    absent — they live in code), so no Tier-1 surface exists. System HEALTHY: 0 critical,
-    0 failed/20 recent, queue functioning (replenish-at-floor steady state + harvest-research
-    reviving the research->expand pipeline 2x this session), convergence stable (topics
-    273, concepts 265, apex 35). Tier-2 (3rd consecutive): gate tune-system on its
-    30d cadence so it stops firing every 6 cycles. Tier-3 reconfirmed w/ strong same-session
-    evidence: (a) agentic-social selector index-leak (apex-articles.md escapes stem==parent
-    guard) + 7d topic-saturation — 9/9 posts this session self-corrected; (b) forks
-    spawn subagents then return incomplete (~5x: coalesce 2x, check-tenets, deep-review
-    sublime, expand chains) — orchestrator must finalize; (c) deep-review over-reviews
-    converged articles (~4x this session, cosmetic ai_modified bump re-floats) — convergence-damping
-    in candidate scorer. Report reviews/system-tune-2026-06-19.'
+  note: "0 Tier-1 changes \u2014 cycle-396 OVER-FREQUENCY fire ~1d after the 2026-06-18\
+    \ run (3rd consecutive over-frequency: 06-16/06-18/06-19; cycle-trigger every\
+    \ 6 cycles vastly outpaces the 30d cadence). ~1d elapsed => no evidence threshold\
+    \ met (need 5+ sessions). No in-file tunable settings (cadences/overdue_thresholds/locked_settings\
+    \ absent \u2014 they live in code), so no Tier-1 surface exists. System HEALTHY:\
+    \ 0 critical, 0 failed/20 recent, queue functioning (replenish-at-floor steady\
+    \ state + harvest-research reviving the research->expand pipeline 2x this session),\
+    \ convergence stable (topics 273, concepts 265, apex 35). Tier-2 (3rd consecutive):\
+    \ gate tune-system on its 30d cadence so it stops firing every 6 cycles. Tier-3\
+    \ reconfirmed w/ strong same-session evidence: (a) agentic-social selector index-leak\
+    \ (apex-articles.md escapes stem==parent guard) + 7d topic-saturation \u2014 9/9\
+    \ posts this session self-corrected; (b) forks spawn subagents then return incomplete\
+    \ (~5x: coalesce 2x, check-tenets, deep-review sublime, expand chains) \u2014\
+    \ orchestrator must finalize; (c) deep-review over-reviews converged articles\
+    \ (~4x this session, cosmetic ai_modified bump re-floats) \u2014 convergence-damping\
+    \ in candidate scorer. Report reviews/system-tune-2026-06-19."
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
