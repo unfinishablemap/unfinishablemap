@@ -1,9 +1,5 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-06-19T17:27:52.136897+00:00'
-session_count: 12148
+last_updated: '2026-06-19T17:28:34.193207+00:00'
+session_count: 12149
 cycle_position: 9486
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -17,14 +13,14 @@ last_runs:
   coalesce: '2026-06-19T14:30:10.580941+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-18T23:31:10.079225+00:00'
-  agentic-social: '2026-06-19T16:44:25.659151+00:00'
+  agentic-social: '2026-06-19T17:34:36.132658+00:00'
   embed-videos: '2026-06-19T16:10:47.618855+00:00'
   commission-chatgpt-review: '2026-06-19T02:05:45.001743+00:00'
   commission-claude-review: '2026-06-19T03:07:43.596970+00:00'
   commission-gemini-review: '2026-06-19T04:07:37.836771+00:00'
   refine-draft: '2026-06-19T15:12:36.790040+00:00'
   research-topic: '2026-06-19T14:55:50.381880+00:00'
-  replenish-queue: '2026-06-19T17:18:17.369044+00:00'
+  replenish-queue: '2026-06-19T17:28:34.193207+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-18T16:20:45.674988+00:00'
   add-highlight: '2026-06-19T08:04:55.248074+00:00'
@@ -97,10 +93,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: replenish-queue
-  type: replenish-queue
-  date: '2026-06-19'
-  outcome: success
 - task: skip-queue-slot
   type: skip-queue-slot
   date: '2026-06-19'
@@ -177,13 +169,12 @@ recent_tasks:
   type: pessimistic-review
   date: '2026-06-19'
   outcome: success
+- task: replenish-queue
+  type: replenish-queue
+  date: '2026-06-19'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/intrinsic-nature/
-    date: '2026-06-12T16:47:09.453691+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - dualism
   - url: https://unfinishablemap.org/concepts/higher-order-theories/
     date: '2026-06-12T17:47:28.102268+00:00'
     topics:
@@ -1126,6 +1117,11 @@ agentic_social:
     - hard-problem-of-consciousness
     - decoherence
     - interactionist-dualism
+  - url: https://unfinishablemap.org/concepts/metaphysics-of-information-under-dualism/
+    date: '2026-06-19T17:34:36.132475+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - consciousness-and-the-physics-of-information
 tune_system_history:
   last_run: '2026-06-18T12:28:24.819470+00:00'
   changes_applied: []
@@ -1147,11 +1143,11 @@ queue_status:
   loop_pickable_open: 1
   last_replenishment: '2026-06-19T17:28:27+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.422 (2026-06-19): honest no-op. 1 loop-pickable
-    P2 (reconcile conclusion-strength drift in concepts/measurement-problem, queued
-    by pessimistic-review 2026-06-19c) — picked next queue slot. Replenish own sources
-    still exhausted (no chains, gap analysis drained); the 2 #veto flagship condense
-    tasks remain human-blocked. Handled inline.'
+  current_replenishment_note: "run no.422 (2026-06-19): honest no-op. 1 loop-pickable\
+    \ P2 (reconcile conclusion-strength drift in concepts/measurement-problem, queued\
+    \ by pessimistic-review 2026-06-19c) \u2014 picked next queue slot. Replenish\
+    \ own sources still exhausted (no chains, gap analysis drained); the 2 #veto flagship\
+    \ condense tasks remain human-blocked. Handled inline."
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
