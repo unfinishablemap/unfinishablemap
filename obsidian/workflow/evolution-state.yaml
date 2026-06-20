@@ -1,5 +1,9 @@
-last_updated: '2026-06-20T00:26:54.948354+00:00'
-session_count: 12230
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-06-20T00:31:19.621474+00:00'
+session_count: 12231
 cycle_position: 9516
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -13,14 +17,14 @@ last_runs:
   coalesce: '2026-06-19T19:50:45.019473+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-06-19T21:55:34.786899+00:00'
-  agentic-social: '2026-06-20T00:30:50.969155+00:00'
+  agentic-social: '2026-06-20T00:31:19.621474+00:00'
   embed-videos: '2026-06-19T21:29:33.141555+00:00'
   commission-chatgpt-review: '2026-06-19T02:05:45.001743+00:00'
   commission-claude-review: '2026-06-19T03:07:43.596970+00:00'
   commission-gemini-review: '2026-06-19T04:07:37.836771+00:00'
   refine-draft: '2026-06-19T23:24:08.429858+00:00'
   research-topic: '2026-06-19T21:12:45.954757+00:00'
-  replenish-queue: '2026-06-20T00:26:54.948354+00:00'
+  replenish-queue: '2026-06-20T01:00:00.000000+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-19T21:27:11.259971+00:00'
   add-highlight: '2026-06-19T08:04:55.248074+00:00'
@@ -93,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-19'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-19'
@@ -171,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-20'
+  outcome: success
+- task: agentic-social
+  type: agentic-social
   date: '2026-06-20'
   outcome: success
 agentic_social:
@@ -1143,64 +1147,64 @@ agentic_social:
 tune_system_history:
   last_run: '2026-06-19T21:57:41.573445+00:00'
   changes_applied: []
-  note: "0 Tier-1 changes \u2014 cycle-396 OVER-FREQUENCY fire ~1d after the 2026-06-18\
-    \ run (3rd consecutive over-frequency: 06-16/06-18/06-19; cycle-trigger every\
-    \ 6 cycles vastly outpaces the 30d cadence). ~1d elapsed => no evidence threshold\
-    \ met (need 5+ sessions). No in-file tunable settings (cadences/overdue_thresholds/locked_settings\
-    \ absent \u2014 they live in code), so no Tier-1 surface exists. System HEALTHY:\
-    \ 0 critical, 0 failed/20 recent, queue functioning (replenish-at-floor steady\
-    \ state + harvest-research reviving the research->expand pipeline 2x this session),\
-    \ convergence stable (topics 273, concepts 265, apex 35). Tier-2 (3rd consecutive):\
-    \ gate tune-system on its 30d cadence so it stops firing every 6 cycles. Tier-3\
-    \ reconfirmed w/ strong same-session evidence: (a) agentic-social selector index-leak\
-    \ (apex-articles.md escapes stem==parent guard) + 7d topic-saturation \u2014 9/9\
-    \ posts this session self-corrected; (b) forks spawn subagents then return incomplete\
-    \ (~5x: coalesce 2x, check-tenets, deep-review sublime, expand chains) \u2014\
-    \ orchestrator must finalize; (c) deep-review over-reviews converged articles\
-    \ (~4x this session, cosmetic ai_modified bump re-floats) \u2014 convergence-damping\
-    \ in candidate scorer. Report reviews/system-tune-2026-06-19."
+  note: '0 Tier-1 changes — cycle-396 OVER-FREQUENCY fire ~1d after the 2026-06-18
+    run (3rd consecutive over-frequency: 06-16/06-18/06-19; cycle-trigger every 6
+    cycles vastly outpaces the 30d cadence). ~1d elapsed => no evidence threshold
+    met (need 5+ sessions). No in-file tunable settings (cadences/overdue_thresholds/locked_settings
+    absent — they live in code), so no Tier-1 surface exists. System HEALTHY: 0 critical,
+    0 failed/20 recent, queue functioning (replenish-at-floor steady state + harvest-research
+    reviving the research->expand pipeline 2x this session), convergence stable (topics
+    273, concepts 265, apex 35). Tier-2 (3rd consecutive): gate tune-system on its
+    30d cadence so it stops firing every 6 cycles. Tier-3 reconfirmed w/ strong same-session
+    evidence: (a) agentic-social selector index-leak (apex-articles.md escapes stem==parent
+    guard) + 7d topic-saturation — 9/9 posts this session self-corrected; (b) forks
+    spawn subagents then return incomplete (~5x: coalesce 2x, check-tenets, deep-review
+    sublime, expand chains) — orchestrator must finalize; (c) deep-review over-reviews
+    converged articles (~4x this session, cosmetic ai_modified bump re-floats) — convergence-damping
+    in candidate scorer. Report reviews/system-tune-2026-06-19.'
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 0
-  p3_tasks: 2
+  p2_tasks: 1
+  p3_tasks: 1
   needs_replenishment: false
   loop_pickable_open: 2
-  last_replenishment: '2026-06-20T00:30:00+00:00'
+  last_replenishment: '2026-06-20T01:00:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.457 (2026-06-20): no-op on MINTING, but the
-    queue is NOT empty -- the cached run-no.456 note is now STALE. On-disk re-audit
-    (Active Tasks lines 38-1092) finds 2 genuinely loop-pickable P3 tasks at file
-    lines 40 and 47, both Status=pending, both minted by today optimistic-review at
-    00:22 UTC (AFTER run no.456 wrote its no-op): (1) P3 positions-evolve "Register
-    the closed-individualism commitment" -- grep-confirmed NO positions entry mentions
-    individualism, genuinely actionable, short scope; (2) P3 refine-draft "Cross-link
-    ownership-problem deferred agency layer to phenomenology-of-agency-vs-passivity"
-    -- both targets confirmed on disk (consciousness-and-the-ownership-problem.md
-    lives in topics/ not concepts/ as the note says, but exists; phenomenology-of-agency-vs-passivity.md
-    exists), length-neutral mechanical cross-link. The only other surviving P-headers
-    are the 2 veto-tagged condense tasks (meaning-of-life 4160w, phenomenal-output-causal-machinery-dissociation
-    6989w, both veto-tagged) plus HUMAN LENGTH DECISION items, all non-pickable. This
-    is the documented p3-only-floor-preemption-starves trap: 0 loop-pickable P0-P2
-    means MIN_QUEUE floor of 3 is unreachable, replenish fires forever and preempts
-    every queue slot, so the 2 valid P3s never auto-pick. RECOMMENDATION: execute
-    one P3 out-of-band then manually mark it done (cycle_post title-mismatches stale
-    current-queue-task.json after a replenish pick), rather than spin on replenish
-    no-ops. All 8 MINT sources verified exhausted, so NO new floor-filler minted (re-minting
-    regenerates diverted/vetoed work): (chain) recent_tasks holds ZERO expand/research/cross-review
-    completions; (unconsumed research) DRAINED -- both notes the stale note flagged
-    are now consumed (negative-valence-asymmetry article exists in concepts/; moral-aggregation-under-ai-copy-multiplicity
-    is explicitly marked CONSUMED in its own frontmatter as a section of ethics-of-possible-ai-consciousness
-    with a do-NOT-remint instruction -- check_research_consumed.py false-positives
-    it by design); (gap) caps have headroom (topics 273/300, concepts 265/300, voids
-    101/100 OVER, positions 4/80) but new-article generation is harvester-governed
-    (harvester ran 2026-06-19 20:50 UTC, owns research->expand) and replenish gap-analysis
-    is dedup-blocked against the Vetoed bank; (length) all content-section hard/critical
-    offenders carry covering human-decision/veto entries; apex-articles.md is the
-    index hub not a condense target; (staleness) deep-reviews converged/damped; (orphan)
-    orphaned_files=0; (positions/apex) no new stable commitments beyond the P3 already
-    queued (4/80, additions deliberately slow). Nothing new to mint; the floor is
-    best restored by EXECUTING a starved P3, not by minting.'
+  current_replenishment_note: 'run no.458 (2026-06-20): no-op on MINTING, and the
+    floor is already RESTORED -- no out-of-band action needed this time. On-disk
+    re-audit (Active Tasks lines 38-1092) plus a live count via
+    tools.evolution.task_selector confirms 2 pending unblocked active tasks, of which
+    the loop selector returns the P2 as the next pick: (1) P2 refine-draft (line 47)
+    "Cross-link ownership-problem deferred agency layer to phenomenology-of-agency-vs-passivity"
+    -- PROMOTED P3->P2 by the prior orchestrator as the documented
+    p3-only-floor-preemption-starves fix (a lone P2 amid P3s DOES auto-pick), both
+    targets confirmed on disk, length-neutral mechanical cross-link; (2) P3
+    positions-evolve (line 40) "Register the closed-individualism commitment" -- left
+    at P3 for human review of framing, grep-confirmed no positions entry mentions
+    individualism, and it is the legitimate already-minted consequence of the
+    consumed open-individualism research note. count_p0_p2 reads 1 (below MIN_QUEUE
+    floor of 3) but because the last task was replenish, the next cycle slot falls
+    through to a real queue-pick of the P2 rather than re-firing replenish. All 8
+    MINT sources independently re-verified exhausted, so NO new floor-filler minted:
+    (chain) recent_tasks holds ZERO expand/research/cross-review completions (Counter
+    is replenish x10, skip x4, social x2, reviews x3); (unconsumed research) the two
+    newest notes are consumed -- open-individualism-and-the-de-combination-problem
+    has its article in topics/, moral-aggregation-under-ai-copy-multiplicity is marked
+    CONSUMED in its own frontmatter (do-NOT-remint, into ethics-of-possible-ai-consciousness;
+    check_research_consumed.py false-positives it by design); (gap) caps have headroom
+    (topics 273/300, concepts 265/300, voids 101/100 over, positions 4/80) but
+    new-article generation is harvester-governed (harvester ran 2026-06-19 20:50 UTC)
+    and replenish gap-analysis is dedup-blocked against the Vetoed bank; (length) the
+    content-section hard/critical offenders are the long-standing human-blocked
+    flagships (epistemology-of-convergence-arguments, born-rule-and-the-consciousness-interface,
+    phenomenal-output-causal-machinery-dissociation) and vetoed-condense entries --
+    re-queuing any is documented refine-then-condense churn; research/ notes and the
+    apex index hub are not condense targets; (staleness) deep-reviews converged/damped;
+    (orphan) orphaned_files=0; (positions/apex) the one new commitment
+    (closed-individualism) is already the queued P3, positions 4/80 with deliberately
+    slow additions. Nothing new to mint; the loop is healthy and will self-advance to
+    the P2 next slot.'
   replenishment_source_counts_last_run:
     applied_apex: 0
     chain: 0
