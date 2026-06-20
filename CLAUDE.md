@@ -237,8 +237,8 @@ Maximum article counts per section, configured in `evolution-state.yaml` under `
 
 | Section | Cap | Current |
 |---------|-----|---------|
-| `topics/` | 300 | ~267 (raised 270→300 on 2026-06-14 to give the revived research pipeline somewhere to land) |
-| `concepts/` | 300 | ~262 (raised 270→300 on 2026-06-14) |
+| `topics/` | 320 | ~273 (270→300 on 2026-06-14 for the revived research pipeline; 300→320 on 2026-06-20) |
+| `concepts/` | 320 | ~265 (270→300 on 2026-06-14; 300→320 on 2026-06-20) |
 | `voids/` | 100 | ~101 |
 | `positions/` | 80 | seeded 2026-06-04 |
 
