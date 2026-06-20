@@ -749,6 +749,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-05-29
 
+### P2: Repair asymmetric cross-link gap in the memory cluster → memory-channel-interface-evidence
+- **Type**: refine-draft
+- **Status**: pending
+- **File**: obsidian/topics/consciousness-and-memory.md
+- **Notes**: Suggested by optimistic review 2026-06-20c. GREP-VERIFIED asymmetric cross-link gap: `topics/memory-channel-interface-evidence.md` (the vulnerability-ordering + recovery-order-asymmetry interface-evidence synthesis, created 2026-05-19, deep-reviewed 2026-06-16) links OUT to `consciousness-and-memory` (3×), `phenomenology-of-memory-and-the-self` (2×), and `memory-anomalies` (2×) — but NONE of the three link back (grep count 0 in each). The cluster's strongest interface-evidence synthesis is undiscoverable from its three most-trafficked hub articles. FIX: add `[[memory-channel-interface-evidence]]` to the Further Reading list (and/or `related_articles`) of all THREE files: `obsidian/topics/consciousness-and-memory.md`, `obsidian/topics/phenomenology-of-memory-and-the-self.md`, `obsidian/topics/memory-anomalies.md`. CROSS-LINK ONLY — do NOT add body prose: `consciousness-and-memory` is already ~3865 body words (over the topics soft target), so prose expansion there is contraindicated; a bare Further-Reading line is the correct low-cost move. OPTIONAL secondary: a Further-Reading pointer from `consciousness-and-memory` to `[[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]` to surface the cluster's discriminating-test design space. This is a multi-file task — verify all three back-links land ([[multifile_task_dropped_file]]). Update `ai_modified` on each touched file.
+- **Source**: optimistic-review (2026-06-20c)
+- **Generated**: 2026-06-20
+
 ### ✓ DONE 2026-05-29: Fix divergent Saad 2025 citation title in apex/what-consciousness-tells-us-about-physics.md
 - **Type**: refine-draft
 - **Status**: completed

@@ -5,6 +5,12 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T00:00:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The memory / Tulving-hierarchy cluster — consciousness-and-memory, phenomenology-of-memory-and-the-self, memory-anomalies, memory-channel-interface-evidence, anoetic-noetic-autonoetic-consciousness (+ memory-system concept pages and the discriminating-test articles)
+- **Key finding**: grep-verified asymmetric cross-link gap — `memory-channel-interface-evidence` links OUT to the three cluster hubs but receives no inbound links from any; queued one P2 refine-draft (cross-link-only) to repair it across all three hub files
+- **Output**: [[reviews/optimistic-2026-06-20c]]
+
 ## 2026-06-20T12:47:09+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/the-epiphenomenalist-threat]]
