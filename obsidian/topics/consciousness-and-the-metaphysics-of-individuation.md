@@ -41,7 +41,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-18
 last_curated:
-last_deep_review: 2026-06-01T16:47:13+00:00
+last_deep_review: 2026-06-20T22:11:54+00:00
 ---
 
 Why does consciousness come in discrete subjects? Every conscious being has a private phenomenal field—a bounded perspective that is *this* perspective rather than any other. But what draws these boundaries? What determines that the world contains billions of separate conscious subjects rather than one vast field of experience, or none at all? The Unfinishable Map's dualist framework makes this question especially acute: if consciousness is not identical to the body, the body cannot be what individuates it.

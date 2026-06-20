@@ -5,6 +5,16 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T22:11:54+00:00 - deep-review
+- **Status**: Success (converged no-op — cross-link churn re-qualification)
+- **File**: [[topics/consciousness-and-the-metaphysics-of-individuation]]
+- **Word count**: 2817 → 2817 (no change; 94% of 3000 topics soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verdict**: Sixth review. Only changes since the 2026-06-01 real review are integration cross-links (5 related_articles + 3 Further Reading entries + 3 short inline-link sentences + 1 wikilink-wrap) added by intervening refine/coalesce/expand cycles. No new citations; References block byte-identical to 2026-06-01. Validated: all 7 new wikilink targets resolve; both new anchor links (composition-question-rivals#metaontological-deflationism, #information-compression-composition) resolve to explicit {#…} anchors and accurately characterize their targets; Miller 2018 page-range fix (Ratio 31(2), 137-154) intact; Tenet-4 calibration disclaimer preserved; no banned construct. Stamped last_deep_review only, ai_modified NOT bumped ([[deep_review_over_reviews_converged]]). No findings manufactured.
+- **Output**: [[reviews/deep-review-2026-06-20-consciousness-and-the-metaphysics-of-individuation]]
+
 ## 2026-06-20T22:10:00+00:00 - research-topic
 - **Status**: Success (PROCEED verdict)
 - **Topic**: Interoceptive consciousness and the interface (inward completion of the cross-modal modality survey)
