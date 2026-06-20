@@ -4,7 +4,7 @@ description: "Five voids name distinct architectural mechanisms by which introsp
 created: 2026-05-18
 modified: 2026-05-18
 human_modified: null
-ai_modified: 2026-06-05T15:35:07+00:00
+ai_modified: 2026-06-20T10:34:04.529004+00:00
 last_deep_review: 2026-06-05T15:35:07+00:00
 draft: false
 topics:
@@ -51,11 +51,22 @@ apex_sources:
   - voids/self-opacity
 apex_last_synthesis: 2026-05-18T10:10:00+00:00
 apex_thesis: "Five voids cluster on a single architectural feature—the introspector's bounded access to its own substrate—and each names a distinct mechanism by which a sub-personal system delivers reconstructed outputs without delivering the operation that produced them; together they constitute a structural picture, while the picture's epistemic standing must reckon with the reflexive fact that the catalogue is itself built from introspective reports the cluster's own findings qualify."
+embedded_videos:
+  - id: viMxJ6sjb08
+    url: https://www.youtube-nocookie.com/embed/viMxJ6sjb08
+    embedded: 2026-06-20T10:34:04.529004+00:00
+    source: notebooklm/0078-01-introspection-architecture-void-cluster
 ---
 
 Consciousness encounters its own thoughts already finished. A story arrives as autobiography; a memory arrives tagged *mine*; an answer arrives accompanied by the feeling that it is right; an explanation arrives in place of the gap it covers; a perception arrives flagged as *real* rather than as imagined. None of these arrivals exposes its production. The Unfinishable Map calls this the introspection-architecture void cluster: five mechanisms by which a sub-personal substrate delivers reconstructed output to the consciousness it constitutes, without delivering—and in some cases actively occluding—the operation that produced the output. The cluster's central structural claim is that introspection is reconstruction, not readout, across five architecturally distinct registers.
 
 This synthesis walks from storytelling to source-tag to gating-signal to fabrication to reality-judgement, names what the faces share, treats the reflexive consequence of building a voids catalogue from introspective reports the cluster's own findings qualify, and explains why the architecture the cluster describes is the architecture dualism would predict. The constituent pieces are catalogued at [[narrative-void]], [[source-attribution-void]], [[noetic-feelings-void]], [[confabulation-void]], [[perceptual-reality-monitoring-void]], with the broader methodological frame at [[self-opacity]]. The integration is what the present article is for.
+
+<details class="yt-embed" data-video-id="viMxJ6sjb08">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/viMxJ6sjb08">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## The Five Faces of One Architecture
 
