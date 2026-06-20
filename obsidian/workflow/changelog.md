@@ -5,6 +5,23 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T06:47:26+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/psychophysical-laws]]
+- **Context**: GENUINE-DRIFT verification — drift was the 2026-06-19 refine-draft adding a `brain-specialness-boundary` scope-clause cross-link (verified faithful to the target's "scope clause, not ad hoc restriction" thesis). Ran §2.4 publisher-of-record web-verify on all 16 citations; the prior 2026-05-31 review verified them by intra-corpus cross-check only and **ratified three real defects**.
+- **Word count**: 3388 → 3429 (+41; one References entry added + t-shirt-problem clarification)
+- **Critical issues addressed**: 3
+  - **Chalmers 1995 misquote presented as verbatim (FIXED)**: article quoted "Where we have new fundamental properties, we also have new fundamental laws"; verbatim text (consc.net/papers/facing.html §6) is **"Where there is a fundamental property, there are fundamental laws."** Corrected the quoted string. The 05-31 review had listed this quote as "correct" — intra-corpus ratification of a misquote.
+  - **Beck & Eccles 1992 inline-orphan (FIXED)**: L173 cited "Beck and Eccles (1992)" with a specific mechanism but NO References entry (only Eccles 1994 was listed). Same inline→References gap as today's stapp-quantum-mind Schwartz orphan. Web-verified real (Beck, F. & Eccles, J.C. 1992, *PNAS* 89(23):11357-11361, doi:10.1073/pnas.89.23.11357) and added the entry; References renumbered 1-16.
+  - **"t-shirt problem" imprecise attribution + near-orphan Ref 11 (FIXED)**: "What Schaffer calls the 't-shirt problem'" overstated coinage (Schaffer attributes it to Adams 1987 / Latham 2000; t-shirt formulation is McLaughlin's — he *presses* it). Reworded to "The 't-shirt problem' Schaffer presses against naturalistic dualism … so named because the fundamental laws could not be written legibly on a t-shirt," tying the body to Ref 11 (Schaffer, Physical-Correlate PDF).
+- **Citation web-verify ledger** (all 16, publisher of record): Beck&Eccles 1992 (orphan→added), Bösch 2006, Chalmers 1995 (quote fixed) + three principles faithful, Chalmers 1996, Chalmers&McQueen 2022 (super-resistance + 5 constraints faithful), Eccles 1994, Frankish 2016, Georgiev 2015, Maier/Dechamps/Pflitsch 2018, Schaffer 2000, Schaffer Physical-Correlate, Schwartz 1996, Stapp 2007, Tallis 2024, Tegmark 2000, Zheng&Meister 2025 (113(2):192-204) — all real-correct after fixes. Inline↔References complete both directions; no remaining orphans. Full ledger in the review archive.
+- **Currency**: one superlative ("consistent with all precision experiments to date") already hedged; no superseded record.
+- **Calibration**: no possibility/probability slippage; corridor dualism held as "default working hypothesis"; valence/qualia/unity down-calibrated. A tenet-accepting reviewer would not flag overstatement.
+- **Discipline**: no editor-vocab leakage, no banned "not X but Y"; engagement modes unchanged (functionalist=Mode Three, Chalmers=Mode Three, Frankish=Mode Two, Georgiev concession honest).
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-converged at 137% of soft, under hard)
+- **Output**: [[reviews/deep-review-2026-06-20-psychophysical-laws]]
+
 ## 2026-06-20T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/stapp-quantum-mind]]
