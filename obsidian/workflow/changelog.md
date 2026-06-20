@@ -5,6 +5,19 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T12:08:55+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/psychophysical-laws-bridging-mind-and-matter]]
+- **Type**: GENUINE-DRIFT verification (drift = commit 8fe4892b9, 2026-06-08, refine-draft calibration edit that bumped ai_modified but not last_deep_review)
+- **Word count**: 3407 → 3407 (length-neutral; soft_warning, ~593w under hard cap)
+- **Critical issues addressed**: 1 (Kerskens & López Pérez ref title regression: "brain function" → "brain functions" plural; the published IOP title is plural — verified at DOI 10.1088/2399-6528/ac94be + ADS 2022JPhCo...6j5001K. The singular was a regression introduced by the 2026-06-05 review itself.)
+- **Medium issues addressed**: 0
+- **Citation audit**: publisher-of-record re-verify of the contested/high-risk cites. Chalmers-McQueen title NOT inverted (correct here). Georgiev 2015 confirmed LONE author at World Scientific/arXiv/ADS — this file's lone-Georgiev cite is correct. Saad/Tegmark/Hagan/Zheng-Meister/Schwartz re-verified clean. Inline↔References complete both directions; no orphan refs; no currency drift.
+- **Calibration verdict**: the drift commit's two body edits ("demonstrates"→"is taken to show"; explicit "evidence does not adjudicate") are calibration-IMPROVING, not regressions. Coupling-law claims read as argued framework commitment per [[evidential-status-discipline]]. No possibility/probability slippage.
+- **Engagement modes** (editor-internal): functionalist = Mode Three (boundary-marking, honestly declared); Georgiev = honest concession + post-decoherence retreat; Chalmers = Mode Three. No label leakage.
+- **Corpus follow-up queued**: comparing-quantum-consciousness-mechanisms.md cites the 2015 Monte Carlo Zeno paper with a spurious "& Glazebrook" co-author (lone Georgiev is correct).
+- **Output**: [[reviews/deep-review-2026-06-20-psychophysical-laws-bridging-mind-and-matter]]
+
 ## 2026-06-20T11:56:35+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/free-will]]
