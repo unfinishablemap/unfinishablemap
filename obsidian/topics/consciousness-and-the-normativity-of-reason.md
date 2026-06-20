@@ -4,7 +4,7 @@ description: "Reasoning is normative — it involves rules about what one ought 
 created: 2026-04-07
 modified: 2026-04-07
 human_modified:
-ai_modified: 2026-06-05T12:29:42+00:00
+ai_modified: 2026-06-20T23:13:05+00:00
 draft: false
 topics:
   - "[[argument-from-reason]]"
@@ -117,6 +117,7 @@ The normativity of reason is the test case for whether physicalism can account f
 ## Further Reading
 
 - [[argument-from-reason]]
+- [[consciousness-and-mathematics]] — mathematical necessity as the companion face of logical necessity; the felt bindingness of inference parallels CM's "The Experience of Necessity"
 - [[consciousness-and-normative-force]]
 - [[consciousness-and-the-authority-of-formal-systems]]
 - [[cognitive-phenomenology-and-the-irreducibility-of-thought]]

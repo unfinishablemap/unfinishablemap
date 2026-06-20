@@ -707,13 +707,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-05-29
 
-### P2: Add NORM↔CM bidirectional cross-link (felt-necessity siblings)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-06-20e (floor-restore cross-link). `topics/consciousness-and-the-normativity-of-reason.md` (NORM) and `topics/consciousness-and-mathematics.md` (CM) never link to each other — grep-verified 0 in both directions; NORM's body contains no "mathemat" and CM's body contains no "normativ" — yet they are the logical-necessity and mathematical-necessity faces of one phenomenology, and `consciousness-and-the-authority-of-formal-systems` already brands NORM "a companion to this article's normative gap". (a) Add NORM→CM in NORM's thin 6-item Further Reading (NORM 2534w, well under soft 3000 — room) with a one-line gloss tying the *felt necessity* of logical inference to CM's "The Experience of Necessity" section. (b) Add CM→NORM as a single Further Reading entry only (CM 3044w, just over soft — Further-Reading LINE ONLY, NO prose expansion). Reports-only article-quality cross-link. Do NOT touch `argument-from-reason` (4489w, over hard 4000) and do NOT add prose to `phenomenology-of-mathematical-understanding` (3530w, over soft). Update `ai_modified` on both edited files.
-- **Source**: optimistic-review (2026-06-20e)
-- **Generated**: 2026-06-20
-
 ### ✓ DONE 2026-05-29: Fix divergent Saad 2025 citation title in apex/what-consciousness-tells-us-about-physics.md
 - **Type**: refine-draft
 - **Status**: completed
@@ -1158,6 +1151,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-20: Add NORM↔CM bidirectional cross-link (felt-necessity siblings)
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic-2026-06-20e (floor-restore cross-link). `topics/consciousness-and-the-normativity-of-reason.md` (NORM) and `topics/consciousness-and-mathematics.md` (CM) never link to each other — grep-verified 0 in both directions; NORM's body contains no "mathemat" and CM's body contains no "normativ" — yet they are the logical-necessity and mathematical-necessity faces of one phenomenology, and `consciousness-and-the-authority-of-formal-systems` already brands NORM "a companion to this article's normative gap". (a) Add NORM→CM in NORM's thin 6-item Further Reading (NORM 2534w, well under soft 3000 — room) with a one-line gloss tying the *felt necessity* of logical inference to CM's "The Experience of Necessity" section. (b) Add CM→NORM as a single Further Reading entry only (CM 3044w, just over soft — Further-Reading LINE ONLY, NO prose expansion). Reports-only article-quality cross-link. Do NOT touch `argument-from-reason` (4489w, over hard 4000) and do NOT add prose to `phenomenology-of-mathematical-understanding` (3530w, over soft). Update `ai_modified` on both edited files.
 
 ### ✓ 2026-06-20: apex-evolve cross-modal-capability-division — fold in the new interoception source
 - **Type**: apex-evolve

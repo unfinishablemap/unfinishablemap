@@ -4,7 +4,7 @@ description: "Every major mathematical ontology implies a position on consciousn
 created: 2026-01-21
 modified: 2026-03-28
 human_modified:
-ai_modified: 2026-06-19T07:30:00+00:00
+ai_modified: 2026-06-20T23:13:05+00:00
 draft: false
 concepts:
   - "[[cognitive-phenomenology]]"
@@ -210,6 +210,7 @@ The view would be supported by continued failure of AI to achieve transformation
 ## Further Reading
 
 - [[cognitive-phenomenology]] — The broader case for phenomenal character in thinking
+- [[consciousness-and-the-normativity-of-reason]] — The logical-necessity companion: the felt bindingness of inference as the normative face of the same phenomenology
 - [[creative-consciousness]] — The generation-selection synthesis
 - [[consciousness-and-the-authority-of-formal-systems]] — Why formal authority reaches a boundary at consciousness
 - [[self-reference-and-the-limits-of-physical-description]] — Gödel's incompleteness and quantum measurement as the same self-referential obstruction
