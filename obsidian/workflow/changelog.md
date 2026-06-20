@@ -5,6 +5,16 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T11:04:50+00:00 - deep-review
+- **Status**: Success (genuine-drift verification; converged no-op — the 2026-06-05 dissociation-overreach correction verified SOUND, all citations clean)
+- **File**: [[concepts/perception]]
+- **Word count**: 1674 → 1674 (no change; 67% of 2500 concepts soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (the two medium issues + three unsupported-claim/language items were already fixed by refine aadb6f0e3 2026-06-05; verified correct here, not re-fixed)
+- **Enhancements made**: 0
+- **Context**: GENUINE-DRIFT verification of commit aadb6f0e3 (2026-06-05) "Address dissociation-argument overreach" — a refine that edited this file's body (10 lines) but bumped only `ai_modified`, leaving the overreach-correction unverified. The refine implemented exactly the 2026-06-05 pessimistic review's three fixes + the discriminating-prediction sentence. OVERREACH-CORRECTION VERDICT: SOUND. (a) Blindsight: "information processing is intact / if perception were identical to processing this dissociation should not occur" → "spatial-discrimination processing is largely preserved ... a physicalist who distinguishes access- from phenomenal-processing can accommodate this" — both the factual overstatement and the dualism-by-dissociation inference fixed; reads as constraining-but-not-discriminating, NOT mush (still asserts experience tracks a specific signature). (b) Bistable: strawman "PP struggle[s]... passive Bayesian updating" → accurate active-inference framing with residual disagreement correctly relocated to *voluntary* biasing. (c) RtSP: "confirm this" → "are consistent with this, though they do not by themselves select dualism" — textbook possibility-not-probability per [[evidential-status-discipline]]. No residual overreach, no over-correction, no internal contradiction with the interface-model discriminating-prediction sentence. Engagement modes editor-internal; no label leakage; no banned "This is not X. It is Y." construct. Citation ledger (publisher of record): Jackson 1982 Phil Quarterly 32(127):127-136, Nagel 1974, Palmer 1999, Simons & Chabris 1999 Perception 28(9):1059-1074, Weiskrantz 1986 — all real-correct (corpus-consistent, no prior-status trust); (Hohwy, Clark) = position-attribution deferred to wikilink, real-correct, no References entry needed; inline↔References parity complete both directions, no orphans. Currency sweep 0 superlatives; live 2023-24 blindsight literature confirms the access-vs-phenomenal framing still standard + Type-1 "no experience vs unreportable" still contested (validates the "absent or drastically degraded" hedge). Sibling note (out of scope): topics/dualist-perception.md:73 still carries "The physical processing is intact" — flagged for that file's next pass, not actioned. Stamped `last_deep_review` only; `ai_modified` NOT bumped (no body edit).
+- **Output**: [[reviews/deep-review-2026-06-20-perception]]
+
 ## 2026-06-20T10:55:03+00:00 - deep-review
 - **Status**: Success (genuine-drift verification; converged no-op — both 2026-06-16 refine fixes verified correct at publisher of record)
 - **File**: [[topics/direction-dependent-discriminating-test-design]]
