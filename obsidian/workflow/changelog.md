@@ -5,6 +5,18 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T16:11:57+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/parsimony-case-for-interactionist-dualism]]
+- **Word count**: 3627 → 3639 (+12; under 4000 hard threshold)
+- **Critical issues addressed**: 1 (false-verbatim Churchland quote "inconclusive regarding duality" — intra-corpus-ratified across 7 prior reviews, never web-verified; the live source supports only the general "no single anti-dualism argument is conclusive" concession. Removed quotation marks + reframed; family-propagated to concepts/parsimony-epistemology.md + research/epistemological-limits-occams-razor-consciousness-2026-02-06.md)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged eighth pass)
+- **Tenet-5 guard verdict**: CORRECTLY FRAMED — the 2026-06-08 drift commit's title-note guard ("cartography of explanatory debts, not adjudication of truth") passes the evidential-status diagnostic test: defeater-removal, no evidence-level upgrade, no possibility/probability slippage, no Tenet 5 contradiction. Genuine improvement, not a defect.
+- **Citation ledger**: 11 external cites all real-correct (Anderson/Chalmers/Hubbard/Huemer/Lycan/Zanotti web-verified this pass incl verbatim quotes; Churchland corrected; Frankish/Koksvik/Masi/Smart carried from verified 2026-06-06 ledger). No currency issues, no banned construct.
+- **Engagement modes**: illusionism (Frankish/Dennett) = Mode Two; mysterianism (McGinn) = Mode Two + Mode Three residue. No label leakage.
+- **Output**: [[reviews/deep-review-2026-06-20-parsimony-case-for-interactionist-dualism]]
+
 ## 2026-06-20T15:57:25+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Cross-Modal Capability Division Across the Senses

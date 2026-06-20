@@ -4,7 +4,7 @@ description: "Why Occam's Razor lacks epistemic warrant in the consciousness deb
 created: 2026-03-18
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-06-07T13:30:00+00:00
+ai_modified: 2026-06-20T16:11:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -115,7 +115,7 @@ William Lycan (2009), a committed materialist of over forty years, reviewed the 
 
 ### Churchland's Qualification
 
-Even Paul Churchland, whose "Raze Dualism" argument (1988) is the canonical parsimony case against dualism, qualifies in the original edition of *Matter and Consciousness* (1984) that the razor is "inconclusive regarding duality." If parsimony's foremost advocate concedes the argument does not settle the question, the routine dismissal of dualism on parsimony grounds lacks supporting authority.
+Even Paul Churchland, whose "Raze Dualism" argument (1988) is the canonical parsimony case against dualism, acknowledges in *Matter and Consciousness* (1984) that none of the standard arguments against dualism — the parsimony argument included — is by itself conclusive. If parsimony's foremost advocate concedes the argument does not settle the question, the routine dismissal of dualism on parsimony grounds lacks supporting authority.
 
 These concessions cannot be dismissed as motivated reasoning from dualists. Anderson (2002) reinforces them, subjecting Churchland's "Raze Dualism" argument to critique and concluding it "is undermined by assumptions which do not withstand scrutiny."
 
