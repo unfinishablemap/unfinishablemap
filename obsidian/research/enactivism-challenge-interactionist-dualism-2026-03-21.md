@@ -219,6 +219,6 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 - Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge. (SEP entry: https://plato.stanford.edu/entries/merleau-ponty/)
 - O'Regan, J.K. & Noe, A. (2001). "A sensorimotor account of vision and visual consciousness." *Behavioral and Brain Sciences*, 24(5), 939-973.
 - Pace Giannotta, A. (2021). "Autopoietic Enactivism, Phenomenology, and the Problem of Naturalism: A Neutral Monist Proposal." *Husserl Studies*. https://link.springer.com/article/10.1007/s10743-021-09286-x
-- Schlicht, T. & Starzak, T. (2022). "Putting down the revolt: Enactivism as a philosophy of nature." *Frontiers in Psychology*, 13, 948733. https://pmc.ncbi.nlm.nih.gov/articles/PMC9635051/
+- Meyer, R. & Brancazio, N. (2022). "Putting down the revolt: Enactivism as a philosophy of nature." *Frontiers in Psychology*, 13, 948733. https://pmc.ncbi.nlm.nih.gov/articles/PMC9635051/
 - Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press. https://www.hup.harvard.edu/books/9780674057517
 - Varela, F., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press. https://direct.mit.edu/books/monograph/4061/The-Embodied-MindCognitive-Science-and-Human

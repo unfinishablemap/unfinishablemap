@@ -4,7 +4,7 @@ description: "Enactivism dissolves the mind-body separation dualism presupposes.
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-06-01T01:35:41+00:00
+ai_modified: 2026-06-20T16:41:23+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -97,7 +97,7 @@ It is worth being explicit about the limits of this dilemma. The available evide
 
 ## The Coherence Question
 
-Enactivism faces an internal tension that its critics have identified: it blends deflationary and revisionist tendencies in ways that may be incoherent. Schlicht and Starzak (2022) argue that enactivism simultaneously claims to dissolve philosophical problems (deflationary) and to offer a fundamentally new metaphysics of mind (revisionist). These aims pull in opposite directions—dissolution says the problems were misconceived, while revision says they need new answers.
+Enactivism faces an internal tension that its critics have identified: it blends deflationary and revisionist tendencies in ways that may be incoherent. Meyer and Brancazio (2022) argue that enactivism simultaneously claims to dissolve philosophical problems (deflationary) and to offer a fundamentally new metaphysics of mind (revisionist). These aims pull in opposite directions—dissolution says the problems were misconceived, while revision says they need new answers.
 
 This matters for the challenge to interactionist dualism because enactivism's strongest objections are deflationary (the mind-body distinction is a mistake), while its positive programme is revisionist (we need a new understanding of mind as embodied activity). If the deflationary move succeeds, the revisionist programme is unnecessary. If the revisionist programme is necessary, the deflationary move was incomplete.
 
@@ -113,7 +113,7 @@ Interactionist dualism is at least internally consistent: consciousness is non-p
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Enactivism does not directly engage quantum interpretation. However, its emphasis on the organism's singular perspective—this organism, in this environment, enacting this world—is compatible with the Map's rejection of many-worlds. Enactivism's phenomenology is indexical: experience belongs to a particular embodied subject, not to all possible branches of a universal wavefunction.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Enactivism's apparent parsimony—explaining cognition through embodied activity without invoking a non-physical domain—dissolves under scrutiny. The dissolution of the hard problem is not parsimonious; it is incomplete. Claiming to have dissolved the mind-body problem while acknowledging that experience is irreducible does not reduce ontological commitments—it conceals them.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Enactivism's apparent parsimony—explaining cognition through embodied activity without invoking a non-physical domain—dissolves under scrutiny. The dissolution of the hard problem is not parsimonious; it is incomplete. Claiming to have dissolved the mind-body problem while acknowledging that experience is irreducible does not reduce ontological commitments—it arguably conceals them.
 
 ## Further Reading
 
@@ -133,7 +133,7 @@ Interactionist dualism is at least internally consistent: consciousness is non-p
 1. Hutto, D. & Myin, E. (2013). *Radicalizing Enactivism: Basic Minds Without Content*. MIT Press.
 1. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge.
 1. O'Regan, J. K., & Noë, A. (2001). A sensorimotor account of vision and visual consciousness. *Behavioral and Brain Sciences*, 24(5), 939-973.
-1. Schlicht, T. & Starzak, T. (2022). Putting down the revolt: Enactivism as a philosophy of nature. *Frontiers in Psychology*, 13, 948733.
+1. Meyer, R. & Brancazio, N. (2022). Putting down the revolt: Enactivism as a philosophy of nature. *Frontiers in Psychology*, 13, 948733.
 1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 1. Varela, F., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.
 1. Wu, J. (2024). "Pragmatism as the Foundation of Cognitive Enactivism." *Cultures of Science*, 7(3), 210-221.
