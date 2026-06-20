@@ -5,6 +5,15 @@ ai_modified: 2026-06-20T06:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T06:25:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/negative-valence-asymmetry-and-the-selection-weighting-function]] — fresh-create (2026-06-18, claude-opus-4-8) with no prior pessimistic pass; only a passing mention in optimistic-2026-06-19
+- **Findings**: 4 — (1 MEDIUM) dangling uncited "2025 re-meta-analysis" claim, the only in-text cite with no References entry, carries the "debate is live" conclusion; (2 MEDIUM) load-bearing neuroscience substrate (asymmetric RPE / dopaminergic subpopulations, line 49) uncited while it powers the "steelman's free lunch"; (3 MEDIUM) dilemma-closure seam — "law must accommodate the asymmetry or be false to behaviour" (l.37) vs "asymmetry is real-but-contested, not a pillar" (l.41) unreconciled; (4 LOW) description ~244 chars over the 150-160 target. Plus an optional MWI one-line-dismissal softening.
+- **Strengths preserved**: all 8 wikilinks resolve; cross-article claims accurate (parent fork flags symmetry as open, collates asymbolia; forecasting-gap reply parallel faithful); no label-leakage / no over-strong language; genuinely calibrated self-criticism; real falsifiable test proposed
+- **Citation check**: live-literature verification fork run on all 8 cited papers + the central Brown et al. 2024 λ≈1.96 [1.820,2.102]/607-estimates figure + the uncited 2025 claim. Eight cited papers clean; the 2025 re-meta-analysis could not be confirmed → web-verify-before-restore caution attached to Issue 1
+- **Task queued**: P2 refine-draft (length-neutral)
+- **Output**: [[reviews/pessimistic-2026-06-20-negative-valence-asymmetry]]
+
 ## 2026-06-20T06:05:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/measurement-problem]]
