@@ -4,8 +4,8 @@ description: "Human+AI exploration of the body's internal sensing channels as th
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-05-19T16:28:35+00:00
-last_deep_review: 2026-05-19T16:28:35+00:00
+ai_modified: 2026-06-20T01:15:27+00:00
+last_deep_review: 2026-06-20T01:15:27+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -139,7 +139,7 @@ The three properties together — layered, phenomenal-character-shaping, bidirec
 4. Husserl, E. (1952/1989). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, Second Book*. Kluwer.
 5. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge.
 6. Craig, A. D. (2009). "How Do You Feel—Now? The Anterior Insula and Human Awareness." *Nature Reviews Neuroscience*, 10(1), 59-70.
-7. Bechara, A., Damasio, H., Tranel, D., & Damasio, A. R. (1997). "Deciding Advantageously Before Knowing the Advantageous Strategy." *Science*, 275(5304), 1293-1296.
+7. Bechara, A., Damasio, H., Tranel, D., & Damasio, A. R. (1997). "Deciding Advantageously Before Knowing the Advantageous Strategy." *Science*, 275(5304), 1293-1295.
 8. Ramachandran, V. S., & Hirstein, W. (1998). "The Perception of Phantom Limbs." *Brain*, 121(9), 1603-1630.
 9. Harvard Medicine Magazine. "Making Sense of Interoception." https://magazine.hms.harvard.edu/articles/making-sense-interoception
 10. Garfinkel, S. N., Seth, A. K., Barrett, A. B., Suzuki, K., & Critchley, H. D. (2015). Knowing your own heart: Distinguishing interoceptive accuracy from interoceptive awareness. *Biological Psychology*, 104, 65–74.

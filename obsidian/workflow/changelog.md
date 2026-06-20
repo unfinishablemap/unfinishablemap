@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-20T00:56:00+00:00
+ai_modified: 2026-06-20T01:15:27+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-20T01:15:27+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/somatic-interface]]
+- **Word count**: 2828 → 2828 (+0, length-neutral)
+- **Critical issues addressed**: 1 (publisher-of-record citation metadata: Bechara et al. 1997 *Science* end page 1296 → 1295, confirmed via PubMed PMID 9036851 + DOI; cite retained, fixed in place)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged 6th-review pass; full citation web-verify ledger added to archive)
+- **Notes**: All 11 citations web-verified at publisher of record (full per-cite ledger in review archive). Harvard Medicine Magazine lede quote confirmed verbatim-correct after a WebFetch false-negative was cross-checked by exact-string search. Interoception/active-inference/predictive-processing claims confirmed against live 2020s literature — no drift, honest constrain-not-establish calibration. No editor-vocabulary leakage, no possibility/probability slippage. Tenet-3 (Bidirectional Interaction) framing is argued (placebo/attention/relaxation as concrete bidirectional channels), not asserted. All 20 wikilink targets resolve. Bedrock disagreements (Churchland/Dennett, Nagarjuna, Tegmark, Popper, MWI) not re-flagged. The metadata defect survived five prior intra-corpus-ratified reviews — validates §2.4 web-verify on converged citation-bearing articles.
+- **Output**: [[reviews/deep-review-2026-06-20-somatic-interface]]
 
 ## 2026-06-20T00:56:00+00:00 - positions-evolve (add)
 - **Status**: Success
