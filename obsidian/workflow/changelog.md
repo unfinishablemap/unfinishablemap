@@ -5,6 +5,13 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T21:36:10+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/comparing-quantum-consciousness-mechanisms]] (citation-heavy quantum-mechanisms cluster; last deep-review 2026-06-04)
+- **Output**: [[reviews/pessimistic-2026-06-20d-comparing-quantum-mechanisms]]
+- **Findings**: 1 MEDIUM (taxonomic self-contradiction — line 60 places Penrose-Diósi under "objective collapse" then claims all four compared mechanisms are "consciousness-mediated collapse" variants; contradicted by the article's own caveats on Orch OR automaticity + Fisher observer-independence) + 2 LOW (arithmetic "three orders of magnitude" understates Orch OR decoherence gap; phenomenological-fit credit leaks into Stapp's rank). NO citation defects — all 27 cites grep-verified corpus-canonical-correct + multiply web-verified (Craddock 2017 Sci Rep 7:9877 613±8 THz, Beshkar 2025, Denton 2024, Donadi 2021, Georgiev 2015); Georgiev "& Glazebrook" already fixed 92cbea919. No label leakage, no strong language, no banned construct; Duch convergent-conclusion-opposite-reasoning correctly executed as honest boundary-marking (not boundary-substitution). Altered-state audit N/A (no supportive-cluster engagement).
+- **Tasks written**: 1 × P2 refine-draft (to obsidian/workflow/todo.md, not committed)
+
 ## 2026-06-20T20:40:01+00:00 - deep-review
 - **Status**: Success (real pass — one wrong-title citation defect fixed via publisher-of-record web-verify)
 - **File**: [[topics/perceptual-failure-and-the-interface]]
