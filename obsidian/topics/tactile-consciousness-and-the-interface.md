@@ -4,7 +4,7 @@ description: "Touch supplies what the distance senses cannot: perception that re
 created: 2026-06-16
 modified: 2026-06-16
 human_modified:
-ai_modified: 2026-06-20T14:20:30+00:00
+ai_modified: 2026-06-20T17:06:53+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -97,6 +97,7 @@ The Map does not claim touch settles dualism. It claims touch is evidence any ad
 - [[pain-consciousness-and-causal-power]] — pain's affect and causal role, of which this article uses only the constitutive-valence datum
 - [[evaluative-phenomenal-character]] — the claim that some phenomenal character is constitutively valenced, for which affective touch and pain are strong contact cases
 - [[the-binding-problem]] — the binding taxonomy that the unity of a felt object instantiates across submodalities and across exploratory time
+- [[cross-modal-capability-division]] — the cross-modal synthesis: the division recurs as an asymmetry (modality-specific brain side, supramodal mind-side boundary); touch is where ownership is most vivid, a load-bearing disanalogy
 
 ## References
 

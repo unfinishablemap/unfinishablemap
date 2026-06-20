@@ -4,7 +4,7 @@ description: "Curated index of the Map's apex articles—synthesis pieces integr
 created: 2026-01-24
 modified: 2026-05-25
 human_modified: 2026-01-24
-ai_modified: 2026-06-16T17:43:39+00:00
+ai_modified: 2026-06-20T17:06:53+00:00
 last_deep_review: 2026-04-27T21:27:00+00:00
 draft: false
 topics: []
@@ -713,6 +713,25 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - concepts/combination-problem
 
 **Status**: Created 2026-06-07 (admitted as #32 — suggested by optimistic-review 2026-06-07. The composition/individuation cluster (two mature topic-tier articles plus four concept-tier members, all deep-reviewed within the last few days and tightly cross-linked) had no apex synthesis home: no existing apex references the cluster, and the two closest candidates by subject — `process-and-consciousness` (about process philosophy, citing combination-problem only peripherally) and `identity-across-transformations` (diachronic personal identity, not synchronic mereology) — neither walks the composition↔individuation joint. ASSESS-FIRST resolved CREATE-NEW: the cluster is large and genuinely lacks a synthesis home, apex does not consume the topics/concepts caps, and the de-combination problem supplies a non-obvious structural hinge (combination and de-combination are the same subject-part impossibility run in opposite directions — Miller's own point) that none of the source articles states at apex grain. Citations all reuse the cluster's already-verified set (van Inwagen 1990, Merricks 2001, McQueen & Tsuchiya 2023, Bird 2023, Beni 2025, Coleman 2014, James 1890, Chalmers 2017, Bayne & Chalmers 2003, Kolak 2004, Nida-Rümelin 2010, Hare 2009, Pinto et al. 2017, Schechter 2018, Thomasson 2015); the one load-bearing citation re-verified at publisher of record is Miller, G. (2018), "Can Subjects Be Proper Parts of Subjects? The De-Combination Problem," *Ratio* 31(2):137-154, DOI 10.1111/rati.12166 — Wiley Online Library confirms volume/issue/pages and that Miller's primary target is cosmopsychist de-combination, framed accurately in the body (not generic open individualism). Preserves the cluster's exemplary calibration: convergence held at *suggestive* not probative; deflationism recorded as honestly bedrock, not refuted; the dualist-vs-panpsychist tie explicitly tenet-broken (No Many Worlds + Minimal Quantum Interaction), tenet-coherent not evidence-elevating. Reciprocal cross-links added to all six source articles. 2,739 words. Tenet alignment: Tenet 1 (Dualism — irreducibility grounded in non-compositional structure) and Tenet 5 (Occam-has-limits) primarily, with 2/3/4 connections drawn. Apex now at #32 within the informal cap; the standing P3 audit task on apex over-cap remains the load-bearing rebalancing pass).
+
+---
+
+### 33. The Cross-Modal Capability Division
+
+**Slug**: `cross-modal-capability-division`
+
+**Subtitle**: What recurs across the senses is an asymmetry, not a single mechanism
+
+**Thesis**: The brain-side machinery of perception is irreducibly modality-specific while the conscious/unconscious boundary carries a common supramodal signature—and that asymmetry, not the bare recurrence of a division, is what generalising across the senses actually establishes.
+
+**Source articles**:
+- concepts/capability-division-in-vision
+- topics/auditory-consciousness-and-the-interface
+- topics/chemosensory-consciousness-and-the-interface
+- topics/tactile-consciousness-and-the-interface
+- topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination
+
+**Status**: Created 2026-06-20 (admitted as #33 — consumes the unconsumed research note `research/cross-modal-capability-division-2026-06-20.md`, whose assess-first verdict was QUALIFIED PROCEED with an explicit steer: output an apex synthesis or narrow concept node, NOT a sixth `topics/` modality survey (which would redundantly re-survey the five per-modality articles). The five modality treatments (vision, audition, chemosensation, touch, proprioception) each assert the brain-side/mind-side division *within* their sense and gesture at recurrence, but none establishes the recurrence as a claim with its own evidence base — that gap is the apex's genuinely-new contribution. The synthesis (a) cites rather than re-surveys the five modality articles; (b) foregrounds the *asymmetry* — no shared brain-side substrate (V1 vs cochlea vs combinatorial olfactory code) against a supramodal mind-side access signature, headlined by Sanchez et al. 2020 PNAS (PMID 32184331, publisher-verified, verbatim abstract quote); (c) foregrounds the disanalogies (ownership vivid in touch / thin in smell; binding-awareness double dissociation per Deroy/Chen/Spence 2014; the conscious boundary internally graded) as the load-bearing non-redundant content; (d) engages Global Neuronal Workspace (Mashour et al. 2020) as the physicalist RIVAL that predicts the same supramodal signature — held as shared explanandum NOT proof of the interface, per [[evidential-status-discipline]], with [[common-cause-null]] capping the convergence. Citation discipline: the least-verified cite (Deroy/Chen/Spence 2014) was web-confirmed at publisher of record before citing — "Multisensory constraints on awareness," *Phil. Trans. R. Soc. B* 369(1641):20130207, DOI 10.1098/rstb.2013.0207 (the research note's worry was warranted: its Key-Sources section had mislabelled it "The Complex Interplay…", a different Birmingham conference paper, but the canonical metadata confirms); Sanchez 2020 (PNAS 117(13):7437–7446) and Mashour 2020 (Neuron 105(5):776–798, DOI 10.1016/j.neuron.2020.01.026) both re-verified at publisher of record; Malnic 1999, Fahrenfort 2017, Bregman 1990 reused from the verified modality-article set. Reciprocal inbound links added to all five source articles. 2,856 words. Tenet alignment: Tenet 1 (Dualism — recurrence makes the division structural, not a vision artefact) and Tenet 3 (Bidirectional Interaction — the mind side participates), with Tenet 2 connection drawn; held consonant-not-probative throughout. Synthesis bar met per Governance Note 2026-06-08: integrates five modality nodes plus external supramodal literature into a structural claim no source node voices from inside itself.)
 
 ---
 

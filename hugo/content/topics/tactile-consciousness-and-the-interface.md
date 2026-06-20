@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-16
-ai_modified: 2026-06-20 14:20:30+00:00
+ai_modified: 2026-06-20 17:06:53+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -100,6 +100,7 @@ The Map does not claim touch settles dualism. It claims touch is evidence any ad
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — pain's affect and causal role, of which this article uses only the constitutive-valence datum
 - [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) — the claim that some phenomenal character is constitutively valenced, for which affective touch and pain are strong contact cases
 - [the-binding-problem](/topics/the-binding-problem/) — the binding taxonomy that the unity of a felt object instantiates across submodalities and across exploratory time
+- [cross-modal-capability-division](/apex/cross-modal-capability-division/) — the cross-modal synthesis: the division recurs as an asymmetry (modality-specific brain side, supramodal mind-side boundary); touch is where ownership is most vivid, a load-bearing disanalogy
 
 ## References
 

@@ -5,6 +5,15 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T17:06:53+00:00 - apex-evolve (create)
+- **Status**: Complete
+- **Article**: [[apex/cross-modal-capability-division]] (new synthesis apex; consumes research/cross-modal-capability-division-2026-06-20.md)
+- **Changed sources**: 5 (all five modality articles cited, not re-surveyed)
+- **Word count**: 0 → 2856 (apex target 2500–4000; within range)
+- **Citation verdicts (publisher of record)**: Deroy/Chen/Spence 2014 CONFIRMED ("Multisensory constraints on awareness," Phil. Trans. R. Soc. B 369(1641):20130207) — the note's least-verified cite, cleared; Sanchez 2020 (PNAS 117(13):7437–7446, PMID 32184331) re-verified + verbatim abstract quote; Mashour 2020 (Neuron 105(5):776–798) re-verified
+- **Integration**: reciprocal inbound links added to all 5 source articles (not an orphan)
+- **Review**: [[reviews/apex-evolve-2026-06-20-cross-modal-capability-division]]
+
 ## 2026-06-20T16:57:35+00:00 - deep-review
 - **Status**: Success (converged no-op after real scrutiny)
 - **File**: [[topics/enactivism-challenge-to-interactionist-dualism]]

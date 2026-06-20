@@ -4,7 +4,7 @@ description: "Vision divides between brain-side computation and mind-side phenom
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-06-05T00:00:00+00:00
+ai_modified: 2026-06-20T17:06:53+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -104,6 +104,7 @@ The same division generalises beyond vision. [[auditory-consciousness-and-the-in
 - [[conscious-vs-unconscious-processing]] — The three functions consciousness enables that vision exemplifies
 - [[neurological-dissociations-as-interface-architecture]] — How vision dissociations map the interface's functional anatomy
 - [[dual-domain-capabilities-in-proprioception-and-spatial-imagination]] — The same capability division pattern in proprioception and spatial imagination
+- [[cross-modal-capability-division]] — The synthesis: the division recurs across the senses as an asymmetry — modality-specific brain machinery, a supramodal mind-side access boundary
 - [[lucid-dreaming-and-dualist-rendering]] — Dreams demonstrate the converse of blindsight: phenomenal experience without visual input, with the same dorsal/ventral division shaping dream imagery
 - [[interactionist-dualism]]
 - [[epiphenomenalism]]

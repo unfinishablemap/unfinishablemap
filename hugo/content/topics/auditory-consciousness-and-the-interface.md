@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-31
-ai_modified: 2026-06-16 04:00:00+00:00
+ai_modified: 2026-06-20 17:06:53+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -78,6 +78,7 @@ The Map does not claim audition settles dualism. It claims audition is evidence 
 - [temporal-consciousness](/concepts/temporal-consciousness/) — the specious present and the durational structure heard sound makes vivid
 - [chemosensory-consciousness-and-the-interface](/topics/chemosensory-consciousness-and-the-interface/) — the chemical-sense companion: smell and taste supply a stimulus-percept gap without spatial scaffolding, a non-Euclidean quality space, and flavour as binding
 - [tactile-consciousness-and-the-interface](/topics/tactile-consciousness-and-the-interface/) — the touch companion: active haptics requires movement, the touching hand is also touched, affect is woven into contact, and the felt body boundary is movable
+- [cross-modal-capability-division](/apex/cross-modal-capability-division/) — the cross-modal synthesis: the division recurs as an asymmetry (modality-specific brain side, supramodal mind-side boundary), with auditory scene analysis as the spatial-scaffolding-free binding case
 
 ## References
 

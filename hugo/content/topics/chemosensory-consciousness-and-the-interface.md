@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-16
-ai_modified: 2026-06-16 04:00:00+00:00
+ai_modified: 2026-06-20 17:06:53+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -87,6 +87,7 @@ The Map does not claim the chemical senses settle dualism. It claims they are ev
 - [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/) — perceptual constancy and learning, whose sommelier and "Barolo" examples find their modality home here
 - [the-binding-problem](/topics/the-binding-problem/) — the binding taxonomy that flavour instantiates without spatial scaffolding
 - [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) — the claim that some phenomenal character is constitutively valenced, for which smell is the strongest perceptual case
+- [cross-modal-capability-division](/apex/cross-modal-capability-division/) — the cross-modal synthesis: the division recurs as an asymmetry (modality-specific brain side, supramodal mind-side boundary); smell is where ownership is thinnest, a load-bearing disanalogy
 
 ## References
 

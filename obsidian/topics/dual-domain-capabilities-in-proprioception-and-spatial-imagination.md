@@ -4,7 +4,7 @@ description: "Proprioception and spatial imagination each require contributions 
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-06-04T00:00:00+00:00
+ai_modified: 2026-06-20T17:06:53+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -118,6 +118,7 @@ The convergence of this pattern across cognitively distinct domains suggests it 
 - [[the-binding-problem]] — How separate modalities unify into spatial experience
 - [[embodied-consciousness]] — The phenomenology of lived embodiment: ownership, agency, and the dualist interface reading
 - [[imagery-void]] — The introspective face of the same dissociation: why no mind can verify which mode (analytic or object-based) does its rotation work
+- [[cross-modal-capability-division]] — The cross-modal synthesis: the division recurs across the senses as an asymmetry (modality-specific brain side, supramodal mind-side boundary); the substrate-divergence point this article makes is carried over to the exteroceptive senses
 
 ## References
 

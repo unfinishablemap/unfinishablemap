@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-06-05 00:00:00+00:00
+ai_modified: 2026-06-20 17:06:53+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -107,6 +107,7 @@ The same division generalises beyond vision. [Auditory consciousness](/topics/au
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — The three functions consciousness enables that vision exemplifies
 - [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) — How vision dissociations map the interface's functional anatomy
 - [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) — The same capability division pattern in proprioception and spatial imagination
+- [cross-modal-capability-division](/apex/cross-modal-capability-division/) — The synthesis: the division recurs across the senses as an asymmetry — modality-specific brain machinery, a supramodal mind-side access boundary
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Dreams demonstrate the converse of blindsight: phenomenal experience without visual input, with the same dorsal/ventral division shaping dream imagery
 - [interactionist-dualism](/concepts/interactionist-dualism/)
 - [epiphenomenalism](/concepts/epiphenomenalism/)

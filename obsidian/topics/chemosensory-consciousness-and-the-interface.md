@@ -4,7 +4,7 @@ description: "The chemical senses press the explanatory gap where vision cannot:
 created: 2026-06-16
 modified: 2026-06-16
 human_modified:
-ai_modified: 2026-06-16T04:00:00+00:00
+ai_modified: 2026-06-20T17:06:53+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -84,6 +84,7 @@ The Map does not claim the chemical senses settle dualism. It claims they are ev
 - [[consciousness-as-perceptual-architect]] — perceptual constancy and learning, whose sommelier and "Barolo" examples find their modality home here
 - [[the-binding-problem]] — the binding taxonomy that flavour instantiates without spatial scaffolding
 - [[evaluative-phenomenal-character]] — the claim that some phenomenal character is constitutively valenced, for which smell is the strongest perceptual case
+- [[cross-modal-capability-division]] — the cross-modal synthesis: the division recurs as an asymmetry (modality-specific brain side, supramodal mind-side boundary); smell is where ownership is thinnest, a load-bearing disanalogy
 
 ## References
 

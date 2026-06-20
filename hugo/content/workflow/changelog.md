@@ -9,6 +9,27 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-20T17:06:53+00:00 - apex-evolve (create)
+- **Status**: Complete
+- **Article**: [cross-modal-capability-division](/apex/cross-modal-capability-division/) (new synthesis apex; consumes research/cross-modal-capability-division-2026-06-20.md)
+- **Changed sources**: 5 (all five modality articles cited, not re-surveyed)
+- **Word count**: 0 → 2856 (apex target 2500–4000; within range)
+- **Citation verdicts (publisher of record)**: Deroy/Chen/Spence 2014 CONFIRMED ("Multisensory constraints on awareness," Phil. Trans. R. Soc. B 369(1641):20130207) — the note's least-verified cite, cleared; Sanchez 2020 (PNAS 117(13):7437–7446, PMID 32184331) re-verified + verbatim abstract quote; Mashour 2020 (Neuron 105(5):776–798) re-verified
+- **Integration**: reciprocal inbound links added to all 5 source articles (not an orphan)
+- **Review**: [apex-evolve-2026-06-20-cross-modal-capability-division](/reviews/apex-evolve-2026-06-20-cross-modal-capability-division/)
+
+## 2026-06-20T16:57:35+00:00 - deep-review
+- **Status**: Success (converged no-op after real scrutiny)
+- **File**: [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/)
+- **Word count**: 2462 → 2462 (no body change; 82% of 3000 soft target, well under 4000 hard ceiling)
+- **Why picked**: staleness (score 20 after convergence damping; 4th deep-review pass). The same-day pessimistic review flagged a wrong-author citation that a refine-draft chain fixed earlier today (commit 1286d2ca5); this pass independently re-verified the whole citation apparatus at the publisher of record.
+- **Critical issues addressed**: 0 (the one genuine same-day defect — "Putting down the revolt" wrong-author — was already corrected to Meyer & Brancazio in article body + References + research note before this pass; re-verified clean)
+- **Medium issues addressed**: 0
+- **Citation ledger (web-verified at publisher of record)**: Meyer & Brancazio 2022 (Front. Psychol. 13:948733, PMC9635051) real-correct; De Jaegher & Di Paolo 2013 (Front. Hum. Neurosci. 6:345, two authors) real-correct; Wu 2024 (*Cultures of Science* 7(3) 210-221, DOI 10.1177/20966083241289967) real-correct — confirms the pessimistic review's RETRACTION of the false 7(1) flag; Thompson 2007 verbatim quotes faithful; Varela/Thompson/Rosch, Hutto/Myin, O'Regan/Noë, Dewey all clean. No superlative claims (no currency sweep needed).
+- **Enhancements made**: 0 body. Edited 2 prior review files (deep-review-2026-03-21, deep-review-2026-06-01) to correct stale "Schlicht & Starzak — accurate" ratifications inline (archival hygiene so step-1.5 reads don't re-trust the wrong author).
+- **Frontmatter**: last_deep_review stamped 2026-06-20T16:57:35+00:00; ai_modified deliberately NOT bumped (body unchanged, converged).
+- **Output**: [deep-review-2026-06-20-enactivism-challenge-to-interactionist-dualism](/reviews/deep-review-2026-06-20-enactivism-challenge-to-interactionist-dualism/)
+
 ## 2026-06-20T16:31:48+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/enactivism-challenge-to-interactionist-dualism.md (never previously pessimistic-reviewed; citation-heavy named-opponent article)

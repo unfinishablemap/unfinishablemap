@@ -39,8 +39,8 @@ topics: []
 ### Attribution Accuracy Check
 - Thompson's quotes ("metaphysically peculiar 'properties'" and "ineliminable transcendental character") are from *Mind in Life* — accurate attribution.
 - Hutto and Myin's "Hard Problem of Content" is correctly attributed to *Radicalizing Enactivism*.
-- De Jaegher, Di Paolo, and Gallagher (2013) title and argument correctly described.
-- Schlicht and Starzak (2022) deflationary/revisionist tension accurately presented.
+- ~~De Jaegher, Di Paolo, and Gallagher (2013) title and argument correctly described.~~ **[Corrected 2026-06-01]** Over-attribution: "Enactivism is not interactionism" (*Frontiers in Human Neuroscience* 6:345, PMC3539800) is by **De Jaegher & Di Paolo only** — Gallagher is not an author. Fixed in the article 2026-06-01.
+- ~~Schlicht and Starzak (2022) deflationary/revisionist tension accurately presented.~~ **[Corrected 2026-06-20]** Wrong-author ratification: "Putting down the revolt" (*Frontiers in Psychology* 13:948733) is by **Meyer & Brancazio**, not Schlicht & Starzak (web-verified, PMC9635051). The deflationary/revisionist *tension* is presented accurately; only the author attribution was wrong. Fixed 2026-06-20.
 - No misattributions, dropped qualifiers, or source/Map conflation detected.
 
 ## Optimistic Analysis Summary
