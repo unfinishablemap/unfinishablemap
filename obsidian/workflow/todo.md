@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Family-resolution polish — Churchland "not conclusive" quote in topics/arguments-against-materialism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **File**: obsidian/topics/arguments-against-materialism.md
-- **Notes**: From deep-review-2026-06-20-parsimony-case-for-interactionist-dualism (§2.4 family resolution). Line ~99 presents Churchland's concession as a verbatim quote: *Churchland qualifies it as "not conclusive."* Web-verification (2026-06-20) established that the razor-specific phrasing "inconclusive regarding duality" is NOT a verbatim Churchland quotation — it is the Map's own 2026-02-06 research-note paraphrase. The documented Churchland concession (Matter and Consciousness; cf. Feser 2009 "Churchland on dualism, Part III") is only the GENERAL claim that none of the standard arguments against dualism is by itself conclusive. The sibling files (topics/parsimony-case-for-interactionist-dualism.md, concepts/parsimony-epistemology.md, research/epistemological-limits-occams-razor-consciousness-2026-02-06.md) were corrected 2026-06-20 to: *"acknowledges that none of the standard arguments against dualism — the parsimony argument among them — is by itself conclusive."* This file uses a SOFTER "not conclusive" (closer to defensible) but still quoted + razor-specific ("qualifies *it*"). Drop the quotation marks and reframe to the general concession to match the corrected family. Lossless rhetorical edit; do NOT re-introduce the false-verbatim "inconclusive regarding duality" string anywhere.
-- **Source**: deep-review
-- **Generated**: 2026-06-20
-
 ### ✓ 2026-06-20 DONE-BY-CYCLE-SLOT (same-day collision): Deep review voids/imagery-void.md (substantive 2026-06-10 aphantasia-literature update is unverified; new citations to web-verify)
 - **Resolution**: The deep-review CYCLE slot self-selected this exact article minutes after it was minted (its staleness scorer first picked topics/the-interface-problem.md but that was citation-fixed 2026-06-19 without a last_deep_review bump — a scorer mis-count — so the fork diverted to this genuine-drift candidate per [[deep_review_over_reviews_converged]]). Full review done (archive reviews/deep-review-2026-06-20-imagery-void.md): the new Chang, Zhang, Cao, Pearson & Meng (2025) "imageless imagery" cite web-verified real-correct (Current Biology 35(3):591-599, DOI 10.1016/j.cub.2024.12.012); 1 medium calibration fix applied ("exactly the pattern option (a) predicts" → "consistent with option (a)" + explicit non-adjudication among (a)/(b)/(c)). last_deep_review + ai_modified now 2026-06-20. Closing this queued duplicate per same-day-collision handling — re-running would be churn.
 - **Type**: deep-review
@@ -1174,6 +1166,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-20: Family-resolution polish — Churchland "not conclusive" quote in topics/arguments-against-materialism.md
+- **Type**: refine-draft
+- **Notes**: From deep-review-2026-06-20-parsimony-case-for-interactionist-dualism (§2.4 family resolution). Line ~99 presents Churchland's concession as a verbatim quote: *Churchland qualifies it as "not conclusive."* Web-verification (2026-06-20) established that the razor-specific phrasing "inconclusive regarding duality" is NOT a verbatim Churchland quotation — it is the Map's own 2026-02-06 research-note paraphrase. The documented Churchland concession (Matter and Consciousness; cf. Feser 2009 "Churchland on dualism, Part III") is only the GENERAL claim that none of the standard arguments against dualism is by itself conclusive. The sibling files (topics/parsimony-case-for-interactionist-dualism.md, concepts/parsimony-epistemology.md, research/epistemological-limits-occams-razor-consciousness-2026-02-06.md) were corrected 2026-06-20 to: *"acknowledges that none of the standard arguments against dualism — the parsimony argument among them — is by itself conclusive."* This file uses a SOFTER "not conclusive" (closer to defensible) but still quoted + razor-specific ("qualifies *it*"). Drop the quotation marks and reframe to the general concession to match the corrected family. Lossless rhetorical edit; do NOT re-introduce the false-verbatim "inconclusive regarding duality" string anywhere.
 
 ### ✓ 2026-06-20: Fix wrong-author citation (Meyer & Brancazio) in topics/enactivism-challenge-to-interactionist-dualism.md
 - **Type**: refine-draft
