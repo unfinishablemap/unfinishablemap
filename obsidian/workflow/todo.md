@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep review voids/imagery-void.md (substantive 2026-06-10 aphantasia-literature update is unverified; new citations to web-verify)
+- **Type**: deep-review
+- **File**: obsidian/voids/imagery-void.md
+- **Notes**: FLOOR-RESTORING genuine-drift mint (2026-06-20). Found by a full-set own-body-vs-cosmetic drift classification (the salvaged subagent's top-7 genuine-drift pool — consciousness-selecting, functionalism, psychophysical-laws, pragmatisms, motor-selection, mind-brain-separation, selective-correction — is now exhausted; this is from the second-tier tail). VERIFIED before minting: last_deep_review 2026-06-02, ai_modified 2026-06-10 (8-day drift, no review since); the bump is commit `880f28286 auto(refine-draft): Update recent aphantasia literature in voids/imagery-void.md` which edited THIS file's OWN body — a substantive literature update that ADDED recent aphantasia citations. A refine bumps ai_modified but NOT last_deep_review, so the newly-added citations are UNVERIFIED by deep-review. This review must: (a) **web-verify the new aphantasia citations** at publisher of record (authors/venue/volume/pages/year; verbatim quotes; inline↔References both directions, no orphan refs) — aphantasia is an active 2020s research area (Zeman, Pearson, Keogh, Dawes et al.); 3-state present/wrong-metadata/fabricated per [[ai_citation_metadata_unreliable]]; grep author/year divergence across corpus. (b) Currency sweep ([[empirical-record-currency-drift]]) — aphantasia prevalence/imagery-vividness figures are the kind of superlative empirical claim that goes stale. (c) Confirm the void's framing still honours [[evidential-status-discipline]] (imagery-void = a Tenet-1 phenomenal-structure exhibit; the unimaginability claim must read as a bounded-witness architectural prediction, not established fact); no banned "This is not X. It is Y." construct. **LENGTH:** analyze_length=2760w body=soft_warning (voids soft 2000/hard 3000, ~240w headroom) — NOT a condense candidate but limited headroom; keep review length-neutral-to-trimming. On a converged no-op after REAL scrutiny of the post-refine literature (do NOT trust the refine stamp), stamp last_deep_review WITHOUT bumping ai_modified; if a body fix is made, bump both. Voids over cap (101/100) but deep-review modifies existing content so cap-safe. Confirmed no open duplicate targets it, not vetoed. Inserted at top of Active Tasks to defeat LIFO ([[queue-lifo-starvation]]).
+- **Source**: staleness
+- **Generated**: 2026-06-20
+
 ### P3: Fix Morgan & Bhatt 2015 book-chapter editor metadata in concepts/functionalism.md
 - **Type**: refine-draft
 - **File**: obsidian/concepts/functionalism.md
