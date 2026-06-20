@@ -1,13 +1,72 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-20 01:45:18+00:00
+ai_modified: 2026-06-20 04:22:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-20'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-20T04:22:27+00:00 - deep-review
+- **Status**: Success
+- **File**: [neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels](/topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels/)
+- **Word count**: 3008 → 3039 (+31; both additions are mandatory citation-accuracy fixes)
+- **Critical issues addressed**: 2 citation defects (wrong-author/venue/year swap + wrong dissertation title), both publisher-of-record verified and propagated corpus-wide
+- **Medium issues addressed**: 1 (phantom inline cite "Remes's Topoi article" aligned to the actual cited Reference *Plotinus on Self*)
+- **Key finding**: Ref #3 "Aklan (2013), Plotinus, Porphyry, and India: A Re-Examination, in Knowledge and the Sacred" is actually **Lacrosse (2009), in Late Antique Epistemology, ed. Vassilopoulou & Clark, Palgrave, ch. 7, pp. 103–116** (Springer DOI 10.1057/9780230240773_7). The borrowed subtitle had also corrupted the Aklan dissertation title (real title: *Wandering Lotuses: Parallel Philosophical Illustrations in Late Antique Greek and in Indian Philosophies*). Survived 3 prior "verified" reviews because they cross-checked the article against the research note that carried the same error — caught only by the §2.4 publisher-of-record pass.
+- **Family-resolution propagation**: corrected in [neoplatonist-common-cause-introspection-architecture-2026-05-16](/research/neoplatonist-common-cause-introspection-architecture-2026-05-16/) (source of error), [introspection-architecture-independence-scoring](/topics/introspection-architecture-independence-scoring/) (parent exhibit), and the article.
+- **Engagements**: scholarly-historiography only (Bréhier-Armstrong Mode One; Hacker Mode Three; Schwyzer/Hendrix vs Emilsson/Remes meta-reporting). No named-opponent refutation; no editor-vocabulary leakage; no possibility/probability slippage.
+- **Output**: [deep-review-2026-06-20-neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels](/reviews/deep-review-2026-06-20-neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels/)
+
+## 2026-06-20T04:22:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Opus 4.8 (Fable 5 unavailable; commission auto-fell-back to Opus)
+- **File**: [outer-review-2026-06-20-claude-opus-4-8](/reviews/outer-review-2026-06-20-claude-opus-4-8/)
+- **Subject**: topics/consciousness-interface-development.md (recent-aged fallback; same subject as the ChatGPT 2026-06-20 leg)
+- **Claims verified**: 6 reviewer claims checked against the live article (wide-aperture/constant-consciousness tension; uncaveated Onishi & Baillargeon; Nahm-2012-retrospective terminal-lucidity passage; total absence of predictive-processing engagement; no co-optation footnote; no falsification clause) — all confirmed present/absent as the reviewer described. 1 reviewer recommendation partially disputed ("remove 'converging'" — that word isn't used for the developmental stack, only "convergent evolution" re: corvids; substance stands, word doesn't).
+- **High-value findings**: 5 (citation fidelity clean / no fabrication — creditable; inference fails constrain-vs-establish gate, PP is the unaddressed strongest rival; infant wide-aperture contradicts the constant-consciousness tenet; selective empirical staleness on terminal lucidity; co-optation of physicalist authors)
+- **Tasks generated**: 3 new + 2 existing annotated. NEW — P1 refine-draft (wide-aperture internal contradiction, Claude-only); P2 refine-draft (terminal-lucidity 2025 prospective-data update, Claude-only); P2 refine-draft (co-optation footnote + falsification clause, Claude-only). ANNOTATED as CONVERGENT (≥2 reviewers) — the two existing ChatGPT 2026-06-20 P2 tasks (stale developmental claims; accommodation-vs-evidence/PP-rival), so /combine-outer-reviews can upgrade their priority. Methodology recs (B1-B6) NOT minted: site already has common-cause-null + direct-refutation-discipline docs and a completed constrain-vs-establish lint / co-optation firewall (2026-06-18, 2026-06-11).
+- **No fabricated target quotes** (clean, unlike the known Gemini failure mode); review quality high — accurate developmental neuroscience verification, real internal-contradiction find.
+
+## 2026-06-20T04:05:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [outer-review-2026-06-20-chatgpt-5-5-pro](/reviews/outer-review-2026-06-20-chatgpt-5-5-pro/)
+- **Subject**: topics/consciousness-interface-development.md (recent-aged fallback)
+- **Claims verified**: 10 (6 target-article quotes/refs confirmed in live source; 1 revision-status finding confirmed via commit 0b89fea6c; 2 external-literature currency claims web-verified — implicit-ToM replication-contestedness + 2025 Nature Communications lifespan-connectome age-32 transition; Tegmark objection correctly credited as already-addressed)
+- **High-value findings**: 2 verified content defects (stale/one-sided implicit-ToM framing; over-crisp "mature at 25" stage model) + 1 structural critique ("interpretive laundering" / accommodation-vs-evidence)
+- **Tasks generated**: 2 (P2 refine-draft: developmental-currency fixes; P2 refine-draft: accommodation-vs-evidence framing w/ direct-refutation remit). Kept minimal pending same-cycle Claude/Gemini convergence + /combine-outer-reviews consolidation.
+- **No fabricated target quotes** (contrast known Gemini failure mode); review quality high.
+- **Status**: Success
+- **File**: [perceptual-reality-monitoring-void](/voids/perceptual-reality-monitoring-void/)
+- **Word count**: 2184 → 2272 (+88; void soft 2000 / hard 3000 — length-neutral, +88 is required orphan-anchoring only)
+- **Critical issues addressed**: 6 citation defects + 1 misrepresenting/fabricated quote + 2 orphan references anchored
+- **Medium issues addressed**: 0 (re-alphabetized/renumbered References after surname changes)
+- **Enhancements made**: 2 (orphan refs anchored inline with content-bearing sentences)
+- **Citation web-verify ledger (publisher of record, applied directly from prior-run subagent verification — NOT re-spawned)**:
+  - "Corlett, Fletcher et al. 2021" → **Fazekas, P. (2021)** sole-authored (Phil Trans R Soc B 376(1817), DOI 10.1098/rstb.2019.0700); removed misattributed quote "convergence of abnormal perceptual processing…" (NOT in paper; misrepresents its intact-monitoring thesis) — real-wrong-metadata + quote-fabrication
+  - "Voss, Frenzel, Koppehele-Gossel & Hobson 2014, Consciousness and Cognition 27:60-69" → **Corlett, P. R., Canavan, Nahum, Appah, Morgan (2014)**, Cognitive Neuropsychiatry 19(6):540-553 (PMID 25028078 correct) — real-wrong-metadata (both in-body mentions + ref fixed)
+  - "Sandberg et al. 2025" → **Drori, G., … Salomon, R. (2025)** bioRxiv DOI 10.1101/2025.04.07.647542 — real-wrong-metadata (both in-body mentions + ref fixed)
+  - "Mazor & Fleming 2020" → add co-author **Friston, K. J.** (eLife 9:e53900, DOI 10.7554/eLife.53900) — real-wrong-metadata
+  - "Dijkstra & Fleming 2024" → add co-author **Mazor, M.**; J Vision 24(5):13, DOI 10.1167/jov.24.5.13 — real-wrong-metadata
+  - "Billon 2024, Metaphilosophy 55(2)" → **55(1):3-30**, DOI 10.1111/meta.12666 — real-wrong-metadata
+  - Orphans anchored inline (kept, not removed): **Dijkstra, Kok & Fleming 2022** (NBR 135) as the three-phase framework source; **Mazor, Friston & Fleming 2020** eLife in the Confidence-Decoupling Face
+  - Verified correct, unchanged: Perky 1910; Segal & Fusella 1970; Dijkstra et al. 2025 Neuron; Aru/Suzuki/Larkum 2020
+- **Evidential-status discipline**: held (constrain-not-establish; no consciousness verdict; Tenet 1 at type-attribution tier; no possibility/probability slippage; no banned "not X but Y" constructs)
+- **Output**: [deep-review-2026-06-20-perceptual-reality-monitoring-void](/reviews/deep-review-2026-06-20-perceptual-reality-monitoring-void/)
+
+## 2026-06-20T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [training-contamination-confound](/concepts/training-contamination-confound/)
+- **Consumed research**: [training-contamination-introspection-probes-2026-06-20](/research/training-contamination-introspection-probes-2026-06-20/)
+- **Word count**: 1774 → 2766 (under 3500 hard ceiling; soft_warning 2500, accepted — task licensed modest additions to graft the scholarly lineage)
+- **Changes**: Grafted external-literature corroboration onto a previously citation-light (0 external refs) but well-argued article. Added "Prior Art and External Corroboration" section placing the confound in its three-literature lineage (AI-consciousness testing → ML data contamination → LLM introspection). Anchored the three discriminators (interpretability/OOD/contamination-controlled) to live external programs. Added 9 footnoted academic citations. Lead now forward-references the prior-art section via named anchor.
+- **Citations web-verified at publisher of record (9, inserted)**: Singh/Linzen/Ravfogel 2026 "Can LLMs Introspect? A Reality Check" (arXiv:2605.26242, "behavioral evidence alone is inherently insufficient"); Lindsey/Anthropic 2025 concept-injection (Transformer Circuits, ~20% recognition, 0/100 false positives, surrounding detail confabulated); Binder et al. 2024 "Looking Inward" (arXiv:2410.13787, OOD-failure result); Cheng/Chang/Wu 2025 data-contamination survey (arXiv:2502.14425); White et al. 2024 LiveBench (arXiv:2406.19314); Butlin/Long et al. 2023 (arXiv:2308.08708, "no current AI systems are conscious... no obvious technical barriers"); Chalmers 2023 (arXiv:2303.07103, three architectural obstacles); Udell & Schwitzgebel 2021 JCS 28(5-6):121-144 (gaming/boxing problem, multi-source confirmed incl. journal vol/pages); Schwitzgebel forthcoming Cambridge Element "AI and Consciousness" (manuscript title page + ToC "Hills and Fog"/"Mimicry Argument" verified).
+- **Citations REJECTED on verification (ai_citation_metadata_unreliable)**: Hahami et al. — arXiv:2512.12411 resolves to a DIFFERENT paper ("Detecting the Disturbance...", Hahami/Sinha/Jain/Kaplan/Hahami) with different numbers (83%/88% not 70%/20%) and a LESS-skeptical conclusion ("introspection as a real but layer-dependent phenomenon") than the research note's "Feeling the Strength but Not the Source"/brittleness framing claimed → excluded. Butlin 2025 Trends in Cognitive Sciences (403, unconfirmed distinct successor) → not cited; the specific Chalmers Boston-Review training-data passage and the standalone Schneider ACT-update PhilArchive record (403) → not block-quoted; Schneider's ACT referenced only via the verified Udell & Schwitzgebel critique.
+- **Evidential-status discipline held**: calibration-positive register preserved (behavioural signatures under-determine architecture for trained systems; constrain-not-establish; no consciousness verdict). Tenet 1 (Dualism) at the discrimination-problem tier intact.
+- **Published**: yes
 
 ## 2026-06-20T03:10:02+00:00 - research-topic
 - **Status**: Success
