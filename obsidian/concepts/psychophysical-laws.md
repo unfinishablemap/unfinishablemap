@@ -4,7 +4,7 @@ description: "Fundamental principles connecting conscious experience to physical
 created: 2026-01-16
 modified: 2026-03-27
 human_modified: null
-ai_modified: 2026-06-20T06:47:26+00:00
+ai_modified: 2026-06-20T14:25:21+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -267,6 +267,7 @@ The Map cannot resolve which coupling law is correct—this remains open. What t
 - [[delegation-meets-quantum-selection]] — The Born-rule distribution as the physical grounding of Saad's default causal profile, giving empirical content to psychophysical coupling
 - [[the-interface-problem]] — Where consciousness meets the brain and the challenge of specifying the mind-matter mapping
 - [[born-rule-and-the-consciousness-interface]] — Which coupling proposals require Born-rule violation, active experimental programmes, and what negative results would and would not foreclose
+- [[contextual-selection-in-quantum-foundations]] — Kochen-Specker and preparation contextuality constrain the attention/intention/effort coupling families
 - [[concepts/functionalism]] — The view the Map rejects
 - [[haecceity]] — Why organizational invariance is rejected
 - [[chalmers-psychophysical-laws-2026-01-17]] — Research notes on Chalmers' framework

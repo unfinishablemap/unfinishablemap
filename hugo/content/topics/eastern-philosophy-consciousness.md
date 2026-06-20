@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-06-02 08:36:36+00:00
+ai_modified: 2026-06-20 13:19:23+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -38,7 +38,7 @@ description: Hindu, Buddhist, and Taoist traditions converge with dualism on con
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-31 12:50:32+00:00
+last_deep_review: 2026-06-20 13:19:23+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -85,7 +85,7 @@ As [buddhism-and-dualism](/concepts/buddhism-and-dualism/) argues in detail, thi
 
 Despite rejecting a permanent self, Buddhist meditation cultivates the capacity to observe mental contents as objects (see [witness-consciousness](/concepts/witness-consciousness/)). Buddhism rejects an eternal soul-substance, not the phenomenal structure of awareness that makes observation possible. If consciousness can observe thoughts as objects, the observer cannot be identical to what is observed—something irreducible is revealed.
 
-Neuroimaging supports this: a 7T fMRI case study of an advanced vipassana practitioner (Laukkonen & Slagter 2024) documented progressive self-deconstruction—self-processing regions deactivated while awareness regions activated. What investigation discloses is not an unchanging witness-substance but the *process* of witnessing: awareness operating without a fixed center. The subject-object structure remains; permanence does not.
+Neuroimaging supports this: a 7T fMRI case study of an advanced insight-meditation practitioner (Yang et al. 2025) documented progressive self-deconstruction—self-processing regions deactivated while awareness regions activated. What investigation discloses is not an unchanging witness-substance but the *process* of witnessing: awareness operating without a fixed center. The subject-object structure remains; permanence does not.
 
 ### Yogācāra and Madhyamaka
 
@@ -228,7 +228,7 @@ Eastern philosophy illuminates all five of the Map's [tenets](/tenets/), while r
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Garfield, J. (1995). *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*. Oxford University Press.
 1. Gupta, B. (1998). *The Disinterested Witness: A Fragment of Advaita Vedanta Phenomenology*. Northwestern University Press.
-1. Laukkonen, R. E., & Slagter, H. A. (2024). Deconstructing the self and reshaping perceptions: An intensive whole-brain 7T MRI case study. *NeuroImage*.
+1. Yang, W. F. Z., Chowdhury, A., Sparby, T., & Sacchet, M. D. (2025). Deconstructing the self and reshaping perceptions: An intensive whole-brain 7T MRI case study of the stages of insight during advanced investigative insight meditation. *NeuroImage*, 305, 120968.
 1. Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press.
 1. Siderits, M. (2007). *Buddhism as Philosophy*. Hackett.
 1. Stanford Encyclopedia of Philosophy. Mind in Indian Buddhist Philosophy.

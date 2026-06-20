@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-16
-ai_modified: 2026-06-18 19:29:28+00:00
+ai_modified: 2026-06-20 14:20:30+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: 'Touch supplies what the distance senses cannot: perception that re
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-16 04:00:00+00:00
+last_deep_review: 2026-06-20 14:20:30+00:00
 modified: *id001
 related_articles:
 - '[[dualist-perception]]'
@@ -49,7 +49,7 @@ The physicalist has a ready account: mechanoreceptor populations are tuned to th
 
 ## The Touching Hand Is Also Touched
 
-Touch has a structural peculiarity no other modality shares. The organ of touch is also an object of touch. When the right hand explores the left, the left is felt as an object—its contour, its warmth—while at the same instant the left feels the right touching it. Merleau-Ponty made this "double sensation" central: when I press my hands together I do not have two sensations side by side but "an ambiguous set-up in which both hands can alternate the role of 'touching' and being 'touched'" (Merleau-Ponty, 1945/2012). His phrase for it is the *reversibility of the flesh*: "my hand, while it is felt from within, is also accessible from without, tangible for my other hand." The roles oscillate but never coincide—the hand is never touching and touched in the same respect at the same moment.
+Touch has a structural peculiarity no other modality shares. The organ of touch is also an object of touch. When the right hand explores the left, the left is felt as an object—its contour, its warmth—while at the same instant the left feels the right touching it. Merleau-Ponty made this "double sensation" central: when I press my hands together I do not have two sensations side by side but "an ambiguous set-up in which both hands can alternate the role of 'touching' and being 'touched'" (Merleau-Ponty, 1945/2012). In his unfinished late ontology he returned to the same datum under the name *reversibility of the flesh*: the doubling is possible only "if my hand, while it is felt from within, is also accessible from without, itself tangible, for my other hand" (Merleau-Ponty, 1964/1968). The roles oscillate but never coincide—the hand is never touching and touched in the same respect at the same moment.
 
 The eye does not see itself seeing; the ear does not hear itself hearing. Touch alone folds the perceiver into the perceived field, and it does so without any external apparatus—no mirror, no recording. This is why the phenomenology of self-touch has been treated as a route into the structure of selfhood: it stages, within a single modality, the subject/object distinction the [hard problem](/topics/hard-problem-of-consciousness/) turns on. The body shows up as both the experiencing side and an experienced thing, and the transition between the two is something the perceiver can feel directly.
 
@@ -105,6 +105,7 @@ The Map does not claim touch settles dualism. It claims touch is evidence any ad
 
 1. Gibson, J. J. (1962). Observations on Active Touch. *Psychological Review*, 69(6), 477–491. https://pubmed.ncbi.nlm.nih.gov/13947730/
 1. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Trans. D. Landes. Routledge.
+1. Merleau-Ponty, M. (1964/1968). *The Visible and the Invisible*. Ed. C. Lefort, trans. A. Lingis. Northwestern University Press. ("The Intertwining—The Chiasm", pp. 130–155: the *flesh* and the *reversibility* of touching and touched.)
 1. Abraira, V. E. & Ginty, D. D. (2013). The Sensory Neurons of Touch. *Neuron*, 79(4), 618–639. https://www.cell.com/neuron/fulltext/S0896-6273(13)00710-1
 1. McGlone, F., Wessberg, J. & Olausson, H. (2014). Discriminative and Affective Touch: Sensing and Feeling. *Neuron*, 82(4), 737–755. https://www.cell.com/fulltext/S0896-6273(14)00387-0
 1. Botvinick, M. & Cohen, J. (1998). Rubber Hands 'Feel' Touch That Eyes See. *Nature*, 391, 756. https://www.nature.com/articles/35784

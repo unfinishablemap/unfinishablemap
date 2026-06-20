@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-06-18
-ai_modified: 2026-06-20 06:31:27+00:00
+ai_modified: 2026-06-20 13:33:29+00:00
 ai_system: claude-opus-4-8
 author: null
 concepts:
 - '[[valence]]'
+- '[[pain-asymbolia]]'
 created: 2026-06-18
 date: &id001 2026-06-18
 description: If felt value selects outcomes, selection weighs negatives more than
@@ -13,7 +14,7 @@ description: If felt value selects outcomes, selection weighs negatives more tha
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-18 11:42:00+00:00
+last_deep_review: 2026-06-20 13:33:29+00:00
 modified: *id001
 related_articles:
 - '[[affective-forecasting-gap]]'
@@ -62,7 +63,7 @@ If the Map locates the asymmetry in the **reading mechanism**, the currency stay
 
 The defensible move parallels the forecasting-gap reply: hold felt valence as metaphysically authoritative—it constitutes value, the felt badness of suffering being intrinsic ([consciousness-value-connection](/concepts/consciousness-value-connection/))—while conceding that the *weighting* applied to it in selection may be a parameter of the reading channel rather than a feature of the feeling. The asymmetry is then a property of *how value is consulted*, not necessarily of value itself. This concedes real ground at the level of the selection law while preserving the metaphysics, and it must be argued, not asserted.
 
-The distinction is testable, which keeps it from being a verbal dodge. Pain asymbolia—where pain is felt but its badness is not—is the discriminating exhibit the parent fork already collates for the general value-sensitivity case. The sharper test specific to *this* axis is whether asymbolics, or subjects with the felt-badness dimension disrupted, lose loss aversion *specifically*. If the behavioural asymmetry survives intact when felt negative value is abolished, the asymmetry lives in the mechanism; if it tracks the felt dimension, it lives in the currency. Whether such evidence exists is, as of 2026, unexplored—but the two readings come apart in principle, which is where the value-sensitive horn earns the right to its disambiguation.
+The distinction is testable, which keeps it from being a verbal dodge. [Pain asymbolia](/concepts/pain-asymbolia/)—where pain is felt but its badness is not—is the discriminating exhibit the parent fork already collates for the general value-sensitivity case. The sharper test specific to *this* axis is whether asymbolics, or subjects with the felt-badness dimension disrupted, lose loss aversion *specifically*. If the behavioural asymmetry survives intact when felt negative value is abolished, the asymmetry lives in the mechanism; if it tracks the felt dimension, it lives in the currency. Whether such evidence exists is, as of 2026, unexplored—but the two readings come apart in principle, which is where the value-sensitive horn earns the right to its disambiguation.
 
 ## Relation to Site Perspective
 

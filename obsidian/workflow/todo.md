@@ -45,13 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-06-20
 
-### P2: Add reciprocal contextuality cross-links across the quantum-probability cluster
-- **Type**: refine-draft
-- **File**: obsidian/concepts/contextual-selection-in-quantum-foundations.md
-- **Notes**: Suggested by optimistic review 2026-06-20b (quantum-probability cluster). Pure CROSS-LINK task, length-neutral — do NOT add substantive new prose. The Kochen-Specker / preparation-contextuality result in `concepts/contextual-selection-in-quantum-foundations.md` (deep-reviewed 2026-06-19) directly constrains the consciousness-mediated selection process that three cluster articles invoke, but the edges are missing. Add: (a) a Further Reading line in `topics/quantum-measurement-and-subjective-probability.md` → contextual-selection (the indexical-reading selection is contextuality-bound); (b) a Further Reading line in `topics/consciousness-and-probability-interpretation.md` → contextual-selection (its "consciousness selects among quantum-permitted outcomes" mechanism is preparation-context-dependent); (c) a Further Reading line in `concepts/psychophysical-laws.md` → contextual-selection (constrains the attention/intention/effort coupling families) — NOTE psychophysical-laws body is ~3388w, only ~112w under the concepts 3500 hard ceiling, so a single Further-Reading line ONLY, strictly length-neutral; (d) a reciprocal back-edge from contextual-selection → `topics/consciousness-and-probability-interpretation`. Verify each link resolves (Hugo slug) and reciprocates. Bump ai_modified (NOT last_deep_review) on each touched file. See [[optimistic-2026-06-20b]].
-- **Source**: optimistic-review
-- **Generated**: 2026-06-20
-
 ### ✓ 2026-06-20 DONE-BY-CYCLE-SLOT (same-day collision): Deep review concepts/psychophysical-laws.md (substantive scope-calibration refine 2026-06-19 is unverified; Tenet 1/3 load-bearing)
 - **Resolution**: The deep-review CYCLE slot self-selected this same article minutes after it was queued and completed the full review (commit 1876e62c; archive reviews/deep-review-2026-06-20-psychophysical-laws.md). It verified the 2026-06-19 scope-clause drift clean AND caught 3 defects (Chalmers 1995 misquote, Beck&Eccles 1992 inline-orphan→added, t-shirt attribution). last_deep_review now 2026-06-20. Closing this queued duplicate per [[deep_review_over_reviews_converged]] same-day-collision handling — re-running would be churn.
 - **Type**: deep-review
@@ -1173,6 +1166,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-20: Add reciprocal contextuality cross-links across the quantum-probability cluster
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review 2026-06-20b (quantum-probability cluster). Pure CROSS-LINK task, length-neutral — do NOT add substantive new prose. The Kochen-Specker / preparation-contextuality result in `concepts/contextual-selection-in-quantum-foundations.md` (deep-reviewed 2026-06-19) directly constrains the consciousness-mediated selection process that three cluster articles invoke, but the edges are missing. Add: (a) a Further Reading line in `topics/quantum-measurement-and-subjective-probability.md` → contextual-selection (the indexical-reading selection is contextuality-bound); (b) a Further Reading line in `topics/consciousness-and-probability-interpretation.md` → contextual-selection (its "consciousness selects among quantum-permitted outcomes" mechanism is preparation-context-dependent); (c) a Further Reading line in `concepts/psychophysical-laws.md` → contextual-selection (constrains the attention/intention/effort coupling families) — NOTE psychophysical-laws body is ~3388w, only ~112w under the concepts 3500 hard ceiling, so a single Further-Reading line ONLY, strictly length-neutral; (d) a reciprocal back-edge from contextual-selection → `topics/consciousness-and-probability-interpretation`. Verify each link resolves (Hugo slug) and reciprocates. Bump ai_modified (NOT last_deep_review) on each touched file. See [[optimistic-2026-06-20b]].
 
 ### ✓ 2026-06-20: Fix Morgan & Bhatt 2015 book-chapter editor metadata in concepts/functionalism.md
 - **Type**: refine-draft

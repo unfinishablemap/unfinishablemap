@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-06-04 00:00:00+00:00
+ai_modified: 2026-06-20 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -222,7 +222,7 @@ What contemplatives discovered through sustained practice, phenomenology articul
 1. Hume, D. (1739). *A Treatise of Human Nature*. Book I, Part IV, Section 6.
 1. Garrison, K. A., et al. (2013). Effortless awareness: Using real time neurofeedback to investigate correlates of posterior cingulate cortex activity in meditators' self-report. *Frontiers in Human Neuroscience*, 7.
 1. Krishnamurti, J. (1954). *The First and Last Freedom*. Harper & Brothers.
-1. Laukkonen, R. E., & Slagter, H. A. (2024). Deconstructing the self and reshaping perceptions: An intensive whole-brain 7T MRI case study. *NeuroImage*.
+1. Yang, W. F. Z., Chowdhury, A., Sparby, T., & Sacchet, M. D. (2025). Deconstructing the self and reshaping perceptions: An intensive whole-brain 7T MRI case study of the stages of insight during advanced investigative insight meditation. *NeuroImage*, 305, 120968.
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
 1. Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press.
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.

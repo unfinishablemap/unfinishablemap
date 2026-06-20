@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-06-19 13:05:00+00:00
+ai_modified: 2026-06-20 14:25:21+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -98,6 +98,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet rejects the dissolution of s
 - [weak-measurement-and-post-selection](/concepts/weak-measurement-and-post-selection/)
 - [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/)
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
+- [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) — How the strongest probability-selection reading ("consciousness selects among quantum-permitted outcomes") sits within the contextuality constraint developed here
 
 ## References
 

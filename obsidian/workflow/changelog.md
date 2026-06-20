@@ -5,6 +5,19 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T14:25:21+00:00 - refine-draft (multi-file cross-link)
+- **Status**: Success
+- **Files**: [[topics/quantum-measurement-and-subjective-probability]], [[topics/consciousness-and-probability-interpretation]], [[concepts/psychophysical-laws]], [[concepts/contextual-selection-in-quantum-foundations]]
+- **Source**: optimistic-2026-06-20b — the Kochen-Specker/preparation-contextuality result in contextual-selection-in-quantum-foundations constrains the consciousness-mediated selection mechanism three cluster articles invoke, but the cross-link edges were missing.
+- **Changes** (length-neutral; Further-Reading lines + one reciprocal edge only, no new substantive prose):
+  - (a) quantum-measurement-and-subjective-probability → contextual-selection (indexical-reading selection is contextuality-bound)
+  - (b) consciousness-and-probability-interpretation → contextual-selection ("consciousness selects among quantum-permitted outcomes" is preparation-context-dependent)
+  - (c) psychophysical-laws → contextual-selection (constrains attention/intention/effort coupling families) — single Further-Reading line, length-critical
+  - (d) reciprocal back-edge: contextual-selection → consciousness-and-probability-interpretation (reciprocates b)
+- **Length check**: psychophysical-laws 3429 → 3441 words (+12), under the concepts 3500 hard ceiling (59w headroom).
+- **Verification**: all 4 edges grep-confirmed; b↔d reciprocity confirmed; both link targets resolve to real Hugo slugs; sync exits 0 with no broken-link warnings on any of the 4 touched files. Bumped ai_modified on all 4 (NOT last_deep_review).
+- **Published**: yes
+
 ## 2026-06-20T14:20:30+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/tactile-consciousness-and-the-interface]]

@@ -9,6 +9,122 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-20T14:20:30+00:00 - deep-review
+- **Status**: Success
+- **File**: [tactile-consciousness-and-the-interface](/topics/tactile-consciousness-and-the-interface/)
+- **Selection**: Self-selected over the scorer's low-score metadata candidate. Never deep-reviewed (last_deep_review was the create-time self-stamp, not a real review — fresh-create-defect-tail target) AND genuine own-body drift (latest commit was a substantive refine, not a cross-link bump). Declined the heavily-reviewed large-drift alternatives (free-will 30+ priors, comparing-quantum 11) as convergence-damped.
+- **Word count**: 2883 → 2932 (+49)
+- **Critical issues addressed**: 1 — Merleau-Ponty source misattribution. The "reversibility of the flesh" phrase + the quote "my hand, while it is felt from within… itself tangible, for my other hand" were attributed to *Phenomenology of Perception* (1945/2012) but belong to *The Visible and the Invisible* (1964/1968, "The Intertwining—The Chiasm", p. 133) — the *flesh*/reversibility ontology is late-work, confirmed against IEP/SEP. Split the citation, added the 1964/1968 reference, corrected the quote to verbatim ("itself tangible"). The double-sensation two-hands quote is correctly 1945/2012 and was left unchanged.
+- **Medium issues addressed**: 0 new — both prior pessimistic findings (inexact parent quote; "completing the series" overclaim) confirmed already RESOLVED by the 2026-06-18 refine; not re-flagged.
+- **Citation web-verify**: all 8 external cites web-verified at publisher of record this pass (not trusting prior status). Gibson 1962, Abraira & Ginty 2013, McGlone/Wessberg/Olausson 2014, Botvinick & Cohen 1998, O'Regan & Noë 2001, IASP 2020 — all real-correct (author vectors, venue/vol/pages, verbatim quotes confirmed). Merleau-Ponty fixed as above. No fabrications, no currency-superseded superlatives, inline↔References complete both directions.
+- **Engagement modes** (editor-internal): Dennett/physicalist — Mode Three boundary-marking, done honestly (concedes + adopts the rival mechanism in every section; no boundary-substitution). Nagarjuna self-deconstruction — noted expansion opportunity, deferred to ownership-problem.
+- **Enhancements made**: 1 — the source split slightly strengthens the touching-touched section (shows Merleau-Ponty returned to the datum across two decades).
+- **Output**: [deep-review-2026-06-20-tactile-consciousness-and-the-interface](/reviews/deep-review-2026-06-20-tactile-consciousness-and-the-interface/)
+- **Length**: 98% of topics soft (3000); under hard. Length-neutral-ish fix.
+- **Published**: yes (not a draft)
+
+## 2026-06-20T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [functionalism](/concepts/functionalism/)
+- **Task**: VERIFY-FIRST citation-metadata fix (3-state). Suspected defect: References ~L202 "Morgan, P.G. & Bhatt, D.H. (2015). 'Anesthetic Action in *C. elegans*.' In *Bhatt, D.H. (ed.), C. elegans: Methods and Applications*, 2nd ed." + inline ~L117 "(Morgan & Bhatt, 2015)".
+- **Verification**: Outcome (b) — mis-constructed chapter ref, REPLACED. The book "*C. elegans: Methods and Applications*" (Methods in Molecular Biology vol. 1327, Humana/Springer 2015, DOI 10.1007/978-1-4939-2842-2) is REAL but its editors are **Gal Haspel & Anne C. Hart** — NOT "Bhatt, D.H." (confirmed via Springer/Amazon catalog). No chapter "Anesthetic Action in C. elegans" by Morgan/Bhatt surfaces in that volume at any publisher of record (Springer ToC, PubMed, Google Books) — the chapter appears fabricated/mis-constructed. Replaced with the confirmable Morgan review of exactly this claim: **Morgan, P.G., Kayser, E.-B. & Sedensky, M.M. (2007). "*C. elegans* and Volatile Anesthetics." *WormBook*, 1-11. doi:10.1895/wormbook.1.140.1** (PMID 18050492, verified at PubMed). Morgan's corpus (incl. 1988 Anesthesiology "Multiple sites of action…") amply supports the body claim.
+- **Changes**: (1) References L202 — replaced the Morgan & Bhatt 2015 mis-constructed chapter ref with the verified Morgan, Kayser & Sedensky 2007 WormBook review. (2) Inline L117 — "(Morgan & Bhatt, 2015)" → "(Morgan et al., 2007)" for consistency with the verified authorship. Body claim at L117 ("*C. elegans* responds to volatile anesthetics similarly to vertebrates") PRESERVED — it is well-supported; only the citation metadata changed.
+- **Length**: neutral (metadata-only). ai_modified bumped 2026-06-10 → 2026-06-20; last_deep_review NOT bumped.
+- **Published**: yes
+
+## 2026-06-20T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
+- **Task**: Single-file citation-metadata fix (spurious co-author removal; 3-state = real-wrong-metadata → fix, do NOT de-cite)
+- **Changes**: Removed spurious co-author "& Glazebrook" from the 2015 IJMPB Monte Carlo Zeno paper in BOTH locations: inline L82 ("Georgiev and Glazebrook's Monte Carlo critique (2015)" → "Georgiev's Monte Carlo critique (2015)") and References L211 ("Georgiev, D. D. & Glazebrook, J. F. (2015)…" → "Georgiev, D. D. (2015)…"). Title/venue/vol/page unchanged (all correct).
+- **Verification**: Publisher-of-record confirmed LONE author Danko Georgiev — arXiv:1412.4741 (single-author), World Scientific DOI 10.1142/S0217979215500393, ADS 2015IJMPB..2950039G. The Glazebrook collaborations are DISTINCT papers (2014 Biomedical Reviews; 2018 Prog Biophys Mol Biol) — not confused here. Corroborates the 5 corpus files already citing this 2015 paper as lone Georgiev (minority-error fix).
+- **Length**: neutral (metadata-only). ai_modified bumped; last_deep_review NOT bumped.
+- **Published**: yes
+
+## 2026-06-20T00:00:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [witness-consciousness](/concepts/witness-consciousness/), [meditation-observer-witness-phenomenon-2026-01-18](/research/meditation-observer-witness-phenomenon-2026-01-18/)
+- **Task**: Multi-file citation-metadata propagation (Yang et al. 2025 author-vector fix)
+- **Changes**: WRONG-AUTHOR misattribution corrected (3-state = real-wrong-metadata → fix, not de-cite). "Laukkonen, R. E., & Slagter, H. A. (2024). Deconstructing the self… 7T MRI case study. *NeuroImage*." → "Yang, W. F. Z., Chowdhury, A., Sparby, T., & Sacchet, M. D. (2025). … of the stages of insight during advanced investigative insight meditation. *NeuroImage*, 305, 120968." (publisher-verified: PubMed PMID 39653180, DOI 10.1016/j.neuroimage.2024.120968). witness-consciousness: References L223 only (no inline body mention). research note: References L289 + descriptor fix L77 ("Stages of Insight in vipassana" → "in advanced investigative insight meditation", matching the AIIM study; left the historical search-query line at L17 untouched).
+- **Propagation root**: research note is the propagation root — fixing it prevents re-propagation into future synthesis articles.
+- **Corpus grep**: no remaining "Laukkonen.*Slagter.*2024" / wrong-author "Deconstructing the self" in live content (obsidian excl reviews/workflow). Remaining hits are workflow (task/log) + reviews (provenance) by design. eastern-philosophy-consciousness already fixed (inline L85 + References L228 both Yang 2025).
+- **Out-of-scope flag**: archive/topics/eastern-philosophy-haecceity-tension.md still carries the old Laukkonen&Slagter cite (archived URL-preservation copy; its 2026-02-02 deep-review deferred verification). Not in this task's named-file scope; out-of-scope for citation refresh on archived content.
+- **Length impact**: metadata-only, length-neutral.
+- **Published**: yes (research note is a public note; witness-consciousness is draft:false)
+
+## 2026-06-20T13:33:29+00:00 - deep-review
+- **Status**: Success
+- **File**: [negative-valence-asymmetry-and-the-selection-weighting-function](/concepts/negative-valence-asymmetry-and-the-selection-weighting-function/)
+- **Word count**: 2199 → 2199 (+0; length-neutral cross-link add)
+- **Critical issues addressed**: 0 (none found — model of evidential-calibration discipline; no possibility/probability slippage; tenet-load decline correctly routed through argument not razor)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added `[[pain-asymbolia]]` cross-link — the load-bearing exhibit for the falsifiable disambiguation test was plain text)
+- **Selection**: genuine-drift candidate over scorer's converged metadata pick; ZERO prior deep reviews (create-time self-stamp only); first true deep review; citation-heavy → mandatory §2.4 web-verify
+- **Citation web-verify**: all 12 cites publisher-verified, all real-correct; 3 verbatim quotes verified word-for-word (T&K 1991, T&K 1992, Baumeister 2001); load-bearing numbers verified (Brown 2024 λ=1.955 [1.820,2.102]/607; Yechiam&Zeif 2025 symmetric-unordered λ≈1.07); Gal&Rucker 2-author confirmed via Crossref against aggregator "Shavitt" false-positive; inline↔References clean both ways; 0 superlatives
+- **Reasoning-mode**: value-blind-steelman engagement = Mode Three (boundary-marking + honest concession); no boundary-substitution; no label leakage
+- **Calibration verdict**: PASS — a tenet-accepting reviewer would flag nothing as overstated relative to the five-tier scale
+- **Output**: [deep-review-2026-06-20-negative-valence-asymmetry-and-the-selection-weighting-function](/reviews/deep-review-2026-06-20-negative-valence-asymmetry-and-the-selection-weighting-function/)
+
+## 2026-06-20T13:19:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)
+- **Word count**: 2772 → 2776 (+4; citation correction only)
+- **Critical issues addressed**: 1 (wrong-author misattribution — "Laukkonen & Slagter 2024" for the NeuroImage 7T self-deconstruction case study corrected to "Yang, Chowdhury, Sparby & Sacchet 2025, NeuroImage 305:120968" inline + References, publisher-verified at PubMed)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged article; web-verify pass was the substantive work)
+- **Calibration verdict**: PASS — Buddhist no-self / Advaita non-dualism read as honest rival-engagement, not co-opted as dualism support; no possibility/probability slippage; no editor-label leakage; no banned construct
+- **Citation ledger**: Adams 1979, Demirel 2025, Fox 2012, Thompson 2020 all real-correct; Laukkonen&Slagter 2024 real-wrong-metadata (wrong author → corrected to Yang et al. 2025)
+- **Note**: drift trigger 7eb8b03ac was cosmetic-only on this file (stale-stamp artifact); same misattribution propagated to witness-consciousness.md + a research note (follow-on queued)
+- **Output**: [deep-review-2026-06-20-eastern-philosophy-consciousness](/reviews/deep-review-2026-06-20-eastern-philosophy-consciousness/)
+
+## 2026-06-20T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [structure-of-attention](/topics/structure-of-attention/)
+- **Word count**: 2641 → 2641 (no change; converged no-op after real scrutiny)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Trigger**: GENUINE-DRIFT verification — 18d stale; drift = fd49b3820 (2026-06-08) own-body mental-effort calibration adopt, unverified
+- **Calibration verdict**: PASS — the drift was a calibration IMPROVEMENT (added honest "suggestive rather than decisive" hedge declining to over-claim the dualist reading). Diagnostic test clean on all load-bearing effort/attention claims; no possibility/probability slippage. Effort/attention claims read as argued framework register, not established cognitive science.
+- **Citation ledger**: References block UNCHANGED since 2026-06-02 publisher-of-record pass (all 7 real-correct). Verbatim quote re-verify this pass: James "free will question relates solely to the amount of effort of attention" (Principles of Psychology) = real-correct; COGITATE "very short-lived in the prefrontal cortex and did not track the duration of the stimulus" (Nature 642(8066):133-142) = real-correct verbatim. No orphan refs (both directions). Corpus grep on Rajan/Nadra/Thura/Rizzolatti/COGITATE: consistent, no divergence.
+- **Currency/construct/leakage**: no superlative claims (helper empty); no banned "This is not X. It is Y." construct; no editor-vocab leakage.
+- **Engagement modes (editor-only)**: physicalist Mode 2 (hedge strengthens Mode-3 residue); Buddhist no-self Mixed (3 + data-persistence); stochastic objection Mixed (2 + 3). No boundary-substitution.
+- **Stamp**: last_deep_review bumped to 2026-06-20; ai_modified NOT bumped (no body fix — converged no-op).
+- **Output**: [deep-review-2026-06-20-structure-of-attention](/reviews/deep-review-2026-06-20-structure-of-attention/)
+
+## 2026-06-20T00:00:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The memory / Tulving-hierarchy cluster — consciousness-and-memory, phenomenology-of-memory-and-the-self, memory-anomalies, memory-channel-interface-evidence, anoetic-noetic-autonoetic-consciousness (+ memory-system concept pages and the discriminating-test articles)
+- **Key finding**: grep-verified asymmetric cross-link gap — `memory-channel-interface-evidence` links OUT to the three cluster hubs but receives no inbound links from any; queued one P2 refine-draft (cross-link-only) to repair it across all three hub files
+- **Output**: [optimistic-2026-06-20c](/reviews/optimistic-2026-06-20c/)
+
+## 2026-06-20T12:47:09+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)
+- **Type**: GENUINE-DRIFT verification (12th review; drift = commit 530f30fce, 2026-06-03, refine-draft "Adopt panpsychism calibration" — own-body anchoring-calibration edit, never independently verified)
+- **Word count**: 3242 → 3286 (+44; inline anchor for Jackson 1982 / Robinson 2004)
+- **Calibration verdict (check a)**: PASS — the 530f30fce panpsychism calibration is correctly applied and is a legitimate evidential-status improvement, NOT drift to revert. Three strong-assertion softenings ("proves"→"taken to show", "establishes"→"makes the case" + added "evidence does not decisively adjudicate" underdetermination marker, "shows"→"suggests") all move toward argued-framework register. Epiphenomenalism-vs-panpsychism reads as argued register, not establishment-by-elimination; threat framed as a problem the Map must NEUTRALISE not a defeated rival that proves dualism; no possibility→probability slippage. Diagnostic test (tenet-accepting reviewer flag overstatement?) = NO.
+- **Critical issues addressed**: 1 — Jackson (1982) and Robinson (2004) were inline↔References orphans (in References since creation 928f7a900, never cited inline; missed by all 11 prior reviews incl the 2026-06-01 metadata audit which never checked References→inline). FIXED: anchored both inline in the Functionalism/qualia-epiphenomenalism section + added the supervenience-variant (lawlike-not-coincidental) distinction. Resolves orphan both directions without deleting two load-bearing refs.
+- **Citation web-verify ledger** (publisher of record, 3-state; prior intra-corpus "verified" NOT trusted): Chalmers 1996 (OUP; quote genuine) real-correct · Huxley 1874 (*Fortnightly Review* 16:555-580) real-correct · Hagan/Hameroff/Tuszynski 2002 (*Phys Rev E* 65:061901; PMID 12188753) real-correct · Jackson 1982 (*Philosophical Quarterly* 32(127):127-136; recantation note correct) real-correct · Kim 1989 (*Proc & Addresses APA* 63:31-47) real-correct · Kim 2005 (Princeton UP; "not a stable position" gloss faithful) real-correct · Robinson 2004 (Cambridge UP) real-correct · Stapp 2007 (Springer) real-correct · Tegmark 2000 (*Phys Rev E* 61:4194-4206; PMID 11088215; "~10⁻¹³ headline" = deliberate slowest-end choice, 9-orders arithmetic correct) real-correct. Inline↔References now clean both directions. Currency sweep: 0 superlatives (N/A).
+- **Engagement modes** (editor-internal): epiphenomenalism = Mode Two + Three (mixed; closure-premise denial flagged as tenet commitment + proposed mechanism, not refutation); Kim exclusion = Mode One. No label leakage. No banned "This is not X. It is Y." construct.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (qualia-epiphenomenalism passage names the position + supervenience-variant distinction)
+- **Output**: [deep-review-2026-06-20-the-epiphenomenalist-threat](/reviews/deep-review-2026-06-20-the-epiphenomenalist-threat/)
+
+## 2026-06-20T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/)
+- **Type**: GENUINE-DRIFT verification (drift = commit 5c24338fa, 2026-06-09, refine-draft "Adopt mental-causation-and-downward-causation calibration" — own-body edit that bumped ai_modified but not last_deep_review)
+- **Word count**: 2189 → 2189 (no body change; converged no-op after real scrutiny)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Barrett-six verdict**: CONFIRMED. Barrett et al. 2021 = SIX populations, re-verified at publisher of record (Wiley DOI 10.1111/cogs.12992, PubMed 34170020, gwern PDF, ORA Oxford, PhilPapers). Article reads "six" at L46 + L78 — NOT regressed to "eight." Corpus-wide grep: all live articles say "six"; no live "eight" remains.
+- **Citation audit (3-state, publisher of record)**: Barrett 2021 real-correct (author vector + e12992 + verbatim quotes all match); Barlev & Shtulman 2021 real-correct (Psych Review 128:1007-1021, "learned not innate" faithful; "Davinci the Dualist" is a DIFFERENT paper, no conflation); Clark 2013 real-correct (BBS 36(3):181-204, DOI 10.1017/S0140525X12000477); McGinn 1989 real-correct (Mind 98(391):349-366); Bloom 2004 / Chalmers 1995 / Hohwy 2013 / Friston canonical-stable. Inline↔References complete both directions, no orphan refs. Currency sweep empty (no superlative claims). No banned "This is not X. It is Y." construct.
+- **Calibration verdict**: the drift commit's three edits ("proves the point"→"cuts against itself"; added underdetermination-concession paragraph; "demonstrates"→"marshals evidence") all REDUCE overclaim — correct direction per [evidential-status-discipline](/project/evidential-status-discipline/). No possibility/probability slippage; article declines to treat cognitive-science findings as evidence FOR dualism. The learned/non-dualist-default finding cuts AGAINST naive dualism and the article handles it honestly.
+- **Engagement modes** (editor-internal): genetic-fallacy materialist = Mode One (defective on own terms, symmetry move); behavioural-output physicalist = Mode Two softened to honest boundary-marking by the drift concession; predictive-processing physicalist = Mode Three. No label leakage.
+- **Stamp policy**: last_deep_review bumped to 2026-06-20; ai_modified NOT bumped (converged no-op, no body fix).
+- **Output**: [deep-review-2026-06-20-cognitive-science-of-dualism](/reviews/deep-review-2026-06-20-cognitive-science-of-dualism/)
+
 ## 2026-06-20T12:08:55+00:00 - deep-review
 - **Status**: Success
 - **File**: [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/)

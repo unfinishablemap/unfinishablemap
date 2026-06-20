@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-06-10 00:00:00+00:00
+ai_modified: 2026-06-20 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -117,7 +117,7 @@ But if phenomenal concepts are themselves just another functional role in the co
 
 Research on [simple organisms](/concepts/minimal-consciousness/) exposes a difficulty at functionalism's core: specifying which functional roles constitute consciousness.
 
-*C. elegans* (302 neurons) responds to volatile anesthetics similarly to vertebrates (Morgan & Bhatt, 2015), habituates to stimuli, and shows positive Phi in computational models of its connectome (Oizumi et al., 2014)—yet fails trace-conditioning tests. The slime mold *Physarum polycephalum*, with no neurons whatsoever, solves mazes (Nakagaki et al., 2000), optimizes network routes (Tero et al., 2010), and habituates to stimuli (Boisseau et al., 2016)—exactly the cross-substrate realization functionalism predicts. The dilemma: if functional role is what matters, either Physarum has some form of consciousness—a conclusion most functionalists resist—or additional criteria beyond functional role separate cognitive from conscious systems.
+*C. elegans* (302 neurons) responds to volatile anesthetics similarly to vertebrates (Morgan et al., 2007), habituates to stimuli, and shows positive Phi in computational models of its connectome (Oizumi et al., 2014)—yet fails trace-conditioning tests. The slime mold *Physarum polycephalum*, with no neurons whatsoever, solves mazes (Nakagaki et al., 2000), optimizes network routes (Tero et al., 2010), and habituates to stimuli (Boisseau et al., 2016)—exactly the cross-substrate realization functionalism predicts. The dilemma: if functional role is what matters, either Physarum has some form of consciousness—a conclusion most functionalists resist—or additional criteria beyond functional role separate cognitive from conscious systems.
 
 The natural move is that Physarum implements simpler roles. But the more precisely we specify which roles suffice for consciousness, the more the specification describes features of biological nervous systems—recurrent connectivity, global broadcast, temporal integration—rather than substrate-independent causal patterns. The theory risks a dilemma between liberalism (any system implementing relevant functions is conscious) and chauvinism that smuggles substrate-level facts into what was supposed to be a substrate-independent account.
 
@@ -202,7 +202,7 @@ None of these would logically refute dualism—the conceivability arguments woul
 1. Milinkovic, B. & Aru, J. (2026). "On biological and artificial consciousness: A case for biological computationalism." *Neuroscience & Biobehavioral Reviews*, 181, 106524. (Epub 17 Dec 2025; print Feb 2026.)
 1. Melloni, L., et al. (2023). "An adversarial collaboration protocol for testing contrasting predictions of global neuronal workspace and integrated information theory." *PLOS ONE*, 18(2), e0268577.
 1. Cogitate Consortium; Melloni, L., et al. (2025). "Adversarial testing of global neuronal workspace and integrated information theories of consciousness." *Nature*, 642, 133-142.
-1. Morgan, P.G. & Bhatt, D.H. (2015). "Anesthetic Action in *C. elegans*." In *Bhatt, D.H. (ed.), C. elegans: Methods and Applications*, 2nd ed.
+1. Morgan, P.G., Kayser, E.-B. & Sedensky, M.M. (2007). "*C. elegans* and Volatile Anesthetics." *WormBook*, 1-11. doi:10.1895/wormbook.1.140.1.
 1. Nakagaki, T., Yamada, H. & Tóth, Á. (2000). "Maze-solving by an amoeboid organism." *Nature*, 407, 470.
 1. Oizumi, M., Albantakis, L. & Tononi, G. (2014). "From the Phenomenology to the Mechanisms of Consciousness: Integrated Information Theory 3.0." *PLOS Computational Biology*, 10(5), e1003588.
 1. Putnam, H. (1967). "Psychological Predicates." In W.H. Capitan & D.D. Merrill (eds.), *Art, Mind, and Religion*. University of Pittsburgh Press.

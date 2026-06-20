@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-06-20 02:43:25+00:00
+ai_modified: 2026-06-20 14:25:21+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -171,6 +171,7 @@ This article connects to multiple tenets:
 - [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) — How the objective/subjective/indexical readings of probability bear on consciousness more broadly
 - [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Converging evidence that quantum effects operate in neural systems
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy from decoherence to neural decisions
+- [contextual-selection-in-quantum-foundations](/concepts/contextual-selection-in-quantum-foundations/) — Why the indexical reading's "*I* experience *this* outcome" selection is contextuality-bound: no outcome can be assigned independently of the measurement context
 
 ## References
 

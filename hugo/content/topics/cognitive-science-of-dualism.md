@@ -22,7 +22,7 @@ description: Cognitive science presupposes methodological materialism, yet its o
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-05 19:31:30+00:00
+last_deep_review: 2026-06-20 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

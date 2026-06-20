@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-06-01 00:00:00+00:00
+ai_modified: 2026-06-20 14:25:21+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -145,6 +145,7 @@ The distinction matters for the interface view. Cognitive blindness is a limitat
 - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — Decision theory, self-locating uncertainty, and envariance all fail to recover the Born rule in MWI
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Which QM interpretations leave room for consciousness at the interface
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Why Born rule derivation failures point toward consciousness-collapse, which interface proposals preserve, bend, or sit orthogonal to the Born rule, and what current experiments can and cannot decide
+- [contextual-selection-in-quantum-foundations](/concepts/contextual-selection-in-quantum-foundations/) — Why "consciousness selects among quantum-permitted outcomes" is preparation-context-dependent: Kochen-Specker and preparation contextuality constrain the shape of any selection process
 
 ## References
 

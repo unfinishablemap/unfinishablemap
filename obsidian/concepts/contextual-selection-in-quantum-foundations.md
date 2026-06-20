@@ -4,7 +4,7 @@ description: "Quantum contextuality means measurement outcomes depend on what el
 created: 2026-03-29
 modified: 2026-05-19
 human_modified:
-ai_modified: 2026-06-19T13:05:00+00:00
+ai_modified: 2026-06-20T14:25:21+00:00
 draft: false
 topics:
   - "[[quantum-measurement-and-consciousness]]"
@@ -95,6 +95,7 @@ The [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects the dissolution of s
 - [[weak-measurement-and-post-selection]]
 - [[amplification-mechanisms-consciousness-physics]]
 - [[quantum-measurement-and-consciousness]]
+- [[consciousness-and-probability-interpretation]] — How the strongest probability-selection reading ("consciousness selects among quantum-permitted outcomes") sits within the contextuality constraint developed here
 
 ## References
 

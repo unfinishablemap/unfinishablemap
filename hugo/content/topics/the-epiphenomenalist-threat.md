@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-06-03 16:51:47+00:00
+ai_modified: 2026-06-20 12:47:09+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ description: Epiphenomenalism isn't just one view among many—it's the default 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 19:57:49+00:00
+last_deep_review: 2026-06-20 12:47:09+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -87,13 +87,13 @@ Non-reductive physicalism was designed to avoid epiphenomenalism. It holds that 
 
 Kim demonstrated that this combination is unstable. If mental property M supervenes on physical property P, and P is causally sufficient for the effect, then M's causal contribution is either identical to P's (collapsing non-reductive into reductive physicalism) or excluded by P's (epiphenomenalism). [Supervenience](/concepts/supervenience/) without identity provides no independent causal role.
 
-Non-reductive physicalists have responded with proposals about causal overdetermination, counterfactual dependence, and proportionality. None has achieved consensus. The position remains philosophically viable, but the epiphenomenalist threat has not been neutralized—only managed. Kim himself concluded that non-reductive physicalism is "not a stable position" and that its proponents face a forced choice between reduction and causal impotence (*Physicalism, or Something Near Enough*, 2005).
+Non-reductive physicalists have responded with proposals about causal overdetermination, counterfactual dependence, and proportionality. None has achieved consensus. The position remains philosophically viable, but the epiphenomenalist threat has not been neutralized—only managed. Kim himself concluded that non-reductive physicalism is not a stable position and that its proponents face a forced choice between reduction and causal impotence (*Physicalism, or Something Near Enough*, 2005).
 
 ## Functionalism: The Qualia Problem
 
 [Functionalism](/concepts/functionalism/) defines mental states by their causal roles—what they do rather than what they are made of. Pain is whatever state is caused by tissue damage, causes distress, and prompts avoidance behavior. This seems to guarantee causal efficacy: mental states are *defined* as causally active.
 
-The threat enters through qualia, conditional on phenomenal realism. If there is [something it is like to be in pain](/topics/pain-consciousness-and-causal-power/)—a felt quality beyond the functional role—functionalism faces a question: does the felt quality contribute causally, or does the functional role do all the work? The absent qualia thought experiment sharpens this: if a system could play all the right functional roles without any felt experience, experience is not part of the functional story. It is an extra feature—present when certain functional roles are played, but doing no functional work itself. This is epiphenomenalism about qualia, even within a framework designed to ensure mental causation.
+The threat enters through qualia, conditional on phenomenal realism. If there is [something it is like to be in pain](/topics/pain-consciousness-and-causal-power/)—a felt quality beyond the functional role—functionalism faces a question: does the felt quality contribute causally, or does the functional role do all the work? The absent qualia thought experiment sharpens this: if a system could play all the right functional roles without any felt experience, experience is not part of the functional story. It is an extra feature—present when certain functional roles are played, but doing no functional work itself. This is epiphenomenalism about qualia, even within a framework designed to ensure mental causation—the position Frank Jackson named in "Epiphenomenal Qualia" (1982) and W.S. Robinson later developed at length (2004): the felt quality supervenes on the physical states that do the causing, leaving its correlation with behavior lawlike rather than coincidental, yet leaving the quality itself causally idle.
 
 Functionalists dispute the prior commitment: if mental states just *are* their functional roles, there is no residual phenomenal property to be epiphenomenal about. The absent qualia scenario is genuinely conceivable only if phenomenal character is separable from functional organization—which is exactly what functionalism denies. The debate therefore turns on whether phenomenal realism is independently motivated. The Map accepts phenomenal realism on independent grounds—the [hard problem](/topics/hard-problem-of-consciousness/), the [self-stultification argument](/concepts/epiphenomenalism/), and the [content-specificity](/concepts/content-specificity-of-mental-causation/) evidence where conscious beliefs produce neurochemical cascades tracking the *meaning* of belief. Given that commitment, functionalism's vulnerability to the epiphenomenalist threat follows.
 

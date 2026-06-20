@@ -4,7 +4,7 @@ description: "QBism's probabilities are structurally dependent on consciousness�
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-06-20T02:43:25+00:00
+ai_modified: 2026-06-20T14:25:21+00:00
 last_deep_review: 2026-06-20T02:43:25+00:00
 draft: false
 topics:
@@ -168,6 +168,7 @@ This article connects to multiple tenets:
 - [[consciousness-and-probability-interpretation]] — How the objective/subjective/indexical readings of probability bear on consciousness more broadly
 - [[quantum-biology-and-neural-consciousness]] — Converging evidence that quantum effects operate in neural systems
 - [[quantum-neural-timing-constraints]] — The timing hierarchy from decoherence to neural decisions
+- [[contextual-selection-in-quantum-foundations]] — Why the indexical reading's "*I* experience *this* outcome" selection is contextuality-bound: no outcome can be assigned independently of the measurement context
 
 ## References
 

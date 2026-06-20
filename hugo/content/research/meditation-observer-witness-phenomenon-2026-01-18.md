@@ -1,10 +1,10 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-05-26 00:00:00+00:00
+ai_modified: 2026-06-20 00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-18
-date: '2026-05-26'
+date: '2026-06-20'
 draft: false
 related_articles: []
 title: Research Notes - Meditation and the Observer-Witness Phenomenon
@@ -77,7 +77,7 @@ The "observer" or "witness" (Sanskrit: *sakshi*) phenomenon in meditation refers
 - **URL**: https://www.sciencedirect.com/science/article/pii/S1053811924004658
 - **Type**: Peer-reviewed research
 - **Key points**:
-  - Stages of Insight in vipassana consistently deactivated regions for self-related processing (medial PFC, temporal poles)
+  - Stages of Insight in advanced investigative insight meditation consistently deactivated regions for self-related processing (medial PFC, temporal poles)
   - Activated regions for awareness and perception (parietal, visual cortices)
   - Equanimity correlated with mPFC deactivation and PCC activation
   - First neurophenomenological evidence that meditation deconstructs self-perception
@@ -289,7 +289,7 @@ Before synthesis articles, further research would strengthen the analysis:
 - Gupta, B. (1998). *The Disinterested Witness: A Fragment of Advaita Vedanta Phenomenology*. Northwestern University Press. https://nupress.northwestern.edu/9780810115651/the-disinterested-witness/
 - Garrison, K. A., et al. (2013). Effortless awareness: Using real time neurofeedback to investigate correlates of posterior cingulate cortex activity in meditators' self-report. *Frontiers in Human Neuroscience*, 7, 440. https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2013.00440/full
 - Krishnamurti, J. Choiceless awareness. Wikipedia. https://en.wikipedia.org/wiki/Choiceless_awareness
-- Laukkonen, R. E., & Slagter, H. A. (2024). Deconstructing the self and reshaping perceptions: An intensive whole-brain 7T MRI case study. *NeuroImage*. https://www.sciencedirect.com/science/article/pii/S1053811924004658
+- Yang, W. F. Z., Chowdhury, A., Sparby, T., & Sacchet, M. D. (2025). Deconstructing the self and reshaping perceptions: An intensive whole-brain 7T MRI case study of the stages of insight during advanced investigative insight meditation. *NeuroImage*, 305, 120968. https://www.sciencedirect.com/science/article/pii/S1053811924004658
 - Manna, A., et al. (2010). Neural correlates of focused attention and cognitive monitoring in meditation. *Brain Research Bulletin*, 82(1-2). https://pubmed.ncbi.nlm.nih.gov/20223285/
 - Sakshi (witness). Wikipedia. https://en.wikipedia.org/wiki/Sakshi_(witness)
 - Stapp, H. P. (2009). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
