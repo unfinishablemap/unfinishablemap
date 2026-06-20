@@ -4,7 +4,7 @@ description: "Quantum mechanics' central puzzle: why measurement yields definite
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-06-19T17:46:44+00:00
+ai_modified: 2026-06-20T06:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -53,7 +53,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-05-31T18:07:12+00:00
+last_deep_review: 2026-06-20T06:05:00+00:00
 ---
 
 The measurement problem is the central foundational puzzle in quantum mechanics—and it creates the logical opening for consciousness to play a role in physics. Quantum systems evolve deterministically according to the Schrödinger equation, forming superpositions of all possible states. Yet measurement yields a single, definite outcome. What causes this transition? The mathematics doesn't say. As J.S. Bell framed it: "Either the wavefunction...is not everything, or it is not right."
@@ -94,7 +94,7 @@ This reveals a gap across major interpretations:
 
 ## Why Decoherence Doesn't Solve It
 
-[[decoherence]] is sometimes claimed to solve the measurement problem. It doesn't—though it explains something substantial: why macroscopic superpositions vanish and which basis is selected. As Tomaz et al. note: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured" (2025). This clean partition—decoherence handles all structural work while leaving the actuality question untouched—is *compatible with* two readings: the [[physics-as-disclosure|disclosure reading]], on which the partition marks a boundary in reality, and an open-problem reading, on which an as-yet-unfound [[spontaneous-collapse-theories|dynamical-collapse theory]] (GRW, CSL, Penrose) will eventually close the gap. What the result establishes is epistemic—a limit on derivation—not yet metaphysical, and it does not by itself select between the two. The Map prefers disclosure because the collapse programmes leave the actuality question untouched even where they succeed dynamically (objective reduction fixes *that* and *when* a system reduces, not *which* outcome becomes actual *for* an experiencing subject), so the gap looks structural rather than provisional—an inference to the better reading, not something the result forces. [[quantum-darwinism-and-consciousness|Quantum Darwinism]] extends this result: even when environmental redundancy makes pointer states objectively accessible to independent observers, the problem of outcomes persists—the most developed decoherence programme still cannot specify which outcome becomes actual.
+[[decoherence]] is sometimes claimed to solve the measurement problem. It doesn't—though it explains something substantial: why macroscopic superpositions vanish and which basis is selected. As Tomaz et al. note: "After the basis is chosen and quantum superpositions are suppressed, the system remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured" (2025). This clean partition—decoherence handles all structural work while leaving the actuality question untouched—is *compatible with* two readings: the [[physics-as-disclosure|disclosure reading]], on which the partition marks a boundary in reality, and an open-problem reading, on which an as-yet-unfound [[spontaneous-collapse-theories|dynamical-collapse theory]] (GRW, CSL, Penrose) will eventually close the gap. What the result establishes is epistemic—a limit on derivation—not yet metaphysical, and it does not by itself select between the two. The Map prefers disclosure because the collapse programmes leave the actuality question untouched even where they succeed dynamically (objective reduction fixes *that* and *when* a system reduces, not *which* outcome becomes actual *for* an experiencing subject), so the gap looks structural rather than provisional—an inference to the better reading, not something the result forces. [[quantum-darwinism-and-consciousness|Quantum Darwinism]] extends this result: even when environmental redundancy makes pointer states objectively accessible to independent observers, the problem of outcomes persists—the most developed decoherence programme still cannot specify which outcome becomes actual.
 
 ### A Gödelian Parallel: Systems That Cannot Describe Themselves
 

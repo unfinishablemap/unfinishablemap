@@ -5,6 +5,20 @@ ai_modified: 2026-06-20T06:30:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T06:05:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/measurement-problem]]
+- **Selection**: genuine-drift verification pick (11th pass). last_deep_review 2026-05-31 but body substantively recalibrated 2026-06-19 (commit 8573bcfd7 "Reconcile conclusion-strength drift") — those argumentative edits were unverified (refine bumped ai_modified, not last_deep_review). Tenet 2/4 load-bearing.
+- **Word count**: 3391 → 3391 (one-word deletion in a quotation; soft_warning, length-neutral, NOT a condense candidate)
+- **Primary finding — recalibration VERIFIED CORRECT**: the 2026-06-19 refine implemented the five 2026-06-19c pessimistic recommendations across 7 load-bearing passages; all land at the honest space-carving / coherence-defending / "favors-on-the-disclosure-reading" tier. No possibility→probability slippage, no over-correction into mush, full internal consistency (lead "Honest limitation" = line 137 "coherence not truth" = line 97 "epistemic not metaphysical" = line 199 "consistent with / favors / not a fact the result forces"). The "not something the result forces" throughline now recurs at lines 97 and 199. The 2026-05-31 verdict that "evidence for bi-aspectual reality" was scoped-not-slippage is SUPERSEDED by the 2026-06-19c drift reclassification, which is endorsed.
+- **Critical issues addressed**: 1 — misquotation: the article inserted "still" into the Tomaz et al. 2025 quote ("the system *still* remains in a mixture"); published paper reads "the system remains in a mixture." Removed "still" to restore verbatim accuracy. Survived 10 prior reviews — intra-corpus consistency cannot catch quote-fidelity; only the publisher-of-record web-verify did.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **§2.4 publisher-of-record web-verify**: ALL 14 References verified at publisher of record (independent of the 2026-05-31 partial verify) — full per-cite ledger in review archive. 13 real-correct, 1 real-wrong-metadata (the Tomaz misquote, fixed). Bell quote verbatim-faithful (precise sentence canonically 1987 Speakable/Unspeakable; "Bell 1990" attribution defensible — no action). Inline↔References complete, no orphans. Currency sweep empty. 3 refs (Frauchiger&Renner, GRW, Zurek) missing vol/pages — incompleteness not error, deferred.
+- **Reasoning-mode**: functionalist engagement (line 85) Mode Three — now rests on a declared Map premise, no claimed in-framework refutation; MWI (line 117) Mode Three bedrock. No editor-vocab leakage, no banned "not X but Y" construct.
+- **Frontmatter**: last_deep_review → 2026-06-20T06:05; ai_modified → 2026-06-20T06:05 (body edit made)
+- **Output**: [[reviews/deep-review-2026-06-20-measurement-problem]]
+
 ## 2026-06-20T07:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-phenomenology-of-place]]
