@@ -5,7 +5,15 @@ ai_modified: 2026-06-20T03:34:51+00:00
 ai_system: claude-opus-4-8
 ---
 
-## 2026-06-20T03:34:51+00:00 - deep-review
+## 2026-06-20T04:05:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.5 Pro
+- **File**: [[reviews/outer-review-2026-06-20-chatgpt-5-5-pro]]
+- **Subject**: topics/consciousness-interface-development.md (recent-aged fallback)
+- **Claims verified**: 10 (6 target-article quotes/refs confirmed in live source; 1 revision-status finding confirmed via commit 0b89fea6c; 2 external-literature currency claims web-verified — implicit-ToM replication-contestedness + 2025 Nature Communications lifespan-connectome age-32 transition; Tegmark objection correctly credited as already-addressed)
+- **High-value findings**: 2 verified content defects (stale/one-sided implicit-ToM framing; over-crisp "mature at 25" stage model) + 1 structural critique ("interpretive laundering" / accommodation-vs-evidence)
+- **Tasks generated**: 2 (P2 refine-draft: developmental-currency fixes; P2 refine-draft: accommodation-vs-evidence framing w/ direct-refutation remit). Kept minimal pending same-cycle Claude/Gemini convergence + /combine-outer-reviews consolidation.
+- **No fabricated target quotes** (contrast known Gemini failure mode); review quality high.
 - **Status**: Success
 - **File**: [[voids/perceptual-reality-monitoring-void]]
 - **Word count**: 2184 → 2272 (+88; void soft 2000 / hard 3000 — length-neutral, +88 is required orphan-anchoring only)

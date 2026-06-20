@@ -37,6 +37,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update stale developmental-neuroscience claims in consciousness-interface-development.md (implicit-ToM + age-25 maturity)
+- **Type**: refine-draft
+- **File**: obsidian/topics/consciousness-interface-development.md
+- **Notes**: From outer review 2026-06-20 (ChatGPT 5.5 Pro). Two VERIFIED currency/precision defects (both checked against live 2020s literature in the review's Verification Notes — do not re-verify the contestedness, but DO web-verify any new citation's metadata per [[ai_citation_metadata_unreliable]] before inserting): (1) The article asserts flatly that "implicit false-belief understanding appears as early as 15 months in looking-time studies" relying only on Onishi & Baillargeon 2005 / Wellman 2001. The implicit-ToM looking-time literature is now heavily replication-contested (Ruffman 2023 Child Development Perspectives; multiple failed anticipatory-looking replications). Reframe to "some looking-time studies have been interpreted as implicit false-belief sensitivity as early as 15 months, but this interpretation is replication-contested," and distinguish "implicit sensitivity to belief-like regularities" from "full belief attribution." Honour [[evidential-status-discipline]]. (2) The "ages 25-50 fully mature interface / prefrontal myelination complete" framing is too crisp: the 2025 lifespan connectome paper ("Topological turning points across the human lifespan," Nature Communications 2025, N=4,216) puts the major adult transition at ~32, not 25, with five nonlinear epochs (turning points ~9/32/66/83). Soften the stage model to loose, population-level, domain-specific ranges; note adult maturation is continuous and nonlinear. Also soften "becomes irreversible" critical-period closure to "strongly stabilized / ordinarily not recoverable" (region-specific timing, possible reopening). Length discipline (no "This is not X. It is Y." cliché); keep within the topics ceiling.
+- **Review file**: `reviews/outer-review-2026-06-20-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-20
+
+### P2: Sharpen accommodation-vs-evidence framing in consciousness-interface-development.md ("interpretive laundering")
+- **Type**: refine-draft
+- **File**: obsidian/topics/consciousness-interface-development.md
+- **Notes**: From outer review 2026-06-20 (ChatGPT 5.5 Pro). The reviewer's central structural critique: the article repeatedly shows the Map's interface framework can ACCOMMODATE ordinary developmental neuroscience, but rarely shows the facts PREFER it over physicalist / functionalist / predictive-processing / neuroconstructivist / Parfit-reductionist readings ("interpretive laundering"). Apply the [[direct-refutation-discipline]] remit. Identify what kind of engagement each move calls for: showing the opponent's position is defective on its own terms, naming an unsupported foundational move the framework has not earned by its own standards, or honestly marking the framework-boundary disagreement. Apply the corresponding reply mode in **natural journal-quality prose** — see [[writing-style|the writing-style guide]]'s "Engaging Opponents in Journal-Quality Prose" section. **Do not expose mode labels in the article body.** The classification is editor-internal; it belongs in the refine-draft changelog entry, not in the article. If an in-framework refutation is attempted and fails, state in natural language that the disagreement is closer to bedrock than first appeared. Concretely: where the article reads as evidential ("the trajectory itself is the phenomenon that demands explanation," "reveals what shapes the interface"), recalibrate toward a compatibility claim and add a brief "same data, rival reading" note for the load-bearing sections (infancy, adolescence/maturity, terminal lucidity) before giving the Map interpretation. The skill-acquisition and social-understanding pages already carry the identity-theorist caveat — import/back-link it. Honour [[evidential-status-discipline]].
+- **Review file**: `reviews/outer-review-2026-06-20-chatgpt-5-5-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-06-20
+
 ### P2: Deep review topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels.md (32d since last review, ai_contribution=100, longest-stale converged tier)
 - **Type**: deep-review
 - **File**: obsidian/topics/neoplatonist-common-cause-weight-for-cross-tradition-introspection-architecture-parallels.md

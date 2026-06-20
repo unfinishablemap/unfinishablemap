@@ -337,9 +337,9 @@
   commissioned_at: '2026-06-20T02:05:44.519251+00:00'
   prompt_summary: Audit consciousness-interface-development
   target_filename: outer-review-2026-06-20-chatgpt-5-5-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-06-20T03:50:46.096879+00:00'
   failure_reason: null
   prompt_text: "Please conduct a rigorous outer review of one article on The Unfinishable\
     \ Map (https://unfinishablemap.org), a philosophy site defending a dualist, consciousness-causes-quantum-collapse\
