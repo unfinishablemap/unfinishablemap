@@ -5,6 +5,21 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/structure-of-attention]]
+- **Word count**: 2641 → 2641 (no change; converged no-op after real scrutiny)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Trigger**: GENUINE-DRIFT verification — 18d stale; drift = fd49b3820 (2026-06-08) own-body mental-effort calibration adopt, unverified
+- **Calibration verdict**: PASS — the drift was a calibration IMPROVEMENT (added honest "suggestive rather than decisive" hedge declining to over-claim the dualist reading). Diagnostic test clean on all load-bearing effort/attention claims; no possibility/probability slippage. Effort/attention claims read as argued framework register, not established cognitive science.
+- **Citation ledger**: References block UNCHANGED since 2026-06-02 publisher-of-record pass (all 7 real-correct). Verbatim quote re-verify this pass: James "free will question relates solely to the amount of effort of attention" (Principles of Psychology) = real-correct; COGITATE "very short-lived in the prefrontal cortex and did not track the duration of the stimulus" (Nature 642(8066):133-142) = real-correct verbatim. No orphan refs (both directions). Corpus grep on Rajan/Nadra/Thura/Rizzolatti/COGITATE: consistent, no divergence.
+- **Currency/construct/leakage**: no superlative claims (helper empty); no banned "This is not X. It is Y." construct; no editor-vocab leakage.
+- **Engagement modes (editor-only)**: physicalist Mode 2 (hedge strengthens Mode-3 residue); Buddhist no-self Mixed (3 + data-persistence); stochastic objection Mixed (2 + 3). No boundary-substitution.
+- **Stamp**: last_deep_review bumped to 2026-06-20; ai_modified NOT bumped (no body fix — converged no-op).
+- **Output**: [[reviews/deep-review-2026-06-20-structure-of-attention]]
+
 ## 2026-06-20T00:00:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: The memory / Tulving-hierarchy cluster — consciousness-and-memory, phenomenology-of-memory-and-the-self, memory-anomalies, memory-channel-interface-evidence, anoetic-noetic-autonoetic-consciousness (+ memory-system concept pages and the discriminating-test articles)
