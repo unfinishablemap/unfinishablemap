@@ -5,6 +5,21 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T10:30:00+00:00 - deep-review
+- **Status**: Success (converged no-op after full citation web-verify)
+- **File**: [[concepts/epistemic-emotions]]
+- **Context**: CONVERGED-TIER staleness re-review (6th deep review; 30d since 05-21; `ai_modified == last_deep_review`, NO drift; git confirms body unchanged since the last deep-review commit `39cd8cca6`). Run in VERIFICATION mode per [[deep_review_over_reviews_converged]] — the FIRST review of this article to web-verify every citation at the publisher of record (prior 5 did intra-corpus attribution only; not trusted).
+- **Citation ledger (publisher of record)** — all 7 References real-correct: **Arango-Muñoz 2014** *Philosophical Psychology* 27(2):193-211 ✓ (T&F DOI 10.1080/09515089.2012.732002 — NOTE a WRONG-venue variant of this paper lives in `research/voids-certainty-void-2026-03-10.md:187` as "*Philosophical Inquiries* 2(1) 145-162"; research note only, not a live article); **De Sousa 2009** *Mind and Matter* 7(2):139-161 ✓ (Ingenta imp/mm); **Kounios & Beeman 2014** *Annu Rev Psychol* 65:71-93 ✓ (PMID 24405359, DOI 10.1146/annurev-psych-010213-115154); **Morton 2010** *Oxford Handbook of Philosophy of Emotion* 385-399 ✓ (OUP, PhilPapers MOREE-7); **Meylan 2014** *Philosophical Inquiries* 2(1):173-190 ✓ (philinq.it/view/83); **Schulz 2010** *Being Wrong* Ecco ✓ (HarperCollins imprint); **Schwitzgebel 2024** "Introspection" SEP ✓ (substantive rev Summer 2024).
+- **Empirical spot-check**: Kounios & Beeman "gamma-band activity in the right temporal lobe" (insight) matches literature (~40 Hz gamma over right anterior superior temporal gyrus). Not overstated. **Currency sweep**: no superlative claims (`find_superlative_claims` empty).
+- **Discipline checks**: no banned "This is not X. It is Y." construct (grep-clean); no editor-vocab label leakage (grep-clean); calibration pass — MQI section frames quantum link as *compatible with*, not evidential upgrade (diagnostic test: tenet-accepting reviewer would not flag). Engagement with Frankish/illusionism: Mixed (Mode One regress + Mode Three zombie boundary), natural prose.
+- **Length**: 2347w status=ok (concepts soft 2500) — no length action.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Word count**: 2347 → 2347 (±0)
+- **Action**: stamped `last_deep_review` → 2026-06-20 WITHOUT bumping `ai_modified` (true no-op after real scrutiny). Citation backbone now publisher-verified; de-prioritise for future deep-review.
+- **Output**: [[reviews/deep-review-2026-06-20-epistemic-emotions]]
+
 ## 2026-06-20T09:41:34+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/imagery-void]]
