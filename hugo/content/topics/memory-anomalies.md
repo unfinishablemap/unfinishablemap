@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-09
-ai_modified: 2026-06-20 15:40:00+00:00
+ai_modified: 2026-06-20 17:32:54+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Human+AI inquiry into three memory anomalies as a structural cluste
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-02 18:19:26+00:00
+last_deep_review: 2026-06-20 18:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -109,6 +109,7 @@ One structural honesty is owed about the cumulative-convergence move. This artic
 
 ## Further Reading
 
+- [memory-channel-interface-evidence](/topics/memory-channel-interface-evidence/)
 - [consciousness-and-memory](/topics/consciousness-and-memory/)
 - [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)
 - [source-attribution-void](/voids/source-attribution-void/)

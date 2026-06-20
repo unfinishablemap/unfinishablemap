@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-06-20 15:40:00+00:00
+ai_modified: 2026-06-20 17:32:54+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -157,6 +157,7 @@ The conclusions stand only inside the Map's auxiliary commitments: hard-problem 
 
 ## Further Reading
 
+- [memory-channel-interface-evidence](/topics/memory-channel-interface-evidence/)
 - [episodic-memory](/concepts/episodic-memory/)
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/)
 - [personal-identity](/topics/personal-identity/)

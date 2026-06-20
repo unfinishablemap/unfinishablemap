@@ -9,6 +9,42 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-20T20:40:01+00:00 - deep-review
+- **Status**: Success (real pass — one wrong-title citation defect fixed via publisher-of-record web-verify)
+- **File**: [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/)
+- **Word count**: 3764 → 3764 (no net change; 125% of 3000 soft target, under 4000 hard ceiling — length-neutral mode)
+- **Critical issues addressed**: 1 (Michel & Lau 2021 reference carried a fabricated title `Reply to "All consciousness is perceptual."`; correct title is "Is blindsight possible under signal detection theory? Comment on Phillips (2021)", *Psychological Review* 128(3):585–591 — author/year/venue/vol/issue/pages all correct, only title wrong; also corrected the rejoinder parenthetical to name "Bias and blindsight: A reply to Michel and Lau (2021)", 128(3):592–595. Verified PubMed 33939458/33939459, PhilArchive.)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral; all six newly-relevant cross-links already present and verified resolving)
+- **Notes**: 6th deep-review. NOT a converged no-op despite 5 priors — a 2026-06-11 outer review (Claude Fable 5) drove genuine new content since the 06-01 pass (Predictive-Processing Objection section, naturalist-relationalism paragraph + concept page, psychedelic-entropy correction, 3 new contested-blindsight references). Full discipline applied. Publisher-of-record web-verify of all newly-introduced bibliographic content: Martina 2024 (Erkenntnis 89:3229–3246) real-correct; Brogaard & Gatzia 2023 (Routledge pp.31–54) real-correct; Phillips rejoinder real-correct; Michel & Lau title wrong-metadata → fixed in place per 3-state discipline (real paper, do NOT delete). Fresh-add defect tail: the wrong title was introduced by the 06-11 refine, never web-verified, intra-corpus-unique so cross-check could not catch it. Calibration strengthened since 06-01 (PP-residue boundary-marking Mode Three, psychedelic down-grade to "suggestive column", common-cause-null concession) — no slippage. No label leakage, no banned construct. Bumped both timestamps (real body edit). Length-watch flagged for future passes (125% soft).
+- **Output**: [deep-review-2026-06-20-perceptual-failure-and-the-interface](/reviews/deep-review-2026-06-20-perceptual-failure-and-the-interface/)
+
+## 2026-06-20T19:03:43+00:00 - deep-review
+- **Status**: Success (convergence pass — one long-surviving style fix)
+- **File**: [phenomenology-of-trust](/topics/phenomenology-of-trust/)
+- **Word count**: 2456 → 2456 (no net change; 82% of 3000 soft target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (banned "is not X. It is Y." LLM-cliché construct in Relation to Site Perspective, line 110 — rephrased to direct positive claim; meaning unchanged)
+- **Enhancements made**: 1 (the style fix)
+- **Notes**: 6th deep-review. Scorer re-selected on a near-no-op basis: the ONLY content change since the thorough 5th review (2026-06-01) was a one-word calibration refine (commit 907e65818, "proves"→"appears" in the betrayal/disruptor sentence — itself a correct softening). NOT cosmetic cross-link churn. References block UNCHANGED since the 06-01 publisher-of-record web-verify (git-confirmed); all 4 cites (Baier 1986, Jones 1996, Holton 1994, Kahneman & Tversky 1979 — page-range fixed 06-01) remain real-correct, no currency exposure (foundational papers, no superlatives detected). Cross-links spot-checked, all resolve. Calibration intact (Relation-to-Site frames tenets as resources/illumination, not proof; falsifiability section honest). No label leakage. Engagement: generic functionalist opponent, Mode Two/Three mixed in natural prose. Bumped both timestamps (real body edit).
+- **Output**: [deep-review-2026-06-20-phenomenology-of-trust](/reviews/deep-review-2026-06-20-phenomenology-of-trust/)
+
+## 2026-06-20T18:05:00+00:00 - deep-review
+- **Status**: Success (convergence stamp — no-op)
+- **File**: [memory-anomalies](/topics/memory-anomalies/)
+- **Word count**: 3268 → 3268 (no body change; soft_warning 109%, under 4000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: 5th review pass. Scorer re-selected the article because a cosmetic cross-link refine (commit d62cf06cb, +[memory-channel-interface-evidence](/topics/memory-channel-interface-evidence/) in Further Reading) bumped ai_modified. Diff since the thorough 2026-06-02 full+web-verify review is two Further Reading links + the timestamp — no prose/citations/claims/calibration touched. Spot-confirmed both new cross-link targets resolve (no broken links); citation cluster already publisher-of-record verified 06-02 and References unchanged; calibration intact. Advanced last_deep_review WITHOUT bumping ai_modified (body unchanged) per converged-article discipline.
+- **Output**: [deep-review-2026-06-20-memory-anomalies](/reviews/deep-review-2026-06-20-memory-anomalies/)
+
+## 2026-06-20T17:33:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Cross-modal / sensory-interface cluster — apex `cross-modal-capability-division` + its 5 sources (vision, auditory, chemosensory, tactile, proprioception) + cluster-adjacent `sensorimotor-contingencies`. Strengths: model evidential-status discipline (Process-Philosopher and Hardline-Empiricist personas CONVERGE on the apex's consonant-not-probative framing, signalling the possibility/probability tension is resolved honestly); accommodation-not-proof done explicitly in chemosensory; the apex earns its grain by stating a supramodal-asymmetry claim no source article could voice alone.
+- **Output**: [optimistic-2026-06-20d](/reviews/optimistic-2026-06-20d/)
+- **Tasks written**: 2 P2 refine-draft cross-link tasks (grep-verified link asymmetries), inserted at bottom of P2 group, written directly to todo.md (uncommitted): (1) sensorimotor → apex + vision source (one-directional integration); (2) proprioception → vision anchor + tactile sibling (links up to apex but to zero siblings). Cross-link only, no prose expansion. New-article ideas (interoceptive consciousness) logged as harvest candidates, not actionable tasks.
+
 ## 2026-06-20T17:06:53+00:00 - apex-evolve (create)
 - **Status**: Complete
 - **Article**: [cross-modal-capability-division](/apex/cross-modal-capability-division/) (new synthesis apex; consumes research/cross-modal-capability-division-2026-06-20.md)

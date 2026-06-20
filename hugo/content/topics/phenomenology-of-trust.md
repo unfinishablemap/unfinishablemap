@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-06-01 19:08:29+00:00
+ai_modified: 2026-06-20 19:03:43+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Trust has a distinctive felt character that information processing 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 17:41:05+00:00
+last_deep_review: 2026-06-20 19:03:43+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -110,7 +110,7 @@ The Map maintains that none of these challenges currently succeeds — functiona
 
 The Map's [dualist framework](/tenets/) provides resources for understanding trust that physicalist accounts lack.
 
-If consciousness is irreducible to physical processes (Tenet 1: Dualism), then the gap across which trust operates — the space between your inner life and another's — is a genuine ontological divide, not merely an epistemic limitation. Trust is not a workaround for insufficient information about brain states. It is the fundamental mode of conscious beings relating across their constitutive separateness.
+If consciousness is irreducible to physical processes (Tenet 1: Dualism), then the gap across which trust operates — the space between your inner life and another's — is a genuine ontological divide, not merely an epistemic limitation. Trust is then the fundamental mode of conscious beings relating across their constitutive separateness, rather than a workaround for insufficient information about brain states.
 
 The Map's commitment to [bidirectional interaction](/tenets/#bidirectional-interaction) (Tenet 3) means that trust is not epiphenomenal — your conscious decision to trust someone can actually influence your behaviour toward them, creating a self-fulfilling dynamic where trust generates the conditions for trustworthiness. This is not mere optimism bias; it reflects the causal efficacy of conscious states.
 

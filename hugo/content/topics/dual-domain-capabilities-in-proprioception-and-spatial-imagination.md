@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-06-20 17:06:53+00:00
+ai_modified: 2026-06-20 17:32:54+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -122,6 +122,8 @@ The convergence of this pattern across cognitively distinct domains suggests it 
 - [embodied-consciousness](/topics/embodied-consciousness/) — The phenomenology of lived embodiment: ownership, agency, and the dualist interface reading
 - [imagery-void](/voids/imagery-void/) — The introspective face of the same dissociation: why no mind can verify which mode (analytic or object-based) does its rotation work
 - [cross-modal-capability-division](/apex/cross-modal-capability-division/) — The cross-modal synthesis: the division recurs across the senses as an asymmetry (modality-specific brain side, supramodal mind-side boundary); the substrate-divergence point this article makes is carried over to the exteroceptive senses
+- [capability-division-in-vision](/concepts/capability-division-in-vision/) — The anchor: the brain-side/mind-side division stated first, in vision
+- [tactile-consciousness-and-the-interface](/topics/tactile-consciousness-and-the-interface/) — Nearest embodied/somatic sibling: bodily ownership at its most vivid
 
 ## References
 

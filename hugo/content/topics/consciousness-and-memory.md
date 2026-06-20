@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-06-20 15:40:00+00:00
+ai_modified: 2026-06-20 17:32:54+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -191,6 +191,8 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 
 ## Further Reading
 
+- [memory-channel-interface-evidence](/topics/memory-channel-interface-evidence/)
+- [targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy](/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/)
 - [episodic-memory](/concepts/episodic-memory/)
 - [working-memory](/concepts/working-memory/)
 - [semantic-memory](/concepts/semantic-memory/)

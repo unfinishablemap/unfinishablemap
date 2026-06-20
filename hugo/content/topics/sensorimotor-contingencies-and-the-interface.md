@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-05-19 19:30:00+00:00
+ai_modified: 2026-06-20 17:32:54+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -135,6 +135,8 @@ Both readings accommodate the basic phenomenon, but they frame it differently. O
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — Place-experience as the ultimate multi-modal sensorimotor integration
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and why the interface's grammar may be all we can map
 - [capability-division-problem](/voids/capability-division-problem/) — Which capabilities belong to the brain and which to consciousness
+- [cross-modal-capability-division](/apex/cross-modal-capability-division/) — The apex synthesis: whether the brain-side/mind-side division recurs across senses as a supramodal asymmetry
+- [capability-division-in-vision](/concepts/capability-division-in-vision/) — The lead modality statement of the brain-side/mind-side capability division
 
 ## References
 

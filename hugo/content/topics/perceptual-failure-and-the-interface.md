@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-06-16 02:35:00+00:00
+ai_modified: 2026-06-20 20:40:01+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ description: 'Perceptual degradation reveals the consciousness-brain interface: 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 13:01:14+00:00
+last_deep_review: 2026-06-20 20:40:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -169,7 +169,7 @@ Where the multiplication is earned, if anywhere, is one level down—at the phen
 3. Harman, G. (1990). The intrinsic quality of experience. *Philosophical Perspectives*, 4, 31–52.
 4. Hoffman, D. D., Singh, M., & Prakash, C. (2015). The Interface Theory of Perception. *Psychonomic Bulletin & Review*, 22(6), 1480–1506.
 5. Martina, G. (2024). Lessons from Blur. *Erkenntnis*, 89, 3229–3246. https://doi.org/10.1007/s10670-023-00675-6
-6. Michel, M. & Lau, H. (2021). Reply to "All consciousness is perceptual." *Psychological Review*, 128(3), 585–591. (Phillips's rejoinder: 128(3), 592–595.)
+6. Michel, M. & Lau, H. (2021). Is blindsight possible under signal detection theory? Comment on Phillips (2021). *Psychological Review*, 128(3), 585–591. (Phillips's rejoinder, "Bias and blindsight: A reply to Michel and Lau (2021)": 128(3), 592–595.)
 7. Overgaard, M., Rote, J., Mouridsen, K., & Ramsøy, T. Z. (2006). Is conscious perception gradual or dichotomous? A comparison of report methodologies during a visual task. *Consciousness and Cognition*, 15(4), 700–708.
 8. Phillips, I. (2021). Blindsight Is Qualitatively Degraded Conscious Vision. *Psychological Review*, 128(3), 558–584.
 9. Picard, F. & Craig, A. D. (2009). Ecstatic Epileptic Seizures: A Potential Window on the Neural Basis for Human Self-Awareness. *Epilepsy & Behavior*, 16(3), 539–546.
