@@ -5,6 +5,13 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T16:31:48+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/enactivism-challenge-to-interactionist-dualism.md (never previously pessimistic-reviewed; citation-heavy named-opponent article)
+- **Findings**: 2 web-verified citation defects (both grep-verified present): (1) HIGH wrong-author — "Putting down the revolt" (Front. Psychol. 13:948733) is by Meyer & Brancazio, NOT Schlicht & Starzak; sole support for "The Coherence Question" section; (2) MEDIUM wrong-locator — Wu 2024 *Cultures of Science* is 7(1) not "7(3), 210-221". Argument structure, direct-refutation-discipline, evidential-status discipline, length all clean. Thompson quotes verified faithful; De Jaegher & Di Paolo verified clean.
+- **Tasks written**: 1 (P1 refine-draft — mechanical 3-state citation fix; includes upstream research-note + pragmatisms-path-to-dualism sweep notes)
+- **Output**: [[reviews/pessimistic-2026-06-20c-enactivism]]
+
 ## 2026-06-20T16:11:57+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/parsimony-case-for-interactionist-dualism]]
