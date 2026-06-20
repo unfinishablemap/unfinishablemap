@@ -37,7 +37,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Cross-Modal Capability Division Across the Senses
+### P2: Research Cross-Modal Capability Division Across the Senses
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-05-28b.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-05-28b (Medium priority): capability-division-in-vision establishes the brain-side/mind-side template for ONE modality; a synthesis testing whether the SAME division (feature-extraction brain-side, flexible-deployment+ownership mind-side) recurs across audition, touch, proprioception would convert a single-modality result into a structural claim. Per-modality pieces exist (capability-division-in-vision, auditory-consciousness-and-the-interface, dual-domain-capabilities-in-proprioception) but no cross-modal synthesis (dedup-confirmed). Tenet 3. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/cross-modal-capability-division-across-the-senses-2026-06-20.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'cross-modal-capability-division-across-the-senses' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 - **Source**: research-harvest
