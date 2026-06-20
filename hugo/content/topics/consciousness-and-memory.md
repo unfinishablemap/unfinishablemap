@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-06-03 16:47:49+00:00
+ai_modified: 2026-06-20 15:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -220,6 +220,7 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 - [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)
 - [phenomenal-contrast-method](/concepts/phenomenal-contrast-method/) — The method that reveals consolidation's qualitative shifts
 - [memory-anomalies](/topics/memory-anomalies/) — Déjà vu, jamais vu, and cryptomnesia as source-monitoring failures revealing the gap between phenomenal certainty and underlying machinery
+- [phenomenology-of-forgetting](/topics/phenomenology-of-forgetting/) — Forgetting as an active, controllable process, and volitional suppression as a candidate case of consciousness reshaping a memory trace
 
 ## References
 

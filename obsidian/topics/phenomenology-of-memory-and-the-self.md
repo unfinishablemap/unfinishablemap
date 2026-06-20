@@ -4,7 +4,7 @@ description: "Remembering is not retrieving stored data but re-inhabiting a pers
 created: 2026-02-13
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-06-07T07:48:18+00:00
+ai_modified: 2026-06-20T15:40:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -170,6 +170,7 @@ The conclusions stand only inside the Map's auxiliary commitments: hard-problem 
 - [[anoetic-noetic-autonoetic-consciousness]]
 - [[phenomenal-authority-and-first-person-evidence]] — The epistemology of introspective evidence
 - [[memory-anomalies]] — Déjà vu, jamais vu, and cryptomnesia: source-monitoring failures that exhibit pastness, mineness, and familiarity as separable phenomenal ingredients
+- [[phenomenology-of-forgetting]] — The felt experience of letting a memory go, pushing away an intrusion, and a name dissolving—and the active forgetting that shapes the remembered self
 
 ## References
 

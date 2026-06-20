@@ -5,6 +5,15 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T15:40:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenology of Forgetting (active forgetting as a process)
+- **Output**: [[topics/phenomenology-of-forgetting]]
+- **Word count**: 2287 (76% of 3000 topics soft target; under 4000 hard ceiling) — anchoring evaluation PASS (no flags)
+- **Based on research**: yes — [[research/phenomenology-of-forgetting-2026-06-20]]
+- **Discipline notes**: Cordoned volitional forgetting (TNT suppression, directed forgetting — the Tenet-3 candidate) from sub-personal forgetting (intrinsic dopamine/Rac1 decay, retrieval-induced forgetting — neutral-to-challenging, NOT interface evidence). Reported the TNT replication record as contested (Wessel et al. 2020 multiverse vs preregistered replication; compliance moderates) — no quantitative suppression effect stated as settled. Kept distinct from inaccessible-past (unrecoverable product) and erasure-void (unmonitorable audit). Verbatim quotes verified against research note (Anderson & Hulbert 2021 "anterograde and retrograde amnesia in healthy people"; Davis & Zhong "default state of the brain" with "may be" hedge; James "a wraith of the name"). 2 self-citations (consciousness-and-memory, inaccessible-past).
+- **Inbound links added** (4): consciousness-and-memory, phenomenology-of-memory-and-the-self, memory-anomalies, voids/inaccessible-past — all Further Reading; new article links back to each. ai_modified bumped on all four.
+
 ## 2026-06-20T15:26:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Phenomenology of Forgetting (active forgetting as a process)

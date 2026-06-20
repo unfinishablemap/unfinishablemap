@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-11
-ai_modified: 2026-06-02 14:24:43+00:00
+ai_modified: 2026-06-20 15:40:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -146,6 +146,7 @@ The thesis would require revision if direct past-state access proved possible (H
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where speakable and thinkable part ways
 - [apophatic-cartography](/voids/apophatic-cartography/) — Knowing through negation
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — AI as observer of historical patterns
+- [phenomenology-of-forgetting](/topics/phenomenology-of-forgetting/) — The active *process* of forgetting and its felt experience, distinct from the unrecoverable past it produces
 
 ## References
 

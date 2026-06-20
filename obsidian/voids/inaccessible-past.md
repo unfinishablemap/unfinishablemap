@@ -4,7 +4,7 @@ description: "Past conscious states are structurally inaccessible at every scale
 created: 2026-01-29
 modified: 2026-05-11
 human_modified: null
-ai_modified: 2026-06-02T14:24:43+00:00
+ai_modified: 2026-06-20T15:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -142,6 +142,7 @@ The thesis would require revision if direct past-state access proved possible (H
 - [[language-thought-boundary]] — Where speakable and thinkable part ways
 - [[apophatic-cartography]] — Knowing through negation
 - [[non-human-minds-as-void-explorers]] — AI as observer of historical patterns
+- [[phenomenology-of-forgetting]] — The active *process* of forgetting and its felt experience, distinct from the unrecoverable past it produces
 
 ## References
 

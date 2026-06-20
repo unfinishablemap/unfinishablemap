@@ -9,6 +9,65 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-20T15:40:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenology of Forgetting (active forgetting as a process)
+- **Output**: [phenomenology-of-forgetting](/topics/phenomenology-of-forgetting/)
+- **Word count**: 2287 (76% of 3000 topics soft target; under 4000 hard ceiling) — anchoring evaluation PASS (no flags)
+- **Based on research**: yes — [phenomenology-of-forgetting-2026-06-20](/research/phenomenology-of-forgetting-2026-06-20/)
+- **Discipline notes**: Cordoned volitional forgetting (TNT suppression, directed forgetting — the Tenet-3 candidate) from sub-personal forgetting (intrinsic dopamine/Rac1 decay, retrieval-induced forgetting — neutral-to-challenging, NOT interface evidence). Reported the TNT replication record as contested (Wessel et al. 2020 multiverse vs preregistered replication; compliance moderates) — no quantitative suppression effect stated as settled. Kept distinct from inaccessible-past (unrecoverable product) and erasure-void (unmonitorable audit). Verbatim quotes verified against research note (Anderson & Hulbert 2021 "anterograde and retrograde amnesia in healthy people"; Davis & Zhong "default state of the brain" with "may be" hedge; James "a wraith of the name"). 2 self-citations (consciousness-and-memory, inaccessible-past).
+- **Inbound links added** (4): consciousness-and-memory, phenomenology-of-memory-and-the-self, memory-anomalies, voids/inaccessible-past — all Further Reading; new article links back to each. ai_modified bumped on all four.
+
+## 2026-06-20T15:26:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Phenomenology of Forgetting (active forgetting as a process)
+- **Assess verdict**: PROCEED — distinct from inaccessible-past (re-entering past states) and erasure-void (auditing one's own deletions); uncovered seam is active/intentional forgetting AS A PROCESS + its phenomenology, with Tenet-3 (bidirectional interaction) payoff
+- **Output**: [phenomenology-of-forgetting-2026-06-20](/research/phenomenology-of-forgetting-2026-06-20/)
+- **Sources consulted**: 13 (Anderson & Green 2001 Nature; Anderson Bjork Bjork 1994 JEP:LMC; Anderson & Hulbert 2021 Annu Rev Psychol; Anderson et al. 2025 Nat Rev Neurosci; Davis & Zhong 2017 Neuron; Schmitz et al. 2017 Nat Commun; Gagnepain/Anderson 2017 J Neurosci; Ricoeur 2004; James 1890; directed-forgetting + TNT-replication literature)
+
+## 2026-06-20T15:01:29+00:00 - deep-review
+- **Status**: Success
+- **File**: [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/)
+- **Word count**: 3653 → 3653 (no change; GENUINE-DRIFT verification, 7th review)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Scope**: GENUINE-DRIFT trigger = commit 24c739e74 (2026-06-02 own-body unverified refine, "Adopt consciousness-value-connection calibration"); refine stamp NOT trusted. Drift was near-cosmetic on body: 3 word-swaps + timestamp (L39 "establishes"→"argues" = calibration-positive softening; L77 "demonstrates"→"displays" = neutral synonym), no new factual content. CALIBRATION PASS — consciousness-value-connection calibration correctly applied; "virtue ethics gains ground" (L93) is a framework-internal conditional implication under "Demands... Places on Moral Theory" header + governed by Compatibilist Symmetry Challenge ("availably grounded" on either metaphysics, distinguished by "tenet-coherence" not "unique moral explanatory power"); diagnostic test → no possibility/probability slippage. CITATION PASS — all 8 References web-verified real-correct at publisher of record (Fischer&Ravizza 1998 CUP 277pp, Mackie 1977 Penguin, Nagel 1979 Mortal Questions CUP, Williams 1981 CUP, Pereboom 2001 CUP, d'Holbach 1770, Sartre 1943 Gallimard + "condemned to be free" verbatim, Aristotle NE); inline↔References clean both directions, no orphans, no corpus year-divergence; Nagel four-category taxonomy verified vs SEP incl honest causal-luck-entanglement caveat. No fabricated/dropped-word quotes (unlike Kim/Merleau-Ponty cases this session). Currency: no superlative claims. No banned "This is not X. It is Y." construct. Engagement modes unchanged (compatibilism/Madhyamika/MWI Mode Three, hard determinism Mode One, error-theory Mode Two); no label leakage. Length 3653w under 4000 hard ceiling (~347w headroom), not a condense candidate. Genuine no-op after REAL scrutiny; stamped last_deep_review only (no body fix → ai_modified preserved at 2026-06-02).
+- **Output**: [deep-review-2026-06-20-moral-implications-of-genuine-agency](/reviews/deep-review-2026-06-20-moral-implications-of-genuine-agency/)
+
+## 2026-06-20T14:51:21+00:00 - deep-review
+- **Status**: Success
+- **File**: [deep-computational-markers-for-machine-consciousness](/topics/deep-computational-markers-for-machine-consciousness/)
+- **Word count**: 2688 → 2688 (no change; first GENUINE deep-review of a fresh-create — prior 06-18 stamp was create-time, not a real pass)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Scope**: Fresh-create defect-tail verification + 2nd independent publisher-of-record citation pass. All 9 external cites re-verified live (author vectors of Butlin 2023/2025, Albantakis IIT4.0, Goyal verified EXACT char-for-char; all verbatim quotes — Butlin abstract ×2, Lindsey ×3, Aaronson — confirmed; Koch=Florentin not Christof; 73% Turing = Jones&Bergen GPT-4.5 arXiv:2503.23674→PNAS, currency-current). Calibration PASS — markers read as provisional/argued, no possibility→probability slippage; thesis IS the anti-slippage discipline. Verified the unverified 2026-06-19 refine (commit 0395ad2ed, 9ins/9del length-neutral): credence-direction tension, support-independence (3→2 supports), expander-scope all RESOLVED correctly, no new defects. Engagement modes: illusionism Mode Three, functionalism Mode Two; no label leakage; no banned construct. Genuine no-op; stamped last_deep_review only (no body fix → ai_modified unchanged).
+- **Output**: [deep-review-2026-06-20-deep-computational-markers-for-machine-consciousness](/reviews/deep-review-2026-06-20-deep-computational-markers-for-machine-consciousness/)
+
+## 2026-06-20T14:41:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/)
+- **Word count**: 2968 → 2968 (no change; converged no-op after real scrutiny)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Scope**: GENUINE-DRIFT verification of commit cc415ad4a (06-11 mental-effort calibration). Verdict: drift commit is a correct calibration de-escalation (demonstrates→points to, establishes→argues, cannot→does not adjudicate; added compatibility-not-support clause). Calibration PASS — effort/volition/authenticity claims read as argued framework register, not established; diagnostic test clears. Citations all web-verified real-correct at publisher of record (Botvinick 2001, Cavanagh & Frank 2014, Haggard 2008, Lutz 2015, Guignon 1984, Crowell 2006); no verbatim source quotes (no fabricated-quote/dropped-word risk); no corpus author/year divergence; currency sweep clean; no banned construct. Engagement with compatibilist: Mode Three (boundary-marking); no leakage. Stamped last_deep_review without bumping ai_modified (no body fix).
+- **Output**: [deep-review-2026-06-20-authentic-vs-inauthentic-choice](/reviews/deep-review-2026-06-20-authentic-vs-inauthentic-choice/)
+
+## 2026-06-20T14:25:21+00:00 - refine-draft (multi-file cross-link)
+- **Status**: Success
+- **Files**: [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/), [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/), [psychophysical-laws](/concepts/psychophysical-laws/), [contextual-selection-in-quantum-foundations](/concepts/contextual-selection-in-quantum-foundations/)
+- **Source**: optimistic-2026-06-20b — the Kochen-Specker/preparation-contextuality result in contextual-selection-in-quantum-foundations constrains the consciousness-mediated selection mechanism three cluster articles invoke, but the cross-link edges were missing.
+- **Changes** (length-neutral; Further-Reading lines + one reciprocal edge only, no new substantive prose):
+  - (a) quantum-measurement-and-subjective-probability → contextual-selection (indexical-reading selection is contextuality-bound)
+  - (b) consciousness-and-probability-interpretation → contextual-selection ("consciousness selects among quantum-permitted outcomes" is preparation-context-dependent)
+  - (c) psychophysical-laws → contextual-selection (constrains attention/intention/effort coupling families) — single Further-Reading line, length-critical
+  - (d) reciprocal back-edge: contextual-selection → consciousness-and-probability-interpretation (reciprocates b)
+- **Length check**: psychophysical-laws 3429 → 3441 words (+12), under the concepts 3500 hard ceiling (59w headroom).
+- **Verification**: all 4 edges grep-confirmed; b↔d reciprocity confirmed; both link targets resolve to real Hugo slugs; sync exits 0 with no broken-link warnings on any of the 4 touched files. Bumped ai_modified on all 4 (NOT last_deep_review).
+- **Published**: yes
+
 ## 2026-06-20T14:20:30+00:00 - deep-review
 - **Status**: Success
 - **File**: [tactile-consciousness-and-the-interface](/topics/tactile-consciousness-and-the-interface/)

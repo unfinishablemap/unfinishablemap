@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-06-07 07:48:18+00:00
+ai_modified: 2026-06-20 15:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -172,6 +172,7 @@ The conclusions stand only inside the Map's auxiliary commitments: hard-problem 
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — The epistemology of introspective evidence
 - [memory-anomalies](/topics/memory-anomalies/) — Déjà vu, jamais vu, and cryptomnesia: source-monitoring failures that exhibit pastness, mineness, and familiarity as separable phenomenal ingredients
+- [phenomenology-of-forgetting](/topics/phenomenology-of-forgetting/) — The felt experience of letting a memory go, pushing away an intrusion, and a name dissolving—and the active forgetting that shapes the remembered self
 
 ## References
 

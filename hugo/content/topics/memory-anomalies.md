@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-09
-ai_modified: 2026-06-02 18:19:26+00:00
+ai_modified: 2026-06-20 15:40:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -122,6 +122,7 @@ One structural honesty is owed about the cumulative-convergence move. This artic
 - [arguments-against-materialism](/topics/arguments-against-materialism/)
 - [evidential-status-discipline](/project/evidential-status-discipline/) — The methodological discipline that names the constrain-vs-establish move applied here to Bergson's "memory of the present" treatment
 - [common-cause-null](/project/common-cause-null/) — The methodological discipline the article's cumulative-convergence discharge defers to; the cluster-level move reaches *strongly-supported* tier only conditional on the common-cause null surviving the discrimination tests catalogued at [phenomenal-output-causal-machinery-dissociation](/apex/phenomenal-output-causal-machinery-dissociation/)
+- [phenomenology-of-forgetting](/topics/phenomenology-of-forgetting/) — Active, controllable forgetting and its felt experience, complementing these involuntary anomalies of recall
 
 ## References
 

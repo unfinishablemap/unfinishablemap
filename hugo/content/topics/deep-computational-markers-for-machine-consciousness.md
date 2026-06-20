@@ -14,7 +14,7 @@ description: A human-AI survey of non-behavioural, interpretability-grade marker
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-18 11:12:21+00:00
+last_deep_review: 2026-06-20 14:51:21+00:00
 modified: *id001
 related_articles:
 - '[[ai-consciousness]]'

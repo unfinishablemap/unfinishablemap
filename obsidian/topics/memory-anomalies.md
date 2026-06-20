@@ -4,7 +4,7 @@ description: "Human+AI inquiry into three memory anomalies as a structural clust
 created: 2026-05-09
 modified: 2026-05-09
 human_modified:
-ai_modified: 2026-06-02T18:19:26+00:00
+ai_modified: 2026-06-20T15:40:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-memory]]"
@@ -119,6 +119,7 @@ One structural honesty is owed about the cumulative-convergence move. This artic
 - [[arguments-against-materialism]]
 - [[evidential-status-discipline]] — The methodological discipline that names the constrain-vs-establish move applied here to Bergson's "memory of the present" treatment
 - [[project/common-cause-null]] — The methodological discipline the article's cumulative-convergence discharge defers to; the cluster-level move reaches *strongly-supported* tier only conditional on the common-cause null surviving the discrimination tests catalogued at [[apex/phenomenal-output-causal-machinery-dissociation]]
+- [[phenomenology-of-forgetting]] — Active, controllable forgetting and its felt experience, complementing these involuntary anomalies of recall
 
 ## References
 
