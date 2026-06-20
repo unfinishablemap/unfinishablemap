@@ -5,6 +5,12 @@ ai_modified: 2026-06-20T01:45:18+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T03:10:02+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Training contamination as a confound for AI introspection probes
+- **Output**: [[research/training-contamination-introspection-probes-2026-06-20]]
+- **Sources consulted**: 13 (9 verified at publisher of record; 4 search-surfaced/unverified, flagged)
+
 ## 2026-06-20T02:43:25+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/quantum-measurement-and-subjective-probability]]
