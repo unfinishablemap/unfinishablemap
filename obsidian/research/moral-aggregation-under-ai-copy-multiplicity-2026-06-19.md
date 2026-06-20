@@ -71,7 +71,7 @@ The non-obvious result for the Map: its **No-Many-Worlds / haecceity** commitmen
 - **Tenet alignment**: Neutral-to-aligned on aggregation (their resource-claim argument tacitly assumes copies count). The substrate principle is functionalist in spirit and would, under the Map, be heavily gated by the [[tenets#^minimal-quantum-interaction|quantum-interface requirement]] (classical copies very unlikely to be conscious at all).
 - **Quote**: digital minds "might pack the experience of many lifetimes into mere hours of objective time."
 
-### Propositions Concerning Digital Minds and Society — Bostrom (2022)
+### Propositions Concerning Digital Minds and Society — Bostrom & Shulman (2022)
 - **URL**: https://nickbostrom.com/propositions.pdf
 - **Type**: Paper (PDF could not be text-extracted; characterized via secondary sources)
 - **Key points** (from secondary summaries):
