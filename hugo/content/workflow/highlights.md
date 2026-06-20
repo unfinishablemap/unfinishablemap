@@ -28,6 +28,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 If many identical AI copies were conscious, do N copies mean N times the suffering? The Map's rejection of Many-Worlds commits it to yes—its own tenets forbid deflating the count. The only relief comes from copies likely not being conscious at all.
 
 **Type**: insight  
+**Tweet**: https://x.com/unfinishablemap/status/2068245409672188293  
 **Link**: [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/)
 
 ---
