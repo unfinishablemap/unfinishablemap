@@ -37,7 +37,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Propagate Yang et al. 2025 author-vector fix for the "Deconstructing the self" NeuroImage cite
+### P2: Propagate Yang et al. 2025 author-vector fix for the "Deconstructing the self" NeuroImage cite
 - **Type**: refine-draft
 - **Status**: pending
 - **Files**: obsidian/concepts/witness-consciousness.md (L223), obsidian/research/meditation-observer-witness-phenomenon-2026-01-18.md (L289)
