@@ -5,6 +5,22 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T09:41:34+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/imagery-void]]
+- **Context**: GENUINE-DRIFT verification. Scorer self-selected the-interface-problem (score 15, "16d gap") but that article got a full deep-review YESTERDAY (06-19 commit `6c7ddbc0a`, a Westbrook→Chakroun citation fix) without bumping `last_deep_review`, so the scorer mis-counted; 4 prior reviews + just-reviewed. Per [[deep_review_over_reviews_converged]] convergence-damping, picked the genuine-drift imagery-void instead (2 prior reviews; the 2026-06-10 refine `880f28286` added a NEW unverified Chang 2025 citation to its own body). Third deep review.
+- **Citation ledger (publisher of record)**: **Chang, Zhang, Cao, Pearson & Meng 2025** (Imageless imagery in aphantasia revealed by early visual cortex decoding) — **real-correct**. Verified via CoLab DOI page (10.1016/j.cub.2024.12.012), ADS bibcode 2025CBio...35..591C, Aphantasia Network mirror. Full tuple confirmed: authors-in-order ✓, 2025 ✓, exact title ✓, *Current Biology* 35(3), 591–599 ✓ (publisher 591–599.e4; human-readable form acceptable). Content faithful: publisher abstract "decoded equally well in both groups" → article "just as well as from controls"; "ipsilateral and could not be cross-decoded with perceptual representations" verbatim-accurate; "imageless imagery" correctly attributed to authors (their title). Carried (verified 2026-06-02, unchanged, not re-litigated): Galton 1880, Schwitzgebel 2008, Lennon 2023, Zeman 2024, Kay/Keogh/Pearson 2024, Larner/Leff/Nachev 2024, Sigurdardottir 2025, Nanay 2025, Scholz 2025.
+- **Inline↔References**: two further-reading entries not cited inline by author-year (SEP "Mental Imagery"; Synesthetic Void, given as `[[synesthetic-void]]` wikilink) — accepted general-resource pattern, unflagged in prior verified review, NOT new orphan defects.
+- **Currency sweep**: 1 superlative hit ("state of the art" → "we still don't know") is a self-deflating open-question claim, no empirical-record exposure.
+- **Medium fix (1) — calibration tension in the new Chang paragraph**: "is exactly the pattern option (a) predicts" over-read (a)'s confirmation while the next sentence conceded non-adjudication among (a)/(b)/(c). §2 diagnostic test: a tenet-accepting reviewer would still flag the uniqueness-of-prediction over-claim → calibration error, not bedrock. Reworded to "consistent with option (a)" + made non-adjudication explicit ("fits (b) and (c) equally well"). Substantive point (result strengthens the dissociation, removes the deflationary no-cortical-processing reading) preserved.
+- **Construct/leakage**: no banned "This is not X. It is Y."; no evidential over-claim verbs; no editor-vocab label leakage.
+- **Word count**: 2760 → 2771 (+11; calibration reword). soft_warning (139% of 2000, well under 3000 hard) — length-neutral, NOT a condense candidate.
+- **Body fix made** → bumped BOTH `ai_modified` and `last_deep_review` to 2026-06-20T09:41:34+00:00.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (calibration tension fixed)
+- **Enhancements made**: 1 (calibration reword)
+- **Output**: [[reviews/deep-review-2026-06-20-imagery-void]]
+
 ## 2026-06-20T09:23:42+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/functionalism]]
