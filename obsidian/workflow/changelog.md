@@ -5,6 +5,18 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T13:19:23+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/eastern-philosophy-consciousness]]
+- **Word count**: 2772 → 2776 (+4; citation correction only)
+- **Critical issues addressed**: 1 (wrong-author misattribution — "Laukkonen & Slagter 2024" for the NeuroImage 7T self-deconstruction case study corrected to "Yang, Chowdhury, Sparby & Sacchet 2025, NeuroImage 305:120968" inline + References, publisher-verified at PubMed)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (converged article; web-verify pass was the substantive work)
+- **Calibration verdict**: PASS — Buddhist no-self / Advaita non-dualism read as honest rival-engagement, not co-opted as dualism support; no possibility/probability slippage; no editor-label leakage; no banned construct
+- **Citation ledger**: Adams 1979, Demirel 2025, Fox 2012, Thompson 2020 all real-correct; Laukkonen&Slagter 2024 real-wrong-metadata (wrong author → corrected to Yang et al. 2025)
+- **Note**: drift trigger 7eb8b03ac was cosmetic-only on this file (stale-stamp artifact); same misattribution propagated to witness-consciousness.md + a research note (follow-on queued)
+- **Output**: [[reviews/deep-review-2026-06-20-eastern-philosophy-consciousness]]
+
 ## 2026-06-20T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/structure-of-attention]]
