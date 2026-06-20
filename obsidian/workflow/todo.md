@@ -37,7 +37,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Family-resolution polish — Churchland "not conclusive" quote in topics/arguments-against-materialism.md
+### P2: Family-resolution polish — Churchland "not conclusive" quote in topics/arguments-against-materialism.md
 - **Type**: refine-draft
 - **Status**: pending
 - **File**: obsidian/topics/arguments-against-materialism.md
