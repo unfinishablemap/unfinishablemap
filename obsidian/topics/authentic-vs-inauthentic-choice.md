@@ -27,7 +27,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-30
 last_curated: null
-last_deep_review: 2026-06-05T00:00:00+00:00
+last_deep_review: 2026-06-20T14:41:20+00:00
 ---
 
 Some choices feel like they come from deep within—expressions of who you really are. Others feel like going through motions, following scripts you never wrote, doing what "one does." The Unfinishable Map proposes that this phenomenological distinction tracks something metaphysically significant: authentic choice engages consciousness's genuine selection function, while inauthentic choice runs on automatic processing that merely simulates decision.

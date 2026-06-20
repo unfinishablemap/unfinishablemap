@@ -5,6 +5,16 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T14:41:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/authentic-vs-inauthentic-choice]]
+- **Word count**: 2968 → 2968 (no change; converged no-op after real scrutiny)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Scope**: GENUINE-DRIFT verification of commit cc415ad4a (06-11 mental-effort calibration). Verdict: drift commit is a correct calibration de-escalation (demonstrates→points to, establishes→argues, cannot→does not adjudicate; added compatibility-not-support clause). Calibration PASS — effort/volition/authenticity claims read as argued framework register, not established; diagnostic test clears. Citations all web-verified real-correct at publisher of record (Botvinick 2001, Cavanagh & Frank 2014, Haggard 2008, Lutz 2015, Guignon 1984, Crowell 2006); no verbatim source quotes (no fabricated-quote/dropped-word risk); no corpus author/year divergence; currency sweep clean; no banned construct. Engagement with compatibilist: Mode Three (boundary-marking); no leakage. Stamped last_deep_review without bumping ai_modified (no body fix).
+- **Output**: [[reviews/deep-review-2026-06-20-authentic-vs-inauthentic-choice]]
+
 ## 2026-06-20T14:25:21+00:00 - refine-draft (multi-file cross-link)
 - **Status**: Success
 - **Files**: [[topics/quantum-measurement-and-subjective-probability]], [[topics/consciousness-and-probability-interpretation]], [[concepts/psychophysical-laws]], [[concepts/contextual-selection-in-quantum-foundations]]
