@@ -5,6 +5,21 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T07:19:20+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/motor-selection]]
+- **Context**: GENUINE-DRIFT verification (review #7). last_deep_review 2026-06-01 but ai_modified 2026-06-19 via two own-body refines that bumped ai_modified not last_deep_review: 6822c9ede (2026-06-16 mechanism-debt para) + f2521415c (2026-06-05 Cai/Kaeser corpus citation fix). Both verified this pass.
+- **Mechanism-debt verdict**: CORRECTLY CALIBRATED. Mirrors the register's own framing at [[positions/quantum-interface#^mechanism-debt]] ("sits close to epiphenomenalism... not a refutation"). Does NOT over-concede (selection account stays an argued framework position) and does NOT under-concede (bias-without-deviation dilemma named genuinely open). Block-anchor link RESOLVES (Hugo → /positions/quantum-interface/#mechanism-debt, span id present at P-Q3). Coherent with brain-specialness-boundary's handling of the same Born-preservation pressure.
+- **Cai/Kaeser verdict**: real-correct — Cai, X., Liu, C. & Kaeser, P.S. (2024) Nature 635(8038), 406-414, doi:10.1038/s41586-024-08038-z verified at publisher of record. The f2521415c fix was CORRECT and introduced no defect.
+- **Web-verify ledger (publisher of record)**: Cai/Kaeser 2024, Köhler 2024 (Brain 147(10) 3358-3369), Chakroun 2023 (Nat Commun 14:5369), Cisek & Kalaska 2005 (Neuron 45 801-814; 43%-cells claim faithful), Thura & Cisek 2014 (Neuron 81(6) 1401-1416), Fine & Hayden 2022 (Phil Trans R Soc B 377(1844) 20200524), Fried 2011 (Neuron 69(3) 548-562) — all **real-correct**. Rajan/Schurger/Sjöberg verified 2026-06-01, unchanged since.
+- **Critical fix**: Fried, Mukamel & Kreiman (2011) was an ORPHAN reference (in References, never anchored inline) since the creation commit — missed by six prior reviews. Anchored inline in the Libet section (single-cell complement to Schurger's RP-as-noise model). Length-neutral (offset by trimming a redundant effort-correlates-with-difficulty clause).
+- **Currency sweep**: no superlative claims (find_superlative_claims empty). No editor-vocab leakage, no possibility/probability slippage, no banned construct.
+- **Word count**: 3268 → 3302 (+34, length-neutral; 198w under 3500 hard ceiling)
+- **Critical issues addressed**: 1 (orphan reference Fried 2011)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (Fried inline anchor strengthens Libet section)
+- **Output**: [[reviews/deep-review-2026-06-20-motor-selection]]
+
 ## 2026-06-20T07:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/selective-correction-and-reconstruction-paradox]]

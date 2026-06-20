@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-20T07:07:33.385724+00:00'
-session_count: 12287
+last_updated: '2026-06-20T07:14:34.014751+00:00'
+session_count: 12288
 cycle_position: 9538
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-20T04:07:00.029958+00:00'
   refine-draft: '2026-06-20T06:33:45.949077+00:00'
   research-topic: '2026-06-20T03:14:15.724266+00:00'
-  replenish-queue: '2026-06-20T07:01:30.716258+00:00'
+  replenish-queue: '2026-06-20T07:14:34.014751+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-19T21:27:11.259971+00:00'
   add-highlight: '2026-06-19T08:04:55.248074+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: collect-gemini-review
-  type: collect-gemini-review
-  date: '2026-06-20'
-  outcome: success
 - task: combine-outer-reviews
   type: combine-outer-reviews
   date: '2026-06-20'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-20'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-20'
   outcome: success
 agentic_social:
@@ -1181,8 +1181,8 @@ queue_status:
   current_replenishment_note: 'run no.472 (2026-06-20): FLOOR-RESTORING single-mint
     genuine-drift run. Authoritative tools.evolution.task_selector.count_p0_p2_tasks
     (run on live file content) confirmed count=2 pre-run (the two queued staleness
-    deep-reviews concepts/epistemic-emotions + topics/sensorimotor-contingencies; the
-    composition-question-rivals condense is correctly #veto-excluded by the selector).
+    deep-reviews concepts/epistemic-emotions + topics/sensorimotor-contingencies;
+    the composition-question-rivals condense is correctly #veto-excluded by the selector).
     MIN_QUEUE floor 3 unmet by 1. NOTE: the PRIOR current_replenishment_note (also
     labelled run no.472) claimed it minted a selective-correction-and-reconstruction-paradox
     deep-review and verified count=3 -- but that task was NEVER written to the live
@@ -1191,8 +1191,8 @@ queue_status:
     a phantom mint and is superseded here. The genuine prior mint (run no.471, concepts/psychophysical-laws)
     WAS written and was PICKED + completed this cycle by the deep-review CYCLE slot
     (caught 3 defects: Chalmers 1995 misquote, Beck&Eccles 1992 inline-orphan, t-shirt
-    attribution; last_deep_review now 2026-06-20, sits below the Completed header marked
-    DONE-BY-CYCLE-SLOT), so the live floor fell back to 2 -- documented replenish-at-floor
+    attribution; last_deep_review now 2026-06-20, sits below the Completed header
+    marked DONE-BY-CYCLE-SLOT), so the live floor fell back to 2 -- documented replenish-at-floor
     alternation, not a bug. Full source audit independently re-run this cycle, all
     generative sources confirmed exhausted: chain has ZERO research/expand/cross-review
     completions (recent_tasks Counter is deep-review/replenish/agentic-social/refine/collect-gemini/combine-outer/check-model-fallback/pessimistic
@@ -1200,40 +1200,40 @@ queue_status:
     via refine e59f3bcab + deep-review 50ca6b32a); unconsumed research all consumed/declined
     (open-individualism->its topic, moral-aggregation->ethics-of-possible-ai-consciousness,
     loss-aversion->negative-valence-asymmetry-and-the-selection-weighting-function,
-    training-contamination->its concept -- all verified live on disk this cycle); gap
-    caps have headroom (topics 273/300, concepts 265/300, voids 101/100 over, positions
-    5/80) but new-article generation is harvester-governed (harvester last 02:53, next
-    ~08:53 UTC) and gap-analysis dedup-blocked against the Vetoed bank; LENGTH re-confirmed
-    via get_length_warnings -- every content-section hard/critical offender is human-deferred
-    / #veto / index hub / accept-as-survey / refine-then-condense churn trap / research
-    working note (NO safe condense candidate); orphans 0; positions register files
-    carry no last_deep_review by design, positions-evolve already ran 00:58. So a genuine-DRIFT
-    verification deep-review is the lowest-risk floor restorer. Of the 154 ai_modified>last_deep_review
-    candidates the top-drift ones are nearly all cosmetic cross-touch artifacts (a
-    sibling expand/refine bumping a shared cross-link -- git-verified: indexical-identity-quantum-measurement
-    +22.6d touched only by the egocentric-presentism expand 8c29a0db6; ownership-problem
-    & combination-problem touched by sibling open-individualism/manyism expands --
-    rejected). concepts/motor-selection.md is the cleanest genuine exception: last
-    deep-reviewed 2026-06-01 but SUBSTANTIVELY own-body content-edited after that by
-    TWO real refines -- commit 6822c9ede (2026-06-16) added a load-bearing mechanism-debt
-    paragraph (the bias-without-deviation / Born-preservation crux the 2026-06-19/06-20
-    outer-review TRIPLE flagged as the corpus most load-bearing unaddressed issue),
-    and commit f2521415c (2026-06-05) applied a corpus-wide Cai/Kaeser (2024) citation-metadata
-    fix. A refine bumps content/ai_modified but NOT last_deep_review, so BOTH are UNVERIFIED
-    (coalesce-hides-review-debt sibling). ai_contribution=100, ai_system claude-opus-4-6
-    (older model), body 3268w soft_warning (concepts hard 3500, ~232w headroom -- review
-    STRICTLY length-neutral/trimming, NOT a condense). Tenet 2 + Tenet 3 load-bearing
-    (canonical Stapp/Zeno motor-quantum interface). Confirmed NOT vetoed (the three
-    Vetoed-section hits are cross-link suggestions in OTHER tasks notes that merely
-    mention motor-selection, not a veto) and no open duplicate (the lone above-Completed
-    hit is a closed RESOLVED-OBSOLETE 2026-06-01 entry). Task notes steer VERIFICATION
-    mode (confirm the mechanism-debt paragraph is calibrated -- not over/under-conceding;
-    verify the quantum-interface block-anchor resolves; web-verify cites incl. the
-    refine-fixed Cai/Kaeser at publisher of record; currency sweep) NOT a cosmetic
-    bump. Inserted at top of Active Tasks to defeat LIFO; existing tasks not starved.
-    Verified post-write: count_p0_p2_tasks=3 (floor met), select_queue_task returns
-    this new task as next pick. Expect replenish-at-floor alternation until the harvester
-    reopens the research->expand pipeline ~08:53 UTC.'
+    training-contamination->its concept -- all verified live on disk this cycle);
+    gap caps have headroom (topics 273/300, concepts 265/300, voids 101/100 over,
+    positions 5/80) but new-article generation is harvester-governed (harvester last
+    02:53, next ~08:53 UTC) and gap-analysis dedup-blocked against the Vetoed bank;
+    LENGTH re-confirmed via get_length_warnings -- every content-section hard/critical
+    offender is human-deferred / #veto / index hub / accept-as-survey / refine-then-condense
+    churn trap / research working note (NO safe condense candidate); orphans 0; positions
+    register files carry no last_deep_review by design, positions-evolve already ran
+    00:58. So a genuine-DRIFT verification deep-review is the lowest-risk floor restorer.
+    Of the 154 ai_modified>last_deep_review candidates the top-drift ones are nearly
+    all cosmetic cross-touch artifacts (a sibling expand/refine bumping a shared cross-link
+    -- git-verified: indexical-identity-quantum-measurement +22.6d touched only by
+    the egocentric-presentism expand 8c29a0db6; ownership-problem & combination-problem
+    touched by sibling open-individualism/manyism expands -- rejected). concepts/motor-selection.md
+    is the cleanest genuine exception: last deep-reviewed 2026-06-01 but SUBSTANTIVELY
+    own-body content-edited after that by TWO real refines -- commit 6822c9ede (2026-06-16)
+    added a load-bearing mechanism-debt paragraph (the bias-without-deviation / Born-preservation
+    crux the 2026-06-19/06-20 outer-review TRIPLE flagged as the corpus most load-bearing
+    unaddressed issue), and commit f2521415c (2026-06-05) applied a corpus-wide Cai/Kaeser
+    (2024) citation-metadata fix. A refine bumps content/ai_modified but NOT last_deep_review,
+    so BOTH are UNVERIFIED (coalesce-hides-review-debt sibling). ai_contribution=100,
+    ai_system claude-opus-4-6 (older model), body 3268w soft_warning (concepts hard
+    3500, ~232w headroom -- review STRICTLY length-neutral/trimming, NOT a condense).
+    Tenet 2 + Tenet 3 load-bearing (canonical Stapp/Zeno motor-quantum interface).
+    Confirmed NOT vetoed (the three Vetoed-section hits are cross-link suggestions
+    in OTHER tasks notes that merely mention motor-selection, not a veto) and no open
+    duplicate (the lone above-Completed hit is a closed RESOLVED-OBSOLETE 2026-06-01
+    entry). Task notes steer VERIFICATION mode (confirm the mechanism-debt paragraph
+    is calibrated -- not over/under-conceding; verify the quantum-interface block-anchor
+    resolves; web-verify cites incl. the refine-fixed Cai/Kaeser at publisher of record;
+    currency sweep) NOT a cosmetic bump. Inserted at top of Active Tasks to defeat
+    LIFO; existing tasks not starved. Verified post-write: count_p0_p2_tasks=3 (floor
+    met), select_queue_task returns this new task as next pick. Expect replenish-at-floor
+    alternation until the harvester reopens the research->expand pipeline ~08:53 UTC.'
   pre471_replenishment_note: 'run no.470 (2026-06-20): FLOOR-RESTORING single-mint
     genuine-drift run. Authoritative tools.evolution.task_selector confirmed count_p0_p2_tasks=2
     pre-run -- the two pickable headers were the epistemic-emotions + sensorimotor
