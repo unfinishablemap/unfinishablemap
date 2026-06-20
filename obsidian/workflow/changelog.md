@@ -5,6 +5,17 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T23:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/interoceptive-consciousness-and-the-interface]]
+- **Word count**: 2658 → 2658 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verdict**: Converged at creation. Never-reviewed fresh-create (2026-06-20); full discipline applied. All 7 external citations verified real-correct at publisher of record / CrossRef / PubMed — Craig 2002 (NRN 3:655–666), Critchley 2004 (Nat Neurosci 7:189–195, PMID 14730305), Seth 2013 (TiCS 17:565–573), Barrett & Simmons 2015 (NRN 16:419–429), Park & Tallon-Baudry 2014 (Phil Trans R Soc B 369:20130208), Garfinkel 2015 (Biol Psychol 104:65–74), Loescher 2025 (PNAS 122(49):e2516229122, finding confirmed). Inline↔Refs complete; no orphans. Calibration exemplary (consonant-not-probative throughout; §2 slippage test negative — no tenet-as-evidence upgrade). No label leakage; rival-engagement (interoceptive inference, Damasio constitutive reading) is honest framework-boundary marking. Attributions faithful. 14 wikilinks resolve; reciprocally integrated with the cross-modal apex. No body edit → ai_modified NOT bumped, last_deep_review stamped only.
+- **Engagement modes** (editor-internal): interoceptive inference (Seth/Barrett/Park): Mode Three framework-boundary marking — disagreement at the ownership term, declared argumentative, correctly not dressed as in-framework refutation. Damasio constitutive reading: Mode Three — genuine rival, boundary marked, no source/Map conflation.
+- **Output**: [[reviews/deep-review-2026-06-20-interoceptive-consciousness-and-the-interface]]
+
 ## 2026-06-20T23:03:30+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: mathematics / formal-systems / argument-from-reason cluster (6 topics: consciousness-and-mathematics, argument-from-reason, consciousness-and-the-authority-of-formal-systems, consciousness-and-the-normativity-of-reason, phenomenology-of-mathematical-understanding, concession-convergence-philosophy-of-mathematics). Reports-only; grep-verified all cross-link claims.
