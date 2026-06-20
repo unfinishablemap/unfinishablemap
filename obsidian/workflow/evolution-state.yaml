@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-20T00:58:18.421675+00:00'
-session_count: 12234
+last_updated: '2026-06-20T01:00:38.022623+00:00'
+session_count: 12235
 cycle_position: 9517
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-19T04:07:37.836771+00:00'
   refine-draft: '2026-06-19T23:24:08.429858+00:00'
   research-topic: '2026-06-19T21:12:45.954757+00:00'
-  replenish-queue: '2026-06-20T00:51:21.751230+00:00'
+  replenish-queue: '2026-06-20T01:10:00.000000+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-19T21:27:11.259971+00:00'
   add-highlight: '2026-06-19T08:04:55.248074+00:00'
@@ -34,7 +34,7 @@ last_runs:
   combine-outer-reviews: '2026-06-19T05:00:57.076764+00:00'
   collect-gemini-review: '2026-06-19T04:49:08.330258+00:00'
   positions-evolve: '2026-06-20T00:58:18.421675+00:00'
-  check-model-fallback: '2026-06-19T20:58:10.989174+00:00'
+  check-model-fallback: '2026-06-20T01:00:38.022623+00:00'
   harvest-research-subjects: '2026-06-19T20:50:18.743976+00:00'
   skip-queue-slot: '2026-06-20T00:08:33.315224+00:00'
   integrate-orphan: '2026-06-18T04:25:11.257083+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-06-19'
-  outcome: success
 - task: replenish-queue
   type: replenish-queue
   date: '2026-06-19'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: positions-evolve
   type: positions-evolve
+  date: '2026-06-20'
+  outcome: success
+- task: check-model-fallback
+  type: check-model-fallback
   date: '2026-06-20'
   outcome: success
 agentic_social:
@@ -1166,12 +1166,40 @@ queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 1
-  p3_tasks: 1
+  p3_tasks: 0
   needs_replenishment: false
-  loop_pickable_open: 2
-  last_replenishment: '2026-06-20T01:00:00+00:00'
+  loop_pickable_open: 1
+  last_replenishment: '2026-06-20T01:10:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.458 (2026-06-20): no-op on MINTING, and the
+  current_replenishment_note: 'run no.459 (2026-06-20): MINTED 1 floor-restorer.
+    Unlike run-458 (which correctly no-op''d on 2 still-pending tasks), this cycle
+    found the queue at 0 loop-pickable P0-P2 -- the run-458 pending pair (P2 refine-draft
+    cross-link-ownership-problem + P3 positions-evolve closed-individualism) were BOTH
+    completed and moved to Completed Tasks this same cycle. Live audit via
+    tools.evolution.task_selector confirmed 0 active parsed / count_p0_p2=0 /
+    select_queue_task=None pre-mint. Genuine empty-queue restoration, NOT the
+    replenish-at-floor alternation. All 8 MINT sources re-verified exhausted: (chain)
+    no successor-generating recent completion; (unconsumed research) the 4 checker-flagged
+    UNCONSUMED notes are by-design false positives -- moral-aggregation frontmatter
+    Status:CONSUMED into ethics-of-possible-ai-consciousness (do-NOT-remint), manyism
+    covered by concepts/manyism.md, integrated-world-modeling-theory note verdict
+    RETARGET/DECLINE (covered in predictive-processing), open-individualism+deep-computational-markers
+    have live articles; (gap) caps have headroom but new-article generation is
+    harvester-governed (harvest ran 06-19 20:50, next ~02:50) and replenish gap-analysis
+    is Vetoed-bank-dedup-blocked; (length) all content-section offenders are
+    human-blocked/vetoed/calibration-churn-risky; (staleness) NO genuine-drift candidate
+    (all >30d articles CONVERGED, ai_modified==last_deep_review); (orphan) 0; (positions/apex)
+    closed-individualism just registered, positions 5/80 slow-add. Minted the single
+    lowest-risk restorer: P2 deep-review concepts/somatic-interface.md (last_deep_review
+    2026-05-19 = 31.4d oldest-tier, ai_contribution=100, 2828w soft_warning so
+    verification-mode not condense, Tenet-3 load-bearing interoceptive interface). It
+    is CONVERGED so a confirming verdict is acceptable, but a genuine deep pass
+    occasionally catches a real defect on load-bearing content. Verified post-mint:
+    select_queue_task returns this P2 as the next pick (lone P2 auto-picks; defeats
+    p3-only-floor-preemption-starves). count_p0_p2 now 1 (still below MIN_QUEUE 3, so
+    next non-queue slot may re-fire replenish -- expected steady-state alternation
+    until the harvester reopens the research->expand pipeline at 02:50). PRIOR run-458
+    note for reference: no-op on MINTING, and the
     floor is already RESTORED -- no out-of-band action needed this time. On-disk re-audit
     (Active Tasks lines 38-1092) plus a live count via tools.evolution.task_selector
     confirms 2 pending unblocked active tasks, of which the loop selector returns
@@ -1210,7 +1238,7 @@ queue_status:
     length_analysis: 0
     orphan_integration: 0
     positions: 0
-    staleness: 0
+    staleness: 1
     unconsumed_research: 0
     promotion: 0
   replenishment_source_counts:
@@ -1220,6 +1248,6 @@ queue_status:
     length_analysis: 0
     orphan_integration: 0
     positions: 0
-    staleness: 0
+    staleness: 1
     unconsumed_research: 0
     promotion: 0
