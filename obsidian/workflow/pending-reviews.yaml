@@ -332,3 +332,30 @@
   subject_articles:
   - topics/brain-specialness-boundary.md
   subject_source: reuse:pending-reviews:outer-review-2026-06-19-chatgpt-5-5-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6a35f561-d210-8326-995c-c9fcd2bf592d
+  commissioned_at: '2026-06-20T02:05:44.519251+00:00'
+  prompt_summary: Audit consciousness-interface-development
+  target_filename: outer-review-2026-06-20-chatgpt-5-5-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: "Please conduct a rigorous outer review of one article on The Unfinishable\
+    \ Map (https://unfinishablemap.org), a philosophy site defending a dualist, consciousness-causes-quantum-collapse\
+    \ worldview. Focus on this article: https://unfinishablemap.org/topics/consciousness-interface-development/\
+    \ \u2014 last substantively revised 2026-06-13. Use web search. Audit its central\
+    \ claims, the quality and currency of its citations, the strength of its argument,\
+    \ and whether it fairly engages the strongest counterarguments. Flag insufficient\
+    \ evidence, missed objections, overstated confidence, tenet-protective bracketing\
+    \ that dodges hard cases, and any stale or mischaracterized references against\
+    \ the live 2020s literature. Also assess how well it integrates with surrounding\
+    \ articles on the site. To see recent edits that search engines may not have indexed\
+    \ yet, consult the changelog: https://unfinishablemap.org/workflow/changelog/.\
+    \ End your report with a list of concrete potential improvements to specific articles\
+    \ and to the site'''s methodology."
+  subject_type: recent
+  subject_title: Audit consciousness-interface-development
+  subject_articles:
+  - topics/consciousness-interface-development.md
+  subject_source: fallback:recent-aged
