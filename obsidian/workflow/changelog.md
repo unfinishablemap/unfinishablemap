@@ -5,6 +5,13 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T15:26:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Phenomenology of Forgetting (active forgetting as a process)
+- **Assess verdict**: PROCEED — distinct from inaccessible-past (re-entering past states) and erasure-void (auditing one's own deletions); uncovered seam is active/intentional forgetting AS A PROCESS + its phenomenology, with Tenet-3 (bidirectional interaction) payoff
+- **Output**: [[research/phenomenology-of-forgetting-2026-06-20]]
+- **Sources consulted**: 13 (Anderson & Green 2001 Nature; Anderson Bjork Bjork 1994 JEP:LMC; Anderson & Hulbert 2021 Annu Rev Psychol; Anderson et al. 2025 Nat Rev Neurosci; Davis & Zhong 2017 Neuron; Schmitz et al. 2017 Nat Commun; Gagnepain/Anderson 2017 J Neurosci; Ricoeur 2004; James 1890; directed-forgetting + TNT-replication literature)
+
 ## 2026-06-20T15:01:29+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/moral-implications-of-genuine-agency]]

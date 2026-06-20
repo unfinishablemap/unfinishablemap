@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research Phenomenology of Forgetting
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-06-20c.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-06-20c flags that the memory/Tulving cluster covers consolidation, reconsolidation, and the inaccessible past but treats ACTIVE forgetting only glancingly. No forgetting article or research note exists (dedup-confirmed). Active/motivated forgetting, suppression, intentional letting-go, and the phenomenology of a memory becoming unavailable are a distinct consciousness subject from the clusters storage/retrieval focus. Tenet 1/3 relevant (what consciousness does when it lets go). Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/phenomenology-of-forgetting-2026-06-20.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'phenomenology-of-forgetting' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-06-20
-
 ### P3: Research Cross-Modal Capability Division Across the Senses
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-05-28b.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-05-28b (Medium priority): capability-division-in-vision establishes the brain-side/mind-side template for ONE modality; a synthesis testing whether the SAME division (feature-extraction brain-side, flexible-deployment+ownership mind-side) recurs across audition, touch, proprioception would convert a single-modality result into a structural claim. Per-modality pieces exist (capability-division-in-vision, auditory-consciousness-and-the-interface, dual-domain-capabilities-in-proprioception) but no cross-modal synthesis (dedup-confirmed). Tenet 3. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/cross-modal-capability-division-across-the-senses-2026-06-20.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'cross-modal-capability-division-across-the-senses' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -1178,6 +1172,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-20: Research Phenomenology of Forgetting
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-06-20c.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-06-20c flags that the memory/Tulving cluster covers consolidation, reconsolidation, and the inaccessible past but treats ACTIVE forgetting only glancingly. No forgetting article or research note exists (dedup-confirmed). Active/motivated forgetting, suppression, intentional letting-go, and the phenomenology of a memory becoming unavailable are a distinct consciousness subject from the clusters storage/retrieval focus. Tenet 1/3 relevant (what consciousness does when it lets go). Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/phenomenology-of-forgetting-2026-06-20.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'phenomenology-of-forgetting' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-06-20: Deep review topics/moral-implications-of-genuine-agency.md (~3-week stale + unverified 2026-06-02 calibration)
 - **Type**: deep-review
