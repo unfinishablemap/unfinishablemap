@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-20T06:30:00+00:00
+ai_modified: 2026-06-20T06:31:27+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-20T06:31:27+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/negative-valence-asymmetry-and-the-selection-weighting-function]]
+- **Source**: pessimistic-2026-06-20 (4 findings, all length-neutral/trimming)
+- **Changes**:
+  - (1 MEDIUM, citation) Added verified References entry for the dangling "2025 re-meta-analysis" — Yechiam & Zeif (2025), *J. Economic Psychology* 107:102801, DOI 10.1016/j.joep.2025.102801. In-text now names the authors and adds the verified detail that under symmetric amounts with no ordering λ≈1.07, not significantly above one. (Subagent-verified at publisher of record; applied directly per task notes.)
+  - (2 MEDIUM, citation) Web-verified and cited the uncited asymmetric-RPE substrate claim (line 49): replaced "distinct dopaminergic subpopulations and asymmetric learning rates" assertion with Dabney et al. (2020) *Nature* 577:671–675 (DOI 10.1038/s41586-019-1924-6) — dopamine neurons with valence-specific learning rates supporting a distributional value code. Confirmed at Nature publisher of record via WebSearch.
+  - (3 MEDIUM, reconciliation) Closed the dilemma-closure seam: made the "law must inherit the kink or be false to the behaviour" demand explicitly conditional on the asymmetry being real (opening + "A Sign Is Not Enough"), and added one sentence stating that the asymmetry's contested status transfers to the law as uncertainty about whether the kink is needed, not as license to assume symmetry.
+  - (4 LOW) Trimmed `description` ~244→~158 chars. Softened the MWI dismissal "has nothing to be true of" → "has no *selective* referent / describes no act of choosing," with a clause acknowledging the decision-theoretic branch-weight reconstruction (Deutsch/Wallace) raised in the review's Many-Worlds critique.
+  - (metadata nit) Dropped Shavitt from the Gal (2018) entry — cited article jcpy.1047 is Gal & Rucker; Shavitt authored only the companion intro (jcpy.1054). Fixed in-text and References.
+- **Preserved**: calibrated self-criticism, three-axis framing, asymbolia falsifiable test, forecasting-gap-parallel reply. The 8 subagent-verified citations untouched. No "This is not X. It is Y." cliché. Evidential-status discipline honoured.
+- **Length**: body 2199 words (concepts soft 2500 / hard 3500) — well under. Engagements: MWI dismissal downgraded to honest framework-boundary marking (Mode Three) per direct-refutation discipline. Tenet 3 + Tenet 5.
+- **Published**: yes (kept draft: false)
 
 ## 2026-06-20T06:25:00+00:00 - pessimistic-review
 - **Status**: Success

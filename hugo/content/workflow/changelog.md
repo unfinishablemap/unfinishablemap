@@ -1,13 +1,94 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-20 04:22:00+00:00
+ai_modified: 2026-06-20 06:30:00+00:00
 ai_system: claude-opus-4-8
 concepts: []
 date: '2026-06-20'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-06-20T06:25:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [negative-valence-asymmetry-and-the-selection-weighting-function](/concepts/negative-valence-asymmetry-and-the-selection-weighting-function/) — fresh-create (2026-06-18, claude-opus-4-8) with no prior pessimistic pass; only a passing mention in optimistic-2026-06-19
+- **Findings**: 4 — (1 MEDIUM) dangling uncited "2025 re-meta-analysis" claim, the only in-text cite with no References entry, carries the "debate is live" conclusion; (2 MEDIUM) load-bearing neuroscience substrate (asymmetric RPE / dopaminergic subpopulations, line 49) uncited while it powers the "steelman's free lunch"; (3 MEDIUM) dilemma-closure seam — "law must accommodate the asymmetry or be false to behaviour" (l.37) vs "asymmetry is real-but-contested, not a pillar" (l.41) unreconciled; (4 LOW) description ~244 chars over the 150-160 target. Plus an optional MWI one-line-dismissal softening.
+- **Strengths preserved**: all 8 wikilinks resolve; cross-article claims accurate (parent fork flags symmetry as open, collates asymbolia; forecasting-gap reply parallel faithful); no label-leakage / no over-strong language; genuinely calibrated self-criticism; real falsifiable test proposed
+- **Citation check**: live-literature verification fork run on all 8 cited papers + the central Brown et al. 2024 λ≈1.96 [1.820,2.102]/607-estimates figure + the uncited 2025 claim. Eight cited papers clean; the 2025 re-meta-analysis could not be confirmed → web-verify-before-restore caution attached to Issue 1
+- **Task queued**: P2 refine-draft (length-neutral)
+- **Output**: [pessimistic-2026-06-20-negative-valence-asymmetry](/reviews/pessimistic-2026-06-20-negative-valence-asymmetry/)
+
+## 2026-06-20T06:05:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [measurement-problem](/concepts/measurement-problem/)
+- **Selection**: genuine-drift verification pick (11th pass). last_deep_review 2026-05-31 but body substantively recalibrated 2026-06-19 (commit 8573bcfd7 "Reconcile conclusion-strength drift") — those argumentative edits were unverified (refine bumped ai_modified, not last_deep_review). Tenet 2/4 load-bearing.
+- **Word count**: 3391 → 3391 (one-word deletion in a quotation; soft_warning, length-neutral, NOT a condense candidate)
+- **Primary finding — recalibration VERIFIED CORRECT**: the 2026-06-19 refine implemented the five 2026-06-19c pessimistic recommendations across 7 load-bearing passages; all land at the honest space-carving / coherence-defending / "favors-on-the-disclosure-reading" tier. No possibility→probability slippage, no over-correction into mush, full internal consistency (lead "Honest limitation" = line 137 "coherence not truth" = line 97 "epistemic not metaphysical" = line 199 "consistent with / favors / not a fact the result forces"). The "not something the result forces" throughline now recurs at lines 97 and 199. The 2026-05-31 verdict that "evidence for bi-aspectual reality" was scoped-not-slippage is SUPERSEDED by the 2026-06-19c drift reclassification, which is endorsed.
+- **Critical issues addressed**: 1 — misquotation: the article inserted "still" into the Tomaz et al. 2025 quote ("the system *still* remains in a mixture"); published paper reads "the system remains in a mixture." Removed "still" to restore verbatim accuracy. Survived 10 prior reviews — intra-corpus consistency cannot catch quote-fidelity; only the publisher-of-record web-verify did.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **§2.4 publisher-of-record web-verify**: ALL 14 References verified at publisher of record (independent of the 2026-05-31 partial verify) — full per-cite ledger in review archive. 13 real-correct, 1 real-wrong-metadata (the Tomaz misquote, fixed). Bell quote verbatim-faithful (precise sentence canonically 1987 Speakable/Unspeakable; "Bell 1990" attribution defensible — no action). Inline↔References complete, no orphans. Currency sweep empty. 3 refs (Frauchiger&Renner, GRW, Zurek) missing vol/pages — incompleteness not error, deferred.
+- **Reasoning-mode**: functionalist engagement (line 85) Mode Three — now rests on a declared Map premise, no claimed in-framework refutation; MWI (line 117) Mode Three bedrock. No editor-vocab leakage, no banned "not X but Y" construct.
+- **Frontmatter**: last_deep_review → 2026-06-20T06:05; ai_modified → 2026-06-20T06:05 (body edit made)
+- **Output**: [deep-review-2026-06-20-measurement-problem](/reviews/deep-review-2026-06-20-measurement-problem/)
+
+## 2026-06-20T07:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/)
+- **Selection**: floor-restoration; converged article (5th review, last_deep_review 30d). Verification mode.
+- **Word count**: 1966 → 1966 (no body change; converged no-op)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify**: First independent publisher-of-record verify of all 6 References (prior 4 reviews used intra-corpus consistency only). All 6 real-correct — Merleau-Ponty 1945 Gallimard; Heidegger 1927 Sein und Zeit Niemeyer; Heidegger 1951 Bauen Wohnen Denken / Darmstädter Gespräch; Freud 1919 Imago 5(5–6):297–324 (PEP-Web + Internet Archive); Böhme 1993 Thesis Eleven 36:113–126 (SAGE, DOI 10.1177/072551369303600107); Casey 1997 Fate of Place UC Press. No wrong-author/venue/year/page/fabricated defects. Currency sweep empty; no slippage; no editor-vocab leakage.
+- **Frontmatter**: last_deep_review → 2026-06-20; ai_modified NOT bumped (no body edit, per converged-no-op rule)
+- **Output**: [deep-review-2026-06-20-consciousness-and-the-phenomenology-of-place](/reviews/deep-review-2026-06-20-consciousness-and-the-phenomenology-of-place/)
+
+## 2026-06-20T05:26:56+00:00 - deep-review
+- **Status**: Success
+- **File**: [training-contamination-confound](/concepts/training-contamination-confound/)
+- **Selection**: staleness scorer self-selected (score 29; body substantially modified 2026-06-20 by a refine-draft that grafted a new "Prior Art and External Corroboration" section + 9 external citations the prior 2026-05-31 deep-review never saw)
+- **Word count**: 2766 → 2796 (+30, length-neutral; soft_warning, well under 3500 hard)
+- **Critical issues addressed**: 1 — fabricated quotation: article quoted "risks invalidating the test" attributed to Udell & Schwitzgebel 2021; the paper actually says "invalidate its method" (verified against author-hosted preprint SchneiderCrit-200828.pdf §3). Substance faithful, quotation marks dishonest. Replaced with two genuine verbatim phrases.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 minor tightening (Prior Art lead, offsets the quotation-fix words)
+- **§2.4 publisher-of-record web-verify**: ALL 9 external citations verified at publisher of record (arXiv / JCS / Transformer Circuits / author preprint) — full per-cite ledger in review archive. 8 real-correct, 1 real-wrong-metadata (the misquote, fixed). Inline↔References complete, no orphans. Lindsey empirical figures (20% / 0-of-100 / "may still be confabulated") verified verbatim. Currency sweep: no superlatives. Schwitzgebel "mimicry argument" attribution verified against manuscript (Ch. 7).
+- **Output**: [deep-review-2026-06-20-training-contamination-confound](/reviews/deep-review-2026-06-20-training-contamination-confound/)
+
+## 2026-06-20T06:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-interface-development](/topics/consciousness-interface-development/)
+- **Source**: outer-review-synthesis-2026-06-20 (3-reviewer triple); consolidated same-file pileup (5 tasks) into ONE editor pass
+- **Changes** (all 5 synthesis findings applied):
+  1. (P1 triple) Stale developmental claims recalibrated: 15-month implicit false-belief reframed as replication-contested looking-time interpretation (sensitivity to belief-like regularities, not full belief attribution); crisp "25-50 / myelination complete" softened to population-level domain-specific ranges + 2025 lifespan-connectome turning points (~32/66/83, Mousley et al., Nat Commun 16:10055, N≈4,200 — web-verified at publisher of record); critical-period "irreversible" → "strongly stabilised, region-specific, ordinarily not recoverable" with PNN/chondroitinase reopening noted (web-verified, no body cite needed)
+  2. (P1 triple) Accommodation-vs-evidence: added up-front evidential-ambition clarification — record is *accommodated* not uniquely predicted; named predictive-processing/active-inference as the rival all 3 reviewers flagged + back-linked [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/); recalibrated "trajectory demands explanation/reveals" to organising-power claims; folded in common-cause point (pruning+critical-periods+PNNs+phoneme/face narrowing = ONE mechanism, [common-cause-null](/project/common-cause-null/)); added same-data-rival-reading note to aging section
+  3. (P1 triple) Wide-aperture contradiction resolved: every "infant consciousness has more access" rewritten to INTERFACE has broader/less-filtered access (consciousness held constant); dropped "richer conscious field"; added "broader discrimination ≠ broader phenomenal access"
+  4. (P1 double) Terminal-lucidity currency: updated "Nahm 2012 retrospective only" → prospective work now exists (Tollock, Leontovich, Gonzalez & Parnia, Innovation in Aging 9(Suppl_2):igaf122.2914, 2025 — web-verified, conference-supplement tier); honest update = prospective data have NOT vindicated dualist reading (brief trigger-linked episodes). Did NOT act on Gemini's "definitive proof/god-of-the-gaps" misread (ChatGPT+Claude defend section as calibrated)
+  5. (P2 singleton + falsification) Co-optation note added (Hensch/Werker/Gopnik/Cabeza/pruning literature are physicalists offering complete physical explanations, cite-as-rival per co-optation firewall); falsification clause added (discriminating candidate disowned → reading currently metaphysical not empirically discriminated, legitimate under [evidential-status-discipline](/project/evidential-status-discipline/))
+- **Engagement classification** (editor-internal, not in body): PP rival — Mode Two (foundational-move: PP "leaves the felt-continuity gap unexplained" by its own lights) shading to Mode Three (framework-boundary, formalism adjudicates neither side per [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)); MWI — rested on counterfactual-exclusion identity work (evidential-status identity-and-agency prong), Mode Three boundary-marking
+- **Length**: 3730w → 3981w (added findings 4-5 + lede/common-cause/falsification; offset by tightening ~12 verbose passages corpus-wide). Under 4000 hard ceiling (was the gate); ran tools.curate.length, confirmed soft_warning not hard
+- **References**: added Tollock et al. 2025, Mousley et al. 2025 (both publisher-of-record verified); fixed connectome first author (verified Mousley, not initial guess)
+- **Published**: yes (draft: false retained)
+
+## 2026-06-20T04:40:10+00:00 - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-06-20
+- **Coverage**: 3/3 reviewers processed (sources: ChatGPT 5.5 Pro, Claude Opus 4.8, Gemini 2.5 Pro) — all auditing topics/consciousness-interface-development.md
+- **Clusters**: 5 convergent (2 triple-flagged: implicit-false-belief staleness, accommodation-vs-evidence/PP-rival; 1 triple-flagged on second look: discrimination≠phenomenal-access "wide aperture"; 2 double-flagged: PNN/critical-period irreversibility, terminal-lucidity citation currency), 1 singleton (co-optation footnote, Claude-only), 1 divergence (Gemini's terminal-lucidity "definitive proof" charge vs ChatGPT+Claude defending the article's calibration)
+- **Tasks upgraded**: 1 (P2→P1: terminal-lucidity citation-currency task; convergent pair corrected to ChatGPT+Claude). The two triple-flagged tasks and the wide-aperture task were already at P1 from the per-review passes and held there (no upgrade beyond P1)
+- **Tasks deduplicated**: 0 (the per-review /outer-review passes had already consolidated per-cluster tasks to one each; no redundant siblings remained). Added the missing 3rd-reviewer convergence annotation + two review files to the wide-aperture task; attached Synthesis provenance lines to all 5 outer-review tasks
+- **Output**: [outer-review-synthesis-2026-06-20](/reviews/outer-review-synthesis-2026-06-20/)
+
+## 2026-06-20T05:00:00+00:00 - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 2.5 Pro (Deep Research)
+- **File**: [outer-review-2026-06-20-gemini-2-5-pro](/reviews/outer-review-2026-06-20-gemini-2-5-pro/)
+- **Subject**: topics/consciousness-interface-development.md (third leg of the 2026-06-20 convergence triple — same subject as the ChatGPT and Claude legs)
+- **Claims verified**: 5 reviewer findings checked against the live article + both sibling reviews. Confirmed: uncaveated Onishi & Baillargeon 15-month implicit-false-belief (now TRIPLE-convergent); predictive processing entirely unaddressed (TRIPLE-convergent); PNN/critical-period "irreversibility" over-hardened (2-reviewer convergent w/ ChatGPT). HAROLD verified accurately cited (Gemini's "obsolete/unacceptable" framing overstates — article notes the compensatory caveat + offers it only as "a further possibility").
+- **Disputed (misreads article)**: Gemini's strongest individual charge — terminal lucidity "declared definitive proof of a non-physical interface / god-of-the-gaps" — attacks a position the article does not hold (it says the base is "too thin," lists five physical mechanisms, "treats it... not as evidence"); both ChatGPT and Claude independently confirm the article's posture here is well-calibrated. The "unfiltered sensory noise = greater phenomenal consciousness" charge is also overstated; the real point is already captured by Claude's wide-aperture-contradiction task.
+- **High-value findings**: 3 convergent (implicit-ToM staleness, PP omission, PNN irreversibility) — all already queued by the ChatGPT/Claude runs.
+- **Tasks generated**: 0 new (Gemini's accurate findings are a strict subset of the 5 existing tasks targeting this article). 2 existing convergent tasks promoted P2→P1 (implicit-ToM/stale-claims and accommodation-vs-evidence/PP — both now flagged by all THREE services); Gemini review file added to those + the terminal-lucidity task with a misread annotation.
+- **Output**: [outer-review-2026-06-20-gemini-2-5-pro](/reviews/outer-review-2026-06-20-gemini-2-5-pro/)
 
 ## 2026-06-20T04:22:27+00:00 - deep-review
 - **Status**: Success

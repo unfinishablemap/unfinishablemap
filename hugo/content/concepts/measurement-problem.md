@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-06-19 17:46:44+00:00
+ai_modified: 2026-06-20 06:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -36,7 +36,7 @@ description: 'Quantum mechanics'' central puzzle: why measurement yields definit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-05-31 18:07:12+00:00
+last_deep_review: 2026-06-20 06:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -96,7 +96,7 @@ This reveals a gap across major interpretations:
 
 ## Why Decoherence Doesn't Solve It
 
-[decoherence](/concepts/decoherence/) is sometimes claimed to solve the measurement problem. It doesn't—though it explains something substantial: why macroscopic superpositions vanish and which basis is selected. As Tomaz et al. note: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured" (2025). This clean partition—decoherence handles all structural work while leaving the actuality question untouched—is *compatible with* two readings: the [disclosure reading](/concepts/physics-as-disclosure/), on which the partition marks a boundary in reality, and an open-problem reading, on which an as-yet-unfound [dynamical-collapse theory](/concepts/spontaneous-collapse-theories/) (GRW, CSL, Penrose) will eventually close the gap. What the result establishes is epistemic—a limit on derivation—not yet metaphysical, and it does not by itself select between the two. The Map prefers disclosure because the collapse programmes leave the actuality question untouched even where they succeed dynamically (objective reduction fixes *that* and *when* a system reduces, not *which* outcome becomes actual *for* an experiencing subject), so the gap looks structural rather than provisional—an inference to the better reading, not something the result forces. [Quantum Darwinism](/topics/quantum-darwinism-and-consciousness/) extends this result: even when environmental redundancy makes pointer states objectively accessible to independent observers, the problem of outcomes persists—the most developed decoherence programme still cannot specify which outcome becomes actual.
+[decoherence](/concepts/decoherence/) is sometimes claimed to solve the measurement problem. It doesn't—though it explains something substantial: why macroscopic superpositions vanish and which basis is selected. As Tomaz et al. note: "After the basis is chosen and quantum superpositions are suppressed, the system remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured" (2025). This clean partition—decoherence handles all structural work while leaving the actuality question untouched—is *compatible with* two readings: the [disclosure reading](/concepts/physics-as-disclosure/), on which the partition marks a boundary in reality, and an open-problem reading, on which an as-yet-unfound [dynamical-collapse theory](/concepts/spontaneous-collapse-theories/) (GRW, CSL, Penrose) will eventually close the gap. What the result establishes is epistemic—a limit on derivation—not yet metaphysical, and it does not by itself select between the two. The Map prefers disclosure because the collapse programmes leave the actuality question untouched even where they succeed dynamically (objective reduction fixes *that* and *when* a system reduces, not *which* outcome becomes actual *for* an experiencing subject), so the gap looks structural rather than provisional—an inference to the better reading, not something the result forces. [Quantum Darwinism](/topics/quantum-darwinism-and-consciousness/) extends this result: even when environmental redundancy makes pointer states objectively accessible to independent observers, the problem of outcomes persists—the most developed decoherence programme still cannot specify which outcome becomes actual.
 
 ### A Gödelian Parallel: Systems That Cannot Describe Themselves
 
