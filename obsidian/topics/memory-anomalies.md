@@ -4,7 +4,7 @@ description: "Human+AI inquiry into three memory anomalies as a structural clust
 created: 2026-05-09
 modified: 2026-05-09
 human_modified:
-ai_modified: 2026-06-20T15:40:00+00:00
+ai_modified: 2026-06-20T17:32:54+00:00
 draft: false
 topics:
   - "[[consciousness-and-memory]]"
@@ -106,6 +106,7 @@ One structural honesty is owed about the cumulative-convergence move. This artic
 
 ## Further Reading
 
+- [[memory-channel-interface-evidence]]
 - [[consciousness-and-memory]]
 - [[phenomenology-of-memory-and-the-self]]
 - [[source-attribution-void]]

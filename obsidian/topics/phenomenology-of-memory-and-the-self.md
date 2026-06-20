@@ -4,7 +4,7 @@ description: "Remembering is not retrieving stored data but re-inhabiting a pers
 created: 2026-02-13
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-06-20T15:40:00+00:00
+ai_modified: 2026-06-20T17:32:54+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -155,6 +155,7 @@ The conclusions stand only inside the Map's auxiliary commitments: hard-problem 
 
 ## Further Reading
 
+- [[memory-channel-interface-evidence]]
 - [[episodic-memory]]
 - [[the-self-minimal-narrative-and-substantial]]
 - [[personal-identity]]

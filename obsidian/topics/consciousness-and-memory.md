@@ -4,7 +4,7 @@ description: "Memory is not storage but structured re-experiencing—and the hie
 created: 2026-02-08
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-06-20T15:40:00+00:00
+ai_modified: 2026-06-20T17:32:54+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -188,6 +188,8 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 
 ## Further Reading
 
+- [[memory-channel-interface-evidence]]
+- [[targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy]]
 - [[episodic-memory]]
 - [[working-memory]]
 - [[semantic-memory]]
