@@ -5,6 +5,16 @@ ai_modified: 2026-06-20T01:45:18+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T02:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/death-void]]
+- **Word count**: 2051 → 2051 (+0, length-neutral; 103% of 2000 soft, soft_warning, NOT condense)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-06-20-death-void]]
+- **Notes**: 6th-pass VERIFICATION MODE on a converged void (Tenet 4 No-Many-Worlds/indexical + Tenet 5 Occam's-limits). Confirmed converged no-op: last_deep_review stamped to 2026-06-20, ai_modified LEFT at 2026-05-20 (no body edit), per converged-no-op discipline. Primary effort = §2.4 publisher-of-record web-verify of the four metadata-tuple citations (the wrong-vol/issue/page class that survives intra-corpus review): Bering 2002 J Cognition & Culture 2(4):263-308 (Brill DOI) — real-correct; Nagel 1970 "Death" Noûs 4(1):73-80 — real-correct; Cave 2012 Immortality (Crown), Mortality-Paradox quote — real-correct; Heidegger 1927 Being and Time §50 "possibility of the impossibility of any existence at all" (M&R rendering) — real-correct. Primary-source classics (Epicurus, Lucretius, Wittgenstein Tractatus 6.4311, Freud 1915, Becker 1973) stable, no tuple risk. ZERO wrong-metadata/fabricated/superseded. No superlative claims (currency sweep empty). KEY evidential-tier finding: article makes NO NDE/terminal-lucidity evidence claims of its own — empirical phenomenology of dying correctly delegated to [[death-and-consciousness]], so no contested-evidence tier to mishandle; this division is itself a calibration safeguard. No possibility/probability slippage (Dualism="suggests/supports", never "establishes"); no tier-escalation language. Tenet 4 (routed via Lucretian asymmetry + [[haecceity]] indexical identity, MWI marked Mode Three boundary) and Tenet 5 (parsimony-fails-because-structural) both ARGUED, not asserted. No editor-vocabulary leakage; no banned "not X but Y" construct (both grep-confirmed). Orphan check passes decisively (inbound from apex/taxonomy-of-voids, concepts/presence-type-and-absence-type-voids, topics/death-and-consciousness). All wikilink targets + 4 tenet anchors resolve. Engagement modes: MWI=Mode Three, Buddhist no-self=Mode Three. Converged stamp now earned via publisher-of-record ledger, not inherited.
+
 ## 2026-06-20T02:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/language-and-consciousness]]

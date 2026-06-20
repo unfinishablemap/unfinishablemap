@@ -6,7 +6,7 @@ modified: 2026-02-25
 human_modified: null
 ai_modified: 2026-05-20T00:00:00+00:00
 draft: false
-last_deep_review: 2026-05-20T00:00:00+00:00
+last_deep_review: 2026-06-20T00:00:00+00:00
 topics:
   - "[[death-and-consciousness]]"
   - "[[personal-identity]]"
