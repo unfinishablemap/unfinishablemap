@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-06-20 17:32:54+00:00
+ai_modified: 2026-06-20 18:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -29,6 +29,7 @@ related_articles:
 - '[[imagery-void]]'
 - '[[phantom-limb-phenomena]]'
 - '[[dual-domain-capabilities-proprioception-spatial-imagination-2026-03-09]]'
+- '[[interoceptive-consciousness-and-the-interface]]'
 title: Dual-Domain Capabilities in Proprioception and Spatial Imagination
 topics:
 - '[[hard-problem-of-consciousness]]'

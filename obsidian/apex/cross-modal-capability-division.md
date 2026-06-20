@@ -4,7 +4,7 @@ description: "Across vision, hearing, smell, and touch the brain-side machinery 
 created: 2026-06-20
 modified: 2026-06-20
 human_modified:
-ai_modified: 2026-06-20T17:06:53+00:00
+ai_modified: 2026-06-20T18:35:00+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -20,6 +20,7 @@ related_articles:
   - "[[chemosensory-consciousness-and-the-interface]]"
   - "[[tactile-consciousness-and-the-interface]]"
   - "[[dual-domain-capabilities-in-proprioception-and-spatial-imagination]]"
+  - "[[interoceptive-consciousness-and-the-interface]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-8
@@ -78,7 +79,7 @@ Where the Map claims the workspace under-describes the phenomena is the *ownersh
 
 The disanalogies carry at least as much weight as the convergence, and a synthesis that buried them would be a triumphalist re-survey. Three of them constrain the recurrence claim directly.
 
-**Ownership is uneven across the senses.** The mind-side term the Map foregrounds—experience owned by a subject—is vivid in touch and proprioception and comparatively thin in smell. Touch stages the owner explicitly: the touching hand is also a touched object, and the rubber-hand illusion shows the felt body boundary to be a movable construction. Proprioception's whole dual-domain structure turns on the felt body image that Christina lost while retaining motor function. Smell, by contrast, presents quality and affect with little sense of an owned perceptual *object* at all; there is a live reading on which olfactory states are closer to affective or interoceptive states than to detached representations. So "ownership is the mind-side contribution" does not recur uniformly—it is strong where the body is in the loop and faint where it is not. The recurrence is of a *family* of mind-side contributions whose members are differently weighted by modality, not of one contribution present in equal measure everywhere.
+**Ownership is uneven across the senses.** The mind-side term the Map foregrounds—experience owned by a subject—is vivid in touch and proprioception and comparatively thin in smell. Touch stages the owner explicitly: the touching hand is also a touched object, and the rubber-hand illusion shows the felt body boundary to be a movable construction. Proprioception's whole dual-domain structure turns on the felt body image that Christina lost while retaining motor function. Smell, by contrast, presents quality and affect with little sense of an owned perceptual *object* at all; there is a live reading on which olfactory states are closer to affective or interoceptive states than to detached representations. So "ownership is the mind-side contribution" does not recur uniformly—it is strong where the body is in the loop and faint where it is not. Turning the survey fully inward bears this out: [[interoceptive-consciousness-and-the-interface|interoception]] is the limiting case at the vivid end, where the mind-side term stops being detached representation and becomes affect and selfhood outright—and where, against this synthesis's headline, the *brain* side converges onto a shared insular integrator rather than staying modality-specific. The cross-modal asymmetry surveyed here is, on that inward evidence, an exteroceptive regularity rather than a universal one. The recurrence is of a *family* of mind-side contributions whose members are differently weighted by modality, not of one contribution present in equal measure everywhere.
 
 **Binding and awareness are doubly dissociable.** The Map reads experienced unity—of a heard stream, a felt object, a flavour—as the mind-side contribution across modalities. But integration and awareness come apart in both directions: some cross-modal integration occurs without awareness, and awareness can occur without integration (Deroy, Chen & Spence, 2014). Multisensory integration is therefore not a reliable marker of consciousness, and the dependence that does hold is task-specific—awareness of a cue is necessary for *some* multisensory bindings to influence behaviour, not all. The honest form of the Map's claim is narrow: *phenomenal* unity tracks awareness, not that all binding requires it. Stated more strongly, the claim over-reaches exactly where the literature is most equivocal.
 

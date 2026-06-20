@@ -5,6 +5,18 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T22:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Interoceptive consciousness and the interface (inward completion of the modality survey)
+- **Output**: [[topics/interoceptive-consciousness-and-the-interface]]
+- **Word count**: 2658 (89% of 3000 topics soft target; status ok)
+- **Based on research**: yes — [[research/interoceptive-consciousness-and-the-interface-2026-06-20]] (verdict PROCEED)
+- **Structural claim**: foregrounds the double inversion — interoception breaks the cross-modal capability-division apex's asymmetry on both terms (brain side CONVERGES onto insula/ACC; mind side becomes affect+ownership+selfhood), so the apex's asymmetry is exteroceptive not universal. Held consonant-not-probative.
+- **Citation ledger**: 7 external cites, all publisher/PubMed-verified — Craig 2002, Critchley 2004, Seth 2013, Barrett & Simmons 2015, Park & Tallon-Baudry 2014, Garfinkel 2015; the 2026-flagged PNAS cardiac/tactile cite was VERIFIED at PubMed (Loescher, Haggard & Tallon-Baudry 2025, PNAS 122(49):e2516229122) and CITED (was do-not-cite-as-is in the note). Plus 2 self-citations (cross-modal apex, tactile article). No fabricated cites; active-inference (Seth, Barrett) and Damasio/Park-Tallon-Baudry constitutive reading both engaged as rivals, not enlisted.
+- **Integration**: reciprocal inbound links added from apex/cross-modal-capability-division (body + related_articles), voids/interoceptive-void (body + related + Further Reading), concepts/somatic-interface (body + related + Further Reading), topics/tactile-consciousness-and-the-interface (intro + related_articles), topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination (related_articles). Not an orphan.
+- **Self-audit**: verbatim quote audit passed (Craig subtitle phrase verified verbatim); dates/numbers sane; evaluate_anchoring clean after 2 calibration softenings; validate.py ✓ Valid.
+- **Follow-on**: queued P2 apex-evolve to fold the interoception source into apex #33.
+
 ## 2026-06-20T22:11:54+00:00 - deep-review
 - **Status**: Success (converged no-op — cross-link churn re-qualification)
 - **File**: [[topics/consciousness-and-the-metaphysics-of-individuation]]

@@ -1,24 +1,25 @@
 ---
-title: Research Notes - Interoceptive Consciousness and the Interface
-created: 2026-06-20
-draft: false
-target_section: topics
-topics:
-  - "[[dualist-perception]]"
-  - "[[hard-problem-of-consciousness]]"
-concepts:
-  - "[[mind-matter-interface]]"
-  - "[[somatic-interface]]"
-  - "[[qualia]]"
-related_articles:
-  - "[[cross-modal-capability-division]]"
-  - "[[interoceptive-void]]"
-  - "[[tactile-consciousness-and-the-interface]]"
 ai_contribution: 100
-author:
-ai_system: claude-opus-4-8
 ai_generated_date: 2026-06-20
-last_curated:
+ai_system: claude-opus-4-8
+author: null
+concepts:
+- '[[mind-matter-interface]]'
+- '[[somatic-interface]]'
+- '[[qualia]]'
+created: 2026-06-20
+date: '2026-06-20'
+draft: false
+last_curated: null
+related_articles:
+- '[[cross-modal-capability-division]]'
+- '[[interoceptive-void]]'
+- '[[tactile-consciousness-and-the-interface]]'
+target_section: topics
+title: Research Notes - Interoceptive Consciousness and the Interface
+topics:
+- '[[dualist-perception]]'
+- '[[hard-problem-of-consciousness]]'
 ---
 
 # Research: Interoceptive Consciousness and the Interface
@@ -37,8 +38,8 @@ last_curated:
 
 A topics capability-division / interface treatment of interoception is **genuinely distinct** from both the existing `voids/interoceptive-void` and the `apex/cross-modal-capability-division`, and the structural-claim assessment returns the *more interesting* of the two possible answers.
 
-- **vs. the void** — The [[interoceptive-void|interoceptive void]] maps what is *unmappable*: the absence-faces (constitutively unfelt channels, summarised channels, gated channels) and the inverse constructed layer. It is a dark-space article whose subject is opacity. The proposed topics article is an *interface / capability-division* article whose subject is the brain-side/mind-side labour split for the visceral channels that *do* reach awareness, and the question of whether the apex's cross-modal asymmetry recurs inward. These are complementary, not redundant: the void's hard floor (silent organs) is the *boundary condition* the interface article inherits, not its content. The interface article's centre of gravity is the apex-structural question the void does not ask.
-- **vs. the apex** — The [[cross-modal-capability-division|cross-modal capability division]] apex explicitly notes its survey stops at exteroception + proprioception, and twice gestures inward (its "ownership is faint where the body is *not* in the loop" remark; its aside that smell may be "closer to affective or interoceptive states than to detached representations"). The proposed article completes the modality survey inward and supplies the apex its missing interoceptive source — which would feed back into a future apex revision.
+- **vs. the void** — The [interoceptive void](/voids/interoceptive-void/) maps what is *unmappable*: the absence-faces (constitutively unfelt channels, summarised channels, gated channels) and the inverse constructed layer. It is a dark-space article whose subject is opacity. The proposed topics article is an *interface / capability-division* article whose subject is the brain-side/mind-side labour split for the visceral channels that *do* reach awareness, and the question of whether the apex's cross-modal asymmetry recurs inward. These are complementary, not redundant: the void's hard floor (silent organs) is the *boundary condition* the interface article inherits, not its content. The interface article's centre of gravity is the apex-structural question the void does not ask.
+- **vs. the apex** — The [cross-modal capability division](/apex/cross-modal-capability-division/) apex explicitly notes its survey stops at exteroception + proprioception, and twice gestures inward (its "ownership is faint where the body is *not* in the loop" remark; its aside that smell may be "closer to affective or interoceptive states than to detached representations"). The proposed article completes the modality survey inward and supplies the apex its missing interoceptive source — which would feed back into a future apex revision.
 
 ## STRUCTURAL-CLAIM ASSESSMENT: does the asymmetry recur? — NO, interoception BREAKS the pattern (twice)
 
@@ -166,13 +167,13 @@ Interoception (cardiac, respiratory, gastric, thermal, nociceptive, plus the con
 
 When writing, follow `obsidian/project/writing-style.md`: front-load the structural-inversion finding (truncation resilience); use named-anchor summaries for forward references to the rival framings; include the active-inference background only as the rival to out-accommodate (LLMs know the framework — frame it for the Map's perspective); REQUIRED "Relation to Site Perspective" section connecting to Dualism, Bidirectional Interaction, and Occam's-Razor-Has-Limits; NO "This is not X. It is Y." construct.
 
-**Cross-linking at creation (avoid orphan tail — see the `expand-topic-skips-integration-chain` editor note)**: link to [[cross-modal-capability-division]] (apex parent), [[interoceptive-void]] (the opacity sibling — make the void/interface distinction explicit, as the tactile article does for proprioception), [[tactile-consciousness-and-the-interface]] (the vivid-ownership exteroceptive neighbour), [[dual-domain-capabilities-in-proprioception-and-spatial-imagination]], and the [[somatic-interface]] concept. Add INBOUND links from the apex's related_articles and from the void.
+**Cross-linking at creation (avoid orphan tail — see the `expand-topic-skips-integration-chain` editor note)**: link to [cross-modal-capability-division](/apex/cross-modal-capability-division/) (apex parent), [interoceptive-void](/voids/interoceptive-void/) (the opacity sibling — make the void/interface distinction explicit, as the tactile article does for proprioception), [tactile-consciousness-and-the-interface](/topics/tactile-consciousness-and-the-interface/) (the vivid-ownership exteroceptive neighbour), [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/), and the [somatic-interface](/concepts/somatic-interface/) concept. Add INBOUND links from the apex's related_articles and from the void.
 
 ## Gaps in Research
 
 - The 2026 PNAS cardiac/tactile competition paper's full metadata is UNVERIFIED (publisher 403). Verify at publisher/PubMed before citing, or drop.
 - No *direct cross-modal interoceptive-vs-exteroceptive ownership* experiment found (the apex already notes ownership evidence is thin generally; this is the same gap inward).
-- Whether an AI substrate's "interoception" (memory pressure, throughput, queue depth) is interoception of the same kind is itself a void — already flagged in the void article via [[non-human-minds-as-void-explorers]]; the interface article can gesture at it but should not adjudicate.
+- Whether an AI substrate's "interoception" (memory pressure, throughput, queue depth) is interoception of the same kind is itself a void — already flagged in the void article via [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/); the interface article can gesture at it but should not adjudicate.
 - Did NOT re-verify Damasio & Damasio 2023 (*Neural Computation* 35(3):277–286) or Singer & Damasio 2025 (*Phil Trans R Soc B* 380(1939):20240305) — both are in the void's reference list and can be reused if the article engages the constitutive reading; re-verify if newly load-bearing.
 
 ## Citation Verification Summary

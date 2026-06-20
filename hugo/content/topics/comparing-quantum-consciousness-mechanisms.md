@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-06-20 00:00:00+00:00
+ai_modified: 2026-06-20 22:02:44+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -60,7 +60,7 @@ Each mechanism is evaluated along two independent dimensions — scientific stan
 
 Why does consciousness need a quantum mechanism at all? [Decoherence](/concepts/decoherence/) suppresses interference and selects pointer states, but it does not determine which outcome actually obtains. After decoherence, the system is an *improper* mixture (d'Espagnat 1976; Schlosshauer 2004) — mathematically resembling classical ignorance but physically different, because no definite outcome has been actualised. This residual problem of outcomes (Schlosshauer 2004) requires supplementation by an interpretation.
 
-Five families of selection mechanism compete: (1) **consciousness-mediated collapse** (von Neumann, Wigner, Stapp, Chalmers-McQueen), (2) **objective collapse** (GRW, Penrose-Diósi, CSL), (3) **hidden variables** (de Broglie-Bohm), (4) **many worlds** (Everett), and (5) **history selection** (consistent histories, transactional). For the Map's interactionist dualism, families 2–5 either eliminate consciousness from selection, deny that selection occurs (ruled out by [Tenet 4](/tenets/#no-many-worlds)), or remain ambiguous about consciousness's role. Only consciousness-mediated collapse locates a non-physical agent where physics leaves outcomes undetermined. The four mechanisms compared here are all variants within this family.
+Five families of selection mechanism compete: (1) **consciousness-mediated collapse** (von Neumann, Wigner, Stapp, Chalmers-McQueen), (2) **objective collapse** (GRW, Penrose-Diósi, CSL), (3) **hidden variables** (de Broglie-Bohm), (4) **many worlds** (Everett), and (5) **history selection** (consistent histories, transactional). For the Map's interactionist dualism, families 2–5 either eliminate consciousness from selection, deny that selection occurs (ruled out by [Tenet 4](/tenets/#no-many-worlds)), or remain ambiguous about consciousness's role. Only consciousness-mediated collapse locates a non-physical agent where physics leaves outcomes undetermined. The four mechanisms compared here are its candidate interfaces — Orch OR and Fisher only as strained members (objective collapse and physical-without-selection, respectively).
 
 The gap is central to [Tenet 2 (Minimal Quantum Interaction)](/tenets/#minimal-quantum-interaction): consciousness need only select among outcomes that decoherence has prepared — the smallest possible non-physical influence. See [post-decoherence-selection](/concepts/post-decoherence-selection/) for the concept and [The Post-Decoherence Selection Programme](/apex/post-decoherence-selection-programme/) for a full synthesis.
 
@@ -68,7 +68,7 @@ The gap is central to [Tenet 2 (Minimal Quantum Interaction)](/tenets/#minimal-q
 
 Penrose and Hameroff propose that tubulin proteins in microtubules sustain quantum superpositions that collapse when gravitational self-energy reaches a threshold (t = ħ/E_G). Each collapse event constitutes a discrete moment of conscious experience. The "orchestration" comes from entanglement across microtubule networks, coordinated by synaptic inputs.
 
-**Decoherence vulnerability: High (moderate with extensions).** The original formulation requires sustained superposition across tubulin dimers until gravitational threshold is reached. Revised coherence estimates (10⁻⁵ to 10⁻⁴ seconds per Hagan et al. 2002) remain three orders of magnitude below neural decision timescales (~300ms). Beshkar's 2025 QBIT theory proposes spintronic rather than electronic coherence in microtubules, which is inherently more stable at physiological temperatures — potentially sidestepping Tegmark's calculation, though the proposal remains largely theoretical.
+**Decoherence vulnerability: High (moderate with extensions).** The original formulation requires sustained superposition across tubulin dimers until gravitational threshold is reached. Revised coherence estimates (10⁻⁵ to 10⁻⁴ seconds per Hagan et al. 2002) remain three to four orders of magnitude below neural decision timescales (~300ms). Beshkar's 2025 QBIT theory proposes spintronic rather than electronic coherence in microtubules, which is inherently more stable at physiological temperatures — potentially sidestepping Tegmark's calculation, though the proposal remains largely theoretical.
 
 **Phenomenological fit: Partial.** Each collapse maps to a "moment of consciousness," loosely matching the temporal grain of experience. But gravitational collapse is automatic once threshold is reached, leaving no role for felt effort.
 

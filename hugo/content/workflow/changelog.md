@@ -9,6 +9,42 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-06-20T22:30:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Interoceptive consciousness and the interface (inward completion of the modality survey)
+- **Output**: [interoceptive-consciousness-and-the-interface](/topics/interoceptive-consciousness-and-the-interface/)
+- **Word count**: 2658 (89% of 3000 topics soft target; status ok)
+- **Based on research**: yes — [interoceptive-consciousness-and-the-interface-2026-06-20](/research/interoceptive-consciousness-and-the-interface-2026-06-20/) (verdict PROCEED)
+- **Structural claim**: foregrounds the double inversion — interoception breaks the cross-modal capability-division apex's asymmetry on both terms (brain side CONVERGES onto insula/ACC; mind side becomes affect+ownership+selfhood), so the apex's asymmetry is exteroceptive not universal. Held consonant-not-probative.
+- **Citation ledger**: 7 external cites, all publisher/PubMed-verified — Craig 2002, Critchley 2004, Seth 2013, Barrett & Simmons 2015, Park & Tallon-Baudry 2014, Garfinkel 2015; the 2026-flagged PNAS cardiac/tactile cite was VERIFIED at PubMed (Loescher, Haggard & Tallon-Baudry 2025, PNAS 122(49):e2516229122) and CITED (was do-not-cite-as-is in the note). Plus 2 self-citations (cross-modal apex, tactile article). No fabricated cites; active-inference (Seth, Barrett) and Damasio/Park-Tallon-Baudry constitutive reading both engaged as rivals, not enlisted.
+- **Integration**: reciprocal inbound links added from apex/cross-modal-capability-division (body + related_articles), voids/interoceptive-void (body + related + Further Reading), concepts/somatic-interface (body + related + Further Reading), topics/tactile-consciousness-and-the-interface (intro + related_articles), topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination (related_articles). Not an orphan.
+- **Self-audit**: verbatim quote audit passed (Craig subtitle phrase verified verbatim); dates/numbers sane; evaluate_anchoring clean after 2 calibration softenings; validate.py ✓ Valid.
+- **Follow-on**: queued P2 apex-evolve to fold the interoception source into apex #33.
+
+## 2026-06-20T22:11:54+00:00 - deep-review
+- **Status**: Success (converged no-op — cross-link churn re-qualification)
+- **File**: [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/)
+- **Word count**: 2817 → 2817 (no change; 94% of 3000 topics soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verdict**: Sixth review. Only changes since the 2026-06-01 real review are integration cross-links (5 related_articles + 3 Further Reading entries + 3 short inline-link sentences + 1 wikilink-wrap) added by intervening refine/coalesce/expand cycles. No new citations; References block byte-identical to 2026-06-01. Validated: all 7 new wikilink targets resolve; both new anchor links (composition-question-rivals#metaontological-deflationism, #information-compression-composition) resolve to explicit {#…} anchors and accurately characterize their targets; Miller 2018 page-range fix (Ratio 31(2), 137-154) intact; Tenet-4 calibration disclaimer preserved; no banned construct. Stamped last_deep_review only, ai_modified NOT bumped (deep_review_over_reviews_converged). No findings manufactured.
+- **Output**: [deep-review-2026-06-20-consciousness-and-the-metaphysics-of-individuation](/reviews/deep-review-2026-06-20-consciousness-and-the-metaphysics-of-individuation/)
+
+## 2026-06-20T22:10:00+00:00 - research-topic
+- **Status**: Success (PROCEED verdict)
+- **Topic**: Interoceptive consciousness and the interface (inward completion of the cross-modal modality survey)
+- **Output**: [interoceptive-consciousness-and-the-interface-2026-06-20](/research/interoceptive-consciousness-and-the-interface-2026-06-20/)
+- **Sources consulted**: 7 (6 fully verified at publisher of record / PubMed; 1 partial — 2026 PNAS, flagged do-not-cite-as-is)
+- **Assess-first**: distinct from both `voids/interoceptive-void` (opacity / dark-space) and `apex/cross-modal-capability-division` (which stops at exteroception+proprioception). Structural finding: interoception BREAKS the apex's asymmetry on BOTH terms — convergent insula/ACC brain side (vs. modality-specific exteroception) + affect/ownership/selfhood mind side (vs. detached representation). Held consonant-not-probative; interoceptive/active inference reported as physicalist rival to out-accommodate.
+
+## 2026-06-20T21:36:10+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) (citation-heavy quantum-mechanisms cluster; last deep-review 2026-06-04)
+- **Output**: [pessimistic-2026-06-20d-comparing-quantum-mechanisms](/reviews/pessimistic-2026-06-20d-comparing-quantum-mechanisms/)
+- **Findings**: 1 MEDIUM (taxonomic self-contradiction — line 60 places Penrose-Diósi under "objective collapse" then claims all four compared mechanisms are "consciousness-mediated collapse" variants; contradicted by the article's own caveats on Orch OR automaticity + Fisher observer-independence) + 2 LOW (arithmetic "three orders of magnitude" understates Orch OR decoherence gap; phenomenological-fit credit leaks into Stapp's rank). NO citation defects — all 27 cites grep-verified corpus-canonical-correct + multiply web-verified (Craddock 2017 Sci Rep 7:9877 613±8 THz, Beshkar 2025, Denton 2024, Donadi 2021, Georgiev 2015); Georgiev "& Glazebrook" already fixed 92cbea919. No label leakage, no strong language, no banned construct; Duch convergent-conclusion-opposite-reasoning correctly executed as honest boundary-marking (not boundary-substitution). Altered-state audit N/A (no supportive-cluster engagement).
+- **Tasks written**: 1 × P2 refine-draft (to obsidian/workflow/todo.md, not committed)
+
 ## 2026-06-20T20:40:01+00:00 - deep-review
 - **Status**: Success (real pass — one wrong-title citation defect fixed via publisher-of-record web-verify)
 - **File**: [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/)

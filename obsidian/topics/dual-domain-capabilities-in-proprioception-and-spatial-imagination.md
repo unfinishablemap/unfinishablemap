@@ -4,7 +4,7 @@ description: "Proprioception and spatial imagination each require contributions 
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-06-20T17:32:54+00:00
+ai_modified: 2026-06-20T18:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,7 @@ related_articles:
   - "[[imagery-void]]"
   - "[[phantom-limb-phenomena]]"
   - "[[dual-domain-capabilities-proprioception-spatial-imagination-2026-03-09]]"
+  - "[[interoceptive-consciousness-and-the-interface]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

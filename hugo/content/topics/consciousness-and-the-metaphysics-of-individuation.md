@@ -20,7 +20,7 @@ description: Why does consciousness come in discrete subjects? The individuation
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-06-01 16:47:13+00:00
+last_deep_review: 2026-06-20 22:11:54+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

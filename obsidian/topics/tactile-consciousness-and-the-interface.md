@@ -4,7 +4,7 @@ description: "Touch supplies what the distance senses cannot: perception that re
 created: 2026-06-16
 modified: 2026-06-16
 human_modified:
-ai_modified: 2026-06-20T17:06:53+00:00
+ai_modified: 2026-06-20T18:35:00+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -20,6 +20,7 @@ related_articles:
   - "[[dualist-perception]]"
   - "[[auditory-consciousness-and-the-interface]]"
   - "[[chemosensory-consciousness-and-the-interface]]"
+  - "[[interoceptive-consciousness-and-the-interface]]"
   - "[[sensorimotor-contingencies-and-the-interface]]"
   - "[[consciousness-and-the-ownership-problem]]"
   - "[[pain-consciousness-and-causal-power]]"
@@ -32,7 +33,7 @@ last_curated:
 last_deep_review: 2026-06-20T14:20:30+00:00
 ---
 
-Philosophy of perception is overwhelmingly a philosophy of vision, and where it ventures beyond sight it has gone next to hearing and, more recently, to the chemical senses. Touch is the modality the [[dualist-perception|Map's treatment of perception]] names but does not develop—it concedes that perception extends across many modalities, touch among them, without working any of them out. This article is the tactile companion to [[auditory-consciousness-and-the-interface|the auditory case]] and [[chemosensory-consciousness-and-the-interface|the chemosensory case]], the fourth in the exteroceptive perception-modality series (vision → audition → chemosensation → touch), alongside the separately-developed proprioceptive treatment ([[dual-domain-capabilities-in-proprioception-and-spatial-imagination|proprioception and the body schema]]); the vestibular, thermal, and interoceptive modalities remain without an interface treatment. Touch supplies four kinds of evidence the distance senses cannot: perception that constitutively requires *movement* (active haptics has no passive equivalent that delivers the same content), a perceiver who is simultaneously *perceived* (the touching hand is also a touched object), affect that is woven into the contact itself rather than appended downstream (the affective channel of cutaneous touch; pain), and a felt body whose *boundary can be moved* (the rubber-hand illusion). None of this, on the reading offered here, *settles* dualism over physicalism, which has a credible account of each. What touch does is press the [[explanatory-gap|explanatory gap]] in registers the distance senses leave untouched.
+Philosophy of perception is overwhelmingly a philosophy of vision, and where it ventures beyond sight it has gone next to hearing and, more recently, to the chemical senses. Touch is the modality the [[dualist-perception|Map's treatment of perception]] names but does not develop—it concedes that perception extends across many modalities, touch among them, without working any of them out. This article is the tactile companion to [[auditory-consciousness-and-the-interface|the auditory case]] and [[chemosensory-consciousness-and-the-interface|the chemosensory case]], the fourth in the exteroceptive perception-modality series (vision → audition → chemosensation → touch), alongside the separately-developed proprioceptive treatment ([[dual-domain-capabilities-in-proprioception-and-spatial-imagination|proprioception and the body schema]]) and the inward [[interoceptive-consciousness-and-the-interface|interoceptive treatment]] (which inverts the cross-modal pattern this series establishes); the vestibular and thermal modalities remain without an interface treatment. Touch supplies four kinds of evidence the distance senses cannot: perception that constitutively requires *movement* (active haptics has no passive equivalent that delivers the same content), a perceiver who is simultaneously *perceived* (the touching hand is also a touched object), affect that is woven into the contact itself rather than appended downstream (the affective channel of cutaneous touch; pain), and a felt body whose *boundary can be moved* (the rubber-hand illusion). None of this, on the reading offered here, *settles* dualism over physicalism, which has a credible account of each. What touch does is press the [[explanatory-gap|explanatory gap]] in registers the distance senses leave untouched.
 
 This piece is about cutaneous and active touch *as a perceptual modality and interface case*. It is distinct from two existing treatments it builds on rather than repeats. [[dual-domain-capabilities-in-proprioception-and-spatial-imagination|Proprioception and the body schema]] are developed elsewhere as a dual-domain capability (body schema versus body image, phantom limbs); the genuinely uncovered material here is *cutaneous* touch, active haptics, the touching-touched structure, the affective channel, and the malleability of bodily ownership. The metaphysics of *why* experience is owned at all belongs to [[consciousness-and-the-ownership-problem|the ownership problem]]; the present article addresses the narrower, perceptual fact that the *felt boundary* of the owned body is constructed and movable.
 

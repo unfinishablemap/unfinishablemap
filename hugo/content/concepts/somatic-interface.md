@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-06-20 01:15:27+00:00
+ai_modified: 2026-06-20 18:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,6 +28,7 @@ related_articles:
 - '[[consciousness-only-territories]]'
 - '[[voids-embodiment-cognitive-limits-2026-01-28]]'
 - '[[interoceptive-void]]'
+- '[[interoceptive-consciousness-and-the-interface]]'
 - '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[mechanism-costs-dualism-thickness-quadrants]]'
 title: The Somatic Interface
@@ -60,7 +61,7 @@ A sharp empirical partition lies inside the "interoception" label itself. A 2025
 
 This partition is an illustrative case for the interface reading. The somatic interface is not a uniformly thin wall through which all bodily fact passes; it is a structurally specifiable membrane with channels at different opacities. The spectrum runs from dimly-perceptible (cardiac timing accessible at coarse grain in healthy adults; gastric distension; respiratory effort; thermal state) through gated (visceral signals that shape brain dynamics and decision-making while remaining sub-threshold) to constitutively-unfelt (renal filtration, hepatic metabolism, blood pH — channels for which no contemplative training or pathology surfaces the signal). Materialist anatomy accounts for this partition through ascending-pathway architecture; the interface reading describes the same spectrum as the channel structure consciousness inhabits. Both frameworks predict the same cleavage. Renal filtration is at least as critical to survival as heartbeat; only one is felt.
 
-The partition also sharpens claims made elsewhere on this page. When the interface is described as "structured" or "modular," the interoceptive sub-bundle is the densest case: dissociable accuracy, sensibility, and metacognitive awareness (Garfinkel et al. 2015); blind-population enhancement of cardiac accuracy correlated with thicker occipital cortex; pathologies (anxiety, depersonalisation, alexithymia, anorexia) that distort the felt body without changing the body itself. Each is a different cleavage line in a system the unitary label "interoception" treats as monolithic. The [interoceptive void](/voids/interoceptive-void/) develops this case in full: the body is the most intimate physical object consciousness has, and most of it is structurally opaque to the consciousness that occupies it. That opacity is the *shape* of the somatic interface, mapped from the inside by what cannot be reached.
+The partition also sharpens claims made elsewhere on this page. When the interface is described as "structured" or "modular," the interoceptive sub-bundle is the densest case: dissociable accuracy, sensibility, and metacognitive awareness (Garfinkel et al. 2015); blind-population enhancement of cardiac accuracy correlated with thicker occipital cortex; pathologies (anxiety, depersonalisation, alexithymia, anorexia) that distort the felt body without changing the body itself. Each is a different cleavage line in a system the unitary label "interoception" treats as monolithic. The [interoceptive void](/voids/interoceptive-void/) develops this case in full on the *silent* side: the body is the most intimate physical object consciousness has, and most of it is structurally opaque to the consciousness that occupies it. That opacity is the *shape* of the somatic interface, mapped from the inside by what cannot be reached. On the *accessible* side, [the interoceptive interface treatment](/topics/interoceptive-consciousness-and-the-interface/) takes the channels that do cross threshold and shows that they invert the cross-modal capability-division pattern—the brain side converging onto the insula, the mind side becoming affect and selfhood—which is why interoception is the densest and most distinctive cell of the somatic interface rather than just one channel among several.
 
 ### Proprioception
 
@@ -130,6 +131,7 @@ The three properties together — layered, phenomenal-character-shaping, bidirec
 - [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) — Proprioception and spatial imagination as dual-domain capabilities extending the memory framework
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain's resistance to reduction and the inseparability of phenomenal character from causal power
 - [interoceptive-void](/voids/interoceptive-void/) — The structural opacity of the body's interior to the consciousness that occupies it
+- [interoceptive-consciousness-and-the-interface](/topics/interoceptive-consciousness-and-the-interface/) — How the accessible visceral channels divide brain-side from mind-side labour, and how interoception inverts the cross-modal capability-division asymmetry
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Three-layer decomposition of warranted trust in first-person reports, parallel in register to the channel structure here
 - [mechanism-costs-dualism-thickness-quadrants](/topics/mechanism-costs-dualism-thickness-quadrants/) — The Map's narrow-probabilistic-channel cell whose anatomy the somatic interface populates
 
