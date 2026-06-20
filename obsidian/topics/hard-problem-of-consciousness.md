@@ -4,7 +4,7 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-06-04T19:45:45+00:00
+ai_modified: 2026-06-20T11:29:28+00:00
 draft: false
 topics: []
 concepts:
@@ -78,7 +78,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-06
 last_curated:
-last_deep_review: 2026-05-31T10:58:26+00:00
+last_deep_review: 2026-06-20T11:29:28+00:00
 embedded_videos:
   - id: ErztbcJHm88
     url: https://www.youtube-nocookie.com/embed/ErztbcJHm88
@@ -284,7 +284,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 ### References
 - Block, N. (1978). "Troubles with Functionalism." *Minnesota Studies in the Philosophy of Science*, 9, 261-325.
 - Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-- Chalmers, D. & McQueen, K. (2022). "Consciousness and the Collapse of the Wave Function." In *Quantum Mechanics and Consciousness*. Oxford University Press.
+- Chalmers, D. & McQueen, K. (2022). "Consciousness and the Collapse of the Wave Function." In S. Gao (ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
 - Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354-361.
 - Loar, B. (1990/1997). "Phenomenal States." *Philosophical Perspectives*, 4, 81-108; revised in Block, Flanagan & Güzeldere (eds.), *The Nature of Consciousness*.

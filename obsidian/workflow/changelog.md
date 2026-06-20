@@ -5,6 +5,16 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T11:29:28+00:00 - deep-review
+- **Status**: Success (GENUINE-DRIFT verification of flagship Tenet-1 article; FIRST publisher-of-record citation pass; 1 critical wrong-book-title fixed, all 11 cites + 2 empirical claims web-verified)
+- **File**: [[topics/hard-problem-of-consciousness]]
+- **Word count**: 3393 → 3396 (+3; book-title correction, length-neutral; 113% of 3000 topics soft, well under 4000 hard)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Context**: Drift = commit f80a68af3 (2026-06-04 "Adopt NCC calibration") edited own body AFTER 05-31 last_deep_review (refine bumps ai_modified not last_deep_review). Verified that commit was an anchoring-audit calibration pass (added an underdetermination marker at the gap's PERMANENCE + neutralized one strong-assertion verb) — net-POSITIVE for calibration, NOT a regression; the NCC subsection itself was untouched. CRITICAL FIX: Chalmers & McQueen (2022) References entry had the book title INVERTED — "In *Quantum Mechanics and Consciousness*" → publisher-verified ***Consciousness and Quantum Mechanics*** (OUP, ed. Shan Gao); added editor attribution. Real wrong-metadata, invisible to all prior intra-corpus reviews because the corpus majority (31 instances) was correct and this file was the minority error. Family resolution: 3 other "Quantum Mechanics and Consciousness" matches confirmed FALSE POSITIVES (section headings / proposed-article titles, not the citation) — no corpus propagation needed. Publisher-of-record ledger, all real-correct: Block 1978 Minnesota Studies 9:261-325; Chalmers 1996 Conscious Mind OUP; Chalmers 1995 JCS 2:200-219; Frankish 2016 JCS 23(11-12):11-39; Levine 1983 Pacific Phil Q 64(4):354-361 DOI 10.1111/j.1468-0114.1983.tb00207.x; Loar 1990/1997 Phil Perspectives 4:81-108; McGinn 1989 Mind 98(391):349-366; Papineau 2002 Thinking about Consciousness OUP; Nagel 1974 Phil Review 83(4):435-450; Jackson 1982 Epiphenomenal Qualia. Empirical claims real-correct/current: V4 colour correlation (framed correlation-not-identity, metaphysically neutral); ~10 bits/s + 100M-fold bandwidth (Zheng&Meister 2025); C. elegans 302-neuron connectome (no currency drift, 0 superlatives flagged). NCC-CALIBRATION VERDICT: PASS — correlation-not-identity register throughout ("Progress Without Solution"), explicit metaphysical-neutrality marker, hard problem never SOLVED, dualism never ESTABLISHED (gap framed as Tenet-1 foundation under Duhem-Quine underdetermination, ontological leap marked as further step), no possibility/probability slippage. No banned construct, no editor-label leakage. Engagement modes (editor-internal): eliminativism Mode Two, illusionism Mode Two, PCS Mode Two/mixed, framework-dependence Mode Three; no boundary-substitution. Fourth consecutive convergence-confirmed review. Bumped both ai_modified + last_deep_review (real body fix).
+- **Output**: [[reviews/deep-review-2026-06-20-hard-problem-of-consciousness]]
+
 ## 2026-06-20T11:22:14+00:00 - deep-review
 - **Status**: Success (genuine post-06-07-calibration-drift review; 1 critical citation-orphan fixed, all 7 external cites web-verified real-correct at publisher of record)
 - **File**: [[topics/the-interface-problem]]
