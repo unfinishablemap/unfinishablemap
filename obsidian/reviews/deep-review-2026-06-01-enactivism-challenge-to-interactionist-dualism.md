@@ -45,7 +45,7 @@ Two citation-metadata defects, both confirmed against the live literature by Web
 - Varela/Thompson/Rosch (*The Embodied Mind* 1991) — accurate.
 - O'Regan & Noë (2001, sensorimotor) — accurate.
 - Hutto & Myin (*Radicalizing Enactivism* 2013, Hard Problem of Content) — accurate.
-- Schlicht & Starzak (2022, deflationary/revisionist tension) — accurate.
+- ~~Schlicht & Starzak (2022, deflationary/revisionist tension) — accurate.~~ **[Corrected 2026-06-20]** This ratified a wrong-author error: the paper "Putting down the revolt" (*Frontiers in Psychology* 13:948733) is by **Meyer & Brancazio**, not Schlicht & Starzak. Web-verified at the publisher of record (PMC9635051, DOI 10.3389/fpsyg.2022.948733). Fixed in the article + research note 2026-06-20. Do not re-trust the original "accurate" verdict for the author field.
 - Dewey (1896 "Reflex Arc"; 1925 *Experience and Nature*) — accurate.
 - Wu (2024) and De Jaegher & Di Paolo (2013) — corrected this pass (see Critical).
 

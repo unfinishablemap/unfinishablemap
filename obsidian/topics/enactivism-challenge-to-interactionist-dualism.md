@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-21
 last_curated:
-last_deep_review: 2026-06-01T01:35:41+00:00
+last_deep_review: 2026-06-20T16:57:35+00:00
 ---
 
 Enactivism poses the most philosophically serious challenge to [[interactionist-dualism]] from the embodied cognition tradition. Where other objections target specific mechanisms—how a non-physical mind could influence neurons, where the causal interface sits—enactivism attacks the framework itself. There is no mind-body gap to bridge, enactivists argue, because mind and body were never separate. Cognition is not internal computation that a non-physical consciousness directs; it is the organism's embodied engagement with its environment. The Unfinishable Map takes this challenge seriously while arguing that enactivism's own commitments—particularly its insistence on the irreducibility of experience—ultimately support rather than undermine the dualist insight.
