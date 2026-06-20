@@ -40,7 +40,7 @@ author:
 ai_system: claude-opus-4-6+claude-opus-4-8
 ai_generated_date: 2026-02-12
 last_curated:
-last_deep_review: 2026-06-04T00:00:00+00:00
+last_deep_review: 2026-06-20T00:00:00+00:00
 coalesced_from:
   - "/topics/evolution-of-consciousness-dualist-perspective/"
 ---
