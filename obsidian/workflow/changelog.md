@@ -5,6 +5,13 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T12:30:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/free-will]] ("Free Will and Determinism", 3,395w, Tenet-load-bearing, never previously the focus of a dedicated pessimistic pass — only incidental cross-mentions). All 9 citations + the James quote grep-verified present and metadata-consistent with their source articles; the Sjöberg SMA and Desmurget double-dissociation claims match `libet-experiments`/`motor-selection` faithfully.
+- **Findings**: 1 medium calibration-drift (line 150 imports the Konkoly 2026 dream-incorporation result without the source article's N=20/lucid-dreamer/p=.057/unreplicated caveats — internally-sourced calibration silently lost on import), 1 medium logic gap (line 105 "four *independent* tricks" asserts the independence the multiplication needs; a unified demand-tracking confabulation predicts the same facets — the dissociation data is the stronger move), 1 low soft-unfalsifiability note (2 of 4 stated falsifiers; fold-in optional). Altered-state symmetry N/A (gate not triggered); no boundary-substitution / label-leakage / equivocation / fabrication. Framework-commitment moves (substance-lean, No-MWI indexical argument, mechanism-agnosticism) confirmed by-design and preserved.
+- **Tasks written**: 1 P2 refine-draft (consolidates the two medium prose fixes; length-neutral; inserted top-of-Active to defeat LIFO).
+- **Output**: [[reviews/pessimistic-2026-06-20b-free-will]]
+
 ## 2026-06-20T11:40:59+00:00 - deep-review
 - **Status**: Success (GENUINE-DRIFT verification of quantum-biology article; all 7 external cites web-verified at publisher of record; 1 dropped-co-author corpus-split + 1 inline-orphan fixed)
 - **File**: [[topics/evolutionary-case-for-quantum-neural-effects]]
