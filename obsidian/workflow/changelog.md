@@ -5,6 +5,20 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T07:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/selective-correction-and-reconstruction-paradox]]
+- **Context**: CONVERGED-STALENESS verification (review #5; reviews 1–4 found zero critical issues). No drift, `ai_contribution`=100, 2814w soft_warning (NOT condense). Mandate: §2.4 publisher-of-record web-verify the prior intra-corpus reviews skipped (2026-05-21 review asserted "cited correctly" with no ledger).
+- **Word count**: 2814 → 2814 (no body change)
+- **Critical issues addressed**: 0 (clean confirming verdict)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Citation web-verify ledger** (all 12, publisher of record — ALL real-correct): Blake&Logothetis 2002 (Nat Rev Neurosci 3:13–21, nrn701), Carter et al. 2005 (Curr Biol 15(11):R412–R413, PMID 15936259; "et al." faithful to 6-author list), Clark 2013 (BBS 36(3):181–204), Clark 2023 (The Experience Machine, Penguin), Fodor 1983 (Modularity of Mind, MIT), Friston 2005 (Phil Trans R Soc B 360(1456):815–836), Ibbotson&Krekelberg 2011 (Curr Opin Neurobiol 21(4):553–558, PMID 21646014), Laing&Chow 2002 (J Comput Neurosci 12(1):39–53), Leopold&Logothetis 1999 (TICS 3(7):254–264), Pylyshyn 1984 (Computation and Cognition, MIT), Pylyshyn 1999 (BBS 22(3):341–365), Ramachandran 1992 (Sci Am 266(5):86–91). Inline↔References complete both directions, no orphans; corpus metadata grep shows no divergence. Unlike 9 of ~12 converged articles this session, this one carried NO citation/quote defects — prior intra-corpus verdicts confirmed by live publisher check.
+- **Currency**: no superlative claims (helper empty); spot-checked saccadic 100ms-pre / 40-min-per-day figures and Carter "indefinitely" — all faithful and hedged.
+- **Calibration**: no possibility/probability slippage; quantum link flagged "speculative…unestablished…but suggestive" — passes diagnostic test. No editor-vocab leakage; no banned "not X but Y"; tenet framing argued not asserted.
+- **Frontmatter**: `last_deep_review` stamped 2026-06-20; `ai_modified` NOT bumped (converged no-op).
+- **Output**: [[reviews/deep-review-2026-06-20-selective-correction-and-reconstruction-paradox]]
+
 ## 2026-06-20T06:47:26+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/psychophysical-laws]]
