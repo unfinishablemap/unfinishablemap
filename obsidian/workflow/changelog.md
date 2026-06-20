@@ -5,6 +5,20 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T11:05:00+00:00 - deep-review
+- **Status**: Success (genuine-drift verification; converged no-op — calibration verified correct, all citations clean)
+- **File**: [[topics/consciousness-and-the-phenomenology-of-translation]]
+- **Word count**: 3425 → 3425 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Context**: GENUINE-DRIFT verification of commit 8337f900e (2026-06-09) "Adopt mental-effort calibration" — a refine that edited this file's body (two changes: "confirms"→"indicates" in the structure-mapping face; added a functionalist-underdetermination paragraph) but bumped only `ai_modified`, leaving the adopted calibration unverified. Sixth deep review.
+- **Calibration verdict**: CORRECT. "confirms"→"indicates" is properly calibrated (introspective-inaccessibility extension is interpretive, not directly confirmed by Gentner/Markman + Parsons & Davies). The added paragraph strengthens constrain-vs-establish; interface reading stays possibility-not-probability. Effort/attention claims read as phenomenological reports / tenet-register commitments, not established cognitive science — matches [[mental-effort]] standard.
+- **Citation ledger (8 cites, publisher-of-record, prior status NOT trusted)**: Parsons & Davies 2022 (Wiley *Cog Sci* 46 e13116, authors John-Dennis Parsons & Jim Davies — 06-02 fix held) = real-correct; Lomas 2016 (*J Pos Psych* 11(5):546–558, 216 terms) = real-correct; Lomas "over 1,400" project size = real-correct (verified evolving DB); Gentner & Markman 1997 (*Am Psych* 52(1):45–56) = real-correct; Gentner 1983 (*Cog Sci* 7(2):155–170) = real-correct; WMT 2024 (ACL 2024.wmt-1.1) = real-correct; Hofstadter & Sander 2013 quote verbatim = real-correct; Boroditsky 2001 (*Cog Psych* 43(1):1–22) = real-correct. Canonical humanities cites (Benjamin, Steiner, Eco, Cassin, Strawson, Quine, Davidson) source-conclusion pass. Inline↔References clean both directions; no corpus author/year divergence; "Davidson, M.J." contamination gone from live tree.
+- **Other**: no currency drift (only "so far" discourse marker); no banned "not X. It is Y." cliché; no editor-vocab leakage. Length 3425w (114% of 3000 soft, ~575w under 4000 hard) — not a condense candidate.
+- **Stamp**: `last_deep_review` → 2026-06-20 WITHOUT bumping `ai_modified` (no body change, per genuine-drift no-op protocol).
+- **Output**: [[reviews/deep-review-2026-06-20-consciousness-and-the-phenomenology-of-translation]]
+
 ## 2026-06-20T10:15:22+00:00 - deep-review
 - **Status**: Success (genuine-drift verification; 1 critical citation defect caught + fixed)
 - **File**: [[concepts/filter-theory]]

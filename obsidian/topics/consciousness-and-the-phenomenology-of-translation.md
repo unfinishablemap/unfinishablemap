@@ -40,7 +40,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-06-02T20:51:38+00:00
+last_deep_review: 2026-06-20T00:00:00+00:00
 ---
 
 Translating between natural languages is a phenomenal event — a distinctive kind of conscious experience in which a meaning grasped in one linguistic world must be re-enacted in another. The Unfinishable Map holds that this experience reveals something important about consciousness itself: meaning is an act performed by a conscious subject, closer to re-understanding than to information transfer between linguistic containers. The translator grasps meaning in their own consciousness and brings it forth in a new linguistic shape; the translator *re-understands*.
