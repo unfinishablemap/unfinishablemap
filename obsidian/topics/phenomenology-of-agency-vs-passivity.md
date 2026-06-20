@@ -4,7 +4,7 @@ description: "The felt contrast between doing and undergoing reveals a fundament
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-06-04T16:39:09+00:00
+ai_modified: 2026-06-20T00:00:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -175,6 +175,7 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 - [[authentic-vs-inauthentic-choice]] — Phenomenological layers of ownership in choice
 - [[self-opacity|volitional opacity]] — Why the mechanism connecting will to action is invisible
 - [[mine-ness]] — The for-me phenomenal feature at the layer beneath agency, separable in pathology
+- [[consciousness-and-the-ownership-problem]] — The mine-ness layer's parallel question: why experience belongs to a subject at all, prior to any felt authorship
 - [[ownership-void|The Ownership Void]] — Why the ownership relation hides from introspection
 - [[agency-void|The Agency Void]] — Why consciousness cannot verify its own causal powers, and cannot fully control its own states
 - [[interested-party-void|The Interested Party Void]] — Motivational corruption in consciousness's self-investigation

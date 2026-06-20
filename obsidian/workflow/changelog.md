@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-19T21:52:33+00:00
+ai_modified: 2026-06-20T00:40:11+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-20T00:40:11+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-ownership-problem]] + [[topics/phenomenology-of-agency-vs-passivity]]
+- **Changes**: Reciprocal cross-link pass (length-neutral). Added a Further-Reading pointer in the ownership article to phenomenology-of-agency-vs-passivity (the parallel treatment of the agency layer the article explicitly defers), and a reciprocal back-link in the agency article to the ownership problem (the mine-ness layer's parallel question). Both targets verified on disk; neither link was previously present in either direction (grep-confirmed). Tenet alignment: Bidirectional Interaction (agency as causal authorship). Suggested by [[reviews/optimistic-2026-06-20]].
+- **Published**: yes
 
 ## 2026-06-20T00:18:00+00:00 - optimistic-review
 - **Status**: Success

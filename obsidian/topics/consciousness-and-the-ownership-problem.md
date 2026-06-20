@@ -4,7 +4,7 @@ description: "Why does experience belong to anyone? The ownership problem asks w
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-06-19T21:25:00+00:00
+ai_modified: 2026-06-20T00:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -133,6 +133,7 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 ## Further Reading
 
 - [[mine-ness]] — The for-me phenomenal feature distinguished from agency; the layer at which the ownership problem operates
+- [[phenomenology-of-agency-vs-passivity]] — The parallel treatment of the agency layer this article defers: the felt initiation by which a thought or action presents as authored
 - [[the-self-minimal-narrative-and-substantial]] — Three conceptions of selfhood and their relation to ownership
 - [[self-and-self-consciousness]] — The minimal self as the form ownership takes
 - [[haecceity]] — Primitive thisness and why ownership cannot be replicated
