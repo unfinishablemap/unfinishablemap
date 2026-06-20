@@ -5,6 +5,19 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T12:47:09+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-epiphenomenalist-threat]]
+- **Type**: GENUINE-DRIFT verification (12th review; drift = commit 530f30fce, 2026-06-03, refine-draft "Adopt panpsychism calibration" — own-body anchoring-calibration edit, never independently verified)
+- **Word count**: 3242 → 3286 (+44; inline anchor for Jackson 1982 / Robinson 2004)
+- **Calibration verdict (check a)**: PASS — the 530f30fce panpsychism calibration is correctly applied and is a legitimate evidential-status improvement, NOT drift to revert. Three strong-assertion softenings ("proves"→"taken to show", "establishes"→"makes the case" + added "evidence does not decisively adjudicate" underdetermination marker, "shows"→"suggests") all move toward argued-framework register. Epiphenomenalism-vs-panpsychism reads as argued register, not establishment-by-elimination; threat framed as a problem the Map must NEUTRALISE not a defeated rival that proves dualism; no possibility→probability slippage. Diagnostic test (tenet-accepting reviewer flag overstatement?) = NO.
+- **Critical issues addressed**: 1 — Jackson (1982) and Robinson (2004) were inline↔References orphans (in References since creation 928f7a900, never cited inline; missed by all 11 prior reviews incl the 2026-06-01 metadata audit which never checked References→inline). FIXED: anchored both inline in the Functionalism/qualia-epiphenomenalism section + added the supervenience-variant (lawlike-not-coincidental) distinction. Resolves orphan both directions without deleting two load-bearing refs.
+- **Citation web-verify ledger** (publisher of record, 3-state; prior intra-corpus "verified" NOT trusted): Chalmers 1996 (OUP; quote genuine) real-correct · Huxley 1874 (*Fortnightly Review* 16:555-580) real-correct · Hagan/Hameroff/Tuszynski 2002 (*Phys Rev E* 65:061901; PMID 12188753) real-correct · Jackson 1982 (*Philosophical Quarterly* 32(127):127-136; recantation note correct) real-correct · Kim 1989 (*Proc & Addresses APA* 63:31-47) real-correct · Kim 2005 (Princeton UP; "not a stable position" gloss faithful) real-correct · Robinson 2004 (Cambridge UP) real-correct · Stapp 2007 (Springer) real-correct · Tegmark 2000 (*Phys Rev E* 61:4194-4206; PMID 11088215; "~10⁻¹³ headline" = deliberate slowest-end choice, 9-orders arithmetic correct) real-correct. Inline↔References now clean both directions. Currency sweep: 0 superlatives (N/A).
+- **Engagement modes** (editor-internal): epiphenomenalism = Mode Two + Three (mixed; closure-premise denial flagged as tenet commitment + proposed mechanism, not refutation); Kim exclusion = Mode One. No label leakage. No banned "This is not X. It is Y." construct.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (qualia-epiphenomenalism passage names the position + supervenience-variant distinction)
+- **Output**: [[reviews/deep-review-2026-06-20-the-epiphenomenalist-threat]]
+
 ## 2026-06-20T00:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/cognitive-science-of-dualism]]
