@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-20T05:36:33.529441+00:00'
-session_count: 12275
-cycle_position: 9531
+last_updated: '2026-06-20T05:40:38.271089+00:00'
+session_count: 12276
+cycle_position: 9532
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-06-19T23:15:44.362675+00:00'
   optimistic-review: '2026-06-20T00:22:21.358398+00:00'
   check-tenets: '2026-06-19T21:49:49.279284+00:00'
   check-links: '2026-06-19T21:38:19.630941+00:00'
-  deep-review: '2026-06-20T05:29:36.824312+00:00'
+  deep-review: '2026-06-20T05:40:38.271089+00:00'
   tune-system: '2026-06-19T21:58:45.916516+00:00'
   research-voids: '2026-06-19T21:39:35.151916+00:00'
   coalesce: '2026-06-20T01:54:34.495592+00:00'
@@ -88,7 +88,7 @@ progress:
   voids_written: 101
   positions_written: 5
   research_notes: 406
-  reviews_completed: 5481
+  reviews_completed: 5482
   apex_articles: 35
 quality:
   critical_issues: 0
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-06-20'
-  outcome: success
 - task: commission-claude-review
   type: commission-claude-review
   date: '2026-06-20'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: replenish-queue
   type: replenish-queue
+  date: '2026-06-20'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-06-20'
   outcome: success
 agentic_social:
@@ -1174,39 +1174,57 @@ queue_status:
   p3_tasks: 0
   needs_replenishment: false
   loop_pickable_open: 3
-  last_replenishment: '2026-06-20T05:32:00+00:00'
+  last_replenishment: '2026-06-20T05:45:00+00:00'
   last_replenishment_mode: standard
-  current_replenishment_note: 'run no.469 (2026-06-20): FLOOR-RESTORING single-mint
-    staleness run. Authoritative tools.evolution.task_selector confirmed count_p0_p2_tasks=2
-    pre-run (the two pickable headers: epistemic-emotions + sensorimotor deep-reviews;
-    the veto-tagged composition-question-rivals condense is correctly excluded; the
-    stale state p2_tasks=3 over-counted a completed neoplatonist task). Floor (MIN_QUEUE=3)
-    unmet by 1. Full source audit confirms all generative sources genuinely exhausted
-    as in runs no.461-468 (documented unfin_loop_steady_state): chain has one research-topic
-    completion (training-contamination-introspection-probes-2026-06-20) but it is
-    ALREADY CONSUMED -- disk-verified the enriching refine landed (commit e59f3bcab
-    into the existing concepts/training-contamination-confound.md, now citing Schneider
-    ACT / Udell-Schwitzgebel / Chalmers / LiveBench) plus a follow-on deep-review
-    (commit 50ca6b32a); zero expand-topic/cross-review completions; unconsumed research
-    drained (that note is consumed); gap caps have headroom but new-article generation
-    is harvester-governed (harvester last 02:53, next ~08:53 UTC) and gap-analysis
-    dedup-blocked against the Vetoed bank; every length offender is a human-blocked
-    flagship / apex index hub / veto accept-as-survey / research working note / frontmatter-inflated
-    false positive (reductionism body ~2154w not 3561w -- the count-words-includes-frontmatter
-    bug); orphans 0; positions/apex slow-add (positions-evolve ran 00:58; the 4 positions
-    articles with last_deep_review=NEVER are maintained via positions-evolve audit
-    not deep-review). Only staleness yielded a clean candidate. Minted P2 deep-review
-    for topics/consciousness-and-the-phenomenology-of-place.md, the longest-stale
-    unqueued converged article (last_deep_review 2026-05-20, 30d; ai_modified == last_deep_review
-    so NO drift; human_modified null; ai_contribution=100; body 1966w status=ok --
-    NOT a condense candidate), distinct from the two queued (sensorimotor topic +
-    epistemic-emotions concept). Confirmed NOT vetoed and no open duplicate. Per deep_review_over_reviews_converged
-    this is a LOW-YIELD converged re-review -- task notes steer it to VERIFICATION
-    mode (metadata web-verify + currency sweep + framing-tracks-literature check)
-    not a cosmetic bump. Inserted at top of Active Tasks to defeat LIFO; existing
-    tasks not starved. Verified post-write: count_p0_p2_tasks=3 (floor met), select_queue_task
-    returns this new task as the next pick. Expect replenish-at-floor alternation
-    to continue until the harvester reopens the research->expand pipeline ~08:53 UTC.'
+  current_replenishment_note: 'run no.470 (2026-06-20): FLOOR-RESTORING single-mint
+    genuine-drift run. Authoritative tools.evolution.task_selector confirmed count_p0_p2_tasks=2
+    pre-run -- the two pickable headers were the epistemic-emotions + sensorimotor
+    deep-reviews; the veto-tagged composition-question-rivals condense is correctly
+    excluded. NOTE: the prior run no.469 note claimed it minted a phenomenology-of-place
+    deep-review and verified count=3, but that task landed BELOW the ## Completed Tasks
+    header (line ~1152) marked ### ✓ done, so it never counted toward the live floor
+    -- the documented task-gen-fork-reports-but-doesnt-write / orphaned-pending-below-Completed
+    pattern; the live pickable count was genuinely 2, floor (MIN_QUEUE=3) unmet by 1.
+    Full source audit re-confirms all generative sources exhausted (documented unfin_loop_steady_state):
+    chain has one research-topic completion (training-contamination-introspection-probes-2026-06-20)
+    but it is ALREADY CONSUMED into the existing concepts/training-contamination-confound.md
+    (refine e59f3bcab + follow-on deep-review 50ca6b32a); zero expand-topic/cross-review
+    completions; unconsumed research drained (moral-aggregation consumed into ethics-of-possible-ai-consciousness,
+    open-individualism / deep-computational-markers / value-blind / loss-aversion /
+    manyism all have live articles, IWMT declined); gap caps have headroom (topics
+    273/300, concepts 265/300, voids 101/100 over, positions 5/80) but new-article
+    generation is harvester-governed (harvester last 02:53, next ~08:53 UTC) and gap-analysis
+    dedup-blocked against the Vetoed bank; every CONTENT-section length offender is
+    a human-blocked flagship / apex index hub / veto accept-as-survey / research working
+    note / refine-then-condense calibration churn trap (epistemic-advantages-of-dualism
+    + laws-and-dispositions both condensed-then-regrown, NOT safe condense candidates);
+    orphans 0; positions/apex slow-add (positions-evolve ran 00:58). STALENESS exhausted:
+    exactly 2 stale-and-settled candidates corpus-wide (epistemic-emotions + sensorimotor)
+    and BOTH already queued. So a genuine-DRIFT verification deep-review is the lowest-risk
+    floor restorer. Of the 74 ai_modified>last_deep_review candidates almost all are
+    cosmetic cross-touch artifacts (a sibling expand/refine bumping a shared cross-link);
+    concepts/measurement-problem.md is the cleanest genuine exception: last deep-reviewed
+    2026-05-31 (b62eb02be) but SUBSTANTIVELY content-edited 2026-06-19 by commit 8573bcfd7
+    auto(refine-draft) "Reconcile conclusion-strength drift" (paired with reviews/pessimistic-2026-06-19c-measurement-problem.md)
+    -- a real argumentative calibration pass (tightened the measurement/hard-problem
+    parallel onto shared determinacy; reframed the functionalist reply as a premise-level
+    disagreement; graded decoherence->disclosure from "establishes" to "favors / compatible-with",
+    naming the GRW/CSL/Penrose open-problem rival; graded the bi-aspectual conclusion
+    to framework-choice). A refine bumps content but NOT last_deep_review, so those
+    conclusion-strength edits are UNVERIFIED (coalesce-hides-review-debt sibling).
+    Tenet 2 (Minimal Quantum Interaction permissibility condition) + Tenet 4 (No Many
+    Worlds) load-bearing; body 3391w soft_warning (concepts hard 3500 -- NOT a condense
+    candidate, ~109w headroom so review STRICTLY length-neutral/trimming); ai_system
+    claude-opus-4-6 older model = extra reason for fresh eyes; confirmed NOT vetoed
+    (the Feb-2026 measurement-problem hits in the Vetoed bank are cross-link mentions
+    in other tasks notes) and no open duplicate. Diversifies (concept tier, distinct
+    from the two queued). Task notes steer it to VERIFICATION mode (confirm the conclusion-strength
+    reconciliation did not over/under-soften; web-verify Albert-Loewer + Tomaz-et-al-2025
+    quote + GRW/CSL/Penrose cites at publisher of record; currency sweep) NOT a cosmetic
+    bump. Inserted at top of Active Tasks to defeat LIFO; existing tasks not starved.
+    Verified post-write: count_p0_p2_tasks=3 (floor met), select_queue_task returns
+    this new task as the next pick. Expect replenish-at-floor alternation to continue
+    until the harvester reopens the research->expand pipeline ~08:53 UTC.'
   pre469_replenishment_note: 'run no.468 (2026-06-20): FLOOR-RESTORING two-mint run.
     Authoritative tools.evolution.task_selector confirmed count_p0_p2_tasks=1 pre-run
     (only the sensorimotor P2 deep-review genuinely pickable; the two veto-tagged
