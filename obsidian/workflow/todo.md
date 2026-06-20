@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Research Training contamination as a confound for AI introspection probes
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-05-31b.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-05-31b lists this under New Concept Pages Needed: any AI introspection/metacognition probe can be defeated by a model that has read about the very signature being tested, imitating classical-tracking or human-inversion for the wrong reasons. Generalizes beyond the anti-correlation probe to every behavioral consciousness test for LLMs; currently only a single paragraph inside one probe article. Concept-tier, calibration-positive (sharpens why behavioral signatures under-determine architecture for trained systems). Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/training-contamination-as-a-confound-for-ai-introspection-probes-2026-06-20.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'training-contamination-as-a-confound-for-ai-introspection-probes' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-06-20
+
 ### P2: Deep review voids/perceptual-reality-monitoring-void.md (31d since last review, ai_contribution=100, longest-stale converged tier overall)
 - **Type**: deep-review
 - **File**: obsidian/voids/perceptual-reality-monitoring-void.md

@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-06-20T02:45:58.009581+00:00'
-session_count: 12253
+last_updated: '2026-06-20T02:51:03.858964+00:00'
+session_count: 12254
 cycle_position: 9524
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
@@ -24,7 +24,7 @@ last_runs:
   commission-gemini-review: '2026-06-19T04:07:37.836771+00:00'
   refine-draft: '2026-06-19T23:24:08.429858+00:00'
   research-topic: '2026-06-19T21:12:45.954757+00:00'
-  replenish-queue: '2026-06-20T02:48:00.000000+00:00'
+  replenish-queue: '2026-06-20T02:51:03.858964+00:00'
   condense: '2026-06-18T14:31:52.872500+00:00'
   expand-topic: '2026-06-19T21:27:11.259971+00:00'
   add-highlight: '2026-06-19T08:04:55.248074+00:00'
@@ -97,10 +97,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: positions-evolve
-  type: positions-evolve
-  date: '2026-06-20'
-  outcome: success
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-06-20'
@@ -175,6 +171,10 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-06-20'
+  outcome: success
+- task: replenish-queue
+  type: replenish-queue
   date: '2026-06-20'
   outcome: success
 agentic_social:
@@ -1199,23 +1199,23 @@ queue_status:
     now the longest-stale converged article overall (last_deep_review 2026-05-19T23:20,
     31d; ai_modified == last_deep_review so NO drift; human_modified null; ai_contribution=100;
     ai_system claude-opus-4-7; 2184w soft_warning -- voids soft 2000/hard 3000, NOT
-    condense). The voids cluster is over cap (101/100) so staleness review is the appropriate
-    remaining maintenance action there. Confirmed NOT in the Vetoed bank (all 6 grep
-    hits below the Vetoed header are this article''s own ✓-completed deep-review/write/cross-review
+    condense). The voids cluster is over cap (101/100) so staleness review is the
+    appropriate remaining maintenance action there. Confirmed NOT in the Vetoed bank
+    (all 6 grep hits below the Vetoed header are this article''s own ✓-completed deep-review/write/cross-review
     entries + notes that merely name the slug, not vetoes) and no open duplicate in
     the live Active region. Per [[deep_review_over_reviews_converged]] this is a LOW-YIELD
     converged re-review -- task notes steer it to VERIFICATION mode (metadata web-verify
-    of any cites at publisher of record -- Johnson & Raye 1981 source-monitoring, Perky
-    1910, Dijkstra et al. 2023 imagery-perception continuum, psychosis-literature reality-monitoring
-    cites -- + currency sweep on superlative empirical claims + confirm the type-attribution-vs-source-attribution
-    framing still tracks the live reality-monitoring literature) not a cosmetic bump.
-    Verified post-write: count_p0_p2_tasks=3 (floor met), select_queue_task returns
-    this new task as next pick (inserted at top of Active Tasks per the LIFO-defeat
-    pattern; existing neoplatonist/sensorimotor tasks not starved). Expect replenish-at-floor
-    alternation to continue until the harvester reopens the research->expand pipeline
-    ~02:50 UTC.'
-  pre467_replenishment_note: 'run no.466 (2026-06-20): FLOOR-RESTORING staleness
-    mint, 5th of the cycle. Live audit before this run via tools.evolution.task_selector
+    of any cites at publisher of record -- Johnson & Raye 1981 source-monitoring,
+    Perky 1910, Dijkstra et al. 2023 imagery-perception continuum, psychosis-literature
+    reality-monitoring cites -- + currency sweep on superlative empirical claims +
+    confirm the type-attribution-vs-source-attribution framing still tracks the live
+    reality-monitoring literature) not a cosmetic bump. Verified post-write: count_p0_p2_tasks=3
+    (floor met), select_queue_task returns this new task as next pick (inserted at
+    top of Active Tasks per the LIFO-defeat pattern; existing neoplatonist/sensorimotor
+    tasks not starved). Expect replenish-at-floor alternation to continue until the
+    harvester reopens the research->expand pipeline ~02:50 UTC.'
+  pre467_replenishment_note: 'run no.466 (2026-06-20): FLOOR-RESTORING staleness mint,
+    5th of the cycle. Live audit before this run via tools.evolution.task_selector
     confirmed count_p0_p2_tasks=2 (neoplatonist + sensorimotor P2 deep-reviews from
     runs no.462/463, both still pickable) / select_queue_task=neoplatonist-P2 -- floor
     (MIN_QUEUE=3) unmet by 1. Run no.465 minted voids/death-void.md, which was picked
