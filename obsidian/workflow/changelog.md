@@ -5,6 +5,21 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T09:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/consciousness-selecting-neural-patterns]]
+- **Context**: GENUINE-DRIFT verification (salvaged floor-restore mint). last_deep_review 2026-06-05; drift is commit `4abeddfa9` (2026-06-16 refine "Fix dangling Craddock cite + soften 3 over-claims") which edited THIS file's own body — refine bumps ai_modified not last_deep_review, so the softened claims were unverified. Ninth deep review.
+- **Calibration verdict — PASS (refine correct, no over-correction)**: All four softenings 4abeddfa9 applied are correctly calibrated against [[evidential-status-discipline]]: (1) microtubule passage now scoped to candidate-site clue, not mechanism-confirmation (resolves Tegmark "having it both ways"); (2) bandwidth→policy inference now carries its explicit bridging premise (throughput-of-report ≠ resolution-of-selection, transfers only if selection is channelled through the attentional bottleneck); (3) "altogether" → coherence-immunity-bought-as-a-trade, not a free win; (4) brain-boundary "follows from … not ad hoc" → "follows largely … does not foreclose a designed external substrate." Tenet-3 selection register held as metaphysical interpretation / hypothesis throughout; Falsifiability Dilemma honesty line intact; quantum-biology claims hedged to the contested literature. Diagnostic test passes (tenet-accepting reviewer would not flag any label as overstated). No residual overclaim, no over-correction into mush.
+- **Craddock verdict — FIXED CORRECTLY**: variant (i) dangling-cite fixed (References entry added); it is the correct Craddock et al. 2017 *Sci Rep* 7:9877 (web-verified nature.com/PMC, DOI 10.1038/s41598-017-09992-7), NOT variant (ii) wrong-paper. The Craddock 2015 *Current Topics in Medicinal Chemistry* entry in anaesthesia-and-the-consciousness-interface is a distinct real paper, not the source of variant (ii).
+- **Citation ledger**: all 18 cites real-correct (3-state). Re-web-verified the recent-empirical slots — Craddock 2017, Wiest 2025 (niaf011, Michael C. Wiest NOT Olaf), Khan/Huang/Wiest 2024 (eNeuro, ~69s LORR, d=1.9) — all real-correct; remaining 15 unchanged since the 2026-06-05 exhaustive audit. Inline↔References complete both directions (Craddock gap closed). No verbatim-quote fidelity risk.
+- **Currency/construct sweep**: no superlative claims (no currency-drift exposure); no banned "This is not X. It is Y." construct; no editor-vocabulary label leakage.
+- **Engagement modes (changelog-internal)**: illusionist Dennett/Frankish = Mixed (Mode Two → Mode Three), strawman removed by 4abeddfa9 (user-illusion now named + judged on a stated reason); MWI = Mode Three boundary-marking, acceptable.
+- **Word count**: 3016 (body) → 3016 (+0; converged no-op). Length soft_warning (121% of 2500, ~484w headroom) — NOT a condense candidate; length-neutral.
+- **Convergence no-op after REAL scrutiny of post-refine content**: stamped `last_deep_review` 2026-06-20 WITHOUT bumping `ai_modified` (no body change). Source `ai_system` = claude-opus-4-5-20251101 (older model; historical record, not a defect).
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (all 3 pessimistic-2026-06-16 findings verified already-discharged by 4abeddfa9)
+- **Output**: [[reviews/deep-review-2026-06-20-consciousness-selecting-neural-patterns]]
+
 ## 2026-06-20T08:44:33+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/pragmatisms-path-to-dualism]]
