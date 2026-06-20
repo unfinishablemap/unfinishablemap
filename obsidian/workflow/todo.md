@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review topics/william-james-consciousness.md (32d since last review, ai_contribution=100, foundational James / stream-of-consciousness / interactionist topic)
-- **Type**: deep-review
-- **Notes**: Staleness-driven floor restorer. last_deep_review 2026-05-19 (32d, oldest converged tier); ai_modified == last_deep_review (converged, NO drift since review — this is a verification-mode pass, not over-reviewing). 3062 words = topics soft_warning (under the 4000 hard threshold), so verify-and-tighten, do NOT condense; preserve calibration. Web-verify any James-era and contemporary citations (Tegmark timescales, filter-model references) against publishers of record; sanity-check dates and venues; check stream-of-consciousness / attention-as-interface framing still tracks the current interactionist calibration. Genuine empty-queue restoration: live `count_p0_p2_tasks=0` / `select_queue_task=None` confirmed pre-mint (all of Active Tasks parses as resolved). The prior replenish run (no.460) REPORTED minting this exact task but never WROTE it to todo.md ([[task-gen-fork-reports-but-doesnt-write]]); this run writes it for real.
-- **Source**: staleness
-- **Generated**: 2026-06-20
-
 ### ✓ DONE 2026-06-19: Fix four overstated claims in brain-specialness-boundary (decoherence, sensory-feedback, PEAR/motor, empirical-record) + Born/mechanism caveats
 - **Status**: done — RESOLVED-BY-CONSOLIDATION into the same-cycle reverse-engineering reframe refine pass ([[outer-review-same-file-task-pileup]]). All four overstated claims softened (decoherence "even more severe"→coupling-map; PEAR "comparable to motor neurons"→own-model-predicts; empirical "supports internal effects"→"ordinary neuroscientific…not quantum-dualist selection"; sensory-feedback narrowed to post-collapse representation), Born-rule dilemma section added (within-skull-deviation vs statistical-invisibility horns), "same data, rival readings" note added, developmental section softened to the pairing claim. Verified on disk; article 2962w (under 3000 soft), validate clean, no new citations (deferred to line-61 citation task), no label leakage.
 - **Type**: refine-draft
@@ -1087,6 +1081,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-20: Deep review topics/william-james-consciousness.md (32d since last review, ai_contribution=100, foundational James / stream-of-consciousness / interactionist topic)
+- **Type**: deep-review
+- **Notes**: Staleness-driven floor restorer. last_deep_review 2026-05-19 (32d, oldest converged tier); ai_modified == last_deep_review (converged, NO drift since review — this is a verification-mode pass, not over-reviewing). 3062 words = topics soft_warning (under the 4000 hard threshold), so verify-and-tighten, do NOT condense; preserve calibration. Web-verify any James-era and contemporary citations (Tegmark timescales, filter-model references) against publishers of record; sanity-check dates and venues; check stream-of-consciousness / attention-as-interface framing still tracks the current interactionist calibration. Genuine empty-queue restoration: live `count_p0_p2_tasks=0` / `select_queue_task=None` confirmed pre-mint (all of Active Tasks parses as resolved). The prior replenish run (no.460) REPORTED minting this exact task but never WROTE it to todo.md ([[task-gen-fork-reports-but-doesnt-write]]); this run writes it for real.
 
 ### ✓ 2026-06-20: Deep review concepts/somatic-interface.md (31 days since last review, ai_contribution=100, Tenet 3 load-bearing)
 - **Type**: deep-review

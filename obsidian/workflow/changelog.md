@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-20T01:35:11+00:00
+ai_modified: 2026-06-20T01:45:18+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-20T01:45:18+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/william-james-consciousness]]
+- **Word count**: 3062 → 3062 (+0, length-neutral, no body change; soft_warning, under hard 4000)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (sixth-review converged pass; last_deep_review stamped, ai_modified NOT bumped)
+- **Output**: [[reviews/deep-review-2026-06-20-william-james-consciousness]]
+- **Notes**: Genuine verify-don't-trust floor-restoration pass on a converged article (body unchanged since the 05-19 review's own cycle commit). Primary effort = §2.4 publisher-of-record citation web-verify, since intra-corpus consistency ratifies wrong metadata. All SEVEN References entries verified real-correct at publisher of record: James 1890 Principles (Henry Holt); James 1896 Will to Believe (The New World vol 5, pp 327-347, June 1896 = No.18); James 1898 Human Immortality (Houghton Mifflin) — "permissive or transmissive function" quote faithful + "mother-sea" textual claim CONFIRMED in source; James 1904 "Does Consciousness Exist?" (JPPSM 1(18):477-491, PDC locator exact); James 1912 Essays in Radical Empiricism (Longmans Green); Stapp 2011 Mindful Universe (Springer 2nd ed, ISBN 9783642180750, DOI 10.1007/978-3-642-18076-7); Nisbett & Wilson 1977 (Psych Review 84(3):231-259). Load-bearing verbatim quotes (stream/river, primal-stuff/pure-experience) faithful; mind-dust/combination-problem correctly attributed to Principles 1890 Ch.VI Mind-Stuff Theory (Clifford critique). Inline↔References cross-ref complete, no orphans. No superlative claims (currency sweep empty). No possibility/probability slippage — Stapp triple-hedged, MWI rejection attributed to tenets not phenomenology, Bidirectional "invites not establishes." Dualist/interactionist framing ARGUED from James (attention-as-effort + 1898 transmissive lecture), not over-attributed — "James himself tentative about mechanism" stated repeatedly. No editor-vocabulary or HTML-comment leakage. Sixth consecutive clean converged verdict — SUCCESS after real scrutiny; the web-verify ledger makes the converged stamp earned, not inherited.
 
 ## 2026-06-20T01:35:11+00:00 - deep-review
 - **Status**: Success
