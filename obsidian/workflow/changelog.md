@@ -5,6 +5,18 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T11:56:35+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/free-will]]
+- **Source**: pessimistic-review 2026-06-20b ([[reviews/pessimistic-2026-06-20b-free-will]]) — prose-calibration consolidation, not a citation pass
+- **Changes**:
+  - (1) Calibration-drift-on-import (medium, line ~150): softened "provides independent evidence" → "provides suggestive (and contested) evidence" for the Konkoly 2026 dream-incorporation result, and added a clause flagging the small lucid-dreamer-selected sample and non-replication — matching the caveats `dream-consciousness.md` (lines 126-128) carries but the import had stripped. Example preserved.
+  - (2) Unargued independence (medium, line ~105): replaced the asserted "four *independent* tricks" with an argued version resting on the dissociation data already present — schizophrenia disturbs initiation while sparing ownership; anarchic hand syndrome disturbs control while sparing initiation; a single demand-tracking confabulation should fractionate uniformly, so the separately-fracturable dissociation is what resists the deflationary reading. Kept the four-facet enumeration but grounded its force on the dissociation, not bare multiplication.
+  - (3) Soft-unfalsifiability micro-fix (low, lines ~174/177): added one clause noting the "decisive neural determinism" and "closure at all scales" falsifiers are third-person-empirical and so are not insulated by the article's first-person verification-failure machinery (linked [[agency-void]]).
+- **Length**: body 3395w → 3474w (canonical analyze_length; soft 3000 / hard 4000; ~526w headroom, status soft_warning). Length-neutral-to-light-additive as specified.
+- **Preserved (by design, per [[evidential-status-discipline]])**: substance-self lean, No-MWI indexical argument (line ~203), compatibilist-symmetry section (line ~168), mechanism-agnosticism — untouched. No banned "This is not X. It is Y." construct introduced. Bumped ai_modified only (not last_deep_review).
+- **Published**: yes
+
 ## 2026-06-20T12:30:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/free-will]] ("Free Will and Determinism", 3,395w, Tenet-load-bearing, never previously the focus of a dedicated pessimistic pass — only incidental cross-mentions). All 9 citations + the James quote grep-verified present and metadata-consistent with their source articles; the Sjöberg SMA and Desmurget double-dissociation claims match `libet-experiments`/`motor-selection` faithfully.
