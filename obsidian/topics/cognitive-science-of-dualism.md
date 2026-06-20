@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-05
 last_curated:
-last_deep_review: 2026-06-05T19:31:30+00:00
+last_deep_review: 2026-06-20T00:00:00+00:00
 ---
 
 Cognitive science operates under methodological materialism — it studies the mind by measuring brain activity, reaction times, and behavioural outputs. This makes it a powerful tool for mapping cognitive architecture, but it also creates a structural blind spot: the methods presuppose that mental phenomena are exhaustively captured by third-person measurement. When cognitive science investigates dualism, it tends to frame the question as whether people *believe* in dualism, not whether dualism is *true*. The Unfinishable Map argues that cognitive science's own findings — the irreducibility of first-person report, the variability of mind-body intuitions, and the persistent explanatory gap — actually complicate the materialist framework the field assumes.

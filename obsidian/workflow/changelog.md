@@ -5,6 +5,20 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T00:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/cognitive-science-of-dualism]]
+- **Type**: GENUINE-DRIFT verification (drift = commit 5c24338fa, 2026-06-09, refine-draft "Adopt mental-causation-and-downward-causation calibration" — own-body edit that bumped ai_modified but not last_deep_review)
+- **Word count**: 2189 → 2189 (no body change; converged no-op after real scrutiny)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Barrett-six verdict**: CONFIRMED. Barrett et al. 2021 = SIX populations, re-verified at publisher of record (Wiley DOI 10.1111/cogs.12992, PubMed 34170020, gwern PDF, ORA Oxford, PhilPapers). Article reads "six" at L46 + L78 — NOT regressed to "eight." Corpus-wide grep: all live articles say "six"; no live "eight" remains.
+- **Citation audit (3-state, publisher of record)**: Barrett 2021 real-correct (author vector + e12992 + verbatim quotes all match); Barlev & Shtulman 2021 real-correct (Psych Review 128:1007-1021, "learned not innate" faithful; "Davinci the Dualist" is a DIFFERENT paper, no conflation); Clark 2013 real-correct (BBS 36(3):181-204, DOI 10.1017/S0140525X12000477); McGinn 1989 real-correct (Mind 98(391):349-366); Bloom 2004 / Chalmers 1995 / Hohwy 2013 / Friston canonical-stable. Inline↔References complete both directions, no orphan refs. Currency sweep empty (no superlative claims). No banned "This is not X. It is Y." construct.
+- **Calibration verdict**: the drift commit's three edits ("proves the point"→"cuts against itself"; added underdetermination-concession paragraph; "demonstrates"→"marshals evidence") all REDUCE overclaim — correct direction per [[evidential-status-discipline]]. No possibility/probability slippage; article declines to treat cognitive-science findings as evidence FOR dualism. The learned/non-dualist-default finding cuts AGAINST naive dualism and the article handles it honestly.
+- **Engagement modes** (editor-internal): genetic-fallacy materialist = Mode One (defective on own terms, symmetry move); behavioural-output physicalist = Mode Two softened to honest boundary-marking by the drift concession; predictive-processing physicalist = Mode Three. No label leakage.
+- **Stamp policy**: last_deep_review bumped to 2026-06-20; ai_modified NOT bumped (converged no-op, no body fix).
+- **Output**: [[reviews/deep-review-2026-06-20-cognitive-science-of-dualism]]
+
 ## 2026-06-20T12:08:55+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/psychophysical-laws-bridging-mind-and-matter]]
