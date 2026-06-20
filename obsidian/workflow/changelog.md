@@ -5,6 +5,17 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T15:52:27+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-forgetting]]
+- **Word count**: 2287 → 2347 (+60; 78% of 3000 topics soft target)
+- **Critical issues addressed**: 1 (Ricoeur "happy forgetting" position-strength/attribution error — fresh-create explores→affirms slippage; corrected to *forgetting held in reserve* + happy-forgetting-as-open-question, per publisher-of-record verification)
+- **Medium issues addressed**: 0 (replication-hedge calibration already exemplary)
+- **Enhancements made**: 1 (richer, accurate Ricoeur attribution)
+- **Citation web-verify**: 10 external + 2 self cites — ALL real-correct at publisher of record; Anderson&Hulbert "anterograde and retrograde amnesia in healthy people" + James "a wraith of the name" verified VERBATIM; Anderson et al. 2025 NRN (prompt-flagged metadata-only) fully verified; 2 uncited empirical claims (preregistered TNT replication, directed-forgetting unbinding) independently web-verified as accurate; inline↔refs complete both directions; no superlatives; no fabrications
+- **Reasoning mode**: engagement with the epiphenomenalist — Mode Three (framework-boundary marking), honest, no boundary-substitution, no label leakage
+- **Output**: [[reviews/deep-review-2026-06-20-phenomenology-of-forgetting]]
+
 ## 2026-06-20T15:40:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenology of Forgetting (active forgetting as a process)
