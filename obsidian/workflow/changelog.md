@@ -5,6 +5,19 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T13:33:29+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/negative-valence-asymmetry-and-the-selection-weighting-function]]
+- **Word count**: 2199 → 2199 (+0; length-neutral cross-link add)
+- **Critical issues addressed**: 0 (none found — model of evidential-calibration discipline; no possibility/probability slippage; tenet-load decline correctly routed through argument not razor)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added `[[pain-asymbolia]]` cross-link — the load-bearing exhibit for the falsifiable disambiguation test was plain text)
+- **Selection**: genuine-drift candidate over scorer's converged metadata pick; ZERO prior deep reviews (create-time self-stamp only); first true deep review; citation-heavy → mandatory §2.4 web-verify
+- **Citation web-verify**: all 12 cites publisher-verified, all real-correct; 3 verbatim quotes verified word-for-word (T&K 1991, T&K 1992, Baumeister 2001); load-bearing numbers verified (Brown 2024 λ=1.955 [1.820,2.102]/607; Yechiam&Zeif 2025 symmetric-unordered λ≈1.07); Gal&Rucker 2-author confirmed via Crossref against aggregator "Shavitt" false-positive; inline↔References clean both ways; 0 superlatives
+- **Reasoning-mode**: value-blind-steelman engagement = Mode Three (boundary-marking + honest concession); no boundary-substitution; no label leakage
+- **Calibration verdict**: PASS — a tenet-accepting reviewer would flag nothing as overstated relative to the five-tier scale
+- **Output**: [[reviews/deep-review-2026-06-20-negative-valence-asymmetry-and-the-selection-weighting-function]]
+
 ## 2026-06-20T13:19:23+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/eastern-philosophy-consciousness]]
