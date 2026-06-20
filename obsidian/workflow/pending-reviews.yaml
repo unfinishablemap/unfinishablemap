@@ -359,3 +359,32 @@
   subject_articles:
   - topics/consciousness-interface-development.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/e0d29bda-a2e4-46cc-a8f7-739caf408a30
+  commissioned_at: '2026-06-20T03:05:36.796855+00:00'
+  prompt_summary: Audit consciousness-interface-development (Opus 4.8)
+  target_filename: outer-review-2026-06-20-claude-opus-4-8.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Act as a hostile but fair external referee for The Unfinishable Map,
+    a dualist philosophy-of-mind project at https://unfinishablemap.org (recent activity:
+    https://unfinishablemap.org/workflow/changelog/). Audit this single article: "The
+    Consciousness-Brain Interface Across Development" at https://unfinishablemap.org/topics/consciousness-interface-development/.
+    The Map treats the brain as a structured interface through which non-physical
+    consciousness engages the physical world, and argues the interface restructures
+    across the lifespan (infancy''s wide-aperture/low-control configuration through
+    adult focus to old-age dissolution). Scrutinise: (1) whether the developmental
+    neuroscience it cites (synaptic pruning, critical periods, perineuronal nets,
+    phoneme/face narrowing) is accurate and current; (2) whether the dualist "interface"
+    reading is actually supported by that evidence or whether a purely physicalist
+    account explains it equally well; (3) logical gaps, overclaims, and unfalsifiable
+    moves. Use web search to verify specific empirical claims against the live literature.
+    End your report with a list of concrete potential improvements to specific articles
+    and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit consciousness-interface-development
+  subject_articles:
+  - topics/consciousness-interface-development.md
+  subject_source: reuse:pending-reviews:outer-review-2026-06-20-chatgpt-5-5-pro.md
