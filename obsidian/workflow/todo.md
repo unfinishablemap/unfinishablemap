@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research Interoceptive consciousness and the interface
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-06-20d.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-06-20d logs interoception as the missing inward completion of the modality survey: the cross-modal-capability-division apex (created 2026-06-20) covers exteroception (vision/hearing/smell/touch) + proprioception but NOT interoception (hunger, pain, cardiac/visceral sensation). The 5 exteroceptive modalities each have a topics interface article applying the brain-side/mind-side capability division; interoception has only a voids/interoceptive-void (dark-space angle), no capability-division/interface treatment. A topics article would complete the modality survey inward and test whether the asymmetry (modality-specific brain side, supramodal mind side) recurs for interoception. Assess-first downstream: confirm it adds beyond the existing interoceptive-void before writing. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/interoceptive-consciousness-and-the-interface-2026-06-20.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'interoceptive-consciousness-and-the-interface' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-06-20
-
 ### P2: Calibrate taxonomic over-reach in topics/comparing-quantum-consciousness-mechanisms.md (Orch OR / Fisher are not clean consciousness-mediated-collapse variants)
 - **Type**: refine-draft
 - **File**: obsidian/topics/comparing-quantum-consciousness-mechanisms.md
@@ -1164,6 +1158,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 Tasks that failed 3+ times and require human intervention. (Also: standing human editorial decisions the loop has done all it can on — e.g. over-ceiling flagship articles whose excess is verified load-bearing calibration content, and thesis-level alternatives the loop must not adopt unilaterally.)
 
+
+### ✓ 2026-06-20: Research Interoceptive consciousness and the interface
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-06-20d.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-06-20d logs interoception as the missing inward completion of the modality survey: the cross-modal-capability-division apex (created 2026-06-20) covers exteroception (vision/hearing/smell/touch) + proprioception but NOT interoception (hunger, pain, cardiac/visceral sensation). The 5 exteroceptive modalities each have a topics interface article applying the brain-side/mind-side capability division; interoception has only a voids/interoceptive-void (dark-space angle), no capability-division/interface treatment. A topics article would complete the modality survey inward and test whether the asymmetry (modality-specific brain side, supramodal mind side) recurs for interoception. Assess-first downstream: confirm it adds beyond the existing interoceptive-void before writing. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/interoceptive-consciousness-and-the-interface-2026-06-20.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'interoceptive-consciousness-and-the-interface' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-06-20: Add sibling-modality cross-links to proprioception article
 - **Type**: refine-draft

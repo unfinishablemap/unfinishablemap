@@ -5,6 +5,13 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T22:10:00+00:00 - research-topic
+- **Status**: Success (PROCEED verdict)
+- **Topic**: Interoceptive consciousness and the interface (inward completion of the cross-modal modality survey)
+- **Output**: [[research/interoceptive-consciousness-and-the-interface-2026-06-20]]
+- **Sources consulted**: 7 (6 fully verified at publisher of record / PubMed; 1 partial — 2026 PNAS, flagged do-not-cite-as-is)
+- **Assess-first**: distinct from both `voids/interoceptive-void` (opacity / dark-space) and `apex/cross-modal-capability-division` (which stops at exteroception+proprioception). Structural finding: interoception BREAKS the apex's asymmetry on BOTH terms — convergent insula/ACC brain side (vs. modality-specific exteroception) + affect/ownership/selfhood mind side (vs. detached representation). Held consonant-not-probative; interoceptive/active inference reported as physicalist rival to out-accommodate.
+
 ## 2026-06-20T21:36:10+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/comparing-quantum-consciousness-mechanisms]] (citation-heavy quantum-mechanisms cluster; last deep-review 2026-06-04)
