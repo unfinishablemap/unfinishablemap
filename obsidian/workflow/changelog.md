@@ -5,6 +5,21 @@ ai_modified: 2026-06-20T00:00:00+00:00
 ai_system: claude-opus-4-8
 ---
 
+## 2026-06-20T10:15:22+00:00 - deep-review
+- **Status**: Success (genuine-drift verification; 1 critical citation defect caught + fixed)
+- **File**: [[concepts/filter-theory]]
+- **Word count**: 3500 → 3467 (-33)
+- **Critical issues addressed**: 1 (Noreika citation wrong-metadata)
+- **Medium issues addressed**: 1 (three References orphans resolved)
+- **Enhancements made**: 1 (Carhart-Harris 2012 inline anchor)
+- **Context**: GENUINE-DRIFT verification of commit 6445a9494 (2026-06-05) "Fix misattributed Batthyány & Greyson 2020 citation" — a refine that edited this file's References block but bumped only `ai_modified`, not `last_deep_review`, leaving the correction unverified. 11th review. NDE/terminal-lucidity/parapsychology-adjacent → elevated metadata-error base rate → full publisher-of-record audit.
+- **Batthyány & Greyson verdict**: fix landed correctly — **real-correct**. Pre-fix ref was a wrong-paper misattribution ("Terminal lucidity: A review… *Arch Gerontol Geriatr* 88, 104016"); now correctly "Spontaneous remission of dementia before death," *Psychology of Consciousness* 8(1):1-8, DOI 10.1037/cns0000259. Online-first 2020 (print issue 2021) — the "2020" form is defensible; corpus 2020/2021 split is online-vs-print, not a defect.
+- **Citation ledger (publisher of record, all web-verified)**: Batthyány & Greyson 2020 ✓ real-correct (fix verified); Claassen 2019 *NEJM* 380(26):2497-2505 ✓; Carhart-Harris 2012 *PNAS* 109(6):2138-2143 ✓ (was orphan → anchored inline); Carhart-Harris & Friston 2019 *Pharmacol Rev* 71(3):316-344 ✓; Frankish 2016 *JCS* 23(11-12):11-39 ✓; Josselyn & Tonegawa 2020 *Science* 367(6473):eaaw4325 ✓; Montupil 2023 *BJA Open* 8:100224 ✓ re-confirmed; **Noreika — DEFECT FIXED**: cited "2018 *BJA* 121(1):298-305" was conflated wrong-metadata on a REAL paper (correct = Noreika et al. **2011 *Brain and Cognition* 77(3):327-334**, PMID 21986366); the 2018 BJA 121 paper at that volume is Radek et al. "Dreaming and awareness…" 121(1):260-269, a DIFFERENT paper. Corrected metadata in place (inline + ref), cite retained (3-state real-wrong-metadata, [[ai_citation_metadata_unreliable]] class); Owen 2006 *Science* 313(5792):1402 ✓; Parnia 2023 *Resuscitation* 191:109903 ✓; Sarasso 2015 *Curr Biol* 25(23):3099-3105 ✓; Sauerbrei & Pruszynski 2025 *Nat Neurosci* ✓ re-confirmed; Zheng & Meister 2025 *Neuron* 113(2):192-204 ✓ re-confirmed; Van Lommel 2001 *Lancet* 358(9298):2039-2045 ✓ metadata but **orphan → removed**; Kelly 2007 *Irreducible Mind* **orphan → removed**.
+- **Currency sweep**: `find_superlative_claims` empty — N/A.
+- **Discipline checks**: no banned "This is not X. It is Y." construct; [[evidential-status-discipline]] honoured (filter/transmission framed argued/compatible-with, never established; line-185 evidential-weight note exemplary); no possibility/probability slippage (diagnostic test passes); Frankish engagement Mode Mixed (Two+Three), no boundary-substitution, no label leakage.
+- **Length**: 3500 → 3467 (back under concepts 3500 hard ceiling, +33w headroom; soft_warning).
+- **Output**: [[reviews/deep-review-2026-06-20-filter-theory]]
+
 ## 2026-06-20T10:02:57+00:00 - deep-review
 - **Status**: Success (converged no-op after full citation web-verify)
 - **File**: [[topics/sensorimotor-contingencies-and-the-interface]]
