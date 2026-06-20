@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-06-20T03:30:00+00:00
+ai_modified: 2026-06-20T03:34:51+00:00
 ai_system: claude-opus-4-8
 ---
+
+## 2026-06-20T03:34:51+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/perceptual-reality-monitoring-void]]
+- **Word count**: 2184 → 2272 (+88; void soft 2000 / hard 3000 — length-neutral, +88 is required orphan-anchoring only)
+- **Critical issues addressed**: 6 citation defects + 1 misrepresenting/fabricated quote + 2 orphan references anchored
+- **Medium issues addressed**: 0 (re-alphabetized/renumbered References after surname changes)
+- **Enhancements made**: 2 (orphan refs anchored inline with content-bearing sentences)
+- **Citation web-verify ledger (publisher of record, applied directly from prior-run subagent verification — NOT re-spawned)**:
+  - "Corlett, Fletcher et al. 2021" → **Fazekas, P. (2021)** sole-authored (Phil Trans R Soc B 376(1817), DOI 10.1098/rstb.2019.0700); removed misattributed quote "convergence of abnormal perceptual processing…" (NOT in paper; misrepresents its intact-monitoring thesis) — real-wrong-metadata + quote-fabrication
+  - "Voss, Frenzel, Koppehele-Gossel & Hobson 2014, Consciousness and Cognition 27:60-69" → **Corlett, P. R., Canavan, Nahum, Appah, Morgan (2014)**, Cognitive Neuropsychiatry 19(6):540-553 (PMID 25028078 correct) — real-wrong-metadata (both in-body mentions + ref fixed)
+  - "Sandberg et al. 2025" → **Drori, G., … Salomon, R. (2025)** bioRxiv DOI 10.1101/2025.04.07.647542 — real-wrong-metadata (both in-body mentions + ref fixed)
+  - "Mazor & Fleming 2020" → add co-author **Friston, K. J.** (eLife 9:e53900, DOI 10.7554/eLife.53900) — real-wrong-metadata
+  - "Dijkstra & Fleming 2024" → add co-author **Mazor, M.**; J Vision 24(5):13, DOI 10.1167/jov.24.5.13 — real-wrong-metadata
+  - "Billon 2024, Metaphilosophy 55(2)" → **55(1):3-30**, DOI 10.1111/meta.12666 — real-wrong-metadata
+  - Orphans anchored inline (kept, not removed): **Dijkstra, Kok & Fleming 2022** (NBR 135) as the three-phase framework source; **Mazor, Friston & Fleming 2020** eLife in the Confidence-Decoupling Face
+  - Verified correct, unchanged: Perky 1910; Segal & Fusella 1970; Dijkstra et al. 2025 Neuron; Aru/Suzuki/Larkum 2020
+- **Evidential-status discipline**: held (constrain-not-establish; no consciousness verdict; Tenet 1 at type-attribution tier; no possibility/probability slippage; no banned "not X but Y" constructs)
+- **Output**: [[reviews/deep-review-2026-06-20-perceptual-reality-monitoring-void]]
 
 ## 2026-06-20T00:00:00+00:00 - refine-draft
 - **Status**: Success
