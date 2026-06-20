@@ -245,7 +245,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 4. Frontiers in Quantum Science and Technology. (2024). Quantum phenomena in biological systems. https://www.frontiersin.org/journals/quantum-science-and-technology/articles/10.3389/frqst.2024.1466906/full
 
-5. Georgiev, D. D. (2018). The quantum physics of synaptic communication via the SNARE protein complex. Progress in Biophysics and Molecular Biology, 135, 16-29.
+5. Georgiev, D. D., & Glazebrook, J. F. (2018). The quantum physics of synaptic communication via the SNARE protein complex. Progress in Biophysics and Molecular Biology, 135, 16-29.
 
 6. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. Physics of Life Reviews, 11(1), 39-78.
 

@@ -4,7 +4,7 @@ description: "Selection has propagated quantum-exploiting variants in bird navig
 created: 2026-03-23
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-06-08T07:34:30+00:00
+ai_modified: 2026-06-20T11:40:59+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-03-23
 last_curated:
-last_deep_review: 2026-06-03T21:59:13+00:00
+last_deep_review: 2026-06-20T11:40:59+00:00
 ---
 
 Selection has propagated quantum-exploiting variants in multiple biological systems—avian magnetoreception, enzyme catalysis, and photosynthetic energy transfer. The Unfinishable Map argues that the same evolutionary logic licenses neural quantum effects as a realistic possibility, since the computational payoffs of quantum effects in neural systems could be substantial relative to those in a compass or a faster enzyme. If natural selection retained quantum solutions for navigation and chemistry, the question is not whether it *could* retain them for neural computation, but whether the requisite variation arose under selective pressures strong enough to fix it.
@@ -47,7 +47,7 @@ Three established quantum biological effects demonstrate that selection can prop
 
 **Enzyme catalysis** exploits quantum tunnelling to accelerate hydrogen transfer reactions. Selection has propagated active-site geometries that maximise tunnelling probability through precise control of donor-acceptor distances and vibrational coupling.
 
-**Photosynthetic energy transfer** achieves near-unity efficiency (~99%) in transferring excitation energy to reaction centres. While the role of quantum coherence has been revised downward from early claims, the system indicates that biological architectures can interact with quantum phenomena under physiological conditions, and that variants exploiting such phenomena can be selectively retained.
+**Photosynthetic energy transfer** achieves near-unity efficiency (~99%) in transferring excitation energy to reaction centres. While the role of quantum coherence has been revised downward from the early claims (Engel et al., 2007), the system indicates that biological architectures can interact with quantum phenomena under physiological conditions, and that variants exploiting such phenomena can be selectively retained.
 
 Each case shares a pattern: variants whose biochemistry happened to involve quantum dynamics produced fitness benefits over classical alternatives, and selection propagated the molecular structures that exploit those dynamics. The relevant question is whether neural computation presents problems where quantum effects could offer similar advantages — and the precedent class shows only that the question is open, not that it must be answered affirmatively.
 
@@ -73,7 +73,7 @@ The selective advantage need not be dramatic. Marginal improvements in decision 
 
 ### Signal Amplification at Synapses
 
-Synaptic transmission involves the release of neurotransmitter vesicles — a probabilistic process where small energy differences determine whether a synapse fires. The Beck-Eccles-Georgiev model proposes that quantum tunnelling in SNARE protein complexes controls vesicle release (Georgiev, 2018). If correct — and the model is contested at the empirical-feasibility level — a quantum process would be situated at the most consequential decision point in neural signalling: whether to transmit a signal across a synapse.
+Synaptic transmission involves the release of neurotransmitter vesicles — a probabilistic process where small energy differences determine whether a synapse fires. The Beck-Eccles-Georgiev model proposes that quantum tunnelling in SNARE protein complexes controls vesicle release (Georgiev & Glazebrook, 2018). If correct — and the model is contested at the empirical-feasibility level — a quantum process would be situated at the most consequential decision point in neural signalling: whether to transmit a signal across a synapse.
 
 The location is evolutionarily suggestive. Synaptic transmission is where small differences produce large downstream effects, so variants exploiting quantum sensitivity at this site could face stronger selective pressure than variants exploiting it elsewhere — paralleling the placement of quantum-sensitive cryptochrome proteins in the retina where magnetic field detection produces navigational advantage. This is a structural parallel, not an empirical demonstration; the Beck-Eccles-Georgiev model's premises remain to be empirically discharged.
 
@@ -150,7 +150,7 @@ The evolutionary argument connects to the Map's [[tenets]] at several points:
 
 1. Beck, F., & Eccles, J. C. (1992). Quantum aspects of brain activity and the role of consciousness. *PNAS*, 89(23), 11357-11361.
 2. Engel, G. S., Calhoun, T. R., Read, E. L., et al. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446, 782-786.
-3. Georgiev, D. D. (2018). The quantum physics of synaptic communication via the SNARE protein complex. *Progress in Biophysics and Molecular Biology*, 135, 16-29.
+3. Georgiev, D. D., & Glazebrook, J. F. (2018). The quantum physics of synaptic communication via the SNARE protein complex. *Progress in Biophysics and Molecular Biology*, 135, 16-29.
 4. Hagan, S., Hameroff, S., & Tuszynski, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 5. Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*, 147, 43934-43945.
 6. Qaswal, A. B., Ababneh, O., Khreesha, L., Al-Ani, A., Suleihat, A., & Abbad, M. (2021). Mathematical Modeling of Ion Quantum Tunneling Reveals Novel Properties of Voltage-Gated Channels and Quantum Aspects of Their Pathophysiology in Excitability-Related Disorders. *Pathophysiology*, 28(1), 116-154.
